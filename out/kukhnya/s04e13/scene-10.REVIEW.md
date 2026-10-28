@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, I ask for the attention of all cooks!' German frames this vivid expression on cue: "vnimaniya" means "attention" (from "vnimaniye"), giving the line its exact edge.
-- 'Viktor Petrovich, you arrived at a very good time.' German spotlights one memorable piece in earnest: "vovremya" means "at the right time", and it carries the main weight of what German is saying.
-- 'You will rejoice together with us right now too.' German replies firmly beside Barinov, making his position completely clear.
-- 'An important position was vacant here.' German highlights one key choice toward Katya: "dolzhnost" means "post, job", and it carries the main weight of what German is saying.
-- 'And all of you know about this.' German chooses one sharp detail on cue: "znayete" means "know" (from "znat"), giving the line its exact edge.
-- 'Starting today, our sous-chef is Ekaterina!' German chimes in sharply across the room, saying out loud what both of them already know.
-- 'Thank you very much for your trust!' Katya stresses one loaded touch in earnest: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'Wow, what fast career growth!' German replies openly toward Katya, to clear the air between them once and for all.
-- 'Viktor Petrovich, maybe you will transfer here too?' German checks deadpan in front of Barinov without any preamble.
-- 'You will work harmoniously as a whole family.' German features one practical detail for Katya: "semyoy" means "family" (from "semya"), giving the line its exact edge.
-- 'Especially since Ainura needs a helper right now.' German counters sharply as things stand, keeping the focus on what actually matters here.
-- 'Well then, I wish you good luck!' Barinov counters plainly during the talk, steering the talk right where he wants it.
+- 'All right, I ask for the attention of all cooks!' Touching on the attention before Katya, German leans on "vnimaniya" ("attention", a form of "vnimaniye") to give the remark its edge.
+- 'Viktor Petrovich, you arrived at a very good time.' German continues earnestly without a pause, grounding the moment in plain reality.
+- 'You will rejoice together with us right now too.' German proceeds firmly without any doubt, keeping the focus on what actually matters here.
+- 'An important position was vacant here.' Bringing up the post during the talk, German puts the emphasis on "dolzhnost" ("post, job") in the middle of the talk.
+- 'And all of you know about this.' German chimes in calmly without holding back, letting the remark speak for itself.
+- 'Starting today, our sous-chef is Ekaterina!' German opens up sharply with a smile, leaving no doubt about where he stands.
+- 'Thank you very much for your trust!' Katya naturally directs this word of thanks while facing German using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Wow, what fast career growth!' Addressing the growth before Katya, German lands on "karyernyy" ("climb") as the key everyday word here.
+- 'Viktor Petrovich, maybe you will transfer here too?' German checks deadpan if there is more going on behind the scenes.
+- 'You will work harmoniously as a whole family.' Turning to a whole family during the talk, German lands on "semyoy" ("family", built on "semya") to keep the statement grounded.
+- 'Especially since Ainura needs a helper right now.' Mentioning the assistant on the spot, German puts the emphasis on "pomoshchnik" ("assistant") in the middle of the talk.
+- 'Well then, I wish you good luck!' Barinov counters plainly beside German, before German can change the subject.

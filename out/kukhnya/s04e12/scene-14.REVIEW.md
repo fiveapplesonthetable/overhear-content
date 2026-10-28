@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'At eight o'clock Timur will bring the fish.' Barinov stands firm calmly during the talk, steering the talk right where he wants it.
-- 'So we all need to chip in money.' Barinov fires back calmly with a smile, refusing to let the moment slip past.
-- 'Wait, I think that is our Oguzok over there!' Barinov points to this vivid touch toward Fedya: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Hey, enough fighting, calm down right now!' Senya makes the remark at once: the "-sya" ending on "uspokoysya" ("calm down") turns the action inward or makes it happen between people naturally.
-- 'What a huge brute this guy is!' Fedya follows up lightly without a pause, steering the talk right where he wants it.
-- 'Sasha, get in the front, hold him tight!' Barinov leans on one concrete choice toward Senya: "derzhite" means "hold" (from "derzhat"), giving the line its exact edge.
-- 'Oguzok, what on earth was that?' Barinov phrases this line for Fedya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Sasha asked him to help with her fiancé.' Senya speaks up steadily with a nod, before Fedya can change the subject.
-- 'Wait, does Vika know about this?' Fedya underscores one vivid element at once: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Why did you call us in so early?' Senya delivers the remark plainly here: putting the question word "zachem" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'We wasted so much money for nothing today!' Fedya cuts in warmly in this moment, saying out loud what both of them already know.
-- 'A little later I will go to the pawnshop.' Barinov uses this clear touch at once: "lombard" means "pawnshop", and it carries the main weight of what Barinov is saying.
-- 'I will sell the stones, and we will split the money equally.' Barinov steps in frankly as they talk, letting the remark speak for itself.
-- 'Tell me, does everyone agree with this?' Barinov wonders candidly what Senya is actually getting at here.
+- 'At eight o'clock Timur will bring the fish.' Addressing the clock around Senya, Barinov uses "chasov" ("o'clock", from "chas") to make the point stick.
+- 'So we all need to chip in money.' Barinov jumps in calmly beside Senya, before Senya can change the subject.
+- 'Wait, I think that is our Oguzok over there!' Barinov reacts readily during the talk and centers the thought on "podozhdite" ("wait", from "podozhdat") without wasting a word.
+- 'Hey, enough fighting, calm down right now!' Senya speaks warmly on the spot and uses "khorosh" ("good, nice", from "khoroshiy") to make the point stick.
+- 'What a huge brute this guy is!' Fedya opens up lightly with a shrug, shifting the mood of the conversation in a single beat.
+- 'Sasha, get in the front, hold him tight!' Barinov responds plainly during the talk and uses "derzhite" ("hold", from "derzhat") to make the point stick.
+- 'Oguzok, what on earth was that?' Jumping in firmly around Senya, Barinov drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Sasha asked him to help with her fiancé.' Senya jumps in steadily beside Barinov, refusing to let the moment slip past.
+- 'Wait, does Vika know about this?' Fedya speaks candidly with Senya and puts the weight on "podozhdi" ("wait", from "podozhdat") as the exchange unfolds.
+- 'Why did you call us in so early?' Holding firm calmly right here, Senya puts the question word "zachem" right at the start so Fedya hears the focus immediately.
+- 'We wasted so much money for nothing today!' Fedya chimes in warmly around Senya, grounding the moment in plain reality.
+- 'A little later I will go to the pawnshop.' Mentioning the pawnshop at once, Barinov lands on "lombard" ("pawnshop") as the key everyday word here.
+- 'I will sell the stones, and we will split the money equally.' Bringing up the stone beside Fedya, Barinov chooses "kamni" ("stone, rock", from the root "kamen") so Fedya hears the exact meaning.
+- 'Tell me, does everyone agree with this?' Barinov wonders candidly to see how Fedya will answer on the spot.

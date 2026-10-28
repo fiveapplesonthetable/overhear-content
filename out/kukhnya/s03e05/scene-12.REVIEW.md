@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'At your age do people still watch TV series?' Barinov asks point-blank how Vika expects that to work in practice.
-- 'Vitya, by the way, we have problems.' Vika leans on one familiar element toward Barinov: "problemy" means "problems" (from "problema"), giving the line its exact edge.
-- 'They ordered a molecular banquet for tomorrow.' Vika continues lightly to settle things, letting the remark speak for itself.
-- 'What do I have to do with it, go to Katya.' Barinov opens up openly without holding back, before Vika can change the subject.
-- 'She will already be working at another place.' Vika centers this direct word at once: "drugom" means "different, another" (from "drugoy"), giving the line its exact edge.
-- 'Why is she so quick?' Barinov gives this line frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Vitya, try to persuade her.' Vika reacts right away with a nod, shifting the whole mood of the room in a single beat.
-- 'Let her stay and prepare the banquet.' Vika highlights one sharp expression in reply: "ostanetsya" means "will remain" (from "ostatsya"), giving the line its exact edge.
-- 'I am not going to persuade her.' Barinov jumps in dryly during the talk, letting the remark speak for itself.
-- 'She is a grown person, it is her decision.' Barinov proceeds lightly as things stand, before Vika can change the subject.
-- 'Vitya, and what about our banquet?' Vika centers one sharp term in reply: "banket" means "banquet", and it carries the main weight of what Vika is saying.
-- 'I will do everything great myself.' Barinov sends that line toward Vika: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
-- 'I said I will manage, go and do not bother me.' Barinov follows up calmly in this moment, making his position completely clear.
+- 'At your age do people still watch TV series?' Barinov asks point-blank while looking straight at Vika here.
+- 'Vitya, by the way, we have problems.' Talking about the problems on the spot, Vika chooses "problemy" ("problems", from the root "problema") so Barinov hears the exact meaning.
+- 'They ordered a molecular banquet for tomorrow.' Turning to a molecular banquet right here, Vika uses "molekulyarnyy" ("molecular") to carry the main weight of the thought.
+- 'What do I have to do with it, go to Katya.' Barinov chimes in openly without holding back, before Vika can change the subject.
+- 'She will already be working at another place.' Turning to the place during the talk, Vika brings in "drugom" ("different, another", from "drugoy") as the key Russian word here.
+- 'Why is she so quick?' Reacting plainly in this beat, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Vitya, try to persuade her.' Vika pushes back right away watching Barinov, steering the talk right where she wants it.
+- 'Let her stay and prepare the banquet.' Mentioning the banquet in front of Barinov, Vika uses "ostanetsya" ("will remain", from "ostatsya") to make the point stick.
+- 'I am not going to persuade her.' Barinov counters directly right here and centers the remark on "ugovarivat" ("persuade") without any extra fuss.
+- 'She is a grown person, it is her decision.' Barinov speaks up lightly with a smile, refusing to let the moment slip past.
+- 'Vitya, and what about our banquet?' Underscoring her banquet to Barinov, Vika lands on "banket" ("banquet") as the key everyday word here.
+- 'I will do everything great myself.' Reacting promptly right here, Barinov leans on "otlichno" ("great, excellent"), which carries the whole predicate in Russian without needing "it is".
+- 'I said I will manage, go and do not bother me.' Barinov answers calmly watching Vika, testing Vika's reaction in the middle of the exchange.

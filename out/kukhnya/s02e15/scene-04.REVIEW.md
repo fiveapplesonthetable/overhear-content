@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That was awesome.' Max underscores one telling term in reply: "klassno" means "great, cool", and it carries the main weight of what Max is saying.
-- 'Though a bit scary.' Barinov shares that reply frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Well yeah, it is not like being at home.' Vika pushes back wryly in this moment, letting the remark speak for itself.
-- 'I mean, at home you are not afraid.' Max uses one loaded element right here: "smysle" means "sense" (from "smysl"), giving the line its exact edge.
-- 'Right, exactly.' Barinov shapes the comment for Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Someone might walk in at any moment.' Vika speaks up at once as they talk, grounding the moment in plain reality.
-- 'Max, you are the best!' Barinov emphasizes one memorable expression toward Max: "super" means "super, great", and it carries the main weight of what Barinov is saying.
-- 'How did you know?' Barinov states this update frankly here: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Oh, my name day is coming up soon too.' Vika counters earnestly as they talk, watching Barinov's face to see how the news lands.
-- 'Will you get me a present too?' Max favors one classic word at once: "podarish" means "to give" (from "podarit"), giving the line its exact edge.
-- 'They would not suit me.' Barinov gives the comeback without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Get out of here.' Vika continues calmly with Max, letting the remark speak for itself.
-- 'I am going, thank you.' Max leans on this clear detail for Barinov: "spasibo" means "thank you", and it carries the main weight of what Max is saying.
+- 'That was awesome.' Max jumps in boldly to Barinov and uses "klassno" ("great, cool") to carry the main weight of the thought.
+- 'Though a bit scary.' Reacting briskly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Well yeah, it is not like being at home.' Vika continues wryly without any doubt, grounding the moment in plain reality.
+- 'I mean, at home you are not afraid.' Mentioning the sense in front of Vika, Max reaches for the Russian word "smysle" ("sense", built from "smysl") right at the center of the line.
+- 'Right, exactly.' Reacting readily before Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Someone might walk in at any moment.' Vika fires back at once without holding back, without trying to dress up how she really feels.
+- 'Max, you are the best!' Barinov follows up directly to Max and uses "super" ("super, great") to carry the main weight of the thought.
+- 'How did you know?' Reacting earnestly at once, Barinov puts the question word "kak" right at the start so Vika hears the focus immediately.
+- 'Oh, my name day is coming up soon too.' Vika speaks up earnestly watching Barinov, without trying to dress up how she really feels.
+- 'Will you get me a present too?' Max replies frankly in this beat and brings in "podarish" ("to give", from "podarit") as the key Russian word here.
+- 'They would not suit me.' Leaning in smoothly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Get out of here.' Vika cuts in calmly watching Barinov, steering the talk right where she wants it.
+- 'I am going, thank you.' Max plainly sends this word of thanks for Vika using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

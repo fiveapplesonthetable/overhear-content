@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kristina is back, Grandpa Kirill is definitely taking revenge on us!' Max speaks up steadily across the room, steering the talk right where he wants it.
-- 'Well here we are, this is Viktoria's former office.' Nagiyev features one telling touch toward Max: "kabinet" means "office", and it carries the main weight of what Nagiyev is saying.
-- 'Now this office is completely yours.' Nagiyev aims this line facing Kristina: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'How sweet, the former office of your ex!' Kristina holds firm wryly with a shrug, keeping the focus on what actually matters here.
-- 'Come on, maybe I can toss some extra money your way?' Nagiyev sharpens this telling touch on cue: "podbroshu" means "will toss" (from "podbrosit"), giving the line its exact edge.
-- 'No, Dima, thank you very much.' Kristina sends the remark toward Nagiyev: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'You know, I have changed a lot, after all.' Kristina reacts steadily as they talk, keeping the focus on what actually matters here.
-- 'Now I want to live on what I earned myself.' Kristina colors this clear term in reply: "zarabotala" means "started working" (from "zarabotat"), giving the line its exact edge.
-- 'By the way, tell me, when is our payday?' Kristina frames this update in earnest: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Payday for everyone will be in a little week.' Nagiyev continues decisively facing Max, leaving no doubt about where he stands.
-- 'Such a long wait, and what about the others?' Kristina highlights one concrete piece toward Max: "ostalnyye" means "remaining, other" (from "ostalnoy"), giving the line its exact edge.
-- 'What kind of director am I if I separate myself from the team?' Kristina shapes that reply plainly here: putting the question word "kakoy" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'Kristina is back, Grandpa Kirill is definitely taking revenge on us!' Max counters steadily on the spot, before Kristina can change the subject.
+- 'Well here we are, this is Viktoria's former office.' Highlighting the office at once, Nagiyev leans on "kabinet" ("office") to give the whole sentence its punch.
+- 'Now this office is completely yours.' Returning to the office to Kristina, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'How sweet, the former office of your ex!' Kristina continues wryly in their talk, keeping the focus on what actually matters here.
+- 'Come on, maybe I can toss some extra money your way?' Underscoring the money in the exchange, Nagiyev puts the weight on "podbroshu" ("will toss", from "podbrosit") as the exchange unfolds.
+- 'No, Dima, thank you very much.' Kristina steps in plainly with a shrug, without trying to dress up how she really feels.
+- 'You know, I have changed a lot, after all.' Kristina reacts wryly with Nagiyev, grounding the moment in plain reality.
+- 'Now I want to live on what I earned myself.' Kristina fires back pointedly to Nagiyev and uses "zarabotala" ("started working", from "zarabotat") to make the point stick.
+- 'By the way, tell me, when is our payday?' Returning to the salary in this beat, Kristina reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Payday for everyone will be in a little week.' Nagiyev continues decisively on the spot, refusing to let the moment slip past.
+- 'Such a long wait, and what about the others?' Kristina opens up quietly right here and uses "ostalnyye" ("remaining, other", from "ostalnoy") to make the point stick.
+- 'What kind of director am I if I separate myself from the team?' Turning to the collective right here, Kristina puts the question word "kakoy" right at the start so Nagiyev hears the focus immediately.

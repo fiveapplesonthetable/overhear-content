@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, I will just finish stuffing the dish right now and come out.' Max weighs in evenly to be clear, to clear the air between them once and for all.
-- 'Well done, I knew that you are not a coward.' Fedya points to this telling detail in earnest: "molodets" means "well done, good boy", and it carries the main weight of what Fedya is saying.
-- 'In short, I am waiting for you in the courtyard, Max.' Fedya reaches for this telling detail at once: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
-- 'Listen, we have to do something about this!' Max pushes back openly during the talk, saying out loud what both of them already know.
-- 'There is one excellent French method.' Louis highlights one loaded piece in earnest: "frantsuzskiy" means "French", and it carries the main weight of what Louis is saying.
-- 'You have to give the person a very strong fright.' Louis hands over that line at once: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'And then nobody will hiccup anymore!' Louis fires back warmly without holding back, letting the remark speak for itself.
-- 'A good option, let's try it.' Fedya uses one familiar expression in reply: "khoroshiy" means "good", and it carries the main weight of what Fedya is saying.
-- 'Only if he has a heart attack, you came up with it.' Fedya features one pointed detail at once: "infarkt" means "heart attack", and it carries the main weight of what Fedya is saying.
-- 'Hi, pops, we have already arrived at the restaurant.' Max replies right away watching Louis, refusing to let the moment slip past.
-- 'I brought a couple of friends along with me here.' Max centers this direct choice in reply: "prikhvatil" means "brought along" (from "prikhvatit"), giving the line its exact edge.
-- 'I hope you do not mind at all today?' Max drops the comeback at once: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Alright, I will just finish stuffing the dish right now and come out.' Max steps in evenly hearing Fedya, shifting the mood of the conversation in a single beat.
+- 'Well done, I knew that you are not a coward.' Pointing to a coward in the exchange, Fedya uses "molodets" ("well done, good boy") to carry the main weight of the thought.
+- 'In short, I am waiting for you in the courtyard, Max.' Fedya opens up earnestly toward Max, so Max knows he is not just making small talk.
+- 'Listen, we have to do something about this!' Max reacts openly with a nod, testing Fedya's reaction in the middle of the exchange.
+- 'There is one excellent French method.' Explaining how excellent things are at once, Louis uses "frantsuzskiy" ("French") to carry the main weight of the thought.
+- 'You have to give the person a very strong fright.' Touching on the fright during the talk, Louis leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'And then nobody will hiccup anymore!' Louis speaks up warmly with a smile, before Fedya can change the subject.
+- 'A good option, let's try it.' Bringing up a good option with Louis, Fedya reaches for the Russian word "khoroshiy" ("good") right at the heart of the line.
+- 'Only if he has a heart attack, you came up with it.' Fedya opens up frankly with a shrug, so Max knows he is not just making small talk.
+- 'Hi, pops, we have already arrived at the restaurant.' Max fires back right away beside Fedya, grounding the moment in plain reality.
+- 'I brought a couple of friends along with me here.' Turning to a couple during the talk, Max leans on "prikhvatil" ("brought along", a form of "prikhvatit") to give the remark its edge.
+- 'I hope you do not mind at all today?' Jumping in evenly with Fedya, Max adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.

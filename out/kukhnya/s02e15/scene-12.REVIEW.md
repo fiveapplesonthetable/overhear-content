@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait a second, are you sure that...' Barinov responds honestly as things stand, steering the talk right where he wants it.
-- 'Well, of course.' Kostya picks this clear expression in earnest: "konechno" means "of course", and it carries the main weight of what Kostya is saying.
-- 'Come on, do not be afraid.' Lyova directs this warning on cue: the "-sya" ending on "boysya" ("be afraid") turns the action inward or makes it happen between people naturally.
-- 'I am not afraid at all.' Barinov chimes in bluntly to settle things, so Lyova knows he is not just making small talk.
-- 'Who is in there?' Kostya states this update toward Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Just our kitchen cat.' Lyova lays out this statement with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Otherwise he will spot us.' Barinov pushes back briskly on the spot, watching Kostya's face to see how the news lands.
-- 'You and I need to have a serious talk.' Kostya points to one pointed choice with Lyova: "pogovorit" means "to talk", and it carries the main weight of what Kostya is saying.
-- 'How could you, Lyova?' Barinov delivers that answer to Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Why do you neglect your own mother like that?' Barinov challenges briskly about what Lyova just brought up.
-- 'What do you mean?' Kostya picks one memorable piece in earnest: "smysle" means "sense" (from "smysl"), giving the line its exact edge.
-- 'Are you not ashamed of yourself, Lyova?' Barinov brings this warning frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well, I will take her out sometime.' Barinov counters dryly in their talk, before Kostya can change the subject.
+- 'Wait a second, are you sure that...' Barinov reacts honestly with Kostya, so Kostya knows he is not just making small talk.
+- 'Well, of course.' Kostya politely shares this confirmation for Barinov using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Come on, do not be afraid.' Cutting in promptly on the spot, the "-sya" ending on "boysya" ("be afraid") marks an action that unfolds mutually or turns back on the speaker.
+- 'I am not afraid at all.' Barinov cuts in bluntly with Lyova, testing Lyova's reaction in the middle of the exchange.
+- 'Who is in there?' Weighing in readily at once, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Just our kitchen cat.' Addressing the boy cat during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Otherwise he will spot us.' Barinov answers briskly with a smile, bringing things back to earth after the buildup.
+- 'You and I need to have a serious talk.' Kostya responds firmly in this beat and centers the remark on "pogovorit" ("to talk") without any extra fuss.
+- 'How could you, Lyova?' Weighing in boldly with Lyova, Barinov puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'Why do you neglect your own mother like that?' Barinov challenges briskly whether Kostya really thought this through.
+- 'What do you mean?' Focusing on the sense to Barinov, Kostya brings in "smysle" ("sense", from "smysl") as the key Russian word here.
+- 'Are you not ashamed of yourself, Lyova?' Replying naturally before Lyova, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well, I will take her out sometime.' Barinov replies dryly beside Kostya, keeping the focus on what actually matters here.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastenka, from the bottom of my heart I congratulate you on our anniversary.' Kostya reaches for one clear piece with Barinov: "godovshchinoy" means "anniversary" (from "godovshchina"), giving the line its exact edge.
-- 'May this beauty on the hand forever harmonize with you.' Kostya follows up quietly on the spot, letting the remark speak for itself.
-- 'Thank you, of course, but nobody has ever given me a ring on another woman before.' Mikhail cuts in calmly on the spot, bringing things back to earth after the buildup.
-- 'Forgive me, Nastya, Sveta just thought that Denis bought the ring for her.' Kostya sharpens one loaded choice toward Mikhail: "podumala" means "thought" (from "podumat"), giving the line its exact edge.
-- 'Do not worry, we will go right now and quickly take it off.' Kostya offers this answer without pause: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
-- 'Misha, can you explain how the truth serum got into the common pot?' Barinov asks firmly before Mikhail can change the subject.
-- 'I poured your serum into the pot, and poured water in its place.' Mikhail grounds one direct choice at once: "syvorotku" means "serum" (from "syvorotka"), giving the line its exact edge.
-- 'Misha, why on earth did you do that today?' Barinov gives this statement at once: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Because I really wanted you to lose your money today.' Mikhail holds firm at once during the talk, watching Barinov's face to see how the news lands.
-- 'I hate you, because you betrayed me back then.' Mikhail colors this direct expression in earnest: "nenavizhu" means "hate" (from "nenavidet"), giving the line its exact edge.
-- 'I considered you a friend, and you supported that Nagiyev.' Mikhail focuses on this sharp expression toward Barinov: "podderzhal" means "to support" (from "podderzhat"), giving the line its exact edge.
-- 'Misha, but back then I simply felt sorry for Eleonora.' Barinov follows up frankly around Mikhail, testing Mikhail's reaction in the middle of the exchange.
-- 'That is very noble, but since then I stopped feeling sorry for you!' Mikhail uses one key expression in reply: "blagorodno" means "nobly", and it carries the main weight of what Mikhail is saying.
+- 'Nastenka, from the bottom of my heart I congratulate you on our anniversary.' Mentioning his anniversary in this beat, Kostya lands on "godovshchinoy" ("anniversary", built on "godovshchina") to keep the statement grounded.
+- 'May this beauty on the hand forever harmonize with you.' Discussing the beauty in this beat, Kostya chooses "garmoniruyet" ("harmonizes", from the root "garmonirovat") so Mikhail hears the exact meaning.
+- 'Thank you, of course, but nobody has ever given me a ring on another woman before.' Mikhail responds calmly with a smile, grounding the moment in plain reality.
+- 'Forgive me, Nastya, Sveta just thought that Denis bought the ring for her.' Underscoring the ring to Mikhail, Kostya brings in "koltso" ("ring") to make the meaning unmistakable.
+- 'Do not worry, we will go right now and quickly take it off.' Turning firmly to Barinov, the "-sya" ending on "volnuysya" ("worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'Misha, can you explain how the truth serum got into the common pot?' Barinov asks firmly why things suddenly took this turn between them.
+- 'I poured your serum into the pot, and poured water in its place.' Talking about the serum with Barinov, Mikhail reaches for the Russian word "syvorotku" ("serum", built from "syvorotka") right at the center of the line.
+- 'Misha, why on earth did you do that today?' Weighing in calmly with Mikhail, Barinov drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Because I really wanted you to lose your money today.' Mikhail chimes in at once watching Barinov, steering the talk right where he wants it.
+- 'I hate you, because you betrayed me back then.' Mikhail responds smoothly right here and reaches for the Russian word "nenavizhu" ("hate", built from "nenavidet") right at the center of the line.
+- 'I considered you a friend, and you supported that Nagiyev.' Mikhail counters sharply watching Barinov, shifting the mood of the conversation in a single beat.
+- 'Misha, but back then I simply felt sorry for Eleonora.' Barinov continues frankly with a smile, steering the talk right where he wants it.
+- 'That is very noble, but since then I stopped feeling sorry for you!' Mikhail continues evenly with Barinov and lands on "blagorodno" ("nobly") as the key everyday word here.

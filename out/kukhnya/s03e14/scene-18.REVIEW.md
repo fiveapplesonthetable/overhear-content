@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, let's settle everything peacefully.' The guest proceeds candidly before Barinov, steering the talk right where he wants it.
-- 'Yes, we both lost our temper a bit today.' The guest centers one vivid expression with Max: "pogoryachilis" means "lost our temper" (from "pogoryachitsya"), giving the line its exact edge.
-- 'Because my guys are very hot-tempered.' The guest hands over this update with candor: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Why should we start a huge brawl here, right?' The guest challenges bluntly before Max can change the subject.
-- 'I completely agree, forgive me too.' Max sharpens this key touch at once: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.
-- 'Alright, take care of yourself, brother, and good luck!' The guest offers the thought with ease: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Hey, hero, tell your friends to stay quiet!' The guest responds bluntly before Barinov, so Barinov knows he is not just making small talk.
-- 'What friends of his, we are seeing him for the first time!' Barinov picks one telling word on cue: "pervyy" means "first", and it carries the main weight of what Barinov is saying.
-- 'What do you mean, he said you were with him!' The guest leans on this sharp choice for Barinov: "skazal" means "said" (from "skazat"), giving the line its exact edge.
-- 'Guys, you simply misunderstood me!' Max weighs in plainly facing the guest, before the guest can change the subject.
-- 'What did we misunderstand, come over here right now!' The guest favors one sharp choice at once: "nepravilno" means "wrongly", and it carries the main weight of what the guest is saying.
-- 'Ah, so that is where you are hiding, you scoundrel!' Barinov shapes this point for Max: the "-sya" ending on "pryacheshsya" ("are hiding") turns the action inward or makes it happen between people naturally.
+- 'Guys, let's settle everything peacefully.' The guest counters candidly on the spot, steering the talk right where he wants it.
+- 'Yes, we both lost our temper a bit today.' The guest reacts vividly on the spot and chooses "pogoryachilis" ("lost our temper", from the root "pogoryachitsya") so Max hears the exact meaning.
+- 'Because my guys are very hot-tempered.' Underscoring how sharp things are right here, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Why should we start a huge brawl here, right?' The guest challenges bluntly whether Max really thought this through.
+- 'I completely agree, forgive me too.' Max jumps in plainly on the spot and leans on "soglasen" ("agreed", a form of "soglasnyy") to give the remark its edge.
+- 'Alright, take care of yourself, brother, and good luck!' Mentioning the shore at once, the guest starts with "davay" ("come on, let's") to invite Max right into the action.
+- 'Hey, hero, tell your friends to stay quiet!' The guest answers bluntly without any doubt, testing Barinov's reaction in the middle of the exchange.
+- 'What friends of his, we are seeing him for the first time!' Highlighting how first things are at once, Barinov brings in "pervyy" ("first") to make the meaning unmistakable.
+- 'What do you mean, he said you were with him!' The guest cuts in honestly facing Barinov, letting the remark speak for itself.
+- 'Guys, you simply misunderstood me!' Max speaks up plainly with a smile, keeping the focus on what actually matters here.
+- 'What did we misunderstand, come over here right now!' The guest proceeds sharply to Max and centers the remark on "nepravilno" ("wrongly") without any extra fuss.
+- 'Ah, so that is where you are hiding, you scoundrel!' Turning evenly right here, the "-sya" ending on "pryacheshsya" ("are hiding") marks an action that unfolds mutually or turns back on the speaker.

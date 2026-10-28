@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is in there?' Max hands over the comeback plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What do you mean, meat?' Nagiyev inquires calmly before Max can change the subject.
-- 'Maksim, did you put meat in his food?' Nagiyev grounds this sharp expression for Max: "polozhil" means "laid, put down" (from "polozhit"), giving the line its exact edge.
-- 'He is happy with it, do not get upset.' Nagiyev brings the thought on cue: the "-sya" ending on "rasstraivaysya" ("be upset, worry") turns the action inward or makes it happen between people naturally.
-- 'How could you do that?' Max quizzes plainly why things suddenly took this turn between them.
-- 'If nothing happens...' Nagiyev makes the thought briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I have been waiting for you for an hour already.' Max emphasizes one clear touch in reply: "chas" means "hour", and it carries the main weight of what Max is saying.
-- 'Where have you been wandering?' Nagiyev prompts firmly how Max expects that to work in practice.
-- 'I am sitting inside the walk-in fridge.' Max frames one sharp detail right here: "kholodilnike" means "fridge" (from "kholodilnik"), giving the line its exact edge.
-- 'Oh, it really stinks in there, guys.' Nagiyev offers that answer without fuss: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'First it stinks in there, and then it is freezing cold.' Max steps in wryly in their talk, bringing things back to earth after the buildup.
-- 'So who is she?' Nagiyev sends the reaction on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Oh, let us say so.' Max drops this answer facing Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What is in there?' Holding firm warmly with Nagiyev, Max keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'What do you mean, meat?' Nagiyev inquires calmly about what Max just brought up.
+- 'Maksim, did you put meat in his food?' Addressing the meat in this beat, Nagiyev puts the weight on "polozhil" ("laid, put down", from "polozhit") as the exchange unfolds.
+- 'He is happy with it, do not get upset.' Weighing in directly right here, the "-sya" ending on "rasstraivaysya" ("be upset, worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'How could you do that?' Max quizzes plainly about what Nagiyev just brought up.
+- 'If nothing happens...' Speaking directly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I have been waiting for you for an hour already.' Max chimes in honestly during the talk, testing Nagiyev's reaction in the middle of the exchange.
+- 'Where have you been wandering?' Nagiyev prompts firmly if there is more going on behind the scenes.
+- 'I am sitting inside the walk-in fridge.' Touching on the fridge at once, Max brings in "kholodilnike" ("fridge", from "kholodilnik") as the key Russian word here.
+- 'Oh, it really stinks in there, guys.' Mentioning the boys in the exchange, Nagiyev reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'First it stinks in there, and then it is freezing cold.' Max weighs in wryly toward Nagiyev, letting the remark speak for itself.
+- 'So who is she?' Holding firm readily in the exchange, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Oh, let us say so.' Looking over briskly around Nagiyev, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

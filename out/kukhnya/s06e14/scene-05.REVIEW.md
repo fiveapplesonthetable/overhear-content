@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Help yourselves, please, my mom sent this.' Gulya shapes the comeback facing the guest: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'This is our traditional national homemade dish.' Gulya opens up quietly around Lyova, leaving no doubt about where she stands.
-- 'Tell me, Mom, it tastes very good to you, right?' Lyova points to this vivid word toward the guest: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
-- 'And what kind of tasty meat is this?' The guest voices that point with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'This is real fresh homemade horse meat.' Gulya speaks sharply in this moment, so the guest knows she is not just making small talk.
-- 'Lyova, but this is simply awful!' The guest emphasizes this vivid piece with Lyova: "uzhasno" means "terrible, awful", and it carries the main weight of what the guest is saying.
-- 'Mom, stop it, after all this is their culture.' Lyova opens up firmly beside the guest, grounding the moment in plain reality.
-- 'Tell me, what is going on with you right now?' Gulya prompts sharply before Lyova can change the subject.
-- 'We just practice the German language sometimes.' Lyova features this direct piece on cue: "nemetskiy" means "German", and it carries the main weight of what Lyova is saying.
-- 'Mom, it is very impolite to argue so loudly.' Lyova speaks candidly without any doubt, leaving no doubt about where he stands.
-- 'That is the same as eating a cat.' The guest responds earnestly with a smile, steering the talk right where he wants it.
-- 'I consider this to be real barbarism.' The guest highlights one clear detail right here: "nastoyashcheye" means "real" (from "nastoyashchiy"), giving the line its exact edge.
+- 'Help yourselves, please, my mom sent this.' Turning to the mum to Lyova, the "-sya" ending on "ugoshchaytes" ("help yourselves") marks an action that unfolds mutually or turns back on the speaker.
+- 'This is our traditional national homemade dish.' Gulya cuts in quietly with Lyova, watching Lyova's face to see how the news lands.
+- 'Tell me, Mom, it tastes very good to you, right?' Focusing on the mum during the talk, Lyova leans on "mama" ("mum, mother") to give the whole sentence its punch.
+- 'And what kind of tasty meat is this?' Describing how tasty things are on the spot, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'This is real fresh homemade horse meat.' Gulya replies sharply toward the guest, without trying to dress up how she really feels.
+- 'Lyova, but this is simply awful!' The guest chimes in earnestly right here and reaches for the Russian word "uzhasno" ("terrible, awful") right at the heart of the line.
+- 'Mom, stop it, after all this is their culture.' Talking about the culture on the spot, Lyova brings in "kultura" ("culture") to make the meaning unmistakable.
+- 'Tell me, what is going on with you right now?' Gulya prompts sharply why things suddenly took this turn between them.
+- 'We just practice the German language sometimes.' Underscoring the language during the talk, Lyova lands on "praktikuyem" ("practice", built on "praktikovat") to keep the statement grounded.
+- 'Mom, it is very impolite to argue so loudly.' Emphasizing the mum in front of the guest, Lyova lands on "nekrasivo" ("impolite, not nice") as the key everyday word here.
+- 'That is the same as eating a cat.' The guest responds earnestly beside Lyova, making his position completely clear.
+- 'I consider this to be real barbarism.' Touching on the barbarism beside Lyova, the guest brings in "nastoyashcheye" ("real", from "nastoyashchiy") as the key Russian word here.

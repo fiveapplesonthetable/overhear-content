@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, you and I are together now.' Denis spotlights one sharp piece in reply: "vmeste" means "together", and it carries the main weight of what Denis is saying.
-- 'You fill my life with meaning.' Denis leans on one direct piece in earnest: "napolnyayesh" means "you fill" (from "napolnyat"), giving the line its exact edge.
-- 'Without you I am not myself.' Denis pushes back bluntly with a shrug, making his position completely clear.
-- 'Without you I am nobody.' Denis states that reply with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And I do not want to be anyone else.' Denis proceeds briskly with a shrug, testing Fedya's reaction in the middle of the exchange.
-- 'You are my world.' Denis cuts in pointedly in this moment, keeping the focus on what actually matters here.
-- 'You are my life and my universe.' Denis points to this telling piece on cue: "vselennaya" means "universe", and it carries the main weight of what Denis is saying.
-- 'My dear Katya.' Denis aims the remark without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Will you marry me?' Denis inquires firmly what Fedya is actually getting at here.
-- 'What do you think, will she forgive me?' Denis anchors one colorful element right here: "dumayete" means "think" (from "dumat"), giving the line its exact edge.
-- 'Very cool, she will definitely forgive you.' Senya lays out that point with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And we will help you with that.' Fedya fires back candidly with a shrug, shifting the whole mood of the room in a single beat.
-- 'Pay attention to the balcony above.' Senya leans on one pointed word toward Denis: "obrashchayte" means "to turn, to direct" (from "obrashchat"), giving the line its exact edge.
+- 'Katya, you and I are together now.' Denis steps in firmly in front of Senya and puts the emphasis on "vmeste" ("together") in the middle of the talk.
+- 'You fill my life with meaning.' Denis speaks earnestly watching Senya, shifting the mood of the conversation in a single beat.
+- 'Without you I am not myself.' Denis opens up bluntly without any doubt, testing Senya's reaction in the middle of the exchange.
+- 'Without you I am nobody.' Stepping in openly in the exchange, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And I do not want to be anyone else.' Denis counters briskly without a pause, watching Senya's face to see how the news lands.
+- 'You are my world.' Denis responds pointedly with a nod, watching Senya's face to see how the news lands.
+- 'You are my life and my universe.' Pointing to his universe in the exchange, Denis uses "vselennaya" ("universe") to carry the main weight of the thought.
+- 'My dear Katya.' Reacting evenly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Will you marry me?' Denis inquires firmly while looking straight at Senya here.
+- 'What do you think, will she forgive me?' Denis weighs in briskly around Senya and centers the remark on "prostit" ("will forgive") without any extra fuss.
+- 'Very cool, she will definitely forgive you.' Following up plainly around Denis, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And we will help you with that.' Fedya steps in candidly across the room, grounding the moment in plain reality.
+- 'Pay attention to the balcony above.' Addressing the attention in this beat, Senya centers the thought on "obrashchayte" ("to turn, to direct", from "obrashchat") without wasting a word.

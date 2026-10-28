@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, you must not get nervous at all.' Elena puts the thought briskly now: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Heavy work is forbidden for you right now.' Eleonora speaks up right away as they talk, so Elena knows she is not just making small talk.
-- 'He brought his own team here.' Eleonora favors one classic expression on cue: "komandu" means "team" (from "komanda"), giving the line its exact edge.
-- 'You will handle general supervision.' Eleonora stresses one classic term for Elena: "rukovodstvo" means "leadership", and it carries the main weight of what Eleonora is saying.
-- 'Did he fire all of my cooks?' Barinov prompts frankly if there is more going on behind the scenes.
-- 'Then take away my signature menu!' Barinov anchors one colorful detail toward Eleonora: "avtorskoye" means "auteur, signature" (from "avtorskiy"), giving the line its exact edge.
-- 'And change the name of the restaurant altogether!' Barinov shapes that point without pause: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'He fired the best cooks in Moscow.' Barinov jumps in dryly as they talk, shifting the whole mood of the room in a single beat.
-- 'They cook much better than you.' Barinov highlights one colorful element at once: "gotovyat" means "are preparing" (from "gotovit"), giving the line its exact edge.
-- 'Let us put my guys against yours.' Barinov states this answer facing Eleonora: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'I actually like this idea.' Eleonora stands firm lightly as they talk, keeping the focus on what actually matters here.
-- 'Let us hold a fair duel today.' Eleonora favors one sharp term right here: "poyedinok" means "duel, match", and it carries the main weight of what Eleonora is saying.
+- 'Vitya, you must not get nervous at all.' Opening up quietly in front of Eleonora, Elena adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Heavy work is forbidden for you right now.' Eleonora speaks right away during the talk, keeping the focus on what actually matters here.
+- 'He brought his own team here.' Addressing the team in this beat, Eleonora brings in "komandu" ("team", from "komanda") as the key Russian word here.
+- 'You will handle general supervision.' Eleonora counters briskly with a smile, grounding the moment in plain reality.
+- 'Did he fire all of my cooks?' Barinov prompts frankly to see how Eleonora will answer on the spot.
+- 'Then take away my signature menu!' Emphasizing the menu around Eleonora, Barinov reaches for the Russian word "avtorskoye" ("auteur, signature", built from "avtorskiy") right at the center of the line.
+- 'And change the name of the restaurant altogether!' Checking on the name in front of Eleonora, Barinov drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'He fired the best cooks in Moscow.' Barinov speaks up dryly without any doubt, leaving no doubt about where he stands.
+- 'They cook much better than you.' Barinov speaks calmly with Eleonora and uses "gotovyat" ("are preparing", from "gotovit") to make the point stick.
+- 'Let us put my guys against yours.' Speaking boldly beside Eleonora, Barinov starts with "davay" ("come on, let's") to invite Eleonora right into the action.
+- 'I actually like this idea.' Eleonora steps in lightly during the talk, testing Barinov's reaction in the middle of the exchange.
+- 'Let us hold a fair duel today.' Addressing a fair duel to Barinov, Eleonora reaches for the Russian word "poyedinok" ("duel, match") right at the heart of the line.

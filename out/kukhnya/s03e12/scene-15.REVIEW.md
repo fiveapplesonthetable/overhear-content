@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, did you forget something again?' Max presses deadpan how the hostess expects that to work in practice.
-- 'No, I was just taking out the trash.' Max favors one sharp detail toward Katya: "musor" means "rubbish", and it carries the main weight of what Max is saying.
-- 'Goodbye, young man.' The hostess lays out that line without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Hello, did you forget something again?' Max gently speaks this formal greeting at this moment using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'No, I was just taking out the trash.' Discussing the rubbish to the hostess, Max centers the remark on "musor" ("rubbish") without any extra fuss.
+- 'Goodbye, young man.' The hostess evenly uses this polite farewell without hesitation using "do svidaniya" ("goodbye") — literally "until the next meeting", the standard Russian farewell.
 - 'How am I supposed to understand this?' Max wonders briskly where this conversation is heading next.
-- 'Quiet, this granny lives in the next-door apartment.' Katya picks one concrete term at once: "sosedney" means "neighboring" (from "sosedniy"), giving the line its exact edge.
-- 'And what am I supposed to do now?' Max states the comeback with candor: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'I am telling you, move out of here quickly.' Katya responds quietly watching the hostess, saying out loud what both of them already know.
-- 'Listen, I paid for the first and the last month.' Max focuses on one memorable touch for Katya: "posledniy" means "last", and it carries the main weight of what Max is saying.
-- 'And I left a deposit, I have no money at all.' Max shapes that line for the hostess: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Well and what do you suggest now?' Katya challenges straight out while looking straight at Max here.
-- 'Then let us live here together.' Max highlights one familiar piece with the hostess: "vmeste" means "together", and it carries the main weight of what Max is saying.
-- 'I warned you, alright, let me help.' Katya drops this statement calmly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Quiet, this granny lives in the next-door apartment.' Pointing to the granny before Max, Katya uses "sosedney" ("neighboring", from "sosedniy") to make the point stick.
+- 'And what am I supposed to do now?' Looking over warmly right here, Max puts the question word "chto" right at the start so Katya hears the focus immediately.
+- 'I am telling you, move out of here quickly.' Katya pushes back quietly without holding back, bringing things back to earth after the buildup.
+- 'Listen, I paid for the first and the last month.' Turning to the last month in front of Katya, Max centers the remark on "posledniy" ("last") without any extra fuss.
+- 'And I left a deposit, I have no money at all.' Turning dryly on the spot, Max drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Well and what do you suggest now?' Katya challenges straight out if there is more going on behind the scenes.
+- 'Then let us live here together.' Max pushes back firmly around Katya and reaches for the Russian word "vmeste" ("together") right at the heart of the line.
+- 'I warned you, alright, let me help.' Speaking earnestly in front of Max, Katya starts with "davay" ("come on, let's") to invite Max right into the action.

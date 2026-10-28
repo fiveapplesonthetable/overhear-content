@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could you tell me where to find the bartender?' The guest hands over the remark at once: putting the question word "gde" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Who goes to bars in the morning?' Barinov wonders earnestly while looking straight at Kostya here.
-- 'Not at all, I came to see my son.' The guest points to this sharp piece on cue: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
-- 'He works here as a bartender.' The guest hands over the reaction frankly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Ah, well here is our Konstantin.' Barinov steps in bluntly on the spot, watching the guest's face to see how the news lands.
-- 'Chef, what else do you want from me?' Kostya centers one key piece on cue: "yeshchyo" means "more, still", and it carries the main weight of what Kostya is saying.
-- 'Kostya, you and I did not finish talking.' The guest answers lightly facing Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'You and I have already said everything.' Kostya proceeds bluntly before the guest, to clear the air between them once and for all.
-- 'Children are like a favorite soccer team.' Barinov frames one sharp piece in earnest: "futbolnaya" means "football, soccer" (from "futbolnyy"), giving the line its exact edge.
-- 'You always worry a lot about them.' Barinov favors this vivid detail for Kostya: "perezhivayesh" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'And in return you get complete disappointment.' Barinov jumps in warmly in their talk, saying out loud what both of them already know.
-- 'No, Kostya is not at fault here.' The guest centers this telling piece with Kostya: "vinovat" means "at fault, guilty" (from "vinovatyy"), giving the line its exact edge.
+- 'Could you tell me where to find the bartender?' Holding firm plainly beside Barinov, the guest puts the question word "gde" right at the start so Barinov hears the focus immediately.
+- 'Who goes to bars in the morning?' Barinov wonders earnestly what the guest is actually getting at here.
+- 'Not at all, I came to see my son.' Pointing to his son beside Barinov, the guest puts the weight on "prishyol" ("came, have come", from "priyti") as the exchange unfolds.
+- 'He works here as a bartender.' The guest continues sharply on the spot, bringing things back to earth after the buildup.
+- 'Ah, well here is our Konstantin.' Barinov replies bluntly with a shrug, keeping the focus on what actually matters here.
+- 'Chef, what else do you want from me?' Kostya cuts in sharply right here and reaches for the Russian word "yeshchyo" ("more, still") right at the heart of the line.
+- 'Kostya, you and I did not finish talking.' The guest reacts warmly right here and puts the weight on "dogovorili" ("to finish speaking", from "dogovorit") as the exchange unfolds.
+- 'You and I have already said everything.' Kostya speaks bluntly on the spot, keeping the focus on what actually matters here.
+- 'Children are like a favorite soccer team.' Stressing how favourite things are at once, Barinov puts the weight on "futbolnaya" ("football, soccer", from "futbolnyy") as the exchange unfolds.
+- 'You always worry a lot about them.' Barinov reacts warmly on the spot, to clear the air between them once and for all.
+- 'And in return you get complete disappointment.' Barinov counters warmly with a nod, shifting the mood of the conversation in a single beat.
+- 'No, Kostya is not at fault here.' The guest responds warmly beside Kostya and chooses "vinovat" ("at fault, guilty", from the root "vinovatyy") so Kostya hears the exact meaning.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I tried to warn him.' Lyova fires back openly toward Barinov, steering the talk right where he wants it.
-- 'Get out.' Barinov stresses one loaded word for Mikhail: "poshyol" means "went, set off" (from "poyti"), giving the line its exact edge.
-- 'What kind of nonsense is this?' Barinov shapes this line right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'A new service operates in our hotel.' Mikhail speaks plainly beside Lyova, so Lyova knows he is not just making small talk.
-- 'This is a service for our guests.' Mikhail points to this direct touch for Barinov: "usluga" means "favor, service", and it carries the main weight of what Mikhail is saying.
-- 'You will be able to watch the chef's work.' Mikhail favors one classic expression in reply: "posmotret" means "to look up", and it carries the main weight of what Mikhail is saying.
-- 'This does not interrupt your rest.' Mikhail speaks up honestly on the spot, grounding the moment in plain reality.
-- 'I accept that after breakfast.' Mikhail points to one pointed choice with Lyova: "zavtraka" means "breakfast" (from "zavtrak"), giving the line its exact edge.
-- 'And right now excuse me.' Mikhail aims this statement around Barinov: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'You should introduce a new service.' Barinov reacts wryly watching Mikhail, refusing to let the moment slip past.
-- 'The hotel manager goes straight to the room.' Barinov highlights one classic detail at once: "upravlyayushchiy" means "manager", and it carries the main weight of what Barinov is saying.
-- 'Do not disturb our rest.' Barinov voices that reply briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I tried to warn him.' Lyova steps in openly with Barinov, refusing to let the moment slip past.
+- 'Get out.' Barinov steps in candidly in front of Lyova and centers the thought on "poshyol" ("went, set off", from "poyti") without wasting a word.
+- 'What kind of nonsense is this?' Checking on the trifle with Mikhail, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'A new service operates in our hotel.' Mikhail speaks up plainly in this moment, making his position completely clear.
+- 'This is a service for our guests.' Pointing to the favor right here, Mikhail reaches for the Russian word "usluga" ("favor, service") right at the heart of the line.
+- 'You will be able to watch the chef's work.' Mikhail speaks up calmly with a shrug, to clear the air between them once and for all.
+- 'This does not interrupt your rest.' Mikhail steps in honestly in this moment, watching Barinov's face to see how the news lands.
+- 'I accept that after breakfast.' Pointing to the breakfast in this beat, Mikhail centers the thought on "zavtraka" ("breakfast", from "zavtrak") without wasting a word.
+- 'And right now excuse me.' Mikhail directly drops this informal apology in front of Barinov using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'You should introduce a new service.' Barinov chimes in wryly without any doubt, shifting the mood of the conversation in a single beat.
+- 'The hotel manager goes straight to the room.' Mentioning the hotel manager in the exchange, Barinov brings in "upravlyayushchiy" ("manager") to make the meaning unmistakable.
+- 'Do not disturb our rest.' Mentioning his rest with Mikhail, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

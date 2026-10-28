@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, tell me, why did you call me?' Katya uses this telling expression with Nastya: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
-- 'You need to choose between two guys.' Nastya states that reply before Katya: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'For that we need to make a list of flaws.' Nastya fires back lightly with a smile, making her position completely clear.
-- 'I am not going to occupy myself with such nonsense.' Katya frames one key piece at once: "glupostyu" means "nonsense, foolishness" (from "glupost"), giving the line its exact edge.
-- 'Of course, that is why I put it all together myself.' Nastya counters evenly without any doubt, testing Katya's reaction in the middle of the exchange.
-- 'Here, look closely at this sheet of paper.' Nastya holds firm frankly in this moment, bringing things back to earth after the buildup.
-- 'Denis is flighty and unreliable.' Nastya highlights one clear piece at once: "nenadyozhnyy" means "unreliable", and it carries the main weight of what Nastya is saying.
-- 'Well, one can still live with that.' Katya puts this answer with ease: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Katya, on the other hand this list is very objective.' Nastya proceeds at once without a pause, letting the remark speak for itself.
-- 'Thank you very much for your help, Nastya.' Katya centers one classic choice right here: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'But I will figure everything out myself somehow.' Katya opens up dryly around Nastya, keeping the focus on what actually matters here.
-- 'Mind you do not lose this important sheet of paper.' Nastya weighs in earnestly facing Katya, making her position completely clear.
+- 'Nastya, tell me, why did you call me?' Katya follows up decisively in this beat and reaches for the Russian word "skazhi" ("say", built from "skazat") right at the center of the line.
+- 'You need to choose between two guys.' Bringing up the boyfriend on the spot, Nastya leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'For that we need to make a list of flaws.' Nastya steps in lightly toward Katya, steering the talk right where she wants it.
+- 'I am not going to occupy myself with such nonsense.' Mentioning the nonsense before Nastya, Katya puts the weight on "glupostyu" ("nonsense, foolishness", from "glupost") as the exchange unfolds.
+- 'Of course, that is why I put it all together myself.' Nastya proceeds sharply right here and puts the weight on "sostavila" ("put together", from "sostavit") as the exchange unfolds.
+- 'Here, look closely at this sheet of paper.' Nastya responds frankly hearing Katya, grounding the moment in plain reality.
+- 'Denis is flighty and unreliable.' Explaining how fickle things are beside Katya, Nastya chooses "nenadyozhnyy" ("unreliable") so Katya gets the point right away.
+- 'Well, one can still live with that.' Cutting in naturally to Nastya, Katya leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Katya, on the other hand this list is very objective.' Addressing the list watching Katya, Nastya keeps Katya's attention locked on what matters.
+- 'Thank you very much for your help, Nastya.' Turning to the thank beside Nastya, Katya uses "bolshoye" ("big, very much", from "bolshoy") to make the point stick.
+- 'But I will figure everything out myself somehow.' Katya cuts in evenly in front of Nastya and leans on "kak-nibud" ("somehow") to give the whole sentence its punch.
+- 'Mind you do not lose this important sheet of paper.' Nastya replies earnestly in this moment, leaving no doubt about where she stands.

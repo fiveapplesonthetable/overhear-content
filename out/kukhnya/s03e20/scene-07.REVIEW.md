@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No need for any options, I can spend the night at the train station.' Max spotlights this sharp detail with Barinov: "variantov" means "options" (from "variant"), giving the line its exact edge.
-- 'Fine, he will stay at my place until your wedding.' Vika gives this point with warmth: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'And right after the wedding you will take him to your place.' Vika speaks up pointedly on the spot, watching Barinov's face to see how the news lands.
-- 'Of course we will take him! Thank you very much, Doctor!' Max emphasizes this direct touch right here: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'Good evening, Sergey! May I come in?' Barinov drops that point briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Sergey, we need to calmly clear up our situation.' Barinov follows up quietly during the talk, watching Vika's face to see how the news lands.
-- 'Some misunderstanding happened between us today.' Barinov anchors this key touch toward Max: "nedoponimaniye" means "misunderstanding", and it carries the main weight of what Barinov is saying.
-- 'Oh, my fault, I accidentally dropped my cork.' Barinov jumps in wryly without any doubt, bringing things back to earth after the buildup.
-- 'The situation between us really does need to be cleared up right away.' Max cuts in earnestly with a nod, making his position completely clear.
-- 'First, to you I am not Sergey, but Sergey Vladimirovich.' Max uses one vivid detail with Vika: "vo-pervykh" means "first of all", and it carries the main weight of what Max is saying.
-- 'And second, I never drink with subordinates.' Max hands over this statement with warmth: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Try not to be late for work tomorrow morning.' Max speaks steadily across the room, grounding the moment in plain reality.
+- 'No need for any options, I can spend the night at the train station.' Discussing the options beside Vika, Max reaches for the Russian word "variantov" ("options", built from "variant") right at the center of the line.
+- 'Fine, he will stay at my place until your wedding.' Vika steps in promptly in this moment, watching Max's face to see how the news lands.
+- 'And right after the wedding you will take him to your place.' Vika proceeds pointedly without holding back, steering the talk right where she wants it.
+- 'Of course we will take him! Thank you very much, Doctor!' Highlighting the thank before Vika, Max puts the weight on "bolshoye" ("big, very much", from "bolshoy") as the exchange unfolds.
+- 'Good evening, Sergey! May I come in?' Replying quietly with Max, Barinov keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Sergey, we need to calmly clear up our situation.' Barinov pushes back quietly around Max, bringing things back to earth after the buildup.
+- 'Some misunderstanding happened between us today.' Emphasizing the misunderstanding with Max, Barinov puts the emphasis on "nedoponimaniye" ("misunderstanding") in the middle of the talk.
+- 'Oh, my fault, I accidentally dropped my cork.' Addressing the traffic jam with Max, Barinov centers the thought on "vinovat" ("at fault, guilty", from "vinovatyy") without wasting a word.
+- 'The situation between us really does need to be cleared up right away.' Max cuts in earnestly across the room, leaving no doubt about where he stands.
+- 'First, to you I am not Sergey, but Sergey Vladimirovich.' Max cuts in briskly with Barinov and puts the emphasis on "vo-pervykh" ("first of all") in the middle of the talk.
+- 'And second, I never drink with subordinates.' Touching on the subordinates before Barinov, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Try not to be late for work tomorrow morning.' Max fires back steadily hearing Barinov, making his position completely clear.

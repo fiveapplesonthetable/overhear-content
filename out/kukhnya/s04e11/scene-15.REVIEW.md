@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, how is your ear for music?' Denis challenges sharply to see how Kostya will answer on the spot.
-- 'So, our plan is very simple.' Denis stresses one practical choice with Lyova: "prostoy" means "simple, ordinary", and it carries the main weight of what Denis is saying.
-- 'You seat Nagiyev right here.' Denis sharpens one memorable piece toward Kostya: "sazhayesh" means "to seat, place" (from "sazhat"), giving the line its exact edge.
-- 'From here the names of all the wines are visible to me.' Denis jumps in earnestly in this moment, letting the remark speak for itself.
-- 'If I play this melody right here...' Denis grounds this vivid piece on cue: "melodiyu" means "melody" (from "melodiya"), giving the line its exact edge.
-- 'That means this wine is French.' Denis lays out this line for Lyova: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And this music is Spanish wine!' Kostya steps in wryly hearing Denis, making his position completely clear.
-- 'Great, you got it all, well done!' Denis picks one classic word in earnest: "molodets" means "well done, good boy", and it carries the main weight of what Denis is saying.
-- 'Chef, I am very proud of you.' Lyova directs the thought toward Denis: the "-sya" ending on "gorzhus" ("to be proud") turns the action inward or makes it happen between people naturally.
-- 'You did not just seal a hole in the wall.' Lyova reacts decisively with a smile, to clear the air between them once and for all.
-- 'From this moment a new life begins.' Lyova emphasizes this clear element on cue: "nachinayetsya" means "begins" (from "nachinatsya"), giving the line its exact edge.
-- 'This is all thanks to you, Lyova.' Kostya shares that answer right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Go on home in peace, see you tomorrow.' Kostya responds candidly with Denis, shifting the whole mood of the room in a single beat.
+- 'Kostya, how is your ear for music?' Denis challenges sharply while looking straight at Kostya here.
+- 'So, our plan is very simple.' Emphasizing how simple things are during the talk, Denis puts the emphasis on "prostoy" ("simple, ordinary") in the middle of the talk.
+- 'You seat Nagiyev right here.' Denis weighs in decisively toward Kostya, watching Kostya's face to see how the news lands.
+- 'From here the names of all the wines are visible to me.' Denis counters earnestly in their talk, letting the remark speak for itself.
+- 'If I play this melody right here...' Addressing the melody before Kostya, Denis reaches for the Russian word "melodiyu" ("melody", built from "melodiya") right at the center of the line.
+- 'That means this wine is French.' Discussing the wine on the spot, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And this music is Spanish wine!' Kostya fires back wryly across the room, without trying to dress up how he really feels.
+- 'Great, you got it all, well done!' Denis responds frankly in this beat and reaches for the Russian word "molodets" ("well done, good boy") right at the heart of the line.
+- 'Chef, I am very proud of you.' Pushing back quietly during the talk, the "-sya" ending on "gorzhus" ("to be proud") marks an action that unfolds mutually or turns back on the speaker.
+- 'You did not just seal a hole in the wall.' Lyova answers decisively in their talk, steering the talk right where he wants it.
+- 'From this moment a new life begins.' Underscoring the moment at once, Lyova reaches for the Russian word "nachinayetsya" ("begins", built from "nachinatsya") right at the center of the line.
+- 'This is all thanks to you, Lyova.' Following up dryly to Lyova, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Go on home in peace, see you tomorrow.' Kostya answers candidly across the room, to clear the air between them once and for all.

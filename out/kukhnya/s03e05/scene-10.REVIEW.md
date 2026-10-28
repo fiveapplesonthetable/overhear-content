@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, I will definitely get in touch with you.' Katya emphasizes one vivid piece at once: "obyazatelno" means "surely, without fail", and it carries the main weight of what Katya is saying.
-- 'Perhaps I will eat something else.' The guest proceeds right away in their talk, saying out loud what both of them already know.
-- 'What a divine taste, bravo!' The guest reacts briskly with a shrug, saying out loud what both of them already know.
-- 'Thank you very much, eat to your health.' Katya leans on one loaded expression right here: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'Do you already consider yourself the head chef?' Barinov lays out this update with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
-- 'Well, that is not me, that is the guests.' Katya pushes back steadily watching the guest, to clear the air between them once and for all.
-- 'By the way, I must inform you of something.' Katya favors this key term at once: "soobshchit" means "inform, report", and it carries the main weight of what Katya is saying.
-- 'They offered me a job at a new restaurant.' Katya speaks up frankly to settle things, refusing to let the moment slip past.
-- 'Is that so, and what did you answer?' Barinov probes skeptically before the guest can change the subject.
-- 'And what do you think, what should I do?' Katya uses this vivid touch toward the guest: "dumayesh" means "think" (from "dumat"), giving the line its exact edge.
-- 'I do not know, Katya, it is your business.' Barinov stresses this clear element toward the guest: "delo" means "matter", and it carries the main weight of what Barinov is saying.
-- 'It is only your personal choice.' Barinov holds firm firmly beside Katya, without trying to dress up how he really feels.
+- 'Thank you, I will definitely get in touch with you.' Highlighting the thank with the guest, Katya uses "obyazatelno" ("surely, without fail") to carry the main weight of the thought.
+- 'Perhaps I will eat something else.' The guest speaks briskly beside Katya and puts the emphasis on "yeshchyo" ("more, still") in the middle of the talk.
+- 'What a divine taste, bravo!' The guest opens up briskly with a smile, letting the remark speak for itself.
+- 'Thank you very much, eat to your health.' Addressing the thank to the guest, Katya reaches for the Russian word "bolshoye" ("big, very much", built from "bolshoy") right at the center of the line.
+- 'Do you already consider yourself the head chef?' Jumping in directly beside Katya, Barinov keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Well, that is not me, that is the guests.' Katya responds steadily without any doubt, to clear the air between them once and for all.
+- 'By the way, I must inform you of something.' Katya weighs in readily with Barinov and leans on "dolzhna" ("should, must", a form of "dolzhen") to give the remark its edge.
+- 'They offered me a job at a new restaurant.' Touching on a new restaurant at once, Katya reaches for the Russian word "restorane" ("restaurant", built from "restoran") right at the center of the line.
+- 'Is that so, and what did you answer?' Barinov probes skeptically where this conversation is heading next.
+- 'And what do you think, what should I do?' Stepping in boldly in front of Barinov, Katya puts the question word "kak" right at the start so Barinov hears the focus immediately.
+- 'I do not know, Katya, it is your business.' Barinov steps in steadily watching Katya, to clear the air between them once and for all.
+- 'It is only your personal choice.' Barinov answers firmly across the room, steering the talk right where he wants it.

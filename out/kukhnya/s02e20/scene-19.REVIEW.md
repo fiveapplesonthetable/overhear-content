@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, why is he singing about Nastya?' Max reaches for this telling term toward Barinov: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'The bride's name is supposed to be Katya.' Barinov sends this line to Nastya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Will you marry me?' Nastya probes openly in front of Barinov without any preamble.
-- 'Onward to fun contests and charades.' Max stresses one vivid word with Nastya: "konkursam" means "contest, competition" (from "konkurs"), giving the line its exact edge.
-- 'Do we actually have any fun contests and charades?' Barinov puts this statement calmly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'None that are fun.' Nastya replies bluntly across the room, testing Max's reaction in the middle of the exchange.
-- 'Let us all have a drink instead.' Max leans on one telling choice with Barinov: "davayte" means "let's" (from "davat"), giving the line its exact edge.
-- 'Do you not want to thank Max for today?' Barinov brings that remark toward Nastya: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Yes, Chef, Oguzok was a real champion today.' Nastya replies promptly with Barinov, leaving no doubt about where she stands.
-- 'Thank you, Oguzok.' Max grounds this clear term in earnest: "spasibo" means "thank you", and it carries the main weight of what Max is saying.
-- 'Does that mean you have forgiven me?' Barinov directs that line at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Can I come back to work?' Nastya tests briskly where this conversation is heading next.
-- 'I already told you, I will not take you back.' Max sharpens one concrete detail at once: "obratno" means "back", and it carries the main weight of what Max is saying.
+- 'Wait, why is he singing about Nastya?' Max follows up quietly in the exchange and lands on "ponyal" ("understood", built on "ponyat") to keep the statement grounded.
+- 'The bride's name is supposed to be Katya.' Dwelling on the bride beside Max, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Will you marry me?' Nastya probes openly what Barinov is actually getting at here.
+- 'Onward to fun contests and charades.' Mentioning the contest on the spot, Max reaches for the Russian word "konkursam" ("contest, competition", built from "konkurs") right at the center of the line.
+- 'Do we actually have any fun contests and charades?' Checking on the contest with Nastya, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'None that are fun.' Nastya counters bluntly watching Barinov, grounding the moment in plain reality.
+- 'Let us all have a drink instead.' Max follows up warmly in front of Nastya and puts the weight on "davayte" ("let's", from "davat") as the exchange unfolds.
+- 'Do you not want to thank Max for today?' Stepping in naturally around Max, Barinov keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Yes, Chef, Oguzok was a real champion today.' Nastya speaks up promptly with a sigh, steering the talk right where she wants it.
+- 'Thank you, Oguzok.' Max gently drops this word of thanks in front of Nastya using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Does that mean you have forgiven me?' Cutting in plainly with Nastya, Barinov keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Can I come back to work?' Nastya tests briskly before Max can change the subject.
+- 'I already told you, I will not take you back.' Max speaks up dryly during the talk and brings in "vozmu" ("will get", from "vzyat") as the key Russian word here.

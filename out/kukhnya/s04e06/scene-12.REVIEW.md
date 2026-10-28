@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is a good thing I forgot to take out the trash yesterday!' Max follows up earnestly as things stand, steering the talk right where he wants it.
-- 'A little sleight of hand, and the bottle is full again!' Max focuses on one direct piece with Elena: "butylka" means "bottle", and it carries the main weight of what Max is saying.
-- 'As soon as a good chef left, the lamb is not the same.' Barinov answers plainly as things stand, without trying to dress up how he really feels.
-- 'Vitya, will you reveal your secret to me now?' Elena challenges candidly how Max expects that to work in practice.
-- 'What did you want to talk with me about so badly?' Elena points to this key choice toward Barinov: "pogovorit" means "to talk", and it carries the main weight of what Elena is saying.
-- 'Lena, let's order a tasty dessert first.' Barinov voices the reaction without pause: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Bring a light bouchee pastry for my lady.' Barinov speaks up firmly with a nod, grounding the moment in plain reality.
-- 'But after all that pastry takes an eternity to make!' Elena favors this telling touch toward Max: "pirozhnoye" means "pastries, cakes", and it carries the main weight of what Elena is saying.
-- 'We are not rushing anywhere and will wait calmly.' Barinov gives that point without fuss: the "-sya" ending on "toropimsya" ("are hurrying") turns the action inward or makes it happen between people naturally.
-- 'Denis, the chef ordered a bouchee pastry for the dining room.' Max steps in at once to be clear, grounding the moment in plain reality.
-- 'It is not in the fridge, they bake it to order!' Max emphasizes one vivid piece with Barinov: "kholodilnike" means "fridge" (from "kholodilnik"), giving the line its exact edge.
-- 'Oh, it seems there is something wrong with my stomach.' Barinov voices this point to Max: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Excuse me, Lena, I will be right back.' Barinov continues boldly in this moment, before Elena can change the subject.
+- 'It is a good thing I forgot to take out the trash yesterday!' Max follows up earnestly with a smile, to clear the air between them once and for all.
+- 'A little sleight of hand, and the bottle is full again!' Turning to the bottle on the spot, Max puts the emphasis on "butylka" ("bottle") in the middle of the talk.
+- 'As soon as a good chef left, the lamb is not the same.' Describing how good things are in this beat, Barinov chooses "khoroshemu" ("good", from the root "khoroshiy") so Max hears the exact meaning.
+- 'Vitya, will you reveal your secret to me now?' Elena challenges candidly if there is more going on behind the scenes.
+- 'What did you want to talk with me about so badly?' Elena answers quietly on the spot and uses "pogovorit" ("to talk") to carry the main weight of the thought.
+- 'Lena, let's order a tasty dessert first.' Touching on a tasty dessert before Elena, Barinov starts with "davay" ("come on, let's") to invite Elena right into the action.
+- 'Bring a light bouchee pastry for my lady.' Barinov speaks up firmly without any doubt, so Elena knows he is not just making small talk.
+- 'But after all that pastry takes an eternity to make!' Discussing the pastries beside Barinov, Elena centers the remark on "pirozhnoye" ("pastries, cakes") without any extra fuss.
+- 'We are not rushing anywhere and will wait calmly.' Weighing in quietly around Elena, the "-sya" ending on "toropimsya" ("are hurrying") marks an action that unfolds mutually or turns back on the speaker.
+- 'Denis, the chef ordered a bouchee pastry for the dining room.' Max counters at once without holding back, grounding the moment in plain reality.
+- 'It is not in the fridge, they bake it to order!' Highlighting the fridge with Barinov, Max centers the thought on "kholodilnike" ("fridge", from "kholodilnik") without wasting a word.
+- 'Oh, it seems there is something wrong with my stomach.' Barinov follows up boldly with a sigh, testing Max's reaction in the middle of the exchange.
+- 'Excuse me, Lena, I will be right back.' Barinov answers boldly around Max, testing Max's reaction in the middle of the exchange.

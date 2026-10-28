@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, will you cover for me tonight?' Sasha inquires quietly in front of Kostya without any preamble.
-- 'I need to meet my mom at the airport.' Sasha colors one memorable term right here: "aeroportu" means "airport" (from "aeroport"), giving the line its exact edge.
-- 'Of course, I will cover for you, do not worry.' Kostya centers one key element for Nastya: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'Thank you very much for the help, my friend!' Sasha reacts calmly on the spot, refusing to let the moment slip past.
-- 'I will gladly help you out today.' Kostya highlights one clear touch in reply: "udovolstviyem" means "pleasure" (from "udovolstviye"), giving the line its exact edge.
-- 'Kostya, are we going home right now or what?' Nastya directs this warning without pause: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Nastya, here is the situation with us.' Kostya follows up evenly facing Nastya, to clear the air between them once and for all.
-- 'Sasha asked me to cover for him tonight.' Kostya reaches for one colorful term on cue: "poprosil" means "asked" (from "poprosit"), giving the line its exact edge.
-- 'You go on home, and I will stay here.' Kostya underscores one loaded piece in reply: "poyezzhay" means "drive, go" (from "poyezzhat"), giving the line its exact edge.
-- 'Mind you behave yourself carefully here, okay?' Nastya asks sharply how Sasha expects that to work in practice.
-- 'Remember that I am waiting for you at home.' Nastya frames one classic expression in earnest: "pomni" means "remember" (from "pomnit"), giving the line its exact edge.
-- 'Do not worry, in the morning I will come straight home.' Kostya drops that reply for Sasha: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
+- 'Kostya, will you cover for me tonight?' Sasha inquires quietly to see how Kostya will answer on the spot.
+- 'I need to meet my mom at the airport.' Pointing to the airport at once, Sasha centers the thought on "aeroportu" ("airport", from "aeroport") without wasting a word.
+- 'Of course, I will cover for you, do not worry.' Kostya gently chooses this confirmation at the start of the beat using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Thank you very much for the help, my friend!' Sasha continues calmly without holding back, testing Kostya's reaction in the middle of the exchange.
+- 'I will gladly help you out today.' Mentioning the pleasure beside Sasha, Kostya centers the thought on "udovolstviyem" ("pleasure", from "udovolstviye") without wasting a word.
+- 'Kostya, are we going home right now or what?' Holding firm warmly before Kostya, Nastya puts the question word "kak" right at the start so Kostya hears the focus immediately.
+- 'Nastya, here is the situation with us.' Focusing on the matter with a smile, Kostya keeps Nastya's attention locked on what matters.
+- 'Sasha asked me to cover for him tonight.' Touching on the night with Sasha, Kostya puts the weight on "nochyu" ("night", from "noch") as the exchange unfolds.
+- 'You go on home, and I will stay here.' Kostya fires back bluntly facing Nastya, before Nastya can change the subject.
+- 'Mind you behave yourself carefully here, okay?' Nastya asks sharply how Kostya expects that to work in practice.
+- 'Remember that I am waiting for you at home.' Nastya reacts briskly beside Kostya and lands on "pomni" ("remember", built on "pomnit") to keep the statement grounded.
+- 'Do not worry, in the morning I will come straight home.' Following up briskly in this beat, the "-sya" ending on "volnuysya" ("worry") marks an action that unfolds mutually or turns back on the speaker.

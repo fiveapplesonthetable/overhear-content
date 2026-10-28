@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Darn it.' Max phrases the comeback for Nastya: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'She really is ideal after all.' Max stands firm calmly in their talk, grounding the moment in plain reality.
-- 'Max, are you at it again?' Vika frames one pointed choice with Max: "opyat" means "again", and it carries the main weight of what Vika is saying.
-- 'I asked you not to shave with my razor.' Vika reaches for one telling expression in earnest: "stankom" means "razor" (from "stank"), giving the line its exact edge.
-- 'Mom, why are you standing there? Come in.' Nastya asks eagerly while looking straight at Max here.
-- 'Mom has arrived.' Nastya reaches for one familiar detail in earnest: "priyekhala" means "came, arrived" (from "priyekhat"), giving the line its exact edge.
-- 'Hello there.' Max states this answer in earnest: opening with the casual greeting "privet" ("hi") signals right away that Max and Nastya are on familiar terms.
-- 'Stepan Andreyevich got sick, so he can't come home.' Nastya speaks up briskly without a pause, shifting the whole mood of the room in a single beat.
-- 'I will stay with you for a while.' Nastya uses one vivid piece toward Max: "pozhivu" means "to live for a while" (from "pozhit"), giving the line its exact edge.
-- 'I will help out.' Nastya lays out that line without fuss: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'Mom will hear us.' Nastya speaks decisively facing Max, steering the talk right where she wants it.
-- 'She has been asleep for a long time.' Max focuses on one loaded piece for Vika: "davno" means "for a long time", and it carries the main weight of what Max is saying.
+- 'Darn it.' Discussing the darn to Vika, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'She really is ideal after all.' Max jumps in calmly across the room, watching Vika's face to see how the news lands.
+- 'Max, are you at it again?' Pressing on quietly in the exchange, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I asked you not to shave with my razor.' Vika reacts sharply hearing Nastya, grounding the moment in plain reality.
+- 'Mom, why are you standing there? Come in.' Nastya asks eagerly how Vika expects that to work in practice.
+- 'Mom has arrived.' Touching on the mum around Max, Nastya centers the thought on "priyekhala" ("came, arrived", from "priyekhat") without wasting a word.
+- 'Hello there.' Max briskly voices this casual greeting in one quick breath using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Stepan Andreyevich got sick, so he can't come home.' Nastya weighs in briskly toward Max, leaving no doubt about where she stands.
+- 'I will stay with you for a while.' Nastya chimes in warmly with Max and lands on "pozhivu" ("to live for a while", built on "pozhit") to keep the statement grounded.
+- 'I will help out.' Answering warmly with Max, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'Mom will hear us.' Nastya jumps in decisively on the spot, letting the remark speak for itself.
+- 'She has been asleep for a long time.' Max steps in earnestly at once and chooses "davno" ("for a long time") so Nastya gets the point right away.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, how did the sous-chef's first day go?' Vika reaches for this clear touch for Denis: "su-shefa" means "sous-chef" (from "su-shef"), giving the line its exact edge.
-- 'German asked me to fire one cook.' Max speaks sharply watching Vika, letting the remark speak for itself.
-- 'But I simply could not fire him.' Max chimes in decisively around Denis, bringing things back to earth after the buildup.
-- 'It is not at all necessary to fire a person directly.' Vika picks this key element right here: "obyazatelno" means "surely, without fail", and it carries the main weight of what Vika is saying.
-- 'I heard the neighbors need cooks right now.' Vika counters bluntly watching Denis, saying out loud what both of them already know.
-- 'Are you suggesting getting him hired by our competitors?' Max checks evenly if there is more going on behind the scenes.
-- 'Vika, you are a real genius!' Max emphasizes this vivid expression in earnest: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Max is saying.
-- 'By the way, his mom sent Denis good money.' Max brings this update without fuss: opening with "kstati" ("by the way") lets Max drop a new detail into the conversation as if it just crossed his mind.
-- 'Already tomorrow he will move out of our place.' Max continues pointedly without holding back, saying out loud what both of them already know.
-- 'What a great mom he has after all!' Vika picks one familiar word in earnest: "molodets" means "well done, good boy", and it carries the main weight of what Vika is saying.
-- 'Folks, did I interrupt you here?' Denis gives the comeback toward Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Enjoy your bath, go to sleep quickly.' Max reacts decisively around Vika, saying out loud what both of them already know.
+- 'Tell me, how did the sous-chef's first day go?' Vika steps in openly to Max and centers the thought on "su-shefa" ("sous-chef", from "su-shef") without wasting a word.
+- 'German asked me to fire one cook.' Discussing the cook to Vika, Max leans on "povara" ("cook", a form of "povar") to give the remark its edge.
+- 'But I simply could not fire him.' Max chimes in decisively watching Vika, to clear the air between them once and for all.
+- 'It is not at all necessary to fire a person directly.' Focusing on a person around Max, Vika uses "obyazatelno" ("surely, without fail") to carry the main weight of the thought.
+- 'I heard the neighbors need cooks right now.' Mentioning the neighbour during the talk, Vika leans on "sosedyam" ("neighbour", a form of "sosed") to give the remark its edge.
+- 'Are you suggesting getting him hired by our competitors?' Max checks evenly what Vika is actually getting at here.
+- 'Vika, you are a real genius!' Explaining how real Vika is right here, Max brings in "nastoyashchiy" ("real, genuine") to make the meaning unmistakable.
+- 'By the way, his mom sent Denis good money.' Talking about the mum in front of Denis, Max opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'Already tomorrow he will move out of our place.' Max answers pointedly without holding back, shifting the mood of the conversation in a single beat.
+- 'What a great mom he has after all!' Pointing to the mum with Max, Vika brings in "molodets" ("well done, good boy") to make the meaning unmistakable.
+- 'Folks, did I interrupt you here?' Leaning in quietly on the spot, Denis keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Enjoy your bath, go to sleep quickly.' Max follows up decisively during the talk, leaving no doubt about where he stands.

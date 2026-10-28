@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If Spartak wins, I am buying beer for everyone!' Barinov weighs in candidly facing Mikhail, grounding the moment in plain reality.
-- 'He has been owing me a bottle of whiskey for half a year.' Mikhail follows up bluntly without any doubt, before Barinov can change the subject.
-- 'And I am constantly looking out for your health.' Barinov chooses one familiar piece in earnest: "zdorovye" means "health", and it carries the main weight of what Barinov is saying.
-- 'Thank you, of course, Vitya, for such concern.' Mikhail shapes that line at once: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'But if I were in your place I would not worry.' Mikhail replies openly in their talk, grounding the moment in plain reality.
-- 'Let's test that right now!' Mikhail highlights one memorable detail toward Barinov: "proverim" means "we will check" (from "proverit"), giving the line its exact edge.
-- 'Bet you that I will drink three glasses of beer faster?' Mikhail shapes this answer at once: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'What are you and I betting on right now?' Barinov checks sharply why things suddenly took this turn between them.
-- 'If you win, I will give you a case of whiskey.' Mikhail uses this telling detail with Barinov: "vyigrayesh" means "will win" (from "vyigrat"), giving the line its exact edge.
-- 'And if I win, you will hand over the ticket!' Mikhail features this sharp term toward Barinov: "vyigrayu" means "will win" (from "vyigrat"), giving the line its exact edge.
-- 'Fine, but do not touch the other person's glasses with your hands!' Barinov weighs in steadily in their talk, to clear the air between them once and for all.
-- 'Alright, well then, is everyone ready? Let's go!' Mikhail centers one sharp term with Barinov: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
+- 'If Spartak wins, I am buying beer for everyone!' Discussing the beer in front of Mikhail, Barinov uses "vyigrayet" ("will win", from "vyigrat") to make the point stick.
+- 'He has been owing me a bottle of whiskey for half a year.' Mikhail reacts bluntly without a pause, making his position completely clear.
+- 'And I am constantly looking out for your health.' Addressing the health with Mikhail, Barinov uses "zdorovye" ("health") to carry the main weight of the thought.
+- 'Thank you, of course, Vitya, for such concern.' Talking about the thank on the spot, Mikhail lets Barinov see exactly where things stand.
+- 'But if I were in your place I would not worry.' Mikhail fires back openly without holding back, keeping the focus on what actually matters here.
+- 'Let's test that right now!' Mikhail opens up briskly in front of Barinov and leans on "proverim" ("we will check", a form of "proverit") to give the remark its edge.
+- 'Bet you that I will drink three glasses of beer faster?' Turning to the wine glass around Barinov, Mikhail puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'What are you and I betting on right now?' Barinov checks sharply whether Mikhail really thought this through.
+- 'If you win, I will give you a case of whiskey.' Touching on the box in this beat, Mikhail leans on "yashchik" ("box, crate") to give the whole sentence its punch.
+- 'And if I win, you will hand over the ticket!' Mikhail reacts calmly without any doubt, shifting the mood of the conversation in a single beat.
+- 'Fine, but do not touch the other person's glasses with your hands!' Barinov fires back steadily with a nod, making his position completely clear.
+- 'Alright, well then, is everyone ready? Let's go!' Underscoring how ready things are to Barinov, Mikhail centers the thought on "gotovy" ("ready", from "gotovyy") without wasting a word.

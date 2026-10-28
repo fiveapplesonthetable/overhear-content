@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's agree right away that nothing happened.' Katya offers the comment with ease: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'We just fell asleep and just woke up.' Katya follows up briskly as things stand, testing Max's reaction in the middle of the exchange.
-- 'You came to me with a bottle and got me drunk.' Katya highlights one pointed detail in reply: "butylkoy" means "bottle" (from "butylka"), giving the line its exact edge.
-- 'And where is my shirt right now?' Max aims this statement in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You know where my clothes are.' Max continues wryly during the talk, steering the talk right where he wants it.
-- 'Even a button on the shirt was torn off.' Max leans on this key choice for Katya: "pugovitsa" means "button", and it carries the main weight of what Max is saying.
-- 'Listen, I honestly do not remember anything.' Katya brings this answer calmly now: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Yeah, I do not remember either.' Max speaks up warmly watching Katya, shifting the whole mood of the room in a single beat.
-- 'How did we get so wasted from one bottle?' Katya grounds this key word in reply: "butylki" means "bottle" (from "butylka"), giving the line its exact edge.
-- 'We could not have from just one.' Max follows up sharply across the room, bringing things back to earth after the buildup.
-- 'But from three, easily.' Max reacts pointedly with a nod, without trying to dress up how he really feels.
-- 'Where did we get hold of them?' Katya features this telling detail toward Max: "dostali" means "have driven crazy" (from "dostat"), giving the line its exact edge.
-- 'They do not sell alcohol at night.' Max chimes in bluntly across the room, saying out loud what both of them already know.
+- 'Let's agree right away that nothing happened.' Jumping in promptly with Max, Katya starts with "davay" ("come on, let's") to invite Max right into the action.
+- 'We just fell asleep and just woke up.' Katya responds briskly hearing Max, letting the remark speak for itself.
+- 'You came to me with a bottle and got me drunk.' Touching on a bottle in this beat, Katya puts the weight on "butylkoy" ("bottle", from "butylka") as the exchange unfolds.
+- 'And where is my shirt right now?' Focusing on his shirt in the exchange, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You know where my clothes are.' Max responds wryly beside Katya, before Katya can change the subject.
+- 'Even a button on the shirt was torn off.' Talking about a button on the spot, Max uses "pugovitsa" ("button") to carry the main weight of the thought.
+- 'Listen, I honestly do not remember anything.' Holding firm boldly around Max, Katya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Yeah, I do not remember either.' Max speaks up warmly without a pause, to clear the air between them once and for all.
+- 'How did we get so wasted from one bottle?' Discussing the bottle with Max, Katya brings in "butylki" ("bottle", from "butylka") as the key Russian word here.
+- 'We could not have from just one.' Max pushes back sharply in their talk, letting the remark speak for itself.
+- 'But from three, easily.' Max reacts pointedly with a nod, before Katya can change the subject.
+- 'Where did we get hold of them?' Katya chimes in decisively beside Max and centers the thought on "dostali" ("have driven crazy", from "dostat") without wasting a word.
+- 'They do not sell alcohol at night.' Focusing on the shop in this beat, Max chooses "magazine" ("shop", from the root "magazin") so Katya hears the exact meaning.

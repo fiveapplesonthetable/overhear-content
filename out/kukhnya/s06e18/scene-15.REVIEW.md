@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, guys, let us work now.' Senya counters at once hearing Eleonora, keeping the focus on what actually matters here.
-- 'Alright, I congratulate you on the victory.' Fedya focuses on one classic expression with Senya: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
-- 'Oh, I suddenly felt sick.' Senya offers this warning before Eleonora: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
-- 'Is that from your nerves?' Fedya inquires openly as Senya tries to explain the situation.
-- 'This is such a fair fight, right?' Fedya centers one vivid word on cue: "chestnaya" means "an honest one" (from "chestnyy"), giving the line its exact edge.
-- 'Timur, where were you even looking?' Fedya aims that thought toward Senya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'All around there is nothing but corruption!' Fedya proceeds right away as things stand, grounding the moment in plain reality.
-- 'Who brought a horse into the hotel?' Eleonora grounds this clear element right here: "loshad" means "horse", and it carries the main weight of what Eleonora is saying.
-- 'Forgive me, I tied her up tightly.' Senya offers that remark beside Eleonora: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
-- 'But she came untied and ran away.' Senya weighs in calmly with Fedya, watching Fedya's face to see how the news lands.
-- 'She rushes around and bites the guests!' Eleonora picks one concrete detail in earnest: "nositsya" means "rushes around", and it carries the main weight of what Eleonora is saying.
-- 'There will be no more such incidents.' Senya continues briskly in this moment, keeping the focus on what actually matters here.
+- 'Thank you, guys, let us work now.' Senya simply extends this word of thanks as they meet using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Alright, I congratulate you on the victory.' Fedya firmly voices this word of agreement with Senya using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Oh, I suddenly felt sick.' Senya replies pointedly in front of Fedya and chooses "plokho" ("badly") so Fedya gets the point right away.
+- 'Is that from your nerves?' Fedya inquires openly whether Senya really thought this through.
+- 'This is such a fair fight, right?' Turning to the struggle on the spot, Fedya puts the weight on "chestnaya" ("an honest one", from "chestnyy") as the exchange unfolds.
+- 'Timur, where were you even looking?' Opening up calmly around Eleonora, Fedya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'All around there is nothing but corruption!' Discussing the corruption with a shrug, Fedya speaks plainly so Eleonora gets the message at once.
+- 'Who brought a horse into the hotel?' Talking about a horse in front of Senya, Eleonora centers the remark on "loshad" ("horse") without any extra fuss.
+- 'Forgive me, I tied her up tightly.' Senya lightly chooses this formal apology to Eleonora using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.
+- 'But she came untied and ran away.' Senya weighs in calmly facing Eleonora, so Eleonora knows he is not just making small talk.
+- 'She rushes around and bites the guests!' Focusing on the guests before Senya, Eleonora uses "gostey" ("guests", from "gost") to make the point stick.
+- 'There will be no more such incidents.' Focusing on the incidents before Eleonora, Senya centers the thought on "intsidentov" ("incidents", from "intsident") without wasting a word.

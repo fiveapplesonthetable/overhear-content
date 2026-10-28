@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, respected Dmitry Vladimirovich.' Turning back with honesty, Elena puts the real issue right on the table for Nagiyev.
-- 'Lena, I simply did not know!' Nagiyev uses one key term right here: "prosto" means "just", and it carries the main weight of what Nagiyev is saying.
-- 'I did not know that this was your dish.' Nagiyev emphasizes one practical piece in earnest: "blyudo" means "dish", and it carries the main weight of what Nagiyev is saying.
-- 'But after all, that is the point of your contest.' Elena speaks wryly during the talk, before Nagiyev can change the subject.
-- 'It is nothing serious, anything happens in life.' Elena favors this telling expression with Nagiyev: "strashnogo" means "terrible, serious" (from "strashnyy"), giving the line its exact edge.
-- 'I am truly very sorry, Elena Pavlovna.' Nagiyev offers this answer in earnest: the single Russian word "zhal" ("it is a pity") sets up the whole statement without needing a separate word for "it is".
-- 'You are a wonderful and very talented chef.' Nagiyev continues quietly as things stand, without trying to dress up how he really feels.
-- 'Friends, let's support our contestant!' Nagiyev reaches for this key detail right here: "uchastnitsu" means "contestant" (from "uchastnitsa"), giving the line its exact edge.
-- 'Definitely come back to us next year.' Nagiyev holds firm right away as they talk, saying out loud what both of them already know.
-- 'Thank you very much to you and all the viewers.' Elena steps in honestly without holding back, before Nagiyev can change the subject.
-- 'I wish you great luck in everything!' Nagiyev underscores one vivid word right here: "bolshoy" means "big", and it carries the main weight of what Nagiyev is saying.
-- 'Goodbye, all the very best to you.' Elena highlights one classic term on cue: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
+- 'Hello, respected Dmitry Vladimirovich.' Elena quietly offers this formal greeting right on cue using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Lena, I simply did not know!' Reacting directly during the talk, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I did not know that this was your dish.' Nagiyev chimes in pointedly beside Elena, without trying to dress up how he really feels.
+- 'But after all, that is the point of your contest.' Elena proceeds wryly with a sigh, keeping the focus on what actually matters here.
+- 'It is nothing serious, anything happens in life.' Highlighting how terrible things are beside Nagiyev, Elena reaches for the Russian word "strashnogo" ("terrible, serious", built from "strashnyy") right at the center of the line.
+- 'I am truly very sorry, Elena Pavlovna.' Touching on the honestly with Elena, Nagiyev leans on "zhal" ("it is a pity"), which carries the whole predicate in Russian without needing "it is".
+- 'You are a wonderful and very talented chef.' Nagiyev reacts quietly hearing Elena, without trying to dress up how he really feels.
+- 'Friends, let's support our contestant!' Bringing up his contestant on the spot, Nagiyev brings in "uchastnitsu" ("contestant", from "uchastnitsa") as the key Russian word here.
+- 'Definitely come back to us next year.' Nagiyev counters firmly in this beat and centers the thought on "sleduyushchem" ("next", from "sleduyushchiy") without wasting a word.
+- 'Thank you very much to you and all the viewers.' Elena proceeds honestly in their talk, grounding the moment in plain reality.
+- 'I wish you great luck in everything!' Emphasizing the luck with Elena, Nagiyev chooses "bolshoy" ("big") so Elena gets the point right away.
+- 'Goodbye, all the very best to you.' Elena pushes back steadily without holding back, to clear the air between them once and for all.

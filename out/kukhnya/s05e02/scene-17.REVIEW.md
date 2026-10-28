@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And here is our dear guest.' Barinov frames that answer with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We brought you hot coffee.' Barinov steps in pointedly with a smile, making his position completely clear.
-- 'Here you go, here is your finest coffee.' Mikhail highlights one familiar touch on cue: "luchshiy" means "best", and it carries the main weight of what Mikhail is saying.
-- 'I do not understand, what is going on here?' The guest frames that line in earnest: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
-- 'What are you doing, what is with you?' The guest wonders openly as Barinov tries to explain the situation.
-- 'Have you completely lost your minds?' The guest colors one classic choice on cue: "sovsem" means "at all", and it carries the main weight of what the guest is saying.
-- 'Drink up your delicious coffee!' Barinov voices that line right away: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'And here is our dear guest.' Underscoring how dear things are at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We brought you hot coffee.' Barinov speaks pointedly without a pause, making his position completely clear.
+- 'Here you go, here is your finest coffee.' Mikhail simply speaks this courtesy word while facing Barinov using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'I do not understand, what is going on here?' Holding firm openly around Mikhail, the guest puts the question word "chto" right at the start so Mikhail hears the focus immediately.
+- 'What are you doing, what is with you?' The guest wonders openly about what Barinov just brought up.
+- 'Have you completely lost your minds?' Focusing on the mind beside Barinov, the guest brings in "sovsem" ("at all") to make the meaning unmistakable.
+- 'Drink up your delicious coffee!' Mentioning the coffee during the talk, Barinov starts with "davay" ("come on, let's") to invite the guest right into the action.
 - 'What are you allowing yourselves here?' The guest presses deadpan why things suddenly took this turn between them.
-- 'Vitya, let him breathe a little.' Mikhail chooses one loaded detail on cue: "nemnogo" means "a bit", and it carries the main weight of what Mikhail is saying.
-- 'Wait, let him breathe calmly.' Mikhail speaks evenly with a smile, steering the talk right where he wants it.
-- 'And where did all the coffee go?' Barinov presses earnestly where this conversation is heading next.
-- 'Hold that clever inspector!' Barinov features one clear element in earnest: "khitrogo" means "cunning, sly" (from "khitryy"), giving the line its exact edge.
+- 'Vitya, let him breathe a little.' Mikhail responds candidly in front of the guest and uses "nemnogo" ("a bit") to carry the main weight of the thought.
+- 'Wait, let him breathe calmly.' Mikhail continues sharply beside Barinov and chooses "podozhdi" ("wait", from the root "podozhdat") so Barinov hears the exact meaning.
+- 'And where did all the coffee go?' Barinov presses earnestly why things suddenly took this turn between them.
+- 'Hold that clever inspector!' Highlighting the inspector in the exchange, Barinov centers the thought on "khitrogo" ("cunning, sly", from "khitryy") without wasting a word.

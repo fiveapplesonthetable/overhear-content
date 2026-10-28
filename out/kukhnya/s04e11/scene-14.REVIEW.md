@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, maybe that is enough already, huh?' Lyova phrases that line without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'I do not understand what you are trying to achieve.' Lyova stands firm evenly around Nastya, to clear the air between them once and for all.
-- 'This does not bring you any pleasure, after all.' Lyova picks this sharp expression on cue: "udovolstviya" means "pleasure" (from "udovolstviye"), giving the line its exact edge.
-- 'This is red wine, Nastya.' Kostya lays out that line without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And is that all that you know?' Nastya questions earnestly before Kostya can change the subject.
-- 'I said as much as you poured.' Kostya features this telling piece in reply: "nalila" means "to pour" (from "nalit"), giving the line its exact edge.
-- 'You have to name the year and the country.' Nastya underscores this direct word in reply: "dolzhen" means "has to, must", and it carries the main weight of what Nastya is saying.
-- 'Nastya, you started all this in vain.' Kostya proceeds at once to settle things, grounding the moment in plain reality.
-- 'I will mess up in front of him again.' Kostya sharpens this clear word with Lyova: "oshibus" means "to make a mistake" (from "oshibitsya"), giving the line its exact edge.
-- 'And Nagiyev will fine me again.' Kostya steps in boldly with a sigh, refusing to let the moment slip past.
-- 'In your opinion, do I think about our family in vain?' Nastya wonders promptly to see how Kostya will answer on the spot.
-- 'Well, that is not at all what I meant to say.' Kostya sharpens one classic detail for Nastya: "sovsem" means "at all", and it carries the main weight of what Kostya is saying.
+- 'Chef, maybe that is enough already, huh?' Pressing on frankly beside Kostya, Lyova keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'I do not understand what you are trying to achieve.' Lyova jumps in evenly without a pause, to clear the air between them once and for all.
+- 'This does not bring you any pleasure, after all.' Emphasizing the pleasure in the exchange, Lyova centers the thought on "udovolstviya" ("pleasure", from "udovolstviye") without wasting a word.
+- 'This is red wine, Nastya.' Discussing the wine in front of Nastya, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And is that all that you know?' Nastya questions earnestly whether Kostya really thought this through.
+- 'I said as much as you poured.' Kostya speaks up firmly beside Nastya and leans on "nalila" ("to pour", a form of "nalit") to give the remark its edge.
+- 'You have to name the year and the country.' Nastya proceeds quietly toward Kostya, bringing things back to earth after the buildup.
+- 'Nastya, you started all this in vain.' Kostya weighs in at once beside Nastya, bringing things back to earth after the buildup.
+- 'I will mess up in front of him again.' Kostya pushes back smoothly to Nastya and brings in "oshibus" ("to make a mistake", from "oshibitsya") as the key Russian word here.
+- 'And Nagiyev will fine me again.' Kostya fires back calmly beside Nastya and centers the thought on "oshtrafuyet" ("to fine, penalize", from "oshtrafovat") without wasting a word.
+- 'In your opinion, do I think about our family in vain?' Nastya wonders promptly how Kostya expects that to work in practice.
+- 'Well, that is not at all what I meant to say.' Kostya steps in naturally beside Nastya and leans on "sovsem" ("at all") to give the whole sentence its punch.

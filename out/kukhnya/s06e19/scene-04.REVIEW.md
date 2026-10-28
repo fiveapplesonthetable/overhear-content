@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, how did you get in here?' Katya colors one familiar term right here: "popal" means "hit" (from "popast"), giving the line its exact edge.
-- 'I wanted to talk with you.' Denis steps in frankly without any doubt, making his position completely clear.
-- 'Before the wedding you must not see me.' Katya holds firm frankly hearing Denis, steering the talk right where she wants it.
-- 'I am allowed, I am not the groom.' Denis points to this sharp word in earnest: "zhenikh" means "groom, fiancé", and it carries the main weight of what Denis is saying.
-- 'I came to ask your forgiveness.' Denis gives that reply without pause: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'I am not angry with you.' Katya fires back sharply with a smile, saying out loud what both of them already know.
-- 'All of that is already in the past.' Katya grounds one vivid element right here: "proshlom" means "last, past" (from "proshlyy"), giving the line its exact edge.
-- 'Let us leave here together today.' Denis drops that point right away: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'We will start our life over.' Denis stands firm evenly before Katya, to clear the air between them once and for all.
-- 'And where will we go?' Katya leans on one colorful touch at once: "poyedem" means "will be off" (from "poyekhat"), giving the line its exact edge.
-- 'Anywhere at all, choose for yourself.' Denis opens up earnestly with a shrug, refusing to let the moment slip past.
-- 'Believe me, right now it is not too late.' Denis pushes back warmly to settle things, steering the talk right where he wants it.
+- 'Denis, how did you get in here?' Katya proceeds earnestly on the spot and lands on "popal" ("hit", built on "popast") to keep the statement grounded.
+- 'I wanted to talk with you.' Denis follows up openly in front of Katya and lands on "pogovorit" ("to talk") as the key everyday word here.
+- 'Before the wedding you must not see me.' Katya cuts in frankly beside Denis, so Denis knows she is not just making small talk.
+- 'I am allowed, I am not the groom.' Focusing on the groom beside Katya, Denis leans on "zhenikh" ("groom, fiancé") to give the whole sentence its punch.
+- 'I came to ask your forgiveness.' Dwelling on the forgiveness during the talk, Denis uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'I am not angry with you.' Katya jumps in sharply facing Denis, steering the talk right where she wants it.
+- 'All of that is already in the past.' Showing how last things are on the spot, Katya chooses "proshlom" ("last, past", from the root "proshlyy") so Denis hears the exact meaning.
+- 'Let us leave here together today.' Holding firm boldly in this beat, Denis starts with "davay" ("come on, let's") to invite Katya right into the action.
+- 'We will start our life over.' Denis jumps in evenly in this moment, watching Katya's face to see how the news lands.
+- 'And where will we go?' Katya speaks pointedly with Denis and centers the thought on "poyedem" ("will be off", from "poyekhat") without wasting a word.
+- 'Anywhere at all, choose for yourself.' Denis follows up promptly during the talk and reaches for the Russian word "vybiray" ("to choose, select", built from "vybirat") right at the center of the line.
+- 'Believe me, right now it is not too late.' Denis chimes in warmly facing Katya, without trying to dress up how he really feels.

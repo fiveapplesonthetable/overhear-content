@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How may I help you?' Barinov offers that reply plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Tomorrow my boss will be having dinner at your restaurant.' Vika continues at once on the spot, saying out loud what both of them already know.
-- 'Yes, the very one.' Barinov leans on this clear term right here: "samyy" means "the most", and it carries the main weight of what Barinov is saying.
-- 'The very one? Really?' Vika hands over this warning around Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'That is a great honor for us.' Barinov steps in promptly without holding back, to clear the air between them once and for all.
-- 'It is a great honor for any restaurant.' Vika centers this direct touch on cue: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'Where is your kitchen in here?' Barinov hands over that line for Vika: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Unfortunately, Viktor Petrovich is very busy right now.' Vika answers pointedly to be clear, steering the talk right where she wants it.
-- 'Perhaps I can help you with something instead?' Barinov picks one clear piece at once: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'All right, no big deal.' Vika lays out that reply with warmth: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'I will figure something out.' Barinov pushes back firmly with a sigh, keeping the focus on what actually matters here.
-- 'Thank you.' Vika focuses on one telling expression toward Barinov: "spasibo" means "thank you", and it carries the main weight of what Vika is saying.
-- 'Goodbye.' Barinov voices the reply frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'How may I help you?' Pressing on candidly with Vika, Barinov keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Tomorrow my boss will be having dinner at your restaurant.' Vika follows up at once during the talk, watching Barinov's face to see how the news lands.
+- 'Yes, the very one.' Barinov replies plainly to Vika and puts the emphasis on "samyy" ("the most") in the middle of the talk.
+- 'The very one? Really?' Jumping in briskly on the spot, Vika keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'That is a great honor for us.' Barinov speaks promptly watching Vika, without trying to dress up how he really feels.
+- 'It is a great honor for any restaurant.' Highlighting the restaurant during the talk, Vika centers the thought on "restorana" ("restaurant", from "restoran") without wasting a word.
+- 'Where is your kitchen in here?' Following up briskly right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Unfortunately, Viktor Petrovich is very busy right now.' Vika cuts in pointedly on the spot, letting the remark speak for itself.
+- 'Perhaps I can help you with something instead?' Barinov jumps in plainly in the exchange and uses "pomoch" ("to help") to carry the main weight of the thought.
+- 'All right, no big deal.' Vika firmly sends this word of agreement to Barinov using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'I will figure something out.' Barinov answers firmly with a shrug, to clear the air between them once and for all.
+- 'Thank you.' Vika plainly delivers this word of thanks right on cue using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Goodbye.' Barinov plainly chooses this polite farewell right on cue using "do svidaniya" ("goodbye") — literally "until the next meeting", the standard Russian farewell.

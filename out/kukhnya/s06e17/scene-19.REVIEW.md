@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, do not look at me like that.' Barinov grounds one practical choice in earnest: "smotri" means "look" (from "smotret"), giving the line its exact edge.
-- 'You must not be overfed so much.' Barinov makes that thought beside the inspector: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'A Michelin inspector has come to see you.' Fedya answers warmly with a smile, steering the talk right where he wants it.
-- 'Hello, respected Viktor Petrovich.' The inspector stresses one loaded touch toward Fedya: "uvazhayemyy" means "respected, esteemed", and it carries the main weight of what the inspector is saying.
-- 'My name is Alexey Smolin.' The inspector puts that line with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I am inspecting your restaurant today.' The inspector counters briskly without any doubt, without trying to dress up how he really feels.
-- 'Is everything alright with you right now?' The inspector highlights this clear expression at once: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Yes, it is just so unexpected.' Barinov gives that thought plainly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Hello, it is very nice to meet you.' The inspector reacts calmly beside Barinov, keeping the focus on what actually matters here.
-- 'Call an ambulance here!' The inspector underscores one memorable detail on cue: "pomoshch" means "help", and it carries the main weight of what the inspector is saying.
-- 'Chef, I will bring you to your senses!' Fedya picks one pointed expression in reply: "chuvstvo" means "feeling, emotion", and it carries the main weight of what Fedya is saying.
-- 'Stop, do not touch him right now!' The inspector follows up honestly with Fedya, refusing to let the moment slip past.
+- 'Well, do not look at me like that.' Barinov proceeds sharply without any doubt, watching Fedya's face to see how the news lands.
+- 'You must not be overfed so much.' Cutting in openly in this beat, Barinov leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'A Michelin inspector has come to see you.' Fedya responds warmly in this moment, grounding the moment in plain reality.
+- 'Hello, respected Viktor Petrovich.' The inspector politely speaks this formal greeting while facing Barinov using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'My name is Alexey Smolin.' Turning plainly beside Fedya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I am inspecting your restaurant today.' The inspector steps in briskly without holding back, refusing to let the moment slip past.
+- 'Is everything alright with you right now?' Bringing up the order at once, the inspector centers the thought on "poryadke" ("order", from "poryadok") without wasting a word.
+- 'Yes, it is just so unexpected.' Holding firm plainly before the inspector, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Hello, it is very nice to meet you.' The inspector simply extends this formal greeting without hesitation using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Call an ambulance here!' Emphasizing the help to Fedya, the inspector reaches for the Russian word "pomoshch" ("help") right at the heart of the line.
+- 'Chef, I will bring you to your senses!' Fedya cuts in dryly in their talk, so Barinov knows he is not just making small talk.
+- 'Stop, do not touch him right now!' The inspector follows up honestly hearing Fedya, keeping the focus on what actually matters here.

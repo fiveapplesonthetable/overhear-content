@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Although what kind of restaurant is this, anyway?' Max stresses this telling word in earnest: "restoran" means "restaurant", and it carries the main weight of what Max is saying.
-- 'Naked men running through the dining room.' Vika proceeds wryly toward Max, making her position completely clear.
-- 'Why were you juggling salads out in the dining room?' Kostya presses deadpan in front of Max without any preamble.
-- 'You red-headed clown.' Max stresses one practical touch toward Vika: "ryzhiy" means "red-haired", and it carries the main weight of what Max is saying.
-- 'That means you are working without a bonus this month.' Vika chimes in right away before Kostya, watching Kostya's face to see how the news lands.
-- 'Did everyone hear that?' Kostya questions openly whether Vika really thought this through.
-- 'Right, Vika?' Max phrases that line without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'My guests are going to walk out.' Vika shapes that line without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'What a madhouse.' Kostya fires back firmly on the spot, before Max can change the subject.
-- 'Kostyan, I had to get back at him.' Max underscores this direct piece toward Vika: "dolzhen" means "has to, must", and it carries the main weight of what Max is saying.
-- 'Oh, stop whining.' Vika brings the thought frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Although what kind of restaurant is this, anyway?' Mentioning the restaurant beside Vika, Max centers the remark on "restoran" ("restaurant") without any extra fuss.
+- 'Naked men running through the dining room.' Pointing to the lads around Max, Vika centers the thought on "muzhiki" ("lads, guys", from "muzhik") without wasting a word.
+- 'Why were you juggling salads out in the dining room?' Kostya presses deadpan to see how Max will answer on the spot.
+- 'You red-headed clown.' Mentioning the clown during the talk, Max lands on "ryzhiy" ("red-haired") as the key everyday word here.
+- 'That means you are working without a bonus this month.' Emphasizing the month right here, Vika puts the weight on "mesyatse" ("month", from "mesyats") as the exchange unfolds.
+- 'Did everyone hear that?' Kostya questions openly before Max can change the subject.
+- 'Right, Vika?' Max evenly uses this direct affirmation as they meet using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'My guests are going to walk out.' Reacting plainly at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'What a madhouse.' Kostya steps in firmly with a sigh, to clear the air between them once and for all.
+- 'Kostyan, I had to get back at him.' Max responds boldly before Kostya and centers the remark on "dolzhen" ("has to, must") without any extra fuss.
+- 'Oh, stop whining.' Holding firm calmly in front of Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
 - 'Did you kill them?' Kostya prompts briskly while looking straight at Vika here.
-- 'Max, you had better leave.' Vika anchors one telling word right here: "luchshe" means "better", and it carries the main weight of what Vika is saying.
+- 'Max, you had better leave.' Vika steps in frankly at once and centers the remark on "luchshe" ("better") without any extra fuss.

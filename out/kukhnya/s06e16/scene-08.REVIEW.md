@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So this is your future wife?' The guest sends the comment to Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'She really looks wonderful today.' The guest holds firm pointedly with Kostya, steering the talk right where he wants it.
-- 'You Russians have very complicated last names.' The guest leans on one concrete expression on cue: "slozhnyye" means "complicated" (from "slozhnyy"), giving the line its exact edge.
-- 'My Elena will simply be very happy.' Barinov shapes this statement for Kostya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Thank you, when will she come for a fitting?' The guest prompts promptly as Barinov tries to explain the situation.
-- 'Unfortunately, she will not be able to come herself.' Barinov frames this clear piece toward Kostya: "sozhaleniyu" means "regret" (from "sozhaleniye"), giving the line its exact edge.
-- 'She is very busy every day right now.' Barinov sends the reply without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'She has constant concerts and filming.' Barinov responds openly with a sigh, watching Kostya's face to see how the news lands.
-- 'But I will definitely think of something today.' Barinov stresses one telling touch on cue: "obyazatelno" means "surely, without fail", and it carries the main weight of what Barinov is saying.
-- 'Miss, you have had enough to drink today.' Kostya grounds one classic word for the guest: "devushka" means "girlfriend", and it carries the main weight of what Kostya is saying.
-- 'Do not worry about me, Kostya.' The guest counters steadily watching Barinov, making his position completely clear.
-- 'I know how much I can drink.' The guest centers one loaded word with Kostya: "mozhno" means "may, can", and it carries the main weight of what the guest is saying.
+- 'So this is your future wife?' Describing how future things are in this beat, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'She really looks wonderful today.' The guest answers pointedly with a smile, letting the remark speak for itself.
+- 'You Russians have very complicated last names.' Addressing the surname during the talk, the guest leans on "slozhnyye" ("complicated", a form of "slozhnyy") to give the remark its edge.
+- 'My Elena will simply be very happy.' Pushing back smoothly right here, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Thank you, when will she come for a fitting?' The guest prompts promptly before Barinov can change the subject.
+- 'Unfortunately, she will not be able to come herself.' Mentioning the regret in front of the guest, Barinov reaches for the Russian word "sozhaleniyu" ("regret", built from "sozhaleniye") right at the center of the line.
+- 'She is very busy every day right now.' Highlighting how busy she is before the guest, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'She has constant concerts and filming.' Barinov opens up openly on the spot, to clear the air between them once and for all.
+- 'But I will definitely think of something today.' Barinov reacts warmly at once and brings in "obyazatelno" ("surely, without fail") to make the meaning unmistakable.
+- 'Miss, you have had enough to drink today.' Addressing the girlfriend with a smile, Kostya puts the real issue right on the table for Barinov.
+- 'Do not worry about me, Kostya.' The guest jumps in steadily without a pause, keeping the focus on what actually matters here.
+- 'I know how much I can drink.' The guest cuts in smoothly to Kostya and lands on "mozhno" ("may, can") as the key everyday word here.

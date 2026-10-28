@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You look simply like a princess.' Eleonora speaks up honestly across the room, letting the remark speak for itself.
-- 'And you have an excellent prince.' Eleonora highlights one sharp word toward Katya: "otlichnyy" means "excellent, great", and it carries the main weight of what Eleonora is saying.
-- 'All my life I was afraid for you.' Eleonora emphasizes one vivid expression right here: "zhizn" means "life", and it carries the main weight of what Eleonora is saying.
-- 'Just do not scare me.' Eleonora opens up wryly with Katya, steering the talk right where she wants it.
-- 'Although I am calm about you.' Eleonora picks this telling choice toward Katya: "spokoyna" means "calm, at ease" (from "spokoynyy"), giving the line its exact edge.
-- 'At the wedding I will not be alone.' Eleonora stands firm calmly around Katya, leaving no doubt about where she stands.
-- 'Really, and who is this man?' Katya checks bluntly before Eleonora can change the subject.
-- 'He saved me from bankruptcy.' Eleonora emphasizes one telling expression with Katya: "bankrotstva" means "bankruptcy" (from "bankrotstvo"), giving the line its exact edge.
-- 'Now he is our new investor.' Eleonora phrases that remark frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And he is a very interesting man.' Eleonora jumps in promptly without a pause, steering the talk right where she wants it.
-- 'I will definitely introduce you at the wedding.' Eleonora underscores one telling touch for Katya: "obyazatelno" means "surely, without fail", and it carries the main weight of what Eleonora is saying.
-- 'Alright, Mom, I am very glad.' Katya gives that answer facing Eleonora: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'You look simply like a princess.' Eleonora weighs in honestly beside Katya, before Katya can change the subject.
+- 'And you have an excellent prince.' Mentioning an excellent prince in front of Katya, Eleonora reaches for the Russian word "otlichnyy" ("excellent, great") right at the heart of the line.
+- 'All my life I was afraid for you.' Talking about her life with Katya, Eleonora cuts straight through the tension with Katya.
+- 'Just do not scare me.' Eleonora cuts in wryly facing Katya, without trying to dress up how she really feels.
+- 'Although I am calm about you.' Pointing out how calm she is in this beat, Eleonora brings in "spokoyna" ("calm, at ease", from "spokoynyy") as the key Russian word here.
+- 'At the wedding I will not be alone.' Touching on the wedding to Katya, Eleonora leans on "svadbe" ("wedding", a form of "svadba") to give the remark its edge.
+- 'Really, and who is this man?' Katya checks bluntly whether Eleonora really thought this through.
+- 'He saved me from bankruptcy.' Highlighting the bankruptcy to Katya, Eleonora uses "bankrotstva" ("bankruptcy", from "bankrotstvo") to make the point stick.
+- 'Now he is our new investor.' Addressing the investor during the talk, Eleonora links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And he is a very interesting man.' Eleonora weighs in promptly watching Katya, grounding the moment in plain reality.
+- 'I will definitely introduce you at the wedding.' Pointing to the wedding to Katya, Eleonora lands on "obyazatelno" ("surely, without fail") as the key everyday word here.
+- 'Alright, Mom, I am very glad.' Dwelling on the mum with Eleonora, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.

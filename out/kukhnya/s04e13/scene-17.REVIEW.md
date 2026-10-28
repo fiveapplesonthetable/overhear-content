@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Vika, I want to ask you for help.' Barinov delivers this warning toward Katya: opening with the casual greeting "privet" ("hi") signals right away that Barinov and Katya are on familiar terms.
-- 'They fired my Katya completely unfairly today.' Barinov counters sharply toward Vika, saying out loud what both of them already know.
-- 'Talk to German so that he takes her back.' Barinov reaches for one memorable choice right here: "pogovori" means "talk" (from "pogovorit"), giving the line its exact edge.
-- 'No, Vitya, you simply do not know.' Vika gives the reply around Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Katya is really guilty in this story.' Vika replies evenly to be clear, keeping the focus on what actually matters here.
-- 'Vika, it was I who planted the cat here!' Barinov favors one colorful touch right here: "podkinul" means "give a lift" (from "podkinut"), giving the line its exact edge.
-- 'Miss, I am not going to wait any longer!' Katya pushes back calmly with Barinov, shifting the whole mood of the room in a single beat.
-- 'Please, wait another five minutes.' Vika chimes in wryly without a pause, without trying to dress up how she really feels.
-- 'I am not going to pay for this nightmare!' Katya frames one key word toward Barinov: "sobirayus" means "am planning" (from "sobiratsya"), giving the line its exact edge.
-- 'You ruined the party for my beloved Tyoma!' Katya emphasizes one loaded choice toward Vika: "lyubimomu" means "favourite, beloved" (from "lyubimyy"), giving the line its exact edge.
-- 'And you also stained his handsome little suit!' Katya proceeds firmly with a smile, bringing things back to earth after the buildup.
-- 'And what now, I am barely getting by!' Vika spotlights this telling term in earnest: "teper" means "now", and it carries the main weight of what Vika is saying.
+- 'Hello, Vika, I want to ask you for help.' Barinov speaks openly with a shrug, shifting the mood of the conversation in a single beat.
+- 'They fired my Katya completely unfairly today.' Barinov proceeds sharply facing Vika, to clear the air between them once and for all.
+- 'Talk to German so that he takes her back.' Barinov jumps in quietly in front of Vika and centers the thought on "pogovori" ("talk", from "pogovorit") without wasting a word.
+- 'No, Vitya, you simply do not know.' Holding firm evenly to Barinov, Vika uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Katya is really guilty in this story.' Vika speaks up evenly with a nod, refusing to let the moment slip past.
+- 'Vika, it was I who planted the cat here!' Discussing the cat on the spot, Barinov uses "koshku" ("cat", from "koshka") to make the point stick.
+- 'Miss, I am not going to wait any longer!' Mentioning the girlfriend in the exchange, Katya chooses "devushka" ("girlfriend") so Barinov gets the point right away.
+- 'Please, wait another five minutes.' Vika briskly voices this courtesy word in the exchange using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'I am not going to pay for this nightmare!' Mentioning the nightmare before Vika, Katya uses "koshmar" ("nightmare") to carry the main weight of the thought.
+- 'You ruined the party for my beloved Tyoma!' Katya follows up promptly watching Vika, bringing things back to earth after the buildup.
+- 'And you also stained his handsome little suit!' Katya speaks up firmly on the spot, without trying to dress up how she really feels.
+- 'And what now, I am barely getting by!' Vika reacts earnestly in this beat and brings in "zhivu" ("live", from "zhit") as the key Russian word here.

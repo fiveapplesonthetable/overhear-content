@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did this cat come from?' Nastya presses eagerly how Max expects that to work in practice.
-- 'It was nearly torn apart by stray dogs.' Rodion centers one colorful piece with Nastya: "rasterzali" means "to tear to pieces" (from "rasterzat"), giving the line its exact edge.
-- 'All right, I will carry it back out to the dumpster.' Nastya puts the reaction plainly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Max is on board.
-- 'Yes, yes. Look at you.' Rodion speaks firmly with a nod, before Nastya can change the subject.
-- 'You are totally healthy now.' Nastya favors one clear expression in reply: "zdorovyy" means "healthy", and it carries the main weight of what Nastya is saying.
-- 'Rodion Sergeyevich.' Max states the remark right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Well, thank you kindly.' Nastya jumps in lightly in this moment, so Max knows she is not just making small talk.
-- 'Wait, did you throw the kitten out?' Rodion centers one practical detail in reply: "vybrosila" means "threw out" (from "vybrosit"), giving the line its exact edge.
-- 'I took it to a pet hotel.' Nastya weighs in openly across the room, saying out loud what both of them already know.
-- 'Let it live there for the time being.' Rodion weighs in dryly as things stand, letting the remark speak for itself.
-- 'Until we find an owner for it.' Nastya favors one classic expression with Max: "khozyain" means "owner", and it carries the main weight of what Nastya is saying.
-- 'Wait, what did you do?' Rodion lays out that reply briskly now: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'Nastya, you are such a clever girl.' Max responds sharply as they talk, making his position completely clear.
+- 'Where did this cat come from?' Nastya presses eagerly if there is more going on behind the scenes.
+- 'It was nearly torn apart by stray dogs.' Turning to the dog around Nastya, Rodion chooses "rasterzali" ("to tear to pieces", from the root "rasterzat") so Nastya hears the exact meaning.
+- 'All right, I will carry it back out to the dumpster.' Mentioning the dumpster at once, Nastya uses "pomoyku" ("dumpster", from "pomoyka") to make the point stick.
+- 'Yes, yes. Look at you.' Rodion fires back firmly hearing Nastya, so Nastya knows he is not just making small talk.
+- 'You are totally healthy now.' Highlighting how healthy Rodion is in the exchange, Nastya brings in "zdorovyy" ("healthy") to make the meaning unmistakable.
+- 'Rodion Sergeyevich.' Reacting candidly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Well, thank you kindly.' Nastya smoothly uses this polite thanks at the start of the beat using "blagodaryu" ("I thank you") — literally "I give thanks", a slightly more formal way to say thank you than "spasibo".
+- 'Wait, did you throw the kitten out?' Highlighting the kitten right here, Rodion centers the thought on "kotenka" ("kitten", from "kotyonok") without wasting a word.
+- 'I took it to a pet hotel.' Underscoring a pet hotel in this beat, Nastya uses "gostinitsu" ("the hotel", from "gostinitsa") to make the point stick.
+- 'Let it live there for the time being.' Rodion gently chooses this casual farewell with Nastya using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'Until we find an owner for it.' Nastya plainly drops this casual farewell at the start of the beat using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'Wait, what did you do?' Reacting warmly right here, Rodion puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Nastya, you are such a clever girl.' Max pushes back sharply beside Nastya, leaving no doubt about where he stands.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, good afternoon.' Vika chooses one sharp touch on cue: "zdravstvuyte" means "hello", and it carries the main weight of what Vika is saying.
-- 'Have you already received my gift?' Vika directs the remark at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Thank you, but you shouldn't have.' Vika counters wryly to settle things, leaving no doubt about where she stands.
-- 'I really want to meet with you.' Vika reaches for one practical term with Katya: "vstretitsya" means "to meet", and it carries the main weight of what Vika is saying.
-- 'To try to convince you.' Vika voices that reply calmly now: the "-sya" ending on "popytatsya" ("to try, attempt") turns the action inward or makes it happen between people naturally.
-- 'Agreed? Well, all right.' Vika checks promptly why things suddenly took this turn between them.
-- 'In the evening I will send a car for you.' Vika features this direct term right here: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
-- 'Now Katya will demonstrate dishes of molecular cuisine.' Barinov follows up briskly to be clear, without trying to dress up how he really feels.
-- 'This is a restaurant! It must be edible.' Barinov speaks up candidly with a shrug, letting the remark speak for itself.
-- 'This is tomato soup.' Katya reaches for this telling element for Vika: "tomatnyy" means "tomato", and it carries the main weight of what Katya is saying.
-- 'Yes, of course, try it.' Katya voices this answer plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'My hand is trembling.' Barinov fires back promptly without a pause, saying out loud what both of them already know.
+- 'Hello, good afternoon.' Vika naturally sends this formal greeting at this moment using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Have you already received my gift?' Answering frankly around Barinov, Vika keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Thank you, but you shouldn't have.' Vika gently extends this word of thanks while facing Barinov using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I really want to meet with you.' Vika cuts in earnestly before Barinov and brings in "vstretitsya" ("to meet") to make the meaning unmistakable.
+- 'To try to convince you.' Following up quietly at once, the "-sya" ending on "popytatsya" ("to try, attempt") marks an action that unfolds mutually or turns back on the speaker.
+- 'Agreed? Well, all right.' Vika smoothly voices this word of agreement toward Barinov using "dogovorilis" ("deal") — literally "we have talked it through to an agreement", used just like "deal!" or "settled!".
+- 'In the evening I will send a car for you.' Turning to a car during the talk, Vika chooses "mashinu" ("car", from the root "mashina") so Barinov hears the exact meaning.
+- 'Now Katya will demonstrate dishes of molecular cuisine.' Addressing the dish right here, Barinov brings in "prodemonstriruyet" ("will demonstrate", from "prodemonstrirovat") as the key Russian word here.
+- 'This is a restaurant! It must be edible.' Addressing a restaurant with a shrug, Barinov speaks plainly so Katya gets the message at once.
+- 'This is tomato soup.' Making clear how tomato things are in the exchange, Katya lands on "tomatnyy" ("tomato") as the key everyday word here.
+- 'Yes, of course, try it.' Katya briskly chooses this confirmation toward Barinov using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'My hand is trembling.' Barinov proceeds promptly during the talk, grounding the moment in plain reality.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will take away your sorrow.' Denis frames the comment facing Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Den really took after our grandfather.' Max stands firm decisively during the talk, to clear the air between them once and for all.
-- 'And our grandfather was the best accordionist in the village.' Max underscores one key expression at once: "derevne" means "village, countryside" (from "derevnya"), giving the line its exact edge.
-- 'After your grandfather? How interesting.' Vika puts that thought to Max: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'And what brought you to Moscow?' Vika probes curiously in front of Denis without any preamble.
-- 'Creative differences with management.' Denis reaches for this direct piece right here: "tvorcheskiye" means "creative" (from "tvorcheskiy"), giving the line its exact edge.
-- 'Wait, who did you come here with?' Denis sends the comment for Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'With my husband. Wait a moment, please.' Vika counters warmly without any doubt, so Max knows she is not just making small talk.
-- 'Maybe we shouldn't do this, right?' Denis leans on one practical expression right here: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'I will tell my husband that everything happened.' Vika continues pointedly as they talk, leaving no doubt about where she stands.
-- 'Is that clear?' Vika probes wryly if there is more going on behind the scenes.
-- 'What is going on here?' Max underscores one key touch with Vika: "dela" means "things, affairs" (from "delo"), giving the line its exact edge.
+- 'I will take away your sorrow.' Returning to the sorrow with Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Den really took after our grandfather.' Max speaks up decisively beside Denis, steering the talk right where he wants it.
+- 'And our grandfather was the best accordionist in the village.' Emphasizing the village during the talk, Max leans on "derevne" ("village, countryside", a form of "derevnya") to give the remark its edge.
+- 'After your grandfather? How interesting.' Checking on the grandfathers in this beat, Vika puts the question word "kak" right at the start so Max hears the focus immediately.
+- 'And what brought you to Moscow?' Vika probes curiously if there is more going on behind the scenes.
+- 'Creative differences with management.' Bringing up the disagreements right here, Denis chooses "tvorcheskiye" ("creative", from the root "tvorcheskiy") so Vika hears the exact meaning.
+- 'Wait, who did you come here with?' Pushing back frankly in this beat, Denis keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'With my husband. Wait a moment, please.' Vika casually voices this courtesy word right on cue using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Maybe we shouldn't do this, right?' Denis speaks up smoothly before Vika and centers the remark on "nado" ("it is necessary") without any extra fuss.
+- 'I will tell my husband that everything happened.' Underscoring her husband with Denis, Vika lands on "muzhu" ("husband", built on "muzh") to keep the statement grounded.
+- 'Is that clear?' Vika politely chooses this acknowledgment as they meet using "yasno" ("clear") — literally "brightly, clearly", used in conversation to mean "got it, I see".
+- 'What is going on here?' Max continues firmly during the talk and brings in "dela" ("things, affairs", from "delo") as the key Russian word here.

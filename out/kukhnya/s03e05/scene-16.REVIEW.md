@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It was nice working with you.' Katya emphasizes this sharp element with Barinov: "porabotat" means "to do some work", and it carries the main weight of what Katya is saying.
-- 'Katya, maybe you will stay?' Lyova lays out the remark without pause: the "-sya" ending on "ostaneshsya" ("will stay") turns the action inward or makes it happen between people naturally.
-- 'Thank you, Lyova, but I have already decided everything.' Katya steps in evenly in their talk, making her position completely clear.
-- 'So you are leaving, have you thought it through well?' Barinov sharpens one key touch at once: "ukhodish" means "are leaving" (from "ukhodit"), giving the line its exact edge.
-- 'Is this an attempt to stop me?' Katya makes that line without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Or are you afraid of tomorrow's banquet?' Katya probes frankly where this conversation is heading next.
-- 'No, it is just an ordinary question.' Barinov spotlights one clear detail right here: "obychnyy" means "ordinary, regular", and it carries the main weight of what Barinov is saying.
-- 'I can stay on one condition.' Katya proceeds openly before Lyova, refusing to let the moment slip past.
-- 'How lucky I am, just one condition.' Barinov follows up dryly on the spot, bringing things back to earth after the buildup.
-- 'I want you to appoint me head cook.' Katya features this telling element for Lyova: "naznachil" means "called, set" (from "naznachit"), giving the line its exact edge.
-- 'No, I will manage everything myself.' Barinov phrases the reply frankly here: the "-sya" ending on "spravlyus" ("will manage") turns the action inward or makes it happen between people naturally.
-- 'Chef, what kind of hen are you, you are a rooster.' Lyova follows up sharply around Katya, grounding the moment in plain reality.
+- 'It was nice working with you.' Katya cuts in decisively in the exchange and leans on "porabotat" ("to do some work") to give the whole sentence its punch.
+- 'Katya, maybe you will stay?' Turning directly at once, the "-sya" ending on "ostaneshsya" ("will stay") marks an action that unfolds mutually or turns back on the speaker.
+- 'Thank you, Lyova, but I have already decided everything.' Katya speaks evenly across the room, refusing to let the moment slip past.
+- 'So you are leaving, have you thought it through well?' Barinov speaks earnestly before Katya and lands on "ukhodish" ("are leaving", built on "ukhodit") to keep the statement grounded.
+- 'Is this an attempt to stop me?' Returning to an attempt right here, Katya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Or are you afraid of tomorrow's banquet?' Katya probes frankly whether Barinov really thought this through.
+- 'No, it is just an ordinary question.' Describing how ordinary things are beside Katya, Barinov reaches for the Russian word "obychnyy" ("ordinary, regular") right at the heart of the line.
+- 'I can stay on one condition.' Talking about the condition beside Barinov, Katya centers the thought on "uslovii" ("condition", from "usloviye") without wasting a word.
+- 'How lucky I am, just one condition.' Barinov continues dryly without a pause, watching Katya's face to see how the news lands.
+- 'I want you to appoint me head cook.' Turning to the cook beside Barinov, Katya chooses "glavnym" ("important", from the root "glavnyy") so Barinov hears the exact meaning.
+- 'No, I will manage everything myself.' Following up evenly on the spot, the "-sya" ending on "spravlyus" ("will manage") marks an action that unfolds mutually or turns back on the speaker.
+- 'Chef, what kind of hen are you, you are a rooster.' Lyova chimes in sharply toward Barinov, before Barinov can change the subject.

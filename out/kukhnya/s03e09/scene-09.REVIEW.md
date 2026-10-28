@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take off that suit jacket quickly.' Nastya replies pointedly with a sigh, making her position completely clear.
-- 'Here, put on this T-shirt right now.' Nastya highlights one vivid choice in earnest: "futbolku" means "T-shirt" (from "futbolka"), giving the line its exact edge.
-- 'It is more comfortable this way, as if you were at the rally.' Nastya hands over this warning without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Alright, thank you very much, sweetheart.' Kostya jumps in honestly beside Nastya, shifting the whole mood of the room in a single beat.
-- 'And is your bar located far from here?' Nastya underscores this clear element for Kostya: "nakhoditsya" means "to be located", and it carries the main weight of what Nastya is saying.
-- 'Not really, it is right nearby.' Kostya sends this answer on cue: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'My raw-food shop is right over there.' Nastya answers frankly as they talk, grounding the moment in plain reality.
-- 'Do you want us to ride there together?' Nastya grounds one loaded word in reply: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'Yes, let us ride over there together.' Kostya frames this point for Nastya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Alright, I am getting ready, and we are going.' Nastya steps in bluntly with a smile, to clear the air between them once and for all.
-- 'Here we have arrived already.' Kostya sharpens one sharp detail at once: "prishli" means "have come" (from "priyti"), giving the line its exact edge.
-- 'Take care, I love you.' Nastya puts that remark on cue: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Take off that suit jacket quickly.' Nastya jumps in pointedly hearing Kostya, without trying to dress up how she really feels.
+- 'Here, put on this T-shirt right now.' Touching on the shirt with Kostya, Nastya chooses "futbolku" ("T-shirt", from the root "futbolka") so Kostya hears the exact meaning.
+- 'It is more comfortable this way, as if you were at the rally.' Touching on the rally at once, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Alright, thank you very much, sweetheart.' Kostya directly offers this word of agreement to Nastya using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'And is your bar located far from here?' Emphasizing the bar at once, Nastya brings in "nakhoditsya" ("to be located") to make the meaning unmistakable.
+- 'Not really, it is right nearby.' Speaking plainly before Nastya, Kostya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'My raw-food shop is right over there.' Nastya answers frankly with a smile, so Kostya knows she is not just making small talk.
+- 'Do you want us to ride there together?' Nastya weighs in frankly to Kostya and reaches for the Russian word "khochesh" ("do you want", built from "khotet") right at the center of the line.
+- 'Yes, let us ride over there together.' Reacting earnestly beside Nastya, Kostya starts with "davay" ("come on, let's") to invite Nastya right into the action.
+- 'Alright, I am getting ready, and we are going.' Nastya speaks bluntly watching Kostya, making her position completely clear.
+- 'Here we have arrived already.' Kostya replies promptly at once and chooses "prishli" ("have come", from the root "priyti") so Nastya hears the exact meaning.
+- 'Take care, I love you.' Turning quietly during the talk, Nastya starts with "davay" ("come on, let's") to invite Kostya right into the action.

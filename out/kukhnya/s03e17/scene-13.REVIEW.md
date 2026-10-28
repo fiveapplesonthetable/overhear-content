@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am repeating one more time for all of you.' Nagiyev points to this telling detail in earnest: "povtoryayu" means "repeat" (from "povtoryat"), giving the line its exact edge.
-- 'Today is an important banquet for an oil magnate.' Nagiyev shapes that answer without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'If he does not like it, we will be ruined.' Nagiyev opens up bluntly as they talk, grounding the moment in plain reality.
-- 'Wait a second, what is this awful stench?' Nagiyev centers this vivid detail on cue: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'What is this on your table, guys?' Nagiyev offers that point at once: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Did someone boil socks? Why does it smell like this?' Nagiyev quizzes firmly whether Max really thought this through.
-- 'Is this some cheap cafeteria we have here?' See how Nagiyev counters Barinov right away — the Russian word "deshyovaya" ("cheap, inexpensive", built from "deshyovyy") does the heavy lifting.
-- 'Dima, do not worry, we will fix everything right now.' Barinov aims that line around Nagiyev: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
-- 'Pull yourselves together, we will still manage to cook everything.' Barinov follows up decisively without holding back, making his position completely clear.
-- 'First of all we need to urgently turn on the lights.' Barinov anchors one colorful expression on cue: "nachala" means "beginning" (from "nachalo"), giving the line its exact edge.
-- 'The building has no power at all, repairs will take two days.' Max proceeds candidly to be clear, without trying to dress up how he really feels.
-- 'Guys, why are you all looking so sad?' Max wonders evenly whether Nagiyev really thought this through.
+- 'I am repeating one more time for all of you.' Nagiyev opens up directly in the exchange and centers the thought on "povtoryayu" ("repeat", from "povtoryat") without wasting a word.
+- 'Today is an important banquet for an oil magnate.' Pointing out how important things are with Barinov, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'If he does not like it, we will be ruined.' Nagiyev answers bluntly with Barinov, steering the talk right where he wants it.
+- 'Wait a second, what is this awful stench?' Underscoring the stench before Barinov, Nagiyev puts the weight on "podozhdite" ("wait", from "podozhdat") as the exchange unfolds.
+- 'What is this on your table, guys?' Looking over warmly before Barinov, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Did someone boil socks? Why does it smell like this?' Nagiyev quizzes firmly why things suddenly took this turn between them.
+- 'Is this some cheap cafeteria we have here?' Making clear how cheap things are right here, Nagiyev puts the weight on "deshyovaya" ("cheap, inexpensive", from "deshyovyy") as the exchange unfolds.
+- 'Dima, do not worry, we will fix everything right now.' Reacting earnestly in this beat, the "-sya" ending on "volnuysya" ("worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'Pull yourselves together, we will still manage to cook everything.' Barinov follows up decisively watching Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'First of all we need to urgently turn on the lights.' Pointing to the beginning around Max, Barinov brings in "nachala" ("beginning", from "nachalo") as the key Russian word here.
+- 'The building has no power at all, repairs will take two days.' Pointing to the building during the talk, Max centers the thought on "obestocheno" ("cut off from power", from "obestochit") without wasting a word.
+- 'Guys, why are you all looking so sad?' Max wonders evenly why things suddenly took this turn between them.

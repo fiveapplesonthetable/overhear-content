@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Congratulations, though the main gift will come a bit later.' Barinov points to one concrete expression right here: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
-- 'Thank you very much, my dear friends!' Katya makes that reply briskly now: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Come on, step aside and let the parents through!' Barinov continues honestly with a shrug, so Eleonora knows he is not just making small talk.
-- 'My darling daughter, happy birthday!' Eleonora features one pointed word at once: "rozhdeniya" means "of birth" (from "rozhdeniye"), giving the line its exact edge.
-- 'My gift will soon arrive on your bank card.' Eleonora picks this clear choice at once: "kartochku" means "card, bank card" (from "kartochka"), giving the line its exact edge.
-- 'And we will celebrate tonight.' Eleonora speaks up pointedly around Katya, to clear the air between them once and for all.
-- 'And my gift will not keep you waiting.' Barinov leans on this vivid element in reply: "podarok" means "gift, voucher", and it carries the main weight of what Barinov is saying.
-- 'I noticed that your mirror was cracked.' Barinov lays out the reaction before Katya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Thank you very much, Dad, for the gift!' Katya responds lightly to be clear, grounding the moment in plain reality.
-- 'How observant you have become!' Katya spotlights one familiar term at once: "vnimatelnyy" means "attentive", and it carries the main weight of what Katya is saying.
-- 'That is not like you at all, Vitya.' Eleonora phrases this point toward Barinov: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Dear friends, today is Katya's birthday!' Barinov opens up wryly before Katya, so Katya knows he is not just making small talk.
+- 'Congratulations, though the main gift will come a bit later.' Emphasizing the main gift right here, Barinov uses "pozdravlyayu" ("congratulations", from "pozdravlyat") to make the point stick.
+- 'Thank you very much, my dear friends!' Katya pushes back candidly in their talk, grounding the moment in plain reality.
+- 'Come on, step aside and let the parents through!' Barinov cuts in honestly toward Katya, bringing things back to earth after the buildup.
+- 'My darling daughter, happy birthday!' Highlighting the birth beside Barinov, Eleonora chooses "rozhdeniya" ("of birth", from the root "rozhdeniye") so Barinov hears the exact meaning.
+- 'My gift will soon arrive on your bank card.' Eleonora speaks candidly with a smile, shifting the mood of the conversation in a single beat.
+- 'And we will celebrate tonight.' Eleonora steps in plainly without any doubt, keeping the focus on what actually matters here.
+- 'And my gift will not keep you waiting.' Addressing his gift during the talk, Barinov reaches for the Russian word "podarok" ("gift, voucher") right at the heart of the line.
+- 'I noticed that your mirror was cracked.' Discussing the mirror in the exchange, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Thank you very much, Dad, for the gift!' Katya opens up lightly without holding back, watching Barinov's face to see how the news lands.
+- 'How observant you have become!' Katya counters sharply around Eleonora and puts the emphasis on "vnimatelnyy" ("attentive") in the middle of the talk.
+- 'That is not like you at all, Vitya.' Following up dryly on the spot, Eleonora adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Dear friends, today is Katya's birthday!' Barinov chimes in wryly around Eleonora, testing Eleonora's reaction in the middle of the exchange.

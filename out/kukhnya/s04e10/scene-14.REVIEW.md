@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing, that is my nephew!' Timur sends the reply for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'If he bites you, you will become a zombie!' Louis speaks up warmly with Timur, bringing things back to earth after the buildup.
-- 'Where we come from, biting an elder is a disgrace.' Timur uses one pointed touch on cue: "starshego" means "older, elder" (from "starshiy"), giving the line its exact edge.
-- 'Then we are not driving anywhere with you.' Louis answers decisively hearing Timur, steering the talk right where he wants it.
-- 'Oh, my poor brains!' Barinov speaks up quietly on the spot, steering the talk right where he wants it.
-- 'Come on, get into the car already.' Timur sharpens this telling piece on cue: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
-- 'Oh horror, what have I done!' Louis fires back decisively in their talk, making his position completely clear.
-- 'I simply had no choice.' Louis chimes in pointedly in this moment, shifting the whole mood of the room in a single beat.
-- 'Our chef has become a zombie too!' Louis anchors one telling element with Barinov: "zombi" means "matter", and it carries the main weight of what Louis is saying.
-- 'What zombie, you idiots?' Barinov voices the thought toward Timur: putting the question word "kakoy" right at the front of the line lets Timur hear the point of the question on the very first beat.
-- 'I have a wild hangover this morning!' Barinov opens up openly as they talk, bringing things back to earth after the buildup.
-- 'I was drinking Bloody Marys all night!' Barinov colors this vivid touch right here: "noch" means "night", and it carries the main weight of what Barinov is saying.
-- 'And you are yelling so loud that my brains hurt!' Barinov reaches for one familiar term on cue: "mozgi" means "brains" (from "mozg"), giving the line its exact edge.
+- 'What are you doing, that is my nephew!' Dwelling on his nephew in the exchange, Timur links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'If he bites you, you will become a zombie!' Louis weighs in warmly beside Timur, steering the talk right where he wants it.
+- 'Where we come from, biting an elder is a disgrace.' Pointing out how older things are beside Louis, Timur reaches for the Russian word "starshego" ("older, elder", built from "starshiy") right at the center of the line.
+- 'Then we are not driving anywhere with you.' Louis jumps in calmly right here and lands on "poyedem" ("will be off", built on "poyekhat") to keep the statement grounded.
+- 'Oh, my poor brains!' Turning to the brains hearing Louis, Barinov keeps Louis's attention locked on what matters.
+- 'Come on, get into the car already.' Underscoring the car in the exchange, Timur puts the weight on "mashinu" ("car", from "mashina") as the exchange unfolds.
+- 'Oh horror, what have I done!' Underscoring the horror during the talk, Louis puts the emphasis on "uzhas" ("horror") in the middle of the talk.
+- 'I simply had no choice.' Louis responds pointedly hearing Timur, grounding the moment in plain reality.
+- 'Our chef has become a zombie too!' Emphasizing the matter at once, Louis brings in "zombi" ("matter") to make the meaning unmistakable.
+- 'What zombie, you idiots?' Touching on the idiot at once, Barinov puts the question word "kakoy" right at the start so Louis hears the focus immediately.
+- 'I have a wild hangover this morning!' Barinov opens up openly watching Louis, refusing to let the moment slip past.
+- 'I was drinking Bloody Marys all night!' Focusing on the night before Louis, Barinov chooses "noch" ("night") so Louis gets the point right away.
+- 'And you are yelling so loud that my brains hurt!' Barinov opens up right away without a pause, before Louis can change the subject.

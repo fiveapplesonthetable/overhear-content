@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And that is all, our story turned out pretty well.' Max picks this key touch for Eleonora: "neplokhaya" means "not bad, decent" (from "neplokhoy"), giving the line its exact edge.
-- 'It was interesting, cheerful, and at times sad.' Max steps in wryly during the talk, before Nagiyev can change the subject.
-- 'And most importantly—very instructive.' Max opens up earnestly before Eleonora, grounding the moment in plain reality.
-- 'It taught us to always be brave.' Max points to one vivid choice right here: "smelymi" means "brave, bold" (from "smelyy"), giving the line its exact edge.
-- 'And never to fear the challenges of life.' Max offers the thought around Eleonora: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'It helped us achieve the goals we set.' Max reacts earnestly hearing Nagiyev, saying out loud what both of them already know.
-- 'And we will celebrate our wedding in about two months.' Nagiyev focuses on one clear touch in reply: "mesyatsa" means "months" (from "mesyats"), giving the line its exact edge.
-- 'Why in two months, is that not a bit late?' Eleonora shares this point briskly now: starting the question with "razve" ("really?, is it true that...?") shows Eleonora is pushing back against what she just heard.
-- 'And where do you and I have to hurry now?' Nagiyev asks earnestly about what Eleonora just brought up.
-- 'After all, you and I have our whole lives ahead of us.' Nagiyev uses one colorful word at once: "zhizn" means "life", and it carries the main weight of what Nagiyev is saying.
-- 'Alright, then we will hold the banquet in our hotel.' Eleonora directs that thought beside Max: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Wonderful, we will invite all our old friends.' Nagiyev follows up frankly with Max, testing Max's reaction in the middle of the exchange.
+- 'And that is all, our story turned out pretty well.' Emphasizing the history around Nagiyev, Max brings in "neplokhaya" ("not bad, decent", from "neplokhoy") as the key Russian word here.
+- 'It was interesting, cheerful, and at times sad.' Max answers briskly around Nagiyev and puts the weight on "interesnaya" ("interesting", from "interesnyy") as the exchange unfolds.
+- 'And most importantly—very instructive.' Max follows up earnestly beside Nagiyev, leaving no doubt about where he stands.
+- 'It taught us to always be brave.' Max speaks openly around Nagiyev and brings in "smelymi" ("brave, bold", from "smelyy") as the key Russian word here.
+- 'And never to fear the challenges of life.' Touching on the call in front of Nagiyev, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'It helped us achieve the goals we set.' Max opens up earnestly with a sigh, so Nagiyev knows he is not just making small talk.
+- 'And we will celebrate our wedding in about two months.' Underscoring the months beside Max, Nagiyev chooses "mesyatsa" ("months", from the root "mesyats") so Max hears the exact meaning.
+- 'Why in two months, is that not a bit late?' Reacting naturally during the talk, Eleonora starts the question with "razve" ("really?") to push back against what she just heard.
+- 'And where do you and I have to hurry now?' Nagiyev asks earnestly where this conversation is heading next.
+- 'After all, you and I have our whole lives ahead of us.' Bringing up the life on the spot, Nagiyev chooses "zhizn" ("life") so Eleonora gets the point right away.
+- 'Alright, then we will hold the banquet in our hotel.' Mentioning the banquet in front of Nagiyev, Eleonora chooses "banket" ("banquet") so Nagiyev gets the point right away.
+- 'Wonderful, we will invite all our old friends.' Nagiyev follows up frankly with a smile, so Eleonora knows he is not just making small talk.

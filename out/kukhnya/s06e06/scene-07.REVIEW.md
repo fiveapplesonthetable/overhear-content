@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, you speak French well after all.' Ainura underscores one key piece in earnest: "po-frantsuzski" means "in French", and it carries the main weight of what Ainura is saying.
-- 'Here, we almost sent this to the cleaners with the jacket.' Ainura cuts in wryly hearing Katya, grounding the moment in plain reality.
-- 'Read it, maybe he is some kind of spy?' Ainura tests evenly as Barinov tries to explain the situation.
-- 'Olivier Dubois is a Michelin inspector!' Barinov features this direct expression for Katya: "inspektor" means "inspector", and it carries the main weight of what Barinov is saying.
-- 'So he really is a foreign spy?' Ainura states that remark before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'No, Ainura, this is much worse!' Barinov stands firm calmly around Katya, testing Katya's reaction in the middle of the exchange.
-- 'What diagnosis are we going to give?' Ainura chooses one familiar term at once: "diagnoz" means "diagnosis", and it carries the main weight of what Ainura is saying.
-- 'That is what I am paying you money for.' Barinov frames one familiar choice right here: "dengi" means "money", and it carries the main weight of what Barinov is saying.
-- 'Mom, hello, what happened to you?' Katya tests firmly before Ainura can change the subject.
-- 'Doctor, what is wrong with my mother right now?' Ainura emphasizes one concrete choice on cue: "doktor" means "Doctor", and it carries the main weight of what Ainura is saying.
-- 'She had a severe blood pressure spike today.' Barinov steps in evenly with a sigh, letting the remark speak for itself.
-- 'And what now, does she need a hospital?' Opening up with urgency, Katya puts the real issue right on the table for Barinov.
+- 'Chef, you speak French well after all.' Ainura opens up openly during the talk and centers the remark on "po-frantsuzski" ("in French") without any extra fuss.
+- 'Here, we almost sent this to the cleaners with the jacket.' Bringing up the jacket in the exchange, Ainura uses "pidzhakom" ("jacket, blazer", from "pidzhak") to make the point stick.
+- 'Read it, maybe he is some kind of spy?' Ainura tests evenly about what Barinov just brought up.
+- 'Olivier Dubois is a Michelin inspector!' Underscoring a inspector during the talk, Barinov reaches for the Russian word "inspektor" ("inspector") right at the heart of the line.
+- 'So he really is a foreign spy?' Making clear how foreign things are in front of Barinov, Ainura links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'No, Ainura, this is much worse!' Barinov weighs in bluntly beside Ainura, shifting the mood of the conversation in a single beat.
+- 'What diagnosis are we going to give?' Discussing the diagnosis with Barinov, Ainura puts the emphasis on "diagnoz" ("diagnosis") in the middle of the talk.
+- 'That is what I am paying you money for.' Barinov chimes in right away in this moment, keeping the focus on what actually matters here.
+- 'Mom, hello, what happened to you?' Katya tests firmly where this conversation is heading next.
+- 'Doctor, what is wrong with my mother right now?' Turning to the doctor right here, Ainura centers the remark on "doktor" ("Doctor") without any extra fuss.
+- 'She had a severe blood pressure spike today.' Bringing up the blood pressure beside Ainura, Barinov chooses "davleniya" ("blood pressure", from the root "davleniye") so Ainura hears the exact meaning.
+- 'And what now, does she need a hospital?' Discussing a hospital in their talk, Katya makes it clear to Barinov that she means every word.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They will take us to the police.' Max answers briskly to settle things, before Louis can change the subject.
-- 'They will put us in prison.' Louis favors one memorable term with Vika: "posadyat" means "they'll put in prison" (from "posadit"), giving the line its exact edge.
-- 'Good lord, Louis!' Vika frames the comeback right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'You are all acting like crazy people.' Max steps in firmly watching Vika, making his position completely clear.
-- 'Well, how is it going with you guys?' Louis lays out this answer to Max: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'No, wait, it is not ready yet.' Vika brings this update toward Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Just like the Chef tells us.' Max responds decisively during the talk, making his position completely clear.
-- 'Right now I will add some sauce into his car interior.' Louis focuses on one clear piece for Vika: "dobavlyu" means "to add, to supplement" (from "dobavit"), giving the line its exact edge.
-- 'Viktoriya Sergeyevna, I wanted to let you know in advance.' Vika emphasizes one sharp element toward Louis: "predupredit" means "to warn", and it carries the main weight of what Vika is saying.
-- 'I will not be here this weekend.' Max opens up dryly with a smile, making his position completely clear.
-- 'We are flying to Cyprus.' Louis centers one key detail for Max: "letim" means "we're flying" (from "letet"), giving the line its exact edge.
-- 'With Max.' Vika makes this point frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'All right, I will get going.' Max proceeds boldly hearing Louis, to clear the air between them once and for all.
+- 'They will take us to the police.' Max opens up briskly with a nod, refusing to let the moment slip past.
+- 'They will put us in prison.' Discussing the prison to Max, Louis centers the thought on "tyurmu" ("prison", from "tyurma") without wasting a word.
+- 'Good lord, Louis!' Cutting in promptly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'You are all acting like crazy people.' Max weighs in firmly without any doubt, letting the remark speak for itself.
+- 'Well, how is it going with you guys?' Opening up boldly beside Vika, Louis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'No, wait, it is not ready yet.' Describing how ready things are to Louis, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Just like the Chef tells us.' Max opens up decisively without a pause, shifting the mood of the conversation in a single beat.
+- 'Right now I will add some sauce into his car interior.' Underscoring the salon beside Max, Louis uses "salon" ("salon") to carry the main weight of the thought.
+- 'Viktoriya Sergeyevna, I wanted to let you know in advance.' Vika chimes in briskly with a sigh, shifting the mood of the conversation in a single beat.
+- 'I will not be here this weekend.' Max responds dryly without holding back, watching Vika's face to see how the news lands.
+- 'We are flying to Cyprus.' Louis speaks up vividly right here and chooses "letim" ("we're flying", from the root "letet") so Max hears the exact meaning.
+- 'With Max.' Cutting in dryly right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'All right, I will get going.' Max promptly sends this word of agreement in front of Vika using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".

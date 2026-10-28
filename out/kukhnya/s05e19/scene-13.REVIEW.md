@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No notebook means no scandal either.' Senya favors one familiar detail right here: "bloknota" means "notepad, notebook" (from "bloknot"), giving the line its exact edge.
-- 'Nikita, admit it, is this your note?' Barinov frames this answer beside Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Yes, mine, I just wanted to arrange a surprise.' Nikita reacts bluntly in their talk, watching Barinov's face to see how the news lands.
-- 'Very funny, tell me quickly, where is the car?' Barinov sharpens one key choice for Senya: "mashina" means "a car", and it carries the main weight of what Barinov is saying.
-- 'Are you a complete fool, where is my car?' Barinov puts this answer with warmth: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'I do not know, this note is for Katya.' Nikita pushes back at once to settle things, to clear the air between them once and for all.
-- 'I simply wanted to arrange a romantic evening.' Nikita features one memorable expression with Barinov: "romanticheskiy" means "romantic", and it carries the main weight of what Nikita is saying.
-- 'Sorry, an expensive car was stolen from me.' Barinov delivers this line without pause: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'It costs a full eight million, and it is not mine.' Barinov speaks up frankly around Nikita, refusing to let the moment slip past.
-- 'Wait, do you have the key to the car?' Nikita sharpens one pointed choice for Senya: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'The key holds all the information about the car.' Nikita holds firm warmly around Barinov, watching Barinov's face to see how the news lands.
-- 'We can locate where it is via satellite.' Nikita proceeds sharply watching Senya, letting the remark speak for itself.
-- 'Then call your friend at the dealership right away!' Barinov frames one practical element in earnest: "skoreye" means "quickly, right away" (from "skoro"), giving the line its exact edge.
+- 'No notebook means no scandal either.' Addressing the notepad with Barinov, Senya chooses "bloknota" ("notepad, notebook", from the root "bloknot") so Barinov hears the exact meaning.
+- 'Nikita, admit it, is this your note?' Returning to the confess on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Yes, mine, I just wanted to arrange a surprise.' Nikita responds bluntly without holding back, leaving no doubt about where he stands.
+- 'Very funny, tell me quickly, where is the car?' Underscoring the car before Nikita, Barinov lands on "mashina" ("a car") as the key everyday word here.
+- 'Are you a complete fool, where is my car?' Checking on his car in this beat, Barinov adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'I do not know, this note is for Katya.' Raising the note with a sigh, Nikita lets Barinov see exactly where things stand.
+- 'I simply wanted to arrange a romantic evening.' Underscoring a romantic evening to Barinov, Nikita centers the remark on "romanticheskiy" ("romantic") without any extra fuss.
+- 'Sorry, an expensive car was stolen from me.' Barinov proceeds pointedly with Nikita, shifting the mood of the conversation in a single beat.
+- 'It costs a full eight million, and it is not mine.' Barinov speaks up frankly around Nikita, testing Nikita's reaction in the middle of the exchange.
+- 'Wait, do you have the key to the car?' Turning to the key in the exchange, Nikita brings in "podozhdite" ("wait", from "podozhdat") as the key Russian word here.
+- 'The key holds all the information about the car.' Talking about the information to Barinov, Nikita centers the remark on "informatsiya" ("information") without any extra fuss.
+- 'We can locate where it is via satellite.' Nikita counters sharply without a pause, keeping the focus on what actually matters here.
+- 'Then call your friend at the dealership right away!' Bringing up the friend right here, Barinov reaches for the Russian word "drugu" ("friend", built from "drug") right at the center of the line.

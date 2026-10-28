@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If something goes wrong, they fine the staff.' Mikhail speaks wryly with a sigh, leaving no doubt about where he stands.
-- 'I do not worry about my subordinates.' Barinov uses one telling detail on cue: "podchinyonnykh" means "subordinates" (from "podchinyonnyy"), giving the line its exact edge.
-- 'Misha, go to your own office.' Barinov picks this telling element for Mikhail: "kabinet" means "office", and it carries the main weight of what Barinov is saying.
-- 'In ten minutes we have a meeting.' Mikhail steps in promptly in this moment, making his position completely clear.
-- 'All our management will be there.' Mikhail reaches for this sharp word toward Barinov: "rukovodstvo" means "leadership", and it carries the main weight of what Mikhail is saying.
-- 'They informed me of important news.' Vika aims that remark for Mikhail: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'The secret guest will be here today or tomorrow.' Vika continues honestly beside Barinov, to clear the air between them once and for all.
-- 'Be on alert today.' Vika highlights one practical element in earnest: "segodnya" means "today", and it carries the main weight of what Vika is saying.
-- 'Mikhail, there is a small problem there.' Vika hands over the reaction without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'The guests are complaining about the bitter cold.' Vika jumps in candidly in this moment, watching Mikhail's face to see how the news lands.
-- 'Well, send our engineer up there.' Mikhail stresses this sharp touch in earnest: "inzhenera" means "engineer" (from "inzhener"), giving the line its exact edge.
-- 'Could he not think of that himself?' Mikhail offers the comment around Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'If something goes wrong, they fine the staff.' Mikhail steps in wryly with a shrug, steering the talk right where he wants it.
+- 'I do not worry about my subordinates.' Bringing up his subordinates at once, Barinov chooses "podchinyonnykh" ("subordinates", from the root "podchinyonnyy") so Mikhail hears the exact meaning.
+- 'Misha, go to your own office.' Barinov speaks earnestly with a shrug, shifting the mood of the conversation in a single beat.
+- 'In ten minutes we have a meeting.' Mikhail weighs in promptly on the spot, shifting the mood of the conversation in a single beat.
+- 'All our management will be there.' Bringing up the leadership beside Vika, Mikhail centers the remark on "rukovodstvo" ("leadership") without any extra fuss.
+- 'They informed me of important news.' Focusing on the news beside Mikhail, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'The secret guest will be here today or tomorrow.' Vika opens up honestly with a sigh, leaving no doubt about where she stands.
+- 'Be on alert today.' Vika answers directly before Mikhail and puts the emphasis on "segodnya" ("today") in the middle of the talk.
+- 'Mikhail, there is a small problem there.' Underscoring how small things are in this beat, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'The guests are complaining about the bitter cold.' Vika speaks up candidly without any doubt, before Mikhail can change the subject.
+- 'Well, send our engineer up there.' Bringing up his engineer in this beat, Mikhail leans on "inzhenera" ("engineer", a form of "inzhener") to give the remark its edge.
+- 'Could he not think of that himself?' Jumping in warmly during the talk, Mikhail keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.

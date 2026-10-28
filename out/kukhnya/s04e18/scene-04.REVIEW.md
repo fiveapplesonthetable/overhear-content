@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, come on, do not keep us in suspense.' Fedya anchors one key word for Barinov: "tomite" means "to suspense" (from "tomit"), giving the line its exact edge.
-- 'It happened in Riga.' Barinov makes that thought frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'German courted a waitress for a long time.' Barinov chimes in frankly in this moment, steering the talk right where he wants it.
-- 'And in the end she agreed.' Barinov points to this vivid expression on cue: "soglasilas" means "to agree" (from "soglasitsya"), giving the line its exact edge.
-- 'But suddenly a cook walked in there.' Barinov opens up pointedly with a nod, so Fedya knows he is not just making small talk.
-- 'And we already saw what happened next.' Barinov reacts frankly with a shrug, shifting the whole mood of the room in a single beat.
-- 'He is just a total psycho!' German spotlights one clear choice at once: "nastoyashchiy" means "real, genuine", and it carries the main weight of what German is saying.
-- 'And what happened to him after that?' Fedya aims the comment without fuss: putting the question word "chto" right at the front of the line lets German hear the point of the question on the very first beat.
-- 'He received a suspended sentence back then.' Barinov weighs in quietly to settle things, letting the remark speak for itself.
-- 'In Latvia he is on the blacklist.' Barinov grounds one loaded term with German: "chyornom" means "black" (from "chyornyy"), giving the line its exact edge.
-- 'Is it that easy to make him lose his temper?' Fedya delivers the comeback before Barinov: the single Russian word "legko" ("it is easy") sets up the whole statement without needing a separate word for "it is".
-- 'Yes, we are taking a very big risk.' German fires back decisively around Fedya, so Fedya knows he is not just making small talk.
+- 'Chef, come on, do not keep us in suspense.' Fedya speaks directly right here and chooses "tomite" ("to suspense", from the root "tomit") so Barinov hears the exact meaning.
+- 'It happened in Riga.' Focusing on the matter on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'German courted a waitress for a long time.' Barinov responds frankly without a pause, steering the talk right where he wants it.
+- 'And in the end she agreed.' Focusing on the result during the talk, Barinov lands on "soglasilas" ("to agree", built on "soglasitsya") to keep the statement grounded.
+- 'But suddenly a cook walked in there.' Mentioning a cook right here, Barinov leans on "povar" ("chef, cook") to give the whole sentence its punch.
+- 'And we already saw what happened next.' Barinov continues frankly without a pause, refusing to let the moment slip past.
+- 'He is just a total psycho!' Describing how real he is beside Barinov, German chooses "nastoyashchiy" ("real, genuine") so Barinov gets the point right away.
+- 'And what happened to him after that?' Leaning in openly around Barinov, Fedya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'He received a suspended sentence back then.' Barinov steps in quietly during the talk, shifting the mood of the conversation in a single beat.
+- 'In Latvia he is on the blacklist.' Showing how black he is to Fedya, Barinov brings in "chyornom" ("black", from "chyornyy") as the key Russian word here.
+- 'Is it that easy to make him lose his temper?' Stepping in quietly before German, Fedya leans on "legko" ("easy"), which carries the whole predicate in Russian without needing "it is".
+- 'Yes, we are taking a very big risk.' German speaks up decisively with a smile, shifting the mood of the conversation in a single beat.

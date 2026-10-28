@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, I have two pairs right now.' Mikhail emphasizes this sharp word on cue: "smotrite" means "look" (from "smotret"), giving the line its exact edge.
-- 'What a great intrigue we have here.' The guest sends this update briskly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'I also have a strong full combination.' The guest stands firm sharply in this moment, letting the remark speak for itself.
-- 'Go and open your safe quickly.' The guest centers one key term with Mikhail: "otkryvayte" means "open" (from "otkryvat"), giving the line its exact edge.
-- 'I beg your pardon very much.' Barinov phrases that answer right away: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'I miscalculated my strength a little.' Barinov responds lightly to be clear, testing Mikhail's reaction in the middle of the exchange.
-- 'I do not have that kind of big money.' Barinov uses one sharp piece in reply: "bolshikh" means "big" (from "bolshoy"), giving the line its exact edge.
-- 'Will you give me a small extension today?' Barinov hands over that line before Mikhail: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
-- 'Do you take me for a fool here?' The guest challenges openly as Barinov tries to explain the situation.
-- 'Did you decide to cheat me so easily?' The guest grounds one direct element with Mikhail: "reshili" means "decided" (from "reshit"), giving the line its exact edge.
-- 'If there is no money tonight.' The guest opens up openly in this moment, refusing to let the moment slip past.
-- 'You will owe me a lot more.' The guest proceeds briskly without a pause, shifting the whole mood of the room in a single beat.
+- 'Look, I have two pairs right now.' Underscoring the couple in the exchange, Mikhail leans on "pary" ("a couple", a form of "para") to give the remark its edge.
+- 'What a great intrigue we have here.' Dwelling on a great intrigue beside Mikhail, the guest reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'I also have a strong full combination.' The guest weighs in sharply toward Mikhail, shifting the mood of the conversation in a single beat.
+- 'Go and open your safe quickly.' Underscoring the safe right here, the guest leans on "otkryvayte" ("open", a form of "otkryvat") to give the remark its edge.
+- 'I beg your pardon very much.' Barinov continues steadily with a sigh, to clear the air between them once and for all.
+- 'I miscalculated my strength a little.' Barinov continues lightly without holding back, testing the guest's reaction in the middle of the exchange.
+- 'I do not have that kind of big money.' Mentioning the money in front of the guest, Barinov chooses "bolshikh" ("big", from the root "bolshoy") so the guest hears the exact meaning.
+- 'Will you give me a small extension today?' Pressing on warmly before the guest, Barinov keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.
+- 'Do you take me for a fool here?' The guest challenges openly why things suddenly took this turn between them.
+- 'Did you decide to cheat me so easily?' The guest follows up promptly with Barinov and reaches for the Russian word "reshili" ("decided", built from "reshit") right at the center of the line.
+- 'If there is no money tonight.' Addressing the money on the spot, the guest uses "segodnya" ("today") to carry the main weight of the thought.
+- 'You will owe me a lot more.' The guest steps in briskly watching Barinov, testing Barinov's reaction in the middle of the exchange.

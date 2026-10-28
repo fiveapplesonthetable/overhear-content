@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, has everyone gone home already?' Max focuses on one telling piece in reply: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
-- 'Yes, and the Chef is finally sleeping.' Katya answers bluntly beside Max, watching Max's face to see how the news lands.
-- 'I barely managed to put him to bed today.' Katya counters sharply on the spot, keeping the focus on what actually matters here.
-- 'He kept trying to burst out to find you.' Katya points to one classic term toward Max: "rvalsya" means "was eager" (from "rvatsya"), giving the line its exact edge.
-- 'So, what have you cooked up over there?' Katya puts that line around Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'You will see right now, come on through here, please.' Max weighs in openly during the talk, to clear the air between them once and for all.
-- 'And just what is our plan?' Katya chooses one familiar term for Barinov: "plan" means "plan", and it carries the main weight of what Katya is saying.
-- 'Look, does this not remind you of anyone?' Max gives the thought with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'What on earth happened in here yesterday?' Barinov presses candidly to see how Katya will answer on the spot.
-- 'Do you really remember nothing at all?' Katya highlights one key word toward Max: "pomnish" means "do you remember" (from "pomnit"), giving the line its exact edge.
-- 'Of course, you can just get drunk and forget.' Katya brings that line frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Here is the video from the surveillance camera.' Max weighs in bluntly watching Katya, saying out loud what both of them already know.
+- 'Tell me, has everyone gone home already?' Max replies openly to Katya and centers the thought on "skazhi" ("say", from "skazat") without wasting a word.
+- 'Yes, and the Chef is finally sleeping.' Katya speaks pointedly around Barinov and puts the emphasis on "nakonets-to" ("at last, finally") in the middle of the talk.
+- 'I barely managed to put him to bed today.' Katya jumps in sharply without any doubt, letting the remark speak for itself.
+- 'He kept trying to burst out to find you.' Katya opens up pointedly in the exchange and reaches for the Russian word "rvalsya" ("was eager", built from "rvatsya") right at the center of the line.
+- 'So, what have you cooked up over there?' Answering earnestly to Max, Katya puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'You will see right now, come on through here, please.' Max replies openly across the room, making his position completely clear.
+- 'And just what is our plan?' Addressing her plan with Max, Katya brings in "plan" ("plan") to make the meaning unmistakable.
+- 'Look, does this not remind you of anyone?' Holding firm quietly before Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'What on earth happened in here yesterday?' Barinov presses candidly what Katya is actually getting at here.
+- 'Do you really remember nothing at all?' Katya continues briskly during the talk and leans on "pomnish" ("do you remember", a form of "pomnit") to give the remark its edge.
+- 'Of course, you can just get drunk and forget.' Holding firm calmly during the talk, the "-sya" ending on "napitsya" ("get drunk") marks an action that unfolds mutually or turns back on the speaker.
+- 'Here is the video from the surveillance camera.' Max steps in bluntly toward Katya, making his position completely clear.

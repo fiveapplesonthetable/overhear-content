@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She did not notice the car at all.' Denis colors one pointed word on cue: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
-- 'Denis, breathe calmly, we will call an ambulance now.' Barinov weighs in lightly with a nod, making his position completely clear.
-- 'Everything is fine, I just choked on a candy.' Denis responds sharply watching Barinov, keeping the focus on what actually matters here.
-- 'Hello, ambulance, we have an accident here.' Barinov points to one vivid element in earnest: "skoraya" means "ambulance", and it carries the main weight of what Barinov is saying.
-- 'And my right arm hurts badly.' Denis directs this warning without pause: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'What is unclear here, come quickly.' Barinov cuts in warmly during the talk, without trying to dress up how he really feels.
-- 'Viktor, did you understand that subtle hint?' Sasha points to this vivid detail toward Barinov: "tonkiy" means "subtle, thin", and it carries the main weight of what Sasha is saying.
-- 'Tomorrow your team plays against Spartak again.' Barinov frames one pointed touch right here: "komanda" means "team", and it carries the main weight of what Barinov is saying.
-- 'Tomorrow we will easily beat your horses.' Sasha counters decisively to settle things, saying out loud what both of them already know.
-- 'It is a pity I will not see your disgrace.' Barinov centers one colorful choice at once: "pozora" means "disgrace" (from "pozor"), giving the line its exact edge.
-- 'I am getting married tomorrow morning, then the banquet.' Sasha opens up at once in this moment, so Barinov knows she is not just making small talk.
-- 'Get married in peace, and I placed a bet.' Barinov speaks decisively around Sasha, so Sasha knows he is not just making small talk.
-- 'Oh, this is just a real kindergarten.' Sasha underscores one direct term right here: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Sasha is saying.
+- 'She did not notice the car at all.' Emphasizing the car in the exchange, Denis lands on "mashinu" ("car", built on "mashina") to keep the statement grounded.
+- 'Denis, breathe calmly, we will call an ambulance now.' Mentioning an ambulance at once, Barinov leans on "skoruyu" ("ambulance", a form of "skoraya") to give the remark its edge.
+- 'Everything is fine, I just choked on a candy.' Denis follows up sharply on the spot, watching Barinov's face to see how the news lands.
+- 'Hello, ambulance, we have an accident here.' Pointing to the ambulance around Denis, Barinov chooses "skoraya" ("ambulance") so Denis gets the point right away.
+- 'And my right arm hurts badly.' Denis replies frankly in their talk, making his position completely clear.
+- 'What is unclear here, come quickly.' Barinov responds briskly with Denis, making his position completely clear.
+- 'Viktor, did you understand that subtle hint?' Focusing on the hint during the talk, Sasha centers the remark on "tonkiy" ("subtle, thin") without any extra fuss.
+- 'Tomorrow your team plays against Spartak again.' Barinov responds promptly watching Sasha, bringing things back to earth after the buildup.
+- 'Tomorrow we will easily beat your horses.' Sasha jumps in decisively with Barinov, leaving no doubt about where she stands.
+- 'It is a pity I will not see your disgrace.' Underscoring the disgrace around Sasha, Barinov brings in "pozora" ("disgrace", from "pozor") as the key Russian word here.
+- 'I am getting married tomorrow morning, then the banquet.' Addressing the banquet right here, Sasha chooses "banket" ("banquet") so Barinov gets the point right away.
+- 'Get married in peace, and I placed a bet.' Barinov replies decisively with a sigh, refusing to let the moment slip past.
+- 'Oh, this is just a real kindergarten.' Explaining how real things are on the spot, Sasha brings in "nastoyashchiy" ("real, genuine") to make the meaning unmistakable.

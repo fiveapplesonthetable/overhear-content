@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have two options right now.' Kostya centers this direct touch in reply: "varianta" means "options" (from "variant"), giving the line its exact edge.
-- 'Tell me honestly, were you in prison before?' Kostya phrases this statement before Nastya: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Yes, I spent just a little time there.' The guest answers frankly with a smile, making his position completely clear.
-- 'We are raising our son in the same apartment.' Kostya points to this clear touch toward Nastya: "vospityvayem" means "to bring up" (from "vospityvat"), giving the line its exact edge.
-- 'But I did not kill anyone.' The guest opens up openly with a sigh, to clear the air between them once and for all.
-- 'You could have told me earlier.' Kostya steps in plainly toward Nastya, testing Nastya's reaction in the middle of the exchange.
-- 'Kostya, I played cards on trains.' The guest favors one clear detail for Kostya: "poyezdakh" means "train" (from "poyezd"), giving the line its exact edge.
-- 'I should have told him about it earlier.' The guest states that remark toward Nastya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'It was simply such a hard time back then.' The guest answers honestly without a pause, steering the talk right where he wants it.
-- 'My dad was also in prison back then.' Nastya underscores this sharp choice in earnest: "papa" means "Dad", and it carries the main weight of what Nastya is saying.
-- 'I am going with our son to kindergarten now.' Nastya makes the thought plainly here: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'You two talk on the way to work.' Nastya replies frankly to be clear, testing Kostya's reaction in the middle of the exchange.
-- 'Please quietly close the door behind you.' Nastya leans on one concrete expression toward the guest: "zakroyte" means "close" (from "zakryt"), giving the line its exact edge.
+- 'I have two options right now.' Underscoring the options during the talk, Kostya reaches for the Russian word "varianta" ("options", built from "variant") right at the center of the line.
+- 'Tell me honestly, were you in prison before?' Reacting calmly beside the guest, Kostya keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.
+- 'Yes, I spent just a little time there.' The guest responds frankly with a nod, keeping the focus on what actually matters here.
+- 'We are raising our son in the same apartment.' Emphasizing his son to the guest, Kostya leans on "vospityvayem" ("to bring up", a form of "vospityvat") to give the remark its edge.
+- 'But I did not kill anyone.' The guest continues evenly during the talk and brings in "ubival" ("killed", from "ubivat") as the key Russian word here.
+- 'You could have told me earlier.' Kostya speaks plainly during the talk, steering the talk right where he wants it.
+- 'Kostya, I played cards on trains.' Discussing the train in the exchange, the guest chooses "poyezdakh" ("train", from the root "poyezd") so Kostya hears the exact meaning.
+- 'I should have told him about it earlier.' Stepping in boldly on the spot, the guest leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'It was simply such a hard time back then.' The guest follows up honestly facing Nastya, leaving no doubt about where he stands.
+- 'My dad was also in prison back then.' Pointing to her dad in the exchange, Nastya uses "papa" ("Dad") to carry the main weight of the thought.
+- 'I am going with our son to kindergarten now.' Discussing her son with the guest, Nastya lands on "synom" ("son") as the key everyday word here.
+- 'You two talk on the way to work.' Nastya speaks up frankly facing the guest, testing the guest's reaction in the middle of the exchange.
+- 'Please quietly close the door behind you.' Discussing the door during the talk, Nastya reaches for the Russian word "zakroyte" ("close", built from "zakryt") right at the center of the line.

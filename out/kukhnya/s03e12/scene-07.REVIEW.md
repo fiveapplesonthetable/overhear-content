@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is nothing terrible here.' Nastya sharpens one familiar term at once: "strashnogo" means "terrible, serious" (from "strashnyy"), giving the line its exact edge.
-- 'It is just ordinary salt.' Nastya puts that reply before Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I already washed everything out well.' Nastya cuts in steadily in their talk, leaving no doubt about where she stands.
-- 'In a couple of days it will stop bothering you.' Nastya features one clear word on cue: "perestanet" means "will stop" (from "perestat"), giving the line its exact edge.
-- 'It burns really badly!' Nagiyev aims this point on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Dima, let me talk to him myself instead.' Barinov holds firm dryly in their talk, making his position completely clear.
-- 'I will talk to him over a little cognac.' Barinov stresses one direct piece for Nagiyev: "konyachkom" means "a little cognac" (from "konyachok"), giving the line its exact edge.
-- 'This method works every year.' Barinov chimes in calmly in their talk, keeping the focus on what actually matters here.
-- 'Better take tequila and a lemon.' Nagiyev replies right away facing Barinov, steering the talk right where he wants it.
-- 'He already has salt.' Nagiyev features one telling choice with Nastya: "uzhe" means "already, now", and it carries the main weight of what Nagiyev is saying.
-- 'Stay with us as long as you need.' Barinov states that remark briskly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Max, I packed all your things, washed and ironed them.' Nastya fires back right away without holding back, refusing to let the moment slip past.
+- 'There is nothing terrible here.' Noting how terrible things are on the spot, Nastya centers the thought on "strashnogo" ("terrible, serious", from "strashnyy") without wasting a word.
+- 'It is just ordinary salt.' Pointing out how ordinary things are before Nagiyev, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I already washed everything out well.' Nastya reacts wryly with a nod, making her position completely clear.
+- 'In a couple of days it will stop bothering you.' Turning to a couple in the exchange, Nastya reaches for the Russian word "perestanet" ("will stop", built from "perestat") right at the center of the line.
+- 'It burns really badly!' Reacting dryly with Nastya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Dima, let me talk to him myself instead.' Barinov cuts in dryly with a sigh, watching Nagiyev's face to see how the news lands.
+- 'I will talk to him over a little cognac.' Bringing up a cognac around Nagiyev, Barinov puts the weight on "konyachkom" ("a little cognac", from "konyachok") as the exchange unfolds.
+- 'This method works every year.' Focusing on the method at once, Barinov puts the weight on "rabotayet" ("works", from "rabotat") as the exchange unfolds.
+- 'Better take tequila and a lemon.' Nagiyev weighs in right away in their talk, testing Barinov's reaction in the middle of the exchange.
+- 'He already has salt.' Highlighting the salt at once, Nagiyev reaches for the Russian word "uzhe" ("already, now") right at the heart of the line.
+- 'Stay with us as long as you need.' Weighing in candidly beside Nagiyev, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Max, I packed all your things, washed and ironed them.' Nastya fires back right away in this moment, testing Barinov's reaction in the middle of the exchange.

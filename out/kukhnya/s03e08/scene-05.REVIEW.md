@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our team won, come on, pour quickly!' Nagiyev brings this point with ease: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Dima, our team lost today, alas.' Barinov weighs in boldly to be clear, grounding the moment in plain reality.
-- 'Alright, well what are you starting!' Barinov centers one sharp choice toward Nagiyev: "nachinayesh" means "are starting" (from "nachinat"), giving the line its exact edge.
-- 'Well if we lost today, we lost.' Barinov jumps in calmly to settle things, testing Nagiyev's reaction in the middle of the exchange.
-- 'And what if you have a draw today?' Nagiyev asks bluntly to see how Barinov will answer on the spot.
-- 'I do not want to hear anything, pour again!' Nagiyev grounds one telling piece with Barinov: "slyshat" means "to hear", and it carries the main weight of what Nagiyev is saying.
-- 'So you had better go out in public with your beloved woman.' Nagiyev picks one classic term with Barinov: "zhenshchinoy" means "a woman" (from "zhenshchina"), giving the line its exact edge.
-- 'At least your liver will be healthy.' Nagiyev answers firmly during the talk, leaving no doubt about where he stands.
-- 'After all, I am bringing Max back only for your sake, Dima.' Barinov leans on this direct word in earnest: "vozvrashchayu" means "bring back" (from "vozvrashchat"), giving the line its exact edge.
-- 'I am going against all my principles.' Barinov counters sharply as they talk, letting the remark speak for itself.
-- 'That is it, we agreed, your condition is accepted.' Nagiyev holds firm decisively with a smile, leaving no doubt about where he stands.
-- 'Max, today you are returning to the kitchen.' Barinov features one telling detail with Nagiyev: "vozvrashchayeshsya" means "are returning" (from "vozvrashchatsya"), giving the line its exact edge.
+- 'Our team won, come on, pour quickly!' Speaking warmly on the spot, Nagiyev starts with "davay" ("come on, let's") to invite Barinov right into the action.
+- 'Dima, our team lost today, alas.' Barinov fires back boldly during the talk, keeping the focus on what actually matters here.
+- 'Alright, well what are you starting!' Barinov casually chooses this word of agreement beside Nagiyev using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Well if we lost today, we lost.' Barinov proceeds evenly with Nagiyev and uses "proigrali" ("lost", from "proigrat") to make the point stick.
+- 'And what if you have a draw today?' Nagiyev asks bluntly how Barinov expects that to work in practice.
+- 'I do not want to hear anything, pour again!' Nagiyev answers earnestly in front of Barinov and puts the emphasis on "slyshat" ("to hear") in the middle of the talk.
+- 'So you had better go out in public with your beloved woman.' Nagiyev jumps in calmly across the room, leaving no doubt about where he stands.
+- 'At least your liver will be healthy.' Nagiyev continues firmly on the spot, so Barinov knows he is not just making small talk.
+- 'After all, I am bringing Max back only for your sake, Dima.' Barinov continues decisively right here and chooses "vozvrashchayu" ("bring back", from the root "vozvrashchat") so Nagiyev hears the exact meaning.
+- 'I am going against all my principles.' Pointing to his principles right here, Barinov reaches for the Russian word "printsipov" ("principles", built from "printsip") right at the center of the line.
+- 'That is it, we agreed, your condition is accepted.' Nagiyev answers decisively hearing Barinov, without trying to dress up how he really feels.
+- 'Max, today you are returning to the kitchen.' Underscoring the kitchen at once, Barinov reaches for the Russian word "vozvrashchayeshsya" ("are returning", built from "vozvrashchatsya") right at the center of the line.

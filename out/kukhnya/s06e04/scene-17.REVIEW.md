@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vera Ivanovna, I washed all the windows.' Gulya continues pointedly with the guest, so the guest knows she is not just making small talk.
-- 'Thank you, Gulya.' The guest reacts promptly across the room, testing Gulya's reaction in the middle of the exchange.
-- 'Rest for now, sit for a bit.' The guest centers one key word on cue: "otdokhni" means "rest" (from "otdokhnut"), giving the line its exact edge.
-- 'You can watch television in the room.' The guest holds firm calmly in their talk, grounding the moment in plain reality.
-- 'Alright, thank you very much.' Gulya speaks up pointedly on the spot, steering the talk right where she wants it.
-- 'Of course, be glad, but still be careful.' The guest features one concrete touch in reply: "ostorozhna" means "cautious" (from "ostorozhnyy"), giving the line its exact edge.
-- 'My friend also had a housekeeper just like this.' The guest proceeds pointedly during the talk, bringing things back to earth after the buildup.
-- 'Such a quiet and modest girl.' The guest speaks up quietly watching Gulya, watching Gulya's face to see how the news lands.
-- 'And one day suddenly all the money disappeared.' The guest frames one loaded word in earnest: "propali" means "disappeared" (from "propast"), giving the line its exact edge.
-- 'I am not like that at all.' Gulya gives this answer toward the guest: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Vera, will you lend me five thousand until my pension?' The guest tests straight out before Gulya can change the subject.
-- 'Yes, I will bring it right now.' The guest frames one direct piece for Gulya: "seychas" means "now", and it carries the main weight of what the guest is saying.
+- 'Vera Ivanovna, I washed all the windows.' Emphasizing the window in this beat, Gulya brings in "okna" ("window", from "okno") as the key Russian word here.
+- 'Thank you, Gulya.' The guest politely extends this word of thanks with Gulya using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Rest for now, sit for a bit.' The guest readily voices this casual farewell at this moment using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'You can watch television in the room.' Underscoring the television to Gulya, the guest chooses "televizor" ("television") so Gulya gets the point right away.
+- 'Alright, thank you very much.' Gulya warmly voices this word of thanks to the guest using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Of course, be glad, but still be careful.' The guest weighs in pointedly before Gulya and centers the thought on "ostorozhna" ("cautious", from "ostorozhnyy") without wasting a word.
+- 'My friend also had a housekeeper just like this.' Addressing a housekeeper at once, the guest reaches for the Russian word "domrabotnitsa" ("housekeeper") right at the heart of the line.
+- 'Such a quiet and modest girl.' The guest speaks quietly facing Gulya, grounding the moment in plain reality.
+- 'And one day suddenly all the money disappeared.' Bringing up the money to Gulya, the guest lands on "dengi" ("money") as the key everyday word here.
+- 'I am not like that at all.' Leaning in promptly in the exchange, Gulya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Vera, will you lend me five thousand until my pension?' The guest tests straight out where this conversation is heading next.
+- 'Yes, I will bring it right now.' The guest replies pointedly with Gulya and chooses "prinesu" ("I will bring", from the root "prinesti") so Gulya hears the exact meaning.

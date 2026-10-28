@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And I want to drink to Elena Pavlovna.' Katya weighs in earnestly to be clear, watching Barinov's face to see how the news lands.
-- 'Otherwise we would all be working here right now.' Katya frames one familiar expression right here: "rabotali" means "worked" (from "rabotat"), giving the line its exact edge.
-- 'Dad, and what if she had turned you down?' Katya directs the thought facing Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Well, what would I have done then?' Barinov inquires eagerly where this conversation is heading next.
-- 'Lena, darling, marry me!' Barinov points to one pointed piece on cue: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
-- 'No, Vitya, I cannot agree.' Elena drops that line with warmth: the "-sya" ending on "soglasitsya" ("to agree") turns the action inward or makes it happen between people naturally.
-- 'We cannot climb the stairway of love.' Barinov speaks up quietly as things stand, grounding the moment in plain reality.
-- 'You and I gave up too soon.' Barinov uses this clear choice for Katya: "slishkom" means "too", and it carries the main weight of what Barinov is saying.
-- 'You and I parted ways forever.' Barinov brings the remark calmly now: the "-sya" ending on "razoshlis" ("broke up, parted ways") turns the action inward or makes it happen between people naturally.
-- 'The dark heavens weep bitterly today.' Barinov speaks up pointedly in their talk, refusing to let the moment slip past.
-- 'God sees that I am to blame myself.' Barinov grounds one loaded element at once: "vinovat" means "at fault, guilty" (from "vinovatyy"), giving the line its exact edge.
-- 'Yesterday you said a cold no to me.' Barinov points to one familiar choice toward Katya: "kholodnoye" means "cold" (from "kholodnyy"), giving the line its exact edge.
+- 'And I want to drink to Elena Pavlovna.' Katya speaks wryly with a smile, leaving no doubt about where she stands.
+- 'Otherwise we would all be working here right now.' Katya proceeds decisively on the spot and brings in "rabotali" ("worked", from "rabotat") as the key Russian word here.
+- 'Dad, and what if she had turned you down?' Pushing back readily with Barinov, Katya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Well, what would I have done then?' Barinov inquires eagerly before Katya can change the subject.
+- 'Lena, darling, marry me!' Barinov opens up openly in this beat and uses "dorogaya" ("expensive", from "dorogoy") to make the point stick.
+- 'No, Vitya, I cannot agree.' Stepping in briskly right here, the "-sya" ending on "soglasitsya" ("to agree") marks an action that unfolds mutually or turns back on the speaker.
+- 'We cannot climb the stairway of love.' Barinov proceeds quietly on the spot, making his position completely clear.
+- 'You and I gave up too soon.' Barinov speaks firmly at once and reaches for the Russian word "sdalis" ("to surrender", built from "sdatsya") right at the center of the line.
+- 'You and I parted ways forever.' Holding firm directly in the exchange, the "-sya" ending on "razoshlis" ("broke up, parted ways") marks an action that unfolds mutually or turns back on the speaker.
+- 'The dark heavens weep bitterly today.' Barinov speaks up pointedly around Elena, refusing to let the moment slip past.
+- 'God sees that I am to blame myself.' Barinov jumps in vividly to Elena and centers the thought on "vinovat" ("at fault, guilty", from "vinovatyy") without wasting a word.
+- 'Yesterday you said a cold no to me.' Barinov speaks up evenly with a smile, grounding the moment in plain reality.

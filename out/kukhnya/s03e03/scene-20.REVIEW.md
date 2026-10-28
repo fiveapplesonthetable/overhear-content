@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And that is just what I thought right away! Right away.' Barinov answers briskly before Max, refusing to let the moment slip past.
-- 'Max, do you have any brains at all, throwing yourself under the wheels?' Vika questions skeptically in front of Max without any preamble.
-- 'Well, at least I felt like a hero.' Max grounds one familiar touch toward Barinov: "pochuvstvoval" means "felt" (from "pochuvstvovat"), giving the line its exact edge.
-- 'And still I do not believe in omens, especially bad ones.' Max holds firm earnestly without holding back, making his position completely clear.
-- 'What we consider a sign of bad luck...' Max cuts in earnestly in their talk, leaving no doubt about where he stands.
-- 'Can become the biggest victory.' Max spotlights this telling term in earnest: "bolshoy" means "big", and it carries the main weight of what Max is saying.
-- 'And we usually create our problems for ourselves.' Max follows up earnestly in this moment, steering the talk right where he wants it.
-- 'And then solve them ourselves too.' Max replies at once hearing Vika, leaving no doubt about where he stands.
-- 'And I didn't think you were such a stern father.' Vika grounds one clear word toward Barinov: "surovyy" means "stern, strict", and it carries the main weight of what Vika is saying.
-- 'And I didn't think you were so jealous.' Barinov reaches for this vivid choice on cue: "revnivaya" means "jealous" (from "revnivyy"), giving the line its exact edge.
-- 'For everything to be good, you must believe in yourself, not in omens.' Max holds firm openly in this moment, making his position completely clear.
-- 'Well, except for a black cat, of course.' Max chooses one concrete expression in earnest: "chyornoy" means "black" (from "chyornyy"), giving the line its exact edge.
+- 'And that is just what I thought right away! Right away.' Barinov weighs in evenly in the exchange and puts the weight on "podumal" ("would think", from "podumat") as the exchange unfolds.
+- 'Max, do you have any brains at all, throwing yourself under the wheels?' Vika questions skeptically to see how Max will answer on the spot.
+- 'Well, at least I felt like a hero.' Discussing a hero on the spot, Max centers the thought on "pochuvstvoval" ("felt", from "pochuvstvovat") without wasting a word.
+- 'And still I do not believe in omens, especially bad ones.' Emphasizing the omens with Vika, Max brings in "plokhiye" ("bad", from "plokhoy") as the key Russian word here.
+- 'What we consider a sign of bad luck...' Max cuts in earnestly with Vika, keeping the focus on what actually matters here.
+- 'Can become the biggest victory.' Talking about the biggest victory in this beat, Max chooses "bolshoy" ("big") so Vika gets the point right away.
+- 'And we usually create our problems for ourselves.' Touching on his problems in the exchange, Max puts the weight on "problemy" ("problems", from "problema") as the exchange unfolds.
+- 'And then solve them ourselves too.' Max weighs in at once with a nod, grounding the moment in plain reality.
+- 'And I didn't think you were such a stern father.' Addressing a stern father in this beat, Vika leans on "surovyy" ("stern, strict") to give the whole sentence its punch.
+- 'And I didn't think you were so jealous.' Barinov opens up candidly with Vika, without trying to dress up how he really feels.
+- 'For everything to be good, you must believe in yourself, not in omens.' Max continues openly without any doubt, shifting the mood of the conversation in a single beat.
+- 'Well, except for a black cat, of course.' Discussing a black cat right here, Max brings in "chyornoy" ("black", from "chyornyy") as the key Russian word here.

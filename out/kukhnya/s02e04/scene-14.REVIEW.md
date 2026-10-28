@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Then I will head out.' Barinov aims the thought briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'It has already started.' Vika stands firm evenly beside Barinov, without trying to dress up how she really feels.
-- 'We wrap all of this up.' Barinov chooses this key choice on cue: "svorachivayem" means "to wrap up" (from "svorachivat"), giving the line its exact edge.
-- 'All that is left is to put it in the oven.' Vika steps in frankly without any doubt, shifting the whole mood of the room in a single beat.
-- 'He wanted to buy me off in France.' Barinov jumps in bluntly beside Vika, shifting the whole mood of the room in a single beat.
-- 'Well, you get nothing with vinegar, mister.' Vika grounds one familiar word toward Barinov: "gospodin" means "Mr, sir", and it carries the main weight of what Vika is saying.
-- 'Viktor Barinov is not for sale.' Barinov puts the thought without fuss: the "-sya" ending on "prodayetsya" ("to be sold") turns the action inward or makes it happen between people naturally.
-- 'That is much better.' Vika opens up right away to be clear, testing Barinov's reaction in the middle of the exchange.
-- 'Now that is really good.' Barinov stresses this vivid element in reply: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
-- 'Well, how is it going over there?' Vika shares this line with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Maybe we should not do this?' Barinov wonders point-blank while looking straight at Vika here.
-- 'It did not work.' Vika centers one memorable word at once: "srabotalo" means "to work, succeed" (from "srabotat"), giving the line its exact edge.
-- 'All the worse for him.' Barinov puts that line toward Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Then I will head out.' Leaning in evenly to Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'It has already started.' Vika speaks up evenly with a shrug, making her position completely clear.
+- 'We wrap all of this up.' Talking about the matter around Vika, Barinov puts the weight on "svorachivayem" ("to wrap up", from "svorachivat") as the exchange unfolds.
+- 'All that is left is to put it in the oven.' Vika steps in vividly on the spot and uses "otpravit" ("to send") to carry the main weight of the thought.
+- 'He wanted to buy me off in France.' Barinov weighs in bluntly without any doubt, to clear the air between them once and for all.
+- 'Well, you get nothing with vinegar, mister.' Talking about the vinegar on the spot, Vika centers the remark on "gospodin" ("Mr, sir") without any extra fuss.
+- 'Viktor Barinov is not for sale.' Answering naturally right here, the "-sya" ending on "prodayetsya" ("to be sold") marks an action that unfolds mutually or turns back on the speaker.
+- 'That is much better.' Vika answers right away watching Barinov, leaving no doubt about where she stands.
+- 'Now that is really good.' Barinov fires back vividly before Vika and puts the emphasis on "khorosho" ("good, fine") in the middle of the talk.
+- 'Well, how is it going over there?' Answering directly beside Barinov, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Maybe we should not do this?' Barinov wonders point-blank to see how Vika will answer on the spot.
+- 'It did not work.' Vika counters decisively at once and leans on "srabotalo" ("to work, succeed", a form of "srabotat") to give the remark its edge.
+- 'All the worse for him.' Pushing back quietly on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

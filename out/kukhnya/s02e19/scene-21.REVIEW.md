@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A rare occasion when the old man is actually right.' Max weighs in calmly beside Barinov, shifting the whole mood of the room in a single beat.
-- 'I am sick and tired of this, Viktoriya.' Barinov features one loaded choice right here: "nadoyelo" means "has got boring" (from "nadoyest"), giving the line its exact edge.
-- 'From which the entire staff is suffering.' Vika opens up pointedly as they talk, before Barinov can change the subject.
-- 'Wait, I do not understand, what war?' Max probes calmly where this conversation is heading next.
-- 'Alright, guys, that is enough, enough.' Barinov frames this sharp choice at once: "rebyata" means "the boys, the lads", and it carries the main weight of what Barinov is saying.
-- 'So let me say this one more time.' Vika directs that line with candor: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Viktoriya, I am addressing you directly.' Max holds firm plainly without a pause, without trying to dress up how he really feels.
-- 'Kindly make sure that these people.' Barinov reaches for this sharp term with Vika: "potrudites" means "to take the trouble" (from "potruditsya"), giving the line its exact edge.
-- 'That the cooks do not wander around the dining room.' Vika steps in firmly without any doubt, without trying to dress up how she really feels.
-- 'But when you lost your temper out there...' Max steps in frankly before Vika, making his position completely clear.
-- 'I realized that is the exact energy I need.' Vika reaches for one classic expression right here: "ponyala" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'You were so expressive.' Vika delivers this statement facing Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'You have such strong and gentle hands.' Max speaks up frankly without holding back, making his position completely clear.
+- 'A rare occasion when the old man is actually right.' Max steps in calmly watching Barinov, watching Barinov's face to see how the news lands.
+- 'I am sick and tired of this, Viktoriya.' Barinov steps in warmly in front of Max and leans on "nadoyelo" ("has got boring", a form of "nadoyest") to give the remark its edge.
+- 'From which the entire staff is suffering.' Discussing the entire staff during the talk, Vika puts the emphasis on "personal" ("staff") in the middle of the talk.
+- 'Wait, I do not understand, what war?' Max probes calmly why things suddenly took this turn between them.
+- 'Alright, guys, that is enough, enough.' Mentioning the boys in this beat, Barinov brings in "rebyata" ("the boys, the lads") to make the meaning unmistakable.
+- 'So let me say this one more time.' Cutting in calmly at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Viktoriya, I am addressing you directly.' Max follows up plainly without a pause, keeping the focus on what actually matters here.
+- 'Kindly make sure that these people.' Barinov responds openly beside Max and leans on "potrudites" ("to take the trouble", a form of "potruditsya") to give the remark its edge.
+- 'That the cooks do not wander around the dining room.' Underscoring the cook in the exchange, Vika brings in "povara" ("cook", from "povar") as the key Russian word here.
+- 'But when you lost your temper out there...' Max proceeds frankly watching Vika, so Vika knows he is not just making small talk.
+- 'I realized that is the exact energy I need.' Vika replies promptly in the exchange and lands on "ponyala" ("understood", built on "ponyat") to keep the statement grounded.
+- 'You were so expressive.' Leaning in naturally with Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'You have such strong and gentle hands.' Max steps in frankly with a shrug, without trying to dress up how he really feels.

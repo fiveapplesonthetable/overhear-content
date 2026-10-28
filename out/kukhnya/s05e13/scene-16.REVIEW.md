@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim is my friend and a very good person.' Kostya favors this telling element in reply: "khoroshiy" means "good", and it carries the main weight of what Kostya is saying.
-- 'Why then is a good person in the dock?' Nastya aims the comment briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well, everyone has their own minor flaws.' Kostya counters sharply hearing Barinov, shifting the whole mood of the room in a single beat.
-- 'Answer faster, you cannot drink water forever!' Nastya centers one practical touch at once: "otvechayte" means "answer" (from "otvechat"), giving the line its exact edge.
-- 'You will still have to answer honestly.' Nastya lays out the remark for Barinov: the "-sya" ending on "pridyotsya" ("you'll have to") turns the action inward or makes it happen between people naturally.
-- 'May I quickly step out to the restroom first?' Kostya presses skeptically before Nastya can change the subject.
-- 'No! Tell us, what are his flaws?' Nastya points to one vivid detail right here: "nedostatki" means "flaws, shortcomings" (from "nedostatok"), giving the line its exact edge.
-- 'He does not wash the dishes after himself at home.' Kostya reacts lightly to settle things, refusing to let the moment slip past.
-- 'I warn you, you are under oath!' Barinov speaks bluntly before Kostya, before Kostya can change the subject.
-- 'And could such a person kiss Sasha?' Nastya spotlights one colorful piece in earnest: "potselovat" means "to kiss", and it carries the main weight of what Nastya is saying.
-- 'He could, because he used to date her before.' Kostya shares the thought with candor: the "-sya" ending on "vstrechalsya" ("met, was meeting") turns the action inward or makes it happen between people naturally.
-- 'Yes! I have no further questions!' Nastya proceeds evenly without a pause, refusing to let the moment slip past.
+- 'Maxim is my friend and a very good person.' Highlighting how good things are beside Nastya, Kostya lands on "khoroshiy" ("good") as the key everyday word here.
+- 'Why then is a good person in the dock?' Returning to the defendant to Kostya, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well, everyone has their own minor flaws.' Kostya proceeds sharply without holding back, grounding the moment in plain reality.
+- 'Answer faster, you cannot drink water forever!' Nastya weighs in openly right here and chooses "otvechayte" ("answer", from the root "otvechat") so Kostya hears the exact meaning.
+- 'You will still have to answer honestly.' Opening up briskly before Kostya, the "-sya" ending on "pridyotsya" ("you'll have to") marks an action that unfolds mutually or turns back on the speaker.
+- 'May I quickly step out to the restroom first?' Kostya presses skeptically whether Nastya really thought this through.
+- 'No! Tell us, what are his flaws?' Focusing on the flaws around Kostya, Nastya leans on "nedostatki" ("flaws, shortcomings", a form of "nedostatok") to give the remark its edge.
+- 'He does not wash the dishes after himself at home.' Bringing up the dishes at once, Kostya brings in "posudu" ("the dishes", from "posuda") as the key Russian word here.
+- 'I warn you, you are under oath!' Barinov fires back bluntly without any doubt, grounding the moment in plain reality.
+- 'And could such a person kiss Sasha?' Addressing a person with Kostya, Nastya reaches for the Russian word "potselovat" ("to kiss") right at the heart of the line.
+- 'He could, because he used to date her before.' Answering boldly in the exchange, the "-sya" ending on "vstrechalsya" ("met, was meeting") marks an action that unfolds mutually or turns back on the speaker.
+- 'Yes! I have no further questions!' Mentioning the questions with Kostya, Nastya puts the real issue right on the table for Kostya.

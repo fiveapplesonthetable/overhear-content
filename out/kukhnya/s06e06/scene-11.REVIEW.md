@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How about you stop bothering me.' Nastya offers that answer toward Barinov: the word "davayte" is the polite or group version of "let's", inviting Barinov into the plan right away.
-- 'I will go take a quiet walk outside instead.' Nastya speaks up frankly as things stand, making her position completely clear.
-- 'He called you by your name for the first time.' Nastya leans on one pointed term right here: "vpervyye" means "for the first time", and it carries the main weight of what Nastya is saying.
-- 'I will be the first in Russia to get a star!' Barinov jumps in quietly with a nod, watching Nastya's face to see how the news lands.
-- 'Chef, we have already solved everything ourselves.' Denis reacts sharply in their talk, making his position completely clear.
-- 'What exactly did the two of you solve?' Barinov focuses on one memorable expression toward Nastya: "vdvoyom" means "the two of us together", and it carries the main weight of what Barinov is saying.
-- 'We planted a packet in the Frenchman's room.' Denis jumps in evenly in this moment, without trying to dress up how he really feels.
-- 'And then we immediately called the police there.' Denis stands firm sharply hearing Nastya, shifting the whole mood of the room in a single beat.
-- 'They will arrive now, find it, and deport him.' Denis emphasizes one memorable piece in reply: "priyedut" means "they'll come" (from "priyekhat"), giving the line its exact edge.
-- 'Quickly to the room and clear everything out of there!' Barinov opens up steadily across the room, without trying to dress up how he really feels.
-- 'We will not make it in time, the police are already coming!' Denis jumps in at once in this moment, testing Barinov's reaction in the middle of the exchange.
-- 'I will meet them myself, run upstairs!' Listen to how Barinov faces Nastya with candor — the Russian word "vstrechu" ("meeting", built from "vstrecha") does the heavy lifting.
+- 'How about you stop bothering me.' Following up dryly at once, Nastya uses the polite or group form "davayte" ("let's") to bring Barinov into the plan.
+- 'I will go take a quiet walk outside instead.' Nastya proceeds frankly with a shrug, without trying to dress up how she really feels.
+- 'He called you by your name for the first time.' Talking about the name in this beat, Nastya brings in "vpervyye" ("for the first time") to make the meaning unmistakable.
+- 'I will be the first in Russia to get a star!' Pointing to a star beside Nastya, Barinov leans on "pervyy" ("first") to give the whole sentence its punch.
+- 'Chef, we have already solved everything ourselves.' Denis opens up sharply toward Barinov, to clear the air between them once and for all.
+- 'What exactly did the two of you solve?' Barinov cuts in briskly in front of Denis and lands on "vdvoyom" ("the two of us together") as the key everyday word here.
+- 'We planted a packet in the Frenchman's room.' Talking about the plastic bag to Barinov, Denis leans on "frantsuzu" ("Frenchman", a form of "frantsuz") to give the remark its edge.
+- 'And then we immediately called the police there.' Denis jumps in sharply with Barinov, making his position completely clear.
+- 'They will arrive now, find it, and deport him.' Denis weighs in warmly to Barinov and puts the weight on "priyedut" ("they'll come", from "priyekhat") as the exchange unfolds.
+- 'Quickly to the room and clear everything out of there!' Focusing on the number during the talk, Barinov chooses "nomer" ("number") so Denis gets the point right away.
+- 'We will not make it in time, the police are already coming!' Denis speaks up at once on the spot, to clear the air between them once and for all.
+- 'I will meet them myself, run upstairs!' Touching on the meeting right here, Barinov leans on "vstrechu" ("meeting", a form of "vstrecha") to give the remark its edge.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, please, do not even start.' Max brings the reaction without fuss: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Five minutes is not being late.' Max counters pointedly watching Lyova, to clear the air between them once and for all.
-- 'If the mustachioed walrus asks, I arrived on time.' Max stresses one sharp element toward the guest: "usatyy" means "friend", and it carries the main weight of what Max is saying.
-- 'Then you get a fine of half a paycheck.' Lyova brings the remark in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Be late one more time and you will be left without a paycheck.' Lyova responds earnestly with a shrug, without trying to dress up how he really feels.
-- 'Lyova, but that is unfair!' Max picks one clear detail on cue: "nespravedlivo" means "unfairly", and it carries the main weight of what Max is saying.
-- 'And for the walrus comment, you are taking out the trash all day.' Lyova speaks frankly with the guest, before the guest can change the subject.
-- 'Now everything is fair, right?' Lyova wonders skeptically as Max tries to explain the situation.
-- 'You are deliberately trying to take my place, right?' Max frames one telling piece at once: "podsizhivayesh" means "are trying to take my job" (from "podsizhivat"), giving the line its exact edge.
-- 'Hey, you should move your car out of here.' Max chooses one telling term right here: "slyshish" means "hear" (from "slyshat"), giving the line its exact edge.
-- 'People actually walk through here.' Max speaks bluntly before the guest, letting the remark speak for itself.
-- 'Nothing will happen, they can walk around it.' The guest sharpens one loaded choice in earnest: "sluchitsya" means "will happen", and it carries the main weight of what the guest is saying.
-- 'You are going to move your car right now, got it?' Max shares this line for the guest: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'Lyova, please, do not even start.' Max follows up pointedly around Lyova and chooses "nachinay" ("start", from the root "nachinat") so Lyova hears the exact meaning.
+- 'Five minutes is not being late.' Max counters pointedly with a shrug, watching Lyova's face to see how the news lands.
+- 'If the mustachioed walrus asks, I arrived on time.' Mentioning the mustachioed walrus to Lyova, Max leans on "usatyy" ("friend") to give the whole sentence its punch.
+- 'Then you get a fine of half a paycheck.' Stepping in calmly before Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Be late one more time and you will be left without a paycheck.' Lyova follows up earnestly beside Max, so Max knows he is not just making small talk.
+- 'Lyova, but that is unfair!' Max pushes back dryly in the exchange and lands on "nespravedlivo" ("unfairly") as the key everyday word here.
+- 'And for the walrus comment, you are taking out the trash all day.' Focusing on the walrus at once, Lyova brings in "morzha" ("walrus", from "morzh") as the key Russian word here.
+- 'Now everything is fair, right?' Lyova wonders skeptically before Max can change the subject.
+- 'You are deliberately trying to take my place, right?' Max fires back boldly in front of Lyova and lands on "podsizhivayesh" ("are trying to take my job", built on "podsizhivat") to keep the statement grounded.
+- 'Hey, you should move your car out of here.' Max responds openly without any doubt, without trying to dress up how he really feels.
+- 'People actually walk through here.' Max counters bluntly with a shrug, watching the guest's face to see how the news lands.
+- 'Nothing will happen, they can walk around it.' The guest pushes back firmly to Max and leans on "sluchitsya" ("will happen") to give the whole sentence its punch.
+- 'You are going to move your car right now, got it?' Turning dryly beside the guest, Max keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good, put the wardrobe right here.' Vika frames this line toward Max: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Wait, let me tell them myself.' Max jumps in pointedly to be clear, leaving no doubt about where he stands.
-- 'And what should we do with the old furniture?' Max spotlights one loaded piece at once: "mebelyu" means "furniture" (from "mebel"), giving the line its exact edge.
-- 'Just throw it out onto the street.' Vika directs the reaction with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Vika, let me do everything myself.' Max counters bluntly before Vika, saying out loud what both of them already know.
-- 'Yes, of course, and just when will that be?' Vika favors one familiar piece for Max: "konechno" means "of course", and it carries the main weight of what Vika is saying.
-- 'You have not been able to change the tires for half a year.' Vika highlights one key element with Max: "polgoda" means "six months", and it carries the main weight of what Vika is saying.
-- 'The car just stands there in the courtyard.' Vika stands firm firmly without any doubt, refusing to let the moment slip past.
-- 'Vika, I will definitely change them today.' Max favors this clear word for Vika: "obyazatelno" means "surely, without fail", and it carries the main weight of what Max is saying.
-- 'We will see how you do that.' Vika stresses this direct piece with Max: "posmotrim" means "have a look" (from "posmotret"), giving the line its exact edge.
-- 'You will see, by evening everything will be ready.' Max steps in frankly as things stand, to clear the air between them once and for all.
-- 'Then take the keys to the car.' Vika points to one direct detail toward Max: "klyuchi" means "the keys" (from "klyuch"), giving the line its exact edge.
+- 'Good, put the wardrobe right here.' Focusing on the wardrobe in the exchange, Vika puts the emphasis on "khorosho" ("good, fine") in the middle of the talk.
+- 'Wait, let me tell them myself.' Max counters pointedly with a nod, bringing things back to earth after the buildup.
+- 'And what should we do with the old furniture?' Discussing the old furniture at once, Max uses "mebelyu" ("furniture", from "mebel") to make the point stick.
+- 'Just throw it out onto the street.' Turning to the street on the spot, Vika uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Vika, let me do everything myself.' Max steps in bluntly without a pause, letting the remark speak for itself.
+- 'Yes, of course, and just when will that be?' Vika fires back openly with Max and reaches for the Russian word "konechno" ("of course") right at the heart of the line.
+- 'You have not been able to change the tires for half a year.' Vika pushes back warmly without holding back, shifting the mood of the conversation in a single beat.
+- 'The car just stands there in the courtyard.' Vika counters firmly hearing Max, refusing to let the moment slip past.
+- 'Vika, I will definitely change them today.' Max speaks up calmly in front of Vika and uses "obyazatelno" ("surely, without fail") to carry the main weight of the thought.
+- 'We will see how you do that.' Vika steps in lightly with a sigh, steering the talk right where she wants it.
+- 'You will see, by evening everything will be ready.' Max replies frankly with a nod, to clear the air between them once and for all.
+- 'Then take the keys to the car.' Focusing on the keys on the spot, Vika reaches for the Russian word "klyuchi" ("the keys", built from "klyuch") right at the center of the line.

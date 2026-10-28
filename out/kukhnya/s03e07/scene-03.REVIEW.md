@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, that is not a fact at all.' Max counters warmly with a smile, letting the remark speak for itself.
-- 'The name Dmitry infuriates me altogether.' Max points to one direct detail in reply: "voobshche" means "at all", and it carries the main weight of what Max is saying.
-- 'Take your bill, please.' Max directs this point toward Nagiyev: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Wait, I have a question for you.' Max continues briskly during the talk, leaving no doubt about where he stands.
-- 'Wait for me one second.' Max stresses one familiar piece in reply: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'What, are you worried that they did not pay you?' Nagiyev offers the reaction toward Vika: the "-sya" ending on "volnuyeshsya" ("to worry") turns the action inward or makes it happen between people naturally.
-- 'Remember, this is my personal restaurant.' Nagiyev steps in openly to be clear, grounding the moment in plain reality.
-- 'If I want to I pay, and if I want to I do not.' Nagiyev emphasizes this clear piece right here: "khochu" means "want" (from "khotet"), giving the line its exact edge.
-- 'Well, most often not, of course.' Nagiyev responds briskly as things stand, so Max knows he is not just making small talk.
-- 'So do not worry, go on, step along.' Nagiyev speaks up evenly without a pause, bringing things back to earth after the buildup.
-- 'Vika will not go anywhere with you.' Max leans on one practical term toward Nagiyev: "poydyot" means "will go" (from "poyti"), giving the line its exact edge.
-- 'Max, please, do not start right now.' Vika hands over that line beside Nagiyev: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'No, that is not a fact at all.' Max replies warmly without a pause, so Nagiyev knows he is not just making small talk.
+- 'The name Dmitry infuriates me altogether.' Emphasizing the name on the spot, Max brings in "voobshche" ("at all") to make the meaning unmistakable.
+- 'Take your bill, please.' Max politely delivers this courtesy word with Nagiyev using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Wait, I have a question for you.' Max chimes in briskly without holding back, watching Nagiyev's face to see how the news lands.
+- 'Wait for me one second.' Mentioning the second with Nagiyev, Max leans on "podozhdite" ("wait", a form of "podozhdat") to give the remark its edge.
+- 'What, are you worried that they did not pay you?' Jumping in promptly on the spot, the "-sya" ending on "volnuyeshsya" ("to worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'Remember, this is my personal restaurant.' Nagiyev replies openly in their talk, bringing things back to earth after the buildup.
+- 'If I want to I pay, and if I want to I do not.' Nagiyev replies warmly at once and brings in "plachu" ("pay", from "platit") as the key Russian word here.
+- 'Well, most often not, of course.' Nagiyev answers calmly in this beat and brings in "chashche" ("more often", from "chasto") as the key Russian word here.
+- 'So do not worry, go on, step along.' Nagiyev weighs in evenly with a sigh, to clear the air between them once and for all.
+- 'Vika will not go anywhere with you.' Max chimes in evenly before Vika and uses "poydyot" ("will go", from "poyti") to make the point stick.
+- 'Max, please, do not start right now.' Vika weighs in quietly on the spot and centers the thought on "nachinay" ("start", from "nachinat") without wasting a word.

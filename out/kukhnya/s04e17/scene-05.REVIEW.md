@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, and what are we to do now?' Barinov lays out that point briskly now: putting the question word "chto" right at the front of the line lets Eva hear the point of the question on the very first beat.
-- 'Personally, I am definitely going to have the baby.' Eva responds briskly with a sigh, saying out loud what both of them already know.
-- 'But you need some help, after all.' Barinov emphasizes one colorful touch on cue: "pomoch" means "to help", and it carries the main weight of what Barinov is saying.
-- 'I do not need anything from you.' Eva directs the thought toward Barinov: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'But you can help the child.' Eva follows up decisively with a shrug, without trying to dress up how she really feels.
-- 'Tell me, how exactly can I help him?' Barinov picks one clear touch for Eva: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
-- 'Well, at least financially.' Eva directs this statement with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I live very far from work.' Eva continues pointedly to be clear, watching Barinov's face to see how the news lands.
-- 'It would be nice to rent an apartment nearby.' Eva chooses one loaded detail in reply: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'It is very hard for me to ride the metro.' Eva weighs in lightly without holding back, letting the remark speak for itself.
-- 'I understood you very well.' Barinov replies boldly with a nod, so Eva knows he is not just making small talk.
-- 'All right, I will think about it.' Barinov underscores this sharp term with Eva: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
+- 'Well, and what are we to do now?' Pressing on smoothly with Eva, Barinov puts the question word "chto" right at the start so Eva hears the focus immediately.
+- 'Personally, I am definitely going to have the baby.' Eva pushes back briskly toward Barinov, bringing things back to earth after the buildup.
+- 'But you need some help, after all.' Barinov continues quietly on the spot and chooses "pomoch" ("to help") so Eva gets the point right away.
+- 'I do not need anything from you.' Cutting in briskly beside Barinov, Eva pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'But you can help the child.' Eva pushes back decisively hearing Barinov, grounding the moment in plain reality.
+- 'Tell me, how exactly can I help him?' Barinov speaks earnestly in the exchange and puts the weight on "skazhi" ("say", from "skazat") as the exchange unfolds.
+- 'Well, at least financially.' Pushing back smoothly during the talk, Eva uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I live very far from work.' Eva answers pointedly with a smile, so Barinov knows she is not just making small talk.
+- 'It would be nice to rent an apartment nearby.' Talking about the flat in front of Barinov, Eva reaches for the Russian word "kvartiru" ("flat", built from "kvartira") right at the center of the line.
+- 'It is very hard for me to ride the metro.' Turning to the metro to Barinov, Eva puts the emphasis on "tyazhelo" ("hard") in the middle of the talk.
+- 'I understood you very well.' Barinov speaks up boldly without any doubt, shifting the mood of the conversation in a single beat.
+- 'All right, I will think about it.' Barinov opens up earnestly in the exchange and centers the remark on "khorosho" ("good, fine") without any extra fuss.

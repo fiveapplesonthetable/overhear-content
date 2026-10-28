@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, why did you even let her in here?' Barinov offers this update to Katya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'And what could I do, Chef?' Lyova challenges skeptically what Katya is actually getting at here.
-- 'Vera Ivanovna, where do you keep your wineglasses?' Katya emphasizes this key term with Barinov: "bokaly" means "glasses" (from "bokal"), giving the line its exact edge.
-- 'The glasses are in the right cupboard, sweet Evochka.' Lyova cuts in promptly hearing Katya, testing Katya's reaction in the middle of the exchange.
-- 'Tell me, please, how did you two meet?' Lyova prompts frankly to see how Barinov will answer on the spot.
-- 'It was my first day at the restaurant.' Katya frames one familiar detail at once: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'I look, and a solid man is standing there with a cigar!' Katya holds firm evenly with a nod, letting the remark speak for itself.
-- 'Lyova, you are not watching the time at all!' Barinov cuts in sharply on the spot, leaving no doubt about where he stands.
-- 'We are running late, Katya invited all of us!' Barinov leans on one familiar element with Katya: "opazdyvayem" means "are late" (from "opazdyvat"), giving the line its exact edge.
-- 'Why did you stage all this in the house?' Katya phrases the remark with candor: putting the question word "zachem" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'Lyova, go take a walk until ten o'clock at night!' Barinov pushes back firmly without holding back, keeping the focus on what actually matters here.
-- 'And do not show up in this house anymore!' Barinov spotlights one clear choice at once: "poyavlyaysya" means "anymore", and it carries the main weight of what Barinov is saying.
+- 'Lyova, why did you even let her in here?' Following up plainly in the exchange, Barinov drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'And what could I do, Chef?' Lyova challenges skeptically how Barinov expects that to work in practice.
+- 'Vera Ivanovna, where do you keep your wineglasses?' Highlighting the glasses around Lyova, Katya centers the thought on "bokaly" ("glasses", from "bokal") without wasting a word.
+- 'The glasses are in the right cupboard, sweet Evochka.' Focusing on the evochka on the spot, Lyova centers the remark on "shkafchike" ("evochka") without any extra fuss.
+- 'Tell me, please, how did you two meet?' Lyova prompts frankly while looking straight at Katya here.
+- 'It was my first day at the restaurant.' Touching on the restaurant on the spot, Katya lands on "restorane" ("restaurant", built on "restoran") to keep the statement grounded.
+- 'I look, and a solid man is standing there with a cigar!' Pointing to a solid man in the exchange, Katya centers the remark on "muzhchina" ("man") without any extra fuss.
+- 'Lyova, you are not watching the time at all!' Barinov cuts in sharply across the room, keeping the focus on what actually matters here.
+- 'We are running late, Katya invited all of us!' Barinov pushes back promptly on the spot and uses "opazdyvayem" ("are late", from "opazdyvat") to make the point stick.
+- 'Why did you stage all this in the house?' Opening up quietly to Barinov, Katya puts the question word "zachem" right at the start so Barinov hears the focus immediately.
+- 'Lyova, go take a walk until ten o'clock at night!' Barinov opens up firmly toward Lyova, watching Lyova's face to see how the news lands.
+- 'And do not show up in this house anymore!' Addressing the anymore beside Katya, Barinov brings in "poyavlyaysya" ("anymore") to make the meaning unmistakable.

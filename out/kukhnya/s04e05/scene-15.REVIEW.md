@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, when I heard this, I was simply stunned!' Senya pushes back boldly hearing Fedya, testing Fedya's reaction in the middle of the exchange.
-- 'Folks, I do not understand, what is this meeting?' Max stresses this vivid detail with Senya: "sobraniye" means "meeting", and it carries the main weight of what Max is saying.
-- 'Tell us honestly, when will they lower our salary?' Fedya brings that remark on cue: putting the question word "kogda" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Guys, when I heard this, I was simply stunned!' Senya cuts in boldly hearing Max, steering the talk right where he wants it.
+- 'Folks, I do not understand, what is this meeting?' Touching on the meeting before Fedya, Max centers the remark on "sobraniye" ("meeting") without any extra fuss.
+- 'Tell us honestly, when will they lower our salary?' Talking about his salary with Senya, Fedya puts the question word "kogda" right at the start so Senya hears the focus immediately.
 - 'And when will they throw us all out onto the street?' Senya asks openly whether Max really thought this through.
-- 'Guys, what is with you, have you gone completely nuts?' Max colors this clear element at once: "rekhnulis" means "to nuts" (from "rekhnutsya"), giving the line its exact edge.
-- 'Who on earth told you such nonsense?' Max offers that thought beside Senya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'We will go to German together right now!' Senya counters plainly in their talk, letting the remark speak for itself.
-- 'Yes, let's go and find everything out from him!' Fedya sharpens this key touch on cue: "vyyasnim" means "to find out" (from "vyyasnit"), giving the line its exact edge.
-- 'Stop, folks, stand right here in place!' Max cuts in firmly without holding back, refusing to let the moment slip past.
-- 'You do not need to go anywhere right now.' Max fires back earnestly without any doubt, keeping the focus on what actually matters here.
-- 'I will go to German's office myself.' Max stresses one clear element with Fedya: "germanu" means "coffee" (from "germana"), giving the line its exact edge.
-- 'And I will arrange for him not to touch your salary.' Max shapes that point briskly now: the "-sya" ending on "dogovoryus" ("to agree, to arrange") turns the action inward or makes it happen between people naturally.
+- 'Guys, what is with you, have you gone completely nuts?' Pointing to the guys to Senya, Max chooses "rekhnulis" ("to nuts", from the root "rekhnutsya") so Senya hears the exact meaning.
+- 'Who on earth told you such nonsense?' Mentioning the nonsense with Senya, Max drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'We will go to German together right now!' Senya jumps in plainly on the spot, watching Max's face to see how the news lands.
+- 'Yes, let's go and find everything out from him!' Fedya opens up sharply on the spot and chooses "vyyasnim" ("to find out", from the root "vyyasnit") so Senya hears the exact meaning.
+- 'Stop, folks, stand right here in place!' Bringing up the friends in this beat, Max uses "druzya" ("friends", from "drug") to make the point stick.
+- 'You do not need to go anywhere right now.' Max steps in earnestly hearing Fedya, grounding the moment in plain reality.
+- 'I will go to German's office myself.' Bringing up the coffee in the exchange, Max reaches for the Russian word "germanu" ("coffee", built from "germana") right at the center of the line.
+- 'And I will arrange for him not to touch your salary.' Turning to the salary around Fedya, Max puts the weight on "zarplatu" ("salary", from "zarplata") as the exchange unfolds.

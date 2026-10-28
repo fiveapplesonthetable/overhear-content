@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, everything is in your hands right now.' Barinov hands over the reply right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Show them who is the master in the kitchen.' Barinov steps in plainly with Senya, testing Senya's reaction in the middle of the exchange.
-- 'Go and win back your jobs.' Barinov grounds this sharp element toward Fedya: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
-- 'Chef, we will tear them apart today!' Senya answers pointedly during the talk, making his position completely clear.
-- 'We will quickly defeat these cooks.' Fedya reacts at once without a pause, without trying to dress up how he really feels.
-- 'Better prove that in the kitchen.' Barinov points to one memorable touch on cue: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'Let us do it like in the old days!' Barinov lays out this warning with warmth: the word "davayte" is the polite or group version of "let's", inviting Fedya into the plan right away.
-- 'Each pair will prepare one dish.' Barinov speaks warmly toward Senya, refusing to let the moment slip past.
-- 'Whoever cooks better will stay.' Barinov focuses on this key choice with Fedya: "prigotovit" means "makes, cooks", and it carries the main weight of what Barinov is saying.
-- 'The best will remain in this kitchen.' Barinov jumps in frankly as things stand, letting the remark speak for itself.
-- 'You have exactly half an hour.' Barinov fires back briskly beside Fedya, testing Fedya's reaction in the middle of the exchange.
-- 'Come on, guys, get started on the work!' Barinov favors one colorful detail in earnest: "pristupayte" means "get started" (from "pristupat"), giving the line its exact edge.
+- 'Guys, everything is in your hands right now.' Mentioning the hands right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Show them who is the master in the kitchen.' Barinov counters plainly with a sigh, watching Senya's face to see how the news lands.
+- 'Go and win back your jobs.' Discussing the job in this beat, Barinov brings in "rabotu" ("job", from "rabota") as the key Russian word here.
+- 'Chef, we will tear them apart today!' Senya follows up boldly right here and leans on "segodnya" ("today") to give the whole sentence its punch.
+- 'We will quickly defeat these cooks.' Bringing up the cooks in their talk, Fedya speaks plainly so Senya gets the message at once.
+- 'Better prove that in the kitchen.' Emphasizing the kitchen in front of Fedya, Barinov brings in "kukhne" ("kitchen", from "kukhnya") as the key Russian word here.
+- 'Let us do it like in the old days!' Discussing the time at once, Barinov uses the polite or group form "davayte" ("let's") to bring Fedya into the plan.
+- 'Each pair will prepare one dish.' Barinov steps in warmly hearing Fedya, shifting the mood of the conversation in a single beat.
+- 'Whoever cooks better will stay.' Barinov follows up sharply on the spot and lands on "prigotovit" ("makes, cooks") as the key everyday word here.
+- 'The best will remain in this kitchen.' Addressing the kitchen in this beat, Barinov leans on "luchshiye" ("best", a form of "luchshiy") to give the remark its edge.
+- 'You have exactly half an hour.' Barinov speaks up briskly without a pause, keeping the focus on what actually matters here.
+- 'Come on, guys, get started on the work!' Addressing the boys on the spot, Barinov uses "pristupayte" ("get started", from "pristupat") to make the point stick.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, please come to the window!' Max states that remark around Vika: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Well, do you not want to see me at all?' Max challenges sharply as Vika tries to explain the situation.
-- 'Alright, then at least just say goodbye to me.' Max grounds one key element in earnest: "proshchaysya" means "say goodbye" (from "proshchatsya"), giving the line its exact edge.
-- 'Aha, are you playing hide-and-seek with me?' Max delivers this warning at once: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'You are acting just like in kindergarten!' Max replies promptly with a nod, keeping the focus on what actually matters here.
-- 'And look who is talking right now!' Vika underscores one classic word right here: "seychas" means "now", and it carries the main weight of what Vika is saying.
-- 'And I could have fallen from here at any moment.' Max stands firm quietly with a sigh, so Vika knows he is not just making small talk.
-- 'Look, if I fall, it will be on your conscience!' Max speaks pointedly on the spot, making his position completely clear.
-- 'Max, you fool, what are you doing out there!' Vika sharpens this key element for Max: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'Do not worry, everything is secure here.' Max frames that line in earnest: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
-- 'Be careful, Max, hold on tight!' Vika follows up candidly before Max, steering the talk right where she wants it.
-- 'Good Lord, Max, did you fall!' Vika centers one pointed term for Max: "upal" means "fell" (from "upast"), giving the line its exact edge.
+- 'Vika, please come to the window!' Highlighting the window on the spot, Max chooses "podoydi" ("approach, go up", from the root "podoyti") so Vika hears the exact meaning.
+- 'Well, do you not want to see me at all?' Max challenges sharply whether Vika really thought this through.
+- 'Alright, then at least just say goodbye to me.' Max answers decisively right here and chooses "proshchaysya" ("say goodbye", from the root "proshchatsya") so Vika hears the exact meaning.
+- 'Aha, are you playing hide-and-seek with me?' Replying boldly at once, Max puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'You are acting just like in kindergarten!' Max counters promptly around Vika, leaving no doubt about where he stands.
+- 'And look who is talking right now!' Vika counters dryly in the exchange and chooses "govoril" ("said, were saying", from the root "govorit") so Max hears the exact meaning.
+- 'And I could have fallen from here at any moment.' Discussing the moment on the spot, Max chooses "moment" ("moment") so Vika gets the point right away.
+- 'Look, if I fall, it will be on your conscience!' Max steps in pointedly on the spot, leaving no doubt about where he stands.
+- 'Max, you fool, what are you doing out there!' Turning to the fool on the spot, Vika reaches for the Russian word "durak" ("fool, idiot") right at the heart of the line.
+- 'Do not worry, everything is secure here.' Reacting dryly right here, the "-sya" ending on "volnuysya" ("worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'Be careful, Max, hold on tight!' Vika chimes in candidly toward Max, testing Max's reaction in the middle of the exchange.
+- 'Good Lord, Max, did you fall!' Vika jumps in plainly in the exchange and brings in "upal" ("fell", from "upast") as the key Russian word here.

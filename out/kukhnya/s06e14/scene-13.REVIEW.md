@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One time we stole two brides at once.' Timur chooses one telling piece at once: "nevest" means "bride, fiancée" (from "nevesta"), giving the line its exact edge.
-- 'Do you want us to steal her right now?' Timur puts the comeback on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'Right here, in our hotel?' Lyova presses briskly if there is more going on behind the scenes.
-- 'She is working alone in the laundry room today.' Lyova emphasizes one familiar word with Timur: "prachechnoy" means "laundromat" (from "prachechnaya"), giving the line its exact edge.
-- 'Excellent, then I understood everything well.' Timur shares the remark plainly here: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
-- 'Wait for us at home and prepare a celebration.' Timur opens up candidly with a nod, making his position completely clear.
-- 'Listen, have you seen Katya by any chance?' Lyova spotlights one classic choice on cue: "sluchayno" means "by any chance", and it carries the main weight of what Lyova is saying.
-- 'Denis, you are going the wrong way right now.' Timur states the reaction briskly now: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'There are many roads, but only one true path.' Timur continues openly across the room, so Ainura knows he is not just making small talk.
-- 'Tell me, where is your restroom here?' Lyova sharpens one classic piece in earnest: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
-- 'Go home, I will finish up your chores.' Ainura chooses one clear detail in reply: "dodelayu" means "finish doing" (from "dodelat"), giving the line its exact edge.
-- 'Do not forget to close the door to the laundry room.' Ainura opens up lightly without any doubt, watching Timur's face to see how the news lands.
+- 'One time we stole two brides at once.' Discussing the bride to Lyova, Timur reaches for the Russian word "nevest" ("bride, fiancée", built from "nevesta") right at the center of the line.
+- 'Do you want us to steal her right now?' Turning briskly on the spot, Timur keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'Right here, in our hotel?' Lyova presses briskly to see how Timur will answer on the spot.
+- 'She is working alone in the laundry room today.' Highlighting the laundromat around Timur, Lyova lands on "prachechnoy" ("laundromat", built on "prachechnaya") to keep the statement grounded.
+- 'Excellent, then I understood everything well.' Pressing on firmly beside Lyova, Timur leans on "otlichno" ("great, excellent"), which carries the whole predicate in Russian without needing "it is".
+- 'Wait for us at home and prepare a celebration.' Bringing up the holiday facing Lyova, Timur brings the exchange with Lyova back to practical reality.
+- 'Listen, have you seen Katya by any chance?' Lyova cuts in warmly in the exchange and leans on "sluchayno" ("by any chance") to give the whole sentence its punch.
+- 'Denis, you are going the wrong way right now.' Timur weighs in pointedly around Lyova, refusing to let the moment slip past.
+- 'There are many roads, but only one true path.' Timur responds openly across the room, testing Lyova's reaction in the middle of the exchange.
+- 'Tell me, where is your restroom here?' Highlighting the toilet beside Ainura, Lyova leans on "tualet" ("toilet") to give the whole sentence its punch.
+- 'Go home, I will finish up your chores.' Ainura chimes in promptly hearing Lyova, leaving no doubt about where she stands.
+- 'Do not forget to close the door to the laundry room.' Ainura cuts in lightly hearing Lyova, letting the remark speak for itself.

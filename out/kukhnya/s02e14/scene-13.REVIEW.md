@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing?' Barinov sharpens one key piece for Senya: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'The same thing you do.' Senya puts that remark frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Just as I thought.' Barinov responds boldly across the room, watching Senya's face to see how the news lands.
-- 'Oh, that is just perfect.' Senya anchors one classic touch toward Barinov: "otlichno" means "perfect, great", and it carries the main weight of what Senya is saying.
-- 'Enjoy your meal.' Barinov lays out the thought for Senya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'And what is this?' Senya presses eagerly how Barinov expects that to work in practice.
-- 'Prepared especially for you by our chef.' Barinov underscores one key term at once: "prigotovlennyy" means "prepared, cooked", and it carries the main weight of what Barinov is saying.
-- 'No, I understand that.' Senya makes that reply calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'But what is that on top?' Barinov questions briskly how Senya expects that to work in practice.
-- 'I am not going to eat this.' Senya weighs in bluntly to be clear, so Barinov knows he is not just making small talk.
-- 'I completely understand you.' Barinov drops this statement right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Are you mocking me?' Senya challenges quietly to see how Barinov will answer on the spot.
-- 'What happened here?' Barinov emphasizes one classic detail in earnest: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'What are you doing?' Barinov steps in plainly before Senya and chooses "delayesh" ("are you doing", from the root "delat") so Senya hears the exact meaning.
+- 'The same thing you do.' Cutting in directly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Just as I thought.' Barinov opens up boldly without a pause, bringing things back to earth after the buildup.
+- 'Oh, that is just perfect.' Senya continues warmly in this beat and brings in "otlichno" ("perfect, great") to make the meaning unmistakable.
+- 'Enjoy your meal.' Discussing the appetite right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'And what is this?' Senya presses eagerly what Barinov is actually getting at here.
+- 'Prepared especially for you by our chef.' Pointing to the cook during the talk, Barinov chooses "prigotovlennyy" ("prepared, cooked") so Senya gets the point right away.
+- 'No, I understand that.' Pushing back dryly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'But what is that on top?' Barinov questions briskly to see how Senya will answer on the spot.
+- 'I am not going to eat this.' Senya counters bluntly without holding back, grounding the moment in plain reality.
+- 'I completely understand you.' Holding firm plainly at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Are you mocking me?' Senya challenges quietly while looking straight at Barinov here.
+- 'What happened here?' Barinov responds decisively in the exchange and brings in "sluchilos" ("happened", from "sluchitsya") as the key Russian word here.

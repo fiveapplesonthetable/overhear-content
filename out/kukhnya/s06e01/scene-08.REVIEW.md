@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You prepare the cookies from this recipe.' Barinov uses this sharp detail in earnest: "pechenye" means "cookies, pastry", and it carries the main weight of what Barinov is saying.
-- 'I beg you, try very hard.' Barinov responds candidly before Nikita, grounding the moment in plain reality.
-- 'And why is it so expensive?' Nikita uses this clear term at once: "dorogo" means "expensive", and it carries the main weight of what Nikita is saying.
-- 'Six boxes of flower petals.' Nastya delivers the comeback calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'They picked apart every flower.' Nastya speaks candidly toward Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Congratulations on the promotion, Nikita.' Nastya frames one direct piece in earnest: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
-- 'Do not bother, I am going to quit anyway.' Nikita shares the reply for Barinov: the "-sya" ending on "uvolyus" ("will quit, resign") turns the action inward or makes it happen between people naturally.
+- 'You prepare the cookies from this recipe.' Barinov weighs in evenly beside Nikita, steering the talk right where he wants it.
+- 'I beg you, try very hard.' Barinov reacts steadily toward Nikita, to clear the air between them once and for all.
+- 'And why is it so expensive?' Nikita speaks up firmly at once and centers the remark on "dorogo" ("expensive") without any extra fuss.
+- 'Six boxes of flower petals.' Pointing to the petals at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'They picked apart every flower.' Addressing the flower beside Nikita, Nastya makes it clear to Nikita that she means every word.
+- 'Congratulations on the promotion, Nikita.' Nastya chimes in earnestly with Nikita and chooses "pozdravlyayu" ("congratulations", from the root "pozdravlyat") so Nikita hears the exact meaning.
+- 'Do not bother, I am going to quit anyway.' Following up promptly to Nastya, the "-sya" ending on "uvolyus" ("will quit, resign") marks an action that unfolds mutually or turns back on the speaker.
 - 'Why do you want to leave?' Nastya tests evenly if there is more going on behind the scenes.
-- 'Nothing is working out with Katya.' Nikita leans on one memorable element in reply: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
-- 'Come on, do not even think of it!' Nastya picks this telling touch with Nikita: "vzdumay" means "don't even think" (from "vzdumat"), giving the line its exact edge.
-- 'Katya told her mom that she likes you very much.' Nastya answers candidly to settle things, bringing things back to earth after the buildup.
-- 'Are you serious?' Nikita centers this clear choice in reply: "seryezno" means "seriously" (from "seryozno"), giving the line its exact edge.
+- 'Nothing is working out with Katya.' Nikita speaks calmly in front of Nastya and centers the thought on "poluchayetsya" ("works out", from "poluchatsya") without wasting a word.
+- 'Come on, do not even think of it!' Nastya speaks decisively with a shrug, refusing to let the moment slip past.
+- 'Katya told her mom that she likes you very much.' Nastya answers candidly with a sigh, watching Nikita's face to see how the news lands.
+- 'Are you serious?' Nikita proceeds quietly in front of Nastya and centers the thought on "seryezno" ("seriously", from "seryozno") without wasting a word.

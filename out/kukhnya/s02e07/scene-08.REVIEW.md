@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, al dente vegetables again.' Barinov aims this line calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Just as overcooked as they were yesterday.' Vika steps in pointedly as things stand, without trying to dress up how she really feels.
-- 'So that is who the Chef's 'competent person' Max features one direct element in earnest: "kompetentnyy" means "competent", and it carries the main weight of what Max is saying.
-- 'And he has the nerve to lecture me.' Barinov weighs in at once to settle things, saying out loud what both of them already know.
-- 'About how I roast my meat.' Vika opens up dryly with a smile, leaving no doubt about where she stands.
-- 'Oh, I feel awful.' Max underscores this sharp piece on cue: "plokho" means "badly", and it carries the main weight of what Max is saying.
-- 'Viktor Petrovich, you have been drinking again.' Vika frames one direct element toward Barinov: "vypivali" means "to drink, have a drink" (from "vypivat"), giving the line its exact edge.
-- 'Your blood pressure is through the roof.' Vika jumps in at once to settle things, keeping the focus on what actually matters here.
-- 'I have not been drinking.' Max frames one direct piece in earnest: "vypival" means "to drink, have a drink" (from "vypivat"), giving the line its exact edge.
-- 'Then what were you doing?' Barinov shapes that thought with warmth: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'I would have been better off drinking.' Vika pushes back lightly without a pause, keeping the focus on what actually matters here.
-- 'Viktor Petrovich.' Max puts that thought with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Tomorrow I am going jogging again.' Barinov phrases that remark toward Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Oh, al dente vegetables again.' Focusing on the vegetables with Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Just as overcooked as they were yesterday.' Vika counters pointedly with a smile, before Barinov can change the subject.
+- 'So that is who the Chef's 'competent person' Highlighting how competent things are around Barinov, Max reaches for the Russian word "kompetentnyy" ("competent") right at the heart of the line.
+- 'And he has the nerve to lecture me.' Discussing the remark beside Max, Barinov lands on "zamechaniya" ("remark, reprimand", built on "zamechaniye") to keep the statement grounded.
+- 'About how I roast my meat.' Vika cuts in dryly hearing Barinov, before Barinov can change the subject.
+- 'Oh, I feel awful.' Max chimes in evenly in the exchange and brings in "plokho" ("badly") to make the meaning unmistakable.
+- 'Viktor Petrovich, you have been drinking again.' Vika proceeds earnestly beside Barinov, shifting the mood of the conversation in a single beat.
+- 'Your blood pressure is through the roof.' Vika jumps in at once across the room, watching Max's face to see how the news lands.
+- 'I have not been drinking.' Max continues quietly with Vika and uses "vypival" ("to drink, have a drink", from "vypivat") to make the point stick.
+- 'Then what were you doing?' Reacting firmly in front of Vika, Barinov puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'I would have been better off drinking.' Vika answers lightly with a nod, before Barinov can change the subject.
+- 'Viktor Petrovich.' Holding firm smoothly beside Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Tomorrow I am going jogging again.' Pressing on firmly in front of Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Markus, thank you very much for coming.' Barinov voices this update beside Denis: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'I dreamed of taking revenge on him for two years.' Denis reacts boldly without holding back, refusing to let the moment slip past.
-- 'Well then, German, this is a repeat offense now.' Barinov spotlights one sharp element at once: "retsidiv" means "offense", and it carries the main weight of what Barinov is saying.
-- 'So make your own choice right now, German.' Barinov opens up earnestly toward German, before German can change the subject.
-- 'Either you quietly leave the restaurant.' Barinov chimes in wryly toward Denis, grounding the moment in plain reality.
-- 'Or your suspended sentence will become real prison time.' Barinov centers this sharp choice for German: "uslovnyy" means "suspended", and it carries the main weight of what Barinov is saying.
-- 'Hello, Dmitry Vladimirovich, this is German.' German states that answer before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Dmitry Vladimirovich, I am resigning today.' German cuts in sharply in this moment, without trying to dress up how he really feels.
-- 'I am leaving for personal reasons.' German stresses this key word toward Barinov: "prichinam" means "reason, cause" (from "prichina"), giving the line its exact edge.
-- 'Sometimes for the sake of truth a clever deception is needed.' Denis aims the remark toward German: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'But whoever lies often always loses.' Denis fires back promptly to settle things, to clear the air between them once and for all.
-- 'It is wiser to always remain yourself.' Denis emphasizes this direct touch toward German: "ostavatsya" means "to stay, to remain", and it carries the main weight of what Denis is saying.
+- 'Markus, thank you very much for coming.' Mentioning the thank across the room, Barinov brings the exchange with Denis back to practical reality.
+- 'I dreamed of taking revenge on him for two years.' Denis follows up boldly across the room, to clear the air between them once and for all.
+- 'Well then, German, this is a repeat offense now.' Discussing a repeat offense in front of German, Barinov uses "retsidiv" ("offense") to carry the main weight of the thought.
+- 'So make your own choice right now, German.' Barinov speaks openly in this beat and leans on "vybiray" ("to choose, select", a form of "vybirat") to give the remark its edge.
+- 'Either you quietly leave the restaurant.' Barinov responds wryly without any doubt, leaving no doubt about where he stands.
+- 'Or your suspended sentence will become real prison time.' Underscoring the term in this beat, Barinov reaches for the Russian word "uslovnyy" ("suspended") right at the heart of the line.
+- 'Hello, Dmitry Vladimirovich, this is German.' Leaning in plainly beside Barinov, German links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Dmitry Vladimirovich, I am resigning today.' German responds sharply on the spot, letting the remark speak for itself.
+- 'I am leaving for personal reasons.' Touching on the reason with Denis, German centers the thought on "prichinam" ("reason, cause", from "prichina") without wasting a word.
+- 'Sometimes for the sake of truth a clever deception is needed.' Noting how cunning things are to German, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'But whoever lies often always loses.' Denis speaks promptly in this moment, making his position completely clear.
+- 'It is wiser to always remain yourself.' Explaining how wiser things are before German, Denis brings in "mudreye" ("wiser", from "mudriy") as the key Russian word here.

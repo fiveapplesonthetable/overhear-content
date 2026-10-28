@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone has already gone home.' Lyova speaks up pointedly beside Barinov, bringing things back to earth after the buildup.
-- 'I am heading out right now myself.' Vika frames one telling element for Lyova: "seychas" means "now", and it carries the main weight of what Vika is saying.
-- 'See you tomorrow.' Lyova shares this answer right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'And when are you going home?' Barinov probes curiously if there is more going on behind the scenes.
-- 'I will work for a little while longer.' Lyova reaches for one clear expression with Barinov: "porabotayu" means "to work for a while" (from "porabotat"), giving the line its exact edge.
-- 'You do not have a wife.' Barinov delivers the thought at once: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'She would make a good wife.' Vika reacts boldly with a shrug, without trying to dress up how she really feels.
-- 'How do you even live with a blunder like that?' Barinov highlights this direct touch toward Vika: "kosyakom" means "hers" (from "kosyak"), giving the line its exact edge.
-- 'I probably would have hanged myself from shame already.' Lyova brings the comeback plainly here: the "-sya" ending on "povesilsya" ("hang oneself") turns the action inward or makes it happen between people naturally.
-- 'You actually had that opportunity once.' Barinov pushes back honestly beside Vika, saying out loud what both of them already know.
-- 'Wait, when did I ever screw up?' Lyova colors this direct expression in reply: "oblazhalsya" means "screw up, mess up" (from "oblazhatsya"), giving the line its exact edge.
-- 'Let me remind you.' Barinov drops this update with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Now I am reminding you.' Lyova pushes back evenly during the talk, saying out loud what both of them already know.
+- 'Everyone has already gone home.' Lyova jumps in pointedly during the talk, without trying to dress up how he really feels.
+- 'I am heading out right now myself.' Vika fires back vividly in front of Lyova and centers the thought on "ukhozhu" ("am leaving", from "ukhodit") without wasting a word.
+- 'See you tomorrow.' Replying evenly before Vika, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'And when are you going home?' Barinov probes curiously to see how Lyova will answer on the spot.
+- 'I will work for a little while longer.' Lyova pushes back dryly in this beat and brings in "porabotayu" ("to work for a while", from "porabotat") as the key Russian word here.
+- 'You do not have a wife.' Talking about a wife to Lyova, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'She would make a good wife.' Vika chimes in boldly in this moment, steering the talk right where she wants it.
+- 'How do you even live with a blunder like that?' Touching on the hers before Lyova, Barinov centers the thought on "kosyakom" ("hers", from "kosyak") without wasting a word.
+- 'I probably would have hanged myself from shame already.' Talking about the shame right here, the "-sya" ending on "povesilsya" ("hang oneself") marks an action that unfolds mutually or turns back on the speaker.
+- 'You actually had that opportunity once.' Barinov answers honestly with Lyova, bringing things back to earth after the buildup.
+- 'Wait, when did I ever screw up?' Lyova replies naturally right here and chooses "oblazhalsya" ("screw up, mess up", from the root "oblazhatsya") so Barinov hears the exact meaning.
+- 'Let me remind you.' Following up dryly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Now I am reminding you.' Lyova opens up evenly in their talk, letting the remark speak for itself.

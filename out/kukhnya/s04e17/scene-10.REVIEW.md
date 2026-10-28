@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, German, flowers are not necessary.' Vika reaches for one sharp expression toward German: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
-- 'You mean the flowers? Forgive me, they are not for you.' German aims the reply on cue: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
-- 'They are for my sick aunt.' German answers plainly hearing Katya, without trying to dress up how he really feels.
-- 'Shall we go to the theater together tonight?' German frames one telling word for Vika: "segodnya" means "today", and it carries the main weight of what German is saying.
-- 'I was supposed to go with my aunt.' German holds firm right away hearing Katya, keeping the focus on what actually matters here.
-- 'But she suddenly fell ill yesterday.' German continues honestly during the talk, leaving no doubt about where he stands.
-- 'Will you help me out tonight?' German colors one clear touch toward Katya: "vyruchite" means "to help out" (from "vyruchit"), giving the line its exact edge.
-- 'All right, I will go with pleasure.' Vika states that remark on cue: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Remember, we have been dating for three years already.' Katya stands firm frankly across the room, making her position completely clear.
-- 'You proposed marriage to me.' Katya emphasizes one direct touch toward Vika: "predlozheniye" means "offer, proposal", and it carries the main weight of what Katya is saying.
-- 'After all, you are just lying to my friend.' Katya frames the reply facing German: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'We are heading out at seven sharp.' Katya answers calmly facing Vika, letting the remark speak for itself.
+- 'Good morning, German, flowers are not necessary.' Making clear how good things are at once, Vika lands on "dobroye" ("good", built on "dobryy") to keep the statement grounded.
+- 'You mean the flowers? Forgive me, they are not for you.' Opening up candidly during the talk, German keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'They are for my sick aunt.' German responds plainly with a shrug, shifting the mood of the conversation in a single beat.
+- 'Shall we go to the theater together tonight?' Touching on the theater in front of Vika, German centers the remark on "segodnya" ("today") without any extra fuss.
+- 'I was supposed to go with my aunt.' Mentioning his aunt during the talk, German reaches for the Russian word "dolzhen" ("has to, must") right at the heart of the line.
+- 'But she suddenly fell ill yesterday.' German reacts honestly facing Vika, shifting the mood of the conversation in a single beat.
+- 'Will you help me out tonight?' German continues readily in this beat and leans on "vyruchite" ("to help out", a form of "vyruchit") to give the remark its edge.
+- 'All right, I will go with pleasure.' Highlighting the pleasure to German, Vika lands on "udovolstviyem" ("pleasure", built on "udovolstviye") to keep the statement grounded.
+- 'Remember, we have been dating for three years already.' Katya fires back frankly hearing Vika, without trying to dress up how she really feels.
+- 'You proposed marriage to me.' Underscoring the offer on the spot, Katya puts the emphasis on "predlozheniye" ("offer, proposal") in the middle of the talk.
+- 'After all, you are just lying to my friend.' Focusing on her friend right here, Katya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'We are heading out at seven sharp.' Katya pushes back calmly in their talk, without trying to dress up how she really feels.

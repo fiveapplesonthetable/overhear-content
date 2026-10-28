@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya and I are already sitting down at the table, bring the ring.' Denis shares that reply without fuss: the "-sya" ending on "sadimsya" ("let's take seats") turns the action inward or makes it happen between people naturally.
-- 'Sveta, did you already find the keys in my jacket?' Denis tests point-blank while looking straight at Sveta here.
-- 'Tell me, did you not touch anything else in the pocket there?' Denis frames one telling detail in earnest: "karmane" means "pocket" (from "karman"), giving the line its exact edge.
-- 'Forgive me, darling, I simply could not help myself!' Sveta states this warning at once: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'The ring is simply wonderful, and of course I agree!' Sveta reacts evenly with Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'I understand that the odds on their defeat are very high.' Barinov favors one loaded word for Sveta: "koeffitsiyent" means "coefficient", and it carries the main weight of what Barinov is saying.
-- 'But I am completely sure that they will win today, bet everything!' Barinov stands firm boldly without a pause, making his position completely clear.
-- 'Viktor, tell me, what is going on with our staff today?' Sveta tests skeptically before Denis can change the subject.
-- 'All day they have been telling the guests some strange truth!' Sveta underscores this direct word in earnest: "strannuyu" means "strange, odd" (from "strannyy"), giving the line its exact edge.
-- 'Wait, are you completely sure that they are telling the truth?' Barinov directs this line right away: putting the question word "chto" right at the front of the line lets Sveta hear the point of the question on the very first beat.
+- 'Nastya and I are already sitting down at the table, bring the ring.' Emphasizing the ring in the exchange, Denis uses "koltso" ("ring") to carry the main weight of the thought.
+- 'Sveta, did you already find the keys in my jacket?' Denis tests point-blank how Sveta expects that to work in practice.
+- 'Tell me, did you not touch anything else in the pocket there?' Touching on the pocket in front of Sveta, Denis leans on "karmane" ("pocket", a form of "karman") to give the remark its edge.
+- 'Forgive me, darling, I simply could not help myself!' Speaking evenly in this beat, Sveta uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'The ring is simply wonderful, and of course I agree!' Sveta answers evenly hearing Barinov, making her position completely clear.
+- 'I understand that the odds on their defeat are very high.' Discussing the coefficient in front of Sveta, Barinov lands on "koeffitsiyent" ("coefficient") as the key everyday word here.
+- 'But I am completely sure that they will win today, bet everything!' Confirming how sure he is right here, Barinov lands on "uveren" ("sure, confident", built on "uverennyy") to keep the statement grounded.
+- 'Viktor, tell me, what is going on with our staff today?' Sveta tests skeptically why things suddenly took this turn between them.
+- 'All day they have been telling the guests some strange truth!' Focusing on the guests before Barinov, Sveta brings in "strannuyu" ("strange, odd", from "strannyy") as the key Russian word here.
+- 'Wait, are you completely sure that they are telling the truth?' Insisting on how sure things are around Denis, Barinov puts the question word "chto" right at the start so Denis hears the focus immediately.
 - 'Chef, excuse me, should we save pasta for your lunch?' Denis probes firmly whether Barinov really thought this through.
-- 'It is just that all the staff in the hotel have already eaten!' Denis grounds one colorful choice in earnest: "sotrudniki" means "employees" (from "sotrudnik"), giving the line its exact edge.
+- 'It is just that all the staff in the hotel have already eaten!' Talking about the employees around Barinov, Denis reaches for the Russian word "sotrudniki" ("employees", built from "sotrudnik") right at the center of the line.

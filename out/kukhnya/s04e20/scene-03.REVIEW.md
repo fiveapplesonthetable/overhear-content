@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, will you explain to me what that was?' Vika probes deadpan whether Denis really thought this through.
-- 'I am afraid you will not like this, Vika.' Denis underscores this sharp term in earnest: "ponravitsya" means "will please", and it carries the main weight of what Denis is saying.
-- 'Enough keeping silent, tell me right now!' Vika replies boldly hearing Denis, grounding the moment in plain reality.
-- 'Katya thinks that we were together.' Denis jumps in sharply without any doubt, so Vika knows he is not just making small talk.
-- 'What? What kind of foolish nonsense is that?' Vika emphasizes this telling choice for Denis: "yeshchyo" means "more, still", and it carries the main weight of what Vika is saying.
-- 'What idiot spread this stupid rumor?' Vika brings the reaction without fuss: putting the question word "kakoy" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'I was just telling Kostya about my dreams.' Denis steps in quietly as things stand, making his position completely clear.
-- 'I dreamed that we were in the office.' Denis leans on this direct element at once: "kabinete" means "office" (from "kabinet"), giving the line its exact edge.
-- 'And Katya happened to walk in and overheard.' Denis stands firm promptly around Vika, watching Vika's face to see how the news lands.
-- 'Now she does not want to speak with me.' Denis responds calmly to settle things, refusing to let the moment slip past.
-- 'Vika, tell me, what should I do now?' Denis frames one loaded detail with Vika: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
-- 'You stirred up this mess yourself.' Vika frames one familiar choice for Denis: "kashu" means "porridge" (from "kasha"), giving the line its exact edge.
+- 'Denis, will you explain to me what that was?' Vika probes deadpan before Denis can change the subject.
+- 'I am afraid you will not like this, Vika.' Denis follows up pointedly in the exchange and brings in "ponravitsya" ("will please") to make the meaning unmistakable.
+- 'Enough keeping silent, tell me right now!' Vika responds briskly during the talk and puts the emphasis on "khvatit" ("enough") in the middle of the talk.
+- 'Katya thinks that we were together.' Denis counters sharply around Vika, testing Vika's reaction in the middle of the exchange.
+- 'What? What kind of foolish nonsense is that?' Insisting on how stupid things are in this beat, Vika chooses "glupyy" ("stupid") so Denis gets the point right away.
+- 'What idiot spread this stupid rumor?' Pointing to the idiot right here, Vika puts the question word "kakoy" right at the start so Denis hears the focus immediately.
+- 'I was just telling Kostya about my dreams.' Denis fires back quietly during the talk, steering the talk right where he wants it.
+- 'I dreamed that we were in the office.' Addressing the office right here, Denis lands on "kabinete" ("office", built on "kabinet") to keep the statement grounded.
+- 'And Katya happened to walk in and overheard.' Denis reacts naturally beside Vika and reaches for the Russian word "sluchayno" ("by any chance") right at the heart of the line.
+- 'Now she does not want to speak with me.' Denis responds calmly with a shrug, shifting the mood of the conversation in a single beat.
+- 'Vika, tell me, what should I do now?' Denis pushes back briskly to Vika and leans on "skazhi" ("say", a form of "skazat") to give the remark its edge.
+- 'You stirred up this mess yourself.' Vika responds right away without holding back, letting the remark speak for itself.

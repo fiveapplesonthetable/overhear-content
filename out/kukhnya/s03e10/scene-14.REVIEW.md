@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, do not worry, I will send her away.' Senya steps in bluntly facing Barinov, leaving no doubt about where he stands.
-- 'Her time is paid for until the end of the day!' Barinov pushes back warmly around Senya, saying out loud what both of them already know.
-- 'Let her work it off and peel potatoes.' Barinov leans on one clear choice right here: "otrabatyvayet" means "works off" (from "otrabatyvat"), giving the line its exact edge.
-- 'Does anyone else in the kitchen know about this?' Barinov hands over the reply briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'No, Chef, only we know about it.' Senya pushes back briskly with a smile, leaving no doubt about where he stands.
-- 'Maybe this girl here will do? She is too skinny.' Senya picks one vivid word toward Nagiyev: "toshchaya" means "skinny, scrawny" (from "toshchiy"), giving the line its exact edge.
-- 'On the other hand, her apartment is clean.' Senya brings this answer with candor: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
-- 'You can tell right away that she is very tidy.' Senya weighs in briskly around Nagiyev, watching Nagiyev's face to see how the news lands.
-- 'Here is the deal, not a word to anyone at all!' Barinov favors one loaded detail for Nagiyev: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
-- 'Get out of here quickly and go work!' Barinov follows up wryly during the talk, steering the talk right where he wants it.
-- 'It is time for us to reset our relationship.' Nagiyev opens up promptly beside Barinov, keeping the focus on what actually matters here.
-- 'Wait one second, here, take this.' Nagiyev emphasizes this direct element in reply: "sekundu" means "second" (from "sekunda"), giving the line its exact edge.
+- 'Chef, do not worry, I will send her away.' Senya speaks up evenly beside Barinov and puts the weight on "perezhivayte" ("worry", from "perezhivat") as the exchange unfolds.
+- 'Her time is paid for until the end of the day!' Barinov follows up warmly watching Senya, steering the talk right where he wants it.
+- 'Let her work it off and peel potatoes.' Discussing the potatoes in this beat, Barinov puts the weight on "otrabatyvayet" ("works off", from "otrabatyvat") as the exchange unfolds.
+- 'Does anyone else in the kitchen know about this?' Touching on the kitchen in this beat, Barinov keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'No, Chef, only we know about it.' Senya chimes in briskly in their talk, so Barinov knows he is not just making small talk.
+- 'Maybe this girl here will do? She is too skinny.' Highlighting how skinny she is on the spot, Senya chooses "toshchaya" ("skinny, scrawny", from the root "toshchiy") so Barinov hears the exact meaning.
+- 'On the other hand, her apartment is clean.' Talking about the flat on the spot, Senya pivots with "zato" ("on the bright side, to make up for it") to flip a drawback into a plus.
+- 'You can tell right away that she is very tidy.' Senya counters briskly in this moment, steering the talk right where he wants it.
+- 'Here is the deal, not a word to anyone at all!' Talking about the words in front of Senya, Barinov centers the remark on "voobshche" ("at all") without any extra fuss.
+- 'Get out of here quickly and go work!' Barinov proceeds promptly right here and leans on "otsyuda" ("from here") to give the whole sentence its punch.
+- 'It is time for us to reset our relationship.' Nagiyev answers promptly in their talk, without trying to dress up how he really feels.
+- 'Wait one second, here, take this.' Underscoring the second before Barinov, Nagiyev puts the weight on "sekundu" ("second", from "sekunda") as the exchange unfolds.

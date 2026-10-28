@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Attention, everyone is chipping in three thousand for the birthday.' Senya brings the remark in earnest: the "-sya" ending on "skidyvayemsya" ("are chipping in") turns the action inward or makes it happen between people naturally.
-- 'And why so much, who is this gift for?' Denis checks curiously before Senya can change the subject.
-- 'For me of course, because I am having a crisis right now.' Senya colors one telling piece at once: "konechno" means "of course", and it carries the main weight of what Senya is saying.
-- 'Katya, tell me, where did you disappear to again?' Denis directs the comment before Senya: putting the question word "kuda" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'We were going to drink coffee, and you are silent.' Denis steps in steadily watching Katya, to clear the air between them once and for all.
-- 'You should better go to the cafe with Sveta.' Katya picks this telling choice with Senya: "luchshe" means "better", and it carries the main weight of what Katya is saying.
-- 'At the same time you will drink tasty coffee and kiss again.' Katya shapes the comment with ease: the "-sya" ending on "potseluyetes" ("you will kiss") turns the action inward or makes it happen between people naturally.
-- 'Katya, wait, after all that means nothing.' Denis responds boldly with a shrug, steering the talk right where he wants it.
-- 'It happened by accident, just in a friendly way.' Denis underscores this key term at once: "po-druzheski" means "in a friendly way", and it carries the main weight of what Denis is saying.
-- 'Then keep going to your friend.' Katya continues calmly in their talk, steering the talk right where she wants it.
-- 'Katya, there is nothing between Sveta and me.' Denis speaks up steadily on the spot, leaving no doubt about where he stands.
-- 'If you do not believe me, ask her.' Denis uses one practical term with Senya: "verish" means "do you believe" (from "verit"), giving the line its exact edge.
-- 'For me that will be an excellent gift!' Senya opens up pointedly with a smile, without trying to dress up how he really feels.
+- 'Attention, everyone is chipping in three thousand for the birthday.' Pointing to the attention on the spot, the "-sya" ending on "skidyvayemsya" ("are chipping in") marks an action that unfolds mutually or turns back on the speaker.
+- 'And why so much, who is this gift for?' Denis checks curiously about what Senya just brought up.
+- 'For me of course, because I am having a crisis right now.' Focusing on a crisis in front of Denis, Senya reaches for the Russian word "krizis" ("crisis") right at the heart of the line.
+- 'Katya, tell me, where did you disappear to again?' Answering firmly in this beat, Denis puts the question word "kuda" right at the start so Katya hears the focus immediately.
+- 'We were going to drink coffee, and you are silent.' Denis fires back steadily on the spot, testing Katya's reaction in the middle of the exchange.
+- 'You should better go to the cafe with Sveta.' Katya responds evenly in this beat and chooses "luchshe" ("better") so Denis gets the point right away.
+- 'At the same time you will drink tasty coffee and kiss again.' Checking on the coffee in this beat, the "-sya" ending on "potseluyetes" ("you will kiss") marks an action that unfolds mutually or turns back on the speaker.
+- 'Katya, wait, after all that means nothing.' Denis continues boldly facing Katya, shifting the mood of the conversation in a single beat.
+- 'It happened by accident, just in a friendly way.' Denis weighs in quietly around Katya and puts the emphasis on "po-druzheski" ("in a friendly way") in the middle of the talk.
+- 'Then keep going to your friend.' Touching on the friend in front of Denis, Katya chooses "podruge" ("friend", from the root "podruga") so Denis hears the exact meaning.
+- 'Katya, there is nothing between Sveta and me.' Denis speaks steadily in their talk, keeping the focus on what actually matters here.
+- 'If you do not believe me, ask her.' Denis pushes back pointedly during the talk and centers the thought on "verish" ("do you believe", from "verit") without wasting a word.
+- 'For me that will be an excellent gift!' Emphasizing an excellent gift at once, Senya chooses "otlichnyy" ("excellent, great") so Denis gets the point right away.

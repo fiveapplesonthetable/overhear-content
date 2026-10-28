@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By the way, today I am going to win it back.' Mikhail proceeds candidly with a sigh, steering the talk right where he wants it.
-- 'Maybe you should not play again?' Barinov underscores one sharp choice in earnest: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'No, today is definitely my lucky day.' Mikhail hands over that point for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Chef, please help us in the kitchen.' Denis stands firm calmly as they talk, to clear the air between them once and for all.
-- 'Fedya ate something bad today.' Denis highlights this sharp piece at once: "segodnya" means "today", and it carries the main weight of what Denis is saying.
-- 'Alright, I understood everything.' Barinov voices this point right away: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Mikhail is on board.
-- 'That is everyone who left the hotel.' Mikhail chimes in decisively on the spot, saying out loud what both of them already know.
-- 'Dinner and wine were ordered to his room.' Mikhail picks one direct expression with Denis: "zakazali" means "ordered" (from "zakazat"), giving the line its exact edge.
-- 'They definitely have a date coming up there.' Denis frames that thought calmly now: the "-sya" ending on "namechayetsya" ("is brewing") turns the action inward or makes it happen between people naturally.
-- 'We need to sneak quietly into his room.' Denis fires back candidly hearing Mikhail, letting the remark speak for itself.
-- 'You can climb in through the neighboring window.' Mikhail favors one concrete expression in reply: "sosedneye" means "neighboring" (from "sosedniy"), giving the line its exact edge.
-- 'Or simply bring Katya right up there.' Denis makes that answer with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'By the way, today I am going to win it back.' Mikhail replies candidly across the room, keeping the focus on what actually matters here.
+- 'Maybe you should not play again?' Barinov pushes back boldly in front of Mikhail and puts the emphasis on "igrat" ("to play") in the middle of the talk.
+- 'No, today is definitely my lucky day.' Noting how lucky things are right here, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Chef, please help us in the kitchen.' Denis replies calmly without any doubt, shifting the mood of the conversation in a single beat.
+- 'Fedya ate something bad today.' Denis replies earnestly in the exchange and reaches for the Russian word "segodnya" ("today") right at the heart of the line.
+- 'Alright, I understood everything.' Turning to Denis smoothly to Denis, Barinov says "ladno" ("alright"), built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'That is everyone who left the hotel.' Mikhail chimes in decisively in their talk, letting the remark speak for itself.
+- 'Dinner and wine were ordered to his room.' Focusing on the number around Denis, Mikhail lands on "nomer" ("number") as the key everyday word here.
+- 'They definitely have a date coming up there.' Returning to a date during the talk, the "-sya" ending on "namechayetsya" ("is brewing") marks an action that unfolds mutually or turns back on the speaker.
+- 'We need to sneak quietly into his room.' Denis replies candidly across the room, keeping the focus on what actually matters here.
+- 'You can climb in through the neighboring window.' Addressing the neighboring window before Denis, Mikhail reaches for the Russian word "sosedneye" ("neighboring", built from "sosedniy") right at the center of the line.
+- 'Or simply bring Katya right up there.' Reacting dryly in this beat, Denis uses the little word "prosto" ("simply, just") to make the point sound effortless.

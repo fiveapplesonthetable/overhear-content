@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I really need one glass of wine right now.' Vika highlights one practical choice in reply: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
-- 'I mean not for me, I never drink at work.' Vika brings the remark at once: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'And when do you drink? At a café with the girls?' Max inquires briskly about what Rodion just brought up.
-- 'Yes, or if some handsome guy treats me.' Vika colors one colorful term in earnest: "simpatichnyy" means "handsome, cute", and it carries the main weight of what Vika is saying.
-- 'And where do you usually go in the evening with your friends?' Max shares the thought before Rodion: putting the question word "kuda" right at the front of the line lets Rodion hear the point of the question on the very first beat.
-- 'I will drop by and treat you, if I am handsome, of course.' Max reacts pointedly during the talk, testing Vika's reaction in the middle of the exchange.
-- 'Well, maybe you really are very handsome.' Vika colors one familiar detail in earnest: "simpatichnyy" means "handsome, cute", and it carries the main weight of what Vika is saying.
-- 'Vika wants to play spies with me? Fine!' Max delivers the reaction with candor: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Tonight our most important guests are in the dining room.' Max counters lightly with Rodion, bringing things back to earth after the buildup.
-- 'Hello, Viktor Petrovich! Rodion Sergeyevich in person!' Vika grounds this direct word toward Rodion: "sobstvennoy" means "own, proper" (from "sobstvennyy"), giving the line its exact edge.
-- 'And I have come with a complete package of all documents.' Rodion steps in dryly without a pause, saying out loud what both of them already know.
-- 'Come on, show us your new passport, Rodion.' Max answers evenly with a sigh, keeping the focus on what actually matters here.
+- 'Kostya, I really need one glass of wine right now.' Touching on the glass before Max, Vika centers the thought on "nuzhen" ("is needed", from "nuzhnyy") without wasting a word.
+- 'I mean not for me, I never drink at work.' Talking about the sense before Max, Vika pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'And when do you drink? At a café with the girls?' Max inquires briskly whether Vika really thought this through.
+- 'Yes, or if some handsome guy treats me.' Focusing on the boyfriend around Max, Vika brings in "simpatichnyy" ("handsome, cute") to make the meaning unmistakable.
+- 'And where do you usually go in the evening with your friends?' Replying readily on the spot, Max puts the question word "kuda" right at the start so Vika hears the focus immediately.
+- 'I will drop by and treat you, if I am handsome, of course.' Max opens up pointedly around Vika, keeping the focus on what actually matters here.
+- 'Well, maybe you really are very handsome.' Stressing how handsome things are on the spot, Vika reaches for the Russian word "simpatichnyy" ("handsome, cute") right at the heart of the line.
+- 'Vika wants to play spies with me? Fine!' Talking about the spies on the spot, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Tonight our most important guests are in the dining room.' Max replies lightly toward Vika, testing Vika's reaction in the middle of the exchange.
+- 'Hello, Viktor Petrovich! Rodion Sergeyevich in person!' Addressing the person during the talk, Vika chooses "sobstvennoy" ("own, proper", from the root "sobstvennyy") so Rodion hears the exact meaning.
+- 'And I have come with a complete package of all documents.' Discussing the documents on the spot, Rodion reaches for the Russian word "dokumentov" ("documents", built from "dokument") right at the center of the line.
+- 'Come on, show us your new passport, Rodion.' Max answers evenly beside Rodion, shifting the mood of the conversation in a single beat.

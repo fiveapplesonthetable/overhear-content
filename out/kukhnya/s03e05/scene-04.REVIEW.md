@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe I should take off my pants too?' Senya reaches for this sharp term toward Fedya: "yeshchyo" means "more, still", and it carries the main weight of what Senya is saying.
-- 'Alright, work calmly.' Fedya drops this warning without fuss: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.
-- 'Where did you put the meat?' Fedya questions firmly as Senya tries to explain the situation.
-- 'The meat is right here.' Senya reaches for one colorful term in earnest: "myaso" means "meat", and it carries the main weight of what Senya is saying.
-- 'I made a through pocket.' Senya aims the remark without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And it falls straight down.' Senya reacts wryly with a smile, shifting the whole mood of the room in a single beat.
-- 'Yes indeed, simply unbelievable!' Fedya features this key piece toward Senya: "neveroyatno" means "incredibly", and it carries the main weight of what Fedya is saying.
-- 'You have not seen my device yet.' Senya features this telling piece in earnest: "ustroystvo" means "device", and it carries the main weight of what Senya is saying.
-- 'This is a device for oil.' Senya opens up sharply without holding back, making his position completely clear.
-- 'Did you tie a bottle to your leg?' Fedya centers this clear choice at once: "butylku" means "a bottle" (from "butylka"), giving the line its exact edge.
-- 'Listen, this is an indispensable thing.' Senya frames that remark right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Yes, so do not mix it up.' Fedya answers lightly to be clear, steering the talk right where he wants it.
+- 'Maybe I should take off my pants too?' Mentioning his pants beside Fedya, Senya reaches for the Russian word "shtany" ("pants") right at the heart of the line.
+- 'Alright, work calmly.' Fedya promptly extends this word of agreement at this moment using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Where did you put the meat?' Fedya questions firmly before Senya can change the subject.
+- 'The meat is right here.' Bringing up the meat with Fedya, Senya uses "myaso" ("meat") to carry the main weight of the thought.
+- 'I made a through pocket.' Returning to a through pocket during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And it falls straight down.' Senya reacts wryly during the talk, making his position completely clear.
+- 'Yes indeed, simply unbelievable!' Fedya pushes back pointedly around Senya and leans on "neveroyatno" ("incredibly") to give the whole sentence its punch.
+- 'You have not seen my device yet.' Senya opens up at once hearing Fedya, shifting the mood of the conversation in a single beat.
+- 'This is a device for oil.' Senya pushes back sharply with a nod, making his position completely clear.
+- 'Did you tie a bottle to your leg?' Highlighting a bottle in front of Senya, Fedya puts the weight on "butylku" ("a bottle", from "butylka") as the exchange unfolds.
+- 'Listen, this is an indispensable thing.' Insisting on how indispensable things are around Fedya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Yes, so do not mix it up.' Fedya opens up lightly on the spot, making his position completely clear.

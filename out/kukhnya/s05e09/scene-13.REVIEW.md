@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, why are you not picking up the phone?' Max focuses on this telling choice in reply: "trubku" means "the receiver" (from "trubka"), giving the line its exact edge.
-- 'I will explain everything right now.' Max lays out the remark without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Yesterday I walk into the locker room.' Max pushes back dryly to settle things, without trying to dress up how he really feels.
-- 'And I see someone rummaging through our things.' Max emphasizes one classic term in reply: "veshchakh" means "thing" (from "veshch"), giving the line its exact edge.
-- 'Probably a thief. I ran after him!' Max counters wryly with a nod, making his position completely clear.
-- 'When I was running across the road, Iosif Prigozhin hit me.' Max answers right away before Vika, without trying to dress up how he really feels.
-- 'Lavrov, you are losing your touch.' Vika centers one sharp element in earnest: "kvalifikatsiyu" means "qualification" (from "kvalifikatsiya"), giving the line its exact edge.
-- 'Some kind of low-quality lying.' Vika makes this point without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I told you the truth! What should I do?' Max prompts quietly to see how Kostya will answer on the spot.
-- 'Well let Iosif Prigozhin come here and tell it.' Vika sharpens this telling choice right here: "rasskazhet" means "will tell" (from "rasskazat"), giving the line its exact edge.
-- 'So you will believe Prigozhin, and not me?' Max drops the thought right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Listen, could you not say that Prigozhin broke the cognac?' Kostya presses evenly whether Vika really thought this through.
+- 'Vika, why are you not picking up the phone?' Highlighting the receiver in the exchange, Max centers the thought on "trubku" ("the receiver", from "trubka") without wasting a word.
+- 'I will explain everything right now.' Opening up evenly in front of Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Yesterday I walk into the locker room.' Max cuts in dryly around Vika, so Vika knows he is not just making small talk.
+- 'And I see someone rummaging through our things.' Max steps in pointedly in the exchange and reaches for the Russian word "royetsya" ("rummages, digs through", built from "rytsya") right at the center of the line.
+- 'Probably a thief. I ran after him!' Pointing to a thief before Vika, Max chooses "navernoye" ("probably") so Vika gets the point right away.
+- 'When I was running across the road, Iosif Prigozhin hit me.' Raising the road with a sigh, Max brings the exchange with Vika back to practical reality.
+- 'Lavrov, you are losing your touch.' Highlighting the qualification to Max, Vika uses "kvalifikatsiyu" ("qualification", from "kvalifikatsiya") to make the point stick.
+- 'Some kind of low-quality lying.' Focusing on the never in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I told you the truth! What should I do?' Max prompts quietly what Vika is actually getting at here.
+- 'Well let Iosif Prigozhin come here and tell it.' Vika weighs in openly in the exchange and lands on "rasskazhet" ("will tell", built on "rasskazat") to keep the statement grounded.
+- 'So you will believe Prigozhin, and not me?' Looking over calmly in this beat, Max keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Listen, could you not say that Prigozhin broke the cognac?' Kostya presses evenly whether Max really thought this through.

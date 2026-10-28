@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And now, dear friends, let us proceed to our tables.' Vika responds firmly without holding back, so Nagiyev knows she is not just making small talk.
-- 'Yes, for Ekaterina and...' Nastya voices that answer facing Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Ekaterina, right?' Nagiyev phrases this point in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Sergey Vladimirovich.' Vika answers lightly to be clear, steering the talk right where she wants it.
-- 'And Vladimir Sergeyevich!' Nastya aims the comment with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Of course, for good luck.' Nagiyev offers that answer toward Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Good luck! Of course.' Vika speaks up boldly without a pause, to clear the air between them once and for all.
-- 'Smash away to your heart's content.' Nastya points to one colorful term toward Vika: "zdorovye" means "health", and it carries the main weight of what Nastya is saying.
-- 'Vika, keep a close eye on that lucky fellow.' Nagiyev answers lightly watching Nastya, before Nastya can change the subject.
-- 'He will bankrupt us by the end of the wedding.' Vika speaks up decisively with Nastya, leaving no doubt about where she stands.
-- 'Nastya, what are you up to?' Nagiyev directs that thought without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You are so wonderful to me.' Nagiyev states this answer to Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am so lucky to have you.' Vika reacts warmly facing Nagiyev, watching Nagiyev's face to see how the news lands.
+- 'And now, dear friends, let us proceed to our tables.' Vika opens up firmly with a sigh, bringing things back to earth after the buildup.
+- 'Yes, for Ekaterina and...' Reacting smoothly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Ekaterina, right?' Turning quietly around Vika, Nagiyev keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Sergey Vladimirovich.' Vika continues lightly with a sigh, testing Nagiyev's reaction in the middle of the exchange.
+- 'And Vladimir Sergeyevich!' Answering naturally in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Of course, for good luck.' Nagiyev gently directs this confirmation in the exchange using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Good luck! Of course.' Vika calmly voices this confirmation to Nagiyev using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Smash away to your heart's content.' Emphasizing the health with Vika, Nastya chooses "zdorovye" ("health") so Vika gets the point right away.
+- 'Vika, keep a close eye on that lucky fellow.' Touching on the lucky guy around Vika, Nagiyev reaches for the Russian word "schastlivchikom" ("lucky guy", built from "schastlivchik") right at the center of the line.
+- 'He will bankrupt us by the end of the wedding.' Vika speaks decisively without a pause, to clear the air between them once and for all.
+- 'Nastya, what are you up to?' Pushing back openly on the spot, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You are so wonderful to me.' Underscoring how good Vika is in the exchange, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am so lucky to have you.' Vika answers warmly with a sigh, to clear the air between them once and for all.

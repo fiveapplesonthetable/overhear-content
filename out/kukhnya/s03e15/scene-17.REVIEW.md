@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, Kostya, open your eyes, you can look!' Nastya stands firm pointedly to settle things, bringing things back to earth after the buildup.
-- 'Here, look, I bought the car from Eva!' Nastya follows up frankly across the room, grounding the moment in plain reality.
-- 'Wait, Nastya, why did you buy it?' Max favors one key element for Kostya: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'What do you mean why, we are having a baby soon, we cannot manage without a car!' Nastya puts this update for Max: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Alright, Kostya, open your eyes, you can look!' Pointing to the eyes right here, Nastya puts the weight on "otkryvay" ("to open", from "otkryvat") as the exchange unfolds.
+- 'Here, look, I bought the car from Eva!' Nastya chimes in frankly in their talk, watching Max's face to see how the news lands.
+- 'Wait, Nastya, why did you buy it?' Max fires back smoothly right here and reaches for the Russian word "podozhdi" ("wait", built from "podozhdat") right at the center of the line.
+- 'What do you mean why, we are having a baby soon, we cannot manage without a car!' Turning to the child right here, Nastya reaches for "u nas" ("by us, at our place") to talk about what they share.
 - 'Kostya, are you not happy about the purchase at all?' Nastya prompts frankly while looking straight at Kostya here.
-- 'I am very happy, congratulations on the acquisition!' Max favors one colorful term right here: "priobreteniyem" means "with the purchase" (from "priobreteniye"), giving the line its exact edge.
-- 'Would you like us to drive you home today?' Nastya states this warning calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'No, thank you, then you would have to drive a whole three meters.' Max speaks right away during the talk, testing Nastya's reaction in the middle of the exchange.
-- 'Attention everyone in the kitchen, the inspector is coming!' Max underscores one telling expression for Kostya: "vnimaniye" means "attention", and it carries the main weight of what Max is saying.
-- 'I do not doubt it, only let's make sure everything is fair.' Kostya offers the reaction around Nastya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Have all your cooks step out of the kitchen right now!' Kostya continues calmly with a smile, grounding the moment in plain reality.
-- 'There are almost no guests in the hall, let them leave the kitchen!' Kostya chooses this vivid touch on cue: "naroda" means "of the people" (from "narod"), giving the line its exact edge.
+- 'I am very happy, congratulations on the acquisition!' Addressing the purchase on the spot, Max reaches for the Russian word "priobreteniyem" ("with the purchase", built from "priobreteniye") right at the center of the line.
+- 'Would you like us to drive you home today?' Speaking smoothly before Max, Nastya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'No, thank you, then you would have to drive a whole three meters.' Max counters right away on the spot, steering the talk right where he wants it.
+- 'Attention everyone in the kitchen, the inspector is coming!' Focusing on the attention to Kostya, Max chooses "vnimaniye" ("attention") so Kostya gets the point right away.
+- 'I do not doubt it, only let's make sure everything is fair.' Pressing on candidly in front of Max, Kostya starts with "davay" ("come on, let's") to invite Max right into the action.
+- 'Have all your cooks step out of the kitchen right now!' Kostya responds calmly hearing Max, keeping the focus on what actually matters here.
+- 'There are almost no guests in the hall, let them leave the kitchen!' Discussing the people right here, Kostya lands on "naroda" ("of the people", built on "narod") to keep the statement grounded.

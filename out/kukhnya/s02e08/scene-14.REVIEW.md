@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is a good thing that she replied, right?' Nastya frames the thought before Kostya: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'That really is great news.' Kostya reacts boldly beside Nastya, keeping the focus on what actually matters here.
-- 'Right next to her—forgive my clumsy phrasing.' Nastya anchors one sharp choice in reply: "skudnost" means "scarcity, poverty", and it carries the main weight of what Nastya is saying.
-- 'Yes, right next to her.' Kostya states this update with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Why not invite her to a nightclub.' Nastya responds boldly during the talk, testing Kostya's reaction in the middle of the exchange.
-- 'I will write to her right now.' Kostya emphasizes one pointed word in earnest: "seychas" means "now", and it carries the main weight of what Kostya is saying.
-- 'Now Daddy will handle this himself.' Nastya frames that answer with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Nightclubs are for kids.' Kostya steps in right away with a shrug, letting the remark speak for itself.
-- 'Well, how should I put it.' Nastya points to one direct expression in reply: "skazat" means "tell", and it carries the main weight of what Nastya is saying.
-- 'How about the movie theater.' Kostya hands over that point with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'She says she has not been to the movies in a hundred years.' Nastya pushes back briskly toward Kostya, before Kostya can change the subject.
-- 'Learn from the master, son.' Kostya focuses on one memorable element for Nastya: "synok" means "son", and it carries the main weight of what Kostya is saying.
-- 'Answer your phone.' Nastya offers that reply without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'It is a good thing that she replied, right?' Nastya counters quietly in this beat and puts the emphasis on "khorosho" ("good, fine") in the middle of the talk.
+- 'That really is great news.' Kostya pushes back boldly during the talk, before Nastya can change the subject.
+- 'Right next to her—forgive my clumsy phrasing.' Pointing to the scarcity to Kostya, Nastya brings in "skudnost" ("scarcity, poverty") to make the meaning unmistakable.
+- 'Yes, right next to her.' Stepping in frankly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Why not invite her to a nightclub.' Nastya responds boldly across the room, letting the remark speak for itself.
+- 'I will write to her right now.' Kostya responds directly beside Nastya and puts the weight on "napishu" ("will write", from "napisat") as the exchange unfolds.
+- 'Now Daddy will handle this himself.' Returning to the daddy during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Nightclubs are for kids.' Kostya steps in right away with a smile, shifting the mood of the conversation in a single beat.
+- 'Well, how should I put it.' Replying briskly on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'How about the movie theater.' Mentioning the cinema on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'She says she has not been to the movies in a hundred years.' Nastya pushes back briskly with a nod, before Kostya can change the subject.
+- 'Learn from the master, son.' Underscoring the son in front of Nastya, Kostya centers the remark on "synok" ("son") without any extra fuss.
+- 'Answer your phone.' Touching on the receiver before Kostya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

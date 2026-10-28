@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It says here that Senya feeds the next clue.' Katya reacts briskly without any doubt, letting the remark speak for itself.
-- 'Look, we continue saving on ingredients.' Barinov follows up calmly without holding back, watching Nagiyev's face to see how the news lands.
-- 'Here is a caviar sandwich without butter or bread.' Barinov underscores one memorable touch right here: "buterbrod" means "sandwich", and it carries the main weight of what Barinov is saying.
-- 'Fedya, tell me, what should I do next?' Katya directs the reply around Nagiyev: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'Buy a bottle of port wine and come over this evening.' Barinov chimes in right away beside Katya, to clear the air between them once and for all.
-- 'Fedya, what on earth are you talking about right now?' Katya colors one classic detail on cue: "voobshche" means "at all", and it carries the main weight of what Katya is saying.
-- 'Vitya, why do I not see my car?' Nagiyev offers this update before Barinov: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Admit it, did you already go for a ride in it?' Nagiyev probes earnestly while looking straight at Katya here.
-- 'I just reparked it in another spot.' Barinov leans on one telling piece on cue: "pereparkoval" means "reparked" (from "pereparkovat"), giving the line its exact edge.
-- 'Your car really is very good.' Barinov phrases the reaction to Nagiyev: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Well then, shall we start our new countdown?' Nagiyev inquires briskly as Barinov tries to explain the situation.
-- 'Come back to me as soon as possible.' Nagiyev picks one practical touch for Katya: "vozvrashchaysya" means "return" (from "vozvrashchatsya"), giving the line its exact edge.
+- 'It says here that Senya feeds the next clue.' Emphasizing the next clue in front of Barinov, Katya reaches for the Russian word "sleduyushchuyu" ("next", built from "sleduyushchiy") right at the center of the line.
+- 'Look, we continue saving on ingredients.' Barinov answers calmly in this moment, testing Katya's reaction in the middle of the exchange.
+- 'Here is a caviar sandwich without butter or bread.' Emphasizing a caviar sandwich to Katya, Barinov centers the remark on "buterbrod" ("sandwich") without any extra fuss.
+- 'Fedya, tell me, what should I do next?' Reacting promptly at once, Katya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Buy a bottle of port wine and come over this evening.' Bringing up the port wine in this moment, Barinov sets the direction for the rest of the talk with Katya.
+- 'Fedya, what on earth are you talking about right now?' Katya opens up dryly beside Nagiyev and brings in "voobshche" ("at all") to make the meaning unmistakable.
+- 'Vitya, why do I not see my car?' Touching on his car around Katya, Nagiyev puts the question word "pochemu" right at the start so Katya hears the focus immediately.
+- 'Admit it, did you already go for a ride in it?' Nagiyev probes earnestly how Barinov expects that to work in practice.
+- 'I just reparked it in another spot.' Talking about the place in front of Nagiyev, Barinov uses "pereparkoval" ("reparked", from "pereparkovat") to make the point stick.
+- 'Your car really is very good.' Stressing how good things are in this beat, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Well then, shall we start our new countdown?' Nagiyev inquires briskly where this conversation is heading next.
+- 'Come back to me as soon as possible.' Nagiyev counters plainly during the talk and chooses "vozvrashchaysya" ("return", from the root "vozvrashchatsya") so Barinov hears the exact meaning.

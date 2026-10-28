@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oguzok, did you accept the produce delivery?' Max focuses on one vivid expression on cue: "produkty" means "groceries" (from "produkt"), giving the line its exact edge.
-- 'Yes, everything is in order.' Timur brings this update before Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'As our captain used to say, whoever does not lie.' Max answers evenly with a shrug, testing Timur's reaction in the middle of the exchange.
-- 'Good job, Oguzok.' Timur points to this telling detail at once: "molodets" means "well done, good boy", and it carries the main weight of what Timur is saying.
-- 'Oguzok. Just like our captain used to say.' Max stands firm wryly as they talk, leaving no doubt about where he stands.
-- 'All of my produce is completely fresh.' Timur speaks frankly as they talk, making his position completely clear.
-- 'Alright, goodbye then.' Max anchors one vivid term for Timur: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
-- 'He already put his signature on it.' Timur makes the comeback toward Max: the "-sya" ending on "podpis" ("signature") turns the action inward or makes it happen between people naturally.
-- 'She is nowhere to be found.' Max pushes back sharply as things stand, refusing to let the moment slip past.
-- 'What, we entrusted our child to you, and what did you do?' Timur favors one practical expression in earnest: "rebenka" means "child" (from "rebyonok"), giving the line its exact edge.
-- 'It is all because of your money.' Max states the comeback to Timur: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Find my child first, and then sort out your relationship.' Timur counters decisively around Max, shifting the whole mood of the room in a single beat.
-- 'Stop it, both of you.' Max stresses this clear piece toward Timur: "prekratite" means "stop it" (from "prekratit"), giving the line its exact edge.
+- 'Oguzok, did you accept the produce delivery?' Highlighting the groceries around Timur, Max reaches for the Russian word "produkty" ("groceries", built from "produkt") right at the center of the line.
+- 'Yes, everything is in order.' Talking about the order beside Max, Timur links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'As our captain used to say, whoever does not lie.' Max cuts in evenly in their talk, bringing things back to earth after the buildup.
+- 'Good job, Oguzok.' Timur replies directly in the exchange and lands on "molodets" ("well done, good boy") as the key everyday word here.
+- 'Oguzok. Just like our captain used to say.' Max chimes in smoothly before Timur and brings in "kapitan" ("captain") to make the meaning unmistakable.
+- 'All of my produce is completely fresh.' Timur speaks up frankly with a smile, steering the talk right where he wants it.
+- 'Alright, goodbye then.' Max warmly extends this polite farewell in the exchange using "do svidaniya" ("goodbye") — literally "until the next meeting", the standard Russian farewell.
+- 'He already put his signature on it.' Returning to the signature on the spot, the "-sya" ending on "podpis" ("signature") marks an action that unfolds mutually or turns back on the speaker.
+- 'She is nowhere to be found.' Max answers sharply across the room, watching Timur's face to see how the news lands.
+- 'What, we entrusted our child to you, and what did you do?' Talking about his child during the talk, Timur leans on "rebenka" ("child", a form of "rebyonok") to give the remark its edge.
+- 'It is all because of your money.' Bringing up the money during the talk, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Find my child first, and then sort out your relationship.' Timur steps in decisively with a nod, before Max can change the subject.
+- 'Stop it, both of you.' Max responds quietly in front of Timur and leans on "prekratite" ("stop it", a form of "prekratit") to give the remark its edge.

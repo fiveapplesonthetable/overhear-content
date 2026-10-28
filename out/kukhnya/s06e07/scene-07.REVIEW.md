@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you having a private party here?' Nikita features one familiar element for Katya: "vecherinka" means "party", and it carries the main weight of what Nikita is saying.
-- 'Actually we wanted to sit quietly with the girls.' Katya aims that remark without fuss: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Alright, I will go then, I will not bother you.' Nikita follows up decisively facing Katya, to clear the air between them once and for all.
-- 'What a fine fellow, he just got up and left!' Nastya emphasizes this clear element on cue: "molodets" means "well done, good boy", and it carries the main weight of what Nastya is saying.
-- 'He always knows how to disappear so suddenly.' Nastya counters pointedly as things stand, leaving no doubt about where she stands.
-- 'Forgive me for reminding you of that again.' Nastya fires back plainly without a pause, without trying to dress up how she really feels.
-- 'Work is over, and you are still here?' Nikita underscores this key detail toward Katya: "zakonchilas" means "ended" (from "zakonchitsya"), giving the line its exact edge.
-- 'Are you making extra revenue for our bar today?' Nikita delivers this statement on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'We wanted to sit in female company.' Katya opens up earnestly without a pause, testing Nastya's reaction in the middle of the exchange.
-- 'Katya, come on, Nikita is our boss!' Nastya underscores one loaded element at once: "boss" means "boss", and it carries the main weight of what Nastya is saying.
-- 'Let him sit with us for a little while.' Nastya stands firm plainly toward Katya, letting the remark speak for itself.
-- 'Yes, Anechka, what is up with the test results?' Katya probes straight out whether Nikita really thought this through.
+- 'Are you having a private party here?' Underscoring a private party with Katya, Nikita reaches for the Russian word "vecherinka" ("party") right at the heart of the line.
+- 'Actually we wanted to sit quietly with the girls.' Focusing on the girls around Nikita, Katya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Alright, I will go then, I will not bother you.' Nikita opens up decisively facing Katya, leaving no doubt about where he stands.
+- 'What a fine fellow, he just got up and left!' Nastya cuts in smoothly at once and leans on "molodets" ("well done, good boy") to give the whole sentence its punch.
+- 'He always knows how to disappear so suddenly.' Nastya opens up earnestly at once and leans on "ischeznut" ("to disappear") to give the whole sentence its punch.
+- 'Forgive me for reminding you of that again.' Nastya fires back plainly with a shrug, keeping the focus on what actually matters here.
+- 'Work is over, and you are still here?' Focusing on the job around Nastya, Nikita puts the weight on "zakonchilas" ("ended", from "zakonchitsya") as the exchange unfolds.
+- 'Are you making extra revenue for our bar today?' Showing how additional things are with Katya, Nikita keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'We wanted to sit in female company.' Katya reacts earnestly toward Nikita, testing Nikita's reaction in the middle of the exchange.
+- 'Katya, come on, Nikita is our boss!' Pointing to her boss at once, Nastya uses "boss" ("boss") to carry the main weight of the thought.
+- 'Let him sit with us for a little while.' Nastya jumps in decisively to Katya and uses "nemnogo" ("a bit") to carry the main weight of the thought.
+- 'Yes, Anechka, what is up with the test results?' Katya probes straight out where this conversation is heading next.

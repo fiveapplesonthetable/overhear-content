@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, my offer remains in effect.' The guest chooses this clear word at once: "predlozheniye" means "offer, proposal", and it carries the main weight of what the guest is saying.
-- 'Keep your offer to yourself forever!' Katya jumps in openly on the spot, grounding the moment in plain reality.
-- 'You are going to regret this deeply!' The guest proceeds candidly as things stand, leaving no doubt about where he stands.
-- 'I will write a terrible report about you.' The guest centers one practical expression in earnest: "uzhasnyy" means "horrible", and it carries the main weight of what the guest is saying.
-- 'You will never get the coveted star!' The guest lays out the reply with ease: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Now that is very unlikely.' Eleonora answers right away with a sigh, letting the remark speak for itself.
-- 'If you write badly about our restaurant.' Eleonora centers one loaded touch in earnest: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'Then your bosses will immediately see everything.' Eleonora anchors this key detail in reply: "nachalstvo" means "management", and it carries the main weight of what Eleonora is saying.
-- 'You are using your position for personal gain.' Eleonora reacts openly to be clear, grounding the moment in plain reality.
-- 'Do you remember I offered you money?' Eleonora focuses on one clear choice at once: "predlagala" means "offered" (from "predlagat"), giving the line its exact edge.
-- 'You should have quietly taken the money back then.' Eleonora shapes that remark facing the guest: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'It is as if I went to an interesting movie today.' Katya jumps in frankly to settle things, to clear the air between them once and for all.
+- 'Katya, my offer remains in effect.' Discussing his offer at once, the guest lands on "predlozheniye" ("offer, proposal") as the key everyday word here.
+- 'Keep your offer to yourself forever!' Emphasizing the offer in front of the guest, Katya leans on "predlozheniye" ("offer, proposal") to give the whole sentence its punch.
+- 'You are going to regret this deeply!' The guest jumps in candidly facing Katya, refusing to let the moment slip past.
+- 'I will write a terrible report about you.' Underscoring a terrible report right here, the guest leans on "uzhasnyy" ("horrible") to give the whole sentence its punch.
+- 'You will never get the coveted star!' Addressing the coveted star in the exchange, the guest pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Now that is very unlikely.' Eleonora continues right away beside the guest, letting the remark speak for itself.
+- 'If you write badly about our restaurant.' Highlighting her restaurant to the guest, Eleonora puts the weight on "restorane" ("restaurant", from "restoran") as the exchange unfolds.
+- 'Then your bosses will immediately see everything.' Eleonora pushes back right away without any doubt, bringing things back to earth after the buildup.
+- 'You are using your position for personal gain.' Eleonora pushes back openly with a shrug, grounding the moment in plain reality.
+- 'Do you remember I offered you money?' Highlighting the money beside Katya, Eleonora centers the thought on "predlagala" ("offered", from "predlagat") without wasting a word.
+- 'You should have quietly taken the money back then.' Turning to the money with Katya, Eleonora leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'It is as if I went to an interesting movie today.' Katya jumps in frankly in this moment, without trying to dress up how she really feels.

@@ -43,7 +43,7 @@ WALK = [
     (8, None, "'I said, you are not going anywhere!' The guide repeats herself with cold finality."),
     (9, None, "'Listen here, we bought tickets after all!' Samson tries to intervene with the organizer."),
     (10, None, "'Because I have no strength left dealing with you!' Literally, 'there are no forces left with you'."),
-    (11, None, "'Please, let us onto the bus!' Nina pleads with the woman, pointing to her disappointed son."),
+    (11, None, "'Please, let us onto the bus!' Nina begs the woman, pointing to her disappointed son."),
     (12, None, "'People are right about your family.' The organizer refuses to budge for the troublemaking mayoral candidate."),
     (13, None, "'The apple doesn't fall far from the tree!' This classic Russian proverb means children take after their parents' bad habits."),
 ]

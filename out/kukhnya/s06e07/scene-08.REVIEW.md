@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Interesting, I will definitely keep that in mind.' Elena answers candidly without holding back, keeping the focus on what actually matters here.
-- 'Thank you very much for the good news!' Elena continues wryly with a sigh, without trying to dress up how she really feels.
-- 'Vitya, I have great news for you!' Elena underscores this clear term in earnest: "otlichnyye" means "excellent" (from "otlichnyy"), giving the line its exact edge.
-- 'It turns out you are completely healthy!' Elena drops this warning with candor: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'It is so much fun with you tonight!' Nikita continues plainly without holding back, leaving no doubt about where he stands.
-- 'Kostya, just do not pour me too much.' Nikita sharpens one vivid piece for Kostya: "nalivay" means "to pour" (from "nalivat"), giving the line its exact edge.
-- 'I still want to walk Katya home.' Nikita jumps in frankly in their talk, shifting the whole mood of the room in a single beat.
-- 'Maybe then you will drink something lighter?' Kostya chimes in earnestly watching Nikita, so Nikita knows he is not just making small talk.
-- 'Boss, trust a professional in this matter.' Kostya emphasizes one loaded touch for Elena: "professionalu" means "professional" (from "professional"), giving the line its exact edge.
-- 'I will make you my signature cocktail.' Kostya favors one concrete term in earnest: "firmennyy" means "signature", and it carries the main weight of what Kostya is saying.
-- 'What kind of interesting cocktail is that?' Nikita quizzes promptly why things suddenly took this turn between them.
-- 'Enjoy, it is a gift on the house.' Kostya anchors this direct choice for Nikita: "ugoshchaysya" means "help yourself" (from "ugoshchatsya"), giving the line its exact edge.
+- 'Interesting, I will definitely keep that in mind.' Touching on the view in this beat, Elena lands on "obyazatelno" ("surely, without fail") as the key everyday word here.
+- 'Thank you very much for the good news!' Elena chimes in wryly with a smile, to clear the air between them once and for all.
+- 'Vitya, I have great news for you!' Focusing on the news at once, Elena brings in "otlichnyye" ("excellent", from "otlichnyy") as the key Russian word here.
+- 'It turns out you are completely healthy!' Speaking dryly beside Nikita, the "-sya" ending on "okazyvayetsya" ("to turn out to be") marks an action that unfolds mutually or turns back on the speaker.
+- 'It is so much fun with you tonight!' Nikita continues plainly with a smile, refusing to let the moment slip past.
+- 'Kostya, just do not pour me too much.' Nikita speaks warmly around Kostya and lands on "nalivay" ("to pour", built on "nalivat") to keep the statement grounded.
+- 'I still want to walk Katya home.' Nikita steps in pointedly beside Kostya and brings in "yeshchyo" ("more, still") to make the meaning unmistakable.
+- 'Maybe then you will drink something lighter?' Kostya prompts firmly how Nikita expects that to work in practice.
+- 'Boss, trust a professional in this matter.' Turning to a professional at once, Kostya reaches for the Russian word "professionalu" ("professional", built from "professional") right at the center of the line.
+- 'I will make you my signature cocktail.' Kostya counters warmly in their talk, making his position completely clear.
+- 'What kind of interesting cocktail is that?' Nikita quizzes promptly about what Kostya just brought up.
+- 'Enjoy, it is a gift on the house.' Focusing on the establishment during the talk, Kostya reaches for the Russian word "zavedeniya" ("establishment", built from "zavedeniye") right at the center of the line.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will never meddle in your life again.' Eleonora frames this sharp detail on cue: "nikogda" means "never", and it carries the main weight of what Eleonora is saying.
-- 'Hello, glad to see you.' Denis shapes that thought toward Nagiyev: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'Dima, may I have you for a moment?' Eleonora tests straight out if there is more going on behind the scenes.
-- 'He is not going to play for us.' Eleonora sharpens one loaded element in reply: "igrat" means "to play", and it carries the main weight of what Eleonora is saying.
-- 'Why are you freaking out, he is not my type.' Eleonora uses one telling element right here: "psikhuyesh" means "freak out" (from "psikhovat"), giving the line its exact edge.
-- 'Let him play in some other place.' Eleonora continues promptly around Nagiyev, making her position completely clear.
-- 'Hi, Katya.' Denis lays out this warning facing Eleonora: opening with the casual greeting "privet" ("hi") signals right away that Denis and Eleonora are on familiar terms.
-- 'You have high staff turnover here.' Denis offers that thought right away: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'After all, this does not look like my cookies.' Nagiyev holds firm dryly on the spot, leaving no doubt about where he stands.
-- 'After all, I work with sharp objects.' Nagiyev points to one practical element at once: "predmetami" means "objects" (from "predmet"), giving the line its exact edge.
-- 'Congratulations, while I have to work with dull ones.' Eleonora jumps in briskly on the spot, saying out loud what both of them already know.
-- 'We will make new cookies right now.' Nagiyev cuts in pointedly watching Eleonora, leaving no doubt about where he stands.
+- 'I will never meddle in your life again.' Bringing up the life in this beat, Eleonora lands on "zhizn" ("life") as the key everyday word here.
+- 'Hello, glad to see you.' Denis simply speaks this formal greeting toward Eleonora using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Dima, may I have you for a moment?' Eleonora tests straight out to see how Denis will answer on the spot.
+- 'He is not going to play for us.' Eleonora fires back briskly to Denis and uses "igrat" ("to play") to carry the main weight of the thought.
+- 'Why are you freaking out, he is not my type.' Eleonora speaks briskly in their talk, shifting the mood of the conversation in a single beat.
+- 'Let him play in some other place.' Eleonora reacts promptly without a pause, so Denis knows she is not just making small talk.
+- 'Hi, Katya.' Denis promptly sends this casual greeting in the exchange using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'You have high staff turnover here.' Denis continues candidly with a shrug, grounding the moment in plain reality.
+- 'After all, this does not look like my cookies.' Nagiyev reacts dryly watching Denis, steering the talk right where he wants it.
+- 'After all, I work with sharp objects.' Emphasizing the objects before Eleonora, Nagiyev leans on "predmetami" ("objects", a form of "predmet") to give the remark its edge.
+- 'Congratulations, while I have to work with dull ones.' Eleonora pushes back promptly during the talk and lands on "pozdravlyayu" ("congratulations", built on "pozdravlyat") to keep the statement grounded.
+- 'We will make new cookies right now.' Nagiyev follows up pointedly without holding back, letting the remark speak for itself.

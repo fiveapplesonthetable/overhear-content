@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon.' Barinov responds pointedly with a sigh, bringing things back to earth after the buildup.
-- 'Just like that.' Elena shares that remark facing Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I am listening, Elena Pavlovna.' Nagiyev phrases this line beside Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Dmitry Vladimirovich, I have a personal matter to discuss with you.' Barinov stands firm plainly with a nod, without trying to dress up how he really feels.
-- 'I want to talk to you about Viktor Petrovich.' Elena frames this sharp touch for Barinov: "pogovorit" means "to talk", and it carries the main weight of what Elena is saying.
-- 'Is that so.' Nagiyev drops this warning calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Oh, come on now.' Barinov chimes in plainly in this moment, testing Elena's reaction in the middle of the exchange.
-- 'Wait a second, in what sense do you mean that?' Elena underscores this key word with Nagiyev: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'And in what sense did you mean it?' Nagiyev voices that thought beside Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'I have a favor to ask of you.' Barinov cuts in promptly to settle things, bringing things back to earth after the buildup.
-- 'Could you please not overload him with work when he gets back.' Elena leans on one classic element with Barinov: "nagruzhat" means "load, burden", and it carries the main weight of what Elena is saying.
-- 'Wait, gets back from where?' Nagiyev shares the reply facing Elena: the "-sya" ending on "vernetsya" ("will return") turns the action inward or makes it happen between people naturally.
-- 'Hold on, he told me that he had already informed you.' Barinov continues steadily in their talk, so Elena knows he is not just making small talk.
+- 'Good afternoon.' Barinov openly directs this daytime greeting for Elena using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'Just like that.' Reacting frankly to Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I am listening, Elena Pavlovna.' Pressing on boldly in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Dmitry Vladimirovich, I have a personal matter to discuss with you.' Barinov weighs in plainly without holding back, letting the remark speak for itself.
+- 'I want to talk to you about Viktor Petrovich.' Elena speaks up quietly in this beat and lands on "pogovorit" ("to talk") as the key everyday word here.
+- 'Is that so.' Stepping in naturally around Elena, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Oh, come on now.' Barinov reacts plainly in this moment, keeping the focus on what actually matters here.
+- 'Wait a second, in what sense do you mean that?' Emphasizing the sense around Nagiyev, Elena uses "podozhdite" ("wait", from "podozhdat") to make the point stick.
+- 'And in what sense did you mean it?' Reacting evenly to Barinov, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'I have a favor to ask of you.' Barinov cuts in promptly with a sigh, so Nagiyev knows he is not just making small talk.
+- 'Could you please not overload him with work when he gets back.' Elena pushes back promptly beside Barinov and centers the remark on "nagruzhat" ("load, burden") without any extra fuss.
+- 'Wait, gets back from where?' Opening up firmly around Barinov, the "-sya" ending on "vernetsya" ("will return") marks an action that unfolds mutually or turns back on the speaker.
+- 'Hold on, he told me that he had already informed you.' Barinov continues steadily with a shrug, steering the talk right where he wants it.

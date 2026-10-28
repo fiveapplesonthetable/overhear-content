@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have guests in the dining room.' Barinov shares the comeback beside Nagiyev: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'There was supposed to be one and a half people today.' Vika chimes in at once in this moment, steering the talk right where she wants it.
-- 'A whole tour group just arrived.' Nagiyev grounds this vivid touch in earnest: "ekskursiya" means "field trip", and it carries the main weight of what Nagiyev is saying.
-- 'Do you understand what kind of situation this is?' Barinov makes that point around Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'The Chef left, the sous-chef is on vacation, and the rest...' Vika fires back calmly with a shrug, bringing things back to earth after the buildup.
-- 'Wait, why is that?' Nagiyev phrases this point without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Have you all lost your minds?' Barinov delivers the comeback to Nagiyev: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'The acting sous-chef is right here on duty.' Vika opens up decisively in their talk, grounding the moment in plain reality.
-- 'Alright, that is it.' Nagiyev offers this statement facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am calling Dmitriy Vladimirovich right now.' Barinov phrases that line without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Vika, please do not.' Vika holds firm promptly to settle things, letting the remark speak for itself.
-- 'Vika, I will solve this problem myself.' Nagiyev picks one loaded expression in earnest: "problemu" means "problem" (from "problema"), giving the line its exact edge.
-- 'Trust me, please.' Barinov shares that point right away: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'We have guests in the dining room.' Discussing the visitors before Vika, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'There was supposed to be one and a half people today.' Vika opens up at once around Barinov, to clear the air between them once and for all.
+- 'A whole tour group just arrived.' Talking about the field trip before Vika, Nagiyev leans on "ekskursiya" ("field trip") to give the whole sentence its punch.
+- 'Do you understand what kind of situation this is?' Returning to the matter during the talk, Barinov puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'The Chef left, the sous-chef is on vacation, and the rest...' Vika weighs in calmly around Barinov, letting the remark speak for itself.
+- 'Wait, why is that?' Answering warmly in this beat, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Have you all lost your minds?' Replying warmly during the talk, Barinov puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'The acting sous-chef is right here on duty.' Vika cuts in decisively without a pause, grounding the moment in plain reality.
+- 'Alright, that is it.' Pressing on warmly before Vika, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am calling Dmitriy Vladimirovich right now.' Reacting earnestly around Nagiyev, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Vika, please do not.' Vika opens up promptly without holding back, watching Barinov's face to see how the news lands.
+- 'Vika, I will solve this problem myself.' Emphasizing the problem in front of Vika, Nagiyev centers the thought on "problemu" ("problem", from "problema") without wasting a word.
+- 'Trust me, please.' Barinov readily uses this courtesy word at this moment using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".

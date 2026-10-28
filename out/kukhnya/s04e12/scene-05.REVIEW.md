@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoriya Sergeyevna, what is going on?' German hands over this answer for Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'We have a banquet in two days!' German opens up promptly across the room, so Vika knows he is not just making small talk.
-- 'And I find out about it right now!' German underscores one sharp word right here: "seychas" means "now", and it carries the main weight of what German is saying.
-- 'We might simply fail to finish in time.' German offers the reaction with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I will not have time to order the alcohol!' Kostya reacts promptly with German, watching German's face to see how the news lands.
-- 'And how much meat and fish should we order?' German focuses on this direct element in reply: "myasa" means "meat" (from "myaso"), giving the line its exact edge.
-- 'That is simply unprofessional on your part!' German phrases the comment calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I am a professional at my job!' Vika responds decisively with a smile, before Kostya can change the subject.
-- 'All right, stop, wait and calm down.' Vika features this vivid piece on cue: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'There will not be a banquet for a hundred people.' Vika chimes in at once across the room, watching Kostya's face to see how the news lands.
-- 'But for thirty people, there will be.' Vika opens up sharply around German, grounding the moment in plain reality.
-- 'So there really will be a banquet for thirty?' German points to one direct piece right here: "banket" means "banquet", and it carries the main weight of what German is saying.
+- 'Viktoriya Sergeyevna, what is going on?' Reacting calmly right here, German puts the question word "chto" right at the start so Kostya hears the focus immediately.
+- 'We have a banquet in two days!' German continues promptly during the talk, refusing to let the moment slip past.
+- 'And I find out about it right now!' German replies promptly in front of Kostya and leans on "uznayu" ("to recognise", a form of "uznavat") to give the remark its edge.
+- 'We might simply fail to finish in time.' Following up evenly beside Kostya, German uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I will not have time to order the alcohol!' Kostya chimes in promptly with a nod, testing German's reaction in the middle of the exchange.
+- 'And how much meat and fish should we order?' Underscoring the meat right here, German brings in "myasa" ("meat", from "myaso") as the key Russian word here.
+- 'That is simply unprofessional on your part!' Addressing the side on the spot, German uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I am a professional at my job!' Vika cuts in decisively with a sigh, letting the remark speak for itself.
+- 'All right, stop, wait and calm down.' Vika opens up plainly right here and chooses "podozhdite" ("wait", from the root "podozhdat") so German hears the exact meaning.
+- 'There will not be a banquet for a hundred people.' Turning to a banquet in this beat, Vika chooses "banketa" ("banquet", from the root "banket") so German hears the exact meaning.
+- 'But for thirty people, there will be.' Vika responds sharply toward German, shifting the mood of the conversation in a single beat.
+- 'So there really will be a banquet for thirty?' Pointing to a banquet with Vika, German brings in "banket" ("banquet") to make the meaning unmistakable.

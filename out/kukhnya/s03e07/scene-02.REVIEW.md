@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, go ahead, what do you want to name him?' Nastya delivers this point before Kostya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Nothing of the sort, dear Nastya.' Kostya continues calmly toward Nastya, bringing things back to earth after the buildup.
-- 'Dmitry is a very handsome name.' Kostya favors one direct detail toward Max: "krasivoye" means "beautiful" (from "krasivyy"), giving the line its exact edge.
-- 'Well look closely for yourself.' Kostya frames that answer calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Here is Dmitry, and here is some Kuzma.' Kostya answers bluntly during the talk, steering the talk right where he wants it.
-- 'You know, the name Dmitry at least sounds good.' Kostya centers one pointed element in earnest: "znayesh" means "know" (from "znat"), giving the line its exact edge.
-- 'And what is wrong with the name Kuzma for you?' Nastya makes this line with ease: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
-- 'Honestly, I do not even know that.' Kostya speaks quietly with a shrug, so Nastya knows he is not just making small talk.
-- 'Let us ask Max right now.' Kostya uses one memorable element in reply: "seychas" means "now", and it carries the main weight of what Kostya is saying.
-- 'Max, tell us, Dmitry is better, right?' Kostya directs that line around Nastya: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Take your order, please.' Max chimes in plainly in this moment, so Kostya knows he is not just making small talk.
-- 'Well, what will you tell us, Max?' Nastya colors one vivid term in reply: "skazhesh" means "will you say" (from "skazat"), giving the line its exact edge.
+- 'Alright, go ahead, what do you want to name him?' Following up openly with Kostya, Nastya starts with "davay" ("come on, let's") to invite Kostya right into the action.
+- 'Nothing of the sort, dear Nastya.' Kostya opens up calmly around Nastya, letting the remark speak for itself.
+- 'Dmitry is a very handsome name.' Highlighting how beautiful things are around Nastya, Kostya lands on "krasivoye" ("beautiful", built on "krasivyy") to keep the statement grounded.
+- 'Well look closely for yourself.' Leaning in openly beside Nastya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Here is Dmitry, and here is some Kuzma.' Kostya opens up bluntly around Nastya, to clear the air between them once and for all.
+- 'You know, the name Dmitry at least sounds good.' Turning to the name in the exchange, Kostya brings in "imya" ("name") to make the meaning unmistakable.
+- 'And what is wrong with the name Kuzma for you?' Focusing on the name in this beat, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Honestly, I do not even know that.' Kostya proceeds quietly with a shrug, testing Nastya's reaction in the middle of the exchange.
+- 'Let us ask Max right now.' Kostya speaks candidly to Max and brings in "sprosim" ("will ask", from "sprosit") as the key Russian word here.
+- 'Max, tell us, Dmitry is better, right?' Answering promptly around Max, Kostya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Take your order, please.' Max casually directs this courtesy word at this moment using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Well, what will you tell us, Max?' Nastya proceeds quietly around Max and brings in "skazhesh" ("will you say", from "skazat") as the key Russian word here.

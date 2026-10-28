@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You know, Vitya, you really are a very good person!' The guest chooses one telling detail at once: "khoroshiy" means "good", and it carries the main weight of what the guest is saying.
-- 'And I will not take a single ruble from you.' The guest leans on one colorful term in reply: "rublya" means "ruble" (from "rubl"), giving the line its exact edge.
-- 'Yes, it is decided, I am divorcing Lena completely for free!' The guest steps in briskly on the spot, to clear the air between them once and for all.
-- 'Thank you very much, Gena, you are a true comrade!' Barinov anchors one colorful piece toward the guest: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Barinov is saying.
-- 'For free, but only on one important condition.' The guest counters steadily as they talk, letting the remark speak for itself.
-- 'I absolutely must paint your portrait right now!' The guest answers at once facing Barinov, before Barinov can change the subject.
-- 'What? What portrait in the middle of the workplace?' Barinov underscores one telling element with the guest: "rabochem" means "work" (from "rabochiy"), giving the line its exact edge.
-- 'Just take a close look at yourself right now!' The guest chooses one loaded term for Barinov: "vnimatelno" means "carefully, attentively", and it carries the main weight of what the guest is saying.
-- 'Look how much immense strength and energy is in you!' The guest jumps in quietly before Barinov, before Barinov can change the subject.
-- 'Fine, the heck with you, go ahead and paint quickly!' Barinov points to one key element on cue: "chyort" means "darn, heck", and it carries the main weight of what Barinov is saying.
-- 'No, not right here, I need plenty of space!' The guest voices the reaction to Barinov: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'I want to paint you on a summit, not in a cave!' The guest opens up pointedly watching Barinov, saying out loud what both of them already know.
+- 'You know, Vitya, you really are a very good person!' Insisting on how good things are to Barinov, the guest puts the emphasis on "khoroshiy" ("good") in the middle of the talk.
+- 'And I will not take a single ruble from you.' The guest weighs in promptly across the room, shifting the mood of the conversation in a single beat.
+- 'Yes, it is decided, I am divorcing Lena completely for free!' The guest weighs in briskly with a sigh, letting the remark speak for itself.
+- 'Thank you very much, Gena, you are a true comrade!' Underscoring how real the guest is around the guest, Barinov lands on "nastoyashchiy" ("real, genuine") as the key everyday word here.
+- 'For free, but only on one important condition.' Talking about the condition to Barinov, the guest brings in "usloviyem" ("condition", from "usloviye") as the key Russian word here.
+- 'I absolutely must paint your portrait right now!' The guest pushes back at once with a smile, so Barinov knows he is not just making small talk.
+- 'What? What portrait in the middle of the workplace?' Pointing to the portrait to the guest, Barinov brings in "rabochem" ("work", from "rabochiy") as the key Russian word here.
+- 'Just take a close look at yourself right now!' The guest chimes in calmly in their talk, bringing things back to earth after the buildup.
+- 'Look how much immense strength and energy is in you!' The guest steps in quietly facing Barinov, without trying to dress up how he really feels.
+- 'Fine, the heck with you, go ahead and paint quickly!' Pointing to the darn before the guest, Barinov lands on "chyort" ("darn, heck") as the key everyday word here.
+- 'No, not right here, I need plenty of space!' Touching on the space around Barinov, the guest leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'I want to paint you on a summit, not in a cave!' The guest responds pointedly beside Barinov, grounding the moment in plain reality.

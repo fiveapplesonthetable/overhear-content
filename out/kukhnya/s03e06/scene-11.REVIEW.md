@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell them that I am very busy.' Barinov chimes in briskly as they talk, bringing things back to earth after the buildup.
-- 'Vitya, well what is this?' Nagiyev quizzes plainly how Kristina expects that to work in practice.
-- 'Am I supposed to wait for you there for hours?' Nagiyev grounds one familiar expression in reply: "dolzhen" means "has to, must", and it carries the main weight of what Nagiyev is saying.
-- 'Enough, do not yell at my chef.' Kristina continues dryly without any doubt, making her position completely clear.
-- 'Vitya, we need to talk urgently.' Kristina cuts in wryly with a nod, grounding the moment in plain reality.
-- 'May I talk with my chef first?' Nagiyev spotlights one telling choice toward Kristina: "pogovoryu" means "I'll talk" (from "pogovorit"), giving the line its exact edge.
-- 'My friend has an anniversary here tomorrow.' Nagiyev weighs in calmly on the spot, to clear the air between them once and for all.
-- 'Therefore we are closing the restaurant.' Nagiyev stands firm calmly as things stand, grounding the moment in plain reality.
-- 'Wait, what do you mean we are closing?' Kristina picks one vivid detail right here: "zakryvayem" means "close, are closing" (from "zakryvat"), giving the line its exact edge.
-- 'By the way, I am the one who has an important event tomorrow.' Kristina phrases that reply without pause: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'And I am the one closing our restaurant.' Kristina reacts plainly around Barinov, so Barinov knows she is not just making small talk.
-- 'You will have nothing here tomorrow.' Nagiyev emphasizes one pointed choice toward Kristina: "zavtra" means "tomorrow", and it carries the main weight of what Nagiyev is saying.
-- 'You will pay me for all your insults.' Kristina favors this direct term with Barinov: "oskorbleniya" means "insults" (from "oskorbleniye"), giving the line its exact edge.
+- 'Tell them that I am very busy.' Describing how busy he is before Nagiyev, Barinov leans on "zanyat" ("busy", a form of "zanyatyy") to give the remark its edge.
+- 'Vitya, well what is this?' Nagiyev quizzes plainly if there is more going on behind the scenes.
+- 'Am I supposed to wait for you there for hours?' Discussing the hours on the spot, Nagiyev puts the emphasis on "dolzhen" ("has to, must") in the middle of the talk.
+- 'Enough, do not yell at my chef.' Kristina speaks frankly during the talk and uses "khvatit" ("enough") to carry the main weight of the thought.
+- 'Vitya, we need to talk urgently.' Kristina continues wryly during the talk, keeping the focus on what actually matters here.
+- 'May I talk with my chef first?' Nagiyev chimes in evenly to Barinov and reaches for the Russian word "pervyy" ("first") right at the heart of the line.
+- 'My friend has an anniversary here tomorrow.' Underscoring an anniversary beside Kristina, Nagiyev centers the remark on "yubiley" ("anniversary") without any extra fuss.
+- 'Therefore we are closing the restaurant.' Nagiyev fires back calmly with Kristina, watching Kristina's face to see how the news lands.
+- 'Wait, what do you mean we are closing?' Kristina counters briskly with Nagiyev and chooses "zakryvayem" ("close, are closing", from the root "zakryvat") so Nagiyev hears the exact meaning.
+- 'By the way, I am the one who has an important event tomorrow.' Pointing out how important she is in front of Nagiyev, Kristina links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And I am the one closing our restaurant.' Kristina cuts in plainly without a pause, to clear the air between them once and for all.
+- 'You will have nothing here tomorrow.' Nagiyev pushes back boldly beside Kristina and chooses "zavtra" ("tomorrow") so Kristina gets the point right away.
+- 'You will pay me for all your insults.' Kristina opens up decisively facing Nagiyev, steering the talk right where she wants it.

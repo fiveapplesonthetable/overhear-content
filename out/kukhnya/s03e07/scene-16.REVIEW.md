@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, a guest is waiting for you out there with a cockroach.' Lyova emphasizes this clear detail in reply: "tarakanom" means "cockroach" (from "tarakan"), giving the line its exact edge.
-- 'How tired I am of this already!' Max responds wryly facing Vika, testing Vika's reaction in the middle of the exchange.
-- 'What, it is boring to ride without music, right?' Max quizzes firmly how Lyova expects that to work in practice.
-- 'Vika, please, just hear me out.' Max spotlights one practical touch toward Vika: "vyslushay" means "hear out, listen to" (from "vyslushat"), giving the line its exact edge.
-- 'And what else is there to listen to here?' Vika hands over the comment frankly here: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'I have already listened to this a thousand times.' Vika follows up plainly with a nod, bringing things back to earth after the buildup.
-- 'Vika, I was wrong, let us start everything from the beginning.' Max leans on one memorable piece toward Lyova: "neprav" means "wrong" (from "nepravyy"), giving the line its exact edge.
-- 'You are still a boy who does not know what he wants.' Vika centers this sharp word in earnest: "malchishka" means "boy, kid", and it carries the main weight of what Vika is saying.
-- 'Vika, I love you very much.' Max answers wryly as they talk, grounding the moment in plain reality.
-- 'Wait, what did you just say?' Vika sharpens this clear detail in reply: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'I said that I love you.' Max points to this clear term in earnest: "lyublyu" means "love" (from "lyubit"), giving the line its exact edge.
-- 'I was afraid of those words, and now I say I truly love you.' Max continues pointedly on the spot, refusing to let the moment slip past.
+- 'Chef, a guest is waiting for you out there with a cockroach.' Underscoring a cockroach at once, Lyova centers the thought on "tarakanom" ("cockroach", from "tarakan") without wasting a word.
+- 'How tired I am of this already!' Max opens up plainly right here and leans on "nadoyelo" ("has got boring", a form of "nadoyest") to give the remark its edge.
+- 'What, it is boring to ride without music, right?' Max quizzes firmly to see how Vika will answer on the spot.
+- 'Vika, please, just hear me out.' Max opens up firmly before Vika and puts the weight on "vyslushay" ("hear out, listen to", from "vyslushat") as the exchange unfolds.
+- 'And what else is there to listen to here?' Pressing on promptly to Max, Vika leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'I have already listened to this a thousand times.' Vika cuts in plainly toward Max, steering the talk right where she wants it.
+- 'Vika, I was wrong, let us start everything from the beginning.' Max chimes in sharply in front of Vika and centers the thought on "neprav" ("wrong", from "nepravyy") without wasting a word.
+- 'You are still a boy who does not know what he wants.' Vika proceeds warmly watching Max, refusing to let the moment slip past.
+- 'Vika, I love you very much.' Max chimes in wryly in their talk, before Vika can change the subject.
+- 'Wait, what did you just say?' Vika speaks decisively to Max and puts the weight on "podozhdi" ("wait", from "podozhdat") as the exchange unfolds.
+- 'I said that I love you.' Max counters candidly without holding back, refusing to let the moment slip past.
+- 'I was afraid of those words, and now I say I truly love you.' Max pushes back pointedly toward Vika, testing Vika's reaction in the middle of the exchange.

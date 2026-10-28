@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, what is even going on here right now?' Katya drops the remark with warmth: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Let me go immediately, what are you doing?' Katya tests curiously what Nastya is actually getting at here.
-- 'Kostya, bring a bottle of whiskey to the roof.' Nastya centers one vivid element right here: "butylku" means "a bottle" (from "butylka"), giving the line its exact edge.
-- 'Just please do not say anything to Nastya.' Kostya states this line facing Nastya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'In childhood I had a nickname like that.' Nastya speaks up frankly around Katya, to clear the air between them once and for all.
-- 'Nastya, Katya just called me.' Kostya uses one vivid detail for Nastya: "pozvonila" means "phoned" (from "pozvonit"), giving the line its exact edge.
-- 'She asked me to bring whiskey to the roof.' Kostya opens up quietly with Katya, before Katya can change the subject.
-- 'Well there, good job for confessing right away.' Nastya counters honestly on the spot, keeping the focus on what actually matters here.
-- 'Leave this bottle of whiskey here with me.' Nastya uses one clear expression toward Katya: "butylku" means "a bottle" (from "butylka"), giving the line its exact edge.
-- 'Kostya, where do you keep the tasty tea?' Nastya offers this statement in earnest: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'The tea is over there behind the bar.' Kostya proceeds plainly around Katya, bringing things back to earth after the buildup.
-- 'I will take the hot tea to her myself.' Nastya chooses one practical expression at once: "goryachiy" means "hot", and it carries the main weight of what Nastya is saying.
+- 'Wait, what is even going on here right now?' Replying boldly in front of Nastya, Katya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Let me go immediately, what are you doing?' Katya tests curiously to see how Nastya will answer on the spot.
+- 'Kostya, bring a bottle of whiskey to the roof.' Underscoring a bottle on the spot, Nastya centers the thought on "butylku" ("a bottle", from "butylka") without wasting a word.
+- 'Just please do not say anything to Nastya.' Weighing in candidly in front of Nastya, Kostya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'In childhood I had a nickname like that.' Nastya weighs in frankly in this moment, without trying to dress up how she really feels.
+- 'Nastya, Katya just called me.' Kostya weighs in calmly with Katya and leans on "pozvonila" ("phoned", a form of "pozvonit") to give the remark its edge.
+- 'She asked me to bring whiskey to the roof.' Mentioning the roof with Nastya, Kostya uses "poprosila" ("asked", from "poprosit") to make the point stick.
+- 'Well there, good job for confessing right away.' Nastya steps in honestly without a pause, testing Kostya's reaction in the middle of the exchange.
+- 'Leave this bottle of whiskey here with me.' Touching on the bottle in the exchange, Nastya chooses "butylku" ("a bottle", from the root "butylka") so Kostya hears the exact meaning.
+- 'Kostya, where do you keep the tasty tea?' Touching on the tasty tea at once, Nastya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'The tea is over there behind the bar.' Kostya counters plainly around Nastya, watching Nastya's face to see how the news lands.
+- 'I will take the hot tea to her myself.' Addressing the hot tea during the talk, Nastya brings in "goryachiy" ("hot") to make the meaning unmistakable.

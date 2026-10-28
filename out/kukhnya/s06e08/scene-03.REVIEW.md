@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what are you giving Katya today yourselves?' Barinov inquires calmly about what Denis just brought up.
-- 'We are chipping in a thousand rubles each, as usual.' Lyova uses one familiar word in reply: "skidyvayemsya" means "are chipping in" (from "skidyvatsya"), giving the line its exact edge.
-- 'Would you like to chip in for the gift with us?' Lyova delivers the remark before Barinov: the "-sya" ending on "skinutsya" ("to money") turns the action inward or makes it happen between people naturally.
-- 'Lyova, you are the most generous person among us.' Barinov replies wryly without a pause, bringing things back to earth after the buildup.
-- 'Denis, and what is that you have over there?' Barinov offers this line with ease: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'The mirror on Katya's motorcycle broke recently.' Denis speaks up steadily hearing Lyova, before Lyova can change the subject.
-- 'So I bought her a brand-new mirror.' Denis follows up lightly with a nod, grounding the moment in plain reality.
-- 'That is an excellent gift from her own father!' Barinov picks one key expression in reply: "otlichnyy" means "excellent, great", and it carries the main weight of what Barinov is saying.
-- 'Give that box here to me immediately.' Barinov responds steadily with a nod, testing Denis's reaction in the middle of the exchange.
-- 'And you chip in for the gift with everyone else.' Barinov proceeds decisively on the spot, saying out loud what both of them already know.
-- 'There is no reason for you to separate yourself from our team!' Barinov highlights one clear term right here: "kollektiva" means "collective" (from "kollektiv"), giving the line its exact edge.
-- 'I will pay you back for the mirror later.' Barinov favors one telling touch on cue: "zerkalo" means "mirror", and it carries the main weight of what Barinov is saying.
+- 'And what are you giving Katya today yourselves?' Barinov inquires calmly where this conversation is heading next.
+- 'We are chipping in a thousand rubles each, as usual.' Bringing up a thousand with Barinov, Lyova leans on "skidyvayemsya" ("are chipping in", a form of "skidyvatsya") to give the remark its edge.
+- 'Would you like to chip in for the gift with us?' Pointing to the gift on the spot, Lyova keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Lyova, you are the most generous person among us.' Barinov speaks wryly on the spot, refusing to let the moment slip past.
+- 'Denis, and what is that you have over there?' Turning plainly to Denis, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'The mirror on Katya's motorcycle broke recently.' Addressing the motorcycle right here, Denis puts the weight on "mototsikle" ("motorcycle", from "mototsikl") as the exchange unfolds.
+- 'So I bought her a brand-new mirror.' Denis answers lightly on the spot, shifting the mood of the conversation in a single beat.
+- 'That is an excellent gift from her own father!' Highlighting how excellent things are right here, Barinov leans on "otlichnyy" ("excellent, great") to give the whole sentence its punch.
+- 'Give that box here to me immediately.' Discussing the box right here, Barinov reaches for the Russian word "nemedlenno" ("immediately") right at the heart of the line.
+- 'And you chip in for the gift with everyone else.' Barinov jumps in decisively across the room, keeping the focus on what actually matters here.
+- 'There is no reason for you to separate yourself from our team!' Mentioning the collective beside Denis, Barinov brings in "kollektiva" ("collective", from "kollektiv") as the key Russian word here.
+- 'I will pay you back for the mirror later.' Barinov steps in earnestly without holding back, letting the remark speak for itself.

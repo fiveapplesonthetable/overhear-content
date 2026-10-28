@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So there was nothing between the two of you?' Barinov points to this telling touch on cue: "znachit" means "then, so", and it carries the main weight of what Barinov is saying.
-- 'Then how does she know about the scar?' Barinov offers that line beside Nagiyev: putting the question word "otkuda" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'What scar are you talking about?' Max challenges point-blank why things suddenly took this turn between them.
-- 'She just saw it by accident!' Max sharpens this key element in reply: "sluchayno" means "by any chance", and it carries the main weight of what Max is saying.
-- 'I hope you know what to do.' Barinov makes the comment beside Max: the "-sya" ending on "nadeyus" ("hope so") turns the action inward or makes it happen between people naturally.
-- 'The child will not grow up without a father.' Barinov opens up warmly with a sigh, saying out loud what both of them already know.
-- 'Enough arguing, you had better get ready for a wedding!' Barinov reaches for one sharp expression toward Max: "gotovsya" means "prepare" (from "gotovitsya"), giving the line its exact edge.
-- 'I sat down on the old sofa today.' Nagiyev counters dryly in this moment, so Max knows he is not just making small talk.
-- 'Can you imagine how uncomfortable it is for our guests to sit?' Nagiyev tests promptly as Barinov tries to explain the situation.
-- 'I will quickly call a good repairman right now.' Max grounds one practical term in reply: "khoroshego" means "good, the best" (from "khoroshiy"), giving the line its exact edge.
-- 'No need for a repairman, we need to change the furniture.' Nagiyev frames the reaction with warmth: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'It is time to remove all the old things from here.' Nagiyev cuts in sharply across the room, letting the remark speak for itself.
-- 'Well how much longer can we put up with this?' Nagiyev picks one practical choice with Barinov: "yeshchyo" means "more, still", and it carries the main weight of what Nagiyev is saying.
+- 'So there was nothing between the two of you?' Barinov follows up earnestly in the exchange and chooses "znachit" ("then, so") so Max gets the point right away.
+- 'Then how does she know about the scar?' Mentioning the scar beside Max, Barinov puts the question word "otkuda" right at the start so Max hears the focus immediately.
+- 'What scar are you talking about?' Max challenges point-blank where this conversation is heading next.
+- 'She just saw it by accident!' Max steps in calmly on the spot and reaches for the Russian word "sluchayno" ("by any chance") right at the heart of the line.
+- 'I hope you know what to do.' Answering openly in this beat, the "-sya" ending on "nadeyus" ("hope so") marks an action that unfolds mutually or turns back on the speaker.
+- 'The child will not grow up without a father.' Barinov pushes back warmly facing Max, testing Max's reaction in the middle of the exchange.
+- 'Enough arguing, you had better get ready for a wedding!' Bringing up a wedding at once, Barinov chooses "svadbe" ("wedding", from the root "svadba") so Nagiyev hears the exact meaning.
+- 'I sat down on the old sofa today.' Touching on the old sofa beside Barinov, Nagiyev chooses "staryy" ("old") so Barinov gets the point right away.
+- 'Can you imagine how uncomfortable it is for our guests to sit?' Nagiyev tests promptly whether Max really thought this through.
+- 'I will quickly call a good repairman right now.' Talking about the technician right here, Max chooses "khoroshego" ("good, the best", from the root "khoroshiy") so Nagiyev hears the exact meaning.
+- 'No need for a repairman, we need to change the furniture.' Focusing on the technician beside Max, Nagiyev leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'It is time to remove all the old things from here.' Nagiyev answers sharply with a sigh, to clear the air between them once and for all.
+- 'Well how much longer can we put up with this?' Nagiyev cuts in quietly during the talk and brings in "yeshchyo" ("more, still") to make the meaning unmistakable.

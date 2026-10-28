@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, we agreed on two hours.' Elena proceeds dryly as things stand, shifting the whole mood of the room in a single beat.
-- 'Lena, forgive me, I got caught up today.' Barinov uses one memorable touch in reply: "zamotalsya" means "got caught up" (from "zamotatsya"), giving the line its exact edge.
-- 'I was just getting ready to go home.' Barinov offers this update briskly now: the "-sya" ending on "sobiralsya" ("was going to") turns the action inward or makes it happen between people naturally.
-- 'Everything is fine, do not worry.' Barinov replies evenly hearing the inspector, keeping the focus on what actually matters here.
-- 'Viktor, what happened to you?' The inspector centers one memorable choice in earnest: "proizoshlo" means "happened" (from "proizoyti"), giving the line its exact edge.
-- 'Tell me, where is your wheelchair?' The inspector phrases that thought before Elena: putting the question word "gde" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'Someone just stole it from me.' Barinov counters plainly in their talk, shifting the whole mood of the room in a single beat.
-- 'Stolen here, that is simply outrageous!' The inspector chooses this key touch toward Elena: "vozmutitelno" means "outrageous", and it carries the main weight of what the inspector is saying.
-- 'Patrick, meet my wife Elena.' Barinov voices the thought at once: the "-sya" ending on "poznakomsya" ("to get acquainted") turns the action inward or makes it happen between people naturally.
-- 'And this is the chief Michelin inspector.' Barinov proceeds frankly as things stand, keeping the focus on what actually matters here.
-- 'Inspector, I am very pleased to meet you.' Elena emphasizes this key element right here: "poznakomitsya" means "to meet", and it carries the main weight of what Elena is saying.
-- 'Elena, you are simply lovely today.' The inspector makes the comeback calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Vitya, we agreed on two hours.' Elena speaks dryly hearing Barinov, steering the talk right where she wants it.
+- 'Lena, forgive me, I got caught up today.' Barinov fires back plainly to Elena and reaches for the Russian word "zamotalsya" ("got caught up", built from "zamotatsya") right at the center of the line.
+- 'I was just getting ready to go home.' Reacting warmly during the talk, the "-sya" ending on "sobiralsya" ("was going to") marks an action that unfolds mutually or turns back on the speaker.
+- 'Everything is fine, do not worry.' Barinov replies evenly watching the inspector, watching the inspector's face to see how the news lands.
+- 'Viktor, what happened to you?' The inspector answers earnestly at once and brings in "proizoshlo" ("happened", from "proizoyti") as the key Russian word here.
+- 'Tell me, where is your wheelchair?' Opening up evenly before Barinov, the inspector puts the question word "gde" right at the start so Barinov hears the focus immediately.
+- 'Someone just stole it from me.' Barinov steps in plainly without holding back, letting the remark speak for itself.
+- 'Stolen here, that is simply outrageous!' The inspector reacts boldly around Barinov and centers the remark on "vozmutitelno" ("outrageous") without any extra fuss.
+- 'Patrick, meet my wife Elena.' Touching on his wife to Elena, the "-sya" ending on "poznakomsya" ("to get acquainted") marks an action that unfolds mutually or turns back on the speaker.
+- 'And this is the chief Michelin inspector.' Mentioning the inspector with the inspector, Barinov keeps the inspector's attention locked on what matters.
+- 'Inspector, I am very pleased to meet you.' Turning to the inspector around the inspector, Elena leans on "poznakomitsya" ("to meet") to give the whole sentence its punch.
+- 'Elena, you are simply lovely today.' Emphasizing how lovely Elena is on the spot, the inspector uses the little word "prosto" ("simply, just") to make the point sound effortless.

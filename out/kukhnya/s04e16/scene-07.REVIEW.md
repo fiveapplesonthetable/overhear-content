@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What am I to do with a face like this?' Nagiyev anchors one concrete choice right here: "litsom" means "face" (from "litso"), giving the line its exact edge.
-- 'Let's hold a Halloween celebration in our restaurant!' German makes the reply on cue: the word "davayte" is the polite or group version of "let's", inviting Vika into the plan right away.
-- 'We will put stage makeup on you nicely before you go out into the hall.' German answers calmly as they talk, so Nagiyev knows he is not just making small talk.
-- 'I wonder who you will make me up as?' Nagiyev frames this telling word right here: "zagrimiruyete" means "to as" (from "zagrimirut"), giving the line its exact edge.
-- 'We will dress you up like the real Count Dracula!' German frames one loaded choice toward Nagiyev: "nastoyashchego" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
-- 'Look, Vika, our new chef thinks creatively!' Nagiyev responds quietly during the talk, watching Vika's face to see how the news lands.
-- 'Vika Sergeyevna and I are working toward a common goal.' German points to this clear element on cue: "obshcheye" means "joint" (from "obshchiy"), giving the line its exact edge.
-- 'Good, then you are responsible for a fun party script.' Nagiyev puts this statement around Vika: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'And you, German, are responsible for unusual festive cuisine!' Nagiyev holds firm dryly as they talk, bringing things back to earth after the buildup.
-- 'And I am quietly going to go to sleep right now, guys.' Nagiyev anchors one direct expression toward Vika: "rebyata" means "the boys, the lads", and it carries the main weight of what Nagiyev is saying.
-- 'I am again being pulled strongly into a deep sleep.' Nagiyev counters lightly toward German, to clear the air between them once and for all.
-- 'That is a great idea, German, thank you very much!' Vika weighs in right away with a nod, refusing to let the moment slip past.
+- 'What am I to do with a face like this?' Focusing on a face before German, Nagiyev leans on "litsom" ("face", a form of "litso") to give the remark its edge.
+- 'Let's hold a Halloween celebration in our restaurant!' Focusing on his restaurant during the talk, German uses the polite or group form "davayte" ("let's") to bring Nagiyev into the plan.
+- 'We will put stage makeup on you nicely before you go out into the hall.' German pushes back calmly with a shrug, keeping the focus on what actually matters here.
+- 'I wonder who you will make me up as?' Nagiyev counters calmly beside German and reaches for the Russian word "zagrimiruyete" ("to as", built from "zagrimirut") right at the center of the line.
+- 'We will dress you up like the real Count Dracula!' German proceeds firmly hearing Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'Look, Vika, our new chef thinks creatively!' Nagiyev opens up quietly without a pause, watching Vika's face to see how the news lands.
+- 'Vika Sergeyevna and I are working toward a common goal.' Confirming how joint things are to Nagiyev, German leans on "obshcheye" ("joint", a form of "obshchiy") to give the remark its edge.
+- 'Good, then you are responsible for a fun party script.' Turning to the script beside German, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And you, German, are responsible for unusual festive cuisine!' Nagiyev opens up dryly toward German, refusing to let the moment slip past.
+- 'And I am quietly going to go to sleep right now, guys.' Focusing on the boys around Vika, Nagiyev leans on "rebyata" ("the boys, the lads") to give the whole sentence its punch.
+- 'I am again being pulled strongly into a deep sleep.' Emphasizing how deep he is in this beat, Nagiyev puts the emphasis on "glubokiy" ("deep, profound") in the middle of the talk.
+- 'That is a great idea, German, thank you very much!' Vika steps in right away around German, refusing to let the moment slip past.

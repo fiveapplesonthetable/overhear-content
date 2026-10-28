@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, did you move to a new apartment?' Max chooses one loaded choice in reply: "pereyekhala" means "moved" (from "pereyekhat"), giving the line its exact edge.
-- 'No, I just came to visit a friend.' Vika brings this point right away: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Darling, for some reason I already started missing you.' Nagiyev replies evenly to be clear, steering the talk right where he wants it.
-- 'Oh, hi, good job dropping by, we really missed you!' Nagiyev frames one vivid expression right here: "molodets" means "well done, good boy", and it carries the main weight of what Nagiyev is saying.
-- 'Everything is clear with you, so you came for a visit.' Max fires back quietly watching Nagiyev, so Nagiyev knows he is not just making small talk.
-- 'Dmitry Vladimirovich, may I speak with Victoria Sergeyevna about work?' Max questions evenly while looking straight at Vika here.
-- 'Dima, tell me, is everything alright with you out there?' Vika picks one familiar detail toward Max: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Max, maybe you really should quit?' Vika gives the remark calmly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Yes, it seems that way will be better for everyone.' Max weighs in promptly without holding back, before Nagiyev can change the subject.
-- 'And what are you going to do now?' Vika leans on one practical choice with Nagiyev: "teper" means "now", and it carries the main weight of what Vika is saying.
-- 'They already offered me a position at a new restaurant.' Max fires back bluntly with a smile, saying out loud what both of them already know.
-- 'Then from the bottom of my heart I wish you luck.' Vika chimes in calmly toward Nagiyev, grounding the moment in plain reality.
-- 'And I do not wish you luck, after all you have achieved everything anyway.' Max highlights one colorful word on cue: "dobilas" means "achieved" (from "dobitsya"), giving the line its exact edge.
+- 'Wait, did you move to a new apartment?' Addressing the flat in front of Vika, Max uses "kvartiru" ("flat", from "kvartira") to make the point stick.
+- 'No, I just came to visit a friend.' Pointing to a friend in this beat, Vika uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Darling, for some reason I already started missing you.' Nagiyev speaks evenly beside Vika, before Vika can change the subject.
+- 'Oh, hi, good job dropping by, we really missed you!' Nagiyev steps in candidly around Max and chooses "molodets" ("well done, good boy") so Max gets the point right away.
+- 'Everything is clear with you, so you came for a visit.' Turning to the visitors in this beat, Max leans on "ponyatno" ("clear") to give the whole sentence its punch.
+- 'Dmitry Vladimirovich, may I speak with Victoria Sergeyevna about work?' Max questions evenly to see how Vika will answer on the spot.
+- 'Dima, tell me, is everything alright with you out there?' Focusing on the order with Max, Vika puts the weight on "poryadke" ("order", from "poryadok") as the exchange unfolds.
+- 'Max, maybe you really should quit?' Dwelling on the honestly around Max, Vika leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Yes, it seems that way will be better for everyone.' Max jumps in promptly with a nod, refusing to let the moment slip past.
+- 'And what are you going to do now?' Looking over earnestly to Max, Vika puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'They already offered me a position at a new restaurant.' Touching on a new restaurant around Vika, Max leans on "restorane" ("restaurant", a form of "restoran") to give the remark its edge.
+- 'Then from the bottom of my heart I wish you luck.' Vika answers calmly without a pause, so Max knows she is not just making small talk.
+- 'And I do not wish you luck, after all you have achieved everything anyway.' Max opens up promptly with Vika and leans on "dobilas" ("achieved", a form of "dobitsya") to give the remark its edge.

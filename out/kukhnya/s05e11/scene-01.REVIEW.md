@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There are many ways to start the day great.' Barinov picks this sharp term on cue: "sposobov" means "ways, methods" (from "sposob"), giving the line its exact edge.
-- 'One can do sports.' Barinov states this answer briskly now: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Let us go play a game of chess instead.' Barinov replies promptly across the room, leaving no doubt about where he stands.
-- 'Only in the lobby, I need to greet guests.' Mikhail highlights one concrete detail on cue: "gostey" means "guests" (from "gost"), giving the line its exact edge.
-- 'Let us go, I will humiliate you in public.' Barinov states that remark for Mikhail: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'White starts winning!' Mikhail responds calmly as they talk, saying out loud what both of them already know.
-- 'Or one can simply enjoy a minute of silence.' Barinov emphasizes one telling touch for Mikhail: "nasladitsya" means "to enjoy, savor", and it carries the main weight of what Barinov is saying.
-- 'Hello, my dear!' Mikhail shapes that point without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Hello!' Vika cuts in sharply toward Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Hello, Vikulya! And where is our grandson?' Mikhail stresses one loaded choice on cue: "vnuchok" means "grandson", and it carries the main weight of what Mikhail is saying.
-- 'He probably dashed off to work already?' Mikhail hands over the reaction without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Come in, please.' Vika opens up at once before Mikhail, bringing things back to earth after the buildup.
+- 'There are many ways to start the day great.' Pointing to the ways in the exchange, Barinov brings in "sposobov" ("ways, methods", from "sposob") as the key Russian word here.
+- 'One can do sports.' Bringing up the sport in the exchange, Barinov leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Let us go play a game of chess instead.' Barinov proceeds promptly around Mikhail, before Mikhail can change the subject.
+- 'Only in the lobby, I need to greet guests.' Bringing up the guests right here, Mikhail puts the weight on "gostey" ("guests", from "gost") as the exchange unfolds.
+- 'Let us go, I will humiliate you in public.' Weighing in smoothly in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'White starts winning!' Mikhail follows up calmly around Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Or one can simply enjoy a minute of silence.' Highlighting a minute to Mikhail, Barinov puts the emphasis on "nasladitsya" ("to enjoy, savor") in the middle of the talk.
+- 'Hello, my dear!' Mikhail readily speaks this familiar greeting beside Vika using "zdravstvuy" ("hello") — the singular form of the classic greeting that literally means "be healthy".
+- 'Hello!' Vika firmly uses this formal greeting to Mikhail using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Hello, Vikulya! And where is our grandson?' Mikhail gently directs this familiar greeting beside Vika using "zdravstvuy" ("hello") — the singular form of the classic greeting that literally means "be healthy".
+- 'He probably dashed off to work already?' Mentioning the job right here, Mikhail keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Come in, please.' Vika casually voices this courtesy word for Mikhail using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".

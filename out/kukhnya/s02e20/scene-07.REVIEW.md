@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One second, this is very important.' Vika focuses on one loaded piece right here: "sekundochku" means "one little second" (from "sekundochka"), giving the line its exact edge.
-- 'Why do you keep hanging up on my calls?' Nagiyev shares the remark on cue: putting the question word "pochemu" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Because I do not want to talk.' Vika speaks up calmly without any doubt, refusing to let the moment slip past.
-- 'That is why I am calling you back.' Nagiyev picks one key detail right here: "perezvanivayu" means "to call back" (from "perezvanivat"), giving the line its exact edge.
-- 'I have also decided not to depend on men anymore.' Vika speaks frankly without a pause, steering the talk right where she wants it.
-- 'It is humiliating for a woman.' Nagiyev answers evenly before Vika, letting the remark speak for itself.
-- 'What was it you wanted to say?' Vika highlights one clear word at once: "khotel" means "wanted" (from "khotet"), giving the line its exact edge.
-- 'Let us talk later, I am a bit busy right now.' Nagiyev directs the remark briskly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Forgive me, let us get started.' Vika replies sharply beside Nagiyev, before Nagiyev can change the subject.
-- 'We would like to make a few adjustments to the menu.' Nagiyev highlights one classic detail in earnest: "skorrektirovat" means "to adjust, correct", and it carries the main weight of what Nagiyev is saying.
-- 'Alright then, go ahead.' Vika phrases the reply facing Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Yes, all of that is completely fine.' Nagiyev speaks up wryly with a nod, refusing to let the moment slip past.
-- 'All of that is fine. Ah.' Vika picks one clear piece for Nagiyev: "normalno" means "fine, OK", and it carries the main weight of what Vika is saying.
+- 'One second, this is very important.' Underscoring the one second at once, Vika uses "sekundochku" ("one little second", from "sekundochka") to make the point stick.
+- 'Why do you keep hanging up on my calls?' Jumping in candidly on the spot, Nagiyev puts the question word "pochemu" right at the start so Vika hears the focus immediately.
+- 'Because I do not want to talk.' Vika speaks calmly across the room, grounding the moment in plain reality.
+- 'That is why I am calling you back.' Nagiyev replies candidly right here and uses "perezvanivayu" ("to call back", from "perezvanivat") to make the point stick.
+- 'I have also decided not to depend on men anymore.' Emphasizing the man during the talk, Vika puts the weight on "muzhchin" ("man", from "muzhchina") as the exchange unfolds.
+- 'It is humiliating for a woman.' Nagiyev opens up evenly facing Vika, without trying to dress up how he really feels.
+- 'What was it you wanted to say?' Following up naturally before Nagiyev, Vika puts the question word "chto" right at the start so Nagiyev hears the focus immediately.
+- 'Let us talk later, I am a bit busy right now.' Holding firm earnestly in this beat, Nagiyev starts with "davay" ("come on, let's") to invite Vika right into the action.
+- 'Forgive me, let us get started.' Vika openly delivers this polite apology in front of Nagiyev using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'We would like to make a few adjustments to the menu.' Touching on the menu in the exchange, Nagiyev uses "skorrektirovat" ("to adjust, correct") to carry the main weight of the thought.
+- 'Alright then, go ahead.' Turning directly around Nagiyev, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Yes, all of that is completely fine.' Nagiyev speaks up wryly facing Vika, so Vika knows he is not just making small talk.
+- 'All of that is fine. Ah.' Vika speaks boldly in the exchange and lands on "normalno" ("fine, OK") as the key everyday word here.

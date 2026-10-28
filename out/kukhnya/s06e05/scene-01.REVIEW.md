@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will tell you the whole truth.' Eva underscores one sharp word in earnest: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.
-- 'I do not believe in these tricks.' Barinov replies wryly during the talk, before Nastya can change the subject.
-- 'I see that you are connected with food.' Eva continues earnestly before Barinov, letting the remark speak for itself.
-- 'Everything about me is written on the internet.' Barinov favors one clear touch with Nastya: "internete" means "internet" (from "internet"), giving the line its exact edge.
-- 'Just look into my eyes.' Eva centers this clear element toward Barinov: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
-- 'A big promotion awaits you today.' Eva counters quietly to be clear, grounding the moment in plain reality.
-- 'What kind of promotion awaits me?' Barinov colors one loaded word toward Eva: "povysheniye" means "raise" (from "povysheniy"), giving the line its exact edge.
-- 'Two people will ask to help a friend.' Eva speaks up plainly during the talk, bringing things back to earth after the buildup.
-- 'Mikhail Dzhekovich needs help right now.' Barinov proceeds evenly with a nod, so Eva knows he is not just making small talk.
-- 'Are you a normal person at all?' Nastya reaches for one clear choice in reply: "normalnyy" means "decent, normal", and it carries the main weight of what Nastya is saying.
-- 'Do you mind that this is our sink?' Nastya makes this answer with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I still need to stop by the store.' Nastya fires back decisively with Eva, steering the talk right where she wants it.
+- 'I will tell you the whole truth.' Pointing to the whole truth in front of Barinov, Eva chooses "pravdu" ("truth", from the root "pravda") so Barinov hears the exact meaning.
+- 'I do not believe in these tricks.' Touching on the tricks in the exchange, Barinov uses "shtuchki" ("tricks, little things", from "shtuchka") to make the point stick.
+- 'I see that you are connected with food.' Eva pushes back earnestly without holding back, letting the remark speak for itself.
+- 'Everything about me is written on the internet.' Talking about the internet in the exchange, Barinov leans on "internete" ("internet", a form of "internet") to give the remark its edge.
+- 'Just look into my eyes.' Eva proceeds openly across the room, before Barinov can change the subject.
+- 'A big promotion awaits you today.' Eva counters quietly without holding back, bringing things back to earth after the buildup.
+- 'What kind of promotion awaits me?' Barinov cuts in directly to Eva and brings in "povysheniye" ("raise", from "povysheniy") as the key Russian word here.
+- 'Two people will ask to help a friend.' Talking about a friend with Barinov, Eva uses "poprosyat" ("to ask, to request", from "poprosit") to make the point stick.
+- 'Mikhail Dzhekovich needs help right now.' Discussing the help without holding back, Barinov puts the real issue right on the table for Eva.
+- 'Are you a normal person at all?' Making clear how decent things are in this beat, Nastya uses "normalnyy" ("decent, normal") to carry the main weight of the thought.
+- 'Do you mind that this is our sink?' Focusing on her sink on the spot, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I still need to stop by the store.' Nastya fires back decisively during the talk, keeping the focus on what actually matters here.

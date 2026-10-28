@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, a fine of three thousand.' Vika speaks firmly during the talk, so Max knows she is not just making small talk.
-- 'Three thousand?' Max sharpens one key term in earnest: "tysyachi" means "thousands" (from "tysyacha"), giving the line its exact edge.
-- 'Right, go on and clean up.' Vika puts that remark right away: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Shall you and I go to a little cafe?' Max prompts firmly if there is more going on behind the scenes.
-- 'The fact that I hired you means nothing.' Vika anchors one clear expression on cue: "znachit" means "then, so", and it carries the main weight of what Vika is saying.
-- 'We have a business relationship.' Vika voices this point before Nastya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Understood?' Vika questions skeptically before Max can change the subject.
-- 'Understood. But shall we go after the shift?' Max leans on this key element right here: "ponyatno" means "clear", and it carries the main weight of what Max is saying.
-- 'A fine of five thousand.' Vika gives the remark on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I think it is kicking.' Nastya responds wryly in this moment, shifting the whole mood of the room in a single beat.
-- 'He is only eight centimeters tall right now.' Max favors one pointed expression with Nastya: "santimetrov" means "centimeters" (from "santimetr"), giving the line its exact edge.
-- 'How can he be kicking?' Max makes the reaction with warmth: the "-sya" ending on "pinatsya" ("to kick") turns the action inward or makes it happen between people naturally.
+- 'Lavrov, a fine of three thousand.' Vika steps in firmly on the spot, letting the remark speak for itself.
+- 'Three thousand?' Turning to the thousands before Vika, Max chooses "tysyachi" ("thousands", from the root "tysyacha") so Vika hears the exact meaning.
+- 'Right, go on and clean up.' Cutting in smoothly in front of Max, Vika starts with "davay" ("come on, let's") to invite Max right into the action.
+- 'Shall you and I go to a little cafe?' Max prompts firmly to see how Vika will answer on the spot.
+- 'The fact that I hired you means nothing.' Vika pushes back briskly in the exchange and brings in "znachit" ("then, so") to make the meaning unmistakable.
+- 'We have a business relationship.' Touching on the relations in this beat, Vika reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Understood?' Vika evenly drops this acknowledgment right on cue using "ponyatno" ("understood") — a single word meaning "clear, got it", showing the point has landed.
+- 'Understood. But shall we go after the shift?' Max naturally offers this acknowledgment toward Vika using "ponyatno" ("understood") — a single word meaning "clear, got it", showing the point has landed.
+- 'A fine of five thousand.' Bringing up the thousand during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I think it is kicking.' Nastya pushes back wryly without any doubt, to clear the air between them once and for all.
+- 'He is only eight centimeters tall right now.' Addressing the centimeters beside Nastya, Max brings in "santimetrov" ("centimeters", from "santimetr") as the key Russian word here.
+- 'How can he be kicking?' Holding firm briskly during the talk, the "-sya" ending on "pinatsya" ("to kick") marks an action that unfolds mutually or turns back on the speaker.

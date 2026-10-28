@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, did we settle things like men?' German puts that reply plainly here: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'I simply slipped.' Barinov reacts evenly without holding back, testing the inspector's reaction in the middle of the exchange.
-- 'Right, a fight in a public place!' The inspector centers one pointed word toward Barinov: "obshchestvennom" means "public, social" (from "obshchestvennyy"), giving the line its exact edge.
-- 'Oh come on, what fight?' Barinov brings the thought plainly here: putting the question word "chto" right at the front of the line lets the inspector hear the point of the question on the very first beat.
-- 'We are colleagues, we work at the restaurant.' Barinov jumps in wryly without holding back, steering the talk right where he wants it.
-- 'We have no time for the gym.' Barinov colors one pointed word on cue: "sportzal" means "gym", and it carries the main weight of what Barinov is saying.
-- 'So we box on our break.' Barinov chimes in steadily with a nod, grounding the moment in plain reality.
-- 'Yes, of course, we spar quite often.' German answers bluntly facing the inspector, steering the talk right where he wants it.
-- 'I am actually a Master of Sport in boxing.' German sharpens one key term in earnest: "voobshche" means "at all", and it carries the main weight of what German is saying.
-- 'And my buddy helps me.' German fires back dryly as things stand, grounding the moment in plain reality.
-- 'And what happened to the car?' The inspector tests curiously if there is more going on behind the scenes.
-- 'Nothing serious, I have it insured.' German emphasizes one classic detail at once: "zastrakhovana" means "is insured" (from "zastrakhovat"), giving the line its exact edge.
-- 'You need to hold sparring matches in the ring.' The inspector drops this line beside Barinov: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'All right then, all the best.' The inspector stands firm briskly as things stand, before German can change the subject.
+- 'Well, did we settle things like men?' Answering readily with Barinov, German puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'I simply slipped.' Barinov chimes in evenly in their talk, testing German's reaction in the middle of the exchange.
+- 'Right, a fight in a public place!' Highlighting a fight in the exchange, the inspector puts the weight on "obshchestvennom" ("public, social", from "obshchestvennyy") as the exchange unfolds.
+- 'Oh come on, what fight?' Weighing in boldly during the talk, Barinov puts the question word "chto" right at the start so the inspector hears the focus immediately.
+- 'We are colleagues, we work at the restaurant.' Barinov jumps in wryly without a pause, refusing to let the moment slip past.
+- 'We have no time for the gym.' Focusing on the gym in the exchange, Barinov reaches for the Russian word "sportzal" ("gym") right at the heart of the line.
+- 'So we box on our break.' Addressing his break on the spot, Barinov centers the thought on "pereryve" ("break, interval", from "pereryv") without wasting a word.
+- 'Yes, of course, we spar quite often.' German reacts bluntly without holding back, before Barinov can change the subject.
+- 'I am actually a Master of Sport in boxing.' Turning to the technician before Barinov, German reaches for the Russian word "voobshche" ("at all") right at the heart of the line.
+- 'And my buddy helps me.' Underscoring the friend with the inspector, German leans on "pomogayet" ("helps", a form of "pomogat") to give the remark its edge.
+- 'And what happened to the car?' The inspector tests curiously how German expects that to work in practice.
+- 'Nothing serious, I have it insured.' Highlighting the trifle in the exchange, German brings in "zastrakhovana" ("is insured", from "zastrakhovat") as the key Russian word here.
+- 'You need to hold sparring matches in the ring.' Pointing to the ring in this beat, the inspector leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'All right then, all the best.' The inspector naturally delivers this word of agreement while facing German using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".

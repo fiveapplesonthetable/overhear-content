@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya. Little Nastya.' Senya shares this update plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Good evening once again.' Senya reacts briskly in this moment, so Nastya knows he is not just making small talk.
-- 'Where is my daughter?' Nastya uses one pointed word for Senya: "doch" means "daughter", and it carries the main weight of what Nastya is saying.
-- 'We want to receive a lot of money for her.' Senya chimes in honestly without holding back, leaving no doubt about where he stands.
-- 'This very day.' Nastya chimes in pointedly beside Senya, watching Senya's face to see how the news lands.
-- 'How much is a lot?' Senya features one telling expression toward Nastya: "mnogo" means "a lot", and it carries the main weight of what Senya is saying.
-- 'How much do we need?' Nastya shapes that thought facing Senya: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'It is me.' Senya speaks candidly with a sigh, to clear the air between them once and for all.
-- 'And right now.' Nastya features this vivid element toward Senya: "seychas" means "now", and it carries the main weight of what Nastya is saying.
-- 'Your daughter is going to suffer.' Senya delivers that remark before Nastya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'My compliments to you.' Nastya fires back steadily as they talk, keeping the focus on what actually matters here.
-- 'Well, otherwise everything is going according to plan.' Senya underscores this telling term for Nastya: "planu" means "plan" (from "plan"), giving the line its exact edge.
-- 'You will collect the money from my dad.' Nastya sends that answer at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Nastya. Little Nastya.' Reacting boldly on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Good evening once again.' Senya warmly uses this evening greeting as they meet using "dobryy vecher" ("good evening") — the standard Russian evening hello, literally "good evening".
+- 'Where is my daughter?' Mentioning her daughter beside Senya, Nastya chooses "doch" ("daughter") so Senya gets the point right away.
+- 'We want to receive a lot of money for her.' Emphasizing the money right here, Senya chooses "poluchit" ("to get, to receive") so Nastya gets the point right away.
+- 'This very day.' Nastya pushes back pointedly with a smile, testing Senya's reaction in the middle of the exchange.
+- 'How much is a lot?' Senya opens up briskly at once and lands on "mnogo" ("a lot") as the key everyday word here.
+- 'How much do we need?' Holding firm naturally in this beat, Nastya leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'It is me.' Senya weighs in candidly with a smile, letting the remark speak for itself.
+- 'And right now.' Holding firm naturally right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Your daughter is going to suffer.' Leaning in dryly at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'My compliments to you.' Nastya proceeds steadily with Senya, so Senya knows she is not just making small talk.
+- 'Well, otherwise everything is going according to plan.' Focusing on the plan in this beat, Senya centers the thought on "planu" ("plan", from "plan") without wasting a word.
+- 'You will collect the money from my dad.' Bringing up the money around Senya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

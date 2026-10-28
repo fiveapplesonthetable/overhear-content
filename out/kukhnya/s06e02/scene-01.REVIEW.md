@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Go ahead, shoot.' Barinov grounds this vivid expression toward Elena: "strelyay" means "shoot" (from "strelyat"), giving the line its exact edge.
-- 'Maybe I really should quit this madhouse?' Barinov frames that remark without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'Otherwise I will die before my time.' Barinov jumps in sharply with a sigh, testing Elena's reaction in the middle of the exchange.
-- 'And I will not have a star.' Barinov grounds one pointed expression for Lyova: "zvezdy" means "stars" (from "zvezda"), giving the line its exact edge.
-- 'Vitya, I am a fish.' Lyova hands over that remark with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Decide for yourself.' Lyova counters wryly without holding back, saying out loud what both of them already know.
-- 'I agree to work for you.' Barinov colors one memorable piece with Elena: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.
-- 'It was an interesting movie, right?' Lyova offers that line calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
-- 'I do not know, I did not really look at the screen.' Lyova cuts in at once facing Barinov, refusing to let the moment slip past.
-- 'Well, shall I go?' Elena sharpens one concrete term in earnest: "poshla" means "am off" (from "poyti"), giving the line its exact edge.
-- 'Well yes, bye.' Lyova hands over that line toward Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Let's go for a walk tomorrow.' Lyova cuts in calmly without a pause, testing Elena's reaction in the middle of the exchange.
+- 'Go ahead, shoot.' Barinov opens up calmly before Lyova and puts the weight on "strelyay" ("shoot", from "strelyat") as the exchange unfolds.
+- 'Maybe I really should quit this madhouse?' Returning to the madhouse in front of Lyova, Barinov keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'Otherwise I will die before my time.' Barinov speaks up sharply watching Lyova, grounding the moment in plain reality.
+- 'And I will not have a star.' Discussing the stars in the exchange, Barinov chooses "zvezdy" ("stars", from the root "zvezda") so Lyova hears the exact meaning.
+- 'Vitya, I am a fish.' Touching on a fish during the talk, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Decide for yourself.' Lyova replies wryly beside Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'I agree to work for you.' Barinov reacts evenly at once and brings in "soglasen" ("agreed", from "soglasnyy") as the key Russian word here.
+- 'It was an interesting movie, right?' Mentioning an interesting movie right here, Lyova keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'I do not know, I did not really look at the screen.' Touching on the screen in their talk, Lyova brings the exchange with Elena back to practical reality.
+- 'Well, shall I go?' Elena responds earnestly during the talk and centers the thought on "poshla" ("am off", from "poyti") without wasting a word.
+- 'Well yes, bye.' Lyova evenly chooses this casual farewell while facing Elena using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'Let's go for a walk tomorrow.' Lyova answers calmly without any doubt, keeping the focus on what actually matters here.

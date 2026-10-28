@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One has to constantly visit different restaurants.' Elena leans on this direct term at once: "restorany" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'Besides, it is more of a hobby.' Elena aims the reaction frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Why on earth did you refuse?' Barinov presses straight out to see how Elena will answer on the spot.
-- 'Quit your job, I am serious.' Barinov spotlights this sharp piece toward Elena: "uvolnyaysya" means "quit, resign" (from "uvolnyatsya"), giving the line its exact edge.
-- 'You have always dreamed of writing books.' Barinov anchors one sharp element for Elena: "mechtala" means "dreamed" (from "mechtat"), giving the line its exact edge.
-- 'One chef in the family is quite enough.' Barinov opens up earnestly before Elena, testing Elena's reaction in the middle of the exchange.
-- 'Especially the best chef in Russia.' Barinov focuses on this key touch right here: "luchshego" means "best" (from "luchshiy"), giving the line its exact edge.
-- 'Now you have your own restaurant.' Elena colors one direct term on cue: "restoranom" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'Soon we will finally get a star.' Barinov stands firm warmly as they talk, so Elena knows he is not just making small talk.
-- 'Then we will rake in money with a shovel.' Barinov sharpens one classic touch at once: "lopatoy" means "with a shovel" (from "lopata"), giving the line its exact edge.
-- 'In the worst case we have our bank.' Barinov counters sharply toward Elena, saying out loud what both of them already know.
-- 'Do not touch this wedding money!' Elena follows up honestly toward Barinov, so Barinov knows she is not just making small talk.
+- 'One has to constantly visit different restaurants.' Discussing the restaurant right here, Elena puts the weight on "restorany" ("restaurant", from "restoran") as the exchange unfolds.
+- 'Besides, it is more of a hobby.' Returning to a hobby in this beat, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Why on earth did you refuse?' Barinov presses straight out if there is more going on behind the scenes.
+- 'Quit your job, I am serious.' Addressing the work beside Elena, Barinov brings in "uvolnyaysya" ("quit, resign", from "uvolnyatsya") as the key Russian word here.
+- 'You have always dreamed of writing books.' Addressing the books in their talk, Barinov brings the exchange with Elena back to practical reality.
+- 'One chef in the family is quite enough.' Barinov follows up earnestly without any doubt, keeping the focus on what actually matters here.
+- 'Especially the best chef in Russia.' Underscoring the cook on the spot, Barinov lands on "luchshego" ("best", built on "luchshiy") to keep the statement grounded.
+- 'Now you have your own restaurant.' Elena follows up promptly facing Barinov, keeping the focus on what actually matters here.
+- 'Soon we will finally get a star.' Barinov replies warmly during the talk, testing Elena's reaction in the middle of the exchange.
+- 'Then we will rake in money with a shovel.' Turning to a shovel beside Elena, Barinov lands on "lopatoy" ("with a shovel", built on "lopata") to keep the statement grounded.
+- 'In the worst case we have our bank.' Bringing up the worst case in the exchange, Barinov leans on "sluchaye" ("case, event", a form of "sluchay") to give the remark its edge.
+- 'Do not touch this wedding money!' Elena continues honestly with a shrug, keeping the focus on what actually matters here.

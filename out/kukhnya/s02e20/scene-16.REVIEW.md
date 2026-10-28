@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Get to work, lively now!' Barinov chooses one colorful element for Elena: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
-- 'Lena, wait, Lena.' Barinov shapes the thought right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I was talking about work.' Barinov fires back quietly with a smile, grounding the moment in plain reality.
-- 'That was not about the two of us.' Elena answers openly to be clear, testing Barinov's reaction in the middle of the exchange.
-- 'I only said that as an example.' Barinov opens up quietly with a shrug, letting the remark speak for itself.
-- 'To admit that I was wrong.' Elena jumps in promptly during the talk, leaving no doubt about where she stands.
-- 'And right now I really need your help.' Barinov spotlights this vivid touch for Elena: "pomoshch" means "help", and it carries the main weight of what Barinov is saying.
-- 'What happened to your famous male principles?' Elena aims the comeback facing Barinov: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'You never wanted to depend on women, remember?' Barinov challenges sharply how Elena expects that to work in practice.
-- 'Lena, I do not want to argue about our relationship right now.' Barinov leans on one telling element in reply: "otnosheniya" means "relations, relationship" (from "otnosheniye"), giving the line its exact edge.
-- 'I was not planning to argue about our relationship either.' Barinov replies firmly beside Elena, keeping the focus on what actually matters here.
-- 'It never would have crossed my mind.' Elena jumps in lightly in this moment, before Barinov can change the subject.
-- 'Who could have known?' Barinov picks this direct touch for Elena: "znal" means "knew" (from "znat"), giving the line its exact edge.
+- 'Get to work, lively now!' Discussing the job on the spot, Barinov uses "rabotu" ("job", from "rabota") to make the point stick.
+- 'Lena, wait, Lena.' Answering promptly right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I was talking about work.' Barinov counters quietly around Elena, so Elena knows he is not just making small talk.
+- 'That was not about the two of us.' Elena answers openly watching Barinov, bringing things back to earth after the buildup.
+- 'I only said that as an example.' Addressing an example on the spot, Barinov lands on "primera" ("example", built on "primer") to keep the statement grounded.
+- 'To admit that I was wrong.' Elena proceeds promptly hearing Barinov, so Barinov knows she is not just making small talk.
+- 'And right now I really need your help.' Talking about the help during the talk, Barinov centers the remark on "pomoshch" ("help") without any extra fuss.
+- 'What happened to your famous male principles?' Cutting in warmly at once, Elena puts the question word "kak" right at the start so Barinov hears the focus immediately.
+- 'You never wanted to depend on women, remember?' Barinov challenges sharply while looking straight at Elena here.
+- 'Lena, I do not want to argue about our relationship right now.' Discussing the relations in front of Elena, Barinov chooses "otnosheniya" ("relations, relationship", from the root "otnosheniye") so Elena hears the exact meaning.
+- 'I was not planning to argue about our relationship either.' Emphasizing the relations at once, Barinov leans on "otnosheniya" ("relations, relationship", a form of "otnosheniye") to give the remark its edge.
+- 'It never would have crossed my mind.' Elena speaks up lightly around Barinov, shifting the mood of the conversation in a single beat.
+- 'Who could have known?' Stepping in boldly before Elena, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

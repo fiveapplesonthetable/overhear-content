@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is true love, I will go call Mom!' Nastya chimes in honestly around Eva, shifting the whole mood of the room in a single beat.
-- 'Well, that is of course far from everything.' Kostya reacts evenly beside Nastya, bringing things back to earth after the buildup.
-- 'Kostya, what are you lost in thought about now?' Eva underscores one familiar term right here: "zadumalsya" means "become lost in thought" (from "zadumatsya"), giving the line its exact edge.
-- 'You know, I am thinking seriously here.' Kostya cuts in sharply before Nastya, shifting the whole mood of the room in a single beat.
-- 'I wonder who is actually stronger?' Kostya quizzes point-blank what Eva is actually getting at here.
-- 'A great white shark or an angry crocodile?' Kostya favors one telling detail in earnest: "bolshaya" means "large" (from "bolshoy"), giving the line its exact edge.
-- 'Maybe we should discuss this in bed instead?' Eva shares this answer frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Great idea, dibs on being the shark!' Kostya speaks decisively watching Nastya, so Nastya knows he is not just making small talk.
-- 'I could not possibly tell that story!' Kostya uses this vivid detail on cue: "rasskazat" means "to tell", and it carries the main weight of what Kostya is saying.
-- 'Especially right in front of my Nastya.' Kostya responds at once facing Nastya, bringing things back to earth after the buildup.
-- 'Mom is also very happy for us.' Nastya speaks steadily without holding back, shifting the whole mood of the room in a single beat.
-- 'I always tell only the truth.' Kostya features one classic piece in earnest: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.
+- 'This is true love, I will go call Mom!' Stressing how real things are right here, Nastya brings in "nastoyashchaya" ("real, genuine", from "nastoyashchiy") as the key Russian word here.
+- 'Well, that is of course far from everything.' Kostya responds evenly hearing Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'Kostya, what are you lost in thought about now?' Eva weighs in openly around Kostya and puts the weight on "zadumalsya" ("become lost in thought", from "zadumatsya") as the exchange unfolds.
+- 'You know, I am thinking seriously here.' Looking over calmly with Eva, Kostya leans on "seryozno" ("seriously"), which carries the whole predicate in Russian without needing "it is".
+- 'I wonder who is actually stronger?' Kostya quizzes point-blank if there is more going on behind the scenes.
+- 'A great white shark or an angry crocodile?' Discussing the shark at once, Kostya leans on "bolshaya" ("large", a form of "bolshoy") to give the remark its edge.
+- 'Maybe we should discuss this in bed instead?' Addressing the bed on the spot, Eva keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Great idea, dibs on being the shark!' Kostya speaks up decisively with a sigh, watching Eva's face to see how the news lands.
+- 'I could not possibly tell that story!' Kostya chimes in calmly right here and leans on "rasskazat" ("to tell") to give the whole sentence its punch.
+- 'Especially right in front of my Nastya.' Kostya chimes in evenly to Nastya and reaches for the Russian word "pryamo" ("right, just") right at the heart of the line.
+- 'Mom is also very happy for us.' Nastya speaks up steadily hearing Kostya, before Kostya can change the subject.
+- 'I always tell only the truth.' Turning to the truth in this beat, Kostya chooses "pravdu" ("truth", from the root "pravda") so Nastya hears the exact meaning.

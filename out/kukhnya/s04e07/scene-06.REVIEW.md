@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well how is it, Denis, did you accept all the groceries?' Senya prompts curiously about what Denis just brought up.
-- 'Listen, I made a huge mistake out there today.' Denis anchors this key word in earnest: "slushayte" means "listen" (from "slushat"), giving the line its exact edge.
-- 'I carried part of the groceries to our storeroom.' Denis replies calmly with a sigh, so Senya knows he is not just making small talk.
-- 'And when I returned, the dog had eaten all the pigeons!' Denis chimes in steadily watching Timur, shifting the whole mood of the room in a single beat.
-- 'Everyone knows that this dog is very voracious.' Senya reaches for one practical element in reply: "prozhorlivaya" means "voracious" (from "prozhorlivyy"), giving the line its exact edge.
-- 'Maybe you will call our Timur right now?' Denis brings this statement without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Timur purely through rising pitch at the end.
-- 'Let him quickly bring us more pigeons!' Denis steps in at once beside Senya, making his position completely clear.
-- 'Hello, Timur, we have run out of pigeons here.' Denis emphasizes one direct expression with Timur: "zakonchilis" means "are over, have ended" (from "zakonchitsya"), giving the line its exact edge.
-- 'What pigeons? I do not have any more!' Timur phrases that line calmly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'If you need them so badly, go catch some on the street!' Timur holds firm frankly with a smile, grounding the moment in plain reality.
-- 'Senya, please cover for me for one hour!' Denis highlights one concrete expression at once: "prikroy" means "please", and it carries the main weight of what Denis is saying.
-- 'Hello, Fedya, our client has gone out on the hunt!' Senya proceeds dryly to settle things, before Timur can change the subject.
+- 'Well how is it, Denis, did you accept all the groceries?' Senya prompts curiously where this conversation is heading next.
+- 'Listen, I made a huge mistake out there today.' Denis cuts in vividly with Senya and centers the thought on "slushayte" ("listen", from "slushat") without wasting a word.
+- 'I carried part of the groceries to our storeroom.' Pointing to the groceries at once, Denis lands on "produktov" ("of groceries", built on "produkt") to keep the statement grounded.
+- 'And when I returned, the dog had eaten all the pigeons!' Denis follows up steadily watching Senya, leaving no doubt about where he stands.
+- 'Everyone knows that this dog is very voracious.' Making clear how voracious things are before Denis, Senya puts the weight on "prozhorlivaya" ("voracious", from "prozhorlivyy") as the exchange unfolds.
+- 'Maybe you will call our Timur right now?' Looking over evenly to Timur, Denis keeps normal statement word order here, turning the line into a question for Timur purely through rising pitch.
+- 'Let him quickly bring us more pigeons!' Denis jumps in at once without holding back, shifting the mood of the conversation in a single beat.
+- 'Hello, Timur, we have run out of pigeons here.' Denis reacts calmly on the spot and brings in "zakonchilis" ("are over, have ended", from "zakonchitsya") as the key Russian word here.
+- 'What pigeons? I do not have any more!' Following up dryly in this beat, Timur puts the question word "kakiye" right at the start so Denis hears the focus immediately.
+- 'If you need them so badly, go catch some on the street!' Timur opens up frankly during the talk, testing Denis's reaction in the middle of the exchange.
+- 'Senya, please cover for me for one hour!' Bringing up the hour right here, Denis lands on "prikroy" ("please") as the key everyday word here.
+- 'Hello, Fedya, our client has gone out on the hunt!' Focusing on his client before Denis, Senya lands on "kliyent" ("client") as the key everyday word here.

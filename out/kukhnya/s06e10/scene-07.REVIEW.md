@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I invite the newlyweds to cut the first piece of cake.' Barinov spotlights one clear word for Elena: "predlagayu" means "suggest" (from "predlagat"), giving the line its exact edge.
-- 'Allow me on behalf of our entire restaurant to congratulate you.' Barinov centers this vivid element right here: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'Congratulations on your marriage and the right choice of venue!' Barinov steps in plainly during the talk, saying out loud what both of them already know.
-- 'Nice, I am in the hospital, and he is here eating cake!' Eleonora emphasizes this vivid term right here: "bolnitse" means "the hospital" (from "bolnitsa"), giving the line its exact edge.
-- 'Vitya, tell me, what on earth is going on here right now?' Elena drops that thought frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Elya, I beg you, stop this commotion immediately!' Barinov cuts in frankly across the room, shifting the whole mood of the room in a single beat.
-- 'Well then, do the newlyweds need some good advice?' Eleonora centers this vivid element on cue: "molodym" means "young" (from "molodoy"), giving the line its exact edge.
-- 'And my main advice to the bride will be very simple.' Eleonora stands firm earnestly without any doubt, making her position completely clear.
-- 'Never in your life trust sly men!' Eleonora holds firm boldly with a shrug, keeping the focus on what actually matters here.
-- 'Viktor, lead her out of our hall quickly.' Elena colors this vivid choice on cue: "skoreye" means "quickly, right away" (from "skoro"), giving the line its exact edge.
-- 'Dear guests, continue your celebration calmly.' Barinov features this direct word for Elena: "uvazhayemyye" means "respected, esteemed" (from "uvazhayemyy"), giving the line its exact edge.
-- 'Especially do not trust this sly chef with a mustache!' Eleonora cuts in earnestly with Elena, to clear the air between them once and for all.
+- 'I invite the newlyweds to cut the first piece of cake.' Talking about the first piece beside Eleonora, Barinov reaches for the Russian word "predlagayu" ("suggest", built from "predlagat") right at the center of the line.
+- 'Allow me on behalf of our entire restaurant to congratulate you.' Bringing up the restaurant toward Eleonora, Barinov speaks plainly so Eleonora gets the message at once.
+- 'Congratulations on your marriage and the right choice of venue!' Barinov jumps in plainly facing Eleonora, before Eleonora can change the subject.
+- 'Nice, I am in the hospital, and he is here eating cake!' Highlighting the hospital right here, Eleonora reaches for the Russian word "bolnitse" ("the hospital", built from "bolnitsa") right at the center of the line.
+- 'Vitya, tell me, what on earth is going on here right now?' Stepping in directly with Barinov, Elena drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Elya, I beg you, stop this commotion immediately!' Barinov answers frankly without holding back, making his position completely clear.
+- 'Well then, do the newlyweds need some good advice?' Underscoring the council before Barinov, Eleonora reaches for the Russian word "molodym" ("young", built from "molodoy") right at the center of the line.
+- 'And my main advice to the bride will be very simple.' Addressing the council at once, Eleonora uses "glavnyy" ("main, chief") to carry the main weight of the thought.
+- 'Never in your life trust sly men!' Eleonora responds boldly with Elena, steering the talk right where she wants it.
+- 'Viktor, lead her out of our hall quickly.' Pointing to her hall before Barinov, Elena lands on "skoreye" ("quickly, right away", built on "skoro") to keep the statement grounded.
+- 'Dear guests, continue your celebration calmly.' Barinov cuts in earnestly on the spot, bringing things back to earth after the buildup.
+- 'Especially do not trust this sly chef with a mustache!' Eleonora chimes in earnestly with a nod, leaving no doubt about where she stands.

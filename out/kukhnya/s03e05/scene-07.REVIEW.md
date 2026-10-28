@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you turn me down because of Nagiyev?' Max features one familiar expression right here: "otkazala" means "turned down" (from "otkazat"), giving the line its exact edge.
-- 'Even if that is so, what business is it of yours?' Vika shapes the thought before Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'It is none of my business anymore.' Max cuts in pointedly as things stand, to clear the air between them once and for all.
-- 'Kostya, please make a cocktail.' Max points to this vivid touch right here: "kokteyl" means "cocktail", and it carries the main weight of what Max is saying.
-- 'Vika, I have a proposal for you.' Nagiyev puts that line with ease: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Yes, I am listening to you attentively.' Vika proceeds firmly as things stand, testing Nagiyev's reaction in the middle of the exchange.
-- 'My friends invited me to Paris.' Nagiyev reaches for this direct detail on cue: "priglasili" means "invited" (from "priglasit"), giving the line its exact edge.
-- 'Come with me, Paris is the city of love.' Nagiyev continues dryly beside Vika, steering the talk right where he wants it.
-- 'Where is your positive answer?' Nagiyev quizzes bluntly whether Max really thought this through.
-- 'It seems to me I will be more useful here.' Vika sharpens one memorable term at once: "polezneye" means "useful, helpful" (from "poleznyy"), giving the line its exact edge.
-- 'Our summer terrace opens tomorrow.' Vika sends the comeback toward Max: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Excuse me, please.' Vika weighs in honestly without any doubt, letting the remark speak for itself.
+- 'Did you turn me down because of Nagiyev?' Max proceeds naturally with Nagiyev and leans on "otkazala" ("turned down", a form of "otkazat") to give the remark its edge.
+- 'Even if that is so, what business is it of yours?' Checking on the matter with Max, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'It is none of my business anymore.' Max continues pointedly with Vika, leaving no doubt about where he stands.
+- 'Kostya, please make a cocktail.' Max evenly extends this courtesy word as they meet using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Vika, I have a proposal for you.' Nagiyev counters briskly during the talk, keeping the focus on what actually matters here.
+- 'Yes, I am listening to you attentively.' Vika speaks up firmly with a nod, steering the talk right where she wants it.
+- 'My friends invited me to Paris.' Mentioning his friends right here, Nagiyev uses "priglasili" ("invited", from "priglasit") to make the point stick.
+- 'Come with me, Paris is the city of love.' Touching on the town at once, Nagiyev puts the weight on "poyekhali" ("here we go", from "poyekhat") as the exchange unfolds.
+- 'Where is your positive answer?' Nagiyev quizzes bluntly whether Vika really thought this through.
+- 'It seems to me I will be more useful here.' Vika weighs in warmly at once and reaches for the Russian word "polezneye" ("useful, helpful", built from "poleznyy") right at the center of the line.
+- 'Our summer terrace opens tomorrow.' Dwelling on the terrace in front of Nagiyev, Vika reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Excuse me, please.' Vika gently chooses this polite apology as they meet using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.

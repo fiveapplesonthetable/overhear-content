@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, Vika, our festive menu is already ready.' German speaks up sharply in this moment, grounding the moment in plain reality.
-- 'Here are sweet eclairs in the shape of long fingers.' German answers honestly in this moment, making his position completely clear.
-- 'The sharp fingernails are made of thin white almond.' German spotlights one direct choice with Vika: "mindalya" means "almond, almonds" (from "mindal"), giving the line its exact edge.
-- 'And here are black spiders made of Belgian chocolate.' German sends this line before Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'It looks very scary and appetizing at the same time!' Vika proceeds at once without a pause, saying out loud what both of them already know.
-- 'Next we have a hot soup made of seafood.' German stresses this key element in earnest: "moreproduktov" means "seafood" (from "moreprodukty"), giving the line its exact edge.
-- 'On top lies a scary octopus made of unleavened dough.' German cuts in decisively hearing Vika, saying out loud what both of them already know.
-- 'Our guests from the bank will definitely like this!' Vika weighs in promptly across the room, watching German's face to see how the news lands.
-- 'And what are these chicken legs made of?' Vika highlights this direct detail at once: "kurinyye" means "chicken" (from "kurinyy"), giving the line its exact edge.
-- 'Ordinary chicken legs are made of chicken legs.' German cuts in pointedly before Vika, without trying to dress up how he really feels.
-- 'Got it, that is simply lunch for our cooks!' Vika speaks briskly to settle things, refusing to let the moment slip past.
-- 'Quite right, the cooks also need to eat a good lunch!' German uses this direct touch toward Vika: "sovershenno" means "quite, completely", and it carries the main weight of what German is saying.
+- 'Look, Vika, our festive menu is already ready.' Noting how festive things are to Vika, German lands on "prazdnichnoye" ("festive", built on "prazdnichnyy") to keep the statement grounded.
+- 'Here are sweet eclairs in the shape of long fingers.' German cuts in honestly facing Vika, making his position completely clear.
+- 'The sharp fingernails are made of thin white almond.' Addressing the almond on the spot, German brings in "mindalya" ("almond, almonds", from "mindal") as the key Russian word here.
+- 'And here are black spiders made of Belgian chocolate.' Noting how black things are at once, German links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'It looks very scary and appetizing at the same time!' Vika speaks up at once across the room, keeping the focus on what actually matters here.
+- 'Next we have a hot soup made of seafood.' Mentioning the seafood with Vika, German uses "moreproduktov" ("seafood", from "moreprodukty") to make the point stick.
+- 'On top lies a scary octopus made of unleavened dough.' Touching on a scary octopus with Vika, German centers the remark on "strashnyy" ("terrible") without any extra fuss.
+- 'Our guests from the bank will definitely like this!' Vika jumps in promptly without holding back, testing German's reaction in the middle of the exchange.
+- 'And what are these chicken legs made of?' Describing how chicken things are before German, Vika reaches for the Russian word "kurinyye" ("chicken", built from "kurinyy") right at the center of the line.
+- 'Ordinary chicken legs are made of chicken legs.' Underscoring how ordinary things are on the spot, German brings in "obychnyye" ("ordinary", from "obychnyy") as the key Russian word here.
+- 'Got it, that is simply lunch for our cooks!' Vika counters briskly facing German, refusing to let the moment slip past.
+- 'Quite right, the cooks also need to eat a good lunch!' Touching on the cooks before Vika, German uses "sovershenno" ("quite, completely") to carry the main weight of the thought.

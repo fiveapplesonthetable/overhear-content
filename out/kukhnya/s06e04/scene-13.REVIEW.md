@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Be sure to write down the recipe for me later.' Gulya underscores one loaded term with Barinov: "obyazatelno" means "surely, without fail", and it carries the main weight of what Gulya is saying.
-- 'How wonderful that you showed up at our place.' Gulya delivers this update to Louis: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'I have been meaning to wash the windows for so long, I just never get around to it.' Gulya replies right away toward Barinov, making her position completely clear.
-- 'Will you wash the windows today?' Gulya favors one concrete word for Louis: "pomoyesh" means "will wash" (from "pomyt"), giving the line its exact edge.
-- 'Alright, I will wash them right now.' Gulya makes this update with ease: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Is the chef in his office?' Louis challenges frankly if there is more going on behind the scenes.
-- 'Yes, he is in his office.' Gulya directs the thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Viktor Petrovich, here is the inspector who came to my father's place!' Louis follows up bluntly as things stand, bringing things back to earth after the buildup.
-- 'Then who do we have sitting in the dining room?' Barinov presses sharply whether Gulya really thought this through.
-- 'First and foremost, he is our guest.' Barinov sharpens this key piece toward Louis: "prezhde" means "before", and it carries the main weight of what Barinov is saying.
-- 'In five minutes I will serve the dish to our guest.' Barinov fires back boldly to be clear, making his position completely clear.
-- 'But he is not the real inspector!' Louis counters at once facing Gulya, leaving no doubt about where he stands.
+- 'Be sure to write down the recipe for me later.' Emphasizing the recipe at once, Gulya leans on "obyazatelno" ("surely, without fail") to give the whole sentence its punch.
+- 'How wonderful that you showed up at our place.' Stepping in frankly with Louis, Gulya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'I have been meaning to wash the windows for so long, I just never get around to it.' Gulya weighs in right away during the talk, refusing to let the moment slip past.
+- 'Will you wash the windows today?' Talking about the window before Louis, Gulya puts the weight on "pomoyesh" ("will wash", from "pomyt") as the exchange unfolds.
+- 'Alright, I will wash them right now.' Holding firm boldly to Louis, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Is the chef in his office?' Louis challenges frankly what Barinov is actually getting at here.
+- 'Yes, he is in his office.' Pushing back evenly in front of Louis, Gulya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Viktor Petrovich, here is the inspector who came to my father's place!' Underscoring the inspector with Barinov, Louis lands on "inspektor" ("inspector") as the key everyday word here.
+- 'Then who do we have sitting in the dining room?' Barinov presses sharply about what Louis just brought up.
+- 'First and foremost, he is our guest.' Highlighting his guest on the spot, Barinov puts the emphasis on "prezhde" ("before") in the middle of the talk.
+- 'In five minutes I will serve the dish to our guest.' Addressing the dish before Louis, Barinov chooses "blyudo" ("dish") so Louis gets the point right away.
+- 'But he is not the real inspector!' Raising the real inspector with a shrug, Louis brings the exchange with Barinov back to practical reality.

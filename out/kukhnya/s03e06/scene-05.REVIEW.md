@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How sick and tired I am of you already!' Max features one memorable choice with Vika: "dostala" means "to take out" (from "dostat"), giving the line its exact edge.
-- 'What, excuse me?' Vika checks wryly as Max tries to explain the situation.
-- 'You again, what am I doing at your place?' Max emphasizes one direct touch on cue: "delayu" means "I make" (from "delat"), giving the line its exact edge.
-- 'That question torments me very much too.' Vika lays out that reply with warmth: the "-sya" ending on "vopros" ("question, matter") turns the action inward or makes it happen between people naturally.
-- 'What do you want, leave me alone, understand?' Max inquires frankly in front of Vika without any preamble.
-- 'Meet my friend Masha.' Max features one practical word toward Vika: "znakomsya" means "get acquainted" (from "znakomitsya"), giving the line its exact edge.
-- 'And you will not stop me from this.' Max sharpens this key expression right here: "pomeshayesh" means "will interfere" (from "pomeshat"), giving the line its exact edge.
-- 'Wait, and where are my jeans?' Max wonders point-blank in front of Vika without any preamble.
-- 'After all, you and I did not do anything yesterday.' Max spotlights one direct expression toward Vika: "vchera" means "yesterday", and it carries the main weight of what Max is saying.
-- 'Yesterday you spilled your whiskey all over the floor.' Vika uses one vivid word in earnest: "viski" means "whisky", and it carries the main weight of what Vika is saying.
-- 'I washed your jeans in the morning.' Vika counters calmly as things stand, letting the remark speak for itself.
-- 'So I came to your place yesterday?' Max underscores one key element on cue: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
+- 'How sick and tired I am of you already!' Max opens up evenly around Vika, keeping the focus on what actually matters here.
+- 'What, excuse me?' Vika quietly uses this personal apology without hesitation using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'You again, what am I doing at your place?' Max reacts openly on the spot and reaches for the Russian word "delayu" ("I make", built from "delat") right at the center of the line.
+- 'That question torments me very much too.' Addressing the question with Max, the "-sya" ending on "vopros" ("question, matter") marks an action that unfolds mutually or turns back on the speaker.
+- 'What do you want, leave me alone, understand?' Max inquires frankly to see how Vika will answer on the spot.
+- 'Meet my friend Masha.' Underscoring his friend during the talk, Max lands on "podruga" ("female friend") as the key everyday word here.
+- 'And you will not stop me from this.' Max weighs in briskly in this moment, so Vika knows he is not just making small talk.
+- 'Wait, and where are my jeans?' Max wonders point-blank how Vika expects that to work in practice.
+- 'After all, you and I did not do anything yesterday.' Max answers directly on the spot and reaches for the Russian word "vchera" ("yesterday") right at the heart of the line.
+- 'Yesterday you spilled your whiskey all over the floor.' Vika weighs in earnestly facing Max, to clear the air between them once and for all.
+- 'I washed your jeans in the morning.' Vika replies calmly without a pause, to clear the air between them once and for all.
+- 'So I came to your place yesterday?' Max pushes back decisively during the talk and chooses "prishyol" ("came, have come", from the root "priyti") so Vika hears the exact meaning.

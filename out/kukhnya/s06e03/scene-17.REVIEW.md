@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I can tolerate anything, anything!' The guest speaks up earnestly as things stand, before Kostya can change the subject.
-- 'But I will not eat a competitor's sausage!' The guest pushes back right away as they talk, refusing to let the moment slip past.
-- 'It is tasty sausage, I always buy it.' Kostya frames this direct piece in reply: "vkusnaya" means "tasty" (from "vkusnyy"), giving the line its exact edge.
-- 'Why, there is nothing but chemicals in there!' The guest makes this statement frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I will show you normal sausage right now.' The guest speaks up candidly with a smile, leaving no doubt about where he stands.
-- 'Here, look, pure meat!' The guest grounds one familiar touch in reply: "myaso" means "meat", and it carries the main weight of what the guest is saying.
-- 'They are tasty and cheap.' Kostya puts the reply on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I will fill the whole apartment with my sausage!' The guest chimes in candidly hearing Nastya, testing Nastya's reaction in the middle of the exchange.
-- 'I do not need your sausage or this apartment!' Kostya focuses on one key expression with the guest: "kvartiry" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Enough arguing!' Nastya puts this statement without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I can tolerate anything, anything!' The guest continues decisively in front of Kostya and reaches for the Russian word "sterpet" ("to endure, tolerate") right at the heart of the line.
+- 'But I will not eat a competitor's sausage!' The guest answers right away on the spot, bringing things back to earth after the buildup.
+- 'It is tasty sausage, I always buy it.' Stressing how tasty things are during the talk, Kostya reaches for the Russian word "vkusnaya" ("tasty", built from "vkusnyy") right at the center of the line.
+- 'Why, there is nothing but chemicals in there!' Returning to the chemicals beside Kostya, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I will show you normal sausage right now.' The guest replies candidly hearing Kostya, grounding the moment in plain reality.
+- 'Here, look, pure meat!' Discussing the meat on the spot, the guest uses "myaso" ("meat") to carry the main weight of the thought.
+- 'They are tasty and cheap.' Describing how tasty things are in front of the guest, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I will fill the whole apartment with my sausage!' The guest reacts candidly with a shrug, keeping the focus on what actually matters here.
+- 'I do not need your sausage or this apartment!' Highlighting the flat during the talk, Kostya leans on "kvartiry" ("flat", a form of "kvartira") to give the remark its edge.
+- 'Enough arguing!' Answering firmly around Kostya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
 - 'Is it really so hard to break your principles just once?' Nastya tests promptly where this conversation is heading next.
-- 'After all, everyone will be better off from this!' Nastya colors one memorable piece in earnest: "luchshe" means "better", and it carries the main weight of what Nastya is saying.
+- 'After all, everyone will be better off from this!' Nastya responds readily at once and centers the remark on "luchshe" ("better") without any extra fuss.

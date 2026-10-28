@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well look at that, wearing pants. These are for you.' Elena responds promptly with Barinov, before Barinov can change the subject.
-- 'No thank you. Come on, Lena, it was foolish, I agree.' Barinov underscores one colorful expression toward Elena: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.
-- 'At least I did not lie to you, I told the truth.' Barinov speaks frankly to settle things, so Elena knows he is not just making small talk.
-- 'See, I have already changed. You changed?' Barinov tests openly why things suddenly took this turn between them.
-- 'Right. You are the exact same narcissistic egoist you always were.' Elena highlights one concrete choice toward Barinov: "samovlyublyonnyy" means "narcissistic", and it carries the main weight of what Elena is saying.
-- 'Instead of simply apologizing for your stupidity.' Elena phrases this update without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'And that is all. I agree. It was stupid.' Barinov stands firm evenly as they talk, without trying to dress up how he really feels.
-- 'But it was a card debt. And paying it off is a matter of honor.' Barinov stresses this direct choice in earnest: "kartochnyy" means "honor", and it carries the main weight of what Barinov is saying.
-- 'Crowing without pants is not a debt, it is idiocy.' Elena responds boldly across the room, letting the remark speak for itself.
-- 'Yes, idiocy. But I promised to carry out any idiocy if I lost.' Barinov opens up at once around Elena, making his position completely clear.
-- 'Alright then. Will you take the flowers? No.' Barinov chooses one loaded term for Elena: "tsvety" means "the flowers" (from "tsvetok"), giving the line its exact edge.
-- 'Miss, these are for you from a man with a sense of self-respect.' Barinov puts that line in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Excuse me, she was bringing those flowers to me.' Elena pushes back plainly without holding back, saying out loud what both of them already know.
-- 'Give the flowers back.' Barinov sharpens one practical choice right here: "tsvety" means "the flowers" (from "tsvetok"), giving the line its exact edge.
+- 'Well look at that, wearing pants. These are for you.' Elena opens up promptly with a nod, leaving no doubt about where she stands.
+- 'No thank you. Come on, Lena, it was foolish, I agree.' Focusing on the thank with Elena, Barinov puts the weight on "soglasen" ("agreed", from "soglasnyy") as the exchange unfolds.
+- 'At least I did not lie to you, I told the truth.' Bringing up the case on the spot, Barinov centers the thought on "sluchaye" ("case, event", from "sluchay") without wasting a word.
+- 'See, I have already changed. You changed?' Barinov tests openly where this conversation is heading next.
+- 'Right. You are the exact same narcissistic egoist you always were.' Describing how narcissistic Barinov is right here, Elena leans on "samovlyublyonnyy" ("narcissistic") to give the whole sentence its punch.
+- 'Instead of simply apologizing for your stupidity.' Addressing the nonsense in front of Barinov, Elena uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'And that is all. I agree. It was stupid.' Barinov counters evenly during the talk, shifting the mood of the conversation in a single beat.
+- 'But it was a card debt. And paying it off is a matter of honor.' Emphasizing how honor things are during the talk, Barinov centers the remark on "kartochnyy" ("honor") without any extra fuss.
+- 'Crowing without pants is not a debt, it is idiocy.' Bringing up the idiocy beside Barinov, Elena brings in "idiotizm" ("idiocy") to make the meaning unmistakable.
+- 'Yes, idiocy. But I promised to carry out any idiocy if I lost.' Barinov opens up at once on the spot, bringing things back to earth after the buildup.
+- 'Alright then. Will you take the flowers? No.' Addressing the flowers in front of Elena, Barinov centers the thought on "tsvety" ("the flowers", from "tsvetok") without wasting a word.
+- 'Miss, these are for you from a man with a sense of self-respect.' Checking on the dignity on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Excuse me, she was bringing those flowers to me.' Elena lightly speaks this polite apology to Barinov using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Give the flowers back.' Underscoring the flowers right here, Barinov centers the thought on "tsvety" ("the flowers", from "tsvetok") without wasting a word.

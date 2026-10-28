@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, I am burning, burning, burning!' Senya steps in sharply across the room, keeping the focus on what actually matters here.
-- 'Guys, help me, help!' Senya picks one key piece right here: "rebyata" means "the boys, the lads", and it carries the main weight of what Senya is saying.
-- 'What is that hard thing you have there?' Lyova gives the thought to Senya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'That is none of your business at all.' Senya opens up lightly with a sigh, refusing to let the moment slip past.
-- 'Come on, stand right here quickly.' Lyova reaches for this clear term with Senya: "bystro" means "quickly", and it carries the main weight of what Lyova is saying.
-- 'What else is this that you have?' Lyova drops the thought at once: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Lyova, this is not mine at all.' Senya counters pointedly with a shrug, letting the remark speak for itself.
-- 'Really, this is not yours at all?' Lyova uses this key word on cue: "pravda" means "honestly", and it carries the main weight of what Lyova is saying.
-- 'No, of course, this is not mine.' Senya brings that point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well yes, of course, as if I believed that.' Lyova follows up briskly as things stand, bringing things back to earth after the buildup.
-- 'I will search you personally.' Lyova features one colorful detail in earnest: "personalno" means "personally", and it carries the main weight of what Lyova is saying.
-- 'At the end of every working day.' Lyova responds at once without any doubt, making his position completely clear.
+- 'Oh, I am burning, burning, burning!' Senya weighs in sharply across the room, so Lyova knows he is not just making small talk.
+- 'Guys, help me, help!' Emphasizing the boys right here, Senya reaches for the Russian word "rebyata" ("the boys, the lads") right at the heart of the line.
+- 'What is that hard thing you have there?' Insisting on how hard things are before Senya, Lyova uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'That is none of your business at all.' Senya follows up lightly in their talk, steering the talk right where he wants it.
+- 'Come on, stand right here quickly.' Lyova chimes in pointedly to Senya and centers the remark on "bystro" ("quickly") without any extra fuss.
+- 'What else is this that you have?' Stepping in smoothly right here, Lyova uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Lyova, this is not mine at all.' Senya fires back pointedly toward Lyova, without trying to dress up how he really feels.
+- 'Really, this is not yours at all?' Touching on the honestly around Senya, Lyova leans on "pravda" ("honestly") to give the whole sentence its punch.
+- 'No, of course, this is not mine.' Replying earnestly on the spot, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well yes, of course, as if I believed that.' Lyova responds briskly facing Senya, steering the talk right where he wants it.
+- 'I will search you personally.' Lyova continues promptly on the spot and brings in "personalno" ("personally") to make the meaning unmistakable.
+- 'At the end of every working day.' Bringing up the end in this beat, Lyova reaches for the Russian word "rabochego" ("work", built from "rabochiy") right at the center of the line.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I want to close the restaurant for a private event.' The guest stresses one pointed choice in earnest: "spetsobsluzhivaniye" means "private event service", and it carries the main weight of what the guest is saying.
-- 'I will be celebrating my birthday.' The guest cuts in promptly with a smile, to clear the air between them once and for all.
-- 'Of course, and when exactly?' Vika asks calmly to see how the guest will answer on the spot.
-- 'Well, tonight or tomorrow evening.' The guest underscores this key piece in earnest: "segodnya" means "today", and it carries the main weight of what the guest is saying.
-- 'Renting the restaurant is arranged in advance.' Vika gives this point calmly now: the "-sya" ending on "obgovarivayetsya" ("is arranged") turns the action inward or makes it happen between people naturally.
-- 'Vika, can I have a word with you?' Max prompts quietly before Vika can change the subject.
-- 'Wait, I am talking right now.' Vika grounds this direct word with the guest: "razgovarivayu" means "to talk, to speak" (from "razgovarivat"), giving the line its exact edge.
-- 'And why are you not at the maternity hospital?' Max makes that line at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'The morning contractions turned out to be false.' Vika counters sharply during the talk, making her position completely clear.
-- 'The doctors let me go home.' Vika reaches for this telling term with Max: "otpustili" means "let go" (from "otpustit"), giving the line its exact edge.
-- 'Could you not have called me?' Max shares the reaction with ease: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'Young man, wait until we finish.' The guest fires back openly as things stand, testing Vika's reaction in the middle of the exchange.
-- 'I will just talk to my wife!' Max points to this clear detail in earnest: "pogovoryu" means "I'll talk" (from "pogovorit"), giving the line its exact edge.
+- 'I want to close the restaurant for a private event.' Mentioning the service in the exchange, the guest chooses "spetsobsluzhivaniye" ("private event service") so Vika gets the point right away.
+- 'I will be celebrating my birthday.' Underscoring the birth beside Vika, the guest leans on "rozhdeniya" ("of birth", a form of "rozhdeniye") to give the remark its edge.
+- 'Of course, and when exactly?' Vika readily delivers this confirmation to the guest using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Well, tonight or tomorrow evening.' The guest responds firmly around Vika and leans on "segodnya" ("today") to give the whole sentence its punch.
+- 'Renting the restaurant is arranged in advance.' Bringing up the rental with the guest, the "-sya" ending on "obgovarivayetsya" ("is arranged") marks an action that unfolds mutually or turns back on the speaker.
+- 'Vika, can I have a word with you?' Max prompts quietly about what Vika just brought up.
+- 'Wait, I am talking right now.' Vika follows up dryly during the talk and leans on "razgovarivayu" ("to talk, to speak", a form of "razgovarivat") to give the remark its edge.
+- 'And why are you not at the maternity hospital?' Returning to the maternity hospital right here, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'The morning contractions turned out to be false.' Vika weighs in sharply around Max, so Max knows she is not just making small talk.
+- 'The doctors let me go home.' Touching on the doctors in the exchange, Vika puts the weight on "vrachi" ("doctors", from "vrach") as the exchange unfolds.
+- 'Could you not have called me?' Pressing on evenly in the exchange, Max leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'Young man, wait until we finish.' The guest speaks up openly on the spot, grounding the moment in plain reality.
+- 'I will just talk to my wife!' Emphasizing his wife to the guest, Max centers the thought on "pogovoryu" ("I'll talk", from "pogovorit") without wasting a word.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dad was not there, so I let Lyova know.' Katya leans on this clear term on cue: "predupredila" means "warned" (from "predupredit"), giving the line its exact edge.
-- 'Katya, listen, Katya, I cannot do this.' Denis counters pointedly without holding back, letting the remark speak for itself.
-- 'I have to tell you something very important.' Denis counters candidly toward Eleonora, refusing to let the moment slip past.
-- 'And can this important thing not wait an hour or so?' Katya spotlights one classic detail with Eleonora: "podozhdat" means "to wait", and it carries the main weight of what Katya is saying.
-- 'No, it cannot. Katya, I must tell you the truth.' Denis underscores one direct touch at once: "dolzhen" means "has to, must", and it carries the main weight of what Denis is saying.
-- 'Denis Andreyevich Krylov, you are found guilty of depriving Yekaterina of her mother.' Eleonora replies boldly without a pause, shifting the whole mood of the room in a single beat.
-- 'What do you mean? I did not kill you.' Denis favors one practical word for Eleonora: "smysle" means "sense" (from "smysl"), giving the line its exact edge.
-- 'Yes, but after your truth I am practically dead to her.' Eleonora steps in frankly in this moment, saying out loud what both of them already know.
-- 'Guilty of destroying a family.' Eleonora continues firmly watching Denis, so Denis knows she is not just making small talk.
-- 'The truth is that I' Denis focuses on one familiar word right here: "pravda" means "honestly", and it carries the main weight of what Denis is saying.
-- 'do not love you.' Denis makes this warning briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'We need to break up.' Denis follows up steadily watching Katya, testing Katya's reaction in the middle of the exchange.
-- 'That is not funny.' Katya stresses one memorable word toward Denis: "smeshno" means "ridiculous", and it carries the main weight of what Katya is saying.
-- 'The truth is not a funny thing at all.' Denis directs this update to Katya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Dad was not there, so I let Lyova know.' Addressing the dad to Denis, Katya lands on "predupredila" ("warned", built on "predupredit") to keep the statement grounded.
+- 'Katya, listen, Katya, I cannot do this.' Denis weighs in smoothly during the talk and chooses "poslushay" ("listen", from the root "poslushat") so Katya hears the exact meaning.
+- 'I have to tell you something very important.' Denis steps in candidly toward Katya, letting the remark speak for itself.
+- 'And can this important thing not wait an hour or so?' Addressing an hour in the exchange, Katya centers the thought on "chasiki" ("an hour or so", from "chasik") without wasting a word.
+- 'No, it cannot. Katya, I must tell you the truth.' Denis proceeds quietly watching Katya, shifting the mood of the conversation in a single beat.
+- 'Denis Andreyevich Krylov, you are found guilty of depriving Yekaterina of her mother.' Eleonora jumps in boldly toward Denis, keeping the focus on what actually matters here.
+- 'What do you mean? I did not kill you.' Discussing the sense during the talk, Denis leans on "smysle" ("sense", a form of "smysl") to give the remark its edge.
+- 'Yes, but after your truth I am practically dead to her.' Discussing the truth in this beat, Eleonora chooses "prakticheski" ("practically") so Denis gets the point right away.
+- 'Guilty of destroying a family.' Eleonora opens up firmly on the spot, watching Denis's face to see how the news lands.
+- 'The truth is that I' Underscoring the honestly around Eleonora, Denis leans on "pravda" ("honestly") to give the whole sentence its punch.
+- 'do not love you.' Pushing back plainly to Eleonora, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'We need to break up.' Denis answers steadily toward Katya, making his position completely clear.
+- 'That is not funny.' Katya opens up vividly at once and reaches for the Russian word "smeshno" ("ridiculous") right at the heart of the line.
+- 'The truth is not a funny thing at all.' Highlighting how funny things are during the talk, Denis drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.

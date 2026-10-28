@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, Dima, did you defeat our fearsome dragon?' Max presses straight out why things suddenly took this turn between them.
-- 'Yes, of course, he agreed with me right away.' Nagiyev spotlights one telling detail toward Rodion: "soglasilsya" means "agreed" (from "soglasitsya"), giving the line its exact edge.
-- 'Respected sir, here is money for you, only I beg you.' Nagiyev spotlights one clear piece with Max: "uvazhayemyy" means "respected, esteemed", and it carries the main weight of what Nagiyev is saying.
-- 'Please find yourself some other restaurant.' Nagiyev holds firm firmly with a smile, watching Rodion's face to see how the news lands.
-- 'With your permission I will refuse this money.' Rodion highlights one pointed expression in earnest: "pozvoleniya" means "permission" (from "pozvoleniye"), giving the line its exact edge.
-- 'Because nobody needs someone else's tears, not even a homeless man.' Rodion continues steadily during the talk, to clear the air between them once and for all.
-- 'Why did you refuse to take the money? There is an indecently large amount!' Nagiyev checks skeptically what Max is actually getting at here.
-- 'Then here is an indecently small amount, do not come for a couple of days.' Nagiyev centers this vivid touch in earnest: "neprilichno" means "indecently", and it carries the main weight of what Nagiyev is saying.
-- 'Max, let us drink to our honesty today!' Rodion aims the comment with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Or maybe it is better to drink to our love?' Max challenges eagerly about what Rodion just brought up.
-- 'Until we drink to honesty, we will have no love.' Max sharpens one loaded term toward Nagiyev: "chestnost" means "honesty", and it carries the main weight of what Max is saying.
-- 'I am checking the clock, in a minute I will die of sorrow!' Rodion weighs in decisively during the talk, leaving no doubt about where he stands.
+- 'Well, Dima, did you defeat our fearsome dragon?' Max presses straight out where this conversation is heading next.
+- 'Yes, of course, he agreed with me right away.' Nagiyev responds promptly to Max and chooses "soglasilsya" ("agreed", from the root "soglasitsya") so Max hears the exact meaning.
+- 'Respected sir, here is money for you, only I beg you.' Nagiyev pushes back frankly during the talk, before Max can change the subject.
+- 'Please find yourself some other restaurant.' Nagiyev reacts firmly with a shrug, to clear the air between them once and for all.
+- 'With your permission I will refuse this money.' Touching on the permission in this beat, Rodion chooses "pozvoleniya" ("permission", from the root "pozvoleniye") so Nagiyev hears the exact meaning.
+- 'Because nobody needs someone else's tears, not even a homeless man.' Highlighting the tear in front of Nagiyev, Rodion brings in "chuzhiye" ("someone else's", from "chuzhoy") as the key Russian word here.
+- 'Why did you refuse to take the money? There is an indecently large amount!' Nagiyev checks skeptically what Rodion is actually getting at here.
+- 'Then here is an indecently small amount, do not come for a couple of days.' Highlighting a couple before Rodion, Nagiyev lands on "neprilichno" ("indecently") as the key everyday word here.
+- 'Max, let us drink to our honesty today!' Focusing on his honesty around Max, Rodion starts with "davay" ("come on, let's") to invite Max right into the action.
+- 'Or maybe it is better to drink to our love?' Max challenges eagerly where this conversation is heading next.
+- 'Until we drink to honesty, we will have no love.' Underscoring the honesty to Rodion, Max reaches for the Russian word "chestnost" ("honesty") right at the heart of the line.
+- 'I am checking the clock, in a minute I will die of sorrow!' Touching on the sadness in this beat, Rodion reaches for the Russian word "pechali" ("from sadness", built from "pechal") right at the center of the line.

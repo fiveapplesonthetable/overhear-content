@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not worry, do not even worry, I will not charge you a ruble.' Barinov frames one key choice at once: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'Yes, that is very important.' Elena offers that answer right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Completely free of charge.' Nagiyev follows up lightly with a shrug, before Barinov can change the subject.
-- 'Elena Pavlovna.' Barinov puts this statement calmly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'What do you think?' Elena directs that thought at once: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'That sounds great.' Nagiyev replies firmly with Elena, without trying to dress up how he really feels.
-- 'That is what I am saying.' Barinov uses one practical element right here: "govoryu" means "am telling" (from "govorit"), giving the line its exact edge.
-- 'Give it a try.' Elena frames this line right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I will just go check on things in the kitchen first.' Nagiyev weighs in pointedly in this moment, keeping the focus on what actually matters here.
-- 'Excuse me, pardon me.' Barinov sharpens one clear detail with Nagiyev: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Viktor Petrovich.' Elena gives that remark at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Dmitry Vladimirovich asked me to pass this on.' Barinov replies firmly with a shrug, letting the remark speak for itself.
-- 'Out of the way!' Barinov uses this vivid choice with Elena: "dorogi" means "roads" (from "doroga"), giving the line its exact edge.
+- 'Do not worry, do not even worry, I will not charge you a ruble.' Touching on the money before Elena, Barinov uses "volnuytes" ("worry", from "volnovatsya") to make the point stick.
+- 'Yes, that is very important.' Stressing how important things are right here, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Completely free of charge.' Nagiyev responds lightly hearing Elena, before Elena can change the subject.
+- 'Elena Pavlovna.' Pushing back quietly around Elena, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'What do you think?' Answering candidly during the talk, Elena puts the question word "kak" right at the start so Nagiyev hears the focus immediately.
+- 'That sounds great.' Nagiyev speaks up firmly with a shrug, so Elena knows he is not just making small talk.
+- 'That is what I am saying.' Barinov weighs in naturally during the talk and chooses "govoryu" ("am telling", from the root "govorit") so Nagiyev hears the exact meaning.
+- 'Give it a try.' Reacting openly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I will just go check on things in the kitchen first.' Nagiyev jumps in pointedly with a nod, watching Elena's face to see how the news lands.
+- 'Excuse me, pardon me.' Barinov smoothly voices this polite apology at this moment using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Viktor Petrovich.' Holding firm warmly around Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Dmitry Vladimirovich asked me to pass this on.' Barinov speaks firmly facing Elena, letting the remark speak for itself.
+- 'Out of the way!' Bringing up the roads right here, Barinov reaches for the Russian word "dorogi" ("roads", built from "doroga") right at the center of the line.

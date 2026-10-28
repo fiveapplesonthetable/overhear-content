@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Allow me to offer you a wonderful wine with your lamb.' Kostya counters openly in this moment, so the guest knows he is not just making small talk.
-- 'Why are you offering me the most expensive wine?' The guest chooses one practical piece at once: "predlagayete" means "suggest" (from "predlagat"), giving the line its exact edge.
-- 'Because expensive wine is always the very best!' Kostya delivers this update plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Expensive wine does not mean the very best at all.' The guest opens up promptly with a nod, grounding the moment in plain reality.
-- 'This heavy wine will completely overpower the flavor of the dish!' The guest colors one sharp term toward Kostya: "tyazhyoloye" means "heavy, hard" (from "tyazhyolyy"), giving the line its exact edge.
-- 'Let tasty wine dominate on your table!' Kostya weighs in wryly with a smile, steering the talk right where he wants it.
-- 'I asked to call a sommelier, not a bartender!' The guest speaks sharply toward Kostya, before Kostya can change the subject.
-- 'Call the manager here, I want to have a serious talk!' The guest underscores one concrete expression on cue: "administratora" means "administrator" (from "administrator"), giving the line its exact edge.
-- 'Excuse me, choose any good wine on my tab!' Kostya voices this warning around the guest: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Kostya steps in.
-- 'Kostik, let's sign you up for sommelier courses!' Nastya weighs in candidly with a smile, before Kostya can change the subject.
-- 'That is too expensive, Nastya, I will read on the internet.' Kostya chooses one familiar element with the guest: "internete" means "internet" (from "internet"), giving the line its exact edge.
-- 'Good education is an investment in our future!' Nastya lays out this statement with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Allow me to offer you a wonderful wine with your lamb.' Kostya steps in openly without holding back, without trying to dress up how he really feels.
+- 'Why are you offering me the most expensive wine?' Discussing the wine during the talk, the guest uses "predlagayete" ("suggest", from "predlagat") to make the point stick.
+- 'Because expensive wine is always the very best!' Noting how expensive things are in this beat, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Expensive wine does not mean the very best at all.' The guest continues promptly in their talk, testing Kostya's reaction in the middle of the exchange.
+- 'This heavy wine will completely overpower the flavor of the dish!' Pointing to the wine at once, the guest lands on "tyazhyoloye" ("heavy, hard", built on "tyazhyolyy") to keep the statement grounded.
+- 'Let tasty wine dominate on your table!' Pointing to the dominate with the guest, Kostya lands on "dominiruyet" ("dominate") as the key everyday word here.
+- 'I asked to call a sommelier, not a bartender!' The guest weighs in sharply with Kostya, steering the talk right where he wants it.
+- 'Call the manager here, I want to have a serious talk!' Focusing on the administrator right here, the guest reaches for the Russian word "administratora" ("administrator", built from "administrator") right at the center of the line.
+- 'Excuse me, choose any good wine on my tab!' Touching on the wine in front of the guest, Kostya chooses "khorosheye" ("lovely, good", from the root "khoroshiy") so the guest hears the exact meaning.
+- 'Kostik, let's sign you up for sommelier courses!' Nastya fires back candidly hearing Kostya, grounding the moment in plain reality.
+- 'That is too expensive, Nastya, I will read on the internet.' Discussing the internet with Nastya, Kostya brings in "internete" ("internet", from "internet") as the key Russian word here.
+- 'Good education is an investment in our future!' Addressing her future beside Kostya, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.

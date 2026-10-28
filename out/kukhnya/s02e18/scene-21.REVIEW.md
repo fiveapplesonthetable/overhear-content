@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Any minute now our Oguzok is going to call you with complaints.' Max answers right away across the room, before Barinov can change the subject.
-- 'Consider him already on his way.' Barinov stresses this direct term for Max: "schitayte" means "to consider" (from "schitat"), giving the line its exact edge.
-- 'Chef, where are you going?' Lyova brings this update briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'There will be at most one and a half people.' Max cuts in at once during the talk, bringing things back to earth after the buildup.
-- 'There is just one thing I cannot figure out.' Barinov focuses on one classic touch toward Lyova: "ponyat" means "to understand", and it carries the main weight of what Barinov is saying.
-- 'Why, was the test really that difficult?' Lyova delivers that reply at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Now my mind is at ease about you.' Max opens up calmly without a pause, before Barinov can change the subject.
-- 'Only I do not want it that way.' Barinov chooses one classic word toward Max: "khochu" means "want" (from "khotet"), giving the line its exact edge.
-- 'Later on, when Lyova becomes head chef himself.' Max cuts in briskly around Barinov, before Barinov can change the subject.
-- 'You passed the second test as well.' Max proceeds wryly with a shrug, shifting the whole mood of the room in a single beat.
-- 'Tonight you are coming with us to the bathhouse.' Barinov colors one classic term in earnest: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
-- 'Of course, after Lyova moves up.' Max weighs in evenly in their talk, to clear the air between them once and for all.
-- 'I could not bring myself to fulfill your request.' Max answers right away without a pause, to clear the air between them once and for all.
+- 'Any minute now our Oguzok is going to call you with complaints.' Max answers right away across the room, grounding the moment in plain reality.
+- 'Consider him already on his way.' Touching on the travels during the talk, Barinov leans on "schitayte" ("to consider", a form of "schitat") to give the remark its edge.
+- 'Chef, where are you going?' Stepping in candidly before Barinov, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'There will be at most one and a half people.' Max follows up at once with a shrug, watching Lyova's face to see how the news lands.
+- 'There is just one thing I cannot figure out.' Barinov answers boldly in the exchange and brings in "ponyat" ("to understand") to make the meaning unmistakable.
+- 'Why, was the test really that difficult?' Talking about the test on the spot, Lyova keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Now my mind is at ease about you.' Max opens up calmly facing Lyova, making his position completely clear.
+- 'Only I do not want it that way.' Barinov chimes in steadily without any doubt, without trying to dress up how he really feels.
+- 'Later on, when Lyova becomes head chef himself.' Max chimes in smoothly around Barinov and uses "stanet" ("will become", from "stat") to make the point stick.
+- 'You passed the second test as well.' Max speaks wryly beside Barinov, without trying to dress up how he really feels.
+- 'Tonight you are coming with us to the bathhouse.' Focusing on the bathhouse beside Max, Barinov uses "segodnya" ("today") to carry the main weight of the thought.
+- 'Of course, after Lyova moves up.' Max counters sharply in front of Lyova and chooses "konechno" ("of course") so Lyova gets the point right away.
+- 'I could not bring myself to fulfill your request.' Max answers right away across the room, bringing things back to earth after the buildup.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, you only peeled two sacks.' German anchors this clear piece with Denis: "pochistili" means "to carrots" (from "pochistit"), giving the line its exact edge.
-- 'Well yes, just as you said.' Denis continues at once beside Max, letting the remark speak for itself.
-- 'You probably did not listen to the end.' German anchors one telling term toward Denis: "doslushali" means "to end" (from "doslushat"), giving the line its exact edge.
-- 'After all, I said not two, but twenty.' German follows up boldly on the spot, refusing to let the moment slip past.
-- 'You probably missed the zero.' German answers earnestly on the spot, making his position completely clear.
-- 'What, twenty more sacks?' Denis stresses one sharp touch for Max: "meshkov" means "sack, bag" (from "meshok"), giving the line its exact edge.
-- 'No, of course not twenty. Eighteen.' German weighs in briskly watching Denis, shifting the whole mood of the room in a single beat.
-- 'After all, you already peeled two.' German reacts openly with a sigh, grounding the moment in plain reality.
-- 'Alright. I am giving you one more day.' German stresses one clear piece with Denis: "yeshchyo" means "more, still", and it carries the main weight of what German is saying.
-- 'It is foolish to peel twenty sacks of potatoes. What for?' Max delivers that line with warmth: putting the question word "zachem" right at the front of the line lets German hear the point of the question on the very first beat.
-- 'It is foolish to stand up for a person.' German weighs in evenly without holding back, refusing to let the moment slip past.
-- 'who makes a flute out of a carrot.' German frames one key piece on cue: "morkovki" means "carrot" (from "morkovka"), giving the line its exact edge.
+- 'Wait, you only peeled two sacks.' German answers openly in their talk, letting the remark speak for itself.
+- 'Well yes, just as you said.' Denis continues at once around German, watching German's face to see how the news lands.
+- 'You probably did not listen to the end.' German continues warmly at once and uses "doslushali" ("to end", from "doslushat") to make the point stick.
+- 'After all, I said not two, but twenty.' German cuts in boldly with a smile, so Denis knows he is not just making small talk.
+- 'You probably missed the zero.' German pushes back earnestly during the talk, keeping the focus on what actually matters here.
+- 'What, twenty more sacks?' Touching on the sack to German, Denis brings in "meshkov" ("sack, bag", from "meshok") as the key Russian word here.
+- 'No, of course not twenty. Eighteen.' German responds openly on the spot and centers the remark on "konechno" ("of course") without any extra fuss.
+- 'After all, you already peeled two.' German pushes back openly with a sigh, grounding the moment in plain reality.
+- 'Alright. I am giving you one more day.' German evenly speaks this word of agreement in one quick breath using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'It is foolish to peel twenty sacks of potatoes. What for?' Talking about the potatoes on the spot, Max puts the question word "zachem" right at the start so German hears the focus immediately.
+- 'It is foolish to stand up for a person.' German weighs in evenly watching Max, steering the talk right where he wants it.
+- 'who makes a flute out of a carrot.' Touching on a carrot before Max, German leans on "morkovki" ("carrot", a form of "morkovka") to give the remark its edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, hi, how are you doing?' Sasha spotlights one pointed touch at once: "dela" means "things, affairs" (from "delo"), giving the line its exact edge.
-- 'And I decided to celebrate my wedding here.' Sasha stands firm calmly toward Vika, letting the remark speak for itself.
-- 'That is great, isn't it?' Sasha checks frankly whether Vika really thought this through.
-- 'You want to celebrate your wedding here?' Vika grounds one memorable term with Sasha: "prazdnovat" means "to celebrate", and it carries the main weight of what Vika is saying.
-- 'Well yes, Misha and I are getting married.' Sasha lays out the comeback right away: the "-sya" ending on "zhenimsya" ("to marry") turns the action inward or makes it happen between people naturally.
-- 'We want to celebrate in a close circle.' Sasha weighs in firmly as things stand, leaving no doubt about where she stands.
-- 'A banquet for approximately thirty people.' Sasha leans on this direct term toward Vika: "banket" means "banquet", and it carries the main weight of what Sasha is saying.
-- 'Check, please, is Thursday free at your place?' Sasha puts the reply in earnest: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'I will look in our logbook right now.' Vika speaks up firmly to settle things, to clear the air between them once and for all.
-- 'Unfortunately, everything is booked this week.' Vika emphasizes one clear touch on cue: "sozhaleniyu" means "regret" (from "sozhaleniye"), giving the line its exact edge.
-- 'So excuse me, please.' Vika shapes this answer briskly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'We cannot help you with anything.' Vika weighs in decisively to be clear, to clear the air between them once and for all.
+- 'Vika, hi, how are you doing?' Sasha replies firmly in this beat and brings in "dela" ("things, affairs", from "delo") as the key Russian word here.
+- 'And I decided to celebrate my wedding here.' Talking about her wedding to Vika, Sasha leans on "otprazdnovat" ("to wedding") to give the whole sentence its punch.
+- 'That is great, isn't it?' Sasha checks frankly where this conversation is heading next.
+- 'You want to celebrate your wedding here?' Talking about the wedding at once, Vika brings in "prazdnovat" ("to celebrate") to make the meaning unmistakable.
+- 'Well yes, Misha and I are getting married.' Emphasizing the married in front of Vika, Sasha puts the weight on "mishey" ("married", from "mishya") as the exchange unfolds.
+- 'We want to celebrate in a close circle.' Sasha speaks firmly without a pause, before Vika can change the subject.
+- 'A banquet for approximately thirty people.' Addressing a banquet right here, Sasha uses "banket" ("banquet") to carry the main weight of the thought.
+- 'Check, please, is Thursday free at your place?' Discussing the place around Vika, Sasha keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'I will look in our logbook right now.' Vika steps in firmly without a pause, grounding the moment in plain reality.
+- 'Unfortunately, everything is booked this week.' Turning to the regret beside Sasha, Vika puts the weight on "sozhaleniyu" ("regret", from "sozhaleniye") as the exchange unfolds.
+- 'So excuse me, please.' Vika chimes in promptly before Sasha and lands on "izvinite" ("sorry, excuse me", built on "izvinit") to keep the statement grounded.
+- 'We cannot help you with anything.' Vika jumps in decisively on the spot, leaving no doubt about where she stands.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you put on the head chef's uniform?' Nagiyev picks one practical touch right here: "shef-povara" means "head chef" (from "shef-povar"), giving the line its exact edge.
-- 'Go to the kitchen quickly right now!' Nagiyev cuts in openly toward Katya, saying out loud what both of them already know.
-- 'So that I do not see you in here!' Nagiyev proceeds pointedly with a nod, without trying to dress up how he really feels.
-- 'Otherwise you will be begging for alms at the station.' Nagiyev emphasizes one telling element in reply: "milostynyu" means "station" (from "milostynya"), giving the line its exact edge.
-- 'Dmitry Vladimirovich, may we take a photo with you?' Katya delivers the reply briskly now: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Of course, my dear, let's make it quick.' Nagiyev speaks up right away facing Katya, keeping the focus on what actually matters here.
-- 'We wanted a photo together with your head chef.' Katya chooses this clear piece at once: "shef-povarom" means "head chef" (from "shef-povar"), giving the line its exact edge.
-- 'When a real head chef appears, then we will take a photo.' Nagiyev states that answer on cue: the "-sya" ending on "sfotografiruyemsya" ("to take a photo together") turns the action inward or makes it happen between people naturally.
-- 'Why are ordinary cooks walking around the dining room?' Nagiyev tests straight out if there is more going on behind the scenes.
-- 'And in someone else's uniform, no less!' Nagiyev centers this telling touch in reply: "chuzhoy" means "someone else's", and it carries the main weight of what Nagiyev is saying.
-- 'Katya, I am truly very sorry.' Denis drops the reply with candor: the single Russian word "zhal" ("it is a pity") sets up the whole statement without needing a separate word for "it is".
-- 'He is as much a husband as he is a head chef.' Katya steps in warmly with a sigh, shifting the whole mood of the room in a single beat.
+- 'Why did you put on the head chef's uniform?' Pointing to the head during the talk, Nagiyev chooses "shef-povara" ("head chef", from the root "shef-povar") so Katya hears the exact meaning.
+- 'Go to the kitchen quickly right now!' Discussing the kitchen right here, Nagiyev leans on "kukhnyu" ("kitchen", a form of "kukhnya") to give the remark its edge.
+- 'So that I do not see you in here!' Nagiyev fires back pointedly toward Katya, making his position completely clear.
+- 'Otherwise you will be begging for alms at the station.' Turning to the station to Katya, Nagiyev lands on "milostynyu" ("station", built on "milostynya") to keep the statement grounded.
+- 'Dmitry Vladimirovich, may we take a photo with you?' Leaning in readily in front of Nagiyev, Katya leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Of course, my dear, let's make it quick.' Nagiyev openly chooses this confirmation to Katya using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'We wanted a photo together with your head chef.' Addressing the head at once, Katya centers the thought on "shef-povarom" ("head chef", from "shef-povar") without wasting a word.
+- 'When a real head chef appears, then we will take a photo.' Dwelling on a real head in this beat, the "-sya" ending on "sfotografiruyemsya" ("to take a photo together") marks an action that unfolds mutually or turns back on the speaker.
+- 'Why are ordinary cooks walking around the dining room?' Nagiyev tests straight out to see how Denis will answer on the spot.
+- 'And in someone else's uniform, no less!' Turning to the uniform beside Denis, Nagiyev chooses "chuzhoy" ("someone else's") so Denis gets the point right away.
+- 'Katya, I am truly very sorry.' Pointing to the honestly in the exchange, Denis leans on "zhal" ("it is a pity"), which carries the whole predicate in Russian without needing "it is".
+- 'He is as much a husband as he is a head chef.' Katya speaks warmly with a smile, making her position completely clear.

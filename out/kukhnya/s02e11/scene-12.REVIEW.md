@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, just relax.' Max continues boldly beside Kostya, leaving no doubt about where he stands.
-- 'At least they made up.' Kostya colors this clear expression on cue: "pomirilis" means "reconciled" (from "pomiritsya"), giving the line its exact edge.
-- 'Kostik gave that mug to me.' Nastya frames that remark on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I will buy you a new one.' Max stands firm decisively with Nastya, testing Nastya's reaction in the middle of the exchange.
-- 'That smells so delicious.' Kostya chooses one practical term with Max: "vkusnenko" means "deliciously" (from "vkusno"), giving the line its exact edge.
-- 'She did that on purpose.' Nastya shares that reply beside Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'You saw it yourself.' Max fires back firmly with a shrug, watching Kostya's face to see how the news lands.
-- 'Why did you put it right next to the edge?' Kostya features one loaded choice toward Nastya: "postavila" means "parked" (from "postavit"), giving the line its exact edge.
-- 'What about me?' Nastya shapes that line before Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Let us sit down and eat.' Max replies bluntly without holding back, watching Nastya's face to see how the news lands.
-- 'I did not even use it.' Kostya favors this vivid piece at once: "polzovalas" means "to use" (from "polzovatsya"), giving the line its exact edge.
-- 'I do not want anything of yours at all.' Nastya delivers this warning around Max: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'That is my pot.' Max fires back steadily with a smile, so Kostya knows he is not just making small talk.
+- 'Kostyan, just relax.' Max cuts in boldly on the spot, refusing to let the moment slip past.
+- 'At least they made up.' Kostya opens up directly to Max and reaches for the Russian word "pomirilis" ("reconciled", built from "pomiritsya") right at the center of the line.
+- 'Kostik gave that mug to me.' Cutting in naturally in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I will buy you a new one.' Max replies decisively across the room, grounding the moment in plain reality.
+- 'That smells so delicious.' Kostya continues openly during the talk and leans on "vkusnenko" ("deliciously", a form of "vkusno") to give the remark its edge.
+- 'She did that on purpose.' Turning evenly before Kostya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'You saw it yourself.' Max weighs in firmly around Nastya, steering the talk right where he wants it.
+- 'Why did you put it right next to the edge?' Kostya chimes in earnestly in front of Nastya and reaches for the Russian word "postavila" ("parked", built from "postavit") right at the center of the line.
+- 'What about me?' Holding firm readily in front of Max, Nastya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Let us sit down and eat.' Max speaks up bluntly without a pause, keeping the focus on what actually matters here.
+- 'I did not even use it.' Kostya jumps in warmly right here and lands on "polzovalas" ("to use", built on "polzovatsya") to keep the statement grounded.
+- 'I do not want anything of yours at all.' Stepping in quietly beside Kostya, Nastya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'That is my pot.' Max jumps in steadily facing Nastya, grounding the moment in plain reality.

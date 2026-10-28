@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, did something happen to you? You look pale.' Max directs this answer without fuss: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Eleonora said that we need to make an edible menu.' Vika opens up frankly watching Max, watching Max's face to see how the news lands.
-- 'And I have no idea at all how to make it.' Vika highlights one vivid choice toward Max: "voobshche" means "at all", and it carries the main weight of what Vika is saying.
-- 'If you want, let me make it? I have seen one before.' Max shares that line plainly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Thank you, Lavrov, but I will figure everything out myself.' Vika pushes back pointedly with Max, saying out loud what both of them already know.
-- 'Vika, stop showing your proud temper already!' Max leans on this telling touch on cue: "kharakter" means "character, temper", and it carries the main weight of what Max is saying.
-- 'I told you clearly that I will make it myself!' Max spotlights this vivid touch in earnest: "sdelayu" means "I'll do" (from "sdelat"), giving the line its exact edge.
-- 'Fine! Then this evening the edible menu must be ready!' Vika pushes back quietly on the spot, watching Max's face to see how the news lands.
-- 'That is great, you are always welcome, Victoria Sergeyevna!' Max grounds one pointed choice for Vika: "otlichno" means "perfect, great", and it carries the main weight of what Max is saying.
-- 'And while you are at it, clean this whole kitchen spotless!' Vika reacts boldly across the room, saying out loud what both of them already know.
-- 'Alright, only I did not sign up to clean the kitchen!' Max opens up firmly on the spot, to clear the air between them once and for all.
-- 'I just wanted to test if that would work too.' Vika points to one loaded detail on cue: "poluchilos" means "worked out" (from "poluchitsya"), giving the line its exact edge.
+- 'Vika, did something happen to you? You look pale.' Reacting briskly in the exchange, Max uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Eleonora said that we need to make an edible menu.' Vika pushes back frankly with Max, shifting the mood of the conversation in a single beat.
+- 'And I have no idea at all how to make it.' Vika opens up warmly with Max and reaches for the Russian word "voobshche" ("at all") right at the heart of the line.
+- 'If you want, let me make it? I have seen one before.' Reacting warmly around Vika, Max starts with "davay" ("come on, let's") to invite Vika right into the action.
+- 'Thank you, Lavrov, but I will figure everything out myself.' Vika chimes in pointedly facing Max, shifting the mood of the conversation in a single beat.
+- 'Vika, stop showing your proud temper already!' Talking about the character in the exchange, Max centers the remark on "kharakter" ("character, temper") without any extra fuss.
+- 'I told you clearly that I will make it myself!' Max pushes back steadily without any doubt, grounding the moment in plain reality.
+- 'Fine! Then this evening the edible menu must be ready!' Vika reacts quietly with a nod, without trying to dress up how she really feels.
+- 'That is great, you are always welcome, Victoria Sergeyevna!' Max speaks earnestly in the exchange and uses "otlichno" ("perfect, great") to carry the main weight of the thought.
+- 'And while you are at it, clean this whole kitchen spotless!' Underscoring the kitchen in the exchange, Vika centers the thought on "kukhnyu" ("kitchen", from "kukhnya") without wasting a word.
+- 'Alright, only I did not sign up to clean the kitchen!' Raising the kitchen without any doubt, Max puts the real issue right on the table for Vika.
+- 'I just wanted to test if that would work too.' Vika responds calmly at once and puts the weight on "poluchilos" ("worked out", from "poluchitsya") as the exchange unfolds.

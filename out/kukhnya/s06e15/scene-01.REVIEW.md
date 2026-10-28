@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good night to you and sweet dreams.' Denis leans on this key expression in earnest: "spokoynoy" means "good" (from "spokoynyy"), giving the line its exact edge.
-- 'Right now everything looks very bad.' Katya opens up pointedly beside Sveta, steering the talk right where she wants it.
-- 'Therefore we must tell everything honestly.' Katya follows up frankly as they talk, watching Denis's face to see how the news lands.
-- 'You will tell Sveta, and I will tell Nikita.' Katya spotlights this vivid piece in reply: "skazhesh" means "will you say" (from "skazat"), giving the line its exact edge.
-- 'It is time for us to finally stop hiding like this.' Katya voices that answer right away: the single Russian word "pora" ("it is time to") sets up the whole statement without needing a separate word for "it is".
-- 'I am all for such a good decision.' Denis pushes back plainly before Sveta, saying out loud what both of them already know.
-- 'Denis, hurry, we are running late for the cinema!' Sveta favors one concrete touch toward Denis: "opazdyvayem" means "are late" (from "opazdyvat"), giving the line its exact edge.
-- 'Katya, are you completely ready already?' Sveta puts this update briskly now: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Are you not coming with us?' Sveta quizzes earnestly while looking straight at Denis here.
-- 'Well, in principle, we can go.' Katya chooses one colorful detail on cue: "printsipe" means "principle" (from "printsip"), giving the line its exact edge.
-- 'Let us go, we will wait for you outside.' Sveta focuses on this direct element at once: "podozhdyom" means "let's wait" (from "podozhdat"), giving the line its exact edge.
-- 'Alright, then we will tell everything tomorrow.' Denis holds firm briskly with a nod, bringing things back to earth after the buildup.
-- 'Of course, since today we are going to the cinema.' Katya leans on one pointed piece at once: "konechno" means "of course", and it carries the main weight of what Katya is saying.
+- 'Good night to you and sweet dreams.' Addressing the night on the spot, Denis chooses "spokoynoy" ("good", from the root "spokoynyy") so Katya hears the exact meaning.
+- 'Right now everything looks very bad.' Katya speaks up pointedly before Denis and chooses "nekrasivo" ("impolite, not nice") so Denis gets the point right away.
+- 'Therefore we must tell everything honestly.' Katya reacts frankly in this moment, making her position completely clear.
+- 'You will tell Sveta, and I will tell Nikita.' Katya jumps in pointedly during the talk and lands on "skazhesh" ("will you say", built on "skazat") to keep the statement grounded.
+- 'It is time for us to finally stop hiding like this.' Turning quietly right here, Katya leans on "pora" ("it is time to"), which carries the whole predicate in Russian without needing "it is".
+- 'I am all for such a good decision.' Denis follows up plainly with a sigh, testing Katya's reaction in the middle of the exchange.
+- 'Denis, hurry, we are running late for the cinema!' Talking about the cinema before Denis, Sveta reaches for the Russian word "opazdyvayem" ("are late", built from "opazdyvat") right at the center of the line.
+- 'Katya, are you completely ready already?' Emphasizing how ready things are during the talk, Sveta adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Are you not coming with us?' Sveta quizzes earnestly while looking straight at Katya here.
+- 'Well, in principle, we can go.' Talking about the principle on the spot, Katya brings in "printsipe" ("principle", from "printsip") as the key Russian word here.
+- 'Let us go, we will wait for you outside.' Sveta speaks up bluntly watching Katya, testing Katya's reaction in the middle of the exchange.
+- 'Alright, then we will tell everything tomorrow.' Denis answers briskly in their talk, to clear the air between them once and for all.
+- 'Of course, since today we are going to the cinema.' Talking about the cinema in this beat, Katya chooses "konechno" ("of course") so Denis gets the point right away.

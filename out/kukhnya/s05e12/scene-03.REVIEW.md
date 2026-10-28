@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you for giving me a ride.' Barinov jumps in pointedly with a sigh, before Elena can change the subject.
-- 'What are the plans for the evening?' Elena focuses on one concrete detail in reply: "vecher" means "evening", and it carries the main weight of what Elena is saying.
-- 'None at all. Spartak is not playing today.' Barinov speaks up at once in their talk, saying out loud what both of them already know.
-- 'Do you even remember what day it is today?' Elena tests promptly what Barinov is actually getting at here.
-- 'Wednesday, why?' Barinov uses one direct choice in earnest: "sreda" means "Wednesday", and it carries the main weight of what Barinov is saying.
-- 'On Friday it is Lyova's birthday.' Elena puts that remark plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Thank you for reminding me!' Barinov weighs in boldly without a pause, so Elena knows he is not just making small talk.
-- 'Listen, can you turn off that annoying sound?' Barinov frames one colorful term on cue: "protivnyy" means "man", and it carries the main weight of what Barinov is saying.
-- 'It infuriates me!' Barinov brings that point calmly now: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'And it infuriates me that you forgot about my birthday!' Elena replies briskly around Barinov, keeping the focus on what actually matters here.
-- 'Lena, wait!' Barinov points to this sharp piece in earnest: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'I do not even want to see you!' Elena colors one memorable expression toward Barinov: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'Thank you for giving me a ride.' Barinov directly drops this word of thanks in the exchange using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'What are the plans for the evening?' Underscoring the evening right here, Elena centers the remark on "vecher" ("evening") without any extra fuss.
+- 'None at all. Spartak is not playing today.' Barinov steps in boldly in this beat and uses "segodnya" ("today") to carry the main weight of the thought.
+- 'Do you even remember what day it is today?' Elena tests promptly how Barinov expects that to work in practice.
+- 'Wednesday, why?' Barinov follows up warmly around Elena and lands on "sreda" ("Wednesday") as the key everyday word here.
+- 'On Friday it is Lyova's birthday.' Checking on the birth around Barinov, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Thank you for reminding me!' Barinov gently directs this word of thanks in one quick breath using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Listen, can you turn off that annoying sound?' Touching on the sound around Elena, Barinov brings in "protivnyy" ("man") to make the meaning unmistakable.
+- 'It infuriates me!' Stepping in firmly in the exchange, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'And it infuriates me that you forgot about my birthday!' Elena speaks up briskly during the talk, so Barinov knows she is not just making small talk.
+- 'Lena, wait!' Barinov continues readily beside Elena and uses "podozhdi" ("wait", from "podozhdat") to make the point stick.
+- 'I do not even want to see you!' Elena follows up evenly across the room, grounding the moment in plain reality.

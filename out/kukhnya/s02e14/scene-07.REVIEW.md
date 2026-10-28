@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone be quiet.' Barinov features this telling word toward Ainura: "tikho" means "easy, quiet", and it carries the main weight of what Barinov is saying.
-- 'Be quiet, I said.' Nagiyev shapes the remark in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Hello, I am listening.' Ainura speaks up evenly with a smile, bringing things back to earth after the buildup.
-- 'So just relax and enjoy your rest.' Barinov grounds one key detail in earnest: "otdykhayte" means "rest" (from "otdykhat"), giving the line its exact edge.
-- 'Yeah, sounds good.' Nagiyev delivers the reply without fuss: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'The reception is bad.' Ainura fires back earnestly hearing Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
-- 'The connection is really terrible.' Barinov picks one familiar word in reply: "plokhaya" means "bad" (from "plokhoy"), giving the line its exact edge.
-- 'You little mouse.' Nagiyev gives that point with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Dmitry Vladimirovich is waiting for you out in the dining room.' Ainura checks straight out whether Barinov really thought this through.
-- 'And why are you all standing around?' Barinov sharpens one key choice in reply: "vstali" means "stood still" (from "vstat"), giving the line its exact edge.
-- 'Get back to work right now.' Nagiyev states this point to Ainura: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Yes, Chef.' Ainura speaks up decisively with a shrug, refusing to let the moment slip past.
-- 'Hand over the uniform.' Barinov highlights one classic choice in reply: "formu" means "uniform" (from "forma"), giving the line its exact edge.
+- 'Everyone be quiet.' Barinov opens up directly beside Nagiyev and lands on "tikho" ("easy, quiet") as the key everyday word here.
+- 'Be quiet, I said.' Pressing on dryly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Hello, I am listening.' Ainura fires back evenly around Nagiyev, grounding the moment in plain reality.
+- 'So just relax and enjoy your rest.' Barinov reacts decisively right here and uses "otdykhayte" ("rest", from "otdykhat") to make the point stick.
+- 'Yeah, sounds good.' Stepping in warmly with Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'The reception is bad.' Ainura speaks up earnestly hearing Nagiyev, bringing things back to earth after the buildup.
+- 'The connection is really terrible.' Emphasizing the connection with Ainura, Barinov lands on "plokhaya" ("bad", built on "plokhoy") to keep the statement grounded.
+- 'You little mouse.' Bringing up the mouse in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Dmitry Vladimirovich is waiting for you out in the dining room.' Ainura checks straight out about what Barinov just brought up.
+- 'And why are you all standing around?' Barinov jumps in quietly before Nagiyev and lands on "vstali" ("stood still", built on "vstat") to keep the statement grounded.
+- 'Get back to work right now.' Bringing up the job before Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Yes, Chef.' Ainura briskly shares this direct affirmation while facing Barinov using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'Hand over the uniform.' Mentioning the uniform in the exchange, Barinov brings in "formu" ("uniform", from "forma") as the key Russian word here.

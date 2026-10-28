@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, I did not have time to change clothes.' Max lays out this answer briskly now: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Max steps in.
-- 'What happened? Just look at them.' Vika presses bluntly as Max tries to explain the situation.
-- 'Hello, dear Victoria Sergeevna!' Barinov highlights one vivid piece toward Max: "zdravstvuyte" means "hello", and it carries the main weight of what Barinov is saying.
-- 'Very funny, what is going on here, Max?' Vika brings the thought without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Is this a tavern we are running here or what?' Vika challenges firmly as Barinov tries to explain the situation.
-- 'Why are the two of you drinking in here?' Vika highlights this direct piece at once: "vdvoyom" means "the two of us together", and it carries the main weight of what Vika is saying.
-- 'Well, what can I possibly do?' Max hands over that reply for Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'In short, let us go with this plan.' Max jumps in bluntly hearing Vika, saying out loud what both of them already know.
-- 'Right now I will get him drunk quickly.' Max centers this sharp piece right here: "seychas" means "now", and it carries the main weight of what Max is saying.
-- 'Careful they do not have to resuscitate you instead.' Vika colors one vivid detail toward Max: "otkachivat" means "to resuscitate", and it carries the main weight of what Vika is saying.
-- 'Well, we will see about that.' Max jumps in candidly as they talk, bringing things back to earth after the buildup.
-- 'Chef, let us drink like real men!' Max favors one pointed word right here: "po-muzhski" means "like a man", and it carries the main weight of what Max is saying.
+- 'Excuse me, I did not have time to change clothes.' Max briskly sends this polite apology at this moment using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'What happened? Just look at them.' Vika presses bluntly whether Barinov really thought this through.
+- 'Hello, dear Victoria Sergeevna!' Barinov naturally gives this formal greeting without hesitation using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Very funny, what is going on here, Max?' Looking over evenly during the talk, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Is this a tavern we are running here or what?' Vika challenges firmly where this conversation is heading next.
+- 'Why are the two of you drinking in here?' Vika jumps in quietly before Max and uses "vdvoyom" ("the two of us together") to carry the main weight of the thought.
+- 'Well, what can I possibly do?' Looking over frankly beside Vika, Max puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'In short, let us go with this plan.' Max speaks bluntly around Vika, letting the remark speak for itself.
+- 'Right now I will get him drunk quickly.' Max speaks evenly in this beat and lands on "bystro" ("quickly") as the key everyday word here.
+- 'Careful they do not have to resuscitate you instead.' Vika follows up wryly across the room, so Max knows she is not just making small talk.
+- 'Well, we will see about that.' Max counters candidly hearing Vika, without trying to dress up how he really feels.
+- 'Chef, let us drink like real men!' Max replies briskly beside Barinov and reaches for the Russian word "po-muzhski" ("like a man") right at the heart of the line.

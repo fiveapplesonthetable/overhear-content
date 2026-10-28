@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One milligram of its poison is enough to kill.' Max speaks quietly with a shrug, so Barinov knows he is not just making small talk.
-- 'Only the very best chefs prepare fugu fish.' Max replies dryly watching Barinov, to clear the air between them once and for all.
-- 'Because fugu never forgives mistakes.' Max picks one key touch right here: "proshchayet" means "to forgive" (from "proshchat"), giving the line its exact edge.
-- 'Of course I know what there is to cook.' Max counters briskly as things stand, keeping the focus on what actually matters here.
-- 'It is almost the exact same thing as a carp.' Max opens up boldly on the spot, before Barinov can change the subject.
-- 'Excellent, then we will take the fugu from Timur right now.' Barinov emphasizes one loaded choice with Max: "otlichno" means "perfect, great", and it carries the main weight of what Barinov is saying.
-- 'You will prepare it yourself and eat it yourself.' Barinov favors this vivid touch right here: "prigotovish" means "will prepare" (from "prigotovit"), giving the line its exact edge.
-- 'If you stay alive, I will admit you are better.' Barinov jumps in briskly across the room, shifting the whole mood of the room in a single beat.
-- 'Wait, Chef, are you going to cook it too?' Max chooses this telling expression for Barinov: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'And why should I have to cook it?' Barinov frames that reply to Max: putting the question word "zachem" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'It is a bet, what if you do not know how yourself?' Max presses wryly before Barinov can change the subject.
-- 'Agreed, go write your will, Oguzok!' Barinov leans on one loaded detail in reply: "zaveshchaniye" means "will, testament", and it carries the main weight of what Barinov is saying.
+- 'One milligram of its poison is enough to kill.' Mentioning the milligram beside Barinov, Max reaches for the Russian word "milligramma" ("milligram", built from "milligramm") right at the center of the line.
+- 'Only the very best chefs prepare fugu fish.' Max speaks up dryly hearing Barinov, keeping the focus on what actually matters here.
+- 'Because fugu never forgives mistakes.' Pointing to the fugu right here, Max lands on "proshchayet" ("to forgive", built on "proshchat") to keep the statement grounded.
+- 'Of course I know what there is to cook.' Max speaks calmly during the talk and puts the emphasis on "konechno" ("of course") in the middle of the talk.
+- 'It is almost the exact same thing as a carp.' Max opens up boldly with a smile, to clear the air between them once and for all.
+- 'Excellent, then we will take the fugu from Timur right now.' Highlighting the fugu at once, Barinov uses "otlichno" ("perfect, great") to carry the main weight of the thought.
+- 'You will prepare it yourself and eat it yourself.' Barinov reacts honestly across the room, keeping the focus on what actually matters here.
+- 'If you stay alive, I will admit you are better.' Barinov speaks up briskly without holding back, steering the talk right where he wants it.
+- 'Wait, Chef, are you going to cook it too?' Max speaks up candidly in this beat and uses "podozhdite" ("wait", from "podozhdat") to make the point stick.
+- 'And why should I have to cook it?' Weighing in smoothly in front of Max, Barinov puts the question word "zachem" right at the start so Max hears the focus immediately.
+- 'It is a bet, what if you do not know how yourself?' Max presses wryly about what Barinov just brought up.
+- 'Agreed, go write your will, Oguzok!' Barinov speaks up naturally to Max and reaches for the Russian word "zaveshchaniye" ("will, testament") right at the heart of the line.

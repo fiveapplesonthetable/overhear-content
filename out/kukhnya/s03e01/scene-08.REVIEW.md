@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, are you kidding me?' Barinov voices that point frankly here: the "-sya" ending on "izdevayeshsya" ("are kidding") turns the action inward or makes it happen between people naturally.
-- 'She is a woman!' Barinov replies briskly in this moment, shifting the whole mood of the room in a single beat.
-- 'Dima, you know my attitude toward this.' Barinov anchors this key term in reply: "otnosheniye" means "attitude, relation", and it carries the main weight of what Barinov is saying.
-- 'A woman will not work in my kitchen.' Barinov reacts quietly with a sigh, making his position completely clear.
-- 'Nastya, did you tell your parents?' Kostya wonders curiously why things suddenly took this turn between them.
-- 'Not yet.' Nastya underscores one sharp piece on cue: "yeshchyo" means "more, still", and it carries the main weight of what Nastya is saying.
-- 'Nastya, what is the matter? Why are you hiding it?' Kostya sends the comeback briskly now: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'I am afraid.' Nastya counters warmly to be clear, steering the talk right where she wants it.
-- 'My dad has old-fashioned views.' Nastya focuses on one pointed touch at once: "vzglyadov" means "views" (from "vzglyad"), giving the line its exact edge.
-- 'I got pregnant before the wedding.' Nastya lays out the comeback plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'He will probably kill you.' Nastya reacts pointedly with a sigh, shifting the whole mood of the room in a single beat.
-- 'Me? Why me?' Kostya directs that remark calmly now: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'Dima, are you kidding me?' Stepping in earnestly to Kostya, the "-sya" ending on "izdevayeshsya" ("are kidding") marks an action that unfolds mutually or turns back on the speaker.
+- 'She is a woman!' Barinov proceeds briskly hearing Kostya, watching Kostya's face to see how the news lands.
+- 'Dima, you know my attitude toward this.' Focusing on his attitude with Kostya, Barinov brings in "otnosheniye" ("attitude, relation") to make the meaning unmistakable.
+- 'A woman will not work in my kitchen.' Touching on a woman at once, Barinov reaches for the Russian word "zhenshchina" ("woman") right at the heart of the line.
+- 'Nastya, did you tell your parents?' Kostya wonders curiously before Nastya can change the subject.
+- 'Not yet.' Nastya cuts in earnestly in front of Kostya and chooses "yeshchyo" ("more, still") so Kostya gets the point right away.
+- 'Nastya, what is the matter? Why are you hiding it?' Weighing in evenly right here, Kostya puts the question word "pochemu" right at the start so Nastya hears the focus immediately.
+- 'I am afraid.' Nastya replies warmly without holding back, grounding the moment in plain reality.
+- 'My dad has old-fashioned views.' Turning to the views in this beat, Nastya lands on "vzglyadov" ("views", built on "vzglyad") to keep the statement grounded.
+- 'I got pregnant before the wedding.' Addressing the wedding on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'He will probably kill you.' Nastya reacts pointedly with a nod, bringing things back to earth after the buildup.
+- 'Me? Why me?' Turning quietly during the talk, Kostya puts the question word "chto" right at the start so Nastya hears the focus immediately.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you know how long I searched for him?' Nastya sends that thought with warmth: putting the question word "kak" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'I wrote letters and made inquiries.' Nastya proceeds candidly watching Kostya, keeping the focus on what actually matters here.
-- 'And then a week ago he was found.' Nastya favors one pointed detail for Katya: "nashyolsya" means "turned up" (from "naytis"), giving the line its exact edge.
-- 'I invited him, and so he came.' Nastya opens up calmly facing Kostya, grounding the moment in plain reality.
-- 'We wanted to give you a nice surprise.' Nastya opens up bluntly as things stand, so Katya knows she is not just making small talk.
-- 'Kostik, he is actually your own family.' Nastya colors one memorable expression for Kostya: "voobshche-to" means "actually", and it carries the main weight of what Nastya is saying.
-- 'This man abandoned my mother and me.' Kostya speaks up firmly in their talk, leaving no doubt about where he stands.
-- 'And now he suddenly showed up again!' Kostya cuts in at once beside Nastya, making his position completely clear.
-- 'You need to warn people in advance about such surprises.' Kostya features this key detail in reply: "syurprizakh" means "surprise" (from "syurpriz"), giving the line its exact edge.
-- 'In the end I cooked dinner for you.' Katya centers one vivid word right here: "prigotovila" means "to prepare" (from "prigotovit"), giving the line its exact edge.
-- 'In short, they simply set me up.' Katya pushes back firmly to be clear, leaving no doubt about where she stands.
-- 'I was going to invite you to dinner anyway.' Kostya uses this direct word in earnest: "sobiralsya" means "was going to" (from "sobiratsya"), giving the line its exact edge.
+- 'Do you know how long I searched for him?' Holding firm naturally beside Kostya, Nastya puts the question word "kak" right at the start so Kostya hears the focus immediately.
+- 'I wrote letters and made inquiries.' Nastya fires back candidly during the talk, testing Kostya's reaction in the middle of the exchange.
+- 'And then a week ago he was found.' Talking about a week beside Kostya, Nastya uses "nedelyu" ("for a week", from "nedelya") to make the point stick.
+- 'I invited him, and so he came.' Nastya fires back plainly to Kostya and brings in "priglasila" ("to invite, to call in", from "priglasit") as the key Russian word here.
+- 'We wanted to give you a nice surprise.' Turning to a nice surprise in their talk, Nastya cuts straight through the tension with Kostya.
+- 'Kostik, he is actually your own family.' Stressing how dear he is at once, Nastya chooses "rodnaya" ("dear, darling", from the root "rodnoy") so Kostya hears the exact meaning.
+- 'This man abandoned my mother and me.' Pointing to the mum before Nastya, Kostya uses "mamoy" ("Mum", from "mama") to make the point stick.
+- 'And now he suddenly showed up again!' Kostya continues at once during the talk, making his position completely clear.
+- 'You need to warn people in advance about such surprises.' Underscoring the surprise around Katya, Kostya leans on "syurprizakh" ("surprise", a form of "syurpriz") to give the remark its edge.
+- 'In the end I cooked dinner for you.' Katya answers pointedly during the talk, bringing things back to earth after the buildup.
+- 'In short, they simply set me up.' Katya continues firmly without a pause, shifting the mood of the conversation in a single beat.
+- 'I was going to invite you to dinner anyway.' Touching on the dinner before Katya, Kostya chooses "sobiralsya" ("was going to", from the root "sobiratsya") so Katya hears the exact meaning.

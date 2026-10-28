@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bon appetit.' Ilya highlights one practical expression toward Max: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
-- 'You know, you did the right thing getting divorced from her.' Ilya reaches for one colorful detail for Nagiyev: "pravilno" means "right", and it carries the main weight of what Ilya is saying.
-- 'What business is it of yours?' Nagiyev challenges straight out where this conversation is heading next.
-- 'What is your job? To watch over the food that you serve me.' Nagiyev frames one clear touch with Max: "zadacha" means "task", and it carries the main weight of what Nagiyev is saying.
-- 'What kind of dish is this? You are fired!' Nagiyev gives that answer plainly here: putting the question word "chto" right at the front of the line lets Ilya hear the point of the question on the very first beat.
-- 'Dmitry Vladimirovich!' Ilya speaks frankly beside Nagiyev, watching Nagiyev's face to see how the news lands.
-- 'Fired! And the cook who prepared this is fired too.' Nagiyev focuses on this key piece in reply: "prigotovil" means "cooked" (from "prigotovit"), giving the line its exact edge.
-- 'You are unattractive. Come here.' Nagiyev drops the remark on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Yes, Dmitry Vladimirovich. I will bring you the menu right now.' Max steps in openly with a nod, saying out loud what both of them already know.
-- 'Bring me something to eat. Bring me some aspic.' Nagiyev uses one familiar touch with Max: "kholodtsa" means "aspic, meat jelly" (from "kholodets"), giving the line its exact edge.
-- 'Aspic? We do not have it on the menu.' Max sends this update toward Ilya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'I don't care one bit! Go on.' Nagiyev steps in boldly without any doubt, steering the talk right where he wants it.
+- 'Bon appetit.' Touching on the appetite before Nagiyev, Ilya puts the weight on "priyatnogo" ("pleasant", from "priyatnyy") as the exchange unfolds.
+- 'You know, you did the right thing getting divorced from her.' Ilya reacts pointedly in their talk, testing Nagiyev's reaction in the middle of the exchange.
+- 'What business is it of yours?' Nagiyev challenges straight out why things suddenly took this turn between them.
+- 'What is your job? To watch over the food that you serve me.' Mentioning the task in this beat, Nagiyev uses "zadacha" ("task") to carry the main weight of the thought.
+- 'What kind of dish is this? You are fired!' Dwelling on the dish on the spot, Nagiyev puts the question word "chto" right at the start so Ilya hears the focus immediately.
+- 'Dmitry Vladimirovich!' Ilya steps in frankly hearing Nagiyev, before Nagiyev can change the subject.
+- 'Fired! And the cook who prepared this is fired too.' Underscoring the cook on the spot, Nagiyev leans on "prigotovil" ("cooked", a form of "prigotovit") to give the remark its edge.
+- 'You are unattractive. Come here.' Explaining how unattractive Max is right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Yes, Dmitry Vladimirovich. I will bring you the menu right now.' Max replies openly across the room, bringing things back to earth after the buildup.
+- 'Bring me something to eat. Bring me some aspic.' Touching on the aspic with Max, Nagiyev lands on "kholodtsa" ("aspic, meat jelly", built on "kholodets") to keep the statement grounded.
+- 'Aspic? We do not have it on the menu.' Bringing up the aspic in front of Nagiyev, Max reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'I don't care one bit! Go on.' Nagiyev proceeds boldly with a smile, to clear the air between them once and for all.

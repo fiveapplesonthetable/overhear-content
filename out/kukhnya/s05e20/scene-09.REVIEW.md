@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, Oguzok, have you not changed your mind yet?' Barinov probes point-blank as Lyova tries to explain the situation.
-- 'Think carefully, you are so young after all.' Barinov leans on this sharp expression at once: "molodoy" means "young", and it carries the main weight of what Barinov is saying.
-- 'Chef, or maybe you are the one who will change your mind?' Max lays out that answer right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'You have nothing to lose, but you could live a while longer.' Max weighs in right away facing Lyova, leaving no doubt about where he stands.
-- 'God knows, I sincerely wanted to save you.' Barinov features one practical word toward Lyova: "iskrenne" means "sincerely", and it carries the main weight of what Barinov is saying.
-- 'Alright, guys, I was never here at all.' Lyova brings that line with warmth: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'I do not want to take part in this madness.' Lyova proceeds earnestly during the talk, keeping the focus on what actually matters here.
-- 'So, which fish do you choose for yourself?' Barinov emphasizes this direct word at once: "vybirayesh" means "to choose, select" (from "vybirat"), giving the line its exact edge.
-- 'Let me take this fish right here.' Max frames that remark calmly now: the word "davayte" is the polite or group version of "let's", inviting Barinov into the plan right away.
-- 'Wait, stop, have you completely lost your mind?' Barinov presses point-blank why things suddenly took this turn between them.
-- 'Put protective gloves on your hands immediately!' Barinov colors one vivid choice in reply: "zashchitnyye" means "protective" (from "zashchitnyy"), giving the line its exact edge.
-- 'What a real young daredevil!' Barinov replies openly with a nod, testing Max's reaction in the middle of the exchange.
+- 'Well, Oguzok, have you not changed your mind yet?' Barinov probes point-blank before Max can change the subject.
+- 'Think carefully, you are so young after all.' Noting how young Max is beside Max, Barinov reaches for the Russian word "molodoy" ("young") right at the heart of the line.
+- 'Chef, or maybe you are the one who will change your mind?' Reacting candidly to Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'You have nothing to lose, but you could live a while longer.' Max steps in right away hearing Barinov, leaving no doubt about where he stands.
+- 'God knows, I sincerely wanted to save you.' Barinov answers vividly during the talk and brings in "iskrenne" ("sincerely") to make the meaning unmistakable.
+- 'Alright, guys, I was never here at all.' Talking about the boys during the talk, Lyova drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'I do not want to take part in this madness.' Lyova fires back earnestly in this moment, grounding the moment in plain reality.
+- 'So, which fish do you choose for yourself?' Underscoring the fish before Max, Barinov chooses "vybirayesh" ("to choose, select", from the root "vybirat") so Max hears the exact meaning.
+- 'Let me take this fish right here.' Returning to the fish during the talk, Max uses the polite or group form "davayte" ("let's") to bring Barinov into the plan.
+- 'Wait, stop, have you completely lost your mind?' Barinov presses point-blank about what Max just brought up.
+- 'Put protective gloves on your hands immediately!' Focusing on the gloves around Max, Barinov leans on "zashchitnyye" ("protective", a form of "zashchitnyy") to give the remark its edge.
+- 'What a real young daredevil!' Turning to the suicidal person during the talk, Barinov puts the emphasis on "nastoyashchiy" ("real, genuine") in the middle of the talk.

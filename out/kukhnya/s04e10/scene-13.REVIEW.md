@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, guys, let's do it differently.' Senya highlights one clear detail in reply: "rebyata" means "the boys, the lads", and it carries the main weight of what Senya is saying.
-- 'Just tie me up tightly.' Senya lays out this warning plainly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'All right, guys, let's do it differently.' Senya simply speaks this word of agreement at the start of the beat using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Just tie me up tightly.' Pressing on earnestly with Fedya, Senya uses the little word "prosto" ("simply, just") to make the point sound effortless.
 - 'What if I do not turn into one after all?' Senya prompts earnestly whether Fedya really thought this through.
-- 'Or scientists will invent a vaccine soon.' Senya grounds this direct element in reply: "uchyonyye" means "scientist, scholar" (from "uchyonyy"), giving the line its exact edge.
-- 'And you will always have time to shoot me.' Senya cuts in decisively with a smile, without trying to dress up how he really feels.
-- 'Hold him tighter, guys!' Fedya speaks steadily in their talk, before Timur can change the subject.
-- 'The zombies are already breaking down the doors!' Fedya anchors one familiar element right here: "zombi" means "matter", and it carries the main weight of what Fedya is saying.
-- 'Everyone get into the van quickly!' Timur frames that reply briskly now: the word "davayte" is the polite or group version of "let's", inviting Senya into the plan right away.
-- 'I will drive you to the safe zone.' Timur jumps in boldly to settle things, bringing things back to earth after the buildup.
-- 'Does everyone have eight hundred rubles each?' Timur focuses on this vivid expression with Senya: "vosemsot" means "eight", and it carries the main weight of what Timur is saying.
-- 'Timur, are you bargaining even now?' Fedya sends that thought with warmth: the "-sya" ending on "torguyeshsya" ("to bargain") turns the action inward or makes it happen between people naturally.
-- 'Gasoline is very expensive right now, brother.' Timur stands firm dryly with a shrug, shifting the whole mood of the room in a single beat.
+- 'Or scientists will invent a vaccine soon.' Addressing the scientist during the talk, Senya chooses "uchyonyye" ("scientist, scholar", from the root "uchyonyy") so Fedya hears the exact meaning.
+- 'And you will always have time to shoot me.' Senya cuts in warmly around Fedya and centers the remark on "pristrelit" ("to time") without any extra fuss.
+- 'Hold him tighter, guys!' Fedya proceeds steadily toward Senya, letting the remark speak for itself.
+- 'The zombies are already breaking down the doors!' Focusing on the matter with Timur, Fedya reaches for the Russian word "zombi" ("matter") right at the heart of the line.
+- 'Everyone get into the van quickly!' Reacting smoothly in the exchange, Timur uses the polite or group form "davayte" ("let's") to bring Fedya into the plan.
+- 'I will drive you to the safe zone.' Timur weighs in boldly with a shrug, making his position completely clear.
+- 'Does everyone have eight hundred rubles each?' Underscoring the eight during the talk, Timur chooses "vosemsot" ("eight") so Fedya gets the point right away.
+- 'Timur, are you bargaining even now?' Looking over earnestly right here, the "-sya" ending on "torguyeshsya" ("to bargain") marks an action that unfolds mutually or turns back on the speaker.
+- 'Gasoline is very expensive right now, brother.' Timur fires back dryly with a sigh, leaving no doubt about where he stands.

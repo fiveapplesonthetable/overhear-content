@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you very much for the warm welcome.' Gulya pushes back bluntly without a pause, making her position completely clear.
-- 'I will tell my mom that we are barbarians.' Gulya highlights this telling piece toward Kostya: "varvary" means "barbarians" (from "varvar"), giving the line its exact edge.
-- 'Excuse me, I have one request.' The guest phrases that answer to Gulya: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Listen, you speak Russian so well!' Kostya jumps in boldly to settle things, before Gulya can change the subject.
-- 'Do you understand well what I am saying?' The guest colors one clear expression at once: "ponimayete" means "do you understand" (from "ponimat"), giving the line its exact edge.
-- 'Yes, of course, I am listening to you attentively.' Kostya points to one key expression in reply: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Kostya is saying.
-- 'Please brew this tea for lunch.' The guest speaks up earnestly on the spot, without trying to dress up how he really feels.
-- 'Only you need to put in just a tiny bit.' The guest stresses one memorable word right here: "chut-chut" means "a little bit", and it carries the main weight of what the guest is saying.
-- 'Just this much, literally one small pinch.' The guest counters evenly across the room, grounding the moment in plain reality.
-- 'Got it, I need to add only one pinch.' Kostya speaks bluntly without holding back, without trying to dress up how he really feels.
-- 'Do not worry, everything will be done great.' Kostya anchors one loaded choice at once: "volnuysya" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'Good, then thank you very much for your help.' The guest shares that line with candor: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Thank you very much for the warm welcome.' Gulya responds bluntly in their talk, shifting the mood of the conversation in a single beat.
+- 'I will tell my mom that we are barbarians.' Bringing up the barbarians in this beat, Gulya lands on "varvary" ("barbarians", built on "varvar") to keep the statement grounded.
+- 'Excuse me, I have one request.' The guest jumps in boldly hearing Gulya, watching Gulya's face to see how the news lands.
+- 'Listen, you speak Russian so well!' Kostya speaks boldly with a nod, refusing to let the moment slip past.
+- 'Do you understand well what I am saying?' The guest fires back dryly in this beat and uses "ponimayete" ("do you understand", from "ponimat") to make the point stick.
+- 'Yes, of course, I am listening to you attentively.' Kostya speaks up bluntly on the spot, without trying to dress up how he really feels.
+- 'Please brew this tea for lunch.' The guest speaks up earnestly with a smile, letting the remark speak for itself.
+- 'Only you need to put in just a tiny bit.' The guest speaks briskly at once and leans on "chut-chut" ("a little bit") to give the whole sentence its punch.
+- 'Just this much, literally one small pinch.' Turning to the pinch at once, the guest reaches for the Russian word "shchepotku" ("pinch", built from "shchepotka") right at the center of the line.
+- 'Got it, I need to add only one pinch.' Kostya fires back bluntly during the talk, leaving no doubt about where he stands.
+- 'Do not worry, everything will be done great.' Kostya speaks warmly to the guest and lands on "sdelano" ("made, done", built on "sdelannyy") to keep the statement grounded.
+- 'Good, then thank you very much for your help.' Emphasizing the thank to Kostya, the guest uses "bolshoye" ("big, very much", from "bolshoy") to make the point stick.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, can you imagine, this is some kind of...' Sasha grounds one familiar piece toward Kostya: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
-- 'Oh, hi, Sasha.' Kostya speaks pointedly beside Sasha, leaving no doubt about where he stands.
-- 'Thank you, Kostya, that is super.' Sasha uses one sharp word at once: "spasibo" means "thank you", and it carries the main weight of what Sasha is saying.
-- 'Well, as you can see, I did not go.' Sasha delivers the reply before Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I wanted to talk.' Sasha follows up boldly without holding back, bringing things back to earth after the buildup.
-- 'Yes, of course.' Sasha points to one vivid touch for Kostya: "konechno" means "of course", and it carries the main weight of what Sasha is saying.
-- 'That we are together.' Kostya lays out that remark around Sasha: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well then, see you tonight?' Sasha challenges bluntly why things suddenly took this turn between them.
-- 'I probably will not be able to make it tonight.' Kostya leans on one concrete expression at once: "navernoye" means "probably", and it carries the main weight of what Kostya is saying.
-- 'I need to support Kostya.' Sasha directs the comment at once: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Kostyan, can you imagine, this is some kind of...' Sasha replies honestly facing Kostya, before Kostya can change the subject.
+- 'Oh, hi, Sasha.' Kostya simply extends this casual greeting at this moment using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Thank you, Kostya, that is super.' Sasha simply speaks this word of thanks as they meet using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Well, as you can see, I did not go.' Looking over naturally in front of Kostya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I wanted to talk.' Sasha follows up boldly with a smile, bringing things back to earth after the buildup.
+- 'Yes, of course.' Sasha smoothly extends this confirmation right on cue using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'That we are together.' Opening up earnestly at once, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well then, see you tonight?' Sasha challenges bluntly whether Kostya really thought this through.
+- 'I probably will not be able to make it tonight.' Kostya steps in decisively during the talk and brings in "navernoye" ("probably") to make the meaning unmistakable.
+- 'I need to support Kostya.' Pressing on candidly with Kostya, Sasha leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
 - 'What happened?' Kostya inquires candidly to see how Sasha will answer on the spot.
-- 'His dog died.' Sasha underscores one direct expression with Kostya: "sobaka" means "dog", and it carries the main weight of what Sasha is saying.
-- 'He loved her very much.' Kostya shares this statement facing Sasha: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'His dog died.' Focusing on the dog on the spot, Sasha lands on "sobaka" ("dog") as the key everyday word here.
+- 'He loved her very much.' Jumping in earnestly beside Sasha, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

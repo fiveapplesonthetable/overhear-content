@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, a new order, pasta and two steaks!' Lyova continues wryly across the room, without trying to dress up how he really feels.
-- 'And for table five we are serving hot onion soups!' Lyova responds at once with a nod, making his position completely clear.
-- 'Lyova, come over here, can I have you for a minute?' Barinov uses this clear expression at once: "minutu" means "a minute" (from "minuta"), giving the line its exact edge.
-- 'Viktor Petrovich, I am working right now, there are orders in the kitchen!' Lyova opens up at once with a sigh, watching Barinov's face to see how the news lands.
-- 'Come here quickly, Lyova, this is very important!' Barinov weighs in promptly as things stand, refusing to let the moment slip past.
-- 'All right, Viktor Petrovich, but only for one minute.' Lyova emphasizes one vivid word on cue: "minutu" means "a minute" (from "minuta"), giving the line its exact edge.
-- 'Tell me, Lyova, which shirt is better to put on?' Barinov states this answer with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'It seems to me that this shirt right here is too bright.' Barinov proceeds warmly to be clear, bringing things back to earth after the buildup.
-- 'And this second shirt right here is kind of boring.' Barinov colors one practical expression toward Lyova: "skuchnaya" means "boring, dull" (from "skuchnyy"), giving the line its exact edge.
-- 'Quickly choose a shirt for me and go work!' Barinov weighs in promptly hearing Lyova, so Lyova knows he is not just making small talk.
-- 'It seems to me that this shirt right here is much better.' Lyova reacts wryly without holding back, making his position completely clear.
-- 'Thank you, Lyova, I have always trusted your taste!' Barinov features this direct element in earnest: "spasibo" means "thank you", and it carries the main weight of what Barinov is saying.
+- 'All right, a new order, pasta and two steaks!' Underscoring the steak in the exchange, Lyova leans on "steyka" ("steak", a form of "steyk") to give the remark its edge.
+- 'And for table five we are serving hot onion soups!' Lyova responds at once beside Barinov, leaving no doubt about where he stands.
+- 'Lyova, come over here, can I have you for a minute?' Mentioning a minute at once, Barinov reaches for the Russian word "minutu" ("a minute", built from "minuta") right at the center of the line.
+- 'Viktor Petrovich, I am working right now, there are orders in the kitchen!' Bringing up the kitchen beside Barinov, Lyova leans on "kukhne" ("kitchen", a form of "kukhnya") to give the remark its edge.
+- 'Come here quickly, Lyova, this is very important!' Barinov jumps in promptly hearing Lyova, leaving no doubt about where he stands.
+- 'All right, Viktor Petrovich, but only for one minute.' Highlighting the minute with Barinov, Lyova puts the weight on "minutu" ("a minute", from "minuta") as the exchange unfolds.
+- 'Tell me, Lyova, which shirt is better to put on?' Dwelling on the shirt in the exchange, Barinov keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'It seems to me that this shirt right here is too bright.' Barinov weighs in warmly toward Lyova, testing Lyova's reaction in the middle of the exchange.
+- 'And this second shirt right here is kind of boring.' Stressing how second things are right here, Barinov brings in "skuchnaya" ("boring, dull", from "skuchnyy") as the key Russian word here.
+- 'Quickly choose a shirt for me and go work!' Touching on a shirt before Lyova, Barinov reaches for the Russian word "rubashku" ("shirt", built from "rubashka") right at the center of the line.
+- 'It seems to me that this shirt right here is much better.' Lyova pushes back wryly with a smile, testing Barinov's reaction in the middle of the exchange.
+- 'Thank you, Lyova, I have always trusted your taste!' Highlighting the thank during the talk, Barinov brings in "spasibo" ("thank you") to make the meaning unmistakable.

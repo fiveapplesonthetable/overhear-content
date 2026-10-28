@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, Katya, drink this hot tea.' Nastya continues boldly before Katya, leaving no doubt about where she stands.
-- 'I brewed it extra strong specially for you.' Nastya colors this direct expression right here: "pokrepche" means "stronger" (from "krepkiy"), giving the line its exact edge.
-- 'Alcohol will not help you right now anyway.' Nastya spotlights one colorful term in earnest: "alkogol" means "alcohol", and it carries the main weight of what Nastya is saying.
-- 'This tea tastes very strange somehow.' Nastya chimes in decisively on the spot, saying out loud what both of them already know.
-- 'Gulya, why are you already here?' Lyova colors one sharp detail right here: "uzhe" means "already, now", and it carries the main weight of what Lyova is saying.
-- 'Mom called, and you two smoothed everything over?' Lyova phrases this answer without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Well then, groom, meet your beloved!' Katya opens up candidly beside Lyova, without trying to dress up how she really feels.
-- 'What have you done, who is this person?' Lyova reaches for one memorable detail in earnest: "nadelali" means "make, cause" (from "nadelat"), giving the line its exact edge.
-- 'Sorry, a little mistake happened on our part.' Katya brings this point without pause: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'In Russia it is customary to bring guests like this.' Katya responds openly as they talk, shifting the whole mood of the room in a single beat.
-- 'Timur, take him back to the hotel immediately!' Lyova focuses on this key element on cue: "nemedlenno" means "immediately", and it carries the main weight of what Lyova is saying.
-- 'Take him away from here as fast as possible!' Lyova makes that remark plainly here: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Come on, Katya, drink this hot tea.' Nastya pushes back boldly toward Katya, letting the remark speak for itself.
+- 'I brewed it extra strong specially for you.' Nastya weighs in decisively right here and uses "pokrepche" ("stronger", from "krepkiy") to make the point stick.
+- 'Alcohol will not help you right now anyway.' Nastya answers earnestly with a nod, refusing to let the moment slip past.
+- 'This tea tastes very strange somehow.' Nastya follows up decisively with Lyova, before Lyova can change the subject.
+- 'Gulya, why are you already here?' Lyova jumps in calmly at once and leans on "uzhe" ("already, now") to give the whole sentence its punch.
+- 'Mom called, and you two smoothed everything over?' Turning briskly at once, Lyova keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Well then, groom, meet your beloved!' Katya pushes back candidly hearing Lyova, so Lyova knows she is not just making small talk.
+- 'What have you done, who is this person?' Lyova reacts dryly in front of Katya and brings in "nadelali" ("make, cause", from "nadelat") as the key Russian word here.
+- 'Sorry, a little mistake happened on our part.' Talking about a mistake beside Lyova, Katya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'In Russia it is customary to bring guests like this.' Katya responds openly around Lyova, testing Lyova's reaction in the middle of the exchange.
+- 'Timur, take him back to the hotel immediately!' Turning to the hotel on the spot, Lyova reaches for the Russian word "nemedlenno" ("immediately") right at the heart of the line.
+- 'Take him away from here as fast as possible!' Reacting candidly in front of Katya, Lyova leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".

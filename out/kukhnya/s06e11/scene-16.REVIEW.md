@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can you imagine, from nerves I even forgot to bring the bill.' Nikita picks one telling choice on cue: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
-- 'Nikita, wait, I want to apologize to you.' The guest brings this statement frankly here: the "-sya" ending on "izvinitsya" ("to apologise") turns the action inward or makes it happen between people naturally.
-- 'I should not have spoken so rudely about Katya.' The guest continues firmly watching Nikita, saying out loud what both of them already know.
-- 'But understand, I am trying for your sake.' The guest reaches for one telling detail at once: "starayus" means "try" (from "staratsya"), giving the line its exact edge.
-- 'I want the very best in life for you.' The guest colors this telling term at once: "luchshego" means "best" (from "luchshiy"), giving the line its exact edge.
-- 'You need a bride equal to us in status.' The guest counters frankly with a sigh, without trying to dress up how he really feels.
-- 'Dad, do I really have to marry a prince's daughter?' Nikita spotlights one colorful term for the guest: "dolzhen" means "has to, must", and it carries the main weight of what Nikita is saying.
-- 'Believe me, since those times very little has changed.' The guest delivers this warning calmly now: the "-sya" ending on "izmenilos" ("has changed") turns the action inward or makes it happen between people naturally.
-- 'Well and who do you think suits me right now?' Nikita quizzes eagerly why things suddenly took this turn between them.
-- 'Eleonora has a grown daughter, I found out today.' The guest underscores one clear detail at once: "vzroslaya" means "grown-up, adult" (from "vzroslyy"), giving the line its exact edge.
-- 'Your peer, surely a girl with a good education.' The guest centers this key expression right here: "obrazovaniyem" means "education" (from "obrazovaniye"), giving the line its exact edge.
-- 'I am having dinner here with them tonight, come join us.' The guest chimes in openly with a shrug, testing Nikita's reaction in the middle of the exchange.
-- 'Alright, dad, I will definitely come this evening!' Nikita stresses one familiar piece in reply: "obyazatelno" means "surely, without fail", and it carries the main weight of what Nikita is saying.
+- 'Can you imagine, from nerves I even forgot to bring the bill.' Pointing to the counting at once, Nikita leans on "predstavlyayesh" ("can you imagine", a form of "predstavlyat") to give the remark its edge.
+- 'Nikita, wait, I want to apologize to you.' Looking over smoothly in front of Nikita, the "-sya" ending on "izvinitsya" ("to apologise") marks an action that unfolds mutually or turns back on the speaker.
+- 'I should not have spoken so rudely about Katya.' The guest opens up firmly in their talk, steering the talk right where he wants it.
+- 'But understand, I am trying for your sake.' The guest speaks up candidly in front of Nikita and uses "starayus" ("try", from "staratsya") to make the point stick.
+- 'I want the very best in life for you.' The guest responds earnestly around Nikita, testing Nikita's reaction in the middle of the exchange.
+- 'You need a bride equal to us in status.' The guest replies frankly on the spot, before Nikita can change the subject.
+- 'Dad, do I really have to marry a prince's daughter?' Discussing the dad with the guest, Nikita leans on "dolzhen" ("has to, must") to give the whole sentence its punch.
+- 'Believe me, since those times very little has changed.' Speaking candidly in this beat, the "-sya" ending on "izmenilos" ("has changed") marks an action that unfolds mutually or turns back on the speaker.
+- 'Well and who do you think suits me right now?' Nikita quizzes eagerly whether the guest really thought this through.
+- 'Eleonora has a grown daughter, I found out today.' Emphasizing a grown daughter beside Nikita, the guest centers the thought on "vzroslaya" ("grown-up, adult", from "vzroslyy") without wasting a word.
+- 'Your peer, surely a girl with a good education.' The guest pushes back boldly facing Nikita, bringing things back to earth after the buildup.
+- 'I am having dinner here with them tonight, come join us.' The guest continues openly with a sigh, bringing things back to earth after the buildup.
+- 'Alright, dad, I will definitely come this evening!' Bringing up the dad with the guest, Nikita uses "obyazatelno" ("surely, without fail") to carry the main weight of the thought.

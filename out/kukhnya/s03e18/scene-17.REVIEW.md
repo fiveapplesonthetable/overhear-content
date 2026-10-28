@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Apparently, I made a big mistake today after all.' Vika replies boldly to settle things, before Max can change the subject.
-- 'I should not have come back here at all.' Vika weighs in warmly with Max, refusing to let the moment slip past.
-- 'What do you mean should not have? Of course you should have!' Max anchors one clear expression for Vika: "konechno" means "of course", and it carries the main weight of what Max is saying.
-- 'Everything here has stayed just the way it was.' Vika offers the reply without fuss: the "-sya" ending on "ostalos" ("was left") turns the action inward or makes it happen between people naturally.
-- 'Nobody in this restaurant has changed at all.' Vika reacts dryly with a nod, without trying to dress up how she really feels.
-- 'Why nobody? I, for example, have changed.' Max points to one pointed touch at once: "izmenilsya" means "have changed" (from "izmenitsya"), giving the line its exact edge.
-- 'During this time I gained two kilograms.' Max cuts in plainly facing Vika, testing Vika's reaction in the middle of the exchange.
-- 'So you will not be left without a job?' Vika prompts curiously if there is more going on behind the scenes.
-- 'Of course I will not, I have already learned everything.' Max focuses on one vivid expression in reply: "nauchilsya" means "learned" (from "nauchitsya"), giving the line its exact edge.
-- 'The main thing is that you smile and are happy.' Max grounds this sharp element with Vika: "schastliva" means "happy" (from "schastlivyy"), giving the line its exact edge.
-- 'So smile right now, Viktoriya Sergeyevna!' Max proceeds pointedly around Vika, letting the remark speak for itself.
-- 'Well now, do you still remember my name?' Vika anchors this vivid choice for Max: "yeshchyo" means "more, still", and it carries the main weight of what Vika is saying.
-- 'You mean Masha? Sorry, Marina, I mean Elvira!' Max puts that remark right away: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'Apparently, I made a big mistake today after all.' Vika reacts briskly at once and chooses "segodnya" ("today") so Max gets the point right away.
+- 'I should not have come back here at all.' Vika replies warmly with a shrug, testing Max's reaction in the middle of the exchange.
+- 'What do you mean should not have? Of course you should have!' Max replies briskly in the exchange and chooses "konechno" ("of course") so Vika gets the point right away.
+- 'Everything here has stayed just the way it was.' Replying warmly in this beat, the "-sya" ending on "ostalos" ("was left") marks an action that unfolds mutually or turns back on the speaker.
+- 'Nobody in this restaurant has changed at all.' Vika opens up dryly without a pause, to clear the air between them once and for all.
+- 'Why nobody? I, for example, have changed.' Max fires back sharply in this beat and chooses "izmenilsya" ("have changed", from the root "izmenitsya") so Vika hears the exact meaning.
+- 'During this time I gained two kilograms.' Addressing the kilograms in front of Vika, Max uses "kilogramma" ("kilograms", from "kilogramm") to make the point stick.
+- 'So you will not be left without a job?' Vika prompts curiously what Max is actually getting at here.
+- 'Of course I will not, I have already learned everything.' Max counters promptly around Vika and puts the weight on "nauchilsya" ("learned", from "nauchitsya") as the exchange unfolds.
+- 'The main thing is that you smile and are happy.' Max proceeds sharply with a shrug, shifting the mood of the conversation in a single beat.
+- 'So smile right now, Viktoriya Sergeyevna!' Max jumps in pointedly hearing Vika, letting the remark speak for itself.
+- 'Well now, do you still remember my name?' Emphasizing her name before Max, Vika leans on "yeshchyo" ("more, still") to give the whole sentence its punch.
+- 'You mean Masha? Sorry, Marina, I mean Elvira!' Turning to the sense right here, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.

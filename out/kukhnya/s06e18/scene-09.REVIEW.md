@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who is my future daughter-in-law kissing?' The guest inquires candidly in front of Denis without any preamble.
-- 'This is Denis, my first cousin.' Katya leans on this sharp term right here: "dvoyurodnyy" means "first cousin", and it carries the main weight of what Katya is saying.
-- 'And this is my Nikita's dad.' Katya aims this warning frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am also very pleased to meet you.' Denis replies firmly before Katya, testing Katya's reaction in the middle of the exchange.
-- 'Maybe we could have dinner together now?' The guest focuses on one loaded detail right here: "pouzhinayem" means "to have dinner" (from "pouzhinat"), giving the line its exact edge.
-- 'It will not work out, Denis is passing through.' Katya phrases this update right away: the "-sya" ending on "poluchitsya" ("will come out") turns the action inward or makes it happen between people naturally.
-- 'He has a plane this evening.' Katya reacts promptly with a nod, saying out loud what both of them already know.
-- 'Where are you headed, young man?' The guest focuses on one memorable detail toward Katya: "molodoy" means "young", and it carries the main weight of what the guest is saying.
-- 'I am flying to Japan today.' Denis stands firm calmly to be clear, watching the guest's face to see how the news lands.
-- 'He has a big concert tour there.' Katya follows up briskly hearing the guest, refusing to let the moment slip past.
-- 'Denis is a talented pianist of ours.' Katya stresses one clear choice on cue: "talantlivyy" means "talented", and it carries the main weight of what Katya is saying.
-- 'How tired I am of lying.' Denis responds lightly with a shrug, without trying to dress up how he really feels.
+- 'Who is my future daughter-in-law kissing?' The guest inquires candidly while looking straight at Katya here.
+- 'This is Denis, my first cousin.' Talking about the brother beside Denis, Katya uses "dvoyurodnyy" ("first cousin") to carry the main weight of the thought.
+- 'And this is my Nikita's dad.' Returning to the dad with Denis, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am also very pleased to meet you.' Denis proceeds openly on the spot, before Katya can change the subject.
+- 'Maybe we could have dinner together now?' The guest counters candidly at once and reaches for the Russian word "pouzhinayem" ("to have dinner", built from "pouzhinat") right at the center of the line.
+- 'It will not work out, Denis is passing through.' Addressing the through during the talk, Katya leans on "proyezdom" ("through", a form of "proyezd") to give the remark its edge.
+- 'He has a plane this evening.' Pointing to a plane with a sigh, Katya brings the exchange with the guest back to practical reality.
+- 'Where are you headed, young man?' Confirming how young things are in front of Denis, the guest lands on "molodoy" ("young") as the key everyday word here.
+- 'I am flying to Japan today.' Denis jumps in warmly at once and puts the emphasis on "segodnya" ("today") in the middle of the talk.
+- 'He has a big concert tour there.' Katya continues briskly in this moment, steering the talk right where she wants it.
+- 'Denis is a talented pianist of ours.' Emphasizing how talented things are in the exchange, Katya puts the emphasis on "talantlivyy" ("talented") in the middle of the talk.
+- 'How tired I am of lying.' Denis chimes in plainly in the exchange and puts the weight on "nadoyelo" ("has got boring", from "nadoyest") as the exchange unfolds.

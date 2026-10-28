@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are already stealing in front of everyone.' Fedya holds firm firmly without holding back, letting the remark speak for itself.
-- 'And what if they catch you right now?' Fedya anchors one key touch with Senya: "poymayut" means "catch" (from "poymat"), giving the line its exact edge.
-- 'I steal from the rich and give to the poor.' Senya stands firm openly with a nod, shifting the whole mood of the room in a single beat.
-- 'That is, you give it only to yourself.' Fedya stands firm earnestly with a nod, leaving no doubt about where he stands.
-- 'Alright, and where is the lamb fillet?' Lyova grounds this direct choice in earnest: "yagnyonka" means "lamb" (from "yagnyonok"), giving the line its exact edge.
-- 'Senya, have you not seen it?' Lyova states that thought calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'Why is Senya immediately to blame?' Fedya challenges wryly as Lyova tries to explain the situation.
-- 'I have not seen any fillet.' Senya focuses on this key touch with Lyova: "file" means "fillet", and it carries the main weight of what Senya is saying.
-- 'And why are you so nervous?' Lyova makes the comment with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
-- 'I am not nervous at all.' Senya holds firm evenly watching Lyova, making his position completely clear.
-- 'Why do you suspect me?' Senya emphasizes one classic element right here: "podozrevayesh" means "suspect" (from "podozrevat"), giving the line its exact edge.
-- 'Have you caught me even once?' Senya lays out the comment in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'I am forced to search you.' Lyova continues candidly without a pause, to clear the air between them once and for all.
+- 'You are already stealing in front of everyone.' Fedya answers firmly toward Senya, shifting the mood of the conversation in a single beat.
+- 'And what if they catch you right now?' Fedya reacts sharply right here and leans on "poymayut" ("catch", a form of "poymat") to give the remark its edge.
+- 'I steal from the rich and give to the poor.' Senya fires back warmly at once and lands on "bogatykh" ("rich", built on "bogatyy") to keep the statement grounded.
+- 'That is, you give it only to yourself.' Fedya speaks earnestly across the room, so Senya knows he is not just making small talk.
+- 'Alright, and where is the lamb fillet?' Discussing the lamb during the talk, Lyova lands on "yagnyonka" ("lamb", built on "yagnyonok") to keep the statement grounded.
+- 'Senya, have you not seen it?' Stepping in plainly to Senya, Lyova keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Why is Senya immediately to blame?' Fedya challenges wryly before Senya can change the subject.
+- 'I have not seen any fillet.' Turning to the fillet on the spot, Senya uses "file" ("fillet") to carry the main weight of the thought.
+- 'And why are you so nervous?' Reacting plainly around Senya, Lyova keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'I am not nervous at all.' Senya continues evenly with Lyova, keeping the focus on what actually matters here.
+- 'Why do you suspect me?' Senya counters smoothly in the exchange and puts the weight on "podozrevayesh" ("suspect", from "podozrevat") as the exchange unfolds.
+- 'Have you caught me even once?' Following up readily with Lyova, Senya keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'I am forced to search you.' Lyova chimes in candidly with a nod, making his position completely clear.

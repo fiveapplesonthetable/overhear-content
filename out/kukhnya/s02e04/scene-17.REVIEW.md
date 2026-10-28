@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In short.' Max lays out the reaction without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I told the truth.' Barinov holds firm openly in their talk, shifting the whole mood of the room in a single beat.
-- 'Or the truth.' Max anchors one sharp choice toward Barinov: "pravdy" means "truth" (from "pravda"), giving the line its exact edge.
-- 'Vitya was fired.' Max hands over that thought at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Ask me whether I regret that action?' Max asks bluntly whether Barinov really thought this through.
-- 'Would I have acted differently.' Barinov anchors one pointed choice toward Max: "postupil" means "acted" (from "postupit"), giving the line its exact edge.
-- 'And how would you have acted in my place?' Max puts the reply frankly here: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Your meat roll is done cooking.' Barinov responds right away without a pause, before Max can change the subject.
-- 'Well, yes.' Max shapes this update without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Well, the wait is finally over.' Barinov puts that line plainly here: the "-sya" ending on "dozhdalis" ("to wait for") turns the action inward or makes it happen between people naturally.
-- 'The signature meat roll by Valdemar Barani is ready.' Max replies dryly with a sigh, steering the talk right where he wants it.
-- 'And right now we are going to taste it.' Barinov picks one practical term in reply: "poprobuyem" means "try" (from "poprobovat"), giving the line its exact edge.
+- 'In short.' Jumping in directly on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I told the truth.' Barinov continues openly without holding back, letting the remark speak for itself.
+- 'Or the truth.' Emphasizing the truth to Barinov, Max leans on "pravdy" ("truth", a form of "pravda") to give the remark its edge.
+- 'Vitya was fired.' Looking over warmly in front of Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Ask me whether I regret that action?' Max asks bluntly before Barinov can change the subject.
+- 'Would I have acted differently.' Barinov chimes in openly in the exchange and puts the weight on "postupil" ("acted", from "postupit") as the exchange unfolds.
+- 'And how would you have acted in my place?' Pushing back readily with Barinov, Max puts the question word "kak" right at the start so Barinov hears the focus immediately.
+- 'Your meat roll is done cooking.' Barinov chimes in right away without a pause, shifting the mood of the conversation in a single beat.
+- 'Well, yes.' Reacting firmly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Well, the wait is finally over.' Pushing back directly at once, the "-sya" ending on "dozhdalis" ("to wait for") marks an action that unfolds mutually or turns back on the speaker.
+- 'The signature meat roll by Valdemar Barani is ready.' Max weighs in dryly in this moment, refusing to let the moment slip past.
+- 'And right now we are going to taste it.' Barinov speaks up plainly during the talk and lands on "poprobuyem" ("try", built on "poprobovat") to keep the statement grounded.

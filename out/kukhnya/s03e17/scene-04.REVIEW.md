@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Imagine, they carried off the entire safe.' Nagiyev chooses this telling term for Kristina: "voobshche" means "at all", and it carries the main weight of what Nagiyev is saying.
-- 'With all the money and everything inside.' Nagiyev counters at once without a pause, watching Max's face to see how the news lands.
-- 'Oh, what a difficult situation you have.' Max follows up candidly with a sigh, shifting the whole mood of the room in a single beat.
-- 'I sincerely sympathize with you, Dima.' Max sharpens one sharp choice in earnest: "sochuvstvuyu" means "sympathize" (from "sochuvstvovat"), giving the line its exact edge.
-- 'You will like my new purchase offer.' Max frames this clear expression on cue: "predlozheniye" means "offer, proposal", and it carries the main weight of what Max is saying.
+- 'Imagine, they carried off the entire safe.' Talking about the entire safe in this beat, Nagiyev puts the emphasis on "voobshche" ("at all") in the middle of the talk.
+- 'With all the money and everything inside.' Discussing the money beside Max, Nagiyev centers the thought on "dengami" ("the money, funding", from "dengi") without wasting a word.
+- 'Oh, what a difficult situation you have.' Max reacts candidly with a shrug, without trying to dress up how he really feels.
+- 'I sincerely sympathize with you, Dima.' Max pushes back evenly at once and leans on "sochuvstvuyu" ("sympathize", a form of "sochuvstvovat") to give the remark its edge.
+- 'You will like my new purchase offer.' Max responds candidly with a sigh, leaving no doubt about where he stands.
 - 'Why are you standing here listening?' Nagiyev tests skeptically whether Max really thought this through.
-- 'Go and do some work in the dining room.' Nagiyev reaches for this sharp choice on cue: "porabotay" means "work a bit" (from "porabotat"), giving the line its exact edge.
-- 'Stand calmly and smile nicely.' Nagiyev speaks up firmly toward Max, watching Max's face to see how the news lands.
-- 'Come on, go back to work quickly.' Nagiyev holds firm openly to be clear, letting the remark speak for itself.
-- 'That man offered Nagiyev to sell the restaurant.' Kristina emphasizes one colorful touch on cue: "predlozhil" means "suggested" (from "predlozhit"), giving the line its exact edge.
-- 'And what did our Nagiyev answer him?' Max hands over the comeback plainly here: putting the question word "chto" right at the front of the line lets Kristina hear the point of the question on the very first beat.
-- 'He just sent me back to work.' Kristina replies briskly with a shrug, shifting the whole mood of the room in a single beat.
+- 'Go and do some work in the dining room.' Bringing up the hall beside Max, Nagiyev puts the weight on "porabotay" ("work a bit", from "porabotat") as the exchange unfolds.
+- 'Stand calmly and smile nicely.' Nagiyev fires back readily on the spot and chooses "krasivo" ("beautifully", from the root "krasivyy") so Kristina hears the exact meaning.
+- 'Come on, go back to work quickly.' Nagiyev opens up openly in this moment, keeping the focus on what actually matters here.
+- 'That man offered Nagiyev to sell the restaurant.' Highlighting the restaurant on the spot, Kristina chooses "restoran" ("restaurant") so Nagiyev gets the point right away.
+- 'And what did our Nagiyev answer him?' Pressing on warmly at once, Max puts the question word "chto" right at the start so Nagiyev hears the focus immediately.
+- 'He just sent me back to work.' Kristina counters briskly around Max, keeping the focus on what actually matters here.

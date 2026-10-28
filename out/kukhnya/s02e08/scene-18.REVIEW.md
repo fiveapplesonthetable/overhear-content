@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I would even say they are a bit too healthy.' Max stands firm boldly to settle things, keeping the focus on what actually matters here.
-- 'That is what I am saying.' Vika features one familiar word with Max: "govoryu" means "am telling" (from "govorit"), giving the line its exact edge.
-- 'The cutlets are delicious.' Max gives this line in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'In any case, this is much better than killing animals.' Vika follows up evenly as they talk, before Max can change the subject.
-- 'It seems to me that nobody is killing anyone.' Max leans on one loaded expression in earnest: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'There is barely any meat left in sausage nowadays anyway.' Vika opens up quietly around Max, saying out loud what both of them already know.
-- 'Is that not right, Stepan Andreyevich?' Max challenges deadpan as Vika tries to explain the situation.
-- 'There are no chemicals in my sausage.' Vika points to one key detail in reply: "kolbase" means "sausage" (from "kolbasa"), giving the line its exact edge.
-- 'I make honest, good sausage.' Max directs that point at once: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Good only because it is made from the corpses of poor animals.' Vika responds candidly to settle things, leaving no doubt about where she stands.
-- 'People love meat!' Max chooses one memorable term in earnest: "lyubyat" means "love, like" (from "lyubit"), giving the line its exact edge.
-- 'I love meat!' Vika brings that point briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Your cabbage cutlets make me sick.' Max stands firm quietly with a smile, leaving no doubt about where he stands.
+- 'I would even say they are a bit too healthy.' Max counters boldly in this moment, before Vika can change the subject.
+- 'That is what I am saying.' Vika cuts in calmly with Max and chooses "govoryu" ("am telling", from the root "govorit") so Max hears the exact meaning.
+- 'The cutlets are delicious.' Confirming how tasty things are on the spot, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'In any case, this is much better than killing animals.' Vika chimes in evenly watching Max, refusing to let the moment slip past.
+- 'It seems to me that nobody is killing anyone.' Max continues candidly to Vika and chooses "kazhetsya" ("it seems, I think", from the root "kazatsya") so Vika hears the exact meaning.
+- 'There is barely any meat left in sausage nowadays anyway.' Emphasizing the sausage before Max, Vika brings in "kolbase-to" ("sausage", from "kolbasa") as the key Russian word here.
+- 'Is that not right, Stepan Andreyevich?' Max challenges deadpan before Vika can change the subject.
+- 'There are no chemicals in my sausage.' Focusing on her sausage before Max, Vika centers the thought on "kolbase" ("sausage", from "kolbasa") without wasting a word.
+- 'I make honest, good sausage.' Pushing back readily to Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Good only because it is made from the corpses of poor animals.' Vika pushes back candidly without any doubt, keeping the focus on what actually matters here.
+- 'People love meat!' Addressing the meat to Vika, Max uses "myaso" ("meat") to carry the main weight of the thought.
+- 'I love meat!' Pointing to the meat right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Your cabbage cutlets make me sick.' Max speaks up quietly with a sigh, testing Vika's reaction in the middle of the exchange.

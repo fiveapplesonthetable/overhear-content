@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, who is this Ilya?' Max checks openly in front of Sasha without any preamble.
-- 'Senya, go away, will you.' Sasha underscores this sharp piece for Senya: "uydi" means "go away, step inside" (from "uyti"), giving the line its exact edge.
-- 'It does not matter, he is my ex.' Senya shapes this update in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And how long ago did you break up?' Max prompts firmly how Senya expects that to work in practice.
-- 'Six months ago.' Sasha chooses one telling element at once: "polgoda" means "six months", and it carries the main weight of what Sasha is saying.
-- 'Oh, no, no, thank you.' Senya gives this statement in earnest: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'In a week I will have a talk with Sasha.' Max weighs in steadily watching Sasha, testing Sasha's reaction in the middle of the exchange.
-- 'Ah, speak of the devil.' Sasha hands over that reply around Senya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Dmitry Vladimirovich is busy right now.' Senya sends that point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Please wait for him right here.' Max speaks up sharply on the spot, keeping the focus on what actually matters here.
-- 'And what happens now?' Sasha centers one loaded expression in reply: "teper" means "now", and it carries the main weight of what Sasha is saying.
-- 'Wait, are you jealous?' Senya puts this statement with ease: putting the question word "chto" right at the front of the line lets Sasha hear the point of the question on the very first beat.
-- 'I am with you now.' Max replies decisively across the room, to clear the air between them once and for all.
+- 'So, who is this Ilya?' Max checks openly while looking straight at Sasha here.
+- 'Senya, go away, will you.' Sasha speaks boldly in the exchange and lands on "uydi" ("go away, step inside", built on "uyti") to keep the statement grounded.
+- 'It does not matter, he is my ex.' Noting how important he is right here, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And how long ago did you break up?' Max prompts firmly to see how Sasha will answer on the spot.
+- 'Six months ago.' Talking about the six months to Max, Sasha puts the emphasis on "polgoda" ("six months") in the middle of the talk.
+- 'Oh, no, no, thank you.' Senya directly voices this word of thanks to Sasha using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'In a week I will have a talk with Sasha.' Max weighs in steadily during the talk, so Senya knows he is not just making small talk.
+- 'Ah, speak of the devil.' Looking over promptly before Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Dmitry Vladimirovich is busy right now.' Pointing out how busy things are at once, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Please wait for him right here.' Max lightly delivers this courtesy word at this moment using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'And what happens now?' Holding firm dryly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Wait, are you jealous?' Turning calmly at once, Senya puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'I am with you now.' Max proceeds decisively in this moment, watching Senya's face to see how the news lands.

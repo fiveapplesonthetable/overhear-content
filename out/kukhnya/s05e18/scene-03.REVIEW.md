@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, tell us how everything went.' Fedya follows up at once before Lyova, saying out loud what both of them already know.
-- 'I walked up, and we chatted a little.' Lyova colors one pointed word toward Max: "podoshyol" means "to come up" (from "podoyti"), giving the line its exact edge.
-- 'You never actually spoke to her, did you?' Fedya gives this warning beside Lyova: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'Lyova, you need to act faster.' Fedya pushes back pointedly in this moment, keeping the focus on what actually matters here.
-- 'At least now I know what she likes.' Lyova reaches for one telling term for Fedya: "nravitsya" means "is pleasing", and it carries the main weight of what Lyova is saying.
-- 'Gulya really adores our pastries.' Lyova chimes in pointedly without holding back, testing Max's reaction in the middle of the exchange.
-- 'This is my present for her.' Lyova replies frankly beside Fedya, saying out loud what both of them already know.
-- 'Friends, welcome the happy new father!' Max leans on one pointed expression toward Lyova: "schastlivogo" means "happy" (from "schastlivyy"), giving the line its exact edge.
-- 'Tomorrow morning my girls are being discharged from the hospital.' Max speaks sharply with a sigh, bringing things back to earth after the buildup.
-- 'So I invite everyone to the discharge!' Max weighs in boldly across the room, grounding the moment in plain reality.
-- 'Oguzok, this is for you from the whole team.' Fedya stresses this sharp word right here: "kollektiva" means "collective" (from "kollektiv"), giving the line its exact edge.
-- 'Thank you so much, guys!' Max voices the comeback with candor: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Well, tell us how everything went.' Fedya cuts in at once with a nod, bringing things back to earth after the buildup.
+- 'I walked up, and we chatted a little.' Lyova opens up dryly in the exchange and puts the weight on "podoshyol" ("to come up", from "podoyti") as the exchange unfolds.
+- 'You never actually spoke to her, did you?' Holding firm plainly around Lyova, Fedya keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'Lyova, you need to act faster.' Fedya opens up pointedly during the talk, so Lyova knows he is not just making small talk.
+- 'At least now I know what she likes.' Lyova steps in openly in front of Fedya and puts the emphasis on "nravitsya" ("is pleasing") in the middle of the talk.
+- 'Gulya really adores our pastries.' Pointing to his pastries in this beat, Lyova reaches for the Russian word "pirozhnyye" ("pastries, cakes", built from "pirozhnoye") right at the center of the line.
+- 'This is my present for her.' Lyova fires back frankly across the room, shifting the mood of the conversation in a single beat.
+- 'Friends, welcome the happy new father!' Addressing the friends in this beat, Max uses "schastlivogo" ("happy", from "schastlivyy") to make the point stick.
+- 'Tomorrow morning my girls are being discharged from the hospital.' Focusing on his girls in the exchange, Max uses "devchonok" ("girls", from "devchonka") to make the point stick.
+- 'So I invite everyone to the discharge!' Max speaks boldly in their talk, bringing things back to earth after the buildup.
+- 'Oguzok, this is for you from the whole team.' Bringing up the collective in this beat, Fedya leans on "kollektiva" ("collective", a form of "kollektiv") to give the remark its edge.
+- 'Thank you so much, guys!' Max quietly directs this word of thanks beside Fedya using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

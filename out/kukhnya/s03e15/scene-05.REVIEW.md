@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Dad, why did you come here?' Nastya phrases that line with candor: opening with the casual greeting "privet" ("hi") signals right away that Nastya and the guest are on familiar terms.
-- 'I came to talk about the café that you chose for the wedding.' The guest answers candidly beside Nastya, bringing things back to earth after the buildup.
-- 'It is our wedding, we celebrate wherever we want!' Nastya anchors one direct term with the guest: "prazdnuyem" means "celebrate" (from "prazdnovat"), giving the line its exact edge.
-- 'Sweetheart, understand, a wedding is once in a lifetime.' The guest spotlights one sharp expression on cue: "dochka" means "dear, daughter", and it carries the main weight of what the guest is saying.
-- 'Well, or at most twice in a lifetime.' The guest weighs in lightly in their talk, without trying to dress up how he really feels.
-- 'I want the wedding to be in a luxurious restaurant!' The guest frames one classic term right here: "shikarnom" means "luxurious, swanky" (from "shikarnyy"), giving the line its exact edge.
-- 'So that you have an expensive and beautiful dress.' The guest aims this line before Nastya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'After all, all girls always want that!' The guest cuts in calmly with a smile, bringing things back to earth after the buildup.
-- 'I will be ashamed to invite my friends there.' The guest highlights one familiar word with Nastya: "priglasit" means "to invite", and it carries the main weight of what the guest is saying.
-- 'Let's rent at least your restaurant, I will pay for everything!' The guest sends this line around Nastya: the word "davayte" is the polite or group version of "let's", inviting Nastya into the plan right away.
-- 'Dad, we do not need your money at all!' Nastya pushes back promptly with the guest, bringing things back to earth after the buildup.
-- 'If you are ashamed, you do not have to come to our wedding at all!' Nastya points to this telling expression on cue: "prikhodit" means "to come, to walk in", and it carries the main weight of what Nastya is saying.
+- 'Hi, Dad, why did you come here?' Jumping in boldly around the guest, Nastya puts the question word "zachem" right at the start so the guest hears the focus immediately.
+- 'I came to talk about the café that you chose for the wedding.' The guest follows up candidly without holding back, letting the remark speak for itself.
+- 'It is our wedding, we celebrate wherever we want!' Emphasizing her wedding around the guest, Nastya uses "prazdnuyem" ("celebrate", from "prazdnovat") to make the point stick.
+- 'Sweetheart, understand, a wedding is once in a lifetime.' The guest pushes back steadily around Nastya, keeping the focus on what actually matters here.
+- 'Well, or at most twice in a lifetime.' The guest fires back lightly facing Nastya, leaving no doubt about where he stands.
+- 'I want the wedding to be in a luxurious restaurant!' Mentioning the wedding beside Nastya, the guest lands on "shikarnom" ("luxurious, swanky", built on "shikarnyy") to keep the statement grounded.
+- 'So that you have an expensive and beautiful dress.' Focusing on the dress during the talk, the guest uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'After all, all girls always want that!' The guest reacts calmly during the talk, shifting the mood of the conversation in a single beat.
+- 'I will be ashamed to invite my friends there.' Mentioning his friends around Nastya, the guest leans on "druzey" ("friends", a form of "drug") to give the remark its edge.
+- 'Let's rent at least your restaurant, I will pay for everything!' Bringing up the restaurant around Nastya, the guest uses the polite or group form "davayte" ("let's") to bring Nastya into the plan.
+- 'Dad, we do not need your money at all!' Nastya chimes in promptly facing the guest, making her position completely clear.
+- 'If you are ashamed, you do not have to come to our wedding at all!' Pointing to her wedding in the exchange, Nastya centers the thought on "svadbu" ("wedding", from "svadba") without wasting a word.

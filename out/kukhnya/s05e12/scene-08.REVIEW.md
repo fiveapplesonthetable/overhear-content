@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Arkady, what do you think, does this look like a surprise?' Barinov makes that answer plainly here: putting the question word "kak" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'Understood. We will think some more.' Barinov chimes in bluntly to settle things, keeping the focus on what actually matters here.
-- 'Chef! I wanted to bring you some tea.' Senya picks one practical word on cue: "prinesti" means "to bring, offer", and it carries the main weight of what Senya is saying.
-- 'Where is the tea? Get out!' Barinov frames the remark with ease: putting the question word "gde" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'Understood.' Senya cuts in pointedly beside Barinov, watching Barinov's face to see how the news lands.
-- 'I swear, the chef will propose to Elena today!' Senya uses this direct element right here: "predlozheniye" means "offer, proposal", and it carries the main weight of what Senya is saying.
-- 'I saw a ring box.' Senya replies at once without any doubt, grounding the moment in plain reality.
-- 'Anything could be in the little box!' Fedya weighs in bluntly hearing Senya, steering the talk right where he wants it.
-- 'A necklace, earrings, a chain.' Fedya anchors one sharp detail in reply: "tsepochka" means "chain", and it carries the main weight of what Fedya is saying.
-- 'Or a ring! I am serious.' Senya shapes the reply calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Want to bet that there is a ring in there?' Senya questions firmly before Barinov can change the subject.
-- 'Deal, to each of us!' Fedya sharpens this direct touch right here: "kazhdomu" means "each" (from "kazhdyy"), giving the line its exact edge.
+- 'Arkady, what do you think, does this look like a surprise?' Cutting in dryly in front of Senya, Barinov puts the question word "kak" right at the start so Senya hears the focus immediately.
+- 'Understood. We will think some more.' Barinov continues bluntly watching Senya, watching Senya's face to see how the news lands.
+- 'Chef! I wanted to bring you some tea.' Focusing on the tea during the talk, Senya puts the weight on "chayu" ("some tea", from "chay") as the exchange unfolds.
+- 'Where is the tea? Get out!' Returning to the tea in front of Senya, Barinov puts the question word "gde" right at the start so Senya hears the focus immediately.
+- 'Understood.' Senya responds plainly watching Barinov, refusing to let the moment slip past.
+- 'I swear, the chef will propose to Elena today!' Mentioning the offer before Barinov, Senya leans on "predlozheniye" ("offer, proposal") to give the whole sentence its punch.
+- 'I saw a ring box.' Bringing up a ring box at once, Senya chooses "korobochku" ("little box", from the root "korobochka") so Fedya hears the exact meaning.
+- 'Anything could be in the little box!' Fedya weighs in bluntly with a shrug, bringing things back to earth after the buildup.
+- 'A necklace, earrings, a chain.' Focusing on a chain to Senya, Fedya reaches for the Russian word "tsepochka" ("chain") right at the heart of the line.
+- 'Or a ring! I am serious.' Checking on a ring before Fedya, Senya leans on "seryozno" ("seriously"), which carries the whole predicate in Russian without needing "it is".
+- 'Want to bet that there is a ring in there?' Senya questions firmly before Fedya can change the subject.
+- 'Deal, to each of us!' Fedya replies quietly right here and chooses "davay" ("let's", from the root "davat") so Senya hears the exact meaning.

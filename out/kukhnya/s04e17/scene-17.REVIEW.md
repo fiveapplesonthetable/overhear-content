@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Doctor, what are you doing here in the evening?' Barinov drops the reply toward Eva: putting the question word "chto" right at the front of the line lets Eva hear the point of the question on the very first beat.
-- 'Do you arrange medical exams at home?' Barinov quizzes deadpan in front of Lyova without any preamble.
-- 'She paid me money for this!' Lyova spotlights one classic element right here: "zaplatila" means "to pay" (from "zaplatit"), giving the line its exact edge.
-- 'She asked me to say that she is pregnant.' Lyova continues boldly without any doubt, steering the talk right where he wants it.
-- 'Vitya, let him go, he is lying about everything!' Eva proceeds earnestly as they talk, shifting the whole mood of the room in a single beat.
-- 'No, I am not lying at all right now.' Lyova colors this sharp expression at once: "seychas" means "now", and it carries the main weight of what Lyova is saying.
-- 'I was lying back then at the morning exam.' Lyova weighs in promptly before Barinov, letting the remark speak for itself.
-- 'We are not having any child!' Barinov responds right away on the spot, saying out loud what both of them already know.
-- 'What do you mean there won't be, you coward!' Eva sharpens one colorful detail with Barinov: "trus" means "coward", and it carries the main weight of what Eva is saying.
-- 'Viktor Petrovich, will you let me go now?' Lyova phrases the remark with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Eva purely through rising pitch at the end.
-- 'Of course, get out of here and go home quickly!' Barinov reacts firmly in this moment, bringing things back to earth after the buildup.
-- 'Eva, you seriously need medical treatment.' Barinov underscores one sharp expression in earnest: "lechitsya" means "is treatable", and it carries the main weight of what Barinov is saying.
+- 'Doctor, what are you doing here in the evening?' Holding firm calmly in this beat, Barinov puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'Do you arrange medical exams at home?' Barinov quizzes deadpan how Lyova expects that to work in practice.
+- 'She paid me money for this!' Talking about the money in the exchange, Lyova centers the thought on "zaplatila" ("to pay", from "zaplatit") without wasting a word.
+- 'She asked me to say that she is pregnant.' Making clear how pregnant she is at once, Lyova reaches for the Russian word "beremenna" ("pregnant", built from "beremennyy") right at the center of the line.
+- 'Vitya, let him go, he is lying about everything!' Eva continues wryly during the talk, grounding the moment in plain reality.
+- 'No, I am not lying at all right now.' Lyova speaks up directly in this beat and uses "sovsem" ("at all") to carry the main weight of the thought.
+- 'I was lying back then at the morning exam.' Mentioning the morning exam on the spot, Lyova chooses "osmotre" ("exam") so Barinov gets the point right away.
+- 'We are not having any child!' Barinov reacts right away in their talk, steering the talk right where he wants it.
+- 'What do you mean there won't be, you coward!' Highlighting the coward around Barinov, Eva puts the emphasis on "trus" ("coward") in the middle of the talk.
+- 'Viktor Petrovich, will you let me go now?' Pressing on calmly before Barinov, Lyova keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Of course, get out of here and go home quickly!' Barinov warmly directs this confirmation in the exchange using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Eva, you seriously need medical treatment.' Barinov answers naturally in front of Eva and chooses "lechitsya" ("is treatable") so Eva gets the point right away.

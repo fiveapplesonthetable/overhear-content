@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, you already walk in here like it is your own home.' Mikhail brings that thought beside Barinov: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'I secretly took the keys from Lyova to check on you.' Gulya replies frankly with Mikhail, without trying to dress up how she really feels.
-- 'You checked on me, thank you very much, and now goodbye.' Mikhail grounds one direct element at once: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
-- 'Tell me honestly, did you go for an X-ray today?' Gulya aims the comment with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
-- 'Not yet, my neighbor Anna Petrovna is busy today.' Mikhail jumps in bluntly to be clear, saying out loud what both of them already know.
-- 'Alright, then get ready, I will take you there myself right now.' Gulya spotlights one concrete piece in earnest: "sobiraytes" means "to intend" (from "sobiratsya"), giving the line its exact edge.
-- 'Misha, I want to help you as a friend get rich with me.' Barinov underscores one key detail on cue: "razbogatet" means "to get rich", and it carries the main weight of what Barinov is saying.
-- 'Look, this is a real truth serum for that bookmaker.' Barinov jumps in openly with Mikhail, grounding the moment in plain reality.
-- 'I made it myself this morning from belladonna.' Barinov sharpens one vivid detail for Gulya: "belladonny" means "of belladonna" (from "belladonna"), giving the line its exact edge.
-- 'Viktor, does this serum of yours really work?' Mikhail voices this update calmly now: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
-- 'It works great, I just tested it on Senya.' Barinov reacts pointedly without holding back, before Gulya can change the subject.
-- 'Senya, tell me, Marina decides everything at your home, right?' Barinov stresses one classic element with Mikhail: "reshayet" means "decides" (from "reshat"), giving the line its exact edge.
+- 'Hello, you already walk in here like it is your own home.' Mikhail proceeds dryly watching Gulya, testing Gulya's reaction in the middle of the exchange.
+- 'I secretly took the keys from Lyova to check on you.' Gulya jumps in frankly without holding back, making her position completely clear.
+- 'You checked on me, thank you very much, and now goodbye.' Discussing the meeting with Gulya, Mikhail lands on "svidaniya" ("meeting", built on "svidaniye") to keep the statement grounded.
+- 'Tell me honestly, did you go for an X-ray today?' Speaking earnestly in this beat, Gulya keeps normal statement word order here, turning the line into a question for Mikhail purely through rising pitch.
+- 'Not yet, my neighbor Anna Petrovna is busy today.' Mikhail fires back bluntly on the spot, making his position completely clear.
+- 'Alright, then get ready, I will take you there myself right now.' Gulya responds plainly right here and reaches for the Russian word "sobiraytes" ("to intend", built from "sobiratsya") right at the center of the line.
+- 'Misha, I want to help you as a friend get rich with me.' Barinov replies pointedly in this moment, shifting the mood of the conversation in a single beat.
+- 'Look, this is a real truth serum for that bookmaker.' Bringing up the serum toward Gulya, Barinov keeps Gulya's attention locked on what matters.
+- 'I made it myself this morning from belladonna.' Turning to the belladonna around Mikhail, Barinov brings in "belladonny" ("of belladonna", from "belladonna") as the key Russian word here.
+- 'Viktor, does this serum of yours really work?' Mentioning the serum around Barinov, Mikhail leads with "neuzheli" ("can it really be that...?") to pack disbelief into the first beat.
+- 'It works great, I just tested it on Senya.' Barinov chimes in pointedly with Mikhail, without trying to dress up how he really feels.
+- 'Senya, tell me, Marina decides everything at your home, right?' Barinov continues calmly in this beat and brings in "reshayet" ("decides", from "reshat") as the key Russian word here.

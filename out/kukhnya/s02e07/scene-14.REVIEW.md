@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I honestly thought that you would refuse.' Kostya voices the remark facing Nastya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'And that phone call trick you came up with was brilliant.' Nastya weighs in candidly facing Kostya, steering the talk right where she wants it.
-- 'All right, I will be right there.' Kostya colors this direct choice in earnest: "khorosho" means "good, fine", and it carries the main weight of what Kostya is saying.
-- 'Are you really leaving already, huh?' Nastya directs that point with candor: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
+- 'I honestly thought that you would refuse.' Jumping in firmly during the talk, Kostya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'And that phone call trick you came up with was brilliant.' Nastya steps in candidly around Kostya, before Kostya can change the subject.
+- 'All right, I will be right there.' Kostya pushes back quietly right here and centers the remark on "khorosho" ("good, fine") without any extra fuss.
+- 'Are you really leaving already, huh?' Holding firm briskly with Kostya, Nastya leads with "neuzheli" ("can it really be that...?") to pack disbelief into the first beat.
 - 'What happened?' Kostya prompts sharply while looking straight at Nastya here.
-- 'Yes, they are urgently calling me in to work.' Nastya colors one pointed piece on cue: "vyzyvayet" means "raises, causes" (from "vyzyvat"), giving the line its exact edge.
-- 'Well then, tomorrow at the same place?' Kostya puts this point toward Nastya: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'At the exact same time?' Nastya presses promptly in front of Kostya without any preamble.
-- 'Well, see you tomorrow.' Kostya frames one sharp detail toward Nastya: "zavtra" means "tomorrow", and it carries the main weight of what Kostya is saying.
-- 'Thank you for the company.' Nastya states that point frankly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'All right, let us make a deal.' Kostya pushes back earnestly without holding back, without trying to dress up how he really feels.
-- 'From this moment on, no more sports.' Nastya colors one memorable detail with Kostya: "momenta" means "moment" (from "moment"), giving the line its exact edge.
-- 'I could not be happier to agree.' Nastya continues lightly to settle things, so Kostya knows she is not just making small talk.
+- 'Yes, they are urgently calling me in to work.' Emphasizing the job in the exchange, Nastya reaches for the Russian word "vyzyvayet" ("raises, causes", built from "vyzyvat") right at the center of the line.
+- 'Well then, tomorrow at the same place?' Holding firm dryly on the spot, Kostya puts the question word "chto" right at the start so Nastya hears the focus immediately.
+- 'At the exact same time?' Nastya presses promptly to see how Kostya will answer on the spot.
+- 'Well, see you tomorrow.' Kostya responds naturally at once and uses "zavtra" ("tomorrow") to carry the main weight of the thought.
+- 'Thank you for the company.' Nastya readily gives this word of thanks with Kostya using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'All right, let us make a deal.' Kostya naturally sends this word of agreement right on cue using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'From this moment on, no more sports.' Focusing on the moment at once, Nastya leans on "momenta" ("moment", a form of "moment") to give the remark its edge.
+- 'I could not be happier to agree.' Nastya chimes in smoothly during the talk and reaches for the Russian word "rada" ("glad") right at the heart of the line.

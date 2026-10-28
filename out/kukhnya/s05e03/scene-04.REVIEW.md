@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tomorrow the chef must be on sick leave.' Eleonora focuses on this direct touch in earnest: "bolnichnom" means "sick leave" (from "bolnichnyy"), giving the line its exact edge.
-- 'Just call and tell him.' Eleonora directs this statement briskly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Let their chef stay at home.' Eleonora replies promptly across the room, letting the remark speak for itself.
-- 'Victor Petrovich, what happened?' Senya uses one loaded piece in earnest: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'Oh, just one small trifle.' Barinov follows up wryly hearing Eleonora, watching Eleonora's face to see how the news lands.
-- 'My ex-wife is the owner of this hotel.' Barinov responds decisively in their talk, making his position completely clear.
-- 'Chef, everything will be fine.' Senya uses one sharp choice at once: "khorosho" means "good, fine", and it carries the main weight of what Senya is saying.
-- 'Right now we will say goodbye, have a drink, and all will be fine.' Barinov states the thought at once: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'We came here following you, after all!' Senya proceeds candidly with a nod, saying out loud what both of them already know.
-- 'Do not be afraid, you will manage on your own.' Barinov underscores one key detail with Senya: "spravites" means "will manage" (from "spravitsya"), giving the line its exact edge.
-- 'She will kick us out to humiliate you.' Senya focuses on one telling piece at once: "vygonit" means "will kick out" (from "vygnat"), giving the line its exact edge.
-- 'Nobody here will touch you.' Barinov jumps in honestly hearing Senya, watching Senya's face to see how the news lands.
-- 'And I recently took out a big loan.' Senya highlights one memorable term in reply: "bolshoy" means "big", and it carries the main weight of what Senya is saying.
-- 'Now I will have to return my wife's fur coat.' Senya frames that thought beside Eleonora: the "-sya" ending on "pridyotsya" ("you'll have to") turns the action inward or makes it happen between people naturally.
+- 'Tomorrow the chef must be on sick leave.' Turning to the sick leave right here, Eleonora chooses "bolnichnom" ("sick leave", from the root "bolnichnyy") so Barinov hears the exact meaning.
+- 'Just call and tell him.' Pushing back readily in the exchange, Eleonora uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Let their chef stay at home.' Eleonora speaks up decisively across the room, steering the talk right where she wants it.
+- 'Victor Petrovich, what happened?' Senya continues readily in front of Barinov and centers the thought on "sluchilos" ("happened", from "sluchitsya") without wasting a word.
+- 'Oh, just one small trifle.' Pointing to the trifle with Senya, Barinov reaches for the Russian word "malenkaya" ("small", built from "malenkiy") right at the center of the line.
+- 'My ex-wife is the owner of this hotel.' Bringing up the landlady without any doubt, Barinov keeps Senya's attention locked on what matters.
+- 'Chef, everything will be fine.' Senya weighs in boldly in front of Barinov and leans on "khorosho" ("good, fine") to give the whole sentence its punch.
+- 'Right now we will say goodbye, have a drink, and all will be fine.' Pushing back frankly to Senya, the "-sya" ending on "poproshchayemsya" ("we will say goodbye") marks an action that unfolds mutually or turns back on the speaker.
+- 'We came here following you, after all!' Senya counters candidly with Barinov, making his position completely clear.
+- 'Do not be afraid, you will manage on your own.' Barinov continues vividly during the talk and puts the weight on "spravites" ("will manage", from "spravitsya") as the exchange unfolds.
+- 'She will kick us out to humiliate you.' Senya continues briskly toward Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Nobody here will touch you.' Barinov proceeds honestly during the talk, without trying to dress up how he really feels.
+- 'And I recently took out a big loan.' Mentioning a big loan in front of Barinov, Senya reaches for the Russian word "bolshoy" ("big") right at the heart of the line.
+- 'Now I will have to return my wife's fur coat.' Returning to the fur coat before Barinov, the "-sya" ending on "pridyotsya" ("you'll have to") marks an action that unfolds mutually or turns back on the speaker.

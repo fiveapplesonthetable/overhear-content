@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Maybe you will help me win her over?' Nagiyev probes wryly to see how Max will answer on the spot.
-- 'I will help you?' Max leans on this sharp detail toward Nagiyev: "pomogu" means "I'll help" (from "pomoch"), giving the line its exact edge.
-- 'After all, you two once had love.' Nagiyev sends this point at once: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Tell me what she likes.' Nagiyev weighs in firmly without holding back, so Max knows he is not just making small talk.
-- 'Where she goes, and where she does not.' Nagiyev grounds this vivid touch in reply: "khodit" means "walks", and it carries the main weight of what Nagiyev is saying.
-- 'You will not need that anymore.' Nagiyev phrases this statement before Max: the "-sya" ending on "ponadobitsya" ("to be needed") turns the action inward or makes it happen between people naturally.
-- 'No, I do not mean that at all.' Max continues at once on the spot, grounding the moment in plain reality.
-- 'Vika loves only expensive gifts and jewelry.' Max chooses this sharp touch right here: "ukrasheniya" means "decoration" (from "ukrasheniye"), giving the line its exact edge.
-- 'I cannot afford that for myself.' Max pushes back earnestly facing Nagiyev, letting the remark speak for itself.
-- 'That is why we broke up.' Max holds firm evenly as things stand, without trying to dress up how he really feels.
-- 'Think whether you need a second Kristina.' Max reaches for one familiar choice on cue: "podumayte" means "think" (from "podumat"), giving the line its exact edge.
-- 'Thank you very much for the advice.' Nagiyev aims this line on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'I will help you?' Max pushes back candidly beside Nagiyev and centers the thought on "pomogu" ("I'll help", from "pomoch") without wasting a word.
+- 'After all, you two once had love.' Nagiyev chimes in calmly with a smile, without trying to dress up how he really feels.
+- 'Tell me what she likes.' Nagiyev steps in firmly with a smile, leaving no doubt about where he stands.
+- 'Where she goes, and where she does not.' Nagiyev steps in sharply before Max and puts the emphasis on "khodit" ("walks") in the middle of the talk.
+- 'You will not need that anymore.' Pressing on quietly with Max, the "-sya" ending on "ponadobitsya" ("to be needed") marks an action that unfolds mutually or turns back on the speaker.
+- 'No, I do not mean that at all.' Max answers at once facing Nagiyev, steering the talk right where he wants it.
+- 'Vika loves only expensive gifts and jewelry.' Talking about the decoration in the exchange, Max reaches for the Russian word "ukrasheniya" ("decoration", built from "ukrasheniye") right at the center of the line.
+- 'I cannot afford that for myself.' Max follows up decisively during the talk and leans on "pozvolit" ("afford, allow") to give the whole sentence its punch.
+- 'That is why we broke up.' Max pushes back evenly watching Nagiyev, without trying to dress up how he really feels.
+- 'Think whether you need a second Kristina.' Max opens up firmly around Nagiyev and chooses "vtoraya" ("second", from the root "vtoroy") so Nagiyev hears the exact meaning.
+- 'Thank you very much for the advice.' Nagiyev pushes back at once with a smile, shifting the mood of the conversation in a single beat.

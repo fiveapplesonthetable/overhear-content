@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's go carefully, breathe deeply right now.' The doctor sends this warning on cue: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
-- 'Max, do not leave, I am very scared.' Vika speaks lightly to be clear, letting the remark speak for itself.
-- 'He can stay, come on, breathe deeply.' The doctor emphasizes one vivid touch at once: "ostatsya" means "to remain, to be left", and it carries the main weight of what the doctor is saying.
-- 'Critical situations test our feelings.' Max weighs in boldly hearing Vika, grounding the moment in plain reality.
-- 'To some they say that the experiment should end.' Max weighs in candidly before the doctor, saying out loud what both of them already know.
-- 'To others they show that they are on the right path.' Max frames this sharp expression on cue: "drugim" means "other" (from "drugoy"), giving the line its exact edge.
-- 'And the main discovery still lies ahead.' Max steps in bluntly before the doctor, saying out loud what both of them already know.
-- 'And our main result is a new life.' Max chimes in firmly with a sigh, before Vika can change the subject.
-- 'Look how beautiful she is.' Vika chooses one loaded touch at once: "krasivaya" means "pretty, beautiful" (from "krasivyy"), giving the line its exact edge.
-- 'What will you and I name her?' Max offers this answer plainly here: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Did you say we will name her together?' Vika checks wryly what the doctor is actually getting at here.
-- 'This is our child, thank you, my darling.' Max features this direct term right here: "rebyonok" means "a child", and it carries the main weight of what Max is saying.
+- 'Let's go carefully, breathe deeply right now.' Looking over firmly right here, the doctor uses the polite or group form "davayte" ("let's") to bring Vika into the plan.
+- 'Max, do not leave, I am very scared.' Vika proceeds lightly without holding back, refusing to let the moment slip past.
+- 'He can stay, come on, breathe deeply.' The doctor jumps in plainly with Vika and chooses "ostatsya" ("to remain, to be left") so Vika gets the point right away.
+- 'Critical situations test our feelings.' Bringing up the situation during the talk, Max centers the thought on "kriticheskiye" ("critical", from "kriticheskiy") without wasting a word.
+- 'To some they say that the experiment should end.' Max speaks candidly with the doctor, leaving no doubt about where he stands.
+- 'To others they show that they are on the right path.' Showing how faithful things are in this beat, Max uses "vernom" ("faithful, true", from "vernyy") to make the point stick.
+- 'And the main discovery still lies ahead.' Highlighting the main discovery in this beat, Max chooses "issledovaniye" ("discovery") so Vika gets the point right away.
+- 'And our main result is a new life.' Max pushes back firmly hearing Vika, keeping the focus on what actually matters here.
+- 'Look how beautiful she is.' Insisting on how pretty she is in front of Max, Vika reaches for the Russian word "krasivaya" ("pretty, beautiful", built from "krasivyy") right at the center of the line.
+- 'What will you and I name her?' Holding firm openly in this beat, Max puts the question word "kak" right at the start so Vika hears the focus immediately.
+- 'Did you say we will name her together?' Vika checks wryly if there is more going on behind the scenes.
+- 'This is our child, thank you, my darling.' Turning to his child during the talk, Max chooses "rebyonok" ("a child") so Vika gets the point right away.

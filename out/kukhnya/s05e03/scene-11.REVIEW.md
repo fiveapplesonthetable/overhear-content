@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today is a scheduled check for alcohol.' Mikhail shapes this warning with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Listen, drink a little olive oil.' Barinov reacts right away with a nod, leaving no doubt about where he stands.
-- 'It always helps wonderfully.' Barinov anchors this direct element for Gulya: "pomogayet" means "helps" (from "pomogat"), giving the line its exact edge.
-- 'Now you, go ahead and blow.' Mikhail phrases that answer right away: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'And what is going on here with you?' Barinov challenges skeptically where this conversation is heading next.
-- 'This is a new order from management.' Mikhail colors one sharp word with Gulya: "rasporyazheniye" means "order", and it carries the main weight of what Mikhail is saying.
-- 'Well, if management ordered us.' Barinov cuts in dryly without holding back, letting the remark speak for itself.
-- 'Mikhail, show us a personal example.' Barinov opens up dryly in their talk, refusing to let the moment slip past.
-- 'Blow into this tube yourself.' Barinov features this vivid detail toward Gulya: "trubochku" means "breathalyzer tube" (from "trubochka"), giving the line its exact edge.
-- 'And I already blew today.' Mikhail answers at once across the room, leaving no doubt about where he stands.
-- 'I still have to inspect the whole hotel.' Mikhail continues sharply with Barinov, without trying to dress up how he really feels.
-- 'Has anyone seen where all the carts are?' Gulya frames one sharp detail at once: "telezhki" means "carts, trolleys" (from "telezhka"), giving the line its exact edge.
-- 'Denis, can you help me, please?' Gulya makes that reply calmly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Thank you, here is the key card for you.' Gulya steps in calmly toward Mikhail, without trying to dress up how she really feels.
+- 'Today is a scheduled check for alcohol.' Highlighting how scheduled things are right here, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Listen, drink a little olive oil.' Barinov answers right away without a pause, making his position completely clear.
+- 'It always helps wonderfully.' Barinov speaks promptly during the talk and uses "pomogayet" ("helps", from "pomogat") to make the point stick.
+- 'Now you, go ahead and blow.' Pressing on openly in the exchange, Mikhail starts with "davay" ("come on, let's") to invite Barinov right into the action.
+- 'And what is going on here with you?' Barinov challenges skeptically why things suddenly took this turn between them.
+- 'This is a new order from management.' Pointing to a new order at once, Mikhail reaches for the Russian word "rasporyazheniye" ("order") right at the heart of the line.
+- 'Well, if management ordered us.' Focusing on the management with Mikhail, Barinov leans on "nachalstvo" ("management") to give the whole sentence its punch.
+- 'Mikhail, show us a personal example.' Barinov pushes back dryly hearing Mikhail, bringing things back to earth after the buildup.
+- 'Blow into this tube yourself.' Highlighting the breathalyzer tube right here, Barinov puts the weight on "trubochku" ("breathalyzer tube", from "trubochka") as the exchange unfolds.
+- 'And I already blew today.' Mikhail answers pointedly in front of Barinov and uses "segodnya" ("today") to carry the main weight of the thought.
+- 'I still have to inspect the whole hotel.' Mikhail pushes back sharply watching Gulya, refusing to let the moment slip past.
+- 'Has anyone seen where all the carts are?' Bringing up the carts at once, Gulya centers the thought on "telezhki" ("carts, trolleys", from "telezhka") without wasting a word.
+- 'Denis, can you help me, please?' Cutting in openly to Mikhail, Gulya keeps normal statement word order here, turning the line into a question for Mikhail purely through rising pitch.
+- 'Thank you, here is the key card for you.' Gulya naturally shares this word of thanks right on cue using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

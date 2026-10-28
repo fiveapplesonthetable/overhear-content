@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, I do not understand you at all today.' Elena features one clear choice at once: "segodnya" means "today", and it carries the main weight of what Elena is saying.
-- 'For what sake did you stage this whole performance?' Elena sends that point frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'Vitya, I do not understand you at all today.' Elena speaks up plainly in the exchange and centers the remark on "segodnya" ("today") without any extra fuss.
+- 'For what sake did you stage this whole performance?' Reacting frankly in this beat, Elena keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
 - 'Just to flatter your own pride?' Elena inquires evenly before Barinov can change the subject.
-- 'And what was I supposed to do with him?' Barinov reaches for one direct word in reply: "dolzhen" means "has to, must", and it carries the main weight of what Barinov is saying.
-- 'You should have simply told him the truth.' Elena phrases this statement briskly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Say that I am just a regular cook here now?' Barinov prompts eagerly whether the guest really thought this through.
-- 'Yes, at least tell that simple truth.' Elena highlights one colorful touch toward Barinov: "prostuyu" means "simple, ordinary" (from "prostoy"), giving the line its exact edge.
-- 'Fine, I will go right now and tell him everything!' Barinov brings this line without pause: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that the guest is on board.
-- 'Vitya, I see things are going well for you!' The guest replies evenly with a shrug, steering the talk right where he wants it.
-- 'Volodya, that is just what I wanted to tell you about.' Barinov grounds this key term right here: "volodya" means "volodya", and it carries the main weight of what Barinov is saying.
-- 'In fact I am not the head chef here at all...' Barinov sends the reaction with ease: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Chef, excuse me, you accidentally dropped your handkerchief in the kitchen.' Elena holds firm frankly with a shrug, watching the guest's face to see how the news lands.
-- 'Thank you very much, Elena Pavlovna.' Barinov underscores one key element for Elena: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'And what was I supposed to do with him?' Barinov counters promptly with Elena and puts the emphasis on "dolzhen" ("has to, must") in the middle of the talk.
+- 'You should have simply told him the truth.' Addressing the truth to Barinov, Elena uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Say that I am just a regular cook here now?' Barinov prompts eagerly where this conversation is heading next.
+- 'Yes, at least tell that simple truth.' Touching on the truth with Barinov, Elena puts the weight on "prostuyu" ("simple, ordinary", from "prostoy") as the exchange unfolds.
+- 'Fine, I will go right now and tell him everything!' Barinov cuts in dryly around Elena and leans on "skazhu" ("I'll tell", a form of "skazat") to give the remark its edge.
+- 'Vitya, I see things are going well for you!' The guest speaks up evenly watching Barinov, before Barinov can change the subject.
+- 'Volodya, that is just what I wanted to tell you about.' Barinov proceeds openly with the guest and lands on "volodya" ("volodya") as the key everyday word here.
+- 'In fact I am not the head chef here at all...' Bringing up the case with Elena, Barinov adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Chef, excuse me, you accidentally dropped your handkerchief in the kitchen.' Elena reacts frankly without any doubt, keeping the focus on what actually matters here.
+- 'Thank you very much, Elena Pavlovna.' Barinov firmly shares this word of thanks with Elena using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

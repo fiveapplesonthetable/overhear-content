@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And who am I in the script?' Nagiyev challenges curiously in front of Denis without any preamble.
-- 'Fine, it is lunch now, have a little bite.' Nagiyev grounds one vivid detail right here: "perekusite" means "you will have a snack" (from "perekusit"), giving the line its exact edge.
-- 'Everything is fine, just learn the lines, okay?' Nagiyev shapes that line around Denis: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Go on, go learn the words.' Nagiyev speaks at once without any doubt, grounding the moment in plain reality.
-- 'Listen, it is boring to play just like this.' Nikita favors one familiar word in earnest: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
-- 'Maybe we should make a bet and play for money?' Nikita drops that point briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'But where would you get money, let's do it this way.' Nikita steps in pointedly in this moment, leaving no doubt about where he stands.
-- 'If you win, I will not get in the way of you and Katya anymore.' Nikita colors one clear touch on cue: "vyigrayesh" means "will win" (from "vyigrat"), giving the line its exact edge.
-- 'And if I win, then you walk away.' Nikita features one clear detail with Denis: "vyigrayu" means "will win" (from "vyigrat"), giving the line its exact edge.
-- 'You will not get in the way of Katya and me anyway.' Denis weighs in quietly without any doubt, grounding the moment in plain reality.
-- 'Well, do you agree?' Nikita emphasizes one familiar element on cue: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.
-- 'Let's do it, deal!' Denis aims that reply with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'And who am I in the script?' Nagiyev challenges curiously how Nikita expects that to work in practice.
+- 'Fine, it is lunch now, have a little bite.' Nagiyev promptly drops this word of agreement while facing Nikita using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Everything is fine, just learn the lines, okay?' Turning to the text to Nikita, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Go on, go learn the words.' Nagiyev weighs in at once hearing Nikita, so Nikita knows he is not just making small talk.
+- 'Listen, it is boring to play just like this.' Nikita answers boldly before Nagiyev and chooses "slushay" ("listen", from the root "slushat") so Nagiyev hears the exact meaning.
+- 'Maybe we should make a bet and play for money?' Talking about a bet beside Nagiyev, Nikita keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'But where would you get money, let's do it this way.' Nikita jumps in pointedly in their talk, leaving no doubt about where he stands.
+- 'If you win, I will not get in the way of you and Katya anymore.' Nikita reacts readily in this beat and centers the thought on "vyigrayesh" ("will win", from "vyigrat") without wasting a word.
+- 'And if I win, then you walk away.' Nikita opens up quietly on the spot, shifting the mood of the conversation in a single beat.
+- 'You will not get in the way of Katya and me anyway.' Denis counters quietly watching Nikita, keeping the focus on what actually matters here.
+- 'Well, do you agree?' Nikita pushes back dryly around Denis and uses "soglasen" ("agreed", from "soglasnyy") to make the point stick.
+- 'Let's do it, deal!' Returning to the hand on the spot, Denis starts with "davay" ("come on, let's") to invite Nikita right into the action.

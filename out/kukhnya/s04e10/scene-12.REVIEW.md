@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Barricade the doors, let's stick together!' Vika stands firm briskly toward Max, bringing things back to earth after the buildup.
-- 'Vika, what did you hit me for?' Max picks this key detail in earnest: "udarila" means "to hit, to strike" (from "udarit"), giving the line its exact edge.
-- 'Oh, Max, forgive me.' Vika lays out that answer toward Max: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'Vika, I am not a zombie at all!' Max cuts in openly as things stand, watching Vika's face to see how the news lands.
-- 'I am simply tired of your lying.' Vika features one loaded detail with Max: "vranya" means "lying", and it carries the main weight of what Vika is saying.
-- 'Why are you looking at me like that?' Senya sends this update right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'It is only just a finger.' Senya responds boldly on the spot, before Max can change the subject.
-- 'I will chop it off quickly right now.' Senya uses this telling element right here: "otrublyu" means "right" (from "otrublya"), giving the line its exact edge.
-- 'Right now I am definitely going to chop.' Senya delivers the comment facing Max: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Yes, I am almost chopping it already.' Senya answers warmly to settle things, steering the talk right where he wants it.
-- 'Senya, you will not be able to do that.' Max centers one vivid detail for Senya: "smozhesh" means "will you be able" (from "smoch"), giving the line its exact edge.
-- 'Lower the big knife, Senya.' Vika directs that line with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Barricade the doors, let's stick together!' Vika fires back briskly with a nod, letting the remark speak for itself.
+- 'Vika, what did you hit me for?' Max chimes in frankly around Vika and reaches for the Russian word "udarila" ("to hit, to strike", built from "udarit") right at the center of the line.
+- 'Oh, Max, forgive me.' Vika gently sends this personal apology beside Max using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'Vika, I am not a zombie at all!' Max answers openly beside Vika, keeping the focus on what actually matters here.
+- 'I am simply tired of your lying.' Underscoring the lying in front of Max, Vika puts the emphasis on "vranya" ("lying") in the middle of the talk.
+- 'Why are you looking at me like that?' Leaning in directly around Vika, Senya keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'It is only just a finger.' Senya cuts in boldly without any doubt, shifting the mood of the conversation in a single beat.
+- 'I will chop it off quickly right now.' Touching on the right in this beat, Senya brings in "otrublyu" ("right", from "otrublya") as the key Russian word here.
+- 'Right now I am definitely going to chop.' Senya fires back firmly on the spot and centers the remark on "tochno" ("definitely") without any extra fuss.
+- 'Yes, I am almost chopping it already.' Senya continues warmly with a shrug, leaving no doubt about where he stands.
+- 'Senya, you will not be able to do that.' Max jumps in naturally on the spot and leans on "smozhesh" ("will you be able", a form of "smoch") to give the remark its edge.
+- 'Lower the big knife, Senya.' Turning to the big knife right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

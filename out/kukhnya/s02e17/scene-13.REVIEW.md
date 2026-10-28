@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, that is him.' Max aims that remark toward Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And that is why I urgently need to run right now.' Kostya frames this warning with ease: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'To friendship?' Sasha checks sharply while looking straight at Kostya here.
-- 'Max, speaking of Max, do you have a conscience at all?' Kostya reaches for this sharp word toward Sasha: "vspomnil" means "remembered" (from "vspomnit"), giving the line its exact edge.
-- 'I do not know how all of this is going to play out.' Kostya continues bluntly with a shrug, watching Max's face to see how the news lands.
-- 'You should have drunk less, that is how it happened.' Sasha fires back firmly with a smile, watching Max's face to see how the news lands.
-- 'In short, I cannot take this anymore.' Max favors this telling word on cue: "koroche" means "long story short", and it carries the main weight of what Max is saying.
-- 'I am going to tell Max everything.' Kostya hands over that line right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'What, another coincidence?' Sasha prompts quietly why things suddenly took this turn between them.
-- 'Sasha, Max deserves to know the truth.' Kostya anchors this clear touch for Sasha: "dolzhen" means "has to, must", and it carries the main weight of what Kostya is saying.
-- 'I am going to tell him everything about us.' Kostya continues promptly beside Max, keeping the focus on what actually matters here.
-- 'What are you doing in here?' Sasha asks curiously about what Max just brought up.
-- 'And wearing her socks, too.' Max underscores one pointed word with Kostya: "noski" means "socks", and it carries the main weight of what Max is saying.
+- 'Yes, that is him.' Reacting evenly before Kostya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And that is why I urgently need to run right now.' Cutting in promptly right here, Kostya leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'To friendship?' Sasha checks sharply what Kostya is actually getting at here.
+- 'Max, speaking of Max, do you have a conscience at all?' Mentioning a conscience beside Max, Kostya uses "sovest" ("conscience") to carry the main weight of the thought.
+- 'I do not know how all of this is going to play out.' Kostya reacts evenly beside Sasha and uses "proizoydet" ("to happen", from "proizoyti") to make the point stick.
+- 'You should have drunk less, that is how it happened.' Sasha weighs in firmly watching Kostya, leaving no doubt about where she stands.
+- 'In short, I cannot take this anymore.' Max continues frankly beside Sasha and centers the remark on "koroche" ("long story short") without any extra fuss.
+- 'I am going to tell Max everything.' Holding firm naturally during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'What, another coincidence?' Sasha prompts quietly before Kostya can change the subject.
+- 'Sasha, Max deserves to know the truth.' Focusing on the truth in front of Max, Kostya lands on "dolzhen" ("has to, must") as the key everyday word here.
+- 'I am going to tell him everything about us.' Kostya responds pointedly beside Sasha and brings in "rasskazhu" ("will tell", from "rasskazat") as the key Russian word here.
+- 'What are you doing in here?' Sasha asks curiously whether Max really thought this through.
+- 'And wearing her socks, too.' Emphasizing the socks in this beat, Max uses "noski" ("socks") to carry the main weight of the thought.

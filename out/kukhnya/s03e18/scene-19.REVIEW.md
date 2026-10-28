@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What? How did she stand up for me in front of you?' Barinov picks one familiar expression in earnest: "otstaivala" means "defended, stood up for" (from "otstaivat"), giving the line its exact edge.
-- 'We were going to open a German beer restaurant here.' The inspector reacts quietly beside Max, before Max can change the subject.
-- 'We invited Viktoriya Sergeyevna to work with us.' The inspector chimes in wryly toward Barinov, letting the remark speak for itself.
-- 'She agreed to work on only one condition.' The inspector features this direct piece in reply: "soglasilas" means "to agree" (from "soglasitsya"), giving the line its exact edge.
-- 'Tell me, on what condition was that?' Barinov frames this answer around the inspector: Russian keeps the exact word order of a normal statement here, turning it into a question for the inspector purely through rising pitch at the end.
-- 'To keep this restaurant French and retain all the staff.' The inspector reacts plainly as they talk, without trying to dress up how he really feels.
-- 'Did she ask on her own to leave everything as it is?' Barinov highlights one key element on cue: "poprosila" means "asked" (from "poprosit"), giving the line its exact edge.
-- 'Yes, and she also negotiated a good bonus for you.' The inspector anchors one telling element toward Max: "khoroshiy" means "good", and it carries the main weight of what the inspector is saying.
-- 'But now I see nothing will work out for her.' The inspector answers dryly as they talk, testing Barinov's reaction in the middle of the exchange.
-- 'Sometimes everything can change in a single second.' Max grounds one clear word in earnest: "pomenyatsya" means "to swap, to trade", and it carries the main weight of what Max is saying.
-- 'A man with a suitcase can easily change his mind and stay.' Max directs this statement to Barinov: the single Russian word "legko" ("it is easy") sets up the whole statement without needing a separate word for "it is".
-- 'For someone, the main thing is to take the right step in time.' Max pushes back briskly with a sigh, before the inspector can change the subject.
+- 'What? How did she stand up for me in front of you?' Barinov cuts in promptly with the inspector and lands on "otstaivala" ("defended, stood up for", built on "otstaivat") to keep the statement grounded.
+- 'We were going to open a German beer restaurant here.' Pointing to the restaurant to Barinov, the inspector lands on "restoran" ("restaurant") as the key everyday word here.
+- 'We invited Viktoriya Sergeyevna to work with us.' The inspector responds wryly without holding back, keeping the focus on what actually matters here.
+- 'She agreed to work on only one condition.' Turning to the condition during the talk, the inspector leans on "soglasilas" ("to agree", a form of "soglasitsya") to give the remark its edge.
+- 'Tell me, on what condition was that?' Returning to the condition beside the inspector, Barinov keeps normal statement word order here, turning the line into a question for the inspector purely through rising pitch.
+- 'To keep this restaurant French and retain all the staff.' The inspector follows up plainly with a sigh, testing Barinov's reaction in the middle of the exchange.
+- 'Did she ask on her own to leave everything as it is?' Barinov opens up promptly during the talk and centers the thought on "poprosila" ("asked", from "poprosit") without wasting a word.
+- 'Yes, and she also negotiated a good bonus for you.' The inspector continues promptly during the talk, leaving no doubt about where he stands.
+- 'But now I see nothing will work out for her.' The inspector reacts dryly in this moment, before Max can change the subject.
+- 'Sometimes everything can change in a single second.' Talking about a single second in this beat, Max lands on "pomenyatsya" ("to swap, to trade") as the key everyday word here.
+- 'A man with a suitcase can easily change his mind and stay.' Checking on a suitcase during the talk, Max leans on "legko" ("easy"), which carries the whole predicate in Russian without needing "it is".
+- 'For someone, the main thing is to take the right step in time.' Max responds briskly in this moment, keeping the focus on what actually matters here.

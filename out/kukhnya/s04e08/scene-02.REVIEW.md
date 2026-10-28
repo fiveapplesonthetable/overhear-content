@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is the money, please buy groceries for home.' Max shares this line beside Denis: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Buy flowers for Mom and sweets for tea.' Max answers honestly without holding back, watching Senya's face to see how the news lands.
-- 'All right, I will do everything, do not worry.' Denis uses one classic element right here: "volnuysya" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'And mind you, do not tell Mom about yourself!' Max opens up at once on the spot, watching Senya's face to see how the news lands.
-- 'Do not say that you are living at our place right now.' Max continues dryly without holding back, grounding the moment in plain reality.
-- 'After all, you are supposedly a son from a first marriage.' Max grounds one pointed term in reply: "pervogo" means "first" (from "pervyy"), giving the line its exact edge.
-- 'Did you sweep the entrance hall clean today?' Max directs the comeback with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'Yes, of course, I already swept everything clean.' Denis weighs in briskly hearing Senya, so Senya knows he is not just making small talk.
-- 'Look, even Max's wife calmly gives him money!' Senya underscores one key element at once: "spokoyno" means "calmly", and it carries the main weight of what Senya is saying.
-- 'And right now I really need just twenty grand!' Senya fires back wryly to settle things, so Max knows he is not just making small talk.
-- 'After all, such a red boat is slipping away from me!' Senya cuts in plainly beside Denis, without trying to dress up how he really feels.
-- 'And my wife does not give me any money at all.' Senya points to one key choice toward Max: "voobshche" means "at all", and it carries the main weight of what Senya is saying.
+- 'Here is the money, please buy groceries for home.' Addressing the groceries in this beat, Max chooses "produkty" ("groceries", from the root "produkt") so Denis hears the exact meaning.
+- 'Buy flowers for Mom and sweets for tea.' Max opens up honestly in this moment, steering the talk right where he wants it.
+- 'All right, I will do everything, do not worry.' Denis steps in directly in this beat and puts the weight on "volnuysya" ("worry", from "volnovatsya") as the exchange unfolds.
+- 'And mind you, do not tell Mom about yourself!' Emphasizing the mother in front of Denis, Max lands on "mame" ("mother, mum", built on "mama") to keep the statement grounded.
+- 'Do not say that you are living at our place right now.' Max follows up dryly in their talk, keeping the focus on what actually matters here.
+- 'After all, you are supposedly a son from a first marriage.' Showing how first Denis is in the exchange, Max centers the thought on "pervogo" ("first", from "pervyy") without wasting a word.
+- 'Did you sweep the entrance hall clean today?' Answering promptly in front of Denis, Max keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'Yes, of course, I already swept everything clean.' Denis steps in briskly toward Max, refusing to let the moment slip past.
+- 'Look, even Max's wife calmly gives him money!' Focusing on the wife during the talk, Senya leans on "zhena" ("wife") to give the whole sentence its punch.
+- 'And right now I really need just twenty grand!' Mentioning the grand at once, Senya brings in "dvadtsatka" ("grand") to make the meaning unmistakable.
+- 'After all, such a red boat is slipping away from me!' Senya reacts plainly without holding back, shifting the mood of the conversation in a single beat.
+- 'And my wife does not give me any money at all.' Focusing on his wife before Denis, Senya brings in "voobshche" ("at all") to make the meaning unmistakable.

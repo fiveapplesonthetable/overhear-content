@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, listen, what kind of nonsense is this?' Katya drops this point at once: putting the question word "chto" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'You did not come home for the night, and you are not answering my calls.' Katya speaks dryly to be clear, to clear the air between them once and for all.
-- 'Sorry, first I got carried away with work, and then my phone died.' Denis reaches for one loaded piece right here: "zarabotalsya" means "got carried away with work" (from "zarabotatsya"), giving the line its exact edge.
-- 'Are you avoiding me?' Katya shapes that answer frankly here: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'No, of course I am not avoiding anyone, no.' Denis proceeds briskly without a pause, leaving no doubt about where he stands.
-- 'Excuse me, my baguette is getting cold.' Denis reaches for this telling word with Nastya: "ostyvayet" means "is getting cold" (from "ostyvat"), giving the line its exact edge.
-- 'Oh, by the way, I will be working room service all week.' Denis lays out this update to Katya: opening with "kstati" ("by the way") lets Denis drop a new detail into the conversation as if it just crossed his mind.
-- 'What do you mean all week, Denis?' Katya checks frankly why things suddenly took this turn between them.
-- 'Katya, where is my herring ice cream?' Nastya chooses one familiar element for Denis: "morozhenoye" means "ice cream", and it carries the main weight of what Nastya is saying.
-- 'Nastya, please wait a second.' Katya drops the thought with warmth: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Denis, what is going on?' Katya wonders evenly to see how Denis will answer on the spot.
-- 'Looks like Dan's baguette really went cold.' Hear how Nastya answers Katya in reply — the Russian word "pokhodu" ("apparently") gives the whole sentence its punch.
+- 'Denis, listen, what kind of nonsense is this?' Pointing to the trifle to Denis, Katya puts the question word "chto" right at the start so Denis hears the focus immediately.
+- 'You did not come home for the night, and you are not answering my calls.' Katya counters dryly across the room, watching Denis's face to see how the news lands.
+- 'Sorry, first I got carried away with work, and then my phone died.' Bringing up his phone at once, Denis uses "zarabotalsya" ("got carried away with work", from "zarabotatsya") to make the point stick.
+- 'Are you avoiding me?' Opening up calmly in front of Denis, Katya puts the question word "chto" right at the start so Denis hears the focus immediately.
+- 'No, of course I am not avoiding anyone, no.' Denis counters boldly with Katya, to clear the air between them once and for all.
+- 'Excuse me, my baguette is getting cold.' Denis openly directs this informal apology at the start of the beat using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'Oh, by the way, I will be working room service all week.' Discussing the room service in the exchange, Denis opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'What do you mean all week, Denis?' Katya checks frankly where this conversation is heading next.
+- 'Katya, where is my herring ice cream?' Talking about the ice cream with Katya, Nastya brings in "morozhenoye" ("ice cream") to make the meaning unmistakable.
+- 'Nastya, please wait a second.' Katya casually offers this courtesy word at this moment using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Denis, what is going on?' Katya wonders evenly what Denis is actually getting at here.
+- 'Looks like Dan's baguette really went cold.' Addressing the baguette in front of Katya, Nastya puts the weight on "paget" ("baguette", from "baget") as the exchange unfolds.

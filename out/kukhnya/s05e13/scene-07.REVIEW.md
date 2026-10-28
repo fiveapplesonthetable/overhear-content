@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, do you need some help here?' Kostya underscores one loaded term right here: "nuzhno" means "necessary", and it carries the main weight of what Kostya is saying.
-- 'Wait, what are you hitting me for?' Kostya delivers that thought at once: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'Sorry, Kostya, but Gulya works here.' Lyova responds quietly beside Ainura, bringing things back to earth after the buildup.
-- 'You never know what might happen.' Lyova anchors one classic detail in earnest: "sluchitsya" means "to happen", and it carries the main weight of what Lyova is saying.
-- 'Thank you for your help, Lyova.' Ainura shares the reply with warmth: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'I will not tell anyone about this.' Ainura responds decisively without holding back, to clear the air between them once and for all.
-- 'Lyova, we have bad news!' Listen to how Ainura answers Kostya at once — the Russian word "plokhiye" ("bad", built from "plokhoy") does the heavy lifting.
-- 'People have suddenly started disappearing in the kitchen.' Ainura speaks boldly on the spot, refusing to let the moment slip past.
-- 'I think I need to take Gulya away.' Ainura replies boldly to be clear, without trying to dress up how she really feels.
-- 'It is time for us to return back home.' Ainura reaches for one sharp detail with Lyova: "vernutsya" means "to return", and it carries the main weight of what Ainura is saying.
-- 'Who gives driver's licenses to these drivers?' Lyova sends the thought without fuss: putting the question word "kto" right at the front of the line lets Ainura hear the point of the question on the very first beat.
-- 'Gulya must stay here with me.' Lyova counters dryly to be clear, saying out loud what both of them already know.
+- 'Lyova, do you need some help here?' Kostya fires back sharply at once and brings in "nuzhno" ("necessary") to make the meaning unmistakable.
+- 'Wait, what are you hitting me for?' Looking over dryly with Lyova, Kostya puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'Sorry, Kostya, but Gulya works here.' Lyova answers candidly during the talk, refusing to let the moment slip past.
+- 'You never know what might happen.' Lyova cuts in dryly in this beat and lands on "sluchitsya" ("to happen") as the key everyday word here.
+- 'Thank you for your help, Lyova.' Ainura plainly sends this word of thanks as they meet using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I will not tell anyone about this.' Ainura continues decisively toward Lyova, steering the talk right where she wants it.
+- 'Lyova, we have bad news!' Emphasizing the news around Lyova, Ainura uses "plokhiye" ("bad", from "plokhoy") to make the point stick.
+- 'People have suddenly started disappearing in the kitchen.' Underscoring the kitchen around Lyova, Ainura lands on "kukhne" ("kitchen", built on "kukhnya") to keep the statement grounded.
+- 'I think I need to take Gulya away.' Ainura steps in boldly in this moment, before Lyova can change the subject.
+- 'It is time for us to return back home.' Ainura responds frankly at once and uses "vernutsya" ("to return") to carry the main weight of the thought.
+- 'Who gives driver's licenses to these drivers?' Dwelling on the driver right here, Lyova puts the question word "kto" right at the start so Ainura hears the focus immediately.
+- 'Gulya must stay here with me.' Lyova proceeds dryly in their talk, grounding the moment in plain reality.

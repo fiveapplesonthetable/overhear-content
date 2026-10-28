@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I catch the bullet with my teeth!' Nagiyev points to one clear piece on cue: "zubami" means "with teeth", and it carries the main weight of what Nagiyev is saying.
-- 'Awesome, go bring a bullet!' Nagiyev hands over the comment beside Kostya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'We do not have a bullet.' Barinov opens up decisively beside Kostya, steering the talk right where he wants it.
-- 'Then make a bullet quickly.' Nagiyev leans on one key expression in reply: "znachit" means "then, so", and it carries the main weight of what Nagiyev is saying.
-- 'What am I supposed to make it out of?' Barinov voices this point briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'What difference does it make to me out of what?' Nagiyev quizzes wryly to see how Kostya will answer on the spot.
-- 'Fine, I will make it right now.' Barinov highlights one classic choice in reply: "seychas" means "now", and it carries the main weight of what Barinov is saying.
-- 'Wait, I still have to put it in my mouth!' Nagiyev holds firm decisively around Kostya, before Kostya can change the subject.
-- 'The last time I did something like this was a very long time ago.' Kostya follows up evenly watching Barinov, without trying to dress up how he really feels.
-- 'I terribly love this food.' Kostya picks one pointed choice right here: "uzhas" means "horror", and it carries the main weight of what Kostya is saying.
-- 'I completely forgot about the sausage!' Kostya shapes that line with warmth: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'I will slice it for the table right now.' Kostya speaks boldly as they talk, testing Nagiyev's reaction in the middle of the exchange.
+- 'I catch the bullet with my teeth!' Pointing to his teeth in this beat, Nagiyev leans on "zubami" ("with teeth") to give the whole sentence its punch.
+- 'Awesome, go bring a bullet!' Touching on the cool with Barinov, Nagiyev starts with "davay" ("come on, let's") to invite Barinov right into the action.
+- 'We do not have a bullet.' Barinov answers decisively on the spot, before Nagiyev can change the subject.
+- 'Then make a bullet quickly.' Discussing a bullet before Barinov, Nagiyev puts the weight on "pulyu" ("bullet", from "pulya") as the exchange unfolds.
+- 'What am I supposed to make it out of?' Looking over candidly right here, Barinov keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'What difference does it make to me out of what?' Nagiyev quizzes wryly while looking straight at Barinov here.
+- 'Fine, I will make it right now.' Barinov briskly gives this word of agreement beside Nagiyev using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Wait, I still have to put it in my mouth!' Pointing to his mouth to Barinov, Nagiyev brings in "brat" ("to take") to make the meaning unmistakable.
+- 'The last time I did something like this was a very long time ago.' Kostya reacts evenly with a sigh, watching Nagiyev's face to see how the news lands.
+- 'I terribly love this food.' Pointing to the horror beside Nagiyev, Kostya brings in "uzhas" ("horror") to make the meaning unmistakable.
+- 'I completely forgot about the sausage!' Checking on the sausage before Nagiyev, Kostya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'I will slice it for the table right now.' Kostya replies boldly beside Nagiyev, steering the talk right where he wants it.

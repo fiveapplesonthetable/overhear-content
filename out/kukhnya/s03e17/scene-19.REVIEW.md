@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Life once again places us before a difficult choice.' Max leans on one vivid choice toward the inspector: "trudnym" means "difficult, hard" (from "trudnyy"), giving the line its exact edge.
-- 'We must fight on or simply submit to fate.' Max puts the thought around Vika: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Friends, may I ask for a minute of your attention?' The inspector checks deadpan why things suddenly took this turn between them.
-- 'Congratulations, colleagues, now you are part of our family.' The inspector highlights one pointed element in earnest: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
-- 'Our rules will give you the opportunity for rapid growth.' The inspector leans on one loaded choice toward Max: "vozmozhnost" means "possibility", and it carries the main weight of what the inspector is saying.
-- 'You will gain great experience in a good company.' The inspector responds evenly in their talk, refusing to let the moment slip past.
-- 'We will start today with the main news.' The inspector spotlights one practical term at once: "glavnoy" means "main" (from "glavnyy"), giving the line its exact edge.
-- 'Starting today, there is a new director in our restaurant.' The inspector delivers this answer facing Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And here she comes walking right this way.' The inspector answers briskly beside Max, shifting the whole mood of the room in a single beat.
-- 'Please welcome and respect—Viktoriya Sergeyevna!' The inspector chooses one direct choice for Vika: "uvazhat" means "respect", and it carries the main weight of what the inspector is saying.
-- 'Hello, I am the new director of the Claude Monet restaurant.' Vika frames this warning at once: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'While we are thinking, completely new circumstances appear.' Max chimes in dryly toward Vika, to clear the air between them once and for all.
+- 'Life once again places us before a difficult choice.' Discussing the life around the inspector, Max lands on "trudnym" ("difficult, hard", built on "trudnyy") to keep the statement grounded.
+- 'We must fight on or simply submit to fate.' Turning to the fate on the spot, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Friends, may I ask for a minute of your attention?' The inspector checks deadpan before Max can change the subject.
+- 'Congratulations, colleagues, now you are part of our family.' Bringing up the colleagues in this beat, the inspector centers the thought on "pozdravlyayu" ("congratulations", from "pozdravlyat") without wasting a word.
+- 'Our rules will give you the opportunity for rapid growth.' The inspector weighs in evenly with Max, watching Max's face to see how the news lands.
+- 'You will gain great experience in a good company.' The inspector answers evenly without a pause, steering the talk right where he wants it.
+- 'We will start today with the main news.' Addressing the main news before Vika, the inspector centers the thought on "glavnoy" ("main", from "glavnyy") without wasting a word.
+- 'Starting today, there is a new director in our restaurant.' Pointing to his restaurant at once, the inspector links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And here she comes walking right this way.' The inspector responds briskly during the talk, bringing things back to earth after the buildup.
+- 'Please welcome and respect—Viktoriya Sergeyevna!' The inspector steps in quietly on the spot and centers the remark on "uvazhat" ("respect") without any extra fuss.
+- 'Hello, I am the new director of the Claude Monet restaurant.' Focusing on the head teacher at once, Vika chooses "zdravstvuyte" ("hello") so Max gets the point right away.
+- 'While we are thinking, completely new circumstances appear.' Max answers dryly toward Vika, making his position completely clear.

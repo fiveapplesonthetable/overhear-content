@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I take it you have resumed your relationship?' Eleonora lays out that answer right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Then I will tell her about us.' Eleonora chimes in frankly without any doubt, refusing to let the moment slip past.
-- 'Because I love my daughter.' Eleonora centers this key term in earnest: "lyublyu" means "love" (from "lyubit"), giving the line its exact edge.
-- 'She will have a chance to find another man.' Eleonora chimes in honestly to be clear, to clear the air between them once and for all.
-- 'Katyusha, I need to tell you something.' Eleonora holds firm wryly without a pause, without trying to dress up how she really feels.
-- 'Mom, you will soon become a grandmother!' Katya spotlights this sharp expression at once: "babushkoy" means "grandmother" (from "babushka"), giving the line its exact edge.
-- 'And you, Denis, will become a dad!' Katya underscores one vivid expression in reply: "stanesh" means "will become" (from "stat"), giving the line its exact edge.
-- 'I just found out myself right now.' Katya speaks at once with Eleonora, before Eleonora can change the subject.
-- 'Our life is a small kitchen.' Barinov highlights one vivid touch at once: "malenkaya" means "small" (from "malenkiy"), giving the line its exact edge.
-- 'In it we cook our happiness.' Barinov fires back earnestly facing Katya, so Katya knows he is not just making small talk.
-- 'We choose the needed ingredients ourselves.' Barinov steps in decisively as things stand, refusing to let the moment slip past.
-- 'Create and try something new!' Barinov spotlights this sharp touch on cue: "probuyte" means "to try, to taste" (from "probovat"), giving the line its exact edge.
-- 'And then a great reward awaits you!' Barinov favors this key detail in reply: "bolshaya" means "large" (from "bolshoy"), giving the line its exact edge.
+- 'I take it you have resumed your relationship?' Replying earnestly right here, Eleonora keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Then I will tell her about us.' Eleonora follows up frankly hearing Katya, before Katya can change the subject.
+- 'Because I love my daughter.' Underscoring her daughter with Katya, Eleonora chooses "lyublyu" ("love", from the root "lyubit") so Katya hears the exact meaning.
+- 'She will have a chance to find another man.' Touching on a chance in this beat, Eleonora chooses "drugogo" ("other, another", from the root "drugoy") so Katya hears the exact meaning.
+- 'Katyusha, I need to tell you something.' Eleonora answers wryly facing Katya, leaving no doubt about where she stands.
+- 'Mom, you will soon become a grandmother!' Addressing a grandmother beside Eleonora, Katya puts the weight on "babushkoy" ("grandmother", from "babushka") as the exchange unfolds.
+- 'And you, Denis, will become a dad!' Katya proceeds briskly with a sigh, keeping the focus on what actually matters here.
+- 'I just found out myself right now.' Katya replies at once without any doubt, to clear the air between them once and for all.
+- 'Our life is a small kitchen.' Describing how small things are with Katya, Barinov chooses "malenkaya" ("small", from the root "malenkiy") so Katya hears the exact meaning.
+- 'In it we cook our happiness.' Discussing his happiness at once, Barinov centers the remark on "schastye" ("happiness") without any extra fuss.
+- 'We choose the needed ingredients ourselves.' Barinov counters decisively beside Katya, without trying to dress up how he really feels.
+- 'Create and try something new!' Barinov reacts warmly beside Katya and uses "novoye" ("new", from "novyy") to make the point stick.
+- 'And then a great reward awaits you!' Barinov speaks up briskly without holding back, so Katya knows he is not just making small talk.

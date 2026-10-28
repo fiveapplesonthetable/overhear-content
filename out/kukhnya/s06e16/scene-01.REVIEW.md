@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, I am listening attentively, Eleonora Andreyevna.' Mikhail features one sharp detail in reply: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Mikhail is saying.
-- 'Misha, soon we will have a fashion show.' Eleonora makes the thought with ease: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'We need to prepare very well for it.' Eleonora speaks up bluntly to settle things, to clear the air between them once and for all.
-- 'Will the show be right here in our hotel?' Mikhail points to this sharp detail at once: "pokaz" means "show, fashion show", and it carries the main weight of what Mikhail is saying.
-- 'We need to figure out where to set up the big runway.' Eleonora drops this statement at once: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Excuse me, and who is this person anyway?' Mikhail prompts earnestly how Nastya expects that to work in practice.
-- 'Right now he is the most famous fashion designer.' Eleonora chooses one telling term at once: "izvestnyy" means "famous, well-known", and it carries the main weight of what Eleonora is saying.
-- 'Good, I am booking rooms for the models.' Mikhail shares this warning to Nastya: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'And a separate room for his translator.' Mikhail speaks at once with a sigh, letting the remark speak for itself.
-- 'Excellent, I will arrive a day before the show.' Eleonora reaches for this key piece toward Nastya: "otlichno" means "perfect, great", and it carries the main weight of what Eleonora is saying.
-- 'Kostya, why were you staring at her like that?' Nastya makes this line frankly here: putting the question word "pochemu" right at the front of the line lets Eleonora hear the point of the question on the very first beat.
-- 'No, darling, I was not looking anywhere.' Mikhail holds firm calmly across the room, shifting the whole mood of the room in a single beat.
+- 'Yes, I am listening attentively, Eleonora Andreyevna.' Mikhail fires back vividly to Eleonora and leans on "vnimatelno" ("carefully, attentively") to give the whole sentence its punch.
+- 'Misha, soon we will have a fashion show.' Returning to a fashion show in the exchange, Eleonora reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'We need to prepare very well for it.' Eleonora proceeds bluntly across the room, leaving no doubt about where she stands.
+- 'Will the show be right here in our hotel?' Pointing to the show beside Eleonora, Mikhail lands on "pokaz" ("show, fashion show") as the key everyday word here.
+- 'We need to figure out where to set up the big runway.' Talking about the big runway before Mikhail, Eleonora leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Excuse me, and who is this person anyway?' Mikhail prompts earnestly if there is more going on behind the scenes.
+- 'Right now he is the most famous fashion designer.' Insisting on how famous he is to Mikhail, Eleonora centers the remark on "izvestnyy" ("famous, well-known") without any extra fuss.
+- 'Good, I am booking rooms for the models.' Emphasizing the models with Eleonora, Mikhail centers the thought on "modeley" ("models", from "model") without wasting a word.
+- 'And a separate room for his translator.' Mikhail counters at once with a sigh, shifting the mood of the conversation in a single beat.
+- 'Excellent, I will arrive a day before the show.' Touching on the show on the spot, Eleonora brings in "pokaza" ("show, fashion show", from "pokaz") as the key Russian word here.
+- 'Kostya, why were you staring at her like that?' Leaning in plainly to Mikhail, Nastya puts the question word "pochemu" right at the start so Mikhail hears the focus immediately.
+- 'No, darling, I was not looking anywhere.' Mikhail continues calmly in their talk, watching Nastya's face to see how the news lands.

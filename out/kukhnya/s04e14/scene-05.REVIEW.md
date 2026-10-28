@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoriya Sergeyevna, your flowers ended up with me.' German voices the thought with candor: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Are these really my flowers, German Mikhailovich?' Vika quizzes sharply if there is more going on behind the scenes.
-- 'They bloomed in order to lift your mood.' German frames this clear piece on cue: "nastroyeniye" means "mood", and it carries the main weight of what German is saying.
-- 'Thank you, of course, for the kind words.' Vika aims this point to German: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Believe me, I have nothing to do with it at all.' German responds calmly as things stand, saying out loud what both of them already know.
-- 'These lovely flowers chose you themselves.' German uses one telling piece at once: "prekrasnyye" means "wonderful, fine" (from "prekrasnyy"), giving the line its exact edge.
-- 'I really appreciate your kind attention.' Vika points to one concrete word at once: "vnimaniye" means "attention", and it carries the main weight of what Vika is saying.
-- 'But I will not take this bouquet.' Vika follows up warmly as things stand, steering the talk right where she wants it.
-- 'Excuse me, it is already time for me to go.' Vika chooses one sharp element at once: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Ainura, take these, please, this is for you now.' German hands over this point frankly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Oh, thank you very much, German Mikhailovich!' Ainura speaks up steadily with a nod, so German knows she is not just making small talk.
-- 'What do you need here, go to work!' German favors this clear word in reply: "rabotat" means "to work", and it carries the main weight of what German is saying.
+- 'Viktoriya Sergeyevna, your flowers ended up with me.' German cuts in candidly toward Vika, refusing to let the moment slip past.
+- 'Are these really my flowers, German Mikhailovich?' Vika quizzes sharply while looking straight at German here.
+- 'They bloomed in order to lift your mood.' Touching on the mood in front of Vika, German centers the remark on "nastroyeniye" ("mood") without any extra fuss.
+- 'Thank you, of course, for the kind words.' Vika weighs in wryly without a pause, watching German's face to see how the news lands.
+- 'Believe me, I have nothing to do with it at all.' German continues calmly in their talk, letting the remark speak for itself.
+- 'These lovely flowers chose you themselves.' Bringing up the flowers at once, German brings in "prekrasnyye" ("wonderful, fine", from "prekrasnyy") as the key Russian word here.
+- 'I really appreciate your kind attention.' Vika speaks up at once across the room, watching German's face to see how the news lands.
+- 'But I will not take this bouquet.' Vika chimes in warmly across the room, without trying to dress up how she really feels.
+- 'Excuse me, it is already time for me to go.' Vika fires back promptly in front of German and centers the thought on "izvinite" ("sorry, excuse me", from "izvinit") without wasting a word.
+- 'Ainura, take these, please, this is for you now.' German proceeds honestly hearing Ainura, grounding the moment in plain reality.
+- 'Oh, thank you very much, German Mikhailovich!' Ainura replies steadily with a smile, shifting the mood of the conversation in a single beat.
+- 'What do you need here, go to work!' German counters calmly in front of Ainura and reaches for the Russian word "rabotat" ("to work") right at the heart of the line.

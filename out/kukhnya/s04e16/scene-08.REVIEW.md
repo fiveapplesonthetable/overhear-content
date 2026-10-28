@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, I have a question for you!' Lyova brings that thought at once: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Lyova, you must definitely knock before entering my office!' Barinov fires back right away around Lyova, without trying to dress up how he really feels.
-- 'From a fright like that a person can easily develop a stutter!' Barinov reaches for this key word at once: "ispuga" means "person", and it carries the main weight of what Barinov is saying.
-- 'Mom is asking what you will drink tomorrow?' Lyova aims that thought before Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Oh, Chef, look quickly at your table!' Lyova stands firm bluntly with a sigh, letting the remark speak for itself.
-- 'My matchstick palace has completely burned to the ground!' Lyova spotlights one vivid expression in reply: "spichechnyy" means "palace", and it carries the main weight of what Lyova is saying.
-- 'There is probably a curse lying on your ancestral estate.' Barinov chimes in candidly without any doubt, leaving no doubt about where he stands.
-- 'You are our main family curse, Chef!' Lyova proceeds plainly with a smile, to clear the air between them once and for all.
-- 'No panic, Lyova, everything can still be fixed!' Barinov anchors one classic expression with Lyova: "paniki" means "panic" (from "panika"), giving the line its exact edge.
-- 'I will build your estate in a couple of days!' Barinov favors one concrete touch in reply: "postroyu" means "will build" (from "postroit"), giving the line its exact edge.
-- 'After all, you have not even fixed the sofa at home!' Lyova responds openly toward Barinov, saying out loud what both of them already know.
-- 'You only know how to break and destroy everything!' Lyova focuses on one practical detail in earnest: "razrushat" means "to destroy", and it carries the main weight of what Lyova is saying.
+- 'Viktor Petrovich, I have a question for you!' Talking about a question around Barinov, the "-sya" ending on "vopros" ("question, matter") marks an action that unfolds mutually or turns back on the speaker.
+- 'Lyova, you must definitely knock before entering my office!' Barinov speaks right away around Lyova, keeping the focus on what actually matters here.
+- 'From a fright like that a person can easily develop a stutter!' Touching on a person on the spot, Barinov brings in "ispuga" ("person") to make the meaning unmistakable.
+- 'Mom is asking what you will drink tomorrow?' Answering openly before Barinov, Lyova puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Oh, Chef, look quickly at your table!' Lyova speaks bluntly with a smile, keeping the focus on what actually matters here.
+- 'My matchstick palace has completely burned to the ground!' Discussing the palace with Barinov, Lyova lands on "spichechnyy" ("palace") as the key everyday word here.
+- 'There is probably a curse lying on your ancestral estate.' Describing how estate things are during the talk, Barinov puts the weight on "proklyatiye" ("estate", from "proklyatiy") as the exchange unfolds.
+- 'You are our main family curse, Chef!' Lyova speaks plainly without a pause, leaving no doubt about where he stands.
+- 'No panic, Lyova, everything can still be fixed!' Focusing on the panic in this beat, Barinov lands on "paniki" ("panic", built on "panika") to keep the statement grounded.
+- 'I will build your estate in a couple of days!' Barinov counters calmly with a sigh, making his position completely clear.
+- 'After all, you have not even fixed the sofa at home!' Lyova reacts openly hearing Barinov, grounding the moment in plain reality.
+- 'You only know how to break and destroy everything!' Lyova pushes back vividly before Barinov and leans on "razrushat" ("to destroy") to give the whole sentence its punch.

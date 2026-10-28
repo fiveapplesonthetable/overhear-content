@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So you will not be here anymore?' Max points to one practical term on cue: "bolshe" means "more", and it carries the main weight of what Max is saying.
-- 'Why not? I will be here even more often.' Nagiyev directs the thought facing Vika: putting the question word "pochemu" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'I am the face of this restaurant now.' Nagiyev speaks up frankly as things stand, steering the talk right where he wants it.
-- 'A handsome face with smart and kind eyes.' Nagiyev underscores one practical piece for Vika: "krasivoye" means "beautiful" (from "krasivyy"), giving the line its exact edge.
-- 'Big money knows how to persuade very well.' Nagiyev directs this update to Max: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Forgive me, my friend, that is how it turned out.' Nagiyev speaks up calmly in their talk, before Vika can change the subject.
-- 'Vika, may I have a word with you for one second?' Max stresses this sharp choice with Nagiyev: "sekundu" means "second" (from "sekunda"), giving the line its exact edge.
-- 'Tell me, how are things with you?' Max states that answer in earnest: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Fine. Did you want something regarding work?' Vika questions point-blank if there is more going on behind the scenes.
-- 'I just wanted to hear that everything is fine.' Max spotlights one loaded expression in reply: "uslyshat" means "to hear", and it carries the main weight of what Max is saying.
-- 'For me that is the most important thing in life.' Max shapes that line before Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Relax, we just work together now.' Vika speaks up openly watching Nagiyev, saying out loud what both of them already know.
+- 'So you will not be here anymore?' Cutting in promptly to Nagiyev, Max keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Why not? I will be here even more often.' Turning promptly around Max, Nagiyev puts the question word "pochemu" right at the start so Max hears the focus immediately.
+- 'I am the face of this restaurant now.' Nagiyev jumps in frankly with Max, refusing to let the moment slip past.
+- 'A handsome face with smart and kind eyes.' Emphasizing a handsome face before Max, Nagiyev puts the weight on "krasivoye" ("beautiful", from "krasivyy") as the exchange unfolds.
+- 'Big money knows how to persuade very well.' Mentioning the money in this beat, Nagiyev chooses "bolshiye" ("big, serious", from the root "bolshoy") so Max hears the exact meaning.
+- 'Forgive me, my friend, that is how it turned out.' Nagiyev speaks up calmly beside Max, testing Max's reaction in the middle of the exchange.
+- 'Vika, may I have a word with you for one second?' Mentioning the second in this beat, Max uses "sekundu" ("second", from "sekunda") to make the point stick.
+- 'Tell me, how are things with you?' Holding firm openly in front of Vika, Max drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Fine. Did you want something regarding work?' Vika questions point-blank what Max is actually getting at here.
+- 'I just wanted to hear that everything is fine.' Max speaks vividly at once and puts the emphasis on "uslyshat" ("to hear") in the middle of the talk.
+- 'For me that is the most important thing in life.' Showing how important things are at once, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Relax, we just work together now.' Vika jumps in openly facing Max, steering the talk right where she wants it.

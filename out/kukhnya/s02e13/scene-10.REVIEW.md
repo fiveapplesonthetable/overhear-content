@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich.' Max makes this update briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'No, no.' Nagiyev hands over that point to Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'We will go together.' Fedya speaks dryly with Max, steering the talk right where he wants it.
-- 'And I will be the one held responsible later.' Max centers one loaded touch right here: "otvechat" means "to answer", and it carries the main weight of what Max is saying.
-- 'Well, it is the vegetarian.' Nagiyev voices this point toward Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He ordered the exact same rolls as last time.' Fedya opens up steadily in this moment, shifting the whole mood of the room in a single beat.
-- 'The vegetarian. He ordered the exact same rolls.' Max points to one key piece in earnest: "vegetarianets" means "vegetarian", and it carries the main weight of what Max is saying.
-- 'So this order is on you.' Nagiyev states this point with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'It will turn out to be a proper vegetarian dish.' Fedya answers lightly across the room, saying out loud what both of them already know.
-- 'Stop feeding the man meat for free.' Max focuses on one clear expression with Nagiyev: "besplatno" means "for free", and it carries the main weight of what Max is saying.
-- 'No, I am very hungry myself.' Nagiyev reacts right away watching Fedya, bringing things back to earth after the buildup.
-- 'Oh, alright, alright.' Fedya counters at once before Nagiyev, letting the remark speak for itself.
-- 'Here, compliments of the chef.' Max picks one vivid detail in earnest: "kompliment" means "complimentary gift", and it carries the main weight of what Max is saying.
+- 'Dmitry Vladimirovich.' Cutting in readily beside Nagiyev, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'No, no.' Nagiyev readily chooses this direct refusal while facing Max using "net" ("no") — a plain "net" ("no") that gives an immediate answer.
+- 'We will go together.' Fedya fires back dryly during the talk, without trying to dress up how he really feels.
+- 'And I will be the one held responsible later.' Max speaks up plainly to Fedya and chooses "otvechat" ("to answer") so Fedya gets the point right away.
+- 'Well, it is the vegetarian.' Mentioning the vegetarian on the spot, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He ordered the exact same rolls as last time.' Fedya continues steadily across the room, without trying to dress up how he really feels.
+- 'The vegetarian. He ordered the exact same rolls.' Emphasizing the vegetarian before Fedya, Max centers the remark on "vegetarianets" ("vegetarian") without any extra fuss.
+- 'So this order is on you.' Dwelling on the order during the talk, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'It will turn out to be a proper vegetarian dish.' Fedya responds lightly around Nagiyev, letting the remark speak for itself.
+- 'Stop feeding the man meat for free.' Turning to the man meat beside Fedya, Max chooses "besplatno" ("for free") so Fedya gets the point right away.
+- 'No, I am very hungry myself.' Nagiyev opens up vividly to Max and uses "ochen" ("very much") to carry the main weight of the thought.
+- 'Oh, alright, alright.' Fedya gently drops this word of agreement right on cue using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Here, compliments of the chef.' Focusing on the complimentary gift on the spot, Max puts the emphasis on "kompliment" ("complimentary gift") in the middle of the talk.

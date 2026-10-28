@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Glad to see you free again, with a clear conscience.' Timur continues sharply during the talk, leaving no doubt about where he stands.
-- 'After all, I was the one who sold her car for a good price.' Timur features one telling word right here: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
-- 'She had to pay the colonel so that he would release you.' Timur puts the remark with ease: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Wait, isn't he an acquaintance of hers?' Barinov asks wryly whether Timur really thought this through.
-- 'For that kind of money, he will be your acquaintance too.' Timur features one loaded detail at once: "znakomyy" means "familiar", and it carries the main weight of what Timur is saying.
-- 'I swear, you got lucky with Elena Pavlovna.' Timur emphasizes one classic piece toward Elena: "pavlovnoy" means "pavlovna", and it carries the main weight of what Timur is saying.
-- 'Lena, I know everything. Both about the car and about the colonel.' Barinov reacts honestly with a smile, to clear the air between them once and for all.
-- 'I want to come back and work off every kopek.' Barinov grounds this direct piece toward Timur: "kazhduyu" means "every, each" (from "kazhdyy"), giving the line its exact edge.
-- 'And then I will buy you a car. May I come back?' Barinov makes the thought for Elena: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'You may. Only now as a regular line cook.' Elena reacts plainly as they talk, so Timur knows she is not just making small talk.
-- 'As a regular cook it will take me longer to earn enough for your car.' Barinov emphasizes this vivid word in earnest: "zarabatyvat" means "to earn money", and it carries the main weight of what Barinov is saying.
-- 'That is alright, I am in no hurry.' Elena makes the comeback around Timur: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Glad to see you free again, with a clear conscience.' Timur continues sharply without a pause, without trying to dress up how he really feels.
+- 'After all, I was the one who sold her car for a good price.' Underscoring the car at once, Timur puts the weight on "mashinu" ("car", from "mashina") as the exchange unfolds.
+- 'She had to pay the colonel so that he would release you.' Answering briskly on the spot, Timur leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Wait, isn't he an acquaintance of hers?' Barinov asks wryly about what Timur just brought up.
+- 'For that kind of money, he will be your acquaintance too.' Highlighting the money in front of Barinov, Timur uses "znakomyy" ("familiar") to carry the main weight of the thought.
+- 'I swear, you got lucky with Elena Pavlovna.' Opening up naturally during the talk, the "-sya" ending on "klyanus" ("I swear") marks an action that unfolds mutually or turns back on the speaker.
+- 'Lena, I know everything. Both about the car and about the colonel.' Barinov continues honestly during the talk, refusing to let the moment slip past.
+- 'I want to come back and work off every kopek.' Talking about the kopeck during the talk, Barinov uses "kazhduyu" ("every, each", from "kazhdyy") to make the point stick.
+- 'And then I will buy you a car. May I come back?' Returning to a car in this beat, Barinov leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'You may. Only now as a regular line cook.' Elena opens up plainly facing Barinov, without trying to dress up how she really feels.
+- 'As a regular cook it will take me longer to earn enough for your car.' Highlighting a regular cook right here, Barinov reaches for the Russian word "zarabatyvat" ("to earn money") right at the heart of the line.
+- 'That is alright, I am in no hurry.' Pushing back dryly beside Barinov, Elena pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, please do not be like that.' Senya directs that thought around Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Get the hell out of here!' Senya pushes back plainly to settle things, without trying to dress up how he really feels.
-- 'Anyone who defends him will leave right along with him.' Barinov sharpens one memorable term right here: "vmeste" means "together", and it carries the main weight of what Barinov is saying.
-- 'Can you let me work?' Senya offers this warning around Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Why are you doing all of this?' Barinov tests wryly about what Senya just brought up.
-- 'What is all of this?' Senya shapes this warning with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What is the point of all this?' Barinov voices the comment on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Because I want to work right here.' Senya responds plainly with a smile, so Barinov knows he is not just making small talk.
-- 'This is Moscow, there are thousands of restaurants here.' Barinov emphasizes this clear word right here: "tysyachi" means "thousands" (from "tysyacha"), giving the line its exact edge.
-- 'I want to work specifically in this one.' Senya reacts lightly with a sigh, before Barinov can change the subject.
-- 'Because this is the finest restaurant in the city.' Barinov counters briskly to settle things, saying out loud what both of them already know.
-- 'A chef like ours is nearly impossible to find.' Senya features one familiar detail toward Barinov: "yeshche" means "still" (from "yeshchyo"), giving the line its exact edge.
-- 'I want to learn at least something from him.' Barinov lays out this warning without fuss: the "-sya" ending on "nauchitsya" ("to learn") turns the action inward or makes it happen between people naturally.
+- 'Chef, please do not be like that.' Holding firm evenly with Barinov, Senya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Get the hell out of here!' Senya pushes back plainly without any doubt, before Barinov can change the subject.
+- 'Anyone who defends him will leave right along with him.' Barinov speaks up boldly in front of Senya and chooses "vmeste" ("together") so Senya gets the point right away.
+- 'Can you let me work?' Looking over frankly on the spot, Senya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Why are you doing all of this?' Barinov tests wryly whether Senya really thought this through.
+- 'What is all of this?' Answering dryly at once, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What is the point of all this?' Holding firm briskly to Senya, spoken Russian drops "is" and "are" in the present, letting Barinov place the two halves side by side.
+- 'Because I want to work right here.' Senya continues plainly with Barinov, grounding the moment in plain reality.
+- 'This is Moscow, there are thousands of restaurants here.' Underscoring the thousands at once, Barinov chooses "tysyachi" ("thousands", from the root "tysyacha") so Senya hears the exact meaning.
+- 'I want to work specifically in this one.' Senya follows up directly in the exchange and chooses "rabotat" ("to work") so Barinov gets the point right away.
+- 'Because this is the finest restaurant in the city.' Barinov replies briskly with Senya, steering the talk right where he wants it.
+- 'A chef like ours is nearly impossible to find.' Senya responds smoothly with Barinov and uses "poiskat" ("to look for") to carry the main weight of the thought.
+- 'I want to learn at least something from him.' Turning plainly around Senya, the "-sya" ending on "nauchitsya" ("to learn") marks an action that unfolds mutually or turns back on the speaker.

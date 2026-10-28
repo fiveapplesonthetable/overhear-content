@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, are you waiting for the head chef?' Lyova sharpens this clear term with Barinov: "glavnogo" means "main" (from "glavnyy"), giving the line its exact edge.
-- 'Viktor Petrovich, I cannot run to every table!' Lyova speaks warmly across the room, saying out loud what both of them already know.
-- 'How will I find out whom exactly you are waiting for?' Lyova checks bluntly as Barinov tries to explain the situation.
-- 'Photograph the guests on your phone and send it to me.' Barinov anchors one key choice for Lyova: "sfotografiruy" means "photograph", and it carries the main weight of what Barinov is saying.
-- 'Lyova, eat a carrot, it is good for the brain!' Barinov counters bluntly in their talk, refusing to let the moment slip past.
-- 'And here is your friend, greet him quickly!' Barinov jumps in quietly in their talk, without trying to dress up how he really feels.
-- 'Hello, Viktor Petrovich, your guests are already in the hall.' Lyova centers one familiar word in reply: "zdravstvuyte" means "hello", and it carries the main weight of what Lyova is saying.
-- 'Excellent, right now I will quickly cook them a hot dish.' Barinov gives this point before Lyova: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
-- 'And then I will immediately run back to Lena.' Barinov speaks up lightly to settle things, saying out loud what both of them already know.
-- 'Just make sure that Elena Pavlovna does not notice anything!' Lyova focuses on one practical expression at once: "smotrite" means "look" (from "smotret"), giving the line its exact edge.
-- 'And here I am back in the dining room again!' Barinov puts the comeback to Lyova: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I hope they will not bring our dessert anytime soon.' Barinov continues lightly before Lyova, refusing to let the moment slip past.
+- 'Good evening, are you waiting for the head chef?' Noting how good things are to Barinov, Lyova reaches for the Russian word "glavnogo" ("main", built from "glavnyy") right at the center of the line.
+- 'Viktor Petrovich, I cannot run to every table!' Bringing up the small table before Barinov, Lyova lands on "stoliku" ("small table", built on "stolik") to keep the statement grounded.
+- 'How will I find out whom exactly you are waiting for?' Lyova checks bluntly about what Barinov just brought up.
+- 'Photograph the guests on your phone and send it to me.' Emphasizing the photograph right here, Barinov uses "sfotografiruy" ("photograph") to carry the main weight of the thought.
+- 'Lyova, eat a carrot, it is good for the brain!' Addressing a carrot during the talk, Barinov chooses "morkovku" ("carrot", from the root "morkovka") so Lyova hears the exact meaning.
+- 'And here is your friend, greet him quickly!' Barinov steps in quietly with a nod, watching Lyova's face to see how the news lands.
+- 'Hello, Viktor Petrovich, your guests are already in the hall.' Turning to the visitors on the spot, Lyova centers the remark on "zdravstvuyte" ("hello") without any extra fuss.
+- 'Excellent, right now I will quickly cook them a hot dish.' Bringing up a hot dish during the talk, Barinov leans on "otlichno" ("great, excellent"), which carries the whole predicate in Russian without needing "it is".
+- 'And then I will immediately run back to Lena.' Barinov counters lightly around Lyova, letting the remark speak for itself.
+- 'Just make sure that Elena Pavlovna does not notice anything!' Lyova steps in naturally before Barinov and leans on "zametila" ("to notice, spot", a form of "zametit") to give the remark its edge.
+- 'And here I am back in the dining room again!' Checking on the hall with Lyova, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I hope they will not bring our dessert anytime soon.' Barinov answers lightly with a shrug, shifting the mood of the conversation in a single beat.

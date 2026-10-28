@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, stop it, Max.' Vika weighs in quietly on the spot, saying out loud what both of them already know.
-- 'I have thought a lot about us.' Vika spotlights one sharp expression with Max: "dumala" means "thought" (from "dumat"), giving the line its exact edge.
-- 'I decided that we...' Vika states the comeback without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I already had my procedure.' Max chimes in steadily facing Vika, saying out loud what both of them already know.
-- 'Well, that was yesterday.' Barinov uses this telling expression right here: "vchera" means "yesterday", and it carries the main weight of what Barinov is saying.
-- 'Vika, I am sorry.' Max voices the reply calmly now: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'Excuse me, that is not your bed.' Max responds bluntly with a smile, to clear the air between them once and for all.
-- 'What do you mean it is not mine?' Barinov delivers this point without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Viktoriya Sergeyevna, what are you doing here?' Max shapes this answer for Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'What am I doing here?' Max questions frankly how Vika expects that to work in practice.
-- 'What are you doing here?' Barinov sharpens one practical element at once: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'I came to visit Max.' Vika offers the remark frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Though right now he stepped out for his procedures.' Max pushes back briskly without a pause, making his position completely clear.
+- 'Oh, stop it, Max.' Vika fires back quietly toward Max, keeping the focus on what actually matters here.
+- 'I have thought a lot about us.' Vika chimes in briskly in front of Max and chooses "mnogo" ("a lot") so Max gets the point right away.
+- 'I decided that we...' Looking over quietly right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I already had my procedure.' Max pushes back steadily across the room, testing Vika's reaction in the middle of the exchange.
+- 'Well, that was yesterday.' Barinov weighs in naturally in this beat and leans on "vchera" ("yesterday") to give the whole sentence its punch.
+- 'Vika, I am sorry.' Max plainly chooses this informal apology at this moment using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'Excuse me, that is not your bed.' Max evenly drops this formal apology as they meet using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.
+- 'What do you mean it is not mine?' Weighing in calmly during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Viktoriya Sergeyevna, what are you doing here?' Reacting calmly to Barinov, Max puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'What am I doing here?' Max questions frankly how Barinov expects that to work in practice.
+- 'What are you doing here?' Barinov steps in directly right here and leans on "delayesh" ("are you doing", a form of "delat") to give the remark its edge.
+- 'I came to visit Max.' Following up evenly beside Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Though right now he stepped out for his procedures.' Max follows up briskly without a pause, steering the talk right where he wants it.

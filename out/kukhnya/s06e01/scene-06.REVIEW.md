@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to see me?' Katya presses bluntly how Eleonora expects that to work in practice.
-- 'Yes, sit down.' Eleonora anchors one classic piece with Katya: "sadis" means "sit down" (from "saditsya"), giving the line its exact edge.
-- 'Thank you, I will stand.' Katya lays out the reply toward Eleonora: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Katya, I understand you are upset with me.' Eleonora jumps in briskly as things stand, so Katya knows she is not just making small talk.
-- 'This is very important to me.' Eleonora highlights one vivid detail for Katya: "vazhno" means "important, mattering" (from "vazhnyy"), giving the line its exact edge.
-- 'Sorry, I cannot, there is a lot of work.' Katya hands over this warning plainly here: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'But I can give you a day off.' Eleonora fires back steadily on the spot, without trying to dress up how she really feels.
-- 'I am at fault, I interfered in your life.' Eleonora features this telling detail for Katya: "vmeshivalas" means "interfered" (from "vmeshivatsya"), giving the line its exact edge.
-- 'Nikita is a good guy, I really like him.' Katya chimes in decisively hearing Eleonora, to clear the air between them once and for all.
-- 'But nothing excuses his lying.' Katya jumps in quietly on the spot, before Eleonora can change the subject.
-- 'I understand you, because I love you.' Eleonora reaches for one familiar choice in earnest: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.
-- 'I love you very much, peace?' Eleonora frames the comment beside Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'Did you want to see me?' Katya presses bluntly while looking straight at Eleonora here.
+- 'Yes, sit down.' Eleonora follows up earnestly in this beat and reaches for the Russian word "sadis" ("sit down", built from "saditsya") right at the center of the line.
+- 'Thank you, I will stand.' Katya plainly sends this word of thanks with Eleonora using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Katya, I understand you are upset with me.' Eleonora speaks briskly on the spot, letting the remark speak for itself.
+- 'This is very important to me.' Explaining how important things are with Katya, Eleonora brings in "vazhno" ("important, mattering", from "vazhnyy") as the key Russian word here.
+- 'Sorry, I cannot, there is a lot of work.' Katya promptly directs this informal apology toward Eleonora using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'But I can give you a day off.' Eleonora jumps in steadily toward Katya, testing Katya's reaction in the middle of the exchange.
+- 'I am at fault, I interfered in your life.' Underscoring the life beside Katya, Eleonora centers the thought on "vinovata" ("at fault, to blame", from "vinovatyy") without wasting a word.
+- 'Nikita is a good guy, I really like him.' Highlighting how good things are right here, Katya brings in "khoroshiy" ("good") to make the meaning unmistakable.
+- 'But nothing excuses his lying.' Katya jumps in quietly hearing Eleonora, without trying to dress up how she really feels.
+- 'I understand you, because I love you.' Eleonora responds readily around Katya and brings in "ponimayu" ("understand", from "ponimat") as the key Russian word here.
+- 'I love you very much, peace?' Returning to the world to Katya, Eleonora keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.

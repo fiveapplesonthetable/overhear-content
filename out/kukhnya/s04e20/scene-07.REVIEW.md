@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, and where is our cook Barinov?' Barinov colors this direct expression with Nagiyev: "povar" means "chef, cook", and it carries the main weight of what Barinov is saying.
-- 'I do not know, he is probably sleeping at home.' Nagiyev continues promptly across the room, without trying to dress up how he really feels.
-- 'And why are you wearing a hat today?' Barinov probes calmly where this conversation is heading next.
-- 'Good grief, Dima, what is that on you?' Barinov hands over the remark facing Nagiyev: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'What is this? It is my big brain.' Nagiyev voices the comeback facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'It is too smart, so it bulges out.' Nagiyev responds at once in this moment, to clear the air between them once and for all.
-- 'Excuse me for being late, I am here already!' Barinov sharpens one sharp piece in earnest: "opozdaniye" means "being late", and it carries the main weight of what Barinov is saying.
-- 'Viktor Petrovich, and what happened to you?' Nagiyev frames that thought around Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Nothing serious, I accidentally slipped on a bald head.' Barinov opens up evenly with a shrug, bringing things back to earth after the buildup.
-- 'Do not worry, I will film today.' Barinov reaches for one telling word on cue: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'Dima, guess which finger I am showing?' Barinov states the reaction beside Nagiyev: putting the question word "kakoy" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'All right, everyone take your places quickly!' Nagiyev cuts in wryly with a sigh, saying out loud what both of them already know.
+- 'Dima, and where is our cook Barinov?' Barinov cuts in promptly right here and puts the emphasis on "povar" ("chef, cook") in the middle of the talk.
+- 'I do not know, he is probably sleeping at home.' Nagiyev pushes back evenly in front of Barinov and puts the emphasis on "navernoye" ("probably") in the middle of the talk.
+- 'And why are you wearing a hat today?' Barinov probes calmly why things suddenly took this turn between them.
+- 'Good grief, Dima, what is that on you?' Pressing on frankly in this beat, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'What is this? It is my big brain.' Mentioning the brain around Barinov, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'It is too smart, so it bulges out.' Nagiyev answers at once across the room, shifting the mood of the conversation in a single beat.
+- 'Excuse me for being late, I am here already!' Turning to the late at once, Barinov chooses "opozdaniye" ("being late") so Nagiyev gets the point right away.
+- 'Viktor Petrovich, and what happened to you?' Weighing in directly during the talk, Nagiyev puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Nothing serious, I accidentally slipped on a bald head.' Barinov pushes back evenly toward Nagiyev, grounding the moment in plain reality.
+- 'Do not worry, I will film today.' Barinov answers vividly in front of Nagiyev and uses "volnuytes" ("worry", from "volnovatsya") to make the point stick.
+- 'Dima, guess which finger I am showing?' Bringing up the finger on the spot, Barinov puts the question word "kakoy" right at the start so Nagiyev hears the focus immediately.
+- 'All right, everyone take your places quickly!' Nagiyev follows up wryly on the spot, refusing to let the moment slip past.

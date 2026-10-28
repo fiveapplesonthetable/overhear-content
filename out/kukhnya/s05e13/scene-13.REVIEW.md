@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, the defendant was kissing Sasha in the storage room.' Nastya highlights one telling expression in reply: "podsudimyy" means "defendant", and it carries the main weight of what Nastya is saying.
-- 'Precisely, he was only kissing!' Kostya voices the reaction beside Vika: the "-sya" ending on "tselovalsya" ("kissed") turns the action inward or makes it happen between people naturally.
-- 'An ordinary kiss does not constitute infidelity!' Kostya follows up candidly in their talk, steering the talk right where he wants it.
-- 'Is that so, darling? Well, if that is how it is!' Nastya points to one key term right here: "dorogoy" means "dear", and it carries the main weight of what Nastya is saying.
-- 'Nastya, that is enough already, stop immediately!' Kostya speaks up evenly toward Nastya, testing Nastya's reaction in the middle of the exchange.
-- 'I take all my words back!' Kostya opens up frankly as things stand, shifting the whole mood of the room in a single beat.
-- 'I agree, a kiss is real infidelity.' Kostya points to one practical word on cue: "nastoyashchaya" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
-- 'Your Honor, I have an important question.' Kostya puts that answer toward Vika: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Victoria, are you sure that they were kissing?' Kostya questions curiously whether Nastya really thought this through.
-- 'Maybe they were simply sitting next to each other?' Kostya anchors one telling word right here: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'What if she was taking a speck out of his eye?' Kostya gives that thought without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'In the storage room in the dark and without pants?' Vika presses bluntly as Nastya tries to explain the situation.
+- 'So, the defendant was kissing Sasha in the storage room.' Bringing up the defendant to Kostya, Nastya chooses "podsudimyy" ("defendant") so Kostya gets the point right away.
+- 'Precisely, he was only kissing!' Jumping in firmly at once, the "-sya" ending on "tselovalsya" ("kissed") marks an action that unfolds mutually or turns back on the speaker.
+- 'An ordinary kiss does not constitute infidelity!' Kostya continues candidly with a shrug, grounding the moment in plain reality.
+- 'Is that so, darling? Well, if that is how it is!' Confirming how dear things are before Kostya, Nastya chooses "dorogoy" ("dear") so Kostya gets the point right away.
+- 'Nastya, that is enough already, stop immediately!' Kostya weighs in dryly during the talk and centers the remark on "nemedlenno" ("immediately") without any extra fuss.
+- 'I take all my words back!' Kostya follows up frankly hearing Nastya, leaving no doubt about where he stands.
+- 'I agree, a kiss is real infidelity.' Making clear how agreed things are before Nastya, Kostya chooses "nastoyashchaya" ("real, genuine", from the root "nastoyashchiy") so Nastya hears the exact meaning.
+- 'Your Honor, I have an important question.' Kostya jumps in right away around Nastya, bringing things back to earth after the buildup.
+- 'Victoria, are you sure that they were kissing?' Kostya questions curiously about what Vika just brought up.
+- 'Maybe they were simply sitting next to each other?' Kostya speaks up directly at once and puts the weight on "sideli" ("sat, were sitting", from "sidet") as the exchange unfolds.
+- 'What if she was taking a speck out of his eye?' Dwelling on the speck dust around Vika, Kostya keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'In the storage room in the dark and without pants?' Vika presses bluntly why things suddenly took this turn between them.

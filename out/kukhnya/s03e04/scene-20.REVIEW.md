@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I found your little elephant here.' Katya holds firm honestly watching Barinov, before Barinov can change the subject.
-- 'Where? It was in the restaurant, right? I knew it.' Barinov wonders skeptically as Max tries to explain the situation.
-- 'Thank you so much. You can't imagine how dear this thing is to me.' Barinov uses one memorable expression toward Katya: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
-- 'Dad, try not to lose what is dear to you anymore.' Katya shares that remark for Max: the "-sya" ending on "staraysya" ("try") turns the action inward or makes it happen between people naturally.
-- 'Sometimes we try long and hard to find the key to unlock a door.' Max answers decisively to settle things, watching Barinov's face to see how the news lands.
-- 'But in the end we realize that the right key was never on the keyring.' Max reaches for one concrete word toward Katya: "nuzhnogo" means "the right, necessary" (from "nuzhnyy"), giving the line its exact edge.
-- 'Something that we will never know about.' Max sends this line briskly now: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Although we understand that it is the door to the future.' Max stands firm evenly on the spot, shifting the whole mood of the room in a single beat.
-- 'To the future in which we would like to find ourselves.' Max points to this direct element on cue: "budushcheye" means "future, next" (from "budushchiy"), giving the line its exact edge.
-- 'If you open the wrong door, someone else will open yours.' Max uses one clear term on cue: "otkroyete" means "open" (from "otkryt"), giving the line its exact edge.
-- 'Viktoria, it seems to me...' Barinov reacts plainly with a sigh, before Katya can change the subject.
-- 'It seems that I love you.' Barinov focuses on one memorable choice with Max: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'I found your little elephant here.' Addressing the elephant figurine during the talk, Katya reaches for the Russian word "slonika" ("little elephant figurine", built from "slonik") right at the center of the line.
+- 'Where? It was in the restaurant, right? I knew it.' Barinov wonders skeptically before Katya can change the subject.
+- 'Thank you so much. You can't imagine how dear this thing is to me.' Touching on the thank to Katya, Barinov leans on "predstavlyayesh" ("can you imagine", a form of "predstavlyat") to give the remark its edge.
+- 'Dad, try not to lose what is dear to you anymore.' Opening up briskly beside Barinov, the "-sya" ending on "staraysya" ("try") marks an action that unfolds mutually or turns back on the speaker.
+- 'Sometimes we try long and hard to find the key to unlock a door.' Max continues decisively with a smile, shifting the mood of the conversation in a single beat.
+- 'But in the end we realize that the right key was never on the keyring.' Mentioning the result during the talk, Max leans on "nuzhnogo" ("the right, necessary", a form of "nuzhnyy") to give the remark its edge.
+- 'Something that we will never know about.' Looking over naturally in the exchange, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Although we understand that it is the door to the future.' Max speaks up evenly on the spot, without trying to dress up how he really feels.
+- 'To the future in which we would like to find ourselves.' Max follows up vividly right here and lands on "budushcheye" ("future, next", built on "budushchiy") to keep the statement grounded.
+- 'If you open the wrong door, someone else will open yours.' Max weighs in firmly around Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Viktoria, it seems to me...' Barinov responds plainly without any doubt, so Max knows he is not just making small talk.
+- 'It seems that I love you.' Barinov reacts firmly in front of Max and reaches for the Russian word "kazhetsya" ("it seems, I think", built from "kazatsya") right at the center of the line.

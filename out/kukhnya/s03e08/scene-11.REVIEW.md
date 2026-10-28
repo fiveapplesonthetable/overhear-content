@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, maybe I really should quit?' Max makes this point without fuss: the "-sya" ending on "uvolitsya" ("quit, resign") turns the action inward or makes it happen between people naturally.
-- 'Vika is already in the past, and the job is normal.' Kostya fires back steadily during the talk, letting the remark speak for itself.
-- 'And rapid growth is on the horizon for you too.' Kostya chooses this sharp expression at once: "namechayetsya" means "is brewing" (from "namechatsya"), giving the line its exact edge.
-- 'What kind of growth, senior couriers?' Max brings the comment briskly now: putting the question word "kakoy" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Kostya, tell me, what were you yesterday?' Max questions skeptically before Barinov can change the subject.
-- 'Yesterday I was a bartender, and today I am a bartender too.' Kostya features one clear detail for Max: "barmenom" means "bartender" (from "barmen"), giving the line its exact edge.
-- 'Well there, and tomorrow you will be a bartender too.' Max leans on one familiar word at once: "barmenom" means "bartender" (from "barmen"), giving the line its exact edge.
-- 'An hour ago I was a cleaner, now a courier, and tonight a cook again.' Max replies dryly toward Kostya, to clear the air between them once and for all.
-- 'And then tomorrow I will become a famous lawyer!' Kostya focuses on one telling touch with Barinov: "izvestnym" means "famous" (from "izvestnyy"), giving the line its exact edge.
-- 'Alright, we place our feet shoulder-width apart.' Barinov holds firm decisively without a pause, bringing things back to earth after the buildup.
-- 'Our back is straight, and now we swing!' Barinov steps in honestly toward Kostya, without trying to dress up how he really feels.
-- 'This is the basic stroke in our golf.' Barinov underscores one familiar expression in reply: "osnovnoy" means "main, basic", and it carries the main weight of what Barinov is saying.
+- 'Listen, maybe I really should quit?' Returning to the honestly with Kostya, Max keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Vika is already in the past, and the job is normal.' Kostya fires back steadily hearing Max, grounding the moment in plain reality.
+- 'And rapid growth is on the horizon for you too.' Talking about the growth in the exchange, Kostya lands on "namechayetsya" ("is brewing", built on "namechatsya") to keep the statement grounded.
+- 'What kind of growth, senior couriers?' Talking about the growth in this beat, Max puts the question word "kakoy" right at the start so Kostya hears the focus immediately.
+- 'Kostya, tell me, what were you yesterday?' Max questions skeptically before Kostya can change the subject.
+- 'Yesterday I was a bartender, and today I am a bartender too.' Underscoring a bartender in the exchange, Kostya reaches for the Russian word "barmenom" ("bartender", built from "barmen") right at the center of the line.
+- 'Well there, and tomorrow you will be a bartender too.' Max speaks decisively during the talk, shifting the mood of the conversation in a single beat.
+- 'An hour ago I was a cleaner, now a courier, and tonight a cook again.' Max counters dryly on the spot, steering the talk right where he wants it.
+- 'And then tomorrow I will become a famous lawyer!' Underscoring a famous lawyer to Max, Kostya chooses "izvestnym" ("famous", from the root "izvestnyy") so Max hears the exact meaning.
+- 'Alright, we place our feet shoulder-width apart.' Highlighting the width during the talk, Barinov reaches for the Russian word "shirine" ("width", built from "shirina") right at the center of the line.
+- 'Our back is straight, and now we swing!' Barinov fires back honestly without holding back, watching Kostya's face to see how the news lands.
+- 'This is the basic stroke in our golf.' Explaining how main things are around Kostya, Barinov puts the emphasis on "osnovnoy" ("main, basic") in the middle of the talk.

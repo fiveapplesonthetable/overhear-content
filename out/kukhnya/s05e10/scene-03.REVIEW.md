@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yesterday the club lost, so he freaked out.' Barinov speaks up bluntly beside Mikhail, grounding the moment in plain reality.
-- 'And we have a commission in the hotel!' Mikhail picks this sharp piece for Nagiyev: "komissiya" means "commission", and it carries the main weight of what Mikhail is saying.
-- 'You look simply lovely!' Nagiyev delivers that reply beside Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Vitya, only you can understand me.' Nagiyev stands firm calmly in their talk, saying out loud what both of them already know.
-- 'Vitya, this is a disgrace!' Nagiyev chooses this vivid term for Barinov: "pozor" means "disgrace", and it carries the main weight of what Nagiyev is saying.
-- 'It could have been worse.' Barinov shapes this statement on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'The commission is waiting for the manager.' Mikhail replies at once watching Barinov, shifting the whole mood of the room in a single beat.
-- 'Wait, has the commission even seen you?' Mikhail centers this clear detail with Nagiyev: "komissiya" means "commission", and it carries the main weight of what Mikhail is saying.
-- 'I spoke on the phone.' Nagiyev shares this point beside Barinov: the "-sya" ending on "obshchalsya" ("to communicate") turns the action inward or makes it happen between people naturally.
-- 'He needs to sleep it off. Hide him somewhere.' Mikhail proceeds at once beside Nagiyev, keeping the focus on what actually matters here.
-- 'And do not leave him alone, so he does not wander around the hotel.' Mikhail uses one memorable expression right here: "ostavlyayte" means "leave" (from "ostavlyat"), giving the line its exact edge.
-- 'And how many luxury suites do you have?' Barinov delivers this point at once: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Yesterday the club lost, so he freaked out.' Barinov steps in bluntly around Mikhail, shifting the mood of the conversation in a single beat.
+- 'And we have a commission in the hotel!' Focusing on a commission in the exchange, Mikhail brings in "komissiya" ("commission") to make the meaning unmistakable.
+- 'You look simply lovely!' Speaking directly on the spot, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Vitya, only you can understand me.' Nagiyev jumps in calmly hearing Mikhail, making his position completely clear.
+- 'Vitya, this is a disgrace!' Addressing a disgrace right here, Nagiyev centers the remark on "pozor" ("disgrace") without any extra fuss.
+- 'It could have been worse.' Holding firm quietly beside Nagiyev, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'The commission is waiting for the manager.' Mikhail speaks at once in their talk, so Barinov knows he is not just making small talk.
+- 'Wait, has the commission even seen you?' Highlighting the commission in front of Nagiyev, Mikhail chooses "komissiya" ("commission") so Nagiyev gets the point right away.
+- 'I spoke on the phone.' Discussing the phone during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'He needs to sleep it off. Hide him somewhere.' Mikhail jumps in at once in this moment, before Nagiyev can change the subject.
+- 'And do not leave him alone, so he does not wander around the hotel.' Touching on the hotel to Barinov, Mikhail brings in "ostavlyayte" ("leave", from "ostavlyat") as the key Russian word here.
+- 'And how many luxury suites do you have?' Pointing to the rooms in the exchange, Barinov puts the question word "skolko" right at the start so Mikhail hears the focus immediately.

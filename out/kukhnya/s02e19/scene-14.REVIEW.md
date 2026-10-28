@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello there, Maxim.' Kostya brings the reaction on cue: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'Here I am!' Kostya counters openly with a sigh, shifting the whole mood of the room in a single beat.
-- 'Wait, who told you my address?' Max spotlights this key detail on cue: "adres" means "address", and it carries the main weight of what Max is saying.
-- 'What are all of you doing here?' Kostya phrases this update around Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Someone passed me your note with the address.' Max follows up dryly without a pause, without trying to dress up how he really feels.
-- 'I never passed you any note...' Kostya leans on this sharp touch at once: "peredaval" means "pass on, send" (from "peredavat"), giving the line its exact edge.
-- 'The door was unlocked.' Max states this update without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'It looks like I came at a bad time.' Kostya counters quietly with Max, shifting the whole mood of the room in a single beat.
-- 'Not at all, you arrived at the perfect moment.' Max spotlights one familiar element toward Kostya: "samyy" means "the most", and it carries the main weight of what Max is saying.
-- 'You should really just come to the restaurant instead.' Kostya spotlights this clear choice for Max: "prikhodite" means "come" (from "prikhodit"), giving the line its exact edge.
-- 'Alright then, Maxim.' Kostya answers bluntly in this moment, bringing things back to earth after the buildup.
-- 'Maxim, man, you really are something!' Kostya colors one classic term at once: "dayesh" means "give" (from "davat"), giving the line its exact edge.
-- 'You are regular Maxim Galkin.' Kostya directs this answer beside Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Hello there, Maxim.' Kostya openly extends this formal greeting in front of Max using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Here I am!' Kostya replies openly in this moment, making his position completely clear.
+- 'Wait, who told you my address?' Addressing his address on the spot, Max lands on "adres" ("address") as the key everyday word here.
+- 'What are all of you doing here?' Opening up candidly to Max, Kostya puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Someone passed me your note with the address.' Max opens up dryly in this moment, testing Kostya's reaction in the middle of the exchange.
+- 'I never passed you any note...' Kostya jumps in sharply beside Max and reaches for the Russian word "peredaval" ("pass on, send", built from "peredavat") right at the center of the line.
+- 'The door was unlocked.' Bringing up the door in front of Kostya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'It looks like I came at a bad time.' Kostya steps in quietly in their talk, watching Max's face to see how the news lands.
+- 'Not at all, you arrived at the perfect moment.' Max responds decisively around Kostya and chooses "samyy" ("the most") so Kostya gets the point right away.
+- 'You should really just come to the restaurant instead.' Kostya answers evenly with a shrug, watching Max's face to see how the news lands.
+- 'Alright then, Maxim.' Kostya openly speaks this word of agreement for Max using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Maxim, man, you really are something!' Reacting dryly with Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'You are regular Maxim Galkin.' Reacting plainly in the exchange, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.

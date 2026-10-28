@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Two hundred horsepower, an excellent motorcycle!' Barinov spotlights this clear term in earnest: "otlichnyy" means "excellent, great", and it carries the main weight of what Barinov is saying.
-- 'I had a motorcycle like that in my youth.' Barinov shares that thought beside Max: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'You ride for an hour, then overhaul it all day.' Barinov jumps in briskly across the room, making his position completely clear.
-- 'I have one like that standing in my workshop.' Max focuses on one colorful word right here: "masterskoy" means "in the workshop" (from "masterskaya"), giving the line its exact edge.
-- 'And what kind of workshop do you have?' Barinov gives that line before Katya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'I build all kinds of bikes to order.' Max opens up openly in their talk, letting the remark speak for itself.
-- 'I will let you go for a ride, thanks, I will stop by.' Max chooses one classic expression right here: "pokatatsya" means "to go for a ride", and it carries the main weight of what Max is saying.
-- 'My name is Viktor, and yours?' Barinov frames this warning on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'My friends just call me Piston.' Max jumps in briskly with a sigh, shifting the whole mood of the room in a single beat.
-- 'The girls recently gave me that name.' Max colors one memorable word with Katya: "devchonki" means "girls" (from "devchonka"), giving the line its exact edge.
-- 'Hi, have you been waiting long for me?' Katya drops that reply frankly here: opening with the casual greeting "privet" ("hi") signals right away that Katya and Barinov are on familiar terms.
-- 'Katya, wait, who on earth is this?' Barinov checks bluntly how Max expects that to work in practice.
-- 'Do you two know each other, this is my father!' Katya uses this vivid term in reply: "znakomy" means "acquainted" (from "znakomyy"), giving the line its exact edge.
+- 'Two hundred horsepower, an excellent motorcycle!' Talking about the horses to Max, Barinov leans on "otlichnyy" ("excellent, great") to give the whole sentence its punch.
+- 'I had a motorcycle like that in my youth.' Barinov fires back bluntly without holding back, testing Max's reaction in the middle of the exchange.
+- 'You ride for an hour, then overhaul it all day.' Barinov jumps in briskly across the room, to clear the air between them once and for all.
+- 'I have one like that standing in my workshop.' Turning to his workshop with Barinov, Max puts the weight on "masterskoy" ("in the workshop", from "masterskaya") as the exchange unfolds.
+- 'And what kind of workshop do you have?' Dwelling on the workshop right here, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'I build all kinds of bikes to order.' Max cuts in openly with a smile, testing Barinov's reaction in the middle of the exchange.
+- 'I will let you go for a ride, thanks, I will stop by.' Addressing the thank in this beat, Max brings in "pokatatsya" ("to go for a ride") to make the meaning unmistakable.
+- 'My name is Viktor, and yours?' Leaning in directly in front of Max, Barinov keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'My friends just call me Piston.' Max replies briskly with a sigh, grounding the moment in plain reality.
+- 'The girls recently gave me that name.' Focusing on the girls at once, Max puts the weight on "devchonki" ("girls", from "devchonka") as the exchange unfolds.
+- 'Hi, have you been waiting long for me?' Katya firmly offers this casual greeting at the start of the beat using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Katya, wait, who on earth is this?' Barinov checks bluntly while looking straight at Katya here.
+- 'Do you two know each other, this is my father!' Pointing out how acquainted things are right here, Katya puts the weight on "znakomy" ("acquainted", from "znakomyy") as the exchange unfolds.

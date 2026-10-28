@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your dad picked a strange neighborhood.' Kostya emphasizes this vivid word for the guest: "strannyy" means "strange, odd", and it carries the main weight of what Kostya is saying.
-- 'Bread at the store is very expensive.' Kostya lays out the thought beside Nastya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'The stores here are fine, and there is no line.' Nastya reacts dryly with a smile, so the guest knows she is not just making small talk.
-- 'Kostik, I invited my parents over to celebrate the surprise.' Nastya underscores this direct word at once: "roditeley" means "parents" (from "roditeli"), giving the line its exact edge.
-- 'Have you not managed to buy a TV for the living room yet?' The guest frames that remark calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'That is alright, I will buy you a new TV.' The guest answers candidly beside Nastya, leaving no doubt about where he stands.
-- 'No need, thank you, we will buy it ourselves.' Kostya anchors one classic piece right here: "spasibo" means "thank you", and it carries the main weight of what Kostya is saying.
-- 'After all, this is our home, and we will set the table here.' Kostya proceeds openly as things stand, letting the remark speak for itself.
+- 'Your dad picked a strange neighborhood.' Highlighting the area right here, Kostya centers the remark on "strannyy" ("strange, odd") without any extra fuss.
+- 'Bread at the store is very expensive.' Discussing the shop around Nastya, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'The stores here are fine, and there is no line.' Nastya follows up dryly watching Kostya, letting the remark speak for itself.
+- 'Kostik, I invited my parents over to celebrate the surprise.' Emphasizing her parents before Kostya, Nastya brings in "roditeley" ("parents", from "roditeli") as the key Russian word here.
+- 'Have you not managed to buy a TV for the living room yet?' Returning to the television before Nastya, the guest keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'That is alright, I will buy you a new TV.' The guest follows up candidly toward Kostya, leaving no doubt about where he stands.
+- 'No need, thank you, we will buy it ourselves.' Focusing on the thank in this beat, Kostya reaches for the Russian word "spasibo" ("thank you") right at the heart of the line.
+- 'After all, this is our home, and we will set the table here.' Turning to his home with the guest, Kostya leans on "nakryvat" ("to set, lay") to give the whole sentence its punch.
 - 'Maybe we should drink our cognac?' The guest probes earnestly why things suddenly took this turn between them.
-- 'No, I bought cognac myself.' Kostya colors one concrete piece in reply: "konyak" means "cognac, brandy", and it carries the main weight of what Kostya is saying.
-- 'It is a good region, and this cognac is good too.' Kostya frames this line for the guest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And affordable for ordinary people.' Kostya opens up wryly in their talk, leaving no doubt about where he stands.
+- 'No, I bought cognac myself.' Focusing on the cognac during the talk, Kostya reaches for the Russian word "konyak" ("cognac, brandy") right at the heart of the line.
+- 'It is a good region, and this cognac is good too.' Confirming how good things are on the spot, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And affordable for ordinary people.' Kostya responds wryly during the talk, letting the remark speak for itself.

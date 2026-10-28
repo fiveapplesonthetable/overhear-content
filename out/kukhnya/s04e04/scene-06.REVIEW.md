@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'On your mark. Get set. Go!' Vika jumps in sharply with a sigh, grounding the moment in plain reality.
-- 'Listen, you are calling at a really bad time right now.' Max centers one memorable word toward Vika: "voobshche" means "at all", and it carries the main weight of what Max is saying.
-- 'Hello, Max. I think they are going to fire me today.' Denis directs the comment in earnest: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
-- 'What happened?' Max probes openly while looking straight at Vika here.
-- 'German asked me to peel two sacks of potatoes before evening.' Denis grounds this clear element toward Max: "kartoshki" means "potatoes" (from "kartoshka"), giving the line its exact edge.
-- 'Maybe you can come over and help?' Denis directs this point to Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Well then, my hunter?' Vika asks skeptically before Denis can change the subject.
-- 'Listen, Den just called, he is in trouble at work.' Max sharpens one classic word in reply: "nepriyatnosti" means "troubles" (from "nepriyatnost"), giving the line its exact edge.
-- 'I have to help him, forgive me.' Max offers the thought with warmth: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'Did you forget what the doctor said?' Vika tests evenly where this conversation is heading next.
-- 'Darling, we have two whole days ahead of us.' Max spotlights one key detail right here: "lyubimaya" means "favourite, beloved" (from "lyubimyy"), giving the line its exact edge.
-- 'I will still have plenty of time.' Max jumps in bluntly with a shrug, bringing things back to earth after the buildup.
+- 'On your mark. Get set. Go!' Vika fires back sharply in this moment, making her position completely clear.
+- 'Listen, you are calling at a really bad time right now.' Max continues frankly at once and reaches for the Russian word "voobshche" ("at all") right at the heart of the line.
+- 'Hello, Max. I think they are going to fire me today.' Reacting plainly beside Max, the "-sya" ending on "kazhetsya" ("it seems, I think") marks an action that unfolds mutually or turns back on the speaker.
+- 'What happened?' Max probes openly while looking straight at Denis here.
+- 'German asked me to peel two sacks of potatoes before evening.' Addressing the potatoes in front of Max, Denis puts the weight on "kartoshki" ("potatoes", from "kartoshka") as the exchange unfolds.
+- 'Maybe you can come over and help?' Turning frankly with Vika, Denis keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Well then, my hunter?' Vika asks skeptically before Max can change the subject.
+- 'Listen, Den just called, he is in trouble at work.' Highlighting the troubles beside Vika, Max brings in "nepriyatnosti" ("troubles", from "nepriyatnost") as the key Russian word here.
+- 'I have to help him, forgive me.' Max casually chooses this personal apology in front of Vika using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'Did you forget what the doctor said?' Vika tests evenly why things suddenly took this turn between them.
+- 'Darling, we have two whole days ahead of us.' Max weighs in promptly during the talk and puts the weight on "lyubimaya" ("favourite, beloved", from "lyubimyy") as the exchange unfolds.
+- 'I will still have plenty of time.' Max cuts in promptly in front of Vika and leans on "yeshchyo" ("more, still") to give the whole sentence its punch.

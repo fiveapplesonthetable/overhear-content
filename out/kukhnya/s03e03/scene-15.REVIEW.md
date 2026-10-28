@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Attention everyone! I have two pieces of news for you.' Katya stands firm at once around Barinov, refusing to let the moment slip past.
-- 'The first piece of news is I am not a lesbian.' Katya spotlights one sharp term at once: "lesbiyanka" means "lesbian", and it carries the main weight of what Katya is saying.
-- 'And the second piece of news is Viktor Petrovich is my...' Katya voices that line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Your who?' Barinov prompts openly what Katya is actually getting at here.
-- 'He is her lover!' Fedya colors one familiar detail in earnest: "lyubovnik" means "lover", and it carries the main weight of what Fedya is saying.
-- 'Definitely her lover! Well, he's not her father.' Fedya speaks up openly with Katya, bringing things back to earth after the buildup.
-- 'That is why he was so furious when we were all running around her.' Fedya pushes back calmly facing Barinov, steering the talk right where he wants it.
-- 'Why did she kiss me then?' Fedya uses one loaded detail on cue: "potselovala" means "kissed" (from "potselovat"), giving the line its exact edge.
-- 'For cover!' Fedya puts that point in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'And I figured it out right away.' Fedya speaks up promptly with Katya, making his position completely clear.
-- 'Right away!' Fedya picks one key word toward Barinov: "pryamo" means "right, just", and it carries the main weight of what Fedya is saying.
-- 'They are in there talking right now.' Fedya follows up openly beside Katya, testing Katya's reaction in the middle of the exchange.
+- 'Attention everyone! I have two pieces of news for you.' Katya proceeds at once watching Barinov, steering the talk right where she wants it.
+- 'The first piece of news is I am not a lesbian.' Talking about a lesbian in front of Barinov, Katya reaches for the Russian word "lesbiyanka" ("lesbian") right at the heart of the line.
+- 'And the second piece of news is Viktor Petrovich is my...' Showing how second things are at once, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Your who?' Barinov prompts openly to see how Fedya will answer on the spot.
+- 'He is her lover!' Focusing on the lover on the spot, Fedya puts the emphasis on "lyubovnik" ("lover") in the middle of the talk.
+- 'Definitely her lover! Well, he's not her father.' Turning to the lover around Barinov, Fedya chooses "lyubovnik" ("lover") so Barinov gets the point right away.
+- 'That is why he was so furious when we were all running around her.' Fedya reacts calmly with a nod, to clear the air between them once and for all.
+- 'Why did she kiss me then?' Fedya continues dryly in front of Barinov and lands on "potselovala" ("kissed", built on "potselovat") to keep the statement grounded.
+- 'For cover!' Turning to the secrecy to Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'And I figured it out right away.' Fedya speaks up promptly with a sigh, bringing things back to earth after the buildup.
+- 'Right away!' Fedya responds candidly right here and puts the emphasis on "pryamo" ("right, just") in the middle of the talk.
+- 'They are in there talking right now.' Fedya counters plainly with Barinov and centers the thought on "razgovarivayut" ("to talk, to speak", from "razgovarivat") without wasting a word.

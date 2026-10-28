@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you want, my good man?' Barinov favors one practical term in earnest: "lyubeznyy" means "kind, polite", and it carries the main weight of what Barinov is saying.
-- 'To introduce myself and get acquainted.' German frames the remark around Max: the "-sya" ending on "predstavitsya" ("to introduce oneself") turns the action inward or makes it happen between people naturally.
-- 'You know, between us, I admire you.' German follows up openly watching Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'I am completely serious.' German sharpens one concrete term toward Max: "seryozno" means "seriously", and it carries the main weight of what German is saying.
-- 'To get in a car and run over the owner of the restaurant.' German states the reaction briskly now: the "-sya" ending on "proyekhatsya" ("to owner") turns the action inward or makes it happen between people naturally.
-- 'Wait, I am already here.' Max cuts in sharply without holding back, testing German's reaction in the middle of the exchange.
-- 'Yes, I am here, right here, darling.' German stresses this vivid element on cue: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
-- 'I will be right there, don't worry.' German offers this statement calmly now: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
+- 'What do you want, my good man?' Barinov follows up quietly during the talk and lands on "lyubeznyy" ("kind, polite") as the key everyday word here.
+- 'To introduce myself and get acquainted.' Reacting frankly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'You know, between us, I admire you.' German reacts openly around Barinov, letting the remark speak for itself.
+- 'I am completely serious.' German pushes back earnestly during the talk and brings in "seryozno" ("seriously") to make the meaning unmistakable.
+- 'To get in a car and run over the owner of the restaurant.' Dwelling on a car during the talk, the "-sya" ending on "proyekhatsya" ("to owner") marks an action that unfolds mutually or turns back on the speaker.
+- 'Wait, I am already here.' Max chimes in sharply during the talk, bringing things back to earth after the buildup.
+- 'Yes, I am here, right here, darling.' Emphasizing how expensive he is before Max, German brings in "dorogaya" ("expensive", from "dorogoy") as the key Russian word here.
+- 'I will be right there, don't worry.' Reacting smoothly around Max, the "-sya" ending on "volnuysya" ("worry") marks an action that unfolds mutually or turns back on the speaker.
 - 'At least don't run over the owner of Arcobaleno, huh?' German questions straight out if there is more going on behind the scenes.
-- 'Otherwise they will fire you. And Elena Pavlovna won't be able to help.' German picks one sharp choice toward Max: "pomozhet" means "will help" (from "pomoch"), giving the line its exact edge.
-- 'Listen here! Though you are right, she won't help.' Barinov grounds one direct touch at once: "pomozhet" means "will help" (from "pomoch"), giving the line its exact edge.
-- 'I would kiss you right now, for giving me that idea, if I weren't afraid of getting dirty.' Barinov counters quietly in their talk, bringing things back to earth after the buildup.
+- 'Otherwise they will fire you. And Elena Pavlovna won't be able to help.' German chimes in earnestly to Barinov and reaches for the Russian word "pomozhet" ("will help", built from "pomoch") right at the center of the line.
+- 'Listen here! Though you are right, she won't help.' Barinov proceeds steadily without holding back, grounding the moment in plain reality.
+- 'I would kiss you right now, for giving me that idea, if I weren't afraid of getting dirty.' Barinov proceeds quietly with a nod, so German knows he is not just making small talk.

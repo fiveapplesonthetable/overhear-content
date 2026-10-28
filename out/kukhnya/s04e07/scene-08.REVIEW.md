@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nagiyev himself asked me to save today's banquet!' Barinov speaks openly across the room, steering the talk right where he wants it.
-- 'Because your new chef cannot handle it.' Barinov weighs in quietly during the talk, bringing things back to earth after the buildup.
-- 'Interesting, why was I not invited to this conversation?' German highlights one clear term with Barinov: "razgovor" means "conversation", and it carries the main weight of what German is saying.
-- 'Let's go to the office, quickly, we will settle everything there!' Barinov chimes in boldly around Nagiyev, before Nagiyev can change the subject.
-- 'Dima, explain to him who is in charge here today!' Barinov answers candidly with a smile, testing German's reaction in the middle of the exchange.
-- 'Vitya, we agreed that you would simply come.' Nagiyev centers one familiar detail for German: "dogovarivalis" means "had an agreement" (from "dogovarivatsya"), giving the line its exact edge.
-- 'You will only show your face to the important guests.' Nagiyev frames one concrete piece in reply: "pokazhesh" means "will show" (from "pokazat"), giving the line its exact edge.
-- 'We had no agreement about any cooking!' Nagiyev answers earnestly around German, saying out loud what both of them already know.
-- 'What is that you are saying to me right now, Dima?' Barinov favors this sharp choice right here: "govorish" means "you say" (from "govorit"), giving the line its exact edge.
-- 'Calm down, I am begging you very much!' Nagiyev lays out that reply to German: the "-sya" ending on "uspokoysya" ("calm down") turns the action inward or makes it happen between people naturally.
-- 'Today our German Mikhailovich is cooking in the kitchen.' Nagiyev holds firm dryly during the talk, before Barinov can change the subject.
-- 'And you simply carry the dishes out nicely to the hall!' Barinov colors this key piece toward Nagiyev: "krasivo" means "beautifully" (from "krasivyy"), giving the line its exact edge.
+- 'Nagiyev himself asked me to save today's banquet!' Emphasizing the banquet with Nagiyev, Barinov leans on "segodnyashniy" ("of today's") to give the whole sentence its punch.
+- 'Because your new chef cannot handle it.' Barinov steps in quietly hearing German, so German knows he is not just making small talk.
+- 'Interesting, why was I not invited to this conversation?' Bringing up the conversation beside Barinov, German reaches for the Russian word "razgovor" ("conversation") right at the heart of the line.
+- 'Let's go to the office, quickly, we will settle everything there!' Turning to the office beside German, Barinov centers the remark on "kabinet" ("office") without any extra fuss.
+- 'Dima, explain to him who is in charge here today!' Barinov responds candidly with a nod, so Nagiyev knows he is not just making small talk.
+- 'Vitya, we agreed that you would simply come.' Nagiyev proceeds smoothly on the spot and lands on "dogovarivalis" ("had an agreement", built on "dogovarivatsya") to keep the statement grounded.
+- 'You will only show your face to the important guests.' Nagiyev follows up frankly without any doubt, before Barinov can change the subject.
+- 'We had no agreement about any cooking!' Nagiyev reacts earnestly with a sigh, leaving no doubt about where he stands.
+- 'What is that you are saying to me right now, Dima?' Barinov fires back sharply in this beat and puts the weight on "govorish" ("you say", from "govorit") as the exchange unfolds.
+- 'Calm down, I am begging you very much!' Jumping in candidly right here, the "-sya" ending on "uspokoysya" ("calm down") marks an action that unfolds mutually or turns back on the speaker.
+- 'Today our German Mikhailovich is cooking in the kitchen.' Nagiyev follows up dryly watching German, letting the remark speak for itself.
+- 'And you simply carry the dishes out nicely to the hall!' Focusing on the dish with Nagiyev, Barinov uses "krasivo" ("beautifully", from "krasivyy") to make the point stick.

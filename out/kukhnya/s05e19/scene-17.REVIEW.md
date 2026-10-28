@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here are ratings for interior, presentation, and the chef's dish.' Louis states that answer right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'So our new head chef really made a mess for him.' Lyova pushes back firmly to settle things, before Louis can change the subject.
-- 'At least the presentation of the dish is very creative.' Louis reaches for this sharp piece in reply: "kreativnaya" means "creative" (from "kreativnyy"), giving the line its exact edge.
-- 'He writes here about some new head chef.' Louis follows up pointedly with a shrug, watching Lyova's face to see how the news lands.
-- 'Hello, Lyova, well what is going on with you there?' Barinov probes candidly about what Louis just brought up.
-- 'The Michelin inspector is sitting in our dining room, Chef!' Lyova chooses one vivid word at once: "mishlenovskiy" means "Michelin", and it carries the main weight of what Lyova is saying.
-- 'Who is sitting there? How did he end up there?' Barinov aims this warning calmly now: the "-sya" ending on "okazalsya" ("turned up") turns the action inward or makes it happen between people naturally.
-- 'We found his notebook with restaurant ratings.' Lyova weighs in dryly facing Louis, to clear the air between them once and for all.
-- 'And Oguzok just took his own dish out to him.' Lyova stresses one familiar detail on cue: "blyudo" means "dish", and it carries the main weight of what Lyova is saying.
-- 'He served the inspector his signature pâté!' Lyova weighs in plainly in their talk, watching Louis's face to see how the news lands.
-- 'What do you mean pâté? Hold him, I am racing over right now!' Barinov asks skeptically in front of Louis without any preamble.
-- 'Chef is already flying back to our kitchen.' Lyova centers this telling expression on cue: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'Here are ratings for interior, presentation, and the chef's dish.' Bringing up the interior with Barinov, Louis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'So our new head chef really made a mess for him.' Lyova cuts in firmly with Barinov, bringing things back to earth after the buildup.
+- 'At least the presentation of the dish is very creative.' Making clear how creative things are beside Lyova, Louis lands on "kreativnaya" ("creative", built on "kreativnyy") to keep the statement grounded.
+- 'He writes here about some new head chef.' Louis opens up firmly in this beat and reaches for the Russian word "novogo" ("new", built from "novyy") right at the center of the line.
+- 'Hello, Lyova, well what is going on with you there?' Barinov probes candidly whether Lyova really thought this through.
+- 'The Michelin inspector is sitting in our dining room, Chef!' Addressing the hall with Barinov, Lyova lands on "mishlenovskiy" ("Michelin") as the key everyday word here.
+- 'Who is sitting there? How did he end up there?' Leaning in dryly on the spot, the "-sya" ending on "okazalsya" ("turned up") marks an action that unfolds mutually or turns back on the speaker.
+- 'We found his notebook with restaurant ratings.' Lyova weighs in dryly toward Barinov, refusing to let the moment slip past.
+- 'And Oguzok just took his own dish out to him.' Touching on the dish with Barinov, Lyova chooses "blyudo" ("dish") so Barinov gets the point right away.
+- 'He served the inspector his signature pâté!' Addressing the inspector with Barinov, Lyova lands on "inspektoru" ("inspector", built on "inspektor") to keep the statement grounded.
+- 'What do you mean pâté? Hold him, I am racing over right now!' Barinov asks skeptically while looking straight at Lyova here.
+- 'Chef is already flying back to our kitchen.' Turning to his kitchen beside Barinov, Lyova lands on "kukhnyu" ("kitchen", built on "kukhnya") to keep the statement grounded.

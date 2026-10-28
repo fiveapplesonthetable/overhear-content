@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, maybe you will come work for me?' Barinov chooses one clear choice in earnest: "poydyosh" means "will you go" (from "poyti"), giving the line its exact edge.
-- 'Oh no, thank you very much, chef.' Max directs the reaction toward Kostya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'I will go to St. Petersburg to a friend.' Max steps in warmly hearing Barinov, grounding the moment in plain reality.
-- 'Apparently, it will be better for everyone this way.' Max colors this telling detail toward Kostya: "luchshe" means "better", and it carries the main weight of what Max is saying.
-- 'We went for an X-ray, my leg is fine!' Kostya chimes in promptly with Barinov, keeping the focus on what actually matters here.
-- 'Passengers, board the car, the train is departing.' Kostya opens up candidly with a nod, before Max can change the subject.
-- 'Well goodbye, pal, take care of yourself there!' Kostya chooses one concrete expression in reply: "beregi" means "shore, bank" (from "bereg"), giving the line its exact edge.
-- 'In my youth I thought that I would still have everything.' Barinov responds briskly with a sigh, so Max knows he is not just making small talk.
-- 'So I did not truly treasure anything in particular.' Barinov speaks up frankly with a nod, letting the remark speak for itself.
-- 'And now I have very little left.' Barinov chooses this direct expression with Max: "seychas" means "now", and it carries the main weight of what Barinov is saying.
-- 'You still have time, do not waste it in vain.' Barinov brings this warning at once: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Thank you for everything, dear chef.' Max continues bluntly with a nod, watching Kostya's face to see how the news lands.
-- 'But instead of faith, only emptiness remained inside.' Max frames one memorable choice with Barinov: "pustota" means "emptiness", and it carries the main weight of what Max is saying.
+- 'Max, maybe you will come work for me?' Barinov follows up quietly beside Max and brings in "poydyosh" ("will you go", from "poyti") as the key Russian word here.
+- 'Oh no, thank you very much, chef.' Max responds honestly hearing Barinov, watching Barinov's face to see how the news lands.
+- 'I will go to St. Petersburg to a friend.' Max counters warmly with a smile, grounding the moment in plain reality.
+- 'Apparently, it will be better for everyone this way.' Max pushes back decisively in the exchange and lands on "luchshe" ("better") as the key everyday word here.
+- 'We went for an X-ray, my leg is fine!' Highlighting the order to Max, Kostya leans on "poryadke" ("order", a form of "poryadok") to give the remark its edge.
+- 'Passengers, board the car, the train is departing.' Kostya pushes back candidly in this moment, steering the talk right where he wants it.
+- 'Well goodbye, pal, take care of yourself there!' Talking about the shore right here, Kostya uses "beregi" ("shore, bank", from "bereg") to make the point stick.
+- 'In my youth I thought that I would still have everything.' Discussing his youth beside Kostya, Barinov chooses "molodosti" ("in youth", from the root "molodost") so Kostya hears the exact meaning.
+- 'So I did not truly treasure anything in particular.' Barinov fires back frankly with Kostya, letting the remark speak for itself.
+- 'And now I have very little left.' Barinov cuts in vividly before Max and brings in "ostalos" ("was left", from "ostatsya") as the key Russian word here.
+- 'You still have time, do not waste it in vain.' Talking about the time with Max, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Thank you for everything, dear chef.' Max pushes back bluntly facing Barinov, so Barinov knows he is not just making small talk.
+- 'But instead of faith, only emptiness remained inside.' Mentioning the emptiness at once, Max brings in "pustota" ("emptiness") to make the meaning unmistakable.

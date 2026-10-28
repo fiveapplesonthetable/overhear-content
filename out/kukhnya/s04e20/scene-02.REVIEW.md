@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey there, you really scared us yesterday!' Kostya leans on one concrete choice toward Denis: "zdorovo" means "great, cool", and it carries the main weight of what Kostya is saying.
-- 'Kostya, I got scared myself yesterday too.' Denis weighs in plainly in this moment, so Kostya knows he is not just making small talk.
-- 'Tell me, how did all of this happen yesterday?' Kostya chooses this direct expression with Denis: "proizoshlo" means "happened" (from "proizoyti"), giving the line its exact edge.
-- 'Do you remember I told you about my dreams?' Denis lays out this warning without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Well then, that woman was Vika.' Denis jumps in right away watching Kostya, saying out loud what both of them already know.
-- 'Wait, you mean Vika in your dream?' Kostya centers one classic term toward Denis: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Well, tell me about that in more detail.' Kostya holds firm dryly without any doubt, watching Denis's face to see how the news lands.
-- 'She called me into the office to help.' Denis answers right away watching Kostya, saying out loud what both of them already know.
-- 'In there she kisses me on the couch.' Denis emphasizes one key detail toward Kostya: "tseluyet" means "to kiss" (from "tselovat"), giving the line its exact edge.
-- 'I say to her: Vika, do not do that!' Denis drops this warning calmly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Katya, I need to talk with you!' Denis continues earnestly during the talk, grounding the moment in plain reality.
-- 'Katya, wait, I will explain everything to you!' Denis emphasizes one practical choice for Kostya: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
+- 'Hey there, you really scared us yesterday!' Kostya weighs in evenly toward Denis, refusing to let the moment slip past.
+- 'Kostya, I got scared myself yesterday too.' Denis speaks plainly across the room, testing Kostya's reaction in the middle of the exchange.
+- 'Tell me, how did all of this happen yesterday?' Kostya pushes back directly before Denis and chooses "proizoshlo" ("happened", from the root "proizoyti") so Denis hears the exact meaning.
+- 'Do you remember I told you about my dreams?' Discussing his dreams in the exchange, Denis keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Well then, that woman was Vika.' Denis weighs in right away during the talk, so Kostya knows he is not just making small talk.
+- 'Wait, you mean Vika in your dream?' Underscoring the dream beside Denis, Kostya brings in "podozhdi" ("wait", from "podozhdat") as the key Russian word here.
+- 'Well, tell me about that in more detail.' Kostya cuts in promptly in front of Denis and lands on "podrobneye" ("detail", built on "podrobniy") to keep the statement grounded.
+- 'She called me into the office to help.' Denis opens up right away without holding back, making his position completely clear.
+- 'In there she kisses me on the couch.' Turning to the sofa during the talk, Denis brings in "divane" ("sofa", from "divan") as the key Russian word here.
+- 'I say to her: Vika, do not do that!' Replying quietly during the talk, Denis leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Katya, I need to talk with you!' Denis opens up earnestly facing Kostya, before Kostya can change the subject.
+- 'Katya, wait, I will explain everything to you!' Denis jumps in evenly during the talk and chooses "obyasnyu" ("I'll explain", from the root "obyasnit") so Kostya hears the exact meaning.

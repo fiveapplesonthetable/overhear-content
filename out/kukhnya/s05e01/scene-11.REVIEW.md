@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, I brought the freshest goods.' Timur voices that thought in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'They were still having breakfast this morning.' Timur responds right away in their talk, making his position completely clear.
-- 'Why did you bring so much?' Senya picks one familiar choice in reply: "privyoz" means "brought" (from "privezti"), giving the line its exact edge.
-- 'You yourselves asked for five kilograms.' Timur highlights this direct touch right here: "kilogramm" means "kilogram", and it carries the main weight of what Timur is saying.
-- 'We asked for only five individual ones.' Senya stands firm briskly in their talk, steering the talk right where he wants it.
-- 'I do not sell them one by one.' Timur chooses one pointed touch toward Senya: "prodayu" means "I sell" (from "prodavat"), giving the line its exact edge.
-- 'If you do not buy them, others will.' Timur frames one clear touch in reply: "drugiye" means "other" (from "drugoy"), giving the line its exact edge.
-- 'They will buy them at the Chinese restaurant.' Timur continues bluntly with Senya, bringing things back to earth after the buildup.
-- 'Fine, hand them over here.' Senya stresses one classic expression right here: "davay" means "let's" (from "davat"), giving the line its exact edge.
-- 'Good morning, Timur.' Barinov states the comeback calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I met Eleonora Andreevna on the street.' Timur follows up evenly in this moment, bringing things back to earth after the buildup.
-- 'She found us at the new place.' Timur stresses one telling expression with Senya: "novom" means "new" (from "novyy"), giving the line its exact edge.
-- 'You always fed me great, Chef.' Timur directs the remark on cue: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'Look, I brought the freshest goods.' Mentioning the freshest goods to Senya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'They were still having breakfast this morning.' Timur pushes back right away with a smile, so Senya knows he is not just making small talk.
+- 'Why did you bring so much?' Senya counters pointedly with Timur and uses "privyoz" ("brought", from "privezti") to make the point stick.
+- 'You yourselves asked for five kilograms.' Timur pushes back earnestly in their talk, making his position completely clear.
+- 'We asked for only five individual ones.' Senya jumps in briskly across the room, leaving no doubt about where he stands.
+- 'I do not sell them one by one.' Timur responds evenly beside Senya and uses "prodayu" ("I sell", from "prodavat") to make the point stick.
+- 'If you do not buy them, others will.' Timur chimes in honestly with a smile, steering the talk right where he wants it.
+- 'They will buy them at the Chinese restaurant.' Timur reacts bluntly hearing Senya, shifting the mood of the conversation in a single beat.
+- 'Fine, hand them over here.' Senya casually gives this word of agreement without hesitation using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Good morning, Timur.' Barinov quietly gives this morning greeting at this moment using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'I met Eleonora Andreevna on the street.' Timur continues evenly without holding back, shifting the mood of the conversation in a single beat.
+- 'She found us at the new place.' Touching on the new place at once, Timur puts the weight on "novom" ("new", from "novyy") as the exchange unfolds.
+- 'You always fed me great, Chef.' Pushing back naturally at once, Timur leans on "otlichno" ("great, excellent"), which carries the whole predicate in Russian without needing "it is".

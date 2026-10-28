@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sometimes he calms down right away.' Barinov weighs in dryly watching Nastya, bringing things back to earth after the buildup.
-- 'Prepare the seafood dish quickly!' Barinov colors one colorful choice with Vika: "moreproduktov" means "seafood" (from "moreprodukty"), giving the line its exact edge.
-- 'Chef, nobody brought us orders like that.' Nastya chimes in right away without any doubt, watching Barinov's face to see how the news lands.
-- 'This is for Grandpa Kirill.' Barinov speaks up candidly with a sigh, bringing things back to earth after the buildup.
-- 'Guys, I am moving out of my apartment.' Vika colors one key element in earnest: "kvartiry" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Everything there is paid through the end of the year.' Vika continues dryly with a sigh, testing Nastya's reaction in the middle of the exchange.
-- 'Are you moving in with Dmitry Vladimirovich?' Nastya probes openly as Barinov tries to explain the situation.
-- 'We really need this apartment.' Nastya uses this sharp expression toward Vika: "kvartira" means "flat", and it carries the main weight of what Nastya is saying.
-- 'Our baby will arrive soon, he needs comfort.' Nastya gives this answer for Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Great, here are the keys to the apartment.' Vika chimes in warmly toward Nastya, without trying to dress up how she really feels.
-- 'I will give you the second set tomorrow.' Vika reaches for one direct piece with Barinov: "komplekt" means "set", and it carries the main weight of what Vika is saying.
-- 'You may get back to work.' Vika phrases this statement around Nastya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Sometimes he calms down right away.' Barinov counters dryly with Nastya, to clear the air between them once and for all.
+- 'Prepare the seafood dish quickly!' Emphasizing the seafood around Nastya, Barinov leans on "moreproduktov" ("seafood", a form of "moreprodukty") to give the remark its edge.
+- 'Chef, nobody brought us orders like that.' Touching on the orders right here, Nastya puts the weight on "zakazov" ("orders", from "zakaz") as the exchange unfolds.
+- 'This is for Grandpa Kirill.' Barinov speaks up candidly on the spot, to clear the air between them once and for all.
+- 'Guys, I am moving out of my apartment.' Focusing on the flat before Barinov, Vika chooses "kvartiry" ("flat", from the root "kvartira") so Barinov hears the exact meaning.
+- 'Everything there is paid through the end of the year.' Touching on the ending beside Nastya, Vika lands on "oplacheno" ("paid for", built on "oplatit") to keep the statement grounded.
+- 'Are you moving in with Dmitry Vladimirovich?' Nastya probes openly why things suddenly took this turn between them.
+- 'We really need this apartment.' Mentioning the flat in the exchange, Nastya leans on "kvartira" ("flat") to give the whole sentence its punch.
+- 'Our baby will arrive soon, he needs comfort.' Bringing up the kid beside Vika, Nastya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Great, here are the keys to the apartment.' Vika cuts in warmly in their talk, steering the talk right where she wants it.
+- 'I will give you the second set tomorrow.' Bringing up the second set with Nastya, Vika puts the emphasis on "komplekt" ("set") in the middle of the talk.
+- 'You may get back to work.' Addressing the work right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

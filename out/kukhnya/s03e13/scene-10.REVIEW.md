@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They say the thieves covered their tracks.' Max focuses on one concrete detail at once: "govoryat" means "talks, says" (from "govorit"), giving the line its exact edge.
-- 'They poured water on the computer.' Max directs the comment without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'At the company they said the video can be restored.' Barinov pushes back calmly with a nod, so Max knows he is not just making small talk.
-- 'Hello, yes, come to me about the repair.' Vika reaches for one sharp touch at once: "remonta" means "repair" (from "remont"), giving the line its exact edge.
-- 'Will the technician arrive at two o'clock?' Vika offers the comeback beside Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Yes, let him ask for Konstantin Anisimov.' Vika pushes back pointedly facing Max, so Max knows she is not just making small talk.
-- 'Max, what did you want anyway?' Vika leans on one colorful touch right here: "voobshche" means "at all", and it carries the main weight of what Vika is saying.
-- 'Dima, this is the highest price in your life.' Barinov shapes that line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Maybe do not rush with the marriage proposal?' Barinov quizzes skeptically before Max can change the subject.
-- 'Let me suggest one technique to you.' Barinov points to one sharp touch toward Vika: "metodiku" means "method, technique" (from "metodika"), giving the line its exact edge.
-- 'It is a technique of calm meditation.' Barinov offers that point for Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I have been doing this meditation for the last month.' Max speaks up honestly around Vika, testing Vika's reaction in the middle of the exchange.
+- 'They say the thieves covered their tracks.' Underscoring the thieves right here, Max puts the weight on "govoryat" ("talks, says", from "govorit") as the exchange unfolds.
+- 'They poured water on the computer.' Checking on the computer in front of Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'At the company they said the video can be restored.' Barinov pushes back calmly across the room, keeping the focus on what actually matters here.
+- 'Hello, yes, come to me about the repair.' Bringing up the repair at once, Vika brings in "remonta" ("repair", from "remont") as the key Russian word here.
+- 'Will the technician arrive at two o'clock?' Touching on the technician in front of Barinov, Vika keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Yes, let him ask for Konstantin Anisimov.' Vika cuts in pointedly in their talk, watching Barinov's face to see how the news lands.
+- 'Max, what did you want anyway?' Vika replies pointedly with Max and lands on "voobshche" ("at all") as the key everyday word here.
+- 'Dima, this is the highest price in your life.' Highlighting how expensive things are in front of Vika, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Maybe do not rush with the marriage proposal?' Barinov quizzes skeptically why things suddenly took this turn between them.
+- 'Let me suggest one technique to you.' Focusing on the method at once, Barinov brings in "metodiku" ("method, technique", from "metodika") as the key Russian word here.
+- 'It is a technique of calm meditation.' Mentioning the meditation right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I have been doing this meditation for the last month.' Max speaks up honestly beside Barinov, grounding the moment in plain reality.

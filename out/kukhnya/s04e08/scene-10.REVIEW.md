@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elena Pavlovna, why did you abandon us like that?' Barinov leans on this sharp expression toward Elena: "brosili" means "threw, dropped" (from "brosit"), giving the line its exact edge.
-- 'We cannot manage in the kitchen here without you!' Barinov brings this point with warmth: the "-sya" ending on "spravlyayemsya" ("to cope, manage") turns the action inward or makes it happen between people naturally.
-- 'Oh come on, Viktor, just do not be modest.' Elena answers briskly with a shrug, so Barinov knows she is not just making small talk.
-- 'And I just came out to meet you and have a talk.' Barinov leans on this clear word toward Lyova: "pogovorit" means "to talk", and it carries the main weight of what Barinov is saying.
-- 'You know, Vitya, I also wanted to talk with you.' Elena weighs in briskly on the spot, steering the talk right where she wants it.
-- 'Perhaps we can pleasantly combine our conversations?' Elena questions bluntly in front of Lyova without any preamble.
-- 'Let's have dinner tomorrow evening at our restaurant!' Elena picks one practical piece right here: "pouzhinayem" means "to have dinner" (from "pouzhinat"), giving the line its exact edge.
-- 'Yes, of course, I will come with great pleasure!' Barinov pushes back decisively beside Lyova, steering the talk right where he wants it.
-- 'Go into the kitchen, and I will breathe some more fresh air.' Barinov chimes in decisively in their talk, making his position completely clear.
-- 'Lyova, can you imagine, she invited me on a date!' Barinov points to one telling detail with Lyova: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
-- 'And that guy said that it was your car.' Lyova focuses on this direct choice toward Barinov: "mashina" means "a car", and it carries the main weight of what Lyova is saying.
-- 'Lyova, climb out quickly, we need to replace the window glass!' Barinov jumps in steadily with a smile, watching Lyova's face to see how the news lands.
+- 'Elena Pavlovna, why did you abandon us like that?' Barinov chimes in naturally beside Elena and reaches for the Russian word "brosili" ("threw, dropped", built from "brosit") right at the center of the line.
+- 'We cannot manage in the kitchen here without you!' Holding firm readily around Elena, the "-sya" ending on "spravlyayemsya" ("to cope, manage") marks an action that unfolds mutually or turns back on the speaker.
+- 'Oh come on, Viktor, just do not be modest.' Elena cuts in briskly around Barinov, making her position completely clear.
+- 'And I just came out to meet you and have a talk.' Barinov cuts in frankly to Elena and uses "pogovorit" ("to talk") to carry the main weight of the thought.
+- 'You know, Vitya, I also wanted to talk with you.' Elena reacts boldly with Barinov and uses "pogovorit" ("to talk") to carry the main weight of the thought.
+- 'Perhaps we can pleasantly combine our conversations?' Elena questions bluntly how Barinov expects that to work in practice.
+- 'Let's have dinner tomorrow evening at our restaurant!' Pointing to her restaurant during the talk, Elena leans on "restorane" ("restaurant", a form of "restoran") to give the remark its edge.
+- 'Yes, of course, I will come with great pleasure!' Discussing the pleasure with Elena, Barinov reaches for the Russian word "udovolstviyem" ("pleasure", built from "udovolstviye") right at the center of the line.
+- 'Go into the kitchen, and I will breathe some more fresh air.' Barinov chimes in decisively with a sigh, before Elena can change the subject.
+- 'Lyova, can you imagine, she invited me on a date!' Focusing on a date to Lyova, Barinov uses "predstavlyayesh" ("can you imagine", from "predstavlyat") to make the point stick.
+- 'And that guy said that it was your car.' Lyova speaks up boldly watching Barinov, shifting the mood of the conversation in a single beat.
+- 'Lyova, climb out quickly, we need to replace the window glass!' Barinov steps in steadily with a shrug, testing Lyova's reaction in the middle of the exchange.

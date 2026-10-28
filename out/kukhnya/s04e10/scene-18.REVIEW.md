@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, the guest refused the dish.' Lyova cuts in steadily toward Barinov, before Barinov can change the subject.
-- 'What did this guest not like?' Barinov reaches for one practical expression on cue: "ponravilos" means "pleased, was liked" (from "ponravitsya"), giving the line its exact edge.
-- 'He has a severe allergy to salt.' Lyova chimes in plainly toward Barinov, bringing things back to earth after the buildup.
-- 'He says this is not a restaurant, but a dive.' Lyova answers dryly with Nagiyev, keeping the focus on what actually matters here.
-- 'Have you completely lost your minds in there?' Nagiyev focuses on one colorful element on cue: "sovsem" means "at all", and it carries the main weight of what Nagiyev is saying.
-- 'The Emperor has been waiting half his life for his order!' Nagiyev counters evenly in this moment, watching Lyova's face to see how the news lands.
-- 'I am telling jokes in front of him.' Nagiyev opens up earnestly in their talk, shifting the whole mood of the room in a single beat.
-- 'Who cooked this dish today?' Nagiyev sharpens one direct piece for Lyova: "segodnya" means "today", and it carries the main weight of what Nagiyev is saying.
-- 'Listen, in a minute the dish will be ready.' Barinov continues boldly to be clear, watching Lyova's face to see how the news lands.
-- 'The Emperor is displeased, he will destroy us!' Nagiyev reacts steadily with a sigh, without trying to dress up how he really feels.
-- 'By the way, where is my clone?' Barinov leans on one direct touch toward Lyova: "kstati" means "by the way", and it carries the main weight of what Barinov is saying.
-- 'He was supposed to replace me.' Barinov reacts steadily facing Nagiyev, before Nagiyev can change the subject.
-- 'He has already replaced you, chef!' Lyova pushes back firmly beside Barinov, leaving no doubt about where he stands.
+- 'Viktor Petrovich, the guest refused the dish.' Lyova continues steadily with a nod, testing Barinov's reaction in the middle of the exchange.
+- 'What did this guest not like?' Touching on the guest before Lyova, Barinov puts the weight on "ponravilos" ("pleased, was liked", from "ponravitsya") as the exchange unfolds.
+- 'He has a severe allergy to salt.' Talking about a severe allergy in the exchange, Lyova brings in "allergiya" ("an allergy") to make the meaning unmistakable.
+- 'He says this is not a restaurant, but a dive.' Lyova responds dryly with a shrug, shifting the mood of the conversation in a single beat.
+- 'Have you completely lost your minds in there?' Turning to the mind with Lyova, Nagiyev puts the emphasis on "sovsem" ("at all") in the middle of the talk.
+- 'The Emperor has been waiting half his life for his order!' Bringing up the himself beside Lyova, Nagiyev leans on "imperator" ("himself") to give the whole sentence its punch.
+- 'I am telling jokes in front of him.' Nagiyev pushes back earnestly with Barinov, watching Barinov's face to see how the news lands.
+- 'Who cooked this dish today?' Turning to the dish with Barinov, Nagiyev lands on "blyudo" ("dish") as the key everyday word here.
+- 'Listen, in a minute the dish will be ready.' Mentioning a minute at once, Barinov puts the weight on "minutu" ("a minute", from "minuta") as the exchange unfolds.
+- 'The Emperor is displeased, he will destroy us!' Nagiyev responds steadily without a pause, letting the remark speak for itself.
+- 'By the way, where is my clone?' Addressing his clone with Nagiyev, Barinov brings in "klon" ("clone") to make the meaning unmistakable.
+- 'He was supposed to replace me.' Barinov counters promptly during the talk and leans on "dolzhen" ("has to, must") to give the whole sentence its punch.
+- 'He has already replaced you, chef!' Lyova chimes in firmly facing Barinov, watching Barinov's face to see how the news lands.

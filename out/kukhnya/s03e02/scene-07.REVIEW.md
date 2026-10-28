@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Eat! Insatiable.' Nastya reaches for one clear term on cue: "nenasytnyy" means "insatiable", and it carries the main weight of what Nastya is saying.
-- 'Here is a piece of candy.' Nastya states this line facing Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'So, regarding the tenderloin.' Max replies frankly around Ilya, refusing to let the moment slip past.
-- 'First of all, it must be fresh.' Max focuses on one pointed term for Nastya: "vo-pervykh" means "first of all", and it carries the main weight of what Max is saying.
-- 'At a minimum.' Max voices that answer with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Picking up the lamb.' Ilya steps in frankly without a pause, shifting the whole mood of the room in a single beat.
-- 'Right, why is it getting cold here? Taking it.' Ilya chooses one familiar piece right here: "ostyvayet" means "is getting cold" (from "ostyvat"), giving the line its exact edge.
-- 'Bon appetit!' Max drops this point without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Eat! Insatiable.' Nastya pushes back evenly in this beat and centers the remark on "nenasytnyy" ("insatiable") without any extra fuss.
+- 'Here is a piece of candy.' Bringing up the piece candy before Max, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'So, regarding the tenderloin.' Max counters frankly with Nastya, to clear the air between them once and for all.
+- 'First of all, it must be fresh.' Max speaks firmly in this beat and centers the thought on "dolzhna" ("should, must", from "dolzhen") without wasting a word.
+- 'At a minimum.' Holding firm firmly on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Picking up the lamb.' Ilya weighs in frankly facing Max, keeping the focus on what actually matters here.
+- 'Right, why is it getting cold here? Taking it.' Ilya replies warmly with Max and lands on "ostyvayet" ("is getting cold", built on "ostyvat") to keep the statement grounded.
+- 'Bon appetit!' Talking about the appetite to Ilya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
 - 'Well, what is this?' Ilya inquires briskly while looking straight at Max here.
-- 'Apparently, the lamb was very delicious, and the cook couldn't resist.' Max leans on this clear element toward Nastya: "yagnyonok" means "lamb", and it carries the main weight of what Max is saying.
-- 'Let me redo everything right now.' Max drops that point without fuss: the word "davayte" is the polite or group version of "let's", inviting Ilya into the plan right away.
-- 'Forgive me! Well, you asked for it.' Max proceeds openly with a sigh, letting the remark speak for itself.
+- 'Apparently, the lamb was very delicious, and the cook couldn't resist.' Discussing the lamb to Ilya, Max leans on "yagnyonok" ("lamb") to give the whole sentence its punch.
+- 'Let me redo everything right now.' Looking over directly before Ilya, Max uses the polite or group form "davayte" ("let's") to bring Ilya into the plan.
+- 'Forgive me! Well, you asked for it.' Max lightly delivers this formal apology at the start of the beat using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.

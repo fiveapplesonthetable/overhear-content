@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What on earth is going on here?' Barinov sharpens one concrete term right here: "proiskhodit" means "is going on", and it carries the main weight of what Barinov is saying.
-- 'No, go on into your room right now.' Vika shapes this point on cue: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Viktor Petrovich, stop right there.' Vika counters calmly facing Barinov, bringing things back to earth after the buildup.
-- 'Good grief, Viktor Petrovich, this is my...' Vika highlights one key piece in reply: "yelki" means "fir tree" (from "yolka"), giving the line its exact edge.
-- 'I get it, you do not need to finish that sentence.' Barinov features one colorful piece in reply: "prodolzhat" means "to continue", and it carries the main weight of what Barinov is saying.
-- 'Wait, what are you doing here with him?' Vika probes frankly how Barinov expects that to work in practice.
-- 'Alright, stop that right now, please.' Barinov chooses one direct touch with Vika: "prekrati" means "stop it" (from "prekratit"), giving the line its exact edge.
-- 'And besides, why are you even here?' Vika directs that remark right away: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'By the way, he smells like alcohol.' Barinov jumps in openly with a nod, shifting the whole mood of the room in a single beat.
-- 'Mom, please do not even start.' Vika colors this sharp term right here: "nachinay" means "start" (from "nachinat"), giving the line its exact edge.
-- 'Maybe you really would be better off in the army.' Barinov anchors one key choice at once: "konechno" means "of course", and it carries the main weight of what Barinov is saying.
-- 'Go to your room.' Vika speaks evenly facing Barinov, keeping the focus on what actually matters here.
-- 'No, did you see that?' Barinov grounds one loaded choice at once: "videl" means "saw, have seen" (from "videt"), giving the line its exact edge.
+- 'What on earth is going on here?' Barinov proceeds quietly during the talk and chooses "proiskhodit" ("is going on") so Vika gets the point right away.
+- 'No, go on into your room right now.' Turning to the room on the spot, Vika starts with "davay" ("come on, let's") to invite Barinov right into the action.
+- 'Viktor Petrovich, stop right there.' Vika jumps in calmly without holding back, so Barinov knows she is not just making small talk.
+- 'Good grief, Viktor Petrovich, this is my...' Touching on the fir tree during the talk, Vika brings in "yelki" ("fir tree", from "yolka") as the key Russian word here.
+- 'I get it, you do not need to finish that sentence.' Barinov warmly delivers this acknowledgment beside Vika using "ponyatno" ("understood") — a single word meaning "clear, got it", showing the point has landed.
+- 'Wait, what are you doing here with him?' Vika probes frankly to see how Barinov will answer on the spot.
+- 'Alright, stop that right now, please.' Barinov firmly sends this courtesy word at the start of the beat using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'And besides, why are you even here?' Answering candidly at once, Vika drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'By the way, he smells like alcohol.' Barinov counters openly in this moment, grounding the moment in plain reality.
+- 'Mom, please do not even start.' Focusing on the mum in this beat, Vika brings in "nachinay" ("start", from "nachinat") as the key Russian word here.
+- 'Maybe you really would be better off in the army.' Barinov gently shares this confirmation in the exchange using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Go to your room.' Vika weighs in evenly in their talk, so Barinov knows she is not just making small talk.
+- 'No, did you see that?' Barinov jumps in quietly to Vika and lands on "videl" ("saw, have seen", built on "videt") to keep the statement grounded.

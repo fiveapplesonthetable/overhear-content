@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What was that on the stage just now?' Elena shapes this statement before Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Why did he ask me to drink up there?' Elena presses plainly as the inspector tries to explain the situation.
-- 'Who knows with those Swedes?' Barinov anchors this clear choice at once: "shvedov" means "Swedes" (from "shved"), giving the line its exact edge.
-- 'He thinks that Russians simply love to drink.' Barinov directs this warning with candor: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'At least you have the dress of your dreams!' Barinov speaks briskly before Elena, to clear the air between them once and for all.
-- 'I will go, I have a lot of cooking to do.' Barinov uses one familiar detail for the inspector: "gotovit" means "to cook", and it carries the main weight of what Barinov is saying.
-- 'Vitya, thank you very much for the dress.' Elena states this statement on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'I will marry you in it.' Elena proceeds pointedly with a sigh, before the inspector can change the subject.
-- 'Well do not look at me like that!' Barinov grounds this key expression in earnest: "smotri" means "look" (from "smotret"), giving the line its exact edge.
-- 'Viktor Petrovich, the Michelin inspector has come to see you!' Elena leans on one clear word for the inspector: "inspektor" means "inspector", and it carries the main weight of what Elena is saying.
-- 'Hello, my name is Inspector Alexey Smolin.' The inspector reacts lightly as things stand, before Barinov can change the subject.
-- 'Today I am inspecting your new restaurant.' The inspector underscores this sharp element at once: "proveryayu" means "to check, test" (from "proveryat"), giving the line its exact edge.
+- 'What was that on the stage just now?' Turning to the stage on the spot, Elena puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Why did he ask me to drink up there?' Elena presses plainly why things suddenly took this turn between them.
+- 'Who knows with those Swedes?' Barinov jumps in evenly in front of Elena and reaches for the Russian word "shvedov" ("Swedes", built from "shved") right at the center of the line.
+- 'He thinks that Russians simply love to drink.' Turning promptly in the exchange, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'At least you have the dress of your dreams!' Barinov steps in briskly across the room, without trying to dress up how he really feels.
+- 'I will go, I have a lot of cooking to do.' Barinov weighs in smoothly with Elena and brings in "gotovit" ("to cook") to make the meaning unmistakable.
+- 'Vitya, thank you very much for the dress.' Elena chimes in dryly with Barinov, watching Barinov's face to see how the news lands.
+- 'I will marry you in it.' Elena weighs in plainly across the room, grounding the moment in plain reality.
+- 'Well do not look at me like that!' Barinov fires back promptly in their talk, before Elena can change the subject.
+- 'Viktor Petrovich, the Michelin inspector has come to see you!' Elena jumps in pointedly facing Barinov, so Barinov knows she is not just making small talk.
+- 'Hello, my name is Inspector Alexey Smolin.' The inspector follows up lightly hearing Elena, leaving no doubt about where he stands.
+- 'Today I am inspecting your new restaurant.' Pointing to the restaurant in the exchange, the inspector puts the emphasis on "restoran" ("restaurant") in the middle of the talk.

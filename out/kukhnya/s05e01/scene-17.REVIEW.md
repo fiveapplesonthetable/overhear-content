@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right now the prefect will cut our ribbon.' Mikhail opens up promptly watching Barinov, without trying to dress up how he really feels.
-- 'Applause, ladies and gentlemen!' Mikhail replies lightly with Senya, leaving no doubt about where he stands.
-- 'Welcome to the hotel!' Mikhail sharpens one memorable term in reply: "pozhalovat" means "to welcome", and it carries the main weight of what Mikhail is saying.
-- 'And where is my pizza?' Mikhail delivers this point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Everything will be ready. Do not worry.' Barinov chimes in boldly as they talk, watching Mikhail's face to see how the news lands.
-- 'The hot pizza arrived, delivery.' Senya features one key detail with Mikhail: "goryachaya" means "hot" (from "goryachiy"), giving the line its exact edge.
-- 'Who here is Chef Barinov?' Senya puts that thought before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Hand it here, check the order.' Barinov counters warmly with Senya, leaving no doubt about where he stands.
-- 'I have everything ready.' Barinov colors this direct expression toward Mikhail: "gotovo" means "ready" (from "gotovyy"), giving the line its exact edge.
-- 'Where are our beautiful rose petals?' Senya drops this answer briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'They are in the storage room in a box.' Barinov pushes back honestly to be clear, bringing things back to earth after the buildup.
-- 'I will bring that box right now.' Senya sharpens one classic touch at once: "korobku" means "box, carton" (from "korobka"), giving the line its exact edge.
+- 'Right now the prefect will cut our ribbon.' Emphasizing the prefect with Barinov, Mikhail centers the remark on "prefekt" ("district prefect") without any extra fuss.
+- 'Applause, ladies and gentlemen!' Mikhail speaks up lightly with a shrug, refusing to let the moment slip past.
+- 'Welcome to the hotel!' Highlighting the good in front of Barinov, Mikhail chooses "pozhalovat" ("to welcome") so Barinov gets the point right away.
+- 'And where is my pizza?' Pointing to his pizza right here, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Everything will be ready. Do not worry.' Barinov cuts in boldly across the room, shifting the mood of the conversation in a single beat.
+- 'The hot pizza arrived, delivery.' Underscoring the hot pizza right here, Senya chooses "goryachaya" ("hot", from the root "goryachiy") so Barinov hears the exact meaning.
+- 'Who here is Chef Barinov?' Opening up plainly in front of Barinov, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Hand it here, check the order.' Barinov jumps in warmly watching Senya, so Senya knows he is not just making small talk.
+- 'I have everything ready.' Barinov reacts dryly right here and centers the thought on "gotovo" ("ready", from "gotovyy") without wasting a word.
+- 'Where are our beautiful rose petals?' Underscoring how beautiful things are in this beat, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'They are in the storage room in a box.' Barinov opens up honestly with a nod, grounding the moment in plain reality.
+- 'I will bring that box right now.' Underscoring the box beside Barinov, Senya chooses "korobku" ("box, carton", from the root "korobka") so Barinov hears the exact meaning.

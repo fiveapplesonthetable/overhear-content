@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You seem like a grown man, yet you engage in such nonsense.' The inspector opens up sharply without any doubt, leaving no doubt about where he stands.
-- 'And are you not engaging in nonsense yourself right now?' Barinov points to one colorful expression with Lyova: "zanimayeshsya" means "to be busy with" (from "zanimatsya"), giving the line its exact edge.
-- 'You are secretly deceiving your best friend Andrey!' Barinov underscores one clear term in earnest: "obmanyvayesh" means "are deceiving" (from "obmanyvat"), giving the line its exact edge.
-- 'Stop it, please, and do not talk such utter nonsense!' The inspector cuts in sharply with a sigh, grounding the moment in plain reality.
-- 'Chef, I brought your disc from the hotel, but what is on it!' Lyova frames one practical term at once: "otelya" means "of the hotel" (from "otel"), giving the line its exact edge.
-- 'Right now we will find out whether I am talking nonsense or not!' Barinov gives the comment frankly here: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Quiet, Lyova, be silent for a minute and watch the screen!' Barinov opens up at once without a pause, testing the inspector's reaction in the middle of the exchange.
-- 'Seryozha, maybe you will stay with me today after all?' Lyova spotlights one loaded term with the inspector: "ostaneshsya" means "will stay" (from "ostatsya"), giving the line its exact edge.
-- 'That is not quite what I expected, but the scheme works!' Barinov makes that thought with ease: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Wait, what about the earring I lost yesterday?' Lyova wonders firmly while looking straight at the inspector here.
-- 'Andrey, put it in your pocket, or I will lose it too!' Lyova leans on one telling detail at once: "poteryayu" means "to lose" (from "poteryat"), giving the line its exact edge.
-- 'Well, Sergey Vladimirovich, write your letter of resignation!' Barinov weighs in candidly without a pause, keeping the focus on what actually matters here.
+- 'You seem like a grown man, yet you engage in such nonsense.' The inspector reacts sharply with a shrug, so Barinov knows he is not just making small talk.
+- 'And are you not engaging in nonsense yourself right now?' Focusing on the nonsense with the inspector, Barinov chooses "zanimayeshsya" ("to be busy with", from the root "zanimatsya") so the inspector hears the exact meaning.
+- 'You are secretly deceiving your best friend Andrey!' Barinov replies decisively in this moment, so the inspector knows he is not just making small talk.
+- 'Stop it, please, and do not talk such utter nonsense!' The inspector reacts sharply with a smile, refusing to let the moment slip past.
+- 'Chef, I brought your disc from the hotel, but what is on it!' Bringing up the hotel right here, Lyova uses "otelya" ("of the hotel", from "otel") to make the point stick.
+- 'Right now we will find out whether I am talking nonsense or not!' Highlighting the nonsense around Lyova, Barinov brings in "uznayem" ("will find out", from "uznat") as the key Russian word here.
+- 'Quiet, Lyova, be silent for a minute and watch the screen!' Barinov responds at once in their talk, to clear the air between them once and for all.
+- 'Seryozha, maybe you will stay with me today after all?' Lyova cuts in firmly at once and uses "ostaneshsya" ("will stay", from "ostatsya") to make the point stick.
+- 'That is not quite what I expected, but the scheme works!' Returning to the plan to Lyova, Barinov adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Wait, what about the earring I lost yesterday?' Lyova wonders firmly to see how Barinov will answer on the spot.
+- 'Andrey, put it in your pocket, or I will lose it too!' Lyova speaks frankly in front of Barinov and uses "poteryayu" ("to lose", from "poteryat") to make the point stick.
+- 'Well, Sergey Vladimirovich, write your letter of resignation!' Talking about the statement with Lyova, Barinov uses "zayavleniye" ("statement") to carry the main weight of the thought.

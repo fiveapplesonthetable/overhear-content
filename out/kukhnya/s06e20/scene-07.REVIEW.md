@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, what is going on here?' Denis sharpens this vivid element in reply: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
-- 'I see you do not change at all.' Denis shapes the reaction briskly now: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Misha, what kind of jokes are these?' Barinov questions straight out in front of Denis without any preamble.
-- 'Well, how am I a disabled person to you?' Listen to how Barinov addresses Mikhail with candor — the Russian word "invalid" ("disabled person") gives the whole sentence its punch.
-- 'You recently came out of a coma.' Mikhail grounds one vivid element on cue: "nedavno" means "returned", and it carries the main weight of what Mikhail is saying.
-- 'So I did not even lie.' Mikhail jumps in quietly around Denis, without trying to dress up how he really feels.
-- 'I only embellished everything slightly.' Mikhail reaches for one loaded word on cue: "priukrasil" means "embellished" (from "priukrasit"), giving the line its exact edge.
-- 'Fry him a simple cheburek.' Mikhail highlights one colorful touch in earnest: "cheburek" means "cheburek", and it carries the main weight of what Mikhail is saying.
-- 'And it will be a culinary masterpiece!' Mikhail fires back boldly facing Barinov, leaving no doubt about where he stands.
-- 'And do you know why it will be like that?' Mikhail points to one vivid choice in reply: "znayesh" means "know" (from "znat"), giving the line its exact edge.
-- 'Right now you are our main ingredient.' Mikhail shares that point without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I do not like this idea.' Barinov stands firm at once during the talk, refusing to let the moment slip past.
+- 'Tell me, what is going on here?' Denis speaks vividly during the talk and uses "dela" ("things, affairs", from "delo") to make the point stick.
+- 'I see you do not change at all.' Holding firm directly in this beat, Denis adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Misha, what kind of jokes are these?' Mentioning the jokes across the room, Barinov lets Denis see exactly where things stand.
+- 'Well, how am I a disabled person to you?' Emphasizing a disabled person before Mikhail, Barinov chooses "invalid" ("disabled person") so Mikhail gets the point right away.
+- 'You recently came out of a coma.' Mikhail fires back pointedly with a shrug, steering the talk right where he wants it.
+- 'So I did not even lie.' Mikhail weighs in quietly around Barinov, letting the remark speak for itself.
+- 'I only embellished everything slightly.' Mikhail opens up frankly at once and uses "priukrasil" ("embellished", from "priukrasit") to make the point stick.
+- 'Fry him a simple cheburek.' Mikhail continues pointedly with a smile, so Barinov knows he is not just making small talk.
+- 'And it will be a culinary masterpiece!' Mikhail replies boldly facing Barinov, leaving no doubt about where he stands.
+- 'And do you know why it will be like that?' Jumping in readily around Barinov, Mikhail puts the question word "pochemu" right at the start so Barinov hears the focus immediately.
+- 'Right now you are our main ingredient.' Addressing the ingredient on the spot, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I do not like this idea.' Barinov counters at once with Mikhail, making his position completely clear.

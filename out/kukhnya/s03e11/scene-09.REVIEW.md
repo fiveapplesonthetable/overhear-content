@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, why did you set me up like that?' Max inquires candidly about what Barinov just brought up.
-- 'Maybe you simply do not remember anything?' Katya reaches for one pointed detail in earnest: "pomnish" means "do you remember" (from "pomnit"), giving the line its exact edge.
-- 'Hey, Max, take your hands off right now!' Katya frames this point briskly now: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'And now will you also say that there is nothing going on?' Barinov prompts point-blank before Max can change the subject.
-- 'You misunderstood everything, Chef!' Max picks one familiar term toward Barinov: "ponyali" means "did you understand" (from "ponyat"), giving the line its exact edge.
-- 'Watch out so that you do not run off to Voronezh!' Barinov leans on this telling detail in reply: "uyekhal" means "left, went away" (from "uyekhat"), giving the line its exact edge.
-- 'Well then, what shall we name the son?' Barinov probes openly how Katya expects that to work in practice.
-- 'Where is my hot food today, Chef?' Max frames one classic detail at once: "goryachaya" means "hot" (from "goryachiy"), giving the line its exact edge.
-- 'Why must the guest wait for so long?' Max lays out the comment frankly here: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Dmitry Vladimirovich, the chef is cooking for you himself.' Katya proceeds steadily around Max, leaving no doubt about where she stands.
-- 'Dima, wait, everything will be ready right now!' Barinov chooses one familiar piece in reply: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Forgive me, I will quickly make everything again right now.' Barinov gives the reply frankly here: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'Did you understand me? I am going to the kitchen!' Barinov inquires openly where this conversation is heading next.
+- 'Katya, why did you set me up like that?' Max inquires candidly where this conversation is heading next.
+- 'Maybe you simply do not remember anything?' Katya answers frankly in this beat and reaches for the Russian word "pomnish" ("do you remember", built from "pomnit") right at the center of the line.
+- 'Hey, Max, take your hands off right now!' Focusing on the hands at once, Katya centers the thought on "ruki" ("hands", from "ruka") without wasting a word.
+- 'And now will you also say that there is nothing going on?' Barinov prompts point-blank whether Max really thought this through.
+- 'You misunderstood everything, Chef!' Max chimes in openly with Barinov and leans on "ponyali" ("did you understand", a form of "ponyat") to give the remark its edge.
+- 'Watch out so that you do not run off to Voronezh!' Barinov jumps in warmly with a smile, to clear the air between them once and for all.
+- 'Well then, what shall we name the son?' Barinov probes openly while looking straight at Max here.
+- 'Where is my hot food today, Chef?' Bringing up the food beside Barinov, Max chooses "goryachaya" ("hot", from the root "goryachiy") so Barinov hears the exact meaning.
+- 'Why must the guest wait for so long?' Addressing the guest to Katya, Max puts the question word "pochemu" right at the start so Katya hears the focus immediately.
+- 'Dmitry Vladimirovich, the chef is cooking for you himself.' Katya weighs in steadily with a sigh, shifting the mood of the conversation in a single beat.
+- 'Dima, wait, everything will be ready right now!' Barinov replies plainly with Katya and reaches for the Russian word "gotovo" ("ready", built from "gotovyy") right at the center of the line.
+- 'Forgive me, I will quickly make everything again right now.' Barinov steps in frankly beside Katya and chooses "sdelayu" ("I'll do", from the root "sdelat") so Katya hears the exact meaning.
+- 'Did you understand me? I am going to the kitchen!' Barinov inquires openly why things suddenly took this turn between them.

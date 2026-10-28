@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'War is a matter of vital importance.' Kostya proceeds steadily toward Nastya, shifting the whole mood of the room in a single beat.
-- 'People have started throwing books into the trash.' Nastya sharpens one clear term on cue: "vybrasyvat" means "to throw out", and it carries the main weight of what Nastya is saying.
-- 'This country does not have long left.' Kostya follows up frankly without a pause, testing Nastya's reaction in the middle of the exchange.
-- 'I am going to take a shower.' Nastya holds firm bluntly without any doubt, grounding the moment in plain reality.
-- 'That must be the pizza.' Kostya picks one classic expression with Nastya: "pitstsa" means "pizza", and it carries the main weight of what Kostya is saying.
-- 'Coming, I am coming!' Nastya directs this answer for Kostya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'How much do I owe you?' Kostya questions quietly if there is more going on behind the scenes.
-- 'Here you go, keep the change.' Nastya stresses one classic piece with Kostya: "sdachi" means "change, surrender" (from "sdacha"), giving the line its exact edge.
-- 'What pizza are you talking about?' Kostya sends that reply briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Who on earth are you?' Nastya challenges wryly before Kostya can change the subject.
-- 'Where do you think you are barging in?' Kostya frames one telling expression at once: "lechish" means "to treat, to lecture" (from "lechit"), giving the line its exact edge.
-- 'Oh, and you reek of alcohol too.' Nastya spotlights one practical detail right here: "yeshche" means "still" (from "yeshchyo"), giving the line its exact edge.
-- 'If you do not want to do this the easy way, it is going to hurt.' Kostya chimes in decisively around Nastya, bringing things back to earth after the buildup.
+- 'War is a matter of vital importance.' Kostya proceeds steadily with a shrug, leaving no doubt about where he stands.
+- 'People have started throwing books into the trash.' Highlighting the books in this beat, Nastya leans on "vybrasyvat" ("to throw out") to give the whole sentence its punch.
+- 'This country does not have long left.' Discussing the country right here, Kostya puts the weight on "strany" ("country", from "strana") as the exchange unfolds.
+- 'I am going to take a shower.' Nastya continues bluntly hearing Kostya, letting the remark speak for itself.
+- 'That must be the pizza.' Focusing on the pizza in this beat, Kostya puts the emphasis on "pitstsa" ("pizza") in the middle of the talk.
+- 'Coming, I am coming!' Reacting readily in front of Kostya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'How much do I owe you?' Kostya questions quietly how Nastya expects that to work in practice.
+- 'Here you go, keep the change.' Touching on the change in this beat, Nastya uses "sdachi" ("change, surrender", from "sdacha") to make the point stick.
+- 'What pizza are you talking about?' Dwelling on the pizza on the spot, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Who on earth are you?' Nastya challenges wryly why things suddenly took this turn between them.
+- 'Where do you think you are barging in?' Kostya weighs in decisively in front of Nastya and centers the thought on "lechish" ("to treat, to lecture", from "lechit") without wasting a word.
+- 'Oh, and you reek of alcohol too.' Nastya pushes back at once beside Kostya, without trying to dress up how she really feels.
+- 'If you do not want to do this the easy way, it is going to hurt.' Kostya cuts in decisively beside Nastya, refusing to let the moment slip past.

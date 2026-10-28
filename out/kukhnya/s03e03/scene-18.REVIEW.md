@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, Rodion Sergeyevich, show us what you filmed there.' Barinov follows up warmly with a smile, making his position completely clear.
-- 'I am afraid I will disappoint you.' Rodion colors one concrete piece with Elena: "razocharovat" means "to disappoint", and it carries the main weight of what Rodion is saying.
-- 'I found this device by the garbage bins.' Rodion cuts in firmly watching Barinov, leaving no doubt about where he stands.
-- 'Working models rarely end up there.' Rodion cuts in calmly beside Elena, steering the talk right where he wants it.
-- 'Yes, you should play poker!' Barinov leans on one concrete expression in earnest: "poker" means "poker", and it carries the main weight of what Barinov is saying.
-- 'Hi, Lyova. What did you want?' Rodion directs the remark in earnest: opening with the casual greeting "privet" ("hi") signals right away that Rodion and Elena are on familiar terms.
-- 'So that is what kind of furniture you were moving yesterday, Viktor Petrovich!' Elena answers bluntly with a shrug, saying out loud what both of them already know.
-- 'Where is Viktor Petrovich?' Elena drops the remark with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Viktor Petrovich left! More precisely, drove away.' Rodion continues decisively in this moment, saying out loud what both of them already know.
-- 'Where did he drive to? I have the car.' Elena quizzes openly while looking straight at Rodion here.
-- 'He drove off with Timur for meat!' Barinov favors one clear piece with Elena: "myasom" means "meat" (from "myaso"), giving the line its exact edge.
-- 'What is going on here?' Elena aims that line with ease: putting the question word "chto" right at the front of the line lets Rodion hear the point of the question on the very first beat.
+- 'Well, Rodion Sergeyevich, show us what you filmed there.' Barinov cuts in warmly in this moment, making his position completely clear.
+- 'I am afraid I will disappoint you.' Rodion opens up earnestly during the talk and leans on "razocharovat" ("to disappoint") to give the whole sentence its punch.
+- 'I found this device by the garbage bins.' Pointing to the unit beside Barinov, Rodion uses "musornykh" ("garbage, trash", from "musornyy") to make the point stick.
+- 'Working models rarely end up there.' Rodion chimes in calmly with a smile, shifting the mood of the conversation in a single beat.
+- 'Yes, you should play poker!' Talking about the poker during the talk, Barinov reaches for the Russian word "poker" ("poker") right at the heart of the line.
+- 'Hi, Lyova. What did you want?' Rodion calmly delivers this casual greeting in one quick breath using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'So that is what kind of furniture you were moving yesterday, Viktor Petrovich!' Elena pushes back bluntly in this moment, leaving no doubt about where she stands.
+- 'Where is Viktor Petrovich?' Weighing in firmly in the exchange, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Viktor Petrovich left! More precisely, drove away.' Rodion counters pointedly in this beat and reaches for the Russian word "tochneye" ("definitely", built from "tochno") right at the center of the line.
+- 'Where did he drive to? I have the car.' Elena quizzes openly what Barinov is actually getting at here.
+- 'He drove off with Timur for meat!' Discussing the meat in the exchange, Barinov uses "myasom" ("meat", from "myaso") to make the point stick.
+- 'What is going on here?' Pushing back briskly on the spot, Elena puts the question word "chto" right at the start so Barinov hears the focus immediately.

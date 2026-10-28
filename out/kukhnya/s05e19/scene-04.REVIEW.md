@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was walking past and thought I would drop in.' Nagiyev spotlights one loaded choice toward Barinov: "dumayu" means "I think" (from "dumat"), giving the line its exact edge.
-- 'I will visit my old comrade-in-arms.' Nagiyev pushes back dryly before Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Remember how you and I were in the trenches together?' Nagiyev questions eagerly in front of Barinov without any preamble.
-- 'Dima, you are a professional actor after all.' Barinov spotlights this sharp element in earnest: "professionalnyy" means "professional", and it carries the main weight of what Barinov is saying.
-- 'Why are you acting so poorly right now?' Barinov directs the reply without fuss: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
-- 'Oh, I have missed your jokes.' Nagiyev chimes in decisively without a pause, saying out loud what both of them already know.
-- 'Dima, speak plainly, what do you want?' Catch how Barinov speaks to Nagiyev right away — the Russian word "govori" ("say, talk", built from "govorit") does the heavy lifting.
-- 'Come back, Vitya, back to our restaurant.' Nagiyev drops this update without pause: the "-sya" ending on "vozvrashchaysya" ("return") turns the action inward or makes it happen between people naturally.
-- 'After all, you and I are of the same blood.' Nagiyev speaks up sharply around Barinov, keeping the focus on what actually matters here.
-- 'Have you completely lost your mind, why would I do that?' Barinov centers this vivid touch at once: "sovsem" means "at all", and it carries the main weight of what Barinov is saying.
-- 'I will pay five hundred thousand rubles a month!' Nagiyev speaks up calmly watching Barinov, before Barinov can change the subject.
-- 'Do not even dream of it, just forget about it.' Barinov cuts in promptly across the room, bringing things back to earth after the buildup.
+- 'I was walking past and thought I would drop in.' Nagiyev continues readily at once and lands on "dumayu" ("I think", built on "dumat") to keep the statement grounded.
+- 'I will visit my old comrade-in-arms.' Mentioning the comrade in this beat, Nagiyev brings in "tovarishcha" ("comrade", from "tovarishch") as the key Russian word here.
+- 'Remember how you and I were in the trenches together?' Nagiyev questions eagerly if there is more going on behind the scenes.
+- 'Dima, you are a professional actor after all.' Describing how professional Nagiyev is beside Nagiyev, Barinov leans on "professionalnyy" ("professional") to give the whole sentence its punch.
+- 'Why are you acting so poorly right now?' Holding firm promptly beside Nagiyev, Barinov keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Oh, I have missed your jokes.' Nagiyev chimes in decisively facing Barinov, keeping the focus on what actually matters here.
+- 'Dima, speak plainly, what do you want?' Barinov chimes in evenly in this beat and centers the thought on "govori" ("say, talk", from "govorit") without wasting a word.
+- 'Come back, Vitya, back to our restaurant.' Pointing to his restaurant in the exchange, the "-sya" ending on "vozvrashchaysya" ("return") marks an action that unfolds mutually or turns back on the speaker.
+- 'After all, you and I are of the same blood.' Nagiyev jumps in sharply with a sigh, bringing things back to earth after the buildup.
+- 'Have you completely lost your mind, why would I do that?' Barinov counters boldly before Nagiyev and brings in "sovsem" ("at all") to make the meaning unmistakable.
+- 'I will pay five hundred thousand rubles a month!' Highlighting the thousand to Barinov, Nagiyev centers the thought on "tysyach" ("thousand", from "tysyacha") without wasting a word.
+- 'Do not even dream of it, just forget about it.' Barinov follows up promptly watching Nagiyev, refusing to let the moment slip past.

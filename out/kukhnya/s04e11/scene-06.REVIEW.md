@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Irochka, may I have you for a second?' Nagiyev asks candidly to see how Nastya will answer on the spot.
-- 'Why do you not correct me?' Nagiyev features one sharp piece at once: "popravlyayesh" means "to correct" (from "popravlyat"), giving the line its exact edge.
-- 'You are Nastya, after all!' Nagiyev hands over this warning for Nastya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'I have already gotten tired of correcting you.' Nastya opens up steadily in this moment, before Nagiyev can change the subject.
-- 'But I am pleased that you remembered.' Nastya highlights one concrete touch in earnest: "zapomnili" means "to remember" (from "zapomnit"), giving the line its exact edge.
-- 'Do not get smart, I read it on your badge.' Nagiyev replies decisively in this moment, leaving no doubt about where he stands.
-- 'Call our sommelier over to us.' Nagiyev replies at once in this moment, refusing to let the moment slip past.
-- 'It is time for us to drink some good wine.' Nagiyev uses one vivid touch with Nastya: "khoroshego" means "good, the best" (from "khoroshiy"), giving the line its exact edge.
-- 'Our sommelier is not here today.' Nastya directs this warning right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What do you mean not here, where is he?' Nagiyev prompts point-blank to see how Nastya will answer on the spot.
-- 'He did not come in to work again.' Nastya colors one memorable choice toward Nagiyev: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
-- 'Then bring us the best bottle yourself.' Nagiyev replies evenly in their talk, grounding the moment in plain reality.
-- 'An excellent choice, I will bring it right away!' Nastya chimes in decisively hearing Nagiyev, letting the remark speak for itself.
+- 'Irochka, may I have you for a second?' Nagiyev asks candidly if there is more going on behind the scenes.
+- 'Why do you not correct me?' Nagiyev jumps in firmly to Nastya and chooses "popravlyayesh" ("to correct", from the root "popravlyat") so Nastya hears the exact meaning.
+- 'You are Nastya, after all!' Holding firm quietly with Nastya, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I have already gotten tired of correcting you.' Nastya cuts in steadily without a pause, grounding the moment in plain reality.
+- 'But I am pleased that you remembered.' Nastya answers readily right here and centers the thought on "zapomnili" ("to remember", from "zapomnit") without wasting a word.
+- 'Do not get smart, I read it on your badge.' Touching on the sign to Nastya, Nagiyev puts the weight on "tablichke" ("sign, plaque", from "tablichka") as the exchange unfolds.
+- 'Call our sommelier over to us.' Nagiyev jumps in at once in this moment, so Nastya knows he is not just making small talk.
+- 'It is time for us to drink some good wine.' Pointing out how good things are with Nastya, Nagiyev brings in "khoroshego" ("good, the best", from "khoroshiy") as the key Russian word here.
+- 'Our sommelier is not here today.' Opening up dryly during the talk, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What do you mean not here, where is he?' Nagiyev prompts point-blank if there is more going on behind the scenes.
+- 'He did not come in to work again.' Focusing on the job at once, Nastya chooses "rabotu" ("job", from the root "rabota") so Nagiyev hears the exact meaning.
+- 'Then bring us the best bottle yourself.' Touching on the best bottle on the spot, Nagiyev puts the weight on "luchshuyu" ("the best", from "luchshiy") as the exchange unfolds.
+- 'An excellent choice, I will bring it right away!' Nastya cuts in decisively without holding back, grounding the moment in plain reality.

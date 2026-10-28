@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I already love you so much as it is...' Barinov centers one key piece in reply: "ochen" means "very much", and it carries the main weight of what Barinov is saying.
-- 'Kostyan, save me right now!' Max aims that remark on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I warned you not to come in here!' Kostya opens up openly without a pause, testing Barinov's reaction in the middle of the exchange.
-- 'Nastya, wait, we will talk about it later.' Barinov focuses on one telling term in reply: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
-- 'Chef, Chef, Chef, chasing him will not help.' Max steps in frankly without holding back, keeping the focus on what actually matters here.
-- 'I know him very well.' Kostya answers frankly without holding back, so Max knows he is not just making small talk.
-- 'It is better if you simply hear him out.' Barinov frames one colorful detail right here: "vyslushayte" means "to listen to" (from "vyslushat"), giving the line its exact edge.
-- 'Chef, please, just talk to him for a minute.' Max voices that reply for Kostya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Alright, let us step outside for some air.' Kostya steps in plainly without holding back, letting the remark speak for itself.
-- 'Chef, I never wanted to betray you.' Max points to this telling expression in reply: "predavat" means "to betray", and it carries the main weight of what Max is saying.
-- 'I simply could not have acted any other way.' Max weighs in briskly without a pause, watching Barinov's face to see how the news lands.
-- 'You made your own choice yourself.' Kostya pushes back firmly before Max, refusing to let the moment slip past.
-- 'And only after that come all the money issues.' Barinov chooses one concrete word in reply: "babki" means "grand" (from "babka"), giving the line its exact edge.
+- 'I already love you so much as it is...' Barinov replies firmly right here and reaches for the Russian word "ochen" ("very much") right at the heart of the line.
+- 'Kostyan, save me right now!' Reacting evenly around Kostya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I warned you not to come in here!' Kostya follows up openly without a pause, leaving no doubt about where he stands.
+- 'Nastya, wait, we will talk about it later.' Barinov speaks up earnestly to Kostya and puts the weight on "pogovorim" ("we'll have a talk", from "pogovorit") as the exchange unfolds.
+- 'Chef, Chef, Chef, chasing him will not help.' Max speaks up directly in this beat and uses "pomozhet" ("will help", from "pomoch") to make the point stick.
+- 'I know him very well.' Kostya chimes in frankly with a shrug, bringing things back to earth after the buildup.
+- 'It is better if you simply hear him out.' Barinov speaks up decisively around Kostya and puts the weight on "vyslushayte" ("to listen to", from "vyslushat") as the exchange unfolds.
+- 'Chef, please, just talk to him for a minute.' Jumping in quietly in the exchange, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Alright, let us step outside for some air.' Kostya replies plainly beside Max, watching Max's face to see how the news lands.
+- 'Chef, I never wanted to betray you.' Max jumps in smoothly in the exchange and centers the remark on "predavat" ("to betray") without any extra fuss.
+- 'I simply could not have acted any other way.' Max replies naturally before Kostya and chooses "postupit" ("get into") so Kostya gets the point right away.
+- 'You made your own choice yourself.' Kostya continues firmly watching Max, before Max can change the subject.
+- 'And only after that come all the money issues.' Talking about the grand right here, Barinov leans on "babki" ("grand", a form of "babka") to give the remark its edge.

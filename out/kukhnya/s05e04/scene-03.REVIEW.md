@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing? Drinking tea.' Nastya asks wryly about what Barinov just brought up.
-- 'Come on, spill it. Trouble with Denis?' Nastya underscores one practical touch at once: "rasskazyvay" means "tell" (from "rasskazyvat"), giving the line its exact edge.
-- 'No, everything is fine with Denis.' Katya shares the remark without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Come on, fine. When things were fine, we could hear the two of you every single night.' Nastya weighs in firmly hearing Katya, watching Katya's face to see how the news lands.
-- 'Alright, this conversation is not going to work over plain tea.' Nastya chooses one direct piece with Barinov: "razgovor" means "conversation", and it carries the main weight of what Nastya is saying.
-- 'Lena, I am really glad you called.' Barinov stresses this telling piece toward Nastya: "pozvonila" means "phoned" (from "pozvonit"), giving the line its exact edge.
-- 'And you are not glad I stopped by? That you stopped by makes me downright thrilled.' Barinov asks openly as Katya tries to explain the situation.
-- 'A crazy thought just flashed through my mind.' Barinov focuses on one loaded term in reply: "shalnaya" means "crazy, wild" (from "shalnoy"), giving the line its exact edge.
-- 'Why don't we try starting things over from the beginning?' Barinov brings the thought at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Secondly, you are never going to change anyway.' Barinov holds firm frankly before Nastya, testing Nastya's reaction in the middle of the exchange.
-- 'I have already changed.' Barinov points to one direct element with Katya: "izmenilsya" means "have changed" (from "izmenitsya"), giving the line its exact edge.
-- 'At least give me a chance to invite you on a date.' Barinov reaches for one pointed word in reply: "svidaniye" means "date", and it carries the main weight of what Barinov is saying.
-- 'Fine. Let us have a date.' Barinov reacts boldly with a shrug, saying out loud what both of them already know.
-- 'Tomorrow right here in the restaurant.' Barinov emphasizes this vivid element right here: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'What are you doing? Drinking tea.' Nastya asks wryly before Katya can change the subject.
+- 'Come on, spill it. Trouble with Denis?' Emphasizing the problems before Katya, Nastya uses "problemy" ("problems", from "problema") to make the point stick.
+- 'No, everything is fine with Denis.' Opening up directly to Nastya, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Come on, fine. When things were fine, we could hear the two of you every single night.' Nastya proceeds firmly hearing Katya, so Katya knows she is not just making small talk.
+- 'Alright, this conversation is not going to work over plain tea.' Talking about the conversation on the spot, Nastya brings in "razgovor" ("conversation") to make the meaning unmistakable.
+- 'Lena, I am really glad you called.' Barinov steps in pointedly with a smile, refusing to let the moment slip past.
+- 'And you are not glad I stopped by? That you stopped by makes me downright thrilled.' Barinov asks openly why things suddenly took this turn between them.
+- 'A crazy thought just flashed through my mind.' Barinov speaks firmly at once and centers the thought on "shalnaya" ("crazy, wild", from "shalnoy") without wasting a word.
+- 'Why don't we try starting things over from the beginning?' Pointing to the matter to Nastya, Barinov keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Secondly, you are never going to change anyway.' Barinov opens up frankly across the room, making his position completely clear.
+- 'I have already changed.' Barinov opens up calmly on the spot and reaches for the Russian word "izmenilsya" ("have changed", built from "izmenitsya") right at the center of the line.
+- 'At least give me a chance to invite you on a date.' Barinov opens up boldly with a smile, shifting the mood of the conversation in a single beat.
+- 'Fine. Let us have a date.' Barinov openly shares this word of agreement with Nastya using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Tomorrow right here in the restaurant.' Turning to the restaurant right here, Barinov lands on "restorane" ("restaurant", built on "restoran") to keep the statement grounded.

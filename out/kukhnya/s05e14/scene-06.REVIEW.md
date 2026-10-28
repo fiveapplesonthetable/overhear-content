@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, I thought it over and you are completely right.' Elena fires back pointedly during the talk, grounding the moment in plain reality.
-- 'This is our shared holiday, let's spend it together.' Elena emphasizes one memorable expression for Eleonora: "obshchiy" means "shared", and it carries the main weight of what Elena is saying.
-- 'A friend got us one more ticket right next to yours!' Elena reacts briskly with a sigh, steering the talk right where she wants it.
-- 'You and I are going to the football match today!' Elena holds firm right away with Eleonora, bringing things back to earth after the buildup.
-- 'How wonderful, I simply did not even expect that!' Barinov sharpens one pointed word for Elena: "zdorovo-to" means "how great" (from "zdorovo"), giving the line its exact edge.
-- 'I kiss you warmly and see you tonight.' Barinov colors this telling choice on cue: "vechera" means "evening" (from "vecher"), giving the line its exact edge.
-- 'Vitya, tell me about your cook Lavrov.' Eleonora speaks up evenly with a smile, to clear the air between them once and for all.
-- 'What kind of person is he? And why do you care?' Barinov shares the comeback calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am thinking of making him the new head chef.' Eleonora cuts in evenly with Barinov, saying out loud what both of them already know.
-- 'He is not a bad cook, but his personal life is a complete mess.' Barinov jumps in candidly in their talk, without trying to dress up how he really feels.
-- 'He was married to Vika, then he cheated on her.' Barinov emphasizes one practical word for Elena: "zhenat" means "married" (from "zhenatyy"), giving the line its exact edge.
-- 'And now they are going to have a baby soon.' Barinov answers calmly watching Eleonora, shifting the whole mood of the room in a single beat.
+- 'Vitya, I thought it over and you are completely right.' Elena speaks up pointedly with Barinov, refusing to let the moment slip past.
+- 'This is our shared holiday, let's spend it together.' Explaining how shared things are to Barinov, Elena reaches for the Russian word "obshchiy" ("shared") right at the heart of the line.
+- 'A friend got us one more ticket right next to yours!' Turning to the ticket with Barinov, Elena brings in "znakomyy" ("familiar") to make the meaning unmistakable.
+- 'You and I are going to the football match today!' Elena follows up right away during the talk, testing Barinov's reaction in the middle of the exchange.
+- 'How wonderful, I simply did not even expect that!' Barinov proceeds promptly in the exchange and chooses "zdorovo-to" ("how great", from the root "zdorovo") so Elena hears the exact meaning.
+- 'I kiss you warmly and see you tonight.' Barinov responds candidly toward Eleonora, refusing to let the moment slip past.
+- 'Vitya, tell me about your cook Lavrov.' Eleonora replies evenly without any doubt, steering the talk right where she wants it.
+- 'What kind of person is he? And why do you care?' Opening up directly around Eleonora, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am thinking of making him the new head chef.' Talking about the new head before Barinov, Eleonora uses "shef-povarom" ("head chef", from "shef-povar") to make the point stick.
+- 'He is not a bad cook, but his personal life is a complete mess.' Barinov replies candidly in this moment, leaving no doubt about where he stands.
+- 'He was married to Vika, then he cheated on her.' Barinov fires back calmly during the talk and uses "zhenat" ("married", from "zhenatyy") to make the point stick.
+- 'And now they are going to have a baby soon.' Talking about the child with Eleonora, Barinov brings in "rebyonok" ("a child") to make the meaning unmistakable.

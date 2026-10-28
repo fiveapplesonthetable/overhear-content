@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ah, so that is how you want to play it, huh?' Max voices that line with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Now listen to my new order.' Sasha proceeds earnestly with a smile, steering the talk right where she wants it.
-- 'Entering is strictly forbidden.' Max centers one memorable touch in reply: "zapreshcheno" means "to forbid, to ban" (from "zapretit"), giving the line its exact edge.
-- 'And just what are you going to do about it?' Sasha lays out this point for Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'What are you doing? Quiet down!' Max quizzes point-blank where this conversation is heading next.
-- 'I was not the one who started this war.' Sasha spotlights one colorful choice for Max: "nachala" means "beginning" (from "nachalo"), giving the line its exact edge.
-- 'Have you lost your minds completely?' Max hands over that line toward Sasha: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Those items are on the stop-list.' Sasha reacts honestly in this moment, leaving no doubt about where she stands.
-- 'That is quite alright, Maxim.' Sasha leans on one vivid touch at once: "strashnogo" means "terrible, serious" (from "strashnyy"), giving the line its exact edge.
-- 'You know, Maxim, I want to make a confession to you.' Sasha states this update right away: the "-sya" ending on "priznatsya" ("to admit") turns the action inward or makes it happen between people naturally.
-- 'Yes, I noticed that.' Max holds firm openly facing Sasha, saying out loud what both of them already know.
-- 'You apparently really like the way I cook?' Sasha picks this clear piece in earnest: "nravitsya" means "is pleasing", and it carries the main weight of what Sasha is saying.
-- 'I come here for the sake of one young man.' Max pushes back candidly around Sasha, letting the remark speak for itself.
+- 'Ah, so that is how you want to play it, huh?' Following up frankly in this beat, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Now listen to my new order.' Sasha fires back earnestly during the talk, bringing things back to earth after the buildup.
+- 'Entering is strictly forbidden.' Max steps in sharply at once and reaches for the Russian word "zapreshcheno" ("to forbid, to ban", built from "zapretit") right at the center of the line.
+- 'And just what are you going to do about it?' Pressing on evenly in this beat, Sasha puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'What are you doing? Quiet down!' Max quizzes point-blank before Sasha can change the subject.
+- 'I was not the one who started this war.' Talking about the beginning with Max, Sasha uses "nachala" ("beginning", from "nachalo") to make the point stick.
+- 'Have you lost your minds completely?' Looking over boldly at once, Max adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Those items are on the stop-list.' Sasha responds honestly with a sigh, refusing to let the moment slip past.
+- 'That is quite alright, Maxim.' Making clear how terrible things are around Max, Sasha leans on "strashnogo" ("terrible, serious", a form of "strashnyy") to give the remark its edge.
+- 'You know, Maxim, I want to make a confession to you.' Speaking briskly beside Max, the "-sya" ending on "priznatsya" ("to admit") marks an action that unfolds mutually or turns back on the speaker.
+- 'Yes, I noticed that.' Max responds openly without any doubt, watching Sasha's face to see how the news lands.
+- 'You apparently really like the way I cook?' Sasha follows up sharply at once and brings in "nravitsya" ("is pleasing") to make the meaning unmistakable.
+- 'I come here for the sake of one young man.' Emphasizing the boyfriend in front of Sasha, Max chooses "molodogo" ("young", from the root "molodoy") so Sasha hears the exact meaning.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Otherwise the person is here, and the dish is not.' Barinov weighs in steadily with a nod, without trying to dress up how he really feels.
-- 'I will kill him!' Barinov proceeds wryly without holding back, grounding the moment in plain reality.
-- 'And I will prepare an ironclad alibi for you.' Elena spotlights one vivid detail toward Barinov: "zheleznoye" means "ironclad, iron" (from "zheleznyy"), giving the line its exact edge.
-- 'I wanted to let you know, tomorrow we are going to the cinema.' Barinov focuses on one telling choice in reply: "predupredit" means "to warn", and it carries the main weight of what Barinov is saying.
-- 'Lucky you!' Elena continues lightly in their talk, refusing to let the moment slip past.
-- 'You and I are going to the cinema, don't plan anything.' Elena picks one sharp element in earnest: "planiruy" means "plan" (from "planirovat"), giving the line its exact edge.
-- 'And why aren't you carrying the little elephant that I gave you?' Elena makes the reply facing Barinov: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'It brings good luck, after all.' Elena jumps in dryly during the talk, grounding the moment in plain reality.
-- 'That is all. Yes, bye.' Barinov highlights one telling piece in reply: "poka" means "bye", and it carries the main weight of what Barinov is saying.
-- 'I think that is everything.' Barinov offers the remark for Elena: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Yes, Vitya!' Elena speaks at once beside Barinov, leaving no doubt about where she stands.
-- 'Ah, that's it, I found it.' Elena colors one clear piece right here: "nashla" means "found, did you find" (from "nayti"), giving the line its exact edge.
+- 'Otherwise the person is here, and the dish is not.' Talking about the dish right here, Barinov reaches for the Russian word "blyuda" ("of dish", built from "blyudo") right at the center of the line.
+- 'I will kill him!' Barinov proceeds wryly with a nod, before Elena can change the subject.
+- 'And I will prepare an ironclad alibi for you.' Talking about an ironclad alibi with Barinov, Elena brings in "zheleznoye" ("ironclad, iron", from "zheleznyy") as the key Russian word here.
+- 'I wanted to let you know, tomorrow we are going to the cinema.' Barinov counters warmly with a smile, letting the remark speak for itself.
+- 'Lucky you!' Elena reacts lightly facing Barinov, to clear the air between them once and for all.
+- 'You and I are going to the cinema, don't plan anything.' Focusing on the cinema to Barinov, Elena lands on "planiruy" ("plan", built on "planirovat") to keep the statement grounded.
+- 'And why aren't you carrying the little elephant that I gave you?' Pushing back earnestly before Barinov, Elena puts the question word "pochemu" right at the start so Barinov hears the focus immediately.
+- 'It brings good luck, after all.' Elena weighs in dryly with a nod, so Barinov knows she is not just making small talk.
+- 'That is all. Yes, bye.' Barinov gently gives this casual farewell as they meet using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'I think that is everything.' Following up quietly before Elena, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Yes, Vitya!' Elena casually uses this direct affirmation in one quick breath using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'Ah, that's it, I found it.' Elena weighs in openly in this beat and uses "nashla" ("found, did you find", from "nayti") to make the point stick.

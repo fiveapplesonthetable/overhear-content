@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, is this crab definitely a real royal one?' Lyova uses one vivid element on cue: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Lyova is saying.
-- 'Of course, this is the very best royal crab!' Max voices that thought with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Look what noble eyes he has.' Max chimes in sharply during the talk, keeping the focus on what actually matters here.
-- 'Even a real prince is not as royal as this.' Max emphasizes this sharp element toward Lyova: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Max is saying.
-- 'Good, I am taking this fresh crab.' Lyova states that remark frankly here: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Viktor Petrovich, are you not busy right now?' Lyova inquires earnestly while looking straight at Max here.
-- 'Please help Timur with unloading the groceries.' Lyova highlights one classic touch for Barinov: "razgruzkoy" means "groceries", and it carries the main weight of what Lyova is saying.
-- 'Oh, I cannot do that at all right now.' Barinov aims the thought without pause: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'It is vitally necessary for me to go smoke right now.' Barinov holds firm bluntly as they talk, refusing to let the moment slip past.
-- 'Ask that young cook over there instead.' Barinov spotlights one vivid touch on cue: "molodogo" means "young" (from "molodoy"), giving the line its exact edge.
-- 'Viktor Petrovich, are you disobeying again?' Lyova offers this answer calmly now: the "-sya" ending on "slushayetes" ("to obey, heed") turns the action inward or makes it happen between people naturally.
-- 'Lyova, let me unload everything myself.' Max steps in quietly as they talk, leaving no doubt about where he stands.
+- 'Timur, is this crab definitely a real royal one?' Pointing out how real things are with Max, Lyova uses "nastoyashchiy" ("real, genuine") to carry the main weight of the thought.
+- 'Of course, this is the very best royal crab!' Emphasizing how best things are at once, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Look what noble eyes he has.' Max continues sharply on the spot, making his position completely clear.
+- 'Even a real prince is not as royal as this.' Insisting on how real things are in the exchange, Max chooses "nastoyashchiy" ("real, genuine") so Lyova gets the point right away.
+- 'Good, I am taking this fresh crab.' Showing how fresh he is before Max, Lyova puts the weight on "svezhego" ("fresh", from "svezhiy") as the exchange unfolds.
+- 'Viktor Petrovich, are you not busy right now?' Lyova inquires earnestly how Barinov expects that to work in practice.
+- 'Please help Timur with unloading the groceries.' Mentioning the groceries in the exchange, Lyova leans on "razgruzkoy" ("groceries") to give the whole sentence its punch.
+- 'Oh, I cannot do that at all right now.' Cutting in evenly before Lyova, Barinov pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'It is vitally necessary for me to go smoke right now.' Barinov answers firmly with Lyova, keeping the focus on what actually matters here.
+- 'Ask that young cook over there instead.' Discussing the cook with Lyova, Barinov brings in "molodogo" ("young", from "molodoy") as the key Russian word here.
+- 'Viktor Petrovich, are you disobeying again?' Replying naturally right here, the "-sya" ending on "slushayetes" ("to obey, heed") marks an action that unfolds mutually or turns back on the speaker.
+- 'Lyova, let me unload everything myself.' Max proceeds quietly with a smile, watching Lyova's face to see how the news lands.

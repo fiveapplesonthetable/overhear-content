@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, I was thinking about our argument.' Lyova holds firm candidly during the talk, before Max can change the subject.
-- 'I was wrong.' Max speaks plainly around Lyova, testing Lyova's reaction in the middle of the exchange.
-- 'You were right.' Lyova reaches for one direct piece at once: "prav" means "right" (from "pravyy"), giving the line its exact edge.
-- 'Come on, I was the one who was wrong, you were right.' Max hands over this statement for Lyova: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Lyova is on board.
-- 'I was only arguing for the sake of arguing.' Lyova pushes back boldly with a sigh, keeping the focus on what actually matters here.
-- 'Galkin is more popular in Russia.' Max frames this key detail toward Lyova: "populyarneye" means "popular" (from "populyarnyy"), giving the line its exact edge.
-- 'Wait, why did you agree so quickly?' Lyova directs this warning without pause: the "-sya" ending on "soglasilsya" ("agreed") turns the action inward or makes it happen between people naturally.
-- 'Did Lyova talk to you too?' Max asks evenly how Lyova expects that to work in practice.
-- 'What? No way?' Lyova states this point facing Max: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Max is on board.
-- 'Yeah, he told you the same thing?' Max drops this statement right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'Maybe I was just testing you?' Lyova quizzes frankly how Max expects that to work in practice.
-- 'And you caved in.' Max centers one direct detail in reply: "sdalsya" means "to surrender" (from "sdatsya"), giving the line its exact edge.
-- 'I did not cave in.' Lyova delivers the reaction with candor: the "-sya" ending on "sdalsya" ("to surrender") turns the action inward or makes it happen between people naturally.
+- 'Listen, I was thinking about our argument.' Discussing the bet right here, Lyova brings in "spora" ("bet", from "spor") as the key Russian word here.
+- 'I was wrong.' Max replies plainly without holding back, testing Lyova's reaction in the middle of the exchange.
+- 'You were right.' Lyova fires back pointedly with Max and chooses "prav" ("right", from the root "pravyy") so Max hears the exact meaning.
+- 'Come on, I was the one who was wrong, you were right.' Max cuts in evenly without any doubt, to clear the air between them once and for all.
+- 'I was only arguing for the sake of arguing.' Lyova continues boldly with Max, watching Max's face to see how the news lands.
+- 'Galkin is more popular in Russia.' Stressing how popular things are with Lyova, Max centers the thought on "populyarneye" ("popular", from "populyarnyy") without wasting a word.
+- 'Wait, why did you agree so quickly?' Holding firm earnestly in the exchange, the "-sya" ending on "soglasilsya" ("agreed") marks an action that unfolds mutually or turns back on the speaker.
+- 'Did Lyova talk to you too?' Max asks evenly what Lyova is actually getting at here.
+- 'What? No way?' Lyova politely gives this word of agreement with Max using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Yeah, he told you the same thing?' Stepping in openly on the spot, Max keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'Maybe I was just testing you?' Lyova quizzes frankly while looking straight at Max here.
+- 'And you caved in.' Max counters calmly around Lyova and chooses "sdalsya" ("to surrender", from the root "sdatsya") so Lyova hears the exact meaning.
+- 'I did not cave in.' Leaning in boldly during the talk, the "-sya" ending on "sdalsya" ("to surrender") marks an action that unfolds mutually or turns back on the speaker.

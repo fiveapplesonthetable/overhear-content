@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then, Vitya, now you are my servant.' Mikhail speaks up pointedly with Barinov, keeping the focus on what actually matters here.
-- 'At least give my office back.' Barinov emphasizes this sharp term for Mikhail: "kabinet" means "office", and it carries the main weight of what Barinov is saying.
-- 'I will return the office, but you will remember.' Mikhail underscores this sharp touch at once: "kabinet" means "office", and it carries the main weight of what Mikhail is saying.
-- 'Remember what place you are sitting in.' Mikhail answers honestly with a smile, shifting the whole mood of the room in a single beat.
-- 'Today the prefect will be at the grand opening.' Mikhail chooses this key detail at once: "otkrytii" means "at the grand opening" (from "otkrytiye"), giving the line its exact edge.
-- 'I want you to make a pizza.' Mikhail features one vivid term with Barinov: "prigotovil" means "cooked" (from "prigotovit"), giving the line its exact edge.
-- 'He simply adores it.' Mikhail proceeds briskly with a shrug, before Barinov can change the subject.
-- 'Have you completely lost your mind?' Barinov anchors one telling choice at once: "soshyol" means "gone" (from "soyti"), giving the line its exact edge.
-- 'We have a French restaurant.' Barinov drops this line for Mikhail: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'What kind of pizza could there be here?' Barinov checks skeptically where this conversation is heading next.
-- 'Be quiet right now, servant!' Mikhail underscores one practical touch in earnest: "molchat" means "be quiet", and it carries the main weight of what Mikhail is saying.
-- 'Who is the master here now?' Mikhail lays out the remark to Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I said pizza, so pizza it is.' Mikhail stands firm promptly as things stand, without trying to dress up how he really feels.
+- 'Well then, Vitya, now you are my servant.' Mikhail replies pointedly with a sigh, without trying to dress up how he really feels.
+- 'At least give my office back.' Turning to his office in the exchange, Barinov brings in "kabinet" ("office") to make the meaning unmistakable.
+- 'I will return the office, but you will remember.' Mikhail replies right away with a nod, making his position completely clear.
+- 'Remember what place you are sitting in.' Mikhail reacts honestly with a sigh, grounding the moment in plain reality.
+- 'Today the prefect will be at the grand opening.' Discussing the grand opening around Barinov, Mikhail lands on "otkrytii" ("at the grand opening", built on "otkrytiye") to keep the statement grounded.
+- 'I want you to make a pizza.' Mikhail cuts in dryly without any doubt, keeping the focus on what actually matters here.
+- 'He simply adores it.' Mikhail speaks briskly facing Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Have you completely lost your mind?' Pointing to the mind at once, Barinov uses "soshyol" ("gone", from "soyti") to make the point stick.
+- 'We have a French restaurant.' Pointing to a restaurant at once, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'What kind of pizza could there be here?' Barinov checks skeptically about what Mikhail just brought up.
+- 'Be quiet right now, servant!' Pointing to the slave before Barinov, Mikhail brings in "molchat" ("be quiet") to make the meaning unmistakable.
+- 'Who is the master here now?' Answering readily in front of Barinov, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I said pizza, so pizza it is.' Mikhail weighs in promptly in this moment, watching Barinov's face to see how the news lands.

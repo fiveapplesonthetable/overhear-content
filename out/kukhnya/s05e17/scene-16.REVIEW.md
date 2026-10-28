@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Climb out of the car quickly, terrorist.' Barinov focuses on one concrete piece in reply: "terrorist" means "terrorist", and it carries the main weight of what Barinov is saying.
-- 'Dad, what happened, is he wounded?' Katya states that point briskly now: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
-- 'Yes, by a liter of whiskey straight to the head.' Barinov answers honestly as things stand, without trying to dress up how he really feels.
-- 'You had better crawl away quietly right now.' Barinov favors one vivid element with Katya: "otpolzat" means "to crawl away", and it carries the main weight of what Barinov is saying.
-- 'Sit there completely quietly.' Barinov shapes that point without pause: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'What is going on with you here?' Eleonora tests briskly in front of Katya without any preamble.
-- 'Elya, only I am to blame for this.' Barinov favors one memorable choice on cue: "vinovat" means "at fault, guilty" (from "vinovatyy"), giving the line its exact edge.
-- 'I drove into it completely by accident.' Barinov reacts at once in this moment, so Katya knows he is not just making small talk.
-- 'So you drove into my car?' Eleonora asks curiously whether Barinov really thought this through.
-- 'Thank goodness, I mean what the heck?' Eleonora colors one direct touch right here: "chyorta" means "devil, darn" (from "chyort"), giving the line its exact edge.
-- 'Alright, you two sort it out here yourselves.' Barinov brings the reply before Eleonora: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Eleonora is on board.
-- 'Thanks, Dad, we will get going then.' Katya responds evenly without holding back, shifting the whole mood of the room in a single beat.
+- 'Climb out of the car quickly, terrorist.' Underscoring the terrorist right here, Barinov lands on "terrorist" ("terrorist") as the key everyday word here.
+- 'Dad, what happened, is he wounded?' Bringing up the dad in front of Barinov, the "-sya" ending on "sluchilos" ("happened") marks an action that unfolds mutually or turns back on the speaker.
+- 'Yes, by a liter of whiskey straight to the head.' Barinov follows up honestly with a smile, testing Katya's reaction in the middle of the exchange.
+- 'You had better crawl away quietly right now.' Barinov answers promptly on the spot and leans on "otpolzat" ("to crawl away") to give the whole sentence its punch.
+- 'Sit there completely quietly.' Cutting in smoothly to Eleonora, Barinov adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'What is going on with you here?' Eleonora tests briskly what Barinov is actually getting at here.
+- 'Elya, only I am to blame for this.' Barinov answers sharply to Eleonora and lands on "vinovat" ("at fault, guilty", built on "vinovatyy") to keep the statement grounded.
+- 'I drove into it completely by accident.' Barinov follows up vividly to Eleonora and centers the remark on "sovershenno" ("quite, completely") without any extra fuss.
+- 'So you drove into my car?' Eleonora asks curiously about what Barinov just brought up.
+- 'Thank goodness, I mean what the heck?' Emphasizing the devil with Barinov, Eleonora leans on "chyorta" ("devil, darn", a form of "chyort") to give the remark its edge.
+- 'Alright, you two sort it out here yourselves.' Barinov plainly offers this word of agreement in the exchange using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Thanks, Dad, we will get going then.' Katya naturally directs this word of thanks in the exchange using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

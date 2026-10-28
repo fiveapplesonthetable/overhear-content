@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She is the wife of a famous football player.' Barinov colors one direct piece with Lyova: "izvestnogo" means "famous" (from "izvestnyy"), giving the line its exact edge.
-- 'Be so kind as to do it.' Lyova shares this statement around Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Which football player?' Barinov asks skeptically to see how Lyova will answer on the spot.
-- 'Well, how am I supposed to know?' Lyova underscores one clear expression right here: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'Maybe from Spartak.' Barinov hands over this point frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I am not going to go ask her.' Lyova replies plainly with a shrug, so Barinov knows he is not just making small talk.
-- 'Well, then try to remember.' Barinov favors one concrete word for Lyova: "poprobuy" means "to try, to taste" (from "poprobovat"), giving the line its exact edge.
-- 'He looks like that one.' Lyova phrases the reply with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Like which one?' Barinov wonders briskly why things suddenly took this turn between them.
-- 'I just named your players.' Lyova highlights one direct element for Barinov: "nazval" means "called" (from "nazvat"), giving the line its exact edge.
-- 'Like the first one.' Barinov hands over the thought plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Zhenya is a good player.' Lyova reacts honestly as things stand, before Barinov can change the subject.
-- 'Interesting. He stepped away.' Barinov stresses one concrete term at once: "interesno" means "interesting", and it carries the main weight of what Barinov is saying.
+- 'She is the wife of a famous football player.' Stressing how famous she is with Lyova, Barinov puts the weight on "izvestnogo" ("famous", from "izvestnyy") as the exchange unfolds.
+- 'Be so kind as to do it.' Pressing on briskly at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Which football player?' Barinov asks skeptically how Lyova expects that to work in practice.
+- 'Well, how am I supposed to know?' Leaning in promptly beside Barinov, Lyova puts the question word "otkuda" right at the start so Barinov hears the focus immediately.
+- 'Maybe from Spartak.' Following up boldly around Lyova, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I am not going to go ask her.' Lyova steps in plainly toward Barinov, making his position completely clear.
+- 'Well, then try to remember.' Barinov speaks up briskly before Lyova and leans on "poprobuy" ("to try, to taste", a form of "poprobovat") to give the remark its edge.
+- 'He looks like that one.' Pressing on calmly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Like which one?' Barinov pushes back quietly in their talk, shifting the mood of the conversation in a single beat.
+- 'I just named your players.' Lyova fires back candidly on the spot and puts the weight on "nazval" ("called", from "nazvat") as the exchange unfolds.
+- 'Like the first one.' Looking over evenly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Zhenya is a good player.' Lyova follows up honestly on the spot, keeping the focus on what actually matters here.
+- 'Interesting. He stepped away.' Barinov steps in boldly before Lyova and chooses "interesno" ("interesting") so Lyova gets the point right away.

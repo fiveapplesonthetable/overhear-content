@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to talk.' Sasha speaks openly with Barinov, leaving no doubt about where she stands.
-- 'Sasha, stay out of this, she is my girlfriend.' Barinov spotlights one concrete piece at once: "devushka" means "girlfriend", and it carries the main weight of what Barinov is saying.
-- 'And do not get too happy, that will not last long.' Sasha states that line right away: the "-sya" ending on "raduysya" ("rejoice, celebrate") turns the action inward or makes it happen between people naturally.
-- 'I see you did not get the message.' Barinov replies frankly hearing Sasha, letting the remark speak for itself.
-- 'Well, explain it to me then.' Sasha underscores one sharp expression in reply: "obyasni" means "explain" (from "obyasnit"), giving the line its exact edge.
-- 'Hey, stop this immediately, both of you.' Barinov drops that point with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'We are not finished here yet, got it?' Sasha presses briskly while looking straight at Barinov here.
-- 'Excuse me, please.' Barinov colors one classic element at once: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Just like I told you.' Sasha delivers that remark to Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'There is always something dramatic happening here.' Barinov speaks plainly beside Sasha, saying out loud what both of them already know.
-- 'This guest right here needs to be served very quickly.' Sasha uses one memorable touch in reply: "obsluzhit" means "to serve", and it carries the main weight of what Sasha is saying.
-- 'Do you understand me?' Barinov gives that remark with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Sasha purely through rising pitch at the end.
-- 'No problem at all.' Sasha replies dryly as things stand, saying out loud what both of them already know.
+- 'We need to talk.' Sasha speaks openly during the talk, making her position completely clear.
+- 'Sasha, stay out of this, she is my girlfriend.' Discussing his girlfriend right here, Barinov chooses "devushka" ("girlfriend") so Sasha gets the point right away.
+- 'And do not get too happy, that will not last long.' Holding firm boldly in the exchange, the "-sya" ending on "raduysya" ("rejoice, celebrate") marks an action that unfolds mutually or turns back on the speaker.
+- 'I see you did not get the message.' Barinov steps in frankly in their talk, to clear the air between them once and for all.
+- 'Well, explain it to me then.' Sasha speaks up calmly in front of Barinov and centers the thought on "obyasni" ("explain", from "obyasnit") without wasting a word.
+- 'Hey, stop this immediately, both of you.' Looking over directly to Sasha, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'We are not finished here yet, got it?' Sasha presses briskly what Barinov is actually getting at here.
+- 'Excuse me, please.' Barinov evenly extends this polite apology while facing Sasha using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Just like I told you.' Holding firm warmly at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'There is always something dramatic happening here.' Barinov proceeds plainly watching Sasha, letting the remark speak for itself.
+- 'This guest right here needs to be served very quickly.' Mentioning the guest to Barinov, Sasha leans on "gostya" ("guest, visitor", a form of "gost") to give the remark its edge.
+- 'Do you understand me?' Stepping in candidly to Sasha, Barinov keeps normal statement word order here, turning the line into a question for Sasha purely through rising pitch.
+- 'No problem at all.' Sasha counters dryly around Barinov, letting the remark speak for itself.

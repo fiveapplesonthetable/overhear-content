@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Open the door immediately, this is the police!' The inspector reaches for one loaded word at once: "politsiya" means "police", and it carries the main weight of what the inspector is saying.
-- 'Tell me, is this your hotel room?' The inspector directs the reply for the guest: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
-- 'Excuse me, I do not understand you at all.' The guest stands firm candidly toward Barinov, steering the talk right where he wants it.
-- 'And what on earth is going on here right now?' Barinov features this sharp term in reply: "proiskhodit" means "is going on", and it carries the main weight of what Barinov is saying.
-- 'Why have I not been informed yet?' Barinov puts that point right away: putting the question word "pochemu" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'I do not understand what they want.' The guest stands firm calmly hearing the inspector, without trying to dress up how he really feels.
-- 'Excuse me, and who are you yourself?' The inspector focuses on this key element right here: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
-- 'I am the general manager of this hotel.' Barinov phrases the reply toward the inspector: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Open the door immediately, this is the police!' Mentioning the police at once, the inspector leans on "politsiya" ("police") to give the whole sentence its punch.
+- 'Tell me, is this your hotel room?' Highlighting how hotel things are in the exchange, the inspector keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.
+- 'Excuse me, I do not understand you at all.' The guest weighs in candidly with a shrug, to clear the air between them once and for all.
+- 'And what on earth is going on here right now?' Barinov jumps in warmly in the exchange and uses "proiskhodit" ("is going on") to carry the main weight of the thought.
+- 'Why have I not been informed yet?' Checking on the course in front of the guest, Barinov puts the question word "pochemu" right at the start so the guest hears the focus immediately.
+- 'I do not understand what they want.' The guest replies calmly without any doubt, bringing things back to earth after the buildup.
+- 'Excuse me, and who are you yourself?' The inspector speaks naturally on the spot and puts the weight on "prostite" ("excuse me", from "prostit") as the exchange unfolds.
+- 'I am the general manager of this hotel.' Addressing the general manager at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
 - 'Then why are you wearing a chef's hat?' The inspector prompts promptly what Barinov is actually getting at here.
-- 'Because I am also the head chef.' Barinov sharpens one vivid element on cue: "shef-povar" means "head chef", and it carries the main weight of what Barinov is saying.
-- 'There is a crisis now, so I have to combine jobs.' Barinov offers the comment for the guest: the "-sya" ending on "prikhoditsya" ("to have to") turns the action inward or makes it happen between people naturally.
-- 'And I am also the husband of the hotel owner.' Barinov counters openly facing the inspector, watching the inspector's face to see how the news lands.
+- 'Because I am also the head chef.' Underscoring the head around the inspector, Barinov uses "shef-povar" ("head chef") to carry the main weight of the thought.
+- 'There is a crisis now, so I have to combine jobs.' Touching on a crisis beside the inspector, the "-sya" ending on "prikhoditsya" ("to have to") marks an action that unfolds mutually or turns back on the speaker.
+- 'And I am also the husband of the hotel owner.' Barinov weighs in openly across the room, refusing to let the moment slip past.

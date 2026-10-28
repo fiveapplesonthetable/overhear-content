@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is Denis?' Vika delivers the comment beside Denis: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He went back home.' Max states the reaction before Vika: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'He said Moscow is a village and Voronezh is a city of opportunity.' Max answers evenly before Denis, bringing things back to earth after the buildup.
-- 'Want some? Maybe you will join me?' Max underscores one familiar element toward Vika: "prisoyedinishsya" means "to maybe" (from "prisoyedinitsya"), giving the line its exact edge.
-- 'I bought butter and bread.' Denis aims this point around Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Your prices here are something else, of course.' Denis answers candidly on the spot, refusing to let the moment slip past.
-- 'Max, I helped push a car out there.' Denis spotlights this direct touch in reply: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
-- 'Are there any towels?' Denis states the comment plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'In the bathroom.' Max speaks right away with Denis, bringing things back to earth after the buildup.
-- 'Well, where have you been wandering?' Vika sharpens one classic choice for Max: "khodish" means "can walk, are walking" (from "khodit"), giving the line its exact edge.
-- 'I was at the grocery store.' Denis directs that point briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I have no words.' Vika speaks up pointedly on the spot, saying out loud what both of them already know.
+- 'Where is Denis?' Stepping in promptly in this beat, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He went back home.' Reacting directly with Vika, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'He said Moscow is a village and Voronezh is a city of opportunity.' Max cuts in evenly with a sigh, grounding the moment in plain reality.
+- 'Want some? Maybe you will join me?' Max continues dryly around Denis and chooses "prisoyedinishsya" ("to maybe", from the root "prisoyedinitsya") so Denis hears the exact meaning.
+- 'I bought butter and bread.' Focusing on the butter to Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Your prices here are something else, of course.' Denis directly delivers this confirmation while facing Max using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Max, I helped push a car out there.' Addressing a car before Max, Denis brings in "mashinu" ("car", from "mashina") as the key Russian word here.
+- 'Are there any towels?' Dwelling on the towels in front of Max, Denis keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'In the bathroom.' Max fires back right away with a sigh, before Denis can change the subject.
+- 'Well, where have you been wandering?' Vika speaks evenly beside Denis and uses "khodish" ("can walk, are walking", from "khodit") to make the point stick.
+- 'I was at the grocery store.' Checking on the shop during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I have no words.' Vika fires back pointedly in their talk, shifting the mood of the conversation in a single beat.

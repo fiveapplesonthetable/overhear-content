@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In your opinion, is this normal?' Max shapes this update plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Who did this?' Barinov prompts briskly what Vika is actually getting at here.
-- 'Because of him, a guest walked out on us.' Vika sharpens one concrete detail on cue: "gost" means "guest", and it carries the main weight of what Vika is saying.
-- 'I will get to the bottom of this.' Max phrases that point beside Vika: the "-sya" ending on "razberus" ("I will sort out") turns the action inward or makes it happen between people naturally.
-- 'That is right.' Barinov chimes in firmly across the room, grounding the moment in plain reality.
-- 'Or did I ruin the dish myself?' Max focuses on one practical detail toward Vika: "blyuda" means "of dish" (from "blyudo"), giving the line its exact edge.
-- 'Well, he left, big deal.' Max gives this statement toward Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Go back to work.' Barinov jumps in honestly facing Vika, bringing things back to earth after the buildup.
-- 'You know, I decided not to wait for Viktor Petrovich to return.' Vika reaches for one pointed choice in earnest: "vozvrashcheniya" means "return" (from "vozvrashcheniye"), giving the line its exact edge.
-- 'As it turned out, that was a big mistake.' Max offers this point at once: the "-sya" ending on "okazalos" ("turned out") turns the action inward or makes it happen between people naturally.
-- 'I was just at Claude Monet.' Barinov continues calmly without any doubt, saying out loud what both of them already know.
-- 'They brought me a dish buried under a mountain of salt.' Vika emphasizes one practical expression in earnest: "prinesli" means "brought" (from "prinesti"), giving the line its exact edge.
-- 'Their kitchen must be falling apart without him.' Max aims this update without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'In your opinion, is this normal?' Pointing out how wife things are at once, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Who did this?' Barinov prompts briskly if there is more going on behind the scenes.
+- 'Because of him, a guest walked out on us.' Turning to a guest during the talk, Vika reaches for the Russian word "gost" ("guest") right at the heart of the line.
+- 'I will get to the bottom of this.' Cutting in quietly to Vika, the "-sya" ending on "razberus" ("I will sort out") marks an action that unfolds mutually or turns back on the speaker.
+- 'That is right.' Barinov continues firmly on the spot, making his position completely clear.
+- 'Or did I ruin the dish myself?' Turning to the dish before Barinov, Max lands on "blyuda" ("of dish", built on "blyudo") to keep the statement grounded.
+- 'Well, he left, big deal.' Reacting quietly to Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Go back to work.' Barinov proceeds honestly in this moment, leaving no doubt about where he stands.
+- 'You know, I decided not to wait for Viktor Petrovich to return.' Mentioning the return in this beat, Vika chooses "vozvrashcheniya" ("return", from the root "vozvrashcheniye") so Barinov hears the exact meaning.
+- 'As it turned out, that was a big mistake.' Following up dryly in this beat, the "-sya" ending on "okazalos" ("turned out") marks an action that unfolds mutually or turns back on the speaker.
+- 'I was just at Claude Monet.' Barinov pushes back calmly with a sigh, letting the remark speak for itself.
+- 'They brought me a dish buried under a mountain of salt.' Underscoring a dish during the talk, Vika chooses "blyuda" ("of dish", from the root "blyudo") so Barinov hears the exact meaning.
+- 'Their kitchen must be falling apart without him.' Returning to the kitchen right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

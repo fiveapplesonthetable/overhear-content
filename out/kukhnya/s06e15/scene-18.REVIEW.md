@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here we are, meet my girlfriend.' Lyova cuts in right away without a pause, refusing to let the moment slip past.
-- 'Hello, I am very pleased to meet you right now.' The guest frames one loaded choice in reply: "poznakomitsya" means "to meet", and it carries the main weight of what the guest is saying.
-- 'It is good to meet before the start of our joint work.' The guest directs the thought frankly here: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Excuse me, did I interrupt you right now?' Barinov probes evenly if there is more going on behind the scenes.
-- 'I came to apologize for my phone call.' Barinov favors one direct touch at once: "izvinitsya" means "to apologise", and it carries the main weight of what Barinov is saying.
-- 'I want to say that you are very lucky.' Barinov underscores one clear element with Lyova: "povezlo" means "it was lucky" (from "povezti"), giving the line its exact edge.
-- 'Lyova is the best cook in our restaurant.' Barinov speaks warmly with a nod, keeping the focus on what actually matters here.
-- 'He has always been an excellent, reliable sous-chef.' Barinov colors this telling term at once: "nadyozhnym" means "reliable" (from "nadyozhnyy"), giving the line its exact edge.
-- 'And I am sure he will be an excellent head chef.' Barinov stands firm bluntly facing the guest, keeping the focus on what actually matters here.
-- 'Take care of him, and you forgive me, Lyova.' Barinov speaks up promptly without a pause, shifting the whole mood of the room in a single beat.
-- 'I must respect your desire to leave.' Barinov grounds one loaded expression with the guest: "zhelaniye" means "desire, craving", and it carries the main weight of what Barinov is saying.
-- 'Actually, I was not even planning to leave.' Lyova brings that reply at once: the "-sya" ending on "sobiralsya" ("was going to") turns the action inward or makes it happen between people naturally.
+- 'Here we are, meet my girlfriend.' Lyova follows up right away toward the guest, steering the talk right where he wants it.
+- 'Hello, I am very pleased to meet you right now.' The guest speaks openly to Lyova and lands on "poznakomitsya" ("to meet") as the key everyday word here.
+- 'It is good to meet before the start of our joint work.' Underscoring how joint things are on the spot, the guest centers the thought on "sovmestnoy" ("joint, combined", from "sovmestnyy") without wasting a word.
+- 'Excuse me, did I interrupt you right now?' Barinov probes evenly what the guest is actually getting at here.
+- 'I came to apologize for my phone call.' Talking about the call around the guest, Barinov centers the remark on "izvinitsya" ("to apologise") without any extra fuss.
+- 'I want to say that you are very lucky.' Barinov replies dryly without holding back, grounding the moment in plain reality.
+- 'Lyova is the best cook in our restaurant.' Barinov jumps in warmly around Lyova, bringing things back to earth after the buildup.
+- 'He has always been an excellent, reliable sous-chef.' Barinov weighs in sharply in the exchange and leans on "nadyozhnym" ("reliable", a form of "nadyozhnyy") to give the remark its edge.
+- 'And I am sure he will be an excellent head chef.' Confirming how sure he is at once, Barinov reaches for the Russian word "otlichnym" ("excellent", built from "otlichnyy") right at the center of the line.
+- 'Take care of him, and you forgive me, Lyova.' Barinov replies promptly with a smile, bringing things back to earth after the buildup.
+- 'I must respect your desire to leave.' Addressing the desire to Lyova, Barinov brings in "zhelaniye" ("desire, craving") to make the meaning unmistakable.
+- 'Actually, I was not even planning to leave.' Holding firm calmly to Barinov, the "-sya" ending on "sobiralsya" ("was going to") marks an action that unfolds mutually or turns back on the speaker.

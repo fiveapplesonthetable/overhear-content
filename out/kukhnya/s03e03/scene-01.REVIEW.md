@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are athletes the most superstitious people in the world?' Max anchors one classic word at once: "suyevernyye" means "superstitious" (from "suyevernyy"), giving the line its exact edge.
-- 'Nothing of the sort. The most superstitious people are waiters.' Max hands over that remark without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Your salad.' Nastya replies evenly with a nod, bringing things back to earth after the buildup.
-- 'I spilled the salt. No big deal.' The guest emphasizes one clear touch in earnest: "strashnogo" means "terrible, serious" (from "strashnyy"), giving the line its exact edge.
-- 'What do you mean, no big deal?' Nastya drops that remark without fuss: putting the question word "kak" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'Now you and I will definitely quarrel.' Nastya answers boldly toward Max, letting the remark speak for itself.
-- 'Miss, I have no intention of quarreling with you.' The guest stresses this clear expression on cue: "devushka" means "girlfriend", and it carries the main weight of what the guest is saying.
-- 'Where are you looking? First salt, then wine!' The guest directs the remark toward Nastya: putting the question word "kuda" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'Call the manager!' The guest proceeds plainly with Max, before Max can change the subject.
-- 'I told you we would quarrel.' Nastya leans on one vivid choice for Max: "possorimsya" means "will quarrel" (from "possoritsya"), giving the line its exact edge.
-- 'Thank you. Goodbye. We look forward to seeing you again.' Max lays out this answer toward the guest: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Waiters believe in all omens.' Max holds firm earnestly to be clear, refusing to let the moment slip past.
+- 'Are athletes the most superstitious people in the world?' Underscoring how superstitious things are in this beat, Max chooses "suyevernyye" ("superstitious", from the root "suyevernyy") so Nastya hears the exact meaning.
+- 'Nothing of the sort. The most superstitious people are waiters.' Pointing out how superstitious things are beside Nastya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Your salad.' Nastya proceeds evenly with a nod, grounding the moment in plain reality.
+- 'I spilled the salt. No big deal.' Highlighting the salt beside Nastya, the guest uses "strashnogo" ("terrible, serious", from "strashnyy") to make the point stick.
+- 'What do you mean, no big deal?' Speaking calmly right here, Nastya puts the question word "kak" right at the start so the guest hears the focus immediately.
+- 'Now you and I will definitely quarrel.' Nastya cuts in boldly beside the guest, leaving no doubt about where she stands.
+- 'Miss, I have no intention of quarreling with you.' Mentioning the girlfriend in front of Nastya, the guest lands on "devushka" ("girlfriend") as the key everyday word here.
+- 'Where are you looking? First salt, then wine!' Pushing back openly right here, the guest puts the question word "kuda" right at the start so Nastya hears the focus immediately.
+- 'Call the manager!' The guest counters plainly with a sigh, steering the talk right where he wants it.
+- 'I told you we would quarrel.' Nastya fires back evenly around the guest and leans on "possorimsya" ("will quarrel", a form of "possoritsya") to give the remark its edge.
+- 'Thank you. Goodbye. We look forward to seeing you again.' Max speaks up sharply in their talk, so Nastya knows he is not just making small talk.
+- 'Waiters believe in all omens.' Max responds earnestly hearing Nastya, watching Nastya's face to see how the news lands.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you still here?' Kostya drops the thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You have a big mouth.' Nagiyev chimes in wryly without a pause, making his position completely clear.
-- 'Watch out or I will spill it on you next.' Kostya frames one direct touch at once: "potom" means "then", and it carries the main weight of what Kostya is saying.
-- 'What did you just do?' Nagiyev frames the reply with warmth: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Are you still here?' Stepping in smoothly in front of Nagiyev, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You have a big mouth.' Nagiyev responds wryly watching Kostya, before Kostya can change the subject.
+- 'Watch out or I will spill it on you next.' Kostya fires back sharply with a shrug, shifting the mood of the conversation in a single beat.
+- 'What did you just do?' Leaning in naturally in front of Kostya, Nagiyev puts the question word "chto" right at the start so Kostya hears the focus immediately.
 - 'What are you doing?' Kostya wonders frankly to see how Nagiyev will answer on the spot.
-- 'I am about to teach you a painful lesson.' Nagiyev points to one loaded detail in earnest: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
-- 'Let go of him, what are you doing?' Kostya delivers the thought with warmth: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'Dima, what is going on?' Nagiyev presses point-blank in front of Kostya without any preamble.
-- 'That is my son!' Kostya sends the comment briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Watch your language, kid.' Nagiyev frames the reaction on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'He nearly ruined my suit!' Kostya presses openly to see how Nagiyev will answer on the spot.
-- 'Now he has to dine here for a year.' Nagiyev centers one practical choice on cue: "dolzhen" means "has to, must", and it carries the main weight of what Nagiyev is saying.
-- 'Please excuse us.' Kostya gives that thought without fuss: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'I am about to teach you a painful lesson.' Focusing on the pain at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Let go of him, what are you doing?' Looking over smoothly before Nagiyev, Kostya puts the question word "chto" right at the start so Nagiyev hears the focus immediately.
+- 'Dima, what is going on?' Nagiyev presses point-blank while looking straight at Kostya here.
+- 'That is my son!' Dwelling on his son around Nagiyev, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Watch your language, kid.' Cutting in promptly in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'He nearly ruined my suit!' Kostya presses openly if there is more going on behind the scenes.
+- 'Now he has to dine here for a year.' Turning to a year right here, Nagiyev brings in "dolzhen" ("has to, must") to make the meaning unmistakable.
+- 'Please excuse us.' Kostya simply gives this polite apology for Nagiyev using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.

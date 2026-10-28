@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'These keys do not fit.' Barinov voices this update plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Oh, I forgot to check the second one.' Senya pushes back bluntly in this moment, testing Fedya's reaction in the middle of the exchange.
-- 'And what are we supposed to do now?' Fedya highlights one practical element in earnest: "teper" means "now", and it carries the main weight of what Fedya is saying.
-- 'Guys, we need to get out of here.' Senya puts that point right away: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Here is the plan, we have to steal the safe.' Barinov stands firm plainly watching Fedya, making his position completely clear.
-- 'Chef, they will put us in prison!' Senya sharpens one practical expression in earnest: "posadyat" means "they'll put in prison" (from "posadit"), giving the line its exact edge.
-- 'Who even needs it?' Barinov shares this answer right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
-- 'It has stood here empty for a hundred years.' Barinov reacts frankly to be clear, refusing to let the moment slip past.
-- 'Carrying it out unnoticed will not work.' Fedya frames one telling touch right here: "poluchitsya" means "will come out", and it carries the main weight of what Fedya is saying.
-- 'Besides, it is very heavy.' Barinov shapes the reply calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Let's drop it out the window!' Barinov speaks dryly without holding back, bringing things back to earth after the buildup.
-- 'If it breaks open, even better.' Barinov frames this clear piece for Senya: "slomayetsya" means "to break down" (from "slomatsya"), giving the line its exact edge.
-- 'Go to the kitchen and keep watch.' Barinov counters steadily with Fedya, saying out loud what both of them already know.
-- 'We can drop it now, go!' Barinov proceeds wryly with a nod, leaving no doubt about where he stands.
+- 'These keys do not fit.' Touching on the keys at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Oh, I forgot to check the second one.' Senya reacts bluntly without a pause, keeping the focus on what actually matters here.
+- 'And what are we supposed to do now?' Looking over frankly before Senya, Fedya puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'Guys, we need to get out of here.' Turning to the boys around Fedya, Senya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Here is the plan, we have to steal the safe.' Barinov weighs in plainly without a pause, leaving no doubt about where he stands.
+- 'Chef, they will put us in prison!' Senya follows up vividly right here and chooses "posadyat" ("they'll put in prison", from the root "posadit") so Barinov hears the exact meaning.
+- 'Who even needs it?' Following up smoothly with Senya, Barinov keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'It has stood here empty for a hundred years.' Barinov opens up frankly on the spot, leaving no doubt about where he stands.
+- 'Carrying it out unnoticed will not work.' Fedya steps in readily in front of Barinov and centers the remark on "poluchitsya" ("will come out") without any extra fuss.
+- 'Besides, it is very heavy.' Explaining how heavy things are around Fedya, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Let's drop it out the window!' Barinov fires back dryly without any doubt, without trying to dress up how he really feels.
+- 'If it breaks open, even better.' Barinov speaks readily in front of Fedya and centers the thought on "slomayetsya" ("to break down", from "slomatsya") without wasting a word.
+- 'Go to the kitchen and keep watch.' Bringing up the kitchen with Fedya, Barinov centers the thought on "kukhnyu" ("kitchen", from "kukhnya") without wasting a word.
+- 'We can drop it now, go!' Barinov proceeds wryly around Fedya, so Fedya knows he is not just making small talk.

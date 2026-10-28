@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A button. Louis.' Max proceeds lightly with a sigh, shifting the whole mood of the room in a single beat.
-- 'Right now I do not know how this...' Louis stresses one direct piece right here: "seychas" means "now", and it carries the main weight of what Louis is saying.
-- 'Forgive us, we will fix everything at once.' Max gives this update facing Louis: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Max steps in.
-- 'Thank you, I can manage myself.' Nastya counters warmly to settle things, refusing to let the moment slip past.
-- 'Is what he told you really true?' Max centers this sharp choice for Louis: "pravda" means "honestly", and it carries the main weight of what Max is saying.
-- 'That mustachioed guy even recites poetry to yours.' Louis pushes back at once without any doubt, grounding the moment in plain reality.
-- 'He is cheating on your Louis with a woman.' Max proceeds frankly as things stand, making his position completely clear.
-- 'Well, did you talk to Max yet?' Louis picks one vivid expression for Nastya: "pogovorila" means "talked, had a talk" (from "pogovorit"), giving the line its exact edge.
-- 'What are you waiting for?' Max drops that thought without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Louis purely through rising pitch at the end.
-- 'Go over there and tell him right now.' Louis steps in warmly as things stand, making his position completely clear.
-- 'That is none of your business.' Max points to one sharp term in reply: "delo" means "matter", and it carries the main weight of what Max is saying.
-- 'I do not have any lemons left.' Louis sends the reply beside Nastya: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Let us go to the walk-in cooler.' Max continues dryly to be clear, bringing things back to earth after the buildup.
+- 'A button. Louis.' Max steps in lightly across the room, testing Louis's reaction in the middle of the exchange.
+- 'Right now I do not know how this...' Louis counters earnestly in this moment, testing Max's reaction in the middle of the exchange.
+- 'Forgive us, we will fix everything at once.' Max smoothly gives this polite apology beside Louis using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Thank you, I can manage myself.' Nastya naturally speaks this word of thanks for Max using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Is what he told you really true?' Underscoring the honestly in this beat, Max leans on "pravda" ("honestly") to give the whole sentence its punch.
+- 'That mustachioed guy even recites poetry to yours.' Discussing the verses on the spot, Louis leans on "usatyy" ("friend") to give the whole sentence its punch.
+- 'He is cheating on your Louis with a woman.' Max speaks up frankly without a pause, steering the talk right where he wants it.
+- 'Well, did you talk to Max yet?' Louis jumps in directly on the spot and uses "pogovorila" ("talked, had a talk", from "pogovorit") to make the point stick.
+- 'What are you waiting for?' Following up boldly to Louis, Max keeps normal statement word order here, turning the line into a question for Louis purely through rising pitch.
+- 'Go over there and tell him right now.' Louis replies warmly around Max, leaving no doubt about where he stands.
+- 'That is none of your business.' Pointing to the matter at once, Max chooses "delo" ("matter") so Louis gets the point right away.
+- 'I do not have any lemons left.' Louis reacts boldly facing Max, testing Max's reaction in the middle of the exchange.
+- 'Let us go to the walk-in cooler.' Max reacts dryly with a sigh, bringing things back to earth after the buildup.

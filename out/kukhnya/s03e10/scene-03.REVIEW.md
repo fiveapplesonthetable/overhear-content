@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are sort of dating, and sort of not.' Nagiyev pushes back calmly in their talk, letting the remark speak for itself.
-- 'After all, we still have not slept together.' Nagiyev reaches for one classic term right here: "spali" means "were sleeping" (from "spat"), giving the line its exact edge.
-- 'For you this kind of thing is familiar.' Nagiyev delivers the remark on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'But Dima is in complete bewilderment right now.' Barinov holds firm calmly facing Nagiyev, to clear the air between them once and for all.
-- 'I do not understand what to do at all.' Nagiyev favors this vivid piece with Barinov: "voobshche" means "at all", and it carries the main weight of what Nagiyev is saying.
-- 'She shies away from all of my friends.' Nagiyev aims the reaction calmly now: the "-sya" ending on "storonitsya" ("avoids") turns the action inward or makes it happen between people naturally.
-- 'And what do you need from me?' Barinov prompts firmly what Nagiyev is actually getting at here.
-- 'I decided to invite her out to dinner.' Nagiyev grounds one loaded piece for Barinov: "priglasit" means "to invite", and it carries the main weight of what Nagiyev is saying.
-- 'With handsome, smart, cultured people.' Nagiyev steps in lightly as things stand, watching Barinov's face to see how the news lands.
-- 'Lena is beautiful, smart, and cultured.' Nagiyev speaks up right away without a pause, steering the talk right where he wants it.
-- 'Unfortunately, nothing will work out for us.' Barinov colors one familiar element in earnest: "sozhaleniyu" means "regret" (from "sozhaleniye"), giving the line its exact edge.
-- 'Because I broke up with her.' Barinov brings this answer calmly now: the "-sya" ending on "rasstalsya" ("broke up, parted ways") turns the action inward or makes it happen between people naturally.
+- 'We are sort of dating, and sort of not.' Nagiyev continues calmly with a nod, refusing to let the moment slip past.
+- 'After all, we still have not slept together.' Nagiyev speaks up firmly in the exchange and centers the thought on "spali" ("were sleeping", from "spat") without wasting a word.
+- 'For you this kind of thing is familiar.' Showing how familiar things are beside Barinov, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'But Dima is in complete bewilderment right now.' Barinov responds calmly with a shrug, bringing things back to earth after the buildup.
+- 'I do not understand what to do at all.' Nagiyev answers evenly before Barinov and puts the emphasis on "voobshche" ("at all") in the middle of the talk.
+- 'She shies away from all of my friends.' Focusing on his friends in this beat, the "-sya" ending on "storonitsya" ("avoids") marks an action that unfolds mutually or turns back on the speaker.
+- 'And what do you need from me?' Barinov prompts firmly to see how Nagiyev will answer on the spot.
+- 'I decided to invite her out to dinner.' Discussing the dinner to Barinov, Nagiyev brings in "priglasit" ("to invite") to make the meaning unmistakable.
+- 'With handsome, smart, cultured people.' Nagiyev cuts in decisively in front of Barinov and reaches for the Russian word "intelligentnymi" ("cultured, educated", built from "intelligentnyy") right at the center of the line.
+- 'Lena is beautiful, smart, and cultured.' Nagiyev replies right away in this moment, testing Barinov's reaction in the middle of the exchange.
+- 'Unfortunately, nothing will work out for us.' Emphasizing the regret on the spot, Barinov chooses "sozhaleniyu" ("regret", from the root "sozhaleniye") so Nagiyev hears the exact meaning.
+- 'Because I broke up with her.' Weighing in dryly at once, the "-sya" ending on "rasstalsya" ("broke up, parted ways") marks an action that unfolds mutually or turns back on the speaker.

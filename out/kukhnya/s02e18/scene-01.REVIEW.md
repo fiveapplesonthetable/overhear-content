@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I salted it two minutes ago.' Barinov highlights one direct word for Max: "minuty" means "minutes" (from "minuta"), giving the line its exact edge.
-- 'Do not get smart with me.' Vika drops this point briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Wait a minute, where do you think you are going?' Barinov prompts promptly to see how Max will answer on the spot.
-- 'Actually, I am on vacation.' Vika frames one vivid term toward Max: "voobshche-to" means "actually", and it carries the main weight of what Vika is saying.
-- 'You signed the request form yourself.' Barinov picks one pointed touch in reply: "zayavleniye" means "statement", and it carries the main weight of what Barinov is saying.
-- 'Was I drunk when I signed it?' Max asks sharply in front of Vika without any preamble.
-- 'Well, then it does not count.' Barinov frames one memorable piece toward Max: "schitayetsya" means "to be considered" (from "schitatsya"), giving the line its exact edge.
-- 'You should have warned me beforehand.' Vika delivers the reaction for Max: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'It is not my fault.' Barinov replies frankly in their talk, before Max can change the subject.
-- 'I do not know anything about that.' Vika points to one memorable detail right here: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'I have plans of my own...' Barinov puts that answer briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Will they pay us extra for covering?' Vika asks earnestly how Max expects that to work in practice.
-- 'I still do not want to do it anyway.' Barinov leans on one pointed touch in reply: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'I salted it two minutes ago.' Touching on the minutes on the spot, Barinov leans on "minuty" ("minutes", a form of "minuta") to give the remark its edge.
+- 'Do not get smart with me.' Speaking earnestly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Wait a minute, where do you think you are going?' Barinov prompts promptly to see how Vika will answer on the spot.
+- 'Actually, I am on vacation.' Bringing up the vacation around Barinov, Vika reaches for the Russian word "otpuske" ("vacation", built from "otpusk") right at the center of the line.
+- 'You signed the request form yourself.' Barinov weighs in at once across the room, to clear the air between them once and for all.
+- 'Was I drunk when I signed it?' Max asks sharply to see how Barinov will answer on the spot.
+- 'Well, then it does not count.' Barinov chimes in quietly at once and reaches for the Russian word "schitayetsya" ("to be considered", built from "schitatsya") right at the center of the line.
+- 'You should have warned me beforehand.' Replying evenly during the talk, Vika leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'It is not my fault.' Barinov jumps in frankly with a shrug, leaving no doubt about where he stands.
+- 'I do not know anything about that.' Opening up naturally in front of Barinov, Vika pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I have plans of my own...' Reacting calmly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Will they pay us extra for covering?' Vika asks earnestly if there is more going on behind the scenes.
+- 'I still do not want to do it anyway.' Barinov replies openly in this beat and uses "ravno" ("the same") to carry the main weight of the thought.

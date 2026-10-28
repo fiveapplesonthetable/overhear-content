@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I already gave an injection, the pressure dropped.' The doctor cuts in candidly without holding back, shifting the whole mood of the room in a single beat.
-- 'Now she needs rest and positive emotions.' The doctor pushes back warmly without any doubt, refusing to let the moment slip past.
-- 'Elechka, my dear, how are you feeling?' Barinov uses one pointed piece with the doctor: "chuvstvuyesh" means "feel" (from "chuvstvovat"), giving the line its exact edge.
-- 'This Frenchman is a real Michelin inspector!' Barinov directs the thought beside Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Our patient is making a sudden recovery.' The doctor continues evenly with a sigh, letting the remark speak for itself.
-- 'Look how badly mom frightened us!' Hear how Barinov tells Katya in reply — the Russian word "napugala" ("to scare, to frighten", built from "napugat") does the heavy lifting.
-- 'I wanted to throw a farewell banquet today.' Barinov follows up boldly as they talk, to clear the air between them once and for all.
-- 'What banquet, I am not flying anywhere!' Katya fires back sharply in their talk, shifting the whole mood of the room in a single beat.
-- 'I will stay until mom recovers.' Katya stresses one pointed detail on cue: "vyzdoroveyet" means "will recover" (from "vyzdorovet"), giving the line its exact edge.
-- 'Just fly calmly to your Paris!' Barinov picks one memorable word with Katya: "spokoyno" means "calmly", and it carries the main weight of what Barinov is saying.
-- 'Do not worry about mom, she is strong.' Barinov weighs in openly during the talk, refusing to let the moment slip past.
-- 'Especially since I will always be nearby.' Barinov reaches for one telling touch toward Katya: "boleye" means "more", and it carries the main weight of what Barinov is saying.
+- 'I already gave an injection, the pressure dropped.' Touching on the pressure with Barinov, the doctor brings in "davleniye" ("blood pressure") to make the meaning unmistakable.
+- 'Now she needs rest and positive emotions.' The doctor follows up warmly with a sigh, making his position completely clear.
+- 'Elechka, my dear, how are you feeling?' Barinov chimes in boldly beside the doctor and brings in "chuvstvuyesh" ("feel", from "chuvstvovat") as the key Russian word here.
+- 'This Frenchman is a real Michelin inspector!' Emphasizing how real things are in the exchange, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Our patient is making a sudden recovery.' The doctor continues evenly during the talk, shifting the mood of the conversation in a single beat.
+- 'Look how badly mom frightened us!' Addressing the mum during the talk, Barinov brings in "napugala" ("to scare, to frighten", from "napugat") as the key Russian word here.
+- 'I wanted to throw a farewell banquet today.' Talking about a farewell banquet on the spot, Barinov chooses "proshchalnyy" ("farewell") so Katya gets the point right away.
+- 'What banquet, I am not flying anywhere!' Katya speaks up sharply across the room, testing Barinov's reaction in the middle of the exchange.
+- 'I will stay until mom recovers.' Mentioning the mum beside Barinov, Katya puts the weight on "vyzdoroveyet" ("will recover", from "vyzdorovet") as the exchange unfolds.
+- 'Just fly calmly to your Paris!' Barinov jumps in at once around Katya, leaving no doubt about where he stands.
+- 'Do not worry about mom, she is strong.' Barinov replies openly without holding back, testing Katya's reaction in the middle of the exchange.
+- 'Especially since I will always be nearby.' Barinov opens up pointedly in front of Katya and brings in "vsegda" ("always") to make the meaning unmistakable.

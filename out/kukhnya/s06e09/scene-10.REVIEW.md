@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, the main thing is, just do not get upset.' Katya stresses one key piece at once: "rasstraivaysya" means "be upset, worry" (from "rasstraivatsya"), giving the line its exact edge.
-- 'Because of my sore arm I could not play.' Denis continues promptly in their talk, bringing things back to earth after the buildup.
-- 'Your mom fired him and me along with him.' Gulya stands firm decisively with a smile, before Denis can change the subject.
-- 'Wait, I will definitely talk to her.' Katya chooses one pointed piece on cue: "obyazatelno" means "surely, without fail", and it carries the main weight of what Katya is saying.
-- 'Gulya, stop being offended over nonsense already.' Denis aims this update with ease: the "-sya" ending on "obizhatsya" ("feel offended") turns the action inward or makes it happen between people naturally.
-- 'Mom suddenly has a young unmarried friend.' Gulya steps in firmly with a smile, letting the remark speak for itself.
-- 'Larisa just moved to Moscow very recently.' Denis points to one familiar expression in earnest: "pereyekhala" means "moved" (from "pereyekhat"), giving the line its exact edge.
-- 'You do not understand, mom is purposefully setting you up.' Gulya picks one direct touch at once: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.
-- 'Sveta, do not be upset, Katya will talk to her mom.' Denis replies decisively as they talk, letting the remark speak for itself.
-- 'That means we are definitely fired, there is nothing left to lose.' Gulya underscores this direct choice with Katya: "znachit" means "then, so", and it carries the main weight of what Gulya is saying.
-- 'Everything is clearly recorded on my dashcam.' Gulya gives this point with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Listen, but we drove away from there.' Denis proceeds openly with a smile, bringing things back to earth after the buildup.
-- 'My own brother works in the police!' Gulya grounds one clear detail on cue: "politsii" means "the police" (from "politsiya"), giving the line its exact edge.
+- 'Denis, the main thing is, just do not get upset.' Katya fires back evenly right here and puts the weight on "rasstraivaysya" ("be upset, worry", from "rasstraivatsya") as the exchange unfolds.
+- 'Because of my sore arm I could not play.' Turning to the hands right here, Denis brings in "bolnoy" ("crazy") to make the meaning unmistakable.
+- 'Your mom fired him and me along with him.' Talking about the mum with Denis, Gulya brings the exchange with Denis back to practical reality.
+- 'Wait, I will definitely talk to her.' Katya answers boldly beside Gulya and brings in "obyazatelno" ("surely, without fail") to make the meaning unmistakable.
+- 'Gulya, stop being offended over nonsense already.' Returning to the nonsense in the exchange, the "-sya" ending on "obizhatsya" ("feel offended") marks an action that unfolds mutually or turns back on the speaker.
+- 'Mom suddenly has a young unmarried friend.' Gulya steps in firmly around Denis, so Denis knows she is not just making small talk.
+- 'Larisa just moved to Moscow very recently.' Denis opens up naturally around Gulya and reaches for the Russian word "pereyekhala" ("moved", built from "pereyekhat") right at the center of the line.
+- 'You do not understand, mom is purposefully setting you up.' Gulya jumps in boldly without holding back, grounding the moment in plain reality.
+- 'Sveta, do not be upset, Katya will talk to her mom.' Denis fires back decisively without holding back, steering the talk right where he wants it.
+- 'That means we are definitely fired, there is nothing left to lose.' Gulya follows up earnestly before Denis and uses "znachit" ("then, so") to carry the main weight of the thought.
+- 'Everything is clearly recorded on my dashcam.' Dwelling on her dashcam on the spot, Gulya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Listen, but we drove away from there.' Denis jumps in openly without holding back, grounding the moment in plain reality.
+- 'My own brother works in the police!' Talking about the police in this beat, Gulya leans on "politsii" ("the police", a form of "politsiya") to give the remark its edge.

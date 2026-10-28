@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you really leaving tomorrow already?' Senya quizzes evenly before Denis can change the subject.
-- 'He did not even warn anyone in advance.' Senya underscores one direct element for Mikhail: "predupredil" means "warned" (from "predupredit"), giving the line its exact edge.
-- 'Denis is leaving for Voronezh forever tomorrow.' Senya responds promptly before Denis, so Denis knows he is not just making small talk.
-- 'A nice room is freeing up at Kostya's place now.' Senya holds firm openly with a sigh, steering the talk right where he wants it.
-- 'Now this is truly very big news.' Senya grounds one pointed choice on cue: "deystvitelno" means "really, indeed", and it carries the main weight of what Senya is saying.
-- 'And who is going to play the piano?' Mikhail frames this statement without pause: putting the question word "kto" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'Alright, I did not understand anything right now.' Mikhail fires back bluntly with a smile, before Denis can change the subject.
-- 'Denis, should I sit down at the grand piano myself?' Mikhail leans on this vivid touch right here: "royal" means "grand piano", and it carries the main weight of what Mikhail is saying.
-- 'He is leaving us forever tomorrow.' Senya answers evenly to settle things, shifting the whole mood of the room in a single beat.
+- 'Are you really leaving tomorrow already?' Senya quizzes evenly about what Mikhail just brought up.
+- 'He did not even warn anyone in advance.' Senya speaks directly on the spot and leans on "predupredil" ("warned", a form of "predupredit") to give the remark its edge.
+- 'Denis is leaving for Voronezh forever tomorrow.' Senya steps in smoothly with Denis and puts the weight on "uyezzhayet" ("is leaving", from "uyezzhat") as the exchange unfolds.
+- 'A nice room is freeing up at Kostya's place now.' Senya pushes back openly watching Mikhail, shifting the mood of the conversation in a single beat.
+- 'Now this is truly very big news.' Talking about the news in the exchange, Senya uses "deystvitelno" ("really, indeed") to carry the main weight of the thought.
+- 'And who is going to play the piano?' Answering smoothly in this beat, Mikhail puts the question word "kto" right at the start so Senya hears the focus immediately.
+- 'Alright, I did not understand anything right now.' Mikhail steps in bluntly facing Senya, to clear the air between them once and for all.
+- 'Denis, should I sit down at the grand piano myself?' Addressing the grand piano during the talk, Mikhail centers the remark on "royal" ("grand piano") without any extra fuss.
+- 'He is leaving us forever tomorrow.' Senya continues promptly during the talk and centers the thought on "uyezzhayet" ("is leaving", from "uyezzhat") without wasting a word.
 - 'Could you not have told me earlier?' Mikhail asks straight out how Senya expects that to work in practice.
-- 'Fine, then let us go get your final pay now.' Mikhail favors this sharp detail for Denis: "raschyotom" means "final pay, settlement" (from "raschyot"), giving the line its exact edge.
-- 'Wait, am I already completely fired?' Denis makes this warning around Senya: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Fine, then let us go get your final pay now.' Talking about the final pay in this beat, Mikhail centers the thought on "raschyotom" ("final pay, settlement", from "raschyot") without wasting a word.
+- 'Wait, am I already completely fired?' Holding firm openly at once, Denis adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.

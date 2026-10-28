@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Under the table, as a bribe.' Max picks this clear element at once: "lapu" means "paw, hand" (from "lapa"), giving the line its exact edge.
-- 'I got it, yes.' Max voices the thought for Sasha: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'If there are any problems, call me.' Max stands firm quietly as they talk, refusing to let the moment slip past.
-- 'Everything adds up.' Sasha points to one familiar detail at once: "skhoditsya" means "to match, add up", and it carries the main weight of what Sasha is saying.
-- 'And you do not know?' Max drops this statement right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Sasha purely through rising pitch at the end.
-- 'I will take a look right now.' Sasha jumps in right away to be clear, shifting the whole mood of the room in a single beat.
-- 'What, are you afraid of me?' Max colors one direct element with Sasha: "boishsya" means "you are afraid" (from "boyatsya"), giving the line its exact edge.
-- 'Well then, what is the problem?' Sasha gives the thought with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am not afraid.' Max answers candidly with a nod, so Sasha knows he is not just making small talk.
-- 'Were you not looking for me?' Sasha reaches for this sharp term on cue: "iskala" means "searched" (from "iskat"), giving the line its exact edge.
-- 'And I was just looking for you too.' Max centers one direct word right here: "iskal" means "was looking for" (from "iskat"), giving the line its exact edge.
-- 'I cooked such an amazing dorado.' Max weighs in plainly across the room, refusing to let the moment slip past.
-- 'Come on, I will show you.' Max chooses one classic term in reply: "pokazhu" means "will show" (from "pokazat"), giving the line its exact edge.
+- 'Under the table, as a bribe.' Emphasizing the paw at once, Max brings in "lapu" ("paw, hand", from "lapa") as the key Russian word here.
+- 'I got it, yes.' Reacting candidly around Sasha, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'If there are any problems, call me.' Max speaks up quietly on the spot, to clear the air between them once and for all.
+- 'Everything adds up.' Sasha weighs in promptly around Max and puts the emphasis on "skhoditsya" ("to match, add up") in the middle of the talk.
+- 'And you do not know?' Speaking smoothly beside Sasha, Max keeps normal statement word order here, turning the line into a question for Sasha purely through rising pitch.
+- 'I will take a look right now.' Sasha counters right away across the room, so Max knows she is not just making small talk.
+- 'What, are you afraid of me?' Max follows up candidly with Sasha and chooses "boishsya" ("you are afraid", from the root "boyatsya") so Sasha hears the exact meaning.
+- 'Well then, what is the problem?' Bringing up the problem at once, Sasha links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am not afraid.' Max continues candidly on the spot, grounding the moment in plain reality.
+- 'Were you not looking for me?' Sasha opens up warmly beside Max and leans on "iskala" ("searched", a form of "iskat") to give the remark its edge.
+- 'And I was just looking for you too.' Max continues decisively without a pause, steering the talk right where he wants it.
+- 'I cooked such an amazing dorado.' Max speaks plainly in their talk, keeping the focus on what actually matters here.
+- 'Come on, I will show you.' Max proceeds openly in this beat and chooses "pokazhu" ("will show", from the root "pokazat") so Sasha hears the exact meaning.

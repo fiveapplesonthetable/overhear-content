@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why? Because you are pilots, right?' Nagiyev checks deadpan in front of Katya without any preamble.
-- 'Why do I have to wait until Easter for my aspic, huh?' Nagiyev points to one loaded word toward Max: "kholodets" means "aspic, meat jelly", and it carries the main weight of what Nagiyev is saying.
-- 'Why? What is this?' Nagiyev offers this warning frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And this is that very aspic that I was going to bring you.' Max cuts in quietly before Nagiyev, keeping the focus on what actually matters here.
-- 'Did Katya prepare this?' Nagiyev colors one concrete choice in earnest: "prigotovila" means "to prepare" (from "prigotovit"), giving the line its exact edge.
-- 'Yes, Dmitry Vladimirovich.' Max offers this warning frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Prepare something else unusual for me!' Nagiyev jumps in at once in this moment, saying out loud what both of them already know.
-- 'Why?' Nagiyev delivers the reply before Max: putting the question word "pochemu" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Because we are pilots!' Max directs that remark briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Thank you, I am in your debt.' Max opens up earnestly hearing Nagiyev, letting the remark speak for itself.
-- 'You're welcome, Max.' Katya shapes this answer at once: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'You simply saved me.' Max voices that line without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Why? Because you are pilots, right?' Nagiyev checks deadpan what Max is actually getting at here.
+- 'Why do I have to wait until Easter for my aspic, huh?' Emphasizing his aspic at once, Nagiyev puts the emphasis on "kholodets" ("aspic, meat jelly") in the middle of the talk.
+- 'Why? What is this?' Looking over naturally in front of Max, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And this is that very aspic that I was going to bring you.' Max cuts in quietly without any doubt, refusing to let the moment slip past.
+- 'Did Katya prepare this?' Nagiyev pushes back openly during the talk and puts the weight on "prigotovila" ("to prepare", from "prigotovit") as the exchange unfolds.
+- 'Yes, Dmitry Vladimirovich.' Holding firm calmly to Nagiyev, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Prepare something else unusual for me!' Nagiyev proceeds at once without holding back, steering the talk right where he wants it.
+- 'Why?' Leaning in calmly right here, Nagiyev puts the question word "pochemu" right at the start so Max hears the focus immediately.
+- 'Because we are pilots!' Turning to the pilots at once, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Thank you, I am in your debt.' Max lightly offers this word of thanks without hesitation using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'You're welcome, Max.' Katya briskly speaks this courtesy word with Max using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'You simply saved me.' Replying promptly in the exchange, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.

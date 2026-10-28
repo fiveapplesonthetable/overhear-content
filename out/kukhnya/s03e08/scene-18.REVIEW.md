@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, a train ticket from Moscow to Voronezh.' Barinov opens up boldly around Kostya, refusing to let the moment slip past.
-- 'That hell of yours turned out to be not far at all.' Barinov chooses this telling piece right here: "okazalsya" means "turned up" (from "okazatsya"), giving the line its exact edge.
-- 'So what, are you really going to Voronezh?' Barinov gives that thought facing Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Give it back, that is none of your business at all.' Max weighs in wryly before Kostya, refusing to let the moment slip past.
-- 'Then you are not a traitor, I see that you are simply a coward and a liar.' Barinov colors one key element toward Kostya: "predatel" means "traitor", and it carries the main weight of what Barinov is saying.
-- 'What, do you really see, and I thought you were blind!' Max focuses on one colorful element in earnest: "pravda" means "honestly", and it carries the main weight of what Max is saying.
-- 'Otherwise you would have seen how hard I tried in order to please you!' Max speaks up warmly across the room, without trying to dress up how he really feels.
-- 'So that Viktor Petrovich would say: good job, Max, you are growing!' Kostya anchors one colorful element at once: "molodets" means "well done, good boy", and it carries the main weight of what Kostya is saying.
-- 'Never mind, I endured everything, and you fired me anyway!' Max sharpens one direct element at once: "uvolili" means "to fire, to dismiss" (from "uvolit"), giving the line its exact edge.
-- 'Because I stood up for the girl I love?' Max inquires sharply what Kostya is actually getting at here.
-- 'Would you yourself really have acted differently then?' Max uses one clear touch right here: "po-drugomu" means "differently", and it carries the main weight of what Max is saying.
-- 'Because you love only yourself, and you do not care about the rest!' Max stresses one sharp term toward Kostya: "ostalnykh" means "the others" (from "ostalnoy"), giving the line its exact edge.
-- 'I wanted to be like you, and now I understand everything!' Max fires back calmly before Barinov, shifting the whole mood of the room in a single beat.
+- 'Look, a train ticket from Moscow to Voronezh.' Barinov reacts boldly beside Max, refusing to let the moment slip past.
+- 'That hell of yours turned out to be not far at all.' Discussing the hell in this beat, Barinov puts the weight on "okazalsya" ("turned up", from "okazatsya") as the exchange unfolds.
+- 'So what, are you really going to Voronezh?' Weighing in briskly in the exchange, Barinov puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Give it back, that is none of your business at all.' Max speaks wryly with a nod, so Barinov knows he is not just making small talk.
+- 'Then you are not a traitor, I see that you are simply a coward and a liar.' Pointing to a traitor before Max, Barinov lands on "predatel" ("traitor") as the key everyday word here.
+- 'What, do you really see, and I thought you were blind!' Max counters frankly in their talk, leaving no doubt about where he stands.
+- 'Otherwise you would have seen how hard I tried in order to please you!' Max steps in warmly with a nod, refusing to let the moment slip past.
+- 'So that Viktor Petrovich would say: good job, Max, you are growing!' Kostya jumps in directly around Barinov and reaches for the Russian word "molodets" ("well done, good boy") right at the heart of the line.
+- 'Never mind, I endured everything, and you fired me anyway!' Max speaks plainly watching Kostya, steering the talk right where he wants it.
+- 'Because I stood up for the girl I love?' Max inquires sharply to see how Kostya will answer on the spot.
+- 'Would you yourself really have acted differently then?' Max replies evenly in the exchange and centers the remark on "po-drugomu" ("differently") without any extra fuss.
+- 'Because you love only yourself, and you do not care about the rest!' Max speaks up lightly around Kostya, grounding the moment in plain reality.
+- 'I wanted to be like you, and now I understand everything!' Max fires back calmly beside Kostya, making his position completely clear.

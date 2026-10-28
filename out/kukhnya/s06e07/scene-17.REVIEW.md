@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Lyova, are you home alone right now?' Gulya makes this update with warmth: opening with the casual greeting "privet" ("hi") signals right away that Gulya and Barinov are on familiar terms.
-- 'Yes, my mom has already left for the dacha.' Barinov opens up at once to settle things, before Gulya can change the subject.
-- 'Please do not say anything more to me right now.' Gulya spotlights one concrete expression with Barinov: "seychas" means "now", and it carries the main weight of what Gulya is saying.
-- 'Vitya, open this door for me, please!' Elena hands over this line plainly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Lena, wait one minute, I am busy right now.' Barinov pushes back lightly as they talk, so Elena knows he is not just making small talk.
-- 'Tell me honestly, are you alone in the office?' Elena anchors one vivid touch toward Gulya: "kabinete" means "office" (from "kabinet"), giving the line its exact edge.
-- 'Then open this door for me immediately, Vitya!' Elena chimes in at once around Barinov, making her position completely clear.
-- 'I do not understand, what kind of madness is going on?' Elena checks briskly if there is more going on behind the scenes.
-- 'After all, Anya saw you without a mustache today!' Elena picks this key element right here: "segodnya" means "today", and it carries the main weight of what Elena is saying.
-- 'Lena, I swear to you, that was not me!' Barinov delivers this line to Gulya: the "-sya" ending on "klyanus" ("I swear") turns the action inward or makes it happen between people naturally.
-- 'Then who was kissing a female employee near the elevator?' Elena presses deadpan to see how Barinov will answer on the spot.
-- 'Please calm down, I will explain everything right now.' Barinov leans on one telling touch on cue: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
+- 'Hi, Lyova, are you home alone right now?' Pushing back readily beside Barinov, Gulya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Yes, my mom has already left for the dacha.' Barinov responds at once across the room, making his position completely clear.
+- 'Please do not say anything more to me right now.' Gulya responds promptly right here and centers the thought on "govori" ("say, talk", from "govorit") without wasting a word.
+- 'Vitya, open this door for me, please!' Touching on the door right here, Elena reaches for the Russian word "dver" ("door") right at the heart of the line.
+- 'Lena, wait one minute, I am busy right now.' Barinov answers lightly beside Elena, letting the remark speak for itself.
+- 'Tell me honestly, are you alone in the office?' Focusing on the office on the spot, Elena reaches for the Russian word "kabinete" ("office", built from "kabinet") right at the center of the line.
+- 'Then open this door for me immediately, Vitya!' Discussing the door in front of Barinov, Elena puts the emphasis on "nemedlenno" ("immediately") in the middle of the talk.
+- 'I do not understand, what kind of madness is going on?' Elena checks briskly what Barinov is actually getting at here.
+- 'After all, Anya saw you without a mustache today!' Focusing on the moustache around Barinov, Elena centers the remark on "segodnya" ("today") without any extra fuss.
+- 'Lena, I swear to you, that was not me!' Stepping in directly with Elena, the "-sya" ending on "klyanus" ("I swear") marks an action that unfolds mutually or turns back on the speaker.
+- 'Then who was kissing a female employee near the elevator?' Elena presses deadpan if there is more going on behind the scenes.
+- 'Please calm down, I will explain everything right now.' Barinov reacts plainly in front of Elena and puts the weight on "uspokoysya" ("calm down", from "uspokoitsya") as the exchange unfolds.

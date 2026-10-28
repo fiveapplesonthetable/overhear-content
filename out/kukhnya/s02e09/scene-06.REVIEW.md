@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, that is what he said.' Max continues briskly toward Barinov, steering the talk right where he wants it.
-- 'He would have been joking.' Barinov grounds one concrete expression toward Timur: "poshutil" means "to joke" (from "poshutit"), giving the line its exact edge.
-- 'Come on, do you guys not know the Chef?' Timur hands over the remark without fuss: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'What, you do not believe me, right?' Max questions eagerly why things suddenly took this turn between them.
-- 'Let us follow him and see.' Barinov uses one memorable word in reply: "prosledim" means "will keep an eye on it" (from "prosledit"), giving the line its exact edge.
-- 'Max, the Chef is calling for you urgently.' Timur chooses one familiar word toward Max: "vyzyvayut" means "to cause, to raise" (from "vyzyvat"), giving the line its exact edge.
-- 'Well, yes.' Max fires back evenly with Barinov, watching Barinov's face to see how the news lands.
-- 'What amazing partridges I set aside.' Barinov reaches for one clear detail with Timur: "kuropatok" means "partridge" (from "kuropatka"), giving the line its exact edge.
-- 'You cannot even imagine.' Timur drops that thought with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Timur, I need something very special.' Max stands firm quietly in their talk, keeping the focus on what actually matters here.
-- 'Come on, you know me.' Barinov leans on one telling expression for Max: "znayesh" means "know" (from "znat"), giving the line its exact edge.
-- 'I can bring you anything at all.' Timur emphasizes this telling term right here: "privezti" means "to bring", and it carries the main weight of what Timur is saying.
-- 'No, this time I need it right now.' Max fires back briskly without holding back, steering the talk right where he wants it.
+- 'Well, that is what he said.' Max continues briskly around Barinov, steering the talk right where he wants it.
+- 'He would have been joking.' Barinov follows up calmly during the talk and brings in "poshutil" ("to joke", from "poshutit") as the key Russian word here.
+- 'Come on, do you guys not know the Chef?' Stepping in calmly in front of Barinov, Timur puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'What, you do not believe me, right?' Max questions eagerly before Barinov can change the subject.
+- 'Let us follow him and see.' Barinov speaks up directly to Max and puts the weight on "prosledim" ("will keep an eye on it", from "prosledit") as the exchange unfolds.
+- 'Max, the Chef is calling for you urgently.' Timur chimes in candidly toward Barinov, refusing to let the moment slip past.
+- 'Well, yes.' Max speaks evenly with a smile, refusing to let the moment slip past.
+- 'What amazing partridges I set aside.' Mentioning the partridge in this beat, Barinov brings in "kuropatok" ("partridge", from "kuropatka") as the key Russian word here.
+- 'You cannot even imagine.' Holding firm smoothly before Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Timur, I need something very special.' Max steps in quietly in this moment, so Timur knows he is not just making small talk.
+- 'Come on, you know me.' Looking over smoothly around Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I can bring you anything at all.' Timur proceeds right away in their talk, before Barinov can change the subject.
+- 'No, this time I need it right now.' Max replies briskly around Timur, letting the remark speak for itself.

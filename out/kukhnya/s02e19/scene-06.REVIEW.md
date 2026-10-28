@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, you understand how it is.' Barinov jumps in evenly on the spot, grounding the moment in plain reality.
-- 'That is why I walk around like this.' Vika favors one familiar word at once: "poetomu" means "that's why", and it carries the main weight of what Vika is saying.
-- 'You see, people know me and love me.' Nagiyev drops that reply with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'That is how it turns out.' Barinov jumps in pointedly without holding back, saying out loud what both of them already know.
-- 'Dmitriy Vladimirovich.' Vika lays out that reply for Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Here is your coffee.' Nagiyev voices the reaction without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, you understand how it is.' Barinov speaks evenly on the spot, letting the remark speak for itself.
+- 'That is why I walk around like this.' Vika jumps in vividly with Barinov and centers the remark on "poetomu" ("that's why") without any extra fuss.
+- 'You see, people know me and love me.' Speaking quietly to Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'That is how it turns out.' Barinov replies pointedly toward Nagiyev, leaving no doubt about where he stands.
+- 'Dmitriy Vladimirovich.' Pressing on frankly in front of Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Here is your coffee.' Touching on the coffee right here, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
 - 'What is this?' Barinov quizzes skeptically if there is more going on behind the scenes.
-- 'I did not ask for this.' Nagiyev grounds this clear detail in earnest: "prosil" means "ask for" (from "prosit"), giving the line its exact edge.
-- 'Ah, so that is how it is.' Nagiyev hands over this statement on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Ah, I see now.' Barinov pushes back steadily as things stand, watching Vika's face to see how the news lands.
-- 'Good job. Keep looking like that.' Vika underscores this key touch at once: "molodets" means "well done, good boy", and it carries the main weight of what Vika is saying.
-- 'Why, what is wrong?' Nagiyev phrases this update before Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'By the way, it suits you very well.' Barinov proceeds at once on the spot, testing Nagiyev's reaction in the middle of the exchange.
+- 'I did not ask for this.' Nagiyev opens up directly in front of Barinov and reaches for the Russian word "prosil" ("ask for", built from "prosit") right at the center of the line.
+- 'Ah, so that is how it is.' Reacting quietly during the talk, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Ah, I see now.' Barinov cuts in steadily with Nagiyev, before Nagiyev can change the subject.
+- 'Good job. Keep looking like that.' Vika fires back warmly around Barinov and uses "molodets" ("well done, good boy") to carry the main weight of the thought.
+- 'Why, what is wrong?' Turning dryly with Barinov, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'By the way, it suits you very well.' Barinov speaks at once watching Nagiyev, watching Nagiyev's face to see how the news lands.

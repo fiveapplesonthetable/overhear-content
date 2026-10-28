@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The sous-chef is now the main boss in the kitchen.' Lyova drops this point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He is responsible for all the kitchen work.' Lyova fires back openly without a pause, letting the remark speak for itself.
-- 'Being a sous-chef right now is very hard.' Lyova favors one classic expression toward Barinov: "su-shefom" means "sous-chef" (from "su-shef"), giving the line its exact edge.
-- 'Viktor Petrovich, make the order for table five!' Lyova proceeds evenly in their talk, shifting the whole mood of the room in a single beat.
-- 'I do not have enough hands anymore!' Lyova reacts pointedly before Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'My former boss is now under my command.' Lyova features this vivid piece on cue: "podchinenii" means "command" (from "podchineniye"), giving the line its exact edge.
-- 'Work in the kitchen is simply becoming hell.' Lyova phrases that line facing Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Viktor Petrovich, prepare the veal kidneys in sour cream.' Lyova jumps in warmly without a pause, bringing things back to earth after the buildup.
-- 'Lyova, you are pronouncing this name wrong.' Barinov picks one classic expression toward Lyova: "proiznosish" means "to wrong" (from "proiznosit"), giving the line its exact edge.
-- 'I do not know how to cook such a strange dish.' Barinov follows up boldly watching Lyova, steering the talk right where he wants it.
-- 'I will rather go calmly have a smoke outside.' Barinov pushes back boldly in their talk, leaving no doubt about where he stands.
-- 'Viktor Petrovich, return to your station right now!' Lyova emphasizes one loaded word for Barinov: "vernites" means "to come back" (from "vernutsya"), giving the line its exact edge.
+- 'The sous-chef is now the main boss in the kitchen.' Pointing to the kitchen on the spot, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He is responsible for all the kitchen work.' Lyova speaks openly without a pause, keeping the focus on what actually matters here.
+- 'Being a sous-chef right now is very hard.' Lyova continues briskly in this beat and chooses "su-shefom" ("sous-chef", from the root "su-shef") so Barinov hears the exact meaning.
+- 'Viktor Petrovich, make the order for table five!' Mentioning the order before Barinov, Lyova uses "pyatyy" ("fifth") to carry the main weight of the thought.
+- 'I do not have enough hands anymore!' Lyova pushes back pointedly with a nod, bringing things back to earth after the buildup.
+- 'My former boss is now under my command.' Turning to his command right here, Lyova centers the thought on "podchinenii" ("command", from "podchineniye") without wasting a word.
+- 'Work in the kitchen is simply becoming hell.' Discussing the job with Barinov, Lyova uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Viktor Petrovich, prepare the veal kidneys in sour cream.' Lyova proceeds warmly without any doubt, before Barinov can change the subject.
+- 'Lyova, you are pronouncing this name wrong.' Pointing to the name in this beat, Barinov brings in "nazvaniye" ("name, title") to make the meaning unmistakable.
+- 'I do not know how to cook such a strange dish.' Highlighting a strange dish before Lyova, Barinov puts the weight on "strannoye" ("strange, odd", from "strannyy") as the exchange unfolds.
+- 'I will rather go calmly have a smoke outside.' Touching on the street with a smile, Barinov sets the direction for the rest of the talk with Lyova.
+- 'Viktor Petrovich, return to your station right now!' Turning to the place at once, Lyova centers the thought on "vernites" ("to come back", from "vernutsya") without wasting a word.

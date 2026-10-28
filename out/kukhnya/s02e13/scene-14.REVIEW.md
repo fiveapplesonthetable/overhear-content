@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you happen to know?' Lyova shares this line without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'Where is Dmitry Vladimirovich?' Lyova asks sharply in front of Nagiyev without any preamble.
-- 'He was here recently, but he went off somewhere.' Lyova frames this vivid piece in reply: "nedavno" means "returned", and it carries the main weight of what Lyova is saying.
-- 'We need to take him...' Nagiyev directs that remark briskly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'We need to take him to the restaurant.' Lyova jumps in briskly beside Nagiyev, letting the remark speak for itself.
-- 'And we will sort it out there.' Nagiyev anchors one direct piece right here: "razberemsya" means "we'll sort it out" (from "razobratsya"), giving the line its exact edge.
-- 'I am a celebrity, after all.' Lyova puts the remark with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Or maybe?' Nagiyev tests sharply whether Lyova really thought this through.
-- 'Let me make the call myself.' Lyova stresses this key expression at once: "pozvonyu" means "will call" (from "pozvonit"), giving the line its exact edge.
-- 'Come on, let us go.' Nagiyev drops this answer around Lyova: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Hey, hey.' Lyova replies plainly facing Nagiyev, so Nagiyev knows he is not just making small talk.
-- 'Let us go. Hey.' Nagiyev colors one telling choice toward Lyova: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
-- 'Hey, hold it right there!' Lyova delivers the reaction before Nagiyev: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Do you happen to know?' Pressing on evenly beside Nagiyev, Lyova keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Where is Dmitry Vladimirovich?' Lyova asks sharply while looking straight at Nagiyev here.
+- 'He was here recently, but he went off somewhere.' Lyova proceeds readily before Nagiyev and lands on "nedavno" ("returned") as the key everyday word here.
+- 'We need to take him...' Reacting candidly before Lyova, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'We need to take him to the restaurant.' Lyova replies briskly around Nagiyev, keeping the focus on what actually matters here.
+- 'And we will sort it out there.' Nagiyev weighs in readily around Lyova and lands on "razberemsya" ("we'll sort it out", built on "razobratsya") to keep the statement grounded.
+- 'I am a celebrity, after all.' Checking on the star at once, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Or maybe?' Nagiyev tests sharply why things suddenly took this turn between them.
+- 'Let me make the call myself.' Lyova counters smoothly with Nagiyev and uses "pozvonyu" ("will call", from "pozvonit") to make the point stick.
+- 'Come on, let us go.' Speaking briskly to Lyova, Nagiyev starts with "davay" ("come on, let's") to invite Lyova right into the action.
+- 'Hey, hey.' Lyova steps in plainly beside Nagiyev, making his position completely clear.
+- 'Let us go. Hey.' Nagiyev opens up evenly in front of Lyova and leans on "poyekhali" ("here we go", a form of "poyekhat") to give the remark its edge.
+- 'Hey, hold it right there!' Holding firm plainly on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

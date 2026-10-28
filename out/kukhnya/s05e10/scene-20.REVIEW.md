@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoriya Sergeyevna!' Max sends the reply toward Vika: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Live with Lavrov for a while and you will be capable of even more than that.' Vika holds firm promptly before Max, testing Max's reaction in the middle of the exchange.
-- 'How great it would be if they invented standards.' Max centers this telling expression at once: "standarty" means "standards" (from "standart"), giving the line its exact edge.
-- 'By which one could measure everything.' Max makes the thought at once: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'And give a rating to everything.' Max speaks plainly with a smile, shifting the whole mood of the room in a single beat.
-- 'You are a good four-star friend.' Max emphasizes one familiar word on cue: "khoroshiy" means "good", and it carries the main weight of what Max is saying.
-- 'Or one can rely on you.' Max frames this answer briskly now: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'You are an excellent five-star guy.' Max stands firm candidly without holding back, leaving no doubt about where he stands.
-- 'But all of that is unreal.' Max points to one direct touch at once: "nerealno" means "unreal, impossible", and it carries the main weight of what Max is saying.
-- 'One cannot measure friendship or loyalty.' Max delivers the comment calmly now: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'One cannot measure love.' Max pushes back wryly before Vika, shifting the whole mood of the room in a single beat.
-- 'With hotels everything is much simpler. The more stars, the better the service.' Max leans on this sharp element for Vika: "otelyami" means "hotels" (from "otel"), giving the line its exact edge.
+- 'Viktoriya Sergeyevna!' Speaking promptly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Live with Lavrov for a while and you will be capable of even more than that.' Vika pushes back promptly hearing Max, testing Max's reaction in the middle of the exchange.
+- 'How great it would be if they invented standards.' Highlighting the standards beside Vika, Max centers the thought on "standarty" ("standards", from "standart") without wasting a word.
+- 'By which one could measure everything.' Cutting in readily during the talk, Max leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'And give a rating to everything.' Max steps in plainly hearing Vika, before Vika can change the subject.
+- 'You are a good four-star friend.' Insisting on how good Vika is around Vika, Max centers the remark on "khoroshiy" ("good") without any extra fuss.
+- 'Or one can rely on you.' Holding firm promptly in front of Vika, Max leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'You are an excellent five-star guy.' Max fires back candidly with Vika, keeping the focus on what actually matters here.
+- 'But all of that is unreal.' Max jumps in sharply with Vika and uses "nerealno" ("unreal, impossible") to carry the main weight of the thought.
+- 'One cannot measure friendship or loyalty.' Pointing to the loyalty during the talk, Max leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'One cannot measure love.' Max responds wryly without any doubt, keeping the focus on what actually matters here.
+- 'With hotels everything is much simpler. The more stars, the better the service.' Talking about the hotels beside Vika, Max brings in "otelyami" ("hotels", from "otel") as the key Russian word here.

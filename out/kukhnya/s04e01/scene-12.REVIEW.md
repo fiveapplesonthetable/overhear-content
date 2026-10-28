@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bon appetit, enjoy your meal.' Barinov follows up wryly watching Elena, before Elena can change the subject.
-- 'Stop. This will not do at all.' Elena spotlights one concrete piece at once: "goditsya" means "suits, works", and it carries the main weight of what Elena is saying.
-- 'Do not take offense.' Elena hands over this point around Barinov: the "-sya" ending on "obizhaytes" ("to take offence") turns the action inward or makes it happen between people naturally.
-- 'I am sure all of this is very tasty.' Elena proceeds firmly with a nod, saying out loud what both of them already know.
-- 'But on screen it looks pale.' Elena frames this direct element on cue: "vyglyadit" means "looks" (from "vyglyadet"), giving the line its exact edge.
-- 'After all, this is television.' Elena shapes the reply facing Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Bon appetit, enjoy your meal.' Barinov chimes in wryly with Elena, to clear the air between them once and for all.
+- 'Stop. This will not do at all.' Elena jumps in plainly right here and reaches for the Russian word "goditsya" ("suits, works") right at the heart of the line.
+- 'Do not take offense.' Pressing on boldly during the talk, the "-sya" ending on "obizhaytes" ("to take offence") marks an action that unfolds mutually or turns back on the speaker.
+- 'I am sure all of this is very tasty.' Elena replies firmly with a shrug, so Barinov knows she is not just making small talk.
+- 'But on screen it looks pale.' Mentioning the screen during the talk, Elena brings in "ekrane" ("screen", from "ekran") as the key Russian word here.
+- 'After all, this is television.' Turning to the television during the talk, Elena reaches for "u nas" ("by us, at our place") to talk about what they share.
 - 'It has to look truly spectacular, understand?' Elena wonders eagerly whether Barinov really thought this through.
-- 'We need a food stylist.' Elena highlights one colorful element right here: "fud-stilist" means "stylist", and it carries the main weight of what Elena is saying.
-- 'Who is that?' Barinov shares this update briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'A person who makes food look pretty.' Elena pushes back firmly with a sigh, bringing things back to earth after the buildup.
-- 'Now that looks great.' Elena anchors one practical detail in reply: "otlichno" means "perfect, great", and it carries the main weight of what Elena is saying.
-- 'We can start filming now.' Elena aims the comment calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'We need a food stylist.' Touching on a food stylist with Barinov, Elena puts the emphasis on "fud-stilist" ("stylist") in the middle of the talk.
+- 'Who is that?' Following up plainly during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'A person who makes food look pretty.' Elena continues firmly without any doubt, refusing to let the moment slip past.
+- 'Now that looks great.' Elena proceeds briskly right here and leans on "otlichno" ("perfect, great") to give the whole sentence its punch.
+- 'We can start filming now.' Pushing back briskly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

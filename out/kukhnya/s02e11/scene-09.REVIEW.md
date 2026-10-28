@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Smoking is forbidden in the hospital.' Max speaks up sharply to settle things, keeping the focus on what actually matters here.
-- 'And what did I tell you?' Barinov colors one loaded term in reply: "govoril" means "said, were saying" (from "govorit"), giving the line its exact edge.
-- 'Excuse me, that is amazing.' Vika hands over that thought with candor: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Vika steps in.
+- 'Smoking is forbidden in the hospital.' Max fires back sharply with a shrug, to clear the air between them once and for all.
+- 'And what did I tell you?' Barinov steps in pointedly to Vika and reaches for the Russian word "govoril" ("said, were saying", built from "govorit") right at the center of the line.
+- 'Excuse me, that is amazing.' Vika simply directs this polite apology right on cue using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
 - 'Is everything all right?' Max quizzes quietly if there is more going on behind the scenes.
-- 'I am feeling a little dizzy.' Barinov colors one practical detail on cue: "kruzhitsya" means "is spinning", and it carries the main weight of what Barinov is saying.
-- 'Well, there you go, just like I said.' Vika chimes in right away without any doubt, steering the talk right where she wants it.
-- 'Good job, punk.' Max speaks sharply without any doubt, steering the talk right where he wants it.
-- 'You have to use your head.' Barinov centers this vivid expression right here: "dumat" means "to think", and it carries the main weight of what Barinov is saying.
-- 'No, no, no.' Vika voices the comment with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Two partridges simply will not do.' Max counters earnestly to settle things, refusing to let the moment slip past.
-- 'Four at the very minimum.' Barinov reaches for one clear term with Max: "minimum" means "at least, minimum", and it carries the main weight of what Barinov is saying.
-- 'All right then.' Vika directs the comment right away: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Okay, four it is.' Max counters at once on the spot, without trying to dress up how he really feels.
+- 'I am feeling a little dizzy.' Focusing on the head right here, Barinov centers the remark on "kruzhitsya" ("is spinning") without any extra fuss.
+- 'Well, there you go, just like I said.' Vika jumps in quietly during the talk and brings in "govoril" ("said, were saying", from "govorit") as the key Russian word here.
+- 'Good job, punk.' Max steps in sharply toward Vika, testing Vika's reaction in the middle of the exchange.
+- 'You have to use your head.' Barinov speaks up directly before Max and uses "dumat" ("to think") to carry the main weight of the thought.
+- 'No, no, no.' Holding firm naturally at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Two partridges simply will not do.' Max weighs in earnestly with a nod, testing Vika's reaction in the middle of the exchange.
+- 'Four at the very minimum.' Barinov follows up boldly in this beat and reaches for the Russian word "minimum" ("at least, minimum") right at the heart of the line.
+- 'All right then.' Answering frankly around Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Okay, four it is.' Max speaks at once with a sigh, shifting the mood of the conversation in a single beat.

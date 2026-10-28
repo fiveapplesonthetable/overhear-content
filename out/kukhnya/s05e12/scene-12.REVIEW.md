@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is the trash?' Senya tests candidly before Gulya can change the subject.
-- 'The truck already hauled it away.' Gulya stresses this telling touch in earnest: "mashina" means "a car", and it carries the main weight of what Gulya is saying.
-- 'Why did you do that?' Senya sends that line with warmth: putting the question word "zachem" right at the front of the line lets Gulya hear the point of the question on the very first beat.
-- 'That is the job.' Gulya holds firm right away to be clear, letting the remark speak for itself.
-- 'Such strong pains in my lower back.' Vika chooses one practical element in reply: "poyasnitse" means "lower back" (from "poyasnitsa"), giving the line its exact edge.
-- 'Of course, very strong pains in both the neck and the back.' Senya proceeds earnestly with a smile, leaving no doubt about where he stands.
-- 'But do not worry. The massage will relieve the ache, and the back pains will pass.' Senya speaks up calmly watching Gulya, bringing things back to earth after the buildup.
-- 'And what do you think, at my stage of pregnancy will it not do any harm?' Vika sharpens one loaded touch in earnest: "dumayete" means "think" (from "dumat"), giving the line its exact edge.
-- 'No, I will do everything very carefully.' Senya responds at once in their talk, bringing things back to earth after the buildup.
-- 'Good, then I will go get the key to the room.' Vika counters candidly to be clear, making her position completely clear.
-- 'And in the meantime have some coffee.' Vika emphasizes one pointed touch on cue: "vypeyte" means "to drink" (from "vypit"), giving the line its exact edge.
-- 'Thank you. Without sugar.' Senya drops this line for Vika: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'And where is the trash?' Senya tests candidly about what Gulya just brought up.
+- 'The truck already hauled it away.' Touching on the car beside Senya, Gulya uses "mashina" ("a car") to carry the main weight of the thought.
+- 'Why did you do that?' Weighing in earnestly in front of Gulya, Senya puts the question word "zachem" right at the start so Gulya hears the focus immediately.
+- 'That is the job.' Mentioning the job without any doubt, Gulya keeps Senya's attention locked on what matters.
+- 'Such strong pains in my lower back.' Discussing her lower during the talk, Vika brings in "poyasnitse" ("lower back", from "poyasnitsa") as the key Russian word here.
+- 'Of course, very strong pains in both the neck and the back.' Touching on the pains right here, Senya lands on "silnyye" ("strong, powerful", built on "silnyy") to keep the statement grounded.
+- 'But do not worry. The massage will relieve the ache, and the back pains will pass.' Addressing the massage with a shrug, Senya speaks plainly so Vika gets the message at once.
+- 'And what do you think, at my stage of pregnancy will it not do any harm?' Turning to the term to Senya, Vika puts the weight on "sroke" ("term", from "srok") as the exchange unfolds.
+- 'No, I will do everything very carefully.' Senya cuts in briskly in front of Vika and centers the remark on "akkuratno" ("carefully, gently") without any extra fuss.
+- 'Good, then I will go get the key to the room.' Vika counters candidly without a pause, letting the remark speak for itself.
+- 'And in the meantime have some coffee.' Underscoring the coffee beside Senya, Vika lands on "vypeyte" ("to drink", built on "vypit") to keep the statement grounded.
+- 'Thank you. Without sugar.' Senya warmly offers this word of thanks at this moment using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

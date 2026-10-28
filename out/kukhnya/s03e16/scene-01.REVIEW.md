@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A breakup plunges you into a cold, lonely night.' Max anchors one vivid choice in earnest: "rasstavaniye" means "breakup, parting", and it carries the main weight of what Max is saying.
-- 'But with the sunrise come new reasons to keep living.' Max delivers the remark calmly now: the "-sya" ending on "poyavlyayutsya" ("to appear") turns the action inward or makes it happen between people naturally.
-- 'Cuisine is a true high art.' Max speaks up firmly to settle things, to clear the air between them once and for all.
-- 'You cannot simply copy other people's dishes.' Max chooses one loaded element for Senya: "chuzhiye" means "someone else's" (from "chuzhoy"), giving the line its exact edge.
-- 'You need a unique recipe that nobody can replicate.' Max drops the thought for Fedya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'And I only have simple pâté on the menu.' Max follows up promptly in their talk, bringing things back to earth after the buildup.
-- 'I must invent my own new signature dish.' Max frames this sharp word for Fedya: "firmennoye" means "signature, specialty" (from "firmennyy"), giving the line its exact edge.
-- 'Something exquisite, like beautiful France itself!' Max stands firm firmly in this moment, keeping the focus on what actually matters here.
-- 'Wait, what is happening with the lights in the kitchen?' Senya asks straight out as Fedya tries to explain the situation.
-- 'What kind of devilry is going on in here?' Senya emphasizes this key choice with Max: "chertovshchina" means "devilry", and it carries the main weight of what Senya is saying.
-- 'Could it be a real poltergeist?' Fedya voices that point with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'It is the spirit of a dead person who came back to take revenge!' Fedya replies calmly with a nod, leaving no doubt about where he stands.
-- 'Friends, who could take revenge on us, Grandpa Kirill?' Senya emphasizes one concrete term right here: "druzya" means "friends" (from "drug"), giving the line its exact edge.
+- 'A breakup plunges you into a cold, lonely night.' Focusing on a breakup on the spot, Max reaches for the Russian word "rasstavaniye" ("breakup, parting") right at the heart of the line.
+- 'But with the sunrise come new reasons to keep living.' Talking about the rising beside Senya, the "-sya" ending on "poyavlyayutsya" ("to appear") marks an action that unfolds mutually or turns back on the speaker.
+- 'Cuisine is a true high art.' Max speaks firmly in this moment, watching Senya's face to see how the news lands.
+- 'You cannot simply copy other people's dishes.' Talking about the dish in front of Senya, Max lands on "chuzhiye" ("someone else's", built on "chuzhoy") to keep the statement grounded.
+- 'You need a unique recipe that nobody can replicate.' Talking about a unique recipe right here, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'And I only have simple pâté on the menu.' Max cuts in promptly around Senya, without trying to dress up how he really feels.
+- 'I must invent my own new signature dish.' Bringing up the dish in this beat, Max lands on "firmennoye" ("signature, specialty", built on "firmennyy") to keep the statement grounded.
+- 'Something exquisite, like beautiful France itself!' Max cuts in smoothly at once and leans on "izyskannoye" ("exquisite, refined", a form of "izyskannyy") to give the remark its edge.
+- 'Wait, what is happening with the lights in the kitchen?' Senya asks straight out whether Max really thought this through.
+- 'What kind of devilry is going on in here?' Underscoring the devilry around Fedya, Senya uses "chertovshchina" ("devilry") to carry the main weight of the thought.
+- 'Could it be a real poltergeist?' Touching on a real poltergeist in this beat, Fedya keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'It is the spirit of a dead person who came back to take revenge!' Fedya jumps in calmly facing Senya, grounding the moment in plain reality.
+- 'Friends, who could take revenge on us, Grandpa Kirill?' Turning to the friends right here, Senya brings in "druzya" ("friends", from "drug") as the key Russian word here.

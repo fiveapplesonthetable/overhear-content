@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tonight a very important person will come to us.' Vika steps in sharply around Kostya, testing Kostya's reaction in the middle of the exchange.
-- 'Dmitry Vladimirovich asked to reserve the best table.' Vika chimes in firmly with a nod, without trying to dress up how she really feels.
-- 'And he asked not to forget about the expensive wine!' Kostya spotlights this direct element on cue: "dorogoye" means "expensive" (from "dorogoy"), giving the line its exact edge.
-- 'Max, where are you, I urgently need the bottle!' Kostya gives the comment at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Kostya, I am here, take your expensive bottle.' Max responds calmly without any doubt, to clear the air between them once and for all.
-- 'I am returning it in the exact condition I took it!' Max centers one familiar term for Vika: "vozvrashchayu" means "bring back" (from "vozvrashchat"), giving the line its exact edge.
-- 'Good man, tell me honestly, where did you get it?' Kostya aims that thought in earnest: the "-sya" ending on "krasavets" ("handsome man") turns the action inward or makes it happen between people naturally.
-- 'I simply poured another wine into the old bottle.' Max stands firm quietly during the talk, leaving no doubt about where he stands.
-- 'Max, are you in your right mind right now?' Vika picks one colorful word toward Kostya: "voobshche" means "at all", and it carries the main weight of what Vika is saying.
-- 'It is just as tart, nobody will notice!' Max states this warning with candor: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'No, we will not give Nagiyev cheap wine!' Vika opens up dryly as things stand, making her position completely clear.
-- 'I already ordered a real bottle on the internet!' Vika favors one practical choice on cue: "nastoyashchuyu" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
-- 'Have you lost your mind, it costs so much money!' Max reaches for one colorful detail in reply: "soshla" means "went off, lost" (from "soyti"), giving the line its exact edge.
+- 'Tonight a very important person will come to us.' Vika follows up warmly on the spot and brings in "vazhnyy" ("important") to make the meaning unmistakable.
+- 'Dmitry Vladimirovich asked to reserve the best table.' Vika continues firmly in this moment, testing Kostya's reaction in the middle of the exchange.
+- 'And he asked not to forget about the expensive wine!' Discussing the expensive wine right here, Kostya leans on "dorogoye" ("expensive", a form of "dorogoy") to give the remark its edge.
+- 'Max, where are you, I urgently need the bottle!' Dwelling on the bottle beside Max, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Kostya, I am here, take your expensive bottle.' Touching on the bottle facing Kostya, Max speaks plainly so Kostya gets the message at once.
+- 'I am returning it in the exact condition I took it!' Underscoring the state on the spot, Max brings in "vozvrashchayu" ("bring back", from "vozvrashchat") as the key Russian word here.
+- 'Good man, tell me honestly, where did you get it?' Holding firm smoothly in the exchange, the "-sya" ending on "krasavets" ("handsome man") marks an action that unfolds mutually or turns back on the speaker.
+- 'I simply poured another wine into the old bottle.' Max speaks quietly with Kostya, without trying to dress up how he really feels.
+- 'Max, are you in your right mind right now?' Emphasizing the mind on the spot, Vika centers the remark on "voobshche" ("at all") without any extra fuss.
+- 'It is just as tart, nobody will notice!' Noting how notice things are at once, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'No, we will not give Nagiyev cheap wine!' Vika responds dryly with a shrug, keeping the focus on what actually matters here.
+- 'I already ordered a real bottle on the internet!' Addressing the internet during the talk, Vika reaches for the Russian word "nastoyashchuyu" ("real, genuine", built from "nastoyashchiy") right at the center of the line.
+- 'Have you lost your mind, it costs so much money!' Max cuts in warmly in this moment, to clear the air between them once and for all.

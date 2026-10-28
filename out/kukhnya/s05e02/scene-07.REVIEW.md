@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Calm down, everything is fine.' Kostya frames this telling touch with Denis: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
-- 'Purely legally, you did not cheat on her.' Kostya sharpens this vivid expression in reply: "yuridicheski" means "legally", and it carries the main weight of what Kostya is saying.
+- 'Calm down, everything is fine.' Kostya reacts earnestly beside Denis and lands on "uspokoysya" ("calm down", built on "uspokoitsya") to keep the statement grounded.
+- 'Purely legally, you did not cheat on her.' Kostya weighs in warmly without a pause, making his position completely clear.
 - 'In what sense do you mean?' Denis checks plainly to see how Kostya will answer on the spot.
-- 'You slept with another woman back then.' Kostya favors one direct element in earnest: "zhenshchinoy" means "a woman" (from "zhenshchina"), giving the line its exact edge.
-- 'But you were not in a relationship.' Kostya colors this vivid detail toward Denis: "otnosheniyakh" means "relationships" (from "otnosheniye"), giving the line its exact edge.
-- 'After all, Katya suggested not dating, right?' Kostya checks bluntly why things suddenly took this turn between them.
-- 'It happened after her refusal.' Kostya grounds one telling touch for Denis: "otkaza" means "after the refusal" (from "otkaz"), giving the line its exact edge.
-- 'She did not want to get married.' Kostya fires back plainly as things stand, to clear the air between them once and for all.
-- 'I would win a case like that in court.' Kostya jumps in boldly during the talk, steering the talk right where he wants it.
-- 'So I still did not understand.' Denis sharpens one familiar detail on cue: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'Should I tell Katya or not?' Denis aims this line at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'You see, it is a complicated question here.' Kostya chimes in earnestly in their talk, watching Denis's face to see how the news lands.
+- 'You slept with another woman back then.' Addressing the woman around Denis, Kostya reaches for the Russian word "zhenshchinoy" ("a woman", built from "zhenshchina") right at the center of the line.
+- 'But you were not in a relationship.' Kostya chimes in steadily on the spot, testing Denis's reaction in the middle of the exchange.
+- 'After all, Katya suggested not dating, right?' Kostya checks bluntly before Denis can change the subject.
+- 'It happened after her refusal.' Talking about the refusal in front of Denis, Kostya reaches for the Russian word "otkaza" ("after the refusal", built from "otkaz") right at the center of the line.
+- 'She did not want to get married.' Kostya chimes in frankly beside Denis and puts the emphasis on "zamuzh" ("in marriage") in the middle of the talk.
+- 'I would win a case like that in court.' Kostya weighs in boldly toward Denis, refusing to let the moment slip past.
+- 'So I still did not understand.' Denis cuts in calmly on the spot and lands on "ponyal" ("understood", built on "ponyat") to keep the statement grounded.
+- 'Should I tell Katya or not?' Speaking calmly at once, Denis keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'You see, it is a complicated question here.' Kostya follows up earnestly in their talk, before Denis can change the subject.

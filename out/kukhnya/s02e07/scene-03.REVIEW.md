@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is my jacket.' Kostya speaks candidly without holding back, bringing things back to earth after the buildup.
-- 'Take it off right now.' Max emphasizes one direct word for Nastya: "snimay" means "take off, remove" (from "snimat"), giving the line its exact edge.
-- 'Come on, take it off, you thief!' Kostya brings that answer in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Keep talking, thief, take it off right now.' Max pushes back honestly toward Nastya, shifting the whole mood of the room in a single beat.
-- 'I was the one who gave him your jacket.' Nastya picks one sharp choice with Kostya: "kurtku" means "jacket" (from "kurtka"), giving the line its exact edge.
-- 'Kostya, stop it right now!' Max shapes this point right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'The man is sick, and it is freezing outside.' Kostya replies right away with a shrug, without trying to dress up how he really feels.
-- 'Just an ordinary viral cold, nothing too terrible.' Max picks one concrete touch right here: "strashnogo" means "terrible, serious" (from "strashnyy"), giving the line its exact edge.
-- 'Wait, so he is sick on top of wearing my coat?' Kostya gives that remark briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'As the doctors say.' Max replies boldly without any doubt, watching Nastya's face to see how the news lands.
-- 'With an illness like that, it is better to stay somewhere warm.' Kostya grounds one loaded expression with Max: "tepleye" means "warm" (from "tyoplyy"), giving the line its exact edge.
-- 'So maybe I should go climbing around the dumpsters too?' Max drops the reaction right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Oh, come on, Kostik.' Nastya proceeds honestly hearing Kostya, to clear the air between them once and for all.
+- 'That is my jacket.' Kostya replies candidly with a nod, to clear the air between them once and for all.
+- 'Take it off right now.' Max weighs in calmly on the spot and reaches for the Russian word "snimay" ("take off, remove", built from "snimat") right at the center of the line.
+- 'Come on, take it off, you thief!' Pointing to the crook around Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Keep talking, thief, take it off right now.' Max opens up honestly without holding back, refusing to let the moment slip past.
+- 'I was the one who gave him your jacket.' Pointing to the jacket to Max, Nastya reaches for the Russian word "kurtku" ("jacket", built from "kurtka") right at the center of the line.
+- 'Kostya, stop it right now!' Pressing on smoothly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'The man is sick, and it is freezing outside.' Kostya steps in right away with Max, grounding the moment in plain reality.
+- 'Just an ordinary viral cold, nothing too terrible.' Pointing to the viral cold before Kostya, Max reaches for the Russian word "strashnogo" ("terrible, serious", built from "strashnyy") right at the center of the line.
+- 'Wait, so he is sick on top of wearing my coat?' Noting how crazy he is beside Max, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'As the doctors say.' Max proceeds boldly watching Kostya, watching Kostya's face to see how the news lands.
+- 'With an illness like that, it is better to stay somewhere warm.' Showing how warm things are to Max, Kostya uses "tepleye" ("warm", from "tyoplyy") to make the point stick.
+- 'So maybe I should go climbing around the dumpsters too?' Talking about the dumpster in this beat, Max keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Oh, come on, Kostik.' Nastya fires back honestly in their talk, keeping the focus on what actually matters here.

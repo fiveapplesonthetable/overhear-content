@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, not bad, it is quite lovely you have it here.' The guest speaks up briskly on the spot, to clear the air between them once and for all.
-- 'Thank you, please take a seat, well, how are you?' Eleonora picks one sharp term at once: "spasibo" means "thank you", and it carries the main weight of what Eleonora is saying.
-- 'Half a year ago we opened a restaurant in Milan.' The guest answers openly without any doubt, making his position completely clear.
-- 'And right now I have just flown in from London.' The guest proceeds dryly toward Eleonora, refusing to let the moment slip past.
-- 'There we recently tried such an interesting thing.' The guest grounds this key expression on cue: "interesnuyu" means "interesting" (from "interesnyy"), giving the line its exact edge.
-- 'It is called an edible menu, I want to introduce it at my place.' The guest puts this warning to Eleonora: the "-sya" ending on "nazyvayetsya" ("is called") turns the action inward or makes it happen between people naturally.
-- 'Big deal, that interesting thing is already a hundred years old!' Eleonora stands firm at once on the spot, refusing to let the moment slip past.
-- 'I know, but nobody in Moscow has it.' The guest frames one telling word for Eleonora: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'Actually we already have it in our restaurant!' Eleonora offers the reply to the guest: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Come on, really? Then show it to me!' The guest tests eagerly as Eleonora tries to explain the situation.
-- 'Victoria, last week I spoke about the menu.' Eleonora spotlights one concrete touch at once: "proshloy" means "last, past" (from "proshlyy"), giving the line its exact edge.
-- 'About our new edible menu, do you remember?' Eleonora gives that line for the guest: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'Well, not bad, it is quite lovely you have it here.' The guest speaks up briskly hearing Eleonora, testing Eleonora's reaction in the middle of the exchange.
+- 'Thank you, please take a seat, well, how are you?' Focusing on the thank to the guest, Eleonora lands on "spasibo" ("thank you") as the key everyday word here.
+- 'Half a year ago we opened a restaurant in Milan.' Talking about a restaurant on the spot, the guest lands on "restoran" ("restaurant") as the key everyday word here.
+- 'And right now I have just flown in from London.' The guest fires back dryly toward Eleonora, so Eleonora knows he is not just making small talk.
+- 'There we recently tried such an interesting thing.' Addressing the grand with Eleonora, the guest chooses "interesnuyu" ("interesting", from the root "interesnyy") so Eleonora hears the exact meaning.
+- 'It is called an edible menu, I want to introduce it at my place.' Stressing how edible things are in front of Eleonora, the guest lands on "syedobnoye" ("edible", built on "syedobnyy") to keep the statement grounded.
+- 'Big deal, that interesting thing is already a hundred years old!' Eleonora proceeds at once with the guest, testing the guest's reaction in the middle of the exchange.
+- 'I know, but nobody in Moscow has it.' The guest follows up decisively facing Eleonora, steering the talk right where he wants it.
+- 'Actually we already have it in our restaurant!' Touching on her restaurant in front of the guest, Eleonora reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Come on, really? Then show it to me!' The guest tests eagerly about what Eleonora just brought up.
+- 'Victoria, last week I spoke about the menu.' Addressing the week right here, Eleonora reaches for the Russian word "proshloy" ("last, past", built from "proshlyy") right at the center of the line.
+- 'About our new edible menu, do you remember?' Stepping in candidly around the guest, Eleonora keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.

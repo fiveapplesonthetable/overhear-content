@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Marina, darling, I wanted to ask your advice.' Senya reaches for one memorable term with Marina: "posovetovatsya" means "to consult", and it carries the main weight of what Senya is saying.
-- 'I am telling you right away, I will not give you money!' Marina leans on this key element in earnest: "govoryu" means "am telling" (from "govorit"), giving the line its exact edge.
-- 'What does money have to do with it, the guy has a terrible grief!' Senya cuts in boldly as they talk, saying out loud what both of them already know.
-- 'Can a guy from work stay at our place for a little while?' Senya spotlights one familiar word right here: "pozhivyot" means "will stay" (from "pozhit"), giving the line its exact edge.
-- 'The poor guy lost his entire family very recently.' Senya hands over the remark to Marina: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'And then they even took his apartment away from him!' Senya answers warmly during the talk, testing Marina's reaction in the middle of the exchange.
-- 'Poor man, how hard it must be for him right now!' Marina points to one pointed term in reply: "bednyy" means "poor", and it carries the main weight of what Marina is saying.
-- 'He even offered to pay us five thousand a month.' Senya follows up dryly with a sigh, before Marina can change the subject.
-- 'Why, what are you saying, Senya, let him live with us for free!' Marina replies boldly in their talk, refusing to let the moment slip past.
-- 'All right, Marina, let him live at our place for free.' Senya highlights this key element at once: "besplatno" means "for free", and it carries the main weight of what Senya is saying.
-- 'In short, old pal, the room costs twenty-five thousand.' Senya answers candidly across the room, without trying to dress up how he really feels.
-- 'My wife refused to agree to twenty thousand at all!' Senya jumps in honestly in their talk, keeping the focus on what actually matters here.
+- 'Marina, darling, I wanted to ask your advice.' Senya answers pointedly in front of Marina and centers the remark on "posovetovatsya" ("to consult") without any extra fuss.
+- 'I am telling you right away, I will not give you money!' Marina weighs in warmly in their talk, leaving no doubt about where she stands.
+- 'What does money have to do with it, the guy has a terrible grief!' Bringing up the money in this moment, Senya lets Marina see exactly where things stand.
+- 'Can a guy from work stay at our place for a little while?' Talking about the work around Marina, Senya brings in "raboty" ("of work", from "rabota") as the key Russian word here.
+- 'The poor guy lost his entire family very recently.' Touching on the boyfriend beside Marina, Senya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'And then they even took his apartment away from him!' Senya cuts in warmly with a smile, bringing things back to earth after the buildup.
+- 'Poor man, how hard it must be for him right now!' Marina steps in sharply in this beat and leans on "bednyy" ("poor") to give the whole sentence its punch.
+- 'He even offered to pay us five thousand a month.' Addressing the thousand in front of Marina, Senya chooses "tysyach" ("thousand", from the root "tysyacha") so Marina hears the exact meaning.
+- 'Why, what are you saying, Senya, let him live with us for free!' Marina weighs in boldly beside Senya, watching Senya's face to see how the news lands.
+- 'All right, Marina, let him live at our place for free.' Senya weighs in dryly around Marina and reaches for the Russian word "besplatno" ("for free") right at the heart of the line.
+- 'In short, old pal, the room costs twenty-five thousand.' Emphasizing the old man beside Marina, Senya brings in "obshchem" ("short, so", from "obshchiy") as the key Russian word here.
+- 'My wife refused to agree to twenty thousand at all!' Senya fires back honestly without any doubt, without trying to dress up how he really feels.

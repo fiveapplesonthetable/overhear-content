@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You want to send me into retirement, right?' Barinov probes quietly in front of Nagiyev without any preamble.
-- 'Vitya, first put down that big ladle.' Nagiyev centers one key touch in earnest: "bolshuyu" means "large, big" (from "bolshoy"), giving the line its exact edge.
-- 'Vitya, nobody was going to replace you!' Vika states that line at once: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'I heard with my own ears how you were talking!' Barinov steps in briskly in this moment, before Vika can change the subject.
-- 'You said that it is time to replace everything old!' Barinov points to one vivid expression in reply: "staroye" means "old" (from "staryy"), giving the line its exact edge.
-- 'Vitya, we were discussing the old furniture in the dining room then.' Vika counters candidly to be clear, making her position completely clear.
-- 'Then what was that serious conversation tonight about?' Barinov questions skeptically to see how Nagiyev will answer on the spot.
-- 'I will tell you everything honestly right now.' Nagiyev emphasizes this direct expression at once: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
-- 'Vika was asking me to make you my partner.' Nagiyev leans on one clear word in earnest: "partnyorom" means "partner" (from "partnyor"), giving the line its exact edge.
-- 'And at that moment I almost agreed.' Nagiyev counters firmly hearing Vika, refusing to let the moment slip past.
-- 'And now I took a look and changed my mind!' Nagiyev anchors one familiar detail in reply: "posmotrel" means "looked, had a look" (from "posmotret"), giving the line its exact edge.
-- 'Dima, why did you suddenly change your mind?' Barinov voices this update frankly here: putting the question word "pochemu" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Let us go from here to the dining room, Viktoria Sergeyevna!' Nagiyev cuts in pointedly to settle things, without trying to dress up how he really feels.
+- 'You want to send me into retirement, right?' Barinov probes quietly if there is more going on behind the scenes.
+- 'Vitya, first put down that big ladle.' Highlighting the spoon right here, Nagiyev uses "bolshuyu" ("large, big", from "bolshoy") to make the point stick.
+- 'Vitya, nobody was going to replace you!' Stepping in openly on the spot, Vika pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I heard with my own ears how you were talking!' Barinov speaks briskly without any doubt, letting the remark speak for itself.
+- 'You said that it is time to replace everything old!' Barinov weighs in frankly around Vika and puts the weight on "staroye" ("old", from "staryy") as the exchange unfolds.
+- 'Vitya, we were discussing the old furniture in the dining room then.' Focusing on the old furniture in this beat, Vika chooses "staruyu" ("an old", from the root "staryy") so Barinov hears the exact meaning.
+- 'Then what was that serious conversation tonight about?' Barinov questions skeptically if there is more going on behind the scenes.
+- 'I will tell you everything honestly right now.' Nagiyev speaks frankly before Barinov and lands on "chestno" ("honestly") as the key everyday word here.
+- 'Vika was asking me to make you my partner.' Nagiyev opens up firmly during the talk, letting the remark speak for itself.
+- 'And at that moment I almost agreed.' Nagiyev proceeds firmly across the room, bringing things back to earth after the buildup.
+- 'And now I took a look and changed my mind!' Nagiyev speaks naturally on the spot and leans on "posmotrel" ("looked, had a look", a form of "posmotret") to give the remark its edge.
+- 'Dima, why did you suddenly change your mind?' Following up firmly before Nagiyev, Barinov puts the question word "pochemu" right at the start so Nagiyev hears the focus immediately.
+- 'Let us go from here to the dining room, Viktoria Sergeyevna!' Nagiyev chimes in pointedly with a sigh, before Barinov can change the subject.

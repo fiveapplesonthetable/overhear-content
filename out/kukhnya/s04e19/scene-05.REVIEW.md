@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, there is a real studio out in the dining room.' Fedya pushes back promptly to settle things, before Barinov can change the subject.
-- 'Senya and I decided to give it a try too.' Fedya counters right away around Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
-- 'And will you participate out there, Chef?' Fedya stresses one direct expression with Barinov: "uchastvovat" means "to participate", and it carries the main weight of what Fedya is saying.
-- 'Vitya, do not even try.' Nagiyev picks one practical choice in reply: "probuy" means "to try, to taste" (from "probovat"), giving the line its exact edge.
-- 'I ate your food for five years.' Nagiyev jumps in bluntly hearing Barinov, watching Barinov's face to see how the news lands.
-- 'I will recognize your dishes by their smell.' Nagiyev picks one concrete term toward Fedya: "zapakhu" means "smell, scent" (from "zapakh"), giving the line its exact edge.
-- 'And I will kick you out of the contest right away.' Nagiyev underscores one concrete element with Barinov: "konkursa" means "contest" (from "konkurs"), giving the line its exact edge.
-- 'I have not been afraid of anything for a long time.' Barinov cuts in wryly before Nagiyev, steering the talk right where he wants it.
-- 'If I wanted to, I would win.' Barinov features one sharp choice right here: "pobedil" means "won" (from "pobedit"), giving the line its exact edge.
-- 'But your show is for losers.' Barinov directs this update with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Normal cooks work quietly in the kitchen.' Barinov follows up wryly to be clear, keeping the focus on what actually matters here.
-- 'Wait a second, who are you calling a loser here?' Fedya favors one sharp expression right here: "neudachnik" means "loser, unlucky guy", and it carries the main weight of what Fedya is saying.
+- 'Look, there is a real studio out in the dining room.' Describing how real things are at once, Fedya brings in "nastoyashchaya" ("real, genuine", from "nastoyashchiy") as the key Russian word here.
+- 'Senya and I decided to give it a try too.' Fedya speaks up right away during the talk, before Nagiyev can change the subject.
+- 'And will you participate out there, Chef?' Fedya continues smoothly around Barinov and centers the remark on "uchastvovat" ("to participate") without any extra fuss.
+- 'Vitya, do not even try.' Nagiyev speaks dryly in this moment, without trying to dress up how he really feels.
+- 'I ate your food for five years.' Nagiyev speaks bluntly in their talk, grounding the moment in plain reality.
+- 'I will recognize your dishes by their smell.' Focusing on the smell before Barinov, Nagiyev uses "zapakhu" ("smell, scent", from "zapakh") to make the point stick.
+- 'And I will kick you out of the contest right away.' Nagiyev fires back pointedly beside Barinov, to clear the air between them once and for all.
+- 'I have not been afraid of anything for a long time.' Barinov continues wryly with a nod, so Nagiyev knows he is not just making small talk.
+- 'If I wanted to, I would win.' Barinov reacts promptly without a pause, testing Nagiyev's reaction in the middle of the exchange.
+- 'But your show is for losers.' Checking on the losers to Fedya, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Normal cooks work quietly in the kitchen.' Barinov follows up wryly beside Fedya, to clear the air between them once and for all.
+- 'Wait a second, who are you calling a loser here?' Discussing a loser to Barinov, Fedya reaches for the Russian word "neudachnik" ("loser, unlucky guy") right at the heart of the line.

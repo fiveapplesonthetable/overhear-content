@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are not going anywhere right now, lie down quickly!' Vika chooses this telling term for Barinov: "poydyosh" means "will you go" (from "poyti"), giving the line its exact edge.
-- 'Tell me, what should I bring you? Should I make hot tea?' Vika puts the thought without fuss: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'No, better just bring me some cold water.' Max continues dryly as things stand, making his position completely clear.
-- 'Alright, lie quietly, I will bring water right now.' Vika chooses one vivid touch right here: "khorosho" means "good, fine", and it carries the main weight of what Vika is saying.
-- 'Viktor Petrovich, what do you order me to do now?' Max gives the reply frankly here: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'My guests in the dining room are demanding the Chef's quail.' Max chimes in bluntly in their talk, making his position completely clear.
-- 'Ring up the order, I will show you how it is done!' Barinov reaches for one key word for Max: "delayetsya" means "is made, is done" (from "delat"), giving the line its exact edge.
-- 'I cannot ring it up, Sergey Vladimirovich strictly forbade it.' Max answers dryly before Vika, watching Vika's face to see how the news lands.
-- 'He said not to offer this dish to guests anymore.' Max speaks calmly watching Barinov, making his position completely clear.
-- 'You decided to repeat your attempt at a talk, but with an empty bottle?' Max anchors one memorable element for Vika: "razgovora" means "conversation" (from "razgovor"), giving the line its exact edge.
-- 'Sergey, I have only one question for you.' Barinov hands over that answer with candor: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Tell me, please, where is your restroom in here?' Barinov checks earnestly how Vika expects that to work in practice.
+- 'You are not going anywhere right now, lie down quickly!' Vika jumps in openly in this beat and puts the weight on "poydyosh" ("will you go", from "poyti") as the exchange unfolds.
+- 'Tell me, what should I bring you? Should I make hot tea?' Cutting in candidly in this beat, Vika puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'No, better just bring me some cold water.' Max chimes in dryly across the room, testing Vika's reaction in the middle of the exchange.
+- 'Alright, lie quietly, I will bring water right now.' Discussing the water with Max, Vika lands on "khorosho" ("good, fine") as the key everyday word here.
+- 'Viktor Petrovich, what do you order me to do now?' Reacting directly with Barinov, Max puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'My guests in the dining room are demanding the Chef's quail.' Max chimes in bluntly with Barinov, steering the talk right where he wants it.
+- 'Ring up the order, I will show you how it is done!' Touching on the order before Max, Barinov chooses "delayetsya" ("is made, is done", from the root "delat") so Max hears the exact meaning.
+- 'I cannot ring it up, Sergey Vladimirovich strictly forbade it.' Max continues plainly before Barinov and leans on "probivat" ("to ring up") to give the whole sentence its punch.
+- 'He said not to offer this dish to guests anymore.' Max counters calmly with a smile, watching Barinov's face to see how the news lands.
+- 'You decided to repeat your attempt at a talk, but with an empty bottle?' Focusing on the conversation at once, Max reaches for the Russian word "razgovora" ("conversation", built from "razgovor") right at the center of the line.
+- 'Sergey, I have only one question for you.' Mentioning the question in front of Max, the "-sya" ending on "vopros" ("question, matter") marks an action that unfolds mutually or turns back on the speaker.
+- 'Tell me, please, where is your restroom in here?' Barinov checks earnestly to see how Max will answer on the spot.

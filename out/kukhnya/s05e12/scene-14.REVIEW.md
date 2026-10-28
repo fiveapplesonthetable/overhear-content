@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello. Yes, all kinds of massage.' Vika states this answer right away: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'Ask about intimacy!' Max weighs in dryly without a pause, testing Vika's reaction in the middle of the exchange.
-- 'And besides massage, anything intimate?' Nastya points to one practical detail on cue: "intimnoye" means "intimate" (from "intimnyy"), giving the line its exact edge.
-- 'Miss, well if you are pretty, then you and I will agree on everything.' Vika leans on this telling touch in earnest: "simpatichnaya" means "pretty" (from "simpatichnyy"), giving the line its exact edge.
-- 'Hang up the phone!' Max responds decisively with a nod, keeping the focus on what actually matters here.
-- 'Thank you very much, I will call you back.' Nastya uses this clear detail right here: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'I did not get that, what do you mean 'I will call you back'?' Vika shares this warning without fuss: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Well it was just a figure of speech!' Nastya stands firm boldly before Vika, keeping the focus on what actually matters here.
-- 'Where are they heading, huh?' Max uses this telling detail on cue: "sobralis" means "planned" (from "sobratsya"), giving the line its exact edge.
-- 'Vika said that she would book a room.' Nastya speaks up earnestly without any doubt, making her position completely clear.
-- 'Viktoriya Sergeyevna asked me to take this wine to the room she booked.' Max reacts openly beside Nastya, to clear the air between them once and for all.
-- 'Give me the key, please!' Max features this direct choice at once: "klyuch" means "key", and it carries the main weight of what Max is saying.
+- 'Hello. Yes, all kinds of massage.' Vika briskly gives this formal greeting without hesitation using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Ask about intimacy!' Max counters dryly with a smile, before Vika can change the subject.
+- 'And besides massage, anything intimate?' Pointing to the massage before Vika, Nastya brings in "intimnoye" ("intimate", from "intimnyy") as the key Russian word here.
+- 'Miss, well if you are pretty, then you and I will agree on everything.' Vika weighs in at once around Nastya, so Nastya knows she is not just making small talk.
+- 'Hang up the phone!' Max continues decisively with a nod, letting the remark speak for itself.
+- 'Thank you very much, I will call you back.' Nastya politely speaks this word of thanks toward Max using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I did not get that, what do you mean 'I will call you back'?' Opening up promptly to Nastya, Vika puts the question word "chto" right at the start so Nastya hears the focus immediately.
+- 'Well it was just a figure of speech!' Nastya speaks up boldly toward Vika, making her position completely clear.
+- 'Where are they heading, huh?' Max follows up dryly in this beat and centers the thought on "sobralis" ("planned", from "sobratsya") without wasting a word.
+- 'Vika said that she would book a room.' Touching on the number before Vika, Nastya reaches for the Russian word "nomer" ("number") right at the heart of the line.
+- 'Viktoriya Sergeyevna asked me to take this wine to the room she booked.' Max reacts openly with a nod, keeping the focus on what actually matters here.
+- 'Give me the key, please!' Max lightly delivers this courtesy word toward Nastya using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".

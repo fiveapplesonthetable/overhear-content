@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'German Mikhailovich, I have been waiting so long for you here!' Vika uses one direct word on cue: "zazhdalas" means "to long" (from "zazhdatsya"), giving the line its exact edge.
-- 'Ainura, what on earth are you doing here in the dark?' German delivers the reaction beside Vika: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'And what are you all doing here, who let you in?' German questions straight out while looking straight at Barinov here.
-- 'It seems, guys, we walked in at a slightly bad time!' Barinov stresses one telling choice at once: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'German Mikhailovich, we will just sit here quietly.' Barinov aims the comment before German: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'After all, your restaurant is closed today anyway.' Barinov stands firm quietly to settle things, letting the remark speak for itself.
-- 'I do not understand, what are you allowing yourselves?' German picks this key word on cue: "pozvolyayete" means "allow, permit" (from "pozvolyat"), giving the line its exact edge.
-- 'It was I who allowed our friends to come in here.' Vika speaks up warmly to be clear, refusing to let the moment slip past.
-- 'Let's all sit together and have a nice rest.' Vika chimes in steadily without a pause, keeping the focus on what actually matters here.
-- 'We will harmoniously discuss the development plans of our beloved restaurant.' Vika reaches for one memorable choice on cue: "razvitiya" means "development" (from "razvitiye"), giving the line its exact edge.
-- 'German Mikhailovich, you wanted this yourself after all!' Vika focuses on this clear term for Barinov: "khoteli" means "wanted" (from "khotet"), giving the line its exact edge.
-- 'All right, do as you please, let's go!' German fires back dryly to be clear, testing Vika's reaction in the middle of the exchange.
+- 'German Mikhailovich, I have been waiting so long for you here!' Vika chimes in frankly around German and reaches for the Russian word "zazhdalas" ("to long", built from "zazhdatsya") right at the center of the line.
+- 'Ainura, what on earth are you doing here in the dark?' Pointing to the darkness in the exchange, German drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'And what are you all doing here, who let you in?' German questions straight out what Barinov is actually getting at here.
+- 'It seems, guys, we walked in at a slightly bad time!' Touching on the boys at once, Barinov brings in "rebyata" ("the boys, the lads") to make the meaning unmistakable.
+- 'German Mikhailovich, we will just sit here quietly.' Weighing in directly to German, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'After all, your restaurant is closed today anyway.' Barinov replies quietly with German, so German knows he is not just making small talk.
+- 'I do not understand, what are you allowing yourselves?' German opens up naturally around Vika and lands on "pozvolyayete" ("allow, permit", built on "pozvolyat") to keep the statement grounded.
+- 'It was I who allowed our friends to come in here.' Turning to the friend right here, Vika chooses "razreshila" ("to allow, to permit", from the root "razreshit") so German hears the exact meaning.
+- 'Let's all sit together and have a nice rest.' Vika continues steadily without any doubt, without trying to dress up how she really feels.
+- 'We will harmoniously discuss the development plans of our beloved restaurant.' Bringing up the development in front of German, Vika centers the thought on "razvitiya" ("development", from "razvitiye") without wasting a word.
+- 'German Mikhailovich, you wanted this yourself after all!' Vika counters boldly with a nod, leaving no doubt about where she stands.
+- 'All right, do as you please, let's go!' German counters dryly on the spot, shifting the mood of the conversation in a single beat.

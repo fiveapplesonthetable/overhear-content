@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen carefully to this recording right here.' Sveta proceeds boldly hearing Barinov, making her position completely clear.
-- 'Hello, Sveta, where is this video from?' Denis colors this clear detail at once: "video" means "video", and it carries the main weight of what Denis is saying.
-- 'I accidentally recorded it on the dashcam.' Sveta answers evenly on the spot, letting the remark speak for itself.
-- 'I want to send it out to the guests before the wedding.' Sveta speaks up pointedly in this moment, grounding the moment in plain reality.
-- 'Listen, let us talk calmly with each other.' Denis spotlights one memorable expression right here: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
-- 'Where are you right now, I am coming up.' Sveta underscores one classic touch in reply: "podkhozhu" means "walk up, approach" (from "podkhodit"), giving the line its exact edge.
-- 'Did you really cook something in here?' Barinov tests candidly to see how Denis will answer on the spot.
-- 'Let us take a look at your dishes.' Hear how Barinov counters Sveta in reply — the Russian word "posmotrim" ("have a look", built from "posmotret") does the heavy lifting.
-- 'You overcooked this meat badly.' Barinov colors one direct piece with Denis: "perederzhali" means "overcooked" (from "perederzhat"), giving the line its exact edge.
-- 'And there is too much cinnamon here.' Barinov follows up candidly on the spot, refusing to let the moment slip past.
-- 'And this right here is not bad at all.' Barinov sharpens one concrete term for Denis: "neplokho" means "not bad", and it carries the main weight of what Barinov is saying.
-- 'Just the thing for street dogs!' Barinov pushes back bluntly before Sveta, refusing to let the moment slip past.
+- 'Listen carefully to this recording right here.' Sveta weighs in boldly beside Denis, so Denis knows she is not just making small talk.
+- 'Hello, Sveta, where is this video from?' Pointing to the video to Sveta, Denis chooses "video" ("video") so Sveta gets the point right away.
+- 'I accidentally recorded it on the dashcam.' Discussing the dashcam during the talk, Sveta leans on "videoregistrator" ("dashcam") to give the whole sentence its punch.
+- 'I want to send it out to the guests before the wedding.' Sveta speaks pointedly with a sigh, bringing things back to earth after the buildup.
+- 'Listen, let us talk calmly with each other.' Denis jumps in candidly in front of Sveta and reaches for the Russian word "pogovorim" ("we'll have a talk", built from "pogovorit") right at the center of the line.
+- 'Where are you right now, I am coming up.' Sveta replies bluntly during the talk, refusing to let the moment slip past.
+- 'Did you really cook something in here?' Barinov tests candidly while looking straight at Sveta here.
+- 'Let us take a look at your dishes.' Addressing the dish in this beat, Barinov lands on "posmotrim" ("have a look", built on "posmotret") to keep the statement grounded.
+- 'You overcooked this meat badly.' Barinov follows up calmly around Sveta, letting the remark speak for itself.
+- 'And there is too much cinnamon here.' Barinov cuts in candidly in their talk, shifting the mood of the conversation in a single beat.
+- 'And this right here is not bad at all.' Barinov counters boldly during the talk and reaches for the Russian word "neplokho" ("not bad") right at the heart of the line.
+- 'Just the thing for street dogs!' Focusing on the dogs at once, Barinov reaches for the Russian word "ulichnykh" ("street, stray", built from "ulichnyy") right at the center of the line.

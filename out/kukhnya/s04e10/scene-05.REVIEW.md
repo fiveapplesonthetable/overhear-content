@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Comb the entire restaurant quickly!' Nagiyev shapes the remark with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Did I say something funny?' Nagiyev probes evenly why things suddenly took this turn between them.
-- 'Well yes, very funny.' The guest chooses this sharp expression at once: "smeshno" means "ridiculous", and it carries the main weight of what the guest is saying.
-- 'I pictured a giant hairbrush.' The guest drops that thought right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Just try arguing with me!' Nagiyev cuts in candidly with a sigh, keeping the focus on what actually matters here.
-- 'Find him for me quickly!' Nagiyev colors one practical touch at once: "naydite" means "find" (from "nayti"), giving the line its exact edge.
-- 'Do not be afraid of a sharp knife.' Senya puts that point with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Instead, be afraid of an ordinary fork!' Senya weighs in quietly with a smile, before Nagiyev can change the subject.
-- 'One strike, four holes.' Senya stresses one loaded expression on cue: "dyrki" means "holes", and it carries the main weight of what Senya is saying.
-- 'There we go, all wrapped up.' Senya lays out the reaction frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Spring salads from Senya.' Senya replies plainly with a sigh, keeping the focus on what actually matters here.
-- 'You were whipped and defeated.' Senya sharpens one classic term in reply: "pobezhdyon" means "defeated", and it carries the main weight of what Senya is saying.
+- 'Comb the entire restaurant quickly!' Turning to the entire restaurant in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Did I say something funny?' Nagiyev probes evenly where this conversation is heading next.
+- 'Well yes, very funny.' The guest speaks up briskly in the exchange and brings in "smeshno" ("ridiculous") to make the meaning unmistakable.
+- 'I pictured a giant hairbrush.' Pointing to a giant hairbrush to Nagiyev, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Just try arguing with me!' Nagiyev follows up candidly in their talk, steering the talk right where he wants it.
+- 'Find him for me quickly!' Nagiyev weighs in earnestly right here and chooses "naydite" ("find", from the root "nayti") so Senya hears the exact meaning.
+- 'Do not be afraid of a sharp knife.' Turning to a sharp knife in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Instead, be afraid of an ordinary fork!' Senya counters quietly around Nagiyev, bringing things back to earth after the buildup.
+- 'One strike, four holes.' Mentioning the holes in front of Nagiyev, Senya uses "dyrki" ("holes") to carry the main weight of the thought.
+- 'There we go, all wrapped up.' Cutting in directly with Nagiyev, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Spring salads from Senya.' Senya weighs in plainly beside Nagiyev, leaving no doubt about where he stands.
+- 'You were whipped and defeated.' Highlighting the defeated beside Nagiyev, Senya uses "pobezhdyon" ("defeated") to carry the main weight of the thought.

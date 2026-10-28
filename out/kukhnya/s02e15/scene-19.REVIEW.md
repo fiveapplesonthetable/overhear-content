@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I told him.' Barinov colors one sharp expression for Lyova: "skazal" means "said" (from "skazat"), giving the line its exact edge.
-- 'Let him stay with us for a while.' Lyova delivers this statement with candor: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'What a noble man you are, Viktor Petrovich.' Barinov fires back sharply with a shrug, to clear the air between them once and for all.
-- 'Yes, taking such good care of your mother and your friend.' Lyova emphasizes one sharp detail toward Barinov: "zabotitsya" means "cares, worries", and it carries the main weight of what Lyova is saying.
-- 'While I.' Barinov phrases the comeback around Lyova: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'To tell you the truth.' Lyova stands firm right away without any doubt, watching Barinov's face to see how the news lands.
-- 'Please forgive me.' Barinov colors one pointed detail at once: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
-- 'It is nothing, think nothing of it.' Lyova voices that reply with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What kind of man I should not be.' Barinov reacts lightly before Lyova, making his position completely clear.
-- 'It turns out I did not know you at all.' Lyova emphasizes one key element right here: "okazyvayetsya" means "to turn out to be" (from "okazyvatsya"), giving the line its exact edge.
-- 'Then let us get to know each other much better.' Barinov aims this warning facing Lyova: the word "davayte" is the polite or group version of "let's", inviting Lyova into the plan right away.
-- 'Excuse me, I...' Lyova reacts honestly with Barinov, keeping the focus on what actually matters here.
-- 'Now we can get acquainted.' Barinov sharpens one vivid choice with Lyova: "znakomitsya" means "get acquainted", and it carries the main weight of what Barinov is saying.
+- 'I told him.' Speaking promptly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Let him stay with us for a while.' Replying briskly beside Barinov, Lyova reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'What a noble man you are, Viktor Petrovich.' Barinov fires back sharply beside Lyova, without trying to dress up how he really feels.
+- 'Yes, taking such good care of your mother and your friend.' Turning to the mother in front of Barinov, Lyova centers the remark on "zabotitsya" ("cares, worries") without any extra fuss.
+- 'While I.' Opening up promptly in front of Lyova, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'To tell you the truth.' Lyova proceeds right away with Barinov, letting the remark speak for itself.
+- 'Please forgive me.' Barinov promptly shares this formal apology in front of Lyova using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.
+- 'It is nothing, think nothing of it.' Jumping in plainly at once, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What kind of man I should not be.' Barinov pushes back lightly during the talk, grounding the moment in plain reality.
+- 'It turns out I did not know you at all.' Lyova jumps in candidly during the talk and brings in "okazyvayetsya" ("to turn out to be", from "okazyvatsya") as the key Russian word here.
+- 'Then let us get to know each other much better.' Holding firm readily in this beat, Barinov uses the polite or group form "davayte" ("let's") to bring Lyova into the plan.
+- 'Excuse me, I...' Lyova firmly voices this polite apology without hesitation using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Now we can get acquainted.' Barinov reacts boldly around Lyova and lands on "znakomitsya" ("get acquainted") as the key everyday word here.

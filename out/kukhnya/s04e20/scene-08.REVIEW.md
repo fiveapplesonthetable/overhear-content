@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I really need your help.' Denis highlights this clear piece for Senya: "pomoshch" means "help", and it carries the main weight of what Denis is saying.
-- 'I already told you, solve your problems yourself.' Vika reacts openly with a shrug, bringing things back to earth after the buildup.
-- 'Katya does not want to see me at all.' Denis highlights one familiar word toward Senya: "khochet" means "wants" (from "khotet"), giving the line its exact edge.
-- 'She does not even answer phone calls.' Denis stands firm earnestly with a smile, saying out loud what both of them already know.
-- 'Maybe you will talk with her yourself?' Denis wonders plainly why things suddenly took this turn between them.
-- 'Yes, she will certainly believe me right away!' Vika points to this sharp term for Senya: "konechno" means "of course", and it carries the main weight of what Vika is saying.
-- 'Tell her that nothing happened.' Denis gives that reply before Senya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Excuse me, I did not hear anything here.' Senya chimes in boldly without any doubt, before Vika can change the subject.
-- 'Wait, does everyone know about this already?' Vika sharpens one memorable word toward Denis: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'All right, come along with me quickly.' Vika drops the reply before Senya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.
-- 'The camera in the office records everything around the clock.' Vika stands firm openly facing Denis, so Denis knows she is not just making small talk.
-- 'You will be able to show Katya that recording.' Vika spotlights one telling element for Senya: "smozhesh" means "will you be able" (from "smoch"), giving the line its exact edge.
+- 'Vika, I really need your help.' Denis pushes back frankly with a nod, refusing to let the moment slip past.
+- 'I already told you, solve your problems yourself.' Vika pushes back openly without a pause, letting the remark speak for itself.
+- 'Katya does not want to see me at all.' Denis pushes back dryly around Vika and puts the emphasis on "sovsem" ("at all") in the middle of the talk.
+- 'She does not even answer phone calls.' Focusing on the call right here, Denis centers the thought on "otvechayet" ("is responsible", from "otvechat") without wasting a word.
+- 'Maybe you will talk with her yourself?' Denis wonders plainly where this conversation is heading next.
+- 'Yes, she will certainly believe me right away!' Vika speaks up firmly beside Denis and lands on "konechno" ("of course") as the key everyday word here.
+- 'Tell her that nothing happened.' Reacting promptly beside Vika, Denis pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Excuse me, I did not hear anything here.' Senya chimes in boldly with a nod, without trying to dress up how he really feels.
+- 'Wait, does everyone know about this already?' Vika chimes in frankly at once and reaches for the Russian word "podozhdi" ("wait", built from "podozhdat") right at the center of the line.
+- 'All right, come along with me quickly.' Vika plainly extends this word of agreement toward Senya using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'The camera in the office records everything around the clock.' Vika fires back openly around Senya, without trying to dress up how she really feels.
+- 'You will be able to show Katya that recording.' Talking about the recording to Senya, Vika centers the thought on "smozhesh" ("will you be able", from "smoch") without wasting a word.

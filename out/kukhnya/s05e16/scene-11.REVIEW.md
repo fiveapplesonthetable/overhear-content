@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Dima, and where is your important guest?' Barinov shapes the thought calmly now: opening with the casual greeting "privet" ("hi") signals right away that Barinov and Nagiyev are on familiar terms.
-- 'She is not coming today, yesterday she got poisoned by a sea urchin.' Nagiyev steps in steadily with a shrug, bringing things back to earth after the buildup.
-- 'More precisely, by fresh sea urchin roe at another place.' Nagiyev favors one classic detail at once: "morskogo" means "sea, marine" (from "morskoy"), giving the line its exact edge.
-- 'She just wrote me a text message about it.' Nagiyev replies promptly beside Barinov, without trying to dress up how he really feels.
-- 'Well, you will still have to pay for the order!' Barinov speaks up candidly before Nagiyev, keeping the focus on what actually matters here.
-- 'After all, my culinary masterpiece on the stove is already ready.' Barinov highlights this vivid detail on cue: "kulinarnyy" means "culinary", and it carries the main weight of what Barinov is saying.
-- 'Go on, take the plate and carry it to the hall for yourself!' Barinov states the thought without pause: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Poor me, I have to do everything myself today!' Nagiyev holds firm lightly across the room, watching Barinov's face to see how the news lands.
-- 'Enjoy your meal, dear Dmitry Vladimirovich!' Barinov frames one memorable element toward Nagiyev: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
-- 'And do not forget to bring the money to the register later!' Barinov steps in boldly hearing Nagiyev, shifting the whole mood of the room in a single beat.
-- 'Wait, I will just go wash my hands clean first.' Nagiyev proceeds boldly with a shrug, so Barinov knows he is not just making small talk.
-- 'Cover the dish with a lid for now, let it sit a bit.' Nagiyev points to this sharp detail on cue: "kryshkoy" means "pigeon", and it carries the main weight of what Nagiyev is saying.
+- 'Hi, Dima, and where is your important guest?' Emphasizing how important things are around Nagiyev, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'She is not coming today, yesterday she got poisoned by a sea urchin.' Nagiyev weighs in steadily facing Barinov, grounding the moment in plain reality.
+- 'More precisely, by fresh sea urchin roe at another place.' Addressing the caviar in this beat, Nagiyev uses "morskogo" ("sea, marine", from "morskoy") to make the point stick.
+- 'She just wrote me a text message about it.' Emphasizing a text message around Barinov, Nagiyev puts the emphasis on "soobshcheniye" ("message") in the middle of the talk.
+- 'Well, you will still have to pay for the order!' Barinov fires back candidly beside Nagiyev, shifting the mood of the conversation in a single beat.
+- 'After all, my culinary masterpiece on the stove is already ready.' Describing how culinary things are during the talk, Barinov brings in "kulinarnyy" ("culinary") to make the meaning unmistakable.
+- 'Go on, take the plate and carry it to the hall for yourself!' Bringing up the plate beside Nagiyev, Barinov starts with "davay" ("come on, let's") to invite Nagiyev right into the action.
+- 'Poor me, I have to do everything myself today!' Nagiyev answers lightly facing Barinov, letting the remark speak for itself.
+- 'Enjoy your meal, dear Dmitry Vladimirovich!' Bringing up the appetite at once, Barinov uses "priyatnogo" ("pleasant", from "priyatnyy") to make the point stick.
+- 'And do not forget to bring the money to the register later!' Discussing the money before Nagiyev, Barinov chooses "dengi" ("money") so Nagiyev gets the point right away.
+- 'Wait, I will just go wash my hands clean first.' Nagiyev speaks boldly in this moment, keeping the focus on what actually matters here.
+- 'Cover the dish with a lid for now, let it sit a bit.' Pointing to the dish beside Barinov, Nagiyev chooses "kryshkoy" ("pigeon") so Barinov gets the point right away.

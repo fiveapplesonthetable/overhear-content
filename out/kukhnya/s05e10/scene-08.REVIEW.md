@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In our hotel employees do not drink at the workplace.' Barinov chimes in pointedly with a smile, saying out loud what both of them already know.
-- 'Maybe we should search all the rooms?' Max checks curiously about what Kostya just brought up.
-- 'I have just put together a sketch.' Max spotlights one loaded detail at once: "fotorobot" means "identikit, police sketch", and it carries the main weight of what Max is saying.
-- 'Very funny! In my opinion, it looks like him.' Kostya reacts promptly hearing Max, without trying to dress up how he really feels.
-- 'Can I have an Americano with milk?' Kostya challenges straight out what Barinov is actually getting at here.
-- 'Go ahead and sit down, we will bring it to you right now.' Max frames one classic detail on cue: "prokhodite" means "come in" (from "prokhodit"), giving the line its exact edge.
-- 'Get in the taxi so that I do not see you anymore!' Barinov features one clear detail for Kostya: "taksi" means "taxi", and it carries the main weight of what Barinov is saying.
-- 'Vitya, you would be an excellent hotel manager.' Max weighs in openly across the room, testing Kostya's reaction in the middle of the exchange.
-- 'What is our plan?' Kostya features one vivid term on cue: "plan" means "plan", and it carries the main weight of what Kostya is saying.
-- 'We need to lure him out and grab him without extra noise.' Max puts the thought with warmth: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'He is a hypnotist! He will look into your eyes.' Kostya proceeds decisively in this moment, bringing things back to earth after the buildup.
-- 'Hypnosis has had no effect on me since childhood.' Max frames one familiar term on cue: "detstva" means "childhood" (from "detstvo"), giving the line its exact edge.
+- 'In our hotel employees do not drink at the workplace.' Focusing on the employees at once, Barinov lands on "sotrudniki" ("employees", built on "sotrudnik") to keep the statement grounded.
+- 'Maybe we should search all the rooms?' Max checks curiously where this conversation is heading next.
+- 'I have just put together a sketch.' Addressing the identikit at once, Max brings in "fotorobot" ("identikit, police sketch") to make the meaning unmistakable.
+- 'Very funny! In my opinion, it looks like him.' Kostya weighs in openly to Max and lands on "pokhozh" ("look like, similar", built on "pokhozhiy") to keep the statement grounded.
+- 'Can I have an Americano with milk?' Kostya challenges straight out how Max expects that to work in practice.
+- 'Go ahead and sit down, we will bring it to you right now.' Max chimes in smoothly beside Kostya and uses "prokhodite" ("come in", from "prokhodit") to make the point stick.
+- 'Get in the taxi so that I do not see you anymore!' Barinov cuts in frankly with a sigh, leaving no doubt about where he stands.
+- 'Vitya, you would be an excellent hotel manager.' Max weighs in openly without holding back, grounding the moment in plain reality.
+- 'What is our plan?' Turning to his plan on the spot, Kostya reaches for the Russian word "plan" ("plan") right at the heart of the line.
+- 'We need to lure him out and grab him without extra noise.' Checking on the noise to Kostya, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'He is a hypnotist! He will look into your eyes.' Kostya replies decisively with Max, letting the remark speak for itself.
+- 'Hypnosis has had no effect on me since childhood.' Mentioning the childhood on the spot, Max reaches for the Russian word "detstva" ("childhood", built from "detstvo") right at the center of the line.

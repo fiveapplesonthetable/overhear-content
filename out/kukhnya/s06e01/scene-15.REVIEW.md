@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you not expect it, Vitya?' The guest quizzes eagerly why things suddenly took this turn between them.
-- 'You are not even here!' Barinov aims that thought toward the guest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'In your head I am still alive.' The guest lays out that reply with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Vitya, go see a doctor.' The guest replies earnestly without any doubt, so Barinov knows he is not just making small talk.
-- 'Surely you would be glad about that.' Barinov points to one sharp piece with the guest: "obradovalis" means "would be glad" (from "obradovatsya"), giving the line its exact edge.
-- 'In your troubles you always blame someone else.' The guest sharpens this vivid piece at once: "obvinyayesh" means "blame" (from "obvinyat"), giving the line its exact edge.
-- 'The marriage fell apart—the mother-in-law is to blame.' The guest answers right away with a smile, watching Barinov's face to see how the news lands.
-- 'Nobody loves you or appreciates you.' The guest reaches for one key element in earnest: "lyubit" means "loves", and it carries the main weight of what the guest is saying.
-- 'Everyone irritates someone as good as you.' The guest spotlights one sharp word in reply: "razdrazhayut" means "irritate, annoy" (from "razdrazhat"), giving the line its exact edge.
-- 'What do you know about me?' Barinov presses calmly whether the guest really thought this through.
-- 'Everything you just heard, you said to yourself.' The guest stresses one practical expression with Barinov: "uslyshal" means "heard" (from "uslyshat"), giving the line its exact edge.
-- 'And the conclusions are yours to draw too.' The guest reaches for one vivid word for Barinov: "vyvody" means "conclusions" (from "vyvod"), giving the line its exact edge.
+- 'Did you not expect it, Vitya?' The guest quizzes eagerly whether Barinov really thought this through.
+- 'You are not even here!' Speaking evenly with the guest, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'In your head I am still alive.' Addressing the head with Barinov, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Vitya, go see a doctor.' The guest steps in earnestly facing Barinov, making his position completely clear.
+- 'Surely you would be glad about that.' Barinov opens up boldly at once and centers the thought on "obradovalis" ("would be glad", from "obradovatsya") without wasting a word.
+- 'In your troubles you always blame someone else.' The guest jumps in right away during the talk, keeping the focus on what actually matters here.
+- 'The marriage fell apart—the mother-in-law is to blame.' The guest follows up right away without holding back, shifting the mood of the conversation in a single beat.
+- 'Nobody loves you or appreciates you.' The guest answers dryly before Barinov and uses "lyubit" ("loves") to carry the main weight of the thought.
+- 'Everyone irritates someone as good as you.' The guest continues evenly with a shrug, bringing things back to earth after the buildup.
+- 'What do you know about me?' Barinov presses calmly where this conversation is heading next.
+- 'Everything you just heard, you said to yourself.' The guest responds frankly during the talk and chooses "uslyshal" ("heard", from the root "uslyshat") so Barinov hears the exact meaning.
+- 'And the conclusions are yours to draw too.' The guest cuts in bluntly around Barinov, testing Barinov's reaction in the middle of the exchange.

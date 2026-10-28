@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, wouldn't it be simpler to add eggs without the shells?' Max hands over this point at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'I am not a professional chef like you.' Vika counters earnestly facing Nastya, without trying to dress up how she really feels.
-- 'So in your opinion, am I a bad wife?' Vika spotlights one sharp touch with Max: "po-tvoyemu" means "wife" (from "po-tvoiy"), giving the line its exact edge.
-- 'I am not the one who said that.' Max phrases that reply without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Vika, come on, I was only joking!' Max speaks pointedly to settle things, without trying to dress up how he really feels.
-- 'Hey, easy, take it easy!' Max grounds this telling piece toward Vika: "tikho" means "easy, quiet", and it carries the main weight of what Max is saying.
-- 'Wait, did you take your medical check-up or not?' Max puts that answer before Nastya: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Back this morning. What does that change?' Vika quizzes skeptically before Nastya can change the subject.
-- 'Oh, Mom, it is such a pity you are leaving.' Nastya grounds one concrete detail at once: "uyezzhayesh" means "are leaving" (from "uyezzhat"), giving the line its exact edge.
-- 'It will be so hard for us without you.' Nastya picks one colorful choice in earnest: "tyazhelo" means "hard", and it carries the main weight of what Nastya is saying.
-- 'No, turning back is bad luck.' Nastya steps in decisively with Max, bringing things back to earth after the buildup.
-- 'Say hello to Dad, we will call.' Nastya centers one sharp expression on cue: "pozvonim" means "to call, to phone" (from "pozvonit"), giving the line its exact edge.
+- 'Vika, wouldn't it be simpler to add eggs without the shells?' Mentioning the without in the exchange, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'I am not a professional chef like you.' Vika weighs in earnestly with a smile, steering the talk right where she wants it.
+- 'So in your opinion, am I a bad wife?' Describing how wife things are in front of Max, Vika centers the thought on "po-tvoyemu" ("wife", from "po-tvoiy") without wasting a word.
+- 'I am not the one who said that.' Answering dryly to Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Vika, come on, I was only joking!' Max replies pointedly with a sigh, refusing to let the moment slip past.
+- 'Hey, easy, take it easy!' Max chimes in quietly beside Vika and uses "tikho" ("easy, quiet") to carry the main weight of the thought.
+- 'Wait, did you take your medical check-up or not?' Reacting warmly on the spot, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Back this morning. What does that change?' Vika quizzes skeptically where this conversation is heading next.
+- 'Oh, Mom, it is such a pity you are leaving.' Talking about the mum during the talk, Nastya puts the weight on "uyezzhayesh" ("are leaving", from "uyezzhat") as the exchange unfolds.
+- 'It will be so hard for us without you.' Nastya reacts sharply during the talk, refusing to let the moment slip past.
+- 'No, turning back is bad luck.' Nastya steps in decisively without holding back, keeping the focus on what actually matters here.
+- 'Say hello to Dad, we will call.' Nastya openly chooses this casual greeting without hesitation using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.

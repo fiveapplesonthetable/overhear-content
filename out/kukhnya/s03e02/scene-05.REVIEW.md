@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, is that you?' Barinov brings that reply plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Chef, my dear friend, for you I can be anyone at all.' Timur counters firmly in this moment, steering the talk right where he wants it.
-- 'Just take all the fish.' Timur colors one colorful touch in earnest: "rybu" means "fish" (from "ryba"), giving the line its exact edge.
-- 'I will take this one, and this one is not fresh, the gills darkened.' Barinov continues wryly with a smile, letting the remark speak for itself.
-- 'Take it to a sushi place, they will snatch it right up there.' Barinov responds candidly before Timur, making his position completely clear.
-- 'Chef, and don't you need a ram?' Timur sharpens this sharp term in earnest: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
-- 'Young, handsome, smart, just like my nephew.' Timur weighs in earnestly without a pause, grounding the moment in plain reality.
-- 'You are praising him so much, as if you intended to marry him off.' Barinov answers plainly to settle things, keeping the focus on what actually matters here.
-- 'Chef, well I have to sell him today.' Timur centers this key touch at once: "segodnya" means "today", and it carries the main weight of what Timur is saying.
-- 'I was bringing a bribe to the institute, and he passed the exams himself.' Timur answers frankly without any doubt, keeping the focus on what actually matters here.
-- 'Then let him sell it himself, since he is so smart.' Barinov counters firmly beside Timur, to clear the air between them once and for all.
-- 'Don't forget about the partridges. Yes, I remember, I remember.' Barinov highlights one clear expression toward Timur: "kuropatki" means "partridges" (from "kuropatka"), giving the line its exact edge.
+- 'Timur, is that you?' Replying naturally during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Chef, my dear friend, for you I can be anyone at all.' Timur speaks firmly hearing Barinov, leaving no doubt about where he stands.
+- 'Just take all the fish.' Emphasizing the fish around Barinov, Timur chooses "rybu" ("fish", from the root "ryba") so Barinov hears the exact meaning.
+- 'I will take this one, and this one is not fresh, the gills darkened.' Underscoring how fresh things are right here, Barinov brings in "svezhaya" ("fresh", from "svezhiy") as the key Russian word here.
+- 'Take it to a sushi place, they will snatch it right up there.' Barinov responds candidly watching Timur, refusing to let the moment slip past.
+- 'Chef, and don't you need a ram?' Turning to the sheep beside Barinov, Timur lands on "nuzhen" ("is needed", built on "nuzhnyy") to keep the statement grounded.
+- 'Young, handsome, smart, just like my nephew.' Talking about his nephew during the talk, Timur centers the remark on "plemyannik" ("nephew") without any extra fuss.
+- 'You are praising him so much, as if you intended to marry him off.' Barinov cuts in plainly without holding back, testing Timur's reaction in the middle of the exchange.
+- 'Chef, well I have to sell him today.' Timur weighs in earnestly with Barinov and chooses "segodnya" ("today") so Barinov gets the point right away.
+- 'I was bringing a bribe to the institute, and he passed the exams himself.' Touching on the university in the exchange, Timur puts the emphasis on "institut" ("university") in the middle of the talk.
+- 'Then let him sell it himself, since he is so smart.' Barinov counters firmly without any doubt, refusing to let the moment slip past.
+- 'Don't forget about the partridges. Yes, I remember, I remember.' Touching on the partridges beside Timur, Barinov leans on "kuropatki" ("partridges", a form of "kuropatka") to give the remark its edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is a real, genuine date.' The guest hands over this update with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'My name is Nikolai.' The guest steps in candidly to settle things, before Vika can change the subject.
-- 'We met a year ago at a festival.' The guest centers this clear expression in reply: "vstrechalis" means "to meet, to date" (from "vstrechatsya"), giving the line its exact edge.
-- 'You looked simply stunning.' The guest drops this answer beside Vika: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Hi! By the way, there is a fine for breaking dishes.' Max steps in at once in this moment, watching the guest's face to see how the news lands.
-- 'When will you get out of my life?' Vika points to this vivid detail in reply: "zhizni" means "life" (from "zhizn"), giving the line its exact edge.
-- 'Stop! Do you want me to leave?' Max voices that point toward the guest: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
-- 'Fine, I can leave.' Max counters pointedly without a pause, so Vika knows he is not just making small talk.
-- 'Is everything all right?' The guest stresses one vivid choice in earnest: "normalno" means "fine, OK", and it carries the main weight of what the guest is saying.
-- 'Yes. Thank you.' Max aims the reaction right away: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Well, and what did you achieve with this?' Vika prompts briskly if there is more going on behind the scenes.
-- 'You came on a date with me.' Max underscores this vivid element at once: "svidaniye" means "date", and it carries the main weight of what Max is saying.
+- 'This is a real, genuine date.' Insisting on how real things are before Max, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'My name is Nikolai.' The guest fires back candidly beside Max, bringing things back to earth after the buildup.
+- 'We met a year ago at a festival.' Highlighting a festival in front of Max, the guest lands on "festivale" ("festival", built on "festival") to keep the statement grounded.
+- 'You looked simply stunning.' Looking over openly to Max, the guest uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Hi! By the way, there is a fine for breaking dishes.' Max steps in at once around Vika, bringing things back to earth after the buildup.
+- 'When will you get out of my life?' Pointing to her life during the talk, Vika uses "zhizni" ("life", from "zhizn") to make the point stick.
+- 'Stop! Do you want me to leave?' Turning candidly at once, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Fine, I can leave.' Max openly shares this word of agreement for the guest using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Is everything all right?' The guest responds quietly on the spot and uses "normalno" ("fine, OK") to carry the main weight of the thought.
+- 'Yes. Thank you.' Max openly drops this word of thanks to the guest using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Well, and what did you achieve with this?' Vika prompts briskly to see how Max will answer on the spot.
+- 'You came on a date with me.' Emphasizing a date right here, Max chooses "svidaniye" ("date") so Vika gets the point right away.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, how are you feeling right now?' The doctor presses quietly while looking straight at Max here.
-- 'Thank you, I feel quite alright.' Max favors one vivid expression on cue: "chuvstvuyu" means "feel" (from "chuvstvovat"), giving the line its exact edge.
-- 'Doctor, does that mean everything is fine with him?' Vika drops the remark without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Yes, everything will be fine, he needs to lie down for a bit.' The doctor holds firm sharply without holding back, keeping the focus on what actually matters here.
-- 'He needs to lie down so the dizziness passes.' The doctor uses one telling touch in reply: "golovokruzheniye" means "dizziness", and it carries the main weight of what the doctor is saying.
-- 'He has no fractures, which is actually amazing!' The doctor gives the thought without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Do not jump from the third floor like that anymore!' The doctor steps in briskly on the spot, keeping the focus on what actually matters here.
-- 'Thank you very much for your help, doctor.' Vika picks one practical detail toward Max: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'Vika, forgive me that things turned out this way.' Max brings this statement right away: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'It is nothing, I missed my meeting because of you.' Vika continues candidly without holding back, making her position completely clear.
-- 'Alright, friends, let's start rehearsing our plan!' Max reaches for one colorful word with the doctor: "repetirovat" means "to rehearse", and it carries the main weight of what Max is saying.
-- 'In walks Dima's friend, Lyova, go!' Max jumps in calmly with a smile, shifting the whole mood of the room in a single beat.
+- 'Tell me, how are you feeling right now?' The doctor presses quietly what Max is actually getting at here.
+- 'Thank you, I feel quite alright.' Max openly drops this word of thanks in the exchange using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Doctor, does that mean everything is fine with him?' Talking about the order in this beat, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Yes, everything will be fine, he needs to lie down for a bit.' The doctor follows up sharply watching Vika, leaving no doubt about where he stands.
+- 'He needs to lie down so the dizziness passes.' Touching on the dizziness at once, the doctor centers the remark on "golovokruzheniye" ("dizziness") without any extra fuss.
+- 'He has no fractures, which is actually amazing!' Bringing up the fractures right here, the doctor links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Do not jump from the third floor like that anymore!' The doctor fires back briskly beside Vika, bringing things back to earth after the buildup.
+- 'Thank you very much for your help, doctor.' Emphasizing the thank during the talk, Vika puts the weight on "bolshoye" ("big, very much", from "bolshoy") as the exchange unfolds.
+- 'Vika, forgive me that things turned out this way.' Leaning in naturally in this beat, the "-sya" ending on "poluchilos" ("worked out") marks an action that unfolds mutually or turns back on the speaker.
+- 'It is nothing, I missed my meeting because of you.' Vika continues candidly hearing Max, before Max can change the subject.
+- 'Alright, friends, let's start rehearsing our plan!' Touching on the friends with Vika, Max lands on "repetirovat" ("to rehearse") as the key everyday word here.
+- 'In walks Dima's friend, Lyova, go!' Addressing the friend in the exchange, Max uses "vkhodit" ("to go in, to enter") to carry the main weight of the thought.

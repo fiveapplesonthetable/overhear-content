@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, Rodion Sergeyevich, I didn't mean to do that.' Max frames this clear expression at once: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'It's nothing. Even my horoscope says that today is an unlucky day.' Rodion delivers this warning for Max: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Do you actually believe in that nonsense?' Max probes wryly what Barinov is actually getting at here.
-- 'Now I always have a lucky day!' Rodion grounds this clear detail in earnest: "udachnyy" means "lucky, successful", and it carries the main weight of what Rodion is saying.
-- 'Chef, we turned everything upside down — there is no elephant.' Max replies lightly during the talk, letting the remark speak for itself.
-- 'Search, Senya, search!' Barinov chimes in openly around Rodion, leaving no doubt about where he stands.
-- 'Find me the elephant!' Barinov emphasizes one pointed term with Max: "naydite" means "find" (from "nayti"), giving the line its exact edge.
-- 'Max, you and I still haven't talked.' Barinov pushes back evenly in their talk, testing Rodion's reaction in the middle of the exchange.
-- 'Yes, Vika, forgive me, I got swamped.' Max follows up steadily with Barinov, saying out loud what both of them already know.
-- 'Vika, let's do it later, okay? Otherwise Nagiyev gets impatient.' Max stresses this clear element with Rodion: "nervnichayet" means "gets nervous" (from "nervnichat"), giving the line its exact edge.
-- 'It looks cool.' Max lays out the reaction frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'And it tastes even better!' Max follows up briskly to be clear, making his position completely clear.
+- 'Excuse me, Rodion Sergeyevich, I didn't mean to do that.' Max steps in naturally in front of Rodion and chooses "izvinite" ("sorry, excuse me", from the root "izvinit") so Rodion hears the exact meaning.
+- 'It's nothing. Even my horoscope says that today is an unlucky day.' Rodion follows up plainly during the talk, to clear the air between them once and for all.
+- 'Do you actually believe in that nonsense?' Max probes wryly what Rodion is actually getting at here.
+- 'Now I always have a lucky day!' Rodion pushes back decisively in front of Max and centers the remark on "udachnyy" ("lucky, successful") without any extra fuss.
+- 'Chef, we turned everything upside down — there is no elephant.' Talking about the bottom on the spot, Max chooses "perevernuli" ("tipped over", from the root "perevernut") so Barinov hears the exact meaning.
+- 'Search, Senya, search!' Barinov follows up openly without any doubt, to clear the air between them once and for all.
+- 'Find me the elephant!' Highlighting the elephant beside Max, Barinov reaches for the Russian word "slona" ("an elephant", built from "slon") right at the center of the line.
+- 'Max, you and I still haven't talked.' Barinov continues decisively around Max and leans on "pogovorili" ("had a talk", a form of "pogovorit") to give the remark its edge.
+- 'Yes, Vika, forgive me, I got swamped.' Max naturally sends this personal apology without hesitation using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'Vika, let's do it later, okay? Otherwise Nagiyev gets impatient.' Max reacts smoothly in front of Barinov and leans on "nervnichayet" ("gets nervous", a form of "nervnichat") to give the remark its edge.
+- 'It looks cool.' Reacting openly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'And it tastes even better!' Max answers briskly during the talk, shifting the mood of the conversation in a single beat.

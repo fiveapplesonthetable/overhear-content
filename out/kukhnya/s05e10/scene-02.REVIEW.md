@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, do not cry, we will cover the bill ourselves.' Kostya puts this point toward Mikhail: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Mikhail is on board.
-- 'Moustached in glasses? Does he live in the hotel?' Kostya prompts openly about what Vika just brought up.
-- 'What is happening? I thought that those were dollars.' Vika emphasizes one colorful detail for Kostya: "proiskhodit" means "is going on", and it carries the main weight of what Vika is saying.
-- 'Wait, this is from the central office.' Vika weighs in quietly with a sigh, before Mikhail can change the subject.
-- 'The appearance of a fraudster and hypnotist in the hotel is possible.' Vika answers promptly without any doubt, testing Kostya's reaction in the middle of the exchange.
-- 'The victim is under hypnosis.' Vika reaches for one direct detail in reply: "nakhoditsya" means "to be located", and it carries the main weight of what Vika is saying.
-- 'Right, we need to call the police.' Kostya shapes that answer without pause: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'No police! There is a commission in the hotel.' Mikhail weighs in pointedly with Vika, so Vika knows he is not just making small talk.
-- 'We must not raise a commotion.' Mikhail spotlights this vivid word on cue: "podnimat" means "to raise, stir up", and it carries the main weight of what Mikhail is saying.
-- 'Eleonora Andreyevna asked me to oversee everything.' Mikhail pushes back briskly without holding back, saying out loud what both of them already know.
-- 'She even promised me a bonus if everything goes well.' Mikhail jumps in honestly without any doubt, shifting the whole mood of the room in a single beat.
-- 'What is with you? Hey, Dima!' Kostya voices this warning to Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Alright, do not cry, we will cover the bill ourselves.' Turning to the counting in the exchange, Kostya puts the emphasis on "schyot" ("counting, account") in the middle of the talk.
+- 'Moustached in glasses? Does he live in the hotel?' Kostya prompts openly where this conversation is heading next.
+- 'What is happening? I thought that those were dollars.' Highlighting the dollars on the spot, Vika reaches for the Russian word "proiskhodit" ("is going on") right at the heart of the line.
+- 'Wait, this is from the central office.' Confirming how central things are on the spot, Vika leans on "tsentralnogo" ("central, main", a form of "tsentralnyy") to give the remark its edge.
+- 'The appearance of a fraudster and hypnotist in the hotel is possible.' Vika pushes back promptly across the room, letting the remark speak for itself.
+- 'The victim is under hypnosis.' Bringing up the victim with Kostya, Vika leans on "nakhoditsya" ("to be located") to give the whole sentence its punch.
+- 'Right, we need to call the police.' Checking on the police around Vika, Kostya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'No police! There is a commission in the hotel.' Mikhail fires back pointedly on the spot, making his position completely clear.
+- 'We must not raise a commotion.' Addressing the noise during the talk, Mikhail centers the remark on "podnimat" ("to raise, stir up") without any extra fuss.
+- 'Eleonora Andreyevna asked me to oversee everything.' Mikhail chimes in naturally with Kostya and centers the remark on "prosledit" ("to keep an eye on") without any extra fuss.
+- 'She even promised me a bonus if everything goes well.' Mikhail steps in honestly with a sigh, testing Kostya's reaction in the middle of the exchange.
+- 'What is with you? Hey, Dima!' Jumping in frankly in this beat, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.

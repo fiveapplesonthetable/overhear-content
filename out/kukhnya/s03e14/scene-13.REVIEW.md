@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, ambulance, someone is sick here, probably appendicitis!' Max focuses on one direct element right here: "appenditsit" means "appendicitis", and it carries the main weight of what Max is saying.
-- 'Please come to us as quickly as possible!' Max aims that reply toward Timur: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'And I thought you were a real man.' Timur continues lightly with Barinov, saying out loud what both of them already know.
-- 'Sorry, bro, but I am forced to drag you out by force.' Timur features one loaded element toward Max: "vynuzhden" means "forced, obliged", and it carries the main weight of what Timur is saying.
-- 'Stop resisting, I have no time!' Timur delivers the reaction with warmth: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Our Katya came into the dining room with bikers.' Barinov cuts in frankly during the talk, to clear the air between them once and for all.
-- 'Timur, just one phone call and I will come right out!' Max underscores one sharp detail in earnest: "zvonok" means "call, bell", and it carries the main weight of what Max is saying.
-- 'Mind you do not let me down, I will come back and check.' Timur opens up lightly toward Max, saying out loud what both of them already know.
-- 'Hello, Katya, hi, who are those bikers with you out there?' Barinov tests evenly before Max can change the subject.
-- 'We are not expecting anyone else, and here you are with a surprise.' Barinov stresses one vivid expression for Timur: "syurprizom" means "surprise" (from "syurpriz"), giving the line its exact edge.
-- 'Stas thinks that Dad will set an ambush for him.' Max weighs in boldly hearing Barinov, refusing to let the moment slip past.
-- 'And what happened, so he is expecting an ambush?' Barinov wonders bluntly as Timur tries to explain the situation.
+- 'Hello, ambulance, someone is sick here, probably appendicitis!' Highlighting the appendicitis on the spot, Max lands on "appenditsit" ("appendicitis") as the key everyday word here.
+- 'Please come to us as quickly as possible!' Max firmly drops this courtesy word while facing Timur using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'And I thought you were a real man.' Timur answers lightly around Max, to clear the air between them once and for all.
+- 'Sorry, bro, but I am forced to drag you out by force.' Highlighting how forced he is in front of Max, Timur chooses "vynuzhden" ("forced, obliged") so Max gets the point right away.
+- 'Stop resisting, I have no time!' Holding firm plainly to Barinov, the "-sya" ending on "soprotivlyaysya" ("resist") marks an action that unfolds mutually or turns back on the speaker.
+- 'Our Katya came into the dining room with bikers.' Pointing to the bikers with Timur, Barinov makes it clear to Timur that he means every word.
+- 'Timur, just one phone call and I will come right out!' Emphasizing the call in front of Timur, Max chooses "zvonok" ("call, bell") so Timur gets the point right away.
+- 'Mind you do not let me down, I will come back and check.' Timur follows up directly around Max and leans on "proveryu" ("will check", a form of "proverit") to give the remark its edge.
+- 'Hello, Katya, hi, who are those bikers with you out there?' Barinov tests evenly why things suddenly took this turn between them.
+- 'We are not expecting anyone else, and here you are with a surprise.' Touching on a surprise on the spot, Barinov brings in "syurprizom" ("surprise", from "syurpriz") as the key Russian word here.
+- 'Stas thinks that Dad will set an ambush for him.' Pointing to an ambush right here, Max leans on "zasadu" ("ambush", a form of "zasada") to give the remark its edge.
+- 'And what happened, so he is expecting an ambush?' Barinov wonders bluntly why things suddenly took this turn between them.

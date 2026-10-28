@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your Honor, I have an important piece of evidence!' Kostya delivers that remark frankly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Were you wearing this belt on that evening?' Kostya quizzes curiously if there is more going on behind the scenes.
-- 'That means the pants could have simply fallen down by themselves!' Kostya frames one direct expression at once: "prosto-naprosto" means "simply", and it carries the main weight of what Kostya is saying.
-- 'Well there, now everything fits together perfectly!' Kostya makes that point before Senya: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
-- 'Kostya, do not embarrass yourself, that is your belt!' Nastya answers at once with a smile, so Kostya knows she is not just making small talk.
-- 'Then we call our first witness.' Kostya focuses on one classic touch with Senya: "svidetelya" means "witness" (from "svidetel"), giving the line its exact edge.
-- 'Max, do not worry, I already bribed him.' Kostya aims that remark with ease: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
-- 'So, that evening everything happened just like this.' Senya jumps in decisively in this moment, to clear the air between them once and for all.
-- 'Sasha threw herself at our Max to kiss him.' Senya centers one sharp choice with Kostya: "tselovatsya" means "to kiss", and it carries the main weight of what Senya is saying.
-- 'Then Vika walked in and misunderstood everything.' Senya continues plainly without holding back, without trying to dress up how he really feels.
-- 'Victoria Sergeyevna, do not worry, I bribed the witness.' Nastya speaks up calmly toward Kostya, without trying to dress up how she really feels.
-- 'Your Honor, I also call this witness!' Nastya uses one concrete word with Senya: "svidetelya" means "witness" (from "svidetel"), giving the line its exact edge.
+- 'Your Honor, I have an important piece of evidence!' Kostya proceeds dryly without holding back, steering the talk right where he wants it.
+- 'Were you wearing this belt on that evening?' Kostya quizzes curiously while looking straight at Nastya here.
+- 'That means the pants could have simply fallen down by themselves!' Bringing up the pants with Nastya, Kostya puts the emphasis on "prosto-naprosto" ("simply") in the middle of the talk.
+- 'Well there, now everything fits together perfectly!' Cutting in boldly with Nastya, Kostya leans on "otlichno" ("great, excellent"), which carries the whole predicate in Russian without needing "it is".
+- 'Kostya, do not embarrass yourself, that is your belt!' Focusing on the belt watching Kostya, Nastya makes it clear to Kostya that she means every word.
+- 'Then we call our first witness.' Turning to the witness in the exchange, Kostya brings in "svidetelya" ("witness", from "svidetel") as the key Russian word here.
+- 'Max, do not worry, I already bribed him.' Answering briskly in this beat, the "-sya" ending on "volnuysya" ("worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'So, that evening everything happened just like this.' Senya replies decisively without holding back, bringing things back to earth after the buildup.
+- 'Sasha threw herself at our Max to kiss him.' Senya opens up readily to Kostya and lands on "tselovatsya" ("to kiss") as the key everyday word here.
+- 'Then Vika walked in and misunderstood everything.' Senya responds evenly around Nastya and reaches for the Russian word "nepravilno" ("wrongly") right at the heart of the line.
+- 'Victoria Sergeyevna, do not worry, I bribed the witness.' Nastya replies calmly with a sigh, without trying to dress up how she really feels.
+- 'Your Honor, I also call this witness!' Touching on the witness before Senya, Nastya uses "svidetelya" ("witness", from "svidetel") to make the point stick.

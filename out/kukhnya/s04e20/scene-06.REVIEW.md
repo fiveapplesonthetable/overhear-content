@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's drink to our long friendship!' Nagiyev proceeds firmly with a shrug, letting the remark speak for itself.
-- 'Dima, maybe we really shouldn't today?' Barinov spotlights this direct piece at once: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
-- 'I still have to perform on the show tomorrow.' Barinov answers openly during the talk, refusing to let the moment slip past.
-- 'And I have to host that show tomorrow!' Nagiyev fires back right away with a nod, shifting the whole mood of the room in a single beat.
-- 'Who are we even afraid of, my friend?' Nagiyev grounds this direct word in earnest: "voobshche" means "at all", and it carries the main weight of what Nagiyev is saying.
-- 'Why are you bothering that plant?' Barinov brings that reply briskly now: putting the question word "zachem" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'Look, we have snacks on the table.' Barinov pushes back at once as they talk, keeping the focus on what actually matters here.
-- 'Wait, why does your flower smell like whisky?' Nagiyev spotlights one vivid detail with Barinov: "tsvetok" means "flower", and it carries the main weight of what Nagiyev is saying.
-- 'I do not know why it smells like that.' Barinov answers lightly to settle things, leaving no doubt about where he stands.
-- 'It seems I have finally understood everything right now!' Nagiyev responds right away without a pause, watching Barinov's face to see how the news lands.
-- 'You wanted to get me drunk on purpose!' Nagiyev centers one key touch for Barinov: "spetsialno" means "on purpose", and it carries the main weight of what Nagiyev is saying.
-- 'So that I could not perform tomorrow!' Nagiyev steps in boldly hearing Barinov, bringing things back to earth after the buildup.
+- 'Let's drink to our long friendship!' Nagiyev weighs in firmly in this moment, leaving no doubt about where he stands.
+- 'Dima, maybe we really shouldn't today?' Barinov replies sharply right here and centers the remark on "segodnya" ("today") without any extra fuss.
+- 'I still have to perform on the show tomorrow.' Discussing the show with Nagiyev, Barinov leans on "yeshchyo" ("more, still") to give the whole sentence its punch.
+- 'And I have to host that show tomorrow!' Nagiyev replies right away without a pause, keeping the focus on what actually matters here.
+- 'Who are we even afraid of, my friend?' Talking about his friend during the talk, Nagiyev reaches for the Russian word "voobshche" ("at all") right at the heart of the line.
+- 'Why are you bothering that plant?' Stepping in naturally around Nagiyev, Barinov puts the question word "zachem" right at the start so Nagiyev hears the focus immediately.
+- 'Look, we have snacks on the table.' Barinov cuts in at once beside Nagiyev, keeping the focus on what actually matters here.
+- 'Wait, why does your flower smell like whisky?' Discussing the flower with Barinov, Nagiyev leans on "tsvetok" ("flower") to give the whole sentence its punch.
+- 'I do not know why it smells like that.' Barinov cuts in promptly with Nagiyev and centers the thought on "pakhnet" ("it smells", from "pakhnut") without wasting a word.
+- 'It seems I have finally understood everything right now!' Nagiyev reacts right away with a sigh, to clear the air between them once and for all.
+- 'You wanted to get me drunk on purpose!' Nagiyev steps in evenly right here and centers the remark on "spetsialno" ("on purpose") without any extra fuss.
+- 'So that I could not perform tomorrow!' Nagiyev chimes in promptly in the exchange and brings in "vystupit" ("to perform") to make the meaning unmistakable.

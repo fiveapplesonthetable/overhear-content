@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, I am here for my pay.' Denis speaks calmly with Barinov, steering the talk right where he wants it.
-- 'Today is the big match.' Barinov points to one loaded term right here: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
-- 'Are you a Spartak fan too?' Denis states that remark on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am a gladiator. Sit down.' Barinov speaks earnestly with Lyova, so Lyova knows he is not just making small talk.
-- 'Tomorrow I will show you a great Spartak bar.' Barinov colors this telling choice on cue: "spartakovskiy" means "spartak", and it carries the main weight of what Barinov is saying.
-- 'I can't, I have to look for a job.' Denis shares that reply toward Lyova: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Alright, it was nice meeting you.' Denis steps in evenly before Barinov, so Barinov knows he is not just making small talk.
-- 'Viktor Petrovich, can I do anything for you as a parting favor?' Lyova points to one loaded piece toward Denis: "naposledok" means "favor", and it carries the main weight of what Lyova is saying.
-- 'You can. Take that young guy back.' Barinov weighs in bluntly with Denis, refusing to let the moment slip past.
-- 'That is my final request.' Barinov cuts in candidly across the room, leaving no doubt about where he stands.
-- 'Alright, I will.' Lyova frames one memorable word toward Barinov: "khorosho" means "good, fine", and it carries the main weight of what Lyova is saying.
-- 'Never give up.' Barinov gives this answer facing Lyova: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Hello, I am here for my pay.' Denis calmly speaks this formal greeting as they meet using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Today is the big match.' Pointing to the game at once, Barinov leans on "segodnya" ("today") to give the whole sentence its punch.
+- 'Are you a Spartak fan too?' Underscoring how meat things are in the exchange, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am a gladiator. Sit down.' Barinov replies earnestly without any doubt, shifting the mood of the conversation in a single beat.
+- 'Tomorrow I will show you a great Spartak bar.' Focusing on the bar in the exchange, Barinov reaches for the Russian word "spartakovskiy" ("spartak") right at the heart of the line.
+- 'I can't, I have to look for a job.' Discussing a job at once, Denis leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Alright, it was nice meeting you.' Denis briskly delivers this word of agreement without hesitation using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Viktor Petrovich, can I do anything for you as a parting favor?' Pointing to a parting favor at once, Lyova puts the emphasis on "naposledok" ("favor") in the middle of the talk.
+- 'You can. Take that young guy back.' Bringing up the boyfriend before Lyova, Barinov leans on "parnya" ("boyfriend", a form of "paren") to give the remark its edge.
+- 'That is my final request.' Barinov chimes in candidly with a sigh, leaving no doubt about where he stands.
+- 'Alright, I will.' Lyova chimes in vividly at once and brings in "khorosho" ("good, fine") to make the meaning unmistakable.
+- 'Never give up.' Speaking firmly right here, Barinov pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.

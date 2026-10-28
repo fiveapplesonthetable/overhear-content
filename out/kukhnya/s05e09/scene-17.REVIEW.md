@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And here I am.' Barinov offers the comeback before Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Oh, young man, I barely recognized you!' Elena speaks candidly in their talk, letting the remark speak for itself.
-- 'I have a toast.' Elena frames one sharp detail in earnest: "tost" means "toast", and it carries the main weight of what Elena is saying.
-- 'What a coincidence! And I have a desire to drink.' Barinov puts the reply briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Shall we drink to us?' Elena quizzes point-blank while looking straight at Barinov here.
-- 'You know, I am very glad that we are together.' Elena spotlights one sharp word in earnest: "znayesh" means "know" (from "znat"), giving the line its exact edge.
-- 'I am pleased that you listen to me.' Elena states this answer at once: the "-sya" ending on "prislushivayeshsya" ("listen to, heed") turns the action inward or makes it happen between people naturally.
-- 'I fell in love with you just the way you are.' Elena follows up frankly on the spot, leaving no doubt about where she stands.
-- 'And it does not matter to me how many kilograms are in you.' Elena picks this sharp detail with Barinov: "kilogramm" means "kilogram", and it carries the main weight of what Elena is saying.
-- 'Wait, you do not consider me a fat man?' Barinov shares this warning before Elena: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
-- 'Goodness, well of course not!' Elena replies warmly with a nod, watching Barinov's face to see how the news lands.
-- 'So for a whole week I tormented myself with diets in vain! You are simply a miracle!' Barinov features one memorable detail for Elena: "diyetami" means "diets" (from "diyeta"), giving the line its exact edge.
+- 'And here I am.' Holding firm calmly around Elena, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Oh, young man, I barely recognized you!' Elena speaks up candidly during the talk, watching Barinov's face to see how the news lands.
+- 'I have a toast.' Mentioning a toast at once, Elena leans on "tost" ("toast") to give the whole sentence its punch.
+- 'What a coincidence! And I have a desire to drink.' Barinov counters pointedly hearing Elena, steering the talk right where he wants it.
+- 'Shall we drink to us?' Elena quizzes point-blank how Barinov expects that to work in practice.
+- 'You know, I am very glad that we are together.' Describing how glad she is in front of Barinov, Elena reaches for the Russian word "rada" ("glad") right at the heart of the line.
+- 'I am pleased that you listen to me.' Speaking dryly during the talk, the "-sya" ending on "prislushivayeshsya" ("listen to, heed") marks an action that unfolds mutually or turns back on the speaker.
+- 'I fell in love with you just the way you are.' Elena responds frankly across the room, making her position completely clear.
+- 'And it does not matter to me how many kilograms are in you.' Focusing on the kilogram in the exchange, Elena puts the emphasis on "kilogramm" ("kilogram") in the middle of the talk.
+- 'Wait, you do not consider me a fat man?' Pressing on promptly to Elena, Barinov keeps normal statement word order here, turning the line into a question for Elena purely through rising pitch.
+- 'Goodness, well of course not!' Elena promptly chooses this confirmation while facing Barinov using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'So for a whole week I tormented myself with diets in vain! You are simply a miracle!' Turning to the diets to Elena, Barinov lands on "diyetami" ("diets", built on "diyeta") to keep the statement grounded.

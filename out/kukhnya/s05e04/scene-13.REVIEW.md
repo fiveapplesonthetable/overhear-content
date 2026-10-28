@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you completely lost your mind?' Kostya points to one classic term on cue: "katushin" means "off the rails" (from "katushka"), giving the line its exact edge.
-- 'The guests are laughing at you.' Kostya directs that reply at once: the "-sya" ending on "smeyutsya" ("to laugh") turns the action inward or makes it happen between people naturally.
-- 'Ladies and gentlemen, there is no need to laugh.' Barinov opens up firmly without a pause, bringing things back to earth after the buildup.
-- 'I come from an ancient Scottish clan.' Barinov uses this direct expression in reply: "shotlandskogo" means "Scottish" (from "shotlandskiy"), giving the line its exact edge.
-- 'In our clan it is customary to wear kilts.' Barinov aims that point calmly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Everything is fine. I told them I am a Highlander.' Barinov weighs in evenly with a smile, shifting the whole mood of the room in a single beat.
-- 'You are not a Highlander. You are an old man disgracing both yourself and the hotel.' Kostya centers one clear expression in earnest: "starets" means "old man, elder", and it carries the main weight of what Kostya is saying.
-- 'Viktor Petrovich, are you aware that we have strict rules?' Mikhail phrases the reply facing Kostya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'well, non-traditional room service is prohibited?' Mikhail probes point-blank before Barinov can change the subject.
-- 'What is that lady doing here?' Barinov points to this vivid term on cue: "damochka" means "little lady", and it carries the main weight of what Barinov is saying.
-- 'You can always win it back! I cannot.' Mikhail shares the comeback in earnest: the "-sya" ending on "otygratsya" ("to win back") turns the action inward or makes it happen between people naturally.
-- 'Right now I am fulfilling another wish.' Barinov speaks candidly before Mikhail, without trying to dress up how he really feels.
-- 'Not yours.' Barinov aims this point right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Have you completely lost your mind?' Pointing to the rails in the exchange, Kostya chooses "katushin" ("off the rails", from the root "katushka") so Barinov hears the exact meaning.
+- 'The guests are laughing at you.' Turning to the visitors around Barinov, the "-sya" ending on "smeyutsya" ("to laugh") marks an action that unfolds mutually or turns back on the speaker.
+- 'Ladies and gentlemen, there is no need to laugh.' Barinov follows up firmly without a pause, making his position completely clear.
+- 'I come from an ancient Scottish clan.' Bringing up the clan before Kostya, Barinov reaches for the Russian word "shotlandskogo" ("Scottish", built from "shotlandskiy") right at the center of the line.
+- 'In our clan it is customary to wear kilts.' Emphasizing how accepted things are before Kostya, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Everything is fine. I told them I am a Highlander.' Barinov jumps in evenly during the talk, grounding the moment in plain reality.
+- 'You are not a Highlander. You are an old man disgracing both yourself and the hotel.' Turning to an old man in the exchange, Kostya centers the remark on "starets" ("old man, elder") without any extra fuss.
+- 'Viktor Petrovich, are you aware that we have strict rules?' Showing how strict things are during the talk, Mikhail reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'well, non-traditional room service is prohibited?' Mikhail probes point-blank whether Barinov really thought this through.
+- 'What is that lady doing here?' Focusing on the lady during the talk, Barinov reaches for the Russian word "damochka" ("little lady") right at the heart of the line.
+- 'You can always win it back! I cannot.' Pressing on quietly at once, the "-sya" ending on "otygratsya" ("to win back") marks an action that unfolds mutually or turns back on the speaker.
+- 'Right now I am fulfilling another wish.' Barinov replies candidly watching Mikhail, before Mikhail can change the subject.
+- 'Not yours.' Leaning in readily at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

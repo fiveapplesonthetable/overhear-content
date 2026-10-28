@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is a crowd of guys standing in the back courtyard.' Max points to one direct piece on cue: "zadnem" means "back, rear" (from "zadniy"), giving the line its exact edge.
-- 'It seems your father called them there.' Max offers that answer at once: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
-- 'And right now he led your boyfriend out there.' Max counters briskly in this moment, testing Ainura's reaction in the middle of the exchange.
-- 'I do not like the sound of this at all!' Katya spotlights one familiar detail in earnest: "nravitsya" means "is pleasing", and it carries the main weight of what Katya is saying.
-- 'Guys, let's all follow me quickly!' Katya holds firm quietly toward Ainura, saying out loud what both of them already know.
-- 'Ninety thousand, and you took ten this afternoon.' Max counters promptly with a shrug, keeping the focus on what actually matters here.
-- 'Wait, I will recount all the money right now.' Max underscores one vivid touch at once: "pereschitayu" means "will recount" (from "pereschitat"), giving the line its exact edge.
-- 'Ainura, have you seen my father?' Katya frames this answer on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'I saw him, he just went into the office.' Ainura answers steadily with a sigh, bringing things back to earth after the buildup.
-- 'A young guy in a leather jacket with a skull was with him.' Ainura spotlights this vivid piece in earnest: "kozhanoy" means "leather" (from "kozhanyy"), giving the line its exact edge.
-- 'A real pirate, probably, be careful!' Ainura chimes in plainly to settle things, grounding the moment in plain reality.
-- 'I will find them right now, wait here.' Katya follows up lightly to settle things, refusing to let the moment slip past.
+- 'There is a crowd of guys standing in the back courtyard.' Focusing on the yard on the spot, Max uses "zadnem" ("back, rear", from "zadniy") to make the point stick.
+- 'It seems your father called them there.' Holding firm earnestly before Katya, the "-sya" ending on "kazhetsya" ("it seems, I think") marks an action that unfolds mutually or turns back on the speaker.
+- 'And right now he led your boyfriend out there.' Max speaks briskly around Katya, bringing things back to earth after the buildup.
+- 'I do not like the sound of this at all!' Katya opens up frankly around Max and chooses "nravitsya" ("is pleasing") so Max gets the point right away.
+- 'Guys, let's all follow me quickly!' Pointing to the boys right here, Katya centers the remark on "rebyata" ("the boys, the lads") without any extra fuss.
+- 'Ninety thousand, and you took ten this afternoon.' Max jumps in promptly on the spot, testing Katya's reaction in the middle of the exchange.
+- 'Wait, I will recount all the money right now.' Pointing to the money with Katya, Max uses "pereschitayu" ("will recount", from "pereschitat") to make the point stick.
+- 'Ainura, have you seen my father?' Answering earnestly in the exchange, Katya keeps normal statement word order here, turning the line into a question for Ainura purely through rising pitch.
+- 'I saw him, he just went into the office.' Ainura cuts in steadily in this moment, letting the remark speak for itself.
+- 'A young guy in a leather jacket with a skull was with him.' Addressing the boyfriend during the talk, Ainura uses "kozhanoy" ("leather", from "kozhanyy") to make the point stick.
+- 'A real pirate, probably, be careful!' Bringing up a real pirate at once, Ainura chooses "nastoyashchiy" ("real, genuine") so Katya gets the point right away.
+- 'I will find them right now, wait here.' Katya follows up lightly with a sigh, letting the remark speak for itself.

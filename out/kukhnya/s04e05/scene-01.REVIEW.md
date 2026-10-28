@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' Vika points to this vivid expression toward Denis: "delayete" means "are doing" (from "delat"), giving the line its exact edge.
-- 'I did not think you would return so fast.' Denis makes that thought toward Vika: the "-sya" ending on "vernyotes" ("will return") turns the action inward or makes it happen between people naturally.
-- 'Vika, this is just a small misunderstanding.' Max counters warmly around Denis, keeping the focus on what actually matters here.
-- 'I want him to move out of our place.' Vika centers one direct element right here: "syekhal" means "move out" (from "syekhat"), giving the line its exact edge.
-- 'Vika, I promise he will move out soon.' Max holds firm decisively hearing Denis, testing Denis's reaction in the middle of the exchange.
-- 'You promised that he would stay for a week.' Vika cuts in plainly with Max, so Max knows she is not just making small talk.
-- 'You promised to talk with German.' Vika centers this clear choice for Denis: "obeshchal" means "promised" (from "obeshchat"), giving the line its exact edge.
-- 'You promised me not to scatter your socks.' Vika highlights this clear piece in earnest: "razbrasyvat" means "to socks", and it carries the main weight of what Vika is saying.
-- 'I do not scatter my socks anymore at all.' Max cuts in promptly without a pause, bringing things back to earth after the buildup.
-- 'And I already spoke with German yesterday.' Max anchors one pointed element right here: "pogovoril" means "to have a talk" (from "pogovorit"), giving the line its exact edge.
-- 'And what did German say to you?' Vika directs the remark toward Denis: putting the question word "chto" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'He is very interested in such a sous-chef.' Max answers earnestly with a shrug, grounding the moment in plain reality.
+- 'What are you doing here?' Vika pushes back decisively during the talk and brings in "delayete" ("are doing", from "delat") as the key Russian word here.
+- 'I did not think you would return so fast.' Weighing in plainly beside Vika, the "-sya" ending on "vernyotes" ("will return") marks an action that unfolds mutually or turns back on the speaker.
+- 'Vika, this is just a small misunderstanding.' Max steps in warmly around Vika, watching Vika's face to see how the news lands.
+- 'I want him to move out of our place.' Vika speaks dryly around Max and uses "syekhal" ("move out", from "syekhat") to make the point stick.
+- 'Vika, I promise he will move out soon.' Max steps in quietly beside Vika and centers the thought on "obeshchayu" ("promise", from "obeshchat") without wasting a word.
+- 'You promised that he would stay for a week.' Vika opens up plainly without holding back, grounding the moment in plain reality.
+- 'You promised to talk with German.' Vika speaks up plainly in front of Max and uses "obeshchal" ("promised", from "obeshchat") to make the point stick.
+- 'You promised me not to scatter your socks.' Vika proceeds calmly during the talk, so Max knows she is not just making small talk.
+- 'I do not scatter my socks anymore at all.' Max answers promptly hearing Vika, leaving no doubt about where he stands.
+- 'And I already spoke with German yesterday.' Max speaks candidly in the exchange and lands on "pogovoril" ("to have a talk", built on "pogovorit") to keep the statement grounded.
+- 'And what did German say to you?' Pushing back boldly beside Max, Vika puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'He is very interested in such a sous-chef.' Max responds earnestly in this moment, leaving no doubt about where he stands.

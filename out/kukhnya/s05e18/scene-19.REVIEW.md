@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your surprises are rather strange.' Katya centers one clear expression with Eleonora: "syurprizy" means "surprise" (from "syurpriz"), giving the line its exact edge.
-- 'Wait right here for literally a minute.' Nikita fires back sharply toward Katya, refusing to let the moment slip past.
-- 'Did you see a guy with a guitar around here?' Nikita inquires skeptically if there is more going on behind the scenes.
-- 'He just ran out of here quickly.' Nikita stresses one memorable choice in earnest: "vybezhal" means "ran out" (from "vybezhat"), giving the line its exact edge.
-- 'Mom, what are you doing here?' Katya sends that point beside Eleonora: putting the question word "chto" right at the front of the line lets Eleonora hear the point of the question on the very first beat.
-- 'You need not wait for him, he will not return.' Eleonora responds candidly as things stand, leaving no doubt about where she stands.
-- 'Why do you keep making the exact same mistake?' Eleonora highlights one practical term with Katya: "nastupayesh" means "to advance" (from "nastupat"), giving the line its exact edge.
-- 'After all, it already failed once for you two.' Eleonora shares the comeback to Nikita: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Mom, stop it, stay out of my life!' Katya chimes in sharply in this moment, letting the remark speak for itself.
-- 'First put your own life in order.' Katya emphasizes one practical choice on cue: "poryadok" means "order", and it carries the main weight of what Katya is saying.
-- 'Katya, wait, I was the one who invited him.' Nikita stands firm lightly with a smile, testing Eleonora's reaction in the middle of the exchange.
-- 'I want to be completely alone right now.' Katya chimes in dryly toward Nikita, before Nikita can change the subject.
+- 'Your surprises are rather strange.' Highlighting the surprise in the exchange, Katya centers the thought on "syurprizy" ("surprise", from "syurpriz") without wasting a word.
+- 'Wait right here for literally a minute.' Talking about a minute in this beat, Nikita leans on "minutu" ("a minute", a form of "minuta") to give the remark its edge.
+- 'Did you see a guy with a guitar around here?' Nikita inquires skeptically to see how Katya will answer on the spot.
+- 'He just ran out of here quickly.' Nikita responds firmly at once and centers the thought on "vybezhal" ("ran out", from "vybezhat") without wasting a word.
+- 'Mom, what are you doing here?' Reacting promptly at once, Katya puts the question word "chto" right at the start so Eleonora hears the focus immediately.
+- 'You need not wait for him, he will not return.' Eleonora answers candidly with Katya, keeping the focus on what actually matters here.
+- 'Why do you keep making the exact same mistake?' Bringing up the rake before Katya, Eleonora uses "nastupayesh" ("to advance", from "nastupat") to make the point stick.
+- 'After all, it already failed once for you two.' Turning smoothly beside Katya, the "-sya" ending on "poluchilos" ("worked out") marks an action that unfolds mutually or turns back on the speaker.
+- 'Mom, stop it, stay out of my life!' Katya opens up sharply without a pause, testing Eleonora's reaction in the middle of the exchange.
+- 'First put your own life in order.' Turning to the order during the talk, Katya lands on "poryadok" ("order") as the key everyday word here.
+- 'Katya, wait, I was the one who invited him.' Nikita speaks up decisively at once and leans on "podozhdi" ("wait", a form of "podozhdat") to give the remark its edge.
+- 'I want to be completely alone right now.' Katya reacts dryly on the spot, bringing things back to earth after the buildup.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Head chefs are the generals of the kitchen.' Max centers this telling word for Barinov: "shef-povara" means "head chef" (from "shef-povar"), giving the line its exact edge.
-- 'They control the situation.' Max hands over this statement at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Regular cooks are the salt of the kitchen earth.' Max weighs in quietly without any doubt, so Barinov knows he is not just making small talk.
-- 'They have the hardest job of all.' Max points to one telling element in reply: "slozhneye" means "job" (from "slozhniy"), giving the line its exact edge.
-- 'Pull yourselves together.' Elena drops that line at once: the "-sya" ending on "soberites" ("to get ready") turns the action inward or makes it happen between people naturally.
-- 'You haven't worked as an ordinary cook in a long time.' Elena reacts at once on the spot, watching Max's face to see how the news lands.
-- 'I simply did not get enough sleep.' Barinov frames one direct piece at once: "vyspalsya" means "got enough sleep" (from "vyspatsya"), giving the line its exact edge.
-- 'You have lost your edge, old timer.' Elena brings this answer at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I have not lost my edge at all.' Barinov jumps in dryly during the talk, shifting the whole mood of the room in a single beat.
-- 'Just look at yourself.' Elena picks one sharp word at once: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
-- 'You are talking to a tomato.' Elena reaches for this telling piece on cue: "razgovarivayesh" means "are talking" (from "razgovarivat"), giving the line its exact edge.
-- 'In reality he is a deeply civilian person.' Max jumps in calmly in this moment, testing Elena's reaction in the middle of the exchange.
+- 'Head chefs are the generals of the kitchen.' Turning to the head beside Barinov, Max chooses "shef-povara" ("head chef", from the root "shef-povar") so Barinov hears the exact meaning.
+- 'They control the situation.' Mentioning the situation on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Regular cooks are the salt of the kitchen earth.' Max steps in quietly across the room, steering the talk right where he wants it.
+- 'They have the hardest job of all.' Max speaks up candidly to Elena and leans on "slozhneye" ("job", a form of "slozhniy") to give the remark its edge.
+- 'Pull yourselves together.' Weighing in firmly on the spot, the "-sya" ending on "soberites" ("to get ready") marks an action that unfolds mutually or turns back on the speaker.
+- 'You haven't worked as an ordinary cook in a long time.' Elena continues at once without holding back, steering the talk right where she wants it.
+- 'I simply did not get enough sleep.' Barinov speaks boldly with Elena and lands on "vyspalsya" ("got enough sleep", built on "vyspatsya") to keep the statement grounded.
+- 'You have lost your edge, old timer.' Looking over earnestly in front of Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I have not lost my edge at all.' Barinov weighs in dryly around Elena, testing Elena's reaction in the middle of the exchange.
+- 'Just look at yourself.' Weighing in naturally to Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'You are talking to a tomato.' Elena reacts frankly without any doubt, testing Max's reaction in the middle of the exchange.
+- 'In reality he is a deeply civilian person.' Max speaks up calmly during the talk, bringing things back to earth after the buildup.

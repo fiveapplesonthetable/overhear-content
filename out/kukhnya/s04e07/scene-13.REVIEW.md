@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The signature onion soup for the guest is completely ready.' Senya chooses one clear choice in earnest: "firmennyy" means "signature", and it carries the main weight of what Senya is saying.
-- 'Arseny, you have been my ears and eyes.' German uses one vivid expression at once: "glazami" means "eyes" (from "glaz"), giving the line its exact edge.
-- 'Now the time has come to become my right hand.' German pushes back right away without any doubt, testing Senya's reaction in the middle of the exchange.
-- 'I need one small favor from you.' German features this direct term in earnest: "malenkoye" means "small, little" (from "malenkiy"), giving the line its exact edge.
-- 'Pour this sour vinegar into the onion soup.' German cuts in pointedly toward Senya, grounding the moment in plain reality.
-- 'German Mikhailovich, I cannot do that!' Senya answers steadily with a shrug, grounding the moment in plain reality.
-- 'After all, that is not decent at all, right?' Senya features one practical term in earnest: "po-chelovecheski" means "decently", and it carries the main weight of what Senya is saying.
-- 'Wait, Arseny, Barinov will leave here tomorrow already.' German continues decisively with a shrug, steering the talk right where he wants it.
-- 'And I will remain here as your head chef!' German proceeds warmly to settle things, so Senya knows he is not just making small talk.
-- 'And all of you still have to work with me.' German grounds one telling piece on cue: "yeshchyo" means "more, still", and it carries the main weight of what German is saying.
-- 'And for how long depends only on me!' German speaks firmly toward Senya, bringing things back to earth after the buildup.
-- 'Fine, give me your vinegar here, I will pour it.' Senya weighs in wryly to settle things, bringing things back to earth after the buildup.
+- 'The signature onion soup for the guest is completely ready.' Insisting on how signature things are beside German, Senya uses "firmennyy" ("signature") to carry the main weight of the thought.
+- 'Arseny, you have been my ears and eyes.' German jumps in at once without any doubt, grounding the moment in plain reality.
+- 'Now the time has come to become my right hand.' German pushes back right away across the room, so Senya knows he is not just making small talk.
+- 'I need one small favor from you.' Turning to the matter during the talk, German reaches for the Russian word "malenkoye" ("small, little", built from "malenkiy") right at the center of the line.
+- 'Pour this sour vinegar into the onion soup.' Touching on the vinegar at once, German chooses "lukovyy" ("onion") so Senya gets the point right away.
+- 'German Mikhailovich, I cannot do that!' Senya opens up steadily facing German, bringing things back to earth after the buildup.
+- 'After all, that is not decent at all, right?' Highlighting the honestly during the talk, Senya brings in "po-chelovecheski" ("decently") to make the meaning unmistakable.
+- 'Wait, Arseny, Barinov will leave here tomorrow already.' German reacts pointedly right here and reaches for the Russian word "podozhdi" ("wait", built from "podozhdat") right at the center of the line.
+- 'And I will remain here as your head chef!' German steps in warmly without a pause, letting the remark speak for itself.
+- 'And all of you still have to work with me.' German follows up plainly in front of Senya and leans on "yeshchyo" ("more, still") to give the whole sentence its punch.
+- 'And for how long depends only on me!' German fires back naturally during the talk and puts the weight on "zavisit" ("depends", from "zaviset") as the exchange unfolds.
+- 'Fine, give me your vinegar here, I will pour it.' Senya speaks up wryly during the talk, before German can change the subject.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So this is not your child?' Max drops the remark briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Are you a fool or what? Of course not.' Nagiyev probes skeptically about what Max just brought up.
-- 'Let me catch up with your bride and explain everything to her.' Max picks one classic choice toward Barinov: "nevestu" means "bride, fiancée" (from "nevesta"), giving the line its exact edge.
-- 'Do not sweat it, I am no longer sure about the bride anyway.' Nagiyev cuts in earnestly watching Max, to clear the air between them once and for all.
-- 'Let us go to the bar instead and celebrate my breakup.' Nagiyev speaks warmly without a pause, keeping the focus on what actually matters here.
-- 'Katya, sweetheart, open up!' Barinov colors one key expression toward Nagiyev: "dochenka" means "sweetheart", and it carries the main weight of what Barinov is saying.
-- 'Do you not have a key?' Barinov puts the comeback toward Max: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'She locked herself in from the inside.' Max speaks lightly as they talk, without trying to dress up how he really feels.
-- 'Then we will use my key.' Barinov emphasizes one concrete piece right here: "primenim" means "will use, apply" (from "primenit"), giving the line its exact edge.
-- 'Oh my God, she swallowed some kind of pills!' Max speaks up quietly beside Nagiyev, to clear the air between them once and for all.
-- 'Stop panicking!' Barinov reacts evenly with a shrug, saying out loud what both of them already know.
-- 'Come on, call an ambulance!' Barinov spotlights this sharp detail for Nagiyev: "skoruyu" means "ambulance" (from "skoraya"), giving the line its exact edge.
+- 'So this is not your child?' Jumping in firmly right here, Max keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Are you a fool or what? Of course not.' Nagiyev probes skeptically whether Max really thought this through.
+- 'Let me catch up with your bride and explain everything to her.' Pointing to the bride in this beat, Max puts the weight on "nevestu" ("bride, fiancée", from "nevesta") as the exchange unfolds.
+- 'Do not sweat it, I am no longer sure about the bride anyway.' Discussing the bride in front of Max, Nagiyev centers the thought on "nevesty" ("bride, fiancée", from "nevesta") without wasting a word.
+- 'Let us go to the bar instead and celebrate my breakup.' Focusing on the divorce across the room, Nagiyev cuts straight through the tension with Barinov.
+- 'Katya, sweetheart, open up!' Pointing to the sweetheart before Nagiyev, Barinov puts the emphasis on "dochenka" ("sweetheart") in the middle of the talk.
+- 'Do you not have a key?' Turning to a key to Max, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'She locked herself in from the inside.' Max speaks up lightly during the talk, before Barinov can change the subject.
+- 'Then we will use my key.' Turning to his key right here, Barinov puts the emphasis on "klyuch" ("key") in the middle of the talk.
+- 'Oh my God, she swallowed some kind of pills!' Turning to the pill before Barinov, Max puts the weight on "tabletok" ("pill, tablet", from "tabletka") as the exchange unfolds.
+- 'Stop panicking!' Barinov pushes back evenly in their talk, testing Max's reaction in the middle of the exchange.
+- 'Come on, call an ambulance!' Addressing an ambulance beside Max, Barinov uses "skoruyu" ("ambulance", from "skoraya") to make the point stick.

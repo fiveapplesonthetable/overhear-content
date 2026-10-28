@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I beg you, please forgive me for everything!' Max phrases this update to Kostya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Tell me honestly, Max, will you marry me?' Vika questions earnestly if there is more going on behind the scenes.
-- 'They say the properties of human memory have still not been studied.' Max frames one loaded touch in reply: "chelovecheskoy" means "human" (from "chelovecheskiy"), giving the line its exact edge.
-- 'In difficult moments we remember someone truly close to us.' Max continues evenly hearing Vika, watching Vika's face to see how the news lands.
+- 'Vika, I beg you, please forgive me for everything!' Max fires back openly with a sigh, steering the talk right where he wants it.
+- 'Tell me honestly, Max, will you marry me?' Vika questions earnestly while looking straight at Max here.
+- 'They say the properties of human memory have still not been studied.' Bringing up the properties to Vika, Max brings in "chelovecheskoy" ("human", from "chelovecheskiy") as the key Russian word here.
+- 'In difficult moments we remember someone truly close to us.' Discussing the minutes beside Vika, Max puts the emphasis on "po-nastoyashchemu" ("truly") in the middle of the talk.
 - 'Why is it sometimes so hard to forget all grievances?' Max inquires deadpan about what Kostya just brought up.
-- 'And remember that there is nothing more important than old proven friendship.' Max reaches for one practical term at once: "proverennoy" means "tested, proven" (from "proverennyy"), giving the line its exact edge.
-- 'Max, why are you standing there by the door?' Kostya hands over that line calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Come over here quickly, look what a son was born to me!' Kostya answers warmly on the spot, making his position completely clear.
-- 'In our life there are such wonderful and bright moments.' Max underscores one practical expression in earnest: "chudesnyye" means "wonderful, miraculous" (from "chudesnyy"), giving the line its exact edge.
-- 'Which one wants to keep forever in one's memory.' Max directs that reply calmly now: the "-sya" ending on "khochetsya" ("want, feel like") turns the action inward or makes it happen between people naturally.
-- 'Kostik, how wrong I was this morning!' Vika responds wryly as things stand, making her position completely clear.
-- 'Because this is the very best day of my life!' Vika favors one clear element at once: "luchshiy" means "best", and it carries the main weight of what Vika is saying.
+- 'And remember that there is nothing more important than old proven friendship.' Making clear how tested things are before Kostya, Max lands on "proverennoy" ("tested, proven", built on "proverennyy") to keep the statement grounded.
+- 'Max, why are you standing there by the door?' Reacting evenly beside Max, Kostya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Come over here quickly, look what a son was born to me!' Kostya continues warmly without holding back, bringing things back to earth after the buildup.
+- 'In our life there are such wonderful and bright moments.' Explaining how wonderful things are before Kostya, Max centers the thought on "chudesnyye" ("wonderful, miraculous", from "chudesnyy") without wasting a word.
+- 'Which one wants to keep forever in one's memory.' Checking on the memory right here, the "-sya" ending on "khochetsya" ("want, feel like") marks an action that unfolds mutually or turns back on the speaker.
+- 'Kostik, how wrong I was this morning!' Vika continues wryly hearing Kostya, making her position completely clear.
+- 'Because this is the very best day of my life!' Emphasizing how best things are in the exchange, Vika uses "luchshiy" ("best") to carry the main weight of the thought.

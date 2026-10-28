@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do whatever you want.' Barinov holds firm steadily as things stand, to clear the air between them once and for all.
-- 'But the sauté pan must be with me.' Barinov spotlights this key detail for Senya: "soteynik" means "pan", and it carries the main weight of what Barinov is saying.
-- 'Maybe it is simpler to buy a new one?' Senya makes this update on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'I need mine.' Barinov stands firm earnestly around Senya, leaving no doubt about where he stands.
-- 'Chef, that is impossible.' Listen to how Senya counters Barinov without pause — the Russian word "nevozmozhno" ("impossible") gives the whole sentence its punch.
-- 'German hid the sauté pan in the safe.' Senya replies pointedly as things stand, saying out loud what both of them already know.
-- 'So first we have to steal the keys.' Senya reacts warmly across the room, bringing things back to earth after the buildup.
-- 'You will not abandon me in a difficult moment?' Barinov uses this vivid expression right here: "trudnuyu" means "difficult, hard" (from "trudnyy"), giving the line its exact edge.
-- 'Fine, I am taking you to the banya.' Barinov shapes that thought right away: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Louis is on board.
-- 'How will we pull the keys out of his pocket?' Senya quizzes calmly in front of Louis without any preamble.
-- 'We can put him to sleep first.' Louis leans on one vivid expression on cue: "snachala" means "first, at first", and it carries the main weight of what Louis is saying.
-- 'I have sleeping medicine.' Louis hands over that point briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Louis, let's skip the details.' Barinov opens up frankly watching Louis, shifting the whole mood of the room in a single beat.
-- 'But the thoughts are good, friends.' Barinov stresses one key piece in reply: "khoroshiye" means "good" (from "khoroshiy"), giving the line its exact edge.
+- 'Do whatever you want.' Barinov chimes in steadily without holding back, refusing to let the moment slip past.
+- 'But the sauté pan must be with me.' Addressing the pan on the spot, Barinov lands on "soteynik" ("pan") as the key everyday word here.
+- 'Maybe it is simpler to buy a new one?' Reacting dryly in the exchange, Senya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'I need mine.' Barinov speaks earnestly without a pause, making his position completely clear.
+- 'Chef, that is impossible.' Senya answers vividly in the exchange and lands on "nevozmozhno" ("impossible") as the key everyday word here.
+- 'German hid the sauté pan in the safe.' Underscoring the pan on the spot, Senya brings in "soteynik" ("pan") to make the meaning unmistakable.
+- 'So first we have to steal the keys.' Senya opens up warmly with a sigh, grounding the moment in plain reality.
+- 'You will not abandon me in a difficult moment?' Bringing up the minute right here, Barinov lands on "trudnuyu" ("difficult, hard", built on "trudnyy") to keep the statement grounded.
+- 'Fine, I am taking you to the banya.' Barinov jumps in bluntly without a pause, watching Senya's face to see how the news lands.
+- 'How will we pull the keys out of his pocket?' Senya quizzes calmly to see how Louis will answer on the spot.
+- 'We can put him to sleep first.' Louis cuts in briskly around Senya and brings in "snachala" ("first, at first") to make the meaning unmistakable.
+- 'I have sleeping medicine.' Replying smoothly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Louis, let's skip the details.' Barinov pushes back frankly beside Louis, letting the remark speak for itself.
+- 'But the thoughts are good, friends.' Emphasizing how good things are right here, Barinov puts the weight on "khoroshiye" ("good", from "khoroshiy") as the exchange unfolds.

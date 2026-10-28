@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Vitya, what do you think, will my wife forgive me?' Nagiyev presses candidly why things suddenly took this turn between them.
-- 'That depends on how hard you try.' Barinov focuses on one telling detail with Nagiyev: "staratsya" means "try", and it carries the main weight of what Barinov is saying.
-- 'I will try hard, because an actor's career is very short.' Nagiyev drops the reply plainly here: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Today you are a star, and tomorrow they will kick you off television.' Barinov proceeds wryly as they talk, keeping the focus on what actually matters here.
-- 'And here there are four floors and an excellent restaurant.' Barinov colors one clear touch right here: "otlichnyy" means "excellent, great", and it carries the main weight of what Barinov is saying.
-- 'Tell me, is she in her office right now?' Nagiyev voices that point at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Eleonora purely through rising pitch at the end.
-- 'No, she just recently came out to have dinner.' Barinov continues candidly without a pause, without trying to dress up how he really feels.
-- 'Elechka, enjoy your meal, I have a surprise for you.' Barinov sharpens this sharp element right here: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
-- 'If I see orderlies again, I will hit you with a bottle!' Eleonora spotlights one colorful term at once: "sanitarov" means "orderlies" (from "sanitar"), giving the line its exact edge.
-- 'No, I called Dima, he came to make peace.' Barinov speaks at once watching Nagiyev, keeping the focus on what actually matters here.
-- 'What Dima did you call here to see me?' Eleonora points to one concrete choice in earnest: "yeshchyo" means "more, still", and it carries the main weight of what Eleonora is saying.
-- 'Your husband Nagiyev, here he comes toward us!' Barinov holds firm honestly around Nagiyev, letting the remark speak for itself.
+- 'Hello, Vitya, what do you think, will my wife forgive me?' Nagiyev presses candidly about what Barinov just brought up.
+- 'That depends on how hard you try.' Barinov answers frankly to Nagiyev and leans on "staratsya" ("try") to give the whole sentence its punch.
+- 'I will try hard, because an actor's career is very short.' Talking about an actor in this beat, Nagiyev adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Today you are a star, and tomorrow they will kick you off television.' Barinov fires back wryly without holding back, without trying to dress up how he really feels.
+- 'And here there are four floors and an excellent restaurant.' Stressing how excellent things are in this beat, Barinov centers the remark on "otlichnyy" ("excellent, great") without any extra fuss.
+- 'Tell me, is she in her office right now?' Touching on the office in front of Barinov, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'No, she just recently came out to have dinner.' Barinov cuts in candidly with a nod, making his position completely clear.
+- 'Elechka, enjoy your meal, I have a surprise for you.' Turning to the appetite beside Eleonora, Barinov puts the weight on "priyatnogo" ("pleasant", from "priyatnyy") as the exchange unfolds.
+- 'If I see orderlies again, I will hit you with a bottle!' Eleonora pushes back right away hearing Barinov, bringing things back to earth after the buildup.
+- 'No, I called Dima, he came to make peace.' Barinov speaks up at once with Eleonora, before Eleonora can change the subject.
+- 'What Dima did you call here to see me?' Eleonora steps in pointedly on the spot and lands on "yeshchyo" ("more, still") as the key everyday word here.
+- 'Your husband Nagiyev, here he comes toward us!' Bringing up the husband before Nagiyev, Barinov puts the weight on "muzha" ("husband", from "muzh") as the exchange unfolds.

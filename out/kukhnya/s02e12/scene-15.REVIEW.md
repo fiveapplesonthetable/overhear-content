@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is my tartare?' Vika presses earnestly before Nagiyev can change the subject.
-- 'The boy went out first.' Nagiyev underscores one key word toward Vika: "malchik" means "boy", and it carries the main weight of what Nagiyev is saying.
-- 'No panic, we keep working.' Vika directs this answer without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'All right, come over here, you are going to help me.' Nagiyev answers calmly around Vika, steering the talk right where he wants it.
-- 'No, I wash the dishes.' Vika grounds one telling piece at once: "posudu" means "the dishes" (from "posuda"), giving the line its exact edge.
-- 'You are going to help me. No.' Nagiyev aims the comment around Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'You are just in time, we are swamped with orders.' Vika follows up dryly to be clear, grounding the moment in plain reality.
-- 'Wait, where is everybody?' Nagiyev voices that thought for Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I do not know.' Vika aims the thought right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'All right, let us roll.' Nagiyev counters briskly as they talk, shifting the whole mood of the room in a single beat.
-- 'You take the cold sauces, I am on the hot soups.' Vika chooses one vivid choice at once: "kholodnom" means "cold, chilly" (from "kholodnyy"), giving the line its exact edge.
-- 'Okay, pepper.' Nagiyev drops the remark toward Vika: the "-sya" ending on "perets" ("pepper") turns the action inward or makes it happen between people naturally.
-- 'What a crazy rush that was.' Vika responds openly with a smile, bringing things back to earth after the buildup.
+- 'Where is my tartare?' Vika presses earnestly where this conversation is heading next.
+- 'The boy went out first.' Focusing on the boy during the talk, Nagiyev uses "malchik" ("boy") to carry the main weight of the thought.
+- 'No panic, we keep working.' Checking on the panic during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'All right, come over here, you are going to help me.' Nagiyev answers calmly with Vika, steering the talk right where he wants it.
+- 'No, I wash the dishes.' Addressing the dishes in front of Nagiyev, Vika brings in "posudu" ("the dishes", from "posuda") as the key Russian word here.
+- 'You are going to help me. No.' Pushing back earnestly with Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'You are just in time, we are swamped with orders.' Vika opens up dryly facing Nagiyev, without trying to dress up how she really feels.
+- 'Wait, where is everybody?' Pressing on openly at once, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I do not know.' Cutting in promptly before Nagiyev, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'All right, let us roll.' Nagiyev counters briskly toward Vika, leaving no doubt about where he stands.
+- 'You take the cold sauces, I am on the hot soups.' Insisting on how cold she is with Nagiyev, Vika uses "kholodnom" ("cold, chilly", from "kholodnyy") to make the point stick.
+- 'Okay, pepper.' Pointing to the pepper with Vika, the "-sya" ending on "perets" ("pepper") marks an action that unfolds mutually or turns back on the speaker.
+- 'What a crazy rush that was.' Vika cuts in openly toward Nagiyev, testing Nagiyev's reaction in the middle of the exchange.

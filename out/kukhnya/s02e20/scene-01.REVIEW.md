@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Which I worked for almost a year to achieve.' Barinov uses this telling choice at once: "dobivalsya" means "to strive for" (from "dobivatsya"), giving the line its exact edge.
-- 'And I am ready to do anything to get it back.' Timur cuts in boldly without any doubt, watching Max's face to see how the news lands.
-- 'Timur, hey there.' Barinov stands firm calmly without holding back, leaving no doubt about where he stands.
-- 'What did you bring today?' Timur anchors one practical detail right here: "privez" means "to bring" (from "privezti"), giving the line its exact edge.
-- 'Breakfast is served.' Barinov puts the remark at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'What on earth is that?' Timur asks calmly whether Max really thought this through.
-- 'I will call a repairman.' Barinov features one sharp touch on cue: "mastera" means "technician" (from "master"), giving the line its exact edge.
-- 'I can handle it myself.' Timur gives that thought before Max: the "-sya" ending on "spravlyus" ("will manage") turns the action inward or makes it happen between people naturally.
-- 'There is simply a loose contact inside here.' Barinov speaks evenly facing Max, testing Max's reaction in the middle of the exchange.
-- 'I am saying, you and I are both grown adults.' Timur emphasizes this key piece with Max: "vzroslyye" means "grown-ups, adults" (from "vzroslyy"), giving the line its exact edge.
-- 'Hey, Vitya, watch out.' Max hands over this warning without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I cannot move in with you.' Timur follows up wryly with Max, grounding the moment in plain reality.
-- 'Because I simply cannot move in with you.' Barinov favors one sharp piece at once: "pereyekhat" means "to move in", and it carries the main weight of what Barinov is saying.
+- 'Which I worked for almost a year to achieve.' Touching on a year in this beat, Barinov lands on "dobivalsya" ("to strive for", built on "dobivatsya") to keep the statement grounded.
+- 'And I am ready to do anything to get it back.' Underscoring how ready he is to Barinov, Timur uses "gotov" ("ready", from "gotovyy") to make the point stick.
+- 'Timur, hey there.' Barinov briskly speaks this casual greeting without hesitation using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'What did you bring today?' Timur weighs in vividly right here and reaches for the Russian word "privez" ("to bring", built from "privezti") right at the center of the line.
+- 'Breakfast is served.' Pushing back directly around Timur, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'What on earth is that?' Timur asks calmly why things suddenly took this turn between them.
+- 'I will call a repairman.' Turning to the technician to Timur, Barinov chooses "mastera" ("technician", from the root "master") so Timur hears the exact meaning.
+- 'I can handle it myself.' Holding firm smoothly before Barinov, the "-sya" ending on "spravlyus" ("will manage") marks an action that unfolds mutually or turns back on the speaker.
+- 'There is simply a loose contact inside here.' Barinov speaks evenly around Timur, so Timur knows he is not just making small talk.
+- 'I am saying, you and I are both grown adults.' Timur cuts in firmly around Barinov and puts the weight on "vzroslyye" ("grown-ups, adults", from "vzroslyy") as the exchange unfolds.
+- 'Hey, Vitya, watch out.' Following up plainly on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I cannot move in with you.' Timur opens up wryly during the talk, without trying to dress up how he really feels.
+- 'Because I simply cannot move in with you.' Barinov fires back readily to Timur and uses "pereyekhat" ("to move in") to carry the main weight of the thought.

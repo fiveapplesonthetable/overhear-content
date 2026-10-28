@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, look, what is this?' Lyova tests straight out about what Barinov just brought up.
-- 'Stay calm, Lyova, it seems this is it.' Barinov highlights one pointed element in earnest: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'Do you remember where our fish is from?' Barinov gives this point right away: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Our fish is from Yakutia.' Lyova follows up firmly hearing Barinov, watching Barinov's face to see how the news lands.
-- 'And what do we have in Yakutia?' Barinov underscores one key detail with Lyova: "yakutii" means "morning" (from "yakutiya"), giving the line its exact edge.
-- 'That's right, they mine real diamonds there!' Barinov continues calmly with a nod, to clear the air between them once and for all.
-- 'Chef, could this really be contraband?' Lyova tests eagerly whether Barinov really thought this through.
-- 'Maybe we should call the police?' Lyova anchors one pointed word toward Barinov: "politsiyu" means "the police" (from "politsiya"), giving the line its exact edge.
-- 'Hello, Timur, this is Viktor Petrovich!' Barinov shapes that thought with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Do you remember I took a fish this morning?' Barinov checks deadpan as Lyova tries to explain the situation.
-- 'Do you still have any of this fish left?' Barinov features this vivid choice with Lyova: "yeshchyo" means "more, still", and it carries the main weight of what Barinov is saying.
-- 'Bring absolutely all the fish over here!' Barinov offers the comeback with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Yes, I liked the fish very much!' Barinov responds pointedly on the spot, so Lyova knows he is not just making small talk.
+- 'Chef, look, what is this?' Lyova tests straight out before Barinov can change the subject.
+- 'Stay calm, Lyova, it seems this is it.' Barinov continues briskly in this beat and brings in "kazhetsya" ("it seems, I think", from "kazatsya") as the key Russian word here.
+- 'Do you remember where our fish is from?' Bringing up his fish at once, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Our fish is from Yakutia.' Lyova chimes in firmly on the spot, making his position completely clear.
+- 'And what do we have in Yakutia?' Pointing to the morning during the talk, Barinov leans on "yakutii" ("morning", a form of "yakutiya") to give the remark its edge.
+- 'That's right, they mine real diamonds there!' Underscoring the diamonds during the talk, Barinov chooses "nastoyashchiye" ("real", from the root "nastoyashchiy") so Lyova hears the exact meaning.
+- 'Chef, could this really be contraband?' Lyova tests eagerly why things suddenly took this turn between them.
+- 'Maybe we should call the police?' Emphasizing the police in the exchange, Lyova chooses "politsiyu" ("the police", from the root "politsiya") so Barinov hears the exact meaning.
+- 'Hello, Timur, this is Viktor Petrovich!' Opening up plainly at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Do you remember I took a fish this morning?' Barinov checks deadpan where this conversation is heading next.
+- 'Do you still have any of this fish left?' Turning to the fish right here, Barinov brings in "yeshchyo" ("more, still") to make the meaning unmistakable.
+- 'Bring absolutely all the fish over here!' Mentioning the bring in the exchange, Barinov drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Yes, I liked the fish very much!' Barinov answers pointedly in this moment, before Lyova can change the subject.

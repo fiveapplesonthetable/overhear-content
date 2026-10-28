@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, do not listen to her, she is talking nonsense!' Max centers one loaded word in earnest: "yerundu" means "nonsense" (from "yerunda"), giving the line its exact edge.
-- 'I do not follow, she was talking about a new purchase.' Vika cuts in firmly to be clear, bringing things back to earth after the buildup.
-- 'Because your old machine broke yesterday.' Vika jumps in lightly across the room, making her position completely clear.
-- 'Why buy a new one? Maybe I can manage to fix it.' Max picks one practical term with Vika: "poluchitsya" means "will come out", and it carries the main weight of what Max is saying.
-- 'Alright then, be sure to tell me if anything comes up.' Vika aims the reaction frankly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Katya is on board.
-- 'Katya, please forgive me for everything.' Max proceeds firmly during the talk, letting the remark speak for itself.
-- 'Just now that looked very foolish from the outside.' Max colors one vivid word for Katya: "vyglyadelo" means "looked" (from "vyglyadet"), giving the line its exact edge.
-- 'All of this is because I still love Vika.' Max steps in honestly without any doubt, bringing things back to earth after the buildup.
-- 'What, do you think I am blind and see nothing?' Katya tests skeptically before Max can change the subject.
-- 'I understood everything a very long time ago.' Katya highlights one clear word in reply: "ponyala" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'Forget it? So everything is fine, we are friends?' Max frames that thought at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Yes, everything is great, we remain good friends.' Katya speaks up wryly hearing Vika, leaving no doubt about where she stands.
+- 'Vika, do not listen to her, she is talking nonsense!' Turning to the nonsense to Vika, Max lands on "yerundu" ("nonsense", built on "yerunda") to keep the statement grounded.
+- 'I do not follow, she was talking about a new purchase.' Talking about a new purchase before Max, Vika reaches for the Russian word "pokupke" ("purchase, buying", built from "pokupka") right at the center of the line.
+- 'Because your old machine broke yesterday.' Vika replies lightly with a sigh, watching Max's face to see how the news lands.
+- 'Why buy a new one? Maybe I can manage to fix it.' Max reacts readily during the talk and puts the emphasis on "poluchitsya" ("will come out") in the middle of the talk.
+- 'Alright then, be sure to tell me if anything comes up.' Vika fires back quietly in the exchange and brings in "obyazatelno" ("surely, without fail") to make the meaning unmistakable.
+- 'Katya, please forgive me for everything.' Max fires back firmly beside Katya, leaving no doubt about where he stands.
+- 'Just now that looked very foolish from the outside.' Focusing on the side around Vika, Max reaches for the Russian word "storony" ("side", built from "storona") right at the center of the line.
+- 'All of this is because I still love Vika.' Max steps in pointedly right here and reaches for the Russian word "lyublyu" ("love", built from "lyubit") right at the center of the line.
+- 'What, do you think I am blind and see nothing?' Katya tests skeptically whether Max really thought this through.
+- 'I understood everything a very long time ago.' Katya jumps in promptly beside Max and reaches for the Russian word "ponyala" ("understood", built from "ponyat") right at the center of the line.
+- 'Forget it? So everything is fine, we are friends?' Returning to the order during the talk, Max keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Yes, everything is great, we remain good friends.' Katya steps in wryly with a sigh, watching Max's face to see how the news lands.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mikhail Dzhekovich, I need to speak with you urgently!' Barinov grounds this direct detail right here: "pogovorit" means "to talk", and it carries the main weight of what Barinov is saying.
-- 'Viktor Petrovich, wait, I am a bit busy right now.' Mikhail continues wryly beside the guest, leaving no doubt about where he stands.
-- 'Yuri Ivanovich, here is your ticket, just as I promised.' Mikhail counters bluntly as things stand, testing Barinov's reaction in the middle of the exchange.
-- 'Splendid, tell me, how much do I owe you for it?' The guest centers one direct expression on cue: "dolzhen" means "has to, must", and it carries the main weight of what the guest is saying.
-- 'Oh come now, do not offend me, it is a gift!' Mikhail emphasizes one key touch in earnest: "obizhayte" means "to hurt, to offend" (from "obizhat"), giving the line its exact edge.
-- 'Alright, thank you and all the best.' The guest opens up plainly on the spot, saying out loud what both of them already know.
-- 'Wait, did you just give him my ticket?' Barinov emphasizes one colorful choice with the guest: "bilet" means "ticket", and it carries the main weight of what Barinov is saying.
-- 'Our Vitya knows how to lose very gracefully!' Mikhail reacts plainly hearing the guest, letting the remark speak for itself.
-- 'Stop! Where is the ticket that you were just given?' Barinov asks deadpan as the guest tries to explain the situation.
-- 'I am the real owner of that ticket, return it to me!' Barinov uses this key element in reply: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Barinov is saying.
-- 'I will not return anything to you, do not touch the car!' The guest aims this update frankly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'What are you doing? Leave my ticket alone immediately!' The guest challenges earnestly what Mikhail is actually getting at here.
+- 'Mikhail Dzhekovich, I need to speak with you urgently!' Barinov fires back naturally during the talk and uses "pogovorit" ("to talk") to carry the main weight of the thought.
+- 'Viktor Petrovich, wait, I am a bit busy right now.' Mikhail speaks briskly at once and brings in "podozhdite" ("wait", from "podozhdat") as the key Russian word here.
+- 'Yuri Ivanovich, here is your ticket, just as I promised.' Mikhail replies bluntly toward the guest, bringing things back to earth after the buildup.
+- 'Splendid, tell me, how much do I owe you for it?' The guest reacts naturally around Mikhail and puts the emphasis on "dolzhen" ("has to, must") in the middle of the talk.
+- 'Oh come now, do not offend me, it is a gift!' Mikhail chimes in warmly without a pause, without trying to dress up how he really feels.
+- 'Alright, thank you and all the best.' The guest chimes in plainly with a smile, refusing to let the moment slip past.
+- 'Wait, did you just give him my ticket?' Highlighting his ticket on the spot, Barinov centers the remark on "bilet" ("ticket") without any extra fuss.
+- 'Our Vitya knows how to lose very gracefully!' Mikhail answers naturally with Barinov and reaches for the Russian word "proigryvat" ("to lose") right at the heart of the line.
+- 'Stop! Where is the ticket that you were just given?' Barinov asks deadpan why things suddenly took this turn between them.
+- 'I am the real owner of that ticket, return it to me!' Pointing out how real he is around the guest, Barinov uses "nastoyashchiy" ("real, genuine") to carry the main weight of the thought.
+- 'I will not return anything to you, do not touch the car!' Returning to the car with Barinov, the guest pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'What are you doing? Leave my ticket alone immediately!' The guest challenges earnestly to see how Barinov will answer on the spot.

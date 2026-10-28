@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well here we are, come on in.' The guest counters calmly during the talk, before Kostya can change the subject.
-- 'And will this friend of yours not cheat us?' Kostya underscores this direct piece in earnest: "obmanet" means "will deceive" (from "obmanut"), giving the line its exact edge.
-- 'He does not care about your money.' The guest points to this vivid choice with Kostya: "dengi" means "money", and it carries the main weight of what the guest is saying.
-- 'The main thing is that you look after the apartment while he is abroad.' The guest fires back briskly facing Nastya, before Nastya can change the subject.
-- 'Dad, tell me honestly, is he in prison?' Nastya uses one pointed word in reply: "tyurme" means "prison" (from "tyurma"), giving the line its exact edge.
-- 'No, he moved away to live by the sea.' The guest steps in openly during the talk, without trying to dress up how he really feels.
-- 'I am giving you this apartment as a gift.' The guest pushes back wryly as things stand, before Kostya can change the subject.
-- 'Thank you, the apartment?' Kostya reaches for one classic detail on cue: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Just do not say anything to her.' The guest offers this warning briskly now: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'You know her, she will refuse it.' The guest counters earnestly without any doubt, letting the remark speak for itself.
-- 'What are you two whispering about here?' Nastya favors one telling choice in earnest: "shepchetes" means "whisper to each other" (from "sheptatsya"), giving the line its exact edge.
-- 'Your dad just gave us a blender as a gift.' Kostya frames one concrete expression in reply: "blender" means "blender", and it carries the main weight of what Kostya is saying.
+- 'Well here we are, come on in.' The guest replies calmly around Kostya, refusing to let the moment slip past.
+- 'And will this friend of yours not cheat us?' Emphasizing the friend before the guest, Kostya chooses "drug" ("friend") so the guest gets the point right away.
+- 'He does not care about your money.' The guest steps in earnestly watching Kostya, watching Kostya's face to see how the news lands.
+- 'The main thing is that you look after the apartment while he is abroad.' The guest weighs in briskly with a sigh, making his position completely clear.
+- 'Dad, tell me honestly, is he in prison?' Mentioning the prison beside the guest, Nastya puts the weight on "tyurme" ("prison", from "tyurma") as the exchange unfolds.
+- 'No, he moved away to live by the sea.' Underscoring the sea with Nastya, the guest centers the thought on "uyekhal" ("left, went away", from "uyekhat") without wasting a word.
+- 'I am giving you this apartment as a gift.' The guest pushes back wryly without any doubt, testing Kostya's reaction in the middle of the exchange.
+- 'Thank you, the apartment?' Kostya quietly speaks this word of thanks while facing the guest using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Just do not say anything to her.' Stepping in quietly right here, the guest pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'You know her, she will refuse it.' The guest speaks up earnestly on the spot, steering the talk right where he wants it.
+- 'What are you two whispering about here?' Nastya chimes in pointedly at once and leans on "shepchetes" ("whisper to each other", a form of "sheptatsya") to give the remark its edge.
+- 'Your dad just gave us a blender as a gift.' Kostya chimes in decisively toward Nastya, letting the remark speak for itself.

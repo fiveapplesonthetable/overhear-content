@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, wake up and get out of bed quickly.' Gulya speaks frankly in this moment, leaving no doubt about where she stands.
-- 'Tell me, are you going to the shower right now this morning?' Gulya sharpens one key word toward Lyova: "poydyosh" means "will you go" (from "poyti"), giving the line its exact edge.
-- 'I specially saved a spot in line for you there in advance.' Gulya frames one classic expression right here: "spetsialno" means "on purpose", and it carries the main weight of what Gulya is saying.
-- 'Come on, run quickly, you are third in line right now.' Gulya holds firm right away to be clear, grounding the moment in plain reality.
-- 'I need to urgently look for an apartment today!' Lyova uses this clear detail right here: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Tell me, do you feel at least a little better right now?' The doctor aims the remark to Lyova: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'Or maybe we will take the opposite approach?' The doctor questions promptly how Gulya expects that to work in practice.
-- 'Try to calmly understand and forgive your husband.' The doctor reaches for one vivid touch in earnest: "poprobuyte" means "try, taste" (from "poprobovat"), giving the line its exact edge.
-- 'Still, it was a big mistake for me to hire you back!' Gulya grounds one telling word for the doctor: "vzyala" means "took" (from "vzyat"), giving the line its exact edge.
-- 'The most important thing is to exclude the ex-husband from her life.' The doctor holds firm promptly without holding back, refusing to let the moment slip past.
-- 'So that she does not see him either in magazines or on television.' The doctor grounds one telling choice right here: "zhurnalakh" means "log, register" (from "zhurnal"), giving the line its exact edge.
-- 'Otherwise it will simply be unsafe for everyone.' The doctor states that point right away: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Lyova, wake up and get out of bed quickly.' Turning to the bed with a nod, Gulya cuts straight through the tension with Lyova.
+- 'Tell me, are you going to the shower right now this morning?' Turning to the shower before Lyova, Gulya chooses "poydyosh" ("will you go", from the root "poyti") so Lyova hears the exact meaning.
+- 'I specially saved a spot in line for you there in advance.' Gulya follows up evenly on the spot, watching Lyova's face to see how the news lands.
+- 'Come on, run quickly, you are third in line right now.' Gulya chimes in right away beside Lyova, before Lyova can change the subject.
+- 'I need to urgently look for an apartment today!' Mentioning the flat at once, Lyova centers the thought on "kvartiru" ("flat", from "kvartira") without wasting a word.
+- 'Tell me, do you feel at least a little better right now?' Leaning in readily during the talk, the doctor keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'Or maybe we will take the opposite approach?' The doctor questions promptly what Gulya is actually getting at here.
+- 'Try to calmly understand and forgive your husband.' Bringing up the husband around Gulya, the doctor brings in "poprobuyte" ("try, taste", from "poprobovat") as the key Russian word here.
+- 'Still, it was a big mistake for me to hire you back!' Gulya replies pointedly without holding back, bringing things back to earth after the buildup.
+- 'The most important thing is to exclude the ex-husband from her life.' The doctor responds promptly in this moment, so Gulya knows he is not just making small talk.
+- 'So that she does not see him either in magazines or on television.' Talking about the log in front of Gulya, the doctor chooses "zhurnalakh" ("log, register", from the root "zhurnal") so Gulya hears the exact meaning.
+- 'Otherwise it will simply be unsafe for everyone.' Stepping in firmly beside Gulya, the doctor uses the little word "prosto" ("simply, just") to make the point sound effortless.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have a slight problem with my stomach.' Kostya counters sharply with a shrug, making his position completely clear.
-- 'Can you stand behind the bar for a little while?' Notice how Kostya tells Louis without pause — the Russian word "postoyat" ("wait") gives the whole sentence its punch.
-- 'No problem, Kostya, I will help you.' Louis emphasizes this telling expression toward the guest: "problem" means "problems" (from "problema"), giving the line its exact edge.
-- 'Are you not worried about the show?' Louis checks briskly where this conversation is heading next.
-- 'No, I am not participating in it tomorrow.' The guest grounds this key choice at once: "uchastvuyu" means "am taking part" (from "uchastvovat"), giving the line its exact edge.
-- 'Tomorrow I finally have a free day off!' The guest delivers this answer without pause: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Let us drink this champagne to you, Polina!' Louis answers frankly facing the guest, without trying to dress up how he really feels.
-- 'I did not know a girl could be so beautiful.' Louis spotlights this telling choice with Kostya: "devushka" means "girlfriend", and it carries the main weight of what Louis is saying.
-- 'Thank you very much, you really helped me out.' Kostya directs the reply at once: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Kostya, I am taking cold champagne right now.' Louis follows up quietly across the room, shifting the whole mood of the room in a single beat.
-- 'I am going to a room with a beautiful girl!' Louis reaches for one colorful detail in reply: "devushkoy" means "girl, young woman" (from "devushka"), giving the line its exact edge.
-- 'How much I love my wife!' Kostya jumps in steadily in their talk, watching Louis's face to see how the news lands.
+- 'I have a slight problem with my stomach.' Kostya speaks sharply with Louis, grounding the moment in plain reality.
+- 'Can you stand behind the bar for a little while?' Bringing up the bar beside Louis, Kostya puts the emphasis on "postoyat" ("wait") in the middle of the talk.
+- 'No problem, Kostya, I will help you.' Talking about the problems with a shrug, Louis keeps Kostya's attention locked on what matters.
+- 'Are you not worried about the show?' Louis checks briskly whether the guest really thought this through.
+- 'No, I am not participating in it tomorrow.' The guest steps in openly with Louis and brings in "uchastvuyu" ("am taking part", from "uchastvovat") as the key Russian word here.
+- 'Tomorrow I finally have a free day off!' The guest answers promptly facing Louis, before Louis can change the subject.
+- 'Let us drink this champagne to you, Polina!' Louis cuts in frankly during the talk, so the guest knows he is not just making small talk.
+- 'I did not know a girl could be so beautiful.' Discussing the girlfriend in this beat, Louis uses "devushka" ("girlfriend") to carry the main weight of the thought.
+- 'Thank you very much, you really helped me out.' Kostya counters candidly with a shrug, keeping the focus on what actually matters here.
+- 'Kostya, I am taking cold champagne right now.' Louis pushes back quietly with a smile, to clear the air between them once and for all.
+- 'I am going to a room with a beautiful girl!' Touching on a beautiful girl with Kostya, Louis uses "devushkoy" ("girl, young woman", from "devushka") to make the point stick.
+- 'How much I love my wife!' Touching on his wife before Louis, Kostya reaches for the Russian word "zhenu" ("wife", built from "zhena") right at the center of the line.

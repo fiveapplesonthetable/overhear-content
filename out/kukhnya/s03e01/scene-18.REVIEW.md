@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I completely forgot. All right, I will come out now.' Vika stands firm lightly with Barinov, grounding the moment in plain reality.
-- 'Wow! Are you heading out on a date?' Max anchors one memorable piece with Vika: "svidaniye" means "date", and it carries the main weight of what Max is saying.
-- 'Maybe on a date.' Vika puts this statement to Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Nice. When it is with me, it is no.' Max speaks up plainly hearing Vika, without trying to dress up how he really feels.
-- 'That does not concern you.' Vika leans on this vivid element with Barinov: "kasayetsya" means "concerns, applies to" (from "kasatsya"), giving the line its exact edge.
-- 'Yekaterina, come into my office.' Barinov offers that answer without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Well then, congratulations.' Barinov holds firm at once with a sigh, keeping the focus on what actually matters here.
-- 'You couldn't pass the interview with me.' Barinov centers one sharp detail in earnest: "sobesedovaniye" means "interview", and it carries the main weight of what Barinov is saying.
-- 'You went to Nagiyev. Bravo!' Vika states the thought before Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'But it will not be easy for you here.' Barinov weighs in wryly in this moment, keeping the focus on what actually matters here.
-- 'Dad, it has never been easy for me.' Vika favors one concrete piece toward Barinov: "nikogda" means "never", and it carries the main weight of what Vika is saying.
-- 'And who paid for your education in France?' Barinov hands over the comment right away: putting the question word "kto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'I completely forgot. All right, I will come out now.' Vika steps in lightly with a nod, leaving no doubt about where she stands.
+- 'Wow! Are you heading out on a date?' Focusing on a date at once, Max puts the emphasis on "svidaniye" ("date") in the middle of the talk.
+- 'Maybe on a date.' Checking on a date during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Nice. When it is with me, it is no.' Max speaks plainly with Vika, refusing to let the moment slip past.
+- 'That does not concern you.' Vika responds decisively during the talk and reaches for the Russian word "kasayetsya" ("concerns, applies to", built from "kasatsya") right at the center of the line.
+- 'Yekaterina, come into my office.' Following up naturally in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Well then, congratulations.' Barinov answers at once in this moment, steering the talk right where he wants it.
+- 'You couldn't pass the interview with me.' Turning to the interview to Vika, Barinov uses "sobesedovaniye" ("interview") to carry the main weight of the thought.
+- 'You went to Nagiyev. Bravo!' Weighing in warmly with Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'But it will not be easy for you here.' Barinov counters wryly watching Vika, steering the talk right where he wants it.
+- 'Dad, it has never been easy for me.' Addressing the dad before Barinov, Vika puts the emphasis on "papa" ("Dad") in the middle of the talk.
+- 'And who paid for your education in France?' Looking over boldly beside Vika, Barinov puts the question word "kto" right at the start so Vika hears the focus immediately.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Say it loudly, so that all the guests around can hear.' Eleonora responds lightly toward Nagiyev, refusing to let the moment slip past.
-- 'My dear, I love you very much.' Nagiyev follows up lightly facing Eleonora, making his position completely clear.
-- 'No, you can barely be heard, say it even louder!' Eleonora grounds one familiar piece for Nagiyev: "yeshchyo" means "more, still", and it carries the main weight of what Eleonora is saying.
-- 'Elya, I love you more than anyone in the world!' Nagiyev features one telling piece for Eleonora: "lyublyu" means "love" (from "lyubit"), giving the line its exact edge.
-- 'I love you, do you hear, I love you!' Nagiyev fires back openly to be clear, so Eleonora knows he is not just making small talk.
-- 'Say it one more time loudly so that everyone hears.' Eleonora centers one vivid piece in reply: "kazhdyy" means "every", and it carries the main weight of what Eleonora is saying.
-- 'And now listen: you and I are getting divorced, Nagiyev!' Eleonora gives this statement to Nagiyev: the "-sya" ending on "razvodimsya" ("are getting divorced") turns the action inward or makes it happen between people naturally.
-- 'Or rather, no, I am the one dumping you today!' Eleonora jumps in decisively to settle things, bringing things back to earth after the buildup.
-- 'Tomorrow the whole internet will learn the whole truth about you.' Eleonora grounds this vivid piece toward Nagiyev: "internet" means "internet", and it carries the main weight of what Eleonora is saying.
-- 'That a famous actor of Russia turned out to be a total deceiver!' Eleonora stands firm firmly toward Nagiyev, grounding the moment in plain reality.
-- 'Get out of my restaurant immediately!' Eleonora steps in plainly hearing Nagiyev, grounding the moment in plain reality.
-- 'Waiter, bring cold champagne for everyone right now!' Eleonora anchors this sharp piece for Nagiyev: "shampanskogo" means "of champagne" (from "shampanskoye"), giving the line its exact edge.
+- 'Say it loudly, so that all the guests around can hear.' Focusing on the visitors with Nagiyev, Eleonora uses "gosti" ("visitors, guests", from "gost") to make the point stick.
+- 'My dear, I love you very much.' Nagiyev pushes back plainly with a nod, so Eleonora knows he is not just making small talk.
+- 'No, you can barely be heard, say it even louder!' Eleonora jumps in plainly on the spot and reaches for the Russian word "yeshchyo" ("more, still") right at the heart of the line.
+- 'Elya, I love you more than anyone in the world!' Nagiyev cuts in lightly on the spot, keeping the focus on what actually matters here.
+- 'I love you, do you hear, I love you!' Nagiyev weighs in openly hearing Eleonora, so Eleonora knows he is not just making small talk.
+- 'Say it one more time loudly so that everyone hears.' Eleonora proceeds quietly on the spot and centers the remark on "yeshchyo" ("more, still") without any extra fuss.
+- 'And now listen: you and I are getting divorced, Nagiyev!' Looking over openly during the talk, the "-sya" ending on "razvodimsya" ("are getting divorced") marks an action that unfolds mutually or turns back on the speaker.
+- 'Or rather, no, I am the one dumping you today!' Eleonora speaks up decisively on the spot, leaving no doubt about where she stands.
+- 'Tomorrow the whole internet will learn the whole truth about you.' Addressing the whole internet before Nagiyev, Eleonora brings in "internet" ("internet") to make the meaning unmistakable.
+- 'That a famous actor of Russia turned out to be a total deceiver!' Touching on the cheat in this beat, Eleonora reaches for the Russian word "obmanshchikom" ("cheat, deceiver", built from "obmanshchik") right at the center of the line.
+- 'Get out of my restaurant immediately!' Eleonora counters plainly with Nagiyev, so Nagiyev knows she is not just making small talk.
+- 'Waiter, bring cold champagne for everyone right now!' Emphasizing the champagne in this beat, Eleonora uses "shampanskogo" ("of champagne", from "shampanskoye") to make the point stick.

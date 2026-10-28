@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a clever girl our Nastya is.' Max gives this point plainly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'What a clever girl our Nastya is.' Bringing up a clever girl right here, Max reaches for "u nas" ("by us, at our place") to talk about what they share.
 - 'Did you cook all of this yourself?' Max quizzes eagerly while looking straight at Nastya here.
-- 'We should have at least opened a bottle of champagne.' Nastya centers one classic choice right here: "shampanskogo" means "of champagne" (from "shampanskoye"), giving the line its exact edge.
-- 'By the way, what are these cutlets made of?' Max offers this statement calmly now: opening with "kstati" ("by the way") lets Max drop a new detail into the conversation as if it just crossed his mind.
-- 'Those are made of cabbage.' Nastya fires back openly without a pause, shifting the whole mood of the room in a single beat.
-- 'Who would like a serving?' Max favors one sharp expression on cue: "polozhit" means "entitled, due", and it carries the main weight of what Max is saying.
-- 'First my nose, and now my dishes.' Nastya opens up candidly without any doubt, making her position completely clear.
-- 'What are you going to smash next?' Max checks straight out what Nastya is actually getting at here.
-- 'Broken dishes are nothing, broken dishes bring good luck.' Nastya anchors this vivid touch on cue: "schastyu" means "happiness, good fortune" (from "schastye"), giving the line its exact edge.
-- 'Is everything okay, Dad?' Max shapes the thought calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Everything is fine, just fine.' Nastya responds evenly with a sigh, saying out loud what both of them already know.
-- 'We are eating grass.' Max frames one colorful word toward Nastya: "travu" means "herbs, weed" (from "trava"), giving the line its exact edge.
-- 'Everything is wonderful.' Nastya puts the comment briskly now: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'We should have at least opened a bottle of champagne.' Turning to the champagne beside Max, Nastya chooses "shampanskogo" ("of champagne", from the root "shampanskoye") so Max hears the exact meaning.
+- 'By the way, what are these cutlets made of?' Following up readily on the spot, Max opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'Those are made of cabbage.' Nastya weighs in openly with a shrug, letting the remark speak for itself.
+- 'Who would like a serving?' Max pushes back vividly to Nastya and puts the emphasis on "polozhit" ("entitled, due") in the middle of the talk.
+- 'First my nose, and now my dishes.' Focusing on her dishes right here, Nastya chooses "posuda" ("dishes, tableware") so Max gets the point right away.
+- 'What are you going to smash next?' Max checks straight out to see how Nastya will answer on the spot.
+- 'Broken dishes are nothing, broken dishes bring good luck.' Emphasizing the happiness before Max, Nastya leans on "schastyu" ("happiness, good fortune", a form of "schastye") to give the remark its edge.
+- 'Is everything okay, Dad?' Turning to the dad on the spot, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Everything is fine, just fine.' Nastya continues evenly in their talk, to clear the air between them once and for all.
+- 'We are eating grass.' Bringing up the herbs around Nastya, Max centers the thought on "travu" ("herbs, weed", from "trava") without wasting a word.
+- 'Everything is wonderful.' Pressing on plainly in the exchange, Nastya leans on "otlichno" ("great, excellent"), which carries the whole predicate in Russian without needing "it is".

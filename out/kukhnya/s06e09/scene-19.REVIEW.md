@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is my old debt and a new bet.' Barinov emphasizes this telling word on cue: "staryy" means "old", and it carries the main weight of what Barinov is saying.
-- 'Hello, Lena, hi, I am listening to you carefully.' Barinov frames that answer to Katya: opening with the casual greeting "privet" ("hi") signals right away that Barinov and Katya are on familiar terms.
-- 'No, not at all, I have been at work for a long time already.' Barinov steps in quietly to be clear, making his position completely clear.
-- 'Listen, yesterday we both lost our tempers.' Katya frames one loaded element right here: "pogoryachilis" means "lost our temper" (from "pogoryachitsya"), giving the line its exact edge.
-- 'Come home early this evening, alright?' Katya gives this line without pause: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Alright, darling, I will definitely come home tonight.' Barinov holds firm candidly watching Katya, testing Katya's reaction in the middle of the exchange.
-- 'Denis, congratulations, you and Sveta are not fired.' Katya highlights one colorful touch at once: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
-- 'Thank you very much, you simply saved us.' Denis voices this line beside Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'If I can still help, just say so.' Katya holds firm steadily to be clear, steering the talk right where she wants it.
-- 'Maybe we can drink coffee together after our shift?' Denis sharpens one pointed detail on cue: "smeny" means "shift" (from "smena"), giving the line its exact edge.
-- 'Maybe we will, if you are free.' Katya leans on one telling element in earnest: "svoboden" means "free" (from "svobodnyy"), giving the line its exact edge.
-- 'How about we go right this evening?' Denis checks straight out in front of Katya without any preamble.
-- 'Alright, then get ready quickly after work.' Katya frames one key term right here: "sobiraysya" means "gather yourself" (from "sobiratsya"), giving the line its exact edge.
+- 'Here is my old debt and a new bet.' Highlighting the debt in this beat, Barinov centers the remark on "staryy" ("old") without any extra fuss.
+- 'Hello, Lena, hi, I am listening to you carefully.' Barinov opens up wryly with a smile, to clear the air between them once and for all.
+- 'No, not at all, I have been at work for a long time already.' Barinov counters quietly across the room, leaving no doubt about where he stands.
+- 'Listen, yesterday we both lost our tempers.' Katya fires back evenly beside Barinov and uses "pogoryachilis" ("lost our temper", from "pogoryachitsya") to make the point stick.
+- 'Come home early this evening, alright?' Looking over firmly right here, the "-sya" ending on "vozvrashchaysya" ("return") marks an action that unfolds mutually or turns back on the speaker.
+- 'Alright, darling, I will definitely come home tonight.' Barinov responds candidly with Katya, testing Katya's reaction in the middle of the exchange.
+- 'Denis, congratulations, you and Sveta are not fired.' Katya fires back pointedly with Denis and lands on "pozdravlyayu" ("congratulations", built on "pozdravlyat") to keep the statement grounded.
+- 'Thank you very much, you simply saved us.' Touching on the thank in this beat, Denis uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'If I can still help, just say so.' Katya cuts in steadily during the talk, steering the talk right where she wants it.
+- 'Maybe we can drink coffee together after our shift?' Underscoring his shift in the exchange, Denis brings in "smeny" ("shift", from "smena") as the key Russian word here.
+- 'Maybe we will, if you are free.' Katya speaks briskly with a smile, watching Denis's face to see how the news lands.
+- 'How about we go right this evening?' Denis checks straight out what Katya is actually getting at here.
+- 'Alright, then get ready quickly after work.' Bringing up the work before Denis, Katya brings in "sobiraysya" ("gather yourself", from "sobiratsya") as the key Russian word here.

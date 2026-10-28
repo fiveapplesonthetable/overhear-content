@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The main thing is, never repeat my mistakes.' Eleonora voices this statement frankly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Find yourself a normal, modest, simple guy.' Eleonora replies lightly with a nod, making her position completely clear.
-- 'So that you are in first place for him.' Eleonora colors one concrete piece for Denis: "pervom" means "first" (from "pervyy"), giving the line its exact edge.
-- 'And so that you do not have to remove foolish tattoos.' Eleonora gives that point frankly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'We once decided to get tattoos with our names.' Eleonora speaks candidly without any doubt, before Denis can change the subject.
-- 'And why did you come to see me at all?' Eleonora emphasizes one key detail in reply: "prikhodila" means "to come" (from "prikhodit"), giving the line its exact edge.
-- 'Mom, I heard you fired people today.' Katya reaches for one vivid piece on cue: "slyshala" means "to hear" (from "slyshat"), giving the line its exact edge.
-- 'Did you come again to ask on behalf of your Denis?' Eleonora probes openly how Katya expects that to work in practice.
-- 'And for Sveta too, she is my friend.' Katya leans on this clear term in reply: "podruga" means "female friend", and it carries the main weight of what Katya is saying.
-- 'Alright, let them both keep working in peace.' Eleonora voices the thought briskly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Katya is on board.
-- 'Excuse me, please, I was just lost in thought a bit.' Denis fires back promptly without holding back, keeping the focus on what actually matters here.
-- 'Listen, let us dance right now right in the coffee shop?' Katya sharpens one classic term right here: "potantsuyem" means "let us dance" (from "potantsevat"), giving the line its exact edge.
-- 'Let us do it, after all this is my favorite song!' Denis makes this update for Eleonora: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'The main thing is, never repeat my mistakes.' Describing how important things are in the exchange, Eleonora pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Find yourself a normal, modest, simple guy.' Eleonora proceeds lightly toward Katya, making her position completely clear.
+- 'So that you are in first place for him.' Stressing how first Katya is during the talk, Eleonora leans on "pervom" ("first", a form of "pervyy") to give the remark its edge.
+- 'And so that you do not have to remove foolish tattoos.' Dwelling on the tattoos in front of Katya, Eleonora leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'We once decided to get tattoos with our names.' Addressing the name with a smile, Eleonora lets Katya see exactly where things stand.
+- 'And why did you come to see me at all?' Eleonora weighs in candidly during the talk and leans on "prikhodila" ("to come", a form of "prikhodit") to give the remark its edge.
+- 'Mom, I heard you fired people today.' Katya opens up openly in this moment, making her position completely clear.
+- 'Did you come again to ask on behalf of your Denis?' Eleonora probes openly while looking straight at Denis here.
+- 'And for Sveta too, she is my friend.' Discussing her friend to Eleonora, Katya brings in "podruga" ("female friend") to make the meaning unmistakable.
+- 'Alright, let them both keep working in peace.' Eleonora speaks quietly in this beat and brings in "rabotayut" ("work", from "rabotat") as the key Russian word here.
+- 'Excuse me, please, I was just lost in thought a bit.' Denis speaks promptly across the room, grounding the moment in plain reality.
+- 'Listen, let us dance right now right in the coffee shop?' Highlighting the coffee shop beside Denis, Katya reaches for the Russian word "potantsuyem" ("let us dance", built from "potantsevat") right at the center of the line.
+- 'Let us do it, after all this is my favorite song!' Pointing out how favourite things are on the spot, Denis starts with "davay" ("come on, let's") to invite Katya right into the action.

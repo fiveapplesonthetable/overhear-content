@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone remember once and for all!' Vika grounds this vivid piece in reply: "zapomnite" means "remember" (from "zapomnit"), giving the line its exact edge.
-- 'Everything in my life is great.' Vika delivers this statement around Senya: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Take your flowers back and leave!' Vika pushes back earnestly without a pause, letting the remark speak for itself.
-- 'A courier brought this bouquet, not you?' Vika grounds this direct word with Senya: "kuryer" means "courier, errand boy", and it carries the main weight of what Vika is saying.
-- 'Chef, I have important information again.' Senya lays out the remark at once: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'About Katya again, speak quickly!' Barinov stands firm frankly with a shrug, watching Vika's face to see how the news lands.
-- 'Tonight at Monet there is a dog party.' Senya stresses one classic touch right here: "sobachiy" means "party", and it carries the main weight of what Senya is saying.
-- 'A rich lady is throwing a banquet for her little dog.' Senya pushes back briskly toward Vika, before Vika can change the subject.
+- 'Everyone remember once and for all!' Vika speaks openly before Senya and reaches for the Russian word "zapomnite" ("remember", built from "zapomnit") right at the center of the line.
+- 'Everything in my life is great.' Emphasizing how perfect things are in the exchange, Vika leans on "otlichno" ("great, excellent"), which carries the whole predicate in Russian without needing "it is".
+- 'Take your flowers back and leave!' Vika cuts in earnestly in this moment, before Senya can change the subject.
+- 'A courier brought this bouquet, not you?' Addressing a courier during the talk, Vika brings in "kuryer" ("courier, errand boy") to make the meaning unmistakable.
+- 'Chef, I have important information again.' Senya fires back boldly facing Barinov, before Barinov can change the subject.
+- 'About Katya again, speak quickly!' Barinov speaks frankly beside Senya, steering the talk right where he wants it.
+- 'Tonight at Monet there is a dog party.' Emphasizing how party things are in this beat, Senya leans on "sobachiy" ("party") to give the whole sentence its punch.
+- 'A rich lady is throwing a banquet for her little dog.' Describing how rich things are on the spot, Senya centers the thought on "bogataya" ("rich, wealthy", from "bogatyy") without wasting a word.
 - 'And what does my Katya have to do with this?' Barinov challenges firmly if there is more going on behind the scenes.
-- 'They appointed Katya responsible for this banquet.' Senya favors one clear expression in reply: "otvetstvennoy" means "responsible" (from "otvetstvennyy"), giving the line its exact edge.
-- 'Get out of here if you have nothing useful!' Barinov answers plainly during the talk, leaving no doubt about where he stands.
-- 'Hello, Timur, do you remember your debt?' Barinov prompts bluntly before Vika can change the subject.
+- 'They appointed Katya responsible for this banquet.' Talking about the banquet in the exchange, Senya leans on "otvetstvennoy" ("responsible", a form of "otvetstvennyy") to give the remark its edge.
+- 'Get out of here if you have nothing useful!' Barinov cuts in candidly during the talk and centers the thought on "delnogo" ("useful", from "delnyy") without wasting a word.
+- 'Hello, Timur, do you remember your debt?' Barinov prompts bluntly whether Senya really thought this through.

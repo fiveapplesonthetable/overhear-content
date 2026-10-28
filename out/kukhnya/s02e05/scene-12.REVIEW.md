@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, come over here.' Max reacts earnestly across the room, to clear the air between them once and for all.
-- 'Do not worry so much.' Barinov chooses one classic choice right here: "perezhivayte" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'He will start running even faster.' Lyova follows up lightly as things stand, testing Barinov's reaction in the middle of the exchange.
-- 'You may take away my masterpiece, Alexandra.' Max counters wryly beside Lyova, keeping the focus on what actually matters here.
-- 'With pleasure.' Barinov stresses one concrete term on cue: "udovolstviyem" means "pleasure" (from "udovolstviye"), giving the line its exact edge.
-- 'Listen, we need to remake this.' Lyova drops this answer without fuss: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'It tastes kind of sour.' Max replies firmly in their talk, steering the talk right where he wants it.
-- 'Well, how is it going?' Barinov shares that reply without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Any second now.' Lyova shapes that thought in earnest: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'It will kick in any minute now.' Max stands firm evenly toward Lyova, watching Lyova's face to see how the news lands.
-- 'Wait, what is supposed to happen?' Barinov underscores this clear touch for Lyova: "sluchitsya" means "to happen", and it carries the main weight of what Barinov is saying.
-- 'Well, his stomach will cramp up.' Lyova drops the reply in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Somebody call an ambulance!' Max holds firm candidly toward Barinov, saying out loud what both of them already know.
+- 'Lyova, come over here.' Max responds earnestly in their talk, so Barinov knows he is not just making small talk.
+- 'Do not worry so much.' Barinov counters sharply in this beat and brings in "perezhivayte" ("worry", from "perezhivat") as the key Russian word here.
+- 'He will start running even faster.' Lyova continues warmly beside Barinov and puts the emphasis on "luchshe" ("better") in the middle of the talk.
+- 'You may take away my masterpiece, Alexandra.' Max replies wryly toward Lyova, steering the talk right where he wants it.
+- 'With pleasure.' Touching on the pleasure before Max, Barinov lands on "udovolstviyem" ("pleasure", built on "udovolstviye") to keep the statement grounded.
+- 'Listen, we need to remake this.' Jumping in warmly in this beat, Lyova leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'It tastes kind of sour.' Max weighs in firmly during the talk, letting the remark speak for itself.
+- 'Well, how is it going?' Turning calmly on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Any second now.' Reacting quietly in front of Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'It will kick in any minute now.' Max jumps in evenly with a smile, shifting the mood of the conversation in a single beat.
+- 'Wait, what is supposed to happen?' Explaining how ought things are at once, Barinov leans on "dolzhno" ("ought, must", a form of "dolzhen") to give the remark its edge.
+- 'Well, his stomach will cramp up.' Talking about the belly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Somebody call an ambulance!' Max answers candidly on the spot, before Lyova can change the subject.

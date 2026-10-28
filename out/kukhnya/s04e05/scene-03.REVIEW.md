@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to talk with you in person.' Max speaks up calmly with a nod, so German knows he is not just making small talk.
-- 'Well all right, I am listening to you closely.' German spotlights this direct detail right here: "vnimatelno" means "carefully, attentively", and it carries the main weight of what German is saying.
-- 'Right now you do not have a sous-chef in the kitchen.' Max drops this line without pause: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'I could try this job.' Max weighs in frankly during the talk, watching German's face to see how the news lands.
-- 'Of course, if you do not mind at all.' Max emphasizes this clear touch right here: "konechno" means "of course", and it carries the main weight of what Max is saying.
-- 'You want to become my new sous-chef?' German shares this statement with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Well, if not, then excuse me right away.' Max fires back openly across the room, letting the remark speak for itself.
-- 'Oh no, why would it be no right away?' German grounds this telling touch at once: "srazu" means "at once", and it carries the main weight of what German is saying.
-- 'I happen to need just such a sous-chef.' German chimes in calmly as they talk, testing Max's reaction in the middle of the exchange.
-- 'A young and self-confident person.' German reacts honestly with a sigh, steering the talk right where he wants it.
-- 'But I see you are not very glad.' German features one key touch in earnest: "rady" means "glad", and it carries the main weight of what German is saying.
-- 'I am simply a very reserved and serious cook.' Max aims that remark for German: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I wanted to talk with you in person.' Max fires back calmly without any doubt, grounding the moment in plain reality.
+- 'Well all right, I am listening to you closely.' German steps in directly before Max and centers the remark on "vnimatelno" ("carefully, attentively") without any extra fuss.
+- 'Right now you do not have a sous-chef in the kitchen.' Max proceeds frankly without holding back, watching German's face to see how the news lands.
+- 'I could try this job.' Max speaks frankly hearing German, letting the remark speak for itself.
+- 'Of course, if you do not mind at all.' Max speaks up sharply at once and uses "konechno" ("of course") to carry the main weight of the thought.
+- 'You want to become my new sous-chef?' Answering promptly with Max, German keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Well, if not, then excuse me right away.' Max jumps in openly beside German, refusing to let the moment slip past.
+- 'Oh no, why would it be no right away?' German steps in readily beside Max and centers the remark on "srazu" ("at once") without any extra fuss.
+- 'I happen to need just such a sous-chef.' German cuts in frankly with Max and centers the remark on "su-shef" ("sous-chef") without any extra fuss.
+- 'A young and self-confident person.' German opens up honestly without holding back, testing Max's reaction in the middle of the exchange.
+- 'But I see you are not very glad.' Highlighting how glad Max is right here, German centers the remark on "rady" ("glad") without any extra fuss.
+- 'I am simply a very reserved and serious cook.' Noting how cook he is in front of German, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.

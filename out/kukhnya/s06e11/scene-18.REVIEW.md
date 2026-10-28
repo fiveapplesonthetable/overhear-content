@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, have you not signed any papers yet?' Barinov asks point-blank in front of the guest without any preamble.
-- 'You cannot do business with my brother.' Barinov emphasizes this key choice toward Mikhail: "obshchiy" means "shared", and it carries the main weight of what Barinov is saying.
-- 'It is a lost cause, all his plans end in failure.' Barinov makes this answer before the guest: the "-sya" ending on "zakanchivayutsya" ("to end, to finish") turns the action inward or makes it happen between people naturally.
-- 'Actually, your brother has a chain of oyster farms in America.' The guest replies plainly to settle things, leaving no doubt about where he stands.
-- 'Oh really, and then I have big vineyards!' Barinov sharpens one loaded touch right here: "vinogradniki" means "vineyards" (from "vinogradnik"), giving the line its exact edge.
-- 'I am speaking seriously, we have been cooperating for a year and a half already.' The guest speaks warmly with a smile, letting the remark speak for itself.
-- 'Valya, why did you tell me nothing about this?' Barinov tests plainly how the guest expects that to work in practice.
-- 'I tried this morning, but you did not listen to me.' Mikhail chooses one vivid choice in earnest: "pytalsya" means "tried" (from "pytatsya"), giving the line its exact edge.
-- 'Good evening, excuse me, your door was unlocked.' The guest aims the comment beside Barinov: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Oh, you drove me from the airport this morning!' Mikhail steps in dryly toward the guest, refusing to let the moment slip past.
-- 'Yes, this morning you forgot your suitcase in my car.' The guest anchors one loaded touch on cue: "chemodan" means "suitcase, luggage bag", and it carries the main weight of what the guest is saying.
-- 'Thank you, it is nice to know that such honest people remain!' Mikhail brings that reply for the guest: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Wait, have you not signed any papers yet?' Barinov asks point-blank to see how the guest will answer on the spot.
+- 'You cannot do business with my brother.' Highlighting his brother around the guest, Barinov leans on "obshchiy" ("shared") to give the whole sentence its punch.
+- 'It is a lost cause, all his plans end in failure.' Focusing on the matter in front of the guest, the "-sya" ending on "zakanchivayutsya" ("to end, to finish") marks an action that unfolds mutually or turns back on the speaker.
+- 'Actually, your brother has a chain of oyster farms in America.' The guest replies plainly in this moment, letting the remark speak for itself.
+- 'Oh really, and then I have big vineyards!' Underscoring the vineyards to the guest, Barinov centers the thought on "vinogradniki" ("vineyards", from "vinogradnik") without wasting a word.
+- 'I am speaking seriously, we have been cooperating for a year and a half already.' Turning to a year beside Barinov, the guest leans on "seryozno" ("seriously"), which carries the whole predicate in Russian without needing "it is".
+- 'Valya, why did you tell me nothing about this?' Barinov tests plainly to see how Mikhail will answer on the spot.
+- 'I tried this morning, but you did not listen to me.' Mikhail pushes back pointedly with Barinov and uses "pytalsya" ("tried", from "pytatsya") to make the point stick.
+- 'Good evening, excuse me, your door was unlocked.' The guest counters plainly in their talk, before Mikhail can change the subject.
+- 'Oh, you drove me from the airport this morning!' Mikhail replies dryly in this moment, without trying to dress up how he really feels.
+- 'Yes, this morning you forgot your suitcase in my car.' Focusing on the suitcase to Mikhail, the guest centers the remark on "chemodan" ("suitcase, luggage bag") without any extra fuss.
+- 'Thank you, it is nice to know that such honest people remain!' Describing how honest things are to the guest, Mikhail reaches for the Russian word "chestnyye" ("honest", built from "chestnyy") right at the center of the line.

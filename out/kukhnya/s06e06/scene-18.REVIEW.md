@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom and Dad, I want to drink a toast to you.' Katya replies briskly as they talk, without trying to dress up how she really feels.
-- 'Thanks to Dad, who organized all of this.' Katya underscores this direct word right here: "organizoval" means "to organize" (from "organizovat"), giving the line its exact edge.
-- 'Friends, excuse me for being a little late.' Barinov frames the comment without fuss: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Barinov steps in.
-- 'No big deal, the main thing is that you are here.' Katya responds bluntly facing Eleonora, keeping the focus on what actually matters here.
-- 'Friends, I also have a toast.' Barinov picks one key detail in reply: "druzya" means "friends" (from "drug"), giving the line its exact edge.
-- 'Our dear guest has not tried my cake.' Barinov reacts honestly hearing Katya, to clear the air between them once and for all.
-- 'But tonight I am going to fix that!' Barinov responds at once around Eleonora, grounding the moment in plain reality.
-- 'This is for you for deceiving my daughter!' Barinov anchors one pointed term on cue: "obmanyval" means "cheated, deceived" (from "obmanyvat"), giving the line its exact edge.
-- 'Dad, explain quickly, what is going on here?' Katya hands over that point in earnest: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'He is fooling around upstairs with other girls!' Barinov cuts in calmly before Katya, leaving no doubt about where he stands.
-- 'And at the same time he is stringing our daughter along!' Barinov favors one clear detail with Eleonora: "odnovremenno" means "simultaneously", and it carries the main weight of what Barinov is saying.
-- 'Why did you cause this loud scandal?' Eleonora shares that point toward Katya: putting the question word "zachem" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'Mom and Dad, I want to drink a toast to you.' Katya speaks briskly without a pause, keeping the focus on what actually matters here.
+- 'Thanks to Dad, who organized all of this.' Pointing to the thank before Barinov, Katya reaches for the Russian word "organizoval" ("to organize", built from "organizovat") right at the center of the line.
+- 'Friends, excuse me for being a little late.' Focusing on the friends with Katya, Barinov puts the weight on "druzya" ("friends", from "drug") as the exchange unfolds.
+- 'No big deal, the main thing is that you are here.' Katya reacts bluntly with a shrug, watching Barinov's face to see how the news lands.
+- 'Friends, I also have a toast.' Pointing to the friends right here, Barinov brings in "druzya" ("friends", from "drug") as the key Russian word here.
+- 'Our dear guest has not tried my cake.' Talking about the guest right here, Barinov centers the remark on "dorogoy" ("dear") without any extra fuss.
+- 'But tonight I am going to fix that!' Barinov chimes in at once with a sigh, so Katya knows he is not just making small talk.
+- 'This is for you for deceiving my daughter!' Emphasizing his daughter in the exchange, Barinov leans on "obmanyval" ("cheated, deceived", a form of "obmanyvat") to give the remark its edge.
+- 'Dad, explain quickly, what is going on here?' Touching on the dad before Barinov, Katya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'He is fooling around upstairs with other girls!' Pointing to the girl with Katya, Barinov lets Katya see exactly where things stand.
+- 'And at the same time he is stringing our daughter along!' Addressing the head in the exchange, Barinov chooses "odnovremenno" ("simultaneously") so Eleonora gets the point right away.
+- 'Why did you cause this loud scandal?' Reacting openly in the exchange, Eleonora puts the question word "zachem" right at the start so Barinov hears the focus immediately.

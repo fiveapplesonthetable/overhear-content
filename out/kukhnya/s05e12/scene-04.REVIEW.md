@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, this is a fiasco!' Elena chooses one sharp touch on cue: "fiasko" means "fiasco", and it carries the main weight of what Elena is saying.
-- 'I am holding back, not congratulating you.' Barinov shapes that reply calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And you cannot be patient until evening!' Barinov opens up frankly facing Elena, bringing things back to earth after the buildup.
-- 'So you prepared a surprise for me?' Elena grounds one practical term on cue: "podgotovil" means "prepared" (from "podgotovit"), giving the line its exact edge.
-- 'Precisely, a surprise!' Barinov aims this line in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I simply do not believe it.' Elena speaks up quietly with a smile, so Barinov knows she is not just making small talk.
-- 'Usually your surprises happen by themselves.' Elena frames one classic element for Barinov: "sluchayutsya" means "happen, occur" (from "sluchatsya"), giving the line its exact edge.
-- 'Then you simply ask forgiveness for them.' Elena phrases the remark at once: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Well we will see tonight!' Barinov steps in openly in this moment, without trying to dress up how he really feels.
-- 'Thank you very much, that is very nice.' Elena grounds this key detail for Barinov: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'I will call and we will celebrate.' Elena brings the thought in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Until evening, darling!' Barinov stands firm at once without holding back, saying out loud what both of them already know.
+- 'Vitya, this is a fiasco!' Addressing a fiasco in front of Barinov, Elena puts the emphasis on "fiasko" ("fiasco") in the middle of the talk.
+- 'I am holding back, not congratulating you.' Holding firm warmly around Elena, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And you cannot be patient until evening!' Barinov answers frankly without any doubt, grounding the moment in plain reality.
+- 'So you prepared a surprise for me?' Discussing a surprise right here, Elena centers the remark on "syurpriz" ("surprise") without any extra fuss.
+- 'Precisely, a surprise!' Focusing on a surprise before Elena, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I simply do not believe it.' Elena counters quietly during the talk, without trying to dress up how she really feels.
+- 'Usually your surprises happen by themselves.' Touching on the surprise beside Barinov, Elena reaches for the Russian word "syurprizy" ("surprise", built from "syurpriz") right at the center of the line.
+- 'Then you simply ask forgiveness for them.' Addressing the forgiveness before Barinov, Elena uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Well we will see tonight!' Barinov proceeds openly across the room, refusing to let the moment slip past.
+- 'Thank you very much, that is very nice.' Elena briskly drops this word of thanks with Barinov using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I will call and we will celebrate.' Leaning in boldly with Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Until evening, darling!' Barinov steps in at once without a pause, steering the talk right where he wants it.

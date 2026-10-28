@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My mother-in-law is a former national champion.' Senya emphasizes one classic touch on cue: "chempionka" means "champion", and it carries the main weight of what Senya is saying.
-- 'I simply have no chance at home.' Senya phrases that line for Nastya: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'I would never raise a hand myself.' Kostya replies bluntly across the room, before Nastya can change the subject.
-- 'And how did you almost break my nose?' Nastya underscores this direct detail on cue: "razbil" means "wrecked, crashed" (from "razbit"), giving the line its exact edge.
-- 'You hit me once in your sleep!' Nastya spotlights one concrete expression right here: "odnazhdy" means "once, one day", and it carries the main weight of what Nastya is saying.
-- 'Nastya, I was having a terrible dream then.' Kostya counters steadily across the room, leaving no doubt about where he stands.
-- 'In the dream I was a brave gladiator.' Kostya underscores one pointed detail for Nastya: "gladiatorom" means "gladiator" (from "gladiator"), giving the line its exact edge.
-- 'A huge hungry lion was running after me!' Kostya speaks up decisively around Senya, shifting the whole mood of the room in a single beat.
-- 'And what if you had killed me?' Nastya presses earnestly whether Kostya really thought this through.
-- 'What would you have done alone then?' Nastya chooses one concrete choice at once: "togda" means "back then", and it carries the main weight of what Nastya is saying.
-- 'If I were suddenly gone?' Nastya offers the remark on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Nastya, please do not interrupt me right now.' Kostya responds plainly to settle things, keeping the focus on what actually matters here.
+- 'My mother-in-law is a former national champion.' Underscoring the champion in the exchange, Senya reaches for the Russian word "chempionka" ("champion") right at the heart of the line.
+- 'I simply have no chance at home.' Reacting earnestly right here, Senya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I would never raise a hand myself.' Kostya speaks bluntly facing Senya, refusing to let the moment slip past.
+- 'And how did you almost break my nose?' Focusing on her nose before Kostya, Nastya brings in "razbil" ("wrecked, crashed", from "razbit") as the key Russian word here.
+- 'You hit me once in your sleep!' Mentioning the dream in this moment, Nastya makes it clear to Kostya that she means every word.
+- 'Nastya, I was having a terrible dream then.' Kostya weighs in steadily in this moment, steering the talk right where he wants it.
+- 'In the dream I was a brave gladiator.' Emphasizing a brave gladiator in this beat, Kostya centers the thought on "gladiatorom" ("gladiator", from "gladiator") without wasting a word.
+- 'A huge hungry lion was running after me!' Kostya reacts boldly in front of Nastya and brings in "ogromnyy" ("huge") to make the meaning unmistakable.
+- 'And what if you had killed me?' Nastya presses earnestly about what Kostya just brought up.
+- 'What would you have done alone then?' Nastya counters readily before Kostya and chooses "togda" ("back then") so Kostya gets the point right away.
+- 'If I were suddenly gone?' Replying directly in the exchange, Nastya keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Nastya, please do not interrupt me right now.' Kostya follows up plainly across the room, refusing to let the moment slip past.

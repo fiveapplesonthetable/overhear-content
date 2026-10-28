@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The most important thing is to always smile.' Max frames that answer facing Denis: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Make it look more natural.' Max holds firm pointedly around Vika, grounding the moment in plain reality.
-- 'Go ahead. I believe in you.' Max spotlights one sharp piece for Denis: "vperyod" means "ahead of", and it carries the main weight of what Max is saying.
-- 'These things happen.' Denis offers this statement with candor: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'You have a wonderful resume, but unfortunately you do not suit us.' Vika weighs in evenly to be clear, leaving no doubt about where she stands.
-- 'We will definitely call you back.' Vika colors one familiar touch for Max: "obyazatelno" means "surely, without fail", and it carries the main weight of what Vika is saying.
-- 'Forgive me, I will fix everything.' Denis shapes the thought plainly here: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
-- 'I think my finger is hurt.' Vika follows up calmly with a nod, to clear the air between them once and for all.
-- 'Let's go to the emergency clinic.' Max spotlights one loaded detail right here: "travmpunkt" means "emergency", and it carries the main weight of what Max is saying.
-- 'Easy, easy, calm down.' Max makes the comeback toward Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Unfortunately.' Vika holds firm honestly without holding back, before Denis can change the subject.
-- 'Where are all of you even looking?' Vika grounds one sharp touch at once: "smotrite" means "look" (from "smotret"), giving the line its exact edge.
+- 'The most important thing is to always smile.' Confirming how important things are around Denis, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Make it look more natural.' Max cuts in pointedly without holding back, testing Denis's reaction in the middle of the exchange.
+- 'Go ahead. I believe in you.' Max jumps in sharply in front of Denis and reaches for the Russian word "vperyod" ("ahead of") right at the heart of the line.
+- 'These things happen.' Holding firm dryly beside Max, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'You have a wonderful resume, but unfortunately you do not suit us.' Vika speaks evenly beside Denis, testing Denis's reaction in the middle of the exchange.
+- 'We will definitely call you back.' Vika replies sharply on the spot and chooses "obyazatelno" ("surely, without fail") so Denis gets the point right away.
+- 'Forgive me, I will fix everything.' Denis casually speaks this formal apology beside Vika using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.
+- 'I think my finger is hurt.' Vika answers calmly on the spot, watching Denis's face to see how the news lands.
+- 'Let's go to the emergency clinic.' Addressing the emergency at once, Max lands on "travmpunkt" ("emergency") as the key everyday word here.
+- 'Easy, easy, calm down.' Reacting promptly in front of Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Unfortunately.' Vika responds honestly on the spot, making her position completely clear.
+- 'Where are all of you even looking?' Answering evenly to Max, Vika puts the question word "kuda" right at the start so Max hears the focus immediately.

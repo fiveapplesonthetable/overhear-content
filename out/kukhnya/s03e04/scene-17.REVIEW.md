@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, you should go home.' Barinov spotlights one key element for Nagiyev: "poyekhat" means "to go", and it carries the main weight of what Barinov is saying.
-- 'I am already at home.' Nagiyev cuts in decisively to settle things, steering the talk right where he wants it.
-- 'Dima, it's awkward. Half the restaurant has already been by you.' Barinov favors one clear piece toward Nagiyev: "polrestorana" means "half the restaurant", and it carries the main weight of what Barinov is saying.
-- 'While you were sleeping.' Barinov shapes the comeback in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'No big deal. I am a simple guy from the people.' Nagiyev chimes in evenly to settle things, grounding the moment in plain reality.
-- 'I remember my roots.' Nagiyev centers one vivid choice in reply: "korni" means "roots" (from "koren"), giving the line its exact edge.
-- 'And where is my breakfast? Here is my breakfast!' Nagiyev gives this line right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Unattractive guy, go work.' Nagiyev proceeds openly in this moment, saying out loud what both of them already know.
-- 'It is delicious, after all! Try it.' Nagiyev stresses one vivid detail in earnest: "poprobuy" means "to try, to taste" (from "poprobovat"), giving the line its exact edge.
-- 'Lick it!' Nagiyev shares the comeback right away: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'No.' Barinov holds firm steadily without a pause, making his position completely clear.
-- 'You will lick it! Lie down, Vitya.' Nagiyev spotlights one familiar detail for Barinov: "liznyosh" means "will lick" (from "liznut"), giving the line its exact edge.
+- 'Dima, you should go home.' Barinov pushes back at once in their talk, refusing to let the moment slip past.
+- 'I am already at home.' Nagiyev pushes back decisively in their talk, to clear the air between them once and for all.
+- 'Dima, it's awkward. Half the restaurant has already been by you.' Discussing the restaurant in the exchange, Barinov uses "polrestorana" ("half the restaurant") to carry the main weight of the thought.
+- 'While you were sleeping.' Opening up boldly before Nagiyev, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'No big deal. I am a simple guy from the people.' Nagiyev reacts evenly with a sigh, without trying to dress up how he really feels.
+- 'I remember my roots.' Turning to his roots on the spot, Nagiyev puts the weight on "korni" ("roots", from "koren") as the exchange unfolds.
+- 'And where is my breakfast? Here is my breakfast!' Dwelling on his breakfast during the talk, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Unattractive guy, go work.' Nagiyev jumps in openly with a smile, to clear the air between them once and for all.
+- 'It is delicious, after all! Try it.' Nagiyev cuts in briskly on the spot and leans on "poprobuy" ("to try, to taste", a form of "poprobovat") to give the remark its edge.
+- 'Lick it!' Pressing on quietly in front of Barinov, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'No.' Barinov calmly delivers this direct refusal in front of Nagiyev using "net" ("no") — a plain "net" ("no") that gives an immediate answer.
+- 'You will lick it! Lie down, Vitya.' Nagiyev proceeds smoothly around Barinov and brings in "liznyosh" ("will lick", from "liznut") as the key Russian word here.

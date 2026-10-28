@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, I have one more idea.' Max spotlights one clear term right here: "yeshche" means "still" (from "yeshchyo"), giving the line its exact edge.
-- 'No way, I have had quite enough of your ideas.' Max holds firm at once watching Kostya, shifting the whole mood of the room in a single beat.
-- 'Are you okay with that? What is wrong with you?' Kostya inquires point-blank in front of Max without any preamble.
-- 'Of course, who else?' Max emphasizes this vivid touch in earnest: "konechno" means "of course", and it carries the main weight of what Max is saying.
-- 'Why do you not keep an eye on your own woman?' Kostya drops the thought without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'What did you not understand?' Max wonders firmly what Kostya is actually getting at here.
-- 'Maybe we should step outside?' Kostya anchors one key expression in reply: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'Before the guests run off to the restaurant next door.' Max weighs in lightly with a nod, leaving no doubt about where he stands.
-- 'Tell me, are you not ashamed of yourselves?' Kostya presses frankly in front of Max without any preamble.
-- 'Oh, excuse me, that was an accident.' Max points to one classic touch right here: "sluchayno" means "by any chance", and it carries the main weight of what Max is saying.
-- 'I was just...' Kostya lays out that thought plainly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Kostyan, I have one more idea.' Discussing the idea beside Kostya, Max puts the emphasis on "ideya" ("idea") in the middle of the talk.
+- 'No way, I have had quite enough of your ideas.' Mentioning the ideas during the talk, Max chooses "khvatit" ("enough") so Kostya gets the point right away.
+- 'Are you okay with that? What is wrong with you?' Kostya inquires point-blank if there is more going on behind the scenes.
+- 'Of course, who else?' Max openly voices this confirmation in front of Kostya using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Why do you not keep an eye on your own woman?' Speaking frankly with Max, Kostya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'What did you not understand?' Max wonders firmly if there is more going on behind the scenes.
+- 'Maybe we should step outside?' Kostya speaks up dryly right here and centers the thought on "vyydem" ("to go out, to get out", from "vyyti") without wasting a word.
+- 'Before the guests run off to the restaurant next door.' Underscoring the visitors in front of Kostya, Max chooses "sosedniy" ("neighboring") so Kostya gets the point right away.
+- 'Tell me, are you not ashamed of yourselves?' Kostya presses frankly to see how Max will answer on the spot.
+- 'Oh, excuse me, that was an accident.' Max simply uses this polite apology without hesitation using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'I was just...' Reacting plainly in the exchange, Kostya uses the little word "prosto" ("simply, just") to make the point sound effortless.
 - 'A second time, really?' Max tests candidly while looking straight at Kostya here.
-- 'We need to take you right back to your ward.' Kostya grounds one practical expression right here: "palatu" means "the hospital ward" (from "palata"), giving the line its exact edge.
+- 'We need to take you right back to your ward.' Talking about the ward right here, Kostya centers the thought on "palatu" ("the hospital ward", from "palata") without wasting a word.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will build a country house only on the island!' Nagiyev opens up frankly on the spot, refusing to let the moment slip past.
-- 'What juicy exotic food they have there!' Nagiyev weighs in promptly on the spot, testing Kostya's reaction in the middle of the exchange.
-- 'Dmitry Vladimirovich, excuse me, what is wrong with your face?' Kostya emphasizes this direct expression at once: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'It swelled up a little after the vacation in warm lands.' Nagiyev speaks lightly across the room, before Kostya can change the subject.
-- 'I probably accidentally swallowed a spider at night.' Nagiyev answers frankly in their talk, grounding the moment in plain reality.
-- 'The doctor says that this is a severe allergy.' Nagiyev focuses on one telling detail in reply: "allergiya" means "an allergy", and it carries the main weight of what Nagiyev is saying.
-- 'I have an allergy to a very good life!' Nagiyev shares this statement briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Yesterday the doctor prescribed me strong pills.' Nagiyev reacts promptly in this moment, steering the talk right where he wants it.
-- 'But from these pills one terribly wants to sleep.' Nagiyev sharpens one sharp word toward Kostya: "tabletok" means "pill, tablet" (from "tabletka"), giving the line its exact edge.
-- 'It just knocks me out at every step!' Nagiyev shares the remark before Kostya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Now I sleep almost a whole day and night in a row.' Nagiyev speaks up plainly to be clear, keeping the focus on what actually matters here.
-- 'I sleep just like a brown bear in its den in winter!' Nagiyev points to one loaded detail at once: "berloge" means "winter", and it carries the main weight of what Nagiyev is saying.
+- 'I will build a country house only on the island!' Addressing the island in this beat, Nagiyev puts the emphasis on "ostrove" ("island") in the middle of the talk.
+- 'What juicy exotic food they have there!' Nagiyev weighs in promptly without a pause, keeping the focus on what actually matters here.
+- 'Dmitry Vladimirovich, excuse me, what is wrong with your face?' Highlighting the face before Nagiyev, Kostya leans on "litsom" ("face", a form of "litso") to give the remark its edge.
+- 'It swelled up a little after the vacation in warm lands.' Underscoring the vacation in front of Kostya, Nagiyev brings in "zharkikh" ("warm", from "zharkiy") as the key Russian word here.
+- 'I probably accidentally swallowed a spider at night.' Focusing on the night with Kostya, Nagiyev brings the exchange with Kostya back to practical reality.
+- 'The doctor says that this is a severe allergy.' Turning to a severe allergy to Kostya, Nagiyev brings in "allergiya" ("an allergy") to make the meaning unmistakable.
+- 'I have an allergy to a very good life!' Nagiyev responds pointedly with a smile, testing Kostya's reaction in the middle of the exchange.
+- 'Yesterday the doctor prescribed me strong pills.' Nagiyev responds promptly around Kostya, to clear the air between them once and for all.
+- 'But from these pills one terribly wants to sleep.' Highlighting the pill at once, Nagiyev lands on "tabletok" ("pill, tablet", built on "tabletka") to keep the statement grounded.
+- 'It just knocks me out at every step!' Discussing the step at once, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Now I sleep almost a whole day and night in a row.' Nagiyev proceeds plainly toward Kostya, refusing to let the moment slip past.
+- 'I sleep just like a brown bear in its den in winter!' Emphasizing the winter at once, Nagiyev puts the emphasis on "berloge" ("winter") in the middle of the talk.

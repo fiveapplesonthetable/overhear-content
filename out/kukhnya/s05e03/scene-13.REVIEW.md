@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is our fur seal?' Eleonora frames one clear word on cue: "morskoy" means "sea, marine", and it carries the main weight of what Eleonora is saying.
-- 'Where is the mink? I made an arrangement with the zoo director.' Eleonora makes this point with ease: putting the question word "gde" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'The equipment broke down there, and the mink got sick.' Mikhail pushes back promptly with Eleonora, without trying to dress up how he really feels.
-- 'I need cute animals at the evening.' Eleonora focuses on one practical touch with Nagiyev: "zhivotnyye" means "animals" (from "zhivotnoye"), giving the line its exact edge.
-- 'Many people consider snakes very cute.' Mikhail chimes in earnestly watching Eleonora, grounding the moment in plain reality.
-- 'Who if not we will support nature?' Nagiyev challenges briskly whether Mikhail really thought this through.
-- 'Today we have a fur seal and a mink.' Nagiyev chooses one concrete element at once: "morskoy" means "sea, marine", and it carries the main weight of what Nagiyev is saying.
-- 'And also our Far Eastern rat snake.' Nagiyev answers wryly across the room, to clear the air between them once and for all.
-- 'But unfortunately they are not with us today.' Nagiyev proceeds calmly watching Eleonora, steering the talk right where he wants it.
-- 'Neither the fur seal nor the mink made it here.' Nagiyev features one pointed word at once: "doyekhali" means "to reach, arrive" (from "doyekhat"), giving the line its exact edge.
-- 'They are simply dropping like flies.' Nagiyev hands over that reply with candor: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'But we will have to chip in for the snake today.' Nagiyev speaks steadily with a smile, without trying to dress up how he really feels.
+- 'And where is our fur seal?' Bringing up the kitten in this beat, Eleonora centers the remark on "morskoy" ("sea, marine") without any extra fuss.
+- 'Where is the mink? I made an arrangement with the zoo director.' Returning to the zoo director right here, Eleonora puts the question word "gde" right at the start so Mikhail hears the focus immediately.
+- 'The equipment broke down there, and the mink got sick.' Mikhail pushes back promptly watching Eleonora, refusing to let the moment slip past.
+- 'I need cute animals at the evening.' Highlighting the animals before Mikhail, Eleonora leans on "zhivotnyye" ("animals", a form of "zhivotnoye") to give the remark its edge.
+- 'Many people consider snakes very cute.' Pointing to the snakes in front of Eleonora, Mikhail reaches for the Russian word "schitayut" ("consider, think", built from "schitat") right at the center of the line.
+- 'Who if not we will support nature?' Nagiyev challenges briskly before Mikhail can change the subject.
+- 'Today we have a fur seal and a mink.' Addressing the kitten before Mikhail, Nagiyev chooses "morskoy" ("sea, marine") so Mikhail gets the point right away.
+- 'And also our Far Eastern rat snake.' Emphasizing the rat snake in the exchange, Nagiyev centers the remark on "dalnevostochnyy" ("Far Eastern") without any extra fuss.
+- 'But unfortunately they are not with us today.' Nagiyev replies calmly watching Mikhail, to clear the air between them once and for all.
+- 'Neither the fur seal nor the mink made it here.' Underscoring the fur seal beside Mikhail, Nagiyev chooses "kotika" ("of the fur seal", from the root "kotik") so Mikhail hears the exact meaning.
+- 'They are simply dropping like flies.' Mentioning the flies at once, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'But we will have to chip in for the snake today.' Nagiyev weighs in steadily in this moment, so Mikhail knows he is not just making small talk.

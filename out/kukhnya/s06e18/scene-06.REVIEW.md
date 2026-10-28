@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a handsome fellow, such a plump horse.' The guest speaks firmly without a pause, to clear the air between them once and for all.
-- 'And he also loves carrots.' Mikhail frames one familiar touch right here: "morkovku" means "carrot" (from "morkovka"), giving the line its exact edge.
-- 'They will cook him right with carrots.' The guest weighs in lightly without holding back, testing Mikhail's reaction in the middle of the exchange.
-- 'Wait, in what sense is that?' Mikhail questions point-blank in front of Timur without any preamble.
-- 'My acquaintance runs a Tatar restaurant.' Timur centers this telling detail toward the guest: "tatarskiy" means "Tatar", and it carries the main weight of what Timur is saying.
-- 'He happens to need horsemeat right now.' Timur cuts in candidly to settle things, steering the talk right where he wants it.
-- 'I can take him right now.' The guest reacts evenly in this moment, to clear the air between them once and for all.
-- 'Do you have a conscience at all?' Mikhail sharpens one clear expression on cue: "voobshche" means "at all", and it carries the main weight of what Mikhail is saying.
-- 'I will dream about him at night!' Mikhail cuts in earnestly with the guest, testing the guest's reaction in the middle of the exchange.
-- 'I will not give the horse away for meat!' Mikhail speaks up promptly watching Timur, saying out loud what both of them already know.
-- 'That kind of money for a small horse?' The guest emphasizes this telling choice for Mikhail: "malenkuyu" means "small, little" (from "malenkiy"), giving the line its exact edge.
-- 'She herself is ashamed to hear that.' The guest holds firm wryly with Timur, steering the talk right where he wants it.
+- 'What a handsome fellow, such a plump horse.' The guest steps in firmly hearing Mikhail, refusing to let the moment slip past.
+- 'And he also loves carrots.' Bringing up the carrot on the spot, Mikhail chooses "morkovku" ("carrot", from the root "morkovka") so the guest hears the exact meaning.
+- 'They will cook him right with carrots.' Pointing to the carrots before Mikhail, the guest uses "morkovkoy" ("with carrots", from "morkovka") to make the point stick.
+- 'Wait, in what sense is that?' Mikhail questions point-blank how Timur expects that to work in practice.
+- 'My acquaintance runs a Tatar restaurant.' Underscoring a restaurant beside Mikhail, Timur brings in "tatarskiy" ("Tatar") to make the meaning unmistakable.
+- 'He happens to need horsemeat right now.' Highlighting the horse meat in this beat, Timur uses "konina" ("horse meat") to carry the main weight of the thought.
+- 'I can take him right now.' The guest follows up evenly hearing Timur, shifting the mood of the conversation in a single beat.
+- 'Do you have a conscience at all?' Turning to a conscience in this beat, Mikhail uses "voobshche" ("at all") to carry the main weight of the thought.
+- 'I will dream about him at night!' Talking about the night in this beat, Mikhail uses "nochyu" ("night", from "noch") to make the point stick.
+- 'I will not give the horse away for meat!' Mikhail speaks up promptly facing the guest, watching the guest's face to see how the news lands.
+- 'That kind of money for a small horse?' Turning to the money in this beat, the guest brings in "malenkuyu" ("small, little", from "malenkiy") as the key Russian word here.
+- 'She herself is ashamed to hear that.' The guest jumps in evenly with Mikhail and puts the emphasis on "slyshat" ("to hear") in the middle of the talk.

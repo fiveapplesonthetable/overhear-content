@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well what, has he not come out of the office yet?' Denis phrases that point with warmth: putting the question word "chto" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'Wait, look, is that not him walking over there by chance?' Senya asks evenly as the guest tries to explain the situation.
-- 'Hey, stop right there, we want to talk!' Denis uses one pointed expression with the guest: "pogovorit" means "to talk", and it carries the main weight of what Denis is saying.
-- 'Hold him tighter, quiet, that is it, calm down right now!' Senya frames the thought toward the guest: the "-sya" ending on "uspokoysya" ("calm down") turns the action inward or makes it happen between people naturally.
-- 'Quiet, get up calmly on your feet, we are not fighting.' Denis speaks up steadily without any doubt, shifting the whole mood of the room in a single beat.
-- 'Did you seriously run over here just to talk with me?' The guest highlights this clear term at once: "pribezhali" means "came running" (from "pribezhat"), giving the line its exact edge.
-- 'Listen to me, there is nothing between Sveta and me.' Denis directs this answer frankly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'I am speaking seriously, she and I are just friends.' Denis responds right away to settle things, saying out loud what both of them already know.
-- 'And you two are a great couple, be together.' Denis points to one practical detail toward the guest: "otlichnaya" means "excellent" (from "otlichnyy"), giving the line its exact edge.
-- 'Guys, what is with you, Sveta is my own sister!' The guest shares this point calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Wait, how is she your own sister?' Senya asks skeptically about what Denis just brought up.
-- 'Then why did you hit me in the courtyard this morning?' Denis spotlights this direct expression right here: "dvore" means "yard, courtyard" (from "dvor"), giving the line its exact edge.
+- 'Well what, has he not come out of the office yet?' Addressing the office beside Senya, Denis puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'Wait, look, is that not him walking over there by chance?' Senya asks evenly where this conversation is heading next.
+- 'Hey, stop right there, we want to talk!' Mentioning the place beside Senya, Denis brings in "pogovorit" ("to talk") to make the meaning unmistakable.
+- 'Hold him tighter, quiet, that is it, calm down right now!' Leaning in boldly with Denis, the "-sya" ending on "uspokoysya" ("calm down") marks an action that unfolds mutually or turns back on the speaker.
+- 'Quiet, get up calmly on your feet, we are not fighting.' Denis replies steadily during the talk, bringing things back to earth after the buildup.
+- 'Did you seriously run over here just to talk with me?' The guest counters earnestly at once and lands on "pribezhali" ("came running", built on "pribezhat") to keep the statement grounded.
+- 'Listen to me, there is nothing between Sveta and me.' Opening up readily beside the guest, Denis reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'I am speaking seriously, she and I are just friends.' Denis follows up right away in their talk, so the guest knows he is not just making small talk.
+- 'And you two are a great couple, be together.' Confirming how excellent things are before the guest, Denis puts the weight on "otlichnaya" ("excellent", from "otlichnyy") as the exchange unfolds.
+- 'Guys, what is with you, Sveta is my own sister!' Emphasizing how dear things are beside Denis, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Wait, how is she your own sister?' Senya asks skeptically why things suddenly took this turn between them.
+- 'Then why did you hit me in the courtyard this morning?' Talking about the yard right here, Denis brings in "dvore" ("yard, courtyard", from "dvor") as the key Russian word here.

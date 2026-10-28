@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then, shall we go over the plan one more time?' Max spotlights one concrete term on cue: "proydyomsya" means "will go over" (from "proytis"), giving the line its exact edge.
-- 'Repetition is the mother of learning.' Rodion makes this point with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'So, I carefully get under the wheels.' Rodion fires back openly with a nod, letting the remark speak for itself.
-- 'Then you appear, Maxim Leonidovich.' Rodion grounds one telling piece on cue: "poyavlyayetes" means "appear" (from "poyavlyatsya"), giving the line its exact edge.
-- 'You say that the incident is recorded on the phone.' Rodion stands firm pointedly across the room, grounding the moment in plain reality.
-- 'And you put forward your demands.' Rodion speaks calmly as things stand, saying out loud what both of them already know.
-- 'Excellent. Go ahead!' Max favors one sharp touch toward Rodion: "otlichno" means "perfect, great", and it carries the main weight of what Max is saying.
-- 'There is her car. Go on, Rodion Sergeyevich!' Max drops the reaction facing Rodion: the word "davayte" is the polite or group version of "let's", inviting Rodion into the plan right away.
-- 'Should I tear your head off?' Max presses firmly in front of Rodion without any preamble.
-- 'And where is the little lady?' Rodion colors this telling piece in reply: "damochka" means "little lady", and it carries the main weight of what Rodion is saying.
-- 'I'll show you a little lady right now! Get out of here!' Max spotlights one pointed piece on cue: "damochku" means "little lady" (from "damochka"), giving the line its exact edge.
-- 'They buy all these SUVs, you can't tell which one to fall under.' Rodion replies openly to settle things, leaving no doubt about where he stands.
+- 'Well then, shall we go over the plan one more time?' Discussing the plan right here, Max centers the thought on "proydyomsya" ("will go over", from "proytis") without wasting a word.
+- 'Repetition is the mother of learning.' Returning to the repetition during the talk, Rodion links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'So, I carefully get under the wheels.' Rodion speaks openly facing Max, grounding the moment in plain reality.
+- 'Then you appear, Maxim Leonidovich.' Rodion opens up boldly in front of Max and brings in "poyavlyayetes" ("appear", from "poyavlyatsya") as the key Russian word here.
+- 'You say that the incident is recorded on the phone.' Mentioning the incident in front of Max, Rodion puts the emphasis on "proisshestviye" ("incident, accident") in the middle of the talk.
+- 'And you put forward your demands.' Rodion steps in calmly with a shrug, shifting the mood of the conversation in a single beat.
+- 'Excellent. Go ahead!' Max follows up openly to Rodion and uses "otlichno" ("perfect, great") to carry the main weight of the thought.
+- 'There is her car. Go on, Rodion Sergeyevich!' Pointing to the car before Rodion, Max uses the polite or group form "davayte" ("let's") to bring Rodion into the plan.
+- 'Should I tear your head off?' Max presses firmly what Rodion is actually getting at here.
+- 'And where is the little lady?' Pointing to the lady in the exchange, Rodion puts the emphasis on "damochka" ("little lady") in the middle of the talk.
+- 'I'll show you a little lady right now! Get out of here!' Max continues decisively hearing Rodion, leaving no doubt about where he stands.
+- 'They buy all these SUVs, you can't tell which one to fall under.' Rodion fires back openly facing Max, steering the talk right where he wants it.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, I beg you, hear me out.' Denis frames this sharp element right here: "vyslushay" means "hear out, listen to" (from "vyslushat"), giving the line its exact edge.
-- 'This is a recording from our Vika's office.' Denis voices this statement beside Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Look, nothing happened between us.' Denis stands firm bluntly with a nod, refusing to let the moment slip past.
-- 'I am not going to watch anything at all!' Katya centers one key term with Denis: "voobshche" means "at all", and it carries the main weight of what Katya is saying.
-- 'I will not leave until you watch it.' Denis counters right away with a sigh, shifting the whole mood of the room in a single beat.
-- 'Denis, are you completely sure about that?' Katya inquires plainly whether Denis really thought this through.
-- 'Yes, just look at this screen.' Denis uses one vivid piece with Katya: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
-- 'You see, I just walked over to the window.' Denis states the reaction plainly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Do not come near me, I will jump!' Denis steps in dryly before Katya, watching Katya's face to see how the news lands.
-- 'Denis, had you lost your mind back then?' Katya spotlights this direct choice on cue: "soshyol" means "gone" (from "soyti"), giving the line its exact edge.
-- 'I told you, I had a bad dream!' Denis aims this warning with candor: the "-sya" ending on "prisnilsya" ("appeared in a dream") turns the action inward or makes it happen between people naturally.
-- 'All right, let me pass quietly right now.' Katya counters boldly across the room, saying out loud what both of them already know.
+- 'Katya, I beg you, hear me out.' Denis counters calmly in this beat and brings in "vyslushay" ("hear out, listen to", from "vyslushat") as the key Russian word here.
+- 'This is a recording from our Vika's office.' Touching on the office in the exchange, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Look, nothing happened between us.' Denis speaks up bluntly watching Katya, refusing to let the moment slip past.
+- 'I am not going to watch anything at all!' Katya pushes back boldly right here and chooses "voobshche" ("at all") so Denis gets the point right away.
+- 'I will not leave until you watch it.' Denis proceeds calmly before Katya and leans on "posmotrish" ("you will see", a form of "posmotret") to give the remark its edge.
+- 'Denis, are you completely sure about that?' Katya inquires plainly before Denis can change the subject.
+- 'Yes, just look at this screen.' Touching on the screen with Katya, Denis reaches for the Russian word "ekran" ("screen, display") right at the heart of the line.
+- 'You see, I just walked over to the window.' Dwelling on the window in the exchange, Denis uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Do not come near me, I will jump!' Denis replies dryly without holding back, bringing things back to earth after the buildup.
+- 'Denis, had you lost your mind back then?' Discussing the mind right here, Katya brings in "soshyol" ("gone", from "soyti") as the key Russian word here.
+- 'I told you, I had a bad dream!' Focusing on a bad dream before Katya, the "-sya" ending on "prisnilsya" ("appeared in a dream") marks an action that unfolds mutually or turns back on the speaker.
+- 'All right, let me pass quietly right now.' Katya speaks boldly facing Denis, before Denis can change the subject.

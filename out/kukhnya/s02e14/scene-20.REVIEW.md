@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The thing is.' Nastya states this answer beside Ilya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I do not know how to peel potatoes properly.' Sasha steps in firmly on the spot, to clear the air between them once and for all.
-- 'And my salmon is burning!' Ilya sharpens one sharp choice for Nastya: "losos" means "salmon", and it carries the main weight of what Ilya is saying.
-- 'Please taste this sauce.' Nastya states that thought frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Why are you all blocking my way?' Sasha questions firmly about what Ilya just brought up.
-- 'Nastya, have you seen Sasha and Ilya?' Ilya features one direct choice with Sasha: "videla" means "saw" (from "videt"), giving the line its exact edge.
-- 'I have not seen Ilya.' Nastya brings the reaction without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'This is not at all what you think.' Sasha speaks up evenly facing Nastya, refusing to let the moment slip past.
-- 'How on earth did you even get in there?' Ilya stresses one colorful expression with Nastya: "voobshche" means "at all", and it carries the main weight of what Ilya is saying.
-- 'That is what I would like to know.' Nastya lays out the reply with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I missed this place so much.' Ilya holds firm honestly before Nastya, before Nastya can change the subject.
-- 'Me too.' Ilya reaches for this vivid word at once: "tozhe" means "too", and it carries the main weight of what Ilya is saying.
-- 'What is this?' Nastya aims the reaction in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'The thing is.' Dwelling on the matter beside Sasha, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I do not know how to peel potatoes properly.' Sasha proceeds firmly around Nastya, grounding the moment in plain reality.
+- 'And my salmon is burning!' Turning to his salmon at once, Ilya lands on "losos" ("salmon") as the key everyday word here.
+- 'Please taste this sauce.' Bringing up the sauce at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Why are you all blocking my way?' Sasha questions firmly whether Nastya really thought this through.
+- 'Nastya, have you seen Sasha and Ilya?' Ilya continues sharply around Nastya and centers the thought on "videla" ("saw", from "videt") without wasting a word.
+- 'I have not seen Ilya.' Replying firmly to Ilya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'This is not at all what you think.' Sasha fires back evenly toward Nastya, to clear the air between them once and for all.
+- 'How on earth did you even get in there?' Ilya pushes back calmly around Nastya and puts the emphasis on "voobshche" ("at all") in the middle of the talk.
+- 'That is what I would like to know.' Pressing on promptly at once, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I missed this place so much.' Ilya cuts in honestly without holding back, grounding the moment in plain reality.
+- 'Me too.' Following up smoothly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'What is this?' Weighing in promptly with Ilya, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well of course, this is simply fried onion.' Barinov reaches for this clear touch on cue: "zharenyy" means "fried", and it carries the main weight of what Barinov is saying.
-- 'I think our issue is completely resolved.' Barinov weighs in openly watching Vika, saying out loud what both of them already know.
-- 'I wish you a pleasant appetite.' Barinov cuts in evenly without any doubt, watching Max's face to see how the news lands.
-- 'There they go, come on, catch up quickly!' Barinov highlights one key choice in reply: "dogonyay" means "catch up with" (from "dogonyat"), giving the line its exact edge.
-- 'Listen, hit his car in the fender.' Barinov chimes in promptly hearing Max, bringing things back to earth after the buildup.
-- 'I will hit you in the fender myself right now.' Max chimes in earnestly during the talk, watching Vika's face to see how the news lands.
-- 'Alright, just catch up and drive behind.' Barinov chooses this clear term right here: "poyezzhay" means "drive, go" (from "poyezzhat"), giving the line its exact edge.
-- 'Max, you are crazy, stop the car immediately!' Vika highlights one loaded piece in reply: "nenormalnyy" means "crazy, abnormal", and it carries the main weight of what Vika is saying.
-- 'Hello, Kostya, urgently go home right now.' Max speaks up steadily as things stand, before Barinov can change the subject.
-- 'That is all, Vika, I know what I am doing.' Max focuses on one vivid piece on cue: "delayu" means "I make" (from "delat"), giving the line its exact edge.
-- 'Why are you standing here, let us go quickly!' Barinov features one familiar expression on cue: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
-- 'You cannot drive on a red light, the fine is five thousand rubles.' Max answers decisively as they talk, leaving no doubt about where he stands.
+- 'Well of course, this is simply fried onion.' Making clear how fried things are to Max, Barinov uses "zharenyy" ("fried") to carry the main weight of the thought.
+- 'I think our issue is completely resolved.' Showing how resolved things are with Max, Barinov reaches for the Russian word "reshyon" ("resolved, settled", built from "reshyonnyy") right at the center of the line.
+- 'I wish you a pleasant appetite.' Barinov reacts evenly with a nod, bringing things back to earth after the buildup.
+- 'There they go, come on, catch up quickly!' Barinov speaks up boldly during the talk and puts the weight on "dogonyay" ("catch up with", from "dogonyat") as the exchange unfolds.
+- 'Listen, hit his car in the fender.' Discussing the car beside Max, Barinov lands on "mashinu" ("car", built on "mashina") to keep the statement grounded.
+- 'I will hit you in the fender myself right now.' Max continues earnestly without holding back, to clear the air between them once and for all.
+- 'Alright, just catch up and drive behind.' Barinov replies earnestly at once and brings in "poyezzhay" ("drive, go", from "poyezzhat") as the key Russian word here.
+- 'Max, you are crazy, stop the car immediately!' Vika proceeds plainly with a sigh, leaving no doubt about where she stands.
+- 'Hello, Kostya, urgently go home right now.' Max speaks up steadily during the talk, refusing to let the moment slip past.
+- 'That is all, Vika, I know what I am doing.' Max continues plainly around Vika and reaches for the Russian word "delayu" ("I make", built from "delat") right at the center of the line.
+- 'Why are you standing here, let us go quickly!' Barinov cuts in decisively with a shrug, so Max knows he is not just making small talk.
+- 'You cannot drive on a red light, the fine is five thousand rubles.' Max cuts in decisively in their talk, testing Barinov's reaction in the middle of the exchange.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, guys, let us do this.' Kostya reaches for this telling touch in earnest: "rebyat" means "kids, guys" (from "rebyata"), giving the line its exact edge.
-- 'Who has not chipped in yet, guys?' Sasha hands over that remark without pause: putting the question word "kto" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'We are still coming up short.' Senya replies briskly with a shrug, keeping the focus on what actually matters here.
-- 'Who has not chipped in?' Kostya sharpens one practical element for Senya: "sdal" means "gave up, ratted out" (from "sdat"), giving the line its exact edge.
-- 'You have not chipped in.' Sasha drops that line on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Oh, right, that is true.' Senya responds plainly with a shrug, refusing to let the moment slip past.
-- 'Senka has sailed his last boat.' Kostya stresses this sharp choice at once: "otborozdil" means "to sail across" (from "otborozdit"), giving the line its exact edge.
-- 'Farewell, Senka.' Sasha drops the comment with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Kostya, those are not my panties.' Senya pushes back warmly toward Kostya, refusing to let the moment slip past.
-- 'Have you seen mine?' Kostya underscores this clear expression on cue: "videla" means "saw" (from "videt"), giving the line its exact edge.
-- 'Were you the one hanging laundry in the bathroom?' Sasha sends that remark frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Come on, guys, let us do this.' Mentioning the kids in the exchange, Kostya lands on "rebyat" ("kids, guys", built on "rebyata") to keep the statement grounded.
+- 'Who has not chipped in yet, guys?' Mentioning the boys during the talk, Sasha puts the question word "kto" right at the start so Senya hears the focus immediately.
+- 'We are still coming up short.' Senya fires back briskly with a sigh, shifting the mood of the conversation in a single beat.
+- 'Who has not chipped in?' Kostya steps in decisively right here and uses "sdal" ("gave up, ratted out", from "sdat") to make the point stick.
+- 'You have not chipped in.' Weighing in briskly in front of Kostya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Oh, right, that is true.' Senya pushes back plainly in this moment, making his position completely clear.
+- 'Senka has sailed his last boat.' Mentioning the launch in this beat, Kostya puts the weight on "otborozdil" ("to sail across", from "otborozdit") as the exchange unfolds.
+- 'Farewell, Senka.' Stepping in boldly in front of Kostya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Kostya, those are not my panties.' Senya reacts warmly hearing Kostya, testing Kostya's reaction in the middle of the exchange.
+- 'Have you seen mine?' Kostya responds decisively at once and uses "videla" ("saw", from "videt") to make the point stick.
+- 'Were you the one hanging laundry in the bathroom?' Speaking smoothly on the spot, Sasha keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
 - 'Listen, Sasha, do you know where my shorts are?' Senya checks sharply about what Sasha just brought up.
-- 'Can you imagine, all of your things fit right in here.' Kostya anchors one concrete touch toward Sasha: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'Can you imagine, all of your things fit right in here.' Kostya answers warmly before Senya and reaches for the Russian word "predstavlyayesh" ("can you imagine", built from "predstavlyat") right at the center of the line.

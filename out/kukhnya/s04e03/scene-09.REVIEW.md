@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, hand me a lemon, please.' Elena counters earnestly to settle things, steering the talk right where she wants it.
-- 'Here you go.' Barinov puts that thought toward German: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'I asked for a lemon.' Elena hands over the comment to Barinov: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'Let's start with vegetable chopping.' German pushes back briskly with a shrug, so Elena knows he is not just making small talk.
-- 'Something of yours is burning, Viktor Petrovich.' Elena reaches for one sharp touch for Barinov: "gorit" means "is burning" (from "goret"), giving the line its exact edge.
-- 'Viktor Petrovich, maybe you need some pills?' Elena states the comeback with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for German purely through rising pitch at the end.
-- 'Alas, there are no pills for old age.' Barinov proceeds warmly toward Elena, refusing to let the moment slip past.
-- 'This is my fault.' Elena underscores this vivid element on cue: "vinovata" means "at fault, to blame" (from "vinovatyy"), giving the line its exact edge.
-- 'It was a foolish idea, forgive me. I am letting you go.' Elena shares that point with ease: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'Thank you.' Barinov holds firm warmly without any doubt, testing German's reaction in the middle of the exchange.
-- 'I need to go to the market.' Elena underscores one key touch in earnest: "rynok" means "market", and it carries the main weight of what Elena is saying.
-- 'You go ahead, don't worry about me. I will rest here a little.' Barinov states that answer with warmth: the "-sya" ending on "bespokoysya" ("to worry") turns the action inward or makes it happen between people naturally.
+- 'Viktor Petrovich, hand me a lemon, please.' Elena speaks earnestly on the spot, keeping the focus on what actually matters here.
+- 'Here you go.' Barinov simply delivers this courtesy word beside Elena using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'I asked for a lemon.' Touching on a lemon at once, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'Let's start with vegetable chopping.' Raising the vegetable facing Elena, German keeps Elena's attention locked on what matters.
+- 'Something of yours is burning, Viktor Petrovich.' Elena speaks up openly at once and reaches for the Russian word "gorit" ("is burning", built from "goret") right at the center of the line.
+- 'Viktor Petrovich, maybe you need some pills?' Stepping in calmly during the talk, Elena keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Alas, there are no pills for old age.' Barinov counters warmly watching Elena, to clear the air between them once and for all.
+- 'This is my fault.' Elena follows up decisively right here and reaches for the Russian word "vinovata" ("at fault, to blame", built from "vinovatyy") right at the center of the line.
+- 'It was a foolish idea, forgive me. I am letting you go.' Elena responds right away during the talk, letting the remark speak for itself.
+- 'Thank you.' Barinov politely voices this word of thanks in front of Elena using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I need to go to the market.' Emphasizing the market during the talk, Elena uses "rynok" ("market") to carry the main weight of the thought.
+- 'You go ahead, don't worry about me. I will rest here a little.' Pushing back dryly with Elena, the "-sya" ending on "bespokoysya" ("to worry") marks an action that unfolds mutually or turns back on the speaker.

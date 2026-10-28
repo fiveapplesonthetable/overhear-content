@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And do you remember how the pistol at the duel suddenly became real?' Mikhail delivers the comment before Katya: putting the question word "kak" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'And your big problems with the prefect and other troubles?' Mikhail inquires deadpan why things suddenly took this turn between them.
-- 'All your troubles brought me immense pleasure.' Mikhail underscores one loaded term right here: "nepriyatnosti" means "troubles" (from "nepriyatnost"), giving the line its exact edge.
-- 'Vitya, I will not hurt you all at once.' Mikhail chooses this clear element on cue: "bolno" means "it hurts", and it carries the main weight of what Mikhail is saying.
-- 'I will try to stretch out this pleasure of mine for longer.' Mikhail stands firm quietly as they talk, testing Katya's reaction in the middle of the exchange.
-- 'Lyova, I thought it over here, come home today together with Gulya.' Katya spotlights this key touch with Nikita: "podumala" means "thought" (from "podumat"), giving the line its exact edge.
-- 'Live peacefully at our home all together now.' Nikita phrases this statement beside Katya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Nikita, what beautiful flowers, thank you very much.' Katya fires back right away as things stand, testing Nikita's reaction in the middle of the exchange.
-- 'Tell me, are we celebrating something important this evening?' Katya frames this sharp element with Mikhail: "vazhnoye" means "important" (from "vazhnyy"), giving the line its exact edge.
-- 'You could say that, listen to me carefully, Katya.' Nikita offers that thought on cue: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'I love you and want you to become my wife.' Nikita speaks calmly without a pause, grounding the moment in plain reality.
-- 'Katya, tell me honestly, do you agree to marry me?' Nikita reaches for one concrete term in earnest: "soglasna" means "agree" (from "soglasnyy"), giving the line its exact edge.
-- 'Nikita, this is so unexpected, I need to think about it.' Katya offers the reply without fuss: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'And do you remember how the pistol at the duel suddenly became real?' Pointing to the pistol before Katya, Mikhail puts the question word "kak" right at the start so Katya hears the focus immediately.
+- 'And your big problems with the prefect and other troubles?' Mikhail inquires deadpan where this conversation is heading next.
+- 'All your troubles brought me immense pleasure.' Pointing to the troubles at once, Mikhail leans on "nepriyatnosti" ("troubles", a form of "nepriyatnost") to give the remark its edge.
+- 'Vitya, I will not hurt you all at once.' Mikhail chimes in lightly without any doubt, to clear the air between them once and for all.
+- 'I will try to stretch out this pleasure of mine for longer.' Mikhail speaks quietly hearing Katya, watching Katya's face to see how the news lands.
+- 'Lyova, I thought it over here, come home today together with Gulya.' Katya answers pointedly on the spot and brings in "segodnya" ("today") to make the meaning unmistakable.
+- 'Live peacefully at our home all together now.' Pressing on candidly to Katya, Nikita reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Nikita, what beautiful flowers, thank you very much.' Katya jumps in right away without a pause, steering the talk right where she wants it.
+- 'Tell me, are we celebrating something important this evening?' Stressing how important things are in this beat, Katya chooses "vazhnoye" ("important", from the root "vazhnyy") so Nikita hears the exact meaning.
+- 'You could say that, listen to me carefully, Katya.' Replying frankly in front of Katya, Nikita leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'I love you and want you to become my wife.' Nikita proceeds calmly with a sigh, making his position completely clear.
+- 'Katya, tell me honestly, do you agree to marry me?' Nikita cuts in firmly during the talk and centers the thought on "soglasna" ("agree", from "soglasnyy") without wasting a word.
+- 'Nikita, this is so unexpected, I need to think about it.' Holding firm candidly on the spot, Katya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".

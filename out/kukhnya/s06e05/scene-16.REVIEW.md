@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello to you again, good man.' Eva colors one concrete piece on cue: "dobryy" means "good", and it carries the main weight of what Eva is saying.
-- 'Listen, I wanted to ask your advice.' Barinov offers this answer with ease: the "-sya" ending on "posovetovatsya" ("to consult") turns the action inward or makes it happen between people naturally.
-- 'Come on, calm down first.' Eva replies quietly facing Barinov, without trying to dress up how she really feels.
-- 'I will tell you everything myself right now.' Eva centers one sharp word right here: "rasskazhu" means "will tell" (from "rasskazat"), giving the line its exact edge.
-- 'Are you doubting whether to take the money or not?' Eva states that reply with candor: the "-sya" ending on "somnevayeshsya" ("to doubt") turns the action inward or makes it happen between people naturally.
-- 'Do not take the money, it will end badly.' Eva speaks up firmly across the room, leaving no doubt about where she stands.
-- 'I knew it from the very beginning!' Barinov leans on one direct word in earnest: "nachala" means "beginning" (from "nachalo"), giving the line its exact edge.
-- 'Wait, I see a man in a dark suit.' Eva answers frankly beside Katya, saying out loud what both of them already know.
-- 'Take the money and boldly follow him.' Eva speaks candidly hearing Barinov, shifting the whole mood of the room in a single beat.
-- 'He will make you much more money.' Eva features one vivid detail right here: "sdelayet" means "will do" (from "sdelat"), giving the line its exact edge.
-- 'Understood everything, thank you so much!' Barinov sends that thought with candor: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'A molecular dinner was ordered to the room.' Katya chimes in openly toward Eva, so Eva knows she is not just making small talk.
+- 'Hello to you again, good man.' Eva plainly uses this casual greeting to Barinov using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Listen, I wanted to ask your advice.' Stepping in evenly at once, the "-sya" ending on "posovetovatsya" ("to consult") marks an action that unfolds mutually or turns back on the speaker.
+- 'Come on, calm down first.' Eva replies quietly during the talk, keeping the focus on what actually matters here.
+- 'I will tell you everything myself right now.' Eva replies directly to Barinov and puts the weight on "rasskazhu" ("will tell", from "rasskazat") as the exchange unfolds.
+- 'Are you doubting whether to take the money or not?' Holding firm earnestly before Barinov, the "-sya" ending on "somnevayeshsya" ("to doubt") marks an action that unfolds mutually or turns back on the speaker.
+- 'Do not take the money, it will end badly.' Eva speaks up firmly facing Barinov, bringing things back to earth after the buildup.
+- 'I knew it from the very beginning!' Discussing the beginning with Eva, Barinov chooses "nachala" ("beginning", from the root "nachalo") so Eva hears the exact meaning.
+- 'Wait, I see a man in a dark suit.' Emphasizing the costume during the talk, Eva reaches for the Russian word "kostyume" ("costume", built from "kostyum") right at the center of the line.
+- 'Take the money and boldly follow him.' Eva fires back candidly without any doubt, to clear the air between them once and for all.
+- 'He will make you much more money.' Turning to the money on the spot, Eva chooses "sdelayet" ("will do", from the root "sdelat") so Barinov hears the exact meaning.
+- 'Understood everything, thank you so much!' Barinov answers candidly with Eva, refusing to let the moment slip past.
+- 'A molecular dinner was ordered to the room.' Mentioning the number around Barinov, Katya speaks plainly so Barinov gets the message at once.

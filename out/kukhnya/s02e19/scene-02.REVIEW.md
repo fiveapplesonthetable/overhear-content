@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing out here?' Barinov directs this statement around Senya: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'What are you doing out here?' Cutting in firmly on the spot, Barinov puts the question word "chto" right at the start so Vika hears the focus immediately.
 - 'Would you like me to give you all the details?' Vika wonders bluntly if there is more going on behind the scenes.
-- 'Maybe your whole kitchen crew is going to start coming out here?' Senya features one colorful term toward Barinov: "kukhney" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'Of course we are.' Barinov states that point briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'They will not fix it until the day after tomorrow.' Vika fires back boldly to be clear, watching Barinov's face to see how the news lands.
-- 'You are not going to come out here anymore.' Senya grounds this vivid element right here: "vykhodit" means "to go out, to get out", and it carries the main weight of what Senya is saying.
-- 'Give Viktoriya Sergeyevna a pair of gloves.' Barinov makes this answer around Senya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'She wants to fix our restroom all by herself.' Vika steps in at once watching Senya, watching Senya's face to see how the news lands.
-- 'Wait, where is he?' Senya shapes that remark before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Where is he? Are you writing this down?' Barinov offers this update plainly here: putting the question word "gde" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'What, is one hand not enough?' Vika checks calmly in front of Barinov without any preamble.
-- 'Everyone is assembled.' Senya stresses one telling choice with Vika: "sbore" means "assembly, gathering" (from "sbor"), giving the line its exact edge.
-- 'Alright then, until they fix the staff restroom.' Barinov counters boldly with a sigh, refusing to let the moment slip past.
+- 'Maybe your whole kitchen crew is going to start coming out here?' Underscoring the kitchen on the spot, Senya chooses "kukhney" ("kitchen", from the root "kukhnya") so Barinov hears the exact meaning.
+- 'Of course we are.' Barinov readily gives this confirmation at this moment using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'They will not fix it until the day after tomorrow.' Vika replies boldly without holding back, to clear the air between them once and for all.
+- 'You are not going to come out here anymore.' Senya speaks decisively before Vika and uses "vykhodit" ("to go out, to get out") to carry the main weight of the thought.
+- 'Give Viktoriya Sergeyevna a pair of gloves.' Returning to the gloves with Senya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'She wants to fix our restroom all by herself.' Vika weighs in at once on the spot, grounding the moment in plain reality.
+- 'Wait, where is he?' Cutting in calmly at once, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Where is he? Are you writing this down?' Following up quietly around Vika, Barinov puts the question word "gde" right at the start so Vika hears the focus immediately.
+- 'What, is one hand not enough?' Vika checks calmly if there is more going on behind the scenes.
+- 'Everyone is assembled.' Touching on the assembly at once, Senya centers the thought on "sbore" ("assembly, gathering", from "sbor") without wasting a word.
+- 'Alright then, until they fix the staff restroom.' Emphasizing the staff in the exchange, Barinov chooses "personala" ("staff", from the root "personal") so Senya hears the exact meaning.

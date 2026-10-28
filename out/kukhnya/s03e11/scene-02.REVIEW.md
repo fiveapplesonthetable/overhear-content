@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you getting old already, dear Vitya?' Nagiyev lays out this statement briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Before, you did not take this long to think.' Nagiyev follows up briskly without any doubt, bringing things back to earth after the buildup.
-- 'Maybe it is already time for you to rest?' Nagiyev grounds this key piece in reply: "otdykhat" means "relax", and it carries the main weight of what Nagiyev is saying.
-- 'That is very funny, Dmitry Vladimirovich.' Barinov shapes the thought on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You have started joking too often.' Barinov weighs in quietly in this moment, saying out loud what both of them already know.
-- 'You love to joke every day.' Barinov frames one memorable touch in earnest: "kazhdyy" means "every", and it carries the main weight of what Barinov is saying.
-- 'A guest is asking for you in the dining room.' Barinov chooses this sharp expression in earnest: "sprashivayet" means "asks" (from "sprashivat"), giving the line its exact edge.
-- 'I said that you are here.' Barinov proceeds calmly hearing Nagiyev, steering the talk right where he wants it.
-- 'Let us go, Viktoria Sergeyevna, and drink coffee.' Nagiyev picks one colorful expression on cue: "poydyomte" means "come on, let's go" (from "poyti"), giving the line its exact edge.
-- 'Leave our old chef alone.' Nagiyev jumps in calmly with a smile, leaving no doubt about where he stands.
-- 'Wow, what a big scar!' Max fires back wryly facing Barinov, refusing to let the moment slip past.
-- 'Yes, that was a long time ago in the army.' Barinov features one classic piece with Nagiyev: "armii" means "army" (from "armiya"), giving the line its exact edge.
-- 'What do you want? Nothing, we are working.' Max voices that line frankly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Are you getting old already, dear Vitya?' Underscoring how dear things are in the exchange, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Before, you did not take this long to think.' Nagiyev chimes in briskly around Barinov, bringing things back to earth after the buildup.
+- 'Maybe it is already time for you to rest?' Nagiyev jumps in plainly with Barinov and leans on "otdykhat" ("relax") to give the whole sentence its punch.
+- 'That is very funny, Dmitry Vladimirovich.' Answering earnestly beside Nagiyev, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You have started joking too often.' Barinov counters quietly with a smile, making his position completely clear.
+- 'You love to joke every day.' Barinov pushes back readily at once and centers the thought on "lyubish" ("love", from "lyubit") without wasting a word.
+- 'A guest is asking for you in the dining room.' Barinov chimes in right away during the talk, shifting the mood of the conversation in a single beat.
+- 'I said that you are here.' Barinov replies calmly during the talk, keeping the focus on what actually matters here.
+- 'Let us go, Viktoria Sergeyevna, and drink coffee.' Focusing on the coffee on the spot, Nagiyev centers the thought on "poydyomte" ("come on, let's go", from "poyti") without wasting a word.
+- 'Leave our old chef alone.' Nagiyev cuts in naturally right here and leans on "starogo" ("old", a form of "staryy") to give the remark its edge.
+- 'Wow, what a big scar!' Max jumps in wryly hearing Nagiyev, before Nagiyev can change the subject.
+- 'Yes, that was a long time ago in the army.' Turning to the army in this beat, Barinov chooses "armii" ("army", from the root "armiya") so Max hears the exact meaning.
+- 'What do you want? Nothing, we are working.' Pressing on promptly with Barinov, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".

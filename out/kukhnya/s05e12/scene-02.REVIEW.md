@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you. Sorry that I bothered you.' Vika makes that thought on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'My sister is unreachable, and it is scary to go to the store alone.' Vika opens up quietly hearing Tanya, grounding the moment in plain reality.
-- 'Call at any time! Alright, I will go.' Max favors one telling piece at once: "lyuboye" means "any" (from "lyuboy"), giving the line its exact edge.
-- 'I have work in three hours.' Max reacts right away before Vika, testing Vika's reaction in the middle of the exchange.
-- 'Well, wait. Will you make it home?' Vika wonders evenly if there is more going on behind the scenes.
-- 'Stay! Here is a mattress.' Vika stresses one clear touch in reply: "ostavaysya" means "stay" (from "ostavatsya"), giving the line its exact edge.
-- 'Max, why are you here?' Tanya sends this line around Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well I brought canned stewed meat.' Max cuts in frankly with a smile, to clear the air between them once and for all.
-- 'Did you forget? Your divorce is the day after tomorrow!' Tanya frames one direct choice with Max: "poslezavtra" means "the day after tomorrow", and it carries the main weight of what Tanya is saying.
-- 'You know what, you had better spend the night at home.' Vika voices that line beside Tanya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Alright, good night.' Max weighs in firmly with Tanya, making his position completely clear.
-- 'Thank you for the stewed meat.' Vika centers this key element in earnest: "tushyonku" means "canned stewed meat" (from "tushyonka"), giving the line its exact edge.
+- 'Thank you. Sorry that I bothered you.' Vika simply drops this word of thanks in front of Max using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'My sister is unreachable, and it is scary to go to the store alone.' Vika continues quietly toward Max, shifting the mood of the conversation in a single beat.
+- 'Call at any time! Alright, I will go.' Addressing the time at once, Max brings in "vremya" ("time") to make the meaning unmistakable.
+- 'I have work in three hours.' Mentioning the job right here, Max leans on "rabotu" ("job", a form of "rabota") to give the remark its edge.
+- 'Well, wait. Will you make it home?' Vika wonders evenly while looking straight at Max here.
+- 'Stay! Here is a mattress.' Bringing up a mattress in the exchange, Vika brings in "ostavaysya" ("stay", from "ostavatsya") as the key Russian word here.
+- 'Max, why are you here?' Reacting warmly during the talk, Tanya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well I brought canned stewed meat.' Max answers frankly hearing Tanya, leaving no doubt about where he stands.
+- 'Did you forget? Your divorce is the day after tomorrow!' Touching on the divorce with Vika, Tanya chooses "poslezavtra" ("the day after tomorrow") so Vika gets the point right away.
+- 'You know what, you had better spend the night at home.' Reacting frankly during the talk, Vika starts with "davay" ("come on, let's") to invite Tanya right into the action.
+- 'Alright, good night.' Max smoothly voices this word of agreement at this moment using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Thank you for the stewed meat.' Vika directly delivers this word of thanks toward Max using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

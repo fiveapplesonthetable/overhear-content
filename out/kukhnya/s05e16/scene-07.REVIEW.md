@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fine, Vitya, tell me straight, how much money do you want?' Nagiyev favors this telling expression toward Barinov: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'Wait, who do you take me for here anyway?' Barinov hands over this statement around Nagiyev: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'I am asking seriously, how much do you want for the dinner?' Nagiyev wonders point-blank why things suddenly took this turn between them.
-- 'You should have started with that right away—thirty thousand!' Barinov features one colorful element right here: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
-- 'Thirty thousand? What on earth did you decide to serve us?' Nagiyev offers this statement without pause: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Tender beef tenderloin with white Italian truffle!' Barinov proceeds candidly without a pause, refusing to let the moment slip past.
-- 'After all, this white truffle is the true king of delicacies!' Barinov picks one concrete detail with Nagiyev: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Barinov is saying.
-- 'Fine, go prepare your expensive king right away!' Nagiyev gives this update on cue: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'I want her to be thrilled tomorrow evening!' Nagiyev reacts calmly to be clear, bringing things back to earth after the buildup.
-- 'The main thing is that you do not mess up on the date tomorrow!' Barinov spotlights one sharp term toward Nagiyev: "glavnoye" means "important" (from "glavnyy"), giving the line its exact edge.
-- 'Agreed, expect us tomorrow at seven in the evening sharp.' Nagiyev offers this point facing Barinov: the "-sya" ending on "dogovorilis" ("agreed, deal") turns the action inward or makes it happen between people naturally.
-- 'Great, one big truffle will not miss a small slice!' Barinov stands firm candidly in this moment, letting the remark speak for itself.
+- 'Fine, Vitya, tell me straight, how much money do you want?' Discussing the money beside Barinov, Nagiyev leans on "deneg" ("money", a form of "dengi") to give the remark its edge.
+- 'Wait, who do you take me for here anyway?' Holding firm candidly around Nagiyev, Barinov keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'I am asking seriously, how much do you want for the dinner?' Nagiyev wonders point-blank before Barinov can change the subject.
+- 'You should have started with that right away—thirty thousand!' Highlighting the thousand on the spot, Barinov brings in "tysyach" ("thousand", from "tysyacha") as the key Russian word here.
+- 'Thirty thousand? What on earth did you decide to serve us?' Reacting readily in this beat, Nagiyev puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Tender beef tenderloin with white Italian truffle!' Barinov counters candidly during the talk, refusing to let the moment slip past.
+- 'After all, this white truffle is the true king of delicacies!' Pointing out how white things are before Nagiyev, Barinov reaches for the Russian word "nastoyashchiy" ("real, genuine") right at the heart of the line.
+- 'Fine, go prepare your expensive king right away!' Bringing up the king with Barinov, Nagiyev centers the thought on "dorogogo" ("expensive", from "dorogoy") without wasting a word.
+- 'I want her to be thrilled tomorrow evening!' Addressing the delight without a pause, Nagiyev speaks plainly so Barinov gets the message at once.
+- 'The main thing is that you do not mess up on the date tomorrow!' Describing how important things are in front of Nagiyev, Barinov uses "glavnoye" ("important", from "glavnyy") to make the point stick.
+- 'Agreed, expect us tomorrow at seven in the evening sharp.' Touching on the evening at once, the "-sya" ending on "dogovorilis" ("agreed, deal") marks an action that unfolds mutually or turns back on the speaker.
+- 'Great, one big truffle will not miss a small slice!' Barinov speaks up candidly across the room, refusing to let the moment slip past.

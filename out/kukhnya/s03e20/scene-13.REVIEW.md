@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, guys, you arrived just in time!' Vika centers one vivid expression in earnest: "rebyata" means "the boys, the lads", and it carries the main weight of what Vika is saying.
-- 'Come on, Nastya, are you ready to start our dance?' Kostya sends that remark frankly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Hello everyone! How are things going here?' Max tests calmly to see how Kostya will answer on the spot.
-- 'Max, the doctor strictly forbade you to leave the house!' Vika uses one clear word right here: "doktor" means "Doctor", and it carries the main weight of what Vika is saying.
-- 'I just got really tired of lying at home all day.' Max drops that line with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'And I really wanted to see the place where I used to work.' Max speaks up earnestly without a pause, watching Vika's face to see how the news lands.
-- 'Listen, it is really cool here in your restaurant!' Max picks this telling piece right here: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'Hey, Max! How is your head today, better?' Kostya shares this point calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Tell me, please, where is our kitchen?' Max questions eagerly where this conversation is heading next.
-- 'The kitchen is over there! And now let us dance to the music!' Kostya picks one classic touch in reply: "kukhnya" means "kitchen", and it carries the main weight of what Kostya is saying.
-- 'Vika, I do not know if I ever said these words to you before.' Max grounds one memorable element in earnest: "govoril" means "said, were saying" (from "govorit"), giving the line its exact edge.
-- 'I wonder what words exactly you wanted to say to me?' Vika challenges quietly whether Max really thought this through.
-- 'I wanted to say that you are simply very beautiful.' Max features one memorable choice in reply: "krasivaya" means "pretty, beautiful" (from "krasivyy"), giving the line its exact edge.
+- 'Oh, guys, you arrived just in time!' Highlighting the boys on the spot, Vika chooses "rebyata" ("the boys, the lads") so Kostya gets the point right away.
+- 'Come on, Nastya, are you ready to start our dance?' Explaining how ready things are in the exchange, Kostya starts with "davay" ("come on, let's") to invite Max right into the action.
+- 'Hello everyone! How are things going here?' Max tests calmly if there is more going on behind the scenes.
+- 'Max, the doctor strictly forbade you to leave the house!' Touching on the doctor in the exchange, Vika brings in "doktor" ("Doctor") to make the meaning unmistakable.
+- 'I just got really tired of lying at home all day.' Looking over dryly with Vika, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'And I really wanted to see the place where I used to work.' Max counters earnestly around Vika, letting the remark speak for itself.
+- 'Listen, it is really cool here in your restaurant!' Emphasizing the restaurant in this beat, Max chooses "restorane" ("restaurant", from the root "restoran") so Kostya hears the exact meaning.
+- 'Hey, Max! How is your head today, better?' Addressing the head right here, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Tell me, please, where is our kitchen?' Max questions eagerly why things suddenly took this turn between them.
+- 'The kitchen is over there! And now let us dance to the music!' Emphasizing the kitchen in this beat, Kostya uses "kukhnya" ("kitchen") to carry the main weight of the thought.
+- 'Vika, I do not know if I ever said these words to you before.' Max proceeds calmly in their talk, shifting the mood of the conversation in a single beat.
+- 'I wonder what words exactly you wanted to say to me?' Vika challenges quietly before Max can change the subject.
+- 'I wanted to say that you are simply very beautiful.' Highlighting how pretty Vika is to Vika, Max centers the thought on "krasivaya" ("pretty, beautiful", from "krasivyy") without wasting a word.

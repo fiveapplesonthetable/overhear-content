@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, hand me the sauté pan.' Barinov puts this point to Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'What kind of nonsense is this?' Barinov questions calmly what Lyova is actually getting at here.
-- 'I need my copper sauté pan.' Barinov leans on one memorable term with Kostya: "soteynik" means "pan", and it carries the main weight of what Barinov is saying.
-- 'Your copper sauté pan stayed there.' Lyova highlights one vivid piece with Kostya: "soteynik" means "pan", and it carries the main weight of what Lyova is saying.
-- 'It was in the other restaurant.' Lyova holds firm at once without holding back, testing Barinov's reaction in the middle of the exchange.
-- 'I need it right now.' Barinov points to one sharp term with Lyova: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
-- 'Here, take the compote.' Kostya phrases that answer frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Do not give him too much, okay?' Kostya checks firmly in front of Lyova without any preamble.
-- 'Otherwise it will go badly.' Kostya centers one pointed touch on cue: "plokho" means "badly", and it carries the main weight of what Kostya is saying.
-- 'It will be like last time.' Kostya follows up briskly in this moment, shifting the whole mood of the room in a single beat.
-- 'Here are the discs with cartoons.' Kostya weighs in pointedly with a shrug, watching Barinov's face to see how the news lands.
-- 'I understood everything, chef.' Lyova chooses one practical element right here: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
+- 'Lyova, hand me the sauté pan.' Turning to the pan around Lyova, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'What kind of nonsense is this?' Barinov questions calmly if there is more going on behind the scenes.
+- 'I need my copper sauté pan.' Discussing the pan in front of Lyova, Barinov centers the remark on "soteynik" ("pan") without any extra fuss.
+- 'Your copper sauté pan stayed there.' Lyova pushes back plainly without a pause, watching Barinov's face to see how the news lands.
+- 'It was in the other restaurant.' Lyova chimes in at once without a pause, watching Barinov's face to see how the news lands.
+- 'I need it right now.' Barinov pushes back openly at once and puts the weight on "nuzhen" ("is needed", from "nuzhnyy") as the exchange unfolds.
+- 'Here, take the compote.' Discussing the compote in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Do not give him too much, okay?' Kostya directly uses this word of agreement in one quick breath using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Otherwise it will go badly.' Kostya reacts openly in the exchange and uses "plokho" ("badly") to carry the main weight of the thought.
+- 'It will be like last time.' Kostya counters calmly in this beat and reaches for the Russian word "proshlyy" ("last, previous") right at the heart of the line.
+- 'Here are the discs with cartoons.' Kostya replies pointedly without a pause, steering the talk right where he wants it.
+- 'I understood everything, chef.' Lyova steps in promptly during the talk and uses "ponyal" ("understood", from "ponyat") to make the point stick.

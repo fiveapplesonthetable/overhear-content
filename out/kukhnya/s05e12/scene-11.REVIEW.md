@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you not picking up the phone? Is everything alright?' Max makes the reply plainly here: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'It is fine.' Vika reacts sharply with Max, keeping the focus on what actually matters here.
-- 'Vika, I understand your condition.' Max reaches for one memorable detail in earnest: "sostoyaniye" means "state", and it carries the main weight of what Max is saying.
-- 'But you know what? I am ready to help you in everything.' Max gives that answer facing Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Your legs probably hurt, right?' Max challenges bluntly if there is more going on behind the scenes.
-- 'Relax.' Max colors this vivid detail in earnest: "rasslabsya" means "relax" (from "rasslabitsya"), giving the line its exact edge.
-- 'Oh, that is nice, thank you.' Vika frames that answer on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Well you want attention, do you not?' Max quizzes frankly where this conversation is heading next.
-- 'Your sister said so.' Max anchors one sharp choice on cue: "sestra" means "sister", and it carries the main weight of what Max is saying.
-- 'Lavrov, just not with you!' Vika stands firm boldly toward Max, before Max can change the subject.
-- 'All that I need from you is tomorrow's divorce!' Vika holds firm decisively around Max, keeping the focus on what actually matters here.
-- 'Vika, I just wanted to help!' Max grounds this vivid choice in reply: "pomoch" means "to help", and it carries the main weight of what Max is saying.
+- 'Why are you not picking up the phone? Is everything alright?' Weighing in naturally right here, Max puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'It is fine.' Vika chimes in sharply without holding back, refusing to let the moment slip past.
+- 'Vika, I understand your condition.' Touching on the state in front of Vika, Max reaches for the Russian word "sostoyaniye" ("state") right at the heart of the line.
+- 'But you know what? I am ready to help you in everything.' Underscoring how ready he is in the exchange, Max puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'Your legs probably hurt, right?' Max challenges bluntly what Vika is actually getting at here.
+- 'Relax.' Max reacts dryly before Vika and puts the weight on "rasslabsya" ("relax", from "rasslabitsya") as the exchange unfolds.
+- 'Oh, that is nice, thank you.' Greeting Max briskly toward Max, Vika says "spasibo" ("thank you"), the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Well you want attention, do you not?' Max quizzes frankly before Vika can change the subject.
+- 'Your sister said so.' Pointing to the sister to Vika, Max uses "sestra" ("sister") to carry the main weight of the thought.
+- 'Lavrov, just not with you!' Vika replies boldly with a nod, grounding the moment in plain reality.
+- 'All that I need from you is tomorrow's divorce!' Vika responds decisively without holding back, so Max knows she is not just making small talk.
+- 'Vika, I just wanted to help!' Max replies warmly before Vika and chooses "pomoch" ("to help") so Vika gets the point right away.

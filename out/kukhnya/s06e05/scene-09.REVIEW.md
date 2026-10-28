@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to say goodnight to you.' Nastya chimes in plainly across the room, steering the talk right where she wants it.
-- 'Did you get so worked up over the sink?' Nastya chooses one sharp term right here: "razvolnovalsya" means "to get nervous" (from "razvolnovatsya"), giving the line its exact edge.
-- 'Alright then, I forgive you.' Nastya gives this answer in earnest: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that the guest is on board.
-- 'I chose new furniture for the restaurant.' The guest replies evenly to settle things, before Nikita can change the subject.
-- 'I just cannot make up my mind about the color.' The guest picks one colorful expression in reply: "opredelitsya" means "to make up one's mind", and it carries the main weight of what the guest is saying.
-- 'What do you think, is gold not too much?' The guest drops the thought frankly here: putting the question word "kak" right at the front of the line lets Nikita hear the point of the question on the very first beat.
-- 'Dad, did you call me to talk about chairs?' Nikita tests sharply before the guest can change the subject.
-- 'I called you to offer you a good job.' The guest colors one sharp word toward Nikita: "khoroshuyu" means "good" (from "khoroshiy"), giving the line its exact edge.
-- 'Enough, you have already proven everything to me.' The guest spotlights one sharp word with Nastya: "khvatit" means "enough", and it carries the main weight of what the guest is saying.
-- 'Come back home soon, take the pen.' The guest answers bluntly with a shrug, before Nikita can change the subject.
-- 'Write down any good salary for yourself.' The guest stresses one loaded term toward Nastya: "khoroshuyu" means "good" (from "khoroshiy"), giving the line its exact edge.
-- 'Excuse me, I will answer quickly right now.' Nikita frames this update in earnest: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'I wanted to say goodnight to you.' Nastya follows up plainly toward the guest, refusing to let the moment slip past.
+- 'Did you get so worked up over the sink?' Discussing the sink in front of the guest, Nastya chooses "razvolnovalsya" ("to get nervous", from the root "razvolnovatsya") so the guest hears the exact meaning.
+- 'Alright then, I forgive you.' Nastya follows up bluntly with a shrug, refusing to let the moment slip past.
+- 'I chose new furniture for the restaurant.' The guest proceeds evenly toward Nastya, to clear the air between them once and for all.
+- 'I just cannot make up my mind about the color.' Emphasizing the color on the spot, the guest reaches for the Russian word "opredelitsya" ("to make up one's mind") right at the heart of the line.
+- 'What do you think, is gold not too much?' Replying directly beside Nikita, the guest puts the question word "kak" right at the start so Nikita hears the focus immediately.
+- 'Dad, did you call me to talk about chairs?' Nikita tests sharply why things suddenly took this turn between them.
+- 'I called you to offer you a good job.' Focusing on a good job at once, the guest reaches for the Russian word "khoroshuyu" ("good", built from "khoroshiy") right at the center of the line.
+- 'Enough, you have already proven everything to me.' The guest pushes back candidly without any doubt, steering the talk right where he wants it.
+- 'Come back home soon, take the pen.' The guest reacts bluntly in this moment, without trying to dress up how he really feels.
+- 'Write down any good salary for yourself.' Mentioning the salary in front of Nikita, the guest brings in "khoroshuyu" ("good", from "khoroshiy") as the key Russian word here.
+- 'Excuse me, I will answer quickly right now.' Nikita smoothly shares this informal apology in one quick breath using "izvini" ("sorry") — the casual singular apology you use with someone you know well.

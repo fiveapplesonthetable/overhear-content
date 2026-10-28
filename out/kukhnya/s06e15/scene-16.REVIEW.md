@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, he found her all by himself!' Kostya stresses one pointed choice toward Katya: "nashyol" means "found" (from "nayti"), giving the line its exact edge.
-- 'You wanted to introduce him to someone yourself.' Kostya favors one concrete term in reply: "poznakomit" means "to introduce", and it carries the main weight of what Kostya is saying.
-- 'Why must everyone live your way?' Kostya asks straight out why things suddenly took this turn between them.
-- 'Guys, please do not quarrel because of me.' Nastya underscores this key term for Kostya: "rebyata" means "the boys, the lads", and it carries the main weight of what Nastya is saying.
-- 'Dad, you have nothing to do with this at all.' Kostya frames one memorable piece for Katya: "sovershenno" means "quite, completely", and it carries the main weight of what Kostya is saying.
-- 'Do not meddle in other people's business.' Kostya steps in dryly facing Nastya, before Nastya can change the subject.
-- 'I do not meddle in other people's business at all!' Nastya colors one clear touch in earnest: "chuzhiye" means "someone else's" (from "chuzhoy"), giving the line its exact edge.
-- 'Maybe we should order some good champagne?' Katya states the reaction with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'Nastya, he found her all by himself!' Kostya follows up readily beside Nastya and brings in "nashyol" ("found", from "nayti") as the key Russian word here.
+- 'You wanted to introduce him to someone yourself.' Kostya cuts in openly toward Nastya, refusing to let the moment slip past.
+- 'Why must everyone live your way?' Kostya asks straight out before Nastya can change the subject.
+- 'Guys, please do not quarrel because of me.' Focusing on the boys around Kostya, Nastya lands on "rebyata" ("the boys, the lads") as the key everyday word here.
+- 'Dad, you have nothing to do with this at all.' Kostya chimes in decisively in their talk, refusing to let the moment slip past.
+- 'Do not meddle in other people's business.' Kostya jumps in dryly beside Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'I do not meddle in other people's business at all!' Nastya pushes back pointedly in this beat and brings in "chuzhiye" ("someone else's", from "chuzhoy") as the key Russian word here.
+- 'Maybe we should order some good champagne?' Bringing up the champagne in front of Nastya, Katya keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
 - 'What is this new molecular cuisine dish?' Katya prompts frankly how Kostya expects that to work in practice.
-- 'Our chef Yekaterina prepares this dish.' Katya sharpens one pointed piece for Nastya: "blyudo" means "dish", and it carries the main weight of what Katya is saying.
-- 'I do not advise it, it takes a very long time to prepare.' Kostya puts this answer for Katya: the "-sya" ending on "gotovitsya" ("is preparing") turns the action inward or makes it happen between people naturally.
-- 'It is decided, we will order the molecular cuisine!' Katya counters quietly toward Nastya, saying out loud what both of them already know.
+- 'Our chef Yekaterina prepares this dish.' Highlighting the dish in the exchange, Katya brings in "blyudo" ("dish") to make the meaning unmistakable.
+- 'I do not advise it, it takes a very long time to prepare.' Answering evenly before Katya, the "-sya" ending on "gotovitsya" ("is preparing") marks an action that unfolds mutually or turns back on the speaker.
+- 'It is decided, we will order the molecular cuisine!' Addressing the kitchen on the spot, Katya makes it clear to Kostya that she means every word.

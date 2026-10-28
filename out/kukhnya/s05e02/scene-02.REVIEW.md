@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will eat at work today.' Senya fires back frankly to settle things, so Barinov knows he is not just making small talk.
-- 'Livelier, livelier, let's work!' Barinov steps in earnestly on the spot, leaving no doubt about where he stands.
-- 'Come on, wake up faster.' Barinov favors this vivid word right here: "prosypayemsya" means "we wake up" (from "prosypatsya"), giving the line its exact edge.
-- 'A bit faster, well, where is our bacon?' Barinov frames that remark toward Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We are frying, frying our bacon.' Senya weighs in earnestly as they talk, shifting the whole mood of the room in a single beat.
-- 'Wake up everyone, morning has already arrived.' Barinov centers one pointed element in earnest: "prosnulis" means "woke up" (from "prosnutsya"), giving the line its exact edge.
-- 'What did you lose in my kitchen?' Barinov lays out that remark without fuss: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
-- 'I am doing your job for you.' Mikhail speaks up decisively without any doubt, refusing to let the moment slip past.
-- 'Who is this secret guest?' Barinov reaches for one clear choice toward Mikhail: "taynyy" means "secret, undercover", and it carries the main weight of what Barinov is saying.
-- 'It is a method of inspection in a hotel.' Mikhail voices the thought to Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'The inspector stays here like an ordinary guest.' Mikhail weighs in dryly on the spot, saying out loud what both of them already know.
-- 'He inspects the work of all hotel departments.' Mikhail emphasizes one classic word in earnest: "proveryayet" means "is testing" (from "proveryat"), giving the line its exact edge.
+- 'I will eat at work today.' Highlighting the work in the exchange, Senya centers the thought on "rabote" ("work", from "rabota") without wasting a word.
+- 'Livelier, livelier, let's work!' Barinov speaks earnestly watching Senya, refusing to let the moment slip past.
+- 'Come on, wake up faster.' Barinov proceeds smoothly before Senya and chooses "prosypayemsya" ("we wake up", from the root "prosypatsya") so Senya hears the exact meaning.
+- 'A bit faster, well, where is our bacon?' Focusing on his bacon on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We are frying, frying our bacon.' Senya speaks earnestly toward Barinov, making his position completely clear.
+- 'Wake up everyone, morning has already arrived.' Underscoring the morning in the exchange, Barinov centers the thought on "prosnulis" ("woke up", from "prosnutsya") without wasting a word.
+- 'What did you lose in my kitchen?' Following up calmly during the talk, Barinov puts the question word "chto" right at the start so Mikhail hears the focus immediately.
+- 'I am doing your job for you.' Mikhail proceeds decisively beside Barinov, letting the remark speak for itself.
+- 'Who is this secret guest?' Making clear how secret things are in this beat, Barinov reaches for the Russian word "taynyy" ("secret, undercover") right at the heart of the line.
+- 'It is a method of inspection in a hotel.' Mentioning the check during the talk, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'The inspector stays here like an ordinary guest.' Mikhail replies dryly with a shrug, without trying to dress up how he really feels.
+- 'He inspects the work of all hotel departments.' Turning to the job in the exchange, Mikhail puts the weight on "proveryayet" ("is testing", from "proveryat") as the exchange unfolds.

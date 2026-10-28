@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, did you really believe me just now?' Katya drops this point facing Barinov: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Come on, just do not get so upset.' Katya chimes in candidly before Max, bringing things back to earth after the buildup.
-- 'We will definitely go have coffee some time.' Katya features one key piece toward Barinov: "obyazatelno" means "surely, without fail", and it carries the main weight of what Katya is saying.
-- 'What is going on between you and this Lavrov?' Barinov gives the comeback in earnest: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'I will not tolerate any flings in my kitchen!' Barinov replies calmly without holding back, bringing things back to earth after the buildup.
-- 'You had better look at yourself, Dad.' Katya chooses one concrete touch on cue: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
-- 'The whole kitchen laughs at you acting like a teenager.' Katya speaks up decisively during the talk, steering the talk right where she wants it.
-- 'Stay out of my life, it is my own business.' Katya proceeds warmly facing Max, leaving no doubt about where she stands.
-- 'Why, I am only looking out for you!' Barinov favors one familiar word at once: "zabochus" means "care about" (from "zabotitsya"), giving the line its exact edge.
-- 'Is it not a bit too late to become a caring dad?' Katya offers this update on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Stop, wait, I have not finished speaking yet.' Barinov weighs in briskly without any doubt, keeping the focus on what actually matters here.
-- 'Chef, may I speak with you for a second?' Max centers this direct detail for Katya: "sekundu" means "second" (from "sekunda"), giving the line its exact edge.
+- 'Wait, did you really believe me just now?' Replying smoothly on the spot, Katya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Come on, just do not get so upset.' Katya responds candidly during the talk, keeping the focus on what actually matters here.
+- 'We will definitely go have coffee some time.' Highlighting the coffee right here, Katya brings in "obyazatelno" ("surely, without fail") to make the meaning unmistakable.
+- 'What is going on between you and this Lavrov?' Speaking promptly right here, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'I will not tolerate any flings in my kitchen!' Barinov speaks up calmly in this moment, bringing things back to earth after the buildup.
+- 'You had better look at yourself, Dad.' Addressing the dad before Barinov, Katya leans on "luchshe" ("better") to give the whole sentence its punch.
+- 'The whole kitchen laughs at you acting like a teenager.' Emphasizing a teenager right here, Katya brings in "podrostok" ("teenager") to make the meaning unmistakable.
+- 'Stay out of my life, it is my own business.' Katya fires back warmly without holding back, shifting the mood of the conversation in a single beat.
+- 'Why, I am only looking out for you!' Barinov speaks vividly with Katya and leans on "zabochus" ("care about", a form of "zabotitsya") to give the remark its edge.
+- 'Is it not a bit too late to become a caring dad?' Showing how caring things are before Barinov, Katya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Stop, wait, I have not finished speaking yet.' Barinov counters briskly across the room, refusing to let the moment slip past.
+- 'Chef, may I speak with you for a second?' Turning to a second during the talk, Max leans on "sekundu" ("second", a form of "sekunda") to give the remark its edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quickly restore order in the hotel!' Eleonora colors one loaded choice in earnest: "poryadok" means "order", and it carries the main weight of what Eleonora is saying.
-- 'Otherwise I will throw you out of here.' Eleonora centers one practical element with Mikhail: "vyshvyrnu" means "I will throw out" (from "vyshvyrnut"), giving the line its exact edge.
-- 'And you two listen to me.' Eleonora counters bluntly on the spot, shifting the whole mood of the room in a single beat.
-- 'You will work a week with no salary at all.' Eleonora uses this vivid detail toward Mikhail: "rabotayete" means "work" (from "rabotat"), giving the line its exact edge.
-- 'And two weeks without days off.' Eleonora chimes in at once without holding back, without trying to dress up how she really feels.
-- 'That is it, get out of here quickly!' Eleonora pushes back honestly to settle things, to clear the air between them once and for all.
-- 'No, I did not mean that for you.' Mikhail continues decisively without holding back, leaving no doubt about where he stands.
-- 'Yes, I am urgently selling a pony.' Mikhail continues lightly to be clear, watching Eleonora's face to see how the news lands.
-- 'I sure am selling it, I am waiting for you.' Mikhail counters lightly facing Ainura, saying out loud what both of them already know.
-- 'Ainura, quickly clean everything up here.' Eleonora uses this vivid element for Mikhail: "uberite" means "take away, remove" (from "ubrat"), giving the line its exact edge.
-- 'I came to work in Moscow.' Ainura speaks up honestly with a nod, shifting the whole mood of the room in a single beat.
-- 'And now I am cleaning up after a horse.' Ainura pushes back dryly with a shrug, bringing things back to earth after the buildup.
+- 'Quickly restore order in the hotel!' Pointing to the order to Mikhail, Eleonora chooses "poryadok" ("order") so Mikhail gets the point right away.
+- 'Otherwise I will throw you out of here.' Eleonora proceeds bluntly on the spot, making her position completely clear.
+- 'And you two listen to me.' Eleonora counters bluntly without any doubt, shifting the mood of the conversation in a single beat.
+- 'You will work a week with no salary at all.' Touching on the salaries right here, Eleonora lands on "zarplaty" ("salaries", built on "zarplata") to keep the statement grounded.
+- 'And two weeks without days off.' Bringing up the weekend right here, Eleonora uses "vykhodnykh" ("weekend", from "vykhodnoy") to make the point stick.
+- 'That is it, get out of here quickly!' Eleonora responds honestly beside Mikhail, bringing things back to earth after the buildup.
+- 'No, I did not mean that for you.' Mikhail answers decisively with a nod, watching Eleonora's face to see how the news lands.
+- 'Yes, I am urgently selling a pony.' Emphasizing a pony around Eleonora, Mikhail leans on "srochno" ("urgent, urgently") to give the whole sentence its punch.
+- 'I sure am selling it, I am waiting for you.' Mikhail speaks lightly without a pause, keeping the focus on what actually matters here.
+- 'Ainura, quickly clean everything up here.' Eleonora jumps in decisively right here and uses "uberite" ("take away, remove", from "ubrat") to make the point stick.
+- 'I came to work in Moscow.' Ainura responds boldly at once and chooses "priyekhala" ("came, arrived", from the root "priyekhat") so Eleonora hears the exact meaning.
+- 'And now I am cleaning up after a horse.' Ainura opens up dryly facing Eleonora, watching Eleonora's face to see how the news lands.

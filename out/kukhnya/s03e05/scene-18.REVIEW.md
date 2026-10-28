@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'An excellent car, I congratulate you.' Max speaks lightly without holding back, keeping the focus on what actually matters here.
-- 'I think our Vika will be very pleased.' Nagiyev features one pointed piece on cue: "dovolna" means "happy, pleased" (from "dovolnyy"), giving the line its exact edge.
-- 'Wait, so this is a gift for Vika?' Max makes this statement frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Now your head has started working.' Nagiyev speaks up firmly with a smile, making his position completely clear.
-- 'After all, you told me yourself yesterday.' Nagiyev spotlights one classic choice right here: "vchera" means "yesterday", and it carries the main weight of what Nagiyev is saying.
-- 'You said that Vika loves expensive gifts.' Nagiyev continues promptly across the room, making his position completely clear.
-- 'So I immediately went and bought it.' Nagiyev speaks up quietly without a pause, to clear the air between them once and for all.
-- 'My head works great too.' Nagiyev stresses one colorful expression in earnest: "rabotayet" means "works" (from "rabotat"), giving the line its exact edge.
-- 'Kostya, here is who I need right now.' Nagiyev states the reaction for Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Take the keys to my new car.' Nagiyev cuts in promptly in their talk, grounding the moment in plain reality.
-- 'You will give them to the guard so he drives it up to the terrace in half an hour.' Nagiyev features one loaded detail with Kostya: "okhranniku" means "security guard" (from "okhrannik"), giving the line its exact edge.
-- 'Alright, Dmitry Vladimirovich, I will do everything.' Kostya offers the thought in earnest: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'An excellent car, I congratulate you.' Max jumps in lightly with a nod, before Nagiyev can change the subject.
+- 'I think our Vika will be very pleased.' Nagiyev cuts in evenly beside Max and lands on "dovolna" ("happy, pleased", built on "dovolnyy") to keep the statement grounded.
+- 'Wait, so this is a gift for Vika?' Focusing on a gift in this beat, Max keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Now your head has started working.' Nagiyev fires back firmly with a sigh, leaving no doubt about where he stands.
+- 'After all, you told me yourself yesterday.' Nagiyev speaks warmly in the exchange and leans on "vchera" ("yesterday") to give the whole sentence its punch.
+- 'You said that Vika loves expensive gifts.' Touching on the presents at once, Nagiyev reaches for the Russian word "dorogiye" ("dear", built from "dorogoy") right at the center of the line.
+- 'So I immediately went and bought it.' Nagiyev steps in quietly with Max, leaving no doubt about where he stands.
+- 'My head works great too.' Touching on his head around Kostya, Nagiyev reaches for the Russian word "golova" ("head") right at the heart of the line.
+- 'Kostya, here is who I need right now.' Reacting earnestly with Kostya, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Take the keys to my new car.' Nagiyev opens up promptly without any doubt, bringing things back to earth after the buildup.
+- 'You will give them to the guard so he drives it up to the terrace in half an hour.' Highlighting the guard in front of Kostya, Nagiyev puts the weight on "okhranniku" ("security guard", from "okhrannik") as the exchange unfolds.
+- 'Alright, Dmitry Vladimirovich, I will do everything.' Kostya answers readily at once and reaches for the Russian word "khorosho" ("good, fine") right at the heart of the line.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not know what is going on between you and Katya.' Eleonora replies lightly without a pause, making her position completely clear.
-- 'But you must break up with her immediately.' Eleonora grounds this vivid element on cue: "nemedlenno" means "immediately", and it carries the main weight of what Eleonora is saying.
-- 'Wait, listen to me first...' Max reaches for one vivid term at once: "poslushayte" means "listen" (from "poslushat"), giving the line its exact edge.
-- 'Be quiet, I have not finished speaking yet!' Eleonora cuts in quietly without holding back, making her position completely clear.
-- 'I know your type of guy very well.' Eleonora colors this vivid piece with Katya: "prekrasno" means "perfectly", and it carries the main weight of what Eleonora is saying.
-- 'You will simply ruin my beloved daughter's life.' Eleonora offers the comeback on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I am offering you twenty thousand for the breakup.' Eleonora jumps in sharply without any doubt, without trying to dress up how she really feels.
-- 'I hope you understand that Katya must not know.' Eleonora spotlights one key piece with Max: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.
-- 'So you will not even hear me out?' Max delivers this line frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Eleonora purely through rising pitch at the end.
-- 'I have already spent too much time on you!' Eleonora follows up pointedly in their talk, shifting the whole mood of the room in a single beat.
-- 'Katya, listen, here is the thing with us...' Max chooses this key choice right here: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
-- 'Max, how much longer am I going to wait for my order?' Katya phrases that line in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'I do not know what is going on between you and Katya.' Eleonora jumps in lightly toward Max, letting the remark speak for itself.
+- 'But you must break up with her immediately.' Eleonora follows up naturally before Max and brings in "dolzhen" ("has to, must") to make the meaning unmistakable.
+- 'Wait, listen to me first...' Max opens up evenly with a nod, to clear the air between them once and for all.
+- 'Be quiet, I have not finished speaking yet!' Eleonora cuts in quietly hearing Max, leaving no doubt about where she stands.
+- 'I know your type of guy very well.' Focusing on the guy before Max, Eleonora leans on "prekrasno" ("perfectly") to give the whole sentence its punch.
+- 'You will simply ruin my beloved daughter's life.' Touching on the life before Max, Eleonora uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I am offering you twenty thousand for the breakup.' Eleonora speaks up sharply in this moment, testing Max's reaction in the middle of the exchange.
+- 'I hope you understand that Katya must not know.' Eleonora answers pointedly during the talk and lands on "ponimayesh" ("do you understand", built on "ponimat") to keep the statement grounded.
+- 'So you will not even hear me out?' Looking over frankly in this beat, Max keeps normal statement word order here, turning the line into a question for Eleonora purely through rising pitch.
+- 'I have already spent too much time on you!' Eleonora follows up pointedly with a nod, leaving no doubt about where she stands.
+- 'Katya, listen, here is the thing with us...' Addressing the matter around Katya, Max puts the weight on "slushay" ("listen", from "slushat") as the exchange unfolds.
+- 'Max, how much longer am I going to wait for my order?' Discussing her order before Max, Katya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.

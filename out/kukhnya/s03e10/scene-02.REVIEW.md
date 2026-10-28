@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not everything people say is the pure truth.' Max counters earnestly before Lyova, leaving no doubt about where he stands.
-- 'Besides, you brought Kostya and Nastya together.' Lyova counters decisively without any doubt, making his position completely clear.
-- 'And look how different those two people are.' Lyova grounds one sharp word for Max: "raznyye" means "various, different" (from "raznyy"), giving the line its exact edge.
-- 'Alright, I will try to arrange a date for you two.' Max directs the remark in earnest: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nagiyev is on board.
-- 'You will obey me in everything.' Max opens up steadily with a smile, refusing to let the moment slip past.
-- 'If it does not work out, it is not my fault.' Max anchors one concrete choice with Nagiyev: "poluchitsya" means "will come out", and it carries the main weight of what Max is saying.
-- 'I will come to work an hour later.' Max follows up sharply with a sigh, watching Lyova's face to see how the news lands.
-- 'Alright, it is a deal, come an hour later.' Lyova stands firm calmly with Nagiyev, to clear the air between them once and for all.
-- 'Listen, am I distracting you right now?' Nagiyev sharpens one pointed element at once: "otvlekayu" means "distract" (from "otvlekat"), giving the line its exact edge.
-- 'That is good, then listen carefully.' Nagiyev phrases this point without pause: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'I wanted to ask you for some advice.' Nagiyev holds firm dryly with a smile, testing Lyova's reaction in the middle of the exchange.
-- 'It is a question on a very delicate matter.' Nagiyev underscores one vivid detail for Max: "delikatnomu" means "delicate" (from "delikatnyy"), giving the line its exact edge.
+- 'Not everything people say is the pure truth.' Noting how clean things are to Lyova, Max lands on "chistaya" ("clean", built on "chistyy") to keep the statement grounded.
+- 'Besides, you brought Kostya and Nastya together.' Lyova steps in decisively hearing Max, without trying to dress up how he really feels.
+- 'And look how different those two people are.' Showing how various things are to Max, Lyova uses "raznyye" ("various, different", from "raznyy") to make the point stick.
+- 'Alright, I will try to arrange a date for you two.' Max jumps in earnestly without any doubt, making his position completely clear.
+- 'You will obey me in everything.' Max opens up steadily around Lyova, bringing things back to earth after the buildup.
+- 'If it does not work out, it is not my fault.' Max responds evenly before Lyova and leans on "poluchitsya" ("will come out") to give the whole sentence its punch.
+- 'I will come to work an hour later.' Emphasizing the job with Lyova, Max leans on "rabotu" ("job", a form of "rabota") to give the remark its edge.
+- 'Alright, it is a deal, come an hour later.' Lyova speaks up calmly toward Max, letting the remark speak for itself.
+- 'Listen, am I distracting you right now?' Nagiyev speaks up vividly in the exchange and lands on "otvlekayu" ("distract", built on "otvlekat") to keep the statement grounded.
+- 'That is good, then listen carefully.' Nagiyev continues sharply in the exchange and brings in "vnimatelno" ("carefully, attentively") to make the meaning unmistakable.
+- 'I wanted to ask you for some advice.' Nagiyev follows up dryly without holding back, so Lyova knows he is not just making small talk.
+- 'It is a question on a very delicate matter.' Explaining how delicate things are with Lyova, Nagiyev brings in "delikatnomu" ("delicate", from "delikatnyy") as the key Russian word here.

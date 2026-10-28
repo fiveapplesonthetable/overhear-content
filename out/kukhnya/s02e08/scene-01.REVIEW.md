@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let us go to the movies together tonight.' Kostya anchors one clear piece for Nastya: "poydemte" means "come on, let's go" (from "poyti"), giving the line its exact edge.
-- 'That is exactly what I would have said.' Nastya counters decisively to be clear, steering the talk right where she wants it.
-- 'Behind your back, Kostya, let us go to the movies.' Kostya chimes in earnestly with a sigh, leaving no doubt about where he stands.
-- 'Nastya, I am actually staying completely faithful to you.' Kostya colors one loaded word toward Nastya: "voobshche-to" means "actually", and it carries the main weight of what Kostya is saying.
-- 'She keeps making eyes at me.' Kostya offers the reaction with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And I am paying no attention to her at all.' Nastya counters dryly in this moment, grounding the moment in plain reality.
-- 'I am going to go have a word with her right now.' Kostya frames this clear piece for Nastya: "pogovoryu" means "I'll talk" (from "pogovorit"), giving the line its exact edge.
-- 'Mom, what are you doing here?' Nastya sends the comment calmly now: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'No, Vitya, have you seen this, huh?' Kostya prompts point-blank if there is more going on behind the scenes.
-- 'A two-page interview on top of that.' Nastya favors one key choice in reply: "stranitsy" means "page" (from "stranitsa"), giving the line its exact edge.
-- 'Why did they pick her instead of you?' Kostya aims that answer on cue: putting the question word "pochemu" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'On that question I trust you completely.' Nastya chimes in right away with a shrug, grounding the moment in plain reality.
-- 'While somebody sits around here acting smart.' Kostya uses this key term on cue: "umnichayet" means "to act smart" (from "umnichat"), giving the line its exact edge.
+- 'Let us go to the movies together tonight.' Focusing on the cinema in the exchange, Kostya puts the weight on "poydemte" ("come on, let's go", from "poyti") as the exchange unfolds.
+- 'That is exactly what I would have said.' Nastya replies decisively without holding back, grounding the moment in plain reality.
+- 'Behind your back, Kostya, let us go to the movies.' Kostya pushes back earnestly across the room, grounding the moment in plain reality.
+- 'Nastya, I am actually staying completely faithful to you.' Pointing to the loyalty to Nastya, Kostya lands on "vernost" ("loyalty") as the key everyday word here.
+- 'She keeps making eyes at me.' Mentioning the eyes on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And I am paying no attention to her at all.' Nastya jumps in dryly during the talk, bringing things back to earth after the buildup.
+- 'I am going to go have a word with her right now.' Kostya replies boldly in front of Nastya and centers the thought on "pogovoryu" ("I'll talk", from "pogovorit") without wasting a word.
+- 'Mom, what are you doing here?' Holding firm frankly around Kostya, Nastya puts the question word "chto" right at the start so Kostya hears the focus immediately.
+- 'No, Vitya, have you seen this, huh?' Kostya prompts point-blank to see how Nastya will answer on the spot.
+- 'A two-page interview on top of that.' Talking about the page right here, Nastya chooses "stranitsy" ("page", from the root "stranitsa") so Kostya hears the exact meaning.
+- 'Why did they pick her instead of you?' Pushing back dryly during the talk, Kostya puts the question word "pochemu" right at the start so Nastya hears the focus immediately.
+- 'On that question I trust you completely.' Nastya follows up right away toward Kostya, so Kostya knows she is not just making small talk.
+- 'While somebody sits around here acting smart.' Kostya pushes back plainly around Nastya and brings in "umnichayet" ("to act smart", from "umnichat") as the key Russian word here.

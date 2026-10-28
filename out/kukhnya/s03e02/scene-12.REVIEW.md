@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For the first time I liked a dish!' Nagiyev cuts in decisively without a pause, saying out loud what both of them already know.
-- 'You don't have the ingredient? Why didn't you order it? You messed up, huh?' Nagiyev picks one colorful detail with Katya: "ingrediyenta" means "ingredient" (from "ingrediyent"), giving the line its exact edge.
-- 'Dima, let me make you something of my own.' Barinov states that remark with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'I just want that dish that I liked in the afternoon.' Nagiyev speaks promptly facing Katya, saying out loud what both of them already know.
-- 'Fine, I will bring you that dish.' Barinov spotlights this sharp word toward Katya: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
-- 'Excuse me. Only I will name the very important ingredient for you.' Barinov puts this update plainly here: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Barinov steps in.
-- 'It was you! You did it, right?' Nagiyev checks curiously as Barinov tries to explain the situation.
-- 'Who put this on my plate?' Nagiyev underscores this clear element in earnest: "tarelku" means "plate, platter" (from "tarelka"), giving the line its exact edge.
-- 'That was not made for you.' Katya leans on one memorable touch for Barinov: "sdelano" means "made, done" (from "sdelannyy"), giving the line its exact edge.
-- 'For whom?' Nagiyev checks bluntly what Katya is actually getting at here.
-- 'For these two. They started it first.' Katya features one practical element with Barinov: "pervyye" means "first" (from "pervyy"), giving the line its exact edge.
-- 'Fedya came up with all of it, he brought the ram in.' Barinov jumps in right away to be clear, grounding the moment in plain reality.
+- 'For the first time I liked a dish!' Nagiyev continues decisively toward Barinov, shifting the mood of the conversation in a single beat.
+- 'You don't have the ingredient? Why didn't you order it? You messed up, huh?' Focusing on the ingredient on the spot, Nagiyev uses "ingrediyenta" ("ingredient", from "ingrediyent") to make the point stick.
+- 'Dima, let me make you something of my own.' Speaking calmly during the talk, Barinov starts with "davay" ("come on, let's") to invite Nagiyev right into the action.
+- 'I just want that dish that I liked in the afternoon.' Nagiyev speaks promptly toward Barinov, making his position completely clear.
+- 'Fine, I will bring you that dish.' Discussing the dish beside Nagiyev, Barinov uses "blyudo" ("dish") to carry the main weight of the thought.
+- 'Excuse me. Only I will name the very important ingredient for you.' Barinov counters boldly without a pause, watching Nagiyev's face to see how the news lands.
+- 'It was you! You did it, right?' Nagiyev checks curiously where this conversation is heading next.
+- 'Who put this on my plate?' Pointing to his plate at once, Nagiyev centers the thought on "tarelku" ("plate, platter", from "tarelka") without wasting a word.
+- 'That was not made for you.' Katya speaks steadily beside Nagiyev, shifting the mood of the conversation in a single beat.
+- 'For whom?' Nagiyev checks bluntly how Katya expects that to work in practice.
+- 'For these two. They started it first.' Katya follows up promptly during the talk and leans on "pervyye" ("first", a form of "pervyy") to give the remark its edge.
+- 'Fedya came up with all of it, he brought the ram in.' Emphasizing the ram around Katya, Barinov brings in "pritashchil" ("dragged in", from "pritashchit") as the key Russian word here.

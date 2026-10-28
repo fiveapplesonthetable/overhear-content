@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you call for me?' Barinov frames one colorful detail for Elena: "zvali" means "called" (from "zvat"), giving the line its exact edge.
-- 'What did you talk about with Katya?' Barinov aims the reply toward Eleonora: Russian keeps the exact word order of a normal statement here, turning it into a question for Eleonora purely through rising pitch at the end.
-- 'She knows everything about us.' Eleonora speaks up quietly with a shrug, bringing things back to earth after the buildup.
-- 'Why did you tell her everything?' Barinov underscores one classic touch toward Eleonora: "rasskazala" means "told" (from "rasskazat"), giving the line its exact edge.
-- 'Vitya, is everything alright in the restaurant?' Elena offers that remark briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I decided to talk with you after all.' Elena chimes in earnestly with a nod, testing Eleonora's reaction in the middle of the exchange.
-- 'Your second wife is in the dining room.' Elena uses this clear element in reply: "vtoraya" means "second" (from "vtoroy"), giving the line its exact edge.
-- 'Will you introduce us?' Elena phrases this point in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Eleonora purely through rising pitch at the end.
-- 'It is not worth it.' Barinov replies firmly to settle things, making his position completely clear.
-- 'She might take this as an insult.' Barinov focuses on this key word on cue: "oskorbleniye" means "insult", and it carries the main weight of what Barinov is saying.
-- 'Introduce us, or else I will have to ask Katya.' Elena gives that point frankly here: the "-sya" ending on "pridyotsya" ("you'll have to") turns the action inward or makes it happen between people naturally.
-- 'You stay here, I will go talk to her right now.' Barinov chimes in dryly in their talk, to clear the air between them once and for all.
+- 'Did you call for me?' Barinov fires back briskly around Eleonora and puts the weight on "zvali" ("called", from "zvat") as the exchange unfolds.
+- 'What did you talk about with Katya?' Answering readily beside Eleonora, Barinov keeps normal statement word order here, turning the line into a question for Eleonora purely through rising pitch.
+- 'She knows everything about us.' Eleonora proceeds quietly watching Barinov, letting the remark speak for itself.
+- 'Why did you tell her everything?' Pushing back firmly during the talk, Barinov puts the question word "zachem" right at the start so Elena hears the focus immediately.
+- 'Vitya, is everything alright in the restaurant?' Mentioning the restaurant in this beat, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I decided to talk with you after all.' Elena pushes back earnestly beside Barinov, keeping the focus on what actually matters here.
+- 'Your second wife is in the dining room.' Pointing out how second things are at once, Elena puts the weight on "vtoraya" ("second", from "vtoroy") as the exchange unfolds.
+- 'Will you introduce us?' Cutting in boldly beside Barinov, Elena keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'It is not worth it.' Barinov weighs in firmly beside Elena, keeping the focus on what actually matters here.
+- 'She might take this as an insult.' Turning to an insult on the spot, Barinov brings in "oskorbleniye" ("insult") to make the meaning unmistakable.
+- 'Introduce us, or else I will have to ask Katya.' Stepping in frankly to Barinov, the "-sya" ending on "pridyotsya" ("you'll have to") marks an action that unfolds mutually or turns back on the speaker.
+- 'You stay here, I will go talk to her right now.' Barinov continues dryly during the talk, watching Elena's face to see how the news lands.

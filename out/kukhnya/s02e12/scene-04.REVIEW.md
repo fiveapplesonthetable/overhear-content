@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The Russian land still gives birth to geniuses.' Nastya chooses one loaded term on cue: "russkaya" means "Russian" (from "russkiy"), giving the line its exact edge.
-- 'Rarely, but it does.' Barinov drops the reply on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I have heard a great deal about you.' Nastya steps in quietly facing Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Nice to meet you.' Barinov stresses one concrete element for Nastya: "poznakomitsya" means "to meet", and it carries the main weight of what Barinov is saying.
-- 'I am not a cook.' Nastya hands over that reply in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Can you not tell?' Barinov probes evenly to see how Nastya will answer on the spot.
-- 'I am right here.' Nastya frames that answer with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'That I am young.' Barinov sends that line before Nastya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'But that is not true, not true at all.' Nastya stands firm evenly as things stand, saying out loud what both of them already know.
-- 'And I built my career over there.' Barinov underscores one vivid piece in earnest: "karyeru" means "career" (from "karyera"), giving the line its exact edge.
-- 'It is somehow...' Nastya makes the comeback without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Unusual talking with you like this.' Barinov reacts quietly to be clear, refusing to let the moment slip past.
-- 'I will put the flowers in water for you.' Nastya leans on this clear choice at once: "postavlyu" means "will set" (from "postavit"), giving the line its exact edge.
+- 'The Russian land still gives birth to geniuses.' Talking about the land in front of Barinov, Nastya puts the weight on "russkaya" ("Russian", from "russkiy") as the exchange unfolds.
+- 'Rarely, but it does.' Replying frankly to Nastya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I have heard a great deal about you.' Nastya fires back quietly in their talk, steering the talk right where she wants it.
+- 'Nice to meet you.' Barinov speaks candidly before Nastya and leans on "poznakomitsya" ("to meet") to give the whole sentence its punch.
+- 'I am not a cook.' Mentioning a cook on the spot, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Can you not tell?' Barinov probes evenly how Nastya expects that to work in practice.
+- 'I am right here.' Reacting dryly on the spot, spoken Russian drops "is" and "are" in the present, letting Nastya place the two halves side by side.
+- 'That I am young.' Confirming how young he is during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'But that is not true, not true at all.' Nastya steps in evenly hearing Barinov, refusing to let the moment slip past.
+- 'And I built my career over there.' Focusing on his career with Nastya, Barinov brings in "karyeru" ("career", from "karyera") as the key Russian word here.
+- 'It is somehow...' Reacting readily at once, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Unusual talking with you like this.' Barinov opens up quietly without a pause, refusing to let the moment slip past.
+- 'I will put the flowers in water for you.' Addressing the flowers to Barinov, Nastya puts the weight on "postavlyu" ("will set", from "postavit") as the exchange unfolds.

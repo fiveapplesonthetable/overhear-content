@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, look, here is our new edible menu!' Max pushes back pointedly with Barinov, without trying to dress up how he really feels.
-- 'Oh, I completely forgot to tell you, the menu is no longer needed.' Vika pushes back boldly before Max, testing Max's reaction in the middle of the exchange.
-- 'Thank you very much for the effort, you can go back to work.' Vika picks this clear word in reply: "staraniye" means "effort, diligence", and it carries the main weight of what Vika is saying.
-- 'You are welcome! Is this at all normal on her part?' Max hands over this statement on cue: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Guys, I am going to step away from the kitchen for a short while.' Barinov speaks up evenly with a nod, making his position completely clear.
-- 'Lyova stays here in charge in my place.' Barinov highlights one telling touch for Vika: "ostayotsya" means "stays" (from "ostavatsya"), giving the line its exact edge.
-- 'Chef, and where are you carrying our food paints?' Max shares the remark in earnest: putting the question word "kuda" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'None of your business, I urgently need paper!' Barinov stands firm dryly toward Vika, letting the remark speak for itself.
-- 'Katyusha, wait, a guy here asked for your phone number.' Vika favors one concrete piece on cue: "katyusha" means "eat", and it carries the main weight of what Vika is saying.
-- 'He seemed like a very handsome and polite young man to me.' Vika follows up firmly without any doubt, saying out loud what both of them already know.
-- 'Vika, why are you handing out other people's phone numbers?' Max questions point-blank how Barinov expects that to work in practice.
-- 'Calm down, Lavrov, this does not concern you at all!' Vika uses one sharp piece right here: "sovershenno" means "quite, completely", and it carries the main weight of what Vika is saying.
+- 'Vika, look, here is our new edible menu!' Highlighting how edible things are during the talk, Max centers the thought on "syedobnoye" ("edible", from "syedobnyy") without wasting a word.
+- 'Oh, I completely forgot to tell you, the menu is no longer needed.' Vika follows up boldly with Max, shifting the mood of the conversation in a single beat.
+- 'Thank you very much for the effort, you can go back to work.' Focusing on the effort at once, Vika leans on "staraniye" ("effort, diligence") to give the whole sentence its punch.
+- 'You are welcome! Is this at all normal on her part?' Mentioning the side in front of Barinov, Max drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Guys, I am going to step away from the kitchen for a short while.' Barinov proceeds evenly in this moment, leaving no doubt about where he stands.
+- 'Lyova stays here in charge in my place.' Barinov jumps in warmly to Max and uses "glavnogo" ("main", from "glavnyy") to make the point stick.
+- 'Chef, and where are you carrying our food paints?' Underscoring how food things are around Barinov, Max puts the question word "kuda" right at the start so Barinov hears the focus immediately.
+- 'None of your business, I urgently need paper!' Barinov counters dryly on the spot, to clear the air between them once and for all.
+- 'Katyusha, wait, a guy here asked for your phone number.' Addressing the eat before Barinov, Vika puts the emphasis on "katyusha" ("eat") in the middle of the talk.
+- 'He seemed like a very handsome and polite young man to me.' Vika continues calmly in front of Max and puts the weight on "simpatichnym" ("likeable, nice", from "simpatichnyy") as the exchange unfolds.
+- 'Vika, why are you handing out other people's phone numbers?' Max questions point-blank what Vika is actually getting at here.
+- 'Calm down, Lavrov, this does not concern you at all!' Vika speaks up openly in front of Max and brings in "sovershenno" ("quite, completely") to make the meaning unmistakable.

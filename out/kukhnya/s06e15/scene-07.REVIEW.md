@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why does your application start with a lowercase letter?' Barinov picks one vivid detail in reply: "zayavleniye" means "statement", and it carries the main weight of what Barinov is saying.
-- 'That is a capital letter, it just looks like that.' Lyova states this warning with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Go and quickly rewrite everything all over again.' Barinov chimes in decisively as things stand, keeping the focus on what actually matters here.
-- 'Are you kidding me, this is already the third letter!' Lyova favors one memorable element toward Kostya: "zayavleniye" means "statement", and it carries the main weight of what Lyova is saying.
-- 'If you want to be a chef, learn to write documents!' Barinov opens up bluntly with a nod, letting the remark speak for itself.
-- 'Did you think of who to introduce your father to today?' Kostya challenges bluntly as Lyova tries to explain the situation.
-- 'I have two options right now.' Kostya highlights one memorable word at once: "varianta" means "options" (from "variant"), giving the line its exact edge.
-- 'Look, you two are together at work too.' Kostya colors this direct piece toward Lyova: "rabote" means "work" (from "rabota"), giving the line its exact edge.
-- 'Hello, Dad, should I pour for you as usual?' Turning back before Barinov, Kostya cuts straight through the tension in the room.
-- 'I was walking nearby and decided to visit my son.' Lyova highlights one vivid expression right here: "provedat" means "to check on", and it carries the main weight of what Lyova is saying.
-- 'Alright, I will not bother you two.' Lyova gives the thought calmly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'I will go sit quietly at a table alone.' Lyova speaks up honestly without holding back, so Kostya knows he is not just making small talk.
+- 'Why does your application start with a lowercase letter?' Focusing on the statement on the spot, Barinov leans on "zayavleniye" ("statement") to give the whole sentence its punch.
+- 'That is a capital letter, it just looks like that.' Showing how large things are during the talk, Lyova uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Go and quickly rewrite everything all over again.' Barinov opens up decisively without any doubt, making his position completely clear.
+- 'Are you kidding me, this is already the third letter!' Addressing the statement to Barinov, Lyova puts the emphasis on "zayavleniye" ("statement") in the middle of the talk.
+- 'If you want to be a chef, learn to write documents!' Talking about the documents right here, Barinov lands on "dokumenty" ("the documents", built on "dokument") to keep the statement grounded.
+- 'Did you think of who to introduce your father to today?' Kostya challenges bluntly whether Barinov really thought this through.
+- 'I have two options right now.' Bringing up the options in front of Barinov, Kostya lands on "varianta" ("options", built on "variant") to keep the statement grounded.
+- 'Look, you two are together at work too.' Kostya chimes in warmly in this moment, making his position completely clear.
+- 'Hello, Dad, should I pour for you as usual?' Kostya questions skeptically why things suddenly took this turn between them.
+- 'I was walking nearby and decided to visit my son.' Mentioning his son with Kostya, Lyova reaches for the Russian word "provedat" ("to check on") right at the heart of the line.
+- 'Alright, I will not bother you two.' Lyova speaks bluntly with a smile, steering the talk right where he wants it.
+- 'I will go sit quietly at a table alone.' Lyova counters honestly with a nod, making his position completely clear.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, enough!' Barinov fires back candidly in this moment, steering the talk right where he wants it.
-- 'Come on, apologize!' Lyova grounds one clear word toward Eleonora: "izvinyaysya" means "apologize" (from "izvinyatsya"), giving the line its exact edge.
-- 'What is going on here?' Eleonora states that remark facing Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Everything is fine.' Barinov replies honestly beside Lyova, leaving no doubt about where he stands.
-- 'They argued over a girl, young and hot-headed.' Barinov reaches for one memorable expression in reply: "goryachiye" means "hot" (from "goryachiy"), giving the line its exact edge.
-- 'Over what girl?' Eleonora shapes this point toward Lyova: putting the question word "kakoy" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'He was hitting on a girl!' Lyova reacts right away as things stand, watching Barinov's face to see how the news lands.
-- 'You are fired!' Catch how Barinov reassures Lyova in earnest — the Russian word "uvolen" ("fired", built from "uvolit") does the heavy lifting.
-- 'For the fight and for the disgusting preparation of dishes!' Barinov speaks up firmly with Eleonora, steering the talk right where he wants it.
-- 'Lyova, well done.' Barinov chimes in quietly on the spot, keeping the focus on what actually matters here.
-- 'Do not worry, Artyom.' Barinov emphasizes one classic piece on cue: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'You will find yourself another job!' Barinov proceeds dryly watching Lyova, letting the remark speak for itself.
+- 'Come on, enough!' Barinov weighs in candidly with a shrug, so Lyova knows he is not just making small talk.
+- 'Come on, apologize!' Lyova cuts in frankly in this beat and brings in "izvinyaysya" ("apologize", from "izvinyatsya") as the key Russian word here.
+- 'What is going on here?' Speaking directly with Barinov, Eleonora puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Everything is fine.' Barinov speaks honestly on the spot, to clear the air between them once and for all.
+- 'They argued over a girl, young and hot-headed.' Touching on a girl in front of Eleonora, Barinov leans on "goryachiye" ("hot", a form of "goryachiy") to give the remark its edge.
+- 'Over what girl?' Checking on the girl on the spot, Eleonora puts the question word "kakoy" right at the start so Lyova hears the focus immediately.
+- 'He was hitting on a girl!' Lyova responds right away facing Eleonora, testing Eleonora's reaction in the middle of the exchange.
+- 'You are fired!' Barinov weighs in warmly around Lyova and leans on "uvolen" ("fired", a form of "uvolit") to give the remark its edge.
+- 'For the fight and for the disgusting preparation of dishes!' Turning to the fight around Lyova, Barinov leans on "otvratitelnoye" ("disgusting", a form of "otvratitelnyy") to give the remark its edge.
+- 'Lyova, well done.' Barinov follows up quietly in this moment, keeping the focus on what actually matters here.
+- 'Do not worry, Artyom.' Barinov responds boldly in the exchange and brings in "perezhivay" ("worry", from "perezhivat") as the key Russian word here.
+- 'You will find yourself another job!' Pointing to the job to Lyova, Barinov chooses "druguyu" ("the other one", from the root "drugoy") so Lyova hears the exact meaning.

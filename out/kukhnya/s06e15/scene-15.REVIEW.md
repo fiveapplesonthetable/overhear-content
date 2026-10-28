@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Son, why did you come home so early?' The guest questions candidly what Kostya is actually getting at here.
-- 'Close the door slightly, otherwise it is awkward for us.' The guest anchors this sharp word for Nastya: "prikroy" means "please", and it carries the main weight of what the guest is saying.
-- 'You work together at the hotel after all.' The guest uses one telling element at once: "rabotayete" means "work" (from "rabotat"), giving the line its exact edge.
-- 'Hello, Kostya, where is your dad?' Nastya prompts frankly where this conversation is heading next.
-- 'Dad decided to take a warm bath.' Kostya frames this clear choice right here: "tyopluyu" means "warm" (from "tyoplyy"), giving the line its exact edge.
-- 'Meet her, this is Mom's good friend Yevgeniya.' Nastya responds plainly hearing Kostya, refusing to let the moment slip past.
-- 'Hello, we are also very pleased to meet you right now.' Kostya fires back frankly during the talk, steering the talk right where he wants it.
-- 'And this is my new friend Anzhelika.' The guest sharpens one practical detail in earnest: "podruga" means "female friend", and it carries the main weight of what the guest is saying.
-- 'Maybe we can drink some tea together?' The guest frames the comment around Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Look, I bought some fresh bagels here.' The guest speaks up firmly in their talk, steering the talk right where he wants it.
-- 'Excuse me, but I will probably go now.' Nastya points to one sharp touch toward the guest: "navernoye" means "probably", and it carries the main weight of what Nastya is saying.
-- 'Wait, I will walk you to the door.' The guest points to one vivid word toward Nastya: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Son, why did you come home so early?' The guest questions candidly if there is more going on behind the scenes.
+- 'Close the door slightly, otherwise it is awkward for us.' Underscoring how please things are in this beat, the guest chooses "prikroy" ("please") so Nastya gets the point right away.
+- 'You work together at the hotel after all.' The guest weighs in briskly toward Nastya, bringing things back to earth after the buildup.
+- 'Hello, Kostya, where is your dad?' Nastya prompts frankly about what Kostya just brought up.
+- 'Dad decided to take a warm bath.' Touching on the dad in front of Nastya, Kostya puts the weight on "tyopluyu" ("warm", from "tyoplyy") as the exchange unfolds.
+- 'Meet her, this is Mom's good friend Yevgeniya.' Highlighting how good things are in front of Kostya, Nastya brings in "khoroshaya" ("good", from "khoroshiy") as the key Russian word here.
+- 'Hello, we are also very pleased to meet you right now.' Kostya counters frankly around the guest, without trying to dress up how he really feels.
+- 'And this is my new friend Anzhelika.' Underscoring the female friend right here, the guest uses "podruga" ("female friend") to carry the main weight of the thought.
+- 'Maybe we can drink some tea together?' Focusing on the tea in front of Nastya, the guest keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Look, I bought some fresh bagels here.' The guest jumps in firmly with a shrug, steering the talk right where he wants it.
+- 'Excuse me, but I will probably go now.' Nastya cuts in pointedly at once and puts the emphasis on "navernoye" ("probably") in the middle of the talk.
+- 'Wait, I will walk you to the door.' The guest cuts in promptly toward Nastya, keeping the focus on what actually matters here.

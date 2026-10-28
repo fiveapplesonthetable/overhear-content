@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, he is on the roof right now!' Fedya speaks up decisively facing Barinov, keeping the focus on what actually matters here.
-- 'Great, now bring him down.' Barinov underscores one practical choice on cue: "otlichno" means "perfect, great", and it carries the main weight of what Barinov is saying.
-- 'Wait, this is not a hint at all!' Barinov lays out this statement plainly here: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'You just bring him downstairs.' Barinov counters earnestly with a shrug, refusing to let the moment slip past.
-- 'There is no need to throw him off the roof.' Barinov uses one pointed expression in reply: "sbrasyvat" means "to go", and it carries the main weight of what Barinov is saying.
-- 'Chef, yes, I understood everything.' Fedya speaks up lightly around Barinov, bringing things back to earth after the buildup.
+- 'Chef, he is on the roof right now!' Turning to the roof with Barinov, Fedya brings the exchange with Barinov back to practical reality.
+- 'Great, now bring him down.' Barinov reacts openly before Fedya and puts the emphasis on "otlichno" ("perfect, great") in the middle of the talk.
+- 'Wait, this is not a hint at all!' Discussing a hint in this beat, Barinov adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'You just bring him downstairs.' Barinov jumps in earnestly watching Fedya, without trying to dress up how he really feels.
+- 'There is no need to throw him off the roof.' Mentioning the roof beside Fedya, Barinov lands on "sbrasyvat" ("to go") as the key everyday word here.
+- 'Chef, yes, I understood everything.' Fedya proceeds boldly in front of Barinov and brings in "ponyal" ("understood", from "ponyat") as the key Russian word here.
 - 'What have you done right now, Fedya?' Barinov checks quietly if there is more going on behind the scenes.
-- 'You said to bring him down.' Fedya uses one telling expression with Barinov: "skazali" means "told" (from "skazat"), giving the line its exact edge.
-- 'I immediately understood that hint.' Fedya chimes in evenly without a pause, refusing to let the moment slip past.
-- 'Chef, may I leave a bit early today?' Fedya presses straight out why things suddenly took this turn between them.
-- 'Later they will put me on the wanted list.' Fedya favors this direct choice toward Barinov: "rozysk" means "wanted list", and it carries the main weight of what Fedya is saying.
-- 'What are you punishing me for?' Barinov voices the comment facing Fedya: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'It was not me, he fell!' Barinov proceeds bluntly across the room, refusing to let the moment slip past.
+- 'You said to bring him down.' Fedya reacts calmly at once and lands on "spustit" ("to lower, to let down") as the key everyday word here.
+- 'I immediately understood that hint.' Pointing to the hint with Barinov, Fedya leans on "namyok" ("hint") to give the whole sentence its punch.
+- 'Chef, may I leave a bit early today?' Fedya presses straight out before Barinov can change the subject.
+- 'Later they will put me on the wanted list.' Discussing the list during the talk, Fedya leans on "rozysk" ("wanted list") to give the whole sentence its punch.
+- 'What are you punishing me for?' Replying directly before Fedya, Barinov puts the question word "chto" right at the start so Fedya hears the focus immediately.
+- 'It was not me, he fell!' Barinov jumps in bluntly on the spot, steering the talk right where he wants it.

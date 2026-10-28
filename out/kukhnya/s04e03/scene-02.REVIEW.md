@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who peels like that, rookie?' Max offers that line right away: putting the question word "kto" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'I think everyone has already guessed.' Denis replies steadily watching Max, before Max can change the subject.
-- 'That I am not a cook at all.' Denis frames one sharp piece right here: "voobshche" means "at all", and it carries the main weight of what Denis is saying.
-- 'As long as you are in the storage room, nobody will figure anything out.' Max aims that thought around Lyova: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'And you can stay a prep cook for half a year.' Max speaks up frankly with a shrug, without trying to dress up how he really feels.
-- 'Trust my experience.' Max stresses this sharp detail toward Lyova: "opytu" means "experience" (from "opyt"), giving the line its exact edge.
-- 'Are you going to peel potatoes for him too, huh?' Lyova frames that thought beside Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'Wrap up the master class.' Lyova proceeds evenly as things stand, leaving no doubt about where he stands.
-- 'Nagiyev is gathering the entire staff.' Lyova grounds one loaded word with Denis: "personal" means "staff", and it carries the main weight of what Lyova is saying.
-- 'Let's go quickly.' Denis hands over the comment with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'We are coming right now, Lyova.' Max responds at once with a nod, so Denis knows he is not just making small talk.
-- 'Come on, hurry up.' Lyova grounds one direct word on cue: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
+- 'Who peels like that, rookie?' Touching on the rookie right here, Max puts the question word "kto" right at the start so Denis hears the focus immediately.
+- 'I think everyone has already guessed.' Denis proceeds steadily around Max, steering the talk right where he wants it.
+- 'That I am not a cook at all.' Bringing up a cook at once, Denis leans on "voobshche" ("at all") to give the whole sentence its punch.
+- 'As long as you are in the storage room, nobody will figure anything out.' Returning to the warehouse in the exchange, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'And you can stay a prep cook for half a year.' Max speaks up frankly hearing Denis, letting the remark speak for itself.
+- 'Trust my experience.' Mentioning his experience in this beat, Max brings in "opytu" ("experience", from "opyt") as the key Russian word here.
+- 'Are you going to peel potatoes for him too, huh?' Reacting warmly on the spot, Lyova keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Wrap up the master class.' Lyova speaks up evenly during the talk, grounding the moment in plain reality.
+- 'Nagiyev is gathering the entire staff.' Discussing the entire staff to Denis, Lyova centers the remark on "personal" ("staff") without any extra fuss.
+- 'Let's go quickly.' Reacting earnestly to Lyova, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'We are coming right now, Lyova.' Max chimes in at once with a shrug, without trying to dress up how he really feels.
+- 'Come on, hurry up.' Lyova pushes back briskly with Max and reaches for the Russian word "bystreye" ("faster", built from "bystro") right at the center of the line.

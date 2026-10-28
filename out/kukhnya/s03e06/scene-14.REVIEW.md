@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, take this salt quickly.' Vika proceeds pointedly in their talk, without trying to dress up how she really feels.
-- 'Dima, this is not at all what you thought.' Vika answers wryly in this moment, refusing to let the moment slip past.
-- 'Yes, this is not at all what you thought.' Max picks this key choice in reply: "podumali" means "thought" (from "podumat"), giving the line its exact edge.
-- 'I keep forgetting that you are just friends.' Nagiyev delivers the comeback in earnest: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Alright, I will go work now.' Vika stands firm openly without a pause, before Max can change the subject.
-- 'Guests are waiting for us in the hall there.' Vika colors one vivid expression right here: "gosti" means "visitors, guests" (from "gost"), giving the line its exact edge.
-- 'I will probably go work too.' Max pushes back earnestly without holding back, so Nagiyev knows he is not just making small talk.
-- 'And I will ask you to stay here.' Nagiyev cuts in candidly in their talk, grounding the moment in plain reality.
-- 'Maxim, you are already a grown boy.' Nagiyev uses one memorable choice on cue: "vzroslyy" means "grown-up, adult", and it carries the main weight of what Nagiyev is saying.
-- 'Please, try to understand me right now.' Nagiyev frames the reply briskly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'I have serious plans for Victoria Sergeyevna.' Nagiyev opens up evenly in this moment, refusing to let the moment slip past.
-- 'And you already lost your happiness.' Nagiyev favors one familiar detail in reply: "schastye" means "happiness", and it carries the main weight of what Nagiyev is saying.
+- 'Max, take this salt quickly.' Touching on the salt in this beat, Vika reaches for the Russian word "skoreye" ("quickly, right away", built from "skoro") right at the center of the line.
+- 'Dima, this is not at all what you thought.' Vika pushes back wryly with Max, grounding the moment in plain reality.
+- 'Yes, this is not at all what you thought.' Max proceeds quietly around Vika and lands on "sovsem" ("at all") as the key everyday word here.
+- 'I keep forgetting that you are just friends.' Talking about the time during the talk, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Alright, I will go work now.' Vika lightly directs this word of agreement beside Nagiyev using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Guests are waiting for us in the hall there.' Pointing to the visitors around Max, Vika uses "gosti" ("visitors, guests", from "gost") to make the point stick.
+- 'I will probably go work too.' Max chimes in evenly right here and centers the remark on "rabotat" ("to work") without any extra fuss.
+- 'And I will ask you to stay here.' Nagiyev cuts in candidly watching Max, grounding the moment in plain reality.
+- 'Maxim, you are already a grown boy.' Mentioning a grown boy to Max, Nagiyev brings in "vzroslyy" ("grown-up, adult") to make the meaning unmistakable.
+- 'Please, try to understand me right now.' Nagiyev plainly drops this courtesy word to Max using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'I have serious plans for Victoria Sergeyevna.' Nagiyev follows up evenly without a pause, testing Max's reaction in the middle of the exchange.
+- 'And you already lost your happiness.' Discussing the happiness with Max, Nagiyev centers the remark on "schastye" ("happiness") without any extra fuss.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, cooks, what are we going to feed the guests?' Barinov questions promptly before Katya can change the subject.
-- 'Louis wants to prepare a dessert with soap.' Max features this clear choice right here: "prigotovit" means "to cook, to prepare", and it carries the main weight of what Max is saying.
-- 'With laundry soap? Wonderful, Louis, wonderful!' Barinov lays out this update for Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Fedya will serve fish with select black soil.' Max responds candidly without a pause, shifting the whole mood of the room in a single beat.
-- 'Delightful, let them eat dirt today.' Barinov spotlights one colorful detail for Katya: "prelestno" means "delightful", and it carries the main weight of what Barinov is saying.
-- 'Lyova will put the meat in the oven for a long time.' Max follows up decisively as things stand, steering the talk right where he wants it.
-- 'Lyova, think about it some more.' Barinov weighs in pointedly beside Katya, before Katya can change the subject.
-- 'And where are you going right now, Senya?' Barinov focuses on this clear term right here: "sobralsya" means "got ready, planned" (from "sobratsya"), giving the line its exact edge.
-- 'To the restroom? Senya, that is overkill.' Max brings that thought in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Dad, we will prepare a molecular set with sauce.' Katya fires back at once watching Max, so Max knows she is not just making small talk.
-- 'Great idea, I completely approve.' Barinov centers one pointed touch on cue: "otlichnaya" means "excellent" (from "otlichnyy"), giving the line its exact edge.
-- 'Max has a real talent for ruining dishes.' Barinov proceeds frankly toward Max, steering the talk right where he wants it.
+- 'Well, cooks, what are we going to feed the guests?' Barinov questions promptly where this conversation is heading next.
+- 'Louis wants to prepare a dessert with soap.' Highlighting a dessert in front of Barinov, Max centers the remark on "prigotovit" ("to cook, to prepare") without any extra fuss.
+- 'With laundry soap? Wonderful, Louis, wonderful!' Addressing the soap to Max, Barinov keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Fedya will serve fish with select black soil.' Max opens up candidly without holding back, testing Barinov's reaction in the middle of the exchange.
+- 'Delightful, let them eat dirt today.' Discussing the land with Max, Barinov chooses "prelestno" ("delightful") so Max gets the point right away.
+- 'Lyova will put the meat in the oven for a long time.' Emphasizing the oven on the spot, Max uses "dukhovku" ("oven", from "dukhovka") to make the point stick.
+- 'Lyova, think about it some more.' Barinov jumps in pointedly across the room, steering the talk right where he wants it.
+- 'And where are you going right now, Senya?' Barinov weighs in quietly to Max and puts the weight on "sobralsya" ("got ready, planned", from "sobratsya") as the exchange unfolds.
+- 'To the restroom? Senya, that is overkill.' Pointing to the toilet in the exchange, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Dad, we will prepare a molecular set with sauce.' Katya steps in at once with Max, keeping the focus on what actually matters here.
+- 'Great idea, I completely approve.' Turning to the idea in the exchange, Barinov uses "otlichnaya" ("excellent", from "otlichnyy") to make the point stick.
+- 'Max has a real talent for ruining dishes.' Discussing a real talent in the exchange, Barinov puts the emphasis on "nastoyashchiy" ("real, genuine") in the middle of the talk.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Envy is choking you too, and a very big one at that.' Kostya pushes back candidly with a sigh, bringing things back to earth after the buildup.
-- 'Max, Nastya is nowhere to be found, she is not picking up the phone.' Kostya centers this key detail at once: "trubku" means "the receiver" (from "trubka"), giving the line its exact edge.
-- 'Did you check the harem?' Katya sends that point toward Elena: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
-- 'Oh, thank you, I have not relaxed like this in a year.' Elena replies firmly with a shrug, making her position completely clear.
-- 'I live in a golden cage.' Elena colors this sharp detail in earnest: "zolotoy" means "golden", and it carries the main weight of what Elena is saying.
-- 'Both my girlfriends and parties—everything is gone.' Elena stands firm honestly in their talk, testing Kostya's reaction in the middle of the exchange.
-- 'Well, that is your choice.' Katya continues steadily with a smile, refusing to let the moment slip past.
-- 'What is your name?' Elena frames this sharp detail in reply: "zovut" means "call" (from "zvat"), giving the line its exact edge.
-- 'Katya.' Kostya gives the comeback toward Elena: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'And my name is Yulya.' Elena cuts in openly hearing Kostya, leaving no doubt about where she stands.
-- 'Very nice to meet you, Yulya.' Katya sharpens one classic element toward Elena: "poznakomitsya" means "to meet", and it carries the main weight of what Katya is saying.
-- 'Sit with me a little longer.' Elena steps in plainly on the spot, letting the remark speak for itself.
+- 'Envy is choking you too, and a very big one at that.' Kostya continues candidly around Katya, keeping the focus on what actually matters here.
+- 'Max, Nastya is nowhere to be found, she is not picking up the phone.' Underscoring the receiver with Katya, Kostya uses "trubku" ("the receiver", from "trubka") to make the point stick.
+- 'Did you check the harem?' Bringing up the harem before Elena, Katya keeps normal statement word order here, turning the line into a question for Elena purely through rising pitch.
+- 'Oh, thank you, I have not relaxed like this in a year.' Elena proceeds firmly in their talk, letting the remark speak for itself.
+- 'I live in a golden cage.' Focusing on a golden cage in this beat, Elena brings in "zolotoy" ("golden") to make the meaning unmistakable.
+- 'Both my girlfriends and parties—everything is gone.' Touching on her girlfriends in front of Katya, Elena puts the weight on "podruzhki" ("girlfriends", from "podruzhka") as the exchange unfolds.
+- 'Well, that is your choice.' Katya pushes back steadily hearing Elena, shifting the mood of the conversation in a single beat.
+- 'What is your name?' Elena speaks up promptly in this beat and chooses "zovut" ("call", from the root "zvat") so Kostya hears the exact meaning.
+- 'Katya.' Speaking quietly with Katya, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'And my name is Yulya.' Elena reacts openly watching Kostya, refusing to let the moment slip past.
+- 'Very nice to meet you, Yulya.' Katya pushes back vividly beside Elena and centers the remark on "poznakomitsya" ("to meet") without any extra fuss.
+- 'Sit with me a little longer.' Elena proceeds frankly before Katya and uses "yeshchyo" ("more, still") to carry the main weight of the thought.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom said that Denis is simply my childhood friend.' Max frames this point on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'After all, he and I grew up in the same courtyard.' Max proceeds at once toward Vika, steering the talk right where he wants it.
-- 'Wait, so that means he is simply your childhood friend?' Vika favors one sharp detail on cue: "detstva" means "childhood" (from "detstvo"), giving the line its exact edge.
-- 'Vika, well he really is just like a brother to me!' Max states the comment at once: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'So you were brazenly lying to me this whole time?' Vika tests frankly to see how Denis will answer on the spot.
-- 'Vika, please forgive me that it turned out this way.' Denis anchors one concrete expression toward Vika: "poluchilos" means "worked out" (from "poluchitsya"), giving the line its exact edge.
-- 'Simply if I had not lied, you would have kicked him out.' Max voices the reaction with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Be quiet, I do not even want to hear you anymore!' Vika steps in right away watching Max, shifting the whole mood of the room in a single beat.
-- 'Elena told Chef that they are far too different people.' Max reaches for one vivid term with Denis: "raznyye" means "various, different" (from "raznyy"), giving the line its exact edge.
-- 'She needs to leave so as not to torment anyone.' Max sends the reply in earnest: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Just what makes people lie so foolishly?' Max challenges eagerly to see how Denis will answer on the spot.
-- 'Only people hurt the ones whom they love deeply.' Max highlights one concrete term for Vika: "delayut" means "they do" (from "delat"), giving the line its exact edge.
+- 'Mom said that Denis is simply my childhood friend.' Focusing on his childhood in the exchange, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'After all, he and I grew up in the same courtyard.' Max weighs in at once around Vika, bringing things back to earth after the buildup.
+- 'Wait, so that means he is simply your childhood friend?' Discussing the childhood to Max, Vika brings in "detstva" ("childhood", from "detstvo") as the key Russian word here.
+- 'Vika, well he really is just like a brother to me!' Bringing up the honestly in front of Vika, Max adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'So you were brazenly lying to me this whole time?' Vika tests frankly if there is more going on behind the scenes.
+- 'Vika, please forgive me that it turned out this way.' Denis answers directly before Vika and uses "poluchilos" ("worked out", from "poluchitsya") to make the point stick.
+- 'Simply if I had not lied, you would have kicked him out.' Stepping in warmly to Denis, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Be quiet, I do not even want to hear you anymore!' Vika replies right away in this moment, letting the remark speak for itself.
+- 'Elena told Chef that they are far too different people.' Making clear how various things are around Vika, Max uses "raznyye" ("various, different", from "raznyy") to make the point stick.
+- 'She needs to leave so as not to torment anyone.' Reacting briskly in the exchange, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Just what makes people lie so foolishly?' Max challenges eagerly while looking straight at Vika here.
+- 'Only people hurt the ones whom they love deeply.' Max speaks sharply right here and lands on "delayut" ("they do", built on "delat") to keep the statement grounded.

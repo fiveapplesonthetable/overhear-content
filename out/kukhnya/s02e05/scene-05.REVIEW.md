@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And pass along good luck from the head chef to her husband tomorrow.' Barinov chimes in earnestly in their talk, letting the remark speak for itself.
-- 'So I see.' Kostya answers plainly without holding back, refusing to let the moment slip past.
-- 'And how do you know about that?' Sasha uses one concrete touch at once: "znayesh" means "know" (from "znat"), giving the line its exact edge.
-- 'By the way, I refused to fly myself.' Barinov lays out the reaction with warmth: the "-sya" ending on "otkazalsya" ("refused") turns the action inward or makes it happen between people naturally.
-- 'And what does Sasha think about that?' Kostya challenges wryly before Barinov can change the subject.
-- 'What about Sasha?' Barinov drops that point right away: putting the question word "chto" right at the front of the line lets Sasha hear the point of the question on the very first beat.
-- 'Things between Sasha and me are basically over.' Barinov offers that point for Kostya: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'I just could not go.' Kostya replies promptly hearing Sasha, leaving no doubt about where he stands.
-- 'A tragedy happened, his grandfather died.' Sasha frames one familiar touch for Barinov: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'No, Kostya's grandfather.' Barinov drops the reply in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Yours?' Kostya quizzes point-blank what Barinov is actually getting at here.
-- 'I had to support pal, you understand, right?' Sasha colors one vivid choice for Kostya: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.
-- 'Yes, of course.' Barinov sends that point without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'And pass along good luck from the head chef to her husband tomorrow.' Talking about the head right here, Barinov reaches for the Russian word "shef-povara" ("head chef", built from "shef-povar") right at the center of the line.
+- 'So I see.' Kostya responds plainly across the room, refusing to let the moment slip past.
+- 'And how do you know about that?' Weighing in warmly to Barinov, Sasha puts the question word "otkuda" right at the start so Barinov hears the focus immediately.
+- 'By the way, I refused to fly myself.' Pressing on frankly in this beat, the "-sya" ending on "otkazalsya" ("refused") marks an action that unfolds mutually or turns back on the speaker.
+- 'And what does Sasha think about that?' Kostya challenges wryly about what Sasha just brought up.
+- 'What about Sasha?' Stepping in frankly right here, Barinov puts the question word "chto" right at the start so Sasha hears the focus immediately.
+- 'Things between Sasha and me are basically over.' Looking over firmly during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I just could not go.' Kostya speaks up promptly around Barinov, to clear the air between them once and for all.
+- 'A tragedy happened, his grandfather died.' Mentioning the grief on the spot, Sasha uses "sluchilos" ("happened", from "sluchitsya") to make the point stick.
+- 'No, Kostya's grandfather.' Pointing to the bones beside Kostya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Yours?' Kostya quizzes point-blank if there is more going on behind the scenes.
+- 'I had to support pal, you understand, right?' Pointing to the friend around Barinov, Sasha reaches for the Russian word "ponimayesh" ("do you understand", built from "ponimat") right at the center of the line.
+- 'Yes, of course.' Barinov readily gives this confirmation while facing Sasha using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You can start working right today.' Barinov frames the comment before Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Get your uniform and go change.' Vika counters decisively without holding back, leaving no doubt about where she stands.
-- 'Thank you, Viktoriya Sergeyevna.' Kostya stresses this clear element for Barinov: "spasibo" means "thank you", and it carries the main weight of what Kostya is saying.
-- 'Awesome. Thank you.' Barinov sends that line toward Vika: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'How are things going?' Vika presses bluntly whether Barinov really thought this through.
-- 'Here we are at the airport already.' Kostya anchors one practical term right here: "aeroport" means "the airport", and it carries the main weight of what Kostya is saying.
-- 'You got there awfully fast somehow.' Barinov hands over that point with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'We drove right behind an ambulance.' Vika pushes back boldly without any doubt, without trying to dress up how she really feels.
-- 'After all, I am supposedly a patient too.' Kostya grounds this clear piece on cue: "bolnoy" means "crazy", and it carries the main weight of what Kostya is saying.
-- 'Chef, please, be quiet.' Vika states that answer frankly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'I will call you back later.' Vika follows up sharply with a shrug, refusing to let the moment slip past.
-- 'Anyway, that is it.' Kostya colors one key element on cue: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
-- 'There is a security check at the entrance here.' Barinov brings that remark calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You can start working right today.' Pushing back quietly with Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Get your uniform and go change.' Vika replies decisively without any doubt, before Barinov can change the subject.
+- 'Thank you, Viktoriya Sergeyevna.' Kostya quietly gives this word of thanks as they meet using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Awesome. Thank you.' Barinov evenly gives this word of thanks right on cue using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'How are things going?' Vika presses bluntly whether Kostya really thought this through.
+- 'Here we are at the airport already.' Emphasizing the airport right here, Kostya chooses "aeroport" ("the airport") so Vika gets the point right away.
+- 'You got there awfully fast somehow.' Holding firm earnestly in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'We drove right behind an ambulance.' Vika continues boldly during the talk, testing Barinov's reaction in the middle of the exchange.
+- 'After all, I am supposedly a patient too.' Showing how crazy he is in front of Vika, Kostya chooses "bolnoy" ("crazy") so Vika gets the point right away.
+- 'Chef, please, be quiet.' Vika gently voices this courtesy word with Barinov using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'I will call you back later.' Vika pushes back sharply without a pause, before Kostya can change the subject.
+- 'Anyway, that is it.' Stressing how short things are before Vika, Kostya reaches for the Russian word "obshchem" ("short, so", built from "obshchiy") right at the center of the line.
+- 'There is a security check at the entrance here.' Talking about the test in this beat, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.

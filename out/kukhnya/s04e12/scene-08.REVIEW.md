@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, halt, where are you carrying that?' Barinov drops the reaction for Fedya: putting the question word "kuda" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'Fedya, actually that is my fish!' Barinov pushes back honestly with Timur, steering the talk right where he wants it.
-- 'How is it yours when I ordered it!' Fedya features one pointed piece in earnest: "zakazyval" means "ordered" (from "zakazyvat"), giving the line its exact edge.
-- 'Chef, he placed his order before you.' Timur points to one familiar detail in earnest: "zakaz" means "order", and it carries the main weight of what Timur is saying.
-- 'Fedya, for old friendship's sake, sell me the fish!' Barinov holds firm frankly beside Fedya, refusing to let the moment slip past.
-- 'Chef, do not take offense, but I cannot.' Fedya underscores one vivid expression toward Timur: "obizhaytes" means "to take offence" (from "obizhatsya"), giving the line its exact edge.
-- 'Chef, there is plenty of fish here, enough for everyone.' Timur responds boldly with Barinov, saying out loud what both of them already know.
+- 'All right, halt, where are you carrying that?' Stepping in calmly beside Fedya, Barinov puts the question word "kuda" right at the start so Fedya hears the focus immediately.
+- 'Fedya, actually that is my fish!' Barinov follows up honestly toward Fedya, grounding the moment in plain reality.
+- 'How is it yours when I ordered it!' Fedya chimes in earnestly beside Barinov and puts the weight on "zakazyval" ("ordered", from "zakazyvat") as the exchange unfolds.
+- 'Chef, he placed his order before you.' Timur reacts boldly watching Barinov, refusing to let the moment slip past.
+- 'Fedya, for old friendship's sake, sell me the fish!' Barinov reacts frankly without holding back, watching Fedya's face to see how the news lands.
+- 'Chef, do not take offense, but I cannot.' Fedya answers vividly with Barinov and puts the weight on "obizhaytes" ("to take offence", from "obizhatsya") as the exchange unfolds.
+- 'Chef, there is plenty of fish here, enough for everyone.' Addressing the fish around Barinov, Timur brings in "ryby" ("of fish", from "ryba") as the key Russian word here.
 - 'And is it definitely from the same batch?' Barinov asks point-blank if there is more going on behind the scenes.
-- 'Well yes, of course, take it all.' Barinov stresses one vivid touch with Fedya: "konechno" means "of course", and it carries the main weight of what Barinov is saying.
-- 'Timur, do you know about precious stones?' Fedya brings this answer to Timur: Russian keeps the exact word order of a normal statement here, turning it into a question for Timur purely through rising pitch at the end.
-- 'Of course, I studied to be a jeweler, after all.' Timur weighs in evenly hearing Barinov, so Barinov knows he is not just making small talk.
-- 'I inherited a little stone from my grandmother.' Fedya spotlights one sharp term in earnest: "kamushek" means "little", and it carries the main weight of what Fedya is saying.
-- 'Listen, sell it to me, I will give you a hundred thousand!' Timur chimes in quietly with Barinov, steering the talk right where he wants it.
-- 'That means it is worth a full three hundred thousand!' Fedya fires back boldly in this moment, refusing to let the moment slip past.
+- 'Well yes, of course, take it all.' Barinov reacts plainly on the spot and chooses "konechno" ("of course") so Fedya gets the point right away.
+- 'Timur, do you know about precious stones?' Looking over quietly on the spot, Fedya keeps normal statement word order here, turning the line into a question for Timur purely through rising pitch.
+- 'Of course, I studied to be a jeweler, after all.' Timur speaks evenly toward Fedya, watching Fedya's face to see how the news lands.
+- 'I inherited a little stone from my grandmother.' Talking about the grandmothers in front of Timur, Fedya reaches for the Russian word "babushki" ("grandmothers", built from "babushka") right at the center of the line.
+- 'Listen, sell it to me, I will give you a hundred thousand!' Focusing on a hundred thousand at once, Timur chooses "tysyach" ("thousand", from the root "tysyacha") so Fedya hears the exact meaning.
+- 'That means it is worth a full three hundred thousand!' Fedya steps in boldly in this moment, before Timur can change the subject.

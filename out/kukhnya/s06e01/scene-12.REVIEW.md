@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nikita, let's do it tomorrow.' Eleonora speaks right away as things stand, bringing things back to earth after the buildup.
-- 'Mom, you look gorgeous.' Katya reaches for one telling element on cue: "vyglyadish" means "look" (from "vyglyadet"), giving the line its exact edge.
-- 'Alright, I am joking, I am joking.' Eleonora shares that remark right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I told you that I had nothing to do with it.' Eleonora pushes back bluntly watching Nagiyev, so Nagiyev knows she is not just making small talk.
-- 'Forgive me, I was wrong.' Katya focuses on one clear element with Eleonora: "neprava" means "wrong" (from "nepravyy"), giving the line its exact edge.
-- 'And where is my betrothed?' Eleonora shapes the reaction for Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We might be late to the registry office like this.' Eleonora opens up right away with Katya, watching Katya's face to see how the news lands.
-- 'I already thought that you ran away from me.' Eleonora emphasizes one classic element in earnest: "sbezhal" means "escaped, ran away" (from "sbezhat"), giving the line its exact edge.
-- 'I wish, just kidding.' Nagiyev directs that thought beside Eleonora: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Where would I run from such beauty of yours?' Nagiyev tests wryly if there is more going on behind the scenes.
-- 'Let's go, or we will be late to the registry office.' Eleonora focuses on this telling word toward Katya: "opozdayem" means "will be late" (from "opozdat"), giving the line its exact edge.
-- 'I am running, darling.' Nagiyev gives this update calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Nikita, let's do it tomorrow.' Eleonora speaks up right away on the spot, leaving no doubt about where she stands.
+- 'Mom, you look gorgeous.' Mentioning the mum in front of Eleonora, Katya centers the remark on "roskoshno" ("luxuriously") without any extra fuss.
+- 'Alright, I am joking, I am joking.' Answering candidly in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I told you that I had nothing to do with it.' Eleonora cuts in bluntly without a pause, shifting the mood of the conversation in a single beat.
+- 'Forgive me, I was wrong.' Katya casually delivers this informal apology beside Eleonora using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'And where is my betrothed?' Checking on her betrothed around Katya, Eleonora links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We might be late to the registry office like this.' Eleonora responds right away toward Katya, so Katya knows she is not just making small talk.
+- 'I already thought that you ran away from me.' Eleonora answers smoothly in the exchange and puts the weight on "sbezhal" ("escaped, ran away", from "sbezhat") as the exchange unfolds.
+- 'I wish, just kidding.' Turning quietly in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Where would I run from such beauty of yours?' Nagiyev tests wryly to see how Eleonora will answer on the spot.
+- 'Let's go, or we will be late to the registry office.' Turning to the registry office in the exchange, Eleonora leans on "opozdayem" ("will be late", a form of "opozdat") to give the remark its edge.
+- 'I am running, darling.' Explaining how expensive he is to Eleonora, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

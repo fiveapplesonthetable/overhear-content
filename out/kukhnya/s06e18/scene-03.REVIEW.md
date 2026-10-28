@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quiet, there is no need to argue now.' Mikhail stands firm quietly in their talk, before Fedya can change the subject.
-- 'Let us hold fair elections here.' Mikhail colors one practical expression right here: "chestnyye" means "honest" (from "chestnyy"), giving the line its exact edge.
-- 'Let each of you be the boss for a bit.' Mikhail fires back honestly in their talk, making his position completely clear.
-- 'The people will watch and then choose.' Mikhail holds firm wryly before Senya, to clear the air between them once and for all.
-- 'So I will be the first boss.' Senya centers this vivid piece toward Fedya: "glavnyy" means "main, chief", and it carries the main weight of what Senya is saying.
-- 'And I will be the second boss.' Fedya chimes in frankly watching Senya, shifting the whole mood of the room in a single beat.
-- 'That is it, candidate registration is already closed.' Mikhail pushes back calmly to be clear, keeping the focus on what actually matters here.
-- 'In the evening we will hold our elections.' Mikhail reaches for this direct term in earnest: "provedyom" means "will spend" (from "provesti"), giving the line its exact edge.
-- 'And what if there is heavy traffic?' Senya makes that remark in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
-- 'Well, you got lucky today, Misha.' Fedya speaks steadily with a nod, letting the remark speak for itself.
-- 'Mikhail Jekovich won a horse at cards.' Fedya points to one key choice with Mikhail: "konya" means "horse, knight", and it carries the main weight of what Fedya is saying.
-- 'Did the horse arrive to pay off an old debt?' Senya sends the reply with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'Quiet, there is no need to argue now.' Mikhail counters quietly on the spot, refusing to let the moment slip past.
+- 'Let us hold fair elections here.' Pointing to the election right here, Mikhail leans on "chestnyye" ("honest", a form of "chestnyy") to give the remark its edge.
+- 'Let each of you be the boss for a bit.' Mikhail speaks boldly before Senya and lands on "glavnym" ("important", built on "glavnyy") to keep the statement grounded.
+- 'The people will watch and then choose.' Mikhail continues wryly with a shrug, keeping the focus on what actually matters here.
+- 'So I will be the first boss.' Senya answers pointedly before Mikhail and lands on "glavnyy" ("main, chief") as the key everyday word here.
+- 'And I will be the second boss.' Fedya speaks up evenly around Senya and brings in "glavnyy" ("main, chief") to make the meaning unmistakable.
+- 'That is it, candidate registration is already closed.' Mikhail follows up calmly hearing Fedya, to clear the air between them once and for all.
+- 'In the evening we will hold our elections.' Bringing up the election right here, Mikhail chooses "provedyom" ("will spend", from the root "provesti") so Senya hears the exact meaning.
+- 'And what if there is heavy traffic?' Focusing on the traffic jam to Fedya, Senya keeps normal statement word order here, turning the line into a question for Fedya purely through rising pitch.
+- 'Well, you got lucky today, Misha.' Fedya speaks up steadily in this moment, letting the remark speak for itself.
+- 'Mikhail Jekovich won a horse at cards.' Pointing to a horse before Mikhail, Fedya chooses "konya" ("horse, knight") so Mikhail gets the point right away.
+- 'Did the horse arrive to pay off an old debt?' Dwelling on the knight with Fedya, Senya keeps normal statement word order here, turning the line into a question for Fedya purely through rising pitch.

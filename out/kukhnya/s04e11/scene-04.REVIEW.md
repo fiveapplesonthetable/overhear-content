@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, what just happened?' Kostya sharpens one loaded element for Denis: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'I just pressed a button back there.' Denis delivers that remark facing Nagiyev: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'And everything suddenly switched itself off.' Denis holds firm plainly to settle things, grounding the moment in plain reality.
-- 'You are poking your fingers where you should not!' Nagiyev underscores this clear choice for Kostya: "nazhimayesh" means "to poking" (from "nazhimat"), giving the line its exact edge.
-- 'Make sure there is light in here in half an hour!' Nagiyev stands firm calmly as they talk, shifting the whole mood of the room in a single beat.
-- 'Go on quickly, I told you!' Nagiyev jumps in lightly to settle things, shifting the whole mood of the room in a single beat.
-- 'And you owe a fine for this!' Nagiyev reaches for this clear term with Denis: "shtraf" means "fine", and it carries the main weight of what Nagiyev is saying.
-- 'And you, create an atmosphere for us.' Nagiyev picks one memorable expression with Kostya: "atmosferu" means "atmosphere" (from "atmosfera"), giving the line its exact edge.
-- 'Play a beautiful melody for us.' Nagiyev continues lightly without any doubt, saying out loud what both of them already know.
-- 'All right, I will play for you right now.' Denis chooses this vivid expression in earnest: "khorosho" means "good, fine", and it carries the main weight of what Denis is saying.
-- 'That is definitely a short circuit.' Kostya aims that answer facing Denis: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Quickly bring candles to the tables!' Nagiyev proceeds right away in their talk, shifting the whole mood of the room in a single beat.
+- 'Oh, what just happened?' Kostya weighs in candidly to Denis and puts the weight on "sluchilos" ("happened", from "sluchitsya") as the exchange unfolds.
+- 'I just pressed a button back there.' Talking about a button during the talk, Denis uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'And everything suddenly switched itself off.' Denis chimes in plainly hearing Nagiyev, letting the remark speak for itself.
+- 'You are poking your fingers where you should not!' Focusing on the finger at once, Nagiyev reaches for the Russian word "nazhimayesh" ("to poking", built from "nazhimat") right at the center of the line.
+- 'Make sure there is light in here in half an hour!' Emphasizing an hour with Denis, Nagiyev leans on "polchasa" ("half-hour") to give the whole sentence its punch.
+- 'Go on quickly, I told you!' Nagiyev speaks lightly around Denis, shifting the mood of the conversation in a single beat.
+- 'And you owe a fine for this!' Touching on a fine to Denis, Nagiyev lands on "shtraf" ("fine") as the key everyday word here.
+- 'And you, create an atmosphere for us.' Nagiyev opens up at once on the spot, letting the remark speak for itself.
+- 'Play a beautiful melody for us.' Nagiyev answers lightly without holding back, keeping the focus on what actually matters here.
+- 'All right, I will play for you right now.' Denis follows up briskly right here and brings in "khorosho" ("good, fine") to make the meaning unmistakable.
+- 'That is definitely a short circuit.' Highlighting how short things are around Denis, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Quickly bring candles to the tables!' Touching on the candles in their talk, Nagiyev lets Kostya see exactly where things stand.

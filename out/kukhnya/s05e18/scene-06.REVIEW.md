@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova knows that I stole a pastry yesterday.' Gulya counters dryly toward Ainura, before Ainura can change the subject.
-- 'He will definitely fire me now.' Gulya frames one direct expression at once: "tochno" means "definitely", and it carries the main weight of what Gulya is saying.
-- 'Oh, do not panic, it is just a warning.' Ainura offers this point without pause: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'And why did he not give you a warning?' Gulya probes wryly how Lyova expects that to work in practice.
-- 'Lyova will definitely not touch me.' Ainura sharpens one familiar expression toward Gulya: "tochno" means "definitely", and it carries the main weight of what Ainura is saying.
-- 'He has been pursuing me for three years already.' Ainura frames that line on cue: the "-sya" ending on "dobivayetsya" ("to strive for") turns the action inward or makes it happen between people naturally.
-- 'I see, so he will fire only me.' Gulya holds firm at once with a smile, letting the remark speak for itself.
-- 'Only our chef can fire you.' Ainura features one concrete word on cue: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'Say that you have a husband and children.' Ainura voices the comeback with candor: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Say that you send money home to them.' Ainura proceeds dryly as they talk, grounding the moment in plain reality.
-- 'But that is not true at all.' Gulya reaches for this sharp detail on cue: "nepravda" means "untrue, a lie", and it carries the main weight of what Gulya is saying.
-- 'Vitya, this evening I have an important meeting.' Lyova hands over this update toward Gulya: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Lyova knows that I stole a pastry yesterday.' Gulya jumps in dryly facing Lyova, making her position completely clear.
+- 'He will definitely fire me now.' Gulya fires back frankly with Ainura and lands on "tochno" ("definitely") as the key everyday word here.
+- 'Oh, do not panic, it is just a warning.' Touching on a warning before Gulya, Ainura uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'And why did he not give you a warning?' Gulya probes wryly if there is more going on behind the scenes.
+- 'Lyova will definitely not touch me.' Ainura cuts in frankly on the spot and puts the emphasis on "tochno" ("definitely") in the middle of the talk.
+- 'He has been pursuing me for three years already.' Cutting in evenly to Gulya, the "-sya" ending on "dobivayetsya" ("to strive for") marks an action that unfolds mutually or turns back on the speaker.
+- 'I see, so he will fire only me.' Gulya responds at once watching Ainura, bringing things back to earth after the buildup.
+- 'Only our chef can fire you.' Ainura cuts in calmly before Gulya and leans on "uvolit" ("to fire") to give the whole sentence its punch.
+- 'Say that you have a husband and children.' Mentioning a husband at once, Ainura uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Say that you send money home to them.' Ainura speaks up dryly facing Gulya, steering the talk right where she wants it.
+- 'But that is not true at all.' Touching on the untrue beside Ainura, Gulya lands on "nepravda" ("untrue, a lie") as the key everyday word here.
+- 'Vitya, this evening I have an important meeting.' Lyova cuts in decisively around Gulya, keeping the focus on what actually matters here.

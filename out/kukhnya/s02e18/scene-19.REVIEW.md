@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, step into my office for a couple of words.' Max sharpens one colorful touch right here: "paru" means "couple" (from "para"), giving the line its exact edge.
-- 'Are you ready to become sous-chef instead of Lyova?' Barinov drops this point without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Are you making fun of me?' Lyova tests candidly how Barinov expects that to work in practice.
-- 'Not at all. You are young.' Max spotlights one direct detail at once: "molodoy" means "young", and it carries the main weight of what Max is saying.
-- 'Look how quickly you think on your feet.' Barinov shares this answer with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Lyova definitely could not have pulled that off.' Max speaks pointedly without holding back, leaving no doubt about where he stands.
-- 'Right where he belongs.' Max underscores one practical piece at once: "mesto" means "place, post", and it carries the main weight of what Max is saying.
-- 'And Lyova will simply be a regular cook.' Barinov offers this answer toward Max: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'No, Chef.' Lyova jumps in honestly around Barinov, to clear the air between them once and for all.
-- 'That is not right.' Max highlights one sharp touch right here: "nepravilno" means "wrongly", and it carries the main weight of what Max is saying.
-- 'Just in case.' Barinov delivers that reply without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Kitchen, attention please!' Lyova counters steadily as they talk, shifting the whole mood of the room in a single beat.
-- 'Oguzok has passed the test.' Max emphasizes this sharp word in earnest: "proverku" means "inspection" (from "proverka"), giving the line its exact edge.
+- 'Lavrov, step into my office for a couple of words.' Highlighting a couple around Barinov, Max reaches for the Russian word "paru" ("couple", built from "para") right at the center of the line.
+- 'Are you ready to become sous-chef instead of Lyova?' Showing how ready things are before Lyova, Barinov keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'Are you making fun of me?' Lyova tests candidly what Max is actually getting at here.
+- 'Not at all. You are young.' Describing how young Lyova is on the spot, Max lands on "molodoy" ("young") as the key everyday word here.
+- 'Look how quickly you think on your feet.' Pressing on candidly with Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Lyova definitely could not have pulled that off.' Max jumps in pointedly with a smile, to clear the air between them once and for all.
+- 'Right where he belongs.' Emphasizing the place before Barinov, Max uses "mesto" ("place, post") to carry the main weight of the thought.
+- 'And Lyova will simply be a regular cook.' Touching on a regular cook before Lyova, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'No, Chef.' Lyova briskly voices this direct refusal to Barinov using "net" ("no") — a plain "net" ("no") that gives an immediate answer.
+- 'That is not right.' Max counters sharply in front of Lyova and leans on "nepravilno" ("wrongly") to give the whole sentence its punch.
+- 'Just in case.' Pointing to the case beside Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Kitchen, attention please!' Lyova speaks up steadily with a shrug, letting the remark speak for itself.
+- 'Oguzok has passed the test.' Turning to the inspection in the exchange, Max lands on "proverku" ("inspection", built on "proverka") to keep the statement grounded.

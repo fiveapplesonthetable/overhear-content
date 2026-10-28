@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, this is all the pure truth.' Gulya underscores one loaded expression at once: "chistaya" means "clean" (from "chistyy"), giving the line its exact edge.
-- 'But what about us now?' Lyova frames the comeback plainly here: putting the question word "kak" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'I am getting married there soon.' Gulya replies honestly with a shrug, shifting the whole mood of the room in a single beat.
-- 'My mother found a groom for me.' Gulya anchors one sharp piece in earnest: "zhenikha" means "groom, fiancé" (from "zhenikh"), giving the line its exact edge.
-- 'That is the custom for us at home.' Gulya lays out the thought with candor: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Forgive me, please, for everything.' Gulya chimes in wryly without holding back, steering the talk right where she wants it.
-- 'I offered to run away with her today.' Lyova centers this telling term with Gulya: "predlozhil" means "suggested" (from "predlozhit"), giving the line its exact edge.
-- 'Just forget about her!' Nastya sharpens this key term at once: "zabud" means "forget" (from "zabyt"), giving the line its exact edge.
-- 'Nastya will leave the house right now.' Lyova cuts in openly toward Gulya, keeping the focus on what actually matters here.
-- 'And you and I will have a talk.' Lyova anchors one sharp expression in earnest: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
-- 'That is it, I am running off to the bachelorette party.' Nastya responds sharply as they talk, making her position completely clear.
-- 'Do not drink too much here.' Nastya proceeds promptly to be clear, without trying to dress up how she really feels.
+- 'Lyova, this is all the pure truth.' Explaining how clean things are at once, Gulya brings in "chistaya" ("clean", from "chistyy") as the key Russian word here.
+- 'But what about us now?' Reacting directly in the exchange, Lyova puts the question word "kak" right at the start so Gulya hears the focus immediately.
+- 'I am getting married there soon.' Gulya steps in honestly watching Lyova, watching Lyova's face to see how the news lands.
+- 'My mother found a groom for me.' Pointing to a groom to Lyova, Gulya reaches for the Russian word "zhenikha" ("groom, fiancé", built from "zhenikh") right at the center of the line.
+- 'That is the custom for us at home.' Making clear how accepted things are with Lyova, Gulya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Forgive me, please, for everything.' Gulya openly sends this personal apology for Lyova using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'I offered to run away with her today.' Lyova follows up earnestly beside Gulya and centers the thought on "predlozhil" ("suggested", from "predlozhit") without wasting a word.
+- 'Just forget about her!' Nastya speaks calmly without a pause, making her position completely clear.
+- 'Nastya will leave the house right now.' Lyova follows up openly beside Nastya, shifting the mood of the conversation in a single beat.
+- 'And you and I will have a talk.' Lyova cuts in vividly to Nastya and chooses "pogovorim" ("we'll have a talk", from the root "pogovorit") so Nastya hears the exact meaning.
+- 'That is it, I am running off to the bachelorette party.' Underscoring the bachelorette party during the talk, Nastya lands on "devichnik" ("bachelorette party") as the key everyday word here.
+- 'Do not drink too much here.' Nastya speaks promptly facing Lyova, without trying to dress up how she really feels.

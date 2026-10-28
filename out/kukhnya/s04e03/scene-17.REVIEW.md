@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Forgive me, for heaven's sake.' German phrases the thought without pause: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
-- 'What did we ask you for? A hot dish, not an explosive one!' Nagiyev tests briskly in front of German without any preamble.
-- 'Get back to the kitchen, and no more fireworks.' Nagiyev emphasizes one telling term toward Elena: "feyerverkov" means "fireworks" (from "feyerverk"), giving the line its exact edge.
-- 'Understood. No fireworks.' German aims the reply around Nagiyev: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I could fire you, but I am not going to do that.' German responds sharply to settle things, bringing things back to earth after the buildup.
-- 'For a cook like you, I will find a worse punishment.' German favors one vivid expression in reply: "nakazaniye" means "punishment", and it carries the main weight of what German is saying.
-- 'You will work on vegetable prep for a month.' German spotlights this vivid term in reply: "zagotovkakh" means "preparation" (from "zagotovka"), giving the line its exact edge.
-- 'And dream of returning to the kitchen line.' German proceeds candidly in their talk, keeping the focus on what actually matters here.
-- 'You know, Vitya, I have no strength left to fight for you.' Elena uses one clear detail right here: "borotsya" means "to fight", and it carries the main weight of what Elena is saying.
-- 'If you don't want it yourself, nobody will be able to help you.' Elena directs the reply facing Nagiyev: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'You are free. Free to go wherever you please.' Elena holds firm evenly facing German, bringing things back to earth after the buildup.
-- 'Thank you. Goodbye.' Nagiyev spotlights one colorful word in earnest: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
+- 'Forgive me, for heaven's sake.' German casually sends this formal apology while facing Nagiyev using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.
+- 'What did we ask you for? A hot dish, not an explosive one!' Nagiyev tests briskly what German is actually getting at here.
+- 'Get back to the kitchen, and no more fireworks.' Turning to the fireworks to German, Nagiyev chooses "feyerverkov" ("fireworks", from the root "feyerverk") so German hears the exact meaning.
+- 'Understood. No fireworks.' Focusing on the fireworks in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I could fire you, but I am not going to do that.' German follows up sharply around Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'For a cook like you, I will find a worse punishment.' Addressing a worse punishment on the spot, German reaches for the Russian word "nakazaniye" ("punishment") right at the heart of the line.
+- 'You will work on vegetable prep for a month.' German answers plainly with a shrug, keeping the focus on what actually matters here.
+- 'And dream of returning to the kitchen line.' German speaks candidly with a shrug, letting the remark speak for itself.
+- 'You know, Vitya, I have no strength left to fight for you.' Bringing up the power in the exchange, Elena leans on "borotsya" ("to fight") to give the whole sentence its punch.
+- 'If you don't want it yourself, nobody will be able to help you.' Turning dryly to German, Elena pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'You are free. Free to go wherever you please.' Elena follows up evenly without holding back, watching Nagiyev's face to see how the news lands.
+- 'Thank you. Goodbye.' Nagiyev readily sends this word of thanks in one quick breath using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My condolences, Dima.' Barinov sends the thought toward Eleonora: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Congratulations, Eleonora.' Barinov opens up honestly without a pause, grounding the moment in plain reality.
-- 'Thank you, Vitya.' Eleonora reaches for one classic piece with Barinov: "spasibo" means "thank you", and it carries the main weight of what Eleonora is saying.
-- 'I understand that now is not the right time.' Barinov cuts in at once with a smile, saying out loud what both of them already know.
-- 'But I wanted to talk about your mom.' Barinov pushes back candidly around Eleonora, so Eleonora knows he is not just making small talk.
-- 'What do you mean?' Eleonora grounds one familiar piece toward Nagiyev: "smysle" means "sense" (from "smysl"), giving the line its exact edge.
-- 'She is keeping me from working.' Barinov voices the reaction before Eleonora: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Vitya, what are you talking about?' Eleonora challenges eagerly while looking straight at Nagiyev here.
-- 'Mom already died two years ago.' Eleonora underscores this telling word on cue: "mama" means "mum, mother", and it carries the main weight of what Eleonora is saying.
-- 'How, in what sense?' Barinov states this point beside Nagiyev: putting the question word "kak" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'I told him back then.' Nagiyev pushes back openly to be clear, grounding the moment in plain reality.
-- 'He was in such a state that he forgot.' Nagiyev points to one clear choice at once: "sostoyanii" means "condition, state" (from "sostoyaniye"), giving the line its exact edge.
+- 'My condolences, Dima.' Stepping in readily before Eleonora, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Congratulations, Eleonora.' Barinov cuts in honestly toward Eleonora, so Eleonora knows he is not just making small talk.
+- 'Thank you, Vitya.' Eleonora briskly gives this word of thanks as they meet using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I understand that now is not the right time.' Barinov answers firmly before Eleonora and chooses "ponimayu" ("understand", from the root "ponimat") so Eleonora hears the exact meaning.
+- 'But I wanted to talk about your mom.' Barinov cuts in candidly across the room, making his position completely clear.
+- 'What do you mean?' Addressing the sense on the spot, Eleonora centers the thought on "smysle" ("sense", from "smysl") without wasting a word.
+- 'She is keeping me from working.' Holding firm promptly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Vitya, what are you talking about?' Eleonora challenges eagerly what Barinov is actually getting at here.
+- 'Mom already died two years ago.' Pointing to the mum in this beat, Eleonora lands on "mama" ("mum, mother") as the key everyday word here.
+- 'How, in what sense?' Bringing up the sense in this beat, Barinov puts the question word "kak" right at the start so Nagiyev hears the focus immediately.
+- 'I told him back then.' Nagiyev reacts openly with a smile, watching Barinov's face to see how the news lands.
+- 'He was in such a state that he forgot.' Pointing to the condition in this beat, Nagiyev centers the thought on "sostoyanii" ("condition, state", from "sostoyaniye") without wasting a word.

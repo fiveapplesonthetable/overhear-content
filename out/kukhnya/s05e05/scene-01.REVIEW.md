@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not drink anything for a minute!' Kostya centers one telling word toward Max: "minutu" means "a minute" (from "minuta"), giving the line its exact edge.
-- 'The rookie has returned!' Kostya voices that reply before Vika: the "-sya" ending on "vernulsya" ("returned") turns the action inward or makes it happen between people naturally.
-- 'Vika, wait!' Max stands firm steadily without a pause, letting the remark speak for itself.
-- 'We need to talk!' Max stresses one telling expression on cue: "pogovorit" means "to talk", and it carries the main weight of what Max is saying.
-- 'I know that you are pregnant!' Max sharpens this direct expression on cue: "beremennaya" means "pregnant" (from "beremennyy"), giving the line its exact edge.
-- 'Who told you?' Vika probes bluntly while looking straight at Max here.
-- 'It does not matter who told me this.' Max chooses one vivid expression on cue: "vazhno" means "important, mattering" (from "vazhnyy"), giving the line its exact edge.
-- 'The main thing is that I am here.' Max voices the comment to Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am ready to be the father of this child.' Max holds firm wryly with a shrug, saying out loud what both of them already know.
-- 'How noble.' Vika focuses on one clear touch on cue: "blagorodno" means "nobly", and it carries the main weight of what Vika is saying.
-- 'Relax.' Vika shapes the reply briskly now: the "-sya" ending on "rasslabsya" ("relax") turns the action inward or makes it happen between people naturally.
-- 'This is not your child.' Vika proceeds promptly on the spot, steering the talk right where she wants it.
+- 'Do not drink anything for a minute!' Highlighting a minute in front of Max, Kostya brings in "minutu" ("a minute", from "minuta") as the key Russian word here.
+- 'The rookie has returned!' Holding firm dryly in front of Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Vika, wait!' Max jumps in steadily toward Vika, grounding the moment in plain reality.
+- 'We need to talk!' Max pushes back dryly at once and reaches for the Russian word "pogovorit" ("to talk") right at the heart of the line.
+- 'I know that you are pregnant!' Max jumps in right away on the spot, letting the remark speak for itself.
+- 'Who told you?' Vika probes bluntly to see how Max will answer on the spot.
+- 'It does not matter who told me this.' Max continues calmly with Vika and brings in "vazhno" ("important, mattering", from "vazhnyy") as the key Russian word here.
+- 'The main thing is that I am here.' Stressing how important he is in this beat, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am ready to be the father of this child.' Max answers wryly in this moment, letting the remark speak for itself.
+- 'How noble.' Vika reacts boldly beside Max and centers the remark on "blagorodno" ("nobly") without any extra fuss.
+- 'Relax.' Answering quietly around Max, the "-sya" ending on "rasslabsya" ("relax") marks an action that unfolds mutually or turns back on the speaker.
+- 'This is not your child.' Vika weighs in promptly in their talk, bringing things back to earth after the buildup.

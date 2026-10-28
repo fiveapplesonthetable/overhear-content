@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, can you imagine, today I lost our flash drive.' Sveta replies right away on the spot, saying out loud what both of them already know.
-- 'Well that is fine, at least we were not fired.' Denis counters firmly during the talk, to clear the air between them once and for all.
-- 'I do not need any handouts from Katya.' Sveta emphasizes one memorable element on cue: "podarki" means "presents" (from "podarok"), giving the line its exact edge.
-- 'Out of pride I will not stay here to work.' Sveta speaks up at once toward Katya, refusing to let the moment slip past.
-- 'Wait, after all it was not Katya at all who did this.' Denis reacts steadily with a sigh, making his position completely clear.
-- 'I talked with the chef in person this morning.' Denis reaches for one practical touch right here: "pogovoril" means "to have a talk" (from "pogovorit"), giving the line its exact edge.
-- 'Really, you asked the chef for us yourself?' Sveta voices that reply around Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'Of course, because without you it will be boring here.' Denis speaks candidly to settle things, watching Sveta's face to see how the news lands.
-- 'I think I understood everything perfectly right now.' Sveta chooses one pointed word for Denis: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'You invited me to the cafe and lied.' Sveta highlights one pointed word in reply: "pozval" means "invited" (from "pozvat"), giving the line its exact edge.
-- 'Why are you looking at me so strangely right now?' Denis presses wryly how Katya expects that to work in practice.
-- 'Because I like you very much too.' Sveta grounds one memorable piece at once: "nravishsya" means "appeal to, are liked" (from "nravitsya"), giving the line its exact edge.
-- 'Denis, I see you are not bored at all anymore!' Katya voices that answer plainly here: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Denis, can you imagine, today I lost our flash drive.' Turning to the drive beside Denis, Sveta chooses "predstavlyayesh" ("can you imagine", from the root "predstavlyat") so Denis hears the exact meaning.
+- 'Well that is fine, at least we were not fired.' Denis speaks up firmly with Sveta, shifting the mood of the conversation in a single beat.
+- 'I do not need any handouts from Katya.' Turning to the presents to Denis, Sveta lands on "podarki" ("presents", built on "podarok") to keep the statement grounded.
+- 'Out of pride I will not stay here to work.' Bringing up the pride on the spot, Sveta leans on "gordosti" ("pride", a form of "gordost") to give the remark its edge.
+- 'Wait, after all it was not Katya at all who did this.' Denis pushes back steadily with a smile, leaving no doubt about where he stands.
+- 'I talked with the chef in person this morning.' Denis fires back warmly before Sveta and reaches for the Russian word "pogovoril" ("to have a talk", built from "pogovorit") right at the center of the line.
+- 'Really, you asked the chef for us yourself?' Reacting calmly right here, Sveta keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'Of course, because without you it will be boring here.' Denis counters promptly with a nod, watching Sveta's face to see how the news lands.
+- 'I think I understood everything perfectly right now.' Sveta speaks warmly in front of Denis and leans on "kazhetsya" ("it seems, I think", a form of "kazatsya") to give the remark its edge.
+- 'You invited me to the cafe and lied.' Sveta pushes back quietly watching Denis, testing Denis's reaction in the middle of the exchange.
+- 'Why are you looking at me so strangely right now?' Denis presses wryly while looking straight at Sveta here.
+- 'Because I like you very much too.' Sveta proceeds evenly at once and chooses "nravishsya" ("appeal to, are liked", from the root "nravitsya") so Denis hears the exact meaning.
+- 'Denis, I see you are not bored at all anymore!' Looking over firmly during the talk, Katya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.

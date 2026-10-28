@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait a second, it says here: Rodion Sergeyevich Barinov!' Barinov speaks decisively as they talk, leaving no doubt about where he stands.
-- 'Chef, they wrote it down just the way he told us.' Max counters wryly beside Rodion, letting the remark speak for itself.
-- 'I do not remember my surname, and I wanted something strong-sounding.' Rodion highlights one key term for Barinov: "zvuchnoye" means "resonant" (from "zvuchnyy"), giving the line its exact edge.
-- 'Rodion Sergeyevich Barinov! And with a full set of documents!' Max speaks dryly across the room, grounding the moment in plain reality.
-- 'Even I do not have all such authentic documents.' Barinov pushes back evenly without a pause, refusing to let the moment slip past.
-- 'I will fire him anyway for professional incompetence.' Max favors one familiar element in earnest: "professionalnoye" means "professional" (from "professionalnyy"), giving the line its exact edge.
-- 'And how will you determine that? Just by his eyes?' Barinov frames the comment without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Right now he will cook something for us, and everything will be clear.' Max responds quietly during the talk, testing Rodion's reaction in the middle of the exchange.
-- 'And here is the first order: fish and meat with vegetables.' Max grounds one classic element in reply: "ovoshchami" means "with vegetables" (from "ovoshch"), giving the line its exact edge.
-- 'He will not cook anything, I am his boss here!' Barinov frames the comeback without fuss: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Viktor Petrovich, this is just a simple dish with vegetables.' Rodion proceeds promptly with a shrug, making his position completely clear.
-- 'Well, what is there even to take long cooking here, tell me?' Rodion picks this telling term in earnest: "voobshche" means "at all", and it carries the main weight of what Rodion is saying.
+- 'Wait a second, it says here: Rodion Sergeyevich Barinov!' Barinov replies openly to Rodion and lands on "podozhdite" ("wait", built on "podozhdat") to keep the statement grounded.
+- 'Chef, they wrote it down just the way he told us.' Max speaks wryly across the room, grounding the moment in plain reality.
+- 'I do not remember my surname, and I wanted something strong-sounding.' Touching on his surname during the talk, Rodion uses "zvuchnoye" ("resonant", from "zvuchnyy") to make the point stick.
+- 'Rodion Sergeyevich Barinov! And with a full set of documents!' Turning to the documents in the exchange, Max chooses "dokumentov" ("documents", from the root "dokument") so Rodion hears the exact meaning.
+- 'Even I do not have all such authentic documents.' Barinov answers evenly on the spot, watching Max's face to see how the news lands.
+- 'I will fire him anyway for professional incompetence.' Discussing the incompetence with Barinov, Max puts the weight on "professionalnoye" ("professional", from "professionalnyy") as the exchange unfolds.
+- 'And how will you determine that? Just by his eyes?' Returning to the eye in front of Max, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Right now he will cook something for us, and everything will be clear.' Max continues quietly facing Barinov, without trying to dress up how he really feels.
+- 'And here is the first order: fish and meat with vegetables.' Talking about the vegetables beside Barinov, Max puts the weight on "ovoshchami" ("with vegetables", from "ovoshch") as the exchange unfolds.
+- 'He will not cook anything, I am his boss here!' Returning to the boss during the talk, Barinov pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Viktor Petrovich, this is just a simple dish with vegetables.' Rodion fires back promptly hearing Barinov, so Barinov knows he is not just making small talk.
+- 'Well, what is there even to take long cooking here, tell me?' Rodion continues firmly in this beat and centers the remark on "voobshche" ("at all") without any extra fuss.

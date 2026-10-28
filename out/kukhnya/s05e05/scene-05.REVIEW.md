@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If you do not want to, I will not force you.' Barinov sharpens one loaded term in reply: "zastavlyat" means "to force, make", and it carries the main weight of what Barinov is saying.
-- 'I know how you feel about modern art.' Barinov replies firmly toward Mikhail, leaving no doubt about where he stands.
-- 'Alright, it is settled, we are going.' Barinov colors this direct word in earnest: "resheno" means "decided, settled" (from "reshit"), giving the line its exact edge.
-- 'Until tomorrow, kisses.' Barinov puts this line before Mikhail: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Where are you planning to go tomorrow?' Mikhail questions candidly why things suddenly took this turn between them.
-- 'Actually, the Finnish ambassador is having lunch with us.' Mikhail centers one practical element with Barinov: "voobshche-to" means "actually", and it carries the main weight of what Mikhail is saying.
-- 'You do not say?' Barinov phrases the reaction to Mikhail: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
-- 'And I just bought myself new shoes.' Barinov proceeds dryly with a sigh, without trying to dress up how he really feels.
-- 'What does that have to do with this?' Mikhail makes the comeback plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'We are exchanging curious facts, after all.' Barinov aims that line facing Mikhail: the "-sya" ending on "obmenivayemsya" ("are exchanging") turns the action inward or makes it happen between people naturally.
-- 'My team will handle the ambassador without me.' Barinov continues firmly across the room, watching Mikhail's face to see how the news lands.
-- 'Even a Finnish one.' Barinov frames one pointed choice for Mikhail: "finskim" means "Finnish" (from "finskiy"), giving the line its exact edge.
+- 'If you do not want to, I will not force you.' Barinov jumps in at once watching Mikhail, without trying to dress up how he really feels.
+- 'I know how you feel about modern art.' Barinov jumps in firmly facing Mikhail, bringing things back to earth after the buildup.
+- 'Alright, it is settled, we are going.' Barinov answers calmly right here and leans on "resheno" ("decided, settled", a form of "reshit") to give the remark its edge.
+- 'Until tomorrow, kisses.' Opening up frankly with Mikhail, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Where are you planning to go tomorrow?' Mikhail questions candidly before Barinov can change the subject.
+- 'Actually, the Finnish ambassador is having lunch with us.' Turning to the ambassador right here, Mikhail lands on "finskiy" ("Finnish") as the key everyday word here.
+- 'You do not say?' Reacting frankly during the talk, Barinov puts the question word "chto" right at the start so Mikhail hears the focus immediately.
+- 'And I just bought myself new shoes.' Barinov fires back dryly in this moment, refusing to let the moment slip past.
+- 'What does that have to do with this?' Cutting in readily right here, Mikhail keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'We are exchanging curious facts, after all.' Describing how curious things are to Mikhail, Barinov uses "lyubopytnymi" ("curious, interesting", from "lyubopytnyy") to make the point stick.
+- 'My team will handle the ambassador without me.' Barinov cuts in firmly with a sigh, testing Mikhail's reaction in the middle of the exchange.
+- 'Even a Finnish one.' Barinov counters evenly in the exchange and leans on "finskim" ("Finnish", a form of "finskiy") to give the remark its edge.

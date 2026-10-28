@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you finished work already, Lyova?' Gulya offers that remark right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Ainura purely through rising pitch at the end.
-- 'We still need to wash all the stoves.' Ainura responds decisively beside Gulya, making her position completely clear.
-- 'The two of you have a rather strange relationship.' Ainura favors one clear touch in reply: "otnosheniya" means "relations, relationship" (from "otnosheniye"), giving the line its exact edge.
-- 'Lyova is simply a bit shy and kind.' Gulya lays out this warning for Elena: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'We are not rushing into that.' Gulya pushes back honestly without a pause, so Ainura knows she is not just making small talk.
-- 'Your parents raised you well at home.' Ainura centers one clear word right here: "roditeli" means "parents", and it carries the main weight of what Ainura is saying.
-- 'Tomorrow at two o'clock at the clinic?' Elena sends this warning around Ainura: Russian keeps the exact word order of a normal statement here, turning it into a question for Ainura purely through rising pitch at the end.
-- 'Yes, that time suits us very well.' Elena follows up briskly with Gulya, to clear the air between them once and for all.
-- 'He is my very close friend.' Elena grounds this vivid choice on cue: "blizkiy" means "close", and it carries the main weight of what Elena is saying.
-- 'He is tall and has a handsome mustache.' Elena directs that point to Gulya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I will tell you everything in detail later.' Elena speaks up lightly toward Ainura, letting the remark speak for itself.
-- 'Vitya, tomorrow Lyova will cover for you at work.' Elena favors this telling detail right here: "rabote" means "work" (from "rabota"), giving the line its exact edge.
+- 'Have you finished work already, Lyova?' Looking over candidly beside Ainura, Gulya keeps normal statement word order here, turning the line into a question for Ainura purely through rising pitch.
+- 'We still need to wash all the stoves.' Ainura cuts in decisively without any doubt, testing Gulya's reaction in the middle of the exchange.
+- 'The two of you have a rather strange relationship.' Addressing the relations in the exchange, Ainura leans on "otnosheniya" ("relations, relationship", a form of "otnosheniye") to give the remark its edge.
+- 'Lyova is simply a bit shy and kind.' Insisting on how good things are during the talk, Gulya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'We are not rushing into that.' Gulya chimes in honestly during the talk, making her position completely clear.
+- 'Your parents raised you well at home.' Highlighting the parents in the exchange, Ainura reaches for the Russian word "roditeli" ("parents") right at the heart of the line.
+- 'Tomorrow at two o'clock at the clinic?' Dwelling on the clinic in front of Ainura, Elena keeps normal statement word order here, turning the line into a question for Ainura purely through rising pitch.
+- 'Yes, that time suits us very well.' Elena opens up briskly on the spot, leaving no doubt about where she stands.
+- 'He is my very close friend.' Showing how close he is before Ainura, Elena brings in "blizkiy" ("close") to make the meaning unmistakable.
+- 'He is tall and has a handsome mustache.' Emphasizing how high he is before Ainura, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I will tell you everything in detail later.' Elena speaks up lightly without a pause, without trying to dress up how she really feels.
+- 'Vitya, tomorrow Lyova will cover for you at work.' Talking about the work beside Ainura, Elena uses "rabote" ("work", from "rabota") to make the point stick.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Beauty! Even in the boxes.' Nagiyev aims this statement with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Dima, what is this?' Barinov tests plainly whether Nagiyev really thought this through.
-- 'You want to be fashionable, don't you.' Nagiyev favors one pointed touch in reply: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'This is equipment for molecular cuisine.' Nagiyev directs that remark in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'For molecular cuisine. Clear?' Nagiyev presses evenly before Barinov can change the subject.
-- 'Who am I talking to about fashion?' Nagiyev chooses one classic word toward Barinov: "govoryu" means "am telling" (from "govorit"), giving the line its exact edge.
-- 'We are a classic French restaurant.' Barinov gives this answer facing Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And classics never go out of fashion.' Barinov proceeds quietly as they talk, grounding the moment in plain reality.
-- 'We do not need this cuisine.' Barinov points to one direct detail toward Nagiyev: "kukhnya" means "kitchen", and it carries the main weight of what Barinov is saying.
-- 'People are tired of eating the same thing.' Nagiyev speaks up wryly on the spot, saying out loud what both of them already know.
-- 'Look for a person this very day.' Nagiyev reacts calmly without any doubt, letting the remark speak for itself.
-- 'Yes, my little chicken.' Barinov picks this vivid detail for Nagiyev: "kurochka" means "little chicken", and it carries the main weight of what Barinov is saying.
+- 'Beauty! Even in the boxes.' Focusing on the boxes before Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Dima, what is this?' Barinov tests plainly before Nagiyev can change the subject.
+- 'You want to be fashionable, don't you.' Nagiyev steps in firmly beside Barinov and puts the weight on "modnym" ("fashionable", from "modnyy") as the exchange unfolds.
+- 'This is equipment for molecular cuisine.' Checking on the equipment before Barinov, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'For molecular cuisine. Clear?' Nagiyev gently chooses this acknowledgment with Barinov using "yasno" ("clear") — literally "brightly, clearly", used in conversation to mean "got it, I see".
+- 'Who am I talking to about fashion?' Addressing the fashion in this beat, Nagiyev reaches for the Russian word "govoryu" ("am telling", built from "govorit") right at the center of the line.
+- 'We are a classic French restaurant.' Making clear how classic things are in front of Nagiyev, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And classics never go out of fashion.' Barinov speaks up quietly across the room, shifting the mood of the conversation in a single beat.
+- 'We do not need this cuisine.' Pointing to the kitchen on the spot, Barinov leans on "kukhnya" ("kitchen") to give the whole sentence its punch.
+- 'People are tired of eating the same thing.' Nagiyev reacts directly at once and brings in "ustali" ("got tired", from "ustat") as the key Russian word here.
+- 'Look for a person this very day.' Nagiyev answers calmly without holding back, letting the remark speak for itself.
+- 'Yes, my little chicken.' Pointing to the chicken right here, Barinov reaches for the Russian word "kurochka" ("little chicken") right at the heart of the line.

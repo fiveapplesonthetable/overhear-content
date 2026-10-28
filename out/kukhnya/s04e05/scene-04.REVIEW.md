@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let Viktor Petrovich be the sous-chef instead.' Lyova grounds this key expression in reply: "su-shefom" means "sous-chef" (from "su-shef"), giving the line its exact edge.
-- 'He is older and much more experienced than me.' Lyova voices that remark without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And I cannot work like this anymore.' Lyova cuts in candidly in this moment, steering the talk right where he wants it.
-- 'What happened, does he not obey you?' Elena colors one concrete piece in reply: "slushayetsya" means "to obey, heed" (from "slushatsya"), giving the line its exact edge.
-- 'Listen to me carefully, dear Lev.' Elena cuts in candidly as things stand, testing Barinov's reaction in the middle of the exchange.
-- 'Viktor Petrovich is now your direct subordinate.' Elena speaks dryly as they talk, shifting the whole mood of the room in a single beat.
-- 'If he does not obey, punish him strictly.' Elena emphasizes one direct expression for Barinov: "podchinyayetsya" means "to obey, to submit to" (from "podchinyatsya"), giving the line its exact edge.
-- 'You want me to punish the chef?' Lyova brings this answer briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
-- 'Who here in the kitchen is not obeying?' Barinov tests eagerly about what Elena just brought up.
-- 'Elena Pavlovna, I simply cannot do that.' Lyova anchors this vivid touch at once: "prosto" means "just", and it carries the main weight of what Lyova is saying.
-- 'This must be done for his own good.' Elena delivers the reply toward Barinov: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Tomorrow a guest ordered a fresh royal crab.' Elena fires back candidly across the room, so Lyova knows she is not just making small talk.
-- 'Make sure that they bring a fresh crab tomorrow.' Elena underscores this sharp piece right here: "prosledite" means "to see to it" (from "prosledit"), giving the line its exact edge.
+- 'Let Viktor Petrovich be the sous-chef instead.' Lyova jumps in calmly with Barinov and centers the thought on "su-shefom" ("sous-chef", from "su-shef") without wasting a word.
+- 'He is older and much more experienced than me.' Replying naturally in the exchange, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And I cannot work like this anymore.' Lyova reacts candidly across the room, leaving no doubt about where he stands.
+- 'What happened, does he not obey you?' Elena fires back quietly during the talk and uses "slushayetsya" ("to obey, heed", from "slushatsya") to make the point stick.
+- 'Listen to me carefully, dear Lev.' Elena jumps in smoothly in front of Lyova and chooses "poslushayte" ("listen", from the root "poslushat") so Lyova hears the exact meaning.
+- 'Viktor Petrovich is now your direct subordinate.' Elena steps in dryly without holding back, to clear the air between them once and for all.
+- 'If he does not obey, punish him strictly.' Elena proceeds decisively on the spot and reaches for the Russian word "podchinyayetsya" ("to obey, to submit to", built from "podchinyatsya") right at the center of the line.
+- 'You want me to punish the chef?' Speaking smoothly before Barinov, Lyova keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Who here in the kitchen is not obeying?' Barinov tests eagerly about what Lyova just brought up.
+- 'Elena Pavlovna, I simply cannot do that.' Leaning in evenly before Elena, Lyova uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'This must be done for his own good.' Pointing to the good right here, Elena leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Tomorrow a guest ordered a fresh royal crab.' Elena steps in candidly in their talk, letting the remark speak for itself.
+- 'Make sure that they bring a fresh crab tomorrow.' Pointing to a fresh crab in the exchange, Elena chooses "svezhego" ("fresh", from the root "svezhiy") so Lyova hears the exact meaning.

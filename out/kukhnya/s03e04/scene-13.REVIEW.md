@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you are, please.' Max sharpens this key detail in earnest: "proshu" means "beg, ask" (from "prosit"), giving the line its exact edge.
-- 'Do you want anything else? It's just that the kitchen is closing.' Max gives that reply frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'The kitchen is closing, and you and Katya are staying until the last guest.' Nagiyev opens up briskly as they talk, to clear the air between them once and for all.
-- 'What do you mean, staying? All the guests have already left.' Max underscores one practical expression at once: "ostayomsya" means "stay" (from "ostavatsya"), giving the line its exact edge.
-- 'What, am I not a guest? So go to the kitchen.' Nagiyev delivers this answer for Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Bring something else tasty.' Nagiyev continues frankly without a pause, watching Vika's face to see how the news lands.
-- 'Quick march!' Nagiyev colors one key expression in earnest: "shagom" means "at a march", and it carries the main weight of what Nagiyev is saying.
-- 'And regarding our last conversation...' Vika responds dryly on the spot, without trying to dress up how she really feels.
-- 'I see everything! I said, to the kitchen!' Nagiyev follows up briskly during the talk, watching Max's face to see how the news lands.
-- 'Quick, march!' Nagiyev spotlights one sharp piece on cue: "bystro" means "quickly", and it carries the main weight of what Nagiyev is saying.
-- 'Vika, let's not do this right now, okay?' Max gives this point frankly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'You see how it is, don't you?' Max quizzes promptly where this conversation is heading next.
+- 'Here you are, please.' Max casually chooses this courtesy word in the exchange using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Do you want anything else? It's just that the kitchen is closing.' Dwelling on the kitchen with Nagiyev, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'The kitchen is closing, and you and Katya are staying until the last guest.' Nagiyev cuts in briskly without any doubt, grounding the moment in plain reality.
+- 'What do you mean, staying? All the guests have already left.' Pointing to the visitors before Nagiyev, Max chooses "ostayomsya" ("stay", from the root "ostavatsya") so Nagiyev hears the exact meaning.
+- 'What, am I not a guest? So go to the kitchen.' Talking about the kitchen at once, Nagiyev puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Bring something else tasty.' Nagiyev responds frankly without any doubt, shifting the mood of the conversation in a single beat.
+- 'Quick march!' Nagiyev reacts briskly before Vika and chooses "shagom" ("at a march") so Vika gets the point right away.
+- 'And regarding our last conversation...' Talking about the conversation in the exchange, Vika brings in "poslednego" ("the last", from "posledniy") as the key Russian word here.
+- 'I see everything! I said, to the kitchen!' Nagiyev continues briskly without holding back, testing Vika's reaction in the middle of the exchange.
+- 'Quick, march!' Nagiyev opens up warmly in front of Max and puts the emphasis on "bystro" ("quickly") in the middle of the talk.
+- 'Vika, let's not do this right now, okay?' Stepping in quietly in the exchange, Max starts with "davay" ("come on, let's") to invite Vika right into the action.
+- 'You see how it is, don't you?' Max quizzes promptly whether Nagiyev really thought this through.

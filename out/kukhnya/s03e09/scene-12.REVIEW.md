@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let Lyova babysit him now.' Barinov reacts wryly in their talk, grounding the moment in plain reality.
-- 'Where have you been wandering around so long?' Barinov underscores one telling element in earnest: "shlyayeshsya" means "you wander around" (from "shlyatsya"), giving the line its exact edge.
-- 'I am not going to drink here alone!' Barinov speaks up sharply without any doubt, shifting the whole mood of the room in a single beat.
-- 'Hi, sweetheart, how are things going with you?' Nastya prompts wryly as Kostya tries to explain the situation.
-- 'Were you not late for work today?' Nastya points to one loaded choice at once: "segodnya" means "today", and it carries the main weight of what Nastya is saying.
-- 'Hi, no, everything is fine with me.' Kostya phrases that line plainly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'I decided to go to the shop again.' Nastya speaks lightly as things stand, before Barinov can change the subject.
-- 'I see, that is very good, Nastya.' Kostya points to one clear expression in earnest: "ponyatno" means "clear", and it carries the main weight of what Kostya is saying.
-- 'Afterwards I will drop by your bar.' Nastya anchors this sharp element right here: "zabegu" means "I will drop by" (from "zabezhat"), giving the line its exact edge.
-- 'Alright, I will not distract you right now.' Nastya opens up promptly beside Kostya, making her position completely clear.
-- 'Alright, see you soon then, bye.' Kostya leans on one concrete detail with Barinov: "vstrechi" means "meeting, next time" (from "vstrecha"), giving the line its exact edge.
-- 'Kissing you tightly, bye!' Nastya lays out this warning on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Let Lyova babysit him now.' Barinov continues wryly without holding back, to clear the air between them once and for all.
+- 'Where have you been wandering around so long?' Barinov cuts in promptly to Nastya and centers the thought on "shlyayeshsya" ("you wander around", from "shlyatsya") without wasting a word.
+- 'I am not going to drink here alone!' Barinov replies sharply hearing Nastya, to clear the air between them once and for all.
+- 'Hi, sweetheart, how are things going with you?' Nastya politely gives this casual greeting to Barinov using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Were you not late for work today?' Pointing to the job at once, Nastya chooses "rabotu" ("job", from the root "rabota") so Kostya hears the exact meaning.
+- 'Hi, no, everything is fine with me.' Jumping in smoothly in front of Nastya, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I decided to go to the shop again.' Nastya steps in lightly without holding back, keeping the focus on what actually matters here.
+- 'I see, that is very good, Nastya.' Kostya plainly extends this acknowledgment without hesitation using "ponyatno" ("understood") — a single word meaning "clear, got it", showing the point has landed.
+- 'Afterwards I will drop by your bar.' Nastya continues evenly without a pause, making her position completely clear.
+- 'Alright, I will not distract you right now.' Nastya cuts in promptly without any doubt, without trying to dress up how she really feels.
+- 'Alright, see you soon then, bye.' Discussing the meeting during the talk, Kostya chooses "vstrechi" ("meeting, next time", from the root "vstrecha") so Nastya hears the exact meaning.
+- 'Kissing you tightly, bye!' Nastya directly sends this casual farewell to Kostya using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.

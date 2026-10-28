@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, what is Pashka doing here?' Vika prompts straight out why things suddenly took this turn between them.
-- 'Well, I brought him along with me.' Vika favors one memorable term toward Nastya: "prinesla" means "brought" (from "prinesti"), giving the line its exact edge.
-- 'You never know what could happen at home.' Nastya brings that reply plainly here: the "-sya" ending on "sluchitsya" ("to happen") turns the action inward or makes it happen between people naturally.
-- 'Nastya, come over here.' Vika stands firm warmly watching Nastya, leaving no doubt about where she stands.
-- 'All right, that is it, I have to go.' Nastya colors this telling piece for Vika: "idti" means "to go", and it carries the main weight of what Nastya is saying.
-- 'Keep an eye on him.' Vika puts the comeback in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'No way, finding a hundred thousand dollars before tonight...' Nastya steps in openly to be clear, grounding the moment in plain reality.
-- 'You need to run away.' Vika sharpens one telling detail toward Nastya: "bezhat" means "to run, flee", and it carries the main weight of what Vika is saying.
-- 'I do not know, somewhere far away.' Nastya gives this update at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Just do not tell me the address.' Vika chimes in briskly beside Nastya, to clear the air between them once and for all.
-- 'No, guys, where could I possibly run?' Nastya leans on one colorful detail at once: "rebyat" means "kids, guys" (from "rebyata"), giving the line its exact edge.
-- 'You do not have any kids, at least.' Vika voices that line with warmth: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Listen, just relax.' Nastya pushes back sharply before Vika, watching Vika's face to see how the news lands.
+- 'Nastya, what is Pashka doing here?' Vika prompts straight out before Nastya can change the subject.
+- 'Well, I brought him along with me.' Vika reacts earnestly to Nastya and lands on "prinesla" ("brought", built on "prinesti") to keep the statement grounded.
+- 'You never know what could happen at home.' Holding firm warmly in this beat, the "-sya" ending on "sluchitsya" ("to happen") marks an action that unfolds mutually or turns back on the speaker.
+- 'Nastya, come over here.' Vika proceeds warmly with a sigh, grounding the moment in plain reality.
+- 'All right, that is it, I have to go.' Nastya speaks pointedly in the exchange and lands on "idti" ("to go") as the key everyday word here.
+- 'Keep an eye on him.' Turning to the supervision in front of Nastya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'No way, finding a hundred thousand dollars before tonight...' Nastya steps in openly with a smile, leaving no doubt about where she stands.
+- 'You need to run away.' Vika cuts in naturally in front of Nastya and leans on "bezhat" ("to run, flee") to give the whole sentence its punch.
+- 'I do not know, somewhere far away.' Holding firm openly before Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Just do not tell me the address.' Vika reacts briskly facing Nastya, bringing things back to earth after the buildup.
+- 'No, guys, where could I possibly run?' Addressing the kids with Vika, Nastya chooses "rebyat" ("kids, guys", from the root "rebyata") so Vika hears the exact meaning.
+- 'You do not have any kids, at least.' Mentioning the children right here, Vika uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Listen, just relax.' Nastya continues sharply facing Vika, leaving no doubt about where she stands.

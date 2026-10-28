@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let him stay here with us.' Max stands firm boldly hearing Kostya, to clear the air between them once and for all.
-- 'Max and I have no objection.' Kostya responds right away to be clear, shifting the whole mood of the room in a single beat.
-- 'So pick which room you are going to sleep in?' Rodion voices the reaction with warmth: putting the question word "kakoy" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'In the room with you two.' Max stands firm candidly without a pause, to clear the air between them once and for all.
-- 'Rodion Sergeyevich.' Kostya makes this update on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I beg your pardon.' Rodion aims the thought without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I am a citizen of the world, I have nothing to hide.' Max counters evenly hearing Kostya, to clear the air between them once and for all.
-- 'Good morning.' Kostya frames one colorful term in reply: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
-- 'I did not even think that you would actually show up.' Rodion features one colorful choice with Kostya: "pridete" means "to come, to arrive" (from "priyti"), giving the line its exact edge.
-- 'Well then, shall we run?' Max challenges point-blank while looking straight at Rodion here.
-- 'You will be begging me to stop before long.' Kostya sharpens one memorable touch with Max: "ostanovilsya" means "stopped" (from "ostanovitsya"), giving the line its exact edge.
-- 'Oh, come on now.' Rodion aims this line without fuss: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Max is on board.
-- 'All right, forward march.' Max opens up at once on the spot, bringing things back to earth after the buildup.
+- 'Let him stay here with us.' Max speaks boldly toward Kostya, making his position completely clear.
+- 'Max and I have no objection.' Kostya cuts in right away in this moment, refusing to let the moment slip past.
+- 'So pick which room you are going to sleep in?' Replying dryly at once, Rodion puts the question word "kakoy" right at the start so Max hears the focus immediately.
+- 'In the room with you two.' Max jumps in candidly with a shrug, keeping the focus on what actually matters here.
+- 'Rodion Sergeyevich.' Speaking quietly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I beg your pardon.' Focusing on the forgiveness in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I am a citizen of the world, I have nothing to hide.' Max speaks evenly with a smile, grounding the moment in plain reality.
+- 'Good morning.' Kostya openly gives this morning greeting without hesitation using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'I did not even think that you would actually show up.' Rodion reacts evenly beside Kostya, steering the talk right where he wants it.
+- 'Well then, shall we run?' Max challenges point-blank while looking straight at Kostya here.
+- 'You will be begging me to stop before long.' Kostya cuts in warmly in front of Max and reaches for the Russian word "ostanovilsya" ("stopped", built from "ostanovitsya") right at the center of the line.
+- 'Oh, come on now.' Rodion warmly shares this word of agreement to Kostya using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'All right, forward march.' Max continues at once with a sigh, to clear the air between them once and for all.

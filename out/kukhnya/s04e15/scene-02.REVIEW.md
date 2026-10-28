@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, my dear German Mikhailovich!' Jumping in right away, Ainura lets Barinov know there is no turning back now.
-- 'Hello, Ainura, how are you feeling?' German questions calmly before Barinov can change the subject.
-- 'Oh, I am already running very late for work!' Ainura stresses this key detail in earnest: "opazdyvayu" means "am running late" (from "opazdyvat"), giving the line its exact edge.
-- 'And I have a strict boss in the kitchen!' Ainura shares the comment frankly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Last night a big indiscretion happened between us.' German reacts briskly toward Ainura, before Ainura can change the subject.
-- 'I earnestly ask you to keep this secret.' German anchors one classic detail at once: "khranit" means "to keep, to store", and it carries the main weight of what German is saying.
-- 'Let all this remain strictly confidential.' German speaks frankly with Ainura, testing Ainura's reaction in the middle of the exchange.
-- 'Ainura, do you understand me well right now?' German probes skeptically about what Barinov just brought up.
-- 'Yes, you always speak so romantically!' Ainura centers this sharp word at once: "romantichno" means "romantic", and it carries the main weight of what Ainura is saying.
-- 'Good morning, Viktor Petrovich, how did you sleep?' German states the reaction with ease: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Good morning, my dear German Mikhailovich!' Focusing on the morning at once, Ainura centers the thought on "dobroye" ("good", from "dobryy") without wasting a word.
+- 'Hello, Ainura, how are you feeling?' German questions calmly about what Ainura just brought up.
+- 'Oh, I am already running very late for work!' Bringing up the job with German, Ainura uses "opazdyvayu" ("am running late", from "opazdyvat") to make the point stick.
+- 'And I have a strict boss in the kitchen!' Ainura jumps in sharply with a shrug, leaving no doubt about where she stands.
+- 'Last night a big indiscretion happened between us.' German pushes back briskly across the room, watching Ainura's face to see how the news lands.
+- 'I earnestly ask you to keep this secret.' Focusing on the secret in this beat, German chooses "taynu" ("secret", from the root "tayna") so Ainura hears the exact meaning.
+- 'Let all this remain strictly confidential.' German speaks up firmly in this beat and centers the remark on "konfidentsialno" ("confidential") without any extra fuss.
+- 'Ainura, do you understand me well right now?' German probes skeptically why things suddenly took this turn between them.
+- 'Yes, you always speak so romantically!' Ainura weighs in vividly in this beat and reaches for the Russian word "romantichno" ("romantic") right at the heart of the line.
+- 'Good morning, Viktor Petrovich, how did you sleep?' Bringing up the morning during the talk, German puts the question word "kak" right at the start so Barinov hears the focus immediately.
 - 'Good Lord, how on earth did I end up here?' Barinov probes earnestly before Ainura can change the subject.
-- 'See you at our beloved restaurant!' Ainura uses one sharp touch on cue: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'See you at our beloved restaurant!' Mentioning the restaurant in front of Barinov, Ainura uses "restorane" ("restaurant", from "restoran") to make the point stick.

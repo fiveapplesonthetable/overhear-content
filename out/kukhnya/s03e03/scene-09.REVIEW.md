@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, your phone is ringing.' Elena reacts briskly on the spot, testing Barinov's reaction in the middle of the exchange.
-- 'Hi, Lyova. What did you want?' Barinov centers one sharp expression for Katya: "khotel" means "wanted" (from "khotet"), giving the line its exact edge.
-- 'Your daughter needs help moving to a new apartment.' Katya sends the reaction in earnest: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Vitya, your phone is ringing.' Elena continues briskly watching Barinov, so Barinov knows she is not just making small talk.
+- 'Hi, Lyova. What did you want?' Barinov casually chooses this casual greeting in the exchange using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Your daughter needs help moving to a new apartment.' Dwelling on the flat around Barinov, Katya leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
 - 'Did you look at the clock? I cannot right now.' Barinov questions firmly about what Katya just brought up.
-- 'Then I will ask Fedya.' Katya grounds one colorful choice in earnest: "poproshu" means "will ask" (from "poprosit"), giving the line its exact edge.
-- 'Fine, all right. I will come over now.' Barinov puts this warning around Katya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Katya is on board.
-- 'Who called? And why are you lying?' Elena challenges straight out while looking straight at Barinov here.
-- 'I recognized her, that is your new cook!' Elena reaches for this sharp expression on cue: "novyy" means "new", and it carries the main weight of what Elena is saying.
-- 'They are dating. Lyova and Katya.' Barinov frames the comment toward Elena: the "-sya" ending on "vstrechayutsya" ("meet") turns the action inward or makes it happen between people naturally.
-- 'Love at first sight. You cannot command the heart.' Barinov speaks promptly with a shrug, without trying to dress up how he really feels.
-- 'Katya is even planning to move into his home.' Barinov leans on one telling word at once: "sobirayetsya" means "to intend" (from "sobiratsya"), giving the line its exact edge.
-- 'Lyova is doing renovations now and asked me to help move furniture.' Barinov proceeds sharply with a shrug, without trying to dress up how he really feels.
+- 'Then I will ask Fedya.' Katya pushes back readily around Barinov and chooses "poproshu" ("will ask", from the root "poprosit") so Barinov hears the exact meaning.
+- 'Fine, all right. I will come over now.' Barinov promptly delivers this word of agreement in one quick breath using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Who called? And why are you lying?' Elena challenges straight out to see how Barinov will answer on the spot.
+- 'I recognized her, that is your new cook!' Elena reacts dryly beside Barinov and uses "novyy" ("new") to carry the main weight of the thought.
+- 'They are dating. Lyova and Katya.' Cutting in quietly to Katya, the "-sya" ending on "vstrechayutsya" ("meet") marks an action that unfolds mutually or turns back on the speaker.
+- 'Love at first sight. You cannot command the heart.' Barinov replies promptly with a nod, grounding the moment in plain reality.
+- 'Katya is even planning to move into his home.' Barinov replies dryly in front of Katya and lands on "sobirayetsya" ("to intend", built on "sobiratsya") to keep the statement grounded.
+- 'Lyova is doing renovations now and asked me to help move furniture.' Touching on the renovation before Elena, Barinov reaches for the Russian word "peredvinut" ("to move, shift") right at the heart of the line.

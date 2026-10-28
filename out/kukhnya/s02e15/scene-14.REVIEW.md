@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not understand.' Elena lays out that remark toward Kostya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'In that sense?' Kostya checks plainly about what Elena just brought up.
-- 'For sheer nerve.' Elena favors one classic expression on cue: "naglost" means "nerve, impudence", and it carries the main weight of what Elena is saying.
-- 'What is with you?' Kostya states this statement frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I was only joking.' Elena continues warmly as they talk, without trying to dress up how she really feels.
-- 'Does he know how to talk?' Kostya chooses one colorful expression at once: "razgovarivat" means "to talk, to speak", and it carries the main weight of what Kostya is saying.
-- 'Stepan Andreyevich?' Elena directs the reaction without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Elena Pavlovna, my mother has gone out to the ballet.' Kostya cuts in promptly hearing Elena, so Elena knows he is not just making small talk.
-- 'Why walk on foot?' Elena anchors one concrete word in earnest: "peshkom" means "on foot", and it carries the main weight of what Elena is saying.
-- 'What I meant to say was...' Kostya hands over that answer with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
-- 'Really? Sounds good?' Elena asks skeptically as Kostya tries to explain the situation.
-- 'Well then, what do you say?' Kostya underscores one telling detail in earnest: "togda" means "back then", and it carries the main weight of what Kostya is saying.
-- 'See you soon.' Elena shares that thought with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I do not understand.' Turning boldly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'In that sense?' Kostya checks plainly whether Elena really thought this through.
+- 'For sheer nerve.' Discussing the nerve in this beat, Elena uses "naglost" ("nerve, impudence") to carry the main weight of the thought.
+- 'What is with you?' Leaning in readily around Elena, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I was only joking.' Elena chimes in warmly with a smile, watching Kostya's face to see how the news lands.
+- 'Does he know how to talk?' Kostya fires back directly on the spot and leans on "razgovarivat" ("to talk, to speak") to give the whole sentence its punch.
+- 'Stepan Andreyevich?' Opening up naturally in front of Kostya, Elena keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Elena Pavlovna, my mother has gone out to the ballet.' Kostya cuts in promptly with a shrug, letting the remark speak for itself.
+- 'Why walk on foot?' Elena follows up smoothly before Kostya and puts the emphasis on "peshkom" ("on foot") in the middle of the talk.
+- 'What I meant to say was...' Reacting boldly on the spot, Kostya keeps normal statement word order here, turning the line into a question for Elena purely through rising pitch.
+- 'Really? Sounds good?' Elena asks skeptically where this conversation is heading next.
+- 'Well then, what do you say?' Kostya follows up briskly to Elena and leans on "togda" ("back then") to give the whole sentence its punch.
+- 'See you soon.' Addressing the meeting right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

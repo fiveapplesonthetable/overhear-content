@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good! By taste it is simply tomato soup.' Nagiyev makes this line briskly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Vitya, try it.' Nagiyev pushes back firmly facing Katya, before Katya can change the subject.
-- 'I do not want to.' Barinov emphasizes this vivid expression with Katya: "khochu" means "want" (from "khotet"), giving the line its exact edge.
-- 'Try it! Do you like it?' Nagiyev frames that line around Katya: the "-sya" ending on "nravitsya" ("is pleasing") turns the action inward or makes it happen between people naturally.
-- 'Moving on. Frozen chocolate wind.' Katya reacts plainly watching Barinov, refusing to let the moment slip past.
-- 'Guys, chocolate wind!' Nagiyev focuses on one practical element with Katya: "shokoladnyy" means "chocolate", and it carries the main weight of what Nagiyev is saying.
-- 'We are selling air!' Nagiyev states this point at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I will try it, yes?' Nagiyev challenges bluntly how Katya expects that to work in practice.
-- 'Yes, of course.' Katya frames one telling element at once: "konechno" means "of course", and it carries the main weight of what Katya is saying.
-- 'Delicious! Is our molecular menu ready?' Nagiyev states the remark in earnest: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'You already have a menu ready too?' Barinov inquires earnestly while looking straight at Katya here.
-- 'Yesterday we sat down, chatted, and approved the menu.' Nagiyev chooses one pointed piece with Katya: "utverdili" means "approved" (from "utverdit"), giving the line its exact edge.
+- 'Good! By taste it is simply tomato soup.' Noting how tomato things are in the exchange, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Vitya, try it.' Nagiyev cuts in firmly facing Barinov, leaving no doubt about where he stands.
+- 'I do not want to.' Leaning in smoothly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Try it! Do you like it?' Cutting in earnestly before Katya, the "-sya" ending on "nravitsya" ("is pleasing") marks an action that unfolds mutually or turns back on the speaker.
+- 'Moving on. Frozen chocolate wind.' Katya cuts in plainly in this moment, bringing things back to earth after the buildup.
+- 'Guys, chocolate wind!' Turning to the boys before Katya, Nagiyev lands on "shokoladnyy" ("chocolate") as the key everyday word here.
+- 'We are selling air!' Bringing up the air during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I will try it, yes?' Nagiyev challenges bluntly to see how Katya will answer on the spot.
+- 'Yes, of course.' Katya firmly speaks this confirmation for Nagiyev using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Delicious! Is our molecular menu ready?' Describing how molecular things are around Barinov, Nagiyev reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'You already have a menu ready too?' Barinov inquires earnestly what Nagiyev is actually getting at here.
+- 'Yesterday we sat down, chatted, and approved the menu.' Addressing the menu beside Barinov, Nagiyev reaches for the Russian word "utverdili" ("approved", built from "utverdit") right at the center of the line.

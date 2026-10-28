@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything in the world always changes.' Vika emphasizes one classic choice toward Barinov: "menyayetsya" means "is changing" (from "menyatsya"), giving the line its exact edge.
-- 'New cities are built and grow.' Vika hands over this statement right away: the "-sya" ending on "stroyatsya" ("are built") turns the action inward or makes it happen between people naturally.
-- 'Millions of new people are born.' Vika speaks steadily in their talk, keeping the focus on what actually matters here.
-- 'In our kitchen the day begins the same way.' Vika picks this clear word in reply: "nachinayetsya" means "begins" (from "nachinatsya"), giving the line its exact edge.
-- 'Vitya, when will you make the new menu?' Vika brings the reaction in earnest: putting the question word "kogda" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'You promised me a new summer menu.' Vika weighs in warmly with a smile, saying out loud what both of them already know.
-- 'What summer menu, Vika?' Barinov stresses one concrete element toward Nagiyev: "letneye" means "summer" (from "letniy"), giving the line its exact edge.
-- 'Why do people need new dishes in summer?' Barinov shares the reply at once: putting the question word "zachem" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Hello to everyone in our kitchen!' Nagiyev reacts frankly without holding back, saying out loud what both of them already know.
-- 'Viktoria Sergeyevna, I did not notice right away.' Nagiyev centers one key expression for Vika: "zametil" means "noticed" (from "zametit"), giving the line its exact edge.
-- 'The chef has been promising a menu for two months already.' Vika proceeds at once without holding back, before Barinov can change the subject.
-- 'After all, summer will end soon.' Vika counters candidly with Nagiyev, keeping the focus on what actually matters here.
-- 'What a sly chef we have!' Nagiyev colors this clear detail for Barinov: "khitryy" means "cunning", and it carries the main weight of what Nagiyev is saying.
+- 'Everything in the world always changes.' Turning to the world in the exchange, Vika centers the thought on "menyayetsya" ("is changing", from "menyatsya") without wasting a word.
+- 'New cities are built and grow.' Mentioning the town with Barinov, the "-sya" ending on "stroyatsya" ("are built") marks an action that unfolds mutually or turns back on the speaker.
+- 'Millions of new people are born.' Vika replies steadily with a sigh, testing Barinov's reaction in the middle of the exchange.
+- 'In our kitchen the day begins the same way.' Focusing on her kitchen at once, Vika puts the weight on "nachinayetsya" ("begins", from "nachinatsya") as the exchange unfolds.
+- 'Vitya, when will you make the new menu?' Stepping in quietly in the exchange, Vika puts the question word "kogda" right at the start so Barinov hears the focus immediately.
+- 'You promised me a new summer menu.' Vika steps in warmly with a smile, testing Barinov's reaction in the middle of the exchange.
+- 'What summer menu, Vika?' Mentioning the menu before Vika, Barinov leans on "letneye" ("summer", a form of "letniy") to give the remark its edge.
+- 'Why do people need new dishes in summer?' Discussing the dish in front of Nagiyev, Barinov puts the question word "zachem" right at the start so Nagiyev hears the focus immediately.
+- 'Hello to everyone in our kitchen!' Nagiyev promptly extends this casual greeting in one quick breath using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Viktoria Sergeyevna, I did not notice right away.' Nagiyev jumps in smoothly right here and leans on "zametil" ("noticed", a form of "zametit") to give the remark its edge.
+- 'The chef has been promising a menu for two months already.' Addressing the months at once, Vika centers the thought on "mesyatsa" ("months", from "mesyats") without wasting a word.
+- 'After all, summer will end soon.' Vika counters candidly in this moment, leaving no doubt about where she stands.
+- 'What a sly chef we have!' Nagiyev speaks up vividly to Barinov and reaches for the Russian word "khitryy" ("cunning") right at the heart of the line.

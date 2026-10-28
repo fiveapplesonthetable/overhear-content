@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, do not push, you cannot just walk out of a restaurant.' Barinov opens up plainly beside Max, refusing to let the moment slip past.
-- 'First I need to appoint someone in my place.' Barinov stresses one direct piece in earnest: "naznachit" means "to set, to appoint", and it carries the main weight of what Barinov is saying.
-- 'Chef, have you read my plan yet?' Max makes that thought in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Here, meet him, I will try this fellow out.' Barinov jumps in dryly beside Nagiyev, watching Nagiyev's face to see how the news lands.
-- 'He even drew up a kitchen optimization plan.' Barinov emphasizes one sharp choice for Max: "optimizatsii" means "optimization" (from "optimizatsiya"), giving the line its exact edge.
-- 'By the way, I have always liked him a lot.' Nagiyev frames this point briskly now: opening with "kstati" ("by the way") lets Nagiyev drop a new detail into the conversation as if it just crossed his mind.
-- 'Kitchen, attention, I am appointing Lavrov head chef!' Barinov speaks up firmly facing Max, leaving no doubt about where he stands.
-- 'For now only on a trial period, for one day.' Barinov focuses on this key piece for Nagiyev: "ispytatelnyy" means "period", and it carries the main weight of what Barinov is saying.
-- 'Lyova, I will explain everything to you later.' Barinov stresses one loaded choice with Max: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
-- 'That is all, guys, keep working calmly!' Barinov steps in at once hearing Nagiyev, grounding the moment in plain reality.
-- 'I urgently need to sort out some paperwork.' Barinov spotlights one loaded term right here: "razobratsya" means "to deal with", and it carries the main weight of what Barinov is saying.
-- 'Thank you for the trust, I will not let you down!' Max phrases this point facing Nagiyev: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Dima, do not push, you cannot just walk out of a restaurant.' Barinov chimes in plainly without a pause, leaving no doubt about where he stands.
+- 'First I need to appoint someone in my place.' Bringing up his place around Max, Barinov puts the emphasis on "naznachit" ("to set, to appoint") in the middle of the talk.
+- 'Chef, have you read my plan yet?' Cutting in warmly to Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Here, meet him, I will try this fellow out.' Barinov proceeds dryly beside Max, leaving no doubt about where he stands.
+- 'He even drew up a kitchen optimization plan.' Underscoring a kitchen optimization in front of Nagiyev, Barinov chooses "optimizatsii" ("optimization", from the root "optimizatsiya") so Nagiyev hears the exact meaning.
+- 'By the way, I have always liked him a lot.' Leaning in briskly around Barinov, Nagiyev opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'Kitchen, attention, I am appointing Lavrov head chef!' Barinov replies firmly around Nagiyev, letting the remark speak for itself.
+- 'For now only on a trial period, for one day.' Turning to the term on the spot, Barinov puts the emphasis on "ispytatelnyy" ("period") in the middle of the talk.
+- 'Lyova, I will explain everything to you later.' Barinov steps in bluntly without a pause, without trying to dress up how he really feels.
+- 'That is all, guys, keep working calmly!' Barinov replies at once without holding back, without trying to dress up how he really feels.
+- 'I urgently need to sort out some paperwork.' Addressing the paper at once, Barinov uses "bumagami" ("paper", from "bumaga") to make the point stick.
+- 'Thank you for the trust, I will not let you down!' Max responds firmly watching Barinov, leaving no doubt about where he stands.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Coffee with cream especially for you.' Sveta chooses one loaded word for Fedya: "slivkami" means "cream" (from "slivki"), giving the line its exact edge.
-- 'Attention please, our entire team!' Fedya stands firm earnestly to be clear, before Sveta can change the subject.
-- 'As senior chef I declare a break now.' Fedya fires back bluntly with a shrug, watching Senya's face to see how the news lands.
-- 'Coffee with cream for everyone for free.' Fedya highlights one vivid word right here: "slivkami" means "cream" (from "slivki"), giving the line its exact edge.
-- 'Well, of course, except for our Senya.' Fedya replies calmly without holding back, letting the remark speak for itself.
-- 'I do not treat my competitors.' Fedya responds plainly with Sveta, leaving no doubt about where he stands.
-- 'Have you seen my horse?' Senya features one vivid term in earnest: "konya" means "horse, knight", and it carries the main weight of what Senya is saying.
-- 'Take a look inside the locker.' Fedya chooses this telling touch in earnest: "shkafchike" means "evochka", and it carries the main weight of what Fedya is saying.
-- 'Hot medallions are needed for a guest.' Sveta stands firm steadily in this moment, before Fedya can change the subject.
-- 'Actually, we are on a legal break.' Fedya anchors one vivid detail for Sveta: "voobshche-to" means "actually", and it carries the main weight of what Fedya is saying.
-- 'I will not let my people overwork.' Fedya cuts in boldly as things stand, shifting the whole mood of the room in a single beat.
-- 'Fine, I will pass that along.' Sveta pushes back evenly beside Senya, steering the talk right where she wants it.
+- 'Coffee with cream especially for you.' Talking about the cream in front of Fedya, Sveta puts the weight on "slivkami" ("cream", from "slivki") as the exchange unfolds.
+- 'Attention please, our entire team!' Highlighting the attention right here, Fedya uses "vnimaniya" ("attention", from "vnimaniye") to make the point stick.
+- 'As senior chef I declare a break now.' Fedya counters bluntly during the talk, leaving no doubt about where he stands.
+- 'Coffee with cream for everyone for free.' Bringing up the cream with Sveta, Fedya puts the weight on "slivkami" ("cream", from "slivki") as the exchange unfolds.
+- 'Well, of course, except for our Senya.' Fedya counters calmly with a sigh, shifting the mood of the conversation in a single beat.
+- 'I do not treat my competitors.' Fedya continues plainly with Senya, steering the talk right where he wants it.
+- 'Have you seen my horse?' Highlighting his horse on the spot, Senya chooses "konya" ("horse, knight") so Fedya gets the point right away.
+- 'Take a look inside the locker.' Fedya responds earnestly toward Senya, making his position completely clear.
+- 'Hot medallions are needed for a guest.' Sveta speaks steadily watching Fedya, before Fedya can change the subject.
+- 'Actually, we are on a legal break.' Underscoring how legitimate things are on the spot, Fedya reaches for the Russian word "zakonnyy" ("legitimate") right at the heart of the line.
+- 'I will not let my people overwork.' Fedya answers calmly in front of Sveta and uses "pererabatyvat" ("to overwork") to carry the main weight of the thought.
+- 'Fine, I will pass that along.' Sveta cuts in evenly during the talk, refusing to let the moment slip past.

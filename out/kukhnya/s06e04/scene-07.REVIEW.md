@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Viktor Petrovich.' The doctor leans on this sharp expression with Barinov: "zdravstvuyte" means "hello", and it carries the main weight of what the doctor is saying.
-- 'And what do you call this?' The doctor frames this line at once: putting the question word "kak" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'Hello, Viktor Petrovich.' The doctor lightly sends this formal greeting in the exchange using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'And what do you call this?' Pushing back warmly in this beat, the doctor puts the question word "kak" right at the start so Barinov hears the focus immediately.
 - 'What brings you here?' Barinov presses skeptically before the doctor can change the subject.
-- 'And what is this here in the trash?' The doctor colors one familiar element at once: "musorke" means "trash can" (from "musorka"), giving the line its exact edge.
-- 'After all, I warned you, Vitya.' The doctor centers one pointed detail with Barinov: "preduprezhdal" means "warned" (from "preduprezhdat"), giving the line its exact edge.
-- 'If you do not stop working like a horse, it will all end with an orchestra.' The doctor stands firm promptly across the room, to clear the air between them once and for all.
-- 'And mournful music.' The doctor centers this telling choice for Barinov: "pechalnoy" means "sad, mournful" (from "pechalnyy"), giving the line its exact edge.
-- 'Tell me, are you at least taking what I prescribed for you?' The doctor delivers this update beside Katya: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'Of course, three times a day instead of food.' Barinov responds evenly toward the doctor, leaving no doubt about where he stands.
-- 'Did you come to check on me or to monitor me?' Barinov underscores this clear detail toward Katya: "kontrolirovat" means "to keep an eye on", and it carries the main weight of what Barinov is saying.
-- 'Hello, may I steal my dad from you?' Katya sends this answer without pause: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Of course, go right ahead.' The doctor fires back firmly in their talk, so Katya knows he is not just making small talk.
+- 'And what is this here in the trash?' Pointing to the trash on the spot, the doctor reaches for the Russian word "musorke" ("trash can", built from "musorka") right at the center of the line.
+- 'After all, I warned you, Vitya.' The doctor continues frankly without any doubt, testing Barinov's reaction in the middle of the exchange.
+- 'If you do not stop working like a horse, it will all end with an orchestra.' The doctor fires back promptly across the room, bringing things back to earth after the buildup.
+- 'And mournful music.' Highlighting the music beside Barinov, the doctor centers the thought on "pechalnoy" ("sad, mournful", from "pechalnyy") without wasting a word.
+- 'Tell me, are you at least taking what I prescribed for you?' Looking over naturally at once, the doctor puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Of course, three times a day instead of food.' Barinov cuts in evenly in this moment, leaving no doubt about where he stands.
+- 'Did you come to check on me or to monitor me?' Barinov cuts in calmly at once and chooses "kontrolirovat" ("to keep an eye on") so Katya gets the point right away.
+- 'Hello, may I steal my dad from you?' Returning to the daddy to the doctor, Katya keeps normal statement word order here, turning the line into a question for the doctor purely through rising pitch.
+- 'Of course, go right ahead.' The doctor promptly directs this courtesy word without hesitation using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".

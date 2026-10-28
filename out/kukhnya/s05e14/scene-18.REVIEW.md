@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is nice that such a pretty girl came to work with us.' Ilya cuts in dryly in this moment, making his position completely clear.
-- 'Thank you very much for such kind words.' The hostess stresses one classic term right here: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'We will definitely need to get to know each other better.' Ilya gives that line around the hostess: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Listen, what on earth are you allowing yourself here?' The hostess quizzes evenly about what Mikhail just brought up.
-- 'If you want to work in the restaurant, you will have to agree.' Ilya frames this sharp element right here: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'If you behave well, you will make a fast career.' Ilya voices that line calmly now: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Look, our director's career turned out great!' Ilya stands firm pointedly as things stand, making his position completely clear.
-- 'You are simply an insolent jerk, I am leaving!' The hostess points to this vivid element in reply: "naglyy" means "insolent", and it carries the main weight of what the hostess is saying.
-- 'Ouch, what did you hit me so hard for?' Ilya lays out that point on cue: putting the question word "chto" right at the front of the line lets the hostess hear the point of the question on the very first beat.
-- 'Oksana, excuse us, what happened here with you?' Mikhail wonders straight out about what Ilya just brought up.
-- 'She suddenly started fighting out of nowhere!' Ilya picks one pointed piece toward the hostess: "nachala" means "beginning" (from "nachalo"), giving the line its exact edge.
-- 'Endure it, Ilya, rich people have their own quirks.' Mikhail reacts warmly with a nod, leaving no doubt about where he stands.
+- 'It is nice that such a pretty girl came to work with us.' Ilya pushes back dryly with a sigh, keeping the focus on what actually matters here.
+- 'Thank you very much for such kind words.' Mentioning the thank in this beat, the hostess brings in "bolshoye" ("big, very much", from "bolshoy") as the key Russian word here.
+- 'We will definitely need to get to know each other better.' Stepping in openly in front of the hostess, Ilya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Listen, what on earth are you allowing yourself here?' The hostess quizzes evenly why things suddenly took this turn between them.
+- 'If you want to work in the restaurant, you will have to agree.' Touching on the restaurant in this beat, Ilya reaches for the Russian word "restorane" ("restaurant", built from "restoran") right at the center of the line.
+- 'If you behave well, you will make a fast career.' Touching on a fast career in this beat, Ilya chooses "karyeru" ("career", from the root "karyera") so the hostess hears the exact meaning.
+- 'Look, our director's career turned out great!' Ilya counters pointedly hearing the hostess, without trying to dress up how he really feels.
+- 'You are simply an insolent jerk, I am leaving!' Confirming how insolent Ilya is during the talk, the hostess lands on "naglyy" ("insolent") as the key everyday word here.
+- 'Ouch, what did you hit me so hard for?' Jumping in quietly at once, Ilya puts the question word "chto" right at the start so Mikhail hears the focus immediately.
+- 'Oksana, excuse us, what happened here with you?' Mikhail wonders straight out why things suddenly took this turn between them.
+- 'She suddenly started fighting out of nowhere!' Pointing to the beginning beside Mikhail, Ilya chooses "nachala" ("beginning", from the root "nachalo") so Mikhail hears the exact meaning.
+- 'Endure it, Ilya, rich people have their own quirks.' Turning to the quirks beside Ilya, Mikhail lands on "bogatykh" ("rich", built on "bogatyy") to keep the statement grounded.

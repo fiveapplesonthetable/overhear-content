@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, I have never prepared this kind of sorbet.' Denis sharpens one concrete expression toward Elena: "rebyata" means "the boys, the lads", and it carries the main weight of what Denis is saying.
-- 'Do not worry, there is nothing to it!' Senya frames that thought to Elena: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
-- 'You simply pour liquid nitrogen into the bowl with juice.' Senya fires back earnestly as they talk, shifting the whole mood of the room in a single beat.
-- 'Then you stir quickly for a couple of minutes, and everything is ready.' Senya sharpens one vivid word in reply: "pomeshivayesh" means "to quickly" (from "pomeshivat"), giving the line its exact edge.
-- 'The main thing is not to be afraid, the first time is always scary!' Senya follows up boldly to settle things, refusing to let the moment slip past.
-- 'Thank you very much, pals, I am heading to the hall.' Denis speaks up earnestly beside Senya, to clear the air between them once and for all.
-- 'Wait, and why did you take hot water?' Senya focuses on this direct detail in reply: "goryachuyu" means "hot" (from "goryachiy"), giving the line its exact edge.
-- 'Without hot water everything of his will freeze solid right now!' Senya speaks bluntly with a smile, refusing to let the moment slip past.
-- 'How on earth will he pull the whisk out of there?' Senya questions deadpan why things suddenly took this turn between them.
-- 'Good evening, right now I will prepare sorbet for you.' Denis grounds this vivid choice right here: "prigotovlyu" means "will prepare" (from "prigotovit"), giving the line its exact edge.
-- 'Tell me, please, what are you doing right now?' Elena drops this warning without pause: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'This is not a restaurant, it is just a complete mess!' Elena proceeds bluntly facing Senya, making her position completely clear.
+- 'Guys, I have never prepared this kind of sorbet.' Turning to the boys during the talk, Denis uses "rebyata" ("the boys, the lads") to carry the main weight of the thought.
+- 'Do not worry, there is nothing to it!' Weighing in openly before Denis, the "-sya" ending on "volnuysya" ("worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'You simply pour liquid nitrogen into the bowl with juice.' Senya weighs in earnestly on the spot, steering the talk right where he wants it.
+- 'Then you stir quickly for a couple of minutes, and everything is ready.' Underscoring a couple around Denis, Senya brings in "pomeshivayesh" ("to quickly", from "pomeshivat") as the key Russian word here.
+- 'The main thing is not to be afraid, the first time is always scary!' Making clear how important things are at once, Senya lands on "glavnoye" ("important", built on "glavnyy") to keep the statement grounded.
+- 'Thank you very much, pals, I am heading to the hall.' Denis proceeds earnestly during the talk, testing Senya's reaction in the middle of the exchange.
+- 'Wait, and why did you take hot water?' Turning to the water right here, Senya leans on "goryachuyu" ("hot", a form of "goryachiy") to give the remark its edge.
+- 'Without hot water everything of his will freeze solid right now!' Emphasizing the water on the spot, Senya brings in "goryachey" ("hot", from "goryachiy") as the key Russian word here.
+- 'How on earth will he pull the whisk out of there?' Senya questions deadpan where this conversation is heading next.
+- 'Good evening, right now I will prepare sorbet for you.' Addressing the evening before Elena, Denis reaches for the Russian word "prigotovlyu" ("will prepare", built from "prigotovit") right at the center of the line.
+- 'Tell me, please, what are you doing right now?' Speaking directly in this beat, Elena puts the question word "chto" right at the start so Denis hears the focus immediately.
+- 'This is not a restaurant, it is just a complete mess!' Elena speaks bluntly facing Denis, so Denis knows she is not just making small talk.

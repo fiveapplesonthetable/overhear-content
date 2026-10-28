@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He is in his office.' Barinov sends that answer with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He asked not to be disturbed.' Max speaks briskly without a pause, testing Barinov's reaction in the middle of the exchange.
-- 'I told you not to disturb me.' Barinov stresses one colorful detail with Max: "bespokoit" means "to bother", and it carries the main weight of what Barinov is saying.
-- 'I am preparing the new menu.' Max puts the remark facing Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'What do you want?' Barinov asks frankly while looking straight at Max here.
-- 'You are the head chef.' Max favors one classic choice for Barinov: "shef-povar" means "head chef", and it carries the main weight of what Max is saying.
-- 'Yes, I am the head chef.' Barinov phrases that answer at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Then why are you not paying back your debt?' Max prompts calmly to see how Barinov will answer on the spot.
-- 'What debt?' Barinov leans on one concrete term for Max: "dolg" means "debt", and it carries the main weight of what Barinov is saying.
-- 'A hundred thousand.' Max sends this statement on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'It is just a complicated situation here.' Barinov stands firm honestly in this moment, before Max can change the subject.
-- 'Yes, you can ask anyone here.' Max highlights one telling piece in earnest: "lyubogo" means "any" (from "lyuboy"), giving the line its exact edge.
-- 'Is this the head chef?' Barinov aims the comeback to Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He is in his office.' Dwelling on the office to Max, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He asked not to be disturbed.' Max speaks up briskly around Barinov, letting the remark speak for itself.
+- 'I told you not to disturb me.' Barinov chimes in dryly around Max and chooses "bespokoit" ("to bother") so Max gets the point right away.
+- 'I am preparing the new menu.' Holding firm calmly beside Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'What do you want?' Barinov asks frankly what Max is actually getting at here.
+- 'You are the head chef.' Addressing the head in this beat, Max reaches for the Russian word "shef-povar" ("head chef") right at the heart of the line.
+- 'Yes, I am the head chef.' Addressing the head during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Then why are you not paying back your debt?' Max prompts calmly if there is more going on behind the scenes.
+- 'What debt?' Talking about the debt during the talk, Barinov brings in "dolg" ("debt") to make the meaning unmistakable.
+- 'A hundred thousand.' Dwelling on a hundred thousand around Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'It is just a complicated situation here.' Barinov steps in honestly on the spot, keeping the focus on what actually matters here.
+- 'Yes, you can ask anyone here.' Max continues readily to Barinov and uses "mozhete" ("can, may", from "moch") to make the point stick.
+- 'Is this the head chef?' Focusing on the head before Max, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.

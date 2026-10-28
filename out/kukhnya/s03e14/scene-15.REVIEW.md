@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Therefore I bless you from the bottom of my heart.' Barinov steps in at once across the room, without trying to dress up how he really feels.
-- 'Wait, pops, in what sense?' Max stresses one memorable term in earnest: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'You are simply such a wonderful couple!' Barinov shares this point before Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Looking at you two immediately gladdens the eye.' Barinov pushes back lightly in this moment, before Max can change the subject.
-- 'Dad, are you speaking seriously right now, really?' Katya colors one direct expression with Barinov: "govorish" means "you say" (from "govorit"), giving the line its exact edge.
-- 'Katya, bring me a little ice, please.' Max puts that remark briskly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'I need to have a word with your father.' Max jumps in wryly to be clear, steering the talk right where he wants it.
-- 'Pops, we agreed on five hundred thousand, after all!' Max picks this direct word right here: "dogovorilis" means "agreed, deal" (from "dogovoritsya"), giving the line its exact edge.
-- 'No, you suit her so well, son!' Barinov aims that point at once: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Fine, give me at least three hundred thousand.' Max weighs in calmly without any doubt, letting the remark speak for itself.
-- 'No, live together in harmony and love!' Barinov sharpens one key choice in earnest: "lyubov" means "love", and it carries the main weight of what Barinov is saying.
-- 'One hundred thousand, how predictable you are, let's go to the safe.' Barinov spotlights one loaded word toward Max: "predskazuyemyy" means "predictable", and it carries the main weight of what Barinov is saying.
-- 'We will quickly crack open my safe right now.' Barinov replies boldly with Katya, refusing to let the moment slip past.
+- 'Therefore I bless you from the bottom of my heart.' Barinov fires back at once with a sigh, so Max knows he is not just making small talk.
+- 'Wait, pops, in what sense?' Mentioning the sense at once, Max leans on "smysle" ("sense", a form of "smysl") to give the remark its edge.
+- 'You are simply such a wonderful couple!' Pointing out how wonderful Max is to Max, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Looking at you two immediately gladdens the eye.' Barinov follows up lightly with Katya, shifting the mood of the conversation in a single beat.
+- 'Dad, are you speaking seriously right now, really?' Focusing on the honestly with Max, Katya lands on "pravda" ("honestly") as the key everyday word here.
+- 'Katya, bring me a little ice, please.' Turning to a ice at once, Max lands on "prinesi" ("bring", built on "prinesti") to keep the statement grounded.
+- 'I need to have a word with your father.' Max replies wryly facing Katya, to clear the air between them once and for all.
+- 'Pops, we agreed on five hundred thousand, after all!' Pointing to the dad before Barinov, Max reaches for the Russian word "dogovorilis" ("agreed, deal", built from "dogovoritsya") right at the center of the line.
+- 'No, you suit her so well, son!' Barinov reacts pointedly hearing Max, refusing to let the moment slip past.
+- 'Fine, give me at least three hundred thousand.' Max steps in calmly toward Barinov, steering the talk right where he wants it.
+- 'No, live together in harmony and love!' Turning to the love before Max, Barinov leans on "lyubov" ("love") to give the whole sentence its punch.
+- 'One hundred thousand, how predictable you are, let's go to the safe.' Barinov answers bluntly with a nod, so Max knows he is not just making small talk.
+- 'We will quickly crack open my safe right now.' Barinov fires back boldly with a nod, testing Max's reaction in the middle of the exchange.

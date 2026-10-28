@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you here again in my restaurant?' Eleonora prompts skeptically as Denis tries to explain the situation.
-- 'Listen, this is not what you thought!' Denis colors one classic expression on cue: "poslushayte" means "listen" (from "poslushat"), giving the line its exact edge.
-- 'I asked you never to come near Katya!' Eleonora frames the comeback without pause: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Listen, I am not here because of Katya at all.' Denis opens up frankly with a nod, before Katya can change the subject.
-- 'Of course, you simply came to play the guitar!' Eleonora stresses one vivid term right here: "konechno" means "of course", and it carries the main weight of what Eleonora is saying.
-- 'Wait, what are you doing right now?' Denis offers that reply briskly now: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'Get out of the restaurant immediately!' Eleonora reacts at once watching Denis, testing Denis's reaction in the middle of the exchange.
-- 'Alright, calm down, I am leaving already.' Denis emphasizes one pointed touch with Katya: "uspokoytes" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
-- 'Let me never see you here again!' Eleonora leans on this direct touch with Denis: "bolshe" means "more", and it carries the main weight of what Eleonora is saying.
-- 'Nikita, do we still have far to walk?' Katya prompts firmly as Eleonora tries to explain the situation.
-- 'No, we have just a tiny bit left.' Denis emphasizes one colorful touch in reply: "chut-chut" means "a little bit", and it carries the main weight of what Denis is saying.
-- 'You make a rather mediocre guide, honestly.' Katya highlights one loaded term right here: "povodyr" means "guide", and it carries the main weight of what Katya is saying.
+- 'Are you here again in my restaurant?' Eleonora prompts skeptically why things suddenly took this turn between them.
+- 'Listen, this is not what you thought!' Denis pushes back calmly beside Eleonora and puts the weight on "poslushayte" ("listen", from "poslushat") as the exchange unfolds.
+- 'I asked you never to come near Katya!' Holding firm briskly in front of Denis, Eleonora pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Listen, I am not here because of Katya at all.' Denis responds frankly with a smile, so Eleonora knows he is not just making small talk.
+- 'Of course, you simply came to play the guitar!' Mentioning the guitar on the spot, Eleonora uses "gitare" ("guitar", from "gitara") to make the point stick.
+- 'Wait, what are you doing right now?' Reacting dryly at once, Denis puts the question word "chto" right at the start so Eleonora hears the focus immediately.
+- 'Get out of the restaurant immediately!' Eleonora answers at once watching Denis, shifting the mood of the conversation in a single beat.
+- 'Alright, calm down, I am leaving already.' Denis pushes back boldly beside Eleonora and uses "uspokoytes" ("calm down", from "uspokoitsya") to make the point stick.
+- 'Let me never see you here again!' Eleonora opens up earnestly toward Denis, watching Denis's face to see how the news lands.
+- 'Nikita, do we still have far to walk?' Katya prompts firmly why things suddenly took this turn between them.
+- 'No, we have just a tiny bit left.' Denis fires back evenly on the spot and centers the remark on "chut-chut" ("a little bit") without any extra fuss.
+- 'You make a rather mediocre guide, honestly.' Katya continues firmly with a sigh, making her position completely clear.

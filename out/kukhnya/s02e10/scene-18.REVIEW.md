@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'God willing.' Kostya reacts evenly as they talk, watching Fedya's face to see how the news lands.
-- 'Hello, what do you want?' Fedya centers one pointed element in reply: "zdravstvuyte" means "hello", and it carries the main weight of what Fedya is saying.
-- 'I need to speak with you.' Kostya puts the comeback frankly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'I have a proposition for you.' Fedya reacts decisively without any doubt, bringing things back to earth after the buildup.
-- 'I beg your pardon?' Nastya frames this direct choice at once: "ponyala" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'Because it has to be fresh.' Fedya proceeds dryly in this moment, making his position completely clear.
-- 'This chicken gave its life for you.' Kostya stands firm quietly to settle things, steering the talk right where he wants it.
-- 'Hello, hello, police?' Fedya focuses on this vivid word toward Nastya: "politsiya" means "police", and it carries the main weight of what Fedya is saying.
-- 'You get the napkins from the storage room.' Kostya sends the reaction briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Take the tablecloths.' Fedya follows up steadily around Nastya, steering the talk right where he wants it.
-- 'Kostya, what are you doing out here?' Nastya uses one pointed detail in reply: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'Go back to the bar.' Fedya voices that reply frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Kostya, go to the bar.' Nastya weighs in briskly with Fedya, so Fedya knows she is not just making small talk.
+- 'God willing.' Kostya chimes in evenly hearing Fedya, steering the talk right where he wants it.
+- 'Hello, what do you want?' Fedya plainly delivers this formal greeting toward Kostya using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'I need to speak with you.' Reacting calmly with Fedya, Kostya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'I have a proposition for you.' Fedya follows up decisively with a nod, to clear the air between them once and for all.
+- 'I beg your pardon?' Nastya speaks up quietly during the talk and centers the thought on "ponyala" ("understood", from "ponyat") without wasting a word.
+- 'Because it has to be fresh.' Fedya speaks up briskly beside Nastya and brings in "dolzhna" ("should, must", from "dolzhen") as the key Russian word here.
+- 'This chicken gave its life for you.' Kostya steps in quietly with a shrug, steering the talk right where he wants it.
+- 'Hello, hello, police?' Turning to the police during the talk, Fedya uses "politsiya" ("police") to carry the main weight of the thought.
+- 'You get the napkins from the storage room.' Bringing up the napkin before Fedya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Take the tablecloths.' Fedya opens up steadily facing Kostya, bringing things back to earth after the buildup.
+- 'Kostya, what are you doing out here?' Nastya counters frankly beside Kostya and chooses "delayesh" ("are you doing", from the root "delat") so Kostya hears the exact meaning.
+- 'Go back to the bar.' Mentioning the bar on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Kostya, go to the bar.' Nastya counters briskly on the spot, letting the remark speak for itself.

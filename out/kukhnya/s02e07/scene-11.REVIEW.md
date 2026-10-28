@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You got here fast.' Rodion frames the comment with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'What is wrong with you?' Max checks straight out as Rodion tries to explain the situation.
-- 'What happened to your back?' Rodion frames this vivid expression on cue: "spinoy" means "back" (from "spina"), giving the line its exact edge.
-- 'I cannot move.' Max directs this point plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I cannot move forward or backward.' Rodion reacts plainly on the spot, watching Max's face to see how the news lands.
-- 'Hold on, stop, stop.' Max sharpens one colorful touch in earnest: "stoyte" means "stop, wait" (from "stoyat"), giving the line its exact edge.
-- 'Wait, hold still.' Rodion aims this line around Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Do not move me, I will try by myself, okay?' Nastya checks promptly whether Rodion really thought this through.
-- 'I can do it myself.' Nastya drops this update with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Bless you.' Max lays out this statement for Rodion: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Rodion Sergeyevich, what happened?' Nastya wonders curiously before Max can change the subject.
-- 'Are you feeling worse?' Max features one familiar word toward Rodion: "khuzhe" means "worse", and it carries the main weight of what Max is saying.
-- 'What a sweet little kitten.' Rodion states the comeback beside Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'You got here fast.' Reacting warmly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'What is wrong with you?' Max checks straight out before Rodion can change the subject.
+- 'What happened to your back?' Looking over naturally before Max, Rodion puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'I cannot move.' Turning smoothly right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I cannot move forward or backward.' Rodion responds plainly hearing Max, refusing to let the moment slip past.
+- 'Hold on, stop, stop.' Max cuts in warmly around Rodion and uses "stoyte" ("stop, wait", from "stoyat") to make the point stick.
+- 'Wait, hold still.' Reacting directly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Do not move me, I will try by myself, okay?' Nastya checks promptly before Rodion can change the subject.
+- 'I can do it myself.' Looking over warmly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Bless you.' Answering promptly on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Rodion Sergeyevich, what happened?' Nastya speaks plainly without a pause, so Rodion knows she is not just making small talk.
+- 'Are you feeling worse?' Max chimes in frankly with Rodion and uses "khuzhe" ("worse") to carry the main weight of the thought.
+- 'What a sweet little kitten.' Dwelling on the sweetheart in front of Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

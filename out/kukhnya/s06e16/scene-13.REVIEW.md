@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She got offended and does not answer calls at all.' Kostya chooses one key word with Denis: "otvechayet" means "is responsible" (from "otvechat"), giving the line its exact edge.
-- 'Maybe Louis will tell Nastya everything himself?' Denis directs this update around Louis: Russian keeps the exact word order of a normal statement here, turning it into a question for Louis purely through rising pitch at the end.
-- 'She will decide that he is covering for me.' Kostya opens up wryly during the talk, to clear the air between them once and for all.
-- 'Why did you not tell her that you are not the bartender?' Kostya colors one key detail with Louis: "barmen" means "bartender", and it carries the main weight of what Kostya is saying.
-- 'Last night we had no time for conversation.' Louis proceeds promptly without a pause, to clear the air between them once and for all.
-- 'Kostya, forgive me for this mix-up.' Louis speaks boldly hearing Kostya, before Kostya can change the subject.
-- 'It seems that now I really like girls.' Louis chooses one familiar touch in reply: "nravyatsya" means "are pleasing" (from "nravitsya"), giving the line its exact edge.
-- 'I do not even know how to tell my parents.' Louis fires back at once before Kostya, leaving no doubt about where he stands.
-- 'I really hope that they will understand me.' Louis stands firm evenly hearing Denis, letting the remark speak for itself.
-- 'Kostya, I have to go back to the room soon.' Louis underscores one sharp element toward Kostya: "nomer" means "number", and it carries the main weight of what Louis is saying.
-- 'Polina and I need some cold champagne.' Louis voices that remark around Denis: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Wait, I just got a great idea!' Kostya cuts in lightly hearing Louis, shifting the whole mood of the room in a single beat.
+- 'She got offended and does not answer calls at all.' Talking about the call during the talk, Kostya centers the thought on "otvechayet" ("is responsible", from "otvechat") without wasting a word.
+- 'Maybe Louis will tell Nastya everything himself?' Turning warmly around Louis, Denis keeps normal statement word order here, turning the line into a question for Louis purely through rising pitch.
+- 'She will decide that he is covering for me.' Kostya continues wryly across the room, steering the talk right where he wants it.
+- 'Why did you not tell her that you are not the bartender?' Focusing on the bartender before Louis, Kostya reaches for the Russian word "barmen" ("bartender") right at the heart of the line.
+- 'Last night we had no time for conversation.' Highlighting the talks in this beat, Louis puts the weight on "razgovorov" ("talks", from "razgovor") as the exchange unfolds.
+- 'Kostya, forgive me for this mix-up.' Louis jumps in boldly across the room, refusing to let the moment slip past.
+- 'It seems that now I really like girls.' Discussing the girl with Kostya, Louis centers the thought on "devushki" ("a girl", from "devushka") without wasting a word.
+- 'I do not even know how to tell my parents.' Talking about his parents to Kostya, Louis reaches for the Russian word "roditelyam" ("to parents", built from "roditeli") right at the center of the line.
+- 'I really hope that they will understand me.' Louis weighs in evenly with Kostya, refusing to let the moment slip past.
+- 'Kostya, I have to go back to the room soon.' Focusing on the number in front of Kostya, Louis reaches for the Russian word "nomer" ("number") right at the heart of the line.
+- 'Polina and I need some cold champagne.' Touching on the champagne to Kostya, Louis leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Wait, I just got a great idea!' Kostya follows up lightly toward Louis, refusing to let the moment slip past.

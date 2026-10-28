@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I thought about it.' Barinov puts that remark frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'It is not really about the ring.' Barinov answers bluntly before Kristina, testing Kristina's reaction in the middle of the exchange.
-- 'Let us drink to the two of us.' Kristina colors one loaded detail in earnest: "vypyem" means "will drink" (from "vypit"), giving the line its exact edge.
-- 'To the two of us?' Barinov drops this answer with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Kristina purely through rising pitch at the end.
-- 'Bottoms up.' Kristina replies sharply beside Barinov, before Barinov can change the subject.
-- 'That it was a blunder at all.' Barinov focuses on one direct word toward Kristina: "kosyak" means "hers", and it carries the main weight of what Barinov is saying.
-- 'Because the entire universe did not want it.' Kristina replies honestly watching Barinov, grounding the moment in plain reality.
-- 'For the owner to marry that shrew.' Barinov weighs in decisively with Kristina, shifting the whole mood of the room in a single beat.
-- 'And I am speaking completely seriously right now, by the way.' Kristina highlights this vivid expression in reply: "prochim" means "other" (from "prochiy"), giving the line its exact edge.
-- 'Perhaps.' Barinov states that line on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'The owner never would have proposed to her.' Kristina proceeds steadily toward Barinov, shifting the whole mood of the room in a single beat.
-- 'Here is your bill.' Barinov grounds one colorful expression with Kristina: "chek" means "check, receipt", and it carries the main weight of what Barinov is saying.
-- 'Do you have any idea how much this cognac costs?' Kristina aims that reply in earnest: putting the question word "skolko" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'I thought about it.' Cutting in naturally around Kristina, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'It is not really about the ring.' Barinov follows up bluntly hearing Kristina, shifting the mood of the conversation in a single beat.
+- 'Let us drink to the two of us.' Kristina opens up directly to Barinov and reaches for the Russian word "vypyem" ("will drink", built from "vypit") right at the center of the line.
+- 'To the two of us?' Speaking firmly right here, Barinov keeps normal statement word order here, turning the line into a question for Kristina purely through rising pitch.
+- 'Bottoms up.' Kristina speaks sharply with a smile, so Barinov knows she is not just making small talk.
+- 'That it was a blunder at all.' Turning to the hers on the spot, Barinov uses "kosyak" ("hers") to carry the main weight of the thought.
+- 'Because the entire universe did not want it.' Discussing the entire universe during the talk, Kristina leans on "vselennaya" ("universe") to give the whole sentence its punch.
+- 'For the owner to marry that shrew.' Barinov steps in decisively with a shrug, leaving no doubt about where he stands.
+- 'And I am speaking completely seriously right now, by the way.' Kristina replies directly during the talk and reaches for the Russian word "seryezno" ("seriously", built from "seryozno") right at the center of the line.
+- 'Perhaps.' Speaking candidly with Kristina, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'The owner never would have proposed to her.' Kristina speaks steadily hearing Barinov, leaving no doubt about where she stands.
+- 'Here is your bill.' Addressing the check around Kristina, Barinov puts the emphasis on "chek" ("check, receipt") in the middle of the talk.
+- 'Do you have any idea how much this cognac costs?' Weighing in naturally right here, Kristina puts the question word "skolko" right at the start so Barinov hears the focus immediately.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Olive oil, two bottles.' Barinov sends the reply facing Lyova: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Shrimp, one pack.' Barinov answers evenly as they talk, saying out loud what both of them already know.
-- 'Oysters, five pieces, salt and pepper.' Barinov frames this sharp piece in earnest: "ustritsy" means "waste", and it carries the main weight of what Barinov is saying.
-- 'This is what you tried to steal this week.' Barinov colors one familiar touch on cue: "nedelyu" means "for a week" (from "nedelya"), giving the line its exact edge.
-- 'Or maybe he has kleptomania?' Lyova inquires frankly if there is more going on behind the scenes.
-- 'Maybe he needs to be treated?' Lyova features one pointed word in reply: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'For starters, I will fire him.' Barinov steps in briskly across the room, shifting the whole mood of the room in a single beat.
-- 'And after that let him get treated.' Barinov fires back earnestly as things stand, saying out loud what both of them already know.
-- 'I will not do that anymore, I swear.' Senya anchors this direct word in earnest: "klyanus" means "I swear" (from "klyastsya"), giving the line its exact edge.
-- 'If you catch me one more time, fire me.' Senya hands over this line toward Lyova: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Fine.' Barinov fires back sharply around Lyova, grounding the moment in plain reality.
-- 'Well, this time does not count, alright?' Senya grounds one classic piece in reply: "schyot" means "counting, account", and it carries the main weight of what Senya is saying.
+- 'Olive oil, two bottles.' Dwelling on the butter to Lyova, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Shrimp, one pack.' Barinov reacts evenly with a nod, watching Lyova's face to see how the news lands.
+- 'Oysters, five pieces, salt and pepper.' Touching on the waste in this beat, Barinov reaches for the Russian word "ustritsy" ("waste") right at the heart of the line.
+- 'This is what you tried to steal this week.' Barinov follows up pointedly without any doubt, shifting the mood of the conversation in a single beat.
+- 'Or maybe he has kleptomania?' Lyova inquires frankly what Barinov is actually getting at here.
+- 'Maybe he needs to be treated?' Lyova speaks up dryly beside Barinov and lands on "lechit" ("to lecture") as the key everyday word here.
+- 'For starters, I will fire him.' Pointing to the beginning before Lyova, Barinov lands on "nachala" ("beginning", built on "nachalo") to keep the statement grounded.
+- 'And after that let him get treated.' Barinov replies earnestly with a nod, steering the talk right where he wants it.
+- 'I will not do that anymore, I swear.' Senya opens up candidly during the talk and lands on "klyanus" ("I swear", built on "klyastsya") to keep the statement grounded.
+- 'If you catch me one more time, fire me.' Replying candidly to Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Fine.' Barinov steps in sharply toward Senya, so Senya knows he is not just making small talk.
+- 'Well, this time does not count, alright?' Addressing the counting beside Barinov, Senya brings in "schyot" ("counting, account") to make the meaning unmistakable.

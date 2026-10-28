@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are just friends.' Barinov chimes in calmly to settle things, before Max can change the subject.
-- 'Nothing at all.' Max offers that line toward Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Well, friendship is a wonderful thing.' Barinov sends this point to Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Listen, the Chef is being way too kind today.' Max follows up sharply with a shrug, grounding the moment in plain reality.
-- 'That does not bode well.' Barinov colors one loaded choice at once: "dobru" means "good, kindness" (from "dobro"), giving the line its exact edge.
-- 'Maybe Spartak won?' Max hands over the reaction toward Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'No, it looks like they lost.' Barinov opens up briskly across the room, grounding the moment in plain reality.
-- 'The man simply got wasted first thing in the morning, that is all.' Max sharpens this sharp detail at once: "nazhralsya" means "get hammered" (from "nazhratsya"), giving the line its exact edge.
-- 'No, he seemed completely sober.' Barinov sends this update beside Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Something else is going on here.' Max fires back briskly during the talk, grounding the moment in plain reality.
-- 'How do you even know about that?' Barinov highlights one colorful expression toward Max: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
-- 'Well, I have an acquaintance who told me all about it.' Max lays out this point briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Anyway, look here.' Barinov holds firm lightly hearing Max, steering the talk right where he wants it.
+- 'We are just friends.' Barinov chimes in calmly during the talk, watching Max's face to see how the news lands.
+- 'Nothing at all.' Max evenly chooses this direct affirmation while facing Barinov using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'Well, friendship is a wonderful thing.' Bringing up the friendship on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Listen, the Chef is being way too kind today.' Max responds sharply hearing Barinov, shifting the mood of the conversation in a single beat.
+- 'That does not bode well.' Pointing to the good to Max, Barinov centers the thought on "dobru" ("good, kindness", from "dobro") without wasting a word.
+- 'Maybe Spartak won?' Pressing on evenly at once, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'No, it looks like they lost.' Barinov follows up briskly with a sigh, keeping the focus on what actually matters here.
+- 'The man simply got wasted first thing in the morning, that is all.' Highlighting the morning beside Barinov, Max chooses "nazhralsya" ("get hammered", from the root "nazhratsya") so Barinov hears the exact meaning.
+- 'No, he seemed completely sober.' Leaning in smoothly right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Something else is going on here.' Max speaks briskly on the spot, without trying to dress up how he really feels.
+- 'How do you even know about that?' Barinov chimes in candidly with Max and reaches for the Russian word "voobshche" ("at all") right at the heart of the line.
+- 'Well, I have an acquaintance who told me all about it.' Max jumps in candidly with a shrug, leaving no doubt about where he stands.
+- 'Anyway, look here.' Barinov responds lightly with a smile, leaving no doubt about where he stands.

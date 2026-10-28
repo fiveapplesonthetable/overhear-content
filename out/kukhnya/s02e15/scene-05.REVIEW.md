@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not understand, why do you need this?' Max brings the comeback for Sasha: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'I just knew for a long time what she wanted.' Max continues candidly with Sasha, before Sasha can change the subject.
-- 'Since she chose you instead of me.' Max reaches for one direct detail with Sasha: "vybrala" means "chose" (from "vybrat"), giving the line its exact edge.
-- 'Hold on a second.' Sasha brings that line around Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I do not know.' Max pushes back quietly without holding back, steering the talk right where he wants it.
-- 'What you are scheming.' Sasha uses one concrete piece with Max: "zadumal" means "planned, conceived" (from "zadumat"), giving the line its exact edge.
-- 'It is not going to work.' Max brings this answer calmly now: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'I will tell Sasha to give them back to you.' Sasha fires back calmly during the talk, saying out loud what both of them already know.
-- 'Max, you are amazing.' Sasha focuses on this clear touch in reply: "super" means "super, great", and it carries the main weight of what Sasha is saying.
-- 'I do not have a boyfriend like that.' Sasha brings that remark in earnest: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Well, I do.' Max steps in wryly around Sasha, so Sasha knows he is not just making small talk.
-- 'Did you want to say something to me?' Sasha chooses this sharp piece on cue: "khotela" means "wanted, meant" (from "khotet"), giving the line its exact edge.
-- 'I will pay you back for them tomorrow.' Max states this point beside Sasha: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I do not understand, why do you need this?' Replying readily before Sasha, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'I just knew for a long time what she wanted.' Max chimes in candidly in this moment, making his position completely clear.
+- 'Since she chose you instead of me.' Max cuts in decisively with Sasha and brings in "vybrala" ("chose", from "vybrat") as the key Russian word here.
+- 'Hold on a second.' Speaking calmly on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I do not know.' Max continues quietly without a pause, bringing things back to earth after the buildup.
+- 'What you are scheming.' Sasha continues boldly before Max and puts the weight on "zadumal" ("planned, conceived", from "zadumat") as the exchange unfolds.
+- 'It is not going to work.' Weighing in candidly beside Sasha, Max uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'I will tell Sasha to give them back to you.' Sasha proceeds calmly with a shrug, without trying to dress up how she really feels.
+- 'Max, you are amazing.' Sasha fires back pointedly to Max and centers the remark on "super" ("super, great") without any extra fuss.
+- 'I do not have a boyfriend like that.' Sasha answers sharply across the room, to clear the air between them once and for all.
+- 'Well, I do.' Max weighs in wryly without any doubt, keeping the focus on what actually matters here.
+- 'Did you want to say something to me?' Sasha reacts readily in the exchange and lands on "khotela" ("wanted, meant", built on "khotet") to keep the statement grounded.
+- 'I will pay you back for them tomorrow.' Dwelling on the money around Sasha, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How many years has it been?' Barinov shares the reaction around Vika: putting the question word "skolko" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Listen, I see everything is going well for you.' Vika cuts in dryly with a sigh, making her position completely clear.
-- 'Back in the kitchen again?' Barinov reaches for this direct piece with Vika: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'I see the two of you know each other.' Vika offers that reply beside Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Viktor Petrovich was my first head chef.' Vika stands firm calmly without any doubt, letting the remark speak for itself.
-- 'My teacher.' Vika uses one memorable word toward Barinov: "uchitel" means "teacher", and it carries the main weight of what Vika is saying.
-- 'Where it is best to set up the equipment.' Barinov brings this point on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'We will talk later.' Vika jumps in openly facing Barinov, without trying to dress up how she really feels.
-- 'Igor, what are you doing here?' Barinov picks this direct word toward Vika: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'You are not replying to my text messages.' Vika delivers this point plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Well, because I have nothing to say to you.' Barinov pushes back sharply facing Vika, so Vika knows he is not just making small talk.
-- 'Then you could have replied that you have nothing to say.' Vika grounds this vivid element at once: "otvetila" means "answered" (from "otvetit"), giving the line its exact edge.
-- 'Are you waiting for someone?' Barinov voices the reaction right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'How many years has it been?' Pressing on smoothly before Vika, Barinov puts the question word "skolko" right at the start so Vika hears the focus immediately.
+- 'Listen, I see everything is going well for you.' Vika pushes back dryly in this moment, watching Barinov's face to see how the news lands.
+- 'Back in the kitchen again?' Bringing up the kitchen right here, Barinov reaches for the Russian word "kukhne" ("kitchen", built from "kukhnya") right at the center of the line.
+- 'I see the two of you know each other.' Jumping in frankly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Viktor Petrovich was my first head chef.' Vika proceeds calmly with a sigh, shifting the mood of the conversation in a single beat.
+- 'My teacher.' Bringing up her teacher to Barinov, Vika brings in "uchitel" ("teacher") to make the meaning unmistakable.
+- 'Where it is best to set up the equipment.' Talking about the equipment in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'We will talk later.' Vika weighs in openly beside Barinov, steering the talk right where she wants it.
+- 'Igor, what are you doing here?' Barinov continues smoothly before Vika and puts the weight on "delayesh" ("are you doing", from "delat") as the exchange unfolds.
+- 'You are not replying to my text messages.' Stepping in plainly on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Well, because I have nothing to say to you.' Barinov responds sharply with a nod, to clear the air between them once and for all.
+- 'Then you could have replied that you have nothing to say.' Vika weighs in frankly before Barinov and centers the thought on "otvetila" ("answered", from "otvetit") without wasting a word.
+- 'Are you waiting for someone?' Reacting boldly in the exchange, Barinov keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.

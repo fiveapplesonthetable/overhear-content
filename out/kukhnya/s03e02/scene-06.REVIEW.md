@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, can you give us a little manure?' Fedya inquires evenly whether Nastya really thought this through.
-- 'Manure? What do you mean, give? Buy it!' Timur grounds this direct detail toward Nastya: "navoza" means "manure" (from "navoz"), giving the line its exact edge.
-- 'Do you know what kind of manure this is?' Timur states that remark beside Fedya: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'This is the best manure, it is fresh.' Timur continues wryly as they talk, letting the remark speak for itself.
-- 'How much? Shall we make a deal?' Fedya highlights one sharp touch in earnest: "dogovorimsya" means "we'll arrange" (from "dogovoritsya"), giving the line its exact edge.
-- 'A baby needs proteins that are only in meat.' Nastya speaks up at once before Timur, leaving no doubt about where she stands.
-- 'Sometimes a pregnant woman feels a craving.' Nastya stands firm dryly around Fedya, without trying to dress up how she really feels.
-- 'Were you checking the weather like that?' Nastya spotlights one key word at once: "pogodu" means "weather" (from "pogoda"), giving the line its exact edge.
-- 'What do you want so badly?' Fedya drops the comeback toward Nastya: the "-sya" ending on "khochetsya" ("want, feel like") turns the action inward or makes it happen between people naturally.
-- 'I didn't have breakfast today.' Fedya follows up right away without a pause, saying out loud what both of them already know.
-- 'Can you imagine, Max ate all the sausage at night.' Fedya reaches for this key element on cue: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
-- 'Fedya, make me a sandwich, will you?' Timur phrases the reply with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'Timur, can you give us a little manure?' Fedya inquires evenly whether Timur really thought this through.
+- 'Manure? What do you mean, give? Buy it!' Addressing the manure during the talk, Timur brings in "navoza" ("manure", from "navoz") as the key Russian word here.
+- 'Do you know what kind of manure this is?' Weighing in evenly around Fedya, Timur puts the question word "chto" right at the start so Fedya hears the focus immediately.
+- 'This is the best manure, it is fresh.' Timur answers wryly beside Fedya, watching Fedya's face to see how the news lands.
+- 'How much? Shall we make a deal?' Fedya answers warmly in front of Nastya and lands on "dogovorimsya" ("we'll arrange", built on "dogovoritsya") to keep the statement grounded.
+- 'A baby needs proteins that are only in meat.' Noting how necessary things are in the exchange, Nastya puts the weight on "neobkhodimy" ("necessary, essential", from "neobkhodimyy") as the exchange unfolds.
+- 'Sometimes a pregnant woman feels a craving.' Nastya weighs in dryly watching Fedya, shifting the mood of the conversation in a single beat.
+- 'Were you checking the weather like that?' Discussing the weather during the talk, Nastya puts the weight on "pogodu" ("weather", from "pogoda") as the exchange unfolds.
+- 'What do you want so badly?' Weighing in readily in this beat, the "-sya" ending on "khochetsya" ("want, feel like") marks an action that unfolds mutually or turns back on the speaker.
+- 'I didn't have breakfast today.' Fedya answers right away facing Nastya, letting the remark speak for itself.
+- 'Can you imagine, Max ate all the sausage at night.' Touching on the sausage on the spot, Fedya brings in "predstavlyayesh" ("can you imagine", from "predstavlyat") as the key Russian word here.
+- 'Fedya, make me a sandwich, will you?' Addressing a sandwich right here, Timur keeps normal statement word order here, turning the line into a question for Fedya purely through rising pitch.

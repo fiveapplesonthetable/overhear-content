@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You definitely have three stars.' The inspector speaks up plainly in this moment, making his position completely clear.
-- 'I will try to stretch it to four.' The inspector sharpens one classic term at once: "postarayus" means "to try" (from "postaratsya"), giving the line its exact edge.
-- 'We need five!' Mikhail puts that line before Barinov: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Are you in your right mind?' The inspector inquires deadpan how Mikhail expects that to work in practice.
-- 'Do you even imagine what is going on in your hotel?' The inspector grounds one concrete element in reply: "predstavlyayete" means "to imagine" (from "predstavlyat"), giving the line its exact edge.
-- 'The commission refused to give an official report at all.' The inspector shapes this point without pause: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'For your sake I committed a crime!' Mikhail speaks up calmly facing Barinov, refusing to let the moment slip past.
-- 'We have an excellent five-star hotel!' Mikhail stresses one classic piece on cue: "otlichnyy" means "excellent, great", and it carries the main weight of what Mikhail is saying.
-- 'Oh, look who is here! Have you already finished inspecting the hotel?' Barinov gives this update beside the inspector: putting the question word "kakiye" right at the front of the line lets the inspector hear the point of the question on the very first beat.
-- 'My goodness, you must not walk! You have fractures everywhere.' Mikhail proceeds promptly as things stand, watching the inspector's face to see how the news lands.
-- 'Vitya, what fractures? I am fine!' Barinov favors one telling term for the inspector: "perelomy" means "fractures" (from "perelom"), giving the line its exact edge.
-- 'Vitya, did they give us five stars or not?' Barinov brings this statement before Mikhail: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'You definitely have three stars.' The inspector jumps in plainly beside Mikhail, letting the remark speak for itself.
+- 'I will try to stretch it to four.' The inspector fires back quietly beside Mikhail and brings in "postarayus" ("to try", from "postaratsya") as the key Russian word here.
+- 'We need five!' Opening up evenly on the spot, Mikhail leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Are you in your right mind?' The inspector inquires deadpan while looking straight at Mikhail here.
+- 'Do you even imagine what is going on in your hotel?' Discussing the hotel during the talk, the inspector centers the thought on "predstavlyayete" ("to imagine", from "predstavlyat") without wasting a word.
+- 'The commission refused to give an official report at all.' Checking on the conclusion in this beat, the inspector drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'For your sake I committed a crime!' Mikhail replies calmly toward the inspector, leaving no doubt about where he stands.
+- 'We have an excellent five-star hotel!' Bringing up the hotel in this beat, Mikhail uses "otlichnyy" ("excellent, great") to carry the main weight of the thought.
+- 'Oh, look who is here! Have you already finished inspecting the hotel?' Weighing in candidly with Mikhail, Barinov puts the question word "kakiye" right at the start so Mikhail hears the focus immediately.
+- 'My goodness, you must not walk! You have fractures everywhere.' Mikhail steps in promptly with a sigh, steering the talk right where he wants it.
+- 'Vitya, what fractures? I am fine!' Addressing the fractures at once, Barinov centers the thought on "perelomy" ("fractures", from "perelom") without wasting a word.
+- 'Vitya, did they give us five stars or not?' Talking about the stars to Mikhail, Barinov keeps normal statement word order here, turning the line into a question for Mikhail purely through rising pitch.

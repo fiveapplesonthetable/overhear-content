@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is everything fine with you today?' Nastya shapes this statement with ease: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'With me yes, everything is fine.' Kostya holds firm frankly during the talk, steering the talk right where he wants it.
-- 'Wait, Nastya, listen to me first.' Kostya highlights this sharp word on cue: "poslushay" means "listen" (from "poslushat"), giving the line its exact edge.
-- 'Hear me out, please, to the end.' Kostya directs that remark before Nastya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'People sometimes make mistakes in life.' Kostya speaks at once as they talk, steering the talk right where he wants it.
-- 'I myself am at fault before you.' Kostya stresses one practical element at once: "vinovat" means "at fault, guilty" (from "vinovatyy"), giving the line its exact edge.
-- 'To love is a great ability to forgive.' Kostya proceeds at once with a smile, leaving no doubt about where he stands.
-- 'You see, I am ready to do that.' Kostya opens up at once to settle things, bringing things back to earth after the buildup.
-- 'Because I love you very much.' Kostya points to one practical expression toward Nastya: "lyublyu" means "love" (from "lyubit"), giving the line its exact edge.
-- 'But I will definitely improve soon.' Kostya holds firm sharply with a shrug, keeping the focus on what actually matters here.
-- 'I am ready to wash my socks myself.' Kostya stands firm lightly on the spot, without trying to dress up how he really feels.
-- 'I will never eat in bed anymore.' Kostya features one familiar touch for Nastya: "krovati" means "bed" (from "krovat"), giving the line its exact edge.
+- 'Is everything fine with you today?' Pushing back plainly in front of Kostya, Nastya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'With me yes, everything is fine.' Kostya answers frankly with a smile, before Nastya can change the subject.
+- 'Wait, Nastya, listen to me first.' Kostya continues naturally beside Nastya and centers the thought on "poslushay" ("listen", from "poslushat") without wasting a word.
+- 'Hear me out, please, to the end.' Turning to the ending around Nastya, Kostya puts the weight on "vyslushay" ("hear out, listen to", from "vyslushat") as the exchange unfolds.
+- 'People sometimes make mistakes in life.' Kostya speaks at once hearing Nastya, to clear the air between them once and for all.
+- 'I myself am at fault before you.' Kostya continues readily before Nastya and brings in "vinovat" ("at fault, guilty", from "vinovatyy") as the key Russian word here.
+- 'To love is a great ability to forgive.' Talking about a great ability before Nastya, Kostya leans on "bolshoye" ("big, very much", a form of "bolshoy") to give the remark its edge.
+- 'You see, I am ready to do that.' Kostya answers plainly with a nod, shifting the mood of the conversation in a single beat.
+- 'Because I love you very much.' Kostya opens up promptly before Nastya and uses "lyublyu" ("love", from "lyubit") to make the point stick.
+- 'But I will definitely improve soon.' Kostya jumps in firmly during the talk and puts the emphasis on "obyazatelno" ("surely, without fail") in the middle of the talk.
+- 'I am ready to wash my socks myself.' Kostya fires back lightly facing Nastya, letting the remark speak for itself.
+- 'I will never eat in bed anymore.' Turning to the bed with Nastya, Kostya uses "krovati" ("bed", from "krovat") to make the point stick.

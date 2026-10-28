@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is three times more than you paid!' Max holds firm earnestly with a nod, steering the talk right where he wants it.
-- 'And what did you expect, Dima? It is business!' Max underscores this telling detail for Vika: "biznes" means "business", and it carries the main weight of what Max is saying.
-- 'Alright, I am completely ready! Well, where am I going?' Max states that answer around Kostya: putting the question word "kuda" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Forgive me for interfering, I overheard that you are having a wedding.' Kostya reacts quietly watching Vika, watching Vika's face to see how the news lands.
-- 'That means your house is full of relatives right now.' Kostya focuses on one direct choice right here: "rodstvennikov" means "relatives" (from "rodstvennik"), giving the line its exact edge.
-- 'And our patient needs good care and above all peace and quiet.' Kostya counters firmly as things stand, steering the talk right where he wants it.
-- 'That is very important for his speedy recovery.' Kostya proceeds promptly in this moment, without trying to dress up how he really feels.
-- 'Wait a second, where should I go right now then?' Max spotlights one classic choice in reply: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Viktoriya Sergeyevna, maybe he could stay at your place?' Kostya aims the comeback calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'No, Doctor, that will definitely not do!' Vika weighs in calmly around Max, testing Max's reaction in the middle of the exchange.
-- 'Vika, wait, did I live with you before?' Max grounds one vivid detail on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'A hotel has poor care, he needs to live among familiar people.' Kostya hands over this warning with warmth: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Kostya, tell me, what other options do we have?' Vika prompts briskly whether Kostya really thought this through.
+- 'That is three times more than you paid!' Max reacts earnestly in this moment, grounding the moment in plain reality.
+- 'And what did you expect, Dima? It is business!' Emphasizing the business in this beat, Max brings in "biznes" ("business") to make the meaning unmistakable.
+- 'Alright, I am completely ready! Well, where am I going?' Leaning in boldly beside Kostya, Max puts the question word "kuda" right at the start so Kostya hears the focus immediately.
+- 'Forgive me for interfering, I overheard that you are having a wedding.' Kostya responds quietly watching Max, watching Max's face to see how the news lands.
+- 'That means your house is full of relatives right now.' Highlighting the relatives on the spot, Kostya centers the thought on "rodstvennikov" ("relatives", from "rodstvennik") without wasting a word.
+- 'And our patient needs good care and above all peace and quiet.' Underscoring the care with Max, Kostya centers the remark on "khoroshiy" ("good") without any extra fuss.
+- 'That is very important for his speedy recovery.' Kostya steps in promptly across the room, bringing things back to earth after the buildup.
+- 'Wait a second, where should I go right now then?' Max weighs in warmly in the exchange and reaches for the Russian word "podozhdite" ("wait", built from "podozhdat") right at the center of the line.
+- 'Viktoriya Sergeyevna, maybe he could stay at your place?' Pushing back readily around Vika, Kostya keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'No, Doctor, that will definitely not do!' Vika fires back calmly in their talk, making her position completely clear.
+- 'Vika, wait, did I live with you before?' Max answers promptly on the spot and puts the weight on "podozhdi" ("wait", from "podozhdat") as the exchange unfolds.
+- 'A hotel has poor care, he needs to live among familiar people.' Touching on a hotel to Max, Kostya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Kostya, tell me, what other options do we have?' Vika prompts briskly why things suddenly took this turn between them.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bro, you just bit me!' Fedya proceeds frankly with German, shifting the whole mood of the room in a single beat.
-- 'We should have shot you right away.' Fedya sharpens one loaded expression at once: "pristrelit" means "to time", and it carries the main weight of what Fedya is saying.
-- 'Here are brains in red wine.' German states the reply with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And a dish with pine nuts.' German cuts in pointedly with a nod, before Max can change the subject.
-- 'Also pâté made from goose brains.' German centers this direct term on cue: "gusinykh" means "goose" (from "gusinyy"), giving the line its exact edge.
-- 'And a fresh brain smoothie.' German shares this line toward Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Senya, hand me the big knife.' German steps in lightly in this moment, keeping the focus on what actually matters here.
-- 'Yeah, that is quite a cheerful story you have.' Max emphasizes this telling element for German: "vesyolaya" means "cheerful, fun" (from "vesyolyy"), giving the line its exact edge.
-- 'Our team turns out rather strange in it.' Max gives the comeback around Fedya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Not a funny movie at all.' Fedya holds firm briskly without holding back, keeping the focus on what actually matters here.
-- 'Let's just go back to boiling coconuts instead.' Max favors one classic word at once: "davayte" means "let's" (from "davat"), giving the line its exact edge.
-- 'Get to work, do not get distracted.' German brings the comment plainly here: the "-sya" ending on "otvlekaytes" ("get") turns the action inward or makes it happen between people naturally.
+- 'Bro, you just bit me!' Fedya proceeds frankly with a smile, to clear the air between them once and for all.
+- 'We should have shot you right away.' Fedya steps in promptly to German and brings in "pristrelit" ("to time") to make the meaning unmistakable.
+- 'Here are brains in red wine.' Bringing up the brains in this beat, German links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And a dish with pine nuts.' German answers pointedly facing Fedya, letting the remark speak for itself.
+- 'Also pâté made from goose brains.' Turning to the brain during the talk, German uses "gusinykh" ("goose", from "gusinyy") to make the point stick.
+- 'And a fresh brain smoothie.' Discussing the cocktail at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Senya, hand me the big knife.' German weighs in lightly on the spot, refusing to let the moment slip past.
+- 'Yeah, that is quite a cheerful story you have.' Insisting on how cheerful things are in this beat, Max puts the weight on "vesyolaya" ("cheerful, fun", from "vesyolyy") as the exchange unfolds.
+- 'Our team turns out rather strange in it.' Bringing up the staff in this beat, Max reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Not a funny movie at all.' Fedya answers briskly in this moment, bringing things back to earth after the buildup.
+- 'Let's just go back to boiling coconuts instead.' Max fires back candidly in this beat and puts the weight on "davayte" ("let's", from "davat") as the exchange unfolds.
+- 'Get to work, do not get distracted.' Talking about the get during the talk, the "-sya" ending on "otvlekaytes" ("get") marks an action that unfolds mutually or turns back on the speaker.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, mushrooms! Some fool gave them to me at an office party.' Nagiyev chimes in frankly with a sigh, keeping the focus on what actually matters here.
-- 'Wings, he says, sprout right out.' Nagiyev answers plainly as they talk, without trying to dress up how he really feels.
-- 'You will feel great.' Nagiyev leans on one pointed touch right here: "chuvstvovat" means "to feel", and it carries the main weight of what Nagiyev is saying.
-- 'I am twenty-four.' Ilya frames that thought on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Don't be a smart-aleck. Got it?' Nagiyev asks deadpan what Barinov is actually getting at here.
-- 'Ilyusha, prepare something festive for me.' Nagiyev features one direct element with Ilya: "prazdnichnoye" means "festive" (from "prazdnichnyy"), giving the line its exact edge.
-- 'Make it. Go on.' Nagiyev delivers this point facing Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Oh, mushrooms! Some fool gave them to me at an office party.' Focusing on an office party right here, Nagiyev uses "korporative" ("office party", from "korporativ") to make the point stick.
+- 'Wings, he says, sprout right out.' Nagiyev cuts in plainly without holding back, before Ilya can change the subject.
+- 'You will feel great.' Nagiyev steps in readily in this beat and centers the remark on "chuvstvovat" ("to feel") without any extra fuss.
+- 'I am twenty-four.' Cutting in openly at once, Ilya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Don't be a smart-aleck. Got it?' Nagiyev asks deadpan while looking straight at Ilya here.
+- 'Ilyusha, prepare something festive for me.' Nagiyev continues calmly around Ilya and brings in "prazdnichnoye" ("festive", from "prazdnichnyy") as the key Russian word here.
+- 'Make it. Go on.' Speaking promptly beside Barinov, Nagiyev starts with "davay" ("come on, let's") to invite Barinov right into the action.
 - 'And why have you crowded around here?' Barinov asks evenly if there is more going on behind the scenes.
-- 'Hello, Chef.' Ilya underscores one vivid element for Barinov: "zdravstvuyte" means "hello", and it carries the main weight of what Ilya is saying.
-- 'Are you messing around with nonsense again?' Barinov voices the thought in earnest: the "-sya" ending on "zanimayetes" ("are busy with") turns the action inward or makes it happen between people naturally.
-- 'Chef, this is not nonsense, this is a big game.' Ilya answers decisively on the spot, so Barinov knows he is not just making small talk.
-- 'The open kitchen can-knocking championship. Serious money is at stake.' Ilya stresses this clear piece toward Nagiyev: "chempionat" means "championship", and it carries the main weight of what Ilya is saying.
+- 'Hello, Chef.' Ilya evenly uses this formal greeting in the exchange using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Are you messing around with nonsense again?' Mentioning the nonsense to Ilya, Barinov keeps normal statement word order here, turning the line into a question for Ilya purely through rising pitch.
+- 'Chef, this is not nonsense, this is a big game.' Ilya opens up decisively around Barinov, refusing to let the moment slip past.
+- 'The open kitchen can-knocking championship. Serious money is at stake.' Bringing up the championship in front of Barinov, Ilya uses "chempionat" ("championship") to carry the main weight of the thought.

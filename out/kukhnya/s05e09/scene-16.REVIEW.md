@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just like that, Arkady, you always gain weight.' Barinov leans on this key detail right here: "nabirayesh" means "gain, put on" (from "nabirat"), giving the line its exact edge.
-- 'Champagne for lovers? Apparently they mixed it up.' Lyova makes that point plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Lyova, do you think I do not understand anything?' Ainura prompts candidly about what Barinov just brought up.
-- 'I understand everything.' Ainura underscores one concrete detail on cue: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.
-- 'For three years already I have seen how you look at me.' Ainura emphasizes one practical term in reply: "smotrish" means "are staring" (from "smotret"), giving the line its exact edge.
-- 'Me? Well come on.' Lyova wonders evenly why things suddenly took this turn between them.
-- 'You are so good. Only do not take offense.' Ainura favors one classic detail on cue: "khoroshiy" means "good", and it carries the main weight of what Ainura is saying.
-- 'But for me you are not tasty.' Ainura lays out this answer plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well, you are not my type.' Ainura chimes in firmly with a nod, so Barinov knows she is not just making small talk.
-- 'Now you would suit my niece, Gulnara.' Ainura favors one clear choice right here: "plemyannitse" means "niece" (from "plemyannitsa"), giving the line its exact edge.
-- 'Gulya? Do you think I would suit her?' Lyova puts the remark without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Ainura purely through rising pitch at the end.
-- 'Of course! Let us have a drink.' Ainura weighs in frankly with a nod, letting the remark speak for itself.
+- 'Just like that, Arkady, you always gain weight.' Addressing the weight on the spot, Barinov puts the weight on "nabirayesh" ("gain, put on", from "nabirat") as the exchange unfolds.
+- 'Champagne for lovers? Apparently they mixed it up.' Focusing on the champagne to Ainura, Lyova keeps normal statement word order here, turning the line into a question for Ainura purely through rising pitch.
+- 'Lyova, do you think I do not understand anything?' Ainura prompts candidly before Lyova can change the subject.
+- 'I understand everything.' Ainura reacts smoothly right here and uses "ponimayu" ("understand", from "ponimat") to make the point stick.
+- 'For three years already I have seen how you look at me.' Ainura chimes in dryly hearing Lyova, grounding the moment in plain reality.
+- 'Me? Well come on.' Lyova wonders evenly before Ainura can change the subject.
+- 'You are so good. Only do not take offense.' Highlighting how good Lyova is in this beat, Ainura reaches for the Russian word "khoroshiy" ("good") right at the heart of the line.
+- 'But for me you are not tasty.' Opening up plainly in front of Lyova, Ainura links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well, you are not my type.' Ainura chimes in firmly in their talk, watching Lyova's face to see how the news lands.
+- 'Now you would suit my niece, Gulnara.' Talking about her niece in the exchange, Ainura brings in "plemyannitse" ("niece", from "plemyannitsa") as the key Russian word here.
+- 'Gulya? Do you think I would suit her?' Answering evenly during the talk, Lyova keeps normal statement word order here, turning the line into a question for Ainura purely through rising pitch.
+- 'Of course! Let us have a drink.' Ainura readily shares this confirmation in the exchange using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".

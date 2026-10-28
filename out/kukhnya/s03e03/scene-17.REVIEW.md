@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Pregnant guy, is that you again?' Vika states this update right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Listen, stop putting on a circus for me here.' Vika continues calmly to be clear, testing Rodion's reaction in the middle of the exchange.
-- 'Listen, I braked way before that.' Vika grounds this clear touch with Max: "zatormozila" means "braked" (from "zatormozit"), giving the line its exact edge.
-- 'I hit the asphalt!' Max hands over this answer without fuss: the "-sya" ending on "udarilsya" ("hit against") turns the action inward or makes it happen between people naturally.
-- 'Such tricks won't work with me, got it?' Vika prompts quietly why things suddenly took this turn between them.
-- 'Do you want to blackmail me? You will fly right out of Moscow!' Vika highlights one clear expression in reply: "shantazhirovat" means "to blackmail", and it carries the main weight of what Vika is saying.
-- 'Vika! Vika!' Max hands over the reaction around Rodion: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'You? Nobody will believe you. You have no proof.' Vika questions curiously if there is more going on behind the scenes.
-- 'I am afraid you are not right.' Rodion centers this clear touch at once: "pravy" means "right" (from "pravyy"), giving the line its exact edge.
-- 'This telephone device filmed the accident.' Rodion jumps in right away with Vika, refusing to let the moment slip past.
-- 'And here is the proof!' Max follows up briskly with a sigh, bringing things back to earth after the buildup.
-- 'What will your husband say when he sees the recording online?' Max favors one sharp detail in earnest: "skazhet" means "will tell, will say" (from "skazat"), giving the line its exact edge.
+- 'Pregnant guy, is that you again?' Noting how pregnant things are right here, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Listen, stop putting on a circus for me here.' Vika continues calmly watching Max, leaving no doubt about where she stands.
+- 'Listen, I braked way before that.' Vika follows up warmly in front of Max and uses "zatormozila" ("braked", from "zatormozit") to make the point stick.
+- 'I hit the asphalt!' Touching on the asphalt at once, Max lands on "asfalt" ("asphalt") as the key everyday word here.
+- 'Such tricks won't work with me, got it?' Vika prompts quietly where this conversation is heading next.
+- 'Do you want to blackmail me? You will fly right out of Moscow!' Vika jumps in vividly beside Max and chooses "shantazhirovat" ("to blackmail") so Max gets the point right away.
+- 'Vika! Vika!' Looking over earnestly before Vika, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'You? Nobody will believe you. You have no proof.' Vika questions curiously what Rodion is actually getting at here.
+- 'I am afraid you are not right.' Underscoring how right Vika is in front of Vika, Rodion leans on "pravy" ("right", a form of "pravyy") to give the remark its edge.
+- 'This telephone device filmed the accident.' Discussing the unit at once, Rodion centers the remark on "telefonnyy" ("telephone") without any extra fuss.
+- 'And here is the proof!' Max follows up briskly around Rodion, making his position completely clear.
+- 'What will your husband say when he sees the recording online?' Discussing the recording to Rodion, Max leans on "zapis" ("the recording") to give the whole sentence its punch.

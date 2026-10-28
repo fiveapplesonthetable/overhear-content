@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to urgently decide what to give the chef.' Fedya answers sharply hearing Louis, refusing to let the moment slip past.
-- 'There is almost no time left until evening.' Louis favors one direct expression at once: "ostayotsya" means "stays" (from "ostavatsya"), giving the line its exact edge.
-- 'There are only two options here: a limousine or a yacht!' Senya sends this statement for Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Let's chip in five hundred rubles from each person.' Senya speaks bluntly without holding back, bringing things back to earth after the buildup.
-- 'No, we need a special gift for the chef.' Fedya emphasizes one colorful choice toward Louis: "osobennyy" means "special, particular", and it carries the main weight of what Fedya is saying.
-- 'All right, I have an excellent option.' Senya lays out this statement to Louis: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Timur recently gave me this little bottle.' Senya holds firm briskly as they talk, without trying to dress up how he really feels.
-- 'Two drops into tea, and it is done!' Senya favors one sharp element for Louis: "gotovo" means "ready" (from "gotovyy"), giving the line its exact edge.
-- 'That is a very strong remedy for love!' Fedya puts this statement for Louis: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Why are you discussing strange drops here?' Louis checks firmly while looking straight at Senya here.
-- 'No, this is medicine for my sick grandmother!' Senya picks one clear expression toward Fedya: "lekarstvo" means "medicine", and it carries the main weight of what Senya is saying.
-- 'I heard everything, get to work quickly!' Louis steps in openly before Senya, so Senya knows he is not just making small talk.
+- 'We need to urgently decide what to give the chef.' Fedya reacts sharply facing Louis, leaving no doubt about where he stands.
+- 'There is almost no time left until evening.' Addressing the evening around Fedya, Louis reaches for the Russian word "vechera" ("evening", built from "vecher") right at the center of the line.
+- 'There are only two options here: a limousine or a yacht!' Dwelling on the options in the exchange, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Let's chip in five hundred rubles from each person.' Senya steps in bluntly without holding back, leaving no doubt about where he stands.
+- 'No, we need a special gift for the chef.' Underscoring a special gift on the spot, Fedya lands on "osobennyy" ("special, particular") as the key everyday word here.
+- 'All right, I have an excellent option.' Senya responds plainly around Fedya, steering the talk right where he wants it.
+- 'Timur recently gave me this little bottle.' Senya chimes in briskly in their talk, letting the remark speak for itself.
+- 'Two drops into tea, and it is done!' Emphasizing how ready things are to Fedya, Senya brings in "gotovo" ("ready", from "gotovyy") as the key Russian word here.
+- 'That is a very strong remedy for love!' Turning to the remedy during the talk, Fedya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Why are you discussing strange drops here?' Louis checks firmly to see how Senya will answer on the spot.
+- 'No, this is medicine for my sick grandmother!' Emphasizing the medicine in the exchange, Senya reaches for the Russian word "lekarstvo" ("medicine") right at the heart of the line.
+- 'I heard everything, get to work quickly!' Mentioning the job at once, Louis reaches for the Russian word "rabotu" ("job", built from "rabota") right at the center of the line.

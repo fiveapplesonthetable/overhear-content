@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It turned out so awkwardly, really.' Vika pushes back evenly across the room, so Barinov knows she is not just making small talk.
-- 'I called Max tonight.' Vika reaches for one classic element toward Senya: "pozvonila" means "phoned" (from "pozvonit"), giving the line its exact edge.
-- 'I understand, hormones are acting up. I simply wanted stewed meat!' Vika hands over the comeback frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Ainura, please get my suit ready for the evening.' Barinov jumps in frankly toward Vika, without trying to dress up how he really feels.
-- 'Lyova, the most delicious duck of your life is on you!' Barinov highlights this direct element at once: "vkusnaya" means "tasty" (from "vkusnyy"), giving the line its exact edge.
-- 'Does anyone know where the nearest jewelry store is around here?' Barinov sends this point on cue: putting the question word "gde" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Next to the flower shop, across the street.' Senya stands firm frankly in their talk, watching Barinov's face to see how the news lands.
-- 'It looks like the chef is going to propose to Elena!' Senya leans on one concrete element in reply: "predlozheniye" means "offer, proposal", and it carries the main weight of what Senya is saying.
-- 'Well judge for yourselves: a suit, a jewelry store!' Senya stands firm wryly watching Barinov, making his position completely clear.
-- 'No, guys, everything is clear here.' Vika counters calmly with a shrug, leaving no doubt about where she stands.
-- 'Today he will give her a gift, tomorrow she will let him go to the bar.' Vika points to one vivid touch on cue: "podarok" means "gift, voucher", and it carries the main weight of what Vika is saying.
-- 'We will see tonight!' Senya states that remark right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'It turned out so awkwardly, really.' Vika chimes in evenly in this moment, before Barinov can change the subject.
+- 'I called Max tonight.' Bringing up the night in the exchange, Vika brings in "pozvonila" ("phoned", from "pozvonit") as the key Russian word here.
+- 'I understand, hormones are acting up. I simply wanted stewed meat!' Mentioning the meat in the exchange, Vika uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Ainura, please get my suit ready for the evening.' Barinov steps in frankly without any doubt, steering the talk right where he wants it.
+- 'Lyova, the most delicious duck of your life is on you!' Describing how tasty things are before Vika, Barinov lands on "vkusnaya" ("tasty", built on "vkusnyy") to keep the statement grounded.
+- 'Does anyone know where the nearest jewelry store is around here?' Explaining how nearest things are around Senya, Barinov puts the question word "gde" right at the start so Senya hears the focus immediately.
+- 'Next to the flower shop, across the street.' Senya counters frankly during the talk, grounding the moment in plain reality.
+- 'It looks like the chef is going to propose to Elena!' Addressing the offer during the talk, Senya puts the emphasis on "predlozheniye" ("offer, proposal") in the middle of the talk.
+- 'Well judge for yourselves: a suit, a jewelry store!' Underscoring a suit to Vika, Senya uses "yuvelirnyy" ("jewelry") to carry the main weight of the thought.
+- 'No, guys, everything is clear here.' Vika proceeds calmly beside Senya, before Senya can change the subject.
+- 'Today he will give her a gift, tomorrow she will let him go to the bar.' Pointing to a gift around Senya, Vika brings in "podarok" ("gift, voucher") to make the meaning unmistakable.
+- 'We will see tonight!' Speaking frankly around Vika, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

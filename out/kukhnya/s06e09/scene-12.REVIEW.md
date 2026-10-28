@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Write: yesterday I was lucky enough to visit the restaurant.' Barinov fires back warmly on the spot, shifting the whole mood of the room in a single beat.
-- 'This is a true sacred place of French cuisine.' Mikhail grounds one clear piece at once: "nastoyashcheye" means "real" (from "nastoyashchiy"), giving the line its exact edge.
-- 'Misha, no, such words do not sound good.' Barinov responds pointedly with a smile, shifting the whole mood of the room in a single beat.
-- 'Then let us write the citadel of French cuisine.' Fedya replies warmly without holding back, testing Mikhail's reaction in the middle of the exchange.
-- 'Exactly, citadel sounds much better and nicer.' Barinov grounds this key touch in earnest: "krasiveye" means "more beautiful" (from "krasivyy"), giving the line its exact edge.
-- 'And the great culinary genius of Chef Viktor Barinov.' Mikhail fires back lightly as they talk, so Fedya knows he is not just making small talk.
-- 'Will amaze all guests with the most exquisite dishes.' Fedya cuts in steadily with a sigh, keeping the focus on what actually matters here.
-- 'Let us add one more beautiful word here.' Mikhail points to one concrete detail at once: "krasivoye" means "beautiful" (from "krasivyy"), giving the line its exact edge.
-- 'Oops, I think I accidentally pressed the button.' Fedya voices this point around Barinov: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
-- 'Wait, what did you just do?' Barinov wonders wryly to see how Mikhail will answer on the spot.
-- 'Chef, I accidentally published this post.' Fedya frames one loaded word toward Barinov: "opublikoval" means "published" (from "opublikovat"), giving the line its exact edge.
-- 'Why did you press it, come on, erase it quickly!' Mikhail states that point plainly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Erase it immediately before Lena sees it!' Barinov counters honestly without a pause, leaving no doubt about where he stands.
+- 'Write: yesterday I was lucky enough to visit the restaurant.' Barinov jumps in warmly in their talk, letting the remark speak for itself.
+- 'This is a true sacred place of French cuisine.' Showing how real things are in this beat, Mikhail chooses "nastoyashcheye" ("real", from the root "nastoyashchiy") so Barinov hears the exact meaning.
+- 'Misha, no, such words do not sound good.' Turning to the words at once, Barinov lands on "nekhorosho" ("not nice, wrong") as the key everyday word here.
+- 'Then let us write the citadel of French cuisine.' Fedya steps in warmly without any doubt, to clear the air between them once and for all.
+- 'Exactly, citadel sounds much better and nicer.' Addressing the citadel with Fedya, Barinov reaches for the Russian word "krasiveye" ("more beautiful", built from "krasivyy") right at the center of the line.
+- 'And the great culinary genius of Chef Viktor Barinov.' Mentioning the genius at once, Mikhail uses "kulinarnyy" ("culinary") to carry the main weight of the thought.
+- 'Will amaze all guests with the most exquisite dishes.' Fedya chimes in steadily on the spot, letting the remark speak for itself.
+- 'Let us add one more beautiful word here.' Pointing to the word right here, Mikhail brings in "krasivoye" ("beautiful", from "krasivyy") as the key Russian word here.
+- 'Oops, I think I accidentally pressed the button.' Touching on the button beside Mikhail, the "-sya" ending on "kazhetsya" ("it seems, I think") marks an action that unfolds mutually or turns back on the speaker.
+- 'Wait, what did you just do?' Barinov wonders wryly what Fedya is actually getting at here.
+- 'Chef, I accidentally published this post.' Touching on the post to Barinov, Fedya reaches for the Russian word "opublikoval" ("published", built from "opublikovat") right at the center of the line.
+- 'Why did you press it, come on, erase it quickly!' Reacting promptly in this beat, Mikhail starts with "davay" ("come on, let's") to invite Fedya right into the action.
+- 'Erase it immediately before Lena sees it!' Barinov steps in honestly beside Mikhail, before Mikhail can change the subject.

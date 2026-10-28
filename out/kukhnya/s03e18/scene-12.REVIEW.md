@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, we wanted to have a word with you here.' Fedya pushes back decisively on the spot, steering the talk right where he wants it.
-- 'Well then speak quickly, and do not torment me.' Barinov points to one memorable touch toward Senya: "govorite" means "say, speak" (from "govorit"), giving the line its exact edge.
-- 'Go on, Fedya, boldly tell the Chef everything.' Senya shares that remark with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Chef, people in the kitchen are saying you were bribed.' Fedya weighs in quietly beside Senya, watching Senya's face to see how the news lands.
-- 'Who on earth is saying such a thing about me?' Barinov colors one vivid piece in reply: "yeshchyo" means "more, still", and it carries the main weight of what Barinov is saying.
-- 'Senya is the one saying all that in our kitchen.' Fedya responds openly in their talk, shifting the whole mood of the room in a single beat.
-- 'Yes, otherwise you would not have changed so fast.' Senya opens up earnestly before Barinov, to clear the air between them once and for all.
-- 'And even if so, what business is it of yours?' Barinov chooses one sharp touch toward Senya: "delo" means "matter", and it carries the main weight of what Barinov is saying.
-- 'We will simply tell everyone in the kitchen then.' Senya shapes the reply for Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'That our Chef is not such a principled man after all.' Senya chimes in honestly beside Fedya, steering the talk right where he wants it.
-- 'Stop right there, both of you! What do you want from me?' Barinov spotlights one memorable word on cue: "meste" means "place" (from "mesto"), giving the line its exact edge.
-- 'We shared an orange, there are many of us and only one of it!' Fedya opens up decisively with Senya, steering the talk right where he wants it.
+- 'Chef, we wanted to have a word with you here.' Fedya chimes in decisively with a nod, testing Barinov's reaction in the middle of the exchange.
+- 'Well then speak quickly, and do not torment me.' Barinov reacts sharply in front of Fedya and reaches for the Russian word "govorite" ("say, speak", built from "govorit") right at the center of the line.
+- 'Go on, Fedya, boldly tell the Chef everything.' Answering dryly in the exchange, Senya starts with "davay" ("come on, let's") to invite Barinov right into the action.
+- 'Chef, people in the kitchen are saying you were bribed.' Fedya proceeds quietly without a pause, keeping the focus on what actually matters here.
+- 'Who on earth is saying such a thing about me?' Barinov speaks pointedly around Fedya and lands on "yeshchyo" ("more, still") as the key everyday word here.
+- 'Senya is the one saying all that in our kitchen.' Pointing to his kitchen on the spot, Fedya uses "kukhne" ("kitchen", from "kukhnya") to make the point stick.
+- 'Yes, otherwise you would not have changed so fast.' Senya continues earnestly toward Fedya, letting the remark speak for itself.
+- 'And even if so, what business is it of yours?' Discussing the matter in front of Senya, Barinov leans on "delo" ("matter") to give the whole sentence its punch.
+- 'We will simply tell everyone in the kitchen then.' Turning to the kitchen to Barinov, Senya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'That our Chef is not such a principled man after all.' Senya follows up honestly in this moment, grounding the moment in plain reality.
+- 'Stop right there, both of you! What do you want from me?' Addressing the place in front of Fedya, Barinov leans on "meste" ("place", a form of "mesto") to give the remark its edge.
+- 'We shared an orange, there are many of us and only one of it!' Turning to an orange beside Barinov, Fedya leans on "apelsin" ("orange") to give the whole sentence its punch.

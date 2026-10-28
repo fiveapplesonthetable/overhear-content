@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, you are right on time.' Fedya fires back plainly without holding back, so Barinov knows he is not just making small talk.
-- 'We have a French dish here. Do you want some?' Fedya leans on one pointed detail for Max: "frantsuzskoye" means "French" (from "frantsuzskiy"), giving the line its exact edge.
-- 'No, thank you. I am on a diet today.' Barinov brings the thought facing Fedya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Chef, why do you need that?' Fedya questions promptly while looking straight at Max here.
-- 'I want to get myself in shape a bit.' Barinov centers one vivid term right here: "poryadok" means "order", and it carries the main weight of what Barinov is saying.
-- 'Chef, you already look super!' Fedya centers this telling choice toward Max: "vyglyadite" means "look" (from "vyglyadet"), giving the line its exact edge.
-- 'Tell me, only honestly.' Barinov steps in earnestly during the talk, to clear the air between them once and for all.
-- 'Am I fat?' Barinov colors one key element right here: "tolstyy" means "fat", and it carries the main weight of what Barinov is saying.
-- 'Yes, chef, you are fat.' Max voices that remark calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Listen, I liked you better when you lied!' Barinov chimes in earnestly to be clear, watching Max's face to see how the news lands.
-- 'You asked me yourself, chef.' Max stresses this direct piece for Barinov: "sprosili" means "to ask" (from "sprosit"), giving the line its exact edge.
-- 'Go work, blockhead!' Barinov brings this warning calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Chef, you are right on time.' Fedya steps in plainly around Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'We have a French dish here. Do you want some?' Talking about a dish in this beat, Fedya reaches for the Russian word "frantsuzskoye" ("French", built from "frantsuzskiy") right at the center of the line.
+- 'No, thank you. I am on a diet today.' Talking about the thank at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Chef, why do you need that?' Fedya questions promptly if there is more going on behind the scenes.
+- 'I want to get myself in shape a bit.' Highlighting the order on the spot, Barinov leans on "poryadok" ("order") to give the whole sentence its punch.
+- 'Chef, you already look super!' Fedya continues frankly with a shrug, grounding the moment in plain reality.
+- 'Tell me, only honestly.' Barinov proceeds earnestly in this moment, leaving no doubt about where he stands.
+- 'Am I fat?' Barinov speaks naturally before Max and puts the emphasis on "tolstyy" ("fat") in the middle of the talk.
+- 'Yes, chef, you are fat.' Pressing on quietly at once, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Listen, I liked you better when you lied!' Barinov pushes back earnestly with a sigh, testing Max's reaction in the middle of the exchange.
+- 'You asked me yourself, chef.' Max counters plainly during the talk and reaches for the Russian word "sprosili" ("to ask", built from "sprosit") right at the center of the line.
+- 'Go work, blockhead!' Pointing to the woodpecker at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

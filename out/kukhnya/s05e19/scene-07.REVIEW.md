@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not worry, Lena, I will get you there faster than the wind.' Barinov emphasizes this telling expression toward Elena: "volnuysya" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'You have hardly been driven around in a car like this.' Barinov uses one loaded expression at once: "mashine" means "car" (from "mashina"), giving the line its exact edge.
-- 'In my student years an admirer of mine had one like this.' Elena proceeds lightly without any doubt, saying out loud what both of them already know.
-- 'Vitya, is everything alright with you?' Elena emphasizes one familiar word right here: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Yes, everything is just wonderful, let's go.' Barinov shapes this statement to Elena: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Nagiyev is promising our chef a Michelin star.' Fedya steps in boldly on the spot, without trying to dress up how he really feels.
-- 'But after all, that is completely unrealistic.' Fedya colors one loaded element toward Barinov: "sovershenno" means "quite, completely", and it carries the main weight of what Fedya is saying.
-- 'The inspector comes to a restaurant incognito.' Fedya responds steadily watching Elena, testing Elena's reaction in the middle of the exchange.
-- 'Or maybe Nagiyev simply bribed him?' Fedya prompts evenly where this conversation is heading next.
-- 'Everything is clear, he decided to poach the chef.' Fedya chooses one practical detail in earnest: "peremanit" means "to over", and it carries the main weight of what Fedya is saying.
-- 'Senya, look how much fish you threw away!' Barinov frames one clear term on cue: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
-- 'We need to trim the ingredients more economically.' Barinov continues firmly before Fedya, grounding the moment in plain reality.
+- 'Do not worry, Lena, I will get you there faster than the wind.' Highlighting the wind in this beat, Barinov lands on "volnuysya" ("worry", built on "volnovatsya") to keep the statement grounded.
+- 'You have hardly been driven around in a car like this.' Barinov jumps in quietly beside Elena, without trying to dress up how he really feels.
+- 'In my student years an admirer of mine had one like this.' Elena replies lightly toward Barinov, keeping the focus on what actually matters here.
+- 'Vitya, is everything alright with you?' Highlighting the order around Barinov, Elena brings in "poryadke" ("order", from "poryadok") as the key Russian word here.
+- 'Yes, everything is just wonderful, let's go.' Pushing back candidly right here, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Nagiyev is promising our chef a Michelin star.' Fedya speaks boldly beside Barinov, shifting the mood of the conversation in a single beat.
+- 'But after all, that is completely unrealistic.' Fedya chimes in smoothly to Barinov and reaches for the Russian word "sovershenno" ("quite, completely") right at the heart of the line.
+- 'The inspector comes to a restaurant incognito.' Addressing the inspector with Barinov, Fedya reaches for the Russian word "inspektor" ("inspector") right at the heart of the line.
+- 'Or maybe Nagiyev simply bribed him?' Fedya prompts evenly whether Barinov really thought this through.
+- 'Everything is clear, he decided to poach the chef.' Fedya follows up smoothly during the talk and uses "peremanit" ("to over") to carry the main weight of the thought.
+- 'Senya, look how much fish you threw away!' Turning to the fish without any doubt, Barinov speaks plainly so Fedya gets the message at once.
+- 'We need to trim the ingredients more economically.' Barinov chimes in firmly across the room, watching Fedya's face to see how the news lands.

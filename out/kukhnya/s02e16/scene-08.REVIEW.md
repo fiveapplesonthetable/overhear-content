@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you think you are doing?' Kostya states that answer toward Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'I need two hairs from your head.' Max steps in honestly during the talk, bringing things back to earth after the buildup.
-- 'Better make it two, just in case I lose one.' Kostya chooses one concrete expression for Max: "poteryayu" means "to lose" (from "poteryat"), giving the line its exact edge.
-- 'Why do you need my hair?' Max brings that remark right away: putting the question word "zachem" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'To look at them and remember you whenever I feel lonely.' Kostya follows up openly in their talk, refusing to let the moment slip past.
-- 'Very funny.' Max reaches for one loaded detail with Vika: "smeshno" means "ridiculous", and it carries the main weight of what Max is saying.
-- 'That is one down.' Kostya aims this warning on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I need two hairs.' Max speaks up promptly in their talk, bringing things back to earth after the buildup.
-- 'Kostya, hello.' Kostya emphasizes this vivid piece with Max: "kost" means "bones", and it carries the main weight of what Kostya is saying.
-- 'A surprise is waiting for you tonight.' Max reaches for one direct choice in reply: "syurpriz" means "surprise", and it carries the main weight of what Max is saying.
-- 'Vitya, maybe we have had enough surprises for one day.' Kostya answers evenly without any doubt, bringing things back to earth after the buildup.
-- 'Well, that was supposed to be my surprise.' Max sharpens this key touch on cue: "syurpriz" means "surprise", and it carries the main weight of what Max is saying.
-- 'Go ahead, ask me as if I did not know.' Vika voices this warning right away: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'What do you think you are doing?' Stepping in firmly in this beat, Kostya puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'I need two hairs from your head.' Max jumps in honestly on the spot, without trying to dress up how he really feels.
+- 'Better make it two, just in case I lose one.' Kostya speaks up briskly right here and brings in "poteryayu" ("to lose", from "poteryat") as the key Russian word here.
+- 'Why do you need my hair?' Jumping in plainly on the spot, Max puts the question word "zachem" right at the start so Kostya hears the focus immediately.
+- 'To look at them and remember you whenever I feel lonely.' Kostya continues openly on the spot, letting the remark speak for itself.
+- 'Very funny.' Max follows up briskly at once and puts the emphasis on "smeshno" ("ridiculous") in the middle of the talk.
+- 'That is one down.' Stressing how ready things are around Max, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I need two hairs.' Max speaks up promptly facing Kostya, letting the remark speak for itself.
+- 'Kostya, hello.' Underscoring the bones right here, Kostya lands on "kost" ("bones") as the key everyday word here.
+- 'A surprise is waiting for you tonight.' Max cuts in lightly in this moment, refusing to let the moment slip past.
+- 'Vitya, maybe we have had enough surprises for one day.' Kostya answers evenly with a sigh, refusing to let the moment slip past.
+- 'Well, that was supposed to be my surprise.' Highlighting his surprise on the spot, Max uses "syurpriz" ("surprise") to carry the main weight of the thought.
+- 'Go ahead, ask me as if I did not know.' Pressing on frankly on the spot, Vika starts with "davay" ("come on, let's") to invite Max right into the action.

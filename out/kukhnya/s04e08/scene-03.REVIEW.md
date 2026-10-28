@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, is nobody you know renting out a room?' Denis inquires evenly what Fedya is actually getting at here.
-- 'What do we look like to you, a housing agency?' Senya leans on one key piece with Fedya: "pokhozhi" means "similar, look like" (from "pokhozhiy"), giving the line its exact edge.
-- 'Senya, he is looking for a room, why are you being slow?' Fedya phrases this update around Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'Otherwise your red boat will definitely slip away!' Fedya responds dryly to settle things, letting the remark speak for itself.
-- 'Wait, there is a nice room in my apartment!' Senya points to one clear element right here: "khoroshaya" means "good" (from "khoroshiy"), giving the line its exact edge.
-- 'I will rent it to you for just twenty thousand.' Senya chooses one colorful touch at once: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
-- 'Honestly speaking, that is a bit pricey for me.' Denis reacts boldly with a shrug, shifting the whole mood of the room in a single beat.
-- 'After all, you will not be living with strangers!' Senya highlights one telling piece toward Fedya: "chuzhikh" means "someone else's" (from "chuzhoy"), giving the line its exact edge.
-- 'I definitely will not kick you out onto the street at night.' Senya chooses one key expression with Denis: "nochyu" means "night" (from "noch"), giving the line its exact edge.
-- 'All right, I will think carefully about your offer.' Denis holds firm pointedly across the room, bringing things back to earth after the buildup.
-- 'And will your wife Marina not object to you?' Fedya grounds one familiar term on cue: "vozrazit" means "to object", and it carries the main weight of what Fedya is saying.
-- 'I am the master of the house, whatever I ask for is how it will be!' Senya fires back candidly without a pause, without trying to dress up how he really feels.
+- 'Guys, is nobody you know renting out a room?' Denis inquires evenly to see how Senya will answer on the spot.
+- 'What do we look like to you, a housing agency?' Addressing a housing before Fedya, Senya chooses "pokhozhi" ("similar, look like", from the root "pokhozhiy") so Fedya hears the exact meaning.
+- 'Senya, he is looking for a room, why are you being slow?' Opening up naturally on the spot, Fedya keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Otherwise your red boat will definitely slip away!' Fedya chimes in dryly on the spot, to clear the air between them once and for all.
+- 'Wait, there is a nice room in my apartment!' Confirming how good things are in this beat, Senya reaches for the Russian word "khoroshaya" ("good", built from "khoroshiy") right at the center of the line.
+- 'I will rent it to you for just twenty thousand.' Senya follows up earnestly without a pause, letting the remark speak for itself.
+- 'Honestly speaking, that is a bit pricey for me.' Denis reacts boldly with a nod, watching Senya's face to see how the news lands.
+- 'After all, you will not be living with strangers!' Senya responds earnestly to Denis and puts the weight on "chuzhikh" ("someone else's", from "chuzhoy") as the exchange unfolds.
+- 'I definitely will not kick you out onto the street at night.' Senya responds at once toward Denis, grounding the moment in plain reality.
+- 'All right, I will think carefully about your offer.' Denis reacts pointedly with a smile, letting the remark speak for itself.
+- 'And will your wife Marina not object to you?' Talking about the wife on the spot, Fedya brings in "zhena" ("wife") to make the meaning unmistakable.
+- 'I am the master of the house, whatever I ask for is how it will be!' Touching on the owner during the talk, Senya brings in "khozyain" ("owner") to make the meaning unmistakable.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, hi, these beautiful flowers are for you.' Denis sends the remark plainly here: opening with the casual greeting "privet" ("hi") signals right away that Denis and Katya are on familiar terms.
-- 'How about a late dinner in good company?' Denis wonders earnestly about what Nikita just brought up.
-- 'Listen, you already talked with Sveta, right?' Denis emphasizes one colorful touch in earnest: "pogovorila" means "talked, had a talk" (from "pogovorit"), giving the line its exact edge.
-- 'What is the problem, do you really not see a problem?' Katya voices this answer with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Nikita purely through rising pitch at the end.
-- 'Well what, are we not supposed to talk to her at all now?' Denis inquires skeptically what Katya is actually getting at here.
-- 'Listen, after all these are normal friendly relations.' Denis leans on one sharp expression in earnest: "druzheskiye" means "friendly" (from "druzheskiy"), giving the line its exact edge.
-- 'If you consider this normal, you are out of your mind!' Katya underscores one telling choice toward Denis: "normalnym" means "normal" (from "normalnyy"), giving the line its exact edge.
-- 'You are the one who completely lost your head from jealousy!' Denis speaks up earnestly watching Nikita, leaving no doubt about where he stands.
-- 'Katya, tell me, is everything alright with you?' Nikita centers one memorable piece for Denis: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Do not interfere, you see people are talking.' Denis points to one memorable expression on cue: "razgovarivayut" means "to talk, to speak" (from "razgovarivat"), giving the line its exact edge.
-- 'We already talked, Nikita, will you give me a ride home?' Katya checks quietly whether Denis really thought this through.
-- 'No problem, get into my car quickly.' Nikita anchors this sharp term right here: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
-- 'As a dear guest they gave you the best spot on top!' Katya spotlights one telling word in reply: "luchsheye" means "best" (from "luchshiy"), giving the line its exact edge.
+- 'Katya, hi, these beautiful flowers are for you.' Confirming how beautiful things are on the spot, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'How about a late dinner in good company?' Denis wonders earnestly where this conversation is heading next.
+- 'Listen, you already talked with Sveta, right?' Denis continues warmly on the spot and reaches for the Russian word "pogovorila" ("talked, had a talk", built from "pogovorit") right at the center of the line.
+- 'What is the problem, do you really not see a problem?' Following up firmly right here, Katya keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'Well what, are we not supposed to talk to her at all now?' Denis inquires skeptically if there is more going on behind the scenes.
+- 'Listen, after all these are normal friendly relations.' Making clear how normal things are at once, Denis leans on "druzheskiye" ("friendly", a form of "druzheskiy") to give the remark its edge.
+- 'If you consider this normal, you are out of your mind!' Katya fires back candidly across the room, without trying to dress up how she really feels.
+- 'You are the one who completely lost your head from jealousy!' Denis weighs in earnestly around Katya, steering the talk right where he wants it.
+- 'Katya, tell me, is everything alright with you?' Turning to the order at once, Nikita chooses "poryadke" ("order", from the root "poryadok") so Katya hears the exact meaning.
+- 'Do not interfere, you see people are talking.' Denis counters right away facing Nikita, testing Nikita's reaction in the middle of the exchange.
+- 'We already talked, Nikita, will you give me a ride home?' Katya checks quietly whether Nikita really thought this through.
+- 'No problem, get into my car quickly.' Pointing to his car in this beat, Nikita brings in "mashinu" ("car", from "mashina") as the key Russian word here.
+- 'As a dear guest they gave you the best spot on top!' Katya pushes back plainly hearing Nikita, watching Nikita's face to see how the news lands.

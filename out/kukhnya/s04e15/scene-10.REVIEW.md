@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Young man, stop for a minute, please!' The inspector centers this telling expression on cue: "ostanovites" means "to stop" (from "ostanovitsya"), giving the line its exact edge.
-- 'Good afternoon, Police Lieutenant Sudnik speaking.' The inspector features this telling detail with Denis: "leytenant" means "lieutenant", and it carries the main weight of what the inspector is saying.
-- 'Tell me, what do you have in this bag?' The inspector tests point-blank if there is more going on behind the scenes.
-- 'There are only my personal things here, why?' Denis anchors this clear expression on cue: "lichnyye" means "personal" (from "lichnyy"), giving the line its exact edge.
-- 'Open your bag and show me, please.' The inspector gives this answer with warmth: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Whoa, and what kind of white packets are these?' The inspector quizzes deadpan how Denis expects that to work in practice.
-- 'Comrade Lieutenant, these are ordinary food additives!' Denis centers one colorful term for the inspector: "pishchevyye" means "food, nutritional" (from "pishchevoy"), giving the line its exact edge.
-- 'I work as a cook in a French restaurant.' Denis responds candidly with a sigh, before the inspector can change the subject.
-- 'I am in a big hurry to get back to the kitchen right now!' Denis steps in steadily during the talk, grounding the moment in plain reality.
-- 'No problem, our car will give you a quick ride right now!' The inspector favors one colorful piece toward Denis: "podvezyot" means "right", and it carries the main weight of what the inspector is saying.
-- 'I am telling you the honest truth, believe me!' Denis leans on one clear element toward the inspector: "chistuyu" means "clean" (from "chistyy"), giving the line its exact edge.
-- 'At the police station we will sort everything out!' The inspector opens up calmly hearing Denis, testing Denis's reaction in the middle of the exchange.
+- 'Young man, stop for a minute, please!' Turning to a minute beside Denis, the inspector leans on "ostanovites" ("to stop", a form of "ostanovitsya") to give the remark its edge.
+- 'Good afternoon, Police Lieutenant Sudnik speaking.' The inspector opens up firmly across the room, refusing to let the moment slip past.
+- 'Tell me, what do you have in this bag?' The inspector tests point-blank what Denis is actually getting at here.
+- 'There are only my personal things here, why?' Underscoring how personal things are in front of the inspector, Denis lands on "lichnyye" ("personal", built on "lichnyy") to keep the statement grounded.
+- 'Open your bag and show me, please.' Highlighting the bag to Denis, the inspector chooses "pokazhite" ("show", from the root "pokazat") so Denis hears the exact meaning.
+- 'Whoa, and what kind of white packets are these?' The inspector quizzes deadpan what Denis is actually getting at here.
+- 'Comrade Lieutenant, these are ordinary food additives!' Showing how ordinary things are around the inspector, Denis centers the thought on "pishchevyye" ("food, nutritional", from "pishchevoy") without wasting a word.
+- 'I work as a cook in a French restaurant.' Touching on a cook to the inspector, Denis chooses "frantsuzskom" ("French", from the root "frantsuzskiy") so the inspector hears the exact meaning.
+- 'I am in a big hurry to get back to the kitchen right now!' Denis fires back steadily with a smile, grounding the moment in plain reality.
+- 'No problem, our car will give you a quick ride right now!' Discussing the right on the spot, the inspector chooses "podvezyot" ("right") so Denis gets the point right away.
+- 'I am telling you the honest truth, believe me!' Denis reacts candidly with the inspector, making his position completely clear.
+- 'At the police station we will sort everything out!' The inspector continues calmly during the talk, leaving no doubt about where he stands.

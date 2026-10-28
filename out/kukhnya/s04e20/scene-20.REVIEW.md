@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Since childhood they teach us to believe in miracles.' Max speaks decisively on the spot, grounding the moment in plain reality.
-- 'Parents read us kind fairy tales in the evening.' Max responds promptly without holding back, steering the talk right where he wants it.
-- 'We believe that a miracle will definitely happen.' Max anchors one clear expression with Barinov: "obyazatelno" means "surely, without fail", and it carries the main weight of what Max is saying.
-- 'Sometimes a miracle happens completely unexpectedly.' Max hands over the reaction at once: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'When it seems that the fairy tale has come to an end.' Max steps in earnestly on the spot, refusing to let the moment slip past.
-- 'Your pregnancy is progressing completely normally right now.' Vika features one direct word on cue: "beremennost" means "pregnancy", and it carries the main weight of what Vika is saying.
-- 'You have no reasons for worry at all.' Vika drops the remark around Barinov: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'But if a miracle still did not happen...' Max pushes back sharply as they talk, shifting the whole mood of the room in a single beat.
-- 'That means you need to write your own fairy tale yourself!' Max focuses on one memorable element in reply: "skazku" means "tale" (from "skazka"), giving the line its exact edge.
-- 'Chef, tell us, what is this place?' Max voices this point briskly now: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Friends, I did not call you here for nothing.' Barinov pushes back briskly hearing Max, saying out loud what both of them already know.
-- 'Guys, this will be our new restaurant!' Barinov points to this vivid term in earnest: "restoran" means "restaurant", and it carries the main weight of what Barinov is saying.
+- 'Since childhood they teach us to believe in miracles.' Highlighting the childhood on the spot, Max chooses "detstva" ("childhood", from the root "detstvo") so Vika hears the exact meaning.
+- 'Parents read us kind fairy tales in the evening.' Max cuts in promptly across the room, making his position completely clear.
+- 'We believe that a miracle will definitely happen.' Focusing on a miracle in the exchange, Max leans on "obyazatelno" ("surely, without fail") to give the whole sentence its punch.
+- 'Sometimes a miracle happens completely unexpectedly.' Touching on a miracle around Vika, Max adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'When it seems that the fairy tale has come to an end.' Max steps in earnestly facing Vika, before Vika can change the subject.
+- 'Your pregnancy is progressing completely normally right now.' Highlighting the pregnancy around Max, Vika centers the remark on "beremennost" ("pregnancy") without any extra fuss.
+- 'You have no reasons for worry at all.' Vika follows up calmly watching Max, leaving no doubt about where she stands.
+- 'But if a miracle still did not happen...' Max pushes back sharply with a shrug, without trying to dress up how he really feels.
+- 'That means you need to write your own fairy tale yourself!' Underscoring the tale in front of Vika, Max puts the weight on "skazku" ("tale", from "skazka") as the exchange unfolds.
+- 'Chef, tell us, what is this place?' Reacting readily during the talk, Max puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Friends, I did not call you here for nothing.' Barinov opens up briskly watching Max, testing Max's reaction in the middle of the exchange.
+- 'Guys, this will be our new restaurant!' Focusing on the restaurant during the talk, Barinov puts the emphasis on "restoran" ("restaurant") in the middle of the talk.

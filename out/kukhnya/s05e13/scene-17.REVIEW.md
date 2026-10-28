@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We finally broke down this stubborn witness!' Kristina opens up dryly beside Kostya, shifting the whole mood of the room in a single beat.
-- 'Kostya, you are supposed to be defending me here!' Max speaks plainly without any doubt, refusing to let the moment slip past.
-- 'Listen, do you remember Nagiyev's ex-wife Kristina?' Kostya favors one familiar element toward Kristina: "byvshuyu" means "former, ex" (from "byvshiy"), giving the line its exact edge.
-- 'She hit on you, and you turned her down.' Kostya frames this sharp detail on cue: "pristavala" means "hit on, pestered" (from "pristavat"), giving the line its exact edge.
-- 'Exactly, that will immediately prove my honesty!' Max holds firm decisively with Kostya, testing Kostya's reaction in the middle of the exchange.
-- 'Your Honor, I call the next important witness!' Kostya reaches for one pointed piece in earnest: "sleduyushchego" means "next, following" (from "sleduyushchiy"), giving the line its exact edge.
-- 'Kristina Nagiyev is called to the courtroom!' Kostya makes that line right away: the "-sya" ending on "priglashayetsya" ("be invited") turns the action inward or makes it happen between people naturally.
-- 'Well, and where is she? Why is she not coming?' Max challenges eagerly as Kristina tries to explain the situation.
-- 'I thought in court a person walks out right away.' Kostya underscores this clear detail in earnest: "vykhodit" means "goes out", and it carries the main weight of what Kostya is saying.
-- 'When you loudly call out their name in the hall.' Kostya proceeds promptly before Max, refusing to let the moment slip past.
-- 'Kostya, it seems you and I have lost for good.' Max reacts promptly watching Kostya, before Kostya can change the subject.
-- 'I take it there are no more defense witnesses?' Kristina underscores one colorful piece on cue: "svideteley" means "witnesses" (from "svidetel"), giving the line its exact edge.
+- 'We finally broke down this stubborn witness!' Emphasizing the witness in this beat, Kristina reaches for the Russian word "svidetelya" ("witness", built from "svidetel") right at the center of the line.
+- 'Kostya, you are supposed to be defending me here!' Max proceeds plainly watching Kostya, to clear the air between them once and for all.
+- 'Listen, do you remember Nagiyev's ex-wife Kristina?' Addressing the wife with Kristina, Kostya lands on "byvshuyu" ("former, ex", built on "byvshiy") to keep the statement grounded.
+- 'She hit on you, and you turned her down.' Kostya responds candidly around Max, shifting the mood of the conversation in a single beat.
+- 'Exactly, that will immediately prove my honesty!' Max responds decisively without holding back, keeping the focus on what actually matters here.
+- 'Your Honor, I call the next important witness!' Touching on the honor in this beat, Kostya centers the thought on "sleduyushchego" ("next, following", from "sleduyushchiy") without wasting a word.
+- 'Kristina Nagiyev is called to the courtroom!' Focusing on the hall beside Kristina, the "-sya" ending on "priglashayetsya" ("be invited") marks an action that unfolds mutually or turns back on the speaker.
+- 'Well, and where is she? Why is she not coming?' Max challenges eagerly about what Kostya just brought up.
+- 'I thought in court a person walks out right away.' Focusing on the court at once, Kostya reaches for the Russian word "vykhodit" ("goes out") right at the heart of the line.
+- 'When you loudly call out their name in the hall.' Bringing up the hall before Max, Kostya chooses "nazyvayesh" ("to call, to name", from the root "nazyvat") so Max hears the exact meaning.
+- 'Kostya, it seems you and I have lost for good.' Max cuts in promptly without holding back, leaving no doubt about where he stands.
+- 'I take it there are no more defense witnesses?' Pointing to the witnesses on the spot, Kristina centers the thought on "svideteley" ("witnesses", from "svidetel") without wasting a word.

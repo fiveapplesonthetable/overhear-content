@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you want to build a career on my dishes?' Barinov spotlights one pointed word in reply: "blyudakh" means "dish, course" (from "blyudo"), giving the line its exact edge.
-- 'Actually, I improved it a little myself.' Lyova shares this update frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Never dare to modify my dishes!' Barinov speaks up at once without holding back, letting the remark speak for itself.
-- 'First become the head chef of a restaurant yourself!' Notice how Barinov reassures Senya with candor — the Russian word "restorana" ("restaurant", built from "restoran") does the heavy lifting.
-- 'Then you can modify your own dishes!' Barinov pushes back boldly to settle things, testing Lyova's reaction in the middle of the exchange.
-- 'So I cook poorly in the kitchen?' Lyova prompts bluntly if there is more going on behind the scenes.
-- 'And will you manage without my help?' Lyova points to one memorable piece toward Barinov: "pomoshchi" means "help" (from "pomoshch"), giving the line its exact edge.
-- 'Listen, maybe he will not leave?' Senya gives that point on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'I will manage easily, do not even worry!' Barinov responds candidly to settle things, making his position completely clear.
-- 'Write your resignation letter and leave the kitchen!' Barinov emphasizes this sharp detail at once: "zayavleniye" means "statement", and it carries the main weight of what Barinov is saying.
-- 'Fine, I will write the resignation letter right now!' Lyova sends the reaction toward Barinov: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'What a pity, who will keep order now?' Senya wonders evenly whether Lyova really thought this through.
+- 'Do you want to build a career on my dishes?' Talking about the dish in this beat, Barinov lands on "blyudakh" ("dish, course", built on "blyudo") to keep the statement grounded.
+- 'Actually, I improved it a little myself.' Following up warmly in this beat, Lyova drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Never dare to modify my dishes!' Barinov counters at once on the spot, making his position completely clear.
+- 'First become the head chef of a restaurant yourself!' Addressing a restaurant in the exchange, Barinov lands on "restorana" ("restaurant", built on "restoran") to keep the statement grounded.
+- 'Then you can modify your own dishes!' Mentioning the dish in this beat, Barinov chooses "dorabatyvat" ("to modify, improve") so Lyova gets the point right away.
+- 'So I cook poorly in the kitchen?' Lyova prompts bluntly how Barinov expects that to work in practice.
+- 'And will you manage without my help?' Focusing on his help in front of Senya, Lyova lands on "pomoshchi" ("help", built on "pomoshch") to keep the statement grounded.
+- 'Listen, maybe he will not leave?' Speaking calmly before Barinov, Senya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'I will manage easily, do not even worry!' Barinov answers candidly watching Senya, to clear the air between them once and for all.
+- 'Write your resignation letter and leave the kitchen!' Highlighting the statement in the exchange, Barinov brings in "zayavleniye" ("statement") to make the meaning unmistakable.
+- 'Fine, I will write the resignation letter right now!' Highlighting the statement before Barinov, Lyova centers the remark on "zayavleniye" ("statement") without any extra fuss.
+- 'What a pity, who will keep order now?' Senya wonders evenly why things suddenly took this turn between them.

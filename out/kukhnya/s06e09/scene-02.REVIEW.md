@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Put fifty thousand on Spartak tomorrow.' Barinov speaks up calmly beside Mikhail, watching Mikhail's face to see how the news lands.
-- 'You still owe her a hundred thousand.' Mikhail holds firm pointedly as they talk, before Barinov can change the subject.
-- 'She asks me to come in person with the money.' Barinov uses this key expression for Mikhail: "dengami" means "the money, funding" (from "dengi"), giving the line its exact edge.
-- 'Alright, I understood everything perfectly.' Mikhail brings that reply briskly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'What a kind woman, how much money she saved me.' Barinov follows up wryly in their talk, testing Mikhail's reaction in the middle of the exchange.
-- 'Viktor, where have you been walking all day?' Mikhail spotlights one loaded touch in earnest: "khodish" means "can walk, are walking" (from "khodit"), giving the line its exact edge.
-- 'What do you have there in your hands?' Barinov delivers that answer without pause: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Here is a very interesting article about a restaurant.' Mikhail holds firm earnestly as they talk, letting the remark speak for itself.
-- 'The atmosphere of this restaurant wins over every guest.' Barinov uses this telling choice in reply: "atmosfera" means "atmosphere", and it carries the main weight of what Barinov is saying.
-- 'And delights with the warm comfort of home.' Mikhail proceeds briskly beside Barinov, watching Barinov's face to see how the news lands.
-- 'Just listen to these beautiful words.' Barinov opens up bluntly across the room, without trying to dress up how he really feels.
-- 'In a word, the competitor holds his standard well.' Mikhail features one sharp term for Barinov: "konkurent" means "rival, competitor", and it carries the main weight of what Mikhail is saying.
-- 'Some corrupt journalist wrote this!' Barinov follows up wryly hearing Mikhail, steering the talk right where he wants it.
+- 'Put fifty thousand on Spartak tomorrow.' Highlighting the thousand during the talk, Barinov brings in "tysyach" ("thousand", from "tysyacha") as the key Russian word here.
+- 'You still owe her a hundred thousand.' Mikhail reacts pointedly hearing Barinov, making his position completely clear.
+- 'She asks me to come in person with the money.' Mentioning the money around Mikhail, Barinov puts the weight on "dengami" ("the money, funding", from "dengi") as the exchange unfolds.
+- 'Alright, I understood everything perfectly.' Mikhail firmly offers this word of agreement at this moment using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'What a kind woman, how much money she saved me.' Barinov answers wryly with a nod, letting the remark speak for itself.
+- 'Viktor, where have you been walking all day?' Mikhail pushes back openly at once and reaches for the Russian word "khodish" ("can walk, are walking", built from "khodit") right at the center of the line.
+- 'What do you have there in your hands?' Pointing to the hands to Mikhail, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Here is a very interesting article about a restaurant.' Pointing to the article with a nod, Mikhail makes it clear to Barinov that he means every word.
+- 'The atmosphere of this restaurant wins over every guest.' Mentioning the atmosphere in this beat, Barinov uses "atmosfera" ("atmosphere") to carry the main weight of the thought.
+- 'And delights with the warm comfort of home.' Mentioning the warm comfort to Barinov, Mikhail lands on "domashnego" ("house", built on "domashniy") to keep the statement grounded.
+- 'Just listen to these beautiful words.' Barinov continues bluntly with a shrug, so Mikhail knows he is not just making small talk.
+- 'In a word, the competitor holds his standard well.' Highlighting the rival to Barinov, Mikhail reaches for the Russian word "konkurent" ("rival, competitor") right at the heart of the line.
+- 'Some corrupt journalist wrote this!' Pointing to the journalist right here, Barinov uses "prodazhnyy" ("corrupt") to carry the main weight of the thought.

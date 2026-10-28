@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, may I go home a bit earlier today?' Senya makes the comeback briskly now: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'My tooth hurts, I really cannot stand it.' Senya opens up quietly toward Lyova, saying out loud what both of them already know.
-- 'Yes, of course, go home.' Lyova reaches for one direct touch at once: "konechno" means "of course", and it carries the main weight of what Lyova is saying.
-- 'Listen, our friend's teeth hurt.' Fedya holds firm firmly with a smile, so Senya knows he is not just making small talk.
-- 'Right now he will examine your mouth for free.' Fedya weighs in promptly without holding back, testing Lyova's reaction in the middle of the exchange.
-- 'Oh no, thank you very much.' Senya sharpens one colorful element with Lyova: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'He is a veterinarian, and I am a cook.' Senya directs the thought beside Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And why are you so very nervous?' Lyova presses eagerly while looking straight at Senya here.
-- 'Maybe nothing hurts you at all?' Lyova points to one familiar choice in earnest: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'What do you mean it does not hurt?' Senya puts this point to Lyova: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Honestly, this is not mine at all.' Senya cuts in pointedly with Fedya, leaving no doubt about where he stands.
-- 'I swear, they simply framed me.' Senya reaches for one memorable term right here: "podstavili" means "framed, set up" (from "podstavit"), giving the line its exact edge.
+- 'Lyova, may I go home a bit earlier today?' Cutting in plainly right here, Senya leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'My tooth hurts, I really cannot stand it.' Senya pushes back quietly toward Lyova, letting the remark speak for itself.
+- 'Yes, of course, go home.' Lyova simply gives this confirmation at the start of the beat using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Listen, our friend's teeth hurt.' Turning to his friend beside Lyova, Fedya brings in "druga" ("the friend", from "drug") as the key Russian word here.
+- 'Right now he will examine your mouth for free.' Fedya weighs in promptly watching Senya, letting the remark speak for itself.
+- 'Oh no, thank you very much.' Highlighting the thank around Fedya, Senya uses "bolshoye" ("big, very much", from "bolshoy") to make the point stick.
+- 'He is a veterinarian, and I am a cook.' Checking on a veterinarian around Lyova, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And why are you so very nervous?' Lyova presses eagerly to see how Senya will answer on the spot.
+- 'Maybe nothing hurts you at all?' Lyova reacts warmly around Senya and puts the weight on "bolit" ("hurts, aches", from "bolet") as the exchange unfolds.
+- 'What do you mean it does not hurt?' Answering firmly at once, Senya puts the question word "kak" right at the start so Lyova hears the focus immediately.
+- 'Honestly, this is not mine at all.' Senya answers pointedly with a sigh, so Lyova knows he is not just making small talk.
+- 'I swear, they simply framed me.' Senya fires back openly in front of Lyova and lands on "podstavili" ("framed, set up", built on "podstavit") to keep the statement grounded.

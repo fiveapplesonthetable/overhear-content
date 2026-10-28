@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dad, are you thinking about how to sneak cognac into the stadium?' Katya leans on this clear detail toward Barinov: "stadion" means "stadium", and it carries the main weight of what Katya is saying.
-- 'In a chef's hat it will look very suspicious.' Barinov follows up dryly hearing Senya, so Senya knows he is not just making small talk.
-- 'Or maybe you can help me?' Barinov checks quietly as Katya tries to explain the situation.
-- 'The freezing temperature of cognac is minus thirty degrees.' Katya sharpens one clear detail in earnest: "temperatura" means "temperature", and it carries the main weight of what Katya is saying.
-- 'And the temperature of liquid nitrogen is even lower.' Katya offers that reply before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'In a couple of minutes the cognac ice cream is ready.' Katya chimes in decisively on the spot, letting the remark speak for itself.
-- 'What are you two making out of cognac here?' Senya leans on one sharp choice in reply: "konyaka" means "cognac" (from "konyak"), giving the line its exact edge.
-- 'Get lost!' Barinov shapes this update in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Everything is clear, now they will get the sheikh drunk and he will reward them.' Senya speaks up evenly toward Barinov, before Barinov can change the subject.
-- 'That is a crafty family, they will get the ring off him in no time.' Senya uses this telling word with Katya: "khitraya" means "clever" (from "khitryy"), giving the line its exact edge.
-- 'In an hour the sheikh has dinner, and this is room service.' Barinov directs that line plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Let me take it, this is a molecular dish, it must be finished in the room.' Katya reacts right away around Senya, saying out loud what both of them already know.
+- 'Dad, are you thinking about how to sneak cognac into the stadium?' Addressing the stadium to Barinov, Katya puts the emphasis on "stadion" ("stadium") in the middle of the talk.
+- 'In a chef's hat it will look very suspicious.' Highlighting the hat in this beat, Barinov puts the weight on "podozritelno" ("suspicious", from "podozritelnyy") as the exchange unfolds.
+- 'Or maybe you can help me?' Barinov checks quietly where this conversation is heading next.
+- 'The freezing temperature of cognac is minus thirty degrees.' Underscoring the freezing temperature in this beat, Katya chooses "temperatura" ("temperature") so Barinov gets the point right away.
+- 'And the temperature of liquid nitrogen is even lower.' Touching on the temperature during the talk, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'In a couple of minutes the cognac ice cream is ready.' Katya continues decisively in this moment, leaving no doubt about where she stands.
+- 'What are you two making out of cognac here?' Talking about the cognac at once, Senya uses "konyaka" ("cognac", from "konyak") to make the point stick.
+- 'Get lost!' Reacting briskly in front of Senya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Everything is clear, now they will get the sheikh drunk and he will reward them.' Senya proceeds evenly toward Barinov, making his position completely clear.
+- 'That is a crafty family, they will get the ring off him in no time.' Pointing out how clever things are in this beat, Senya chooses "khitraya" ("clever", from the root "khitryy") so Barinov hears the exact meaning.
+- 'In an hour the sheikh has dinner, and this is room service.' Turning to the sheikh in the exchange, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Let me take it, this is a molecular dish, it must be finished in the room.' Katya reacts right away beside Barinov, keeping the focus on what actually matters here.

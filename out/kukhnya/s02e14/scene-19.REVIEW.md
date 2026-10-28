@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You did not see me!' Senya focuses on one memorable term in earnest: "videl" means "saw, have seen" (from "videt"), giving the line its exact edge.
-- 'Who are you hiding from?' Fedya directs the remark for Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Wait, what is going on over there?' Lyova prompts point-blank while looking straight at Fedya here.
-- 'Fire, there is a fire!' Senya highlights one telling element right here: "pozhar" means "fire, blaze", and it carries the main weight of what Senya is saying.
-- 'Why are you just standing there staring?' Fedya offers that reply briskly now: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'Do something!' Lyova weighs in dryly facing Senya, leaving no doubt about where he stands.
-- 'Oh my goodness, you know what, we need to...' Senya picks one key word in reply: "bozhe" means "good lord, God", and it carries the main weight of what Senya is saying.
-- 'Louis, come on, do you have a fire extinguisher?' Fedya makes this answer without fuss: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'What kind of restaurant is this?' Lyova quizzes sharply whether Fedya really thought this through.
-- 'Into the walk-in fridge.' Senya chooses one memorable element with Lyova: "kholodilnik" means "fridge", and it carries the main weight of what Senya is saying.
-- 'I am going into the walk-in fridge.' Fedya frames the comment on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'No need, just focus on the orders.' Lyova proceeds quietly hearing Senya, making his position completely clear.
-- 'You have to help me.' Senya features one familiar piece at once: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
+- 'You did not see me!' Senya responds plainly in front of Fedya and puts the weight on "videl" ("saw, have seen", from "videt") as the exchange unfolds.
+- 'Who are you hiding from?' Holding firm warmly in this beat, Fedya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Wait, what is going on over there?' Lyova prompts point-blank what Senya is actually getting at here.
+- 'Fire, there is a fire!' Touching on a fire to Lyova, Senya centers the remark on "pozhar" ("fire, blaze") without any extra fuss.
+- 'Why are you just standing there staring?' Holding firm quietly in this beat, Fedya puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'Do something!' Lyova speaks dryly with a sigh, steering the talk right where he wants it.
+- 'Oh my goodness, you know what, we need to...' Emphasizing the good right here, Senya brings in "bozhe" ("good lord, God") to make the meaning unmistakable.
+- 'Louis, come on, do you have a fire extinguisher?' Holding firm evenly with Lyova, Fedya uses the polite or group form "davayte" ("let's") to bring Lyova into the plan.
+- 'What kind of restaurant is this?' Lyova quizzes sharply why things suddenly took this turn between them.
+- 'Into the walk-in fridge.' Discussing the fridge to Lyova, Senya leans on "kholodilnik" ("fridge") to give the whole sentence its punch.
+- 'I am going into the walk-in fridge.' Returning to the fridge in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'No need, just focus on the orders.' Lyova speaks up quietly across the room, bringing things back to earth after the buildup.
+- 'You have to help me.' Senya counters quietly with Lyova and leans on "dolzhny" ("must, should", a form of "dolzhen") to give the remark its edge.

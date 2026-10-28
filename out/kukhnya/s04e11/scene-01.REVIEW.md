@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If Shakespeare lived in our time.' Max spotlights one telling word right here: "shekspir" means "time", and it carries the main weight of what Max is saying.
-- 'He would probably have put it just like this.' Max stands firm decisively in their talk, testing Vika's reaction in the middle of the exchange.
-- 'Two chefs wage battles between themselves.' Max speaks up earnestly beside Vika, shifting the whole mood of the room in a single beat.
-- 'Viktoriya and Max are in love with each other.' Vika anchors one practical word toward Max: "vlyubleny" means "each", and it carries the main weight of what Vika is saying.
-- 'Max, well, what is this?' Vika directs this point plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Woman, do not distract me, I am losing right now!' Max reacts promptly across the room, letting the remark speak for itself.
-- 'Max, I asked you to fix it.' Vika focuses on one practical detail on cue: "pochinit" means "to fix, mend", and it carries the main weight of what Vika is saying.
-- 'And you simply unscrewed this thing!' Vika puts this point at once: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Vika, wash up without the shower head for now.' Max replies decisively facing Vika, steering the talk right where he wants it.
-- 'I will buy a new one later and screw it on.' Max favors one concrete detail on cue: "prikruchu" means "screw" (from "prikrucha"), giving the line its exact edge.
-- 'Vika, what are you doing in there?' Max brings the comeback with candor: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'I am doing what you are supposed to do.' Vika replies bluntly with Max, refusing to let the moment slip past.
-- 'In this house I am both the man and the woman.' Vika reaches for one vivid term at once: "zhenshchina" means "woman", and it carries the main weight of what Vika is saying.
+- 'If Shakespeare lived in our time.' Addressing his time to Vika, Max brings in "shekspir" ("time") to make the meaning unmistakable.
+- 'He would probably have put it just like this.' Max pushes back vividly in front of Vika and puts the emphasis on "navernoye" ("probably") in the middle of the talk.
+- 'Two chefs wage battles between themselves.' Max fires back earnestly on the spot, bringing things back to earth after the buildup.
+- 'Viktoriya and Max are in love with each other.' Focusing on the friend right here, Vika centers the thought on "druga" ("the friend", from "drug") without wasting a word.
+- 'Max, well, what is this?' Reacting quietly on the spot, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Woman, do not distract me, I am losing right now!' Max follows up promptly beside Vika, letting the remark speak for itself.
+- 'Max, I asked you to fix it.' Vika opens up directly before Max and brings in "pochinit" ("to fix, mend") to make the meaning unmistakable.
+- 'And you simply unscrewed this thing!' Turning to the grand to Max, Vika uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Vika, wash up without the shower head for now.' Max counters decisively in their talk, watching Vika's face to see how the news lands.
+- 'I will buy a new one later and screw it on.' Addressing the screw before Vika, Max lands on "prikruchu" ("screw", built on "prikrucha") to keep the statement grounded.
+- 'Vika, what are you doing in there?' Speaking frankly on the spot, Max puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'I am doing what you are supposed to do.' Vika proceeds bluntly beside Max, without trying to dress up how she really feels.
+- 'In this house I am both the man and the woman.' Bringing up the woman around Max, Vika centers the remark on "zhenshchina" ("woman") without any extra fuss.

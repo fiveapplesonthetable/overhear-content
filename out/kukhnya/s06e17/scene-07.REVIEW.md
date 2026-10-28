@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, what have you done here?' Barinov colors one colorful touch in earnest: "nadelal" means "make, cause" (from "nadelat"), giving the line its exact edge.
-- 'Brother, just do not worry!' Timur leans on one classic piece with the inspector: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'I did not hit him very hard.' Timur fires back honestly with Barinov, bringing things back to earth after the buildup.
-- 'This is simply a terrible hotel!' The inspector emphasizes this sharp term in earnest: "gostinitsa" means "hotel", and it carries the main weight of what the inspector is saying.
-- 'Everyone here wants to kill me.' The inspector jumps in firmly around Barinov, watching Barinov's face to see how the news lands.
-- 'It is a miracle that I stayed alive.' The inspector replies decisively toward Timur, testing Timur's reaction in the middle of the exchange.
-- 'What do you want from me?' The inspector favors one practical element at once: "nado" means "it is necessary", and it carries the main weight of what the inspector is saying.
-- 'I suggest writing a good review.' Barinov shapes this statement without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Are you hinting at a bribe to me?' The inspector inquires evenly to see how Barinov will answer on the spot.
-- 'We want to compensate your damage.' Barinov frames one key choice at once: "ushcherb" means "damage, loss", and it carries the main weight of what Barinov is saying.
-- 'This is simply very outrageous!' The inspector offers the thought around Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Where will I get that kind of money?' Barinov probes frankly as Timur tries to explain the situation.
-- 'Fine, we agree to everything.' Barinov spotlights one vivid word at once: "soglasny" means "agree" (from "soglasnyy"), giving the line its exact edge.
+- 'Timur, what have you done here?' Barinov follows up sharply around Timur and puts the weight on "nadelal" ("make, cause", from "nadelat") as the exchange unfolds.
+- 'Brother, just do not worry!' Timur cuts in steadily across the room, letting the remark speak for itself.
+- 'I did not hit him very hard.' Timur weighs in honestly across the room, shifting the mood of the conversation in a single beat.
+- 'This is simply a terrible hotel!' Underscoring a terrible hotel in the exchange, the inspector centers the remark on "gostinitsa" ("hotel") without any extra fuss.
+- 'Everyone here wants to kill me.' The inspector continues dryly during the talk and puts the emphasis on "ubit" ("kill") in the middle of the talk.
+- 'It is a miracle that I stayed alive.' The inspector replies decisively facing Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'What do you want from me?' The inspector steps in directly during the talk and leans on "nado" ("it is necessary") to give the whole sentence its punch.
+- 'I suggest writing a good review.' Turning to a good review in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Are you hinting at a bribe to me?' The inspector inquires evenly what Barinov is actually getting at here.
+- 'We want to compensate your damage.' Touching on the damage before the inspector, Barinov brings in "ushcherb" ("damage, loss") to make the meaning unmistakable.
+- 'This is simply very outrageous!' Stepping in frankly to Barinov, the inspector uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Where will I get that kind of money?' Barinov probes frankly before the inspector can change the subject.
+- 'Fine, we agree to everything.' Barinov fires back calmly with the inspector and uses "soglasny" ("agree", from "soglasnyy") to make the point stick.

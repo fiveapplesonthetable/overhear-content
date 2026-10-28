@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today I am accepting the fish myself.' Senya weighs in plainly on the spot, bringing things back to earth after the buildup.
-- 'It has a rather exhausted look.' Senya reacts calmly around Timur, before Timur can change the subject.
-- 'Ride half a day in a truck, you will get tired.' Timur features this direct element on cue: "gruzovike" means "truck" (from "gruzovik"), giving the line its exact edge.
-- 'Fyodor, I will sort this out without you.' Senya phrases this update with candor: the "-sya" ending on "razberus" ("I will sort out") turns the action inward or makes it happen between people naturally.
-- 'Why, it is completely fresh, for sure.' Timur replies briskly to settle things, refusing to let the moment slip past.
-- 'I will also give you a good discount.' Timur reaches for one telling detail on cue: "khoroshuyu" means "good" (from "khoroshiy"), giving the line its exact edge.
-- 'Fine, but take two crates.' Timur hands over the reaction toward Fedya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Fedya is on board.
-- 'Listen, well done, you know how to bargain well.' Timur replies warmly during the talk, shifting the whole mood of the room in a single beat.
-- 'Why did you take so much fish?' Fedya features one practical expression on cue: "stolko" means "so many", and it carries the main weight of what Fedya is saying.
-- 'A Japanese delegation has checked in with us.' Senya steps in promptly toward Timur, shifting the whole mood of the room in a single beat.
-- 'Mikhail Jekovich demands that we prepare fish.' Senya stands firm warmly with a sigh, making his position completely clear.
-- 'And tomorrow we will buy even more fish.' Senya stresses this clear element at once: "yeshchyo" means "more, still", and it carries the main weight of what Senya is saying.
+- 'Today I am accepting the fish myself.' Focusing on the fish to Timur, Senya centers the thought on "prinimayu" ("to receive", from "prinimat") without wasting a word.
+- 'It has a rather exhausted look.' Senya pushes back calmly around Timur, steering the talk right where he wants it.
+- 'Ride half a day in a truck, you will get tired.' Turning to a truck during the talk, Timur uses "gruzovike" ("truck", from "gruzovik") to make the point stick.
+- 'Fyodor, I will sort this out without you.' Opening up readily in front of Timur, the "-sya" ending on "razberus" ("I will sort out") marks an action that unfolds mutually or turns back on the speaker.
+- 'Why, it is completely fresh, for sure.' Timur steps in briskly with a nod, to clear the air between them once and for all.
+- 'I will also give you a good discount.' Bringing up a good discount in front of Senya, Timur leans on "khoroshuyu" ("good", a form of "khoroshiy") to give the remark its edge.
+- 'Fine, but take two crates.' Timur openly chooses this word of agreement with Fedya using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Listen, well done, you know how to bargain well.' Timur jumps in warmly around Fedya, shifting the mood of the conversation in a single beat.
+- 'Why did you take so much fish?' Turning to the fish during the talk, Fedya lands on "ryby" ("of fish", built on "ryba") to keep the statement grounded.
+- 'A Japanese delegation has checked in with us.' Talking about a delegation before Fedya, Senya brings in "delegatsiya" ("delegation") to make the meaning unmistakable.
+- 'Mikhail Jekovich demands that we prepare fish.' Senya steps in warmly without holding back, watching Fedya's face to see how the news lands.
+- 'And tomorrow we will buy even more fish.' Bringing up the fish in front of Fedya, Senya lands on "yeshchyo" ("more, still") as the key everyday word here.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So what am I supposed to do, Arkasha?' Barinov voices the reply before Lyova: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'Zenit has to lose.' Lyova speaks up plainly as they talk, refusing to let the moment slip past.
-- 'There might never be another chance like this.' Barinov spotlights one key term toward Lyova: "drugogo" means "other, another" (from "drugoy"), giving the line its exact edge.
-- 'We have to help Spartak.' Lyova offers the remark on cue: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'And what do you think?' Barinov questions sharply in front of Lyova without any preamble.
-- 'I agree with him.' Lyova highlights this telling term on cue: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.
-- 'Take it away from him.' Barinov lays out the comment with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Chef, there is a complimentary dish from the chef.' Lyova fires back right away before Barinov, watching Barinov's face to see how the news lands.
-- 'Chef, what are you doing?' Lyova highlights this direct element toward Barinov: "delayete" means "are doing" (from "delat"), giving the line its exact edge.
-- 'Lyova, go away.' Lyova sends that remark to Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I will handle this myself.' Barinov speaks up openly to be clear, grounding the moment in plain reality.
-- 'That is underhanded, Chef.' Lyova leans on one vivid term toward Barinov: "podlo" means "to submit, file" (from "podat"), giving the line its exact edge.
-- 'I said go.' Barinov phrases this line calmly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'So what am I supposed to do, Arkasha?' Replying firmly beside Lyova, Barinov puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'Zenit has to lose.' Lyova fires back plainly around Barinov, leaving no doubt about where he stands.
+- 'There might never be another chance like this.' Talking about the chance during the talk, Barinov chooses "drugogo" ("other, another", from the root "drugoy") so Lyova hears the exact meaning.
+- 'We have to help Spartak.' Holding firm plainly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'And what do you think?' Barinov questions sharply if there is more going on behind the scenes.
+- 'I agree with him.' Lyova pushes back earnestly in this beat and puts the weight on "soglasen" ("agreed", from "soglasnyy") as the exchange unfolds.
+- 'Take it away from him.' Jumping in smoothly around Lyova, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Chef, there is a complimentary dish from the chef.' Lyova fires back right away toward Barinov, grounding the moment in plain reality.
+- 'Chef, what are you doing?' Lyova opens up frankly before Barinov and lands on "delayete" ("are doing", built on "delat") to keep the statement grounded.
+- 'Lyova, go away.' Looking over dryly around Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I will handle this myself.' Barinov steps in openly with a sigh, keeping the focus on what actually matters here.
+- 'That is underhanded, Chef.' Lyova reacts warmly around Barinov and reaches for the Russian word "podlo" ("to submit, file", built from "podat") right at the center of the line.
+- 'I said go.' Pressing on frankly on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

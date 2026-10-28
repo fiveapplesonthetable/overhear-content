@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not understand where such a desire to start a family comes from.' Vika highlights one pointed piece with Kostya: "zhelaniye" means "desire, craving", and it carries the main weight of what Vika is saying.
-- 'How long can one wake up in a cold bed?' Kostya sends this line to Vika: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Could this bald guy be the happy father?' Max inquires promptly where this conversation is heading next.
-- 'Nagiyev? His wedding is in a month at our restaurant.' Kostya emphasizes this direct piece for Vika: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'Well done, Victoria thought everything through.' Max shares the thought around Kostya: the "-sya" ending on "molodets" ("well done, good boy") turns the action inward or makes it happen between people naturally.
-- 'From one marriage into another without a pause.' Max fires back warmly facing Vika, without trying to dress up how he really feels.
-- 'Max, do not talk nonsense.' Kostya underscores this telling choice toward Max: "goni" means "chase away" (from "gnat"), giving the line its exact edge.
-- 'Right now we will check whether I am talking nonsense or not.' Max stands firm lightly around Vika, steering the talk right where he wants it.
-- 'Will you say who the father is yourself, or should I?' Max asks straight out to see how Kostya will answer on the spot.
-- 'Max, back off, the subject is closed.' Vika features one memorable element toward Max: "zakryta" means "classified" (from "zakrytyy"), giving the line its exact edge.
-- 'Is it Nagiyev? Tell me, is it him or not?' Max shapes this point calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Even if it is him, then what?' Vika wonders curiously why things suddenly took this turn between them.
+- 'I do not understand where such a desire to start a family comes from.' Touching on a desire in this beat, Vika lands on "zhelaniye" ("desire, craving") as the key everyday word here.
+- 'How long can one wake up in a cold bed?' Bringing up a cold bed to Max, Kostya leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Could this bald guy be the happy father?' Max inquires promptly why things suddenly took this turn between them.
+- 'Nagiyev? His wedding is in a month at our restaurant.' Highlighting his restaurant before Max, Kostya puts the weight on "restorane" ("restaurant", from "restoran") as the exchange unfolds.
+- 'Well done, Victoria thought everything through.' Answering readily in this beat, the "-sya" ending on "molodets" ("well done, good boy") marks an action that unfolds mutually or turns back on the speaker.
+- 'From one marriage into another without a pause.' Max jumps in warmly in this moment, keeping the focus on what actually matters here.
+- 'Max, do not talk nonsense.' Kostya answers firmly in this beat and leans on "goni" ("chase away", a form of "gnat") to give the remark its edge.
+- 'Right now we will check whether I am talking nonsense or not.' Max chimes in boldly right here and uses "proverim" ("we will check", from "proverit") to make the point stick.
+- 'Will you say who the father is yourself, or should I?' Max asks straight out how Vika expects that to work in practice.
+- 'Max, back off, the subject is closed.' Highlighting how classified things are to Max, Vika uses "zakryta" ("classified", from "zakrytyy") to make the point stick.
+- 'Is it Nagiyev? Tell me, is it him or not?' Cutting in candidly in this beat, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Even if it is him, then what?' Vika wonders curiously before Max can change the subject.

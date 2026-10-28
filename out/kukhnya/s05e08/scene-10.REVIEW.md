@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, Katya, as a friend, be the sheikh's wife for an hour.' Elena highlights one concrete word toward Katya: "poslushay" means "listen" (from "poslushat"), giving the line its exact edge.
-- 'I am going to my girlfriends at the Metropol, it is close by.' Elena frames that thought without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'That is a bad idea.' Katya chimes in wryly before Elena, without trying to dress up how she really feels.
-- 'You and I look alike as two drops of water.' Elena features one sharp term in earnest: "pokhozhi" means "similar, look like" (from "pokhozhiy"), giving the line its exact edge.
-- 'Nobody will notice.' Elena voices that remark toward Katya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'And my husband only visits me once a month anyway.' Elena counters candidly hearing Katya, refusing to let the moment slip past.
-- 'And he already visited this month.' Elena uses one pointed piece toward Katya: "mesyatse" means "month" (from "mesyats"), giving the line its exact edge.
-- 'No, it is time for me to go.' Katya shapes that thought facing Elena: the single Russian word "pora" ("it is time to") sets up the whole statement without needing a separate word for "it is".
-- 'Then I will have to say that you got me drunk.' Elena replies plainly toward Katya, to clear the air between them once and for all.
-- 'And your head chef undressed me and harassed me.' Elena picks one vivid word on cue: "shef-povar" means "head chef", and it carries the main weight of what Elena is saying.
-- 'What kind of nonsense is that?' Katya frames this statement with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And whom will my husband believe?' Elena questions bluntly if there is more going on behind the scenes.
+- 'Listen, Katya, as a friend, be the sheikh's wife for an hour.' Touching on the friendship right here, Elena leans on "druzhbe" ("friendship", a form of "druzhba") to give the remark its edge.
+- 'I am going to my girlfriends at the Metropol, it is close by.' Focusing on her girlfriends during the talk, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'That is a bad idea.' Katya reacts wryly without a pause, before Elena can change the subject.
+- 'You and I look alike as two drops of water.' Turning to the drop to Katya, Elena chooses "pokhozhi" ("similar, look like", from the root "pokhozhiy") so Katya hears the exact meaning.
+- 'Nobody will notice.' Following up evenly beside Katya, Elena pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'And my husband only visits me once a month anyway.' Elena speaks up candidly hearing Katya, bringing things back to earth after the buildup.
+- 'And he already visited this month.' Bringing up the month beside Katya, Elena leans on "mesyatse" ("month", a form of "mesyats") to give the remark its edge.
+- 'No, it is time for me to go.' Pushing back directly around Elena, Katya leans on "pora" ("it is time to"), which carries the whole predicate in Russian without needing "it is".
+- 'Then I will have to say that you got me drunk.' Elena replies plainly without a pause, shifting the mood of the conversation in a single beat.
+- 'And your head chef undressed me and harassed me.' Emphasizing the head with Katya, Elena puts the emphasis on "shef-povar" ("head chef") in the middle of the talk.
+- 'What kind of nonsense is that?' Focusing on the nonsense right here, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And whom will my husband believe?' Elena questions bluntly to see how Katya will answer on the spot.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Chef, are you feeling better already?' The guest centers this vivid touch on cue: "zdravstvuyte" means "hello", and it carries the main weight of what the guest is saying.
-- 'Yes, thank you, guys, already better.' Barinov directs this answer to Gulya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'And when will you pay me back my ten thousand?' The guest questions promptly about what Barinov just brought up.
-- 'Get out of here, understood?' Barinov highlights one familiar expression for Gulya: "otsyuda" means "from here", and it carries the main weight of what Barinov is saying.
-- 'And where are you going?' The guest drops the reaction briskly now: the "-sya" ending on "sobralas" ("to get ready") turns the action inward or makes it happen between people naturally.
-- 'I want to buy something to go with tea.' Gulya continues frankly without holding back, testing the guest's reaction in the middle of the exchange.
-- 'Show us your handbag first.' The guest underscores one loaded detail toward Barinov: "sumochku" means "handbag" (from "sumochka"), giving the line its exact edge.
-- 'What are you saying?' Gulya states this answer to the guest: putting the question word "chto" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'Gulya, we are not accusing you of anything.' The guest opens up lightly before Barinov, steering the talk right where he wants it.
-- 'You took five thousand, do you think nobody noticed?' Gulya highlights one concrete detail on cue: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
-- 'Come on, give it here, show the bag!' The guest counters openly in this moment, so Barinov knows he is not just making small talk.
-- 'What are you doing, let go!' Gulya opens up candidly toward the guest, without trying to dress up how she really feels.
+- 'Hello, Chef, are you feeling better already?' The guest naturally delivers this formal greeting in one quick breath using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Yes, thank you, guys, already better.' Mentioning the thank at once, Barinov centers the remark on "spasibo" ("thank you") without any extra fuss.
+- 'And when will you pay me back my ten thousand?' The guest questions promptly why things suddenly took this turn between them.
+- 'Get out of here, understood?' Barinov speaks up dryly around the guest and uses "otsyuda" ("from here") to carry the main weight of the thought.
+- 'And where are you going?' Holding firm warmly during the talk, the "-sya" ending on "sobralas" ("to get ready") marks an action that unfolds mutually or turns back on the speaker.
+- 'I want to buy something to go with tea.' Raising the tea toward the guest, Gulya puts the real issue right on the table for the guest.
+- 'Show us your handbag first.' Pointing to the handbag at once, the guest puts the weight on "sumochku" ("handbag", from "sumochka") as the exchange unfolds.
+- 'What are you saying?' Leaning in smoothly on the spot, Gulya puts the question word "chto" right at the start so the guest hears the focus immediately.
+- 'Gulya, we are not accusing you of anything.' The guest cuts in lightly on the spot, before Gulya can change the subject.
+- 'You took five thousand, do you think nobody noticed?' Bringing up the thousand right here, Gulya uses "tysyach" ("thousand", from "tysyacha") to make the point stick.
+- 'Come on, give it here, show the bag!' Highlighting the bag in the exchange, the guest puts the weight on "sumku" ("bag, purse", from "sumka") as the exchange unfolds.
+- 'What are you doing, let go!' Gulya cuts in candidly hearing the guest, shifting the mood of the conversation in a single beat.

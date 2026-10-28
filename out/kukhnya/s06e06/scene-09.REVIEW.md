@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not understand anything at all right now.' Katya follows up candidly without a pause, before Barinov can change the subject.
-- 'First you are against it, then you both urge me to go.' Katya highlights one concrete detail with Eleonora: "ugovarivayete" means "are persuading" (from "ugovarivat"), giving the line its exact edge.
-- 'That was ordinary parental selfishness.' Barinov speaks candidly around Eleonora, steering the talk right where he wants it.
-- 'As always, we thought only about ourselves.' Eleonora responds candidly with Katya, saying out loud what both of them already know.
-- 'And we should have thought only about you.' Barinov focuses on one familiar piece on cue: "dumat" means "to think", and it carries the main weight of what Barinov is saying.
-- 'Wait, is this Frenchman really an inspector?' Eleonora hands over the remark in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Yes, I saw his identification card myself.' Barinov stands firm openly in this moment, grounding the moment in plain reality.
-- 'I heard they often do it that way.' Barinov picks one key touch with Katya: "slyshal" means "heard" (from "slyshat"), giving the line its exact edge.
-- 'They send one openly, and another secretly.' Barinov cuts in boldly as they talk, grounding the moment in plain reality.
-- 'But you said yourself that he is a clown.' Eleonora holds firm boldly to be clear, testing Katya's reaction in the middle of the exchange.
-- 'This clown can write a bad review.' Barinov frames one familiar word right here: "plokhoy" means "bad", and it carries the main weight of what Barinov is saying.
-- 'We must not ruin his personal life.' Barinov states this warning around Katya: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'I do not understand anything at all right now.' Katya follows up candidly across the room, shifting the mood of the conversation in a single beat.
+- 'First you are against it, then you both urge me to go.' Katya opens up calmly right here and lands on "ugovarivayete" ("are persuading", built on "ugovarivat") to keep the statement grounded.
+- 'That was ordinary parental selfishness.' Mentioning the selfishness with Katya, Barinov brings in "roditelskiy" ("parental") to make the meaning unmistakable.
+- 'As always, we thought only about ourselves.' Eleonora continues candidly with Barinov, leaving no doubt about where she stands.
+- 'And we should have thought only about you.' Barinov chimes in boldly around Eleonora and puts the emphasis on "dumat" ("to think") in the middle of the talk.
+- 'Wait, is this Frenchman really an inspector?' Touching on an inspector with Barinov, Eleonora keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Yes, I saw his identification card myself.' Barinov fires back openly without any doubt, steering the talk right where he wants it.
+- 'I heard they often do it that way.' Barinov chimes in readily right here and centers the thought on "slyshal" ("heard", from "slyshat") without wasting a word.
+- 'They send one openly, and another secretly.' Barinov responds sharply during the talk and uses "drugogo" ("other, another", from "drugoy") to make the point stick.
+- 'But you said yourself that he is a clown.' Eleonora answers boldly in their talk, without trying to dress up how she really feels.
+- 'This clown can write a bad review.' Bringing up the clown on the spot, Barinov uses "plokhoy" ("bad") to carry the main weight of the thought.
+- 'We must not ruin his personal life.' Bringing up the life at once, Barinov leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".

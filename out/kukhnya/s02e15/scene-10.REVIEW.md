@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Folks, who can lend me some money, huh?' Barinov underscores one memorable piece with Max: "narod" means "the people", and it carries the main weight of what Barinov is saying.
-- 'How to refuse when someone asks for money.' Max aims the comeback in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Pretend that you did not hear properly.' Barinov reacts frankly with Max, bringing things back to earth after the buildup.
-- 'What? Huh?' Max states the comment briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'I cannot hear you.' Barinov sends this statement right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Pretend that you are about to help out.' Max chimes in bluntly as they talk, steering the talk right where he wants it.
-- 'Well... Let me see.' Barinov drops this warning to Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Yeah. Just a second.' Max offers this answer plainly here: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Stage three.' Barinov replies honestly to settle things, refusing to let the moment slip past.
-- 'I do not have any.' Max makes that answer around Barinov: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'What were you asking for?' Barinov states the reply plainly here: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'I can lend it to you.' Max proceeds right away with a smile, saying out loud what both of them already know.
-- 'Oh, get lost.' Barinov stresses this sharp detail at once: "poshel" means "go, off you go" (from "poyti"), giving the line its exact edge.
+- 'Folks, who can lend me some money, huh?' Focusing on the people to Max, Barinov puts the emphasis on "narod" ("the people") in the middle of the talk.
+- 'How to refuse when someone asks for money.' Focusing on the money in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Pretend that you did not hear properly.' Barinov responds frankly around Max, leaving no doubt about where he stands.
+- 'What? Huh?' Leaning in warmly to Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'I cannot hear you.' Weighing in boldly at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Pretend that you are about to help out.' Max cuts in bluntly with a nod, letting the remark speak for itself.
+- 'Well... Let me see.' Weighing in openly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Yeah. Just a second.' Replying naturally in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Stage three.' Barinov speaks honestly with Max, bringing things back to earth after the buildup.
+- 'I do not have any.' Reacting boldly with Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'What were you asking for?' Speaking firmly around Max, Barinov puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'I can lend it to you.' Max steps in right away during the talk, grounding the moment in plain reality.
+- 'Oh, get lost.' Barinov fires back naturally in this beat and reaches for the Russian word "poshel" ("go, off you go", built from "poyti") right at the center of the line.

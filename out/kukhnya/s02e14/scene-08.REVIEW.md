@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let me call you right back.' Barinov directs the comment with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Glad to see you.' Vika pushes back earnestly around Sasha, watching Sasha's face to see how the news lands.
-- 'Thank you for the kind words.' Sasha spotlights this direct choice toward Barinov: "spasibo" means "thank you", and it carries the main weight of what Sasha is saying.
-- 'I am kidding, just kidding.' Barinov aims this warning beside Vika: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'How are you feeling?' Vika tests curiously as Barinov tries to explain the situation.
-- 'Oh, stop saying that.' Sasha chooses one clear expression on cue: "bros" means "drop it" (from "brosit"), giving the line its exact edge.
-- 'The last time you were good as new was at the turn of the century.' Barinov points to one colorful element on cue: "novenkiy" means "newcomer", and it carries the main weight of what Barinov is saying.
-- 'There is just so much work to do.' Vika opens up openly to be clear, to clear the air between them once and for all.
-- 'Do not give me away, I will explain everything to you later.' Sasha highlights one pointed piece toward Barinov: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
-- 'I am not at the restaurant right now.' Barinov brings the remark without fuss: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'A head chef fresh from Paris.' Vika answers lightly toward Barinov, leaving no doubt about where she stands.
-- 'Viktoriya Sergeyevna, maybe I should take that table myself?' Sasha focuses on this telling touch on cue: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'There are only three people sitting there.' Barinov lays out that point plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Let me call you right back.' Cutting in smoothly with Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Glad to see you.' Vika continues earnestly across the room, steering the talk right where she wants it.
+- 'Thank you for the kind words.' Sasha briskly drops this word of thanks toward Vika using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I am kidding, just kidding.' Reacting smoothly before Sasha, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'How are you feeling?' Vika tests curiously where this conversation is heading next.
+- 'Oh, stop saying that.' Sasha pushes back dryly beside Vika and lands on "bros" ("drop it", built on "brosit") to keep the statement grounded.
+- 'The last time you were good as new was at the turn of the century.' Barinov reacts sharply with a nod, bringing things back to earth after the buildup.
+- 'There is just so much work to do.' Vika follows up openly around Barinov, before Barinov can change the subject.
+- 'Do not give me away, I will explain everything to you later.' Sasha opens up sharply in this beat and uses "obyasnyu" ("I'll explain", from "obyasnit") to make the point stick.
+- 'I am not at the restaurant right now.' Replying warmly before Sasha, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'A head chef fresh from Paris.' Vika chimes in lightly with a sigh, watching Barinov's face to see how the news lands.
+- 'Viktoriya Sergeyevna, maybe I should take that table myself?' Pressing on openly in the exchange, Sasha keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'There are only three people sitting there.' Opening up calmly in front of Sasha, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.

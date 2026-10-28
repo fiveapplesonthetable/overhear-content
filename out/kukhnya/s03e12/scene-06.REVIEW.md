@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you want?' The guest prompts straight out to see how Nagiyev will answer on the spot.
-- 'Hello, my name is Dmitry.' Nagiyev leans on one telling word in reply: "zdravstvuyte" means "hello", and it carries the main weight of what Nagiyev is saying.
-- 'Well, you look familiar to me.' The guest sends the reply with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Wait, are you that warrant officer?' The guest questions evenly in front of Nagiyev without any preamble.
-- 'Well done, you recognized me.' Nagiyev centers this direct element toward the guest: "molodets" means "well done, good boy", and it carries the main weight of what Nagiyev is saying.
-- 'I am offering you peace.' Nagiyev directs this update frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'What kind of peace for you?' The guest inquires frankly about what Nagiyev just brought up.
-- 'You disgraced all Russian warrant officers!' The guest highlights this telling expression at once: "praporshchikov" means "warrant officers" (from "praporshchik"), giving the line its exact edge.
-- 'You disgraced the entire Russian army!' The guest sharpens one clear detail right here: "russkuyu" means "Russian" (from "russkiy"), giving the line its exact edge.
-- 'I truly came to you in peace.' Nagiyev jumps in plainly hearing the guest, testing the guest's reaction in the middle of the exchange.
-- 'I just wanted to offer you some money.' Nagiyev sharpens one vivid detail for the guest: "predlozhit" means "to offer", and it carries the main weight of what Nagiyev is saying.
-- 'You decided to offer me money?' The guest states the comment for Nagiyev: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'What do you want?' The guest prompts straight out if there is more going on behind the scenes.
+- 'Hello, my name is Dmitry.' Nagiyev casually sends this formal greeting toward the guest using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Well, you look familiar to me.' Reacting naturally on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Wait, are you that warrant officer?' The guest questions evenly what Nagiyev is actually getting at here.
+- 'Well done, you recognized me.' Nagiyev answers calmly during the talk and reaches for the Russian word "molodets" ("well done, good boy") right at the heart of the line.
+- 'I am offering you peace.' Turning firmly in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'What kind of peace for you?' The guest inquires frankly where this conversation is heading next.
+- 'You disgraced all Russian warrant officers!' Bringing up the warrant officers in this beat, the guest uses "praporshchikov" ("warrant officers", from "praporshchik") to make the point stick.
+- 'You disgraced the entire Russian army!' The guest jumps in dryly with a nod, testing Nagiyev's reaction in the middle of the exchange.
+- 'I truly came to you in peace.' Nagiyev replies plainly around the guest, so the guest knows he is not just making small talk.
+- 'I just wanted to offer you some money.' Turning to the money around the guest, Nagiyev lands on "predlozhit" ("to offer") as the key everyday word here.
+- 'You decided to offer me money?' Dwelling on the money in the exchange, the guest keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.

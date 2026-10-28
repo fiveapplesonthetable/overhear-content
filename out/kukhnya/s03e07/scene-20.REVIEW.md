@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, we brought you a delicious lunch.' Nastya emphasizes one telling choice in earnest: "vkusnyy" means "delicious", and it carries the main weight of what Nastya is saying.
-- 'Thank you very much, pleasant appetite to everyone.' Max follows up right away as things stand, refusing to let the moment slip past.
-- 'Tell us, how are things with you?' Max stresses one sharp touch at once: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
-- 'Everything is fine, our factory is working, everything is going well.' Kostya directs the reply at once: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Alright, you eat, and we will head out now.' Nastya responds pointedly with Kostya, refusing to let the moment slip past.
-- 'We still need to pick up the kids from school.' Nastya reaches for one vivid expression in reply: "yeshchyo" means "more, still", and it carries the main weight of what Nastya is saying.
-- 'The car does not just drive now, it flies!' Max shares this update plainly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I should have thought earlier, Vika.' Max replies steadily with Nastya, testing Nastya's reaction in the middle of the exchange.
-- 'At times we need to make a difficult decision.' Max anchors this telling choice toward Kostya: "slozhnoye" means "complex" (from "slozhnyy"), giving the line its exact edge.
-- 'A decision on which our fate will depend.' Max speaks candidly as things stand, grounding the moment in plain reality.
-- 'To make a person happy, it is more right to let them go.' Max responds firmly during the talk, keeping the focus on what actually matters here.
-- 'Yes, that way it will be much better.' Max reaches for one direct element right here: "namnogo" means "much, far", and it carries the main weight of what Max is saying.
+- 'Look, we brought you a delicious lunch.' Nastya follows up wryly without a pause, to clear the air between them once and for all.
+- 'Thank you very much, pleasant appetite to everyone.' Max naturally delivers this word of thanks toward Nastya using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Tell us, how are things with you?' Max weighs in firmly to Kostya and brings in "dela" ("things, affairs", from "delo") as the key Russian word here.
+- 'Everything is fine, our factory is working, everything is going well.' Mentioning his factory right here, Kostya lands on "rabotayet" ("works", built on "rabotat") to keep the statement grounded.
+- 'Alright, you eat, and we will head out now.' Nastya pushes back pointedly in this moment, grounding the moment in plain reality.
+- 'We still need to pick up the kids from school.' Touching on the school around Max, Nastya lands on "shkoly" ("school", built on "shkola") to keep the statement grounded.
+- 'The car does not just drive now, it flies!' Addressing the car in front of Nastya, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I should have thought earlier, Vika.' Max counters steadily without a pause, shifting the mood of the conversation in a single beat.
+- 'At times we need to make a difficult decision.' Pointing to a difficult decision beside Nastya, Max brings in "slozhnoye" ("complex", from "slozhnyy") as the key Russian word here.
+- 'A decision on which our fate will depend.' Emphasizing a decision around Nastya, Max reaches for the Russian word "resheniye" ("decision") right at the heart of the line.
+- 'To make a person happy, it is more right to let them go.' Max pushes back firmly during the talk, so Nastya knows he is not just making small talk.
+- 'Yes, that way it will be much better.' Max fires back smoothly with Nastya and reaches for the Russian word "namnogo" ("much, far") right at the heart of the line.

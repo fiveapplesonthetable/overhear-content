@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You could bring her right here to the couch.' Barinov uses one practical word right here: "divan" means "sofa, couch", and it carries the main weight of what Barinov is saying.
-- 'It is a magnificent couch.' Vika hands over the reaction facing Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Why not?' Kostya presses frankly whether Barinov really thought this through.
-- 'In my own office?' Barinov underscores this direct word on cue: "kabinete" means "office" (from "kabinet"), giving the line its exact edge.
-- 'Right here in my restaurant.' Vika lays out the remark on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Very convenient.' Kostya stands firm candidly with a sigh, letting the remark speak for itself.
-- 'Nobody is around.' Barinov directs that point toward Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Arkady, you saw everything and kept quiet?' Vika delivers this answer with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'At least Arkady did not join in.' Kostya steps in plainly facing Barinov, without trying to dress up how he really feels.
-- 'There is a separate restroom for staff members.' Barinov centers this direct choice toward Vika: "sotrudnikov" means "staff members" (from "sotrudnik"), giving the line its exact edge.
-- 'What is going on here?' Vika gives that thought facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Hello, Viktoriya Sergeyevna.' Kostya fires back evenly beside Vika, shifting the whole mood of the room in a single beat.
-- 'The drain broke in there, and we were just...' Barinov points to this vivid touch in reply: "slomalsya" means "broke down" (from "slomatsya"), giving the line its exact edge.
+- 'You could bring her right here to the couch.' Bringing up the sofa during the talk, Barinov reaches for the Russian word "divan" ("sofa, couch") right at the heart of the line.
+- 'It is a magnificent couch.' Underscoring how splendid things are on the spot, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Why not?' Kostya presses frankly where this conversation is heading next.
+- 'In my own office?' Focusing on the office before Vika, Barinov brings in "kabinete" ("office", from "kabinet") as the key Russian word here.
+- 'Right here in my restaurant.' Discussing her restaurant at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Very convenient.' Kostya jumps in candidly on the spot, grounding the moment in plain reality.
+- 'Nobody is around.' Opening up readily around Kostya, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Arkady, you saw everything and kept quiet?' Looking over candidly beside Kostya, Vika keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'At least Arkady did not join in.' Kostya quietly directs this word of agreement in one quick breath using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'There is a separate restroom for staff members.' Underscoring the staff members during the talk, Barinov leans on "sotrudnikov" ("staff members", a form of "sotrudnik") to give the remark its edge.
+- 'What is going on here?' Bringing up the matter at once, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Hello, Viktoriya Sergeyevna.' Kostya gently chooses this formal greeting in one quick breath using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'The drain broke in there, and we were just...' Emphasizing the plum during the talk, Barinov puts the weight on "slomalsya" ("broke down", from "slomatsya") as the exchange unfolds.

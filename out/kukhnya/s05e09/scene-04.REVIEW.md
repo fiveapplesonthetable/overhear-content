@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well there, something like that.' Barinov anchors this key term toward Elena: "kak-to" means "somehow, a bit", and it carries the main weight of what Barinov is saying.
-- 'Listen, how slim you used to be!' Elena sharpens one concrete touch on cue: "stroynyy" means "slim, slender", and it carries the main weight of what Elena is saying.
-- 'Are you hinting again that I am fat?' Barinov quizzes deadpan whether Elena really thought this through.
-- 'No, I am just saying that you were slim.' Elena colors one key word in reply: "stroynyy" means "slim, slender", and it carries the main weight of what Elena is saying.
-- 'I can lose weight at any moment!' Barinov answers boldly hearing Elena, so Elena knows he is not just making small talk.
-- 'So here is the deal.' Elena reacts warmly without any doubt, without trying to dress up how she really feels.
-- 'In a week you will recover.' Elena leans on one telling touch in reply: "popravishsya" means "recover, get better" (from "popravitsya"), giving the line its exact edge.
-- 'We have a date at the restaurant.' Elena phrases this statement beside Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'And I will be in this suit.' Barinov replies promptly before Elena, watching Elena's face to see how the news lands.
-- 'And it will be a bit too big on me!' Barinov leans on this clear word for Elena: "velikovat" means "a bit too big" (from "velikovatyy"), giving the line its exact edge.
-- 'We will see!' Elena directs this line briskly now: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'I am telling you for sure!' Barinov chimes in boldly watching Elena, before Elena can change the subject.
+- 'Well there, something like that.' Barinov reacts firmly with Elena and uses "kak-to" ("somehow, a bit") to carry the main weight of the thought.
+- 'Listen, how slim you used to be!' Elena speaks bluntly on the spot, leaving no doubt about where she stands.
+- 'Are you hinting again that I am fat?' Barinov quizzes deadpan where this conversation is heading next.
+- 'No, I am just saying that you were slim.' Stressing how slim she is before Barinov, Elena lands on "stroynyy" ("slim, slender") as the key everyday word here.
+- 'I can lose weight at any moment!' Touching on the moment before Elena, Barinov centers the remark on "moment" ("moment") without any extra fuss.
+- 'So here is the deal.' Elena follows up warmly with a nod, steering the talk right where she wants it.
+- 'In a week you will recover.' Discussing a week in front of Barinov, Elena centers the thought on "popravishsya" ("recover, get better", from "popravitsya") without wasting a word.
+- 'We have a date at the restaurant.' Addressing a date during the talk, Elena reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'And I will be in this suit.' Barinov speaks promptly facing Elena, so Elena knows he is not just making small talk.
+- 'And it will be a bit too big on me!' Barinov replies directly to Elena and puts the weight on "velikovat" ("a bit too big", from "velikovatyy") as the exchange unfolds.
+- 'We will see!' Turning dryly to Barinov, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'I am telling you for sure!' Barinov reacts boldly in their talk, keeping the focus on what actually matters here.

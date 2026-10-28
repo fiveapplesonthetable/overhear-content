@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a face you have, just like a plate.' Lyova speaks earnestly during the talk, saying out loud what both of them already know.
-- 'Go back to your homeland.' Lyova uses this direct term with Senya: "ubiraysya" means "get out, clear off" (from "ubiratsya"), giving the line its exact edge.
-- 'Ainura! Well what did they write?' Lyova shapes that point around Ainura: putting the question word "chto" right at the front of the line lets Ainura hear the point of the question on the very first beat.
-- 'What on earth did you write?' Ainura probes point-blank to see how Senya will answer on the spot.
-- 'I wanted to pull a prank, guys.' Senya features one telling term for Ainura: "prikolnutsya" means "to pull a prank", and it carries the main weight of what Senya is saying.
-- 'That is outrageous! Lyova, forgive me, please.' Ainura brings that line beside Senya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'I am very ashamed of this person.' Ainura steps in lightly without a pause, testing Lyova's reaction in the middle of the exchange.
-- 'Let me help. Do you want to invite her on a date?' Ainura grounds this telling expression on cue: "svidaniye" means "date", and it carries the main weight of what Ainura is saying.
-- 'She does not even want to talk to me.' Lyova reacts at once in this moment, bringing things back to earth after the buildup.
-- 'You write it down, and I will pass it along.' Ainura responds briskly before Senya, refusing to let the moment slip past.
-- 'At the same time I will explain why it all happened this way.' Ainura focuses on this vivid word in reply: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
-- 'Never mind, write. Girls love taking a long time to get ready.' Ainura chimes in candidly without any doubt, letting the remark speak for itself.
+- 'What a face you have, just like a plate.' Lyova proceeds earnestly in this moment, bringing things back to earth after the buildup.
+- 'Go back to your homeland.' Touching on the motherland before Ainura, Lyova brings in "ubiraysya" ("get out, clear off", from "ubiratsya") as the key Russian word here.
+- 'Ainura! Well what did they write?' Pushing back promptly during the talk, Lyova puts the question word "chto" right at the start so Ainura hears the focus immediately.
+- 'What on earth did you write?' Ainura probes point-blank if there is more going on behind the scenes.
+- 'I wanted to pull a prank, guys.' Turning to the kids at once, Senya lands on "prikolnutsya" ("to pull a prank") as the key everyday word here.
+- 'That is outrageous! Lyova, forgive me, please.' Ainura weighs in openly beside Senya and lands on "vozmutitelno" ("outrageous") as the key everyday word here.
+- 'I am very ashamed of this person.' Ainura counters lightly in this moment, without trying to dress up how she really feels.
+- 'Let me help. Do you want to invite her on a date?' Talking about a date beside Lyova, Ainura lands on "svidaniye" ("date") as the key everyday word here.
+- 'She does not even want to talk to me.' Lyova opens up earnestly at once and chooses "razgovarivat" ("to talk, to speak") so Ainura gets the point right away.
+- 'You write it down, and I will pass it along.' Ainura opens up briskly beside Lyova, letting the remark speak for itself.
+- 'At the same time I will explain why it all happened this way.' Ainura steps in dryly during the talk and puts the weight on "obyasnyu" ("I'll explain", from "obyasnit") as the exchange unfolds.
+- 'Never mind, write. Girls love taking a long time to get ready.' Emphasizing the girl right here, Ainura leans on "devushki" ("a girl", a form of "devushka") to give the remark its edge.

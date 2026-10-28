@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The last time I fought was in sixth grade.' Nikita replies briskly as they talk, without trying to dress up how he really feels.
-- 'Listen, I will talk to him myself.' Denis opens up boldly during the talk, leaving no doubt about where he stands.
-- 'Leave Katya alone and go away!' Denis features one colorful choice at once: "pokoye" means "peace" (from "pokoy"), giving the line its exact edge.
-- 'Are you those two clowns from the restaurant?' Nikita shapes the thought with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What did he just say about Katya?' Nikita probes calmly whether Denis really thought this through.
-- 'He said that we do not stand a chance.' Denis sharpens one clear detail in earnest: "skazal" means "said" (from "skazat"), giving the line its exact edge.
-- 'And he also called you big-eared!' Denis uses one concrete touch at once: "ushastym" means "big-eared" (from "ushastyy"), giving the line its exact edge.
-- 'Well let us try to settle this right now!' Nikita proceeds lightly without any doubt, testing Katya's reaction in the middle of the exchange.
-- 'Hey, leave him alone immediately!' Katya features this telling element toward Denis: "nemedlenno" means "immediately", and it carries the main weight of what Katya is saying.
-- 'Well, have you lost your minds completely here?' Katya sends this answer calmly now: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'You ganged up two against one person!' Katya fires back honestly across the room, so Denis knows she is not just making small talk.
-- 'Let us go quickly from here, my dear.' Katya reaches for one clear word with Nikita: "dorogoy" means "dear", and it carries the main weight of what Katya is saying.
+- 'The last time I fought was in sixth grade.' Bringing up the grade in the exchange, Nikita reaches for the Russian word "posledniy" ("last") right at the heart of the line.
+- 'Listen, I will talk to him myself.' Denis counters lightly toward Nikita, grounding the moment in plain reality.
+- 'Leave Katya alone and go away!' Highlighting the peace on the spot, Denis brings in "pokoye" ("peace", from "pokoy") as the key Russian word here.
+- 'Are you those two clowns from the restaurant?' Turning to the restaurant in this beat, Nikita links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What did he just say about Katya?' Nikita probes calmly where this conversation is heading next.
+- 'He said that we do not stand a chance.' Denis pushes back frankly in this beat and chooses "svetit" ("shines") so Nikita gets the point right away.
+- 'And he also called you big-eared!' Denis speaks briskly watching Nikita, making his position completely clear.
+- 'Well let us try to settle this right now!' Nikita weighs in lightly hearing Denis, testing Denis's reaction in the middle of the exchange.
+- 'Hey, leave him alone immediately!' Katya cuts in promptly beside Nikita and reaches for the Russian word "nemedlenno" ("immediately") right at the heart of the line.
+- 'Well, have you lost your minds completely here?' Reacting candidly before Nikita, Katya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'You ganged up two against one person!' Katya steps in honestly without a pause, bringing things back to earth after the buildup.
+- 'Let us go quickly from here, my dear.' Katya responds decisively in this beat and puts the emphasis on "dorogoy" ("dear") in the middle of the talk.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That was a really good movie.' Barinov puts this statement right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I nearly burst into tears at the end.' Vika answers evenly with a sigh, steering the talk right where she wants it.
-- 'I never would have guessed that you know how to cry.' Barinov leans on one memorable expression for Vika: "nikogda" means "never", and it carries the main weight of what Barinov is saying.
-- 'And why is that?' Vika brings that answer facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Because you are a head chef.' Barinov stands firm lightly in this moment, so Vika knows he is not just making small talk.
-- 'And we head chefs.' Vika directs the comment for Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Are tough guys.' Barinov aims that thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Listen, Viktor Petrovich, I am actually a woman.' Vika speaks openly to settle things, shifting the whole mood of the room in a single beat.
-- 'Yes, in case you have not managed to notice yet.' Barinov leans on one clear detail in earnest: "yeshche" means "still" (from "yeshchyo"), giving the line its exact edge.
-- 'Right alongside tough guys like that.' Vika answers earnestly beside Barinov, grounding the moment in plain reality.
-- 'By the way, I have wanted to ask you for a long time.' Barinov questions deadpan if there is more going on behind the scenes.
-- 'What kind of name is that for a restaurant?' Vika favors one clear choice right here: "nazvaniye" means "name, title", and it carries the main weight of what Vika is saying.
-- 'It simply means rainbow in Italian.' Barinov delivers that answer on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'That was a really good movie.' Checking on the movie before Vika, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I nearly burst into tears at the end.' Vika reacts evenly with a smile, testing Barinov's reaction in the middle of the exchange.
+- 'I never would have guessed that you know how to cry.' Barinov speaks up candidly in front of Vika and chooses "nikogda" ("never") so Vika gets the point right away.
+- 'And why is that?' Looking over candidly in front of Barinov, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Because you are a head chef.' Barinov counters lightly with Vika, steering the talk right where he wants it.
+- 'And we head chefs.' Opening up smoothly around Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Are tough guys.' Describing how strong things are in this beat, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Listen, Viktor Petrovich, I am actually a woman.' Vika steps in openly with a shrug, to clear the air between them once and for all.
+- 'Yes, in case you have not managed to notice yet.' Barinov answers dryly in this beat and lands on "zametit" ("to notice, spot") as the key everyday word here.
+- 'Right alongside tough guys like that.' Focusing on the kids around Barinov, Vika lands on "rebyatami" ("kids, guys", built on "rebyata") to keep the statement grounded.
+- 'By the way, I have wanted to ask you for a long time.' Barinov questions deadpan what Vika is actually getting at here.
+- 'What kind of name is that for a restaurant?' Addressing the name in the exchange, Vika leans on "nazvaniye" ("name, title") to give the whole sentence its punch.
+- 'It simply means rainbow in Italian.' Pointing to the colour on the spot, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.

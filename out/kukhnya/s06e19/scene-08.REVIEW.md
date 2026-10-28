@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'After all, you love her.' Kostya points to one memorable detail right here: "lyubish" means "love" (from "lyubit"), giving the line its exact edge.
-- 'I do, and what does that mean?' Denis wonders wryly where this conversation is heading next.
-- 'We must ruin this wedding.' Kostya highlights one vivid detail toward Denis: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
-- 'I agree, but how?' Denis phrases that point to Sveta: putting the question word "kak" right at the front of the line lets Sveta hear the point of the question on the very first beat.
-- 'We can steal her wedding dress.' Kostya proceeds decisively to settle things, testing Denis's reaction in the middle of the exchange.
-- 'They stole my wedding dress!' Denis stresses one pointed detail in earnest: "svadebnoye" means "wedding" (from "svadebnyy"), giving the line its exact edge.
-- 'Or we can steal Katya herself.' Kostya holds firm lightly around Denis, without trying to dress up how he really feels.
-- 'We will just take her without the wedding dress.' Kostya follows up right away on the spot, bringing things back to earth after the buildup.
-- 'Did you understand me, my friend?' Denis frames this vivid touch with Kostya: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'Hi, did your bachelorette party go well?' Sveta gives that reply toward Kostya: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Oh yes, everything went fine.' Denis jumps in earnestly to settle things, watching Kostya's face to see how the news lands.
-- 'Then get in, I will give you a ride.' Sveta centers one concrete word toward Kostya: "sadites" means "sit down" (from "saditsya"), giving the line its exact edge.
+- 'After all, you love her.' Kostya counters openly across the room, testing Denis's reaction in the middle of the exchange.
+- 'I do, and what does that mean?' Denis wonders wryly whether Kostya really thought this through.
+- 'We must ruin this wedding.' Bringing up the wedding with Denis, Kostya reaches for the Russian word "dolzhny" ("must, should", built from "dolzhen") right at the center of the line.
+- 'I agree, but how?' Turning dryly in the exchange, Denis puts the question word "kak" right at the start so Kostya hears the focus immediately.
+- 'We can steal her wedding dress.' Kostya speaks up decisively hearing Denis, letting the remark speak for itself.
+- 'They stole my wedding dress!' Bringing up the dress in the exchange, Denis puts the weight on "svadebnoye" ("wedding", from "svadebnyy") as the exchange unfolds.
+- 'Or we can steal Katya herself.' Kostya continues directly on the spot and uses "svorovat" ("to steal") to carry the main weight of the thought.
+- 'We will just take her without the wedding dress.' Kostya cuts in right away without any doubt, without trying to dress up how he really feels.
+- 'Did you understand me, my friend?' Touching on his friend before Sveta, Denis leans on "drug" ("friend") to give the whole sentence its punch.
+- 'Hi, did your bachelorette party go well?' Focusing on the bachelorette party on the spot, Sveta keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'Oh yes, everything went fine.' Denis replies earnestly with Sveta, leaving no doubt about where he stands.
+- 'Then get in, I will give you a ride.' Sveta continues briskly during the talk and leans on "sadites" ("sit down", a form of "saditsya") to give the remark its edge.

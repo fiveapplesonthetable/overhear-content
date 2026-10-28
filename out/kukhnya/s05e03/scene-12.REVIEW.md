@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing in my room?' Nagiyev presses wryly while looking straight at Barinov here.
-- 'Excuse me, please, I cannot wait.' Mikhail stresses one key detail in reply: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Give me just five minutes.' Mikhail steps in lightly with a smile, steering the talk right where he wants it.
-- 'Get out of here, I told you!' Nagiyev weighs in dryly hearing Mikhail, refusing to let the moment slip past.
-- 'Did Barinov decide to take revenge on me like this?' Nagiyev centers one sharp word at once: "otomstit" means "to take revenge", and it carries the main weight of what Nagiyev is saying.
-- 'You cannot be trusted with anything.' Mikhail delivers this point to Nagiyev: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'Do we have girls of easy virtue?' Mikhail questions firmly whether Barinov really thought this through.
-- 'Go upstairs to the room right now.' Mikhail anchors this vivid touch on cue: "podnimis" means "go upstairs" (from "podnyatsya"), giving the line its exact edge.
-- 'What are you doing here in my office?' Barinov phrases that thought facing Mikhail: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Know that this is my revenge.' Nagiyev counters wryly to settle things, to clear the air between them once and for all.
-- 'It is a dish that is served cold.' Nagiyev highlights this direct element with Barinov: "kholodnym" means "cold, chilly" (from "kholodnyy"), giving the line its exact edge.
-- 'And I warmed it up for you.' Nagiyev points to one key piece in earnest: "razogrel" means "warmed up" (from "razogret"), giving the line its exact edge.
-- 'Wait, did you kill my Arkady?!' Barinov challenges firmly to see how Mikhail will answer on the spot.
-- 'I am eating poorly, I should go see a doctor.' Nagiyev sharpens one colorful word on cue: "vrachu" means "the doctor" (from "vrach"), giving the line its exact edge.
+- 'What are you doing in my room?' Nagiyev presses wryly to see how Mikhail will answer on the spot.
+- 'Excuse me, please, I cannot wait.' Mikhail directly speaks this polite apology beside Nagiyev using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Give me just five minutes.' Emphasizing the minutes right here, Mikhail leans on "minut" ("minutes", a form of "minuta") to give the remark its edge.
+- 'Get out of here, I told you!' Nagiyev speaks up dryly without holding back, to clear the air between them once and for all.
+- 'Did Barinov decide to take revenge on me like this?' Nagiyev speaks up directly to Mikhail and centers the remark on "otomstit" ("to take revenge") without any extra fuss.
+- 'You cannot be trusted with anything.' Stepping in openly around Nagiyev, Mikhail leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'Do we have girls of easy virtue?' Mikhail questions firmly why things suddenly took this turn between them.
+- 'Go upstairs to the room right now.' Focusing on the number before Barinov, Mikhail leans on "podnimis" ("go upstairs", a form of "podnyatsya") to give the remark its edge.
+- 'What are you doing here in my office?' Turning calmly to Nagiyev, Barinov puts the question word "chto" right at the start so Nagiyev hears the focus immediately.
+- 'Know that this is my revenge.' Nagiyev speaks wryly without a pause, refusing to let the moment slip past.
+- 'It is a dish that is served cold.' Describing how cold things are before Barinov, Nagiyev brings in "kholodnym" ("cold, chilly", from "kholodnyy") as the key Russian word here.
+- 'And I warmed it up for you.' Nagiyev counters evenly with a nod, leaving no doubt about where he stands.
+- 'Wait, did you kill my Arkady?!' Barinov challenges firmly while looking straight at Nagiyev here.
+- 'I am eating poorly, I should go see a doctor.' Underscoring a doctor around Barinov, Nagiyev centers the thought on "vrachu" ("the doctor", from "vrach") without wasting a word.

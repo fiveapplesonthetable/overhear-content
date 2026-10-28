@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have two pieces of news, and both are good.' Nagiyev chimes in decisively before German, saying out loud what both of them already know.
-- 'After the assassination attempt, I survived.' Nagiyev uses one colorful expression in reply: "pokusheniya" means "assassination", and it carries the main weight of what Nagiyev is saying.
-- 'Our restaurant has finally found a spiritual leader.' Nagiyev speaks up quietly beside German, keeping the focus on what actually matters here.
-- 'Please welcome and respect him.' Nagiyev continues firmly as they talk, without trying to dress up how he really feels.
-- 'German Mikhailovich.' Nagiyev brings the comeback without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'The new head chef of our restaurant.' Nagiyev lays out that remark in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Thank you, Dmitry Vladimirovich.' German answers firmly on the spot, so Nagiyev knows he is not just making small talk.
-- 'I hope to live up to your high trust.' German highlights one familiar expression in earnest: "vysokoye" means "high" (from "vysokiy"), giving the line its exact edge.
-- 'Let's come to an agreement right away.' German makes that remark for Nagiyev: the word "davayte" is the polite or group version of "let's", inviting Nagiyev into the plan right away.
-- 'You do not have to love me.' German stands firm bluntly across the room, testing Nagiyev's reaction in the middle of the exchange.
-- 'But making friends with me is certainly worth it.' German features one clear detail in earnest: "podruzhitsya" means "to make friends", and it carries the main weight of what German is saying.
-- 'Good day to everyone. Back to work.' German stands firm promptly with Nagiyev, making his position completely clear.
+- 'I have two pieces of news, and both are good.' Nagiyev opens up decisively with German, bringing things back to earth after the buildup.
+- 'After the assassination attempt, I survived.' Mentioning the assassination on the spot, Nagiyev uses "pokusheniya" ("assassination") to carry the main weight of the thought.
+- 'Our restaurant has finally found a spiritual leader.' Turning to his restaurant in front of German, Nagiyev leans on "dukhovnogo" ("leader", a form of "dukhovnyy") to give the remark its edge.
+- 'Please welcome and respect him.' Nagiyev cuts in firmly facing German, grounding the moment in plain reality.
+- 'German Mikhailovich.' Replying dryly to German, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'The new head chef of our restaurant.' Discussing the new head in front of German, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Thank you, Dmitry Vladimirovich.' German openly offers this polite thanks beside Nagiyev using "blagodaryu" ("I thank you") — literally "I give thanks", a slightly more formal way to say thank you than "spasibo".
+- 'I hope to live up to your high trust.' Bringing up the trust around Nagiyev, German centers the thought on "vysokoye" ("high", from "vysokiy") without wasting a word.
+- 'Let's come to an agreement right away.' Answering firmly around Nagiyev, German uses the polite or group form "davayte" ("let's") to bring Nagiyev into the plan.
+- 'You do not have to love me.' German speaks bluntly without holding back, steering the talk right where he wants it.
+- 'But making friends with me is certainly worth it.' German cuts in vividly in the exchange and leans on "podruzhitsya" ("to make friends") to give the whole sentence its punch.
+- 'Good day to everyone. Back to work.' Underscoring the job at once, German uses "dobrogo" ("good", from "dobryy") to make the point stick.

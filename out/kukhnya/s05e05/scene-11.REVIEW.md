@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You promised, after all.' Kostya offers this statement briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Come in one by one, behave calmly.' The doctor follows up quietly without holding back, saying out loud what both of them already know.
-- 'The atmosphere here is tense enough already.' The doctor anchors this sharp touch in reply: "obstanovka" means "atmosphere", and it carries the main weight of what the doctor is saying.
-- 'How are you doing, is everything fine?' The doctor delivers that remark to Max: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Now then, where are you going?' The doctor quizzes openly how Kostya expects that to work in practice.
-- 'You still have to look at this your whole life.' The doctor colors one direct detail in earnest: "yeshchyo" means "more, still", and it carries the main weight of what the doctor is saying.
-- 'Quiet, quiet, we breathe.' The doctor aims this point without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Good job, good job, we breathe.' The doctor responds boldly to settle things, shifting the whole mood of the room in a single beat.
-- 'I need to talk with the doctor.' Max stresses one memorable detail toward the doctor: "pogovorit" means "to talk", and it carries the main weight of what Max is saying.
-- 'Step closer, do not be shy.' The doctor shapes this line without pause: the "-sya" ending on "stesnyayemsya" ("are shy, hesitate") turns the action inward or makes it happen between people naturally.
-- 'I suddenly started feeling dizzy.' Max replies bluntly beside the doctor, letting the remark speak for itself.
-- 'Help him up quickly!' The doctor grounds one pointed element on cue: "podnimite" means "lift up, help up" (from "podnyat"), giving the line its exact edge.
+- 'You promised, after all.' Holding firm boldly in front of the doctor, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Come in one by one, behave calmly.' The doctor pushes back quietly hearing Kostya, to clear the air between them once and for all.
+- 'The atmosphere here is tense enough already.' Emphasizing the atmosphere in this beat, the doctor uses "obstanovka" ("atmosphere") to carry the main weight of the thought.
+- 'How are you doing, is everything fine?' Looking over warmly before Kostya, the doctor uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Now then, where are you going?' The doctor quizzes openly if there is more going on behind the scenes.
+- 'You still have to look at this your whole life.' Focusing on the life with Max, the doctor centers the remark on "yeshchyo" ("more, still") without any extra fuss.
+- 'Quiet, quiet, we breathe.' Weighing in openly with Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Good job, good job, we breathe.' The doctor answers boldly watching Max, making his position completely clear.
+- 'I need to talk with the doctor.' Touching on the doctor at once, Max reaches for the Russian word "vrachom" ("doctor", built from "vrach") right at the center of the line.
+- 'Step closer, do not be shy.' Cutting in promptly to Max, the "-sya" ending on "stesnyayemsya" ("are shy, hesitate") marks an action that unfolds mutually or turns back on the speaker.
+- 'I suddenly started feeling dizzy.' Max jumps in bluntly with a smile, watching the doctor's face to see how the news lands.
+- 'Help him up quickly!' The doctor cuts in candidly in the exchange and brings in "podnimite" ("lift up, help up", from "podnyat") as the key Russian word here.

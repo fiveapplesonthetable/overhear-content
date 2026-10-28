@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need a private room right now.' Max proceeds wryly as things stand, steering the talk right where he wants it.
-- 'We do not need a tour of the maternity hospital.' Max stresses one familiar element in reply: "ekskursiya" means "field trip", and it carries the main weight of what Max is saying.
-- 'Young man, do not be rude, here is your ward.' The doctor fires back calmly with a nod, grounding the moment in plain reality.
-- 'Are you simply mocking us?' Max prompts frankly about what Vika just brought up.
-- 'Right now all pre-delivery rooms are occupied.' The doctor focuses on one loaded touch toward Max: "predrodovyye" means "pre-delivery" (from "predrodovoy"), giving the line its exact edge.
-- 'My wife will not lie in the corridor.' Max cuts in boldly with a nod, leaving no doubt about where he stands.
-- 'Call the head doctor here, please.' Max opens up briskly as things stand, testing the doctor's reaction in the middle of the exchange.
-- 'He is delivering a difficult birth right now.' The doctor points to one classic touch on cue: "slozhnyye" means "complicated" (from "slozhnyy"), giving the line its exact edge.
-- 'Half of Moscow is giving birth here today.' The doctor brings that remark with candor: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Max, forgive me for this morning.' Vika reacts wryly without holding back, keeping the focus on what actually matters here.
-- 'Let me help you right now.' Max points to one telling element in earnest: "seychas" means "now", and it carries the main weight of what Max is saying.
-- 'Thank you so much, my dear.' Vika shapes this line right away: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'We need a private room right now.' Max replies wryly with a sigh, without trying to dress up how he really feels.
+- 'We do not need a tour of the maternity hospital.' Mentioning the field trip with the doctor, Max leans on "ekskursiya" ("field trip") to give the whole sentence its punch.
+- 'Young man, do not be rude, here is your ward.' Explaining how young things are before Max, the doctor leans on "molodoy" ("young") to give the whole sentence its punch.
+- 'Are you simply mocking us?' Max prompts frankly why things suddenly took this turn between them.
+- 'Right now all pre-delivery rooms are occupied.' Confirming how busy things are at once, the doctor chooses "predrodovyye" ("pre-delivery", from the root "predrodovoy") so Max hears the exact meaning.
+- 'My wife will not lie in the corridor.' Highlighting the corridor on the spot, Max brings in "koridore" ("corridor", from "koridor") as the key Russian word here.
+- 'Call the head doctor here, please.' Max evenly delivers this courtesy word beside the doctor using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'He is delivering a difficult birth right now.' Making clear how complicated he is in the exchange, the doctor centers the thought on "slozhnyye" ("complicated", from "slozhnyy") without wasting a word.
+- 'Half of Moscow is giving birth here today.' Pointing to the half around Vika, the doctor reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Max, forgive me for this morning.' Vika continues wryly without holding back, testing Max's reaction in the middle of the exchange.
+- 'Let me help you right now.' Max opens up vividly to Vika and centers the thought on "pomogu" ("I'll help", from "pomoch") without wasting a word.
+- 'Thank you so much, my dear.' Vika warmly speaks this word of thanks in front of Max using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, wait, I lied to you.' Gulya features one familiar term in earnest: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'I just got very scared back then.' Gulya gives that point without pause: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'In fact, I do not have a husband.' Gulya speaks evenly on the spot, without trying to dress up how she really feels.
-- 'And I do not have children either.' Gulya picks one pointed expression in reply: "detey" means "children" (from "rebyonok"), giving the line its exact edge.
-- 'Really? So you are not married at all?' Lyova frames that answer before Gulya: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'No, I am single and very glad.' Gulya cuts in candidly with a nod, steering the talk right where she wants it.
-- 'What a delicious treat we dropped here!' Lyova underscores one memorable touch on cue: "vkusnyatinu" means "delicious treat" (from "vkusnyatina"), giving the line its exact edge.
-- 'Vitya, you do not need to explain anything to me.' Tanya directs that answer at once: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'I do not want to find out what happened here.' Tanya stands firm lightly as they talk, making her position completely clear.
-- 'Make sure everything is ready by Vika's arrival.' Tanya frames one memorable expression at once: "priyezdu" means "arrival" (from "priyezd"), giving the line its exact edge.
-- 'Tanya, we will definitely get everything done here.' Lyova responds right away to settle things, without trying to dress up how he really feels.
-- 'I firmly promise you that.' Lyova pushes back decisively as they talk, watching Tanya's face to see how the news lands.
+- 'Lyova, wait, I lied to you.' Gulya chimes in earnestly with Lyova and lands on "podozhdi" ("wait", built on "podozhdat") to keep the statement grounded.
+- 'I just got very scared back then.' Weighing in calmly beside Lyova, Gulya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'In fact, I do not have a husband.' Gulya fires back evenly toward Lyova, steering the talk right where she wants it.
+- 'And I do not have children either.' Focusing on the children beside Lyova, Gulya uses "detey" ("children", from "rebyonok") to make the point stick.
+- 'Really? So you are not married at all?' Returning to the honestly during the talk, Lyova adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'No, I am single and very glad.' Gulya continues candidly in this moment, testing Lyova's reaction in the middle of the exchange.
+- 'What a delicious treat we dropped here!' Emphasizing a delicious treat to Gulya, Lyova centers the thought on "vkusnyatinu" ("delicious treat", from "vkusnyatina") without wasting a word.
+- 'Vitya, you do not need to explain anything to me.' Answering calmly in this beat, Tanya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I do not want to find out what happened here.' Tanya proceeds lightly in their talk, keeping the focus on what actually matters here.
+- 'Make sure everything is ready by Vika's arrival.' Mentioning the arrival at once, Tanya reaches for the Russian word "priyezdu" ("arrival", built from "priyezd") right at the center of the line.
+- 'Tanya, we will definitely get everything done here.' Lyova answers openly in this beat and leans on "obyazatelno" ("surely, without fail") to give the whole sentence its punch.
+- 'I firmly promise you that.' Lyova cuts in decisively without holding back, grounding the moment in plain reality.

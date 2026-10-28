@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Calm down! Get out of here.' Max voices that answer calmly now: the "-sya" ending on "uspokoysya" ("calm down") turns the action inward or makes it happen between people naturally.
-- 'The examination results showed that the level is also low.' Nagiyev stands firm candidly without any doubt, bringing things back to earth after the buildup.
-- 'So you mean to say...' Vika spotlights one loaded touch right here: "khotite" means "want" (from "khotet"), giving the line its exact edge.
-- 'You need to have a baby in the next two years, otherwise it will be difficult later.' Nagiyev states the remark briskly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Guys, Dmitry Vladimirovich asked for aspic out there.' Max stands firm pointedly beside Nagiyev, watching Nagiyev's face to see how the news lands.
-- 'Who will prepare it?' Max leans on one pointed piece at once: "prigotovit" means "makes, cooks", and it carries the main weight of what Max is saying.
-- 'How? We are clumsy, after all! We don't know how to cook.' Nagiyev makes that line without fuss: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Especially since it is not from the menu.' Nagiyev fires back sharply with a shrug, without trying to dress up how he really feels.
-- 'Guys, come on, forgive me, I was wrong.' Max centers one colorful piece in reply: "rebyata" means "the boys, the lads", and it carries the main weight of what Max is saying.
-- 'All right, we will help.' Nagiyev directs that remark with candor: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.
-- 'Give me the receipt. What, no receipt?' Nagiyev challenges candidly as Max tries to explain the situation.
-- 'Well sorry, no receipt, no dish.' Nagiyev picks one concrete word toward Vika: "blyuda" means "of dish" (from "blyudo"), giving the line its exact edge.
+- 'Calm down! Get out of here.' Pressing on warmly in front of Nagiyev, the "-sya" ending on "uspokoysya" ("calm down") marks an action that unfolds mutually or turns back on the speaker.
+- 'The examination results showed that the level is also low.' Nagiyev jumps in candidly across the room, letting the remark speak for itself.
+- 'So you mean to say...' Vika continues lightly with a sigh, letting the remark speak for itself.
+- 'You need to have a baby in the next two years, otherwise it will be difficult later.' Reacting firmly during the talk, Nagiyev leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Guys, Dmitry Vladimirovich asked for aspic out there.' Addressing the aspic without a pause, Max puts the real issue right on the table for Nagiyev.
+- 'Who will prepare it?' Max speaks boldly in this beat and centers the remark on "prigotovit" ("makes, cooks") without any extra fuss.
+- 'How? We are clumsy, after all! We don't know how to cook.' Stressing how clumsy things are at once, Nagiyev puts the question word "kak" right at the start so Max hears the focus immediately.
+- 'Especially since it is not from the menu.' Nagiyev speaks sharply with a sigh, shifting the mood of the conversation in a single beat.
+- 'Guys, come on, forgive me, I was wrong.' Highlighting the boys around Nagiyev, Max uses "rebyata" ("the boys, the lads") to carry the main weight of the thought.
+- 'All right, we will help.' Nagiyev lightly delivers this word of agreement in the exchange using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Give me the receipt. What, no receipt?' Nagiyev challenges candidly before Max can change the subject.
+- 'Well sorry, no receipt, no dish.' Pointing to the dish before Max, Nagiyev leans on "blyuda" ("of dish", a form of "blyudo") to give the remark its edge.

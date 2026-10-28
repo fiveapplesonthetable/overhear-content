@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My signature omelet.' Max uses one direct term in reply: "firmennyy" means "signature", and it carries the main weight of what Max is saying.
-- 'I only looked away for a second.' Kostya makes this answer right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Who is that?' Sasha inquires eagerly what Kostya is actually getting at here.
-- 'Give me two thousand rubles.' Max anchors this clear choice in earnest: "tysyachi" means "thousands" (from "tysyacha"), giving the line its exact edge.
-- 'Two thousand rubles.' Kostya lays out the comment beside Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Who called?' Sasha wonders bluntly in front of Max without any preamble.
-- 'My mom called.' Max highlights one concrete touch for Kostya: "zvonila" means "called" (from "zvonit"), giving the line its exact edge.
-- 'Once again she wanted to ask about the wedding.' Kostya speaks up sharply to be clear, keeping the focus on what actually matters here.
-- 'Well, I will call her back later.' Sasha counters promptly with a shrug, shifting the whole mood of the room in a single beat.
-- 'Is everything alright?' Max stresses one telling choice on cue: "normalno" means "fine, OK", and it carries the main weight of what Max is saying.
-- 'Look, just look at this.' Kostya shapes the thought around Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Yesterday I killed a moth in the closet.' Sasha jumps in openly hearing Max, watching Max's face to see how the news lands.
-- 'Do I have to pay money for that moth now too?' Max centers one loaded touch in reply: "dengi" means "money", and it carries the main weight of what Max is saying.
+- 'My signature omelet.' Mentioning the omelette around Kostya, Max chooses "firmennyy" ("signature") so Kostya gets the point right away.
+- 'I only looked away for a second.' Focusing on a second at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Who is that?' Sasha inquires eagerly to see how Max will answer on the spot.
+- 'Give me two thousand rubles.' Emphasizing the thousands in front of Sasha, Max leans on "tysyachi" ("thousands", a form of "tysyacha") to give the remark its edge.
+- 'Two thousand rubles.' Addressing the thousands with Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Who called?' Sasha wonders bluntly to see how Max will answer on the spot.
+- 'My mom called.' Bringing up the mum right here, Max centers the remark on "mama" ("mum, mother") without any extra fuss.
+- 'Once again she wanted to ask about the wedding.' Kostya pushes back quietly in this beat and reaches for the Russian word "ocherednoy" ("another, next") right at the heart of the line.
+- 'Well, I will call her back later.' Sasha steps in promptly around Kostya, keeping the focus on what actually matters here.
+- 'Is everything alright?' Max reacts pointedly at once and chooses "normalno" ("fine, OK") so Kostya gets the point right away.
+- 'Look, just look at this.' Opening up naturally beside Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Yesterday I killed a moth in the closet.' Sasha speaks openly without a pause, letting the remark speak for itself.
+- 'Do I have to pay money for that moth now too?' Turning to the money to Sasha, Max centers the remark on "dengi" ("money") without any extra fuss.

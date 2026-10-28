@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Dad, is it convenient for you to talk right now?' Katya brings that thought plainly here: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'All right, Dad, I was wrong.' Katya answers right away around Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'I admit it, he did not cheat on me.' Katya uses one vivid element at once: "priznayu" means "to admit, to recognise" (from "priznavat"), giving the line its exact edge.
-- 'There is nothing between him and Vika.' Katya frames the remark to Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I told you that right from the start.' Barinov follows up lightly toward Katya, grounding the moment in plain reality.
-- 'Denis really is a good guy.' Barinov underscores this sharp choice toward Katya: "khoroshiy" means "good", and it carries the main weight of what Barinov is saying.
-- 'Just spare me your male solidarity.' Katya phrases this statement with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'All right, sweetheart, what do you think yourself?' Barinov questions eagerly how Katya expects that to work in practice.
-- 'What do you think, should I forgive him?' Katya leans on one colorful piece on cue: "dumayesh" means "think" (from "dumat"), giving the line its exact edge.
-- 'You know, I am a poor adviser for you right now.' Barinov uses one loaded touch with Katya: "sovetchik" means "right", and it carries the main weight of what Barinov is saying.
-- 'My own life is a complete mess.' Barinov opens up at once beside Katya, to clear the air between them once and for all.
-- 'All right, I will not distract you, bye.' Katya anchors one colorful expression at once: "otvlekat" means "to distract", and it carries the main weight of what Katya is saying.
+- 'Hello, Dad, is it convenient for you to talk right now?' Replying warmly with Barinov, Katya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'All right, Dad, I was wrong.' Katya cuts in right away with a sigh, grounding the moment in plain reality.
+- 'I admit it, he did not cheat on me.' Katya speaks dryly with Barinov and uses "priznayu" ("to admit, to recognise", from "priznavat") to make the point stick.
+- 'There is nothing between him and Vika.' Holding firm calmly at once, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I told you that right from the start.' Barinov cuts in lightly hearing Katya, without trying to dress up how he really feels.
+- 'Denis really is a good guy.' Explaining how good things are in the exchange, Barinov uses "khoroshiy" ("good") to carry the main weight of the thought.
+- 'Just spare me your male solidarity.' Turning plainly with Barinov, Katya starts with "davay" ("come on, let's") to invite Barinov right into the action.
+- 'All right, sweetheart, what do you think yourself?' Barinov questions eagerly to see how Katya will answer on the spot.
+- 'What do you think, should I forgive him?' Katya follows up evenly with Barinov and puts the emphasis on "prostit" ("forgive") in the middle of the talk.
+- 'You know, I am a poor adviser for you right now.' Barinov jumps in decisively facing Katya, steering the talk right where he wants it.
+- 'My own life is a complete mess.' Barinov pushes back at once during the talk, before Katya can change the subject.
+- 'All right, I will not distract you, bye.' Katya jumps in decisively around Barinov and reaches for the Russian word "otvlekat" ("to distract") right at the heart of the line.

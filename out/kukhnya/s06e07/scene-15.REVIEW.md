@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, Aunt Ainura, we have already talked.' Gulya stands firm plainly with a sigh, making her position completely clear.
-- 'Hello, yes, mom, I am listening to you.' Lyova centers one direct touch on cue: "slushayu" means "I'm listening" (from "slushat"), giving the line its exact edge.
-- 'Yes, I remember, you are leaving for the dacha.' Lyova favors one classic choice at once: "uyezzhayesh" means "are leaving" (from "uyezzhat"), giving the line its exact edge.
-- 'In exactly an hour I will already be home.' Lyova follows up warmly with a shrug, without trying to dress up how he really feels.
-- 'Did you give him your farewell kiss?' The doctor features one clear choice in earnest: "proshchalnyy" means "farewell", and it carries the main weight of what the doctor is saying.
-- 'No, I simply cannot abandon him.' Gulya states the thought without pause: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'If I am going to give something, it will be more than a kiss.' Gulya holds firm right away without a pause, leaving no doubt about where she stands.
-- 'Hello, Lena, hi, can you talk?' The doctor features one key touch with Lyova: "mozhesh" means "can" (from "moch"), giving the line its exact edge.
-- 'Perhaps this is none of my business at all.' The doctor gives that point with candor: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'But I just saw your Victor.' Gulya follows up openly without a pause, so Lyova knows she is not just making small talk.
-- 'I do not even know how to tell you.' The doctor points to this vivid touch right here: "skazat" means "tell", and it carries the main weight of what the doctor is saying.
-- 'Let us go quickly to my place while mom is away.' Lyova opens up candidly with a sigh, to clear the air between them once and for all.
+- 'Thank you, Aunt Ainura, we have already talked.' Gulya steps in plainly in this moment, so Lyova knows she is not just making small talk.
+- 'Hello, yes, mom, I am listening to you.' Turning to the mum around Gulya, Lyova uses "slushayu" ("I'm listening", from "slushat") to make the point stick.
+- 'Yes, I remember, you are leaving for the dacha.' Lyova speaks up steadily watching Gulya, watching Gulya's face to see how the news lands.
+- 'In exactly an hour I will already be home.' Raising an hour during the talk, Lyova brings the exchange with the doctor back to practical reality.
+- 'Did you give him your farewell kiss?' The doctor cuts in quietly in the exchange and lands on "proshchalnyy" ("farewell") as the key everyday word here.
+- 'No, I simply cannot abandon him.' Speaking warmly beside the doctor, Gulya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'If I am going to give something, it will be more than a kiss.' Gulya responds right away toward the doctor, making her position completely clear.
+- 'Hello, Lena, hi, can you talk?' The doctor follows up boldly right here and reaches for the Russian word "govorit" ("to talk") right at the heart of the line.
+- 'Perhaps this is none of my business at all.' Dwelling on the matter right here, the doctor adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'But I just saw your Victor.' Gulya opens up openly without a pause, to clear the air between them once and for all.
+- 'I do not even know how to tell you.' The doctor cuts in honestly with a shrug, refusing to let the moment slip past.
+- 'Let us go quickly to my place while mom is away.' Emphasizing the mum in the exchange, Lyova brings in "uyekhala" ("left, drove away", from "uyekhat") as the key Russian word here.

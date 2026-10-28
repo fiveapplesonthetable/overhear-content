@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, because of the accident everything is getting better for us.' Denis directs that thought at once: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Did you really ask her for forgiveness?' Kostya inquires earnestly whether Eleonora really thought this through.
-- 'Yes, and she listened to me calmly.' Denis reaches for this key touch in earnest: "vyslushala" means "to listen to" (from "vyslushat"), giving the line its exact edge.
-- 'Then I congratulate you from the bottom of my heart.' Kostya points to one practical touch for Eleonora: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
-- 'Why is there no music in the hall at all?' Following up with urgency, Eleonora lets Denis know there is no turning back now.
-- 'Excuse me, I will quickly start playing right now.' Denis chooses one vivid element in earnest: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Maybe you will play with two hands for the owner's sake?' Eleonora lays out the comeback with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'Play more lively, otherwise we will fall asleep here.' Eleonora responds steadily around Kostya, before Kostya can change the subject.
-- 'Forgive me, I got into an accident this morning.' Denis favors one telling piece on cue: "avariyu" means "accident, crash" (from "avariya"), giving the line its exact edge.
-- 'If you cannot work properly, then leave.' Eleonora answers calmly with a smile, refusing to let the moment slip past.
-- 'You are fired, I do not need such musicians.' Eleonora fires back decisively toward Denis, bringing things back to earth after the buildup.
-- 'Eleonora Andreevna, after all this is completely unfair.' Kostya favors this key expression on cue: "nespravedlivo" means "unfairly", and it carries the main weight of what Kostya is saying.
-- 'And life in general is a very unfair thing!' Eleonora delivers this update at once: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Kostya, because of the accident everything is getting better for us.' Turning to the accident around Kostya, Denis reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Did you really ask her for forgiveness?' Kostya inquires earnestly about what Denis just brought up.
+- 'Yes, and she listened to me calmly.' Denis opens up boldly on the spot and brings in "vyslushala" ("to listen to", from "vyslushat") as the key Russian word here.
+- 'Then I congratulate you from the bottom of my heart.' Kostya speaks up right away in their talk, steering the talk right where he wants it.
+- 'Why is there no music in the hall at all?' Addressing the hall with Denis, Eleonora speaks plainly so Denis gets the message at once.
+- 'Excuse me, I will quickly start playing right now.' Denis cuts in frankly with Eleonora and brings in "izvinite" ("sorry, excuse me", from "izvinit") as the key Russian word here.
+- 'Maybe you will play with two hands for the owner's sake?' Turning firmly in front of Denis, Eleonora keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'Play more lively, otherwise we will fall asleep here.' Eleonora pushes back steadily during the talk, before Denis can change the subject.
+- 'Forgive me, I got into an accident this morning.' Discussing an accident at once, Denis lands on "avariyu" ("accident, crash", built on "avariya") to keep the statement grounded.
+- 'If you cannot work properly, then leave.' Eleonora replies smoothly with Denis and puts the emphasis on "normalno" ("fine, OK") in the middle of the talk.
+- 'You are fired, I do not need such musicians.' Eleonora speaks decisively with Kostya, without trying to dress up how she really feels.
+- 'Eleonora Andreevna, after all this is completely unfair.' Kostya reacts candidly with Eleonora and reaches for the Russian word "nespravedlivo" ("unfairly") right at the heart of the line.
+- 'And life in general is a very unfair thing!' Stressing how unfair things are before Kostya, Eleonora drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.

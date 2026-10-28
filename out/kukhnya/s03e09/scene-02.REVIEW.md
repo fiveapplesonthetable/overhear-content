@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Of course you can, let us go cure our hangover.' Barinov puts the thought calmly now: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Hello, Nastya has a day off today.' Kostya holds firm sharply with a smile, saying out loud what both of them already know.
-- 'I can see that she has a day off.' Max leans on one sharp choice for Barinov: "vykhodnoy" means "a day off", and it carries the main weight of what Max is saying.
-- 'I came specifically to see you.' Max colors one telling term toward Kostya: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
-- 'Then I am listening to you carefully.' Kostya continues briskly hearing Barinov, shifting the whole mood of the room in a single beat.
-- 'This is none of my business, of course.' Max sharpens one classic touch right here: "konechno" means "of course", and it carries the main weight of what Max is saying.
-- 'Are you planning to marry Nastya?' Max shares that thought without pause: the "-sya" ending on "sobirayeshsya" ("plan") turns the action inward or makes it happen between people naturally.
-- 'Of course, we will definitely get married.' Kostya jumps in wryly hearing Max, steering the talk right where he wants it.
-- 'And just when will that happen?' Max offers that thought toward Barinov: putting the question word "kogda" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Actually, we are saving up for the wedding right now.' Kostya lays out the reply before Max: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Of course you can, let us go cure our hangover.' Barinov casually speaks this confirmation as they meet using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Hello, Nastya has a day off today.' Kostya opens up sharply facing Max, letting the remark speak for itself.
+- 'I can see that she has a day off.' Addressing a day at once, Max uses "vykhodnoy" ("a day off") to carry the main weight of the thought.
+- 'I came specifically to see you.' Max responds promptly without holding back, to clear the air between them once and for all.
+- 'Then I am listening to you carefully.' Kostya reacts briskly without holding back, so Max knows he is not just making small talk.
+- 'This is none of my business, of course.' Highlighting the matter beside Kostya, Max brings in "konechno" ("of course") to make the meaning unmistakable.
+- 'Are you planning to marry Nastya?' Answering dryly during the talk, the "-sya" ending on "sobirayeshsya" ("plan") marks an action that unfolds mutually or turns back on the speaker.
+- 'Of course, we will definitely get married.' Kostya promptly speaks this confirmation without hesitation using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'And just when will that happen?' Reacting frankly with Kostya, Max puts the question word "kogda" right at the start so Kostya hears the focus immediately.
+- 'Actually, we are saving up for the wedding right now.' Discussing the wedding in the exchange, Kostya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
 - 'And could you not just ask me for it?' Max presses calmly if there is more going on behind the scenes.
-- 'We want to do everything ourselves.' Kostya highlights one loaded piece for Max: "khotim" means "want" (from "khotet"), giving the line its exact edge.
+- 'We want to do everything ourselves.' Kostya steps in earnestly at once and reaches for the Russian word "sdelat" ("to do") right at the heart of the line.

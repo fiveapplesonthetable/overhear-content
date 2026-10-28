@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, tell me, would you like anything today?' Kostya grounds one concrete word toward Barinov: "zhelayete" means "would you like" (from "zhelat"), giving the line its exact edge.
-- 'Kostya, well, what did she just order from you?' Barinov frames the thought to Kostya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Nothing yet, she is just sitting and waiting for someone.' Kostya continues boldly in this moment, saying out loud what both of them already know.
-- 'Eleonora, are you aware of who is sitting in the hall?' Barinov focuses on this clear element toward Kostya: "kurse" means "course, regimen" (from "kurs"), giving the line its exact edge.
-- 'Yes, and did Elena decide to moonlight with us today?' Eleonora puts the reaction calmly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Show me quickly, where is this guest sitting?' Eleonora tests straight out if there is more going on behind the scenes.
-- 'Wait, Vitya, that is not Friedman's wife!' Eleonora anchors this vivid term with Barinov: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'I have known her personally very well for many years.' Eleonora counters openly with a smile, watching Kostya's face to see how the news lands.
-- 'Well, that is his new young wife!' Barinov cuts in candidly in their talk, keeping the focus on what actually matters here.
-- 'So all those high-society rumors are the pure truth!' Eleonora spotlights one loaded piece at once: "svetskiye" means "high-society" (from "svetskiy"), giving the line its exact edge.
-- 'Then all the more reason to give her a warm welcome!' Eleonora shapes this line with candor: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Hello, Katya, I cannot talk right now.' Kostya chimes in evenly with a sigh, before Eleonora can change the subject.
+- 'Good evening, tell me, would you like anything today?' Discussing the evening during the talk, Kostya centers the remark on "dobryy" ("good") without any extra fuss.
+- 'Kostya, well, what did she just order from you?' Leaning in briskly around Kostya, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Nothing yet, she is just sitting and waiting for someone.' Kostya answers boldly across the room, keeping the focus on what actually matters here.
+- 'Eleonora, are you aware of who is sitting in the hall?' Turning to the course to Eleonora, Barinov chooses "kurse" ("course, regimen", from the root "kurs") so Eleonora hears the exact meaning.
+- 'Yes, and did Elena decide to moonlight with us today?' Answering evenly beside Barinov, Eleonora reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Show me quickly, where is this guest sitting?' Eleonora tests straight out how Barinov expects that to work in practice.
+- 'Wait, Vitya, that is not Friedman's wife!' Pointing to the wife before Barinov, Eleonora lands on "podozhdi" ("wait", built on "podozhdat") to keep the statement grounded.
+- 'I have known her personally very well for many years.' Eleonora proceeds evenly to Barinov and puts the emphasis on "prekrasno" ("perfectly") in the middle of the talk.
+- 'Well, that is his new young wife!' Mentioning the wife with a smile, Barinov keeps Eleonora's attention locked on what matters.
+- 'So all those high-society rumors are the pure truth!' Describing how clean things are at once, Eleonora brings in "svetskiye" ("high-society", from "svetskiy") as the key Russian word here.
+- 'Then all the more reason to give her a warm welcome!' Turning to the move to Kostya, Eleonora leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Hello, Katya, I cannot talk right now.' Kostya follows up evenly in their talk, so Eleonora knows he is not just making small talk.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not Arkady.' Elena holds firm briskly on the spot, without trying to dress up how she really feels.
-- 'This is a very private meeting.' Max emphasizes one familiar expression toward Elena: "lichnaya" means "personal" (from "lichnyy"), giving the line its exact edge.
-- 'Elena Pavlovna, it is me.' Max makes this answer before Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I have a surprise for you.' Max weighs in evenly around Elena, making his position completely clear.
-- 'And what is the surprise?' Elena frames this direct element right here: "syurpriz" means "surprise", and it carries the main weight of what Elena is saying.
-- 'That the restaurant is closed for the night?' Max delivers the reaction right away: putting the question word "chto" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'Exactly that.' Elena counters lightly around Max, testing Max's reaction in the middle of the exchange.
-- 'Excuse us. Hello.' Max leans on this vivid expression right here: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Right at the workplace.' Elena phrases the comeback in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'What a nightmare.' Max replies earnestly with Elena, testing Elena's reaction in the middle of the exchange.
-- 'Young people nowadays have no morals at all.' Elena colors one pointed detail toward Max: "amoralnaya" means "immoral" (from "amoralnyy"), giving the line its exact edge.
-- 'Turning a respectable restaurant.' Max frames that remark without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Into I do not know what.' Elena reacts plainly without a pause, letting the remark speak for itself.
+- 'Not Arkady.' Elena opens up briskly with a smile, steering the talk right where she wants it.
+- 'This is a very private meeting.' Insisting on how personal things are around Elena, Max reaches for the Russian word "lichnaya" ("personal", built from "lichnyy") right at the center of the line.
+- 'Elena Pavlovna, it is me.' Holding firm plainly on the spot, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I have a surprise for you.' Max proceeds evenly with a sigh, before Elena can change the subject.
+- 'And what is the surprise?' Bringing up the surprise during the talk, Elena reaches for the Russian word "syurpriz" ("surprise") right at the heart of the line.
+- 'That the restaurant is closed for the night?' Talking about the restaurant in front of Elena, Max puts the question word "chto" right at the start so Elena hears the focus immediately.
+- 'Exactly that.' Elena speaks lightly beside Max, without trying to dress up how she really feels.
+- 'Excuse us. Hello.' Max smoothly drops this polite apology in one quick breath using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Right at the workplace.' Discussing the place right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'What a nightmare.' Max jumps in earnestly across the room, without trying to dress up how he really feels.
+- 'Young people nowadays have no morals at all.' Pointing to the youth in the exchange, Elena chooses "amoralnaya" ("immoral", from the root "amoralnyy") so Max hears the exact meaning.
+- 'Turning a respectable restaurant.' Focusing on a respectable restaurant on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Into I do not know what.' Elena answers plainly with a nod, so Max knows she is not just making small talk.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, you and I did not finish talking.' Denis reacts plainly with a nod, watching Katya's face to see how the news lands.
-- 'Denis, are you really leaving us?' Katya favors one telling detail in reply: "uyezzhayesh" means "are leaving" (from "uyezzhat"), giving the line its exact edge.
-- 'Alright, I will not bother you two.' Senya states the reaction plainly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Denis is on board.
-- 'And why did you not say anything to me?' Katya quizzes curiously while looking straight at Senya here.
-- 'Well, I did not really tell anyone.' Denis spotlights one practical choice with Katya: "govoril" means "said, were saying" (from "govorit"), giving the line its exact edge.
-- 'I wanted to tell only you first.' Denis picks one vivid touch in reply: "snachala" means "first, at first", and it carries the main weight of what Denis is saying.
-- 'Oh, Denis, you are still standing here!' Senya pushes back steadily as they talk, without trying to dress up how he really feels.
-- 'Well then, I have already collected the money.' Senya features one colorful choice right here: "dengi" means "money", and it carries the main weight of what Senya is saying.
-- 'I collected it from all the guys in the kitchen.' Senya fires back bluntly beside Denis, testing Denis's reaction in the middle of the exchange.
-- 'Tonight we will throw you a great noisy farewell party.' Senya stands firm bluntly during the talk, bringing things back to earth after the buildup.
-- 'So everyone in the kitchen already knows?' Katya highlights this telling touch for Denis: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'Wait, Katya, I will explain everything right now.' Denis cuts in lightly without holding back, steering the talk right where he wants it.
+- 'Katya, you and I did not finish talking.' Denis pushes back plainly beside Katya, without trying to dress up how he really feels.
+- 'Denis, are you really leaving us?' Discussing the honestly at once, Katya centers the thought on "uyezzhayesh" ("are leaving", from "uyezzhat") without wasting a word.
+- 'Alright, I will not bother you two.' Senya proceeds right away facing Katya, refusing to let the moment slip past.
+- 'And why did you not say anything to me?' Katya quizzes curiously to see how Denis will answer on the spot.
+- 'Well, I did not really tell anyone.' Denis answers sharply before Katya and centers the thought on "govoril" ("said, were saying", from "govorit") without wasting a word.
+- 'I wanted to tell only you first.' Denis speaks pointedly hearing Senya, making his position completely clear.
+- 'Oh, Denis, you are still standing here!' Senya chimes in steadily during the talk, making his position completely clear.
+- 'Well then, I have already collected the money.' Underscoring the money on the spot, Senya chooses "dengi" ("money") so Denis gets the point right away.
+- 'I collected it from all the guys in the kitchen.' Turning to the kids with Katya, Senya chooses "rebyat" ("kids, guys", from the root "rebyata") so Katya hears the exact meaning.
+- 'Tonight we will throw you a great noisy farewell party.' Senya weighs in bluntly toward Katya, keeping the focus on what actually matters here.
+- 'So everyone in the kitchen already knows?' Touching on the kitchen in this beat, Katya reaches for the Russian word "kukhne" ("kitchen", built from "kukhnya") right at the center of the line.
+- 'Wait, Katya, I will explain everything right now.' Denis steps in decisively around Katya and leans on "podozhdi" ("wait", a form of "podozhdat") to give the remark its edge.

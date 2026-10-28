@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'After the first number we invite the guests onto the veranda.' Vika jumps in dryly without holding back, without trying to dress up how she really feels.
-- 'Viktoriya Sergeyevna, they are urgently calling you to the entrance.' German stresses one concrete touch with Vika: "vkhodu" means "entrance" (from "vkhod"), giving the line its exact edge.
-- 'They just delivered artificial blood there for the show.' German reacts frankly in this moment, steering the talk right where he wants it.
-- 'Oh, they called me, I completely forgot!' Vika opens up sharply with a sigh, grounding the moment in plain reality.
-- 'Guys, please come over here for one minute!' Vika underscores this key choice in reply: "rebyata" means "the boys, the lads", and it carries the main weight of what Vika is saying.
-- 'What is this box doing in the middle of the narrow corridor?' Vika brings the reply without pause: putting the question word "chto" right at the front of the line lets German hear the point of the question on the very first beat.
-- 'Carry it down to the quiet basement for now.' Vika proceeds bluntly around German, testing German's reaction in the middle of the exchange.
-- 'Just carry it carefully, this is a very important prop!' Vika underscores one memorable choice right here: "ostorozhno" means "careful, carefully", and it carries the main weight of what Vika is saying.
-- 'Why did this coffin suddenly become so heavy?' German drops that line without pause: putting the question word "pochemu" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'It is probably made of very solid oak.' Vika fires back pointedly across the room, without trying to dress up how she really feels.
-- 'Put it downstairs and return to the hall right away.' Vika grounds one vivid word in reply: "vozvrashchaytes" means "to come back" (from "vozvrashchatsya"), giving the line its exact edge.
-- 'Good, Viktoriya Sergeyevna, we will do everything quickly right now!' German shares that point without pause: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'After the first number we invite the guests onto the veranda.' Vika fires back dryly with German, before German can change the subject.
+- 'Viktoriya Sergeyevna, they are urgently calling you to the entrance.' Touching on the entrance before Vika, German brings in "vkhodu" ("entrance", from "vkhod") as the key Russian word here.
+- 'They just delivered artificial blood there for the show.' Highlighting the blood in the exchange, German leans on "iskusstvennuyu" ("show", a form of "iskusstvennyy") to give the remark its edge.
+- 'Oh, they called me, I completely forgot!' Vika responds sharply without a pause, making her position completely clear.
+- 'Guys, please come over here for one minute!' Pointing to the boys around German, Vika uses "rebyata" ("the boys, the lads") to carry the main weight of the thought.
+- 'What is this box doing in the middle of the narrow corridor?' Pointing to the box right here, Vika puts the question word "chto" right at the start so German hears the focus immediately.
+- 'Carry it down to the quiet basement for now.' Vika counters bluntly in their talk, without trying to dress up how she really feels.
+- 'Just carry it carefully, this is a very important prop!' Vika jumps in quietly to German and lands on "ostorozhno" ("careful, carefully") as the key everyday word here.
+- 'Why did this coffin suddenly become so heavy?' Pointing to the coffin in the exchange, German puts the question word "pochemu" right at the start so Vika hears the focus immediately.
+- 'It is probably made of very solid oak.' Vika speaks up pointedly with a sigh, testing German's reaction in the middle of the exchange.
+- 'Put it downstairs and return to the hall right away.' Talking about the hall on the spot, Vika centers the thought on "vozvrashchaytes" ("to come back", from "vozvrashchatsya") without wasting a word.
+- 'Good, Viktoriya Sergeyevna, we will do everything quickly right now!' German responds frankly to Vika and brings in "khorosho" ("good, fine") to make the meaning unmistakable.

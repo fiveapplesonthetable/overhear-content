@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I could invite him for a cup of coffee.' Vika offers this answer for Denis: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Although I have no special desire to.' Vika continues briskly as things stand, refusing to let the moment slip past.
-- 'German, our evening was simply wonderful.' Vika emphasizes this clear detail with Denis: "prekrasen" means "wonderful", and it carries the main weight of what Vika is saying.
-- 'And coffee at night is very unhealthy.' Vika gives the reply plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'In relationships everything can be like in war.' Denis jumps in openly with a sigh, before Katya can change the subject.
-- 'But all the main battles are still ahead.' Denis features one classic term for Vika: "srazheniya" means "still", and it carries the main weight of what Denis is saying.
-- 'Katya, do you want ice cream right now?' Denis drops this warning on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Let's do it, I really love chocolate ice cream.' Katya steps in evenly with Vika, watching Vika's face to see how the news lands.
-- 'Hello, give us two chocolate ones, please.' Denis centers one clear choice toward Katya: "shokoladnykh" means "chocolate" (from "shokoladnyy"), giving the line its exact edge.
-- 'Will you give me the ice cream or eat both?' Katya phrases this warning briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'It seems I won a lucky ticket!' Denis follows up dryly as things stand, so Katya knows he is not just making small talk.
-- 'Then collect your prize!' Katya highlights one concrete choice right here: "poluchay" means "take that" (from "poluchat"), giving the line its exact edge.
+- 'I could invite him for a cup of coffee.' Mentioning a cup on the spot, Vika leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Although I have no special desire to.' Vika pushes back briskly hearing Denis, to clear the air between them once and for all.
+- 'German, our evening was simply wonderful.' Turning to the wonderful at once, Vika leans on "prekrasen" ("wonderful") to give the whole sentence its punch.
+- 'And coffee at night is very unhealthy.' Bringing up the unhealthy with Denis, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'In relationships everything can be like in war.' Denis steps in openly in this moment, shifting the mood of the conversation in a single beat.
+- 'But all the main battles are still ahead.' Highlighting how important things are in this beat, Denis centers the thought on "glavnyye" ("important", from "glavnyy") without wasting a word.
+- 'Katya, do you want ice cream right now?' Leaning in dryly before Katya, Denis keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Let's do it, I really love chocolate ice cream.' Katya speaks up evenly without holding back, testing Denis's reaction in the middle of the exchange.
+- 'Hello, give us two chocolate ones, please.' Denis warmly delivers this formal greeting with Katya using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Will you give me the ice cream or eat both?' Pressing on boldly on the spot, Katya keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'It seems I won a lucky ticket!' Denis responds dryly with Katya, so Katya knows he is not just making small talk.
+- 'Then collect your prize!' Touching on the prize right here, Katya centers the thought on "poluchay" ("take that", from "poluchat") without wasting a word.

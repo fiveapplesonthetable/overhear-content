@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need to think about something pleasant more often.' Denis uses one memorable element in earnest: "priyatnom" means "pleasant, nice" (from "priyatnyy"), giving the line its exact edge.
-- 'And then all the bad dreams will pass.' Denis counters openly in this moment, without trying to dress up how he really feels.
-- 'Hi, Denis, will you help me in the office?' Vika inquires bluntly before Denis can change the subject.
-- 'I need to move the couch a little in there.' Vika spotlights this sharp term in earnest: "otodvinut" means "to little", and it carries the main weight of what Vika is saying.
-- 'Yes, of course, I will help you right now.' Denis leans on this sharp word toward Vika: "konechno" means "of course", and it carries the main weight of what Denis is saying.
-- 'Well, tell me, how are your nightmares?' Vika tests quietly in front of Denis without any preamble.
-- 'Everything is fine, I did as you said.' Denis leans on one clear piece at once: "khorosho" means "good, fine", and it carries the main weight of what Denis is saying.
-- 'I thought about something pleasant before sleep.' Denis reacts dryly on the spot, bringing things back to earth after the buildup.
-- 'Thank you very much for your help.' Denis opens up candidly during the talk, before Vika can change the subject.
-- 'There is no need to thank me for that.' Vika favors one concrete detail toward Denis: "blagodarit" means "to thank", and it carries the main weight of what Vika is saying.
-- 'I am glad that I helped you.' Vika sharpens one vivid element at once: "pomogla" means "helped" (from "pomoch"), giving the line its exact edge.
-- 'A dog bit my leg badly yesterday!' Denis holds firm boldly without a pause, to clear the air between them once and for all.
+- 'I need to think about something pleasant more often.' Denis chimes in naturally to Vika and puts the weight on "priyatnom" ("pleasant, nice", from "priyatnyy") as the exchange unfolds.
+- 'And then all the bad dreams will pass.' Highlighting the bad dreams in the exchange, Denis lands on "plokhiye" ("bad", built on "plokhoy") to keep the statement grounded.
+- 'Hi, Denis, will you help me in the office?' Vika inquires bluntly about what Denis just brought up.
+- 'I need to move the couch a little in there.' Addressing the sofa beside Denis, Vika reaches for the Russian word "otodvinut" ("to little") right at the heart of the line.
+- 'Yes, of course, I will help you right now.' Denis jumps in earnestly on the spot, before Vika can change the subject.
+- 'Well, tell me, how are your nightmares?' Vika tests quietly what Denis is actually getting at here.
+- 'Everything is fine, I did as you said.' Denis jumps in warmly in this beat and lands on "khorosho" ("good, fine") as the key everyday word here.
+- 'I thought about something pleasant before sleep.' Mentioning the dream in front of Vika, Denis puts the weight on "priyatnom" ("pleasant, nice", from "priyatnyy") as the exchange unfolds.
+- 'Thank you very much for your help.' Denis cuts in candidly with Vika, bringing things back to earth after the buildup.
+- 'There is no need to thank me for that.' Vika continues frankly before Denis and reaches for the Russian word "blagodarit" ("to thank") right at the heart of the line.
+- 'I am glad that I helped you.' Vika speaks quietly across the room, refusing to let the moment slip past.
+- 'A dog bit my leg badly yesterday!' Denis continues boldly facing Vika, keeping the focus on what actually matters here.

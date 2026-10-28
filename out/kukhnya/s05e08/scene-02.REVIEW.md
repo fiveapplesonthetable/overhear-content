@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And nobody ever saw that waiter again.' Fedya states that answer facing Nastya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'I swear, a cook I know told me.' Fedya weighs in at once as they talk, without trying to dress up how he really feels.
-- 'He sold that ring and moved abroad.' Fedya emphasizes one vivid detail in reply: "granitsu" means "border" (from "granitsa"), giving the line its exact edge.
-- 'Nobody saw him again.' Fedya brings that answer briskly now: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'My girlfriends from that hotel told me.' Nastya stands firm sharply toward Fedya, to clear the air between them once and for all.
-- 'One girl brought him an order and vanished.' Nastya colors this vivid term on cue: "devushka" means "girlfriend", and it carries the main weight of what Nastya is saying.
-- 'Now she lives in his harem.' Nastya continues right away as they talk, leaving no doubt about where she stands.
-- 'The sheikh probably has a holiday every day.' Senya stands firm evenly to settle things, testing Nastya's reaction in the middle of the exchange.
-- 'Can you imagine how much such a ring costs?' Fedya reaches for this key piece on cue: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
-- 'We could use a gift like that too.' Senya holds firm lightly on the spot, watching Nastya's face to see how the news lands.
-- 'It is better to stay far away from him.' Nastya reacts at once watching Fedya, without trying to dress up how she really feels.
-- 'Let us hurry to the kitchen.' Fedya anchors this sharp word right here: "poydyomte" means "come on, let's go" (from "poyti"), giving the line its exact edge.
+- 'And nobody ever saw that waiter again.' Dwelling on the waiter before Nastya, Fedya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I swear, a cook I know told me.' Fedya speaks at once beside Nastya, before Nastya can change the subject.
+- 'He sold that ring and moved abroad.' Underscoring the border with Nastya, Fedya leans on "granitsu" ("border", a form of "granitsa") to give the remark its edge.
+- 'Nobody saw him again.' Speaking candidly to Nastya, Fedya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'My girlfriends from that hotel told me.' Nastya jumps in sharply in this moment, steering the talk right where she wants it.
+- 'One girl brought him an order and vanished.' Focusing on the girlfriend before Fedya, Nastya brings in "devushka" ("girlfriend") to make the meaning unmistakable.
+- 'Now she lives in his harem.' Mentioning the harem to Senya, Nastya brings in "gareme" ("harem", from "garem") as the key Russian word here.
+- 'The sheikh probably has a holiday every day.' Senya replies evenly hearing Nastya, keeping the focus on what actually matters here.
+- 'Can you imagine how much such a ring costs?' Mentioning the signet on the spot, Fedya leans on "predstavlyayesh" ("can you imagine", a form of "predstavlyat") to give the remark its edge.
+- 'We could use a gift like that too.' Discussing a gift right here, Senya leans on "podarok" ("gift, voucher") to give the whole sentence its punch.
+- 'It is better to stay far away from him.' Nastya follows up at once toward Senya, keeping the focus on what actually matters here.
+- 'Let us hurry to the kitchen.' Emphasizing the kitchen in this beat, Fedya centers the thought on "kukhnyu" ("kitchen", from "kukhnya") without wasting a word.

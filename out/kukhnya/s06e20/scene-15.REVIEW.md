@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, is it true you are not my father?' Kostya challenges wryly before Barinov can change the subject.
-- 'Were you lying to me all this time?' Kostya frames this vivid choice at once: "vremya" means "time", and it carries the main weight of what Kostya is saying.
-- 'No, I did not lie about your mother.' Mikhail speaks promptly on the spot, letting the remark speak for itself.
-- 'I truly loved her very much.' Mikhail fires back quietly with a shrug, before Kostya can change the subject.
-- 'She and I dated for a time.' Mikhail emphasizes one classic choice with Barinov: "vstrechalis" means "to meet, to date" (from "vstrechatsya"), giving the line its exact edge.
-- 'She married my best friend.' Mikhail speaks plainly hearing Kostya, shifting the whole mood of the room in a single beat.
-- 'Pack your things and get out of here!' Kostya fires back at once to settle things, refusing to let the moment slip past.
-- 'Do not worry, it does not hurt him at all.' Mikhail sharpens one key expression with Kostya: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'He cannot feel his legs, after all.' Mikhail replies openly to settle things, bringing things back to earth after the buildup.
-- 'Here is a small tender goose breast.' Barinov reacts quietly beside Mikhail, to clear the air between them once and for all.
-- 'The dish is served with delicious pears.' Barinov uses this key touch with Kostya: "podayotsya" means "is served" (from "podavatsya"), giving the line its exact edge.
-- 'Go into the hall, they will bring everything out to you.' Barinov anchors one pointed piece toward Mikhail: "prokhodite" means "come in" (from "prokhodit"), giving the line its exact edge.
+- 'Tell me, is it true you are not my father?' Kostya challenges wryly where this conversation is heading next.
+- 'Were you lying to me all this time?' Touching on the time before Mikhail, Kostya chooses "vremya" ("time") so Mikhail gets the point right away.
+- 'No, I did not lie about your mother.' Talking about the mother around Kostya, Mikhail reaches for the Russian word "vral" ("to lie, to tell lies", built from "vrat") right at the center of the line.
+- 'I truly loved her very much.' Mikhail replies quietly with a shrug, watching Kostya's face to see how the news lands.
+- 'She and I dated for a time.' Highlighting a time in the exchange, Mikhail chooses "vstrechalis" ("to meet, to date", from the root "vstrechatsya") so Kostya hears the exact meaning.
+- 'She married my best friend.' Discussing the friend on the spot, Mikhail reaches for the Russian word "luchshego" ("best", built from "luchshiy") right at the center of the line.
+- 'Pack your things and get out of here!' Kostya jumps in at once toward Mikhail, letting the remark speak for itself.
+- 'Do not worry, it does not hurt him at all.' Mikhail pushes back candidly before Kostya and leans on "volnuytes" ("worry", a form of "volnovatsya") to give the remark its edge.
+- 'He cannot feel his legs, after all.' Focusing on the feet in the exchange, Mikhail lands on "chuvstvuyet" ("feels", built on "chuvstvovat") to keep the statement grounded.
+- 'Here is a small tender goose breast.' Barinov answers quietly toward Mikhail, without trying to dress up how he really feels.
+- 'The dish is served with delicious pears.' Pointing out how tasty things are around Mikhail, Barinov brings in "vkusnymi" ("tasty, delicious", from "vkusnyy") as the key Russian word here.
+- 'Go into the hall, they will bring everything out to you.' Barinov answers decisively with a sigh, without trying to dress up how he really feels.

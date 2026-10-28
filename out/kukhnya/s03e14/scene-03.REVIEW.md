@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fine, let the car stay right here.' Max pushes back dryly in their talk, testing Barinov's reaction in the middle of the exchange.
-- 'Do you have any more questions?' Barinov points to this key term with Max: "voprosy" means "questions" (from "vopros"), giving the line its exact edge.
-- 'I have one, do you run fast?' Max shapes that line to Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'And what business is that of yours?' Barinov inquires plainly as Max tries to explain the situation.
-- 'Hi, why do you keep calling me?' Katya points to one vivid detail at once: "nazvanivayesh" means "keep calling" (from "nazvanivat"), giving the line its exact edge.
-- 'Where were you, I cannot get through to you!' Barinov aims this answer frankly here: the "-sya" ending on "dozvonitsya" ("to get through") turns the action inward or makes it happen between people naturally.
-- 'I was busy last night.' Katya chimes in right away with a shrug, testing Barinov's reaction in the middle of the exchange.
-- 'Were you with that biker?' Barinov features one direct element for Max: "baykerom" means "with a biker" (from "bayker"), giving the line its exact edge.
-- 'But he is a total creep!' Barinov puts that remark without pause: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I forbid you to date him.' Barinov pushes back honestly hearing Max, letting the remark speak for itself.
-- 'Do you know why they call him Piston?' Katya reaches for this direct touch in reply: "porshnem" means "Piston" (from "porshen"), giving the line its exact edge.
-- 'Imagine that, I know very well!' Barinov shares that point before Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Because he pumps up motorcycle tires by hand!' Katya answers lightly with a shrug, grounding the moment in plain reality.
+- 'Fine, let the car stay right here.' Max casually offers this word of agreement at the start of the beat using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Do you have any more questions?' Emphasizing the questions on the spot, Barinov chooses "voprosy" ("questions", from the root "vopros") so Max hears the exact meaning.
+- 'I have one, do you run fast?' Pushing back frankly before Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'And what business is that of yours?' Barinov inquires plainly before Katya can change the subject.
+- 'Hi, why do you keep calling me?' Katya directly extends this casual greeting right on cue using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Where were you, I cannot get through to you!' Weighing in plainly during the talk, the "-sya" ending on "dozvonitsya" ("to get through") marks an action that unfolds mutually or turns back on the speaker.
+- 'I was busy last night.' Katya pushes back right away toward Barinov, leaving no doubt about where she stands.
+- 'Were you with that biker?' Highlighting the biker around Katya, Barinov puts the weight on "baykerom" ("with a biker", from "bayker") as the exchange unfolds.
+- 'But he is a total creep!' Describing how moral he is during the talk, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I forbid you to date him.' Barinov responds honestly watching Katya, grounding the moment in plain reality.
+- 'Do you know why they call him Piston?' Katya speaks up warmly right here and uses "porshnem" ("Piston", from "porshen") to make the point stick.
+- 'Imagine that, I know very well!' Opening up evenly in front of Katya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Because he pumps up motorcycle tires by hand!' Katya follows up lightly watching Barinov, before Barinov can change the subject.

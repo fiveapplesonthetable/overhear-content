@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, what a tragedy.' Vika shares the reply on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Is it really that hard for you?' Sasha asks curiously about what Vika just brought up.
-- 'You know that the guest is always right.' Vika reaches for one familiar detail with Max: "znayesh" means "know" (from "znat"), giving the line its exact edge.
-- 'In my kitchen, I am always right.' Max delivers the comment to Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'This conversation is over.' Vika follows up pointedly before Max, keeping the focus on what actually matters here.
-- 'I wake up next to Sasha.' Max chooses one vivid choice on cue: "prosypayus" means "to wake up" (from "prosypatsya"), giving the line its exact edge.
-- 'I nearly lost my mind.' Vika chimes in candidly as things stand, shifting the whole mood of the room in a single beat.
-- 'Listen, clowns are way scarier though.' Sasha reacts right away to settle things, shifting the whole mood of the room in a single beat.
-- 'And besides.' Vika favors this clear piece for Max: "voobshche" means "at all", and it carries the main weight of what Vika is saying.
-- 'Thank goodness Sasha flew off to Cyprus.' Max answers evenly without holding back, saying out loud what both of them already know.
-- 'For a couple of days I do not have to think about it.' Vika pushes back promptly during the talk, keeping the focus on what actually matters here.
-- 'And after that, make your choice.' Sasha favors one classic touch at once: "vyberi" means "to choose, use up" (from "vybrat"), giving the line its exact edge.
-- 'Sooner or later you will have to anyway.' Vika shares the comment with warmth: the "-sya" ending on "pridetsya" ("will have to") turns the action inward or makes it happen between people naturally.
+- 'Oh, what a tragedy.' Discussing a tragedy at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Is it really that hard for you?' Sasha asks curiously why things suddenly took this turn between them.
+- 'You know that the guest is always right.' Touching on the guest around Sasha, Vika puts the emphasis on "gost" ("guest") in the middle of the talk.
+- 'In my kitchen, I am always right.' Talking about his kitchen in the exchange, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'This conversation is over.' Vika opens up pointedly with Max, shifting the mood of the conversation in a single beat.
+- 'I wake up next to Sasha.' Max reacts firmly with Vika and reaches for the Russian word "prosypayus" ("to wake up", built from "prosypatsya") right at the center of the line.
+- 'I nearly lost my mind.' Touching on her mind at once, Vika chooses "soshel" ("go mad, come down", from the root "soyti") so Max hears the exact meaning.
+- 'Listen, clowns are way scarier though.' Sasha opens up right away with a sigh, watching Vika's face to see how the news lands.
+- 'And besides.' Vika speaks up evenly in front of Sasha and lands on "voobshche" ("at all") as the key everyday word here.
+- 'Thank goodness Sasha flew off to Cyprus.' Bringing up the glory to Sasha, Max puts the emphasis on "slava" ("glory") in the middle of the talk.
+- 'For a couple of days I do not have to think about it.' Vika chimes in promptly with a nod, steering the talk right where she wants it.
+- 'And after that, make your choice.' Sasha fires back openly in this beat and uses "vyberi" ("to choose, use up", from "vybrat") to make the point stick.
+- 'Sooner or later you will have to anyway.' Jumping in readily at once, the "-sya" ending on "pridetsya" ("will have to") marks an action that unfolds mutually or turns back on the speaker.

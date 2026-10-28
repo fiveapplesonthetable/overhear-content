@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' Senya quizzes candidly where this conversation is heading next.
-- 'I work here now.' Gulya chooses one memorable expression at once: "rabotayu" means "work" (from "rabotat"), giving the line its exact edge.
-- 'What are you working as, a cleaner?' Senya gives that point without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Ainura purely through rising pitch at the end.
-- 'You are a manager, Marina, what will people say?' Senya checks wryly whether Gulya really thought this through.
-- 'And what will people say when they find out about you at work?' Gulya chooses this vivid word with Ainura: "rabote" means "work" (from "rabota"), giving the line its exact edge.
-- 'Marina, I do not have any romances at work.' Senya phrases the comeback on cue: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'I am going to work here now until the end of my vacation.' Gulya cuts in openly to be clear, shifting the whole mood of the room in a single beat.
-- 'Is everything clear to you?' Gulya points to one pointed piece right here: "ponyatno" means "clear", and it carries the main weight of what Gulya is saying.
-- 'Why did you hire her?' Senya brings this answer frankly here: putting the question word "zachem" right at the front of the line lets Ainura hear the point of the question on the very first beat.
-- 'So people do not say that we took jobs away from the locals.' Ainura proceeds plainly with a sigh, grounding the moment in plain reality.
-- 'And I am also curious how this soap opera will end.' Ainura stresses this sharp word at once: "zakonchitsya" means "will end", and it carries the main weight of what Ainura is saying.
-- 'Come on, I will show you the washing machine.' Ainura gives the remark without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'What are you doing here?' Senya quizzes candidly about what Gulya just brought up.
+- 'I work here now.' Gulya speaks vividly to Senya and lands on "rabotayu" ("work", built on "rabotat") to keep the statement grounded.
+- 'What are you working as, a cleaner?' Speaking warmly with Gulya, Senya keeps normal statement word order here, turning the line into a question for Gulya purely through rising pitch.
+- 'You are a manager, Marina, what will people say?' Senya checks wryly where this conversation is heading next.
+- 'And what will people say when they find out about you at work?' Addressing the work right here, Gulya centers the thought on "rabote" ("work", from "rabota") without wasting a word.
+- 'Marina, I do not have any romances at work.' Senya opens up evenly with a nod, making his position completely clear.
+- 'I am going to work here now until the end of my vacation.' Gulya opens up openly without holding back, testing Senya's reaction in the middle of the exchange.
+- 'Is everything clear to you?' Gulya politely uses this acknowledgment in one quick breath using "ponyatno" ("understood") — a single word meaning "clear, got it", showing the point has landed.
+- 'Why did you hire her?' Looking over naturally with Ainura, Senya puts the question word "zachem" right at the start so Ainura hears the focus immediately.
+- 'So people do not say that we took jobs away from the locals.' Ainura speaks plainly in this moment, refusing to let the moment slip past.
+- 'And I am also curious how this soap opera will end.' Touching on the series in this beat, Ainura uses "zakonchitsya" ("will end") to carry the main weight of the thought.
+- 'Come on, I will show you the washing machine.' Bringing up the washing machine in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, the hostess vacancy is still open with us.' Vika lays out this update plainly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Come to us this evening for an interview.' Vika fires back lightly as they talk, steering the talk right where she wants it.
-- 'Yes, all the best to you, goodbye.' Vika frames one sharp word for Kostya: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
-- 'In my neighborhood there is a pretty good maternity hospital.' Vika reacts candidly without holding back, so Max knows she is not just making small talk.
-- 'But at a modern center the staff is much better.' Kostya cuts in lightly facing Max, making his position completely clear.
-- 'Ten thousand dollars is, of course, rather expensive.' Vika favors one vivid element for Max: "dollarov" means "dollars" (from "dollar"), giving the line its exact edge.
-- 'Give birth calmly in a regular city hospital.' Kostya replies openly with a sigh, steering the talk right where he wants it.
-- 'I was born in a regular hospital myself.' Kostya weighs in pointedly with Vika, letting the remark speak for itself.
-- 'It really shows what kind of person you turned into!' Vika highlights one telling touch toward Kostya: "vidno" means "one can see", and it carries the main weight of what Vika is saying.
-- 'Max, Vika urgently needs money for the birth!' Kostya speaks candidly beside Vika, testing Vika's reaction in the middle of the exchange.
-- 'Really? And why did you not tell me earlier?' Max asks plainly whether Kostya really thought this through.
-- 'She says that she does not want anything from you.' Kostya colors this vivid term toward Vika: "govorit" means "talks", and it carries the main weight of what Kostya is saying.
+- 'Yes, the hostess vacancy is still open with us.' Addressing the hostess vacancy with Kostya, Vika reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Come to us this evening for an interview.' Vika replies lightly hearing Kostya, making her position completely clear.
+- 'Yes, all the best to you, goodbye.' Bringing up the meeting at once, Vika uses "svidaniya" ("meeting", from "svidaniye") to make the point stick.
+- 'In my neighborhood there is a pretty good maternity hospital.' Discussing the area in front of Kostya, Vika reaches for the Russian word "neplokhoy" ("not bad, decent") right at the heart of the line.
+- 'But at a modern center the staff is much better.' Kostya reacts lightly hearing Vika, so Vika knows he is not just making small talk.
+- 'Ten thousand dollars is, of course, rather expensive.' Addressing the dollars on the spot, Vika lands on "dollarov" ("dollars", built on "dollar") to keep the statement grounded.
+- 'Give birth calmly in a regular city hospital.' Underscoring the hospital right here, Kostya uses "gorodskoy" ("city") to carry the main weight of the thought.
+- 'I was born in a regular hospital myself.' Kostya speaks pointedly with a sigh, watching Vika's face to see how the news lands.
+- 'It really shows what kind of person you turned into!' Vika opens up evenly to Kostya and lands on "vidno" ("one can see") as the key everyday word here.
+- 'Max, Vika urgently needs money for the birth!' Focusing on the money in the exchange, Kostya leans on "dengi" ("money") to give the whole sentence its punch.
+- 'Really? And why did you not tell me earlier?' Max asks plainly why things suddenly took this turn between them.
+- 'She says that she does not want anything from you.' Kostya continues plainly before Max and brings in "govorit" ("talks") to make the meaning unmistakable.

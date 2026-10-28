@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, is that your Sasha?' Fedya gives the remark briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'She has not been mine for a long time.' Max replies promptly to be clear, without trying to dress up how he really feels.
-- 'Did you date her before Vika?' Fedya wonders curiously as Max tries to explain the situation.
-- 'During the break between Vika and Vika.' Max leans on this clear detail in earnest: "pereryve" means "break, interval" (from "pereryv"), giving the line its exact edge.
-- 'Maybe you guys will shut up already, huh?' Max gives that answer before Fedya: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
-- 'Well, and what was that just now?' Vika probes evenly in front of Max without any preamble.
-- 'You were standing with Sasha looking so happy!' Vika focuses on one loaded word with Fedya: "schastlivyy" means "lucky", and it carries the main weight of what Vika is saying.
-- 'Vika, please do not start.' Max gives that remark with ease: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'She and I just said hello.' Max fires back earnestly as they talk, bringing things back to earth after the buildup.
-- 'Let's not quarrel over nonsense.' Max reaches for this key touch for Vika: "ssoritsya" means "to quarrel", and it carries the main weight of what Max is saying.
-- 'Do you want me not to talk with her at all?' Max lays out this update plainly here: the "-sya" ending on "obshchatsya" ("to talk") turns the action inward or makes it happen between people naturally.
-- 'Yes, I want that very much, fine.' Vika pushes back right away in their talk, grounding the moment in plain reality.
-- 'Good thing Vika did not see this!' Fedya highlights this clear choice for Max: "khorosho" means "good, fine", and it carries the main weight of what Fedya is saying.
+- 'Max, is that your Sasha?' Holding firm calmly right here, Fedya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'She has not been mine for a long time.' Max fires back directly before Fedya and reaches for the Russian word "davno" ("for a long time") right at the heart of the line.
+- 'Did you date her before Vika?' Fedya wonders curiously about what Max just brought up.
+- 'During the break between Vika and Vika.' Addressing the break to Fedya, Max lands on "pereryve" ("break, interval", built on "pereryv") to keep the statement grounded.
+- 'Maybe you guys will shut up already, huh?' Weighing in plainly in this beat, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Well, and what was that just now?' Vika probes evenly to see how Max will answer on the spot.
+- 'You were standing with Sasha looking so happy!' Vika answers calmly at once and reaches for the Russian word "schastlivyy" ("lucky") right at the heart of the line.
+- 'Vika, please do not start.' Max responds firmly around Vika and leans on "nachinay" ("start", a form of "nachinat") to give the remark its edge.
+- 'She and I just said hello.' Max proceeds earnestly watching Vika, before Vika can change the subject.
+- 'Let's not quarrel over nonsense.' Bringing up the nonsense on the spot, Max reaches for the Russian word "yerundy" ("nonsense, trifle", built from "yerunda") right at the center of the line.
+- 'Do you want me not to talk with her at all?' Opening up plainly beside Vika, the "-sya" ending on "obshchatsya" ("to talk") marks an action that unfolds mutually or turns back on the speaker.
+- 'Yes, I want that very much, fine.' Vika politely shares this word of agreement with Max using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Good thing Vika did not see this!' Fedya speaks pointedly at once and uses "khorosho" ("good, fine") to carry the main weight of the thought.

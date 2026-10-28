@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Allow me to personally pay my respects to you.' Barinov fires back warmly in this moment, shifting the whole mood of the room in a single beat.
-- 'Thank you.' The guest emphasizes one clear word with Elena: "spasibo" means "thank you", and it carries the main weight of what the guest is saying.
-- 'Let's have a drink together, just to bond.' Barinov brings the comment around Elena: the word "davayte" is the polite or group version of "let's", inviting Elena into the plan right away.
-- 'Oops, I started pouring a little too early.' Barinov responds honestly before the guest, saying out loud what both of them already know.
-- 'Excuse me, I will wipe that off for you right now.' Barinov points to one practical expression right here: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Have you lost your mind!' The guest frames this point right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'What an amazing flavor, especially the fillet part.' Barinov pushes back promptly as things stand, watching Elena's face to see how the news lands.
-- 'What happened here?' Elena points to one direct touch right here: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'What are you doing out here, Viktor Petrovich?' Elena shapes the comeback with candor: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'It was a mistake for me to listen to you, Elena Pavlovna.' The guest pushes back firmly beside Elena, letting the remark speak for itself.
-- 'And agree to hire this man.' The guest sharpens one direct word with Barinov: "soglasilsya" means "agreed" (from "soglasitsya"), giving the line its exact edge.
-- 'I simply wanted to get better acquainted.' Barinov drops the remark without pause: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Allow me to personally pay my respects to you.' Barinov weighs in warmly in this moment, steering the talk right where he wants it.
+- 'Thank you.' The guest briskly delivers this word of thanks in the exchange using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Let's have a drink together, just to bond.' Pointing to the bond around the guest, Barinov uses the polite or group form "davayte" ("let's") to bring the guest into the plan.
+- 'Oops, I started pouring a little too early.' Barinov follows up honestly beside the guest, steering the talk right where he wants it.
+- 'Excuse me, I will wipe that off for you right now.' Barinov firmly shares this polite apology at the start of the beat using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Have you lost your mind!' Holding firm openly in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'What an amazing flavor, especially the fillet part.' Barinov opens up promptly toward the guest, before the guest can change the subject.
+- 'What happened here?' Elena fires back quietly on the spot and leans on "sluchilos" ("happened", a form of "sluchitsya") to give the remark its edge.
+- 'What are you doing out here, Viktor Petrovich?' Opening up dryly to Barinov, Elena puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'It was a mistake for me to listen to you, Elena Pavlovna.' The guest follows up firmly during the talk, refusing to let the moment slip past.
+- 'And agree to hire this man.' The guest reacts calmly with Barinov and reaches for the Russian word "soglasilsya" ("agreed", built from "soglasitsya") right at the center of the line.
+- 'I simply wanted to get better acquainted.' Weighing in naturally at once, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.

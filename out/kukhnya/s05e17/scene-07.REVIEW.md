@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you lock me in here?' Mikhail centers one pointed element right here: "zakryl" means "passed, closed" (from "zakryt"), giving the line its exact edge.
-- 'So that you do not do anything foolish!' Barinov colors one vivid piece toward Senya: "glupostey" means "foolish things" (from "glupost"), giving the line its exact edge.
-- 'Vitya, you are a real traitor!' Mikhail cuts in quietly with a smile, refusing to let the moment slip past.
-- 'Senya, I am heading to the market.' Barinov grounds one loaded element right here: "poyekhal" means "I'm off" (from "poyekhat"), giving the line its exact edge.
-- 'You are guarding Mikhail Dzhekovich's peace.' Barinov uses one sharp expression at once: "okhranyayesh" means "you guard" (from "okhranyat"), giving the line its exact edge.
-- 'If he comes out of the office, I will punish you!' Barinov answers decisively facing Senya, making his position completely clear.
-- 'And if he does not come out, will you give me a bonus?' Senya points to one colorful detail on cue: "premiyu" means "bonus, prize" (from "premiya"), giving the line its exact edge.
-- 'Five thousand kicks in the backside.' Barinov counters sharply as things stand, testing Senya's reaction in the middle of the exchange.
-- 'Thanks, that is a great advance for me.' Senya reacts sharply as things stand, making his position completely clear.
-- 'Quiet, do not shout, I found the way.' Barinov sharpens one loaded element in earnest: "dorogu" means "road, way" (from "doroga"), giving the line its exact edge.
-- 'There is another maternity hospital nearby.' Barinov weighs in bluntly watching Mikhail, bringing things back to earth after the buildup.
-- 'Alright, we will go under the contract.' Barinov stands firm calmly around Senya, grounding the moment in plain reality.
+- 'Why did you lock me in here?' Mikhail counters briskly in the exchange and uses "zakryl" ("passed, closed", from "zakryt") to make the point stick.
+- 'So that you do not do anything foolish!' Barinov responds at once without holding back, to clear the air between them once and for all.
+- 'Vitya, you are a real traitor!' Touching on a real traitor with a shrug, Mikhail makes it clear to Barinov that he means every word.
+- 'Senya, I am heading to the market.' Addressing the market to Senya, Barinov leans on "poyekhal" ("I'm off", a form of "poyekhat") to give the remark its edge.
+- 'You are guarding Mikhail Dzhekovich's peace.' Barinov speaks wryly with a sigh, testing Mikhail's reaction in the middle of the exchange.
+- 'If he comes out of the office, I will punish you!' Barinov pushes back decisively in this moment, making his position completely clear.
+- 'And if he does not come out, will you give me a bonus?' Pointing to a bonus with Barinov, Senya leans on "premiyu" ("bonus, prize", a form of "premiya") to give the remark its edge.
+- 'Five thousand kicks in the backside.' Pointing to the thousand to Senya, Barinov uses "tysyach" ("thousand", from "tysyacha") to make the point stick.
+- 'Thanks, that is a great advance for me.' Senya promptly gives this word of thanks without hesitation using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Quiet, do not shout, I found the way.' Highlighting the road to Senya, Barinov chooses "dorogu" ("road, way", from the root "doroga") so Senya hears the exact meaning.
+- 'There is another maternity hospital nearby.' Highlighting the maternity hospital in the exchange, Barinov reaches for the Russian word "poblizosti" ("nearby") right at the heart of the line.
+- 'Alright, we will go under the contract.' Barinov evenly directs this word of agreement in one quick breath using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I held back.' Nastya chooses one familiar term in reply: "derzhalas" means "held back, held on" (from "derzhatsya"), giving the line its exact edge.
-- 'But I cannot anymore.' Nastya answers boldly as things stand, shifting the whole mood of the room in a single beat.
-- 'What?' Stepping in with urgency, Katya lets Nastya know there is no turning back now.
-- 'You will not believe it.' Nastya stresses one telling word for Katya: "poverish" means "will believe" (from "poverit"), giving the line its exact edge.
-- 'That is why the two of you broke up.' Nastya phrases this line on cue: the "-sya" ending on "rasstalis" ("broke up, separated") turns the action inward or makes it happen between people naturally.
+- 'I held back.' Nastya speaks sharply with Katya and brings in "derzhalas" ("held back, held on", from "derzhatsya") as the key Russian word here.
+- 'But I cannot anymore.' Nastya answers boldly without holding back, letting the remark speak for itself.
+- 'What?' Katya presses eagerly while looking straight at Nastya here.
+- 'You will not believe it.' Nastya jumps in briskly at once and leans on "poverish" ("will believe", a form of "poverit") to give the remark its edge.
+- 'That is why the two of you broke up.' Pressing on warmly in this beat, the "-sya" ending on "rasstalis" ("broke up, separated") marks an action that unfolds mutually or turns back on the speaker.
 - 'Strange, and how do you know all this?' Katya questions openly how Nastya expects that to work in practice.
-- 'Kostik told me.' Nastya highlights one colorful detail on cue: "rasskazal" means "told" (from "rasskazat"), giving the line its exact edge.
-- 'And Kostya does not know how to lie at all.' Nastya voices the comment facing Katya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'You refused to marry Den.' Nastya steps in boldly around Katya, making her position completely clear.
-- 'That is why he decided to break up with you.' Nastya uses one familiar word in reply: "rasstatsya" means "to break up", and it carries the main weight of what Nastya is saying.
-- 'He needs a mother for his daughter.' Nastya responds evenly across the room, making her position completely clear.
-- 'He wanted to confess something to me.' Katya reacts wryly without a pause, before Nastya can change the subject.
+- 'Kostik told me.' Reacting evenly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'And Kostya does not know how to lie at all.' Replying plainly to Katya, Nastya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'You refused to marry Den.' Nastya speaks boldly with a sigh, testing Katya's reaction in the middle of the exchange.
+- 'That is why he decided to break up with you.' Nastya fires back calmly with Katya and chooses "rasstatsya" ("to break up") so Katya gets the point right away.
+- 'He needs a mother for his daughter.' Highlighting the daughters in the exchange, Nastya chooses "dochki" ("daughters", from the root "dochka") so Katya hears the exact meaning.
+- 'He wanted to confess something to me.' Katya responds wryly toward Nastya, bringing things back to earth after the buildup.

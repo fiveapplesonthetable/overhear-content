@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'An ordinary cook could not have done this.' Nagiyev weighs in promptly beside Fedya, refusing to let the moment slip past.
-- 'He is not an ordinary cook.' Fedya spotlights one sharp expression on cue: "obychnyy" means "ordinary, regular", and it carries the main weight of what Fedya is saying.
-- 'He is Sergeant Arseny Meat-Grinder.' Fedya aims this statement facing Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He and I served together.' Fedya weighs in earnestly with Senya, bringing things back to earth after the buildup.
-- 'And I do not care at all.' Nagiyev picks this direct detail in reply: "naplevat" means "don't care", and it carries the main weight of what Nagiyev is saying.
-- 'Aren't you supposed to be businessmen?' Fedya gives this answer around Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'Or who are you after all?' Nagiyev challenges plainly where this conversation is heading next.
-- 'And here I am, villains!' Senya features this clear expression in earnest: "zlodei" means "villains, scoundrels" (from "zlodey"), giving the line its exact edge.
-- 'Senya, you came to save us!' Fedya favors one familiar touch right here: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
-- 'It is nothing, anyone would have acted the same way.' Senya replies candidly with a smile, saying out loud what both of them already know.
-- 'I simply did my best for you, guys.' Senya frames one familiar choice on cue: "staralsya" means "tried" (from "staratsya"), giving the line its exact edge.
-- 'Thank you, our savior!' Fedya phrases this warning frankly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'An ordinary cook could not have done this.' Nagiyev steps in promptly on the spot, without trying to dress up how he really feels.
+- 'He is not an ordinary cook.' Describing how ordinary he is in front of Nagiyev, Fedya reaches for the Russian word "obychnyy" ("ordinary, regular") right at the heart of the line.
+- 'He is Sergeant Arseny Meat-Grinder.' Focusing on the meat grinder with Nagiyev, Fedya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He and I served together.' Fedya steps in earnestly hearing Nagiyev, letting the remark speak for itself.
+- 'And I do not care at all.' Nagiyev speaks briskly before Fedya and leans on "naplevat" ("don't care") to give the whole sentence its punch.
+- 'Aren't you supposed to be businessmen?' Speaking warmly with Nagiyev, Fedya keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Or who are you after all?' Nagiyev challenges plainly about what Senya just brought up.
+- 'And here I am, villains!' Highlighting the villains at once, Senya puts the weight on "zlodei" ("villains, scoundrels", from "zlodey") as the exchange unfolds.
+- 'Senya, you came to save us!' Fedya cuts in lightly in their talk, shifting the mood of the conversation in a single beat.
+- 'It is nothing, anyone would have acted the same way.' Senya speaks candidly with Fedya, bringing things back to earth after the buildup.
+- 'I simply did my best for you, guys.' Bringing up the boys on the spot, Senya reaches for the Russian word "rebyata" ("the boys, the lads") right at the heart of the line.
+- 'Thank you, our savior!' Fedya promptly uses this word of thanks beside Senya using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

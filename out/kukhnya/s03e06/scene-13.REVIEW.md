@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, what is going on with us?' Vika leans on one familiar choice in earnest: "proiskhodit" means "is going on", and it carries the main weight of what Vika is saying.
-- 'Kristina just came up to me.' Vika answers frankly during the talk, leaving no doubt about where she stands.
-- 'She said that the restaurant is closing tomorrow.' Vika weighs in dryly facing Barinov, saying out loud what both of them already know.
-- 'And if Dima comes up, to send him far away.' Vika leans on this direct touch with Max: "podoydyot" means "to come up" (from "podoyti"), giving the line its exact edge.
-- 'Then Dima came up and said the exact same thing.' Vika proceeds decisively in their talk, letting the remark speak for itself.
-- 'We do not need to send anyone anywhere.' Barinov cuts in at once across the room, so Vika knows he is not just making small talk.
-- 'Tomorrow we will have two banquets at once.' Barinov chooses one classic word with Max: "banketa" means "banquet" (from "banket"), giving the line its exact edge.
-- 'They will not even see each other.' Barinov answers boldly as they talk, making his position completely clear.
-- 'Max, what are you doing right now?' Vika checks eagerly before Barinov can change the subject.
-- 'Vika, forgive me, I did not mean to at all.' Max picks one pointed term in earnest: "spetsialno" means "on purpose", and it carries the main weight of what Max is saying.
-- 'Here, I brought you clean salt.' Max spotlights this clear detail in earnest: "chistuyu" means "clean" (from "chistyy"), giving the line its exact edge.
-- 'Listen, you still have sauce on you, let me hold it.' Max opens up boldly around Vika, shifting the whole mood of the room in a single beat.
+- 'Vitya, what is going on with us?' Vika follows up firmly on the spot and centers the remark on "proiskhodit" ("is going on") without any extra fuss.
+- 'Kristina just came up to me.' Vika responds vividly to Barinov and brings in "podoshla" ("approached", from "podoyti") as the key Russian word here.
+- 'She said that the restaurant is closing tomorrow.' Vika steps in dryly with a nod, leaving no doubt about where she stands.
+- 'And if Dima comes up, to send him far away.' Vika cuts in evenly right here and brings in "podoydyot" ("to come up", from "podoyti") as the key Russian word here.
+- 'Then Dima came up and said the exact same thing.' Vika chimes in dryly in the exchange and centers the thought on "podoshyol" ("to come up", from "podoyti") without wasting a word.
+- 'We do not need to send anyone anywhere.' Barinov pushes back at once with a nod, bringing things back to earth after the buildup.
+- 'Tomorrow we will have two banquets at once.' Talking about the banquet in this beat, Barinov puts the weight on "banketa" ("banquet", from "banket") as the exchange unfolds.
+- 'They will not even see each other.' Highlighting the friend on the spot, Barinov chooses "druga" ("the friend", from the root "drug") so Vika hears the exact meaning.
+- 'Max, what are you doing right now?' Vika checks eagerly where this conversation is heading next.
+- 'Vika, forgive me, I did not mean to at all.' Max opens up earnestly beside Vika and lands on "spetsialno" ("on purpose") as the key everyday word here.
+- 'Here, I brought you clean salt.' Max answers promptly around Vika, making his position completely clear.
+- 'Listen, you still have sauce on you, let me hold it.' Max continues boldly during the talk, testing Vika's reaction in the middle of the exchange.

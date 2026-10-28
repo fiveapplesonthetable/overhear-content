@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'When you cannot solve a problem, you only have one way out.' Denis underscores one loaded piece toward Eleonora: "problemu" means "problem" (from "problema"), giving the line its exact edge.
-- 'To forget it forever and' Denis hands over this point right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'try to live on.' Denis steps in sharply on the spot, shifting the whole mood of the room in a single beat.
-- 'Defendant Denis Andreyevich Krylov, you are accused of infidelity.' Eleonora emphasizes one pointed piece in reply: "andreyevich" means "andreyevich", and it carries the main weight of what Eleonora is saying.
-- 'But it is not my fault!' Denis shapes this update frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Right now it is going to get even better.' Eleonora responds decisively with Senya, steering the talk right where she wants it.
-- 'Arousal denied.' Eleonora favors one concrete element in reply: "vozbuzhdenii" means "initiation" (from "vozbuzhdeniye"), giving the line its exact edge.
-- 'My stomach cramped up.' Senya aims that line with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I need the toilet, it is a total nightmare in there.' Senya stands firm quietly in this moment, keeping the focus on what actually matters here.
-- 'Could you not hold it for at least an hour?' Senya uses one concrete touch for Eleonora: "poterpet" means "to be patient", and it carries the main weight of what Senya is saying.
-- 'At least five minutes.' Senya delivers that line right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'When our housemates are not home, we will be running all night.' Senya chimes in pointedly as they talk, grounding the moment in plain reality.
+- 'When you cannot solve a problem, you only have one way out.' Pointing to a problem at once, Denis lands on "problemu" ("problem", built on "problema") to keep the statement grounded.
+- 'To forget it forever and' Holding firm naturally in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'try to live on.' Denis speaks sharply facing Eleonora, letting the remark speak for itself.
+- 'Defendant Denis Andreyevich Krylov, you are accused of infidelity.' Underscoring the defendant beside Denis, Eleonora lands on "andreyevich" ("andreyevich") as the key everyday word here.
+- 'But it is not my fault!' Answering quietly around Eleonora, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Right now it is going to get even better.' Eleonora speaks up right away with a nod, without trying to dress up how she really feels.
+- 'Arousal denied.' Talking about the initiation before Denis, Eleonora chooses "vozbuzhdenii" ("initiation", from the root "vozbuzhdeniye") so Denis hears the exact meaning.
+- 'My stomach cramped up.' Returning to the belly right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I need the toilet, it is a total nightmare in there.' Senya steps in quietly beside Eleonora, to clear the air between them once and for all.
+- 'Could you not hold it for at least an hour?' Bringing up an hour before Eleonora, Senya reaches for the Russian word "chasik" ("an hour or so") right at the heart of the line.
+- 'At least five minutes.' Pointing to the minutes to Eleonora, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'When our housemates are not home, we will be running all night.' Senya reacts pointedly without a pause, to clear the air between them once and for all.

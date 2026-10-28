@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yesterday's grand opening was a total failure.' Eleonora jumps in lightly toward Barinov, steering the talk right where she wants it.
-- 'This happened in front of the prefect himself.' Eleonora responds dryly beside Senya, saying out loud what both of them already know.
-- 'I am not going to tolerate this.' Eleonora underscores this clear expression in reply: "terpet" means "to hold on", and it carries the main weight of what Eleonora is saying.
-- 'What a strict owner we have.' Senya states that remark facing Eleonora: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'This concerns everyone here.' Eleonora responds earnestly toward Barinov, bringing things back to earth after the buildup.
-- 'The main thing in a hotel is discipline.' Eleonora colors one key touch with Senya: "distsiplina" means "discipline", and it carries the main weight of what Eleonora is saying.
-- 'Discipline and once again discipline.' Eleonora speaks up promptly without any doubt, bringing things back to earth after the buildup.
-- 'I hope we will avoid such conversations.' Eleonora pushes back at once without a pause, making her position completely clear.
-- 'And where is your head chef right now?' Eleonora chooses this sharp detail for Barinov: "seychas" means "now", and it carries the main weight of what Eleonora is saying.
-- 'He apologized to you profusely.' Barinov sends the reaction with candor: the "-sya" ending on "izvinyalsya" ("apologized") turns the action inward or makes it happen between people naturally.
-- 'He is solving problems with suppliers.' Barinov fires back firmly on the spot, keeping the focus on what actually matters here.
-- 'Where is our chef right now, though?' Senya picks one memorable term at once: "seychas" means "now", and it carries the main weight of what Senya is saying.
+- 'Yesterday's grand opening was a total failure.' Bringing up the opening in this beat, Eleonora uses "vcherashneye" ("yesterday", from "vcherashniy") to make the point stick.
+- 'This happened in front of the prefect himself.' Eleonora cuts in dryly during the talk, bringing things back to earth after the buildup.
+- 'I am not going to tolerate this.' Eleonora jumps in calmly at once and brings in "terpet" ("to hold on") to make the meaning unmistakable.
+- 'What a strict owner we have.' Dwelling on the landlady around Eleonora, Senya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'This concerns everyone here.' Eleonora answers earnestly without any doubt, to clear the air between them once and for all.
+- 'The main thing in a hotel is discipline.' Focusing on the discipline before Senya, Eleonora lands on "distsiplina" ("discipline") as the key everyday word here.
+- 'Discipline and once again discipline.' Focusing on the discipline to Senya, Eleonora leans on "distsiplina" ("discipline") to give the whole sentence its punch.
+- 'I hope we will avoid such conversations.' Eleonora pushes back at once across the room, so Barinov knows she is not just making small talk.
+- 'And where is your head chef right now?' Opening up candidly in the exchange, Eleonora links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He apologized to you profusely.' Holding firm earnestly to Eleonora, the "-sya" ending on "izvinyalsya" ("apologized") marks an action that unfolds mutually or turns back on the speaker.
+- 'He is solving problems with suppliers.' Barinov replies firmly across the room, keeping the focus on what actually matters here.
+- 'Where is our chef right now, though?' Speaking boldly to Barinov, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.

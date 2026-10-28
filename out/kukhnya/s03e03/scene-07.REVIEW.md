@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our problem is currently at a club three blocks from here.' Max focuses on this clear touch for Vika: "kvartalakh" means "blocks" (from "kvartal"), giving the line its exact edge.
-- 'How do you know?' Vika shares that line frankly here: putting the question word "otkuda" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Elementary! She came in the morning, which means she doesn't work.' Max speaks steadily with a nod, before Vika can change the subject.
-- 'She had almost no makeup on and was in jeans.' Vika uses this direct word on cue: "prakticheski" means "practically", and it carries the main weight of what Vika is saying.
-- 'That means she wasn't planning to meet with anyone.' Max delivers that line toward Vika: the "-sya" ending on "vstrechatsya" ("to meet") turns the action inward or makes it happen between people naturally.
-- 'She ordered only a salad. That is a light snack.' Max speaks dryly to be clear, to clear the air between them once and for all.
-- 'At her age, such a figure only comes through the gym.' Max points to one clear element at once: "sportzal" means "gym", and it carries the main weight of what Max is saying.
-- 'And the nearest decent club is three blocks away.' Max gives this warning with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'So that is how you figured it out?' Vika inquires quietly as Max tries to explain the situation.
-- 'Well, almost. Angelina goes to yoga with her.' Max uses one pointed choice at once: "pochti" means "almost", and it carries the main weight of what Max is saying.
-- 'I am heading there to ask forgiveness for us.' Max holds firm decisively facing Vika, bringing things back to earth after the buildup.
-- 'You already got us fired. This time I will do it myself.' Vika stands firm right away to be clear, watching Max's face to see how the news lands.
+- 'Our problem is currently at a club three blocks from here.' Underscoring the blocks to Vika, Max lands on "kvartalakh" ("blocks", built on "kvartal") to keep the statement grounded.
+- 'How do you know?' Turning directly before Max, Vika puts the question word "otkuda" right at the start so Max hears the focus immediately.
+- 'Elementary! She came in the morning, which means she doesn't work.' Max fires back steadily toward Vika, refusing to let the moment slip past.
+- 'She had almost no makeup on and was in jeans.' Mentioning the makeup before Max, Vika uses "prakticheski" ("practically") to carry the main weight of the thought.
+- 'That means she wasn't planning to meet with anyone.' Holding firm candidly before Vika, the "-sya" ending on "vstrechatsya" ("to meet") marks an action that unfolds mutually or turns back on the speaker.
+- 'She ordered only a salad. That is a light snack.' Max jumps in dryly on the spot, without trying to dress up how he really feels.
+- 'At her age, such a figure only comes through the gym.' Focusing on the gym in this beat, Max puts the emphasis on "sportzal" ("gym") in the middle of the talk.
+- 'And the nearest decent club is three blocks away.' Highlighting how nearest things are during the talk, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'So that is how you figured it out?' Vika inquires quietly where this conversation is heading next.
+- 'Well, almost. Angelina goes to yoga with her.' Touching on the yoga beside Vika, Max reaches for the Russian word "yogu" ("yoga", built from "yoga") right at the center of the line.
+- 'I am heading there to ask forgiveness for us.' Talking about the forgiveness during the talk, Max puts the emphasis on "proshcheniye" ("forgiveness") in the middle of the talk.
+- 'You already got us fired. This time I will do it myself.' Vika speaks right away facing Max, testing Max's reaction in the middle of the exchange.

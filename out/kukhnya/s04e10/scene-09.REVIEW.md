@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ugh, Fedya, how vulgar you are!' Nastya continues frankly in their talk, watching Elena's face to see how the news lands.
-- 'Check Kostya's browser history on his laptop.' Fedya emphasizes one classic word right here: "istoriyu" means "history" (from "istoriya"), giving the line its exact edge.
-- 'I already checked his laptop.' Nastya proceeds honestly during the talk, bringing things back to earth after the buildup.
-- 'There is nothing bad on there.' Nastya opens up at once hearing Fedya, to clear the air between them once and for all.
-- 'That means he simply deleted it.' Fedya frames one classic detail right here: "znachit" means "then, so", and it carries the main weight of what Fedya is saying.
-- 'I will stay out in the corridor for a bit.' Elena continues sharply with a nod, keeping the focus on what actually matters here.
-- 'I will wait until the trailer finishes.' Elena cuts in right away around Fedya, testing Fedya's reaction in the middle of the exchange.
-- 'What, is everything really that bad?' Nastya frames this direct term in reply: "plokho" means "badly", and it carries the main weight of what Nastya is saying.
-- 'A question has come up for me here.' Elena lays out the reply frankly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'A nightmare, this is aimed at fools.' Elena continues bluntly in their talk, steering the talk right where she wants it.
-- 'You are simply out of the loop.' Nastya leans on one telling element on cue: "prosto" means "just", and it carries the main weight of what Nastya is saying.
-- 'It is impossible to watch such a movie.' Elena directs this statement before Nastya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Ugh, Fedya, how vulgar you are!' Nastya answers frankly without holding back, so Fedya knows she is not just making small talk.
+- 'Check Kostya's browser history on his laptop.' Underscoring the history in the exchange, Fedya leans on "istoriyu" ("history", a form of "istoriya") to give the remark its edge.
+- 'I already checked his laptop.' Emphasizing the laptop with Fedya, Nastya chooses "proveryala" ("to check, test", from the root "proveryat") so Fedya hears the exact meaning.
+- 'There is nothing bad on there.' Nastya pushes back at once without a pause, testing Fedya's reaction in the middle of the exchange.
+- 'That means he simply deleted it.' Fedya fires back vividly beside Nastya and chooses "znachit" ("then, so") so Nastya gets the point right away.
+- 'I will stay out in the corridor for a bit.' Highlighting the corridor to Fedya, Elena uses "koridore" ("corridor", from "koridor") to make the point stick.
+- 'I will wait until the trailer finishes.' Elena follows up right away with Nastya, steering the talk right where she wants it.
+- 'What, is everything really that bad?' Nastya speaks firmly during the talk and brings in "plokho" ("badly") to make the meaning unmistakable.
+- 'A question has come up for me here.' Pressing on evenly in front of Nastya, the "-sya" ending on "vopros" ("question, matter") marks an action that unfolds mutually or turns back on the speaker.
+- 'A nightmare, this is aimed at fools.' Elena chimes in bluntly across the room, shifting the mood of the conversation in a single beat.
+- 'You are simply out of the loop.' Talking about the loop in front of Elena, Nastya leans on "teme" ("loop") to give the whole sentence its punch.
+- 'It is impossible to watch such a movie.' Turning to the cinema before Nastya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

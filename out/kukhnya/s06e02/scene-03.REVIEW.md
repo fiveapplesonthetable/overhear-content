@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Forgive me, but I decided to stay at the restaurant.' Barinov speaks at once in this moment, testing Senya's reaction in the middle of the exchange.
-- 'What is the staff meeting about anyway?' Senya highlights one colorful element toward Barinov: "sobraniye" means "meeting", and it carries the main weight of what Senya is saying.
-- 'Are they going to check our pockets?' Senya sends the reaction facing Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Very funny, Senya.' Barinov jumps in right away with Senya, watching Senya's face to see how the news lands.
-- 'Kitchen, attention!' Barinov reaches for one loaded choice with Senya: "vnimaniye" means "attention", and it carries the main weight of what Barinov is saying.
-- 'Today is a historic event in your lives.' Barinov offers that thought with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We are changing the restaurant's concept.' Barinov weighs in bluntly without any doubt, keeping the focus on what actually matters here.
-- 'This is a restaurant of auteur cuisine.' Barinov focuses on one sharp word in earnest: "avtorskoy" means "auteur, signature" (from "avtorskiy"), giving the line its exact edge.
-- 'What does that mean?' Senya gives the comeback with candor: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'So, on the new menu are sea scallops.' Barinov answers promptly watching Senya, testing Senya's reaction in the middle of the exchange.
-- 'And also goose breast in sauce.' Barinov centers this vivid detail for Senya: "gusinaya" means "goose" (from "gusinyy"), giving the line its exact edge.
-- 'And fillet of wild pigeon.' Barinov voices this warning without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Forgive me, but I decided to stay at the restaurant.' Raising the restaurant with Senya, Barinov makes it clear to Senya that he means every word.
+- 'What is the staff meeting about anyway?' Touching on the staff meeting with Barinov, Senya lands on "sobraniye" ("meeting") as the key everyday word here.
+- 'Are they going to check our pockets?' Bringing up his pockets in the exchange, Senya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Very funny, Senya.' Barinov responds bluntly toward Senya, so Senya knows he is not just making small talk.
+- 'Kitchen, attention!' Touching on the attention at once, Barinov centers the remark on "vnimaniye" ("attention") without any extra fuss.
+- 'Today is a historic event in your lives.' Stressing how historical things are at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We are changing the restaurant's concept.' Barinov jumps in bluntly around Senya, letting the remark speak for itself.
+- 'This is a restaurant of auteur cuisine.' Confirming how auteur things are in front of Senya, Barinov uses "avtorskoy" ("auteur, signature", from "avtorskiy") to make the point stick.
+- 'What does that mean?' Reacting earnestly in this beat, Senya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'So, on the new menu are sea scallops.' Barinov opens up promptly watching Senya, watching Senya's face to see how the news lands.
+- 'And also goose breast in sauce.' Underscoring the breast before Senya, Barinov centers the thought on "gusinaya" ("goose", from "gusinyy") without wasting a word.
+- 'And fillet of wild pigeon.' Mentioning the pigeon to Senya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

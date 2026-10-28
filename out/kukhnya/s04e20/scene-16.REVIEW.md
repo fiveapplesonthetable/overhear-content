@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I turned out to be a bad dad, didn't I?' Barinov frames this key touch in reply: "poluchilsya" means "to turn out" (from "poluchitsya"), giving the line its exact edge.
-- 'Well, to be honest, not a very good one.' Katya fires back sharply without any doubt, refusing to let the moment slip past.
-- 'You never missed a single soccer match.' Katya reacts bluntly during the talk, refusing to let the moment slip past.
-- 'Being a father is not your strong suit.' Katya features one direct expression at once: "ottsom" means "father" (from "otets"), giving the line its exact edge.
-- 'Your calling is to be a great head chef.' Katya spotlights this clear expression for Barinov: "shef-povarom" means "head chef" (from "shef-povar"), giving the line its exact edge.
-- 'Creating masterpieces—that is where your strength lies.' Katya reacts warmly as they talk, leaving no doubt about where she stands.
-- 'That is the exact thing I admire in you.' Katya grounds one classic piece on cue: "voskhishchayet" means "admire", and it carries the main weight of what Katya is saying.
-- 'But if you give up right now...' Katya features one loaded word for Barinov: "opustish" means "to right" (from "opustit"), giving the line its exact edge.
-- 'Then you will never see me again.' Katya proceeds briskly around Barinov, refusing to let the moment slip past.
-- 'You understand that Nagiyev will not let me win.' Barinov emphasizes one pointed choice in earnest: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.
-- 'And perhaps this will help you?' Katya lays out the remark at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'I turned out to be a bad dad, didn't I?' Bringing up a bad dad with Katya, Barinov reaches for the Russian word "poluchilsya" ("to turn out", built from "poluchitsya") right at the center of the line.
+- 'Well, to be honest, not a very good one.' Katya chimes in dryly on the spot and centers the remark on "khoroshiy" ("good") without any extra fuss.
+- 'You never missed a single soccer match.' Katya pushes back bluntly with Barinov, watching Barinov's face to see how the news lands.
+- 'Being a father is not your strong suit.' Underscoring a father around Barinov, Katya reaches for the Russian word "ottsom" ("father", built from "otets") right at the center of the line.
+- 'Your calling is to be a great head chef.' Katya answers plainly with Barinov, refusing to let the moment slip past.
+- 'Creating masterpieces—that is where your strength lies.' Katya continues warmly around Barinov, making her position completely clear.
+- 'That is the exact thing I admire in you.' Discussing the admire beside Barinov, Katya uses "voskhishchayet" ("admire") to carry the main weight of the thought.
+- 'But if you give up right now...' Katya reacts plainly across the room, watching Barinov's face to see how the news lands.
+- 'Then you will never see me again.' Katya weighs in briskly with a sigh, leaving no doubt about where she stands.
+- 'You understand that Nagiyev will not let me win.' Barinov responds earnestly beside Katya and brings in "ponimayesh" ("do you understand", from "ponimat") as the key Russian word here.
+- 'And perhaps this will help you?' Answering firmly around Barinov, Katya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
 - 'What is this? It is a little gift for you.' Katya wonders evenly about what Barinov just brought up.

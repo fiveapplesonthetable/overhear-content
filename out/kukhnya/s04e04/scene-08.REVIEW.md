@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi there.' Vika states this statement around Denis: opening with the casual greeting "privet" ("hi") signals right away that Vika and Denis are on familiar terms.
-- 'Why did you come over here?' Max asks candidly how Vika expects that to work in practice.
-- 'I figured you would be stuck here with Denis for a long time.' Vika colors this vivid element toward Denis: "zavisnesh" means "to time" (from "zavisnt"), giving the line its exact edge.
-- 'I am already done with Denis. Shall we go home?' Max gives the remark briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Sorry. I just wanted to apologize for yelling at you.' Denis follows up pointedly to be clear, keeping the focus on what actually matters here.
-- 'Could you not have come in at least three minutes later?' Max reaches for one classic detail at once: "minuty" means "minutes" (from "minuta"), giving the line its exact edge.
-- 'Why three minutes later?' Denis states this answer with warmth: putting the question word "pochemu" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Den, do you hear us? Close the door.' Max prompts point-blank where this conversation is heading next.
-- 'Vika, don't be angry. He is my brother. We need to help him.' Max centers one familiar word in reply: "pomogat" means "to help", and it carries the main weight of what Max is saying.
-- 'Especially since he has already left.' Max continues briskly to settle things, grounding the moment in plain reality.
-- 'I haven't left yet.' Denis opens up quietly beside Max, leaving no doubt about where he stands.
-- 'I married you, not the two of you.' Vika focuses on one classic touch on cue: "vykhodila" means "went out" (from "vykhodit"), giving the line its exact edge.
+- 'Hi there.' Vika directly voices this casual greeting in one quick breath using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Why did you come over here?' Max asks candidly to see how Vika will answer on the spot.
+- 'I figured you would be stuck here with Denis for a long time.' Vika pushes back calmly before Denis and brings in "zavisnesh" ("to time", from "zavisnt") as the key Russian word here.
+- 'I am already done with Denis. Shall we go home?' Reacting smoothly in this beat, Max keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'Sorry. I just wanted to apologize for yelling at you.' Denis chimes in pointedly toward Max, grounding the moment in plain reality.
+- 'Could you not have come in at least three minutes later?' Mentioning the minutes beside Denis, Max reaches for the Russian word "minuty" ("minutes", built from "minuta") right at the center of the line.
+- 'Why three minutes later?' Pushing back firmly right here, Denis puts the question word "pochemu" right at the start so Max hears the focus immediately.
+- 'Den, do you hear us? Close the door.' Max prompts point-blank whether Denis really thought this through.
+- 'Vika, don't be angry. He is my brother. We need to help him.' Highlighting his brother on the spot, Max brings in "brat" ("brother") to make the meaning unmistakable.
+- 'Especially since he has already left.' Max replies pointedly during the talk and lands on "ushyol" ("left, departed", built on "uyti") to keep the statement grounded.
+- 'I haven't left yet.' Denis answers quietly with a shrug, leaving no doubt about where he stands.
+- 'I married you, not the two of you.' Vika responds plainly in the exchange and leans on "vykhodila" ("went out", a form of "vykhodit") to give the remark its edge.

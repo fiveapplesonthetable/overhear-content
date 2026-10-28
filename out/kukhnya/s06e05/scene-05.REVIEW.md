@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to see me right now?' Barinov directs this point in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Eleonora purely through rising pitch at the end.
-- 'Have a seat with us at the table.' Eleonora steps in plainly with a smile, making her position completely clear.
-- 'Is he going to interrupt the whole time?' Barinov features one key touch toward Eleonora: "vremya" means "time", and it carries the main weight of what Barinov is saying.
-- 'Vitya, we want to be partners.' Eleonora speaks boldly across the room, before Nagiyev can change the subject.
-- 'Do not celebrate too early, my friend.' Nagiyev speaks quietly without any doubt, leaving no doubt about where he stands.
-- 'We are offering you to become co-owner of the restaurant.' See how Eleonora speaks to Nagiyev on cue — the Russian word "sovladeltsem" ("co-owner", built from "sovladelets") does the heavy lifting.
-- 'I believe that you have grown ready for this.' Eleonora frames one colorful piece in earnest: "schitayu" means "am counting" (from "schitat"), giving the line its exact edge.
-- 'Our terms will be equal.' Eleonora replies frankly watching Nagiyev, steering the talk right where she wants it.
-- 'Half of the restaurant is yours, half is mine.' Eleonora anchors one vivid term on cue: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'More precisely, half of the restaurant is ours.' Nagiyev replies frankly to be clear, testing Eleonora's reaction in the middle of the exchange.
-- 'In time I will bring you up to speed.' Eleonora proceeds lightly as things stand, letting the remark speak for itself.
-- 'Right now we only need an answer from you.' Eleonora favors one familiar touch with Nagiyev: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
+- 'Did you want to see me right now?' Answering warmly before Eleonora, Barinov keeps normal statement word order here, turning the line into a question for Eleonora purely through rising pitch.
+- 'Have a seat with us at the table.' Eleonora steps in plainly beside Barinov, so Barinov knows she is not just making small talk.
+- 'Is he going to interrupt the whole time?' Underscoring the whole time right here, Barinov uses "vremya" ("time") to carry the main weight of the thought.
+- 'Vitya, we want to be partners.' Mentioning the partner in this beat, Eleonora puts the weight on "partnyorami" ("partner", from "partnyor") as the exchange unfolds.
+- 'Do not celebrate too early, my friend.' Nagiyev jumps in quietly without a pause, shifting the mood of the conversation in a single beat.
+- 'We are offering you to become co-owner of the restaurant.' Emphasizing the owner beside Nagiyev, Eleonora chooses "sovladeltsem" ("co-owner", from the root "sovladelets") so Nagiyev hears the exact meaning.
+- 'I believe that you have grown ready for this.' Eleonora follows up steadily without any doubt, shifting the mood of the conversation in a single beat.
+- 'Our terms will be equal.' Eleonora counters frankly with a smile, watching Nagiyev's face to see how the news lands.
+- 'Half of the restaurant is yours, half is mine.' Emphasizing the restaurant on the spot, Eleonora chooses "restorana" ("restaurant", from the root "restoran") so Nagiyev hears the exact meaning.
+- 'More precisely, half of the restaurant is ours.' Emphasizing the restaurant with Eleonora, Nagiyev lands on "restorana" ("restaurant", built on "restoran") to keep the statement grounded.
+- 'In time I will bring you up to speed.' Eleonora replies lightly facing Nagiyev, refusing to let the moment slip past.
+- 'Right now we only need an answer from you.' Discussing an answer with Nagiyev, Eleonora uses "nuzhen" ("is needed", from "nuzhnyy") to make the point stick.

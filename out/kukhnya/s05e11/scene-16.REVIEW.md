@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right now we will amaze them! Good evening, gentlemen.' Listen to how Barinov counters Eleonora with urgency — the Russian word "gospoda" ("gentlemen", built from "gospodin") does the heavy lifting.
-- 'Good evening, Eleonora Andreyevna.' Barinov aims the reply around Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Allow me to introduce to you our new cook Artyom.' Barinov holds firm briskly without any doubt, before Eleonora can change the subject.
-- 'Enjoy your meal!' Barinov emphasizes one telling touch for Max: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
-- 'It is me! My friend's blood pressure went up.' Max holds firm earnestly without any doubt, keeping the focus on what actually matters here.
-- 'So that means you can drink and eat what is forbidden?' Max prompts plainly in front of Eleonora without any preamble.
-- 'Calm down! Sit down, I am not drinking for no reason.' Eleonora frames this direct expression toward Barinov: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
-- 'There is a reason.' Eleonora directs that thought right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Right now we will amaze them! Good evening, gentlemen.' Focusing on the gentlemen before Max, Barinov chooses "gospoda" ("gentlemen", from the root "gospodin") so Max hears the exact meaning.
+- 'Good evening, Eleonora Andreyevna.' Barinov plainly drops this evening greeting in front of Eleonora using "dobryy vecher" ("good evening") — the standard Russian evening hello, literally "good evening".
+- 'Allow me to introduce to you our new cook Artyom.' Barinov chimes in briskly with a nod, leaving no doubt about where he stands.
+- 'Enjoy your meal!' Turning to the appetite to Max, Barinov centers the thought on "priyatnogo" ("pleasant", from "priyatnyy") without wasting a word.
+- 'It is me! My friend's blood pressure went up.' Bringing up the blood pressure on the spot, Max chooses "davleniye" ("blood pressure") so Barinov gets the point right away.
+- 'So that means you can drink and eat what is forbidden?' Max prompts plainly what Eleonora is actually getting at here.
+- 'Calm down! Sit down, I am not drinking for no reason.' Eleonora answers dryly during the talk and reaches for the Russian word "uspokoysya" ("calm down", built from "uspokoitsya") right at the center of the line.
+- 'There is a reason.' Checking on a reason in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
 - 'What reason could you possibly have?' Max questions deadpan why things suddenly took this turn between them.
-- 'You see, Maxim and Vika are getting divorced.' Eleonora picks this vivid touch at once: "razvodyatsya" means "are getting divorced" (from "razvoditsya"), giving the line its exact edge.
-- 'Judging by their faces, they are pleased.' Barinov drops this update facing Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'A triumph awaits you!' Barinov continues sharply watching Max, so Max knows he is not just making small talk.
+- 'You see, Maxim and Vika are getting divorced.' Eleonora replies sharply right here and chooses "razvodyatsya" ("are getting divorced", from the root "razvoditsya") so Max hears the exact meaning.
+- 'Judging by their faces, they are pleased.' Explaining how satisfied things are in this beat, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'A triumph awaits you!' Barinov pushes back sharply across the room, bringing things back to earth after the buildup.

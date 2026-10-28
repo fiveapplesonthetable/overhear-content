@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, what are we going to do in the dark now?' Max presses quietly why things suddenly took this turn between them.
-- 'Nothing, we have already cooked everything.' Barinov reaches for this direct piece right here: "prigotovili" means "cooked, prepared" (from "prigotovit"), giving the line its exact edge.
-- 'And the rest is no longer our problem.' Barinov shapes the thought frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Guys, what on earth is going on in here?' Nagiyev inquires plainly where this conversation is heading next.
-- 'We have a banquet scheduled for an oligarch today.' Nagiyev chooses one key touch in earnest: "zaplanirovan" means "planned, scheduled" (from "zaplanirovat"), giving the line its exact edge.
-- 'Wait, Dima, what oligarch are you talking about?' Barinov frames this point around Nagiyev: putting the question word "kakoy" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'If you cannot remember, buy yourself a notebook.' Nagiyev counters earnestly in their talk, grounding the moment in plain reality.
-- 'I told you in plain Russian yesterday.' Nagiyev stresses this direct detail in reply: "russkim" means "Russian" (from "russkiy"), giving the line its exact edge.
-- 'This man wants to invest money in us.' Nagiyev pushes back bluntly as they talk, watching Barinov's face to see how the news lands.
-- 'I put in a kopeck, and pull back a whole sack.' Nagiyev reacts sharply toward Max, steering the talk right where he wants it.
-- 'Wait, is this banquet not for Andrey?' Barinov uses one colorful detail in reply: "banket" means "banquet", and it carries the main weight of what Barinov is saying.
-- 'Vitya, wake up, this is a very generous offer!' Nagiyev pushes back boldly during the talk, making his position completely clear.
+- 'Chef, what are we going to do in the dark now?' Max presses quietly where this conversation is heading next.
+- 'Nothing, we have already cooked everything.' Barinov weighs in readily right here and centers the thought on "prigotovili" ("cooked, prepared", from "prigotovit") without wasting a word.
+- 'And the rest is no longer our problem.' Stressing how remaining things are in front of Nagiyev, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Guys, what on earth is going on in here?' Nagiyev inquires plainly about what Barinov just brought up.
+- 'We have a banquet scheduled for an oligarch today.' Addressing an oligarch during the talk, Nagiyev brings in "oligarkha" ("oligarch", from "oligarkh") as the key Russian word here.
+- 'Wait, Dima, what oligarch are you talking about?' Returning to the oligarch beside Nagiyev, Barinov puts the question word "kakoy" right at the start so Nagiyev hears the focus immediately.
+- 'If you cannot remember, buy yourself a notebook.' Nagiyev proceeds earnestly with a smile, letting the remark speak for itself.
+- 'I told you in plain Russian yesterday.' Bringing up the language during the talk, Nagiyev brings in "russkim" ("Russian", from "russkiy") as the key Russian word here.
+- 'This man wants to invest money in us.' Emphasizing the money in the exchange, Nagiyev reaches for the Russian word "dengi" ("money") right at the heart of the line.
+- 'I put in a kopeck, and pull back a whole sack.' Nagiyev follows up sharply during the talk, testing Barinov's reaction in the middle of the exchange.
+- 'Wait, is this banquet not for Andrey?' Mentioning the banquet on the spot, Barinov puts the emphasis on "banket" ("banquet") in the middle of the talk.
+- 'Vitya, wake up, this is a very generous offer!' Pointing to the offer right here, Nagiyev puts the emphasis on "predlozheniye" ("offer, proposal") in the middle of the talk.

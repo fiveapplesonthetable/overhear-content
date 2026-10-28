@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And how long have you been bringing coffee to German?' Max directs this point facing German: Russian keeps the exact word order of a normal statement here, turning it into a question for German purely through rising pitch at the end.
-- 'What nonsense is that? German Mikhailovich simply asked for coffee.' Kostya checks plainly where this conversation is heading next.
-- 'Today he simply asked for coffee and you brought it.' Max uses this direct choice with German: "segodnya" means "today", and it carries the main weight of what Max is saying.
-- 'And tomorrow if he asks you to snitch, you won't refuse either?' Max directs that reply with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Who, me? I cannot stand him at all.' Kostya inquires straight out before German can change the subject.
-- 'I even spat into his cup.' Kostya colors one sharp expression for Max: "chashku" means "a cup" (from "chashka"), giving the line its exact edge.
-- 'Really? Spit in it one more time.' Max offers that answer on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for German purely through rising pitch at the end.
-- 'Alright, watch this.' Kostya proceeds dryly as they talk, saying out loud what both of them already know.
-- 'I join in your hatred, brother.' Max picks one classic piece in earnest: "prisoyedinyayus" means "hatred", and it carries the main weight of what Max is saying.
-- 'A coffee break? I will gladly join you.' German states that line with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Let's drink some coffee.' German cuts in at once across the room, without trying to dress up how he really feels.
-- 'And then we will proceed to the evaluation.' German focuses on one colorful expression with Max: "attestatsii" means "evaluation" (from "attestatsiya"), giving the line its exact edge.
+- 'And how long have you been bringing coffee to German?' Answering calmly in this beat, Max keeps normal statement word order here, turning the line into a question for German purely through rising pitch.
+- 'What nonsense is that? German Mikhailovich simply asked for coffee.' Kostya checks plainly about what German just brought up.
+- 'Today he simply asked for coffee and you brought it.' Touching on the coffee before Kostya, Max leans on "segodnya" ("today") to give the whole sentence its punch.
+- 'And tomorrow if he asks you to snitch, you won't refuse either?' Opening up evenly on the spot, Max keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Who, me? I cannot stand him at all.' Kostya inquires straight out where this conversation is heading next.
+- 'I even spat into his cup.' Focusing on the cup at once, Kostya leans on "chashku" ("a cup", a form of "chashka") to give the remark its edge.
+- 'Really? Spit in it one more time.' Mentioning the spit right here, Max keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Alright, watch this.' Kostya steps in dryly with a sigh, to clear the air between them once and for all.
+- 'I join in your hatred, brother.' Pointing to the hatred in this beat, Max reaches for the Russian word "prisoyedinyayus" ("hatred") right at the heart of the line.
+- 'A coffee break? I will gladly join you.' Bringing up the pleasure during the talk, German keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Let's drink some coffee.' German chimes in at once in this moment, steering the talk right where he wants it.
+- 'And then we will proceed to the evaluation.' Turning to the evaluation with Max, German brings in "attestatsii" ("evaluation", from "attestatsiya") as the key Russian word here.

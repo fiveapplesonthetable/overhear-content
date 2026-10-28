@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how are you feeling right now?' Kostya frames one pointed term for Nastya: "chuvstvuyesh" means "feel" (from "chuvstvovat"), giving the line its exact edge.
-- 'Thank you, today I feel much better already.' Nastya phrases the reply plainly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'I lay down quietly at home for a bit.' Nastya responds dryly hearing Kostya, saying out loud what both of them already know.
-- 'It is a good thing I asked for today off from work.' Nastya features one practical detail in reply: "otprosilas" means "asked for time off" (from "otprositsya"), giving the line its exact edge.
-- 'Hello, hi, Katya, how are you doing?' Kostya states the reaction without pause: opening with the casual greeting "privet" ("hi") signals right away that Kostya and Nastya are on familiar terms.
-- 'Yes, we are having a housewarming party tonight.' Kostya pushes back evenly watching Nastya, so Nastya knows he is not just making small talk.
-- 'Nastya, I just invited Katya over.' Kostya frames one key term on cue: "pozval" means "invited" (from "pozvat"), giving the line its exact edge.
-- 'Did you invite her for our housewarming?' Nastya lays out this point with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'What kind of housewarming are we having today?' Nastya inquires candidly as Kostya tries to explain the situation.
-- 'We should have set the table first!' Nastya focuses on this telling choice on cue: "snachala" means "first, at first", and it carries the main weight of what Nastya is saying.
-- 'Everything will be just fine, dear Nastya.' Kostya pushes back bluntly as they talk, making his position completely clear.
-- 'The thing is that I invited Katya too.' Nastya weighs in wryly on the spot, without trying to dress up how she really feels.
+- 'Well, how are you feeling right now?' Kostya replies pointedly in the exchange and uses "chuvstvuyesh" ("feel", from "chuvstvovat") to make the point stick.
+- 'Thank you, today I feel much better already.' Addressing the thank right here, Nastya uses "spasibo" ("thank you") to carry the main weight of the thought.
+- 'I lay down quietly at home for a bit.' Nastya cuts in dryly during the talk, refusing to let the moment slip past.
+- 'It is a good thing I asked for today off from work.' Highlighting the work during the talk, Nastya centers the thought on "otprosilas" ("asked for time off", from "otprositsya") without wasting a word.
+- 'Hello, hi, Katya, how are you doing?' Speaking readily on the spot, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Yes, we are having a housewarming party tonight.' Bringing up a housewarming across the room, Kostya makes it clear to Nastya that he means every word.
+- 'Nastya, I just invited Katya over.' Kostya follows up firmly before Nastya and lands on "pozval" ("invited", built on "pozvat") to keep the statement grounded.
+- 'Did you invite her for our housewarming?' Pressing on promptly before Kostya, Nastya keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'What kind of housewarming are we having today?' Nastya inquires candidly where this conversation is heading next.
+- 'We should have set the table first!' Underscoring the table in the exchange, Nastya centers the remark on "snachala" ("first, at first") without any extra fuss.
+- 'Everything will be just fine, dear Nastya.' Kostya counters candidly in this beat and centers the thought on "dorogaya" ("expensive", from "dorogoy") without wasting a word.
+- 'The thing is that I invited Katya too.' Talking about the matter with a nod, Nastya puts the real issue right on the table for Kostya.

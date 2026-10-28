@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, may I put the box in the office?' Lyova centers this clear detail on cue: "kabinete" means "office" (from "kabinet"), giving the line its exact edge.
-- 'Tomorrow is my beloved mom's big milestone birthday.' Lyova brings that remark in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Why does your mom need a second slow cooker at home?' Barinov questions deadpan how Lyova expects that to work in practice.
-- 'This is not a slow cooker, but our old family house!' Lyova grounds this telling detail for Barinov: "multivarka" means "cooker", and it carries the main weight of what Lyova is saying.
-- 'Our family has real noble roots.' Lyova speaks up honestly with a nod, letting the remark speak for itself.
-- 'Our ancestral estate burned down during the war.' Lyova steps in boldly with a smile, before Barinov can change the subject.
-- 'I decided to recreate it out of ordinary matches.' Lyova favors one vivid element in reply: "obychnykh" means "ordinary, usual" (from "obychnyy"), giving the line its exact edge.
-- 'Lyova, you are simply a true master builder!' Barinov frames this update at once: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I glued this palace for two whole weeks.' Lyova speaks up frankly across the room, keeping the focus on what actually matters here.
-- 'Tomorrow there is cleaning at home, and Mom might find it.' Lyova spotlights one memorable detail at once: "uborka" means "cleaning, clean-up", and it carries the main weight of what Lyova is saying.
-- 'Do not worry, put your palace on the table.' Barinov lays out the comment plainly here: the "-sya" ending on "dvorets" ("palace") turns the action inward or makes it happen between people naturally.
-- 'Arkady the fish will reliably guard your gift!' Barinov pushes back candidly with a shrug, shifting the whole mood of the room in a single beat.
+- 'Chef, may I put the box in the office?' Highlighting the office in front of Barinov, Lyova puts the weight on "kabinete" ("office", from "kabinet") as the exchange unfolds.
+- 'Tomorrow is my beloved mom's big milestone birthday.' Emphasizing how favourite things are beside Barinov, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Why does your mom need a second slow cooker at home?' Barinov questions deadpan if there is more going on behind the scenes.
+- 'This is not a slow cooker, but our old family house!' Talking about a slow cooker beside Barinov, Lyova chooses "multivarka" ("cooker") so Barinov gets the point right away.
+- 'Our family has real noble roots.' Mentioning his family right here, Lyova uses "nastoyashchiye" ("real", from "nastoyashchiy") to make the point stick.
+- 'Our ancestral estate burned down during the war.' Lyova counters boldly without any doubt, keeping the focus on what actually matters here.
+- 'I decided to recreate it out of ordinary matches.' Addressing the matches on the spot, Lyova uses "obychnykh" ("ordinary, usual", from "obychnyy") to make the point stick.
+- 'Lyova, you are simply a true master builder!' Explaining how real Lyova is to Lyova, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I glued this palace for two whole weeks.' Lyova replies frankly without holding back, without trying to dress up how he really feels.
+- 'Tomorrow there is cleaning at home, and Mom might find it.' Talking about the cleaning in front of Barinov, Lyova brings in "uborka" ("cleaning, clean-up") to make the meaning unmistakable.
+- 'Do not worry, put your palace on the table.' Addressing the palace on the spot, the "-sya" ending on "dvorets" ("palace") marks an action that unfolds mutually or turns back on the speaker.
+- 'Arkady the fish will reliably guard your gift!' Barinov reacts candidly with a smile, shifting the mood of the conversation in a single beat.

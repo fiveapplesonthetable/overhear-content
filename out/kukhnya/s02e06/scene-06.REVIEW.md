@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh come on, do not take it to heart.' Barinov speaks up frankly watching Kostya, shifting the whole mood of the room in a single beat.
-- 'It actually worked out better for you.' Kostya anchors this sharp touch for Barinov: "luchshe" means "better", and it carries the main weight of what Kostya is saying.
-- 'That is it, I quit.' Barinov drops the comment without fuss: the "-sya" ending on "uvolnyayus" ("quit, resign") turns the action inward or makes it happen between people naturally.
-- 'Attention, Chef!' Kostya holds firm promptly to be clear, letting the remark speak for itself.
-- 'Good morning!' Barinov grounds this vivid detail on cue: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
-- 'Good morning, Chef.' Kostya gives this point toward Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'All right, I salute you.' Barinov weighs in briskly with a sigh, leaving no doubt about where he stands.
-- 'Workers of the knife and the cleaver.' Kostya focuses on this vivid element at once: "rabotnikov" means "workers" (from "rabotnik"), giving the line its exact edge.
-- 'You guys are having fun in here, huh?' Barinov states that point on cue: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Well, how do you like this?' Kostya quizzes sharply before Barinov can change the subject.
-- 'I thought alcohol would destroy your liver first.' Barinov leans on one clear word toward Kostya: "alkogol" means "alcohol", and it carries the main weight of what Barinov is saying.
-- 'But alcohol is a cunning thing.' Kostya drops the reaction right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'It started with your brain instead.' Barinov cuts in bluntly around Kostya, making his position completely clear.
+- 'Oh come on, do not take it to heart.' Barinov speaks frankly in their talk, testing Kostya's reaction in the middle of the exchange.
+- 'It actually worked out better for you.' Kostya speaks up plainly in this beat and chooses "luchshe" ("better") so Barinov gets the point right away.
+- 'That is it, I quit.' Holding firm frankly to Kostya, the "-sya" ending on "uvolnyayus" ("quit, resign") marks an action that unfolds mutually or turns back on the speaker.
+- 'Attention, Chef!' Kostya pushes back promptly across the room, letting the remark speak for itself.
+- 'Good morning!' Barinov briskly offers this morning greeting beside Kostya using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'Good morning, Chef.' Kostya politely voices this morning greeting with Barinov using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'All right, I salute you.' Barinov proceeds briskly with a smile, grounding the moment in plain reality.
+- 'Workers of the knife and the cleaver.' Underscoring the workers during the talk, Kostya puts the weight on "rabotnikov" ("workers", from "rabotnik") as the exchange unfolds.
+- 'You guys are having fun in here, huh?' Stepping in evenly around Kostya, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well, how do you like this?' Kostya quizzes sharply whether Barinov really thought this through.
+- 'I thought alcohol would destroy your liver first.' Talking about the alcohol in this beat, Barinov leans on "alkogol" ("alcohol") to give the whole sentence its punch.
+- 'But alcohol is a cunning thing.' Insisting on how cunning things are before Barinov, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'It started with your brain instead.' Barinov opens up bluntly around Kostya, bringing things back to earth after the buildup.

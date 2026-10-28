@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'With the Chef everything would have been different!' Barinov continues firmly to settle things, shifting the whole mood of the room in a single beat.
-- 'Darling, I can explain everything right now!' Barinov speaks at once to be clear, shifting the whole mood of the room in a single beat.
-- 'Alright, quickly stop your wild imagination!' Barinov picks one telling touch at once: "fantaziyu" means "fantasy, imagination" (from "fantaziya"), giving the line its exact edge.
-- 'At least look, Maxim forgot about his grief.' Barinov drops the reply at once: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
-- 'Max, actually you are to blame for everything yourself.' Kostya jumps in earnestly around Barinov, before Barinov can change the subject.
-- 'You had no business kissing Sasha back then.' Kostya anchors one telling detail in reply: "tselovatsya" means "to kiss", and it carries the main weight of what Kostya is saying.
-- 'And I am not even arguing with that.' Max weighs in candidly in their talk, leaving no doubt about where he stands.
-- 'Well, it is a mistake that you give up so easily.' Kostya answers honestly during the talk, letting the remark speak for itself.
-- 'It seems to me that divorce is too harsh a punishment.' Kostya reaches for this clear expression on cue: "zhestokoye" means "cruel, harsh" (from "zhestokiy"), giving the line its exact edge.
-- 'Especially for such a minor offense.' Kostya jumps in boldly during the talk, testing Max's reaction in the middle of the exchange.
-- 'Yes, our former lawyer stepped in right away!' Barinov responds frankly to settle things, to clear the air between them once and for all.
-- 'It would be great if people were put on trial for cheating!' Barinov anchors this sharp expression at once: "izmeny" means "infidelity" (from "izmena"), giving the line its exact edge.
+- 'With the Chef everything would have been different!' Barinov chimes in firmly watching Kostya, steering the talk right where he wants it.
+- 'Darling, I can explain everything right now!' Barinov counters at once hearing Kostya, refusing to let the moment slip past.
+- 'Alright, quickly stop your wild imagination!' Focusing on the fantasy at once, Barinov reaches for the Russian word "fantaziyu" ("fantasy, imagination", built from "fantaziya") right at the center of the line.
+- 'At least look, Maxim forgot about his grief.' Pointing to the grief in this beat, Barinov pivots with "zato" ("on the bright side, to make up for it") to flip a drawback into a plus.
+- 'Max, actually you are to blame for everything yourself.' Kostya fires back earnestly around Max, letting the remark speak for itself.
+- 'You had no business kissing Sasha back then.' Kostya replies briskly at once and reaches for the Russian word "tselovatsya" ("to kiss") right at the heart of the line.
+- 'And I am not even arguing with that.' Max reacts vividly before Kostya and brings in "sporyu" ("argue", from "sporit") as the key Russian word here.
+- 'Well, it is a mistake that you give up so easily.' Kostya opens up honestly without holding back, making his position completely clear.
+- 'It seems to me that divorce is too harsh a punishment.' Making clear how cruel things are to Max, Kostya chooses "zhestokoye" ("cruel, harsh", from the root "zhestokiy") so Max hears the exact meaning.
+- 'Especially for such a minor offense.' Bringing up the crime right here, Kostya puts the emphasis on "prestupleniye" ("crime, offence") in the middle of the talk.
+- 'Yes, our former lawyer stepped in right away!' Barinov chimes in frankly without holding back, grounding the moment in plain reality.
+- 'It would be great if people were put on trial for cheating!' Focusing on the infidelity in this beat, Barinov reaches for the Russian word "izmeny" ("infidelity", built from "izmena") right at the center of the line.

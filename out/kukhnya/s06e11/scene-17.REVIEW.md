@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You want to turn from a chef into an heiress at dinner?' Eleonora puts that answer in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Well yes, mom, I really need this right now.' Katya answers evenly watching Mikhail, bringing things back to earth after the buildup.
-- 'If you want, we can tell him the truth right away.' Eleonora colors this clear word right here: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'No, I would really love to see his face!' Katya pushes back candidly on the spot, shifting the whole mood of the room in a single beat.
-- 'Viktor Petrovich, his father returned, he is in the room in a meeting.' Mikhail holds firm boldly on the spot, testing Eleonora's reaction in the middle of the exchange.
-- 'Hello, tell me, who is in charge of the hotel here?' Eleonora reaches for this vivid element on cue: "zdravstvuyte" means "hello", and it carries the main weight of what Eleonora is saying.
-- 'I am the general manager, how can I help you?' Mikhail delivers that remark frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Eleonora purely through rising pitch at the end.
-- 'This morning I drove a man to your place from the airport.' Eleonora weighs in boldly hearing Mikhail, making her position completely clear.
-- 'A mustachioed man in a light-colored nice suit.' Eleonora emphasizes one colorful word at once: "muzhchina" means "man", and it carries the main weight of what Eleonora is saying.
-- 'This morning he forgot his suitcase in my car.' Eleonora frames that remark plainly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'It seems to me I understand perfectly whom you are talking about.' Mikhail jumps in evenly facing Eleonora, before Eleonora can change the subject.
-- 'Please, come with me to the room right now.' Mikhail grounds one vivid choice right here: "poydyomte" means "come on, let's go" (from "poyti"), giving the line its exact edge.
+- 'You want to turn from a chef into an heiress at dinner?' Answering earnestly in front of Katya, Eleonora keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Well yes, mom, I really need this right now.' Katya pushes back evenly watching Eleonora, so Eleonora knows she is not just making small talk.
+- 'If you want, we can tell him the truth right away.' Pointing to the truth to Katya, Eleonora chooses "pravdu" ("truth", from the root "pravda") so Katya hears the exact meaning.
+- 'No, I would really love to see his face!' Emphasizing the face at once, Katya reaches for the Russian word "litso" ("face") right at the heart of the line.
+- 'Viktor Petrovich, his father returned, he is in the room in a meeting.' Mikhail answers boldly without a pause, steering the talk right where he wants it.
+- 'Hello, tell me, who is in charge of the hotel here?' Touching on the hotel during the talk, Eleonora brings in "zdravstvuyte" ("hello") to make the meaning unmistakable.
+- 'I am the general manager, how can I help you?' Highlighting how main he is during the talk, Mikhail keeps normal statement word order here, turning the line into a question for Eleonora purely through rising pitch.
+- 'This morning I drove a man to your place from the airport.' Eleonora replies boldly with a nod, leaving no doubt about where she stands.
+- 'A mustachioed man in a light-colored nice suit.' Turning to a mustachioed man on the spot, Eleonora uses "muzhchina" ("man") to carry the main weight of the thought.
+- 'This morning he forgot his suitcase in my car.' Eleonora reacts quietly with a shrug, so Mikhail knows she is not just making small talk.
+- 'It seems to me I understand perfectly whom you are talking about.' Mikhail jumps in openly toward Eleonora, grounding the moment in plain reality.
+- 'Please, come with me to the room right now.' Discussing the number on the spot, Mikhail brings in "poydyomte" ("come on, let's go", from "poyti") as the key Russian word here.

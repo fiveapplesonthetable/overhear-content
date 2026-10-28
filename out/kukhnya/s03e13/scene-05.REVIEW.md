@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you very much for the coffee.' Vika shapes that line before Max: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Do bald men bring you coffee in bed?' Max checks deadpan whether Vika really thought this through.
-- 'When I get up, all the men are still asleep.' Vika favors one classic expression with Max: "muzhchiny" means "man" (from "muzhchina"), giving the line its exact edge.
-- 'Well, Dima could have taken the trouble.' Max brings the thought in earnest: the "-sya" ending on "pobespokoitsya" ("to take the trouble") turns the action inward or makes it happen between people naturally.
-- 'To express his gratitude, so to speak.' Max weighs in firmly to settle things, letting the remark speak for itself.
-- 'Well, so far there is not much to thank me for.' Vika points to this telling expression right here: "blagodarit" means "to thank", and it carries the main weight of what Vika is saying.
-- 'Wait, I did not understand just now.' Vika steps in openly without any doubt, saying out loud what both of them already know.
+- 'Thank you very much for the coffee.' Vika evenly delivers this word of thanks while facing Max using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Do bald men bring you coffee in bed?' Max checks deadpan before Vika can change the subject.
+- 'When I get up, all the men are still asleep.' Addressing the man in this beat, Vika centers the thought on "muzhchiny" ("man", from "muzhchina") without wasting a word.
+- 'Well, Dima could have taken the trouble.' Replying plainly during the talk, the "-sya" ending on "pobespokoitsya" ("to take the trouble") marks an action that unfolds mutually or turns back on the speaker.
+- 'To express his gratitude, so to speak.' Max proceeds firmly hearing Vika, so Vika knows he is not just making small talk.
+- 'Well, so far there is not much to thank me for.' Vika steps in vividly in the exchange and brings in "blagodarit" ("to thank") to make the meaning unmistakable.
+- 'Wait, I did not understand just now.' Vika replies readily beside Max and puts the weight on "podozhdi" ("wait", from "podozhdat") as the exchange unfolds.
 - 'And how does Dima feel about that?' Max presses candidly before Vika can change the subject.
-- 'He seems to take it fine.' Vika chooses this vivid term right here: "otnositsya" means "applies", and it carries the main weight of what Vika is saying.
-- 'Alright, if it is a no, then it is a no.' Nagiyev shapes this answer toward Vika: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.
-- 'I understand everything perfectly well.' Nagiyev answers steadily hearing Max, shifting the whole mood of the room in a single beat.
-- 'I say yes to you, and you say no to me.' Nagiyev steps in promptly to settle things, leaving no doubt about where he stands.
-- 'Good night, Dmitry Vladimirovich.' Vika sends the comment without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'He seems to take it fine.' Vika fires back evenly right here and uses "otnositsya" ("applies") to carry the main weight of the thought.
+- 'Alright, if it is a no, then it is a no.' Nagiyev briskly delivers this word of agreement at the start of the beat using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'I understand everything perfectly well.' Nagiyev chimes in steadily watching Vika, testing Vika's reaction in the middle of the exchange.
+- 'I say yes to you, and you say no to me.' Nagiyev proceeds promptly with a smile, letting the remark speak for itself.
+- 'Good night, Dmitry Vladimirovich.' Dwelling on the night in front of Nagiyev, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

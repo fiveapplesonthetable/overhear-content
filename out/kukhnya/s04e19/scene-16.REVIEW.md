@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, hello, how are you doing?' Elena grounds one colorful detail toward Barinov: "dela" means "things, affairs" (from "delo"), giving the line its exact edge.
-- 'Lena, hi, what a pleasant surprise!' Barinov voices that line right away: opening with the casual greeting "privet" ("hi") signals right away that Barinov and Elena are on familiar terms.
-- 'Have you been back in Moscow for long?' Barinov asks skeptically what Elena is actually getting at here.
-- 'Yes, I have been here for two months already.' Elena uses one practical word right here: "mesyatsa" means "months" (from "mesyats"), giving the line its exact edge.
-- 'And what about your expensive restaurant?' Barinov aims that remark with warmth: putting the question word "kak" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'Nothing came of it, it did not work out for me.' Elena answers warmly toward Barinov, so Barinov knows she is not just making small talk.
-- 'The owner and I did not get along in temperament.' Elena chooses one classic expression in reply: "kharakterom" means "character, temper" (from "kharakter"), giving the line its exact edge.
-- 'Now I cannot get hired at a good job.' Elena follows up quietly without any doubt, refusing to let the moment slip past.
-- 'That is why I came to this show.' Elena fires back candidly to settle things, making her position completely clear.
-- 'You should be working in the best restaurant!' Barinov features one telling term at once: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'All right, I will handle everything myself.' Elena voices this statement frankly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'I was very glad to see you.' Elena holds firm calmly without a pause, leaving no doubt about where she stands.
+- 'Vitya, hello, how are you doing?' Elena follows up naturally around Barinov and centers the thought on "dela" ("things, affairs", from "delo") without wasting a word.
+- 'Lena, hi, what a pleasant surprise!' Touching on a pleasant surprise in this beat, Barinov leans on "priyatnyy" ("nice, pleasant") to give the whole sentence its punch.
+- 'Have you been back in Moscow for long?' Barinov asks skeptically how Elena expects that to work in practice.
+- 'Yes, I have been here for two months already.' Bringing up the months during the talk, Elena lands on "mesyatsa" ("months", built on "mesyats") to keep the statement grounded.
+- 'And what about your expensive restaurant?' Cutting in naturally at once, Barinov puts the question word "kak" right at the start so Elena hears the focus immediately.
+- 'Nothing came of it, it did not work out for me.' Elena continues warmly without holding back, testing Barinov's reaction in the middle of the exchange.
+- 'The owner and I did not get along in temperament.' Addressing the character in this beat, Elena centers the thought on "kharakterom" ("character, temper", from "kharakter") without wasting a word.
+- 'Now I cannot get hired at a good job.' Bringing up a good job in the exchange, Elena reaches for the Russian word "khoroshuyu" ("good", built from "khoroshiy") right at the center of the line.
+- 'That is why I came to this show.' Elena speaks up candidly in this moment, testing Barinov's reaction in the middle of the exchange.
+- 'You should be working in the best restaurant!' Turning to the best restaurant at once, Barinov reaches for the Russian word "restorane" ("restaurant", built from "restoran") right at the center of the line.
+- 'All right, I will handle everything myself.' Looking over frankly in this beat, the "-sya" ending on "spravlyus" ("will manage") marks an action that unfolds mutually or turns back on the speaker.
+- 'I was very glad to see you.' Elena cuts in calmly in this moment, so Barinov knows she is not just making small talk.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oguzok, do you want to be sous-chef?' Max gives the comment around Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Come on, you will not appoint me anyway.' Barinov continues openly toward Nastya, refusing to let the moment slip past.
-- 'I have only worked here a short time, I have very little experience.' Nastya chooses one memorable word with Barinov: "rabotayu" means "work" (from "rabotat"), giving the line its exact edge.
-- 'I told you, do not get smart with me.' Max gives that thought without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'You are already the sous-chef.' Barinov stands firm decisively with a nod, without trying to dress up how he really feels.
-- 'Redo the soup and get started.' Nastya favors one telling term in reply: "peredelayesh" means "to redo, to remake" (from "peredelat"), giving the line its exact edge.
-- 'Yes, where is Nastya?' Max makes that line right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'It has been like this for a whole hour.' Barinov pushes back boldly without any doubt, keeping the focus on what actually matters here.
-- 'Where is Nastya?' Max delivers this line facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I do not know.' Max lays out that line without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'She left for your place first thing this morning.' Barinov answers steadily on the spot, so Max knows he is not just making small talk.
-- 'She is not here with us.' Nastya phrases this warning on cue: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Maybe she went back home to his place?' Max delivers that point right away: the "-sya" ending on "vernulas" ("returned") turns the action inward or makes it happen between people naturally.
+- 'Oguzok, do you want to be sous-chef?' Looking over firmly at once, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Come on, you will not appoint me anyway.' Barinov reacts openly with a nod, steering the talk right where he wants it.
+- 'I have only worked here a short time, I have very little experience.' Discussing the experience to Barinov, Nastya centers the thought on "rabotayu" ("work", from "rabotat") without wasting a word.
+- 'I told you, do not get smart with me.' Leaning in warmly in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'You are already the sous-chef.' Barinov fires back decisively in their talk, before Max can change the subject.
+- 'Redo the soup and get started.' Addressing the soup at once, Nastya uses "peredelayesh" ("to redo, to remake", from "peredelat") to make the point stick.
+- 'Yes, where is Nastya?' Max evenly shares this direct affirmation in front of Nastya using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'It has been like this for a whole hour.' Barinov reacts boldly with a shrug, bringing things back to earth after the buildup.
+- 'Where is Nastya?' Speaking readily right here, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I do not know.' Answering earnestly at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'She left for your place first thing this morning.' Barinov answers steadily without any doubt, letting the remark speak for itself.
+- 'She is not here with us.' Pressing on plainly on the spot, Nastya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Maybe she went back home to his place?' Jumping in smoothly with Nastya, the "-sya" ending on "vernulas" ("returned") marks an action that unfolds mutually or turns back on the speaker.

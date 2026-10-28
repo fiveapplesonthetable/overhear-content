@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you.' Denis leans on one telling choice with German: "spasibo" means "thank you", and it carries the main weight of what Denis is saying.
-- 'You are welcome.' Max brings this warning beside German: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Lavrov, what are you doing here?' German prompts eagerly while looking straight at Denis here.
-- 'It is my day off. I decided to help Denis out.' Max leans on one telling expression on cue: "vykhodnoy" means "a day off", and it carries the main weight of what Max is saying.
-- 'This is not an occasion where you should show brotherly care.' German aims the comment around Denis: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Please leave, otherwise your day off will never end.' German replies lightly without any doubt, leaving no doubt about where he stands.
-- 'Alright, go on. I will manage by myself.' Denis stresses one concrete detail right here: "spravlyus" means "will manage" (from "spravitsya"), giving the line its exact edge.
-- 'Then I will have to solve your problems for you again.' Max chooses this telling expression in earnest: "problemy" means "problems" (from "problema"), giving the line its exact edge.
-- 'What do you mean, again?' Denis challenges straight out what German is actually getting at here.
-- 'Because this happens all the time.' Max anchors one vivid touch on cue: "proiskhodit" means "is going on", and it carries the main weight of what Max is saying.
-- 'Get out of here, got it? I will do everything myself.' Denis offers that reply with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Are you going to carve a violin out of a potato?' Max inquires openly what German is actually getting at here.
+- 'Thank you.' Denis smoothly offers this word of thanks for Max using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'You are welcome.' Holding firm smoothly beside Denis, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Lavrov, what are you doing here?' German prompts eagerly while looking straight at Max here.
+- 'It is my day off. I decided to help Denis out.' Discussing his day in front of Denis, Max chooses "vykhodnoy" ("a day off") so Denis gets the point right away.
+- 'This is not an occasion where you should show brotherly care.' Emphasizing how care things are before Max, German leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Please leave, otherwise your day off will never end.' German speaks lightly without any doubt, refusing to let the moment slip past.
+- 'Alright, go on. I will manage by myself.' Denis simply gives this word of agreement right on cue using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Then I will have to solve your problems for you again.' Raising the problems hearing Denis, Max makes it clear to Denis that he means every word.
+- 'What do you mean, again?' Denis challenges straight out to see how Max will answer on the spot.
+- 'Because this happens all the time.' Pointing to the time on the spot, Max uses "proiskhodit" ("is going on") to carry the main weight of the thought.
+- 'Get out of here, got it? I will do everything myself.' Pressing on evenly on the spot, Denis starts with "davay" ("come on, let's") to invite Max right into the action.
+- 'Are you going to carve a violin out of a potato?' Max inquires openly how Denis expects that to work in practice.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, sit down quickly at the table next to us!' Katya proceeds boldly without holding back, shifting the whole mood of the room in a single beat.
-- 'Take a free chair, there is tasty sausage and salads here.' Barinov proceeds lightly before Katya, saying out loud what both of them already know.
-- 'Eva, sit down with us, the workday is finished!' Barinov reaches for this sharp term for German: "rabochiy" means "working", and it carries the main weight of what Barinov is saying.
-- 'Ainura, why are you standing there so sad, come here!' Barinov sharpens one key piece toward Katya: "grustnaya" means "sad" (from "grustnyy"), giving the line its exact edge.
-- 'German Mikhailovich, come join us at the table too.' Katya holds firm calmly with a sigh, bringing things back to earth after the buildup.
-- 'Come on, really, everyone is already waiting for you!' Barinov colors this direct detail with Katya: "idyomte" means "let us go" (from "idti"), giving the line its exact edge.
-- 'Well all right, thank you very much for the invitation.' German puts this statement without fuss: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Now that is another matter entirely, pour for everyone!' Barinov weighs in plainly around Katya, testing Katya's reaction in the middle of the exchange.
-- 'Chef, let's bury the hatchet for today.' German reaches for one vivid expression on cue: "segodnya" means "today", and it carries the main weight of what German is saying.
-- 'Senya, pour for the guests quickly, do not drag it out!' Barinov aims this point plainly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Lyova, and tasty compote for you, you are driving!' Katya follows up evenly during the talk, grounding the moment in plain reality.
-- 'Friends, we raise our glasses, we drink to our chef!' German grounds one familiar detail for Katya: "podnimayem" means "to raise" (from "podnimat"), giving the line its exact edge.
+- 'Denis, sit down quickly at the table next to us!' Touching on the table in front of Barinov, Katya centers the thought on "skoreye" ("quickly, right away", from "skoro") without wasting a word.
+- 'Take a free chair, there is tasty sausage and salads here.' Barinov proceeds lightly with Katya, before Katya can change the subject.
+- 'Eva, sit down with us, the workday is finished!' Making clear how working things are beside Katya, Barinov centers the remark on "rabochiy" ("working") without any extra fuss.
+- 'Ainura, why are you standing there so sad, come here!' Barinov speaks boldly around Katya, so Katya knows he is not just making small talk.
+- 'German Mikhailovich, come join us at the table too.' Katya opens up calmly without holding back, making her position completely clear.
+- 'Come on, really, everyone is already waiting for you!' Emphasizing the case right here, Barinov centers the thought on "idyomte" ("let us go", from "idti") without wasting a word.
+- 'Well all right, thank you very much for the invitation.' German replies openly with a smile, steering the talk right where he wants it.
+- 'Now that is another matter entirely, pour for everyone!' Barinov fires back plainly without any doubt, to clear the air between them once and for all.
+- 'Chef, let's bury the hatchet for today.' Touching on the axe around Barinov, German chooses "segodnya" ("today") so Barinov gets the point right away.
+- 'Senya, pour for the guests quickly, do not drag it out!' Returning to the guests during the talk, Barinov starts with "davay" ("come on, let's") to invite German right into the action.
+- 'Lyova, and tasty compote for you, you are driving!' Katya cuts in evenly on the spot, refusing to let the moment slip past.
+- 'Friends, we raise our glasses, we drink to our chef!' Addressing the friends on the spot, German chooses "podnimayem" ("to raise", from the root "podnimat") so Barinov hears the exact meaning.

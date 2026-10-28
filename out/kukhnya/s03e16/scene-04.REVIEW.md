@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, maybe we started all this for nothing?' Fedya spotlights this vivid detail for Senya: "zateyali" means "started, cooked up" (from "zateyat"), giving the line its exact edge.
-- 'Just think what a great life awaits us!' Senya leans on one concrete piece with Fedya: "podumay" means "think" (from "podumat"), giving the line its exact edge.
-- 'You steal meat and immediately blame it on the poltergeist!' Senya fires back wryly as things stand, refusing to let the moment slip past.
-- 'Question, who locked me in the shower room this morning?' Senya emphasizes this vivid term in reply: "dushevoy" means "in the shower room" (from "dushevaya"), giving the line its exact edge.
-- 'Of course, the evil poltergeist did it!' Fedya counters bluntly across the room, before Senya can change the subject.
+- 'Senya, maybe we started all this for nothing?' Fedya speaks up naturally during the talk and leans on "zateyali" ("started, cooked up", a form of "zateyat") to give the remark its edge.
+- 'Just think what a great life awaits us!' Senya jumps in bluntly with a nod, watching Fedya's face to see how the news lands.
+- 'You steal meat and immediately blame it on the poltergeist!' Senya replies wryly hearing Fedya, before Fedya can change the subject.
+- 'Question, who locked me in the shower room this morning?' Turning to the shower room right here, Senya leans on "dushevoy" ("in the shower room", a form of "dushevaya") to give the remark its edge.
+- 'Of course, the evil poltergeist did it!' Fedya smoothly voices this confirmation beside Senya using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
 - 'And if you smell in the morning, is it stale alcohol breath?' Senya wonders frankly what Fedya is actually getting at here.
-- 'You can easily blame that on the poltergeist too!' Senya stresses this direct word in reply: "poltergeyst" means "poltergeist", and it carries the main weight of what Senya is saying.
-- 'Well alright, look how scary it turned out!' Fedya makes that reply frankly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.
-- 'It looks like real blood is painted on the mirror!' Fedya speaks sharply with a sigh, watching Senya's face to see how the news lands.
-- 'Fedya, that actually is real blood!' Senya colors one sharp word for Fedya: "nastoyashchaya" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
-- 'Relax, it is just ordinary pig's blood!' Senya highlights one loaded term with Fedya: "obychnaya" means "ordinary, usual" (from "obychnyy"), giving the line its exact edge.
-- 'Alright, run quickly back to the kitchen!' Senya proceeds sharply to settle things, steering the talk right where he wants it.
+- 'You can easily blame that on the poltergeist too!' Bringing up the poltergeist during the talk, Senya chooses "poltergeyst" ("poltergeist") so Fedya gets the point right away.
+- 'Well alright, look how scary it turned out!' Pushing back calmly in front of Senya, the "-sya" ending on "poluchilos" ("worked out") marks an action that unfolds mutually or turns back on the speaker.
+- 'It looks like real blood is painted on the mirror!' Fedya replies sharply without any doubt, testing Senya's reaction in the middle of the exchange.
+- 'Fedya, that actually is real blood!' Stressing how real things are at once, Senya brings in "nastoyashchaya" ("real, genuine", from "nastoyashchiy") as the key Russian word here.
+- 'Relax, it is just ordinary pig's blood!' Senya replies frankly on the spot, shifting the mood of the conversation in a single beat.
+- 'Alright, run quickly back to the kitchen!' Senya speaks sharply toward Fedya, grounding the moment in plain reality.

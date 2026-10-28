@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not know by what laws of the universe this works.' Max focuses on one practical term in reply: "vselennaya" means "universe", and it carries the main weight of what Max is saying.
-- 'Just as it seemed to you.' Vika makes that thought without fuss: the "-sya" ending on "kazalos" ("to seem") turns the action inward or makes it happen between people naturally.
-- 'The life you could have lost comes back to you.' Senya steps in boldly during the talk, to clear the air between them once and for all.
-- 'But sometimes a return happens.' Max reaches for one pointed term at once: "vozvrashcheniye" means "return", and it carries the main weight of what Max is saying.
-- 'Are you a new guy here or what?' Vika frames this warning at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Here you go!' Senya speaks at once around Vika, keeping the focus on what actually matters here.
-- 'Senya, how is the fricassee coming along.' Max sharpens this direct piece on cue: "gotovnosti" means "readiness, doneness" (from "gotovnost"), giving the line its exact edge.
-- 'Wait, who is that?' Vika makes that point facing Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He used to work here as a waiter.' Senya jumps in openly watching Max, steering the talk right where he wants it.
-- 'He was almost like a son to me.' Max spotlights one sharp piece at once: "pochti" means "almost", and it carries the main weight of what Max is saying.
-- 'Not like you.' Vika frames that line around Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Will Viktoriya Sergeyevna take me back?' Senya questions briskly before Vika can change the subject.
-- 'Ever since you left.' Max leans on one colorful choice in reply: "ushel" means "left, would leave" (from "uyti"), giving the line its exact edge.
+- 'I do not know by what laws of the universe this works.' Underscoring the universe before Vika, Max centers the remark on "vselennaya" ("universe") without any extra fuss.
+- 'Just as it seemed to you.' Pushing back candidly with Max, the "-sya" ending on "kazalos" ("to seem") marks an action that unfolds mutually or turns back on the speaker.
+- 'The life you could have lost comes back to you.' Senya proceeds boldly toward Vika, so Vika knows he is not just making small talk.
+- 'But sometimes a return happens.' Mentioning a return in this beat, Max uses "vozvrashcheniye" ("return") to carry the main weight of the thought.
+- 'Are you a new guy here or what?' Stressing how newcomer things are beside Senya, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Here you go!' Senya speaks at once toward Vika, without trying to dress up how he really feels.
+- 'Senya, how is the fricassee coming along.' Highlighting the readiness right here, Max lands on "gotovnosti" ("readiness, doneness", built on "gotovnost") to keep the statement grounded.
+- 'Wait, who is that?' Answering openly beside Senya, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He used to work here as a waiter.' Senya weighs in openly with a shrug, watching Vika's face to see how the news lands.
+- 'He was almost like a son to me.' Addressing a son in front of Senya, Max leans on "pochti" ("almost") to give the whole sentence its punch.
+- 'Not like you.' Leaning in naturally right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Will Viktoriya Sergeyevna take me back?' Senya questions briskly before Max can change the subject.
+- 'Ever since you left.' Max speaks readily with Senya and lands on "ushel" ("left, would leave", built on "uyti") to keep the statement grounded.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Then the investigation is officially closed.' Max jumps in briskly without any doubt, shifting the whole mood of the room in a single beat.
-- 'But I am warning all of you.' Vika highlights this key element with Max: "preduprezhdayu" means "to warn" (from "preduprezhdat"), giving the line its exact edge.
-- 'Next time this happens.' Max sends the remark frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'That applies to you too.' Vika replies boldly on the spot, so Max knows she is not just making small talk.
-- 'Got it, mom.' Max highlights one memorable choice in reply: "yasno" means "clear, got it", and it carries the main weight of what Max is saying.
-- 'Well, it is clear to me.' Vika puts this statement around Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I figured his scheme out right away.' Max answers earnestly with a smile, steering the talk right where he wants it.
-- 'You see what he did, right?' Vika stresses one loaded term for Max: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'What he did was very foolish.' Max directs this update with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I see. And what about you?' Vika quizzes firmly whether Max really thought this through.
-- 'Well, that is that.' Max frames the reaction facing Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What happened?' Vika delivers this point right away: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
-- 'It looks like I just got dumped.' Max opens up at once toward Vika, watching Vika's face to see how the news lands.
+- 'Then the investigation is officially closed.' Max proceeds briskly around Vika, grounding the moment in plain reality.
+- 'But I am warning all of you.' Vika pushes back vividly around Max and brings in "preduprezhdayu" ("to warn", from "preduprezhdat") as the key Russian word here.
+- 'Next time this happens.' Looking over calmly around Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'That applies to you too.' Vika steps in boldly during the talk, shifting the mood of the conversation in a single beat.
+- 'Got it, mom.' Max gently speaks this acknowledgment in front of Vika using "yasno" ("clear") — literally "brightly, clearly", used in conversation to mean "got it, I see".
+- 'Well, it is clear to me.' Vika directly speaks this acknowledgment without hesitation using "yasno" ("clear") — literally "brightly, clearly", used in conversation to mean "got it, I see".
+- 'I figured his scheme out right away.' Max opens up earnestly without any doubt, grounding the moment in plain reality.
+- 'You see what he did, right?' Vika speaks firmly in front of Max and brings in "ponyal" ("understood", from "ponyat") as the key Russian word here.
+- 'What he did was very foolish.' Answering naturally before Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I see. And what about you?' Vika evenly drops this acknowledgment while facing Max using "ponyatno" ("understood") — a single word meaning "clear, got it", showing the point has landed.
+- 'Well, that is that.' Cutting in dryly during the talk, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What happened?' Replying warmly to Max, the "-sya" ending on "sluchilos" ("happened") marks an action that unfolds mutually or turns back on the speaker.
+- 'It looks like I just got dumped.' Max answers at once hearing Vika, shifting the mood of the conversation in a single beat.

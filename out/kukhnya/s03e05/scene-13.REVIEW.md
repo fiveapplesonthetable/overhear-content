@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am telling you, you need to rinse.' Fedya centers one memorable piece on cue: "poloskat" means "rinse", and it carries the main weight of what Fedya is saying.
-- 'Your medicine will not help at all.' Fedya delivers the comment with warmth: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Right here is real cold ice.' Fedya cuts in quietly during the talk, so Kostya knows he is not just making small talk.
-- 'Here, you can check for yourself.' Fedya features one key piece right here: "proverit" means "to check, verify", and it carries the main weight of what Fedya is saying.
-- 'Well, have you checked already?' Fedya makes the thought with warmth: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Yes, your rival is certainly serious.' Kostya opens up earnestly as things stand, before Max can change the subject.
-- 'It is good that he does not like Nastya.' Kostya points to one vivid word at once: "nravitsya" means "is pleasing", and it carries the main weight of what Kostya is saying.
-- 'I will go talk with him calmly.' Max responds steadily before Kostya, leaving no doubt about where he stands.
-- 'Max, wait, where are you going?' Kostya inquires wryly before Fedya can change the subject.
-- 'Dmitry Vladimirovich, are you free right now?' Max stresses one vivid element at once: "svobodny" means "free" (from "svobodnyy"), giving the line its exact edge.
-- 'Let me call you back later.' Kostya anchors one telling word toward Fedya: "perezvonyu" means "will call back" (from "perezvonit"), giving the line its exact edge.
-- 'We need to talk seriously.' Max opens up sharply around Kostya, leaving no doubt about where he stands.
+- 'I am telling you, you need to rinse.' Fedya cuts in plainly at once and uses "poloskat" ("rinse") to carry the main weight of the thought.
+- 'Your medicine will not help at all.' Pointing to the medicine in front of Kostya, Fedya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Right here is real cold ice.' Fedya continues quietly facing Kostya, grounding the moment in plain reality.
+- 'Here, you can check for yourself.' Fedya counters readily right here and brings in "proverit" ("to check, verify") to make the meaning unmistakable.
+- 'Well, have you checked already?' Holding firm promptly to Kostya, Fedya puts the question word "chto" right at the start so Kostya hears the focus immediately.
+- 'Yes, your rival is certainly serious.' Kostya answers earnestly in this moment, before Fedya can change the subject.
+- 'It is good that he does not like Nastya.' Kostya counters smoothly around Max and puts the emphasis on "nravitsya" ("is pleasing") in the middle of the talk.
+- 'I will go talk with him calmly.' Max weighs in quietly around Kostya and uses "pogovoryu" ("I'll talk", from "pogovorit") to make the point stick.
+- 'Max, wait, where are you going?' Kostya inquires wryly before Max can change the subject.
+- 'Dmitry Vladimirovich, are you free right now?' Emphasizing how free things are on the spot, Max centers the thought on "svobodny" ("free", from "svobodnyy") without wasting a word.
+- 'Let me call you back later.' Kostya continues frankly without a pause, without trying to dress up how he really feels.
+- 'We need to talk seriously.' Max continues sharply with a sigh, testing Kostya's reaction in the middle of the exchange.

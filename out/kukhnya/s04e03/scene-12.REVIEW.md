@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was sure that Viktor Petrovich would not resist a bet.' Elena cuts in firmly with a nod, saying out loud what both of them already know.
-- 'Everything is fine with you. Both your eyesight and your memory.' Elena grounds one key detail in reply: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Your conscience, however, is not doing so well.' Elena shares the reaction calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You ought to fire me for that.' Barinov answers bluntly across the room, testing German's reaction in the middle of the exchange.
-- 'Not a chance. You will keep working for me as sous-chef.' Elena highlights one direct element in reply: "su-shefom" means "sous-chef" (from "su-shef"), giving the line its exact edge.
-- 'I will deduct the ruined dishes and ingredients from your salary.' Elena follows up firmly with a nod, grounding the moment in plain reality.
-- 'Is my fish ready?' Barinov asks openly in front of Elena without any preamble.
-- 'Here is your order. No need to light it on fire?' Barinov centers one clear piece toward German: "podzhigat" means "to set on fire", and it carries the main weight of what Barinov is saying.
-- 'I am waiting for a young lady.' German states the reaction to Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Please bring a bottle of your best wine in the meantime.' German cuts in quietly with a smile, keeping the focus on what actually matters here.
-- 'Just a moment.' Barinov uses one classic term with Elena: "minutochku" means "a minute" (from "minutochka"), giving the line its exact edge.
-- 'Well now. Viktor Petrovich Barinov, in person.' German brings that remark facing Elena: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'I was sure that Viktor Petrovich would not resist a bet.' Elena responds firmly facing Barinov, bringing things back to earth after the buildup.
+- 'Everything is fine with you. Both your eyesight and your memory.' Talking about the order before Barinov, Elena centers the thought on "poryadke" ("order", from "poryadok") without wasting a word.
+- 'Your conscience, however, is not doing so well.' Addressing the conscience during the talk, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You ought to fire me for that.' Barinov reacts bluntly in their talk, refusing to let the moment slip past.
+- 'Not a chance. You will keep working for me as sous-chef.' Bringing up the case on the spot, Elena leans on "su-shefom" ("sous-chef", a form of "su-shef") to give the remark its edge.
+- 'I will deduct the ruined dishes and ingredients from your salary.' Discussing the dish on the spot, Elena reaches for the Russian word "isporchennyye" ("deduct", built from "isporchennyy") right at the center of the line.
+- 'Is my fish ready?' Barinov asks openly while looking straight at Elena here.
+- 'Here is your order. No need to light it on fire?' Underscoring the order in the exchange, Barinov chooses "podzhigat" ("to set on fire") so German gets the point right away.
+- 'I am waiting for a young lady.' Dwelling on the young woman at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Please bring a bottle of your best wine in the meantime.' German reacts quietly in this moment, testing Barinov's reaction in the middle of the exchange.
+- 'Just a moment.' Bringing up the minute in this beat, Barinov brings in "minutochku" ("a minute", from "minutochka") as the key Russian word here.
+- 'Well now. Viktor Petrovich Barinov, in person.' Talking about the person in this beat, German leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".

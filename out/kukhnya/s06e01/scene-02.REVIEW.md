@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything is ready.' Barinov voices the comment right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What?' Senya prompts openly where this conversation is heading next.
-- 'Nothing, I am very happy.' Barinov frames this key word at once: "schastliv" means "happy, lucky" (from "schastlivyy"), giving the line its exact edge.
-- 'I hope I do not need to repeat to you.' Barinov shares that remark on cue: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Today is a very important banquet.' Barinov holds firm promptly as things stand, testing Senya's reaction in the middle of the exchange.
-- 'And I am warning everyone right away.' Barinov focuses on one colorful touch on cue: "preduprezhdayu" means "to warn" (from "preduprezhdat"), giving the line its exact edge.
-- 'If a lobster disappears, I will fire you.' Barinov points to this direct word on cue: "propadet" means "disappears" (from "propast"), giving the line its exact edge.
-- 'Chef, everyone back to work.' Senya cuts in sharply with a shrug, watching Barinov's face to see how the news lands.
-- 'Chef, is everything alright?' Senya stresses this telling element in reply: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Everything is fine, just magnetic storms.' Barinov makes this warning briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I will go lie down for a bit.' Barinov pushes back pointedly facing Senya, bringing things back to earth after the buildup.
-- 'Why are we standing around?' Barinov colors one concrete term toward Senya: "stoim" means "to stand" (from "stoyat"), giving the line its exact edge.
+- 'Everything is ready.' Confirming how ready things are during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What?' Senya prompts openly before Barinov can change the subject.
+- 'Nothing, I am very happy.' Showing how happy he is with Senya, Barinov centers the thought on "schastliv" ("happy, lucky", from "schastlivyy") without wasting a word.
+- 'I hope I do not need to repeat to you.' Opening up smoothly with Senya, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Today is a very important banquet.' Barinov continues promptly without a pause, to clear the air between them once and for all.
+- 'And I am warning everyone right away.' Barinov follows up plainly with Senya and leans on "preduprezhdayu" ("to warn", a form of "preduprezhdat") to give the remark its edge.
+- 'If a lobster disappears, I will fire you.' Barinov cuts in calmly without holding back, letting the remark speak for itself.
+- 'Chef, everyone back to work.' Senya responds sharply toward Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Chef, is everything alright?' Bringing up the order beside Barinov, Senya uses "poryadke" ("order", from "poryadok") to make the point stick.
+- 'Everything is fine, just magnetic storms.' Noting how magnetic things are in this beat, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I will go lie down for a bit.' Barinov reacts pointedly with Senya, making his position completely clear.
+- 'Why are we standing around?' Barinov opens up firmly during the talk and brings in "stoim" ("to stand", from "stoyat") as the key Russian word here.

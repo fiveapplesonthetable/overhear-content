@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I put my salary in the bank.' Lyova chimes in openly to settle things, leaving no doubt about where he stands.
-- 'After all, I live with my mother.' Lyova holds firm at once as things stand, leaving no doubt about where he stands.
-- 'And Gulya also earns well.' Hear how Lyova updates Barinov on cue — the Russian word "zarabatyvayet" ("earns", built from "zarabatyvat") does the heavy lifting.
-- 'And there came to be even more money.' Lyova responds decisively to settle things, bringing things back to earth after the buildup.
-- 'Are you ready to give away this money?' Barinov checks plainly where this conversation is heading next.
-- 'This is your life's work, after all.' Lyova focuses on one colorful expression toward the inspector: "zhizni" means "life" (from "zhizn"), giving the line its exact edge.
-- 'For the sake of the restaurant I grudge nothing.' Lyova directs the remark facing Barinov: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'And I will save up more for myself.' Lyova pushes back earnestly to settle things, refusing to let the moment slip past.
-- 'Lyova, you will definitely go to heaven.' Barinov stresses one familiar touch with the inspector: "popadyosh" means "to hit, to get" (from "popast"), giving the line its exact edge.
-- 'Lyova, fly quickly to the bank.' Barinov speaks steadily to be clear, steering the talk right where he wants it.
-- 'First I will receive my money.' The inspector follows up earnestly on the spot, watching Barinov's face to see how the news lands.
-- 'I must see your review.' Barinov underscores this clear detail right here: "dolzhen" means "has to, must", and it carries the main weight of what Barinov is saying.
+- 'I put my salary in the bank.' Talking about his salary at once, Lyova centers the thought on "zarplatu" ("salary", from "zarplata") without wasting a word.
+- 'After all, I live with my mother.' Bringing up the mum with a nod, Lyova speaks plainly so Barinov gets the message at once.
+- 'And Gulya also earns well.' Lyova replies candidly before Barinov and leans on "zarabatyvayet" ("earns", a form of "zarabatyvat") to give the remark its edge.
+- 'And there came to be even more money.' Focusing on the money in this beat, Lyova leans on "deneg" ("money", a form of "dengi") to give the remark its edge.
+- 'Are you ready to give away this money?' Barinov checks plainly before Lyova can change the subject.
+- 'This is your life's work, after all.' Turning to the life with Barinov, Lyova reaches for the Russian word "zhizni" ("life", built from "zhizn") right at the center of the line.
+- 'For the sake of the restaurant I grudge nothing.' Turning to the restaurant right here, Lyova pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'And I will save up more for myself.' Lyova answers wryly across the room, refusing to let the moment slip past.
+- 'Lyova, you will definitely go to heaven.' Bringing up the paradise with Lyova, Barinov uses "popadyosh" ("to hit, to get", from "popast") to make the point stick.
+- 'Lyova, fly quickly to the bank.' Turning to the bank before Lyova, Barinov leans on "bank" ("bank") to give the whole sentence its punch.
+- 'First I will receive my money.' The inspector cuts in earnestly toward Barinov, keeping the focus on what actually matters here.
+- 'I must see your review.' Pointing to the review at once, Barinov centers the remark on "dolzhen" ("has to, must") without any extra fuss.

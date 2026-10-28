@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'His condition is stable but serious.' The doctor grounds this direct word on cue: "sostoyaniye" means "state", and it carries the main weight of what the doctor is saying.
-- 'Thank goodness, this is treatable now.' The doctor shapes that remark on cue: the "-sya" ending on "lechitsya" ("is treated") turns the action inward or makes it happen between people naturally.
-- 'An urgent operation in Germany is needed.' The doctor answers bluntly without a pause, testing Eleonora's reaction in the middle of the exchange.
-- 'By estimates this costs a lot.' The doctor frames one key word with Katya: "podschyotam" means "calculations" (from "podschyot"), giving the line its exact edge.
-- 'I do not have that kind of money.' Katya aims that reply at once: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Money is not a problem, right, Mom?' Katya checks straight out where this conversation is heading next.
-- 'Actually, it is a big problem.' Eleonora emphasizes one direct detail with the doctor: "voobshche-to" means "actually", and it carries the main weight of what Eleonora is saying.
-- 'But after all, he is my father.' Katya states this line around Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I built a hotel in Saint Petersburg.' Eleonora follows up earnestly in this moment, shifting the whole mood of the room in a single beat.
-- 'I took out a big loan against collateral.' Eleonora centers one key choice for Katya: "bolshoy" means "big", and it carries the main weight of what Eleonora is saying.
-- 'I can sell my apartment.' Katya opens up evenly to be clear, without trying to dress up how she really feels.
-- 'There is no need to sell anything right now.' Eleonora weighs in decisively during the talk, leaving no doubt about where she stands.
+- 'His condition is stable but serious.' Addressing the state during the talk, the doctor brings in "sostoyaniye" ("state") to make the meaning unmistakable.
+- 'Thank goodness, this is treatable now.' Turning to the glory around Katya, the "-sya" ending on "lechitsya" ("is treated") marks an action that unfolds mutually or turns back on the speaker.
+- 'An urgent operation in Germany is needed.' The doctor reacts bluntly around Katya, grounding the moment in plain reality.
+- 'By estimates this costs a lot.' Mentioning the calculations before Katya, the doctor reaches for the Russian word "podschyotam" ("calculations", built from "podschyot") right at the center of the line.
+- 'I do not have that kind of money.' Katya reacts candidly with a nod, without trying to dress up how she really feels.
+- 'Money is not a problem, right, Mom?' Addressing a problem toward Eleonora, Katya lets Eleonora see exactly where things stand.
+- 'Actually, it is a big problem.' Explaining how large things are on the spot, Eleonora centers the thought on "bolshaya" ("large", from "bolshoy") without wasting a word.
+- 'But after all, he is my father.' Dwelling on her father to Eleonora, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I built a hotel in Saint Petersburg.' Eleonora opens up earnestly without holding back, so Katya knows she is not just making small talk.
+- 'I took out a big loan against collateral.' Highlighting a big loan right here, Eleonora leans on "bolshoy" ("big") to give the whole sentence its punch.
+- 'I can sell my apartment.' Highlighting the flat to Eleonora, Katya centers the thought on "kvartiru" ("flat", from "kvartira") without wasting a word.
+- 'There is no need to sell anything right now.' Eleonora fires back decisively watching Katya, before Katya can change the subject.

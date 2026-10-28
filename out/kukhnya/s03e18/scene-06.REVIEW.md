@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, what is hard about it? Everything is hard!' Max presses curiously what Barinov is actually getting at here.
-- 'I did not get it, is something going on with Katya?' Eva features one pointed element at once: "ponyala" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'You did not get it? What else do you need?' Max shares that reply without pause: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Pour orange juice into a glass for me quickly.' Eva reacts plainly with Max, letting the remark speak for itself.
-- 'Senya, please take the food out to our dog.' Barinov emphasizes one direct piece toward Eva: "sobake" means "dog" (from "sobaka"), giving the line its exact edge.
-- 'Viktoriya Sergeyevna said that we cannot go outside.' Max lays out the comeback with ease: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'Here only I decide what is allowed!' Barinov replies lightly with a smile, before Eva can change the subject.
-- 'Chef, you decide here, but she is the one who fines us.' Max spotlights this key element in reply: "shtrafuyet" means "fines" (from "shtrafovat"), giving the line its exact edge.
-- 'Kitchen, attention! Everyone remember my words!' Barinov speaks up dryly to be clear, keeping the focus on what actually matters here.
-- 'Nobody has the right to change anything here!' Barinov jumps in pointedly as things stand, keeping the focus on what actually matters here.
-- 'Is everything alright with you? Well, no!' Barinov grounds one key term in reply: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Your new turnstile, you see, suddenly broke.' Barinov highlights one familiar choice in earnest: "turniket" means "turnstile", and it carries the main weight of what Barinov is saying.
+- 'Kostya, what is hard about it? Everything is hard!' Max presses curiously what Eva is actually getting at here.
+- 'I did not get it, is something going on with Katya?' Eva counters decisively beside Max and leans on "ponyala" ("understood", a form of "ponyat") to give the remark its edge.
+- 'You did not get it? What else do you need?' Pressing on smoothly during the talk, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Pour orange juice into a glass for me quickly.' Eva cuts in plainly on the spot, letting the remark speak for itself.
+- 'Senya, please take the food out to our dog.' Turning to his dog on the spot, Barinov uses "sobake" ("dog", from "sobaka") to make the point stick.
+- 'Viktoriya Sergeyevna said that we cannot go outside.' Answering evenly to Barinov, Max leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'Here only I decide what is allowed!' Barinov replies lightly in their talk, before Max can change the subject.
+- 'Chef, you decide here, but she is the one who fines us.' Max speaks up directly on the spot and leans on "shtrafuyet" ("fines", a form of "shtrafovat") to give the remark its edge.
+- 'Kitchen, attention! Everyone remember my words!' Highlighting the attention to Max, Barinov uses "vnimaniye" ("attention") to carry the main weight of the thought.
+- 'Nobody has the right to change anything here!' Barinov jumps in pointedly without a pause, before Max can change the subject.
+- 'Is everything alright with you? Well, no!' Discussing the order right here, Barinov uses "poryadke" ("order", from "poryadok") to make the point stick.
+- 'Your new turnstile, you see, suddenly broke.' Barinov proceeds frankly without any doubt, refusing to let the moment slip past.

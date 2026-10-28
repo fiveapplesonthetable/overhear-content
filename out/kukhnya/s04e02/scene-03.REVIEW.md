@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And how long are you visiting us for?' Vika tests calmly why things suddenly took this turn between them.
-- 'To try myself in something different.' Denis emphasizes one sharp piece on cue: "poprobovat" means "to taste", and it carries the main weight of what Denis is saying.
-- 'Besides, there are no prospects in Voronezh.' Denis drops the reply beside Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I have outgrown that city.' Denis continues briskly around Vika, letting the remark speak for itself.
-- 'Until I find an apartment.' Denis points to one sharp touch with Max: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Of course, brother.' Max directs this statement with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Vika and I are all for it.' Max cuts in pointedly without any doubt, before Denis can change the subject.
-- 'And why wasn't he at the wedding?' Vika uses this sharp choice at once: "svadbe" means "wedding" (from "svadba"), giving the line its exact edge.
-- 'Denis is my half-brother.' Max makes this warning in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We have the same father and different mothers.' Max reacts earnestly in their talk, saying out loud what both of them already know.
-- 'My mother is not very fond of him.' Max features this telling piece in reply: "nedolyublivayet" means "fond", and it carries the main weight of what Max is saying.
-- 'I understand her completely.' Vika phrases this answer with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'And how long are you visiting us for?' Vika tests calmly where this conversation is heading next.
+- 'To try myself in something different.' Denis cuts in quietly in front of Vika and uses "poprobovat" ("to taste") to carry the main weight of the thought.
+- 'Besides, there are no prospects in Voronezh.' Pointing to the prospects before Vika, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I have outgrown that city.' Denis follows up briskly across the room, leaving no doubt about where he stands.
+- 'Until I find an apartment.' Denis lightly uses this casual farewell to Max using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'Of course, brother.' Max directly speaks this confirmation in the exchange using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Vika and I are all for it.' Max responds pointedly facing Vika, to clear the air between them once and for all.
+- 'And why wasn't he at the wedding?' Touching on the wedding in the exchange, Vika lands on "svadbe" ("wedding", built on "svadba") to keep the statement grounded.
+- 'Denis is my half-brother.' Focusing on the brother during the talk, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We have the same father and different mothers.' Max answers earnestly during the talk, leaving no doubt about where he stands.
+- 'My mother is not very fond of him.' Underscoring the fond beside Vika, Max leans on "nedolyublivayet" ("fond") to give the whole sentence its punch.
+- 'I understand her completely.' Answering frankly at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

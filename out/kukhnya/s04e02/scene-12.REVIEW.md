@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are the ones who cooked this for me!' Barinov reacts steadily with Elena, letting the remark speak for itself.
-- 'Security, quickly escort him out of here!' Nagiyev frames this vivid piece in earnest: "okhrana" means "security, the guards", and it carries the main weight of what Nagiyev is saying.
-- 'You cannot throw me out that easily, got it?' Barinov aims this point around Elena: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'They will escort you out alright.' Nagiyev pushes back evenly watching Elena, leaving no doubt about where he stands.
-- 'I never want to see Barinov in here ever again.' Nagiyev highlights one loaded choice for Barinov: "voobshche" means "at all", and it carries the main weight of what Nagiyev is saying.
-- 'You do not work here anymore.' Nagiyev grounds one vivid choice right here: "rabotayesh" means "are working" (from "rabotat"), giving the line its exact edge.
-- 'Hey, take it easy!' Barinov reacts sharply to be clear, shifting the whole mood of the room in a single beat.
-- 'Viktor Petrovich, are you alright?' Elena frames this key expression in reply: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Completely fine.' Barinov drops this point with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'And this pit will rot without me.' Barinov continues right away across the room, grounding the moment in plain reality.
-- 'Vitya, if you need a job, I can help.' Elena stresses one vivid term for Barinov: "nuzhna" means "needed" (from "nuzhnyy"), giving the line its exact edge.
-- 'Do I look like a man who needs help?' Barinov voices that reply right away: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'You are the ones who cooked this for me!' Barinov follows up steadily in their talk, shifting the mood of the conversation in a single beat.
+- 'Security, quickly escort him out of here!' Bringing up the security before Barinov, Nagiyev centers the remark on "okhrana" ("security, the guards") without any extra fuss.
+- 'You cannot throw me out that easily, got it?' Reacting evenly in the exchange, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'They will escort you out alright.' Nagiyev cuts in evenly with a smile, letting the remark speak for itself.
+- 'I never want to see Barinov in here ever again.' Nagiyev counters earnestly at once and uses "voobshche" ("at all") to carry the main weight of the thought.
+- 'You do not work here anymore.' Nagiyev fires back bluntly beside Barinov, before Barinov can change the subject.
+- 'Hey, take it easy!' Barinov reacts sharply with a smile, steering the talk right where he wants it.
+- 'Viktor Petrovich, are you alright?' Touching on the order with Barinov, Elena lands on "poryadke" ("order", built on "poryadok") to keep the statement grounded.
+- 'Completely fine.' Looking over calmly before Elena, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'And this pit will rot without me.' Barinov pushes back right away on the spot, keeping the focus on what actually matters here.
+- 'Vitya, if you need a job, I can help.' Mentioning a job on the spot, Elena uses "rabota" ("job") to carry the main weight of the thought.
+- 'Do I look like a man who needs help?' Touching on the help around Elena, Barinov puts the question word "chto" right at the start so Elena hears the focus immediately.

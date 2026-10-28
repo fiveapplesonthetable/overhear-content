@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this terrible smell in here?' German puts that thought around Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We need to air out the room urgently.' German weighs in promptly without holding back, to clear the air between them once and for all.
-- 'What smells so strange in here?' German picks one familiar element for Max: "stranno" means "strange", and it carries the main weight of what German is saying.
-- 'Senya, are you deflecting suspicion from yourself?' German voices the comeback beside Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Oh, it seems the elevator has stopped.' Max chimes in openly with a nod, testing German's reaction in the middle of the exchange.
-- 'Vika, do not panic, we are stuck.' Max focuses on one familiar term toward Vika: "zastryali" means "stuck", and it carries the main weight of what Max is saying.
-- 'Well, do something at least!' Vika counters candidly to be clear, without trying to dress up how she really feels.
+- 'What is this terrible smell in here?' Highlighting how horrible things are in the exchange, German links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We need to air out the room urgently.' German fires back promptly with a shrug, bringing things back to earth after the buildup.
+- 'What smells so strange in here?' German weighs in vividly with Max and uses "stranno" ("strange") to carry the main weight of the thought.
+- 'Senya, are you deflecting suspicion from yourself?' Following up warmly around Max, German keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Oh, it seems the elevator has stopped.' Max chimes in openly watching German, making his position completely clear.
+- 'Vika, do not panic, we are stuck.' Highlighting the stuck around Vika, Max chooses "zastryali" ("stuck") so Vika gets the point right away.
+- 'Well, do something at least!' Vika speaks vividly to Max and lands on "sdelay" ("make, do", built on "sdelat") to keep the statement grounded.
 - 'And what can I do in here?' Max tests firmly what Vika is actually getting at here.
-- 'I do not know, you are the man here.' Vika colors one memorable expression toward German: "muzhchina" means "man", and it carries the main weight of what Vika is saying.
-- 'Fine, I will think of something right now.' Max hands over that thought with warmth: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.
-- 'Hey, is anyone out there?' Max challenges straight out in front of German without any preamble.
-- 'Help us, please!' Max frames this clear term in earnest: "pomogite" means "help" (from "pomoch"), giving the line its exact edge.
+- 'I do not know, you are the man here.' Emphasizing the man at once, Vika chooses "muzhchina" ("man") so Max gets the point right away.
+- 'Fine, I will think of something right now.' Max simply chooses this word of agreement as they meet using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Hey, is anyone out there?' Max challenges straight out while looking straight at Vika here.
+- 'Help us, please!' Max casually directs this courtesy word to Vika using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, I understand you love to fry meat.' Barinov frames this direct choice at once: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.
-- 'Oh go away, my tooth hurts.' Senya continues openly in their talk, so Vika knows he is not just making small talk.
-- 'That is what you get for stealing.' Barinov underscores one classic touch at once: "voruyesh" means "are stealing" (from "vorovat"), giving the line its exact edge.
-- 'And what should I do now?' Senya delivers that answer frankly here: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'I know one sure remedy.' Barinov replies frankly to settle things, making his position completely clear.
-- 'In the navy we treated teeth like that.' Barinov points to this sharp detail on cue: "flote" means "navy, fleet" (from "flot"), giving the line its exact edge.
-- 'And it takes the pain away immediately.' Barinov follows up evenly watching Senya, letting the remark speak for itself.
-- 'Vitya, we need to have a serious talk.' Vika weighs in evenly to settle things, so Senya knows she is not just making small talk.
-- 'Well go ahead, speak calmly.' Barinov spotlights one practical expression right here: "spokoyno" means "calmly", and it carries the main weight of what Barinov is saying.
-- 'First turn off your football.' Vika gives this answer toward Senya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'You asked me to turn off football.' Barinov replies pointedly as they talk, letting the remark speak for itself.
-- 'I do not like boxing at all either.' Vika chooses this telling term in reply: "nravitsya" means "is pleasing", and it carries the main weight of what Vika is saying.
+- 'Senya, I understand you love to fry meat.' Barinov fires back openly with a nod, so Senya knows he is not just making small talk.
+- 'Oh go away, my tooth hurts.' Senya opens up openly without holding back, bringing things back to earth after the buildup.
+- 'That is what you get for stealing.' Barinov replies evenly in the exchange and lands on "voruyesh" ("are stealing", built on "vorovat") to keep the statement grounded.
+- 'And what should I do now?' Weighing in candidly in this beat, Senya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'I know one sure remedy.' Barinov counters frankly on the spot, keeping the focus on what actually matters here.
+- 'In the navy we treated teeth like that.' Focusing on the navy beside Senya, Barinov puts the weight on "flote" ("navy, fleet", from "flot") as the exchange unfolds.
+- 'And it takes the pain away immediately.' Pointing to the hand around Vika, Barinov lands on "rukoy" ("hand", built on "ruka") to keep the statement grounded.
+- 'Vitya, we need to have a serious talk.' Vika fires back evenly watching Barinov, so Barinov knows she is not just making small talk.
+- 'Well go ahead, speak calmly.' Barinov replies decisively before Vika and uses "spokoyno" ("calmly") to carry the main weight of the thought.
+- 'First turn off your football.' Dwelling on the football with Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'You asked me to turn off football.' Barinov weighs in pointedly watching Vika, to clear the air between them once and for all.
+- 'I do not like boxing at all either.' Talking about the boxing in this beat, Vika puts the emphasis on "nravitsya" ("is pleasing") in the middle of the talk.

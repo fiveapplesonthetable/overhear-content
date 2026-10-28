@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nikita, do you have a minute right now?' Katya asks openly what Denis is actually getting at here.
-- 'Of course, for you I even have two.' Denis spotlights one memorable term for Nikita: "konechno" means "of course", and it carries the main weight of what Denis is saying.
-- 'Listen, here is the thing with us.' Katya states that answer with candor: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'It seems to me that we need to talk.' Katya proceeds evenly facing Nikita, saying out loud what both of them already know.
-- 'Easy, darling, let me look at your eye right now.' Denis frames one loaded word in reply: "posmotryu" means "have a look" (from "posmotret"), giving the line its exact edge.
-- 'Forgive me, I did not do it on purpose.' Denis makes this line on cue: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'Nikita, go quickly and call an ambulance here!' Denis opens up decisively facing Katya, so Katya knows he is not just making small talk.
-- 'Although I will take her to the doctor myself.' Denis leans on one direct element in earnest: "vrachu" means "the doctor" (from "vrach"), giving the line its exact edge.
-- 'Can you imagine, I raised him myself.' Nikita counters plainly with a shrug, making his position completely clear.
-- 'I taught him everything here myself.' Nikita speaks up calmly as they talk, without trying to dress up how he really feels.
-- 'I treated him like my own son.' Nikita frames one memorable touch at once: "otnosilsya" means "to treat, to relate to" (from "otnositsya"), giving the line its exact edge.
-- 'And besides that, he handles all the purchasing!' Nikita pushes back pointedly without any doubt, refusing to let the moment slip past.
+- 'Nikita, do you have a minute right now?' Katya asks openly what Nikita is actually getting at here.
+- 'Of course, for you I even have two.' Denis replies sharply in front of Katya and chooses "konechno" ("of course") so Katya gets the point right away.
+- 'Listen, here is the thing with us.' Bringing up the matter right here, Katya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'It seems to me that we need to talk.' Katya weighs in evenly on the spot, testing Denis's reaction in the middle of the exchange.
+- 'Easy, darling, let me look at your eye right now.' Bringing up the eyes to Katya, Denis chooses "milaya" ("darling", from the root "milyy") so Katya hears the exact meaning.
+- 'Forgive me, I did not do it on purpose.' Denis reacts evenly at once and chooses "spetsialno" ("on purpose") so Katya gets the point right away.
+- 'Nikita, go quickly and call an ambulance here!' Touching on an ambulance during the talk, Denis sets the direction for the rest of the talk with Nikita.
+- 'Although I will take her to the doctor myself.' Addressing the doctor with Nikita, Denis uses "vrachu" ("the doctor", from "vrach") to make the point stick.
+- 'Can you imagine, I raised him myself.' Nikita cuts in calmly with Denis and leans on "predstavlyayesh" ("can you imagine", a form of "predstavlyat") to give the remark its edge.
+- 'I taught him everything here myself.' Nikita replies dryly around Denis, refusing to let the moment slip past.
+- 'I treated him like my own son.' Bringing up the son at once, Nikita chooses "rodnomu" ("native, own", from the root "rodnoy") so Denis hears the exact meaning.
+- 'And besides that, he handles all the purchasing!' Addressing the purchasing right here, Nikita uses "zakupki" ("purchasing", from "zakupka") to make the point stick.

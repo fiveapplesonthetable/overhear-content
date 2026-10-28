@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max is unreachable, he is not picking up the phone.' Kostya spotlights one clear detail for Barinov: "nedostupen" means "unreachable", and it carries the main weight of what Kostya is saying.
-- 'Where did Styopa get red boots from?' Kostya phrases the comeback to German: putting the question word "otkuda" right at the front of the line lets German hear the point of the question on the very first beat.
-- 'Grandpa probably bought them for him.' Kostya steps in openly without any doubt, bringing things back to earth after the buildup.
-- 'Are you in your right mind at all?' German colors one pointed expression on cue: "voobshche" means "at all", and it carries the main weight of what German is saying.
-- 'What have you done here?' German gives the reaction with warmth: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'You saw me, I was standing right here.' Barinov jumps in at once with a sigh, leaving no doubt about where he stands.
-- 'I could never lift this thing alone.' Barinov points to one telling expression in reply: "shtuku" means "a grand, thing" (from "shtuka"), giving the line its exact edge.
-- 'You need about three people here.' Barinov directs that thought with candor: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Now let the police sort it out.' German answers right away with a shrug, steering the talk right where he wants it.
-- 'So you are a tough guy here, are you?' Barinov highlights one telling expression at once: "muzhik" means "a real man", and it carries the main weight of what Barinov is saying.
-- 'Do you want to settle this like men?' German makes the remark at once: the "-sya" ending on "razobratsya" ("to deal with") turns the action inward or makes it happen between people naturally.
-- 'With pleasure, take this punch!' German weighs in boldly in their talk, shifting the whole mood of the room in a single beat.
+- 'Max is unreachable, he is not picking up the phone.' Talking about the unreachable beside German, Kostya lands on "nedostupen" ("unreachable") as the key everyday word here.
+- 'Where did Styopa get red boots from?' Addressing the get at once, Kostya puts the question word "otkuda" right at the start so German hears the focus immediately.
+- 'Grandpa probably bought them for him.' Kostya fires back openly hearing German, to clear the air between them once and for all.
+- 'Are you in your right mind at all?' Pointing to the mind in the exchange, German reaches for the Russian word "voobshche" ("at all") right at the heart of the line.
+- 'What have you done here?' Weighing in warmly with Barinov, German puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'You saw me, I was standing right here.' Barinov speaks at once with a sigh, without trying to dress up how he really feels.
+- 'I could never lift this thing alone.' Focusing on the grand to German, Barinov puts the weight on "shtuku" ("a grand, thing", from "shtuka") as the exchange unfolds.
+- 'You need about three people here.' Pushing back candidly beside German, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Now let the police sort it out.' German chimes in right away in their talk, watching Barinov's face to see how the news lands.
+- 'So you are a tough guy here, are you?' Touching on the real man to German, Barinov lands on "muzhik" ("a real man") as the key everyday word here.
+- 'Do you want to settle this like men?' Pushing back earnestly on the spot, the "-sya" ending on "razobratsya" ("to deal with") marks an action that unfolds mutually or turns back on the speaker.
+- 'With pleasure, take this punch!' German jumps in boldly with a nod, testing Barinov's reaction in the middle of the exchange.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Rodion Sergeyevich, where did you learn to cook so wonderfully?' Barinov reaches for one classic choice with Max: "prekrasno" means "perfectly", and it carries the main weight of what Barinov is saying.
-- 'I do not remember, Viktor Petrovich, I remember nothing at all.' Rodion frames that line with candor: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'My head forgot, but my hands remember everything well.' Rodion continues lightly without any doubt, watching Barinov's face to see how the news lands.
-- 'We must definitely celebrate this, come with me quickly!' Barinov spotlights one concrete choice with Rodion: "obyazatelno" means "surely, without fail", and it carries the main weight of what Barinov is saying.
-- 'Hi, Vika! How are things? I missed you a lot.' Max lays out the reaction briskly now: opening with the casual greeting "privet" ("hi") signals right away that Max and Barinov are on familiar terms.
-- 'I have an important meeting with a girl tonight.' Max replies plainly in this moment, making his position completely clear.
-- 'With a very beautiful girl named Vika.' Max emphasizes one concrete touch at once: "devushkoy" means "girl, young woman" (from "devushka"), giving the line its exact edge.
-- 'Allow me to introduce: the star and face of our restaurant, Dmitry!' Max stands firm frankly with Rodion, to clear the air between them once and for all.
-- 'Very nice to meet you, and in person you are even younger, Kristina.' Max follows up right away with a shrug, refusing to let the moment slip past.
-- 'All Kristinas are the most faithful and kind wives.' Max picks this key detail at once: "vernyye" means "faithful, true" (from "vernyy"), giving the line its exact edge.
-- 'Maybe I should not drink? I have not eaten properly today.' Rodion puts this answer in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'You will have a snack at the same time! Rodion Sergeyevich, to you!' Barinov answers pointedly without any doubt, watching Rodion's face to see how the news lands.
+- 'Rodion Sergeyevich, where did you learn to cook so wonderfully?' Barinov pushes back firmly beside Rodion and uses "prekrasno" ("perfectly") to carry the main weight of the thought.
+- 'I do not remember, Viktor Petrovich, I remember nothing at all.' Pushing back earnestly on the spot, Rodion adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'My head forgot, but my hands remember everything well.' Rodion chimes in lightly hearing Barinov, steering the talk right where he wants it.
+- 'We must definitely celebrate this, come with me quickly!' Barinov reacts boldly right here and chooses "obyazatelno" ("surely, without fail") so Rodion gets the point right away.
+- 'Hi, Vika! How are things? I missed you a lot.' Replying frankly in this beat, the "-sya" ending on "soskuchilsya" ("missed") marks an action that unfolds mutually or turns back on the speaker.
+- 'I have an important meeting with a girl tonight.' Max replies plainly with a sigh, before Barinov can change the subject.
+- 'With a very beautiful girl named Vika.' Underscoring the girl right here, Max centers the thought on "devushkoy" ("girl, young woman", from "devushka") without wasting a word.
+- 'Allow me to introduce: the star and face of our restaurant, Dmitry!' Discussing his restaurant before Rodion, Max uses "restorana" ("restaurant", from "restoran") to make the point stick.
+- 'Very nice to meet you, and in person you are even younger, Kristina.' Max opens up right away without any doubt, grounding the moment in plain reality.
+- 'All Kristinas are the most faithful and kind wives.' Highlighting how faithful things are around Rodion, Max leans on "vernyye" ("faithful, true", a form of "vernyy") to give the remark its edge.
+- 'Maybe I should not drink? I have not eaten properly today.' Cutting in warmly in front of Barinov, Rodion keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'You will have a snack at the same time! Rodion Sergeyevich, to you!' Barinov follows up pointedly beside Rodion, bringing things back to earth after the buildup.

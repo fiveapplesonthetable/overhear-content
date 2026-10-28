@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, you were deceiving me today.' The inspector answers pointedly with a smile, making his position completely clear.
-- 'Yes, but otherwise you would have left.' Barinov colors this vivid choice at once: "inache" means "otherwise", and it carries the main weight of what Barinov is saying.
-- 'If I had not pretended back then.' Barinov lays out that answer briskly now: the "-sya" ending on "pritvorilsya" ("pretended") turns the action inward or makes it happen between people naturally.
-- 'I showed what I am capable of.' Barinov pushes back bluntly before the inspector, steering the talk right where he wants it.
-- 'And you wanted to give me a star.' Barinov highlights one concrete piece in reply: "zakhoteli" means "wanted" (from "zakhotet"), giving the line its exact edge.
-- 'You passed yourself off as another person.' The inspector spotlights one memorable touch on cue: "drugogo" means "other, another" (from "drugoy"), giving the line its exact edge.
-- 'What do you mean, as another person?' Barinov asks frankly in front of the inspector without any preamble.
-- 'I am the chef, and this is my dish.' Barinov grounds one pointed term in earnest: "blyudo" means "dish", and it carries the main weight of what Barinov is saying.
-- 'I cooked it, and you liked it.' Barinov sharpens one practical expression in earnest: "prigotovil" means "cooked" (from "prigotovit"), giving the line its exact edge.
-- 'Yes, of course, I am no angel at all.' Barinov cuts in earnestly to be clear, leaving no doubt about where he stands.
-- 'I am ashamed of this foolish performance.' Barinov favors one practical choice with the inspector: "predstavleniye" means "performance" (from "predstavleniy"), giving the line its exact edge.
-- 'Are you not ashamed of destroying chefs' Barinov shapes the comeback with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for the inspector purely through rising pitch at the end.
+- 'Viktor, you were deceiving me today.' The inspector opens up pointedly in their talk, watching Barinov's face to see how the news lands.
+- 'Yes, but otherwise you would have left.' Barinov speaks firmly before the inspector and leans on "inache" ("otherwise") to give the whole sentence its punch.
+- 'If I had not pretended back then.' Reacting calmly with the inspector, the "-sya" ending on "pritvorilsya" ("pretended") marks an action that unfolds mutually or turns back on the speaker.
+- 'I showed what I am capable of.' Barinov chimes in bluntly beside the inspector, before the inspector can change the subject.
+- 'And you wanted to give me a star.' Bringing up a star right here, Barinov leans on "zvezdu" ("star", a form of "zvezda") to give the remark its edge.
+- 'You passed yourself off as another person.' The inspector continues warmly watching Barinov, letting the remark speak for itself.
+- 'What do you mean, as another person?' Barinov asks frankly to see how the inspector will answer on the spot.
+- 'I am the chef, and this is my dish.' Talking about his dish in the exchange, Barinov puts the emphasis on "blyudo" ("dish") in the middle of the talk.
+- 'I cooked it, and you liked it.' Barinov weighs in decisively across the room, keeping the focus on what actually matters here.
+- 'Yes, of course, I am no angel at all.' Barinov responds earnestly on the spot, to clear the air between them once and for all.
+- 'I am ashamed of this foolish performance.' Emphasizing how silly he is during the talk, Barinov uses "predstavleniye" ("performance", from "predstavleniy") to make the point stick.
+- 'Are you not ashamed of destroying chefs' Reacting quietly in the exchange, Barinov keeps normal statement word order here, turning the line into a question for the inspector purely through rising pitch.

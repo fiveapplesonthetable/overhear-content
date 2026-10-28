@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, did they believe it?' Lyova wonders candidly to see how Gulya will answer on the spot.
-- 'I simply told them what they wanted to hear.' Gulya underscores one practical expression on cue: "uslyshat" means "to hear", and it carries the main weight of what Gulya is saying.
-- 'In half an hour come downstairs to decide the fate of the restaurant.' Katya jumps in pointedly with Gulya, without trying to dress up how she really feels.
-- 'Lyova, maybe I should leave then?' Gulya wonders wryly in front of Lyova without any preamble.
-- 'Fine, I will wait, try to make it fast.' Gulya emphasizes one concrete term on cue: "postaraysya" means "try" (from "postaratsya"), giving the line its exact edge.
-- 'Hello, and who are you?' Lyova directs this line with candor: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'And where is our Lyova?' Gulya challenges evenly about what Katya just brought up.
-- 'They called him in to work urgently, and my name is Gulya.' Lyova features one memorable piece right here: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
-- 'Let's go to the kitchen, the pilaf is almost ready in there.' Gulya weighs in sharply with Katya, before Katya can change the subject.
-- 'This morning I mentioned that I needed a helper.' Gulya jumps in promptly with a sigh, bringing things back to earth after the buildup.
-- 'And he took it literally and hired a housekeeper!' Lyova reaches for one telling detail toward Gulya: "domrabotnitsu" means "housekeeper" (from "domrabotnitsa"), giving the line its exact edge.
-- 'You should be glad that you have such a caring son.' Lyova shares this statement plainly here: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Well, did they believe it?' Lyova wonders candidly if there is more going on behind the scenes.
+- 'I simply told them what they wanted to hear.' Gulya cuts in candidly before Lyova and leans on "uslyshat" ("to hear") to give the whole sentence its punch.
+- 'In half an hour come downstairs to decide the fate of the restaurant.' Touching on the restaurant at once, Katya chooses "restorana" ("restaurant", from the root "restoran") so Gulya hears the exact meaning.
+- 'Lyova, maybe I should leave then?' Gulya wonders wryly how Lyova expects that to work in practice.
+- 'Fine, I will wait, try to make it fast.' Gulya warmly voices this word of agreement at this moment using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Hello, and who are you?' Lyova warmly delivers this formal greeting with Gulya using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'And where is our Lyova?' Gulya challenges evenly before Lyova can change the subject.
+- 'They called him in to work urgently, and my name is Gulya.' Turning to the job to Gulya, Lyova brings in "rabotu" ("job", from "rabota") as the key Russian word here.
+- 'Let's go to the kitchen, the pilaf is almost ready in there.' Mentioning the kitchen in front of Lyova, Gulya leans on "kukhnyu" ("kitchen", a form of "kukhnya") to give the remark its edge.
+- 'This morning I mentioned that I needed a helper.' Gulya speaks up promptly across the room, steering the talk right where she wants it.
+- 'And he took it literally and hired a housekeeper!' Mentioning a housekeeper in front of Gulya, Lyova lands on "domrabotnitsu" ("housekeeper", built on "domrabotnitsa") to keep the statement grounded.
+- 'You should be glad that you have such a caring son.' Addressing a caring son at once, Lyova uses "u tebya" (literally "by you") where English says "you have" or "your".

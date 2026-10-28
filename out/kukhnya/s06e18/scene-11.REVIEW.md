@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A captain must always be fair.' Fedya responds sharply facing Eleonora, saying out loud what both of them already know.
-- 'Who decided this in here just now?' Eleonora presses straight out how Senya expects that to work in practice.
-- 'Am I supposed to sit and wait?' Eleonora uses one loaded detail on cue: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
-- 'By law, cooks are entitled to a rest.' Fedya steps in quietly watching Senya, refusing to let the moment slip past.
-- 'For this rest everyone is fined.' Eleonora fires back lightly as they talk, keeping the focus on what actually matters here.
-- 'I am docking all of you a day's salary.' Notice how Eleonora challenges Senya on cue — the Russian word "zarplaty" ("salaries", built from "zarplata") does the heavy lifting.
-- 'Captain, take this, this is for you now.' Senya leans on one key element on cue: "kapitan" means "captain", and it carries the main weight of what Senya is saying.
-- 'Right now this is simply necessary for you.' Senya continues frankly hearing Fedya, watching Fedya's face to see how the news lands.
-- 'Dear friend, well, how was your flight?' Eleonora grounds this clear term in earnest: "dorogoy" means "dear", and it carries the main weight of what Eleonora is saying.
-- 'Of course, first rest quietly in the room.' Eleonora holds firm wryly with a nod, making her position completely clear.
-- 'And later we will talk about everything.' Eleonora chimes in wryly with a smile, steering the talk right where she wants it.
-- 'I still have to ask you for money.' Eleonora leans on one memorable term in earnest: "deneg" means "money" (from "dengi"), giving the line its exact edge.
+- 'A captain must always be fair.' Fedya jumps in promptly at once and lands on "spravedlivyy" ("fair") as the key everyday word here.
+- 'Who decided this in here just now?' Eleonora presses straight out what Fedya is actually getting at here.
+- 'Am I supposed to sit and wait?' Eleonora reacts vividly in front of Fedya and uses "dolzhna" ("should, must", from "dolzhen") to make the point stick.
+- 'By law, cooks are entitled to a rest.' Talking about the cooks before Eleonora, Fedya leans on "povaram" ("cooks", a form of "povar") to give the remark its edge.
+- 'For this rest everyone is fined.' Eleonora steps in lightly on the spot, grounding the moment in plain reality.
+- 'I am docking all of you a day's salary.' Discussing the salaries to Senya, Eleonora centers the thought on "zarplaty" ("salaries", from "zarplata") without wasting a word.
+- 'Captain, take this, this is for you now.' Senya reacts lightly with Eleonora, steering the talk right where he wants it.
+- 'Right now this is simply necessary for you.' Senya reacts evenly around Eleonora, testing Eleonora's reaction in the middle of the exchange.
+- 'Dear friend, well, how was your flight?' Addressing the friend in front of Senya, Eleonora centers the remark on "dorogoy" ("dear") without any extra fuss.
+- 'Of course, first rest quietly in the room.' Talking about the room during the talk, Eleonora reaches for the Russian word "otdokhnite" ("to have a rest", built from "otdokhnut") right at the center of the line.
+- 'And later we will talk about everything.' Eleonora cuts in wryly across the room, steering the talk right where she wants it.
+- 'I still have to ask you for money.' Eleonora pushes back smoothly in this beat and uses "deneg" ("money", from "dengi") to make the point stick.

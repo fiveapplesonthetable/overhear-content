@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what do you see, doctor?' Barinov favors one key touch toward Eva: "doktor" means "Doctor", and it carries the main weight of what Barinov is saying.
-- 'Yes, there is definitely a child here.' The guest continues dryly before Eva, leaving no doubt about where he stands.
-- 'Do you believe me now?' Eva checks calmly whether Barinov really thought this through.
-- 'And is that absolutely certain, doctor?' Barinov picks one loaded piece at once: "absolyutno" means "completely", and it carries the main weight of what Barinov is saying.
-- 'Yes, the term is already two weeks.' The guest makes that reply for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I will wait for you in the corridor.' Barinov counters candidly in their talk, keeping the focus on what actually matters here.
-- 'I told you he would believe it.' Eva emphasizes one key expression on cue: "govorila" means "said" (from "govorit"), giving the line its exact edge.
-- 'And what will you do next?' The guest puts that thought with warmth: putting the question word "chto" right at the front of the line lets Eva hear the point of the question on the very first beat.
-- 'He will get scared and give money.' Eva follows up bluntly with a shrug, testing Barinov's reaction in the middle of the exchange.
-- 'And I will not object.' Eva uses this sharp piece in reply: "vozrazhat" means "to object, mind", and it carries the main weight of what Eva is saying.
-- 'Here, take this, it is your fee.' Eva chooses this sharp expression for Barinov: "gonorar" means "fee", and it carries the main weight of what Eva is saying.
-- 'Listen, and is this really everything?' The guest presses quietly as Eva tries to explain the situation.
+- 'Well, what do you see, doctor?' Talking about the doctor right here, Barinov uses "doktor" ("Doctor") to carry the main weight of the thought.
+- 'Yes, there is definitely a child here.' Discussing a child during the talk, the guest uses "rebyonok" ("a child") to carry the main weight of the thought.
+- 'Do you believe me now?' Eva checks calmly why things suddenly took this turn between them.
+- 'And is that absolutely certain, doctor?' Pointing to the doctor in front of the guest, Barinov leans on "absolyutno" ("completely") to give the whole sentence its punch.
+- 'Yes, the term is already two weeks.' Returning to the weeks in this beat, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I will wait for you in the corridor.' Barinov speaks candidly across the room, making his position completely clear.
+- 'I told you he would believe it.' Eva cuts in briskly during the talk and lands on "poverit" ("to believe") as the key everyday word here.
+- 'And what will you do next?' Holding firm frankly during the talk, the guest puts the question word "chto" right at the start so Eva hears the focus immediately.
+- 'He will get scared and give money.' Eva pushes back bluntly in their talk, keeping the focus on what actually matters here.
+- 'And I will not object.' Eva weighs in boldly in the exchange and lands on "vozrazhat" ("to object, mind") as the key everyday word here.
+- 'Here, take this, it is your fee.' Pointing to the fee beside the guest, Eva cuts straight through the tension with the guest.
+- 'Listen, and is this really everything?' The guest presses quietly why things suddenly took this turn between them.

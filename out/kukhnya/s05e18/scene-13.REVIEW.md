@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, open the door for us immediately!' Max favors this direct detail at once: "nemedlenno" means "immediately", and it carries the main weight of what Max is saying.
-- 'Maxim, drop it, he will not open.' Barinov follows up candidly facing Max, testing Max's reaction in the middle of the exchange.
-- 'Let's just go and buy a new crib instead.' Barinov reacts briskly during the talk, before the guest can change the subject.
-- 'No way, he will return all the money to me!' Max stresses one concrete expression on cue: "dengi" means "money", and it carries the main weight of what Max is saying.
-- 'Or maybe I should give you some glue instead?' The guest frames this line before Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'You can quietly glue your crib back together.' The guest opens up sharply without holding back, shifting the whole mood of the room in a single beat.
-- 'You will not get any sleep today anyway!' Max spotlights this clear element right here: "segodnya" means "today", and it carries the main weight of what Max is saying.
-- 'You broke my wife's baby crib!' Max frames this telling expression in earnest: "detskuyu" means "nursery, kids' room" (from "detskaya"), giving the line its exact edge.
-- 'Listen, driver, let's settle this the easy way!' Barinov replies bluntly in their talk, refusing to let the moment slip past.
-- 'You come out and hand over twenty thousand!' Barinov spotlights one loaded expression at once: "vykhodish" means "to go out, to get out" (from "vykhodit"), giving the line its exact edge.
-- 'I work legally in a taxi!' The guest weighs in steadily hearing Barinov, saying out loud what both of them already know.
-- 'Get away from here and let me sleep!' The guest cuts in evenly across the room, to clear the air between them once and for all.
+- 'Hey, open the door for us immediately!' Talking about the door during the talk, Max leans on "nemedlenno" ("immediately") to give the whole sentence its punch.
+- 'Maxim, drop it, he will not open.' Barinov chimes in earnestly before Max and chooses "otkroyet" ("will open", from the root "otkryt") so Max hears the exact meaning.
+- 'Let's just go and buy a new crib instead.' Bringing up a new crib watching Max, Barinov sets the direction for the rest of the talk with Max.
+- 'No way, he will return all the money to me!' Touching on the money before Barinov, Max reaches for the Russian word "dengi" ("money") right at the heart of the line.
+- 'Or maybe I should give you some glue instead?' Answering firmly around Max, the guest keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'You can quietly glue your crib back together.' The guest opens up sharply in their talk, before Max can change the subject.
+- 'You will not get any sleep today anyway!' Max speaks up frankly to the guest and puts the emphasis on "segodnya" ("today") in the middle of the talk.
+- 'You broke my wife's baby crib!' Max fires back frankly in this moment, refusing to let the moment slip past.
+- 'Listen, driver, let's settle this the easy way!' Barinov proceeds bluntly during the talk, watching Max's face to see how the news lands.
+- 'You come out and hand over twenty thousand!' Addressing the thousand at once, Barinov chooses "tysyach" ("thousand", from the root "tysyacha") so the guest hears the exact meaning.
+- 'I work legally in a taxi!' Touching on a taxi with Barinov, the guest puts the weight on "rabotayu" ("work", from "rabotat") as the exchange unfolds.
+- 'Get away from here and let me sleep!' The guest pushes back evenly facing Barinov, steering the talk right where he wants it.

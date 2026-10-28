@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She has already been through so much because of me.' Denis grounds this direct piece in reply: "perezhila" means "to survive" (from "perezhit"), giving the line its exact edge.
-- 'I do not want to put pressure on her right now at all.' Denis aims this update around Nagiyev: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Thank you, Denis, I will never forget this.' Eleonora responds pointedly before Denis, to clear the air between them once and for all.
-- 'Where is our little Styopka, is he still in the house?' Denis anchors this vivid detail in reply: "malenkiy" means "short, little", and it carries the main weight of what Denis is saying.
-- 'Thank you so much, Dad, for saving our son!' Denis shares that line right away: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Elya, my girl, this is not what you thought!' Nagiyev opens up steadily in their talk, testing Eleonora's reaction in the middle of the exchange.
-- 'There was actually such a funny story in there.' Nagiyev grounds one telling choice in earnest: "smeshnaya" means "funny, ridiculous" (from "smeshnoy"), giving the line its exact edge.
-- 'Turn away, I do not want to listen to anything anymore!' Eleonora puts that reply right away: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Elya, why are we quarreling in front of everyone?' Nagiyev asks openly where this conversation is heading next.
-- 'Everything is decided, tomorrow I am filing for divorce!' Eleonora points to this clear expression with Nagiyev: "razvod" means "divorce, separation", and it carries the main weight of what Eleonora is saying.
-- 'Elya, word of honor, I love you very much!' Nagiyev stresses one loaded word for Denis: "chestnoye" means "honest" (from "chestnyy"), giving the line its exact edge.
-- 'Go away and do not call me anymore!' Eleonora steps in sharply around Nagiyev, bringing things back to earth after the buildup.
+- 'She has already been through so much because of me.' Denis fires back boldly during the talk and lands on "perezhila" ("to survive", built on "perezhit") to keep the statement grounded.
+- 'I do not want to put pressure on her right now at all.' Cutting in warmly during the talk, Denis adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Thank you, Denis, I will never forget this.' Eleonora follows up pointedly with a shrug, grounding the moment in plain reality.
+- 'Where is our little Styopka, is he still in the house?' Underscoring how short things are before Eleonora, Denis centers the remark on "malenkiy" ("short, little") without any extra fuss.
+- 'Thank you so much, Dad, for saving our son!' Denis speaks up boldly beside Nagiyev, letting the remark speak for itself.
+- 'Elya, my girl, this is not what you thought!' Nagiyev responds steadily on the spot, making his position completely clear.
+- 'There was actually such a funny story in there.' Talking about the case in front of Eleonora, Nagiyev uses "smeshnaya" ("funny, ridiculous", from "smeshnoy") to make the point stick.
+- 'Turn away, I do not want to listen to anything anymore!' Pushing back quietly in the exchange, Eleonora pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Elya, why are we quarreling in front of everyone?' Nagiyev asks openly whether Eleonora really thought this through.
+- 'Everything is decided, tomorrow I am filing for divorce!' Focusing on the divorce to Nagiyev, Eleonora reaches for the Russian word "razvod" ("divorce, separation") right at the heart of the line.
+- 'Elya, word of honor, I love you very much!' Nagiyev steps in steadily on the spot, steering the talk right where he wants it.
+- 'Go away and do not call me anymore!' Eleonora speaks up sharply in their talk, without trying to dress up how she really feels.

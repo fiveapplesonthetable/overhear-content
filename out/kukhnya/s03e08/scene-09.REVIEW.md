@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, forgive me, Chef, I ruined your suit.' Ainura chimes in boldly to be clear, so Barinov knows she is not just making small talk.
-- 'Did you really ruin it just now?' Barinov underscores one sharp element in earnest: "isportila" means "ruined, spoiled" (from "isportit"), giving the line its exact edge.
-- 'Now you definitely ruined it, thank you, Ainura.' Barinov gives the thought without fuss: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Lena, well how can I go to respectable people looking like this?' Barinov asks sharply how Elena expects that to work in practice.
-- 'Yes, looking like that, definitely nowhere.' Elena centers one direct detail on cue: "vide" means "state", and it carries the main weight of what Elena is saying.
-- 'That is just what I am telling you about.' Barinov colors one vivid expression at once: "govoryu" means "am telling" (from "govorit"), giving the line its exact edge.
-- 'Fortunately, where we are going, you will not need a suit.' Elena opens up briskly in this moment, so Ainura knows she is not just making small talk.
-- 'Lena, I feel like a complete idiot.' Barinov grounds one telling piece for Elena: "chuvstvuyu" means "feel" (from "chuvstvovat"), giving the line its exact edge.
-- 'And what is more, an idiot who dressed so strangely.' Barinov replies sharply to settle things, leaving no doubt about where he stands.
-- 'Stop it, everyone is dressed like that here, and you have slender legs.' Elena speaks decisively with a smile, bringing things back to earth after the buildup.
-- 'May I go to the restroom first?' Barinov picks one telling touch toward Ainura: "snachala" means "first, at first", and it carries the main weight of what Barinov is saying.
-- 'Of course you may, just make it quick.' Elena directs the thought toward Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Oh, forgive me, Chef, I ruined your suit.' Ainura pushes back boldly during the talk, bringing things back to earth after the buildup.
+- 'Did you really ruin it just now?' Barinov reacts promptly in front of Ainura and uses "isportila" ("ruined, spoiled", from "isportit") to make the point stick.
+- 'Now you definitely ruined it, thank you, Ainura.' Bringing up the thank before Ainura, Barinov chooses "spasibo" ("thank you") so Ainura gets the point right away.
+- 'Lena, well how can I go to respectable people looking like this?' Barinov asks sharply if there is more going on behind the scenes.
+- 'Yes, looking like that, definitely nowhere.' Turning to the state around Barinov, Elena puts the emphasis on "vide" ("state") in the middle of the talk.
+- 'That is just what I am telling you about.' Barinov chimes in lightly on the spot, shifting the mood of the conversation in a single beat.
+- 'Fortunately, where we are going, you will not need a suit.' Pointing to the happiness with a shrug, Elena makes it clear to Barinov that she means every word.
+- 'Lena, I feel like a complete idiot.' Discussing a complete idiot in front of Elena, Barinov brings in "chuvstvuyu" ("feel", from "chuvstvovat") as the key Russian word here.
+- 'And what is more, an idiot who dressed so strangely.' Bringing up an idiot with Elena, Barinov lands on "idiotom" ("idiot", built on "idiot") to keep the statement grounded.
+- 'Stop it, everyone is dressed like that here, and you have slender legs.' Elena weighs in decisively with a nod, steering the talk right where she wants it.
+- 'May I go to the restroom first?' Focusing on the toilet at once, Barinov chooses "tualet" ("toilet") so Elena gets the point right away.
+- 'Of course you may, just make it quick.' Elena casually speaks this confirmation while facing Barinov using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".

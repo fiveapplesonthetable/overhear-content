@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, help me out, I have a problem.' Max colors one colorful piece in earnest: "problema" means "problem", and it carries the main weight of what Max is saying.
-- 'I warned you in advance, after all!' Katya favors one colorful element toward Max: "preduprezhdal" means "warned" (from "preduprezhdat"), giving the line its exact edge.
-- 'Today the shrimp are not of the first freshness.' Katya answers steadily across the room, before Barinov can change the subject.
-- 'They are waiting for me in the back courtyard right now.' Max emphasizes one practical piece on cue: "zadnem" means "back, rear" (from "zadniy"), giving the line its exact edge.
-- 'Maybe you can talk to them calmly?' Max phrases this warning on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Well then everything is fine, we will talk to them right now.' Katya cuts in warmly to be clear, without trying to dress up how she really feels.
-- 'Really, listen, I am in your debt now!' Max colors one sharp word toward Barinov: "dolzhnik" means "debtor", and it carries the main weight of what Max is saying.
-- 'You do not owe me anything, you heard nothing about the shrimp.' Katya drops that line plainly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Hello, Katya, just do not hang up, listen to me.' Barinov fires back steadily in this moment, making his position completely clear.
-- 'In short, I was wrong and I want to apologize.' Barinov frames one practical element for Max: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
-- 'Come to our restaurant tonight together with Stas.' Barinov replies decisively with a shrug, shifting the whole mood of the room in a single beat.
-- 'Alright, we will sit together tonight, my treat!' Barinov chimes in evenly without holding back, making his position completely clear.
+- 'Timur, help me out, I have a problem.' Emphasizing a problem around Katya, Max lands on "problema" ("problem") as the key everyday word here.
+- 'I warned you in advance, after all!' Katya counters evenly without any doubt, watching Max's face to see how the news lands.
+- 'Today the shrimp are not of the first freshness.' Katya follows up steadily without holding back, grounding the moment in plain reality.
+- 'They are waiting for me in the back courtyard right now.' Highlighting the yard during the talk, Max uses "zadnem" ("back, rear", from "zadniy") to make the point stick.
+- 'Maybe you can talk to them calmly?' Following up warmly right here, Max keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Well then everything is fine, we will talk to them right now.' Katya reacts warmly toward Max, making her position completely clear.
+- 'Really, listen, I am in your debt now!' Emphasizing the debtor at once, Max chooses "dolzhnik" ("debtor") so Katya gets the point right away.
+- 'You do not owe me anything, you heard nothing about the shrimp.' Pointing to the shrimp before Max, Katya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Hello, Katya, just do not hang up, listen to me.' Barinov speaks up steadily toward Katya, to clear the air between them once and for all.
+- 'In short, I was wrong and I want to apologize.' Barinov fires back briskly right here and reaches for the Russian word "obshchem" ("short, so", built from "obshchiy") right at the center of the line.
+- 'Come to our restaurant tonight together with Stas.' Talking about his restaurant on the spot, Barinov chooses "priyezzhayte" ("to come, to arrive", from the root "priyezzhat") so Katya hears the exact meaning.
+- 'Alright, we will sit together tonight, my treat!' Barinov reacts evenly without any doubt, without trying to dress up how he really feels.

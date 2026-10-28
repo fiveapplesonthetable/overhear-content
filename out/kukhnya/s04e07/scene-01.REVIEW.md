@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a wonderful idea to put a beautiful piano in the restaurant!' Vika picks this clear piece with Nagiyev: "zamechatelnaya" means "wonderful" (from "zamechatelnyy"), giving the line its exact edge.
-- 'Do you think I have nowhere else to put my money?' Nagiyev offers the comment on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Yesterday I hosted a big party for customs officers.' Nagiyev speaks up wryly during the talk, watching Vika's face to see how the news lands.
-- 'And they paid all the performers with strange things.' Nagiyev uses one loaded term in reply: "artistami" means "performer, artiste" (from "artist"), giving the line its exact edge.
-- 'I ended up with this piano for my work.' Nagiyev replies promptly around Vika, without trying to dress up how he really feels.
-- 'I will think about that on Monday.' Vika speaks evenly as they talk, leaving no doubt about where she stands.
-- 'Wait, Vika, until what Monday on earth?' Nagiyev reaches for one classic word with Vika: "ponedelnika" means "Monday" (from "ponedelnik"), giving the line its exact edge.
-- 'After all, I warned you about this in advance.' Vika favors one vivid expression with Nagiyev: "preduprezhdala" means "warned" (from "preduprezhdat"), giving the line its exact edge.
-- 'Max and I are going to my mom's place.' Vika reacts calmly hearing Nagiyev, without trying to dress up how she really feels.
-- 'My mom is having a big anniversary this weekend.' Vika grounds one practical piece right here: "vykhodnykh" means "weekend" (from "vykhodnoy"), giving the line its exact edge.
-- 'All right, I was still lucky with this piano.' Nagiyev frames the remark without fuss: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.
-- 'They gave another performer a whole truckload of chocolate!' Nagiyev proceeds decisively to settle things, bringing things back to earth after the buildup.
+- 'What a wonderful idea to put a beautiful piano in the restaurant!' Pointing to a wonderful idea at once, Vika lands on "zamechatelnaya" ("wonderful", built on "zamechatelnyy") to keep the statement grounded.
+- 'Do you think I have nowhere else to put my money?' Mentioning his money with Vika, Nagiyev keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Yesterday I hosted a big party for customs officers.' Nagiyev jumps in wryly watching Vika, keeping the focus on what actually matters here.
+- 'And they paid all the performers with strange things.' Mentioning the performer in front of Vika, Nagiyev uses "artistami" ("performer, artiste", from "artist") to make the point stick.
+- 'I ended up with this piano for my work.' Touching on the job with Vika, Nagiyev brings in "rabotu" ("job", from "rabota") as the key Russian word here.
+- 'I will think about that on Monday.' Vika proceeds evenly without holding back, letting the remark speak for itself.
+- 'Wait, Vika, until what Monday on earth?' Nagiyev pushes back directly in the exchange and brings in "ponedelnika" ("Monday", from "ponedelnik") as the key Russian word here.
+- 'After all, I warned you about this in advance.' Vika counters dryly with a shrug, testing Nagiyev's reaction in the middle of the exchange.
+- 'Max and I are going to my mom's place.' Vika pushes back calmly facing Nagiyev, refusing to let the moment slip past.
+- 'My mom is having a big anniversary this weekend.' Addressing the weekend right here, Vika brings in "vykhodnykh" ("weekend", from "vykhodnoy") as the key Russian word here.
+- 'All right, I was still lucky with this piano.' Nagiyev chimes in smoothly during the talk and lands on "yeshchyo" ("more, still") as the key everyday word here.
+- 'They gave another performer a whole truckload of chocolate!' Nagiyev speaks up decisively facing Vika, shifting the mood of the conversation in a single beat.

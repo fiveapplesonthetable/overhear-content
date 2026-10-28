@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to find something new in France.' Nagiyev shapes the reply calmly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'I think we do not need to change anything yet.' Vika fires back earnestly without holding back, saying out loud what both of them already know.
-- 'Stop it, we have a modern restaurant after all!' Nagiyev picks one pointed choice with Barinov: "sovremennyy" means "modern", and it carries the main weight of what Nagiyev is saying.
-- 'We must always move only forward.' Nagiyev opens up calmly to settle things, keeping the focus on what actually matters here.
-- 'There is so much good and beautiful around right now.' Nagiyev proceeds sharply with a nod, testing Barinov's reaction in the middle of the exchange.
-- 'We need to remove the old and not regret it.' Nagiyev leans on one concrete word on cue: "staroye" means "old" (from "staryy"), giving the line its exact edge.
-- 'Vika, what do you think about this yourself?' Nagiyev delivers this warning right away: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'No, friends, you have written me off too soon!' Barinov pushes back pointedly on the spot, making his position completely clear.
-- 'Come on, work faster in my kitchen!' Barinov grounds this direct expression toward Nagiyev: "rabotayte" means "work" (from "rabotat"), giving the line its exact edge.
-- 'Right now your chef is going to cook himself!' Barinov sends that answer for Vika: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Why did he decide to cook before dinner?' Vika asks calmly if there is more going on behind the scenes.
-- 'Here is a new order for Dmitry Vladimirovich.' Vika frames one loaded term in earnest: "novyy" means "new", and it carries the main weight of what Vika is saying.
-- 'Give it here, I will make everything myself!' Barinov chimes in openly with a sigh, bringing things back to earth after the buildup.
+- 'We need to find something new in France.' Opening up firmly during the talk, Nagiyev leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'I think we do not need to change anything yet.' Vika counters earnestly on the spot, shifting the mood of the conversation in a single beat.
+- 'Stop it, we have a modern restaurant after all!' Pointing to a modern restaurant beside Vika, Nagiyev centers the remark on "sovremennyy" ("modern") without any extra fuss.
+- 'We must always move only forward.' Nagiyev proceeds vividly to Vika and chooses "dolzhny" ("must, should", from the root "dolzhen") so Vika hears the exact meaning.
+- 'There is so much good and beautiful around right now.' Nagiyev replies sharply without a pause, making his position completely clear.
+- 'We need to remove the old and not regret it.' Nagiyev cuts in promptly during the talk and leans on "staroye" ("old", a form of "staryy") to give the remark its edge.
+- 'Vika, what do you think about this yourself?' Looking over firmly before Vika, Nagiyev puts the question word "kak" right at the start so Vika hears the focus immediately.
+- 'No, friends, you have written me off too soon!' Barinov cuts in pointedly in their talk, testing Nagiyev's reaction in the middle of the exchange.
+- 'Come on, work faster in my kitchen!' Addressing his kitchen during the talk, Barinov leans on "rabotayte" ("work", a form of "rabotat") to give the remark its edge.
+- 'Right now your chef is going to cook himself!' Barinov chimes in boldly without holding back, so Vika knows he is not just making small talk.
+- 'Why did he decide to cook before dinner?' Vika asks calmly to see how Barinov will answer on the spot.
+- 'Here is a new order for Dmitry Vladimirovich.' Bringing up a new order to Barinov, Vika centers the remark on "novyy" ("new") without any extra fuss.
+- 'Give it here, I will make everything myself!' Barinov fires back candidly in front of Vika and leans on "sdelayu" ("I'll do", a form of "sdelat") to give the remark its edge.

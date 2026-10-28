@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quiet, sleep, sleep.' Mikhail features one familiar term in reply: "tikho" means "easy, quiet", and it carries the main weight of what Mikhail is saying.
-- 'It is not my fault, I did not mean to!' Mikhail opens up firmly on the spot, watching Senya's face to see how the news lands.
-- 'Do not worry. We will say that he fell by himself accidentally.' Barinov jumps in plainly hearing Mikhail, saying out loud what both of them already know.
-- 'I will be a witness.' Barinov colors one practical expression on cue: "svidetelem" means "witness" (from "svidetel"), giving the line its exact edge.
-- 'What is it, doctor? Is hospitalization necessary?' Mikhail states that thought at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'There are fractures there.' Senya answers right away with a smile, saying out loud what both of them already know.
-- 'In short, if he survives, then good.' Senya features this telling expression at once: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
-- 'Of course he will survive! The injuries there are not so severe.' Barinov weighs in bluntly to settle things, shifting the whole mood of the room in a single beat.
-- 'Besides, medicine is at a serious level now.' Barinov jumps in wryly with a nod, keeping the focus on what actually matters here.
-- 'Calm down, I will cover for you.' Senya colors one telling touch at once: "uspokoytes" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
-- 'Carry him into my office.' Mikhail reacts sharply before Barinov, before Barinov can change the subject.
-- 'And do not take your eyes off him!' Mikhail speaks up steadily during the talk, so Senya knows he is not just making small talk.
+- 'Quiet, sleep, sleep.' Mikhail counters earnestly with Barinov and lands on "tikho" ("easy, quiet") as the key everyday word here.
+- 'It is not my fault, I did not mean to!' Mikhail proceeds warmly beside Barinov and leans on "vinovat" ("at fault, guilty", a form of "vinovatyy") to give the remark its edge.
+- 'Do not worry. We will say that he fell by himself accidentally.' Barinov jumps in plainly with a sigh, keeping the focus on what actually matters here.
+- 'I will be a witness.' Pointing to a witness right here, Barinov puts the weight on "svidetelem" ("witness", from "svidetel") as the exchange unfolds.
+- 'What is it, doctor? Is hospitalization necessary?' Bringing up the hospitalization in this beat, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'There are fractures there.' Senya responds right away with a shrug, refusing to let the moment slip past.
+- 'In short, if he survives, then good.' Senya replies promptly beside Barinov and lands on "obshchem" ("short, so", built on "obshchiy") to keep the statement grounded.
+- 'Of course he will survive! The injuries there are not so severe.' Pointing out how heavy things are right here, Barinov uses "tyazhyolyye" ("heavy", from "tyazhyolyy") to make the point stick.
+- 'Besides, medicine is at a serious level now.' Barinov fires back wryly facing Senya, refusing to let the moment slip past.
+- 'Calm down, I will cover for you.' Senya speaks up firmly in front of Barinov and lands on "uspokoytes" ("calm down", built on "uspokoitsya") to keep the statement grounded.
+- 'Carry him into my office.' Underscoring his office on the spot, Mikhail uses "kabinet" ("office") to carry the main weight of the thought.
+- 'And do not take your eyes off him!' Mikhail speaks steadily with Senya, making his position completely clear.

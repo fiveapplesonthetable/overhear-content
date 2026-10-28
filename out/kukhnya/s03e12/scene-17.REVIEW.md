@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone stay back, I will deal with him myself!' Nagiyev brings this line to the hostess: the "-sya" ending on "razberus" ("I will sort out") turns the action inward or makes it happen between people naturally.
-- 'Dima, I am begging you, stop!' Max fires back briskly with a sigh, to clear the air between them once and for all.
-- 'Hello, do you take me for a fool?' The hostess sharpens one practical piece in reply: "zdravstvuyte" means "hello", and it carries the main weight of what the hostess is saying.
-- 'After all, I am not blind at all!' The hostess gives that answer facing Nagiyev: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'There is a man's sock lying on the floor here.' The hostess holds firm honestly with a shrug, testing Max's reaction in the middle of the exchange.
-- 'And our building has not had hot water for a week already!' The hostess picks one colorful expression in reply: "goryachey" means "hot" (from "goryachiy"), giving the line its exact edge.
-- 'I saw right through this scam of yours immediately!' The hostess answers pointedly on the spot, making her position completely clear.
-- 'Please forgive us.' Max weighs in warmly as things stand, refusing to let the moment slip past.
-- 'In five minutes you had better be gone from here!' The hostess grounds one practical detail on cue: "minut" means "minutes" (from "minuta"), giving the line its exact edge.
-- 'And I will not return your money to you.' The hostess points to one concrete choice in earnest: "dengi" means "money", and it carries the main weight of what the hostess is saying.
-- 'I can call the police right now.' The hostess responds boldly with Max, making her position completely clear.
-- 'I will say that you decided to rob me. Goodbye!' The hostess picks one memorable element toward Nagiyev: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
+- 'Everyone stay back, I will deal with him myself!' Looking over briskly with Max, the "-sya" ending on "razberus" ("I will sort out") marks an action that unfolds mutually or turns back on the speaker.
+- 'Dima, I am begging you, stop!' Max steps in briskly watching Nagiyev, watching Nagiyev's face to see how the news lands.
+- 'Hello, do you take me for a fool?' Underscoring a fool right here, the hostess centers the remark on "zdravstvuyte" ("hello") without any extra fuss.
+- 'After all, I am not blind at all!' Noting how blind she is to Max, the hostess adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'There is a man's sock lying on the floor here.' The hostess reacts honestly in this moment, before Max can change the subject.
+- 'And our building has not had hot water for a week already!' Focusing on the house on the spot, the hostess brings in "goryachey" ("hot", from "goryachiy") as the key Russian word here.
+- 'I saw right through this scam of yours immediately!' Emphasizing the scam before Max, the hostess leans on "raskusila" ("saw right through", a form of "raskusit") to give the remark its edge.
+- 'Please forgive us.' Max evenly offers this polite apology at the start of the beat using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'In five minutes you had better be gone from here!' Addressing the minutes right here, the hostess brings in "minut" ("minutes", from "minuta") as the key Russian word here.
+- 'And I will not return your money to you.' The hostess opens up decisively in their talk, testing Max's reaction in the middle of the exchange.
+- 'I can call the police right now.' The hostess pushes back boldly without holding back, so Max knows she is not just making small talk.
+- 'I will say that you decided to rob me. Goodbye!' Focusing on the meeting to Max, the hostess uses "svidaniya" ("meeting", from "svidaniye") to make the point stick.

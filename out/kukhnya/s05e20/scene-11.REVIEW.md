@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, go on, taste your dish boldly.' Barinov states that thought with ease: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Viktor Petrovich, I invite you to evaluate the dish first.' Max speaks up earnestly on the spot, so Nagiyev knows he is not just making small talk.
-- 'Alright, now it is your move, taste it.' Barinov uses one practical element for Max: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
-- 'What great herring, prepare some like this for me.' Nagiyev holds firm pointedly as things stand, refusing to let the moment slip past.
-- 'And slice up some of this fish for me too.' Nagiyev reacts boldly during the talk, keeping the focus on what actually matters here.
-- 'Nikita, did my advice about the cocoa help you?' Nagiyev points to one concrete word in reply: "sovet" means "council", and it carries the main weight of what Nagiyev is saying.
-- 'Bring us the very best champagne.' Nagiyev follows up decisively with a shrug, grounding the moment in plain reality.
-- 'Naturally, on my tab, today there is a special occasion.' Nagiyev steps in candidly as things stand, grounding the moment in plain reality.
-- 'Strange, I seem to be completely alive.' Max colors one vivid element right here: "sovershenno" means "quite, completely", and it carries the main weight of what Max is saying.
-- 'Of course you are alive, you did not eat your own fugu.' Barinov stresses one pointed piece with Nagiyev: "konechno" means "of course", and it carries the main weight of what Barinov is saying.
-- 'I quietly replaced your piece of fillet with mine.' Barinov chimes in candidly as they talk, letting the remark speak for itself.
-- 'Why did you do that, Viktor Petrovich?' Max stresses one memorable piece in reply: "sdelali" means "did, have done" (from "sdelat"), giving the line its exact edge.
+- 'Well, go on, taste your dish boldly.' Dwelling on the dish with Max, Barinov starts with "davay" ("come on, let's") to invite Max right into the action.
+- 'Viktor Petrovich, I invite you to evaluate the dish first.' Max speaks earnestly with a sigh, watching Barinov's face to see how the news lands.
+- 'Alright, now it is your move, taste it.' Touching on the course during the talk, Barinov puts the emphasis on "khorosho" ("good, fine") in the middle of the talk.
+- 'What great herring, prepare some like this for me.' Highlighting the herring on the spot, Nagiyev puts the weight on "otlichnaya" ("excellent", from "otlichnyy") as the exchange unfolds.
+- 'And slice up some of this fish for me too.' Nagiyev continues boldly in their talk, to clear the air between them once and for all.
+- 'Nikita, did my advice about the cocoa help you?' Pointing to the council right here, Nagiyev puts the emphasis on "sovet" ("council") in the middle of the talk.
+- 'Bring us the very best champagne.' Underscoring the champagne beside Max, Nagiyev puts the weight on "shampanskogo" ("of champagne", from "shampanskoye") as the exchange unfolds.
+- 'Naturally, on my tab, today there is a special occasion.' Nagiyev proceeds candidly on the spot, refusing to let the moment slip past.
+- 'Strange, I seem to be completely alive.' Max jumps in vividly around Nagiyev and brings in "sovershenno" ("quite, completely") to make the meaning unmistakable.
+- 'Of course you are alive, you did not eat your own fugu.' Barinov steps in openly facing Max, refusing to let the moment slip past.
+- 'I quietly replaced your piece of fillet with mine.' Barinov responds candidly watching Max, watching Max's face to see how the news lands.
+- 'Why did you do that, Viktor Petrovich?' Max steps in readily at once and uses "sdelali" ("did, have done", from "sdelat") to make the point stick.

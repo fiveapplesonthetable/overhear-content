@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you sell German that recording?' Barinov focuses on this direct word on cue: "germanu" means "coffee" (from "germana"), giving the line its exact edge.
-- 'Chef, we thought he had already resigned.' Senya states the comment without pause: the "-sya" ending on "uvolilsya" ("quit, resigned") turns the action inward or makes it happen between people naturally.
-- 'How could we know that he would come back?' Senya quizzes promptly where this conversation is heading next.
-- 'And could you two not make a copy?' Barinov uses one loaded detail right here: "kopiyu" means "copy, photocopy" (from "kopiya"), giving the line its exact edge.
-- 'He gave us good money for not keeping a copy.' Senya speaks up candidly with a sigh, saying out loud what both of them already know.
-- 'Put the cabbage back in place and listen!' Barinov jumps in at once toward Senya, without trying to dress up how he really feels.
-- 'Go on to the stage faster, the crowd is waiting!' Nagiyev reaches for one familiar piece at once: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
-- 'Dima, I am not going to film anymore.' Barinov lays out this answer before Senya: the "-sya" ending on "snimatsya" ("to act, be filmed") turns the action inward or makes it happen between people naturally.
-- 'That's it, this movie is over for me.' Barinov continues decisively watching Nagiyev, bringing things back to earth after the buildup.
-- 'Good job, go on and get out of here.' Nagiyev reaches for this key touch right here: "molodets" means "well done, good boy", and it carries the main weight of what Nagiyev is saying.
-- 'Only a huge fine is waiting for you out there.' Nagiyev frames this key piece on cue: "ogromnyy" means "huge", and it carries the main weight of what Nagiyev is saying.
-- 'You signed a contract before filming, after all!' Nagiyev follows up quietly beside Senya, shifting the whole mood of the room in a single beat.
+- 'Why did you sell German that recording?' Underscoring the coffee right here, Barinov brings in "germanu" ("coffee", from "germana") as the key Russian word here.
+- 'Chef, we thought he had already resigned.' Leaning in calmly right here, the "-sya" ending on "uvolilsya" ("quit, resigned") marks an action that unfolds mutually or turns back on the speaker.
+- 'How could we know that he would come back?' Senya quizzes promptly about what Barinov just brought up.
+- 'And could you two not make a copy?' Touching on a copy in front of Senya, Barinov puts the weight on "kopiyu" ("copy, photocopy", from "kopiya") as the exchange unfolds.
+- 'He gave us good money for not keeping a copy.' Focusing on the copies at once, Senya puts the weight on "khoroshiye" ("good", from "khoroshiy") as the exchange unfolds.
+- 'Put the cabbage back in place and listen!' Barinov counters at once in this moment, grounding the moment in plain reality.
+- 'Go on to the stage faster, the crowd is waiting!' Touching on the stage around Barinov, Nagiyev puts the weight on "stsenu" ("the stage", from "stsena") as the exchange unfolds.
+- 'Dima, I am not going to film anymore.' Reacting promptly beside Nagiyev, the "-sya" ending on "snimatsya" ("to act, be filmed") marks an action that unfolds mutually or turns back on the speaker.
+- 'That's it, this movie is over for me.' Barinov cuts in decisively with Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'Good job, go on and get out of here.' Nagiyev replies evenly on the spot and centers the remark on "molodets" ("well done, good boy") without any extra fuss.
+- 'Only a huge fine is waiting for you out there.' Nagiyev follows up quietly with Barinov, grounding the moment in plain reality.
+- 'You signed a contract before filming, after all!' Nagiyev continues quietly without any doubt, keeping the focus on what actually matters here.

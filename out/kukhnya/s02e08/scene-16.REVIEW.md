@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The red one. Good.' Barinov features one loaded touch at once: "krasnyy" means "red", and it carries the main weight of what Barinov is saying.
-- 'Or maybe the blue one.' Vika hands over this point plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Well, yes.' Lyova continues honestly without any doubt, watching Barinov's face to see how the news lands.
-- 'Or the red one.' Barinov grounds one direct touch with Vika: "krasnyy" means "red", and it carries the main weight of what Barinov is saying.
-- 'Viktor Petrovich, are you a groom or a bomb tech?' Vika phrases this statement frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Lyova, this is a first date.' Barinov answers wryly with a sigh, steering the talk right where he wants it.
-- 'Wait a second, is she at least from a good family?' Barinov leans on one familiar touch for Lyova: "khoroshey" means "good" (from "khoroshiy"), giving the line its exact edge.
-- 'She is from a good restaurant.' Vika directs the thought without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'She is magical.' Lyova follows up honestly to be clear, shifting the whole mood of the room in a single beat.
-- 'Take the red tie.' Barinov favors one familiar touch at once: "krasnyy" means "red", and it carries the main weight of what Barinov is saying.
-- 'He proposed to me.' Lyova puts that point beside Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Lyova convinced me.' Barinov reacts sharply watching Vika, leaving no doubt about where he stands.
-- 'Hand me the red one.' Barinov highlights one pointed detail with Lyova: "krasnyy" means "red", and it carries the main weight of what Barinov is saying.
+- 'The red one. Good.' Barinov fires back firmly in front of Vika and brings in "krasnyy" ("red") to make the meaning unmistakable.
+- 'Or maybe the blue one.' Following up earnestly in front of Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Well, yes.' Lyova reacts honestly with a sigh, leaving no doubt about where he stands.
+- 'Or the red one.' Barinov chimes in firmly with Lyova and brings in "krasnyy" ("red") to make the meaning unmistakable.
+- 'Viktor Petrovich, are you a groom or a bomb tech?' Discussing a groom in this beat, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Lyova, this is a first date.' Barinov opens up wryly with a sigh, testing Lyova's reaction in the middle of the exchange.
+- 'Wait a second, is she at least from a good family?' Noting how good things are on the spot, Barinov lands on "khoroshey" ("good", built on "khoroshiy") to keep the statement grounded.
+- 'She is from a good restaurant.' Confirming how good she is to Barinov, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'She is magical.' Lyova continues honestly in their talk, testing Vika's reaction in the middle of the exchange.
+- 'Take the red tie.' Barinov counters quietly with Lyova and puts the emphasis on "krasnyy" ("red") in the middle of the talk.
+- 'He proposed to me.' Turning to the offer in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Lyova convinced me.' Barinov answers sharply with a sigh, testing Lyova's reaction in the middle of the exchange.
+- 'Hand me the red one.' Barinov opens up naturally in this beat and reaches for the Russian word "krasnyy" ("red") right at the heart of the line.

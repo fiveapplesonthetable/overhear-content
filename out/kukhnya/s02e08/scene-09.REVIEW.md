@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am going to lose this bet.' Barinov proceeds dryly beside Max, before Max can change the subject.
-- 'Well, what did you want?' Max centers one colorful piece on cue: "khotel" means "wanted" (from "khotet"), giving the line its exact edge.
-- 'You only beat me last time because you caught me off guard.' Barinov jumps in candidly across the room, shifting the whole mood of the room in a single beat.
-- 'Well, you could put it that way.' Max fires back at once in their talk, letting the remark speak for itself.
-- 'Wait, I did not quite get that.' Barinov chooses one memorable term at once: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'Come on, throw a punch, I will show you how to block it.' Max offers the comment to Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Oh, well in that case, here I go.' Barinov proceeds firmly with a sigh, shifting the whole mood of the room in a single beat.
-- 'I am so sorry, please forgive me.' Max stresses this direct term in reply: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'I think he just broke your nose.' Barinov aims the reaction beside Max: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
-- 'Chef, good afternoon.' Max proceeds candidly toward Barinov, grounding the moment in plain reality.
-- 'What I wanted to tell you is...' Barinov chooses this direct word at once: "skazat" means "tell", and it carries the main weight of what Barinov is saying.
-- 'Did you add me as a friend?' Max sends that answer at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'I am about to add you to the meat grinder.' Barinov opens up frankly with Max, to clear the air between them once and for all.
+- 'I am going to lose this bet.' Barinov steps in dryly beside Max, bringing things back to earth after the buildup.
+- 'Well, what did you want?' Answering boldly around Barinov, Max puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'You only beat me last time because you caught me off guard.' Barinov weighs in evenly around Max and brings in "vrasplokh" ("off guard, unawares") to make the meaning unmistakable.
+- 'Well, you could put it that way.' Max fires back at once watching Barinov, without trying to dress up how he really feels.
+- 'Wait, I did not quite get that.' Barinov weighs in boldly to Max and leans on "ponyal" ("understood", a form of "ponyat") to give the remark its edge.
+- 'Come on, throw a punch, I will show you how to block it.' Looking over candidly in this beat, Max starts with "davay" ("come on, let's") to invite Barinov right into the action.
+- 'Oh, well in that case, here I go.' Barinov replies firmly with Max, without trying to dress up how he really feels.
+- 'I am so sorry, please forgive me.' Max readily speaks this polite apology in front of Barinov using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'I think he just broke your nose.' Opening up naturally around Max, the "-sya" ending on "kazhetsya" ("it seems, I think") marks an action that unfolds mutually or turns back on the speaker.
+- 'Chef, good afternoon.' Max readily shares this daytime greeting while facing Barinov using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'What I wanted to tell you is...' Cutting in calmly before Max, Barinov puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Did you add me as a friend?' Reacting boldly to Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'I am about to add you to the meat grinder.' Barinov chimes in frankly with a smile, watching Max's face to see how the news lands.

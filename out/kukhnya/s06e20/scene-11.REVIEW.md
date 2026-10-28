@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right now, Chef, we will get a wheelchair.' Mikhail chimes in dryly before Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'In half an hour everything will be ready.' Barinov jumps in briskly without any doubt, keeping the focus on what actually matters here.
-- 'While they are looking, hide somewhere.' Mikhail grounds one telling element at once: "spryachsya" means "to hide" (from "spryatatsya"), giving the line its exact edge.
-- 'So that the inspector does not see you.' Mikhail sharpens one memorable expression toward Denis: "inspektor" means "inspector", and it carries the main weight of what Mikhail is saying.
-- 'I will say that you are in the hospital.' Mikhail follows up candidly across the room, without trying to dress up how he really feels.
-- 'Hey, I urgently need to go to the restroom.' Denis frames one direct touch in reply: "tualet" means "toilet", and it carries the main weight of what Denis is saying.
-- 'And what does that have to do with me?' Mikhail gives the thought in earnest: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'You will not get far anyway.' Mikhail steps in dryly facing Denis, to clear the air between them once and for all.
-- 'Maybe you will stand up from the chair now?' Denis features this telling piece at once: "vstanesh" means "to stand up" (from "vstat"), giving the line its exact edge.
-- 'Because I really need to go.' Denis shapes the reaction without fuss: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'What are you doing over there right now?' Pushing back right now, Mikhail lets Barinov know there is no turning back now.
-- 'Sit back down in your places quickly, both of you!' Mikhail sharpens one key term in reply: "mesto" means "place, post", and it carries the main weight of what Mikhail is saying.
+- 'Right now, Chef, we will get a wheelchair.' Addressing a wheelchair in the exchange, Mikhail puts the weight on "kolyasku" ("wheelchair", from "kolyaska") as the exchange unfolds.
+- 'In half an hour everything will be ready.' Barinov proceeds briskly on the spot, before Mikhail can change the subject.
+- 'While they are looking, hide somewhere.' Mikhail smoothly sends this casual farewell right on cue using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'So that the inspector does not see you.' Focusing on the inspector with a shrug, Mikhail keeps Barinov's attention locked on what matters.
+- 'I will say that you are in the hospital.' Mikhail responds candidly beside Denis, shifting the mood of the conversation in a single beat.
+- 'Hey, I urgently need to go to the restroom.' Mentioning the toilet with Mikhail, Denis centers the remark on "tualet" ("toilet") without any extra fuss.
+- 'And what does that have to do with me?' Speaking readily on the spot, Mikhail drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'You will not get far anyway.' Mikhail proceeds dryly on the spot, letting the remark speak for itself.
+- 'Maybe you will stand up from the chair now?' Highlighting the chair beside Mikhail, Denis reaches for the Russian word "vstanesh" ("to stand up", built from "vstat") right at the center of the line.
+- 'Because I really need to go.' Answering dryly beside Mikhail, Denis leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'What are you doing over there right now?' Mikhail quizzes firmly whether Denis really thought this through.
+- 'Sit back down in your places quickly, both of you!' Highlighting the place before Denis, Mikhail centers the remark on "mesto" ("place, post") without any extra fuss.

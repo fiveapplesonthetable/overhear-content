@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, what is this matter that cannot be discussed over the phone?' Max points to one key word on cue: "zdravstvuyte" means "hello", and it carries the main weight of what Max is saying.
-- 'With the money that you gave me, Nastya bought a car.' Kostya anchors one vivid piece for Nastya: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
-- 'Well good for her, since you cannot buy her one yourself.' Max steps in promptly toward Kostya, without trying to dress up how he really feels.
-- 'It turns out that we again have no money for the wedding.' Kostya grounds this sharp choice with Nastya: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
-- 'Dad, whose paper is this in the car?' Nastya makes the comeback to Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'It is not mine, it is already yours, sweetheart.' Max speaks up firmly before Nastya, leaving no doubt about where he stands.
-- 'Ah, so that is where all that money came from, right?' Nastya centers one practical detail in reply: "vzyalis" means "to appear, come from" (from "vzyatsya"), giving the line its exact edge.
-- 'The bet you won, the old stash, and the bonuses!' Nastya pushes back bluntly facing Max, before Max can change the subject.
-- 'Nastya, listen, I can explain all of this to you!' Kostya fires back firmly during the talk, grounding the moment in plain reality.
-- 'Do not explain anything to me, Kostya, everything is clear as it is!' Nastya spotlights one clear choice on cue: "obyasnyat" means "to explain", and it carries the main weight of what Nastya is saying.
-- 'You are simply a shameless liar!' Nastya gives that reply without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'And we are not going to have any wedding now!' Nastya fires back calmly before Max, shifting the whole mood of the room in a single beat.
+- 'Hello, what is this matter that cannot be discussed over the phone?' Pointing to the matter before Kostya, Max brings in "zdravstvuyte" ("hello") to make the meaning unmistakable.
+- 'With the money that you gave me, Nastya bought a car.' Kostya continues evenly during the talk, refusing to let the moment slip past.
+- 'Well good for her, since you cannot buy her one yourself.' Max replies promptly without a pause, keeping the focus on what actually matters here.
+- 'It turns out that we again have no money for the wedding.' Addressing the money in this beat, Kostya puts the weight on "poluchayetsya" ("works out", from "poluchatsya") as the exchange unfolds.
+- 'Dad, whose paper is this in the car?' Returning to the car before Max, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'It is not mine, it is already yours, sweetheart.' Max fires back firmly in this moment, keeping the focus on what actually matters here.
+- 'Ah, so that is where all that money came from, right?' Turning to the money right here, Nastya reaches for the Russian word "dengi" ("money") right at the heart of the line.
+- 'The bet you won, the old stash, and the bonuses!' Discussing the old stash with Kostya, Nastya reaches for the Russian word "zanachka" ("secret stash") right at the heart of the line.
+- 'Nastya, listen, I can explain all of this to you!' Kostya weighs in firmly hearing Nastya, steering the talk right where he wants it.
+- 'Do not explain anything to me, Kostya, everything is clear as it is!' Nastya responds plainly beside Kostya and reaches for the Russian word "obyasnyat" ("to explain") right at the heart of the line.
+- 'You are simply a shameless liar!' Making clear how shameless Kostya is in this beat, Nastya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'And we are not going to have any wedding now!' Nastya jumps in calmly without a pause, watching Kostya's face to see how the news lands.

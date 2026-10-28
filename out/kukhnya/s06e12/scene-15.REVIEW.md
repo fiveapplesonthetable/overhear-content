@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The pasta is very tasty today, Lyova, come eat.' Katya steps in dryly toward Gulya, testing Gulya's reaction in the middle of the exchange.
-- 'No, thank you very much, I have no appetite today.' Lyova underscores one classic expression with Katya: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'My mom broke her leg yesterday, I am very worried.' Lyova responds honestly to be clear, saying out loud what both of them already know.
-- 'Katya, and why are you eating nothing yourself today?' Lyova tests bluntly as Katya tries to explain the situation.
-- 'Thank you, I do not want any, maybe I will eat later.' Katya focuses on one classic detail for Gulya: "spasibo" means "thank you", and it carries the main weight of what Katya is saying.
-- 'How good that you and I went for an X-ray.' Gulya drops this statement to Lyova: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'After all, I said right away that there might be a fracture.' Gulya speaks up warmly on the spot, refusing to let the moment slip past.
-- 'If you really want to thank me for this.' Gulya highlights one telling choice at once: "deystvitelno" means "really, indeed", and it carries the main weight of what Gulya is saying.
-- 'I beg you very much, do not force Lyova to choose.' Gulya colors one direct detail in earnest: "zastavlyayte" means "to force, to make" (from "zastavlyat"), giving the line its exact edge.
-- 'What a comparison, after all you are no rival to me.' Katya cuts in briskly with a shrug, leaving no doubt about where she stands.
-- 'And I am not going to compete with you at all.' Gulya anchors this clear touch in earnest: "sopernichat" means "to compete", and it carries the main weight of what Gulya is saying.
-- 'I will step aside myself, because I do not want to hurt him!' Gulya speaks up quietly facing Lyova, grounding the moment in plain reality.
+- 'The pasta is very tasty today, Lyova, come eat.' Katya fires back dryly around Lyova, grounding the moment in plain reality.
+- 'No, thank you very much, I have no appetite today.' Focusing on the thank in the exchange, Lyova lands on "bolshoye" ("big, very much", built on "bolshoy") to keep the statement grounded.
+- 'My mom broke her leg yesterday, I am very worried.' Pointing to the mum before Katya, Lyova reaches for the Russian word "perezhivayu" ("worry", built from "perezhivat") right at the center of the line.
+- 'Katya, and why are you eating nothing yourself today?' Lyova tests bluntly before Katya can change the subject.
+- 'Thank you, I do not want any, maybe I will eat later.' Turning to the thank in the exchange, Katya leans on "spasibo" ("thank you") to give the whole sentence its punch.
+- 'How good that you and I went for an X-ray.' Pointing to the fine during the talk, Gulya reaches for the Russian word "rentgen" ("fine") right at the heart of the line.
+- 'After all, I said right away that there might be a fracture.' Focusing on a fracture beside Katya, Gulya brings the exchange with Katya back to practical reality.
+- 'If you really want to thank me for this.' Gulya replies boldly to Katya and chooses "deystvitelno" ("really, indeed") so Katya gets the point right away.
+- 'I beg you very much, do not force Lyova to choose.' Gulya weighs in warmly with Katya, so Katya knows she is not just making small talk.
+- 'What a comparison, after all you are no rival to me.' Katya reacts briskly with Gulya, so Gulya knows she is not just making small talk.
+- 'And I am not going to compete with you at all.' Gulya follows up openly in front of Katya and leans on "sopernichat" ("to compete") to give the whole sentence its punch.
+- 'I will step aside myself, because I do not want to hurt him!' Gulya reacts calmly on the spot and brings in "otstuplyu" ("I will step back", from "otstupit") as the key Russian word here.

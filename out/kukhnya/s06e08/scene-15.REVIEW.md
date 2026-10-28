@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, open up immediately, I know that you are in here!' Barinov replies plainly with a shrug, bringing things back to earth after the buildup.
-- 'Tell me honestly, do you like it here at my place?' Nikita points to one concrete element in earnest: "nravitsya" means "is pleasing", and it carries the main weight of what Nikita is saying.
-- 'Wait, after all that is far from everything.' Nikita speaks candidly to settle things, making his position completely clear.
-- 'I congratulate you from the heart on your birthday!' Nikita stands firm warmly without holding back, steering the talk right where he wants it.
-- 'I believe that extra words are unnecessary here.' Nikita emphasizes one telling touch toward Barinov: "lishniye" means "unnecessary" (from "lishniy"), giving the line its exact edge.
-- 'This gift will say everything for itself.' Nikita speaks up boldly with a sigh, refusing to let the moment slip past.
-- 'Well and what exactly is it saying?' Katya prompts calmly whether Barinov really thought this through.
-- 'It is a very beautiful and expensive necklace.' Nikita reaches for one pointed choice for Katya: "krasivoye" means "beautiful" (from "krasivyy"), giving the line its exact edge.
-- 'It is much more expensive than your new motorcycle.' Nikita drops that line for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well and how am I supposed to react to this?' Katya probes briskly in front of Nikita without any preamble.
-- 'I rented a room and bought an expensive gift.' Nikita favors one direct expression in reply: "dorogoy" means "dear", and it carries the main weight of what Nikita is saying.
-- 'You clearly expected to stay here with me.' Nikita highlights this telling element in reply: "rasschityvala" means "to count on" (from "rasschityvat"), giving the line its exact edge.
+- 'Dima, open up immediately, I know that you are in here!' Barinov weighs in plainly without holding back, making his position completely clear.
+- 'Tell me honestly, do you like it here at my place?' Nikita follows up frankly right here and lands on "nravitsya" ("is pleasing") as the key everyday word here.
+- 'Wait, after all that is far from everything.' Nikita opens up openly before Barinov and puts the weight on "podozhdi" ("wait", from "podozhdat") as the exchange unfolds.
+- 'I congratulate you from the heart on your birthday!' Nikita counters warmly beside Barinov, keeping the focus on what actually matters here.
+- 'I believe that extra words are unnecessary here.' Insisting on how unnecessary things are to Katya, Nikita leans on "lishniye" ("unnecessary", a form of "lishniy") to give the remark its edge.
+- 'This gift will say everything for itself.' Discussing the gift on the spot, Nikita brings in "podarok" ("gift, voucher") to make the meaning unmistakable.
+- 'Well and what exactly is it saying?' Katya prompts calmly where this conversation is heading next.
+- 'It is a very beautiful and expensive necklace.' Making clear how beautiful things are in this beat, Nikita uses "krasivoye" ("beautiful", from "krasivyy") to make the point stick.
+- 'It is much more expensive than your new motorcycle.' Talking about the motorcycle in front of Katya, Nikita links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well and how am I supposed to react to this?' Katya speaks promptly during the talk, shifting the mood of the conversation in a single beat.
+- 'I rented a room and bought an expensive gift.' Talking about the number around Katya, Nikita lands on "dorogoy" ("dear") as the key everyday word here.
+- 'You clearly expected to stay here with me.' Nikita pushes back decisively with a sigh, steering the talk right where he wants it.

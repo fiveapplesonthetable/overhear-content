@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need a table for twelve people.' Barinov colors one loaded word in earnest: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
-- 'No, I do not need it for tomorrow anymore.' Barinov shapes this line to Vika: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'It is the end of the week, everything is booked in all restaurants!' Barinov continues right away hearing Lyova, bringing things back to earth after the buildup.
-- 'Viktor Petrovich, maybe we can celebrate at Monet then?' Lyova features one familiar detail with Vika: "otmetim" means "to celebrate" (from "otmetit"), giving the line its exact edge.
-- 'Make revenue for that obnoxious German?' Barinov sends the comeback beside Lyova: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'Not for anything in the world will I go!' Barinov holds firm lightly without holding back, to clear the air between them once and for all.
-- 'Good afternoon, do you have a reservation in advance?' Vika colors one pointed piece with Barinov: "zabronirovano" means "advance", and it carries the main weight of what Vika is saying.
-- 'Angelina, do you not recognize me at all?' Barinov drops this statement frankly here: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Quickly call Viktoriya Sergeyevna over here!' Barinov follows up frankly in their talk, to clear the air between them once and for all.
-- 'Hello, Vika, we have a banquet for today.' Barinov emphasizes one direct touch toward Vika: "banket" means "banquet", and it carries the main weight of what Barinov is saying.
-- 'And definitely prepare a big cake for us.' Barinov steps in sharply with a sigh, without trying to dress up how he really feels.
-- 'I am afraid we will not have enough candles for that!' Vika answers pointedly hearing Lyova, letting the remark speak for itself.
+- 'I need a table for twelve people.' Emphasizing a table to Lyova, Barinov centers the thought on "nuzhen" ("is needed", from "nuzhnyy") without wasting a word.
+- 'No, I do not need it for tomorrow anymore.' Turning calmly right here, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'It is the end of the week, everything is booked in all restaurants!' Barinov follows up right away watching Lyova, grounding the moment in plain reality.
+- 'Viktor Petrovich, maybe we can celebrate at Monet then?' Lyova opens up dryly with Barinov and puts the weight on "otmetim" ("to celebrate", from "otmetit") as the exchange unfolds.
+- 'Make revenue for that obnoxious German?' Bringing up the revenue to Lyova, Barinov keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'Not for anything in the world will I go!' Barinov reacts lightly with Vika, before Vika can change the subject.
+- 'Good afternoon, do you have a reservation in advance?' Vika follows up readily in the exchange and brings in "zabronirovano" ("advance") to make the meaning unmistakable.
+- 'Angelina, do you not recognize me at all?' Leaning in calmly on the spot, Barinov adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Quickly call Viktoriya Sergeyevna over here!' Barinov answers frankly in this moment, grounding the moment in plain reality.
+- 'Hello, Vika, we have a banquet for today.' Highlighting a banquet on the spot, Barinov leans on "banket" ("banquet") to give the whole sentence its punch.
+- 'And definitely prepare a big cake for us.' Talking about a big cake with Vika, Barinov chooses "obyazatelno" ("surely, without fail") so Vika gets the point right away.
+- 'I am afraid we will not have enough candles for that!' Vika continues pointedly on the spot, making her position completely clear.

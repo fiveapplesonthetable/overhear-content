@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well done, simply a great job!' Nagiyev opens up frankly without holding back, letting the remark speak for itself.
-- 'You broke it yourself, you will pay for it yourself.' Nagiyev colors this sharp touch in earnest: "zaplatish" means "to pay" (from "zaplatit"), giving the line its exact edge.
-- 'Got it, I will pay for everything.' Kostya directs that answer frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And a fine on top of that too!' Nagiyev speaks bluntly around Nastya, steering the talk right where he wants it.
-- 'Kostya, have you completely lost your mind?' Nastya chooses one clear touch at once: "soshyol" means "gone" (from "soyti"), giving the line its exact edge.
-- 'Let's just tear up our money then!' Nastya puts that remark calmly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'We have so much money, after all!' Nastya answers right away to settle things, to clear the air between them once and for all.
-- 'Quiet, Nastya, just do not shout.' Kostya picks one colorful detail toward Nastya: "krichi" means "shout, yell" (from "krichat"), giving the line its exact edge.
-- 'Hello, we are stuck in the elevator here.' Nastya brings this answer around Kostya: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'Press the button and call the technician.' Kostya follows up evenly during the talk, refusing to let the moment slip past.
-- 'We already pressed it, nobody answers.' Nastya anchors this telling touch on cue: "otvechayet" means "is responsible" (from "otvechat"), giving the line its exact edge.
-- 'Please call our friend for us.' Nastya offers the comment around Nagiyev: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Give me the number, just make it quick.' Kostya stands firm openly watching Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'Well done, simply a great job!' Nagiyev chimes in frankly beside Kostya, letting the remark speak for itself.
+- 'You broke it yourself, you will pay for it yourself.' Nagiyev cuts in readily in this beat and uses "zaplatish" ("to pay", from "zaplatit") to make the point stick.
+- 'Got it, I will pay for everything.' Cutting in readily around Nagiyev, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And a fine on top of that too!' Nagiyev jumps in bluntly without any doubt, without trying to dress up how he really feels.
+- 'Kostya, have you completely lost your mind?' Addressing the mind beside Kostya, Nastya uses "soshyol" ("gone", from "soyti") to make the point stick.
+- 'Let's just tear up our money then!' Turning to her money to Nagiyev, Nastya starts with "davay" ("come on, let's") to invite Nagiyev right into the action.
+- 'We have so much money, after all!' Nastya continues right away beside Kostya, without trying to dress up how she really feels.
+- 'Quiet, Nastya, just do not shout.' Kostya opens up candidly on the spot and uses "krichi" ("shout, yell", from "krichat") to make the point stick.
+- 'Hello, we are stuck in the elevator here.' Pointing to the elevator on the spot, Nastya reaches for the Russian word "zdravstvuyte" ("hello") right at the heart of the line.
+- 'Press the button and call the technician.' Kostya pushes back evenly facing Nastya, shifting the mood of the conversation in a single beat.
+- 'We already pressed it, nobody answers.' Nastya opens up warmly beside Kostya and lands on "otvechayet" ("is responsible", built on "otvechat") to keep the statement grounded.
+- 'Please call our friend for us.' Nastya naturally directs this courtesy word at this moment using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Give me the number, just make it quick.' Kostya fires back openly beside Nastya, refusing to let the moment slip past.

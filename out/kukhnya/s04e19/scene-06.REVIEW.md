@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Some strange music was playing in the dream.' Denis answers candidly with a nod, so Ainura knows he is not just making small talk.
-- 'I look at my hands.' Denis reaches for one memorable detail in reply: "smotryu" means "look" (from "smotret"), giving the line its exact edge.
-- 'And they are small, like a child's.' Denis shapes the comment frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Denis, I do not want to upset you.' Senya weighs in boldly facing Denis, keeping the focus on what actually matters here.
-- 'Listen, Denis, do not worry so much.' Ainura grounds one colorful term toward Denis: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'There is nothing terribly bad in that.' Ainura phrases this update right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You will just break your arm soon, and that's all.' Ainura weighs in at once with Denis, bringing things back to earth after the buildup.
-- 'Thanks, Ainura, you really comforted me.' Denis picks one colorful choice on cue: "spasibo" means "thank you", and it carries the main weight of what Denis is saying.
-- 'Enough, why did you jump on the guy?' Senya delivers that remark with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Ainura purely through rising pitch at the end.
-- 'So what if he has small hands, what next?' Senya checks point-blank while looking straight at Denis here.
-- 'All right, pal, do not worry, give me five!' Senya reaches for one memorable piece toward Ainura: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'All right, everyone disperse to your stations quickly!' Ainura frames that thought right away: the "-sya" ending on "razoshlis" ("broke up, parted ways") turns the action inward or makes it happen between people naturally.
+- 'Some strange music was playing in the dream.' Denis opens up candidly beside Senya, before Senya can change the subject.
+- 'I look at my hands.' Mentioning his hands in front of Senya, Denis chooses "ruki" ("hands", from the root "ruka") so Senya hears the exact meaning.
+- 'And they are small, like a child's.' Turning to a child beside Senya, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Denis, I do not want to upset you.' Senya weighs in boldly watching Denis, so Denis knows he is not just making small talk.
+- 'Listen, Denis, do not worry so much.' Ainura reacts openly around Denis and lands on "perezhivay" ("worry", built on "perezhivat") to keep the statement grounded.
+- 'There is nothing terribly bad in that.' Underscoring how terrible things are at once, Ainura links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You will just break your arm soon, and that's all.' Ainura speaks up at once on the spot, refusing to let the moment slip past.
+- 'Thanks, Ainura, you really comforted me.' Emphasizing the thank on the spot, Denis chooses "spasibo" ("thank you") so Ainura gets the point right away.
+- 'Enough, why did you jump on the guy?' Jumping in promptly on the spot, Senya keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'So what if he has small hands, what next?' Senya checks point-blank to see how Ainura will answer on the spot.
+- 'All right, pal, do not worry, give me five!' Mentioning the friend in front of Ainura, Senya puts the weight on "perezhivay" ("worry", from "perezhivat") as the exchange unfolds.
+- 'All right, everyone disperse to your stations quickly!' Returning to the places in front of Senya, the "-sya" ending on "razoshlis" ("broke up, parted ways") marks an action that unfolds mutually or turns back on the speaker.

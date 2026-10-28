@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will explain everything right now.' Max answers lightly on the spot, steering the talk right where he wants it.
-- 'Max, excuse me.' Barinov features one vivid element for Vika: "izvini" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'What have they got over there?' Vika brings that reply calmly now: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Her parents asked for this to be passed along to her.' Max holds firm firmly around Vika, shifting the whole mood of the room in a single beat.
-- 'Would you like a snail, Rodion Sergeyevich?' Barinov features one vivid term on cue: "ulitku" means "snail, escargot" (from "ulitka"), giving the line its exact edge.
-- 'Well, it seems everyone is satisfied.' Vika frames that thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Indeed, Snail Day turned out to be a big success.' Max fires back lightly in this moment, grounding the moment in plain reality.
-- 'Vika, please forgive me.' Barinov anchors one classic touch for Vika: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
-- 'You did great, you put on quite a show.' Vika puts that point around Barinov: the "-sya" ending on "molodets" ("well done, good boy") turns the action inward or makes it happen between people naturally.
-- 'I am not talking about the show.' Max speaks up bluntly without any doubt, leaving no doubt about where he stands.
-- 'I am talking about the two of us.' Barinov aims this warning frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I understand a lot of things now.' Vika directs the remark for Max: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'And nothing can be fixed anymore.' Max responds candidly without a pause, to clear the air between them once and for all.
+- 'I will explain everything right now.' Max responds lightly with a nod, before Barinov can change the subject.
+- 'Max, excuse me.' Barinov plainly delivers this informal apology beside Max using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'What have they got over there?' Replying readily to Max, Vika puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Her parents asked for this to be passed along to her.' Max pushes back firmly around Vika, before Vika can change the subject.
+- 'Would you like a snail, Rodion Sergeyevich?' Underscoring a snail on the spot, Barinov lands on "ulitku" ("snail, escargot", built on "ulitka") to keep the statement grounded.
+- 'Well, it seems everyone is satisfied.' Highlighting how satisfied things are before Barinov, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Indeed, Snail Day turned out to be a big success.' Max counters lightly in their talk, refusing to let the moment slip past.
+- 'Vika, please forgive me.' Barinov readily extends this personal apology in the exchange using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'You did great, you put on quite a show.' Answering dryly in this beat, the "-sya" ending on "molodets" ("well done, good boy") marks an action that unfolds mutually or turns back on the speaker.
+- 'I am not talking about the show.' Max replies bluntly across the room, to clear the air between them once and for all.
+- 'I am talking about the two of us.' Reacting plainly in the exchange, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I understand a lot of things now.' Reacting firmly in this beat, Vika drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'And nothing can be fixed anymore.' Max pushes back candidly in this moment, letting the remark speak for itself.

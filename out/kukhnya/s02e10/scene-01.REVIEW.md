@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Along which you walk.' Max reaches for one practical piece right here: "idesh" means "are coming" (from "idti"), giving the line its exact edge.
-- 'And leads someone else over there.' Barinov brings that remark at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Everyone has their own path.' Max reacts sharply with a shrug, steering the talk right where he wants it.
-- 'Who is that?' Barinov hands over the comeback with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I do not know.' Max states this statement before Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Probably the landlady.' Barinov speaks up earnestly beside Max, testing Max's reaction in the middle of the exchange.
-- 'Why would you need to hide me?' Max centers this vivid word for Barinov: "pryatatsya" means "to hide", and it carries the main weight of what Max is saying.
-- 'Well, she does not like it when I bring men over.' Barinov steps in frankly before Max, before Max can change the subject.
-- 'You bring men over?' Max probes bluntly if there is more going on behind the scenes.
-- 'Did something happen?' Barinov features one pointed expression in reply: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'Here is what happened.' Max makes this answer for Barinov: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
-- 'And by the way, I just redid the renovations.' Barinov cuts in boldly as things stand, shifting the whole mood of the room in a single beat.
-- 'A year ago.' Max centers one concrete choice in earnest: "nazad" means "ago", and it carries the main weight of what Max is saying.
+- 'Along which you walk.' Max weighs in firmly before Barinov and reaches for the Russian word "idesh" ("are coming", built from "idti") right at the center of the line.
+- 'And leads someone else over there.' Jumping in smoothly before Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Everyone has their own path.' Max reacts sharply with a nod, before Barinov can change the subject.
+- 'Who is that?' Replying smoothly right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I do not know.' Speaking warmly on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Probably the landlady.' Barinov speaks up earnestly with a nod, refusing to let the moment slip past.
+- 'Why would you need to hide me?' Max jumps in decisively before Barinov and chooses "pryatatsya" ("to hide") so Barinov gets the point right away.
+- 'Well, she does not like it when I bring men over.' Mentioning the men around Max, Barinov centers the thought on "muzhikov" ("men, guys", from "muzhik") without wasting a word.
+- 'You bring men over?' Max probes bluntly what Barinov is actually getting at here.
+- 'Did something happen?' Barinov steps in vividly beside Max and brings in "sluchilos" ("happened", from "sluchitsya") as the key Russian word here.
+- 'Here is what happened.' Weighing in naturally in the exchange, the "-sya" ending on "sluchilos" ("happened") marks an action that unfolds mutually or turns back on the speaker.
+- 'And by the way, I just redid the renovations.' Barinov answers boldly with Max, without trying to dress up how he really feels.
+- 'A year ago.' Turning to a year during the talk, Max chooses "nazad" ("ago") so Barinov gets the point right away.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our son is staying at grandma's tonight.' Kostya focuses on one direct term in earnest: "babushki" means "grandmothers" (from "babushka"), giving the line its exact edge.
-- 'Everything is fine, we will be going soon.' Kostya states that remark beside Lyova: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'It seems she is very rowdy tonight.' Katya responds openly before Kostya, refusing to let the moment slip past.
-- 'In this state she might jump out of the car.' Kostya picks one concrete element toward Lyova: "sostoyanii" means "condition, state" (from "sostoyaniye"), giving the line its exact edge.
-- 'Katya, will you help me get Nastya home?' Kostya frames that point with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Of course, let us go get in the car quickly.' Katya cuts in honestly to be clear, saying out loud what both of them already know.
-- 'Sorry, brother, you see for yourself what the situation is.' Kostya reaches for one sharp element on cue: "situatsiya" means "situation", and it carries the main weight of what Kostya is saying.
-- 'I want to ask about the hospital.' Katya proceeds warmly before Lyova, leaving no doubt about where she stands.
-- 'Tell me, is everything really alright with you?' Katya questions point-blank how Kostya expects that to work in practice.
-- 'Of course, everything is completely normal with me.' Lyova uses one concrete choice at once: "sovershenno" means "quite, completely", and it carries the main weight of what Lyova is saying.
-- 'All of our waiters have suddenly disappeared somewhere.' Lyova proceeds plainly hearing Katya, bringing things back to earth after the buildup.
-- 'Apparently I will have to serve the dish myself.' Lyova stands firm at once in this moment, so Kostya knows he is not just making small talk.
+- 'Our son is staying at grandma's tonight.' Highlighting the grandmothers on the spot, Kostya reaches for the Russian word "babushki" ("grandmothers", built from "babushka") right at the center of the line.
+- 'Everything is fine, we will be going soon.' Kostya replies quietly to Katya and uses "khorosho" ("good, fine") to carry the main weight of the thought.
+- 'It seems she is very rowdy tonight.' Katya responds openly with a shrug, keeping the focus on what actually matters here.
+- 'In this state she might jump out of the car.' Emphasizing the condition before Katya, Kostya brings in "sostoyanii" ("condition, state", from "sostoyaniye") as the key Russian word here.
+- 'Katya, will you help me get Nastya home?' Reacting promptly at once, Kostya keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Of course, let us go get in the car quickly.' Katya chimes in honestly around Kostya, leaving no doubt about where she stands.
+- 'Sorry, brother, you see for yourself what the situation is.' Bringing up the situation at once, Kostya lands on "situatsiya" ("situation") as the key everyday word here.
+- 'I want to ask about the hospital.' Pointing to the hospital at once, Katya centers the thought on "bolnitsy" ("hospital", from "bolnitsa") without wasting a word.
+- 'Tell me, is everything really alright with you?' Katya questions point-blank while looking straight at Lyova here.
+- 'Of course, everything is completely normal with me.' Lyova replies openly before Katya and brings in "sovershenno" ("quite, completely") to make the meaning unmistakable.
+- 'All of our waiters have suddenly disappeared somewhere.' Mentioning his waiters in this beat, Lyova lands on "ofitsianty" ("waiters", built on "ofitsiant") to keep the statement grounded.
+- 'Apparently I will have to serve the dish myself.' Lyova steps in at once toward Katya, so Katya knows he is not just making small talk.

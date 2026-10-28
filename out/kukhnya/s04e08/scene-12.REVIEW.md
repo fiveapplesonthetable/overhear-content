@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, help me, please, my zipper is stuck!' Mama fires back promptly before Max, leaving no doubt about where she stands.
-- 'Right now, Mom, I am already coming to help you!' Max focuses on one clear detail on cue: "seychas" means "now", and it carries the main weight of what Max is saying.
-- 'Tomorrow at work we will find someone who will fix this shawl.' Max steps in earnestly as things stand, making his position completely clear.
-- 'And tell Mom right now that your head hurts.' Max holds firm firmly with a smile, to clear the air between them once and for all.
-- 'No, Max, I am not going to lie to her anymore!' Vika features one direct choice right here: "bolshe" means "more", and it carries the main weight of what Vika is saying.
-- 'Oh, Vikochka, what suddenly happened to you?' Mama makes the reaction without pause: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Forgive me, my head suddenly started hurting badly.' Vika speaks decisively with Mama, steering the talk right where she wants it.
-- 'She sometimes gets bad headaches after an accident.' Max frames one loaded piece in reply: "silnyye" means "strong, powerful" (from "silnyy"), giving the line its exact edge.
-- 'After what accident, what happened to you?' Mama voices this statement around Max: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Mom, it is a long story, I will tell you later.' Max pushes back calmly across the room, without trying to dress up how he really feels.
-- 'The most important thing is that everyone is alive and well right now!' Max chooses this vivid term in earnest: "glavnoye" means "important" (from "glavnyy"), giving the line its exact edge.
-- 'Vika, let's rest a little, and everything will be fine.' Max delivers this answer without fuss: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Max, help me, please, my zipper is stuck!' Mama steps in promptly around Max, without trying to dress up how she really feels.
+- 'Right now, Mom, I am already coming to help you!' Highlighting the mum beside Mama, Max uses "mama" ("mum, mother") to carry the main weight of the thought.
+- 'Tomorrow at work we will find someone who will fix this shawl.' Addressing the work before Mama, Max leans on "rabote" ("work", a form of "rabota") to give the remark its edge.
+- 'And tell Mom right now that your head hurts.' Max follows up firmly on the spot, to clear the air between them once and for all.
+- 'No, Max, I am not going to lie to her anymore!' Vika jumps in boldly around Max and puts the emphasis on "vrat" ("to lie") in the middle of the talk.
+- 'Oh, Vikochka, what suddenly happened to you?' Reacting directly before Vika, Mama puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'Forgive me, my head suddenly started hurting badly.' Vika speaks up decisively without any doubt, refusing to let the moment slip past.
+- 'She sometimes gets bad headaches after an accident.' Mentioning the pains to Vika, Max reaches for the Russian word "silnyye" ("strong, powerful", built from "silnyy") right at the center of the line.
+- 'After what accident, what happened to you?' Talking about the accident beside Max, Mama puts the question word "kakoy" right at the start so Max hears the focus immediately.
+- 'Mom, it is a long story, I will tell you later.' Max answers calmly around Mama, without trying to dress up how he really feels.
+- 'The most important thing is that everyone is alive and well right now!' Insisting on how important things are right here, Max brings in "glavnoye" ("important", from "glavnyy") as the key Russian word here.
+- 'Vika, let's rest a little, and everything will be fine.' Stepping in smoothly beside Vika, Max starts with "davay" ("come on, let's") to invite Vika right into the action.

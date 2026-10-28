@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, forgive me.' Barinov holds firm pointedly with Elena, letting the remark speak for itself.
-- 'That was not her, that is not my wife.' Barinov grounds one loaded element in reply: "zhena" means "wife", and it carries the main weight of what Barinov is saying.
-- 'My ex-wife is Eleonora.' Barinov states that thought without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Ah, finally.' Elena speaks up right away without a pause, saying out loud what both of them already know.
-- 'Better late than never.' Elena uses one clear piece in reply: "luchshe" means "better", and it carries the main weight of what Elena is saying.
-- 'Vitya, she told me everything back at the exhibition.' Elena replies briskly in their talk, shifting the whole mood of the room in a single beat.
-- 'I promise, I never will again.' Barinov counters bluntly with Elena, grounding the moment in plain reality.
-- 'You do not need to promise me anything.' Elena spotlights this vivid word in earnest: "obeshchat" means "to promise", and it carries the main weight of what Elena is saying.
-- 'I simply panicked.' Barinov drops that answer plainly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'And why did you not confess afterward?' Elena probes point-blank in front of Barinov without any preamble.
-- 'I was afraid of this very conversation.' Barinov reaches for one key word on cue: "razgovora" means "conversation" (from "razgovor"), giving the line its exact edge.
-- 'Listen, I forgot my bag, I will be quick.' Elena stands firm calmly on the spot, letting the remark speak for itself.
+- 'Lena, forgive me.' Barinov politely delivers this personal apology to Elena using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'That was not her, that is not my wife.' Discussing his wife to Elena, Barinov puts the emphasis on "zhena" ("wife") in the middle of the talk.
+- 'My ex-wife is Eleonora.' Highlighting how former things are right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Ah, finally.' Elena responds bluntly toward Barinov, letting the remark speak for itself.
+- 'Better late than never.' Elena jumps in openly in the exchange and centers the remark on "luchshe" ("better") without any extra fuss.
+- 'Vitya, she told me everything back at the exhibition.' Touching on the exhibition in this beat, Elena lands on "vystavke" ("exhibition", built on "vystavka") to keep the statement grounded.
+- 'I promise, I never will again.' Barinov jumps in bluntly without any doubt, making his position completely clear.
+- 'You do not need to promise me anything.' Elena continues smoothly during the talk and lands on "obeshchat" ("to promise") as the key everyday word here.
+- 'I simply panicked.' Looking over briskly at once, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'And why did you not confess afterward?' Elena probes point-blank to see how Barinov will answer on the spot.
+- 'I was afraid of this very conversation.' Bringing up the conversation before Elena, Barinov chooses "razgovora" ("conversation", from the root "razgovor") so Elena hears the exact meaning.
+- 'Listen, I forgot my bag, I will be quick.' Pointing to her bag at once, Elena brings in "sumku" ("bag, purse", from "sumka") as the key Russian word here.

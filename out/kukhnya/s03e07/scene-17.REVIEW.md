@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How did it happen that someone calls from your phone?' Nagiyev aims the reply without fuss: the "-sya" ending on "poluchilos" ("worked out") turns the action inward or makes it happen between people naturally.
-- 'Hello, tell me, did you call for me?' Barinov probes eagerly whether Nagiyev really thought this through.
-- 'Immediately explain this outrage to me.' The guest features one classic word toward Barinov: "bezobraziye" means "outrage, mess", and it carries the main weight of what the guest is saying.
-- 'Excuse me, and what are you talking about right now?' Nagiyev sends this point frankly here: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
-- 'You understand, I am a journalist, and all of Moscow will find out about this.' The guest speaks plainly without any doubt, letting the remark speak for itself.
-- 'And no one will come to your restaurant anymore.' The guest reaches for one practical detail with Nagiyev: "restoran" means "restaurant", and it carries the main weight of what the guest is saying.
-- 'Listen, this is not a cockroach at all.' Barinov responds sharply around the guest, grounding the moment in plain reality.
-- 'This is simply our delicious fried onion.' Barinov steps in honestly to be clear, watching Nagiyev's face to see how the news lands.
-- 'But then you will have to eat my phone too.' Nagiyev focuses on one familiar choice in reply: "pridyotsya" means "you'll have to" (from "priytis"), giving the line its exact edge.
-- 'Because your phone must be in your hands!' Nagiyev frames one memorable expression with the guest: "telefon" means "phone", and it carries the main weight of what Nagiyev is saying.
-- 'Dmitry Vladimirovich, someone accidentally bumped your car out there.' Barinov follows up steadily to be clear, bringing things back to earth after the buildup.
-- 'Come on, I will look for myself right now!' Nagiyev points to one key choice at once: "posmotryu" means "have a look" (from "posmotret"), giving the line its exact edge.
+- 'How did it happen that someone calls from your phone?' Focusing on the phone right here, Nagiyev puts the question word "kak" right at the start so Barinov hears the focus immediately.
+- 'Hello, tell me, did you call for me?' Barinov lightly chooses this formal greeting without hesitation using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Immediately explain this outrage to me.' Underscoring the outrage in this beat, the guest centers the remark on "bezobraziye" ("outrage, mess") without any extra fuss.
+- 'Excuse me, and what are you talking about right now?' Speaking naturally on the spot, Nagiyev keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.
+- 'You understand, I am a journalist, and all of Moscow will find out about this.' The guest steps in plainly in their talk, before Nagiyev can change the subject.
+- 'And no one will come to your restaurant anymore.' Mentioning the restaurant before Barinov, the guest puts the emphasis on "restoran" ("restaurant") in the middle of the talk.
+- 'Listen, this is not a cockroach at all.' Discussing a cockroach during the talk, Barinov brings in "poslushayte" ("listen", from "poslushat") as the key Russian word here.
+- 'This is simply our delicious fried onion.' Barinov speaks honestly without a pause, so Nagiyev knows he is not just making small talk.
+- 'But then you will have to eat my phone too.' Underscoring his phone around Barinov, Nagiyev reaches for the Russian word "pridyotsya" ("you'll have to", built from "priytis") right at the center of the line.
+- 'Because your phone must be in your hands!' Nagiyev responds quietly with a sigh, testing Barinov's reaction in the middle of the exchange.
+- 'Dmitry Vladimirovich, someone accidentally bumped your car out there.' Barinov follows up steadily with a shrug, before Nagiyev can change the subject.
+- 'Come on, I will look for myself right now!' Nagiyev speaks sharply before Barinov and lands on "posmotryu" ("have a look", built on "posmotret") to keep the statement grounded.

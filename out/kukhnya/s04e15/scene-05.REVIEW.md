@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, well do not get so upset like that!' Lyova aims the comment around Barinov: the "-sya" ending on "rasstraivaytes" ("to get upset") turns the action inward or makes it happen between people naturally.
-- 'Everything is fine, Eva is already a grown young woman.' Lyova fires back firmly before Barinov, leaving no doubt about where he stands.
-- 'Lyova, yesterday I drank very old cognac!' Barinov favors one memorable choice right here: "staryy" means "old", and it carries the main weight of what Barinov is saying.
-- 'That cognac is five years older than her!' Barinov hands over the reply facing Lyova: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'She is young enough to be my younger daughter!' Barinov speaks up honestly during the talk, so Lyova knows he is not just making small talk.
-- 'Viktor Petrovich, take this much more lightly.' Lyova reaches for one concrete piece at once: "otnosites" means "treat, handle" (from "otnositsya"), giving the line its exact edge.
-- 'Today's youth have completely different views now.' Lyova brings that thought with candor: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'For them it is simply like brushing their teeth!' Lyova fires back at once with Barinov, steering the talk right where he wants it.
-- 'Nobody attaches great importance to this.' Lyova emphasizes one clear piece with Barinov: "znacheniya" means "meaning" (from "znacheniye"), giving the line its exact edge.
-- 'Some great expert on modern life you turned out to be!' Barinov speaks briskly during the talk, watching Lyova's face to see how the news lands.
-- 'Do not talk such nonsense to me, Lyova!' Barinov chimes in firmly watching Lyova, making his position completely clear.
-- 'I just wanted to calm you down a little, Chef.' Lyova features one clear expression on cue: "uspokoit" means "to calm down", and it carries the main weight of what Lyova is saying.
+- 'Chef, well do not get so upset like that!' Pushing back quietly in the exchange, the "-sya" ending on "rasstraivaytes" ("to get upset") marks an action that unfolds mutually or turns back on the speaker.
+- 'Everything is fine, Eva is already a grown young woman.' Lyova fires back firmly beside Barinov, shifting the mood of the conversation in a single beat.
+- 'Lyova, yesterday I drank very old cognac!' Addressing the cognac to Lyova, Barinov uses "staryy" ("old") to carry the main weight of the thought.
+- 'That cognac is five years older than her!' Touching on the cognac during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'She is young enough to be my younger daughter!' Barinov proceeds honestly on the spot, steering the talk right where he wants it.
+- 'Viktor Petrovich, take this much more lightly.' Lyova weighs in firmly during the talk and leans on "otnosites" ("treat, handle", a form of "otnositsya") to give the remark its edge.
+- 'Today's youth have completely different views now.' Talking about the youth beside Barinov, Lyova adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'For them it is simply like brushing their teeth!' Lyova counters at once toward Barinov, steering the talk right where he wants it.
+- 'Nobody attaches great importance to this.' Underscoring the meaning beside Barinov, Lyova centers the thought on "znacheniya" ("meaning", from "znacheniye") without wasting a word.
+- 'Some great expert on modern life you turned out to be!' Touching on the life with Lyova, Barinov leans on "sovremennoy" ("modern, contemporary", a form of "sovremennyy") to give the remark its edge.
+- 'Do not talk such nonsense to me, Lyova!' Barinov reacts firmly with a shrug, leaving no doubt about where he stands.
+- 'I just wanted to calm you down a little, Chef.' Lyova responds directly in the exchange and centers the remark on "uspokoit" ("to calm down") without any extra fuss.

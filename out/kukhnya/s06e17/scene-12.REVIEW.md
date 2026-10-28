@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How can you cheat on Elena?' Nastya inquires wryly how Barinov expects that to work in practice.
-- 'Sorry, Chef, I gave you away.' Kostya chooses one clear piece right here: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'I am in there with Elena Pavlovna.' Barinov sends that answer at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Kostya, let us go, we will not disturb them.' Nastya continues candidly facing Kostya, refusing to let the moment slip past.
-- 'Is there another man in there with you?' Nastya stresses one clear element in reply: "muzhchina" means "man", and it carries the main weight of what Nastya is saying.
-- 'Chef, are you going to win it back today?' Kostya lays out the reaction around Nastya: the "-sya" ending on "otygryvatsya" ("to win back") turns the action inward or makes it happen between people naturally.
-- 'Ah, so you are playing poker.' Leaning in beside Barinov, Kostya makes it clear that he means every single word.
-- 'Just do not tell Elena about this.' Barinov spotlights one direct word at once: "govori" means "say, talk" (from "govorit"), giving the line its exact edge.
-- 'I promised that I would quit soon.' Barinov jumps in decisively without holding back, testing Kostya's reaction in the middle of the exchange.
+- 'How can you cheat on Elena?' Nastya inquires wryly while looking straight at Kostya here.
+- 'Sorry, Chef, I gave you away.' Kostya directly offers this polite apology at this moment using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'I am in there with Elena Pavlovna.' Pushing back frankly during the talk, spoken Russian drops "is" and "are" in the present, letting Barinov place the two halves side by side.
+- 'Kostya, let us go, we will not disturb them.' Nastya speaks decisively across the room, so Kostya knows she is not just making small talk.
+- 'Is there another man in there with you?' Touching on the man in the exchange, Nastya leans on "muzhchina" ("man") to give the whole sentence its punch.
+- 'Chef, are you going to win it back today?' Replying warmly at once, the "-sya" ending on "otygryvatsya" ("to win back") marks an action that unfolds mutually or turns back on the speaker.
+- 'Ah, so you are playing poker.' Kostya pushes back evenly during the talk, making his position completely clear.
+- 'Just do not tell Elena about this.' Barinov jumps in smoothly on the spot and lands on "govori" ("say, talk", built on "govorit") to keep the statement grounded.
+- 'I promised that I would quit soon.' Barinov cuts in quietly beside Nastya and leans on "obeshchal" ("promised", a form of "obeshchat") to give the remark its edge.
 - 'Then what woman ordered champagne?' Nastya tests candidly if there is more going on behind the scenes.
-- 'We are leaving here, Kostik.' Nastya favors this clear detail in reply: "ukhodim" means "are leaving" (from "ukhodit"), giving the line its exact edge.
-- 'I am calling Elena Pavlovna right now.' Nastya lays out this point to Kostya: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'We are leaving here, Kostik.' Nastya speaks up smoothly in front of Kostya and lands on "ukhodim" ("are leaving", built on "ukhodit") to keep the statement grounded.
+- 'I am calling Elena Pavlovna right now.' Nastya speaks promptly beside Barinov and lands on "zvonyu" ("call", built on "zvonit") to keep the statement grounded.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen up, everyone.' Nastya grounds one concrete piece with Nagiyev: "znachit" means "then, so", and it carries the main weight of what Nastya is saying.
-- 'Why are you smiling, you limp noodle, huh?' Nagiyev voices that remark facing Senya: the "-sya" ending on "ulybayeshsya" ("are smiling") turns the action inward or makes it happen between people naturally.
-- 'What are you smiling at, huh?' Nastya checks bluntly what Nagiyev is actually getting at here.
-- 'Huh? Why are you smiling?' Nagiyev frames one telling detail at once: "ulybayeshsya" means "are smiling" (from "ulybatsya"), giving the line its exact edge.
-- 'What are you serving over there?' Nastya offers the thought facing Nagiyev: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'Dmitriy Vladimirovich, what does Nastya have to do with this?' Senya wonders candidly about what Nastya just brought up.
-- 'Is that clear to you?' Nastya centers one key word right here: "yasno" means "clear, got it", and it carries the main weight of what Nastya is saying.
-- 'She has everything to do with it.' Nagiyev aims this line right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Depending on who she serves and what she serves.' Nastya speaks boldly as they talk, before Nagiyev can change the subject.
-- 'Shut your mouths.' Nagiyev anchors this key element for Senya: "zakryli" means "to close, to shut" (from "zakryt"), giving the line its exact edge.
-- 'I am telling you, and I am telling all of you.' Nastya stresses one key word toward Nagiyev: "znachit" means "then, so", and it carries the main weight of what Nastya is saying.
-- 'I will not name names, but just try screwing up.' Nagiyev answers firmly with Senya, testing Senya's reaction in the middle of the exchange.
-- 'Just you try.' Nastya frames one memorable term right here: "poprobuyte" means "try, taste" (from "poprobovat"), giving the line its exact edge.
+- 'Listen up, everyone.' Nastya answers plainly during the talk and uses "znachit" ("then, so") to carry the main weight of the thought.
+- 'Why are you smiling, you limp noodle, huh?' Stressing how sluggish things are with Nastya, the "-sya" ending on "ulybayeshsya" ("are smiling") marks an action that unfolds mutually or turns back on the speaker.
+- 'What are you smiling at, huh?' Nastya checks bluntly while looking straight at Nagiyev here.
+- 'Huh? Why are you smiling?' Nagiyev steps in vividly in front of Nastya and puts the weight on "ulybayeshsya" ("are smiling", from "ulybatsya") as the exchange unfolds.
+- 'What are you serving over there?' Holding firm directly beside Senya, Nastya puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'Dmitriy Vladimirovich, what does Nastya have to do with this?' Senya wonders candidly why things suddenly took this turn between them.
+- 'Is that clear to you?' Nastya politely chooses this acknowledgment for Nagiyev using "yasno" ("clear") — literally "brightly, clearly", used in conversation to mean "got it, I see".
+- 'She has everything to do with it.' Pushing back naturally around Nastya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Depending on who she serves and what she serves.' Nastya jumps in boldly with Nagiyev, without trying to dress up how she really feels.
+- 'Shut your mouths.' Pointing to the mouth with Nastya, Nagiyev lands on "zakryli" ("to close, to shut", built on "zakryt") to keep the statement grounded.
+- 'I am telling you, and I am telling all of you.' Nastya speaks up openly toward Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'I will not name names, but just try screwing up.' Nagiyev pushes back firmly with a nod, to clear the air between them once and for all.
+- 'Just you try.' Nastya fires back plainly at once and puts the weight on "poprobuyte" ("try, taste", from "poprobovat") as the exchange unfolds.

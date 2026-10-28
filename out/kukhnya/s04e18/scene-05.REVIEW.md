@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, I urgently asked for watermelon.' Katya follows up steadily during the talk, grounding the moment in plain reality.
-- 'I only need the watermelon pulp.' Katya answers calmly facing Denis, letting the remark speak for itself.
-- 'Katyusha, I have everything ready already.' Denis leans on one memorable word in reply: "katyusha" means "eat", and it carries the main weight of what Denis is saying.
-- 'But you will have to get it out yourself.' Denis drops that line facing Katya: the "-sya" ending on "pridyotsya" ("you'll have to") turns the action inward or makes it happen between people naturally.
-- 'You need to defeat this shark.' Denis responds honestly in this moment, keeping the focus on what actually matters here.
-- 'Why did you make this shark?' Katya features this key touch with Denis: "akulu" means "shark" (from "akula"), giving the line its exact edge.
-- 'Listen, Denis, people are waiting for the order.' Katya follows up honestly on the spot, bringing things back to earth after the buildup.
-- 'But it is a very beautiful shark.' Denis proceeds boldly without holding back, leaving no doubt about where he stands.
-- 'I wanted to lift your spirits.' Denis uses one colorful word in earnest: "nastroyeniye" means "mood", and it carries the main weight of what Denis is saying.
-- 'We have a lot of work right now.' Katya sends the comment right away: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'All right, thanks, you lifted my spirits.' Katya speaks evenly during the talk, refusing to let the moment slip past.
-- 'I will slice everything up quickly right now.' Denis centers one sharp touch for Katya: "seychas" means "now", and it carries the main weight of what Denis is saying.
+- 'Denis, I urgently asked for watermelon.' Talking about the watermelon before Denis, Katya uses "arbuz" ("watermelon") to carry the main weight of the thought.
+- 'I only need the watermelon pulp.' Katya continues calmly in their talk, so Denis knows she is not just making small talk.
+- 'Katyusha, I have everything ready already.' Discussing the eat in front of Katya, Denis puts the emphasis on "katyusha" ("eat") in the middle of the talk.
+- 'But you will have to get it out yourself.' Following up smoothly at once, the "-sya" ending on "pridyotsya" ("you'll have to") marks an action that unfolds mutually or turns back on the speaker.
+- 'You need to defeat this shark.' Denis continues honestly around Katya, keeping the focus on what actually matters here.
+- 'Why did you make this shark?' Turning to the shark around Denis, Katya puts the weight on "akulu" ("shark", from "akula") as the exchange unfolds.
+- 'Listen, Denis, people are waiting for the order.' Addressing the order during the talk, Katya centers the remark on "zakaz" ("order") without any extra fuss.
+- 'But it is a very beautiful shark.' Denis steps in boldly toward Katya, refusing to let the moment slip past.
+- 'I wanted to lift your spirits.' Touching on the mood on the spot, Denis leans on "nastroyeniye" ("mood") to give the whole sentence its punch.
+- 'We have a lot of work right now.' Bringing up the work in front of Denis, Katya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'All right, thanks, you lifted my spirits.' Katya speaks evenly with a smile, before Denis can change the subject.
+- 'I will slice everything up quickly right now.' Denis fires back sharply to Katya and leans on "narezhu" ("will cut", a form of "narezat") to give the remark its edge.

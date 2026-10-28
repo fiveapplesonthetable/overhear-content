@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You will not have enough snails for everyone.' Barinov stresses one concrete term on cue: "ulitok" means "snail, escargot" (from "ulitka"), giving the line its exact edge.
-- 'Nothing except snails.' Nastya drops this answer toward Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I am not going to do it by myself anyway.' Barinov steps in steadily in their talk, saying out loud what both of them already know.
-- 'Today we are going to cook Burgundy snails together.' Nastya colors one practical touch for Max: "po-burgundski" means "in Burgundy style", and it carries the main weight of what Nastya is saying.
-- 'Well, how did everything go out there?' Barinov makes the remark before Max: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'You were not even there.' Nastya cuts in sharply toward Max, to clear the air between them once and for all.
-- 'I am actually really worried about Nastya too.' Barinov reaches for this direct word in earnest: "perezhivayu" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'Where were you when it was time to worry about her?' Nastya puts this point with candor: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Wiping shot glasses at the bar.' Barinov proceeds openly watching Max, bringing things back to earth after the buildup.
-- 'I put it in the trash bin and took off.' Nastya reaches for one pointed piece toward Max: "polozhil" means "laid, put down" (from "polozhit"), giving the line its exact edge.
-- 'Wait at home for Nastya?' Barinov phrases that line with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'So we will find out very soon where the cash and Nastya are.' Max speaks up dryly toward Nastya, watching Nastya's face to see how the news lands.
-- 'Well, where are Nastya and the cash?' Barinov chooses one familiar word at once: "babki" means "grand" (from "babka"), giving the line its exact edge.
+- 'You will not have enough snails for everyone.' Bringing up the snail before Nastya, Barinov leans on "ulitok" ("snail, escargot", a form of "ulitka") to give the remark its edge.
+- 'Nothing except snails.' Pointing to the snail in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I am not going to do it by myself anyway.' Barinov replies steadily toward Nastya, so Nastya knows he is not just making small talk.
+- 'Today we are going to cook Burgundy snails together.' Pointing to the snail right here, Nastya reaches for the Russian word "po-burgundski" ("in Burgundy style") right at the heart of the line.
+- 'Well, how did everything go out there?' Holding firm promptly on the spot, Barinov puts the question word "kak" right at the start so Nastya hears the focus immediately.
+- 'You were not even there.' Nastya cuts in sharply across the room, without trying to dress up how she really feels.
+- 'I am actually really worried about Nastya too.' Barinov chimes in vividly right here and leans on "perezhivayu" ("worry", a form of "perezhivat") to give the remark its edge.
+- 'Where were you when it was time to worry about her?' Turning quietly around Barinov, Nastya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Wiping shot glasses at the bar.' Barinov steps in openly without a pause, testing Nastya's reaction in the middle of the exchange.
+- 'I put it in the trash bin and took off.' Bringing up the trash bin in this beat, Nastya uses "polozhil" ("laid, put down", from "polozhit") to make the point stick.
+- 'Wait at home for Nastya?' Reacting calmly to Nastya, Barinov keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'So we will find out very soon where the cash and Nastya are.' Max speaks dryly in this moment, steering the talk right where he wants it.
+- 'Well, where are Nastya and the cash?' Addressing the grand with Nastya, Barinov lands on "babki" ("grand", built on "babka") to keep the statement grounded.

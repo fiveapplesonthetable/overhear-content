@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim, listen to me.' Kostya highlights one vivid detail on cue: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
-- 'That is exactly what I am talking about.' Kostya gives the reply without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'In fact, it seems to me that...' Sasha counters dryly on the spot, leaving no doubt about where she stands.
-- 'My Kostik is cheating on me with your Sasha.' Max frames this telling touch in earnest: "izmenyayet" means "changes, alters" (from "izmenyat"), giving the line its exact edge.
-- 'That is nonsense, it cannot be true.' Kostya responds warmly without any doubt, bringing things back to earth after the buildup.
-- 'They were holding hands.' Sasha speaks bluntly toward Max, keeping the focus on what actually matters here.
-- 'Well, let us go see.' Max underscores this sharp detail on cue: "poshli" means "let's go" (from "poyti"), giving the line its exact edge.
-- 'That is not what we agreed on.' Kostya shares the comment for Sasha: the "-sya" ending on "dogovarivalis" ("had an agreement") turns the action inward or makes it happen between people naturally.
-- 'You promised to tell him yourself.' Sasha holds firm bluntly without any doubt, saying out loud what both of them already know.
-- 'Will that make you feel any better?' Max picks this direct piece with Sasha: "legche" means "easier, better" (from "legko"), giving the line its exact edge.
-- 'I cannot keep lying to my best friend.' Kostya fires back sharply to settle things, letting the remark speak for itself.
-- 'Either you tell him right now.' Sasha fires back earnestly with a shrug, leaving no doubt about where she stands.
-- 'So you really cheated on me?' Max leans on this direct touch in reply: "izmenila" means "would change" (from "izmenit"), giving the line its exact edge.
+- 'Maxim, listen to me.' Kostya opens up naturally with Max and reaches for the Russian word "slushay" ("listen", built from "slushat") right at the center of the line.
+- 'That is exactly what I am talking about.' Looking over naturally before Sasha, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'In fact, it seems to me that...' Sasha counters dryly with Kostya, refusing to let the moment slip past.
+- 'My Kostik is cheating on me with your Sasha.' Max answers readily in the exchange and centers the thought on "izmenyayet" ("changes, alters", from "izmenyat") without wasting a word.
+- 'That is nonsense, it cannot be true.' Emphasizing the nonsense on the spot, Kostya puts the emphasis on "bred" ("nonsense") in the middle of the talk.
+- 'They were holding hands.' Sasha speaks up bluntly hearing Kostya, leaving no doubt about where she stands.
+- 'Well, let us go see.' Max chimes in frankly in the exchange and reaches for the Russian word "poshli" ("let's go", built from "poyti") right at the center of the line.
+- 'That is not what we agreed on.' Reacting naturally before Max, the "-sya" ending on "dogovarivalis" ("had an agreement") marks an action that unfolds mutually or turns back on the speaker.
+- 'You promised to tell him yourself.' Sasha chimes in bluntly hearing Kostya, watching Kostya's face to see how the news lands.
+- 'Will that make you feel any better?' Max follows up quietly before Kostya and centers the thought on "legche" ("easier, better", from "legko") without wasting a word.
+- 'I cannot keep lying to my best friend.' Touching on the friend in front of Max, Kostya puts the weight on "luchshemu" ("the best", from "luchshiy") as the exchange unfolds.
+- 'Either you tell him right now.' Sasha counters earnestly in this moment, making her position completely clear.
+- 'So you really cheated on me?' Max speaks earnestly right here and chooses "izmenila" ("would change", from the root "izmenit") so Sasha hears the exact meaning.

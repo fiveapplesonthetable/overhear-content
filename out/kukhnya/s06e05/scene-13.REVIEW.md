@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We cannot remove the auteur menu.' Barinov reaches for one colorful expression in reply: "avtorskoye" means "auteur, signature" (from "avtorskiy"), giving the line its exact edge.
-- 'We want to be the first in Russia to get a star.' Barinov pushes back wryly during the talk, leaving no doubt about where he stands.
-- 'We are not the only ones who want that right now.' Eleonora speaks up candidly across the room, making her position completely clear.
-- 'Competitors have already made it into the restaurant guide.' Eleonora emphasizes one loaded expression in reply: "restorannyy" means "restaurant", and it carries the main weight of what Eleonora is saying.
-- 'I will never remove the auteur menu.' Barinov weighs in wryly watching Eleonora, to clear the air between them once and for all.
-- 'Elya, you and I had an agreement.' Barinov reacts steadily hearing Mikhail, steering the talk right where he wants it.
-- 'You are right, but we must solve the problem.' Eleonora points to this key expression right here: "problemu" means "problem" (from "problema"), giving the line its exact edge.
-- 'So, shall we invest in the restaurant together?' Eleonora lays out that point for Mikhail: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
-- 'Misha, calculate how much money we need.' Eleonora speaks earnestly to settle things, bringing things back to earth after the buildup.
-- 'Everything is already calculated, we need two million.' Mikhail frames one pointed expression in earnest: "rasschitano" means "fools", and it carries the main weight of what Mikhail is saying.
-- 'That means one million rubles from each of us.' Eleonora weighs in calmly toward Barinov, steering the talk right where she wants it.
-- 'Fine, I will bring my share.' Barinov jumps in briskly as things stand, to clear the air between them once and for all.
+- 'We cannot remove the auteur menu.' Touching on the auteur menu with Eleonora, Barinov puts the weight on "avtorskoye" ("auteur, signature", from "avtorskiy") as the exchange unfolds.
+- 'We want to be the first in Russia to get a star.' Focusing on a star during the talk, Barinov reaches for the Russian word "pervymi" ("first", built from "pervyy") right at the center of the line.
+- 'We are not the only ones who want that right now.' Eleonora fires back candidly during the talk, watching Barinov's face to see how the news lands.
+- 'Competitors have already made it into the restaurant guide.' Turning to the rivals at once, Eleonora uses "restorannyy" ("restaurant") to carry the main weight of the thought.
+- 'I will never remove the auteur menu.' Highlighting the auteur menu in this beat, Barinov puts the weight on "avtorskoye" ("auteur, signature", from "avtorskiy") as the exchange unfolds.
+- 'Elya, you and I had an agreement.' Barinov pushes back steadily watching Eleonora, shifting the mood of the conversation in a single beat.
+- 'You are right, but we must solve the problem.' Focusing on the problem on the spot, Eleonora uses "problemu" ("problem", from "problema") to make the point stick.
+- 'So, shall we invest in the restaurant together?' Addressing the restaurant before Mikhail, Eleonora keeps normal statement word order here, turning the line into a question for Mikhail purely through rising pitch.
+- 'Misha, calculate how much money we need.' Talking about the money in their talk, Eleonora lets Mikhail see exactly where things stand.
+- 'Everything is already calculated, we need two million.' Bringing up the million in the exchange, Mikhail lands on "rasschitano" ("fools") as the key everyday word here.
+- 'That means one million rubles from each of us.' Talking about the million on the spot, Eleonora leans on "millionu" ("million", a form of "million") to give the remark its edge.
+- 'Fine, I will bring my share.' Barinov steps in briskly around Eleonora, so Eleonora knows he is not just making small talk.

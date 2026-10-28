@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who is here? Why is it so quiet in the room?' Barinov quizzes calmly where this conversation is heading next.
-- 'Good morning, my dear Viktor Petrovich!' Denis colors this telling element for Katya: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
-- 'Are you pretending again that I am not here?' Denis sends this point at once: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'That is completely in your usual style.' Denis proceeds steadily as they talk, without trying to dress up how he really feels.
-- 'Wait quietly, my eldest daughter is calling me.' Barinov frames one direct choice for Denis: "starshaya" means "older, elder" (from "starshiy"), giving the line its exact edge.
-- 'Hello, Katya, what are you talking about?' Barinov frames that point toward Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Dad, the cook Denis will drop by to see you today.' Katya fires back briskly hearing Barinov, making her position completely clear.
-- 'He will ask permission to go out with me.' Katya stresses this direct word in earnest: "razresheniya" means "permission" (from "razresheniye"), giving the line its exact edge.
-- 'Can you brush him off strictly right away?' Katya voices that point with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Well of course, daughter, you did not even have to ask!' Barinov chimes in pointedly to be clear, grounding the moment in plain reality.
-- 'I will chase this guy away with great pleasure!' Barinov centers one memorable choice at once: "udovolstviyem" means "pleasure" (from "udovolstviye"), giving the line its exact edge.
-- 'Thank you very much, Dad, you saved me!' Katya brings that thought around Denis: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Who is here? Why is it so quiet in the room?' Barinov quizzes calmly whether Denis really thought this through.
+- 'Good morning, my dear Viktor Petrovich!' Emphasizing the morning in the exchange, Denis centers the thought on "dobroye" ("good", from "dobryy") without wasting a word.
+- 'Are you pretending again that I am not here?' Bringing up the view before Barinov, Denis puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'That is completely in your usual style.' Denis speaks steadily without a pause, so Barinov knows he is not just making small talk.
+- 'Wait quietly, my eldest daughter is calling me.' Stressing how older things are with Denis, Barinov brings in "starshaya" ("older, elder", from "starshiy") as the key Russian word here.
+- 'Hello, Katya, what are you talking about?' Reacting calmly at once, Barinov keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Dad, the cook Denis will drop by to see you today.' Katya weighs in briskly in this moment, without trying to dress up how she really feels.
+- 'He will ask permission to go out with me.' Touching on the permission during the talk, Katya leans on "razresheniya" ("permission", a form of "razresheniye") to give the remark its edge.
+- 'Can you brush him off strictly right away?' Jumping in directly beside Barinov, Katya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Well of course, daughter, you did not even have to ask!' Barinov follows up pointedly on the spot, before Katya can change the subject.
+- 'I will chase this guy away with great pleasure!' Underscoring the pleasure at once, Barinov lands on "udovolstviyem" ("pleasure", built on "udovolstviye") to keep the statement grounded.
+- 'Thank you very much, Dad, you saved me!' Katya steps in quietly facing Barinov, grounding the moment in plain reality.

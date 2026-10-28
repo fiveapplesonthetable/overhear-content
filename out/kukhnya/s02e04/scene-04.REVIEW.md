@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am Kristina.' Barinov frames this line right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Hello, Kristina.' Vika voices that answer on cue: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'Come on in and take a look, this is my team of cooks.' Kristina speaks up openly in this moment, so Barinov knows she is not just making small talk.
-- 'Very nice to meet you, great guys.' Barinov sharpens one pointed expression with Vika: "otlichnyye" means "excellent" (from "otlichnyy"), giving the line its exact edge.
-- 'I will answer it myself.' Barinov offers this point in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'And secondly.' Kristina counters wryly to be clear, keeping the focus on what actually matters here.
-- 'Well, how could one not visit Russia after that?' Barinov uses one vivid choice at once: "priyezzhat" means "to come, to arrive", and it carries the main weight of what Barinov is saying.
-- 'Right this way, Valdemar, come in.' Vika hands over that thought to Kristina: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'This is our wonderful kitchen.' Kristina replies warmly watching Barinov, before Barinov can change the subject.
-- 'Well, maybe just a little bit bigger.' Barinov uses this telling term on cue: "chut-chut" means "a little bit", and it carries the main weight of what Barinov is saying.
-- 'Well, for cooking, even one like this is enough.' Vika opens up wryly beside Barinov, watching Barinov's face to see how the news lands.
-- 'Whereas for writing books.' Kristina fires back earnestly with a sigh, so Vika knows she is not just making small talk.
-- 'And this is our head chef, Viktor Petrovich.' Vika underscores one telling piece in earnest: "shef-povar" means "head chef", and it carries the main weight of what Vika is saying.
+- 'I am Kristina.' Weighing in naturally in front of Kristina, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Hello, Kristina.' Vika gently directs this formal greeting at this moment using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Come on in and take a look, this is my team of cooks.' Kristina speaks up openly with a smile, before Vika can change the subject.
+- 'Very nice to meet you, great guys.' Turning to the guys in the exchange, Barinov lands on "otlichnyye" ("excellent", built on "otlichnyy") to keep the statement grounded.
+- 'I will answer it myself.' Jumping in firmly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'And secondly.' Kristina steps in wryly in this moment, so Barinov knows she is not just making small talk.
+- 'Well, how could one not visit Russia after that?' Barinov weighs in earnestly with Vika and reaches for the Russian word "priyezzhat" ("to come, to arrive") right at the heart of the line.
+- 'Right this way, Valdemar, come in.' Following up quietly with Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'This is our wonderful kitchen.' Kristina fires back warmly in this moment, watching Vika's face to see how the news lands.
+- 'Well, maybe just a little bit bigger.' Barinov responds readily in this beat and leans on "chut-chut" ("a little bit") to give the whole sentence its punch.
+- 'Well, for cooking, even one like this is enough.' Vika chimes in directly to Barinov and chooses "dostatochno" ("enough") so Barinov gets the point right away.
+- 'Whereas for writing books.' Kristina jumps in earnestly facing Vika, without trying to dress up how she really feels.
+- 'And this is our head chef, Viktor Petrovich.' Pointing to her head to Barinov, Vika leans on "shef-povar" ("head chef") to give the whole sentence its punch.

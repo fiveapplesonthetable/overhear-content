@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom, you do everything for my own good, right?' Katya gives the reply beside Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Wait, if you offered money to our cook Maxim...' Katya holds firm sharply with Elena, saying out loud what both of them already know.
-- 'Does that mean you could have offered it to Denis earlier too?' Katya uses one familiar piece toward Barinov: "predlozhit" means "to offer", and it carries the main weight of what Katya is saying.
-- 'Tell me honestly, did Denis take the money back then?' Katya drops this update in earnest: putting the question word "chto" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'In life we all look for a compromise one way or another.' Barinov counters openly watching Elena, letting the remark speak for itself.
-- 'In a relationship between a man and a woman, compromise is very important.' Barinov features one key piece toward Katya: "otnosheniyakh" means "relationships" (from "otnosheniye"), giving the line its exact edge.
-- 'It carefully keeps our love afloat.' Barinov speaks firmly hearing Elena, grounding the moment in plain reality.
-- 'Forgive me that we celebrated our anniversary so absurdly.' Barinov holds firm frankly on the spot, before Katya can change the subject.
-- 'You know, I actually enjoyed this evening!' Elena reaches for this direct touch toward Barinov: "segodnyashniy" means "of today's", and it carries the main weight of what Elena is saying.
-- 'Really? Then we will have to repeat it next year!' Barinov directs the remark with warmth: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Let this be our good, kind tradition.' Elena reacts promptly hearing Barinov, letting the remark speak for itself.
-- 'Happy anniversary to you, my beloved Lenochka!' Barinov picks one concrete expression in reply: "godovshchinoy" means "anniversary" (from "godovshchina"), giving the line its exact edge.
+- 'Mom, you do everything for my own good, right?' Weighing in openly with Barinov, Katya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Wait, if you offered money to our cook Maxim...' Katya answers sharply watching Barinov, bringing things back to earth after the buildup.
+- 'Does that mean you could have offered it to Denis earlier too?' Katya continues sharply with Barinov and centers the remark on "predlozhit" ("to offer") without any extra fuss.
+- 'Tell me honestly, did Denis take the money back then?' Talking about the money in front of Barinov, Katya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'In life we all look for a compromise one way or another.' Barinov counters openly during the talk, keeping the focus on what actually matters here.
+- 'In a relationship between a man and a woman, compromise is very important.' Underscoring the relationships right here, Barinov brings in "otnosheniyakh" ("relationships", from "otnosheniye") as the key Russian word here.
+- 'It carefully keeps our love afloat.' Highlighting his love right here, Barinov chooses "lyubov" ("love") so Elena gets the point right away.
+- 'Forgive me that we celebrated our anniversary so absurdly.' Barinov answers frankly without any doubt, to clear the air between them once and for all.
+- 'You know, I actually enjoyed this evening!' Bringing up the evening right here, Elena lands on "segodnyashniy" ("of today's") as the key everyday word here.
+- 'Really? Then we will have to repeat it next year!' Checking on the honestly before Elena, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Let this be our good, kind tradition.' Elena answers promptly without any doubt, making her position completely clear.
+- 'Happy anniversary to you, my beloved Lenochka!' Focusing on the anniversary before Elena, Barinov brings in "godovshchinoy" ("anniversary", from "godovshchina") as the key Russian word here.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Try it, this is a very tasty and smooth cocktail.' Nikita opens up honestly across the room, testing Kostya's reaction in the middle of the exchange.
-- 'Tell me, may I have a word with you for a minute?' Kostya favors one loaded touch right here: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
-- 'What a pretty cocktail you have in your glass!' Nastya phrases this answer beside Kostya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Your Kostya went out of his way to make it for me.' Nikita jumps in lightly as they talk, bringing things back to earth after the buildup.
-- 'He says that it is some kind of new recipe.' Nikita reaches for one memorable word with Kostya: "retsept" means "recipe", and it carries the main weight of what Nikita is saying.
-- 'He waits on you, while his wife sits with an empty glass.' Nastya opens up boldly facing Nikita, keeping the focus on what actually matters here.
-- 'Take it for yourself, I do not want it yet.' Nikita fires back candidly hearing Kostya, bringing things back to earth after the buildup.
-- 'Thank you very much, I will gladly try it!' Nastya frames this clear detail on cue: "udovolstviyem" means "pleasure" (from "udovolstviye"), giving the line its exact edge.
-- 'Nastya, stop, that cocktail is not for you!' Kostya features this vivid element toward Nastya: "kokteyl" means "cocktail", and it carries the main weight of what Kostya is saying.
-- 'Come on, Kostya, I do not mind at all.' Nikita stands firm dryly before Nastya, making his position completely clear.
-- 'You must not drink that cocktail all the way to the bottom!' Kostya sharpens one clear piece in reply: "kokteyl" means "cocktail", and it carries the main weight of what Kostya is saying.
-- 'Because right at the very bottom it is way too strong.' Kostya frames this line in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Try it, this is a very tasty and smooth cocktail.' Nikita responds honestly in this moment, shifting the mood of the conversation in a single beat.
+- 'Tell me, may I have a word with you for a minute?' Addressing a minute in front of Nastya, Kostya puts the weight on "minutu" ("a minute", from "minuta") as the exchange unfolds.
+- 'What a pretty cocktail you have in your glass!' Discussing the glass around Kostya, Nastya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Your Kostya went out of his way to make it for me.' Nikita replies lightly across the room, without trying to dress up how he really feels.
+- 'He says that it is some kind of new recipe.' Touching on the recipe in front of Nastya, Nikita centers the remark on "retsept" ("recipe") without any extra fuss.
+- 'He waits on you, while his wife sits with an empty glass.' Mentioning the wife right here, Nastya lands on "ukhazhivayet" ("to court, to woo", built on "ukhazhivat") to keep the statement grounded.
+- 'Take it for yourself, I do not want it yet.' Nikita proceeds candidly with Nastya, steering the talk right where he wants it.
+- 'Thank you very much, I will gladly try it!' Bringing up the pleasure in front of Nikita, Nastya reaches for the Russian word "udovolstviyem" ("pleasure", built from "udovolstviye") right at the center of the line.
+- 'Nastya, stop, that cocktail is not for you!' Kostya cuts in warmly with a smile, to clear the air between them once and for all.
+- 'Come on, Kostya, I do not mind at all.' Nikita weighs in dryly in this moment, letting the remark speak for itself.
+- 'You must not drink that cocktail all the way to the bottom!' Underscoring the cocktail in this beat, Kostya chooses "kokteyl" ("cocktail") so Nikita gets the point right away.
+- 'Because right at the very bottom it is way too strong.' Returning to the bottom on the spot, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.

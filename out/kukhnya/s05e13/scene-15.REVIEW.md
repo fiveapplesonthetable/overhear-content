@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, in reality it happened like this.' Senya jumps in lightly as things stand, to clear the air between them once and for all.
-- 'He tried to kiss that Sasha himself!' Senya grounds one concrete touch at once: "tselovatsya" means "to kiss", and it carries the main weight of what Senya is saying.
-- 'That is all I have to say, Your Honor.' Senya puts the remark with ease: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Yeah, Kostya, you bribed him so well!' Max reacts wryly as things stand, testing Senya's reaction in the middle of the exchange.
-- 'Do not worry, Max, everything will be fine.' Kostya leans on this key word with Max: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'I have one more reliable witness.' Kostya phrases this statement with candor: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'This person is definitely on your side.' Kostya opens up wryly in this moment, watching Max's face to see how the news lands.
-- 'Your Honor, I call Maxim's best friend.' Kostya chooses one memorable element in earnest: "luchshego" means "best" (from "luchshiy"), giving the line its exact edge.
-- 'Witness Konstantin Anisimov is called to the hall!' Senya voices that reply without fuss: the "-sya" ending on "priglashayetsya" ("be invited") turns the action inward or makes it happen between people naturally.
-- 'Tell us, Konstantin, what do you think of the defendant?' Max quizzes eagerly what Senya is actually getting at here.
-- 'Kostya, just do not blurt out anything extra up there!' Max spotlights this clear element on cue: "lishnego" means "too much" (from "lishniy"), giving the line its exact edge.
-- 'Trust me, I am your best friend after all.' Kostya grounds one sharp detail in reply: "luchshiy" means "best", and it carries the main weight of what Kostya is saying.
+- 'So, in reality it happened like this.' Talking about the case without any doubt, Senya makes it clear to Max that he means every word.
+- 'He tried to kiss that Sasha himself!' Senya speaks openly during the talk and chooses "tselovatsya" ("to kiss") so Max gets the point right away.
+- 'That is all I have to say, Your Honor.' Opening up briskly around Max, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Yeah, Kostya, you bribed him so well!' Max cuts in right away across the room, without trying to dress up how he really feels.
+- 'Do not worry, Max, everything will be fine.' Talking about the order on the spot, Kostya chooses "poryadke" ("order", from the root "poryadok") so Max hears the exact meaning.
+- 'I have one more reliable witness.' Kostya jumps in bluntly facing Max, refusing to let the moment slip past.
+- 'This person is definitely on your side.' Kostya reacts wryly toward Senya, steering the talk right where he wants it.
+- 'Your Honor, I call Maxim's best friend.' Talking about the honor to Max, Kostya chooses "luchshego" ("best", from the root "luchshiy") so Max hears the exact meaning.
+- 'Witness Konstantin Anisimov is called to the hall!' Touching on the hall in this beat, the "-sya" ending on "priglashayetsya" ("be invited") marks an action that unfolds mutually or turns back on the speaker.
+- 'Tell us, Konstantin, what do you think of the defendant?' Max quizzes eagerly while looking straight at Senya here.
+- 'Kostya, just do not blurt out anything extra up there!' Max pushes back dryly to Kostya and uses "lishnego" ("too much", from "lishniy") to make the point stick.
+- 'Trust me, I am your best friend after all.' Kostya fires back honestly in this moment, testing Max's reaction in the middle of the exchange.

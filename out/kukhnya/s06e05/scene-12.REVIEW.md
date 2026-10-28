@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The most unpleasant situation is in our restaurant.' Eleonora speaks up evenly around Barinov, so Barinov knows she is not just making small talk.
-- 'Right now we are practically operating at a loss.' Eleonora chooses this direct detail for Nagiyev: "fakticheski" means "practically", and it carries the main weight of what Eleonora is saying.
-- 'Oh, here they have brought my lunch!' Nagiyev follows up openly with a smile, steering the talk right where he wants it.
-- 'I asked you a very important question.' Eleonora steps in plainly without any doubt, watching Nagiyev's face to see how the news lands.
-- 'Why did such a situation arise for us?' Eleonora sharpens one memorable touch for Barinov: "situatsiya" means "situation", and it carries the main weight of what Eleonora is saying.
-- 'Auteur cuisine costs us very dearly.' Barinov stands firm firmly without a pause, watching Nagiyev's face to see how the news lands.
-- 'Guests are unhappy with the small size of the dishes.' Eleonora proceeds wryly as they talk, refusing to let the moment slip past.
-- 'The portion on the plate is tiny.' Nagiyev grounds one vivid term in reply: "malenkaya" means "small" (from "malenkiy"), giving the line its exact edge.
-- 'What sensible proposals do you have?' Eleonora shares the comeback right away: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'We can cut our expenses a little.' Barinov follows up decisively with a shrug, saying out loud what both of them already know.
-- 'Let us bring back the good old menu.' Nagiyev favors this telling touch with Barinov: "staroye" means "old" (from "staryy"), giving the line its exact edge.
-- 'Then people will flock back to us again.' Nagiyev shapes that reply plainly here: the "-sya" ending on "potyanetsya" ("will flock") turns the action inward or makes it happen between people naturally.
+- 'The most unpleasant situation is in our restaurant.' Eleonora weighs in evenly without a pause, to clear the air between them once and for all.
+- 'Right now we are practically operating at a loss.' Discussing the minus before Nagiyev, Eleonora leans on "fakticheski" ("practically") to give the whole sentence its punch.
+- 'Oh, here they have brought my lunch!' Touching on his lunch to Eleonora, Nagiyev uses "prinesli" ("brought", from "prinesti") to make the point stick.
+- 'I asked you a very important question.' Eleonora replies plainly with Nagiyev, before Nagiyev can change the subject.
+- 'Why did such a situation arise for us?' Turning to a situation at once, Eleonora brings in "situatsiya" ("situation") to make the meaning unmistakable.
+- 'Auteur cuisine costs us very dearly.' Focusing on the kitchen right here, Barinov uses "avtorskaya" ("signature, author's", from "avtorskiy") to make the point stick.
+- 'Guests are unhappy with the small size of the dishes.' Eleonora jumps in wryly around Barinov, letting the remark speak for itself.
+- 'The portion on the plate is tiny.' Showing how small things are on the spot, Nagiyev leans on "malenkaya" ("small", a form of "malenkiy") to give the remark its edge.
+- 'What sensible proposals do you have?' Addressing the offers beside Barinov, Eleonora puts the question word "kakiye" right at the start so Barinov hears the focus immediately.
+- 'We can cut our expenses a little.' Barinov chimes in decisively beside Eleonora, keeping the focus on what actually matters here.
+- 'Let us bring back the good old menu.' Discussing the menu beside Barinov, Nagiyev uses "staroye" ("old", from "staryy") to make the point stick.
+- 'Then people will flock back to us again.' Checking on the people on the spot, the "-sya" ending on "potyanetsya" ("will flock") marks an action that unfolds mutually or turns back on the speaker.

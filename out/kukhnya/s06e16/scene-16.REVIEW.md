@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, this video is specially for you.' Kostya emphasizes this sharp choice right here: "spetsialno" means "on purpose", and it carries the main weight of what Kostya is saying.
-- 'I understand that it is bad to be in here.' Kostya frames the thought facing Nastya: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
-- 'But this is the only way to prove it to you.' Kostya cuts in candidly toward the guest, letting the remark speak for itself.
-- 'Darling, please come back to me soon.' The guest features one clear expression for Nastya: "vozvrashchaysya" means "return" (from "vozvrashchatsya"), giving the line its exact edge.
-- 'I will be waiting for you very much right here.' The guest highlights one loaded element on cue: "ochen" means "very much", and it carries the main weight of what the guest is saying.
-- 'I am not looking at anything, darling Nastya!' Kostya opens up at once without a pause, shifting the whole mood of the room in a single beat.
-- 'My daughter, please do not cry anymore.' The guest chooses this clear piece in reply: "dochenka" means "sweetheart", and it carries the main weight of what the guest is saying.
-- 'You are young and beautiful, we will find you another man.' The guest highlights one loaded touch at once: "krasivaya" means "pretty, beautiful" (from "krasivyy"), giving the line its exact edge.
-- 'Dad, I do not need any other man!' Nastya reacts dryly to settle things, bringing things back to earth after the buildup.
-- 'Calm down, listen to music and sit quietly.' The guest leans on one key expression at once: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
-- 'Dad, wait, where are you going right now?' Nastya makes the comment to the guest: putting the question word "kuda" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'Do not worry, we will just talk calmly.' The guest follows up firmly to be clear, to clear the air between them once and for all.
+- 'Nastya, this video is specially for you.' Underscoring the video in the exchange, Kostya lands on "spetsialno" ("on purpose") as the key everyday word here.
+- 'I understand that it is bad to be in here.' Reacting firmly with the guest, the "-sya" ending on "nakhoditsya" ("to be located") marks an action that unfolds mutually or turns back on the speaker.
+- 'But this is the only way to prove it to you.' Kostya responds candidly without holding back, leaving no doubt about where he stands.
+- 'Darling, please come back to me soon.' The guest counters promptly in the exchange and uses "vozvrashchaysya" ("return", from "vozvrashchatsya") to make the point stick.
+- 'I will be waiting for you very much right here.' The guest answers plainly with a sigh, watching Kostya's face to see how the news lands.
+- 'I am not looking at anything, darling Nastya!' Kostya weighs in warmly with Nastya, grounding the moment in plain reality.
+- 'My daughter, please do not cry anymore.' Talking about the sweetheart at once, the guest chooses "dochenka" ("sweetheart") so Kostya gets the point right away.
+- 'You are young and beautiful, we will find you another man.' The guest fires back wryly during the talk, before Nastya can change the subject.
+- 'Dad, I do not need any other man!' Nastya pushes back dryly watching the guest, steering the talk right where she wants it.
+- 'Calm down, listen to music and sit quietly.' Addressing the music before Nastya, the guest puts the weight on "uspokoysya" ("calm down", from "uspokoitsya") as the exchange unfolds.
+- 'Dad, wait, where are you going right now?' Speaking boldly on the spot, Nastya puts the question word "kuda" right at the start so the guest hears the focus immediately.
+- 'Do not worry, we will just talk calmly.' The guest chimes in firmly across the room, steering the talk right where he wants it.

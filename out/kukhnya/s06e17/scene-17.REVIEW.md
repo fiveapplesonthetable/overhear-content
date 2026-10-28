@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what about our wedding?' Barinov states this line facing Elena: putting the question word "kak" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'Was that also your cover story?' Barinov presses firmly in front of Elena without any preamble.
-- 'No, I truly love you.' Elena centers this sharp expression with Barinov: "deystvitelno" means "really, indeed", and it carries the main weight of what Elena is saying.
-- 'That is why I am helping you escape.' Elena points to one classic touch at once: "pomogayu" means "to help" (from "pomogat"), giving the line its exact edge.
-- 'Take this, it is your new passport.' Elena speaks up warmly with a nod, bringing things back to earth after the buildup.
-- 'You must leave the country urgently.' Elena anchors one memorable piece in reply: "dolzhen" means "has to, must", and it carries the main weight of what Elena is saying.
-- 'Along the line you will reach the airport.' Elena directs the comment beside Barinov: the "-sya" ending on "doberyoshsya" ("will reach") turns the action inward or makes it happen between people naturally.
-- 'People are tied up in the room over there.' Barinov follows up dryly to be clear, bringing things back to earth after the buildup.
-- 'Do not worry, I will take care of them.' Elena stresses one concrete detail on cue: "pozabochus" means "to take care of" (from "pozabotitsya"), giving the line its exact edge.
-- 'I need to say goodbye to Katya.' Barinov frames this line toward Elena: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Alright, I give you a little time.' Elena proceeds at once without a pause, making her position completely clear.
-- 'And do not forget to shave off your mustache.' Elena underscores this vivid element at once: "zabud" means "forget" (from "zabyt"), giving the line its exact edge.
+- 'And what about our wedding?' Bringing up his wedding in front of Elena, Barinov puts the question word "kak" right at the start so Elena hears the focus immediately.
+- 'Was that also your cover story?' Barinov presses firmly how Elena expects that to work in practice.
+- 'No, I truly love you.' Elena responds calmly in this beat and puts the emphasis on "deystvitelno" ("really, indeed") in the middle of the talk.
+- 'That is why I am helping you escape.' Elena steps in sharply around Barinov, bringing things back to earth after the buildup.
+- 'Take this, it is your new passport.' Elena weighs in warmly across the room, so Barinov knows she is not just making small talk.
+- 'You must leave the country urgently.' Emphasizing the country at once, Elena leans on "dolzhen" ("has to, must") to give the whole sentence its punch.
+- 'Along the line you will reach the airport.' Checking on the branch at once, the "-sya" ending on "doberyoshsya" ("will reach") marks an action that unfolds mutually or turns back on the speaker.
+- 'People are tied up in the room over there.' Barinov cuts in dryly in their talk, making his position completely clear.
+- 'Do not worry, I will take care of them.' Elena answers decisively before Barinov and centers the thought on "pozabochus" ("to take care of", from "pozabotitsya") without wasting a word.
+- 'I need to say goodbye to Katya.' Cutting in readily right here, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Alright, I give you a little time.' Elena steps in at once on the spot, so Barinov knows she is not just making small talk.
+- 'And do not forget to shave off your mustache.' Emphasizing the mustache right here, Elena centers the thought on "zabud" ("forget", from "zabyt") without wasting a word.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, what are you doing in here?' Max checks evenly if there is more going on behind the scenes.
-- 'They kidnapped me, it is a wedding tradition.' Sasha underscores this vivid element right here: "svadebnaya" means "wedding" (from "svadebnyy"), giving the line its exact edge.
-- 'Misha is supposed to find me, but he is in no hurry.' Sasha voices this update on cue: the "-sya" ending on "toropitsya" ("hurries, is in a rush") turns the action inward or makes it happen between people naturally.
-- 'All right, then I will go back to the kitchen.' Max jumps in firmly in this moment, bringing things back to earth after the buildup.
-- 'Max, wait, tell me, are you happy with Vika?' Sasha favors one vivid choice on cue: "schastliv" means "happy, lucky" (from "schastlivyy"), giving the line its exact edge.
-- 'Did you not have doubts before the wedding?' Sasha shares this warning beside Max: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Did you not feel like dropping everything and running away?' Sasha asks candidly where this conversation is heading next.
-- 'Sasha, you just got overly nervous, that is normal.' Max highlights this key choice in reply: "perenervnichala" means "to nervous" (from "perenervnichat"), giving the line its exact edge.
-- 'Everyone has doubts, I had doubts back then too.' Max directs the reaction beside Sasha: the "-sya" ending on "somnevayutsya" ("to doubt") turns the action inward or makes it happen between people naturally.
-- 'It seems to me that Misha is not my person.' Sasha pushes back openly before Max, making her position completely clear.
-- 'With you everything was completely different.' Sasha leans on this clear element for Max: "po-drugomu" means "differently", and it carries the main weight of what Sasha is saying.
-- 'Yes, with you everything was much simpler.' Max jumps in steadily hearing Sasha, letting the remark speak for itself.
-- 'Vika, he loves you very much!' Sasha continues dryly without any doubt, letting the remark speak for itself.
-- 'Vika, please open the door for me!' Max highlights one clear word for Sasha: "otkroy" means "to open" (from "otkryt"), giving the line its exact edge.
+- 'Sasha, what are you doing in here?' Max checks evenly while looking straight at Sasha here.
+- 'They kidnapped me, it is a wedding tradition.' Explaining how wedding things are right here, Sasha leans on "svadebnaya" ("wedding", a form of "svadebnyy") to give the remark its edge.
+- 'Misha is supposed to find me, but he is in no hurry.' Sasha fires back naturally during the talk and reaches for the Russian word "dolzhen" ("has to, must") right at the heart of the line.
+- 'All right, then I will go back to the kitchen.' Max speaks up firmly on the spot, making his position completely clear.
+- 'Max, wait, tell me, are you happy with Vika?' Highlighting how happy things are on the spot, Sasha leans on "schastliv" ("happy, lucky", a form of "schastlivyy") to give the remark its edge.
+- 'Did you not have doubts before the wedding?' Addressing the doubt with Max, Sasha uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Did you not feel like dropping everything and running away?' Sasha asks candidly about what Max just brought up.
+- 'Sasha, you just got overly nervous, that is normal.' Max speaks openly around Sasha and lands on "perenervnichala" ("to nervous", built on "perenervnichat") to keep the statement grounded.
+- 'Everyone has doubts, I had doubts back then too.' Holding firm directly in this beat, the "-sya" ending on "somnevayutsya" ("to doubt") marks an action that unfolds mutually or turns back on the speaker.
+- 'It seems to me that Misha is not my person.' Sasha responds openly in this moment, so Max knows she is not just making small talk.
+- 'With you everything was completely different.' Sasha steps in promptly to Max and leans on "po-drugomu" ("differently") to give the whole sentence its punch.
+- 'Yes, with you everything was much simpler.' Max jumps in boldly before Sasha and centers the remark on "proshche" ("simpler, easier") without any extra fuss.
+- 'Vika, he loves you very much!' Sasha opens up dryly without holding back, keeping the focus on what actually matters here.
+- 'Vika, please open the door for me!' Mentioning the door beside Sasha, Max puts the emphasis on "dver" ("door") in the middle of the talk.

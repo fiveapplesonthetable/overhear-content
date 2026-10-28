@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, did you doubt me for even a second?' Barinov chooses one loaded element for Max: "somnevalsya" means "doubted" (from "somnevatsya"), giving the line its exact edge.
-- 'No, of course I did not doubt you.' Max frames that remark in earnest: the "-sya" ending on "somnevalsya" ("doubted") turns the action inward or makes it happen between people naturally.
-- 'Good boy, and now put on your gloves.' Barinov follows up dryly without holding back, to clear the air between them once and for all.
-- 'I do not understand at all, why put on gloves?' Max favors one key term in reply: "perchatki" means "gloves" (from "perchatka"), giving the line its exact edge.
-- 'Kitchen, attention! We will operate by the new rules!' Barinov jumps in at once toward Max, before Max can change the subject.
-- 'Chef, you said that you decide everything here!' Max holds firm honestly with a sigh, without trying to dress up how he really feels.
-- 'This is my new firm decision.' Barinov features one practical detail at once: "tvyordoye" means "hard, firm" (from "tvyordyy"), giving the line its exact edge.
-- 'Sorry to interrupt, I am here about the new menu.' Vika offers the reaction in earnest: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Vika steps in.
-- 'We need to add okroshka, salad, and chebureki to it.' Vika stands firm frankly to be clear, refusing to let the moment slip past.
-- 'Well, team, it is time for us to experiment!' Barinov emphasizes one memorable term in reply: "eksperimentirovat" means "to experiment", and it carries the main weight of what Barinov is saying.
-- 'Listen, what on earth happened to him all of a sudden?' Max directs the reaction with candor: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
-- 'It seems they simply bribed our Chef.' Max fires back at once beside Vika, making his position completely clear.
+- 'Wait, did you doubt me for even a second?' Discussing a second in front of Max, Barinov lands on "somnevalsya" ("doubted", built on "somnevatsya") to keep the statement grounded.
+- 'No, of course I did not doubt you.' Cutting in openly at once, the "-sya" ending on "somnevalsya" ("doubted") marks an action that unfolds mutually or turns back on the speaker.
+- 'Good boy, and now put on your gloves.' Barinov continues dryly with a shrug, without trying to dress up how he really feels.
+- 'I do not understand at all, why put on gloves?' Talking about the gloves right here, Max brings in "perchatki" ("gloves", from "perchatka") as the key Russian word here.
+- 'Kitchen, attention! We will operate by the new rules!' Underscoring the attention in the exchange, Barinov chooses "vnimaniye" ("attention") so Max gets the point right away.
+- 'Chef, you said that you decide everything here!' Max chimes in honestly with a smile, keeping the focus on what actually matters here.
+- 'This is my new firm decision.' Highlighting how hard things are during the talk, Barinov lands on "tvyordoye" ("hard, firm", built on "tvyordyy") to keep the statement grounded.
+- 'Sorry to interrupt, I am here about the new menu.' Touching on the new menu before Barinov, Vika reaches for the Russian word "preryvayu" ("I interrupt", built from "preryvat") right at the center of the line.
+- 'We need to add okroshka, salad, and chebureki to it.' Vika speaks frankly on the spot, leaving no doubt about where she stands.
+- 'Well, team, it is time for us to experiment!' Highlighting the team to Vika, Barinov lands on "eksperimentirovat" ("to experiment") as the key everyday word here.
+- 'Listen, what on earth happened to him all of a sudden?' Answering promptly at once, the "-sya" ending on "sluchilos" ("happened") marks an action that unfolds mutually or turns back on the speaker.
+- 'It seems they simply bribed our Chef.' Max replies at once in their talk, steering the talk right where he wants it.

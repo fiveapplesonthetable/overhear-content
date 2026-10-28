@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, get to work.' Kostya anchors one concrete touch right here: "pristupay" means "get to, start" (from "pristupat"), giving the line its exact edge.
-- 'Nastya, why do we need someone else's apartment?' Kostya directs this update briskly now: putting the question word "zachem" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'We were going to do renovations in our own place.' Kostya weighs in calmly without holding back, bringing things back to earth after the buildup.
-- 'That is right, this apartment is for Max.' Nastya frames this telling word toward Max: "kvartira" means "flat", and it carries the main weight of what Nastya is saying.
-- 'He got upset when you told him.' Nastya brings this line right away: the "-sya" ending on "rasstroilsya" ("got upset") turns the action inward or makes it happen between people naturally.
-- 'Listen, I found an interesting apartment.' Max answers calmly with Nastya, letting the remark speak for itself.
-- 'And we already found an apartment for you.' Nastya colors one vivid expression toward Kostya: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Here are the keys, there is a very nice renovation there.' Nastya offers that answer plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And most importantly, it is paid through the end of the year.' Nastya counters sharply with a nod, refusing to let the moment slip past.
-- 'Oh, awesome, thank you so much!' Max emphasizes one pointed piece at once: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'Except this is Vika's apartment.' Kostya frames this statement around Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Are you kidding me? Maybe I should move in with Nagiyev?' Max checks bluntly where this conversation is heading next.
+- 'Come on, get to work.' Pointing to the work before Nastya, Kostya centers the thought on "pristupay" ("get to, start", from "pristupat") without wasting a word.
+- 'Nastya, why do we need someone else's apartment?' Turning to the flat in the exchange, Kostya puts the question word "zachem" right at the start so Nastya hears the focus immediately.
+- 'We were going to do renovations in our own place.' Kostya speaks up calmly beside Nastya, refusing to let the moment slip past.
+- 'That is right, this apartment is for Max.' Mentioning the flat in the exchange, Nastya chooses "kvartira" ("flat") so Max gets the point right away.
+- 'He got upset when you told him.' Looking over smoothly at once, the "-sya" ending on "rasstroilsya" ("got upset") marks an action that unfolds mutually or turns back on the speaker.
+- 'Listen, I found an interesting apartment.' Max cuts in calmly with a smile, leaving no doubt about where he stands.
+- 'And we already found an apartment for you.' Focusing on the flat around Max, Nastya puts the weight on "kvartiru" ("flat", from "kvartira") as the exchange unfolds.
+- 'Here are the keys, there is a very nice renovation there.' Stressing how good things are around Max, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And most importantly, it is paid through the end of the year.' Nastya speaks up sharply with Max, so Max knows she is not just making small talk.
+- 'Oh, awesome, thank you so much!' Underscoring the cool beside Nastya, Max centers the thought on "bolshoye" ("big, very much", from "bolshoy") without wasting a word.
+- 'Except this is Vika's apartment.' Returning to the flat in this beat, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Are you kidding me? Maybe I should move in with Nagiyev?' Max checks bluntly before Kostya can change the subject.

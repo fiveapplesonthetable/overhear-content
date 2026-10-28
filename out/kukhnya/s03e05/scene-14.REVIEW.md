@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to talk with you.' Max continues warmly as things stand, testing Nagiyev's reaction in the middle of the exchange.
-- 'Well wonderful, let us talk.' Nagiyev opens up earnestly on the spot, so Max knows he is not just making small talk.
-- 'Have a seat right here, please.' Nagiyev underscores one practical expression on cue: "prisazhivaysya" means "to take a seat" (from "prisazhivatsya"), giving the line its exact edge.
-- 'I decided to court Victoria Sergeyevna.' Nagiyev replies pointedly on the spot, leaving no doubt about where he stands.
-- 'Yes, I already noticed that.' Max reacts right away without any doubt, leaving no doubt about where he stands.
-- 'I noticed that you noticed.' Nagiyev features one pointed piece in earnest: "zametil" means "noticed" (from "zametit"), giving the line its exact edge.
-- 'I invited her to Paris.' Nagiyev jumps in plainly beside Max, steering the talk right where he wants it.
-- 'And she refused to fly with me.' Nagiyev holds firm wryly without any doubt, refusing to let the moment slip past.
-- 'Wait, how did she refuse?' Max favors one familiar word at once: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'I had the exact same foolish expression on my face.' Nagiyev offers that line calmly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'She simply went and refused right away.' Nagiyev fires back candidly before Max, before Max can change the subject.
-- 'And when exactly did she refuse?' Max sharpens one colorful term toward Nagiyev: "otkazalas" means "refused" (from "otkazatsya"), giving the line its exact edge.
-- 'I offered, and she immediately refused.' Nagiyev fires back bluntly in this moment, without trying to dress up how he really feels.
+- 'I wanted to talk with you.' Max cuts in openly in front of Nagiyev and leans on "pogovorit" ("to talk") to give the whole sentence its punch.
+- 'Well wonderful, let us talk.' Nagiyev reacts earnestly with Max, grounding the moment in plain reality.
+- 'Have a seat right here, please.' Nagiyev naturally shares this courtesy word without hesitation using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'I decided to court Victoria Sergeyevna.' Nagiyev opens up pointedly with Max and brings in "poukhazhivat" ("court, woo") to make the meaning unmistakable.
+- 'Yes, I already noticed that.' Max follows up right away in their talk, shifting the mood of the conversation in a single beat.
+- 'I noticed that you noticed.' Nagiyev opens up plainly beside Max and leans on "zametil" ("noticed", a form of "zametit") to give the remark its edge.
+- 'I invited her to Paris.' Nagiyev jumps in pointedly to Max and reaches for the Russian word "priglasil" ("invited", built from "priglasit") right at the center of the line.
+- 'And she refused to fly with me.' Nagiyev continues wryly with a sigh, grounding the moment in plain reality.
+- 'Wait, how did she refuse?' Max weighs in frankly with Nagiyev and reaches for the Russian word "podozhdite" ("wait", built from "podozhdat") right at the center of the line.
+- 'I had the exact same foolish expression on my face.' Nagiyev speaks up pointedly toward Max, watching Max's face to see how the news lands.
+- 'She simply went and refused right away.' Nagiyev jumps in candidly with Max, leaving no doubt about where he stands.
+- 'And when exactly did she refuse?' Max chimes in evenly around Nagiyev and reaches for the Russian word "otkazalas" ("refused", built from "otkazatsya") right at the center of the line.
+- 'I offered, and she immediately refused.' Nagiyev opens up frankly in front of Max and brings in "predlozhil" ("suggested", from "predlozhit") as the key Russian word here.

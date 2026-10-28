@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is Victor Petrovich today?' Vika hands over that answer with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He has not arrived yet.' Katya continues dryly without holding back, shifting the whole mood of the room in a single beat.
-- 'He has been gone for two hours already.' Vika spotlights one direct choice toward Katya: "chasa" means "hours" (from "chas"), giving the line its exact edge.
-- 'Katya, please bring your diploma.' Vika shapes the remark plainly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'I have to register you officially.' Vika weighs in wryly as things stand, before Katya can change the subject.
-- 'Alright, I have not unpacked my things yet.' Katya stresses one key word in earnest: "veshchi" means "things" (from "veshch"), giving the line its exact edge.
-- 'As soon as I find it, I will bring it right away.' Katya fires back bluntly on the spot, making her position completely clear.
-- 'Good afternoon, respected Chef!' Max jumps in decisively with Vika, saying out loud what both of them already know.
-- 'Oh no, Chef, I cannot do that.' Max highlights this telling element at once: "mogu" means "can" (from "moch"), giving the line its exact edge.
-- 'Alright, good afternoon to everyone in the kitchen!' Max makes this warning with candor: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.
-- 'What on earth is going on here right now?' Vika questions calmly whether Katya really thought this through.
-- 'The Chef told me to drop by his office later.' Max picks one telling word in earnest: "popozzhe" means "later", and it carries the main weight of what Max is saying.
+- 'And where is Victor Petrovich today?' Holding firm candidly to Katya, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He has not arrived yet.' Katya follows up dryly watching Vika, without trying to dress up how she really feels.
+- 'He has been gone for two hours already.' Talking about the hours on the spot, Vika puts the weight on "chasa" ("hours", from "chas") as the exchange unfolds.
+- 'Katya, please bring your diploma.' Turning to the diploma in the exchange, Vika lands on "diplom" ("diploma") as the key everyday word here.
+- 'I have to register you officially.' Vika fires back wryly with a nod, bringing things back to earth after the buildup.
+- 'Alright, I have not unpacked my things yet.' Katya follows up calmly right here and chooses "razobrala" ("unpacked, sorted out", from the root "razobrat") so Vika hears the exact meaning.
+- 'As soon as I find it, I will bring it right away.' Katya opens up evenly in the exchange and brings in "prinesu" ("I will bring", from "prinesti") as the key Russian word here.
+- 'Good afternoon, respected Chef!' Max readily gives this daytime greeting with Katya using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'Oh no, Chef, I cannot do that.' Max pushes back firmly facing Katya, before Katya can change the subject.
+- 'Alright, good afternoon to everyone in the kitchen!' Discussing the kitchen with Vika, Max brings in "dobryy" ("good") to make the meaning unmistakable.
+- 'What on earth is going on here right now?' Vika questions calmly before Max can change the subject.
+- 'The Chef told me to drop by his office later.' Max follows up candidly at once and centers the remark on "popozzhe" ("later") without any extra fuss.

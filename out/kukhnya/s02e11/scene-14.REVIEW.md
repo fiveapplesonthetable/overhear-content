@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How are you feeling?' Barinov aims that remark plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am just thinking.' Senya speaks up at once to be clear, refusing to let the moment slip past.
-- 'Tell me, are you an idiot?' Fedya grounds one direct touch with Barinov: "durak" means "fool, idiot", and it carries the main weight of what Fedya is saying.
-- 'What do you think you are doing?' Barinov drops the thought at once: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'I do not know, look what he did.' Senya reacts firmly with a smile, grounding the moment in plain reality.
-- 'I had nothing to do with it.' Fedya chimes in pointedly toward Senya, refusing to let the moment slip past.
-- 'It was all this cook Senya.' Barinov follows up decisively without holding back, to clear the air between them once and for all.
-- 'This is a new recipe from Fedya.' Senya opens up at once around Fedya, refusing to let the moment slip past.
-- 'I do not care at all.' Fedya centers this key expression at once: "plevat" means "don't care", and it carries the main weight of what Fedya is saying.
-- 'You two have turned this kitchen into a circus.' Barinov underscores one familiar choice in reply: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'Do not mind her, she bosses everyone around everywhere.' Senya fires back honestly around Barinov, before Barinov can change the subject.
-- 'She thinks she is the head chef.' Fedya frames one familiar term on cue: "dumayet" means "thinks" (from "dumat"), giving the line its exact edge.
-- 'So just get some rest.' Barinov puts this point frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'How are you feeling?' Returning to the health to Senya, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am just thinking.' Senya speaks at once on the spot, watching Barinov's face to see how the news lands.
+- 'Tell me, are you an idiot?' Discussing the fool with Barinov, Fedya brings in "durak" ("fool, idiot") to make the meaning unmistakable.
+- 'What do you think you are doing?' Looking over calmly in this beat, Barinov puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'I do not know, look what he did.' Senya opens up firmly with Barinov, leaving no doubt about where he stands.
+- 'I had nothing to do with it.' Fedya reacts pointedly with a shrug, refusing to let the moment slip past.
+- 'It was all this cook Senya.' Barinov replies pointedly on the spot and brings in "povar" ("chef, cook") to make the meaning unmistakable.
+- 'This is a new recipe from Fedya.' Senya pushes back at once without holding back, bringing things back to earth after the buildup.
+- 'I do not care at all.' Fedya replies promptly with Senya and brings in "plevat" ("don't care") to make the meaning unmistakable.
+- 'You two have turned this kitchen into a circus.' Barinov fires back plainly beside Fedya, shifting the mood of the conversation in a single beat.
+- 'Do not mind her, she bosses everyone around everywhere.' Senya fires back honestly watching Barinov, making his position completely clear.
+- 'She thinks she is the head chef.' Holding firm frankly beside Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'So just get some rest.' Pressing on promptly before Fedya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

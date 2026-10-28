@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, since we kissed, that means we are dating.' Nagiyev shapes the comeback at once: the "-sya" ending on "vstrechayemsya" ("have been going out") turns the action inward or makes it happen between people naturally.
-- 'Hooray, I propose we celebrate this!' Nagiyev chimes in lightly to settle things, so Vika knows he is not just making small talk.
-- 'Let us drink some good champagne.' Nagiyev grounds one concrete term right here: "shampanskogo" means "of champagne" (from "shampanskoye"), giving the line its exact edge.
-- 'I bought out the second half of the restaurant from Kristina.' Nagiyev cuts in wryly with Vika, keeping the focus on what actually matters here.
-- 'Bring us some champagne, please.' Nagiyev proceeds firmly with a sigh, grounding the moment in plain reality.
-- 'Dmitry Vladimirovich, actually I am at work right now.' Vika highlights one key detail toward Nagiyev: "voobshche-to" means "actually", and it carries the main weight of what Vika is saying.
-- 'Not anymore, you have a day off today starting this minute.' Nagiyev drops this update to Vika: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Right now we are driving calmly to your home.' Nagiyev responds evenly without a pause, making his position completely clear.
-- 'Go get yourself ready at home.' Nagiyev focuses on this direct touch in earnest: "poryadok" means "order", and it carries the main weight of what Nagiyev is saying.
-- 'And I will drop by your place in about two hours.' Nagiyev reaches for one memorable touch right here: "chasa" means "hours" (from "chas"), giving the line its exact edge.
-- 'After all, you and I are grown-up people.' Nagiyev jumps in boldly hearing Vika, making his position completely clear.
-- 'Wait, do I really have a day off today?' Vika uses one telling element in reply: "vykhodnoy" means "a day off", and it carries the main weight of what Vika is saying.
+- 'Well, since we kissed, that means we are dating.' Turning dryly right here, the "-sya" ending on "vstrechayemsya" ("have been going out") marks an action that unfolds mutually or turns back on the speaker.
+- 'Hooray, I propose we celebrate this!' Nagiyev continues lightly with Vika, shifting the mood of the conversation in a single beat.
+- 'Let us drink some good champagne.' Addressing the champagne during the talk, Nagiyev chooses "shampanskogo" ("of champagne", from the root "shampanskoye") so Vika hears the exact meaning.
+- 'I bought out the second half of the restaurant from Kristina.' Focusing on the restaurant right here, Nagiyev brings in "restorana" ("restaurant", from "restoran") as the key Russian word here.
+- 'Bring us some champagne, please.' Nagiyev evenly drops this courtesy word toward Vika using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Dmitry Vladimirovich, actually I am at work right now.' Mentioning the work during the talk, Vika lands on "rabote" ("work", built on "rabota") to keep the statement grounded.
+- 'Not anymore, you have a day off today starting this minute.' Pointing to a day at once, Nagiyev uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Right now we are driving calmly to your home.' Nagiyev responds evenly without any doubt, bringing things back to earth after the buildup.
+- 'Go get yourself ready at home.' Underscoring the order right here, Nagiyev centers the remark on "poryadok" ("order") without any extra fuss.
+- 'And I will drop by your place in about two hours.' Nagiyev opens up warmly across the room, grounding the moment in plain reality.
+- 'After all, you and I are grown-up people.' Nagiyev replies boldly with a shrug, so Vika knows he is not just making small talk.
+- 'Wait, do I really have a day off today?' Bringing up a day at once, Vika uses "vykhodnoy" ("a day off") to carry the main weight of the thought.

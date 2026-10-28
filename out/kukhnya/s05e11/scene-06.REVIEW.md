@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And can we use all of this?' The guest quizzes openly whether Max really thought this through.
-- 'Grandma, it is all yours! Why did you not tell them about us?' Max stresses one key element for Vika: "babushka" means "old lady", and it carries the main weight of what Max is saying.
-- 'Grandpa has a weak heart. He had a heart attack.' Vika chimes in warmly during the talk, letting the remark speak for itself.
-- 'They came for one day. Do not tell them, okay?' Vika checks evenly why things suddenly took this turn between them.
-- 'And what is this? Vodka!' The guest sharpens one key element at once: "vodka" means "vodka", and it carries the main weight of what the guest is saying.
-- 'Here is your vodka, just as bitter and strong. Drink!' The guest anchors this telling expression with Vika: "krepkaya" means "strong, sturdy" (from "krepkiy"), giving the line its exact edge.
-- 'I cannot stand the sight of these drops! They make me nauseous.' Max weighs in openly hearing the guest, steering the talk right where he wants it.
-- 'Do not look and drink!' The guest favors this telling piece in reply: "smotri" means "look" (from "smotret"), giving the line its exact edge.
-- 'Maxim, Vika, do something with him!' The guest answers bluntly in their talk, bringing things back to earth after the buildup.
-- 'The doctors strictly forbade eating meat.' The guest steps in wryly with Vika, to clear the air between them once and for all.
-- 'Maxim, in an hour we need to go to the doctor.' The guest grounds one memorable choice in earnest: "vrachu" means "the doctor" (from "vrach"), giving the line its exact edge.
-- 'Alright, grandma, we will keep an eye on him.' Max states the remark briskly now: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'And can we use all of this?' The guest quizzes openly before Max can change the subject.
+- 'Grandma, it is all yours! Why did you not tell them about us?' Mentioning the old lady right here, Max reaches for the Russian word "babushka" ("old lady") right at the heart of the line.
+- 'Grandpa has a weak heart. He had a heart attack.' Underscoring the grandfathers on the spot, Vika lands on "slaboye" ("weak", built on "slabyy") to keep the statement grounded.
+- 'They came for one day. Do not tell them, okay?' Vika checks evenly where this conversation is heading next.
+- 'And what is this? Vodka!' Highlighting the vodka before Vika, the guest leans on "vodka" ("vodka") to give the whole sentence its punch.
+- 'Here is your vodka, just as bitter and strong. Drink!' The guest continues steadily in their talk, testing Max's reaction in the middle of the exchange.
+- 'I cannot stand the sight of these drops! They make me nauseous.' Max speaks openly without holding back, shifting the mood of the conversation in a single beat.
+- 'Do not look and drink!' The guest cuts in honestly with a sigh, before Max can change the subject.
+- 'Maxim, Vika, do something with him!' The guest continues bluntly with a nod, to clear the air between them once and for all.
+- 'The doctors strictly forbade eating meat.' The guest counters wryly without any doubt, so Max knows he is not just making small talk.
+- 'Maxim, in an hour we need to go to the doctor.' Talking about the doctor at once, the guest chooses "vrachu" ("the doctor", from the root "vrach") so Max hears the exact meaning.
+- 'Alright, grandma, we will keep an eye on him.' Dwelling on the old lady beside the guest, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

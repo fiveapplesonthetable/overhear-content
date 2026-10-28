@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, are you alive?' Gulya points to this sharp detail for Lyova: "zhiv" means "alive" (from "zhivoy"), giving the line its exact edge.
-- 'Yes, wait a second.' Lyova delivers the comment without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'She almost spotted me.' Lyova speaks up dryly with a shrug, refusing to let the moment slip past.
-- 'Who almost spotted you?' Gulya centers one loaded choice on cue: "zametil" means "noticed" (from "zametit"), giving the line its exact edge.
-- 'Why, my mom.' Lyova states that line around Gulya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Lyova, are you alive?' Confirming how alive things are beside Lyova, Gulya chooses "zhiv" ("alive", from the root "zhivoy") so Lyova hears the exact meaning.
+- 'Yes, wait a second.' Talking about a second during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'She almost spotted me.' Lyova fires back dryly with Gulya, so Gulya knows he is not just making small talk.
+- 'Who almost spotted you?' Gulya responds openly to Lyova and puts the weight on "zametil" ("noticed", from "zametit") as the exchange unfolds.
+- 'Why, my mom.' Dwelling on the mum to Gulya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
 - 'Ah, I get it, are you ashamed of me?' Gulya tests bluntly whether Lyova really thought this through.
-- 'Must we meet so that nobody sees us?' Gulya sharpens one sharp element in earnest: "vstrechatsya" means "to meet", and it carries the main weight of what Gulya is saying.
-- 'No, you are the most beautiful girl in the world.' Lyova makes the remark facing Gulya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I simply lied to my mom that I was at work.' Lyova fires back candidly without any doubt, testing Gulya's reaction in the middle of the exchange.
-- 'Lyova, what are you doing?' Gulya underscores one clear choice in reply: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'I want to kiss you.' Lyova frames that remark calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'You will see for yourself right now.' Lyova holds firm earnestly with a smile, so Gulya knows he is not just making small talk.
+- 'Must we meet so that nobody sees us?' Gulya pushes back frankly at once and centers the remark on "vstrechatsya" ("to meet") without any extra fuss.
+- 'No, you are the most beautiful girl in the world.' Underscoring how pretty Gulya is around Gulya, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I simply lied to my mom that I was at work.' Lyova steps in candidly watching Gulya, refusing to let the moment slip past.
+- 'Lyova, what are you doing?' Gulya fires back sharply beside Lyova and puts the weight on "delayesh" ("are you doing", from "delat") as the exchange unfolds.
+- 'I want to kiss you.' Speaking evenly with Gulya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'You will see for yourself right now.' Lyova answers earnestly watching Gulya, without trying to dress up how he really feels.

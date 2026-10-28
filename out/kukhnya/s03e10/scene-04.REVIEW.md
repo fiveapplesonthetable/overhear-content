@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I sympathize, after all that was your last chance.' Nagiyev emphasizes one telling element for Barinov: "sochuvstvuyu" means "sympathize" (from "sochuvstvovat"), giving the line its exact edge.
-- 'Old age spares no one at all, after all.' Nagiyev phrases the comeback with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'There is only a six-year difference between us!' Barinov cuts in decisively to be clear, bringing things back to earth after the buildup.
-- 'Do not look at my passport.' Nagiyev underscores one practical detail at once: "pasport" means "passport", and it carries the main weight of what Nagiyev is saying.
-- 'Look how young and lean I am.' Nagiyev stands firm evenly to settle things, leaving no doubt about where he stands.
-- 'And you are already an old wreck.' Nagiyev continues warmly before Barinov, letting the remark speak for itself.
-- 'They should put up a monument to Lena.' Nagiyev chooses one pointed touch for Barinov: "pamyatnik" means "monument", and it carries the main weight of what Nagiyev is saying.
-- 'For the fact that she was with you.' Nagiyev stands firm warmly watching Barinov, saying out loud what both of them already know.
-- 'Dima, I simply do not need a woman.' Barinov steps in decisively with a smile, so Nagiyev knows he is not just making small talk.
-- 'If I wanted one, I would find one right away.' Barinov features this telling piece for Nagiyev: "nashyol" means "found" (from "nayti"), giving the line its exact edge.
-- 'Did you understand me clearly just now?' Barinov drops the comment before Nagiyev: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'I simply do not need a relationship right now.' Barinov weighs in bluntly as they talk, to clear the air between them once and for all.
+- 'I sympathize, after all that was your last chance.' Turning to the chance to Barinov, Nagiyev uses "sochuvstvuyu" ("sympathize", from "sochuvstvovat") to make the point stick.
+- 'Old age spares no one at all, after all.' Addressing the old age with Barinov, Nagiyev drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'There is only a six-year difference between us!' Barinov reacts decisively hearing Nagiyev, shifting the mood of the conversation in a single beat.
+- 'Do not look at my passport.' Pointing to his passport before Barinov, Nagiyev centers the remark on "pasport" ("passport") without any extra fuss.
+- 'Look how young and lean I am.' Confirming how young he is right here, Nagiyev centers the remark on "podzharyy" ("lean, trim") without any extra fuss.
+- 'And you are already an old wreck.' Nagiyev reacts warmly in their talk, shifting the mood of the conversation in a single beat.
+- 'They should put up a monument to Lena.' Discussing a monument beside Barinov, Nagiyev chooses "pamyatnik" ("monument") so Barinov gets the point right away.
+- 'For the fact that she was with you.' Nagiyev speaks warmly during the talk, to clear the air between them once and for all.
+- 'Dima, I simply do not need a woman.' Barinov fires back decisively around Nagiyev, keeping the focus on what actually matters here.
+- 'If I wanted one, I would find one right away.' Barinov replies firmly beside Nagiyev and puts the weight on "nashyol" ("found", from "nayti") as the exchange unfolds.
+- 'Did you understand me clearly just now?' Holding firm briskly before Nagiyev, Barinov keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'I simply do not need a relationship right now.' Barinov counters bluntly watching Nagiyev, testing Nagiyev's reaction in the middle of the exchange.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, you braked just in time.' Max phrases the remark frankly here: opening with the casual greeting "privet" ("hi") signals right away that Max and Vika are on familiar terms.
-- 'You need to be more careful behind the wheel.' Max responds briskly across the room, testing Vika's reaction in the middle of the exchange.
-- 'I will manage without your advice.' Catch how Vika updates Max in reply — the Russian word "sovetov" ("advice, tips", built from "sovet") does the heavy lifting.
-- 'Vika, I thought about it here and decided.' Max opens up briskly to be clear, saying out loud what both of them already know.
-- 'I am ready to accept this child.' Max cuts in bluntly across the room, to clear the air between them once and for all.
-- 'I will raise him as my own.' Max reaches for this vivid touch on cue: "vospityvat" means "educate", and it carries the main weight of what Max is saying.
-- 'You know, I thought about it here and decided.' Vika sharpens one sharp piece in reply: "podumala" means "thought" (from "podumat"), giving the line its exact edge.
-- 'I do not want to see you anymore.' Vika weighs in right away to be clear, bringing things back to earth after the buildup.
-- 'Are you sure?' Max centers this sharp piece on cue: "uverena" means "sure, confident" (from "uverennyy"), giving the line its exact edge.
-- 'In that case, there is nothing left for me to do here.' Max counters right away without holding back, leaving no doubt about where he stands.
-- 'I am leaving.' Max jumps in decisively watching Vika, leaving no doubt about where he stands.
-- 'Next to a woman there should be a man she can lean on.' Vika centers this direct word in earnest: "zhenshchinoy" means "a woman" (from "zhenshchina"), giving the line its exact edge.
+- 'Hi, you braked just in time.' Max calmly uses this casual greeting in the exchange using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'You need to be more careful behind the wheel.' Max pushes back briskly in their talk, testing Vika's reaction in the middle of the exchange.
+- 'I will manage without your advice.' Highlighting the advice in front of Max, Vika lands on "sovetov" ("advice, tips", built on "sovet") to keep the statement grounded.
+- 'Vika, I thought about it here and decided.' Max jumps in pointedly in the exchange and chooses "podumal" ("would think", from the root "podumat") so Vika hears the exact meaning.
+- 'I am ready to accept this child.' Max reacts bluntly facing Vika, keeping the focus on what actually matters here.
+- 'I will raise him as my own.' Max responds earnestly during the talk and leans on "vospityvat" ("educate") to give the whole sentence its punch.
+- 'You know, I thought about it here and decided.' Vika weighs in bluntly in their talk, shifting the mood of the conversation in a single beat.
+- 'I do not want to see you anymore.' Vika weighs in right away across the room, testing Max's reaction in the middle of the exchange.
+- 'Are you sure?' Underscoring how sure things are in this beat, Max lands on "uverena" ("sure, confident", built on "uverennyy") to keep the statement grounded.
+- 'In that case, there is nothing left for me to do here.' Discussing the case in this beat, Max brings in "sluchaye" ("case, event", from "sluchay") as the key Russian word here.
+- 'I am leaving.' Max weighs in decisively around Vika, grounding the moment in plain reality.
+- 'Next to a woman there should be a man she can lean on.' Turning to a woman during the talk, Vika brings in "zhenshchinoy" ("a woman", from "zhenshchina") as the key Russian word here.

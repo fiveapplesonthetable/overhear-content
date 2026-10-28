@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, tell me, what happened to you?' Elena challenges plainly what Barinov is actually getting at here.
-- 'It seems I just accidentally sprained my ankle.' Barinov stresses one direct detail at once: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'My God, well that is it, you urgently need to see a doctor!' Elena makes this warning for Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'So for today we are done with golf.' Elena jumps in earnestly across the room, steering the talk right where she wants it.
-- 'No, I want very much to finish playing this round.' Barinov reaches for this key word on cue: "partiyu" means "batch" (from "partiya"), giving the line its exact edge.
-- 'Right now I will go rest a little and return to you.' Barinov reaches for one loaded touch toward Max: "nemnozhko" means "a little", and it carries the main weight of what Barinov is saying.
+- 'Vitya, tell me, what happened to you?' Elena challenges plainly while looking straight at Barinov here.
+- 'It seems I just accidentally sprained my ankle.' Mentioning the foot around Elena, Barinov leans on "kazhetsya" ("it seems, I think", a form of "kazatsya") to give the remark its edge.
+- 'My God, well that is it, you urgently need to see a doctor!' Returning to a doctor beside Barinov, Elena leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'So for today we are done with golf.' Elena fires back earnestly on the spot, steering the talk right where she wants it.
+- 'No, I want very much to finish playing this round.' Mentioning the batch on the spot, Barinov uses "partiyu" ("batch", from "partiya") to make the point stick.
+- 'Right now I will go rest a little and return to you.' Barinov reacts lightly on the spot, leaving no doubt about where he stands.
 - 'Viktor Petrovich, are you definitely sure about that?' Elena questions frankly what Barinov is actually getting at here.
-- 'In general, golf is the best thing I have played in my life!' Barinov reaches for this clear term at once: "luchsheye" means "best" (from "luchshiy"), giving the line its exact edge.
-- 'Why walk on foot, they will give you a quick ride right now.' Elena emphasizes one key choice for Barinov: "podvezut" means "will give a ride" (from "podvezti"), giving the line its exact edge.
-- 'Lena, do not be bored here, I will be back soon!' Barinov speaks at once facing Max, shifting the whole mood of the room in a single beat.
-- 'Hey, what am I paying you money for, quickly switch it to football!' Barinov reaches for one colorful element toward Elena: "pereklyuchil" means "switched" (from "pereklyuchit"), giving the line its exact edge.
-- 'Guys, attention, today I am quitting and leaving for another restaurant.' Max fires back honestly with a smile, so Elena knows he is not just making small talk.
-- 'Congratulations, just do not forget to buy us some good juice.' Max replies earnestly as things stand, to clear the air between them once and for all.
+- 'In general, golf is the best thing I have played in my life!' Making clear how best things are to Elena, Barinov lands on "luchsheye" ("best", built on "luchshiy") to keep the statement grounded.
+- 'Why walk on foot, they will give you a quick ride right now.' Elena proceeds briskly without any doubt, testing Barinov's reaction in the middle of the exchange.
+- 'Lena, do not be bored here, I will be back soon!' Barinov steps in at once around Elena, watching Elena's face to see how the news lands.
+- 'Hey, what am I paying you money for, quickly switch it to football!' Bringing up the money with Max, Barinov centers the thought on "pereklyuchil" ("switched", from "pereklyuchit") without wasting a word.
+- 'Guys, attention, today I am quitting and leaving for another restaurant.' Touching on the attention at once, Max leans on "vnimaniye" ("attention") to give the whole sentence its punch.
+- 'Congratulations, just do not forget to buy us some good juice.' Max speaks earnestly facing Barinov, without trying to dress up how he really feels.

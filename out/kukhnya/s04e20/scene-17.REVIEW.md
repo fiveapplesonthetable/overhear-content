@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, back off, I have no time for you right now.' Katya grounds one vivid detail right here: "slushayte" means "listen" (from "slushat"), giving the line its exact edge.
+- 'Listen, back off, I have no time for you right now.' Katya replies openly around Denis, grounding the moment in plain reality.
 - 'Hey, what are you two doing right here?' Denis challenges bluntly how Katya expects that to work in practice.
-- 'Take your hands off my girlfriend right now!' Denis favors this clear element in earnest: "devushki" means "a girl" (from "devushka"), giving the line its exact edge.
-- 'Come on, get out of here right now!' Denis replies warmly with a sigh, letting the remark speak for itself.
-- 'I will call our guys out here right now!' Denis continues at once with a sigh, refusing to let the moment slip past.
-- 'Denis, tell me, does it hurt very much right now?' Katya grounds this telling detail right here: "seychas" means "now", and it carries the main weight of what Katya is saying.
-- 'Wait, let me take a careful look.' Katya counters honestly in their talk, bringing things back to earth after the buildup.
-- 'Everything is fine with me, it does not hurt at all.' Denis responds right away to settle things, leaving no doubt about where he stands.
-- 'Katya, I beg you, forgive me, please.' Denis spotlights one practical expression toward Katya: "proshu" means "beg, ask" (from "prosit"), giving the line its exact edge.
-- 'I really never cheated on you.' Denis brings the comeback on cue: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Katya, I do not want to lose you.' Denis replies frankly to settle things, grounding the moment in plain reality.
-- 'Quiet, I forgave you a long time ago.' Katya underscores one concrete detail with Denis: "prostila" means "would forgive" (from "prostit"), giving the line its exact edge.
+- 'Take your hands off my girlfriend right now!' Addressing the girl in front of Katya, Denis lands on "devushki" ("a girl", built on "devushka") to keep the statement grounded.
+- 'Come on, get out of here right now!' Denis continues evenly beside Katya and brings in "otsyuda" ("from here") to make the meaning unmistakable.
+- 'I will call our guys out here right now!' Denis responds at once facing Katya, without trying to dress up how he really feels.
+- 'Denis, tell me, does it hurt very much right now?' Katya fires back directly beside Denis and uses "skazhi" ("say", from "skazat") to make the point stick.
+- 'Wait, let me take a careful look.' Katya reacts earnestly in this beat and reaches for the Russian word "vnimatelno" ("carefully, attentively") right at the heart of the line.
+- 'Everything is fine with me, it does not hurt at all.' Denis continues right away beside Katya, keeping the focus on what actually matters here.
+- 'Katya, I beg you, forgive me, please.' Denis cuts in vividly before Katya and lands on "proshu" ("beg, ask", built on "prosit") to keep the statement grounded.
+- 'I really never cheated on you.' Pointing to the honestly in front of Katya, Denis pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Katya, I do not want to lose you.' Denis counters frankly watching Katya, refusing to let the moment slip past.
+- 'Quiet, I forgave you a long time ago.' Katya reacts promptly right here and leans on "prostila" ("would forgive", a form of "prostit") to give the remark its edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, my respects.' Timur lays out the reaction before Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'What? Excuse me.' Barinov prompts briskly where this conversation is heading next.
-- 'You need to act more natural, understand?' Barinov grounds one vivid expression right here: "poyestestvenneye" means "natural" (from "poyestestvenniy"), giving the line its exact edge.
-- 'They will not let that on television.' Timur underscores this clear word with Elena: "propustyat" means "to let through" (from "propustit"), giving the line its exact edge.
-- 'Good morning, Viktor Petrovich.' Elena holds firm quietly in this moment, shifting the whole mood of the room in a single beat.
-- 'How are things with you?' Elena highlights one pointed choice on cue: "dela" means "things, affairs" (from "delo"), giving the line its exact edge.
-- 'As you can see, not bad.' Barinov makes this line to Elena: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'They are filming a show about me right here.' Barinov stands firm at once as they talk, before Timur can change the subject.
-- 'Keep trying hard, Lena Pavlovna.' Barinov features one familiar detail at once: "starayetes" means "are trying" (from "staratsya"), giving the line its exact edge.
-- 'You know, I am afraid that is not a threat for me.' Elena fires back at once on the spot, without trying to dress up how she really feels.
-- 'I will not distract you.' Elena chimes in openly across the room, refusing to let the moment slip past.
-- 'Why is that?' Elena lays out that point in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Viktor Petrovich, my respects.' Discussing the respect beside Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'What? Excuse me.' Barinov lightly sends this polite apology at this moment using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'You need to act more natural, understand?' Barinov steps in dryly on the spot and lands on "poyestestvenneye" ("natural", built on "poyestestvenniy") to keep the statement grounded.
+- 'They will not let that on television.' Timur replies calmly with a sigh, to clear the air between them once and for all.
+- 'Good morning, Viktor Petrovich.' Elena simply sends this morning greeting in one quick breath using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'How are things with you?' Elena chimes in sharply in this beat and lands on "dela" ("things, affairs", built on "delo") to keep the statement grounded.
+- 'As you can see, not bad.' Answering promptly on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'They are filming a show about me right here.' Barinov jumps in at once during the talk, testing Elena's reaction in the middle of the exchange.
+- 'Keep trying hard, Lena Pavlovna.' Barinov speaks decisively with Elena and lands on "starayetes" ("are trying", built on "staratsya") to keep the statement grounded.
+- 'You know, I am afraid that is not a threat for me.' Elena steps in candidly on the spot and lands on "grozit" ("threatens") as the key everyday word here.
+- 'I will not distract you.' Elena reacts openly watching Barinov, making her position completely clear.
+- 'Why is that?' Following up boldly in front of Barinov, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, I am the head chef of the restaurant.' Barinov fires back wryly during the talk, making his position completely clear.
-- 'Tell me, was it you who called for me just now?' Barinov centers this clear element with the guest: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
-- 'Yes, I called, I found a cockroach in my plate.' The guest speaks up honestly before Barinov, before Barinov can change the subject.
-- 'Do you understand that I can sue you for this?' The guest tests sharply in front of Barinov without any preamble.
-- 'I do not understand you, I do not see a cockroach here.' Barinov reaches for this vivid element right here: "tarakana" means "cockroach" (from "tarakan"), giving the line its exact edge.
-- 'So that is how you talk to me, yes?' The guest brings this line toward Barinov: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'By the way, I am a well-known journalist.' The guest responds steadily without a pause, saying out loud what both of them already know.
-- 'And all of Moscow will soon find out about this.' The guest reaches for one vivid expression with Barinov: "uznayet" means "will find out" (from "uznat"), giving the line its exact edge.
-- 'I firmly promise you that.' The guest grounds this telling expression in earnest: "obeshchayu" means "promise" (from "obeshchat"), giving the line its exact edge.
-- 'Right now I am going to photograph it.' The guest cuts in boldly as things stand, without trying to dress up how he really feels.
-- 'Ah, so you are talking about this?' Barinov picks one telling element for the guest: "govorite" means "say, speak" (from "govorit"), giving the line its exact edge.
-- 'Listen, this is not a cockroach at all.' Barinov fires back earnestly in this moment, grounding the moment in plain reality.
+- 'Good afternoon, I am the head chef of the restaurant.' Barinov politely drops this daytime greeting in the exchange using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'Tell me, was it you who called for me just now?' Barinov opens up briskly in front of the guest and lands on "zvali" ("called", built on "zvat") to keep the statement grounded.
+- 'Yes, I called, I found a cockroach in my plate.' Mentioning a cockroach at once, the guest brings in "tarakana" ("cockroach", from "tarakan") as the key Russian word here.
+- 'Do you understand that I can sue you for this?' The guest tests sharply how Barinov expects that to work in practice.
+- 'I do not understand you, I do not see a cockroach here.' Touching on a cockroach during the talk, Barinov chooses "tarakana" ("cockroach", from the root "tarakan") so the guest hears the exact meaning.
+- 'So that is how you talk to me, yes?' Following up quietly in front of Barinov, the guest puts the question word "kak" right at the start so Barinov hears the focus immediately.
+- 'By the way, I am a well-known journalist.' The guest pushes back steadily with a shrug, refusing to let the moment slip past.
+- 'And all of Moscow will soon find out about this.' The guest chimes in promptly around Barinov and centers the thought on "uznayet" ("will find out", from "uznat") without wasting a word.
+- 'I firmly promise you that.' The guest replies lightly in this moment, before Barinov can change the subject.
+- 'Right now I am going to photograph it.' The guest answers boldly toward Barinov, refusing to let the moment slip past.
+- 'Ah, so you are talking about this?' Barinov speaks up candidly at once and chooses "govorite" ("say, speak", from the root "govorit") so the guest hears the exact meaning.
+- 'Listen, this is not a cockroach at all.' Emphasizing a cockroach to the guest, Barinov puts the weight on "poslushayte" ("listen", from "poslushat") as the exchange unfolds.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What was that? Louis, do not touch me!' Barinov hands over that answer without fuss: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'Now I understand why you are not an electrician.' Katya replies steadily toward Max, bringing things back to earth after the buildup.
-- 'Katya, did you happen to gain weight recently?' Max underscores one colorful choice for Barinov: "popravilas" means "gained weight" (from "popravitsya"), giving the line its exact edge.
-- 'It is somehow quite heavy for me to hold you.' Max states this warning without fuss: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'You are being rude to me like a plumber right now.' Katya steps in honestly hearing Barinov, leaving no doubt about where she stands.
-- 'What happened to our lights?' Barinov emphasizes one sharp detail with Max: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'Chef, the electricity in our restaurant broke down.' Max drops that thought beside Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'But that is not enough, go and check quickly.' Barinov reacts honestly on the spot, making his position completely clear.
-- 'Max, tell me, are you even alive over there?' Katya uses one memorable detail in earnest: "voobshche" means "at all", and it carries the main weight of what Katya is saying.
-- 'Alive, I am completely alive, everything is fine.' Max phrases that thought calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I even feel a little sorry for you right now.' Katya jumps in briskly as they talk, without trying to dress up how she really feels.
-- 'Come on, run from here before Chef sees.' Katya stresses one telling word right here: "otsyuda" means "from here", and it carries the main weight of what Katya is saying.
+- 'What was that? Louis, do not touch me!' Jumping in naturally on the spot, Barinov puts the question word "chto" right at the start so Katya hears the focus immediately.
+- 'Now I understand why you are not an electrician.' Katya jumps in steadily watching Barinov, making her position completely clear.
+- 'Katya, did you happen to gain weight recently?' Max weighs in boldly on the spot and leans on "popravilas" ("gained weight", a form of "popravitsya") to give the remark its edge.
+- 'It is somehow quite heavy for me to hold you.' Weighing in boldly around Katya, Max adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'You are being rude to me like a plumber right now.' Katya fires back honestly beside Max, leaving no doubt about where she stands.
+- 'What happened to our lights?' Turning to the light in front of Max, Barinov reaches for the Russian word "sluchilos" ("happened", built from "sluchitsya") right at the center of the line.
+- 'Chef, the electricity in our restaurant broke down.' Pointing to the electricity right here, Max reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'But that is not enough, go and check quickly.' Barinov pushes back honestly without a pause, to clear the air between them once and for all.
+- 'Max, tell me, are you even alive over there?' Katya pushes back dryly to Max and brings in "voobshche" ("at all") to make the meaning unmistakable.
+- 'Alive, I am completely alive, everything is fine.' Pressing on evenly at once, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I even feel a little sorry for you right now.' Katya jumps in briskly during the talk, leaving no doubt about where she stands.
+- 'Come on, run from here before Chef sees.' Katya steps in decisively at once and chooses "otsyuda" ("from here") so Barinov gets the point right away.

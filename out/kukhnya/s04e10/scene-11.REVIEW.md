@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Imagine, Lyova just bit me.' Max responds pointedly with a sigh, so Fedya knows he is not just making small talk.
-- 'An unknown infection has gripped the capital.' Max weighs in right away during the talk, watching Senya's face to see how the news lands.
-- 'All exits out of Moscow are blocked.' Max chooses one direct element toward Fedya: "perekryty" means "blocked", and it carries the main weight of what Max is saying.
-- 'They say the virus arrived from Thailand.' Max speaks up pointedly before Senya, bringing things back to earth after the buildup.
-- 'Tourists are always dragging all kinds of nasty stuff back!' Senya fires back at once without holding back, grounding the moment in plain reality.
-- 'Back, do not come near us!' Senya leans on one concrete term on cue: "podkhodi" means "approach, come near" (from "podkhodit"), giving the line its exact edge.
-- 'Lyova is a very well-mannered person.' Senya puts the reply without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He does not bite anyone for no reason.' Senya fires back earnestly with a shrug, saying out loud what both of them already know.
-- 'That means you are already infected, Max!' Fedya features this telling touch in earnest: "infitsirovan" means "max", and it carries the main weight of what Fedya is saying.
-- 'Guys, I was just joking!' Max makes this answer to Senya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Imagine, Lyova just bit me.' Max follows up earnestly in front of Senya and puts the weight on "predstavte" ("to imagine", from "predstavit") as the exchange unfolds.
+- 'An unknown infection has gripped the capital.' Max jumps in right away across the room, letting the remark speak for itself.
+- 'All exits out of Moscow are blocked.' Discussing the blocked on the spot, Max leans on "perekryty" ("blocked") to give the whole sentence its punch.
+- 'They say the virus arrived from Thailand.' Pointing to the virus in the exchange, Max uses "tailanda" ("thailand") to carry the main weight of the thought.
+- 'Tourists are always dragging all kinds of nasty stuff back!' Senya fires back at once with a sigh, before Max can change the subject.
+- 'Back, do not come near us!' Senya chimes in evenly during the talk and centers the thought on "podkhodi" ("approach, come near", from "podkhodit") without wasting a word.
+- 'Lyova is a very well-mannered person.' Noting how person things are on the spot, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He does not bite anyone for no reason.' Senya speaks up earnestly hearing Fedya, shifting the mood of the conversation in a single beat.
+- 'That means you are already infected, Max!' Fedya responds firmly beside Max and brings in "znachit" ("then, so") to make the meaning unmistakable.
+- 'Guys, I was just joking!' Returning to the boys in front of Fedya, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
 - 'What, did you really believe it?' Max checks candidly if there is more going on behind the scenes.
-- 'A strange guest out there ordered brains.' Max uses one telling word for Senya: "strannyy" means "strange, odd", and it carries the main weight of what Max is saying.
-- 'Do we have any fresh brains?' Max gives the comment in earnest: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'A strange guest out there ordered brains.' Touching on a strange guest at once, Max brings in "strannyy" ("strange, odd") to make the meaning unmistakable.
+- 'Do we have any fresh brains?' Dwelling on the brains during the talk, Max reaches for "u nas" ("by us, at our place") to talk about what they share.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That's it, I placed my bet.' Barinov replies dryly toward Elena, saying out loud what both of them already know.
-- 'Vitya, were you drinking all night?' Elena spotlights this clear word toward Ilya: "noch" means "night", and it carries the main weight of what Elena is saying.
-- 'I drank. I lost so much that I had to have a drink.' Barinov offers that answer right away: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'So you were gambling too?' Elena inquires evenly as Ilya tries to explain the situation.
-- 'Well, you are the one to blame for that.' Barinov stresses this sharp detail in reply: "vinovata" means "at fault, to blame" (from "vinovatyy"), giving the line its exact edge.
-- 'You gave me that wretched elephant.' Barinov responds earnestly in this moment, before Ilya can change the subject.
-- 'So I am to blame too?' Elena wonders plainly as Barinov tries to explain the situation.
-- 'Fine, when you come to your senses, we will talk.' Elena chooses one memorable expression in reply: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
-- 'Lena, well you aren't to blame, it's that elephant that I lost!' Barinov leans on this telling element on cue: "vinovata" means "at fault, to blame" (from "vinovatyy"), giving the line its exact edge.
-- 'What, did they rehire you? No, I came for my final pay.' Ilya wonders evenly as Elena tries to explain the situation.
-- 'Hello everyone! Don't you worry.' Ilya features one vivid word right here: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'Nagiyev has been eating Katya's molecular food for two days now.' Ilya cuts in boldly across the room, to clear the air between them once and for all.
+- 'That's it, I placed my bet.' Barinov counters dryly facing Elena, making his position completely clear.
+- 'Vitya, were you drinking all night?' Discussing the night to Barinov, Elena puts the emphasis on "noch" ("night") in the middle of the talk.
+- 'I drank. I lost so much that I had to have a drink.' Pressing on firmly in the exchange, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'So you were gambling too?' Elena inquires evenly whether Barinov really thought this through.
+- 'Well, you are the one to blame for that.' Barinov jumps in frankly in this beat and leans on "vinovata" ("at fault, to blame", a form of "vinovatyy") to give the remark its edge.
+- 'You gave me that wretched elephant.' Turning to the elephant around Elena, Barinov reaches for the Russian word "neschastnogo" ("wretched, unlucky", built from "neschastnyy") right at the center of the line.
+- 'So I am to blame too?' Elena wonders plainly about what Barinov just brought up.
+- 'Fine, when you come to your senses, we will talk.' Elena fires back smoothly to Barinov and reaches for the Russian word "pogovorim" ("we'll have a talk", built from "pogovorit") right at the center of the line.
+- 'Lena, well you aren't to blame, it's that elephant that I lost!' Barinov jumps in sharply during the talk, without trying to dress up how he really feels.
+- 'What, did they rehire you? No, I came for my final pay.' Ilya wonders evenly where this conversation is heading next.
+- 'Hello everyone! Don't you worry.' Ilya steps in directly on the spot and chooses "perezhivay" ("worry", from the root "perezhivat") so Barinov hears the exact meaning.
+- 'Nagiyev has been eating Katya's molecular food for two days now.' Emphasizing the chemicals at once, Ilya lands on "khimiyu" ("chemicals", built on "khimiya") to keep the statement grounded.

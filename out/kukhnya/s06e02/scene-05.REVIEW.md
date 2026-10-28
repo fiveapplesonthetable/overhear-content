@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I want to say something important.' Ainura delivers the thought to Lyova: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Did you kiss her?' Ainura asks bluntly whether Senya really thought this through.
-- 'No, I have not kissed her yet.' Lyova centers one direct piece at once: "tseloval" means "kissed" (from "tselovat"), giving the line its exact edge.
-- 'Do not worry, Lyova.' Ainura aims the reply before Senya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'You took her to the movies five times and did not kiss her?' Ainura challenges quietly what Lyova is actually getting at here.
-- 'Did she come to Moscow to watch movies?' Notice how Ainura reacts to Senya plainly here — the Russian word "priyekhala" ("came, arrived", built from "priyekhat") does the heavy lifting.
-- 'I do not know how it is customary in your country to court girls.' Lyova phrases that answer without fuss: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'In your country you first have to ask the parents for permission.' Lyova holds firm right away without a pause, bringing things back to earth after the buildup.
-- 'But that is back home, and here is another country.' Ainura points to one colorful choice on cue: "drugaya" means "different, other" (from "drugoy"), giving the line its exact edge.
-- 'Here with you anything is allowed.' Ainura shapes this statement to Senya: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'So, yes, I heard everything.' Senya stands firm dryly with a smile, keeping the focus on what actually matters here.
-- 'Sorry, somehow I could not hold back.' Senya colors one vivid detail right here: "uderzhatsya" means "to hold back", and it carries the main weight of what Senya is saying.
+- 'I want to say something important.' Holding firm quietly in front of Lyova, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Did you kiss her?' Ainura asks bluntly about what Lyova just brought up.
+- 'No, I have not kissed her yet.' Lyova proceeds sharply around Ainura and reaches for the Russian word "tseloval" ("kissed", built from "tselovat") right at the center of the line.
+- 'Do not worry, Lyova.' Opening up calmly with Lyova, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'You took her to the movies five times and did not kiss her?' Ainura challenges quietly how Lyova expects that to work in practice.
+- 'Did she come to Moscow to watch movies?' Discussing the cinema in front of Lyova, Ainura chooses "priyekhala" ("came, arrived", from the root "priyekhat") so Lyova hears the exact meaning.
+- 'I do not know how it is customary in your country to court girls.' Lyova continues warmly across the room, before Ainura can change the subject.
+- 'In your country you first have to ask the parents for permission.' Lyova responds right away without holding back, before Ainura can change the subject.
+- 'But that is back home, and here is another country.' Making clear how different things are with Lyova, Ainura uses "drugaya" ("different, other", from "drugoy") to make the point stick.
+- 'Here with you anything is allowed.' Turning candidly in front of Senya, Ainura leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'So, yes, I heard everything.' Senya proceeds dryly during the talk, steering the talk right where he wants it.
+- 'Sorry, somehow I could not hold back.' Senya speaks up briskly around Ainura and chooses "uderzhatsya" ("to hold back") so Ainura gets the point right away.

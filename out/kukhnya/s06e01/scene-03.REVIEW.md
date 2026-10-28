@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' Barinov questions quietly what the guest is actually getting at here.
-- 'My daughter is getting married.' The guest focuses on this vivid term with Barinov: "vykhodit" means "goes out", and it carries the main weight of what the guest is saying.
-- 'My presence is more than logical.' The guest voices this warning without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'She is not getting married in my office.' Barinov follows up lightly hearing the guest, leaving no doubt about where he stands.
-- 'Yes, of course.' The guest highlights this telling detail on cue: "konechno" means "of course", and it carries the main weight of what the guest is saying.
-- 'Do you have some business with me?' Barinov aims that point right away: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Or did you simply miss me?' Barinov probes earnestly how the guest expects that to work in practice.
-- 'In short, what do you need?' Barinov centers one vivid expression at once: "koroche" means "long story short", and it carries the main weight of what Barinov is saying.
-- 'I do not know whether you remember or not.' The guest chooses this direct choice at once: "pomnish" means "do you remember" (from "pomnit"), giving the line its exact edge.
-- 'In our family there is a tradition.' The guest speaks up steadily in their talk, keeping the focus on what actually matters here.
-- 'To make cookies from the family recipe.' The guest underscores this telling term in earnest: "semeynomu" means "family" (from "semeynyy"), giving the line its exact edge.
-- 'And I want the chefs to bake these cookies.' The guest stands firm right away on the spot, saying out loud what both of them already know.
+- 'What are you doing here?' Barinov questions quietly how the guest expects that to work in practice.
+- 'My daughter is getting married.' Underscoring his daughter during the talk, the guest brings in "vykhodit" ("goes out") to make the meaning unmistakable.
+- 'My presence is more than logical.' Mentioning his presence with Barinov, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'She is not getting married in my office.' Barinov opens up lightly with the guest, grounding the moment in plain reality.
+- 'Yes, of course.' The guest casually speaks this confirmation for Barinov using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Do you have some business with me?' Focusing on the matter beside the guest, Barinov keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.
+- 'Or did you simply miss me?' Barinov probes earnestly while looking straight at the guest here.
+- 'In short, what do you need?' Barinov jumps in candidly on the spot and uses "koroche" ("long story short") to carry the main weight of the thought.
+- 'I do not know whether you remember or not.' The guest chimes in boldly facing Barinov, keeping the focus on what actually matters here.
+- 'In our family there is a tradition.' The guest fires back steadily with a shrug, without trying to dress up how he really feels.
+- 'To make cookies from the family recipe.' Emphasizing the cookies in this beat, the guest chooses "semeynomu" ("family", from the root "semeynyy") so Barinov hears the exact meaning.
+- 'And I want the chefs to bake these cookies.' Focusing on the cookies at once, the guest leans on "pechenye" ("cookies, pastry") to give the whole sentence its punch.

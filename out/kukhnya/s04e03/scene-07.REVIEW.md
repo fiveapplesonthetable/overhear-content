@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can you imagine making me her sous-chef?' Barinov emphasizes one direct detail at once: "predstavlyayete" means "to imagine" (from "predstavlyat"), giving the line its exact edge.
-- 'You broke her heart.' Elena states that answer at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And this is her little feminine revenge.' Elena responds decisively as they talk, steering the talk right where she wants it.
-- 'Is she humiliating me because things didn't work out between us?' Barinov picks one colorful detail at once: "unizhayet" means "humiliates" (from "unizhat"), giving the line its exact edge.
-- 'Then I will work in such a way that she kicks me out herself.' Barinov answers right away beside Elena, testing Elena's reaction in the middle of the exchange.
-- 'Does that mean going back to prison?' Elena asks straight out before Barinov can change the subject.
-- 'You need her not to fire you, but to let you go.' Elena anchors one practical word on cue: "otpustila" means "to let go, to release" (from "otpustit"), giving the line its exact edge.
-- 'Of her own free will.' Elena aims that remark calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'You are not ironing, you are crumpling the jacket with the iron.' Elena speaks bluntly toward Barinov, without trying to dress up how she really feels.
-- 'What is wrong with you? Maybe a pill?' Elena grounds one vivid piece toward Barinov: "tabletku" means "pill" (from "tabletka"), giving the line its exact edge.
-- 'No, there are no pills for old age.' Barinov puts that reply toward Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I have grown completely old.' Barinov weighs in bluntly with Elena, bringing things back to earth after the buildup.
+- 'Can you imagine making me her sous-chef?' Barinov speaks promptly on the spot and brings in "predstavlyayete" ("to imagine", from "predstavlyat") as the key Russian word here.
+- 'You broke her heart.' Stepping in naturally with Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And this is her little feminine revenge.' Elena pushes back decisively watching Barinov, making her position completely clear.
+- 'Is she humiliating me because things didn't work out between us?' Barinov speaks up frankly on the spot and reaches for the Russian word "unizhayet" ("humiliates", built from "unizhat") right at the center of the line.
+- 'Then I will work in such a way that she kicks me out herself.' Barinov reacts warmly with Elena and brings in "rabotat" ("to work") to make the meaning unmistakable.
+- 'Does that mean going back to prison?' Elena asks straight out why things suddenly took this turn between them.
+- 'You need her not to fire you, but to let you go.' Elena opens up vividly right here and centers the thought on "otpustila" ("to let go, to release", from "otpustit") without wasting a word.
+- 'Of her own free will.' Weighing in briskly to Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'You are not ironing, you are crumpling the jacket with the iron.' Elena fires back bluntly on the spot, refusing to let the moment slip past.
+- 'What is wrong with you? Maybe a pill?' Discussing a pill on the spot, Elena uses "tabletku" ("pill", from "tabletka") to make the point stick.
+- 'No, there are no pills for old age.' Turning to the old age to Elena, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I have grown completely old.' Barinov steps in bluntly around Elena, shifting the mood of the conversation in a single beat.

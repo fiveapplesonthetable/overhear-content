@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Then all the guys will only be glad.' Kostya pushes back bluntly during the talk, to clear the air between them once and for all.
-- 'And at the same time you will talk calmly with Katya.' Kostya anchors one practical choice for the guest: "pogovorish" means "will talk" (from "pogovorit"), giving the line its exact edge.
-- 'Guys, I just wanted to say to you.' Kostya offers the reaction before Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'It is always very hard to part with people.' Kostya speaks up dryly beside the guest, so the guest knows he is not just making small talk.
-- 'Today you are losing a truly good friend.' Kostya underscores one direct word right here: "deystvitelno" means "really, indeed", and it carries the main weight of what Kostya is saying.
-- 'But today I am losing a little bit more.' Kostya stands firm wryly without any doubt, testing the guest's reaction in the middle of the exchange.
-- 'Tell me, does anyone need a free room right now?' Kostya presses bluntly as Barinov tries to explain the situation.
-- 'I am also putting everything on the table.' Hear how Barinov reassures Kostya without pause — the Russian word "stavlyu" ("put", built from "stavit") does the heavy lifting.
-- 'And I am doubling our bet right now.' The guest speaks up sharply with a smile, testing Barinov's reaction in the middle of the exchange.
-- 'And I, perhaps, will easily call the bet.' Barinov follows up decisively with a nod, letting the remark speak for itself.
-- 'I will add the money later if needed.' Barinov focuses on one colorful word in reply: "neobkhodimosti" means "necessity" (from "neobkhodimost"), giving the line its exact edge.
-- 'Well then, gentlemen, do we show our cards now?' The guest aims the comment beside Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Then all the guys will only be glad.' Kostya reacts bluntly on the spot, grounding the moment in plain reality.
+- 'And at the same time you will talk calmly with Katya.' Kostya counters plainly right here and centers the thought on "pogovorish" ("will talk", from "pogovorit") without wasting a word.
+- 'Guys, I just wanted to say to you.' Mentioning the boys right here, Kostya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'It is always very hard to part with people.' Kostya counters dryly with a smile, watching Barinov's face to see how the news lands.
+- 'Today you are losing a truly good friend.' Explaining how good Barinov is on the spot, Kostya brings in "khoroshego" ("good, the best", from "khoroshiy") as the key Russian word here.
+- 'But today I am losing a little bit more.' Kostya counters vividly to Barinov and puts the emphasis on "segodnya" ("today") in the middle of the talk.
+- 'Tell me, does anyone need a free room right now?' Kostya presses bluntly before Barinov can change the subject.
+- 'I am also putting everything on the table.' Underscoring the table at once, Barinov reaches for the Russian word "stavlyu" ("put", built from "stavit") right at the center of the line.
+- 'And I am doubling our bet right now.' Bringing up his bet in front of Barinov, the guest brings in "udvaivayu" ("double", from "udvaivat") as the key Russian word here.
+- 'And I, perhaps, will easily call the bet.' Barinov cuts in decisively with the guest, shifting the mood of the conversation in a single beat.
+- 'I will add the money later if needed.' Highlighting the necessity with the guest, Barinov centers the thought on "neobkhodimosti" ("necessity", from "neobkhodimost") without wasting a word.
+- 'Well then, gentlemen, do we show our cards now?' Returning to the gentlemen during the talk, the guest puts the question word "chto" right at the start so Barinov hears the focus immediately.

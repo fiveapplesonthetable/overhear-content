@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I see that the horse is not purebred.' Kostya jumps in plainly with a nod, grounding the moment in plain reality.
-- 'His dad is of one breed.' Kostya points to one sharp word toward Katya: "porody" means "breed" (from "poroda"), giving the line its exact edge.
-- 'Katyusha, may I come in to see you?' Elena offers the comeback on cue: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'You did not have any money, though.' Katya answers bluntly with a nod, saying out loud what both of them already know.
-- 'Gifts from Nagiyev remained with me.' Elena sharpens one clear touch right here: "podarki" means "presents" (from "podarok"), giving the line its exact edge.
-- 'One ex-husband helped another.' Elena reacts candidly to settle things, shifting the whole mood of the room in a single beat.
-- 'Thank you very much for the help.' Katya replies steadily with a nod, so Elena knows she is not just making small talk.
-- 'Wait, I did not come alone.' Elena centers one sharp term right here: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'We chipped in here as a whole team.' Kostya counters warmly with a nod, letting the remark speak for itself.
-- 'Everyone gave as much as they could.' Kostya chimes in wryly in this moment, letting the remark speak for itself.
-- 'It did not come out to very much.' Kostya centers this telling expression for Elena: "vyshlo" means "happened, came about" (from "vyyti"), giving the line its exact edge.
-- 'Everyone simply wanted very much to help.' Kostya shapes this update facing Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I see that the horse is not purebred.' Kostya counters plainly with a smile, before Elena can change the subject.
+- 'His dad is of one breed.' Focusing on the breed at once, Kostya centers the thought on "porody" ("breed", from "poroda") without wasting a word.
+- 'Katyusha, may I come in to see you?' Touching on the eat at once, Elena leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'You did not have any money, though.' Katya follows up bluntly facing Elena, so Elena knows she is not just making small talk.
+- 'Gifts from Nagiyev remained with me.' Underscoring the presents in this beat, Elena lands on "podarki" ("presents", built on "podarok") to keep the statement grounded.
+- 'One ex-husband helped another.' Highlighting the husband during the talk, Elena reaches for the Russian word "muzh" ("husband") right at the heart of the line.
+- 'Thank you very much for the help.' Katya quietly sends this word of thanks in one quick breath using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Wait, I did not come alone.' Elena counters openly to Katya and chooses "podozhdi" ("wait", from the root "podozhdat") so Katya hears the exact meaning.
+- 'We chipped in here as a whole team.' Underscoring a whole team in front of Elena, Kostya brings in "komandoy" ("team", from "komanda") as the key Russian word here.
+- 'Everyone gave as much as they could.' Kostya opens up wryly without holding back, leaving no doubt about where he stands.
+- 'It did not come out to very much.' Kostya replies candidly beside Elena and leans on "vyshlo" ("happened, came about", a form of "vyyti") to give the remark its edge.
+- 'Everyone simply wanted very much to help.' Opening up firmly during the talk, Kostya uses the little word "prosto" ("simply, just") to make the point sound effortless.

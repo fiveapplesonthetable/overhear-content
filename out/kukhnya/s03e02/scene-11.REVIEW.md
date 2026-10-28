@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Whoa, vegetarian! Are you even aware that this thing is made of meat?' Nastya sends that point around Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Kristina, I don't care whether you have the best lawyer or not.' Nagiyev chimes in candidly as things stand, steering the talk right where he wants it.
-- 'If you talk like that, you will get nothing at all.' Nagiyev underscores one direct expression in earnest: "razgovarivat" means "to talk, to speak", and it carries the main weight of what Nagiyev is saying.
-- 'Bon appetit.' Barinov makes that point with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'It infuriated me!' Nagiyev reacts openly before Barinov, saying out loud what both of them already know.
-- 'This is not that dish.' Nagiyev favors one telling element with Nastya: "blyudo" means "dish", and it carries the main weight of what Nagiyev is saying.
-- 'How is it not that one? It is the exact same thing.' Barinov gives the comment frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'No, Vitya, not that dish.' Nagiyev weighs in boldly without a pause, testing Nastya's reaction in the middle of the exchange.
-- 'There the taste was so tart, pleasant, natural.' Nagiyev centers this clear choice at once: "priyatnyy" means "nice, pleasant", and it carries the main weight of what Nagiyev is saying.
-- 'Have them redo this, guys, okay?' Nagiyev directs this line right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'We cannot redo this.' Barinov counters sharply on the spot, bringing things back to earth after the buildup.
-- 'One very important ingredient is missing.' Barinov stresses one clear piece for Nastya: "ingrediyenta" means "ingredient" (from "ingrediyent"), giving the line its exact edge.
+- 'Whoa, vegetarian! Are you even aware that this thing is made of meat?' Bringing up the vegetarian in this beat, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Kristina, I don't care whether you have the best lawyer or not.' Nagiyev cuts in candidly with a smile, grounding the moment in plain reality.
+- 'If you talk like that, you will get nothing at all.' Nagiyev pushes back dryly on the spot and centers the remark on "razgovarivat" ("to talk, to speak") without any extra fuss.
+- 'Bon appetit.' Returning to the appetite around Nagiyev, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'It infuriated me!' Nagiyev opens up openly without holding back, to clear the air between them once and for all.
+- 'This is not that dish.' Talking about the dish at once, Nagiyev centers the remark on "blyudo" ("dish") without any extra fuss.
+- 'How is it not that one? It is the exact same thing.' Holding firm smoothly around Nagiyev, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'No, Vitya, not that dish.' Nagiyev fires back boldly without holding back, grounding the moment in plain reality.
+- 'There the taste was so tart, pleasant, natural.' Highlighting the taste in front of Barinov, Nagiyev brings in "priyatnyy" ("nice, pleasant") to make the meaning unmistakable.
+- 'Have them redo this, guys, okay?' Checking on the boys during the talk, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'We cannot redo this.' Barinov jumps in sharply during the talk, so Nagiyev knows he is not just making small talk.
+- 'One very important ingredient is missing.' Touching on the ingredient in the exchange, Barinov puts the weight on "ingrediyenta" ("ingredient", from "ingrediyent") as the exchange unfolds.

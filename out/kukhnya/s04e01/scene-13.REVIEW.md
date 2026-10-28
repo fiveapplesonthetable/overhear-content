@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, aren't you at a shoot today?' Vika highlights one telling expression right here: "syomkakh" means "day" (from "syomk"), giving the line its exact edge.
-- 'Thank goodness, it was canceled.' Nagiyev frames this update calmly now: the "-sya" ending on "otmenilis" ("to canceled") turns the action inward or makes it happen between people naturally.
-- 'Is Vitya in his kitchen?' Nagiyev quizzes eagerly to see how Barinov will answer on the spot.
-- 'Yes, he was there.' Vika sends that reply without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Go tell him that my producer is already here.' Nagiyev opens up briskly with a nod, so Barinov knows he is not just making small talk.
-- 'Let him bring out his cooking.' Nagiyev speaks dryly on the spot, letting the remark speak for itself.
-- 'Enjoy your meal.' Barinov anchors one clear term right here: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
-- 'Stop right there!' Vika delivers this warning before Nagiyev: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'Now it is filmed. Excellent.' Vika continues honestly across the room, without trying to dress up how she really feels.
-- 'Thank you. Thank you very much.' Barinov colors one vivid touch right here: "ogromnoye" means "huge, so very much" (from "ogromnyy"), giving the line its exact edge.
-- 'Dmitry Vladimirovich has just arrived.' Vika hands over that line without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'He said the producer is at his table and you can serve the dishes.' Nagiyev counters briskly before Vika, to clear the air between them once and for all.
+- 'Dmitry Vladimirovich, aren't you at a shoot today?' Touching on the day to Nagiyev, Vika lands on "syomkakh" ("day", built on "syomk") to keep the statement grounded.
+- 'Thank goodness, it was canceled.' Returning to the glory during the talk, the "-sya" ending on "otmenilis" ("to canceled") marks an action that unfolds mutually or turns back on the speaker.
+- 'Is Vitya in his kitchen?' Nagiyev quizzes eagerly while looking straight at Vika here.
+- 'Yes, he was there.' Vika firmly voices this direct affirmation beside Nagiyev using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'Go tell him that my producer is already here.' Emphasizing his producer in the exchange, Nagiyev leans on "prodyuser" ("producer") to give the whole sentence its punch.
+- 'Let him bring out his cooking.' Nagiyev replies dryly with Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Enjoy your meal.' Emphasizing the appetite in the exchange, Barinov lands on "priyatnogo" ("pleasant", built on "priyatnyy") to keep the statement grounded.
+- 'Stop right there!' Holding firm directly around Barinov, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'Now it is filmed. Excellent.' Vika pushes back honestly across the room, without trying to dress up how she really feels.
+- 'Thank you. Thank you very much.' Barinov casually shares this word of thanks for Vika using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Dmitry Vladimirovich has just arrived.' Holding firm frankly before Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'He said the producer is at his table and you can serve the dishes.' Nagiyev proceeds briskly on the spot, steering the talk right where he wants it.

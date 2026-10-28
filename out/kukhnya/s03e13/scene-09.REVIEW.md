@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, my dear Vika!' Nagiyev answers quietly with a sigh, leaving no doubt about where he stands.
-- 'Hi, and where did the sofa go?' Vika favors one telling term right here: "divan" means "sofa, couch", and it carries the main weight of what Vika is saying.
-- 'I accidentally burned through it yesterday.' Nagiyev opens up at once with a smile, bringing things back to earth after the buildup.
-- 'What did you burn it with like that?' Vika tests eagerly if there is more going on behind the scenes.
-- 'First I burned it with a cigarette butt, and then poured wine over it.' Nagiyev centers this key choice on cue: "okurkom" means "with a cigarette butt" (from "okurok"), giving the line its exact edge.
-- 'I am sitting here wondering where I should sleep.' Nagiyev offers that line facing Vika: putting the question word "gde" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'There is nowhere to sleep in the living room now.' Nagiyev jumps in plainly without holding back, making his position completely clear.
-- 'I am not a dog on the floor, after all.' Nagiyev favors one sharp detail in earnest: "sobaka" means "dog", and it carries the main weight of what Nagiyev is saying.
-- 'A lonely samurai wants to sleep beside you.' Nagiyev speaks sharply facing Vika, shifting the whole mood of the room in a single beat.
-- 'I will not make a move without permission.' Nagiyev speaks up frankly without any doubt, keeping the focus on what actually matters here.
-- 'Dima, do you want children?' Vika colors this sharp choice on cue: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'What, you want them right now?' Nagiyev gives that reply frankly here: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'No, of course, after the wedding.' Vika responds calmly watching Nagiyev, leaving no doubt about where she stands.
+- 'Hello, my dear Vika!' Nagiyev briskly offers this casual greeting as they meet using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Hi, and where did the sofa go?' Vika openly offers this casual greeting with Nagiyev using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'I accidentally burned through it yesterday.' Nagiyev responds openly around Vika and puts the emphasis on "sluchayno" ("by any chance") in the middle of the talk.
+- 'What did you burn it with like that?' Vika tests eagerly while looking straight at Nagiyev here.
+- 'First I burned it with a cigarette butt, and then poured wine over it.' Turning to a cigarette butt with Vika, Nagiyev reaches for the Russian word "okurkom" ("with a cigarette butt", built from "okurok") right at the center of the line.
+- 'I am sitting here wondering where I should sleep.' Pressing on briskly before Vika, Nagiyev puts the question word "gde" right at the start so Vika hears the focus immediately.
+- 'There is nowhere to sleep in the living room now.' Nagiyev fires back plainly across the room, to clear the air between them once and for all.
+- 'I am not a dog on the floor, after all.' Addressing a dog to Vika, Nagiyev lands on "sobaka" ("dog") as the key everyday word here.
+- 'A lonely samurai wants to sleep beside you.' Emphasizing a lonely samurai to Vika, Nagiyev uses "odinokiy" ("lonely, all alone") to carry the main weight of the thought.
+- 'I will not make a move without permission.' Nagiyev speaks up frankly without a pause, refusing to let the moment slip past.
+- 'Dima, do you want children?' Focusing on the children in this beat, Vika centers the thought on "khochesh" ("do you want", from "khotet") without wasting a word.
+- 'What, you want them right now?' Pushing back directly at once, Nagiyev puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'No, of course, after the wedding.' Vika directly delivers this confirmation toward Nagiyev using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".

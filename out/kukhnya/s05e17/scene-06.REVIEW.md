@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The oven in my kitchen is acting up.' Barinov speaks bluntly with a nod, to clear the air between them once and for all.
-- 'I am afraid they slipped us a defective one.' Barinov favors this sharp piece toward Mikhail: "brakovannuyu" means "defective" (from "brakovannyy"), giving the line its exact edge.
-- 'Alright, when you find Misha, tell him.' Eleonora states the remark on cue: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Fine, I will go and be sure to tell him.' Barinov holds firm sharply in their talk, before Mikhail can change the subject.
-- 'Why is that guy so cheerful?' Mikhail features one concrete element toward Barinov: "radostnyy" means "happy, joyful", and it carries the main weight of what Mikhail is saying.
-- 'His head has been hurting for a long time.' Barinov pushes back frankly to settle things, shifting the whole mood of the room in a single beat.
-- 'Let me go to him right now!' Mikhail responds promptly with a shrug, watching Barinov's face to see how the news lands.
-- 'Come on, Mishanya, the odds are too uneven.' Barinov stresses one clear element on cue: "mishanya" means "Mishanya", and it carries the main weight of what Barinov is saying.
-- 'He is sober, and you need to sleep it off.' Barinov puts the comment beside Eleonora: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Do you have anything to drink here?' Mikhail quizzes eagerly what Eleonora is actually getting at here.
-- 'I have a couch, lie down.' Barinov emphasizes one sharp detail at once: "divan" means "sofa, couch", and it carries the main weight of what Barinov is saying.
-- 'Go on and rest, and I will bring it.' Barinov brings this warning calmly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'The oven in my kitchen is acting up.' Barinov replies bluntly without any doubt, bringing things back to earth after the buildup.
+- 'I am afraid they slipped us a defective one.' Emphasizing how defective he is in this beat, Barinov brings in "brakovannuyu" ("defective", from "brakovannyy") as the key Russian word here.
+- 'Alright, when you find Misha, tell him.' Eleonora counters firmly before Barinov and brings in "khorosho" ("good, fine") to make the meaning unmistakable.
+- 'Fine, I will go and be sure to tell him.' Barinov openly drops this word of agreement at this moment using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Why is that guy so cheerful?' Highlighting how happy things are before Barinov, Mikhail lands on "radostnyy" ("happy, joyful") as the key everyday word here.
+- 'His head has been hurting for a long time.' Focusing on the head right here, Barinov lands on "golova" ("head") as the key everyday word here.
+- 'Let me go to him right now!' Mikhail follows up promptly around Barinov, bringing things back to earth after the buildup.
+- 'Come on, Mishanya, the odds are too uneven.' Barinov plainly directs this word of agreement in the exchange using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'He is sober, and you need to sleep it off.' Insisting on how sober he is during the talk, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Do you have anything to drink here?' Mikhail chimes in briskly on the spot, keeping the focus on what actually matters here.
+- 'I have a couch, lie down.' Underscoring the sofa in front of Mikhail, Barinov centers the remark on "divan" ("sofa, couch") without any extra fuss.
+- 'Go on and rest, and I will bring it.' Holding firm promptly in this beat, Barinov starts with "davay" ("come on, let's") to invite Mikhail right into the action.

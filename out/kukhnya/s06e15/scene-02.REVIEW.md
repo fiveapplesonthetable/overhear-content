@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, did you dislike something?' Lyova shapes the comeback around the guest: the "-sya" ending on "ponravilos" ("pleased, was liked") turns the action inward or makes it happen between people naturally.
-- 'On the contrary, I decided to thank you personally.' The guest reacts evenly during the talk, before Lyova can change the subject.
-- 'Thank you for the wonderful dish from the chef.' The guest uses one telling choice in earnest: "prekrasnoye" means "wonderful, fine" (from "prekrasnyy"), giving the line its exact edge.
-- 'Honestly speaking, today it is from the sous-chef.' Lyova cuts in calmly with a sigh, saying out loud what both of them already know.
-- 'I know very well who you are.' The guest steps in warmly around Lyova, making his position completely clear.
-- 'Most likely, you have already heard about me.' The guest anchors one classic expression for Lyova: "slyshali" means "did you hear" (from "slyshat"), giving the line its exact edge.
-- 'I am launching an interesting new project.' The guest stands firm sharply with Lyova, grounding the moment in plain reality.
-- 'I want to invite you to work for me.' The guest cuts in quietly with a nod, grounding the moment in plain reality.
-- 'To work as head chef, I do not know.' Lyova colors this vivid choice for the guest: "shef-povarom" means "head chef" (from "shef-povar"), giving the line its exact edge.
-- 'You do not need to know, you just need to think.' The guest phrases the comment at once: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I will give you my business card right now.' The guest opens up at once watching Lyova, keeping the focus on what actually matters here.
-- 'Think it over well and call me tomorrow.' The guest centers this clear word on cue: "khoroshenko" means "properly, thoroughly", and it carries the main weight of what the guest is saying.
+- 'Good evening, did you dislike something?' Holding firm naturally to the guest, the "-sya" ending on "ponravilos" ("pleased, was liked") marks an action that unfolds mutually or turns back on the speaker.
+- 'On the contrary, I decided to thank you personally.' The guest answers evenly on the spot, keeping the focus on what actually matters here.
+- 'Thank you for the wonderful dish from the chef.' Mentioning the thank at once, the guest brings in "prekrasnoye" ("wonderful, fine", from "prekrasnyy") as the key Russian word here.
+- 'Honestly speaking, today it is from the sous-chef.' Lyova fires back decisively right here and centers the thought on "su-shefa" ("sous-chef", from "su-shef") without wasting a word.
+- 'I know very well who you are.' The guest speaks warmly watching Lyova, so Lyova knows he is not just making small talk.
+- 'Most likely, you have already heard about me.' The guest proceeds decisively in this beat and uses "slyshali" ("did you hear", from "slyshat") to make the point stick.
+- 'I am launching an interesting new project.' Showing how interesting he is around Lyova, the guest brings in "interesnyy" ("interesting") to make the meaning unmistakable.
+- 'I want to invite you to work for me.' The guest responds quietly without any doubt, steering the talk right where he wants it.
+- 'To work as head chef, I do not know.' Focusing on the head before the guest, Lyova reaches for the Russian word "shef-povarom" ("head chef", built from "shef-povar") right at the center of the line.
+- 'You do not need to know, you just need to think.' Answering warmly on the spot, the guest uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I will give you my business card right now.' The guest cuts in at once during the talk, watching Lyova's face to see how the news lands.
+- 'Think it over well and call me tomorrow.' The guest opens up smoothly in front of Lyova and brings in "khoroshenko" ("properly, thoroughly") to make the meaning unmistakable.

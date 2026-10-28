@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to solve our delicate problem.' Eleonora gives the reaction toward Denis: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'I need to talk to Katya.' Denis pushes back lightly in their talk, watching Eleonora's face to see how the news lands.
-- 'Have you completely lost your mind?' Eleonora frames this sharp touch toward Denis: "soshyol" means "gone" (from "soyti"), giving the line its exact edge.
-- 'Alright, good, I understood.' Eleonora directs the comment without fuss: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Denis is on board.
-- 'And I kiss you too.' Eleonora proceeds dryly beside Denis, grounding the moment in plain reality.
-- 'Katya is leaving for another city today.' Eleonora sharpens one pointed touch right here: "uyezzhayet" means "is leaving" (from "uyezzhat"), giving the line its exact edge.
-- 'You will have to disappear from the hotel.' Eleonora highlights one telling piece for Denis: "dolzhen" means "has to, must", and it carries the main weight of what Eleonora is saying.
-- 'And even better, from this city.' Eleonora continues promptly watching Denis, refusing to let the moment slip past.
-- 'I am giving you twenty thousand.' Eleonora chooses this sharp detail with Denis: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
-- 'Will that amount suit you?' Eleonora phrases that remark on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'No, I am going back to work.' Denis holds firm steadily on the spot, refusing to let the moment slip past.
-- 'Then do not be in a hurry.' Eleonora features one sharp touch toward Denis: "toropis" means "rush" (from "toropitsya"), giving the line its exact edge.
-- 'As of today, you are fired.' Eleonora sharpens this telling element on cue: "uvolen" means "fired" (from "uvolit"), giving the line its exact edge.
+- 'We need to solve our delicate problem.' Dwelling on the problem beside Denis, Eleonora leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'I need to talk to Katya.' Denis reacts lightly with a smile, refusing to let the moment slip past.
+- 'Have you completely lost your mind?' Bringing up the mind in this beat, Eleonora centers the thought on "soshyol" ("gone", from "soyti") without wasting a word.
+- 'Alright, good, I understood.' Eleonora naturally speaks this word of agreement in one quick breath using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'And I kiss you too.' Eleonora steps in dryly without holding back, watching Denis's face to see how the news lands.
+- 'Katya is leaving for another city today.' Turning to the town in the exchange, Eleonora puts the weight on "uyezzhayet" ("is leaving", from "uyezzhat") as the exchange unfolds.
+- 'You will have to disappear from the hotel.' Eleonora continues warmly with a sigh, leaving no doubt about where she stands.
+- 'And even better, from this city.' Touching on the town without a pause, Eleonora sets the direction for the rest of the talk with Denis.
+- 'I am giving you twenty thousand.' Addressing the thousand in the exchange, Eleonora uses "tysyach" ("thousand", from "tysyacha") to make the point stick.
+- 'Will that amount suit you?' Turning readily beside Denis, Eleonora keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'No, I am going back to work.' Denis follows up steadily around Eleonora, keeping the focus on what actually matters here.
+- 'Then do not be in a hurry.' Eleonora continues openly to Denis and leans on "toropis" ("rush", a form of "toropitsya") to give the remark its edge.
+- 'As of today, you are fired.' Eleonora jumps in boldly without a pause, making her position completely clear.

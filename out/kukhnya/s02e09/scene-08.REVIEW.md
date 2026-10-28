@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, have you seen the Chef?' Max shares this point around Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'He said he would be back in half an hour.' Barinov answers promptly facing Max, watching Max's face to see how the news lands.
-- 'I will strangle you, Max.' Barinov features one concrete choice with Max: "udavlyu" means "to strangle" (from "udavit"), giving the line its exact edge.
-- 'Stop overthinking everything.' Barinov delivers this answer for Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'What are you doing in here?' Max tests evenly to see how Barinov will answer on the spot.
-- 'I came by to ask about my salary.' Barinov points to one direct term on cue: "zarplaty" means "salaries" (from "zarplata"), giving the line its exact edge.
-- 'By the way, you are not going to give me a raise, are you?' Max makes the comment without fuss: opening with "kstati" ("by the way") lets Max drop a new detail into the conversation as if it just crossed his mind.
-- 'And rightly so, I have not earned it.' Barinov weighs in wryly hearing Max, bringing things back to earth after the buildup.
-- 'No. And rightly so.' Max focuses on this vivid term in reply: "pravilno" means "right", and it carries the main weight of what Max is saying.
-- 'Until I find out the answer.' Barinov brings that reply for Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'There is no point in continuing to breathe.' Max counters wryly as things stand, to clear the air between them once and for all.
-- 'Postscript.' Barinov frames one pointed touch in reply: "skriptum" means "postscript" (from "postskriptum"), giving the line its exact edge.
-- 'Bon appetit.' Max hands over that point before Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Oh, have you seen the Chef?' Opening up plainly beside Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'He said he would be back in half an hour.' Barinov reacts promptly beside Max, before Max can change the subject.
+- 'I will strangle you, Max.' Barinov continues readily before Max and chooses "udavlyu" ("to strangle", from the root "udavit") so Max hears the exact meaning.
+- 'Stop overthinking everything.' Talking about the one head before Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'What are you doing in here?' Max tests evenly if there is more going on behind the scenes.
+- 'I came by to ask about my salary.' Pointing to the salaries with Max, Barinov puts the weight on "zarplaty" ("salaries", from "zarplata") as the exchange unfolds.
+- 'By the way, you are not going to give me a raise, are you?' Pushing back calmly in this beat, Max opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'And rightly so, I have not earned it.' Barinov proceeds wryly around Max, without trying to dress up how he really feels.
+- 'No. And rightly so.' Max replies sharply during the talk and lands on "pravilno" ("right") as the key everyday word here.
+- 'Until I find out the answer.' Barinov firmly offers this casual farewell at this moment using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'There is no point in continuing to breathe.' Max steps in wryly with a sigh, watching Barinov's face to see how the news lands.
+- 'Postscript.' Bringing up the postscript in the exchange, Barinov chooses "skriptum" ("postscript", from the root "postskriptum") so Max hears the exact meaning.
+- 'Bon appetit.' Mentioning the appetite in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

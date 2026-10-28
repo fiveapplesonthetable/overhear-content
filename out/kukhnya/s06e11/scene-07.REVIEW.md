@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, listen, your name is Denis, right?' The guest sharpens one familiar touch toward Denis: "poslushay" means "listen" (from "poslushat"), giving the line its exact edge.
-- 'Yes, that is me, and what do you need?' Denis hands over that answer in earnest: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Hi, Sveta, where did you disappear to last night?' The guest inquires earnestly why things suddenly took this turn between them.
-- 'My stomach hurt, and I went home.' Sveta spotlights one direct term for the guest: "zhivot" means "belly", and it carries the main weight of what Sveta is saying.
-- 'And why are you not answering the phone all day?' The guest lays out this line for Denis: putting the question word "pochemu" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'Guys, help quickly, they are fighting out here in the courtyard!' Denis holds firm briskly on the spot, saying out loud what both of them already know.
-- 'Alright, we calmed down, I gave you a serious warning.' The guest uses one clear word in earnest: "predupredil" means "warned" (from "predupredit"), giving the line its exact edge.
-- 'Make sure I do not see you with her again!' The guest colors this key choice in reply: "smotri" means "look" (from "smotret"), giving the line its exact edge.
-- 'Sveta, tell me, who on earth was that just now?' Denis quizzes firmly why things suddenly took this turn between them.
-- 'Sorry, Denis, that was my ex-boyfriend.' Sveta anchors one direct choice toward the guest: "paren" means "boyfriend", and it carries the main weight of what Sveta is saying.
-- 'How do you feel, my poor defender?' Sveta brings the comeback without fuss: putting the question word "kak" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'Everything is fine with me, it is nothing serious.' Denis chimes in earnestly around Sveta, making his position completely clear.
-- 'Can you imagine, nobody has ever fought over me before!' Sveta uses this clear term toward Denis: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'Hey, listen, your name is Denis, right?' The guest responds pointedly on the spot and brings in "poslushay" ("listen", from "poslushat") as the key Russian word here.
+- 'Yes, that is me, and what do you need?' Following up boldly beside the guest, Denis leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Hi, Sveta, where did you disappear to last night?' The guest inquires earnestly before Sveta can change the subject.
+- 'My stomach hurt, and I went home.' Discussing the belly on the spot, Sveta uses "zhivot" ("belly") to carry the main weight of the thought.
+- 'And why are you not answering the phone all day?' Stressing how whole things are around Denis, the guest puts the question word "pochemu" right at the start so Denis hears the focus immediately.
+- 'Guys, help quickly, they are fighting out here in the courtyard!' Denis responds briskly with a shrug, steering the talk right where he wants it.
+- 'Alright, we calmed down, I gave you a serious warning.' The guest opens up candidly in the exchange and lands on "predupredil" ("warned", built on "predupredit") to keep the statement grounded.
+- 'Make sure I do not see you with her again!' The guest responds decisively without any doubt, refusing to let the moment slip past.
+- 'Sveta, tell me, who on earth was that just now?' Denis quizzes firmly about what Sveta just brought up.
+- 'Sorry, Denis, that was my ex-boyfriend.' Pointing to the boyfriend around Denis, Sveta chooses "paren" ("boyfriend") so Denis gets the point right away.
+- 'How do you feel, my poor defender?' Leaning in calmly right here, Sveta puts the question word "kak" right at the start so Denis hears the focus immediately.
+- 'Everything is fine with me, it is nothing serious.' Denis answers earnestly around Sveta, steering the talk right where he wants it.
+- 'Can you imagine, nobody has ever fought over me before!' Sveta answers sharply at once and leans on "predstavlyayesh" ("can you imagine", a form of "predstavlyat") to give the remark its edge.

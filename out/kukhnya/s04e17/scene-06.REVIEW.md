@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, did you call for me?' Denis probes wryly about what Nagiyev just brought up.
-- 'I adore all this music.' Nagiyev colors one vivid term in earnest: "obozhayu" means "adore" (from "obozhat"), giving the line its exact edge.
-- 'Only I do not know how to play at all.' Nagiyev offers the comment to Denis: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'I used to know how, but I already forgot.' Nagiyev holds firm pointedly in their talk, keeping the focus on what actually matters here.
-- 'Can you teach me quickly?' Nagiyev grounds one sharp choice right here: "mozhesh" means "can" (from "moch"), giving the line its exact edge.
-- 'Well, theoretically in about four months.' Denis stands firm firmly without any doubt, to clear the air between them once and for all.
-- 'I need it by the evening after tomorrow.' Nagiyev cuts in lightly beside Denis, keeping the focus on what actually matters here.
-- 'I have a date with a certain pianist.' Nagiyev frames one key choice for Denis: "pianistkoy" means "pianist", and it carries the main weight of what Nagiyev is saying.
-- 'Maybe you should hire a tutor instead?' Denis phrases this line frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'Well, you simply have no choice.' Nagiyev counters openly with a shrug, before Denis can change the subject.
-- 'Either you will teach me right now.' Nagiyev frames one memorable choice with Denis: "nauchish" means "to teach" (from "nauchit"), giving the line its exact edge.
-- 'All right, I already caught the scale.' Denis voices the thought with warmth: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Dmitry Vladimirovich, did you call for me?' Denis probes wryly where this conversation is heading next.
+- 'I adore all this music.' Focusing on the music around Denis, Nagiyev uses "muzyku" ("music", from "muzyka") to make the point stick.
+- 'Only I do not know how to play at all.' Replying candidly before Denis, Nagiyev adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'I used to know how, but I already forgot.' Nagiyev reacts pointedly toward Denis, so Denis knows he is not just making small talk.
+- 'Can you teach me quickly?' Nagiyev counters firmly to Denis and reaches for the Russian word "nauchit" ("to teach") right at the heart of the line.
+- 'Well, theoretically in about four months.' Bringing up the months in front of Nagiyev, Denis reaches for the Russian word "mesyatsa" ("months", built from "mesyats") right at the center of the line.
+- 'I need it by the evening after tomorrow.' Nagiyev follows up lightly facing Denis, shifting the mood of the conversation in a single beat.
+- 'I have a date with a certain pianist.' Touching on a date before Denis, Nagiyev puts the emphasis on "pianistkoy" ("pianist") in the middle of the talk.
+- 'Maybe you should hire a tutor instead?' Opening up calmly before Nagiyev, Denis keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Well, you simply have no choice.' Nagiyev steps in openly during the talk, grounding the moment in plain reality.
+- 'Either you will teach me right now.' Nagiyev chimes in quietly at once and lands on "nauchish" ("to teach", built on "nauchit") to keep the statement grounded.
+- 'All right, I already caught the scale.' Touching on the right with Nagiyev, Denis leans on "khorosho" ("good, fine") to give the whole sentence its punch.

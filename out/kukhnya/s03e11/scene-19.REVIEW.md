@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya made a mistake when she quit her studies.' Barinov features one sharp expression for Katya: "oshibku" means "mistake" (from "oshibka"), giving the line its exact edge.
-- 'She needs to return to Paris and study.' Barinov states the comment with ease: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Everything in life must be done on time.' Barinov proceeds sharply in this moment, steering the talk right where he wants it.
-- 'And now she will soon get married.' Barinov underscores one loaded detail in reply: "vyydet" means "will come out" (from "vyyti"), giving the line its exact edge.
-- 'Dad, forgive me, I am not expecting a baby.' Katya makes that answer at once: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'I was simply very afraid to tell you the truth.' Katya steps in candidly with Max, watching Max's face to see how the news lands.
-- 'And there was nothing between Max and me.' Katya gives this update with warmth: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Finally at least one piece of good news today!' Barinov chimes in boldly as things stand, keeping the focus on what actually matters here.
-- 'This is simply a real holiday for me, friend!' Barinov opens up at once beside Katya, without trying to dress up how he really feels.
-- 'Chef, may we come in to see you?' Max reaches for this vivid term right here: "mozhno" means "may, can", and it carries the main weight of what Max is saying.
-- 'Katya and I are having a wedding soon after all!' Max sends the remark for Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'It is time for you to meet my beloved mom.' Max responds plainly without any doubt, watching Katya's face to see how the news lands.
-- 'Hello! May I give you a big hug right now?' Katya sharpens one telling touch at once: "zdravstvuyte" means "hello", and it carries the main weight of what Katya is saying.
+- 'Katya made a mistake when she quit her studies.' Turning to a mistake to Katya, Barinov brings in "oshibku" ("mistake", from "oshibka") as the key Russian word here.
+- 'She needs to return to Paris and study.' Looking over quietly at once, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Everything in life must be done on time.' Barinov speaks sharply across the room, refusing to let the moment slip past.
+- 'And now she will soon get married.' Barinov speaks up frankly at once and reaches for the Russian word "vyydet" ("will come out", built from "vyyti") right at the center of the line.
+- 'Dad, forgive me, I am not expecting a baby.' Discussing the child to Barinov, Katya uses "rebyonka" ("child", from "rebyonok") to make the point stick.
+- 'I was simply very afraid to tell you the truth.' Katya steps in candidly with a smile, bringing things back to earth after the buildup.
+- 'And there was nothing between Max and me.' Reacting directly at once, Katya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Finally at least one piece of good news today!' Bringing up the news around Katya, Barinov centers the thought on "khoroshaya" ("good", from "khoroshiy") without wasting a word.
+- 'This is simply a real holiday for me, friend!' Barinov continues at once with a smile, making his position completely clear.
+- 'Chef, may we come in to see you?' Max proceeds openly during the talk and puts the emphasis on "mozhno" ("may, can") in the middle of the talk.
+- 'Katya and I are having a wedding soon after all!' Bringing up a wedding during the talk, Max reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'It is time for you to meet my beloved mom.' Max continues plainly hearing Katya, letting the remark speak for itself.
+- 'Hello! May I give you a big hug right now?' Katya jumps in boldly in front of Max and brings in "zdravstvuyte" ("hello") to make the meaning unmistakable.

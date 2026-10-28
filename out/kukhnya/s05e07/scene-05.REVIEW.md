@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'First of all, there was nothing between us.' Barinov lays out that line with candor: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Second of all, I need a cook.' Barinov proceeds calmly on the spot, to clear the air between them once and for all.
-- 'Third of all, I am in a great mood.' Barinov reaches for one direct touch for Max: "nastroyeniye" means "mood", and it carries the main weight of what Barinov is saying.
-- 'In short, he will work here.' Barinov chimes in honestly to be clear, keeping the focus on what actually matters here.
-- 'Chef, why are you so cheerful?' Vika probes quietly as Barinov tries to explain the situation.
-- 'I won, I beat an oligarch at poker.' Barinov colors one pointed term right here: "oligarkha" means "oligarch" (from "oligarkh"), giving the line its exact edge.
-- 'Chef, and did you win a lot?' Vika states this answer around Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'And here are my winnings.' Barinov chimes in quietly without any doubt, letting the remark speak for itself.
-- 'Beef in boxes, pork in carcasses, take them.' Max focuses on one loaded expression for Barinov: "govyadina" means "beef", and it carries the main weight of what Max is saying.
-- 'I do not understand, where is the money?' Barinov aims this answer before Vika: putting the question word "gde" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Money is tight right now, take the meat.' Max steps in warmly with a shrug, without trying to dress up how he really feels.
-- 'Chef, you really are the meat king now.' Vika favors one concrete detail right here: "myasnoy" means "meat", and it carries the main weight of what Vika is saying.
+- 'First of all, there was nothing between us.' Cutting in promptly during the talk, Barinov pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Second of all, I need a cook.' Barinov jumps in calmly watching Vika, without trying to dress up how he really feels.
+- 'Third of all, I am in a great mood.' Bringing up a great mood with Vika, Barinov leans on "nastroyeniye" ("mood") to give the whole sentence its punch.
+- 'In short, he will work here.' Barinov follows up firmly around Vika and puts the emphasis on "koroche" ("long story short") in the middle of the talk.
+- 'Chef, why are you so cheerful?' Vika probes quietly about what Barinov just brought up.
+- 'I won, I beat an oligarch at poker.' Focusing on an oligarch in the exchange, Barinov brings in "oligarkha" ("oligarch", from "oligarkh") as the key Russian word here.
+- 'Chef, and did you win a lot?' Pushing back directly beside Barinov, Vika keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'And here are my winnings.' Barinov follows up quietly without a pause, bringing things back to earth after the buildup.
+- 'Beef in boxes, pork in carcasses, take them.' Highlighting the beef at once, Max puts the emphasis on "govyadina" ("beef") in the middle of the talk.
+- 'I do not understand, where is the money?' Focusing on the money to Max, Barinov puts the question word "gde" right at the start so Max hears the focus immediately.
+- 'Money is tight right now, take the meat.' Max counters warmly watching Barinov, grounding the moment in plain reality.
+- 'Chef, you really are the meat king now.' Highlighting how meat things are before Barinov, Vika uses "myasnoy" ("meat") to carry the main weight of the thought.

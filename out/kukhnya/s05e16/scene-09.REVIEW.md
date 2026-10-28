@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, wait a minute, we need to talk seriously.' Max chimes in evenly hearing Vika, leaving no doubt about where he stands.
-- 'Is that why you put your wedding ring back on your finger?' Vika centers one familiar choice for Max: "obruchalnoye" means "wedding" (from "obruchalnyy"), giving the line its exact edge.
-- 'I did not even take it off yesterday in front of that girl!' Max pushes back quietly to settle things, refusing to let the moment slip past.
-- 'I lied to her on purpose that it does not come off.' Max responds pointedly toward Vika, making his position completely clear.
-- 'Now the part about you lying I readily believe!' Vika points to one classic expression in reply: "okhotno" means "gladly, willingly", and it carries the main weight of what Vika is saying.
-- 'That was my former classmate, nothing happened between us!' Max drops this answer with ease: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'She tried to kiss me, but I honestly held back.' Max replies bluntly without a pause, keeping the focus on what actually matters here.
-- 'Because I still love only you!' Max chooses this vivid detail for Vika: "lyublyu" means "love" (from "lyubit"), giving the line its exact edge.
-- 'Too bad you did not hold back when we were married.' Vika directs this statement with candor: the single Russian word "zhal" ("it is a pity") sets up the whole statement without needing a separate word for "it is".
-- 'And now it is too late, I no longer love you.' Vika answers promptly before Max, steering the talk right where she wants it.
-- 'Be a real man at last and stop humiliating yourself!' Vika sharpens this sharp expression for Max: "nastoyashchim" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
-- 'Hello, Dasha, is your offer about Sochi still open?' Max puts that answer with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Vika, wait a minute, we need to talk seriously.' Max follows up evenly with a nod, letting the remark speak for itself.
+- 'Is that why you put your wedding ring back on your finger?' Underscoring how wedding things are on the spot, Vika chooses "obruchalnoye" ("wedding", from the root "obruchalnyy") so Max hears the exact meaning.
+- 'I did not even take it off yesterday in front of that girl!' Talking about the girl to Vika, Max chooses "devushkoy" ("girl, young woman", from the root "devushka") so Vika hears the exact meaning.
+- 'I lied to her on purpose that it does not come off.' Max reacts pointedly during the talk, keeping the focus on what actually matters here.
+- 'Now the part about you lying I readily believe!' Vika weighs in frankly in the exchange and leans on "okhotno" ("gladly, willingly") to give the whole sentence its punch.
+- 'That was my former classmate, nothing happened between us!' Talking about the female classmate right here, Max reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'She tried to kiss me, but I honestly held back.' Max replies bluntly in their talk, bringing things back to earth after the buildup.
+- 'Because I still love only you!' Max proceeds promptly right here and lands on "lyublyu" ("love", built on "lyubit") to keep the statement grounded.
+- 'Too bad you did not hold back when we were married.' Answering evenly in the exchange, Vika leans on "zhal" ("it is a pity"), which carries the whole predicate in Russian without needing "it is".
+- 'And now it is too late, I no longer love you.' Vika cuts in promptly hearing Max, without trying to dress up how she really feels.
+- 'Be a real man at last and stop humiliating yourself!' Underscoring a real man beside Max, Vika chooses "nastoyashchim" ("real, genuine", from the root "nastoyashchiy") so Max hears the exact meaning.
+- 'Hello, Dasha, is your offer about Sochi still open?' Turning to the offer to Vika, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.

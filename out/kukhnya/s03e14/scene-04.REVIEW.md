@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Stop hitting me, you will break my spine!' Max reaches for one memorable detail for Kostya: "pozvonochnik" means "spine, backbone", and it carries the main weight of what Max is saying.
-- 'Wait, do you actually have a spine?' Senya makes that line without fuss: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Senya, that is very funny.' Max speaks up frankly to settle things, so Kostya knows he is not just making small talk.
-- 'What, did you swallow a toad this morning?' Senya chooses this key expression on cue: "proglotil" means "swallowed" (from "proglotit"), giving the line its exact edge.
-- 'Leave me alone, Senya!' Max shapes that line on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'You need to hold your breath for a long time.' Senya opens up sharply without any doubt, testing Max's reaction in the middle of the exchange.
-- 'Wait, I know what to do.' Senya underscores this sharp expression on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'It seems to have passed, now I am fine!' Max sends this line on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Maxim, they are calling for you from Table Seven.' Kostya fires back bluntly hearing Max, keeping the focus on what actually matters here.
-- 'From the seventh, but I did not cook for the seventh.' Max emphasizes one pointed expression at once: "sedmogo" means "of the seventh" (from "sedmoy"), giving the line its exact edge.
-- 'Kostya, are they definitely calling for me?' Max delivers this warning calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Definitely, they said to call the big-eared and impudent cook.' Kostya chimes in plainly facing Senya, without trying to dress up how he really feels.
+- 'Stop hitting me, you will break my spine!' Bringing up his spine in front of Senya, Max chooses "pozvonochnik" ("spine, backbone") so Senya gets the point right away.
+- 'Wait, do you actually have a spine?' Returning to a spine in front of Max, Senya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Senya, that is very funny.' Max jumps in frankly with Senya, keeping the focus on what actually matters here.
+- 'What, did you swallow a toad this morning?' Talking about a toad around Max, Senya puts the weight on "proglotil" ("swallowed", from "proglotit") as the exchange unfolds.
+- 'Leave me alone, Senya!' Cutting in directly at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'You need to hold your breath for a long time.' Senya reacts sharply in their talk, making his position completely clear.
+- 'Wait, I know what to do.' Senya follows up naturally in the exchange and chooses "podozhdi" ("wait", from the root "podozhdat") so Max hears the exact meaning.
+- 'It seems to have passed, now I am fine!' Weighing in warmly in front of Senya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Maxim, they are calling for you from Table Seven.' Kostya counters bluntly toward Max, steering the talk right where he wants it.
+- 'From the seventh, but I did not cook for the seventh.' Max speaks up briskly beside Kostya and centers the thought on "sedmogo" ("of the seventh", from "sedmoy") without wasting a word.
+- 'Kostya, are they definitely calling for me?' Speaking smoothly right here, Max keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Definitely, they said to call the big-eared and impudent cook.' Kostya continues plainly hearing Max, to clear the air between them once and for all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take this lemon so you do not get sick.' Max speaks frankly watching Nagiyev, shifting the whole mood of the room in a single beat.
-- 'Nothing happened between you and Katya.' Max reacts warmly around Vika, leaving no doubt about where he stands.
-- 'Well that is great, I am very glad.' Max frames this key choice with Nagiyev: "super" means "super, great", and it carries the main weight of what Max is saying.
-- 'Dima, it is me, are you home?' Vika gives that point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Dima, where are you hiding?' Vika presses wryly before Max can change the subject.
-- 'Hi, how are things with you overall?' Nagiyev spotlights one colorful touch in reply: "tselom" means "whole" (from "tseloye"), giving the line its exact edge.
-- 'Dima, you and I are breaking up.' Vika phrases the comeback with warmth: the "-sya" ending on "rasstayomsya" ("are breaking up") turns the action inward or makes it happen between people naturally.
-- 'I hope in this particular situation you do not mind?' Vika wonders sharply if there is more going on behind the scenes.
-- 'In this particular situation, apparently not.' Nagiyev highlights one telling expression with Max: "konkretnoy" means "specific, particular" (from "konkretnyy"), giving the line its exact edge.
-- 'I had better pack my things tomorrow.' Vika chimes in sharply to settle things, testing Nagiyev's reaction in the middle of the exchange.
-- 'I think so, today it would be awkward for everyone.' Nagiyev proceeds steadily with a sigh, so Max knows he is not just making small talk.
-- 'Farewell, Dmitry Vladimirovich.' Vika sends this point in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Take this lemon so you do not get sick.' Touching on the lemon at once, Max chooses "limon" ("lemon") so Vika gets the point right away.
+- 'Nothing happened between you and Katya.' Max reacts warmly without holding back, steering the talk right where he wants it.
+- 'Well that is great, I am very glad.' Making clear how glad he is before Vika, Max chooses "super" ("super, great") so Vika gets the point right away.
+- 'Dima, it is me, are you home?' Leaning in evenly at once, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Dima, where are you hiding?' Vika presses wryly about what Nagiyev just brought up.
+- 'Hi, how are things with you overall?' Addressing the whole with Vika, Nagiyev centers the thought on "tselom" ("whole", from "tseloye") without wasting a word.
+- 'Dima, you and I are breaking up.' Reacting plainly in the exchange, the "-sya" ending on "rasstayomsya" ("are breaking up") marks an action that unfolds mutually or turns back on the speaker.
+- 'I hope in this particular situation you do not mind?' Vika wonders sharply how Nagiyev expects that to work in practice.
+- 'In this particular situation, apparently not.' Bringing up the situation to Vika, Nagiyev chooses "konkretnoy" ("specific, particular", from the root "konkretnyy") so Vika hears the exact meaning.
+- 'I had better pack my things tomorrow.' Vika continues smoothly on the spot and brings in "luchshe" ("better") to make the meaning unmistakable.
+- 'I think so, today it would be awkward for everyone.' Nagiyev proceeds steadily across the room, keeping the focus on what actually matters here.
+- 'Farewell, Dmitry Vladimirovich.' Leaning in openly beside Nagiyev, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

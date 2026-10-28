@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like the dish?' Barinov states that point with candor: putting the question word "kak" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'For a starter it will do.' The guest jumps in candidly across the room, steering the talk right where he wants it.
-- 'So bring out the ribs already.' The guest features one familiar piece at once: "rebryshki" means "ribs" (from "ryobryshko"), giving the line its exact edge.
-- 'Haute cuisine is not a snack for you.' Barinov states the reaction facing the guest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And thirdly, what, Vitya?' The guest tests evenly to see how Barinov will answer on the spot.
-- 'Not Vitya, but Viktor Petrovich.' The guest steps in warmly in this moment, steering the talk right where he wants it.
-- 'You should not act like that, Viktor Petrovich.' The guest picks one clear piece for Barinov: "zrya" means "for nothing", and it carries the main weight of what the guest is saying.
-- 'After all, the earth is round.' The guest speaks up frankly with Barinov, without trying to dress up how he really feels.
-- 'And who is going to pay?' Barinov colors this sharp piece toward the guest: "oplatit" means "will pay for", and it carries the main weight of what Barinov is saying.
-- 'Why, I did not even eat anything.' The guest lays out that point with candor: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'I will be back here yet.' The guest responds frankly with a shrug, leaving no doubt about where he stands.
-- 'Good riddance!' Barinov frames this key element toward the guest: "skatertyu" means "like a tablecloth" (from "skatert"), giving the line its exact edge.
+- 'Well, how do you like the dish?' Weighing in boldly around the guest, Barinov puts the question word "kak" right at the start so the guest hears the focus immediately.
+- 'For a starter it will do.' The guest speaks candidly in their talk, watching Barinov's face to see how the news lands.
+- 'So bring out the ribs already.' Underscoring the ribs with Barinov, the guest chooses "rebryshki" ("ribs", from the root "ryobryshko") so Barinov hears the exact meaning.
+- 'Haute cuisine is not a snack for you.' Confirming how high things are right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And thirdly, what, Vitya?' The guest tests evenly what Barinov is actually getting at here.
+- 'Not Vitya, but Viktor Petrovich.' The guest weighs in warmly during the talk, making his position completely clear.
+- 'You should not act like that, Viktor Petrovich.' The guest speaks briskly across the room, to clear the air between them once and for all.
+- 'After all, the earth is round.' The guest replies frankly with Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'And who is going to pay?' Barinov follows up sharply in this beat and reaches for the Russian word "oplatit" ("will pay for") right at the heart of the line.
+- 'Why, I did not even eat anything.' Following up frankly in front of Barinov, the guest pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I will be back here yet.' The guest pushes back frankly during the talk, watching Barinov's face to see how the news lands.
+- 'Good riddance!' Bringing up the like tablecloth with the guest, Barinov leans on "skatertyu" ("like a tablecloth", a form of "skatert") to give the remark its edge.

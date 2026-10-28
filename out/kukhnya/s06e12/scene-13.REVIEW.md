@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Folks, for lunch today is everyone's favorite navy-style pasta!' Barinov spotlights one practical expression for the guest: "lyubimyye" means "favourite" (from "lyubimyy"), giving the line its exact edge.
-- 'Good afternoon, tell me, do you like everything at our place?' Mikhail delivers this statement toward the guest: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Yes, thank you very much, everything here is very tasty.' The guest counters plainly before Barinov, grounding the moment in plain reality.
-- 'I would like to apologize in advance for our chef.' Mikhail anchors one colorful detail for the guest: "izvinitsya" means "to apologise", and it carries the main weight of what Mikhail is saying.
-- 'He is a good chef, but completely obsessed with football.' Mikhail drops the reply facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And he is convinced that you know the outcomes of games.' Mikhail holds firm decisively toward the guest, refusing to let the moment slip past.
-- 'Just tell him any match results at random.' Mikhail stresses one practical touch in reply: "rezultaty" means "results" (from "rezultat"), giving the line its exact edge.
-- 'He will lose a couple thousand and immediately calm down.' Mikhail frames the reaction around the guest: the "-sya" ending on "uspokoitsya" ("to calm down") turns the action inward or makes it happen between people naturally.
-- 'Otherwise he definitely will not leave you alone today.' Mikhail fires back pointedly toward Barinov, letting the remark speak for itself.
-- 'Thank you very much for the advice, I will keep that in mind.' The guest highlights one clear expression at once: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'For you, hot French bouillabaisse soup from the head chef!' Barinov chooses one key element at once: "frantsuzskiy" means "French", and it carries the main weight of what Barinov is saying.
-- 'Eat to your health and enjoy your meal!' Barinov replies frankly before Mikhail, before Mikhail can change the subject.
+- 'Folks, for lunch today is everyone's favorite navy-style pasta!' Describing how favourite things are before Mikhail, Barinov centers the thought on "lyubimyye" ("favourite", from "lyubimyy") without wasting a word.
+- 'Good afternoon, tell me, do you like everything at our place?' Speaking readily in front of the guest, Mikhail reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Yes, thank you very much, everything here is very tasty.' The guest weighs in plainly across the room, to clear the air between them once and for all.
+- 'I would like to apologize in advance for our chef.' Mikhail speaks dryly around Barinov and centers the remark on "izvinitsya" ("to apologise") without any extra fuss.
+- 'He is a good chef, but completely obsessed with football.' Describing how good he is in this beat, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And he is convinced that you know the outcomes of games.' Bringing up the result hearing the guest, Mikhail sets the direction for the rest of the talk with the guest.
+- 'Just tell him any match results at random.' Bringing up the results during the talk, Mikhail chooses "rezultaty" ("results", from the root "rezultat") so the guest hears the exact meaning.
+- 'He will lose a couple thousand and immediately calm down.' Focusing on a couple on the spot, the "-sya" ending on "uspokoitsya" ("to calm down") marks an action that unfolds mutually or turns back on the speaker.
+- 'Otherwise he definitely will not leave you alone today.' Mikhail jumps in pointedly toward the guest, keeping the focus on what actually matters here.
+- 'Thank you very much for the advice, I will keep that in mind.' Touching on the thank beside Mikhail, the guest uses "bolshoye" ("big, very much", from "bolshoy") to make the point stick.
+- 'For you, hot French bouillabaisse soup from the head chef!' Barinov chimes in warmly in their talk, leaving no doubt about where he stands.
+- 'Eat to your health and enjoy your meal!' Barinov counters frankly hearing the guest, to clear the air between them once and for all.

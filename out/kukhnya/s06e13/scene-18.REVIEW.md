@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nikita, I thought very carefully about everything.' Katya replies lightly during the talk, making her position completely clear.
-- 'I agree with your proposal from yesterday.' Katya frames this vivid touch with Nikita: "predlozheniyem" means "offer, proposal" (from "predlozheniye"), giving the line its exact edge.
-- 'I agree to marry you.' Katya favors this telling expression with Nikita: "soglasna" means "agree" (from "soglasnyy"), giving the line its exact edge.
-- 'Katya, are you telling me the truth right now?' Nikita tests frankly how Katya expects that to work in practice.
-- 'Yes, this is truly the honest truth.' Katya stresses this vivid element for Nikita: "deystvitelno" means "really, indeed", and it carries the main weight of what Katya is saying.
-- 'Listen, I want to share my joy with you.' Nikita stands firm dryly as they talk, without trying to dress up how he really feels.
-- 'Katya agreed to become my beloved wife.' Nikita holds firm quietly with a sigh, testing Katya's reaction in the middle of the exchange.
-- 'Please, stop, people are looking at us.' Katya features this vivid word toward Nikita: "smotryat" means "look" (from "smotret"), giving the line its exact edge.
-- 'Let all the people look right now.' Nikita replies decisively on the spot, making his position completely clear.
-- 'Let everyone know how happy I am.' Nikita stands firm sharply with a sigh, before Katya can change the subject.
-- 'Today I am truly proud and happy.' Nikita sharpens this key term in earnest: "deystvitelno" means "really, indeed", and it carries the main weight of what Nikita is saying.
-- 'I promise that I will be the best husband.' Nikita proceeds quietly watching Katya, steering the talk right where he wants it.
+- 'Nikita, I thought very carefully about everything.' Katya jumps in lightly without holding back, before Nikita can change the subject.
+- 'I agree with your proposal from yesterday.' Bringing up the offer before Nikita, Katya reaches for the Russian word "predlozheniyem" ("offer, proposal", built from "predlozheniye") right at the center of the line.
+- 'I agree to marry you.' Katya reacts wryly hearing Nikita, refusing to let the moment slip past.
+- 'Katya, are you telling me the truth right now?' Nikita tests frankly if there is more going on behind the scenes.
+- 'Yes, this is truly the honest truth.' Touching on the honestly before Nikita, Katya reaches for the Russian word "deystvitelno" ("really, indeed") right at the heart of the line.
+- 'Listen, I want to share my joy with you.' Emphasizing his joy before Katya, Nikita centers the thought on "poslushayte" ("listen", from "poslushat") without wasting a word.
+- 'Katya agreed to become my beloved wife.' Nikita cuts in quietly facing Katya, testing Katya's reaction in the middle of the exchange.
+- 'Please, stop, people are looking at us.' Katya opens up vividly right here and uses "khvatit" ("enough") to carry the main weight of the thought.
+- 'Let all the people look right now.' Nikita jumps in decisively beside Katya, keeping the focus on what actually matters here.
+- 'Let everyone know how happy I am.' Nikita jumps in sharply in their talk, making his position completely clear.
+- 'Today I am truly proud and happy.' Nikita chimes in sharply on the spot and chooses "deystvitelno" ("really, indeed") so Katya gets the point right away.
+- 'I promise that I will be the best husband.' Talking about the best husband in the exchange, Nikita uses "luchshim" ("best", from "luchshiy") to make the point stick.

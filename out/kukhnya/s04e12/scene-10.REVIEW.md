@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, hi, this is Denis calling.' Max underscores this vivid detail in reply: "zvonit" means "is calling", and it carries the main weight of what Max is saying.
-- 'Excuse me, please, for calling so late.' Denis drops this statement with candor: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'I cannot get through to Max on the phone.' Denis opens up steadily without any doubt, testing Kostya's reaction in the middle of the exchange.
-- 'Kostya fell here and twisted his ankle.' Denis uses this key detail in reply: "podvernul" means "twisted, sprained" (from "podvernut"), giving the line its exact edge.
-- 'Max, I have never lied at such length before!' Denis makes this line in earnest: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'I told her that Kostya twisted his ankle.' Denis chimes in bluntly on the spot, steering the talk right where he wants it.
-- 'Got it, Kostya, yes, I will come right now.' Max spotlights this direct expression in earnest: "seychas" means "now", and it carries the main weight of what Max is saying.
-- 'Vikulya, may I take your car?' Max hands over the comment before Kostya: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Kostyan, hey, are you asleep already?' Max checks briskly why things suddenly took this turn between them.
-- 'I will ask you a favor, just do not ask questions.' Max underscores one classic detail at once: "voprosov" means "questions" (from "vopros"), giving the line its exact edge.
-- 'If Vika asks, you dislocated your foot.' Max highlights one vivid word with Denis: "vyvikhnul" means "to foot" (from "vyvikhnut"), giving the line its exact edge.
-- 'Wait, and why did I dislocate my foot?' Kostya probes frankly before Max can change the subject.
-- 'And which leg, the right one or the left one?' Kostya underscores one sharp element right here: "pravuyu" means "right" (from "pravyy"), giving the line its exact edge.
-- 'Any leg at all, I will explain everything later!' Max makes the comment with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Vika, hi, this is Denis calling.' Max speaks briskly right here and reaches for the Russian word "zvonit" ("is calling") right at the heart of the line.
+- 'Excuse me, please, for calling so late.' Denis follows up earnestly with Max and puts the weight on "izvinite" ("sorry, excuse me", from "izvinit") as the exchange unfolds.
+- 'I cannot get through to Max on the phone.' Denis opens up steadily facing Max, bringing things back to earth after the buildup.
+- 'Kostya fell here and twisted his ankle.' Bringing up the foot around Kostya, Denis brings in "podvernul" ("twisted, sprained", from "podvernut") as the key Russian word here.
+- 'Max, I have never lied at such length before!' Pushing back briskly around Max, Denis pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I told her that Kostya twisted his ankle.' Denis cuts in bluntly with Kostya, letting the remark speak for itself.
+- 'Got it, Kostya, yes, I will come right now.' Max responds directly before Kostya and reaches for the Russian word "priyedu" ("will come, visit", built from "priyekhat") right at the center of the line.
+- 'Vikulya, may I take your car?' Touching on the car before Denis, Max leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Kostyan, hey, are you asleep already?' Max checks briskly where this conversation is heading next.
+- 'I will ask you a favor, just do not ask questions.' Emphasizing the questions in the exchange, Max reaches for the Russian word "voprosov" ("questions", built from "vopros") right at the center of the line.
+- 'If Vika asks, you dislocated your foot.' Max continues frankly facing Kostya, grounding the moment in plain reality.
+- 'Wait, and why did I dislocate my foot?' Kostya probes frankly where this conversation is heading next.
+- 'And which leg, the right one or the left one?' Pointing to the foot in front of Max, Kostya reaches for the Russian word "pravuyu" ("right", built from "pravyy") right at the center of the line.
+- 'Any leg at all, I will explain everything later!' Cutting in candidly right here, Max drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.

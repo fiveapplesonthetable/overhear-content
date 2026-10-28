@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I already told Katya about you.' Katya stresses one sharp piece in reply: "rasskazala" means "told" (from "rasskazat"), giving the line its exact edge.
-- 'That is all, I am waiting for you eagerly.' Katya cuts in sharply across the room, steering the talk right where she wants it.
-- 'Denis, is that you in here again?' Katya uses one pointed choice in reply: "opyat" means "again", and it carries the main weight of what Katya is saying.
-- 'I stopped by here at night.' Denis leans on this key piece right here: "nochyu" means "night" (from "noch"), giving the line its exact edge.
-- 'I stole your dress yesterday.' Denis steps in warmly with a nod, bringing things back to earth after the buildup.
-- 'I wanted to ruin the wedding, but returned it.' Denis points to one practical term in earnest: "svadbu" means "wedding" (from "svadba"), giving the line its exact edge.
-- 'What, did you change your mind about ruining my wedding?' Katya makes this line beside Denis: putting the question word "chto" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'Tell me honestly, are you happy with him?' Denis challenges calmly where this conversation is heading next.
-- 'Denis stopped by to wish us happiness.' Katya colors one memorable term with Denis: "schastya" means "happiness" (from "schastye"), giving the line its exact edge.
-- 'Yes, I wish great happiness to you both.' Denis grounds one concrete detail in reply: "bolshogo" means "big" (from "bolshoy"), giving the line its exact edge.
-- 'Thank you for the kind words.' Nikita chimes in earnestly with a nod, watching Denis's face to see how the news lands.
-- 'Farewell, Denis, and be happy.' Katya grounds this telling term on cue: "schastliv" means "happy, lucky" (from "schastlivyy"), giving the line its exact edge.
+- 'I already told Katya about you.' Katya speaks up firmly with Denis, refusing to let the moment slip past.
+- 'That is all, I am waiting for you eagerly.' Katya continues sharply with a sigh, keeping the focus on what actually matters here.
+- 'Denis, is that you in here again?' Speaking warmly beside Denis, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I stopped by here at night.' Raising the night around Katya, Denis sets the direction for the rest of the talk with Katya.
+- 'I stole your dress yesterday.' Denis proceeds warmly hearing Katya, without trying to dress up how he really feels.
+- 'I wanted to ruin the wedding, but returned it.' Pointing to the wedding before Katya, Denis brings in "svadbu" ("wedding", from "svadba") as the key Russian word here.
+- 'What, did you change your mind about ruining my wedding?' Returning to her wedding in front of Denis, Katya puts the question word "chto" right at the start so Denis hears the focus immediately.
+- 'Tell me honestly, are you happy with him?' Denis challenges calmly whether Katya really thought this through.
+- 'Denis stopped by to wish us happiness.' Emphasizing the happiness at once, Katya centers the thought on "schastya" ("happiness", from "schastye") without wasting a word.
+- 'Yes, I wish great happiness to you both.' Denis fires back earnestly watching Katya, to clear the air between them once and for all.
+- 'Thank you for the kind words.' Nikita naturally extends this word of thanks while facing Denis using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Farewell, Denis, and be happy.' Katya chimes in calmly in front of Denis and puts the weight on "schastliv" ("happy, lucky", from "schastlivyy") as the exchange unfolds.

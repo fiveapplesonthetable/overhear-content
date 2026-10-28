@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A guy on the forum has the exact same problem.' Kostya jumps in frankly hearing Max, letting the remark speak for itself.
-- 'My ex is pregnant and says it is not mine.' Kostya colors one familiar piece at once: "beremenna" means "pregnant" (from "beremennyy"), giving the line its exact edge.
-- 'But I know for sure that the child is mine.' Kostya follows up plainly beside Max, watching Max's face to see how the news lands.
-- 'What do they advise?' Max questions earnestly whether Nastya really thought this through.
-- 'Relax and enjoy life.' Kostya spotlights one sharp detail right here: "naslazhdaysya" means "enjoy" (from "naslazhdatsya"), giving the line its exact edge.
-- 'Will you have tea?' Nastya hands over this warning without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Maybe this child really is not mine?' Max presses eagerly while looking straight at Kostya here.
-- 'You and Vika broke up, and she immediately found someone?' Nastya chooses this telling term for Max: "rasstalis" means "broke up, separated" (from "rasstatsya"), giving the line its exact edge.
-- 'Making sure that the child is yours is very simple.' Nastya aims this point without pause: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Right before my departure.' Max holds firm boldly beside Nastya, leaving no doubt about where he stands.
-- 'That means five months ago.' Nastya picks this sharp expression in reply: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
-- 'All that is left is to check this.' Max brings that reply without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'A guy on the forum has the exact same problem.' Kostya jumps in frankly without a pause, refusing to let the moment slip past.
+- 'My ex is pregnant and says it is not mine.' Stressing how former things are on the spot, Kostya uses "beremenna" ("pregnant", from "beremennyy") to make the point stick.
+- 'But I know for sure that the child is mine.' Turning to the child in this beat, Kostya uses "rebyonok" ("a child") to carry the main weight of the thought.
+- 'What do they advise?' Max questions earnestly before Kostya can change the subject.
+- 'Relax and enjoy life.' Talking about the life in front of Max, Kostya brings in "naslazhdaysya" ("enjoy", from "naslazhdatsya") as the key Russian word here.
+- 'Will you have tea?' Mentioning the tea on the spot, Nastya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Maybe this child really is not mine?' Max presses eagerly if there is more going on behind the scenes.
+- 'You and Vika broke up, and she immediately found someone?' Nastya proceeds warmly in this beat and reaches for the Russian word "rasstalis" ("broke up, separated", built from "rasstatsya") right at the center of the line.
+- 'Making sure that the child is yours is very simple.' Returning to the child at once, Nastya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Right before my departure.' Max responds boldly around Nastya, to clear the air between them once and for all.
+- 'That means five months ago.' Emphasizing the months in the exchange, Nastya reaches for the Russian word "poluchayetsya" ("works out", built from "poluchatsya") right at the center of the line.
+- 'All that is left is to check this.' Looking over plainly around Nastya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

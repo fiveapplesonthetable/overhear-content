@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Louis, forgive me for distracting you from your work.' Nastya holds firm briskly watching Louis, keeping the focus on what actually matters here.
-- 'I just missed you so much.' Louis features one colorful expression right here: "soskuchilsya" means "missed" (from "soskuchitsya"), giving the line its exact edge.
-- 'I knew it all along.' Nastya directs the reply without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'No, no, no.' Louis pushes back candidly without holding back, without trying to dress up how he really feels.
-- 'You are actually the only girl I have ever...' Nastya sharpens one loaded word right here: "yedinstvennaya" means "only, sole" (from "yedinstvennyy"), giving the line its exact edge.
-- 'Thank goodness for that.' Louis sends the remark in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'That is why nothing can ever happen between us.' Nastya continues decisively with a shrug, bringing things back to earth after the buildup.
-- 'What, am I really that ugly?' Louis chooses one sharp detail at once: "strashnaya" means "terrible, dreadful" (from "strashnyy"), giving the line its exact edge.
-- 'You did it like a real man.' Nastya underscores one loaded detail at once: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Nastya is saying.
-- 'My little boy?' Louis asks eagerly whether Nastya really thought this through.
-- 'Alright, get back to the kitchen alive.' Nastya emphasizes one key touch right here: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'I am terribly sorry, I have to run.' Louis sends the thought right away: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Wait, is that him?' Nastya probes candidly whether Louis really thought this through.
+- 'Louis, forgive me for distracting you from your work.' Nastya reacts briskly facing Louis, bringing things back to earth after the buildup.
+- 'I just missed you so much.' Louis steps in decisively on the spot and brings in "soskuchilsya" ("missed", from "soskuchitsya") as the key Russian word here.
+- 'I knew it all along.' Opening up dryly with Louis, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'No, no, no.' Louis responds candidly with a smile, without trying to dress up how he really feels.
+- 'You are actually the only girl I have ever...' Highlighting the girlfriend to Louis, Nastya leans on "yedinstvennaya" ("only, sole", a form of "yedinstvennyy") to give the remark its edge.
+- 'Thank goodness for that.' Bringing up the glory before Nastya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'That is why nothing can ever happen between us.' Nastya answers decisively toward Louis, making her position completely clear.
+- 'What, am I really that ugly?' Insisting on how terrible things are in front of Nastya, Louis puts the weight on "strashnaya" ("terrible, dreadful", from "strashnyy") as the exchange unfolds.
+- 'You did it like a real man.' Nastya replies plainly without any doubt, leaving no doubt about where she stands.
+- 'My little boy?' Louis asks eagerly before Nastya can change the subject.
+- 'Alright, get back to the kitchen alive.' Underscoring the kitchen during the talk, Nastya leans on "kukhnyu" ("kitchen", a form of "kukhnya") to give the remark its edge.
+- 'I am terribly sorry, I have to run.' Reacting candidly on the spot, Louis leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Wait, is that him?' Nastya probes candidly before Louis can change the subject.

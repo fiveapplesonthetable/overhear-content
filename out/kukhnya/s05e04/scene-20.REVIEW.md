@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You acted like a man.' Eleonora gives the reaction without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Thank you for keeping silent.' Eleonora follows up calmly in their talk, refusing to let the moment slip past.
-- 'There are moments when we are desperately angry at ourselves because of the deeds' Denis chooses one pointed choice in reply: "postupkov" means "deeds" (from "postupok"), giving the line its exact edge.
-- 'that we committed.' Denis aims that answer without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Because of the people who are happy without us.' Denis continues frankly facing Barinov, steering the talk right where he wants it.
-- 'Katya, my daughter!' Barinov anchors one clear term in earnest: "dochka" means "dear, daughter", and it carries the main weight of what Barinov is saying.
-- 'You are drinking again, huh?' Barinov gives this point without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You acted like a man.' Looking over firmly in front of Denis, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Thank you for keeping silent.' Eleonora briskly voices this word of thanks for Denis using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'There are moments when we are desperately angry at ourselves because of the deeds' Discussing the deeds beside Eleonora, Denis puts the weight on "postupkov" ("deeds", from "postupok") as the exchange unfolds.
+- 'that we committed.' Cutting in smoothly in front of Eleonora, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Because of the people who are happy without us.' Denis reacts frankly in their talk, watching Barinov's face to see how the news lands.
+- 'Katya, my daughter!' Emphasizing the dear in the exchange, Barinov reaches for the Russian word "dochka" ("dear, daughter") right at the heart of the line.
+- 'You are drinking again, huh?' Weighing in warmly during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
 - 'Katya? Again?' Barinov inquires earnestly where this conversation is heading next.
-- 'Dad, I feel terrible.' Barinov stresses one direct element in reply: "papa" means "Dad", and it carries the main weight of what Barinov is saying.
-- 'Because of the words we spoke without thinking.' Denis replies lightly hearing Eleonora, grounding the moment in plain reality.
-- 'Maybe it is time to stop hating ourselves and try to fix something?' Firing back without hesitation, Denis lets Barinov know there is no turning back now.
-- 'At least try.' Denis sharpens one colorful detail for Eleonora: "popytatsya" means "to try, attempt", and it carries the main weight of what Denis is saying.
+- 'Dad, I feel terrible.' Touching on the dad around Denis, Barinov brings in "papa" ("Dad") to make the meaning unmistakable.
+- 'Because of the words we spoke without thinking.' Talking about the words on the spot, Denis centers the thought on "slov" ("words", from "slovo") without wasting a word.
+- 'Maybe it is time to stop hating ourselves and try to fix something?' Denis prompts straight out about what Barinov just brought up.
+- 'At least try.' Denis fires back briskly around Barinov and puts the emphasis on "popytatsya" ("to try, attempt") in the middle of the talk.

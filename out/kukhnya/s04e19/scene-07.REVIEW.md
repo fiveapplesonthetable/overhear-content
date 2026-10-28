@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, tell me, am I disturbing you?' Vika emphasizes one practical choice with Denis: "pomeshayu" means "to disturb" (from "pomeshat"), giving the line its exact edge.
-- 'Maybe it is none of my business, of course.' Vika opens up plainly around Senya, shifting the whole mood of the room in a single beat.
-- 'I do not advise telling your dreams around here.' Vika jumps in briskly in their talk, refusing to let the moment slip past.
-- 'Yes, you are probably completely right.' Denis highlights one clear term right here: "sovershenno" means "quite, completely", and it carries the main weight of what Denis is saying.
-- 'Your strange dreams are simply fear.' Vika shapes the reply calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'You are afraid of losing what you have.' Vika jumps in decisively without any doubt, letting the remark speak for itself.
-- 'Small hands are a lack of confidence in yourself.' Vika uses one loaded term on cue: "neuverennost" means "to confidence", and it carries the main weight of what Vika is saying.
-- 'You are afraid of not holding on to your happiness.' Vika spotlights one classic word right here: "schastye" means "happiness", and it carries the main weight of what Vika is saying.
-- 'You need to think about something pleasant more often.' Vika chimes in sharply facing Denis, bringing things back to earth after the buildup.
-- 'And then all the nightmares will pass quickly.' Vika highlights one colorful choice in reply: "koshmary" means "nightmare, horror" (from "koshmar"), giving the line its exact edge.
-- 'Viktoriya Sergeyevna, will you explain my dream too?' Senya gives that thought around Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'Senya, go work in the kitchen right now!' Vika replies wryly with a sigh, bringing things back to earth after the buildup.
+- 'Denis, tell me, am I disturbing you?' Vika speaks up promptly in the exchange and centers the thought on "pomeshayu" ("to disturb", from "pomeshat") without wasting a word.
+- 'Maybe it is none of my business, of course.' Discussing the matter to Denis, Vika leans on "konechno" ("of course") to give the whole sentence its punch.
+- 'I do not advise telling your dreams around here.' Vika fires back briskly across the room, watching Denis's face to see how the news lands.
+- 'Yes, you are probably completely right.' Denis fires back openly beside Vika and leans on "sovershenno" ("quite, completely") to give the whole sentence its punch.
+- 'Your strange dreams are simply fear.' Confirming how strange things are around Denis, Vika uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'You are afraid of losing what you have.' Vika replies decisively with a smile, leaving no doubt about where she stands.
+- 'Small hands are a lack of confidence in yourself.' Bringing up the hands in front of Denis, Vika reaches for the Russian word "malenkiye" ("little ones", built from "malenkiy") right at the center of the line.
+- 'You are afraid of not holding on to your happiness.' Vika answers warmly with a nod, testing Senya's reaction in the middle of the exchange.
+- 'You need to think about something pleasant more often.' Vika follows up sharply on the spot, grounding the moment in plain reality.
+- 'And then all the nightmares will pass quickly.' Mentioning the nightmare with Senya, Vika centers the thought on "koshmary" ("nightmare, horror", from "koshmar") without wasting a word.
+- 'Viktoriya Sergeyevna, will you explain my dream too?' Bringing up his dream to Vika, Senya keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Senya, go work in the kitchen right now!' Vika proceeds wryly without holding back, without trying to dress up how she really feels.

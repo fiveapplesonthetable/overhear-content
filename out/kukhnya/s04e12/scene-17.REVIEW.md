@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, how much could this be worth?' Timur makes this answer without pause: putting the question word "skolko" right at the front of the line lets Sasha hear the point of the question on the very first beat.
-- 'I do not know how much glass goes for these days.' Timur speaks up openly in this moment, leaving no doubt about where he stands.
-- 'Uncle Timur, I have a university education!' Timur focuses on one memorable detail on cue: "obrazovaniye" means "education", and it carries the main weight of what Timur is saying.
-- 'And how else are we supposed to sell stale fish?' Timur drops the reaction in earnest: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Learn, student, this is real marketing!' Timur pushes back dryly across the room, making his position completely clear.
-- 'Tell me, why is there so much fish?' Sasha favors one pointed piece with Vika: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
-- 'Well, apparently because today is Thursday.' Vika lays out the comeback frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Sasha, I want to congratulate you too.' Vika proceeds evenly facing Timur, making her position completely clear.
-- 'Congratulate me, thank you very much, Vika.' Sasha anchors one practical detail on cue: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'Next time my husband is helping you...' Vika reaches for one pointed word at once: "pomogat" means "to help", and it carries the main weight of what Vika is saying.
-- 'Please be more careful, do not lose anything.' Vika stands firm right away with Sasha, refusing to let the moment slip past.
-- 'Girls, enough whispering, we are kidnapping the bride!' Sasha uses one memorable expression toward Vika: "pokhishchayem" means "to bride" (from "pokhishchat"), giving the line its exact edge.
+- 'Tell me, how much could this be worth?' Leaning in readily beside Sasha, Timur puts the question word "skolko" right at the start so Sasha hears the focus immediately.
+- 'I do not know how much glass goes for these days.' Timur fires back openly on the spot, watching Sasha's face to see how the news lands.
+- 'Uncle Timur, I have a university education!' Turning to a university education in front of Sasha, Timur leans on "obrazovaniye" ("education") to give the whole sentence its punch.
+- 'And how else are we supposed to sell stale fish?' Highlighting how sell things are in the exchange, Timur puts the question word "kak" right at the start so Sasha hears the focus immediately.
+- 'Learn, student, this is real marketing!' Timur pushes back dryly facing Sasha, keeping the focus on what actually matters here.
+- 'Tell me, why is there so much fish?' Talking about the fish beside Vika, Sasha uses "ryby" ("of fish", from "ryba") to make the point stick.
+- 'Well, apparently because today is Thursday.' Addressing the place in front of Sasha, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Sasha, I want to congratulate you too.' Vika speaks evenly around Sasha, leaving no doubt about where she stands.
+- 'Congratulate me, thank you very much, Vika.' Emphasizing the thank right here, Sasha leans on "bolshoye" ("big, very much", a form of "bolshoy") to give the remark its edge.
+- 'Next time my husband is helping you...' Vika opens up dryly with Sasha, shifting the mood of the conversation in a single beat.
+- 'Please be more careful, do not lose anything.' Vika jumps in right away with a smile, watching Sasha's face to see how the news lands.
+- 'Girls, enough whispering, we are kidnapping the bride!' Bringing up the girl to Vika, Sasha reaches for the Russian word "pokhishchayem" ("to bride", built from "pokhishchat") right at the center of the line.

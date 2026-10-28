@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So you were lying to me this whole time?' Katya states this warning before Nikita: Russian keeps the exact word order of a normal statement here, turning it into a question for Nikita purely through rising pitch at the end.
-- 'No, Katya, hear me out, please.' Nikita speaks wryly on the spot, grounding the moment in plain reality.
-- 'What do you mean no? Did you actually steal Nagiyev's car?' Katya features one familiar touch in reply: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
-- 'No, I did not steal that car.' Nikita chimes in frankly on the spot, keeping the focus on what actually matters here.
-- 'Then what was this whole circus needed for?' Katya prompts firmly what Nikita is actually getting at here.
-- 'Because I really wanted you to like me.' Nikita points to this telling word toward Katya: "ponravitsya" means "to be liked", and it carries the main weight of what Nikita is saying.
-- 'And for that you conspired with my mom?' Katya lays out this warning without fuss: the "-sya" ending on "sgovorilsya" ("conspired") turns the action inward or makes it happen between people naturally.
-- 'So that is what kind of cosmic bond it was!' Katya jumps in earnestly toward Nikita, letting the remark speak for itself.
-- 'Maybe she even paid you for it too?' Katya sharpens this telling term with Nikita: "zaplatila" means "to pay" (from "zaplatit"), giving the line its exact edge.
-- 'Katya, why are you saying something like that?' Nikita shares that reply plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'I really fell in love with you sincerely.' Nikita replies openly with a shrug, shifting the whole mood of the room in a single beat.
-- 'I do not want to see you anymore, goodbye.' Katya spotlights one vivid detail toward Nikita: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'So you were lying to me this whole time?' Weighing in naturally in this beat, Katya keeps normal statement word order here, turning the line into a question for Nikita purely through rising pitch.
+- 'No, Katya, hear me out, please.' Nikita proceeds wryly on the spot, steering the talk right where he wants it.
+- 'What do you mean no? Did you actually steal Nagiyev's car?' Underscoring the car with Nikita, Katya lands on "mashinu" ("car", built on "mashina") to keep the statement grounded.
+- 'No, I did not steal that car.' Touching on the car beside Katya, Nikita brings in "mashinu" ("car", from "mashina") as the key Russian word here.
+- 'Then what was this whole circus needed for?' Katya prompts firmly how Nikita expects that to work in practice.
+- 'Because I really wanted you to like me.' Nikita chimes in promptly in the exchange and chooses "ponravitsya" ("to be liked") so Katya gets the point right away.
+- 'And for that you conspired with my mom?' Answering naturally in this beat, the "-sya" ending on "sgovorilsya" ("conspired") marks an action that unfolds mutually or turns back on the speaker.
+- 'So that is what kind of cosmic bond it was!' Katya proceeds earnestly in this moment, refusing to let the moment slip past.
+- 'Maybe she even paid you for it too?' Katya continues boldly in the exchange and chooses "zaplatila" ("to pay", from the root "zaplatit") so Nikita hears the exact meaning.
+- 'Katya, why are you saying something like that?' Reacting briskly right here, Nikita keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'I really fell in love with you sincerely.' Nikita replies openly without a pause, leaving no doubt about where he stands.
+- 'I do not want to see you anymore, goodbye.' Katya reacts vividly with Nikita and chooses "videt" ("to see") so Nikita gets the point right away.

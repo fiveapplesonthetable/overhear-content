@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, tomorrow I am picking up Vika and our daughter.' Max focuses on one telling element right here: "dochkoy" means "daughter" (from "dochka"), giving the line its exact edge.
-- 'I invite you to the discharge, will you come?' Max brings the reaction without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Chef, tomorrow I am picking up Vika and our daughter.' Underscoring his daughter to Barinov, Max reaches for the Russian word "dochkoy" ("daughter", built from "dochka") right at the center of the line.
+- 'I invite you to the discharge, will you come?' Weighing in openly before Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
 - 'I will try to come, did you want something else?' Barinov questions briskly whether Max really thought this through.
-- 'May I leave a bit early today?' Max sharpens one practical element toward Barinov: "segodnya" means "today", and it carries the main weight of what Max is saying.
-- 'You understand yourself, I need one last night out.' Max puts the comment on cue: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'May I leave a bit early today?' Max follows up directly right here and lands on "segodnya" ("today") as the key everyday word here.
+- 'You understand yourself, I need one last night out.' Turning to the favor to Barinov, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
 - 'Have you even assembled the crib for the baby?' Barinov questions evenly if there is more going on behind the scenes.
-- 'What did you think, that she would sleep on the floor?' Barinov colors one clear detail with Max: "polu" means "floor", and it carries the main weight of what Barinov is saying.
-- 'An hour ago Tatyana stopped by here.' Barinov opens up frankly during the talk, to clear the air between them once and for all.
-- 'Here are the keys, go and assemble the crib.' Barinov responds pointedly with a nod, keeping the focus on what actually matters here.
-- 'Chef, I called, she does not pick up the phone.' Max underscores one loaded choice right here: "trubku" means "the receiver" (from "trubka"), giving the line its exact edge.
-- 'Maxim, get going, I still have work to do.' Barinov directs the thought for Max: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Understood everything, thank you, Chef.' Max proceeds at once with a nod, so Barinov knows he is not just making small talk.
+- 'What did you think, that she would sleep on the floor?' Focusing on the floor in this beat, Barinov uses "polu" ("floor") to carry the main weight of the thought.
+- 'An hour ago Tatyana stopped by here.' Highlighting an hour around Max, Barinov chooses "zayezzhala" ("to move in", from the root "zayezzhat") so Max hears the exact meaning.
+- 'Here are the keys, go and assemble the crib.' Barinov reacts pointedly facing Max, making his position completely clear.
+- 'Chef, I called, she does not pick up the phone.' Emphasizing the receiver at once, Max uses "trubku" ("the receiver", from "trubka") to make the point stick.
+- 'Maxim, get going, I still have work to do.' Pushing back naturally in the exchange, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Understood everything, thank you, Chef.' Max proceeds at once without holding back, to clear the air between them once and for all.

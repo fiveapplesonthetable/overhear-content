@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to talk.' Nagiyev drops the comment before Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Have you started hiring deaf people now, or what?' Max checks quietly before Nagiyev can change the subject.
-- 'Maybe we could?' Nagiyev frames one direct word toward Max: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'Let us talk it over at a table in the dining room?' Max lays out the comeback to Nagiyev: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'I decide for myself where I talk things over, understood?' Nagiyev asks wryly as Max tries to explain the situation.
-- 'Stand up and walk out.' Max uses one colorful element for Nagiyev: "vyshel" means "stepped out" (from "vyyti"), giving the line its exact edge.
-- 'He will not stand up, I mean he will not walk out.' Nagiyev speaks up steadily with a shrug, making his position completely clear.
-- 'Oh, you mean in that sense?' Max wonders skeptically why things suddenly took this turn between them.
-- 'Were you guys frying mushrooms in there, or what?' Nagiyev colors one memorable expression with Max: "griby" means "mushrooms" (from "grib"), giving the line its exact edge.
-- 'We will talk tomorrow.' Max delivers this update before Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'What subordination means.' Nagiyev pushes back evenly across the room, so Max knows he is not just making small talk.
-- 'You are working for a month without pay.' Max sharpens this vivid piece in earnest: "rabotayesh" means "are working" (from "rabotat"), giving the line its exact edge.
-- 'I have said everything I had to say.' Nagiyev hands over that point for Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'We need to talk.' Following up warmly to Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Have you started hiring deaf people now, or what?' Max checks quietly where this conversation is heading next.
+- 'Maybe we could?' Looking over frankly with Max, Nagiyev keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Let us talk it over at a table in the dining room?' Addressing the hall with Nagiyev, Max starts with "davay" ("come on, let's") to invite Nagiyev right into the action.
+- 'I decide for myself where I talk things over, understood?' Nagiyev asks wryly why things suddenly took this turn between them.
+- 'Stand up and walk out.' Max weighs in frankly on the spot and lands on "vyshel" ("stepped out", built on "vyyti") to keep the statement grounded.
+- 'He will not stand up, I mean he will not walk out.' Turning to the sense right here, Nagiyev uses "smysle" ("sense", from "smysl") to make the point stick.
+- 'Oh, you mean in that sense?' Max wonders skeptically whether Nagiyev really thought this through.
+- 'Were you guys frying mushrooms in there, or what?' Emphasizing the mushrooms at once, Nagiyev centers the thought on "griby" ("mushrooms", from "grib") without wasting a word.
+- 'We will talk tomorrow.' Stepping in directly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'What subordination means.' Nagiyev cuts in evenly during the talk, steering the talk right where he wants it.
+- 'You are working for a month without pay.' Underscoring a month during the talk, Max reaches for the Russian word "mesyats" ("month") right at the heart of the line.
+- 'I have said everything I had to say.' Reacting firmly beside Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

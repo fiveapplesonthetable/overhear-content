@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, what on earth have you done here?' Gulya shares this statement facing Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Did you really lock them all up?' Gulya prompts evenly where this conversation is heading next.
-- 'Forgive me, but this is for our sake.' Lyova centers one familiar expression with Barinov: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
-- 'They all wanted to stand in the way of our happiness.' Lyova pushes back at once to settle things, refusing to let the moment slip past.
-- 'Nobody has ever loved me like this before!' Gulya counters boldly as they talk, refusing to let the moment slip past.
-- 'Thank you for the kind words, guys.' Lyova points to this telling detail with Gulya: "spasibo" means "thank you", and it carries the main weight of what Lyova is saying.
-- 'Well, why did you blush like that?' Barinov voices the reply beside Gulya: Russian keeps the exact word order of a normal statement here, turning it into a question for Gulya purely through rising pitch at the end.
-- 'Let's all drink to the Chef together now!' Lyova continues evenly across the room, so Gulya knows he is not just making small talk.
-- 'Viktor Petrovich, we drink to you!' Lyova picks one memorable word in reply: "pyom" means "to drink", and it carries the main weight of what Lyova is saying.
-- 'Thank you, Lyova, you are a true friend.' Barinov frames that remark around Lyova: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'I wish you immense family happiness.' Lyova speaks up quietly with Barinov, leaving no doubt about where he stands.
-- 'Pour the glasses full quickly, friends!' Barinov leans on this vivid element on cue: "nalivayte" means "pour" (from "nalivat"), giving the line its exact edge.
+- 'Lyova, what on earth have you done here?' Pressing on readily in the exchange, Gulya puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'Did you really lock them all up?' Gulya prompts evenly before Lyova can change the subject.
+- 'Forgive me, but this is for our sake.' Lyova follows up frankly on the spot and puts the weight on "prosti" ("sorry, forgive me", from "prostit") as the exchange unfolds.
+- 'They all wanted to stand in the way of our happiness.' Addressing his happiness in the exchange, Lyova reaches for the Russian word "schastyu" ("happiness, good fortune", built from "schastye") right at the center of the line.
+- 'Nobody has ever loved me like this before!' Gulya counters boldly toward Lyova, letting the remark speak for itself.
+- 'Thank you for the kind words, guys.' Emphasizing the thank in the exchange, Lyova reaches for the Russian word "spasibo" ("thank you") right at the heart of the line.
+- 'Well, why did you blush like that?' Looking over naturally in this beat, Barinov keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'Let's all drink to the Chef together now!' Lyova chimes in evenly in this moment, bringing things back to earth after the buildup.
+- 'Viktor Petrovich, we drink to you!' Lyova weighs in briskly to Barinov and uses "pyom" ("to drink") to carry the main weight of the thought.
+- 'Thank you, Lyova, you are a true friend.' Barinov lightly drops this word of thanks in one quick breath using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I wish you immense family happiness.' Lyova replies quietly across the room, to clear the air between them once and for all.
+- 'Pour the glasses full quickly, friends!' Discussing the glasses during the talk, Barinov uses "polnyye" ("full, complete", from "polnyy") to make the point stick.

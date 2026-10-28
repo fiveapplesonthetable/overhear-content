@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, young man, and who are you anyway?' Eleonora hands over the comeback frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'I am Maxim Lavrov, a cook in your restaurant.' Max pushes back at once around Eleonora, grounding the moment in plain reality.
-- 'And where is Katya right now? Probably in the kitchen?' Eleonora grounds one classic element in reply: "navernoye" means "probably", and it carries the main weight of what Eleonora is saying.
-- 'Yes, she is downstairs, should I pass anything on to her?' Max phrases that point plainly here: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'No, there is no need to pass anything on to her right now.' Eleonora continues warmly beside Barinov, shifting the whole mood of the room in a single beat.
-- 'Then I will go back downstairs to work.' Max underscores this sharp detail in earnest: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
-- 'Chef, there are simply no more tickets for this match!' Eleonora delivers that remark with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Timur, please get me at least one ticket!' Max speaks up at once in this moment, bringing things back to earth after the buildup.
-- 'Would you like me to get you a rare fish instead?' Barinov points to one memorable choice for Eleonora: "redkuyu" means "rare, scarce" (from "redkiy"), giving the line its exact edge.
-- 'Even getting a giant beast is much easier right now!' Barinov fires back wryly with a nod, making his position completely clear.
+- 'Hello, young man, and who are you anyway?' Replying naturally around Max, Eleonora drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'I am Maxim Lavrov, a cook in your restaurant.' Max answers at once without any doubt, to clear the air between them once and for all.
+- 'And where is Katya right now? Probably in the kitchen?' Addressing the kitchen beside Max, Eleonora reaches for the Russian word "navernoye" ("probably") right at the heart of the line.
+- 'Yes, she is downstairs, should I pass anything on to her?' Jumping in smoothly on the spot, Max leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'No, there is no need to pass anything on to her right now.' Eleonora responds warmly toward Max, keeping the focus on what actually matters here.
+- 'Then I will go back downstairs to work.' Emphasizing the job in the exchange, Max leans on "rabotu" ("job", a form of "rabota") to give the remark its edge.
+- 'Chef, there are simply no more tickets for this match!' Talking about the ticket on the spot, Eleonora links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Timur, please get me at least one ticket!' Max speaks at once watching Eleonora, steering the talk right where he wants it.
+- 'Would you like me to get you a rare fish instead?' Pointing to a rare fish in front of Max, Barinov uses "redkuyu" ("rare, scarce", from "redkiy") to make the point stick.
+- 'Even getting a giant beast is much easier right now!' Explaining how huge things are around Max, Barinov centers the thought on "ogromnogo" ("huge, vast", from "ogromnyy") without wasting a word.
 - 'What do I need fish for when today is the main derby?' Max questions deadpan while looking straight at Barinov here.
-- 'Sorry, my friend, here I am powerless to help.' Barinov points to one pointed term in earnest: "bessilen" means "powerless" (from "bessilnyy"), giving the line its exact edge.
+- 'Sorry, my friend, here I am powerless to help.' Confirming how dear he is in this beat, Barinov reaches for the Russian word "bessilen" ("powerless", built from "bessilnyy") right at the center of the line.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you free right now, we need to talk.' Nagiyev favors one practical detail toward Barinov: "svoboden" means "free" (from "svobodnyy"), giving the line its exact edge.
-- 'I will tell you honestly right away.' Barinov underscores one loaded detail right here: "chestno" means "honestly", and it carries the main weight of what Barinov is saying.
-- 'You can always count on me.' Barinov jumps in lightly watching Max, so Max knows he is not just making small talk.
-- 'And what was that woman from my past doing here?' Nagiyev picks one key piece in earnest: "zhenshchina" means "woman", and it carries the main weight of what Nagiyev is saying.
-- 'She demanded a new menu from us.' Barinov states that line to Max: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Do not worry, she will not last long here.' Barinov cuts in candidly before Nagiyev, grounding the moment in plain reality.
-- 'I am thinking of raising your salary next month.' Nagiyev centers one clear touch in reply: "sleduyushchem" means "next" (from "sleduyushchiy"), giving the line its exact edge.
-- 'Thank you very much, Dima.' Barinov shapes this answer on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Thank you for your loyalty.' Nagiyev holds firm briskly hearing Barinov, making his position completely clear.
-- 'Hi, I am Max, and what is your name?' Max anchors one telling touch for Nagiyev: "zovut" means "call" (from "zvat"), giving the line its exact edge.
-- 'My name is Vika.' Barinov delivers that point with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'A wonderful name, allow me to treat you.' Max stands firm boldly around Nagiyev, watching Nagiyev's face to see how the news lands.
+- 'Are you free right now, we need to talk.' Highlighting how free things are during the talk, Nagiyev uses "svoboden" ("free", from "svobodnyy") to make the point stick.
+- 'I will tell you honestly right away.' Barinov fires back firmly across the room, shifting the mood of the conversation in a single beat.
+- 'You can always count on me.' Barinov speaks lightly without any doubt, without trying to dress up how he really feels.
+- 'And what was that woman from my past doing here?' Pointing to the woman right here, Nagiyev brings in "zhenshchina" ("woman") to make the meaning unmistakable.
+- 'She demanded a new menu from us.' Dwelling on a new menu before Nagiyev, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Do not worry, she will not last long here.' Barinov opens up candidly toward Nagiyev, letting the remark speak for itself.
+- 'I am thinking of raising your salary next month.' Underscoring how next he is in the exchange, Nagiyev brings in "sleduyushchem" ("next", from "sleduyushchiy") as the key Russian word here.
+- 'Thank you very much, Dima.' Barinov briskly delivers this word of thanks at this moment using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Thank you for your loyalty.' Nagiyev follows up briskly with a shrug, steering the talk right where he wants it.
+- 'Hi, I am Max, and what is your name?' Max steps in evenly at once and lands on "zovut" ("call", built on "zvat") to keep the statement grounded.
+- 'My name is Vika.' Replying earnestly in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'A wonderful name, allow me to treat you.' Max weighs in boldly with Barinov, grounding the moment in plain reality.

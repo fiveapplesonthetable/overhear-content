@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, wait a second, hold on, stop.' Sasha stands firm candidly in this moment, making her position completely clear.
-- 'I will sort everything out.' Max answers quietly in their talk, before Sasha can change the subject.
-- 'Really. Okay?' Sasha spotlights one loaded word at once: "pravda" means "honestly", and it carries the main weight of what Sasha is saying.
-- 'Well, what have you decided?' Max lays out this answer for Sasha: putting the question word "chto" right at the front of the line lets Sasha hear the point of the question on the very first beat.
-- 'So go on, move back in, everything is fine.' Sasha continues firmly with Max, saying out loud what both of them already know.
-- 'Still, I have decided to move out.' Sasha colors one sharp expression right here: "pereyekhat" means "to move in", and it carries the main weight of what Sasha is saying.
-- 'Oh, well, up to you.' Sasha shapes that answer around Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Why am I calling?' Max presses evenly where this conversation is heading next.
-- 'A young man came by here the other day.' Sasha underscores this key term toward Max: "prikhodil" means "used to come" (from "prikhodit"), giving the line its exact edge.
-- 'He was asking about you.' Max states the reply at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'He seemed rather suspicious to me.' Sasha proceeds calmly watching Max, testing Max's reaction in the middle of the exchange.
-- 'You do not need to worry about any of this.' Max reacts honestly beside Sasha, shifting the whole mood of the room in a single beat.
-- 'All right then, goodbye.' Sasha aims that answer to Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Listen, wait a second, hold on, stop.' Sasha answers smoothly with Max and lands on "slushay" ("listen", built on "slushat") to keep the statement grounded.
+- 'I will sort everything out.' Max reacts quietly without a pause, testing Sasha's reaction in the middle of the exchange.
+- 'Really. Okay?' Sasha lightly drops this word of agreement as they meet using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Well, what have you decided?' Turning warmly in this beat, Max puts the question word "chto" right at the start so Sasha hears the focus immediately.
+- 'So go on, move back in, everything is fine.' Sasha responds firmly across the room, to clear the air between them once and for all.
+- 'Still, I have decided to move out.' Sasha weighs in smoothly at once and centers the remark on "pereyekhat" ("to move in") without any extra fuss.
+- 'Oh, well, up to you.' Pushing back directly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Why am I calling?' Max presses evenly why things suddenly took this turn between them.
+- 'A young man came by here the other day.' Sasha chimes in pointedly around Max and reaches for the Russian word "molodoy" ("young") right at the heart of the line.
+- 'He was asking about you.' Speaking warmly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'He seemed rather suspicious to me.' Sasha speaks calmly facing Max, so Max knows she is not just making small talk.
+- 'You do not need to worry about any of this.' Max pushes back honestly without any doubt, letting the remark speak for itself.
+- 'All right then, goodbye.' Sasha gently drops this polite farewell with Max using "do svidaniya" ("goodbye") — literally "until the next meeting", the standard Russian farewell.

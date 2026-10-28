@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My beloved man is cooking me a delicious dinner.' Elena points to this sharp element with Barinov: "muzhchina" means "man", and it carries the main weight of what Elena is saying.
-- 'Especially since I am a brilliant head chef.' Barinov makes the reaction at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Look, your sous-chef is calling right now.' Elena follows up decisively hearing Barinov, leaving no doubt about where she stands.
-- 'Put the phone on speakerphone.' Barinov stresses this clear element in reply: "gromkuyu" means "loud, high-profile" (from "gromkiy"), giving the line its exact edge.
-- 'Yes, Lyova, what happened over there?' Barinov brings this point in earnest: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
-- 'Tomorrow you do not have to come to work at all.' Lyova follows up decisively facing Elena, so Elena knows he is not just making small talk.
-- 'You had better rest quietly at home.' Lyova spotlights one direct choice in reply: "otdokhnite" means "to have a rest" (from "otdokhnut"), giving the line its exact edge.
-- 'Lyova, what nonsense are you talking right now?' Barinov makes this answer beside Lyova: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'I know that you must not work.' Lyova cuts in lightly with Barinov, to clear the air between them once and for all.
-- 'I made that up so I could leave early.' Barinov colors one telling touch for Lyova: "poranshe" means "a bit earlier", and it carries the main weight of what Barinov is saying.
-- 'You will definitely undergo a full medical checkup.' Elena stresses one clear detail on cue: "obsledovaniye" means "medical" (from "obsledovaniy"), giving the line its exact edge.
-- 'My friend works as chief doctor at the clinic.' Elena chimes in quietly across the room, so Lyova knows she is not just making small talk.
+- 'My beloved man is cooking me a delicious dinner.' Emphasizing the man beside Barinov, Elena centers the remark on "muzhchina" ("man") without any extra fuss.
+- 'Especially since I am a brilliant head chef.' Focusing on a brilliant head beside Elena, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Look, your sous-chef is calling right now.' Elena pushes back decisively around Barinov, leaving no doubt about where she stands.
+- 'Put the phone on speakerphone.' Mentioning the phone in front of Elena, Barinov leans on "gromkuyu" ("loud, high-profile", a form of "gromkiy") to give the remark its edge.
+- 'Yes, Lyova, what happened over there?' Looking over boldly at once, the "-sya" ending on "sluchilos" ("happened") marks an action that unfolds mutually or turns back on the speaker.
+- 'Tomorrow you do not have to come to work at all.' Lyova follows up decisively across the room, so Barinov knows he is not just making small talk.
+- 'You had better rest quietly at home.' Lyova counters sharply on the spot and lands on "otdokhnite" ("to have a rest", built on "otdokhnut") to keep the statement grounded.
+- 'Lyova, what nonsense are you talking right now?' Pushing back evenly at once, Barinov keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'I know that you must not work.' Lyova cuts in lightly facing Barinov, before Barinov can change the subject.
+- 'I made that up so I could leave early.' Barinov jumps in warmly in front of Lyova and brings in "poranshe" ("a bit earlier") to make the meaning unmistakable.
+- 'You will definitely undergo a full medical checkup.' Elena counters quietly facing Barinov, leaving no doubt about where she stands.
+- 'My friend works as chief doctor at the clinic.' Elena opens up quietly beside Barinov, shifting the mood of the conversation in a single beat.

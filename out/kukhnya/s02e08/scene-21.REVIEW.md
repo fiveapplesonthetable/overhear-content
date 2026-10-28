@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And it is the exact same way with our restaurant.' Barinov chimes in quietly in this moment, keeping the focus on what actually matters here.
-- 'No, I do not want to right now.' Vika uses one vivid piece on cue: "seychas" means "now", and it carries the main weight of what Vika is saying.
-- 'Then what do you want right now?' Kostya offers this point without fuss: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Goodness, you head chefs seem like such tough guys.' Barinov opens up warmly without any doubt, to clear the air between them once and for all.
-- 'So why are you so silly sometimes?' Vika picks one key term at once: "glupyye" means "silly, stupid" (from "glupyy"), giving the line its exact edge.
-- 'For someone, that moment arrives with a first kiss.' Kostya fires back evenly with a smile, steering the talk right where he wants it.
-- 'Like something from a flea market.' Barinov answers wryly around Kostya, to clear the air between them once and for all.
-- 'No, I will write it down right now.' Vika stresses this key touch toward Kostya: "seychas" means "now", and it carries the main weight of what Vika is saying.
-- 'You need the letter K.' Kostya directs that remark plainly here: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'And it is the exact same way with our restaurant.' Barinov chimes in quietly on the spot, keeping the focus on what actually matters here.
+- 'No, I do not want to right now.' Following up warmly with Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Then what do you want right now?' Reacting earnestly in this beat, Kostya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Goodness, you head chefs seem like such tough guys.' Barinov follows up warmly in this moment, steering the talk right where he wants it.
+- 'So why are you so silly sometimes?' Highlighting how silly things are right here, Vika centers the thought on "glupyye" ("silly, stupid", from "glupyy") without wasting a word.
+- 'For someone, that moment arrives with a first kiss.' Kostya jumps in candidly in this beat and chooses "nastupayet" ("to advance", from the root "nastupat") so Vika hears the exact meaning.
+- 'Like something from a flea market.' Barinov follows up wryly across the room, refusing to let the moment slip past.
+- 'No, I will write it down right now.' Vika answers quietly with Barinov and chooses "napishu" ("will write", from the root "napisat") so Barinov hears the exact meaning.
+- 'You need the letter K.' Turning readily in front of Vika, Kostya leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
 - 'Dad, are you not ashamed of yourself?' Barinov wonders wryly to see how Vika will answer on the spot.
-- 'In that case, I am heading home.' Vika underscores one telling element at once: "uyezzhayu" means "am leaving" (from "uyezzhat"), giving the line its exact edge.
-- 'Well, the animal may have been poor.' Kostya weighs in honestly on the spot, grounding the moment in plain reality.
-- 'That today is the day it will definitely happen.' Barinov proceeds firmly before Kostya, so Kostya knows he is not just making small talk.
+- 'In that case, I am heading home.' Vika weighs in directly to Barinov and chooses "uyezzhayu" ("am leaving", from the root "uyezzhat") so Barinov hears the exact meaning.
+- 'Well, the animal may have been poor.' Focusing on the animal right here, Kostya centers the remark on "zhivotnoye" ("animal") without any extra fuss.
+- 'That today is the day it will definitely happen.' Barinov proceeds firmly on the spot, making his position completely clear.

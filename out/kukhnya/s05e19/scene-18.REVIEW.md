@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oguzok, have you completely lost your mind?' Barinov prompts eagerly as Eleonora tries to explain the situation.
-- 'Chef, wait, what happened?' Max sharpens one colorful expression on cue: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'You ruined my dream with your pâté!' Barinov sharpens one telling piece at once: "pashtetom" means "pâté, paste" (from "pashtet"), giving the line its exact edge.
-- 'Vitya, what exactly is the matter here?' Eleonora challenges earnestly as Max tries to explain the situation.
-- 'Why is this guy cooking for the Michelin inspector?' Eleonora stresses one direct expression in reply: "inspektora" means "inspector" (from "inspektor"), giving the line its exact edge.
-- 'I appointed him temporarily, gave him a chance.' Barinov reacts quietly with a smile, saying out loud what both of them already know.
-- 'I was the one who gave you a chance to work in a prestigious hotel!' Eleonora answers right away before Barinov, steering the talk right where she wants it.
-- 'Without me your hotel would have become a station flophouse!' Barinov colors one telling word on cue: "privokzalnoy" means "train-station" (from "privokzalnyy"), giving the line its exact edge.
-- 'Do you think you are here because you are a great chef?' Eleonora shapes the reply toward Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'When you were left without a job, Katya came to me.' Eleonora reacts candidly toward Max, so Max knows she is not just making small talk.
-- 'She cried that nobody would hire her dad anywhere.' Eleonora colors one practical choice in reply: "plakala" means "were crying" (from "plakat"), giving the line its exact edge.
-- 'I simply felt sorry for you back then.' Eleonora delivers that reply without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Oguzok, have you completely lost your mind?' Barinov prompts eagerly whether Max really thought this through.
+- 'Chef, wait, what happened?' Max reacts candidly around Barinov and reaches for the Russian word "podozhdite" ("wait", built from "podozhdat") right at the center of the line.
+- 'You ruined my dream with your pâté!' Barinov jumps in plainly hearing Max, to clear the air between them once and for all.
+- 'Vitya, what exactly is the matter here?' Eleonora challenges earnestly where this conversation is heading next.
+- 'Why is this guy cooking for the Michelin inspector?' Touching on the inspector around Barinov, Eleonora uses "inspektora" ("inspector", from "inspektor") to make the point stick.
+- 'I appointed him temporarily, gave him a chance.' Focusing on a chance at once, Barinov leans on "naznachil" ("called, set", a form of "naznachit") to give the remark its edge.
+- 'I was the one who gave you a chance to work in a prestigious hotel!' Eleonora answers right away toward Barinov, so Barinov knows she is not just making small talk.
+- 'Without me your hotel would have become a station flophouse!' Pointing to the hotel in front of Eleonora, Barinov puts the weight on "privokzalnoy" ("train-station", from "privokzalnyy") as the exchange unfolds.
+- 'Do you think you are here because you are a great chef?' Emphasizing how great Barinov is at once, Eleonora puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'When you were left without a job, Katya came to me.' Eleonora continues candidly toward Barinov, letting the remark speak for itself.
+- 'She cried that nobody would hire her dad anywhere.' Focusing on the daddy right here, Eleonora leans on "plakala" ("were crying", a form of "plakat") to give the remark its edge.
+- 'I simply felt sorry for you back then.' Speaking frankly around Barinov, Eleonora uses the little word "prosto" ("simply, just") to make the point sound effortless.

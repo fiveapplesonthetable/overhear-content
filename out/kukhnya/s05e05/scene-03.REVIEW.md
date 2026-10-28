@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She is a good one you have.' Eleonora fires back at once with a nod, refusing to let the moment slip past.
-- 'Listen, Elya, do you think I understand nothing?' Barinov sharpens one vivid piece with Kostya: "dumayesh" means "think" (from "dumat"), giving the line its exact edge.
-- 'You blabber about your ex-husband.' Barinov frames the comeback calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Do you want to ruin our relationship?' Barinov inquires quietly how Kostya expects that to work in practice.
-- 'Calm down, I will leave everything to a professional.' Eleonora reaches for this key term in earnest: "professionalu" means "professional" (from "professional"), giving the line its exact edge.
-- 'Especially since you have already started.' Eleonora uses one familiar term in reply: "boleye" means "more", and it carries the main weight of what Eleonora is saying.
-- 'After all, you told her nothing about me.' Eleonora weighs in decisively toward Barinov, saying out loud what both of them already know.
-- 'You are simply jealous of me.' Barinov anchors this clear element in earnest: "zaviduyesh" means "envy, are jealous" (from "zavidovat"), giving the line its exact edge.
-- 'All men run away from you.' Barinov grounds one colorful piece toward Eleonora: "muzhiki" means "lads, guys" (from "muzhik"), giving the line its exact edge.
-- 'He ran so far that you will not reach him.' Barinov holds firm boldly toward Kostya, shifting the whole mood of the room in a single beat.
-- 'Maybe she was joking?' Kostya underscores one practical detail for Barinov: "poshutila" means "was joking" (from "poshutit"), giving the line its exact edge.
-- 'Well whose child is it, if not yours?' Kostya brings that remark briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'She is a good one you have.' Eleonora weighs in frankly with a sigh, leaving no doubt about where she stands.
+- 'Listen, Elya, do you think I understand nothing?' Barinov responds sharply around Eleonora and reaches for the Russian word "ponimayu" ("understand", built from "ponimat") right at the center of the line.
+- 'You blabber about your ex-husband.' Returning to the husband with Eleonora, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Do you want to ruin our relationship?' Barinov inquires quietly to see how Eleonora will answer on the spot.
+- 'Calm down, I will leave everything to a professional.' Bringing up a professional on the spot, Eleonora brings in "professionalu" ("professional", from "professional") as the key Russian word here.
+- 'Especially since you have already started.' Eleonora speaks candidly hearing Barinov, steering the talk right where she wants it.
+- 'After all, you told her nothing about me.' Eleonora replies decisively with Barinov, without trying to dress up how she really feels.
+- 'You are simply jealous of me.' Barinov responds naturally in front of Eleonora and brings in "zaviduyesh" ("envy, are jealous", from "zavidovat") as the key Russian word here.
+- 'All men run away from you.' Barinov fires back plainly around Eleonora, shifting the mood of the conversation in a single beat.
+- 'He ran so far that you will not reach him.' Barinov pushes back boldly without any doubt, leaving no doubt about where he stands.
+- 'Maybe she was joking?' Kostya counters directly before Barinov and reaches for the Russian word "poshutila" ("was joking", built from "poshutit") right at the center of the line.
+- 'Well whose child is it, if not yours?' Talking about the child on the spot, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.

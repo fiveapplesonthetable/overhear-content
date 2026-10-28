@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, excuse me, you are not alone.' Lyova gives the comeback plainly here: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
-- 'You see, we were just watching television.' Elena jumps in frankly toward Mama, letting the remark speak for itself.
-- 'I asked my son to change the lightbulb.' Mama sharpens one concrete piece in earnest: "prosila" means "asked" (from "prosit"), giving the line its exact edge.
-- 'We were on our way to the train station.' Elena proceeds bluntly around Mama, letting the remark speak for itself.
-- 'Excuse me, I do not quite understand.' Lyova responds steadily with a smile, before Elena can change the subject.
-- 'Whose mother are you?' Elena underscores this direct element right here: "mama" means "mum, mother", and it carries the main weight of what Elena is saying.
-- 'Is she your mother?' Lyova brings the reply with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am Lyova's mother, Vera Ivanovna.' Elena speaks up firmly in this moment, without trying to dress up how she really feels.
-- 'Very pleased to meet you.' Lyova sharpens one familiar element right here: "poznakomitsya" means "to meet", and it carries the main weight of what Lyova is saying.
-- 'I can explain everything.' Elena states this answer on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'No, thank you.' Lyova counters earnestly without any doubt, refusing to let the moment slip past.
-- 'Maybe some other time.' Elena reaches for this vivid word in earnest: "drugoy" means "other", and it carries the main weight of what Elena is saying.
-- 'Thank you very much.' Lyova makes this answer right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Oh, excuse me, you are not alone.' Lyova proceeds candidly with a shrug, testing Elena's reaction in the middle of the exchange.
+- 'You see, we were just watching television.' Elena steps in frankly toward Lyova, letting the remark speak for itself.
+- 'I asked my son to change the lightbulb.' Highlighting her son during the talk, Mama brings in "syna" ("son") to make the meaning unmistakable.
+- 'We were on our way to the train station.' Turning to the train station around Mama, Elena reaches for the Russian word "vokzal" ("railway station") right at the heart of the line.
+- 'Excuse me, I do not quite understand.' Lyova answers steadily toward Elena, refusing to let the moment slip past.
+- 'Whose mother are you?' Pointing to the mum before Mama, Elena puts the emphasis on "mama" ("mum, mother") in the middle of the talk.
+- 'Is she your mother?' Talking about the mum with Mama, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am Lyova's mother, Vera Ivanovna.' Elena weighs in firmly with a nod, making her position completely clear.
+- 'Very pleased to meet you.' Lyova proceeds naturally on the spot and puts the emphasis on "poznakomitsya" ("to meet") in the middle of the talk.
+- 'I can explain everything.' Weighing in briskly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'No, thank you.' Lyova casually gives this polite thanks in the exchange using "blagodaryu" ("I thank you") — literally "I give thanks", a slightly more formal way to say thank you than "spasibo".
+- 'Maybe some other time.' Pressing on calmly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Thank you very much.' Lyova smoothly shares this polite thanks beside Elena using "blagodaryu" ("I thank you") — literally "I give thanks", a slightly more formal way to say thank you than "spasibo".

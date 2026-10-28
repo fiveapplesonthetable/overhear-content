@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our destiny always leaves us clues.' Max counters at once as things stand, to clear the air between them once and for all.
-- 'Following them, we end up where we are meant to be.' Max responds dryly toward Lyova, letting the remark speak for itself.
-- 'Sometimes we follow a false trail.' Max highlights one colorful choice at once: "lozhnomu" means "false, fake" (from "lozhnyy"), giving the line its exact edge.
-- 'Attention, the inspector left a review on the Michelin website!' Lyova continues decisively hearing Max, letting the remark speak for itself.
-- 'The hotel restaurant in the heart of the capital is worth visiting.' Lyova chimes in steadily before Barinov, grounding the moment in plain reality.
-- 'For its unexpected takes on classic French cuisine!' Lyova centers one memorable element toward Max: "neozhidannykh" means "unexpected" (from "neozhidannyy"), giving the line its exact edge.
-- 'Congratulations, it is the first such restaurant in Russia!' Lyova continues firmly around Barinov, keeping the focus on what actually matters here.
-- 'Max, you did a great job, this is your success!' Lyova stands firm honestly around Max, testing Max's reaction in the middle of the exchange.
-- 'Thank you, guys, I did not expect it myself!' Max emphasizes one colorful piece on cue: "spasibo" means "thank you", and it carries the main weight of what Max is saying.
-- 'When you have made mistakes so often in life...' Barinov aims the comeback in earnest: the "-sya" ending on "oshibalsya" ("to make a mistake") turns the action inward or makes it happen between people naturally.
-- 'You stop paying attention to the clues of fate.' Barinov answers dryly toward Lyova, steering the talk right where he wants it.
-- 'And simply walk calmly along your own road.' Barinov points to one colorful element for Max: "dorogoy" means "dear", and it carries the main weight of what Barinov is saying.
+- 'Our destiny always leaves us clues.' Emphasizing the clues before Lyova, Max centers the thought on "podskazki" ("clues", from "podskazka") without wasting a word.
+- 'Following them, we end up where we are meant to be.' Max reacts dryly watching Lyova, letting the remark speak for itself.
+- 'Sometimes we follow a false trail.' Bringing up a false trail with Lyova, Max reaches for the Russian word "lozhnomu" ("false, fake", built from "lozhnyy") right at the center of the line.
+- 'Attention, the inspector left a review on the Michelin website!' Highlighting the attention on the spot, Lyova puts the emphasis on "vnimaniye" ("attention") in the middle of the talk.
+- 'The hotel restaurant in the heart of the capital is worth visiting.' Lyova continues steadily around Max, to clear the air between them once and for all.
+- 'For its unexpected takes on classic French cuisine!' Underscoring the decision at once, Lyova lands on "neozhidannykh" ("unexpected", built on "neozhidannyy") to keep the statement grounded.
+- 'Congratulations, it is the first such restaurant in Russia!' Touching on the restaurant in this beat, Lyova centers the thought on "pozdravlyayu" ("congratulations", from "pozdravlyat") without wasting a word.
+- 'Max, you did a great job, this is your success!' Lyova proceeds honestly with a smile, watching Max's face to see how the news lands.
+- 'Thank you, guys, I did not expect it myself!' Turning to the thank on the spot, Max puts the emphasis on "spasibo" ("thank you") in the middle of the talk.
+- 'When you have made mistakes so often in life...' Weighing in evenly around Max, the "-sya" ending on "oshibalsya" ("to make a mistake") marks an action that unfolds mutually or turns back on the speaker.
+- 'You stop paying attention to the clues of fate.' Barinov pushes back dryly toward Max, keeping the focus on what actually matters here.
+- 'And simply walk calmly along your own road.' Barinov steps in naturally with Max and lands on "dorogoy" ("dear") as the key everyday word here.

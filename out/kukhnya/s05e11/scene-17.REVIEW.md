@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like the food?' Eleonora makes this statement with ease: putting the question word "kak" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'You know, it was magnificent!' Lyova opens up calmly without holding back, letting the remark speak for itself.
-- 'Yes, I liked it very much too.' Eleonora emphasizes this sharp choice with Denis: "ponravilos" means "pleased, was liked" (from "ponravitsya"), giving the line its exact edge.
-- 'And here is the prize for the winner!' Denis delivers the comeback briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What are you doing tonight?' Denis quizzes briskly where this conversation is heading next.
-- 'Take your hands off!' Lyova anchors one practical choice with Eleonora: "ruki" means "hands" (from "ruka"), giving the line its exact edge.
-- 'Immediately take your hands off her!' Lyova pushes back bluntly with Denis, letting the remark speak for itself.
-- 'She does not like that.' Lyova replies wryly beside Eleonora, grounding the moment in plain reality.
-- 'Old man, everything I do with my hands women like very much.' Denis anchors this clear choice toward Eleonora: "zhenshchinam" means "women" (from "zhenshchina"), giving the line its exact edge.
-- 'I said, take your hands off!' Lyova brings this answer right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I demand that you apologize to the girl!' Lyova jumps in evenly hearing Denis, testing Denis's reaction in the middle of the exchange.
-- 'Listen, this is over the line.' Denis points to one loaded term toward Lyova: "perebor" means "too much, overkill", and it carries the main weight of what Denis is saying.
+- 'Well, how do you like the food?' Holding firm earnestly during the talk, Eleonora puts the question word "kak" right at the start so Lyova hears the focus immediately.
+- 'You know, it was magnificent!' Lyova follows up calmly during the talk, grounding the moment in plain reality.
+- 'Yes, I liked it very much too.' Eleonora opens up openly in the exchange and puts the weight on "ponravilos" ("pleased, was liked", from "ponravitsya") as the exchange unfolds.
+- 'And here is the prize for the winner!' Pointing to the winner around Eleonora, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What are you doing tonight?' Denis quizzes briskly why things suddenly took this turn between them.
+- 'Take your hands off!' Emphasizing the hands right here, Lyova chooses "ruki" ("hands", from the root "ruka") so Denis hears the exact meaning.
+- 'Immediately take your hands off her!' Underscoring the hands in this beat, Lyova puts the emphasis on "nemedlenno" ("immediately") in the middle of the talk.
+- 'She does not like that.' Lyova speaks up wryly hearing Denis, keeping the focus on what actually matters here.
+- 'Old man, everything I do with my hands women like very much.' Pointing to the women in front of Lyova, Denis lands on "zhenshchinam" ("women", built on "zhenshchina") to keep the statement grounded.
+- 'I said, take your hands off!' Talking about the hands before Denis, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I demand that you apologize to the girl!' Lyova proceeds evenly without a pause, so Denis knows he is not just making small talk.
+- 'Listen, this is over the line.' Denis pushes back firmly at once and uses "perebor" ("too much, overkill") to carry the main weight of the thought.

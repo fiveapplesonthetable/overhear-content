@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What kind of strange help is that?' Nagiyev centers one memorable element toward Eleonora: "strannaya" means "strange" (from "strannyy"), giving the line its exact edge.
-- 'I know Vitya better than he knows himself.' Eleonora jumps in pointedly watching Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
-- 'But you already had an agreement with him.' Nagiyev cuts in warmly facing Eleonora, watching Eleonora's face to see how the news lands.
-- 'And then he went and lost everything.' Eleonora colors one telling touch toward Nagiyev: "proigral" means "lost" (from "proigrat"), giving the line its exact edge.
-- 'Right now I need him in top form.' Eleonora answers decisively as they talk, grounding the moment in plain reality.
-- 'Believe me, he will beat all the competitors.' Eleonora follows up dryly watching Nagiyev, so Nagiyev knows she is not just making small talk.
-- 'And he will bring us the first star in Russia.' Eleonora colors this clear touch toward Nagiyev: "prinesyot" means "will bring" (from "prinesti"), giving the line its exact edge.
-- 'That is what is called a smart strategy.' Eleonora delivers this answer without pause: the "-sya" ending on "nazyvayetsya" ("is called") turns the action inward or makes it happen between people naturally.
-- 'And this right here is called our bedroom.' Nagiyev speaks at once during the talk, saying out loud what both of them already know.
-- 'And I feel so lonely in it.' Nagiyev uses one classic word in reply: "odinoko" means "lonely", and it carries the main weight of what Nagiyev is saying.
-- 'Do not play the fool tonight, Dima.' Eleonora steps in pointedly during the talk, steering the talk right where she wants it.
-- 'Nothing but great strategists gathered all around.' Nagiyev replies promptly without holding back, steering the talk right where he wants it.
+- 'What kind of strange help is that?' Showing how strange things are at once, Nagiyev reaches for the Russian word "strannaya" ("strange", built from "strannyy") right at the center of the line.
+- 'I know Vitya better than he knows himself.' Eleonora proceeds evenly with Nagiyev and chooses "samogo" ("the very", from the root "samyy") so Nagiyev hears the exact meaning.
+- 'But you already had an agreement with him.' Nagiyev answers warmly facing Eleonora, so Eleonora knows he is not just making small talk.
+- 'And then he went and lost everything.' Eleonora responds warmly in front of Nagiyev and uses "proigral" ("lost", from "proigrat") to make the point stick.
+- 'Right now I need him in top form.' Mentioning the uniform in front of Nagiyev, Eleonora uses "nuzhen" ("is needed", from "nuzhnyy") to make the point stick.
+- 'Believe me, he will beat all the competitors.' Eleonora answers dryly without any doubt, grounding the moment in plain reality.
+- 'And he will bring us the first star in Russia.' Pointing to the first star to Nagiyev, Eleonora leans on "pervuyu" ("first", a form of "pervyy") to give the remark its edge.
+- 'That is what is called a smart strategy.' Pointing to a smart strategy with Nagiyev, Eleonora brings in "strategiya" ("strategy") to make the meaning unmistakable.
+- 'And this right here is called our bedroom.' Nagiyev weighs in at once during the talk, shifting the mood of the conversation in a single beat.
+- 'And I feel so lonely in it.' Nagiyev speaks decisively in this beat and chooses "odinoko" ("lonely") so Eleonora gets the point right away.
+- 'Do not play the fool tonight, Dima.' Underscoring the fool during the talk, Eleonora chooses "duraka" ("fool, idiot", from the root "durak") so Nagiyev hears the exact meaning.
+- 'Nothing but great strategists gathered all around.' Nagiyev steps in promptly without any doubt, steering the talk right where he wants it.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, everyone into the restaurant, we are cooking lunch!' Barinov picks one clear touch at once: "restoran" means "restaurant", and it carries the main weight of what Barinov is saying.
-- 'That was not hard.' Denis shapes the comment at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'We agreed to play to ten, so we will continue after lunch.' Denis weighs in promptly with a smile, before Barinov can change the subject.
-- 'Why prolong your disgrace?' Denis favors one loaded touch in earnest: "prodolzhat" means "to continue", and it carries the main weight of what Denis is saying.
-- 'Well, are you ready?' Nagiyev offers the comment with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Wait, where is the money?' Barinov inquires straight out as Nagiyev tries to explain the situation.
-- 'He learns fast, smart boy.' Nagiyev favors one practical detail on cue: "malchik" means "boy", and it carries the main weight of what Nagiyev is saying.
-- 'We have not filmed a thing yet, and he is already asking for money.' Nagiyev brings this line with warmth: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'The pistol, where is his pistol?' Nagiyev checks firmly whether Barinov really thought this through.
-- 'We are ready, let's film!' Nagiyev uses this direct term right here: "gotovy" means "ready" (from "gotovyy"), giving the line its exact edge.
-- 'Camera, rolling, let's go!' Nagiyev gives the remark without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Scene nine, take one, action!' Nagiyev speaks dryly beside Denis, steering the talk right where he wants it.
+- 'Alright, everyone into the restaurant, we are cooking lunch!' Emphasizing the restaurant in the exchange, Barinov chooses "restoran" ("restaurant") so Denis gets the point right away.
+- 'That was not hard.' Opening up earnestly at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'We agreed to play to ten, so we will continue after lunch.' Denis counters promptly toward Barinov, grounding the moment in plain reality.
+- 'Why prolong your disgrace?' Addressing the disgrace in front of Nagiyev, Denis brings in "prodolzhat" ("to continue") to make the meaning unmistakable.
+- 'Well, are you ready?' Confirming how ready things are on the spot, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Wait, where is the money?' Barinov inquires straight out why things suddenly took this turn between them.
+- 'He learns fast, smart boy.' Addressing the boy during the talk, Nagiyev centers the remark on "malchik" ("boy") without any extra fuss.
+- 'We have not filmed a thing yet, and he is already asking for money.' Talking about the money in front of Barinov, Nagiyev pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'The pistol, where is his pistol?' Nagiyev checks firmly why things suddenly took this turn between them.
+- 'We are ready, let's film!' Pointing out how ready things are before Barinov, Nagiyev reaches for the Russian word "gotovy" ("ready", built from "gotovyy") right at the center of the line.
+- 'Camera, rolling, let's go!' Bringing up the camera in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Scene nine, take one, action!' Nagiyev speaks dryly around Barinov, keeping the focus on what actually matters here.

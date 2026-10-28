@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could you be more careful?' Eleonora presses promptly what Barinov is actually getting at here.
-- 'What do you mean forgive me? Are you going to wash my trousers?' Eleonora reaches for one familiar detail for Denis: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
-- 'Well, if you want, I will wash them. Take them off!' Denis phrases the remark with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Hello, I would like to work in your restaurant.' Denis speaks up quietly without a pause, so Eleonora knows he is not just making small talk.
-- 'Here is my resume.' Denis reaches for this sharp word right here: "rezyume" means "résumé", and it carries the main weight of what Denis is saying.
-- 'I am very sorry, but you do not suit us.' Eleonora directs this answer frankly here: the single Russian word "zhal" ("it is a pity") sets up the whole statement without needing a separate word for "it is".
-- 'Only I decide who works in my kitchen!' Barinov steps in honestly as things stand, without trying to dress up how he really feels.
-- 'The guy's resume is decent.' Barinov grounds this telling term in earnest: "prilichnoye" means "decent, respectable" (from "prilichnyy"), giving the line its exact edge.
-- 'You did not even read it! He will not work here.' Eleonora colors one practical choice on cue: "rabotat" means "to work", and it carries the main weight of what Eleonora is saying.
-- 'You are hired! Congratulations, let us go.' Barinov responds evenly to settle things, making his position completely clear.
-- 'Fine, then let him cook gratin and quail for me.' Eleonora favors one classic detail right here: "perepyolku" means "quail" (from "perepyolka"), giving the line its exact edge.
-- 'And bring it to me personally! We will see what kind of cook he is.' Eleonora cuts in plainly watching Denis, shifting the whole mood of the room in a single beat.
+- 'Could you be more careful?' Eleonora presses promptly if there is more going on behind the scenes.
+- 'What do you mean forgive me? Are you going to wash my trousers?' Touching on her trousers around Denis, Eleonora centers the remark on "bryuki" ("trousers, pants") without any extra fuss.
+- 'Well, if you want, I will wash them. Take them off!' Pressing on boldly in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Hello, I would like to work in your restaurant.' Denis proceeds quietly in this moment, before Eleonora can change the subject.
+- 'Here is my resume.' Bringing up the sum beside Eleonora, Denis uses "rezyume" ("résumé") to carry the main weight of the thought.
+- 'I am very sorry, but you do not suit us.' Pressing on smoothly at once, Eleonora leans on "zhal" ("it is a pity"), which carries the whole predicate in Russian without needing "it is".
+- 'Only I decide who works in my kitchen!' Barinov speaks honestly hearing Eleonora, before Eleonora can change the subject.
+- 'The guy's resume is decent.' Showing how decent things are beside Eleonora, Barinov centers the thought on "prilichnoye" ("decent, respectable", from "prilichnyy") without wasting a word.
+- 'You did not even read it! He will not work here.' Eleonora follows up quietly during the talk, letting the remark speak for itself.
+- 'You are hired! Congratulations, let us go.' Barinov responds evenly with a shrug, shifting the mood of the conversation in a single beat.
+- 'Fine, then let him cook gratin and quail for me.' Discussing the quail in this beat, Eleonora puts the weight on "perepyolku" ("quail", from "perepyolka") as the exchange unfolds.
+- 'And bring it to me personally! We will see what kind of cook he is.' Eleonora responds pointedly right here and lands on "prinesyot" ("will bring", built on "prinesti") to keep the statement grounded.

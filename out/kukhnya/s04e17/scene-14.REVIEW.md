@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Meet my fiancé Denis.' Katya makes that remark plainly here: the "-sya" ending on "znakomtes" ("meet") turns the action inward or makes it happen between people naturally.
-- 'He is the head chef of our restaurant.' Katya opens up wryly on the spot, so Nagiyev knows she is not just making small talk.
-- 'Good evening, how do you like it here?' Denis spotlights one sharp word in earnest: "dobryy" means "good", and it carries the main weight of what Denis is saying.
-- 'I must go back to the stove.' Denis weighs in lightly facing Nagiyev, before Nagiyev can change the subject.
-- 'Denis, come over here quickly!' Nagiyev holds firm pointedly as things stand, keeping the focus on what actually matters here.
-- 'We are going to drink delicious wine right now.' Nagiyev anchors one classic piece with Katya: "vkusnoye" means "tasty, delicious" (from "vkusnyy"), giving the line its exact edge.
-- 'And at the grand piano you will play something romantic.' Nagiyev points to this telling expression in earnest: "romantiku" means "romantic" (from "romantik"), giving the line its exact edge.
-- 'But you planned the date for tomorrow.' Denis fires back steadily with a smile, bringing things back to earth after the buildup.
-- 'Never put off love until tomorrow!' Nagiyev favors one pointed detail on cue: "otkladyvay" means "off", and it carries the main weight of what Nagiyev is saying.
-- 'Friends, I prepared a musical gift for you.' Denis chooses one key touch on cue: "muzykalnyy" means "gift", and it carries the main weight of what Denis is saying.
-- 'Yes, my fiancé plays wonderfully.' Katya proceeds quietly in their talk, leaving no doubt about where she stands.
-- 'A talented person is talented in everything.' Katya points to one vivid expression on cue: "talantlivyy" means "talented", and it carries the main weight of what Katya is saying.
+- 'Meet my fiancé Denis.' Focusing on the groom at once, Katya reaches for the Russian word "zhenikh" ("groom, fiancé") right at the heart of the line.
+- 'He is the head chef of our restaurant.' Katya follows up wryly with a smile, grounding the moment in plain reality.
+- 'Good evening, how do you like it here?' Discussing the evening in front of Katya, Denis chooses "dobryy" ("good") so Katya gets the point right away.
+- 'I must go back to the stove.' Bringing up the stove on the spot, Denis brings in "dolzhen" ("has to, must") to make the meaning unmistakable.
+- 'Denis, come over here quickly!' Nagiyev pushes back pointedly in their talk, steering the talk right where he wants it.
+- 'We are going to drink delicious wine right now.' Underscoring how tasty things are in this beat, Nagiyev reaches for the Russian word "vkusnoye" ("tasty, delicious", built from "vkusnyy") right at the center of the line.
+- 'And at the grand piano you will play something romantic.' Nagiyev opens up quietly with a smile, watching Denis's face to see how the news lands.
+- 'But you planned the date for tomorrow.' Denis jumps in steadily across the room, testing Nagiyev's reaction in the middle of the exchange.
+- 'Never put off love until tomorrow!' Talking about the love beside Denis, Nagiyev lands on "lyubov" ("love") as the key everyday word here.
+- 'Friends, I prepared a musical gift for you.' Denis chimes in bluntly watching Nagiyev, watching Nagiyev's face to see how the news lands.
+- 'Yes, my fiancé plays wonderfully.' Katya speaks quietly during the talk, before Denis can change the subject.
+- 'A talented person is talented in everything.' Confirming how talented things are around Denis, Katya leans on "talantlivyy" ("talented") to give the whole sentence its punch.

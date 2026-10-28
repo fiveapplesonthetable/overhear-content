@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Has the Chef not arrived yet today?' Max underscores one memorable piece in earnest: "prikhodil" means "used to come" (from "prikhodit"), giving the line its exact edge.
-- 'He will probably arrive right now.' Katya opens up warmly around Max, shifting the whole mood of the room in a single beat.
-- 'Yesterday I went to see Elena Pavlovna.' Barinov proceeds quietly on the spot, grounding the moment in plain reality.
-- 'I made her a proper marriage proposal.' Barinov centers this telling touch toward Max: "predlozheniye" means "offer, proposal", and it carries the main weight of what Barinov is saying.
-- 'And she immediately said yes to me!' Barinov stands firm openly with Katya, steering the talk right where he wants it.
-- 'Senya and Fedya, prepare the snacks!' Barinov continues frankly in this moment, so Max knows he is not just making small talk.
-- 'Louis, quickly bring the shot glasses here!' Barinov focuses on one concrete detail at once: "ryumki" means "shot glasses" (from "ryumka"), giving the line its exact edge.
-- 'Do you need a special invitation, Maxim?' Barinov gives this line frankly here: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Dad, Max got divorced from Vika today.' Katya pushes back briskly as things stand, keeping the focus on what actually matters here.
-- 'Then we have all the more reason to drink!' Barinov emphasizes this vivid piece for Max: "boleye" means "more", and it carries the main weight of what Barinov is saying.
-- 'Thank you, Viktor Petrovich, I agree.' Max drops this update before Barinov: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Come with me to the office, Maxim.' Barinov pushes back briskly with Max, watching Max's face to see how the news lands.
+- 'Has the Chef not arrived yet today?' Max opens up openly to Barinov and uses "prikhodil" ("used to come", from "prikhodit") to make the point stick.
+- 'He will probably arrive right now.' Katya pushes back readily on the spot and brings in "navernoye" ("probably") to make the meaning unmistakable.
+- 'Yesterday I went to see Elena Pavlovna.' Barinov weighs in quietly with Katya, testing Katya's reaction in the middle of the exchange.
+- 'I made her a proper marriage proposal.' Underscoring the offer beside Katya, Barinov lands on "predlozheniye" ("offer, proposal") as the key everyday word here.
+- 'And she immediately said yes to me!' Barinov replies firmly in front of Katya and uses "srazu" ("at once") to carry the main weight of the thought.
+- 'Senya and Fedya, prepare the snacks!' Barinov reacts frankly with Katya, keeping the focus on what actually matters here.
+- 'Louis, quickly bring the shot glasses here!' Highlighting the shot glasses right here, Barinov uses "ryumki" ("shot glasses", from "ryumka") to make the point stick.
+- 'Do you need a special invitation, Maxim?' Looking over briskly beside Max, Barinov leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Dad, Max got divorced from Vika today.' Pointing to the dad facing Max, Katya sets the direction for the rest of the talk with Max.
+- 'Then we have all the more reason to drink!' Barinov speaks up readily right here and brings in "nuzhno" ("necessary") to make the meaning unmistakable.
+- 'Thank you, Viktor Petrovich, I agree.' Max smoothly extends this word of thanks in the exchange using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Come with me to the office, Maxim.' Barinov responds briskly facing Max, grounding the moment in plain reality.

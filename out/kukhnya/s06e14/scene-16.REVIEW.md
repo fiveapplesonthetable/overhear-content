@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I saw bandits carry away our teacher.' The guest spotlights one key detail toward Barinov: "uchitelya" means "the teachers" (from "uchitel"), giving the line its exact edge.
-- 'We need to urgently do something about this.' The guest puts the reply facing Senya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'It is unpleasant when they stare at us like that.' Senya steps in calmly around Barinov, making his position completely clear.
-- 'Calm down, I will speak with their head chef.' The guest spotlights one pointed choice with Senya: "shef-povarom" means "head chef" (from "shef-povar"), giving the line its exact edge.
-- 'We will calmly find out everything here right now.' The guest reacts right away in this moment, watching Barinov's face to see how the news lands.
-- 'Hey, why are unauthorized people in the kitchen?' Barinov questions straight out about what Senya just brought up.
-- 'Tell us, where did you put our prophet?' The guest stresses one vivid touch right here: "proroka" means "prophet" (from "prorok"), giving the line its exact edge.
-- 'What are you even talking about right now?' Barinov offers this point beside Senya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Chef, they want to blame us for everything!' Senya jumps in boldly beside Barinov, to clear the air between them once and for all.
-- 'What are you saying about us?' The guest anchors one familiar piece right here: "govorite" means "say, speak" (from "govorit"), giving the line its exact edge.
-- 'Brothers, quickly defend yourselves from these cooks!' The guest delivers that reply briskly now: the "-sya" ending on "zashchishchaytes" ("defend yourselves") turns the action inward or makes it happen between people naturally.
-- 'Wait, nobody touched anyone in here!' Barinov continues frankly with a smile, before Senya can change the subject.
+- 'I saw bandits carry away our teacher.' Talking about the teachers during the talk, the guest reaches for the Russian word "uchitelya" ("the teachers", built from "uchitel") right at the center of the line.
+- 'We need to urgently do something about this.' Turning evenly during the talk, the guest leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'It is unpleasant when they stare at us like that.' Senya jumps in calmly on the spot, shifting the mood of the conversation in a single beat.
+- 'Calm down, I will speak with their head chef.' Discussing the head in this beat, the guest uses "shef-povarom" ("head chef", from "shef-povar") to make the point stick.
+- 'We will calmly find out everything here right now.' The guest weighs in decisively during the talk and puts the emphasis on "spokoyno" ("calmly") in the middle of the talk.
+- 'Hey, why are unauthorized people in the kitchen?' Barinov questions straight out why things suddenly took this turn between them.
+- 'Tell us, where did you put our prophet?' Touching on his prophet on the spot, the guest brings in "proroka" ("prophet", from "prorok") as the key Russian word here.
+- 'What are you even talking about right now?' Replying candidly in the exchange, Barinov drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Chef, they want to blame us for everything!' Senya speaks boldly watching Barinov, leaving no doubt about where he stands.
+- 'What are you saying about us?' The guest steps in pointedly on the spot and puts the weight on "govorite" ("say, speak", from "govorit") as the exchange unfolds.
+- 'Brothers, quickly defend yourselves from these cooks!' Talking about the brother to Barinov, the "-sya" ending on "zashchishchaytes" ("defend yourselves") marks an action that unfolds mutually or turns back on the speaker.
+- 'Wait, nobody touched anyone in here!' Barinov reacts frankly without holding back, keeping the focus on what actually matters here.

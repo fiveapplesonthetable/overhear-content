@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What did your parents say?' Kostya picks one memorable element at once: "roditeli" means "parents", and it carries the main weight of what Kostya is saying.
-- 'Oh, nothing much.' Nastya shapes that point without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I haven't told them yet.' Nastya proceeds briskly during the talk, shifting the whole mood of the room in a single beat.
-- 'When will you tell them?' Kostya features one memorable expression right here: "skazhesh" means "will you say" (from "skazat"), giving the line its exact edge.
-- 'Chef, will you look for a molecular cook?' Max hands over the comeback without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'You will go out with me anyway.' Max steps in bluntly in this moment, letting the remark speak for itself.
-- 'I will tell them tomorrow.' Nastya picks one memorable word with Kostya: "zavtra" means "tomorrow", and it carries the main weight of what Nastya is saying.
-- 'No, Dad, I cannot.' Nastya cuts in honestly watching Max, before Max can change the subject.
-- 'I already took days off.' Nastya weighs in lightly in their talk, watching Kostya's face to see how the news lands.
-- 'I am not going on a horseback ride.' Nastya picks this vivid piece toward Max: "progulku" means "walk, ride" (from "progulka"), giving the line its exact edge.
-- 'Alright, I have to go. Bye.' Nastya shapes that thought before Kostya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kostya is on board.
-- 'Nastya, what horseback ride?' Kostya tests curiously before Nastya can change the subject.
+- 'What did your parents say?' Emphasizing the parents to Nastya, Kostya centers the remark on "roditeli" ("parents") without any extra fuss.
+- 'Oh, nothing much.' Pushing back briskly before Kostya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I haven't told them yet.' Nastya jumps in briskly with a shrug, keeping the focus on what actually matters here.
+- 'When will you tell them?' Kostya speaks up decisively to Max and uses "skazhesh" ("will you say", from "skazat") to make the point stick.
+- 'Chef, will you look for a molecular cook?' Touching on a molecular cook in front of Kostya, Max keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'You will go out with me anyway.' Max steps in bluntly with a smile, grounding the moment in plain reality.
+- 'I will tell them tomorrow.' Nastya opens up candidly to Max and brings in "zavtra" ("tomorrow") to make the meaning unmistakable.
+- 'No, Dad, I cannot.' Bringing up the dad before Max, Nastya lands on "papa" ("Dad") as the key everyday word here.
+- 'I already took days off.' Nastya counters lightly in their talk, leaving no doubt about where she stands.
+- 'I am not going on a horseback ride.' Focusing on the walk right here, Nastya puts the weight on "progulku" ("walk, ride", from "progulka") as the exchange unfolds.
+- 'Alright, I have to go. Bye.' Opening up candidly in front of Kostya, Nastya leans on "pora" ("it is time to"), which carries the whole predicate in Russian without needing "it is".
+- 'Nastya, what horseback ride?' Focusing on the walk without a pause, Kostya brings the exchange with Nastya back to practical reality.

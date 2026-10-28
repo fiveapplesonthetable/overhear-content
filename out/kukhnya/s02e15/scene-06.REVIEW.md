@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, Elena.' Barinov weighs in dryly before Lyova, making his position completely clear.
-- 'Good afternoon, Viktor Petrovich.' Vika highlights one key expression with Lyova: "dobryy" means "good", and it carries the main weight of what Vika is saying.
-- 'I thought we switched to first-name terms.' Lyova centers one practical element in earnest: "pereshli" means "moved on, crossed over" (from "pereyti"), giving the line its exact edge.
-- 'It seemed to me.' Barinov answers decisively in this moment, bringing things back to earth after the buildup.
-- 'That yesterday we parted on formal terms.' Vika picks one concrete term with Barinov: "rasstalis" means "broke up, separated" (from "rasstatsya"), giving the line its exact edge.
-- 'You just imagined that.' Lyova aims this answer beside Vika: the "-sya" ending on "pokazalos" ("seemed") turns the action inward or makes it happen between people naturally.
-- 'Well, that is completely normal after all.' Barinov weighs in at once in this moment, letting the remark speak for itself.
-- 'People always compete with their rivals.' Vika points to one telling detail in earnest: "konkurentami" means "rival, competitor" (from "konkurent"), giving the line its exact edge.
-- 'Only I was thinking.' Lyova makes that point beside Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I live with Lyova, who lives with his mother.' Barinov responds wryly during the talk, bringing things back to earth after the buildup.
-- 'Yeah, good luck renting an apartment with Spartak playing like that.' Vika centers one classic detail in reply: "snimesh" means "will take off" (from "snyat"), giving the line its exact edge.
-- 'They only win every other game.' Lyova brings the comment without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Next you will suggest doing it in the car like teenagers.' Barinov cuts in steadily during the talk, leaving no doubt about where he stands.
+- 'Good afternoon, Elena.' Barinov lightly directs this daytime greeting without hesitation using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'Good afternoon, Viktor Petrovich.' Vika chimes in frankly during the talk and chooses "dobryy" ("good") so Barinov gets the point right away.
+- 'I thought we switched to first-name terms.' Lyova proceeds briskly with a smile, before Vika can change the subject.
+- 'It seemed to me.' Barinov answers decisively beside Lyova, letting the remark speak for itself.
+- 'That yesterday we parted on formal terms.' Vika reacts pointedly before Barinov and reaches for the Russian word "rasstalis" ("broke up, separated", built from "rasstatsya") right at the center of the line.
+- 'You just imagined that.' Holding firm naturally during the talk, the "-sya" ending on "pokazalos" ("seemed") marks an action that unfolds mutually or turns back on the speaker.
+- 'Well, that is completely normal after all.' Barinov speaks up at once hearing Lyova, making his position completely clear.
+- 'People always compete with their rivals.' Pointing to the rival to Barinov, Vika centers the thought on "konkurentami" ("rival, competitor", from "konkurent") without wasting a word.
+- 'Only I was thinking.' Holding firm promptly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I live with Lyova, who lives with his mother.' Barinov reacts wryly during the talk, testing Lyova's reaction in the middle of the exchange.
+- 'Yeah, good luck renting an apartment with Spartak playing like that.' Vika proceeds vividly beside Barinov and chooses "snimesh" ("will take off", from the root "snyat") so Barinov hears the exact meaning.
+- 'They only win every other game.' Weighing in boldly around Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Next you will suggest doing it in the car like teenagers.' Barinov opens up steadily with a nod, so Lyova knows he is not just making small talk.

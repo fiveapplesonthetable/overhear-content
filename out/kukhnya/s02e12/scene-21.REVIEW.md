@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'The question is, how did they track him down?' Barinov asks point-blank what Max is actually getting at here.
-- 'Devil only knows.' Max spotlights one familiar element in earnest: "chert" means "darn, heck" (from "chyort"), giving the line its exact edge.
-- 'By his last name, probably.' Sasha drops this update frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Devil only knows.' Talking about the darn around Barinov, Max centers the thought on "chert" ("darn, heck", from "chyort") without wasting a word.
+- 'By his last name, probably.' Pointing to the surname in front of Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
 - 'No, you will not do that, right?' Barinov presses wryly where this conversation is heading next.
-- 'You will not, all right then.' Max shapes the reaction briskly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'You are a line cook again.' Sasha hands over that point at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Sasha, go back to your workstation.' Barinov reacts sharply with a nod, watching Max's face to see how the news lands.
-- 'Do you think I am constantly lying?' Max highlights this telling choice in reply: "postoyanno" means "constantly", and it carries the main weight of what Max is saying.
-- 'Oh, not at all!' Sasha offers this answer around Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Hello, my angel, Viktor...' Barinov answers quietly to be clear, making his position completely clear.
-- 'Quiet, quiet, Timur.' Max centers one pointed piece in reply: "tikho" means "easy, quiet", and it carries the main weight of what Max is saying.
-- 'Viktor Petrovich has not regained consciousness yet.' Sasha jumps in pointedly in their talk, so Max knows she is not just making small talk.
-- 'Could you please not shout in here?' Barinov prompts point-blank to see how Max will answer on the spot.
+- 'You will not, all right then.' Max openly delivers this word of agreement to Barinov using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'You are a line cook again.' Looking over evenly on the spot, Sasha links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Sasha, go back to your workstation.' Barinov responds sharply without holding back, without trying to dress up how he really feels.
+- 'Do you think I am constantly lying?' Max replies readily in this beat and lands on "postoyanno" ("constantly") as the key everyday word here.
+- 'Oh, not at all!' Replying evenly in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Hello, my angel, Viktor...' Barinov plainly shares this formal greeting beside Max using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Quiet, quiet, Timur.' Max jumps in plainly in the exchange and reaches for the Russian word "tikho" ("easy, quiet") right at the heart of the line.
+- 'Viktor Petrovich has not regained consciousness yet.' Sasha continues dryly during the talk and leans on "prishel" ("came, arrived", a form of "priyti") to give the remark its edge.
+- 'Could you please not shout in here?' Barinov prompts point-blank while looking straight at Sasha here.

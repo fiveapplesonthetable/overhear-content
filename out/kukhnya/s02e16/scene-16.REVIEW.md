@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not everything, perhaps, but she knows how to cook.' Ilya focuses on this clear touch toward Max: "umeyet" means "knows how to" (from "umet"), giving the line its exact edge.
-- 'We do not need the menu, thank you, Ilya.' Max gives this answer facing Ilya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'I designed tonight's dinner menu myself.' Ilya holds firm sharply in their talk, letting the remark speak for itself.
-- 'Well, we can share.' Max emphasizes this vivid piece with Ilya: "podelimsya" means "to share" (from "podelitsya"), giving the line its exact edge.
-- 'I am curious, where is the restroom in this place?' Ilya voices this point with candor: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Just so I know, just in case.' Max proceeds pointedly hearing Ilya, steering the talk right where he wants it.
-- 'Right over there, please.' Ilya aims the reply at once: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'He is just a sociable boy.' Max states the reply calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Are you a fool or what?' Ilya wonders firmly as Max tries to explain the situation.
-- 'You do not believe me.' Max spotlights one telling touch on cue: "verish" means "do you believe" (from "verit"), giving the line its exact edge.
-- 'Now they even have a line at the restroom.' Ilya features one colorful detail in reply: "tualete" means "the toilet" (from "tualet"), giving the line its exact edge.
-- 'Maybe something funny will finally happen in this place.' Max cuts in wryly with a smile, before Ilya can change the subject.
-- 'Keep talking and I will flatten you right here, got it?' Ilya chooses this sharp expression at once: "voobshche" means "at all", and it carries the main weight of what Ilya is saying.
+- 'Not everything, perhaps, but she knows how to cook.' Ilya chimes in readily to Max and leans on "umeyet" ("knows how to", a form of "umet") to give the remark its edge.
+- 'We do not need the menu, thank you, Ilya.' Bringing up the thank at once, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'I designed tonight's dinner menu myself.' Ilya follows up sharply with Max, testing Max's reaction in the middle of the exchange.
+- 'Well, we can share.' Max opens up sharply right here and reaches for the Russian word "podelimsya" ("to share", built from "podelitsya") right at the center of the line.
+- 'I am curious, where is the restroom in this place?' Reacting calmly with Max, Ilya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Just so I know, just in case.' Max jumps in pointedly facing Ilya, to clear the air between them once and for all.
+- 'Right over there, please.' Ilya plainly drops this courtesy word right on cue using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'He is just a sociable boy.' Noting how sociable he is in the exchange, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Are you a fool or what?' Ilya wonders firmly whether Max really thought this through.
+- 'You do not believe me.' Max follows up firmly to Ilya and lands on "verish" ("do you believe", built on "verit") to keep the statement grounded.
+- 'Now they even have a line at the restroom.' Ilya reacts lightly without holding back, leaving no doubt about where he stands.
+- 'Maybe something funny will finally happen in this place.' Max answers wryly beside Ilya, before Ilya can change the subject.
+- 'Keep talking and I will flatten you right here, got it?' Ilya counters dryly in the exchange and uses "voobshche" ("at all") to carry the main weight of the thought.

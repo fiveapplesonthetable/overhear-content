@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ladies and gentlemen, we are starting the final round!' Nagiyev sharpens this key choice toward Barinov: "nachinayem" means "are starting" (from "nachinat"), giving the line its exact edge.
-- 'Without any doubts, I give my vote...' German counters honestly in this moment, refusing to let the moment slip past.
-- 'I give my vote, of course, to Oksana.' German stands firm dryly across the room, grounding the moment in plain reality.
-- 'And I give my vote to Viktor.' Barinov frames this telling expression in earnest: "golos" means "voice", and it carries the main weight of what Barinov is saying.
-- 'Dmitry Vladimirovich, now your word is decisive.' German states this update for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Both dishes turned out simply delicious.' Nagiyev cuts in candidly facing German, making his position completely clear.
-- 'Vitya, I have known you for a very long time.' Nagiyev emphasizes one loaded choice with Barinov: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'But I truly got to know you only today.' Nagiyev uses this clear choice right here: "po-nastoyashchemu" means "truly", and it carries the main weight of what Nagiyev is saying.
-- 'I did not think that the choice would be so difficult.' Nagiyev jumps in at once without any doubt, leaving no doubt about where he stands.
-- 'I am making the choice not with my mind and not with my stomach.' Nagiyev picks one pointed touch at once: "zheludkom" means "stomach" (from "zheludk"), giving the line its exact edge.
-- 'I am making this difficult choice with my heart.' Nagiyev chimes in right away to be clear, steering the talk right where he wants it.
-- 'The winner of our show today becomes Oksana!' Nagiyev reacts warmly facing German, letting the remark speak for itself.
+- 'Ladies and gentlemen, we are starting the final round!' Turning to the gentlemen on the spot, Nagiyev leans on "gospoda" ("gentlemen", a form of "gospodin") to give the remark its edge.
+- 'Without any doubts, I give my vote...' Touching on the doubt before Nagiyev, German reaches for the Russian word "somneniy" ("doubt", built from "somneniye") right at the center of the line.
+- 'I give my vote, of course, to Oksana.' German speaks dryly with a sigh, without trying to dress up how he really feels.
+- 'And I give my vote to Viktor.' Touching on the voice beside German, Barinov brings in "golos" ("voice") to make the meaning unmistakable.
+- 'Dmitry Vladimirovich, now your word is decisive.' Explaining how decisive things are around Barinov, German links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Both dishes turned out simply delicious.' Nagiyev follows up candidly without a pause, steering the talk right where he wants it.
+- 'Vitya, I have known you for a very long time.' Nagiyev chimes in plainly at once and centers the remark on "ochen" ("very much") without any extra fuss.
+- 'But I truly got to know you only today.' Nagiyev speaks warmly without holding back, shifting the mood of the conversation in a single beat.
+- 'I did not think that the choice would be so difficult.' Nagiyev proceeds at once with German, shifting the mood of the conversation in a single beat.
+- 'I am making the choice not with my mind and not with my stomach.' Emphasizing his stomach beside German, Nagiyev puts the weight on "zheludkom" ("stomach", from "zheludk") as the exchange unfolds.
+- 'I am making this difficult choice with my heart.' Stressing how tough he is right here, Nagiyev uses "slozhnyy" ("tough, difficult") to carry the main weight of the thought.
+- 'The winner of our show today becomes Oksana!' Nagiyev pushes back warmly facing German, refusing to let the moment slip past.

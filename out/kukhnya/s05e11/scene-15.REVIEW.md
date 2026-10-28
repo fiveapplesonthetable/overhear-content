@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The time has come to do some work!' Barinov reacts sharply without any doubt, shifting the whole mood of the room in a single beat.
-- 'In a couple of hours the owner has an important meeting.' Barinov stresses one sharp word on cue: "khozyayki" means "landlady, hostess" (from "khozyayka"), giving the line its exact edge.
-- 'Senya, Fedya, you take the appetizers.' Barinov brings this point around Denis: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Louis, dessert is on you.' Barinov chimes in openly as they talk, keeping the focus on what actually matters here.
-- 'Alright, chef. And who has the hot entrees?' Senya picks one concrete choice for Barinov: "goryacheye" means "hot" (from "goryachiy"), giving the line its exact edge.
-- 'And Artyom is cooking all the main courses!' Barinov chimes in firmly beside Senya, so Senya knows he is not just making small talk.
-- 'She promised to stop by the kitchen for an inspection.' Barinov weighs in steadily with a sigh, refusing to let the moment slip past.
-- 'So you will have to cook personally.' Barinov reaches for this direct term in reply: "pridyotsya" means "you'll have to" (from "priytis"), giving the line its exact edge.
-- 'But do not worry, I will taste everything and coach you.' Barinov anchors this vivid piece for Denis: "podskazyvat" means "to prompt, coach", and it carries the main weight of what Barinov is saying.
-- 'Alright, chef.' Denis fires back warmly across the room, watching Senya's face to see how the news lands.
-- 'I believe in you!' Barinov picks one classic choice for Denis: "veryu" means "believe" (from "verit"), giving the line its exact edge.
-- 'This is going to be interesting.' Senya lays out that point without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'The time has come to do some work!' Barinov cuts in sharply without holding back, leaving no doubt about where he stands.
+- 'In a couple of hours the owner has an important meeting.' Mentioning the landlady to Senya, Barinov reaches for the Russian word "khozyayki" ("landlady, hostess", built from "khozyayka") right at the center of the line.
+- 'Senya, Fedya, you take the appetizers.' Talking about the appetizer with Senya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Louis, dessert is on you.' Barinov cuts in openly hearing Senya, so Senya knows he is not just making small talk.
+- 'Alright, chef. And who has the hot entrees?' Senya steps in boldly before Barinov and puts the weight on "goryacheye" ("hot", from "goryachiy") as the exchange unfolds.
+- 'And Artyom is cooking all the main courses!' Stressing how important things are with Senya, Barinov brings in "glavnyye" ("important", from "glavnyy") as the key Russian word here.
+- 'She promised to stop by the kitchen for an inspection.' Barinov fires back steadily in their talk, grounding the moment in plain reality.
+- 'So you will have to cook personally.' Barinov jumps in quietly right here and puts the weight on "pridyotsya" ("you'll have to", from "priytis") as the exchange unfolds.
+- 'But do not worry, I will taste everything and coach you.' Barinov continues dryly with a sigh, making his position completely clear.
+- 'Alright, chef.' Denis fires back warmly during the talk, grounding the moment in plain reality.
+- 'I believe in you!' Barinov steps in warmly in this beat and puts the weight on "veryu" ("believe", from "verit") as the exchange unfolds.
+- 'This is going to be interesting.' Reacting dryly around Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, I am sick of your antics!' Lyova picks this clear word in earnest: "vykhodki" means "antics", and it carries the main weight of what Lyova is saying.
-- 'Please put your coffee on the table.' Lyova speaks right away across the room, steering the talk right where he wants it.
-- 'And immediately help Timur with the unloading!' Lyova picks one key piece in earnest: "razgruzkoy" means "groceries", and it carries the main weight of what Lyova is saying.
-- 'Lyova, why are you suddenly shouting like that?' Barinov shares that line before Lyova: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'I am not Lyova to you, Viktor Petrovich!' Elena steps in pointedly to be clear, before Barinov can change the subject.
-- 'Call me Lev Semyonovich at work.' Barinov emphasizes one classic touch at once: "rabote" means "work" (from "rabota"), giving the line its exact edge.
-- 'And be so kind as to carry out my orders!' Lyova steps in pointedly with a sigh, before Barinov can change the subject.
-- 'Fine, I am going already, why yell like that?' Barinov probes curiously why things suddenly took this turn between them.
-- 'And furthermore, I am fining you today!' Lyova reaches for this sharp touch on cue: "shtrafuyu" means "to fine, penalize" (from "shtrafovat"), giving the line its exact edge.
-- 'Interesting, and what are you fining me for?' Barinov aims that thought with warmth: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'Because you smoke far too often!' Lyova proceeds steadily with a smile, refusing to let the moment slip past.
-- 'Well fine, Lev Semyonovich, you will regret this.' Barinov reaches for this direct word in reply: "pozhaleyesh" means "regret" (from "pozhalet"), giving the line its exact edge.
+- 'Viktor Petrovich, I am sick of your antics!' Lyova opens up decisively hearing Barinov, grounding the moment in plain reality.
+- 'Please put your coffee on the table.' Lyova proceeds right away during the talk, to clear the air between them once and for all.
+- 'And immediately help Timur with the unloading!' Lyova cuts in warmly right here and lands on "razgruzkoy" ("groceries") as the key everyday word here.
+- 'Lyova, why are you suddenly shouting like that?' Pressing on promptly in front of Lyova, Barinov keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'I am not Lyova to you, Viktor Petrovich!' Elena replies pointedly toward Barinov, letting the remark speak for itself.
+- 'Call me Lev Semyonovich at work.' Turning to the work in the exchange, Barinov leans on "rabote" ("work", a form of "rabota") to give the remark its edge.
+- 'And be so kind as to carry out my orders!' Bringing up his orders beside Barinov, Lyova centers the thought on "prikazy" ("orders", from "prikaz") without wasting a word.
+- 'Fine, I am going already, why yell like that?' Barinov probes curiously about what Lyova just brought up.
+- 'And furthermore, I am fining you today!' Lyova cuts in readily beside Barinov and centers the thought on "shtrafuyu" ("to fine, penalize", from "shtrafovat") without wasting a word.
+- 'Interesting, and what are you fining me for?' Pushing back calmly on the spot, Barinov puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'Because you smoke far too often!' Lyova speaks steadily in their talk, refusing to let the moment slip past.
+- 'Well fine, Lev Semyonovich, you will regret this.' Barinov steps in frankly right here and uses "pozhaleyesh" ("regret", from "pozhalet") to make the point stick.

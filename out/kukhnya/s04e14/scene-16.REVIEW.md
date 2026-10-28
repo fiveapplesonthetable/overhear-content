@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well now, you finally got caught in the fridge!' Katya favors this direct word toward Denis: "kholodilnike" means "fridge" (from "kholodilnik"), giving the line its exact edge.
-- 'All right, Katya, I am already tired of running.' Denis delivers that thought without pause: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Katya is on board.
-- 'I knew that I would press you into confessing today!' Katya replies warmly on the spot, refusing to let the moment slip past.
-- 'I will do anything, just leave me alone!' Denis favors one clear touch toward Katya: "sdelayu" means "I'll do" (from "sdelat"), giving the line its exact edge.
-- 'All right, if you want, let's spend the night together!' Denis puts the comment in earnest: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Have you completely lost your mind, what are you doing?' Katya wonders plainly while looking straight at Denis here.
-- 'You have been running after me all day after all!' Denis stresses this key choice in reply: "begala" means "ran around" (from "begat"), giving the line its exact edge.
-- 'I was watching so that you would not steal groceries!' Katya anchors this sharp piece with Denis: "produkty" means "groceries" (from "produkt"), giving the line its exact edge.
-- 'Senya and Fedya said that you are a thief!' Katya speaks evenly around Denis, bringing things back to earth after the buildup.
-- 'And they told me that you are crazy for men!' Denis highlights one classic detail on cue: "bezumnaya" means "crazy" (from "bezumnyy"), giving the line its exact edge.
-- 'What scoundrels, they tricked us both!' Katya holds firm firmly facing Denis, keeping the focus on what actually matters here.
-- 'Let's go quickly, we will give them a piece of our mind right now!' Denis responds at once with a smile, to clear the air between them once and for all.
+- 'Well now, you finally got caught in the fridge!' Talking about the fridge during the talk, Katya uses "kholodilnike" ("fridge", from "kholodilnik") to make the point stick.
+- 'All right, Katya, I am already tired of running.' Denis responds dryly before Katya and centers the thought on "ustal" ("am tired", from "ustat") without wasting a word.
+- 'I knew that I would press you into confessing today!' Katya proceeds warmly without any doubt, leaving no doubt about where she stands.
+- 'I will do anything, just leave me alone!' Denis opens up warmly in the exchange and uses "sdelayu" ("I'll do", from "sdelat") to make the point stick.
+- 'All right, if you want, let's spend the night together!' Checking on the night at once, Denis starts with "davay" ("come on, let's") to invite Katya right into the action.
+- 'Have you completely lost your mind, what are you doing?' Katya wonders plainly if there is more going on behind the scenes.
+- 'You have been running after me all day after all!' Denis steps in evenly with Katya and leans on "begala" ("ran around", a form of "begat") to give the remark its edge.
+- 'I was watching so that you would not steal groceries!' Katya continues warmly with a nod, before Denis can change the subject.
+- 'Senya and Fedya said that you are a thief!' Katya fires back evenly across the room, to clear the air between them once and for all.
+- 'And they told me that you are crazy for men!' Describing how crazy Katya is in the exchange, Denis uses "bezumnaya" ("crazy", from "bezumnyy") to make the point stick.
+- 'What scoundrels, they tricked us both!' Discussing the scoundrels on the spot, Katya leans on "negodyai" ("scoundrels") to give the whole sentence its punch.
+- 'Let's go quickly, we will give them a piece of our mind right now!' Denis pushes back at once across the room, watching Katya's face to see how the news lands.

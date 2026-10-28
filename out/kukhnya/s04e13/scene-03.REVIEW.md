@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here are my new apartments.' Barinov proceeds bluntly hearing Katya, keeping the focus on what actually matters here.
-- 'It is very cozy here in your place.' Katya frames one colorful term toward Lyova: "uyutnenko" means "place", and it carries the main weight of what Katya is saying.
-- 'Previously this office belonged to a woman.' Barinov steps in right away with a sigh, so Katya knows he is not just making small talk.
-- 'I see you have already settled in.' Katya speaks candidly to settle things, before Lyova can change the subject.
-- 'Of course, tell me how your life is.' Barinov focuses on this direct term on cue: "rasskazyvay" means "tell" (from "rasskazyvat"), giving the line its exact edge.
-- 'I am currently looking for a new job.' Katya responds firmly without a pause, watching Lyova's face to see how the news lands.
-- 'Dad, will you hire me to work with you?' Katya prompts bluntly if there is more going on behind the scenes.
-- 'You did not call for a whole year!' Barinov frames one pointed detail on cue: "tselyy" means "whole, all", and it carries the main weight of what Barinov is saying.
-- 'I have gone even longer without seeing you.' Katya centers one concrete touch with Barinov: "dolshe" means "take", and it carries the main weight of what Katya is saying.
-- 'I always had my own reasons.' Barinov responds candidly without holding back, before Lyova can change the subject.
-- 'Chef, they delivered potatoes and tomatoes there.' Lyova colors one pointed term in reply: "kartoshku" means "potatoes" (from "kartoshka"), giving the line its exact edge.
-- 'Do you not see that I am busy right now!' Barinov responds quietly in this moment, letting the remark speak for itself.
-- 'All right, Dad, I am leaving already.' Katya answers right away hearing Barinov, so Barinov knows she is not just making small talk.
+- 'Here are my new apartments.' Barinov fires back bluntly across the room, watching Katya's face to see how the news lands.
+- 'It is very cozy here in your place.' Katya follows up sharply around Barinov and lands on "uyutnenko" ("place") as the key everyday word here.
+- 'Previously this office belonged to a woman.' Mentioning the office at once, Barinov brings in "zhenskim" ("womanly", from "zhenskiy") as the key Russian word here.
+- 'I see you have already settled in.' Katya speaks candidly hearing Barinov, keeping the focus on what actually matters here.
+- 'Of course, tell me how your life is.' Barinov warmly chooses this confirmation while facing Katya using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'I am currently looking for a new job.' Focusing on a new job in this beat, Katya lands on "novuyu" ("new", built on "novyy") to keep the statement grounded.
+- 'Dad, will you hire me to work with you?' Katya prompts bluntly what Barinov is actually getting at here.
+- 'You did not call for a whole year!' Barinov chimes in calmly in the exchange and puts the emphasis on "tselyy" ("whole, all") in the middle of the talk.
+- 'I have gone even longer without seeing you.' Katya answers evenly watching Barinov, making her position completely clear.
+- 'I always had my own reasons.' Barinov answers candidly without any doubt, so Katya knows he is not just making small talk.
+- 'Chef, they delivered potatoes and tomatoes there.' Emphasizing the potatoes in the exchange, Lyova centers the thought on "kartoshku" ("potatoes", from "kartoshka") without wasting a word.
+- 'Do you not see that I am busy right now!' Making clear how busy he is in this beat, Barinov uses "zanyat" ("busy", from "zanyatyy") to make the point stick.
+- 'All right, Dad, I am leaving already.' Katya evenly offers this word of agreement to Barinov using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".

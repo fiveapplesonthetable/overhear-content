@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like my little apartment?' The hostess asks bluntly how Barinov expects that to work in practice.
-- 'Alright, one can live here.' Max reaches for one pointed term right here: "mozhno" means "may, can", and it carries the main weight of what Max is saying.
-- 'Who can live here?' The hostess sends that point for Barinov: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'I can live here.' Max fires back candidly to be clear, making his position completely clear.
-- 'You are not allowed to live here.' The hostess underscores one concrete term at once: "nelzya" means "not allowed", and it carries the main weight of what the hostess is saying.
-- 'But why am I not allowed?' Max sends the thought with candor: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'I only rent the apartment out to girls.' The hostess speaks up evenly to settle things, shifting the whole mood of the room in a single beat.
-- 'Then why did you show me the apartment?' Max sharpens one concrete word on cue: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Because you paid the money for the viewing.' The hostess uses this telling expression toward Barinov: "prosmotr" means "the audition", and it carries the main weight of what the hostess is saying.
-- 'And everything turned out so well.' Barinov speaks up evenly with a smile, shifting the whole mood of the room in a single beat.
-- 'They gave him a brand-new motorcycle.' Barinov anchors one key piece in reply: "mototsikl" means "motorcycle", and it carries the main weight of what Barinov is saying.
-- 'Well then, Kirill Ilyich, is it peace now?' Barinov phrases that reply briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, how do you like my little apartment?' The hostess asks bluntly what Max is actually getting at here.
+- 'Alright, one can live here.' Max promptly directs this word of agreement at this moment using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Who can live here?' Weighing in firmly with Max, the hostess leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'I can live here.' Max speaks up candidly facing the hostess, without trying to dress up how he really feels.
+- 'You are not allowed to live here.' The hostess steps in evenly right here and uses "nelzya" ("not allowed") to carry the main weight of the thought.
+- 'But why am I not allowed?' Leaning in calmly in this beat, Max leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'I only rent the apartment out to girls.' The hostess jumps in evenly with a shrug, making her position completely clear.
+- 'Then why did you show me the apartment?' Highlighting the flat during the talk, Max leans on "kvartiru" ("flat", a form of "kvartira") to give the remark its edge.
+- 'Because you paid the money for the viewing.' The hostess weighs in right away watching Max, before Max can change the subject.
+- 'And everything turned out so well.' Barinov speaks evenly in this moment, letting the remark speak for itself.
+- 'They gave him a brand-new motorcycle.' Focusing on the motorcycle right here, Barinov puts the emphasis on "mototsikl" ("motorcycle") in the middle of the talk.
+- 'Well then, Kirill Ilyich, is it peace now?' Addressing the world on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.

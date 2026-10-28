@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Only do not tell Viktor Petrovich!' Elena favors one vivid piece at once: "govorite" means "say, speak" (from "govorit"), giving the line its exact edge.
-- 'Elena Pavlovna?' Lyova shapes this update before Elena: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
-- 'Yes.' Elena replies sharply to be clear, refusing to let the moment slip past.
-- 'Allow me to escort you to the celebration.' Lyova points to one colorful expression toward Elena: "torzhestvo" means "celebration", and it carries the main weight of what Lyova is saying.
-- 'I allow it!' Elena frames that reply with warmth: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'Take off your robe, lie down on your side.' Lyova replies steadily with a nod, without trying to dress up how he really feels.
-- 'Lena, happy birthday!' Barinov points to one practical detail right here: "rozhdeniya" means "of birth" (from "rozhdeniye"), giving the line its exact edge.
-- 'Thank you.' Elena shapes that remark without pause: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'You are amazing, beautiful, and very smart.' Barinov proceeds wryly on the spot, saying out loud what both of them already know.
-- 'And thanks to your kind heart we are together again.' Barinov emphasizes one familiar piece in earnest: "dobromu" means "kind" (from "dobryy"), giving the line its exact edge.
-- 'And I promise never to make foolish mistakes again.' Barinov frames that point frankly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Thank you, Vitya.' Elena proceeds wryly without holding back, bringing things back to earth after the buildup.
+- 'Only do not tell Viktor Petrovich!' Elena replies quietly on the spot and uses "govorite" ("say, speak", from "govorit") to make the point stick.
+- 'Elena Pavlovna?' Holding firm quietly in this beat, Lyova keeps normal statement word order here, turning the line into a question for Elena purely through rising pitch.
+- 'Yes.' Elena promptly extends this direct affirmation to Lyova using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'Allow me to escort you to the celebration.' Pointing to the celebration with Elena, Lyova uses "torzhestvo" ("celebration") to carry the main weight of the thought.
+- 'I allow it!' Leaning in promptly to Lyova, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'Take off your robe, lie down on your side.' Lyova counters steadily on the spot, refusing to let the moment slip past.
+- 'Lena, happy birthday!' Pointing to the birth before Lyova, Barinov leans on "rozhdeniya" ("of birth", a form of "rozhdeniye") to give the remark its edge.
+- 'Thank you.' Elena lightly delivers this word of thanks toward Barinov using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'You are amazing, beautiful, and very smart.' Barinov speaks up wryly watching Elena, leaving no doubt about where he stands.
+- 'And thanks to your kind heart we are together again.' Insisting on how kind things are around Elena, Barinov lands on "dobromu" ("kind", built on "dobryy") to keep the statement grounded.
+- 'And I promise never to make foolish mistakes again.' Focusing on the mistakes before Elena, Barinov pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Thank you, Vitya.' Looking at Barinov directly in one quick breath, Elena says "spasibo" ("thank you"), the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

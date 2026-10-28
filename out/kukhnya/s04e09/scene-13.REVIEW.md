@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is this little boy!' Max anchors one clear element toward Barinov: "malchik" means "boy", and it carries the main weight of what Max is saying.
-- 'Wait, I will explain everything right now.' Max steps in boldly on the spot, leaving no doubt about where he stands.
-- 'Come on in, dear guests.' Barinov proceeds lightly facing German, keeping the focus on what actually matters here.
-- 'We tried, it did not work out for us.' Barinov picks one classic expression with Max: "poluchilos" means "worked out" (from "poluchitsya"), giving the line its exact edge.
-- 'A dubious way to stop me.' German puts this point briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'That is it, I am leaving.' German pushes back calmly beside Max, keeping the focus on what actually matters here.
-- 'Close the walk-in fridge quickly!' Barinov underscores this clear term with German: "zakryvay" means "close" (from "zakryvat"), giving the line its exact edge.
-- 'Let's not shout.' Max sends the comment briskly now: the word "davayte" is the polite or group version of "let's", inviting German into the plan right away.
-- 'Calm down, everyone, please.' Max speaks at once beside Barinov, keeping the focus on what actually matters here.
-- 'This is Konstantin Anisimov's child.' Max focuses on one sharp detail with German: "rebyonok" means "a child", and it carries the main weight of what Max is saying.
-- 'Do you know Konstantin?' Max frames this statement with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Then where is our child?' Max wonders openly what German is actually getting at here.
+- 'Here is this little boy!' Emphasizing the boy in the exchange, Max lands on "malchik" ("boy") as the key everyday word here.
+- 'Wait, I will explain everything right now.' Max opens up naturally right here and leans on "podozhdite" ("wait", a form of "podozhdat") to give the remark its edge.
+- 'Come on in, dear guests.' Barinov weighs in lightly with a nod, so Max knows he is not just making small talk.
+- 'We tried, it did not work out for us.' Barinov opens up candidly in this beat and reaches for the Russian word "poluchilos" ("worked out", built from "poluchitsya") right at the center of the line.
+- 'A dubious way to stop me.' Checking on a dubious way on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'That is it, I am leaving.' German reacts calmly in their talk, so Barinov knows he is not just making small talk.
+- 'Close the walk-in fridge quickly!' Emphasizing the camera at once, Barinov reaches for the Russian word "kameru" ("camera", built from "kamera") right at the center of the line.
+- 'Let's not shout.' Reacting evenly around Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Calm down, everyone, please.' Max gently delivers this courtesy word in one quick breath using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'This is Konstantin Anisimov's child.' Turning to the child at once, Max centers the remark on "rebyonok" ("a child") without any extra fuss.
+- 'Do you know Konstantin?' Reacting earnestly in this beat, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Then where is our child?' Max wonders openly what Barinov is actually getting at here.

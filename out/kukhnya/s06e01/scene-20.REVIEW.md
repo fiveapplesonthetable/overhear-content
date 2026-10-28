@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My restaurant made it into the guide!' Barinov weighs in earnestly during the talk, refusing to let the moment slip past.
-- 'They might give us a star.' Barinov steps in wryly with a shrug, to clear the air between them once and for all.
-- 'Viktor Petrovich, good evening.' The guest uses one sharp term with Barinov: "dobryy" means "good", and it carries the main weight of what the guest is saying.
-- 'We want to thank you for last night's dinner.' The guest anchors this vivid element for Barinov: "vcherashniy" means "yesterday's", and it carries the main weight of what the guest is saying.
-- 'Do not mention it, it is my job.' Barinov pushes back openly before the guest, leaving no doubt about where he stands.
-- 'By the way, regarding work.' The guest emphasizes one concrete detail at once: "povodu" means "matter" (from "povod"), giving the line its exact edge.
-- 'I want to offer you to become my personal chef.' The guest stresses one key choice right here: "predlozhit" means "to offer", and it carries the main weight of what the guest is saying.
-- 'I understand you are used to other scales.' The guest counters lightly facing Barinov, refusing to let the moment slip past.
-- 'You will have a worthy salary, equipment, and staff.' The guest uses one clear detail with Barinov: "oborudovaniye" means "equipment", and it carries the main weight of what the guest is saying.
-- 'And you will have only two regular guests.' The guest lays out that reply calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Me and my wife.' The guest reacts warmly with a sigh, steering the talk right where he wants it.
-- 'Alright, I will think about it.' Barinov points to one loaded term right here: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
+- 'My restaurant made it into the guide!' Underscoring his restaurant before the guest, Barinov reaches for the Russian word "restoran" ("restaurant") right at the heart of the line.
+- 'They might give us a star.' Barinov counters wryly in their talk, leaving no doubt about where he stands.
+- 'Viktor Petrovich, good evening.' The guest casually directs this evening greeting without hesitation using "dobryy vecher" ("good evening") — the standard Russian evening hello, literally "good evening".
+- 'We want to thank you for last night's dinner.' The guest continues firmly beside Barinov, letting the remark speak for itself.
+- 'Do not mention it, it is my job.' Barinov pushes back openly with the guest, watching the guest's face to see how the news lands.
+- 'By the way, regarding work.' Highlighting the matter right here, the guest lands on "povodu" ("matter", built on "povod") to keep the statement grounded.
+- 'I want to offer you to become my personal chef.' The guest steps in openly in this moment, making his position completely clear.
+- 'I understand you are used to other scales.' The guest speaks lightly across the room, making his position completely clear.
+- 'You will have a worthy salary, equipment, and staff.' Touching on the equipment in the exchange, the guest brings in "oborudovaniye" ("equipment") to make the meaning unmistakable.
+- 'And you will have only two regular guests.' The guest fires back candidly without any doubt, leaving no doubt about where he stands.
+- 'Me and my wife.' The guest chimes in warmly on the spot, shifting the mood of the conversation in a single beat.
+- 'Alright, I will think about it.' Barinov speaks pointedly at once and reaches for the Russian word "khorosho" ("good, fine") right at the heart of the line.

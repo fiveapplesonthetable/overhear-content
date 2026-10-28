@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, I cannot take them right now.' Vika underscores this telling choice in reply: "vzyat" means "to take", and it carries the main weight of what Vika is saying.
-- 'Forgive me, but for now I cannot.' Vika makes the remark with candor: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'Hello, friends, meet Sveta.' Barinov follows up at once during the talk, to clear the air between them once and for all.
-- 'Hello, very nice to meet you, I am Victoria.' Vika spotlights one familiar word at once: "zdravstvuyte" means "hello", and it carries the main weight of what Vika is saying.
-- 'I am an actor, so everyone recognizes me.' Barinov answers boldly hearing Lyova, making his position completely clear.
-- 'Let us drink to our acquaintance!' Barinov answers decisively without a pause, leaving no doubt about where he stands.
-- 'Hi, Katya, these flowers are for you.' Lyova picks one vivid expression with Barinov: "tsvety" means "the flowers" (from "tsvetok"), giving the line its exact edge.
-- 'Thank you, that is very sweet, Lyova.' Vika frames this statement with candor: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'There is no need to say anything, I know everything.' Lyova speaks up evenly facing Barinov, shifting the whole mood of the room in a single beat.
-- 'Wait, what exactly do you know?' Vika favors one concrete piece at once: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'I know the whole truth about France.' Lyova speaks evenly with Barinov, leaving no doubt about where he stands.
-- 'What truth about France?' Vika asks promptly as Lyova tries to explain the situation.
+- 'Dima, I cannot take them right now.' Vika counters warmly in this beat and chooses "vzyat" ("to take") so Barinov gets the point right away.
+- 'Forgive me, but for now I cannot.' Vika replies readily around Barinov and reaches for the Russian word "izvini" ("sorry, excuse me", built from "izvinit") right at the center of the line.
+- 'Hello, friends, meet Sveta.' Barinov evenly gives this formal greeting for Vika using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Hello, very nice to meet you, I am Victoria.' Vika naturally offers this formal greeting as they meet using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'I am an actor, so everyone recognizes me.' Focusing on an actor on the spot, Barinov chooses "aktyor" ("actor") so Vika gets the point right away.
+- 'Let us drink to our acquaintance!' Barinov pushes back decisively with a nod, keeping the focus on what actually matters here.
+- 'Hi, Katya, these flowers are for you.' Focusing on the flowers on the spot, Lyova leans on "tsvety" ("the flowers", a form of "tsvetok") to give the remark its edge.
+- 'Thank you, that is very sweet, Lyova.' Vika directly shares this word of thanks in the exchange using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'There is no need to say anything, I know everything.' Lyova replies evenly on the spot, letting the remark speak for itself.
+- 'Wait, what exactly do you know?' Vika weighs in openly before Lyova and centers the thought on "podozhdi" ("wait", from "podozhdat") without wasting a word.
+- 'I know the whole truth about France.' Talking about the whole truth with Vika, Lyova chooses "pravdu" ("truth", from the root "pravda") so Vika hears the exact meaning.
+- 'What truth about France?' Vika asks promptly where this conversation is heading next.

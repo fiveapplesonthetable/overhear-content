@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You bet that in one evening you would learn to cook this dish?' Nagiyev sends this warning briskly now: the "-sya" ending on "nauchishsya" ("to learn") turns the action inward or makes it happen between people naturally.
-- 'Baked rabbit with almond sauce, rosemary, and truffles.' Nagiyev continues calmly without a pause, testing Vika's reaction in the middle of the exchange.
-- 'Out of all those words, I only know the word rabbit!' Nagiyev sharpens one concrete touch right here: "krolik" means "rabbit", and it carries the main weight of what Nagiyev is saying.
-- 'Dima, before evening that is completely impossible!' Barinov hands over that answer around Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And what if I fire you right now?' Nagiyev presses calmly what Barinov is actually getting at here.
-- 'Even so, before evening it is impossible.' Barinov emphasizes one colorful touch on cue: "nevozmozhno" means "impossible", and it carries the main weight of what Barinov is saying.
-- 'Fine, then I will give you a good bonus!' Nagiyev hands over that answer in earnest: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'Senya, where is the rabbit, bring the rabbit quickly!' Barinov replies pointedly with a shrug, saying out loud what both of them already know.
-- 'Viktoria Sergeyevna, accept our birthday wishes!' Nagiyev frames one classic expression for Barinov: "pozdravleniya" means "congratulations" (from "pozdravleniye"), giving the line its exact edge.
-- 'And accept this beautiful bouquet from the team.' Nagiyev speaks up right away hearing Vika, without trying to dress up how he really feels.
-- 'Thank you all very much, friends!' Vika continues dryly with a smile, making her position completely clear.
-- 'Even though you are leaving us today, we will remember you.' Nagiyev chooses one familiar expression in earnest: "segodnya" means "today", and it carries the main weight of what Nagiyev is saying.
+- 'You bet that in one evening you would learn to cook this dish?' Looking over evenly in front of Barinov, the "-sya" ending on "nauchishsya" ("to learn") marks an action that unfolds mutually or turns back on the speaker.
+- 'Baked rabbit with almond sauce, rosemary, and truffles.' Nagiyev reacts calmly with a shrug, to clear the air between them once and for all.
+- 'Out of all those words, I only know the word rabbit!' Underscoring the word rabbit during the talk, Nagiyev reaches for the Russian word "krolik" ("rabbit") right at the heart of the line.
+- 'Dima, before evening that is completely impossible!' Touching on the evening in the exchange, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And what if I fire you right now?' Nagiyev presses calmly to see how Barinov will answer on the spot.
+- 'Even so, before evening it is impossible.' Highlighting the evening on the spot, Barinov centers the remark on "nevozmozhno" ("impossible") without any extra fuss.
+- 'Fine, then I will give you a good bonus!' Nagiyev cuts in evenly facing Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Senya, where is the rabbit, bring the rabbit quickly!' Barinov speaks pointedly facing Nagiyev, letting the remark speak for itself.
+- 'Viktoria Sergeyevna, accept our birthday wishes!' Mentioning the congratulations beside Barinov, Nagiyev puts the weight on "pozdravleniya" ("congratulations", from "pozdravleniye") as the exchange unfolds.
+- 'And accept this beautiful bouquet from the team.' Discussing the collective on the spot, Nagiyev uses "kollektiva" ("collective", from "kollektiv") to make the point stick.
+- 'Thank you all very much, friends!' Vika cuts in dryly hearing Nagiyev, watching Nagiyev's face to see how the news lands.
+- 'Even though you are leaving us today, we will remember you.' Nagiyev pushes back decisively with Vika and uses "segodnya" ("today") to carry the main weight of the thought.

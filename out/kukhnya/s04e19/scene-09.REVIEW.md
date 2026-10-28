@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today there was a program about blue whales.' Nastya counters bluntly around Kostya, without trying to dress up how she really feels.
-- 'I felt so sorry for them.' Nastya colors this direct choice in reply: "zhalko" means "feel sorry for", and it carries the main weight of what Nastya is saying.
-- 'They stay with each other forever.' Nastya shapes that thought right away: the "-sya" ending on "ostayutsya" ("remain, stay") turns the action inward or makes it happen between people naturally.
-- 'That really is very sweet.' Nastya speaks up at once with a nod, testing Kostya's reaction in the middle of the exchange.
-- 'But there are very few of these whales right now.' Nastya anchors this vivid touch with Kostya: "kitov" means "whales", and it carries the main weight of what Nastya is saying.
-- 'Kostya heard you carefully, dear.' Nastya uses one pointed word toward Kostya: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Nastya is saying.
-- 'Maybe we should have a second child?' Nastya prompts eagerly whether Kostya really thought this through.
-- 'Nastya, we are not whales, after all.' Kostya voices that answer for Nastya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We already have one son.' Kostya shares this statement calmly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'If we need to, we will have another one later.' Kostya speaks up frankly toward Nastya, without trying to dress up how he really feels.
-- 'Everything is so simple with you!' Nastya underscores one memorable touch for Kostya: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
-- 'And did you think about me at all?' Nastya brings the remark in earnest: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Today there was a program about blue whales.' Nastya steps in bluntly beside Kostya, letting the remark speak for itself.
+- 'I felt so sorry for them.' Nastya fires back boldly right here and brings in "zhalko" ("feel sorry for") to make the meaning unmistakable.
+- 'They stay with each other forever.' Checking on the friend right here, the "-sya" ending on "ostayutsya" ("remain, stay") marks an action that unfolds mutually or turns back on the speaker.
+- 'That really is very sweet.' Nastya speaks up at once beside Kostya, shifting the mood of the conversation in a single beat.
+- 'But there are very few of these whales right now.' Focusing on the whales before Kostya, Nastya reaches for the Russian word "kitov" ("whales") right at the heart of the line.
+- 'Kostya heard you carefully, dear.' Nastya speaks at once in their talk, keeping the focus on what actually matters here.
+- 'Maybe we should have a second child?' Nastya prompts eagerly about what Kostya just brought up.
+- 'Nastya, we are not whales, after all.' Jumping in dryly at once, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We already have one son.' Discussing the son to Nastya, Kostya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'If we need to, we will have another one later.' Kostya weighs in frankly during the talk, testing Nastya's reaction in the middle of the exchange.
+- 'Everything is so simple with you!' Nastya replies firmly to Kostya and centers the thought on "poluchayetsya" ("works out", from "poluchatsya") without wasting a word.
+- 'And did you think about me at all?' Jumping in plainly with Kostya, Nastya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.

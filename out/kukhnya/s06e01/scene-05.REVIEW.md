@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You cannot act like this.' Nagiyev makes this update right away: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'You cannot fire everyone I smile at.' Nagiyev pushes back boldly hearing Nikita, making his position completely clear.
-- 'What beautiful fingers you have.' Nagiyev spotlights one colorful term on cue: "krasivyye" means "beautiful" (from "krasivyy"), giving the line its exact edge.
-- 'And what are you doing today?' Nagiyev sends this answer at once: putting the question word "chto" right at the front of the line lets Nikita hear the point of the question on the very first beat.
-- 'You are fired.' Eleonora holds firm quietly with a nod, shifting the whole mood of the room in a single beat.
-- 'And your fingers too.' Eleonora grounds one concrete piece at once: "paltsy" means "fingers" (from "palets"), giving the line its exact edge.
-- 'Alright then, you fired everyone.' Nagiyev frames the comeback with warmth: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Eleonora is on board.
-- 'Then who is going to run things today?' Nagiyev challenges curiously about what Nikita just brought up.
-- 'Nikita, come here!' Eleonora offers the reply briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Congratulations, you are the restaurant director.' Eleonora gives this statement beside Nikita: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Thank you, Eleonora Andreyevna.' Nikita replies honestly toward Eleonora, before Eleonora can change the subject.
-- 'Nikita Andreyevich, coffee?' Nagiyev stresses one sharp expression on cue: "andreyevich" means "andreyevich", and it carries the main weight of what Nagiyev is saying.
+- 'You cannot act like this.' Leaning in plainly with Eleonora, Nagiyev leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'You cannot fire everyone I smile at.' Nagiyev chimes in boldly in their talk, without trying to dress up how he really feels.
+- 'What beautiful fingers you have.' Talking about the fingers with Eleonora, Nagiyev chooses "krasivyye" ("beautiful", from the root "krasivyy") so Eleonora hears the exact meaning.
+- 'And what are you doing today?' Reacting evenly in front of Eleonora, Nagiyev puts the question word "chto" right at the start so Eleonora hears the focus immediately.
+- 'You are fired.' Eleonora answers quietly toward Nagiyev, grounding the moment in plain reality.
+- 'And your fingers too.' Addressing the fingers during the talk, Eleonora reaches for the Russian word "paltsy" ("fingers", built from "palets") right at the center of the line.
+- 'Alright then, you fired everyone.' Nagiyev replies plainly across the room, so Eleonora knows he is not just making small talk.
+- 'Then who is going to run things today?' Nagiyev challenges curiously where this conversation is heading next.
+- 'Nikita, come here!' Pressing on earnestly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Congratulations, you are the restaurant director.' Reacting readily to Nikita, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Thank you, Eleonora Andreyevna.' Nikita smoothly chooses this word of thanks at the start of the beat using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Nikita Andreyevich, coffee?' Mentioning the coffee to Nikita, Nagiyev centers the remark on "andreyevich" ("andreyevich") without any extra fuss.

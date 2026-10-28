@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, we are on fire, everyone outside immediately!' Fedya opens up openly with a sigh, keeping the focus on what actually matters here.
-- 'Does anyone know where our fire extinguisher is?' Fedya centers one concrete term in earnest: "ognetushitel" means "fire extinguisher", and it carries the main weight of what Fedya is saying.
-- 'Well that is it, I missed out on my sixty thousand.' Senya chimes in promptly beside Denis, grounding the moment in plain reality.
-- 'After all, my happiness was so close today!' Senya counters decisively to settle things, making his position completely clear.
-- 'Yes, literally within reach of an outstretched finger.' Fedya underscores one sharp expression with Denis: "rasstoyanii" means "distance" (from "rasstoyaniye"), giving the line its exact edge.
-- 'Alright, bye, Denis, see you tomorrow morning.' Senya puts that line at once: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Fedya is on board.
-- 'Denis, and why are you so sad today?' Fedya wonders evenly as Denis tries to explain the situation.
-- 'Did Katya really not like your gift?' Fedya highlights one clear piece at once: "ponravilsya" means "was liked, pleased" (from "ponravitsya"), giving the line its exact edge.
-- 'I did not give her anything at all today.' Denis shares the reply with ease: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'You see, everything is very complicated between her and me.' Denis holds firm firmly on the spot, watching Senya's face to see how the news lands.
-- 'Actually I wrote a song for her.' Denis leans on this sharp choice on cue: "pesnyu" means "song" (from "pesnya"), giving the line its exact edge.
-- 'I simply do not want to pressure her with my feelings.' Denis gives the remark around Senya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Look, we are on fire, everyone outside immediately!' Fedya continues openly with a sigh, testing Senya's reaction in the middle of the exchange.
+- 'Does anyone know where our fire extinguisher is?' Highlighting the fire extinguisher during the talk, Fedya puts the emphasis on "ognetushitel" ("fire extinguisher") in the middle of the talk.
+- 'Well that is it, I missed out on my sixty thousand.' Talking about the thousand during the talk, Senya centers the thought on "tysyach" ("thousand", from "tysyacha") without wasting a word.
+- 'After all, my happiness was so close today!' Senya proceeds decisively with a sigh, steering the talk right where he wants it.
+- 'Yes, literally within reach of an outstretched finger.' Emphasizing the distance in front of Senya, Fedya leans on "rasstoyanii" ("distance", a form of "rasstoyaniye") to give the remark its edge.
+- 'Alright, bye, Denis, see you tomorrow morning.' Turning frankly at once, the "-sya" ending on "uvidimsya" ("will see each other") marks an action that unfolds mutually or turns back on the speaker.
+- 'Denis, and why are you so sad today?' Fedya wonders evenly before Denis can change the subject.
+- 'Did Katya really not like your gift?' Bringing up the gift beside Denis, Fedya puts the weight on "ponravilsya" ("was liked, pleased", from "ponravitsya") as the exchange unfolds.
+- 'I did not give her anything at all today.' Pressing on smoothly with Fedya, Denis drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'You see, everything is very complicated between her and me.' Denis chimes in firmly with Fedya, before Fedya can change the subject.
+- 'Actually I wrote a song for her.' Addressing a song beside Fedya, Denis uses "pesnyu" ("song", from "pesnya") to make the point stick.
+- 'I simply do not want to pressure her with my feelings.' Dwelling on the feeling on the spot, Denis uses the little word "prosto" ("simply, just") to make the point sound effortless.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did nobody take the truffles?' Lyova puts the reply to Max: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Some are missing there.' Lyova jumps in quietly to be clear, shifting the whole mood of the room in a single beat.
-- 'Louis, did you not see them?' Lyova points to this sharp piece in reply: "videl" means "saw, have seen" (from "videt"), giving the line its exact edge.
-- 'Lavrov?' Lyova phrases that reply facing Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'I saw them.' Max continues quietly during the talk, before Lyova can change the subject.
-- 'Where are they?' Lyova shapes this statement beside Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Who put them in there?' Lyova hands over this warning before Max: putting the question word "kto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'What is the matter, Lyova? Easy.' Senya presses curiously where this conversation is heading next.
-- 'I just wanted to check.' Senya underscores one telling element with Lyova: "proverit" means "to check, verify", and it carries the main weight of what Senya is saying.
-- 'Whether anyone watches things here or not.' Senya fires back boldly in their talk, without trying to dress up how he really feels.
-- 'Otherwise groceries keep disappearing.' Senya opens up wryly with a shrug, steering the talk right where he wants it.
-- 'Your inspections?' Lyova points to one concrete element in reply: "proverki" means "check, inspection" (from "proverka"), giving the line its exact edge.
+- 'Did nobody take the truffles?' Checking on the truffle during the talk, Lyova pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Some are missing there.' Lyova weighs in quietly without holding back, testing Max's reaction in the middle of the exchange.
+- 'Louis, did you not see them?' Lyova fires back pointedly beside Max and lands on "videl" ("saw, have seen", built on "videt") to keep the statement grounded.
+- 'Lavrov?' Following up promptly in front of Max, Lyova keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'I saw them.' Max chimes in quietly with a shrug, so Lyova knows he is not just making small talk.
+- 'Where are they?' Cutting in directly in front of Max, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Who put them in there?' Pressing on candidly in this beat, Lyova puts the question word "kto" right at the start so Senya hears the focus immediately.
+- 'What is the matter, Lyova? Easy.' Senya presses curiously whether Lyova really thought this through.
+- 'I just wanted to check.' Senya cuts in promptly to Lyova and centers the remark on "proverit" ("to check, verify") without any extra fuss.
+- 'Whether anyone watches things here or not.' Senya speaks up boldly in this moment, keeping the focus on what actually matters here.
+- 'Otherwise groceries keep disappearing.' Senya follows up wryly hearing Lyova, letting the remark speak for itself.
+- 'Your inspections?' Focusing on the check right here, Lyova reaches for the Russian word "proverki" ("check, inspection", built from "proverka") right at the center of the line.

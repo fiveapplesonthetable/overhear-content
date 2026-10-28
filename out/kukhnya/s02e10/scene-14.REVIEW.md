@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey head chef, did you shred the cabbage?' Barinov brings the comment right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Did you shred the cabbage, I asked?' Nastya challenges curiously before Barinov can change the subject.
-- 'Is this supposed to be some kind of joke?' Barinov sharpens one classic expression at once: "khokhma" means "joke, gag", and it carries the main weight of what Barinov is saying.
-- 'What is this?' Nastya drops this statement calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'A little misunderstanding.' Barinov cuts in briskly without holding back, letting the remark speak for itself.
-- 'Just like that.' Nastya voices that remark briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Long story short, have the money ready by tonight.' Barinov answers openly toward Nastya, testing Nastya's reaction in the middle of the exchange.
-- 'Nastya, come over here.' Barinov follows up earnestly around Nastya, leaving no doubt about where he stands.
-- 'What is this thing?' Barinov delivers that reply toward Nastya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'That is Pashka.' Nastya brings this statement on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What is this? That is Pashka?' Barinov inquires evenly to see how Nastya will answer on the spot.
-- 'What, did you not recognize him?' Nastya sharpens this direct element toward Barinov: "uznal" means "recognised" (from "uznat"), giving the line its exact edge.
+- 'Hey head chef, did you shred the cabbage?' Pointing to the head to Nastya, Barinov keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Did you shred the cabbage, I asked?' Nastya challenges curiously why things suddenly took this turn between them.
+- 'Is this supposed to be some kind of joke?' Underscoring the joke beside Nastya, Barinov puts the emphasis on "khokhma" ("joke, gag") in the middle of the talk.
+- 'What is this?' Holding firm briskly before Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'A little misunderstanding.' Barinov pushes back briskly with Nastya, keeping the focus on what actually matters here.
+- 'Just like that.' Following up dryly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Long story short, have the money ready by tonight.' Mentioning the evening during the talk, Barinov puts the weight on "vecheru" ("evening", from "vecher") as the exchange unfolds.
+- 'Nastya, come over here.' Barinov chimes in earnestly without any doubt, to clear the air between them once and for all.
+- 'What is this thing?' Looking over directly at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'That is Pashka.' Holding firm evenly in this beat, spoken Russian drops "is" and "are" in the present, letting Nastya place the two halves side by side.
+- 'What is this? That is Pashka?' Barinov inquires evenly how Nastya expects that to work in practice.
+- 'What, did you not recognize him?' Nastya opens up vividly right here and brings in "uznal" ("recognised", from "uznat") as the key Russian word here.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, look at my hands.' Denis highlights one memorable term on cue: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
-- 'Tell me, is everything all right with them?' Denis gives that reply beside Kostya: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Good grief, you have two of them.' Katya steps in honestly in their talk, testing Denis's reaction in the middle of the exchange.
-- 'Lie back down and go to sleep.' Katya grounds one pointed piece at once: "obratno" means "back", and it carries the main weight of what Katya is saying.
-- 'I just had a strange dream.' Denis shares this point with candor: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'You will tell me everything in the morning, good night.' Katya weighs in lightly hearing Kostya, to clear the air between them once and for all.
-- 'Kostya, it is six o'clock already, time to get up.' Katya chooses this direct word for Denis: "chasov" means "o'clock" (from "chas"), giving the line its exact edge.
-- 'We need to take Styopa to my parents' Katya sends the reply before Kostya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Nastya, maybe he can get there by himself?' Kostya quizzes deadpan whether Denis really thought this through.
-- 'I will explain everything to him in detail.' Kostya emphasizes one colorful word at once: "podrobno" means "in detail", and it carries the main weight of what Kostya is saying.
-- 'It is not complicated at all.' Kostya frames this point before Denis: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'All right, do not be angry, I am getting up already.' Kostya steps in boldly facing Katya, so Katya knows he is not just making small talk.
+- 'Katya, look at my hands.' Bringing up his hands in front of Katya, Denis lands on "ruki" ("hands", built on "ruka") to keep the statement grounded.
+- 'Tell me, is everything all right with them?' Stepping in quietly around Katya, Denis keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Good grief, you have two of them.' Katya replies honestly in their talk, before Denis can change the subject.
+- 'Lie back down and go to sleep.' Katya jumps in boldly in the exchange and puts the weight on "lozhis" ("lie down", from "lozhitsya") as the exchange unfolds.
+- 'I just had a strange dream.' Addressing a strange dream in the exchange, Denis uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'You will tell me everything in the morning, good night.' Katya speaks lightly beside Denis, before Denis can change the subject.
+- 'Kostya, it is six o'clock already, time to get up.' Discussing the clock before Kostya, Katya reaches for the Russian word "chasov" ("o'clock", built from "chas") right at the center of the line.
+- 'We need to take Styopa to my parents' Bringing up her parents beside Kostya, Katya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Nastya, maybe he can get there by himself?' Kostya quizzes deadpan whether Katya really thought this through.
+- 'I will explain everything to him in detail.' Kostya weighs in vividly on the spot and reaches for the Russian word "podrobno" ("in detail") right at the heart of the line.
+- 'It is not complicated at all.' Making clear how difficult things are right here, Kostya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'All right, do not be angry, I am getting up already.' Kostya counters boldly watching Katya, letting the remark speak for itself.

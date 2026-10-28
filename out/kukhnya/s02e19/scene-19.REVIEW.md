@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, just look at that.' Barinov points to one practical touch in reply: "glyadi" means "look, take a look" (from "glyadet"), giving the line its exact edge.
-- 'Come on, do not be so upset about it.' Vika shapes this statement beside Max: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Max is on board.
-- 'You will have plenty of other experienced women in your life.' Max proceeds earnestly toward Barinov, watching Barinov's face to see how the news lands.
-- 'Not at all, you are true professionals.' Barinov frames one clear expression with Vika: "professionaly" means "professionals" (from "professional"), giving the line its exact edge.
-- 'Enjoy your meal.' Vika makes this statement around Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Forgive us for taking so long.' Max opens up calmly hearing Vika, testing Vika's reaction in the middle of the exchange.
-- 'It is all because of Viktoriya Sergeyevna.' Barinov delivers this line calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I understand completely.' Vika states the comment right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Wait, how come the waitresses did not show up, huh?' Max prompts firmly to see how Barinov will answer on the spot.
-- 'How am I supposed to know?' Barinov underscores one practical touch in earnest: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'Look, the redhead is at her post.' Vika frames this statement at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'The bartender is working a bit slower, right?' Max presses skeptically in front of Vika without any preamble.
-- 'The cooks look like real champions.' Barinov frames one practical expression on cue: "krasavtsy" means "handsome man" (from "krasavets"), giving the line its exact edge.
+- 'Oh, just look at that.' Barinov steps in openly before Vika and reaches for the Russian word "glyadi" ("look, take a look", built from "glyadet") right at the center of the line.
+- 'Come on, do not be so upset about it.' Opening up firmly beside Barinov, the "-sya" ending on "rasstraivaysya" ("be upset, worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'You will have plenty of other experienced women in your life.' Max counters earnestly without any doubt, so Vika knows he is not just making small talk.
+- 'Not at all, you are true professionals.' Bringing up the professionals in this beat, Barinov brings in "professionaly" ("professionals", from "professional") as the key Russian word here.
+- 'Enjoy your meal.' Returning to the appetite right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Forgive us for taking so long.' Max readily directs this polite apology beside Vika using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'It is all because of Viktoriya Sergeyevna.' Stepping in readily before Max, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I understand completely.' Stepping in warmly to Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Wait, how come the waitresses did not show up, huh?' Max prompts firmly what Barinov is actually getting at here.
+- 'How am I supposed to know?' Opening up evenly before Vika, Barinov puts the question word "otkuda" right at the start so Vika hears the focus immediately.
+- 'Look, the redhead is at her post.' Focusing on the place at once, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'The bartender is working a bit slower, right?' Max presses skeptically what Barinov is actually getting at here.
+- 'The cooks look like real champions.' Touching on the handsome man right here, Barinov puts the weight on "krasavtsy" ("handsome man", from "krasavets") as the exchange unfolds.

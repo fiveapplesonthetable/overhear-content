@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look who has arrived, my new head chef!' Nagiyev steps in bluntly across the room, bringing things back to earth after the buildup.
-- 'Dmitry Vladimirovich, I will not work for you.' Max highlights one pointed choice in earnest: "rabotat" means "to work", and it carries the main weight of what Max is saying.
-- 'I am leaving Moscow for Saint Petersburg soon.' Max speaks up decisively facing Nagiyev, shifting the whole mood of the room in a single beat.
+- 'Look who has arrived, my new head chef!' Nagiyev fires back bluntly during the talk, without trying to dress up how he really feels.
+- 'Dmitry Vladimirovich, I will not work for you.' Max follows up earnestly in this beat and leans on "rabotat" ("to work") to give the whole sentence its punch.
+- 'I am leaving Moscow for Saint Petersburg soon.' Max reacts boldly during the talk and uses "uyezzhayu" ("am leaving", from "uyezzhat") to make the point stick.
 - 'Wait, have you thought carefully about this?' Nagiyev presses deadpan where this conversation is heading next.
-- 'After all, a chance like this is given once in a lifetime.' Nagiyev uses this key touch for Max: "dayotsya" means "is given" (from "davatsya"), giving the line its exact edge.
-- 'I understand that perfectly, Dmitry Vladimirovich.' Max counters evenly facing Nagiyev, keeping the focus on what actually matters here.
-- 'But Vika is leaving together with our daughter.' Max chimes in earnestly with a nod, shifting the whole mood of the room in a single beat.
-- 'I simply cannot fail to go with them.' Max picks this direct expression in earnest: "poyekhat" means "to go", and it carries the main weight of what Max is saying.
-- 'Listen, you are still very young after all.' Nagiyev voices the remark without fuss: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'And a chance like this comes along only once.' Nagiyev speaks up boldly watching Max, before Max can change the subject.
-- 'Tell me honestly, what is more important to you right now?' Nagiyev anchors one memorable term right here: "vazhneye" means "more important" (from "vazhnyy"), giving the line its exact edge.
-- 'My family is more important to me, excuse me.' Max lays out that line at once: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Max steps in.
+- 'After all, a chance like this is given once in a lifetime.' Bringing up the life around Max, Nagiyev reaches for the Russian word "zhizni" ("life", built from "zhizn") right at the center of the line.
+- 'I understand that perfectly, Dmitry Vladimirovich.' Max continues pointedly before Nagiyev and lands on "prekrasno" ("perfectly") as the key everyday word here.
+- 'But Vika is leaving together with our daughter.' Max follows up earnestly in their talk, without trying to dress up how he really feels.
+- 'I simply cannot fail to go with them.' Max follows up calmly before Nagiyev and lands on "poyekhat" ("to go") as the key everyday word here.
+- 'Listen, you are still very young after all.' Noting how young Max is before Max, Nagiyev adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'And a chance like this comes along only once.' Nagiyev replies boldly around Max, testing Max's reaction in the middle of the exchange.
+- 'Tell me honestly, what is more important to you right now?' Nagiyev speaks up readily at once and chooses "vazhneye" ("more important", from the root "vazhnyy") so Max hears the exact meaning.
+- 'My family is more important to me, excuse me.' Addressing his family on the spot, Max leans on "vazhneye" ("more important", a form of "vazhnyy") to give the remark its edge.

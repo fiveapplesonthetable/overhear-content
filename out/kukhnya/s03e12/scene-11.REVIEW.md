@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, honestly thank you, you helped a lot.' Max gives that answer in earnest: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Alright, get settled in, and I have to run.' Katya speaks dryly with a smile, leaving no doubt about where she stands.
-- 'Hello, did you forget something?' Katya sharpens one familiar term in reply: "zdravstvuyte" means "hello", and it carries the main weight of what Katya is saying.
-- 'I wanted to pick up the warm blanket.' The hostess follows up warmly hearing Max, watching Max's face to see how the news lands.
-- 'Where is it? I will hand it to you myself.' Katya questions wryly about what the hostess just brought up.
-- 'No, I will find it faster myself.' The hostess leans on this telling choice in reply: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
-- 'For some reason the closet will not open at all.' Katya frames that remark frankly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Well I do not know, it will have to be another time.' The hostess opens up plainly before Max, leaving no doubt about where she stands.
-- 'Just call ahead of time, and I will get it out for you.' Katya features one practical choice toward the hostess: "pozvonite" means "will call" (from "pozvonit"), giving the line its exact edge.
-- 'And how will you get it out yourself? Well, thank you.' The hostess aims the comeback before Max: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Goodbye, have a nice day!' Katya chimes in steadily in this moment, testing the hostess's reaction in the middle of the exchange.
-- 'Max, come out quickly, she left.' Katya focuses on this vivid touch with Max: "vykhodi" means "go out, marry" (from "vykhodit"), giving the line its exact edge.
+- 'Katya, honestly thank you, you helped a lot.' Max reacts earnestly watching Katya, leaving no doubt about where he stands.
+- 'Alright, get settled in, and I have to run.' Katya quietly directs this word of agreement without hesitation using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Hello, did you forget something?' Katya quietly chooses this formal greeting without hesitation using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'I wanted to pick up the warm blanket.' Mentioning the warm blanket at once, the hostess leans on "tyoploye" ("warm", a form of "tyoplyy") to give the remark its edge.
+- 'Where is it? I will hand it to you myself.' Katya questions wryly whether the hostess really thought this through.
+- 'No, I will find it faster myself.' The hostess speaks plainly in the exchange and reaches for the Russian word "bystreye" ("faster", built from "bystro") right at the center of the line.
+- 'For some reason the closet will not open at all.' Focusing on the wardrobe around the hostess, Katya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Well I do not know, it will have to be another time.' The hostess opens up plainly during the talk, grounding the moment in plain reality.
+- 'Just call ahead of time, and I will get it out for you.' Katya pushes back sharply during the talk and centers the thought on "pozvonite" ("will call", from "pozvonit") without wasting a word.
+- 'And how will you get it out yourself? Well, thank you.' Reacting directly right here, the hostess puts the question word "kak" right at the start so Katya hears the focus immediately.
+- 'Goodbye, have a nice day!' Katya gently uses this polite farewell at the start of the beat using "do svidaniya" ("goodbye") — literally "until the next meeting", the standard Russian farewell.
+- 'Max, come out quickly, she left.' Katya answers boldly during the talk and brings in "vykhodi" ("go out, marry", from "vykhodit") as the key Russian word here.

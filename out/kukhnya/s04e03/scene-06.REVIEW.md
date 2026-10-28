@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How is the new head chef?' Max wonders frankly why things suddenly took this turn between them.
-- 'He is sitting in the office sorting through papers.' Lyova anchors one pointed touch at once: "perebirayet" means "papers", and it carries the main weight of what Lyova is saying.
-- 'He is not touching anything.' Lyova shapes this statement on cue: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Colleagues! A moment of your attention.' German stands firm evenly with a sigh, testing Max's reaction in the middle of the exchange.
-- 'You and I have known each other for one day.' German reaches for one key piece in reply: "znakomy" means "acquainted" (from "znakomyy"), giving the line its exact edge.
-- 'And it would be worthwhile for us to get to know each other closer.' German cuts in earnestly facing Max, so Max knows he is not just making small talk.
-- 'We could go to a sauna together.' Max fires back wryly with a smile, letting the remark speak for itself.
-- 'That is good too. But I have a better idea.' German grounds one colorful expression right here: "poluchshe" means "a bit better" (from "khorosho"), giving the line its exact edge.
-- 'Let's hold a skills evaluation today.' German hands over that point frankly here: the word "davayte" is the polite or group version of "let's", inviting Lyova into the plan right away.
-- 'Believe me, nothing brings people closer like that.' German holds firm firmly before Max, making his position completely clear.
-- 'Are there any objections? Well, that is wonderful.' German features this telling piece in reply: "vozrazheniya" means "any", and it carries the main weight of what German is saying.
-- 'I jinxed it.' Lyova delivers this warning with ease: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'How is the new head chef?' Max wonders frankly about what Lyova just brought up.
+- 'He is sitting in the office sorting through papers.' Focusing on the papers in the exchange, Lyova chooses "perebirayet" ("papers") so Max gets the point right away.
+- 'He is not touching anything.' Opening up promptly to German, Lyova pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Colleagues! A moment of your attention.' German replies evenly with Lyova, before Lyova can change the subject.
+- 'You and I have known each other for one day.' German weighs in pointedly before Lyova and chooses "znakomy" ("acquainted", from the root "znakomyy") so Lyova hears the exact meaning.
+- 'And it would be worthwhile for us to get to know each other closer.' Mentioning the friend on the spot, German centers the thought on "druga" ("the friend", from "drug") without wasting a word.
+- 'We could go to a sauna together.' Max proceeds wryly with a smile, testing German's reaction in the middle of the exchange.
+- 'That is good too. But I have a better idea.' Discussing a better idea around Max, German centers the thought on "poluchshe" ("a bit better", from "khorosho") without wasting a word.
+- 'Let's hold a skills evaluation today.' Mentioning a skills evaluation in front of Max, German uses the polite or group form "davayte" ("let's") to bring Max into the plan.
+- 'Believe me, nothing brings people closer like that.' German pushes back firmly in this moment, testing Lyova's reaction in the middle of the exchange.
+- 'Are there any objections? Well, that is wonderful.' German speaks up plainly beside Lyova and uses "slavnenko" ("wonderful") to carry the main weight of the thought.
+- 'I jinxed it.' Looking over smoothly right here, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Now I pronounce you husband and wife.' Barinov sharpens this telling choice toward Katya: "obyavlyayu" means "I declare" (from "obyavlyat"), giving the line its exact edge.
-- 'Do not be afraid, darling, come quickly with me.' Barinov reacts frankly with a smile, to clear the air between them once and for all.
-- 'Katya, Nastya, what are you doing here?' Barinov quizzes earnestly what Katya is actually getting at here.
-- 'Show us the path of how to live on.' Nastya focuses on one memorable piece in earnest: "ukazhite" means "show, point out" (from "ukazat"), giving the line its exact edge.
-- 'My children, go calmly to your homeland.' Barinov fires back bluntly before Katya, testing Katya's reaction in the middle of the exchange.
-- 'Wait for me there and cultivate the land.' Barinov stands firm warmly as they talk, without trying to dress up how he really feels.
-- 'We thank you for your wisdom, great prophet!' Nastya grounds one sharp touch for Barinov: "blagodarim" means "to thank" (from "blagodarit"), giving the line its exact edge.
-- 'Chef, and what should we do now?' Katya shares the remark beside Nastya: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'And you need to quickly go work!' Barinov chimes in plainly without holding back, so Katya knows he is not just making small talk.
-- 'Everyone work immediately in our kitchen!' Barinov favors one clear term on cue: "nemedlenno" means "immediately", and it carries the main weight of what Barinov is saying.
-- 'And this month everyone is without a bonus!' Barinov voices the thought briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Understood, chef, we are already going to the stoves.' Katya cuts in calmly during the talk, saying out loud what both of them already know.
+- 'Now I pronounce you husband and wife.' Highlighting the husband in the exchange, Barinov chooses "obyavlyayu" ("I declare", from the root "obyavlyat") so Nastya hears the exact meaning.
+- 'Do not be afraid, darling, come quickly with me.' Barinov reacts vividly before Nastya and puts the weight on "milaya" ("darling", from "milyy") as the exchange unfolds.
+- 'Katya, Nastya, what are you doing here?' Barinov quizzes earnestly while looking straight at Katya here.
+- 'Show us the path of how to live on.' Highlighting the path in front of Barinov, Nastya reaches for the Russian word "ukazhite" ("show, point out", built from "ukazat") right at the center of the line.
+- 'My children, go calmly to your homeland.' Pointing to the kids in this beat, Barinov brings in "yezzhayte" ("go, drive", from "yekhat") as the key Russian word here.
+- 'Wait for me there and cultivate the land.' Barinov steps in warmly with a nod, watching Nastya's face to see how the news lands.
+- 'We thank you for your wisdom, great prophet!' Talking about the wisdom to Barinov, Nastya puts the weight on "blagodarim" ("to thank", from "blagodarit") as the exchange unfolds.
+- 'Chef, and what should we do now?' Pressing on briskly to Barinov, Katya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'And you need to quickly go work!' Barinov continues plainly in their talk, leaving no doubt about where he stands.
+- 'Everyone work immediately in our kitchen!' Addressing his kitchen in the exchange, Barinov chooses "nemedlenno" ("immediately") so Katya gets the point right away.
+- 'And this month everyone is without a bonus!' Mentioning the month right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Understood, chef, we are already going to the stoves.' Katya pushes back calmly in this moment, letting the remark speak for itself.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich,' Mikhail makes this line for Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'is a head chef sent from God.' Mikhail counters earnestly as they talk, refusing to let the moment slip past.
-- 'Hail Barinov, hail Barinov, hail Barinov,.' Mikhail uses one memorable piece with Barinov: "slavsya" means "glory be to" (from "slavitsya"), giving the line its exact edge.
-- 'forever and ever.' Mikhail sends that answer frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'No, Mishanya, singing is not your thing.' Barinov continues frankly on the spot, refusing to let the moment slip past.
-- 'Now you are going to crow like a rooster.' Barinov spotlights one telling term toward Vika: "kukarekat" means "crow", and it carries the main weight of what Barinov is saying.
-- 'And without your pants.' Barinov lays out that line before Mikhail: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Mikhail Dzhekovich, what was that?' Vika tests earnestly if there is more going on behind the scenes.
-- 'That, Viktoriya Sergeyevna, was a wish lost due to a ridiculous mistake.' Mikhail favors one vivid element in earnest: "proigrannoye" means "lost" (from "proigrat"), giving the line its exact edge.
-- 'But right now there will be a rematch.' Mikhail hands over that answer before Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Oh, the rematch is postponed.' Barinov jumps in promptly toward Mikhail, steering the talk right where he wants it.
-- 'Go practice crowing like a rooster.' Barinov emphasizes this direct term with Vika: "treniruysya" means "practice", and it carries the main weight of what Barinov is saying.
+- 'Viktor Petrovich,' Cutting in directly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'is a head chef sent from God.' Mikhail fires back earnestly with a shrug, leaving no doubt about where he stands.
+- 'Hail Barinov, hail Barinov, hail Barinov,.' Mikhail pushes back pointedly to Barinov and chooses "slavsya" ("glory be to", from the root "slavitsya") so Barinov hears the exact meaning.
+- 'forever and ever.' Dwelling on the ages during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'No, Mishanya, singing is not your thing.' Barinov opens up frankly watching Mikhail, so Mikhail knows he is not just making small talk.
+- 'Now you are going to crow like a rooster.' Barinov continues plainly to Mikhail and lands on "kukarekat" ("crow") as the key everyday word here.
+- 'And without your pants.' Addressing the pants on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Mikhail Dzhekovich, what was that?' Vika tests earnestly while looking straight at Mikhail here.
+- 'That, Viktoriya Sergeyevna, was a wish lost due to a ridiculous mistake.' Talking about the mistakes on the spot, Mikhail uses "proigrannoye" ("lost", from "proigrat") to make the point stick.
+- 'But right now there will be a rematch.' Touching on a rematch on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Oh, the rematch is postponed.' Barinov steps in promptly watching Mikhail, so Mikhail knows he is not just making small talk.
+- 'Go practice crowing like a rooster.' Underscoring the practice before Mikhail, Barinov lands on "treniruysya" ("practice") as the key everyday word here.

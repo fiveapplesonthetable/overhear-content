@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are lucky they invited me to the casting anyway.' Nagiyev fires back boldly as they talk, grounding the moment in plain reality.
-- 'I knew all along they would invite you.' Barinov features this vivid detail in reply: "priglasyat" means "to invite, to call in" (from "priglasit"), giving the line its exact edge.
-- 'Chef, your program is starting on TV.' Max aims that line beside Barinov: the "-sya" ending on "nachinayetsya" ("begins") turns the action inward or makes it happen between people naturally.
-- 'All right, go ahead and turn it on.' Barinov replies candidly without a pause, without trying to dress up how he really feels.
-- 'We accidentally found one more recording.' Max anchors this key touch in reply: "obnaruzhili" means "to discover" (from "obnaruzhit"), giving the line its exact edge.
-- 'We decided to show it.' Max gives that reply in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Aren't you afraid that he will fire you?' Max wonders bluntly in front of Barinov without any preamble.
-- 'Who will fire me? Fire me?' Barinov frames one sharp choice toward Nagiyev: "uvolit" means "will fire", and it carries the main weight of what Barinov is saying.
-- 'Then who is going to cook?' Barinov puts that remark facing Max: putting the question word "kto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Ridiculous. He is just a clown.' Barinov proceeds briskly across the room, watching Nagiyev's face to see how the news lands.
-- 'Vitya, you are fired.' Nagiyev sharpens one concrete piece at once: "uvolen" means "fired" (from "uvolit"), giving the line its exact edge.
-- 'Denis, hey there, brother.' Max shapes this answer on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'You are lucky they invited me to the casting anyway.' Nagiyev counters boldly watching Barinov, steering the talk right where he wants it.
+- 'I knew all along they would invite you.' Barinov fires back candidly right here and reaches for the Russian word "priglasyat" ("to invite, to call in", built from "priglasit") right at the center of the line.
+- 'Chef, your program is starting on TV.' Cutting in dryly in the exchange, the "-sya" ending on "nachinayetsya" ("begins") marks an action that unfolds mutually or turns back on the speaker.
+- 'All right, go ahead and turn it on.' Barinov briskly gives this word of agreement toward Max using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'We accidentally found one more recording.' Emphasizing the recording with Barinov, Max reaches for the Russian word "obnaruzhili" ("to discover", built from "obnaruzhit") right at the center of the line.
+- 'We decided to show it.' Weighing in briskly right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Aren't you afraid that he will fire you?' Max wonders bluntly how Barinov expects that to work in practice.
+- 'Who will fire me? Fire me?' Barinov reacts warmly at once and lands on "uvolit" ("will fire") as the key everyday word here.
+- 'Then who is going to cook?' Reacting readily with Nagiyev, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Ridiculous. He is just a clown.' Barinov counters briskly during the talk, steering the talk right where he wants it.
+- 'Vitya, you are fired.' Nagiyev weighs in sharply during the talk and reaches for the Russian word "uvolen" ("fired", built from "uvolit") right at the center of the line.
+- 'Denis, hey there, brother.' Checking on the bro in front of Nagiyev, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seems Katya really likes me a lot.' Max gives this line with candor: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
-- 'Congratulations! What are you unhappy about?' Kostya wonders curiously in front of Max without any preamble.
-- 'What, do you not like her at all?' Kostya leans on one memorable choice for Barinov: "nravitsya" means "is pleasing", and it carries the main weight of what Kostya is saying.
-- 'Well no, she is a very nice girl.' Max voices the comment without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'But I just broke up with Vika.' Max continues right away as they talk, keeping the focus on what actually matters here.
-- 'I do not need a new relationship at all right now.' Max leans on one sharp detail right here: "otnosheniya" means "relations, relationship" (from "otnosheniye"), giving the line its exact edge.
-- 'Then do what you do best.' Kostya chimes in bluntly across the room, watching Barinov's face to see how the news lands.
-- 'Kostya, I am already tired of running from problems.' Max pushes back sharply during the talk, so Kostya knows he is not just making small talk.
-- 'That always only makes things worse.' Max spotlights one direct expression toward Barinov: "stanovitsya" means "becomes", and it carries the main weight of what Max is saying.
-- 'Look, Katya is walking right this way.' Kostya holds firm warmly with a nod, keeping the focus on what actually matters here.
-- 'Well done, you ruined all the dishes splendidly.' Barinov cuts in warmly with a nod, testing Kostya's reaction in the middle of the exchange.
-- 'And where are Max and Katya right now?' Barinov features one loaded term for Max: "seychas" means "now", and it carries the main weight of what Barinov is saying.
+- 'It seems Katya really likes me a lot.' Stepping in briskly to Kostya, the "-sya" ending on "kazhetsya" ("it seems, I think") marks an action that unfolds mutually or turns back on the speaker.
+- 'Congratulations! What are you unhappy about?' Kostya wonders curiously while looking straight at Max here.
+- 'What, do you not like her at all?' Kostya counters warmly in front of Max and puts the emphasis on "nravitsya" ("is pleasing") in the middle of the talk.
+- 'Well no, she is a very nice girl.' Making clear how good she is beside Kostya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'But I just broke up with Vika.' Max chimes in right away toward Kostya, letting the remark speak for itself.
+- 'I do not need a new relationship at all right now.' Discussing the relations at once, Max centers the thought on "otnosheniya" ("relations, relationship", from "otnosheniye") without wasting a word.
+- 'Then do what you do best.' Kostya continues directly beside Max and puts the weight on "umeyesh" ("know how to", from "umet") as the exchange unfolds.
+- 'Kostya, I am already tired of running from problems.' Max continues sharply watching Kostya, bringing things back to earth after the buildup.
+- 'That always only makes things worse.' Max opens up directly on the spot and uses "stanovitsya" ("becomes") to carry the main weight of the thought.
+- 'Look, Katya is walking right this way.' Kostya opens up plainly on the spot and uses "idyot" ("goes, is going", from "idti") to make the point stick.
+- 'Well done, you ruined all the dishes splendidly.' Barinov continues warmly without any doubt, making his position completely clear.
+- 'And where are Max and Katya right now?' Barinov counters pointedly in front of Max and brings in "khodyat" ("to walk, to go", from "khodit") as the key Russian word here.

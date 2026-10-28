@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who in here' Barinov lays out this answer with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'ordered tonight' Barinov reacts boldly facing Eleonora, refusing to let the moment slip past.
-- 'the Chef to the room for the whole...' Barinov grounds one concrete expression on cue: "nomer" means "number", and it carries the main weight of what Barinov is saying.
-- 'Vitya, damn it!' Eleonora shares the comeback facing Elena: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'What are you doing here? Me? I am getting ready to sleep.' Barinov questions bluntly where this conversation is heading next.
-- 'And now pack up and get out of here.' Barinov spotlights one concrete detail for Eleonora: "sobiraysya" means "gather yourself" (from "sobiratsya"), giving the line its exact edge.
-- 'Please, I beg you.' Barinov phrases that answer calmly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'There is another woman in this suite.' Barinov holds firm at once facing Eleonora, making his position completely clear.
-- 'I do not want her to see you. Vitya, is that you?' Eleonora grounds this vivid piece in reply: "khochu" means "want" (from "khotet"), giving the line its exact edge.
-- 'I beg you, do not ruin my life again.' Barinov fires back bluntly to be clear, to clear the air between them once and for all.
-- 'Tomorrow, you can fire me tomorrow.' Barinov holds firm evenly to settle things, testing Elena's reaction in the middle of the exchange.
-- 'Who were you talking to in here?' Elena favors one pointed word for Eleonora: "razgovarival" means "spoke, talked" (from "razgovarivat"), giving the line its exact edge.
-- 'Oh, a maid came in, and I told her you already have a maid.' Barinov lays out this line with warmth: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Some kind of nonsense.' Elena cuts in briskly with Eleonora, testing Eleonora's reaction in the middle of the exchange.
+- 'Who in here' Replying directly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'ordered tonight' Barinov cuts in boldly with Eleonora, grounding the moment in plain reality.
+- 'the Chef to the room for the whole...' Talking about the number during the talk, Barinov uses "nomer" ("number") to carry the main weight of the thought.
+- 'Vitya, damn it!' Discussing the darn right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'What are you doing here? Me? I am getting ready to sleep.' Barinov questions bluntly whether Eleonora really thought this through.
+- 'And now pack up and get out of here.' Barinov steps in frankly right here and leans on "sobiraysya" ("gather yourself", a form of "sobiratsya") to give the remark its edge.
+- 'Please, I beg you.' Barinov gently sends this courtesy word without hesitation using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'There is another woman in this suite.' Barinov answers at once with a shrug, shifting the mood of the conversation in a single beat.
+- 'I do not want her to see you. Vitya, is that you?' Eleonora fires back sharply before Barinov and uses "videla" ("saw", from "videt") to make the point stick.
+- 'I beg you, do not ruin my life again.' Emphasizing his life at once, Barinov uses "umolyayu" ("I beg", from "umolyat") to make the point stick.
+- 'Tomorrow, you can fire me tomorrow.' Barinov answers evenly toward Elena, bringing things back to earth after the buildup.
+- 'Who were you talking to in here?' Elena replies naturally beside Barinov and brings in "razgovarival" ("spoke, talked", from "razgovarivat") as the key Russian word here.
+- 'Oh, a maid came in, and I told her you already have a maid.' Addressing a maid to Elena, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Some kind of nonsense.' Elena follows up briskly without holding back, grounding the moment in plain reality.

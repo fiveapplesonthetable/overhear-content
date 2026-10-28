@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This one is at ten.' Barinov hands over this line for Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Good afternoon.' Vika puts the reply briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'How is Viktor Petrovich feeling?' Vika presses eagerly in front of Barinov without any preamble.
-- 'Well, you know, he is doing better already.' Vika chooses one memorable term in reply: "znayete" means "know" (from "znat"), giving the line its exact edge.
-- 'Although he was muttering something about you.' Barinov stresses one telling element toward Vika: "bormotal" means "to mutter, mumble" (from "bormotat"), giving the line its exact edge.
-- 'About me?' Vika presses plainly what Barinov is actually getting at here.
-- 'Do me a favor.' Barinov reaches for this key piece in earnest: "odolzheniye" means "favour, concession", and it carries the main weight of what Barinov is saying.
-- 'And what did he say?' Vika delivers this warning frankly here: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'That she has a family.' Barinov jumps in warmly to be clear, bringing things back to earth after the buildup.
-- 'In such a weak little voice, you know.' Vika grounds this key element for Barinov: "golosom" means "voice" (from "golos"), giving the line its exact edge.
-- 'Forgive me, I could not make out all of it.' Barinov sends the comment plainly here: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
-- 'Would you like some coffee?' Vika challenges skeptically to see how Barinov will answer on the spot.
-- 'No, thank you.' Barinov emphasizes one concrete choice for Vika: "spasibo" means "thank you", and it carries the main weight of what Barinov is saying.
+- 'This one is at ten.' Replying quietly during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Good afternoon.' Vika plainly delivers this daytime greeting in one quick breath using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'How is Viktor Petrovich feeling?' Vika presses eagerly how Barinov expects that to work in practice.
+- 'Well, you know, he is doing better already.' Vika proceeds earnestly to Barinov and brings in "luchshe" ("better") to make the meaning unmistakable.
+- 'Although he was muttering something about you.' Barinov counters frankly in their talk, bringing things back to earth after the buildup.
+- 'About me?' Vika presses plainly if there is more going on behind the scenes.
+- 'Do me a favor.' Touching on the favour on the spot, Barinov puts the emphasis on "odolzheniye" ("favour, concession") in the middle of the talk.
+- 'And what did he say?' Speaking earnestly in this beat, Vika puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'That she has a family.' Barinov speaks up warmly with a nod, keeping the focus on what actually matters here.
+- 'In such a weak little voice, you know.' Addressing the voice with Barinov, Vika uses "golosom" ("voice", from "golos") to make the point stick.
+- 'Forgive me, I could not make out all of it.' Barinov answers promptly with a smile, so Vika knows he is not just making small talk.
+- 'Would you like some coffee?' Vika challenges skeptically what Barinov is actually getting at here.
+- 'No, thank you.' Barinov promptly voices this word of thanks for Vika using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

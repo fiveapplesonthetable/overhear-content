@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could you not think of anything better than this?' Vika questions point-blank while looking straight at German here.
-- 'I thought this was your clever plan.' Max points to one clear word with Vika: "khitroumnyy" means "plan", and it carries the main weight of what Max is saying.
-- 'Break the door down.' Vika offers the comeback plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I am not going to stay in here all night.' Vika holds firm steadily with Max, shifting the whole mood of the room in a single beat.
-- 'If you need it broken, you break it.' Max uses one key detail toward German: "lomay" means "break" (from "lomat"), giving the line its exact edge.
-- 'Wonderful. Whom did I marry?' Vika lays out the comment on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'He cannot even break down a door.' Vika follows up firmly with a smile, making her position completely clear.
-- 'Alright, calm down now.' Max centers one concrete piece at once: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
-- 'Do you understand now that it is better not to make me angry?' Vika hands over the thought briskly now: putting the question word "chto" right at the front of the line lets German hear the point of the question on the very first beat.
-- 'I understand. Now I will make you angry more often.' Vika follows up honestly during the talk, before Max can change the subject.
-- 'Put the door back in place. Are you a man or not?' Vika emphasizes one telling touch in reply: "muzhchina" means "man", and it carries the main weight of what Vika is saying.
-- 'Lev Semyonovich Solovyov.' German sends this update briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Could you not think of anything better than this?' Vika questions point-blank while looking straight at Max here.
+- 'I thought this was your clever plan.' Focusing on the plan in this beat, Max puts the emphasis on "khitroumnyy" ("plan") in the middle of the talk.
+- 'Break the door down.' Touching on the break to Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I am not going to stay in here all night.' Vika chimes in steadily on the spot, leaving no doubt about where she stands.
+- 'If you need it broken, you break it.' Max answers frankly during the talk and uses "lomay" ("break", from "lomat") to make the point stick.
+- 'Wonderful. Whom did I marry?' Reacting boldly on the spot, Vika keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'He cannot even break down a door.' Mentioning a door beside Max, Vika lets Max see exactly where things stand.
+- 'Alright, calm down now.' Max steps in readily during the talk and uses "uspokoysya" ("calm down", from "uspokoitsya") to make the point stick.
+- 'Do you understand now that it is better not to make me angry?' Holding firm openly in this beat, Vika puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'I understand. Now I will make you angry more often.' Vika cuts in honestly with Max, testing Max's reaction in the middle of the exchange.
+- 'Put the door back in place. Are you a man or not?' Highlighting a man to German, Vika leans on "muzhchina" ("man") to give the whole sentence its punch.
+- 'Lev Semyonovich Solovyov.' Speaking boldly in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

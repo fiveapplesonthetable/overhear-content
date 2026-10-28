@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did he not tell Max?' Max checks earnestly how Kostya expects that to work in practice.
-- 'He was very old.' Vika points to one vivid detail on cue: "staryy" means "old", and it carries the main weight of what Vika is saying.
-- 'It is a shame about his grandfather.' Kostya offers the reaction on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Wait, Max said that it was a dog.' Vika answers steadily with a shrug, shifting the whole mood of the room in a single beat.
-- 'His grandfather? Max said that?' Vika underscores this vivid touch in reply: "deda" means "grandfathers", and it carries the main weight of what Vika is saying.
-- 'She was just a very old dog.' Kostya brings the thought with candor: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'And that is why her nickname was Grandpa.' Max follows up calmly without any doubt, saying out loud what both of them already know.
-- 'I feel so sorry for Kostya.' Vika reaches for one key term in earnest: "kosti" means "bones" (from "kost"), giving the line its exact edge.
-- 'Already with Sasha too.' Kostya directs this statement briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'You only just got Vika out of the way.' Max responds calmly on the spot, letting the remark speak for itself.
-- 'Kostyan, I do not even know what to do myself.' Max features one clear piece for Kostya: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'How are they, what happened?' Kostya shares that reply beside Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Did he not tell Max?' Max checks earnestly what Vika is actually getting at here.
+- 'He was very old.' Vika reacts calmly around Max and chooses "staryy" ("old") so Max gets the point right away.
+- 'It is a shame about his grandfather.' Mentioning the grandfathers beside Vika, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Wait, Max said that it was a dog.' Vika answers steadily on the spot, letting the remark speak for itself.
+- 'His grandfather? Max said that?' Pointing to the grandfathers right here, Vika uses "deda" ("grandfathers") to carry the main weight of the thought.
+- 'She was just a very old dog.' Stepping in earnestly in this beat, Kostya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'And that is why her nickname was Grandpa.' Max continues calmly in this moment, testing Kostya's reaction in the middle of the exchange.
+- 'I feel so sorry for Kostya.' Touching on the bones before Kostya, Vika brings in "kosti" ("bones", from "kost") as the key Russian word here.
+- 'Already with Sasha too.' Cutting in warmly to Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'You only just got Vika out of the way.' Max answers calmly toward Kostya, testing Kostya's reaction in the middle of the exchange.
+- 'Kostyan, I do not even know what to do myself.' Max reacts firmly facing Kostya, watching Kostya's face to see how the news lands.
+- 'How are they, what happened?' Reacting promptly around Max, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
 - 'Wait, what? Amazing?' Max presses candidly how Kostya expects that to work in practice.

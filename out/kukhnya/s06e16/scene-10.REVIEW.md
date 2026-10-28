@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, there is a limited number of invitation tickets.' Barinov anchors one sharp word right here: "priglasitelnykh" means "invitation" (from "priglasitelnyy"), giving the line its exact edge.
-- 'I asked them to save at least a couple for us.' Barinov chimes in right away as they talk, grounding the moment in plain reality.
-- 'It is a great pity that they did not give us any.' Elena replies at once with a shrug, so Barinov knows she is not just making small talk.
-- 'Vitya, have you seen my tunic?' Elena picks this clear element toward Mikhail: "tuniku" means "tunic" (from "tunika"), giving the line its exact edge.
-- 'And I love you too, see you tonight!' Barinov underscores one key touch at once: "vechera" means "evening" (from "vecher"), giving the line its exact edge.
-- 'It seems he has gone completely deaf already.' Elena fires back decisively as they talk, letting the remark speak for itself.
-- 'Are you carrying meat for the costume designer again?' Mikhail uses one memorable touch in reply: "kostyumera" means "costume designer" (from "kostyumer"), giving the line its exact edge.
-- 'I checked, nobody lives in that room.' Mikhail makes that answer with ease: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'You are carrying food past our cash register!' Mikhail pushes back lightly to be clear, without trying to dress up how he really feels.
-- 'I will deduct the cost from your salary.' Mikhail spotlights one vivid touch at once: "stoimost" means "to cost", and it carries the main weight of what Mikhail is saying.
-- 'Alright, a noble goal justifies the means after all.' Barinov delivers the reaction with candor: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Elena is on board.
-- 'Too bad yesterday's handsome bartender is not around.' Elena steps in quietly around Mikhail, testing Mikhail's reaction in the middle of the exchange.
+- 'Lena, there is a limited number of invitation tickets.' Emphasizing the invitation to Elena, Barinov brings in "priglasitelnykh" ("invitation", from "priglasitelnyy") as the key Russian word here.
+- 'I asked them to save at least a couple for us.' Underscoring a couple on the spot, Barinov puts the emphasis on "ostavit" ("to keep, to leave") in the middle of the talk.
+- 'It is a great pity that they did not give us any.' Elena weighs in at once facing Barinov, refusing to let the moment slip past.
+- 'Vitya, have you seen my tunic?' Focusing on her tunic at once, Elena centers the thought on "tuniku" ("tunic", from "tunika") without wasting a word.
+- 'And I love you too, see you tonight!' Barinov fires back bluntly hearing Elena, refusing to let the moment slip past.
+- 'It seems he has gone completely deaf already.' Elena jumps in decisively without holding back, so Barinov knows she is not just making small talk.
+- 'Are you carrying meat for the costume designer again?' Bringing up the costume designer to Elena, Mikhail leans on "kostyumera" ("costume designer", a form of "kostyumer") to give the remark its edge.
+- 'I checked, nobody lives in that room.' Focusing on the hotel room at once, Mikhail pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'You are carrying food past our cash register!' Mikhail continues lightly toward Barinov, grounding the moment in plain reality.
+- 'I will deduct the cost from your salary.' Addressing the cost with Barinov, Mikhail lands on "stoimost" ("to cost") as the key everyday word here.
+- 'Alright, a noble goal justifies the means after all.' Pointing to a noble goal right here, Barinov lands on "opravdyvayet" ("live up to", built on "opravdyvat") to keep the statement grounded.
+- 'Too bad yesterday's handsome bartender is not around.' Elena steps in quietly without a pause, shifting the mood of the conversation in a single beat.

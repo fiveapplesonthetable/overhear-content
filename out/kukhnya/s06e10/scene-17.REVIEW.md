@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come out one by one into the courtyard for inspection!' The inspector reacts steadily in this moment, steering the talk right where he wants it.
-- 'Immediately prepare all your documents for inspection.' The inspector weighs in earnestly across the room, shifting the whole mood of the room in a single beat.
-- 'Move forward faster and stand in a line.' The inspector grounds one familiar word in earnest: "stanovimsya" means "to become, to get" (from "stanovitsya"), giving the line its exact edge.
-- 'Listen, you do not look much like a foreign guest.' The inspector focuses on one practical term toward Lyova: "pokhozh" means "look like, similar" (from "pokhozhiy"), giving the line its exact edge.
-- 'And I am a local resident, here is my Russian passport.' Lyova reacts steadily across the room, making his position completely clear.
-- 'Alright, let us look at the documents, so you are Lev Semyonovich?' The inspector sharpens this sharp touch for Lyova: "dokumenty" means "the documents" (from "dokument"), giving the line its exact edge.
-- 'Lev Semyonovich, explain what you are doing here?' The inspector directs that point on cue: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'In what sense, I simply live here right now.' Lyova jumps in wryly facing the inspector, watching the inspector's face to see how the news lands.
-- 'Why are you living in cramped quarters with Moscow registration?' The inspector highlights this vivid detail in earnest: "propiskoy" means "registration" (from "propiska"), giving the line its exact edge.
-- 'Because my beloved girlfriend lives here.' Lyova makes that answer beside the inspector: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Now you will have a beloved girlfriend far from here.' The inspector fires back honestly in this moment, before Lyova can change the subject.
-- 'Because tomorrow morning we are deporting everyone!' The inspector focuses on this direct choice toward Lyova: "deportiruyem" means "we are deporting" (from "deportirovat"), giving the line its exact edge.
+- 'Come out one by one into the courtyard for inspection!' Touching on the inspection before Lyova, the inspector centers the thought on "proverku" ("inspection", from "proverka") without wasting a word.
+- 'Immediately prepare all your documents for inspection.' The inspector jumps in earnestly with a shrug, leaving no doubt about where he stands.
+- 'Move forward faster and stand in a line.' Discussing the row on the spot, the inspector chooses "stanovimsya" ("to become, to get", from the root "stanovitsya") so Lyova hears the exact meaning.
+- 'Listen, you do not look much like a foreign guest.' The inspector speaks up at once facing Lyova, steering the talk right where he wants it.
+- 'And I am a local resident, here is my Russian passport.' Lyova reacts steadily toward the inspector, bringing things back to earth after the buildup.
+- 'Alright, let us look at the documents, so you are Lev Semyonovich?' Turning to the documents beside Lyova, the inspector brings in "dokumenty" ("the documents", from "dokument") as the key Russian word here.
+- 'Lev Semyonovich, explain what you are doing here?' Pushing back frankly before Lyova, the inspector puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'In what sense, I simply live here right now.' Turning to the sense on the spot, Lyova cuts straight through the tension with the inspector.
+- 'Why are you living in cramped quarters with Moscow registration?' Mentioning the registration during the talk, the inspector reaches for the Russian word "propiskoy" ("registration", built from "propiska") right at the center of the line.
+- 'Because my beloved girlfriend lives here.' Lyova replies frankly during the talk, before the inspector can change the subject.
+- 'Now you will have a beloved girlfriend far from here.' The inspector fires back honestly facing Lyova, to clear the air between them once and for all.
+- 'Because tomorrow morning we are deporting everyone!' The inspector continues quietly right here and brings in "deportiruyem" ("we are deporting", from "deportirovat") as the key Russian word here.

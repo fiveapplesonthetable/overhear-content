@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, do not hang up, now she really is giving birth!' Kostya weighs in quietly around Max, testing Max's reaction in the middle of the exchange.
-- 'The most important thing in life is that you must love a woman.' Max jumps in lightly around Vika, to clear the air between them once and for all.
-- 'And you must do it with all your heart and fiercely!' Max spotlights this key touch right here: "serdtsem" means "heart" (from "serdtse"), giving the line its exact edge.
-- 'Otherwise what kind of real love is it then?' Max offers the thought facing Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Dasha, forgive me, but I urgently need to get to Moscow!' Max speaks up openly in their talk, steering the talk right where he wants it.
-- 'Tell me, how much does it cost to turn our plane around right now?' Max picks one sharp piece on cue: "samolyot" means "plane", and it carries the main weight of what Max is saying.
-- 'That will cost roughly five hundred thousand rubles.' Vika answers calmly as things stand, watching Kostya's face to see how the news lands.
-- 'And does your bank issue urgent loans to clients?' Max prompts briskly as Vika tries to explain the situation.
-- 'Max, do you really still love her that much?' Vika emphasizes one colorful element at once: "deystvitelno" means "really, indeed", and it carries the main weight of what Vika is saying.
-- 'Yes, Dasha, I love her very much!' Max jumps in quietly with a smile, letting the remark speak for itself.
-- 'Alright, sign the papers, we will turn the plane back to Moscow now.' Vika jumps in steadily without any doubt, steering the talk right where she wants it.
-- 'Thank you so much, Vika, just wait for me there!' Max underscores one key detail on cue: "ogromnoye" means "huge, so very much" (from "ogromnyy"), giving the line its exact edge.
+- 'Max, do not hang up, now she really is giving birth!' Highlighting the receiver beside Max, Kostya chooses "trubku" ("the receiver", from the root "trubka") so Max hears the exact meaning.
+- 'The most important thing in life is that you must love a woman.' Max fires back lightly during the talk, so Kostya knows he is not just making small talk.
+- 'And you must do it with all your heart and fiercely!' Addressing the heart on the spot, Max chooses "serdtsem" ("heart", from the root "serdtse") so Kostya hears the exact meaning.
+- 'Otherwise what kind of real love is it then?' Stressing how real things are right here, spoken Russian drops "is" and "are" in the present, letting Max place the two halves side by side.
+- 'Dasha, forgive me, but I urgently need to get to Moscow!' Max speaks openly without any doubt, watching Vika's face to see how the news lands.
+- 'Tell me, how much does it cost to turn our plane around right now?' Emphasizing his plane to Vika, Max lands on "samolyot" ("plane") as the key everyday word here.
+- 'That will cost roughly five hundred thousand rubles.' Pointing to the thousand to Max, Vika centers the thought on "tysyach" ("thousand", from "tysyacha") without wasting a word.
+- 'And does your bank issue urgent loans to clients?' Max prompts briskly where this conversation is heading next.
+- 'Max, do you really still love her that much?' Vika jumps in directly on the spot and lands on "deystvitelno" ("really, indeed") as the key everyday word here.
+- 'Yes, Dasha, I love her very much!' Max continues smoothly with Vika and centers the thought on "lyublyu" ("love", from "lyubit") without wasting a word.
+- 'Alright, sign the papers, we will turn the plane back to Moscow now.' Vika steps in steadily during the talk, watching Max's face to see how the news lands.
+- 'Thank you so much, Vika, just wait for me there!' Focusing on the thank during the talk, Max leans on "ogromnoye" ("huge, so very much", a form of "ogromnyy") to give the remark its edge.

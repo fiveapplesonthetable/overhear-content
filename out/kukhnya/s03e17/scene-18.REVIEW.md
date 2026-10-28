@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You would have done better to go calmly into nature.' Nagiyev holds firm right away as things stand, bringing things back to earth after the buildup.
-- 'To go to a quiet forest or a nice park.' Nagiyev features this key element with Max: "krasivyy" means "beautiful", and it carries the main weight of what Nagiyev is saying.
-- 'Why come to my restaurant for that?' Nagiyev shapes that line to the guest: putting the question word "zachem" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'Forgive me, Dima, I wanted to leave in style.' The guest stands firm boldly as they talk, shifting the whole mood of the room in a single beat.
-- 'Wait a minute and listen to me carefully.' Nagiyev uses one practical detail on cue: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Nagiyev is saying.
-- 'If we look at it honestly, I am bankrupt too.' Nagiyev delivers this point at once: the "-sya" ending on "razobratsya" ("to deal with") turns the action inward or makes it happen between people naturally.
-- 'Well what now, should we shoot ourselves every day?' Nagiyev challenges promptly about what the guest just brought up.
-- 'So do not be offended with me, my friend.' Nagiyev spotlights one sharp element in reply: "obizhaysya" means "take offence" (from "obizhatsya"), giving the line its exact edge.
-- 'I really do not need a dead body in my restaurant right now.' Nagiyev phrases the comeback for the guest: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Calmly hand over your little pistol here.' Nagiyev replies bluntly as things stand, watching Max's face to see how the news lands.
-- 'At times we no longer have the strength to fight them.' Max chooses one loaded piece in earnest: "silakh" means "strength, power" (from "sila"), giving the line its exact edge.
-- 'Having solved some problems, we immediately meet new ones.' Max answers calmly during the talk, without trying to dress up how he really feels.
+- 'You would have done better to go calmly into nature.' Nagiyev cuts in right away with a sigh, before the guest can change the subject.
+- 'To go to a quiet forest or a nice park.' Highlighting a quiet forest around the guest, Nagiyev uses "krasivyy" ("beautiful") to carry the main weight of the thought.
+- 'Why come to my restaurant for that?' Checking on his restaurant in front of the guest, Nagiyev puts the question word "zachem" right at the start so the guest hears the focus immediately.
+- 'Forgive me, Dima, I wanted to leave in style.' The guest jumps in boldly across the room, letting the remark speak for itself.
+- 'Wait a minute and listen to me carefully.' Mentioning a minute during the talk, Nagiyev lands on "vnimatelno" ("carefully, attentively") as the key everyday word here.
+- 'If we look at it honestly, I am bankrupt too.' Pointing to the bankrupt before the guest, the "-sya" ending on "razobratsya" ("to deal with") marks an action that unfolds mutually or turns back on the speaker.
+- 'Well what now, should we shoot ourselves every day?' Nagiyev challenges promptly before the guest can change the subject.
+- 'So do not be offended with me, my friend.' Talking about his friend in front of Max, Nagiyev uses "obizhaysya" ("take offence", from "obizhatsya") to make the point stick.
+- 'I really do not need a dead body in my restaurant right now.' Addressing his restaurant at once, Nagiyev adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Calmly hand over your little pistol here.' Raising the pistol facing Max, Nagiyev lets Max see exactly where things stand.
+- 'At times we no longer have the strength to fight them.' Addressing the strength in front of Nagiyev, Max uses "silakh" ("strength, power", from "sila") to make the point stick.
+- 'Having solved some problems, we immediately meet new ones.' Bringing up the problems in front of Nagiyev, Max brings in "problemy" ("problems", from "problema") as the key Russian word here.

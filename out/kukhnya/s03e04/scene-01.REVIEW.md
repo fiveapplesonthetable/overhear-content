@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nobody irritates cooks more than waiters.' Max centers one sharp word with Fedya: "razdrazhayet" means "irritates, annoys" (from "razdrazhat"), giving the line its exact edge.
-- 'They are unceremonious.' Max voices this point without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Nobody irritates cooks more than waiters.' Underscoring the waiters to Fedya, Max chooses "ofitsianty" ("waiters", from the root "ofitsiant") so Fedya hears the exact meaning.
+- 'They are unceremonious.' Highlighting how unceremonious things are to Fedya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
 - 'Hasn't my flounder grown old over there, huh?' Max inquires candidly while looking straight at Fedya here.
-- 'Fedya, can you go faster?' Max features this vivid term in reply: "pobystreye" means "faster, more quickly" (from "bystro"), giving the line its exact edge.
-- 'Impatient! Girls ask me to go more slowly.' Fedya proceeds dryly in this moment, shifting the whole mood of the room in a single beat.
-- 'Come on, cook faster!' Max jumps in boldly without any doubt, bringing things back to earth after the buildup.
-- 'Careless. Worse is only a waiter who used to be a cook.' Max chooses this clear touch toward Fedya: "nebrezhnyy" means "careless", and it carries the main weight of what Max is saying.
-- 'Don't touch my dish!' Fedya phrases the remark beside Max: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'You have really gotten on everyone's nerves already.' Fedya speaks up briskly facing Max, saying out loud what both of them already know.
-- 'Am I to blame that you are so clumsy?' Max favors one memorable detail in reply: "krivorukiye" means "clumsy" (from "krivorukiy"), giving the line its exact edge.
-- 'I am ashamed to carry your dish into the dining room.' Max spotlights this sharp word on cue: "blyudo" means "dish", and it carries the main weight of what Max is saying.
-- 'Mind your own business, got it? Then redo it yourselves!' Fedya inquires frankly to see how Max will answer on the spot.
+- 'Fedya, can you go faster?' Max proceeds pointedly right here and centers the thought on "pobystreye" ("faster, more quickly", from "bystro") without wasting a word.
+- 'Impatient! Girls ask me to go more slowly.' Focusing on the girl around Max, Fedya reaches for the Russian word "neterpelivyy" ("impatient") right at the heart of the line.
+- 'Come on, cook faster!' Max proceeds boldly beside Fedya, to clear the air between them once and for all.
+- 'Careless. Worse is only a waiter who used to be a cook.' Insisting on how careless things are at once, Max puts the emphasis on "nebrezhnyy" ("careless") in the middle of the talk.
+- 'Don't touch my dish!' Addressing his dish right here, Fedya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'You have really gotten on everyone's nerves already.' Fedya fires back briskly with a smile, making his position completely clear.
+- 'Am I to blame that you are so clumsy?' Highlighting how clumsy Fedya is to Fedya, Max centers the thought on "krivorukiye" ("clumsy", from "krivorukiy") without wasting a word.
+- 'I am ashamed to carry your dish into the dining room.' Max continues frankly without holding back, bringing things back to earth after the buildup.
+- 'Mind your own business, got it? Then redo it yourselves!' Fedya inquires frankly what Max is actually getting at here.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, are you our new cook in the kitchen?' Katya probes eagerly how Nikita expects that to work in practice.
-- 'No, I am already a fired waiter from the restaurant.' Nikita stresses this vivid piece right here: "uvolennyy" means "fired, dismissed", and it carries the main weight of what Nikita is saying.
-- 'Well alright, just do not get too upset about it.' Katya states that answer calmly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nikita is on board.
-- 'Listen, maybe I really should come work with you as a cook?' Nikita quizzes wryly before Vika can change the subject.
-- 'And what did they fire you so quickly for today?' Katya grounds one concrete choice toward Nikita: "segodnya" means "today", and it carries the main weight of what Katya is saying.
-- 'I accidentally served the hotel owner the wrong coffee.' Nikita opens up pointedly around Vika, making his position completely clear.
-- 'Well yes, that sounds just like her, good luck!' Katya stands firm firmly around Nikita, to clear the air between them once and for all.
-- 'Nikita, are you still here? Eleonora asked you not to leave.' Vika uses this vivid piece right here: "yeshchyo" means "more, still", and it carries the main weight of what Vika is saying.
-- 'She is generously giving you one last chance today.' Vika colors one practical element toward Katya: "velikodushno" means "generously", and it carries the main weight of what Vika is saying.
-- 'Congratulations on returning to work, Nikita!' Katya responds candidly in their talk, letting the remark speak for itself.
-- 'It is sad that Moscow lost such an excellent street sweeper!' Nikita frames one practical term in earnest: "otlichnogo" means "excellent" (from "otlichnyy"), giving the line its exact edge.
-- 'Change clothes quickly and head back out into the hall.' Vika states this update toward Nikita: the "-sya" ending on "pereodevaysya" ("change clothes") turns the action inward or makes it happen between people naturally.
+- 'Hi, are you our new cook in the kitchen?' Katya probes eagerly if there is more going on behind the scenes.
+- 'No, I am already a fired waiter from the restaurant.' Emphasizing how fired he is before Katya, Nikita leans on "uvolennyy" ("fired, dismissed") to give the whole sentence its punch.
+- 'Well alright, just do not get too upset about it.' Speaking readily in front of Nikita, the "-sya" ending on "rasstraivaysya" ("be upset, worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'Listen, maybe I really should come work with you as a cook?' Nikita quizzes wryly before Katya can change the subject.
+- 'And what did they fire you so quickly for today?' Katya continues openly during the talk and puts the emphasis on "segodnya" ("today") in the middle of the talk.
+- 'I accidentally served the hotel owner the wrong coffee.' Touching on the landlady in front of Katya, Nikita brings in "khozyayke" ("landlady, hostess", from "khozyayka") as the key Russian word here.
+- 'Well yes, that sounds just like her, good luck!' Katya proceeds firmly with a nod, making her position completely clear.
+- 'Nikita, are you still here? Eleonora asked you not to leave.' Vika replies openly right here and reaches for the Russian word "yeshchyo" ("more, still") right at the heart of the line.
+- 'She is generously giving you one last chance today.' Vika follows up earnestly without a pause, grounding the moment in plain reality.
+- 'Congratulations on returning to work, Nikita!' Talking about the return on the spot, Katya makes it clear to Nikita that she means every word.
+- 'It is sad that Moscow lost such an excellent street sweeper!' Stressing how excellent things are right here, Nikita centers the thought on "otlichnogo" ("excellent", from "otlichnyy") without wasting a word.
+- 'Change clothes quickly and head back out into the hall.' Dwelling on the hall right here, the "-sya" ending on "pereodevaysya" ("change clothes") marks an action that unfolds mutually or turns back on the speaker.

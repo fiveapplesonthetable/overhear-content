@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, the oligarch has arrived!' Eleonora weighs in plainly without holding back, saying out loud what both of them already know.
-- 'How glad I am to see you!' Eleonora underscores this direct piece at once: "rada" means "glad", and it carries the main weight of what Eleonora is saying.
-- 'My congratulations to the newlyweds.' The guest hands over the comment right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Your presence alone is already a gift.' Eleonora continues at once with a sigh, letting the remark speak for itself.
-- 'Wow, it is a heavy gift.' Nagiyev chooses this sharp word at once: "tyazhelyy" means "heavy" (from "tyazhyolyy"), giving the line its exact edge.
-- 'Is there a gold ingot in there?' Nagiyev shapes this line without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You may take a look.' The guest steps in plainly to settle things, keeping the focus on what actually matters here.
-- 'It is just a brick.' Nagiyev focuses on one clear term toward the guest: "kirpich" means "brick", and it carries the main weight of what Nagiyev is saying.
-- 'It is no ordinary brick, and inside is a gold ingot.' The guest drops that reply without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And I am ready to finance it.' The guest reacts plainly across the room, leaving no doubt about where he stands.
-- 'Oh my goodness, thank you so much!' Eleonora highlights one colorful piece with the guest: "ogromnoye" means "huge, so very much" (from "ogromnyy"), giving the line its exact edge.
-- 'I arrived with my wife, and here she is.' The guest pushes back at once beside Nagiyev, leaving no doubt about where he stands.
+- 'Dima, the oligarch has arrived!' Eleonora fires back plainly across the room, letting the remark speak for itself.
+- 'How glad I am to see you!' Explaining how glad she is before the guest, Eleonora puts the emphasis on "rada" ("glad") in the middle of the talk.
+- 'My congratulations to the newlyweds.' Touching on the newlyweds before Eleonora, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Your presence alone is already a gift.' Bringing up the presence with a shrug, Eleonora keeps the guest's attention locked on what matters.
+- 'Wow, it is a heavy gift.' Insisting on how heavy things are in the exchange, Nagiyev brings in "tyazhelyy" ("heavy", from "tyazhyolyy") as the key Russian word here.
+- 'Is there a gold ingot in there?' Stressing how golden things are beside the guest, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You may take a look.' The guest speaks up plainly in their talk, so Nagiyev knows he is not just making small talk.
+- 'It is just a brick.' Underscoring a brick beside the guest, Nagiyev puts the emphasis on "kirpich" ("brick") in the middle of the talk.
+- 'It is no ordinary brick, and inside is a gold ingot.' Underscoring how golden things are beside Nagiyev, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And I am ready to finance it.' The guest answers plainly in this moment, making his position completely clear.
+- 'Oh my goodness, thank you so much!' Mentioning the good with the guest, Eleonora puts the weight on "ogromnoye" ("huge, so very much", from "ogromnyy") as the exchange unfolds.
+- 'I arrived with my wife, and here she is.' Focusing on his wife right here, the guest puts the weight on "suprugoy" ("wife, spouse", from "supruga") as the exchange unfolds.

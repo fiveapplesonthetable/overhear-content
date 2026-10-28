@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry that I left. I let everyone down.' Max aims this warning without fuss: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'But I am ready to fix everything.' Max fires back honestly before Lyova, shifting the whole mood of the room in a single beat.
-- 'Here, meet Denis, my brother.' Max centers this sharp piece in earnest: "poznakomsya" means "to get acquainted" (from "poznakomitsya"), giving the line its exact edge.
-- 'Let's take him on for vegetable prep, huh?' Max aims the thought on cue: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Lyova, you said yourself that we are short-handed.' Max continues warmly across the room, bringing things back to earth after the buildup.
-- 'And he is a responsible person.' Max uses this vivid touch in reply: "otvetstvennyy" means "responsible", and it carries the main weight of what Max is saying.
-- 'And what about work experience?' Lyova aims this statement before Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Well, he worked as a cook at the best restaurant in Voronezh.' Max replies steadily watching Lyova, without trying to dress up how he really feels.
-- 'So he can definitely handle prep work, right?' Max chooses this clear element in earnest: "zagotovke" means "preparation" (from "zagotovka"), giving the line its exact edge.
-- 'I don't know, I need to ask first.' Lyova offers that remark before Max: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Sorry that I left. I let everyone down.' Max promptly shares this informal apology in one quick breath using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'But I am ready to fix everything.' Max counters honestly with a sigh, before Lyova can change the subject.
+- 'Here, meet Denis, my brother.' Turning to his brother in this beat, Max puts the weight on "poznakomsya" ("to get acquainted", from "poznakomitsya") as the exchange unfolds.
+- 'Let's take him on for vegetable prep, huh?' Returning to the preparation with Lyova, Max starts with "davay" ("come on, let's") to invite Lyova right into the action.
+- 'Lyova, you said yourself that we are short-handed.' Max continues warmly without a pause, so Lyova knows he is not just making small talk.
+- 'And he is a responsible person.' Pointing out how responsible he is right here, Max uses "otvetstvennyy" ("responsible") to carry the main weight of the thought.
+- 'And what about work experience?' Returning to the work beside Max, Lyova keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Well, he worked as a cook at the best restaurant in Voronezh.' Max speaks steadily beside Lyova, refusing to let the moment slip past.
+- 'So he can definitely handle prep work, right?' Addressing the preparation at once, Max uses "zagotovke" ("preparation", from "zagotovka") to make the point stick.
+- 'I don't know, I need to ask first.' Looking over promptly beside Max, Lyova leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
 - 'Ask whom? Now you decide everything here.' Max probes eagerly while looking straight at Lyova here.
-- 'Alright, let him come tomorrow for a trial period.' Lyova underscores this key touch for Max: "ispytatelnyy" means "period", and it carries the main weight of what Lyova is saying.
+- 'Alright, let him come tomorrow for a trial period.' Pointing to the term around Max, Lyova lands on "ispytatelnyy" ("period") as the key everyday word here.

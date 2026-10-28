@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is what I thought.' Elena counters warmly in their talk, steering the talk right where she wants it.
-- 'There is no surprise left in it anymore.' Elena colors one key term in reply: "syurpriza" means "surprise" (from "syurpriz"), giving the line its exact edge.
-- 'Take these flowers over to Elena Pavlovna.' Barinov counters warmly with a smile, to clear the air between them once and for all.
-- 'And what is the occasion?' Elena prompts bluntly in front of Barinov without any preamble.
-- 'Ah, got it, Chef.' Elena colors one telling detail toward Barinov: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'Someone asked me to hand this to you.' Elena directs this point without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Elena Pavlovna gave me this money to pay for the flowers.' Barinov responds honestly around Elena, to clear the air between them once and for all.
-- 'She said she does not want them.' Barinov favors one vivid word with Elena: "khochet" means "wants" (from "khotet"), giving the line its exact edge.
-- 'So that is how it is.' Barinov brings the reply without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Understood. Right?' Elena prompts point-blank where this conversation is heading next.
-- 'Well, I will be going then.' Barinov colors this telling expression toward Elena: "poshel" means "go, off you go" (from "poyti"), giving the line its exact edge.
-- 'And what now?' Elena sends that reply calmly now: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'I am heading out.' Barinov continues sharply with a sigh, shifting the whole mood of the room in a single beat.
+- 'That is what I thought.' Elena replies warmly around Barinov, to clear the air between them once and for all.
+- 'There is no surprise left in it anymore.' Pointing to the surprise before Barinov, Elena centers the thought on "syurpriza" ("surprise", from "syurpriz") without wasting a word.
+- 'Take these flowers over to Elena Pavlovna.' Emphasizing the flowers around Elena, Barinov chooses "tsvety" ("the flowers", from the root "tsvetok") so Elena hears the exact meaning.
+- 'And what is the occasion?' Elena prompts bluntly if there is more going on behind the scenes.
+- 'Ah, got it, Chef.' Elena chimes in briskly in front of Barinov and leans on "ponyal" ("understood", a form of "ponyat") to give the remark its edge.
+- 'Someone asked me to hand this to you.' Cutting in plainly beside Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Elena Pavlovna gave me this money to pay for the flowers.' Barinov responds honestly during the talk, refusing to let the moment slip past.
+- 'She said she does not want them.' Opening up smoothly on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'So that is how it is.' Speaking warmly with Elena, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Understood. Right?' Elena warmly voices this acknowledgment without hesitation using "ponyatno" ("understood") — a single word meaning "clear, got it", showing the point has landed.
+- 'Well, I will be going then.' Barinov pushes back calmly in the exchange and lands on "poshel" ("go, off you go", built on "poyti") to keep the statement grounded.
+- 'And what now?' Speaking naturally with Barinov, Elena puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'I am heading out.' Barinov reacts sharply during the talk, shifting the mood of the conversation in a single beat.

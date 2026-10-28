@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you cut up this fish?' Max phrases this line with candor: putting the question word "zachem" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'It is supposed to be cooked whole.' Max answers steadily with a sigh, before Elena can change the subject.
-- 'Go bring another one. Was that the last one?' Max chooses this telling term on cue: "poslednyaya" means "last, final" (from "posledniy"), giving the line its exact edge.
-- 'I will run you ragged one last time, like in a proper restaurant.' Barinov reaches for this clear expression for Max: "naposledok" means "favor", and it carries the main weight of what Barinov is saying.
-- 'Dorado in a salt cocoon flambé.' Barinov speaks up honestly with a shrug, steering the talk right where he wants it.
-- 'Viktor Petrovich, let me take the orders.' Max anchors one key term with Elena: "zakazy" means "orders" (from "zakaz"), giving the line its exact edge.
-- 'I will make it faster anyway. You are sick after all.' Max stresses one key term for Barinov: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
-- 'Even dead, I will work faster than you.' Barinov replies openly as they talk, before Max can change the subject.
-- 'Want to bet a thousand on it?' Max reaches for this key expression at once: "shtuku" means "a grand, thing" (from "shtuka"), giving the line its exact edge.
-- 'Make it five. Let's go!' Barinov delivers the thought plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Voilà! Dorado in a salt cocoon from the head chef.' Barinov fires back pointedly to settle things, watching Elena's face to see how the news lands.
-- 'Actually, from the sous-chef.' Elena favors this clear piece toward Max: "voobshche-to" means "actually", and it carries the main weight of what Elena is saying.
+- 'Why did you cut up this fish?' Pressing on quietly in the exchange, Max puts the question word "zachem" right at the start so Barinov hears the focus immediately.
+- 'It is supposed to be cooked whole.' Max cuts in steadily toward Barinov, so Barinov knows he is not just making small talk.
+- 'Go bring another one. Was that the last one?' Max reacts openly in this beat and reaches for the Russian word "poslednyaya" ("last, final", built from "posledniy") right at the center of the line.
+- 'I will run you ragged one last time, like in a proper restaurant.' Barinov opens up sharply without a pause, leaving no doubt about where he stands.
+- 'Dorado in a salt cocoon flambé.' Barinov steps in honestly in this moment, testing Max's reaction in the middle of the exchange.
+- 'Viktor Petrovich, let me take the orders.' Focusing on the orders right here, Max lands on "zakazy" ("orders", built on "zakaz") to keep the statement grounded.
+- 'I will make it faster anyway. You are sick after all.' Max speaks up wryly around Barinov, refusing to let the moment slip past.
+- 'Even dead, I will work faster than you.' Barinov jumps in openly with a nod, refusing to let the moment slip past.
+- 'Want to bet a thousand on it?' Bringing up the grand on the spot, Max chooses "shtuku" ("a grand, thing", from the root "shtuka") so Barinov hears the exact meaning.
+- 'Make it five. Let's go!' Speaking openly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Voilà! Dorado in a salt cocoon from the head chef.' Barinov weighs in pointedly with Elena, grounding the moment in plain reality.
+- 'Actually, from the sous-chef.' Elena chimes in warmly in front of Barinov and chooses "su-shefa" ("sous-chef", from the root "su-shef") so Barinov hears the exact meaning.

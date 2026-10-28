@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is going on here, I am asking you?' Nagiyev wonders earnestly where this conversation is heading next.
-- 'Why are people calling me and complaining that there is a mess here?' Nagiyev frames one sharp word on cue: "zhaluyutsya" means "complain" (from "zhalovatsya"), giving the line its exact edge.
-- 'I promised and I did everything, and where is Vitya?' Nagiyev shares this point frankly here: putting the question word "gde" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Dima, what are you doing here right now?' Kristina inquires curiously in front of Nagiyev without any preamble.
-- 'Why are people calling me and complaining?' Kristina focuses on one colorful choice in reply: "zhaluyutsya" means "complain" (from "zhalovatsya"), giving the line its exact edge.
-- 'Hello, I have an important event here.' Nagiyev gives this statement without pause: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Really, actually I am the one who has an event here.' Kristina stands firm wryly before Barinov, without trying to dress up how she really feels.
-- 'I wanted to say thank you very much for everything.' Barinov emphasizes one key term on cue: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'Forgive me, you always have problems because of me.' Barinov lays out the remark before Kristina: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Wait, you misunderstood everything!' Barinov replies pointedly on the spot, saying out loud what both of them already know.
-- 'After all, I warned you in advance!' Nagiyev grounds one familiar expression in earnest: "preduprezhdal" means "warned" (from "preduprezhdat"), giving the line its exact edge.
-- 'My friends, I must apologize to you.' Barinov sends this point with candor: the "-sya" ending on "izvinitsya" ("to apologise") turns the action inward or makes it happen between people naturally.
+- 'What is going on here, I am asking you?' Nagiyev wonders earnestly before Kristina can change the subject.
+- 'Why are people calling me and complaining that there is a mess here?' Touching on a mess at once, Nagiyev reaches for the Russian word "zhaluyutsya" ("complain", built from "zhalovatsya") right at the center of the line.
+- 'I promised and I did everything, and where is Vitya?' Turning directly around Kristina, Nagiyev puts the question word "gde" right at the start so Kristina hears the focus immediately.
+- 'Dima, what are you doing here right now?' Kristina inquires curiously to see how Nagiyev will answer on the spot.
+- 'Why are people calling me and complaining?' Kristina replies pointedly with Nagiyev and reaches for the Russian word "zhaluyutsya" ("complain", built from "zhalovatsya") right at the center of the line.
+- 'Hello, I have an important event here.' Nagiyev chimes in frankly with Kristina, letting the remark speak for itself.
+- 'Really, actually I am the one who has an event here.' Kristina weighs in wryly with a shrug, letting the remark speak for itself.
+- 'I wanted to say thank you very much for everything.' Turning to the thank during the talk, Barinov centers the thought on "bolshoye" ("big, very much", from "bolshoy") without wasting a word.
+- 'Forgive me, you always have problems because of me.' Addressing the problems on the spot, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Wait, you misunderstood everything!' Barinov speaks up pointedly beside Nagiyev, keeping the focus on what actually matters here.
+- 'After all, I warned you in advance!' Nagiyev continues promptly on the spot and centers the thought on "preduprezhdal" ("warned", from "preduprezhdat") without wasting a word.
+- 'My friends, I must apologize to you.' Highlighting his friends in the exchange, Barinov leans on "dolzhen" ("has to, must") to give the whole sentence its punch.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dad, are you sure that this is the right place?' Katya underscores one telling touch in reply: "uveren" means "sure, confident" (from "uverennyy"), giving the line its exact edge.
-- 'This is the most respectable underground casino in Moscow.' Barinov puts that reply right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Citizen, are you aware that gambling is prohibited?' Barinov quizzes earnestly about what Katya just brought up.
-- 'Victor Petrovich, I would not want Eleonora Andreyevna to find out.' Mikhail reaches for this telling touch with Katya: "khotelos" means "to feel like" (from "khotetsya"), giving the line its exact edge.
-- 'Well then, daughter, shall we beat Uncle Misha?' Barinov delivers that line for Katya: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'I do not know how.' Katya weighs in boldly around Mikhail, leaving no doubt about where she stands.
-- 'Just watch and learn, deal the cards.' Barinov leans on one memorable touch at once: "smotri" means "look" (from "smotret"), giving the line its exact edge.
-- 'What do you want?' Katya hands over that point around Mikhail: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
-- 'I am leaving for Saint Petersburg.' Barinov pushes back earnestly to be clear, bringing things back to earth after the buildup.
-- 'I came to say goodbye.' Barinov uses this vivid piece in reply: "poproshchatsya" means "to say goodbye", and it carries the main weight of what Barinov is saying.
-- 'Goodbye.' Katya voices that remark right away: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'Vika, wait, where are you going?' Barinov wonders calmly to see how Mikhail will answer on the spot.
+- 'Dad, are you sure that this is the right place?' Explaining how sure things are to Barinov, Katya reaches for the Russian word "uveren" ("sure, confident", built from "uverennyy") right at the center of the line.
+- 'This is the most respectable underground casino in Moscow.' Underscoring how decent things are at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Citizen, are you aware that gambling is prohibited?' Barinov quizzes earnestly whether Mikhail really thought this through.
+- 'Victor Petrovich, I would not want Eleonora Andreyevna to find out.' Mikhail answers warmly in the exchange and reaches for the Russian word "khotelos" ("to feel like", built from "khotetsya") right at the center of the line.
+- 'Well then, daughter, shall we beat Uncle Misha?' Talking about the sweetheart during the talk, Barinov puts the question word "chto" right at the start so Katya hears the focus immediately.
+- 'I do not know how.' Katya replies boldly without a pause, leaving no doubt about where she stands.
+- 'Just watch and learn, deal the cards.' Barinov steps in earnestly in front of Katya and brings in "sdavay" ("deal", from "sdavat") as the key Russian word here.
+- 'What do you want?' Pressing on promptly around Barinov, Katya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'I am leaving for Saint Petersburg.' Barinov cuts in earnestly across the room, leaving no doubt about where he stands.
+- 'I came to say goodbye.' Barinov jumps in readily right here and centers the remark on "poproshchatsya" ("to say goodbye") without any extra fuss.
+- 'Goodbye.' Pressing on warmly in this beat, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'Vika, wait, where are you going?' Barinov wonders calmly while looking straight at Katya here.

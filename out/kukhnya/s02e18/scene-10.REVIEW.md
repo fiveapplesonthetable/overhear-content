@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'As you can understand, taking the money.' Kostya centers this sharp choice for Max: "ponimayete" means "do you understand" (from "ponimat"), giving the line its exact edge.
-- 'In his presence was simply not proper.' Max counters steadily across the room, before Nastya can change the subject.
-- 'Kostya was not supposed to find out about this at all.' Nastya pushes back lightly hearing Kostya, shifting the whole mood of the room in a single beat.
-- 'Now nothing is going to work out.' Max emphasizes one colorful expression right here: "poluchitsya" means "will come out", and it carries the main weight of what Max is saying.
-- 'I have to go and confess everything.' Kostya phrases that line on cue: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Anastasiya Stepanovna, I have read a great many detective novels.' Max jumps in warmly in their talk, letting the remark speak for itself.
-- 'Believe me, confession is an absolute last resort.' Kostya grounds one telling detail on cue: "priznaniye" means "confession", and it carries the main weight of what Kostya is saying.
-- 'We simply need to collect the money without any personal contact.' Max frames that answer before Nastya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Good afternoon.' Kostya jumps in promptly to settle things, shifting the whole mood of the room in a single beat.
-- 'I would like to get something to drink.' Nastya points to one concrete detail right here: "khotela" means "wanted, meant" (from "khotet"), giving the line its exact edge.
-- 'Do you have a reservation?' Kostya gives this line right away: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'All of you? How many are there?' Max wonders straight out about what Nastya just brought up.
+- 'As you can understand, taking the money.' Highlighting the money in this beat, Kostya lands on "ponimayete" ("do you understand", built on "ponimat") to keep the statement grounded.
+- 'In his presence was simply not proper.' Bringing up the presence on the spot, Max leans on "prisutstvii" ("presence", a form of "prisutstviye") to give the remark its edge.
+- 'Kostya was not supposed to find out about this at all.' Nastya cuts in lightly facing Kostya, grounding the moment in plain reality.
+- 'Now nothing is going to work out.' Max steps in promptly on the spot and centers the remark on "poluchitsya" ("will come out") without any extra fuss.
+- 'I have to go and confess everything.' Following up quietly in the exchange, Kostya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Anastasiya Stepanovna, I have read a great many detective novels.' Max steps in warmly facing Nastya, letting the remark speak for itself.
+- 'Believe me, confession is an absolute last resort.' Discussing the confession in front of Max, Kostya chooses "priznaniye" ("confession") so Max gets the point right away.
+- 'We simply need to collect the money without any personal contact.' Focusing on the money during the talk, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Good afternoon.' Kostya calmly sends this daytime greeting in front of Nastya using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'I would like to get something to drink.' Nastya steps in promptly right here and brings in "khotela" ("wanted, meant", from "khotet") as the key Russian word here.
+- 'Do you have a reservation?' Holding firm boldly in front of Max, Kostya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'All of you? How many are there?' Max wonders straight out whether Kostya really thought this through.

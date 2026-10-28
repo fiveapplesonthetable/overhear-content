@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right then, you hero of ours.' Fedya delivers the remark right away: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.
+- 'All right then, you hero of ours.' Fedya answers dryly hearing Senya, grounding the moment in plain reality.
 - 'Why did you run away yesterday then?' Fedya presses straight out where this conversation is heading next.
-- 'Well, I simply do not hit children.' Senya emphasizes this clear term right here: "detey" means "children" (from "rebyonok"), giving the line its exact edge.
-- 'What kind of movies do you watch yourself?' Senya directs that point for Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'I only watch romantic movies.' Fedya follows up wryly toward Senya, making his position completely clear.
-- 'Hi there, beautiful girls!' Fedya uses this key piece with Vika: "krasivyye" means "beautiful" (from "krasivyy"), giving the line its exact edge.
-- 'Did someone order a pizza to a restaurant?' Fedya puts this line without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'This is the first time I have seen that.' Fedya steps in sharply during the talk, to clear the air between them once and for all.
-- 'We have a sanitary cleaning day today.' Vika features one vivid expression on cue: "sanitarnyy" means "sanitary, health", and it carries the main weight of what Vika is saying.
-- 'We really felt like having something hot.' Vika offers that answer without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'It is somehow very hot in here at your place.' Fedya speaks up calmly across the room, grounding the moment in plain reality.
-- 'Come on in to us quickly.' Vika frames one vivid piece in earnest: "prokhodi" means "come in" (from "prokhodit"), giving the line its exact edge.
+- 'Well, I simply do not hit children.' Underscoring the children at once, Senya centers the thought on "detey" ("children", from "rebyonok") without wasting a word.
+- 'What kind of movies do you watch yourself?' Holding firm evenly right here, Senya keeps normal statement word order here, turning the line into a question for Fedya purely through rising pitch.
+- 'I only watch romantic movies.' Fedya pushes back wryly with Senya, without trying to dress up how he really feels.
+- 'Hi there, beautiful girls!' Fedya simply directs this casual greeting toward Senya using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Did someone order a pizza to a restaurant?' Turning to a restaurant to Vika, Fedya keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'This is the first time I have seen that.' Fedya replies sharply with a nod, so Vika knows he is not just making small talk.
+- 'We have a sanitary cleaning day today.' Vika chimes in naturally on the spot and chooses "sanitarnyy" ("sanitary, health") so Fedya gets the point right away.
+- 'We really felt like having something hot.' Jumping in evenly beside Fedya, the "-sya" ending on "zakhotelos" ("felt like having") marks an action that unfolds mutually or turns back on the speaker.
+- 'It is somehow very hot in here at your place.' Fedya jumps in calmly toward Vika, leaving no doubt about where he stands.
+- 'Come on in to us quickly.' Vika opens up plainly around Fedya and reaches for the Russian word "prokhodi" ("come in", built from "prokhodit") right at the center of the line.

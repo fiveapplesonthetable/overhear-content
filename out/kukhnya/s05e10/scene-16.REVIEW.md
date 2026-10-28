@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My verdict is three stars.' The inspector stresses one telling term right here: "verdikt" means "verdict", and it carries the main weight of what the inspector is saying.
-- 'The service, the staff, it is some kind of nightmare!' The inspector directs this statement calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'More wine for anyone?' Max prompts eagerly before Barinov can change the subject.
-- 'Delicious. Pavel Vladimirovich, and what do you think?' The inspector spotlights one classic choice in reply: "dumayete" means "think" (from "dumat"), giving the line its exact edge.
-- 'Understood. I, of course, agree with you.' Barinov continues sharply without a pause, without trying to dress up how he really feels.
-- 'But on the other hand, overall the hotel is not bad.' Barinov answers sharply with a smile, to clear the air between them once and for all.
-- 'The staff tries hard.' Barinov emphasizes this vivid word right here: "starayetsya" means "to try" (from "staratsya"), giving the line its exact edge.
-- 'I will be right back.' Max aims the comeback around the inspector: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Did you like everything?' Barinov presses curiously what the inspector is actually getting at here.
-- 'Very much.' The inspector grounds this key touch right here: "ochen" means "very much", and it carries the main weight of what the inspector is saying.
-- 'He is taking a long time. She is putting him into a trance!' Max proceeds earnestly as things stand, keeping the focus on what actually matters here.
-- 'It is nothing, Max has not succumbed to hypnosis since childhood.' Barinov chimes in wryly watching Max, watching Max's face to see how the news lands.
+- 'My verdict is three stars.' Mentioning his verdict at once, the inspector chooses "verdikt" ("verdict") so Max gets the point right away.
+- 'The service, the staff, it is some kind of nightmare!' Checking on the staff at once, the inspector links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'More wine for anyone?' Max prompts eagerly before the inspector can change the subject.
+- 'Delicious. Pavel Vladimirovich, and what do you think?' The inspector proceeds sharply in the exchange and brings in "vkusno" ("it's tasty") to make the meaning unmistakable.
+- 'Understood. I, of course, agree with you.' Barinov responds candidly beside the inspector and centers the thought on "soglasen" ("agreed", from "soglasnyy") without wasting a word.
+- 'But on the other hand, overall the hotel is not bad.' Barinov answers sharply during the talk, before the inspector can change the subject.
+- 'The staff tries hard.' Highlighting the staff right here, Barinov centers the remark on "personal" ("staff") without any extra fuss.
+- 'I will be right back.' Reacting candidly before Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Did you like everything?' Barinov presses curiously to see how the inspector will answer on the spot.
+- 'Very much.' The inspector replies quietly with Barinov and chooses "ochen" ("very much") so Barinov gets the point right away.
+- 'He is taking a long time. She is putting him into a trance!' Focusing on a trance right here, Max leans on "trans" ("trance") to give the whole sentence its punch.
+- 'It is nothing, Max has not succumbed to hypnosis since childhood.' Barinov chimes in wryly across the room, leaving no doubt about where he stands.

@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Dad, why are you sitting in the dark?' Lyova inquires quietly before Ainura can change the subject.
-- 'Look, a tip and a business card together at once.' Lyova anchors this vivid expression at once: "chayevyye" means "tips", and it carries the main weight of what Lyova is saying.
-- 'But an important phone number is written there!' Ainura sends this update with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Quickly copy that number down for yourself.' Ainura replies promptly toward Lyova, grounding the moment in plain reality.
-- 'My niece's husband is going to be a head chef!' Ainura sharpens this vivid choice in reply: "plemyannitsy" means "niece" (from "plemyannitsa"), giving the line its exact edge.
-- 'Actually, I have not decided anything yet.' Lyova gives the comment plainly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'What do you mean you have not decided yet?' Ainura challenges evenly how Barinov expects that to work in practice.
-- 'What have you not decided over there, Lyova?' Barinov picks one pointed word in reply: "reshil" means "has decided" (from "reshit"), giving the line its exact edge.
-- 'Viktor Petrovich, can you imagine what a strange coincidence!' Lyova chimes in at once with Ainura, grounding the moment in plain reality.
-- 'Yesterday I cooked your dish for a guest.' Lyova counters openly watching Barinov, steering the talk right where he wants it.
-- 'And he invited me to work as a head chef.' Lyova focuses on one familiar expression on cue: "rabotat" means "to work", and it carries the main weight of what Lyova is saying.
-- 'Interesting, and who is this generous guest?' Barinov offers that answer toward Lyova: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Look, a tip and a business card together at once.' Pointing to the tips before Ainura, Lyova leans on "chayevyye" ("tips") to give the whole sentence its punch.
+- 'But an important phone number is written there!' Explaining how written things are at once, Ainura links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Quickly copy that number down for yourself.' Ainura replies promptly beside Lyova, grounding the moment in plain reality.
+- 'My niece's husband is going to be a head chef!' Underscoring her niece during the talk, Ainura lands on "plemyannitsy" ("niece", built on "plemyannitsa") to keep the statement grounded.
+- 'Actually, I have not decided anything yet.' Leaning in dryly in front of Ainura, Lyova drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'What do you mean you have not decided yet?' Ainura challenges evenly what Barinov is actually getting at here.
+- 'What have you not decided over there, Lyova?' Barinov speaks quietly in front of Lyova and brings in "reshil" ("has decided", from "reshit") as the key Russian word here.
+- 'Viktor Petrovich, can you imagine what a strange coincidence!' Bringing up a strange coincidence in front of Barinov, Lyova uses "predstavlyayete" ("to imagine", from "predstavlyat") to make the point stick.
+- 'Yesterday I cooked your dish for a guest.' Lyova steps in openly in their talk, letting the remark speak for itself.
+- 'And he invited me to work as a head chef.' Lyova opens up naturally around Barinov and chooses "rabotat" ("to work") so Barinov gets the point right away.
+- 'Interesting, and who is this generous guest?' Pointing out how generous things are to Lyova, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.

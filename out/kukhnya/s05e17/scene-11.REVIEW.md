@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'To the restroom I will let you out, of course.' Senya stresses one key touch at once: "vypushchu" means "will let out" (from "vypustit"), giving the line its exact edge.
-- 'Only quickly to the restroom and right back.' Senya answers pointedly facing Nikita, testing Nikita's reaction in the middle of the exchange.
-- 'Look, the keys are with me now.' Nikita chooses one direct word in reply: "klyuchi" means "the keys" (from "klyuch"), giving the line its exact edge.
-- 'What should we do with the car?' Nikita states this update right away: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'And what do you usually do with a car?' Katya quizzes quietly in front of Nikita without any preamble.
-- 'Usually I steal it and hand it over to the client.' Nikita anchors this clear expression for Senya: "zakazchiku" means "to the client" (from "zakazchik"), giving the line its exact edge.
-- 'Today you are my client, after all.' Nikita hands over this answer before Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well, I do not even know.' Katya speaks quietly toward Senya, so Senya knows she is not just making small talk.
-- 'Sell it to somebody.' Katya leans on one colorful term in reply: "proday" means "to sell" (from "prodat"), giving the line its exact edge.
-- 'Alright, I will sort this out myself.' Nikita aims that answer briskly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.
-- 'And you get the kiss ready in the meantime.' Nikita chimes in right away with a smile, shifting the whole mood of the room in a single beat.
-- 'First we need to drive that car away.' Katya favors one memorable detail with Senya: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
+- 'To the restroom I will let you out, of course.' Senya speaks up evenly around Nikita, leaving no doubt about where he stands.
+- 'Only quickly to the restroom and right back.' Senya chimes in pointedly without holding back, watching Nikita's face to see how the news lands.
+- 'Look, the keys are with me now.' Talking about the keys on the spot, Nikita brings in "klyuchi" ("the keys", from "klyuch") as the key Russian word here.
+- 'What should we do with the car?' Bringing up the car in this beat, Nikita puts the question word "chto" right at the start so Katya hears the focus immediately.
+- 'And what do you usually do with a car?' Katya quizzes quietly if there is more going on behind the scenes.
+- 'Usually I steal it and hand it over to the client.' Emphasizing the client in front of Katya, Nikita uses "zakazchiku" ("to the client", from "zakazchik") to make the point stick.
+- 'Today you are my client, after all.' Touching on the number in front of Katya, Nikita links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well, I do not even know.' Katya proceeds quietly around Nikita, shifting the mood of the conversation in a single beat.
+- 'Sell it to somebody.' Katya proceeds plainly with Nikita and lands on "proday" ("to sell", built on "prodat") to keep the statement grounded.
+- 'Alright, I will sort this out myself.' Cutting in quietly right here, the "-sya" ending on "razberus" ("I will sort out") marks an action that unfolds mutually or turns back on the speaker.
+- 'And you get the kiss ready in the meantime.' Nikita continues right away in their talk, bringing things back to earth after the buildup.
+- 'First we need to drive that car away.' Talking about the car to Nikita, Katya chooses "mashinu" ("car", from the root "mashina") so Nikita hears the exact meaning.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'With what?' Vika challenges firmly if there is more going on behind the scenes.
-- 'But your grandfather just passed away.' Kostya anchors this direct term in reply: "dedushka" means "grandfather", and it carries the main weight of what Kostya is saying.
-- 'Yes, you know, I...' Vika phrases this warning before Kostya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I just have not fully processed it yet.' Kostya holds firm firmly beside Vika, so Vika knows he is not just making small talk.
-- 'Allow me to get back to my work.' Vika points to this sharp expression for Kostya: "pozvolte" means "allow me" (from "pozvolit"), giving the line its exact edge.
-- 'Yes, yes, of course.' Kostya sends the remark frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Keep working, Kostya.' Vika fires back sharply on the spot, letting the remark speak for itself.
-- 'Right now I know for sure what I want.' Kostya picks this clear piece toward Vika: "seychas" means "now", and it carries the main weight of what Kostya is saying.
-- 'Let us start everything over from the beginning.' Vika makes this point frankly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Now that is what I like to hear.' Kostya counters earnestly before Vika, refusing to let the moment slip past.
-- 'Could you not come up with something normal?' Vika frames one telling element in reply: "normalnoye" means "normal" (from "normalnyy"), giving the line its exact edge.
-- 'What a thing to joke about.' Kostya brings the reaction before Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'The main thing is that everything went smoothly.' Vika answers lightly during the talk, so Kostya knows she is not just making small talk.
+- 'With what?' Vika challenges firmly what Kostya is actually getting at here.
+- 'But your grandfather just passed away.' Emphasizing the grandfather during the talk, Kostya uses "dedushka" ("grandfather") to carry the main weight of the thought.
+- 'Yes, you know, I...' Turning evenly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I just have not fully processed it yet.' Kostya answers firmly in their talk, making his position completely clear.
+- 'Allow me to get back to my work.' Focusing on her work beside Kostya, Vika reaches for the Russian word "rabote" ("work", built from "rabota") right at the center of the line.
+- 'Yes, yes, of course.' Kostya calmly gives this confirmation while facing Vika using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Keep working, Kostya.' Vika jumps in sharply toward Kostya, shifting the mood of the conversation in a single beat.
+- 'Right now I know for sure what I want.' Kostya follows up evenly at once and brings in "tochno" ("definitely") to make the meaning unmistakable.
+- 'Let us start everything over from the beginning.' Pushing back calmly to Kostya, Vika starts with "davay" ("come on, let's") to invite Kostya right into the action.
+- 'Now that is what I like to hear.' Kostya weighs in earnestly without a pause, before Vika can change the subject.
+- 'Could you not come up with something normal?' Vika jumps in promptly in front of Kostya and uses "normalnoye" ("normal", from "normalnyy") to make the point stick.
+- 'What a thing to joke about.' Speaking candidly at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'The main thing is that everything went smoothly.' Vika answers lightly watching Kostya, letting the remark speak for itself.

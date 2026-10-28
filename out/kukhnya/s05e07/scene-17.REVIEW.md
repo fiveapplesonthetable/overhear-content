@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, does it hurt?' Max states the reply with candor: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'What do you think yourself?' Fedya questions briskly in front of Max without any preamble.
-- 'Come on, Fedya, do not take offense.' Max stresses one familiar expression in earnest: "obizhaysya" means "take offence" (from "obizhatsya"), giving the line its exact edge.
-- 'I just saw how you were kissing her.' Max drops this statement facing Kostya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'We did not agree on that with you at all.' Fedya weighs in at once as they talk, bringing things back to earth after the buildup.
-- 'Senechka, little bunny, I quit just as you said.' Max underscores this telling touch on cue: "zaychik" means "little bunny", and it carries the main weight of what Max is saying.
-- 'Did you really have to kick me?' Fedya delivers this statement at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Sorry, I was in character, Katya, how did you come up with this?' Max presses plainly before Kostya can change the subject.
-- 'How much more do I owe for dinner?' Fedya focuses on one clear choice in reply: "dolzhen" means "has to, must", and it carries the main weight of what Fedya is saying.
-- 'Do not be afraid, dummy, they ordered the promotional entrecote and ate it.' Kostya proceeds decisively hearing Max, letting the remark speak for itself.
-- 'And if you eat it up, you do not have to pay the bill.' Kostya holds firm candidly with a smile, leaving no doubt about where he stands.
-- 'Guess who advised them to do that.' Kostya centers one clear word with Max: "posovetoval" means "advised" (from "posovetovat"), giving the line its exact edge.
+- 'Well, does it hurt?' Leaning in evenly on the spot, Max puts the question word "chto" right at the start so Fedya hears the focus immediately.
+- 'What do you think yourself?' Fedya questions briskly how Max expects that to work in practice.
+- 'Come on, Fedya, do not take offense.' Max pushes back directly with Fedya and centers the thought on "obizhaysya" ("take offence", from "obizhatsya") without wasting a word.
+- 'I just saw how you were kissing her.' Stepping in earnestly beside Fedya, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'We did not agree on that with you at all.' Fedya counters at once with a sigh, without trying to dress up how he really feels.
+- 'Senechka, little bunny, I quit just as you said.' Focusing on the bunny in this beat, Max brings in "zaychik" ("little bunny") to make the meaning unmistakable.
+- 'Did you really have to kick me?' Looking over calmly beside Max, Fedya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Sorry, I was in character, Katya, how did you come up with this?' Max presses plainly where this conversation is heading next.
+- 'How much more do I owe for dinner?' Highlighting the dinner beside Kostya, Fedya chooses "dolzhen" ("has to, must") so Kostya gets the point right away.
+- 'Do not be afraid, dummy, they ordered the promotional entrecote and ate it.' Turning to the promotional entrecote in the exchange, Kostya leans on "antrekot" ("entrecote, ribeye steak") to give the whole sentence its punch.
+- 'And if you eat it up, you do not have to pay the bill.' Kostya opens up candidly with a sigh, watching Fedya's face to see how the news lands.
+- 'Guess who advised them to do that.' Kostya reacts promptly in the exchange and puts the weight on "posovetoval" ("advised", from "posovetovat") as the exchange unfolds.

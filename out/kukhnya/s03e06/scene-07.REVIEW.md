@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, why are you keeping silent there?' Kostya emphasizes one direct piece right here: "molchish" means "are silent" (from "molchat"), giving the line its exact edge.
-- 'After all, you did not spend the night at home today.' Kostya picks one loaded expression at once: "segodnya" means "today", and it carries the main weight of what Kostya is saying.
-- 'I see you managed after all today.' Kostya replies firmly with a nod, grounding the moment in plain reality.
-- 'And Vika did not interfere this time.' Kostya grounds this direct piece right here: "pomeshala" means "disturbed, interrupted" (from "pomeshat"), giving the line its exact edge.
-- 'Hello, dear Kostya.' Vika voices this point on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Oh, I will call you back later.' Kostya answers firmly watching Vika, making his position completely clear.
-- 'Take it, that is Kostya calling you.' Vika underscores one clear word in reply: "zvonit" means "is calling", and it carries the main weight of what Vika is saying.
-- 'And it turns out you are a coward too.' Vika frames this statement with ease: the "-sya" ending on "okazyvayetsya" ("to turn out to be") turns the action inward or makes it happen between people naturally.
-- 'How could I ever fall in love with you at all?' Vika challenges candidly about what Kostya just brought up.
-- 'Oh calm down finally.' Max highlights one memorable choice in reply: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
-- 'Oh, it seems I fell!' Vika offers this statement beside Kostya: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
+- 'Max, why are you keeping silent there?' Kostya counters firmly on the spot and leans on "molchish" ("are silent", a form of "molchat") to give the remark its edge.
+- 'After all, you did not spend the night at home today.' Kostya reacts honestly beside Vika, so Vika knows he is not just making small talk.
+- 'I see you managed after all today.' Kostya speaks up firmly without holding back, steering the talk right where he wants it.
+- 'And Vika did not interfere this time.' Kostya fires back earnestly during the talk and leans on "pomeshala" ("disturbed, interrupted", a form of "pomeshat") to give the remark its edge.
+- 'Hello, dear Kostya.' Vika politely chooses this familiar greeting to Kostya using "zdravstvuy" ("hello") — the singular form of the classic greeting that literally means "be healthy".
+- 'Oh, I will call you back later.' Kostya cuts in firmly without a pause, bringing things back to earth after the buildup.
+- 'Take it, that is Kostya calling you.' Vika weighs in dryly beside Kostya and reaches for the Russian word "zvonit" ("is calling") right at the heart of the line.
+- 'And it turns out you are a coward too.' Reacting openly in front of Kostya, the "-sya" ending on "okazyvayetsya" ("to turn out to be") marks an action that unfolds mutually or turns back on the speaker.
+- 'How could I ever fall in love with you at all?' Vika challenges candidly whether Max really thought this through.
+- 'Oh calm down finally.' Max fires back evenly in front of Vika and chooses "uspokoysya" ("calm down", from the root "uspokoitsya") so Vika hears the exact meaning.
+- 'Oh, it seems I fell!' Jumping in candidly with Max, the "-sya" ending on "kazhetsya" ("it seems, I think") marks an action that unfolds mutually or turns back on the speaker.
 - 'Vika, maybe I can help you?' Max quizzes wryly what Vika is actually getting at here.

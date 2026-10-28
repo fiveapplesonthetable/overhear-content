@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I brought the ice cream.' Katya drops the reply before Fedya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Well, try it.' Katya cuts in frankly watching Senya, watching Senya's face to see how the news lands.
-- 'Thank you.' Katya points to one practical expression for Fedya: "spasibo" means "thank you", and it carries the main weight of what Katya is saying.
-- 'Come on, infidels, let us hurry along.' Senya lays out the comment around Katya: the word "davayte" is the polite or group version of "let's", inviting Katya into the plan right away.
-- 'Bring it over here faster!' Fedya weighs in honestly around Katya, testing Katya's reaction in the middle of the exchange.
-- 'Well, how did it go?' Senya phrases that line on cue: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'Did you see, she made a gesture!' Fedya puts the remark before Katya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Like they gave her the ring!' Senya pushes back warmly with a shrug, steering the talk right where he wants it.
-- 'They are asking to repeat the ice cream for the room.' Katya frames this clear expression on cue: "morozhenoye" means "ice cream", and it carries the main weight of what Katya is saying.
-- 'They are taking cognac ice cream again!' Senya proceeds pointedly toward Katya, bringing things back to earth after the buildup.
-- 'They definitely want to take all the rings.' Fedya chimes in wryly without any doubt, without trying to dress up how he really feels.
-- 'I will make one more portion right now.' Katya grounds one colorful element for Senya: "portsiyu" means "portion" (from "portsiya"), giving the line its exact edge.
+- 'I brought the ice cream.' Talking about the ice cream to Senya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Well, try it.' Katya follows up frankly watching Senya, bringing things back to earth after the buildup.
+- 'Thank you.' Katya gently uses this word of thanks in front of Senya using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Come on, infidels, let us hurry along.' Addressing the infidels beside Katya, Senya uses the polite or group form "davayte" ("let's") to bring Katya into the plan.
+- 'Bring it over here faster!' Fedya steps in honestly without holding back, letting the remark speak for itself.
+- 'Well, how did it go?' Answering smoothly during the talk, Senya puts the question word "chto" right at the start so Fedya hears the focus immediately.
+- 'Did you see, she made a gesture!' Turning to a gesture on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Like they gave her the ring!' Senya answers warmly across the room, refusing to let the moment slip past.
+- 'They are asking to repeat the ice cream for the room.' Mentioning the ice cream in front of Senya, Katya brings in "morozhenoye" ("ice cream") to make the meaning unmistakable.
+- 'They are taking cognac ice cream again!' Mentioning the ice cream at once, Senya lands on "morozhenoye" ("ice cream") as the key everyday word here.
+- 'They definitely want to take all the rings.' Fedya pushes back wryly toward Senya, watching Senya's face to see how the news lands.
+- 'I will make one more portion right now.' Talking about the portion around Fedya, Katya lands on "portsiyu" ("portion", built on "portsiya") to keep the statement grounded.

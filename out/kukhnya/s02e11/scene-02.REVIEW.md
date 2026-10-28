@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is no need to make a scene in the apartment so early!' Max offers the remark plainly here: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'What, could it get in the way?' Vika prompts calmly to see how Max will answer on the spot.
-- 'Well, just take a look at Pashka.' Max colors this vivid term on cue: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
-- 'They will get to work and sort everything out.' Vika aims that line facing Max: the "-sya" ending on "dogovoryatsya" ("to agree, to arrange") turns the action inward or makes it happen between people naturally.
-- 'How are you feeling today?' Max wonders deadpan to see how Vika will answer on the spot.
-- 'That is actually what I wanted to ask you.' Max uses one clear element at once: "sprosit" means "to ask", and it carries the main weight of what Max is saying.
-- 'How am I feeling?' Max aims the comment facing Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'No, no, do not worry.' Vika jumps in steadily without a pause, leaving no doubt about where she stands.
-- 'Let us wait for the MRI results.' Max centers this telling term at once: "rezultatov" means "results" (from "rezultat"), giving the line its exact edge.
-- 'Only one thing is required of you.' Vika sends the comeback right away: the "-sya" ending on "trebuyetsya" ("to be required") turns the action inward or makes it happen between people naturally.
-- 'To follow the regimen strictly.' Max fires back dryly without a pause, before Vika can change the subject.
-- 'I will do everything I possibly can.' Vika features one key word for Max: "vozmozhno" means "perhaps, possible", and it carries the main weight of what Vika is saying.
-- 'I hope you will be leaving us very soon.' Max points to this telling term toward Vika: "pokinete" means "to leave, to vacate" (from "pokinut"), giving the line its exact edge.
+- 'There is no need to make a scene in the apartment so early!' Touching on the flat in this beat, Max leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'What, could it get in the way?' Vika prompts calmly while looking straight at Max here.
+- 'Well, just take a look at Pashka.' Pushing back openly before Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'They will get to work and sort everything out.' Returning to the job on the spot, the "-sya" ending on "dogovoryatsya" ("to agree, to arrange") marks an action that unfolds mutually or turns back on the speaker.
+- 'How are you feeling today?' Max wonders deadpan if there is more going on behind the scenes.
+- 'That is actually what I wanted to ask you.' Max jumps in frankly in the exchange and brings in "sprosit" ("to ask") to make the meaning unmistakable.
+- 'How am I feeling?' Focusing on the health before Vika, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'No, no, do not worry.' Vika jumps in steadily in this moment, shifting the mood of the conversation in a single beat.
+- 'Let us wait for the MRI results.' Underscoring the results beside Vika, Max reaches for the Russian word "rezultatov" ("results", built from "rezultat") right at the center of the line.
+- 'Only one thing is required of you.' Weighing in promptly at once, the "-sya" ending on "trebuyetsya" ("to be required") marks an action that unfolds mutually or turns back on the speaker.
+- 'To follow the regimen strictly.' Max speaks dryly with a sigh, shifting the mood of the conversation in a single beat.
+- 'I will do everything I possibly can.' Vika speaks up naturally right here and brings in "vozmozhno" ("perhaps, possible") to make the meaning unmistakable.
+- 'I hope you will be leaving us very soon.' Max reacts honestly around Vika, steering the talk right where he wants it.

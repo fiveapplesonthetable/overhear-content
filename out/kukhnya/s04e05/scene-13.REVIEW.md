@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lev, the important guests are already waiting in the hall.' Elena emphasizes one concrete touch in reply: "vazhnyye" means "important" (from "vazhnyy"), giving the line its exact edge.
-- 'Please take out our royal crab quickly.' Elena delivers this line calmly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Good, right now we will quickly make the broth.' Lyova counters honestly with a smile, keeping the focus on what actually matters here.
-- 'Ugh, Lyova, what a terrible smell all around!' Barinov anchors this clear element with Lyova: "uzhasnyy" means "horrible", and it carries the main weight of what Barinov is saying.
-- 'Elena Pavlovna, we have a big problem.' Lyova gives the reaction frankly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'What happened here in the kitchen, Lev?' Elena wonders candidly in front of Lyova without any preamble.
-- 'It seems our royal crab has gone completely bad.' Lyova grounds this sharp element on cue: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'It does not just seem so, Lev, it has rotted!' Elena delivers that point briskly now: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
-- 'Maybe this crab should just take a shower?' Barinov wonders point-blank as Elena tries to explain the situation.
-- 'Lev, why was this refrigerator unplugged?' Elena centers this vivid word with Lyova: "kholodilnik" means "fridge", and it carries the main weight of what Elena is saying.
-- 'I cannot even believe it, I did not unplug it!' Lyova stands firm evenly facing Barinov, leaving no doubt about where he stands.
-- 'I did not expect this from you at all.' Elena fires back promptly around Lyova, grounding the moment in plain reality.
-- 'I will deduct twenty thousand from your salary!' Elena spotlights this clear word with Barinov: "zarplaty" means "salaries" (from "zarplata"), giving the line its exact edge.
+- 'Lev, the important guests are already waiting in the hall.' Insisting on how important things are right here, Elena centers the thought on "vazhnyye" ("important", from "vazhnyy") without wasting a word.
+- 'Please take out our royal crab quickly.' Talking about the crab to Lyova, Elena centers the thought on "korolevskogo" ("royal", from "korolevskiy") without wasting a word.
+- 'Good, right now we will quickly make the broth.' Lyova replies honestly without a pause, bringing things back to earth after the buildup.
+- 'Ugh, Lyova, what a terrible smell all around!' Emphasizing a terrible smell in front of Lyova, Barinov uses "uzhasnyy" ("horrible") to carry the main weight of the thought.
+- 'Elena Pavlovna, we have a big problem.' Bringing up a big problem in this beat, Lyova reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'What happened here in the kitchen, Lev?' Elena wonders candidly what Lyova is actually getting at here.
+- 'It seems our royal crab has gone completely bad.' Addressing the crab in this beat, Lyova reaches for the Russian word "korolevskiy" ("one") right at the heart of the line.
+- 'It does not just seem so, Lev, it has rotted!' Talking about the rotted in this beat, Elena uses "protukh" ("rotted") to carry the main weight of the thought.
+- 'Maybe this crab should just take a shower?' Barinov wonders point-blank why things suddenly took this turn between them.
+- 'Lev, why was this refrigerator unplugged?' Highlighting the fridge before Lyova, Elena lands on "kholodilnik" ("fridge") as the key everyday word here.
+- 'I cannot even believe it, I did not unplug it!' Lyova responds frankly with Elena and puts the weight on "vyklyuchal" ("to unplug", from "vyklyuchat") as the exchange unfolds.
+- 'I did not expect this from you at all.' Elena fires back promptly watching Lyova, watching Lyova's face to see how the news lands.
+- 'I will deduct twenty thousand from your salary!' Addressing the salaries to Lyova, Elena centers the thought on "zarplaty" ("salaries", from "zarplata") without wasting a word.

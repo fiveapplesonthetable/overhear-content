@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, guys, what do you think you are doing?' Nastya quizzes eagerly before Vika can change the subject.
-- 'Do you know who I am?' Vika spotlights one concrete term for Nastya: "znayete" means "know" (from "znat"), giving the line its exact edge.
-- 'Are you trying to scare me?' Nastya phrases this point for Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'I am not afraid of you.' Vika weighs in right away with a smile, watching Nastya's face to see how the news lands.
-- 'You can do whatever you want to me.' Nastya favors one direct detail in earnest: "mozhete" means "can, may" (from "moch"), giving the line its exact edge.
-- 'Anything you want.' Vika voices that reply on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'And I will still stay with Nastya no matter what.' Nastya fires back pointedly across the room, keeping the focus on what actually matters here.
-- 'Are you taking me out to the woods?' Vika colors one pointed touch on cue: "vezete" means "to transport" (from "vezti"), giving the line its exact edge.
-- 'For family dinner.' Nastya sends that answer plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I do not like you one bit.' Vika stands firm briskly to settle things, to clear the air between them once and for all.
-- 'And she came rushing right over to see me.' Nastya reaches for one telling piece in earnest: "priyekhala" means "came, arrived" (from "priyekhat"), giving the line its exact edge.
-- 'All because you punched me once in the nose.' Vika centers this clear choice in reply: "razok" means "time", and it carries the main weight of what Vika is saying.
-- 'Please forgive me once again.' Nastya stands firm warmly as they talk, watching Vika's face to see how the news lands.
+- 'Hey, guys, what do you think you are doing?' Nastya quizzes eagerly where this conversation is heading next.
+- 'Do you know who I am?' Weighing in promptly in front of Nastya, Vika keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Are you trying to scare me?' Pressing on quietly right here, Nastya keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'I am not afraid of you.' Vika steps in right away beside Nastya, keeping the focus on what actually matters here.
+- 'You can do whatever you want to me.' Nastya pushes back briskly around Vika and chooses "mozhete" ("can, may", from the root "moch") so Vika hears the exact meaning.
+- 'Anything you want.' Pressing on briskly around Nastya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'And I will still stay with Nastya no matter what.' Nastya counters pointedly in this moment, letting the remark speak for itself.
+- 'Are you taking me out to the woods?' Pointing to the forest in the exchange, Vika brings in "vezete" ("to transport", from "vezti") as the key Russian word here.
+- 'For family dinner.' Dwelling on the lunch beside Vika, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I do not like you one bit.' Vika speaks briskly in this moment, refusing to let the moment slip past.
+- 'And she came rushing right over to see me.' Nastya continues boldly in front of Vika and centers the thought on "priyekhala" ("came, arrived", from "priyekhat") without wasting a word.
+- 'All because you punched me once in the nose.' Vika answers promptly across the room, without trying to dress up how she really feels.
+- 'Please forgive me once again.' Nastya quietly chooses this polite apology with Vika using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.

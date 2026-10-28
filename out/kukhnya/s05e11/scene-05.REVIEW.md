@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wow! Just like in the movies!' The guest emphasizes this key expression right here: "kino" means "cinema, movies", and it carries the main weight of what the guest is saying.
-- 'Maxim, it is probably very expensive here.' The guest follows up right away across the room, leaving no doubt about where he stands.
-- 'Let us spend the night at your place.' The guest points to one pointed piece with Max: "perenochuyem" means "will spend the night" (from "perenochevat"), giving the line its exact edge.
-- 'Granny, stop it! What do you mean on the floor?' Max puts this update on cue: putting the question word "kakoy" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
-- 'Spend the night here in comfort.' Max fires back earnestly toward the guest, leaving no doubt about where he stands.
-- 'Hello, Mikhail Dzhekovich.' Max grounds one telling detail right here: "zdravstvuyte" means "hello", and it carries the main weight of what Max is saying.
-- 'Good afternoon.' Mikhail puts that answer with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Lyuba. Good afternoon!' The guest follows up openly beside Mikhail, saying out loud what both of them already know.
-- 'And how well he speaks Russian, right?' The guest reaches for one memorable term toward Max: "razgovarivayet" means "to talk, to speak" (from "razgovarivat"), giving the line its exact edge.
-- 'Let us go to the room.' Max aims this statement at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Have a pleasant stay!' Mikhail jumps in plainly with a nod, making his position completely clear.
-- 'Thank you very much.' The guest underscores this direct piece toward Mikhail: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Wow! Just like in the movies!' The guest chimes in bluntly with a smile, making his position completely clear.
+- 'Maxim, it is probably very expensive here.' The guest reacts right away watching Max, leaving no doubt about where he stands.
+- 'Let us spend the night at your place.' The guest answers plainly in this beat and reaches for the Russian word "perenochuyem" ("will spend the night", built from "perenochevat") right at the center of the line.
+- 'Granny, stop it! What do you mean on the floor?' Turning to the granny beside the guest, Max puts the question word "kakoy" right at the start so the guest hears the focus immediately.
+- 'Spend the night here in comfort.' Max speaks earnestly with a sigh, refusing to let the moment slip past.
+- 'Hello, Mikhail Dzhekovich.' Max plainly offers this formal greeting while facing Mikhail using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Good afternoon.' Mikhail gently speaks this daytime greeting at the start of the beat using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'Lyuba. Good afternoon!' The guest firmly offers this daytime greeting as they meet using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'And how well he speaks Russian, right?' The guest cuts in plainly in front of Max and puts the weight on "razgovarivayet" ("to talk, to speak", from "razgovarivat") as the exchange unfolds.
+- 'Let us go to the room.' Returning to the number in front of the guest, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Have a pleasant stay!' Mikhail speaks plainly with a shrug, without trying to dress up how he really feels.
+- 'Thank you very much.' The guest firmly extends this word of thanks in the exchange using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

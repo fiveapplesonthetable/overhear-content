@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Girls, what are you whispering secrets about here?' Barinov challenges bluntly about what Eva just brought up.
-- 'Nothing special, Dad, we are just discussing a new series.' Katya uses one loaded detail toward Eva: "obsuzhdayem" means "are discussing" (from "obsuzhdat"), giving the line its exact edge.
-- 'Katya, why are you deceiving your own father?' Eva brings this point with warmth: putting the question word "zachem" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Last night I had a wonderful romance!' Eva continues sharply without holding back, to clear the air between them once and for all.
-- 'Moreover, the man was almost twice as old as me.' Eva features one telling touch on cue: "muzhchina" means "man", and it carries the main weight of what Eva is saying.
-- 'Roughly the same age as you, Viktor Petrovich!' Eva frames this sharp piece at once: "vozrasta" means "age" (from "vozrast"), giving the line its exact edge.
-- 'All right, I have a lot to do, I will run along!' Katya speaks sharply hearing Barinov, before Barinov can change the subject.
-- 'Eva, I do not want Katya to know!' Barinov chooses one loaded expression for Katya: "khochu" means "want" (from "khotet"), giving the line its exact edge.
-- 'Such a grown man and he is afraid of his own daughter!' Eva pushes back decisively to be clear, shifting the whole mood of the room in a single beat.
-- 'Why can I not tell a friend how I brushed my teeth?' Eva prompts deadpan in front of Katya without any preamble.
-- 'Wait, is this some kind of clever blackmail?' Barinov underscores one telling expression in reply: "shantazh" means "blackmail", and it carries the main weight of what Barinov is saying.
-- 'Or maybe I simply like you?' Eva puts this update facing Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Girls, what are you whispering secrets about here?' Barinov challenges bluntly before Katya can change the subject.
+- 'Nothing special, Dad, we are just discussing a new series.' Bringing up the dad in front of Barinov, Katya lands on "obsuzhdayem" ("are discussing", built on "obsuzhdat") to keep the statement grounded.
+- 'Katya, why are you deceiving your own father?' Showing how dear things are around Katya, Eva puts the question word "zachem" right at the start so Katya hears the focus immediately.
+- 'Last night I had a wonderful romance!' Eva answers sharply with a nod, keeping the focus on what actually matters here.
+- 'Moreover, the man was almost twice as old as me.' Turning to the man at once, Eva leans on "muzhchina" ("man") to give the whole sentence its punch.
+- 'Roughly the same age as you, Viktor Petrovich!' Eva follows up calmly in their talk, making her position completely clear.
+- 'All right, I have a lot to do, I will run along!' Katya proceeds sharply with a nod, letting the remark speak for itself.
+- 'Eva, I do not want Katya to know!' Barinov chimes in warmly in their talk, grounding the moment in plain reality.
+- 'Such a grown man and he is afraid of his own daughter!' Turning to a grown man in the exchange, Eva leans on "muzhchina" ("man") to give the whole sentence its punch.
+- 'Why can I not tell a friend how I brushed my teeth?' Eva prompts deadpan if there is more going on behind the scenes.
+- 'Wait, is this some kind of clever blackmail?' Emphasizing the blackmail to Eva, Barinov lands on "shantazh" ("blackmail") as the key everyday word here.
+- 'Or maybe I simply like you?' Pressing on naturally with Barinov, Eva uses the little word "prosto" ("simply, just") to make the point sound effortless.

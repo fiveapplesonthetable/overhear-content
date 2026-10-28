@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You will forget about me on the lilac moon.' Barinov sharpens one direct word for Max: "sirenevoy" means "lilac" (from "sirenevyy"), giving the line its exact edge.
-- 'Maybe only for a moment.' Barinov puts this line with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'The chef went to the laundry room!' Senya steps in sharply with a nod, steering the talk right where he wants it.
-- 'Chef, will you be able to dance the tango?' Max focuses on one key word right here: "tantsevat" means "to dance", and it carries the main weight of what Max is saying.
-- 'What? Lavrov, do not infuriate me!' Barinov brings this answer toward Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'The chef is coming, run!' Senya proceeds candidly around Max, keeping the focus on what actually matters here.
-- 'And why are you standing around here?' Barinov anchors this telling term with Max: "stoite" means "are standing" (from "stoyat"), giving the line its exact edge.
-- 'Chef, we are waiting for you. We just wanted you to help us.' Senya drops that thought with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'To talk Fedya out of quitting.' Senya answers lightly before Barinov, steering the talk right where he wants it.
-- 'And who needs this Fedya?' Barinov spotlights one concrete expression in reply: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
-- 'Thank you, chef, you really know how to persuade!' Senya voices this point in earnest: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Either you work, or other people will split your salary!' Barinov answers at once without a pause, leaving no doubt about where he stands.
+- 'You will forget about me on the lilac moon.' Underscoring the lilac moon with Senya, Barinov centers the thought on "sirenevoy" ("lilac", from "sirenevyy") without wasting a word.
+- 'Maybe only for a moment.' Turning to the instant in front of Senya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'The chef went to the laundry room!' Discussing the laundry room with a sigh, Senya keeps Barinov's attention locked on what matters.
+- 'Chef, will you be able to dance the tango?' Highlighting the tango during the talk, Max chooses "tantsevat" ("to dance") so Barinov gets the point right away.
+- 'What? Lavrov, do not infuriate me!' Following up smoothly with Senya, Barinov keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'The chef is coming, run!' Senya speaks candidly in their talk, so Barinov knows he is not just making small talk.
+- 'And why are you standing around here?' Barinov chimes in evenly beside Senya and uses "stoite" ("are standing", from "stoyat") to make the point stick.
+- 'Chef, we are waiting for you. We just wanted you to help us.' Stepping in firmly at once, Senya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'To talk Fedya out of quitting.' Senya continues lightly beside Barinov, watching Barinov's face to see how the news lands.
+- 'And who needs this Fedya?' Barinov proceeds directly right here and leans on "nuzhen" ("is needed", a form of "nuzhnyy") to give the remark its edge.
+- 'Thank you, chef, you really know how to persuade!' Senya politely directs this word of thanks in one quick breath using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Either you work, or other people will split your salary!' Barinov follows up at once facing Senya, letting the remark speak for itself.

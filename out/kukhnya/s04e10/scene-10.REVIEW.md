@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is clear what kind of movies you watch at home.' Max spotlights one classic word in reply: "ponyatno" means "clear", and it carries the main weight of what Max is saying.
-- 'No, that is completely untrue.' German shapes this line facing Max: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Then what, sweet cartoons?' Max questions calmly if there is more going on behind the scenes.
-- 'Cartoons give a mistaken impression of people.' German sharpens one pointed piece with Max: "predstavleniye" means "performance" (from "predstavleniy"), giving the line its exact edge.
-- 'Movies about zombies are another matter.' German makes that reply calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'In those, everything is honest and real.' German speaks plainly watching Max, leaving no doubt about where he stands.
-- 'People are ready to eat each other up.' German picks one loaded piece with Lyova: "gotovy" means "ready" (from "gotovyy"), giving the line its exact edge.
-- 'Lyova, your glove fell.' Max states the comeback for Lyova: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'And your arm fell off too!' Max cuts in openly without any doubt, without trying to dress up how he really feels.
-- 'Oh, pick it up, please.' Lyova features one memorable term in earnest: "podnimi" means "raise" (from "podnyat"), giving the line its exact edge.
-- 'Quiet, do not scare me like that!' Max pushes back calmly watching German, shifting the whole mood of the room in a single beat.
-- 'What kind of jokes are these, Lyova?' Max inquires briskly if there is more going on behind the scenes.
+- 'It is clear what kind of movies you watch at home.' Addressing the cinema in the exchange, Max leans on "ponyatno" ("clear") to give the whole sentence its punch.
+- 'No, that is completely untrue.' Checking on the untrue in this beat, German adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Then what, sweet cartoons?' Max questions calmly what German is actually getting at here.
+- 'Cartoons give a mistaken impression of people.' Turning to the cartoon in the exchange, German lands on "predstavleniye" ("performance", built on "predstavleniy") to keep the statement grounded.
+- 'Movies about zombies are another matter.' Returning to the matter at once, German links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'In those, everything is honest and real.' German replies plainly hearing Max, letting the remark speak for itself.
+- 'People are ready to eat each other up.' Pointing out how ready things are in front of Max, German puts the weight on "gotovy" ("ready", from "gotovyy") as the exchange unfolds.
+- 'Lyova, your glove fell.' Bringing up the glove at once, Max uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'And your arm fell off too!' Max continues openly with a sigh, to clear the air between them once and for all.
+- 'Oh, pick it up, please.' Lyova casually voices this courtesy word while facing Max using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Quiet, do not scare me like that!' Max cuts in boldly beside Lyova and leans on "tikho" ("easy, quiet") to give the whole sentence its punch.
+- 'What kind of jokes are these, Lyova?' Max inquires briskly what Lyova is actually getting at here.

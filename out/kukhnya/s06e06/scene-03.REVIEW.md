@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She is already a grown adult.' Eleonora replies earnestly toward Barinov, leaving no doubt about where she stands.
-- 'She has the right to make important decisions herself.' Eleonora spotlights one direct term on cue: "resheniya" means "decision" (from "resheniye"), giving the line its exact edge.
-- 'We must not stand in her way right now.' Eleonora chimes in bluntly with a smile, testing Barinov's reaction in the middle of the exchange.
-- 'Do you really think so calmly?' Barinov inquires wryly what Kostya is actually getting at here.
-- 'Maybe someone should just beat his face in?' Eleonora centers one vivid choice on cue: "litso" means "face", and it carries the main weight of what Eleonora is saying.
-- 'And who exactly is going to beat him?' Barinov directs that line without pause: putting the question word "kto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Victor Petrovich, maybe we can help?' Kostya inquires point-blank to see how Barinov will answer on the spot.
-- 'There is enough room for everyone at our place.' Eleonora colors this vivid detail for Kostya: "mesta" means "places" (from "mesto"), giving the line its exact edge.
-- 'I am categorically against this guest at home.' Kostya makes the reply toward Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Kostya, you cannot treat your father like that!' Eleonora reacts calmly toward Kostya, letting the remark speak for itself.
-- 'Goodbye, leave my apartment now.' Kostya spotlights one familiar word with Barinov: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
-- 'Let him stay in a hotel instead.' Kostya reacts firmly as they talk, leaving no doubt about where he stands.
+- 'She is already a grown adult.' Eleonora steps in earnestly with a sigh, letting the remark speak for itself.
+- 'She has the right to make important decisions herself.' Talking about the decision on the spot, Eleonora lands on "resheniya" ("decision", built on "resheniye") to keep the statement grounded.
+- 'We must not stand in her way right now.' Eleonora pushes back openly beside Barinov and reaches for the Russian word "dolzhny" ("must, should", built from "dolzhen") right at the center of the line.
+- 'Do you really think so calmly?' Barinov inquires wryly if there is more going on behind the scenes.
+- 'Maybe someone should just beat his face in?' Underscoring the face on the spot, Eleonora centers the remark on "litso" ("face") without any extra fuss.
+- 'And who exactly is going to beat him?' Pushing back frankly on the spot, Barinov puts the question word "kto" right at the start so Kostya hears the focus immediately.
+- 'Victor Petrovich, maybe we can help?' Kostya inquires point-blank while looking straight at Barinov here.
+- 'There is enough room for everyone at our place.' Focusing on the places before Kostya, Eleonora centers the thought on "mesta" ("places", from "mesto") without wasting a word.
+- 'I am categorically against this guest at home.' Focusing on the guest before Eleonora, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Kostya, you cannot treat your father like that!' Eleonora chimes in calmly in their talk, grounding the moment in plain reality.
+- 'Goodbye, leave my apartment now.' Addressing the meeting around Eleonora, Kostya leans on "svidaniya" ("meeting", a form of "svidaniye") to give the remark its edge.
+- 'Let him stay in a hotel instead.' Bringing up a hotel around Eleonora, Kostya puts the weight on "gostinitse" ("hotel", from "gostinitsa") as the exchange unfolds.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Believe me, I know what that is like.' The inspector holds firm bluntly across the room, so Denis knows he is not just making small talk.
-- 'Once I too was a chef.' The inspector uses this vivid element at once: "povarom" means "as a cook" (from "povar"), giving the line its exact edge.
-- 'Because of an injury I had to leave the profession.' The inspector holds firm warmly with Denis, refusing to let the moment slip past.
-- 'Unfortunately, such is our life.' The inspector speaks up briskly with a sigh, saying out loud what both of them already know.
-- 'Maybe you will come to us once more?' Denis focuses on one concrete piece on cue: "yeshchyo" means "more, still", and it carries the main weight of what Denis is saying.
-- 'Viktor will definitely surprise you today.' Denis uses one loaded element right here: "obyazatelno" means "surely, without fail", and it carries the main weight of what Denis is saying.
-- 'Yes, I will come with great pleasure.' The inspector replies wryly in their talk, letting the remark speak for itself.
-- 'Did you and Katya break up because of me?' Nikita underscores one vivid detail right here: "rasstalis" means "broke up, separated" (from "rasstatsya"), giving the line its exact edge.
-- 'I wanted the two of you to get married.' Denis sends this update with ease: the "-sya" ending on "pozhenilis" ("to married") turns the action inward or makes it happen between people naturally.
-- 'Yes, you tried very hard.' Nikita pushes back honestly as they talk, before the inspector can change the subject.
-- 'Especially that evening on the roof.' Nikita underscores one key piece toward Denis: "osobenno" means "especially", and it carries the main weight of what Nikita is saying.
-- 'I made inquiries about you.' Hear how Nikita warns the inspector in reply — the Russian word "spravki" ("inquiries", built from "spravka") does the heavy lifting.
+- 'Believe me, I know what that is like.' The inspector opens up bluntly without a pause, refusing to let the moment slip past.
+- 'Once I too was a chef.' Mentioning the cook right here, the inspector brings in "povarom" ("as a cook", from "povar") as the key Russian word here.
+- 'Because of an injury I had to leave the profession.' Emphasizing the profession at once, the inspector uses "professiyu" ("profession", from "professiya") to make the point stick.
+- 'Unfortunately, such is our life.' The inspector fires back briskly toward Denis, bringing things back to earth after the buildup.
+- 'Maybe you will come to us once more?' Denis reacts openly right here and uses "yeshchyo" ("more, still") to carry the main weight of the thought.
+- 'Viktor will definitely surprise you today.' Denis speaks calmly on the spot, to clear the air between them once and for all.
+- 'Yes, I will come with great pleasure.' The inspector speaks up wryly during the talk, bringing things back to earth after the buildup.
+- 'Did you and Katya break up because of me?' Nikita replies candidly with Denis and brings in "rasstalis" ("broke up, separated", from "rasstatsya") as the key Russian word here.
+- 'I wanted the two of you to get married.' Reacting earnestly during the talk, the "-sya" ending on "pozhenilis" ("to married") marks an action that unfolds mutually or turns back on the speaker.
+- 'Yes, you tried very hard.' Nikita follows up honestly beside Denis, watching Denis's face to see how the news lands.
+- 'Especially that evening on the roof.' Pointing to the roof during the talk, Nikita puts the weight on "kryshe" ("roof", from "krysha") as the exchange unfolds.
+- 'I made inquiries about you.' Nikita opens up sharply around Denis, bringing things back to earth after the buildup.

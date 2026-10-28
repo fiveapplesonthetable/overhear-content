@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right here is where you will live now.' Barinov focuses on this telling term at once: "teper" means "now", and it carries the main weight of what Barinov is saying.
-- 'The metro is around the corner, the restaurant is close.' Barinov stands firm briskly without holding back, letting the remark speak for itself.
-- 'I knew that you are a noble man.' Eva anchors one colorful choice in reply: "blagorodnyy" means "man", and it carries the main weight of what Eva is saying.
-- 'I hope this will remain between us?' Barinov makes that remark for Katya: the "-sya" ending on "ostanetsya" ("will remain") turns the action inward or makes it happen between people naturally.
-- 'Oh, I suddenly felt sick all of a sudden.' Eva fires back earnestly to be clear, before Barinov can change the subject.
-- 'Won't you drive me to work?' Eva centers one pointed piece for Katya: "dovezyote" means "work", and it carries the main weight of what Eva is saying.
-- 'Denis, it is time to go, I am waiting outside!' Katya puts this point plainly here: the single Russian word "pora" ("it is time to") sets up the whole statement without needing a separate word for "it is".
-- 'Well, are you feeling a bit better already?' Barinov challenges quietly why things suddenly took this turn between them.
-- 'Viktor Petrovich, buy me a car!' Eva uses one practical choice at once: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
-- 'Do you begrudge money for our child?' Eva voices the comment plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'I never begrudged money for my children.' Barinov counters honestly on the spot, making his position completely clear.
-- 'Give birth to the child, then I will buy it.' Barinov stresses one colorful choice right here: "rebyonka" means "child" (from "rebyonok"), giving the line its exact edge.
+- 'Right here is where you will live now.' Barinov speaks up dryly watching Eva, watching Eva's face to see how the news lands.
+- 'The metro is around the corner, the restaurant is close.' Barinov steps in briskly with a nod, leaving no doubt about where he stands.
+- 'I knew that you are a noble man.' Eva steps in pointedly around Barinov and reaches for the Russian word "blagorodnyy" ("man") right at the heart of the line.
+- 'I hope this will remain between us?' Pushing back dryly with Eva, the "-sya" ending on "ostanetsya" ("will remain") marks an action that unfolds mutually or turns back on the speaker.
+- 'Oh, I suddenly felt sick all of a sudden.' Eva speaks earnestly in their talk, keeping the focus on what actually matters here.
+- 'Won't you drive me to work?' Turning to the work in the exchange, Eva reaches for the Russian word "dovezyote" ("work") right at the heart of the line.
+- 'Denis, it is time to go, I am waiting outside!' Turning to the street in this beat, Katya leans on "pora" ("it is time to"), which carries the whole predicate in Russian without needing "it is".
+- 'Well, are you feeling a bit better already?' Barinov challenges quietly whether Eva really thought this through.
+- 'Viktor Petrovich, buy me a car!' Bringing up a car during the talk, Eva centers the thought on "mashinu" ("car", from "mashina") without wasting a word.
+- 'Do you begrudge money for our child?' Pressing on promptly right here, Eva keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'I never begrudged money for my children.' Barinov speaks honestly across the room, keeping the focus on what actually matters here.
+- 'Give birth to the child, then I will buy it.' Touching on the child around Eva, Barinov chooses "rebyonka" ("child", from the root "rebyonok") so Eva hears the exact meaning.

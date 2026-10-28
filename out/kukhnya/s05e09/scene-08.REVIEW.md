@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, why did you decide that you need to lose weight?' Senya delivers that answer before Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Ever since you moved in with Elena Pavlovna, you changed.' Senya fires back right away as things stand, steering the talk right where he wants it.
-- 'What? I have not changed at all.' Barinov highlights one familiar detail at once: "izmenilsya" means "have changed" (from "izmenitsya"), giving the line its exact edge.
-- 'Maybe she is influencing you like that?' Senya gives that thought to Elena: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
-- 'You never went on a diet before, chef.' Senya stands firm evenly without a pause, refusing to let the moment slip past.
-- 'You are a rebel!' Senya underscores one direct element in reply: "buntar" means "rebel", and it carries the main weight of what Senya is saying.
-- 'Senya, go take a hike!' Barinov proceeds quietly without a pause, keeping the focus on what actually matters here.
-- 'Elena Pavlovna found my old suit.' Barinov weighs in plainly to settle things, leaving no doubt about where he stands.
-- 'I did not fit into it. So I decided to lose weight.' Barinov picks this key element right here: "pokhudet" means "to lose weight", and it carries the main weight of what Barinov is saying.
-- 'On my own!' Barinov hands over that point around Senya: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'Maybe she is the one who decided?' Senya presses promptly about what Barinov just brought up.
-- 'Listen, what a handsome suit!' Elena centers one direct choice on cue: "krasivyy" means "beautiful", and it carries the main weight of what Elena is saying.
-- 'Am I so fat right now?' Barinov aims this line right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Chef, why did you decide that you need to lose weight?' Stepping in calmly in the exchange, Senya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Ever since you moved in with Elena Pavlovna, you changed.' Senya fires back right away during the talk, so Elena knows he is not just making small talk.
+- 'What? I have not changed at all.' Barinov counters directly around Senya and brings in "izmenilsya" ("have changed", from "izmenitsya") as the key Russian word here.
+- 'Maybe she is influencing you like that?' Pushing back firmly in front of Barinov, Senya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'You never went on a diet before, chef.' Senya weighs in evenly hearing Barinov, making his position completely clear.
+- 'You are a rebel!' Focusing on a rebel on the spot, Senya leans on "buntar" ("rebel") to give the whole sentence its punch.
+- 'Senya, go take a hike!' Barinov jumps in quietly beside Senya, keeping the focus on what actually matters here.
+- 'Elena Pavlovna found my old suit.' Barinov counters plainly facing Elena, grounding the moment in plain reality.
+- 'I did not fit into it. So I decided to lose weight.' Barinov weighs in candidly around Senya and chooses "pokhudet" ("to lose weight") so Senya gets the point right away.
+- 'On my own!' Jumping in quietly on the spot, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'Maybe she is the one who decided?' Senya presses promptly about what Elena just brought up.
+- 'Listen, what a handsome suit!' Highlighting a handsome suit around Senya, Elena centers the remark on "krasivyy" ("beautiful") without any extra fuss.
+- 'Am I so fat right now?' Cutting in briskly before Elena, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My daughter, I am so happy for you today!' Barinov steps in dryly beside Denis, keeping the focus on what actually matters here.
-- 'Look, she came in the exact same dress.' Katya stresses one pointed element in reply: "platye" means "a dress", and it carries the main weight of what Katya is saying.
-- 'Do not pay attention, let us go quickly to the guests.' Barinov steps in at once before Denis, making his position completely clear.
+- 'My daughter, I am so happy for you today!' Barinov fires back dryly in their talk, making his position completely clear.
+- 'Look, she came in the exact same dress.' Bringing up the dress in the exchange, Katya uses "platye" ("a dress") to carry the main weight of the thought.
+- 'Do not pay attention, let us go quickly to the guests.' Bringing up the attention around Katya, Barinov puts the weight on "vnimaniya" ("attention", from "vnimaniye") as the exchange unfolds.
 - 'Wait, Dad, what about Denis?' Katya questions straight out while looking straight at Denis here.
-- 'Why do you need that poor guy?' Barinov centers this vivid expression on cue: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
-- 'Today your family sets sail into the ocean of life.' Barinov gives this update right away: the "-sya" ending on "otpravlyayetsya" ("to departing") turns the action inward or makes it happen between people naturally.
-- 'May all storms and tempests pass you by.' Barinov proceeds openly without holding back, making his position completely clear.
-- 'Thank you, I understood everything very well.' Katya centers this telling word for Denis: "spasibo" means "thank you", and it carries the main weight of what Katya is saying.
-- 'If anyone is against the marriage, let them speak now.' Barinov cuts in lightly with a smile, leaving no doubt about where he stands.
-- 'Wait, I am categorically against this wedding!' Denis cuts in briskly without a pause, before Katya can change the subject.
-- 'Do not listen to that strange guy!' Barinov frames one practical element toward Denis: "strannogo" means "strange" (from "strannyy"), giving the line its exact edge.
-- 'No, wait, I want to hear him out!' Katya opens up honestly with a smile, watching Denis's face to see how the news lands.
+- 'Why do you need that poor guy?' Highlighting the boyfriend before Katya, Barinov uses "nuzhen" ("is needed", from "nuzhnyy") to make the point stick.
+- 'Today your family sets sail into the ocean of life.' Stepping in plainly to Katya, the "-sya" ending on "otpravlyayetsya" ("to departing") marks an action that unfolds mutually or turns back on the speaker.
+- 'May all storms and tempests pass you by.' Barinov steps in openly in this moment, so Katya knows he is not just making small talk.
+- 'Thank you, I understood everything very well.' Highlighting the thank beside Barinov, Katya chooses "spasibo" ("thank you") so Barinov gets the point right away.
+- 'If anyone is against the marriage, let them speak now.' Bringing up the marriage with Katya, Barinov reaches for the Russian word "braka" ("marriage") right at the heart of the line.
+- 'Wait, I am categorically against this wedding!' Denis reacts briskly in their talk, refusing to let the moment slip past.
+- 'Do not listen to that strange guy!' Touching on the boyfriend right here, Barinov brings in "strannogo" ("strange", from "strannyy") as the key Russian word here.
+- 'No, wait, I want to hear him out!' Katya weighs in warmly during the talk and puts the weight on "podozhdite" ("wait", from "podozhdat") as the exchange unfolds.

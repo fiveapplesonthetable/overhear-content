@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is that foolish animal right now?' Mikhail questions straight out to see how Denis will answer on the spot.
-- 'What is this horse's name at least?' Mikhail colors one memorable touch at once: "konya" means "horse, knight", and it carries the main weight of what Mikhail is saying.
-- 'Look for him upstairs quickly!' Mikhail brings this warning with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'We have two kinds of ballots.' Timur follows up lightly with a nod, watching Mikhail's face to see how the news lands.
-- 'Take a ballot and go vote.' Timur grounds this vivid term toward Denis: "progolosoval" means "voted" (from "progolosovat"), giving the line its exact edge.
-- 'In the booth I am an independent observer.' Timur frames that reply around Mikhail: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Hello, they postponed my flight today.' Denis counters evenly before Mikhail, leaving no doubt about where he stands.
-- 'That is why I am not in Japan yet.' Denis points to one memorable word with Timur: "yeshchyo" means "more, still", and it carries the main weight of what Denis is saying.
-- 'There is time before the business meeting.' Mikhail holds firm boldly in their talk, letting the remark speak for itself.
-- 'So we can have lunch.' Mikhail fires back pointedly with Timur, refusing to let the moment slip past.
-- 'I cannot, I am on a diet.' Denis uses this direct term at once: "diyete" means "diet" (from "diyeta"), giving the line its exact edge.
-- 'Let us drink a glass of cognac.' Mikhail brings the thought briskly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Where is that foolish animal right now?' Mikhail questions straight out what Timur is actually getting at here.
+- 'What is this horse's name at least?' Focusing on the horse at once, Mikhail reaches for the Russian word "konya" ("horse, knight") right at the heart of the line.
+- 'Look for him upstairs quickly!' Replying warmly before Timur, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'We have two kinds of ballots.' Timur answers lightly with Mikhail, watching Mikhail's face to see how the news lands.
+- 'Take a ballot and go vote.' Talking about a ballot before Mikhail, Timur uses "byulleten" ("ballot") to carry the main weight of the thought.
+- 'In the booth I am an independent observer.' Noting how independent he is around Denis, Timur links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Hello, they postponed my flight today.' Denis smoothly delivers this formal greeting in the exchange using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'That is why I am not in Japan yet.' Pointing to the one in front of Mikhail, Denis uses "yaponii" ("one", from "yaponiya") to make the point stick.
+- 'There is time before the business meeting.' Discussing the business meeting on the spot, Mikhail brings in "vstrechi" ("meeting, next time", from "vstrecha") as the key Russian word here.
+- 'So we can have lunch.' Mikhail counters dryly toward Denis, steering the talk right where he wants it.
+- 'I cannot, I am on a diet.' Bringing up a diet before Mikhail, Denis leans on "diyete" ("diet", a form of "diyeta") to give the remark its edge.
+- 'Let us drink a glass of cognac.' Talking about the cognac at once, Mikhail starts with "davay" ("come on, let's") to invite Denis right into the action.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seemed to me that you winked at me.' The guest emphasizes one classic expression in earnest: "podmignuli" means "wink" (from "podmignut"), giving the line its exact edge.
-- 'No, you imagined it.' Katya answers evenly on the spot, before the guest can change the subject.
-- 'So many years have passed, and you still use that line!' Katya spotlights one classic word at once: "polzuyeshsya" means "use" (from "polzovatsya"), giving the line its exact edge.
-- 'Katya, how long has it been since we saw each other?' The guest shapes that thought on cue: the "-sya" ending on "videlis" ("have seen each other") turns the action inward or makes it happen between people naturally.
-- 'We have not seen each other since they expelled me.' Katya speaks warmly with a nod, bringing things back to earth after the buildup.
-- 'And what are you doing here?' Katya favors one practical touch right here: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'It is a small business trip, and how about you?' The guest lays out that thought at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am doing great working here in the restaurant.' Katya cuts in plainly before the guest, shifting the whole mood of the room in a single beat.
-- 'Do you remember our old professor?' The guest highlights one sharp touch toward Eleonora: "professora" means "professor" (from "professor"), giving the line its exact edge.
-- 'When he fell asleep in class, I studied a month longer than you.' The guest voices the comment frankly here: the "-sya" ending on "prouchilsya" ("studied") turns the action inward or makes it happen between people naturally.
-- 'And who is that, Katya?' Eleonora checks straight out in front of the guest without any preamble.
-- 'That is Olivier, he and I studied together in Paris at the culinary academy.' Katya underscores one pointed expression toward the guest: "kulinarnoy" means "culinary" (from "kulinarnyy"), giving the line its exact edge.
+- 'It seemed to me that you winked at me.' The guest responds candidly without any doubt, so Katya knows he is not just making small talk.
+- 'No, you imagined it.' Katya responds evenly in this moment, letting the remark speak for itself.
+- 'So many years have passed, and you still use that line!' Katya jumps in smoothly in the exchange and brings in "polzuyeshsya" ("use", from "polzovatsya") as the key Russian word here.
+- 'Katya, how long has it been since we saw each other?' Cutting in dryly during the talk, the "-sya" ending on "videlis" ("have seen each other") marks an action that unfolds mutually or turns back on the speaker.
+- 'We have not seen each other since they expelled me.' Katya steps in warmly in this moment, before the guest can change the subject.
+- 'And what are you doing here?' Katya fires back firmly during the talk and brings in "delayesh" ("are you doing", from "delat") as the key Russian word here.
+- 'It is a small business trip, and how about you?' Underscoring how small things are before Katya, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am doing great working here in the restaurant.' Katya opens up plainly hearing the guest, letting the remark speak for itself.
+- 'Do you remember our old professor?' Touching on the professor in front of Katya, the guest brings in "professora" ("professor", from "professor") as the key Russian word here.
+- 'When he fell asleep in class, I studied a month longer than you.' The guest cuts in candidly in their talk, before Eleonora can change the subject.
+- 'And who is that, Katya?' Eleonora checks straight out what Katya is actually getting at here.
+- 'That is Olivier, he and I studied together in Paris at the culinary academy.' Explaining how culinary things are in this beat, Katya uses "kulinarnoy" ("culinary", from "kulinarnyy") to make the point stick.

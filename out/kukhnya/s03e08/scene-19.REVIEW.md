@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, forgive me for lying.' Max anchors one practical element with Barinov: "rebyata" means "the boys, the lads", and it carries the main weight of what Max is saying.
-- 'Well alright, bye to all of you.' Max phrases the reply calmly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'Damn it, the water has completely run out.' Barinov follows up candidly beside Max, steering the talk right where he wants it.
-- 'Well, now let us talk calmly, without tantrums.' Barinov features one colorful piece right here: "isterik" means "tantrums, hysterics" (from "isterika"), giving the line its exact edge.
-- 'Tell me, what happened with you?' Barinov states this statement without pause: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Everything is simply great with me.' Max follows up dryly without holding back, so Barinov knows he is not just making small talk.
-- 'I now work as a simple courier.' Max highlights one clear piece at once: "kuryerom" means "courier" (from "kuryer"), giving the line its exact edge.
-- 'And my Vika is now with Nagiyev.' Max makes this warning facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'So I will go back to Voronezh.' Max replies firmly with a sigh, before Barinov can change the subject.
-- 'Listen to me very carefully right now.' Barinov favors this sharp choice toward Max: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Barinov is saying.
-- 'If you run away now, you will regret it your whole life.' Barinov proceeds at once during the talk, before Max can change the subject.
-- 'Tell me, did you understand me?' Barinov quizzes promptly as Max tries to explain the situation.
+- 'Guys, forgive me for lying.' Emphasizing the boys right here, Max centers the remark on "rebyata" ("the boys, the lads") without any extra fuss.
+- 'Well alright, bye to all of you.' Max jumps in right away with a smile, to clear the air between them once and for all.
+- 'Damn it, the water has completely run out.' Barinov chimes in candidly during the talk, grounding the moment in plain reality.
+- 'Well, now let us talk calmly, without tantrums.' Turning to the tantrums on the spot, Barinov chooses "isterik" ("tantrums, hysterics", from the root "isterika") so Max hears the exact meaning.
+- 'Tell me, what happened with you?' Pushing back evenly in the exchange, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Everything is simply great with me.' Max pushes back dryly on the spot, grounding the moment in plain reality.
+- 'I now work as a simple courier.' Touching on a simple courier beside Barinov, Max uses "kuryerom" ("courier", from "kuryer") to make the point stick.
+- 'And my Vika is now with Nagiyev.' Answering warmly around Barinov, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'So I will go back to Voronezh.' Max speaks up firmly across the room, grounding the moment in plain reality.
+- 'Listen to me very carefully right now.' Barinov opens up warmly in this beat and leans on "vnimatelno" ("carefully, attentively") to give the whole sentence its punch.
+- 'If you run away now, you will regret it your whole life.' Underscoring the life in the exchange, Barinov uses "sbezhish" ("will run away", from "sbezhat") to make the point stick.
+- 'Tell me, did you understand me?' Barinov quizzes promptly where this conversation is heading next.

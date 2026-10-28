@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Which was to be proved, as the saying goes.' Senya gives this statement in earnest: the "-sya" ending on "trebovalos" ("was needed") turns the action inward or makes it happen between people naturally.
-- 'Next, the fate of our fish fell into Ainura's hands.' Senya opens up bluntly as things stand, testing Lyova's reaction in the middle of the exchange.
-- 'She pulled the empty boxes out of the cooler.' Senya features one direct expression right here: "kholodilnika" means "refrigerator" (from "kholodilnik"), giving the line its exact edge.
-- 'What did you do with the boxes from the cooler?' Senya brings that line at once: putting the question word "kuda" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'I threw them into the trash bin.' Ainura reacts evenly during the talk, making her position completely clear.
-- 'Look at what is lying in the box that you threw away.' Senya focuses on this direct term with Lyova: "korobke" means "box" (from "korobka"), giving the line its exact edge.
-- 'There really is a fish here, only it stinks!' Ainura phrases that thought with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And so, the missing stellate sturgeon is found.' Senya speaks up warmly with Lyova, letting the remark speak for itself.
-- 'Spoiled, but stolen by no one.' Senya features one practical term on cue: "protukhshaya" means "spoiled, rotten" (from "protukhshiy"), giving the line its exact edge.
-- 'What is the conclusion from this?' Lyova lays out this answer for Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'The most important thing is that Arseny is not guilty.' Ainura weighs in frankly watching Lyova, leaving no doubt about where she stands.
-- 'No applause needed, you can simply apologize.' Senya leans on this telling element in earnest: "aplodismentov" means "applause" (from "aplodismenty"), giving the line its exact edge.
+- 'Which was to be proved, as the saying goes.' Leaning in briskly right here, the "-sya" ending on "trebovalos" ("was needed") marks an action that unfolds mutually or turns back on the speaker.
+- 'Next, the fate of our fish fell into Ainura's hands.' Senya reacts bluntly watching Ainura, bringing things back to earth after the buildup.
+- 'She pulled the empty boxes out of the cooler.' Underscoring the refrigerator around Ainura, Senya puts the weight on "kholodilnika" ("refrigerator", from "kholodilnik") as the exchange unfolds.
+- 'What did you do with the boxes from the cooler?' Replying quietly at once, Senya puts the question word "kuda" right at the start so Ainura hears the focus immediately.
+- 'I threw them into the trash bin.' Ainura reacts evenly toward Senya, leaving no doubt about where she stands.
+- 'Look at what is lying in the box that you threw away.' Underscoring the box right here, Senya centers the thought on "korobke" ("box", from "korobka") without wasting a word.
+- 'There really is a fish here, only it stinks!' Addressing the like on the spot, Ainura links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And so, the missing stellate sturgeon is found.' Senya speaks warmly facing Ainura, leaving no doubt about where he stands.
+- 'Spoiled, but stolen by no one.' Senya chimes in earnestly during the talk and uses "protukhshaya" ("spoiled, rotten", from "protukhshiy") to make the point stick.
+- 'What is the conclusion from this?' Discussing the conclusion at once, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'The most important thing is that Arseny is not guilty.' Ainura weighs in frankly on the spot, making her position completely clear.
+- 'No applause needed, you can simply apologize.' Discussing the applause in the exchange, Senya uses "aplodismentov" ("applause", from "aplodismenty") to make the point stick.

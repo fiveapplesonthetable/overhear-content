@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, tell me, is that you right now?' Denis colors one concrete expression in earnest: "seychas" means "now", and it carries the main weight of what Denis is saying.
-- 'It seems we drank way too much yesterday.' Kostya directs the reply toward Denis: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
-- 'I do not remember anything at all.' Denis speaks up quietly on the spot, bringing things back to earth after the buildup.
-- 'My heart nearly stopped!' Kostya favors one colorful word in earnest: "serdtse" means "heart", and it carries the main weight of what Kostya is saying.
-- 'You stole the wedding dress after all!' Kostya highlights one concrete choice in reply: "svadebnoye" means "wedding" (from "svadebnyy"), giving the line its exact edge.
-- 'Wait, did I really do that?' Denis questions curiously to see how Kostya will answer on the spot.
-- 'Do you remember anything at all right now?' Denis focuses on this direct word in reply: "seychas" means "now", and it carries the main weight of what Denis is saying.
-- 'Last night we were at the hotel.' Kostya chimes in quietly to settle things, letting the remark speak for itself.
-- 'Where did we get the room key from?' Kostya wonders promptly what Denis is actually getting at here.
-- 'I had that key with me.' Denis highlights one key element with Kostya: "klyuch" means "key", and it carries the main weight of what Denis is saying.
-- 'We need to return it back urgently.' Kostya gives the remark around Denis: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Quickly return the wedding dress to Katya!' Kostya proceeds earnestly with a sigh, so Denis knows he is not just making small talk.
+- 'Kostya, tell me, is that you right now?' Denis chimes in decisively during the talk and brings in "skazhi" ("say", from "skazat") as the key Russian word here.
+- 'It seems we drank way too much yesterday.' Reacting quietly around Denis, the "-sya" ending on "kazhetsya" ("it seems, I think") marks an action that unfolds mutually or turns back on the speaker.
+- 'I do not remember anything at all.' Denis jumps in quietly without holding back, shifting the mood of the conversation in a single beat.
+- 'My heart nearly stopped!' Addressing his heart on the spot, Kostya chooses "serdtse" ("heart") so Denis gets the point right away.
+- 'You stole the wedding dress after all!' Kostya continues bluntly across the room, to clear the air between them once and for all.
+- 'Wait, did I really do that?' Denis questions curiously how Kostya expects that to work in practice.
+- 'Do you remember anything at all right now?' Denis jumps in frankly right here and centers the thought on "pomnish" ("do you remember", from "pomnit") without wasting a word.
+- 'Last night we were at the hotel.' Addressing the night before Denis, Kostya lands on "nochyu" ("night", built on "noch") to keep the statement grounded.
+- 'Where did we get the room key from?' Kostya wonders promptly while looking straight at Denis here.
+- 'I had that key with me.' Mentioning the key during the talk, Denis reaches for the Russian word "klyuch" ("key") right at the heart of the line.
+- 'We need to return it back urgently.' Reacting readily beside Denis, Kostya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Quickly return the wedding dress to Katya!' Kostya weighs in earnestly beside Denis, making his position completely clear.

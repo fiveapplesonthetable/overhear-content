@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, I am going to tell you something important right now.' Mikhail pushes back quietly around Barinov, keeping the focus on what actually matters here.
-- 'But you forget about it first thing tomorrow morning!' Mikhail reaches for one colorful word on cue: "zavtra" means "tomorrow", and it carries the main weight of what Mikhail is saying.
-- 'I really like your ex-wife Eleonora.' Mikhail emphasizes one memorable expression in reply: "byvshaya" means "former" (from "byvshiy"), giving the line its exact edge.
-- 'Only please, do not tell anyone about this!' Mikhail replies candidly to be clear, bringing things back to earth after the buildup.
-- 'Well, do you want me to give you my blessing?' Barinov emphasizes one memorable expression in reply: "blagoslovil" means "bless" (from "blagoslovit"), giving the line its exact edge.
-- 'Sorry, Misha, but do whatever you see fit.' Barinov shapes the comment toward Senya: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'Gentlemen, attention, I have a great toast ready!' Senya replies frankly to be clear, keeping the focus on what actually matters here.
-- 'Dear Chef, may this be your final wedding!' Senya uses one memorable term toward Mikhail: "poslednyaya" means "last, final" (from "posledniy"), giving the line its exact edge.
-- 'Let's drink bottoms up to you and to Elena Pavlovna!' Mikhail uses one colorful word with Barinov: "vypyem" means "will drink" (from "vypit"), giving the line its exact edge.
-- 'Viktor Petrovich, and why are you not drinking with us?' Senya quizzes promptly why things suddenly took this turn between them.
-- 'Unfortunately, all our snacks have run out already.' Senya stresses one key detail in earnest: "sozhaleniyu" means "regret" (from "sozhaleniye"), giving the line its exact edge.
-- 'Fine, pour me one small shot glass too!' Barinov gives this point right away: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.
+- 'Vitya, I am going to tell you something important right now.' Mikhail reacts quietly watching Barinov, so Barinov knows he is not just making small talk.
+- 'But you forget about it first thing tomorrow morning!' Mikhail responds vividly with Barinov and uses "zavtra" ("tomorrow") to carry the main weight of the thought.
+- 'I really like your ex-wife Eleonora.' Mikhail proceeds openly across the room, letting the remark speak for itself.
+- 'Only please, do not tell anyone about this!' Mikhail fires back candidly with a shrug, so Barinov knows he is not just making small talk.
+- 'Well, do you want me to give you my blessing?' Barinov counters smoothly to Mikhail and leans on "blagoslovil" ("bless", a form of "blagoslovit") to give the remark its edge.
+- 'Sorry, Misha, but do whatever you see fit.' Barinov speaks up vividly on the spot and brings in "schitayesh" ("to count, to think", from "schitat") as the key Russian word here.
+- 'Gentlemen, attention, I have a great toast ready!' Senya counters frankly without holding back, making his position completely clear.
+- 'Dear Chef, may this be your final wedding!' Bringing up the wedding to Barinov, Senya chooses "poslednyaya" ("last, final", from the root "posledniy") so Barinov hears the exact meaning.
+- 'Let's drink bottoms up to you and to Elena Pavlovna!' Mikhail jumps in calmly with a shrug, so Senya knows he is not just making small talk.
+- 'Viktor Petrovich, and why are you not drinking with us?' Senya quizzes promptly whether Barinov really thought this through.
+- 'Unfortunately, all our snacks have run out already.' Mentioning the regret right here, Senya uses "sozhaleniyu" ("regret", from "sozhaleniye") to make the point stick.
+- 'Fine, pour me one small shot glass too!' Bringing up the shot glass in front of Senya, Barinov lands on "malenkuyu" ("small, little", built on "malenkiy") to keep the statement grounded.

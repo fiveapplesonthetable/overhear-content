@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sometimes we need to make difficult decisions.' Max sharpens this clear term on cue: "slozhnyye" means "complicated" (from "slozhnyy"), giving the line its exact edge.
-- 'To fight for our love or give up.' Max lays out that line frankly here: the "-sya" ending on "borotsya" ("to fight") turns the action inward or makes it happen between people naturally.
-- 'Or simply look for a new goal.' Max chimes in right away with a shrug, before Kostya can change the subject.
-- 'And everything depends on this decision.' Max leans on one telling touch toward Nastya: "resheniya" means "decision" (from "resheniye"), giving the line its exact edge.
-- 'Our Kuzma just kicked me.' Nastya pushes back frankly with a sigh, so Kostya knows she is not just making small talk.
-- 'What, where is he right now?' Kostya inquires candidly how Nastya expects that to work in practice.
-- 'Actually, Kuzma is our future son.' Nastya stresses this direct element at once: "voobshche-to" means "actually", and it carries the main weight of what Nastya is saying.
-- 'I do not understand, why Kuzma specifically?' Kostya voices that answer around Nastya: putting the question word "pochemu" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'Sometimes we need to make difficult decisions.' Underscoring the decision to Nastya, Max brings in "slozhnyye" ("complicated", from "slozhnyy") as the key Russian word here.
+- 'To fight for our love or give up.' Emphasizing his love to Nastya, Max brings in "lyubov" ("love") to make the meaning unmistakable.
+- 'Or simply look for a new goal.' Max answers right away beside Nastya, making his position completely clear.
+- 'And everything depends on this decision.' Discussing the decision in front of Nastya, Max brings in "resheniya" ("decision", from "resheniye") as the key Russian word here.
+- 'Our Kuzma just kicked me.' Nastya cuts in evenly on the spot and chooses "tolknul" ("kicked, pushed", from the root "tolknut") so Max hears the exact meaning.
+- 'What, where is he right now?' Kostya inquires candidly if there is more going on behind the scenes.
+- 'Actually, Kuzma is our future son.' Emphasizing how future things are during the talk, Nastya puts the emphasis on "budushchiy" ("future") in the middle of the talk.
+- 'I do not understand, why Kuzma specifically?' Following up warmly around Nastya, Kostya puts the question word "pochemu" right at the start so Nastya hears the focus immediately.
 - 'What, you do not like Kuzma either?' Nastya prompts plainly while looking straight at Kostya here.
-- 'Kostya, there is no pleasing you at all.' Nastya sharpens this sharp term with Max: "ugodish" means "please" (from "ugodit"), giving the line its exact edge.
-- 'Nastya, because those are strange names.' Kostya directs this answer at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And everyone will tease our son.' Kostya proceeds openly with a sigh, before Nastya can change the subject.
+- 'Kostya, there is no pleasing you at all.' Nastya opens up sharply beside Kostya and chooses "ugodish" ("please", from the root "ugodit") so Kostya hears the exact meaning.
+- 'Nastya, because those are strange names.' Describing how strange things are around Nastya, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And everyone will tease our son.' Kostya weighs in openly beside Nastya, so Nastya knows he is not just making small talk.

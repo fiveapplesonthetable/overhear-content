@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you laughing at, everyone get to work quickly!' Barinov follows up decisively without holding back, letting the remark speak for itself.
-- 'Why are you shouting so loudly in here?' The guest underscores one concrete element in reply: "krichish" means "are shouting" (from "krichat"), giving the line its exact edge.
-- 'Valya, did you really come here?' Barinov shapes this line without fuss: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
-- 'Well hello, brother, how long has it been since we saw each other!' The guest replies evenly to be clear, saying out loud what both of them already know.
-- 'What are you even doing here in Moscow?' Barinov underscores this telling element toward Fedya: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
-- 'If you picked up the phone when your brother calls.' The guest centers one vivid piece right here: "trubku" means "the receiver" (from "trubka"), giving the line its exact edge.
-- 'Then you would not be asking about this right now.' The guest continues evenly around Barinov, leaving no doubt about where he stands.
-- 'And why do you call our chef Zyuzya?' Fedya anchors this vivid piece on cue: "nazyvayete" means "to call, to name" (from "nazyvat"), giving the line its exact edge.
-- 'This funny story started back in school.' The guest chimes in wryly with a smile, letting the remark speak for itself.
-- 'Valya, be quiet, do not tell them anything!' Barinov steps in briskly with a nod, grounding the moment in plain reality.
-- 'In history class they ask him what the prince's name was.' The guest picks one direct term right here: "sprashivayut" means "are asking for" (from "sprashivat"), giving the line its exact edge.
-- 'At least in school I went to physics olympiads!' Barinov hands over this answer with warmth: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
-- 'Someone whispered Zyuzya to him, and Vitya answered just like that!' The guest reacts bluntly around Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'What are you laughing at, everyone get to work quickly!' Barinov responds decisively without holding back, leaving no doubt about where he stands.
+- 'Why are you shouting so loudly in here?' The guest fires back promptly right here and uses "krichish" ("are shouting", from "krichat") to make the point stick.
+- 'Valya, did you really come here?' Checking on the honestly right here, Barinov leads with "neuzheli" ("can it really be that...?") to pack disbelief into the first beat.
+- 'Well hello, brother, how long has it been since we saw each other!' The guest counters evenly without holding back, without trying to dress up how he really feels.
+- 'What are you even doing here in Moscow?' Barinov follows up frankly in this beat and puts the emphasis on "voobshche" ("at all") in the middle of the talk.
+- 'If you picked up the phone when your brother calls.' The guest fires back honestly during the talk, testing Barinov's reaction in the middle of the exchange.
+- 'Then you would not be asking about this right now.' The guest cuts in evenly without any doubt, refusing to let the moment slip past.
+- 'And why do you call our chef Zyuzya?' Fedya responds pointedly before Barinov and lands on "nazyvayete" ("to call, to name", built on "nazyvat") to keep the statement grounded.
+- 'This funny story started back in school.' Talking about the history with Fedya, the guest reaches for the Russian word "smeshnaya" ("funny, ridiculous", built from "smeshnoy") right at the center of the line.
+- 'Valya, be quiet, do not tell them anything!' Barinov weighs in briskly watching the guest, grounding the moment in plain reality.
+- 'In history class they ask him what the prince's name was.' Focusing on the lesson around Barinov, the guest centers the thought on "sprashivayut" ("are asking for", from "sprashivat") without wasting a word.
+- 'At least in school I went to physics olympiads!' Mentioning the olympiads in front of the guest, Barinov pivots with "zato" ("on the bright side, to make up for it") to flip a drawback into a plus.
+- 'Someone whispered Zyuzya to him, and Vitya answered just like that!' The guest opens up bluntly with a nod, leaving no doubt about where he stands.

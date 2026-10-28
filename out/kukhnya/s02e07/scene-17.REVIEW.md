@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are going to karaoke.' Kostya sends the remark beside Nastya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Why are you looking at me like that?' Nastya prompts wryly if there is more going on behind the scenes.
-- 'By the way, I was wrong about him.' Rodion chooses this telling word right here: "neprav" means "wrong" (from "nepravyy"), giving the line its exact edge.
-- 'About Rodion Sergeyevich?' Kostya delivers the reaction toward Rodion: Russian keeps the exact word order of a normal statement here, turning it into a question for Rodion purely through rising pitch at the end.
-- 'And now he is our friend.' Nastya counters steadily with a smile, watching Kostya's face to see how the news lands.
-- 'Since when?' Rodion shapes this line in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Kostya, how can you be friends with him?' Nastya voices that remark calmly now: putting the question word "kak" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Well, he is kind of...' Nastya speaks up candidly as things stand, making her position completely clear.
-- 'Kind of homeless.' Rodion leans on one loaded term right here: "bomzh" means "homeless man", and it carries the main weight of what Rodion is saying.
-- 'Nastya, I beg of you.' Kostya states this answer on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Everyone has their own little flaws, Nastenka.' Rodion replies decisively before Kostya, refusing to let the moment slip past.
-- 'I know him too.' Rodion colors this sharp touch in earnest: "tozhe" means "too", and it carries the main weight of what Rodion is saying.
-- 'Rodion Sergeyevich, it would be best for you to leave.' Kostya points to one classic expression at once: "luchshe" means "better", and it carries the main weight of what Kostya is saying.
+- 'We are going to karaoke.' Bringing up the karaoke with Nastya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Why are you looking at me like that?' Nastya prompts wryly while looking straight at Rodion here.
+- 'By the way, I was wrong about him.' Rodion counters briskly in this beat and reaches for the Russian word "neprav" ("wrong", built from "nepravyy") right at the center of the line.
+- 'About Rodion Sergeyevich?' Leaning in briskly on the spot, Kostya keeps normal statement word order here, turning the line into a question for Rodion purely through rising pitch.
+- 'And now he is our friend.' Nastya proceeds steadily watching Kostya, watching Kostya's face to see how the news lands.
+- 'Since when?' Cutting in smoothly in front of Nastya, Rodion keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Kostya, how can you be friends with him?' Reacting frankly at once, Nastya puts the question word "kak" right at the start so Kostya hears the focus immediately.
+- 'Well, he is kind of...' Nastya replies candidly in this moment, keeping the focus on what actually matters here.
+- 'Kind of homeless.' Talking about the homeless man to Nastya, Rodion reaches for the Russian word "bomzh" ("homeless man") right at the heart of the line.
+- 'Nastya, I beg of you.' Reacting openly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Everyone has their own little flaws, Nastenka.' Rodion weighs in decisively in their talk, steering the talk right where he wants it.
+- 'I know him too.' Stepping in firmly in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Rodion Sergeyevich, it would be best for you to leave.' Kostya steps in firmly with a shrug, testing Rodion's reaction in the middle of the exchange.

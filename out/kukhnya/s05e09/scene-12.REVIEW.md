@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In my opinion, not bad. It fits great!' Barinov replies wryly beside Ainura, grounding the moment in plain reality.
-- 'Thank you, Solomon Ivanovich. Now everything is allowed!' Barinov features this key word toward Max: "spasibo" means "thank you", and it carries the main weight of what Barinov is saying.
-- 'Good news. Gulya agrees.' Ainura frames the reaction with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'But there is also bad news.' Ainura replies steadily facing Max, shifting the whole mood of the room in a single beat.
-- 'You will have to wait a whole week.' Ainura stresses one pointed element at once: "pridyotsya" means "you'll have to" (from "priytis"), giving the line its exact edge.
-- 'Only she asked not to tell anyone.' Ainura stands firm promptly in this moment, saying out loud what both of them already know.
-- 'Ainura is very strict, she might forbid it.' Barinov follows up lightly watching Ainura, refusing to let the moment slip past.
-- 'You look like Iosif Prigozhin.' Max stresses this key element right here: "pokhozhi" means "similar, look like" (from "pokhozhiy"), giving the line its exact edge.
-- 'Unfortunately, I am him.' Barinov steps in evenly as things stand, so Ainura knows he is not just making small talk.
-- 'Iosif Prigozhin hit me!' Max opens up sharply with a shrug, watching Barinov's face to see how the news lands.
-- 'If possible, let this stay between us.' Barinov reaches for one memorable choice right here: "ostanetsya" means "will remain" (from "ostatsya"), giving the line its exact edge.
-- 'Damn, Vika!' Max hands over that point at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'In my opinion, not bad. It fits great!' Barinov speaks wryly with a shrug, bringing things back to earth after the buildup.
+- 'Thank you, Solomon Ivanovich. Now everything is allowed!' Highlighting the thank around Ainura, Barinov puts the emphasis on "spasibo" ("thank you") in the middle of the talk.
+- 'Good news. Gulya agrees.' Returning to the news right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'But there is also bad news.' Ainura weighs in steadily without any doubt, letting the remark speak for itself.
+- 'You will have to wait a whole week.' Bringing up a whole week beside Barinov, Ainura puts the weight on "pridyotsya" ("you'll have to", from "priytis") as the exchange unfolds.
+- 'Only she asked not to tell anyone.' Ainura jumps in boldly beside Barinov and uses "prosila" ("asked", from "prosit") to make the point stick.
+- 'Ainura is very strict, she might forbid it.' Barinov reacts lightly with a smile, making his position completely clear.
+- 'You look like Iosif Prigozhin.' Max counters directly with Barinov and puts the weight on "pokhozhi" ("similar, look like", from "pokhozhiy") as the exchange unfolds.
+- 'Unfortunately, I am him.' Emphasizing the regret with Max, Barinov lands on "sozhaleniyu" ("regret", built on "sozhaleniye") to keep the statement grounded.
+- 'Iosif Prigozhin hit me!' Max chimes in sharply without any doubt, refusing to let the moment slip past.
+- 'If possible, let this stay between us.' Barinov speaks evenly in front of Max and uses "ostanetsya" ("will remain", from "ostatsya") to make the point stick.
+- 'Damn, Vika!' Mentioning the darn during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

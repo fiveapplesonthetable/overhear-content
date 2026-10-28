@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today at seven I am waiting for you.' Barinov proceeds warmly watching Ainura, shifting the whole mood of the room in a single beat.
-- 'You, me, and my suit.' Barinov chooses one sharp expression with Lyova: "kostyum" means "suit", and it carries the main weight of what Barinov is saying.
-- 'Did you remember everything?' Lyova voices the comeback plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Ainura purely through rising pitch at the end.
-- 'As soon as the girl sits down, you can begin.' Lyova cuts in decisively with a smile, to clear the air between them once and for all.
-- 'Ainura, what are you doing here?' Lyova grounds one telling element on cue: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'How strange! You invited me yourself.' Ainura anchors one colorful term right here: "strannyy" means "strange, odd", and it carries the main weight of what Ainura is saying.
-- 'A table from a secret admirer.' Ainura continues lightly hearing Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Alright. Listen, well this is a business meeting.' Lyova favors this key word for Barinov: "delovaya" means "business, businesslike" (from "delovoy"), giving the line its exact edge.
-- 'It is just that you have been working with us for a long time.' Lyova offers the reaction to Ainura: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'And the chef asked me to take you out to the restaurant.' Lyova chimes in firmly with a nod, so Barinov knows he is not just making small talk.
-- 'And the musicians come up to everyone here.' Lyova anchors one practical element for Ainura: "muzykanty" means "musician" (from "muzykant"), giving the line its exact edge.
-- 'Oh, and I decided to order this for my mom.' Lyova holds firm firmly on the spot, without trying to dress up how he really feels.
+- 'Today at seven I am waiting for you.' Barinov proceeds warmly around Lyova, without trying to dress up how he really feels.
+- 'You, me, and my suit.' Talking about his suit in front of Lyova, Barinov puts the emphasis on "kostyum" ("suit") in the middle of the talk.
+- 'Did you remember everything?' Stepping in naturally to Barinov, Lyova keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'As soon as the girl sits down, you can begin.' Lyova opens up decisively with a shrug, leaving no doubt about where he stands.
+- 'Ainura, what are you doing here?' Lyova continues candidly in front of Ainura and lands on "delayesh" ("are you doing", built on "delat") to keep the statement grounded.
+- 'How strange! You invited me yourself.' Ainura pushes back candidly around Lyova, testing Lyova's reaction in the middle of the exchange.
+- 'A table from a secret admirer.' Ainura pushes back lightly in this moment, without trying to dress up how she really feels.
+- 'Alright. Listen, well this is a business meeting.' Highlighting how business things are with Ainura, Lyova reaches for the Russian word "delovaya" ("business, businesslike", built from "delovoy") right at the center of the line.
+- 'It is just that you have been working with us for a long time.' Reacting frankly at once, Lyova reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'And the chef asked me to take you out to the restaurant.' Lyova responds firmly with Barinov, watching Barinov's face to see how the news lands.
+- 'And the musicians come up to everyone here.' Pointing to the musician right here, Lyova reaches for the Russian word "muzykanty" ("musician", built from "muzykant") right at the center of the line.
+- 'Oh, and I decided to order this for my mom.' Pointing to the mother before Ainura, Lyova lands on "mame" ("mother, mum", built on "mama") to keep the statement grounded.

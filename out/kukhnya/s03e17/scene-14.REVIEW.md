@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are not giving up, guys, let us work fast and together!' Barinov gives the thought on cue: the "-sya" ending on "sdayomsya" ("surrender") turns the action inward or makes it happen between people naturally.
-- 'Steaks on charcoal turn out even tastier.' Barinov proceeds right away without any doubt, leaving no doubt about where he stands.
-- 'Chef, the fridge is off, let me cook pilaf.' Max grounds one pointed touch with Barinov: "kholodilnik" means "fridge", and it carries the main weight of what Max is saying.
-- 'At least we will feed the kitchen today with this pilaf.' Max answers bluntly facing Fedya, bringing things back to earth after the buildup.
-- 'Go ahead and cook, just do not get underfoot.' Barinov chimes in quietly with Fedya, watching Fedya's face to see how the news lands.
-- 'Alright, Chef, a restaurant is nothing.' Fedya uses one pointed element toward Max: "restoran" means "restaurant", and it carries the main weight of what Fedya is saying.
-- 'On our ship in the ocean all the generators failed.' Fedya states this warning on cue: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Storyteller, look, all your fish is burning!' Barinov holds firm frankly with a sigh, leaving no doubt about where he stands.
-- 'Once, Chef, we drifted for a whole month without fuel.' Fedya features this vivid word on cue: "mesyats" means "month", and it carries the main weight of what Fedya is saying.
-- 'Then we refueled and calmly reached the shore.' Fedya aims that remark to Max: the "-sya" ending on "zapravilis" ("refueled") turns the action inward or makes it happen between people naturally.
-- 'Are you seriously telling me this right now?' Barinov probes frankly how Fedya expects that to work in practice.
-- 'Look, fire! All our meat has burned up!' Max leans on one colorful choice for Fedya: "smotrite" means "look" (from "smotret"), giving the line its exact edge.
+- 'We are not giving up, guys, let us work fast and together!' Highlighting the boys in this beat, Barinov puts the emphasis on "rebyata" ("the boys, the lads") in the middle of the talk.
+- 'Steaks on charcoal turn out even tastier.' Barinov fires back right away around Max, letting the remark speak for itself.
+- 'Chef, the fridge is off, let me cook pilaf.' Addressing the fridge in the exchange, Max uses "kholodilnik" ("fridge") to carry the main weight of the thought.
+- 'At least we will feed the kitchen today with this pilaf.' Talking about the kitchen beside Barinov, Max puts the weight on "kukhnyu" ("kitchen", from "kukhnya") as the exchange unfolds.
+- 'Go ahead and cook, just do not get underfoot.' Barinov responds quietly facing Max, so Max knows he is not just making small talk.
+- 'Alright, Chef, a restaurant is nothing.' Bringing up a restaurant beside Barinov, Fedya lands on "restoran" ("restaurant") as the key everyday word here.
+- 'On our ship in the ocean all the generators failed.' Dwelling on the generators around Barinov, Fedya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Storyteller, look, all your fish is burning!' Barinov continues frankly beside Fedya, without trying to dress up how he really feels.
+- 'Once, Chef, we drifted for a whole month without fuel.' Turning to a whole month right here, Fedya uses "mesyats" ("month") to carry the main weight of the thought.
+- 'Then we refueled and calmly reached the shore.' Focusing on the shore before Barinov, the "-sya" ending on "zapravilis" ("refueled") marks an action that unfolds mutually or turns back on the speaker.
+- 'Are you seriously telling me this right now?' Barinov probes frankly how Max expects that to work in practice.
+- 'Look, fire! All our meat has burned up!' Talking about his meat with Barinov, Max uses "myaso" ("meat") to carry the main weight of the thought.

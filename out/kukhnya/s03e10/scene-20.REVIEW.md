@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'At the end of the day we sum things up.' Katya jumps in evenly in their talk, grounding the moment in plain reality.
-- 'We doubt whether we made the right choice.' Katya chimes in briskly facing Lyova, keeping the focus on what actually matters here.
-- 'Lyova, stop, please, do not do that!' Barinov features one direct piece with Katya: "stoy" means "stop, wait" (from "stoyat"), giving the line its exact edge.
-- 'Why not? The oven is simply dirty.' Lyova puts this update calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Well you really scared me just now!' Barinov proceeds boldly without a pause, keeping the focus on what actually matters here.
-- 'Forgive me, I only wanted what was best.' Barinov chooses one practical term with Lyova: "luchshe" means "better", and it carries the main weight of what Barinov is saying.
-- 'We all worry about our setbacks.' Katya opens up dryly to be clear, watching Barinov's face to see how the news lands.
-- 'I just wanted to say that you are really cool.' Katya jumps in warmly with Lyova, making her position completely clear.
-- 'I would hang out with you even without money.' Katya grounds one loaded word for Barinov: "poobshchalas" means "chatted, hung out" (from "poobshchatsya"), giving the line its exact edge.
-- 'Thank you very much for the kind words.' Lyova shares that remark with warmth: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'We hope that tomorrow will be better.' Katya steps in dryly during the talk, testing Barinov's reaction in the middle of the exchange.
-- 'Did you do everything the way we agreed?' Katya features this vivid touch on cue: "dogovarivalis" means "had an agreement" (from "dogovarivatsya"), giving the line its exact edge.
+- 'At the end of the day we sum things up.' Mentioning the end around Barinov, Katya puts the weight on "kontse" ("end", from "konets") as the exchange unfolds.
+- 'We doubt whether we made the right choice.' Katya follows up briskly without a pause, steering the talk right where she wants it.
+- 'Lyova, stop, please, do not do that!' Barinov follows up warmly around Lyova and brings in "stoy" ("stop, wait", from "stoyat") as the key Russian word here.
+- 'Why not? The oven is simply dirty.' Stressing how dirty things are in this beat, Lyova uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Well you really scared me just now!' Barinov speaks up boldly watching Lyova, leaving no doubt about where he stands.
+- 'Forgive me, I only wanted what was best.' Barinov cuts in warmly during the talk and reaches for the Russian word "luchshe" ("better") right at the heart of the line.
+- 'We all worry about our setbacks.' Emphasizing the failure before Barinov, Katya uses "perezhivayem" ("are worried", from "perezhivat") to make the point stick.
+- 'I just wanted to say that you are really cool.' Katya jumps in warmly beside Barinov, bringing things back to earth after the buildup.
+- 'I would hang out with you even without money.' Talking about the money to Lyova, Katya lands on "poobshchalas" ("chatted, hung out", built on "poobshchatsya") to keep the statement grounded.
+- 'Thank you very much for the kind words.' Lyova continues calmly during the talk, bringing things back to earth after the buildup.
+- 'We hope that tomorrow will be better.' Katya replies dryly across the room, to clear the air between them once and for all.
+- 'Did you do everything the way we agreed?' Katya follows up sharply right here and chooses "dogovarivalis" ("had an agreement", from the root "dogovarivatsya") so Lyova hears the exact meaning.

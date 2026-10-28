@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, Vika, how thoughtful I am in this photo!' Max answers wryly as things stand, to clear the air between them once and for all.
-- 'This is an old childhood photo of Max with a toy bunny.' Mama answers openly in this moment, saying out loud what both of them already know.
-- 'Oh, Vika, I snagged it somewhere, a thread has started to run!' Mama highlights one classic detail at once: "zatsepilas" means "to thread" (from "zatsepitsya"), giving the line its exact edge.
-- 'Can you quickly fix the shawl for me right now?' Mama sends the reply frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Unfortunately, I do not have knitting needles at home right now.' Vika steps in pointedly with a shrug, leaving no doubt about where she stands.
-- 'I accidentally left my knitting needles at work.' Vika emphasizes this vivid term toward Max: "sluchayno" means "by any chance", and it carries the main weight of what Vika is saying.
-- 'No problem at all, I have my own, I will bring them right now!' Mama aims that point without pause: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'There are only a couple of stitches there, but I forgot my glasses.' Mama proceeds steadily on the spot, to clear the air between them once and for all.
-- 'Come on, Vika, there are only a couple of stitches there!' Max frames one direct choice with Mama: "petel" means "forgot", and it carries the main weight of what Max is saying.
-- 'You have a university degree, we will figure it out quickly right now!' Max sends that thought right away: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'I am searching online how to mend a knitted shawl.' Max continues evenly to be clear, keeping the focus on what actually matters here.
-- 'Better search online how to stop lying!' Vika favors this clear piece toward Max: "internete" means "internet" (from "internet"), giving the line its exact edge.
+- 'Look, Vika, how thoughtful I am in this photo!' Describing how photo he is in the exchange, Max lands on "zadumchivyy" ("photo") as the key everyday word here.
+- 'This is an old childhood photo of Max with a toy bunny.' Mama responds openly hearing Max, grounding the moment in plain reality.
+- 'Oh, Vika, I snagged it somewhere, a thread has started to run!' Mentioning the run in the exchange, Mama leans on "popolzla" ("run") to give the whole sentence its punch.
+- 'Can you quickly fix the shawl for me right now?' Reacting smoothly during the talk, Mama keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Unfortunately, I do not have knitting needles at home right now.' Vika speaks pointedly hearing Mama, so Mama knows she is not just making small talk.
+- 'I accidentally left my knitting needles at work.' Turning to the work right here, Vika leans on "sluchayno" ("by any chance") to give the whole sentence its punch.
+- 'No problem at all, I have my own, I will bring them right now!' Mama replies briskly with Vika, letting the remark speak for itself.
+- 'There are only a couple of stitches there, but I forgot my glasses.' Mama weighs in steadily toward Max, making her position completely clear.
+- 'Come on, Vika, there are only a couple of stitches there!' Touching on the forgot with Vika, Max uses "petel" ("forgot") to carry the main weight of the thought.
+- 'You have a university degree, we will figure it out quickly right now!' Bringing up the education during the talk, Max uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'I am searching online how to mend a knitted shawl.' Max continues evenly without any doubt, before Vika can change the subject.
+- 'Better search online how to stop lying!' Addressing the internet in front of Max, Vika leans on "internete" ("internet", a form of "internet") to give the remark its edge.

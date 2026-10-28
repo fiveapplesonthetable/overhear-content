@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well hello there, my dear friend Dima.' Barinov chimes in boldly facing Nagiyev, letting the remark speak for itself.
-- 'First I added ginger to the dish.' Barinov opens up candidly without a pause, letting the remark speak for itself.
-- 'It will make you forget the other dishes.' Barinov underscores one vivid expression with Nagiyev: "drugiye" means "other" (from "drugoy"), giving the line its exact edge.
-- 'I drizzled the ginger with oil for shine.' Barinov speaks wryly beside Nagiyev, to clear the air between them once and for all.
-- 'After all, you adore bright things so much.' Barinov steps in promptly in this moment, leaving no doubt about where he stands.
-- 'You love seafood and meat equally.' Barinov emphasizes one familiar term on cue: "moreprodukty" means "seafood", and it carries the main weight of what Barinov is saying.
-- 'Therefore I prepared beef with shrimp.' Barinov holds firm candidly with a smile, so Nagiyev knows he is not just making small talk.
-- 'The meat turned out very juicy, without blood.' Barinov follows up frankly before Nagiyev, saying out loud what both of them already know.
-- 'On top I covered the meat nicely with vegetables.' Barinov emphasizes this clear term in reply: "ovoshchami" means "with vegetables" (from "ovoshch"), giving the line its exact edge.
-- 'And then I slightly overcooked those vegetables.' Barinov reacts decisively on the spot, grounding the moment in plain reality.
-- 'Dima, I know your taste all too well.' Barinov steps in candidly before Nagiyev, watching Nagiyev's face to see how the news lands.
-- 'This is simply an incredibly tasty dish!' Nagiyev anchors one sharp touch on cue: "neveroyatno" means "incredibly", and it carries the main weight of what Nagiyev is saying.
+- 'Well hello there, my dear friend Dima.' Addressing the friend to Nagiyev, Barinov uses "dorogoy" ("dear") to carry the main weight of the thought.
+- 'First I added ginger to the dish.' Pointing to the dish with a shrug, Barinov brings the exchange with Nagiyev back to practical reality.
+- 'It will make you forget the other dishes.' Focusing on the dish with Nagiyev, Barinov lands on "blyuda" ("of dish", built on "blyudo") to keep the statement grounded.
+- 'I drizzled the ginger with oil for shine.' Bringing up the oil with Nagiyev, Barinov chooses "maslom" ("with oil, butter", from the root "maslo") so Nagiyev hears the exact meaning.
+- 'After all, you adore bright things so much.' Barinov steps in promptly on the spot, making his position completely clear.
+- 'You love seafood and meat equally.' Turning to the seafood around Nagiyev, Barinov chooses "moreprodukty" ("seafood") so Nagiyev gets the point right away.
+- 'Therefore I prepared beef with shrimp.' Focusing on the shrimp right here, Barinov chooses "krevetkami" ("shrimp, prawn", from the root "krevetka") so Nagiyev hears the exact meaning.
+- 'The meat turned out very juicy, without blood.' Barinov pushes back frankly watching Nagiyev, leaving no doubt about where he stands.
+- 'On top I covered the meat nicely with vegetables.' Turning to the vegetables at once, Barinov centers the thought on "ovoshchami" ("with vegetables", from "ovoshch") without wasting a word.
+- 'And then I slightly overcooked those vegetables.' Mentioning the vegetables with Nagiyev, Barinov leans on "perederzhal" ("to those", a form of "perederzhat") to give the remark its edge.
+- 'Dima, I know your taste all too well.' Barinov speaks up candidly beside Nagiyev, steering the talk right where he wants it.
+- 'This is simply an incredibly tasty dish!' Emphasizing the dish to Barinov, Nagiyev centers the remark on "neveroyatno" ("incredibly") without any extra fuss.

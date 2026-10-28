@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It doesn't matter. Let's go home.' Max chimes in wryly during the talk, so Ilya knows he is not just making small talk.
-- 'Let's go.' Vika centers one familiar term in reply: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
-- 'Attention, the results!' Vika lays out the comeback plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Eva — five thousand two hundred.' Vika continues plainly with a smile, bringing things back to earth after the buildup.
-- 'Oleg — three thousand seven hundred.' Vika frames one telling expression on cue: "tysyachi" means "thousands" (from "tysyacha"), giving the line its exact edge.
-- 'Ilya — nine thousand.' Vika sends the thought facing Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Well?' Ilya checks straight out if there is more going on behind the scenes.
-- 'Well done. Well done.' Max uses one key piece at once: "molodets" means "well done, good boy", and it carries the main weight of what Max is saying.
-- 'Max — eight thousand nine hundred fifty.' Vika steps in at once as things stand, refusing to let the moment slip past.
-- 'Step out. Quiet!' Ilya replies wryly beside Vika, leaving no doubt about where he stands.
-- 'But that is not the limit.' Vika uses one vivid term in reply: "predel" means "limit", and it carries the main weight of what Vika is saying.
-- 'Nastya Fomina — fourteen thousand!' Vika voices the comeback before Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'It doesn't matter. Let's go home.' Max continues wryly facing Vika, watching Vika's face to see how the news lands.
+- 'Let's go.' Vika replies earnestly on the spot and uses "poyekhali" ("here we go", from "poyekhat") to make the point stick.
+- 'Attention, the results!' Addressing the attention before Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Eva — five thousand two hundred.' Vika continues plainly with a smile, keeping the focus on what actually matters here.
+- 'Oleg — three thousand seven hundred.' Bringing up the thousands in front of Ilya, Vika lands on "tysyachi" ("thousands", built on "tysyacha") to keep the statement grounded.
+- 'Ilya — nine thousand.' Dwelling on the thousand in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Well?' Ilya checks straight out to see how Max will answer on the spot.
+- 'Well done. Well done.' Max speaks up pointedly during the talk and lands on "molodets" ("well done, good boy") as the key everyday word here.
+- 'Max — eight thousand nine hundred fifty.' Turning to the thousand beside Max, Vika leans on "tysyach" ("thousand", a form of "tysyacha") to give the remark its edge.
+- 'Step out. Quiet!' Ilya speaks up wryly beside Vika, grounding the moment in plain reality.
+- 'But that is not the limit.' Mentioning the limit with Ilya, Vika puts the emphasis on "predel" ("limit") in the middle of the talk.
+- 'Nastya Fomina — fourteen thousand!' Mentioning the thousand around Ilya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

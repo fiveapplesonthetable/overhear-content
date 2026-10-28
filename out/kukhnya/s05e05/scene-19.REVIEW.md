@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, can I have you for a couple of minutes?' Denis focuses on one classic term in reply: "minut" means "minutes" (from "minuta"), giving the line its exact edge.
-- 'Denis, do you not see that we are talking?' Eleonora brings the comment without pause: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'Mom, stop it, we have not properly discussed anything yet.' Katya continues sharply with a nod, letting the remark speak for itself.
-- 'The fact that he has a daughter!' Eleonora emphasizes one key element in earnest: "doch" means "daughter", and it carries the main weight of what Eleonora is saying.
-- 'Give us a couple of minutes, this is very important.' Denis counters lightly hearing Eleonora, testing Eleonora's reaction in the middle of the exchange.
-- 'I cheated on you.' Denis opens up wryly toward Katya, saying out loud what both of them already know.
-- 'What?' Katya lays out the reaction facing Denis: putting the question word "chto" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'On that day when you refused to marry me.' Denis offers this point without pause: the "-sya" ending on "otkazalas" ("refused") turns the action inward or makes it happen between people naturally.
-- 'I got drunk.' Denis pushes back plainly without a pause, keeping the focus on what actually matters here.
-- 'Do I know her?' Katya anchors one colorful element in earnest: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'I did not see her after that.' Denis proceeds openly with a shrug, to clear the air between them once and for all.
-- 'There is no daughter, Kostya made it all up.' Denis holds firm wryly in this moment, steering the talk right where he wants it.
+- 'Katya, can I have you for a couple of minutes?' Underscoring the minutes in the exchange, Denis lands on "minut" ("minutes", built on "minuta") to keep the statement grounded.
+- 'Denis, do you not see that we are talking?' Leaning in briskly around Denis, Eleonora puts the question word "chto" right at the start so Denis hears the focus immediately.
+- 'Mom, stop it, we have not properly discussed anything yet.' Katya chimes in sharply without a pause, refusing to let the moment slip past.
+- 'The fact that he has a daughter!' Highlighting a daughter during the talk, Eleonora lands on "doch" ("daughter") as the key everyday word here.
+- 'Give us a couple of minutes, this is very important.' Explaining how important things are in this beat, Denis reaches for the Russian word "vazhno" ("important, mattering", built from "vazhnyy") right at the center of the line.
+- 'I cheated on you.' Denis pushes back wryly around Katya, leaving no doubt about where he stands.
+- 'What?' Cutting in boldly around Denis, Katya puts the question word "chto" right at the start so Denis hears the focus immediately.
+- 'On that day when you refused to marry me.' Turning warmly in this beat, the "-sya" ending on "otkazalas" ("refused") marks an action that unfolds mutually or turns back on the speaker.
+- 'I got drunk.' Denis pushes back plainly in this moment, making his position completely clear.
+- 'Do I know her?' Speaking naturally around Denis, Katya keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'I did not see her after that.' Denis answers sharply during the talk and centers the thought on "videl" ("saw, have seen", from "videt") without wasting a word.
+- 'There is no daughter, Kostya made it all up.' Denis follows up wryly beside Katya, bringing things back to earth after the buildup.

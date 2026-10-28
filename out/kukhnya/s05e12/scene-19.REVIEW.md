@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, forgive me once again.' Max underscores one key word right here: "yeshchyo" means "more, still", and it carries the main weight of what Max is saying.
-- 'Are you still here?' Vika offers the reply with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I have not talked to her yet.' Barinov steps in decisively with a smile, testing Max's reaction in the middle of the exchange.
-- 'I am warning you: step back!' Vika points to this vivid piece in earnest: "preduprezhdayu" means "to warn" (from "preduprezhdat"), giving the line its exact edge.
-- 'Chef, why did you not turn back?' Max offers that line around Barinov: the "-sya" ending on "vernulsya" ("returned") turns the action inward or makes it happen between people naturally.
-- 'I always used to do that.' Barinov speaks up at once to settle things, so Vika knows he is not just making small talk.
-- 'Now the time has come to answer for my actions.' Barinov stresses one concrete touch at once: "postupki" means "actions, deeds" (from "postupok"), giving the line its exact edge.
-- 'Before you and our daughter!' Max speaks up plainly facing Vika, grounding the moment in plain reality.
-- 'Vika, do whatever you want, I will still be right beside you.' Max chimes in evenly facing Barinov, watching Barinov's face to see how the news lands.
-- 'Because I love you both.' Max leans on one concrete term on cue: "lyublyu" means "love" (from "lyubit"), giving the line its exact edge.
-- 'There is a chance that everything will work out!' Barinov gives that reply around Max: the "-sya" ending on "obrazuyetsya" ("will work out") turns the action inward or makes it happen between people naturally.
-- 'Hang on, chef, we will pull you out right now!' Max continues candidly hearing Vika, so Vika knows he is not just making small talk.
+- 'Vika, forgive me once again.' Max politely shares this personal apology as they meet using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'Are you still here?' Looking over smoothly in this beat, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I have not talked to her yet.' Barinov jumps in decisively toward Vika, bringing things back to earth after the buildup.
+- 'I am warning you: step back!' Vika cuts in boldly during the talk and brings in "preduprezhdayu" ("to warn", from "preduprezhdat") as the key Russian word here.
+- 'Chef, why did you not turn back?' Turning dryly with Barinov, the "-sya" ending on "vernulsya" ("returned") marks an action that unfolds mutually or turns back on the speaker.
+- 'I always used to do that.' Barinov proceeds at once without holding back, shifting the mood of the conversation in a single beat.
+- 'Now the time has come to answer for my actions.' Mentioning his actions before Max, Barinov uses "postupki" ("actions, deeds", from "postupok") to make the point stick.
+- 'Before you and our daughter!' Addressing his daughter right here, Max puts the weight on "docheryu" ("daughter", from "doch") as the exchange unfolds.
+- 'Vika, do whatever you want, I will still be right beside you.' Max weighs in candidly with Barinov, without trying to dress up how he really feels.
+- 'Because I love you both.' Max chimes in pointedly during the talk and brings in "lyublyu" ("love", from "lyubit") as the key Russian word here.
+- 'There is a chance that everything will work out!' Dwelling on a chance during the talk, the "-sya" ending on "obrazuyetsya" ("will work out") marks an action that unfolds mutually or turns back on the speaker.
+- 'Hang on, chef, we will pull you out right now!' Max opens up candidly around Barinov, watching Barinov's face to see how the news lands.

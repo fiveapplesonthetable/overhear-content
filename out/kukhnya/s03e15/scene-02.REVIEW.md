@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I beg you, the main thing in a restaurant is management!' The guest picks one key piece in earnest: "upravleniye" means "headquarters", and it carries the main weight of what the guest is saying.
-- 'Any fool can whip up food, even I can.' The guest jumps in dryly in this moment, leaving no doubt about where he stands.
-- 'Any fool can whip something up, but try to actually cook!' Nagiyev favors this key expression at once: "sostryapat" means "to whip up", and it carries the main weight of what Nagiyev is saying.
-- 'Believe me, I know what I am talking about!' Nagiyev opens up right away before the guest, making his position completely clear.
-- 'What did you do there, just boil eggs?' The guest asks frankly as Nagiyev tries to explain the situation.
-- 'Let's you and I make a bet right now!' Nagiyev reaches for one sharp piece in reply: "posporim" means "let's bet, wager" (from "posporit"), giving the line its exact edge.
-- 'Rabbit baked under almond sauce with rosemary and truffles.' The guest reacts quietly without any doubt, letting the remark speak for itself.
-- 'Try to cook a dish like that yourself by evening!' The guest steps in boldly with a nod, keeping the focus on what actually matters here.
-- 'When you die, not a single germ will be left on you.' Nagiyev reaches for this sharp expression for the guest: "ostanetsya" means "will remain" (from "ostatsya"), giving the line its exact edge.
-- 'I hope I do not die from your dish!' The guest holds firm sharply before Nagiyev, grounding the moment in plain reality.
-- 'I promise you, old pal, the dish will be excellent!' Nagiyev steps in boldly in this moment, steering the talk right where he wants it.
-- 'Great, then it is a deal, shake on it!' The guest highlights one vivid detail for Nagiyev: "dogovorilis" means "agreed, deal" (from "dogovoritsya"), giving the line its exact edge.
+- 'I beg you, the main thing in a restaurant is management!' The guest jumps in decisively with Nagiyev, letting the remark speak for itself.
+- 'Any fool can whip up food, even I can.' The guest jumps in dryly with a nod, steering the talk right where he wants it.
+- 'Any fool can whip something up, but try to actually cook!' Talking about the fool with the guest, Nagiyev centers the remark on "sostryapat" ("to whip up") without any extra fuss.
+- 'Believe me, I know what I am talking about!' Nagiyev continues boldly with the guest and leans on "govoryu" ("am telling", a form of "govorit") to give the remark its edge.
+- 'What did you do there, just boil eggs?' The guest asks frankly before Nagiyev can change the subject.
+- 'Let's you and I make a bet right now!' Nagiyev weighs in readily at once and lands on "posporim" ("let's bet, wager", built on "posporit") to keep the statement grounded.
+- 'Rabbit baked under almond sauce with rosemary and truffles.' Focusing on the rabbit at once, the guest brings in "zapechyonnyy" ("roasted, baked") to make the meaning unmistakable.
+- 'Try to cook a dish like that yourself by evening!' The guest jumps in boldly hearing Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'When you die, not a single germ will be left on you.' Touching on the microbe beside the guest, Nagiyev puts the weight on "mikroba" ("microbe, germ", from "mikrob") as the exchange unfolds.
+- 'I hope I do not die from your dish!' Discussing the dish with Nagiyev, the guest brings in "blyuda" ("of dish", from "blyudo") as the key Russian word here.
+- 'I promise you, old pal, the dish will be excellent!' Nagiyev weighs in boldly during the talk, grounding the moment in plain reality.
+- 'Great, then it is a deal, shake on it!' Bringing up the hand with Nagiyev, the guest puts the weight on "dogovorilis" ("agreed, deal", from "dogovoritsya") as the exchange unfolds.

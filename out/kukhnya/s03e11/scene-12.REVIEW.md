@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Add more salt and stir quickly!' Barinov responds dryly hearing Katya, watching Katya's face to see how the news lands.
-- 'Your fish is still completely raw!' Barinov underscores this key choice with Max: "yeshchyo" means "more, still", and it carries the main weight of what Barinov is saying.
-- 'Chef, I know how to prove that Katya is lying.' Max chimes in firmly without a pause, steering the talk right where he wants it.
-- 'Get away from me, I feel sick enough already.' Barinov weighs in frankly toward Max, watching Max's face to see how the news lands.
-- 'Let her take this test right now.' Max grounds one telling piece toward Barinov: "sdelayet" means "will do" (from "sdelat"), giving the line its exact edge.
-- 'You will see, she is lying to all of you.' Max emphasizes one vivid piece on cue: "uvidite" means "will see" (from "uvidet"), giving the line its exact edge.
-- 'What are you saying? And what if Katya is not lying?' Barinov prompts curiously as Katya tries to explain the situation.
-- 'Then I am taking your entire paycheck!' Barinov leans on one classic term right here: "zarplatu" means "salary" (from "zarplata"), giving the line its exact edge.
-- 'Take even two of my paychecks, Chef!' Max speaks up right away facing Barinov, leaving no doubt about where he stands.
-- 'No, let us make it three paychecks right away! Deal.' Barinov reacts candidly hearing Max, keeping the focus on what actually matters here.
-- 'But our restroom is not working today.' Katya emphasizes this sharp touch in earnest: "rabotayet" means "works" (from "rabotat"), giving the line its exact edge.
-- 'The repairmen will come soon and fix everything.' Barinov speaks warmly across the room, watching Max's face to see how the news lands.
-- 'Katya, go to the guest restroom then!' Max proceeds briskly with a smile, making his position completely clear.
+- 'Add more salt and stir quickly!' Barinov pushes back dryly around Max, bringing things back to earth after the buildup.
+- 'Your fish is still completely raw!' Focusing on the fish around Max, Barinov brings in "syraya" ("raw", from "syroy") as the key Russian word here.
+- 'Chef, I know how to prove that Katya is lying.' Max continues openly on the spot and puts the emphasis on "dokazat" ("to prove") in the middle of the talk.
+- 'Get away from me, I feel sick enough already.' Barinov counters frankly in this moment, making his position completely clear.
+- 'Let her take this test right now.' Addressing the test in front of Barinov, Max lands on "sdelayet" ("will do", built on "sdelat") to keep the statement grounded.
+- 'You will see, she is lying to all of you.' Max fires back bluntly with Barinov, grounding the moment in plain reality.
+- 'What are you saying? And what if Katya is not lying?' Barinov prompts curiously whether Katya really thought this through.
+- 'Then I am taking your entire paycheck!' Talking about the salary beside Max, Barinov chooses "zarplatu" ("salary", from the root "zarplata") so Max hears the exact meaning.
+- 'Take even two of my paychecks, Chef!' Talking about the salaries in this beat, Max puts the weight on "zarplaty" ("salaries", from "zarplata") as the exchange unfolds.
+- 'No, let us make it three paychecks right away! Deal.' Barinov continues candidly with Max, before Max can change the subject.
+- 'But our restroom is not working today.' Underscoring the toilet in the exchange, Katya uses "tualet" ("toilet") to carry the main weight of the thought.
+- 'The repairmen will come soon and fix everything.' Pointing to the technician on the spot, Barinov lands on "mastera" ("technician", built on "master") to keep the statement grounded.
+- 'Katya, go to the guest restroom then!' Max speaks up briskly beside Katya, shifting the mood of the conversation in a single beat.

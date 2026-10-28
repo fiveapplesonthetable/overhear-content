@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nikita, what are you doing here so late?' Katya brings the reaction beside Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'I have a matter of life and death.' Nikita weighs in openly toward Katya, bringing things back to earth after the buildup.
-- 'You must blindfold your eyes and walk into the hall.' Nikita reaches for one vivid touch for Barinov: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
-- 'Alright, but I also have an important matter.' Katya voices the remark with ease: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'I need five minutes to finish everything.' Katya answers boldly with Barinov, shifting the whole mood of the room in a single beat.
-- 'Otherwise the whole kitchen could flood with foam.' Katya leans on this clear choice with Nikita: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'Alright, I will wait for you by the door.' Nikita frames this update on cue: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'I am heading in, we will be there in a couple of minutes.' Nikita steps in frankly in their talk, before Katya can change the subject.
-- 'Look what a dangerous moment this is right now!' Barinov underscores one clear detail at once: "opasnyy" means "dangerous", and it carries the main weight of what Barinov is saying.
-- 'I just need a little practice, and you are done for!' Barinov aims this answer right away: the "-sya" ending on "natrenirovatsya" ("to practice enough") turns the action inward or makes it happen between people naturally.
-- 'Chef, I was letting you win!' Nikita reacts decisively on the spot, letting the remark speak for itself.
-- 'Open the door, that is Timur with the crib!' Barinov stresses one familiar touch on cue: "krovatkoy" means "baby crib" (from "krovatka"), giving the line its exact edge.
+- 'Nikita, what are you doing here so late?' Looking over openly on the spot, Katya puts the question word "chto" right at the start so Nikita hears the focus immediately.
+- 'I have a matter of life and death.' Nikita speaks openly around Katya, refusing to let the moment slip past.
+- 'You must blindfold your eyes and walk into the hall.' Bringing up the eyes around Katya, Nikita puts the weight on "dolzhna" ("should, must", from "dolzhen") as the exchange unfolds.
+- 'Alright, but I also have an important matter.' Katya cuts in right away facing Nikita, leaving no doubt about where she stands.
+- 'I need five minutes to finish everything.' Katya reacts boldly without any doubt, bringing things back to earth after the buildup.
+- 'Otherwise the whole kitchen could flood with foam.' Discussing the whole kitchen to Nikita, Katya leans on "kukhnyu" ("kitchen", a form of "kukhnya") to give the remark its edge.
+- 'Alright, I will wait for you by the door.' Nikita counters warmly with a smile, refusing to let the moment slip past.
+- 'I am heading in, we will be there in a couple of minutes.' Nikita speaks up frankly in their talk, keeping the focus on what actually matters here.
+- 'Look what a dangerous moment this is right now!' Explaining how dangerous things are beside Nikita, Barinov chooses "opasnyy" ("dangerous") so Nikita gets the point right away.
+- 'I just need a little practice, and you are done for!' Pushing back plainly at once, the "-sya" ending on "natrenirovatsya" ("to practice enough") marks an action that unfolds mutually or turns back on the speaker.
+- 'Chef, I was letting you win!' Nikita follows up right away with Barinov, letting the remark speak for itself.
+- 'Open the door, that is Timur with the crib!' Mentioning the crib with Nikita, Barinov reaches for the Russian word "krovatkoy" ("baby crib", built from "krovatka") right at the center of the line.

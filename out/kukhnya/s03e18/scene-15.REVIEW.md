@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, anyway, I sorted everything out with Katya.' Max holds firm boldly across the room, testing Barinov's reaction in the middle of the exchange.
-- 'Listen, Katya, I mean Vika, forgive me!' Max chooses this clear element in earnest: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
-- 'Tell me, what are you doing today after work?' Max brings that remark without fuss: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Vika is very busy tonight after work.' Barinov answers right away without any doubt, shifting the whole mood of the room in a single beat.
-- 'As for Katya, however, I do not know anything.' Vika sharpens one practical piece at once: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'Well great, I ruined everything for myself again!' Max weighs in lightly toward Vika, making his position completely clear.
-- 'Max, how on earth do you do all this?' Vika questions calmly while looking straight at Barinov here.
-- 'Honestly, I am in shock myself already.' Max centers one familiar expression for Vika: "chestnoye" means "honest" (from "chestnyy"), giving the line its exact edge.
-- 'Attention all chefs! Listen to me quickly!' Barinov steps in right away beside Max, making his position completely clear.
-- 'For the first time in this kitchen we are burning a menu!' Barinov speaks up plainly with a sigh, to clear the air between them once and for all.
-- 'We are burning the pages of this new menu right now.' Barinov uses this clear element right here: "szhigayem" means "we burn" (from "szhigat"), giving the line its exact edge.
-- 'The menu is accused of betraying French cuisine with chebureki!' Barinov chimes in honestly with Vika, without trying to dress up how he really feels.
+- 'Kostya, anyway, I sorted everything out with Katya.' Max reacts boldly with Barinov, to clear the air between them once and for all.
+- 'Listen, Katya, I mean Vika, forgive me!' Max follows up frankly at once and puts the weight on "slushay" ("listen", from "slushat") as the exchange unfolds.
+- 'Tell me, what are you doing today after work?' Speaking evenly at once, Max puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Vika is very busy tonight after work.' Barinov reacts right away with a smile, leaving no doubt about where he stands.
+- 'As for Katya, however, I do not know anything.' Reacting evenly before Barinov, Vika pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Well great, I ruined everything for myself again!' Max follows up evenly around Vika and reaches for the Russian word "isportil" ("to spoil, ruin", built from "isportit") right at the center of the line.
+- 'Max, how on earth do you do all this?' Vika questions calmly if there is more going on behind the scenes.
+- 'Honestly, I am in shock myself already.' Underscoring how honest he is on the spot, Max puts the weight on "chestnoye" ("honest", from "chestnyy") as the exchange unfolds.
+- 'Attention all chefs! Listen to me quickly!' Turning to the attention on the spot, Barinov chooses "vnimaniye" ("attention") so Max gets the point right away.
+- 'For the first time in this kitchen we are burning a menu!' Barinov speaks up plainly without a pause, without trying to dress up how he really feels.
+- 'We are burning the pages of this new menu right now.' Mentioning the sheet at once, Barinov brings in "szhigayem" ("we burn", from "szhigat") as the key Russian word here.
+- 'The menu is accused of betraying French cuisine with chebureki!' Pointing to the menu in front of Max, Barinov lands on "frantsuzskoy" ("French", built on "frantsuzskiy") to keep the statement grounded.

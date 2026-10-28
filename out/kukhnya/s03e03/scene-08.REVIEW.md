@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon. Ah, it is you?' Max brings that point right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And I want you to go far away.' The guest answers calmly without a pause, leaving no doubt about where he stands.
-- 'We cannot go. We are pregnant.' Max reaches for one pointed element at once: "beremenny" means "pregnant" (from "beremennyy"), giving the line its exact edge.
-- 'It is our first pregnancy, we are constantly nervous.' Max drops that reply for Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'So we snapped at you.' Max speaks up calmly toward the guest, leaving no doubt about where he stands.
-- 'If they fire us, who will feed him?' Max uses one telling detail in earnest: "uvolyat" means "will fire" (from "uvolit"), giving the line its exact edge.
-- 'Fine. After all, the child is not at fault.' The guest phrases the reply for Max: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Max is on board.
-- 'Thank you so much from me and from my wife.' Max steps in calmly as they talk, leaving no doubt about where he stands.
-- 'Let's go, we are forgiven! A talented improvisation, did you see?' Max reaches for this clear choice right here: "improvizatsiya" means "improvisation", and it carries the main weight of what Max is saying.
-- 'Damn, I forgot my bag. Hold on a second.' Vika follows up frankly as they talk, saying out loud what both of them already know.
-- 'I am calling my husband! He will shut your restaurant down completely.' The guest speaks evenly across the room, keeping the focus on what actually matters here.
-- 'Even if all of you there are pregnant!' The guest stresses this key piece in earnest: "beremenny" means "pregnant" (from "beremennyy"), giving the line its exact edge.
+- 'Good afternoon. Ah, it is you?' Max readily offers this daytime greeting for the guest using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'And I want you to go far away.' The guest chimes in calmly with a smile, keeping the focus on what actually matters here.
+- 'We cannot go. We are pregnant.' Making clear how pregnant things are in this beat, Max leans on "beremenny" ("pregnant", a form of "beremennyy") to give the remark its edge.
+- 'It is our first pregnancy, we are constantly nervous.' Pointing to the pregnancy to the guest, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'So we snapped at you.' Max weighs in calmly in their talk, keeping the focus on what actually matters here.
+- 'If they fire us, who will feed him?' Max responds promptly at once and lands on "uvolyat" ("will fire", built on "uvolit") to keep the statement grounded.
+- 'Fine. After all, the child is not at fault.' Addressing the child beside Max, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Thank you so much from me and from my wife.' Max speaks up calmly with a nod, leaving no doubt about where he stands.
+- 'Let's go, we are forgiven! A talented improvisation, did you see?' Bringing up a talented improvisation to Vika, Max lands on "improvizatsiya" ("improvisation") as the key everyday word here.
+- 'Damn, I forgot my bag. Hold on a second.' Highlighting the darn in front of Max, Vika reaches for the Russian word "chyort" ("darn, heck") right at the heart of the line.
+- 'I am calling my husband! He will shut your restaurant down completely.' The guest jumps in evenly toward Vika, without trying to dress up how he really feels.
+- 'Even if all of you there are pregnant!' Emphasizing how pregnant things are with Vika, the guest lands on "beremenny" ("pregnant", built on "beremennyy") to keep the statement grounded.

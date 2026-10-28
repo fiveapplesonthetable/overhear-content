@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova does not understand that his mom is setting him up.' Ainura focuses on one clear term for Gulya: "ponimayet" means "understands" (from "ponimat"), giving the line its exact edge.
-- 'But the main question here is something else entirely.' Gulya makes that line with warmth: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'What does this sly Larisa want from him?' Ainura checks promptly what Gulya is actually getting at here.
-- 'Well, maybe she simply fell in love.' Gulya chooses one memorable detail on cue: "vlyubilas" means "fell in love" (from "vlyubitsya"), giving the line its exact edge.
-- 'Do not take offense, but that is very strange.' Ainura gives that remark frankly here: the "-sya" ending on "obizhaysya" ("take offence") turns the action inward or makes it happen between people naturally.
-- 'Aunt Ainura, he is a good and kind person.' Gulya holds firm briskly in this moment, saying out loud what both of them already know.
-- 'Maybe she wants to take the apartment for herself later?' Ainura spotlights one direct piece right here: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Where do you even get such strange thoughts?' Gulya aims this line around Katya: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Mom, where are you, what happened here?' Katya quizzes wryly to see how Ainura will answer on the spot.
-- 'I am lying quietly and taking a warm bath.' Catch how Katya faces Gulya right away — the Russian word "tyopluyu" ("warm", built from "tyoplyy") does the heavy lifting.
-- 'Mom, why grieve so hard like this?' Katya puts that point to Ainura: the "-sya" ending on "ubivatsya" ("to grieve bitterly") turns the action inward or makes it happen between people naturally.
-- 'Like a naive schoolgirl I believed him again.' Gulya jumps in honestly with a shrug, making her position completely clear.
-- 'You are so beautiful, everything is still ahead of you!' Katya chooses one concrete word for Ainura: "krasivaya" means "pretty, beautiful" (from "krasivyy"), giving the line its exact edge.
+- 'Lyova does not understand that his mom is setting him up.' Highlighting the mum beside Gulya, Ainura chooses "ponimayet" ("understands", from the root "ponimat") so Gulya hears the exact meaning.
+- 'But the main question here is something else entirely.' Making clear how main things are right here, Gulya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'What does this sly Larisa want from him?' Ainura checks promptly while looking straight at Gulya here.
+- 'Well, maybe she simply fell in love.' Gulya opens up directly to Ainura and uses "vlyubilas" ("fell in love", from "vlyubitsya") to make the point stick.
+- 'Do not take offense, but that is very strange.' Holding firm readily right here, the "-sya" ending on "obizhaysya" ("take offence") marks an action that unfolds mutually or turns back on the speaker.
+- 'Aunt Ainura, he is a good and kind person.' Gulya answers briskly with a nod, without trying to dress up how she really feels.
+- 'Maybe she wants to take the apartment for herself later?' Addressing the flat on the spot, Ainura lands on "kvartiru" ("flat", built on "kvartira") to keep the statement grounded.
+- 'Where do you even get such strange thoughts?' Reacting boldly beside Katya, Gulya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Mom, where are you, what happened here?' Katya quizzes wryly if there is more going on behind the scenes.
+- 'I am lying quietly and taking a warm bath.' Confirming how warm she is right here, Katya chooses "tyopluyu" ("warm", from the root "tyoplyy") so Gulya hears the exact meaning.
+- 'Mom, why grieve so hard like this?' Checking on the mum to Gulya, the "-sya" ending on "ubivatsya" ("to grieve bitterly") marks an action that unfolds mutually or turns back on the speaker.
+- 'Like a naive schoolgirl I believed him again.' Gulya fires back honestly without any doubt, testing Katya's reaction in the middle of the exchange.
+- 'You are so beautiful, everything is still ahead of you!' Insisting on how pretty Gulya is right here, Katya puts the weight on "krasivaya" ("pretty, beautiful", from "krasivyy") as the exchange unfolds.

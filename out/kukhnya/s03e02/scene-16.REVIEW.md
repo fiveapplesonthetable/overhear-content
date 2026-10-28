@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Congratulations!' Max spotlights one memorable term in earnest: "pozdravlyayem" means "we congratulate" (from "pozdravlyat"), giving the line its exact edge.
-- 'Hi. Listen to me.' Ilya frames this statement with ease: opening with the casual greeting "privet" ("hi") signals right away that Ilya and Sasha are on familiar terms.
-- 'You will come today and say that you are my regular client.' Ilya weighs in honestly with a sigh, without trying to dress up how he really feels.
-- 'They will escort you to a table, and you will order this.' Ilya colors one colorful term in reply: "zakazhesh" means "will order" (from "zakazat"), giving the line its exact edge.
-- 'They will bring the bill. Are you listening to me?' Ilya shapes that line in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'You will put this slip of paper into the folder.' Ilya stands firm candidly before Sasha, without trying to dress up how he really feels.
-- 'And start a scandal, as if they want to overcharge you.' Ilya picks this direct element on cue: "skandal" means "scandal, fuss", and it carries the main weight of what Ilya is saying.
-- 'Got it? Go on.' Ilya gives the comment without pause: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'I will owe you one.' Ilya continues pointedly on the spot, keeping the focus on what actually matters here.
-- 'Sunshine, listen, I will step away for half an hour.' Ilya chooses this key touch with Sasha: "solnyshko" means "sweetheart", and it carries the main weight of what Ilya is saying.
-- 'If my regulars come, will you seat them?' Ilya voices that line without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Of course. You're welcome.' Sasha speaks pointedly with a nod, saying out loud what both of them already know.
+- 'Congratulations!' Max cuts in quietly in front of Ilya and brings in "pozdravlyayem" ("we congratulate", from "pozdravlyat") as the key Russian word here.
+- 'Hi. Listen to me.' Ilya directly shares this casual greeting beside Max using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'You will come today and say that you are my regular client.' Ilya steps in honestly with a smile, letting the remark speak for itself.
+- 'They will escort you to a table, and you will order this.' Emphasizing a table around Max, Ilya chooses "zakazhesh" ("will order", from the root "zakazat") so Max hears the exact meaning.
+- 'They will bring the bill. Are you listening to me?' Checking on the counting before Max, Ilya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'You will put this slip of paper into the folder.' Ilya counters candidly in this moment, testing Max's reaction in the middle of the exchange.
+- 'And start a scandal, as if they want to overcharge you.' Pointing to a scandal before Sasha, Ilya uses "skandal" ("scandal, fuss") to carry the main weight of the thought.
+- 'Got it? Go on.' Weighing in earnestly right here, Ilya starts with "davay" ("come on, let's") to invite Sasha right into the action.
+- 'I will owe you one.' Ilya responds pointedly without any doubt, before Sasha can change the subject.
+- 'Sunshine, listen, I will step away for half an hour.' Addressing the sweetheart around Sasha, Ilya centers the remark on "solnyshko" ("sweetheart") without any extra fuss.
+- 'If my regulars come, will you seat them?' Jumping in naturally during the talk, Ilya keeps normal statement word order here, turning the line into a question for Sasha purely through rising pitch.
+- 'Of course. You're welcome.' Sasha politely sends this courtesy word toward Ilya using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The alcohol ran out and the atmosphere of trust was interrupted.' The doctor emphasizes one key expression in earnest: "zakonchilsya" means "ended" (from "zakonchitsya"), giving the line its exact edge.
-- 'Actually, I do not drink.' The doctor brings this update right away: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'But Yekaterina Victorovna turned out to be a very difficult case.' The doctor replies firmly with a smile, before Katya can change the subject.
-- 'Katya went to get a breath of fresh air.' The doctor reaches for one direct word right here: "vozdukhom" means "air" (from "vozdukh"), giving the line its exact edge.
-- 'Kostyan, I got robbed, no, not in Saint Petersburg.' Max pushes back candidly watching the doctor, without trying to dress up how he really feels.
-- 'I will come right now, bye.' Max cuts in evenly hearing Katya, to clear the air between them once and for all.
-- 'What do you mean I am not allowed in here?' Max uses this sharp piece right here: "znachit" means "then, so", and it carries the main weight of what Max is saying.
-- 'What are you, a parrot? They are waiting for me, let me pass!' Max sends this answer before Katya: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'Hi.' Katya speaks warmly with a smile, steering the talk right where she wants it.
-- 'How did you end up here?' Max underscores one clear word with Katya: "okazalas" means "to turn out to be" (from "okazatsya"), giving the line its exact edge.
-- 'I am climbing along the balcony and I see them beating you.' Katya emphasizes one concrete word on cue: "balkonu" means "balcony" (from "balkon"), giving the line its exact edge.
-- 'What a great day today.' Max continues bluntly without holding back, testing Katya's reaction in the middle of the exchange.
+- 'The alcohol ran out and the atmosphere of trust was interrupted.' Turning to the alcohol during the talk, the doctor brings in "zakonchilsya" ("ended", from "zakonchitsya") as the key Russian word here.
+- 'Actually, I do not drink.' Stepping in evenly right here, the doctor drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'But Yekaterina Victorovna turned out to be a very difficult case.' The doctor weighs in firmly without holding back, so Max knows he is not just making small talk.
+- 'Katya went to get a breath of fresh air.' Bringing up the air with Katya, the doctor brings in "vozdukhom" ("air", from "vozdukh") as the key Russian word here.
+- 'Kostyan, I got robbed, no, not in Saint Petersburg.' Max replies briskly in this beat and chooses "obvorovali" ("robbed", from the root "obvorovat") so the doctor hears the exact meaning.
+- 'I will come right now, bye.' Max follows up evenly with a nod, testing the doctor's reaction in the middle of the exchange.
+- 'What do you mean I am not allowed in here?' Max pushes back briskly to Katya and uses "znachit" ("then, so") to carry the main weight of the thought.
+- 'What are you, a parrot? They are waiting for me, let me pass!' Stepping in quietly at once, Max puts the question word "chto" right at the start so Katya hears the focus immediately.
+- 'Hi.' Katya firmly uses this casual greeting at the start of the beat using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'How did you end up here?' Max answers candidly beside Katya and puts the weight on "okazalas" ("to turn out to be", from "okazatsya") as the exchange unfolds.
+- 'I am climbing along the balcony and I see them beating you.' Katya chimes in sharply in this moment, steering the talk right where she wants it.
+- 'What a great day today.' Max responds bluntly with a shrug, bringing things back to earth after the buildup.

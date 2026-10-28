@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, Nastenka.' Kostya anchors this vivid detail on cue: "spasibo" means "thank you", and it carries the main weight of what Kostya is saying.
-- 'I did not find them.' Nastya aims that reply at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'By the way, that is a cool color.' Kostya answers right away with Nastya, without trying to dress up how he really feels.
-- 'Wait, where is the trash can?' Nastya underscores one practical piece at once: "musorka" means "trash bin", and it carries the main weight of what Nastya is saying.
-- 'Right where it belongs.' Kostya delivers the reply without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Listen, stop imposing your own rules around here.' Nastya holds firm at once with a nod, to clear the air between them once and for all.
-- 'You know what?' Kostya focuses on this key piece in reply: "znayesh" means "know" (from "znat"), giving the line its exact edge.
-- 'Do not worry, I already poisoned them.' Nastya underscores one loaded detail in reply: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'And what about you.' Kostya opens up openly with a nod, shifting the whole mood of the room in a single beat.
-- 'Of course, I knew that turtles are slow.' Nastya stresses one concrete choice at once: "cherepakhi" means "turtle, tortoise" (from "cherepakha"), giving the line its exact edge.
-- 'I think our Pashka looks completely sluggish.' Kostya gives the remark at once: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Wait a second, Kostya.' Nastya reacts lightly as things stand, letting the remark speak for itself.
-- 'Do not touch him.' Kostya grounds this telling expression toward Nastya: "trogay" means "touch" (from "trogat"), giving the line its exact edge.
+- 'Thank you, Nastenka.' Kostya casually extends this word of thanks without hesitation using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I did not find them.' Leaning in smoothly in front of Kostya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'By the way, that is a cool color.' Kostya responds right away in this moment, refusing to let the moment slip past.
+- 'Wait, where is the trash can?' Pointing to the trash bin before Kostya, Nastya leans on "musorka" ("trash bin") to give the whole sentence its punch.
+- 'Right where it belongs.' Leaning in readily during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Listen, stop imposing your own rules around here.' Nastya reacts at once in their talk, steering the talk right where she wants it.
+- 'You know what?' Stepping in quietly on the spot, Kostya puts the question word "chto" right at the start so Nastya hears the focus immediately.
+- 'Do not worry, I already poisoned them.' Nastya replies steadily with Kostya, leaving no doubt about where she stands.
+- 'And what about you.' Kostya chimes in openly watching Nastya, to clear the air between them once and for all.
+- 'Of course, I knew that turtles are slow.' Mentioning the turtle before Kostya, Nastya puts the weight on "cherepakhi" ("turtle, tortoise", from "cherepakha") as the exchange unfolds.
+- 'I think our Pashka looks completely sluggish.' Holding firm earnestly during the talk, Kostya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Wait a second, Kostya.' Nastya opens up lightly in this moment, keeping the focus on what actually matters here.
+- 'Do not touch him.' Kostya follows up naturally beside Nastya and leans on "trogay" ("touch", a form of "trogat") to give the remark its edge.

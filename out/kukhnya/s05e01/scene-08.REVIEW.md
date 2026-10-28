@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to give the money to Timur.' Kostya makes that answer beside Nastya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'In short, he knows what it is for.' Kostya reacts steadily in this moment, saying out loud what both of them already know.
-- 'Victoria Sergeevna, people came to see you.' Nastya spotlights one memorable element at once: "prikhodili" means "to come" (from "prikhodit"), giving the line its exact edge.
-- 'Regarding which banquet?' Vika makes this line right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'They came yesterday and placed an order.' Nastya responds boldly with a smile, so Kostya knows she is not just making small talk.
-- 'They wanted to make changes to the menu.' Nastya underscores one concrete detail in reply: "izmeneniya" means "changes" (from "izmeneniye"), giving the line its exact edge.
-- 'Were they here yesterday?' Vika directs the reply for Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Do not worry, I took the order.' Nastya opens up boldly with Vika, bringing things back to earth after the buildup.
-- 'You must not get nervous right now.' Nastya centers this direct touch in reply: "nervnichat" means "to get worked up", and it carries the main weight of what Nastya is saying.
-- 'How do you know? Does it show already?' Vika drops this point at once: putting the question word "otkuda" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'No, not very much yet.' Nastya follows up calmly with Kostya, letting the remark speak for itself.
-- 'Kostya and I started to suspect.' Nastya highlights one concrete detail toward Vika: "podozrevat" means "to suspect", and it carries the main weight of what Nastya is saying.
-- 'Please make coffee for the tables.' Vika frames this line calmly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'We need to give the money to Timur.' Focusing on the money before Nastya, Kostya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'In short, he knows what it is for.' Kostya chimes in steadily beside Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'Victoria Sergeevna, people came to see you.' Nastya jumps in directly in front of Kostya and lands on "prikhodili" ("to come", built on "prikhodit") to keep the statement grounded.
+- 'Regarding which banquet?' Focusing on the banquet at once, Vika keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'They came yesterday and placed an order.' Nastya opens up boldly with Vika, before Vika can change the subject.
+- 'They wanted to make changes to the menu.' Focusing on the changes right here, Nastya uses "izmeneniya" ("changes", from "izmeneniye") to make the point stick.
+- 'Were they here yesterday?' Cutting in boldly in the exchange, Vika keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Do not worry, I took the order.' Nastya reacts boldly across the room, making her position completely clear.
+- 'You must not get nervous right now.' Nastya counters boldly during the talk and uses "nervnichat" ("to get worked up") to carry the main weight of the thought.
+- 'How do you know? Does it show already?' Weighing in frankly on the spot, Vika puts the question word "otkuda" right at the start so Nastya hears the focus immediately.
+- 'No, not very much yet.' Nastya answers calmly with a nod, testing Vika's reaction in the middle of the exchange.
+- 'Kostya and I started to suspect.' Nastya continues decisively right here and puts the emphasis on "podozrevat" ("to suspect") in the middle of the talk.
+- 'Please make coffee for the tables.' Discussing the tables before Nastya, Vika brings in "stolikov" ("tables", from "stolik") as the key Russian word here.

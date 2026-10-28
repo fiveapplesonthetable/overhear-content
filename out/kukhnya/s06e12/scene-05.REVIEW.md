@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, it is just a medicinal herb, thank you very much.' Barinov makes the comment toward Denis: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Did you really spend the night together with Sveta?' Kostya challenges straight out why things suddenly took this turn between them.
-- 'Wow, and how did you manage to get into that?' Kostya chooses one telling detail on cue: "ugorazdilo" means "possessed, managed to" (from "ugorazdit"), giving the line its exact edge.
-- 'Very simply, yesterday at the party I drank too much.' Denis frames that reply right away: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Wait, well and what will happen with Katya now?' Kostya wonders evenly while looking straight at Barinov here.
-- 'What about Katya, she is with Nikita anyway.' Denis features one direct touch with Kostya: "ravno" means "the same", and it carries the main weight of what Denis is saying.
-- 'And Sveta is already hinting at a wedding to me right away.' Denis stands firm openly in this moment, bringing things back to earth after the buildup.
-- 'Can you imagine, she barely mentions it in the morning.' Denis proceeds dryly with a nod, without trying to dress up how he really feels.
-- 'And right away there is a call from a jewelry store.' Denis grounds one familiar detail at once: "yuvelirnogo" means "jewelry" (from "yuvelirnyy"), giving the line its exact edge.
-- 'They say that I won a big discount on rings.' Denis weighs in wryly with a nod, so Kostya knows he is not just making small talk.
-- 'What a coincidence, and is this discount big?' Weighing in with urgency, Kostya makes it clear that he means every single word.
-- 'Fifty percent, in my opinion that is just very cool!' Denis uses this telling word at once: "protsentov" means "percent" (from "protsent"), giving the line its exact edge.
+- 'Timur, it is just a medicinal herb, thank you very much.' Explaining how medicinal things are beside Kostya, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Did you really spend the night together with Sveta?' Kostya challenges straight out before Barinov can change the subject.
+- 'Wow, and how did you manage to get into that?' Kostya responds dryly to Denis and centers the thought on "ugorazdilo" ("possessed, managed to", from "ugorazdit") without wasting a word.
+- 'Very simply, yesterday at the party I drank too much.' Focusing on the festival at once, Denis uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Wait, well and what will happen with Katya now?' Kostya wonders evenly to see how Denis will answer on the spot.
+- 'What about Katya, she is with Nikita anyway.' Denis cuts in plainly around Kostya and leans on "ravno" ("the same") to give the whole sentence its punch.
+- 'And Sveta is already hinting at a wedding to me right away.' Discussing a wedding during the talk, Denis reaches for the Russian word "namekayet" ("to hint, imply", built from "namekat") right at the center of the line.
+- 'Can you imagine, she barely mentions it in the morning.' Denis speaks up dryly around Kostya, grounding the moment in plain reality.
+- 'And right away there is a call from a jewelry store.' Showing how jewelry things are on the spot, Denis brings in "yuvelirnogo" ("jewelry", from "yuvelirnyy") as the key Russian word here.
+- 'They say that I won a big discount on rings.' Bringing up a big discount beside Kostya, Denis chooses "bolshuyu" ("large, big", from the root "bolshoy") so Kostya hears the exact meaning.
+- 'What a coincidence, and is this discount big?' Kostya questions plainly why things suddenly took this turn between them.
+- 'Fifty percent, in my opinion that is just very cool!' Bringing up the percent in this beat, Denis brings in "protsentov" ("percent", from "protsent") as the key Russian word here.

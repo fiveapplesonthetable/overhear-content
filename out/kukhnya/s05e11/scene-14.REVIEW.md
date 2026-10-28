@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will bring you something to drink.' Max delivers that reply with candor: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'An excellent plan! That way she will definitely notice you.' Max weighs in frankly on the spot, testing Lyova's reaction in the middle of the exchange.
-- 'What?' Lyova lays out the comeback beside Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Lyova, stand and watch like this for a couple more days.' Max responds bluntly as they talk, grounding the moment in plain reality.
-- 'How this guy over here hits on Gulya.' Max continues briskly to be clear, letting the remark speak for itself.
-- 'I have no chances against him.' Lyova centers one colorful piece with Max: "shansov" means "chances" (from "shans"), giving the line its exact edge.
-- 'Lyova, imagine that you have one day left to live.' Max spotlights one direct word in reply: "predstav" means "imagine" (from "predstavit"), giving the line its exact edge.
-- 'You would do everything that you wanted!' Max weighs in steadily during the talk, watching Lyova's face to see how the news lands.
-- 'Because tomorrow will no longer come.' Max chooses one vivid choice in earnest: "potomu" means "because", and it carries the main weight of what Max is saying.
-- 'So why wait? Take action!' Max puts the remark frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'Do you think it is worth trying?' Lyova presses wryly what Max is actually getting at here.
-- 'Of course, go to her!' Max highlights this vivid piece for Lyova: "konechno" means "of course", and it carries the main weight of what Max is saying.
+- 'I will bring you something to drink.' Speaking calmly on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'An excellent plan! That way she will definitely notice you.' Max counters frankly across the room, letting the remark speak for itself.
+- 'What?' Cutting in dryly with Max, Lyova keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Lyova, stand and watch like this for a couple more days.' Highlighting a couple in the exchange, Max lands on "posmotrish" ("you will see", built on "posmotret") to keep the statement grounded.
+- 'How this guy over here hits on Gulya.' Max follows up briskly during the talk, leaving no doubt about where he stands.
+- 'I have no chances against him.' Underscoring the chances around Max, Lyova leans on "shansov" ("chances", a form of "shans") to give the remark its edge.
+- 'Lyova, imagine that you have one day left to live.' Max pushes back frankly without any doubt, refusing to let the moment slip past.
+- 'You would do everything that you wanted!' Max speaks steadily with a nod, letting the remark speak for itself.
+- 'Because tomorrow will no longer come.' Max chimes in boldly with Lyova and leans on "potomu" ("because") to give the whole sentence its punch.
+- 'So why wait? Take action!' Holding firm warmly around Lyova, Max keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'Do you think it is worth trying?' Lyova presses wryly while looking straight at Max here.
+- 'Of course, go to her!' Max casually speaks this confirmation in one quick breath using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".

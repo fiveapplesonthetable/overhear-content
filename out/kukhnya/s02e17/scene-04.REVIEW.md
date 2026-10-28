@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, what, are you asleep on your feet?' Max picks one vivid term on cue: "spish" means "are sleeping" (from "spat"), giving the line its exact edge.
-- 'Listen, Kostya, I am sorry about last night, okay?' Kostya brings that answer calmly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nastya is on board.
-- 'I did not mean for things with Ilya to turn out like that...' Max reacts right away with a shrug, keeping the focus on what actually matters here.
-- 'Yeah, everything is totally fine.' Max highlights one memorable element at once: "normalno" means "fine, OK", and it carries the main weight of what Max is saying.
-- 'Here, this is for you.' Kostya sends this update around Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Max, do not get upset.' Nastya responds promptly in their talk, letting the remark speak for itself.
-- 'I mean, just drink it.' Max focuses on one memorable touch on cue: "smysle" means "sense" (from "smysl"), giving the line its exact edge.
-- 'Ah, thank you.' Kostya phrases the comment toward Nastya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'And how is Sasha doing over there?' Nastya tests candidly how Kostya expects that to work in practice.
-- 'I did not see anything at all.' Max focuses on one pointed touch on cue: "videl" means "saw, have seen" (from "videt"), giving the line its exact edge.
-- 'What do you mean...' Kostya offers the comment right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Well, just like that.' Nastya speaks candidly facing Max, leaving no doubt about where she stands.
-- 'Listen to me, Max.' Kostya chooses this vivid choice in earnest: "poslushay" means "listen" (from "poslushat"), giving the line its exact edge.
+- 'Kostyan, what, are you asleep on your feet?' Max opens up warmly with Kostya and uses "spish" ("are sleeping", from "spat") to make the point stick.
+- 'Listen, Kostya, I am sorry about last night, okay?' Speaking quietly at once, Kostya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'I did not mean for things with Ilya to turn out like that...' Max answers right away with a shrug, watching Kostya's face to see how the news lands.
+- 'Yeah, everything is totally fine.' Max jumps in naturally in front of Kostya and chooses "normalno" ("fine, OK") so Kostya gets the point right away.
+- 'Here, this is for you.' Looking over directly during the talk, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Max, do not get upset.' Nastya responds promptly without a pause, letting the remark speak for itself.
+- 'I mean, just drink it.' Turning to the sense in front of Nastya, Max leans on "smysle" ("sense", a form of "smysl") to give the remark its edge.
+- 'Ah, thank you.' Kostya naturally uses this word of thanks beside Max using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'And how is Sasha doing over there?' Nastya tests candidly while looking straight at Max here.
+- 'I did not see anything at all.' Max chimes in quietly in this beat and reaches for the Russian word "videl" ("saw, have seen", built from "videt") right at the center of the line.
+- 'What do you mean...' Touching on the sense right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Well, just like that.' Nastya counters candidly with a nod, so Kostya knows she is not just making small talk.
+- 'Listen to me, Max.' Kostya follows up sharply right here and lands on "poslushay" ("listen", built on "poslushat") to keep the statement grounded.

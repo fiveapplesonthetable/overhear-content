@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In everything that happens to us, look for the woman.' Max reaches for one vivid choice right here: "zhenshchinu" means "a woman" (from "zhenshchina"), giving the line its exact edge.
-- 'A woman can do anything at all to a man.' Nagiyev holds firm calmly hearing Max, letting the remark speak for itself.
-- 'You are welcome, handsome.' Kristina replies dryly with a smile, shifting the whole mood of the room in a single beat.
-- 'That is exactly how it will be.' Max gives the reply briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I bet you will never guess?' Nagiyev directs that point without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Kristina purely through rising pitch at the end.
-- 'Ainura does not care when she walks in, she has a schedule.' Kristina cuts in at once beside Nagiyev, steering the talk right where she wants it.
-- 'You are celebrating for nothing.' Max features one practical term for Kristina: "raduyeshsya" means "to rejoice" (from "radovatsya"), giving the line its exact edge.
-- 'Do you not know how jealous the owner is?' Nagiyev directs the reply in earnest: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Get this freak out of my kitchen.' Kristina cuts in openly without a pause, bringing things back to earth after the buildup.
-- 'And go prepare the desserts.' Max centers this key piece toward Nagiyev: "deserty" means "desserts" (from "desert"), giving the line its exact edge.
-- 'Did you understand me?' Nagiyev directs the reply beside Kristina: Russian keeps the exact word order of a normal statement here, turning it into a question for Kristina purely through rising pitch at the end.
-- 'Got it, got it.' Max speaks promptly across the room, before Nagiyev can change the subject.
-- 'And back then they were not even married yet.' Max chooses one concrete expression toward Kristina: "zhenaty" means "married" (from "zhenatyy"), giving the line its exact edge.
+- 'In everything that happens to us, look for the woman.' Touching on the woman around Nagiyev, Max leans on "zhenshchinu" ("a woman", a form of "zhenshchina") to give the remark its edge.
+- 'A woman can do anything at all to a man.' Pointing to a woman around Max, Nagiyev leans on "zhenshchina" ("woman") to give the whole sentence its punch.
+- 'You are welcome, handsome.' Kristina jumps in dryly toward Nagiyev, refusing to let the moment slip past.
+- 'That is exactly how it will be.' Speaking evenly before Kristina, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I bet you will never guess?' Answering plainly in this beat, Nagiyev keeps normal statement word order here, turning the line into a question for Kristina purely through rising pitch.
+- 'Ainura does not care when she walks in, she has a schedule.' Kristina answers at once with a shrug, watching Nagiyev's face to see how the news lands.
+- 'You are celebrating for nothing.' Max fires back boldly during the talk and uses "raduyeshsya" ("to rejoice", from "radovatsya") to make the point stick.
+- 'Do you not know how jealous the owner is?' Pointing out how jealous things are during the talk, Nagiyev puts the question word "chto" right at the start so Kristina hears the focus immediately.
+- 'Get this freak out of my kitchen.' Kristina pushes back openly without a pause, testing Nagiyev's reaction in the middle of the exchange.
+- 'And go prepare the desserts.' Underscoring the desserts with Kristina, Max chooses "deserty" ("desserts", from the root "desert") so Kristina hears the exact meaning.
+- 'Did you understand me?' Pushing back earnestly beside Max, Nagiyev keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Got it, got it.' Max speaks promptly in this moment, before Nagiyev can change the subject.
+- 'And back then they were not even married yet.' Max continues frankly right here and reaches for the Russian word "zhenaty" ("married", built from "zhenatyy") right at the center of the line.

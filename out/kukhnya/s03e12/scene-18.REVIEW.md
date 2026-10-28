@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I feel so sorry for that old man from the second floor.' Lyova follows up steadily without holding back, grounding the moment in plain reality.
-- 'He was a grumpy man, of course.' Barinov centers one key element in reply: "vrednyy" means "annoying, difficult", and it carries the main weight of what Barinov is saying.
-- 'Dima, why did you kill the old man?' Barinov drops the remark briskly now: putting the question word "zachem" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'I did not kill any old man!' Nagiyev continues evenly across the room, leaving no doubt about where he stands.
-- 'I saw myself how they were just loading him into the ambulance.' Barinov highlights one vivid piece right here: "skoruyu" means "ambulance" (from "skoraya"), giving the line its exact edge.
-- 'I did not touch him with a finger, I swear to you!' Nagiyev uses one practical expression in earnest: "paltsem" means "finger" (from "palets"), giving the line its exact edge.
-- 'Kirill Ilyich, you are alive! I beg your forgiveness!' Nagiyev fires back briskly watching Barinov, to clear the air between them once and for all.
-- 'I accidentally disgraced the honor of a Soviet officer.' Nagiyev points to one pointed term right here: "sovetskogo" means "Soviet" (from "sovetskiy"), giving the line its exact edge.
-- 'I beg your forgiveness, this will not happen again!' Nagiyev jumps in honestly without any doubt, leaving no doubt about where he stands.
-- 'Well then, peace? — A truce!' Barinov challenges sharply before Nagiyev can change the subject.
-- 'Chef, we just questioned the paramedic outside.' Lyova frames this vivid word right here: "rassprosili" means "questioned" (from "rassprosit"), giving the line its exact edge.
-- 'Nobody killed the old man, it was just an accident.' Lyova directs that line before Nagiyev: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I feel so sorry for that old man from the second floor.' Lyova chimes in steadily in this moment, testing Barinov's reaction in the middle of the exchange.
+- 'He was a grumpy man, of course.' Barinov fires back vividly right here and brings in "vrednyy" ("annoying, difficult") to make the meaning unmistakable.
+- 'Dima, why did you kill the old man?' Holding firm evenly in this beat, Barinov puts the question word "zachem" right at the start so Nagiyev hears the focus immediately.
+- 'I did not kill any old man!' Nagiyev continues evenly with a smile, keeping the focus on what actually matters here.
+- 'I saw myself how they were just loading him into the ambulance.' Touching on the ambulance with Nagiyev, Barinov uses "skoruyu" ("ambulance", from "skoraya") to make the point stick.
+- 'I did not touch him with a finger, I swear to you!' Nagiyev speaks sharply across the room, leaving no doubt about where he stands.
+- 'Kirill Ilyich, you are alive! I beg your forgiveness!' Nagiyev fires back briskly facing Barinov, to clear the air between them once and for all.
+- 'I accidentally disgraced the honor of a Soviet officer.' Emphasizing the honor in this beat, Nagiyev brings in "sovetskogo" ("Soviet", from "sovetskiy") as the key Russian word here.
+- 'I beg your forgiveness, this will not happen again!' Touching on the forgiveness in front of Barinov, Nagiyev reaches for the Russian word "proshcheniya" ("forgiveness", built from "proshcheniye") right at the center of the line.
+- 'Well then, peace? — A truce!' Barinov challenges sharply where this conversation is heading next.
+- 'Chef, we just questioned the paramedic outside.' Touching on the orderly before Barinov, Lyova lands on "sanitara" ("orderly, paramedic", built on "sanitar") to keep the statement grounded.
+- 'Nobody killed the old man, it was just an accident.' Turning to the grandfathers on the spot, Lyova uses the little word "prosto" ("simply, just") to make the point sound effortless.

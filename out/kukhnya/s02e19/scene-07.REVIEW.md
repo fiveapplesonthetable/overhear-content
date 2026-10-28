@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does it really suit me?' Barinov points to one practical expression on cue: "pravda" means "honestly", and it carries the main weight of what Barinov is saying.
-- 'You are not allowed in here.' Vika drops the remark plainly here: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'Vika, stop this circus right now.' Barinov follows up dryly hearing Vika, steering the talk right where he wants it.
-- 'Vitya, you are the head chef of this restaurant.' Vika anchors this telling piece in reply: "shef-povar" means "head chef", and it carries the main weight of what Vika is saying.
-- 'Do you think this behavior is normal?' Barinov phrases that answer with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Well, I was not cooking food inside the restroom.' Vika pushes back honestly without any doubt, without trying to dress up how she really feels.
-- 'Let us go back to the kitchen.' Barinov favors one practical piece with Vika: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'She is my very first regular client.' Vika states that point with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Got it? Well?' Barinov inquires deadpan what Vika is actually getting at here.
-- 'Tell her two minutes and everything will be ready.' Vika highlights one key choice in earnest: "minuty" means "minutes" (from "minuta"), giving the line its exact edge.
-- 'Just look at what a man he is.' Barinov puts this update without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'He can satisfy a woman in two minutes flat.' Vika speaks up earnestly in this moment, making her position completely clear.
-- 'Oh, get out of here already.' Barinov uses one key term in earnest: "davay" means "let's" (from "davat"), giving the line its exact edge.
+- 'Does it really suit me?' Focusing on the honestly before Vika, Barinov centers the remark on "pravda" ("honestly") without any extra fuss.
+- 'You are not allowed in here.' Stepping in readily during the talk, Vika leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'Vika, stop this circus right now.' Barinov pushes back dryly without a pause, watching Vika's face to see how the news lands.
+- 'Vitya, you are the head chef of this restaurant.' Focusing on the head beside Barinov, Vika centers the remark on "shef-povar" ("head chef") without any extra fuss.
+- 'Do you think this behavior is normal?' Jumping in frankly during the talk, Barinov keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Well, I was not cooking food inside the restroom.' Vika opens up honestly with Barinov, keeping the focus on what actually matters here.
+- 'Let us go back to the kitchen.' Addressing the kitchen during the talk, Barinov brings in "kukhnyu" ("kitchen", from "kukhnya") as the key Russian word here.
+- 'She is my very first regular client.' Highlighting how first she is around Barinov, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Got it? Well?' Barinov inquires deadpan to see how Vika will answer on the spot.
+- 'Tell her two minutes and everything will be ready.' Mentioning the minutes during the talk, Vika reaches for the Russian word "minuty" ("minutes", built from "minuta") right at the center of the line.
+- 'Just look at what a man he is.' Checking on a man on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'He can satisfy a woman in two minutes flat.' Vika speaks earnestly with a smile, grounding the moment in plain reality.
+- 'Oh, get out of here already.' Barinov opens up warmly during the talk and centers the thought on "davay" ("let's", from "davat") without wasting a word.

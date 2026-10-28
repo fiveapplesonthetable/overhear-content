@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Too bad there is no sound.' Max follows up evenly across the room, steering the talk right where he wants it.
-- 'Maxim, if you say that one more time, I will be offended.' Kostya highlights one clear piece on cue: "skazhesh" means "will you say" (from "skazat"), giving the line its exact edge.
-- 'And who gave you permission to spy on him?' Rodion shares that reply to Kostya: putting the question word "kto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Besides, you have no right to do that.' Max weighs in steadily with a shrug, watching Rodion's face to see how the news lands.
-- 'Does he have the right to use your face cream?' Kostya favors this direct word with Max: "pravo" means "right", and it carries the main weight of what Kostya is saying.
-- 'Man, that cream costs a fortune...' Rodion hands over that line at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Although if he needs it, let him use it.' Max jumps in dryly without holding back, making his position completely clear.
-- 'And all because of that.' Kostya favors one sharp piece right here: "potomu" means "because", and it carries the main weight of what Kostya is saying.
-- 'Max, listen, I am begging you as a friend, okay?' Rodion offers the comment for Kostya: putting the question word "kak" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Good night, Maxim Leonidovich.' Kostya proceeds warmly without holding back, letting the remark speak for itself.
-- 'By the way, I hope you do not mind that I sleep without underwear.' Kostya features this sharp word for Max: "nizhnego" means "lower, bottom" (from "nizhniy"), giving the line its exact edge.
-- 'I am simply accustomed to freedom in all things.' Rodion shares the reply right away: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'He snores so loudly.' Max answers dryly facing Kostya, saying out loud what both of them already know.
+- 'Too bad there is no sound.' Max answers evenly with a shrug, without trying to dress up how he really feels.
+- 'Maxim, if you say that one more time, I will be offended.' Kostya follows up evenly beside Max and chooses "skazhesh" ("will you say", from the root "skazat") so Max hears the exact meaning.
+- 'And who gave you permission to spy on him?' Answering evenly right here, Rodion puts the question word "kto" right at the start so Max hears the focus immediately.
+- 'Besides, you have no right to do that.' Max jumps in steadily around Rodion, steering the talk right where he wants it.
+- 'Does he have the right to use your face cream?' Talking about the right during the talk, Kostya leans on "pravo" ("right") to give the whole sentence its punch.
+- 'Man, that cream costs a fortune...' Touching on the damn beside Kostya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Although if he needs it, let him use it.' Max counters dryly toward Rodion, letting the remark speak for itself.
+- 'And all because of that.' Kostya steps in evenly to Max and brings in "potomu" ("because") to make the meaning unmistakable.
+- 'Max, listen, I am begging you as a friend, okay?' Following up boldly in front of Max, Rodion puts the question word "kak" right at the start so Max hears the focus immediately.
+- 'Good night, Maxim Leonidovich.' Kostya replies warmly facing Max, testing Max's reaction in the middle of the exchange.
+- 'By the way, I hope you do not mind that I sleep without underwear.' Underscoring the linen in the exchange, Kostya lands on "nizhnego" ("lower, bottom", built on "nizhniy") to keep the statement grounded.
+- 'I am simply accustomed to freedom in all things.' Addressing the freedom to Kostya, Rodion uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'He snores so loudly.' Max cuts in dryly with a nod, shifting the mood of the conversation in a single beat.

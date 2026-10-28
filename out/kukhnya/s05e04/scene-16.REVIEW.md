@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, I am not hungry.' Eleonora reaches for this telling piece with Denis: "spasibo" means "thank you", and it carries the main weight of what Eleonora is saying.
-- 'I do not eat after six.' Eleonora speaks at once around Katya, saying out loud what both of them already know.
-- 'Katya, please forgive me.' Denis pushes back sharply toward Eleonora, before Eleonora can change the subject.
-- 'I really do have tons of work.' Denis points to one familiar expression in earnest: "pravda" means "honestly", and it carries the main weight of what Denis is saying.
-- 'Alright, I am waiting for you.' Katya sends this point without pause: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Denis is on board.
-- 'Come to the suite quickly.' Katya weighs in boldly as they talk, to clear the air between them once and for all.
-- 'Kiss me.' Katya highlights this direct detail with Denis: "potseluy" means "kiss" (from "potselovat"), giving the line its exact edge.
-- 'What are you doing, huh?' Denis gives this point beside Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'The Chef will kill me.' Denis stands firm steadily watching Eleonora, bringing things back to earth after the buildup.
-- 'Calm down, I am talking to Siri.' Denis anchors one sharp word at once: "spokoyno" means "calmly", and it carries the main weight of what Denis is saying.
-- 'You lie right here for now.' Katya offers that reply with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Lie there for now and work up an appetite.' Katya proceeds promptly without holding back, grounding the moment in plain reality.
+- 'Thank you, I am not hungry.' Eleonora readily directs this word of thanks in one quick breath using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I do not eat after six.' Eleonora counters at once without any doubt, testing Denis's reaction in the middle of the exchange.
+- 'Katya, please forgive me.' Denis firmly chooses this personal apology to Eleonora using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'I really do have tons of work.' Focusing on the honestly around Katya, Denis chooses "pravda" ("honestly") so Katya gets the point right away.
+- 'Alright, I am waiting for you.' Turning to Denis smoothly beside Denis, Katya says "ladno" ("alright"), built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Come to the suite quickly.' Katya speaks boldly facing Denis, bringing things back to earth after the buildup.
+- 'Kiss me.' Katya follows up decisively before Denis and lands on "potseluy" ("kiss", built on "potselovat") to keep the statement grounded.
+- 'What are you doing, huh?' Reacting evenly around Katya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'The Chef will kill me.' Denis speaks up steadily without a pause, without trying to dress up how he really feels.
+- 'Calm down, I am talking to Siri.' Denis counters briskly to Katya and leans on "spokoyno" ("calmly") to give the whole sentence its punch.
+- 'You lie right here for now.' Katya warmly directs this casual farewell as they meet using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'Lie there for now and work up an appetite.' Katya replies promptly in their talk, making her position completely clear.

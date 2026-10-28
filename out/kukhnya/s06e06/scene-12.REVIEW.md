@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Put me back on the table quickly!' Lyova reacts boldly as they talk, refusing to let the moment slip past.
-- 'Lyova, hurry up, I have no time!' Barinov underscores one concrete expression in earnest: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
-- 'Read and sign the supply request.' Lyova opens up pointedly to be clear, steering the talk right where he wants it.
-- 'What is there to read, I trust you.' Barinov fires back openly without a pause, keeping the focus on what actually matters here.
-- 'Give me the pen here, I will sign quickly.' Barinov features one sharp choice in earnest: "ruchku" means "a pen" (from "ruchka"), giving the line its exact edge.
-- 'Hurry up and look for that packet!' Denis aims that thought toward Lyova: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'I put the packet inside his suitcase.' Lyova reacts openly to settle things, watching Barinov's face to see how the news lands.
-- 'And the Frenchman locked the suitcase.' Lyova spotlights one loaded piece with Denis: "frantsuz" means "Frenchman", and it carries the main weight of what Lyova is saying.
-- 'Then we will carry out the whole suitcase together.' Denis reacts pointedly with a shrug, making his position completely clear.
-- 'Where on earth did I put my key?' Barinov wonders point-blank how Lyova expects that to work in practice.
-- 'Tell me, have the police arrived here already?' Barinov leans on one clear term on cue: "politsiya" means "police", and it carries the main weight of what Barinov is saying.
-- 'Yes, the receptionist led them straight upstairs.' Lyova speaks up right away with a nod, to clear the air between them once and for all.
+- 'Put me back on the table quickly!' Lyova reacts boldly watching Barinov, bringing things back to earth after the buildup.
+- 'Lyova, hurry up, I have no time!' Barinov continues candidly right here and reaches for the Russian word "bystreye" ("faster", built from "bystro") right at the center of the line.
+- 'Read and sign the supply request.' Talking about the groceries to Barinov, Lyova brings in "produkty" ("groceries", from "produkt") as the key Russian word here.
+- 'What is there to read, I trust you.' Barinov fires back openly in this moment, without trying to dress up how he really feels.
+- 'Give me the pen here, I will sign quickly.' Highlighting the pen to Denis, Barinov lands on "ruchku" ("a pen", built on "ruchka") to keep the statement grounded.
+- 'Hurry up and look for that packet!' Returning to the plastic bag with Barinov, Denis starts with "davay" ("come on, let's") to invite Barinov right into the action.
+- 'I put the packet inside his suitcase.' Lyova opens up openly with a nod, keeping the focus on what actually matters here.
+- 'And the Frenchman locked the suitcase.' Discussing the suitcase at once, Lyova centers the remark on "frantsuz" ("Frenchman") without any extra fuss.
+- 'Then we will carry out the whole suitcase together.' Emphasizing the whole suitcase in front of Lyova, Denis brings in "chemodan" ("suitcase, luggage bag") to make the meaning unmistakable.
+- 'Where on earth did I put my key?' Barinov wonders point-blank how Denis expects that to work in practice.
+- 'Tell me, have the police arrived here already?' Talking about the police in this beat, Barinov centers the remark on "politsiya" ("police") without any extra fuss.
+- 'Yes, the receptionist led them straight upstairs.' Touching on the receptionist around Barinov, Lyova reaches for the Russian word "dezhurnyy" ("receptionist") right at the heart of the line.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, where is our snake?' Barinov colors one loaded choice for Nagiyev: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'But you cooked it yourself!' Senya focuses on one memorable touch on cue: "prigotovili" means "cooked, prepared" (from "prigotovit"), giving the line its exact edge.
+- 'Wait, where is our snake?' Emphasizing the kitchen to Senya, Barinov centers the thought on "podozhdi" ("wait", from "podozhdat") without wasting a word.
+- 'But you cooked it yourself!' Senya speaks up dryly with a shrug, letting the remark speak for itself.
 - 'Do I really look like a villain?' Barinov quizzes point-blank if there is more going on behind the scenes.
-- 'I cooked an ordinary eel today.' Barinov anchors one pointed piece with Senya: "obychnogo" means "ordinary, usual" (from "obychnyy"), giving the line its exact edge.
-- 'And I hid the live snake in a pot.' Barinov stands firm earnestly with a sigh, shifting the whole mood of the room in a single beat.
-- 'It pushed the lid open and crawled away!' Senya chimes in dryly to be clear, steering the talk right where he wants it.
-- 'Now quickly look for it everywhere!' Barinov focuses on this sharp piece in reply: "bystro" means "quickly", and it carries the main weight of what Barinov is saying.
-- 'Senya, go on and search under the tables.' Barinov directs this line around Senya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Go on, crawl around and search carefully!' Barinov replies quietly with a sigh, refusing to let the moment slip past.
-- 'Come on, ladies and gentlemen, let's fill our glasses!' Nagiyev colors one practical term in earnest: "gospoda" means "gentlemen" (from "gospodin"), giving the line its exact edge.
-- 'Let's all have a drink together right now.' Nagiyev aims that reply frankly here: the word "davayte" is the polite or group version of "let's", inviting Barinov into the plan right away.
-- 'Where could that snake have crawled off to?' Barinov wonders openly where this conversation is heading next.
+- 'I cooked an ordinary eel today.' Pointing to an ordinary eel in the exchange, Barinov centers the thought on "obychnogo" ("ordinary, usual", from "obychnyy") without wasting a word.
+- 'And I hid the live snake in a pot.' Touching on a pot beside Senya, Barinov brings in "kastryulyu" ("pot, saucepan", from "kastryulya") as the key Russian word here.
+- 'It pushed the lid open and crawled away!' Senya answers dryly in their talk, so Barinov knows he is not just making small talk.
+- 'Now quickly look for it everywhere!' Barinov speaks firmly beside Senya and leans on "bystro" ("quickly") to give the whole sentence its punch.
+- 'Senya, go on and search under the tables.' Checking on the table during the talk, Barinov starts with "davay" ("come on, let's") to invite Senya right into the action.
+- 'Go on, crawl around and search carefully!' Barinov counters quietly with Nagiyev, steering the talk right where he wants it.
+- 'Come on, ladies and gentlemen, let's fill our glasses!' Focusing on the gentlemen right here, Nagiyev brings in "gospoda" ("gentlemen", from "gospodin") as the key Russian word here.
+- 'Let's all have a drink together right now.' Cutting in promptly before Barinov, Nagiyev uses the polite or group form "davayte" ("let's") to bring Barinov into the plan.
+- 'Where could that snake have crawled off to?' Barinov wonders openly whether Nagiyev really thought this through.

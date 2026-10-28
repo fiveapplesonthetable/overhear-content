@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, so you are working for Louis today?' Senya chooses one clear touch for Denis: "rabotayesh" means "are working" (from "rabotat"), giving the line its exact edge.
-- 'Then give me two French pastries, please.' Louis delivers that answer without pause: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'What trouble, Louis labeled everything in a foreign language!' Denis steps in plainly around Louis, saying out loud what both of them already know.
-- 'And how am I to understand which dessert is where?' Denis emphasizes one concrete touch for Senya: "desert" means "dessert", and it carries the main weight of what Denis is saying.
-- 'Denis, I also need a cherry tart with cream!' Louis cuts in briskly during the talk, before Denis can change the subject.
-- 'Great, now some complicated tart on top of that!' Denis jumps in bluntly on the spot, leaving no doubt about where he stands.
-- 'Listen, let me quickly help you figure it out.' Senya spotlights this sharp choice right here: "razobratsya" means "to deal with", and it carries the main weight of what Senya is saying.
-- 'Senya, tell me, which of these pastries should I hand out?' Denis sends the reply around Senya: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Right now we will look closely and taste everything.' Senya pushes back candidly to settle things, so Denis knows he is not just making small talk.
-- 'No, this is definitely not that pastry, give me another.' Senya colors one colorful choice right here: "pirozhnoye" means "pastries, cakes", and it carries the main weight of what Senya is saying.
-- 'What are you doing, you ate everything!' Denis centers this clear term in earnest: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'Go away from here, Senya, I will figure it out myself!' Denis stands firm openly around Senya, letting the remark speak for itself.
+- 'Denis, so you are working for Louis today?' Senya replies readily beside Denis and leans on "rabotayesh" ("are working", a form of "rabotat") to give the remark its edge.
+- 'Then give me two French pastries, please.' Talking about the pastry on the spot, Louis chooses "frantsuzskikh" ("French", from the root "frantsuzskiy") so Senya hears the exact meaning.
+- 'What trouble, Louis labeled everything in a foreign language!' Denis counters plainly with Louis, keeping the focus on what actually matters here.
+- 'And how am I to understand which dessert is where?' Turning to the dessert right here, Denis leans on "desert" ("dessert") to give the whole sentence its punch.
+- 'Denis, I also need a cherry tart with cream!' Discussing the cream in front of Denis, Louis lands on "vishnyovyy" ("cherry") as the key everyday word here.
+- 'Great, now some complicated tart on top of that!' Denis jumps in bluntly without a pause, keeping the focus on what actually matters here.
+- 'Listen, let me quickly help you figure it out.' Senya jumps in firmly beside Denis and centers the remark on "razobratsya" ("to deal with") without any extra fuss.
+- 'Senya, tell me, which of these pastries should I hand out?' Bringing up the pastry beside Senya, Denis leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Right now we will look closely and taste everything.' Senya answers candidly in this moment, before Denis can change the subject.
+- 'No, this is definitely not that pastry, give me another.' Focusing on the pastries around Denis, Senya brings in "pirozhnoye" ("pastries, cakes") to make the meaning unmistakable.
+- 'What are you doing, you ate everything!' Denis continues earnestly beside Senya, without trying to dress up how he really feels.
+- 'Go away from here, Senya, I will figure it out myself!' Denis speaks up openly watching Senya, refusing to let the moment slip past.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Otherwise everything is fine with us.' Nastya voices this point frankly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'And where is my grandson right now?' The guest asks eagerly before Nastya can change the subject.
-- 'Kostya and his dad went to the zoo.' Nastya centers this clear expression toward the guest: "zoopark" means "zoo", and it carries the main weight of what Nastya is saying.
-- 'Wait, with what dad?' The guest makes the comeback at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Did Kostya really not tell you?' Nastya questions plainly whether the guest really thought this through.
-- 'I recently found his dad.' Nastya frames one vivid expression toward the guest: "nedavno" means "returned", and it carries the main weight of what Nastya is saying.
-- 'Kostik is so very glad now.' Nastya shares the reaction right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Why, this is not Kostya's father!' The guest answers briskly hearing Nastya, so Nastya knows he is not just making small talk.
-- 'How could it not be him?' Nastya picks one colorful expression with the guest: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'Tell me for sure, is it him or not?' Nastya delivers this line on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
-- 'Mom, I will call you back later.' Nastya cuts in steadily hearing the guest, bringing things back to earth after the buildup.
-- 'Nastya, set the table quickly!' The guest grounds one direct element in earnest: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
+- 'Otherwise everything is fine with us.' Emphasizing how remaining things are at once, Nastya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'And where is my grandson right now?' The guest asks eagerly where this conversation is heading next.
+- 'Kostya and his dad went to the zoo.' Highlighting the zoo in front of the guest, Nastya leans on "zoopark" ("zoo") to give the whole sentence its punch.
+- 'Wait, with what dad?' Returning to the dad during the talk, the guest keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Did Kostya really not tell you?' Nastya questions plainly about what the guest just brought up.
+- 'I recently found his dad.' Bringing up the daddy around the guest, Nastya chooses "nedavno" ("returned") so the guest gets the point right away.
+- 'Kostik is so very glad now.' Replying naturally at once, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Why, this is not Kostya's father!' The guest pushes back briskly watching Nastya, before Nastya can change the subject.
+- 'How could it not be him?' Looking over briskly on the spot, Nastya puts the question word "kak" right at the start so the guest hears the focus immediately.
+- 'Tell me for sure, is it him or not?' Jumping in quietly to the guest, Nastya keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.
+- 'Mom, I will call you back later.' Nastya responds steadily across the room, before the guest can change the subject.
+- 'Nastya, set the table quickly!' Talking about the table with Nastya, the guest centers the thought on "bystreye" ("faster", from "bystro") without wasting a word.

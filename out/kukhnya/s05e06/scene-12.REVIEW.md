@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not before the wedding.' Max stands firm dryly in their talk, leaving no doubt about where he stands.
-- 'Has anyone seen Katya?' Barinov reaches for one sharp touch on cue: "videl" means "saw, have seen" (from "videt"), giving the line its exact edge.
-- 'Chef, were you in the walk-in cooler?' Max sends that point in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Buzz off! Where is Katya?' Barinov questions eagerly where this conversation is heading next.
-- 'We invite everyone to our wedding.' Katya grounds one classic touch for Barinov: "priglashayem" means "to invite" (from "priglashat"), giving the line its exact edge.
-- 'Katya, what is this circus?' Barinov states the comeback frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Victor Petrovich, I ask you for your daughter's hand.' Max stands firm frankly in this moment, bringing things back to earth after the buildup.
-- 'Rookie, by the way, you are still married.' Barinov colors one clear choice with Max: "prochim" means "other" (from "prochiy"), giving the line its exact edge.
-- 'We will get divorced in a month, and I will marry your daughter.' Max shares this answer without pause: the "-sya" ending on "razvedyomsya" ("will get divorced") turns the action inward or makes it happen between people naturally.
-- 'I know that Nagiyev is having a wedding, but not with Vika.' Barinov counters frankly before Max, without trying to dress up how he really feels.
-- 'Vika is pregnant, and he is marrying another woman?' Max spotlights one loaded detail with Barinov: "beremenna" means "pregnant" (from "beremennyy"), giving the line its exact edge.
-- 'Katya, sorry, everything is off, I cannot marry you.' Max makes the remark plainly here: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'Not before the wedding.' Max counters dryly without holding back, leaving no doubt about where he stands.
+- 'Has anyone seen Katya?' Barinov pushes back quietly at once and puts the weight on "videl" ("saw, have seen", from "videt") as the exchange unfolds.
+- 'Chef, were you in the walk-in cooler?' Dwelling on the fridge in front of Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Buzz off! Where is Katya?' Barinov questions eagerly why things suddenly took this turn between them.
+- 'We invite everyone to our wedding.' Talking about her wedding beside Barinov, Katya uses "priglashayem" ("to invite", from "priglashat") to make the point stick.
+- 'Katya, what is this circus?' Bringing up the circus before Katya, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Victor Petrovich, I ask you for your daughter's hand.' Max speaks up frankly without holding back, watching Barinov's face to see how the news lands.
+- 'Rookie, by the way, you are still married.' Stressing how married Max is in this beat, Barinov brings in "zhenat" ("married", from "zhenatyy") as the key Russian word here.
+- 'We will get divorced in a month, and I will marry your daughter.' Discussing a month during the talk, the "-sya" ending on "razvedyomsya" ("will get divorced") marks an action that unfolds mutually or turns back on the speaker.
+- 'I know that Nagiyev is having a wedding, but not with Vika.' Barinov replies frankly without a pause, watching Max's face to see how the news lands.
+- 'Vika is pregnant, and he is marrying another woman?' Describing how pregnant he is at once, Max reaches for the Russian word "beremenna" ("pregnant", built from "beremennyy") right at the center of the line.
+- 'Katya, sorry, everything is off, I cannot marry you.' Reacting plainly on the spot, the "-sya" ending on "otmenyayetsya" ("is canceled") marks an action that unfolds mutually or turns back on the speaker.

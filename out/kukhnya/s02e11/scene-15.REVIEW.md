@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If the chef were in the kitchen, you would be working.' Senya counters plainly in this moment, letting the remark speak for itself.
-- 'If the Chef were in the kitchen.' Barinov stresses this vivid term in reply: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'You would all be working.' Barinov drops that reply in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Everyone here is working.' Vika steps in briskly during the talk, grounding the moment in plain reality.
-- 'Who did you just call that?' Barinov reaches for one vivid touch in reply: "seychas" means "now", and it carries the main weight of what Barinov is saying.
-- 'Why are you meddling in kitchen business anyway?' Vika puts this update right away: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Get out into the dining room, you hen!' Barinov proceeds warmly to settle things, letting the remark speak for itself.
-- 'Watch your mouth.' Vika spotlights one key piece at once: "slovami" means "words" (from "slovo"), giving the line its exact edge.
-- 'Do not butt into an adult conversation!' Barinov states this statement without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'I see, so we cannot work without the Chef, right?' Senya probes wryly to see how Vika will answer on the spot.
-- 'Fine, here is the Chef for you!' Barinov uses one telling touch toward Senya: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
-- 'And everyone else loses their bonus.' Vika jumps in frankly with Senya, grounding the moment in plain reality.
-- 'You stinking freaks.' Barinov pushes back openly with a smile, refusing to let the moment slip past.
+- 'If the chef were in the kitchen, you would be working.' Senya fires back plainly during the talk, so Barinov knows he is not just making small talk.
+- 'If the Chef were in the kitchen.' Touching on the kitchen before Senya, Barinov reaches for the Russian word "kukhne" ("kitchen", built from "kukhnya") right at the center of the line.
+- 'You would all be working.' Leaning in calmly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Everyone here is working.' Vika weighs in briskly with a sigh, to clear the air between them once and for all.
+- 'Who did you just call that?' Barinov proceeds firmly around Vika and lands on "nazval" ("called", built on "nazvat") to keep the statement grounded.
+- 'Why are you meddling in kitchen business anyway?' Turning to the matter around Barinov, Vika drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Get out into the dining room, you hen!' Barinov proceeds warmly with a nod, so Vika knows he is not just making small talk.
+- 'Watch your mouth.' Discussing the words during the talk, Vika puts the weight on "slovami" ("words", from "slovo") as the exchange unfolds.
+- 'Do not butt into an adult conversation!' Bringing up an adult conversation in front of Senya, Barinov keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'I see, so we cannot work without the Chef, right?' Senya probes wryly how Barinov expects that to work in practice.
+- 'Fine, here is the Chef for you!' Barinov answers quietly at once and leans on "khorosho" ("good, fine") to give the whole sentence its punch.
+- 'And everyone else loses their bonus.' Touching on the bonus around Barinov, Vika chooses "ostalnyye" ("remaining, other", from the root "ostalnoy") so Barinov hears the exact meaning.
+- 'You stinking freaks.' Barinov cuts in openly with a smile, making his position completely clear.

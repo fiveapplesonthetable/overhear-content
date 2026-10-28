@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, and what was all this clowning for?' The doctor hands over the comeback to Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Excuse me.' Max follows up briskly beside the doctor, shifting the whole mood of the room in a single beat.
-- 'I really need to know whether this child is mine or not.' Max stresses one colorful detail on cue: "rebyonok" means "a child", and it carries the main weight of what Max is saying.
-- 'My entire life depends on this.' Max responds frankly with a shrug, bringing things back to earth after the buildup.
-- 'Please, tell me, how far along is Vika?' Max probes candidly where this conversation is heading next.
-- 'Victoria Sergeyevna Goncharova.' The doctor delivers that thought at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Sixteen weeks.' The doctor gives that answer around Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Does that work out to less than four months?' Max asks briskly whether the doctor really thought this through.
-- 'Yes.' The doctor states the reply with warmth: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'Congratulations, daddy, a real bouncing boy.' The doctor directs that line without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Daddy, where did you go?' The doctor checks openly in front of Max without any preamble.
-- 'Come back, excuse me, please.' The doctor chooses one familiar word right here: "vernites" means "to come back" (from "vernutsya"), giving the line its exact edge.
+- 'Well, and what was all this clowning for?' Mentioning the clowning with Max, the doctor keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Excuse me.' Max politely drops this polite apology for the doctor using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'I really need to know whether this child is mine or not.' Mentioning the child around the doctor, Max puts the emphasis on "rebyonok" ("a child") in the middle of the talk.
+- 'My entire life depends on this.' Focusing on the life to the doctor, Max chooses "zhizn" ("life") so the doctor gets the point right away.
+- 'Please, tell me, how far along is Vika?' Max probes candidly before the doctor can change the subject.
+- 'Victoria Sergeyevna Goncharova.' Holding firm smoothly on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Sixteen weeks.' Dwelling on the weeks to Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Does that work out to less than four months?' Max asks briskly why things suddenly took this turn between them.
+- 'Yes.' The doctor plainly gives this direct affirmation as they meet using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'Congratulations, daddy, a real bouncing boy.' Checking on the daddy in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Daddy, where did you go?' The doctor checks openly while looking straight at Max here.
+- 'Come back, excuse me, please.' The doctor warmly sends this polite apology while facing Max using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, your jokes are getting weaker and weaker.' Barinov voices that remark without pause: the "-sya" ending on "stanovyatsya" ("to become, to get") turns the action inward or makes it happen between people naturally.
-- 'Vitya, I decided to host a festive dinner today.' Eleonora responds briskly in this moment, so Nagiyev knows she is not just making small talk.
-- 'And what is this special occasion today?' Barinov picks one memorable touch with Eleonora: "sluchay" means "case, occasion", and it carries the main weight of what Barinov is saying.
-- 'Actually today is your daughter's birthday.' Eleonora offers this warning with ease: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Could you really have completely forgotten about it again?' Eleonora quizzes earnestly whether Barinov really thought this through.
-- 'Judging by his eyes, he did not forget.' Nagiyev centers one classic choice with Eleonora: "glazam" means "eye" (from "glaz"), giving the line its exact edge.
-- 'He simply did not know about it at all!' Nagiyev lays out the remark toward Barinov: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Old age is no joy at all, my friends.' Nagiyev fires back openly without a pause, making his position completely clear.
-- 'Let us go from here, my dear, before we catch it.' Nagiyev stresses this key term for Barinov: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
-- 'Quickly make a delicious coffee for the lady and me.' Nagiyev responds at once without any doubt, saying out loud what both of them already know.
-- 'Put two sugars and fresh cream in it.' Nagiyev speaks up briskly without holding back, keeping the focus on what actually matters here.
-- 'And what did you give her last year?' Barinov underscores this vivid choice in reply: "proshlom" means "last, past" (from "proshlyy"), giving the line its exact edge.
+- 'Dima, your jokes are getting weaker and weaker.' Making clear how weaker things are at once, the "-sya" ending on "stanovyatsya" ("to become, to get") marks an action that unfolds mutually or turns back on the speaker.
+- 'Vitya, I decided to host a festive dinner today.' Eleonora chimes in briskly in their talk, bringing things back to earth after the buildup.
+- 'And what is this special occasion today?' Pointing to the case to Eleonora, Barinov centers the remark on "sluchay" ("case, occasion") without any extra fuss.
+- 'Actually today is your daughter's birthday.' Touching on the birth beside Barinov, Eleonora drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Could you really have completely forgotten about it again?' Eleonora quizzes earnestly before Nagiyev can change the subject.
+- 'Judging by his eyes, he did not forget.' Turning to the eye beside Eleonora, Nagiyev reaches for the Russian word "glazam" ("eye", built from "glaz") right at the center of the line.
+- 'He simply did not know about it at all!' Jumping in directly with Eleonora, Nagiyev drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Old age is no joy at all, my friends.' Nagiyev fires back openly beside Eleonora, making his position completely clear.
+- 'Let us go from here, my dear, before we catch it.' Nagiyev speaks up readily with Barinov and reaches for the Russian word "dorogaya" ("expensive", built from "dorogoy") right at the center of the line.
+- 'Quickly make a delicious coffee for the lady and me.' Mentioning a delicious coffee at once, Nagiyev puts the emphasis on "vkusnyy" ("delicious") in the middle of the talk.
+- 'Put two sugars and fresh cream in it.' Nagiyev speaks up briskly without a pause, watching Barinov's face to see how the news lands.
+- 'And what did you give her last year?' Barinov proceeds plainly right here and reaches for the Russian word "proshlom" ("last, past", built from "proshlyy") right at the center of the line.

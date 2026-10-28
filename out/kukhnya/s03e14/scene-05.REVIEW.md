@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, and here comes our hero.' The guest counters firmly to settle things, steering the talk right where he wants it.
-- 'Will you sit down with us for the road?' The guest tests skeptically while looking straight at Max here.
-- 'We are not allowed to sit down in the dining room.' Max stresses one concrete detail right here: "polozheno" means "allowed, supposed to" (from "polozhennyy"), giving the line its exact edge.
-- 'Well then let's step outside and you can lie down.' The guest speaks promptly in this moment, to clear the air between them once and for all.
-- 'Let's go outside, we have something to discuss.' The guest steps in honestly with a smile, saying out loud what both of them already know.
-- 'Alright, only I have a dish in the kitchen.' Max focuses on this vivid piece in reply: "khorosho" means "good, fine", and it carries the main weight of what Max is saying.
-- 'I will finish stuffing it right now and come right out.' Max proceeds sharply hearing Barinov, refusing to let the moment slip past.
-- 'Go on then, we are waiting for you outside.' The guest opens up honestly as they talk, without trying to dress up how he really feels.
-- 'Hey, pops, why did you call?' Max underscores one classic expression in earnest: "zdorovo" means "great, cool", and it carries the main weight of what Max is saying.
-- 'Things turned out rather awkwardly between us yesterday.' Max aims the reaction on cue: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'You need money, and I need my daughter.' Barinov cuts in sharply during the talk, keeping the focus on what actually matters here.
-- 'Got it, and how much money is here?' Max colors this telling term for the guest: "deneg" means "money" (from "dengi"), giving the line its exact edge.
-- 'There is exactly one hundred thousand rubles here.' Barinov directs that reply beside the guest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Do you have any more daughters?' Max asks deadpan as the guest tries to explain the situation.
+- 'Oh, and here comes our hero.' Underscoring his hero before Max, the guest brings in "geroy" ("hero") to make the meaning unmistakable.
+- 'Will you sit down with us for the road?' The guest tests skeptically if there is more going on behind the scenes.
+- 'We are not allowed to sit down in the dining room.' Emphasizing how allowed things are before the guest, Max centers the thought on "polozheno" ("allowed, supposed to", from "polozhennyy") without wasting a word.
+- 'Well then let's step outside and you can lie down.' The guest pushes back sharply in the exchange and uses "prilyazhesh" ("will lie down", from "prilech") to make the point stick.
+- 'Let's go outside, we have something to discuss.' The guest counters honestly in this moment, refusing to let the moment slip past.
+- 'Alright, only I have a dish in the kitchen.' Highlighting a dish during the talk, Max leans on "blyudo" ("dish") to give the whole sentence its punch.
+- 'I will finish stuffing it right now and come right out.' Max speaks vividly at once and centers the thought on "dofarshiruyu" ("will finish stuffing", from "dofarshirovat") without wasting a word.
+- 'Go on then, we are waiting for you outside.' The guest opens up honestly without any doubt, bringing things back to earth after the buildup.
+- 'Hey, pops, why did you call?' Focusing on the dad in the exchange, Max brings in "batya" ("Dad, the old man") to make the meaning unmistakable.
+- 'Things turned out rather awkwardly between us yesterday.' Cutting in dryly on the spot, Max reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'You need money, and I need my daughter.' Barinov opens up sharply with a nod, leaving no doubt about where he stands.
+- 'Got it, and how much money is here?' Focusing on the money in the exchange, Max uses "deneg" ("money", from "dengi") to make the point stick.
+- 'There is exactly one hundred thousand rubles here.' Turning to the thousand with Max, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Do you have any more daughters?' Max asks deadpan where this conversation is heading next.
