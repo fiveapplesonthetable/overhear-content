@@ -31,17 +31,17 @@ STORY = [
     ('nastya', 'Он просто хочет меня прикрыть.', 'He just wants to cover for me.', [(168, 'просто')], ''),
 ]
 WALK = [
-    (0, None, "'The boss is arguing with her again.' The verb 'ruzhaetsya' is rowdier than a calm disagreement, and the ending 'sya' means that it takes two. 'S ney' is 'with her'."),
+    (0, None, "'The boss is arguing with her again.' 'Rugaetsya' means quarrelling loudly, or even swearing, and 'sya' is part of the verb. 'S ney' is 'with her'. 'S ney' is 'with her'."),
     (1, None, "'Come on, Nastya, everything will work out.' 'Da ladno' is a cheerful 'come on, it's fine'. 'Obrazuetsya' means 'will take shape' and is used for 'it'll sort itself out'."),
     (2, None, "'Things won't work out for us today either?' 'Poluchitsya' is 'will turn out', and with 'nichego ne' it means 'nothing will work'. 'Tozhe' is 'also'."),
     (3, None, "'No, Nastya, you simply promised.' The verb 'obeshchala' carries a woman's ending in 'a'. Kostya's 'nu' is a pleading 'well', in the way Russians use it."),
     (4, None, "'Do you want me to go to the boss?' 'Khochesh, ya poydu' is literally 'want, I'll go', with no word for 'that'. 'K shefu' is 'to the boss'."),
-    (5, None, "'I will say that I broke the mirror.' 'It was me who' is a handy structure for confessions or praise. The man's 'l' ending on 'broke' is one of the first things to notice."),
+    (5, None, "'I will say that I broke the mirror.' 'Eto ya slomal', literally 'it's I broke', is the handy shape for owning up. 'Slomal' ends in 'l' because Kostya is a man."),
     (6, None, "'Do not do it, he will fire you.' 'Ne nado' keeps coming up for 'don't', and it's softer than a shouted order. Nastya begs rather than commands."),
     (7, None, "'I said it, which means I will go.' 'Znachit' means 'so' or 'therefore', and Kostya's logic is that he said he would, so he must."),
-    (8, None, "'Kostik, wait, do not go.' After 'don't', Russians use the repeated kind of 'go', not the one-time kind. 'Wait' is an order for a friend."),
+    (8, None, "'Kostik, wait, do not go.' After 'ne', Russians say 'ne khodi', from 'khodit', rather than the 'idi' they'd use for a plain 'go'. 'Wait' is an order for a friend."),
     (9, None, "'Boss, it was me who broke your mirror.' 'Vashe' is the polite 'your', with 'e' because the mirror is neuter. 'Eto ya slomal' is the same line as before, now said to the boss."),
-    (10, None, "'No, do not believe him.' You believe 'to' someone in Russian, so 'him' changes shape. The order is the polite plural."),
+    (10, None, "'No, do not believe him.' You believe 'to' someone in Russian, so 'him' is 'emu'. The order is the polite plural."),
     (11, None, "'I broke your mirror.' Nastya's sentence differs from Kostya's by one ending. The verb 'slomala' has an 'a', because the person who broke it is a woman."),
     (12, None, "'He just wants to cover for me.' 'Prikryt' means 'to cover', in the sense of protecting. 'Menya' is 'me', and 'prosto' means 'simply'."),
 ]

@@ -30,12 +30,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Good afternoon, Claude Monet restaurant.' 'Dobry den' is 'good day', and Russians use it for the afternoon, too. The name of the restaurant doesn't change, whatever the sentence.
 - 'My name is Alexander.' Russian has no 'my name is': it says 'me they call Alexander'. The 'they' is not spoken.
 - 'The exhibition is cancelled.' The event cancels itself, so the action takes 'sya'. That's the Russian form for trains and events that are called off.
-- 'Pass this on to Victoria.' The order is the polite one, ending in 'ite'. The name takes an 'i' to say 'to'.
+- 'Pass this on to Victoria.' The order is the polite one, ending in 'ite'. 'Viktorii' is the 'to' form of 'Viktoriya', the person it's passed to.
 - 'All right, I will pass it on.' 'Peredam' is 'I will pass on'. It comes from the same word as Max's 'peredayte', but now it's the future.
 - 'Grazie, signora, ciao-ciao.' More fake Italian. 'Chao' is how Russians write 'ciao', and they use it as a casual goodbye with friends.
 - 'Yes, hello. Victoria Sergeyevna, hello.' 'Allo' is only for answering the phone. 'Zdravstvuyte' is the polite hello for people you don't know well.
 - 'A representative of the exhibition from Milan called.' 'Zvonil' ends in 'l' for a man. 'Iz Milana' is 'from Milan', with 'a' on the city after 'from'.
 - 'He said that it is cancelled.' 'Ona' is 'she', because 'vystavka' is feminine in Russian, so a trade show counts as a 'she'. 'Chto' here means 'that'.
 - 'Oh, really? I am already in Domodedovo.' 'Pravda' means 'truth', and Russians say it to mean 'really?'. Vika is at one of Moscow's airports, and she says 'v' for 'in' with no change to the name.
-- 'I almost flew away.' 'Almost' is made of 'barely' and 'not', which is a quirk of the phrase. 'Flew off' starts with 'u', the prefix for 'away'.
-- 'Thank you for warning me.' 'Thanks that' is how you say thanks for something. The polite 'warned' is in the plural.
+- 'I almost flew away.' 'Chut ne', almost, is literally 'barely not'. 'Flew off' starts with 'u', the prefix for 'away'.
+- 'Thank you for warning me.' 'Thanks that' is how you say thanks for something. 'Predupredili', warned, ends in 'li', the form that goes with polite 'vy'.

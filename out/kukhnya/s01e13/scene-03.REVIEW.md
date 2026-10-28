@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, stop the car near this corner.' 'Stop' here is an order for a friend, and 'near' is a single small word. The corner loses its middle letter when it takes the 'of' ending, a quirk of that one word.
-- 'Why here? The restaurant is located further.' The restaurant 'finds itself' further, and that is how Russians say 'is located'. 'Further' is built like 'faster', with an 'e'.
+- 'Max, stop the car near this corner.' 'Ostanovi' is the order you give a friend. 'Vozle', near, is followed by the 'of' form, and 'ugol', corner, drops its 'o' to become 'ugla'.
+- 'Why here? The restaurant is located further.' The restaurant 'finds itself' further, and that is how Russians say 'is located'. 'Dalshe', further, is the comparing form of 'daleko', far.
 - 'Let us have you walk the rest on foot.' 'Peshkom', on foot, tells you it's not by car, which is Vika's whole point. She opens with 'let's' and then hands him an order.
 - 'You do not want to ride with me?' Russian has two words for 'go': 'idti' on foot and 'ekhat' in a vehicle. Max uses 'ekhat', since a car is exactly what they are in. 'So mnoy' is 'with me'.
-- 'Colleagues should not see us together.' When 'we' follows 'see', it turns into 'us', and English does the same. Vika says 'shouldn't' with the short word for 'must' and a 'not'.
+- 'Colleagues should not see us together.' 'Nas', us, is the form 'my' takes after 'videt', to see. 'Ne dolzhny', must not, has the plural ending to match 'kollegi'.
 - 'Are you afraid of silly rumors at work?' After 'afraid of', the thing feared takes a new ending, so 'rumours' changes. The same word for 'rumour' also means 'hearing', since a rumour is something you hear.
-- 'This will cause unnecessary questions in the kitchen.' Office types love 'lishnie', which means extra or unneeded. Russians say 'on the kitchen' where English says 'in', and she uses it for the whole room.
-- 'You are completely right, darling.' A woman is right, so the word ends in 'a'. 'Darling' also means 'expensive' in Russian, and Max says it with a smirk.
+- 'This will cause unnecessary questions in the kitchen.' 'Lishnie' means extra or unneeded, and 'lishnie voprosy' is the set phrase for awkward questions. Russians say 'on the kitchen' where English says 'in', and she uses it for the whole room.
+- 'You are completely right, darling.' A woman is right, so the word ends in 'a'. 'Dorogaya', darling, is also the word for 'expensive'.
 - 'This could ruin my important reputation.' Putting 'important' in front of 'reputation' makes Max sound like a minister. Both words end in 'yu', since they're what's being ruined.
 - 'Max, do you seriously think so?' 'Seryozno' is 'seriously', and Russians say it as a question when they suspect a joke. 'Dumaesh' is 'you think'.
 - 'I am just joking, calm down.' 'I'm joking' comes from 'shutit'. The calming order has a 'sya' that means 'calm yourself', and it works for babies, too.
-- 'Then get out faster, I am in a hurry.' 'Get out' is built from the action 'go out', and works for cars. The 'I am in a hurry' is just 'I hurry', one word.
+- 'Then get out faster, I am in a hurry.' 'Vykhodi' is 'vy', out, plus the verb for going on foot, and it's what you say to someone getting out of a car. The 'I am in a hurry' is just 'I hurry', one word.
 - 'All right, see you in the kitchen, administrator!' Russians say 'we will see each other', with 'sya' for 'each other'. Max teases her by using her job title instead of her name.

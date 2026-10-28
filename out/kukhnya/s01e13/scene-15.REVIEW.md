@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Max, why are you hiding here again?' The 'sya' in 'pryachesh'sya' makes it 'hide yourself'. 'Snova' is a one-word 'again'.
 - 'I was simply waiting for you here.' Russian says 'waited you', with no word for 'for'. 'Zhdal' is a man's past form, 'tebya' is 'you'.
 - 'What an unserious child you are!' 'Neser'yozny' is 'serious' with 'ne' in front. 'Rebyonok' is one child, and the plural 'deti' looks nothing like it.
-- 'Then punish me strictly for that!' 'Nakazhi' is the order 'punish!'. Max adds 'strogo', strictly, and flirts with the whole sentence.
-- 'Max, stop joking, I am serious.' 'Perestan' is 'stop', followed by 'shutit', 'to joke'. 'Ser'yozno' is 'seriously', and she says it with a straight face.
+- 'Then punish me strictly for that!' 'Nakazhi' is the order 'punish!'. 'Strogo', strictly, is the adverb of 'strogy', strict, and 'za eto' is 'for that'.
+- 'Max, stop joking, I am serious.' 'Perestan' is 'stop', followed by 'shutit', 'to joke'. 'Govoryu seryozno', I speak seriously, is how Russians say 'I mean it'.
 - 'You are young, you want fun.' 'Tebe khochetsya' is literally 'to you it wants itself', so Russians say that a wish happens to you. 'Vesel'ya' means 'of fun', since 'want' brings that ending.
-- 'At work one must be an adult.' 'Nado' is the impersonal 'one must'. The words for 'grown-up person' end in 'ym' and 'om', which is the 'as a' of 'to be as a grown-up'.
+- 'At work one must be an adult.' 'Nado' is the impersonal 'one must'. After 'byt', to be, 'vzroslym chelovekom' has the 'ym' and 'om' endings, the 'as a' form.
 - 'Vika, why are you so worried?' 'Perezhivaesh' is built from 'zhit', to live, and 'pere', through. So to worry is to 'live through' something.
-- 'The age difference is not important.' Max waves the whole subject away in one short sentence. 'Important' picks up an 'a' because 'difference' is feminine.
+- 'The age difference is not important.' Max waves the whole subject away in one short sentence. 'Vazhna', important, ends in 'a' because 'raznitsa', difference, is feminine.
 - 'It seems we are making a mistake.' 'Mne kazhetsya' is literally 'to me it seems', Russian for 'I think'. And Russians 'commit' a mistake, 'sovershaem oshibku', where English makes one.
-- 'Beside me you will forget all worries.' 'Zabudesh' is a future, 'you will forget'. 'Trevogi', worries, is always plural.
+- 'Beside me you will forget all worries.' 'Zabudesh' is a future, 'you will forget'. 'Trevogi', worries, is the plural of 'trevoga', alarm or anxiety.
 - 'Max, you are an incorrigible romantic.' 'Neispravimy' is made of 'ne', not, and 'ispravit', to fix or correct. So it's 'unfixable'. 'Romantik' is the English word.
-- 'Because I love you very much, Vika.' 'Potomu chto' is 'because', the answer to her 'why'. 'Lyublyu' is 'I love', and 'tebya' is its object.
+- 'Because I love you very much, Vika.' 'Potomu chto' is 'because', and it's often how you answer 'pochemu', why. 'Lyublyu' is 'I love', and 'tebya' is its object.

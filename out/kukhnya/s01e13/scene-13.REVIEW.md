@@ -27,14 +27,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, I broke your car mirror.' 'Zerkalo mashiny' is 'the mirror of the car', and 'mashina' takes 'y' when it means 'of'. Kostya's 'slomal' ends in 'l', which is the man's past form.
-- 'Chef, do not believe him at all!' In Russian you believe 'to' a person, so 'him' changes shape to 'emu'. The 'at all' is one little word.
+- 'Chef, do not believe him at all!' In Russian you believe 'to' a person, so 'him' changes shape to 'emu'. 'Sovsem', at all, makes the order stronger.
 - 'I broke your side mirror myself!' 'Sama' is 'myself', in a woman's form. Nastya adds it so that nobody can doubt it was her.
-- 'Did you both break my mirror together?' 'Oba' points at the two of them, and 'vy' means 'you two'. Barinov says it with a raised eyebrow.
+- 'Did you both break my mirror together?' 'Oba' is 'both', and with it the plural 'vy' clearly means 'you two'. 'Slomali' has the plural ending 'li'.
 - 'I was riding a bicycle and grazed it.' 'Ekhala' means 'was riding', with 'a' for a woman. 'Na velosipede' is 'on a bicycle', and 'zadela' is 'brushed against'.
 - 'I was simply trying to protect Nastya, chef.' 'Zashchitit' is 'to protect'. 'Nastyu' is Nastya as the one protected, and the 'ya' turns into 'yu'.
-- 'Chef, please forgive both of us!' 'Both of us' is two words in Russian. 'Forgive' is the same word Russians use for 'excuse me'.
-- 'I was fighting with the neighbor for two days!' After 'two', 'days' takes a special ending. A woman neighbour has her own form, ending in 'ka'.
-- 'Go back to work, you clumsy people!' 'Invalidy' literally means 'disabled people', and it's Barinov's pet insult for clumsy cooks. It sounds worse than it is.
+- 'Chef, please forgive both of us!' 'Nas oboikh', both of us, is 'my oba' in the form for the people being forgiven. 'Forgive' is the same word Russians use for 'excuse me'.
+- 'I was fighting with the neighbor for two days!' After 'dva', two, 'den' becomes 'dnya'. A woman neighbour is 'sosedka', and 's sosedkoy' is 'with the neighbour'.
+- 'Go back to work, you clumsy people!' 'Invalidy' literally means 'disabled people', and here it's a rude way of calling them hopeless. 'Idite rabotat', go to work, is the plural order plus the plain verb.
 - 'Nastya, thank you, you acted very bravely.' 'Smelo' is the adverb of 'smely', brave. Kostya's 'acted' picks up an 'a' because Nastya is a woman.
 - 'And you protected me so nicely, Kostya.' 'Krasivo' means 'beautifully', and Russians use it for anything done with style. 'Zashchitil' is 'protected', in a man's form.
 - 'Maybe you will come visit me tonight?' 'Mozhet' is 'maybe', short for 'mozhet byt'. 'V gosti' is 'on a visit', and Russians use it to invite someone to their home.

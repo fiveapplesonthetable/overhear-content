@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Didn't they teach you to knock?' 'Postuchatsya' is 'to knock', with 'sya' because you knock on something. 'Ne uchili' is 'didn't they teach', with nobody named.
-- 'I am calling the police.' 'Zvonyu v politsiyu' is 'I phone to the police', with 'v' and an 'yu' ending for the direction. It's the kind of line that gets everyone's attention.
-- 'Where is my car?' Cars are feminine in Russian, so Elena says 'moya', not 'moy'. Nobody bothers with an 'is' in a question like this.
+- 'Didn't they teach you to knock?' 'Postuchatsya' is 'to knock' in the sense of knocking to be let in, and it's the usual word for knocking at a door. 'Ne uchili' is 'didn't they teach', with nobody named.
+- 'I am calling the police.' 'Zvonyu v politsiyu' is 'I phone to the police', with 'v' and an 'yu' ending for the direction.
+- 'Where is my car?' 'Mashina' is feminine, so Elena says 'moya', not 'moy'. Nobody bothers with an 'is' in a question like this.
 - 'I have no idea.' 'Ponyatiya ne imeyu' is a set phrase, literally 'idea I don't have'. Russians say it all the time.
 - 'That is it. I have had enough.' 'Znachit tak' is a brisk 'right, so'. 'Nadoelo' is neuter, 'it has bored', and 'mne' is 'to me', so she's saying she's sick of it all.
 - 'If in five minutes...' The sentence stops in the middle, and the three dots show it. Elena lets the threat hang and carries on in the next line.
@@ -41,11 +41,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am reporting it stolen.' 'Zayavlyayu' is 'I declare' or 'I report'. 'Ob ugone' is 'about the theft', a word used only for stolen vehicles.
 - 'Do you understand me?' 'Ponyali' is the polite plural, 'did you understand'. 'Khorosho' is 'well'.
 - 'That is all.' One word, 'vsyo', which Russians say to end a conversation. It's clear and firm.
-- 'Before I kill you...' 'Pered tem, kak' is a set phrase for 'before'. 'Ubyu' is 'I will kill', and Barinov says it nearly every day, as a joke.
+- 'Before I kill you...' 'Pered tem, kak' is a set phrase for 'before'. 'Ubyu' is 'I will kill', and it's a threat people make without meaning it.
 - 'answer one question.' The order 'answer!' wants 'on', so Russians answer 'on a question'. 'Me' becomes 'to me'.
 - 'Why did you take the car?' 'Zachem' is 'what for', and 'uvyoz' is 'drove off with'. The 'u' means 'away'.
 - 'Boss, he could not make it.' 'U nego ne poluchilos'' is 'with him it didn't work out'. 'Priekhat' is to arrive by vehicle.
 - 'He told me to bring the car.' 'Chtoby' is 'so that', and Russian puts the following action in the past: 'chtoby ya privyoz' is 'that I should bring'. 'Privyoz' means 'bring by vehicle'.
-- 'How did you even start it?' 'Started' is the verb for an engine. 'At all' adds amazement.
+- 'How did you even start it?' 'Zavyol' is 'started', the verb for getting an engine going. 'Voobshche', at all, here works like 'even'.
 - 'Well, whatever I used to unlock it, I used to start it.' 'Chem' means 'with what' and 'tem' means 'with that', so 'chem otkryl, tem i zavyol' is 'with what I opened, with that I started'. It's a clever, short way to dodge the question.
-- 'Did you fix the mirror?' 'Pochinil' is 'fixed' or 'mended'. Barinov changes the subject, since the mirror was his first worry.
+- 'Did you fix the mirror?' 'Pochinil' is 'fixed' or 'mended'. 'Ty zerkalo pochinil?' has the mirror before the verb, the thing he cares about first.

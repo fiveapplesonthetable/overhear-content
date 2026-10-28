@@ -30,18 +30,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Vik, what is wrong?' 'Vik' is a short form of Vika. Friends drop the last vowel when they call someone. 'Chto s toboy' is 'what with you', which is the way Russians ask what's wrong.
-- 'What is the matter, Max?' Literally, 'in what the matter', and it's a useful set phrase. Vika repeats the question to make him say it.
-- 'What is the matter?' It's the same question again, and this time she writes the 'e' of 'chem' without the two dots, which doesn't change the sound. Repeating it shows how tense she is.
+- 'What is the matter, Max?' Literally, 'in what the matter', and it's a useful set phrase. 'Delo' on its own means 'business' or 'affair'.
+- 'What is the matter?' It's the same question again, now without his name. 'V chyom' is 'in what', the form 'chto' takes after 'v'.
 - 'I almost got fired today.' 'Menya uvolili' is 'me they fired', so you don't say who. 'Chut ne' is 'nearly', and 's raboty' is 'from work'.
 - 'And it is all thanks to you.' 'Blagodarya tebe' is 'thanks to you'. It's usually said in a good sense, but Vika says it bitterly.
-- 'Max, you are ruining my life.' 'Knocking down' is used for walls and for lives. 'My life' picks up 'yu'.
+- 'Max, you are ruining my life.' 'Rushish' is 'you knock down', used for walls and, as here, for lives. 'Moyu zhizn' is 'my life', and only 'moyu' changes its ending.
 - 'That is it.' One word, 'vsyo', which Russians say as a verdict. It closes the matter.
-- 'I do not want to see you.' It's just the plain 'I don't want' and 'to see you', with nothing to soften it. Russian has no need for 'I am afraid that', and Vika doesn't use it.
+- 'I do not want to see you.' It's just the plain 'I don't want' and 'to see you', with nothing to soften it. 'Tebya' is the form of 'ty' after 'videt', to see.
 - 'Want me to tell you what is going on?' 'Khochesh, ya tebe skazhu' is literally 'want, I'll tell you'. Russian leaves out 'that'.
-- 'You make everything so complicated.' 'Usozhnyaesh' is built from 'slozhny', complicated. 'Postoyanno' is 'constantly'.
+- 'You make everything so complicated.' 'Uslozhnyaesh' is built from 'slozhny', complicated. 'Postoyanno' is 'constantly'.
 - 'Then you blame everyone else.' 'Vinovatymi' is 'guilty', with the 'ymi' that follows 'make'. 'Drugikh' is 'others'.
 - 'Maybe you should look at yourself for the reasons?' 'Stoit' means 'it is worth', so it's 'maybe it's worth'. 'V sebe' is 'in yourself'.
 - 'I have always wondered...' 'Menya udivlyalo' is 'me it surprised'. Russian makes the surprise the subject, and the person the object.
 - 'why people build walls between themselves.' 'Vozvodyat' means 'erect', so it's the verb for building tall things. 'Mezhdu soboy' is 'between themselves', and 'granitsy' means 'borders' or 'boundaries'.
-- 'But there are walls we build on purpose...' 'Est' is 'there are', one of the few times Russians say 'is' aloud. 'Kotorye' is 'which', and 'spetsialno' is 'on purpose'.
-- 'so we can enjoy tearing them down.' 'With pleasure' ends the episode with a wink. 'Tear down' comes from the same root as 'destroy'.
+- 'But there are walls we build on purpose...' 'Est', there are, is said aloud here because it states that such walls exist. 'Kotorye' is 'which', and 'spetsialno' is 'on purpose'.
+- 'so we can enjoy tearing them down.' 'With pleasure' ends the episode with a wink. 'Razrushit', to tear down, shares its root with Vika's 'rushish'.
