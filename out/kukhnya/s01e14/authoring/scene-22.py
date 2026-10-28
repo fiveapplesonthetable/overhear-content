@@ -7,10 +7,10 @@ SCENE = 22
 TITLE = 'Божественно  (Divine)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'max': 'Макс', 'nagiyev': 'Нагиев'}
+LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'With Jacques out of action, Nagiyev tastes the dish himself, and he can hardly believe the little cook managed it. Listen to his verdict.'
+INTRO = 'With Jacques out of action, Nagiyev tastes the dish himself. Barinov tells him he is lucky to have such a little cook. Listen to the verdict.'
 OPENER = 'The tasting, line by line.'
 TRANSITION = 'Here is the tasting, uncut.'
 OUTRO = 'Dinner is saved, and everyone can breathe again. Next, the bar staff have their say. Until next time.'
@@ -19,8 +19,8 @@ STORY = [
     ('nagiyev', 'Это божественно.', 'This is divine.', [(305, 'Это божественно')], ''),
     ('nagiyev', 'Это очень вкусно.', 'This is very tasty.', [], ''),
     ('nagiyev', 'Я не ожидал такого.', "I didn't expect this.", [], ''),
-    ('nagiyev', 'Повезло тебе, поварёнок.', "You're lucky, little chef.", [(306, 'Повезло тебе поваренок')], ''),
-    ('max', 'Дмитрий Владимирович.', 'Dmitry Vladimirovich.', [(306, 'Дмитрий Владимирович')], ''),
+    ('barinov', 'Повезло тебе, Дмитрий Владимирович.', "You're lucky, Dmitry Vladimirovich.", [(306, 'Повезло тебе'), (306, 'Дмитрий Владимирович')], ''),
+    ('barinov', 'Какой у тебя поварёнок!', 'What a little cook you have!', [(306, 'поваренок')], ''),
     ('nagiyev', 'Ну, всем повезло.', "Well, we're all lucky.", [(307, 'Ну, всем повезло')], ''),
     ('nagiyev', 'Наш ресторан лучший.', 'Our restaurant is the best.', [], ''),
     ('nagiyev', 'Гости очень довольны.', 'The guests are very pleased.', [], ''),
@@ -33,8 +33,8 @@ WALK = [
     (0, None, "'This is divine.' 'Bozhestvenno' is built on bog, 'god', just as English 'divine' is. It's top-grade praise for food."),
     (1, None, "'This is very tasty.' 'Vkusno' comes from vkus, taste. There's no 'is' here: eto, this, then ochen vkusno, very tasty."),
     (2, None, "'I didn't expect this.' 'Ozhidal' ends in a bare 'l' because Nagiyev is a man; a woman would say ozhidala. 'Takogo', 'such a thing', takes the 'of' ending that often comes after 'not'."),
-    (3, None, "'You're lucky, little chef.' 'Povezlo tebe' is literally 'it got lucky to you', so the luck happens to you. 'Povaryonok' is povar, cook, with the ending for baby animals, as in kotyonok, a kitten."),
-    (4, None, "'Dmitry Vladimirovich.' First name plus the father's name, with 'ovich', 'son of'. It's how you address the boss politely."),
+    (3, None, "'You're lucky, Dmitry Vladimirovich.' 'Povezlo tebe' is literally 'it got lucky to you'. Barinov says tebe, the friendly 'you', but adds the polite first name plus father's name."),
+    (4, None, "'What a little cook you have!' 'U tebya' is 'at you', the Russian way to say 'you have'. 'Povaryonok' is povar, cook, with the ending for baby animals, as in kotyonok, a kitten."),
     (5, None, "'Well, we're all lucky.' The same luck pattern: vsem povezlo, 'to everyone it got lucky'. 'Vsem' is 'to all'."),
     (6, None, "'Our restaurant is the best.' 'Luchshiy' means 'the best'. Put it after the noun with no 'is', and it makes a full sentence."),
     (7, None, "'The guests are very pleased.' 'Dovolny' is a short form that sits after the noun. For one man it's dovolen, for one woman dovolna."),
