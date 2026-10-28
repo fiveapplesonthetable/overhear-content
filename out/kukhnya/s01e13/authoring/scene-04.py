@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "As they commute to the restaurant, Victoria suggests they shouldn't arrive together to avoid damaging her professional reputation, though Max mockingly agrees. Let's listen closely to the conversation in Russian first, and then walk through each line together."
-OPENER = "Let's join Max and Vika as they discuss their arrival at work."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Trying to keep their romance a secret, they agree to enter the restaurant separately. Next time you watch the episode, listen for the Russian expressions for 'to give' and 'from here' — you will catch every word right away. See you next time!"
+INTRO = 'Vika and Max are still in the car, and still arguing about who should arrive first. She wants them to enter separately so nobody guesses they are together. Listen to their talk in Russian first.'
+OPENER = 'Now their plan, slowly.'
+TRANSITION = 'Once more, the plan from start to finish.'
+OUTRO = "Max will go first, and Vika will follow a few minutes later. If you ever need to say 'see you in ten minutes' in Russian, you now know the whole phrase. Until next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Давай отсюда ты дойдёшь пешком.', "Let's have you walk from here.", [(52, 'давай')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Хорошо, увидимся на кухне через десять минут.', 'Good, see you in the kitchen in ten minutes.', [], ''),
 ]
 WALK = [
-    (0, None, "'Let's have you walk from here.' Vika suggests they separate before reaching the restaurant. She wants him to walk the rest of the way."),
-    (1, None, "'We do not need to appear at work together.' She makes her priority clear. Arriving together is simply out of the question."),
-    (2, None, "'You are absolutely right, Vika.' Max pretends to agree completely with her concern. He nods along with her logic."),
-    (3, None, "'It could cause damage to my reputation.' He jokingly twists her words about professionalism. Max claims his own image is on the line."),
-    (4, None, "'Max, are you sure that this is right?' Vika double-checks his attitude. She wants to make sure he is taking this seriously."),
-    (5, None, "'We will see.' Max gives a non-committal answer. He just says they will see how it goes."),
-    (6, None, "'I do not want extra questions from the boss.' Vika wants to avoid any unnecessary office drama. The boss is already hard enough to deal with."),
-    (7, None, "'No one will find out about our secret romance.' Max promises to keep their special relationship hidden. He playfully calls it their secret romance."),
-    (8, None, "'In this restaurant people really love gossip.' Vika knows how quickly rumors spread among the staff. She knows the kitchen loves to talk."),
-    (9, None, "'I will keep quiet and just cook food.' Max assures her he will focus entirely on his duties. He promises to just put his head down and cook."),
-    (10, None, "'Then you go first, and I will go later.' She decides they must enter the building at different times. Vika plans out their staggered arrival."),
-    (11, None, "'Good, see you in the kitchen in ten minutes.' Max accepts the clever plan and begins his short walk. He gives her a precise time for their reunion."),
+    (0, None, "'Let's have you walk from here.' The 'do' that begins the walking word means 'all the way to', so she tells him to walk until he arrives. 'Otsyuda', from here, is the 'from' partner of 'syuda', to here."),
+    (1, None, "'We do not need to appear at work together.' 'Nam ne nado' is literally 'to us not necessary', the usual way to say 'we don't need to'. 'Poyavlyatsya', to appear, ends in 'sya', as if 'to show oneself'."),
+    (2, None, "'You are absolutely right, Vika.' 'Sovershenno', absolutely, is a stronger 'completely'. 'Prava', right, ends in 'a' because Vika is a woman."),
+    (3, None, "'It could cause damage to my reputation.' 'Nanesti uron' is 'to inflict damage', two words that go together, and 'uron' is damage. Damage is done 'to' something, so 'moey reputatsii' has the 'to' ending."),
+    (4, None, "'Max, are you sure that this is right?' A man would be 'uveren', with a bare ending. 'Pravilno', correct, grows from the same root as 'pravy', right."),
+    (5, None, "'We will see.' It's a single word, 'posmotrim', which is 'we'll look'. Russians say 'we'll see' like this, as if looking were the answer."),
+    (6, None, "'I do not want extra questions from the boss.' After 'ne khochu', I don't want, the questions take the 'of' form: 'lishnikh voprosov', literally 'of extra questions'. 'Ot shefa' is 'from the boss', and 'ot' sits in front of the person who sends the thing."),
+    (7, None, "'No one will find out about our secret romance.' 'Nikto ne uznaet' is 'nobody will find out', with the double no. 'Roman' means both 'romance' and 'novel', and 'tayny' means 'secret'."),
+    (8, None, "'In this restaurant people really love gossip.' 'Spletni' is gossip, the plural of 'spletnya', a single piece of it. 'Lyudi', people, is an odd plural: one person is 'chelovek'."),
+    (9, None, "'I will keep quiet and just cook food.' 'Budu molchat' is 'I will be silent', the future made with 'budu' and the basic form. 'Gotovit' is 'to cook', and 'edu' is 'food' with the ending that goes with 'cook'."),
+    (10, None, "'Then you go first, and I will go later.' 'Idi' is the order 'go', and 'poydu' is 'I will go', from the same verb with 'po' added. 'Pervym' has the 'ym' ending of 'as the first one'."),
+    (11, None, "'Good, see you in the kitchen in ten minutes.' 'Cherez' is 'through', and Russians use it for 'in' when talking about time: 'cherez desyat minut' is 'in ten minutes'. After 'ten', the word for minute takes a special plural, 'minut'."),
 ]

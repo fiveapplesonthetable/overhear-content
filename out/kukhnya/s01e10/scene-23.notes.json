@@ -438,7 +438,7 @@
     },
     {
       "seg": 8,
-      "trans": "You lost on your favorite fast horses.",
+      "trans": "You lost everything on your beloved horses.",
       "words": [
         {
           "t": "Ты",
@@ -447,6 +447,14 @@
           "stress": null,
           "gloss": "you",
           "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "всё",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "neuter singular, used as a noun"
         },
         {
           "t": "проиграл",
@@ -461,7 +469,7 @@
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, onto",
+          "gloss": "on",
           "gram": "preposition"
         },
         {
@@ -470,22 +478,14 @@
           "pos": "det",
           "stress": "свои́х",
           "gloss": "your own",
-          "gram": "prepositional plural"
+          "gram": "plural, prepositional"
         },
         {
           "t": "любимых",
           "lemma": "любимый",
           "pos": "adj",
           "stress": "люби́мых",
-          "gloss": "favorite",
-          "gram": "plural accusative (animate)"
-        },
-        {
-          "t": "быстрых",
-          "lemma": "быстрый",
-          "pos": "adv",
-          "stress": "бы́стрых",
-          "gloss": "fast",
+          "gloss": "beloved, favorite",
           "gram": "plural, prepositional"
         },
         {
@@ -494,13 +494,13 @@
           "pos": "noun",
           "stress": "коня́х",
           "gloss": "horses",
-          "gram": "animate, masculine, plural, prepositional"
+          "gram": "masculine plural, prepositional"
         }
       ]
     },
     {
       "seg": 9,
-      "trans": "You yourself swore by their victory!",
+      "trans": "You swore yourself that they would win!",
       "words": [
         {
           "t": "Ты",
@@ -527,7 +527,7 @@
           "gram": "masculine singular nominative"
         },
         {
-          "t": "клялся",
+          "t": "клялся,",
           "lemma": "клясться",
           "pos": "verb",
           "stress": "кля́лся",
@@ -535,28 +535,28 @@
           "gram": "imperfective, past, masculine singular"
         },
         {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
+          "t": "что",
+          "lemma": "что",
+          "pos": "conj",
           "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
+          "gloss": "that",
+          "gram": "conjunction"
         },
         {
-          "t": "их",
+          "t": "они",
           "lemma": "они",
           "pos": "pron",
-          "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "stress": "они́",
+          "gloss": "they",
+          "gram": "3rd person plural, nominative"
         },
         {
-          "t": "победе!",
-          "lemma": "победа",
-          "pos": "noun",
-          "stress": "побе́де",
-          "gloss": "victory, triumph",
-          "gram": "noun f dat"
+          "t": "выиграют!",
+          "lemma": "выиграть",
+          "pos": "verb",
+          "stress": "вы́играют",
+          "gloss": "will win",
+          "gram": "3rd person plural future, perfective"
         }
       ]
     },
@@ -678,7 +678,7 @@
     },
     {
       "seg": 12,
-      "trans": "By the way, return three hundred rubles for this spoon!",
+      "trans": "By the way, you owe three hundred rubles for this spoonful!",
       "words": [
         {
           "t": "Кстати,",
@@ -686,15 +686,23 @@
           "pos": "adv",
           "stress": "кста́ти",
           "gloss": "by the way",
-          "gram": "parenthetical adverb"
+          "gram": "adverb"
         },
         {
-          "t": "верни",
-          "lemma": "вернуть",
-          "pos": "verb",
-          "stress": "верни́",
-          "gloss": "return",
-          "gram": "imperative singular, perfective"
+          "t": "с",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "from",
+          "gram": "preposition"
+        },
+        {
+          "t": "тебя",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́",
+          "gloss": "you",
+          "gram": "2nd person singular, genitive, informal"
         },
         {
           "t": "триста",
@@ -702,15 +710,15 @@
           "pos": "num",
           "stress": "три́ста",
           "gloss": "three hundred",
-          "gram": "cardinal numeral, nominative"
+          "gram": "numeral"
         },
         {
           "t": "рублей",
           "lemma": "рубль",
           "pos": "noun",
           "stress": "рубле́й",
-          "gloss": "roubles",
-          "gram": "masculine, genitive plural"
+          "gloss": "rubles",
+          "gram": "masculine plural, genitive"
         },
         {
           "t": "за",
@@ -718,7 +726,7 @@
           "pos": "prep",
           "stress": null,
           "gloss": "for",
-          "gram": "preposition + accusative"
+          "gram": "preposition"
         },
         {
           "t": "эту",
@@ -726,14 +734,14 @@
           "pos": "det",
           "stress": "э́ту",
           "gloss": "this",
-          "gram": "accusative singular, feminine"
+          "gram": "feminine singular, accusative"
         },
         {
           "t": "ложку!",
           "lemma": "ложка",
           "pos": "noun",
           "stress": "ло́жку",
-          "gloss": "the spoon",
+          "gloss": "spoon, spoonful",
           "gram": "feminine singular, accusative"
         }
       ]
@@ -1174,7 +1182,7 @@
     },
     {
       "seg": 28,
-      "trans": "You lost on your favorite fast horses.",
+      "trans": "You lost everything on your beloved horses.",
       "words": [
         {
           "t": "Ты",
@@ -1183,6 +1191,14 @@
           "stress": null,
           "gloss": "you",
           "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "всё",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "neuter singular, used as a noun"
         },
         {
           "t": "проиграл",
@@ -1197,7 +1213,7 @@
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, onto",
+          "gloss": "on",
           "gram": "preposition"
         },
         {
@@ -1206,22 +1222,14 @@
           "pos": "det",
           "stress": "свои́х",
           "gloss": "your own",
-          "gram": "prepositional plural"
+          "gram": "plural, prepositional"
         },
         {
           "t": "любимых",
           "lemma": "любимый",
           "pos": "adj",
           "stress": "люби́мых",
-          "gloss": "favorite",
-          "gram": "plural accusative (animate)"
-        },
-        {
-          "t": "быстрых",
-          "lemma": "быстрый",
-          "pos": "adv",
-          "stress": "бы́стрых",
-          "gloss": "fast",
+          "gloss": "beloved, favorite",
           "gram": "plural, prepositional"
         },
         {
@@ -1230,13 +1238,13 @@
           "pos": "noun",
           "stress": "коня́х",
           "gloss": "horses",
-          "gram": "animate, masculine, plural, prepositional"
+          "gram": "masculine plural, prepositional"
         }
       ]
     },
     {
       "seg": 30,
-      "trans": "You yourself swore by their victory!",
+      "trans": "You swore yourself that they would win!",
       "words": [
         {
           "t": "Ты",
@@ -1263,7 +1271,7 @@
           "gram": "masculine singular nominative"
         },
         {
-          "t": "клялся",
+          "t": "клялся,",
           "lemma": "клясться",
           "pos": "verb",
           "stress": "кля́лся",
@@ -1271,28 +1279,28 @@
           "gram": "imperfective, past, masculine singular"
         },
         {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
+          "t": "что",
+          "lemma": "что",
+          "pos": "conj",
           "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
+          "gloss": "that",
+          "gram": "conjunction"
         },
         {
-          "t": "их",
+          "t": "они",
           "lemma": "они",
           "pos": "pron",
-          "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "stress": "они́",
+          "gloss": "they",
+          "gram": "3rd person plural, nominative"
         },
         {
-          "t": "победе!",
-          "lemma": "победа",
-          "pos": "noun",
-          "stress": "побе́де",
-          "gloss": "victory, triumph",
-          "gram": "noun f dat"
+          "t": "выиграют!",
+          "lemma": "выиграть",
+          "pos": "verb",
+          "stress": "вы́играют",
+          "gloss": "will win",
+          "gram": "3rd person plural future, perfective"
         }
       ]
     },
@@ -1414,7 +1422,7 @@
     },
     {
       "seg": 36,
-      "trans": "By the way, return three hundred rubles for this spoon!",
+      "trans": "By the way, you owe three hundred rubles for this spoonful!",
       "words": [
         {
           "t": "Кстати,",
@@ -1422,15 +1430,23 @@
           "pos": "adv",
           "stress": "кста́ти",
           "gloss": "by the way",
-          "gram": "parenthetical adverb"
+          "gram": "adverb"
         },
         {
-          "t": "верни",
-          "lemma": "вернуть",
-          "pos": "verb",
-          "stress": "верни́",
-          "gloss": "return",
-          "gram": "imperative singular, perfective"
+          "t": "с",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "from",
+          "gram": "preposition"
+        },
+        {
+          "t": "тебя",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́",
+          "gloss": "you",
+          "gram": "2nd person singular, genitive, informal"
         },
         {
           "t": "триста",
@@ -1438,15 +1454,15 @@
           "pos": "num",
           "stress": "три́ста",
           "gloss": "three hundred",
-          "gram": "cardinal numeral, nominative"
+          "gram": "numeral"
         },
         {
           "t": "рублей",
           "lemma": "рубль",
           "pos": "noun",
           "stress": "рубле́й",
-          "gloss": "roubles",
-          "gram": "masculine, genitive plural"
+          "gloss": "rubles",
+          "gram": "masculine plural, genitive"
         },
         {
           "t": "за",
@@ -1454,7 +1470,7 @@
           "pos": "prep",
           "stress": null,
           "gloss": "for",
-          "gram": "preposition + accusative"
+          "gram": "preposition"
         },
         {
           "t": "эту",
@@ -1462,14 +1478,14 @@
           "pos": "det",
           "stress": "э́ту",
           "gloss": "this",
-          "gram": "accusative singular, feminine"
+          "gram": "feminine singular, accusative"
         },
         {
           "t": "ложку!",
           "lemma": "ложка",
           "pos": "noun",
           "stress": "ло́жку",
-          "gloss": "the spoon",
+          "gloss": "spoon, spoonful",
           "gram": "feminine singular, accusative"
         }
       ]
@@ -1910,7 +1926,7 @@
     },
     {
       "seg": 45,
-      "trans": "You lost on your favorite fast horses.",
+      "trans": "You lost everything on your beloved horses.",
       "words": [
         {
           "t": "Ты",
@@ -1919,6 +1935,14 @@
           "stress": null,
           "gloss": "you",
           "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "всё",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null,
+          "gloss": "everything",
+          "gram": "neuter singular, used as a noun"
         },
         {
           "t": "проиграл",
@@ -1933,7 +1957,7 @@
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, onto",
+          "gloss": "on",
           "gram": "preposition"
         },
         {
@@ -1942,22 +1966,14 @@
           "pos": "det",
           "stress": "свои́х",
           "gloss": "your own",
-          "gram": "prepositional plural"
+          "gram": "plural, prepositional"
         },
         {
           "t": "любимых",
           "lemma": "любимый",
           "pos": "adj",
           "stress": "люби́мых",
-          "gloss": "favorite",
-          "gram": "plural accusative (animate)"
-        },
-        {
-          "t": "быстрых",
-          "lemma": "быстрый",
-          "pos": "adv",
-          "stress": "бы́стрых",
-          "gloss": "fast",
+          "gloss": "beloved, favorite",
           "gram": "plural, prepositional"
         },
         {
@@ -1966,13 +1982,13 @@
           "pos": "noun",
           "stress": "коня́х",
           "gloss": "horses",
-          "gram": "animate, masculine, plural, prepositional"
+          "gram": "masculine plural, prepositional"
         }
       ]
     },
     {
       "seg": 46,
-      "trans": "You yourself swore by their victory!",
+      "trans": "You swore yourself that they would win!",
       "words": [
         {
           "t": "Ты",
@@ -1999,7 +2015,7 @@
           "gram": "masculine singular nominative"
         },
         {
-          "t": "клялся",
+          "t": "клялся,",
           "lemma": "клясться",
           "pos": "verb",
           "stress": "кля́лся",
@@ -2007,28 +2023,28 @@
           "gram": "imperfective, past, masculine singular"
         },
         {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
+          "t": "что",
+          "lemma": "что",
+          "pos": "conj",
           "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
+          "gloss": "that",
+          "gram": "conjunction"
         },
         {
-          "t": "их",
+          "t": "они",
           "lemma": "они",
           "pos": "pron",
-          "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "stress": "они́",
+          "gloss": "they",
+          "gram": "3rd person plural, nominative"
         },
         {
-          "t": "победе!",
-          "lemma": "победа",
-          "pos": "noun",
-          "stress": "побе́де",
-          "gloss": "victory, triumph",
-          "gram": "noun f dat"
+          "t": "выиграют!",
+          "lemma": "выиграть",
+          "pos": "verb",
+          "stress": "вы́играют",
+          "gloss": "will win",
+          "gram": "3rd person plural future, perfective"
         }
       ]
     },
@@ -2150,7 +2166,7 @@
     },
     {
       "seg": 49,
-      "trans": "By the way, return three hundred rubles for this spoon!",
+      "trans": "By the way, you owe three hundred rubles for this spoonful!",
       "words": [
         {
           "t": "Кстати,",
@@ -2158,15 +2174,23 @@
           "pos": "adv",
           "stress": "кста́ти",
           "gloss": "by the way",
-          "gram": "parenthetical adverb"
+          "gram": "adverb"
         },
         {
-          "t": "верни",
-          "lemma": "вернуть",
-          "pos": "verb",
-          "stress": "верни́",
-          "gloss": "return",
-          "gram": "imperative singular, perfective"
+          "t": "с",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "from",
+          "gram": "preposition"
+        },
+        {
+          "t": "тебя",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́",
+          "gloss": "you",
+          "gram": "2nd person singular, genitive, informal"
         },
         {
           "t": "триста",
@@ -2174,15 +2198,15 @@
           "pos": "num",
           "stress": "три́ста",
           "gloss": "three hundred",
-          "gram": "cardinal numeral, nominative"
+          "gram": "numeral"
         },
         {
           "t": "рублей",
           "lemma": "рубль",
           "pos": "noun",
           "stress": "рубле́й",
-          "gloss": "roubles",
-          "gram": "masculine, genitive plural"
+          "gloss": "rubles",
+          "gram": "masculine plural, genitive"
         },
         {
           "t": "за",
@@ -2190,7 +2214,7 @@
           "pos": "prep",
           "stress": null,
           "gloss": "for",
-          "gram": "preposition + accusative"
+          "gram": "preposition"
         },
         {
           "t": "эту",
@@ -2198,14 +2222,14 @@
           "pos": "det",
           "stress": "э́ту",
           "gloss": "this",
-          "gram": "accusative singular, feminine"
+          "gram": "feminine singular, accusative"
         },
         {
           "t": "ложку!",
           "lemma": "ложка",
           "pos": "noun",
           "stress": "ло́жку",
-          "gloss": "the spoon",
+          "gloss": "spoon, spoonful",
           "gram": "feminine singular, accusative"
         }
       ]
@@ -6712,6 +6736,196 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "что": {
+      "lemma": "что",
+      "stress": "что",
+      "pos": "pron",
+      "gloss": "what",
+      "meanings": [
+        {
+          "en": "what",
+          "note": "Question word. Core Russian pron meaning 'what' in everyday speech."
+        },
+        {
+          "en": "that",
+          "note": "Conjunction. Core Russian pron meaning 'what' in everyday speech."
+        },
+        {
+          "en": "ну что? = well?",
+          "note": "Core Russian pron meaning 'what' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "чего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "чему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "чем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "чём"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Что это?",
+          "trans": "What's this?"
+        },
+        {
+          "text": "Смотри, что у меня есть.",
+          "trans": "Look what I've got."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
+        }
+      ],
+      "related": [
+        {
+          "word": "что-то",
+          "gloss": "something"
+        },
+        {
+          "word": "ничто",
+          "gloss": "nothing"
+        },
+        {
+          "word": "потому что",
+          "gloss": "because"
+        }
+      ]
+    },
+    "выиграть": {
+      "lemma": "выиграть",
+      "stress": "вы́играть",
+      "pos": "verb",
+      "gloss": "to win",
+      "aspect": "pf",
+      "pair": "выигрывать",
+      "meanings": [
+        {
+          "en": "to win",
+          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'играть'). Used as an perfective (single completed action) verb meaning 'to win', paired with 'выигрывать'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "выиграю",
+              "выиграем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "выиграешь",
+              "выиграете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "выиграет",
+              "выиграют"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "выиграл",
+                "выиграла",
+                "выиграло",
+                "выиграли"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Эти выборы ты не выиграешь.",
+          "trans": "You won't win this election."
+        },
+        {
+          "text": "Мы выиграли!",
+          "trans": "We won!"
+        },
+        {
+          "text": "Паша, эти выборы ты не выиграешь.",
+          "trans": "Pasha, you won't win this election."
+        }
+      ],
+      "related": [
+        {
+          "word": "выигрывать",
+          "gloss": "to win"
+        },
+        {
+          "word": "поиграть",
+          "gloss": "to play for a while"
+        },
+        {
+          "word": "проиграть",
+          "gloss": "to lose"
         }
       ]
     }

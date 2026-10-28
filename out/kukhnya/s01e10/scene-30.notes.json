@@ -58,7 +58,7 @@
     },
     {
       "seg": 2,
-      "trans": "Do you want to turn it into black?",
+      "trans": "Do you want to make it black?",
       "words": [
         {
           "t": "Вы",
@@ -77,11 +77,11 @@
           "gram": "present, 2nd person plural, imperfective"
         },
         {
-          "t": "превратить",
-          "lemma": "превратить",
+          "t": "сделать",
+          "lemma": "сделать",
           "pos": "verb",
-          "stress": "преврати́ть",
-          "gloss": "to turn into",
+          "stress": "сде́лать",
+          "gloss": "to make",
           "gram": "infinitive, perfective"
         },
         {
@@ -93,20 +93,12 @@
           "gram": "3rd person singular feminine, accusative"
         },
         {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "чёрную?",
+          "t": "чёрной?",
           "lemma": "чёрный",
           "pos": "adj",
           "stress": null,
           "gloss": "black",
-          "gram": "feminine singular accusative"
+          "gram": "feminine singular instrumental"
         }
       ]
     },
@@ -166,23 +158,15 @@
     },
     {
       "seg": 4,
-      "trans": "This turns out to be a real pike Easter.",
+      "trans": "It turns out a real pike Easter.",
       "words": [
         {
-          "t": "Это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "прямо",
-          "lemma": "прямо",
-          "pos": "adv",
-          "stress": "пря́мо",
-          "gloss": "right, just",
-          "gram": "adverb"
+          "t": "Получается",
+          "lemma": "получаться",
+          "pos": "verb",
+          "stress": "получа́ется",
+          "gloss": "works out",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "настоящая",
@@ -201,20 +185,12 @@
           "gram": "feminine singular nominative"
         },
         {
-          "t": "пасха",
+          "t": "пасха.",
           "lemma": "пасха",
           "pos": "noun",
-          "stress": "па́сха",
+          "stress": "па́сха.",
           "gloss": "Easter",
           "gram": "feminine singular nominative"
-        },
-        {
-          "t": "получается.",
-          "lemma": "получаться",
-          "pos": "verb",
-          "stress": "получа́ется",
-          "gloss": "works out",
-          "gram": "present, 3rd person singular, imperfective"
         }
       ]
     },
@@ -458,55 +434,63 @@
     },
     {
       "seg": 10,
-      "trans": "It looks just like expensive black caviar.",
+      "trans": "Now it looks like expensive black caviar.",
       "words": [
         {
-          "t": "Она",
+          "t": "Теперь",
+          "lemma": "теперь",
+          "pos": "adv",
+          "stress": "тепе́рь",
+          "gloss": "now",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "она",
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
-          "gram": "nominative, feminine"
+          "gloss": "it (the caviar)",
+          "gram": "3rd person singular feminine, nominative"
         },
         {
-          "t": "выглядит",
-          "lemma": "выглядеть",
-          "pos": "verb",
-          "stress": "вы́глядит",
-          "gloss": "looks",
-          "gram": "3rd person singular present, imperfective"
+          "t": "похожа",
+          "lemma": "похожий",
+          "pos": "adj",
+          "stress": "похо́жа",
+          "gloss": "similar, like",
+          "gram": "short form feminine singular"
         },
         {
-          "t": "прямо",
-          "lemma": "прямо",
-          "pos": "adv",
-          "stress": "пря́мо",
-          "gloss": "right, just",
-          "gram": "adverb"
-        },
-        {
-          "t": "как",
-          "lemma": "как",
-          "pos": "adv",
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
           "stress": null,
-          "gloss": "how",
-          "gram": "question word"
+          "gloss": "like (with похожа)",
+          "gram": "preposition, takes accusative here"
         },
         {
-          "t": "дорогая",
+          "t": "дорогую",
           "lemma": "дорогой",
           "pos": "adj",
-          "stress": "дорога́я",
+          "stress": "дорогу́ю",
           "gloss": "expensive",
-          "gram": "feminine singular, nominative"
+          "gram": "feminine, accusative singular"
         },
         {
-          "t": "чёрная.",
+          "t": "чёрную",
           "lemma": "чёрный",
           "pos": "adj",
           "stress": null,
           "gloss": "black",
-          "gram": "feminine singular nominative"
+          "gram": "feminine singular accusative"
+        },
+        {
+          "t": "икру.",
+          "lemma": "икра",
+          "pos": "noun",
+          "stress": "икру́.",
+          "gloss": "caviar",
+          "gram": "feminine singular, accusative"
         }
       ]
     },
@@ -574,10 +558,18 @@
     },
     {
       "seg": 12,
-      "trans": "You are simply a genius of culinary secrets, chef.",
+      "trans": "Chef, you are simply a culinary genius.",
       "words": [
         {
-          "t": "Вы",
+          "t": "Шеф,",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": "шеф,",
+          "gloss": "chef",
+          "gram": "masculine singular, used to address someone"
+        },
+        {
+          "t": "вы",
           "lemma": "вы",
           "pos": "pron",
           "stress": null,
@@ -593,36 +585,20 @@
           "gram": "adverb"
         },
         {
-          "t": "гений",
-          "lemma": "гений",
-          "pos": "noun",
-          "stress": "ге́ний",
-          "gloss": "genius",
-          "gram": "nom.m.sg"
-        },
-        {
-          "t": "кулинарных",
+          "t": "кулинарный",
           "lemma": "кулинарный",
           "pos": "adj",
-          "stress": "кулина́рных",
+          "stress": "кулина́рный",
           "gloss": "culinary",
-          "gram": "plural genitive"
+          "gram": "masculine singular, nominative"
         },
         {
-          "t": "секретов,",
-          "lemma": "секрет",
+          "t": "гений.",
+          "lemma": "гений",
           "pos": "noun",
-          "stress": "секре́тов",
-          "gloss": "secrets",
-          "gram": "masculine plural genitive"
-        },
-        {
-          "t": "шеф.",
-          "lemma": "шеф",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "stress": "ге́ний.",
+          "gloss": "genius",
+          "gram": "nom.m.sg"
         }
       ]
     },
@@ -736,7 +712,7 @@
     },
     {
       "seg": 17,
-      "trans": "Do you want to turn it into black?",
+      "trans": "Do you want to make it black?",
       "words": [
         {
           "t": "Вы",
@@ -755,11 +731,11 @@
           "gram": "present, 2nd person plural, imperfective"
         },
         {
-          "t": "превратить",
-          "lemma": "превратить",
+          "t": "сделать",
+          "lemma": "сделать",
           "pos": "verb",
-          "stress": "преврати́ть",
-          "gloss": "to turn into",
+          "stress": "сде́лать",
+          "gloss": "to make",
           "gram": "infinitive, perfective"
         },
         {
@@ -771,20 +747,12 @@
           "gram": "3rd person singular feminine, accusative"
         },
         {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "чёрную?",
+          "t": "чёрной?",
           "lemma": "чёрный",
           "pos": "adj",
           "stress": null,
           "gloss": "black",
-          "gram": "feminine singular accusative"
+          "gram": "feminine singular instrumental"
         }
       ]
     },
@@ -844,23 +812,15 @@
     },
     {
       "seg": 21,
-      "trans": "This turns out to be a real pike Easter.",
+      "trans": "It turns out a real pike Easter.",
       "words": [
         {
-          "t": "Это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "прямо",
-          "lemma": "прямо",
-          "pos": "adv",
-          "stress": "пря́мо",
-          "gloss": "right, just",
-          "gram": "adverb"
+          "t": "Получается",
+          "lemma": "получаться",
+          "pos": "verb",
+          "stress": "получа́ется",
+          "gloss": "works out",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "настоящая",
@@ -879,20 +839,12 @@
           "gram": "feminine singular nominative"
         },
         {
-          "t": "пасха",
+          "t": "пасха.",
           "lemma": "пасха",
           "pos": "noun",
-          "stress": "па́сха",
+          "stress": "па́сха.",
           "gloss": "Easter",
           "gram": "feminine singular nominative"
-        },
-        {
-          "t": "получается.",
-          "lemma": "получаться",
-          "pos": "verb",
-          "stress": "получа́ется",
-          "gloss": "works out",
-          "gram": "present, 3rd person singular, imperfective"
         }
       ]
     },
@@ -1136,55 +1088,63 @@
     },
     {
       "seg": 33,
-      "trans": "It looks just like expensive black caviar.",
+      "trans": "Now it looks like expensive black caviar.",
       "words": [
         {
-          "t": "Она",
+          "t": "Теперь",
+          "lemma": "теперь",
+          "pos": "adv",
+          "stress": "тепе́рь",
+          "gloss": "now",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "она",
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
-          "gram": "nominative, feminine"
+          "gloss": "it (the caviar)",
+          "gram": "3rd person singular feminine, nominative"
         },
         {
-          "t": "выглядит",
-          "lemma": "выглядеть",
-          "pos": "verb",
-          "stress": "вы́глядит",
-          "gloss": "looks",
-          "gram": "3rd person singular present, imperfective"
+          "t": "похожа",
+          "lemma": "похожий",
+          "pos": "adj",
+          "stress": "похо́жа",
+          "gloss": "similar, like",
+          "gram": "short form feminine singular"
         },
         {
-          "t": "прямо",
-          "lemma": "прямо",
-          "pos": "adv",
-          "stress": "пря́мо",
-          "gloss": "right, just",
-          "gram": "adverb"
-        },
-        {
-          "t": "как",
-          "lemma": "как",
-          "pos": "adv",
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
           "stress": null,
-          "gloss": "how",
-          "gram": "question word"
+          "gloss": "like (with похожа)",
+          "gram": "preposition, takes accusative here"
         },
         {
-          "t": "дорогая",
+          "t": "дорогую",
           "lemma": "дорогой",
           "pos": "adj",
-          "stress": "дорога́я",
+          "stress": "дорогу́ю",
           "gloss": "expensive",
-          "gram": "feminine singular, nominative"
+          "gram": "feminine, accusative singular"
         },
         {
-          "t": "чёрная.",
+          "t": "чёрную",
           "lemma": "чёрный",
           "pos": "adj",
           "stress": null,
           "gloss": "black",
-          "gram": "feminine singular nominative"
+          "gram": "feminine singular accusative"
+        },
+        {
+          "t": "икру.",
+          "lemma": "икра",
+          "pos": "noun",
+          "stress": "икру́.",
+          "gloss": "caviar",
+          "gram": "feminine singular, accusative"
         }
       ]
     },
@@ -1252,10 +1212,18 @@
     },
     {
       "seg": 37,
-      "trans": "You are simply a genius of culinary secrets, chef.",
+      "trans": "Chef, you are simply a culinary genius.",
       "words": [
         {
-          "t": "Вы",
+          "t": "Шеф,",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": "шеф,",
+          "gloss": "chef",
+          "gram": "masculine singular, used to address someone"
+        },
+        {
+          "t": "вы",
           "lemma": "вы",
           "pos": "pron",
           "stress": null,
@@ -1271,36 +1239,20 @@
           "gram": "adverb"
         },
         {
-          "t": "гений",
-          "lemma": "гений",
-          "pos": "noun",
-          "stress": "ге́ний",
-          "gloss": "genius",
-          "gram": "nom.m.sg"
-        },
-        {
-          "t": "кулинарных",
+          "t": "кулинарный",
           "lemma": "кулинарный",
           "pos": "adj",
-          "stress": "кулина́рных",
+          "stress": "кулина́рный",
           "gloss": "culinary",
-          "gram": "plural genitive"
+          "gram": "masculine singular, nominative"
         },
         {
-          "t": "секретов,",
-          "lemma": "секрет",
+          "t": "гений.",
+          "lemma": "гений",
           "pos": "noun",
-          "stress": "секре́тов",
-          "gloss": "secrets",
-          "gram": "masculine plural genitive"
-        },
-        {
-          "t": "шеф.",
-          "lemma": "шеф",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "stress": "ге́ний.",
+          "gloss": "genius",
+          "gram": "nom.m.sg"
         }
       ]
     },
@@ -1414,7 +1366,7 @@
     },
     {
       "seg": 42,
-      "trans": "Do you want to turn it into black?",
+      "trans": "Do you want to make it black?",
       "words": [
         {
           "t": "Вы",
@@ -1433,11 +1385,11 @@
           "gram": "present, 2nd person plural, imperfective"
         },
         {
-          "t": "превратить",
-          "lemma": "превратить",
+          "t": "сделать",
+          "lemma": "сделать",
           "pos": "verb",
-          "stress": "преврати́ть",
-          "gloss": "to turn into",
+          "stress": "сде́лать",
+          "gloss": "to make",
           "gram": "infinitive, perfective"
         },
         {
@@ -1449,20 +1401,12 @@
           "gram": "3rd person singular feminine, accusative"
         },
         {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "чёрную?",
+          "t": "чёрной?",
           "lemma": "чёрный",
           "pos": "adj",
           "stress": null,
           "gloss": "black",
-          "gram": "feminine singular accusative"
+          "gram": "feminine singular instrumental"
         }
       ]
     },
@@ -1522,23 +1466,15 @@
     },
     {
       "seg": 44,
-      "trans": "This turns out to be a real pike Easter.",
+      "trans": "It turns out a real pike Easter.",
       "words": [
         {
-          "t": "Это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "прямо",
-          "lemma": "прямо",
-          "pos": "adv",
-          "stress": "пря́мо",
-          "gloss": "right, just",
-          "gram": "adverb"
+          "t": "Получается",
+          "lemma": "получаться",
+          "pos": "verb",
+          "stress": "получа́ется",
+          "gloss": "works out",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "настоящая",
@@ -1557,20 +1493,12 @@
           "gram": "feminine singular nominative"
         },
         {
-          "t": "пасха",
+          "t": "пасха.",
           "lemma": "пасха",
           "pos": "noun",
-          "stress": "па́сха",
+          "stress": "па́сха.",
           "gloss": "Easter",
           "gram": "feminine singular nominative"
-        },
-        {
-          "t": "получается.",
-          "lemma": "получаться",
-          "pos": "verb",
-          "stress": "получа́ется",
-          "gloss": "works out",
-          "gram": "present, 3rd person singular, imperfective"
         }
       ]
     },
@@ -1814,55 +1742,63 @@
     },
     {
       "seg": 50,
-      "trans": "It looks just like expensive black caviar.",
+      "trans": "Now it looks like expensive black caviar.",
       "words": [
         {
-          "t": "Она",
+          "t": "Теперь",
+          "lemma": "теперь",
+          "pos": "adv",
+          "stress": "тепе́рь",
+          "gloss": "now",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "она",
           "lemma": "она",
           "pos": "pron",
           "stress": "она́",
-          "gloss": "it (the pipe)",
-          "gram": "nominative, feminine"
+          "gloss": "it (the caviar)",
+          "gram": "3rd person singular feminine, nominative"
         },
         {
-          "t": "выглядит",
-          "lemma": "выглядеть",
-          "pos": "verb",
-          "stress": "вы́глядит",
-          "gloss": "looks",
-          "gram": "3rd person singular present, imperfective"
+          "t": "похожа",
+          "lemma": "похожий",
+          "pos": "adj",
+          "stress": "похо́жа",
+          "gloss": "similar, like",
+          "gram": "short form feminine singular"
         },
         {
-          "t": "прямо",
-          "lemma": "прямо",
-          "pos": "adv",
-          "stress": "пря́мо",
-          "gloss": "right, just",
-          "gram": "adverb"
-        },
-        {
-          "t": "как",
-          "lemma": "как",
-          "pos": "adv",
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
           "stress": null,
-          "gloss": "how",
-          "gram": "question word"
+          "gloss": "like (with похожа)",
+          "gram": "preposition, takes accusative here"
         },
         {
-          "t": "дорогая",
+          "t": "дорогую",
           "lemma": "дорогой",
           "pos": "adj",
-          "stress": "дорога́я",
+          "stress": "дорогу́ю",
           "gloss": "expensive",
-          "gram": "feminine singular, nominative"
+          "gram": "feminine, accusative singular"
         },
         {
-          "t": "чёрная.",
+          "t": "чёрную",
           "lemma": "чёрный",
           "pos": "adj",
           "stress": null,
           "gloss": "black",
-          "gram": "feminine singular nominative"
+          "gram": "feminine singular accusative"
+        },
+        {
+          "t": "икру.",
+          "lemma": "икра",
+          "pos": "noun",
+          "stress": "икру́.",
+          "gloss": "caviar",
+          "gram": "feminine singular, accusative"
         }
       ]
     },
@@ -1930,10 +1866,18 @@
     },
     {
       "seg": 52,
-      "trans": "You are simply a genius of culinary secrets, chef.",
+      "trans": "Chef, you are simply a culinary genius.",
       "words": [
         {
-          "t": "Вы",
+          "t": "Шеф,",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": "шеф,",
+          "gloss": "chef",
+          "gram": "masculine singular, used to address someone"
+        },
+        {
+          "t": "вы",
           "lemma": "вы",
           "pos": "pron",
           "stress": null,
@@ -1949,36 +1893,20 @@
           "gram": "adverb"
         },
         {
-          "t": "гений",
-          "lemma": "гений",
-          "pos": "noun",
-          "stress": "ге́ний",
-          "gloss": "genius",
-          "gram": "nom.m.sg"
-        },
-        {
-          "t": "кулинарных",
+          "t": "кулинарный",
           "lemma": "кулинарный",
           "pos": "adj",
-          "stress": "кулина́рных",
+          "stress": "кулина́рный",
           "gloss": "culinary",
-          "gram": "plural genitive"
+          "gram": "masculine singular, nominative"
         },
         {
-          "t": "секретов,",
-          "lemma": "секрет",
+          "t": "гений.",
+          "lemma": "гений",
           "pos": "noun",
-          "stress": "секре́тов",
-          "gloss": "secrets",
-          "gram": "masculine plural genitive"
-        },
-        {
-          "t": "шеф.",
-          "lemma": "шеф",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Chef",
-          "gram": "proper name"
+          "stress": "ге́ний.",
+          "gloss": "genius",
+          "gram": "nom.m.sg"
         }
       ]
     },
@@ -6645,6 +6573,331 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "сделать": {
+      "lemma": "сделать",
+      "stress": "сде́лать",
+      "pos": "verb",
+      "gloss": "to do, to make",
+      "aspect": "pf",
+      "pair": "делать",
+      "meanings": [
+        {
+          "en": "to do, to make",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as an perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "сделаю",
+              "сделаем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "сделаешь",
+              "сделаете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "сделает",
+              "сделают"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "сделал",
+                "сделала",
+                "сделало",
+                "сделали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сделай",
+                "сделайте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Мы сделали много.",
+          "trans": "We've done a lot."
+        },
+        {
+          "text": "Я сделаю это завтра.",
+          "trans": "I'll do it tomorrow."
+        },
+        {
+          "text": "Мы сделали много, но надо сделать ещё больше.",
+          "trans": "We've done a lot, but we need to do even more."
+        }
+      ],
+      "related": [
+        {
+          "word": "делать",
+          "gloss": "to do"
+        },
+        {
+          "word": "переделать",
+          "gloss": "to redo"
+        },
+        {
+          "word": "сделанный",
+          "gloss": "made"
+        }
+      ]
+    },
+    "похожий": {
+      "lemma": "похожий",
+      "stress": "похо́жий",
+      "pos": "adj",
+      "gloss": "similar, looking like",
+      "meanings": [
+        {
+          "en": "similar (to), looking like, resembling",
+          "note": "usually short form похож/похожа/похожи + на + accusative"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "похожий",
+              "похожая",
+              "похожее",
+              "похожие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "похожего",
+              "похожей",
+              "похожего",
+              "похожих"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "похожему",
+              "похожей",
+              "похожему",
+              "похожим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "похожий/похожего",
+              "похожую",
+              "похожее",
+              "похожие/похожих"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "похожим",
+              "похожей",
+              "похожим",
+              "похожими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "похожем",
+              "похожей",
+              "похожем",
+              "похожих"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Short forms",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "short",
+                "похож",
+                "похожа",
+                "похоже",
+                "похожи"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "На дворников похожи.",
+          "trans": "You look like janitors."
+        },
+        {
+          "text": "Он очень похож на отца.",
+          "trans": "He looks very much like his father."
+        },
+        {
+          "text": "Нормально у вас тут, просторно. И маскировка хорошая, на дворников похожи.",
+          "trans": "It's nice in here, roomy. And good disguises—you look like janitors."
+        }
+      ],
+      "related": [
+        {
+          "word": "похожо",
+          "gloss": "in a similar way (adv.)"
+        },
+        {
+          "word": "похожость",
+          "gloss": "quality of being similar"
+        }
+      ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": [
+        {
+          "word": "шефный",
+          "gloss": "related to boss (adj.)"
         }
       ]
     }

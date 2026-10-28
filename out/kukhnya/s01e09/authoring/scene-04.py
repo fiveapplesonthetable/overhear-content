@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'alisa': 'Алиса', 'barinov': 'Шеф'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "In the restaurant office, little Alisa spends the day with her father, Chef Viktor Barinov. Alisa asks Viktor if she resembles him, sparking a playful conversation about her mother's teasing jokes. Listen to the conversation in Russian first, and then we will examine every line together."
-OPENER = 'Now, let us explore every line of this charming conversation between father and daughter step by step.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "A lighthearted moment showing Chef Barinov's gentle fatherly affection for his daughter. Next time you watch the episode, listen for the Russian expressions for 'attention' and 'always' — you will catch every word right away. See you next time!"
+INTRO = "Barinov is alone with Alisa, and the restaurant can wait. His daughter, who is about to say a lot about her parents, asks him a simple question. You'll hear it all in Russian before I explain a thing."
+OPENER = "Now we'll go over it."
+TRANSITION = 'Listen again, and see how much more you catch.'
+OUTRO = 'Under the joking, Barinov is clearly happy to have Alisa with him. They keep playing. Goodbye for now.'
 CLOSING = ('alisa', 'Пока!')
 STORY = [
     ('barinov', 'Алиса, как тебе мой ресторан?', 'Alisa, how do you like my restaurant?', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Я всегда готов играть с тобой.', 'I am always ready to play with you.', [], ''),
 ]
 WALK = [
-    (0, None, "'Alisa, how do you like my restaurant?' Viktor asks his young daughter with a proud smile."),
-    (1, None, "'Dad, look, do I look like you?' Alisa asks her father with childlike curiosity."),
-    (2, None, "'Of course, sunshine!' Viktor answers her warmly with an affectionate nickname."),
-    (3, None, "'You have my eyes and smile.' Looking fondly at his daughter, Viktor tells her she has his eyes and his smile."),
-    (4, None, "'And mom says something else.' Alisa pipes up that her mother says something quite different at home."),
-    (5, None, "'She says, thank God, you do not look like him!' Alisa quotes her mother with cheerful innocence."),
-    (6, None, "'She was just joking.' Viktor reassures his daughter with a chuckle."),
-    (7, None, "'Do not pay any attention.' Viktor dismisses the joke with a wave of his hand."),
-    (8, None, "'Are you handsome too, Dad?' Alisa questions him with a thoughtful tilt of her head."),
-    (9, None, "'I am the most handsome chef in Moscow!' Viktor declares his boast with theatrical confidence."),
-    (10, None, "'But mom says you are very funny.' Alisa giggles as she shares her mother's teasing view."),
-    (11, None, "'Mom is simply jealous of my talent.' Viktor defends his dignity with amused flair."),
-    (12, None, "'Then let us keep playing!' Alisa cheers as she returns to their game with joy."),
-    (13, None, "'I am always ready to play with you.' Viktor smiles happily as he enjoys this quiet moment with her. Now, let us listen to their playful conversation once more from start to finish."),
+    (0, None, '\'Alisa, how do you like my restaurant?\' The Russian is "how to you my restaurant?", with no verb at all. "Moy" is "my". Barinov shows off the place to his daughter like a man opening his own palace.'),
+    (1, None, '\'Dad, look, do I look like you?\' "Pap" is short for "papa", and "smotri" is "look". Then it\'s "similar to you". The -a on the end of the Russian for "similar" tells you the speaker is a girl.'),
+    (2, None, '\'Of course, sunshine!\' "Solnyshko" is "little sun", a pet name people use for a child. And "konechno", "of course", is spelled with a ch but said with a sh. That\'s one of the first oddities you hear in Russian.'),
+    (3, None, '\'You have my eyes and smile.\' It\'s the "at you" pattern once more: "at you my eyes and smile". "Glaza" is "eyes", and "ulybka" is "smile". Barinov is warm about it, and a little too quick.'),
+    (4, None, '\'And mom says something else.\' The little word "a" means "and" or "but", and here it turns the corner. "Drugoe" is "other", so "says other" means "says something different". Alisa repeats it exactly as she heard it.'),
+    (5, None, '\'She says, thank God, you do not look like him!\' "Slava bogu" is "glory to God", the everyday Russian "thank God". There\'s no "you" in the second half, just "ne pokhozha", "not similar". Alisa passes on her mother\'s joke word for word.'),
+    (6, None, '\'She was just joking.\' The Russian is in the present: "it she so jokes". "Tak" means "like this" or "that way". Barinov is quick to wave it away, with a straight face.'),
+    (7, None, '\'Do not pay any attention.\' It\'s a fixed phrase, literally "don\'t turn attention". "Vnimanie", "attention", is the word printed on Russian warning signs, the way English signs say "Caution!".'),
+    (8, None, '\'Are you handsome too, Dad?\' "Krasivy" means beautiful, and Russians use it for handsome men too. "Tozhe" is "also". It\'s the question a child asks, and the one a father can\'t resist answering.'),
+    (9, None, '\'I am the most handsome chef in Moscow!\' "Samy" is "the most", and it sits right before the describing word. "Moskva" becomes "Moskve" after "v", "in", when it means where something is.'),
+    (10, None, '\'But mom says you are very funny.\' "Smeshnoy" means funny, and it can also mean laughable. Alisa doesn\'t know which her mother means. "Ochen", "very", sits in front of it, exactly as in English.'),
+    (11, None, '\'Mom is simply jealous of my talent.\' "Zaviduet" is "envies", and Russian envies "to" something, so it\'s "envies to my talent", "moemu talantu". "Prosto" is "simply". It\'s a very Barinov explanation.'),
+    (12, None, '\'Then let us keep playing!\' "Togda" is "then". "Davay" literally means "give", but in front of another verb it\'s "let\'s". "Dalshe" is "further". She changes the subject like a child who\'s had enough of grown-up talk.'),
+    (13, None, '\'I am always ready to play with you.\' "Gotov" is "ready" and "vsegda" is "always". That\'s the soft side of the chef, said plainly. This is the line that makes you like him.'),
 ]

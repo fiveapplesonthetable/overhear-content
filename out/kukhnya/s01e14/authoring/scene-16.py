@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'louis': 'Луи', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "The guests realize the recipe is in French, and Louis watches Max embarrass himself. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Idiot line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max is trapped and must pretend to read French to save face. Next time you watch the episode, listen for the Russian expressions for 'in French' and 'problem' — you will catch every word right away. See you next time!"
+INTRO = "Elena has handed Max an old recipe, and it turns out to be written in French. Louis, the French pastry chef, is watching and can't believe it. Hear the scene in Russian first."
+OPENER = 'Again, and watch Max dig himself deeper.'
+TRANSITION = 'Here is the scene without interruptions.'
+OUTRO = 'Max is stuck, with a French recipe he cannot read. Can you spot the moment he gives himself away? Speak soon.'
 CLOSING = ('louis', 'Пока!')
 STORY = [
     ('elena', 'Тут все по-французски.', 'Here everything is in French.', [(249, 'Макс')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('louis', 'Это будет очень смешно.', 'This will be very funny.', [(249, 'Макс')], ''),
 ]
 WALK = [
-    (0, None, "'Here everything is in French.' Elena points out a potential issue. She notices that the entire recipe is in French."),
-    (1, None, "'For our chef this is not a problem.' She quickly dismisses the concern. Elena confidently states this is not a problem for their chef."),
-    (2, None, "'Right, Maximilian?' Elena asks Max for confirmation. She prompts him to agree with her."),
-    (3, None, "'Si.' Max gives a confident but incorrect answer. He replies with the Italian word for yes."),
-    (4, None, "'Si? Idiot.' Louis mutters an insult under his breath. He calls Max an idiot for the mistake."),
-    (5, None, "'Si is in Italian.' Louis corrects the language error privately. He points out that 'si' is Italian."),
-    (6, None, "'In French it will be oui.' He provides the correct French translation. Louis notes that it should be 'oui'."),
-    (7, None, "'Yes, of course, I know this.' Max tries to cover his tracks. He quickly agrees and claims he knew that all along."),
-    (8, None, "'Maximilian, do you understand the French language?' Elena is slightly suspicious now. She directly asks if he understands the French language."),
-    (9, None, "'Of course, I understand French perfectly.' Max doubles down on his lie. He confidently asserts that he understands French perfectly."),
-    (10, None, "'Well, what will you do now?' Louis watches with amusement. He wonders aloud how Max is going to get out of this one."),
-    (11, None, "'I will read this recipe and prepare the dish.' Max announces his plan to the room. He says he will read the recipe and cook the dish."),
-    (12, None, "'This will be very funny.' Louis anticipates a disaster. He happily predicts that this will be very funny to watch."),
+    (0, None, "'Here everything is in French.' 'Po-frantsuzski': 'po' in front, 'ski' at the end. The same pattern gives po-russki, in Russian."),
+    (1, None, "'For our chef this is not a problem.' 'Dlya', for, takes the 'of' form, so nash shef becomes nashego shefa. 'Problema' ends in 'a', and that makes it a feminine word."),
+    (2, None, "'Right, Maximilian?' 'Pravda' means 'truth', and on the end of a question it works like 'isn't it?'. She puts him on the spot."),
+    (3, None, "'Si.' It's an Italian 'yes', written in Russian letters. Max has chosen the wrong foreign language, which is the whole joke."),
+    (4, None, "'Si? Idiot.' Louis echoes the word as a question, then the insult. Idiot is the same word in Russian, but stressed on the end: idi-OT."),
+    (5, None, "'Si is in Italian.' A dash stands in for 'is'. 'Po-italyanski' follows the po and ski pattern from the first line."),
+    (6, None, "'In French it will be oui.' Russians use budet, 'will be', for how something is said in another language. 'Kak budet po-angliyski?' is the everyday 'how do you say it in English?'."),
+    (7, None, "'Yes, of course, I know this.' 'Konechno', of course, is one of the most common words in Russian. 'Znayu' is 'I know', from znat, to know."),
+    (8, None, "'Maximilian, do you understand the French language?' Elena says vy ponimaete, the polite 'you understand'. 'Frantsuzskiy yazyk' is the full name; most people drop yazyk, as Max does next."),
+    (9, None, "'Of course, I understand French perfectly.' Here 'French' stands alone, frantsuzskiy, and it's an adjective that does duty as the name of the language."),
+    (10, None, "'Well, what will you do now?' 'Budesh delat' is 'you will be doing': budesh, a form of 'be', plus delat. That's the future of an action with no clear finish."),
+    (11, None, "'I will read this recipe and prepare the dish.' 'Prochitayu' and prigotovlyu are single finished acts, so they are already future on their own, no 'budu' needed. Compare Louis's budesh delat just before."),
+    (12, None, "'This will be very funny.' 'Budet', 'will be', is the one future form of 'be' Russian can't drop. 'Smeshno' is 'funny' in the sense of 'it's funny'."),
 ]

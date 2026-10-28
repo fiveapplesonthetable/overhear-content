@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "Visiting Nastya at her apartment, Kostya expects a romantic evening together. However, Nastya candidly confesses that she feels uncomfortable acting out of obligation or gratitude rather than genuine love, leading to a tender and respectful agreement. Let's listen to their conversation in Russian."
-OPENER = "Now let's examine how Nastya and Kostya navigate their personal feelings and boundaries line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Finding mutual respect and emotional clarity, Kostya and Nastya spend a quiet, peaceful night together. Next time you watch the episode, listen for the Russian expressions for 'to wait' and 'second' — you will catch every word right away. See you next time!"
+INTRO = "Kostya has come to Nastya's flat expecting a romantic evening. Nastya, though, has something honest to say. Hear how she says it in Russian first."
+OPENER = 'Back through it slowly.'
+TRANSITION = 'Here is the whole conversation again.'
+OUTRO = "Kostya takes it well, and the two of them settle for a calm night. Keep 'blagodarna', grateful, for the next time someone helps you, or 'blagodaren' if you're a man. Until next time."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, подожди секунду, не спеши.', 'Kostya, wait a second, do not rush.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Да, Настя, всё совершенно нормально.', 'Yes, Nastya, everything is completely fine.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, wait a second, do not rush.' Nastya halts the romantic progression. She asks Kostya to slow things down."),
-    (1, None, "'Nastya, what happened, why are you sad?' Kostya is concerned by her change in mood. He notices she looks unhappy."),
-    (2, None, "'Nothing will work out between us today.' Nastya breaks the bad news. She gently tells him nothing is going to happen tonight."),
-    (3, None, "'Let us drink a little more juice!' Kostya suggests a refreshing beverage to relax. He tries to keep the atmosphere light."),
-    (4, None, "'No, Kostya, that is not the point.' She clarifies that drinks cannot solve her dilemma. Nastya says the issue is deeper than that."),
-    (5, None, "'I do not want to act without love.' Nastya explains her core principle. She refuses to do anything unless it comes from genuine affection."),
-    (6, None, "'I am simply very grateful for your help.' She admits her true feelings. Nastya realizes she is acting out of gratitude, not love."),
-    (7, None, "'Do you think that you owe me?' Kostya reassures her that he expects nothing in return. He asks if she feels indebted to him."),
-    (8, None, "'Yes, I feel like a dishonest person.' Nastya shares her inner moral conflict with him. She confesses she feels like a fraud."),
-    (9, None, "'Let us just sleep quietly tonight.' She proposes a platonic alternative. Nastya suggests they just get some rest."),
-    (10, None, "'All right, let us just sleep tonight.' Kostya agrees to her boundaries. He kindly accepts the simple sleepover."),
-    (11, None, "'Kostya, do you really understand my feelings?' Nastya seeks reassurance. She wants to be absolutely sure he is not hurt."),
-    (12, None, "'Yes, Nastya, everything is completely fine.' Kostya provides total comfort. He promises her that everything is perfectly fine."),
+    (0, None, "'Kostya, wait a second, do not rush.' These are two orders to a friend, 'podozhdi' and 'ne speshi'. 'Sekundu' takes the ending 'u' to mean 'for a second'."),
+    (1, None, "'Nastya, what happened, why are you sad?' 'Sluchilos' has an 'os' ending because 'chto' counts as neuter. 'Grustnaya' has 'aya' because Nastya is a woman."),
+    (2, None, "'Nothing will work out between us today.' Russian says 'at us nothing will turn out', not 'between us'. The 'ne' after 'nichego' is required."),
+    (3, None, "'Let us drink a little more juice!' 'Vypem' means 'drink up', with 'vy' for 'all the way'. 'Soka' has an 'a' because it's 'some juice'."),
+    (4, None, "'No, Kostya, that is not the point.' Literally, 'the matter is not in this'. It's the usual Russian way to say 'that's not the point'."),
+    (5, None, "'I do not want to act without love.' Two 'ne' sit in the sentence, one for 'I don't want' and one for 'not out of love', and they don't cancel each other. Russian marks the love with 'po lyubvi', 'out of love'."),
+    (6, None, "'I am simply very grateful for your help.' 'Blagodarna' is 'grateful', in a woman's form. It's built from 'blago', good, and 'darit', to give. 'Za' is 'for'."),
+    (7, None, "'Do you think that you owe me?' 'Obyazana' is a woman's 'obliged', and the 'a' gives her away. After 'dumaesh' comes 'chto', and the comma in front of it is mandatory in Russian."),
+    (8, None, "'Yes, I feel like a dishonest person.' 'Chuvstvuyu sebya' is literally 'I feel myself'. 'Nechestny' is 'ne' plus 'chestny', and 'ne' is how Russians make opposites."),
+    (9, None, "'Let us just sleep quietly tonight.' 'Pospim' is a short sleep, and the 'po' makes it brief. 'Spokoyno', calmly, sits just in front of it."),
+    (10, None, "'All right, let us just sleep tonight.' Kostya repeats her words, minus 'spokoyno'. 'Davay' with a 'we' verb is the same 'let's' form as before."),
+    (11, None, "'Kostya, do you really understand my feelings?' 'Chuvstva' means 'feelings' and belongs to the family of 'chuvstvuyu', 'I feel'. 'Pravda' means 'truth', but here it means 'really'."),
+    (12, None, "'Yes, Nastya, everything is completely fine.' 'Normalno' is the English 'normal' with an 'o', because Russian adverbs end in 'o'. 'Sovershenno', completely, is the word Max used in the car for 'absolutely right'."),
 ]

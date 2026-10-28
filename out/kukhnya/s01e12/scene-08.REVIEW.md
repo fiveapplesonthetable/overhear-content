@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Шеф, всё в полном порядке? | Chef, is everything in complete order? | #73: все в порядке? | verbatim |
-| 2 | Шеф | Это что ещё за стеклянный аквариум? | What kind of glass aquarium is this? | #74: Это что за аквариум? | verbatim |
-| 3 | Макс | Это распоряжение Виктории Сергеевны, шеф. | This is Victoria Sergeyevna's order, chef. | #74: это Виктория Сергеевна сказала | verbatim |
+| 1 | Макс | Шеф, всё в полном порядке? | Chef, is everything in complete order? | #73 00:04:35: все в порядке? | verbatim |
+| 2 | Шеф | Это что ещё за стеклянный аквариум? | What kind of glass aquarium is this? | #74 00:04:39: Это что за аквариум? | verbatim |
+| 3 | Макс | Это распоряжение Виктории Сергеевны, шеф. | This is Victoria Sergeyevna's order, chef. | #74 00:04:39: это Виктория Сергеевна сказала | verbatim |
 | 4 | Шеф | Зачем нам эта прозрачная стена? | Why do we need this transparent wall? | new | new |
-| 5 | Макс | Она нужна для привлечения новых гостей. | It is needed to attract new guests. | #75: для привлечения клиентов | verbatim |
-| 6 | Макс | Это модный формат открытой кухни. | This is a trendy open kitchen format. | #75: Называется «шоу-китчен» | verbatim |
+| 5 | Макс | Она нужна для привлечения новых гостей. | It is needed to attract new guests. | #75 00:04:42: для привлечения клиентов | verbatim |
+| 6 | Макс | Это модный формат открытой кухни. | This is a trendy open kitchen format. | #75 00:04:42: Называется «шоу-китчен» | verbatim |
 | 7 | Шеф | Повара не должны быть на арене! | Cooks should not be in an arena! | new | new |
 | 8 | Макс | Гости любят смотреть на процесс готовки. | Guests love watching the cooking process. | new | new |
 | 9 | Шеф | Они будут видеть каждый наш шаг. | They will see our every step. | new | new |
@@ -26,7 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What kind of glass aquarium is this?' A scornful exclamatory question mocking the newly installed transparent partition in the restaurant.
-- 'It is needed to attract new guests.' An impersonal purpose construction explaining the marketing strategy behind the dining renovation.
-- 'Cooks should not be in an arena!' An emphatic negative modal statement rejecting public display during culinary preparation.
-- 'I am not a clown in a circus, Max.' A colorful metaphor asserting personal pride and refusing theatrical entertainment for patrons. Now, let's hear Chef Barinov express his outrage over the open kitchen once more.
+- 'Chef, is everything in complete order?' 'V poryadke' is 'in order', which is how Russians say 'fine' or 'all right'. 'Vsyo' is 'everything', and 'polnom' means 'full'.
+- 'What kind of glass aquarium is this?' A grumpy 'what on earth is this?' starts it. Barinov's 'glass' is the adjective 'made of glass', formed from the noun, and 'aquarium' is borrowed whole.
+- 'This is Victoria Sergeyevna's order, chef.' First name plus father's name is the respectful way to name someone. To say 'of', both change: Viktoriya becomes 'Viktorii' and Sergeyevna becomes 'Sergeyevny'.
+- 'Why do we need this transparent wall?' 'Zachem nam' is literally 'what for to us'. 'Eta' and 'prozrachnaya' end in 'a' because 'stena', wall, is a feminine word.
+- 'It is needed to attract new guests.' Max says 'she' about the wall, since 'wall' is feminine in Russian, so 'nuzhna' ends in 'a' too. 'Dlya' means 'for' and sets up the reason.
+- 'This is a trendy open kitchen format.' 'Modnyy', 'trendy', grows from moda, 'fashion'. 'Format otkrytoy kukhni' is literally 'format of open kitchen'.
+- 'Cooks should not be in an arena!' 'Povara' is the plural of 'povar', cook. 'Dolzhny' is 'must', in the plural, and 'ne dolzhny' is 'shouldn't'. 'Na arene' is 'on the arena', where Russian uses 'on' again.
+- 'Guests love watching the cooking process.' 'Lyubyat' is 'they love', and 'smotret', 'to watch', follows it in its basic shape. 'Gotovki' is 'of cooking', built from 'gotovit', cook.
+- 'They will see our every step.' 'Budut videt' is made of 'will be' and 'see', which is how Russian does the future with this word. 'Kazhdy' means 'every'.
+- 'On the other hand, there will be more patrons in the restaurant.' 'Zato' means 'but on the plus side', and Russians use it to say 'on the other hand, it's good'. 'Bolshe' is 'more', and after it, posetiteli, 'visitors', becomes posetiteley.
+- 'I am not a clown in a circus, Max.' 'Kloun' and 'tsirk' are borrowed words, so you can guess them. 'V tsirke' is 'in the circus', and there's no 'am' in the sentence.
+- 'Victoria Sergeyevna has already decided everything herself.' 'Reshila' ends in 'a' because the person who decided is a woman, and 'sama', 'herself', does the same. A man would say 'reshil' and 'sam'.
+- 'I will go talk to her right now.' Two actions in a row: 'I will go' and 'to have a talk'. After 'with', 'she' turns into 'ney', so 'with her' is just two short words.

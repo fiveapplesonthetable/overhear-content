@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'guest': 'Гость', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = 'Near the reception desk of Claude Monet, the husband of the ailing female diner steps up to settle their bill. Expecting an angry complaint or a scandal over food poisoning, Victoria is astonished when the customer offers an earnest apology and reveals a touching personal secret. Let us listen to their conversation in Russian first.'
-OPENER = "Now let us examine Victoria and the gentleman's polite discussion line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Deeply relieved to discover that pregnancy rather than food poisoning was the cause, Victoria happily confirms that the restaurant's reputation remains untarnished. Next time you watch the episode, listen for the Russian expressions for 'pregnant' and 'dish' — you will catch every word right away. See you next time!"
+INTRO = "The woman who ran to the restroom has a husband, and he is waiting to pay the bill. He wants to apologise to Vika for the trouble. Listen first, and I'll explain afterwards."
+OPENER = "Let's unpack it."
+TRANSITION = 'Back to the full version.'
+OUTRO = 'The lady is not the critic, and the mystery is not solved. Vika has another suspect. Take care until then.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Здравствуйте, вам понравился наш ресторан сегодня?', 'Hello, did you like our restaurant today?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Значит, эта женщина точно не критик.', 'So this woman is definitely not the critic.', [(226, 'мы точно знаем, что критик не она')], ''),
 ]
 WALK = [
-    (0, None, "'Hello, did you like our restaurant today?' Vika politely asks the guest if they enjoyed the restaurant today. She is checking on their experience."),
-    (1, None, "'Please forgive us, for the love of God.' The guest apologizes profusely to the staff. They literally ask for forgiveness for the sake of goodness."),
-    (2, None, "'Did something happen with your wife?' Vika is concerned and asks if something happened to the guest's wife. She wants to know why they are apologizing."),
-    (3, None, "'My wife told me everything in detail.' The guest explains that his wife told him everything in detail. He knows the whole story now."),
-    (4, None, "'Did she get poisoned by some dish of ours?' Vika worries that the woman got food poisoning from their dish. She is trying to find the problem."),
-    (5, None, "'No, she was not poisoned by food at all.' The guest reassures her that it is not food poisoning at all. The food is perfectly fine."),
-    (6, None, "'Why then did she feel so ill?' Vika is confused about why the woman felt so bad then. She wants to understand the situation."),
-    (7, None, "'She is pregnant, already in the third month.' The guest reveals the secret that she is actually pregnant. She is already three months along."),
-    (8, None, "'So she just has bad morning sickness?' Vika realizes the woman just has severe morning sickness. It was never about the restaurant food."),
-    (9, None, "'Yes, the smells of food make her nauseous.' The guest confirms this by saying food smells make her sick. It is a normal pregnancy symptom."),
-    (10, None, "'We were very worried about her health.' Vika expresses relief and mentions how worried they were. They really cared about her well-being."),
-    (11, None, "'Thank you for your understanding and care.' The guest thanks her for being so understanding and caring. They appreciate the restaurant's kind attitude."),
-    (12, None, "'So this woman is definitely not the critic.' Vika concludes that this woman is definitely not the restaurant critic. They were panicking over nothing."),
+    (0, None, '\'Hello, did you like our restaurant today?\' "Vam ponravilsya", "to you pleased", is "did you like", and "ponravilsya" ends to agree with "restoran", which is masculine. Vika opens politely.'),
+    (1, None, '\'Please forgive us, for the love of God.\' "Uzh" softens the request, like "please do". "Radi boga", "for God\'s sake", has "radi", the word in Nastya\'s "radi udovolstviya", "for pleasure".'),
+    (2, None, '\'Did something happen with your wife?\' "Chto-to" is "chto", "what", with -to: "something". "S vashey zhenoy" is "with your wife", with -oy endings after "s".'),
+    (3, None, '\'My wife told me everything in detail.\' "Podrobno", "in detail", is the word in Max\'s "ya mogu vsyo podrobno obyasnit". "Rasskazala" is "told", with -la for the wife.'),
+    (4, None, '\'Did she get poisoned by some dish of ours?\' "Kakim-to" is "kakoy", "which", with -to: "some". "Otravilas", "got poisoned", has a woman\'s -las. "Blyudom" is "by a dish".'),
+    (5, None, '\'No, she was not poisoned by food at all.\' "Vovse ne", "not at all", is Barinov\'s phrase: "vovse ne v moikh stavkakh". "Edoy", "by food", is "eda" in its "by means of" form.'),
+    (6, None, '\'Why then did she feel so ill?\' "Pochemu zhe" is "why then", with the little "zhe" again. "Ey stalo tak plokho", "to her became so bad", is the pattern for feeling ill.'),
+    (7, None, '\'She is pregnant, already in the third month.\' Russians are "na tretyem mesyatse", "on the third month". "Beremenna", "pregnant", is a short form, and it ends in -a.'),
+    (8, None, '\'So she just has bad morning sickness?\' "Toksikoz", "toxicosis", is the medical word Russians use for morning sickness. "U neyo" is "at her", the "she has" pattern. "Tak" is "so".'),
+    (9, None, '\'Yes, the smells of food make her nauseous.\' "Ot zapakhov edy" is "from the smells of food", with "ot" for "from" or "because of". "Eyo toshnit", "her nauseates", has no subject.'),
+    (10, None, '\'We were very worried about her health.\' "Perezhivali", "worried", is plural, because Vika speaks for the restaurant. "Zdorovye", "health", is Senya\'s word in "kak vashe zdorovye?"'),
+    (11, None, '\'Thank you for your understanding and care.\' "Za" is "for". "Zabota", "care", is the word Vika used about children needing "nastoyashchey zaboty", "real care". "Ponimanie" is "understanding".'),
+    (12, None, '\'So this woman is definitely not the critic.\' "Znachit", "so", literally means "means". "Tochno ne" is "definitely not". Vika crosses a suspect off her list.'),
 ]

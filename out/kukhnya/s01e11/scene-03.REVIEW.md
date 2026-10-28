@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Привет, Настя, почему ты без настроения? | Hi, Nastya, why are you in a bad mood? | #41: Привет.<br>#43: без настроения? | verbatim |
-| 2 | Настя | Люди сорвали живые цветы ради удовольствия. | People tore live flowers for pleasure. | #44: выбьют живые цветы? | verbatim |
+| 1 | Костя | Привет, Настя, почему ты без настроения? | Hi, Nastya, why are you in a bad mood? | #41 00:02:44: Привет.<br>#43 00:02:48: без настроения? | verbatim |
+| 2 | Настя | Люди сорвали живые цветы ради удовольствия. | People tore live flowers for pleasure. | #44 00:02:49: выбьют живые цветы? | verbatim |
 | 3 | Костя | Не грусти, Настя, всё будет хорошо. | Do not be sad, Nastya, everything will be fine. | new | new |
-| 4 | Настя | Это ужасно, так поступают злые люди. | This is terrible, wicked people act like that. | #45: Это же ужасно. Изверги. | verbatim |
-| 5 | Костя | Давай сходим куда-нибудь на этих выходных. | Let us go somewhere this weekend. | #46: сходим куда-нибудь? | verbatim |
-| 6 | Настя | Я тоже хотела предложить тебе встречу. | I also wanted to suggest a meeting to you. | #47: Я тебе тоже хотела предложить. | verbatim |
-| 7 | Костя | Отлично! В какое красивое место пойдём? | Great! What beautiful place shall we go to? | #48: Класс. Куда? | verbatim |
-| 8 | Настя | Мы поедем вместе в Химкинский лес. | We will go together to the Khimki forest. | #48: В Химкинский лес. | verbatim |
-| 9 | Костя | А зачем нам ехать в лес? | And why do we need to go to the forest? | #49: А зачем? | verbatim |
-| 10 | Настя | Там будет большой митинг в защиту леса. | There will be a big rally in defense of the forest. | #50: На митинг против вырубки. | verbatim |
+| 4 | Настя | Это ужасно, так поступают злые люди. | This is terrible, wicked people act like that. | #45 00:02:56: Это же ужасно. Изверги. | verbatim |
+| 5 | Костя | Давай сходим куда-нибудь на этих выходных. | Let us go somewhere this weekend. | #46 00:02:59: сходим куда-нибудь? | verbatim |
+| 6 | Настя | Я тоже хотела предложить тебе встречу. | I also wanted to suggest a meeting to you. | #47 00:03:05: Я тебе тоже хотела предложить. | verbatim |
+| 7 | Костя | Отлично! В какое красивое место пойдём? | Great! What beautiful place shall we go to? | #48 00:03:07: Класс. Куда? | verbatim |
+| 8 | Настя | Мы поедем вместе в Химкинский лес. | We will go together to the Khimki forest. | #48 00:03:07: В Химкинский лес. | verbatim |
+| 9 | Костя | А зачем нам ехать в лес? | And why do we need to go to the forest? | #49 00:03:11: А зачем? | verbatim |
+| 10 | Настя | Там будет большой митинг в защиту леса. | There will be a big rally in defense of the forest. | #50 00:03:14: На митинг против вырубки. | verbatim |
 | 11 | Костя | Я думал, мы пойдём в кино. | I thought we would go to the cinema. | new | new |
 | 12 | Настя | Спасать живую природу гораздо важнее кино! | Saving living nature is much more important than cinema! | new | new |
 | 13 | Костя | Хорошо, Настя, я с удовольствием поеду. | Alright, Nastya, I will gladly go. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Nastya, why are you in a bad mood?' Kostya greets his friend and asks why she is in a bad mood. He notices she looks sad. 'Bez nastroeniya' literally means without mood.
-- 'People tore live flowers for pleasure.' Nastya complains that people tore live flowers just for pleasure. She is upset about nature being harmed. 'Radi udovolstviya' means for pleasure.
-- 'Do not be sad, Nastya, everything will be fine.' Kostya tells her not to be sad and that everything will be fine. He tries to comfort her. 'Ne grusti' means do not be sad.
-- 'This is terrible, wicked people act like that.' Nastya thinks it is terrible and that wicked people act like that. She is very passionate about this. 'Zlye lyudi' means evil or wicked people.
-- 'Let us go somewhere this weekend.' Kostya suggests they go somewhere this weekend. He wants to cheer her up. 'Na etikh vykhodnykh' means on this weekend.
-- 'I also wanted to suggest a meeting to you.' Nastya replies that she also wanted to suggest a meeting. She likes the idea. 'Tozhe khotela' means also wanted.
-- 'Great! What beautiful place shall we go to?' Kostya is happy and asks what beautiful place they shall go to. He says 'otlichno' which means great. He is looking forward to it.
-- 'We will go together to the Khimki forest.' Nastya declares they will go together to the local forest. She has a specific place in mind. She says 'vmeste' for together.
-- 'And why do we need to go to the forest?' Kostya wonders why they need to go to the forest. This is not what he expected. 'Zachem' means what for.
-- 'There will be a big rally in defense of the forest.' Nastya explains there will be a big rally in defense of the forest. She wants to protest. 'Miting' is a public gathering or rally.
-- 'I thought we would go to the cinema.' Kostya admits he thought they would go to the cinema. A date at the movies is more typical. 'Ya dumal' means I thought.
-- 'Saving living nature is much more important than cinema!' Nastya argues that saving living nature is much more important than cinema. She is very serious about her cause. 'Gorazdo vazhnee' means much more important.
-- 'Alright, Nastya, I will gladly go.' Kostya agrees and says he will gladly go. He gives in to her plan. 'S udovolstviem' means with pleasure.
+- 'Hi, Nastya, why are you in a bad mood?' Russians say "bez nastroeniya", "without mood", for a bad mood, as if mood were something you can be short of. "Bez", "without", changes "nastroenie" to "nastroeniya".
+- 'People tore live flowers for pleasure.' "Zhivye tsvety" are "live flowers", real ones, as opposed to artificial. "Sorvali" is "tore off" or "picked". "Radi udovolstviya" is "for the sake of pleasure".
+- 'Do not be sad, Nastya, everything will be fine.' "Ne grusti", "don't be sad", is from "grust", "sadness". "Vsyo budet khorosho", "everything will be good", is the Russian "all will be well".
+- 'This is terrible, wicked people act like that.' "Postupayut", "act", is from the same family as "postupki", "deeds", in Barinov's lecture about a man's actions. "Zlye", "wicked", is the root of Senya's "ne zli", "don't anger".
+- 'Let us go somewhere this weekend.' "Kuda-nibud" is "kuda", "to where", with -nibud: "to somewhere or other". "Skhodim" is "let's go and come back". "Na etikh vykhodnykh" is "on these days off".
+- 'I also wanted to suggest a meeting to you.' "Khotela", "wanted", ends in -la, since she's a woman. "Predlozhit", "suggest", is the TV woman's "offer". "Vstrecha" is a meeting, and here a date.
+- 'Great! What beautiful place shall we go to?' "V kakoe mesto" is "into which place": after "v", meaning "into", "mesto" stays as it is. "Poydyom" is "shall we go" on foot. Nastya is thinking of something else.
+- 'We will go together to the Khimki forest.' She says "poedem", the by-vehicle "go", so they'll travel there. "Khimki" is a town on the edge of Moscow, and its forest was a famous protest site.
+- 'And why do we need to go to the forest?' "Zachem" asks "what for". "Nam ekhat" is "to us to go", again the by-vehicle word. "V les" is "into the forest". Kostya is puzzled.
+- 'There will be a big rally in defense of the forest.' "Miting" is the English "meeting" borrowed into Russian, but it means a political rally. "V zashchitu lesa" is "in defence of the forest": "les" becomes "lesa".
+- 'I thought we would go to the cinema.' "Kino" never changes its ending, whatever the sentence. "Dumal", "thought", ends in the man's -l. "Poydyom" is "we will go" on foot.
+- 'Saving living nature is much more important than cinema!' "Spasat", "saving", is from the family of "spasti". Russian puts the second item straight after "vazhnee", "more important", with no word for "than": "vazhnee kino".
+- 'Alright, Nastya, I will gladly go.' "S udovolstviem", "with pleasure", is how Russians say "gladly". "Poedu", "I will go", is the by-vehicle word, because they're travelling. Kostya gives in at once.

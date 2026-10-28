@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'In the kitchen of Claude Monet, Max finishes preparing special French dishes for the VIP table. He calls Kostya to the kitchen pass to deliver the plates into the dining room immediately. Let us listen to their conversation in Russian first.'
-OPENER = "Now let us examine Max and Kostya's conversation at the pass line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With the intricate dishes plated and inspected, Kostya hurries out into the dining room to serve the VIP diners and deliver Max's greeting. Next time you watch the episode, listen for the Russian expressions for 'new' and 'order' — you will catch every word right away. See you next time!"
+INTRO = 'In the kitchen, Max has finished the special French dishes. He calls Kostya to carry them to the VIP table. Listen to the two of them in Russian.'
+OPENER = 'Slowly now, plate by plate.'
+TRANSITION = 'Now the whole order again.'
+OUTRO = "Kostya sets off for the dining room with the plates and a message from the kitchen. Remember 'priyatnogo appetita', the Russian bon appetit. Talk soon."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Костя, новый заказ для гостей готов.', 'Kostya, the new order for the guests is ready.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Иди скорее, гости уже ждут заказ!', 'Go quickly, the guests are already waiting for the order!', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, the new order for the guests is ready.' Max proudly announces the food is ready. He tells Kostya the VIP order is complete."),
-    (1, None, "'Great, show me these beautiful plates.' Kostya asks to see the masterpiece. He wants to look at the beautiful plates."),
-    (2, None, "'Here is a delicious French steak and hot fish.' Max presents his culinary creations. He points out the French steak and the hot fish."),
-    (3, None, "'This dish looks very appetizing and expensive.' Kostya is impressed by the presentation. He remarks that it looks very appetizing and expensive."),
-    (4, None, "'I cooked this rare recipe for a long time.' Max highlights the effort he put in. He mentions it took a long time to prepare this rare recipe."),
-    (5, None, "'Our guests in the hall are very hungry.' Kostya reminds him of the urgency. He points out that the guests are very hungry."),
-    (6, None, "'Then carry these plates right now.' Max tells Kostya to hurry up. He orders him to take the plates out right now."),
-    (7, None, "'I will quickly take the hot food to the guests.' Kostya promises swift delivery. He assures Max he will carry the hot food out quickly."),
-    (8, None, "'Be sure to wish them bon appétit.' Max gives a final instruction. He tells Kostya to be sure to wish them bon appetit."),
-    (9, None, "'Of course, I will do everything very politely.' Kostya promises to be professional. He says he will do everything very politely."),
-    (10, None, "'Say that the chef cooked for them.' Max wants to ensure he gets the credit. He specifically asks Kostya to mention the chef cooked it."),
-    (11, None, "'Good, I will pass on your warm words.' Kostya agrees to the request. He promises to pass on the warm words."),
-    (12, None, "'Go quickly, the guests are already waiting for the order!' Max urges him out the door. He yells at Kostya to go because the guests are waiting."),
+    (0, None, "'Kostya, the new order for the guests is ready.' 'Gotov', ready, matches 'zakaz', order, which is masculine. A dish, 'blyudo', would be 'gotovo', and a pizza 'gotova'."),
+    (1, None, "'Great, show me these beautiful plates.' 'Pokazhi' is the order 'show!'. 'Eti krasivye tarelki' is all plural: 'eto' becomes 'eti', and 'tarelka', plate, becomes 'tarelki'."),
+    (2, None, "'Here is a delicious French steak and hot fish.' 'Vot' is 'here is', for pointing at something. 'Ryba', fish, is feminine, so 'hot' is 'goryachaya'; 'steyk' is masculine and takes 'vkusny'."),
+    (3, None, "'This dish looks very appetizing and expensive.' After 'vyglyadit', looks, Russian uses the 'o' words, 'appetitno' and 'dorogo', literally 'looks appetizingly and expensively'."),
+    (4, None, "'I cooked this rare recipe for a long time.' 'Gotovil' is the kind of past that describes a process, so with 'dolgo', for a long time, it means 'I spent ages cooking'."),
+    (5, None, "'Our guests in the hall are very hungry.' 'Golodnye' ends in 'ye' to match the plural 'gosti'. 'Zal', the hall or dining room, becomes 'v zale', in the hall."),
+    (6, None, "'Then carry these plates right now.' 'Nesi' is 'carry!' when you carry by hand on foot. 'Pryamo seychas' is literally 'straight now', so 'this minute'."),
+    (7, None, "'I will quickly take the hot food to the guests.' 'Otnesu' has 'ot', away, for 'carry over'. 'Gostyam' is 'to the guests', with the plural 'yam' ending meaning 'to'."),
+    (8, None, "'Be sure to wish them bon appetit.' 'Priyatnogo appetita' is literally 'of pleasant appetite'. 'Pozhelat', to wish, puts what you wish into the 'of' form."),
+    (9, None, "'Of course, I will do everything very politely.' 'Vezhlivo', politely, is the 'o' form of 'vezhlivy', polite. 'Vsyo sdelayu' is 'everything I'll do', with 'vsyo' first."),
+    (10, None, "'Say that the chef cooked for them.' 'Ikh', them, gains an 'n' after little words like 'dlya', for: 'dlya nikh'. The same happens to 'nego' and 'ney'."),
+    (11, None, "'Good, I will pass on your warm words.' 'Peredam' is 'I'll pass on'. Kostya calls Max 'ty', so it's 'tvoi tyoplye slova', with 'tvoi', your, in the plural for 'slova', words."),
+    (12, None, "'Go quickly, the guests are already waiting for the order!' 'Skoree' is literally 'sooner', and 'idi skoree' is the everyday 'hurry up'. 'Zhdut zakaz' has no word for 'for'."),
 ]

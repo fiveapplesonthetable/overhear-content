@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Still furious about the deception, Leva confronts Chef Victor through a closed door. He firmly demands that Victor pack his bags and move out of his and his mother's apartment immediately. Let us listen to their conversation in Russian first."
-OPENER = 'Now let us examine the conversation line by line.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Still furious about the deception, Leva confronts Chef Victor through a closed door. He firmly demands that Victor pack his bags and move out of his and his mother's apartment immediately. Next time you watch the episode, listen for the Russian expressions for 'to open' and 'it is necessary' — you will catch every word right away. See you next time!"
+INTRO = 'Lyova is standing outside the bathroom, and he has had enough of his flatmate. He tells Barinov through the door that he must leave. Listen in Russian first.'
+OPENER = "Slowly now, line by line."
+TRANSITION = 'And the scene again, uninterrupted.'
+OUTRO = "Barinov starts packing, and Lyova waits to hear the door. Does Barinov really leave? We'll find out."
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('lyova', 'Открывай, нам надо поговорить.', 'Open up, we need to talk.', [(288, 'Открывай, поговорить надо.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('lyova', 'Ключи оставь на столе.', 'Leave the keys on the table.', [], ''),
 ]
 WALK = [
-    (0, None, "'Open up, we need to talk.' Lyova demands entry, stating that they need to have a serious conversation."),
-    (1, None, "'Leva, what do you want?' Barinov asks what the problem is from behind the door."),
-    (2, None, "'I want to tell you one thing.' Getting straight to the point, Lyova says he has one clear message to deliver."),
-    (3, None, "'So that your foot is no longer in my house.' Using a strong expression, he demands that his former boss never step foot inside his home again."),
-    (4, None, "'Today pack your things and leave.' Giving a strict deadline, he orders him to pack up and get out immediately."),
-    (5, None, "'You no longer live with me and Mom.' Making the eviction final, he tells him his time living with him and his mother is over."),
-    (6, None, "'Is that clear to you?' Finishing the ultimatum, Lyova asks if the message was understood."),
-    (7, None, "'Yes, sure.' Barinov brushes it off, saying he is perfectly fine with leaving."),
-    (8, None, "'As if I need it.' Feigning indifference, he adds that he did not even want to be there anyway."),
-    (9, None, "'I am waiting until you leave.' Standing his ground, Lyova declares he will wait right there until the departure is complete."),
-    (10, None, "'I am already leaving.' Barinov shoots back that he is already in the process of heading out."),
-    (11, None, "'Leave the keys on the table.' Lyova gives one final instruction to leave the house keys behind."),
+    (0, None, "'Open up, we need to talk.' 'Otkryvay' is the order 'open!', in the form that sounds like 'come on, open up'. 'Nam nado', 'to us needed', is 'we need'."),
+    (1, None, "'Lyova, what do you want?' 'Khochesh' is 'you want', with the 'esh' ending that goes with 'ty'. The two of them are on 'ty' terms here."),
+    (2, None, "'I want to tell you one thing.' 'Odna veshch' becomes 'odnu veshch' because it is the thing being told. 'Veshch' also means a physical thing, an object."),
+    (3, None, "'So that your foot is no longer in my house.' This is an idiom: 'chtoby nogi tvoey ne bylo' is 'let your foot not be', which means 'never set foot'. 'Nogi' takes the 'of' ending after 'not be'."),
+    (4, None, "'Today pack your things and leave.' 'Segodnya zhe' is 'today, right now'. The little 'zhe' stresses the immediacy. 'Sobiray' and 'uezzhay' are two orders joined by 'i'."),
+    (5, None, "'You no longer live with me and Mom.' Russians say 'at us with Mom' for 'with me and Mom'. 'Bolshe ne zhivyosh'' is 'no more you live'."),
+    (6, None, "'Is that clear to you?' 'Tebe eto yasno' is 'to you this clear', with no verb at all. It is the schoolteacher's favourite question."),
+    (7, None, "'Yes, sure.' 'Da pozhaluysta' sounds polite, but here it means 'fine, be my guest'. The tone makes all the difference."),
+    (8, None, "'As if I need it.' 'Ochen mne nado' is 'very to me necessary', which in the right voice means the opposite: 'as if I cared'. Russian has sarcasm built in."),
+    (9, None, "'I am waiting until you leave.' 'Poka' means both 'while' and 'until'. Here it takes the plain future, 'you will leave', which in English would be 'until you leave'."),
+    (10, None, "'I am already leaving.' 'Ukhozhu' is 'I am leaving', from 'ukhodit'. 'Uzhe', already, comes before it."),
+    (11, None, "'Leave the keys on the table.' 'Klyuchi' is the plural of 'klyuch', key. 'Ostav' is the order 'leave!', and 'na stole' is 'on the table', with the 'e' ending for where something is."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "By the bar, Kostya and Max survey the dining room guests with keen detective curiosity. Knowing that a dreaded restaurant critic is visiting Claude Monet, the two friends analyze each customer's food and wine choices. Listen to their conversation in Russian first, and then we will examine each sentence."
-OPENER = 'Now, let us examine the vocabulary and phrasing of this entertaining dining room investigation.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "A charming scene full of fun observations about restaurant habits and undercover reviewers. Next time you watch the episode, listen for the Russian expressions for 'bank' and 'notepad' — you will catch every word right away. See you next time!"
+INTRO = 'The critic could be anyone in the room. Kostya and Max stand at the bar and size up the guests, one table at a time. Have a listen first.'
+OPENER = "Let's slow it down."
+TRANSITION = "Now let's hear it once more, start to finish."
+OUTRO = 'They have a suspect, and she is sitting at table seven. Whether she is the critic or not, the staff will treat her like a queen. Enjoy the rest of the episode.'
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Макс, смотри внимательно на зал!', 'Max, look carefully at the dining room!', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Кажется, мы нашли нашего критика!', 'It seems we found our critic!', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, look carefully at the hall!' Kostya tells his friend to look carefully at the hall. They are spying on the customers. 'Vnimatelno' means attentively."),
-    (1, None, "'Who of them could be the critic?' Max wonders who among them could be the critic. They are trying to guess. 'Kto zhe iz nikh' means who of them."),
-    (2, None, "'Those two work in the neighboring bank.' Kostya points out those two work in the neighboring bank. He knows the regular crowd. 'V sosednem banke' means in the next bank."),
-    (3, None, "'Yes, they are our regular guests.' Max agrees and says they are regular guests. 'Postoyannye' means constant or regular. They can skip them."),
-    (4, None, "'And what about that man by the window?' Kostya asks about that man by the window. They are moving to the next suspect. 'U okna' means by the window."),
-    (5, None, "'He ordered fish and red wine.' Max notes he ordered fish and red wine. This is a culinary clue. Red wine with fish is often considered a mistake."),
-    (6, None, "'No, a real critic would not order that.' Kostya argues a real critic would not order that combination. It proves he is not the one. 'Nastoyashchiy kritik' means a real critic."),
-    (7, None, "'And what about the guy at table number three?' Max asks about the guy at table number three. He points out another person. 'Za stolikom' means at the little table."),
-    (8, None, "'He is too young for a restaurant critic.' Kostya thinks he is too young for a restaurant critic. He dismisses him based on age. 'Slishkom molod' means too young."),
-    (9, None, "'Critics usually sit alone.' Max adds that critics usually sit alone. He knows some industry secrets. 'V odinochestve' means in solitude."),
-    (10, None, "'And write everything down in a notepad.' Kostya says they also write everything down in a notepad. He mentions another stereotype. 'Bloknot' is a small notebook."),
-    (11, None, "'Look, the woman at the seventh table!' Max excitedly tells him to look at the woman at the seventh table. He spots someone suspicious. 'Zhenshchina' means woman."),
-    (12, None, "'She is looking very sternly at the menu.' Kostya observes she is looking very sternly at the menu. This fits the profile. 'Strogo smotrit' means looks strictly."),
-    (13, None, "'It seems we have found our critic!' Max thinks they have finally found their critic. He is relieved. 'Kazhetsya' means it seems."),
+    (0, None, '\'Max, look carefully at the dining room!\' "Smotri vnimatelno" is "look attentively". "Na zal" is "at the hall": "na" is the small word for looking at something. Kostya speaks in a conspirator\'s voice.'),
+    (1, None, '\'Which one of them could be the critic?\' It\'s "kto zhe iz nikh", "who then of them", and "mozhet byt" is "can be". After "byt", "kritik" becomes "kritikom".'),
+    (2, None, '\'Those two work at the bank next door.\' "Sosedny", "neighbouring", comes from "sosed", "neighbour". "V sosednem banke" is "in the neighbouring bank". "Eti dvoe" is "these two".'),
+    (3, None, '\'Yes, they are our regular guests.\' Russians call regulars "postoyannye gosti", "constant guests". Max agrees with Kostya\'s logic: regulars cannot be mystery visitors.'),
+    (4, None, '\'And that man by the window?\' "U okna" is "at the window": after "u", "okno" becomes "okna". "Muzhchina", "man", is close to "muzh", "husband". Kostya moves on to the next suspect.'),
+    (5, None, '\'He ordered fish and red wine.\' "Zakazal" is "ordered", from "zakaz". "Rybu" is "ryba", "fish", as the thing ordered. "Krasnoe vino" is "red wine". Max reads the table like a detective.'),
+    (6, None, '\'No, a real critic will not order that.\' "Takogo ne zakazhet" is "of such not will order", with "takoe" changed after "ne". "Zakazhet" is "will order". Kostya is sure of his rules for critics.'),
+    (7, None, '\'What about the guy at table number three?\' "A" at the front means "and what about". "Za stolikom" is "at the little table": "stolik" is a small "stol", the usual word for a restaurant table.'),
+    (8, None, '\'He is too young for a restaurant critic.\' "Molod" is a short form of "molodoy", "young", used to describe someone in the moment. "Dlya restorannogo kritika" is "for a restaurant critic", with endings after "dlya".'),
+    (9, None, '\'Critics usually sit in solitude.\' "Odinochestvo", "solitude", comes from "odin", "one" or "alone", Louis\'s word in "ya odin". "V odinochestve" is "in solitude". "Obychno" is "usually".'),
+    (10, None, '\'And write down everything in a notepad.\' "Zapisyvayut" is "write down": za- on "pisat", "to write". "Bloknot", "notepad", was borrowed from French. "V bloknot" is "into the notepad".'),
+    (11, None, '\'Look, the woman at table seven!\' The table is "za sedmym stolikom", "at the seventh little table", a counting word. "Zhenshchina" is "woman". The suspect is a lady alone, so she fits.'),
+    (12, None, '\'She is looking very strictly at the menu.\' "Strogo", "strictly", is "strogy" with -o. "Menyu" never changes in Russian. Kostya is drawing a conclusion from a frown, which is hardly proof.'),
+    (13, None, '\'It seems we found our critic!\' "Kazhetsya", "it seems", is a single word. "Nashli", "found", ends in -li for "we". "Nashego kritika" is "our critic" as the one found.'),
 ]
