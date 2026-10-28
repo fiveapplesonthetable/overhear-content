@@ -28,13 +28,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Good afternoon, welcome to the restaurant!' "Dobry den" is "kind day", which is what Russians say for "good afternoon". "Dobro pozhalovat" is the set phrase for "welcome". Vika sounds professional, and that's the point.
 - 'Hello, is that your girlfriend?' "Zdravstvuyte" is the long, formal hello, from "be healthy". Alisa uses the polite "vy" with the guests, as she was taught. And then she says something very rude.
-- 'Alisa, behave decently with the guests.' "Vedi sebya" is "lead yourself", behave, the same expression from the last scene. "Prilichno" means "decently" or "properly". Vika sounds more frightened than strict.
-- 'I had a grandfather in Novorossiysk.' Here's a good point: Russian has no word for "am" or "is", but it does have a past, "byl", "was". So it's "at me was a grandfather". "Dedushka" is grandfather. The line comes from nowhere.
+- 'Alisa, behave decently with the guests.' "Vedi sebya" is "lead yourself", behave, the same expression from the last scene. "Prilichno" means "decently" or "properly", and "s gostyami" is "with the guests".
+- 'I had a grandfather in Novorossiysk.' Russian drops "is" in the present, but the past has "byl", "was". So it's "at me was a grandfather". "Dedushka" is grandfather. The line comes from nowhere.
 - 'But he died last year.' "Umer" is "died", with the man's ending. "V proshlom godu" is "in the past year", which is how Russians say "last year". Alisa says it cheerfully, and the guest does not know where to look.
 - 'And here at last is your dad!' "Vot" is the pointing word, "here is" or "there is". "Nakonets" is "at last", seen in the knife scene. The relief in Vika's voice is easy to hear.
 - 'Dad, let us go play with me quickly!' "Poydyom" is "let's go", on foot. "Skoree" is "quicker". "So mnoy" is "with me", and a small "o" is added to "s" so that it can be said. Alisa is all about her own plans.
-- 'First I will check our cooks' work.' "Snachala" is "first". "Proveryu" is "I will check". "Rabotu nashikh povarov" is "work of our cooks", with the "of" shown by the endings. He's a chef before he is a father.
-- 'Put less Parmesan into this dish!' "Kladite" is a command to several people, so the -te ending is the "you all" one. A moment ago he was using "ty". "Menshe" is "less". Barinov looks at the plate and shouts.
+- 'First I will check our cooks' work.' "Snachala" is "first", and "proveryu" is "I will check". "Rabotu nashikh povarov" is "work of our cooks": "povara", "cooks", becomes "povarov", and that ending is the "of".
+- 'Put less Parmesan into this dish!' "Kladite" ends in -te, so it's a command to several people, the whole kitchen at once. "Menshe" is "less", and "parmezana" has the "some of" ending after it.
 - 'The sauce was ordered a whole half-hour ago.' "Zakazali" is "they ordered", from "zakaz", the order. "Tselykh polchasa" is "a whole half-hour". And "ago" in Russian is "nazad", which means "back". Barinov is furious, and it shows.
 - 'Move faster, the guests have been waiting long for the order.' "Shevelites" is "move yourselves", with the -s on the end, and "bystree" is "faster". "Dolgo zhdut" is "long they wait". This is the chef's real language, short and loud.
 - 'Dad always commands so loudly.' "Vsegda" is "always" and "gromko" is "loudly". "Komanduet" is almost the English "commands". Alisa just states it, as if it were the weather.

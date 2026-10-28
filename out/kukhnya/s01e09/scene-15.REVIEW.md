@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alisa, what kind of red spots have appeared?' "What for" is how Russian asks "what kind of", literally. Max is mostly curious. The Russian for red is also an old word for beautiful, which is why Red Square has that name.
-- 'I really cannot eat chocolate at all.' Alisa says "to me after all completely not allowed". The "after all" is the little word from the last scene, the "but you know" one. She answers like a child who has heard the rule a hundred times.
-- 'Papa got scared and is writing his will!' The ending that means "himself" turns up in "got scared", as if fear happened to him. The will is the legal one, and Max says it with a grin. Barinov is dramatic in any language.
-- 'Wow, what a handsome sweet cake!' Alisa's "wow" is a short, admiring sound. What Russian calls "handsome" or "beautiful" is the same one she used about her father. She isn't easily impressed, so this is real praise.
-- 'You like it? I made it myself.' Russian doesn't say "do you like it". It says "is it pleasing", just as the guest's taste did earlier. Max stresses that he did it himself. He's proud, and he wants to hear it.
-- 'Did you make it for Aunt Vika?' After the Russian for "for", both words change their ending, and names do too: Vika becomes "Viki". Alisa asks it as plain fact, and that is the problem. Max has been seen through by a child.
-- 'Why do you think about Aunt Vika?' After the term for "about", the endings change again, so Vika turns into "Viku". Max tries to sound casual, and he does not manage it. He answers a question with a question.
-- 'Papa always made tasty food for Mama.' The cooking word is back, with the man's -l. "To Mama" has its own ending. Alisa has noticed that her father cooks for the people he loves, which is a sharp thing to notice.
-- 'And what is this supposed to mean at all?' In Russian, "supposed to" and the word for "to mean" sit next to each other. Max is confused, and his question is a good one. The little "at all" filler is back again.
-- 'So Papa loves my Mama very much.' The first word is literally "means", and Russians use it as "so" when they draw a conclusion. Alisa works it out like a detective, and she delivers it without any fuss.
-- 'But Vika and I are just friends.' Russian says "we with Vika" for "Vika and I". It is the usual way to put it. Max is trying to wriggle out, and he sounds a bit too quick.
-- 'And Aunt Vika said that she loves you!' Alisa's "said" has the woman's ending, because it's Vika who said it. She has heard it from the source, and she passes it on. The kitchen's other secret is out.
-- 'Wow, that is real important news!' The Russian for news is one piece in Russian, singular, so "a piece of news". The "wow" returns from the dining room scene. Max hasn't been so happy all day.
+- 'Alisa, what kind of red spots have appeared?' "Chto za", literally "what for", is how Russian asks "what kind of". "Krasny" is "red", and it once also meant "beautiful", which is how Red Square got its name. "Pyatna" are spots.
+- 'I really cannot eat chocolate at all.' Alisa says "mne zhe sovsem nelzya", "to me after all completely not allowed". The "zhe" is the same little "you know" word from the last scene. She has heard the rule a hundred times.
+- 'Papa got scared and is writing his will!' "Ispugalsya", "got scared", ends in -sya, the "himself" ending, as if fear happened to him. "Zaveshchanie" is a will, the legal one. Max says it with a grin.
+- 'Wow, what a handsome sweet cake!' "Ukh ty" is a short, admiring "wow". "Krasivy" is "beautiful" or "handsome", a relative of the old "krasny". She isn't easily impressed, so this is real praise.
+- 'You like it? I made it myself.' Russian doesn't say "do you like it". It says "nravitsya?", "is it pleasing?". "Sam" is "myself" for a man. He's proud, and he wants to hear it.
+- 'Did you make it for Aunt Vika?' After "dlya", "for", both words change: "tyotya Vika" becomes "tyoti Viki". Alisa asks it as plain fact, and that is the problem.
+- 'Why do you think about Aunt Vika?' After "pro", "about", the endings change again, to "tyotyu Viku". Max tries to sound casual, and he does not manage it. He answers a question with a question.
+- 'Papa always made tasty food for Mama.' "Gotovil" is "cooked" with the man's -l. "Mame" is "to Mama", with no word for "for" needed. "Vkusnaya eda" is "tasty food". It's a sharp thing for a child to notice.
+- 'And what is this supposed to mean at all?' "Dolzhno znachit" is "must mean": "dolzhno" is "must" or "supposed to". "Voobshche", "at all", is a filler Russians use when they're baffled.
+- 'So Papa loves my Mama very much.' "Znachit" is literally "means", and Russians use it as "so" when they draw a conclusion. "Silno lyubit" is "strongly loves". Alisa works it out like a detective.
+- 'But Vika and I are just friends.' Russian says "my s Vikoy", "we with Vika", for "Vika and I". "Druzya" is "friends", the plural of "drug". Max sounds a bit too quick.
+- 'And Aunt Vika said that she loves you!' "Skazala" has the woman's -la, because Vika is the one who said it. "Lyubit tebya" is "loves you". Alisa passes it on straight from the source.
+- 'Wow, that is real important news!' "Novost" is one piece of news, and Russian can count them: "novosti" is several. "Ogo" is another "wow", a surprised one. Max hasn't been so happy all day.

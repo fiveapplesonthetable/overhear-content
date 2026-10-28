@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Lyova, sit here and watch over Alisa.' "Sidi" is "sit" as a bare command, and "zdes" is "here". "Smotri za Alisoy" is "look after Alisa": the word "look" with a small "za", "after". The same phrase turned up when Vika gave her orders.
 - 'Do not take your eyes off her.' It's an idiom, and the Russian says "an eye from her don't let down". The term for eye is in the singular. Every Russian parent says this, and it sounds far more serious than it looks.
-- 'And do not give her chocolate, she has an allergy.' "Ne day" is "don't give". "U neyo" is "at her", the "at" pattern again. The Russian for allergy you can read straight off. This is the one rule that really matters.
+- 'And do not give her chocolate, she has an allergy.' "Ne davay" is "don't give": the same "davay" that means "let's" before another verb, but here it's plain "give". "U neyo allergiya" is "at her allergy", the "at" pattern again, and "allergiya" you can almost read straight off.
 - 'Uncle Lyova, let us play!' Children call a grown-up friend "dyadya", "uncle", and then the first name. "Davay" is "give", which in front of a verb means "let's". Alisa is not asking. She's already started.
 - 'Maybe we could just sit here instead?' "Mozhet, luchshe" is "maybe better". The po- at the front of "posidim" makes it "sit for a while". Lyova is a shy man, and he tries the quietest idea he has.
 - 'I will tell Dad, he will fire you!' "Papa" takes an -e and becomes "to Dad", so you get "I to-Dad will-say". "Uvolit" is "will fire". A girl of her age has already worked out where the power sits in this building.
-- 'All right, what should we play?' "Vo chto" is "into what", which is how Russian puts it: you play "into" a game. Lyova gives up quickly. His "all right" is "khorosho", the usual word for "good".
+- 'All right, what should we play?' "Vo chto" is "into what", because Russian plays "into" a game: "igrat v". Before "chto" the little "v" grows an "o" and becomes "vo", which is easier to say.
 - 'Let us play hide and seek!' The game is called "pryatki", and it's always plural. It comes from the Russian for "hide". "Davay v pryatki" is as short as a game proposal can be.
 - 'And who will hide?' "Kto" is "who". The word "to hide" ends in -tsya, which means "hide oneself". Lyova asks seriously, as if the rules had been written down somewhere.
 - 'Of course, I will hide!' "Ya budu pryatatsya" is "I will be hiding". "Budu" is "will be", the same trick as "will work". "Konechno" is the sh-sounding "of course" from before.
 - 'You are so tall, you cannot be hidden anywhere.' Russian calls a tall person "dlinny", "long", so Lyova is "such a long one". "Nigde" is "nowhere", and it sits with "ne", "not". An insult only a child could get away with.
-- 'Close your eyes, count to a hundred.' "Zakryvay glaza" is "close eyes", and "schitay do sta" is "count up to a hundred". The Russian for hundred changes after "do", "up to". The usual hide-and-seek rules, in two short commands.
+- 'Close your eyes, count to a hundred.' "Zakryvay glaza" is "close eyes", and "schitay do sta" is "count up to a hundred". "Sto", "a hundred", turns into "sta" after "do", "up to". The usual hide-and-seek rules in two short commands.
 - 'One, two, three, four...' Counting is "raz, dva, tri, chetyre". "Raz" is what you use when counting aloud, and it also means "once". Lyova actually starts counting, so the story moves on without him.
 - 'Count slowly, I am going to hide!' "Medlenno" is "slowly", and "ya idu" is "I go" on foot. "Pryatatsya" is the hiding word from earlier. She has him counting while she runs off, as every child does.

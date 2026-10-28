@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Viktor, I have a lot of work today.' It's the same "at me" pattern as in the last scene: "at me today a lot of work". Vika uses his first name, Viktor, so these two know each other well.
-- 'What is the matter, dear Victoria?' Word for word it's "in what is the matter?". Barinov uses her full name, Victoria, instead of Vika, and puts a sweet "dear" in front. It's a man turning on the charm.
+- 'What is the matter, dear Victoria?' Word for word it's "in what is the matter?", "v chyom delo". Barinov uses her full name, Victoria, instead of Vika, and puts "dorogaya", "dear", in front of it.
 - 'My sister asked me to babysit Alisa.' Russian babysits by saying "sit with": you "sit with" a child. The sister is Tanya, Alisa's mother. And the Russian for "asked" ends in -a because a woman did the asking.
-- 'And why with you and not with me?' It's short and blunt: "with you, not with me", and the little word "a" sets the two against each other. Barinov is the father, and he's hurt that nobody thought of him.
-- 'Because you are always busy in the kitchen.' "Potomu chto" is "because", literally "for that what". "Zanyat" is "busy", and there's no word for "are". Vika isn't unkind, just honest.
-- 'I want to spend time with my daughter myself.' The word "sam" is "myself", as in "me, personally". The term for "spend" here also means "lead through", so you guide your time along like a walk. It's an odd picture and a very common phrase.
+- 'And why with you and not with me?' "S toboy" and "so mnoy", "with you" and "with me", side by side; "s" grows an "o" before "mnoy" so it's easier to say. The little word "a" sets the two against each other.
+- 'Because you are always busy in the kitchen.' "Potomu chto" is "because", and the "chto" in it is said "shto". "Zanyat" is "busy", and there's no word for "are".
+- 'I want to spend time with my daughter myself.' "Sam" is "myself", as in "me, personally". "Provesti vremya" is "to spend time", built from "vesti", "to lead", so you lead your time through the day. It's a very common phrase.
 - 'Alisa, who do you want to stay with?' "S kem" is "with whom", and the Russian for "stay" really means "stay behind". Vika uses "ty" with the little girl, as you do with any child.
 - 'My daughter wants to stay with her dad.' "Doch" is "daughter", and "dochka" is the fond, softer version. Barinov beats the girl to the answer. He says "with his own dad", using "svoim" for "one's own".
 - 'Well, you decided everything yourselves.' "Nu vot" is "well, there you are". Here "vy" means "you two", so it's plural, and "sami" is "yourselves". Vika shrugs. She knows she has lost.
-- 'I will buy her delicious sweet chocolate.' Barinov starts spoiling his daughter at once. "Ey" is "for her", and "kuplyu" is "I will buy". Two describing words sit in front of the chocolate, tasty and sweet, as if he were selling it.
+- 'I will buy her delicious sweet chocolate.' Barinov starts spoiling his daughter at once. "Kuplyu" is "I will buy", and "ey" is "her" in the sense of "for her". Two describing words sit in front of the chocolate, "vkusny" and "sladky", tasty and sweet.
 - 'Remember, she is not allowed to eat chocolate.' "Nelzya" is one handy word for "not allowed" or "must not", and Russian puts it as "to her, not allowed". "Pomni" is a bare command, "remember", with no "you" needed.
-- 'Do not worry, Vika, I know everything.' "Ne volnuysya" is "don't worry". The -sya on the end is a small "yourself", like "don't get yourself worked up". Barinov is overconfident, and the story is about to prove it.
-- 'Watch her attentively until the evening.' "Smotri za ney" is "look after her": the word "look" plus the small word "za", "after". "Do vechera" is "until evening". Vika gives her orders and keeps an eye on the clock.
+- 'Do not worry, Vika, I know everything.' "Ne volnuysya" is "don't worry". The -sya on the end is a small "yourself", like "don't get yourself worked up". "Vsyo znayu" is "I know everything", and that's quite a promise.
+- 'Watch her attentively until the evening.' "Smotri za ney" is "look after her": the verb "look" plus the small word "za", "after". "Do vechera" is "until evening", and "vecher" picks up an -a after "do".

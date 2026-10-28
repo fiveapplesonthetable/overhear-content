@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Viktor, I have a lot of work today.\' It\'s the same "at me" pattern as in the last scene: "at me today a lot of work". Vika uses his first name, Viktor, so these two know each other well.'),
-    (1, None, '\'What is the matter, dear Victoria?\' Word for word it\'s "in what is the matter?". Barinov uses her full name, Victoria, instead of Vika, and puts a sweet "dear" in front. It\'s a man turning on the charm.'),
+    (1, None, '\'What is the matter, dear Victoria?\' Word for word it\'s "in what is the matter?", "v chyom delo". Barinov uses her full name, Victoria, instead of Vika, and puts "dorogaya", "dear", in front of it.'),
     (2, None, '\'My sister asked me to babysit Alisa.\' Russian babysits by saying "sit with": you "sit with" a child. The sister is Tanya, Alisa\'s mother. And the Russian for "asked" ends in -a because a woman did the asking.'),
-    (3, None, '\'And why with you and not with me?\' It\'s short and blunt: "with you, not with me", and the little word "a" sets the two against each other. Barinov is the father, and he\'s hurt that nobody thought of him.'),
-    (4, None, '\'Because you are always busy in the kitchen.\' "Potomu chto" is "because", literally "for that what". "Zanyat" is "busy", and there\'s no word for "are". Vika isn\'t unkind, just honest.'),
-    (5, None, '\'I want to spend time with my daughter myself.\' The word "sam" is "myself", as in "me, personally". The term for "spend" here also means "lead through", so you guide your time along like a walk. It\'s an odd picture and a very common phrase.'),
+    (3, None, '\'And why with you and not with me?\' "S toboy" and "so mnoy", "with you" and "with me", side by side; "s" grows an "o" before "mnoy" so it\'s easier to say. The little word "a" sets the two against each other.'),
+    (4, None, '\'Because you are always busy in the kitchen.\' "Potomu chto" is "because", and the "chto" in it is said "shto". "Zanyat" is "busy", and there\'s no word for "are".'),
+    (5, None, '\'I want to spend time with my daughter myself.\' "Sam" is "myself", as in "me, personally". "Provesti vremya" is "to spend time", built from "vesti", "to lead", so you lead your time through the day. It\'s a very common phrase.'),
     (6, None, '\'Alisa, who do you want to stay with?\' "S kem" is "with whom", and the Russian for "stay" really means "stay behind". Vika uses "ty" with the little girl, as you do with any child.'),
     (7, None, '\'My daughter wants to stay with her dad.\' "Doch" is "daughter", and "dochka" is the fond, softer version. Barinov beats the girl to the answer. He says "with his own dad", using "svoim" for "one\'s own".'),
     (8, None, '\'Well, you decided everything yourselves.\' "Nu vot" is "well, there you are". Here "vy" means "you two", so it\'s plural, and "sami" is "yourselves". Vika shrugs. She knows she has lost.'),
-    (9, None, '\'I will buy her delicious sweet chocolate.\' Barinov starts spoiling his daughter at once. "Ey" is "for her", and "kuplyu" is "I will buy". Two describing words sit in front of the chocolate, tasty and sweet, as if he were selling it.'),
+    (9, None, '\'I will buy her delicious sweet chocolate.\' Barinov starts spoiling his daughter at once. "Kuplyu" is "I will buy", and "ey" is "her" in the sense of "for her". Two describing words sit in front of the chocolate, "vkusny" and "sladky", tasty and sweet.'),
     (10, None, '\'Remember, she is not allowed to eat chocolate.\' "Nelzya" is one handy word for "not allowed" or "must not", and Russian puts it as "to her, not allowed". "Pomni" is a bare command, "remember", with no "you" needed.'),
-    (11, None, '\'Do not worry, Vika, I know everything.\' "Ne volnuysya" is "don\'t worry". The -sya on the end is a small "yourself", like "don\'t get yourself worked up". Barinov is overconfident, and the story is about to prove it.'),
-    (12, None, '\'Watch her attentively until the evening.\' "Smotri za ney" is "look after her": the word "look" plus the small word "za", "after". "Do vechera" is "until evening". Vika gives her orders and keeps an eye on the clock.'),
+    (11, None, '\'Do not worry, Vika, I know everything.\' "Ne volnuysya" is "don\'t worry". The -sya on the end is a small "yourself", like "don\'t get yourself worked up". "Vsyo znayu" is "I know everything", and that\'s quite a promise.'),
+    (12, None, '\'Watch her attentively until the evening.\' "Smotri za ney" is "look after her": the verb "look" plus the small word "za", "after". "Do vechera" is "until evening", and "vecher" picks up an -a after "do".'),
 ]
