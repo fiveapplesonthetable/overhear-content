@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сын | Извини, мама, я сильно опоздал сегодня. | Sorry, mom, I was very late today. | #1: Извини | verbatim |
+| 1 | Сын | Извини, мама, я сильно опоздал сегодня. | Sorry, mom, I was very late today. | #1 00:00:21: Извини | verbatim |
 | 2 | Мама | Почему ты пришёл так поздно домой? | Why did you come home so late? | new | new |
-| 3 | Сын | Я долго гулял с моими друзьями. | I walked for a long time with my friends. | #1: Я с друзьями | verbatim |
-| 4 | Мама | Тебе повезло, что папа спит. | You got lucky that dad is sleeping. | #2: повезло, что папочка не видел | verbatim |
+| 3 | Сын | Я долго гулял с моими друзьями. | I walked for a long time with my friends. | #1 00:00:21: Я с друзьями | verbatim |
+| 4 | Мама | Тебе повезло, что папа спит. | You got lucky that dad is sleeping. | #2 00:00:24: повезло, что папочка не видел | verbatim |
 | 5 | Сын | А папа разве сердится на меня? | Is dad really angry with me? | new | new |
-| 6 | Мама | Папа опять проиграл все наши деньги. | Dad lost all our money again. | #3: Он опять все | verbatim |
+| 6 | Мама | Папа опять проиграл все наши деньги. | Dad lost all our money again. | #3 00:00:27: Он опять все | verbatim |
 | 7 | Сын | Он снова играл на наши деньги? | Did he play with our money again? | new | new |
 | 8 | Мама | Да, он делал ставки на футбол. | Yes, he placed bets on football. | new | new |
 | 9 | Сын | И его любимая команда опять проиграла? | And his favorite team lost again? | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry, mom, I was very late today.' Slipping into the apartment late at night, the boy apologizes to his mother for the delay.
-- 'Why did you come home so late?' Waiting up for him in the hallway, his mother asks why he came home so late.
-- 'I walked for a long time with my friends.' He explains that he lost track of time while walking outside with his friends.
-- 'You got lucky that dad is sleeping.' His mother sighs that he is lucky his father is already fast asleep.
-- 'Is dad really angry with me?' Nervous about getting in trouble, the boy asks whether his dad is angry with him.
-- 'Dad lost all our money again.' Instead of being angry at him, she reveals that his father gambled away all their money again.
-- 'Did he play with our money again?' Stunned, the boy asks if his father really bet their family savings once more.
-- 'Yes, he placed bets on football.' Mother expresses the thought naturally and directly.
-- 'And his favorite team lost again?' Knowing his father's weakness for football bets, he guesses that his dad's favorite team lost again.
-- 'Yes, his favorite Spartak lost again.' She confirms with a heavy sigh that his beloved Spartak lost yet another match.
-- 'Now do we have no money at all?' Russian says 'at us there is no money at all' as the boy realizes their savings are gone.
-- 'It is alright, son, we will cope with everything.' Calling him 'little son' affectionately, his mother reassures him that they will get through everything together.
-- 'Tomorrow I will find myself a good job.' Wanting to help the family right away, the boy promises to find a good job tomorrow.
+- 'Sorry, mom, I was very late today.' "Izvini" is the casual "sorry", said to one person you know well. "Opozdal", "was late", ends in -l because he is a boy. And "silno", "strongly", stands where English says "very".
+- 'Why did you come home so late?' "Domoy" means "to home": one little word that already carries the "to". "At home" is a different word, "doma". "Prishyol" is "came", on foot.
+- 'I walked for a long time with my friends.' "Gulyal" means to stroll or hang about, not to walk somewhere. "S moimi druzyami" is "with my friends": both words take the -ami, -imi endings after "s".
+- 'You got lucky that dad is sleeping.' Russian doesn't say "you got lucky". It says "tebe povezlo", "to you it was lucky", so luck happens to you. "Spit" is "is sleeping". She is on his side.
+- 'Is dad really angry with me?' "Razve" at the start is "really?", a bit of doubt. Russians are angry "na", "on", someone: "serditsya na menya", with the -sya ending.
+- 'Dad lost all our money again.' "Proigral" is "igral", "played", with pro- in front, so it's "played away": you lose by playing. "Dengi", "money", is plural, so "all" is the plural "vse".
+- 'Did he play with our money again?' Russians play "na dengi", "on money", meaning for stakes. "Snova" is "again", a twin of "opyat" from his mother's line.
+- 'Yes, he placed bets on football.' Russians "make" a bet: "delal stavki". "Stavka", a bet, is something you put down, from "stavit", "to put". And it's "na futbol", "on football".
+- 'And his favorite team lost again?' "Komanda", "team", ends in -a, so "favourite" is "lyubimaya" and "lost" is "proigrala", both with -a. The question is short and weary.
+- 'Yes, his favorite Spartak lost again.' Spartak is a Moscow football club, and the chef in this show is a fan too. Now it's "lyubimy" and "proigral", with no -a, because Spartak is a he-word.
+- 'Now do we have no money at all?' It's "u nas sovsem net deneg", "at us entirely no of money". After "net", "dengi" becomes "deneg". There is no "have" and no "any", just that ending.
+- 'It is alright, son, we will cope with everything.' "Nichego", "nothing", is Russian for "never mind" here. "Synok" is a fond form of "syn", "son". "Spravimsya", "we will cope", is the word Louis used in the pastry kitchen.
+- 'Tomorrow I will find myself a good job.' "Naydu sebe" is "will find to myself". "Rabota" becomes "rabotu", because it's the thing he will find. He says it with a boy's confidence.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = 'Following the disastrous confrontation with the restaurant critic, Nastya rushes to apologize to Kostya for calling him a coward. Before they can reconcile, Chef Barinov storms into the dining hall and abruptly fires the young bartender.'
-OPENER = "Let's witness Nastya's sincere apology and Barinov's ruthless dismissal of Kostya following the critic scandal."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Dismissed by an unforgiving Barinov, Kostya leaves the restaurant while Nastya searches for a way to save him. Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = 'The chef has heard what Kostya did, and he is about to deal with it. Nastya apologises to Kostya first, in the kitchen corridor. Just listen, and see how much you pick up.'
+OPENER = 'This time, with explanations.'
+TRANSITION = 'Once more, at the pace of a real conversation.'
+OUTRO = "Kostya is fired, and Nastya wants him back. The two of them have only a few hours before the critic's article comes out. Back soon."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, подожди секунду, выслушай меня пожалуйста.', 'Kostya, wait a second, listen to me please.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nastya', 'Мы должны всё исправить до выхода статьи.', 'We must fix everything before the article comes out.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, wait a second, listen to me please.' Nastya begs her boyfriend to wait a second and listen to her. She desperately wants to talk."),
-    (1, None, "'Forgive me for stupidly calling you a coward.' Nastya apologizes for foolishly calling him a coward earlier. She feels terrible about what she said."),
-    (2, None, "'You treated me very unfairly.' Kostya tells her that she treated him very unfairly. He is deeply hurt by her words."),
-    (3, None, "'I was very mistaken and deeply regret it.' Nastya admits she made a huge mistake and regrets it deeply. She knows she was completely wrong."),
-    (4, None, "'Kostya, you are fired, quickly pack your things!' Barinov angrily fires the bartender on the spot and tells him to pack his things fast. He is furious."),
-    (5, None, "'Chef, are you really driving me out of work?' Kostya is shocked and asks if the boss is really kicking him out. He cannot believe this is happening."),
-    (6, None, "'You caused a scandal with an important restaurant critic!' Barinov yells about the massive scandal caused with the VIP guest. It is an unforgivable offense."),
-    (7, None, "'Chef, it is I who am to blame for everything!' Nastya bravely steps in and claims all the blame for herself. She wants to save his job."),
-    (8, None, "'I do not care, the bartender leaves right now.' Barinov coldly says he does not care and the guy leaves immediately. He has made up his mind."),
-    (9, None, "'All right, chef, I will take off the uniform immediately.' Kostya accepts his fate and agrees to take off his uniform right away. He will not fight it."),
-    (10, None, "'We cannot lose the restaurant' Nastya argues they cannot afford to lose their best employee. She is trying everything to change his mind."),
-    (11, None, "'Our restaurant will have huge problems now.' Barinov points out the huge problems heading their way now. The business might not survive this."),
-    (12, None, "'We must fix everything before the article comes out.' Nastya insists they must fix everything before the terrible article is published. They still have a chance."),
+    (0, None, '\'Kostya, wait a second, listen to me please.\' "Vyslushay" has the prefix vy-, so Nastya asks him to listen to the end. "Podozhdi" is "wait". She uses "ty" with him, and she is gentle.'),
+    (1, None, '\'Forgive me for stupidly calling you a coward.\' After "nazvala", "called", the coward becomes "trusom". "Prosti", "forgive", is what Kostya said to her earlier: "Nastya, nu prosti menya za vcherashnee". Now it is her turn.'),
+    (2, None, '\'You treated me very unfairly.\' "Nespravedlivo" is "ne spravedlivo", "not fairly", made from the word for justice. "Postupila", "acted", is the verb from Nastya\'s own line: "tak postupayut zlye lyudi". Kostya is hurt.'),
+    (3, None, '\'I was very mistaken and deeply regret it.\' "Oshiblas", "was mistaken", has -las for a woman. "Sozhaleyu", "I regret", is related to "pozhaleesh", in Barinov\'s "Dmitry, ty pozhaleesh ob etom!". Nastya apologises in full.'),
+    (4, None, '\'Kostya, you are fired, quickly pack your things!\' "Uvolen" is "fired", a short passive form. "Sobiray", "pack", is literally "collect". "Veshchi" is "things", as in Vika\'s "vazhnuyu veshch" to Max. Barinov is blunt.'),
+    (5, None, '\'Chef, are you really driving me out of work?\' "Vygonyaesh" is "drive out", with vy- for "out". "S raboty" is "from work". "Neuzheli" is "can it really be". Kostya cannot believe it.'),
+    (6, None, '\'You caused a scandal with an important restaurant critic!\' "Ustroil skandal", "arranged a scandal", is the Russian way to say "made a scene". "S vazhnym kritikom" is "with an important critic". Barinov is stern.'),
+    (7, None, '\'Chef, it is I who am to blame for everything!\' "Vinovata", "guilty", is a short form that ends in -a for a woman. "Vo vsyom" is "in everything". Nastya takes the blame, and it is a brave thing to do.'),
+    (8, None, '\'I do not care, the bartender leaves right now.\' "Mne vsyo ravno" is the idiom Barinov used about the critic in the soup scene. "Barmen" comes from English "barman". "Pryamo seychas" is "right now".'),
+    (9, None, '\'All right, chef, I will take off the uniform immediately.\' "Forma" is the Russian for "uniform", the same word as "form" or "shape". "Snimu" is "I will take off". Kostya accepts, with dignity.'),
+    (10, None, '\'We cannot lose the restaurant\'s best bartender.\' "Poteryat", "lose", is the verb in Barinov\'s "poteryala svoyu glupuyu golovu". "Luchshego", "best", grows from "luchshe", "better". Nastya says "my", "we".'),
+    (11, None, '\'Our restaurant will have huge problems now.\' "U nashego restorana budut", "at our restaurant will be", is the pattern for "will have". "Ogromnye" is "huge". Barinov knows what the article could say.'),
+    (12, None, '\'We must fix everything before the article comes out.\' "Do vykhoda statyi" is "before the exit of the article": "vykhod", "exit", is the word for a publication coming out. "Ispravit" is "to fix". Nastya sets the deadline.'),
 ]

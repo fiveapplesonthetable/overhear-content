@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "While cleaning out the darkest corner behind the kitchen storage shelves, Max and Kostya discover an old blue plastic bag. Unaware that it contains Chef's prized luxury truffles, they examine the strange lumpy objects and assume they are rotten potatoes. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this fateful kitchen misunderstanding line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Unwittingly tossing away Chef Barinov's expensive truffles, Kostya heads outside to the garbage bin. See you next time!"
+INTRO = "Still cleaning for the inspection, Max and Kostya reach the back of the storeroom at Claude Monet and find an old plastic bag full of something black and knobbly. They agree it's rotten potatoes. It's in Russian first, and there's a joke in it that the chef would not enjoy."
+OPENER = "Let's go slowly. Max and Kostya sound like friends who have been cleaning for hours, which they have."
+TRANSITION = 'Now the storeroom scene in one go.'
+OUTRO = 'Remember "gnilaya", rotten, and "musornyy bak", rubbish bin, because the chef will want them later. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Макс, посмотри, что это такое лежит?', 'Max, look, what is that lying there?', [(79, 'Что это такое')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Отлично, нам ещё много мыть сегодня.', 'Great, we still have a lot to wash today.', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, look, what is that lying there?' Noticing something weird in a dark corner, Kostya points it out."),
-    (1, None, "'It looks like some rotten potato.' Max misidentifies the priceless truffles as decaying tubers."),
-    (2, None, "'It looks very strange and dirty.' He is grossed out by the lumpy items, Kostya wrinkles his nose."),
-    (3, None, "'Let's just throw out this old bag.' Max decides the best course of action is to toss the mysterious garbage."),
-    (4, None, "'Or maybe we will sell it online?' Joking around, Kostya suggests fencing the weird items on the web."),
-    (5, None, "'Who needs rotten and black potatoes?' Max laughs at the absurdity of anyone paying for rotten produce."),
-    (6, None, "'People on the internet buy absolutely everything!' Kostya argues that web buyers have famously low standards."),
-    (7, None, "'Kostyan, do not be silly, drop these jokes.' Max tells his friend to stop messing around and focus on cleaning."),
-    (8, None, "'Okay, I will take it to the dumpster.' Grabbing the bag of luxury ingredients, Kostya fully intends to trash them."),
-    (9, None, "'Take it quickly to the garbage bin outside.' Max directs him to get the foul-looking bag out of the kitchen quickly."),
-    (10, None, "'I will return quickly now and we will continue cleaning.' Kostya promises a swift trip to the alley before resuming their chores."),
-    (11, None, "'Great, we still have a lot to wash today.' Max acknowledges the mountain of deep cleaning still awaiting them."),
+    (0, None, '\'Max, look, what is that lying there?\' "Chto eto takoe" is \'what on earth is this\', a little longer than plain "chto eto". "Lezhit", it lies, is the normal word for something just sitting there.'),
+    (1, None, '\'It looks like some rotten potato.\' "Pokhozhe", it looks like, is a good way to start a guess. "Kakaya-to" is \'which\' with -to added, and it turns into \'some kind of\'.'),
+    (2, None, '\'It looks very strange and dirty.\' "Kartoshka", potato, is feminine, so Kostya calls it "ona", she. "Vyglyadit" takes how-words: "stranno", strangely, "gryazno", dirtily.'),
+    (3, None, '\'Let\'s just throw out this old bag.\' "Vykinem", let\'s throw out, has vy-, out, at the front. "Paket" is a plastic bag, not a packet in the English sense.'),
+    (4, None, '\'Or maybe we will sell it online?\' A "mozhet", \'or maybe\', is a casual way to float an idea. Online is cherez internet, \'through the internet\'.'),
+    (5, None, '\'Who needs rotten and black potatoes?\' "Komu nuzhna" is \'to whom is it needed\', the way Russians say \'who needs it?\'. Ask it with a shrug.'),
+    (6, None, '\'People on the internet buy absolutely everything!\' Internet gets an -e after v: "v internete", on the internet. "Absolyutno" is easy to guess, and it\'s said with feeling.'),
+    (7, None, '\'Kostyan, do not be silly, drop these jokes.\' "Kostyan" is a matey form of Kostya. "Ne tupi" is slang from "tupoy", blunt, so \'don\'t be dense\', and "bros" is the command \'throw it away\'.'),
+    (8, None, '\'Okay, I will take it to the dumpster.\' "Otnesu", I\'ll carry it off, is ot-, away, plus "nesti", to carry. "Pomoyka" is a rubbish tip, and people use it for any filthy place.'),
+    (9, None, '\'Take it quickly to the garbage bin outside.\' "Musornyy bak", rubbish bin, takes "musornyy" from "musor", rubbish. "Na ulitsu", onto the street, has -u because it\'s where the bag is going.'),
+    (10, None, '\'I will return quickly now and we will continue cleaning.\' "Vernus", I\'ll be back, ends in -s, the short form of -sya. "Uborka", cleaning, is from "ubirat", to clean up, which Max used with Louis.'),
+    (11, None, '\'Great, we still have a lot to wash today.\' "Nam mnogo myt" is literally \'to us a lot to wash\'. "Segodnya", today, is said \'sevodnya\': that g sounds like a v.'),
 ]

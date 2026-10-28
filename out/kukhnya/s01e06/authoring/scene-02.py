@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "At the Claude Monet kitchen pass, Chef Viktor Barinov inspects a hot dish before it leaves for the dining room. He teaches young cook Max how the final touch of fresh herbs elevates a plate into an appetizing masterpiece. Let's listen to their exchange in Russian first."
-OPENER = "Now let's examine Barinov and Max's kitchen instructions line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = "Back in the kitchen at Claude Monet, Chef Barinov is at the pass, the shelf where finished plates wait for the waiters. He is checking one dish, and he wants Max, his trainee, to see the last step. It's in Russian first, so don't worry about catching every word."
+OPENER = "Let's go through the plate. Barinov inspects it, and Max asks careful questions."
+TRANSITION = 'And now the whole exchange in one piece.'
+OUTRO = 'Barinov\'s last step is herbs, and yours is to keep a few kitchen words: "tarelka", plate, "blyudo", dish, "zelen", herbs. They\'ll come back. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Огузок, посмотри на эту тарелку.', 'Oguzok, look at this plate.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Отлично, продолжаем работать дальше.', 'Great, we continue working further.', [], ''),
 ]
 WALK = [
-    (0, None, "'Oguzok, look at this plate.' Calling out across the pass, Barinov commands his trainee to closely inspect the dish."),
-    (1, None, "'Chef, is this dish already ready?' Max asks if the hot plate is fully finished and ready to serve."),
-    (2, None, "'The main thing remains: to garnish it with herbs.' Firmly, Barinov insists that the presentation is incomplete without the final green touch."),
-    (3, None, "'Every detail has important meaning.' Hoping to impress, Max tries to show he understands the high culinary standards."),
-    (4, None, "'Food is obliged to look beautiful and appetizing.' Barinov preaches about the absolute necessity of visual appeal in high-end dining."),
-    (5, None, "'Shall we put fresh herbs here?' Holding a sprig, Max tentatively asks for guidance on placing the garnish."),
-    (6, None, "'Carefully! Do not ruin the expensive presentation.' Loudly, Barinov barks a warning not to mess up the delicate arrangement."),
-    (7, None, "'I do everything very carefully, chef.' Max nervously defends his careful handling of the delicate ingredients."),
-    (8, None, "'Beautiful presentation is very important for guests.' He reiterates his philosophy, Barinov states that visual aesthetics make a huge difference."),
-    (9, None, "'The waiters are already waiting in the kitchen.' Glancing backward, Max points out that the service staff is hovering and ready to carry the food."),
-    (10, None, "'Call the waiter, let them carry the order.' Barinov gives the green light to dispatch the meal to the customer."),
-    (11, None, "'Sasha, take the ready hot dish!' Max calls out to the waitress to grab the plate while it is still steaming."),
-    (12, None, "'Great, we continue working further.' Immediately pivoting, Barinov focuses the kitchen on the next ticket."),
+    (0, None, '\'Oguzok, look at this plate.\' Barinov uses his nickname for Max before anything else. "Tarelka", plate, becomes "tarelku" because it\'s the thing being looked at.'),
+    (1, None, '\'Chef, is this dish already ready?\' No \'is\', no \'do\': the voice rises and that makes it a question. "Gotovo", ready, ends in -o to match "blyudo".'),
+    (2, None, '\'The main thing remains: to garnish it with herbs.\' "Ukrasit", to decorate, shares a root with "krasivyy", beautiful. "Zelen", greens, becomes "zelenyu", and that ending alone says \'with\', as in \'using\'.'),
+    (3, None, '\'Every detail has important meaning.\' "Detal", detail, ends in a soft sign and is a feminine word, which is why \'every\' is "kazhdaya" here. "Imet znachenie", to have meaning, is a stiff way of saying \'it matters\'.'),
+    (4, None, '\'Food is obliged to look beautiful and appetizing.\' "Eda", food, is feminine, so \'obliged\' comes out as "obyazana". Russian food looks "krasivo", \'beautifully\', with the -o of a how-word.'),
+    (5, None, '\'Shall we put fresh herbs here?\' "Polozhim" is \'we\'ll put\', and as a question it works like \'shall we put\'. "Syuda" means \'to here\', because putting something is a movement.'),
+    (6, None, '\'Carefully! Do not ruin the expensive presentation.\' "Ne isporti" is the warning \'don\'t go and spoil it\'. "Dorogoy" means both \'expensive\' and \'dear\', so the plate is precious either way.'),
+    (7, None, '\'I do everything very carefully, chef.\' "Delayu", I do, has the -yu ending for \'I\'. Max hands Barinov\'s own word back to him, "akkuratno", carefully.'),
+    (8, None, '\'Beautiful presentation is very important for guests.\' "Podacha", presentation, comes from "podavat", to serve. "Vazhna", important, ends in -a to agree with it.'),
+    (9, None, '\'The waiters are already waiting in the kitchen.\' "Zhdut", they wait, is from "zhdat", with the -ut ending for \'they\'. "Na kukhne" again: the kitchen is a place you\'re \'on\'.'),
+    (10, None, '\'Call the waiter, let them carry the order.\' "Pust" is \'let\', and you put it before any verb to mean \'let them do it\'. "Nesut", they carry, is from "nesti", carrying something in your hands as you go.'),
+    (11, None, '\'Sasha, take the ready hot dish!\' "Zaberi", take it away, is the command \'take\' with za- in front, the sense of collecting something. On a menu, "goryachee" alone means the hot main courses.'),
+    (12, None, '\'Great, we continue working further.\' "Otlichno" is also the top school grade, so it\'s a real \'excellent\'. "Prodolzhaem rabotat" is literally \'we continue to work\'.'),
 ]

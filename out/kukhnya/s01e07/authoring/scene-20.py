@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "Arriving at Kostya's apartment with his bags, Max finds a warm welcome and a place to stay. Surrounded by the comfort of friendship, Max reflects on the supreme importance of having a home to return to."
-OPENER = "Let's explore Max's arrival at Kostya's apartment and his poignant reflections on home and friendship."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Safe from the cold street and surrounded by friendship, Max settles happily into his new home. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'important' — you will catch every word right away. See you next time!"
+INTRO = "Late at night, Max has made it to Kostya's flat at last, and there is a kettle on. The episode ends with Max thinking out loud about what matters in life. The Russian comes first, as always."
+OPENER = "Let's go through the ending. It's a quiet scene with warm, short sentences."
+TRANSITION = 'Now the last scene of the episode in one go.'
+OUTRO = "Max's rule is that wherever the day takes you, you want a place to come home to. In Russian it is only a few words. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Заходи, Макс, чувствуй себя как дома.', 'Come in, Max, make yourself at home.', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Хорошо, когда есть настоящий дом!', 'It is good when you have a real home!', [], ''),
 ]
 WALK = [
-    (0, None, "'Come in, Max, make yourself at home.' Kostya welcomes his friend warmly. He uses a common phrase to help Max feel comfortable."),
-    (1, None, "'Thank you, Kostya, you saved me today.' Max is incredibly relieved to be indoors. He expresses his deep gratitude for the rescue."),
-    (2, None, "'We are friends, and friends always help each other.' Kostya brushes off the thanks. He states his simple philosophy on friendship."),
-    (3, None, "'Today I realized one very important thing.' Max turns philosophical after a long, hard day. He shares a sudden realization."),
-    (4, None, "'What thing did you realize, philosopher?' Kostya teases him gently about his serious tone. He calls him a philosopher with a smile."),
-    (5, None, "'Whatever might happen to you during the day...' Max begins his thoughtful conclusion. He reflects on the unpredictable chaos of life."),
-    (6, None, "'The main thing is to have somewhere to return in the evening.' Max states the core of his realization. He values the safety of a home above all else."),
-    (7, None, "'Return to where you are sincerely welcomed.' Max emphasizes the emotional warmth of a home. He appreciates knowing that someone is glad to see him."),
-    (8, None, "'That is true, it is dreary in an empty apartment.' Kostya agrees completely. He admits that living alone can be quite miserable."),
-    (9, None, "'After all there is nothing worse than terrible loneliness.' Max speaks from his recent experience of sleeping alone in the dining room. He shudders at the thought."),
-    (10, None, "'Together we will definitely have more fun living!' Kostya looks forward to their time as roommates. He expects them to have a great time."),
-    (11, None, "'Now we are real roommates and friends.' Max officially declares their new status. He is happy to share a living space with someone he trusts."),
-    (12, None, "'Let us drink tea and rest.' Kostya suggests a cozy end to the evening. He invites Max to sit down and relax."),
-    (13, None, "'It is good when you have a real home!' Max smiles as he finally feels secure. He ends the day appreciating the roof over his head."),
+    (0, None, '\'Come in, Max, make yourself at home.\' "Zakhodi", \'come in\', is what you\'d say to a friend at the door. "Chuvstvuy sebya kak doma" is literally \'feel yourself as at home\'.'),
+    (1, None, '\'Thank you, Kostya, you saved me today.\' "Spas" is the man\'s past of spasti, to save. "Spasibo" itself comes from spasi "Bog", \'God save\'.'),
+    (2, None, "'We are friends, and friends always help each other.' Drug drugu, 'each other', is literally 'friend to friend'. Since you help 'to' someone, the second drug becomes drugu."),
+    (3, None, '\'Today I realized one very important thing.\' Ponyal can mean \'understood\' or \'realised\'. "Veshch\'", a thing, is feminine, which is why \'one\' becomes odnu here.'),
+    (4, None, '\'What thing did you realize, philosopher?\' "Kakuyu", \'which\', agrees with veshch\' as the object. "Filosof" is a gentle tease.'),
+    (5, None, '\'Whatever might happen to you during the day...\' "Chto" by ni, \'whatever\', takes ni, not ne, though people often write it wrong. "Dnyom", \'during the day\', is den\' used as a time word, like noch\'yu.'),
+    (6, None, '\'The main thing is to have somewhere to return in the evening.\' "Glavnoye", \'the main thing\', is glavnyy from the chef\'s \'main lesson\'. "Bylo kuda vernut\'sya" is \'there was where to return\', with no \'should\'.'),
+    (7, None, '\'Return to where you are sincerely welcomed.\' Tebe rady, \'they are glad to you\', is how Russians say \'you are welcome\'. "Tuda", gde, \'to there where\', is how \'to where\' works.'),
+    (8, None, '\'That is true, it is dreary in an empty apartment.\' "Tosklivo", \'dreary\', comes from toska, longing or melancholy. After v, \'in\', pustaya kvartira becomes pustoy kvartire.'),
+    (9, None, '\'After all there is nothing worse than terrible loneliness.\' "Khuzhe", \'worse\', is the irregular comparative of plokho. After khuzhe, the thing compared takes \'of\' endings: strashnogo odinochestva.'),
+    (10, None, '\'Together we will definitely have more fun living!\' "Vdvoyom", \'the two of us together\', is one word built on dva, two. "Veseleye", \'more fun\', is the comparative of veselo.'),
+    (11, None, '\'Now we are real roommates and friends.\' "Sosedi" means neighbours, and for people sharing a flat it means flatmates. "Nastoyashchiye", \'real\', ends in -iye to match both nouns.'),
+    (12, None, '\'Let us drink tea and rest.\' With davay and a \'to\' form, as in davay pit\', you get another kind of \'let\'s\'. "Otdykhat\'" means to rest or relax.'),
+    (13, None, '\'It is good when you have a real home!\' "Khorosho", kogda, \'it\'s good when\', works for sharing any feeling. And u tebya yest\', \'at you there is\', stands in for \'you have\'.'),
 ]

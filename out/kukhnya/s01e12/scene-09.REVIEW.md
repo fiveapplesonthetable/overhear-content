@@ -11,29 +11,29 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Вика, что происходит в моем ресторане? | Vika, what is happening in my restaurant? | new | new |
-| 2 | Вика | Вообще-то этот важный вопрос к тебе! | Actually, this important question is for you! | #76: Вообще-то этот вопрос к тебе | verbatim |
+| 2 | Вика | Вообще-то этот важный вопрос к тебе! | Actually, this important question is for you! | #76 00:05:05: Вообще-то этот вопрос к тебе | verbatim |
 | 3 | Шеф | Зачем вы убрали стену на кухне? | Why did you remove the kitchen wall? | new | new |
-| 4 | Вика | Гости хотят видеть работу лучших поваров. | Guests want to see the work of the best cooks. | #77: гости | verbatim |
+| 4 | Вика | Гости хотят видеть работу лучших поваров. | Guests want to see the work of the best cooks. | #77 00:05:07: гости | verbatim |
 | 5 | Шеф | Это не кухня, а дурацкий цирк! | This is not a kitchen, but a foolish circus! | new | new |
-| 6 | Вика | Все наши гости любят этот красивый зал. | All our guests love this beautiful hall. | #77: гости | verbatim |
+| 6 | Вика | Все наши гости любят этот красивый зал. | All our guests love this beautiful hall. | #77 00:05:07: гости | verbatim |
 | 7 | Шеф | Они смотрят на меня как на рыбу! | They look at me like at a fish! | new | new |
-| 8 | Вика | Гости до сих пор в шоке от крика. | The guests are still in shock from shouting. | #77: Гости до сих пор в шоке от твоего появления | verbatim |
+| 8 | Вика | Гости до сих пор в шоке от крика. | The guests are still in shock from shouting. | #77 00:05:07: Гости до сих пор в шоке от твоего появления | verbatim |
 | 9 | Шеф | Я великий шеф, а не рыба! | I am a great chef, not a fish! | new | new |
 | 10 | Вика | Тогда веди себя спокойно перед людьми. | Then behave calmly in front of people. | new | new |
-| 11 | Шеф | Я не потерплю этот новый цирк! | I will not tolerate this new circus! | #76: этот | verbatim |
+| 11 | Шеф | Я не потерплю этот новый цирк! | I will not tolerate this new circus! | #76 00:05:05: этот | verbatim |
 | 12 | Вика | Привыкай, это современный и красивый ресторан. | Get used to it, this is a modern and beautiful restaurant. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, what is happening in my restaurant?' Barinov demands to know what changes are happening in his workplace.
-- 'Actually, this important question is for you!' Vika flips the question back at him. She says he is the one who should answer.
-- 'Why did you remove the kitchen wall?' Barinov is angry that they took down a wall in his kitchen.
-- 'Guests want to see the work of the best cooks.' Vika explains that the customers want to watch the chefs cook.
-- 'This is not a kitchen, but a foolish circus!' Barinov complains that his kitchen feels like a silly show now.
-- 'All our guests love this beautiful hall.' Vika defends the changes by saying the guests love the new look.
-- 'They look at me like at a fish!' Barinov feels like a fish in a bowl because everyone is staring at him.
-- 'The guests are still in shock from shouting.' Vika points out that the guests are surprised because he yells so much.
-- 'I am a great chef, not a fish!' Barinov proudly reminds her that he is an important chef.
-- 'Then behave calmly in front of people.' Vika tells him to act calm if he wants to be respected.
-- 'I will not tolerate this new circus!' Barinov refuses to accept this new open kitchen setup.
-- 'Get used to it, this is a modern and beautiful restaurant.' Vika tells him to get used to it because this is how modern places look.
+- 'Vika, what is happening in my restaurant?' 'Chto proiskhodit' is the standard 'what's going on?'. In v moyom restorane, restoran adds an 'e' after v.
+- 'Actually, this important question is for you!' 'Voobshche-to' means 'in fact', and the little 'to' makes it sound pointed. 'K tebe' is 'to you', so she hands the question back to him.
+- 'Why did you remove the kitchen wall?' The 'vy' here is plural, Vika and her people. On their own, these two say ty to each other. 'Ubrali' is 'removed', and 'stenu' is the wall as the thing removed.
+- 'Guests want to see the work of the best cooks.' 'Khotyat' is 'they want' and goes with 'videt', 'to see', as in English. 'Luchshikh' is 'of the best', and 'povarov' is 'of cooks'.
+- 'This is not a kitchen, but a foolish circus!' A tiny 'a' carries the 'but' in 'not this, but that'. 'Duratskiy', foolish, is built on 'durak', fool.
+- 'All our guests love this beautiful hall.' 'Vse' is 'all', 'nashi' is 'our', and 'lyubyat' is 'they love'. 'Krasivy' means 'beautiful', the same word as 'handsome' for people.
+- 'They look at me like at a fish!' 'Kak na rybu' is literally 'like at a fish', and Russian keeps the 'at' in front of the fish. 'Rybu' is how 'ryba' looks when it's the thing being looked at.
+- 'The guests are still in shock from shouting.' 'Do sikh por' is literally 'until these times', which is how Russians say 'still'. 'Ot krika' is 'from the shout': ot takes the 'of' ending, so krik becomes krika.
+- 'I am a great chef, not a fish!' 'Velikiy' means 'great' in the sense of 'grand', not just 'big'. 'A ne' is 'and not'.
+- 'Then behave calmly in front of people.' 'Vedi sebya' is literally 'lead yourself', and it means 'behave'. 'Pered' is 'in front of', and 'lyudmi' is how 'people' changes after it.
+- 'I will not tolerate this new circus!' 'Ne poterplyu' is the future, 'I will not put up with it'. 'Tsirk' is a masculine thing, not a person, so as the object it keeps its plain shape: etot novyy tsirk.
+- 'Get used to it, this is a modern and beautiful restaurant.' 'Privykay' is the ty order of 'get used'. 'Restoran' is masculine, so both describing words end in 'yy': sovremennyy i krasivyy.

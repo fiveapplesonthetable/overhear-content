@@ -12,28 +12,28 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Елена | Луи, чем вы сейчас занимаетесь на десертах? | Louis, what are you doing on the desserts right now? | new | new |
 | 2 | Луи | Какое вам вообще дело до моих десертов? | What business is it of yours regarding my desserts? | new | new |
-| 3 | Елена | У вас такой тёплый и знакомый акцент. | You have such a warm and familiar accent. | #131: Какой знакомый акцент | verbatim |
+| 3 | Елена | У вас такой тёплый и знакомый акцент. | You have such a warm and familiar accent. | #131 00:07:41: Какой знакомый акцент | verbatim |
 | 4 | Луи | Да, я приехал сюда из самой Франции. | Yes, I came here from France itself. | new | new |
-| 5 | Елена | Это же Прованс, я абсолютно права? | It is Provence, am I absolutely right? | #132: Прованс? Я права | verbatim |
-| 6 | Луи | Да, мадам, вы очень тонко угадали! | Yes, madame, you guessed very subtly! | #133: Да | verbatim |
-| 7 | Елена | Я просто обожаю прекрасный Сен-Поль-де-Ванс! | I simply adore wonderful Saint-Paul-de-Vence! | #133: Я обожаю Прованс<br>#134: Особенно я люблю Сан-Поль-де-Ванс | verbatim |
-| 8 | Луи | Невероятно, вся моя семья живёт именно там! | Incredible, my whole family lives right there! | #135: Моя семья там живет | verbatim |
-| 9 | Елена | А какие десерты подают в «Золотой голубке»! | And what desserts they serve at La Colombe d'Or! | #136: А какие десерты подают золотой голубке | verbatim |
-| 10 | Луи | О, мадам, это моё самое любимое место! | Oh, madame, that is my most favorite place! | #137: О, мадам | verbatim |
-| 11 | Елена | Там великолепный вид и совершенно волшебная атмосфера. | There is a magnificent view and completely magical atmosphere. | #136: Какой там вид | verbatim |
-| 12 | Луи | Спасибо, я словно ненадолго вернулся домой! | Thank you, I felt as if I briefly returned home! | #138: Я как будто ненадолго вернулся домой | verbatim |
+| 5 | Елена | Это же Прованс, я абсолютно права? | It is Provence, am I absolutely right? | #132 00:07:44: Прованс? Я права | verbatim |
+| 6 | Луи | Да, мадам, вы очень тонко угадали! | Yes, madame, you guessed very subtly! | #133 00:07:46: Да | verbatim |
+| 7 | Елена | Я просто обожаю прекрасный Сен-Поль-де-Ванс! | I simply adore wonderful Saint-Paul-de-Vence! | #133 00:07:46: Я обожаю Прованс<br>#134 00:07:49: Особенно я люблю Сан-Поль-де-Ванс | verbatim |
+| 8 | Луи | Невероятно, вся моя семья живёт именно там! | Incredible, my whole family lives right there! | #135 00:07:54: Моя семья там живет | verbatim |
+| 9 | Елена | А какие десерты подают в «Золотой голубке»! | And what desserts they serve at La Colombe d'Or! | #136 00:07:57: А какие десерты подают золотой голубке | verbatim |
+| 10 | Луи | О, мадам, это моё самое любимое место! | Oh, madame, that is my most favorite place! | #137 00:08:01: О, мадам | verbatim |
+| 11 | Елена | Там великолепный вид и совершенно волшебная атмосфера. | There is a magnificent view and completely magical atmosphere. | #136 00:07:57: Какой там вид | verbatim |
+| 12 | Луи | Спасибо, я словно ненадолго вернулся домой! | Thank you, I felt as if I briefly returned home! | #138 00:08:04: Я как будто ненадолго вернулся домой | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Louis, what are you doing on the desserts right now?' Elena approaches the pastry station to inspect the ongoing prep work.
-- 'What business is it of yours regarding my desserts?' Louis snaps at her, protective of his delicate desserts and annoyed by her presence.
-- 'You have such a warm and familiar accent.' She ignores his hostility and focuses on the distinct lilt in his voice.
-- 'Yes, I came here from France itself.' Louis proudly confirms his authentic French origins.
-- 'It is Provence, am I absolutely right?' Elena pinpoints the exact region, showing off her deep culinary knowledge.
-- 'Yes, madame, you guessed very subtly!' Louis is genuinely impressed by her accurate geographical guess.
-- 'I simply adore wonderful Saint-Paul-de-Vence!' She mentions a specific, picturesque village to build an immediate rapport.
-- 'Incredible, my whole family lives right there!' Louis lights up, thrilled to meet someone who knows his hometown.
-- 'And what desserts they serve at La Colombe d'Or!' Elena casually name-drops a legendary local restaurant to win him over.
-- 'Oh, madame, that is my most favorite place!' Louis is completely charmed, confirming it is his favorite spot in the world.
-- 'There is a magnificent view and completely magical atmosphere.' She vividly describes the beautiful setting, proving she has actually been there.
-- 'Thank you, I felt as if I briefly returned home!' Louis sincerely thanks her for giving him a brief, comforting taste of home.
+- 'Louis, what are you doing on the desserts right now?' After zanimatsya, 'to be busy with', 'what' takes the form chem. Kitchen talk puts a station after na, so na desertakh is the dessert section, like na kukhne for the kitchen.
+- 'What business is it of yours regarding my desserts?' Louis answers with kakoye vam delo do..., literally 'what business to you up to...', a blunt 'what's it to you'. His vam is polite, but the phrase is rude anyway.
+- 'You have such a warm and familiar accent.' Built on znat, 'to know', znakomyy means 'familiar', and znakomyy on its own is an acquaintance. Here takoy, 'such', matches aktsent.
+- 'Yes, I came here from France itself.' Louis says priyekhal, from priyekhat, 'to arrive by transport', not on foot. In iz samoy..., samyy means 'the very', so it's 'from the very France'.
+- 'It is Provence, am I absolutely right?' A woman says prava, 'right', and a man prav. Adding zhe to eto, 'it's surely', shows she's confident.
+- 'Yes, madame, you guessed very subtly!' His ugadali, 'you guessed', means she got it right. The word tonko, 'subtly', comes from tonkiy, 'thin, fine'.
+- 'I simply adore wonderful Saint-Paul-de-Vence!' Saying obozhayu, 'I adore', is stronger than lyublyu, 'I love'. In Russian spelling the town keeps its hyphens.
+- 'Incredible, my whole family lives right there!' Literally 'not probable', neveroyatno is ne glued to veroyatno. And imenno tam means 'exactly there'.
+- 'And what desserts they serve at La Colombe d'Or!' Here kakiye, 'what', makes an exclamation. Russian translates the restaurant's name as 'the golden dove', and after v the name takes -oy and -e.
+- 'Oh, madame, that is my most favorite place!' Both moyo, 'my', and samoye lyubimoye, 'most favourite', match mesto, 'place', which is neuter. One mention of his village and Louis is won over.
+- 'There is a magnificent view and completely magical atmosphere.' A volshebnik is a wizard, so volshebnyy is 'magical'. The word vid, 'view', also means 'kind' or 'appearance'.
+- 'Thank you, I felt as if I briefly returned home!' His slovno, 'as if', is a slightly literary kak budto. Answering 'where to', domoy means 'home', and nenadolgo, 'not for long', is written as one word.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "Growing increasingly desperate to locate his missing daughter, Chef Barinov orders the entire kitchen brigade to freeze in place. He demands total, tomb-like silence so he can hear any slight movement or sound across the restaurant. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the imperative commands for quietness, sensory perception verbs, and prepositional spatial phrases."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "By freezing the kitchen in total silence, Chef Barinov and Lyova finally discover Alisa hiding peacefully under a table. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'absolute' and 'big' — you will catch every word right away. See you next time!"
+INTRO = 'Barinov is out of ideas, so he does the one thing a Russian chef can do: he orders silence. The whole kitchen freezes while he listens for his daughter. Listen out for the little words.'
+OPENER = "Let's see how it's put together."
+TRANSITION = 'Now it should sound clearer.'
+OUTRO = 'The kitchen is silent, and then they find her. Whatever she has in her hands will be a problem. See you soon.'
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('barinov', 'Тихо все, мне нужна полная тишина!', 'Quiet everyone, I need complete silence!', [(282, 'Тихо все, полная тишина')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('lyova', 'Какое счастье, мы наконец нашли нашу пропажу!', 'What joy, we finally found our missing one!', [(286, 'тишина')], ''),
 ]
 WALK = [
-    (0, None, "'Quiet everyone, I need complete silence!' Desperate to hear where Alisa is hiding, Barinov yells at the whole kitchen to be completely silent."),
-    (1, None, "'Chef, we have already turned off all noisy equipment.' Lyova reports that the staff has already switched off all the noisy appliances."),
-    (2, None, "'Be quiet, I demand absolute calm in the kitchen.' Viktor orders everyone to hold their tongues so the kitchen is dead quiet."),
-    (3, None, "'All the cooks fell silent and are standing in place.' Lyova whispers that every cook has frozen in place without a word."),
-    (4, None, "'Do not breathe, I want to hear every quiet sound.' Barinov tells them not to even breathe so he can catch the faintest sound."),
-    (5, None, "'Are you sure our little guest is here?' After a moment of silence, Lyova asks if the chef is sure their little guest is still in this room."),
-    (6, None, "'She definitely hid somewhere in this dining room.' Viktor is convinced she is hiding somewhere right here."),
-    (7, None, "'I hear a strange faint rustling near the table.' Listening closely, Lyova notices a faint rustling sound over by a prep table."),
-    (8, None, "'Who is standing there near the big refrigerator right now?' Barinov points toward the large fridge and asks who is standing over there."),
-    (9, None, "'There is no one there, only large boxes of groceries.' Lyova checks and says nobody is by the fridge except stacks of grocery boxes."),
-    (10, None, "'Look carefully, the girl is sitting right under the table!' Spotting her at last, Viktor tells Lyova to look right under the table where Alisa is sitting."),
-    (11, None, "'What joy, we finally found our missing one!' Relieved, Lyova celebrates that they have finally found their missing runaway."),
+    (0, None, '\'Quiet everyone, I need complete silence!\' "Mne nuzhna" is "to me needed", and "nuzhna" ends in -a to match "tishina", "silence". For a table it would be "nuzhen", for milk "nuzhno". Barinov shouts for quiet, which is a nice paradox.'),
+    (1, None, '\'Chef, we have already turned off all noisy equipment.\' "Shumnye", "noisy", comes from "shum", "noise". "Vyklyuchili" is "turned off"; turning on is "vklyuchili", so only the front differs. Lyova reports it in short plain words.'),
+    (2, None, '\'Be quiet, I demand absolute calm in the kitchen.\' "Molchat" is the plain dictionary form, "to be silent", used as an order, and it sounds like a drill sergeant. "Trebuyu" is "I demand". He is not asking.'),
+    (3, None, '\'All the cooks fell silent and are standing in place.\' "Zamolchali" is "molchat", "be silent", with za- in front, which marks the moment it starts: "went quiet". "Na meste" is "on the place", from "mesto".'),
+    (4, None, '\'Do not breathe, I want to hear every quiet sound.\' "Ne dyshat" is another order in the dictionary form, with "ne" in front. "Kazhdy" is "every", and "zvuk" is "sound", easy to remember. The kitchen holds its breath.'),
+    (5, None, '\'Are you sure our little guest is here?\' "Gost" is a guest; "gostya" is a female guest. "Vy uvereny", "you are sure", is the polite form Lyova uses with the chef. He is sceptical, but careful about it.'),
+    (6, None, '\'She definitely hid somewhere in this dining room.\' "Gde-to", "somewhere", is "gde", "where", with "-to" tacked on, which turns the question into "some place". "Spryatalas" is "hid herself", with the woman\'s -la.'),
+    (7, None, '\'I hear a strange faint rustling near the table.\' "Lyogky", "faint" here, also means "light" and "easy". "Shorokh" is a rustle. "Vozle stola" is "near the table": after "vozle", "stol" becomes "stola".'),
+    (8, None, '\'Who is standing there near the big refrigerator right now?\' "Kholodilnik", "refrigerator", is built on "kholod", "cold". "Okolo" is another "near", and it also changes "kholodilnik" to "kholodilnika". Barinov has seen a shadow.'),
+    (9, None, '\'There is no one there, only large boxes of groceries.\' "Nikogo net" is "nobody isn\'t", a double negative, and it\'s correct Russian. "Korobki produktov" is "boxes of groceries", and "produktov" is the "of" form.'),
+    (10, None, '\'Look carefully, the girl is sitting right under the table!\' "Vnimatelno", "carefully", grows out of "vnimanie", "attention". "Pod stolom", "under the table", ends in -om, while "vozle stola" ended in -a. Barinov has sharp eyes when it matters.'),
+    (11, None, '\'What joy, we finally found our missing one!\' "Propazha", "the lost thing", comes from "propast", the same "propal" Max used when the chocolate vanished. "Kakoe schastie" is "what happiness", and the whole kitchen breathes out.'),
 ]

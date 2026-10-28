@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'ainura': 'Айнура', 'barinov': 'Шеф'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = 'After walking out on the Claude Monet kitchen, Chef Barinov is hiding in a dark storage room with a bottle. Ainura, the restaurant cleaner, stumbles upon his hiding place and catches him by surprise. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around An Unexpected Encounter line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Ainura tracks down Chef Barinov in a quiet storage room where he has been hiding and drinking alone, surprising him during her cleaning rounds. Next time you watch the episode, listen for the Russian expressions for 'loudly' and 'to make noise' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has walked out on his own kitchen and is sitting in the dark storeroom at Claude Monet with a bottle. Ainura, the cleaner, who has worked there for years, finds him. She talks to him as an old friend, with the familiar \"ty\" for 'you'. Here it is in Russian first."
+OPENER = "Let's go through it gently. Barinov wants company, and Ainura wants him back at work."
+TRANSITION = "Now the scene in one piece."
+OUTRO = "Ainura's lines are short and warm: \"vot ty gde\", so there you are, and \"tebe nelzya zdes ostavatsya\", you can't stay here. That's how old friends talk. See you next time."
 CLOSING = ('ainura', 'Пока!')
 STORY = [
     ('ainura', 'Здравствуй, шеф.', 'Hello, Chef.', [(311, 'Здравствуй')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('ainura', 'Но тебе нельзя здесь оставаться.', 'But you cannot stay here.', [], ''),
 ]
 WALK = [
-    (0, None, "'Hello, Chef.' Ainura offers a simple, respectful greeting to her employer."),
-    (1, None, "'Here is where you are hiding!' Ainura finally discovers the boss in his dark hiding spot."),
-    (2, None, "'Ainura, is that you?' Barinov asks to confirm who just walked into the room."),
-    (3, None, "'Do not make noise so loudly, please.' Barinov begs the cleaner to keep her voice down."),
-    (4, None, "'I looked for you everywhere for a long time.' Ainura explains she has been searching the entire building."),
-    (5, None, "'Sit down next to me, want a drink with me?' Barinov invites her to sit and share a secret drink."),
-    (6, None, "'Oh, Chef, I am at work after all!' Ainura rejects the offer, reminding him she is on shift."),
-    (7, None, "'I still need to wash the floors.' Ainura points out she still has cleaning duties to finish."),
-    (8, None, "'Drop the work, rest a little.' Barinov tells her to abandon the mop and relax."),
-    (9, None, "'You are sitting alone in the dark.' Ainura observes how sad he looks sitting all by himself."),
-    (10, None, "'It is quiet here and nobody bothers me.' Barinov claims he prefers the silence of the basement."),
-    (11, None, "'But you cannot stay here.' Ainura insists that this is no place for a head cook."),
+    (0, None, "'Hello, Chef.' Ainura says \"zdravstvuy\", hello to one person you say \"ty\" to; with strangers or a boss it gets the polite -te, \"zdravstvuyte\". She has known him long enough to skip it."),
+    (1, None, "'Here is where you are hiding!' Russians say \"vot ty gde\" for 'so there you are!' Then \"pryacheshsya\", you're hiding, carries -sya because you hide yourself."),
+    (2, None, "'Ainura, is that you?' Russian asks \"eto ty\", 'this is you?', with only the rising voice to make it a question. There is no separate word for 'is'."),
+    (3, None, "'Do not make noise so loudly, please.' The command \"ne shumi\", don't make noise, is built from \"shum\", noise. And \"tak gromko\", so loudly, is the hungover man's request everywhere."),
+    (4, None, "'I looked for you everywhere for a long time.' Ainura says \"iskala\", was looking, the open-ended form that suits a long search. The -a ending shows a woman is speaking."),
+    (5, None, "'Sit down next to me, want a drink with me?' Asking \"vypyesh\", you'll drink, about someone's future is a friendly way to invite them. With me is \"so mnoy\": \"s\" grows to \"so\" before the m-n cluster."),
+    (6, None, "'Oh, Chef, I am at work after all!' At work is \"na rabote\", with \"na\", on, the fixed choice for work. The \"zhe\" adds 'after all' or 'you know'."),
+    (7, None, "'I still need to wash the floors.' Here \"eshchyo\" means 'still', something left to do. One floor is \"pol\", and \"poly\" is floors."),
+    (8, None, "'Drop the work, rest a little.' The word \"brosay\", drop, belongs to \"brosat\", to throw: throw your work aside. And \"otdokhni\", rest, means 'take a short rest', a single break."),
+    (9, None, "'You are sitting alone in the dark.' The word \"odin\", one, also means 'alone', and Ainura uses it about him. In the dark is \"v temnote\", where \"temnota\" takes -e after \"v\"."),
+    (10, None, "'It is quiet here and nobody bothers me.' Barinov's \"meshaet\", bothers, is from \"meshat\", which also means to stir: you are getting in someone's way. And \"nikto ne\", nobody, needs both negatives."),
+    (11, None, "'But you cannot stay here.' Literally 'to you it is not allowed', \"tebe nelzya\" means 'you mustn't'. The -sya in \"ostavatsya\", to stay, is because you keep yourself in place."),
 ]

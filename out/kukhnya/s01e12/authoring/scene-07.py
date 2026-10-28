@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "During the busy afternoon prep shift at Claude Monet, Chef Viktor Barinov storms through the kitchen, furious about mess and delays. Catching his cooks hesitating at their stations, Barinov aggressively reprimands Senya and demands strict kitchen discipline. Let's listen to their fast-paced kitchen exchange in Russian."
-OPENER = "Let's explore how Chef Barinov demands discipline and reprimands his cooks for kitchen slowdowns."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you know how to give urgent kitchen commands, address mess at workstations, and ask for quiet in Russian. Listen for these intense workplace phrases in the upcoming scene. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = 'It is a busy afternoon of prep in the kitchen, and Chef Barinov is on the warpath. He catches Senya, who cooks the meat, standing around. Russian first.'
+OPENER = 'One barked order at a time.'
+TRANSITION = 'Right, the kitchen at full speed again.'
+OUTRO = "Senya promises to clean up and Barinov promises to check every plate. If you ever need to say 'a bit quieter, please' in Russian, you now have the words. Talk soon."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Сеня, почему ты стоишь без дела?', 'Senya, why are you standing doing nothing?', [], ''),
@@ -30,8 +30,16 @@ STORY = [
     ('barinov', 'Спокойнее, я проверю каждое блюдо лично.', 'Calm down, I will check every dish personally.', [(71, 'Покойнее')], ''),
 ]
 WALK = [
-    (0, None, "'Are you waiting until a gnome sprinkles cinnamon?' Barinov yells at a cook for being slow. He asks if a magic gnome is going to do the work."),
-    (1, None, "'And always clean up your table.' Barinov reminds the cook to clean his workspace."),
-    (2, None, "'Chef, please speak a bit quieter.' Senya politely asks his boss to lower his voice."),
-    (3, None, "'There must be perfect order in my kitchen.' Barinov demands absolute order in his kitchen and will not quiet down."),
+    (0, None, "'Senya, why are you standing doing nothing?' 'Bez dela' is literally 'without business', and it's how you say 'idle'. 'Stoish' is 'you stand', and the 'stoy' you'll hear later is 'stand!' made from the same word."),
+    (1, None, "'I am waiting for the needed spices for the meat.' Russian says 'I wait the spices', with no word for 'for' after 'wait'. 'Myasa' is 'of meat', and it picks up an 'a' after 'for'."),
+    (2, None, "'Are you waiting until a gnome sprinkles cinnamon?' 'Zhdyosh' is 'you wait', the same word as Senya's 'I wait'. 'Poka' here means 'until', and the gnome is Barinov's sarcastic picture of how slow Senya is."),
+    (3, None, "'Chef, I do everything quickly.' 'Vsyo' means 'everything', and it's one of the most common little words in Russian. 'Bystro' is 'quickly', and you'll hear it again in a moment."),
+    (4, None, "'Then work faster and do not stand around.' Swap the 'o' of bystro for 'ee' and 'quickly' becomes bystree, 'faster'. 'Rabotay' is the order 'work!' and 'ne stoy' is 'don't stand', the same 'stoy' as above."),
+    (5, None, "'And always clean up your table.' 'Vsegda' means 'always'. 'Za soboy' is literally 'behind yourself', which is how Russians say 'after yourself'."),
+    (6, None, "'Chef, please speak a bit quieter.' Senya uses the polite 'you' form of 'speak', because the person is the chef. 'Tishe' is 'quieter', the 'sh-e' ending made from 'tikho', 'quiet'."),
+    (7, None, "'Do not teach me discipline!' 'Ne nado' is 'no need', and it's used as a strong 'don't'. 'Uchit' takes the person as menya, 'me', and the subject with an 'e' ending, distsipline, literally 'teach me to discipline'."),
+    (8, None, "'We are simply trying very hard for you.' 'Starayemsya' ends in 'sya', so it's literally 'we try ourselves'. 'Dlya vas' is 'for you', in the polite form."),
+    (9, None, "'There must be perfect order in my kitchen.' Barinov's 'dolzhen' has no vowel after the 'n' because the thing that must be, 'order', is masculine. Also note 'on my kitchen': Russians stand 'on' a kitchen where English stands 'in' it."),
+    (10, None, "'We will clean everything up right now, chef.' 'Seychas zhe' is 'this very second', where the little 'zhe' pushes the 'now'. 'Uberyom' is 'we will clear', from the same word as Barinov's 'clean up!'."),
+    (11, None, "'Calm down, I will check every dish personally.' 'Spokoynee' is 'calmer', made with the same 'ee' ending as 'faster'. 'Blyudo' is a dish, in the sense of a plate of food, and 'lichno' is 'in person'."),
 ]

@@ -10,15 +10,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Федя | Ладно, новичок, отойди немного в сторону. | Alright, newcomer, step aside a little. | #306: Ладно | verbatim |
-| 2 | Федя | Подвинься давай, я помогу тебе. | Move over, come on, I will help you. | #307: Подвинься давай. | verbatim |
+| 1 | Федя | Ладно, новичок, отойди немного в сторону. | Alright, newcomer, step aside a little. | #306 00:22:22: Ладно | verbatim |
+| 2 | Федя | Подвинься давай, я помогу тебе. | Move over, come on, I will help you. | #307 00:22:24: Подвинься давай. | verbatim |
 | 3 | Макс | Федя, спасибо, у меня ничего не получается! | Fedya, thank you, nothing is working out for me! | new | new |
-| 4 | Федя | Сейчас главное — полностью успокоиться. | Right now the main thing is to completely calm down. | #308: Нужно расслабиться. | verbatim |
-| 5 | Федя | Сделай глубокий вдох. | Take a deep breath. | #308: Вдох. | verbatim |
-| 6 | Федя | А теперь медленный выдох. | And now a slow exhale. | #309: Выдох. | verbatim |
-| 7 | Федя | И навсегда запомни главное правило. | And forever remember the main rule. | #310: И запомнить. | verbatim |
-| 8 | Федя | Запара бывает не на кухне. | The rush does not happen in the kitchen. | #311: на кухне. | verbatim |
-| 9 | Федя | Настоящая запара всегда только в голове! | The real rush is always only in your head! | #312: Запара в голове. | verbatim |
+| 4 | Федя | Сейчас главное — полностью успокоиться. | Right now the main thing is to completely calm down. | #308 00:22:27: Нужно расслабиться. | verbatim |
+| 5 | Федя | Сделай глубокий вдох. | Take a deep breath. | #308 00:22:27: Вдох. | verbatim |
+| 6 | Федя | А теперь медленный выдох. | And now a slow exhale. | #309 00:22:31: Выдох. | verbatim |
+| 7 | Федя | И навсегда запомни главное правило. | And forever remember the main rule. | #310 00:22:33: И запомнить. | verbatim |
+| 8 | Федя | Запара бывает не на кухне. | The rush does not happen in the kitchen. | #311 00:22:35: на кухне. | verbatim |
+| 9 | Федя | Настоящая запара всегда только в голове! | The real rush is always only in your head! | #312 00:22:37: Запара в голове. | verbatim |
 | 10 | Макс | Но заказы идут каждую минуту! | But orders keep coming every minute! | new | new |
 | 11 | Федя | Делай каждое блюдо по очереди. | Make each dish in turn. | new | new |
 | 12 | Макс | Хорошо, я понял твой совет. | Alright, I understood your advice. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, newcomer, step aside a little.' Fedya takes charge of the crowded workspace with calm authority.
-- 'Move over, come on, I will help you.' The experienced line cook generously offers practical assistance.
-- 'Fedya, thank you, nothing is working out for me!' Max gratefully admits his helplessness amid the tickets.
-- 'Right now the main thing is to completely calm down.' Fedya emphasizes emotional control over panic.
-- 'Take a deep breath.' Fedya guides his young colleague through a simple centering exercise.
-- 'And now a slow exhale.' The veteran chef ensures Max releases the mounting physical tension.
-- 'And forever remember the main rule.' Fedya prepares to impart essential professional wisdom.
-- 'The rush does not happen in the kitchen.' Fedya begins dismantling the illusion of external chaos.
-- 'The real rush is always only in your head!' The seasoned cook reveals the psychological secret to handling pressure.
-- 'But orders keep coming every minute!' Max vocalizes the anxiety caused by the relentless printer.
-- 'Make each dish in turn.' Fedya reminds him that steady sequential focus conquers any pile of tickets.
-- 'Alright, I understood your advice.' Max internalizes the lesson and regains his composure.
-- 'Then begin to cook calmly!' Fedya gives the green light to restart work with confidence.
+- 'Alright, newcomer, step aside a little.' "Novichok", 'newcomer', comes from "novyy", 'new'. "Otoydi", 'step away', starts with "ot-", which means 'away from'.
+- 'Move over, come on, I will help you.' "Podvinsya", 'move over', ends in -sya because you move yourself. "Davay" tacked on after a command works as a nudge: 'come on'.
+- 'Fedya, thank you, nothing is working out for me!' "U menya nichego ne poluchaetsya" is literally 'at me nothing comes out'. Use it whenever nothing you try works.
+- 'Right now the main thing is to completely calm down.' "Glavnoe", 'the main thing', is an adjective used as a noun. "Polnostyu", 'completely', comes from "polnyy", 'full'.
+- 'Take a deep breath.' "Vdokh", 'a breath in', starts with "v-", 'in'. "Glubokiy", 'deep', is the same word you'd use for deep water.
+- 'And now a slow exhale.' "Vydokh", 'a breath out', starts with "vy-", 'out'. "Vdokh" and "vydokh" share a root, and only the prefix changes.
+- 'And forever remember the main rule.' "Navsegda", 'forever', joins "na" and "vsegda", 'always'. "Zapomni", 'remember', shares a root with "pamyat", 'memory'.
+- 'The rush does not happen in the kitchen.' "Zapara" is kitchen slang for a rush, and the whole scene hangs on it. "Ne" goes right before "na kukhne", so the 'not' is about the place.
+- 'The real rush is always only in your head!' "V golove", 'in the head', has the place ending -e. Russian doesn't say 'your' here; the head is understood to be yours.
+- 'But orders keep coming every minute!' Russian says orders "idut", 'go', where English has 'come'. "Kazhduyu minutu" takes -uyu and -u because it says how often.
+- 'Make each dish in turn.' "Po ocheredi", 'in turn', comes from "ochered", 'a queue'. "Delay" is the imperfective command, for doing something again and again.
+- 'Alright, I understood your advice.' "Sovet", 'advice', can also mean a council, the one in 'Soviet'. "Ya ponyal" is what a man says; a woman would say "ponyala".
+- 'Then begin to cook calmly!' "Spokoyno", 'calmly', is the -o adverb from "spokoynyy". "Nachinay", 'start', goes straight into "gotovit", 'to cook'.

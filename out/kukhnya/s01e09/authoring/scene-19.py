@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "After the high-stakes bank banquet successfully wraps up at Claude Monet, Vika anxiously checks in with Chef Barinov about the evening's results. As Barinov happily confirms that the guests were thrilled with the cake, both reflect on the astonishing discoveries of human nature and parenthood. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the expressions of relief, philosophical reflections on teamwork, and parenting dynamics."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Pleased by the successful banquet and enlightened by the trials of the day, Vika and Chef Barinov share a rare moment of mutual understanding. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'big' — you will catch every word right away. See you next time!"
+INTRO = 'The banquet is over. In the quiet that follows, Vika asks Barinov how it went. The two of them talk about the day, and about children. It plays out like this.'
+OPENER = 'Let me show you how it works.'
+TRANSITION = 'The same story again, now with meaning.'
+OUTRO = 'The day has taught them both something. Barinov has found out that a child is harder than a brigade, and Vika has been reassured. Take it easy, and see you in the next scene.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Виктор, скажи, как прошёл этот сложный банкет?', 'Viktor, tell me, how did this difficult banquet go?', [(341, 'Ну и как, банкет')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Я рада, что этот вечер закончился успешно!', 'I am glad that this evening ended successfully!', [(341, 'Все хорошо')], ''),
 ]
 WALK = [
-    (0, None, "'Viktor, tell me, how did this difficult banquet go?' Once the banquet wraps up, Vika checks in with Viktor to ask how the stressful evening went."),
-    (1, None, "'Everything went simply wonderfully and very calmly.' Barinov happily reports that everything went smoothly and calmly in the end."),
-    (2, None, "'And what happened to our celebration cake?' Remembering the earlier chaos, Vika asks what happened with the celebration cake."),
-    (3, None, "'Nothing terrible, all the guests remained very pleased!' Viktor reassures her that nothing went wrong and the guests were thrilled."),
-    (4, None, "'Well, thank goodness, I was worrying intensely.' Vika breathes a sigh of relief and admits she had been worried sick."),
-    (5, None, "'We make astonishing discoveries every day.' Reflecting on the day, Viktor muses that we make surprising discoveries every day."),
-    (6, None, "'Sometimes a person wants to save, not destroy.' Sometimes a person's instinct is to protect and save rather than tear things down."),
-    (7, None, "'Yes, I clearly understood that today too.' Barinov nods and says he realized that clearly today too."),
-    (8, None, "'You think that you easily manage a big team.' It is easy to think you are a master at commanding a big team of adults."),
-    (9, None, "'And handling a little child is much harder!' Yet handling one little child turns out to be a hundred times harder."),
-    (10, None, "'Children demand much patience and real care.' Vika agrees that children take endless patience and genuine care."),
-    (11, None, "'But my daughter brought us great luck.' Still smiling, Viktor says his daughter ended up bringing the restaurant great luck tonight."),
-    (12, None, "'I am glad that this evening ended successfully!' Vika says she is glad the long evening finished on such a happy note."),
+    (0, None, '\'Viktor, tell me, how did this difficult banquet go?\' "Skazhi" is "tell", said to one person. "Kak proshyol" is "how did it pass". "Slozhny" is "difficult" or "complicated". She wants the news.'),
+    (1, None, '\'Everything went simply wonderfully and very calmly.\' "Vsyo", "everything", takes "proshlo" ending in -o. "Zamechatelno" and "spokoyno" both end in -o too: that\'s how "wonderful" and "calm" become "wonderfully" and "calmly".'),
+    (2, None, '\'And what happened to our celebration cake?\' The Russian is "s nashim prazdnichnym tortom", "with our festive cake", and all three words take endings after "s". Vika has heard something, and she asks it lightly.'),
+    (3, None, '\'Nothing terrible, all the guests remained very pleased!\' "Nichego strashnogo", "nothing frightening", is the set phrase for "no big deal", heard in the knife scene. "Ostalis dovolny" is "remained pleased".'),
+    (4, None, '\'Well, thank goodness, I was worrying intensely.\' "Slava bogu", "glory to God", is the Russian "thank goodness", the one Alisa quoted from her mother. "Volnovalas" has the woman\'s -las, so it\'s Vika speaking.'),
+    (5, None, '\'We make astonishing discoveries every day.\' "Otkrytie", "discovery", grows from "otkryt", "to open", so a discovery is an "opening". "Kazhdy den" is "every day". Barinov is in a philosophical mood.'),
+    (6, None, '\'Sometimes a person wants to save, not destroy.\' "Spasti", "to save", shares a root with "spasibo", which started as "God save". "Unichtozhit" is "to destroy". Vika says it softly.'),
+    (7, None, '\'Yes, I clearly understood that today too.\' "Segodnya" is spelt with a g but said with a v, an old Russian spelling habit. "Ponyal", "understood", ends in the man\'s -l. "Yasno" is "clearly".'),
+    (8, None, '\'You think that you easily manage a big team.\' "Upravlyaesh" is the word Max used when he steered the rat; here it means running the kitchen. "Kollektivom" is "kollektiv", "team", with -om, because this word wants that ending.'),
+    (9, None, '\'And handling a little child is much harder!\' "Spravitsya" is the "cope" word again. "Trudnee" is "harder": "trudno" with -ee, the same ending that makes "bystree", "faster". "Gorazdo" is "much".'),
+    (10, None, '\'Children demand much patience and real care.\' "Trebuyut", "demand", is the word Barinov used when he wanted silence. After "mnogo", "much", "terpenie" becomes "terpeniya", and "zabota" becomes "zaboty".'),
+    (11, None, '\'But my daughter brought us great luck.\' "Prinesla", "brought", ends in -la because the daughter is a girl. "Udacha" is luck, a warm word Russians also say as "good luck". Barinov sees the day\'s silver lining.'),
+    (12, None, '\'I am glad that this evening ended successfully!\' Vika says "rada", the woman\'s form of "glad"; a man says "rad". "Zakonchilsya" has -sya, "ended by itself", where Louis\'s "zakonchil" took an object.'),
 ]

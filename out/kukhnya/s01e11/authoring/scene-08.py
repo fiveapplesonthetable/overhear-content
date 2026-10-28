@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'guest': 'Гость', 'kostya': 'Костя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "At the Claude Monet bar counter, an exhausted and hungover visitor approaches bartender Kostya. Relieved to recover the mobile phone he left behind the night before, he unburdens his romantic sorrows to the sympathetic bartender. Let's listen to their friendly bar exchange in Russian."
-OPENER = "Now let's examine how Kostya assists the forgetful guest at the bar line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Comforted by the bartender's hospitality, the customer rests at the bar before facing the rest of his day. Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'to come back' — you will catch every word right away. See you next time!"
+INTRO = 'At the bar, a customer arrives who has been there before. He is hungover, looking for his phone, and Kostya is the person he asks. The Russian comes first.'
+OPENER = "We'll take it a bit at a time."
+TRANSITION = 'And again, the whole conversation.'
+OUTRO = 'The phone is found, and the customer has a drink on the house. Kostya has a kind heart, and he is about to be rewarded for it. On to the next.'
 CLOSING = ('guest', 'Пока!')
 STORY = [
     ('guest', 'Привет! Как твои дела, бармен?', 'Hello! How are things, bartender?', [(100, 'Здрасте.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('guest', 'Спасибо тебе за доброту, дружище!', 'Thank you for your kindness, buddy!', [(111, 'Спасибо тебе, дружище.')], ''),
 ]
 WALK = [
-    (0, None, "'Hello! How are things, bartender?' The guest says hello and asks how things are with the bartender. He is friendly. He calls the bartender 'barmen'."),
-    (1, None, "'Hello! How are you feeling today?' Kostya says hello and asks how he is feeling today. He remembers the man was drinking yesterday. 'Chuvstvuete' relates to feeling."),
-    (2, None, "'Ugh, today I feel worse than yesterday.' The guest groans that today he feels worse than yesterday. He has a hangover. 'Khuzhe chem vchera' means worse than yesterday."),
-    (3, None, "'Did you happen to find my phone?' The guest asks if he happened to find his phone. He lost it while drinking. 'Sluchayno ne nakhodil' means did not happen to find."),
-    (4, None, "'Yes, I found it near the counter.' Kostya confirms he found it near the counter. He is being helpful. 'Vozle stoyki' means near the bar counter."),
-    (5, None, "'Huge thanks for the help, friend!' The guest gives huge thanks for the help, calling him a friend. He is very relieved. 'Ogromnoe spasibo' means huge thanks."),
-    (6, None, "'Tell me honestly, did my girlfriend not call?' The guest asks him to tell honestly if his girlfriend called. He is worried he missed her call. 'Skazhi chestno' means tell honestly."),
-    (7, None, "'No, no one has called here yet.' Kostya replies no one has called there yet. The phone has been quiet. 'Poka nikto' means no one yet."),
-    (8, None, "'She has not returned from Saratov yet.' The guest mentions she has not returned from another city yet. He is explaining why she might call. He is referring to another Russian city."),
-    (9, None, "'Yesterday you spoke about her for a long time.' Kostya notes he spoke about her for a long time yesterday. The man was very talkative while drunk. 'Dolgo govorili' means talked for a long time."),
-    (10, None, "'Yes, my memory is slowly returning to me.' The guest admits his memory is slowly returning to him. He was very drunk. 'Medlenno vozvrashchaetsya' means slowly returning."),
-    (11, None, "'Here is a drink for you on the house.' Kostya offers a drink on the house. He is being a good bartender. 'Za schyot zavedeniya' means at the establishment's expense."),
-    (12, None, "'Thank you for your kindness, buddy!' The guest thanks his buddy for his kindness. He appreciates the free drink. 'Dobrotu' means kindness."),
+    (0, None, '\'Hello! How are things, bartender?\' The guest says "ty" to the bartender: "kak tvoi dela", "how your affairs". "Barmen" is "barman" in Russian letters. He has been drinking here before.'),
+    (1, None, '\'Hello! How are you feeling today?\' Kostya answers politely, with "vy". Russian says "kak vy sebya chuvstvuete", "how you yourself feel", where "sebya" is "yourself".'),
+    (2, None, '\'Ugh, today I feel worse than yesterday.\' "Khuzhe, chem vchera" is "worse than yesterday", with "chem" for "than". "Khuzhe" is an irregular form of "plokho", "bad". "Mne khuzhe" is "to me worse".'),
+    (3, None, '\'Did you happen to find my phone?\' "Sluchayno", "by chance", comes from "sluchay", "a case" or "chance". "Ty sluchayno ne nakhodil" is "did you by chance not find", a soft way to ask.'),
+    (4, None, '\'Yes, I found it near the counter.\' "Stoyka", "counter", is related to "stoyat", "to stand". "Vozle stoyki" is "near the counter". "Nashyol" is "I found".'),
+    (5, None, '\'Huge thanks for the help, friend!\' "Ogromnoe spasibo", "huge thanks", is the usual "thanks a lot". "Za pomoshch" is "for the help", and "drug" is "friend".'),
+    (6, None, '\'Tell me honestly, did my girlfriend not call?\' "Devushka" is "girl" and also "girlfriend", so context decides. "Skazhi chestno" is "tell honestly". "Ne zvonila" is "didn\'t call".'),
+    (7, None, '\'No, no one has called here yet.\' "Poka" is the word for "bye", and it also means "for now" or "yet". "Nikto ne zvonil" is "nobody not called", with both negatives. "Syuda" is "to here".'),
+    (8, None, '\'She has not returned from Saratov yet.\' "Saratov" is a city on the "Volga", and "from Saratov" is "iz Saratova". "Eshchyo ne vernulas", "not yet returned", ends in -las for a woman.'),
+    (9, None, '\'Yesterday you spoke about her for a long time.\' "Dolgo", "for a long time", is one word. "Pro neyo" is "about her", where "eyo" picks up an n- after "pro".'),
+    (10, None, '\'Yes, my memory is slowly returning to me.\' "Vozvrashchaetsya" is "returns", with -sya, "returns itself". "Pamyat" is "memory", and "ko mne" is "to me".'),
+    (11, None, '\'Here is a drink for you on the house.\' "Za schyot zavedeniya" is "at the expense of the establishment". "Schyot" also means "bill" and "score". "Vot vam napitok" is "here for you a drink".'),
+    (12, None, '\'Thank you for your kindness, buddy!\' "Drugishche" is "drug", "friend", with a big warm ending: "old pal". "Dobrota", "kindness", comes from "dobry", "kind".'),
 ]

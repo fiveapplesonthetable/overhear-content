@@ -11,14 +11,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Костя | Макс, смотри внимательно на зал! | Max, look carefully at the dining room! | new | new |
-| 2 | Макс | Кто же из них может быть критиком? | Which one of them could be the critic? | #66: Кто же из них может быть критиком? | verbatim |
-| 3 | Костя | Эти двое работают в соседнем банке. | Those two work at the bank next door. | #67: работают в соседнем банке. | verbatim |
-| 4 | Макс | Да, они наши постоянные гости. | Yes, they are our regular guests. | #67: Эти двое постоянные гости | verbatim |
+| 2 | Макс | Кто же из них может быть критиком? | Which one of them could be the critic? | #66 00:04:26: Кто же из них может быть критиком? | verbatim |
+| 3 | Костя | Эти двое работают в соседнем банке. | Those two work at the bank next door. | #67 00:04:31: работают в соседнем банке. | verbatim |
+| 4 | Макс | Да, они наши постоянные гости. | Yes, they are our regular guests. | #67 00:04:31: Эти двое постоянные гости | verbatim |
 | 5 | Костя | А тот мужчина у окна? | And that man by the window? | new | new |
-| 6 | Макс | Он заказал рыбу и красное вино. | He ordered fish and red wine. | #68: Рыба и красное вино. | verbatim |
-| 7 | Костя | Нет, настоящий критик такого не закажет. | No, a real critic will not order that. | #69: Нет. | verbatim |
+| 6 | Макс | Он заказал рыбу и красное вино. | He ordered fish and red wine. | #68 00:04:39: Рыба и красное вино. | verbatim |
+| 7 | Костя | Нет, настоящий критик такого не закажет. | No, a real critic will not order that. | #69 00:04:42: Нет. | verbatim |
 | 8 | Макс | А парень за столиком номер три? | What about the guy at table number three? | new | new |
-| 9 | Костя | Он слишком молод для ресторанного критика. | He is too young for a restaurant critic. | #70: Слишком молод | verbatim |
+| 9 | Костя | Он слишком молод для ресторанного критика. | He is too young for a restaurant critic. | #70 00:04:48: Слишком молод | verbatim |
 | 10 | Макс | Критики обычно сидят в одиночестве. | Critics usually sit in solitude. | new | new |
 | 11 | Костя | И записывают всё в блокнот. | And write down everything in a notepad. | new | new |
 | 12 | Макс | Смотри, женщина за седьмым столиком! | Look, the woman at table seven! | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, look carefully at the hall!' Kostya tells his friend to look carefully at the hall. They are spying on the customers. 'Vnimatelno' means attentively.
-- 'Who of them could be the critic?' Max wonders who among them could be the critic. They are trying to guess. 'Kto zhe iz nikh' means who of them.
-- 'Those two work in the neighboring bank.' Kostya points out those two work in the neighboring bank. He knows the regular crowd. 'V sosednem banke' means in the next bank.
-- 'Yes, they are our regular guests.' Max agrees and says they are regular guests. 'Postoyannye' means constant or regular. They can skip them.
-- 'And what about that man by the window?' Kostya asks about that man by the window. They are moving to the next suspect. 'U okna' means by the window.
-- 'He ordered fish and red wine.' Max notes he ordered fish and red wine. This is a culinary clue. Red wine with fish is often considered a mistake.
-- 'No, a real critic would not order that.' Kostya argues a real critic would not order that combination. It proves he is not the one. 'Nastoyashchiy kritik' means a real critic.
-- 'And what about the guy at table number three?' Max asks about the guy at table number three. He points out another person. 'Za stolikom' means at the little table.
-- 'He is too young for a restaurant critic.' Kostya thinks he is too young for a restaurant critic. He dismisses him based on age. 'Slishkom molod' means too young.
-- 'Critics usually sit alone.' Max adds that critics usually sit alone. He knows some industry secrets. 'V odinochestve' means in solitude.
-- 'And write everything down in a notepad.' Kostya says they also write everything down in a notepad. He mentions another stereotype. 'Bloknot' is a small notebook.
-- 'Look, the woman at the seventh table!' Max excitedly tells him to look at the woman at the seventh table. He spots someone suspicious. 'Zhenshchina' means woman.
-- 'She is looking very sternly at the menu.' Kostya observes she is looking very sternly at the menu. This fits the profile. 'Strogo smotrit' means looks strictly.
-- 'It seems we have found our critic!' Max thinks they have finally found their critic. He is relieved. 'Kazhetsya' means it seems.
+- 'Max, look carefully at the dining room!' "Smotri vnimatelno" is "look attentively". "Na zal" is "at the hall": "na" is the small word for looking at something. Kostya speaks in a conspirator's voice.
+- 'Which one of them could be the critic?' It's "kto zhe iz nikh", "who then of them", and "mozhet byt" is "can be". After "byt", "kritik" becomes "kritikom".
+- 'Those two work at the bank next door.' "Sosedny", "neighbouring", comes from "sosed", "neighbour". "V sosednem banke" is "in the neighbouring bank". "Eti dvoe" is "these two".
+- 'Yes, they are our regular guests.' Russians call regulars "postoyannye gosti", "constant guests". Max agrees with Kostya's logic: regulars cannot be mystery visitors.
+- 'And that man by the window?' "U okna" is "at the window": after "u", "okno" becomes "okna". "Muzhchina", "man", is close to "muzh", "husband". Kostya moves on to the next suspect.
+- 'He ordered fish and red wine.' "Zakazal" is "ordered", from "zakaz". "Rybu" is "ryba", "fish", as the thing ordered. "Krasnoe vino" is "red wine". Max reads the table like a detective.
+- 'No, a real critic will not order that.' "Takogo ne zakazhet" is "of such not will order", with "takoe" changed after "ne". "Zakazhet" is "will order". Kostya is sure of his rules for critics.
+- 'What about the guy at table number three?' "A" at the front means "and what about". "Za stolikom" is "at the little table": "stolik" is a small "stol", the usual word for a restaurant table.
+- 'He is too young for a restaurant critic.' "Molod" is a short form of "molodoy", "young", used to describe someone in the moment. "Dlya restorannogo kritika" is "for a restaurant critic", with endings after "dlya".
+- 'Critics usually sit in solitude.' "Odinochestvo", "solitude", comes from "odin", "one" or "alone", Louis's word in "ya odin". "V odinochestve" is "in solitude". "Obychno" is "usually".
+- 'And write down everything in a notepad.' "Zapisyvayut" is "write down": za- on "pisat", "to write". "Bloknot", "notepad", was borrowed from French. "V bloknot" is "into the notepad".
+- 'Look, the woman at table seven!' The table is "za sedmym stolikom", "at the seventh little table", a counting word. "Zhenshchina" is "woman". The suspect is a lady alone, so she fits.
+- 'She is looking very strictly at the menu.' "Strogo", "strictly", is "strogy" with -o. "Menyu" never changes in Russian. Kostya is drawing a conclusion from a frown, which is hardly proof.
+- 'It seems we found our critic!' "Kazhetsya", "it seems", is a single word. "Nashli", "found", ends in -li for "we". "Nashego kritika" is "our critic" as the one found.

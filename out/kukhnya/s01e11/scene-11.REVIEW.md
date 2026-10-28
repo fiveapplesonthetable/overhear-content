@@ -11,11 +11,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Вика | Саша, подойди сюда на секунду. | Sasha, come over here for a second. | new | new |
-| 2 | Саша | Что случилось, Виктория Сергеевна? | What happened, Victoria Sergeyevna? | new | new |
+| 2 | Саша | Что случилось, Виктория Сергеевна? | What happened, Viktoria Sergeyevna? | new | new |
 | 3 | Вика | Кто сидит за пятым столиком? | Who is sitting at the fifth table? | new | new |
 | 4 | Саша | Там сидит довольно странный мужчина. | A rather strange man is sitting there. | new | new |
 | 5 | Вика | Почему он ничего не заказывает? | Why is he not ordering anything? | new | new |
-| 6 | Саша | Я не знаю, это гость Насти. | I do not know, this is Nastya's guest. | #159: Я не знаю | verbatim |
+| 6 | Саша | Я не знаю, это гость Насти. | I do not know, this is Nastya's guest. | #159 00:10:51: Я не знаю | verbatim |
 | 7 | Вика | Она уже подошла к нему? | Did she already approach him? | new | new |
 | 8 | Саша | Да, она только что дала меню. | Yes, she just gave him the menu. | new | new |
 | 9 | Вика | Он внимательно изучает наш зал? | Is he carefully studying our hall? | new | new |
@@ -26,7 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who is sitting at the fifth table?' Vika notices someone new. She wants to know the identity of the person at table five.
-- 'I do not know, this is Nastya's guest.' Sasha has no idea who the man is. He points out that the other waitress is serving that table.
-- 'He is constantly writing in his notebook.' He shares an observation. The man keeps writing things down in a little book.
-- 'This looks very much like an inspection.' Vika gets suspicious right away. To her, taking notes looks exactly like what a critic would do.
+- 'Sasha, come over here for a second.' "Podoydi", "come up", is "idti", "to go on foot", with pod-, "up to". "Syuda" is "to here". Vika uses "ty" with the waitress and keeps it short.
+- 'What happened, Viktoria Sergeyevna?' Sasha uses first name and father's name, "Viktoria Sergeevna", because she is talking to her boss. "Chto sluchilos" is "what happened".
+- 'Who is sitting at the fifth table?' Russians sit "za", "behind", a table: "za pyatym stolikom". "Pyaty" is "fifth". It is the same pattern as Kostya's "za sedmym stolikom".
+- 'A rather strange man is sitting there.' "Dovolno" is "rather", and "strannyy muzhchina" is "strange man". "Muzhchina" ends in -a but is a man's word, and "strannyy" agrees with the man.
+- 'Why is he not ordering anything?' "Nichego ne zakazyvaet" is "nothing not orders", with both negatives. "Zakazyvat" is "to order", from "zakaz", "an order".
+- 'I do not know, this is Nastya's guest.' "Gost Nasti" is "guest of Nastya": the -i on "Nasti" does the "of". Sasha hands the problem to her colleague.
+- 'Did she already approach him?' "Podoshla", "came up", has the -la of a woman. "K nemu" is "to him", where "emu" picks up an n- after "k".
+- 'Yes, she just gave him the menu.' "Tolko chto", "only what", is "just now". "Dala", "gave", has the woman's -la. "Menyu" never changes its ending.
+- 'Is he carefully studying our hall?' "Izuchaet", "studies", is the school word. "Vnimatelno" is "carefully", "attentively". Vika thinks the man is watching the room.
+- 'He is constantly writing in his notebook.' "V svoy bloknot" is "into his own notebook", where "svoy" is "own". "Postoyanno" is "constantly", from the same family as "postoyannye gosti".
+- 'This looks very much like an inspection.' "Pokhozhe na" is "similar to", the pattern of Alisa's "ya pokhozha na tebya?", "do I look like you?" "Proverka", "inspection", grows from "proverit", "to check".
+- 'Should I call Nastya to you?' Russian says "mne pozvat?", "to me to call?", for "shall I call?". "K vam" is "to you", polite. "Nastyu" ends in -yu because she is the one called.
+- 'Yes, call her right now.' "Pozovi" is the command "call!", for summoning someone. "Pryamo seychas" is "straight now", "right now". Vika ends the scene with an order.

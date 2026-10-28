@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "Morning briefing in the Claude Monet kitchen takes an urgent turn. Chef Viktor Barinov discovers that someone improperly thawed five kilograms of fresh cod that must be cooked today. To avoid a costly loss, Barinov instructs head waitress Sasha to aggressively promote fish specials with a twenty percent discount. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Chef Barinov and Sasha's kitchen orders line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = 'Over in the Claude Monet kitchen, Chef Barinov has a problem that has nothing to do with love: somebody thawed a pile of cod, and it all has to be sold today. He gathers the staff and pulls in Sasha, one of the waitresses, to help. Listen to it in Russian first.'
+OPENER = 'Now slowly. Barinov gives orders, and orders are short, which suits us.'
+TRANSITION = 'Once more from the top, at full speed.'
+OUTRO = 'Some of this works in any job: "ponyatno" for \'understood\', and "chto nam teper delat" for \'what do we do now\'. As for the cod, Barinov means that fine.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Внимание, повара! Начнём наше собрание.', 'Attention, cooks! Let us begin our meeting.', [(38, 'начнем собрание')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Если рыба останется, я вас оштрафую!', 'If fish remains, I will fine you!', [], ''),
 ]
 WALK = [
-    (0, None, "'Attention, cooks! Let us begin our meeting.' Barinov calls his kitchen staff to attention."),
-    (1, None, "'Chef, what happened in the kitchen today?' Sasha asks about the emergency."),
-    (2, None, "'Someone thawed five kilograms of cod yesterday.' Barinov reveals the disastrous mistake with the seafood."),
-    (3, None, "'And what are we to do now?' Sasha wonders how they can possibly fix this."),
-    (4, None, "'We must sell all the fish today!' Barinov insists they have to move the product immediately."),
-    (5, None, "'Guests only order meat and pasta.' Sasha points out that the customers usually prefer other dishes."),
-    (6, None, "'Sasha, come to me immediately.' Barinov orders the waitress to come closer for instructions."),
-    (7, None, "'I am listening to you carefully, chef.' Sasha gives him her full attention."),
-    (8, None, "'Tell the waiters: today we actively offer cod.' Barinov commands her to push the special menu item hard."),
-    (9, None, "'Maybe we will give a special discount?' Sasha suggests a financial incentive for the customers."),
-    (10, None, "'Yes, twenty percent discount on fish.' Barinov quickly agrees to the price cut."),
-    (11, None, "'Understood, chef, we will organize everything.' Sasha promises to get the front of house on board."),
-    (12, None, "'If fish remains, I will fine you!' Barinov threatens strict punishment if they fail."),
+    (0, None, '\'Attention, cooks! Let us begin our meeting.\' "Vnimanie" works just like \'attention!\' in English. "Povar", \'cook\', makes its plural with a stressed -a, "povara", as a handful of common words do.'),
+    (1, None, '\'Chef, what happened in the kitchen today?\' "Stryaslos" is a dramatic \'happened\', for something bad that has suddenly landed on you. Kitchens take "na", not "v": "na kukhne", \'in the kitchen\'.'),
+    (2, None, '\'Someone thawed five kilograms of cod yesterday.\' "Kto-to" is "kto", \'who\', plus -to, making \'someone\'. "Razmorozil" has "moroz", \'frost\', inside, with "raz-" undoing it, and after "pyat" comes "kilogrammov treski", \'of kilograms of cod\'.'),
+    (3, None, '\'And what are we to do now?\' Literally \'and what to-us now to do?\'. There\'s no \'should\' and no \'are\', just "nam", \'to us\', and the bare verb "delat".'),
+    (4, None, '\'We must sell all the fish today!\' "Obyazany" is a strong \'must\', close to \'we are obliged\'. "Ryba", \'fish\', becomes "vsyu rybu" because it\'s what gets sold.'),
+    (5, None, '\'Guests only order meat and pasta.\' Pasta becomes "pastu" as the thing ordered, while "myaso", \'meat\', stays as it is: words ending in -o don\'t change here.'),
+    (6, None, '\'Sasha, come to me immediately.\' "Podoydi" is a command to one person, \'come over\'. Before "mne", the little "k", \'to\', gets an extra vowel and becomes "ko": "ko mne".'),
+    (7, None, '\'I am listening to you carefully, chef.\' Sasha uses "vas", the polite \'you\', with her boss. "Vnimatelno", \'carefully\', is built on "vnimanie", the \'attention!\' that opened the scene.'),
+    (8, None, '\'Tell the waiters: today we actively offer cod.\' "Peredai" is \'pass on\', for handing a message along. "Ofitsiantam" ends in -am, meaning \'to the waiters\'.'),
+    (9, None, '\'Maybe we will give a special discount?\' "Mozhet byt" is literally \'may be\'. Sasha phrases her idea as a question, the safe way to suggest something to a boss.'),
+    (10, None, '\'Yes, twenty percent discount on fish.\' "Dvadtsat", \'twenty\', is "dva", \'two\', glued to a shortened \'ten\'. After it, "protsent" takes the form "protsentov", as it does after five, six and so on.'),
+    (11, None, '\'Understood, chef, we will organize everything.\' "Ponyatno", \'understood\', is the word to use with any boss. "Organizuem" looks like English, with -em for \'we\'.'),
+    (12, None, '\'If fish remains, I will fine you!\' "Esli", \'if\', opens the threat. "Oshtrafuyu" hides "shtraf", \'a fine\', and "vas" here means the whole staff.'),
 ]

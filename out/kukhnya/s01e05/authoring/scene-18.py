@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "Chef Viktor Barinov decides to test Max's culinary endurance during dinner service. He publicly puts Max in sole charge of the demanding fish station. Barinov then secretly orders the waiters to push cod dishes, flooding Max with overwhelming orders. Let's listen to their confrontation in Russian first."
-OPENER = "Let's analyze this intense kitchen trial line by line. Notice how culinary hierarchy and restaurant pressure create high-stakes professional drama."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max faces a grueling test under Chef Barinov's watchful and demanding eye. Fantastic job practicing everyday culinary Russian! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = "Back in the Claude Monet kitchen, Chef Barinov puts Max to a real test: tonight Max runs the fish station on his own. What Max doesn't know is that the chef plans to keep the orders coming. Listen in Russian first, and let a few words go by."
+OPENER = "Let's walk through it. Barinov fires off orders, and Max says yes to every one."
+TRANSITION = 'Now try it at service speed.'
+OUTRO = 'Kitchen Russian is short and fast: "est", "shef" for \'yes, chef\', "ya spravlyus" for \'I\'ll cope\', and "dokazhi" for \'prove it\'.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Все заказы по рыбе выполняешь ты!', 'You are handling all the fish orders!', [(243, 'все заказы по рыбе')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Вот и докажи это делом, огузок!', 'Prove it with action then, rump!', [], ''),
 ]
 WALK = [
-    (0, None, "'You are handling all the fish orders!' Barinov intentionally overloads the rookie with responsibilities."),
-    (1, None, "'Yes, Chef, I am ready to work!' Max confidently accepts the massive workload."),
-    (2, None, "'Let us see what kind of fish master you are.' Barinov challenges the young cook to prove his worth."),
-    (3, None, "'I will prepare all dishes very quickly.' Max boldly promises to deliver everything on time."),
-    (4, None, "'Maxim, take the order: two cod Florentines!' Barinov calls out another challenging ticket."),
-    (5, None, "'Yes, Chef, I am already starting to cook.' Max assures the boss he is already on it."),
-    (6, None, "'And two more portions of cod with almonds!' Barinov piles on even more portions to test him."),
-    (7, None, "'But I already took two dishes!' Max protests the sudden increase in volume."),
-    (8, None, "'Do not argue, Fedya managed somehow!' Barinov shuts down the complaints by comparing him to a veteran."),
-    (9, None, "'I do not have enough fresh fish here.' Max points out a critical shortage of ingredients."),
-    (10, None, "'Search in the storage and hustle faster!' Barinov tells him to solve the problem himself and hurry up."),
-    (11, None, "'I will handle all orders myself.' Max stubbornly insists he can handle the pressure."),
-    (12, None, "'Prove it with action then, rump!' Barinov demands that he stop talking and start cooking."),
+    (0, None, '\'You are handling all the fish orders!\' "Ty" comes at the very end, which puts the weight on it: you and nobody else. "Zakazy po rybe" is literally \'orders on fish\'.'),
+    (1, None, '\'Yes, Chef, I am ready to work!\' "Est" is the soldier\'s reply to an order, close to \'aye, sir\'. "Gotov k rabote", \'ready for work\', has "k", \'towards\', and -e on the end of "rabota".'),
+    (2, None, '\'Let us see what kind of fish master you are.\' "Kakoy iz tebya master" is literally \'what master out of you\', a set way to doubt someone\'s skill. "Rybnyy" comes from "ryba", \'fish\', and works like \'fish\' in \'fish dish\'.'),
+    (3, None, '\'I will prepare all dishes very quickly.\' "Prigotovlyu", \'I\'ll prepare\', promises the job will be done and finished. "Vse blyuda" is plural, and "vse" matches it.'),
+    (4, None, '\'Maxim, take the order: two cod Florentines!\' "Treska", \'cod\', is a feminine noun, so \'two\' is "dve", and after it comes the genitive singular, "treski". "Po-florentiyski" means \'Florentine style\'.'),
+    (5, None, '\'Yes, Chef, I am already starting to cook.\' "Uzhe" means \'already\'. "Nachinayu", \'I\'m starting\', is followed straight away by "gotovit", \'to cook\'.'),
+    (6, None, '\'And two more portions of cod with almonds!\' "Eshchyo dve" is \'two more\'. After "s", \'with\', almonds get the ending -yom: "s mindalyom".'),
+    (7, None, '\'But I already took two dishes!\' "Zhe" adds \'after all\', a note of protest. After "dva", \'two\', the noun goes into the genitive singular, so "blyudo" becomes "dva blyuda".'),
+    (8, None, '\'Do not argue, Fedya managed somehow!\' "Ne spor" is a negative command, \'don\'t argue\'. "Spravlyalsya", \'was coping\', describes how Fedya used to get through it, shift after shift.'),
+    (9, None, '\'I do not have enough fresh fish here.\' "Mne ne khvataet" is literally \'to me it\'s not enough\'. What\'s missing goes into the genitive: "svezhey ryby".'),
+    (10, None, '\'Search in the storage and hustle faster!\' "Na sklade", \'in the storeroom\', has -e for \'where\'. "Krutis", \'hustle\', is literally \'spin yourself round\'.'),
+    (11, None, '\'I will handle all orders myself.\' "Spravlyus" is \'I\'ll cope\', a one-time promise set against Fedya\'s "spravlyalsya". After "so", \'with\', the plural takes -ami: "so vsemi zakazami".'),
+    (12, None, '\'Prove it with action then, rump!\' "Dokazhi" is the command \'prove\'. "Delom", \'with a deed\', is a case form of "delo", and Oguzok, \'rump\', is the chef\'s nickname for Max.'),
 ]

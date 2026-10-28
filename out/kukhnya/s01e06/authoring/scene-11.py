@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'inspector': 'Инспектор', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Having completed an inspection of the pristine dining area, Victoria leads the stern sanitary inspector toward the kitchen. While Victoria attempts to maintain an upbeat and confident tone, the inspector makes it clear that standards are uncompromising. Let's listen to their formal conversation in Russian first."
-OPENER = "Let's examine the polite yet tense exchange between Victoria and the inspector."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you understand how formal inspections are conducted in upscale restaurants. Listen for these official phrases next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'everywhere' and 'carefully' — you will catch every word right away. See you next time!"
+INTRO = "The sanitary inspector has finished with the dining room at Claude Monet, and Vika, the manager, walks him through to the kitchen. She is polite and confident. He is polite and very, very thorough. It's in Russian first, with a lot of formal language."
+OPENER = 'Let\'s go back through it. Both of them use the polite "vy", and both talk like an official letter.'
+TRANSITION = 'And now the tour from the start, without stopping.'
+OUTRO = 'This was Russian at its most formal: "prokhodite", "proshu vas", "dobro pozhalovat". It\'s the opposite of the shouting in the kitchen, and it\'s what you\'ll hear at any office or front desk. See you next time.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Проходите, пожалуйста, вот и наша кухня.', 'Come in, please, here is our kitchen.', [(157, 'А вот и наша кухня'), (158, 'Прошу вас')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('vika', 'Добро пожаловать на нашу кухню!', 'Welcome to our kitchen!', [], ''),
 ]
 WALK = [
-    (0, None, "'Come in, please, here is our kitchen.' Politely gesturing the official forward, Vika leads the way into the kitchen."),
-    (1, None, "'Regarding the hall, I have no complaints.' Granting a rare shred of approval, the inspector praises the dining room."),
-    (2, None, "'Now let's look at your kitchen carefully.' Making his intentions clear, the official prepares for serious scrutiny."),
-    (3, None, "'I myself will check every workstation.' The inspector insists on conducting a thorough, hands-on sweep."),
+    (0, None, '\'Come in, please, here is our kitchen.\' "Prokhodite", come through, is what a host says to wave a guest further in. "Vot" i, \'and here is\', points at something you\'ve been heading for.'),
+    (1, None, '\'Regarding the hall, I have no complaints.\' "Po zalu", \'as for the hall\', is "po" with -u added to "zal". After "net", no, "pretenzii", complaints, becomes "pretenziy".'),
+    (2, None, '\'We strictly monitor cleanliness everywhere.\' "Sledim za", \'we watch over\', takes "za", and "chistota" changes to "chistotoy" after it. "Strogo", strictly, is from "strogiy", strict.'),
+    (3, None, '\'Now let\'s look at your kitchen carefully.\' "Posmotrim", let\'s look, uses the \'we\' ending to mean \'let\'s\'. "Na vashu kukhnyu", at your kitchen, has -u twice because it\'s what he\'s looking at.'),
+    (4, None, '\'We have the best cooks working here.\' "Rabotayut luchshie povara" is \'work the best cooks\', with the subject coming last. "Povara", cooks, is the plural of "povar", with the stress at the end.'),
+    (5, None, '\'I am interested only in sanitary rules.\' "Menya interesuyut" is \'me interest\', so the rules do the interesting and he is the object. That\'s why it\'s "menya", not "ya".'),
+    (6, None, '\'All employees wear a clean uniform.\' "Sotrudniki", staff, is the formal word, built from so-, with, and "trud", labour. "Nosyat", they wear, is from "nosit", which also means \'to carry around\'.'),
+    (7, None, '\'I myself will check every workstation.\' "Sam", myself, is a way of saying he won\'t take anyone\'s word for it. "Kazhdoe", every, ends in -oe to match "mesto", place.'),
+    (8, None, '\'Our head chef personally oversees everything.\' "Lichno", personally, is from "lichnyy", personal. "Kontroliruet", he oversees, is a borrowed word with the regular -et ending for \'he\'.'),
+    (9, None, '\'In the kitchen one must not violate rules.\' "Nelzya", \'not allowed\', is followed by a plain verb: "nelzya narushat", mustn\'t break. It\'s the word you\'ll see on prohibition signs.'),
+    (10, None, '\'You can see everything yourself.\' "Vy mozhete", you can, is the polite form. "Sami", yourself, is plural because it goes with "vy", even for one person.'),
+    (11, None, '\'Then we begin a full sanitary inspection.\' "Nachinaem", we begin, ends in -em, the \'we\' ending. "Polnuyu" and "sanitarnuyu" both end in -uyu to match "proverku".'),
+    (12, None, '\'Welcome to our kitchen!\' "Dobro pozhalovat", welcome, is a fixed phrase you\'ll see on signs at every town gate. It\'s "na kukhnyu", not v, because Russians work \'on\' a kitchen.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Nastya moved in with Max and Kostya, but the guys still spend their time playing video games on the couch. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around A New Life for Three line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The boys finish their gaming session as Nastya continues cooking dinner in the kitchen. Next time you watch the episode, listen for the Russian expressions for 'week' and 'ago' — you will catch every word right away. See you next time!"
+INTRO = "This is Kukhnya, a comedy set in the kitchen of Claude Monet, a smart restaurant in Moscow. This episode is all about who lives where. Nastya has just moved into the flat that Max shares with Kostya, and everybody pretends that nothing has changed. We start on the sofa with two grown men and a video game. First in Russian, and don't worry about missing words."
+OPENER = 'Now the same scene, slowly, a line at a time.'
+TRANSITION = 'And all of it again, with no stops.'
+OUTRO = "Nastya is cooking dinner while the boys carry on shooting. Life with three in the flat is about to get more complicated. Until next time."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('max', 'Неделю назад к нам переехала Настя.', 'Nastya moved in with us a week ago.', [(1, 'неделю назад к нам переехала')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Она готовит вкусный ужин на кухне.', 'She is cooking a tasty dinner in the kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya moved in with us a week ago.' Max points out the recent change in their living situation, using a natural turn of phrase to indicate how much time has passed."),
-    (1, None, "'Yes, now we live here as three.' Kostya confirms the new reality of their cramped apartment, emphasizing the number of people sharing the space."),
-    (2, None, "'Our life barely changed from that.' Despite having a third roommate in the apartment, Max notes that their daily routine has barely changed."),
-    (3, None, "'We still play together just the same.' He points out that they are continuing their usual couch activities without any interruption."),
-    (4, None, "'Kostya, hurry up, shoot at them!' Shouting an urgent command, Max urges his friend to act quickly in the video game."),
-    (5, None, "'I am choosing my new weapon.' Caught up in the game menu, he explains why he is momentarily distracted from the action."),
-    (6, None, "'They surrounded me from three sides here!' The gamer panics as his character gets cornered, calling out the direction of the enemy attack."),
-    (7, None, "'Hold on, I am already running to help!' Rushing to the rescue, Kostya shouts a quick encouragement to keep his teammate in the fight."),
-    (8, None, "'Great work, this is our victory!' Celebrating their success, Max triumphantly declares that they have won the match."),
-    (9, None, "'We are a great team in this game.' Pleased with their performance, he compliments their shared skills and coordination."),
-    (10, None, "'The main thing is that Nastya does not disturb us.' Eyes glued to his game controller, Max jokes that the main thing is that Nastya does not interrupt their match."),
-    (11, None, "'She is cooking a tasty dinner in the kitchen.' He casually mentions what their new roommate is doing, showing they are perfectly happy to let her do the chores."),
+    (0, None, "'Nastya moved in with us a week ago.' 'Nedelyu nazad' is 'a week back': the time comes first, then 'nazad'. 'Pereekhala' is pere-, across, on the verb for going by transport, and it ends in 'a' because Nastya is the one who moved."),
+    (1, None, "'Yes, now we live here as three.' 'Vtroyom' is a single word for 'the three of us together'. With two people it's 'vdvoyom', and you'll hear both a lot."),
+    (2, None, "'Our life barely changed from that.' 'Pochti ne' is 'almost not', which is how Russian says 'barely'. In 'izmenilas', the 'la' is there because 'zhizn', life, is feminine, and the 's' at the end means 'changed itself'."),
+    (3, None, "'We still play together just the same.' 'Vsyo tak zhe' is literally 'all so same', the everyday way to say 'just as before'. 'Igraem' is 'we play', and it covers video games as well as football."),
+    (4, None, "'Kostya, hurry up, shoot at them!' Max calls him 'Kostyan', a chummy form that you'd only use with a mate. After the little word 'at', 'them' gets an extra 'n' in front, so it's not 'ikh' but 'nikh'."),
+    (5, None, "'I am choosing my new weapon.' 'Oruzhie', weapon, is neuter, so both 'svoyo' and 'novoe' end in 'o' sounds to match. 'Vybirayu' is the ongoing kind of 'choose': he's still at it."),
+    (6, None, "'They surrounded me from three sides here!' 'Okruzhili' ends in 'li', the plural past, with no 'they' in front. Russian drops the subject like this when it doesn't matter who did it. 'Menya', me, comes first."),
+    (7, None, "'Hold on, I am already running to help!' 'Derzhis' is 'hold yourself', and the 's' on the end is that 'yourself'. 'Na pomoshch' is literally 'onto help', the set way to say 'to the rescue'."),
+    (8, None, "'Great work, this is our victory!' 'Pobeda', victory, is feminine, so 'our' is 'nasha'. You'll hear the word every May, when Russia marks Victory Day, 'Den Pobedy'."),
+    (9, None, "'We are a great team in this game.' 'V etoy igre' is 'in this game': 'igra' turns into 'igre' after 'v' when it means where. There's no 'are' anywhere."),
+    (10, None, "'The main thing is that Nastya does not disturb us.' 'Glavnoe, chtoby' is a handy opener, 'the main thing is that'. After 'chtoby' the action takes its past form, even though it means the present."),
+    (11, None, "'She is cooking a tasty dinner in the kitchen.' 'Na kukhne' is 'on the kitchen', where English says 'in'. 'Uzhin' is the evening meal, and it's masculine, which is why 'tasty' ends in 'y'."),
 ]

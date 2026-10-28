@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "In the Claude Monet kitchen, Chef Viktor Barinov tastes Max's freshly prepared dish and admits it is delicious. Max cheekily remarks on the chef's rare smile, prompting Barinov to declare the day of brutal truth officially over before quietly thanking him. Listen to their conversation in Russian first, then we will break down each line in English."
-OPENER = 'Now let us go through each phrase to see how it works in Russian.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In a rare moment of tenderness, Chef Barinov genuinely compliments Max before returning to kitchen discipline. Until then! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'big' — you will catch every word right away. See you next time!"
+INTRO = "In the kitchen at Claude Monet, the lying is over, and Max, the young cook, has made a dish for Chef Barinov to judge. For once the chef likes it, and Max can't resist a remark about his smile. Start with the Russian."
+OPENER = 'Slowly now. Notice how Barinov swings from praise to a shout in the space of a line.'
+TRANSITION = 'Now the whole exchange in one go.'
+OUTRO = "After all the shouting, the scene ends on 'thank you very much, chef'. Take that one with you."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Шеф, попробуйте, пожалуйста, это горячее блюдо.', 'Chef, please taste this hot dish.', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Спасибо вам большое, шеф!', 'Thank you very much, chef!', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, please taste this hot dish.' Max nervously presents his work. He hopes the boss will actually like it."),
-    (1, None, "'Give the plate here, I will taste it now.' Barinov grabs it without hesitation. He is ready to find flaws in the young cook's attempt."),
-    (2, None, "'Very tasty, we can serve it to the guests.' Barinov is pleasantly surprised. He gives a straightforward approval, which is incredibly rare for him."),
-    (3, None, "'Are you really telling me the pure truth?' Max is shocked by the compliment. He wonders if the chef is just playing a trick on him."),
-    (4, None, '\'Yes, the dish turned out truly magnificent.\' Barinov doubles down on the praise. He uses a strong word like "magnificent" to show his genuine appreciation.'),
-    (5, None, "'Chef, you are smiling so joyfully now!' Max pushes his luck by pointing out the chef's good mood. He is amazed to see his boss actually look happy."),
-    (6, None, "'Why, can a cook no longer smile?' Barinov defensively questions the observation. He tries to act like his smile is perfectly normal."),
-    (7, None, "'Do not smile like that, you look like a clown.' Max immediately regrets his cheeky comment. He teases the boss about his unnatural expression."),
-    (8, None, "'Be quiet right now, insolent rump!' Barinov instantly reverts to his angry self. He uses his favorite nickname to put Max back in his place."),
-    (9, None, "'From this moment on, all truth is canceled!' Barinov officially ends his experiment with brutal honesty. He decides the truth is just too annoying."),
-    (10, None, "'I understood you, we return to work.' Max wisely backs down. He gets the message and drops the joke."),
-    (11, None, "'And one more important word, Maxim.' Barinov pauses to say something serious. He even uses Max's real name instead of an insult."),
-    (12, None, "'Thank you for the excellent work in the kitchen.' Barinov expresses sincere gratitude for the help. It is a rare moment of humility from the proud chef."),
-    (13, None, "'Thank you very much, chef!' Max warmly accepts the thanks. He is touched by the master's acknowledgement."),
+    (0, None, '\'Chef, please taste this hot dish.\' "Poprobuyte" is the polite command of poprobovat\', the right form for a boss. "Goryacheye" ends in -eye to match blyudo, a neuter word.'),
+    (1, None, '\'Give the plate here, I will taste it now.\' "Davay" here means \'give\', a casual \'hand it over\'. "Syuda" is \'to here\', with movement, since the plate has to travel.'),
+    (2, None, '\'Very tasty, we can serve it to the guests.\' "Mozhno", \'it\'s allowed\', covers \'we can\' and \'one may\'. "Gostyam", \'to the guests\', is the \'to\' plural of gost\'.'),
+    (3, None, '\'Are you really telling me the pure truth?\' "Neuzheli", \'really?\', shows surprise with some doubt. "Chistuyu pravdu" is the honest truth the cooks promised to tell.'),
+    (4, None, '\'Yes, the dish turned out truly magnificent.\' "Poluchilos\'" has -o because blyudo is neuter. As with the sauce, the word that follows ends in -ym: velikolepnym.'),
+    (5, None, '\'Chef, you are smiling so joyfully now!\' "Ulybaetes\'" is the vy form Max owes his boss, from ulybat\'sya, with -sya shortened to -s\'. "Radostno", \'joyfully\', grows out of radost\', joy.'),
+    (6, None, '\'Why, can a cook no longer smile?\' A chto at the start is a challenging \'so what?\'. "Ulybnut\'sya" is the one-time partner of ulybat\'sya, so it means \'give a smile\'.'),
+    (7, None, '\'Do not smile like that, you look like a clown.\' "Pokhozh na", \'similar to\', gives you \'look like\'. After na a clown, being alive, takes -a: klouna.'),
+    (8, None, '\'Be quiet right now, insolent rump!\' "Zamolchi" adds za-, \'start\', to molchat\', to be silent. "Seychas zhe", \'right now\', adds zhe for insistence.'),
+    (9, None, '\'From this moment on, all truth is canceled!\' "Otmenyaetsya", \'is canceled\', uses -sya to make the verb passive. S etogo momenta, \'from this moment\', works for any announcement.'),
+    (10, None, "'I understood you, we return to work.' Ya vas ponyal, 'I understood you', is a common 'got it' to a boss. K rabote, 'to work', changes rabota to rabote."),
+    (11, None, '\'And one more important word, Maxim.\' Barinov switches to Max\'s full name to sound serious. "Eshchyo odno", \'one more\', is literally \'still one\'.'),
+    (12, None, '\'Thank you for the excellent work in the kitchen.\' "Spasibo za", \'thanks for\', puts the thing into its object form: otlichnuyu rabotu. "Otlichno" is also the top mark at school.'),
+    (13, None, '\'Thank you very much, chef!\' "Spasibo vam bol\'shoye" means \'big thanks to you\', and the vam makes it warmer. "Bol\'shoye" agrees with spasibo, which is neuter.'),
 ]

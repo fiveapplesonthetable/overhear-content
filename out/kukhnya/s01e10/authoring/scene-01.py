@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'mama': 'Мама', 'son': 'Сын'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "In a family home late in the evening, a schoolboy creeps into the apartment long after his classes have ended. He nervously apologizes to his mother for the delay, only to learn that his father has once again lost all their money in a game of chance. Let's listen to their quiet conversation in Russian first."
-OPENER = "Now let's examine the mother and son's late evening exchange line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With heartfelt promises to find work and face hardships together, the mother and son conclude their quiet conversation, ready to support each other through family adversity. Next time you watch the episode, listen for the Russian expressions for 'to walk' and 'to do' — you will catch every word right away. See you next time!"
+INTRO = "This is Kukhnya, a Russian comedy set in the kitchen of Claude Monet, a smart restaurant in Moscow, where the chef, Barinov, shouts and young Max cooks. This episode is about bets: the chef gambles on football, and Max gets a surprise that frightens him. It opens away from the kitchen, in an ordinary flat late at night, where a boy creeps in and his mother whispers about his father's luck. You'll hear it in Russian first, and you don't need to catch every word."
+OPENER = "Let's slow it down."
+TRANSITION = "Now let's hear it once more, start to finish."
+OUTRO = 'So there is no money and a father who bets on football. Keep that in mind, because the chef is about to do the same. Enjoy the rest of the episode.'
 CLOSING = ('son', 'Пока!')
 STORY = [
     ('son', 'Извини, мама, я сильно опоздал сегодня.', 'Sorry, mom, I was very late today.', [(1, 'Извини')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('son', 'Я завтра найду себе хорошую работу.', 'Tomorrow I will find myself a good job.', [], ''),
 ]
 WALK = [
-    (0, None, "'Sorry, mom, I was very late today.' Slipping into the apartment late at night, the boy apologizes to his mother for the delay."),
-    (1, None, "'Why did you come home so late?' Waiting up for him in the hallway, his mother asks why he came home so late."),
-    (2, None, "'I walked for a long time with my friends.' He explains that he lost track of time while walking outside with his friends."),
-    (3, None, "'You got lucky that dad is sleeping.' His mother sighs that he is lucky his father is already fast asleep."),
-    (4, None, "'Is dad really angry with me?' Nervous about getting in trouble, the boy asks whether his dad is angry with him."),
-    (5, None, "'Dad lost all our money again.' Instead of being angry at him, she reveals that his father gambled away all their money again."),
-    (6, None, "'Did he play with our money again?' Stunned, the boy asks if his father really bet their family savings once more."),
-    (7, None, "'Yes, he placed bets on football.' Mother expresses the thought naturally and directly."),
-    (8, None, "'And his favorite team lost again?' Knowing his father's weakness for football bets, he guesses that his dad's favorite team lost again."),
-    (9, None, "'Yes, his favorite Spartak lost again.' She confirms with a heavy sigh that his beloved Spartak lost yet another match."),
-    (10, None, "'Now do we have no money at all?' Russian says 'at us there is no money at all' as the boy realizes their savings are gone."),
-    (11, None, "'It is alright, son, we will cope with everything.' Calling him 'little son' affectionately, his mother reassures him that they will get through everything together."),
-    (12, None, "'Tomorrow I will find myself a good job.' Wanting to help the family right away, the boy promises to find a good job tomorrow."),
+    (0, None, '\'Sorry, mom, I was very late today.\' "Izvini" is the casual "sorry", said to one person you know well. "Opozdal", "was late", ends in -l because he is a boy. And "silno", "strongly", stands where English says "very".'),
+    (1, None, '\'Why did you come home so late?\' "Domoy" means "to home": one little word that already carries the "to". "At home" is a different word, "doma". "Prishyol" is "came", on foot.'),
+    (2, None, '\'I walked for a long time with my friends.\' "Gulyal" means to stroll or hang about, not to walk somewhere. "S moimi druzyami" is "with my friends": both words take the -ami, -imi endings after "s".'),
+    (3, None, '\'You got lucky that dad is sleeping.\' Russian doesn\'t say "you got lucky". It says "tebe povezlo", "to you it was lucky", so luck happens to you. "Spit" is "is sleeping". She is on his side.'),
+    (4, None, '\'Is dad really angry with me?\' "Razve" at the start is "really?", a bit of doubt. Russians are angry "na", "on", someone: "serditsya na menya", with the -sya ending.'),
+    (5, None, '\'Dad lost all our money again.\' "Proigral" is "igral", "played", with pro- in front, so it\'s "played away": you lose by playing. "Dengi", "money", is plural, so "all" is the plural "vse".'),
+    (6, None, '\'Did he play with our money again?\' Russians play "na dengi", "on money", meaning for stakes. "Snova" is "again", a twin of "opyat" from his mother\'s line.'),
+    (7, None, '\'Yes, he placed bets on football.\' Russians "make" a bet: "delal stavki". "Stavka", a bet, is something you put down, from "stavit", "to put". And it\'s "na futbol", "on football".'),
+    (8, None, '\'And his favorite team lost again?\' "Komanda", "team", ends in -a, so "favourite" is "lyubimaya" and "lost" is "proigrala", both with -a. The question is short and weary.'),
+    (9, None, '\'Yes, his favorite Spartak lost again.\' Spartak is a Moscow football club, and the chef in this show is a fan too. Now it\'s "lyubimy" and "proigral", with no -a, because Spartak is a he-word.'),
+    (10, None, '\'Now do we have no money at all?\' It\'s "u nas sovsem net deneg", "at us entirely no of money". After "net", "dengi" becomes "deneg". There is no "have" and no "any", just that ending.'),
+    (11, None, '\'It is alright, son, we will cope with everything.\' "Nichego", "nothing", is Russian for "never mind" here. "Synok" is a fond form of "syn", "son". "Spravimsya", "we will cope", is the word Louis used in the pastry kitchen.'),
+    (12, None, '\'Tomorrow I will find myself a good job.\' "Naydu sebe" is "will find to myself". "Rabota" becomes "rabotu", because it\'s the thing he will find. He says it with a boy\'s confidence.'),
 ]

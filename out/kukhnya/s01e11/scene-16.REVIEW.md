@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Куда так быстро убежала эта девушка? | Where did this girl run so quickly? | #189: Где она? | verbatim |
-| 2 | Вика | Она сейчас побежала прямо в туалет. | She just ran straight to the restroom. | #189: Она в туалете | verbatim |
+| 1 | Шеф | Куда так быстро убежала эта девушка? | Where did this girl run so quickly? | #189 00:13:25: Где она? | verbatim |
+| 2 | Вика | Она сейчас побежала прямо в туалет. | She just ran straight to the restroom. | #189 00:13:25: Она в туалете | verbatim |
 | 3 | Шеф | Ей вдруг стало плохо в зале? | Did she suddenly feel ill in the dining room? | new | new |
-| 4 | Вика | Да, её только что сильно тошнило. | Yes, she was just feeling very nauseous. | #190: Ее сейчас так вырвало | verbatim |
-| 5 | Шеф | Неужели она отравилась нашей едой? | Could she really have gotten poisoned by our food? | #191: отравилась, наверное | verbatim |
+| 4 | Вика | Да, её только что сильно тошнило. | Yes, she was just feeling very nauseous. | #190 00:13:28: Ее сейчас так вырвало | verbatim |
+| 5 | Шеф | Неужели она отравилась нашей едой? | Could she really have gotten poisoned by our food? | #191 00:13:31: отравилась, наверное | verbatim |
 | 6 | Вика | Мы пока не знаем точной причины. | We do not know the exact reason yet. | new | new |
 | 7 | Шеф | На кухне все продукты всегда свежие. | In the kitchen all products are always fresh. | new | new |
 | 8 | Вика | Но гостье стало плохо после обеда. | But the guest felt ill after lunch. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did this girl run so quickly?' Barinov notices the guest rushing off. He wonders where she went in such a hurry.
-- 'She just ran straight to the restroom.' Vika explains the woman's destination. The guest hurried directly to the bathroom.
-- 'Did she suddenly feel ill in the dining room?' He gets worried about her health. The chef asks if she suddenly felt sick right there at the table.
-- 'Yes, she was just feeling very nauseous.' She confirms the bad news. The poor woman was clearly feeling sick to her stomach.
-- 'Could she really have gotten poisoned by our food?' Barinov jumps to a terrible conclusion. He fears that his cooking might have given her food poisoning.
-- 'We do not know the exact reason yet.' Vika tries not to panic just yet. She points out that they do not know for sure what caused it.
-- 'In the kitchen all products are always fresh.' He defends his kitchen standards. The boss insists that they only use the freshest ingredients available.
-- 'But the guest felt ill after lunch.' The manager states the obvious timing. The fact remains that the sickness happened right after she ate their food.
-- 'What if this is a secret restaurant critic?' Barinov remembers his biggest fear. He worries again that this sick person might be the reviewer.
-- 'Then our restaurant has big problems.' Vika agrees with his gloomy thought. If the critic got sick, the restaurant is in deep trouble.
-- 'We must urgently check everything in the kitchen.' He decides to do a safety check. The chef wants to inspect all the food to be absolutely sure.
-- 'I will go and find out her condition.' She takes on the social duty. The manager volunteers to go check on the sick woman in the restroom.
-- 'I hope everything ends well for us.' Barinov expresses a desperate wish. He really hopes this terrible situation will not ruin them.
+- 'Where did this girl run so quickly?' "Kuda" is "where to". "Ubezhala", "ran away", is the verb Vika used about Max: "pochemu Maks tak bystro ubezhal?" Here it has -la for the girl.
+- 'She just ran straight to the restroom.' "Pobezhala", with po- in front, marks the start of the run: "set off running". "Pryamo v tualet" is "straight to the restroom".
+- 'Did she suddenly feel ill in the dining room?' Russian says "ey stalo plokho", "to her became bad". The person is "ey", "to her", and nobody does anything. "Vdrug" is "suddenly".
+- 'Yes, she was just feeling very nauseous.' "Eyo toshnilo", "her nauseated", has no subject at all: something unnamed sickens her. "Silno" is "strongly", and "tolko chto" is "just now".
+- 'Could she really have gotten poisoned by our food?' "Otravilas" has -sya: she poisoned herself, by accident. "Nashey edoy", "by our food", ends in -oy for "by means of". "Neuzheli" is "can it really be".
+- 'We do not know the exact reason yet.' "Poka", "yet", is the word that also means "bye". After "ne znaem", "prichina", "reason", becomes "prichiny", and "tochnoy" agrees.
+- 'In the kitchen all products are always fresh.' "Produkty" covers groceries and ingredients. "Vsegda svezhie" is "always fresh". "Na kukhne" is "on the kitchen", Russian's way to say "in".
+- 'But the guest felt ill after lunch.' "Posle obeda" is "after lunch", and after "posle" "obed" becomes "obeda". "Gostye" is "to the woman guest", in the "stalo plokho" pattern.
+- 'What if this is a secret restaurant critic?' "A vdrug" is "and suddenly", and Russians use it as "what if". "Tayny kritik" is "secret critic".
+- 'Then our restaurant has big problems.' Vika says "u nashego restorana bolshie problemy", "at our restaurant big problems", using "u" even for a building. "Togda" is "then".
+- 'We must urgently check everything in the kitchen.' "Proverit", "to check", is what Barinov said at the banquet: "snachala ya proveryu rabotu nashikh povarov". "Nuzhno srochno" is "it's needed urgently".
+- 'I will go and find out her condition.' "Sostoyanie", "condition", also means "fortune", as in Barinov's "zarabotaet sostoyanie", "will earn a fortune". "Uznayu" is "I will find out".
+- 'I hope everything ends well for us.' "Zakonchitsya", "will end", has za- for completing and -sya. "Dlya nas" is "for us". "Nadeyus" is "I hope".

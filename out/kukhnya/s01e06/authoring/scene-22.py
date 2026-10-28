@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "After Rodion Sergeyevich rescues the discarded black truffles from the trash, Chef Viktor Barinov confronts rookie cook Max about how such expensive ingredients ended up in the bin. Max sheepishly confesses his provincial culinary ignorance, prompting the head chef to deliver an unforgettable lesson. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Barinov and Max's truffle discussion line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max learns a costly lesson about luxury mushrooms, leaving Claude Monet with a hefty dinner tab. Next time you watch the episode, listen for the Russian expressions for 'homeless person' and 'to give back' — you will catch every word right away. See you next time!"
+INTRO = "The inspection is over, and at Claude Monet the truffles are back, returned by a homeless man called Rodion. Now Barinov wants to know how they ended up in the bin, and Max has to explain that where he comes from, a truffle is a sweet. It's in Russian first."
+OPENER = "Let's go back through the confession. Max has a very good excuse, and Barinov has a very big bill."
+TRANSITION = 'Now the confession from the top.'
+OUTRO = 'Max\'s excuse is worth keeping: "v Voronezhe tryufeli", "eto tolko konfety", in Voronezh truffles are just sweets. It\'s the most honest line in the episode. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Макс, почему редкие трюфели оказались на помойке?', 'Max, why did rare truffles end up in the dumpster?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Вот так ты запомнишь этот урок!', 'This is how you will remember this lesson!', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, why did rare truffles end up in the dumpster?' Barinov demands an explanation for the discarded delicacy."),
-    (1, None, "'Chef, forgive me, please!' Max stammers an apology while realizing the gravity of his mistake."),
-    (2, None, "'I have never seen truffles before.' The young rookie explains his complete unfamiliarity with gourmet fungi."),
-    (3, None, "'How could you throw away such a treasure?' Viktor Barinov cannot fathom wasting such an expensive ingredient."),
-    (4, None, "'In Voronezh, truffles are only candies!' Max reveals his provincial background and culinary innocence."),
-    (5, None, "'Candies? This is the most expensive mushroom!' The head chef sets the record straight with exasperation."),
-    (6, None, "'I thought that they had spoiled.' Max explains his misguided reasoning for tossing them into the bin."),
-    (7, None, "'Good thing the homeless man returned them to us.' Barinov acknowledges the stroke of unexpected luck."),
-    (8, None, "'Alright, I am very kind today.' The chef shows rare leniency toward the frightened newcomer."),
-    (9, None, "'We successfully passed the difficult inspection.' Barinov celebrates dodging the health inspector's sanctions."),
-    (10, None, "'But you will pay the bill for his dinner.' The chef delivers the financial catch with a sly grin."),
-    (11, None, "'Twenty-two thousand roubles?!' Max gasps in horror at the price of the celebratory meal."),
-    (12, None, "'This is how you will remember this lesson!' Barinov ensures the rookie will never forget what a truffle looks like."),
+    (0, None, '\'Max, why did rare truffles end up in the dumpster?\' "Okazalis", ended up, is from "okazatsya", \'to turn out to be\'. "Redkie", rare, is the plural to match "tryufeli".'),
+    (1, None, '\'Chef, forgive me, please!\' "Izvinite", forgive me, is the "vy" form, the one you use with a boss. With a friend Max would say "izvini".'),
+    (2, None, '\'I have never seen truffles before.\' "Nikogda ne videl", \'never not saw\', is the usual double negative. After that "ne", "tryufeli" turns into "tryufeley".'),
+    (3, None, '\'How could you throw away such a treasure?\' "Kak ty mog", how could you, uses "mog", the past of "moch". "Vybrosit", to throw out, is "brosit", throw, with vy- for \'out\'.'),
+    (4, None, '\'In Voronezh, truffles are only candies!\' "V Voronezhe", in Voronezh, adds -e to the city because it\'s where. "Konfety" are sweets in general, and chocolate truffles are one kind.'),
+    (5, None, '\'Candies? This is the most expensive mushroom!\' "Samyy dorogoy", the most expensive, is "samyy" plus the adjective. Barinov throws "konfety" back at Max as a question.'),
+    (6, None, '\'I thought that they had spoiled.\' "Podumal", I thought, is the finished partner of "dumat", so it means one thought, now over. "Isportilis", went off, is the past of "isportitsya", the verb for food going bad.'),
+    (7, None, '\'Good thing the homeless man returned them to us.\' "Bezdomnyy", homeless, is "bez", without, plus "dom", home. "Khorosho, chto", \'good that\', means \'luckily\'.'),
+    (8, None, '\'Alright, I am very kind today.\' "Ladno", alright, is the reluctant \'fine, then\'. "Dobryy", kind, is the "dobryy" in "dobryy den", good day.'),
+    (9, None, '\'We successfully passed the difficult inspection.\' "Proshli", passed, is the plural past of "proyti", \'to go through\'. "Slozhnuyu", difficult, ends in -uyu to match "proverku".'),
+    (10, None, '\'But you will pay the bill for his dinner.\' Barinov puts "ty" at the very end, so the stress lands on \'you\'. "Oplatit schyot za" is \'pay the bill for\'.'),
+    (11, None, '\'Twenty-two thousand roubles?!\' "Dve", two, is the feminine form because "tysyacha", thousand, is feminine. After "dve", "tysyacha" becomes "tysyachi".'),
+    (12, None, '\'This is how you will remember this lesson!\' "Vot tak", \'like this\', is what you say while showing how. "Zapomnish", you\'ll remember, is za- plus "pomnit", remember, so \'fix it in your memory\'.'),
 ]

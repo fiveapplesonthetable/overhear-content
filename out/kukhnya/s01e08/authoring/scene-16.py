@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, cooks Senya and Fedya casually debate the pros and cons of guest chef Elena Sokolova's polite management style. Their peaceful conversation is abruptly shattered when Chef Viktor Barinov storms in on crutches, furious and demanding absolute obedience. Let's listen to their sudden kitchen encounter in Russian."
-OPENER = "Let's explore how Senya and Fedya's casual discussion of management styles is violently disrupted by Chef Barinov."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = "Back in the kitchen at Claude Monet, Senya and Fedya, two of Barinov's cooks, are comparing their new, polite chef, Elena, with the old one. Then Barinov comes back in a terrible temper. It's in Russian first."
+OPENER = 'Slowly now. The first half is a quiet chat, and the second half is Barinov.'
+TRANSITION = 'Now the whole thing again, calm and then loud.'
+OUTRO = "The small word zato, 'but on the other hand', wins arguments. And bystro za rabotu, 'quick, to work', is what every boss says sooner or later. See you next time."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('senya', 'Ну, как тебе новый шеф-повар?', 'Well, how do you like the new head chef?', [(203, 'Ну и как тебе новый шеф')], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('barinov', 'Быстро за работу, живо!', 'Get to work quickly, lively!', [(211, 'Да пошли вы')], ''),
 ]
 WALK = [
-    (0, None, "'On the other hand she is calm and polite.' Senya admits that working without constant screaming is a nice change of pace."),
-    (1, None, "'That is true, she never yells.' Fedya agrees, relaxing into the surprisingly peaceful kitchen atmosphere."),
-    (2, None, "'I returned to restore complete order!' The illusion of peace shatters as Chef Barinov bursts in, determined to reclaim his territory."),
-    (3, None, "'Stop chatting and take your knives!' He immediately barks direct orders to remind everyone who is really in charge."),
+    (0, None, "'Well, how do you like the new head chef?' Senya's kak tebe, literally 'how to you', is a short, casual way to ask an opinion. The nu at the start is a filler, like 'well'."),
+    (1, None, "'She seems a bit boring to me.' With kazhetsya mne, 'seems to me', the person gets a 'to' form. After kazatsya, 'to seem', the description takes the ending -oy: skuchnoy."),
+    (2, None, "'On the other hand she is calm and polite.' Here zato means 'but then, on the plus side', bringing in a point in her favour. Since they describe Elena, spokoynaya and vezhlivaya end in -aya."),
+    (3, None, "'That is true, she never yells.' Like nikto ne, nikogda, 'never', needs ne before the action: nikogda ne krichit. And krichit, 'she yells', comes from krichat."),
+    (4, None, "'With her the kitchen is quiet and pleasant.' After s, 'with', ona becomes ney: s ney. Russian needs no subject here: tikho and priyatno simply describe the mood."),
+    (5, None, "'Slackers! Scraps! What are you doing?' A bezdelnik, 'slacker', is someone bez dela, 'without work'. An ogryzok is literally an apple core or a gnawed leftover, and as an insult it's very rude."),
+    (6, None, "'I returned to restore complete order!' In vernulsya, 'I came back', the -lsya shows the speaker is a man. The fixed phrase navesti poryadok, 'to bring order', means sorting a place out."),
+    (7, None, "'Chef, we were just cleaning the fish.' Fedya's chistili describes what they were busy with when Barinov walked in. To clean fish, chistit rybu, means scaling and gutting it."),
+    (8, None, "'We are very glad to see you!' The short plural rady, 'glad', comes from rad. After videt, 'to see', vy becomes vas."),
+    (9, None, "'Stop chatting and take your knives!' Barinov's prekratite, 'stop', is said to all of them, with the action after it: boltat, 'to chatter'. With berite, 'take', he means 'get on with it'."),
+    (10, None, "'Who permitted you to stand idle?' The one allowed gets a 'to' form after razreshil, so it's vam. And bez dela, 'without work', is the idea behind bezdelnik."),
+    (11, None, "'We will chop everything right now, chef.' In narezhem, na- means cutting up a whole batch. Here seychas means 'right away'."),
+    (12, None, "'Get to work quickly, lively!' The call to start is za rabotu, 'to work'. And zhivo, 'lively', comes from zhivoy, 'alive', and means 'look sharp'."),
 ]

@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Виктор Петрович, зачем вы позвали меня сюда? | Viktor Petrovich, why did you call me here? | #184: Что такое? Зачем ты меня позвал? | verbatim |
-| 2 | Шеф | Доброе утро, Вика! У меня для тебя сюрприз. | Good morning, Vika! I have a surprise for you. | #185: Доброе утро<br>#186: У меня для тебя сюрприз | verbatim |
-| 3 | Шеф | Я наконец придумал абсолютно новое меню ресторана. | I finally came up with an absolutely new restaurant menu. | #187: Новое меню | verbatim |
-| 4 | Вика | Действительно новое? Покажи мне твои свежие идеи. | Really new? Show me your fresh ideas. | #188: Действительно новое | verbatim |
-| 5 | Шеф | Попробуй этот суп, это настоящий кулинарный шедевр! | Taste this soup, it is a real culinary masterpiece! | #191: Суп<br>#192: Гурме | verbatim |
-| 6 | Вика | Подожди, это же твой обычный старый суп. | Wait, this is your usual old soup after all. | #193: Это же твой луковый суп | verbatim |
-| 7 | Шеф | Но я добавил сюда очень вкусные специи! | But I added very tasty spices here! | #194: А нотки гибискуса? | verbatim |
-| 8 | Вика | А это твоя обычная рыба из прошлого меню? | And is this your usual fish from the past menu? | #196: А вот это?<br>#198: Это твой старый буэбэс манифик? | verbatim |
-| 9 | Шеф | Нет, это особое французское блюдо от шефа! | No, this is a special French dish from the chef! | #199: Ля буэбэс манифик<br>#200: нотки ля в блюде | verbatim |
-| 10 | Вика | Ты просто изменил старые названия на новые! | You simply changed old names to new ones! | #203: Это старые блюда. Ты просто название поменял, да? | verbatim |
-| 11 | Шеф | Разве это не звучит великолепно для гостей? | Does that not sound magnificent for the guests? | #204: Правда здорово? Гениально | verbatim |
-| 12 | Вика | Ты не сможешь остановить эти важные перемены. | You will not be able to stop these important changes. | #205: Значит так, Витя, у тебя все равно не получится сохранить все это старье<br>#206: Перемены уже начались | verbatim |
+| 1 | Вика | Зачем ты позвал меня сюда? | Why did you call me here? | #184 00:11:57: Что такое? Зачем ты меня позвал? | verbatim |
+| 2 | Шеф | Доброе утро, Вика! У меня для тебя сюрприз. | Good morning, Vika! I have a surprise for you. | #185 00:12:01: Доброе утро<br>#186 00:12:03: У меня для тебя сюрприз | verbatim |
+| 3 | Шеф | Я наконец придумал абсолютно новое меню ресторана. | I finally came up with an absolutely new restaurant menu. | #187 00:12:06: Новое меню | verbatim |
+| 4 | Вика | Действительно новое? Покажи мне твои свежие идеи. | Really new? Show me your fresh ideas. | #188 00:12:12: Действительно новое | verbatim |
+| 5 | Шеф | Попробуй этот суп, это настоящий кулинарный шедевр! | Taste this soup, it is a real culinary masterpiece! | #191 00:12:21: Суп<br>#192 00:12:22: Гурме | verbatim |
+| 6 | Вика | Подожди, это же твой обычный старый суп. | Wait, this is your usual old soup after all. | #193 00:12:24: Это же твой луковый суп | verbatim |
+| 7 | Шеф | Но я добавил сюда очень вкусные специи! | But I added very tasty spices here! | #194 00:12:27: А нотки гибискуса? | verbatim |
+| 8 | Вика | А это твоя обычная рыба из прошлого меню? | And is this your usual fish from the past menu? | #196 00:12:31: А вот это?<br>#198 00:12:38: Это твой старый буэбэс манифик? | verbatim |
+| 9 | Шеф | Нет, это особое французское блюдо от шефа! | No, this is a special French dish from the chef! | #199 00:12:41: Ля буэбэс манифик<br>#200 00:12:43: нотки ля в блюде | verbatim |
+| 10 | Вика | Ты просто изменил старые названия на новые! | You simply changed old names to new ones! | #203 00:12:50: Это старые блюда. Ты просто название поменял, да? | verbatim |
+| 11 | Шеф | Разве это не звучит великолепно для гостей? | Does that not sound magnificent for the guests? | #204 00:12:54: Правда здорово? Гениально | verbatim |
+| 12 | Вика | Ты не сможешь остановить эти важные перемены. | You will not be able to stop these important changes. | #205 00:12:57: Значит так, Витя, у тебя все равно не получится сохранить все это старье<br>#206 00:13:00: Перемены уже начались | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, why did you call me here?' Vika asks Barinov why he asked her to come.
-- 'Good morning, Vika! I have a surprise for you.' Barinov greets her cheerfully and says he has a surprise.
-- 'I finally came up with an absolutely new restaurant menu.' Barinov proudly announces that he created a brand new menu.
-- 'Really new? Show me your fresh ideas.' Vika is skeptical but asks to see his new ideas.
-- 'Taste this soup, it is a real culinary masterpiece!' Barinov offers her a soup he calls a masterpiece.
-- 'Wait, this is your usual old soup after all.' Vika tastes it and realizes it is just his old soup.
-- 'But I added very tasty spices here!' Barinov defends his soup by saying he added some tasty spices.
-- 'And is this your usual fish from the past menu?' Vika points at another dish and asks if it is just the old fish.
-- 'No, this is a special French dish from the chef!' Barinov insists that the fish is a special new French dish.
-- 'You simply changed old names to new ones!' Vika realizes he just gave old dishes fancy new names.
-- 'Does that not sound magnificent for the guests?' Barinov asks if the fancy names at least sound good.
-- 'You will not be able to stop these important changes.' Vika tells him he cannot avoid the real changes happening.
+- 'Why did you call me here?' Vika says 'ty' to the chef, so the verb is 'pozval', the plain past of 'pozvat', to call someone over. 'Syuda' is 'here' with motion, 'over here'; for just being somewhere, Russian uses 'zdes'.
+- 'Good morning, Vika! I have a surprise for you.' 'Morning' is a neuter word, so 'good' ends in 'oe' and not 'y'. The 'I have' part is the Russian 'at me', followed by the surprise.
+- 'I finally came up with an absolutely new restaurant menu.' 'Pridumal' is 'thought up', from 'dumat', to think, with 'pri-' added for coming up with something. 'Menyu' is a borrowed word that never changes its ending, and it's neuter, so 'new' is 'novoe'. 'Restorana' after it means 'of the restaurant'.
+- 'Really new? Show me your fresh ideas.' 'Deystvitelno' means 'really' and is a good one for expressing doubt. 'Pokazhi' is 'show!', in the friendly form.
+- 'Taste this soup, it is a real culinary masterpiece!' 'Poprobuy' means both 'try' and 'taste', in the friendly form. 'Shedevr' is the French 'chef-d'oeuvre' spelled the Russian way. 'Nastoyashchiy' means 'real' in the sense of 'genuine'.
+- 'Wait, this is your usual old soup after all.' 'Podozhdi' is 'wait a moment'. 'Obychny' means 'usual' and 'stary' means 'old', and the little 'zhe' says 'it's the same one'.
+- 'But I added very tasty spices here!' 'Syuda' again, the 'here' with motion, because the spices went into the soup. 'Vkusnye' is 'tasty', the everyday word for food you like. 'Dobavil' is 'added'.
+- 'And is this your usual fish from the past menu?' 'Ryba' is fish, and 'iz proshlogo menyu' is 'from the past menu'. 'Proshly' means 'past' or 'last', as in 'last year'.
+- 'No, this is a special French dish from the chef!' The describing words for 'special' and 'French' match the neuter word for 'dish', so both end in 'oe'. 'From the chef' puts an 'a' on the end of 'chef'.
+- 'You simply changed old names to new ones!' 'Nazvaniya' are names of things, not people, and that is the word to use for dish names. The end is just 'na novye', 'onto new', with no word for 'ones'.
+- 'Does that not sound magnificent for the guests?' 'Razve' starts a question where the speaker expects a 'yes'. 'Zvuchit' is 'sounds', and 'velikolepno' means 'magnificent'.
+- 'You will not be able to stop these important changes.' 'Ne smozhesh' is 'you won't be able', so Vika is predicting the future. 'Peremeny' is 'changes', and like the English it's usually heard in the plural.
