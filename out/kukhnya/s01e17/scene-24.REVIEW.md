@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Сложно исправлять ошибки обмана. | It is hard to fix the mistakes of deceit. | #332 00:23:32: Но самое сложное – это исправлять последствия вранья. | verbatim |
+| 1 | Макс | Самое сложное — это исправлять ошибки. | The hardest part is fixing your mistakes. | #332 00:23:32: Но самое сложное – это исправлять последствия вранья. | verbatim |
 | 2 | Костя | Ложь всегда создаёт новую ложь. | A lie always creates a new lie. | #333 00:23:36: Ложь порождает новую ложь | verbatim |
 | 3 | Макс | И найти выход бывает невозможно. | And finding an exit can be impossible. | #333 00:23:36: и выбраться из этого невозможно. | verbatim |
 | 4 | Костя | Главное — говорить правду. | The main thing is to speak the truth. | new | new |
@@ -20,22 +20,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Костя | Ты можешь всё исправить, Макс. | You can fix everything, Max. | #332 00:23:32: исправлять | verbatim |
 | 9 | Макс | Я начинаю всё с чистого листа. | I am starting everything with a clean slate. | #335 00:23:45: начинаешь все с чистого листа | verbatim |
 | 10 | Костя | У тебя впереди хорошее будущее. | You have a good future ahead. | #335 00:23:45: у тебя впереди | verbatim |
-| 11 | Макс | Твоя судьба зависит только от тебя. | Your destiny depends only on you. | #336 00:23:50: что сделаешь ты сам. | verbatim |
+| 11 | Макс | Моя судьба зависит только от меня. | My future depends only on me. | #336 00:23:50: что сделаешь ты сам. | verbatim |
 | 12 | Костя | Мы верим в тебя, друг. | We believe in you, friend. | #334 00:23:41: верить | verbatim |
 | 13 | Макс | Спасибо, Костя, за твою поддержку. | Thank you, Kostya, for your support. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It's hard to fix the mistakes of a lie.' 'Hard' is the word with an 'o' ending, used for things that are complicated. 'Mistakes' is plural.
-- 'A lie always creates a new lie.' 'Lie' is feminine and ends in a soft sign. It looks the same as the object form.
-- 'And sometimes finding a way out is impossible.' 'Exit' also means 'way out'. 'Impossible' is made by putting 'ne' in front of 'possible'.
-- 'The main thing is to tell the truth.' The dash takes the place of 'is'. 'Truth' takes a 'u' ending after 'speak'.
-- 'You must believe in your strength.' Russians believe 'in' things, with a small word for 'in'. 'Strength' is plural, as in 'strengths'.
-- 'And believe in your true self.' 'Self' is a special one. 'True' means 'real', and takes an ending to go with it.
-- 'I want to start everything over.' 'Anew' is built from 'new', with a prefix. 'Start' treats the action as done.
-- 'You can fix everything, Max.' 'You can' uses the casual 'you'. 'Fix' is a once-and-done action.
-- 'I'm starting everything with a clean slate.' Russian says 'from a clean sheet' where English says 'slate'. 'Sheet' means a sheet of paper.
-- 'You have a good future ahead.' 'Ahead' is one word. 'Future' is a neuter word that looks like an adjective.
-- 'Your fate depends only on you.' 'Depends on' needs the little word 'ot', followed by 'you' in a different form. 'Only' sits in the middle.
-- 'We believe in you, friend.' 'In you' needs the small word for 'in', and the 'you' takes a different form. 'We believe' ends in 'm'.
-- 'Thank you, Kostya, for your support.' 'Support' finishes with 'ka'. After 'for', 'your' takes a 'u' ending.
+- 'The hardest part is fixing your mistakes.' "Samoe slozhnoe" is "the hardest thing", from "slozhno", hard. "Oshibki" is more than one "oshibka", mistake.
+- 'A lie always creates a new lie.' "Sozdayot" means "creates". "Lozh" doesn't change when it's the thing created.
+- 'And finding a way out can be impossible.' "Vykhod", way out, is the word on every exit sign. "Byvaet" means "sometimes is".
+- 'The main thing is to tell the truth.' "Glavnoe" opens the sentence, and the dash stands in for "is".
+- 'You have to believe in your own strength.' "Verit v" means "believe in". "Sily", strengths, comes from "sila", strength.
+- 'And believe in your true self.' "V sebya nastoyashchego" is literally "in the real yourself".
+- 'I want to start everything over.' "Zanovo" means "from scratch" or "all over again".
+- 'You can fix everything, Max.' "Ispravit" is to fix or correct, the word teachers use for marking mistakes.
+- 'I'm starting everything with a clean slate.' "S chistogo lista" is literally "from a clean sheet", the Russian fresh start.
+- 'You've got a good future ahead of you.' "Vperedi" means "ahead". "U tebya" means "you have".
+- 'My future depends only on me.' "Zavisit ot" is "depends on". "Sudba" means fate or destiny.
+- 'We believe in you, friend.' "V tebya" means "in you". Calling someone "drug", friend, is warm, not formal.
+- 'Thanks, Kostya, for your support.' "Podderzhka", support, becomes "podderzhku" after "za".

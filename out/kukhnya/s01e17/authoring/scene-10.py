@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "The contest is over, and Fedya is still holding the plate of lamb chops he cooked for Barinov. The chef has already picked Senya's dish and left without tasting Fedya's. Fedya grumbles to Senya about it. Listen to it in Russian first."
-OPENER = "Let's go over what we just heard."
-TRANSITION = 'Here is the whole conversation again.'
-OUTRO = "Fedya's chops are good, and Senya is generous enough to say so. Notice the phrase 's udovolstviem', literally 'with pleasure', which Russians use to say 'gladly'. See you next time!"
+INTRO = "The contest is over, and Fedya is still holding the plate of lamb chops he cooked for Barinov. The chef has already picked Senya's dish and left without tasting Fedya's. Fedya grumbles to Senya about it. Here is Fedya's complaint in Russian first."
+OPENER = "Now back to the grumbling, taken slowly."
+TRANSITION = "Here's Fedya and Senya once more, all the way through."
+OUTRO = 'Fedya\'s chops are good, and Senya is generous enough to say so. Keep "s udovolstviem", with pleasure, for any offer you\'d gladly accept. See you next time!'
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('fedya', 'Вот мои вкусные котлеты для шефа.', 'Here are my tasty chops for the Chef.', [(134, 'котлеты')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('fedya', 'Тогда мы сами съедим это на обед.', 'Then we will eat this ourselves for lunch.', [], ''),
 ]
 WALK = [
-    (0, None, "'Here are my tasty chops for the chef.' 'Vot' points at the plate, and 'my' is plural to match the chops. 'For the chef' is a small word and an 'a' ending."),
-    (1, None, "'The chef has already chosen my meat dish.' 'Meat' is turned into an adjective, a sort of 'meaty dish'. 'Chosen' finishes with 'l' for the masculine chef."),
-    (2, None, "'He didn't even taste my food!' 'Even' sits before 'not', and the word is the one for tasting once. 'Food' has a 'u' ending as the thing that was not tasted."),
-    (3, None, "'Well, I came first.' 'First' takes an 'ym' ending, as if Senya came 'as first'. 'Came' has the masculine 'l' ending."),
-    (4, None, "'I cooked these chops all morning.' Russian says 'all morning' with no 'during', just 'all' plus the morning. The 'ongoing' form of 'cook' suggests a long job."),
-    (5, None, "'Don't be so upset, friend.' 'Not necessary' plus the plain action word means 'don't'. 'Be upset' carries 'sya' as it is something that happens to you."),
-    (6, None, "'But these are lamb chops with asparagus!' 'Lamb' becomes an adjective, as 'of lamb'. 'With' comes out as 'so' before a cluster of consonants, to make it easy to say."),
-    (7, None, "'Next time you'll definitely win.' 'Next time' is 'in the next time', with a small word for 'in'. 'Will win' is the completed kind, which gives a future sense."),
-    (8, None, "'Do you want to try my new chops?' 'You want' is irregular and ends in 'sh' for the casual 'you'. The new chops are plural, so 'new' finishes with 'ye'."),
-    (9, None, "'Sure, I'll gladly try.' The word at the start is a casual 'go ahead'. 'With pleasure' is how Russians say 'gladly'."),
-    (10, None, "'So how does it taste to you? Tell me honestly.' Russian says 'how to you taste', putting the taster in the 'to you' form. 'Honestly' carries 'o', like many of the 'how' words."),
-    (11, None, "'Listen, this is really very tasty!' 'Listen' is a casual command, used like 'hey'. 'Tasty' has no 'is' with it."),
-    (12, None, "'Then we'll eat it ourselves for lunch.' 'Ourselves' is a short word. 'Eat up' has a prefix that means finishing it all off."),
+    (0, None, '\'Here are my tasty chops for the chef.\' "Kotlety", from "kotleta", usually means a patty in Russian, but here it\'s lamb chops. "Vot" points: here are.'),
+    (1, None, '\'The chef already picked my meat dish.\' "Myasnoe", meat, describes the dish and comes from "myaso". "Vybral" is "chose".'),
+    (2, None, '\'He didn\'t even taste my food!\' "Dazhe ne" is "not even". "Eda", food, becomes "edu" as the thing being tasted.'),
+    (3, None, '\'Well, I got here first.\' Russian "comes as first": "pervym", with an "-ym" ending you\'ll hear after "came" and "was".'),
+    (4, None, '\'I cooked these chops all morning.\' "Vsyo utro", all morning, needs no "for" in front of it.'),
+    (5, None, '\'Don\'t get so upset, friend.\' "Ne nado", no need, is a soft way to say "don\'t". "Rasstraivatsya" means to get upset.'),
+    (6, None, '\'But these are lamb chops with asparagus!\' "Baranyi", lamb, comes from "baran", a ram. "S" grows to "so" before the "sp" of "sparzhey".'),
+    (7, None, '\'Next time you\'ll definitely win.\' "V sleduyushchiy raz" is literally "in the next time". "Tochno" here means "for sure".'),
+    (8, None, '\'Want to try my new chops?\' "Khochesh poprobovat?" is a plain statement asked with a rising voice; Russian needs nothing more to make a question.'),
+    (9, None, '\'Go on, I\'ll gladly try them.\' "S udovolstviem", literally "with pleasure", is the standard way to say "gladly".'),
+    (10, None, '\'So how does it taste, honestly?\' "Kak tebe", how is it to you, is the usual way to ask for an opinion. "Chestno" means honestly.'),
+    (11, None, '\'Listen, it\'s really very tasty!\' "Deystvitelno" means "really" or "truly", and it\'s a little stronger than "ochen", very.'),
+    (12, None, '\'Then we\'ll eat it ourselves for lunch.\' "Sami" means "ourselves". "Na obed", for lunch, uses "na", onto, as with "na pitstsu".'),
 ]

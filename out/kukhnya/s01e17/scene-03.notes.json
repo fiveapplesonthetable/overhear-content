@@ -2086,15 +2086,31 @@
     },
     {
       "seg": 55,
-      "trans": "Bye!",
+      "trans": "See you tomorrow, Viktor!",
       "words": [
         {
-          "t": "Пока!",
-          "lemma": "пока",
+          "t": "До",
+          "gloss": "until",
+          "gram": "preposition + genitive",
+          "lemma": "до",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "завтра,",
+          "gloss": "tomorrow",
+          "gram": "adverb of time",
+          "lemma": "завтра",
           "pos": "adv",
-          "stress": "пока́",
-          "gloss": "bye!",
-          "gram": "informal farewell interjection"
+          "stress": "за́втра"
+        },
+        {
+          "t": "Виктор!",
+          "gloss": "Viktor",
+          "gram": "first name, used as address",
+          "lemma": "виктор",
+          "pos": "name",
+          "stress": null
         }
       ]
     }
@@ -4548,44 +4564,6 @@
         }
       ]
     },
-    "пока": {
-      "lemma": "пока",
-      "stress": "пока́",
-      "pos": "adv",
-      "gloss": "bye",
-      "meanings": [
-        {
-          "en": "bye, see you",
-          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
-        },
-        {
-          "en": "while, for now",
-          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пока!",
-          "trans": "Bye!"
-        },
-        {
-          "text": "Пока, папа!",
-          "trans": "Bye, Dad!"
-        },
-        {
-          "text": "Пока, милый!",
-          "trans": "Bye, darling!"
-        }
-      ],
-      "related": [
-        {
-          "word": "пока",
-          "gloss": "bye (as an adverb/interjection)"
-        }
-      ]
-    },
     "помнить": {
       "lemma": "помнить",
       "stress": "по́мнить",
@@ -6445,6 +6423,48 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "gloss": "until, before; up to",
+      "meanings": [
+        {
+          "en": "until, till",
+          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+        },
+        {
+          "en": "до свидания = goodbye",
+          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
+        }
+      ],
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach, walk as far as"
+        },
+        {
+          "word": "после",
+          "gloss": "after"
         }
       ]
     }

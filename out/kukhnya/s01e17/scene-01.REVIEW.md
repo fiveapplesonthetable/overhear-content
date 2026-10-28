@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I stepped in a rotten plum, chef.' 'Rotten' comes from the verb for rotting, and the plum finishes with 'u' because Max stepped into it. The 'l' on the end of 'stepped' says it's a man speaking.
-- 'Quit whining, I'm in a good mood.' The opening word means 'enough' and is followed by the plain 'whine', a slangy one. 'At me good mood' is how Russian says 'I'm in a good mood'.
-- 'Today you will learn the art of buying fish.' 'Art' is followed by the plain 'to buy', with no 'of' in between. 'Fish' takes a 'u' ending as the thing being bought.
-- 'How many days old is this fish, Max?' Russian gives an age with 'to': literally 'to this fish how many days'. After 'how many', 'days' takes a special plural.
-- 'The seller says they brought it today.' 'They brought' has the 'li' ending with no 'they', which is how Russian says 'it was brought'. The verb is the one for bringing by vehicle.
-- 'Watch closely, he pursed his lips.' 'Watch' is a casual command, and 'closely' is a describing word ending in 'o'. 'Lips' is always plural in Russian.
-- 'That means this fish is at least three days old.' The word at the start is 'it means', used here as 'so' or 'in other words'. After 'three', 'days' changes again, to a shorter form.
-- 'And now he scratched his nose.' The 'po' on the front of 'scratch' means he did it briefly. Barinov reads a scratch of the nose like a confession.
-- 'This fish is already five days old.' After 'five' the days switch back to the longer form, just like after 'how many'. Two, three or four days take the short one, and five or more take the long.
-- 'And it was definitely frozen before.' 'They froze' is built on the word for frost, and again has no 'they'. 'Definitely' and 'before' are tiny words, easy to lift into other sentences.
-- 'Chef, you're a real master of your craft.' 'Real' is also 'present', as in the present moment. 'Of your own business' is a phrase for a trade, and 'business' is a very common one.
-- 'Learn from me while I'm kind.' 'While' is spelled and said like the casual 'bye', so it does double duty. 'From me' uses the same little word as 'at me'.
-- 'Thank you for this important lesson, chef.' 'Thanks for' needs a small word for 'for', then the lesson with its masculine endings. It's the polite, schoolboy thanks.
+- 'I stepped in a rotten plum, chef.' "Sliva", plum, becomes "slivu" after "v" when you step into it, and "gnilaya", rotten, follows it to "gniluyu".
+- 'Quit whining, I'm in a good mood.' "Khvatit" means "enough", and the next word stays in its dictionary form: "khvatit nyt", enough whining. "U menya khoroshee nastroenie" is literally "at me, a good mood".
+- 'Today you will learn the art of buying fish.' Where English says "of buying", Russian just puts "pokupat", to buy, after "iskusstvo", art. "Ryba" becomes "rybu" as the thing being bought.
+- 'How many days old is this fish, Max?' Russian gives the age to the fish: "etoy rybe" means "to this fish", so the question is literally "how many days to this fish?".
+- 'The seller says they brought it in today.' "Privezli" has no "they" in front of it. The plural ending on its own says that somebody delivered it.
+- 'Watch closely, he pursed his lips.' "Podzhal guby" is "pressed lips", with no "his". Russian rarely says whose body part it is when that's obvious.
+- 'That means this fish is at least three days old.' "Znachit", it means, opens a conclusion. After "tri" the word for days is "dnya"; from five upwards it turns into "dney".
+- 'And now he scratched his nose.' "Chesat" is to scratch, and "po-" on the front makes it one quick scratch: "pochesal". Again there's no "his" before "nos".
+- 'This fish is already five days old.' Here comes "pyat dney", five days, with the ending promised a moment ago. "Uzhe" means "already": the fish gets older with every gesture.
+- 'And it was definitely frozen before.' "Zamorazhivali" is "they froze", again with no "they". "Tochno", for sure, is a little word you'll hear constantly.
+- 'Chef, you're a true master of your craft.' "Master svoego dela" is literally "master of his own business". "Svoy" means "one's own" and works for any person.
+- 'Learn from me while I'm in a good mood.' "Poka" here means "while", and it's the same word as the casual "poka" for "bye". "Uchis u menya" is literally "learn at me".
+- 'Thank you for this important lesson, chef.' "Spasibo za" is "thanks for", and anything can follow it: "za urok", for the lesson.

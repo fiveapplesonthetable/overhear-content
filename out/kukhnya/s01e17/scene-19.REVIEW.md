@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, well, where are you?' The opening 'nu' is impatient. There is no 'are', only 'you where'.
-- 'Are you coming soon?' It is just 'you soon?', with no verb. The rising voice does the asking.
-- 'I'm already here.' Three tiny words. 'Here' is the one with a soft sign at the end.
-- 'Why are you standing there?' Russians use 'stand' for being on your feet. 'Stand' carries 'sh', for the casual 'you'.
-- 'I'm waiting for my friends.' 'Wait for' takes the 'of' form, so 'friends' ends in 'ey'. 'Own' points back to Max.
-- 'Which friends?' 'Which' finishes with 'ikh', the same as in the previous line. It's the same ending, so you can hear the match.
-- 'Nastya and Kostya.' Both names change their endings, with the final 'ya' turning into 'yu'. Russian names change shape like ordinary nouns.
-- 'Did you invite them here?' 'Invited' ends in the masculine 'l'. 'Here' means 'to here', which is why it has a different shape.
-- 'Yes, it's a surprise.' 'Surprise' is a word borrowed from French. Max says it with a grin.
-- 'I'm not ready for guests.' 'Ready' carries 'a' because Vika is a woman. 'For guests' needs a little word and a different ending on 'guests'.
-- 'Everything will be fine.' 'Will be' is a word on its own. Max is cheerfully optimistic.
-- 'Come in faster.' 'Come in' is a casual command. 'Faster' is one word, built on 'quickly'.
+- 'Max, where are you?' "Nu" adds impatience, and "ty gde?" is literally "you where?".
+- 'Will you be long?' "Ty skoro?" is literally "you soon?", with no word for coming at all.
+- 'I'm already here.' "Uzhe" means already, and "zdes" means here.
+- 'Why are you standing there?' "Stoish" comes from "stoyat", to stand, the word Barinov barked earlier.
+- 'I'm waiting for my friends.' "Zhdu", I'm waiting, takes the friends straight after it, with no "for".
+- 'What friends?' "Kakikh druzey" copies the ending of "svoikh druzey" in Max's line.
+- 'Nastya and Kostya.' Both names switch "-ya" to "-yu", since they're still the people being waited for.
+- 'Did you invite them here?' "Pozval", called over, comes from "zvat", to call. "Ikh" means them.
+- 'Yes, it's a surprise.' "Syurpriz" is borrowed from French, like many party words.
+- 'I'm not ready for guests.' "Gotova", ready, ends in "-a" for a woman. "K gostyam" is "for guests", literally "towards guests".
+- 'Everything will be fine.' "Vsyo budet khorosho" is the classic Russian reassurance.
+- 'Hurry up and come in.' "Zakhodi" is "come in", and "bystree", faster, turns it into "hurry up".

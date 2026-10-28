@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = 'Max is caught between his girlfriend Vika and his friends, who have just fallen out at the bar. He wants them all to make peace and asks Kostya for ideas. Then, mid-conversation, he realises what tomorrow is. The Russian comes first.'
-OPENER = 'Time for the details.'
-TRANSITION = "Let's finish by hearing it all again."
-OUTRO = "Max has a plan, if a slightly dishonest one: a birthday nobody knew about. Remember that Russians say 'day of birth' for 'birthday', and the second word takes an ending. See you next time!"
-CLOSING = ('max', 'Пока!')
+INTRO = "Max is caught between his girlfriend Vika and his friends, who have just fallen out at the bar. He wants them all to make peace and asks Kostya for ideas. Then, mid-conversation, he realises what tomorrow is. Here is Max's thinking in Russian first."
+OPENER = "Let's follow how Max thinks it through, step by step."
+TRANSITION = 'Now the whole plan again, from the top.'
+OUTRO = 'Max has a plan, if a slightly dishonest one: a birthday nobody knew about. "Den rozhdeniya" is literally "day of birth", and you\'ll need it every year. See you next time!'
+CLOSING = ('kostya', 'Ну, удачи, Макс!')
 STORY = [
     ('max', 'Что делать, если друзья и девушка поссорились?', 'What to do if friends and girlfriend quarreled?', [(135, 'если твои друзья и твоя девушка поссорились')], ''),
     ('kostya', 'Понятно, что их надо быстро помирить.', 'Clearly, one must reconcile them quickly.', [(136, 'Понятно, что их нужно как-то помирить')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Значит, тебе надо придумать хитрый план.', 'That means you need to invent a clever plan.', [], ''),
 ]
 WALK = [
-    (0, None, "'What do you do if your friends and your girlfriend have quarrelled?' 'What to do' is the plain verb, with no 'you'. 'Quarrelled' ends in 's' with a soft sign, 'with each other'."),
-    (1, None, "'Obviously you have to make them up quickly.' 'Make peace' is built from the word for peace. 'Them it's necessary to reconcile' is the order."),
-    (2, None, "'But how can I do it today?' 'To me' stands for the ability, so it's 'how to-me this to do'. 'Today' is a word you'll hear every day."),
-    (3, None, "'We need a good reason for a shared celebration.' 'Needed' is masculine to match 'reason'. 'Shared' and 'holiday' take the 'of' ending."),
-    (4, None, "'For example, a happy birthday!' Russian says 'day of birth' for 'birthday', and the second word has an 'ya' ending. 'Cheerful' is the word you'd use for a cheerful person."),
-    (5, None, "'On a day like that, everyone should forget their grudges.' 'In such a day' is used for 'on a day like that'. 'Must' is plural to go with 'everyone'."),
-    (6, None, "'Exactly! My birthday is tomorrow!' 'At me tomorrow birthday' is the way to say 'I have a birthday tomorrow'. 'Exactly' is a one-word reaction."),
-    (7, None, "'How could I forget about this myself?' 'Could' has the masculine ending, and the little word for 'about' gets a 'b' before a vowel. 'Myself' is a short word."),
-    (8, None, "'Seriously, how could you forget your own holiday?' 'Own' is the word that points back to the speaker. 'Holiday' is the same word Kostya used before."),
-    (9, None, "'I never told anyone anything.' Count the negatives: 'to no one', 'nothing', 'not'. Russian wants them all."),
-    (10, None, "'And then suddenly tomorrow is your birthday.' 'And here' sets up the surprise. 'Suddenly' is the word you'd use in a story."),
-    (11, None, "'They won't just believe me.' Russians 'believe to' someone, so 'me' takes the 'to me' form. 'Just like that' is a fixed phrase for 'so easily'."),
-    (12, None, "'So you need to dream up a clever plan.' 'Clever' comes from the word for cunning. 'Dream up' is the finished form of 'think'."),
+    (0, None, '\'What do you do when your friends and your girlfriend have fallen out?\' "Chto delat?", what\'s to be done, is a famous Russian question. "Possorilis" means "fell out with each other".'),
+    (1, None, '\'Obviously, they need to make up, and fast.\' "Ponyatno" is "it\'s clear". "Pomirit" means to get people to make peace, and it comes from "mir", peace.'),
+    (2, None, '\'But how do I do it today?\' "Kak mne eto sdelat" is literally "how to me to do this", with no "I do" anywhere.'),
+    (3, None, '\'You need a good excuse for a party for everyone.\' "Povod" is an excuse or reason for something. "Obshchiy" means shared, for all.'),
+    (4, None, '\'A fun birthday, for example!\' "Den rozhdeniya" is literally "day of birth". "Naprimer" means "for example".'),
+    (5, None, '\'On a day like that, everyone has to forget their grudges.\' "Obidy", grudges or hurt feelings, is the plural of "obida". "Dolzhny" means "must".'),
+    (6, None, '\'That\'s it! My birthday is tomorrow!\' "Tochno!" here means "that\'s it!". "U menya den rozhdeniya" is literally "at me, a birthday".'),
+    (7, None, '\'How could I forget about it myself?\' "Mog", could, is the man\'s form; Vika would say "mogla". "Ob etom" means "about it".'),
+    (8, None, '\'Seriously, how could you forget your own birthday?\' "Seryozno" means seriously. "Svoy prazdnik" is "your own celebration".'),
+    (9, None, '\'I never told anybody anything before.\' Three negatives in a row, "nikomu nichego ne", and Russian needs all three.'),
+    (10, None, '\'And then suddenly, it\'s his birthday tomorrow.\' "Vdrug" means suddenly. Kostya acts out how it will sound to the others.'),
+    (11, None, '\'They won\'t just believe me like that.\' "Prosto tak" is "just like that". "Poveryat" means "will believe".'),
+    (12, None, '\'So you need to come up with a clever plan.\' "Khitryy" means cunning or sly. "Pridumat" means to come up with, as you would a new dish.'),
 ]

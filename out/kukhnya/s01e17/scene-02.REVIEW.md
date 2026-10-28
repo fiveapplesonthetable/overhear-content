@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Макс, держи рыбу крепче! | Max, hold the fish tighter! | #33 00:02:23: Вить!<br>#34 00:02:24: Сынче, | verbatim |
+| 1 | Шеф | Макс, держи рыбу крепче! | Max, hold the fish tighter! | new | new |
 | 2 | Макс | Шеф, я держу всё очень крепко. | Chef, I am holding everything very tightly. | new | new |
 | 3 | Шеф | Мы уже почти пришли в ресторан. | We have already almost arrived at the restaurant. | new | new |
 | 4 | Макс | Вы действительно пойдёте в соседний ресторан? | Will you really go to the neighboring restaurant? | new | new |
-| 5 | Шеф | Мне делать больше нечего, Макс. | I have nothing better to do, Max. | new | new |
+| 5 | Шеф | Мне делать больше нечего, Макс. | As if I had nothing better to do, Max. | new | new |
 | 6 | Макс | Говорят, там готовят неплохие блюда. | They say they cook pretty good dishes there. | new | new |
 | 7 | Шеф | Кто тебе сказал такую глупость? | Who told you such foolishness? | new | new |
 | 8 | Макс | Один мой хороший друг рассказывал. | A good friend of mine told me. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, hold the fish tighter!' The command 'hold' is the casual one. 'Tighter' comes as one word, with the 'che' ending doing the work of 'er'.
-- 'Chef, I'm holding everything very tightly.' 'I hold' is one word, and 'tightly' carries 'o', like many of the 'how' words. 'Everything' is a tiny word that you'll hear all the time.
-- 'We've almost reached the restaurant.' 'Almost' and 'already' are the two small words. 'Came' is the one for arriving on foot, and 'to the restaurant' is a direction, so the restaurant doesn't change.
-- 'Are you really going to the neighboring restaurant?' 'Really' is a long word, but you can hear 'actual' in it. 'Will go' is a polite plural, since Max is speaking to the chef.
-- 'I have nothing better to do, Max.' The Russian is 'to do more nothing', which is an idiom for a sneer. 'To me' stands in for 'I'.
-- 'They say they cook pretty good dishes there.' 'They say' has no 'they', so it's the way to say 'people say'. 'Not bad' is one word, here in the plural form, and 'dishes' is plural too.
-- 'Who told you such nonsense?' 'Who' comes first, then 'to you', since you tell things 'to' someone. 'Nonsense' is built from 'stupid'.
-- 'A good friend of mine told me.' Russian says 'one my good friend', where 'one' means 'a certain'. 'Told' is the ongoing kind, as in a chat over time.
-- 'Your friend understands nothing about food.' Russian doubles the negative: 'nothing' and 'not' appear together. You understand 'in' food, so the little word for 'in' comes before 'food'.
-- 'Probably you're right, chef.' 'Probably' is one word. 'Right' is a short form here, in the plural polite form.
-- 'Our restaurant is the best in the city.' The dash stands in for 'is'. 'Most best' sounds odd in English, but Russian often stacks the two for emphasis.
-- 'I agree with you a hundred percent.' 'Agree' is a short form, and a woman would say it a different way. 'Hundred percent' needs 'to' in front of it, as in 'to a hundred percent'.
-- 'Then quickly go and work in the kitchen.' Russian says 'go work' with no 'and' between, as do many languages. 'To the kitchen' uses the small word for 'on', which is the one for work places.
+- 'Max, hold the fish tighter!' "Derzhi" is the command from "derzhat", to hold, and "krepche", tighter, comes from "krepko", firmly.
+- 'Chef, I'm holding it all very tightly.' Max answers with "derzhu", I hold, and goes back to the plain "krepko" that Barinov had just pushed up to "krepche".
+- 'We're almost at the restaurant.' "Prishli" means they came on foot, and "pochti", almost, sits right before it. "V restoran", to the restaurant, keeps the word as it is.
+- 'Are you really going to the restaurant next door?' "Sosedniy", next door, comes from "sosed", a neighbour. "Poydyote" is the polite "you will go", since Max says "vy" to his chef.
+- 'As if I had nothing better to do, Max.' "Mne delat bolshe nechego" is literally "to me, to do, more nothing". Said this way, it's pure sarcasm.
+- 'They say they cook pretty good dishes there.' "Govoryat", they say, works like the English "word is". "Neplokhie" is literally "not bad", which means "pretty good".
+- 'Who told you such nonsense?' "Glupost", nonsense, comes from "glupyy", stupid. "Takaya", such, changes to "takuyu" along with it.
+- 'A good friend of mine told me.' "Odin moy khoroshiy drug" is literally "one my good friend", which is how Russian says "a friend of mine".
+- 'Your friend knows nothing about food.' "Ponimaet v ede" is literally "understands in food", the Russian way to say someone knows a subject. "Nichego ne" doubles the no, and that's normal.
+- 'You're probably right, chef.' "Pravy", right, ends in "-y" because Max uses the polite "vy"; to a friend he'd say "prav".
+- 'Our restaurant is the best in town.' "Samyy luchshiy" stacks two words, "most" and "best", for extra force. "Gorod", town, becomes "gorode" after "v".
+- 'I agree with you a hundred percent.' "Soglasen s vami" is "agreed with you". Russian adds "na" in front of the number where English needs nothing.
+- 'Then off to the kitchen and get to work, quickly.' "Idi rabotat" is "go to work", with the second word left in its basic form. "Kukhnya" becomes "kukhnyu" after "na" when you're heading there.

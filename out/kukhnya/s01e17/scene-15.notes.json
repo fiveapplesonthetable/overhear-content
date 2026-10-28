@@ -2248,15 +2248,39 @@
     },
     {
       "seg": 59,
-      "trans": "Bye!",
+      "trans": "Well, see you tonight. Bye!",
       "words": [
         {
+          "t": "Ну,",
+          "gloss": "well",
+          "gram": "particle of impatience",
+          "lemma": "ну",
+          "pos": "part",
+          "stress": null
+        },
+        {
+          "t": "до",
+          "gloss": "until",
+          "gram": "preposition + genitive",
+          "lemma": "до",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "вечера.",
+          "gloss": "evening",
+          "gram": "genitive singular, masculine",
+          "lemma": "вечер",
+          "pos": "noun",
+          "stress": "ве́чера"
+        },
+        {
           "t": "Пока!",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection",
           "lemma": "пока",
           "pos": "adv",
-          "stress": "пока́",
-          "gloss": "bye!",
-          "gram": "informal farewell interjection"
+          "stress": "пока́"
         }
       ]
     }
@@ -4872,44 +4896,6 @@
         }
       ]
     },
-    "пока": {
-      "lemma": "пока",
-      "stress": "пока́",
-      "pos": "adv",
-      "gloss": "bye",
-      "meanings": [
-        {
-          "en": "bye, see you",
-          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
-        },
-        {
-          "en": "while, for now",
-          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пока!",
-          "trans": "Bye!"
-        },
-        {
-          "text": "Пока, папа!",
-          "trans": "Bye, Dad!"
-        },
-        {
-          "text": "Пока, милый!",
-          "trans": "Bye, darling!"
-        }
-      ],
-      "related": [
-        {
-          "word": "пока",
-          "gloss": "bye (as an adverb/interjection)"
-        }
-      ]
-    },
     "понять": {
       "lemma": "понять",
       "stress": "поня́ть",
@@ -6662,6 +6648,184 @@
         {
           "word": "японец",
           "gloss": "Japanese man"
+        }
+      ]
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "gloss": "until, before; up to",
+      "meanings": [
+        {
+          "en": "until, till",
+          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+        },
+        {
+          "en": "до свидания = goodbye",
+          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
+        }
+      ],
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach, walk as far as"
+        },
+        {
+          "word": "после",
+          "gloss": "after"
+        }
+      ]
+    },
+    "вечер": {
+      "lemma": "вечер",
+      "stress": "ве́чер",
+      "pos": "noun",
+      "gloss": "evening",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "evening",
+          "note": "до вечера = until the evening; вечером = in the evening"
+        },
+        {
+          "en": "party, evening event",
+          "note": "E.g. a school evening. Common masculine noun meaning 'evening' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "вечер",
+              "вечера"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "вечера",
+              "вечеров"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "вечеру",
+              "вечерам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "вечер",
+              "вечера"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "вечером",
+              "вечерами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "вечере",
+              "вечерах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Добрый вечер!",
+          "trans": "Good evening!"
+        },
+        {
+          "text": "Я позвоню вечером.",
+          "trans": "I'll call in the evening."
+        },
+        {
+          "text": "Добрый вечер, Вика. С Новым годом!",
+          "trans": "Good evening, Vika. Happy New Year!"
+        }
+      ],
+      "related": [
+        {
+          "word": "вечером",
+          "gloss": "in the evening"
+        },
+        {
+          "word": "вечеринка",
+          "gloss": "party"
+        },
+        {
+          "word": "вечерний",
+          "gloss": "evening"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

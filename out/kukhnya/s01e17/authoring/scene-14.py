@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "It's Max's birthday, and Kostya and Nastya have come to the kitchen to wish him well. They've got a present: tickets for an evening out for the three of them. Russian first, no need to catch it all."
-OPENER = "Let's listen again, with the meaning this time."
-TRANSITION = 'Once more, all the way through.'
-OUTRO = "The friends have made up, thanks to a birthday that nobody knew about. Remember the greeting 's dnyom rozhdeniya', which you can say to anyone on their birthday. See you next time!"
-CLOSING = ('kostya', 'Пока!')
+INTRO = "It's Max's birthday, and Kostya and Nastya have come to the kitchen to wish him well. They've got a present: tickets for an evening out for the three of them. Here are the birthday wishes in Russian first."
+OPENER = 'Now the birthday wishes again, one at a time.'
+TRANSITION = "Here's the birthday scene again, all together."
+OUTRO = 'The friends have made up over a birthday nobody knew about. "S dnyom rozhdeniya" works for anyone\'s birthday, from your boss to your gran. See you next time!'
+CLOSING = ('nastya', 'Увидимся вечером, Макс!')
 STORY = [
     ('kostya', 'Макс, поздравляю тебя с днём рождения!', 'Max, happy birthday to you!', [(231, 'Макс. С днем рождения')], ''),
     ('max', 'Большое спасибо тебе, мой верный друг.', 'Thank you very much, my loyal friend.', [(232, 'Спасибо. Старик')], ''),
@@ -24,7 +24,7 @@ STORY = [
     ('max', 'Что это за красивые билеты?', 'What kind of nice tickets are these?', [(235, 'Билеты на концерт')], ''),
     ('kostya', 'Это билеты на хороший вечерний концерт.', 'These are tickets to a good evening concert.', [(235, 'Билеты на концерт')], ''),
     ('nastya', 'Мы отлично повеселимся сегодня вечером вместе.', 'We will have a great time together tonight.', [(236, 'Отлично повеселимся')], ''),
-    ('kostya', 'Пойдём туда ты, я и Настя.', 'You, me, and Nastya will go there.', [(236, 'Ты, я и Настя')], ''),
+    ('kostya', 'Пойдём втроём: ты, я и Настя.', "Let's go, the three of us: you, me and Nastya.", [(236, 'Ты, я и Настя')], ''),
     ('nastya', 'Мы будем танцевать там всю ночь!', 'We will dance there all night!', [(237, 'Оторвемся по полной')], ''),
     ('max', 'Спасибо, ребята, вы настоящие друзья.', 'Thanks, guys, you are real friends.', [(238, 'Спасибо. Ребята')], ''),
     ('kostya', 'Да ладно, у тебя же праздник!', 'Come on, it is your holiday after all!', [(238, 'да ладно')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('kostya', 'Ещё раз с днём рождения, Макс!', 'Happy birthday once again, Max!', [(240, 'С днем рождения')], ''),
 ]
 WALK = [
-    (0, None, "'Max, happy birthday to you!' Russians say 'I congratulate you with the day of birth'. The little word for 'with' makes both of the last words take an ending."),
-    (1, None, "'Thank you very much, my loyal friend.' 'Thanks' is neuter, so 'big' finishes with 'oe'. 'Loyal' is the word you'd use for a faithful dog."),
-    (2, None, "'I also congratulate you from the heart!' Russians say 'from the soul' where English says 'from the heart'. 'Also' is a short word before 'congratulate'."),
-    (3, None, "'Thank you, Nastya, I'm very pleased.' 'To me pleasant' is the Russian pattern, and it works for anything you're glad about. 'Very' goes before it."),
-    (4, None, "'And here is a gift for you.' 'Gift' comes from the verb for giving. 'And here' sets up the present."),
-    (5, None, "'What kind of nice tickets are these?' 'What kind of' is made with 'za' after 'what'. 'Beautiful' is stronger than 'nice', and plural to match 'tickets'."),
-    (6, None, "'These are tickets for a good evening concert.' 'Tickets for' takes a small word 'on'. 'Evening' is an adjective made from the word for evening."),
-    (7, None, "'We'll have a great time together tonight.' 'Have fun' is built from the word for cheerful, plus 'sya'. 'Together' is a handy word."),
-    (8, None, "'You, me and Nastya will go there.' The verb comes first, then the list. Between 'you' and 'me' there's no 'and'."),
-    (9, None, "'We'll be dancing there all night!' 'Will be dancing' is 'will be' plus the plain 'dance'. 'All night' is 'all' plus 'night', with no 'during'."),
-    (10, None, "'Thanks, guys, you are real friends.' 'Friends' is irregular, so it looks different from 'friend'. 'Real' is 'genuine'."),
-    (11, None, "'Come on, it's your holiday!' 'Come on' is a casual 'no problem'. 'At you holiday' stands for 'you have a holiday'."),
-    (12, None, "'After all, it's your birthday today.' The opening word means 'after all' or 'you know'. 'Birthday' is two words, 'day' and 'of birth'."),
-    (13, None, "'Happy birthday once again, Max!' 'Once again' is 'still time'. The greeting is shortened to just 'with the birthday'."),
+    (0, None, '\'Max, happy birthday!\' "S dnyom rozhdeniya" is the wish itself, literally "with day of birth". "Pozdravlyayu tebya" adds "I congratulate you".'),
+    (1, None, '\'Thank you so much, my loyal friend.\' "Vernyy" means loyal or faithful. "Bolshoe spasibo" is literally "big thanks".'),
+    (2, None, '\'Happy birthday from the heart from me too!\' "Ot dushi" is literally "from the soul", where English says "from the heart".'),
+    (3, None, '\'Thanks, Nastya, that\'s really nice.\' "Priyatno", pleasant, is the same word Russians use in "ochen priyatno", nice to meet you.'),
+    (4, None, '\'And this present is for you.\' "Podarok", gift, comes from "darit", to give as a present. "A vot" draws attention to it.'),
+    (5, None, '\'What are these nice tickets?\' "Chto eto za" is how you ask "what kind of... is this?". One "bilet" becomes two "bilety".'),
+    (6, None, '\'These are tickets to a good evening concert.\' Tickets in Russian are "onto" an event: "na kontsert".'),
+    (7, None, '\'We\'ll have a great time together tonight.\' "Poveselimsya", we\'ll have fun, comes from "vesyolyy", cheerful.'),
+    (8, None, '\'Let\'s go, the three of us: you, me and Nastya.\' "Vtroyom" is one word for "the three of us together", from "tri", three.'),
+    (9, None, '\'We\'ll dance there all night!\' "Vsyu noch", all night, needs no "for". "Budem tantsevat" means "we will dance".'),
+    (10, None, '\'Thanks, guys, you\'re real friends.\' "Nastoyashchie" means real or true. "Rebyata" is the usual word for a group of friends.'),
+    (11, None, '\'Come on, it\'s your big day!\' "Da ladno" is "oh, come on", a way to brush off thanks. "Zhe" adds "after all".'),
+    (12, None, '\'After all, today is your birthday.\' "Ved" opens the line like "you know", reminding someone of the obvious.'),
+    (13, None, '\'Happy birthday once again, Max!\' "Eshchyo raz" is "once more", literally "still one time".'),
 ]
