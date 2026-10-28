@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Макс | Шеф, у меня большие проблемы. | Chef, I have big problems. | new | new |
-| 2 | Шеф | Что опять стряслось, огузок? | What happened again, runt? | new | new |
+| 2 | Шеф | Что опять стряслось, огузок? | What happened again, Oguzok? | new | new |
 | 3 | Макс | Меня ищет грозный прокурор. | A terrible prosecutor is looking for me. | new | new |
 | 4 | Шеф | И за что же он тебя ищет? | And why is he looking for you? | new | new |
 | 5 | Макс | Он знает про меня и Вику. | He knows about me and Vika. | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I have big problems.' "At me" is Russian's way of saying "I have". Both "big" and "problems" take the plural ending.
-- 'What happened again, runt?' "Happened" is a colloquial one, used for bad surprises. Barinov calls him by the nickname, "oguzok".
-- 'A terrible prosecutor is looking for me.' Max puts "me" first, so you hear the fear. "Terrible" is the "Terrible" of "Ivan the Terrible", and it means "formidable".
-- 'And why is he looking for you?' "For what" is the Russian for "why" when you mean "what for". The small "zhe" sharpens the question.
-- 'He knows about me and Vika.' "About" is a casual short word here. Vika turns into "Viku", because she is the thing he knows about.
-- 'You slept with someone else's woman?' "Someone else's" is useful for anything that belongs to another person. The chef says it bluntly.
-- 'I did not know that she is married.' "Married", for a woman, comes from "behind a husband". A married man uses a different word, with "wife" at its root.
-- 'He was the most talented cook.' Barinov switches to "was" for the eulogy. "The most talented" is the "samyy" pattern again.
-- 'Whom I ever knew.' "Whom" takes the person-object shape. "Ever" is built with "-libo", just like "-nibud'" and "-to".
-- 'Chef, are you already burying me?' Max uses the polite "you" with the chef. "Already" is the small word of impatience.
-- 'You don't mess with a prosecutor.' Word for word it's "with a prosecutor jokes are bad". It's a fixed phrase, and you can use it for anyone dangerous.
-- 'He will quickly send you behind bars.' Russian says "behind the grille", and it means jail. The "will send" at the end carries the threat.
-- 'What should I do now?' "What then to me to do" is the pattern for asking for advice. It's one of the most useful questions you can learn.
-- 'Go work and do not chat.' Two commands in a row, "go work", then "don't chatter". The slang "chatter" is the one Max used in the first episode.
+- 'Chef, I have big problems.' "U menya", "at me", is the Russian "I have". "Bol'shiye problemy" puts the plural -iye and -y on both words.
+- 'What happened again, Oguzok?' "Stryaslos'" is a colloquial "happened", kept for unpleasant surprises. "Opyat'" is "again", and the chef uses his nickname for Max.
+- 'A terrible prosecutor is looking for me.' "Menya ishchet" puts "me" first, then "looks for". "Groznyy" is the tsar's title that English gives as "the Terrible", and it means fearsome.
+- 'And why is he looking for you?' "Za chto" is "for what", the "why" you ask about a punishment. "Zhe" sharpens the question.
+- 'He knows about me and Vika.' "Pro" is the spoken word for "about". After it, "Vika" becomes "Viku", and "ya" becomes "menya".
+- 'You slept with someone else's woman?' "Spal s" is "slept with", and after "s" the words take -oy: "s chuzhoy zhenshchinoy". "Chuzhoy" is "someone else's".
+- 'I did not know that she is married.' "Zamuzhem", for a woman, is "za muzhem", behind a husband. A married man is "zhenat", from "zhena", wife.
+- 'He was the most talented cook.' "Eto byl" is "this was", and Barinov talks about Max in the past. "Samyy talantlivyy" is "the most talented".
+- 'Whom I ever knew.' "Kotorogo", whom, is "kotoryy" in its object shape for a person. "Kogda-libo" is "ever", "kogda", when, with -libo.
+- 'Chef, are you already burying me?' Max says "vy" to the chef. "Khoronite" is "you bury", and "uzhe" is "already".
+- 'You don't mess with a prosecutor.' "S prokurorom shutki plokhi" is "with a prosecutor jokes are bad". It's a fixed phrase, and "prokuror" can be swapped for anyone dangerous.
+- 'He will quickly send you behind bars.' "Za reshyotku" is "behind the grille", which means prison. "Otpravit" is "will send".
+- 'What should I do now?' "Chto mne delat'?" is "what to me to do?", the pattern for asking advice. "Teper'" is "now", and "zhe" adds despair.
+- 'Go work and do not chat.' "Idi rabotay" puts two commands side by side, "go" and "work". "Ne boltay" is "don't chatter", from "boltat'".

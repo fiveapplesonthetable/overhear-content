@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me please, is that my festive goose?' Starting with "say, please" is how Russians politely open a question. Russian has no "is that" here, just "this my goose".
-- 'Yes, this is your main order today!' The guest uses the formal "your". "Order" is what a customer places in a restaurant.
-- 'We prepared it according to an ancient recipe.' "Ancient" starts from "old", but it means "of old times". "According to the recipe" uses the little word "po".
-- 'Our chef personally checked every detail.' "Checked" is the kind of verb that means "was checking", a repeated action. "Detail" is borrowed.
-- 'The goose looks and smells simply magnificent!' "Magnificent" has "great" inside it, so it's "greatly". Russians say "looks and smells" in just those words.
-- 'The meat turned out very tender and juicy.' "Turned out" is neuter to match "meat". "Tender and juicy" end in "-ym", because the meat turned out "as" tender.
-- 'We served it with apples and herbs.' "With apples and herbs" shows "-ami", the ending that means "with".
-- 'My guests will be in total delight!' "In delight" is two short words. "Will be" is plural.
-- 'Our restaurant maintains only the highest standard.' The verb is "holds", the same as holding a menu, here "keeps up". "Highest" is related to "tall".
-- 'Thank you for the wonderful work, chefs!' This is the "thank you for" frame. "Cooks" has the plural in "-a" that looks odd.
-- 'Bon appetit to you and your guests!' "Of pleasant appetite", as before. "To you and to your guests" gives both the "to" ending.
-- 'We hope to see you again at the restaurant.' "We hope" ends in "-sya", the little "self". "Again" is a short word.
-- 'Max, quickly get back to the kitchen!' "Quickly" is the "alive" word the chef has used all week. "Back" means "back to where you came from".
+- 'Tell me please, is that my festive goose?' "Skazhite, pozhaluysta" is "say, please", a polite way to open a question. "Eto moy prazdnichnyy gus'?" is "this my festive goose?".
+- 'Yes, this is your main order today!' Barinov says "vash", the polite "your". "Glavnyy zakaz" is "main order".
+- 'We prepared it according to an ancient recipe.' "Po" here means "according to", and it puts -omu and -u on the words: "po starinnomu retseptu". "Starinnyy" means "from old times".
+- 'Our chef personally checked every detail.' "Proveryal", checked, is the unfinished verb, for checking over and over. "Kazhduyu detal'" is "every detail".
+- 'The goose looks and smells simply magnificent!' "Vyglyadit i pakhnet" is "looks and smells". "Velikolepno" joins "veliko", great, to an old word for beautiful.
+- 'The meat turned out very tender and juicy.' "Poluchilos'" has a neuter ending to match "myaso". "Nezhnym i sochnym" ends in -ym, the shape after "turned out".
+- 'We served it with apples and herbs.' "Podali" is "we served". "S yablokami i travami" puts -ami on both plurals after "s".
+- 'My guests will be in total delight!' "V vostorge" is "in delight", and "polnom", full, matches it. "Budut" is "will be", plural for the guests.
+- 'Our restaurant maintains only the highest standard.' "Derzhit", holds, here means "keeps up". "Vysshiy uroven'" is "highest level".
+- 'Thank you for the wonderful work, chefs!' "Spasibo za" is "thanks for", and "za prekrasnuyu rabotu" ends in -uyu and -u. "Povar" has the plural "povara", stressed on the end.
+- 'Bon appetit to you and your guests!' "Priyatnogo appetita" is the standard wish before a meal. "Vashim gostyam" is "to your guests", with -im and -am.
+- 'We hope to see you again at the restaurant.' "Nadeyemsya", we hope, ends in -sya. "Uvidet' vas snova" is "to see you again".
+- 'Max, quickly get back to the kitchen!' "Zhivo" is from "zhivoy", alive, and here it means "look lively". "Vozvrashchaysya obratno" is "come back back", doubling up for emphasis.

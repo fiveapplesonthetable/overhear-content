@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, is everything ready for the festive banquet?' "Ready for" takes a little word, "k", that means "toward", and the banquet changes its ending to match. Vika is ticking items off, the way an art director does.
-- 'Yes, the guests are already sitting at the table.' Russians say the guests sit "behind the table", with the little word "za" and an "-om" ending on "table".
-- 'Has the chef already finished cooking the main dish?' "Finished" has "konets", end, inside it. The main dish ends in "-oye" because "blyudo" is a neuter word.
-- 'The cooks are just now carrying the roasted goose.' "Just now" is two words, literally "as time". "Roasted" comes from "pech'", a stove, so it's really "baked".
-- 'Excellent, it is time to congratulate the birthday girl!' Inside "congratulate" you can hear "zdrav-", health, as in the long hello. The birthday girl comes from "name day", with an ending that marks a woman.
-- 'Shall we light beautiful candles on the cake?' Candles go "on the cake", and "cake" ends in -e after "on". "Zazhgyom", "we will light", comes from setting something on fire.
-- 'Yes, and open the most expensive champagne.' "Samoye" in front gives "the most", and the "-oye" endings match "shampanskoye", which Russians treat as a neuter word.
-- 'The judge looks very happy today.' After "looks", Russian puts "happy" in an "-oy" ending, the same "as" idea, here for a woman. The word comes from "schast'ye", happiness.
-- 'She is a strict person, but loves attention.' Vika says "chelovek", person, for a woman. It's a masculine word, and it covers everyone. "No" is the plain "but".
-- 'Her husband gave her a magnificent bouquet of flowers.' "Podaril" has "dar", a gift, inside it, so it means "made a gift of". "Of flowers" has its own plural ending.
-- 'I hope our restaurant gives her joy.' The noun for "joy" grows from "rad", glad, so you can hear the link. "Gives" is the same gift word as before, now in the future.
-- 'All the waiters are ready to greet guests with a smile.' "Greet" comes from "meet", the same family as "vstrecha". "With a smile" ends in "-oy", the ending that means "with".
-- 'Then we begin the celebration at the highest level!' "At the highest level" is the stock phrase for top quality. "Highest" is related to "tall".
+- 'Sasha, is everything ready for the festive banquet?' "Gotovo k" is "ready towards", and after "k" the words take the "to" ending: "k prazdnichnomu banketu". "Prazdnichnyy" is from "prazdnik", a holiday.
+- 'Yes, the guests are already sitting at the table.' Russians sit "za stolom", behind the table, with -om after "za". "Sidyat" is "they sit".
+- 'Has the chef already finished cooking the main dish?' "Zakonchil", finished, has "konets", end, in it. "Glavnoye blyudo" ends in -oye, because "blyudo", dish, is neuter.
+- 'The cooks are just now carrying the roasted goose.' "Kak raz" turns up again for "right now". "Zapechyonnogo" is from "pech'", stove, so it means "oven-baked", with the creature's -ogo ending.
+- 'Excellent, it is time to congratulate the birthday girl!' "Pora" is "it's time". "Pozdravlyat'" holds "zdrav-", health, as in "zdravstvuyte". "Imeninnitsa" comes from "imeniny", a name day.
+- 'Shall we light beautiful candles on the cake?' "Zazhzhyom", we'll light, is from "zhech'", to burn. "Svechi" are candles, and "na torte" is "on the cake".
+- 'Yes, and open the most expensive champagne.' "Otkroyte", open, is said to several people. "Shampanskoye" is a neuter word, so "samoye dorogoye", the most expensive, ends in -oye too.
+- 'The judge looks very happy today.' After "vyglyadit", looks, the word takes -oy: "schastlivoy", for a woman. It comes from "schast'ye", happiness.
+- 'She is a strict person, but loves attention.' "Chelovek", person, is masculine but covers everyone, so "strogiy" stays masculine. "Lyubit vnimaniye" is "loves attention".
+- 'Her husband gave her a magnificent bouquet of flowers.' "Podaril" holds "dar", gift, so it's "gave as a present". "Buket tsvetov" is "a bouquet of flowers", with -ov.
+- 'I hope our restaurant gives her joy.' "Radost'", joy, grows from "rad", glad. "Podarit" is the same gift verb, now "will give".
+- 'All the waiters are ready to greet guests with a smile.' "Vstrechat'", to greet, is from "vstrecha", a meeting. "Ulybka", smile, becomes "ulybkoy", meaning "with a smile".
+- 'Then we begin the celebration at the highest level!' "Na vysshem urovne" is "on the highest level", a stock phrase for top quality. "Vysshiy" is the top of "vysokiy", high.

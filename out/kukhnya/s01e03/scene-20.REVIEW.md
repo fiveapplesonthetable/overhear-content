@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Огузок, встань перед нами на колено! | Runt, kneel down on one knee before us! | #336 00:22:26: На колено. | verbatim |
+| 1 | Шеф | Огузок, встань перед нами на колено! | Oguzok, kneel down on one knee before us! | #336 00:22:26: На колено. | verbatim |
 | 2 | Макс | Шеф, что сейчас со мной будет? | Chef, what will happen to me now? | #335 00:22:21: принимаем тебя на нашу кухню. | verbatim |
 | 3 | Шеф | Мы торжественно принимаем тебя на кухню! | We solemnly accept you into our kitchen! | #337 00:22:29: Отныне и вовеки веков принимаем тебя | verbatim |
 | 4 | Шеф | Во имя горячей духовки и противня! | In the name of the hot oven and baking tray! | #338 00:22:37: Во имя духовки и противня, | verbatim |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Runt, kneel down on one knee before us!' Russian says "stand onto a knee" for kneeling on one knee. "Before us" has "us" in a special shape.
-- 'Chef, what will happen to me now?' Russian says "what will be with me", and "with" becomes "so" before "me".
-- 'We solemnly accept you into our kitchen!' "Solemnly" comes from "torzhestvo", a celebration. "Accept" is a form of "take".
-- 'In the name of the hot oven and baking tray!' "In the name of" is a solemn old phrase. The oven and the tray take the "of" ending.
-- 'In the name of the heavy frying pan and ladle!' "Heavy" ends in a feminine "-oy" after "of". The chef is turning kitchen tools into saints.
-- 'Congratulations on your culinary baptism of fire!' "Baptism of fire" is exactly the Russian idiom. "Congratulate on" uses "with".
-- 'Chef, are you not even going to punish me?' "Not even" is the pair from before.
-- 'Was this ritual not enough for you?' "Razve" opens a question that expects the answer "no". "To you little" is Russian for "not enough for you".
-- 'You are the first person who passed the initiation!' "Who" ties the two halves together. "Passed" is "go", prefixed.
-- 'We should initiate all future newcomers like this!' "It will be necessary" is "nado budet". "Newcomers" are the "new" ones.
-- 'Life is full of various losses and gains.' "Full" has a feminine ending to match "life". "Losses" and "gains" are both plurals.
-- 'Some people grieve, while others always rejoice.' "Some... others" is a pair. "Grieve" comes from "sadness", and "rejoice" from "joy".
-- 'But true friends always help in trouble.' "Friends" is an irregular plural. "In trouble" ends in -e after "in".
-- 'The main thing is to understand that this is only the beginning!' "Glavnoye" does the job of "the main thing". "Beginning" comes from "to begin".
+- 'Oguzok, kneel down on one knee before us!' "Vstan' na koleno" is "stand onto a knee", the Russian for going down on one knee. "Pered nami" is "before us", with "my" turned into "nami".
+- 'Chef, what will happen to me now?' "Chto so mnoy budet?" is "what will be with me?". "S" turns into "so" before "mnoy".
+- 'We solemnly accept you into our kitchen!' "Torzhestvenno", solemnly, is the adverb of "torzhestvo", a celebration. "Prinimayem" is "we accept", and "na kukhnyu" is "onto the kitchen".
+- 'In the name of the hot oven and baking tray!' "Vo imya" is "in the name", an old solemn phrase. After it, "goryachey dukhovki i protivnya" all take the "of" endings.
+- 'In the name of the heavy frying pan and ladle!' "Tyazhyoloy skovorodki" ends in -oy and -i, the feminine "of" endings. "Polovnik", ladle, becomes "polovnika".
+- 'Congratulations on your culinary baptism of fire!' Russian says "boyevoye kreshcheniye", a battle baptism, for a first test. "Pozdravlyayem s" is "we congratulate with", the frame for any congratulations.
+- 'Chef, are you not even going to punish me?' "Dazhe ne" is "not even". "Nakazhete", you'll punish, is a future with the polite -te.
+- 'Was this ritual not enough for you?' "Razve" opens a question that expects a no. "Tebe bylo malo" is "to you it was little", meaning "not enough for you".
+- 'You are the first person who passed the initiation!' "Kotoryy", who, ties the halves together. "Proshyol", passed, is "go" with "pro-", through, so it's "went through".
+- 'We should initiate all future newcomers like this!' "Nado budet" is "it will be necessary". "Novichki", newcomers, from "novyy", new, becomes "novichkov" as the object.
+- 'Life is full of various losses and gains.' "Polna", full, has a feminine ending for "zhizn'". After it come the "of" plurals "poter'" and "priobreteniy".
+- 'Some people grieve, while others always rejoice.' "Odni... drugiye" is "some... others". "Grustyat" is from "grust'", sadness, and "raduyutsya" from "radost'", joy.
+- 'But true friends always help in trouble.' "Drug", friend, has the irregular plural "druz'ya". "V bede" is "in trouble", from "beda".
+- 'The main thing is to understand that this is only the beginning!' "Glavnoye" on its own means "the main thing". "Nachalo", beginning, comes from "nachat'", to begin.

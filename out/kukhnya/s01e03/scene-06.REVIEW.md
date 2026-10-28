@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, why did you tell him?' Max asks "what for", not just "why", which makes it sound like an accusation. "Him" is in the "to him" form.
-- 'I am completely finished now.' Literally "to me now complete end". "End" is how Russians say "I'm done for".
-- 'Who did I tell?' Kostya repeats the question in his own words. "To whom" is "komu", the "to" form of "who".
-- 'That man in the suit.' "Man" here is a casual, slightly rough word. "In the suit" has an ending after "in".
-- 'What was he asking you?' Russian says "ask at you", not "ask you". The question word has a special shape for "asking about".
-- 'Oh, calm down already.' The command has "-sya" at the end, which is a little "self". "Finally" is a good word for impatience.
-- 'He was simply asking about the restroom.' "Tualet" is borrowed from French, and it never changes. "Asking about" has a casual short word for "about".
-- 'Seriously? Only about the restroom?' "Only" goes right in front of "about". Max can hardly believe it.
-- 'Yes, he was looking for the restroom.' "Looked for" ends in "-l" for a man. It's the same family as "ishchet", looks for.
-- 'And he didn't ask about me?' The opening "a" is a contrast, like "and what about me?". "Didn't ask" is the negative of the same word.
-- 'Who needs you anyway?' "To whom needed" is the pattern for "who needs", and "anyway" is a word for "at all".
-- 'Thank goodness, dodged a bullet.' The first part is "glory to God", the usual "thank goodness". The idiom for a danger passing is "it carried past".
-- 'Why are you so nervous today?' The first two words are a colloquial "why are you". "So nervous" has matching endings on both words.
-- 'Never mind, pour me some water quickly.' "Not important" is how Russians say "never mind". "Water" is in the "some" form, like when you order a drink.
+- 'Kostya, why did you tell him?' "Zachem" asks "what for", which sounds more accusing than "pochemu". "Yemu", to him, is "on" in its "to" shape.
+- 'I am completely finished now.' "Mne zhe teper' polnyy konets" is "to me, you know, now a full end". "Konets", end, is how Russians say "I'm done for".
+- 'Who did I tell?' "Komu" is "to whom", the "to" shape of "kto". Kostya throws Max's question back at him.
+- 'That man in the suit.' "Muzhik" is a plain, slightly rough word for a man. Max answers "komu" with "tomu muzhiku", to that man, and "v kostyume" is "in a suit".
+- 'What was he asking you?' "Sprashivat' u" is "to ask at" someone, so "u tebya" is "at you". "Chego" here stands in for "chto", what, as people say it in speech.
+- 'Oh, calm down already.' "Uspokoysya" ends in -sya, "calm yourself", built on "pokoy", peace. "Nakonets", finally, adds the impatience.
+- 'He was simply asking about the restroom.' "Tualet" came from French, and it takes Russian endings like any noun. After "pro", about, it stays "tualet".
+- 'Seriously? Only about the restroom?' "Ser'yozno" is "seriously". "Tol'ko pro", "only about", puts "only" right in front.
+- 'Yes, he was looking for the restroom.' "Iskal", looked for, ends in -l for a man. It's the past of "iskat'", the verb behind "ishchet".
+- 'And he didn't ask about me?' The opening "a" marks a contrast, like "and what about...". "Pro menya" is "about me", and "ne sprashival" is "didn't ask".
+- 'Who needs you anyway?' "Komu ty nuzhen?" is "to whom are you needed?", the Russian for "who needs you?". "Voobshche" is "at all".
+- 'Thank goodness, dodged a bullet.' "Slava bogu" is "glory to God", the everyday "thank goodness". "Proneslo" is "it carried past", said when trouble has gone by.
+- 'Why are you so nervous today?' "Ty chego" is a colloquial "why are you". "Takoy nervnyy" is "such nervous", and "segodnya" is "today".
+- 'Never mind, pour me some water quickly.' "Nevazhno" is "ne" plus "vazhno", important. "Naley mne vody" asks for some water: "voda" becomes "vody", the "some of" form.
