@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "The evening ends. Max shares a final thought about responsibility. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to their conversation in Russian first, and then walk through each line together."
-OPENER = "Let's go through it line by line. Max narrates the closing montage."
+INTRO = 'The evening is over, and Max has a thought about responsibility. Barinov has one of his own, which is much more practical. Here is the scene in Russian first.'
+OPENER = "Let's go through it slowly, from the thought to the toast."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "And so another chaotic day at Claude Monet comes to an end. Next time you watch the episode, listen for the Russian expressions for 'responsibility' and 'strange' — you will catch every word right away. See you next time!"
+OUTRO = "And that is the end of the episode. Max has a moral, Barinov has a promise, and the glasses are about to be filled. Next time we'll be back in the kitchen. See you then."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('max', 'Ответственность — странная штука.', 'Responsibility is a strange thing.', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Наливай!', 'Pour!', [], ''),
 ]
 WALK = [
-    (0, None, "'Responsibility is a strange thing.' Max reflects on the nature of duty. He calls responsibility a very strange thing."),
-    (1, None, "'On the one hand, we are afraid of it.' He explains the common fear associated with it. Max notes that on the one hand, people are afraid of it."),
-    (2, None, "'And on the other hand...' Max introduces the opposing view. He transitions to the other hand of his argument."),
-    (3, None, "'It is what earns us respect.' He explains the positive side of taking charge. Max says it is exactly how we earn respect."),
-    (4, None, "'And brings us closer together.' Max highlights the bonding power of shared challenges. He notes it brings people closer together."),
-    (5, None, "'When we act irresponsibly...' He points out the value of making mistakes. Max mentions that acting irresponsibly has a purpose."),
-    (6, None, "'We draw the right conclusions.' Max concludes his philosophical thought. He says our mistakes help us draw the right conclusions."),
-    (7, None, "'That's it, I won't drink at work anymore.' Chef Barinov makes a grand declaration. He swears he will never drink at work again."),
-    (8, None, "'I've decided.' He insists he has made a firm choice. Barinov says he has finally decided for good."),
-    (9, None, "'I definitely won't drink.' Barinov repeats his promise for emphasis. He firmly states he definitely will not drink."),
-    (10, None, "'But we should celebrate that.' He immediately finds an excuse to break his new rule. Barinov says they need to celebrate his decision."),
-    (11, None, "'Pour!' Barinov gives a joyful command to start the party. He enthusiastically yells to pour the drinks."),
+    (0, None, "'Responsibility is a strange thing.' The word for 'responsibility' is built from 'to answer', so it means 'answerability'. 'Shtuka' is a casual word for 'thing'."),
+    (1, None, "'On the one hand, we are afraid of it.' 'S odnoy storony' is literally 'from one side', which is how Russians say 'on the one hand'. 'Boimsya' is 'we fear', and 'ee' is 'of it'."),
+    (2, None, "'And on the other hand...' 'S drugoy storony' is the pair to the line before. It's the other half of the idiom."),
+    (3, None, "'It is what earns us respect.' 'Blagodarya' means 'thanks to', and 'ey' is 'to it'. 'Zavoyovyvaem' is 'win' as in winning over."),
+    (4, None, "'And brings us closer together.' 'Blizhe' is 'closer', and 'drug k drugu' is 'friend to friend', meaning 'to each other'. It's a fixed pattern."),
+    (5, None, "'When we act irresponsibly...' 'Bezotvetstvennye' means 'without responsibility', built from 'bez', without. 'Postupki' are deeds."),
+    (6, None, "'We draw the right conclusions.' Russians 'make' conclusions, 'delat vyvody', where English draws them. 'Pravilnye' means 'right'."),
+    (7, None, "'That's it, I won't drink at work anymore.' 'Vsyo' stops the conversation. 'Na rabote' is 'at work', and the 'ne' comes before the verb."),
+    (8, None, "'I've decided.' 'Reshil' is the man's past, one word. It closes the matter."),
+    (9, None, "'I definitely won't drink.' 'Tochno ne' is 'exactly not'. Barinov says it twice over, which makes it less convincing."),
+    (10, None, "'But we should celebrate that.' 'Nado otmetit' is 'one should mark', and 'mark' means celebrate here. The 'but' is Barinov's escape hatch."),
+    (11, None, "'Pour!' 'Nalivay' is the order to pour, and it ends the episode on a toast. Russians say it to anyone with the bottle."),
 ]

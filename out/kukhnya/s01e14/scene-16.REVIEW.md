@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Елена | Тут все по-французски. | Here everything is in French. | #249: Макс | verbatim |
-| 2 | Елена | Для нашего шефа это не проблема. | For our chef this is not a problem. | #249: Макс | verbatim |
-| 3 | Елена | Правда, Максимилиан? | Right, Maximilian? | #249: Макс | verbatim |
-| 4 | Макс | Си. | Si. | #249: Макс | verbatim |
-| 5 | Луи | Си? Идиот. | Si? Idiot. | #249: Макс | verbatim |
-| 6 | Луи | Си — это по-итальянски. | Si is in Italian. | #249: Макс | verbatim |
-| 7 | Луи | По-французски будет уи. | In French it will be oui. | #249: Макс | verbatim |
-| 8 | Макс | Да, конечно, я знаю это. | Yes, of course, I know this. | #249: Макс | verbatim |
-| 9 | Елена | Максимилиан, вы понимаете французский язык? | Maximilian, do you understand the French language? | #249: Макс | verbatim |
-| 10 | Макс | Конечно, я прекрасно понимаю французский. | Of course, I understand French perfectly. | #249: Макс | verbatim |
-| 11 | Луи | Ну, что ты будешь делать теперь? | Well, what will you do now? | #249: Макс | verbatim |
-| 12 | Макс | Я прочитаю этот рецепт и приготовлю блюдо. | I will read this recipe and prepare the dish. | #249: Макс | verbatim |
-| 13 | Луи | Это будет очень смешно. | This will be very funny. | #249: Макс | verbatim |
+| 1 | Елена | Тут все по-французски. | Here everything is in French. | #249 00:15:22: Макс | verbatim |
+| 2 | Елена | Для нашего шефа это не проблема. | For our chef this is not a problem. | #249 00:15:22: Макс | verbatim |
+| 3 | Елена | Правда, Максимилиан? | Right, Maximilian? | #249 00:15:22: Макс | verbatim |
+| 4 | Макс | Си. | Si. | #249 00:15:22: Макс | verbatim |
+| 5 | Луи | Си? Идиот. | Si? Idiot. | #249 00:15:22: Макс | verbatim |
+| 6 | Луи | Си — это по-итальянски. | Si is in Italian. | #249 00:15:22: Макс | verbatim |
+| 7 | Луи | По-французски будет уи. | In French it will be oui. | #249 00:15:22: Макс | verbatim |
+| 8 | Макс | Да, конечно, я знаю это. | Yes, of course, I know this. | #249 00:15:22: Макс | verbatim |
+| 9 | Елена | Максимилиан, вы понимаете французский язык? | Maximilian, do you understand the French language? | #249 00:15:22: Макс | verbatim |
+| 10 | Макс | Конечно, я прекрасно понимаю французский. | Of course, I understand French perfectly. | #249 00:15:22: Макс | verbatim |
+| 11 | Луи | Ну, что ты будешь делать теперь? | Well, what will you do now? | #249 00:15:22: Макс | verbatim |
+| 12 | Макс | Я прочитаю этот рецепт и приготовлю блюдо. | I will read this recipe and prepare the dish. | #249 00:15:22: Макс | verbatim |
+| 13 | Луи | Это будет очень смешно. | This will be very funny. | #249 00:15:22: Макс | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here everything is in French.' Elena points out a potential issue. She notices that the entire recipe is in French.
-- 'For our chef this is not a problem.' She quickly dismisses the concern. Elena confidently states this is not a problem for their chef.
-- 'Right, Maximilian?' Elena asks Max for confirmation. She prompts him to agree with her.
-- 'Si.' Max gives a confident but incorrect answer. He replies with the Italian word for yes.
-- 'Si? Idiot.' Louis mutters an insult under his breath. He calls Max an idiot for the mistake.
-- 'Si is in Italian.' Louis corrects the language error privately. He points out that 'si' is Italian.
-- 'In French it will be oui.' He provides the correct French translation. Louis notes that it should be 'oui'.
-- 'Yes, of course, I know this.' Max tries to cover his tracks. He quickly agrees and claims he knew that all along.
-- 'Maximilian, do you understand the French language?' Elena is slightly suspicious now. She directly asks if he understands the French language.
-- 'Of course, I understand French perfectly.' Max doubles down on his lie. He confidently asserts that he understands French perfectly.
-- 'Well, what will you do now?' Louis watches with amusement. He wonders aloud how Max is going to get out of this one.
-- 'I will read this recipe and prepare the dish.' Max announces his plan to the room. He says he will read the recipe and cook the dish.
-- 'This will be very funny.' Louis anticipates a disaster. He happily predicts that this will be very funny to watch.
+- 'Here everything is in French.' The little 'po' plus the ending 'i' gives 'in French' as an adverb. The same trick gives 'in Russian' and 'in Italian'.
+- 'For our chef this is not a problem.' The word for 'problem' is the same as the English one, only with an 'a' on the end because it is feminine in Russian.
+- 'Right, Maximilian?' The word for 'truth' is a tag here, like 'isn't it?'. Elena puts him on the spot.
+- 'Si.' It's an Italian 'yes', written in Russian letters. Max has chosen the wrong foreign language, which is the whole joke.
+- 'Si? Idiot.' Louis repeats the word as a question, and then insults him. 'Idiot' is the same as in English, with a Russian ending.
+- 'Si is in Italian.' Here a dash stands for 'is'. 'In Italian' is a single word made with the same 'po' and 'i' trick as 'in French'.
+- 'In French it will be oui.' Louis uses the word 'will be', although English would use 'is'. Russians sometimes use the future for what a word 'turns out to be'.
+- 'Yes, of course, I know this.' The 'I know' is just one word, the 'ya' is in front. 'Konechno' is 'of course' and it's pronounced 'konyeshno'.
+- 'Maximilian, do you understand the French language?' Elena says 'French language' with both words in full, where Russians usually leave out the second. 'Understand' is the polite form.
+- 'Of course, I understand French perfectly.' Here 'French' stands alone, and it's an adjective that does duty as the name of the language. Russians do this all the time.
+- 'Well, what will you do now?' 'Will do' is made of two words, a form of 'be' plus the basic form of 'do'. That is the usual way for a long action in the future.
+- 'I will read this recipe and prepare the dish.' The word for 'read' has a 'pro' in front, and means 'read through to the end'. Max promises to finish the job.
+- 'This will be very funny.' Louis is calm. 'Will be' is the future again, and 'funny' has no 'is' in front.

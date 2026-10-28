@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "In the dining room, a woman introduces Max as a French culinary expert. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Meeting the Chef line by line and unpack how the Russian works."
+INTRO = 'The VIP guests are waiting in the dining room, and Elena stands up to introduce a very special chef. The chef, of course, is Max, who has no idea what is coming. Here is the scene in Russian first.'
+OPENER = "Let's go back through the speech slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The guests are thrilled, but Max now has to actually cook a complex dish. Next time you watch the episode, listen for the Russian expressions for 'expensive' and 'friend' — you will catch every word right away. See you next time!"
+OUTRO = "Max is now the French expert, with a recipe in a language he can't read. When you watch, see how long he keeps smiling. See you next time."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Дорогие друзья, минуточку внимания.', 'Dear friends, a moment of attention.', [(233, 'Макс')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('elena', 'Мы ждем ваш кулинарный шедевр.', 'We are waiting for your culinary masterpiece.', [(233, 'Макс')], ''),
 ]
 WALK = [
-    (0, None, "'Dear friends, a moment of attention.' Elena calls for the room's attention. She asks the dear friends for a moment of quiet."),
-    (1, None, "'I want to introduce you to the best chef.' She prepares to present the guest of honor. Elena announces she wants to introduce the best chef."),
-    (2, None, "'Good evening, dear guests.' Max greets the room confidently. He wishes the dear guests a good evening."),
-    (3, None, "'This is Maximilian, an expert in French cuisine.' Elena introduces Max with a fake title. She calls him an expert in French cuisine."),
-    (4, None, "'I am very glad to be here.' Max plays along with the charade. He politely expresses how glad he is to be there."),
-    (5, None, "'He kindly agreed to prepare an old dish.' Elena explains the special occasion. She says he kindly agreed to prepare an old dish."),
-    (6, None, "'We took it from this French book.' She mentions the source of the recipe. Elena notes they took it from a French book."),
-    (7, None, "'I chose this dish for us.' Elena reveals her specific selection. She proudly states she chose this exact dish for them."),
-    (8, None, "'This is an excellent choice for tonight.' Max compliments her taste. He calls it an excellent choice for the evening."),
-    (9, None, "'Maximilian will prepare it for us today.' Elena sets the expectation for the guests. She announces Max will prepare it today."),
-    (10, None, "'I will do everything in the best way.' Max makes a confident promise. He guarantees he will make it in the best possible way."),
-    (11, None, "'We are waiting for your culinary masterpiece.' Elena expresses her eager anticipation. She says they are waiting for his culinary masterpiece."),
+    (0, None, "'Dear friends, a moment of attention.' A tiny 'minute' with a diminutive ending is how Russians ask for a moment of your time. 'Of attention' sits in the second part, in the form it has after 'a moment of'."),
+    (1, None, "'I want to introduce you to the best chef.' The word for 'introduce' is built on the word for 'acquaintance'. 'With the best' ends in 'im', since you introduce someone 'with' somebody."),
+    (2, None, "'Good evening, dear guests.' Max imitates her tone. The word for 'dear' also means 'expensive', so it's a very flexible word."),
+    (3, None, "'This is Maximilian, an expert in French cuisine.' Notice the 'po', meaning 'on', in 'a specialist on French cuisine'. Russians say 'expert on', not 'expert in'."),
+    (4, None, "'I am very glad to be here.' The short word for 'glad' has no ending for a man. A woman would say 'rada', so you know who is talking."),
+    (5, None, "'He kindly agreed to prepare an old dish.' 'Agreed' ends in 'sya', which is 'agreed himself', and the words for 'kindly' and 'old' are easy to spot. The old-time word is the one used for old Russian towns."),
+    (6, None, "'We took it from this French book.' 'We took it' is two bare words, with the 'it' sitting after the verb. 'Of this book' takes an 'i' ending."),
+    (7, None, "'I chose this dish for us.' She says 'I chose', and the ending 'a' tells you it is a woman. The little 'vot' makes it sound like 'this one here'."),
+    (8, None, "'This is an excellent choice for tonight.' The word for 'choice' is the same family as 'I chose', just with the verb squeezed into a noun. 'Today's evening' is how Russians say 'tonight'."),
+    (9, None, "'Maximilian will prepare it for us today.' 'It' is the word for the dish, and since the dish is neuter, the 'it' is 'ego'. Elena commits him to it in front of the whole room."),
+    (10, None, "'I will do everything in the best way.' 'In the best form' is the idiom, and it means 'to the best of my ability'. Max sounds very sure of himself."),
+    (11, None, "'We are waiting for your culinary masterpiece.' Russian waits the masterpiece, with no 'for'. The word for 'culinary' is a bookish one, and it adds a touch of pomp."),
 ]

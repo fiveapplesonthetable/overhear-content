@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Я не смогу управлять всей кухней! | I cannot manage the whole kitchen! | #65: Я не смогу. | verbatim |
-| 2 | Сеня | У тебя обязательно всё отлично получится! | You will definitely do absolutely great! | #68: У тебя все получится. | verbatim |
+| 1 | Лёва | Я не смогу управлять всей кухней! | I cannot manage the whole kitchen! | #65 00:04:53: Я не смогу. | verbatim |
+| 2 | Сеня | У тебя обязательно всё отлично получится! | You will definitely do absolutely great! | #68 00:04:59: У тебя все получится. | verbatim |
 | 3 | Лёва | Я никогда раньше не заменял шефа. | I have never replaced the chef before. | new | new |
-| 4 | Сеня | Ведь ты наш су-шеф, то есть супер-шеф! | Because you are our sous-chef, that is super-chef! | #69: Ведь ты же су-шеф, а это значит супер-шеф. | verbatim |
+| 4 | Сеня | Ведь ты наш су-шеф, то есть супер-шеф! | Because you are our sous-chef, that is super-chef! | #69 00:05:01: Ведь ты же су-шеф, а это значит супер-шеф. | verbatim |
 | 5 | Лёва | Но шеф всегда так сильно кричит. | But the chef always shouts so loudly. | new | new |
 | 6 | Сеня | А ты просто кричи на всех громче. | And you simply shout at everyone louder. | new | new |
 | 7 | Лёва | Я совсем не умею страшно кричать. | I completely do not know how to shout terribly. | new | new |
@@ -22,22 +22,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Сеня | Очень слабо, Лёва, нужно больше злости! | Very weak, Leva, we need more anger! | new | new |
 | 11 | Лёва | Хорошо, сейчас я соберусь с силами. | All right, now I will gather my strength. | new | new |
 | 12 | Сеня | Ты наш самый лучший главный повар сегодня! | You are our absolute best head chef today! | new | new |
-| 13 | Лёва | Да, я смогу, я точно смогу! | Yes, I can do it, I definitely can! | #70: Да, я смогу.<br>#71: Я точно смогу. | verbatim |
+| 13 | Лёва | Да, я смогу, я точно смогу! | Yes, I can do it, I definitely can! | #70 00:05:06: Да, я смогу.<br>#71 00:05:08: Я точно смогу. | verbatim |
 | 14 | Сеня | Вот теперь я вижу настоящего шефа! | Now I see a real chef! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I cannot manage the whole kitchen!' Lyova is terrified of the responsibility. He claims he cannot run the kitchen alone.
-- 'You will definitely do absolutely great!' Senya tries to build his confidence. He assures Lyova he will do a fantastic job.
-- 'I have never replaced the chef before.' Lyova points out his lack of experience. He admits he has never replaced the Chef before.
-- 'Because you are our sous-chef, that is super-chef!' Senya hypes him up with a pun. He calls him not just a sous-chef, but a super-chef.
-- 'But the chef always shouts so loudly.' Lyova worries about his leadership style. He notes that the Chef always yells so much.
-- 'And you simply shout at everyone louder.' Senya gives him simple advice. He tells Lyova to just yell louder than everyone else.
-- 'I completely do not know how to shout terribly.' Lyova confesses his gentle nature. He says he does not know how to be scary.
-- 'Come on, try to shout loudly at me.' Senya offers to be his practice target. He challenges Lyova to yell at him right now.
-- 'Senya, go cut these vegetables immediately!' Lyova gives it a try. He orders Senya to chop vegetables immediately.
-- 'Very weak, Leva, we need more anger!' Senya critiques the performance. He tells Lyova he needs much more anger in his voice.
-- 'All right, now I will gather my strength.' Lyova prepares for a second attempt. He promises to gather his strength and try again.
-- 'You are our absolute best head chef today!' Senya continues his aggressive encouragement. He calls Lyova the best head chef today.
-- 'Yes, I can do it, I definitely can!' Lyova finally finds his confidence. He excitedly declares that he can actually do this.
-- 'Now I see a real chef!' Senya validates his success. He proudly announces that Lyova finally sounds like a real boss.
+- 'I cannot manage the whole kitchen!' 'Ne smogu' is 'I won't be able'. The word for 'manage' is followed by 'vsey kukhney', with the ending 'ey', which is the 'with' form. Russian says 'manage with the kitchen'.
+- 'You will definitely do absolutely great!' 'Obyazatelno' means 'definitely', and it comes from the word for 'obligatory'. 'U tebya poluchitsya' is 'at you it will turn out', so 'you'll manage'.
+- 'I have never replaced the chef before.' 'Nikogda ranshe ne' means 'never before'. 'Zamenyal' is 'replaced'.
+- 'Because you are our sous-chef, that is super-chef!' Senya's joke only works because 'sous' sounds a bit like 'super', so he makes the word mean 'super-chef'. The two little words 'after all' and 'that is' set it up.
+- 'But the chef always shouts so loudly.' The word for 'always' goes right at the start of the sentence, which is where a nervous Lyova wants it. 'Shouts' is built from the word for 'shout' and has no 'he' before it.
+- 'And you simply shout at everyone louder.' 'Krichi' is the order 'shout!', and 'gromche' is 'louder'. It's the same 'e' ending that 'faster' has.
+- 'I completely do not know how to shout terribly.' 'Umeyu' is 'I know how to', so it's about skill. 'Strashno' means 'terribly', from 'strashny', scary.
+- 'Come on, try to shout loudly at me.' 'Davay' is 'come on'. 'Nakrichat na' is 'to shout at', and the 'na' at the front gives it a feeling of finishing the job.
+- 'Senya, go cut these vegetables immediately!' 'Idi rezat' is 'go cut', two verbs side by side with no 'and'. 'Ovoshchi' is vegetables.
+- 'Very weak, Lyova, we need more anger!' 'Slabo' is 'weakly', and Russians say it as a cutting 'too feeble'. 'Nuzhno bolshe zlosti' is 'it's needed more of anger'.
+- 'All right, now I will gather my strength.' 'Soberus' s silami' is literally 'I will gather myself with strengths', which is how Russians say 'I'll pluck up the courage'.
+- 'You are our very best head chef today!' 'Samy luchshy' is 'the very best', which is overkill on purpose. 'Glavny povar' is 'head cook'.
+- 'Yes, I can do it, I definitely can!' 'Smogu' is 'I will be able', the future of 'to be able'. 'Tochno' means 'exactly' and 'definitely'.
+- 'Now I see a real chef!' 'I see' is a single short word. The word for 'real' changes its ending because the chef is the one being seen.

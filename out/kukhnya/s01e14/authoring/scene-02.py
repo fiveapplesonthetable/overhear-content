@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "Max compliments Sasha on her work and suggests they have some fun. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Thirst for Fun line by line and unpack how the Russian works."
+INTRO = 'At the restaurant, Max finds Sasha admiring a new cake she has decorated. He compliments her, and he has an idea for what to do next. Here is the scene in Russian first.'
+OPENER = 'Now the chat once more, taken slowly.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "They sneak out of the kitchen for a quick break. Next time you watch the episode, listen for the Russian expressions for 'to see' and 'new' — you will catch every word right away. See you next time!"
+OUTRO = 'Sasha leaves her apron behind, and the two of them head outside. When you watch, keep an eye on the cake. Speak soon.'
 CLOSING = ('sasha', 'Пока!')
 STORY = [
     ('max', 'Саша, ты видела новый красивый торт?', 'Sasha, did you see the new beautiful cake?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('sasha', 'Подожди, я только сниму свой фартук.', 'Wait, I will just take off my apron.', [], ''),
 ]
 WALK = [
-    (0, None, "'Sasha, did you see the new beautiful cake?' Max compliments Sasha on the cake. He asks if she saw how beautiful it looks."),
-    (1, None, "'Of course, I decorated it myself today.' Sasha proudly takes credit. She mentions she decorated it herself."),
-    (2, None, "'It looks simply magnificent.' Max flatters her work. He calls the cake absolutely magnificent."),
-    (3, None, "'Thank you, I tried very hard.' Sasha thanks him sincerely. She admits she put a lot of effort into it."),
-    (4, None, "'Has the chef already seen your new work?' Max asks about the Chef's reaction. He wonders if the boss noticed her hard work."),
-    (5, None, "'Yes, he was very satisfied with me.' Sasha beams with pride. She confirms that the Chef was very happy with her."),
-    (6, None, "'And you pulled it off.' Max congratulates her success. He says she really managed to pull it off."),
-    (7, None, "'And now we can rest a little.' Sasha feels relieved. She says they can finally take a short break."),
-    (8, None, "'Who wants to have some fun?' Max takes the opportunity to flirt. He asks who wants to have some fun."),
-    (9, None, "'I do.' Sasha eagerly agrees. She says she definitely wants to have fun."),
-    (10, None, "'Then let us go outside with me.' Max invites her outside. He suggests they go out to the street together."),
-    (11, None, "'Wait, I will just take off my apron.' Sasha asks him to hold on for a second. She just needs to take off her apron."),
+    (0, None, "'Sasha, did you see the new beautiful cake?' 'Videla' ends in 'a' because Sasha is a woman. Both 'novy' and 'krasivy' end in 'y' to match 'tort', a masculine word."),
+    (1, None, "'Of course, I decorated it myself today.' 'Sama' is 'by myself', and it ends in 'a' because Sasha is speaking. 'Ego' is 'it', and in Russian a cake is a 'he'."),
+    (2, None, "'It looks simply magnificent.' Russian says 'he looks', 'on vyglyadit', because 'tort' is a masculine word. 'Velikolepno' is the adverb 'magnificently'."),
+    (3, None, "'Thank you, I tried very hard.' 'Staralas'' ends in 'sya', so it's 'I tried myself'. 'Ochen silno' is 'very strongly', which is how you say 'very hard' in Russian."),
+    (4, None, "'Has the chef already seen your new work?' 'Tvoyu novuyu rabotu' is 'your new work', where 'work' takes the 'u' it needs after 'saw'. 'Uzhe' means 'already'."),
+    (5, None, "'Yes, he was very satisfied with me.' 'Dovolen' is 'pleased', and it takes the ending 'oy' on the person: 'mnoy' is 'with me'. So Russian says 'pleased by me'."),
+    (6, None, "'And you pulled it off.' 'U vas poluchilos'' is literally 'at you it turned out', which is how Russians say 'you managed it'. Max suddenly switches to the formal 'you'."),
+    (7, None, "'And now we can rest a little.' 'Mozhno' is the handy word for 'it's allowed' or 'we can'. 'Otdokhnut' is 'to have a rest'."),
+    (8, None, "'Who wants to have some fun?' 'Povesilitsya' is 'to enjoy oneself', and it's from 'veselye', fun. The 'sya' at the end makes it 'amuse oneself'."),
+    (9, None, "'I do.' Sasha answers with just 'ya khochu', 'I want', and leaves out anything else. Russians answer a question by repeating its verb, so there is no word for 'yes' needed."),
+    (10, None, "'Then let us go outside with me.' 'Na ulitsu' is 'onto the street', which is how Russians say 'outside'. 'Poydyom' is 'let's go', and 'so mnoy' is 'with me'."),
+    (11, None, "'Wait, I will just take off my apron.' 'Snimu' is 'I will take off', and the thing you take off is the apron, 'fartuk'. 'Svoy' means 'my own', which Russians like to add."),
 ]

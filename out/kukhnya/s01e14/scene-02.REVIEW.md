@@ -16,24 +16,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Саша | Спасибо, я очень сильно старалась. | Thank you, I tried very hard. | new | new |
 | 5 | Макс | Шеф уже видел твою новую работу? | Has the chef already seen your new work? | new | new |
 | 6 | Саша | Да, он был очень доволен мной. | Yes, he was very satisfied with me. | new | new |
-| 7 | Макс | И это у вас получилось. | And you pulled it off. | #4: И это у вас получилось. | verbatim |
+| 7 | Макс | И это у вас получилось. | And you pulled it off. | #4 00:00:48: И это у вас получилось. | verbatim |
 | 8 | Саша | А теперь можно немного отдохнуть. | And now we can rest a little. | new | new |
-| 9 | Макс | Кто тут хочет повеселиться? | Who wants to have some fun? | #5: Кто тут хочет повеселиться? | verbatim |
-| 10 | Саша | Я хочу. | I do. | #6: Я хочу. | verbatim |
+| 9 | Макс | Кто тут хочет повеселиться? | Who wants to have some fun? | #5 00:00:50: Кто тут хочет повеселиться? | verbatim |
+| 10 | Саша | Я хочу. | I do. | #6 00:00:52: Я хочу. | verbatim |
 | 11 | Макс | Тогда пойдём со мной на улицу. | Then let us go outside with me. | new | new |
 | 12 | Саша | Подожди, я только сниму свой фартук. | Wait, I will just take off my apron. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, did you see the new beautiful cake?' Max compliments Sasha on the cake. He asks if she saw how beautiful it looks.
-- 'Of course, I decorated it myself today.' Sasha proudly takes credit. She mentions she decorated it herself.
-- 'It looks simply magnificent.' Max flatters her work. He calls the cake absolutely magnificent.
-- 'Thank you, I tried very hard.' Sasha thanks him sincerely. She admits she put a lot of effort into it.
-- 'Has the chef already seen your new work?' Max asks about the Chef's reaction. He wonders if the boss noticed her hard work.
-- 'Yes, he was very satisfied with me.' Sasha beams with pride. She confirms that the Chef was very happy with her.
-- 'And you pulled it off.' Max congratulates her success. He says she really managed to pull it off.
-- 'And now we can rest a little.' Sasha feels relieved. She says they can finally take a short break.
-- 'Who wants to have some fun?' Max takes the opportunity to flirt. He asks who wants to have some fun.
-- 'I do.' Sasha eagerly agrees. She says she definitely wants to have fun.
-- 'Then let us go outside with me.' Max invites her outside. He suggests they go out to the street together.
-- 'Wait, I will just take off my apron.' Sasha asks him to hold on for a second. She just needs to take off her apron.
+- 'Sasha, did you see the new beautiful cake?' 'Videla' ends in 'a' because Sasha is a woman. Both 'novy' and 'krasivy' end in 'y' to match 'tort', a masculine word.
+- 'Of course, I decorated it myself today.' 'Sama' is 'by myself', and it ends in 'a' because Sasha is speaking. 'Ego' is 'it', and in Russian a cake is a 'he'.
+- 'It looks simply magnificent.' Russian says 'he looks', 'on vyglyadit', because 'tort' is a masculine word. 'Velikolepno' is the adverb 'magnificently'.
+- 'Thank you, I tried very hard.' 'Staralas'' ends in 'sya', so it's 'I tried myself'. 'Ochen silno' is 'very strongly', which is how you say 'very hard' in Russian.
+- 'Has the chef already seen your new work?' 'Tvoyu novuyu rabotu' is 'your new work', where 'work' takes the 'u' it needs after 'saw'. 'Uzhe' means 'already'.
+- 'Yes, he was very satisfied with me.' 'Dovolen' is 'pleased', and it takes the ending 'oy' on the person: 'mnoy' is 'with me'. So Russian says 'pleased by me'.
+- 'And you pulled it off.' 'U vas poluchilos'' is literally 'at you it turned out', which is how Russians say 'you managed it'. Max suddenly switches to the formal 'you'.
+- 'And now we can rest a little.' 'Mozhno' is the handy word for 'it's allowed' or 'we can'. 'Otdokhnut' is 'to have a rest'.
+- 'Who wants to have some fun?' 'Povesilitsya' is 'to enjoy oneself', and it's from 'veselye', fun. The 'sya' at the end makes it 'amuse oneself'.
+- 'I do.' Sasha answers with just 'ya khochu', 'I want', and leaves out anything else. Russians answer a question by repeating its verb, so there is no word for 'yes' needed.
+- 'Then let us go outside with me.' 'Na ulitsu' is 'onto the street', which is how Russians say 'outside'. 'Poydyom' is 'let's go', and 'so mnoy' is 'with me'.
+- 'Wait, I will just take off my apron.' 'Snimu' is 'I will take off', and the thing you take off is the apron, 'fartuk'. 'Svoy' means 'my own', which Russians like to add.
