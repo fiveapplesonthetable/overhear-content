@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Хостес | Здравствуйте. | Hello. | #152: Здравствуйте. | verbatim |
+| 1 | Хостес | Здравствуйте. | Hello. | #152 00:10:02: Здравствуйте. | verbatim |
 | 2 | Шеф | Доброе утро. | Good morning. | new | new |
 | 3 | Хостес | Шеф, вас ожидают. | Chef, they are waiting for you. | new | new |
 | 4 | Шеф | Кто меня ждет? | Who is waiting for me? | new | new |
-| 5 | Хостес | Дима тебя ждет. | Dima is waiting for you. | new | new |
+| 5 | Хостес | Дмитрий Владимирович вас ждёт. | Dmitry Vladimirovich is waiting for you. | new | new |
 | 6 | Шеф | Нагиев здесь? | Nagiyev is here? | new | new |
 | 7 | Хостес | Да, он за своим столом. | Yes, he is at his table. | new | new |
 | 8 | Шеф | Что он хочет? | What does he want? | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello.' Hostess offers a standard greeting to the chef.
-- 'Good morning.' Barinov replies with a standard morning greeting.
-- 'Chef, they are waiting for you.' Stopping the chef by the kitchen doors, the hostess politely informs him that someone is waiting for him.
-- 'Who is waiting for me?' Barinov demands to know exactly who is looking for him.
-- 'Dima is waiting for you.' She clarifies that restaurant owner Dmitry Nagiyev is asking for him in the dining room.
-- 'Nagiyev is here?' Barinov reacts with surprise that the owner is on the premises.
-- 'Yes, he is at his table.' Pointing toward the hall, she confirms that Nagiyev is sitting at his usual corner table.
-- 'What does he want?' Barinov questions the owner's motives for showing up unannounced.
-- 'I do not know.' When Viktor asks what the boss wants, the hostess shrugs and admits she has no idea.
-- 'He usually calls first.' Barinov points out this breaks Nagiyev's usual habit of calling ahead.
-- 'He seems very excited.' Hostess notes that the owner appears quite worked up today.
-- 'Okay, I am coming.' Barinov resigns himself to the meeting and says he will go.
-- 'Bring him some coffee.' Barinov barks an order for coffee to placate the boss.
+- 'Hello.' The long formal hello, with a silent 'v' at the start. The hostess uses the polite form.
+- 'Good morning.' 'Morning' is neuter, so 'good' ends in 'oe'. A short, friendly reply.
+- 'Chef, they're waiting for you.' 'You' goes first, as 'vas'. 'They await' has no 'they'.
+- 'Who's waiting for me?' 'Who' comes first. 'Waits' ends in 't', for 'he'.
+- 'Dmitry Vladimirovich is waiting for you.' She uses his first name and patronymic. 'You' is the polite form.
+- 'Is Nagiyev here?' There's no 'is'. The question lives on the rising voice.
+- 'Yes, he's at his table.' 'Behind his own table' is how Russian says 'at his table'. 'His own' points back to the owner.
+- 'What does he want?' 'He wants' is irregular. 'What' sits at the front.
+- 'I don't know.' One of the shortest sentences you can say. 'I know' ends in 'u'.
+- 'He usually rings first.' 'Usually' ends in 'o'. 'First' is a single word.
+- 'He seems very agitated.' 'Seems' is one word, and 'agitated' comes from 'wave'. It ends in 'ym' because it follows 'seems'.
+- 'Okay, I'm coming.' 'I go' is a short word with a 'u' ending. A quick reply.
+- 'Bring him some coffee.' 'Bring' is the casual command. 'To him' is 'emu', and coffee never changes.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = 'This is the final episode of the first season of Kukhnya, and everything is about to change. Elena comes to the apartment where Max and the Chef live early in the morning.'
-OPENER = "Now let's go back through the conversation line by line."
+INTRO = "It is early morning, and Elena arrives looking for someone. A voice answers the door, and a short and slightly odd conversation follows. We'll hear it in Russian first."
+OPENER = "Let's go through it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Elena comes to the apartment where Max and the Chef live early in the morning. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
+OUTRO = "The door opens, and the season comes to its end. Notice the verb 'dozvonitsya', which means 'to get through' on the phone, and is built from 'ring' with a prefix and 'sya'. See you next time!"
 CLOSING = ('elena', 'До свидания!')
 STORY = [
     ('elena', 'Здрасте.', 'Hello.', [(330, 'Здрасте')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Проходите.', 'Come in.', [(333, 'Проходите')], ''),
 ]
 WALK = [
-    (0, None, "'Hello.' Elena offers a very casual, shortened greeting as she arrives at the apartment early in the morning."),
-    (1, None, "'Good morning.' Elena follows up with a standard morning greeting."),
-    (2, None, "'Is this Max?' She wants to make sure she is talking to the right person."),
-    (3, None, "'Yes, it is me.' Max confirms his identity using a simple phrase that directly connects the word for this with himself."),
-    (4, None, "'I am looking for him.' Elena states her purpose immediately, using a single action word to explain she is trying to find the Chef."),
-    (5, None, "'At home I can't reach him.' Elena explains her early visit by noting she could not reach him by phone at his own place."),
-    (6, None, "'Where is he?' Elena demands to know his location with a blunt, one-word question."),
-    (7, None, "'I don't know.' Max answers honestly that he has no idea where his roommate is."),
-    (8, None, "'Probably, the keys are hanging.' Max notices the keys are on the hook, guessing that this means the Chef has not left."),
-    (9, None, "'So, he is home.' Max concludes logically that the Chef must be around, linking the word for means directly to at home."),
-    (10, None, "'Do you want to come in?' Max politely asks if she would like to step inside, raising his voice at the end of the sentence to form the question."),
-    (11, None, "'Come in.' Max invites her to enter by using a direct, formal request."),
+    (0, None, "'Hello.' This is the clipped version of the long hello, with half the letters dropped. It's what you say to someone at the door."),
+    (1, None, "'Good morning.' The word for 'morning' is neuter, so the word for 'good' ends in 'oe'. A plain greeting."),
+    (2, None, "'Is that Max?' There's no verb, just 'this Max'. The question lives on the voice."),
+    (3, None, "'Yes, that's me.' Russian says 'this I' where English says 'that's me'. 'I' stays in its plain form."),
+    (4, None, "'I'm looking for him.' The word for 'look for' changes its consonants, so 'sk' turns into 'shch', and the word for 'him' takes the 'yego' form."),
+    (5, None, "'I can't get through to him at home.' The word for 'get through' is built from 'ring' with a prefix and 'sya', and 'at home' is one word."),
+    (6, None, "'Where is he?' There's no 'is', just 'where he'. A very short question."),
+    (7, None, "'I don't know.' The word for 'I know' ends in 'u', and the word for 'not' stands in front."),
+    (8, None, "'Probably the keys are hanging there.' Russians say keys 'hang', and the word for 'probably' is a single word."),
+    (9, None, "'So he's at home.' The word for 'it means' is used for 'so'. 'At home' needs no word for 'is'."),
+    (10, None, "'Do you want to come in?' The word for 'come in' is the plain form, and the word for 'do you want' is the polite plural."),
+    (11, None, "'Come in.' The polite command, ending in 'ite', is the usual invitation. Max says it simply."),
 ]

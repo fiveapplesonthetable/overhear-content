@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Ты сейчас серьёзно? | Are you serious right now? | #140: Ты больше | verbatim |
+| 1 | Костя | Ты сейчас серьёзно? | Are you serious right now? | #140 00:08:45: Ты больше | verbatim |
 | 2 | Настя | Да, я абсолютно серьёзна. | Yes, I am completely serious. | new | new |
 | 3 | Костя | Я этого не ожидал. | I did not expect this. | new | new |
 | 4 | Настя | Тебе следовало этого ожидать. | You should have expected it. | new | new |
@@ -20,22 +20,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Настя | Я хочу серьёзных отношений. | I want a serious relationship. | new | new |
 | 9 | Костя | Я очень стараюсь. | I am trying my best. | new | new |
 | 10 | Настя | Этого недостаточно, Костя. | It is not enough, Kostya. | new | new |
-| 11 | Костя | Ты больше... | You are not... | new | new |
-| 12 | Настя | Не что? | Not what? | new | new |
+| 11 | Костя | Ты на меня сердишься? | Are you angry with me? | new | new |
+| 12 | Настя | Нет, я не сержусь. | No, I am not angry. | new | new |
 | 13 | Костя | Ты не счастлива со мной? | You are not happy with me? | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you serious right now?' Kostya is in disbelief at what he is hearing.
-- 'Yes, I am completely serious.' Nastya confirms her stance without any doubt.
-- 'I did not expect this.' Kostya admits he was completely blindsided.
-- 'You should have expected it.' Nastya implies he should have seen the signs.
-- 'Yesterday everything was so good.' Kostya reminisces about their recent positive past.
-- 'Yesterday is in the past.' Nastya dismisses the past as irrelevant now.
-- 'What do you want from me?' Kostya asks for clear demands.
-- 'I want a serious relationship.' Nastya bluntly states her ultimate goal.
-- 'I am trying my best.' Kostya defends his current efforts in the relationship.
-- 'It is not enough, Kostya.' Nastya tells him his efforts are falling short.
-- 'You are not...' Kostya trails off, unsure of how to respond.
-- 'Not what?' Nastya prompts him to finish his thought.
-- 'You are not happy with me?' Kostya voices his ultimate fear about her feelings.
+- 'Are you serious right now?' There's no verb, just 'you now seriously'. 'Seriously' ends in 'o', like many words that say how.
+- 'Yes, I'm completely serious.' 'Serious' has an 'a' at the end because Nastya is a woman. 'Completely' is a borrowed word.
+- 'I didn't expect this.' After a negative, 'this' takes the 'of' form, 'etogo'. 'Expected' ends in the masculine 'l'.
+- 'You should have expected it.' The word 'sledovalo' is neuter and means 'it was due', from 'follow'. 'To you' is the first word.
+- 'Everything was so good yesterday.' 'Was' is neuter, to go with 'everything'. 'So good' is two small words.
+- 'Yesterday is in the past.' The line really says 'yesterday stayed in the past'. 'In the past' ends in 'om'.
+- 'What do you want from me?' 'You want' is irregular, ending in 'sh'. 'From me' is a small word and 'menya'.
+- 'I want a serious relationship.' After 'want', the plural takes the 'of' form. So 'serious' and 'relationships' both change.
+- 'I'm trying my best.' 'Try' ends in 'sya'. 'Very' sits in front of it.
+- 'It's not enough, Kostya.' The word is built from 'not' plus 'enough'. 'This' takes the 'of' form.
+- 'Are you angry with me?' Russians are angry 'on' someone. 'Be angry' ends in 'sya'.
+- 'No, I'm not angry.' The 'd' of 'angry' changes to 'zh' for 'I'. It is the same change as in 'I see'.
+- 'Aren't you happy with me?' 'Happy' ends in 'a' for a woman. 'With me' is the irregular 'so mnoy'.

@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Костя, ты купил кольцо для Насти? | Kostya, did you buy a ring for Nastya? | #207: Ну что, купил кольцо? Да. | verbatim |
+| 1 | Макс | Костя, ты купил кольцо для Насти? | Kostya, did you buy a ring for Nastya? | #207 00:13:37: Ну что, купил кольцо? Да. | verbatim |
 | 2 | Костя | Да, я купил. А ты купил? | Yes, I bought it. And did you buy? | new | new |
 | 3 | Макс | Да, я тоже купил кольцо для Вики. | Yes, I also bought a ring for Vika. | new | new |
 | 4 | Костя | Покажи мне свое кольцо, пожалуйста. | Show me your ring, please. | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, did you buy a ring for Nastya?' Max asks his friend directly if he purchased the engagement ring.
-- 'Yes, I bought it. And did you buy?' Kostya confirms his purchase and throws the question right back.
-- 'Yes, I also bought a ring for Vika.' Max proudly announces he got one for Vika as well.
-- 'Show me your ring, please.' Kostya asks to see the jewelry his friend picked out.
-- 'Are you buying rings for each other?' Senya overhears and makes a sarcastic joke about their relationship.
-- 'What is it to you, Senya? Go away.' Max angrily tells Senya to mind his own business and leave.
-- 'Just interesting, when will be your wedding?' Senya continues teasing them about a hypothetical wedding.
-- 'This is not your problem. Shut up.' Kostya aggressively shuts down the kitchen prankster.
-- 'Okay, okay. I just joked.' Senya backs off, claiming he was only messing around.
-- 'Did you already give the ring to Nastya?' Max refocuses and asks if the proposal happened yet.
-- 'Not yet. I want to do this now.' Kostya admits he is still waiting for the right moment today.
-- 'Good luck to you, Kostya. This is an important moment.' Max offers sincere encouragement for the big step.
-- 'Thank you, Max. Good luck to you with Vika too.' Kostya returns the supportive wishes for Max's own proposal.
-- 'Yes, I need big luck today.' Max admits he is going to need all the help he can get.
+- 'Kostya, did you buy a ring for Nastya?' The name changes its ending after 'for', with the final 'ya' turning into 'i'. 'Bought' ends in the masculine 'l'.
+- 'Yes, I bought one. Did you?' Kostya repeats 'bought' as his answer. That is how Russians say yes.
+- 'Yes, I bought a ring for Vika too.' The girl's name takes the same 'i' ending after 'for'. 'Too' sits in front of 'bought'.
+- 'Show me your ring, please.' 'Show' is the casual command. 'Own' is a special word, here in the neuter, as 'ring' is neuter.
+- 'Are you buying rings for each other?' 'Friend for friend' is the Russian for 'for each other'. 'You buy' is plural.
+- 'What's it to you, Senya? Go away.' 'To you what business' is the rude 'mind your own'. 'Go away' is a finished action.
+- 'I'm just curious, when's your wedding?' 'Interesting' on its own means 'I wonder'. 'Wedding' is a word you'll learn quickly.
+- 'It's not your problem. Shut up.' 'Shut up' has a prefix 'za' on 'be silent'. It is a rude command.
+- 'Okay, okay. I was only joking.' 'Joked' has the prefix 'po', for 'cracked a joke'. Doubling 'okay' sounds soothing.
+- 'Have you already given the ring to Nastya?' The name takes an 'e' ending when someone is given something. 'Gave as a gift' is the finished kind.
+- 'Not yet. I want to do it now.' 'Not yet' is literally 'still no'. 'Now' closes the line.
+- 'Good luck, Kostya. It's an important moment.' 'Of luck to you' is the wish. 'Important' agrees with the masculine 'moment'.
+- 'Thanks, Max. Good luck with Vika too.' The girl's name takes an 'oy' ending after 'with'. 'Too' sits before 'luck'.
+- 'Yes, I need lots of luck today.' 'Needed' ends in 'a' to match the feminine 'luck'. 'Big' ends in 'aya' for the same reason.

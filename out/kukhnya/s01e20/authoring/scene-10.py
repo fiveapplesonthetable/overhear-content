@@ -10,17 +10,17 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'hostess': 'Хостес'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = 'The hostess spots Chef Viktor and delivers an important message from a celebrity, and we will listen to them in Russian first; do not worry about catching every single word.'
-OPENER = "Now let's go back through the exchange around Dima is Waiting line by line and unpack how the Russian works."
+INTRO = "At the start of the day, the hostess finds Chef Barinov and tells him that the restaurant's owner is waiting for him. Barinov wonders what he wants. We'll hear it in Russian first."
+OPENER = "Let's go over it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The chef heads out to the dining room to see what the celebrity wants. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
-CLOSING = ('barinov', 'Пока!')
+OUTRO = "Barinov goes to find out, and asks for coffee to be brought. 'Excited', 'vzvolnovannyy', comes from 'wave', which makes sense. See you next time!"
+CLOSING = ('barinov', 'До свидания!')
 STORY = [
     ('hostess', 'Здравствуйте.', 'Hello.', [(152, 'Здравствуйте.')], ''),
     ('barinov', 'Доброе утро.', 'Good morning.', [], ''),
     ('hostess', 'Шеф, вас ожидают.', 'Chef, they are waiting for you.', [], ''),
     ('barinov', 'Кто меня ждет?', 'Who is waiting for me?', [], ''),
-    ('hostess', 'Дима тебя ждет.', 'Dima is waiting for you.', [], ''),
+    ('hostess', 'Дмитрий Владимирович вас ждёт.', 'Dmitry Vladimirovich is waiting for you.', [], ''),
     ('barinov', 'Нагиев здесь?', 'Nagiyev is here?', [], ''),
     ('hostess', 'Да, он за своим столом.', 'Yes, he is at his table.', [], ''),
     ('barinov', 'Что он хочет?', 'What does he want?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Принеси ему немного кофе.', 'Bring him some coffee.', [], ''),
 ]
 WALK = [
-    (0, None, "'Hello.' Hostess offers a standard greeting to the chef."),
-    (1, None, "'Good morning.' Barinov replies with a standard morning greeting."),
-    (2, None, "'Chef, they are waiting for you.' Stopping the chef by the kitchen doors, the hostess politely informs him that someone is waiting for him."),
-    (3, None, "'Who is waiting for me?' Barinov demands to know exactly who is looking for him."),
-    (4, None, "'Dima is waiting for you.' She clarifies that restaurant owner Dmitry Nagiyev is asking for him in the dining room."),
-    (5, None, "'Nagiyev is here?' Barinov reacts with surprise that the owner is on the premises."),
-    (6, None, "'Yes, he is at his table.' Pointing toward the hall, she confirms that Nagiyev is sitting at his usual corner table."),
-    (7, None, "'What does he want?' Barinov questions the owner's motives for showing up unannounced."),
-    (8, None, "'I do not know.' When Viktor asks what the boss wants, the hostess shrugs and admits she has no idea."),
-    (9, None, "'He usually calls first.' Barinov points out this breaks Nagiyev's usual habit of calling ahead."),
-    (10, None, "'He seems very excited.' Hostess notes that the owner appears quite worked up today."),
-    (11, None, "'Okay, I am coming.' Barinov resigns himself to the meeting and says he will go."),
-    (12, None, "'Bring him some coffee.' Barinov barks an order for coffee to placate the boss."),
+    (0, None, "'Hello.' The long formal hello, with a silent 'v' at the start. The hostess uses the polite form."),
+    (1, None, "'Good morning.' 'Morning' is neuter, so 'good' ends in 'oe'. A short, friendly reply."),
+    (2, None, "'Chef, they're waiting for you.' 'You' goes first, as 'vas'. 'They await' has no 'they'."),
+    (3, None, "'Who's waiting for me?' 'Who' comes first. 'Waits' ends in 't', for 'he'."),
+    (4, None, "'Dmitry Vladimirovich is waiting for you.' She uses his first name and patronymic. 'You' is the polite form."),
+    (5, None, "'Is Nagiyev here?' There's no 'is'. The question lives on the rising voice."),
+    (6, None, "'Yes, he's at his table.' 'Behind his own table' is how Russian says 'at his table'. 'His own' points back to the owner."),
+    (7, None, "'What does he want?' 'He wants' is irregular. 'What' sits at the front."),
+    (8, None, "'I don't know.' One of the shortest sentences you can say. 'I know' ends in 'u'."),
+    (9, None, "'He usually rings first.' 'Usually' ends in 'o'. 'First' is a single word."),
+    (10, None, "'He seems very agitated.' 'Seems' is one word, and 'agitated' comes from 'wave'. It ends in 'ym' because it follows 'seems'."),
+    (11, None, "'Okay, I'm coming.' 'I go' is a short word with a 'u' ending. A quick reply."),
+    (12, None, "'Bring him some coffee.' 'Bring' is the casual command. 'To him' is 'emu', and coffee never changes."),
 ]

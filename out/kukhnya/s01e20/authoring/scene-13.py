@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = 'Max and Kostya are talking in the kitchen about the beautiful rings they bought for their girlfriends. Senya overhears them and makes a stupid joke about them getting married to each other.'
-OPENER = "Now let's examine this conversation line by line."
+INTRO = "Max and Kostya are both nervous: each has bought a ring for his girlfriend, and each wants to see the other's. Senya overhears and makes a joke at their expense. We'll hear it in Russian first."
+OPENER = "Let's replay it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya decides to go and give the ring to Nastya right away. Max wishes his friend good luck with his romantic proposal. Next time you watch the episode, listen for the Russian expressions for 'to buy' and 'ring' — you will catch every word right away. See you next time!"
-CLOSING = ('max', 'Пока!')
+OUTRO = "Both friends are about to find out whether they've chosen the right moment. 'Drug dlya druga' means 'for each other' and is literally 'friend for friend'. See you next time!"
+CLOSING = ('kostya', 'До свидания!')
 STORY = [
     ('max', 'Костя, ты купил кольцо для Насти?', 'Kostya, did you buy a ring for Nastya?', [(207, 'Ну что, купил кольцо? Да.')], ''),
     ('kostya', 'Да, я купил. А ты купил?', 'Yes, I bought it. And did you buy?', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Да, мне нужна большая удача сегодня.', 'Yes, I need big luck today.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, did you buy a ring for Nastya?' Max asks his friend directly if he purchased the engagement ring."),
-    (1, None, "'Yes, I bought it. And did you buy?' Kostya confirms his purchase and throws the question right back."),
-    (2, None, "'Yes, I also bought a ring for Vika.' Max proudly announces he got one for Vika as well."),
-    (3, None, "'Show me your ring, please.' Kostya asks to see the jewelry his friend picked out."),
-    (4, None, "'Are you buying rings for each other?' Senya overhears and makes a sarcastic joke about their relationship."),
-    (5, None, "'What is it to you, Senya? Go away.' Max angrily tells Senya to mind his own business and leave."),
-    (6, None, "'Just interesting, when will be your wedding?' Senya continues teasing them about a hypothetical wedding."),
-    (7, None, "'This is not your problem. Shut up.' Kostya aggressively shuts down the kitchen prankster."),
-    (8, None, "'Okay, okay. I just joked.' Senya backs off, claiming he was only messing around."),
-    (9, None, "'Did you already give the ring to Nastya?' Max refocuses and asks if the proposal happened yet."),
-    (10, None, "'Not yet. I want to do this now.' Kostya admits he is still waiting for the right moment today."),
-    (11, None, "'Good luck to you, Kostya. This is an important moment.' Max offers sincere encouragement for the big step."),
-    (12, None, "'Thank you, Max. Good luck to you with Vika too.' Kostya returns the supportive wishes for Max's own proposal."),
-    (13, None, "'Yes, I need big luck today.' Max admits he is going to need all the help he can get."),
+    (0, None, "'Kostya, did you buy a ring for Nastya?' The name changes its ending after 'for', with the final 'ya' turning into 'i'. 'Bought' ends in the masculine 'l'."),
+    (1, None, "'Yes, I bought one. Did you?' Kostya repeats 'bought' as his answer. That is how Russians say yes."),
+    (2, None, "'Yes, I bought a ring for Vika too.' The girl's name takes the same 'i' ending after 'for'. 'Too' sits in front of 'bought'."),
+    (3, None, "'Show me your ring, please.' 'Show' is the casual command. 'Own' is a special word, here in the neuter, as 'ring' is neuter."),
+    (4, None, "'Are you buying rings for each other?' 'Friend for friend' is the Russian for 'for each other'. 'You buy' is plural."),
+    (5, None, "'What's it to you, Senya? Go away.' 'To you what business' is the rude 'mind your own'. 'Go away' is a finished action."),
+    (6, None, "'I'm just curious, when's your wedding?' 'Interesting' on its own means 'I wonder'. 'Wedding' is a word you'll learn quickly."),
+    (7, None, "'It's not your problem. Shut up.' 'Shut up' has a prefix 'za' on 'be silent'. It is a rude command."),
+    (8, None, "'Okay, okay. I was only joking.' 'Joked' has the prefix 'po', for 'cracked a joke'. Doubling 'okay' sounds soothing."),
+    (9, None, "'Have you already given the ring to Nastya?' The name takes an 'e' ending when someone is given something. 'Gave as a gift' is the finished kind."),
+    (10, None, "'Not yet. I want to do it now.' 'Not yet' is literally 'still no'. 'Now' closes the line."),
+    (11, None, "'Good luck, Kostya. It's an important moment.' 'Of luck to you' is the wish. 'Important' agrees with the masculine 'moment'."),
+    (12, None, "'Thanks, Max. Good luck with Vika too.' The girl's name takes an 'oy' ending after 'with'. 'Too' sits before 'luck'."),
+    (13, None, "'Yes, I need lots of luck today.' 'Needed' ends in 'a' to match the feminine 'luck'. 'Big' ends in 'aya' for the same reason."),
 ]

@@ -10,17 +10,17 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = 'Kostya wakes up in a good mood and misinterprets the situation completely, and we will listen to their dialogue in Russian first; do not worry about catching every single word.'
-OPENER = "Now let's go back through the exchange around A Morning Surprise line by line and unpack how the Russian works."
+INTRO = "Kostya wakes up in a good mood and greets Nastya affectionately. She is not in the same mood at all, and it takes him a while to find out why. We'll hear it in Russian first."
+OPENER = "Let's take it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Nastya quickly ruins his playful mood by bringing up their previous serious chat in this scene. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
-CLOSING = ('kostya', 'Пока!')
+OUTRO = "Kostya tries to be charming and only makes things worse. Notice that 'moya dorogaya' means 'my dear', and that it's the feminine form of 'dear' used as a noun. See you next time!"
+CLOSING = ('kostya', 'До свидания!')
 STORY = [
     ('kostya', 'Доброе утро, моя дорогая.', 'Good morning, my dear.', [(141, 'проснулся и хочешь поиграть со мной?')], ''),
     ('nastya', 'Это не доброе утро.', 'It is not a good morning.', [], ''),
     ('kostya', 'Почему ты так на меня смотришь?', 'Why are you looking at me like that?', [], ''),
     ('nastya', 'Я ждала, когда ты проснешься.', 'I have been waiting for you to wake up.', [], ''),
-    ('kostya', 'Ты проснулась и хочешь поиграть со мной?', 'Are you awake and wanting to play with me?', [], ''),
+    ('kostya', 'Ты уже проснулась? Хочешь кофе?', 'Are you awake already? Do you want coffee?', [], ''),
     ('nastya', 'Нет, Костя.', 'No, Kostya.', [], ''),
     ('kostya', 'А...', 'Ah...', [], ''),
     ('kostya', 'Я сделал что-то не так?', 'Did I do something wrong?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Я просто пытаюсь быть милым.', 'I am just trying to be nice.', [], ''),
 ]
 WALK = [
-    (0, None, "'Good morning, my dear.' Kostya greets her warmly, combining the words for 'good' and 'morning' without any action word."),
-    (1, None, "'It is not a good morning.' Nastya coldly echoes his greeting, adding a 'not' right before 'good' to show her mood."),
-    (2, None, "'Why are you looking at me like that?' Kostya notices her glare and demands to know 'why' she is staring."),
-    (3, None, "'I have been waiting for you to wake up.' Nastya points out she has been waiting, putting 'when' right at the beginning of her sentence."),
-    (4, None, "'Are you awake and wanting to play with me?' Kostya tries to lighten the mood, turning his guess about her wanting to play into a playful question."),
-    (5, None, "'No, Kostya.' Nastya firmly shuts him down, simply pairing 'no' with his name."),
-    (6, None, "'Ah...' Kostya makes a brief noise of realization."),
-    (7, None, "'Did I do something wrong?' Kostya realizes he messed up, asking if he did something wrong with a rising tone."),
-    (8, None, "'You forgot what we discussed.' Nastya accuses him directly, highlighting that he completely 'forgot' their conversation."),
-    (9, None, "'I remember everything.' Kostya quickly defends himself with a single confident word meaning 'remember'."),
-    (10, None, "'Then why are you joking?' Nastya challenges him, using the casual 'you' to ask why he is messing around."),
-    (11, None, "'I am just trying to be nice.' Kostya explains his behavior, emphasizing that he is the one 'trying'."),
+    (0, None, "'Good morning, my dear.' 'Dear' is feminine, ending in 'aya', and is used as a noun. 'Morning' is neuter, so 'good' ends in 'oe'."),
+    (1, None, "'It's not a good morning.' The 'not' sits in front of the whole phrase. There's no 'is'."),
+    (2, None, "'Why are you looking at me like that?' 'Like that' is a small word. 'Look at' needs the little word 'on', followed by 'menya'."),
+    (3, None, "'I was waiting for you to wake up.' Russian says 'waiting when you will wake up'. 'Wake up' ends in 'sya'."),
+    (4, None, "'Are you awake already? Do you want coffee?' 'Woke up' ends in 'las', for a woman. 'You want' ends in 'sh'."),
+    (5, None, "'No, Kostya.' Two words, and the name needs no change. The tone is flat."),
+    (6, None, "'Ah...' A single sound that says he is about to be caught out. The dots show his uncertainty."),
+    (7, None, "'Did I do something wrong?' 'Something not so' is the phrase for 'something wrong'. 'Did' is the finished kind."),
+    (8, None, "'You forgot what we discussed.' 'Forgot' ends in 'l' for a man. 'We discussed' is the ongoing past, in the plural."),
+    (9, None, "'I remember everything.' 'Everything' goes first, and 'I remember' follows. The word order puts the weight on 'everything'."),
+    (10, None, "'Then why are you joking?' 'Joke' is made from 'a joke'. 'Then' is a small word at the front."),
+    (11, None, "'I'm just trying to be nice.' 'Nice' takes an 'ym' ending after 'to be'. 'Try' ends in 'sya'."),
 ]

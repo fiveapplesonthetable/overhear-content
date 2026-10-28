@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "Kostya tells Max about Nastya's weird staircase metaphor. Max explains the true meaning of her words and then receives a surprising message from Vika. Let's listen closely to the conversation in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Hidden Meaning line by line and unpack how the Russian works."
+INTRO = "Kostya has not understood a word of Nastya's talk about staircases, so he asks Max what it meant. Max explains, and then Kostya learns what Vika has sent Max. We'll hear it in Russian first."
+OPENER = "Let's take it apart a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max realizes Vika expects an extremely expensive gift, leaving him stressed about his financial situation. Next time you watch the episode, listen for the Russian expressions for 'to say' and 'to go' — you will catch every word right away. See you next time!"
-CLOSING = ('max', 'Пока!')
+OUTRO = "Max has a ring photo and a year's wages to find, and Kostya has a wedding to worry about. Notice the colloquial 'chyo', a casual way to say 'what'. See you next time!"
+CLOSING = ('max', 'До свидания!')
 STORY = [
     ('kostya', 'Настя сказала, что мы идём по лестнице.', 'Nastya said that we are walking on a staircase.', [(79, 'поднимаемся по какой-то лестнице')], ''),
     ('kostya', 'И если мы остановимся, то разобьёмся.', 'And if we stop, then we will break.', [(79, 'можем разбиться')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Мне на него год работать надо.', 'I need to work a year for it.', [(97, 'Мне на него год работать надо')], ''),
 ]
 WALK = [
-    (0, None, "'Nastya said that we are walking on a staircase.' Kostya recounts the confusing metaphor he just heard."),
-    (1, None, "'And if we stop, then we will break.' Kostya repeats the dramatic consequence she mentioned."),
-    (2, None, "'I did not understand anything.' Kostya admits his total bewilderment."),
-    (3, None, "'And what did you not understand?' Max is surprised by his friend's cluelessness."),
-    (4, None, "'She is hinting at a wedding to you.' Max bluntly explains the real meaning behind the words."),
-    (5, None, "'Come on, are you serious?' Kostya is shocked by this interpretation."),
-    (6, None, "'Pretend that you did not understand anything.' Max advises him to play dumb."),
-    (7, None, "'But I already did not understand anything.' Kostya points out that he is already genuinely clueless."),
-    (8, None, "'Well there, you will not even have to lie.' Max notes that this makes the deception much easier."),
-    (9, None, "'What is there? What did she send?' Kostya asks about a message on the phone."),
-    (10, None, "'She sent me a photo of a beautiful ring.' Max reveals a clear hint he received."),
-    (11, None, "'She is hinting at an expensive gift to me.' Max explains the financial implication of the hint."),
-    (12, None, "'I need to work a year for it.' Max complains about the required effort to afford it."),
+    (0, None, "'Nastya said that we're climbing a staircase.' 'Said that' is two words. 'Staircase' is feminine and goes after a small word."),
+    (1, None, "'And that if we stop we'll smash ourselves up.' 'Smash' ends in 'sya', and the 'we' ending marks the future. 'If' opens the condition."),
+    (2, None, "'I didn't understand a thing.' 'Nothing' and 'not' appear together. 'Understood' ends in 'l', for a man."),
+    (3, None, "'What didn't you understand?' The casual 'chyo' stands for 'what'. 'A' at the start means 'and'."),
+    (4, None, "'She's hinting at a wedding.' 'Hint' goes with 'on', so it hints 'on' a wedding. 'Wedding' takes a 'u' ending."),
+    (5, None, "'Come on, are you serious?' 'Da ladno' means something like 'no way'. 'Serious' becomes 'seriously' with an 'o' ending."),
+    (6, None, "'Pretend you didn't understand anything.' The phrase is 'make a look'. 'Make' is the casual command."),
+    (7, None, "'But I really didn't understand anything.' 'I tak' means 'anyway' or 'as it is'. It sits before the 'nothing'."),
+    (8, None, "'Well, then you won't even have to lie.' The word for 'will have to' has no subject, so it's 'to lie it will not come'. 'To you' sits at the front."),
+    (9, None, "'What is it? What did she send?' 'What there' is the casual question. 'Sent' ends in 'a' and has a prefix meaning 'toward'."),
+    (10, None, "'She sent me a photo of a beautiful ring.' 'Photo' never changes. 'Of a beautiful ring' needs an 'ogo' and an 'a'."),
+    (11, None, "'She's hinting at an expensive present.' 'Hints' goes with 'on', again. 'Expensive' ends in 'oy' as the word after 'on'."),
+    (12, None, "'I'd have to work for a year to afford it.' 'To me on it a year to work' is the order. 'On it' picks up an 'n', so it's 'na nego'."),
 ]

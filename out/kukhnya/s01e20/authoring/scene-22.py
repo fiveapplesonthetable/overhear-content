@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "The reflection continues as the episode nears its finale. Max talks about the perfect illusions we create for ourselves. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Illusions line by line and unpack how the Russian works."
+INTRO = "The reflection continues as the season draws to a close. Max speaks about the illusions people live in, and how they are stripped away. We'll hear it in Russian first."
+OPENER = "Let's replay it step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max talks about the illusions we create for ourselves. Next time you watch the episode, listen for the Russian expressions for 'very' and 'often' — you will catch every word right away. See you next time!"
+OUTRO = "The masks come off, and nobody was ready. 'Probuzhdeniye' means 'awakening' and comes from the verb for waking someone. See you next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
     ('max', 'Мы очень часто существуем в иллюзиях.', 'We very often exist in illusions.', [(335, 'очень часто существуем в'), (335, 'иллюзиях')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Мы были к ней не готовы.', 'We were not prepared for it.', [(338, 'мы были'), (338, 'не готовы')], ''),
 ]
 WALK = [
-    (0, None, "'We very often exist in illusions.' Max reflects on how frequently we live inside our own manufactured realities instead of the actual world."),
-    (1, None, "'These are our fantasies.' Max defines these false realities simply as the products of our imagination."),
-    (2, None, "'We forget who we are.' Max points out that getting lost in dreams makes us lose track of our true identities."),
-    (3, None, "'Who are we really?' Max poses a deep question about our genuine nature when all the pretending stops."),
-    (4, None, "'Everyone plays roles.' Max observes that people constantly act out parts that do not reflect who they truly are."),
-    (5, None, "'These are foreign masks.' Max describes these roles as disguises that belong to someone else, without needing a linking verb to make the connection."),
-    (6, None, "'But the moment of awakening comes.' Max warns that eventually, everyone is forced to face reality and wake up from their dream."),
-    (7, None, "'Life tears these masks off us.' Max explains that circumstances violently remove these false fronts whether we want them to or not."),
-    (8, None, "'They were endless.' Max reflects on how these illusions felt like they would last forever before they were shattered."),
-    (9, None, "'Light lays bare the reality.' Max uses a metaphor about illumination exposing the bare truth of the situation."),
-    (10, None, "'We see the truth.' Max states that the inevitable result of this awakening is finally confronting the facts."),
-    (11, None, "'We were not prepared for it.' Max concludes that when the truth is finally revealed, we are rarely equipped to handle it."),
+    (0, None, "'We very often live in illusions.' 'Exist' is a longer word than 'live'. 'In illusions' takes the plural 'akh' ending."),
+    (1, None, "'These are our fantasies.' 'Our' is plural, to go with 'fantasies'. There's no 'are'."),
+    (2, None, "'We forget who we are.' 'Forget about' needs a small word for 'about'. 'Who we' is just two words."),
+    (3, None, "'Who are we really?' 'In fact' is literally 'on the very deed'. A good phrase to keep."),
+    (4, None, "'Everyone plays roles.' 'Play' is plural, to go with 'everyone'. 'Roles' is plural too."),
+    (5, None, "'They are other people's masks.' 'Other people's' also means 'foreign'. 'Masks' is plural."),
+    (6, None, "'But the moment of awakening comes.' 'Awakening' is built from 'wake'. 'Comes' is a long word for 'sets in'."),
+    (7, None, "'Life tears these masks off us.' 'Off us' is a small word and 'nas'. 'Tears off' is a single word."),
+    (8, None, "'They were endless.' 'Endless' is built from 'without end'. 'Were' is plural."),
+    (9, None, "'Light lays reality bare.' 'Lays bare' comes from 'naked'. 'Light' is neuter."),
+    (10, None, "'We see the truth.' 'We see' ends in 'im'. 'Truth' takes a 'u' ending."),
+    (11, None, "'We weren't ready for it.' 'For it' picks up an 'n', so it is 'k ney'. 'Ready' is plural."),
 ]

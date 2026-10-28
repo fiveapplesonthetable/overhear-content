@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Вика, я слышал, у вас день рождения. | Vika, I heard it is your birthday. | #243: Итак, приветствуем нового чемпиона. | verbatim |
+| 1 | Гость | Вика, я слышал, у вас день рождения. | Vika, I heard it is your birthday. | #243 00:16:16: Итак, приветствуем нового чемпиона. | verbatim |
 | 2 | Гость | У меня есть красивый подарок для вас. | I have a beautiful gift for you. | new | new |
 | 3 | Вика | Боже мой! Это очень дорогая картина. | Oh my God! This is a very expensive painting. | new | new |
 | 4 | Гость | Главное, что она вам очень нравится. | The main thing is that you like it very much. | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I heard it is your birthday.' Guest smoothly brings up her special day to initiate his move.
-- 'I have a beautiful gift for you.' Guest announces he brought something nice for her.
-- 'Oh my God! This is a very expensive painting.' Vika is shocked by the sheer value of the artwork.
-- 'The main thing is that you like it very much.' Guest plays it cool, focusing only on her happiness.
-- 'Thank you very much, this is my favorite artist.' Vika expresses deep gratitude, thrilled it is her preferred painter.
-- 'And I see you are having good fun here.' Max interrupts, his jealousy obvious as he comments on their interaction.
-- 'Max, what are you doing? Go from here.' Vika is mortified and immediately orders him to leave.
-- 'I want to drink to an amazing girl.' Max drunkenly insists on making a toast to her.
-- 'Max, you are drunk. Let's go out, please.' Vika tries to handle the situation, pointing out his obvious intoxication.
-- 'Wait, I did not give my gift yet.' Max stubbornly refuses to leave before presenting his own present.
-- 'I do not need your stupid gifts now.' Vika angrily rejects whatever he brought in his current state.
-- 'Look, this is a beautiful ring for you.' Max drunkenly reveals the engagement ring in front of everyone.
-- 'Excuse me, I will probably go now.' Guest awkwardly decides this is his cue to exit.
-- 'No, stay. Max, you have gone crazy!' Vika begs the customer to stay while accusing Max of losing his mind.
+- 'Vika, I heard it's your birthday.' 'At you birthday' stands for 'you have a birthday'. 'You' is the polite 'vas'.
+- 'I have a beautiful gift for you.' 'At me there is' stands for 'I have'. 'For you' takes the 'a' form, 'vas'.
+- 'Oh my God! It's a very expensive painting.' 'Bozhe' is the form used when you call out to heaven. 'Painting' is the one for 'picture', and ends in 'a'.
+- 'The main thing is that you like it very much.' 'It pleases you' is the pattern, with 'it' as the subject. 'The main thing' comes from 'head'.
+- 'Thank you very much, he's my favourite artist.' 'Favourite' comes from 'love'. 'Artist' is a masculine noun.
+- 'And I see you're having a good time here.' 'I look' is how the sentence begins, meaning 'I see'. 'Enjoy yourselves' ends in 'sya'.
+- 'Max, what are you doing? Get out of here.' 'Doing' ends in 'sh', for the casual 'you'. 'Get out of here' is 'go from here'.
+- 'I want to drink to an amazing girl.' 'To' in a toast is 'za', followed by the object form. 'Amazing' comes from the word for 'surprise'.
+- 'Max, you're drunk. Let's step out, please.' 'Drunk' is a short masculine form, without an ending. 'Let's go, let's go out' are two 'we' forms.
+- 'Wait, I haven't given my gift yet.' 'Gave as a gift' is the finished kind, with 'not' before it. 'My own gift' uses the special pointing-back word.
+- 'I don't need your silly presents right now.' 'Needed' is plural, to go with 'presents'. 'Silly' ends in 'ye' for the plural.
+- 'Look, it's a beautiful ring for you.' 'Look' is the casual command. 'For you' is the casual 'tebya'.
+- 'Excuse me, I'll probably go now.' 'Probably' is one word. 'I'll go' is a finished action.
+- 'No, stay. Max, you've lost your mind!' 'Stay' ends in 'tes', which is the polite plural command with 'sya'. 'Went off from mind' is the idiom for 'lost your mind'.

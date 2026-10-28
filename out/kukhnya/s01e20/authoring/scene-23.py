@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
 SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
-INTRO = "The first season reaches its final, dramatic conclusion. A single, powerful question is left hanging in the air for the audience to ponder. Let's listen closely to their conversation in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Awakening line by line and unpack how the Russian works."
+INTRO = "This is the last scene of the season. Max sums up the morning after, in a few short sentences, and leaves one question hanging. We'll hear it in Russian first."
+OPENER = "Let's go through it at a gentle pace."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "A question is left hanging in the air. Next time you watch the episode, listen for the Russian expressions for 'morning' and 'to come' — you will catch every word right away. See you next time!"
+OUTRO = "The season ends with a question and a line about moving on, which seems fitting. 'Idti tol'ko vperyod' means 'to go only forward', and you've now heard it twice. See you next time!"
 CLOSING = ('max', 'До свидания!')
 STORY = [
     ('max', 'Утро пришло.', 'Morning has come.', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Идти только вперед.', 'Go only forward.', [], ''),
 ]
 WALK = [
-    (0, None, "'Morning has come.' Max notes the arrival of a new day, signaling the end of their period of willful ignorance."),
-    (1, None, "'Now everything is clear.' Max realizes that the truth is finally obvious, connecting the concept of now directly to clarity."),
-    (2, None, "'But it is already late.' Max regrets that this sudden understanding has arrived after the opportunity to act has passed."),
-    (3, None, "'Time has gone.' Max laments that they have missed their chance because the moment has completely slipped away."),
-    (4, None, "'This is our common mistake.' Max accepts shared responsibility for their failure, directly labeling it as a collective error."),
-    (5, None, "'Maybe we should have woken up?' Max wonders aloud if they should have faced reality sooner, phrasing his regret as a lingering question."),
-    (6, None, "'Woken up sooner?' Max repeats his thought, asking specifically if coming to their senses earlier would have changed things."),
-    (7, None, "'I don't know the answer.' Max admits that he has no solution for the philosophical dilemma he just outlined."),
-    (8, None, "'Nobody knows.' Max expands his own uncertainty, claiming that no one really has the answers to these deep questions."),
-    (9, None, "'Life goes on.' Max accepts that despite all their mistakes and lost time, existence simply moves forward."),
-    (10, None, "'Need to go.' Max resolves that they must keep moving, using a strong word indicating necessity."),
-    (11, None, "'Go only forward.' Max ends on a determined note, insisting that their only option is to continue advancing into the future."),
+    (0, None, "'Morning has come.' 'Morning' is neuter, so 'came' ends in 'o'. A short, quiet start."),
+    (1, None, "'Now everything is clear.' 'Clear' is a word with an 'o' ending, used without a subject. There's no 'is'."),
+    (2, None, "'But it's already late.' 'Late' is a word with an 'o' ending. 'But already' are two small words."),
+    (3, None, "'Time has gone.' 'Time' is neuter, so 'went away' ends in 'o'. A very short sentence."),
+    (4, None, "'It's our common mistake.' 'Common' means 'shared'. 'Mistake' is feminine, so both words end in 'aya'."),
+    (5, None, "'Maybe we should have woken up?' The word 'stoilo' means 'it was worth'. 'Wake up' ends in 'sya'."),
+    (6, None, "'Woken up sooner?' 'Earlier' is a single word. Max repeats the idea."),
+    (7, None, "'I don't know the answer.' 'Answer' is a masculine word with no ending. 'I know' ends in 'u'."),
+    (8, None, "'Nobody knows.' 'Nobody' and 'not' appear together. Two words and a full stop."),
+    (9, None, "'Life goes on.' 'Continues' ends in 'sya', meaning it continues by itself. 'Life' ends in a soft sign."),
+    (10, None, "'We need to go.' 'Necessary' plus the plain 'to go'. It is a short instruction."),
+    (11, None, "'Only forward.' 'Only' sits in front of 'forward'. The episode ends on the plain word."),
 ]
