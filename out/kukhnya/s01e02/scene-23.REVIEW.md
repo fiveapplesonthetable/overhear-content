@@ -18,7 +18,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Айнура | Если шеф увидит нож, будет скандал! | If the chef sees the knife, there will be a scandal! | #246 00:18:28: Если шеф увидит | verbatim |
 | 7 | Айнура | Он будет очень сильно кричать на нас. | He will yell at us very loudly. | new | new |
 | 8 | Джинди | Что же мне теперь делать? | What should I do now? | new | new |
-| 9 | Айнура | Положи нож обратно на стол. | Put the knife back onto the table. | new | new |
+| 9 | Айнура | Убери его со стола, пока никто не видит. | Get it off the table while nobody is looking. | new | new |
 | 10 | Айнура | Пусть шеф сам найдёт свой нож. | Let the chef find his knife himself. | #247 00:18:31: Пусть он уже сам найдет. | verbatim |
 | 11 | Айнура | Спрячь его подальше отсюда, быстрее! | Hide it further away from here, quickly! | #247 00:18:31: Спрячь, спрячь. | verbatim |
 | 12 | Джинди | Хорошо, я сейчас всё уберу. | Alright, I will put everything away now. | #248 00:18:36: Ну | verbatim |
@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'If the chef sees the knife, there will be a scandal!' "Uvidit" is "will see". "Budet" is "there will be", and "skandal" is borrowed.
 - 'He will yell at us very loudly.' "Budet krichat'" is "will shout", made from "budet" plus the verb. "Na nas" is "at us", and "ochen' sil'no" is "very strongly".
 - 'What should I do now?' "Chto mne delat'" is "what to me to do", the same "should I" pattern again. "Zhe" adds worry.
-- 'Put the knife back onto the table.' "Polozhi" is the command for laying something flat. "Obratno" is "back", and "na stol" is "onto the table".
+- 'Get it off the table while nobody is looking.' "Uberi" is "put away, clear off". "So stola" is "off the table": "s", here "so", with the "of" ending -a. "Poka nikto ne vidit" is "while nobody sees".
 - 'Let the chef find his knife himself.' "Pust'" is "let", for wishing something on someone else. "Sam" is "himself" and "svoy" is "his own".
 - 'Hide it further away from here, quickly!' "Podal'she", further away, is "daleko", far, with "po-" and a comparing ending. "Bystreye" is "faster".
 - 'Alright, I will put everything away now.' "Uberu", I'll put away, is from "ubrat'", the verb the chef used for the dirty box.
