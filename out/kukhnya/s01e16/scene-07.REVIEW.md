@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Костя, быстро попробуй мой новый паштет. | Kostya, quickly taste my new pâté. | new | new |
-| 2 | Костя | Слушай, это блюдо вообще можно есть? | Listen, is this dish even edible now? | #52 00:05:01: Слушай, это съедобно вообще. | verbatim |
-| 3 | Макс | Почему ты так подозрительно смотришь туда? | Why are you looking in there so suspiciously? | new | new |
-| 4 | Костя | Цвет выглядит странно и совсем не аппетитно. | The color looks strange and not appetizing at all. | #53 00:05:03: Потому что выглядит | verbatim |
-| 5 | Макс | Главное в еде — это прекрасный вкус! | The main thing in food is wonderful taste! | new | new |
-| 6 | Костя | Ну ладно, я сейчас попробую ложку. | Well all right, I will try a spoon now. | new | new |
-| 7 | Макс | И как тебе кажется этот рецепт? | And how does this recipe seem to you? | new | new |
-| 8 | Костя | В принципе, вкус нормальный и не плохой. | In principle, the taste is fine and not bad. | #55 00:05:12: Ну, ничего так. | verbatim |
-| 9 | Костя | Под холодное пиво такое блюдо пойдёт. | With cold beer such a dish would do. | #56 00:05:13: Под пиво пойдет. | verbatim |
-| 10 | Макс | А похоже на фирменный паштет шефа? | And does it resemble the chef's signature pâté? | new | new |
-| 11 | Костя | Нет, у шефа блюдо намного лучше. | No, the chef's dish is much better. | #54 00:05:08: У шефа даже на вид получше. | verbatim |
-| 12 | Костя | Ты положил туда слишком много соуса? | Did you put too much sauce in there? | #57 00:05:15: А что, это кетчуп с мясом? | verbatim |
-| 13 | Костя | Да, продолжай стараться и готовить дальше! | Yes, keep trying and cook further! | new | new |
+| 1 | Макс | Костя, попробуй мой паштет. | Kostya, taste my pâté. | new | new |
+| 2 | Костя | Слушай, это вообще съедобно? | Listen, is this even edible? | #52 00:05:01: Слушай, это съедобно вообще. | verbatim |
+| 3 | Макс | Почему ты так смотришь? | Why are you looking like that? | new | new |
+| 4 | Костя | Потому что выглядит странно. | Because it looks strange. | #53 00:05:03: Потому что выглядит | verbatim |
+| 5 | Макс | Главное, что вкусно! | The main thing is that it tastes good! | new | new |
+| 6 | Костя | Ну ладно, сейчас попробую. | Well, all right, I'll try it now. | new | new |
+| 7 | Макс | Ну, как тебе? | So, how do you like it? | new | new |
+| 8 | Костя | Ну, ничего так. | Well, it's not bad. | #55 00:05:12: Ну, ничего так. | verbatim |
+| 9 | Костя | Под пиво пойдёт. | It would go with beer. | #56 00:05:13: Под пиво пойдет. | verbatim |
+| 10 | Макс | А похоже на паштет шефа? | And is it like the chef's pâté? | new | new |
+| 11 | Костя | Нет, у шефа даже на вид получше. | No, even the chef's looks better. | #54 00:05:08: У шефа даже на вид получше. | verbatim |
+| 12 | Костя | А что, это кетчуп с мясом? | Wait, is this ketchup with meat? | #57 00:05:15: А что, это кетчуп с мясом? | verbatim |
+| 13 | Макс | Ладно, попробую ещё раз. | Fine, I'll try again. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, quickly taste my new pâté.' Max calls his friend by name first, which is the most natural way to get attention. 'My' and 'new' both match the masculine word for pâté, and Russian's 'quickly' ends in 'o'.
-- 'Listen, is this dish even edible?' The first word is 'listen' used as 'hey', and it's a command that has lost its commanding force. For 'edible' Russian says 'is it possible to eat', and 'eat' is spelled exactly like the one for 'there is'.
-- 'Why are you looking in there so suspiciously?' The Russian for 'suspiciously' is the same sort of word as 'quickly', made to describe a look. The 'sh' ending on 'look' says 'you', informal.
-- 'The color looks strange and not at all appetizing.' Russian says 'looks strangely', with the 'o' ending, where English says 'looks strange'. 'Not at all' is a handy chunk, and it is built from 'altogether' and 'not'.
-- 'The main thing in food is a wonderful taste!' Russian's 'the main thing' comes from the Russian for 'head', so it's the head thing. Russian puts a small 'this' where English puts an 'is'.
-- 'Well, all right, I'll try a spoon.' The first two words are a sigh of giving in, 'well, okay'. Russian's 'spoon' gets a 'u' ending because it's what Kostya is about to taste.
-- 'And how does this recipe seem to you?' Russian doesn't say 'what do you think'. It says 'how to you seems', which sounds odd in English and perfectly normal in Russian.
-- 'In principle, the taste is fine and not bad.' Kostya hedges, and the doubled praise 'normal and not bad' sounds lukewarm on purpose. The opening words are the same as English 'in principle'.
-- 'This dish would go with cold beer.' Russians say 'under beer' where English says 'with beer', meaning as a snack to go with it. 'Goes' here means 'will do'.
-- 'And does it resemble the chef's signature pâté?' The Russian for 'looks like' is followed by a small word for 'on' in Russian. The chef is not 'chef's' with an apostrophe-s, but the word itself with an 'a' on the end.
-- 'No, the chef's dish is much better.' The first three words are 'at the chef' and mean the chef's version. Russian's 'better' is a short form that doesn't change, and 'much' is built from 'by much'.
-- 'Did you put too much sauce in there?' The Russian for 'too' is the one to pair with 'much', and then the sauce takes an 'a' ending, because 'much' makes it a 'some of'. The 'l' on 'put' says the speaker is addressing a man.
-- 'Yes, keep trying and keep cooking!' The opening word is a command that means 'carry on'. Russian's 'try hard' finishes with 'sya', the little 'oneself', and the last word means 'further'.
+- 'Kostya, taste my pâté.' 'Poprobuy' is the 'ty' command of 'poprobovat', 'to try' or 'to taste'. Max and Kostya are friends, so it's 'ty' all the way.
+- 'Listen, is this even edible?' 'Sedobno', 'edible', comes from 'est', 'to eat'. 'Voobshche' here means 'even' or 'at all', and it adds the doubt.
+- 'Why are you looking like that?' 'Tak', 'so' or 'like that', points at the way he is looking. 'Smotrish' ends in '-sh', the ending for 'you' with a friend.
+- 'Because it looks strange.' Russian says 'looks strangely', 'vyglyadit stranno', with an '-o' word where English uses 'strange'.
+- 'The main thing is that it tastes good!' 'Glavnoe', 'the main thing', comes from 'glava', 'head'. 'Vkusno', 'tasty', comes from 'vkus', 'taste'.
+- 'Well, all right, I'll try it now.' 'Seychas' can mean 'right now' or 'in a moment', as here. 'Poprobuyu', 'I'll try', is the future: Kostya hasn't tasted yet.
+- 'So, how do you like it?' 'Kak tebe?' is literally 'how to you?', and it is the casual way to ask someone's opinion of food, a film or a new haircut.
+- 'Well, it's not bad.' 'Nichego', literally 'nothing', also means 'not bad' or 'okay'. 'Nichego tak' is a lukewarm, slightly reluctant 'it's all right'.
+- 'It would go with beer.' Russians drink 'pod pivo', literally 'under beer', when food is a snack for drinking. 'Poydyot', 'will go', here means 'will do'.
+- 'And is it like the chef's pâté?' 'Pokhozhe na', 'looks like', takes 'na', 'on'. 'Shefa', 'the chef's', is 'shef' plus '-a': Russian puts the owner after the thing, 'pâté of the chef'.
+- 'No, even the chef's looks better.' 'Na vid', 'by the look of it', judges only appearance. 'Poluchshe' is 'luchshe', 'better', softened by 'po-' to 'a bit better'.
+- 'Wait, is this ketchup with meat?' 'S myasom', 'with meat', shows 's', 'with', turning 'myaso' into 'myasom'. 'A chto' at the start sounds like 'hang on'.
+- 'Fine, I'll try again.' 'Eshchyo raz' is 'one more time'. You'll hear it in every kitchen, gym and music lesson.

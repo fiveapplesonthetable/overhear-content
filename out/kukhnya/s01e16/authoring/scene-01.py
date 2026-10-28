@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'inspector': 'Инспектор', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Welcome to Kukhnya, the Russian comedy set in Claude Monet, a smart Moscow restaurant where Chef Barinov rules the kitchen. Today a fire inspector arrives and finds fault with everything he sees, while Vika, the art director, tries to keep her cool. First you'll hear it in Russian, and you don't need to catch every word."
-OPENER = "Let's go back through it slowly."
-TRANSITION = 'Now the whole conversation once more, from start to finish.'
+INTRO = 'Welcome to Kukhnya, the Russian comedy set in Claude Monet, a smart Moscow restaurant where Chef Barinov rules the kitchen. Today a fire inspector arrives and finds fault with everything he sees, while Vika, the art director, tries to keep her cool. Listen first to how polite he stays while he complains.'
+OPENER = "Now line by line, starting with the inspector's verdict."
+TRANSITION = 'Here is the inspection again, all in one go.'
 OUTRO = "Two days is the inspector's deadline, and he doesn't sound like a man who bends. When you watch, listen for the little word that means 'there isn't', because the inspector uses it again and again. See you next time!"
-CLOSING = ('vika', 'Пока!')
+CLOSING = ('vika', 'До свидания!')
 STORY = [
     ('inspector', 'У вас очень плохая картина по безопасности.', 'You have a very bad picture regarding safety.', [(1, 'У вас тут просто удручающая картина по технике пожарной безопасности.')], ''),
     ('vika', 'У нас всё в порядке.', 'Everything is fine with us.', [(2, 'Да все же в порядке.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('vika', 'Мы всё сделаем.', 'We will do everything.', [], ''),
 ]
 WALK = [
-    (0, None, "'You have a very bad picture regarding safety.' Russian says 'at you' where English says 'you have', so the line starts with the small word for 'at' and Russian's 'you', formal. The Russian for 'picture' is used here for the overall state of things, as when we say the picture looks bleak."),
-    (1, None, "'Everything is fine with us.' Same 'at us' pattern as before. The last part is literally 'in order', and Russians say it all day long when they mean 'all good'."),
-    (2, None, "'We passed all inspections.' The word is the one for walking through something, so the idea is 'we walked through all the checks'. Its past form ends in 'li' for 'we', and 'all' also takes a plural form."),
-    (3, None, "'How did you pass the inspections?' Same word again, with Russian's 'how' in front. The inspector says 'you' in the polite form, so he's cold but correct. The tone does the rest: he doesn't believe a word."),
-    (4, None, "'You have no fire extinguishers in the kitchen.' 'There isn't' is short and blunt, and the thing that's missing changes its ending after it. The word for the extinguisher is 'fire' plus 'put out' plus 'er', so it's exactly what it says."),
-    (5, None, "'We have one.' Here is the opposite of the last line: the Russian for 'there is' instead of 'there isn't'. Russian's 'one' is the same one you count with."),
-    (6, None, "'It is hanging in the back room.' The back room is a very Russian little word, for the storeroom behind the kitchen. 'In' plus an ending on the room tells you where it hangs, and the Russian for 'hangs' is the one the inspector picks up next."),
-    (7, None, "'It must hang within three meters.' Russian's 'must' changes with whoever is the subject, and here it's the masculine form because the extinguisher is masculine in Russian. The second word stays in its dictionary form, 'to hang', and 'three meters' wears a plural ending."),
-    (8, None, "'From the place of a possible fire.' This is a pile-up of the 'of' form: place, possible, fire all end in the matching ending. 'Fire' here is the destructive one, not the one for a campfire."),
-    (9, None, "'This is not a problem.' Vika shrugs it off. The small word for 'not' sits right in front of what it denies, and the Russian for 'problem' is one you already know from English."),
-    (10, None, "'This is a very big problem.' Russian's 'big' finishes with 'aya' because 'problem' is feminine in Russian, just like the Russian for 'bad' did in the first line. 'Very' is the same word as before."),
-    (11, None, "'Oh, how bad everything is.' The first sound is just a sigh, like 'ugh'. Russian's 'bad' has no 'aya' this time, because it describes a whole situation instead of a noun."),
-    (12, None, "'I give you two days for correction.' 'I give' is one word, with the ending that means 'I'. 'Day' changes after 'two', and the Russian for 'correction' comes from the verb 'to fix'."),
-    (13, None, "'We will do everything.' This looks like the present, but it's the kind of word that means one finished job, so it points to the future. It's the right thing to promise, even if Vika isn't sure how."),
+    (0, None, "'You have a very bad picture regarding safety.' 'U vas', literally 'at you', is the everyday Russian way to say 'you have'. 'Kartina', 'picture', is used for how a situation looks, much like English 'the overall picture'."),
+    (1, None, "'Everything is fine with us.' 'V poryadke' is literally 'in order', and Russians say it all day long for 'fine' or 'all good'."),
+    (2, None, "'We passed all inspections.' 'Proshli' is built on 'pro-', 'through', so to pass a check is literally to go through it. The '-li' ending marks the past for more than one person."),
+    (3, None, "'How did you pass the inspections?' The inspector simply puts 'kak', 'how', in front of Vika's own words. Russian needs no 'did' to make a question."),
+    (4, None, "'You have no fire extinguishers in the kitchen.' After 'net', 'there is no', the missing thing changes its ending: 'ognetushitel' becomes 'ognetushiteley', 'no extinguishers'."),
+    (5, None, "'We have one.' 'Est', 'there is', is the opposite of 'net' in the line before, so 'u nas est' means 'at us there is', or 'we have'."),
+    (6, None, "'It is hanging in the back room.' 'Podsobka' is the storeroom behind a shop or kitchen. After 'v', 'in', it becomes 'v podsobke', the ending for where something is."),
+    (7, None, "'It must hang within three meters.' 'Dolzhen', 'must', matches the thing it talks about: 'dolzhen' for the extinguisher, which is masculine, and 'dolzhna' for anything feminine."),
+    (8, None, "'From the place of a possible fire.' 'Ot', 'from', changes 'mesto', 'place', into 'mesta'. 'Pozhar' is a fire that destroys buildings, as opposed to 'ogon', plain fire or flame."),
+    (9, None, "'This is not a problem.' 'Eto', 'this', needs no 'is' after it, so 'eto ne problema' is word for word 'this not problem'."),
+    (10, None, "'This is a very big problem.' 'Bolshaya' ends in '-aya' because 'problema' is feminine. With a masculine word, such as a key, it would be 'bolshoy klyuch'."),
+    (11, None, "'Oh, how bad everything is.' 'Kak vsyo plokho' is a stock groan, 'how bad it all is'. 'Plokho' has no '-aya' ending here because it describes how things stand, not one particular thing."),
+    (12, None, "'I give you two days for correction.' After 'dva', 'two', the word for day changes: 'den' becomes 'dnya', so 'two days' is 'dva dnya'."),
+    (13, None, "'We will do everything.' 'Sdelaem' looks like a present-tense form, but the 's-' at the front makes it one finished job, so it points to the future. Without it, 'delaem' means 'we are doing'."),
 ]

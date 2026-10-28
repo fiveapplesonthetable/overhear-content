@@ -10,36 +10,36 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lanovsky': 'Лановский'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = 'Major Lanovsky is still sitting with Barinov and still being unpleasantly friendly, and now he is talking about rats. Then his phone rings. Russian first, no need to catch it all.'
-OPENER = "We'll take the lines one by one."
-TRANSITION = "Let's finish by hearing it all again."
+INTRO = 'Major Lanovsky is still sitting with Barinov, still unpleasantly friendly, and now he is comparing people to animals: his service are the hawks, and the illegal workers are rats. Then his phone rings, and the news is about the fridge. Listen to how sweetly he says the nastiest things.'
+OPENER = "Now the major's animal talk, one line at a time."
+TRANSITION = 'And the rats, the squirrels and the phone call once more, at full speed.'
 OUTRO = "That phone call ends the small talk, and the major wants Barinov to come with him. Remember 'seychas', which means 'right now' and also 'in a moment', and Russians use it for both. See you next time!"
-CLOSING = ('lanovsky', 'Пока!')
+CLOSING = ('lanovsky', 'Всего хорошего!')
 STORY = [
-    ('lanovsky', 'В этом мире крысы — враги.', 'In this world rats are enemies.', [(154, 'поскольку в нашем мире крысы это же враги.')], ''),
-    ('lanovsky', 'Их все очень ненавидят.', 'Everyone hates them very much.', [(155, 'Их все ненавидят.')], ''),
-    ('lanovsky', 'И вы тоже крыс не любите.', 'And you also do not like rats.', [(156, 'И мне кажется, что вы ведь тоже крыс недолюбливаете.')], ''),
-    ('lanovsky', 'Мыши очень похожи на них.', 'Mice are very similar to them.', [], ''),
-    ('barinov', 'Да, я их не люблю.', 'Yes, I do not like them.', [(157, 'Недолюбливаю.')], ''),
-    ('lanovsky', 'Они как милые мыши.', 'They are like cute mice.', [(159, 'И при всем при том, они ничем не отличаются от милых белок,')], ''),
-    ('lanovsky', 'Но крыс все ненавидят.', 'But everyone hates rats.', [(161, 'Только белок-то все любят, а крыс ненавидят.')], ''),
+    ('lanovsky', 'В нашем мире крысы это враги.', 'In our world, rats are the enemy.', [(154, 'поскольку в нашем мире крысы это же враги.')], ''),
+    ('lanovsky', 'Их все ненавидят.', 'Everyone hates them.', [(155, 'Их все ненавидят.')], ''),
+    ('lanovsky', 'Вы ведь тоже крыс не любите.', "You don't like rats either, do you?", [(156, 'И мне кажется, что вы ведь тоже крыс недолюбливаете.')], ''),
+    ('barinov', 'Да, я их не люблю.', "Yes, I don't like them.", [(157, 'Недолюбливаю.')], ''),
+    ('lanovsky', 'Но они похожи на милых белок.', 'But they are like cute squirrels.', [(159, 'И при всем при том, они ничем не отличаются от милых белок,')], ''),
+    ('lanovsky', 'Только белок все любят.', 'Only everyone loves squirrels.', [(161, 'Только белок-то все любят, а крыс ненавидят.')], ''),
+    ('lanovsky', 'А крыс все ненавидят.', 'And everyone hates rats.', [(161, 'Только белок-то все любят, а крыс ненавидят.')], ''),
     ('lanovsky', 'Извините, мне звонят.', 'Excuse me, they are calling me.', [(163, 'Извините.')], ''),
-    ('lanovsky', 'Да, я вас слушаю.', 'Yes, I am listening to you.', [(164, 'Я слушаю.')], ''),
+    ('lanovsky', 'Да, я слушаю.', "Yes, I'm listening.", [(164, 'Я слушаю.')], ''),
     ('lanovsky', 'Где они? В холодильнике?', 'Where are they? In the fridge?', [(165, 'Где? В холодильнике?')], ''),
     ('lanovsky', 'Замечательно, мы сейчас идём.', 'Great, we are going now.', [(166, 'Замечательно. Сейчас идем.')], ''),
     ('lanovsky', 'Виктор Петрович, пойдёмте со мной.', 'Viktor Petrovich, come with me.', [(167, 'Виктор Петрович, вы не могли бы пройти со мной?')], ''),
 ]
 WALK = [
-    (0, None, "'In this world, rats are enemies.' The dash stands where the English 'are' would be, since Russian leaves it out. The Russian for 'world' also means 'peace'."),
-    (1, None, "'Everyone hates them very much.' The Russian starts with 'them', so it's 'them everyone very hates'. Putting the object first is common when you want to stress it."),
-    (2, None, "'And you also don't like rats.' Here too the rats come first. Russian's 'also' sits after 'you', and 'rats' loses a letter on the way."),
-    (3, None, "'Mice are very similar to them.' 'Similar' carries 'i' for a plural, since mice are plural. 'Like them' is two tiny words, one for 'on' and one for 'them'."),
-    (4, None, "'Yes, I don't like them.' The Russian for 'like' is the same as the one for 'love', and the 'not' in front turns it into dislike. Again the 'them' comes first."),
-    (5, None, "'They are like cute mice.' Russian's 'like' is the same as the one for 'how', so it's easy to remember. 'Cute' ends in 'ye', the plural."),
-    (6, None, "'But everyone hates rats.' The small word for 'but' marks the turn, and the rats come first once more. By now you can hear the rhythm."),
-    (7, None, "'Excuse me, they are calling me.' Russians say 'to-me they call' for a ringing phone. Nobody is meant by 'they'."),
-    (8, None, "'Yes, I am listening.' This is the standard way to answer the phone in Russian. The word 'yes' is how he picks up."),
-    (9, None, "'Where are they? In the fridge?' The Russian for 'fridge' comes from Russian's 'cold', and its 'e' ending says 'in'. He asks it quickly, like a policeman."),
-    (10, None, "'Great, we're coming right now.' The word at the start is an adverb meaning 'wonderful'. 'We go' is the 'we' form, and it means 'we're on our way'."),
-    (11, None, "'Viktor Petrovich, come with me.' This is the polite 'let's go' that is also used for 'come along'. 'With' picks up an extra 'o' before 'me'."),
+    (0, None, "'In our world, rats are the enemy.' 'Eto' stands where English has 'are', a common way to link two nouns in Russian. 'Mir' means 'world' but also 'peace'."),
+    (1, None, "'Everyone hates them.' Russian puts 'ikh', 'them', first and 'vse', 'everyone', after it. 'Nenavidyat' combines 'ne', 'not', with an old root for 'see', so hating is literally not being able to look at someone."),
+    (2, None, "'You don't like rats either, do you?' 'Ved' is the little word that asks for agreement, close to 'after all' or 'don't you'. 'Krysy', 'rats', becomes 'krys' after 'ne lyubite'."),
+    (3, None, "'Yes, I don't like them.' 'Lyubit' means both 'to like' and 'to love', and 'ne lyublyu' is 'I don't like'. The original line is 'nedolyublivayu', literally 'I under-love', which means 'I'm not fond of'."),
+    (4, None, "'But they are like cute squirrels.' 'Pokhozhi na' means 'look like', and 'milye belki', 'cute squirrels', becomes 'milykh belok' after 'na', because squirrels are living things."),
+    (5, None, "'Only everyone loves squirrels.' 'Belok', the form of 'belki', is the same after 'lyubyat' as after 'na' in the line before. 'Tolko', 'only', here means 'it's just that'."),
+    (6, None, "'And everyone hates rats.' 'A' is the Russian 'and' for a contrast, half way to 'but'. The sentence mirrors the one before: 'belok vse lyubyat', 'krys vse nenavidyat'."),
+    (7, None, "'Excuse me, they are calling me.' Russians say 'mne zvonyat', literally 'to me they ring', for a ringing phone. Nobody in particular is meant by 'they'."),
+    (8, None, "'Yes, I'm listening.' 'Ya slushayu' is the usual way to answer a phone call. 'Slushat' means 'to listen' and 'slyshat' means 'to hear', and they are easy to mix up."),
+    (9, None, "'Where are they? In the fridge?' 'Kholodilnik', 'fridge', comes from 'kholod', 'cold'. After 'v', 'in', it becomes 'v kholodilnike', the ending for where something is."),
+    (10, None, "'Great, we're coming right now.' 'Zamechatelno', 'wonderful', comes from 'zamechat', 'to notice', so it is literally 'worth noticing'. 'Seychas idyom' means 'we're on our way'."),
+    (11, None, "'Viktor Petrovich, come with me.' 'Poydyomte' means 'let's go', said to someone you call 'vy'. Before 'mnoy', 'me', the 's', 'with', becomes 'so'."),
 ]

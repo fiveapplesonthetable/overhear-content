@@ -7,37 +7,17 @@
  "labels": {
   "fedya": "Федя",
   "inspector": "Инспектор",
-  "barinov": "Шеф"
+  "senya": "Сеня"
  },
  "segments": [
   {
    "v": "narrator",
-   "t": "Fedya is still in the fridge, and the inspector has finally got it open. He checks him, finds him clean, and apologises, while Barinov takes the credit. First the Russian.",
+   "t": "The inspector has opened the fridge with his own key, and someone is inside, just not the cook everyone was worried about. The man's papers are in order, and the inspector has to apologise. Meanwhile Fedya, who really was hiding, wants to know who got him out.",
    "gap": 0.8
   },
   {
-   "v": "fedya",
-   "t": "Шеф, мне очень холодно.",
-   "gap": 0.55
-  },
-  {
-   "v": "fedya",
-   "t": "Я тут замёрз.",
-   "gap": 0.55
-  },
-  {
    "v": "inspector",
-   "t": "Чист.",
-   "gap": 0.55
-  },
-  {
-   "v": "inspector",
-   "t": "Проверили.",
-   "gap": 0.55
-  },
-  {
-   "v": "barinov",
-   "t": "Я так и знал.",
+   "t": "Чист. Мы его проверили.",
    "gap": 0.55
   },
   {
@@ -47,97 +27,47 @@
   },
   {
    "v": "inspector",
-   "t": "Мои люди проверили этого человека.",
+   "t": "Мои люди уже проверили этого человека.",
    "gap": 0.55
   },
   {
    "v": "inspector",
-   "t": "Абсолютно чист.",
+   "t": "Он абсолютно чист.",
    "gap": 0.55
   },
   {
-   "v": "barinov",
-   "t": "А я всегда знал.",
-   "gap": 0.55
-  },
-  {
-   "v": "barinov",
+   "v": "senya",
    "t": "Федя, ты как?",
    "gap": 0.55
   },
   {
    "v": "fedya",
-   "t": "Нормально.",
+   "t": "Нормально. Как ты меня вытащил?",
    "gap": 0.55
   },
   {
    "v": "fedya",
-   "t": "Как вы меня вытащили?",
+   "t": "Ключ же был только у шефа.",
    "gap": 0.55
   },
   {
-   "v": "fedya",
-   "t": "Ключ был только у вас.",
-   "gap": 0.55
-  },
-  {
-   "v": "barinov",
-   "t": "Пусть он так думает.",
+   "v": "senya",
+   "t": "Пусть он и дальше так думает.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "Let's go over what we just heard.",
-   "gap": 0.4
-  },
-  {
-   "v": "fedya",
-   "t": "Шеф, мне очень холодно.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Chef, I'm very cold.' Russian says 'to me cold', as if the cold happens to you. 'Cold' carries 'o' and is cousin to the word for the fridge he was stuck in.",
-   "gap": 0.4
-  },
-  {
-   "v": "fedya",
-   "t": "Я тут замёрз.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'I froze in here.' The past form of 'freeze' ends in a bare consonant for a man, and a woman would add an 'a'. The little word for 'here' is the casual one.",
+   "t": "Now what happens at the fridge, one line at a time.",
    "gap": 0.4
   },
   {
    "v": "inspector",
-   "t": "Чист.",
+   "t": "Чист. Мы его проверили.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Clean.' The short form drops its ending, so what's left is a bare 'clean', as if reading from a form. It's the inspector's dry verdict.",
-   "gap": 0.4
-  },
-  {
-   "v": "inspector",
-   "t": "Проверили.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Checked.' There's no 'he' and no 'we', just the 'li' ending, which says somebody did it. Officials talk like this.",
-   "gap": 0.4
-  },
-  {
-   "v": "barinov",
-   "t": "Я так и знал.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'I knew it.' The line is 'I so and knew', and 'so and' is a way of saying 'just as I thought'. The masculine 'l' ending is back.",
+   "t": "'He's clean. We checked him.' 'Chist', 'clean', is the short form of 'chisty', the kind used after 'he is'. It's the inspector's word for someone whose papers are in order.",
    "gap": 0.4
   },
   {
@@ -147,112 +77,72 @@
   },
   {
    "v": "narrator",
-   "t": "'Viktor Petrovich, a little mistake happened.' 'Little mistake' is a diminutive, a gentler version of 'mistake'. Russian says the mistake 'came out', which also hides who made it.",
+   "t": "'Viktor Petrovich, there has been a little mistake.' 'Oshibochka' is the softened form of 'oshibka', 'mistake'. Russian says the mistake 'vyshla', 'came out', which hides who made it.",
    "gap": 0.4
   },
   {
    "v": "inspector",
-   "t": "Мои люди проверили этого человека.",
+   "t": "Мои люди уже проверили этого человека.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'My people checked this man.' The plural of 'person' is 'lyudi', which looks nothing like the singular. 'This man' takes an 'ogo' ending because it's the thing that was checked.",
+   "t": "'My people have already checked this man.' 'Lyudi', 'people', is the plural of 'chelovek', 'person', though the two look nothing alike. 'Etot chelovek' becomes 'etogo cheloveka' because he is the one checked.",
    "gap": 0.4
   },
   {
    "v": "inspector",
-   "t": "Абсолютно чист.",
+   "t": "Он абсолютно чист.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Completely clean.' The opening word is a borrowed 'absolutely', and the second is the same short 'clean' as before. Two words, no sentence needed.",
+   "t": "'He's completely clean.' 'Absolyutno', 'absolutely', is borrowed and easy to spot. 'Chist' is the same short 'clean' as two lines back.",
    "gap": 0.4
   },
   {
-   "v": "barinov",
-   "t": "А я всегда знал.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'And I always knew.' The small opening 'a' means 'and' with a bit of contrast. 'Always' is the same one you use for habits.",
-   "gap": 0.4
-  },
-  {
-   "v": "barinov",
+   "v": "senya",
    "t": "Федя, ты как?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Fedya, how are you?' Literally just 'you how', with no verb at all. The casual 'you' shows how close they are.",
+   "t": "'Fedya, how are you?' 'Ty kak?' is literally 'you how?', a friendly check without any verb. Senya uses 'ty' because he and Fedya are mates.",
    "gap": 0.4
   },
   {
    "v": "fedya",
-   "t": "Нормально.",
+   "t": "Нормально. Как ты меня вытащил?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Fine.' Literally 'normally', and it's the standard reply to 'how are you'. Russians don't say it with much more enthusiasm than this.",
+   "t": "'Fine. How did you get me out?' 'Normalno', literally 'normally', is the usual reply to 'how are you'. 'Vytashchil', 'pulled out', is built from 'vy-', 'out', and 'tashchit', 'to drag'.",
    "gap": 0.4
   },
   {
    "v": "fedya",
-   "t": "Как вы меня вытащили?",
+   "t": "Ключ же был только у шефа.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'How did you get me out?' Fedya uses the polite 'you' with his boss. 'Pull out' is the picture, as if he was dragged from the fridge.",
+   "t": "'Only the chef had the key.' 'U shefa', 'at the chef', is the 'have' pattern: after 'u', 'shef' becomes 'shefa'. 'Zhe' means 'after all' here.",
    "gap": 0.4
   },
   {
-   "v": "fedya",
-   "t": "Ключ был только у вас.",
+   "v": "senya",
+   "t": "Пусть он и дальше так думает.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Only you had the key.' 'The key was only at you' is the literal order. It's the same 'at you' pattern that stands in for 'you have'.",
-   "gap": 0.4
-  },
-  {
-   "v": "barinov",
-   "t": "Пусть он так думает.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Let him think so.' It begins with 'let', the little word that goes in front of 'he thinks'. Barinov doesn't correct anybody, and the line is quiet and satisfied. Once more, all the way through.",
+   "t": "'Let him keep thinking that.' 'Pust' means 'let', and 'i dalshe' means 'from now on as well', so the line is 'let him go on thinking so'. Senya has a key of his own, and the chef doesn't need to know. And the fridge scene once more, all the way through.",
    "gap": 0.9
   },
   {
-   "v": "fedya",
-   "t": "Шеф, мне очень холодно.",
-   "gap": 0.5
-  },
-  {
-   "v": "fedya",
-   "t": "Я тут замёрз.",
-   "gap": 0.5
-  },
-  {
    "v": "inspector",
-   "t": "Чист.",
-   "gap": 0.5
-  },
-  {
-   "v": "inspector",
-   "t": "Проверили.",
-   "gap": 0.5
-  },
-  {
-   "v": "barinov",
-   "t": "Я так и знал.",
+   "t": "Чист. Мы его проверили.",
    "gap": 0.5
   },
   {
@@ -262,52 +152,42 @@
   },
   {
    "v": "inspector",
-   "t": "Мои люди проверили этого человека.",
+   "t": "Мои люди уже проверили этого человека.",
    "gap": 0.5
   },
   {
    "v": "inspector",
-   "t": "Абсолютно чист.",
+   "t": "Он абсолютно чист.",
    "gap": 0.5
   },
   {
-   "v": "barinov",
-   "t": "А я всегда знал.",
-   "gap": 0.5
-  },
-  {
-   "v": "barinov",
+   "v": "senya",
    "t": "Федя, ты как?",
    "gap": 0.5
   },
   {
    "v": "fedya",
-   "t": "Нормально.",
+   "t": "Нормально. Как ты меня вытащил?",
    "gap": 0.5
   },
   {
    "v": "fedya",
-   "t": "Как вы меня вытащили?",
+   "t": "Ключ же был только у шефа.",
    "gap": 0.5
   },
   {
-   "v": "fedya",
-   "t": "Ключ был только у вас.",
-   "gap": 0.5
-  },
-  {
-   "v": "barinov",
-   "t": "Пусть он так думает.",
+   "v": "senya",
+   "t": "Пусть он и дальше так думает.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "Fedya is out of the fridge, and nobody is any wiser. The chef's last line, 'let him think so', is one you can borrow whenever you want to let someone believe what they like. See you next time!",
+   "t": "Fedya is out of the fridge, and the chef has no idea how. Senya's last line, 'pust on tak dumaet', 'let him think so', is one you can borrow whenever you let someone believe what they like. See you next time!",
    "gap": 0.5
   },
   {
-   "v": "barinov",
-   "t": "Пока!",
+   "v": "fedya",
+   "t": "Всё, пока!",
    "gap": 0.3
   }
  ],
@@ -317,61 +197,46 @@
   "lines": [
    {
     "line": 0,
-    "cue": 180,
-    "fragment": "Шеф, я понял. Вы в паштет базилик добавили, да?"
+    "cue": 181,
+    "fragment": "Чист. Проверили."
    },
    {
     "line": 1,
-    "cue": 180,
-    "fragment": "Шеф, я понял. Вы в паштет базилик добавили, да?"
-   },
-   {
-    "line": 2,
-    "cue": 181,
-    "fragment": "Чист. Проверили."
-   },
-   {
-    "line": 3,
-    "cue": 181,
-    "fragment": "Чист. Проверили."
-   },
-   {
-    "line": 4,
-    "cue": 182,
-    "fragment": "Я так и знал."
-   },
-   {
-    "line": 5,
     "cue": 183,
     "fragment": "Ну что же, Виктор Петрович, ошибочка вышла."
    },
    {
-    "line": 6,
+    "line": 2,
     "cue": 184,
     "fragment": "Оказывается, мои люди уже проверили этого человечка."
    },
    {
-    "line": 9,
+    "line": 3,
+    "cue": 185,
+    "fragment": "Абсолютно чист."
+   },
+   {
+    "line": 4,
     "cue": 187,
     "fragment": "Федь, ты как? Нормально."
    },
    {
-    "line": 10,
+    "line": 5,
     "cue": 187,
-    "fragment": "Федь, ты как? Нормально."
+    "fragment": "Нормально."
    },
    {
-    "line": 11,
+    "line": 5,
     "cue": 188,
     "fragment": "Ты как меня оттуда вытащил?"
    },
    {
-    "line": 12,
+    "line": 6,
     "cue": 189,
     "fragment": "Ключи же только у шефа были."
    },
    {
-    "line": 13,
+    "line": 7,
     "cue": 190,
     "fragment": "Вот пусть он и дальше так думает."
    }

@@ -118,28 +118,6 @@
     },
     {
       "seg": 4,
-      "trans": "But, generally speaking...",
-      "words": [
-        {
-          "t": "Но",
-          "lemma": "но",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "вообще...",
-          "lemma": "вообще",
-          "pos": "adv",
-          "stress": "вообще́",
-          "gloss": "at all",
-          "gram": "adverb, emphatic"
-        }
-      ]
-    },
-    {
-      "seg": 5,
       "trans": "I am afraid I cannot help you.",
       "words": [
         {
@@ -185,7 +163,7 @@
       ]
     },
     {
-      "seg": 6,
+      "seg": 5,
       "trans": "My staff lost the key.",
       "words": [
         {
@@ -223,7 +201,7 @@
       ]
     },
     {
-      "seg": 7,
+      "seg": 6,
       "trans": "What a shame.",
       "words": [
         {
@@ -245,83 +223,61 @@
       ]
     },
     {
-      "seg": 8,
-      "trans": "Oh, oh, oh.",
-      "words": [
-        {
-          "t": "Ой,",
-          "lemma": "ой",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "oh",
-          "gram": "exclamation"
-        },
-        {
-          "t": "ой,",
-          "lemma": "ой",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "oh",
-          "gram": "exclamation"
-        },
-        {
-          "t": "ой.",
-          "lemma": "ой",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "oh",
-          "gram": "exclamation"
-        }
-      ]
-    },
-    {
-      "seg": 9,
-      "trans": "So what are we to do?",
+      "seg": 7,
+      "trans": "So what are we supposed to do now?",
       "words": [
         {
           "t": "А",
+          "gloss": "and, but",
+          "gram": "conjunction",
           "lemma": "а",
           "pos": "conj",
-          "stress": null,
-          "gloss": "and, but",
-          "gram": "conjunction"
+          "stress": null
         },
         {
           "t": "как",
+          "gloss": "how",
+          "gram": "question word",
           "lemma": "как",
           "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
+          "stress": null
         },
         {
           "t": "же",
+          "gloss": "but, after all",
+          "gram": "emphatic particle",
           "lemma": "же",
           "pos": "part",
-          "stress": null,
-          "gloss": "but, after all",
-          "gram": "emphatic particle"
+          "stress": null
         },
         {
           "t": "нам",
+          "gloss": "us",
+          "gram": "1st person plural dative",
           "lemma": "мы",
           "pos": "pron",
-          "stress": null,
-          "gloss": "us",
-          "gram": "1st person plural dative"
+          "stress": null
+        },
+        {
+          "t": "теперь",
+          "gloss": "now",
+          "gram": "adverb of time",
+          "lemma": "теперь",
+          "pos": "adv",
+          "stress": "тепе́рь"
         },
         {
           "t": "быть?",
+          "gloss": "be",
+          "gram": "infinitive, imperfective",
           "lemma": "быть",
           "pos": "verb",
-          "stress": null,
-          "gloss": "be",
-          "gram": "infinitive, imperfective"
+          "stress": null
         }
       ]
     },
     {
-      "seg": 10,
+      "seg": 8,
       "trans": "I have a spare key.",
       "words": [
         {
@@ -355,6 +311,82 @@
           "stress": "запасно́й",
           "gloss": "spare",
           "gram": "todo"
+        },
+        {
+          "t": "ключ.",
+          "lemma": "ключ",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "key",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 9,
+      "trans": "I always keep a duplicate.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "всегда",
+          "lemma": "всегда",
+          "pos": "adv",
+          "stress": "всегда́",
+          "gloss": "always",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "дубликаты",
+          "lemma": "дубликат",
+          "pos": "noun",
+          "stress": "дублика́ты",
+          "gloss": "duplicate",
+          "gram": "nominative / accusative"
+        },
+        {
+          "t": "храню.",
+          "lemma": "хранить",
+          "pos": "verb",
+          "stress": "храню́",
+          "gloss": "to keep",
+          "gram": "todo"
+        }
+      ]
+    },
+    {
+      "seg": 10,
+      "trans": "Ah, there is the key.",
+      "words": [
+        {
+          "t": "А,",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "вот",
+          "lemma": "вот",
+          "pos": "part",
+          "stress": null,
+          "gloss": "there, here",
+          "gram": "pointing particle"
+        },
+        {
+          "t": "он,",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "he",
+          "gram": "masculine nominative singular"
         },
         {
           "t": "ключ.",
@@ -368,113 +400,91 @@
     },
     {
       "seg": 11,
-      "trans": "I always keep a duplicate.",
+      "trans": "The key turned up?",
       "words": [
         {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "всегда",
-          "lemma": "всегда",
-          "pos": "adv",
-          "stress": "всегда́",
-          "gloss": "always",
-          "gram": "adverb of time"
-        },
-        {
-          "t": "дубликаты",
-          "lemma": "дубликат",
-          "pos": "noun",
-          "stress": "дублика́ты",
-          "gloss": "duplicate",
-          "gram": "nominative / accusative"
-        },
-        {
-          "t": "храню.",
-          "lemma": "хранить",
+          "t": "Нашёлся",
+          "gloss": "turned up",
+          "gram": "masculine singular past, perfective",
+          "lemma": "найтись",
           "pos": "verb",
-          "stress": "храню́",
-          "gloss": "to keep",
-          "gram": "todo"
-        }
-      ]
-    },
-    {
-      "seg": 12,
-      "trans": "Ah, there is the key.",
-      "words": [
-        {
-          "t": "А,",
-          "lemma": "а",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and, but",
-          "gram": "conjunction"
+          "stress": null
         },
         {
-          "t": "вот",
-          "lemma": "вот",
-          "pos": "part",
-          "stress": null,
-          "gloss": "there, here",
-          "gram": "pointing particle"
-        },
-        {
-          "t": "он,",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "he",
-          "gram": "masculine nominative singular"
-        },
-        {
-          "t": "ключ.",
+          "t": "ключ?",
+          "gloss": "key",
+          "gram": "masculine singular nominative",
           "lemma": "ключ",
           "pos": "noun",
-          "stress": null,
-          "gloss": "key",
-          "gram": "masculine singular nominative"
+          "stress": null
         }
       ]
     },
     {
       "seg": 13,
-      "trans": "Found the key?",
+      "trans": "Has anyone seen the spare key?",
       "words": [
         {
-          "t": "Нашелся",
-          "lemma": "найтись",
+          "t": "Никто",
+          "lemma": "никто",
+          "pos": "pron",
+          "stress": "никто́",
+          "gloss": "nobody",
+          "gram": "negative pronoun, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "видел",
+          "lemma": "видеть",
           "pos": "verb",
-          "stress": "наше́лся",
-          "gloss": "to turn up / be found",
+          "stress": "ви́дел",
+          "gloss": "saw, have seen",
+          "gram": "past, masculine singular, imperfective"
+        },
+        {
+          "t": "запасного",
+          "lemma": "запасной",
+          "pos": "adj",
+          "stress": "запасно́го",
+          "gloss": "spare",
           "gram": "todo"
         },
         {
-          "t": "ключ?",
+          "t": "ключа?",
           "lemma": "ключ",
           "pos": "noun",
-          "stress": null,
+          "stress": "ключа́",
           "gloss": "key",
-          "gram": "masculine singular nominative"
+          "gram": "todo"
         }
       ]
     },
     {
       "seg": 15,
-      "trans": "Has anyone seen the spare key?",
+      "trans": "We do not know.",
       "words": [
         {
-          "t": "Никто",
-          "lemma": "никто",
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "мы",
+          "lemma": "мы",
           "pos": "pron",
-          "stress": "никто́",
-          "gloss": "nobody",
-          "gram": "negative pronoun, nominative"
+          "stress": null,
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
         },
         {
           "t": "не",
@@ -485,71 +495,17 @@
           "gram": "negation"
         },
         {
-          "t": "видел",
-          "lemma": "видеть",
+          "t": "знаем.",
+          "lemma": "знать",
           "pos": "verb",
-          "stress": "ви́дел",
-          "gloss": "saw, have seen",
-          "gram": "past, masculine singular, imperfective"
-        },
-        {
-          "t": "запасного",
-          "lemma": "запасной",
-          "pos": "adj",
-          "stress": "запасно́го",
-          "gloss": "spare",
-          "gram": "todo"
-        },
-        {
-          "t": "ключа?",
-          "lemma": "ключ",
-          "pos": "noun",
-          "stress": "ключа́",
-          "gloss": "key",
-          "gram": "todo"
+          "stress": "зна́ем",
+          "gloss": "(we) know",
+          "gram": "present, 1st person plural, imperfective"
         }
       ]
     },
     {
       "seg": 17,
-      "trans": "We do not know.",
-      "words": [
-        {
-          "t": "А",
-          "lemma": "а",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and, but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "мы",
-          "lemma": "мы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "we",
-          "gram": "1st person plural, nominative"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "знаем.",
-          "lemma": "знать",
-          "pos": "verb",
-          "stress": "зна́ем",
-          "gloss": "(we) know",
-          "gram": "present, 1st person plural, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 19,
       "trans": "And we have not seen it.",
       "words": [
         {
@@ -579,29 +535,7 @@
       ]
     },
     {
-      "seg": 21,
-      "trans": "But, generally speaking...",
-      "words": [
-        {
-          "t": "Но",
-          "lemma": "но",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "вообще...",
-          "lemma": "вообще",
-          "pos": "adv",
-          "stress": "вообще́",
-          "gloss": "at all",
-          "gram": "adverb, emphatic"
-        }
-      ]
-    },
-    {
-      "seg": 23,
+      "seg": 19,
       "trans": "I am afraid I cannot help you.",
       "words": [
         {
@@ -647,7 +581,7 @@
       ]
     },
     {
-      "seg": 25,
+      "seg": 21,
       "trans": "My staff lost the key.",
       "words": [
         {
@@ -685,7 +619,7 @@
       ]
     },
     {
-      "seg": 27,
+      "seg": 23,
       "trans": "What a shame.",
       "words": [
         {
@@ -707,83 +641,61 @@
       ]
     },
     {
-      "seg": 29,
-      "trans": "Oh, oh, oh.",
-      "words": [
-        {
-          "t": "Ой,",
-          "lemma": "ой",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "oh",
-          "gram": "exclamation"
-        },
-        {
-          "t": "ой,",
-          "lemma": "ой",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "oh",
-          "gram": "exclamation"
-        },
-        {
-          "t": "ой.",
-          "lemma": "ой",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "oh",
-          "gram": "exclamation"
-        }
-      ]
-    },
-    {
-      "seg": 31,
-      "trans": "So what are we to do?",
+      "seg": 25,
+      "trans": "So what are we supposed to do now?",
       "words": [
         {
           "t": "А",
+          "gloss": "and, but",
+          "gram": "conjunction",
           "lemma": "а",
           "pos": "conj",
-          "stress": null,
-          "gloss": "and, but",
-          "gram": "conjunction"
+          "stress": null
         },
         {
           "t": "как",
+          "gloss": "how",
+          "gram": "question word",
           "lemma": "как",
           "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
+          "stress": null
         },
         {
           "t": "же",
+          "gloss": "but, after all",
+          "gram": "emphatic particle",
           "lemma": "же",
           "pos": "part",
-          "stress": null,
-          "gloss": "but, after all",
-          "gram": "emphatic particle"
+          "stress": null
         },
         {
           "t": "нам",
+          "gloss": "us",
+          "gram": "1st person plural dative",
           "lemma": "мы",
           "pos": "pron",
-          "stress": null,
-          "gloss": "us",
-          "gram": "1st person plural dative"
+          "stress": null
+        },
+        {
+          "t": "теперь",
+          "gloss": "now",
+          "gram": "adverb of time",
+          "lemma": "теперь",
+          "pos": "adv",
+          "stress": "тепе́рь"
         },
         {
           "t": "быть?",
+          "gloss": "be",
+          "gram": "infinitive, imperfective",
           "lemma": "быть",
           "pos": "verb",
-          "stress": null,
-          "gloss": "be",
-          "gram": "infinitive, imperfective"
+          "stress": null
         }
       ]
     },
     {
-      "seg": 33,
+      "seg": 27,
       "trans": "I have a spare key.",
       "words": [
         {
@@ -829,7 +741,7 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 29,
       "trans": "I always keep a duplicate.",
       "words": [
         {
@@ -867,7 +779,7 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 31,
       "trans": "Ah, there is the key.",
       "words": [
         {
@@ -905,29 +817,29 @@
       ]
     },
     {
-      "seg": 39,
-      "trans": "Found the key?",
+      "seg": 33,
+      "trans": "The key turned up?",
       "words": [
         {
-          "t": "Нашелся",
+          "t": "Нашёлся",
+          "gloss": "turned up",
+          "gram": "masculine singular past, perfective",
           "lemma": "найтись",
           "pos": "verb",
-          "stress": "наше́лся",
-          "gloss": "to turn up / be found",
-          "gram": "todo"
+          "stress": null
         },
         {
           "t": "ключ?",
+          "gloss": "key",
+          "gram": "masculine singular nominative",
           "lemma": "ключ",
           "pos": "noun",
-          "stress": null,
-          "gloss": "key",
-          "gram": "masculine singular nominative"
+          "stress": null
         }
       ]
     },
     {
-      "seg": 41,
+      "seg": 35,
       "trans": "Has anyone seen the spare key?",
       "words": [
         {
@@ -973,7 +885,7 @@
       ]
     },
     {
-      "seg": 42,
+      "seg": 36,
       "trans": "We do not know.",
       "words": [
         {
@@ -1011,7 +923,7 @@
       ]
     },
     {
-      "seg": 43,
+      "seg": 37,
       "trans": "And we have not seen it.",
       "words": [
         {
@@ -1041,29 +953,7 @@
       ]
     },
     {
-      "seg": 44,
-      "trans": "But, generally speaking...",
-      "words": [
-        {
-          "t": "Но",
-          "lemma": "но",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "вообще...",
-          "lemma": "вообще",
-          "pos": "adv",
-          "stress": "вообще́",
-          "gloss": "at all",
-          "gram": "adverb, emphatic"
-        }
-      ]
-    },
-    {
-      "seg": 45,
+      "seg": 38,
       "trans": "I am afraid I cannot help you.",
       "words": [
         {
@@ -1109,7 +999,7 @@
       ]
     },
     {
-      "seg": 46,
+      "seg": 39,
       "trans": "My staff lost the key.",
       "words": [
         {
@@ -1147,7 +1037,7 @@
       ]
     },
     {
-      "seg": 47,
+      "seg": 40,
       "trans": "What a shame.",
       "words": [
         {
@@ -1169,83 +1059,61 @@
       ]
     },
     {
-      "seg": 48,
-      "trans": "Oh, oh, oh.",
-      "words": [
-        {
-          "t": "Ой,",
-          "lemma": "ой",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "oh",
-          "gram": "exclamation"
-        },
-        {
-          "t": "ой,",
-          "lemma": "ой",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "oh",
-          "gram": "exclamation"
-        },
-        {
-          "t": "ой.",
-          "lemma": "ой",
-          "pos": "interj",
-          "stress": null,
-          "gloss": "oh",
-          "gram": "exclamation"
-        }
-      ]
-    },
-    {
-      "seg": 49,
-      "trans": "So what are we to do?",
+      "seg": 41,
+      "trans": "So what are we supposed to do now?",
       "words": [
         {
           "t": "А",
+          "gloss": "and, but",
+          "gram": "conjunction",
           "lemma": "а",
           "pos": "conj",
-          "stress": null,
-          "gloss": "and, but",
-          "gram": "conjunction"
+          "stress": null
         },
         {
           "t": "как",
+          "gloss": "how",
+          "gram": "question word",
           "lemma": "как",
           "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
+          "stress": null
         },
         {
           "t": "же",
+          "gloss": "but, after all",
+          "gram": "emphatic particle",
           "lemma": "же",
           "pos": "part",
-          "stress": null,
-          "gloss": "but, after all",
-          "gram": "emphatic particle"
+          "stress": null
         },
         {
           "t": "нам",
+          "gloss": "us",
+          "gram": "1st person plural dative",
           "lemma": "мы",
           "pos": "pron",
-          "stress": null,
-          "gloss": "us",
-          "gram": "1st person plural dative"
+          "stress": null
+        },
+        {
+          "t": "теперь",
+          "gloss": "now",
+          "gram": "adverb of time",
+          "lemma": "теперь",
+          "pos": "adv",
+          "stress": "тепе́рь"
         },
         {
           "t": "быть?",
+          "gloss": "be",
+          "gram": "infinitive, imperfective",
           "lemma": "быть",
           "pos": "verb",
-          "stress": null,
-          "gloss": "be",
-          "gram": "infinitive, imperfective"
+          "stress": null
         }
       ]
     },
     {
-      "seg": 50,
+      "seg": 42,
       "trans": "I have a spare key.",
       "words": [
         {
@@ -1291,7 +1159,7 @@
       ]
     },
     {
-      "seg": 51,
+      "seg": 43,
       "trans": "I always keep a duplicate.",
       "words": [
         {
@@ -1329,7 +1197,7 @@
       ]
     },
     {
-      "seg": 52,
+      "seg": 44,
       "trans": "Ah, there is the key.",
       "words": [
         {
@@ -1367,38 +1235,46 @@
       ]
     },
     {
-      "seg": 53,
-      "trans": "Found the key?",
+      "seg": 45,
+      "trans": "The key turned up?",
       "words": [
         {
-          "t": "Нашелся",
+          "t": "Нашёлся",
+          "gloss": "turned up",
+          "gram": "masculine singular past, perfective",
           "lemma": "найтись",
           "pos": "verb",
-          "stress": "наше́лся",
-          "gloss": "to turn up / be found",
-          "gram": "todo"
+          "stress": null
         },
         {
           "t": "ключ?",
+          "gloss": "key",
+          "gram": "masculine singular nominative",
           "lemma": "ключ",
           "pos": "noun",
-          "stress": null,
-          "gloss": "key",
-          "gram": "masculine singular nominative"
+          "stress": null
         }
       ]
     },
     {
-      "seg": 55,
-      "trans": "Bye!",
+      "seg": 47,
+      "trans": "Well, good luck!",
       "words": [
         {
-          "t": "Пока!",
-          "lemma": "пока",
-          "pos": "adv",
-          "stress": "пока́",
-          "gloss": "bye!",
-          "gram": "informal farewell interjection"
+          "t": "Ну,",
+          "gloss": "well",
+          "gram": "particle",
+          "lemma": "ну",
+          "pos": "part",
+          "stress": null
+        },
+        {
+          "t": "удачи!",
+          "gloss": "(good) luck",
+          "gram": "feminine singular, genitive (wishing: 'I wish you luck')",
+          "lemma": "удача",
+          "pos": "noun",
+          "stress": "уда́чи"
         }
       ]
     }
@@ -1695,44 +1571,6 @@
         {
           "word": "видеться",
           "gloss": "to see each other"
-        }
-      ]
-    },
-    "вообще": {
-      "lemma": "вообще",
-      "stress": "вообще́",
-      "pos": "adv",
-      "gloss": "at all; in general",
-      "meanings": [
-        {
-          "en": "at all, absolutely",
-          "note": "For emphasis. Prefix 'во-' ('into, up') marks inward or upward movement (stem 'обще')."
-        },
-        {
-          "en": "in general",
-          "note": "Prefix 'во-' ('into, up') marks inward or upward movement (stem 'обще')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это вообще без проблем.",
-          "trans": "That's no problem at all."
-        },
-        {
-          "text": "Я вообще не знаю.",
-          "trans": "I have no idea at all."
-        },
-        {
-          "text": "Я человек чистый. Я вообще не вор.",
-          "trans": "I'm an honest man. I'm not a thief at all."
-        }
-      ],
-      "related": [
-        {
-          "word": "вообще-то",
-          "gloss": "actually"
         }
       ]
     },
@@ -2980,82 +2818,6 @@
         }
       ]
     },
-    "но": {
-      "lemma": "но",
-      "stress": "но",
-      "pos": "conj",
-      "gloss": "but",
-      "meanings": [
-        {
-          "en": "but",
-          "note": "Stronger contrast than 'а'. Core Russian conj meaning 'but' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мы сделали много, но надо ещё.",
-          "trans": "We've done a lot, but we need more."
-        },
-        {
-          "text": "Я хочу, но не могу.",
-          "trans": "I want to, but I can't."
-        },
-        {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
-        }
-      ],
-      "related": [
-        {
-          "word": "а",
-          "gloss": "and, but"
-        },
-        {
-          "word": "однако",
-          "gloss": "however"
-        }
-      ]
-    },
-    "ой": {
-      "lemma": "ой",
-      "stress": "ой",
-      "pos": "interj",
-      "gloss": "oh",
-      "meanings": [
-        {
-          "en": "oh",
-          "note": "Surprise, fright or pain. Core Russian interj meaning 'oh' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Ой, смотри!",
-          "trans": "Oh, look!"
-        },
-        {
-          "text": "Ой, извините.",
-          "trans": "Oh, sorry."
-        },
-        {
-          "text": "Ой, смотри! Новости.",
-          "trans": "Oh, look! The news."
-        }
-      ],
-      "related": [
-        {
-          "word": "ай",
-          "gloss": "ouch"
-        },
-        {
-          "word": "ох",
-          "gloss": "oh"
-        }
-      ]
-    },
     "он": {
       "lemma": "он",
       "stress": "он",
@@ -3147,44 +2909,6 @@
         {
           "word": "его",
           "gloss": "his, him"
-        }
-      ]
-    },
-    "пока": {
-      "lemma": "пока",
-      "stress": "пока́",
-      "pos": "adv",
-      "gloss": "bye",
-      "meanings": [
-        {
-          "en": "bye, see you",
-          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
-        },
-        {
-          "en": "while, for now",
-          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пока!",
-          "trans": "Bye!"
-        },
-        {
-          "text": "Пока, папа!",
-          "trans": "Bye, Dad!"
-        },
-        {
-          "text": "Пока, милый!",
-          "trans": "Bye, darling!"
-        }
-      ],
-      "related": [
-        {
-          "word": "пока",
-          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     },
@@ -3896,6 +3620,180 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "теперь": {
+      "lemma": "теперь",
+      "stress": "тепе́рь",
+      "pos": "adv",
+      "gloss": "now (from now on)",
+      "meanings": [
+        {
+          "en": "now",
+          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Теперь я начальник.",
+          "trans": "Now I'm the boss."
+        },
+        {
+          "text": "Теперь всё хорошо.",
+          "trans": "Now everything's fine."
+        },
+        {
+          "text": "Теперь я начальник нашей стройки. Ты уволен!",
+          "trans": "Now I'm the boss of our building site. You're fired!"
+        }
+      ],
+      "related": [
+        {
+          "word": "сейчас",
+          "gloss": "right now, at the moment"
+        }
+      ]
+    },
+    "ну": {
+      "lemma": "ну",
+      "stress": "ну",
+      "pos": "part",
+      "gloss": "well; come on",
+      "meanings": [
+        {
+          "en": "well",
+          "note": "hesitation, at the start of a sentence"
+        },
+        {
+          "en": "oh come on!",
+          "note": "Ну, папа!. Core Russian part meaning 'well; come on' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ну, папа!",
+          "trans": "Oh, come on, Dad!"
+        },
+        {
+          "text": "Ну что?",
+          "trans": "Well?"
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
+        }
+      ],
+      "related": [
+        {
+          "word": "ну-ка",
+          "gloss": "come on, let's see"
+        },
+        {
+          "word": "ладно",
+          "gloss": "alright"
+        }
+      ]
+    },
+    "удача": {
+      "lemma": "удача",
+      "stress": "уда́ча",
+      "pos": "noun",
+      "gloss": "luck",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "luck, good luck",
+          "note": "Удачи! = Good luck! (genitive: 'I wish you luck')"
+        },
+        {
+          "en": "success",
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'дача'). Common feminine noun meaning 'luck' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "удача",
+              "удачи"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "удачи",
+              "удач"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "удаче",
+              "удачам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "удачу",
+              "удачи"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "удачей",
+              "удачами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "удаче",
+              "удачах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Удачи тебе!",
+          "trans": "Good luck to you!"
+        },
+        {
+          "text": "Это большая удача.",
+          "trans": "That's a real stroke of luck."
+        },
+        {
+          "text": "Нет, не получается у меня это забыть. Удачи тебе на новом месте работы.",
+          "trans": "No, I just can't forget it. Good luck to you in your new job."
+        }
+      ],
+      "related": [
+        {
+          "word": "задача",
+          "gloss": "task"
+        },
+        {
+          "word": "дача",
+          "gloss": "dacha"
+        },
+        {
+          "word": "передача",
+          "gloss": "broadcast"
         }
       ]
     }

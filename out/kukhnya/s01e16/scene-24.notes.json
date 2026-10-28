@@ -39,8 +39,8 @@
           "lemma": "только",
           "pos": "adv",
           "stress": "то́лько",
-          "gloss": "only",
-          "gram": "limiting adverb"
+          "gloss": "only; but",
+          "gram": "adverb, used as a conjunction"
         },
         {
           "t": "это",
@@ -64,7 +64,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "my",
-          "gram": "possessive pronoun"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "паштет.",
@@ -72,336 +72,282 @@
           "pos": "noun",
           "stress": "паште́т",
           "gloss": "pâté",
-          "gram": "nominative / accusative"
+          "gram": "nominative singular, masculine"
         }
       ]
     },
     {
       "seg": 4,
-      "trans": "What?",
+      "trans": "What? Same texture.",
       "words": [
         {
           "t": "Как?",
+          "gloss": "how; what? (surprise)",
+          "gram": "question word",
           "lemma": "как",
           "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
+          "stress": null
+        },
+        {
+          "t": "Та",
+          "gloss": "the same (та же)",
+          "gram": "nominative feminine singular",
+          "lemma": "тот",
+          "pos": "det",
+          "stress": null
+        },
+        {
+          "t": "же",
+          "gloss": "same (та же, the same)",
+          "gram": "emphatic particle",
+          "lemma": "же",
+          "pos": "part",
+          "stress": null
+        },
+        {
+          "t": "консистенция.",
+          "gloss": "consistency, texture",
+          "gram": "nominative singular, feminine",
+          "lemma": "консистенция",
+          "pos": "noun",
+          "stress": "консисте́нция"
         }
       ]
     },
     {
       "seg": 5,
-      "trans": "Same texture.",
+      "trans": "And I got the ingredients right.",
       "words": [
         {
-          "t": "Та",
-          "lemma": "тот",
-          "pos": "det",
+          "t": "И",
+          "lemma": "и",
+          "pos": "conj",
           "stress": null,
-          "gloss": "that",
-          "gram": "nominative feminine singular"
+          "gloss": "and",
+          "gram": "conjunction"
         },
         {
-          "t": "же",
-          "lemma": "же",
-          "pos": "part",
-          "stress": null,
-          "gloss": "but, after all",
-          "gram": "emphatic particle"
-        },
-        {
-          "t": "консистенция.",
-          "lemma": "консистенция",
+          "t": "состав",
+          "lemma": "состав",
           "pos": "noun",
-          "stress": "консистенци́я",
-          "gloss": "consistency, texture",
-          "gram": "nominative / accusative"
+          "stress": "соста́в",
+          "gloss": "composition, ingredients",
+          "gram": "accusative singular, masculine"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "подобрал.",
+          "lemma": "подобрать",
+          "pos": "verb",
+          "stress": "подобра́л",
+          "gloss": "matched, picked out",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
     {
       "seg": 6,
-      "trans": "And I got the ingredients right.",
+      "trans": "Wait.",
       "words": [
         {
-          "t": "И",
-          "lemma": "и",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and",
-          "gram": "conjunction"
-        },
-        {
-          "t": "состав",
-          "lemma": "состав",
-          "pos": "noun",
-          "stress": "со́став",
-          "gloss": "roster, lineup, composition",
-          "gram": "nominative / accusative"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "подобрал.",
-          "lemma": "подобрать",
+          "t": "Подождите.",
+          "lemma": "подождать",
           "pos": "verb",
-          "stress": "подо́брал",
-          "gloss": "to pick up; to select, to find a match",
-          "gram": "verb to pick up; to select, to find a match"
+          "stress": "подожди́те",
+          "gloss": "wait",
+          "gram": "imperative, 2nd person plural, perfective"
         }
       ]
     },
     {
       "seg": 7,
-      "trans": "Wait.",
+      "trans": "What goes into your pâté?",
       "words": [
         {
-          "t": "Подождите.",
-          "lemma": "подождать",
+          "t": "Что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "interrogative pronoun, nominative"
+        },
+        {
+          "t": "входит",
+          "lemma": "входить",
           "pos": "verb",
-          "stress": "подожди́те",
-          "gloss": "wait",
-          "gram": "imperative, 2nd person plural, perfective"
+          "stress": "вхо́дит",
+          "gloss": "goes in, enters",
+          "gram": "present, 3rd person singular, imperfective"
+        },
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "ваш",
+          "lemma": "ваш",
+          "pos": "det",
+          "stress": null,
+          "gloss": "your, yours (polite or plural)",
+          "gram": "accusative singular, masculine"
+        },
+        {
+          "t": "паштет?",
+          "lemma": "паштет",
+          "pos": "noun",
+          "stress": "паште́т",
+          "gloss": "pâté",
+          "gram": "accusative singular, masculine"
         }
       ]
     },
     {
       "seg": 8,
-      "trans": "What goes into your pâté?",
+      "trans": "Let's go and take a look.",
       "words": [
         {
-          "t": "Что",
-          "lemma": "что",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "what",
-          "gram": "relative pronoun, accusative"
-        },
-        {
-          "t": "входит",
-          "lemma": "входить",
+          "t": "Пойдём",
+          "gloss": "let's go",
+          "gram": "future, 1st person plural, perfective; = 'let's go'",
+          "lemma": "пойти",
           "pos": "verb",
-          "stress": "вхо́дит",
-          "gloss": "to go in, to enter",
-          "gram": "verb to go in, to enter"
+          "stress": "пойдём"
         },
         {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "ваш",
-          "lemma": "ваш",
-          "pos": "det",
-          "stress": null,
-          "gloss": "your, yours (polite or plural)",
-          "gram": "nom m sg"
-        },
-        {
-          "t": "паштет?",
-          "lemma": "паштет",
-          "pos": "noun",
-          "stress": "паште́т",
-          "gloss": "pâté",
-          "gram": "nominative / accusative"
-        }
-      ]
-    },
-    {
-      "seg": 9,
-      "trans": "This is a secret.",
-      "words": [
-        {
-          "t": "Это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "секрет.",
-          "lemma": "секрет",
-          "pos": "noun",
-          "stress": "секре́т",
-          "gloss": "secret",
-          "gram": "masculine nominative"
+          "t": "посмотрим.",
+          "gloss": "we'll look, let's look",
+          "gram": "future, 1st person plural, perfective",
+          "lemma": "посмотреть",
+          "pos": "verb",
+          "stress": "посмо́трим"
         }
       ]
     },
     {
       "seg": 10,
-      "trans": "Let's go.",
+      "trans": "Not bad.",
       "words": [
         {
-          "t": "Пойдём.",
-          "lemma": "пойти",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "let's go",
-          "gram": "future, 1st person plural, perfective; = 'let's go'"
-        }
-      ]
-    },
-    {
-      "seg": 11,
-      "trans": "Take a look.",
-      "words": [
-        {
-          "t": "Посмотрим.",
-          "lemma": "посмотреть",
-          "pos": "verb",
-          "stress": "посмо́трим",
-          "gloss": "(and) have a look",
-          "gram": "future, 1st person plural, perfective"
+          "t": "Неплохо.",
+          "lemma": "неплохо",
+          "pos": "adv",
+          "stress": "непло́хо",
+          "gloss": "not bad",
+          "gram": "adverb"
         }
       ]
     },
     {
       "seg": 12,
-      "trans": "Good.",
+      "trans": "Huh?",
       "words": [
         {
-          "t": "Хорошо.",
-          "lemma": "хорошо",
-          "pos": "adv",
-          "stress": "хорошо́",
-          "gloss": "good, fine",
-          "gram": "adverb used as an answer"
+          "t": "Да?",
+          "lemma": "да",
+          "pos": "part",
+          "stress": null,
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
         }
       ]
     },
     {
       "seg": 14,
-      "trans": "Not bad.",
+      "trans": "Only this isn't my pâté.",
       "words": [
         {
-          "t": "Неплохо.",
-          "lemma": "неплохо",
+          "t": "Только",
+          "lemma": "только",
           "pos": "adv",
-          "stress": "непло́хо",
-          "gloss": "not bad",
-          "gram": "adverb"
+          "stress": "то́лько",
+          "gloss": "only; but",
+          "gram": "adverb, used as a conjunction"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": null,
+          "gloss": "my",
+          "gram": "nominative singular, masculine"
+        },
+        {
+          "t": "паштет.",
+          "lemma": "паштет",
+          "pos": "noun",
+          "stress": "паште́т",
+          "gloss": "pâté",
+          "gram": "nominative singular, masculine"
         }
       ]
     },
     {
       "seg": 16,
-      "trans": "Huh?",
+      "trans": "What? Same texture.",
       "words": [
         {
-          "t": "Да?",
-          "lemma": "да",
+          "t": "Как?",
+          "gloss": "how; what? (surprise)",
+          "gram": "question word",
+          "lemma": "как",
+          "pos": "adv",
+          "stress": null
+        },
+        {
+          "t": "Та",
+          "gloss": "the same (та же)",
+          "gram": "nominative feminine singular",
+          "lemma": "тот",
+          "pos": "det",
+          "stress": null
+        },
+        {
+          "t": "же",
+          "gloss": "same (та же, the same)",
+          "gram": "emphatic particle",
+          "lemma": "же",
           "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "stress": null
+        },
+        {
+          "t": "консистенция.",
+          "gloss": "consistency, texture",
+          "gram": "nominative singular, feminine",
+          "lemma": "консистенция",
+          "pos": "noun",
+          "stress": "консисте́нция"
         }
       ]
     },
     {
       "seg": 18,
-      "trans": "Only this isn't my pâté.",
-      "words": [
-        {
-          "t": "Только",
-          "lemma": "только",
-          "pos": "adv",
-          "stress": "то́лько",
-          "gloss": "only",
-          "gram": "limiting adverb"
-        },
-        {
-          "t": "это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "мой",
-          "lemma": "мой",
-          "pos": "det",
-          "stress": null,
-          "gloss": "my",
-          "gram": "possessive pronoun"
-        },
-        {
-          "t": "паштет.",
-          "lemma": "паштет",
-          "pos": "noun",
-          "stress": "паште́т",
-          "gloss": "pâté",
-          "gram": "nominative / accusative"
-        }
-      ]
-    },
-    {
-      "seg": 20,
-      "trans": "What?",
-      "words": [
-        {
-          "t": "Как?",
-          "lemma": "как",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
-        }
-      ]
-    },
-    {
-      "seg": 22,
-      "trans": "Same texture.",
-      "words": [
-        {
-          "t": "Та",
-          "lemma": "тот",
-          "pos": "det",
-          "stress": null,
-          "gloss": "that",
-          "gram": "nominative feminine singular"
-        },
-        {
-          "t": "же",
-          "lemma": "же",
-          "pos": "part",
-          "stress": null,
-          "gloss": "but, after all",
-          "gram": "emphatic particle"
-        },
-        {
-          "t": "консистенция.",
-          "lemma": "консистенция",
-          "pos": "noun",
-          "stress": "консистенци́я",
-          "gloss": "consistency, texture",
-          "gram": "nominative / accusative"
-        }
-      ]
-    },
-    {
-      "seg": 24,
       "trans": "And I got the ingredients right.",
       "words": [
         {
@@ -416,9 +362,9 @@
           "t": "состав",
           "lemma": "состав",
           "pos": "noun",
-          "stress": "со́став",
-          "gloss": "roster, lineup, composition",
-          "gram": "nominative / accusative"
+          "stress": "соста́в",
+          "gloss": "composition, ingredients",
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "я",
@@ -432,14 +378,14 @@
           "t": "подобрал.",
           "lemma": "подобрать",
           "pos": "verb",
-          "stress": "подо́брал",
-          "gloss": "to pick up; to select, to find a match",
-          "gram": "verb to pick up; to select, to find a match"
+          "stress": "подобра́л",
+          "gloss": "matched, picked out",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
     {
-      "seg": 26,
+      "seg": 20,
       "trans": "Wait.",
       "words": [
         {
@@ -453,7 +399,7 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 22,
       "trans": "What goes into your pâté?",
       "words": [
         {
@@ -462,15 +408,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "relative pronoun, accusative"
+          "gram": "interrogative pronoun, nominative"
         },
         {
           "t": "входит",
           "lemma": "входить",
           "pos": "verb",
           "stress": "вхо́дит",
-          "gloss": "to go in, to enter",
-          "gram": "verb to go in, to enter"
+          "gloss": "goes in, enters",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "в",
@@ -486,7 +432,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "your, yours (polite or plural)",
-          "gram": "nom m sg"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "паштет?",
@@ -494,76 +440,34 @@
           "pos": "noun",
           "stress": "паште́т",
           "gloss": "pâté",
-          "gram": "nominative / accusative"
+          "gram": "accusative singular, masculine"
         }
       ]
     },
     {
-      "seg": 30,
-      "trans": "This is a secret.",
+      "seg": 24,
+      "trans": "Let's go and take a look.",
       "words": [
         {
-          "t": "Это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "секрет.",
-          "lemma": "секрет",
-          "pos": "noun",
-          "stress": "секре́т",
-          "gloss": "secret",
-          "gram": "masculine nominative"
-        }
-      ]
-    },
-    {
-      "seg": 32,
-      "trans": "Let's go.",
-      "words": [
-        {
-          "t": "Пойдём.",
+          "t": "Пойдём",
+          "gloss": "let's go",
+          "gram": "future, 1st person plural, perfective; = 'let's go'",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": null,
-          "gloss": "let's go",
-          "gram": "future, 1st person plural, perfective; = 'let's go'"
-        }
-      ]
-    },
-    {
-      "seg": 34,
-      "trans": "Take a look.",
-      "words": [
+          "stress": "пойдём"
+        },
         {
-          "t": "Посмотрим.",
+          "t": "посмотрим.",
+          "gloss": "we'll look, let's look",
+          "gram": "future, 1st person plural, perfective",
           "lemma": "посмотреть",
           "pos": "verb",
-          "stress": "посмо́трим",
-          "gloss": "(and) have a look",
-          "gram": "future, 1st person plural, perfective"
+          "stress": "посмо́трим"
         }
       ]
     },
     {
-      "seg": 36,
-      "trans": "Good.",
-      "words": [
-        {
-          "t": "Хорошо.",
-          "lemma": "хорошо",
-          "pos": "adv",
-          "stress": "хорошо́",
-          "gloss": "good, fine",
-          "gram": "adverb used as an answer"
-        }
-      ]
-    },
-    {
-      "seg": 38,
+      "seg": 26,
       "trans": "Not bad.",
       "words": [
         {
@@ -577,7 +481,7 @@
       ]
     },
     {
-      "seg": 39,
+      "seg": 27,
       "trans": "Huh?",
       "words": [
         {
@@ -591,7 +495,7 @@
       ]
     },
     {
-      "seg": 40,
+      "seg": 28,
       "trans": "Only this isn't my pâté.",
       "words": [
         {
@@ -599,8 +503,8 @@
           "lemma": "только",
           "pos": "adv",
           "stress": "то́лько",
-          "gloss": "only",
-          "gram": "limiting adverb"
+          "gloss": "only; but",
+          "gram": "adverb, used as a conjunction"
         },
         {
           "t": "это",
@@ -624,7 +528,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "my",
-          "gram": "possessive pronoun"
+          "gram": "nominative singular, masculine"
         },
         {
           "t": "паштет.",
@@ -632,56 +536,50 @@
           "pos": "noun",
           "stress": "паште́т",
           "gloss": "pâté",
-          "gram": "nominative / accusative"
+          "gram": "nominative singular, masculine"
         }
       ]
     },
     {
-      "seg": 41,
-      "trans": "What?",
+      "seg": 29,
+      "trans": "What? Same texture.",
       "words": [
         {
           "t": "Как?",
+          "gloss": "how; what? (surprise)",
+          "gram": "question word",
           "lemma": "как",
           "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
-        }
-      ]
-    },
-    {
-      "seg": 42,
-      "trans": "Same texture.",
-      "words": [
+          "stress": null
+        },
         {
           "t": "Та",
+          "gloss": "the same (та же)",
+          "gram": "nominative feminine singular",
           "lemma": "тот",
           "pos": "det",
-          "stress": null,
-          "gloss": "that",
-          "gram": "nominative feminine singular"
+          "stress": null
         },
         {
           "t": "же",
+          "gloss": "same (та же, the same)",
+          "gram": "emphatic particle",
           "lemma": "же",
           "pos": "part",
-          "stress": null,
-          "gloss": "but, after all",
-          "gram": "emphatic particle"
+          "stress": null
         },
         {
           "t": "консистенция.",
+          "gloss": "consistency, texture",
+          "gram": "nominative singular, feminine",
           "lemma": "консистенция",
           "pos": "noun",
-          "stress": "консистенци́я",
-          "gloss": "consistency, texture",
-          "gram": "nominative / accusative"
+          "stress": "консисте́нция"
         }
       ]
     },
     {
-      "seg": 43,
+      "seg": 30,
       "trans": "And I got the ingredients right.",
       "words": [
         {
@@ -696,9 +594,9 @@
           "t": "состав",
           "lemma": "состав",
           "pos": "noun",
-          "stress": "со́став",
-          "gloss": "roster, lineup, composition",
-          "gram": "nominative / accusative"
+          "stress": "соста́в",
+          "gloss": "composition, ingredients",
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "я",
@@ -712,14 +610,14 @@
           "t": "подобрал.",
           "lemma": "подобрать",
           "pos": "verb",
-          "stress": "подо́брал",
-          "gloss": "to pick up; to select, to find a match",
-          "gram": "verb to pick up; to select, to find a match"
+          "stress": "подобра́л",
+          "gloss": "matched, picked out",
+          "gram": "past, masculine singular, perfective"
         }
       ]
     },
     {
-      "seg": 44,
+      "seg": 31,
       "trans": "Wait.",
       "words": [
         {
@@ -733,7 +631,7 @@
       ]
     },
     {
-      "seg": 45,
+      "seg": 32,
       "trans": "What goes into your pâté?",
       "words": [
         {
@@ -742,15 +640,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "relative pronoun, accusative"
+          "gram": "interrogative pronoun, nominative"
         },
         {
           "t": "входит",
           "lemma": "входить",
           "pos": "verb",
           "stress": "вхо́дит",
-          "gloss": "to go in, to enter",
-          "gram": "verb to go in, to enter"
+          "gloss": "goes in, enters",
+          "gram": "present, 3rd person singular, imperfective"
         },
         {
           "t": "в",
@@ -766,7 +664,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "your, yours (polite or plural)",
-          "gram": "nom m sg"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "паштет?",
@@ -774,93 +672,51 @@
           "pos": "noun",
           "stress": "паште́т",
           "gloss": "pâté",
-          "gram": "nominative / accusative"
+          "gram": "accusative singular, masculine"
         }
       ]
     },
     {
-      "seg": 46,
-      "trans": "This is a secret.",
+      "seg": 33,
+      "trans": "Let's go and take a look.",
       "words": [
         {
-          "t": "Это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "секрет.",
-          "lemma": "секрет",
-          "pos": "noun",
-          "stress": "секре́т",
-          "gloss": "secret",
-          "gram": "masculine nominative"
-        }
-      ]
-    },
-    {
-      "seg": 47,
-      "trans": "Let's go.",
-      "words": [
-        {
-          "t": "Пойдём.",
+          "t": "Пойдём",
+          "gloss": "let's go",
+          "gram": "future, 1st person plural, perfective; = 'let's go'",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": null,
-          "gloss": "let's go",
-          "gram": "future, 1st person plural, perfective; = 'let's go'"
-        }
-      ]
-    },
-    {
-      "seg": 48,
-      "trans": "Take a look.",
-      "words": [
-        {
-          "t": "Посмотрим.",
-          "lemma": "посмотреть",
-          "pos": "verb",
-          "stress": "посмо́трим",
-          "gloss": "(and) have a look",
-          "gram": "future, 1st person plural, perfective"
-        }
-      ]
-    },
-    {
-      "seg": 49,
-      "trans": "Good.",
-      "words": [
-        {
-          "t": "Хорошо.",
-          "lemma": "хорошо",
-          "pos": "adv",
-          "stress": "хорошо́",
-          "gloss": "good, fine",
-          "gram": "adverb used as an answer"
-        }
-      ]
-    },
-    {
-      "seg": 51,
-      "trans": "Goodbye!",
-      "words": [
-        {
-          "t": "До",
-          "lemma": "до",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "until",
-          "gram": "preposition + genitive"
+          "stress": "пойдём"
         },
         {
-          "t": "свидания!",
-          "lemma": "свидание",
-          "pos": "noun",
-          "stress": "свида́ния",
-          "gloss": "meeting (goodbye)",
-          "gram": "genitive neuter singular"
+          "t": "посмотрим.",
+          "gloss": "we'll look, let's look",
+          "gram": "future, 1st person plural, perfective",
+          "lemma": "посмотреть",
+          "pos": "verb",
+          "stress": "посмо́трим"
+        }
+      ]
+    },
+    {
+      "seg": 35,
+      "trans": "Well, bye!",
+      "words": [
+        {
+          "t": "Ну,",
+          "gloss": "well",
+          "gram": "particle",
+          "lemma": "ну",
+          "pos": "part",
+          "stress": null
+        },
+        {
+          "t": "пока!",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́"
         }
       ]
     }
@@ -1159,48 +1015,6 @@
         {
           "word": "давай",
           "gloss": "let's, come on"
-        }
-      ]
-    },
-    "до": {
-      "lemma": "до",
-      "stress": "до",
-      "pos": "prep",
-      "gloss": "until, before; up to",
-      "meanings": [
-        {
-          "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
-        },
-        {
-          "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
-        },
-        {
-          "text": "До завтра!",
-          "trans": "See you tomorrow!"
-        },
-        {
-          "text": "До вечера!",
-          "trans": "See you tonight!"
-        }
-      ],
-      "related": [
-        {
-          "word": "дойти",
-          "gloss": "to reach, walk as far as"
-        },
-        {
-          "word": "после",
-          "gloss": "after"
         }
       ]
     },
@@ -2126,182 +1940,6 @@
         }
       ]
     },
-    "свидание": {
-      "lemma": "свидание",
-      "stress": "свида́ние",
-      "pos": "noun",
-      "gloss": "meeting; date",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
-        },
-        {
-          "en": "date (romantic)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "свидание",
-              "свидания"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "свидания",
-              "свиданий"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "свиданию",
-              "свиданиям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "свидание",
-              "свидания"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "свиданием",
-              "свиданиями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "свидании",
-              "свиданиях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
-        },
-        {
-          "text": "У меня сегодня свидание.",
-          "trans": "I have a date today."
-        },
-        {
-          "text": "У неё свидание.",
-          "trans": "She has a date."
-        }
-      ],
-      "related": [
-        {
-          "word": "видать",
-          "gloss": "to see"
-        }
-      ]
-    },
-    "секрет": {
-      "lemma": "секрет",
-      "stress": "секре́т",
-      "pos": "noun",
-      "gloss": "secret",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "secret",
-          "note": "Borrowed via French 'secret' from Latin 'secretum' (something set apart or hidden)."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "секрет",
-              "секреты"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "секрета",
-              "секретов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "секрету",
-              "секретам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "секрет",
-              "секреты"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "секретом",
-              "секретами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "секрете",
-              "секретах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это большой секрет.",
-          "trans": "That is a big secret."
-        },
-        {
-          "text": "Это наши маленькие мужские секреты!",
-          "trans": "These are our little men's secrets!"
-        },
-        {
-          "text": "А вы кем работаете, если не секрет?",
-          "trans": "And what do you do, if it is not a secret?"
-        }
-      ],
-      "related": [
-        {
-          "word": "секретный",
-          "gloss": "secret"
-        }
-      ]
-    },
     "состав": {
       "lemma": "состав",
       "stress": "соста́в",
@@ -2535,52 +2173,6 @@
         {
           "word": "там",
           "gloss": "there"
-        }
-      ]
-    },
-    "хорошо": {
-      "lemma": "хорошо",
-      "stress": "хорошо́",
-      "pos": "adv",
-      "gloss": "well, good",
-      "meanings": [
-        {
-          "en": "well",
-          "note": "How something is done. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        },
-        {
-          "en": "good, fine",
-          "note": "As an answer. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Хорошо!",
-          "trans": "Good!"
-        },
-        {
-          "text": "Всё хорошо.",
-          "trans": "Everything's fine."
-        },
-        {
-          "text": "Хорошо! Там всё нормально.",
-          "trans": "Good! Everything's fine over there."
-        }
-      ],
-      "related": [
-        {
-          "word": "хороший",
-          "gloss": "good"
-        },
-        {
-          "word": "нехорошо",
-          "gloss": "not nice"
-        },
-        {
-          "word": "похоронить",
-          "gloss": "to bury"
         }
       ]
     },
@@ -2851,6 +2443,86 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "ну": {
+      "lemma": "ну",
+      "stress": "ну",
+      "pos": "part",
+      "gloss": "well; come on",
+      "meanings": [
+        {
+          "en": "well",
+          "note": "hesitation, at the start of a sentence"
+        },
+        {
+          "en": "oh come on!",
+          "note": "Ну, папа!. Core Russian part meaning 'well; come on' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ну, папа!",
+          "trans": "Oh, come on, Dad!"
+        },
+        {
+          "text": "Ну что?",
+          "trans": "Well?"
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
+        }
+      ],
+      "related": [
+        {
+          "word": "ну-ка",
+          "gloss": "come on, let's see"
+        },
+        {
+          "word": "ладно",
+          "gloss": "alright"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

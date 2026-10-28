@@ -4,190 +4,258 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "Beef pâté.",
+      "trans": "Beef, liver and chicken pâté.",
       "words": [
         {
           "t": "Паштет",
+          "gloss": "pâté",
+          "gram": "nominative singular, masculine",
           "lemma": "паштет",
           "pos": "noun",
-          "stress": "паште́т",
-          "gloss": "pâté",
-          "gram": "nominative / accusative"
+          "stress": "паште́т"
         },
         {
-          "t": "говяжий.",
+          "t": "говяжий,",
           "lemma": "говяжий",
           "pos": "adj",
           "stress": "говя́жий",
-          "gloss": "beef",
-          "gram": "nominative / accusative"
+          "gloss": "beef (adjective)",
+          "gram": "nominative singular, masculine"
+        },
+        {
+          "t": "печёночный,",
+          "lemma": "печёночный",
+          "pos": "adj",
+          "stress": "печёночный",
+          "gloss": "liver (adjective)",
+          "gram": "nominative singular, masculine"
+        },
+        {
+          "t": "куриный.",
+          "gloss": "chicken (adjective)",
+          "gram": "nominative singular, masculine",
+          "lemma": "куриный",
+          "pos": "adj",
+          "stress": "кури́ный"
         }
       ]
     },
     {
       "seg": 2,
-      "trans": "Absolutely revolting.",
+      "trans": "Chicken liver, fat, salt, pepper, onion.",
       "words": [
         {
-          "t": "Гадость",
-          "lemma": "гадость",
+          "t": "Печень",
+          "gloss": "liver",
+          "gram": "nominative singular, feminine",
+          "lemma": "печень",
           "pos": "noun",
-          "stress": "га́дость",
-          "gloss": "a disgusting thing, filth",
+          "stress": "пе́чень"
+        },
+        {
+          "t": "куриная,",
+          "lemma": "куриный",
+          "pos": "adj",
+          "stress": "кури́ная",
+          "gloss": "chicken (adjective)",
           "gram": "nominative singular, feminine"
         },
         {
-          "t": "страшная.",
-          "lemma": "страшный",
-          "pos": "adj",
-          "stress": "стра́шная",
-          "gloss": "terrible, dreadful",
-          "gram": "feminine singular nominative"
+          "t": "сало,",
+          "lemma": "сало",
+          "pos": "noun",
+          "stress": "са́ло",
+          "gloss": "salted pork fat",
+          "gram": "nominative singular, neuter"
+        },
+        {
+          "t": "соль,",
+          "gloss": "salt",
+          "gram": "nominative singular, feminine",
+          "lemma": "соль",
+          "pos": "noun",
+          "stress": "со́ль"
+        },
+        {
+          "t": "перец,",
+          "gloss": "pepper",
+          "gram": "nominative singular, masculine",
+          "lemma": "перец",
+          "pos": "noun",
+          "stress": "пе́рец"
+        },
+        {
+          "t": "лук.",
+          "gloss": "onion",
+          "gram": "nominative singular, masculine",
+          "lemma": "лук",
+          "pos": "noun",
+          "stress": "лу́к"
         }
       ]
     },
     {
       "seg": 3,
-      "trans": "But when you mix it all together...",
+      "trans": "In short, it's absolutely revolting.",
       "words": [
         {
-          "t": "Но",
-          "lemma": "но",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction"
+          "t": "В",
+          "gloss": "in, into",
+          "gram": "preposition",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null
         },
         {
-          "t": "если",
-          "lemma": "если",
-          "pos": "conj",
-          "stress": "е́сли",
-          "gloss": "if",
-          "gram": "conjunction"
+          "t": "общем,",
+          "gloss": "(in) short, so",
+          "gram": "prepositional singular, neuter; в общем = basically, so",
+          "lemma": "общий",
+          "pos": "adj",
+          "stress": "о́бщем"
         },
         {
-          "t": "всё",
-          "lemma": "весь",
-          "pos": "det",
-          "stress": null,
-          "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
+          "t": "гадость",
+          "gloss": "a disgusting thing, filth",
+          "gram": "nominative singular, feminine",
+          "lemma": "гадость",
+          "pos": "noun",
+          "stress": "га́дость"
         },
         {
-          "t": "смешать...",
-          "lemma": "смешать",
-          "pos": "verb",
-          "stress": "сме́шать",
-          "gloss": "mix, blend",
-          "gram": "infinitive"
+          "t": "страшная.",
+          "gloss": "terrible, dreadful",
+          "gram": "nominative singular, feminine",
+          "lemma": "страшный",
+          "pos": "adj",
+          "stress": "стра́шная"
         }
       ]
     },
     {
       "seg": 4,
-      "trans": "She likes it.",
+      "trans": "But mix it all together, and she likes it.",
       "words": [
         {
-          "t": "Ей",
+          "t": "Но",
+          "gloss": "but",
+          "gram": "conjunction",
+          "lemma": "но",
+          "pos": "conj",
+          "stress": null
+        },
+        {
+          "t": "если",
+          "gloss": "if",
+          "gram": "conjunction",
+          "lemma": "если",
+          "pos": "conj",
+          "stress": "е́сли"
+        },
+        {
+          "t": "всё",
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null
+        },
+        {
+          "t": "смешать,",
+          "gloss": "mix, blend",
+          "gram": "infinitive",
+          "lemma": "смешать",
+          "pos": "verb",
+          "stress": "сме́шать"
+        },
+        {
+          "t": "ей",
+          "gloss": "to her",
+          "gram": "3rd person feminine dative",
           "lemma": "она",
           "pos": "pron",
-          "stress": null,
-          "gloss": "to her",
-          "gram": "3rd person feminine dative"
+          "stress": null
         },
         {
           "t": "нравится.",
+          "gloss": "is pleasing",
+          "gram": "present, 3rd person singular, imperfective",
           "lemma": "нравиться",
           "pos": "verb",
-          "stress": "нра́вится",
-          "gloss": "is pleasing",
-          "gram": "present, 3rd person singular, imperfective"
+          "stress": "нра́вится"
         }
       ]
     },
     {
       "seg": 5,
-      "trans": "Are you kidding me?",
+      "trans": "Chef, are you kidding me?",
       "words": [
         {
-          "t": "Вы",
+          "t": "Шеф,",
+          "gloss": "chef, boss",
+          "gram": "form of address",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null
+        },
+        {
+          "t": "вы",
+          "gloss": "you",
+          "gram": "2nd person plural, nominative",
           "lemma": "вы",
           "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
+          "stress": null
+        },
+        {
+          "t": "что,",
+          "gloss": "what (here: vy chto = have you lost your mind)",
+          "gram": "particle",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null
         },
         {
           "t": "издеваетесь?",
+          "gloss": "are mocking, are making fun",
+          "gram": "present, 2nd person plural, imperfective",
           "lemma": "издеваться",
           "pos": "verb",
-          "stress": "издева́етесь",
-          "gloss": "are you mocking, teasing",
-          "gram": "2nd person plural present (imperfective)"
+          "stress": "издева́етесь"
         }
       ]
     },
     {
       "seg": 6,
-      "trans": "Why?",
+      "trans": "Why? You were building character.",
       "words": [
         {
           "t": "Почему?",
+          "gloss": "why",
+          "gram": "question word",
           "lemma": "почему",
           "pos": "adv",
-          "stress": "почему́",
-          "gloss": "why",
-          "gram": "question word"
+          "stress": "почему́"
+        },
+        {
+          "t": "Ты",
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "самовоспитывался.",
+          "gloss": "were bringing yourself up, building character",
+          "gram": "past, masculine singular, imperfective",
+          "lemma": "самовоспитываться",
+          "pos": "verb",
+          "stress": "самовоспитыва́лся"
         }
       ]
     },
     {
       "seg": 7,
-      "trans": "You were learning to discipline yourself.",
-      "words": [
-        {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "самовоспитывался.",
-          "lemma": "самовоспитываться",
-          "pos": "verb",
-          "stress": "самовоспитыва́лся",
-          "gloss": "educate oneself",
-          "gram": "past tense, masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 8,
-      "trans": "Well, let's go.",
-      "words": [
-        {
-          "t": "Ну,",
-          "lemma": "ну",
-          "pos": "part",
-          "stress": null,
-          "gloss": "oh, come on",
-          "gram": "particle of impatience"
-        },
-        {
-          "t": "пойдём.",
-          "lemma": "пойти",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "let's go",
-          "gram": "future, 1st person plural, perfective; = 'let's go'"
-        }
-      ]
-    },
-    {
-      "seg": 9,
       "trans": "By the way, it's good pâté.",
       "words": [
         {
@@ -217,29 +285,7 @@
       ]
     },
     {
-      "seg": 10,
-      "trans": "How do you make it?",
-      "words": [
-        {
-          "t": "Как",
-          "lemma": "как",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
-        },
-        {
-          "t": "делаешь?",
-          "lemma": "делать",
-          "pos": "verb",
-          "stress": "де́лаешь",
-          "gloss": "are you doing",
-          "gram": "present, 2nd person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 11,
+      "seg": 8,
       "trans": "What did you put in?",
       "words": [
         {
@@ -248,221 +294,555 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "relative pronoun, accusative"
+          "gram": "accusative"
         },
         {
           "t": "добавлял?",
           "lemma": "добавлять",
           "pos": "verb",
           "stress": "доба́влял",
-          "gloss": "to add, supplement",
-          "gram": "verb to add, supplement"
+          "gloss": "were adding, added",
+          "gram": "past, masculine singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 9,
+      "trans": "Beef, liver, olive oil, basil.",
+      "words": [
+        {
+          "t": "Говядина,",
+          "gloss": "beef",
+          "gram": "nominative singular, feminine",
+          "lemma": "говядина",
+          "pos": "noun",
+          "stress": "говяди́на"
+        },
+        {
+          "t": "печень,",
+          "gloss": "liver",
+          "gram": "nominative singular, feminine",
+          "lemma": "печень",
+          "pos": "noun",
+          "stress": "пе́чень"
+        },
+        {
+          "t": "оливковое",
+          "gloss": "olive",
+          "gram": "nominative singular, neuter",
+          "lemma": "оливковый",
+          "pos": "adj",
+          "stress": "оли́вковое"
+        },
+        {
+          "t": "масло,",
+          "gloss": "oil; butter",
+          "gram": "nominative singular, neuter",
+          "lemma": "масло",
+          "pos": "noun",
+          "stress": "ма́сло"
+        },
+        {
+          "t": "базилик.",
+          "gloss": "basil",
+          "gram": "nominative singular, masculine",
+          "lemma": "базилик",
+          "pos": "noun",
+          "stress": "базили́к"
+        }
+      ]
+    },
+    {
+      "seg": 10,
+      "trans": "Hi there!",
+      "words": [
+        {
+          "t": "Здорово!",
+          "gloss": "hi, hey (friendly greeting)",
+          "gram": "interjection; stressed on the first syllable it means great",
+          "lemma": "здорово",
+          "pos": "adv",
+          "stress": "здоро́во"
+        }
+      ]
+    },
+    {
+      "seg": 11,
+      "trans": "So he let you go?",
+      "words": [
+        {
+          "t": "Так",
+          "gloss": "so",
+          "gram": "particle",
+          "lemma": "так",
+          "pos": "part",
+          "stress": null
+        },
+        {
+          "t": "он",
+          "gloss": "he",
+          "gram": "masculine nominative singular",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "тебя",
+          "gloss": "you",
+          "gram": "2nd person singular, accusative",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́"
+        },
+        {
+          "t": "отпустил?",
+          "gloss": "let go",
+          "gram": "past, masculine singular, perfective",
+          "lemma": "отпустить",
+          "pos": "verb",
+          "stress": "отпусти́л"
         }
       ]
     },
     {
       "seg": 12,
-      "trans": "Beef, liver.",
+      "trans": "Yep. They deported me.",
       "words": [
         {
-          "t": "Говядина,",
-          "lemma": "говядина",
-          "pos": "noun",
-          "stress": "говяди́на",
-          "gloss": "beef",
-          "gram": "nominative / accusative"
+          "t": "Ага.",
+          "gloss": "yep, yeah",
+          "gram": "interjection",
+          "lemma": "ага",
+          "pos": "interj",
+          "stress": "ага́"
         },
         {
-          "t": "печень.",
-          "lemma": "печень",
+          "t": "Депортировали",
+          "lemma": "депортировать",
+          "pos": "verb",
+          "stress": "депорти́ровали",
+          "gloss": "deported",
+          "gram": "past, plural (they), no subject"
+        },
+        {
+          "t": "меня.",
+          "gloss": "me",
+          "gram": "1st person singular, accusative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": "меня́"
+        }
+      ]
+    },
+    {
+      "seg": 13,
+      "trans": "I made a deal with the border guards.",
+      "words": [
+        {
+          "t": "Я",
+          "gloss": "I",
+          "gram": "1st person singular, nominative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "с",
+          "gloss": "with",
+          "gram": "preposition + instrumental",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "пограничниками",
+          "lemma": "пограничник",
           "pos": "noun",
-          "stress": "пе́чень",
-          "gloss": "liver",
-          "gram": "noun liver"
+          "stress": "пограни́чниками",
+          "gloss": "border guards",
+          "gram": "instrumental plural (after с)"
+        },
+        {
+          "t": "договорился.",
+          "gloss": "made a deal, agreed",
+          "gram": "past tense, masculine singular, perfective reflexive",
+          "lemma": "договориться",
+          "pos": "verb",
+          "stress": "договори́лся"
         }
       ]
     },
     {
       "seg": 14,
-      "trans": "Beef pâté.",
+      "trans": "They deleted me from the database.",
       "words": [
         {
-          "t": "Паштет",
-          "lemma": "паштет",
-          "pos": "noun",
-          "stress": "паште́т",
-          "gloss": "pâté",
-          "gram": "nominative / accusative"
+          "t": "Они",
+          "gloss": "they",
+          "gram": "3rd person plural, nominative",
+          "lemma": "они",
+          "pos": "pron",
+          "stress": "они́"
         },
         {
-          "t": "говяжий.",
-          "lemma": "говяжий",
-          "pos": "adj",
-          "stress": "говя́жий",
-          "gloss": "beef",
-          "gram": "nominative / accusative"
+          "t": "меня",
+          "gloss": "me",
+          "gram": "1st person singular, accusative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": "меня́"
+        },
+        {
+          "t": "из",
+          "gloss": "from, out of",
+          "gram": "preposition + genitive",
+          "lemma": "из",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "базы",
+          "lemma": "база",
+          "pos": "noun",
+          "stress": "ба́зы",
+          "gloss": "database (literally base)",
+          "gram": "genitive singular, feminine (after из)"
+        },
+        {
+          "t": "удалили.",
+          "lemma": "удалить",
+          "pos": "verb",
+          "stress": "удали́ли",
+          "gloss": "deleted, removed",
+          "gram": "past, plural, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 15,
+      "trans": "Now I'm not Fedya, I'm Misha.",
+      "words": [
+        {
+          "t": "Теперь",
+          "gloss": "now",
+          "gram": "adverb of time",
+          "lemma": "теперь",
+          "pos": "adv",
+          "stress": "тепе́рь"
+        },
+        {
+          "t": "я",
+          "gloss": "I",
+          "gram": "1st person singular, nominative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "не",
+          "gloss": "not",
+          "gram": "negation",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null
+        },
+        {
+          "t": "Федя,",
+          "gloss": "Fedya",
+          "gram": "nominative; short for Фёдор",
+          "lemma": "федя",
+          "pos": "name",
+          "stress": null
+        },
+        {
+          "t": "я",
+          "gloss": "I",
+          "gram": "1st person singular, nominative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "Миша.",
+          "gloss": "Misha",
+          "gram": "nominative; short for Михаил",
+          "lemma": "миша",
+          "pos": "name",
+          "stress": null
         }
       ]
     },
     {
       "seg": 16,
-      "trans": "Absolutely revolting.",
+      "trans": "Hi, Misha.",
       "words": [
         {
-          "t": "Гадость",
-          "lemma": "гадость",
-          "pos": "noun",
-          "stress": "га́дость",
-          "gloss": "a disgusting thing, filth",
-          "gram": "nominative singular, feminine"
+          "t": "Здорово,",
+          "gloss": "hi, hey (friendly greeting)",
+          "gram": "interjection; stressed on the first syllable it means great",
+          "lemma": "здорово",
+          "pos": "adv",
+          "stress": "здоро́во"
         },
         {
-          "t": "страшная.",
-          "lemma": "страшный",
-          "pos": "adj",
-          "stress": "стра́шная",
-          "gloss": "terrible, dreadful",
-          "gram": "feminine singular nominative"
+          "t": "Миша.",
+          "gloss": "Misha",
+          "gram": "nominative, used as address; short for Михаил",
+          "lemma": "миша",
+          "pos": "name",
+          "stress": null
         }
       ]
     },
     {
       "seg": 18,
-      "trans": "But when you mix it all together...",
+      "trans": "Beef, liver and chicken pâté.",
       "words": [
         {
-          "t": "Но",
-          "lemma": "но",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction"
+          "t": "Паштет",
+          "gloss": "pâté",
+          "gram": "nominative singular, masculine",
+          "lemma": "паштет",
+          "pos": "noun",
+          "stress": "паште́т"
         },
         {
-          "t": "если",
-          "lemma": "если",
-          "pos": "conj",
-          "stress": "е́сли",
-          "gloss": "if",
-          "gram": "conjunction"
+          "t": "говяжий,",
+          "lemma": "говяжий",
+          "pos": "adj",
+          "stress": "говя́жий",
+          "gloss": "beef (adjective)",
+          "gram": "nominative singular, masculine"
         },
         {
-          "t": "всё",
-          "lemma": "весь",
-          "pos": "det",
-          "stress": null,
-          "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
+          "t": "печёночный,",
+          "lemma": "печёночный",
+          "pos": "adj",
+          "stress": "печёночный",
+          "gloss": "liver (adjective)",
+          "gram": "nominative singular, masculine"
         },
         {
-          "t": "смешать...",
-          "lemma": "смешать",
-          "pos": "verb",
-          "stress": "сме́шать",
-          "gloss": "mix, blend",
-          "gram": "infinitive"
+          "t": "куриный.",
+          "gloss": "chicken (adjective)",
+          "gram": "nominative singular, masculine",
+          "lemma": "куриный",
+          "pos": "adj",
+          "stress": "кури́ный"
         }
       ]
     },
     {
       "seg": 20,
-      "trans": "She likes it.",
+      "trans": "Chicken liver, fat, salt, pepper, onion.",
       "words": [
         {
-          "t": "Ей",
-          "lemma": "она",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "to her",
-          "gram": "3rd person feminine dative"
+          "t": "Печень",
+          "gloss": "liver",
+          "gram": "nominative singular, feminine",
+          "lemma": "печень",
+          "pos": "noun",
+          "stress": "пе́чень"
         },
         {
-          "t": "нравится.",
-          "lemma": "нравиться",
-          "pos": "verb",
-          "stress": "нра́вится",
-          "gloss": "is pleasing",
-          "gram": "present, 3rd person singular, imperfective"
+          "t": "куриная,",
+          "lemma": "куриный",
+          "pos": "adj",
+          "stress": "кури́ная",
+          "gloss": "chicken (adjective)",
+          "gram": "nominative singular, feminine"
+        },
+        {
+          "t": "сало,",
+          "lemma": "сало",
+          "pos": "noun",
+          "stress": "са́ло",
+          "gloss": "salted pork fat",
+          "gram": "nominative singular, neuter"
+        },
+        {
+          "t": "соль,",
+          "gloss": "salt",
+          "gram": "nominative singular, feminine",
+          "lemma": "соль",
+          "pos": "noun",
+          "stress": "со́ль"
+        },
+        {
+          "t": "перец,",
+          "gloss": "pepper",
+          "gram": "nominative singular, masculine",
+          "lemma": "перец",
+          "pos": "noun",
+          "stress": "пе́рец"
+        },
+        {
+          "t": "лук.",
+          "gloss": "onion",
+          "gram": "nominative singular, masculine",
+          "lemma": "лук",
+          "pos": "noun",
+          "stress": "лу́к"
         }
       ]
     },
     {
       "seg": 22,
-      "trans": "Are you kidding me?",
+      "trans": "In short, it's absolutely revolting.",
       "words": [
         {
-          "t": "Вы",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
+          "t": "В",
+          "gloss": "in, into",
+          "gram": "preposition",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null
         },
         {
-          "t": "издеваетесь?",
-          "lemma": "издеваться",
-          "pos": "verb",
-          "stress": "издева́етесь",
-          "gloss": "are you mocking, teasing",
-          "gram": "2nd person plural present (imperfective)"
+          "t": "общем,",
+          "gloss": "(in) short, so",
+          "gram": "prepositional singular, neuter; в общем = basically, so",
+          "lemma": "общий",
+          "pos": "adj",
+          "stress": "о́бщем"
+        },
+        {
+          "t": "гадость",
+          "gloss": "a disgusting thing, filth",
+          "gram": "nominative singular, feminine",
+          "lemma": "гадость",
+          "pos": "noun",
+          "stress": "га́дость"
+        },
+        {
+          "t": "страшная.",
+          "gloss": "terrible, dreadful",
+          "gram": "nominative singular, feminine",
+          "lemma": "страшный",
+          "pos": "adj",
+          "stress": "стра́шная"
         }
       ]
     },
     {
       "seg": 24,
-      "trans": "Why?",
+      "trans": "But mix it all together, and she likes it.",
       "words": [
         {
-          "t": "Почему?",
-          "lemma": "почему",
-          "pos": "adv",
-          "stress": "почему́",
-          "gloss": "why",
-          "gram": "question word"
+          "t": "Но",
+          "gloss": "but",
+          "gram": "conjunction",
+          "lemma": "но",
+          "pos": "conj",
+          "stress": null
+        },
+        {
+          "t": "если",
+          "gloss": "if",
+          "gram": "conjunction",
+          "lemma": "если",
+          "pos": "conj",
+          "stress": "е́сли"
+        },
+        {
+          "t": "всё",
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null
+        },
+        {
+          "t": "смешать,",
+          "gloss": "mix, blend",
+          "gram": "infinitive",
+          "lemma": "смешать",
+          "pos": "verb",
+          "stress": "сме́шать"
+        },
+        {
+          "t": "ей",
+          "gloss": "to her",
+          "gram": "3rd person feminine dative",
+          "lemma": "она",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "нравится.",
+          "gloss": "is pleasing",
+          "gram": "present, 3rd person singular, imperfective",
+          "lemma": "нравиться",
+          "pos": "verb",
+          "stress": "нра́вится"
         }
       ]
     },
     {
       "seg": 26,
-      "trans": "You were learning to discipline yourself.",
+      "trans": "Chef, are you kidding me?",
       "words": [
         {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
+          "t": "Шеф,",
+          "gloss": "chef, boss",
+          "gram": "form of address",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null
         },
         {
-          "t": "самовоспитывался.",
-          "lemma": "самовоспитываться",
+          "t": "вы",
+          "gloss": "you",
+          "gram": "2nd person plural, nominative",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "что,",
+          "gloss": "what (here: vy chto = have you lost your mind)",
+          "gram": "particle",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "издеваетесь?",
+          "gloss": "are mocking, are making fun",
+          "gram": "present, 2nd person plural, imperfective",
+          "lemma": "издеваться",
           "pos": "verb",
-          "stress": "самовоспитыва́лся",
-          "gloss": "educate oneself",
-          "gram": "past tense, masculine singular"
+          "stress": "издева́етесь"
         }
       ]
     },
     {
       "seg": 28,
-      "trans": "Well, let's go.",
+      "trans": "Why? You were building character.",
       "words": [
         {
-          "t": "Ну,",
-          "lemma": "ну",
-          "pos": "part",
-          "stress": null,
-          "gloss": "oh, come on",
-          "gram": "particle of impatience"
+          "t": "Почему?",
+          "gloss": "why",
+          "gram": "question word",
+          "lemma": "почему",
+          "pos": "adv",
+          "stress": "почему́"
         },
         {
-          "t": "пойдём.",
-          "lemma": "пойти",
+          "t": "Ты",
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "самовоспитывался.",
+          "gloss": "were bringing yourself up, building character",
+          "gram": "past, masculine singular, imperfective",
+          "lemma": "самовоспитываться",
           "pos": "verb",
-          "stress": null,
-          "gloss": "let's go",
-          "gram": "future, 1st person plural, perfective; = 'let's go'"
+          "stress": "самовоспитыва́лся"
         }
       ]
     },
@@ -498,28 +878,6 @@
     },
     {
       "seg": 32,
-      "trans": "How do you make it?",
-      "words": [
-        {
-          "t": "Как",
-          "lemma": "как",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
-        },
-        {
-          "t": "делаешь?",
-          "lemma": "делать",
-          "pos": "verb",
-          "stress": "де́лаешь",
-          "gloss": "are you doing",
-          "gram": "present, 2nd person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 34,
       "trans": "What did you put in?",
       "words": [
         {
@@ -528,226 +886,560 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "relative pronoun, accusative"
+          "gram": "accusative"
         },
         {
           "t": "добавлял?",
           "lemma": "добавлять",
           "pos": "verb",
           "stress": "доба́влял",
-          "gloss": "to add, supplement",
-          "gram": "verb to add, supplement"
+          "gloss": "were adding, added",
+          "gram": "past, masculine singular, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 34,
+      "trans": "Beef, liver, olive oil, basil.",
+      "words": [
+        {
+          "t": "Говядина,",
+          "gloss": "beef",
+          "gram": "nominative singular, feminine",
+          "lemma": "говядина",
+          "pos": "noun",
+          "stress": "говяди́на"
+        },
+        {
+          "t": "печень,",
+          "gloss": "liver",
+          "gram": "nominative singular, feminine",
+          "lemma": "печень",
+          "pos": "noun",
+          "stress": "пе́чень"
+        },
+        {
+          "t": "оливковое",
+          "gloss": "olive",
+          "gram": "nominative singular, neuter",
+          "lemma": "оливковый",
+          "pos": "adj",
+          "stress": "оли́вковое"
+        },
+        {
+          "t": "масло,",
+          "gloss": "oil; butter",
+          "gram": "nominative singular, neuter",
+          "lemma": "масло",
+          "pos": "noun",
+          "stress": "ма́сло"
+        },
+        {
+          "t": "базилик.",
+          "gloss": "basil",
+          "gram": "nominative singular, masculine",
+          "lemma": "базилик",
+          "pos": "noun",
+          "stress": "базили́к"
         }
       ]
     },
     {
       "seg": 36,
-      "trans": "Beef, liver.",
+      "trans": "Hi there!",
       "words": [
         {
-          "t": "Говядина,",
-          "lemma": "говядина",
-          "pos": "noun",
-          "stress": "говяди́на",
-          "gloss": "beef",
-          "gram": "nominative / accusative"
-        },
-        {
-          "t": "печень.",
-          "lemma": "печень",
-          "pos": "noun",
-          "stress": "пе́чень",
-          "gloss": "liver",
-          "gram": "noun liver"
+          "t": "Здорово!",
+          "gloss": "hi, hey (friendly greeting)",
+          "gram": "interjection; stressed on the first syllable it means great",
+          "lemma": "здорово",
+          "pos": "adv",
+          "stress": "здоро́во"
         }
       ]
     },
     {
       "seg": 38,
-      "trans": "Beef pâté.",
+      "trans": "So he let you go?",
       "words": [
         {
-          "t": "Паштет",
-          "lemma": "паштет",
-          "pos": "noun",
-          "stress": "паште́т",
-          "gloss": "pâté",
-          "gram": "nominative / accusative"
+          "t": "Так",
+          "gloss": "so",
+          "gram": "particle",
+          "lemma": "так",
+          "pos": "part",
+          "stress": null
         },
         {
-          "t": "говяжий.",
-          "lemma": "говяжий",
-          "pos": "adj",
-          "stress": "говя́жий",
-          "gloss": "beef",
-          "gram": "nominative / accusative"
-        }
-      ]
-    },
-    {
-      "seg": 39,
-      "trans": "Absolutely revolting.",
-      "words": [
-        {
-          "t": "Гадость",
-          "lemma": "гадость",
-          "pos": "noun",
-          "stress": "га́дость",
-          "gloss": "a disgusting thing, filth",
-          "gram": "nominative singular, feminine"
+          "t": "он",
+          "gloss": "he",
+          "gram": "masculine nominative singular",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": null
         },
         {
-          "t": "страшная.",
-          "lemma": "страшный",
-          "pos": "adj",
-          "stress": "стра́шная",
-          "gloss": "terrible, dreadful",
-          "gram": "feminine singular nominative"
+          "t": "тебя",
+          "gloss": "you",
+          "gram": "2nd person singular, accusative",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́"
+        },
+        {
+          "t": "отпустил?",
+          "gloss": "let go",
+          "gram": "past, masculine singular, perfective",
+          "lemma": "отпустить",
+          "pos": "verb",
+          "stress": "отпусти́л"
         }
       ]
     },
     {
       "seg": 40,
-      "trans": "But when you mix it all together...",
+      "trans": "Yep. They deported me.",
       "words": [
         {
-          "t": "Но",
-          "lemma": "но",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction"
+          "t": "Ага.",
+          "gloss": "yep, yeah",
+          "gram": "interjection",
+          "lemma": "ага",
+          "pos": "interj",
+          "stress": "ага́"
         },
         {
-          "t": "если",
-          "lemma": "если",
-          "pos": "conj",
-          "stress": "е́сли",
-          "gloss": "if",
-          "gram": "conjunction"
-        },
-        {
-          "t": "всё",
-          "lemma": "весь",
-          "pos": "det",
-          "stress": null,
-          "gloss": "everything",
-          "gram": "nominative neuter singular, used as a noun"
-        },
-        {
-          "t": "смешать...",
-          "lemma": "смешать",
+          "t": "Депортировали",
+          "lemma": "депортировать",
           "pos": "verb",
-          "stress": "сме́шать",
-          "gloss": "mix, blend",
-          "gram": "infinitive"
-        }
-      ]
-    },
-    {
-      "seg": 41,
-      "trans": "She likes it.",
-      "words": [
+          "stress": "депорти́ровали",
+          "gloss": "deported",
+          "gram": "past, plural (they), no subject"
+        },
         {
-          "t": "Ей",
-          "lemma": "она",
+          "t": "меня.",
+          "gloss": "me",
+          "gram": "1st person singular, accusative",
+          "lemma": "я",
           "pos": "pron",
-          "stress": null,
-          "gloss": "to her",
-          "gram": "3rd person feminine dative"
-        },
-        {
-          "t": "нравится.",
-          "lemma": "нравиться",
-          "pos": "verb",
-          "stress": "нра́вится",
-          "gloss": "is pleasing",
-          "gram": "present, 3rd person singular, imperfective"
+          "stress": "меня́"
         }
       ]
     },
     {
       "seg": 42,
-      "trans": "Are you kidding me?",
+      "trans": "I made a deal with the border guards.",
       "words": [
         {
-          "t": "Вы",
-          "lemma": "вы",
+          "t": "Я",
+          "gloss": "I",
+          "gram": "1st person singular, nominative",
+          "lemma": "я",
           "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
+          "stress": null
         },
         {
-          "t": "издеваетесь?",
-          "lemma": "издеваться",
-          "pos": "verb",
-          "stress": "издева́етесь",
-          "gloss": "are you mocking, teasing",
-          "gram": "2nd person plural present (imperfective)"
-        }
-      ]
-    },
-    {
-      "seg": 43,
-      "trans": "Why?",
-      "words": [
+          "t": "с",
+          "gloss": "with",
+          "gram": "preposition + instrumental",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null
+        },
         {
-          "t": "Почему?",
-          "lemma": "почему",
-          "pos": "adv",
-          "stress": "почему́",
-          "gloss": "why",
-          "gram": "question word"
+          "t": "пограничниками",
+          "lemma": "пограничник",
+          "pos": "noun",
+          "stress": "пограни́чниками",
+          "gloss": "border guards",
+          "gram": "instrumental plural (after с)"
+        },
+        {
+          "t": "договорился.",
+          "gloss": "made a deal, agreed",
+          "gram": "past tense, masculine singular, perfective reflexive",
+          "lemma": "договориться",
+          "pos": "verb",
+          "stress": "договори́лся"
         }
       ]
     },
     {
       "seg": 44,
-      "trans": "You were learning to discipline yourself.",
+      "trans": "They deleted me from the database.",
       "words": [
         {
-          "t": "Ты",
-          "lemma": "ты",
+          "t": "Они",
+          "gloss": "they",
+          "gram": "3rd person plural, nominative",
+          "lemma": "они",
           "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
+          "stress": "они́"
         },
         {
-          "t": "самовоспитывался.",
-          "lemma": "самовоспитываться",
-          "pos": "verb",
-          "stress": "самовоспитыва́лся",
-          "gloss": "educate oneself",
-          "gram": "past tense, masculine singular"
-        }
-      ]
-    },
-    {
-      "seg": 45,
-      "trans": "Well, let's go.",
-      "words": [
-        {
-          "t": "Ну,",
-          "lemma": "ну",
-          "pos": "part",
-          "stress": null,
-          "gloss": "oh, come on",
-          "gram": "particle of impatience"
+          "t": "меня",
+          "gloss": "me",
+          "gram": "1st person singular, accusative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": "меня́"
         },
         {
-          "t": "пойдём.",
-          "lemma": "пойти",
+          "t": "из",
+          "gloss": "from, out of",
+          "gram": "preposition + genitive",
+          "lemma": "из",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "базы",
+          "lemma": "база",
+          "pos": "noun",
+          "stress": "ба́зы",
+          "gloss": "database (literally base)",
+          "gram": "genitive singular, feminine (after из)"
+        },
+        {
+          "t": "удалили.",
+          "lemma": "удалить",
           "pos": "verb",
-          "stress": null,
-          "gloss": "let's go",
-          "gram": "future, 1st person plural, perfective; = 'let's go'"
+          "stress": "удали́ли",
+          "gloss": "deleted, removed",
+          "gram": "past, plural, perfective"
         }
       ]
     },
     {
       "seg": 46,
+      "trans": "Now I'm not Fedya, I'm Misha.",
+      "words": [
+        {
+          "t": "Теперь",
+          "gloss": "now",
+          "gram": "adverb of time",
+          "lemma": "теперь",
+          "pos": "adv",
+          "stress": "тепе́рь"
+        },
+        {
+          "t": "я",
+          "gloss": "I",
+          "gram": "1st person singular, nominative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "не",
+          "gloss": "not",
+          "gram": "negation",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null
+        },
+        {
+          "t": "Федя,",
+          "gloss": "Fedya",
+          "gram": "nominative; short for Фёдор",
+          "lemma": "федя",
+          "pos": "name",
+          "stress": null
+        },
+        {
+          "t": "я",
+          "gloss": "I",
+          "gram": "1st person singular, nominative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "Миша.",
+          "gloss": "Misha",
+          "gram": "nominative; short for Михаил",
+          "lemma": "миша",
+          "pos": "name",
+          "stress": null
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "Hi, Misha.",
+      "words": [
+        {
+          "t": "Здорово,",
+          "gloss": "hi, hey (friendly greeting)",
+          "gram": "interjection; stressed on the first syllable it means great",
+          "lemma": "здорово",
+          "pos": "adv",
+          "stress": "здоро́во"
+        },
+        {
+          "t": "Миша.",
+          "gloss": "Misha",
+          "gram": "nominative, used as address; short for Михаил",
+          "lemma": "миша",
+          "pos": "name",
+          "stress": null
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "Beef, liver and chicken pâté.",
+      "words": [
+        {
+          "t": "Паштет",
+          "gloss": "pâté",
+          "gram": "nominative singular, masculine",
+          "lemma": "паштет",
+          "pos": "noun",
+          "stress": "паште́т"
+        },
+        {
+          "t": "говяжий,",
+          "lemma": "говяжий",
+          "pos": "adj",
+          "stress": "говя́жий",
+          "gloss": "beef (adjective)",
+          "gram": "nominative singular, masculine"
+        },
+        {
+          "t": "печёночный,",
+          "lemma": "печёночный",
+          "pos": "adj",
+          "stress": "печёночный",
+          "gloss": "liver (adjective)",
+          "gram": "nominative singular, masculine"
+        },
+        {
+          "t": "куриный.",
+          "gloss": "chicken (adjective)",
+          "gram": "nominative singular, masculine",
+          "lemma": "куриный",
+          "pos": "adj",
+          "stress": "кури́ный"
+        }
+      ]
+    },
+    {
+      "seg": 51,
+      "trans": "Chicken liver, fat, salt, pepper, onion.",
+      "words": [
+        {
+          "t": "Печень",
+          "gloss": "liver",
+          "gram": "nominative singular, feminine",
+          "lemma": "печень",
+          "pos": "noun",
+          "stress": "пе́чень"
+        },
+        {
+          "t": "куриная,",
+          "lemma": "куриный",
+          "pos": "adj",
+          "stress": "кури́ная",
+          "gloss": "chicken (adjective)",
+          "gram": "nominative singular, feminine"
+        },
+        {
+          "t": "сало,",
+          "lemma": "сало",
+          "pos": "noun",
+          "stress": "са́ло",
+          "gloss": "salted pork fat",
+          "gram": "nominative singular, neuter"
+        },
+        {
+          "t": "соль,",
+          "gloss": "salt",
+          "gram": "nominative singular, feminine",
+          "lemma": "соль",
+          "pos": "noun",
+          "stress": "со́ль"
+        },
+        {
+          "t": "перец,",
+          "gloss": "pepper",
+          "gram": "nominative singular, masculine",
+          "lemma": "перец",
+          "pos": "noun",
+          "stress": "пе́рец"
+        },
+        {
+          "t": "лук.",
+          "gloss": "onion",
+          "gram": "nominative singular, masculine",
+          "lemma": "лук",
+          "pos": "noun",
+          "stress": "лу́к"
+        }
+      ]
+    },
+    {
+      "seg": 52,
+      "trans": "In short, it's absolutely revolting.",
+      "words": [
+        {
+          "t": "В",
+          "gloss": "in, into",
+          "gram": "preposition",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "общем,",
+          "gloss": "(in) short, so",
+          "gram": "prepositional singular, neuter; в общем = basically, so",
+          "lemma": "общий",
+          "pos": "adj",
+          "stress": "о́бщем"
+        },
+        {
+          "t": "гадость",
+          "gloss": "a disgusting thing, filth",
+          "gram": "nominative singular, feminine",
+          "lemma": "гадость",
+          "pos": "noun",
+          "stress": "га́дость"
+        },
+        {
+          "t": "страшная.",
+          "gloss": "terrible, dreadful",
+          "gram": "nominative singular, feminine",
+          "lemma": "страшный",
+          "pos": "adj",
+          "stress": "стра́шная"
+        }
+      ]
+    },
+    {
+      "seg": 53,
+      "trans": "But mix it all together, and she likes it.",
+      "words": [
+        {
+          "t": "Но",
+          "gloss": "but",
+          "gram": "conjunction",
+          "lemma": "но",
+          "pos": "conj",
+          "stress": null
+        },
+        {
+          "t": "если",
+          "gloss": "if",
+          "gram": "conjunction",
+          "lemma": "если",
+          "pos": "conj",
+          "stress": "е́сли"
+        },
+        {
+          "t": "всё",
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null
+        },
+        {
+          "t": "смешать,",
+          "gloss": "mix, blend",
+          "gram": "infinitive",
+          "lemma": "смешать",
+          "pos": "verb",
+          "stress": "сме́шать"
+        },
+        {
+          "t": "ей",
+          "gloss": "to her",
+          "gram": "3rd person feminine dative",
+          "lemma": "она",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "нравится.",
+          "gloss": "is pleasing",
+          "gram": "present, 3rd person singular, imperfective",
+          "lemma": "нравиться",
+          "pos": "verb",
+          "stress": "нра́вится"
+        }
+      ]
+    },
+    {
+      "seg": 54,
+      "trans": "Chef, are you kidding me?",
+      "words": [
+        {
+          "t": "Шеф,",
+          "gloss": "chef, boss",
+          "gram": "form of address",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null
+        },
+        {
+          "t": "вы",
+          "gloss": "you",
+          "gram": "2nd person plural, nominative",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "что,",
+          "gloss": "what (here: vy chto = have you lost your mind)",
+          "gram": "particle",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "издеваетесь?",
+          "gloss": "are mocking, are making fun",
+          "gram": "present, 2nd person plural, imperfective",
+          "lemma": "издеваться",
+          "pos": "verb",
+          "stress": "издева́етесь"
+        }
+      ]
+    },
+    {
+      "seg": 55,
+      "trans": "Why? You were building character.",
+      "words": [
+        {
+          "t": "Почему?",
+          "gloss": "why",
+          "gram": "question word",
+          "lemma": "почему",
+          "pos": "adv",
+          "stress": "почему́"
+        },
+        {
+          "t": "Ты",
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "самовоспитывался.",
+          "gloss": "were bringing yourself up, building character",
+          "gram": "past, masculine singular, imperfective",
+          "lemma": "самовоспитываться",
+          "pos": "verb",
+          "stress": "самовоспитыва́лся"
+        }
+      ]
+    },
+    {
+      "seg": 56,
       "trans": "By the way, it's good pâté.",
       "words": [
         {
@@ -777,29 +1469,7 @@
       ]
     },
     {
-      "seg": 47,
-      "trans": "How do you make it?",
-      "words": [
-        {
-          "t": "Как",
-          "lemma": "как",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
-        },
-        {
-          "t": "делаешь?",
-          "lemma": "делать",
-          "pos": "verb",
-          "stress": "де́лаешь",
-          "gloss": "are you doing",
-          "gram": "present, 2nd person singular, imperfective"
-        }
-      ]
-    },
-    {
-      "seg": 48,
+      "seg": 57,
       "trans": "What did you put in?",
       "words": [
         {
@@ -808,59 +1478,333 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "relative pronoun, accusative"
+          "gram": "accusative"
         },
         {
           "t": "добавлял?",
           "lemma": "добавлять",
           "pos": "verb",
           "stress": "доба́влял",
-          "gloss": "to add, supplement",
-          "gram": "verb to add, supplement"
+          "gloss": "were adding, added",
+          "gram": "past, masculine singular, imperfective"
         }
       ]
     },
     {
-      "seg": 49,
-      "trans": "Beef, liver.",
+      "seg": 58,
+      "trans": "Beef, liver, olive oil, basil.",
       "words": [
         {
           "t": "Говядина,",
+          "gloss": "beef",
+          "gram": "nominative singular, feminine",
           "lemma": "говядина",
           "pos": "noun",
-          "stress": "говяди́на",
-          "gloss": "beef",
-          "gram": "nominative / accusative"
+          "stress": "говяди́на"
         },
         {
-          "t": "печень.",
+          "t": "печень,",
+          "gloss": "liver",
+          "gram": "nominative singular, feminine",
           "lemma": "печень",
           "pos": "noun",
-          "stress": "пе́чень",
-          "gloss": "liver",
-          "gram": "noun liver"
+          "stress": "пе́чень"
+        },
+        {
+          "t": "оливковое",
+          "gloss": "olive",
+          "gram": "nominative singular, neuter",
+          "lemma": "оливковый",
+          "pos": "adj",
+          "stress": "оли́вковое"
+        },
+        {
+          "t": "масло,",
+          "gloss": "oil; butter",
+          "gram": "nominative singular, neuter",
+          "lemma": "масло",
+          "pos": "noun",
+          "stress": "ма́сло"
+        },
+        {
+          "t": "базилик.",
+          "gloss": "basil",
+          "gram": "nominative singular, masculine",
+          "lemma": "базилик",
+          "pos": "noun",
+          "stress": "базили́к"
         }
       ]
     },
     {
-      "seg": 51,
-      "trans": "Goodbye!",
+      "seg": 59,
+      "trans": "Hi there!",
       "words": [
         {
-          "t": "До",
-          "lemma": "до",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "until",
-          "gram": "preposition + genitive"
+          "t": "Здорово!",
+          "gloss": "hi, hey (friendly greeting)",
+          "gram": "interjection; stressed on the first syllable it means great",
+          "lemma": "здорово",
+          "pos": "adv",
+          "stress": "здоро́во"
+        }
+      ]
+    },
+    {
+      "seg": 60,
+      "trans": "So he let you go?",
+      "words": [
+        {
+          "t": "Так",
+          "gloss": "so",
+          "gram": "particle",
+          "lemma": "так",
+          "pos": "part",
+          "stress": null
         },
         {
-          "t": "свидания!",
-          "lemma": "свидание",
+          "t": "он",
+          "gloss": "he",
+          "gram": "masculine nominative singular",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "тебя",
+          "gloss": "you",
+          "gram": "2nd person singular, accusative",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́"
+        },
+        {
+          "t": "отпустил?",
+          "gloss": "let go",
+          "gram": "past, masculine singular, perfective",
+          "lemma": "отпустить",
+          "pos": "verb",
+          "stress": "отпусти́л"
+        }
+      ]
+    },
+    {
+      "seg": 61,
+      "trans": "Yep. They deported me.",
+      "words": [
+        {
+          "t": "Ага.",
+          "gloss": "yep, yeah",
+          "gram": "interjection",
+          "lemma": "ага",
+          "pos": "interj",
+          "stress": "ага́"
+        },
+        {
+          "t": "Депортировали",
+          "lemma": "депортировать",
+          "pos": "verb",
+          "stress": "депорти́ровали",
+          "gloss": "deported",
+          "gram": "past, plural (they), no subject"
+        },
+        {
+          "t": "меня.",
+          "gloss": "me",
+          "gram": "1st person singular, accusative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": "меня́"
+        }
+      ]
+    },
+    {
+      "seg": 62,
+      "trans": "I made a deal with the border guards.",
+      "words": [
+        {
+          "t": "Я",
+          "gloss": "I",
+          "gram": "1st person singular, nominative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "с",
+          "gloss": "with",
+          "gram": "preposition + instrumental",
+          "lemma": "с",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "пограничниками",
+          "lemma": "пограничник",
           "pos": "noun",
-          "stress": "свида́ния",
-          "gloss": "meeting (goodbye)",
-          "gram": "genitive neuter singular"
+          "stress": "пограни́чниками",
+          "gloss": "border guards",
+          "gram": "instrumental plural (after с)"
+        },
+        {
+          "t": "договорился.",
+          "gloss": "made a deal, agreed",
+          "gram": "past tense, masculine singular, perfective reflexive",
+          "lemma": "договориться",
+          "pos": "verb",
+          "stress": "договори́лся"
+        }
+      ]
+    },
+    {
+      "seg": 63,
+      "trans": "They deleted me from the database.",
+      "words": [
+        {
+          "t": "Они",
+          "gloss": "they",
+          "gram": "3rd person plural, nominative",
+          "lemma": "они",
+          "pos": "pron",
+          "stress": "они́"
+        },
+        {
+          "t": "меня",
+          "gloss": "me",
+          "gram": "1st person singular, accusative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": "меня́"
+        },
+        {
+          "t": "из",
+          "gloss": "from, out of",
+          "gram": "preposition + genitive",
+          "lemma": "из",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "базы",
+          "lemma": "база",
+          "pos": "noun",
+          "stress": "ба́зы",
+          "gloss": "database (literally base)",
+          "gram": "genitive singular, feminine (after из)"
+        },
+        {
+          "t": "удалили.",
+          "lemma": "удалить",
+          "pos": "verb",
+          "stress": "удали́ли",
+          "gloss": "deleted, removed",
+          "gram": "past, plural, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 64,
+      "trans": "Now I'm not Fedya, I'm Misha.",
+      "words": [
+        {
+          "t": "Теперь",
+          "gloss": "now",
+          "gram": "adverb of time",
+          "lemma": "теперь",
+          "pos": "adv",
+          "stress": "тепе́рь"
+        },
+        {
+          "t": "я",
+          "gloss": "I",
+          "gram": "1st person singular, nominative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "не",
+          "gloss": "not",
+          "gram": "negation",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null
+        },
+        {
+          "t": "Федя,",
+          "gloss": "Fedya",
+          "gram": "nominative; short for Фёдор",
+          "lemma": "федя",
+          "pos": "name",
+          "stress": null
+        },
+        {
+          "t": "я",
+          "gloss": "I",
+          "gram": "1st person singular, nominative",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null
+        },
+        {
+          "t": "Миша.",
+          "gloss": "Misha",
+          "gram": "nominative; short for Михаил",
+          "lemma": "миша",
+          "pos": "name",
+          "stress": null
+        }
+      ]
+    },
+    {
+      "seg": 65,
+      "trans": "Hi, Misha.",
+      "words": [
+        {
+          "t": "Здорово,",
+          "gloss": "hi, hey (friendly greeting)",
+          "gram": "interjection; stressed on the first syllable it means great",
+          "lemma": "здорово",
+          "pos": "adv",
+          "stress": "здоро́во"
+        },
+        {
+          "t": "Миша.",
+          "gloss": "Misha",
+          "gram": "nominative, used as address; short for Михаил",
+          "lemma": "миша",
+          "pos": "name",
+          "stress": null
+        }
+      ]
+    },
+    {
+      "seg": 67,
+      "trans": "Well, see you!",
+      "words": [
+        {
+          "t": "Ну,",
+          "gloss": "well",
+          "gram": "particle",
+          "lemma": "ну",
+          "pos": "part",
+          "stress": null
+        },
+        {
+          "t": "до",
+          "gloss": "until",
+          "gram": "preposition + genitive",
+          "lemma": "до",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "встречи!",
+          "gloss": "meeting (до встречи = see you)",
+          "gram": "genitive singular, feminine",
+          "lemma": "встреча",
+          "pos": "noun",
+          "stress": "встре́чи"
         }
       ]
     }
@@ -1243,222 +2187,6 @@
         }
       ]
     },
-    "говяжий": {
-      "lemma": "говяжий",
-      "stress": "говя́жий",
-      "pos": "adj",
-      "gloss": "beef",
-      "meanings": [
-        {
-          "en": "beef",
-          "note": "Agrees in gender, number, and case with the noun it modifies ('beef')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "говяжий",
-              "говяжяя",
-              "говяжее",
-              "говяжие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "говяжего",
-              "говяжей",
-              "говяжего",
-              "говяжих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "говяжему",
-              "говяжей",
-              "говяжему",
-              "говяжим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "говяжий",
-              "говяжюю",
-              "говяжее",
-              "говяжие"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "говяжим",
-              "говяжей",
-              "говяжим",
-              "говяжими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "говяжем",
-              "говяжей",
-              "говяжем",
-              "говяжих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Паштет говяжий.",
-          "trans": "Beef pâté."
-        },
-        {
-          "text": "Приготовь нежный говяжий паштет для гостей.",
-          "trans": "Prepare a tender beef pate for the guests."
-        },
-        {
-          "text": "На плите уже три часа варится крепкий говяжий бульон.",
-          "trans": "A rich beef broth has been simmering on the stove for three hours."
-        }
-      ],
-      "related": [
-        {
-          "word": "говядина",
-          "gloss": "beef"
-        }
-      ]
-    },
-    "делать": {
-      "lemma": "делать",
-      "stress": "де́лать",
-      "pos": "verb",
-      "gloss": "to do, to make",
-      "aspect": "impf",
-      "pair": "сделать",
-      "meanings": [
-        {
-          "en": "to do",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
-        },
-        {
-          "en": "to make",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to do, to make', paired with 'сделать'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "делаю",
-              "делаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "делаешь",
-              "делаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "делает",
-              "делают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "делал",
-                "делала",
-                "делало",
-                "делали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "делай",
-                "делайте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Что делаешь?",
-          "trans": "What are you doing?"
-        },
-        {
-          "text": "Я делаю ужин.",
-          "trans": "I'm making dinner."
-        },
-        {
-          "text": "Привет, Аркадий Борисович. Что делаешь?",
-          "trans": "Hi, Arkady Borisovich. What are you doing?"
-        }
-      ],
-      "related": [
-        {
-          "word": "сделать",
-          "gloss": "to do"
-        },
-        {
-          "word": "переделать",
-          "gloss": "to redo"
-        },
-        {
-          "word": "сделанный",
-          "gloss": "made"
-        }
-      ]
-    },
     "до": {
       "lemma": "до",
       "stress": "до",
@@ -1733,44 +2461,6 @@
         {
           "word": "поиздеваться",
           "gloss": "to mock"
-        }
-      ]
-    },
-    "как": {
-      "lemma": "как",
-      "stress": "как",
-      "pos": "adv",
-      "gloss": "how; as",
-      "meanings": [
-        {
-          "en": "how",
-          "note": "Question word. Core Russian adv meaning 'how; as' in everyday speech."
-        },
-        {
-          "en": "as",
-          "note": "Как вы знаете = as you know. Core Russian adv meaning 'how; as' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Как там в Венгрии?",
-          "trans": "How was it in Hungary?"
-        },
-        {
-          "text": "Как вы все знаете...",
-          "trans": "As you all know..."
-        },
-        {
-          "text": "Здравствуйте! Как там в Венгрии?",
-          "trans": "Hello! How was it in Hungary?"
-        }
-      ],
-      "related": [
-        {
-          "word": "очень как",
-          "gloss": "intensified / related adverb (how)"
         }
       ]
     },
@@ -2251,111 +2941,6 @@
         }
       ]
     },
-    "пойти": {
-      "lemma": "пойти",
-      "stress": "пойти́",
-      "pos": "verb",
-      "gloss": "to go (set off)",
-      "aspect": "pf",
-      "pair": "ходить",
-      "meanings": [
-        {
-          "en": "to go, to set off",
-          "note": "On foot. Used as an perfective (single completed action) verb meaning 'to go (set off)', paired with 'идти'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "пойду",
-              "пойдём"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "пойдёшь",
-              "пойдёте"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "пойдёт",
-              "пойдут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "пошёл",
-                "пошла",
-                "пошло",
-                "пошли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "пойди",
-                "пойдите"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Можно я пойду?",
-          "trans": "May I go?"
-        },
-        {
-          "text": "Пойдём домой.",
-          "trans": "Let's go home."
-        },
-        {
-          "text": "А можно я пойду посмотрю?",
-          "trans": "Can I go and have a look?"
-        }
-      ],
-      "related": [
-        {
-          "word": "идти",
-          "gloss": "to go"
-        }
-      ]
-    },
     "почему": {
       "lemma": "почему",
       "stress": "почему́",
@@ -2479,96 +3064,6 @@
         {
           "word": "время",
           "gloss": "time"
-        }
-      ]
-    },
-    "свидание": {
-      "lemma": "свидание",
-      "stress": "свида́ние",
-      "pos": "noun",
-      "gloss": "meeting; date",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
-        },
-        {
-          "en": "date (romantic)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "свидание",
-              "свидания"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "свидания",
-              "свиданий"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "свиданию",
-              "свиданиям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "свидание",
-              "свидания"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "свиданием",
-              "свиданиями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "свидании",
-              "свиданиях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
-        },
-        {
-          "text": "У меня сегодня свидание.",
-          "trans": "I have a date today."
-        },
-        {
-          "text": "У неё свидание.",
-          "trans": "She has a date."
-        }
-      ],
-      "related": [
-        {
-          "word": "видать",
-          "gloss": "to see"
         }
       ]
     },
@@ -3051,6 +3546,2343 @@
         {
           "word": "потому что",
           "gloss": "because"
+        }
+      ]
+    },
+    "в": {
+      "lemma": "в",
+      "stress": "в",
+      "pos": "prep",
+      "gloss": "in, into",
+      "meanings": [
+        {
+          "en": "in",
+          "note": "+ prepositional (where). Core Russian prep meaning 'in, into' in everyday speech."
+        },
+        {
+          "en": "into, to",
+          "note": "+ accusative (where to). Core Russian prep meaning 'in, into' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Как там в Венгрии?",
+          "trans": "How is it in Hungary?"
+        },
+        {
+          "text": "Я вырос в коммуналке.",
+          "trans": "I grew up in a communal flat."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
+        }
+      ],
+      "related": [
+        {
+          "word": "во",
+          "gloss": "in, into (before consonant clusters)"
+        },
+        {
+          "word": "внутри",
+          "gloss": "inside"
+        }
+      ]
+    },
+    "общий": {
+      "lemma": "общий",
+      "stress": "о́бщий",
+      "pos": "adj",
+      "gloss": "shared, common",
+      "meanings": [
+        {
+          "en": "shared, common",
+          "note": "Общий туалет = a shared toilet. Agrees in gender, number, and case with the noun it modifies ('shared, common')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "общий",
+              "общая",
+              "общее",
+              "общие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "общего",
+              "общей",
+              "общего",
+              "общих"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "общему",
+              "общей",
+              "общему",
+              "общим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "общий / общего",
+              "общую",
+              "общее",
+              "общие / общих"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "общим",
+              "общей",
+              "общим",
+              "общими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "общем",
+              "общей",
+              "общем",
+              "общих"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это общий туалет.",
+          "trans": "It's a shared toilet."
+        },
+        {
+          "text": "У нас общая кухня.",
+          "trans": "We have a shared kitchen."
+        },
+        {
+          "text": "Это же общий туалет, Ваня!",
+          "trans": "This is a shared bathroom, Vanya!"
+        }
+      ],
+      "related": [
+        {
+          "word": "приобщить",
+          "gloss": "to add"
+        }
+      ]
+    },
+    "оливковый": {
+      "lemma": "оливковый",
+      "stress": "оливко́вый",
+      "pos": "adj",
+      "gloss": "olive",
+      "meanings": [
+        {
+          "en": "olive",
+          "note": "Agrees in gender, number, and case with the noun it modifies ('olive')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "оливковый",
+              "оливковая",
+              "оливковое",
+              "оливковые"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "оливкового",
+              "оливковой",
+              "оливкового",
+              "оливковых"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "оливковому",
+              "оливковой",
+              "оливковому",
+              "оливковым"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "оливковый",
+              "оливковую",
+              "оливковое",
+              "оливковые"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "оливковым",
+              "оливковой",
+              "оливковым",
+              "оливковыми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "оливковом",
+              "оливковой",
+              "оливковом",
+              "оливковых"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Город был в осаде, и не было ничего, кроме оливкового масла и яиц.",
+          "trans": "A city was under siege, and there was nothing except olive oil and eggs."
+        },
+        {
+          "text": "Шеф говорит, что это очень оливковый выбор.",
+          "trans": "The chef says that this is a very olive choice."
+        }
+      ],
+      "related": [
+        {
+          "word": "оливково",
+          "gloss": "olively (adverbial form)"
+        },
+        {
+          "word": "очень оливковый",
+          "gloss": "very olive"
+        }
+      ]
+    },
+    "масло": {
+      "lemma": "масло",
+      "stress": "ма́сло",
+      "pos": "noun",
+      "gloss": "butter, oil",
+      "gender": "n",
+      "meanings": [
+        {
+          "en": "butter, oil",
+          "note": "Declinable neuter noun meaning 'butter', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "масло",
+              "масла"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "масла",
+              "масел"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "маслу",
+              "маслам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "масло",
+              "масла"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "маслом",
+              "маслами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "масле",
+              "маслах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Добавь кусочек масла на сковороду.",
+          "trans": "Add a piece of butter to the pan."
+        },
+        {
+          "text": "Затем добавь масло и тёплые сливки.",
+          "trans": "Then add butter and warm cream."
+        },
+        {
+          "text": "Добавляем немного сливочного масла и соли.",
+          "trans": "We add a little butter and salt."
+        }
+      ],
+      "related": [
+        {
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
+        }
+      ]
+    },
+    "базилик": {
+      "lemma": "базилик",
+      "stress": "базили́к",
+      "pos": "noun",
+      "gloss": "basil",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "basil",
+          "note": "From Greek 'basilikon' ('royal herb', from 'basileus', king), prized in Mediterranean and European cuisine."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "базилик",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "базилика",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "базилику",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "базилик",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "базиликом",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "базилике",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Вы добавили базилик, да?",
+          "trans": "You added basil, right?"
+        },
+        {
+          "text": "Вы добавили свежий базилик в соус, да?",
+          "trans": "You added fresh basil to the sauce, right?"
+        },
+        {
+          "text": "Для этого салата нам нужен зелёный базилик.",
+          "trans": "We need green basil for this salad."
+        }
+      ],
+      "related": [
+        {
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
+        }
+      ]
+    },
+    "здорово": {
+      "lemma": "здорово",
+      "stress": "здо́рово",
+      "pos": "adv",
+      "gloss": "great, cool",
+      "meanings": [
+        {
+          "en": "great, cool, wonderful",
+          "note": "colloquial; stressed on the first syllable"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Здорово, поздравляю.",
+          "trans": "Great, congratulations."
+        },
+        {
+          "text": "Это просто здорово!",
+          "trans": "That's just great!"
+        },
+        {
+          "text": "Ты адвокат? Здорово!",
+          "trans": "You're a lawyer? That's great!"
+        }
+      ],
+      "related": [
+        {
+          "word": "здоровье",
+          "gloss": "health"
+        },
+        {
+          "word": "здоровый",
+          "gloss": "healthy"
+        }
+      ]
+    },
+    "так": {
+      "lemma": "так",
+      "stress": "так",
+      "pos": "part",
+      "gloss": "so, then; like that",
+      "meanings": [
+        {
+          "en": "so, then",
+          "note": "At the start of a question. Core Russian part meaning 'so, then; like that' in everyday speech."
+        },
+        {
+          "en": "like that, so",
+          "note": "Core Russian part meaning 'so, then; like that' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Так тебя не ждать?",
+          "trans": "So I shouldn't wait for you?"
+        },
+        {
+          "text": "Так хорошо.",
+          "trans": "That's good like that."
+        },
+        {
+          "text": "Так тебя не ждать сегодня?",
+          "trans": "So I shouldn't wait for you tonight?"
+        }
+      ],
+      "related": [
+        {
+          "word": "такой",
+          "gloss": "such"
+        },
+        {
+          "word": "как",
+          "gloss": "how, as"
+        }
+      ]
+    },
+    "он": {
+      "lemma": "он",
+      "stress": "он",
+      "pos": "pron",
+      "gloss": "he; it",
+      "meanings": [
+        {
+          "en": "he",
+          "note": "accusative/genitive его (него after prepositions), dative ему (нему)"
+        },
+        {
+          "en": "it",
+          "note": "For masculine and neuter things. Core Russian pron meaning 'he; it' in everyday speech."
+        },
+        {
+          "en": "other forms: его (gen/acc), ему (dat), им (instr), нём (prep)",
+          "note": "Case forms. Core Russian pron meaning 'he; it' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "он"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "его"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "его"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "им"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нём"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Держи его!",
+          "trans": "Grab him!"
+        },
+        {
+          "text": "Надо его помыть.",
+          "trans": "It needs a wash."
+        },
+        {
+          "text": "Очкарик! Держи его!",
+          "trans": "Four-eyes! Grab him!"
+        }
+      ],
+      "related": [
+        {
+          "word": "она",
+          "gloss": "she"
+        },
+        {
+          "word": "они",
+          "gloss": "they"
+        },
+        {
+          "word": "его",
+          "gloss": "his, him"
+        }
+      ]
+    },
+    "отпустить": {
+      "lemma": "отпустить",
+      "stress": "отпусти́ть",
+      "pos": "verb",
+      "gloss": "to let go, to release",
+      "aspect": "pf",
+      "pair": "отпускать",
+      "meanings": [
+        {
+          "en": "to let go, to release",
+          "note": "A prisoner, a hand. Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as an perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
+        },
+        {
+          "en": "to let someone leave",
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'пустить'). Used as an perfective (single completed action) verb meaning 'to let go, to release', paired with 'отпускать'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "отпущу",
+              "отпустим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "отпустишь",
+              "отпустите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "отпустит",
+              "отпустят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "отпустил",
+                "отпустила",
+                "отпустило",
+                "отпустили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "отпусти",
+                "отпустите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Отпустить немедленно!",
+          "trans": "Release him immediately!"
+        },
+        {
+          "text": "Отпусти меня домой.",
+          "trans": "Let me go home."
+        },
+        {
+          "text": "Какая взятка? Отпустить немедленно!",
+          "trans": "What bribe? Release him immediately!"
+        }
+      ],
+      "related": [
+        {
+          "word": "отпускать",
+          "gloss": "to let go"
+        },
+        {
+          "word": "пустить",
+          "gloss": "to let go"
+        },
+        {
+          "word": "пусть",
+          "gloss": "let"
+        }
+      ]
+    },
+    "теперь": {
+      "lemma": "теперь",
+      "stress": "тепе́рь",
+      "pos": "adv",
+      "gloss": "now (from now on)",
+      "meanings": [
+        {
+          "en": "now",
+          "note": "As opposed to before. Core Russian adv meaning 'now (from now on)' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Теперь я начальник.",
+          "trans": "Now I'm the boss."
+        },
+        {
+          "text": "Теперь всё хорошо.",
+          "trans": "Now everything's fine."
+        },
+        {
+          "text": "Теперь я начальник нашей стройки. Ты уволен!",
+          "trans": "Now I'm the boss of our building site. You're fired!"
+        }
+      ],
+      "related": [
+        {
+          "word": "сейчас",
+          "gloss": "right now, at the moment"
+        }
+      ]
+    },
+    "я": {
+      "lemma": "я",
+      "stress": "я",
+      "pos": "pron",
+      "gloss": "I",
+      "meanings": [
+        {
+          "en": "I",
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
+        },
+        {
+          "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
+          "note": "Case forms. Core Russian pron meaning 'I' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я учу уроки.",
+          "trans": "I'm doing my homework."
+        },
+        {
+          "text": "Я вырос здесь.",
+          "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "не": {
+      "lemma": "не",
+      "stress": "не",
+      "pos": "part",
+      "gloss": "not",
+      "meanings": [
+        {
+          "en": "not",
+          "note": "goes right before the word it negates"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я не знаю.",
+          "trans": "I don't know."
+        },
+        {
+          "text": "Денег не хватило.",
+          "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "нет",
+          "gloss": "no"
+        },
+        {
+          "word": "ни",
+          "gloss": "neither, not a single"
+        }
+      ]
+    },
+    "встреча": {
+      "lemma": "встреча",
+      "stress": "встре́ча",
+      "pos": "noun",
+      "gloss": "meeting",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "meeting",
+          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
+        },
+        {
+          "en": "see you",
+          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "встреча",
+              "встречи"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "встречи",
+              "встреч"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "встрече",
+              "встречам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "встречу",
+              "встречи"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "встречей",
+              "встречами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "встрече",
+              "встречах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До встречи!",
+          "trans": "See you!"
+        },
+        {
+          "text": "У меня встреча.",
+          "trans": "I have a meeting."
+        },
+        {
+          "text": "Решается ваш вопрос, Клавдия Викторовна! Вы не видите, у меня встреча?",
+          "trans": "Your question is being sorted out, Klavdia Viktorovna! Can't you see I have a meeting?"
+        }
+      ],
+      "related": [
+        {
+          "word": "встретиться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встречаться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встретить",
+          "gloss": "to meet"
+        }
+      ]
+    },
+    "куриный": {
+      "lemma": "куриный",
+      "stress": "кури́ный",
+      "pos": "adj",
+      "gloss": "chicken (relational)",
+      "meanings": [
+        {
+          "en": "chicken (relational)",
+          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('chicken (relational)')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "куриный",
+              "куриная",
+              "куриное",
+              "куриные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "куриного",
+              "куриной",
+              "куриного",
+              "куриных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "куриному",
+              "куриной",
+              "куриному",
+              "куриным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "куриный",
+              "куриную",
+              "куриное",
+              "куриные"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "куриным",
+              "куриной",
+              "куриным",
+              "куриными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "курином",
+              "куриной",
+              "курином",
+              "куриных"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Шеф, это отличный куриный бульон.",
+          "trans": "Chef, this is an excellent chicken broth."
+        },
+        {
+          "text": "Шеф говорит, что это очень куриный выбор.",
+          "trans": "The chef says that this is a very chicken choice."
+        }
+      ],
+      "related": [
+        {
+          "word": "курино",
+          "gloss": "chickenly (adverbial form)"
+        },
+        {
+          "word": "очень куриный",
+          "gloss": "very chicken"
+        }
+      ]
+    },
+    "соль": {
+      "lemma": "соль",
+      "stress": "соль",
+      "pos": "noun",
+      "gloss": "salt",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "salt",
+          "note": "Culinary seasoning. Common feminine noun meaning 'salt' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "соль",
+              "соли"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "соли",
+              "солей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "соли",
+              "солям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "соль",
+              "соли"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "солью",
+              "солями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "соли",
+              "солях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Лук, соль, перец — и всё.",
+          "trans": "Onion, salt, pepper — and that's all."
+        },
+        {
+          "text": "Передай соль, пожалуйста.",
+          "trans": "Pass the salt, please."
+        },
+        {
+          "text": "Попробуй! Лук, соль, перец — и всё.",
+          "trans": "Try it! Onion, salt, pepper — and that's all."
+        }
+      ],
+      "related": [
+        {
+          "word": "солный",
+          "gloss": "related to salt (adj.)"
+        }
+      ]
+    },
+    "перец": {
+      "lemma": "перец",
+      "stress": "пе́рец",
+      "pos": "noun",
+      "gloss": "pepper",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "pepper (spice / vegetable)",
+          "note": "Fleeting vowel: перца. Common masculine noun meaning 'pepper' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "перец",
+              "перцы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "перца",
+              "перцев"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "перцу",
+              "перцам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "перец",
+              "перцы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "перцем",
+              "перцами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "перце",
+              "перцах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Лук, соль, перец — и всё.",
+          "trans": "Onion, salt, pepper — and that's all."
+        },
+        {
+          "text": "Добавь немного перца.",
+          "trans": "Add a little pepper."
+        },
+        {
+          "text": "Попробуй! Лук, соль, перец — и всё.",
+          "trans": "Try it! Onion, salt, pepper — and that's all."
+        }
+      ],
+      "related": [
+        {
+          "word": "перед",
+          "gloss": "in front of"
+        },
+        {
+          "word": "перерыв",
+          "gloss": "break"
+        },
+        {
+          "word": "перебор",
+          "gloss": "overkill"
+        }
+      ]
+    },
+    "лук": {
+      "lemma": "лук",
+      "stress": "лук",
+      "pos": "noun",
+      "gloss": "onion",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "onion (culinary)",
+          "note": "Also bow for archery. Common masculine noun meaning 'onion' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "лук",
+              "луки"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "лука",
+              "луков"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "луку",
+              "лукам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "лук",
+              "луки"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "луком",
+              "луками"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "луке",
+              "луках"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Лук, соль, перец — и всё.",
+          "trans": "Onion, salt, pepper — and that's all."
+        },
+        {
+          "text": "Нарежь лук для салата.",
+          "trans": "Chop the onion for the salad."
+        },
+        {
+          "text": "Попробуй! Лук, соль, перец — и всё.",
+          "trans": "Try it! Onion, salt, pepper — and that's all."
+        }
+      ],
+      "related": [
+        {
+          "word": "лукный",
+          "gloss": "related to onion (adj.)"
+        }
+      ]
+    },
+    "ага": {
+      "lemma": "ага",
+      "stress": "ага́",
+      "pos": "interj",
+      "gloss": "uh-huh, yeah",
+      "register": "informal",
+      "meanings": [
+        {
+          "en": "uh-huh, yeah",
+          "note": "Casual yes. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+        },
+        {
+          "en": "yeah, right",
+          "note": "Said ironically. Core Russian interj meaning 'uh-huh, yeah' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ага, понятно.",
+          "trans": "Uh-huh, I see."
+        },
+        {
+          "text": "Ага, как же!",
+          "trans": "Yeah, right!"
+        },
+        {
+          "text": "Ага, как с Кайеном, да?",
+          "trans": "Yeah, right, like with the Cayenne?"
+        }
+      ],
+      "related": [
+        {
+          "word": "угу",
+          "gloss": "uh-huh"
+        },
+        {
+          "word": "да",
+          "gloss": "yes"
+        }
+      ]
+    },
+    "депортировать": {
+      "lemma": "депортировать",
+      "stress": "депортиро́вать",
+      "pos": "verb",
+      "gloss": "deport",
+      "aspect": "impf",
+      "pair": null,
+      "meanings": [
+        {
+          "en": "deport",
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'deport'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "депортирую",
+              "депортируем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "депортируешь",
+              "депортируете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "депортирует",
+              "депортируют"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "депортировал",
+                "депортировала",
+                "депортировало",
+                "депортировали"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Тебя депортировать.",
+          "trans": "You must be deported."
+        },
+        {
+          "text": "Его могут быстро депортировать за отсутствие документов.",
+          "trans": "They can quickly deport him for lacking documents."
+        },
+        {
+          "text": "Миграционная служба обещала никого сегодня не депортировать.",
+          "trans": "The migration service promised not to deport anyone today."
+        }
+      ],
+      "related": [
+        {
+          "word": "депозит",
+          "gloss": "deposit"
+        }
+      ]
+    },
+    "с": {
+      "lemma": "с",
+      "stress": "с",
+      "pos": "prep",
+      "gloss": "with",
+      "governs": "+ instrumental",
+      "meanings": [
+        {
+          "en": "with",
+          "note": "+ instrumental; со before some consonant clusters: со всеми"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Поделись со всеми.",
+          "trans": "Share with everyone."
+        },
+        {
+          "text": "Я с папой.",
+          "trans": "I'm with Dad."
+        },
+        {
+          "text": "Со всеми поделись поровну, понял?",
+          "trans": "Share it all equally with everyone, understand?"
+        }
+      ],
+      "related": [
+        {
+          "word": "со",
+          "gloss": "with, from"
+        },
+        {
+          "word": "без",
+          "gloss": "without"
+        }
+      ]
+    },
+    "договориться": {
+      "lemma": "договориться",
+      "stress": "договори́ться",
+      "pos": "verb",
+      "gloss": "to agree, to arrange",
+      "aspect": "pf",
+      "pair": "договариваться",
+      "meanings": [
+        {
+          "en": "to agree, to come to an arrangement",
+          "note": "'договоримся' = we'll work something out"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "договорюсь",
+              "договоримся"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "договоришься",
+              "договоритесь"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "договорится",
+              "договорятся"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "договорился",
+                "договорилась",
+                "договорилось",
+                "договорились"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "договорись",
+                "договоритесь"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Договоримся на завтра.",
+          "trans": "We'll arrange something for tomorrow."
+        },
+        {
+          "text": "Мы договорились.",
+          "trans": "We've agreed."
+        },
+        {
+          "text": "Позвони мне вечером. Договоримся на завтра.",
+          "trans": "Call me this evening. We'll arrange something for tomorrow."
+        }
+      ],
+      "related": [
+        {
+          "word": "договариваться",
+          "gloss": "to agree"
+        },
+        {
+          "word": "говорить",
+          "gloss": "to speak"
+        },
+        {
+          "word": "поговорить",
+          "gloss": "to have a talk"
+        }
+      ]
+    },
+    "они": {
+      "lemma": "они",
+      "stress": "они́",
+      "pos": "pron",
+      "gloss": "they",
+      "meanings": [
+        {
+          "en": "they",
+          "note": "Core Russian pron meaning 'they' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "они"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "их"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "им"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "их"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "них"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Они строят центр.",
+          "trans": "They are building a centre."
+        },
+        {
+          "text": "Их накажет история.",
+          "trans": "History will punish them."
+        },
+        {
+          "text": "Ты преподавай. А они пусть строят свои торговые центры.",
+          "trans": "You teach. And let them build their shopping centres."
+        }
+      ],
+      "related": [
+        {
+          "word": "он",
+          "gloss": "he"
+        },
+        {
+          "word": "она",
+          "gloss": "she"
+        },
+        {
+          "word": "их",
+          "gloss": "their, them"
+        }
+      ]
+    },
+    "из": {
+      "lemma": "из",
+      "stress": "из",
+      "pos": "prep",
+      "gloss": "from, out of",
+      "governs": "+ genitive",
+      "meanings": [
+        {
+          "en": "from, out of",
+          "note": "+ genitive: 'из мэрии' = from the town hall"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Мне звонили из мэрии.",
+          "trans": "The town hall called me."
+        },
+        {
+          "text": "Он из Москвы.",
+          "trans": "He's from Moscow."
+        },
+        {
+          "text": "Марина Сергеевна, я уже знаю. Мне звонили из мэрии.",
+          "trans": "Marina Sergeyevna, I already know. The town hall called me."
+        }
+      ],
+      "related": [
+        {
+          "word": "изнутри",
+          "gloss": "from inside"
+        },
+        {
+          "word": "из-за",
+          "gloss": "from behind, because of"
+        }
+      ]
+    },
+    "база": {
+      "lemma": "база",
+      "stress": "ба́за",
+      "pos": "noun",
+      "gloss": "database",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "database",
+          "note": "Common feminine noun meaning 'database' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "база",
+              "базы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "базы",
+              "баз"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "базе",
+              "базам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "базу",
+              "базы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "базой",
+              "базами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "базе",
+              "базах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ты зачем базу удаляешь? Ты что творишь?",
+          "trans": "Why are you deleting the database? What are you doing?"
+        },
+        {
+          "text": "Заставила Свету базу удалить.",
+          "trans": "She forced Sveta to delete the database."
+        }
+      ],
+      "related": [
+        {
+          "word": "без баз",
+          "gloss": "without database"
+        },
+        {
+          "word": "наш база",
+          "gloss": "our database"
+        }
+      ]
+    },
+    "удалить": {
+      "lemma": "удалить",
+      "stress": "удали́ть",
+      "pos": "verb",
+      "gloss": "to delete, to remove",
+      "aspect": "pf",
+      "pair": "удалять",
+      "meanings": [
+        {
+          "en": "to delete (a file, an app)",
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'далить'). Used as an perfective (single completed action) verb meaning 'to delete, to remove', paired with 'удалять'."
+        },
+        {
+          "en": "to remove",
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'далить'). Used as an perfective (single completed action) verb meaning 'to delete, to remove', paired with 'удалять'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "удалю",
+              "удалим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "удалишь",
+              "удалите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "удалит",
+              "удалят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "удалил",
+                "удалила",
+                "удалило",
+                "удалили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "удали",
+                "удалите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я её удалила.",
+          "trans": "I deleted it."
+        },
+        {
+          "text": "Удали это фото.",
+          "trans": "Delete that photo."
+        },
+        {
+          "text": "А у меня её нет. Я её удалила.",
+          "trans": "But I haven't got it. I deleted it."
+        }
+      ],
+      "related": [
+        {
+          "word": "удалять",
+          "gloss": "to delete"
+        }
+      ]
+    },
+    "говяжий": {
+      "lemma": "говяжий",
+      "stress": "говя́жий",
+      "pos": "adj",
+      "gloss": "beef",
+      "meanings": [
+        {
+          "en": "beef",
+          "note": "Agrees in gender, number, and case with the noun it modifies ('beef')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "говяжий",
+              "говяжяя",
+              "говяжее",
+              "говяжие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "говяжего",
+              "говяжей",
+              "говяжего",
+              "говяжих"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "говяжему",
+              "говяжей",
+              "говяжему",
+              "говяжим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "говяжий",
+              "говяжюю",
+              "говяжее",
+              "говяжие"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "говяжим",
+              "говяжей",
+              "говяжим",
+              "говяжими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "говяжем",
+              "говяжей",
+              "говяжем",
+              "говяжих"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Паштет говяжий.",
+          "trans": "Beef pâté."
+        },
+        {
+          "text": "Приготовь нежный говяжий паштет для гостей.",
+          "trans": "Prepare a tender beef pate for the guests."
+        },
+        {
+          "text": "На плите уже три часа варится крепкий говяжий бульон.",
+          "trans": "A rich beef broth has been simmering on the stove for three hours."
+        }
+      ],
+      "related": [
+        {
+          "word": "говядина",
+          "gloss": "beef"
+        }
+      ]
+    },
+    "сало": {
+      "lemma": "сало",
+      "stress": "са́ло",
+      "pos": "noun",
+      "gloss": "salted pork fat",
+      "gender": "n",
+      "meanings": [
+        {
+          "en": "salo, cured pork fat",
+          "note": "A staple of Ukrainian and Russian cooking, eaten sliced on black bread."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "сало"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "сала"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "салу"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "сало"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "салом"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "сале"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Печень куриная, сало, соль, перец, лук.",
+          "trans": "Chicken liver, fat, salt, pepper, onion."
+        },
+        {
+          "text": "Он любит хлеб с салом.",
+          "trans": "He loves bread with salo."
+        }
+      ],
+      "related": [
+        {
+          "word": "жир",
+          "gloss": "fat"
+        }
+      ]
+    },
+    "пограничник": {
+      "lemma": "пограничник",
+      "stress": "пограни́чник",
+      "pos": "noun",
+      "gloss": "border guard",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "border guard",
+          "note": "From граница, 'border'."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "пограничник",
+              "пограничники"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "пограничника",
+              "пограничников"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "пограничнику",
+              "пограничникам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "пограничника",
+              "пограничников"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "пограничником",
+              "пограничниками"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "пограничнике",
+              "пограничниках"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я с пограничниками договорился.",
+          "trans": "I made a deal with the border guards."
+        },
+        {
+          "text": "Пограничник проверил паспорт.",
+          "trans": "The border guard checked the passport."
+        }
+      ],
+      "related": [
+        {
+          "word": "граница",
+          "gloss": "border"
+        }
+      ]
+    },
+    "печёночный": {
+      "lemma": "печёночный",
+      "stress": "печёночный",
+      "pos": "adj",
+      "gloss": "liver (adjective)",
+      "meanings": [
+        {
+          "en": "liver, made of liver",
+          "note": "From печень, 'liver'; ё is always stressed."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "печёночный",
+              "печёночная",
+              "печёночное",
+              "печёночные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "печёночного",
+              "печёночной",
+              "печёночного",
+              "печёночных"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Паштет говяжий, печёночный, куриный.",
+          "trans": "Beef, liver and chicken pâté."
+        },
+        {
+          "text": "Я люблю печёночный паштет.",
+          "trans": "I love liver pâté."
+        }
+      ],
+      "related": [
+        {
+          "word": "печень",
+          "gloss": "liver"
+        }
+      ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": [
+        {
+          "word": "шефный",
+          "gloss": "related to boss (adj.)"
         }
       ]
     }

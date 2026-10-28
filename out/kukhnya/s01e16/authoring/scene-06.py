@@ -10,38 +10,38 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "In the kitchen, Barinov stands at the window with a smug smile. Senya, one of the cooks, asks what is so funny, and the chef points across the courtyard, where inspectors have just turned up at Arcobaleno, the restaurant next door. Let's hear how it sounds in Russian."
-OPENER = "Let's walk through what each line is doing."
-TRANSITION = "Let's finish by hearing it all again."
+INTRO = 'In the kitchen, Barinov stands at the window with a smug smile. Senya, one of the cooks, asks what is so funny, and the chef points across the courtyard, where inspectors have just turned up at Arcobaleno, the restaurant next door. Listen for who really made the call.'
+OPENER = 'Now the view from the window, one line at a time.'
+TRANSITION = 'And the whole scene again, as the two of them enjoy it.'
 OUTRO = "The rival restaurant is in trouble, and the kitchen at Claude Monet is enjoying every second. When you rewatch, keep an ear out for 'budet' and 'budut', the words for 'will be' that turn up all over the show. See you next time!"
-CLOSING = ('senya', 'Пока!')
+CLOSING = ('barinov', 'Ну, удачи им!')
 STORY = [
-    ('senya', 'Шеф, почему вы так весело улыбаетесь?', 'Chef, why are you smiling so cheerfully?', [], ''),
+    ('senya', 'Шеф, чему вы улыбаетесь?', 'Chef, what are you smiling at?', [], ''),
     ('barinov', 'Посмотри во двор на соседний ресторан.', 'Look into the courtyard at the neighboring restaurant.', [], ''),
-    ('senya', 'Туда только что приехала строгая проверка!', 'A strict inspection just arrived over there!', [], ''),
+    ('senya', 'Ого, к ним приехала проверка!', 'Wow, an inspection has come to them!', [], ''),
     ('barinov', 'Да, это миграционная служба.', 'Yes, it is the migration service.', [], ''),
-    ('senya', 'Вы сами позвонили в эту инспекцию?', 'Did you call this inspection yourself?', [], ''),
+    ('senya', 'Это вы им позвонили?', 'Was it you who called them?', [], ''),
     ('barinov', 'Нет, это Нагиев позвонил.', 'No, it was Nagiyev who called.', [], ''),
-    ('senya', 'Теперь их повара будут сильно бегать.', 'Now their cooks will be running around a lot.', [], ''),
+    ('senya', 'А что теперь будет?', 'And what will happen now?', [], ''),
     ('barinov', 'Сейчас они побегают!', 'Now they are in for a workout!', [(51, 'Сейчас вы побегаете.')], ''),
-    ('senya', 'Елена Павловна будет очень сильно злиться.', 'Elena Pavlovna will be extremely furious.', [], ''),
+    ('senya', 'Елена Павловна будет злиться.', 'Elena Pavlovna will be angry.', [], ''),
     ('barinov', 'Так им и надо.', 'It serves them right.', [], ''),
-    ('senya', 'Маленькая, но приятная месть.', 'A small but pleasant revenge.', [], ''),
-    ('barinov', 'Это справедливый урок для наглых соседей.', 'This is a fair lesson for insolent neighbors.', [], ''),
-    ('senya', 'Тогда давайте спокойно смотреть в окно!', 'Then let us calmly watch out the window!', [], ''),
+    ('senya', 'Вот это месть!', 'Now that is revenge!', [], ''),
+    ('barinov', 'В следующий раз подумают.', 'Next time they will think twice.', [], ''),
+    ('senya', 'Давайте посмотрим в окно!', "Let's watch out the window!", [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, why are you smiling so cheerfully?' The ending on the last word is the polite 'you'. Russian's 'cheerfully' carries 'o', like many words for 'how something is done'."),
-    (1, None, "'Look at the neighboring restaurant, across the courtyard.' When you look toward a place, Russian leaves 'courtyard' bare. When something just sits in the courtyard, the word takes an 'e'."),
-    (2, None, "'A strict inspection has just arrived over there!' The Russian for 'arrived' ends in 'a' because Russian's 'inspection' is feminine, and 'strict' finishes with 'aya' for the same reason. 'Just now' is two small words, literally 'only what'."),
-    (3, None, "'Yes, it is the migration service.' 'Service' is also the Russian for 'job', so it fits any official body. Both words have the feminine ending, just as the 'strict inspection' did."),
-    (4, None, "'Did you call this inspection yourself?' Senya adds 'yourself' to ask whether the chef did it with his own hands. Russian's 'call' is the one for ringing a bell, so a phone call is a ring."),
-    (5, None, "'No, it was Nagiyev who called.' The word order puts the person first and the action last. Barinov is happy to let the owner take the blame, or the credit."),
-    (6, None, "'Now their cooks will be running around a lot.' 'Will be running' is built from 'will be' plus the dictionary form of 'run'. The Russian for 'their' never changes its ending, which is a relief."),
-    (7, None, "'Now they are in for a workout!' The little 'po' at the front of Russian's 'run' gives it the sense of 'run around for a while'. The opening word is 'right now', literally 'this hour'."),
-    (8, None, "'Elena Pavlovna will be furious.' The second name is a patronymic, 'daughter of Pavel', which is how you politely address an adult. 'Furious' has the little 'sya' that means the anger happens to her."),
-    (9, None, "'It serves them right.' Word for word it is 'so to-them and needed'. It's a fixed phrase, and the Russian for 'needed' is one you've met before."),
-    (10, None, "'A small but pleasant revenge.' There is no 'is' in it, which is normal. Russian's 'revenge' is feminine, so 'small' and 'pleasant' both end in 'aya'."),
-    (11, None, "'This is a fair lesson for rude neighbors.' The Russian for 'lesson' also means a class at school. The endings on 'rude' and 'neighbors' are both the plural 'for' form, so they go together."),
-    (12, None, "'Then let's calmly watch out the window!' The word at the start is the standard way to say 'let's', here in the plural form. 'Calmly' carries 'o' like 'cheerfully' at the top, and the window takes the direction form."),
+    (0, None, "'Chef, what are you smiling at?' You smile 'to' something in Russian, so 'what' becomes 'chemu', 'to what'. 'Ulybaetes' is the polite 'vy' form, from Senya to his boss."),
+    (1, None, "'Look into the courtyard at the neighboring restaurant.' 'Vo dvor' means 'into the courtyard': 'v' becomes 'vo' before the cluster 'dv' so it is easier to say."),
+    (2, None, "'Wow, an inspection has come to them!' 'Ogo' means 'wow'. 'K nim', 'to them', is 'oni', 'they', after 'k', with an n added at the front."),
+    (3, None, "'Yes, it is the migration service.' 'Sluzhba', 'service', is the word in the names of many state bodies; the people behind it are often called simply 'migratsionka'."),
+    (4, None, "'Was it you who called them?' Putting 'eto vy' at the front, 'it is you', points at the person. 'Zvonit' takes 'to': you ring 'im', 'to them', not 'them'."),
+    (5, None, "'No, it was Nagiyev who called.' The same trick, 'eto' plus a name, now points at Nagiyev. 'Pozvonil', 'called', ends in '-l' because Nagiyev is a man."),
+    (6, None, "'And what will happen now?' 'Budet', 'will be', on its own means 'will happen'. 'Chto budet?' is the everyday 'what's going to happen?'"),
+    (7, None, "'Now they are in for a workout!' 'Pobegat' is built from 'begat', 'to run about', plus 'po-', 'for a while'. 'Seychas oni pobegayut' is a gleeful threat: they'll be run off their feet."),
+    (8, None, "'Elena Pavlovna will be angry.' 'Budet zlitsya' is 'will be' plus 'zlitsya', 'to be angry'. 'Zloy' means 'angry' or 'mean', and the same root is in 'zlost', 'anger'."),
+    (9, None, "'It serves them right.' 'Tak im i nado' is a fixed saying, word for word 'so to them and needed'. Learn it whole."),
+    (10, None, "'Now that is revenge!' 'Vot eto' in front of a word means 'now that's a real one'. 'Vot eto pashtet!' would be 'now that's a pâté!'"),
+    (11, None, "'Next time they will think twice.' 'V sleduyushchiy raz' means 'next time', and it is the partner of 'v proshly raz', 'last time'. 'Podumayut', 'they'll think', needs no 'they' in front."),
+    (12, None, "'Let's watch out the window!' 'Davayte' plus 'we' form, 'posmotrim', is the polite way to say 'let's'. With a friend it would be 'davay posmotrim'."),
 ]

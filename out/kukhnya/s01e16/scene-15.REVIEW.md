@@ -10,34 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Федя | Шеф, мне очень холодно. | Chef, I am very cold. | #180 00:13:13: Шеф, я понял. Вы в паштет базилик добавили, да? | verbatim |
-| 2 | Федя | Я тут замёрз. | I froze in here. | #180 00:13:13: Шеф, я понял. Вы в паштет базилик добавили, да? | verbatim |
-| 3 | Инспектор | Чист. | Clear. | #181 00:13:15: Чист. Проверили. | verbatim |
-| 4 | Инспектор | Проверили. | Checked. | #181 00:13:15: Чист. Проверили. | verbatim |
-| 5 | Шеф | Я так и знал. | I knew it. | #182 00:13:18: Я так и знал. | verbatim |
-| 6 | Инспектор | Виктор Петрович, ошибочка вышла. | Viktor Petrovich, a mistake happened. | #183 00:13:19: Ну что же, Виктор Петрович, ошибочка вышла. | verbatim |
-| 7 | Инспектор | Мои люди проверили этого человека. | My people checked this person. | #184 00:13:25: Оказывается, мои люди уже проверили этого человечка. | verbatim |
-| 8 | Инспектор | Абсолютно чист. | Completely clean. | new | new |
-| 9 | Шеф | А я всегда знал. | And I always knew. | new | new |
-| 10 | Шеф | Федя, ты как? | Fedya, how are you? | #187 00:13:40: Федь, ты как? Нормально. | verbatim |
-| 11 | Федя | Нормально. | Fine. | #187 00:13:40: Федь, ты как? Нормально. | verbatim |
-| 12 | Федя | Как вы меня вытащили? | How did you get me out? | #188 00:13:42: Ты как меня оттуда вытащил? | verbatim |
-| 13 | Федя | Ключ был только у вас. | Only you had the key. | #189 00:13:44: Ключи же только у шефа были. | verbatim |
-| 14 | Шеф | Пусть он так думает. | Let him think so. | #190 00:13:47: Вот пусть он и дальше так думает. | verbatim |
+| 1 | Инспектор | Чист. Мы его проверили. | He's clean. We checked him. | #181 00:13:15: Чист. Проверили. | verbatim |
+| 2 | Инспектор | Виктор Петрович, ошибочка вышла. | Viktor Petrovich, there has been a little mistake. | #183 00:13:19: Ну что же, Виктор Петрович, ошибочка вышла. | verbatim |
+| 3 | Инспектор | Мои люди уже проверили этого человека. | My people have already checked this man. | #184 00:13:25: Оказывается, мои люди уже проверили этого человечка. | verbatim |
+| 4 | Инспектор | Он абсолютно чист. | He's completely clean. | #185 00:13:28: Абсолютно чист. | verbatim |
+| 5 | Сеня | Федя, ты как? | Fedya, how are you? | #187 00:13:40: Федь, ты как? Нормально. | verbatim |
+| 6 | Федя | Нормально. Как ты меня вытащил? | Fine. How did you get me out? | #187 00:13:40: Нормально.<br>#188 00:13:42: Ты как меня оттуда вытащил? | verbatim |
+| 7 | Федя | Ключ же был только у шефа. | Only the chef had the key. | #189 00:13:44: Ключи же только у шефа были. | verbatim |
+| 8 | Сеня | Пусть он и дальше так думает. | Let him keep thinking that. | #190 00:13:47: Вот пусть он и дальше так думает. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I'm very cold.' Russian says 'to me cold', as if the cold happens to you. 'Cold' carries 'o' and is cousin to the word for the fridge he was stuck in.
-- 'I froze in here.' The past form of 'freeze' ends in a bare consonant for a man, and a woman would add an 'a'. The little word for 'here' is the casual one.
-- 'Clean.' The short form drops its ending, so what's left is a bare 'clean', as if reading from a form. It's the inspector's dry verdict.
-- 'Checked.' There's no 'he' and no 'we', just the 'li' ending, which says somebody did it. Officials talk like this.
-- 'I knew it.' The line is 'I so and knew', and 'so and' is a way of saying 'just as I thought'. The masculine 'l' ending is back.
-- 'Viktor Petrovich, a little mistake happened.' 'Little mistake' is a diminutive, a gentler version of 'mistake'. Russian says the mistake 'came out', which also hides who made it.
-- 'My people checked this man.' The plural of 'person' is 'lyudi', which looks nothing like the singular. 'This man' takes an 'ogo' ending because it's the thing that was checked.
-- 'Completely clean.' The opening word is a borrowed 'absolutely', and the second is the same short 'clean' as before. Two words, no sentence needed.
-- 'And I always knew.' The small opening 'a' means 'and' with a bit of contrast. 'Always' is the same one you use for habits.
-- 'Fedya, how are you?' Literally just 'you how', with no verb at all. The casual 'you' shows how close they are.
-- 'Fine.' Literally 'normally', and it's the standard reply to 'how are you'. Russians don't say it with much more enthusiasm than this.
-- 'How did you get me out?' Fedya uses the polite 'you' with his boss. 'Pull out' is the picture, as if he was dragged from the fridge.
-- 'Only you had the key.' 'The key was only at you' is the literal order. It's the same 'at you' pattern that stands in for 'you have'.
-- 'Let him think so.' It begins with 'let', the little word that goes in front of 'he thinks'. Barinov doesn't correct anybody, and the line is quiet and satisfied.
+- 'He's clean. We checked him.' 'Chist', 'clean', is the short form of 'chisty', the kind used after 'he is'. It's the inspector's word for someone whose papers are in order.
+- 'Viktor Petrovich, there has been a little mistake.' 'Oshibochka' is the softened form of 'oshibka', 'mistake'. Russian says the mistake 'vyshla', 'came out', which hides who made it.
+- 'My people have already checked this man.' 'Lyudi', 'people', is the plural of 'chelovek', 'person', though the two look nothing alike. 'Etot chelovek' becomes 'etogo cheloveka' because he is the one checked.
+- 'He's completely clean.' 'Absolyutno', 'absolutely', is borrowed and easy to spot. 'Chist' is the same short 'clean' as two lines back.
+- 'Fedya, how are you?' 'Ty kak?' is literally 'you how?', a friendly check without any verb. Senya uses 'ty' because he and Fedya are mates.
+- 'Fine. How did you get me out?' 'Normalno', literally 'normally', is the usual reply to 'how are you'. 'Vytashchil', 'pulled out', is built from 'vy-', 'out', and 'tashchit', 'to drag'.
+- 'Only the chef had the key.' 'U shefa', 'at the chef', is the 'have' pattern: after 'u', 'shef' becomes 'shefa'. 'Zhe' means 'after all' here.
+- 'Let him keep thinking that.' 'Pust' means 'let', and 'i dalshe' means 'from now on as well', so the line is 'let him go on thinking so'. Senya has a key of his own, and the chef doesn't need to know.

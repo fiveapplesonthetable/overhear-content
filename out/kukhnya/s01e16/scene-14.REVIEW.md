@@ -11,31 +11,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Шеф | Никто не видел запасного ключа? | Has anyone seen the spare key? | #169 00:12:31: Никто не видел запасного ключа? | verbatim |
-| 2 | Сеня | А мы не знаем. | We do not know. | #170 00:12:33: А мы не знаем и не видели. | verbatim |
-| 3 | Сеня | И не видели. | And we have not seen it. | #170 00:12:33: А мы не знаем и не видели. | verbatim |
-| 4 | Инспектор | Но вообще... | But, generally speaking... | #171 00:12:35: Но вообще... | verbatim |
-| 5 | Инспектор | Ничем не смогу вам помочь. | I am afraid I cannot help you. | #172 00:12:37: Ничем не смогу вам помочь. | verbatim |
-| 6 | Инспектор | Мои сотрудники потеряли ключ. | My staff lost the key. | #173 00:12:40: Мои сотрудники потеряли ключ. | verbatim |
-| 7 | Шеф | Экая досада. | What a shame. | #174 00:12:42: Экая досада. Ой-ой-ой. | verbatim |
-| 8 | Шеф | Ой, ой, ой. | Oh, oh, oh. | #174 00:12:42: Экая досада. Ой-ой-ой. | verbatim |
-| 9 | Инспектор | А как же нам быть? | So what are we to do? | #175 00:12:44: А как же нам теперь быть-то? | verbatim |
-| 10 | Шеф | У меня есть запасной ключ. | I have a spare key. | #176 00:12:47: У меня есть запасной ключ. | verbatim |
-| 11 | Шеф | Я всегда дубликаты храню. | I always keep a duplicate. | #177 00:12:49: Я всегда дубликаты храню. | verbatim |
-| 12 | Шеф | А, вот он, ключ. | Ah, there is the key. | #178 00:12:54: А, вот он, ключ. | verbatim |
-| 13 | Инспектор | Нашелся ключ? | Found the key? | #179 00:13:01: Нашелся? Ключ. | verbatim |
+| 2 | Сеня | А мы не знаем. | We don't know. | #170 00:12:33: А мы не знаем и не видели. | verbatim |
+| 3 | Сеня | И не видели. | And we haven't seen it. | #170 00:12:33: А мы не знаем и не видели. | verbatim |
+| 4 | Шеф | Ничем не смогу вам помочь. | I'm afraid I can't help you. | #172 00:12:37: Ничем не смогу вам помочь. | verbatim |
+| 5 | Шеф | Мои сотрудники потеряли ключ. | My staff lost the key. | #173 00:12:40: Мои сотрудники потеряли ключ. | verbatim |
+| 6 | Инспектор | Экая досада. | What a shame. | #174 00:12:42: Экая досада. Ой-ой-ой. | verbatim |
+| 7 | Инспектор | А как же нам теперь быть? | So what are we supposed to do now? | #175 00:12:44: А как же нам теперь быть-то? | verbatim |
+| 8 | Инспектор | У меня есть запасной ключ. | I have a spare key. | #176 00:12:47: У меня есть запасной ключ. | verbatim |
+| 9 | Инспектор | Я всегда дубликаты храню. | I always keep a duplicate. | #177 00:12:49: Я всегда дубликаты храню. | verbatim |
+| 10 | Шеф | А, вот он, ключ. | Ah, there's the key. | #178 00:12:54: А, вот он, ключ. | verbatim |
+| 11 | Инспектор | Нашёлся ключ? | The key turned up? | #179 00:13:01: Нашелся? Ключ. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Has anyone seen the spare key?' It is 'no one not saw', with the 'not' in there as well. Russian needs it. 'Spare' comes from the word for a stock or reserve.
-- 'We don't know.' The ending on 'know' is the 'em' that says 'we'. The tiny opening word is like our 'well'.
-- 'And we haven't seen it.' It echoes the question's own word for 'saw', now with the 'li' that means more than one person. Nobody wants to be the one who admits to anything.
-- 'But, generally speaking...' This is the trailing-off kind of word that Russians use when they have run out of what to say. It's pronounced something like 'vaapshe'.
-- 'I can't help you.' Russian says 'help to you' rather than 'help you', so the 'you' has the 'am' ending. Before it comes 'with nothing I can't', a very official-sounding opening.
-- 'My staff lost the key.' 'My' is in the plural, and so is the 'li' ending of 'lost'. The inspector shifts the blame to his people.
-- 'What a shame.' The first word is an old-fashioned 'what a', which makes the line sound like mock sympathy. The second is 'annoyance', so he doesn't sound sad at all.
-- 'Oh, oh, oh.' 'Oy' is Russian's all-purpose groan. Saying it three times is Barinov overacting.
-- 'So what are we to do?' It's 'how then to-us to-be', an idiom, and the little 'zhe' in the middle adds weight. You can use the same frame to ask about anything you're stuck on.
-- 'I have a spare key.' 'At me there is', the pattern for 'I have'. 'Spare' goes with the masculine word for 'key'.
-- 'I always keep duplicates.' 'Duplicates' is borrowed, so it's easy to spot. The 'keep' word comes last in the line, which gives it extra emphasis.
-- 'Ah, there is the key.' Russian says 'here he', and not 'here it', because the word for key is masculine. A thing is 'he', 'she' or 'it' depending on its word.
-- 'Did the key turn up?' The 'sya' ending on 'found' makes it 'found itself', which means it turned up on its own. That's how Russians talk about lost things that reappear.
+- 'Has anyone seen the spare key?' Russian says 'nikto ne videl', literally 'no one not saw', and the double 'not' is required. After it, 'zapasnoy klyuch' changes to 'zapasnogo klyucha'.
+- 'We don't know.' 'A' at the start is a soft 'well', or 'and as for us'. 'Znaem', 'we know', ends in '-em', the 'we' ending.
+- 'And we haven't seen it.' 'Videli', 'saw', ends in '-li', the past for more than one person. Together the two lines are 'we don't know and we didn't see', a stock way to play dumb.
+- 'I'm afraid I can't help you.' Russian helps 'to' someone, so 'you' is 'vam', not 'vas'. 'Nichem' means 'with nothing', literally 'I can help you with nothing'.
+- 'My staff lost the key.' 'Sotrudniki' means 'staff' or 'colleagues', built from 'so-', 'together', and 'trud', 'labour'. 'Poteryali', 'lost', ends in '-li' because the staff are plural.
+- 'What a shame.' 'Ekaya' is an old-fashioned 'what a', and 'dosada' means 'annoyance'. The major sounds sorry in a way that is plainly fake.
+- 'So what are we supposed to do now?' 'Kak nam byt' is literally 'how are we to be', a set way to ask what to do. 'Zhe' adds weight, like 'so' or 'then'.
+- 'I have a spare key.' 'U menya est' is literally 'at me there is', the usual 'I have'. 'Zapasnoy', 'spare', comes from 'zapas', 'a reserve'.
+- 'I always keep a duplicate.' 'Dublikaty' is the plural of 'dublikat', 'duplicate', a borrowed word that is easy to spot. 'Khranyu', 'I keep', comes last, which in Russian puts the stress on it.
+- 'Ah, there's the key.' Russian says 'vot on', literally 'here he', because 'klyuch', 'key', is a masculine word. A thing is 'on', 'ona' or 'ono' by its word.
+- 'The key turned up?' 'Nashyolsya' combines 'nashyol', 'found', with '-sya', 'itself', so the key literally 'found itself'. Russians say it about lost things that come back.

@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = 'Meanwhile in the kitchen, Max has five spare minutes and an idea. Chef Barinov is cooking something special, and Max wants to know what it is and maybe learn from him. The chef is not in a sharing mood. First, the Russian.'
-OPENER = "Let's replay it, with a word or two on each line."
-TRANSITION = 'Now it all together again, from the top.'
+INTRO = "Meanwhile in the kitchen, Max has five spare minutes and an idea. Chef Barinov is cooking something special, and Max wants to know what it is and maybe learn from him. Listen to how short the chef's answers get."
+OPENER = "Now Max's questions, one by one."
+TRANSITION = 'And the whole exchange once more, start to finish.'
 OUTRO = "Max walks away with nothing, but his curiosity has only just started. Try to catch the Russian for 'not allowed' on your next listen, since the chef drops it like a door closing. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Тогда иди отсюда.', 'Then go from here.', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef.' One word is enough. Max uses the title instead of a name, and it is the Russian spelling of a French word, so you already know it."),
-    (1, None, "'What do you need?' Barinov says 'to you' with the casual form, the way a boss talks down to a junior. The last word means 'needed' and has no 'I', 'you' or 'is' anywhere near it."),
-    (2, None, "'And what are you cooking?' Max answers with the polite 'you' that matches the ending on Russian's 'cook'. It starts with a small 'and', which here only softens the question."),
-    (3, None, "'And what's it to you?' Word for word it is 'and to-you what business', which is how Russian says 'mind your own'. The casual 'to you' comes back from the first line."),
-    (4, None, "'Don't you have anything to do?' The word 'nechem' squeezes 'with nothing' into one piece. The end of the last word, 'sya', is the little 'oneself' that Russians add to 'occupy yourself'."),
-    (5, None, "'I have five minutes.' Russian has no 'I have' here, so the line says 'at me there is'. After 'five' the word for minutes loses its ending, one of those number rules you simply absorb."),
-    (6, None, "'I wanted to learn from you.' The 'l' on the end of 'wanted' tells you the speaker is a man; a woman would add an 'a'. The little word 'u' appears again, this time meaning 'from you'."),
-    (7, None, "'Go work.' Two commands side by side with no 'and' between them, which Russians do all the time. They're short, flat and rude."),
-    (8, None, "'And can I try it?' 'Is it possible' is the way to ask permission, and Max slips it in cheekily. The verb at the end is for tasting rather than for any old trying."),
-    (9, None, "'No, you cannot.' This is the exact opposite of the word Max just used, and it means 'not allowed'. It's the most useful 'no' in Russian for rules and signs."),
-    (10, None, "'Why?' It is one word, and it is the same 'why' every child uses. Max isn't going to give up that easily."),
-    (11, None, "'Because I said so.' The first two words are 'because', literally 'for that, what'. The ending on 'said' is the masculine 'l' again."),
-    (12, None, "'Alright, I understand.' The first word means 'fine, okay' and sounds resigned. Max's 'understood' has the masculine 'l' ending, so a woman here would say it with an 'a' on the end."),
-    (13, None, "'Then get out of here.' The Russian for 'from here' makes it a proper dismissal. 'Go' is the same command as before, and now it's an order to leave the room."),
+    (0, None, "'Chef.' 'Shef' is the French 'chef' in Russian letters. In this kitchen it is how the cooks address Barinov instead of using his name."),
+    (1, None, "'What do you need?' 'Nado' means 'needed', so 'tebe nado' is literally 'to you is needed'. Barinov says 'ty' to Max, the way a boss talks to a junior cook."),
+    (2, None, "'And what are you cooking?' 'Gotovite' is the 'vy' form of 'gotovit', which covers both 'to cook' and 'to prepare'. Max says 'vy' because Barinov is his boss."),
+    (3, None, "'And what is it to you?' 'Kakoe delo', 'what business', makes this a blunt brush-off: 'tebe kakoe delo?' is 'what business is it of yours?'"),
+    (4, None, "'Do you have nothing to do?' 'Nechem', 'with nothing', is a single word. The whole line is literally 'to you there is nothing to occupy yourself with'."),
+    (5, None, "'I have five minutes.' 'U menya est' is 'I have', literally 'at me there is'. After 'pyat', 'five', 'minuta' shortens to 'minut'."),
+    (6, None, "'I wanted to learn from you.' You learn 'at' someone in Russian: 'pouchitsya u vas'. 'Khotel', 'wanted', ends in '-l' because Max is a man; a woman would say 'khotela'."),
+    (7, None, "'Go work.' 'Idi rabotay' sets two commands side by side with no 'and'. Russians do this all the time: 'idi spi', 'go and sleep'."),
+    (8, None, "'And can I try it?' 'Mozhno' plus an action asks permission. 'Poprobovat' means both 'to try' and 'to taste', so with food it asks for a taste."),
+    (9, None, "'No, you cannot.' 'Nelzya', 'not allowed', is the opposite of 'mozhno'. It is the word on signs, as in 'kurit nelzya', 'no smoking'."),
+    (10, None, "'Why?' 'Pochemu' asks for a reason. Its answer word is built from the same pieces, as the next line shows."),
+    (11, None, "'Because I said so.' 'Potomu chto', 'because', mirrors 'pochemu', 'why'. 'Ya tak skazal' is word for word 'I so said'."),
+    (12, None, "'Alright, I understand.' 'Ladno' is a reluctant 'okay'. 'Ya ponyal', 'I got it', is in the past in Russian, since the understanding has already happened."),
+    (13, None, "'Then get out of here.' 'Otsyuda', 'from here', turns 'idi', 'go', into 'get out'. Its partner is 'syuda', 'to here': 'idi syuda' means 'come here'."),
 ]

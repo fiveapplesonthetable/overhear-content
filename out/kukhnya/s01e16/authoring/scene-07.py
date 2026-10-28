@@ -10,38 +10,38 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "Max has spent the day cooking his own version of Barinov's pâté. Now he needs an honest opinion, so he calls over his best friend Kostya, the bartender. Kostya is not at all sure about the colour. Here it is in Russian."
-OPENER = 'Back to the start, then, with the details.'
-TRANSITION = 'Now the whole conversation once more, from start to finish.'
-OUTRO = "Max's pâté isn't the chef's, and he knows it, but two days off are worth a few more tries. Next time someone offers you food in Russian, you'll know how to ask whether it's safe to eat. See you next time!"
-CLOSING = ('kostya', 'Пока!')
+INTRO = "Max has spent the day cooking his own version of Barinov's pâté. Now he needs an honest opinion, so he calls over his best friend Kostya, the bartender. Listen to how carefully Kostya picks his words."
+OPENER = "Now Kostya's verdict, line by line."
+TRANSITION = 'And the tasting once more, all the way through.'
+OUTRO = "Max's pâté isn't the chef's, and he knows it, but two days off are worth another try. Next time someone offers you food in Russian, you can ask 'eto voobshche sedobno?' See you next time!"
+CLOSING = ('kostya', 'Удачи!')
 STORY = [
-    ('max', 'Костя, быстро попробуй мой новый паштет.', 'Kostya, quickly taste my new pâté.', [], ''),
-    ('kostya', 'Слушай, это блюдо вообще можно есть?', 'Listen, is this dish even edible now?', [(52, 'Слушай, это съедобно вообще.')], ''),
-    ('max', 'Почему ты так подозрительно смотришь туда?', 'Why are you looking in there so suspiciously?', [], ''),
-    ('kostya', 'Цвет выглядит странно и совсем не аппетитно.', 'The color looks strange and not appetizing at all.', [(53, 'Потому что выглядит')], ''),
-    ('max', 'Главное в еде — это прекрасный вкус!', 'The main thing in food is wonderful taste!', [], ''),
-    ('kostya', 'Ну ладно, я сейчас попробую ложку.', 'Well all right, I will try a spoon now.', [], ''),
-    ('max', 'И как тебе кажется этот рецепт?', 'And how does this recipe seem to you?', [], ''),
-    ('kostya', 'В принципе, вкус нормальный и не плохой.', 'In principle, the taste is fine and not bad.', [(55, 'Ну, ничего так.')], ''),
-    ('kostya', 'Под холодное пиво такое блюдо пойдёт.', 'With cold beer such a dish would do.', [(56, 'Под пиво пойдет.')], ''),
-    ('max', 'А похоже на фирменный паштет шефа?', "And does it resemble the chef's signature pâté?", [], ''),
-    ('kostya', 'Нет, у шефа блюдо намного лучше.', "No, the chef's dish is much better.", [(54, 'У шефа даже на вид получше.')], ''),
-    ('kostya', 'Ты положил туда слишком много соуса?', 'Did you put too much sauce in there?', [(57, 'А что, это кетчуп с мясом?')], ''),
-    ('kostya', 'Да, продолжай стараться и готовить дальше!', 'Yes, keep trying and cook further!', [], ''),
+    ('max', 'Костя, попробуй мой паштет.', 'Kostya, taste my pâté.', [], ''),
+    ('kostya', 'Слушай, это вообще съедобно?', 'Listen, is this even edible?', [(52, 'Слушай, это съедобно вообще.')], ''),
+    ('max', 'Почему ты так смотришь?', 'Why are you looking like that?', [], ''),
+    ('kostya', 'Потому что выглядит странно.', 'Because it looks strange.', [(53, 'Потому что выглядит')], ''),
+    ('max', 'Главное, что вкусно!', 'The main thing is that it tastes good!', [], ''),
+    ('kostya', 'Ну ладно, сейчас попробую.', "Well, all right, I'll try it now.", [], ''),
+    ('max', 'Ну, как тебе?', 'So, how do you like it?', [], ''),
+    ('kostya', 'Ну, ничего так.', "Well, it's not bad.", [(55, 'Ну, ничего так.')], ''),
+    ('kostya', 'Под пиво пойдёт.', 'It would go with beer.', [(56, 'Под пиво пойдет.')], ''),
+    ('max', 'А похоже на паштет шефа?', "And is it like the chef's pâté?", [], ''),
+    ('kostya', 'Нет, у шефа даже на вид получше.', "No, even the chef's looks better.", [(54, 'У шефа даже на вид получше.')], ''),
+    ('kostya', 'А что, это кетчуп с мясом?', 'Wait, is this ketchup with meat?', [(57, 'А что, это кетчуп с мясом?')], ''),
+    ('max', 'Ладно, попробую ещё раз.', "Fine, I'll try again.", [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, quickly taste my new pâté.' Max calls his friend by name first, which is the most natural way to get attention. 'My' and 'new' both match the masculine word for pâté, and Russian's 'quickly' ends in 'o'."),
-    (1, None, "'Listen, is this dish even edible?' The first word is 'listen' used as 'hey', and it's a command that has lost its commanding force. For 'edible' Russian says 'is it possible to eat', and 'eat' is spelled exactly like the one for 'there is'."),
-    (2, None, "'Why are you looking in there so suspiciously?' The Russian for 'suspiciously' is the same sort of word as 'quickly', made to describe a look. The 'sh' ending on 'look' says 'you', informal."),
-    (3, None, "'The color looks strange and not at all appetizing.' Russian says 'looks strangely', with the 'o' ending, where English says 'looks strange'. 'Not at all' is a handy chunk, and it is built from 'altogether' and 'not'."),
-    (4, None, "'The main thing in food is a wonderful taste!' Russian's 'the main thing' comes from the Russian for 'head', so it's the head thing. Russian puts a small 'this' where English puts an 'is'."),
-    (5, None, "'Well, all right, I'll try a spoon.' The first two words are a sigh of giving in, 'well, okay'. Russian's 'spoon' gets a 'u' ending because it's what Kostya is about to taste."),
-    (6, None, "'And how does this recipe seem to you?' Russian doesn't say 'what do you think'. It says 'how to you seems', which sounds odd in English and perfectly normal in Russian."),
-    (7, None, "'In principle, the taste is fine and not bad.' Kostya hedges, and the doubled praise 'normal and not bad' sounds lukewarm on purpose. The opening words are the same as English 'in principle'."),
-    (8, None, "'This dish would go with cold beer.' Russians say 'under beer' where English says 'with beer', meaning as a snack to go with it. 'Goes' here means 'will do'."),
-    (9, None, "'And does it resemble the chef's signature pâté?' The Russian for 'looks like' is followed by a small word for 'on' in Russian. The chef is not 'chef's' with an apostrophe-s, but the word itself with an 'a' on the end."),
-    (10, None, "'No, the chef's dish is much better.' The first three words are 'at the chef' and mean the chef's version. Russian's 'better' is a short form that doesn't change, and 'much' is built from 'by much'."),
-    (11, None, "'Did you put too much sauce in there?' The Russian for 'too' is the one to pair with 'much', and then the sauce takes an 'a' ending, because 'much' makes it a 'some of'. The 'l' on 'put' says the speaker is addressing a man."),
-    (12, None, "'Yes, keep trying and keep cooking!' The opening word is a command that means 'carry on'. Russian's 'try hard' finishes with 'sya', the little 'oneself', and the last word means 'further'."),
+    (0, None, "'Kostya, taste my pâté.' 'Poprobuy' is the 'ty' command of 'poprobovat', 'to try' or 'to taste'. Max and Kostya are friends, so it's 'ty' all the way."),
+    (1, None, "'Listen, is this even edible?' 'Sedobno', 'edible', comes from 'est', 'to eat'. 'Voobshche' here means 'even' or 'at all', and it adds the doubt."),
+    (2, None, "'Why are you looking like that?' 'Tak', 'so' or 'like that', points at the way he is looking. 'Smotrish' ends in '-sh', the ending for 'you' with a friend."),
+    (3, None, "'Because it looks strange.' Russian says 'looks strangely', 'vyglyadit stranno', with an '-o' word where English uses 'strange'."),
+    (4, None, "'The main thing is that it tastes good!' 'Glavnoe', 'the main thing', comes from 'glava', 'head'. 'Vkusno', 'tasty', comes from 'vkus', 'taste'."),
+    (5, None, "'Well, all right, I'll try it now.' 'Seychas' can mean 'right now' or 'in a moment', as here. 'Poprobuyu', 'I'll try', is the future: Kostya hasn't tasted yet."),
+    (6, None, "'So, how do you like it?' 'Kak tebe?' is literally 'how to you?', and it is the casual way to ask someone's opinion of food, a film or a new haircut."),
+    (7, None, "'Well, it's not bad.' 'Nichego', literally 'nothing', also means 'not bad' or 'okay'. 'Nichego tak' is a lukewarm, slightly reluctant 'it's all right'."),
+    (8, None, "'It would go with beer.' Russians drink 'pod pivo', literally 'under beer', when food is a snack for drinking. 'Poydyot', 'will go', here means 'will do'."),
+    (9, None, "'And is it like the chef's pâté?' 'Pokhozhe na', 'looks like', takes 'na', 'on'. 'Shefa', 'the chef's', is 'shef' plus '-a': Russian puts the owner after the thing, 'pâté of the chef'."),
+    (10, None, "'No, even the chef's looks better.' 'Na vid', 'by the look of it', judges only appearance. 'Poluchshe' is 'luchshe', 'better', softened by 'po-' to 'a bit better'."),
+    (11, None, "'Wait, is this ketchup with meat?' 'S myasom', 'with meat', shows 's', 'with', turning 'myaso' into 'myasom'. 'A chto' at the start sounds like 'hang on'."),
+    (12, None, "'Fine, I'll try again.' 'Eshchyo raz' is 'one more time'. You'll hear it in every kitchen, gym and music lesson."),
 ]
