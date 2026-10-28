@@ -4,7 +4,7 @@ Title: Элементарный развод  (A Simple Setup)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.11
-Cues 838-851. Pasha confronts Arkady with the money bags, revealing the entire escape plan was a calculated trap.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is an elementary setup, dear Arkashenka!' A mocking announcement using a diminutive name and descriptive predicate adjective.
-- 'Did you set all this up in advance?' Interrogative question with perfective past verb and temporal adverb.
+- 'This is an elementary setup, dear Arkashenka!' A mocking announcement using a diminutive name and descriptive descriptive phrase.
+- 'Did you set all this up in advance?' Question word question with single-action form verb and temporal adverb.
 - 'How did you not figure this out?' Colloquial exclamatory negative question criticizing Arkady's lack of intuition.
-- 'You are not the same man, not at all!' Contrastive predicate construction emphasizing Arkady's diminished standing.
-- 'We made an honest agreement after all.' Emphatic particle with perfective past transitive verb and descriptive object.
-- 'Your millions will now stay with me.' Possessive subject phrase with future perfective verb and locative prepositional pronoun.
-- 'Give me at least my share.' Imperative verb governing a restrictive particle and accusative direct object.
-- 'You will not get another single ruble.' Negative future construction with intensifying negative particle and genitive noun.
-- 'I can call the police right now.' Present modal verb with temporal adverb phrase and infinitive governing an accusative object.
-- 'You have no proof whatsoever against me.' Negative existential construction with genitive noun and prepositional pronoun.
-- 'You will answer for this vile betrayal.' Future perfective verb with prepositional phrase indicating the grounds of responsibility.
-- 'Time to return to your cramped communal flat.' Predicative word with reflexive infinitive and prepositional destination phrase.
-- 'I will never forgive you for this deception.' Negative future transitive verb with temporal adverb, dative pronoun, and accusative object.
-- 'Get used to your new modest life.' Imperative verb governing a prepositional dative object phrase.
+- 'You are not the same man, not at all!' Contrastive descriptive phrase construction emphasizing Arkady's diminished standing.
+- 'We made an honest agreement after all.' Emphatic particle with single-action form action verb and descriptive object.
+- 'Your millions will now stay with me.' Possessive subject phrase with future-tense form and location location pronoun.
+- 'Give me at least my share.' Command form governing a restrictive particle and object-form direct object.
+- 'You will not get another single ruble.' Negative future construction with intensifying negative particle and 'of'-form noun.
+- 'I can call the police right now.' Present modal verb with temporal adverb phrase and basic verb form governing an object-form object.
+- 'You have no proof whatsoever against me.' Negative existential construction with 'of'-form noun and location pronoun.
+- 'You will answer for this vile betrayal.' Future-tense form with location phrase indicating the grounds of responsibility.
+- 'Time to return to your cramped communal flat.' Descriptive word with self-action verb form basic verb form and location destination phrase.
+- 'I will never forgive you for this deception.' Negative future action verb with temporal adverb, 'to me/you' pronoun, and object-form object.
+- 'Get used to your new modest life.' Command form governing a location 'to'-form object phrase.

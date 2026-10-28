@@ -4,7 +4,7 @@ Title: Страшный сон Аркадия  (Arkady's Nightmare)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.04
-Cues 1-45. Ilona's brief taxi lines (7-10) are told by the narrator, and the opening song (33-45) is left out. Cue 1 garbles 'Самсон' as 'Самсун', and cues 4 and 6 garble 'Нина' as 'Маша'. Crude details in cues 14-17, 23, and 30 are omitted or cleaned up.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -28,18 +28,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Samson, don't! It hurts me so much!' Literally 'to me it is very painful', using the dative case for the person who feels pain.
+- 'Samson, don't! It hurts me so much!' Literally 'to me it is very painful', using the 'to/for' form for the person who feels pain.
 - 'I won't tell you where the money is! No!' Even in his sleep, Arkady is guarding his secret.
-- 'Wait, Nina! Put the soldering iron away!' Both verbs are perfective commands: 'stop a moment' and 'take away'.
+- 'Wait, Nina! Put the soldering iron away!' Both verbs are single-action verbs commands: 'stop a moment' and 'take away'.
 - 'Ow, how hot!' And he shouts one more thing in his dream.
-- 'I haven't got any money! No money!' He uses the colloquial spoken word for 'there isn't any', followed by the genitive plural of 'money'. Meanwhile, at the listening post, Captain Zavarzin comes back inside.
+- 'I haven't got any money! No money!' He uses the colloquial spoken word for 'there isn't any', followed by the plural 'of' form of 'money'. Meanwhile, at the listening post, Captain Zavarzin comes back inside.
 - 'So, where is the toilet around here?' Major Lavrov asks where Zavarzin went.
-- 'Right nearby, round the corner, there's a cheburek café. It's fine there.' The preposition for 'behind' or 'round' takes the instrumental case: 'round the corner'. A cheburek café is a little snack bar that sells fried meat pasties. Then Zavarzin points to the headphones.
+- 'Right nearby, round the corner, there's a cheburek café. It's fine there.' The preposition for 'behind' or 'round' takes the 'with/as' form: 'round the corner'. A cheburek café is a little snack bar that sells fried meat pasties. Then Zavarzin points to the headphones.
 - 'And what's going on over there?' Literally 'what is at us there?'.
 - 'No change. Listen.' Literally 'without changes'. They both listen as Arkady mutters again.
 - 'Not the soldering iron! Not the soldering iron!' Lavrov sighs.
 - 'It's been like that all night! He's having terrible dreams.' In Russian, dreams appear 'to' you: literally 'to him terrible dreams dream themselves'. Zavarzin asks the only question that matters.
-- 'And didn't he say where the money is?' A compact expression built around 'where' and 'said'.
+- 'And didn't he say where the money is?' Captain Zavarzin uses the adverb for 'where' right alongside the verb meaning 'said'.
 - 'He says I won't tell, and that's it! He hasn't said a thing.' Notice the double negative in the second sentence: 'nothing not said'.
 - 'What a partisan! Never mind, soon he'll tell us everything.' Calling someone a partisan is the classic Russian joke for a person who refuses to talk under questioning. Then Lavrov catches Zavarzin heading for the door again.
 - 'And where are you off to again? Sit down, we wait fifteen minutes.' And just then, Arkady wakes up in his hospital bed and touches his bandages.

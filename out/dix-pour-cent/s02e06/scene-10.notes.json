@@ -3764,7 +3764,7 @@
       "meanings": [
         {
           "en": "body",
-          "note": "invariable in plural"
+          "note": "Invariable in plural. Masculine noun ('le corps', plural 'les corps') inherited through Romance vocabulary, used in everyday and professional French for 'body'."
         }
       ],
       "forms": {
@@ -3801,8 +3801,8 @@
       ],
       "related": [
         {
-          "word": "le/la corps",
-          "gloss": "the body (with article)"
+          "word": "un corps",
+          "gloss": "a body"
         }
       ]
     },
@@ -4585,21 +4585,22 @@
       ]
     },
     "garder": {
-      "examples": [
+      "lemma": "garder",
+      "stress": "aʁde",
+      "pos": "verb",
+      "gloss": "to keep",
+      "meanings": [
         {
-          "text": "Je vous garde.",
-          "trans": "I'm keeping you."
+          "en": "to keep",
+          "note": "Garder un enfant. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to keep'; conjugates with 'avoir' in compound tenses (past participle 'gardé')."
         },
         {
-          "text": "Garde la monnaie.",
-          "trans": "Keep the change."
-        },
-        {
-          "text": "On a gardé une grande actrice.",
-          "trans": "We kept a great actress."
+          "en": "to look after",
+          "note": "Garder un enfant. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to keep'; conjugates with 'avoir' in compound tenses (past participle 'gardé')."
         }
       ],
       "forms": {
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -4627,23 +4628,11 @@
               "ils/elles gardent"
             ]
           }
-        ],
-        "title": "Present"
+        ]
       },
-      "gloss": "to keep",
-      "lemma": "garder",
-      "meanings": [
-        {
-          "en": "to keep",
-          "note": "garder un enfant"
-        },
-        {
-          "en": "to look after",
-          "note": "garder un enfant"
-        }
-      ],
       "moreForms": [
         {
+          "title": "Passé composé",
           "columns": [
             "",
             "sg",
@@ -4671,10 +4660,10 @@
                 "ils/elles ont gardé"
               ]
             }
-          ],
-          "title": "Passé composé"
+          ]
         },
         {
+          "title": "Imparfait",
           "columns": [
             "",
             "sg",
@@ -4702,10 +4691,10 @@
                 "ils/elles gardaient"
               ]
             }
-          ],
-          "title": "Imparfait"
+          ]
         },
         {
+          "title": "Futur",
           "columns": [
             "",
             "sg",
@@ -4733,24 +4722,27 @@
                 "ils/elles garderont"
               ]
             }
-          ],
-          "title": "Futur"
+          ]
         }
       ],
-      "pos": "verb",
-      "stress": "ɡaʁde",
-      "related": [
+      "examples": [
         {
-          "word": "regarder",
-          "gloss": "to look at"
+          "text": "Je vous garde.",
+          "trans": "I'm keeping you."
         },
+        {
+          "text": "Garde la monnaie.",
+          "trans": "Keep the change."
+        },
+        {
+          "text": "On a gardé une grande actrice.",
+          "trans": "We kept a great actress."
+        }
+      ],
+      "related": [
         {
           "word": "gardien",
           "gloss": "guardian"
-        },
-        {
-          "word": "regard",
-          "gloss": "look"
         }
       ]
     },

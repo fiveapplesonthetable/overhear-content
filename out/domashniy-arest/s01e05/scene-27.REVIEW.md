@@ -4,7 +4,7 @@ Title: Совесть кандидата  (The Candidate's Conscience)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.05
-Cues 1031-1067. Colloquial 'Вань' (1031, 1032, 1040) -> 'Ваня'; 'ДТП' (1039) -> 'Это авария!'; crude 'жопа' in cue 1041 and Samson's threat 'Пошел нахрен от меня, а! Я тебе башку сверну!' in cue 1044 are cleaned up ('Уйди от меня! Я сейчас разозлюсь!'); garbled 'А Никеев? К себе?' (1045) -> 'Аникеев, иди к себе'; garbled 'Никееву он' (1052) -> 'Осипенко'; 'По-свински поступили' (1058) -> 'Вы плохо поступили'; mistranscribed 'сам расскажешь' (1060, addressed to Ilona) -> 'сама им всё расскажешь'. Cues 1061-1067 (Klavdia mocking Arkady's pyjamas in the corridor) are summarised in the outro.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vanya, come on, talk to me. Please, Vanya!' After 'with', the pronoun 'me' takes the instrumental form, and therefore the preposition adds a vowel so it's easier to pronounce. Samson won't even look at him.
+- 'Vanya, come on, talk to me. Please, Vanya!' After 'with', the pronoun 'me' takes the 'with'-form form, and therefore the preposition adds a vowel so it's easier to pronounce. Samson won't even look at him.
 - 'I've said everything. I'm withdrawing my candidacy from the election.' Literally, 'I am taking down my candidacy from the elections'. Arkady panics.
-- 'But why? Explain it to me, why?' The command 'explain' is followed by 'to me' in the dative case. Samson turns around in anger.
+- 'But why? Explain it to me, why?' The command 'explain' is followed by 'to me' in the 'to/for' form. Samson turns around in anger.
 - 'Don't you understand? I could have run someone over!' Even though the TV news turned him into a hero who found five kilos of drugs, Samson knows he was driving drunk.
 - 'It was a crash! I could have killed someone!' The particle after the past-tense verb gives 'would have' or 'could have'. Arkady shrugs it off.
 - 'But you didn't kill anyone, Vanya!' The emphatic particle after the verb stresses the fact: 'you didn't kill anyone, after all!' And Arkady grins at Ilona.
@@ -45,7 +45,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And Osipenko wouldn't be ashamed!' The surname Osipenko ends in a vowel and does not change for case. She paints a picture of Pasha.
 - 'He would be jumping to the ceiling for joy right now.' Jumping 'up to the ceiling' is a lively Russian idiom for being thrilled that someone got you out of trouble.
 - 'He took the blind people's money for two years.' Remember those two million roubles for the Blind Society's new building that Pasha diverted to his cousin's firm.
-- 'And when he becomes mayor, he won't build anything.' After 'becomes', the noun 'mayor' takes the instrumental ending. Then Ilona delivers the clincher.
+- 'And when he becomes mayor, he won't build anything.' After 'becomes', the noun 'mayor' takes the 'with/as' ending. Then Ilona delivers the clincher.
 - 'You acted badly, but at least you have a conscience.' Notice the two-word particle meaning 'at least'. Samson is bad, she agrees, but he has a conscience — and Pasha doesn't. Samson falls silent for a long moment.
 - 'I'm not going to say anything to the journalists.' Another Russian double negative: 'nothing I will not say'. He adds one last condition.
 - 'If you want, you'll tell them everything yourself.' Notice the feminine word for 'yourself', because he is speaking to Ilona. And of course, he knows Ilona won't tell them a word.

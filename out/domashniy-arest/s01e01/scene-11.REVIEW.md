@@ -44,7 +44,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Now we're at peace.' The last word means both 'peace' and 'the world'. Samson echoes it straight back.
 - 'Peace, peace.' He's not really interested in peace, though. He has only one question on his mind.
 - 'So when do I start work?' Literally just 'and when to work?'. Russian often drops the verb when the meaning is clear. Now Arkady has something to tell him.
-- 'Listen, Samson, I've been thinking.' Once more a masculine past form, because the speaker is a man. When you hear this phrase, bad news is usually coming.
+- 'Listen, Samson, I've been thinking.' The verb for 'thought' is in the masculine past tense, marked by the '-l' ending.
 - 'Your boss is such an experienced specialist.' There's no word for 'is' in it: Russian simply leaves it out in the present tense. This is the very boss Samson phoned and insulted the day before.
 - 'We can't fire him. It's not nice.' The first sentence is 'we cannot him fire'. Short words like 'him' often move to the middle. Samson finally sees where this is going.
 - 'Then what am I going to be?' The word for 'what' here takes a special ending, because it is about a job or a role you will have. Arkady has a suggestion.

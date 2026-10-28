@@ -4,7 +4,7 @@ Title: Аллергия  (The Allergy)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Arkady is `anya` (label Аркадий); Lyosha (anja) and Marina (angelina) speak. Yulia and Slavik have no voice: Yulia's wish to move to Moscow and the ambulance number (911/03) are told by the narrator. Arkady's insults about Marina («лохушка», «овца») are retold as «она простая, её все обманывают»; the kid's «взяточник» is garbled in the cue («В яточник»), so that line is uncited. Marina's threat (1106-1109: an insult and a throat-slitting threat) becomes «Ещё раз подойдёте к моему ребёнку — пожалеете!», and her ты is normalised to вы. The PSP is called «приставка» (as in scene 32).
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 14 | Марина | Я своему ребёнку никогда не вру. | I never lie to my child. | #1089 00:59:39: Я своему ребенку никогда не вру | verbatim |
 | 15 | Лёша | Мама, я ему копилку отдал за приставку. | Mum, I gave him my piggy bank for a games console. | #1096 00:59:53: Я ему копилку отдал за | adapted: 'Мама' added as address; ПСП -> приставка (the plain word for a games console) |
 | 16 | Аня | В чём дело? Куплю я ему приставку. | What's the problem? I'll buy him the console. | #1098 01:00:02: В чём дело? Куплю я ему | adapted: «это ПСП» -> «приставку» |
-| 17 | Марина | Нам не нужна ваша приставка! Ещё раз подойдёте к моему ребёнку — пожалеете! | We don't need your console! Come near my child again and you'll be sorry! | #1101 01:00:09: Нам не нужно ваше<br>#1107 01:00:29: к моему ребенку | adapted: «ваше ПСП» -> «ваша приставка» (agreement follows the noun); the threat (1107-1109) is retold cleanly, ты -> вы |
+| 17 | Марина | Нам не нужна ваша приставка! Ещё раз подойдёте к ребёнку, пожалеете! | We don't need your console! Come near my child again and you'll be sorry! | #1101 01:00:09: Нам не нужно ваше<br>#1107 01:00:29: ребенку | adapted: «ваше ПСП» -> «ваша приставка» (agreement follows the noun); the threat (1107-1109) is retold cleanly, ты -> вы |
 | 18 | Аня | Я ухожу. Ваш сын будет бедным и честным. | I'm leaving. Your son will be poor and honest. | #1116 01:00:49: будет бедным и честным | adapted: «Я покидаю вас» (1115) -> «Я ухожу»; the garbled «безопасности» dropped |
 
 ## Walk-through narration (English only, no target-language words quoted)

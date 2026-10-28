@@ -10,17 +10,17 @@
           "t": "Аркадий",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": "Арка́дий",
+          "stress": null,
           "gloss": "Arkady",
-          "gram": "nom.m.sg"
+          "gram": "first name, nominative, used as address"
         },
         {
           "t": "Борисович,",
           "lemma": "борисович",
           "pos": "name",
-          "stress": "Бори́сович",
-          "gloss": "Borisovich",
-          "gram": "patronymic"
+          "stress": null,
+          "gloss": "son of Boris",
+          "gram": "patronymic, nominative, used as address"
         },
         {
           "t": "приготовьтесь",
@@ -36,7 +36,7 @@
           "pos": "prep",
           "stress": null,
           "gloss": "to, towards",
-          "gram": "dat"
+          "gram": "preposition + dative"
         },
         {
           "t": "процедуре.",
@@ -58,7 +58,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "готов,",
@@ -66,15 +66,15 @@
           "pos": "adj",
           "stress": "гото́в",
           "gloss": "ready",
-          "gram": "short.m.sg"
+          "gram": "short form, masculine singular"
         },
         {
           "t": "проходите",
           "lemma": "проходить",
           "pos": "verb",
           "stress": "проходи́те",
-          "gloss": "to go through; to come in",
-          "gram": "imp.2pl"
+          "gloss": "come in",
+          "gram": "imperative, plural/polite, imperfective"
         },
         {
           "t": "в",
@@ -82,15 +82,15 @@
           "pos": "prep",
           "stress": null,
           "gloss": "in, into",
-          "gram": "acc"
+          "gram": "preposition"
         },
         {
           "t": "коридор.",
           "lemma": "коридор",
           "pos": "noun",
           "stress": "коридо́р",
-          "gloss": "corridor, hall",
-          "gram": "acc.m.sg"
+          "gloss": "hall, corridor",
+          "gram": "nominative singular, masculine"
         }
       ]
     },
@@ -102,9 +102,9 @@
           "t": "Это",
           "lemma": "это",
           "pos": "pron",
-          "stress": "Э́то",
-          "gloss": "this, that; it is",
-          "gram": "nom.n.sg"
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "обязательная",
@@ -142,14 +142,14 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "уже",
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
+          "gloss": "already, now",
           "gram": "adverb"
         },
         {
@@ -157,8 +157,8 @@
           "lemma": "носить",
           "pos": "verb",
           "stress": "носи́л",
-          "gloss": "to carry; to wear",
-          "gram": "past.m.sg"
+          "gloss": "carried",
+          "gram": "past, masculine singular, imperfective"
         },
         {
           "t": "этот",
@@ -166,7 +166,7 @@
           "pos": "det",
           "stress": "э́тот",
           "gloss": "this",
-          "gram": "acc.m.sg"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "электронный",
@@ -181,8 +181,8 @@
           "lemma": "браслет",
           "pos": "noun",
           "stress": "брасле́т",
-          "gloss": "bracelet; (electronic) tag",
-          "gram": "acc.m.sg"
+          "gloss": "the tag (bracelet)",
+          "gram": "nominative singular"
         }
       ]
     },
@@ -196,15 +196,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "we",
-          "gram": "nom.1pl"
+          "gram": "1st person plural, nominative"
         },
         {
           "t": "должны",
           "lemma": "должен",
           "pos": "adj",
           "stress": "должны́",
-          "gloss": "must, should; owe",
-          "gram": "pl"
+          "gloss": "must, should",
+          "gram": "short form, plural"
         },
         {
           "t": "зафиксировать",
@@ -227,7 +227,7 @@
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, onto; for",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -248,9 +248,9 @@
           "t": "Пожалуйста,",
           "lemma": "пожалуйста",
           "pos": "part",
-          "stress": "Пожа́луйста",
-          "gloss": "please; you're welcome",
-          "gram": "particle"
+          "stress": "пожа́луйста",
+          "gloss": "please",
+          "gram": "politeness word"
         },
         {
           "t": "не",
@@ -258,7 +258,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "neg"
+          "gram": "negation"
         },
         {
           "t": "затягивайте",
@@ -282,15 +282,15 @@
           "pos": "adv",
           "stress": "сли́шком",
           "gloss": "too",
-          "gram": "adverb"
+          "gram": "adverb of degree"
         },
         {
           "t": "сильно.",
           "lemma": "сильно",
           "pos": "adv",
           "stress": "си́льно",
-          "gloss": "strongly, very much, hard",
-          "gram": "adverb"
+          "gloss": "strongly, much",
+          "gram": "adverb of degree"
         }
       ]
     },
@@ -301,10 +301,10 @@
         {
           "t": "Всё",
           "lemma": "весь",
-          "pos": "pron",
+          "pos": "det",
           "stress": null,
-          "gloss": "all, whole; everyone, everything",
-          "gram": "nom.n.sg"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "готово,",
@@ -312,7 +312,7 @@
           "pos": "adj",
           "stress": "гото́во",
           "gloss": "ready",
-          "gram": "short.n.sg"
+          "gram": "short form, neuter singular"
         },
         {
           "t": "электронный",
@@ -320,23 +320,23 @@
           "pos": "adj",
           "stress": "электро́нный",
           "gloss": "electronic",
-          "gram": "nom.m.sg"
+          "gram": "acc.m.sg"
         },
         {
           "t": "браслет",
           "lemma": "браслет",
           "pos": "noun",
           "stress": "брасле́т",
-          "gloss": "bracelet; (electronic) tag",
-          "gram": "nom.m.sg"
+          "gloss": "the tag (bracelet)",
+          "gram": "nominative singular"
         },
         {
           "t": "работает.",
           "lemma": "работать",
           "pos": "verb",
           "stress": "рабо́тает",
-          "gloss": "to work",
-          "gram": "pres.3sg"
+          "gloss": "works",
+          "gram": "present, 3rd person singular, imperfective"
         }
       ]
     },
@@ -348,32 +348,32 @@
           "t": "Дальше",
           "lemma": "дальше",
           "pos": "adv",
-          "stress": "Да́льше",
-          "gloss": "next; further",
-          "gram": "adverb"
+          "stress": "да́льше",
+          "gloss": "next, go on",
+          "gram": "adverb (comparative of далеко)"
         },
         {
           "t": "вы",
           "lemma": "вы",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (polite or plural)",
-          "gram": "nom.2pl"
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
         },
         {
           "t": "всё",
           "lemma": "весь",
-          "pos": "pron",
+          "pos": "det",
           "stress": null,
-          "gloss": "all, whole; everyone, everything",
-          "gram": "acc.n.sg"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "прекрасно",
           "lemma": "прекрасно",
           "pos": "adv",
           "stress": "прекра́сно",
-          "gloss": "perfectly, beautifully",
+          "gloss": "perfectly",
           "gram": "adverb"
         },
         {
@@ -381,16 +381,16 @@
           "lemma": "знать",
           "pos": "verb",
           "stress": "зна́ете",
-          "gloss": "to know",
-          "gram": "pres.2pl"
+          "gloss": "(you) know",
+          "gram": "present, 2nd person plural, imperfective"
         },
         {
           "t": "сами.",
           "lemma": "сам",
           "pos": "pron",
           "stress": "са́ми",
-          "gloss": "oneself (myself, yourself...)",
-          "gram": "nom.pl"
+          "gloss": "yourselves",
+          "gram": "plural, nominative"
         }
       ]
     },
@@ -404,23 +404,23 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "помню",
           "lemma": "помнить",
           "pos": "verb",
           "stress": "по́мню",
-          "gloss": "to remember",
-          "gram": "pres.1sg"
+          "gloss": "remember",
+          "gram": "present, 1st person singular, imperfective"
         },
         {
           "t": "все",
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "all, whole; everyone, everything",
-          "gram": "acc.pl"
+          "gloss": "all",
+          "gram": "nominative plural"
         },
         {
           "t": "установленные",
@@ -443,8 +443,8 @@
           "lemma": "правило",
           "pos": "noun",
           "stress": "пра́вила",
-          "gloss": "rule",
-          "gram": "acc.n.pl"
+          "gloss": "rules",
+          "gram": "accusative plural, neuter"
         }
       ]
     },
@@ -457,24 +457,24 @@
           "lemma": "вы",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (polite or plural)",
-          "gram": "dat.2pl"
+          "gloss": "you",
+          "gram": "dative plural"
         },
         {
           "t": "строго",
           "lemma": "строго",
           "pos": "adv",
           "stress": "стро́го",
-          "gloss": "strictly, sternly",
+          "gloss": "sternly, strictly",
           "gram": "adverb"
         },
         {
           "t": "запрещено",
-          "lemma": "запрещённый",
-          "pos": "adj",
+          "lemma": "запретить",
+          "pos": "verb",
           "stress": "запрещено́",
-          "gloss": "prohibited, forbidden",
-          "gram": "short.n.sg"
+          "gloss": "to forbid, to ban",
+          "gram": "short participle n"
         },
         {
           "t": "покидать",
@@ -490,15 +490,15 @@
           "pos": "det",
           "stress": "э́ту",
           "gloss": "this",
-          "gram": "acc.f.sg"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "квартиру.",
           "lemma": "квартира",
           "pos": "noun",
           "stress": "кварти́ру",
-          "gloss": "flat, apartment",
-          "gram": "acc.f.sg"
+          "gloss": "flat",
+          "gram": "accusative singular, feminine"
         }
       ]
     },
@@ -512,23 +512,23 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "буду",
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́ду",
-          "gloss": "to be; there is",
-          "gram": "fut.1sg"
+          "gloss": "will be (there)",
+          "gram": "future, 1st person singular, imperfective"
         },
         {
           "t": "сидеть",
           "lemma": "сидеть",
           "pos": "verb",
           "stress": "сиде́ть",
-          "gloss": "to sit, to be sitting",
-          "gram": "inf"
+          "gloss": "to sit",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "дома",
@@ -536,7 +536,7 @@
           "pos": "adv",
           "stress": "до́ма",
           "gloss": "at home",
-          "gram": "adverb"
+          "gram": "adverb of place"
         },
         {
           "t": "и",
@@ -544,23 +544,23 @@
           "pos": "conj",
           "stress": null,
           "gloss": "and",
-          "gram": "coord"
+          "gram": "conjunction"
         },
         {
           "t": "ждать",
           "lemma": "ждать",
           "pos": "verb",
           "stress": null,
-          "gloss": "to wait, to expect",
-          "gram": "inf"
+          "gloss": "to wait",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "суда.",
           "lemma": "суд",
           "pos": "noun",
           "stress": "суда́",
-          "gloss": "court",
-          "gram": "gen.m.sg"
+          "gloss": "trial",
+          "gram": "masculine singular, genitive (after не было)"
         }
       ]
     },
@@ -571,10 +571,10 @@
         {
           "t": "Любое",
           "lemma": "любой",
-          "pos": "det",
-          "stress": "Любо́е",
+          "pos": "adj",
+          "stress": "любо́е",
           "gloss": "any",
-          "gram": "nom.n.sg"
+          "gram": "neuter accusative singular"
         },
         {
           "t": "нарушение",
@@ -605,7 +605,7 @@
           "lemma": "немедленно",
           "pos": "adv",
           "stress": "неме́дленно",
-          "gloss": "immediately, at once",
+          "gloss": "immediately",
           "gram": "adverb"
         }
       ]
@@ -620,7 +620,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "не",
@@ -628,23 +628,23 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "neg"
+          "gram": "negation"
         },
         {
           "t": "собираюсь",
           "lemma": "собираться",
           "pos": "verb",
           "stress": "собира́юсь",
-          "gloss": "to intend, to be about to; to gather",
-          "gram": "pres.1sg"
+          "gloss": "am planning, am going to",
+          "gram": "1st person singular present"
         },
         {
           "t": "никуда",
           "lemma": "никуда",
           "pos": "adv",
           "stress": "никуда́",
-          "gloss": "nowhere (with motion)",
-          "gram": "adverb"
+          "gloss": "nowhere, anywhere (with motion)",
+          "gram": "negative adverb of direction"
         },
         {
           "t": "убегать.",
@@ -664,9 +664,9 @@
           "t": "Тогда",
           "lemma": "тогда",
           "pos": "adv",
-          "stress": "Тогда́",
-          "gloss": "then, back then",
-          "gram": "adverb"
+          "stress": "тогда́",
+          "gloss": "back then",
+          "gram": "adverb of time"
         },
         {
           "t": "соблюдайте",
@@ -681,8 +681,8 @@
           "lemma": "режим",
           "pos": "noun",
           "stress": "режи́м",
-          "gloss": "regime, routine, mode",
-          "gram": "acc.m.sg"
+          "gloss": "regime",
+          "gram": "masculine singular nominative"
         },
         {
           "t": "и",
@@ -690,7 +690,7 @@
           "pos": "conj",
           "stress": null,
           "gloss": "and",
-          "gram": "coord"
+          "gram": "conjunction"
         },
         {
           "t": "не",
@@ -698,61 +698,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "neg"
-        },
-        {
-          "t": "нарушайте.",
-          "lemma": "нарушать",
-          "pos": "verb",
-          "stress": "наруша́йте",
-          "gloss": "to violate, break",
-          "gram": "imp.2pl"
-        }
-      ]
-    },
-    {
-      "seg": 14,
-      "trans": "Then observe the regime and do not violate it.",
-      "words": [
-        {
-          "t": "Тогда",
-          "lemma": "тогда",
-          "pos": "adv",
-          "stress": "Тогда́",
-          "gloss": "then, back then",
-          "gram": "adverb"
-        },
-        {
-          "t": "соблюдайте",
-          "lemma": "соблюдать",
-          "pos": "verb",
-          "stress": "соблюда́йте",
-          "gloss": "to observe, comply with",
-          "gram": "imp.2pl"
-        },
-        {
-          "t": "режим",
-          "lemma": "режим",
-          "pos": "noun",
-          "stress": "режи́м",
-          "gloss": "regime, routine, mode",
-          "gram": "acc.m.sg"
-        },
-        {
-          "t": "и",
-          "lemma": "и",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and",
-          "gram": "coord"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "neg"
+          "gram": "negation"
         },
         {
           "t": "нарушайте.",
@@ -772,17 +718,17 @@
           "t": "Аркадий",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": "Арка́дий",
+          "stress": null,
           "gloss": "Arkady",
-          "gram": "nom.m.sg"
+          "gram": "first name, nominative, used as address"
         },
         {
           "t": "Борисович,",
           "lemma": "борисович",
           "pos": "name",
-          "stress": "Бори́сович",
-          "gloss": "Borisovich",
-          "gram": "patronymic"
+          "stress": null,
+          "gloss": "son of Boris",
+          "gram": "patronymic, nominative, used as address"
         },
         {
           "t": "приготовьтесь",
@@ -798,7 +744,7 @@
           "pos": "prep",
           "stress": null,
           "gloss": "to, towards",
-          "gram": "dat"
+          "gram": "preposition + dative"
         },
         {
           "t": "процедуре.",
@@ -820,7 +766,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "готов,",
@@ -828,15 +774,15 @@
           "pos": "adj",
           "stress": "гото́в",
           "gloss": "ready",
-          "gram": "short.m.sg"
+          "gram": "short form, masculine singular"
         },
         {
           "t": "проходите",
           "lemma": "проходить",
           "pos": "verb",
           "stress": "проходи́те",
-          "gloss": "to go through; to come in",
-          "gram": "imp.2pl"
+          "gloss": "come in",
+          "gram": "imperative, plural/polite, imperfective"
         },
         {
           "t": "в",
@@ -844,15 +790,15 @@
           "pos": "prep",
           "stress": null,
           "gloss": "in, into",
-          "gram": "acc"
+          "gram": "preposition"
         },
         {
           "t": "коридор.",
           "lemma": "коридор",
           "pos": "noun",
           "stress": "коридо́р",
-          "gloss": "corridor, hall",
-          "gram": "acc.m.sg"
+          "gloss": "hall, corridor",
+          "gram": "nominative singular, masculine"
         }
       ]
     },
@@ -864,9 +810,9 @@
           "t": "Это",
           "lemma": "это",
           "pos": "pron",
-          "stress": "Э́то",
-          "gloss": "this, that; it is",
-          "gram": "nom.n.sg"
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "обязательная",
@@ -904,14 +850,14 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "уже",
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
+          "gloss": "already, now",
           "gram": "adverb"
         },
         {
@@ -919,8 +865,8 @@
           "lemma": "носить",
           "pos": "verb",
           "stress": "носи́л",
-          "gloss": "to carry; to wear",
-          "gram": "past.m.sg"
+          "gloss": "carried",
+          "gram": "past, masculine singular, imperfective"
         },
         {
           "t": "этот",
@@ -928,7 +874,7 @@
           "pos": "det",
           "stress": "э́тот",
           "gloss": "this",
-          "gram": "acc.m.sg"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "электронный",
@@ -943,8 +889,8 @@
           "lemma": "браслет",
           "pos": "noun",
           "stress": "брасле́т",
-          "gloss": "bracelet; (electronic) tag",
-          "gram": "acc.m.sg"
+          "gloss": "the tag (bracelet)",
+          "gram": "nominative singular"
         }
       ]
     },
@@ -958,15 +904,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "we",
-          "gram": "nom.1pl"
+          "gram": "1st person plural, nominative"
         },
         {
           "t": "должны",
           "lemma": "должен",
           "pos": "adj",
           "stress": "должны́",
-          "gloss": "must, should; owe",
-          "gram": "pl"
+          "gloss": "must, should",
+          "gram": "short form, plural"
         },
         {
           "t": "зафиксировать",
@@ -989,7 +935,7 @@
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, onto; for",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -1010,9 +956,9 @@
           "t": "Пожалуйста,",
           "lemma": "пожалуйста",
           "pos": "part",
-          "stress": "Пожа́луйста",
-          "gloss": "please; you're welcome",
-          "gram": "particle"
+          "stress": "пожа́луйста",
+          "gloss": "please",
+          "gram": "politeness word"
         },
         {
           "t": "не",
@@ -1020,7 +966,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "neg"
+          "gram": "negation"
         },
         {
           "t": "затягивайте",
@@ -1044,15 +990,15 @@
           "pos": "adv",
           "stress": "сли́шком",
           "gloss": "too",
-          "gram": "adverb"
+          "gram": "adverb of degree"
         },
         {
           "t": "сильно.",
           "lemma": "сильно",
           "pos": "adv",
           "stress": "си́льно",
-          "gloss": "strongly, very much, hard",
-          "gram": "adverb"
+          "gloss": "strongly, much",
+          "gram": "adverb of degree"
         }
       ]
     },
@@ -1063,10 +1009,10 @@
         {
           "t": "Всё",
           "lemma": "весь",
-          "pos": "pron",
+          "pos": "det",
           "stress": null,
-          "gloss": "all, whole; everyone, everything",
-          "gram": "nom.n.sg"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "готово,",
@@ -1074,7 +1020,7 @@
           "pos": "adj",
           "stress": "гото́во",
           "gloss": "ready",
-          "gram": "short.n.sg"
+          "gram": "short form, neuter singular"
         },
         {
           "t": "электронный",
@@ -1082,23 +1028,23 @@
           "pos": "adj",
           "stress": "электро́нный",
           "gloss": "electronic",
-          "gram": "nom.m.sg"
+          "gram": "acc.m.sg"
         },
         {
           "t": "браслет",
           "lemma": "браслет",
           "pos": "noun",
           "stress": "брасле́т",
-          "gloss": "bracelet; (electronic) tag",
-          "gram": "nom.m.sg"
+          "gloss": "the tag (bracelet)",
+          "gram": "nominative singular"
         },
         {
           "t": "работает.",
           "lemma": "работать",
           "pos": "verb",
           "stress": "рабо́тает",
-          "gloss": "to work",
-          "gram": "pres.3sg"
+          "gloss": "works",
+          "gram": "present, 3rd person singular, imperfective"
         }
       ]
     },
@@ -1110,32 +1056,32 @@
           "t": "Дальше",
           "lemma": "дальше",
           "pos": "adv",
-          "stress": "Да́льше",
-          "gloss": "next; further",
-          "gram": "adverb"
+          "stress": "да́льше",
+          "gloss": "next, go on",
+          "gram": "adverb (comparative of далеко)"
         },
         {
           "t": "вы",
           "lemma": "вы",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (polite or plural)",
-          "gram": "nom.2pl"
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
         },
         {
           "t": "всё",
           "lemma": "весь",
-          "pos": "pron",
+          "pos": "det",
           "stress": null,
-          "gloss": "all, whole; everyone, everything",
-          "gram": "acc.n.sg"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "прекрасно",
           "lemma": "прекрасно",
           "pos": "adv",
           "stress": "прекра́сно",
-          "gloss": "perfectly, beautifully",
+          "gloss": "perfectly",
           "gram": "adverb"
         },
         {
@@ -1143,16 +1089,16 @@
           "lemma": "знать",
           "pos": "verb",
           "stress": "зна́ете",
-          "gloss": "to know",
-          "gram": "pres.2pl"
+          "gloss": "(you) know",
+          "gram": "present, 2nd person plural, imperfective"
         },
         {
           "t": "сами.",
           "lemma": "сам",
           "pos": "pron",
           "stress": "са́ми",
-          "gloss": "oneself (myself, yourself...)",
-          "gram": "nom.pl"
+          "gloss": "yourselves",
+          "gram": "plural, nominative"
         }
       ]
     },
@@ -1166,23 +1112,23 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "помню",
           "lemma": "помнить",
           "pos": "verb",
           "stress": "по́мню",
-          "gloss": "to remember",
-          "gram": "pres.1sg"
+          "gloss": "remember",
+          "gram": "present, 1st person singular, imperfective"
         },
         {
           "t": "все",
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "all, whole; everyone, everything",
-          "gram": "acc.pl"
+          "gloss": "all",
+          "gram": "nominative plural"
         },
         {
           "t": "установленные",
@@ -1205,8 +1151,8 @@
           "lemma": "правило",
           "pos": "noun",
           "stress": "пра́вила",
-          "gloss": "rule",
-          "gram": "acc.n.pl"
+          "gloss": "rules",
+          "gram": "accusative plural, neuter"
         }
       ]
     },
@@ -1219,24 +1165,24 @@
           "lemma": "вы",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (polite or plural)",
-          "gram": "dat.2pl"
+          "gloss": "you",
+          "gram": "dative plural"
         },
         {
           "t": "строго",
           "lemma": "строго",
           "pos": "adv",
           "stress": "стро́го",
-          "gloss": "strictly, sternly",
+          "gloss": "sternly, strictly",
           "gram": "adverb"
         },
         {
           "t": "запрещено",
-          "lemma": "запрещённый",
-          "pos": "adj",
+          "lemma": "запретить",
+          "pos": "verb",
           "stress": "запрещено́",
-          "gloss": "prohibited, forbidden",
-          "gram": "short.n.sg"
+          "gloss": "to forbid, to ban",
+          "gram": "short participle n"
         },
         {
           "t": "покидать",
@@ -1252,15 +1198,15 @@
           "pos": "det",
           "stress": "э́ту",
           "gloss": "this",
-          "gram": "acc.f.sg"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "квартиру.",
           "lemma": "квартира",
           "pos": "noun",
           "stress": "кварти́ру",
-          "gloss": "flat, apartment",
-          "gram": "acc.f.sg"
+          "gloss": "flat",
+          "gram": "accusative singular, feminine"
         }
       ]
     },
@@ -1274,23 +1220,23 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "буду",
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́ду",
-          "gloss": "to be; there is",
-          "gram": "fut.1sg"
+          "gloss": "will be (there)",
+          "gram": "future, 1st person singular, imperfective"
         },
         {
           "t": "сидеть",
           "lemma": "сидеть",
           "pos": "verb",
           "stress": "сиде́ть",
-          "gloss": "to sit, to be sitting",
-          "gram": "inf"
+          "gloss": "to sit",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "дома",
@@ -1298,7 +1244,7 @@
           "pos": "adv",
           "stress": "до́ма",
           "gloss": "at home",
-          "gram": "adverb"
+          "gram": "adverb of place"
         },
         {
           "t": "и",
@@ -1306,23 +1252,23 @@
           "pos": "conj",
           "stress": null,
           "gloss": "and",
-          "gram": "coord"
+          "gram": "conjunction"
         },
         {
           "t": "ждать",
           "lemma": "ждать",
           "pos": "verb",
           "stress": null,
-          "gloss": "to wait, to expect",
-          "gram": "inf"
+          "gloss": "to wait",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "суда.",
           "lemma": "суд",
           "pos": "noun",
           "stress": "суда́",
-          "gloss": "court",
-          "gram": "gen.m.sg"
+          "gloss": "trial",
+          "gram": "masculine singular, genitive (after не было)"
         }
       ]
     },
@@ -1333,10 +1279,10 @@
         {
           "t": "Любое",
           "lemma": "любой",
-          "pos": "det",
-          "stress": "Любо́е",
+          "pos": "adj",
+          "stress": "любо́е",
           "gloss": "any",
-          "gram": "nom.n.sg"
+          "gram": "neuter accusative singular"
         },
         {
           "t": "нарушение",
@@ -1367,7 +1313,7 @@
           "lemma": "немедленно",
           "pos": "adv",
           "stress": "неме́дленно",
-          "gloss": "immediately, at once",
+          "gloss": "immediately",
           "gram": "adverb"
         }
       ]
@@ -1382,7 +1328,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "не",
@@ -1390,23 +1336,23 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "neg"
+          "gram": "negation"
         },
         {
           "t": "собираюсь",
           "lemma": "собираться",
           "pos": "verb",
           "stress": "собира́юсь",
-          "gloss": "to intend, to be about to; to gather",
-          "gram": "pres.1sg"
+          "gloss": "am planning, am going to",
+          "gram": "1st person singular present"
         },
         {
           "t": "никуда",
           "lemma": "никуда",
           "pos": "adv",
           "stress": "никуда́",
-          "gloss": "nowhere (with motion)",
-          "gram": "adverb"
+          "gloss": "nowhere, anywhere (with motion)",
+          "gram": "negative adverb of direction"
         },
         {
           "t": "убегать.",
@@ -1426,9 +1372,9 @@
           "t": "Тогда",
           "lemma": "тогда",
           "pos": "adv",
-          "stress": "Тогда́",
-          "gloss": "then, back then",
-          "gram": "adverb"
+          "stress": "тогда́",
+          "gloss": "back then",
+          "gram": "adverb of time"
         },
         {
           "t": "соблюдайте",
@@ -1443,8 +1389,8 @@
           "lemma": "режим",
           "pos": "noun",
           "stress": "режи́м",
-          "gloss": "regime, routine, mode",
-          "gram": "acc.m.sg"
+          "gloss": "regime",
+          "gram": "masculine singular nominative"
         },
         {
           "t": "и",
@@ -1452,7 +1398,7 @@
           "pos": "conj",
           "stress": null,
           "gloss": "and",
-          "gram": "coord"
+          "gram": "conjunction"
         },
         {
           "t": "не",
@@ -1460,7 +1406,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "neg"
+          "gram": "negation"
         },
         {
           "t": "нарушайте.",
@@ -1480,17 +1426,17 @@
           "t": "Аркадий",
           "lemma": "аркадий",
           "pos": "name",
-          "stress": "Арка́дий",
+          "stress": null,
           "gloss": "Arkady",
-          "gram": "nom.m.sg"
+          "gram": "first name, nominative, used as address"
         },
         {
           "t": "Борисович,",
           "lemma": "борисович",
           "pos": "name",
-          "stress": "Бори́сович",
-          "gloss": "Borisovich",
-          "gram": "patronymic"
+          "stress": null,
+          "gloss": "son of Boris",
+          "gram": "patronymic, nominative, used as address"
         },
         {
           "t": "приготовьтесь",
@@ -1506,7 +1452,7 @@
           "pos": "prep",
           "stress": null,
           "gloss": "to, towards",
-          "gram": "dat"
+          "gram": "preposition + dative"
         },
         {
           "t": "процедуре.",
@@ -1528,7 +1474,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "готов,",
@@ -1536,15 +1482,15 @@
           "pos": "adj",
           "stress": "гото́в",
           "gloss": "ready",
-          "gram": "short.m.sg"
+          "gram": "short form, masculine singular"
         },
         {
           "t": "проходите",
           "lemma": "проходить",
           "pos": "verb",
           "stress": "проходи́те",
-          "gloss": "to go through; to come in",
-          "gram": "imp.2pl"
+          "gloss": "come in",
+          "gram": "imperative, plural/polite, imperfective"
         },
         {
           "t": "в",
@@ -1552,15 +1498,15 @@
           "pos": "prep",
           "stress": null,
           "gloss": "in, into",
-          "gram": "acc"
+          "gram": "preposition"
         },
         {
           "t": "коридор.",
           "lemma": "коридор",
           "pos": "noun",
           "stress": "коридо́р",
-          "gloss": "corridor, hall",
-          "gram": "acc.m.sg"
+          "gloss": "hall, corridor",
+          "gram": "nominative singular, masculine"
         }
       ]
     },
@@ -1572,9 +1518,9 @@
           "t": "Это",
           "lemma": "это",
           "pos": "pron",
-          "stress": "Э́то",
-          "gloss": "this, that; it is",
-          "gram": "nom.n.sg"
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
           "t": "обязательная",
@@ -1612,14 +1558,14 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "уже",
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
+          "gloss": "already, now",
           "gram": "adverb"
         },
         {
@@ -1627,8 +1573,8 @@
           "lemma": "носить",
           "pos": "verb",
           "stress": "носи́л",
-          "gloss": "to carry; to wear",
-          "gram": "past.m.sg"
+          "gloss": "carried",
+          "gram": "past, masculine singular, imperfective"
         },
         {
           "t": "этот",
@@ -1636,7 +1582,7 @@
           "pos": "det",
           "stress": "э́тот",
           "gloss": "this",
-          "gram": "acc.m.sg"
+          "gram": "accusative singular, masculine"
         },
         {
           "t": "электронный",
@@ -1651,8 +1597,8 @@
           "lemma": "браслет",
           "pos": "noun",
           "stress": "брасле́т",
-          "gloss": "bracelet; (electronic) tag",
-          "gram": "acc.m.sg"
+          "gloss": "the tag (bracelet)",
+          "gram": "nominative singular"
         }
       ]
     },
@@ -1666,15 +1612,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "we",
-          "gram": "nom.1pl"
+          "gram": "1st person plural, nominative"
         },
         {
           "t": "должны",
           "lemma": "должен",
           "pos": "adj",
           "stress": "должны́",
-          "gloss": "must, should; owe",
-          "gram": "pl"
+          "gloss": "must, should",
+          "gram": "short form, plural"
         },
         {
           "t": "зафиксировать",
@@ -1697,7 +1643,7 @@
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, onto; for",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -1718,9 +1664,9 @@
           "t": "Пожалуйста,",
           "lemma": "пожалуйста",
           "pos": "part",
-          "stress": "Пожа́луйста",
-          "gloss": "please; you're welcome",
-          "gram": "particle"
+          "stress": "пожа́луйста",
+          "gloss": "please",
+          "gram": "politeness word"
         },
         {
           "t": "не",
@@ -1728,7 +1674,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "neg"
+          "gram": "negation"
         },
         {
           "t": "затягивайте",
@@ -1752,15 +1698,15 @@
           "pos": "adv",
           "stress": "сли́шком",
           "gloss": "too",
-          "gram": "adverb"
+          "gram": "adverb of degree"
         },
         {
           "t": "сильно.",
           "lemma": "сильно",
           "pos": "adv",
           "stress": "си́льно",
-          "gloss": "strongly, very much, hard",
-          "gram": "adverb"
+          "gloss": "strongly, much",
+          "gram": "adverb of degree"
         }
       ]
     },
@@ -1771,10 +1717,10 @@
         {
           "t": "Всё",
           "lemma": "весь",
-          "pos": "pron",
+          "pos": "det",
           "stress": null,
-          "gloss": "all, whole; everyone, everything",
-          "gram": "nom.n.sg"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "готово,",
@@ -1782,7 +1728,7 @@
           "pos": "adj",
           "stress": "гото́во",
           "gloss": "ready",
-          "gram": "short.n.sg"
+          "gram": "short form, neuter singular"
         },
         {
           "t": "электронный",
@@ -1790,23 +1736,23 @@
           "pos": "adj",
           "stress": "электро́нный",
           "gloss": "electronic",
-          "gram": "nom.m.sg"
+          "gram": "acc.m.sg"
         },
         {
           "t": "браслет",
           "lemma": "браслет",
           "pos": "noun",
           "stress": "брасле́т",
-          "gloss": "bracelet; (electronic) tag",
-          "gram": "nom.m.sg"
+          "gloss": "the tag (bracelet)",
+          "gram": "nominative singular"
         },
         {
           "t": "работает.",
           "lemma": "работать",
           "pos": "verb",
           "stress": "рабо́тает",
-          "gloss": "to work",
-          "gram": "pres.3sg"
+          "gloss": "works",
+          "gram": "present, 3rd person singular, imperfective"
         }
       ]
     },
@@ -1818,32 +1764,32 @@
           "t": "Дальше",
           "lemma": "дальше",
           "pos": "adv",
-          "stress": "Да́льше",
-          "gloss": "next; further",
-          "gram": "adverb"
+          "stress": "да́льше",
+          "gloss": "next, go on",
+          "gram": "adverb (comparative of далеко)"
         },
         {
           "t": "вы",
           "lemma": "вы",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (polite or plural)",
-          "gram": "nom.2pl"
+          "gloss": "you",
+          "gram": "2nd person plural, nominative"
         },
         {
           "t": "всё",
           "lemma": "весь",
-          "pos": "pron",
+          "pos": "det",
           "stress": null,
-          "gloss": "all, whole; everyone, everything",
-          "gram": "acc.n.sg"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "прекрасно",
           "lemma": "прекрасно",
           "pos": "adv",
           "stress": "прекра́сно",
-          "gloss": "perfectly, beautifully",
+          "gloss": "perfectly",
           "gram": "adverb"
         },
         {
@@ -1851,16 +1797,16 @@
           "lemma": "знать",
           "pos": "verb",
           "stress": "зна́ете",
-          "gloss": "to know",
-          "gram": "pres.2pl"
+          "gloss": "(you) know",
+          "gram": "present, 2nd person plural, imperfective"
         },
         {
           "t": "сами.",
           "lemma": "сам",
           "pos": "pron",
           "stress": "са́ми",
-          "gloss": "oneself (myself, yourself...)",
-          "gram": "nom.pl"
+          "gloss": "yourselves",
+          "gram": "plural, nominative"
         }
       ]
     },
@@ -1874,23 +1820,23 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "помню",
           "lemma": "помнить",
           "pos": "verb",
           "stress": "по́мню",
-          "gloss": "to remember",
-          "gram": "pres.1sg"
+          "gloss": "remember",
+          "gram": "present, 1st person singular, imperfective"
         },
         {
           "t": "все",
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "all, whole; everyone, everything",
-          "gram": "acc.pl"
+          "gloss": "all",
+          "gram": "nominative plural"
         },
         {
           "t": "установленные",
@@ -1913,8 +1859,8 @@
           "lemma": "правило",
           "pos": "noun",
           "stress": "пра́вила",
-          "gloss": "rule",
-          "gram": "acc.n.pl"
+          "gloss": "rules",
+          "gram": "accusative plural, neuter"
         }
       ]
     },
@@ -1927,24 +1873,24 @@
           "lemma": "вы",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (polite or plural)",
-          "gram": "dat.2pl"
+          "gloss": "you",
+          "gram": "dative plural"
         },
         {
           "t": "строго",
           "lemma": "строго",
           "pos": "adv",
           "stress": "стро́го",
-          "gloss": "strictly, sternly",
+          "gloss": "sternly, strictly",
           "gram": "adverb"
         },
         {
           "t": "запрещено",
-          "lemma": "запрещённый",
-          "pos": "adj",
+          "lemma": "запретить",
+          "pos": "verb",
           "stress": "запрещено́",
-          "gloss": "prohibited, forbidden",
-          "gram": "short.n.sg"
+          "gloss": "to forbid, to ban",
+          "gram": "short participle n"
         },
         {
           "t": "покидать",
@@ -1960,15 +1906,15 @@
           "pos": "det",
           "stress": "э́ту",
           "gloss": "this",
-          "gram": "acc.f.sg"
+          "gram": "accusative singular, feminine"
         },
         {
           "t": "квартиру.",
           "lemma": "квартира",
           "pos": "noun",
           "stress": "кварти́ру",
-          "gloss": "flat, apartment",
-          "gram": "acc.f.sg"
+          "gloss": "flat",
+          "gram": "accusative singular, feminine"
         }
       ]
     },
@@ -1982,23 +1928,23 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "буду",
           "lemma": "быть",
           "pos": "verb",
           "stress": "бу́ду",
-          "gloss": "to be; there is",
-          "gram": "fut.1sg"
+          "gloss": "will be (there)",
+          "gram": "future, 1st person singular, imperfective"
         },
         {
           "t": "сидеть",
           "lemma": "сидеть",
           "pos": "verb",
           "stress": "сиде́ть",
-          "gloss": "to sit, to be sitting",
-          "gram": "inf"
+          "gloss": "to sit",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "дома",
@@ -2006,7 +1952,7 @@
           "pos": "adv",
           "stress": "до́ма",
           "gloss": "at home",
-          "gram": "adverb"
+          "gram": "adverb of place"
         },
         {
           "t": "и",
@@ -2014,23 +1960,23 @@
           "pos": "conj",
           "stress": null,
           "gloss": "and",
-          "gram": "coord"
+          "gram": "conjunction"
         },
         {
           "t": "ждать",
           "lemma": "ждать",
           "pos": "verb",
           "stress": null,
-          "gloss": "to wait, to expect",
-          "gram": "inf"
+          "gloss": "to wait",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "суда.",
           "lemma": "суд",
           "pos": "noun",
           "stress": "суда́",
-          "gloss": "court",
-          "gram": "gen.m.sg"
+          "gloss": "trial",
+          "gram": "masculine singular, genitive (after не было)"
         }
       ]
     },
@@ -2041,10 +1987,10 @@
         {
           "t": "Любое",
           "lemma": "любой",
-          "pos": "det",
-          "stress": "Любо́е",
+          "pos": "adj",
+          "stress": "любо́е",
           "gloss": "any",
-          "gram": "nom.n.sg"
+          "gram": "neuter accusative singular"
         },
         {
           "t": "нарушение",
@@ -2075,7 +2021,7 @@
           "lemma": "немедленно",
           "pos": "adv",
           "stress": "неме́дленно",
-          "gloss": "immediately, at once",
+          "gloss": "immediately",
           "gram": "adverb"
         }
       ]
@@ -2090,7 +2036,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "I",
-          "gram": "nom.1sg"
+          "gram": "1st person singular, nominative"
         },
         {
           "t": "не",
@@ -2098,23 +2044,23 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "neg"
+          "gram": "negation"
         },
         {
           "t": "собираюсь",
           "lemma": "собираться",
           "pos": "verb",
           "stress": "собира́юсь",
-          "gloss": "to intend, to be about to; to gather",
-          "gram": "pres.1sg"
+          "gloss": "am planning, am going to",
+          "gram": "1st person singular present"
         },
         {
           "t": "никуда",
           "lemma": "никуда",
           "pos": "adv",
           "stress": "никуда́",
-          "gloss": "nowhere (with motion)",
-          "gram": "adverb"
+          "gloss": "nowhere, anywhere (with motion)",
+          "gram": "negative adverb of direction"
         },
         {
           "t": "убегать.",
@@ -2134,9 +2080,9 @@
           "t": "Тогда",
           "lemma": "тогда",
           "pos": "adv",
-          "stress": "Тогда́",
-          "gloss": "then, back then",
-          "gram": "adverb"
+          "stress": "тогда́",
+          "gloss": "back then",
+          "gram": "adverb of time"
         },
         {
           "t": "соблюдайте",
@@ -2151,8 +2097,8 @@
           "lemma": "режим",
           "pos": "noun",
           "stress": "режи́м",
-          "gloss": "regime, routine, mode",
-          "gram": "acc.m.sg"
+          "gloss": "regime",
+          "gram": "masculine singular nominative"
         },
         {
           "t": "и",
@@ -2160,7 +2106,7 @@
           "pos": "conj",
           "stress": null,
           "gloss": "and",
-          "gram": "coord"
+          "gram": "conjunction"
         },
         {
           "t": "не",
@@ -2168,7 +2114,7 @@
           "pos": "part",
           "stress": null,
           "gloss": "not",
-          "gram": "neg"
+          "gram": "negation"
         },
         {
           "t": "нарушайте.",
@@ -2200,8 +2146,8 @@
       "lemma": "браслет",
       "stress": "брасле́т",
       "pos": "noun",
-      "gender": "m",
       "gloss": "bracelet; (electronic) tag",
+      "gender": "m",
       "meanings": [
         {
           "en": "bracelet",
@@ -2294,9 +2240,9 @@
       "lemma": "быть",
       "stress": "быть",
       "pos": "verb",
+      "gloss": "to be; there is",
       "aspect": "impf",
       "pair": null,
-      "gloss": "to be; there is",
       "meanings": [
         {
           "en": "to be",
@@ -2504,7 +2450,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -2615,7 +2561,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -2852,8 +2798,8 @@
       "lemma": "датчик",
       "stress": "да́тчик",
       "pos": "noun",
-      "gender": "m",
       "gloss": "sensor",
+      "gender": "m",
       "meanings": [
         {
           "en": "sensor, detector",
@@ -2950,7 +2896,7 @@
         }
       ],
       "forms": {
-        "title": "Short form",
+        "title": "Declension",
         "columns": [
           "",
           "m",
@@ -3030,9 +2976,9 @@
       "lemma": "ждать",
       "stress": "ждать",
       "pos": "verb",
+      "gloss": "to wait, to expect",
       "aspect": "impf",
       "pair": "подождать",
-      "gloss": "to wait, to expect",
       "meanings": [
         {
           "en": "to wait (for)",
@@ -3143,8 +3089,8 @@
       "lemma": "закон",
       "stress": "зако́н",
       "pos": "noun",
-      "gender": "m",
       "gloss": "law, statute",
+      "gender": "m",
       "meanings": [
         {
           "en": "law, legal code, statute",
@@ -3222,6 +3168,119 @@
         {
           "word": "законный",
           "gloss": "related to law (adj.)"
+        }
+      ]
+    },
+    "запретить": {
+      "lemma": "запретить",
+      "stress": "запрети́ть",
+      "pos": "verb",
+      "gloss": "to forbid, to ban",
+      "aspect": "pf",
+      "pair": "запрещать",
+      "meanings": [
+        {
+          "en": "to forbid, to prohibit",
+          "note": "Запретить кому + infinitive. Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'претить'). Used as an perfective (single completed action) verb meaning 'to forbid, to ban', paired with 'запрещать'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "запрещу",
+              "запретим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "запретишь",
+              "запретите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "запретит",
+              "запретят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "запретил",
+                "запретила",
+                "запретило",
+                "запретили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "запрети",
+                "запретите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Аникеев же запретил!",
+          "trans": "But Anikeev forbade it!"
+        },
+        {
+          "text": "Врач запретил ему пить.",
+          "trans": "The doctor forbade him to drink."
+        },
+        {
+          "text": "Аникеев же запретил! Нам нельзя пить.",
+          "trans": "But Anikeev forbade it! We mustn't drink."
+        }
+      ],
+      "related": [
+        {
+          "word": "запрещать",
+          "gloss": "to forbid"
+        },
+        {
+          "word": "претензия",
+          "gloss": "complaint"
+        },
+        {
+          "word": "запрет",
+          "gloss": "ban"
         }
       ]
     },
@@ -3332,9 +3391,9 @@
       "lemma": "затягивать",
       "stress": "затя́гивать",
       "pos": "verb",
+      "gloss": "to tighten, delay",
       "aspect": "impf",
       "pair": "затянуть",
-      "gloss": "to tighten, delay",
       "meanings": [
         {
           "en": "to tighten (strap), drag out",
@@ -3420,9 +3479,9 @@
       "lemma": "зафиксировать",
       "stress": "зафикси́ровать",
       "pos": "verb",
+      "gloss": "to fix, secure, register",
       "aspect": "pf",
       "pair": "фиксировать",
-      "gloss": "to fix, secure, register",
       "meanings": [
         {
           "en": "to secure, fix in place, or record",
@@ -3529,9 +3588,9 @@
       "lemma": "знать",
       "stress": "знать",
       "pos": "verb",
-      "aspect": "impf",
-      "pair": null,
       "gloss": "to know",
+      "aspect": "impf",
+      "pair": "узнать",
       "meanings": [
         {
           "en": "to know",
@@ -3701,8 +3760,8 @@
       "lemma": "квартира",
       "stress": "кварти́ра",
       "pos": "noun",
-      "gender": "f",
       "gloss": "flat, apartment",
+      "gender": "f",
       "meanings": [
         {
           "en": "flat, apartment",
@@ -3791,8 +3850,8 @@
       "lemma": "коридор",
       "stress": "коридо́р",
       "pos": "noun",
-      "gender": "m",
       "gloss": "corridor, hall",
+      "gender": "m",
       "meanings": [
         {
           "en": "corridor, hallway",
@@ -3854,16 +3913,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Кто этот тип в коридоре?",
-          "trans": "Who was that guy in the corridor?"
-        },
-        {
-          "text": "Он стоит в длинном коридоре.",
-          "trans": "He is standing in the long corridor."
-        },
-        {
           "text": "Как видите, большой коридор.",
           "trans": "As you can see, a big hall."
+        },
+        {
+          "text": "Он стоит в коридоре.",
+          "trans": "He is standing in the corridor."
+        },
+        {
+          "text": "Проходите, пожалуйста! Как видите, большой коридор, а там кухня.",
+          "trans": "Come on in, please! As you can see, a big hall, and the kitchen is over there."
         }
       ],
       "related": [
@@ -4000,7 +4059,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -4112,9 +4171,9 @@
       "lemma": "нарушать",
       "stress": "наруша́ть",
       "pos": "verb",
+      "gloss": "to violate, break",
       "aspect": "impf",
       "pair": "нарушить",
-      "gloss": "to violate, break",
       "meanings": [
         {
           "en": "to violate, breach a rule",
@@ -4221,8 +4280,8 @@
       "lemma": "нарушение",
       "stress": "наруше́ние",
       "pos": "noun",
-      "gender": "n",
       "gloss": "violation, error",
+      "gender": "n",
       "meanings": [
         {
           "en": "violation, breach, error",
@@ -4413,8 +4472,8 @@
       "lemma": "нога",
       "stress": "нога́",
       "pos": "noun",
-      "gender": "f",
       "gloss": "leg, foot",
+      "gender": "f",
       "meanings": [
         {
           "en": "leg",
@@ -4503,9 +4562,9 @@
       "lemma": "носить",
       "stress": "носи́ть",
       "pos": "verb",
+      "gloss": "to carry; to wear",
       "aspect": "impf",
       "pair": null,
-      "gloss": "to carry; to wear",
       "meanings": [
         {
           "en": "to carry (around, back and forth)",
@@ -4749,13 +4808,51 @@
         }
       ]
     },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
+        }
+      ]
+    },
     "покидать": {
       "lemma": "покидать",
       "stress": "покида́ть",
       "pos": "verb",
+      "gloss": "to leave, abandon",
       "aspect": "impf",
       "pair": "покинуть",
-      "gloss": "to leave, abandon",
       "meanings": [
         {
           "en": "to leave, depart from, abandon",
@@ -4858,9 +4955,9 @@
       "lemma": "помнить",
       "stress": "по́мнить",
       "pos": "verb",
+      "gloss": "to remember",
       "aspect": "impf",
       "pair": null,
-      "gloss": "to remember",
       "meanings": [
         {
           "en": "to remember",
@@ -4963,8 +5060,8 @@
       "lemma": "правило",
       "stress": "пра́вило",
       "pos": "noun",
-      "gender": "n",
       "gloss": "rule",
+      "gender": "n",
       "meanings": [
         {
           "en": "rule",
@@ -5103,9 +5200,9 @@
       "lemma": "приготовиться",
       "stress": "пригото́виться",
       "pos": "verb",
+      "gloss": "to prepare, get ready",
       "aspect": "pf",
       "pair": "готовиться",
-      "gloss": "to prepare, get ready",
       "meanings": [
         {
           "en": "to prepare oneself, get ready",
@@ -5216,9 +5313,9 @@
       "lemma": "проходить",
       "stress": "проходи́ть",
       "pos": "verb",
+      "gloss": "to go through; to come in",
       "aspect": "impf",
       "pair": "пройти",
-      "gloss": "to go through; to come in",
       "meanings": [
         {
           "en": "to come in",
@@ -5333,8 +5430,8 @@
       "lemma": "процедура",
       "stress": "процеду́ра",
       "pos": "noun",
-      "gender": "f",
       "gloss": "procedure",
+      "gender": "f",
       "meanings": [
         {
           "en": "procedure, routine process",
@@ -5419,9 +5516,10 @@
       "lemma": "работать",
       "stress": "рабо́тать",
       "pos": "verb",
+      "gloss": "to work",
       "aspect": "impf",
       "pair": "поработать",
-      "gloss": "to work",
+      "governs": "+ instrumental (as)",
       "meanings": [
         {
           "en": "to work",
@@ -5513,7 +5611,6 @@
           "trans": "I've been working as mayor for four years now."
         }
       ],
-      "governs": "+ instrumental (as)",
       "related": [
         {
           "word": "поработать",
@@ -5533,12 +5630,16 @@
       "lemma": "режим",
       "stress": "режи́м",
       "pos": "noun",
-      "gender": "m",
       "gloss": "regime, routine, mode",
+      "gender": "m",
       "meanings": [
         {
-          "en": "regime, prescribed routine or mode",
+          "en": "regime, strict rules",
           "note": "Inanimate masculine noun. Common masculine noun meaning 'regime, routine, mode' in everyday Russian."
+        },
+        {
+          "en": "routine, schedule",
+          "note": "Common masculine noun meaning 'regime, routine, mode' in everyday Russian."
         }
       ],
       "forms": {
@@ -5596,16 +5697,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Соблюдайте установленный режим.",
-          "trans": "Maintain the established routine."
-        },
-        {
-          "text": "Телефон переведён в тихий режим.",
-          "trans": "The phone is switched to silent mode."
-        },
-        {
           "text": "Здесь строгий больничный режим.",
           "trans": "There is a strict hospital regime here."
+        },
+        {
+          "text": "Соблюдать режим дня.",
+          "trans": "To maintain a daily routine."
+        },
+        {
+          "text": "Здесь строгий режим и нельзя громко шуметь.",
+          "trans": "There is a strict regime here and one cannot make loud noise."
         }
       ],
       "related": [
@@ -5619,8 +5720,8 @@
       "lemma": "ремень",
       "stress": "реме́нь",
       "pos": "noun",
-      "gender": "m",
       "gloss": "belt, strap",
+      "gender": "m",
       "meanings": [
         {
           "en": "belt, strap",
@@ -5713,7 +5814,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -5808,8 +5909,8 @@
       "lemma": "сигнал",
       "stress": "сигна́л",
       "pos": "noun",
-      "gender": "m",
       "gloss": "signal",
+      "gender": "m",
       "meanings": [
         {
           "en": "signal",
@@ -5898,9 +5999,9 @@
       "lemma": "сидеть",
       "stress": "сиде́ть",
       "pos": "verb",
+      "gloss": "to sit, to be sitting",
       "aspect": "impf",
       "pair": "посидеть",
-      "gloss": "to sit, to be sitting",
       "meanings": [
         {
           "en": "to sit, to be sitting",
@@ -6083,9 +6184,9 @@
       "lemma": "собираться",
       "stress": "собира́ться",
       "pos": "verb",
+      "gloss": "to intend, to be about to; to gather",
       "aspect": "impf",
       "pair": "собраться",
-      "gloss": "to intend, to be about to; to gather",
       "meanings": [
         {
           "en": "to intend, to plan, to be going to",
@@ -6196,9 +6297,9 @@
       "lemma": "соблюдать",
       "stress": "соблюда́ть",
       "pos": "verb",
+      "gloss": "to observe, comply with",
       "aspect": "impf",
       "pair": "соблюсти",
-      "gloss": "to observe, comply with",
       "meanings": [
         {
           "en": "to observe, follow rules or regime",
@@ -6343,8 +6444,8 @@
       "lemma": "суд",
       "stress": "суд",
       "pos": "noun",
-      "gender": "m",
       "gloss": "court",
+      "gender": "m",
       "meanings": [
         {
           "en": "court (of law)",
@@ -6574,9 +6675,9 @@
       "lemma": "убегать",
       "stress": "убега́ть",
       "pos": "verb",
+      "gloss": "to run away, escape",
       "aspect": "impf",
       "pair": "убежать",
-      "gloss": "to run away, escape",
       "meanings": [
         {
           "en": "to run away, flee",
@@ -6828,9 +6929,9 @@
       "lemma": "фиксироваться",
       "stress": "фикси́роваться",
       "pos": "verb",
+      "gloss": "to be recorded, fixed",
       "aspect": "impf",
       "pair": "зафиксироваться",
-      "gloss": "to be recorded, fixed",
       "meanings": [
         {
           "en": "to be registered or recorded automatically",
@@ -7060,7 +7161,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -7138,7 +7239,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -7241,7 +7342,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -7308,44 +7409,6 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
-        }
-      ]
-    },
-    "пока": {
-      "lemma": "пока",
-      "stress": "пока́",
-      "pos": "adv",
-      "gloss": "bye",
-      "meanings": [
-        {
-          "en": "bye, see you",
-          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
-        },
-        {
-          "en": "while, for now",
-          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пока!",
-          "trans": "Bye!"
-        },
-        {
-          "text": "Пока, папа!",
-          "trans": "Bye, Dad!"
-        },
-        {
-          "text": "Пока, милый!",
-          "trans": "Bye, darling!"
-        }
-      ],
-      "related": [
-        {
-          "word": "пока",
-          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

@@ -21,7 +21,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Славик | Нет. | No. | #673 00:36:02: Нет | verbatim |
 | 10 | Аня | Слушай, эти детские клички такие прилипчивые. Твой отец когда-то назвал меня очкариком. | Listen, these childhood nicknames really stick. Your father once called me four-eyes. | #675 00:36:13: Слушай, эти детские клички<br>#675 00:36:13: такие прилипчивые<br>#677 00:36:24: твой отец | adapted: cue 677 'очконавт' -> 'очкарик' |
 | 11 | Аня | И вот так на всю жизнь — очкарик. | And it stayed like that for my whole life: four-eyes. | #678 00:36:29: Вот так на всю жизнь | adapted: cue 678 'Очконавт' -> 'очкарик' |
-| 12 | Аня | Представь: тебе сорок лет, жена красавица, дети, бизнес. А тебя все зовут врунишкой! | Imagine: you're forty, with a beautiful wife, children, a business. And everyone still calls you a little liar! | #680 00:36:39: жена красавица<br>#681 00:36:45: Дети, бизнес<br>#682 00:36:48: все зовут | adapted: cue 682 vulgar nickname replaced with 'врунишкой' |
+| 12 | Аня | Тебе сорок лет, жена, дети. А тебя все зовут врунишкой! | Imagine: you're forty, with a beautiful wife, children, a business. And everyone still calls you a little liar! | #680 00:36:39: жена<br>#681 00:36:45: Дети<br>#682 00:36:48: все зовут | adapted: cue 682 vulgar nickname replaced with 'врунишкой' |
 | 13 | Аня | Смотрите, врунишка новую машину купил! У врунишки сегодня день рождения! | Look, the little liar bought a new car! It's the little liar's birthday today! | #686 00:36:57: новую<br>#686 00:36:57: купил<br>#688 00:37:01: смотрите<br>#689 00:37:04: сегодня день рождения | adapted: slang 'тачку' -> 'машину'; vulgar nickname -> 'врунишка' |
 | 14 | Славик | Ладно, давайте ваш адрес. | Alright, give me your address. | #693 00:37:15: Ладно, давайте ваш адрес | verbatim |
 | 15 | Аня | А вот это молодец. | Now that's a good lad. | #694 00:37:17: А вот это молодец | verbatim |
@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Why are you so sad, soldier?' In casual Russian, 'of what' is often used to mean 'why'. He calls the boy 'fighter' or 'soldier' to sound matey. Slavik blames Arkady.
-- 'Because of your Lyolya the whole class calls me a little liar!' Remember, Slavik showed off Lyolya's photo at school and claimed she was his girlfriend; in the show the boys give him a much cruder nickname, which we have cleaned up to 'little liar'. Notice the instrumental ending '-oy' after 'calls me'.
+- 'Because of your Lyolya the whole class calls me a little liar!' Remember, Slavik showed off Lyolya's photo at school and claimed she was his girlfriend; in the show the boys give him a much cruder nickname, which we have cleaned up to 'little liar'. Notice the 'with/as' ending '-oy' after 'calls me'.
 - 'And what does Lyolya have to do with it?' A very common idiom: 'at what here is Lyolya?'. Slavik is in despair.
 - 'Everything!' Literally 'at everything!', echoing the idiom right back.
 - 'Nothing is working out for me.' While they talk, the episode cuts briefly to the surveillance room, where Captain Zavarzin begs for pizza and Major Lavrov makes him eat dry bread rings instead. Back in the kitchen, Arkady has a plan for Slavik.
@@ -37,16 +37,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Grab the little dog in the park and run.' Russian often uses past-tense verbs like 'grabbed and ran' to describe how quick and easy a future action will be.
 - 'The chubby girl won't catch you.' That is Judge Berg's daughter Polina, who walks little Lyutik in the park.
 - 'And Lyolya will go to the party with you.' If Lyolya shows up at Dimon's party as Slavik's girlfriend, his classmates will have to take back their teasing. Still, Slavik hesitates.
-- 'I'm not going to steal a dog.' Compound future with 'I will not' plus the infinitive 'to steal'. Arkady softens it.
+- 'I'm not going to steal a dog.' Compound future with 'I will not' plus the basic verb form 'to steal'. Arkady softens it.
 - 'Listen, we'll give her back.' 'Her' refers to the dog, which is feminine in Russian.
 - 'It's just a prank.' Literally 'this is simply a joke'.
 - 'No.' Slavik stands firm, so Arkady switches tactics and aims at the boy's pride.
 - 'Listen, these childhood nicknames really stick.' The adjective at the end means 'sticky' or 'catchy'.
-- 'Your father once called me four-eyes.' Notice the instrumental ending '-om' after 'called me'. In fact, it was Samson himself as a boy, though Arkady blames Samson's father here.
+- 'Your father once called me four-eyes.' Notice the 'with/as' ending '-om' after 'called me'. In fact, it was Samson himself as a boy, though Arkady blames Samson's father here.
 - 'And it stayed like that for my whole life: four-eyes.' Literally 'and so onto the whole life'. Then he paints Slavik's future.
-- 'Imagine: you're forty, with a beautiful wife, children, a business.' Age in Russian uses the 'to' case: 'to you forty years'.
+- 'You are forty years old, with a wife and children.' Age in Russian uses the 'to' case: 'to you forty years'.
 - 'And everyone still calls you a little liar!' Even when you are a grown-up businessman driving a Porsche, the schoolyard name follows you around.
-- 'Look, the little liar bought a new car!' Both 'new' and 'car' take the feminine accusative ending '-u'.
+- 'Look, the little liar bought a new car!' Both 'new' and 'car' take the feminine object ending '-u'.
 - 'It's the little liar's birthday today!' Literally 'by the little liar today is birthday'. That picture is too much for Slavik.
 - 'Alright, give me your address.' He uses the polite plural command 'give' and 'your' because he is talking to an adult. Arkady beams.
 - 'Now that's a good lad.' Literally 'and here this is a fine fellow'.

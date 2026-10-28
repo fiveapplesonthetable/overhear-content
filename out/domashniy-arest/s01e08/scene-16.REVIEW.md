@@ -29,17 +29,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Well now, where is my tank?' Lyosha stands in the doorway on his crutches demanding his toy.
-- 'Everything is fine with your tank.' Notice the preposition with the instrumental case for 'with your tank'.
+- 'Everything is fine with your tank.' Notice the preposition with the 'with/as' form for 'with your tank'.
 - 'Let's play another game instead!' Arkady suggests an alternative to distract the boy.
-- 'Let's play war!' Imperative particle inviting someone to play together with an imperfective infinitive.
+- 'Let's play war!' command particle inviting someone to play together.
 - 'Look: hands up, surrender!' Arkady raises his cast-clad arms pretending to capture an enemy soldier.
 - 'And where is my tank after all?' Lyosha refuses to be distracted by war games.
 - 'Do you know how to play chess? I'll teach you!' Arkady grabs a dusty chessboard from the shelf.
 - 'This is a knight, and this is a queen.' Notice the Russian chess names: 'horse' for knight and 'vizier' for queen.
-- 'Please give me back my tank.' Lyosha repeats his demand politely with a plural imperative.
+- 'Please give me back my tank.' Lyosha repeats his demand politely. Listen to the flow.
 - 'I glued it, it's drying right now.' Arkady invents an excuse that the glue hasn't dried yet.
 - 'I'm going to call mum!' Notice the past tense verb used idiomatically to indicate immediate future departure.
 - 'What, are you a tattletale?' A colloquial childhood word for a snitch or tattletale.
 - 'Well alright, your tank is here.' Arkady surrenders before Marina gets involved.
-- 'It is lying under the pillow.' Preposition with the instrumental case showing location underneath something.
+- 'It is lying under the pillow.' Preposition with the 'with/as' form showing location underneath something.
 - 'Uncle Arkady stepped on it by accident.' Arkady sheepishly confesses that he stepped on the green plastic toy.

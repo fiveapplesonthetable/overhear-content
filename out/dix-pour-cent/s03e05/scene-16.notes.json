@@ -2715,21 +2715,22 @@
       ]
     },
     "bas": {
-      "examples": [
+      "lemma": "bas",
+      "stress": "bɑ",
+      "pos": "adj",
+      "gloss": "low",
+      "meanings": [
         {
-          "text": "C'est vraiment bas.",
-          "trans": "That's really low."
+          "en": "low",
+          "note": "physically, or morally: c'est bas = that's low"
         },
         {
-          "text": "La table est basse.",
-          "trans": "The table is low."
-        },
-        {
-          "text": "C'est vraiment bas, Emma.",
-          "trans": "That's really low, Emma."
+          "en": "quietly",
+          "note": "As an adverb: parler bas. Descriptive French adjective meaning 'low'; agrees in gender and number with the noun it modifies."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -2750,28 +2751,27 @@
               "basses"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "low",
-      "lemma": "bas",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "low",
-          "note": "physically, or morally: c'est bas = that's low"
+          "text": "C'est vraiment bas.",
+          "trans": "That's really low."
         },
         {
-          "en": "quietly",
-          "note": "as an adverb: parler bas"
+          "text": "La table est basse.",
+          "trans": "The table is low."
+        },
+        {
+          "text": "C'est vraiment bas, Emma.",
+          "trans": "That's really low, Emma."
         }
       ],
-      "moreForms": [],
-      "pos": "adj",
-      "stress": "bɑ",
       "related": [
         {
-          "word": "basement",
-          "gloss": "in a low manner (adv.)"
+          "word": "physically, or morally: c'est bas",
+          "gloss": "that's low"
         }
       ]
     },
@@ -4532,21 +4532,24 @@
       ]
     },
     "heure": {
-      "examples": [
+      "lemma": "heure",
+      "stress": "œʁ",
+      "pos": "noun",
+      "gloss": "hour; o'clock",
+      "gender": "f",
+      "plural": "heures",
+      "meanings": [
         {
-          "text": "À tout à l'heure!",
-          "trans": "See you later!"
+          "en": "hour",
+          "note": "Dans une heure = in an hour. Feminine noun ('la heure', plural 'les heures') inherited through Romance vocabulary, used in everyday and professional French for 'hour'."
         },
         {
-          "text": "Il est quelle heure?",
-          "trans": "What time is it?"
-        },
-        {
-          "text": "Dans une heure.",
-          "trans": "In an hour."
+          "en": "o'clock",
+          "note": "À quatorze heures = at two pm. Feminine noun ('la heure', plural 'les heures') inherited through Romance vocabulary, used in everyday and professional French for 'hour'."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "sg",
@@ -4560,35 +4563,24 @@
               "les heures"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gender": "f",
-      "gloss": "hour; time",
-      "lemma": "heure",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "hour",
-          "note": "quelle heure est-il? = what time is it?"
+          "text": "Dans une heure.",
+          "trans": "In an hour."
         },
         {
-          "en": "time (o'clock)",
-          "note": "quelle heure est-il? = what time is it?"
+          "text": "À onze heures.",
+          "trans": "At eleven o'clock."
         },
         {
-          "en": "later today",
-          "note": "à tout à l'heure = see you later"
+          "text": "L'un à midi, l'autre à quatorze heures. Je vais déjeuner deux fois.",
+          "trans": "One at noon, the other at two. I'm going to have lunch twice."
         }
       ],
-      "moreForms": [],
-      "plural": "heures",
-      "pos": "noun",
-      "stress": "œʁ",
       "related": [
-        {
-          "word": "heurter",
-          "gloss": "to hit"
-        },
         {
           "word": "heureux",
           "gloss": "happy"
@@ -6421,37 +6413,38 @@
       ]
     },
     "se": {
-      "examples": [
+      "lemma": "se",
+      "stress": "s",
+      "pos": "pron",
+      "gloss": "oneself, itself (reflexive)",
+      "meanings": [
         {
-          "text": "Qu'est-ce qui se passe?",
-          "trans": "What's going on?"
-        },
-        {
-          "text": "Ils s'entendent bien.",
-          "trans": "They get along well."
-        },
-        {
-          "text": "Ça se passe bien.",
-          "trans": "It's going well."
+          "en": "reflexive pronoun",
+          "note": "part of verbs like se passer, s'occuper; s' before a vowel"
         }
       ],
       "forms": null,
-      "gloss": "himself, herself, each other",
-      "lemma": "se",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "reflexive pronoun, 3rd person",
-          "note": "becomes s' before a vowel"
+          "text": "Ça se passe bien.",
+          "trans": "It's going well."
         },
         {
-          "en": "each other",
-          "note": "elles s'entendent bien"
+          "text": "Il s'occupe de tout.",
+          "trans": "He takes care of everything."
+        },
+        {
+          "text": "Ça ne se passe pas bien?",
+          "trans": "It's not going well?"
         }
       ],
-      "moreForms": [],
-      "pos": "pron",
-      "stress": "sə",
-      "related": []
+      "related": [
+        {
+          "word": "se",
+          "gloss": "oneself"
+        }
+      ]
     },
     "soir": {
       "lemma": "soir",
@@ -6782,21 +6775,22 @@
       ]
     },
     "tout": {
-      "examples": [
+      "lemma": "tout",
+      "stress": "tu",
+      "pos": "det",
+      "gloss": "all, every; everything",
+      "meanings": [
         {
-          "text": "Merci à tous.",
-          "trans": "Thank you, everyone."
+          "en": "all, the whole",
+          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
         },
         {
-          "text": "Oui à tout.",
-          "trans": "Yes to everything."
-        },
-        {
-          "text": "Ça ne va pas du tout.",
-          "trans": "It's not going at all."
+          "en": "tout ce que = all that, everything that",
+          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -6817,32 +6811,23 @@
               "toutes"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "all, everything; everyone",
-      "lemma": "tout",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "everything",
-          "note": "oui à tout = yes to everything"
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
         },
         {
-          "en": "all, everyone",
-          "note": "plural tous (pronounced 'tous' with s): merci à tous"
+          "text": "C'est tout ce que je peux faire.",
+          "trans": "That's all I can do."
         },
         {
-          "en": "at all",
-          "note": "pas du tout"
-        },
-        {
-          "en": "all, the whole",
-          "note": "before a noun: tout le monde = everyone"
+          "text": "Désolé, c'est tout ce que je peux faire.",
+          "trans": "Sorry, that's all I can do."
         }
       ],
-      "moreForms": [],
-      "pos": "pron",
-      "stress": "tu",
       "related": [
         {
           "word": "tout le monde",
@@ -7235,6 +7220,26 @@
       ]
     },
     "à": {
+      "lemma": "à",
+      "stress": "a",
+      "pos": "prep",
+      "gloss": "at, in, to",
+      "meanings": [
+        {
+          "en": "at, in",
+          "note": "Place: à Paris, à mon cours. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+        },
+        {
+          "en": "at",
+          "note": "Time: à midi. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+        },
+        {
+          "en": "au = à + le, aux = à + les",
+          "note": "Contractions. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Je suis à Paris.",
@@ -7249,27 +7254,12 @@
           "trans": "We're at the Westin."
         }
       ],
-      "forms": null,
-      "gloss": "at, in, to",
-      "lemma": "à",
-      "meanings": [
+      "related": [
         {
-          "en": "at, in",
-          "note": "place: à Paris, à mon cours"
-        },
-        {
-          "en": "at",
-          "note": "time: à midi"
-        },
-        {
-          "en": "au = à + le, aux = à + les",
-          "note": "contractions"
+          "word": "à",
+          "gloss": "at"
         }
-      ],
-      "moreForms": [],
-      "pos": "prep",
-      "stress": "a",
-      "related": []
+      ]
     },
     "écouter": {
       "lemma": "écouter",

@@ -10,9 +10,9 @@
           "t": "Выпало",
           "lemma": "выпасть",
           "pos": "verb",
-          "stress": "Вы́пало",
-          "gloss": "fell, came up",
-          "gram": "past neuter singular"
+          "stress": "вы́пало",
+          "gloss": "came up",
+          "gram": "past neuter singular, perfective"
         },
         {
           "t": "два",
@@ -20,13 +20,13 @@
           "pos": "num",
           "stress": null,
           "gloss": "two",
-          "gram": "nominative cardinal numeral"
+          "gram": "masculine/neuter nominative"
         },
         {
           "t": "чёрное,",
           "lemma": "чёрный",
           "pos": "adj",
-          "stress": "чёрное",
+          "stress": null,
           "gloss": "black",
           "gram": "neuter nominative singular adjective"
         },
@@ -36,7 +36,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "we",
-          "gram": "nominative plural pronoun"
+          "gram": "1st person plural, nominative"
         },
         {
           "t": "снова",
@@ -51,8 +51,8 @@
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "all, everything",
-          "gram": "neuter accusative singular pronoun"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "проиграли.",
@@ -73,8 +73,8 @@
           "lemma": "эх",
           "pos": "interj",
           "stress": null,
-          "gloss": "oh, ah",
-          "gram": "interjection"
+          "gloss": "oh",
+          "gram": "interjection of regret"
         },
         {
           "t": "а",
@@ -98,14 +98,14 @@
           "pos": "verb",
           "stress": "хоте́л",
           "gloss": "wanted",
-          "gram": "past masculine singular"
+          "gram": "past, masculine singular, imperfective"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -121,8 +121,8 @@
           "lemma": "ставить",
           "pos": "verb",
           "stress": "ста́вить",
-          "gloss": "to bet",
-          "gram": "imperfective infinitive"
+          "gloss": "to put, to place",
+          "gram": "verb infinitive"
         }
       ]
     },
@@ -135,16 +135,16 @@
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "that is all",
-          "gram": "neuter nominative singular pronoun"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "у",
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "with, at",
-          "gram": "preposition with genitive"
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
         },
         {
           "t": "меня",
@@ -152,7 +152,7 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "genitive 1st person pronoun"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "денег",
@@ -160,15 +160,15 @@
           "pos": "noun",
           "stress": "де́нег",
           "gloss": "money",
-          "gram": "plural inanimate noun, genitive plural"
+          "gram": "genitive plural (after не хватило)"
         },
         {
           "t": "совсем",
           "lemma": "совсем",
           "pos": "adv",
           "stress": "совсе́м",
-          "gloss": "completely",
-          "gram": "adverb"
+          "gloss": "at all",
+          "gram": "adverb, strengthens 'не'"
         },
         {
           "t": "в",
@@ -183,8 +183,8 @@
           "lemma": "ноль",
           "pos": "noun",
           "stress": null,
-          "gloss": "zero",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gloss": "zero; nil",
+          "gram": "acc m sg inanim"
         }
       ]
     },
@@ -196,25 +196,25 @@
           "t": "Сделай",
           "lemma": "сделать",
           "pos": "verb",
-          "stress": "Сде́лай",
-          "gloss": "make",
-          "gram": "2nd person singular imperative"
+          "stress": "сде́лай",
+          "gloss": "make, do",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "мне",
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me",
-          "gram": "dative 1st person pronoun"
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
         },
         {
           "t": "быстрый",
           "lemma": "быстрый",
-          "pos": "adj",
+          "pos": "adv",
           "stress": "бы́стрый",
-          "gloss": "quick",
-          "gram": "masculine accusative singular inanimate adjective"
+          "gloss": "fast",
+          "gram": "masculine accusative singular inanimate"
         },
         {
           "t": "обмен",
@@ -230,7 +230,7 @@
           "pos": "noun",
           "stress": "де́нег",
           "gloss": "money",
-          "gram": "plural inanimate noun, genitive plural"
+          "gram": "genitive plural (after не хватило)"
         },
         {
           "t": "пожалуйста.",
@@ -238,7 +238,7 @@
           "pos": "part",
           "stress": "пожа́луйста",
           "gloss": "please",
-          "gram": "politeness particle"
+          "gram": "politeness word"
         }
       ]
     },
@@ -250,17 +250,17 @@
           "t": "Самсон,",
           "lemma": "самсон",
           "pos": "name",
-          "stress": "Самсо́н",
+          "stress": null,
           "gloss": "Samson",
-          "gram": "proper name, masculine, vocative"
+          "gram": "nickname, used as address"
         },
         {
           "t": "ты",
           "lemma": "ты",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (informal)",
-          "gram": "2nd person singular, nominative"
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
         },
         {
           "t": "ведь",
@@ -275,7 +275,7 @@
           "lemma": "тоже",
           "pos": "adv",
           "stress": "то́же",
-          "gloss": "also",
+          "gloss": "too",
           "gram": "adverb"
         },
         {
@@ -283,7 +283,7 @@
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
+          "gloss": "already, now",
           "gram": "adverb"
         },
         {
@@ -299,8 +299,8 @@
           "lemma": "ноль",
           "pos": "noun",
           "stress": null,
-          "gloss": "zero",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gloss": "zero; nil",
+          "gram": "acc m sg inanim"
         }
       ]
     },
@@ -313,24 +313,24 @@
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "that is all",
-          "gram": "neuter nominative singular pronoun"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пойдём",
+          "stress": null,
           "gloss": "let's go",
-          "gram": "1st person plural imperative"
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
         {
           "t": "скорее",
-          "lemma": "скорее",
+          "lemma": "скоро",
           "pos": "adv",
           "stress": "скоре́е",
-          "gloss": "quicker",
-          "gram": "adverb"
+          "gloss": "quickly, right away",
+          "gram": "comparative adverb"
         },
         {
           "t": "отсюда",
@@ -338,14 +338,14 @@
           "pos": "adv",
           "stress": "отсю́да",
           "gloss": "from here",
-          "gram": "adverb"
+          "gram": "adverb of place"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -354,7 +354,7 @@
           "pos": "noun",
           "stress": "у́лицу",
           "gloss": "street",
-          "gram": "feminine inanimate noun, accusative singular"
+          "gram": "feminine accusative singular"
         }
       ]
     },
@@ -366,9 +366,9 @@
           "t": "Подожди,",
           "lemma": "подождать",
           "pos": "verb",
-          "stress": "Подожди́",
+          "stress": "подожди́",
           "gloss": "wait",
-          "gram": "2nd person singular imperative"
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "я",
@@ -383,8 +383,8 @@
           "lemma": "должен",
           "pos": "adj",
           "stress": "до́лжен",
-          "gloss": "must",
-          "gram": "short form adjective, masculine singular"
+          "gloss": "has to, must",
+          "gram": "short form, masculine singular"
         },
         {
           "t": "отыграть",
@@ -400,7 +400,7 @@
           "pos": "det",
           "stress": "на́ши",
           "gloss": "our",
-          "gram": "accusative plural possessive pronoun"
+          "gram": "plural, accusative"
         },
         {
           "t": "деньги!",
@@ -408,7 +408,7 @@
           "pos": "noun",
           "stress": "де́ньги",
           "gloss": "money",
-          "gram": "plural inanimate noun, accusative plural"
+          "gram": "nominative plural (plural only)"
         }
       ]
     },
@@ -420,17 +420,17 @@
           "t": "Вставай",
           "lemma": "вставать",
           "pos": "verb",
-          "stress": "Встава́й",
-          "gloss": "get up",
-          "gram": "2nd person singular imperative"
+          "stress": "встава́й",
+          "gloss": "get up, stand up",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "со",
           "lemma": "с",
           "pos": "prep",
           "stress": null,
-          "gloss": "from, off",
-          "gram": "preposition with genitive"
+          "gloss": "with",
+          "gram": "preposition (+instr)"
         },
         {
           "t": "стула,",
@@ -453,16 +453,16 @@
           "lemma": "сходить",
           "pos": "verb",
           "stress": "сходи́",
-          "gloss": "go off",
-          "gram": "2nd person singular imperative"
+          "gloss": "go (and come back)",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "с",
           "lemma": "с",
           "pos": "prep",
           "stress": null,
-          "gloss": "with",
-          "gram": "preposition with instrumental"
+          "gloss": "with / from",
+          "gram": "preposition"
         },
         {
           "t": "ума.",
@@ -470,7 +470,7 @@
           "pos": "noun",
           "stress": "ума́",
           "gloss": "mind",
-          "gram": "masculine inanimate noun, genitive singular"
+          "gram": "genitive singular, masculine (с ума)"
         }
       ]
     },
@@ -482,9 +482,9 @@
           "t": "Самсон",
           "lemma": "самсон",
           "pos": "name",
-          "stress": "Самсо́н",
+          "stress": null,
           "gloss": "Samson",
-          "gram": "proper name, masculine, nominative"
+          "gram": "nickname, used as address"
         },
         {
           "t": "никогда",
@@ -499,15 +499,15 @@
           "lemma": "просто",
           "pos": "adv",
           "stress": "про́сто",
-          "gloss": "simply",
+          "gloss": "just",
           "gram": "adverb"
         },
         {
           "t": "так",
           "lemma": "так",
-          "pos": "adv",
+          "pos": "part",
           "stress": null,
-          "gloss": "so, like that",
+          "gloss": "so",
           "gram": "adverb"
         },
         {
@@ -522,7 +522,7 @@
           "t": "сдаётся!",
           "lemma": "сдаваться",
           "pos": "verb",
-          "stress": "сдаётся",
+          "stress": null,
           "gloss": "gives up",
           "gram": "3rd person singular present"
         }
@@ -536,24 +536,24 @@
           "t": "Успокойся,",
           "lemma": "успокоиться",
           "pos": "verb",
-          "stress": "Успоко́йся",
+          "stress": "успоко́йся",
           "gloss": "calm down",
-          "gram": "2nd person singular imperative"
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пойдём",
+          "stress": null,
           "gloss": "let's go",
-          "gram": "1st person plural imperative"
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -562,7 +562,7 @@
           "pos": "adj",
           "stress": "све́жий",
           "gloss": "fresh",
-          "gram": "masculine accusative singular inanimate adjective"
+          "gram": "masculine singular accusative adjective"
         },
         {
           "t": "воздух",
@@ -578,7 +578,7 @@
           "pos": "adv",
           "stress": "сейча́с",
           "gloss": "now",
-          "gram": "adverb"
+          "gram": "adverb of time"
         }
       ]
     },
@@ -590,17 +590,17 @@
           "t": "Ладно,",
           "lemma": "ладно",
           "pos": "part",
-          "stress": "Ла́дно",
-          "gloss": "alright",
-          "gram": "particle"
+          "stress": "ла́дно",
+          "gloss": "all right",
+          "gram": "particle of agreement"
         },
         {
           "t": "нормально",
           "lemma": "нормально",
           "pos": "adv",
           "stress": "норма́льно",
-          "gloss": "fine, normally",
-          "gram": "adverb"
+          "gloss": "fine, OK",
+          "gram": "adverb (predicative)"
         },
         {
           "t": "всё,",
@@ -608,7 +608,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "neuter nominative singular pronoun"
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "я",
@@ -623,7 +623,7 @@
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
+          "gloss": "already, now",
           "gram": "adverb"
         },
         {
@@ -644,33 +644,33 @@
           "t": "Пойдём,",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "Пойдём",
+          "stress": null,
           "gloss": "let's go",
-          "gram": "1st person plural imperative"
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
         {
           "t": "нам",
           "lemma": "мы",
           "pos": "pron",
           "stress": null,
-          "gloss": "to us",
-          "gram": "dative 1st person plural pronoun"
+          "gloss": "us",
+          "gram": "1st person plural dative"
         },
         {
           "t": "нужно",
           "lemma": "нужно",
           "pos": "adv",
           "stress": "ну́жно",
-          "gloss": "needed",
-          "gram": "predicative"
+          "gloss": "(it is) necessary",
+          "gram": "predicative, + dative of the person + infinitive"
         },
         {
           "t": "срочно",
           "lemma": "срочно",
           "pos": "adv",
           "stress": "сро́чно",
-          "gloss": "urgently",
-          "gram": "adverb"
+          "gloss": "urgent, urgently",
+          "gram": "predicative adverb"
         },
         {
           "t": "думать",
@@ -678,15 +678,15 @@
           "pos": "verb",
           "stress": "ду́мать",
           "gloss": "to think",
-          "gram": "imperfective infinitive"
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "дальше.",
           "lemma": "дальше",
           "pos": "adv",
           "stress": "да́льше",
-          "gloss": "further",
-          "gram": "adverb"
+          "gloss": "next, go on",
+          "gram": "adverb (comparative of далеко)"
         }
       ]
     },
@@ -698,9 +698,9 @@
           "t": "Выпало",
           "lemma": "выпасть",
           "pos": "verb",
-          "stress": "Вы́пало",
-          "gloss": "fell, came up",
-          "gram": "past neuter singular"
+          "stress": "вы́пало",
+          "gloss": "came up",
+          "gram": "past neuter singular, perfective"
         },
         {
           "t": "два",
@@ -708,13 +708,13 @@
           "pos": "num",
           "stress": null,
           "gloss": "two",
-          "gram": "nominative cardinal numeral"
+          "gram": "masculine/neuter nominative"
         },
         {
           "t": "чёрное,",
           "lemma": "чёрный",
           "pos": "adj",
-          "stress": "чёрное",
+          "stress": null,
           "gloss": "black",
           "gram": "neuter nominative singular adjective"
         },
@@ -724,7 +724,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "we",
-          "gram": "nominative plural pronoun"
+          "gram": "1st person plural, nominative"
         },
         {
           "t": "снова",
@@ -739,8 +739,8 @@
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "all, everything",
-          "gram": "neuter accusative singular pronoun"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "проиграли.",
@@ -761,8 +761,8 @@
           "lemma": "эх",
           "pos": "interj",
           "stress": null,
-          "gloss": "oh, ah",
-          "gram": "interjection"
+          "gloss": "oh",
+          "gram": "interjection of regret"
         },
         {
           "t": "а",
@@ -786,14 +786,14 @@
           "pos": "verb",
           "stress": "хоте́л",
           "gloss": "wanted",
-          "gram": "past masculine singular"
+          "gram": "past, masculine singular, imperfective"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -809,8 +809,8 @@
           "lemma": "ставить",
           "pos": "verb",
           "stress": "ста́вить",
-          "gloss": "to bet",
-          "gram": "imperfective infinitive"
+          "gloss": "to put, to place",
+          "gram": "verb infinitive"
         }
       ]
     },
@@ -823,16 +823,16 @@
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "that is all",
-          "gram": "neuter nominative singular pronoun"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "у",
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "with, at",
-          "gram": "preposition with genitive"
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
         },
         {
           "t": "меня",
@@ -840,7 +840,7 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "genitive 1st person pronoun"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "денег",
@@ -848,15 +848,15 @@
           "pos": "noun",
           "stress": "де́нег",
           "gloss": "money",
-          "gram": "plural inanimate noun, genitive plural"
+          "gram": "genitive plural (after не хватило)"
         },
         {
           "t": "совсем",
           "lemma": "совсем",
           "pos": "adv",
           "stress": "совсе́м",
-          "gloss": "completely",
-          "gram": "adverb"
+          "gloss": "at all",
+          "gram": "adverb, strengthens 'не'"
         },
         {
           "t": "в",
@@ -871,8 +871,8 @@
           "lemma": "ноль",
           "pos": "noun",
           "stress": null,
-          "gloss": "zero",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gloss": "zero; nil",
+          "gram": "acc m sg inanim"
         }
       ]
     },
@@ -884,25 +884,25 @@
           "t": "Сделай",
           "lemma": "сделать",
           "pos": "verb",
-          "stress": "Сде́лай",
-          "gloss": "make",
-          "gram": "2nd person singular imperative"
+          "stress": "сде́лай",
+          "gloss": "make, do",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "мне",
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me",
-          "gram": "dative 1st person pronoun"
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
         },
         {
           "t": "быстрый",
           "lemma": "быстрый",
-          "pos": "adj",
+          "pos": "adv",
           "stress": "бы́стрый",
-          "gloss": "quick",
-          "gram": "masculine accusative singular inanimate adjective"
+          "gloss": "fast",
+          "gram": "masculine accusative singular inanimate"
         },
         {
           "t": "обмен",
@@ -918,7 +918,7 @@
           "pos": "noun",
           "stress": "де́нег",
           "gloss": "money",
-          "gram": "plural inanimate noun, genitive plural"
+          "gram": "genitive plural (after не хватило)"
         },
         {
           "t": "пожалуйста.",
@@ -926,7 +926,7 @@
           "pos": "part",
           "stress": "пожа́луйста",
           "gloss": "please",
-          "gram": "politeness particle"
+          "gram": "politeness word"
         }
       ]
     },
@@ -938,17 +938,17 @@
           "t": "Самсон,",
           "lemma": "самсон",
           "pos": "name",
-          "stress": "Самсо́н",
+          "stress": null,
           "gloss": "Samson",
-          "gram": "proper name, masculine, vocative"
+          "gram": "nickname, used as address"
         },
         {
           "t": "ты",
           "lemma": "ты",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (informal)",
-          "gram": "2nd person singular, nominative"
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
         },
         {
           "t": "ведь",
@@ -963,7 +963,7 @@
           "lemma": "тоже",
           "pos": "adv",
           "stress": "то́же",
-          "gloss": "also",
+          "gloss": "too",
           "gram": "adverb"
         },
         {
@@ -971,7 +971,7 @@
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
+          "gloss": "already, now",
           "gram": "adverb"
         },
         {
@@ -987,8 +987,8 @@
           "lemma": "ноль",
           "pos": "noun",
           "stress": null,
-          "gloss": "zero",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gloss": "zero; nil",
+          "gram": "acc m sg inanim"
         }
       ]
     },
@@ -1001,24 +1001,24 @@
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "that is all",
-          "gram": "neuter nominative singular pronoun"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пойдём",
+          "stress": null,
           "gloss": "let's go",
-          "gram": "1st person plural imperative"
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
         {
           "t": "скорее",
-          "lemma": "скорее",
+          "lemma": "скоро",
           "pos": "adv",
           "stress": "скоре́е",
-          "gloss": "quicker",
-          "gram": "adverb"
+          "gloss": "quickly, right away",
+          "gram": "comparative adverb"
         },
         {
           "t": "отсюда",
@@ -1026,14 +1026,14 @@
           "pos": "adv",
           "stress": "отсю́да",
           "gloss": "from here",
-          "gram": "adverb"
+          "gram": "adverb of place"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -1042,7 +1042,7 @@
           "pos": "noun",
           "stress": "у́лицу",
           "gloss": "street",
-          "gram": "feminine inanimate noun, accusative singular"
+          "gram": "feminine accusative singular"
         }
       ]
     },
@@ -1054,9 +1054,9 @@
           "t": "Подожди,",
           "lemma": "подождать",
           "pos": "verb",
-          "stress": "Подожди́",
+          "stress": "подожди́",
           "gloss": "wait",
-          "gram": "2nd person singular imperative"
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "я",
@@ -1071,8 +1071,8 @@
           "lemma": "должен",
           "pos": "adj",
           "stress": "до́лжен",
-          "gloss": "must",
-          "gram": "short form adjective, masculine singular"
+          "gloss": "has to, must",
+          "gram": "short form, masculine singular"
         },
         {
           "t": "отыграть",
@@ -1088,7 +1088,7 @@
           "pos": "det",
           "stress": "на́ши",
           "gloss": "our",
-          "gram": "accusative plural possessive pronoun"
+          "gram": "plural, accusative"
         },
         {
           "t": "деньги!",
@@ -1096,7 +1096,7 @@
           "pos": "noun",
           "stress": "де́ньги",
           "gloss": "money",
-          "gram": "plural inanimate noun, accusative plural"
+          "gram": "nominative plural (plural only)"
         }
       ]
     },
@@ -1108,17 +1108,17 @@
           "t": "Вставай",
           "lemma": "вставать",
           "pos": "verb",
-          "stress": "Встава́й",
-          "gloss": "get up",
-          "gram": "2nd person singular imperative"
+          "stress": "встава́й",
+          "gloss": "get up, stand up",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "со",
           "lemma": "с",
           "pos": "prep",
           "stress": null,
-          "gloss": "from, off",
-          "gram": "preposition with genitive"
+          "gloss": "with",
+          "gram": "preposition (+instr)"
         },
         {
           "t": "стула,",
@@ -1141,16 +1141,16 @@
           "lemma": "сходить",
           "pos": "verb",
           "stress": "сходи́",
-          "gloss": "go off",
-          "gram": "2nd person singular imperative"
+          "gloss": "go (and come back)",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "с",
           "lemma": "с",
           "pos": "prep",
           "stress": null,
-          "gloss": "with",
-          "gram": "preposition with instrumental"
+          "gloss": "with / from",
+          "gram": "preposition"
         },
         {
           "t": "ума.",
@@ -1158,7 +1158,7 @@
           "pos": "noun",
           "stress": "ума́",
           "gloss": "mind",
-          "gram": "masculine inanimate noun, genitive singular"
+          "gram": "genitive singular, masculine (с ума)"
         }
       ]
     },
@@ -1170,9 +1170,9 @@
           "t": "Самсон",
           "lemma": "самсон",
           "pos": "name",
-          "stress": "Самсо́н",
+          "stress": null,
           "gloss": "Samson",
-          "gram": "proper name, masculine, nominative"
+          "gram": "nickname, used as address"
         },
         {
           "t": "никогда",
@@ -1187,15 +1187,15 @@
           "lemma": "просто",
           "pos": "adv",
           "stress": "про́сто",
-          "gloss": "simply",
+          "gloss": "just",
           "gram": "adverb"
         },
         {
           "t": "так",
           "lemma": "так",
-          "pos": "adv",
+          "pos": "part",
           "stress": null,
-          "gloss": "so, like that",
+          "gloss": "so",
           "gram": "adverb"
         },
         {
@@ -1210,7 +1210,7 @@
           "t": "сдаётся!",
           "lemma": "сдаваться",
           "pos": "verb",
-          "stress": "сдаётся",
+          "stress": null,
           "gloss": "gives up",
           "gram": "3rd person singular present"
         }
@@ -1224,24 +1224,24 @@
           "t": "Успокойся,",
           "lemma": "успокоиться",
           "pos": "verb",
-          "stress": "Успоко́йся",
+          "stress": "успоко́йся",
           "gloss": "calm down",
-          "gram": "2nd person singular imperative"
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пойдём",
+          "stress": null,
           "gloss": "let's go",
-          "gram": "1st person plural imperative"
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -1250,7 +1250,7 @@
           "pos": "adj",
           "stress": "све́жий",
           "gloss": "fresh",
-          "gram": "masculine accusative singular inanimate adjective"
+          "gram": "masculine singular accusative adjective"
         },
         {
           "t": "воздух",
@@ -1266,7 +1266,7 @@
           "pos": "adv",
           "stress": "сейча́с",
           "gloss": "now",
-          "gram": "adverb"
+          "gram": "adverb of time"
         }
       ]
     },
@@ -1278,17 +1278,17 @@
           "t": "Ладно,",
           "lemma": "ладно",
           "pos": "part",
-          "stress": "Ла́дно",
-          "gloss": "alright",
-          "gram": "particle"
+          "stress": "ла́дно",
+          "gloss": "all right",
+          "gram": "particle of agreement"
         },
         {
           "t": "нормально",
           "lemma": "нормально",
           "pos": "adv",
           "stress": "норма́льно",
-          "gloss": "fine, normally",
-          "gram": "adverb"
+          "gloss": "fine, OK",
+          "gram": "adverb (predicative)"
         },
         {
           "t": "всё,",
@@ -1296,7 +1296,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "neuter nominative singular pronoun"
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "я",
@@ -1311,7 +1311,7 @@
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
+          "gloss": "already, now",
           "gram": "adverb"
         },
         {
@@ -1332,33 +1332,33 @@
           "t": "Пойдём,",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "Пойдём",
+          "stress": null,
           "gloss": "let's go",
-          "gram": "1st person plural imperative"
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
         {
           "t": "нам",
           "lemma": "мы",
           "pos": "pron",
           "stress": null,
-          "gloss": "to us",
-          "gram": "dative 1st person plural pronoun"
+          "gloss": "us",
+          "gram": "1st person plural dative"
         },
         {
           "t": "нужно",
           "lemma": "нужно",
           "pos": "adv",
           "stress": "ну́жно",
-          "gloss": "needed",
-          "gram": "predicative"
+          "gloss": "(it is) necessary",
+          "gram": "predicative, + dative of the person + infinitive"
         },
         {
           "t": "срочно",
           "lemma": "срочно",
           "pos": "adv",
           "stress": "сро́чно",
-          "gloss": "urgently",
-          "gram": "adverb"
+          "gloss": "urgent, urgently",
+          "gram": "predicative adverb"
         },
         {
           "t": "думать",
@@ -1366,15 +1366,15 @@
           "pos": "verb",
           "stress": "ду́мать",
           "gloss": "to think",
-          "gram": "imperfective infinitive"
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "дальше.",
           "lemma": "дальше",
           "pos": "adv",
           "stress": "да́льше",
-          "gloss": "further",
-          "gram": "adverb"
+          "gloss": "next, go on",
+          "gram": "adverb (comparative of далеко)"
         }
       ]
     },
@@ -1386,9 +1386,9 @@
           "t": "Выпало",
           "lemma": "выпасть",
           "pos": "verb",
-          "stress": "Вы́пало",
-          "gloss": "fell, came up",
-          "gram": "past neuter singular"
+          "stress": "вы́пало",
+          "gloss": "came up",
+          "gram": "past neuter singular, perfective"
         },
         {
           "t": "два",
@@ -1396,13 +1396,13 @@
           "pos": "num",
           "stress": null,
           "gloss": "two",
-          "gram": "nominative cardinal numeral"
+          "gram": "masculine/neuter nominative"
         },
         {
           "t": "чёрное,",
           "lemma": "чёрный",
           "pos": "adj",
-          "stress": "чёрное",
+          "stress": null,
           "gloss": "black",
           "gram": "neuter nominative singular adjective"
         },
@@ -1412,7 +1412,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "we",
-          "gram": "nominative plural pronoun"
+          "gram": "1st person plural, nominative"
         },
         {
           "t": "снова",
@@ -1427,8 +1427,8 @@
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "all, everything",
-          "gram": "neuter accusative singular pronoun"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "проиграли.",
@@ -1449,8 +1449,8 @@
           "lemma": "эх",
           "pos": "interj",
           "stress": null,
-          "gloss": "oh, ah",
-          "gram": "interjection"
+          "gloss": "oh",
+          "gram": "interjection of regret"
         },
         {
           "t": "а",
@@ -1474,14 +1474,14 @@
           "pos": "verb",
           "stress": "хоте́л",
           "gloss": "wanted",
-          "gram": "past masculine singular"
+          "gram": "past, masculine singular, imperfective"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -1497,8 +1497,8 @@
           "lemma": "ставить",
           "pos": "verb",
           "stress": "ста́вить",
-          "gloss": "to bet",
-          "gram": "imperfective infinitive"
+          "gloss": "to put, to place",
+          "gram": "verb infinitive"
         }
       ]
     },
@@ -1511,16 +1511,16 @@
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "that is all",
-          "gram": "neuter nominative singular pronoun"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "у",
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "with, at",
-          "gram": "preposition with genitive"
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
         },
         {
           "t": "меня",
@@ -1528,7 +1528,7 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "genitive 1st person pronoun"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "денег",
@@ -1536,15 +1536,15 @@
           "pos": "noun",
           "stress": "де́нег",
           "gloss": "money",
-          "gram": "plural inanimate noun, genitive plural"
+          "gram": "genitive plural (after не хватило)"
         },
         {
           "t": "совсем",
           "lemma": "совсем",
           "pos": "adv",
           "stress": "совсе́м",
-          "gloss": "completely",
-          "gram": "adverb"
+          "gloss": "at all",
+          "gram": "adverb, strengthens 'не'"
         },
         {
           "t": "в",
@@ -1559,8 +1559,8 @@
           "lemma": "ноль",
           "pos": "noun",
           "stress": null,
-          "gloss": "zero",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gloss": "zero; nil",
+          "gram": "acc m sg inanim"
         }
       ]
     },
@@ -1572,25 +1572,25 @@
           "t": "Сделай",
           "lemma": "сделать",
           "pos": "verb",
-          "stress": "Сде́лай",
-          "gloss": "make",
-          "gram": "2nd person singular imperative"
+          "stress": "сде́лай",
+          "gloss": "make, do",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "мне",
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me",
-          "gram": "dative 1st person pronoun"
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
         },
         {
           "t": "быстрый",
           "lemma": "быстрый",
-          "pos": "adj",
+          "pos": "adv",
           "stress": "бы́стрый",
-          "gloss": "quick",
-          "gram": "masculine accusative singular inanimate adjective"
+          "gloss": "fast",
+          "gram": "masculine accusative singular inanimate"
         },
         {
           "t": "обмен",
@@ -1606,7 +1606,7 @@
           "pos": "noun",
           "stress": "де́нег",
           "gloss": "money",
-          "gram": "plural inanimate noun, genitive plural"
+          "gram": "genitive plural (after не хватило)"
         },
         {
           "t": "пожалуйста.",
@@ -1614,7 +1614,7 @@
           "pos": "part",
           "stress": "пожа́луйста",
           "gloss": "please",
-          "gram": "politeness particle"
+          "gram": "politeness word"
         }
       ]
     },
@@ -1626,17 +1626,17 @@
           "t": "Самсон,",
           "lemma": "самсон",
           "pos": "name",
-          "stress": "Самсо́н",
+          "stress": null,
           "gloss": "Samson",
-          "gram": "proper name, masculine, vocative"
+          "gram": "nickname, used as address"
         },
         {
           "t": "ты",
           "lemma": "ты",
           "pos": "pron",
           "stress": null,
-          "gloss": "you (informal)",
-          "gram": "2nd person singular, nominative"
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
         },
         {
           "t": "ведь",
@@ -1651,7 +1651,7 @@
           "lemma": "тоже",
           "pos": "adv",
           "stress": "то́же",
-          "gloss": "also",
+          "gloss": "too",
           "gram": "adverb"
         },
         {
@@ -1659,7 +1659,7 @@
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
+          "gloss": "already, now",
           "gram": "adverb"
         },
         {
@@ -1675,8 +1675,8 @@
           "lemma": "ноль",
           "pos": "noun",
           "stress": null,
-          "gloss": "zero",
-          "gram": "masculine inanimate noun, accusative singular"
+          "gloss": "zero; nil",
+          "gram": "acc m sg inanim"
         }
       ]
     },
@@ -1689,24 +1689,24 @@
           "lemma": "весь",
           "pos": "det",
           "stress": null,
-          "gloss": "that is all",
-          "gram": "neuter nominative singular pronoun"
+          "gloss": "everything",
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пойдём",
+          "stress": null,
           "gloss": "let's go",
-          "gram": "1st person plural imperative"
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
         {
           "t": "скорее",
-          "lemma": "скорее",
+          "lemma": "скоро",
           "pos": "adv",
           "stress": "скоре́е",
-          "gloss": "quicker",
-          "gram": "adverb"
+          "gloss": "quickly, right away",
+          "gram": "comparative adverb"
         },
         {
           "t": "отсюда",
@@ -1714,14 +1714,14 @@
           "pos": "adv",
           "stress": "отсю́да",
           "gloss": "from here",
-          "gram": "adverb"
+          "gram": "adverb of place"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -1730,7 +1730,7 @@
           "pos": "noun",
           "stress": "у́лицу",
           "gloss": "street",
-          "gram": "feminine inanimate noun, accusative singular"
+          "gram": "feminine accusative singular"
         }
       ]
     },
@@ -1742,9 +1742,9 @@
           "t": "Подожди,",
           "lemma": "подождать",
           "pos": "verb",
-          "stress": "Подожди́",
+          "stress": "подожди́",
           "gloss": "wait",
-          "gram": "2nd person singular imperative"
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "я",
@@ -1759,8 +1759,8 @@
           "lemma": "должен",
           "pos": "adj",
           "stress": "до́лжен",
-          "gloss": "must",
-          "gram": "short form adjective, masculine singular"
+          "gloss": "has to, must",
+          "gram": "short form, masculine singular"
         },
         {
           "t": "отыграть",
@@ -1776,7 +1776,7 @@
           "pos": "det",
           "stress": "на́ши",
           "gloss": "our",
-          "gram": "accusative plural possessive pronoun"
+          "gram": "plural, accusative"
         },
         {
           "t": "деньги!",
@@ -1784,7 +1784,7 @@
           "pos": "noun",
           "stress": "де́ньги",
           "gloss": "money",
-          "gram": "plural inanimate noun, accusative plural"
+          "gram": "nominative plural (plural only)"
         }
       ]
     },
@@ -1796,17 +1796,17 @@
           "t": "Вставай",
           "lemma": "вставать",
           "pos": "verb",
-          "stress": "Встава́й",
-          "gloss": "get up",
-          "gram": "2nd person singular imperative"
+          "stress": "встава́й",
+          "gloss": "get up, stand up",
+          "gram": "imperative, 2nd person singular, imperfective"
         },
         {
           "t": "со",
           "lemma": "с",
           "pos": "prep",
           "stress": null,
-          "gloss": "from, off",
-          "gram": "preposition with genitive"
+          "gloss": "with",
+          "gram": "preposition (+instr)"
         },
         {
           "t": "стула,",
@@ -1829,16 +1829,16 @@
           "lemma": "сходить",
           "pos": "verb",
           "stress": "сходи́",
-          "gloss": "go off",
-          "gram": "2nd person singular imperative"
+          "gloss": "go (and come back)",
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "с",
           "lemma": "с",
           "pos": "prep",
           "stress": null,
-          "gloss": "with",
-          "gram": "preposition with instrumental"
+          "gloss": "with / from",
+          "gram": "preposition"
         },
         {
           "t": "ума.",
@@ -1846,7 +1846,7 @@
           "pos": "noun",
           "stress": "ума́",
           "gloss": "mind",
-          "gram": "masculine inanimate noun, genitive singular"
+          "gram": "genitive singular, masculine (с ума)"
         }
       ]
     },
@@ -1858,9 +1858,9 @@
           "t": "Самсон",
           "lemma": "самсон",
           "pos": "name",
-          "stress": "Самсо́н",
+          "stress": null,
           "gloss": "Samson",
-          "gram": "proper name, masculine, nominative"
+          "gram": "nickname, used as address"
         },
         {
           "t": "никогда",
@@ -1875,15 +1875,15 @@
           "lemma": "просто",
           "pos": "adv",
           "stress": "про́сто",
-          "gloss": "simply",
+          "gloss": "just",
           "gram": "adverb"
         },
         {
           "t": "так",
           "lemma": "так",
-          "pos": "adv",
+          "pos": "part",
           "stress": null,
-          "gloss": "so, like that",
+          "gloss": "so",
           "gram": "adverb"
         },
         {
@@ -1898,7 +1898,7 @@
           "t": "сдаётся!",
           "lemma": "сдаваться",
           "pos": "verb",
-          "stress": "сдаётся",
+          "stress": null,
           "gloss": "gives up",
           "gram": "3rd person singular present"
         }
@@ -1912,24 +1912,24 @@
           "t": "Успокойся,",
           "lemma": "успокоиться",
           "pos": "verb",
-          "stress": "Успоко́йся",
+          "stress": "успоко́йся",
           "gloss": "calm down",
-          "gram": "2nd person singular imperative"
+          "gram": "imperative, 2nd person singular, perfective"
         },
         {
           "t": "пойдём",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "пойдём",
+          "stress": null,
           "gloss": "let's go",
-          "gram": "1st person plural imperative"
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
         {
           "t": "на",
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
+          "gloss": "on, onto",
           "gram": "preposition"
         },
         {
@@ -1938,7 +1938,7 @@
           "pos": "adj",
           "stress": "све́жий",
           "gloss": "fresh",
-          "gram": "masculine accusative singular inanimate adjective"
+          "gram": "masculine singular accusative adjective"
         },
         {
           "t": "воздух",
@@ -1954,7 +1954,7 @@
           "pos": "adv",
           "stress": "сейча́с",
           "gloss": "now",
-          "gram": "adverb"
+          "gram": "adverb of time"
         }
       ]
     },
@@ -1966,17 +1966,17 @@
           "t": "Ладно,",
           "lemma": "ладно",
           "pos": "part",
-          "stress": "Ла́дно",
-          "gloss": "alright",
-          "gram": "particle"
+          "stress": "ла́дно",
+          "gloss": "all right",
+          "gram": "particle of agreement"
         },
         {
           "t": "нормально",
           "lemma": "нормально",
           "pos": "adv",
           "stress": "норма́льно",
-          "gloss": "fine, normally",
-          "gram": "adverb"
+          "gloss": "fine, OK",
+          "gram": "adverb (predicative)"
         },
         {
           "t": "всё,",
@@ -1984,7 +1984,7 @@
           "pos": "det",
           "stress": null,
           "gloss": "everything",
-          "gram": "neuter nominative singular pronoun"
+          "gram": "nominative neuter singular, used as a noun"
         },
         {
           "t": "я",
@@ -1999,7 +1999,7 @@
           "lemma": "уже",
           "pos": "adv",
           "stress": "уже́",
-          "gloss": "already",
+          "gloss": "already, now",
           "gram": "adverb"
         },
         {
@@ -2020,33 +2020,33 @@
           "t": "Пойдём,",
           "lemma": "пойти",
           "pos": "verb",
-          "stress": "Пойдём",
+          "stress": null,
           "gloss": "let's go",
-          "gram": "1st person plural imperative"
+          "gram": "future, 1st person plural, perfective; = 'let's go'"
         },
         {
           "t": "нам",
           "lemma": "мы",
           "pos": "pron",
           "stress": null,
-          "gloss": "to us",
-          "gram": "dative 1st person plural pronoun"
+          "gloss": "us",
+          "gram": "1st person plural dative"
         },
         {
           "t": "нужно",
           "lemma": "нужно",
           "pos": "adv",
           "stress": "ну́жно",
-          "gloss": "needed",
-          "gram": "predicative"
+          "gloss": "(it is) necessary",
+          "gram": "predicative, + dative of the person + infinitive"
         },
         {
           "t": "срочно",
           "lemma": "срочно",
           "pos": "adv",
           "stress": "сро́чно",
-          "gloss": "urgently",
-          "gram": "adverb"
+          "gloss": "urgent, urgently",
+          "gram": "predicative adverb"
         },
         {
           "t": "думать",
@@ -2054,37 +2054,29 @@
           "pos": "verb",
           "stress": "ду́мать",
           "gloss": "to think",
-          "gram": "imperfective infinitive"
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "дальше.",
           "lemma": "дальше",
           "pos": "adv",
           "stress": "да́льше",
-          "gloss": "further",
-          "gram": "adverb"
+          "gloss": "next, go on",
+          "gram": "adverb (comparative of далеко)"
         }
       ]
     },
     {
       "seg": 51,
-      "trans": "See you soon!",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "До",
-          "lemma": "до",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "until",
-          "gram": "preposition + genitive"
-        },
-        {
-          "t": "встречи!",
-          "lemma": "встреча",
-          "pos": "noun",
-          "stress": "встре́чи",
-          "gloss": "meeting, next time",
-          "gram": "genitive feminine singular"
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -2135,7 +2127,7 @@
     "быстрый": {
       "lemma": "быстрый",
       "stress": "бы́стрый",
-      "pos": "adj",
+      "pos": "adv",
       "gloss": "fast, quick",
       "meanings": [
         {
@@ -2144,7 +2136,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -2335,7 +2327,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -2434,8 +2426,8 @@
       "lemma": "воздух",
       "stress": "во́здух",
       "pos": "noun",
-      "gender": "m",
       "gloss": "air; outdoors",
+      "gender": "m",
       "meanings": [
         {
           "en": "air",
@@ -2520,9 +2512,9 @@
       "lemma": "вставать",
       "stress": "встава́ть",
       "pos": "verb",
+      "gloss": "to get up, to stand up",
       "aspect": "impf",
       "pair": "встать",
-      "gloss": "to get up, to stand up",
       "meanings": [
         {
           "en": "to get up",
@@ -2633,9 +2625,9 @@
       "lemma": "выпасть",
       "stress": "вы́пасть",
       "pos": "verb",
+      "gloss": "to fall out",
       "aspect": "pf",
       "pair": "выпадать",
-      "gloss": "to fall out",
       "meanings": [
         {
           "en": "to fall out",
@@ -2818,8 +2810,8 @@
       "lemma": "двойка",
       "stress": "дво́йка",
       "pos": "noun",
-      "gender": "f",
       "gloss": "two; number two; failing grade",
+      "gender": "f",
       "meanings": [
         {
           "en": "two, number two",
@@ -2905,6 +2897,8 @@
       "stress": "де́ньги",
       "pos": "noun",
       "gloss": "money",
+      "gender": "f",
+      "number": "pl",
       "meanings": [
         {
           "en": "money",
@@ -2978,7 +2972,6 @@
           "trans": "Gum? I didn't have enough money."
         }
       ],
-      "number": "pl",
       "related": [
         {
           "word": "день",
@@ -3002,7 +2995,7 @@
         }
       ],
       "forms": {
-        "title": "Short form",
+        "title": "Declension",
         "columns": [
           "",
           "m",
@@ -3048,9 +3041,9 @@
       "lemma": "думать",
       "stress": "ду́мать",
       "pos": "verb",
+      "gloss": "to think",
       "aspect": "impf",
       "pair": "подумать",
-      "gloss": "to think",
       "meanings": [
         {
           "en": "to think",
@@ -3207,7 +3200,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -3327,7 +3320,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -3494,8 +3487,8 @@
       "lemma": "ноль",
       "stress": "ноль",
       "pos": "noun",
-      "gender": "m",
       "gloss": "zero; nil",
+      "gender": "m",
       "meanings": [
         {
           "en": "zero",
@@ -3627,6 +3620,7 @@
       "stress": "ну́жно",
       "pos": "adv",
       "gloss": "(it is) necessary, need",
+      "governs": "+ dative + infinitive",
       "meanings": [
         {
           "en": "it is necessary, one needs to",
@@ -3649,7 +3643,6 @@
           "trans": "I need to call the governor. Give me a phone."
         }
       ],
-      "governs": "+ dative + infinitive",
       "related": [
         {
           "word": "нужный",
@@ -3665,8 +3658,8 @@
       "lemma": "обмен",
       "stress": "обме́н",
       "pos": "noun",
-      "gender": "m",
       "gloss": "exchange; swap",
+      "gender": "m",
       "meanings": [
         {
           "en": "exchange",
@@ -3785,9 +3778,9 @@
       "lemma": "отыграть",
       "stress": "отыгра́ть",
       "pos": "verb",
+      "gloss": "to win back; to recover",
       "aspect": "pf",
       "pair": "отыгрывать",
-      "gloss": "to win back; to recover",
       "meanings": [
         {
           "en": "to win back",
@@ -3898,9 +3891,9 @@
       "lemma": "подождать",
       "stress": "подожда́ть",
       "pos": "verb",
+      "gloss": "to wait (a while)",
       "aspect": "pf",
       "pair": "ждать",
-      "gloss": "to wait (a while)",
       "meanings": [
         {
           "en": "to wait a little",
@@ -4045,9 +4038,9 @@
       "lemma": "пойти",
       "stress": "пойти́",
       "pos": "verb",
-      "aspect": "pf",
-      "pair": "идти",
       "gloss": "to go (set off)",
+      "aspect": "pf",
+      "pair": "ходить",
       "meanings": [
         {
           "en": "to go, to set off",
@@ -4146,13 +4139,51 @@
         }
       ]
     },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
+        }
+      ]
+    },
     "проиграть": {
       "lemma": "проиграть",
       "stress": "проигра́ть",
       "pos": "verb",
+      "gloss": "to lose (a game, money)",
       "aspect": "pf",
       "pair": "проигрывать",
-      "gloss": "to lose (a game, money)",
       "meanings": [
         {
           "en": "to lose",
@@ -4310,6 +4341,7 @@
       "stress": "с",
       "pos": "prep",
       "gloss": "with",
+      "governs": "+ instrumental",
       "meanings": [
         {
           "en": "with",
@@ -4332,7 +4364,6 @@
           "trans": "Share it all equally with everyone, understand?"
         }
       ],
-      "governs": "+ instrumental",
       "related": [
         {
           "word": "со",
@@ -4451,9 +4482,9 @@
       "lemma": "сдаваться",
       "stress": "сдава́ться",
       "pos": "verb",
+      "gloss": "to give up, to surrender",
       "aspect": "impf",
       "pair": "сдаться",
-      "gloss": "to give up, to surrender",
       "meanings": [
         {
           "en": "to give up, to surrender",
@@ -4564,9 +4595,9 @@
       "lemma": "сделать",
       "stress": "сде́лать",
       "pos": "verb",
+      "gloss": "to do, to make",
       "aspect": "pf",
       "pair": "делать",
-      "gloss": "to do, to make",
       "meanings": [
         {
           "en": "to do, to make",
@@ -4715,33 +4746,79 @@
       "lemma": "скорее",
       "stress": "скоре́е",
       "pos": "adv",
-      "gloss": "faster, quickly, rather",
+      "gloss": "quickly, faster; rather",
       "meanings": [
         {
-          "en": "faster, quickly; rather",
-          "note": "comparative of скоро used as adverb or particle"
+          "en": "quickly, hurry up",
+          "note": "Used as imperative exhortation. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'корее')."
+        },
+        {
+          "en": "rather, sooner",
+          "note": "Comparison. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'корее')."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Пойдём скорее на студию!",
-          "trans": "Let's go quickly to the studio!"
-        },
-        {
-          "text": "Скорее да, чем нет.",
-          "trans": "Rather yes than no."
-        },
-        {
           "text": "Тащи скорее прищепку!",
           "trans": "Bring the clothespin quickly!"
+        },
+        {
+          "text": "Ладно, давай сюда скорее!",
+          "trans": "Alright, give it here quickly!"
+        },
+        {
+          "text": "Отлично, закрывай скорее багажник!",
+          "trans": "Great, close the trunk quickly!"
         }
       ],
       "related": [
         {
           "word": "очень скорее",
-          "gloss": "intensified / related adverb (faster)"
+          "gloss": "intensified / related adverb (quickly)"
+        }
+      ]
+    },
+    "скоро": {
+      "lemma": "скоро",
+      "stress": "ско́ро",
+      "pos": "adv",
+      "gloss": "soon",
+      "meanings": [
+        {
+          "en": "soon",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'коро'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я скоро вернусь.",
+          "trans": "I'll be back soon."
+        },
+        {
+          "text": "Скоро лето.",
+          "trans": "Summer is coming soon."
+        },
+        {
+          "text": "Так, не шумим. Я скоро вернусь.",
+          "trans": "Right, no noise. I'll be back soon."
+        }
+      ],
+      "related": [
+        {
+          "word": "королева",
+          "gloss": "queen"
+        },
+        {
+          "word": "королевство",
+          "gloss": "kingdom"
+        },
+        {
+          "word": "короче",
+          "gloss": "in short"
         }
       ]
     },
@@ -4958,9 +5035,9 @@
       "lemma": "ставить",
       "stress": "ста́вить",
       "pos": "verb",
+      "gloss": "to put, to place",
       "aspect": "impf",
       "pair": "поставить",
-      "gloss": "to put, to place",
       "meanings": [
         {
           "en": "to put, to place in an upright position",
@@ -5063,8 +5140,8 @@
       "lemma": "стул",
       "stress": "стул",
       "pos": "noun",
-      "gender": "m",
       "gloss": "chair",
+      "gender": "m",
       "meanings": [
         {
           "en": "chair",
@@ -5149,9 +5226,9 @@
       "lemma": "сходить",
       "stress": "сходи́ть",
       "pos": "verb",
+      "gloss": "to go (somewhere and come back)",
       "aspect": "pf",
       "pair": "ходить",
-      "gloss": "to go (somewhere and come back)",
       "meanings": [
         {
           "en": "to go and come back, to pop over",
@@ -5350,7 +5427,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -5425,6 +5502,7 @@
       "stress": "у",
       "pos": "prep",
       "gloss": "at, by; (у меня) I have",
+      "governs": "+ genitive",
       "meanings": [
         {
           "en": "at, by, near",
@@ -5455,7 +5533,6 @@
           "trans": "Hi! Look what I've got."
         }
       ],
-      "governs": "+ genitive",
       "related": [
         {
           "word": "около",
@@ -5505,8 +5582,8 @@
       "lemma": "улица",
       "stress": "у́лица",
       "pos": "noun",
-      "gender": "f",
       "gloss": "street; outside",
+      "gender": "f",
       "meanings": [
         {
           "en": "street",
@@ -5514,7 +5591,7 @@
         },
         {
           "en": "outside, outdoors",
-          "note": "на улице холодно = it's cold outside"
+          "note": "на улице = out on the street / outside"
         }
       ],
       "forms": {
@@ -5572,16 +5649,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "На Московской улице перевернули ящики с мусором.",
-          "trans": "On Moskovskaya Street someone tipped over the rubbish bins."
-        },
-        {
-          "text": "Мы встретились на улице.",
-          "trans": "We met on the street."
-        },
-        {
           "text": "Там на улице журналисты!",
           "trans": "There are reporters out on the street!"
+        },
+        {
+          "text": "На улице холодно.",
+          "trans": "It is cold outside."
+        },
+        {
+          "text": "Там на улице журналисты! Они меня ждут!",
+          "trans": "There are reporters out on the street! They're waiting for me!"
         }
       ],
       "related": [
@@ -5595,8 +5672,8 @@
       "lemma": "ум",
       "stress": "ум",
       "pos": "noun",
-      "gender": "m",
       "gloss": "mind, intelligence",
+      "gender": "m",
       "meanings": [
         {
           "en": "mind",
@@ -5681,12 +5758,12 @@
       "lemma": "успокоиться",
       "stress": "успоко́иться",
       "pos": "verb",
+      "gloss": "to calm down",
       "aspect": "pf",
       "pair": "успокаиваться",
-      "gloss": "to calm down",
       "meanings": [
         {
-          "en": "to calm down, to settle down",
+          "en": "to calm down",
           "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'спокоиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
         }
       ],
@@ -5763,16 +5840,16 @@
       ],
       "examples": [
         {
-          "text": "Ну что, успокоился?",
-          "trans": "Well, have you calmed down?"
-        },
-        {
-          "text": "Успокойся, пожалуйста!",
-          "trans": "Calm down, please!"
-        },
-        {
           "text": "Успокойся, всё хорошо.",
           "trans": "Calm down, everything's fine."
+        },
+        {
+          "text": "Успокойтесь все!",
+          "trans": "Everyone calm down!"
+        },
+        {
+          "text": "Так, успокойтесь все. Сейчас за мной приедут.",
+          "trans": "Right, everyone calm down. They're coming for me any minute."
         }
       ],
       "related": [
@@ -5794,9 +5871,9 @@
       "lemma": "хотеть",
       "stress": "хоте́ть",
       "pos": "verb",
+      "gloss": "to want",
       "aspect": "impf",
       "pair": "захотеть",
-      "gloss": "to want",
       "meanings": [
         {
           "en": "to want",
@@ -6039,7 +6116,7 @@
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
           "",
           "form"
@@ -6106,146 +6183,6 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
-        }
-      ]
-    },
-    "встреча": {
-      "lemma": "встреча",
-      "stress": "встре́ча",
-      "pos": "noun",
-      "gloss": "meeting",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "meeting",
-          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
-        },
-        {
-          "en": "see you",
-          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "встреча",
-              "встречи"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "встречи",
-              "встреч"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "встрече",
-              "встречам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "встречу",
-              "встречи"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "встречей",
-              "встречами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "встрече",
-              "встречах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До встречи!",
-          "trans": "See you!"
-        },
-        {
-          "text": "У меня встреча.",
-          "trans": "I have a meeting."
-        },
-        {
-          "text": "Решается ваш вопрос, Клавдия Викторовна! Вы не видите, у меня встреча?",
-          "trans": "Your question is being sorted out, Klavdia Viktorovna! Can't you see I have a meeting?"
-        }
-      ],
-      "related": [
-        {
-          "word": "встретиться",
-          "gloss": "to meet"
-        },
-        {
-          "word": "встречаться",
-          "gloss": "to meet"
-        },
-        {
-          "word": "встретить",
-          "gloss": "to meet"
-        }
-      ]
-    },
-    "до": {
-      "lemma": "до",
-      "stress": "до",
-      "pos": "prep",
-      "gloss": "until, before; up to",
-      "meanings": [
-        {
-          "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
-        },
-        {
-          "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
-        },
-        {
-          "text": "До завтра!",
-          "trans": "See you tomorrow!"
-        },
-        {
-          "text": "До вечера!",
-          "trans": "See you tonight!"
-        }
-      ],
-      "related": [
-        {
-          "word": "дойти",
-          "gloss": "to reach, walk as far as"
-        },
-        {
-          "word": "после",
-          "gloss": "after"
         }
       ]
     }

@@ -2281,21 +2281,26 @@
       ]
     },
     "aller": {
-      "examples": [
+      "lemma": "aller",
+      "stress": "ale",
+      "pos": "verb",
+      "gloss": "to go",
+      "meanings": [
         {
-          "text": "Ça va? Oui, ça va bien.",
-          "trans": "How are you? Yes, I'm fine."
+          "en": "to go",
+          "note": "aller + infinitive: tu vas l'agacer = you're going to annoy her"
         },
         {
-          "text": "Je vais au bureau.",
-          "trans": "I'm going to the office."
+          "en": "aller + infinitive = going to (near future)",
+          "note": "Je vais déjeuner. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
         },
         {
-          "text": "On va manger ensemble.",
-          "trans": "We're going to eat together."
+          "en": "allez! = come on!",
+          "note": "Imperative used to encourage. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
         }
       ],
       "forms": {
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -2323,31 +2328,11 @@
               "ils/elles vont"
             ]
           }
-        ],
-        "title": "Present"
+        ]
       },
-      "gloss": "to go",
-      "lemma": "aller",
-      "meanings": [
-        {
-          "en": "to go",
-          "note": "aller + infinitive: tu vas l'agacer = you're going to annoy her"
-        },
-        {
-          "en": "to be (health), in 'ça va'",
-          "note": "ça va? = how are you? / are you okay?"
-        },
-        {
-          "en": "going to (near future)",
-          "note": "aller + infinitive: je vais partir"
-        },
-        {
-          "en": "come on!",
-          "note": "imperative 'allez!' / 'allons!'"
-        }
-      ],
       "moreForms": [
         {
+          "title": "Passé composé",
           "columns": [
             "",
             "sg",
@@ -2375,10 +2360,10 @@
                 "ils/elles sont allé(e)s"
               ]
             }
-          ],
-          "title": "Passé composé"
+          ]
         },
         {
+          "title": "Imparfait",
           "columns": [
             "",
             "sg",
@@ -2406,10 +2391,10 @@
                 "ils/elles allaient"
               ]
             }
-          ],
-          "title": "Imparfait"
+          ]
         },
         {
+          "title": "Futur",
           "columns": [
             "",
             "sg",
@@ -2437,10 +2422,10 @@
                 "ils/elles iront"
               ]
             }
-          ],
-          "title": "Futur"
+          ]
         },
         {
+          "title": "Imperative",
           "columns": [
             "",
             "sg",
@@ -2461,59 +2446,67 @@
                 "allez"
               ]
             }
-          ],
-          "title": "Imperative"
+          ]
         }
       ],
-      "pos": "verb",
-      "stress": "ale",
+      "examples": [
+        {
+          "text": "Je vais déjeuner deux fois.",
+          "trans": "I'm going to have lunch twice."
+        },
+        {
+          "text": "Allez, au travail!",
+          "trans": "Come on, to work!"
+        },
+        {
+          "text": "Ça va aller.",
+          "trans": "It'll be fine."
+        }
+      ],
       "related": [
-        {
-          "word": "allemand",
-          "gloss": "German"
-        },
-        {
-          "word": "allergique",
-          "gloss": "allergic"
-        },
         {
           "word": "aller-retour",
           "gloss": "round trip"
+        },
+        {
+          "word": "s'en aller",
+          "gloss": "to leave, go away"
         }
       ]
     },
     "au": {
-      "examples": [
+      "lemma": "au",
+      "stress": "o",
+      "pos": "prep",
+      "gloss": "at the, to the",
+      "meanings": [
         {
-          "text": "Non, au contraire.",
-          "trans": "No, quite the opposite."
-        },
-        {
-          "text": "Au revoir!",
-          "trans": "Goodbye!"
-        },
-        {
-          "text": "Je suis au boulot.",
-          "trans": "I'm at work."
+          "en": "at the, to the",
+          "note": "à + le contracted: au boulot, au téléphone"
         }
       ],
       "forms": null,
-      "gloss": "to the, at the",
-      "lemma": "au",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "to the, at the (à + le)",
-          "note": "à + le contracted: au boulot, au téléphone"
+          "text": "Je suis au boulot.",
+          "trans": "I'm at work."
         },
         {
-          "en": "au contraire = on the contrary; au revoir = goodbye",
-          "note": ""
+          "text": "Elle est au téléphone.",
+          "trans": "She's on the phone."
+        },
+        {
+          "text": "J'ai un problème au boulot.",
+          "trans": "I've got a problem at work."
         }
       ],
-      "moreForms": [],
-      "pos": "prep",
-      "stress": "o",
-      "related": []
+      "related": [
+        {
+          "word": "au",
+          "gloss": "at the"
+        }
+      ]
     },
     "aussi": {
       "lemma": "aussi",
@@ -3688,6 +3681,22 @@
       ]
     },
     "moins": {
+      "lemma": "moins",
+      "stress": "mwɛ̃",
+      "pos": "adv",
+      "gloss": "less",
+      "meanings": [
+        {
+          "en": "less",
+          "note": "Moins de trente ans = under thirty. Invariable French adverb meaning 'less'; placed immediately after the conjugated verb in simple tenses."
+        },
+        {
+          "en": "au moins = at least",
+          "note": "Invariable French adverb meaning 'less'; placed immediately after the conjugated verb in simple tenses."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Il est moins grand que moi.",
@@ -3702,26 +3711,10 @@
           "trans": "But he wants someone under thirty."
         }
       ],
-      "forms": null,
-      "gloss": "less",
-      "lemma": "moins",
-      "meanings": [
-        {
-          "en": "less",
-          "note": "moins de trente ans = under thirty"
-        },
-        {
-          "en": "au moins = at least",
-          "note": ""
-        }
-      ],
-      "moreForms": [],
-      "pos": "adv",
-      "stress": "mwɛ̃",
       "related": [
         {
-          "word": "moindre",
-          "gloss": "slightest"
+          "word": "moins de trente ans",
+          "gloss": "under thirty"
         }
       ]
     },
@@ -5084,6 +5077,22 @@
       ]
     },
     "ça": {
+      "lemma": "ça",
+      "stress": "sa",
+      "pos": "pron",
+      "gloss": "that, it",
+      "meanings": [
+        {
+          "en": "that, it",
+          "note": "Informal for cela. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+        },
+        {
+          "en": "ça fait... que = it's been...",
+          "note": "With time. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Je prends ça.",
@@ -5098,23 +5107,12 @@
           "trans": "I'll take that. Thanks."
         }
       ],
-      "forms": null,
-      "gloss": "that, it",
-      "lemma": "ça",
-      "meanings": [
+      "related": [
         {
-          "en": "that, it",
-          "note": "informal for cela"
-        },
-        {
-          "en": "ça fait... que = it's been...",
-          "note": "with time"
+          "word": "ça",
+          "gloss": "that"
         }
-      ],
-      "moreForms": [],
-      "pos": "pron",
-      "stress": "sa",
-      "related": []
+      ]
     },
     "érotique": {
       "lemma": "érotique",

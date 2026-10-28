@@ -4,7 +4,7 @@ Title: Никакой приставки  (No Console)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Arkady is the viewpoint character (`anya`). Lyosha, Slavik and Marina have no voice (role limit): Lyosha's question about the console and Marina leading him away ('we'll buy one ourselves', cue 1188) are told by the narrator. The PSP (Latin letters in the cues) is called «приставка». Slang and insults (облом, обманули дурака, идиот, ёшкин кот) are replaced with plain words.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -40,7 +40,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'There won't be any console.' Another double negative: 'no console will not be'. After 'there won't be', the missing thing takes the ending for 'of'. And he doesn't soften it.
 - 'You've been fooled, got it?' Literally, 'they fooled you'. Russian often uses 'they' with no subject at all when it doesn't matter who did it. Of course, the one who fooled Lyosha is Arkady himself. Samson is shocked.
 - 'Arkady, what's got into you? He's just a kid.' The first question is literally 'you what?', a common way to say 'have you lost your mind?'. Lyosha's mother, Marina, leads him away and tells him not to be upset: they'll buy one themselves. But Arkady has already turned to Samson's son.
-- 'Slavik, give that here.' The last word means 'to here', for movement towards the speaker. He wants the phone.
+- 'Slavik, give that here.' Arkady puts 'give' up front and finishes with 'here' to make the point unmistakable.
 - 'That's my iPhone.' Arkady swapped it with Slavik for an old phone a few days ago, and now he wants it back. Nina points that out.
 - 'What do you mean, yours?' She repeats his word as a question. Then she reminds him of the deal.
 - 'You two swapped!' The little word after 'you' means 'but you know'. Nina uses the plural 'you' because she means both of them. Arkady's answer is one word.

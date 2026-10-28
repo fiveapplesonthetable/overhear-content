@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Подъём! Папка уже закалку совершил. | Rise and shine! Daddy's already had his cold dip. | #185 00:14:43: подъем<br>#188 00:15:01: Папка уже закалку совершил | adapted: 'Аркаша, подъём!' (cue 185) -> 'Подъём!' |
+| 1 | Самсон | Подъём! Папка уже закалку совершил. | Rise and shine! Daddy's already had his cold dip. | #185 00:14:43: подъем<br>#188 00:15:01: Папка уже закалку совершил | adapted: 'Аркаша, подъём!' (cue 185) -> 'Подъём!' |
 | 2 | Нина | Ну тебя! Больной! | Oh, get away! You're crazy! | #191 00:15:09: Ну, тебя<br>#189 00:15:07: Больной | adapted: cue order swapped |
-| 3 | Аня | Нина, налей мужу. Есть праздник! | Nina, pour your husband a drink. We've got something to celebrate! | #192 00:15:12: мужу<br>#194 00:15:16: Есть праздник | adapted: slangy 'полтишку плескани' (splash fifty grams) -> 'налей' |
+| 3 | Самсон | Нина, налей мужу. Есть праздник! | Nina, pour your husband a drink. We've got something to celebrate! | #192 00:15:12: мужу<br>#194 00:15:16: Есть праздник | adapted: slangy 'полтишку плескани' (splash fifty grams) -> 'налей' |
 | 4 | Нина | Что за праздник? | What's the occasion? | #193 00:15:15: Что за праздник | adapted: '-то' dropped |
-| 5 | Аня | Да, всё будет хорошо. | Yes, everything's going to be fine. | #197 00:15:20: Да, все будет | adapted: slang 'пучком' -> 'хорошо' |
+| 5 | Самсон | Да, всё будет хорошо. | Yes, everything's going to be fine. | #197 00:15:20: Да, все будет | adapted: slang 'пучком' -> 'хорошо' |
 | 6 | Нина | Что-то я не вижу. | I can't see it somehow. | #198 00:15:21: я не вижу | adapted: colloquial 'Чего-то' -> 'Что-то' |
-| 7 | Аня | В общем, я иду в мэры. | So, I'm running for mayor. | #201 00:15:29: В общем<br>#201 00:15:29: в мэры | adapted: 'буду выбираться' (I'll get myself elected) -> 'иду', as Nina says in cue 213 |
+| 7 | Самсон | В общем, я иду в мэры. | So, I'm running for mayor. | #201 00:15:29: В общем<br>#201 00:15:29: в мэры | adapted: 'буду выбираться' (I'll get myself elected) -> 'иду', as Nina says in cue 213 |
 | 8 | Нина | Куда? | Running for what? | #202 00:15:33: Куда | verbatim |
-| 9 | Аня | В мэры нашего города. Аркаша предложил. | For mayor of our town. Arkasha suggested it. | #203 00:15:38: В мэры нашего города<br>#204 00:15:41: предложил | adapted: 'Аркаш' -> 'Аркаша' |
-| 10 | Аня | Я буду мэром вместо него, чтобы его потом вытащить. | I'll be mayor instead of him, so I can get him out later. | #206 00:15:45: чтобы его потом вытащить | adapted: cue 205 ('I'll run for his seat') simplified to 'Я буду мэром вместо него' |
-| 11 | Аня | А у меня все шансы есть. Жена, двое детей, не сидел, служил в армии. | And I've got every chance. A wife, two kids, no prison record, I served in the army. | #207 00:15:47: А у меня все шансы есть<br>#208 00:15:49: Жена, двое детей<br>#209 00:15:52: не сидел | adapted: 'православный' (Orthodox) left to the narrator; 'в ВДВ' (the Airborne Troops) -> 'служил в армии' |
-| 12 | Аня | Почему ты молчишь? | Why aren't you saying anything? | #211 00:16:00: ты молчишь | adapted: colloquial 'Чего' -> 'Почему' |
+| 9 | Самсон | В мэры нашего города. Аркаша предложил. | For mayor of our town. Arkasha suggested it. | #203 00:15:38: В мэры нашего города<br>#204 00:15:41: предложил | adapted: 'Аркаш' -> 'Аркаша' |
+| 10 | Самсон | Я буду мэром вместо него, чтобы его потом вытащить. | I'll be mayor instead of him, so I can get him out later. | #206 00:15:45: чтобы его потом вытащить | adapted: cue 205 ('I'll run for his seat') simplified to 'Я буду мэром вместо него' |
+| 11 | Самсон | А у меня все шансы. Жена, двое детей, служил в армии. | And I've got every chance. A wife, two kids, no prison record, I served in the army. | #207 00:15:47: А у меня все шансы<br>#208 00:15:49: Жена, двое детей | adapted: 'православный' (Orthodox) left to the narrator; 'в ВДВ' (the Airborne Troops) -> 'служил в армии' |
+| 12 | Самсон | Почему ты молчишь? | Why aren't you saying anything? | #211 00:16:00: ты молчишь | adapted: colloquial 'Чего' -> 'Почему' |
 | 13 | Нина | Ничего. А может, потом в президенты? | Nothing. And maybe president after that? | #212 00:16:01: Ничего<br>#214 00:16:07: А может потом в президенты | verbatim |
-| 14 | Аня | Ну что ты начинаешь? | Oh, why do you have to start? | #216 00:16:10: ты начинаешь | adapted: 'чего' -> 'что'; 'вот' dropped |
+| 14 | Самсон | Ну что ты начинаешь? | Oh, why do you have to start? | #216 00:16:10: ты начинаешь | adapted: 'чего' -> 'что'; 'вот' dropped |
 | 15 | Нина | Сходи к начальнику, попроси у него прощения. | Go to your boss and ask him to forgive you. | #220 00:16:19: Сходи ты к<br>#221 00:16:20: попроси ты у него прощения | adapted: the boss's surname -> 'к начальнику'; the two emphatic 'ты' dropped, so only the cue openings are cited |
-| 16 | Аня | Нина, имей совесть! Я вчера ради вас всё сделал. | Nina, have a heart! Yesterday I did everything for you. | #224 00:16:26: совесть<br>#225 00:16:28: ради вас | adapted: colloquial 'поимей' -> 'имей'; cue 225 (the crude allusion to the humiliating kiss) -> 'всё сделал' |
+| 16 | Самсон | Нина, имей совесть! Я вчера ради вас всё сделал. | Nina, have a heart! Yesterday I did everything for you. | #224 00:16:26: совесть<br>#225 00:16:28: ради вас | adapted: colloquial 'поимей' -> 'имей'; cue 225 (the crude allusion to the humiliating kiss) -> 'всё сделал' |
 | 17 | Нина | Всё, теперь ты герой? И можно только пить? | So now you're a hero? And all you have to do is drink? | #228 00:16:34: Всё, теперь<br>#228 00:16:34: герой | adapted: slang 'бухать' -> 'пить'; 'ничего делать не надо' dropped |
-| 18 | Аня | Я стану мэром, понятно? | I'm going to be mayor, understood? | #229 00:16:39: Я стану мэром, понятно | verbatim |
+| 18 | Самсон | Я стану мэром, понятно? | I'm going to be mayor, understood? | #229 00:16:39: Я стану мэром, понятно | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -45,7 +45,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Arkasha suggested it.' A past form for a man: Arkady. Samson has worked out a plan with him.
 - 'I'll be mayor instead of him, so I can get him out later.' 'Instead of him' is one handy little phrase. The idea is that a friendly mayor could free Arkady. Then Samson lists his strengths.
 - 'And I've got every chance.' That's the usual way to say 'I have': literally 'at me there are'.
-- 'A wife, two kids, no prison record, I served in the army.' 'Didn't sit' means 'never did time'. In the series he also boasts that he's Orthodox, and that he was in the paratroopers. Nina says nothing.
+- 'A wife, two kids, I served in the army.' 'Didn't sit' means 'never did time'. In the series he also boasts that he's Orthodox, and that he was in the paratroopers. Nina says nothing.
 - 'Why aren't you saying anything?' One verb means 'keep silent'. Finally she speaks.
 - 'Nothing. And maybe president after that?' The same plural trick as before: into the presidents. And it's pure sarcasm. Samson is hurt.
 - 'Oh, why do you have to start?' Word for word: 'well, what are you starting?'. You say it when someone begins the usual argument. Nina has a more practical idea.
@@ -53,4 +53,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Nina, have a heart!' Literally 'have a conscience'. It means: be fair to me.
 - 'Yesterday I did everything for you.' The phrase in the middle means 'for your sake'. He means the humiliating kiss he gave Arkady for a job he never got. Nina just mocks him.
 - 'So now you're a hero? And all you have to do is drink?' Literally 'and you may only drink'. That stings. Samson answers with a promise.
-- 'I'm going to be mayor, understood?' The verb is perfective, so it's a firm future: 'I will become'. And notice the ending on 'mayor': after 'become', a job or role takes a special ending, the one that means 'as'.
+- 'I'm going to be mayor, understood?' The verb is a single-action verb, so it's a firm future: 'I will become'. And notice the ending on 'mayor': after 'become', a job or role takes a special ending, the one that means 'as'.

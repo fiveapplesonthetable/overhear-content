@@ -3983,21 +3983,30 @@
       ]
     },
     "faire": {
-      "examples": [
+      "lemma": "faire",
+      "stress": "fɛʁ",
+      "pos": "verb",
+      "gloss": "to do, to make",
+      "meanings": [
         {
-          "text": "Ne fais pas ça!",
-          "trans": "Don't do that!"
+          "en": "to do, to make",
+          "note": "for (duration): ça fait des mois que j'attends = I've been waiting for months"
         },
         {
-          "text": "Fais du vélo!",
-          "trans": "Ride a bike!"
+          "en": "faire confiance à = to trust",
+          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
         },
         {
-          "text": "Qu'est-ce que tu fais?",
-          "trans": "What are you doing?"
+          "en": "faire la surprise à = to surprise",
+          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+        },
+        {
+          "en": "ça fait trois semaines que = it's been three weeks since",
+          "note": "With time. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
         }
       ],
       "forms": {
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -4025,27 +4034,11 @@
               "ils/elles font"
             ]
           }
-        ],
-        "title": "Present"
+        ]
       },
-      "gloss": "to do, to make",
-      "lemma": "faire",
-      "meanings": [
-        {
-          "en": "to do",
-          "note": "pour faire quoi? = to do what?"
-        },
-        {
-          "en": "to make",
-          "note": "faire un café"
-        },
-        {
-          "en": "to go (an activity)",
-          "note": "faire du vélo = to ride a bike, to cycle"
-        }
-      ],
       "moreForms": [
         {
+          "title": "Passé composé",
           "columns": [
             "",
             "sg",
@@ -4073,10 +4066,10 @@
                 "ils/elles ont fait"
               ]
             }
-          ],
-          "title": "Passé composé"
+          ]
         },
         {
+          "title": "Imparfait",
           "columns": [
             "",
             "sg",
@@ -4104,10 +4097,10 @@
                 "ils/elles faisaient"
               ]
             }
-          ],
-          "title": "Imparfait"
+          ]
         },
         {
+          "title": "Futur",
           "columns": [
             "",
             "sg",
@@ -4135,44 +4128,27 @@
                 "ils/elles feront"
               ]
             }
-          ],
-          "title": "Futur"
-        },
-        {
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "faisons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "fais",
-                "faites"
-              ]
-            }
-          ],
-          "title": "Imperative"
+          ]
         }
       ],
-      "pos": "verb",
-      "stress": "fɛʁ",
+      "examples": [
+        {
+          "text": "Qu'est-ce que tu fais?",
+          "trans": "What are you doing?"
+        },
+        {
+          "text": "Je peux vous faire confiance?",
+          "trans": "Can I trust you?"
+        },
+        {
+          "text": "Ça fait une heure que j'attends.",
+          "trans": "I've been waiting for an hour."
+        }
+      ],
       "related": [
         {
           "word": "faire attention",
           "gloss": "to pay attention"
-        },
-        {
-          "word": "refaire",
-          "gloss": "redo"
         }
       ]
     },
@@ -6172,21 +6148,22 @@
       ]
     },
     "tout": {
-      "examples": [
+      "lemma": "tout",
+      "stress": "tu",
+      "pos": "det",
+      "gloss": "all, every; everything",
+      "meanings": [
         {
-          "text": "Merci à tous.",
-          "trans": "Thank you, everyone."
+          "en": "all, the whole",
+          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
         },
         {
-          "text": "Oui à tout.",
-          "trans": "Yes to everything."
-        },
-        {
-          "text": "Ça ne va pas du tout.",
-          "trans": "It's not going at all."
+          "en": "tout ce que = all that, everything that",
+          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -6207,32 +6184,23 @@
               "toutes"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "all, everything; everyone",
-      "lemma": "tout",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "everything",
-          "note": "oui à tout = yes to everything"
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
         },
         {
-          "en": "all, everyone",
-          "note": "plural tous (pronounced 'tous' with s): merci à tous"
+          "text": "C'est tout ce que je peux faire.",
+          "trans": "That's all I can do."
         },
         {
-          "en": "at all",
-          "note": "pas du tout"
-        },
-        {
-          "en": "all, the whole",
-          "note": "before a noun: tout le monde = everyone"
+          "text": "Désolé, c'est tout ce que je peux faire.",
+          "trans": "Sorry, that's all I can do."
         }
       ],
-      "moreForms": [],
-      "pos": "pron",
-      "stress": "tu",
       "related": [
         {
           "word": "tout le monde",

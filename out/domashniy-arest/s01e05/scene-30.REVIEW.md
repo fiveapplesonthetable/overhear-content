@@ -4,7 +4,7 @@ Title: Благодарность Марины  (Marina's Gratitude)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.05
-Cues 1146-1221. 'отблагодарить' (1154) -> A1 'поблагодарить'; 'Дай Бог' (1157) and 'Господи' (1159) dropped; garbled cue 1163 omitted; Marina's insult 'Вот мразь' (1171) omitted and colloquial 'Вот вы сдурели' (1173) -> 'Вот вы с ума сошли!'. Cues 1175-1193 (the bruised debt collectors forced by Arkady's guards to attend Marina's university lectures as polite students) and the closing song 'Сколько денег нужно, чтобы стать счастливым?' (1194-1221) are summarised in the outro.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, the collectors' victim! Did you want something?' The noun 'collectors' is in the genitive plural: 'victim of collectors'. Marina looks at him earnestly.
+- 'Oh, the collectors' Victim! Did you want something?' The noun 'collectors' is in the plural 'of' form: 'victim of collectors'. Marina looks at him earnestly.
 - 'Yes. I came to say thank you and ask forgiveness.' Earlier today at the university, she saw Arkady's gold watch on Captain Zavarzin's wrist and realised it was really Arkady who paid her debt.
 - 'What for?' Arkady plays innocent.
 - 'I offended you. I was wrong.' Notice the feminine endings on both 'offended' and 'wrong'. Earlier she accused him of staging the whole thing as a cheap trick. Arkady smiles.
@@ -42,8 +42,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Calm down. Everything is behind us now.' The adverb at the end literally means 'behind'.
 - 'Have a seat. Everything is fine now, it's all over.' He sits her down on his narrow iron bed and dries her tears.
 - 'There, that's wonderful. That's normal.' For a moment, Arkady actually looks like a decent human being.
-- 'A man must help a woman, right?' After 'help', the noun 'woman' takes the dative ending. Marina nods gratefully — and then Arkady ruins everything.
-- 'And a woman must help a man.' Notice how 'must' changes to the feminine form to match 'woman', and 'man' takes the dative ending. And with that, Arkady leans in and tries to kiss her! Marina shoves him back and slaps his face.
+- 'A man must help a woman, right?' After 'help', the noun 'woman' takes the 'to/for' ending. Marina nods gratefully — and then Arkady ruins everything.
+- 'And a woman must help a man.' Notice how 'must' changes to the feminine form to match 'woman', and 'man' takes the 'to/for' ending. And with that, Arkady leans in and tries to kiss her! Marina shoves him back and slaps his face.
 - 'What do you think you're doing?!' Literally, 'you what?!'. Arkady holds his cheek in disbelief.
 - 'But you said yourself that you want to help!' He completely misread her tears of gratitude.
 - 'But you don't know how! And I know!' Marina glares at him in fury.

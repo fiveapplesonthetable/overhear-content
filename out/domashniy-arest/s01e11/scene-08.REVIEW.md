@@ -4,7 +4,7 @@ Title: Подготовка к встрече  (Preparing for the Meeting)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.11
-Cues 130-181. In the communal flat, Arkady celebrates the news that President Putin will meet Samsonov. Samsonov is terrified of the encounter, but Arkady reassures him that the president loves men of the people. Arkady hands Samsonov the campaign program and briefs him to prepare.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -34,10 +34,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You are a simple working man of the people.' Arkady reassures his candidate with praise.
 - 'He really likes such simple people!' The present tense verb reinforces the political appeal.
 - 'From fear sweat has already broken out on me.' Samsonov vividly describes his nervous reaction.
-- 'And remember, this information is strictly classified.' The imperative warns of high security protocol.
+- 'And remember, this information is strictly classified.' This phrase warns of high security protocol.
 - 'Do not tell anyone, even your wife.' Arkady insists on absolute secrecy from family.
-- 'Right here our entire program is written.' The short passive participle introduces the campaign manifesto.
+- 'Right here our entire program is written.' The short passive form introduces the campaign manifesto.
 - 'The president really likes well-informed people.' The comparative adverb modifies the adjective.
-- 'You must answer the questions clearly.' The modal adjective governs an accusative prepositional phrase.
-- 'Therefore come on, quickly pull yourself together!' The reflexive imperative urges mental preparation.
+- 'You must answer the questions clearly.' The modal adjective governs an object-form location phrase.
+- 'Therefore come on, quickly pull yourself together!' This phrase urges mental preparation.
 - 'Yes, I have already pulled myself together completely!' Samsonov affirms his readiness with past tense agreement.

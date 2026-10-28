@@ -4,7 +4,7 @@ Title: Всё ради нас  (All for Us)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Cues 1-37 (flashback: New Year's Eve before the arrest). Cues 2-9 (unclear chatter in the car) and the song and television speech (1, 10, 33, 35-36) are left out. The president is named in cues 28-29; the story says just 'the president'. Speakers are not marked in the subtitles: 27-28 are read as Vika (she wants to open the champagne in time), 29-32 as Arkady.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

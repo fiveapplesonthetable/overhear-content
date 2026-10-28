@@ -2649,37 +2649,41 @@
       "lemma": "arrière",
       "stress": "aʁjɛʁ",
       "pos": "adv",
-      "gloss": "backward, back",
+      "gloss": "back, backward, rear",
       "meanings": [
         {
-          "en": "back, backward (direction)",
-          "note": "en arrière = back / backward"
+          "en": "en arrière = backward, behind",
+          "note": "Adverbial phrase. Invariable French adverb meaning 'back'; placed immediately after the conjugated verb in simple tenses."
+        },
+        {
+          "en": "l'arrière = the back, rear",
+          "note": "Masculine noun. Invariable French adverb meaning 'back'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Je reviens un peu en arrière.",
-          "trans": "I am going back a little."
-        },
-        {
-          "text": "Regarde en arrière.",
-          "trans": "Look behind you."
-        },
-        {
           "text": "Un pas en arrière vers l'avant!",
           "trans": "A step backward toward the future!"
+        },
+        {
+          "text": "Regarder en arrière.",
+          "trans": "To look backward."
+        },
+        {
+          "text": "Je reviens un peu en arrière.",
+          "trans": "I am going back a little."
         }
       ],
       "related": [
         {
-          "word": "arriver",
-          "gloss": "to arrive"
+          "word": "en arrière",
+          "gloss": "backwards"
         },
         {
-          "word": "arrivée",
-          "gloss": "arrival"
+          "word": "avant",
+          "gloss": "front, before"
         }
       ]
     },
@@ -3729,37 +3733,38 @@
       ]
     },
     "en": {
-      "examples": [
-        {
-          "text": "Je pars en vacances.",
-          "trans": "I'm going on holiday."
-        },
-        {
-          "text": "J'en ai assez!",
-          "trans": "I've had enough!"
-        },
-        {
-          "text": "Je suis en retard.",
-          "trans": "I'm late."
-        }
-      ],
-      "forms": null,
-      "gloss": "in; (pronoun) of it, some",
       "lemma": "en",
+      "stress": "ɑ̃",
+      "pos": "prep",
+      "gloss": "in",
       "meanings": [
         {
           "en": "in",
-          "note": "preposition: en vacances, en huit ans"
-        },
-        {
-          "en": "of it, of them",
-          "note": "pronoun before the verb: j'en ai assez, je n'en peux plus"
+          "note": "en retard = late, en vacances = on holiday"
         }
       ],
+      "forms": null,
       "moreForms": [],
-      "pos": "prep",
-      "stress": "ɑ̃",
-      "related": []
+      "examples": [
+        {
+          "text": "Je suis en retard.",
+          "trans": "I'm late."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        },
+        {
+          "text": "Oh non! Je suis en retard.",
+          "trans": "Oh no! I'm late."
+        }
+      ],
+      "related": [
+        {
+          "word": "en retard",
+          "gloss": "late, en vacances = on holiday"
+        }
+      ]
     },
     "exactement": {
       "lemma": "exactement",
@@ -3861,10 +3866,16 @@
       "stress": "ɛ̃stɑ̃",
       "pos": "noun",
       "gloss": "instant, moment",
+      "gender": "m",
+      "plural": "instants",
       "meanings": [
         {
-          "en": "instant, moment (un instant = a moment)",
+          "en": "moment, instant",
           "note": "pour l'instant = for the moment, for now"
+        },
+        {
+          "en": "short while",
+          "note": "Un instant, s'il vous plaît. Prefix 'in-'/'im-' marks negation ('un-, in-') or inward motion. Standard masculine noun meaning 'instant, moment'."
         }
       ],
       "forms": {
@@ -3887,24 +3898,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Un instant, s'il vous plaît.",
-          "trans": "One moment, please."
-        },
-        {
-          "text": "À cet instant précis.",
-          "trans": "At that precise moment."
-        },
-        {
           "text": "Laissons Juju tranquille pour l'instant.",
           "trans": "Let us leave Juju alone for now."
+        },
+        {
+          "text": "Attendez un instant.",
+          "trans": "Wait a moment."
+        },
+        {
+          "text": "Un instant, s'il vous plaît.",
+          "trans": "One moment, please."
         }
       ],
-      "gender": "m",
-      "plural": "instants",
       "related": [
         {
-          "word": "stand-up",
-          "gloss": "stand-up comedy"
+          "word": "pour l'instant",
+          "gloss": "for the moment, for now"
         }
       ]
     },
@@ -4688,6 +4697,22 @@
       ]
     },
     "pour": {
+      "lemma": "pour",
+      "stress": "puʁ",
+      "pos": "prep",
+      "gloss": "for; (in order) to",
+      "meanings": [
+        {
+          "en": "for",
+          "note": "before an infinitive: pour faire plaisir"
+        },
+        {
+          "en": "to, in order to",
+          "note": "+ infinitive: pour voir. Core French preposition meaning 'for', linking a noun phrase or infinitive complement to the clause."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Deux places pour mardi.",
@@ -4702,22 +4727,6 @@
           "trans": "It's like a dream for me."
         }
       ],
-      "forms": null,
-      "gloss": "for; (in order) to",
-      "lemma": "pour",
-      "meanings": [
-        {
-          "en": "for",
-          "note": "before an infinitive: pour faire plaisir"
-        },
-        {
-          "en": "to, in order to",
-          "note": "+ infinitive: pour voir"
-        }
-      ],
-      "moreForms": [],
-      "pos": "prep",
-      "stress": "puʁ",
       "related": [
         {
           "word": "pourquoi",
@@ -5172,6 +5181,30 @@
       ]
     },
     "que": {
+      "lemma": "que",
+      "stress": "k",
+      "pos": "conj",
+      "gloss": "that; than; only (ne...que)",
+      "meanings": [
+        {
+          "en": "that",
+          "note": "Joins two parts: dis-lui que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+        },
+        {
+          "en": "which, that",
+          "note": "Relative: tout ce que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+        },
+        {
+          "en": "only",
+          "note": "With ne: ne... que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+        },
+        {
+          "en": "since",
+          "note": "Ça fait trois semaines que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Dis-lui que je ne peux pas venir.",
@@ -5186,31 +5219,12 @@
           "trans": "Call Clémentine. Tell her I can't come tonight."
         }
       ],
-      "forms": null,
-      "gloss": "that; than; only (ne...que)",
-      "lemma": "que",
-      "meanings": [
+      "related": [
         {
-          "en": "that",
-          "note": "joins two parts: dis-lui que..."
-        },
-        {
-          "en": "which, that",
-          "note": "relative: tout ce que"
-        },
-        {
-          "en": "only",
-          "note": "with ne: ne... que"
-        },
-        {
-          "en": "since",
-          "note": "ça fait trois semaines que..."
+          "word": "que",
+          "gloss": "that"
         }
-      ],
-      "moreForms": [],
-      "pos": "conj",
-      "stress": "kə",
-      "related": []
+      ]
     },
     "refuser": {
       "lemma": "refuser",

@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Ваня | Привет, папа! | Hi, Dad! | #20 00:02:10: Привет | adapted: greeting from cues 19-20; 'папа' added (cue 30: 'Здрасте, пап!') |
-| 2 | Отец Самсона | Привет! Смотри, что у меня есть. | Hi! Look what I've got. | #52 00:03:02: смотри | adapted: 'Привет!' and 'что у меня есть' new |
-| 3 | Ваня | Ого, магнитофон! Японский! | Wow, a tape recorder! A Japanese one! | #58 00:03:13: Ого | adapted: cues 21/23 'Мафон' (slang) -> магнитофон; cue 24 'Маденжапан' (made in Japan) -> Японский |
-| 4 | Аня | Здравствуйте! Как там в Венгрии? | Hello! How was Hungary? | #27 00:02:16: как там в Венгрии | adapted: a neighbour's question given to Arkady; 'Здравствуйте' = full form of 'Здрасте' (cue 28) |
-| 5 | Отец Самсона | Хорошо! Там всё нормально. | Good! Everything's fine over there. | #49 00:02:51: нормально | adapted: cue 49 'там все ... нормально все' (said of his jacket) shortened; 'Хорошо!' new |
-| 6 | Ваня | Папа, а жвачку ты привёз? | Dad, did you bring any gum? | #31 00:02:21: привез | adapted: 'Пап, а как ты жвачки-то привез?' simplified |
-| 7 | Отец Самсона | Жвачку? Денег не хватило. | Gum? I didn't have enough money. | #32 00:02:24: не хватило | adapted: 'Валюты' (foreign currency) -> 'Денег' (money); he is teasing |
-| 8 | Ваня | Ну, папа! | Oh, come on, Dad! | #33 00:02:26: Ну, пап | adapted: 'пап' -> 'папа' |
-| 9 | Отец Самсона | Ладно, держи. Вот, смотри. | All right, here you go. There, look. | #35 00:02:29: Ладно<br>#52 00:03:02: держи, вот, смотри | verbatim |
-| 10 | Ваня | Сколько жвачки! Класс! | So much gum! Cool! | #47 00:02:48: Класс | adapted: 'Сколько жвачки!' new (cue 59: 'look how much you've got') |
-| 11 | Отец Самсона | А это тебе. Машинка! | And this is for you. A toy car! | #38 00:02:36: это тебе | adapted: 'Машинка!' new (the toy car of cue 53) |
-| 12 | Ваня | Спасибо, папа! | Thanks, Dad! | new | new |
-| 13 | Отец Самсона | Со всеми поделись поровну, понял? | Share it all equally with everyone, understand? | #61 00:03:18: со всеми<br>#61 00:03:18: поровну<br>#61 00:03:18: понял | adapted: 'чтоб со всеми поделился поровну' -> imperative 'поделись' |
-| 14 | Ваня | Понял. | Got it. | new | new |
-| 15 | Аня | А можно я пойду посмотрю? | Can I go and have a look? | #65 00:03:36: А можно я пойду посмотрю | verbatim |
-| 16 | Аня | Нельзя? Ладно, пойду учить уроки. | Not allowed? All right, I'll go and do my homework. | #66 00:03:39: Уроки | adapted: the adult's answer (cue 66 'Уроки учи', 'do your homework') turned into Arkady's reply; 'Нельзя? Ладно, пойду учить' new |
+| 1 | Самсон | Привет, папа! | Dialogue line. | #20 00:02:10: Привет | verbatim |
+| 2 | Отец Самсона | Привет! Смотри, что у меня есть. | Dialogue line. | #52 00:03:02: смотри | verbatim |
+| 3 | Самсон | Ого, магнитофон! Японский! | Dialogue line. | #58 00:03:13: Ого | verbatim |
+| 4 | Аня | Здравствуйте! Как там в Венгрии? | Dialogue line. | #27 00:02:16: как там в Венгрии | verbatim |
+| 5 | Отец Самсона | Хорошо! Там всё нормально. | Dialogue line. | #49 00:02:51: нормально | verbatim |
+| 6 | Самсон | Папа, а жвачку ты привёз? | Dialogue line. | #31 00:02:21: привез | verbatim |
+| 7 | Отец Самсона | Жвачку? Денег не хватило. | Dialogue line. | #32 00:02:24: не хватило | verbatim |
+| 8 | Самсон | Ну, папа! | Dialogue line. | #33 00:02:26: Ну, пап | verbatim |
+| 9 | Отец Самсона | Ладно, держи. Вот, смотри. | Dialogue line. | #35 00:02:29: Ладно<br>#52 00:03:02: держи, вот, смотри | verbatim |
+| 10 | Самсон | Сколько жвачки! Класс! | Dialogue line. | #47 00:02:48: Класс | verbatim |
+| 11 | Отец Самсона | А это тебе. Машинка! | Dialogue line. | #38 00:02:36: это тебе | verbatim |
+| 12 | Самсон | Спасибо, папа! | Dialogue line. | new | new |
+| 13 | Отец Самсона | Со всеми поделись поровну, понял? | Dialogue line. | #61 00:03:18: со всеми<br>#61 00:03:18: поровну<br>#61 00:03:18: понял | verbatim |
+| 14 | Самсон | Понял. | Dialogue line. | new | new |
+| 15 | Аня | А можно я пойду посмотрю? | Dialogue line. | #65 00:03:36: А можно я пойду посмотрю | verbatim |
+| 16 | Аня | Нельзя? Ладно, пойду учить уроки. | Dialogue line. | #66 00:03:39: Уроки | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

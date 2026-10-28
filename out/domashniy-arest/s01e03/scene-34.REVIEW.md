@@ -4,7 +4,7 @@ Title: Вечер в коммуналке  (Evening in the Flat)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.03
-Cues 1098-1121; merged scene 33 (cues 1093-1097: outside the courthouse Judge Berg threatens Arkady if anything happened to his dog, an officer tells Berg the dog is safe at the communal flat, and Berg hurries there) is covered in the INTRO bridge. Because of the three-role limit (Arkady, Samson, Nina), old Klavdia's cooing over the little dog ('Тузик', cues 1098-1104) and Marina's scolding of Arkady over the dean's wine (cue 1108) and telling heart-broken Slavik to eat (cue 1111) are folded into Nina's voice and explained by the narrator; Lyosha's boast about his new guitar (cue 1106) is narrated. 'Блин, нет' (1113) -> 'Нин'; Samson's crude soldering-iron retort (1117) is replaced with a clean line ('Я тебе не бандит.').
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -42,7 +42,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You should have acted like a man!' Literally, 'to you it was needed like a tough guy'. The word she uses for a man is the colloquial word for a real, tough man. Samson bristles.
 - 'Funny you should say that.' Literally, 'so interesting', in the feminine form: an everyday sarcastic reply to a woman who asks for the impossible.
 - 'I'm no gangster for you.' In the show he says this much more crudely, telling her to go marry a gangster with a soldering iron. Nina is still upset.
-- 'And where are we going to live now?' Here the future tense is made with 'we will' plus the imperfective verb 'to live', because living somewhere is an ongoing state. Samson has had enough of the argument.
-- 'All right, calm down already. Calm down.' The command ends in a reflexive tail, literally 'calm yourself'. Just then, someone knocks hard at the front door.
+- 'And where are we going to live now?' Here the future tense is made with 'we will' plus the ongoing-action form 'to live', because living somewhere is an ongoing state. Samson has had enough of the argument.
+- 'All right, calm down already. Calm down.' The command ends in a self-action verb form, literally 'calm yourself'. Just then, someone knocks hard at the front door.
 - 'Quiet! Who is knocking there?' Even when asking about several people outside, the word 'who' always takes a singular verb in Russian. Arkady gets up.
 - 'I'm going to open it now.' Again, the compound future: 'I will' plus 'open'. He has no idea who is waiting on the other side of that door.

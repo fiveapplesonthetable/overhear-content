@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ваня, ты в полном порядке? | Vanya, are you completely alright? | #1087 01:05:34: ты в порядке? | verbatim |
+| 1 | Нина | Ваня, ты в полном порядке? | Vanya, are you completely alright? | #1087 01:05:34: ты в порядке? | verbatim |
 | 2 | Самсон | Да, всё нормально, не волнуйся. | Yes, everything is fine, don't worry. | #1089 01:05:45: в порядке? | verbatim |
-| 3 | Аня | Прекратите эту драку прямо сейчас! | Stop this fight right now! | #1091 01:05:50: он же бьет | verbatim |
-| 4 | Аня | Пойдём скорее домой, пожалуйста. | Let's go home quickly, please. | #1094 01:06:01: Пойдем<br>#1101 01:06:07: Пожалуйста, пойдем! | verbatim |
+| 3 | Нина | Прекратите эту драку прямо сейчас! | Stop this fight right now! | #1091 01:05:50: он же бьет | verbatim |
+| 4 | Нина | Пойдём скорее домой, пожалуйста. | Let's go home quickly, please. | #1094 01:06:01: Пойдем<br>#1101 01:06:07: Пожалуйста, пойдем! | verbatim |
 | 5 | Самсон | Хорошо, успокойся, пойдём скорее. | Fine, calm down, let's go quickly. | #1103 01:06:09: Все, тихо, успокойся | verbatim |
-| 6 | Миша | Мама, что там на улице случилось? | Mom, what happened out there on the street? | #1115 01:07:30: Мам, что случилось-то? | verbatim |
-| 7 | Аня | Твой папа снова сильно подрался. | Your dad had a big fight again. | #1116 01:07:35: Папа с дядей Даней подрался | verbatim |
-| 8 | Миша | Папа, тебя кто-то побил? | Dad, did someone beat you up? | #1117 01:07:38: тебя дядя Даня побил? | verbatim |
+| 6 | Нина | Мама, что там на улице случилось? | Mom, what happened out there on the street? | #1115 01:07:30: Мам, что случилось-то? | verbatim |
+| 7 | Нина | Твой папа снова сильно подрался. | Your dad had a big fight again. | #1116 01:07:35: Папа с дядей Даней подрался | verbatim |
+| 8 | Нина | Папа, тебя кто-то побил? | Dad, did someone beat you up? | #1117 01:07:38: тебя дядя Даня побил? | verbatim |
 | 9 | Самсон | Никто меня не побил, сынок. | Nobody beat me up, son. | #1117 01:07:38: дядя Даня побил | verbatim |
 | 10 | Самсон | Я просто защищал нашу честь. | I was simply defending our honor. | #1119 01:07:44: драться нельзя | verbatim |
-| 11 | Аня | Ваня, тебе нельзя драться на улице! | Vanya, you must not fight on the street! | #1119 01:07:44: драться нельзя | verbatim |
-| 12 | Аня | Ты ведь будущий мэр города! | You are the future mayor of the city after all! | #1120 01:07:45: Я же кандидат | verbatim |
+| 11 | Нина | Ваня, тебе нельзя драться на улице! | Vanya, you must not fight on the street! | #1119 01:07:44: драться нельзя | verbatim |
+| 12 | Нина | Ты ведь будущий мэр города! | You are the future mayor of the city after all! | #1120 01:07:45: Я же кандидат | verbatim |
 | 13 | Самсон | Ты права, я же кандидат! | You are right, I am a candidate after all! | #1120 01:07:45: Я же кандидат | verbatim |
-| 14 | Аня | Тогда веди себя спокойно, Ваня. | Then behave calmly, Vanya. | #1119 01:07:44: Миша, драться нельзя | verbatim |
+| 14 | Нина | Тогда веди себя спокойно, Ваня. | Then behave calmly, Vanya. | #1119 01:07:44: Миша, драться нельзя | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Vanya, are you completely alright?' Nina asks her husband anxiously after the physical confrontation.
 - 'Yes, everything is fine, don't worry.' Samsonov attempts to downplay his bruises with a reassurance.
-- 'Stop this fight right now!' Nina demands an end to the brawl using an imperative phrase.
+- 'Stop this fight right now!' Nina demands an end to the brawl.
 - 'Let's go home quickly, please.' Nina urges her husband to leave the street before spectators gather.
 - 'Fine, calm down, let's go quickly.' Samsonov relents and agrees to walk back inside.
 - 'Mom, what happened out there on the street?' Young Misha asks about the commotion outside.
-- 'Your dad had a big fight again.' Nina explains the fight to her son with a reflexive past verb.
+- 'Your dad had a big fight again.' Nina explains the fight to her son with a self-action verb form verb.
 - 'Dad, did someone beat you up?' Misha questions his father with genuine childlike concern.
 - 'Nobody beat me up, son.' Samsonov defends his pride with a negative pronoun construction.
 - 'I was simply defending our honor.' Samsonov justifies his aggressive behavior as domestic duty.

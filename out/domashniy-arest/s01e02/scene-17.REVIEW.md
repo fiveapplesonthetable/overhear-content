@@ -4,7 +4,7 @@ Title: Телефон губернатора  (The Governor's Number)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Arkady is `anya` (label Аркадий); Slavik and Yulia speak. Lyosha is present but silent (the crude cue 532 about him is left out). The kids say вы to Arkady, he says ты to them. Cues 499-502 (the chief at headquarters) and 535-538 (the governor's judo coach) belong to the neighbouring scenes' action and are not used.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, where are you?' Just three little words: 'well', 'you', 'where'. The word order is loose, as often in speech. A voice answers from a corner.
+- 'So, where are you?' Arkady uses the informal singular 'you' here with 'where', as friends and close colleagues do.
 - 'I'm here.' One of the first things you learn: 'I', and 'here'. No verb at all. Arkady is puzzled.
 - 'Why are you sitting in the corner?' The last word, 'in the corner', has a special ending: a few masculine words end in a stressed 'oo' sound after 'in'. Arakelyan's answer is one mysterious word.
 - 'Secrecy.' A rather grand word for keeping things hidden, the way spies do. Then he greets the mayor properly.

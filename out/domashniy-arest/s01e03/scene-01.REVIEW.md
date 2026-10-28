@@ -4,7 +4,7 @@ Title: Адвокаты из Москвы  (Lawyers from Moscow)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.03
-Cues 1-77. Station announcements and crowd chatter (1-13), the court secretary's line (19-20), and the opening song (61-77) are left out. The three Moscow lawyers from 'Mishkin and Sons' speak as one role (mishkin, Andrei Iosifovich Mishkin). Legal terms in cues 39 and 48-51 are simplified to A1.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -32,19 +32,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Arkady Borisovich, we are your lawyers from Moscow.' Russian drops the word for 'are' in the present tense, and after the preposition 'from' the city name Moscow changes its ending. Arkady is delighted to see them.
 - 'Good afternoon, gentlemen!' Literally 'good day', followed by the old-fashioned polite word for 'gentlemen'.
 - 'I've been waiting for you. Come in, please.' Literally 'I very much wait for you', using the present tense because he is still waiting as they walk in. The last two words mean 'I ask you', the polite way to invite someone inside. He shows them the flat.
-- 'Look what the conditions are like here. Into this room, please.' 'Into this room' uses the accusative case because he is pointing them where to go. Next, the lawyer Mishkin marches straight into the office of the city court chairman, Judge Ilya Olegovich Berg.
+- 'Look what the conditions are like here. Into this room, please.' 'Into this room' uses the direct-object form because he is pointing them where to go. Next, the lawyer Mishkin marches straight into the office of the city court chairman, Judge Ilya Olegovich Berg.
 - 'Hello, Ilya Olegovich.' The formal greeting, with first name and father's name. The judge has no idea who just walked past his secretary.
 - 'Excuse me, who are you? What is this?' Literally 'forgive me, and you who?'. Mishkin introduces himself and lays a paper on the desk.
-- 'I am the lawyer Mishkin, I'm handling this case.' The verb 'to handle' or 'to be occupied with' takes the instrumental case after it: 'with this case'.
+- 'I am the lawyer Mishkin, I'm handling this case.' The verb 'to handle' or 'to be occupied with' takes the 'with/as' form after it: 'with this case'.
 - 'Here is an order from the prosecutor's office. The hearing will be this evening.' Literally 'today in the evening'. Judge Berg cannot believe his ears.
 - 'What do you mean, this evening? That's impossible!' Literally 'how is this, today in the evening?'. And he explains the normal rule.
 - 'We have already made a decision on this case. A review is only in two months.' The preposition before 'two months' literally means 'through' or 'across', and with time it means 'in' or 'after'. Mishkin does not care.
-- 'The prosecutor's office thinks otherwise. There are many serious mistakes in the case.' Literally 'coarse mistakes'. After the word for 'many', the noun and adjective take the genitive plural.
+- 'The prosecutor's office thinks otherwise. There are many serious mistakes in the case.' Literally 'coarse mistakes'. After the word for 'many', the noun and adjective take the plural 'of' form.
 - 'We demand that house arrest be replaced.' Literally 'we demand to replace house arrest'.
 - 'What's needed is a travel ban.' The first word means 'needed', with a feminine ending to match the feminine noun for a written undertaking not to leave town. Back at the flat, Arkady asks if it can really work.
 - 'Do you think that's really possible?' Mishkin is completely confident.
-- 'There is no reason to keep you under arrest. Today you will walk out of here.' Literally 'you will go out from here', a perfective future form for a single result.
-- 'And then, Arkady Borisovich, we will close your case.' Another perfective future: 'we will close'. Arkady is so grateful that he hands them a little gift.
+- 'There is no reason to keep you under arrest. Today you will walk out of here.' Literally 'you will go out from here', a future-tense form for a single result.
+- 'And then, Arkady Borisovich, we will close your case.' Another future-tense form: 'we will close'. Arkady is so grateful that he hands them a little gift.
 - 'My angels, this is for you!' Putting 'my' after the noun makes it sound warm and theatrical. And he excuses the little sweetener.
 - 'An old Soviet habit.' Meaning the habit of never letting an important person leave empty-handed.
 - 'Goodbye, Arkady Borisovich.' The lawyers take their leave, and Arkady is sure he will be free by nightfall.

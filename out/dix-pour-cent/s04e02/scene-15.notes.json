@@ -2643,6 +2643,22 @@
       ]
     },
     "comme": {
+      "lemma": "comme",
+      "stress": "kɔm",
+      "pos": "prep",
+      "gloss": "like, as",
+      "meanings": [
+        {
+          "en": "like",
+          "note": "Comparison: comme un rêve. Core French preposition meaning 'like', linking a noun phrase or infinitive complement to the clause."
+        },
+        {
+          "en": "as, since",
+          "note": "Conjunction. Core French preposition meaning 'like', linking a noun phrase or infinitive complement to the clause."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "C'est comme un rêve.",
@@ -2657,30 +2673,14 @@
           "trans": "It's like a dream for me."
         }
       ],
-      "forms": null,
-      "gloss": "like, as",
-      "lemma": "comme",
-      "meanings": [
-        {
-          "en": "like",
-          "note": "comparison: comme un rêve"
-        },
-        {
-          "en": "as, since",
-          "note": "conjunction"
-        }
-      ],
-      "moreForms": [],
-      "pos": "prep",
-      "stress": "kɔm",
       "related": [
         {
-          "word": "recommencer",
-          "gloss": "to start again"
+          "word": "comment",
+          "gloss": "how"
         },
         {
-          "word": "recommandé",
-          "gloss": "registered letter"
+          "word": "comme ça",
+          "gloss": "like that"
         }
       ]
     },
@@ -3055,21 +3055,18 @@
       ]
     },
     "du": {
-      "examples": [
+      "lemma": "du",
+      "stress": "dy",
+      "pos": "det",
+      "gloss": "some (partitive)",
+      "meanings": [
         {
-          "text": "Du Botox chaque année.",
-          "trans": "Botox every year."
-        },
-        {
-          "text": "Je veux du café.",
-          "trans": "I want some coffee."
-        },
-        {
-          "text": "C'est du compost.",
-          "trans": "It's compost."
+          "en": "some",
+          "note": "for things you can't count; de la (feminine)"
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -3090,25 +3087,29 @@
               "des"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "some; of the",
-      "lemma": "du",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "some (partitive, masculine)",
-          "note": "du Botox, du pain"
+          "text": "C'est du compost.",
+          "trans": "It's compost."
         },
         {
-          "en": "of the (de + le)",
-          "note": ""
+          "text": "Je veux du pain.",
+          "trans": "I want some bread."
+        },
+        {
+          "text": "C'est du compost. Ça nourrit la terre.",
+          "trans": "It's compost. It feeds the earth."
         }
       ],
-      "moreForms": [],
-      "pos": "det",
-      "stress": "dy",
-      "related": []
+      "related": [
+        {
+          "word": "du",
+          "gloss": "some"
+        }
+      ]
     },
     "enfin": {
       "lemma": "enfin",
@@ -4182,21 +4183,18 @@
       ]
     },
     "le": {
-      "examples": [
+      "lemma": "le",
+      "stress": "l",
+      "pos": "det",
+      "gloss": "the",
+      "meanings": [
         {
-          "text": "Le meilleur.",
-          "trans": "The best."
-        },
-        {
-          "text": "Vous la connaissez?",
-          "trans": "Do you know her?"
-        },
-        {
-          "text": "Les voilà.",
-          "trans": "There they are."
+          "en": "the",
+          "note": "definite article; l' before a vowel"
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -4217,25 +4215,29 @@
               "les"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "the; him, her, it, them",
-      "lemma": "le",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "the (definite article)",
-          "note": "le, la, l', les"
+          "text": "Le film est fantastique.",
+          "trans": "The film is fantastic."
         },
         {
-          "en": "him, her, it, them (object pronoun)",
-          "note": "before the verb: vous la connaissez? les voilà"
+          "text": "La pièce de Koltès.",
+          "trans": "The Koltès play."
+        },
+        {
+          "text": "C'est le prochain film de Tarantino.",
+          "trans": "It's Tarantino's next film."
         }
       ],
-      "moreForms": [],
-      "pos": "det",
-      "stress": "lə",
-      "related": []
+      "related": [
+        {
+          "word": "le",
+          "gloss": "the"
+        }
+      ]
     },
     "là": {
       "lemma": "là",
@@ -4318,6 +4320,40 @@
       ]
     },
     "moment": {
+      "lemma": "moment",
+      "stress": "mɔmɑ̃",
+      "pos": "noun",
+      "gloss": "moment, while",
+      "gender": "m",
+      "plural": "moments",
+      "meanings": [
+        {
+          "en": "moment",
+          "note": "Masculine action/result noun formed with the Romance suffix '-ment' (from Latin '-mentum'). Standard masculine noun meaning 'moment, while'."
+        },
+        {
+          "en": "en ce moment = at the moment, currently",
+          "note": "Masculine action/result noun formed with the Romance suffix '-ment' (from Latin '-mentum'). Standard masculine noun meaning 'moment, while'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le moment",
+              "les moments"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
       "examples": [
         {
           "text": "Je joue en ce moment.",
@@ -4332,44 +4368,10 @@
           "trans": "I'm in a show at the moment, at the Porte des Lilas."
         }
       ],
-      "forms": {
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le moment",
-              "les moments"
-            ]
-          }
-        ],
-        "title": "Forms"
-      },
-      "gender": "m",
-      "gloss": "moment, while",
-      "lemma": "moment",
-      "meanings": [
-        {
-          "en": "moment",
-          "note": "Masculine action/result noun formed with the Romance suffix '-ment' (from Latin '-mentum'). Standard masculine noun meaning 'moment, while'."
-        },
-        {
-          "en": "en ce moment = at the moment, currently",
-          "note": ""
-        }
-      ],
-      "moreForms": [],
-      "plural": "moments",
-      "pos": "noun",
-      "stress": "mɔmɑ̃",
       "related": [
         {
-          "word": "le/la moment",
-          "gloss": "the moment (with article)"
+          "word": "un moment / des moments",
+          "gloss": "a moment / moments"
         }
       ]
     },
@@ -4923,6 +4925,22 @@
       ]
     },
     "pour": {
+      "lemma": "pour",
+      "stress": "puʁ",
+      "pos": "prep",
+      "gloss": "for; (in order) to",
+      "meanings": [
+        {
+          "en": "for",
+          "note": "before an infinitive: pour faire plaisir"
+        },
+        {
+          "en": "to, in order to",
+          "note": "+ infinitive: pour voir. Core French preposition meaning 'for', linking a noun phrase or infinitive complement to the clause."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Deux places pour mardi.",
@@ -4937,22 +4955,6 @@
           "trans": "It's like a dream for me."
         }
       ],
-      "forms": null,
-      "gloss": "for; (in order) to",
-      "lemma": "pour",
-      "meanings": [
-        {
-          "en": "for",
-          "note": "before an infinitive: pour faire plaisir"
-        },
-        {
-          "en": "to, in order to",
-          "note": "+ infinitive: pour voir"
-        }
-      ],
-      "moreForms": [],
-      "pos": "prep",
-      "stress": "puʁ",
       "related": [
         {
           "word": "pourquoi",
@@ -5819,36 +5821,32 @@
       ]
     },
     "rien": {
-      "examples": [
-        {
-          "text": "Il n'y a rien ici.",
-          "trans": "There's nothing here."
-        },
-        {
-          "text": "Je ne fais rien.",
-          "trans": "I'm not doing anything."
-        },
-        {
-          "text": "Je ne promets rien.",
-          "trans": "I'm not promising anything."
-        }
-      ],
-      "forms": null,
-      "gloss": "nothing",
       "lemma": "rien",
+      "stress": "ʁjɛ̃",
+      "pos": "pron",
+      "gloss": "nothing",
       "meanings": [
         {
           "en": "nothing",
-          "note": "in a sentence with ne: je ne sais rien"
-        },
-        {
-          "en": "nothing (alone)",
-          "note": "Rien. = Nothing."
+          "note": "with ne: je ne promets rien; rien n'est signé"
         }
       ],
+      "forms": null,
       "moreForms": [],
-      "pos": "pron",
-      "stress": "ʁjɛ̃",
+      "examples": [
+        {
+          "text": "Je ne promets rien.",
+          "trans": "I'm not promising anything."
+        },
+        {
+          "text": "Rien n'est signé.",
+          "trans": "Nothing is signed."
+        },
+        {
+          "text": "Rien n'est signé. On attend l'appel.",
+          "trans": "Nothing is signed. We're waiting for the call."
+        }
+      ],
       "related": [
         {
           "word": "rien du tout",
@@ -6233,21 +6231,22 @@
       ]
     },
     "tout": {
-      "examples": [
+      "lemma": "tout",
+      "stress": "tu",
+      "pos": "det",
+      "gloss": "all, every; everything",
+      "meanings": [
         {
-          "text": "Merci à tous.",
-          "trans": "Thank you, everyone."
+          "en": "all, the whole",
+          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
         },
         {
-          "text": "Oui à tout.",
-          "trans": "Yes to everything."
-        },
-        {
-          "text": "Ça ne va pas du tout.",
-          "trans": "It's not going at all."
+          "en": "tout ce que = all that, everything that",
+          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -6268,32 +6267,23 @@
               "toutes"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "all, everything; everyone",
-      "lemma": "tout",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "everything",
-          "note": "oui à tout = yes to everything"
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
         },
         {
-          "en": "all, everyone",
-          "note": "plural tous (pronounced 'tous' with s): merci à tous"
+          "text": "C'est tout ce que je peux faire.",
+          "trans": "That's all I can do."
         },
         {
-          "en": "at all",
-          "note": "pas du tout"
-        },
-        {
-          "en": "all, the whole",
-          "note": "before a noun: tout le monde = everyone"
+          "text": "Désolé, c'est tout ce que je peux faire.",
+          "trans": "Sorry, that's all I can do."
         }
       ],
-      "moreForms": [],
-      "pos": "pron",
-      "stress": "tu",
       "related": [
         {
           "word": "tout le monde",

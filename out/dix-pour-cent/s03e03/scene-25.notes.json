@@ -2933,21 +2933,26 @@
       ]
     },
     "bon": {
-      "examples": [
+      "lemma": "bon",
+      "stress": "bɔ̃",
+      "pos": "adj",
+      "gloss": "good",
+      "meanings": [
         {
-          "text": "Bon. Alors, je vais attendre.",
-          "trans": "Fine. Then I'll wait."
+          "en": "good",
+          "note": "as an interjection: bon, alors... = right, so..."
         },
         {
-          "text": "Bonne journée!",
-          "trans": "Have a nice day!"
+          "en": "well, okay, right",
+          "note": "as an interjection: bon, alors... = right, so..."
         },
         {
-          "text": "C'est un bon film.",
-          "trans": "It's a good film."
+          "en": "bonne journée = have a nice day",
+          "note": "Descriptive French adjective meaning 'good'; agrees in gender and number with the noun it modifies."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -2968,32 +2973,27 @@
               "bonnes"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "good",
-      "lemma": "bon",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "good",
-          "note": "as an interjection: bon, alors... = right, so..."
+          "text": "Bon. Alors, je vais attendre.",
+          "trans": "Fine. Then I'll wait."
         },
         {
-          "en": "well, okay, right",
-          "note": "as an interjection: bon, alors... = right, so..."
+          "text": "Bonne journée!",
+          "trans": "Have a nice day!"
         },
         {
-          "en": "bonne journée = have a nice day",
-          "note": ""
+          "text": "C'est un bon film.",
+          "trans": "It's a good film."
         }
       ],
-      "moreForms": [],
-      "pos": "adj",
-      "stress": "bɔ̃",
       "related": [
         {
-          "word": "bonement",
-          "gloss": "in a good manner (adv.)"
+          "word": "as an interjection: bon, alors...",
+          "gloss": "right, so..."
         }
       ]
     },
@@ -4325,6 +4325,36 @@
       ]
     },
     "nuit": {
+      "lemma": "nuit",
+      "stress": "nɥi",
+      "pos": "noun",
+      "gloss": "night",
+      "gender": "f",
+      "plural": "nuits",
+      "meanings": [
+        {
+          "en": "night",
+          "note": "Bonne nuit = good night. Feminine noun ('la nuit', plural 'les nuits') inherited through Romance vocabulary, used in everyday and professional French for 'night'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la nuit",
+              "les nuits"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
       "examples": [
         {
           "text": "Bonne nuit!",
@@ -4339,40 +4369,10 @@
           "trans": "Good night, Andréa."
         }
       ],
-      "forms": {
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "la nuit",
-              "les nuits"
-            ]
-          }
-        ],
-        "title": "Forms"
-      },
-      "gender": "f",
-      "gloss": "night",
-      "lemma": "nuit",
-      "meanings": [
-        {
-          "en": "night",
-          "note": "bonne nuit = good night"
-        }
-      ],
-      "moreForms": [],
-      "plural": "nuits",
-      "pos": "noun",
-      "stress": "nɥi",
       "related": [
         {
-          "word": "le/la nuit",
-          "gloss": "the night (with article)"
+          "word": "bonne nuit",
+          "gloss": "good night"
         }
       ]
     },

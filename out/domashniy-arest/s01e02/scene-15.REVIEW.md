@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёша | Дай поиграть! | Let me have a go! | #428 00:26:38: Дай поиграть | verbatim |
+| 1 | Славик | Дай поиграть! | Let me have a go! | #428 00:26:38: Дай поиграть | verbatim |
 | 2 | Славик | Уровень пройду и дам. | I'll finish the level and then I'll give it to you. | #429 00:26:39: Уровень пройду и дам | verbatim |
 | 3 | Аня | Соседи, привет! Слушай, дружок, дай свой телефон на минутку. | Hi, neighbours! Listen, buddy, lend me your phone for a minute. | #431 00:26:44: Соседи, привет<br>#432 00:26:46: Слушай, дружок, дай свой телефон на минутку | verbatim |
 | 4 | Славик | Зачем? | What for? | #433 00:26:51: Зачем | verbatim |
@@ -19,7 +19,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Аня | Его в суде заблокировали. | The court had it blocked. | #436 00:26:55: Его в суде заблокировали | adapted: the garbled first half of the cue left out |
 | 8 | Славик | Не дам. | I won't give it to you. | #439 00:27:00: Не дам | verbatim |
 | 9 | Аня | Ах ты, жадина! А у тебя есть телефон? | Oh, you greedy thing! And have you got a phone? | #443 00:27:09: у тебя есть телефон | adapted: 'жлоб какой' (cue 440) -> the milder 'жадина'; the question goes to Lyosha (cue 443: 'Слышь, мелкий' dropped); Yulia's 'no credit' reply (442) is told by the narrator |
-| 10 | Лёша | Нет. Вы взяточник. | No. You take bribes. | #448 00:27:18: Нет<br>#445 00:27:13: Вы взяточник | adapted: the two replies swapped round and joined |
+| 10 | Славик | Нет. Вы взяточник. | No. You take bribes. | #448 00:27:18: Нет<br>#445 00:27:13: Вы взяточник | adapted: the two replies swapped round and joined |
 | 11 | Аня | Тогда не разговаривай. | Then don't talk. | #449 00:27:18: Тогда не разговаривай | verbatim |
 | 12 | Аня | Славик, смотри сюда. Меняю свой новый айфон на твой старый телефон. | Slavik, look here. I'll swap my new iPhone for your old phone. | #451 00:27:22: смотри сюда<br>#452 00:27:24: Меняю свой новый айфон на | adapted: 'Жлоб' -> 'Славик'; 'твоё фуфло' (your junk) -> 'твой старый телефон' |
 | 13 | Славик | Ага, как с Кайеном, да? | Yeah, right, like with the Cayenne? | new | new: cue 453 'Угу, как с Каеном, да?': 'Угу' -> 'Ага', the car spelled Кайен as in s01e01, so not cited |
@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Let me have a go!' Literally, 'give to play'. The command 'give' plus another verb is a handy way to say 'let me'. Slavik is in the middle of a game.
-- 'I'll finish the level and then I'll give it to you.' Both verbs are perfective, so in this form they point to the future: first one thing, then the next. Then Arkady comes in.
+- 'I'll finish the level and then I'll give it to you.' Both verbs are single-action verbs, so in this form they point to the future: first one thing, then the next. Then Arkady comes in.
 - 'Hi, neighbours!' He's all smiles. Then he gets to the point.
 - 'Listen, buddy, lend me your phone for a minute.' The word for buddy is a friendly little form of 'friend', the way adults talk to kids, and 'a minute' is also a little form. He's being extra sweet. Slavik isn't fooled.
 - 'What for?' A short, suspicious question.

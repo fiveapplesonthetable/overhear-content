@@ -11,21 +11,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Николай Филиппович | Ты смотришь на меня так, как будто убить хочешь. | You look at me as if you want to kill me. | #862 00:47:28: смотришь на меня так, как будто убить хочешь | adapted: 'вот' dropped |
-| 2 | Аня | Нормально я на тебя смотрю. Ты чего? | I'm looking at you normally. What's up with you? | #863 00:47:32: нормально я на тебя смотрю<br>#863 00:47:32: Ты чего | verbatim |
+| 2 | Николай Филиппович | Нормально я на тебя смотрю. Ты чего? | I'm looking at you normally. What's up with you? | #863 00:47:32: нормально я на тебя смотрю<br>#863 00:47:32: Ты чего | verbatim |
 | 3 | Николай Филиппович | Скажи мне в глаза. За что ты меня так ненавидишь? | Say it to my face. Why do you hate me so much? | #868 00:47:46: мне в глаза<br>#859 00:47:20: за что ты меня так ненавидишь | adapted: cues 859 and 866-868 joined and reordered; 'говори' -> 'скажи' |
-| 4 | Аня | Хорошо. Вот смотри, Николай. | All right. Look, Nikolai. | #869 00:47:48: Хорошо<br>#870 00:47:50: Вот смотри, Николай | verbatim |
-| 5 | Аня | Ты мне сейчас водку наливаешь, да? | Right now you're pouring me vodka, aren't you? | #872 00:47:56: ты мне сейчас водку наливаешь, да | adapted: 'Вот' dropped |
+| 4 | Николай Филиппович | Хорошо. Вот смотри, Николай. | All right. Look, Nikolai. | #869 00:47:48: Хорошо<br>#870 00:47:50: Вот смотри, Николай | verbatim |
+| 5 | Николай Филиппович | Ты мне сейчас водку наливаешь, да? | Right now you're pouring me vodka, aren't you? | #872 00:47:56: ты мне сейчас водку наливаешь, да | adapted: 'Вот' dropped |
 | 6 | Николай Филиппович | Да. | Yes. | #873 00:47:57: Да | verbatim |
-| 7 | Аня | А сам французский коньяк пьёшь. | And you're drinking French cognac yourself. | #874 00:47:58: французский | adapted: 'На самом деле ... коньячок потягиваешь' -> 'А сам ... коньяк пьёшь' |
+| 7 | Николай Филиппович | А сам французский коньяк пьёшь. | And you're drinking French cognac yourself. | #874 00:47:58: французский | adapted: 'На самом деле ... коньячок потягиваешь' -> 'А сам ... коньяк пьёшь' |
 | 8 | Николай Филиппович | Ну, тебе какая разница, что пить? | Well, what difference does it make to you what you drink? | #878 00:48:12: тебе какая разница | adapted: slang 'бухать' -> 'пить' |
 | 9 | Николай Филиппович | Ты что, думаешь, я жадный? | What, you think I'm stingy? | #885 00:48:27: Ты что, думаешь, я жадный | verbatim |
-| 10 | Аня | Думаю, жадный. | I think you're stingy. | #886 00:48:29: Думаю, жадный | verbatim |
+| 10 | Николай Филиппович | Думаю, жадный. | I think you're stingy. | #886 00:48:29: Думаю, жадный | verbatim |
 | 11 | Николай Филиппович | Я не жадный. Я разумный. Вот, это тебе. | I'm not stingy. I'm sensible. Here, this is for you. | #890 00:48:32: Я не жадный<br>#891 00:48:34: Я разумный | adapted: 'Вот, это тебе' is a plain version of cues 895-897 |
-| 12 | Аня | Что это? | What's this? | new | new: glue line |
+| 12 | Николай Филиппович | Что это? | What's this? | new | new: glue line |
 | 13 | Николай Филиппович | Путёвки на двоих, в Крым. Март, начало сезона. | Holiday vouchers for two, to Crimea. March, the start of the season. | #898 00:48:50: путевки на двоих<br>#899 00:48:52: В Крым<br>#901 00:48:55: начало сезона | adapted: 'Это' and 'месяц' dropped; 'Профсоюз выдал' (the union gave them out) left to the narrator |
-| 14 | Аня | Подожди, там же в марте холодно! | Hold on, it's cold there in March! | #904 00:49:01: Подожди, там же в марте | adapted: slang 'колотун' (freezing) -> 'холодно' |
-| 15 | Бригадир | Плохой бетон привезли. Самсон, ты зря радиаторы носил. | They've delivered bad concrete. Samson, you carried those radiators for nothing. | #909 00:49:12: бетон привезли<br>#910 00:49:16: Самсон, ты зря радиаторы | adapted: 'Вместо трёхсотого 150-й' (the wrong grade) -> 'Плохой'; 'таскал' -> 'носил'; 'похоже' dropped |
-| 16 | Бригадир | И ещё. Никто в бригаде не хочет в Крым в марте. | And another thing. Nobody on the crew wants to go to Crimea in March. | #914 00:49:31: в бригаде<br>#915 00:49:34: Никто не хочет | adapted: cues 914-915 simplified, the rude adjective about Crimea and 'ехать' dropped; the boss's swearing (912) left out |
+| 14 | Николай Филиппович | Подожди, там же в марте холодно! | Hold on, it's cold there in March! | #904 00:49:01: Подожди, там же в марте | adapted: slang 'колотун' (freezing) -> 'холодно' |
+| 15 | Прораб | Плохой бетон привезли. Самсон, ты зря радиаторы носил. | They've delivered bad concrete. Samson, you carried those radiators for nothing. | #909 00:49:12: бетон привезли<br>#910 00:49:16: Самсон, ты зря радиаторы | adapted: 'Вместо трёхсотого 150-й' (the wrong grade) -> 'Плохой'; 'таскал' -> 'носил'; 'похоже' dropped |
+| 16 | Прораб | И ещё. Никто в бригаде не хочет в Крым в марте. | And another thing. Nobody on the crew wants to go to Crimea in March. | #914 00:49:31: в бригаде<br>#915 00:49:34: Никто не хочет | adapted: cues 914-915 simplified, the rude adjective about Crimea and 'ехать' dropped; the boss's swearing (912) left out |
 | 17 | Николай Филиппович | Врут. Врут. | They're lying. They're lying. | #917 00:49:40: Врут. Врут | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)

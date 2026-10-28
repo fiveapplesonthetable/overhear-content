@@ -3262,6 +3262,40 @@
       ]
     },
     "cas": {
+      "lemma": "cas",
+      "stress": "ka",
+      "pos": "noun",
+      "gloss": "case",
+      "gender": "m",
+      "plural": "cas",
+      "meanings": [
+        {
+          "en": "case",
+          "note": "En tout cas = in any case, anyway. Masculine noun ('le cas', plural 'les cas') inherited through Romance vocabulary, used in everyday and professional French for 'case'."
+        },
+        {
+          "en": "dans ce cas = in that case",
+          "note": "Masculine noun ('le cas', plural 'les cas') inherited through Romance vocabulary, used in everyday and professional French for 'case'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le cas",
+              "les cas"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
       "examples": [
         {
           "text": "En tout cas, merci.",
@@ -3276,44 +3310,10 @@
           "trans": "Well, not you and your stupid ideas, anyway!"
         }
       ],
-      "forms": {
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le cas",
-              "les cas"
-            ]
-          }
-        ],
-        "title": "Forms"
-      },
-      "gender": "m",
-      "gloss": "case",
-      "lemma": "cas",
-      "meanings": [
-        {
-          "en": "case",
-          "note": "en tout cas = in any case, anyway"
-        },
-        {
-          "en": "dans ce cas = in that case",
-          "note": ""
-        }
-      ],
-      "moreForms": [],
-      "plural": "cas",
-      "pos": "noun",
-      "stress": "ka",
       "related": [
         {
-          "word": "le/la cas",
-          "gloss": "the case (with article)"
+          "word": "en tout cas",
+          "gloss": "in any case, anyway"
         }
       ]
     },
@@ -5265,21 +5265,22 @@
       ]
     },
     "tout": {
-      "examples": [
+      "lemma": "tout",
+      "stress": "tu",
+      "pos": "det",
+      "gloss": "all, every; everything",
+      "meanings": [
         {
-          "text": "Merci à tous.",
-          "trans": "Thank you, everyone."
+          "en": "all, the whole",
+          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
         },
         {
-          "text": "Oui à tout.",
-          "trans": "Yes to everything."
-        },
-        {
-          "text": "Ça ne va pas du tout.",
-          "trans": "It's not going at all."
+          "en": "tout ce que = all that, everything that",
+          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -5300,32 +5301,23 @@
               "toutes"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "all, everything; everyone",
-      "lemma": "tout",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "everything",
-          "note": "oui à tout = yes to everything"
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
         },
         {
-          "en": "all, everyone",
-          "note": "plural tous (pronounced 'tous' with s): merci à tous"
+          "text": "C'est tout ce que je peux faire.",
+          "trans": "That's all I can do."
         },
         {
-          "en": "at all",
-          "note": "pas du tout"
-        },
-        {
-          "en": "all, the whole",
-          "note": "before a noun: tout le monde = everyone"
+          "text": "Désolé, c'est tout ce que je peux faire.",
+          "trans": "Sorry, that's all I can do."
         }
       ],
-      "moreForms": [],
-      "pos": "pron",
-      "stress": "tu",
       "related": [
         {
           "word": "tout le monde",
@@ -5711,6 +5703,22 @@
       ]
     },
     "ça": {
+      "lemma": "ça",
+      "stress": "sa",
+      "pos": "pron",
+      "gloss": "that, it",
+      "meanings": [
+        {
+          "en": "that, it",
+          "note": "Informal for cela. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+        },
+        {
+          "en": "ça fait... que = it's been...",
+          "note": "With time. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Je prends ça.",
@@ -5725,23 +5733,12 @@
           "trans": "I'll take that. Thanks."
         }
       ],
-      "forms": null,
-      "gloss": "that, it",
-      "lemma": "ça",
-      "meanings": [
+      "related": [
         {
-          "en": "that, it",
-          "note": "informal for cela"
-        },
-        {
-          "en": "ça fait... que = it's been...",
-          "note": "with time"
+          "word": "ça",
+          "gloss": "that"
         }
-      ],
-      "moreForms": [],
-      "pos": "pron",
-      "stress": "sa",
-      "related": []
+      ]
     },
     "épouser": {
       "lemma": "épouser",

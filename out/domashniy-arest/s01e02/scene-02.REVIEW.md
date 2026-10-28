@@ -4,7 +4,7 @@ Title: Вот теперь сорок  (Now It's Forty)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Cues 38-86. Cues 39-40 are unclear and left out; the opening song (78-86) carries no story lines. Arkady tells Pasha to phone Tsygankov (68), so the call to Vitaly Alekseyevich (72-77, the same man, who runs the electricity) is read as Pasha's, including the remark about the cat and the cream. The crude cue 44 -> 'Ты считать не умеешь'; 'вырубить' -> 'отключить'; 'спалился' left out.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

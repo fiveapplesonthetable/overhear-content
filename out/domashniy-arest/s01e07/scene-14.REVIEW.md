@@ -1,10 +1,10 @@
 # domashniy-arest-s01e07-scene-14: review sheet
 
 Title: Рентгеновские снимки  (The X-Rays)
-Level: beginner
+Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест, Сезон 1, Эпизод 7
-Cues 528-563 (00:24:42-00:25:45). Marina and Eduard bring Arkady home in two casts, then rush back for the X-rays.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I spent so much of your time!' He pretends to feel guilty about the long evening.
 - 'Tell me, where are my X-ray pictures?' Suddenly he asks about the hospital files.
 - 'They stayed at the hospital!' Marina realizes they left the X-rays behind.
-- 'How could they stay there? I must urgently run back for them!' Listen for the word meaning 'how' right alongside 'stayed' in this line.
+- 'How could they stay there? I must urgently run back for them!' Notice the self-action verb form on the verb for 'stayed', which directs the action back onto the subject.
 - 'Are you doing this on purpose?' Eduard suspects that Arkady is playing another trick.
 - 'Calm down, Edik! He cannot run anywhere!' Remember that Arkady is under house arrest with an ankle bracelet.
 - 'Oh come on, let me go myself!' Arkady lunges toward the stairs, tangling his plaster casts around Eduard.

@@ -3843,37 +3843,38 @@
       ]
     },
     "en": {
-      "examples": [
-        {
-          "text": "Je pars en vacances.",
-          "trans": "I'm going on holiday."
-        },
-        {
-          "text": "J'en ai assez!",
-          "trans": "I've had enough!"
-        },
-        {
-          "text": "Je suis en retard.",
-          "trans": "I'm late."
-        }
-      ],
-      "forms": null,
-      "gloss": "in; (pronoun) of it, some",
       "lemma": "en",
+      "stress": "ɑ̃",
+      "pos": "prep",
+      "gloss": "in",
       "meanings": [
         {
           "en": "in",
-          "note": "preposition: en vacances, en huit ans"
-        },
-        {
-          "en": "of it, of them",
-          "note": "pronoun before the verb: j'en ai assez, je n'en peux plus"
+          "note": "en retard = late, en vacances = on holiday"
         }
       ],
+      "forms": null,
       "moreForms": [],
-      "pos": "prep",
-      "stress": "ɑ̃",
-      "related": []
+      "examples": [
+        {
+          "text": "Je suis en retard.",
+          "trans": "I'm late."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        },
+        {
+          "text": "Oh non! Je suis en retard.",
+          "trans": "Oh no! I'm late."
+        }
+      ],
+      "related": [
+        {
+          "word": "en retard",
+          "gloss": "late, en vacances = on holiday"
+        }
+      ]
     },
     "encore": {
       "lemma": "encore",
@@ -7489,6 +7490,8 @@
       "stress": "tʁɛ̃",
       "pos": "noun",
       "gloss": "train (railway); ongoing action (en train de)",
+      "gender": "m",
+      "plural": "trains",
       "meanings": [
         {
           "en": "train (railway)",
@@ -7531,20 +7534,10 @@
           "trans": "Jean Gabin! What? Jean Gabin is ruining the money!"
         }
       ],
-      "gender": "m",
-      "plural": "trains",
       "related": [
         {
-          "word": "retraite",
-          "gloss": "retirement"
-        },
-        {
-          "word": "traitement",
-          "gloss": "treatment"
-        },
-        {
-          "word": "traiter",
-          "gloss": "to treat"
+          "word": "prendre le train",
+          "gloss": "to take the train"
         }
       ]
     },

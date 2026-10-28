@@ -5790,21 +5790,22 @@
       ]
     },
     "tout": {
-      "examples": [
+      "lemma": "tout",
+      "stress": "tu",
+      "pos": "det",
+      "gloss": "all, every; everything",
+      "meanings": [
         {
-          "text": "Merci à tous.",
-          "trans": "Thank you, everyone."
+          "en": "all, the whole",
+          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
         },
         {
-          "text": "Oui à tout.",
-          "trans": "Yes to everything."
-        },
-        {
-          "text": "Ça ne va pas du tout.",
-          "trans": "It's not going at all."
+          "en": "tout ce que = all that, everything that",
+          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -5825,32 +5826,23 @@
               "toutes"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "all, everything; everyone",
-      "lemma": "tout",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "everything",
-          "note": "High-frequency French pronoun meaning 'everything'; clitic forms precede the conjugated verb."
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
         },
         {
-          "en": "all, everyone",
-          "note": "plural tous (pronounced 'tous' with s): merci à tous"
+          "text": "C'est tout ce que je peux faire.",
+          "trans": "That's all I can do."
         },
         {
-          "en": "at all",
-          "note": "High-frequency French pronoun meaning 'at all'; clitic forms precede the conjugated verb."
-        },
-        {
-          "en": "all, the whole",
-          "note": "High-frequency French pronoun meaning 'all'; clitic forms precede the conjugated verb."
+          "text": "Désolé, c'est tout ce que je peux faire.",
+          "trans": "Sorry, that's all I can do."
         }
       ],
-      "moreForms": [],
-      "pos": "pron",
-      "stress": "tu",
       "related": [
         {
           "word": "tout le monde",
@@ -6042,23 +6034,10 @@
       ]
     },
     "vous": {
-      "examples": [
-        {
-          "text": "Vous êtes où?",
-          "trans": "Where are you?"
-        },
-        {
-          "text": "Je vous rappelle.",
-          "trans": "I'll call you back."
-        },
-        {
-          "text": "Il vous attend?",
-          "trans": "Is he expecting you?"
-        }
-      ],
-      "forms": null,
-      "gloss": "you (polite or plural)",
       "lemma": "vous",
+      "stress": "vu",
+      "pos": "pron",
+      "gloss": "you (polite or plural)",
       "meanings": [
         {
           "en": "you (polite)",
@@ -6073,9 +6052,22 @@
           "note": "je vous rappelle = I'll call you back"
         }
       ],
+      "forms": null,
       "moreForms": [],
-      "pos": "pron",
-      "stress": "vu",
+      "examples": [
+        {
+          "text": "Vous êtes où?",
+          "trans": "Where are you?"
+        },
+        {
+          "text": "Je vous rappelle.",
+          "trans": "I'll call you back."
+        },
+        {
+          "text": "Il vous attend?",
+          "trans": "Is he expecting you?"
+        }
+      ],
       "related": [
         {
           "word": "tu",
@@ -6304,40 +6296,6 @@
         {
           "word": "peut-être",
           "gloss": "maybe, perhaps"
-        }
-      ]
-    },
-    "s'il te plaît": {
-      "examples": [
-        {
-          "text": "Hervé, s'il te plaît!",
-          "trans": "Hervé, please!"
-        },
-        {
-          "text": "Viens m'aider, s'il te plaît.",
-          "trans": "Come and help me, please."
-        },
-        {
-          "text": "Hervé, s'il te plaît! Je veux mon thé.",
-          "trans": "Hervé, please! I want my tea."
-        }
-      ],
-      "forms": null,
-      "gloss": "please (informal)",
-      "lemma": "s'il te plaît",
-      "meanings": [
-        {
-          "en": "please (to one person you say 'tu' to)",
-          "note": "literally 'if it pleases you'; formal/plural is 's'il vous plaît'"
-        }
-      ],
-      "moreForms": [],
-      "pos": "phrase",
-      "stress": "siltəplɛ",
-      "related": [
-        {
-          "word": "s'il vous plaît",
-          "gloss": "please"
         }
       ]
     }

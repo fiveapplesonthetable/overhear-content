@@ -2992,37 +2992,38 @@
       ]
     },
     "en": {
-      "examples": [
-        {
-          "text": "Je pars en vacances.",
-          "trans": "I'm going on holiday."
-        },
-        {
-          "text": "J'en ai assez!",
-          "trans": "I've had enough!"
-        },
-        {
-          "text": "Je suis en retard.",
-          "trans": "I'm late."
-        }
-      ],
-      "forms": null,
-      "gloss": "in; (pronoun) of it, some",
       "lemma": "en",
+      "stress": "ɑ̃",
+      "pos": "prep",
+      "gloss": "in",
       "meanings": [
         {
           "en": "in",
-          "note": "preposition: en vacances, en huit ans"
-        },
-        {
-          "en": "of it, of them",
-          "note": "pronoun before the verb: j'en ai assez, je n'en peux plus"
+          "note": "en retard = late, en vacances = on holiday"
         }
       ],
+      "forms": null,
       "moreForms": [],
-      "pos": "prep",
-      "stress": "ɑ̃",
-      "related": []
+      "examples": [
+        {
+          "text": "Je suis en retard.",
+          "trans": "I'm late."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        },
+        {
+          "text": "Oh non! Je suis en retard.",
+          "trans": "Oh no! I'm late."
+        }
+      ],
+      "related": [
+        {
+          "word": "en retard",
+          "gloss": "late, en vacances = on holiday"
+        }
+      ]
     },
     "falloir": {
       "lemma": "falloir",
@@ -4623,6 +4624,40 @@
       ]
     },
     "retard": {
+      "lemma": "retard",
+      "stress": "ʁtaʁ",
+      "pos": "noun",
+      "gloss": "delay",
+      "gender": "m",
+      "plural": "retards",
+      "meanings": [
+        {
+          "en": "delay",
+          "note": "Être en retard. Prefix 're-'/'ré-' marks repetition, return, or intensity. Standard masculine noun meaning 'delay'."
+        },
+        {
+          "en": "en retard = late",
+          "note": "Être en retard. Prefix 're-'/'ré-' marks repetition, return, or intensity. Standard masculine noun meaning 'delay'."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le retard",
+              "les retards"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
       "examples": [
         {
           "text": "Je suis en retard.",
@@ -4637,56 +4672,10 @@
           "trans": "Oh no! I'm late."
         }
       ],
-      "forms": {
-        "title": "Singular & plural",
-        "rows": [
-          {
-            "cells": [
-              "Singular",
-              "le retard"
-            ]
-          },
-          {
-            "cells": [
-              "Plural",
-              "les retards"
-            ]
-          }
-        ],
-        "columns": [
-          "Form",
-          "French"
-        ]
-      },
-      "gender": "m",
-      "gloss": "delay",
-      "lemma": "retard",
-      "meanings": [
-        {
-          "en": "delay",
-          "note": "être en retard"
-        },
-        {
-          "en": "en retard = late",
-          "note": "être en retard"
-        }
-      ],
-      "moreForms": [],
-      "plural": "retards",
-      "pos": "noun",
-      "stress": "ʁətaʁ",
       "related": [
-        {
-          "word": "tard",
-          "gloss": "late"
-        },
         {
           "word": "retardement",
           "gloss": "time delay"
-        },
-        {
-          "word": "tardif",
-          "gloss": "late"
         }
       ]
     },

@@ -3298,37 +3298,41 @@
       "lemma": "arrière",
       "stress": "aʁjɛʁ",
       "pos": "adv",
-      "gloss": "backward, back",
+      "gloss": "back, backward, rear",
       "meanings": [
         {
-          "en": "back, backward (direction)",
-          "note": "en arrière = back / backward"
+          "en": "en arrière = backward, behind",
+          "note": "Adverbial phrase. Invariable French adverb meaning 'back'; placed immediately after the conjugated verb in simple tenses."
+        },
+        {
+          "en": "l'arrière = the back, rear",
+          "note": "Masculine noun. Invariable French adverb meaning 'back'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Je reviens un peu en arrière.",
-          "trans": "I am going back a little."
-        },
-        {
-          "text": "Regarde en arrière.",
-          "trans": "Look behind you."
-        },
-        {
           "text": "Un pas en arrière vers l'avant!",
           "trans": "A step backward toward the future!"
+        },
+        {
+          "text": "Regarder en arrière.",
+          "trans": "To look backward."
+        },
+        {
+          "text": "Je reviens un peu en arrière.",
+          "trans": "I am going back a little."
         }
       ],
       "related": [
         {
-          "word": "arriver",
-          "gloss": "to arrive"
+          "word": "en arrière",
+          "gloss": "backwards"
         },
         {
-          "word": "arrivée",
-          "gloss": "arrival"
+          "word": "avant",
+          "gloss": "front, before"
         }
       ]
     },
@@ -3656,44 +3660,36 @@
       ]
     },
     "bien": {
-      "examples": [
-        {
-          "text": "Très bien!",
-          "trans": "Very good!"
-        },
-        {
-          "text": "C'est pour ton bien.",
-          "trans": "It's for your own good."
-        },
-        {
-          "text": "Très bien.",
-          "trans": "Very well."
-        }
-      ],
-      "forms": null,
-      "gloss": "well; good",
       "lemma": "bien",
+      "stress": "bjɛ̃",
+      "pos": "adv",
+      "gloss": "well; good",
       "meanings": [
         {
           "en": "well",
-          "note": "as a masculine noun: pour le bien de = for the good of"
+          "note": "Très bien = very well, fine. Invariable French adverb meaning 'well'; placed immediately after the conjugated verb in simple tenses."
         },
         {
-          "en": "of course (bien sûr)",
-          "note": ""
-        },
-        {
-          "en": "will you (tu veux bien?)",
-          "note": "softens a request"
-        },
-        {
-          "en": "the good, benefit (le bien)",
-          "note": "as a masculine noun: pour le bien de = for the good of"
+          "en": "good, nice",
+          "note": "C'est bien. Invariable French adverb meaning 'well'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
+      "forms": null,
       "moreForms": [],
-      "pos": "adv",
-      "stress": "bjɛ̃",
+      "examples": [
+        {
+          "text": "Très bien.",
+          "trans": "Very well."
+        },
+        {
+          "text": "Elle est bien.",
+          "trans": "She's nice."
+        },
+        {
+          "text": "Très bien. Et vous? Un thé?",
+          "trans": "Very well. And you? Tea?"
+        }
+      ],
       "related": [
         {
           "word": "bien sûr",
@@ -3817,21 +3813,24 @@
       ]
     },
     "cinéma": {
-      "examples": [
+      "lemma": "cinéma",
+      "stress": "sinema",
+      "pos": "noun",
+      "gloss": "cinema, film",
+      "gender": "m",
+      "plural": "cinémas",
+      "meanings": [
         {
-          "text": "Elle travaille dans le cinéma.",
-          "trans": "She works in film."
+          "en": "film, the film industry",
+          "note": "Masculine noun ('le cinéma', plural 'les cinémas') inherited through Romance vocabulary, used in everyday and professional French for 'cinema'."
         },
         {
-          "text": "On va au cinéma?",
-          "trans": "Shall we go to the cinema?"
-        },
-        {
-          "text": "J'ai toujours adoré le cinéma.",
-          "trans": "I've always loved films."
+          "en": "cinema (the building)",
+          "note": "Masculine noun ('le cinéma', plural 'les cinémas') inherited through Romance vocabulary, used in everyday and professional French for 'cinema'."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "sg",
@@ -3845,30 +3844,27 @@
               "les cinémas"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gender": "m",
-      "gloss": "cinema, film",
-      "lemma": "cinéma",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "the film industry",
-          "note": "dans le cinéma = in film"
+          "text": "J'ai toujours adoré le cinéma.",
+          "trans": "I've always loved films."
         },
         {
-          "en": "cinema (the building)",
-          "note": "aller au cinéma"
+          "text": "On va au cinéma?",
+          "trans": "Shall we go to the cinema?"
+        },
+        {
+          "text": "Tu connais beaucoup de monde dans le cinéma. Tu pourrais m'aider.",
+          "trans": "You know lots of people in film. You could help me."
         }
       ],
-      "moreForms": [],
-      "plural": "cinémas",
-      "pos": "noun",
-      "stress": "sinema",
       "related": [
         {
-          "word": "le/la cinéma",
-          "gloss": "the cinema (with article)"
+          "word": "un cinéma / des cinémas",
+          "gloss": "a cinema / cinemas"
         }
       ]
     },
@@ -4249,6 +4245,18 @@
       ]
     },
     "devant": {
+      "lemma": "devant",
+      "stress": "dvɑ̃",
+      "pos": "prep",
+      "gloss": "in front of, before",
+      "meanings": [
+        {
+          "en": "in front of, before (a place or person)",
+          "note": "devant la porte = in front of the door"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Baissez les yeux devant la duchesse!",
@@ -4263,36 +4271,30 @@
           "trans": "You kissed her in front of everyone!"
         }
       ],
-      "forms": null,
-      "gloss": "in front of, before",
-      "lemma": "devant",
-      "meanings": [
+      "related": [
         {
-          "en": "in front of, before (a place or person)",
-          "note": "devant la porte = in front of the door"
+          "word": "devant la porte",
+          "gloss": "in front of the door"
         }
-      ],
-      "moreForms": [],
-      "pos": "prep",
-      "stress": "dəvɑ̃",
-      "related": []
+      ]
     },
     "droit": {
-      "examples": [
+      "lemma": "droit",
+      "stress": "dʁwa",
+      "pos": "adj",
+      "gloss": "straight, upright; right",
+      "meanings": [
         {
-          "text": "Tiens-toi droite.",
-          "trans": "Stand up straight."
+          "en": "straight, upright",
+          "note": "se tenir droit(e) = to stand up straight"
         },
         {
-          "text": "Tournez à droite.",
-          "trans": "Turn right."
-        },
-        {
-          "text": "Tiens-toi droite!",
-          "trans": "Stand up straight!"
+          "en": "right (side)",
+          "note": "À droite = on the right. Descriptive French adjective meaning 'straight'; agrees in gender and number with the noun it modifies."
         }
       ],
       "forms": {
+        "title": "Forms",
         "columns": [
           "",
           "m",
@@ -4313,24 +4315,23 @@
               "droites"
             ]
           }
-        ],
-        "title": "Forms"
+        ]
       },
-      "gloss": "straight, upright; right",
-      "lemma": "droit",
-      "meanings": [
+      "moreForms": [],
+      "examples": [
         {
-          "en": "straight, upright",
-          "note": "se tenir droit(e) = to stand up straight"
+          "text": "Tiens-toi droite!",
+          "trans": "Stand up straight!"
         },
         {
-          "en": "right (side)",
-          "note": "la main droite"
+          "text": "Tournez à droite.",
+          "trans": "Turn right."
+        },
+        {
+          "text": "Emmanuel, elle doit se tenir droite.",
+          "trans": "Emmanuel, she must stand up straight."
         }
       ],
-      "moreForms": [],
-      "pos": "adj",
-      "stress": "dʁwa",
       "related": [
         {
           "word": "droite",
@@ -4596,37 +4597,38 @@
       ]
     },
     "en": {
-      "examples": [
-        {
-          "text": "Je pars en vacances.",
-          "trans": "I'm going on holiday."
-        },
-        {
-          "text": "J'en ai assez!",
-          "trans": "I've had enough!"
-        },
-        {
-          "text": "Je suis en retard.",
-          "trans": "I'm late."
-        }
-      ],
-      "forms": null,
-      "gloss": "in; (pronoun) of it, some",
       "lemma": "en",
+      "stress": "ɑ̃",
+      "pos": "prep",
+      "gloss": "in",
       "meanings": [
         {
           "en": "in",
-          "note": "preposition: en vacances, en huit ans"
-        },
-        {
-          "en": "of it, of them",
-          "note": "pronoun before the verb: j'en ai assez, je n'en peux plus"
+          "note": "en retard = late, en vacances = on holiday"
         }
       ],
+      "forms": null,
       "moreForms": [],
-      "pos": "prep",
-      "stress": "ɑ̃",
-      "related": []
+      "examples": [
+        {
+          "text": "Je suis en retard.",
+          "trans": "I'm late."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        },
+        {
+          "text": "Oh non! Je suis en retard.",
+          "trans": "Oh no! I'm late."
+        }
+      ],
+      "related": [
+        {
+          "word": "en retard",
+          "gloss": "late, en vacances = on holiday"
+        }
+      ]
     },
     "endroit": {
       "lemma": "endroit",
@@ -7311,6 +7313,36 @@
       ]
     },
     "salle": {
+      "lemma": "salle",
+      "stress": "sal",
+      "pos": "noun",
+      "gloss": "room, hall",
+      "gender": "f",
+      "plural": "salles",
+      "meanings": [
+        {
+          "en": "room",
+          "note": "a large or shared room: salle de presse, salle de réunion"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la salle",
+              "les salles"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
       "examples": [
         {
           "text": "Voilà la salle de presse.",
@@ -7325,40 +7357,6 @@
           "trans": "And here's the press room. We call it the shop."
         }
       ],
-      "forms": {
-        "title": "Singular & plural",
-        "rows": [
-          {
-            "cells": [
-              "Singular",
-              "la salle"
-            ]
-          },
-          {
-            "cells": [
-              "Plural",
-              "les salles"
-            ]
-          }
-        ],
-        "columns": [
-          "Form",
-          "French"
-        ]
-      },
-      "gender": "f",
-      "gloss": "room, hall",
-      "lemma": "salle",
-      "meanings": [
-        {
-          "en": "room",
-          "note": "a large or shared room: salle de presse, salle de réunion"
-        }
-      ],
-      "moreForms": [],
-      "plural": "salles",
-      "pos": "noun",
-      "stress": "sal",
       "related": [
         {
           "word": "salle de cinéma",
@@ -7708,6 +7706,18 @@
       ]
     },
     "très": {
+      "lemma": "très",
+      "stress": "tʁɛ",
+      "pos": "adv",
+      "gloss": "very",
+      "meanings": [
+        {
+          "en": "very",
+          "note": "Invariable French adverb meaning 'very'; placed immediately after the conjugated verb in simple tenses."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
         {
           "text": "Très bien.",
@@ -7722,18 +7732,6 @@
           "trans": "Very well. And you? Tea?"
         }
       ],
-      "forms": null,
-      "gloss": "very",
-      "lemma": "très",
-      "meanings": [
-        {
-          "en": "very",
-          "note": "Everyday French adv meaning 'very'."
-        }
-      ],
-      "moreForms": [],
-      "pos": "adv",
-      "stress": "tʁɛ",
       "related": [
         {
           "word": "très bien",

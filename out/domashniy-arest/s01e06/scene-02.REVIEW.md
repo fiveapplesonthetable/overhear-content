@@ -4,14 +4,14 @@ Title: Ваш долг полностью аннулирован  (Your Debt Is 
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.06
-Cues 51-72. Garbled 'Эдуард Валентинович' (60) is restored to 'Эдуард Владимирович', 'Ветыш' (68) is restored to 'Костик', and 'Сильно ищи' (71) is restored to 'Сильный ищет'. Cues 69-70 are omitted.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Дядя Гриша | Здравствуйте, Марина Сергеевна! | Hello, Marina Sergeyevna! | #51 00:04:11: Здравствуйте, Марина Сергеевна | verbatim |
-| 2 | Аня | Что вам опять надо? | What do you need again? | #52 00:04:34: Что вам опять надо | verbatim |
+| 2 | Костик | Что вам опять надо? | What do you need again? | #52 00:04:34: Что вам опять надо | verbatim |
 | 3 | Дядя Гриша | Наша организация приносит свои извинения. | Our organization offers its apologies. | #53 00:04:35: Наша организация приносит свои извинения | verbatim |
 | 4 | Дядя Гриша | Мы с радостью сообщаем вам новость. Ваш долг полностью аннулирован! | We gladly inform you of the news. Your debt is completely canceled! | #54 00:04:39: с радостью<br>#55 00:04:43: ваш долг полностью аннулирован | adapted: cue 54 'за возникшее недоразумение и с радостью сообщает' simplified |
 | 5 | Дядя Гриша | Поздравляем вас! Константин, дай цветы. | Congratulations to you! Konstantin, give her the flowers. | #56 00:04:47: Поздравляем<br>#57 00:04:48: Константин | adapted: 'вас' and 'дай цветы' added |
@@ -28,20 +28,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello, Marina Sergeyevna!' Today Uncle Grisha greets Marina politely by her first name and patronymic.
-- 'What do you need again?' Literally 'what to you again is necessary?', with 'to you' in the dative case.
+- 'What do you need again?' Literally 'what to you again is necessary?', with 'to you' in the 'to/for' form.
 - 'Our organization offers its apologies.' Literally 'brings its apologies', using the formal plural noun.
 - 'We gladly inform you of the news.' Literally 'with joy we report to you the news'.
-- 'Your debt is completely canceled!' The short passive participle matches the masculine noun 'debt'.
+- 'Your debt is completely canceled!' The short passive form matches the masculine noun 'debt'.
 - 'Congratulations to you! Konstantin, give her the flowers.' Uncle Grisha addresses Kostik by his full name.
 - 'This is a small gift from our establishment.' In Russian service talk, a 'compliment from the house' means a free gift on the house.
 - 'And one more thing. Eduard Vladimirovich asked us to pass on his regards.' Marina has no idea that Arkady was the one who actually sent his bodyguards to rescue her.
-- 'He cannot live without you!' The preposition 'without' always takes the genitive case.
+- 'He cannot live without you!' The preposition 'without' always takes the 'of' form.
 - 'In short, he asked you to call.' Kostik holds the bouquet out to Marina.
 - 'Yes, please, take the flowers.' Marina takes the bouquet in surprise.
 - 'And, Marina Sergeyevna, read everything carefully!' Before leaving, Uncle Grisha offers one piece of advice.
-- 'Especially in fine print!' Literally 'by small font', using the instrumental case.
+- 'Especially in fine print!' Literally 'by small font', using the 'with/as' form.
 - 'Not all companies are as kind as ours.' Then Marina closes the door, and the two bruised collectors walk down the stairs.
 - 'Kostik, what are you smiling at?' In colloquial speech, 'of what' is often used to mean 'why'.
-- 'Because of you I just humiliated myself!' The preposition for 'because of' (for a bad reason) takes the genitive case.
+- 'Because of you I just humiliated myself!' The preposition for 'because of' (for a bad reason) takes the 'of' form.
 - 'The strong man looks for a way, and the weak man looks for an excuse.' Uncle Grisha quotes a solemn proverb.
 - 'I'm not looking for anything. That is how life passes!' Kostik sighs philosophically, echoing the phrase Arkady taught them the day before.

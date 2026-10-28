@@ -19,11 +19,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Илона | Аркадий Борисович — очень опытный политик. И он взяток не брал. | Arkady Borisovich is a very experienced politician. And he didn't take bribes. | #329 00:16:30: Аркадий Борисович<br>#329 00:16:30: очень опытный политик<br>#330 00:16:33: И он взяток не брал | verbatim |
 | 8 | Илона | Он всегда поддерживал инвалидов! | He always supported disabled people! | #337 00:17:01: Всегда<br>#337 00:17:01: он поддерживал<br>#337 00:17:01: инвалидов | verbatim |
 | 9 | Геннадий Андреевич | Пятнадцать лет мы просим новое здание! Аникеев лично сюда приезжал, и что? | For fifteen years we've been asking for a new building! Anikeev came here in person, and what? | #333 00:16:48: Пятнадцать лет мы<br>#333 00:16:48: просим<br>#334 00:16:52: Аникеев<br>#334 00:16:52: лично<br>#334 00:16:52: сюда приезжал<br>#335 00:16:56: И что | verbatim |
-| 10 | Геннадий Андреевич | А вот Павел Юрьевич нам помог! Он сегодня пообещал построить нам новое здание. | Whereas Pavel Yuryevich helped us! Today he promised to build us a new building. | #343 00:17:13: А вот Павел<br>#343 00:17:13: сегодня пообещал нам<br>#343 00:17:13: построить новое здание | adapted: cue 343 slip 'Юрий Часипенко' -> 'Юрьевич', split into two short sentences |
+| 10 | Геннадий Андреевич | Павел Юрьевич нам помог! Он пообещал построить нам новое здание. | Whereas Pavel Yuryevich helped us! Today he promised to build us a new building. | #343 00:17:13: Павел<br>#343 00:17:13: пообещал нам<br>#343 00:17:13: построить новое здание | adapted: cue 343 slip 'Юрий Часипенко' -> 'Юрьевич', split into two short sentences |
 | 11 | Геннадий Андреевич | Поэтому мы будем поддерживать его! | Therefore we will support him! | #344 00:17:21: Поэтому мы будем поддерживать его | verbatim |
-| 12 | Илона | Алло, Аркадий! Слепые тебя ненавидят. Куда ты дел их деньги на новое здание? | Hello, Arkady! The blind people hate you. Where did you put their money for the new building? | #346 00:17:39: Слепые тебя ненавидят<br>#348 00:17:44: Куда ты дел их деньги на новое здание | verbatim |
+| 12 | Илона | Аркадий, слепые тебя ненавидят! Куда ты дел деньги на новое здание? | Hello, Arkady! The blind people hate you. Where did you put their money for the new building? | #346 00:17:39: Слепые тебя ненавидят<br>#348 00:17:44: деньги на новое здание | verbatim |
 | 13 | Аня | Я их ещё два года назад им выделил! Я сам приказ подписывал! | I allocated it to them two years ago! I signed the order myself! | #349 00:17:46: Я их еще два года назад им выделил<br>#352 00:17:53: Я сам приказ подписывал | verbatim |
-| 14 | Илона | А почему они тогда в старом здании? Осипенко сказал, что деньги забрал ты! | Then why are they in the old building? Osipenko said that you took the money! | #350 00:17:49: Осипенко<br>#350 00:17:49: сказал, что<br>#353 00:17:54: почему они<br>#353 00:17:54: в старом здании | adapted: cues 350 and 353 combined into two short A1 sentences |
+| 14 | Илона | Почему они в старом здании? Осипенко сказал, что деньги забрал ты! | Then why are they in the old building? Osipenko said that you took the money! | #350 00:17:49: Осипенко<br>#350 00:17:49: сказал, что<br>#353 00:17:54: почему они<br>#353 00:17:54: в старом здании | adapted: cues 350 and 353 combined into two short A1 sentences |
 | 15 | Аня | Что за глупости? Значит, Осипенко сам эти деньги украл! | What nonsense? That means Osipenko stole that money himself! | #351 00:17:52: Что за<br>#354 00:17:57: значит, Осипенко сам эти | adapted: cue 351 'бред' -> 'глупости', cue 354 slang 'бабки спер' -> 'деньги украл' |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -34,12 +34,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you see what he did here? He will lose the election now!' Ilona tries to soften his anger.
 - 'No, our candidate is very ashamed of this.' Literally 'to our candidate for this it is very shameful'. Then one of the workers mentions Arkady.
 - 'Why are we even listening? That bribe-taker Anikeev is with them!' Ilona loyally defends Arkady.
-- 'Arkady Borisovich is a very experienced politician. And he didn't take bribes.' Notice the genitive plural 'of bribes' after the negative verb.
+- 'Arkady Borisovich is a very experienced politician. And he didn't take bribes.' Notice the plural 'of' form 'of bribes' after the negative verb.
 - 'He always supported disabled people!' That makes Gennady Andreyevich laugh bitterly.
 - 'For fifteen years we've been asking for a new building! Anikeev came here in person, and what?' Then he reveals who already visited them that morning.
-- 'Whereas Pavel Yuryevich helped us! Today he promised to build us a new building.' Pasha Osipenko beat them to it.
+- 'Pavel Yuryevich helped us! He promised to build us a new building.' Pasha Osipenko beat them to it.
 - 'Therefore we will support him!' Stepping outside, Ilona immediately phones Arkady, who is hiding in the communal flat's bathroom while old Klavdia bangs on the door.
-- 'Hello, Arkady! The blind people hate you. Where did you put their money for the new building?' Arkady is genuinely shocked.
+- 'Arkady, the blind people hate you! Where did you put the money for the new building?' Arkady is genuinely shocked.
 - 'I allocated it to them two years ago! I signed the order myself!' For once, Arkady actually did something good as mayor.
-- 'Then why are they in the old building? Osipenko said that you took the money!' In the show Osipenko told them Arkady used their money to build himself a hunting lodge. Arkady puts two and two together.
+- 'Why are they in the old building? Osipenko said that you took the money!' In the show Osipenko told them Arkady used their money to build himself a hunting lodge. Arkady puts two and two together.
 - 'What nonsense? That means Osipenko stole that money himself!' While working as Arkady's deputy, Pasha quietly stole the money meant for the blind society's new building.

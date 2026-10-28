@@ -10,21 +10,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Эдуард Владимирович, я на минуточку. Я спасла монастырь! | Eduard Vladimirovich, I'll only be a minute. I saved the monastery! | #512 00:31:25: Я на минуточку<br>#514 00:31:37: Я спасла<br>#514 00:31:37: монастырь | adapted: the dean's name added as address; the town's name before 'монастырь' dropped |
+| 1 | Марина | Эдуард Владимирович, я на минуточку. Я спасла монастырь! | Eduard Vladimirovich, I'll only be a minute. I saved the monastery! | #512 00:31:25: Я на минуточку<br>#514 00:31:37: Я спасла<br>#514 00:31:37: монастырь | adapted: the dean's name added as address; the town's name before 'монастырь' dropped |
 | 2 | Эдуард Владимирович | Марина Сергеевна, я уже знаю. Мне звонили из мэрии. | Marina Sergeyevna, I already know. The town hall called me. | #517 00:31:45: Марина Сергеевна, я уже<br>#518 00:31:47: мне звонили из мэрии | adapted: 'в курсе этого всего' -> 'знаю' |
 | 3 | Эдуард Владимирович | Ты же знаешь, какие это мерзавцы. | You know what scoundrels they are. | #520 00:31:54: Ты же знаешь, какие это мерзавцы | verbatim |
-| 4 | Аня | Ну, что вы предлагаете? | So what do you suggest? | #523 00:32:04: Ну, что | adapted: 'предлагаешь' -> 'вы предлагаете': in the story she keeps the polite form with her dean |
+| 4 | Марина | Ну, что вы предлагаете? | So what do you suggest? | #523 00:32:04: Ну, что | adapted: 'предлагаешь' -> 'вы предлагаете': in the story she keeps the polite form with her dean |
 | 5 | Эдуард Владимирович | Ты преподавай. А они пусть строят свои торговые центры. | You teach. And let them build their shopping centres. | #525 00:32:08: Ты преподавай<br>#526 00:32:11: пусть строят свои торговые | adapted: 'эти мерзавцы' -> 'они'; 'комплексы' -> 'центры' |
 | 6 | Эдуард Владимирович | Их накажет история. | History will punish them. | #527 00:32:15: Их накажет история | verbatim |
-| 7 | Аня | То есть просто стоять и смотреть? | So we just stand and watch? | #528 00:32:16: То есть<br>#528 00:32:16: просто стоять и смотреть | adapted: the end of the question (how they demolish monuments) dropped |
+| 7 | Марина | То есть просто стоять и смотреть? | So we just stand and watch? | #528 00:32:16: То есть<br>#528 00:32:16: просто стоять и смотреть | adapted: the end of the question (how they demolish monuments) dropped |
 | 8 | Эдуард Владимирович | Марина, у нас нет выбора. | Marina, we have no choice. | #529 00:32:20: Марина, у нас нет выбора | verbatim |
-| 9 | Аня | Эдуард Владимирович, не этому вы нас учили. | Eduard Vladimirovich, that's not what you taught us. | #530 00:32:22: Эдуард Владимирович, не этому вы нас учили | verbatim |
+| 9 | Марина | Эдуард Владимирович, не этому вы нас учили. | Eduard Vladimirovich, that's not what you taught us. | #530 00:32:22: Эдуард Владимирович, не этому вы нас учили | verbatim |
 | 10 | Эдуард Владимирович | Марина, что ты делаешь? | Marina, what are you doing? | #531 00:32:25: Марина, что ты делаешь | verbatim |
-| 11 | Аня | А я глаза на это закрывать не буду. Я подниму людей! | Well, I'm not going to close my eyes to this. I'll rally people! | #532 00:32:26: глаза на это закрывать не буду<br>#534 00:32:33: Я подниму | adapted: 'Знаете, а я вот' -> 'А я'; 'общественность' (the public) -> 'людей' |
-| 12 | Аня | Вы меня уволите? | Are you going to fire me? | new | new: adapted from cue 536 'Уволишь меня?', switched to the polite form like her other lines |
+| 11 | Марина | А я глаза на это закрывать не буду. Я подниму людей! | Well, I'm not going to close my eyes to this. I'll rally people! | #532 00:32:26: глаза на это закрывать не буду<br>#534 00:32:33: Я подниму | adapted: 'Знаете, а я вот' -> 'А я'; 'общественность' (the public) -> 'людей' |
+| 12 | Марина | Вы меня уволите? | Are you going to fire me? | new | new: adapted from cue 536 'Уволишь меня?', switched to the polite form like her other lines |
 | 13 | Эдуард Владимирович | Я этого не хочу. Но вспомни, у тебя сын болеет. | I don't want that. But remember, your son is ill. | #539 00:32:50: Вспомни, у тебя сын | adapted: first sentence new (sums up cues 535-537); 'сын больной' -> 'сын болеет' |
 | 14 | Эдуард Владимирович | Я прошу тебя, отрекись, Марина. Галилей тоже отрёкся. | I'm begging you, take it back, Marina. Galileo took it back too. | #551 00:33:13: Я прошу тебя, отрекись, Марина<br>#552 00:33:18: тоже отрекся | adapted: 'Галилей, он тоже...' -> 'Галилей тоже...'; 'но остался великим ученым' dropped |
-| 15 | Аня | Вот и возьмите на работу Галилея. | Then go and hire Galileo. | #553 00:33:22: на работу Галилея | adapted: 'возьми' -> 'возьмите': she keeps the polite form |
+| 15 | Марина | Вот и возьмите на работу Галилея. | Then go and hire Galileo. | #553 00:33:22: на работу Галилея | adapted: 'возьми' -> 'возьмите': she keeps the polite form |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
