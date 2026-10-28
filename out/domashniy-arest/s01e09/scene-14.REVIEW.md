@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What strange documents did you send me?' Colloquial question word phrase expressing surprise or irritation.
-- 'These are official documents regarding our divorce.' Location case phrase indicating topic or subject matter.
-- 'Vanya, this is not funny at all anymore.' Short neuter descriptive word with intensifying adverb.
-- 'If I offended you, then forgive me.' Conditional clause followed by command of forgiveness.
-- 'Let us go home right away, Nina.' Inclusive command of motion directed toward the home.
-- 'I cooked your favourite navy-style pasta.' Compound culinary term with adverbial phrase modifying pasta.
-- 'Thanks, but I will eat at a restaurant today.' Future-tense form with location in the location form.
-- 'If you want, we can go to a restaurant together.' Polite colloquial invitation using the second person present.
-- 'No, I am not going there alone.' Feminine short adjective with negative particle expressing company.
-- 'In what sense are you not going alone?' Idiomatic location question demanding clarification of meaning.
-- 'I need to arrange a new life somehow.' Impersonal modal construction with 'to me/you' pronoun of the experiencer.
-- 'Samsonova, stop this nonsense and go home!' Stern command addressed by surname to demand obedience.
+- 'What strange documents did you send me?' Waving the fake court summons, Nina demands to know what kind of weird papers he sent her.
+- 'These are official documents regarding our divorce.' Trying to stick to Arkady's script, Samsonov stiffly replies that they are official divorce papers.
+- 'Vanya, this is not funny at all anymore.' Nina drops the sarcasm and warns him that this prank has stopped being funny.
+- 'If I offended you, then forgive me.' Seeing she is genuinely hurt, Samsonov immediately softens and offers a half-apology so she can back down.
+- 'Let us go home right away, Nina.' Hoping the bluff worked, he urges her to come straight home with him now.
+- 'I cooked your favourite navy-style pasta.' To sweeten the peace deal, he brags that he cooked her favorite dish of pasta with minced meat.
+- 'Thanks, but I will eat at a restaurant today.' Instead of melting, Nina coolly turns down his home cooking and says she is dining out tonight.
+- 'If you want, we can go to a restaurant together.' Thinking she wants a fancy night out, Samsonov offers to take her to the restaurant himself.
+- 'No, I am not going there alone.' Nina drops the bombshell calmly: she already has company for dinner.
+- 'In what sense are you not going alone?' Blindsided, Samsonov demands to know what she means by 'not going alone.'
+- 'I need to arrange a new life somehow.' Since he supposedly wants a divorce, Nina says she has to start building a new life for herself.
+- 'Samsonova, stop this nonsense and go home!' Calling his wife by her last name like a drill sergeant, Samsonov drops the act and orders her home.

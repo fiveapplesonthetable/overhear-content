@@ -25,12 +25,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, Vanya, get up, get up!' The neighbour shakes Ivan by the shoulder. Notice the command form of the verb.
-- 'Come on, get up, you'll freeze in the snow!' Future tense verb warning him of the freezing cold.
+- 'Hey, Vanya, get up, get up!' A passing neighbor shakes Ivan by the shoulder to rouse him from the snowy bench.
+- 'Come on, get up, you'll freeze in the snow!' Sleeping outdoors in a Russian winter is a quick way to freeze to death.
 - 'Arise, vast country...' Ivan groggily mutters the opening line of the famous World War II anthem 'The Sacred War'.
 - 'What country? Get on your feet!' The neighbour urges him to stand up before someone calls the police.
 - 'A vast country...' Ivan repeats the lyrics like a broken record in his half-conscious state.
-- 'You slept here all night!' Notice the single-action form verb with the object-form of time duration.
+- 'You slept here all night!' The neighbor cannot believe Ivan spent the entire freezing night out on that bench.
 - 'Where am I? What time is it?' Ivan slowly opens his bloodshot eyes and looks around the courtyard.
 - 'It's already morning, people are walking past.' The neighbour points out neighbours heading to work.
 - 'Lyokha! Where is my friend Lyokha?' Ivan remembers someone he promised something to.

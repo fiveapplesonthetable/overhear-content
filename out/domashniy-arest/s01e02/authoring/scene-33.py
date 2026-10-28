@@ -39,7 +39,7 @@ WALK = [
     (0, 'Ну что, Аркаша?', "'So, Arkasha?' At this point, Arkasha is the childhood form of Arkady, and from Pasha it sounds mocking. Then comes the joke."),
     (0, 'Наступила ночь, просыпается мафия.', "'Night has fallen, the mafia wakes up.' These are the words of the host in a popular party game called Mafia, where the 'mafia' players secretly wake up at night. Arkady is not amused."),
     (1, None, "'What kind of jokes are these?' The two little words at the start together mean 'what kind of', and they often sound annoyed. Pasha brushes it off and gets to the point."),
-    (2, None, "'Normal jokes. Where's the money?' The word for money only exists in the plural, so it behaves like 'they'. Arkady answers with a famous phrase."),
+    (2, None, "'Normal jokes. Where's the money?' Money is always plural in Russian, so it acts like 'they'. Arkady replies with a line every Russian knows by heart."),
     (3, None, "'There's no money, but hang in there.' This is a well-known phrase from Russian public life that people quote all the time as a joke. After 'there's no', money takes the ending for 'of'. Pasha turns it back on him."),
     (4, None, "'You're the one who should hang in there.' Here, Arkady used the polite plural form of the command; Pasha uses the short, familiar one. Then he calls in the muscle."),
     (5, None, "'Vitalik, have a word with him.' The command ends the plural way, because Pasha means all the guards, not just Vitalik. And 'a word' here is not a friendly chat. But Vitalik has news."),

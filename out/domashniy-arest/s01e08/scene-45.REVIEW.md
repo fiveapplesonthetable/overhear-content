@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Some don't, but some do!' Lavrov smirks with a sly gleam in his eye.
 - 'Who do you have in mind?' Zavarzin asks, leaning closer to the desk.
 - 'Eduard Valentinovich Kargopolov.' Lavrov pulls up the file on Marina's former dean.
-- 'Marina Belinkina's former lover.' Notice the masculine noun for a lover in the basic dictionary form.
+- 'Marina Belinkina's former lover.' Lavrov reads the next line in the dossier: the dean used to be Marina's secret partner.
 - 'This is a very interesting character.' Lavrov notes Kargopolov's shady academic bookkeeping.
-- 'He likes to help himself to public funds.' The 'with/as' form is used with the self-action verb form meaning 'to make use of'.
+- 'He likes to help himself to public funds.' Like many crooked officials in Sineozersk, the dean has a habit of dipping his hands into the university budget.
 - 'Excellent plan, Comrade Major!' Zavarzin grins, realizing they can use the dean's corruption to squeeze Marina and Arkady.

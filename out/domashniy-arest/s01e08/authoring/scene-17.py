@@ -32,15 +32,15 @@ STORY = [
     ('first_man', 'Отлично, закрывай скорее багажник!', 'Great, close the trunk quickly!', [], 'concluding dialogue line'),
 ]
 WALK = [
-    (0, None, "'Alright, come on, don't be upset.' The negative command reassures someone who is worried."),
-    (1, None, "'Wait here for now.' The adverb indicates a temporary pause while waiting."),
-    (3, None, "'Yes, get it from the car.' The command form tells him where to collect the items."),
-    (4, None, "'Careful, this box is very heavy!' The short adjective describes the heavy load."),
+    (0, None, "'Alright, come on, don't be upset.' The first man tries to calm his nervous companion as they load up the car."),
+    (1, None, "'Wait here for now.' He tells the others to stay put for a moment by the curb."),
+    (3, None, "'Yes, get it from the car.' They can pull the rest of the gear straight out of the back seat."),
+    (4, None, "'Careful, this box is very heavy!' The second man grunts under the weight of a crate and warns his partner to watch his grip."),
     (5, 'Всё хорошо?', "'Is everything okay?' A common Russian phrase asking if things are fine."),
-    (7, None, "'I will bring one more box now.' The adverb indicates an additional item coming."),
-    (8, None, "'Hurry up, it is cold outside.' The impersonal phrase describes the freezing weather."),
-    (9, None, "'Now it will be just right.' The future tense promises that the job will soon be done."),
-    (11, None, "'Ow, I do not have gloves.' The negative construction uses the 'of' form."),
+    (7, None, "'I will bring one more box now.' There is still one more heavy box waiting to be carried out."),
+    (8, None, "'Hurry up, it is cold outside.' Standing around in the bitter street air makes both men eager to finish the job."),
+    (9, None, "'Now it will be just right.' One last push and everything will be packed and ready to roll."),
+    (11, None, "'Ow, I do not have gloves.' Grabbing freezing metal and wood barehanded stings, and he wishes he had brought gloves."),
     (12, None, "'Alright, give it here quickly!' The colloquial command urges him to hurry up."),
     (13, None, "'Great, close the trunk quickly!' They finish loading and shut the car trunk."),
 ]

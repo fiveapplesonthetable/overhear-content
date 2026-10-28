@@ -26,11 +26,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Nina, I have a second ticket.' Ivan awkwardly attempts to make peace with an offering.
-- 'Tomorrow evening there is a concert in town.' The adverbial phrase sets the time and venue.
+- 'Tomorrow evening there is a concert in town.' He mentions a big concert in town the next evening as casually as he can.
 - 'And what are you suggesting?' Nina asks skeptically about his real intentions.
-- 'If you want, let's go together.' The conditional clause expresses an informal invitation.
+- 'If you want, let's go together.' Trying to sound nonchalant, Ivan invites his wife out for the evening.
 - 'Now that is a real man!' Nina responds with heavy dripping sarcasm.
-- 'How tactful and kind you are!' The exclamatory adjectives mock Ivan's sudden politeness.
+- 'How tactful and kind you are!' Nina lays the irony on thick, praising how wonderfully thoughtful he has suddenly become.
 - 'Does that mean you agree to go?' Ivan gullibly misreads her sarcastic remarks as genuine.
 - 'No, of course not! I won't go.' Nina quickly dashes his hopes with a blunt refusal.
 - 'Better go with Klavdia Viktorovna.' Nina sarcastically suggests the elderly neighbor instead.

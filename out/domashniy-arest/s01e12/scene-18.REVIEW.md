@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Attention, everyone remain in your places!' Interjection demanding attention with an action verb expressing a command command.
-- 'The FSB special group is operating, drop weapons!' Present tense verb governing a feminine subject followed by an command form.
-- 'Calmly, major, regional police are operating here.' Adverb of manner with direct-address address and a feminine noun phrase.
-- 'Who is your chief commander here?' Question word subject with a location pronoun and masculine nominal descriptive phrase.
-- 'Major General of Police Viktor Stepanovich is speaking.' Third-person present verb with official rank and patronymic.
-- 'We are conducting a secret operation here.' First-person plural verb governing an object-form feminine noun phrase.
-- 'You must not act without my knowledge.' Plural modal adjective governing an ongoing-action form basic verb form and 'of'-form location phrase.
-- 'We have been catching dangerous corrupt officials for six months.' Present ongoing-action form governing an animate object-form noun phrase.
-- 'Let us calmly resolve this complex problem.' Hortative particle governing a future-tense form and object-form noun phrase.
-- 'Do you have specific proposals?' Possessive construction governing plural subject-form subject.
-- 'This will be our shared joint operation.' Demonstrative subject with future linking word governing a feminine descriptive phrase subject-form.
-- 'Good, we are documenting the arrest together.' Affirmative adverb with a first-person plural verb and neuter direct object.
+- 'Attention, everyone remain in your places!' Major Lavrov takes control of the warehouse floor with the crisp authority of a career intelligence officer.
+- 'The FSB special group is operating, drop weapons!' Why is he shouting this again? Because a second armed group—the governor's local police—has just walked in on his raid.
+- 'Calmly, major, regional police are operating here.' Viktor Stepanovich strolls in wearing a general's uniform, trying to pull rank on the federal agents.
+- 'Who is your chief commander here?' Lavrov isn't intimidated by local badges; he demands to know who is running this rival squad.
+- 'Major General of Police Viktor Stepanovich is speaking.' Announcing himself in the third person with his full title is the governor's way of flexing every bit of muscle he has.
+- 'We are conducting a secret operation here.' Federal security doesn't report to regional governors, and Lavrov makes that boundary clear.
+- 'You must not act without my knowledge.' "Bez moyego vedoma" means "without my knowledge"—the phrase of a local tsar who thinks nothing in the province should happen behind his back.
+- 'We have been catching dangerous corrupt officials for six months.' Half a year of wiretaps and stakeouts went into this sting, and Lavrov refuses to let the governor spoil it.
+- 'Let us calmly resolve this complex problem.' Realizing he cannot bully the FSB out of the building, Stepanovich switches to his smooth dealmaker voice.
+- 'Do you have specific proposals?' Even a federal major knows when to listen to a political compromise.
+- 'This will be our shared joint operation.' Here is the governor's clever pivot: instead of going down with Osipenko, he claims credit for catching him alongside the FSB.
+- 'Good, we are documenting the arrest together.' Lavrov agrees to share the paperwork—for now—letting the governor think he has wiggled off the hook.

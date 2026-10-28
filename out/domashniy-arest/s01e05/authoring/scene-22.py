@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'You know what's owed! Danya, is there a quiet room here?' Right then, Golovkin gladly points Samson and Nina toward a bedroom upstairs."),
     (2, None, "'Vanyush, come on, you're still weak. Maybe we shouldn't?' Notice the affectionate diminutive of 'sickly' or 'weak'."),
     (3, None, "'Let's go, weakling! I'll show you how weak I am!' Samson marches her up the stairs."),
-    (4, None, "'Vanya, look! — Look, it works! We'll find some music right now.' Nina combines 'Vanya' with 'we'll find' in a natural Russian turn of phrase."),
+    (4, None, "'Vanya, look! — Look, it works! We'll find some music right now.' Delighted that the new television works, Nina calls Vanya over to find some music."),
     (5, None, "'And right away it's about Ivan Samsonov!' Notice how the preposition 'about' becomes two letters before a word starting with a vowel."),
     (6, None, "'What are you doing, that's someone else's! Are you with me or do you want to listen to the news?' Panicked that Samson will hear what he really did, Nina snaps the radio off. Just then, smoke drifts up from the kitchen oven and they rush back downstairs."),
     (7, None, "'Can you believe it, they forgot it in the oven! Yul, step out.' In the kitchen, sixteen-year-old Yulia is still standing at the sink with a stack of dirty plates. Being told to leave the room is the last straw."),

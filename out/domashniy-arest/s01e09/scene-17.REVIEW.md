@@ -28,8 +28,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Now put your hand on mine.' The command form guides his hand to create a tender appearance.
-- 'Now treat me to some fruit.' The construction uses the 'with/as' form for the food offered.
+- 'Now put your hand on mine.' Stepping up the performance for Nina's benefit, Ilona tells Samsonov to place his hand over hers.
+- 'Now treat me to some fruit.' Next she directs him to feed her a piece of fruit like a doting suitor.
 - 'And what are you doing here?' Samsonov feigns casual surprise at his wife's sudden arrival.
 - 'That is none of your business.' The phrase firmly rejects her attempt to interrogate him.
-- 'You and I are getting divorced.' The present tense verb expresses a confirmed personal decision.
+- 'You and I are getting divorced.' Trying to sound cold and decisive in front of Ilona, Samsonov reminds Nina that they are splitting up.

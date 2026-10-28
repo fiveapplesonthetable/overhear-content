@@ -27,19 +27,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Comrade Major, wake up!' Zavarzin alerts Major Lavrov from the front seat.
-- 'There is important news here.' The adjective agrees with the feminine noun.
+- 'There is important news here.' Zavarzin has just heard something big over the headphones.
 - 'What happened?' Lavrov rubs his eyes.
-- 'Speak more quickly.' The comparative adverb demands brevity.
+- 'Speak more quickly.' Still sleepy, Lavrov tells his subordinate to get to the point faster.
 - 'Wait, they gave them a quota for surgery!' Zavarzin shares the wiretap intercept.
 - 'An interesting coincidence.' Literally 'it coincided interestingly'.
-- 'I don't believe in such coincidences.' The preposition takes the object-form plural.
+- 'I don't believe in such coincidences.' A seasoned intelligence officer like Lavrov never buys a convenient coincidence.
 - 'What if someone took pity on her boy?' Zavarzin wonders if an officer intervened.
 - 'Comrade Major, look what I was thinking!' Young Lyova pipes up from the back.
 - 'What if it was he who helped her?' Lyova points his finger directly at Zavarzin.
 - 'After all, he stood up for her!' Lyova remembers Zavarzin defending Marina from the debt collectors.
 - 'Lieutenant Sokolov, what are you thinking with?' Major Lavrov scolds him for the absurd accusation.
 - 'Captain Zavarzin has proven himself in the best light.' Lavrov defends his senior agent.
-- 'He has an impeccable service record.' This phrase describes the record.
+- 'He has an impeccable service record.' Lavrov reminds the van that Zavarzin's career file is spotless.
 - 'Shameful!' Lavrov is embarrassed by his nephew's clumsy detective work.
 - 'I was just putting forward a hypothesis.' Lyova tries to defend his theory.
 - 'Well, push it right back!' Lavrov puts an end to the ridiculous suspicion firmly.

@@ -54,6 +54,6 @@ WALK = [
     (13, 'Я контролировала ситуацию.', "'I was controlling the situation.' Fed up with both of them, Arkady waves his hand and walks out. Klavdia immediately turns back to Marina."),
     (14, 'Беги, Марина, пока не поздно!', "'Run, Marina, before it's too late!' Literally 'while it is not late'."),
     (14, 'А ключи можешь мне оставить.', "'And you can leave me the keys.' And then Klavdia reveals her own little angle."),
-    (15, 'Я за комнаткой пригляжу.', "'I'll look after the little room.' The verb takes the preposition 'behind' or 'after' with the 'with/as' form."),
+    (15, 'Я за комнаткой пригляжу.', "'I'll look after the little room.' Russian says you look 'behind' or 'after' a room when you keep an eye on it."),
     (15, 'Может, сдам кому, а денежки пополам!', "'Maybe I'll rent it to someone, and we'll split the money!' The final word literally means 'in half' or 'fifty-fifty'."),
 ]

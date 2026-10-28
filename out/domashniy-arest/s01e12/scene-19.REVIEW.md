@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Marina, let's end this dangerous protest.' direct-address address with a hortative particle governing an ongoing-action form basic verb form and object-form phrase.
-- 'Let's go home from here right now.' single-action form command form of motion followed by spatial and temporal adverbs.
-- 'Listen, Samsonov, you wanted to leave town.' Command form of attention with a past modal verb governing a directional basic verb form.
-- 'This has long not been your city.' Demonstrative subject with temporal adverbs and a negated possessive descriptive phrase.
-- 'We came here to save you, after all.' First-person plural past verb of motion with emphatic particle and purpose basic verb form.
-- 'I will not leave and will not abandon the students.' Compound coordinated future-tense form verbs governing an object-form plural object.
-- 'Brothers, calm down, these are just ordinary students.' Colloquial plural direct-address with a self-action verb form command and demonstrative clause.
-- 'They will soon freeze and leave on their own.' Third-person plural future verbs with temporal adverb and emphatic pronoun.
-- 'We will stand here until the very end.' Compound ongoing-action form future verb phrase with a location time expression.
-- 'A very serious fight will soon start here.' Temporal adverb with a self-action verb form verb governing a feminine subject.
-- 'We must protect this historical wall.' Modal plural adjective governing a single-action form and direct object phrase.
-- 'Then we will stay near you.' Consequential adverb with a future self-action verb form governing an 'with'-form location phrase.
+- 'Marina, let's end this dangerous protest.' Meanwhile, back at the monastery wall, Samson rushes up hoping to pull Marina out of harm's way.
+- 'Let's go home from here right now.' "Poyekhali" ("let's ride/go") shows he has a car waiting nearby and wants her in it immediately.
+- 'Listen, Samsonov, you wanted to leave town.' Marina keeps the formal "vy" and his last name, holding him at arm's length because she thinks he gave up on Sineozersk.
+- 'This has long not been your city.' Those words sting: she is telling him that if you pack your bags to leave, you lose your say in what happens here.
+- 'We came here to save you, after all.' Samson isn't here for politics or history—he came because his friend is standing in front of bulldozers.
+- 'I will not leave and will not abandon the students.' As a teacher, walking away while her students link arms by the wall is unthinkable.
+- 'Brothers, calm down, these are just ordinary students.' Turning to the burly construction crew, Samson uses "bratsy" ("brothers/mates") to cool tempers before fists fly.
+- 'They will soon freeze and leave on their own.' It is a clever bluff: he pretends to side with the workers so they won't charge the crowd.
+- 'We will stand here until the very end.' Marina doesn't want his bluff; she wants the crew to know the protesters aren't budging an inch.
+- 'A very serious fight will soon start here.' Having seen plenty of brawls in his life, Samson can tell the men with crowbars are done waiting.
+- 'We must protect this historical wall.' Principles meet brute force, and Marina refuses to back down.
+- 'Then we will stay near you.' If she won't get in the car, Samson does the only thing he knows how to do: he stands between her and the trouble.

@@ -27,9 +27,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's go over everything calmly once more.' the command form construction with an adverb and an inclusive verb.
-- 'After that we will immediately close this matter.' Location phrase followed by a future-tense form action verb.
-- 'It is an old abandoned warehouse outside town.' Demonstrative pronoun with past passive verbal adjective and location phrase.
-- 'Why recount? We trust you completely.' Question word with basic verb form followed by a 'to me/you' pronoun.
-- 'As they say, always trust but verify!' Popular Russian rhyming proverb in the command form mood.
-- 'Fine, then we will meet at this warehouse.' Particle followed by a self-action verb form-tense form of meeting.
+- 'Let's go over everything calmly once more.' Back in the present day, acting mayor Pavel rehearses the kickback handover like a nervous director before opening night.
+- 'After that we will immediately close this matter.' "Closing the question" is standard Russian boardroom talk for wrapping up a deal—or, in Pasha's case, pocketing a bribe.
+- 'It is an old abandoned warehouse outside town.' Nothing says "legitimate municipal investment" quite like meeting at a deserted warehouse beyond city limits.
+- 'Why recount? We trust you completely.' Pavel plays the smooth gentleman who is above counting cash, though his greed is obvious to everyone.
+- 'As they say, always trust but verify!' "Doveryay, no proveryay" is the famous rhyming Russian proverb that American presidents once loved quoting during diplomatic talks.
+- 'Fine, then we will meet at this warehouse.' With the time and place locked in, Pasha unknowingly schedules his own arrest.

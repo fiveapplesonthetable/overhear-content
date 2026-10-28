@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nina, drink some tea and calm down.' Samson offers comfort using two consecutive command form.
-- 'Nobody died from this after all.' Samson offers perspective with a negative pronoun and past verb.
-- 'I am ashamed to go out onto the street!' Nina expresses embarrassment.
-- 'Everything will be absolutely fine, Nina.' Samson reassures his wife with an encouraging future construction.
-- 'You are not guilty of anything.' Samson absolves Nina of blame.
-- 'And what will our children say now?' Nina worries about family repercussions.
-- 'We will transfer the children to another school.' Samson proposes a practical solution with a future verb.
-- 'Ivan, do you understand what you are saying?' Nina questions his realistic grasp using a present tense verb.
-- 'We survived the nineteen-nineties together.' Samson recalls past resilience.
-- 'We will definitely cope with this too.' Samson expresses optimism using a future modal verb.
-- 'We will buy a big beautiful house.' Samson shares their long-held family dream with future-tense form verbs.
-- 'You always know how to support me.' Nina appreciates his loyalty.
-- 'I will never abandon my family.' Samson pledges lifelong loyalty with a negative adverb and future verb.
+- 'Nina, drink some tea and calm down.' In any Russian kitchen crisis, the first step is pouring a hot cup of tea. Notice "chayu", the cozy "some tea" ending Russians use at the table.
+- 'Nobody died from this after all.' Samson puts the internet embarrassment in perspective: however awful it feels, everyone is still alive.
+- 'I am ashamed to go out onto the street!' In a small town where neighbors know everything, stepping outside the front door feels unbearable to her.
+- 'Everything will be absolutely fine, Nina.' He keeps his voice steady and warm, being the rock she needs while she is falling apart.
+- 'You are not guilty of anything.' She was a victim of the leaked recording, and her husband makes sure Nina hears that clearly.
+- 'And what will our children say now?' A mother's first fear isn't for herself, it is how the kids will be treated at school tomorrow.
+- 'We will transfer the children to another school.' Instead of dismissing her worry, Samson immediately comes up with a concrete plan.
+- 'Ivan, do you understand what you are saying?' When she uses his full name "Ivan" instead of "Samson", you can hear how overwhelmed she still is.
+- 'We survived the nineteen-nineties together.' Invoking the chaotic post-Soviet nineties is the ultimate Russian reminder that a family has been through worse.
+- 'We will definitely cope with this too.' The word for "cope" is built around the idea of steering or managing something unruly.
+- 'We will buy a big beautiful house.' Moving out of the cramped communal apartment into their own home has been their dream for years.
+- 'You always know how to support me.' Her shoulders finally drop a little as his loyalty gets through to her.
+- 'I will never abandon my family.' Unlike Pasha and Vika in the previous scene, Samson stands by his wife when things get ugly.

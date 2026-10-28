@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Two black came up, we lost everything again.' Neuter singular past verb with numeral and descriptive phrase.
-- 'Ah, and I wanted to bet on two!' Ongoing-action form modal verb governing location object-form construction.
-- 'That's it, my money is completely down to zero.' Colloquial idiom expressing complete financial loss with 'of'-form noun.
-- 'Make a quick currency exchange for me, please.' Second-person singular command with descriptive object-form object.
-- 'Samson, you are also already at zero after all.' Emphatic particle with coordinate adverb and location state.
-- 'That's it, let's leave here quickly onto the street.' 'let's' expression verb of motion with directional spatial phrase.
-- 'Wait, I must win back our money!' Short adjective of obligation governing compound single-action form.
-- 'Get up from the chair, do not lose your mind.' Command of motion followed by negative idiomatic expression of reason.
-- 'Samson never surrenders just like that!' Third-person self-action verb form verb with paired negative adverbs.
-- 'Calm down, let us go outside into fresh air now.' Self-action verb form command followed by 'let's' expression verb with directional modifier.
-- 'Alright, everything is fine, I am already calm.' Concession particle with descriptive word phrase and short descriptive adjective.
-- 'Let's go, we need to think urgently about what next.' Impersonal necessity with manner adverb modifying the basic verb form.
+- 'Two black came up, we lost everything again.' Rozhok watches the ball drop into two black as their whole stack on red gets raked away.
+- 'Ah, and I wanted to bet on two!' "Ekh" is the quintessential Russian sigh of regret—convincing himself he almost picked the winning number.
+- 'That's it, my money is completely down to zero.' Literally "at me of money is completely into zero": Rozhok turns his empty pockets inside out.
+- 'Make a quick currency exchange for me, please.' Still in denial, Samson reaches for the foreign currency he was supposed to use for the business deal.
+- 'Samson, you are also already at zero after all.' Rozhok tries to snap him out of his trance—the briefcase is already empty too.
+- 'That's it, let's leave here quickly onto the street.' The casino air is toxic now; the only sane move is getting out the door.
+- 'Wait, I must win back our money!' The Russian word "otygrat" specifically means winning back what you lost, the trap that empties every gambler's pockets.
+- 'Get up from the chair, do not lose your mind.' "Skhodit s uma" literally means "to step down from your mind"—Russian's vivid everyday idiom for going crazy.
+- 'Samson never surrenders just like that!' Talking about himself in the third person shows how stubbornly pride is blinding him.
+- 'Calm down, let us go outside into fresh air now.' Like a true comrade, Rozhok physically steers him away from the roulette wheel toward the cold night air.
+- 'Alright, everything is fine, I am already calm.' He says he is calm, though his voice is hollow as the shock starts to set in.
+- 'Let's go, we need to think urgently about what next.' The gambling is over; now comes the much harder problem of how to explain the missing money.

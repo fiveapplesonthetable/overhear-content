@@ -42,6 +42,6 @@ WALK = [
     (8, None, "'The apple does not fall far from the tree!' Nina invokes the famous proverb about family flaws."),
     (10, None, "'Your grandfather betrayed his country in the war.' The historical rumor stings Samsonov deeply."),
     (11, None, "'And you are betraying your family right now!' She links the grandfather's failure to his drinking."),
-    (12, None, "'Do not lecture me on morals!' The colloquial phrase means to preach or scold."),
+    (12, None, "'Do not lecture me on morals!' Literally, 'do not read morals to me!' — Ivan bristles at being lectured by his wife."),
     (14, None, "'And you are becoming an alcoholic. Goodbye!' Nina turns on her heel and leaves the room."),
 ]

@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This is money.' Osipenko bluntly names the contents of the bag.
 - 'What money are you talking about?' The governor immediately questions the phrasing for legal safety.
 - 'The very money we talked about.' Osipenko refers back to their previous private agreement.
-- 'In my opinion, you are sorely mistaken.' The parenthetical word introduces a formal polite denial.
-- 'You were supposed to bring documents.' The modal construction describes expected official paperwork.
-- 'Did you bring the documents?' The past tense verb checks whether the paperwork arrived.
-- 'Yes, of course. Three grand.' Osipenko uses slang that sounds phonetically like folders.
-- 'Excellent! Leave these three folders.' The governor humorously plays along with the phonetic pun.
-- 'I will examine them later.' The future-tense form promises future attention.
+- 'In my opinion, you are sorely mistaken.' Knowing the office might be bugged, Viktor Stepanovich smoothly pretends Pasha is mistaken.
+- 'You were supposed to bring documents.' He feeds Pasha the cover story: this meeting is strictly about handing over official paperwork.
+- 'Did you bring the documents?' Prompting Pasha like an actor who forgot his lines, he asks again about those 'documents.'
+- 'Yes, of course. Three grand.' Pasha blurts out Russian slang for cash that happens to sound almost identical to 'folders.'
+- 'Excellent! Leave these three folders.' Without missing a beat, the governor turns Pasha's slip of the tongue into 'three folders' for the microphones.
+- 'I will examine them later.' Staying in character, he promises to look over the 'files' when he has a spare moment.
 - 'Is everything in order now?' Osipenko seeks assurance about their political alliance.
 - 'Will you help deal with Samsonov?' Osipenko asks for political retaliation against his rival.
 - 'Everything is in order with us. Goodbye!' The governor closes the conversation and politely dismisses him.

@@ -32,10 +32,10 @@ STORY = [
     ('pasha', 'Хорошо, тогда встретимся на этом складе.', 'Fine, then we will meet at this warehouse.', [], 'new'),
 ]
 WALK = [
-    (0, None, "'Let's go over everything calmly once more.' the command form construction with an adverb and an inclusive verb."),
-    (3, None, "'After that we will immediately close this matter.' Location phrase followed by a future-tense form action verb."),
-    (7, None, "'It is an old abandoned warehouse outside town.' Demonstrative pronoun with past passive verbal adjective and location phrase."),
-    (10, None, "'Why recount? We trust you completely.' Question word with basic verb form followed by a 'to me/you' pronoun."),
-    (12, None, "'As they say, always trust but verify!' Popular Russian rhyming proverb in the command form mood."),
-    (13, None, "'Fine, then we will meet at this warehouse.' Particle followed by a self-action verb form-tense form of meeting."),
+    (0, None, "'Let's go over everything calmly once more.' Back in the present day, acting mayor Pavel rehearses the kickback handover like a nervous director before opening night."),
+    (3, None, '\'After that we will immediately close this matter.\' "Closing the question" is standard Russian boardroom talk for wrapping up a deal—or, in Pasha\'s case, pocketing a bribe.'),
+    (7, None, '\'It is an old abandoned warehouse outside town.\' Nothing says "legitimate municipal investment" quite like meeting at a deserted warehouse beyond city limits.'),
+    (10, None, "'Why recount? We trust you completely.' Pavel plays the smooth gentleman who is above counting cash, though his greed is obvious to everyone."),
+    (12, None, '\'As they say, always trust but verify!\' "Doveryay, no proveryay" is the famous rhyming Russian proverb that American presidents once loved quoting during diplomatic talks.'),
+    (13, None, "'Fine, then we will meet at this warehouse.' With the time and place locked in, Pasha unknowingly schedules his own arrest."),
 ]

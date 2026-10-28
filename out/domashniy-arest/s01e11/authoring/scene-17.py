@@ -30,10 +30,10 @@ STORY = [
     ('nina', 'Да, я пойду посоветуюсь с хорошим врачом.', 'Yes, I will go consult with a good doctor.', [], 'new'),
 ]
 WALK = [
-    (0, None, "'Ilona, hi.' Direct informal greeting addressed to a female colleague."),
-    (2, None, "'Is there an important meeting on Samsonov's schedule?' The verb for standing describes scheduled events on a calendar."),
-    (4, None, "'What? No, of course not, there is no meeting!' Colloquial question followed by an emphatic negative construction with 'of'-form case."),
-    (6, None, "'What a talkative man he is!' Exclamatory adjective construction with the intensifying particle."),
-    (9, None, "'Great, now he is behaving insanely.' The nautical idiom expresses hitting a dead end or an unexpected absurd turn."),
-    (11, None, "'Yes, I will go consult with a good doctor.' Future tense verb with a location phrase in the 'with/as' form."),
+    (0, None, "'Ilona, hi.' Nina gets straight to the point as soon as Samsonov's campaign manager picks up."),
+    (2, None, "'Is there an important meeting on Samsonov's schedule?' In Russian, an appointment on a schedule literally \"stands\" on the calendar."),
+    (4, None, "'What? No, of course not, there is no meeting!' Because the visit is classified, Ilona lies through her teeth and denies the whole thing."),
+    (6, None, "'What a talkative man he is!' Taking Ilona's denial at face value, Nina concludes Ivan is just rambling out of heartbreak."),
+    (9, None, "'Great, now he is behaving insanely.' The Russian word \"priplyli\" literally means \"we have sailed in\" or \"we've arrived\", used sarcastically when things hit rock bottom."),
+    (11, None, "'Yes, I will go consult with a good doctor.' Convinced her husband has lost his mind, Nina decides to call in psychiatric help—setting off a disaster of her own."),
 ]

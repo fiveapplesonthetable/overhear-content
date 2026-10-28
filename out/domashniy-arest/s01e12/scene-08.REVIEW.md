@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mikhalych, I am on site, what is with the plane?' Samson addresses his dispatcher using a patronymic direct-address.
-- 'Fine, I will wait three hours calmly.' The future-tense form governs an object-form time duration phrase.
-- 'Samson, can it really be you standing here?' The emphatic particle expresses astonished recognition.
-- 'Rozhok! Hello, old army brother!' Samson uses an army nickname and colloquial greeting of camaraderie.
-- 'What brings you to this place?' The 'with'-form idiom asks about unexpected presence in an unfamiliar location.
-- 'My military contract ended, now I am a civilian.' The self-action verb form verb marks the completion of army service.
-- 'Are you still our brave Captain Tarachkov?' Samson refers to his old company rank.
-- 'What captain? Already a whole Lieutenant Colonel Tarachkov!' Tarachkov proudly corrects him with his higher rank.
-- 'Wow, I am very glad to see you!' The interjection expresses genuine joy.
-- 'Are you free right now, maybe sit somewhere?' The short adjective inquires about availability before an informal proposal.
-- 'I have a whole three free hours.' The 'of'-form phrase following the numeral describes surplus waiting time.
-- 'Right nearby there is one good casino.' The adverbial phrase introduces a commercial establishment.
-- 'They pour for free there if you make a bet.' The impersonal 3rd person plural verb denotes complimentary drinks.
-- 'Great idea, then I will treat you!' Samson warmly offers hospitality using a present tense action verb.
+- 'Mikhalych, I am on site, what is with the plane?' On the phone with his boss, Samson calls him by his patronymic alone—"Mikhalych"—which is how Russian coworkers talk when they know each other well.
+- 'Fine, I will wait three hours calmly.' Three hours of dead time in an airport terminal is the small plot twist that ruins Samson's life.
+- 'Samson, can it really be you standing here?' Out of nowhere, an old voice from his army days spots him across the terminal. "Neuzheli" means "can it really be?"
+- 'Rozhok! Hello, old army brother!' His face lights up: "zdorovo" is the hearty, rough-and-tumble "hey there!" Russian men use with old friends.
+- 'What brings you to this place?' Literally Russians ask "By what fates did you end up here?", a wonderfully dramatic way to say "Fancy meeting you!"
+- 'My military contract ended, now I am a civilian.' After years in uniform, Tarachkov is finally out of the service and looking for a good time.
+- 'Are you still our brave Captain Tarachkov?' In Samson's memory, his buddy is still the company captain from their days in the ranks.
+- 'What captain? Already a whole Lieutenant Colonel Tarachkov!' He puffs his chest out with pride—retiring two ranks higher than captain is no small thing.
+- 'Wow, I am very glad to see you!' Nothing beats running into an army comrade when you are stuck waiting for a delayed plane.
+- 'Are you free right now, maybe sit somewhere?' In Russia, "maybe we sit somewhere?" never means just sitting in chairs—it is an invitation for a drink and a chat.
+- 'I have a whole three free hours.' With three hours to kill and a briefcase full of cash, Samson walks right into temptation.
+- 'Right nearby there is one good casino.' And there is the trap: instead of a quiet airport cafe, Tarachkov steers him toward a gambling hall.
+- 'They pour for free there if you make a bet.' Free drinks for players is the bait that hooks both of them.
+- 'Great idea, then I will treat you!' "Ya tebya ugoshchayu" means "it's my treat"—generous words from a man who thinks he is only going in for one drink.

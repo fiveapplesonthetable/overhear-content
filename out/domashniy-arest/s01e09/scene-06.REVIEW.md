@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'A flask, of course!' Nina sarcastically adds a drinking flask to Samsonov's bag.
-- 'How can you start bachelor life without a flask?' The preposition takes the direct-object form for destination.
-- 'Right, I need to stare intensely.' The modal word combines with an action verb to express necessity.
+- 'How can you start bachelor life without a flask?' Nina teases him that no newly minted bachelor could possibly survive without his trusty flask.
+- 'Right, I need to stare intensely.' Coaching himself under his breath, Samsonov tries to summon that heavy, intimidating look.
 - 'Like a real man, exactly ten seconds.' Samsonov reminds himself of Arkady's psychological advice.
 - 'One, two, three...' Samsonov counts the seconds mentally to reach ten.
-- 'What are you staring at?' The colloquial verb expresses surprise at his strange facial expression.
-- 'Four, five, six...' The husband continues counting under his breath despite her question.
+- 'What are you staring at?' Instead of feeling intimidated, Nina just wonders why he is bugging his eyes out at her.
+- 'Four, five, six...' Ignoring her question completely, Samsonov keeps silently ticking off the seconds.
 - 'Do you have a nervous tic?' Nina mocks his twitching facial expression.
-- 'My stomach is acting up.' The self-action verb form colloquial idiom describes an upset stomach.
-- 'Then go to the bathroom!' The command form directs him to the communal restroom.
-- 'Don't hold it in, Samson.' The negative command advises him not to endure discomfort.
+- 'My stomach is acting up.' Too embarrassed to admit he was counting to ten, he blames his weird face on a cramping stomach.
+- 'Then go to the bathroom!' Nina takes his excuse literally and tells him to go use the bathroom down the hall.
+- 'Don't hold it in, Samson.' Still treating him like a helpless kid, she tells him not to hold it in.
 - 'I am not going to the bathroom!' Samsonov furiously rejects her domestic interpretation.
-- 'I am leaving forever!' The present tense verb expresses definite future departure.
-- 'Go, and good riddance!' Nina dismisses him with a traditional Russian parting idiom.
+- 'I am leaving forever!' Trying to salvage his dramatic exit, he announces once more that he is walking out forever.
+- 'Go, and good riddance!' Literally 'may the road be a tablecloth,' this classic send-off means 'go right ahead, good riddance!'

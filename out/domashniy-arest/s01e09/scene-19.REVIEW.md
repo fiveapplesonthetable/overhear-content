@@ -28,8 +28,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not remember her at all.' The negative expression intensifies the verb to mean not remembering a person at all.
-- 'Ask something else.' The command form takes the indefinite pronoun to mean any other topic.
+- 'I do not remember her at all.' Brushing off an old memory over dinner, Eduard claims he doesn't remember the woman at all.
+- 'Ask something else.' Uncomfortable with that line of questioning, he urges Marina to pick a different topic.
 - 'Have you ever taken bribes?' Marina bluntly asks the core incriminating question for the secret recording.
 - 'Can you answer the question?' Marina cuts through his long explanation and demands a direct response.
 - 'Yes, I took bribes.' Eduard openly admits his corrupt past on the restaurant microphone.

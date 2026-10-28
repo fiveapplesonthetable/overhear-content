@@ -27,16 +27,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Sanya, answer me urgently!' Arkady demands immediate attention over the phone line.
-- 'Sanya, I have a day off.' In Russian, the possessive pronoun appears with 'of'-form.
-- 'Forget the day off!' A colourful colloquial Russian idiom meaning disregard it.
-- 'Marina works for Osipenko.' The preposition with object-form marks who she works for.
+- 'Sanya, I have a day off.' Sanya grumbles into the phone that today is supposed to be his day off.
+- 'Forget the day off!' Literally 'spit on your day off,' Arkady brushes aside Sanya's plans without a second thought.
+- 'Marina works for Osipenko.' He gets straight to the point: Marina is secretly working for Pasha Osipenko.
 - 'What makes you think that?' A set conversational phrase asking for evidence.
-- 'She kept questioning me about the money.' The prefix indicates persistent questioning.
-- 'Your romantic love or what?' An ironic tag question expressing teasing disbelief.
-- 'I told her about the kindergarten.' The preposition with object-form introduces topic.
-- 'Supposedly hid the cash in Golden Key.' The modal particle expresses allegation.
-- 'And what should I do now?' An action verb question asking for direction and instructions.
-- 'Can you go there and check?' Notice the pair of single-action form infinitives after modal.
-- 'We need to see if everything is quiet there.' The particle serves as whether in indirect.
-- 'Understood.' The masculine past tense verb is used colloquially for message received.
-- 'I am already driving out.' The prefix indicates motion starting outward by vehicle.
+- 'She kept questioning me about the money.' Her relentless grilling about the missing cash gave the whole game away.
+- 'Your romantic love or what?' Sanya can't resist poking fun at Arkady for getting played by his crush.
+- 'I told her about the kindergarten.' Arkady explains that he fed her a made-up lead about a local kindergarten.
+- 'Supposedly hid the cash in Golden Key.' He spun a story about stashing the millions inside the Golden Key.
+- 'And what should I do now?' Always ready for action, Sanya asks what his orders are now.
+- 'Can you go there and check?' Arkady asks him to drive over to the kindergarten and scope the place out.
+- 'We need to see if everything is quiet there.' If the building is quiet, Marina kept the secret; if goons show up, she ratted him out.
+- 'Understood.' Like a seasoned operative, Sanya gives a crisp confirmation that he got the message.
+- 'I am already driving out.' Without wasting another second, he says he is already pulling out of the driveway.

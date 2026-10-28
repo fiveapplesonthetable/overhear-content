@@ -33,9 +33,9 @@ STORY = [
     ('samson', 'Договорились, я выберу фильм.', 'Agreed, I will choose a movie.', [], 'new line'),
 ]
 WALK = [
-    (0, 'Это тебе цветы.', "'These flowers are for you.' Samsonov presents the bouquet as an awkward opening gesture."),
-    (2, None, "'If you want, I will buy others?' The conditional sentence uses the present tense verb to offer alternatives."),
-    (6, None, "'Men usually court women.' The verb governs the preposition and 'with/as' form for the person being courted."),
-    (8, None, "'Then invite me to the movies.' The command form directs him to ask her out on a date."),
-    (13, None, "'I love romantic movies.' The adjective is used in the object form plural to describe her preferred genre."),
+    (0, 'Это тебе цветы.', "'These flowers are for you.' Holding out a strange bouquet, Ivan makes a stiff first attempt at romance."),
+    (2, None, "'If you want, I will buy others?' Seeing her unimpressed look, he immediately offers to replace them."),
+    (6, None, "'Men usually court women.' Not amused by his bluntness, Ilona gives him a basic lesson in how dating works."),
+    (8, None, "'Then invite me to the movies.' Since he has no clue how to ask a woman out, she practically writes the script for him."),
+    (13, None, "'I love romantic movies.' Knowing Ivan would probably pick a brawl on screen, she sets the ground rule in advance."),
 ]

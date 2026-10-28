@@ -30,10 +30,10 @@ STORY = [
     ('panov', 'Прекрасно, это только самое начало работы.', 'Wonderful, this is only the very beginning of the work.', [(390, 'Только начало')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Good day, Pavel. I am Panov.' Polite Russian greeting followed by a concise self-introduction."),
-    (3, None, "'The entire agreed sum is located here.' Self-action verb form expressing presence with a passive verbal adjective."),
-    (5, None, "'I have completely fulfilled my part of the deal.' Past single-action form action verb with a self-action verb form possessive pronoun."),
-    (7, None, "'It is very pleasant doing business with you!' Idiomatic expression of doing business."),
-    (9, None, "'Yes, of course, start loading quickly.' Modal phrase with a command ongoing-action form and an action verb."),
-    (11, None, "'Wonderful, this is only the very beginning of the work.' Evaluative adverb followed by a demonstrative pronoun and superlative particle."),
+    (0, None, "'Good day, Pavel. I am Panov.' They are meeting in a dusty warehouse with bags of illicit cash, yet Panov opens like a banker at a board meeting."),
+    (3, None, '\'The entire agreed sum is located here.\' "The agreed sum" is the polite euphemism corrupt officials use so nobody has to say the word "kickback" out loud.'),
+    (5, None, "'I have completely fulfilled my part of the deal.' From the undercover investor's side, delivering the bait is the moment the sting snaps shut."),
+    (7, None, '\'It is very pleasant doing business with you!\' "Imet delo" literally means "to have business", and Pasha beams as if he just earned this money honestly.'),
+    (9, None, "'Yes, of course, start loading quickly.' Greed makes him careless: he doesn't even check the bags before telling the men to load the trunks."),
+    (11, None, "'Wonderful, this is only the very beginning of the work.' Listen to the double meaning here: Pavel thinks Panov means future deals, while Panov means the raid that is seconds away."),
 ]

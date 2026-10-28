@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Comrade commander, the building is completely surrounded.' The subordinate reports the perimeter status clearly.
 - 'Excellent. We go inside quickly.' The commander gives the order to storm the premises without delay.
-- 'Here in the corridor are small children!' The Russian word for children is an irregular plural form.
-- 'Right, put the children into the bus immediately!' The preposition for 'into' takes the direct-object form here.
-- 'Take them to the water park.' The command form command here is the polite plural form of the prefixed motion verb.
-- 'Everything is on the FSB!' The fixed Russian expression means at the expense of a specified person or agency.
-- 'But they do not have swimsuits!' The word for swim trunks appears here in the plural 'of' form after negation.
-- 'No big deal.' This very common Russian conversational idiom literally translates to nothing of frightening.
-- 'They will sit quietly on the shore.' The preposition takes a special location noun ending in this landscape expression.
-- 'Understood. I will put them into the bus.' The verb form expresses first-person singular future intention.
-- 'And what should we do with this door?' The preposition 'with' requires the feminine 'with/as' form.
-- 'Come on, hand me the sledgehammer!' The conversational particle prompts quick and decisive physical action.
-- 'We will open this entrance right now.' The verb form expresses first-person plural future action.
+- 'Here in the corridor are small children!' Bursting into the hallway in full tactical gear, the operative freezes at the sight of toddlers.
+- 'Right, put the children into the bus immediately!' Thinking on his feet, the commander orders his men to load the kids onto a bus right away.
+- 'Take them to the water park.' To keep the kids happy and out of the way, he tells the team to take them to the water park.
+- 'Everything is on the FSB!' Literally 'at the expense of,' he grandly declares that the security service is picking up the tab.
+- 'But they do not have swimsuits!' The operative points out a practical snag: none of the toddlers packed swim trunks.
+- 'No big deal.' Literally 'nothing terrible,' the commander shrugs off the missing swimwear as a minor detail.
+- 'They will sit quietly on the shore.' He figures the kids can just sit nicely by the edge of the pool.
+- 'Understood. I will put them into the bus.' Following orders, the agent heads off to herd the children onto the bus.
+- 'And what should we do with this door?' Pointing to a heavy locked door down the hall, he asks how they should handle it.
+- 'Come on, hand me the sledgehammer!' Done with subtlety, the commander calls for a sledgehammer.
+- 'We will open this entrance right now.' He prepares to smash the locked entrance open the old-fashioned way.

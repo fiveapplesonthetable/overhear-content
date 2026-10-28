@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you just sitting here?' The question word opens an impatient question about inaction.
-- 'We need to go in there and stop everything.' The impersonal descriptive word modal expresses immediate necessity.
-- 'Calm down, the special operation continues.' The adverb urges patience as This phrase describes an ongoing action.
-- 'Uncuff me, my hand has gone numb.' The command form commands the officer to release the handcuffs.
-- 'You will wait while the operation goes on.' The future tense verb indicates required waiting until the task finishes.
-- 'Quiet! My phone is ringing.' This phrase calls for silence while the verb indicates an incoming call.
-- 'Hello, yes, Alla Yevgenyevna.' The standard phone greeting is followed by the formal name and patronymic.
-- 'No, nobody is groaning here.' The negative pronoun pairs with a negated present tense verb.
-- 'I will be home soon, darling.' The future compound construction indicates planned arrival with an affectionate term.
-- 'Vegetable stew for dinner?' The neuter adjective agrees with the noun denoting a domestic meal.
-- 'Yes, of course, that sounds wonderful.' The modal particle and short neuter adjective convey enthusiastic agreement.
-- 'And can I go home?' The modal descriptive word combines with a motion verb in a polite request.
-- 'My wife is also very worried.' This phrase describes emotional anxiety on the part of the spouse.
-- 'Fine, go away from here quickly.' The command form plural gives permission to depart immediately.
+- 'Why are you just sitting here?' Handcuffed inside the surveillance van, Pasha fumes at the agents for just sitting around.
+- 'We need to go in there and stop everything.' Terrified that Arkady is telling Marina the truth on tape, he demands they storm in and stop it.
+- 'Calm down, the special operation continues.' Lavrov waves him off calmly — the sting operation is still running.
+- 'Uncuff me, my hand has gone numb.' Switching tactics, Pasha complains that his cuffed wrist has gone completely numb.
+- 'You will wait while the operation goes on.' Lavrov tells him bluntly that he will sit tight until the mission wraps up.
+- 'Quiet! My phone is ringing.' Suddenly Lavrov hushes the van because his own cell phone is ringing.
+- 'Hello, yes, Alla Yevgenyevna.' The tough major immediately goes soft, addressing his wife by her formal name and patronymic.
+- 'No, nobody is groaning here.' As Pasha groans in the background, Lavrov quickly reassures his wife that nobody is moaning in here.
+- 'I will be home soon, darling.' Using a sweet pet name, he promises her he will be home for dinner soon.
+- 'Vegetable stew for dinner?' Right in the middle of a high-stakes stakeout, he chats about having vegetable stew tonight.
+- 'Yes, of course, that sounds wonderful.' Like a dutiful husband, he tells her that vegetable stew sounds wonderful.
+- 'And can I go home?' Seizing on the domestic mood, Pasha sheepishly asks if he can go home too.
+- 'My wife is also very worried.' He pleads that his own wife is sitting at home worrying about him.
+- 'Fine, go away from here quickly.' Softened up by his wife's call, Lavrov uncuffs Pasha and tells him to get lost.

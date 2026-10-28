@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'What an interesting question you have!' Arkady stalls for time with a flattering comment."),
-    (1, None, "'Well, let's suppose that money exists.' The parenthetical verb introduces a hypothetical scenario."),
+    (1, None, "'Well, let's suppose that money exists.' Playing along cautiously, Arkady treats the missing millions as a purely hypothetical question."),
     (2, None, "'And where are they hidden?' Marina immediately follows up demanding the exact location."),
     (3, None, "'Wait. Is our conversation being recorded?' Arkady nervously checks for hidden surveillance."),
     (4, None, "'Of course, everything is recorded on camera.' Marina bluffingly confirms the recording."),
@@ -39,7 +39,7 @@ WALK = [
     (6, None, "'I am interested in your personal honesty.' Marina frames her inquiry as a test of integrity."),
     (7, None, "'Do you want to be together with me?' She uses his romantic interest as leverage."),
     (8, None, "'Yes, I want that very much.' Arkady eagerly reaffirms his affection for her."),
-    (9, None, "'Then tell me only the truth.' This phrase demands absolute transparency from him."),
+    (9, None, "'Then tell me only the truth.' Looking him straight in the eye, Marina demands nothing less than the whole truth."),
     (10, None, "'Honesty is the foundation of good relationships.' She lays down a strict moral boundary."),
     (11, None, "'Alright. I will tell you the whole truth.' Arkady relents and prepares to confess."),
 ]

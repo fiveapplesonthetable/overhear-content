@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hello, Nina! These beautiful flowers are for you.' Danya approaches her with a flattering gift.
 - 'Oh, thank you! They smell very nice.' Nina is briefly touched by the sweet aroma.
-- 'They suit you very well.' This phrase expresses that something flatters someone.
+- 'They suit you very well.' Literally 'they walk to you,' which is the everyday Russian way to say the flowers really suit her.
 - 'Let's take a photo in front of the house!' Danya eagerly suggests another photo opportunity.
-- 'You like beautiful photos, don't you?' The particle appeals to her known preferences.
-- 'We will gather many likes on the internet.' The future verb indicates collecting social approval.
+- 'You like beautiful photos, don't you?' Danya has no idea about the marital storm he caused and tries to coax her into another picture.
+- 'We will gather many likes on the internet.' All the teenager cares about is racking up likes on social media.
 - 'Wait. Why are you doing this?' Nina suddenly stops and questions his underlying motives.
 - 'What is wrong with you? What happened?' Danya is surprised by her sudden shift in mood.
 - 'You destroyed my family with your photos!' Nina accuses him of causing Samson to leave.
-- 'My husband saw your foolish snapshot.' The past tense verb reveals Samson's discovery.
+- 'My husband saw your foolish snapshot.' She explains that Samsonov saw the silly selfie Danya posted online and walked out.
 - 'I simply wanted to show off.' Danya weakly explains his vain desire for attention.
 - 'There will never be anything between us!' Nina firmly shuts down any romantic illusions.
-- 'Get out of here, I do not want to see you.' The command form orders him to leave immediately.
+- 'Get out of here, I do not want to see you.' Pointing down the street, Nina tells the kid to get lost and stay out of her sight.

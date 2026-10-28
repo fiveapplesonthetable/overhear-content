@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Soon I will become a real governor!' Pasha boasts about his political ambitions.
 - 'Of course you will, dear Pavel Yuryevich.' Seva flatters him using his formal name and patronymic.
-- 'I am the most reliable partner in Moscow.' The superlative adjective emphasizes his self-importance.
+- 'I am the most reliable partner in Moscow.' Pouring drinks in the bedroom, Pasha brags that the capital has no truer partner than him.
 - 'Pasha, you didn't even try the lasagna?' Vika arrives unexpectedly and questions him about the meal she left.
-- 'I decided to return home earlier.' The feminine past verb is followed by a comparative adverb of time.
+- 'I decided to return home earlier.' Vika explains that she decided to come home early, catching Pasha completely off guard.
 - 'And now I see you have guests.' Vika sarcastically notes the awkward domestic scene unfolding before her.
-- 'Vika, wait, let's explain everything calmly.' Pasha pleads for a calm conversation using an inclusive command.
-- 'Where is your conscience, Pasha?' The emphatic particle sharpens her moral condemnation of his behavior.
-- 'Please don't be so very angry.' The polite negative command seeks to defuse the spouse's wrath.
-- 'Hello, police? Someone broke into my home!' Vika phones emergency services using an accusatory past verb.
-- 'I'll give the address: seven Sadovaya Street.' The verb indicates dictating information clearly over the phone.
+- 'Vika, wait, let's explain everything calmly.' Scrambling to salvage the situation, Pasha begs Vika to wait and let him explain calmly.
+- 'Where is your conscience, Pasha?' Disgusted by what she walked in on, Vika demands to know if he has any shame left.
+- 'Please don't be so very angry.' Caught in the middle of the marital explosion, Seva politely asks her not to be so angry.
+- 'Hello, police? Someone broke into my home!' Instead of arguing, Vika dials the police and reports intruders in her house.
+- 'I'll give the address: seven Sadovaya Street.' Looking straight at Pasha, she calmly reads out their street address to the dispatcher.
 - 'Vika, I understand you are very upset.' Pasha tries to show empathy.
-- 'I will definitely explain everything to you.' The future tense promises a full explanation of the situation.
-- 'Most importantly remember that I love you!' The command form commands her to hold on to his affection.
+- 'I will definitely explain everything to you.' As everything falls apart, Pasha keeps promising he can explain the whole thing.
+- 'Most importantly remember that I love you!' In a desperate final plea, he begs her to remember that he loves her.

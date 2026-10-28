@@ -33,9 +33,9 @@ STORY = [
     ('guard', 'Пойдёмте на выход, гражданин.', "Let's head to the exit, citizen.", [], 'new guard reaction'),
 ]
 WALK = [
-    (1, None, "'Let go of me immediately!' This phrase demands release from physical restraint."),
+    (1, None, "'Let go of me immediately!' Struggling with the security guards at the door, Pasha angrily demands they take their hands off him."),
     (3, None, "'You are still saying hello to me?' Osipenko is offended by the casual greeting after being betrayed."),
-    (8, None, "'Quickly return my documents to me.' This phrase calls for the immediate return of his property."),
-    (11, None, "'It is impossible to return anything.' The descriptive phrase word indicates that the requested action cannot be done."),
+    (8, None, "'Quickly return my documents to me.' Barging into the office, he demands his three million back on the spot, still calling the cash 'documents.'"),
+    (11, None, "'It is impossible to return anything.' Boris stonewalls him with a bureaucratic shrug, saying nothing can be given back now."),
     (13, None, "'Security, take him away from here!' Boris summons the guards to escort his former ally out."),
 ]

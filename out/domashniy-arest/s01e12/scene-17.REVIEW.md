@@ -25,9 +25,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone down! Special forces at work!' Impersonal 'to'-form basic verb form command followed by a third person present verb.
-- 'Everyone down on the floor, I said!' Firm command with an action verb, location phrase on the floor, and a past tense verb.
-- 'Drop weapons! Hands behind head!' Basic verb form command command followed by an object-form location direction phrase.
-- 'Please do not shoot, we surrender!' Polite particle with a negative plural command verb and a self-action verb form verb.
-- 'There is no mistake, you are under arrest!' Negative construction with 'of'-form case followed by a short passive past verbal adjective.
-- 'I will speak only with a lawyer.' Compound future ongoing-action form tense followed by an 'with'-form noun.
+- 'Everyone down! Special forces at work!' "Vsem lezhat!"—literally "to everyone, lie down!"—is the barked command you hear in every Russian police raid.
+- 'Everyone down on the floor, I said!' Adding "ya skazal" ("I said") onto the end lets the shocked suspects know he will not ask a third time.
+- 'Drop weapons! Hands behind head!' Short, barked commands strip away every extra word when tactical officers storm a room.
+- 'Please do not shoot, we surrender!' So much for the tough city boss: the moment guns appear, Pavel is on the concrete begging.
+- 'There is no mistake, you are under arrest!' Six bags of cash in the trunk make Pasha's "big mistake" excuse dead on arrival.
+- 'I will speak only with a lawyer.' Finally remembering a line from crime movies, Pavel retreats into silence as the handcuffs click.

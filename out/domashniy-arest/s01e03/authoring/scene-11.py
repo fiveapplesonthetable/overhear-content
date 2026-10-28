@@ -37,7 +37,7 @@ WALK = [
     (2, None, "'I'm Danila Golovkin, your lawyer.' In the show, poor Golovkin has a strong stutter and accidentally says 'your avocado' instead of 'your lawyer'. Arkady is baffled."),
     (3, None, "'What do you mean? Where is Mishkin?' The first phrase literally means 'in what sense?' and is a very common way to say 'what do you mean?'. Golovkin explains why he is here."),
     (4, None, "'I don't know. I'm the free state-appointed lawyer.' That means a public defender paid by the state when a defendant has no lawyer of his own. Arkady immediately reaches for his phone."),
-    (5, None, "'One second. I'll call Mishkin right now.' The key word here means 'second', anchored at the close by 'will call'."),
+    (5, None, "'One second. I'll call Mishkin right now.' Arkady asks for a second and immediately reaches for his phone to call his lawyer Mishkin."),
     (6, None, "'Andrei Iosifovich, it's Anikeev calling.' Literally 'Anikeev disturbs you' — standard polite phone Russian when you call someone on business."),
     (7, 'Послушайте, здесь ошибка.', "'Listen, there's a mistake here.' Then he explains what happened."),
     (7, 'Ко мне прислали бесплатного адвоката. В чём дело?', "'They sent me a free lawyer. What's going on?' Notice the animate object ending on 'free lawyer': for masculine living beings, the object form looks like the 'of' form. Mishkin's answer is cold."),

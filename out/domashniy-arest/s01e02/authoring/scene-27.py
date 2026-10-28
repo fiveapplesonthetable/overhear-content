@@ -36,7 +36,7 @@ STORY = [
     ('arkady', 'Всё, не благодари меня. И с Аникеевым реши.', "That's it, don't thank me. And sort out Anikeev.", [(991, 'не благодари меня')], "garbled 'Аникейовым' -> 'Аникеевым'"),
 ]
 WALK = [
-    (0, None, "'Well, has everyone liked it?' Listen for the word meaning 'liked', which leads straight into 'liked'."),
+    (0, None, "'Well, has everyone liked it?' Viktor checks on the room after the presentation, asking if everyone enjoyed it."),
     (1, 'Вот здесь сердечко, видите?', "'There's a little heart right here, see?' The word for 'heart' has a small, cute ending: a little heart. Then a clear instruction."),
     (1, 'Жмите на него.', "'Press it.' Literally 'press on it'. It's the polite command, because the official is older. The governor wants numbers."),
     (2, None, "'How many is it?' The first word means 'how many' or 'how much'. Ksenia checks her phone."),

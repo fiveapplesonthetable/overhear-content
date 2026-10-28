@@ -28,8 +28,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Don't look over there.' The negative expression tells someone not to look in that direction.
-- 'Look at me and smile.' The command form directs him to face her with a warm expression.
-- 'Don't drink, just pretend.' The command instructs him to only simulate drinking wine.
-- 'Say some word to me.' The indefinite pronoun asks for any random word to simulate dialogue.
+- 'Don't look over there.' Coaching Samsonov through their staged cafe date, Ilona tells him to stop glancing toward the window.
+- 'Look at me and smile.' For Nina to buy the act from outside, he needs to look straight at Ilona and smile warmly.
+- 'Don't drink, just pretend.' Knowing he can't handle his liquor, she orders him to just fake sipping the wine.
+- 'Say some word to me.' To make it look like they are having a cozy chat, she tells him to just say any word out loud.
 - 'Pancakes?' Samsonov blurts out the first food item that pops into his head.

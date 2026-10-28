@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'How is it possible to demolish an old monastery?' Marina challenges Arkady's corrupt municipal past.
-- 'I wanted to build a shopping center there.' The past tense verb explains his commercial ambitions.
-- 'There will be a modern, beautiful complex there.' The future tense promises a luxurious venue.
-- 'And was it impossible to build it elsewhere?' The impersonal construction conveys her strong skepticism.
+- 'I wanted to build a shopping center there.' Arkady shrugs that tearing down the old walls seemed worth it to put up a lucrative mall.
+- 'There will be a modern, beautiful complex there.' He pitches his vision of a sleek, modern complex as if he were still campaigning.
+- 'And was it impossible to build it elsewhere?' Marina pushes back with obvious skepticism, asking why he couldn't build his mall somewhere else.
 - 'The monastery is our ancient history!' Marina defends the sacred cultural heritage of the town.
-- 'You should have given money for its restoration.' The verbal noun indicates rebuilding the shrine.
+- 'You should have given money for its restoration.' Instead of bulldozing the landmark, she argues he should have funded its restoration.
 - 'You are very beautiful when you are angry.' Arkady shamelessly tries to charm his way out.
 - 'And when you smile, you are also very beautiful.' He continues showering her with smooth compliments.
 - 'Stop it, we are talking about business now!' Marina sharply redirects the conversation back to serious matters.
-- 'I have answered all your questions.' The location phrase marks the completion of the interrogation.
+- 'I have answered all your questions.' Having dodged her toughest questions, Arkady declares the grilling over.
 - 'What is the result of my exam?' Arkady playfully treats her questioning like a school test.
-- 'Sit back down in your seat.' The polite command commands him to remain seated and orderly.
-- 'Alright, I am listening to you attentively.' The adverb of manner indicates his focused attention.
+- 'Sit back down in your seat.' Refusing to let him charm his way out of the chair, Marina orders him to sit right back down.
+- 'Alright, I am listening to you attentively.' Playing the obedient student, Arkady folds his hands and says he is all ears.
 - 'Where is that money Osipenko is hunting for?' Marina suddenly drops the biggest question of all.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Arkasha, my dear, you are a real monster to me!' Affectionate diminutive address followed by an evaluative colloquial descriptive phrase.
-- 'By the way, they broke a finger on my hand.' Parenthetical phrase with an indefinite-personal past plural verb and location phrase.
-- 'On the other hand, seventeen thousand followers appeared on the internet!' Contrastive conjunction with numerical subject governing plural 'of' form.
-- 'Viktor Stepanovich, when will they take off this bracelet from me?' Respectful name-patronymic address with future plural verb and 'to'-form recipient.
-- 'Do not worry yourself about this bracelet.' Negative colloquial command governing 'of'-form case with a complex preposition.
-- 'I want to become an absolutely free person again.' Modal verb governing copular basic verb form with 'with/as' form descriptive phrase phrase.
-- 'Consider that you don't have it anymore.' command of assumption governing a negative existential clause with 'of me/you' pronoun.
-- 'Can you really resolve this important issue?' Modal verb of capability governing a single-action form and object-form object.
-- 'That is it, you are golden, there are no more problems!' Fixed idiom of prosperity followed by a negative existential phrase.
-- 'Thank you very much, I appreciate your support very much.' Gratitude formula followed by present action verb with object-form direct object.
-- 'I never forget such important services.' Negative temporal adverb with present ongoing-action form governing object-form plural.
-- 'Come on quickly help yourself to this tasty caviar.' Command exhortation governing directional location phrase of culinary enjoyment.
-- 'With pleasure I will try this wonderful black caviar!' Location manner phrase followed by first-person future verb with feminine object-form modifiers.
+- 'Arkasha, my dear, you are a real monster to me!' Back at the governor's mansion, Viktor Stepanovich showers Arkady with affection—and that slang word "monstr" ("beast/legend") returns.
+- 'By the way, they broke a finger on my hand.' Holding up his bandaged hand from the monastery brawl, Arkady fishes for a little sympathy. "Mezhdu prochim" means "by the way".
+- 'On the other hand, seventeen thousand followers appeared on the internet!' What is one broken finger compared to viral fame? That little word "zato" ("on the plus side") brushes Arkady's pain right off.
+- 'Viktor Stepanovich, when will they take off this bracelet from me?' Forget Instagram followers—Arkady only cares about getting the FSB's electronic cuff off his ankle.
+- 'Do not worry yourself about this bracelet.' "Ne zamorachivaysya" is casual modern slang for "don't sweat it / don't get hung up on that".
+- 'I want to become an absolutely free person again.' After twelve episodes trapped in a communal apartment under house arrest, freedom is all he can think about.
+- 'Consider that you don't have it anymore.' "Schitay, chto..." ("count/consider that...") is how a powerful boss waves his hand and declares a problem solved.
+- 'Can you really resolve this important issue?' Even Arkady knows that taking off a federal monitoring bracelet takes serious pull.
+- 'That is it, you are golden, there are no more problems!' Literally he says "you are in chocolate" ("ty v shokolade"), the Russian idiom for living the sweet life with every problem solved.
+- 'Thank you very much, I appreciate your support very much.' Completely fooled by the warm welcome, Arkady bows and scrapes before his patron.
+- 'I never forget such important services.' Keep this promise in mind: within the hour, the governor will "reward" Arkady's service by trying to drown him in a lake.
+- 'Come on quickly help yourself to this tasty caviar.' "Navalivaysya" literally means "pile yourself onto it"—the hearty way a Russian host tells you to dig into a feast.
+- 'With pleasure I will try this wonderful black caviar!' Nothing symbolizes corrupt Russian luxury quite like spooning up black caviar by the bowlful.

@@ -10,34 +10,34 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Я прямо сейчас должен идти? | Must I go right now? | #211: Прямо на работе | verbatim |
+| 1 | Лёва | Я прямо сейчас должен идти? | Must I go right now? | #211 00:11:51: Прямо на работе | verbatim |
 | 2 | Лавров | Да, Соколов, именно сейчас. | Yes, Sokolov, right now. | new | new: Anatoly confirms the immediate order |
-| 3 | Лёва | А что у меня из оборудования? | And what equipment do I have? | #213: А что у меня из наблюдательного оборудования | verbatim |
-| 4 | Лавров | Твои собственные глаза! | Your own eyes! | #214: Глаза | verbatim |
+| 3 | Лёва | А что у меня из оборудования? | And what equipment do I have? | #213 00:11:59: А что у меня из наблюдательного оборудования | verbatim |
+| 4 | Лавров | Твои собственные глаза! | Your own eyes! | #214 00:12:01: Глаза | verbatim |
 | 5 | Лёва | И это всё моё оборудование? | And is that all my equipment? | new | new: Sokolov expresses skepticism |
 | 6 | Лавров | Этого тебе вполне достаточно. | That is quite enough for you. | new | new: Anatoly dismisses complaints |
-| 7 | Лёва | А что это у вас на столе? | And what is that on your table? | #215: А вы что тут | verbatim |
-| 8 | Лёва | Вы что, пить алкоголь собрались? | Are you planning to drink alcohol? | #215: пить собрались | verbatim |
-| 9 | Лавров | Ну вот, твои глаза отлично работают! | Well look, your eyes work excellently! | #216: наблюдательное оборудование функционирует | verbatim |
-| 10 | Лавров | Наблюдательное оборудование в полном порядке. | The surveillance equipment is in full working order. | #216: Ну вот, наблюдательное оборудование функционирует | verbatim |
+| 7 | Лёва | А что это у вас на столе? | And what is that on your table? | #215 00:12:04: А вы что тут | verbatim |
+| 8 | Лёва | Вы что, пить алкоголь собрались? | Are you planning to drink alcohol? | #215 00:12:04: пить собрались | verbatim |
+| 9 | Лавров | Ну вот, твои глаза отлично работают! | Well look, your eyes work excellently! | #216 00:12:06: наблюдательное оборудование функционирует | verbatim |
+| 10 | Лавров | Наблюдательное оборудование в полном порядке. | The surveillance equipment is in full working order. | #216 00:12:06: Ну вот, наблюдательное оборудование функционирует | verbatim |
 | 11 | Лёва | Вы будете отдыхать, а я мёрзнуть? | You will relax while I freeze? | new | new: Sokolov resents the unfair assignment |
 | 12 | Лавров | Приказ начальника надо выполнять. | The chief's order must be carried out. | new | new: Anatoly appeals to authority |
-| 13 | Лавров | Иди и действуй, Соколов! | Go and take action, Sokolov! | #217: Действуй, Соколов | verbatim |
+| 13 | Лавров | Иди и действуй, Соколов! | Go and take action, Sokolov! | #217 00:12:09: Действуй, Соколов | verbatim |
 | 14 | Лёва | Понял, уже иду наблюдать. | Understood, I am already going to observe. | new | new: Sokolov resigns to his task |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Must I go right now?' Sokolov clarifies the timing with a modal adjective.
-- 'Yes, Sokolov, right now.' Anatoly confirms the urgency with an emphatic adverb.
-- 'And what equipment do I have?' Sokolov asks about surveillance gear.
-- 'Your own eyes!' Anatoly answers bluntly with a plural noun.
-- 'And is that all my equipment?' Sokolov questions the lack of technology.
-- 'That is quite enough for you.' Anatoly uses a descriptive word adverb for sufficiency.
-- 'And what is that on your table?' Sokolov notices a suspicious bottle.
-- 'Are you planning to drink alcohol?' Sokolov asks about their party plans.
-- 'Well look, your eyes work excellently!' Anatoly jokes at the sharpness of his vision.
-- 'The surveillance equipment is in full working order.' Anatoly mocks him with official bureaucratic jargon.
-- 'You will relax while I freeze?' Sokolov resents the unfair division of labor.
-- 'The chief's order must be carried out.' Anatoly cites authority.
-- 'Go and take action, Sokolov!' Anatoly sends him off with two command form.
-- 'Understood, I am already going to observe.' Sokolov departs reluctantly for the cold stakeout.
+- 'Must I go right now?' Hoping to stall for a few minutes, Sokolov double-checks whether the order means this very second.
+- 'Yes, Sokolov, right now.' Anatoly wants him out of the room immediately and leaves no wiggle room.
+- 'And what equipment do I have?' Expecting high-tech spy gear, he asks what tools he gets for the stakeout.
+- 'Your own eyes!' That is the whole kit: no binoculars, no cameras, just his own two eyes.
+- 'And is that all my equipment?' Lyova cannot believe the agency is sending him out empty-handed.
+- 'That is quite enough for you.' With a deadpan face, Lavrov insists that a pair of eyes is plenty for this job.
+- 'And what is that on your table?' Then Sokolov spots a bottle sitting right on the desk.
+- 'Are you planning to drink alcohol?' Suddenly it clicks: his colleagues are clearing him out so they can pour a drink.
+- 'Well look, your eyes work excellently!' Turning the complaint into a joke, Anatoly congratulates him on his sharp eyesight.
+- 'The surveillance equipment is in full working order.' Calling Lyova's eyes "surveillance equipment" in stiff official language makes the teasing even funnier.
+- 'You will relax while I freeze?' While the senior officers stay warm inside with a bottle, the junior guy gets the freezing street corner.
+- 'The chief's order must be carried out.' Whenever he needs to end an argument, Lavrov hides behind the boss's authority.
+- 'Go and take action, Sokolov!' Two brisk commands usher the reluctant agent toward the exit.
+- 'Understood, I am already going to observe.' Defeated, he trudges out into the cold to watch the house.

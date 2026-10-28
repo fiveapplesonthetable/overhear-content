@@ -33,13 +33,13 @@ STORY = [
     ('arkady', 'Какой же я тупой!', 'How stupid I am!', [(800, 'Тупой, тупой')], ''),
 ]
 WALK = [
-    (0, None, "'Ow! Something sharp poked into my foot!' This phrase means to dig in or pierce into something."),
-    (1, None, "'What is that there? Is it a screw?' The noun refers to a standard wood screw with threads."),
+    (0, None, "'Ow! Something sharp poked into my foot!' Limping across the room, Arkady yelps as something sharp jabs right into the sole of his foot."),
+    (1, None, "'What is that there? Is it a screw?' Lyolya peers down at the floorboards to see if he stepped on a metal wood screw."),
     (2, None, "'Yes, a screw from the old floor.' Right then, Samson had dropped it earlier while fixing the floorboards for Lyoshka."),
     (3, None, "'My goodness! What an idiot I am!' Seeing the screw triggers Arkady's memory of the hospital mix-up."),
     (4, None, "'Arkasha, what has happened to you?' Lyolya uses the affectionate diminutive for Arkady in surprise."),
-    (5, None, "'I forgot to say the main thing!' The adjective used as a noun refers to the most important thing."),
-    (6, None, "'I needed to tell Marina urgently!' The adverb means immediately, urgently, or without delay."),
+    (5, None, "'I forgot to say the main thing!' In all the chaos, he completely forgot to pass on the most important message of all."),
+    (6, None, "'I needed to tell Marina urgently!' Dr. Tenenbaum's warning about the misdiagnosis had to reach Marina before the surgeons started!"),
     (7, None, "'Wait! Where are you running off to?' Lyolya is confused by his sudden panic."),
     (8, None, "'Wait here! I'll be right back.' Arkady rushes out of his room into the communal corridor in his socks."),
     (9, None, "'Marina! Where is Marina?' He bangs on Marina's bedroom door, but nobody answers."),
@@ -47,5 +47,5 @@ WALK = [
     (11, None, "'Klavdia Viktorovna, where is Marina?' Arkady grabs the elderly neighbor by the shoulders in desperation."),
     (12, None, "'She's at the hospital, with Lyokha having surgery.' The doctors are about to operate on a healthy knee due to mixed-up X-rays."),
     (13, None, "'What do you mean, surgery? Good grief, what a nightmare!' Arkady realizes the catastrophic consequences of his silence."),
-    (14, None, "'How stupid I am!' The colloquial adjective means blunt, obtuse, or utterly stupid."),
+    (14, None, "'How stupid I am!' Arkady curses himself bitterly for forgetting when a child's health is on the line."),
 ]

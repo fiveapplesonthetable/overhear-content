@@ -32,10 +32,10 @@ STORY = [
     ('guide', 'Яблоко от яблони недалеко падает!', "The apple doesn't fall far from the tree!", [(754, 'Яблоко от яблони')], ''),
 ]
 WALK = [
-    (0, None, "'We are now heading to the War Glory Memorial Mound.' The noun refers to an ancient burial mound or memorial hill."),
-    (1, None, "'During the tour, no shouting and no running!' In Russian, negative infinitives are often used for strict official rules."),
+    (0, None, "'We are now heading to the War Glory Memorial Mound.' A 'kurgan' is a giant memorial hill built to honor fallen soldiers."),
+    (1, None, "'During the tour, no shouting and no running!' Barking out 'not to shout, not to run!' is how strict Russian teachers and tour guides lay down the law."),
     (2, None, "'Do not interrupt the guide! Is that clear to everyone?' The organizer insists on total discipline from the passengers."),
-    (3, None, "'Everyone get on the buses quickly!' The location phrase literally means 'into the buses'."),
+    (3, None, "'Everyone get on the buses quickly!' She claps her hands and herds the whole group onto the waiting buses."),
     (4, None, "'Vanya, let's go quickly! Where is Slavik?' Nina rushes toward the bus door, trying to herd her family aboard."),
     (5, None, "'Coming, I'm already on my way. Don't rush me.' Samson trudges slowly through the snow, carrying picnic supplies."),
     (6, None, "'Samsonova! Stop! You're not going anywhere!' The guide steps in front of Nina and plants her feet firmly on the steps."),

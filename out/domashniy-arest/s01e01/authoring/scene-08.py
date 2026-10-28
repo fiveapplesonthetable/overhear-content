@@ -48,7 +48,7 @@ WALK = [
     (8, 'Аркаш, мне москвичи звонят каждый день.', "'Arkasha, the people from Moscow call me every day.' Literally, 'to me Muscovites call'. Some Moscow investors want to build a huge industrial complex, a 'cluster', near the town."),
     (8, 'Может, всё-таки передумаем?', "'Maybe we should reconsider after all?' It's the same verb Arkady used yesterday with Samson, about changing your mind. Arkady has already said no."),
     (9, None, "'I told you: no.' The little word after 'I' adds emphasis, like 'I did tell you'. Pasha tries the money argument."),
-    (10, None, "'There's so much money in it! Money will flow like a river.' The word for 'river' here is in the 'with/as' form: it means 'like a river'. Arkady answers with the same verb."),
+    (10, None, "'There's so much money in it! Money will flow like a river.' The word for 'river' takes the 'like a river' ending here. Arkady throws that very same word for 'flow' right back at him."),
     (11, None, "'And then waste will flow.' Factory waste, into the lakes. Pasha reminds him who they are."),
     (12, None, "'But we're in business here.' He means: we're here to make money. Arkady has a funny answer."),
     (13, None, "'Greed, Pasha, should be moderate. Room temperature.' Greed is fine, but not too hot. Then he points out of the window."),

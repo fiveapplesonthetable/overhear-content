@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You lost everything yourself!' The emphatic pronoun stresses personal responsibility for the election disaster.
-- 'What do you want from me now?' Notice the 'of'-form personal pronoun following the preposition for 'from'.
-- 'Viktor Stepanovich, please help me!' Pasha pleads using the patronymic and polite command.
-- 'How can I help you?' Viktor Stepanovich responds skeptically with the modal verb 'can'.
-- 'Your Samsonov is charging ahead like a tank!' Colloquial verb describing relentless, stubborn momentum.
-- 'You are an experienced politician, after all.' Pasha flatters the senior official with an appreciative adjective.
-- 'Think of something, please.' The indefinite pronoun means 'something or other'.
-- 'And why do I need this, Pasha?' This phrase asks about the purpose or personal benefit.
-- 'In Moscow they think Samsonov is a good option.' The third-person plural verb indicates a general prevailing opinion.
+- 'You lost everything yourself!' Viktor Stepanovich puts the blame squarely on Pasha for blowing the election on his own.
+- 'What do you want from me now?' He leans back and coldly asks what Pasha expects him to do about the mess now.
+- 'Viktor Stepanovich, please help me!' Addressing his boss by name and patronymic, Pasha drops his pride and begs for a lifeline.
+- 'How can I help you?' The veteran politician shrugs skeptically, acting as if his hands are tied.
+- 'Your Samsonov is charging ahead like a tank!' Comparing Samsonov to a rolling tank captures his unstoppable momentum with the voters.
+- 'You are an experienced politician, after all.' Pasha tries to flatter the older man's vanity by appealing to his years of political savvy.
+- 'Think of something, please.' Desperate for a way out, he begs the boss to cook up some kind of clever scheme.
+- 'And why do I need this, Pasha?' Viktor Stepanovich cuts straight to the point: what is in it for him personally?
+- 'In Moscow they think Samsonov is a good option.' Without naming names, he hints that the powers that be in the capital are already warming to Samsonov.
 - 'No, he is a terrible option! Help!' Pasha urgently rejects the idea that his rival could be accepted.
 - 'Alright. Three million.' The senior official names his price with blunt brevity.
-- 'I don't have that kind of money right now.' This phrase expresses complete lack of funds.
+- 'I don't have that kind of money right now.' Caught short, Pasha has to admit he doesn't have that kind of cash on hand.
 - 'Pasha, are you a church or an orphanage?' Viktor Stepanovich sarcastically asks if Pasha is a registered charity.
-- 'Why should I help you for free?' The adverb means 'for free' or 'without payment'.
+- 'Why should I help you for free?' Nobody does favors for nothing in this office, and Viktor Stepanovich makes that crystal clear.

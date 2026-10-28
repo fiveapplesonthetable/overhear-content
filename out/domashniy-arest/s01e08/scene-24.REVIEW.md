@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hello, family! I returned home.' Ivan tries to greet everyone cheerfully after disappearing.
 - 'Oh, alive! Well, I never!' Nina's sarcastic exclamation greets his unexpected return.
-- 'You were not home for three days!' The 'of' form follows the negative past construction.
-- 'I did not sleep at all at night.' The 'with'-form plural expresses the time when something happened.
+- 'You were not home for three days!' Three whole days without a word or a phone call left the family frantic.
+- 'I did not sleep at all at night.' Nina spent night after night wide awake worrying whether he was even alive.
 - 'I simply took a short break.' Ivan offers a weak excuse for his long drinking binge.
-- 'Tomorrow evening I have a debate.' The adverbial phrase establishes the upcoming event.
-- 'I really need the family's support.' The short adjective expresses necessity in the 'to/for' form construction.
-- 'How on earth will I go there?' The emphatic particle conveys Nina's strong reluctance.
+- 'Tomorrow evening I have a debate.' Ivan awkwardly brings up the real reason he came home: the live television debate is tomorrow night.
+- 'I really need the family's support.' To face the cameras after the scandal, he wants his wife and kids sitting in the studio audience.
+- 'How on earth will I go there?' Nina stares at him in disbelief — how could she possibly sit there smiling after what he put them through?
 - 'I hate you right now!' Nina bluntly refuses to stand by his side in public.
 - 'Children, and will you go with me?' Ivan turns to his offspring hoping for loyalty.
 - 'No, Dad, we have a field trip.' Yulia immediately provides an excuse to decline.
-- 'All the upper grades are going tomorrow.' The present tense verb describes scheduled future motion.
+- 'All the upper grades are going tomorrow.' Yulia backs up her excuse by claiming the whole high school is going on the trip.
 - 'I see. That means no one will help.' Ivan accepts the harsh reality that he is entirely alone.
 - 'You yourself are to blame for your troubles.' Nina delivers the final stinging rebuke.

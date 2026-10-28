@@ -44,7 +44,7 @@ WALK = [
     (5, 'А что с ними делать?', "'And what are we supposed to do with them?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'to do'."),
     (5, 'Они совсем совесть потеряли!', "'They've completely lost their conscience!' Meaning the town officials. The reporter presses him."),
     (6, None, "'And what do you propose? Throwing all officials out the window?' At this point, Samson starts to agree, then remembers what Arkady coached him to say."),
-    (7, 'Можно и всех!', "'Could do all of them!' The key word here means 'one could', anchored at the close by 'one could'."),
+    (7, 'Можно и всех!', "'Could do all of them!' Looking at the rival candidates on the screen, Samson brags that he could beat the whole lot of them."),
     (7, 'Но только это не поможет.', "'Only that won't help.' Here, Arkady jumps in on cue to steer the conversation."),
     (8, None, "'Right, that won't help! People need to do it themselves now.' At this point, Samson forgets his next line."),
     (9, None, "'Do what themselves?' Luckily, the reporter guesses it for him."),
@@ -53,6 +53,6 @@ WALK = [
     (12, None, "'He is putting forward his candidacy for the post of mayor of the city!' The reporters gasp and ask Samson directly."),
     (13, None, "'Do you confirm this, Ivan Vasilyevich?' Prompted by a nod from Arkady, Samson repeats the long phrase."),
     (14, None, "'Yes, yes! I am putting forward my candidacy.' And Arkady wraps up with a campaign pitch and their new slogan."),
-    (15, 'У Самсонова главное — честность и порядочность.', "'Samsonov has the main thing — honesty and decency.' Listen for the word meaning 'there is', which leads straight into 'decency'."),
+    (15, 'У Самсонова главное — честность и порядочность.', "'Samsonov has the main thing — honesty and decency.' Arkady sums up their campaign pitch: what Samsonov has is simple honesty and decency."),
     (15, 'Все говорят, а он делает!', "'Everyone talks, while he gets things done!' Here, Nina immediately steps up to give reporters the phone number of their campaign headquarters, and soon the news is on every screen in town."),
 ]

@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'How is that even possible, eh?' Samsonov shakes his head in disbelief over the allegations.
-- 'For us that is a sacred holiday!' Notice the adjective meaning 'sacred' used with a masculine noun.
+- 'For us that is a sacred holiday!' Victory Day is sacred to Ivan's whole generation, which is why being called a traitor's grandson cuts him to the bone.
 - 'I always watched movies about the war.' Samsonov recalls growing up on Soviet patriotic cinema.
 - 'There is such a profession — defending the motherland!' Samsonov quotes the famous line from the classic Soviet movie 'Officers'.
-- 'How can one live with this now, eh?' Notice the basic verb form construction expressing inability to cope.
+- 'How can one live with this now, eh?' Literally, 'how now with this to live?' — Ivan feels he can never hold his head up in town again.
 - 'Yes, things are really bad.' The companion sympathizes with Ivan's awful situation.
 - 'Where were you for so long?' The companion asks where Ivan disappeared to.
 - 'Sorry, I have severe depression.' Ivan explains his despair using a modern loanword.
-- 'Then go get a new bottle.' Notice the preposition with the 'with/as' form denoting what to fetch.
-- 'Are you sending me for vodka?' Notice the verb meaning 'to send' with the preposition of purpose.
-- 'You drank it all yourself after all!' Emphatic pronoun used to point out that Ivan drank the whole bottle.
-- 'There are only drunks out on the street.' A colloquial noun referring to chronic drinkers.
+- 'Then go get a new bottle.' His drinking buddy has a much simpler priority: somebody needs to go fetch another bottle.
+- 'Are you sending me for vodka?' Ivan is offended that he is the one being sent on the liquor run.
+- 'You drank it all yourself after all!' His friend points out the obvious: Ivan is the one who polished off the last bottle.
+- 'There are only drunks out on the street.' Sitting on a bench with an empty bottle, Ivan ironically complains that the street is full of drunks.
 - 'Let's go together, I want to drink more.' Ivan drags his companion along toward the nearest kiosk.

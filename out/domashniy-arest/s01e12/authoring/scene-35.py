@@ -35,7 +35,7 @@ WALK = [
     (0, None, "'Drop your weapon right now!' Samsonov confronts the cornered gunman with determination."),
     (1, None, "'Pasha, why are you killing everyone?' Samsonov demands an answer for the senseless violence."),
     (2, None, "'They all wanted to betray me!' Pasha desperately justifies his ruthless actions in fear."),
-    (3, None, "'Have you no conscience at all?' Samsonov asks whether Pasha feels any human guilt."),
+    (3, None, '\'Have you no conscience at all?\' Literally "Do you have a conscience at all?"—the sharpest moral question you can ask someone in Russian.'),
     (4, None, "'In this city there is no conscience.' Pasha cynically rejects any moral code in local politics."),
     (5, None, "'You chose this terrible path yourself.' Samsonov places full personal responsibility on Pasha."),
     (6, None, "'I simply needed that money!' Pasha admits his insatiable greed drove the whole scheme."),

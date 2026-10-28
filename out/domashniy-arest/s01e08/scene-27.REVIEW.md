@@ -29,17 +29,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'In short, guys!' Samsonov addresses his construction team informally.
-- 'If you support me, we will break through.' The conditional sentence uses the future tense in Russian.
+- 'If you support me, we will break through.' Samsonov tries to fire up the crew, promising they will break through together if his friends back him up.
 - 'Let's bring the heat at these debates!' The idiom means to show everyone what they are capable of.
 - 'What do you say?' He looks around the locker room expecting enthusiastic cheers.
 - 'Samson, I can't.' His friend Grisha makes a nervous excuse.
-- 'My mother-in-law is arriving.' In Russian, 'at my place' is expressed with the preposition and 'of'-form.
-- 'I need to meet her.' Notice the descriptive word used with the basic verb form to express necessity.
+- 'My mother-in-law is arriving.' Grisha quickly invents the classic excuse: his mother-in-law is coming to town.
+- 'I need to meet her.' According to Grisha, he has to be at the station to meet her train.
 - 'And why are you silent?' Samsonov turns sharply to Sanya.
-- 'Who is coming to your place?' The preposition with 'to'-form indicates motion toward someone.
+- 'Who is coming to your place?' Suspicious, Samsonov asks Sanya which relative is supposedly visiting him.
 - 'Nobody.' Sanya stares down at the floor.
-- 'My tooth hurts.' The verb means 'to ache' or 'to cause pain'.
-- 'I made an appointment with the doctor.' This phrase means to sign up or register for an appointment.
+- 'My tooth hurts.' Cornered, Sanya grabs his jaw and claims he has a terrible toothache.
+- 'I made an appointment with the doctor.' He swears he already booked an appointment with the dentist for that exact evening.
 - 'Have you fallen from an oak tree?' This colourful Russian idiom means 'have you gone completely mad?'.
 - 'What tooth?' Samsonov sees right through all of their transparent excuses.
 - 'My wisdom tooth hurts!' Sanya stubbornly insists on his dentist appointment.
@@ -47,7 +47,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where is she coming from?' He asks sarcastically if she is rising from the cemetery.
 - 'Samson, if we go, everyone will think badly.' Grisha admits the real problem.
 - 'They will think that we support bad people.' The smear campaign against Samsonov has scared his own friends.
-- 'And in your opinion, am I a bad person?' Notice the parenthetical phrase meaning 'in your view'.
+- 'And in your opinion, am I a bad person?' Wounded, Samsonov asks his old friends straight out whether they really think he is a bad man.
 - 'Why are you silent?' Nobody in the room dares to meet his eyes.
 - 'Listen, Samson, forgive us.' Sanya tries to soften the blow.
 - 'But you have changed.' They feel he has moved into the mayor's corrupt circle.

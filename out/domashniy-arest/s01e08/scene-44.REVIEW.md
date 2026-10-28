@@ -29,12 +29,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'What, Marina, are you going to hit me?' Arkady jokingly shrinks back as Marina steps out into the hallway.
 - 'If you come near us, I will call the police!' Marina glares at him with utter disgust.
-- 'And you'll end up in prison.' The impersonal plural verb expresses 'they will put you in prison'.
+- 'And you'll end up in prison.' Literally, 'they will seat you in prison' — Russian uses that everyday word for locking someone up.
 - 'Why are you so hostile?' Arkady cannot understand why she isn't showering him with kisses.
 - 'I saved your son, for the record.' Notice the parenthetical Russian idiom meaning 'by the way' or 'for the record'.
 - 'You? You don't care about my child at all!' Marina scoffs at his claim of heroism.
 - 'Dr. Tenenbaum did all of this.' She gives full credit to the famous Moscow physician.
-- 'A complete stranger from Moscow took the trouble.' The single-action form literally means 'did not succumb to laziness'.
+- 'A complete stranger from Moscow took the trouble.' In Russian, saying someone 'was not lazy' is a warm way to say they went out of their way to help.
 - 'He called and warned us himself.' The doctor called hospital staff urgently to stop the surgery.
 - 'Because he knew that you didn't care!' Marina believes Arkady only cares about his own selfish interests.
 - 'I don't want to see you anymore.' She refuses to have anything more to do with him.

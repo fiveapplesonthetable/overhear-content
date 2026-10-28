@@ -30,10 +30,10 @@ STORY = [
     ('arkady', 'Кто это? Вы?!', 'Who is that? You?!', [(1021, 'Вы')], "'Кто это?' added"),
 ]
 WALK = [
-    (0, None, "'The court has considered the new circumstances of the case.' The verb literally means 'took into account'. And what are those new circumstances?"),
-    (1, None, "'Conflicts with the neighbours threaten the defendant's health.' After the verb 'threaten', 'health' takes the 'to/for' form: literally, 'threaten to the health'. That is how Berg justifies letting Arkady leave the communal flat."),
-    (2, None, "'The court has ruled to grant Anikeev's appeal.' In Russian legal style, the basic verb form 'to satisfy' comes right at the end of the sentence."),
-    (3, None, "'To replace house arrest with a travel ban.' With the verb 'replace', the new thing is introduced by 'onto': replace house arrest onto a travel ban. Arkady can't contain his joy."),
+    (0, None, "'The court has considered the new circumstances of the case.' The action word literally means 'took into account'. And what are those new circumstances?"),
+    (1, None, "'Conflicts with the neighbours threaten the defendant's health.' After the action word 'threaten', 'health' takes the 'to/for' form: literally, 'threaten to the health'. That is how Berg justifies letting Arkady leave the communal flat."),
+    (2, None, "'The court has ruled to grant Anikeev's appeal.' In Russian legal style, the dictionary form 'to satisfy' comes right at the end of the sentence."),
+    (3, None, "'To replace house arrest with a travel ban.' With the action word 'replace', the new thing is introduced by 'onto': replace house arrest onto a travel ban. Arkady can't contain his joy."),
     (4, None, "'Yes! At last! I'm free!' He uses the short masculine form for 'free'. Judge Berg bangs his gavel."),
     (5, None, "'I demand silence! Respect the court!' After 'I demand', 'silence' takes the 'of'-form ending. Just as Arkady prepares to walk out a free man, the prosecutor rises."),
     (6, None, "'Your Honour, we have an important statement.' In a Russian courtroom, the judge is addressed as 'Your Honour'. Then comes the bombshell."),

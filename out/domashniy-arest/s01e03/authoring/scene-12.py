@@ -32,7 +32,7 @@ STORY = [
     ('samson', 'Заодно ветки во дворе постригу.', "And at the same time I'll trim the branches in the yard.", [(408, 'Заодно ветки во дворе постригу')], ''),
 ]
 WALK = [
-    (0, None, "'Nina, look what I found! A fishing rod!' The noun for 'fishing rod' has the object-form '-u' ending because it's the object of 'found'. Nina is not impressed."),
+    (0, None, "'Nina, look what I found! A fishing rod!' The word for 'fishing rod' has the object-form '-u' ending because it's the object of 'found'. Nina is not impressed."),
     (1, None, "'It's the first time I've seen anyone scare people with a fishing rod.' Notice the 'with/as' ending on 'with a fishing rod'. Samson tries to justify his choice."),
     (2, None, "'There's fishing line and a sharp hook here. It's very painful!' At this point, Nina sees right through him."),
     (3, None, "'Samson, I don't understand. Don't you want the flat?' Remember Pasha promised them a three-room flat with a balcony if they scare the truth out of Arkady. Samson answers honestly."),
@@ -41,9 +41,9 @@ WALK = [
     (6, None, "'And what if there is no flat?' With negative 'will not be', Russian puts 'this flat' into the 'of' form."),
     (7, None, "'With an attitude like that, of course there won't be.' The word for 'mood' or 'attitude' is in the 'with/as' form after 'with'."),
     (8, None, "'Stop it! We will have the flat.' Literally 'there will be by us a flat'. Samson picks up a tiny tool from the shelf."),
-    (9, None, "'All right. Shall we show this to Anikeev?' The future-tense form 'we will show' asks 'shall we show?'. Nina rolls her eyes."),
+    (9, None, "'All right. Shall we show this to Anikeev?' The future form 'we will show' asks 'shall we show?'. Nina rolls her eyes."),
     (10, None, "'Have you lost your mind? He won't be scared!' Literally 'have you stepped down from your mind?' — a very common everyday idiom."),
-    (11, None, "'Right, we are not joking, understood? Find a scarier tool.' The last word is the comparative form: 'scarier' or 'more frightening'. Then Samson spots a big pair of garden shears."),
+    (11, None, "'Right, we are not joking, understood? Find a scarier tool.' The last word is the 'more' form: 'scarier' or 'more frightening'. Then Samson spots a big pair of garden shears."),
     (12, None, "'Oh, look, cheap and effective!' Word for word: 'both cheap and angry' — a famous Russian idiom for something inexpensive that really does the job."),
     (13, None, "'And at the same time I'll trim the branches in the yard.' Practical to the end: even when buying a tool to frighten the mayor, Samson is thinking about yard work."),
 ]

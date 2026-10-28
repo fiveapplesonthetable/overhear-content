@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'You will bring the child in the morning.' The surgeon gives direct instructions.
-- 'Here, read this and sign right here.' This phrase means to place one's signature.
+- 'Here, read this and sign right here.' The surgeon hands over the clipboard and points to the dotted line at the bottom.
 - 'Tell me, is this operation very dangerous?' Marina asks the question that terrifies her.
 - 'Here all operations are complex and dangerous.' The doctor refuses to offer false comfort.
 - 'And what if we don't do it?' Marina searches for alternatives.
-- 'Then the boy will not be able to walk.' The future modal construction describes the consequence.
-- 'I am very afraid for the child.' The verb takes the preposition meaning 'for'.
+- 'Then the boy will not be able to walk.' He paints a grim picture: without the operation, Lyosha will lose the ability to walk.
+- 'I am very afraid for the child.' Marina's voice trembles with a mother's fear for her little boy.
 - 'Then what have you decided?' The surgeon is impatient to finish the paperwork.
 - 'Time is passing.' Literally 'time is walking'.
 - 'I just want to hear the truth.' Marina wants honest medical facts.
-- 'If something happens, you must understand.' The conditional clause uses the future tense.
+- 'If something happens, you must understand.' Before taking the pen back, the doctor makes sure she understands the risks.
 - 'All responsibility lies with you.' The hospital protects itself from legal liability.
 - 'Fine.' Marina surrenders to her desperation.
 - 'I will sign everything.' With a heavy heart, she signs the forms.

@@ -31,15 +31,15 @@ STORY = [
 ]
 WALK = [
     (0, None, "'If you stay silent, I will leave now.' Marina pretends to walk away to force his hand."),
-    (1, None, "'Wait, I will tell you everything.' The command form stops her departure in time."),
+    (1, None, "'Wait, I will tell you everything.' Afraid she will actually walk out, Arkady quickly calls her back and promises to spill everything."),
     (2, None, "'I hid the money in a kindergarten.' Arkady reveals the bizarre hiding spot."),
     (3, None, "'In a kindergarten? That cannot be!' Marina's exclamation expresses pure disbelief."),
     (4, None, "'An old female acquaintance of mine works there.' Arkady explains his trusted connection."),
     (5, None, "'She was a close female friend of mine.' He clarifies their former intimate bond."),
     (6, None, "'But that was very long ago.' Arkady quickly downplays the relationship to appease Marina."),
-    (7, None, "'Are you satisfied with my answer now?' The short adjective checks if she believes him."),
+    (7, None, "'Are you satisfied with my answer now?' Having spun his tale, Arkady smugly asks whether his confession satisfies her."),
     (8, None, "'And I am not interested in that at all!' Marina huffs and denies any personal interest."),
-    (9, None, "'I simply asked out of curiosity.' The location phrase frames her inquiry as casual."),
+    (9, None, "'I simply asked out of curiosity.' Trying to hide her jealousy, she claims she only asked about the woman out of idle curiosity."),
     (10, None, "'Are you jealous of my past?' Arkady teases her about her obvious emotional reaction."),
     (11, None, "'Nothing of the sort, you mean nothing to me!' Marina furiously denies her rising jealousy."),
 ]

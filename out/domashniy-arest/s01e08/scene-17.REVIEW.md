@@ -27,14 +27,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, come on, don't be upset.' The negative command reassures someone who is worried.
-- 'Wait here for now.' The adverb indicates a temporary pause while waiting.
-- 'Yes, get it from the car.' The command form tells him where to collect the items.
-- 'Careful, this box is very heavy!' The short adjective describes the heavy load.
+- 'Alright, come on, don't be upset.' The first man tries to calm his nervous companion as they load up the car.
+- 'Wait here for now.' He tells the others to stay put for a moment by the curb.
+- 'Yes, get it from the car.' They can pull the rest of the gear straight out of the back seat.
+- 'Careful, this box is very heavy!' The second man grunts under the weight of a crate and warns his partner to watch his grip.
 - 'Is everything okay?' A common Russian phrase asking if things are fine.
-- 'I will bring one more box now.' The adverb indicates an additional item coming.
-- 'Hurry up, it is cold outside.' The impersonal phrase describes the freezing weather.
-- 'Now it will be just right.' The future tense promises that the job will soon be done.
-- 'Ow, I do not have gloves.' The negative construction uses the 'of' form.
+- 'I will bring one more box now.' There is still one more heavy box waiting to be carried out.
+- 'Hurry up, it is cold outside.' Standing around in the bitter street air makes both men eager to finish the job.
+- 'Now it will be just right.' One last push and everything will be packed and ready to roll.
+- 'Ow, I do not have gloves.' Grabbing freezing metal and wood barehanded stings, and he wishes he had brought gloves.
 - 'Alright, give it here quickly!' The colloquial command urges him to hurry up.
 - 'Great, close the trunk quickly!' They finish loading and shut the car trunk.

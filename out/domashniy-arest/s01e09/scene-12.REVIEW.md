@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, come in.' Formal polite command inviting a visitor into the room.
-- 'Hello, am I not disturbing you?' Standard courteous formula when entering someone's private space.
-- 'Hello. To what do I owe the pleasure?' A polite, formal expression asking the reason for a visit.
-- 'Yesterday turned out rather awkwardly.' Impersonal past neuter construction describing an unfortunate event.
-- 'Indeed, not very well at all.' Conversational particle agreeing with an understated negative evaluation.
-- 'I brought you a bottle of wine.' Feminine past tense verb with 'to me/you' pronoun of the recipient.
-- 'And what are you doing here?' Present tense question word with adverb of location indicating current action.
-- 'I am playing chess against myself.' Idiomatic self-action verb form phrase with preposition and 'with/as' form.
-- 'I was thinking over one move for a long time.' Preposition with 'with/as' form indicating the object of thought.
-- 'You have two white bishops on black squares!' 'of'-form construction of possession with chess pieces in Russian.
-- 'Listen, there is no need to interfere with my game.' Colloquial basic verb form meaning to pry or interfere uninvited.
-- 'Maybe we could sit down and have a drink?' Future-tense form verbs with modal phrase suggesting joint leisure.
-- 'I will not offend you with my refusal.' Compound future with 'with'-form noun specifying the means of offence.
-- 'Come in, take a seat on the chair.' Imperatives of motion and posture welcoming a guest inside.
+- 'Yes, come in.' Hearing a knock at the door, Arkady calls out a polite invitation to step inside.
+- 'Hello, am I not disturbing you?' Marina pauses in the doorway to ask politely if she is interrupting.
+- 'Hello. To what do I owe the pleasure?' Keeping his guard up, Arkady greets her with an old-fashioned 'to what do I owe the pleasure?'
+- 'Yesterday turned out rather awkwardly.' Marina sheepishly admits that things got a bit awkward between them the night before.
+- 'Indeed, not very well at all.' Arkady dryly agrees with her understatement, playing hard to get.
+- 'I brought you a bottle of wine.' As a peace offering, she holds up a bottle of wine she brought for the two of them.
+- 'And what are you doing here?' Glancing at the table, she asks what he is up to all by himself in the room.
+- 'I am playing chess against myself.' To look deep and unbothered, Arkady claims he is locked in a chess match against himself.
+- 'I was thinking over one move for a long time.' He pretends he has been pondering a single brilliant move for ages.
+- 'You have two white bishops on black squares!' In Russian chess a bishop is called an 'elephant,' and Marina immediately spots two white ones on black squares.
+- 'Listen, there is no need to interfere with my game.' Caught faking the board, Arkady gruffly tells her not to butt into his game.
+- 'Maybe we could sit down and have a drink?' Brushing past his prickly mood, Marina suggests they sit down together and share a glass.
+- 'I will not offend you with my refusal.' Framing his surrender as gallantry, Arkady says he wouldn't dream of offending a lady by saying no.
+- 'Come in, take a seat on the chair.' With a grand gesture around his tiny room, he invites her in to take a chair.

@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And do you think this is easy for me?' Viktor cynically feigns deep personal sorrow.
 - 'I am a kind person, I love animals.' A surreal, hypocritical justification from a ruthless killer.
 - 'I even genuinely like you, Arkasha.' Viktor professes affection while having Arkady murdered.
-- 'My heart is literally bleeding right now.' Using dramatic melodrama to soothe his own guilt.
+- 'My heart is literally bleeding right now.' Literally "my heart pours over with blood" ("serdtse krovyu oblivayetsya")—dramatic Russian crocodile tears from the man giving the order.
 - 'I will not be able to sleep tonight.' Stepanovich worries only about his own comfort.
 - 'Well, no matter, I will build a church later.' Planning religious repentance for murder.
 - 'I swear, I will not tell anyone anything!' Arkady promises complete silence in panic.
 - 'Take off his warm felt boots quickly.' Viktor coldly directs his henchmen to proceed.
-- 'Don't tear my soul, Arkasha, stop it!' Viktor complains about feeling uncomfortable.
+- 'Don't tear my soul, Arkasha, stop it!' "Ne travi dushu" literally means "don't poison my soul", as if Arkady's begging is hurting the killer's feelings.
 - 'Don't, please, spare my life!' A raw cry of terror beside the open icy water.
 - 'Go on, lower him straight into the water!' The fatal command is issued on the river.
 - 'I will haunt your dreams every night!' Arkady curses his murderer with his parting breath.

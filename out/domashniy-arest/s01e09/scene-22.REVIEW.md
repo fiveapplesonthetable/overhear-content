@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What an interesting question you have!' Arkady stalls for time with a flattering comment.
-- 'Well, let's suppose that money exists.' The parenthetical verb introduces a hypothetical scenario.
+- 'Well, let's suppose that money exists.' Playing along cautiously, Arkady treats the missing millions as a purely hypothetical question.
 - 'And where are they hidden?' Marina immediately follows up demanding the exact location.
 - 'Wait. Is our conversation being recorded?' Arkady nervously checks for hidden surveillance.
 - 'Of course, everything is recorded on camera.' Marina bluffingly confirms the recording.
@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am interested in your personal honesty.' Marina frames her inquiry as a test of integrity.
 - 'Do you want to be together with me?' She uses his romantic interest as leverage.
 - 'Yes, I want that very much.' Arkady eagerly reaffirms his affection for her.
-- 'Then tell me only the truth.' This phrase demands absolute transparency from him.
+- 'Then tell me only the truth.' Looking him straight in the eye, Marina demands nothing less than the whole truth.
 - 'Honesty is the foundation of good relationships.' She lays down a strict moral boundary.
 - 'Alright. I will tell you the whole truth.' Arkady relents and prepares to confess.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, will you be making noise much longer?' Conversational prompt followed by an adverb of duration and future compound verb.
-- 'Please, immediately let this young guy go!' Polite request particle with an adverb of manner and single-action form command governing object-form case.
-- 'Look at him, what a brave hero turned up!' Command of perception followed by an exclamatory phrase.
-- 'He was defending the wall and didn't touch anyone.' Coordinated past ongoing-action form governing object-form direct objects.
-- 'He caused disturbances right on the city street.' Past single-action form action verb governing object-form plural and location location phrase.
-- 'Let him go, we will now leave calmly together.' Command form followed by a future-tense form motion verb and manner adverbs.
-- 'Fine, standing down everyone, quickly get in the vehicles!' Military recall term governing 'to'-form case followed by plural self-action verb form command.
-- 'Thank you, officer, for making this sensible decision.' Direct-address noun with an explanatory second half of the sentence in past tense.
-- 'Let him put on his hat and go home.' Third-person command particle with single-action form and ongoing-action form of action.
-- 'Yes, his warm hat is lying right here.' Present verb of posture with an emphatic particle and adverb of place.
-- 'And never violate public order again.' Negative temporal adverbial phrase with an ongoing-action form plural command.
-- 'We are simply peacefully defending our home town.' Adverb of manner with present tense verb governing an object-form noun phrase.
-- 'That is all, disperse, the operation by the wall is completely finished.' Plural self-action verb form command followed by a short passive form.
+- 'Well, will you be making noise much longer?' Holding one of the rowdier students by the collar, the officer sounds more tired than angry.
+- 'Please, immediately let this young guy go!' Marina steps right up to the police line, vouching for her student before he gets thrown in a van.
+- 'Look at him, what a brave hero turned up!' "Kakoy nashyolsya geroy!" ("what a hero turned up!") is classic Russian police sarcasm for a kid trying to act tough.
+- 'He was defending the wall and didn't touch anyone.' She calmly reframes the scuffle: standing in front of old bricks isn't a crime.
+- 'He caused disturbances right on the city street.' "Ustroil besporyadki" ("arranged disorders/disturbances") is the textbook police report phrase for a street brawl.
+- 'Let him go, we will now leave calmly together.' Instead of arguing law with a riot police captain, she gives him an easy way to clear the square.
+- 'Fine, standing down everyone, quickly get in the vehicles!' "Otboy" is the military and police word for "stand down / all clear", signaling that the confrontation is over.
+- 'Thank you, officer, for making this sensible decision.' A little dignity and politeness go a long way in making sure the police actually drive off.
+- 'Let him put on his hat and go home.' In the middle of a Russian winter, even the arresting officer worries that the kid lost his hat in the snow.
+- 'Yes, his warm hat is lying right here.' Bending down to pick up the warm hat from the trampled snow brings the tense standoff back to everyday life.
+- 'And never violate public order again.' He has to deliver one last official finger-wag before climbing into the patrol wagon.
+- 'We are simply peacefully defending our home town.' "Rodnoy gorod" means more than just "home town"—"rodnoy" comes from the root for birth and kin, so it means a place that is part of your family.
+- 'That is all, disperse, the operation by the wall is completely finished.' "Vsyo, raskhodites" ("that's all, disperse/walk apart") closes the curtain on the monastery protest.

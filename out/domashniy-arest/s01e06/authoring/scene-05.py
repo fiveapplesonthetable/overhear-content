@@ -58,7 +58,7 @@ WALK = [
     (11, None, "Ignatyev waves him out the door: 'Go on, fifteen.'"),
     (12, None, "When Yulya returns to clear the cups, Ignatyev asks gently: 'Well, how is it, Yulya, is nobody bothering you here?'"),
     (13, 'Да нет.', "Yulya puts on her sweetest innocent voice: 'No, not at all.'"),
-    (13, 'Спасибо, Вениамин Игоревич.', "'Thank you, Veniamin Igorevich.' The key word here means 'thank you', anchored at the close by 'Igorevich'."),
+    (13, 'Спасибо, Вениамин Игоревич.', "'Thank you, Veniamin Igorevich.' The governor thanks Veniamin Igorevich respectfully by his first name and patronymic."),
     (14, 'Подожди.', "As she turns to leave, Ignatyev reaches into his wallet: 'Wait.'"),
     (14, 'Купи себе платье или бабушке что-нибудь.', "He hands her a generous tip: 'Buy yourself a dress or something for your grandmother.'"),
     (15, None, "Beaming, Yulya pockets the cash: 'Thank you, you are spoiling me!'"),

@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Певец | Сколько денег нужно, чтобы стать счастливым? | How much money does it take to be happy? | #56: Сколько денег нужно, чтобы стать счастливым | verbatim |
-| 2 | Певец | Сколько денег нужно, нужно тебе? | How much money do you need? | #57: Сколько денег нужно, нужно тебе | verbatim |
-| 3 | Певец | Немного там, немного здесь. | A little bit there, a little bit here. | #60: Немного там | verbatim |
-| 4 | Певец | И вот уже есть миллионов шесть! | And just like that, you've got six million! | #61: И вот уже есть миллионов шесть | verbatim |
-| 5 | Певец | Вилла в Монако, в Швейцарии счёт. | A villa in Monaco, an account in Switzerland. | #62: Вилла в Монако, в Швейцарии счет | verbatim |
-| 6 | Певец | Но надо, надо, надо ещё! | But you need, need, need even more! | #63: Но надо, надо еще | verbatim |
+| 1 | Певец | Сколько денег нужно, чтобы стать счастливым? | How much money does it take to be happy? | #56 00:03:17: Сколько денег нужно, чтобы стать счастливым | verbatim |
+| 2 | Певец | Сколько денег нужно, нужно тебе? | How much money do you need? | #57 00:03:23: Сколько денег нужно, нужно тебе | verbatim |
+| 3 | Певец | Немного там, немного здесь. | A little bit there, a little bit here. | #60 00:03:39: Немного там | verbatim |
+| 4 | Певец | И вот уже есть миллионов шесть! | And just like that, you've got six million! | #61 00:03:44: И вот уже есть миллионов шесть | verbatim |
+| 5 | Певец | Вилла в Монако, в Швейцарии счёт. | A villa in Monaco, an account in Switzerland. | #62 00:03:50: Вилла в Монако, в Швейцарии счет | verbatim |
+| 6 | Певец | Но надо, надо, надо ещё! | But you need, need, need even more! | #63 00:03:55: Но надо, надо еще | verbatim |
 | 7 | Певец | Жена топ-модель и любовница тоже. | A supermodel wife and a mistress too. | new | new: added verse from full theme song |
 | 8 | Певец | Но только она чуть-чуть помоложе! | Only she's just a little bit younger! | new | new: added verse from full theme song |
 | 9 | Певец | Белая яхта по морю плывёт. | A white yacht sails across the sea. | new | new: added verse from full theme song |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How much money does it take to be happy?' The opening rhetorical question sets the satirical tone of the series.
-- 'How much money do you need?' Notice the 'to me/you' pronoun indicating the person who needs the money.
-- 'A little bit there, a little bit here.' The rhyming adverbs describe accumulating wealth through petty bribes.
-- 'And just like that, you've got six million!' the plural 'of' form noun follows the cardinal numeral for 'six'.
-- 'A villa in Monaco, an account in Switzerland.' The lyrics list typical status symbols of corrupt officials.
-- 'But you need, need, need even more!' The comparative adverb emphasizes the theme of bottomless greed.
-- 'A supermodel wife and a mistress too.' The narrator lists the corrupt official's domestic luxuries.
-- 'Only she's just a little bit younger!' The comparative adjective with a prefix means 'somewhat younger'.
-- 'A white yacht sails across the sea.' A classic image of luxury sailing on the Mediterranean.
-- 'Happiness is getting closer, almost here!' The adverbial idiom expresses an imminent arrival.
-- 'Paintings by Dali and Van Gogh in the kitchen.' Plural location forms describe opulent wall decor.
-- 'A church, a mosque, and a synagogue are built.' Short passive form describing lavish religious donations.
-- 'And for insurance, a Buddhist temple too!' The noun phrase explains superstitious hedge investments.
-- 'If it doesn't pan out here, it will pan out there!' The colloquial idiom means 'to succeed or work out'.
+- 'How much money does it take to be happy?' That opening question sets up the whole satirical ballad: for a crooked official, the answer is always "more".
+- 'How much money do you need?' Repeating "is needed" twice gives the verse its jaunty sing-along bounce.
+- 'A little bit there, a little bit here.' Just a small kickback here and a modest skim there—that is how the fortune starts.
+- 'And just like that, you've got six million!' Before he even notices, the little bribes have piled up into millions. Putting the number after "million" makes it sound like a rough guess: "six million or so".
+- 'A villa in Monaco, an account in Switzerland.' Those are the twin status symbols of every corrupt official's daydream.
+- 'But you need, need, need even more!' Saying "nado" three times in a row sounds like an itch that can never be scratched.
+- 'A supermodel wife and a mistress too.' Once the offshore bank account is full, the lyrics move on to domestic status symbols.
+- 'Only she's just a little bit younger!' Adding "chut-chut" softens the comparison with a sly wink: "just a tiny bit younger".
+- 'A white yacht sails across the sea.' In Russian a boat does not "sail" or "float"—it literally "swims" across the water.
+- 'Happiness is getting closer, almost here!' "Vot-vot" is a lively little expression for something that is about to happen any second now.
+- 'Paintings by Dali and Van Gogh in the kitchen.' Hanging priceless museum masterpieces next to the stove shows he has far more cash than taste.
+- 'A church, a mosque, and a synagogue are built.' To hedge his bets in the afterlife, the official funds every major faith at once.
+- 'And for insurance, a Buddhist temple too!' Why stop at three religions when you can buy a fourth policy just in case?
+- 'If it doesn't pan out here, it will pan out there!' Literally the Russian slang means "burn through" or "catch fire", used when a scheme pays off.

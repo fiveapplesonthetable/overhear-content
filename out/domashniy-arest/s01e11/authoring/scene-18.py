@@ -32,10 +32,10 @@ STORY = [
     ('marina', 'Не переживай, сынок, мы найдём другого.', 'Do not worry, son, we will find someone else.', [(500, 'Мы себе нового дяди найдем')], 'adapted'),
 ]
 WALK = [
-    (0, None, "'Here, Marina, take a good look, please.' This phrase expresses an ironic invitation to look."),
-    (2, None, "'She has a very big and kind heart.' Possessive construction using a 'of me/you' pronoun and neuter object-form adjectives."),
-    (4, None, "'She came and simply saved me today.' Past tense single-action form describing a completed rescue action."),
-    (8, None, "'I came here to say goodbye to you forever.' Past motion verb coupled with an action verb expressing purpose and an 'with' pronoun."),
-    (11, None, "'There is your true nature! Let's go, Lyolya.' Demonstrative particle combined with a feminine adjective and an invitation command."),
-    (13, None, "'Do not worry, son, we will find someone else.' Negative command followed by a future-tense form action verb."),
+    (0, None, "'Here, Marina, take a good look, please.' Arkady parades Lyolya into Marina's room just to rub his new rescuer in her face."),
+    (2, None, "'She has a very big and kind heart.' Every compliment he heaps on Lyolya is really a pointed dig at Marina."),
+    (4, None, "'She came and simply saved me today.' Thanks to the photos Lyolya copied off Pasha's phone, Arkady is about to walk free."),
+    (8, None, "'I came here to say goodbye to you forever.' Rather than just leaving quietly, Arkady cannot resist staging a grand breakup speech."),
+    (11, None, "'There is your true nature! Let's go, Lyolya.' The moment Marina threatens him with a jug of milk, he beats a hasty retreat."),
+    (13, None, "'Do not worry, son, we will find someone else.' Marina's dry answer to little Danya shows she is completely unfazed by Arkady's theatrics."),
 ]

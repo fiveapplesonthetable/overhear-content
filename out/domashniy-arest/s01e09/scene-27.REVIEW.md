@@ -27,21 +27,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I did not understand, what is the point?' This phrase asks for meaning.
-- 'She will go to the kindergarten now.' The motion verb in future tense indicates departure.
-- 'Everything is quiet there.' A short descriptive statement using the neuter adjective.
-- 'That means Marina is clean.' The conversational conjunction introduces a logical conclusion.
-- 'After that, Anikeyev will trust her completely.' The compound future combines auxiliary and basic verb form.
-- 'And then we will find out everything necessary.' The single-action form marks achieving knowledge.
-- 'Cleverly thought out, boss!' A short passive form used predicatively in praise.
-- 'Learn from this, Sokolov! Sokolov!' The self-action verb form command commands someone to learn.
+- 'I did not understand, what is the point?' Slow on the uptake, Lavrov admits he doesn't see the point of the kindergarten charade.
+- 'She will go to the kindergarten now.' Pasha walks him through it: Arkady's spy is on her way to check the kindergarten right now.
+- 'Everything is quiet there.' If the spy finds a quiet, ordinary daycare, Arkady won't suspect a thing.
+- 'That means Marina is clean.' Seeing no police raid will convince Arkady that Marina didn't rat him out.
+- 'After that, Anikeyev will trust her completely.' Once Marina passes the loyalty test, Arkady will let his guard down completely.
+- 'And then we will find out everything necessary.' Then Marina can worm the real hiding place out of him.
+- 'Cleverly thought out, boss!' Impressed by the double bluff, Lavrov praises his boss's cunning.
+- 'Learn from this, Sokolov! Sokolov!' Puffed up with pride, Pasha tells young Sokolov to take notes from a master.
 - 'And where is Sokolov?' Lavrov looks around looking for their absent colleague.
-- 'What, did you get offended?' The past tense masculine self-action verb form describes hurt feelings.
+- 'What, did you get offended?' Spotting Sokolov sulking to the side, Lavrov teases him for having hurt feelings.
 - 'Let's go, guys, let's go on the raid!' A classic rallying cry before moving into action.
 - 'Right, first one in, second, third!' Counting off troops loading sequentially into position.
-- 'Excuse me, may I get out?' This phrase asks for polite permission to leave.
-- 'You cannot!' A strict categorical negative command expressing total prohibition.
-- 'Sit in your place!' An action verb used as a firm military-style order.
-- 'I feel nauseous right now.' An impersonal construction using object pronoun with verb.
-- 'Endure it!' An action verb used forcefully to order someone to hold on.
-- 'The operation has begun!' The self-action verb form feminine verb indicates the start.
+- 'Excuse me, may I get out?' Stuffed at the bottom of a dogpile of burly operatives in the van, Lyova politely asks to get out.
+- 'You cannot!' Pasha barks a flat refusal — nobody leaves his post mid-operation.
+- 'Sit in your place!' Like a commander addressing a recruit, he orders Lyova to stay put.
+- 'I feel nauseous right now.' Crushed under his squadmates in the bouncing van, poor Lyova groans that he is about to throw up.
+- 'Endure it!' Zero sympathy from Pasha: he tells the kid to tough it out.
+- 'The operation has begun!' As the van lurches forward, Pasha declares the mission officially underway.

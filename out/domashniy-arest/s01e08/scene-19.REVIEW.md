@@ -27,11 +27,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'A man! A real man!' Arkady praises the boy for showing adult loyalty and courage.
-- 'Thanks for not ratting me out.' The colloquial verb means to betray or turn someone in.
-- 'Lyokha, I will definitely buy you a tank.' The future tense makes a firm promise.
+- 'Thanks for not ratting me out.' In Russian slang, 'handing someone over' means snitching — and Arkady is genuinely touched that the kid covered for him.
+- 'Lyokha, I will definitely buy you a tank.' Using the boy's friendly nickname, Arkady promises to replace the crushed toy with a brand-new one.
 - 'Soon as money appears, I will buy it right away.' Arkady swears he is not lying.
 - 'Did you understand me?' A common colloquial check ensuring agreement.
 - 'Lyosha, they gave us a quota for the surgery!' Marina rushes in with excitement.
 - 'Yes! I am going to the hospital right now.' She cannot wait to secure the opportunity.
-- 'I will process important paperwork.' The verbal noun construction describes sorting out documents.
+- 'I will process important paperwork.' There is a stack of hospital paperwork to sign before the operation can go ahead.
 - 'And you, do not sit around here!' Marina warns her son not to hang around Arkady.

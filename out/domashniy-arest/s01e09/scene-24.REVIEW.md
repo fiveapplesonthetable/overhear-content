@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Good heavens, I completely forgot!' Arkady feigns a sudden realization of urgency.
-- 'I must write a speech for Samsonov.' The modal short adjective requires an action verb.
-- 'What speech?' Notice the question word agreeing with the feminine noun.
-- 'Are you already leaving?' The verb of motion describes departing right now.
-- 'Yes, we have important debates soon.' This phrase expresses time.
-- 'And what about our wonderful conversation?' The particle phrase means 'what about'.
-- 'We had such a wonderful time together!' The adverb means wonderfully or delightfully.
-- 'But you did not even finish your tea.' The prefix indicates completing an action.
-- 'I ask for forgiveness, now it is work, unfortunately.' A courteous Russian apology.
-- 'Will you return here in the evening?' The self-action verb form denotes returning.
-- 'There are so many tasks, I do not know.' The plural 'of' form follows the quantity word.
-- 'I will go.' This phrase indicates an immediate departure.
-- 'All the best!' A classic polite Russian farewell formula in the 'of' form.
-- 'Goodbye, Arkady Borisovich.' The patronymic shows respectful formal address.
+- 'I must write a speech for Samsonov.' Looking at his watch, he claims he urgently needs to draft a debate speech for Samsonov.
+- 'What speech?' Caught off guard by his sudden rush, Marina asks what speech he is talking about.
+- 'Are you already leaving?' Disappointed that her sting is being cut short, she asks if he is really leaving already.
+- 'Yes, we have important debates soon.' He uses the upcoming campaign debates as his excuse to bolt from the table.
+- 'And what about our wonderful conversation?' Marina tries to guilt him into staying by reminding him how nicely they were talking.
+- 'We had such a wonderful time together!' Laying on the charm, Arkady gushes about what a lovely time they just had together.
+- 'But you did not even finish your tea.' Pointing to his cup, she notes that he hasn't even finished drinking his tea.
+- 'I ask for forgiveness, now it is work, unfortunately.' With a theatrical sigh, he apologizes and says duty calls.
+- 'Will you return here in the evening?' Still hoping to keep tabs on him, she asks if he will come back this evening.
+- 'There are so many tasks, I do not know.' Keeping his options open, Arkady claims he is swamped with work and can't promise anything.
+- 'I will go.' Rising from the table, he excuses himself before she can ask another question.
+- 'All the best!' He offers a breezy, polite farewell as he heads for the door.
+- 'Goodbye, Arkady Borisovich.' Left alone at the table, Marina bids him a formal goodbye by name and patronymic.

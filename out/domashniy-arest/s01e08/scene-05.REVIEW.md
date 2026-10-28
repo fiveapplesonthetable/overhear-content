@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Doctor, wait a minute, please!' Lyosha uses the polite command with the diminutive noun for 'minute'.
+- 'Doctor, wait a minute, please!' Out in the corridor, Lyosha politely calls after the doctor using a soft, affectionate form of 'minute'.
 - 'What is the matter, sweetie? Does something hurt you?' The doctor stops kindly in the hallway.
-- 'My tank broke.' Notice the self-action verb form verb used for inanimate objects breaking down.
-- 'Can you fix it?' An action verb question with the polite plural verb 'can'.
-- 'A tank? Let me see.' The colloquial particle encourages someone to show something.
+- 'My tank broke.' Literally, 'at me the tank broke itself' — instead of talking about his leg, the boy holds up his plastic toy.
+- 'Can you fix it?' He asks with polite adult formality whether a surgeon can mend a broken toy.
+- 'A tank? Let me see.' Playfully curious, the doctor says 'let's see' and leans down to inspect the little plastic tank.
 - 'No, buddy, I cannot fix tanks.' The doctor addresses the boy warmly as 'brother' or 'buddy'.
-- 'I only treat people, after all.' The 1st person singular present verb means 'I treat' or 'I cure'.
+- 'I only treat people, after all.' He gently explains his specialty: he mends people, not military hardware.
 - 'And can the state fix a tank?' Lyosha remembers what his mother told him about the state helping.
 - 'Now a tank — the state certainly can fix that!' The doctor gives a dry, ironic answer.
-- 'For tanks the state always has money.' Notice the preposition for 'for/onto' with the object-form plural.
-- 'Thank you, Doctor! I will try to fix it myself.' The emphatic pronoun means 'myself' in the masculine singular.
-- 'Go to your mama, sweetie! Don't be sad.' This phrase urges the boy not to lose heart.
+- 'For tanks the state always has money.' There is a bitter edge to the doctor's joke: the budget may run out of surgery quotas for children, but never for real tanks.
+- 'Thank you, Doctor! I will try to fix it myself.' Lyosha takes his toy back with quiet determination to repair it on his own.
+- 'Go to your mama, sweetie! Don't be sad.' The doctor sends the boy back to his mother with a gentle parting word.

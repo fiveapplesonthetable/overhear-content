@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'May I come in, Pavel?' A standard polite question asking permission to enter an office.
+- 'May I come in, Pavel?' Knocking cautiously on the office door, Slavik asks if he can step inside.
 - 'What is our situation right now?' Osipenko asks for a realistic summary of the campaign status.
 - 'We are in a complete pit right now.' A descriptive idiom conveying total political ruin.
-- 'I would not say that.' A mild conditional phrase softening a direct contradiction.
-- 'Your rating is sharply rising again!' The adverbial combination indicates rapid growth in poll numbers.
+- 'I would not say that.' With a quiet smile, Slavik politely pushes back against Pasha's doom and gloom.
+- 'Your rating is sharply rising again!' He breaks the shock news that Pasha's poll numbers are shooting back up.
 - 'Are these your silly jokes?' Osipenko cannot believe good news and suspects mockery.
 - 'No, these are not jokes.' A firm statement confirming the factual truth of the poll results.
-- 'People turned away from Samsonov.' A figurative verb showing voters deserting a political candidate.
-- 'They think that he sold out.' The colloquial verb expresses the belief that someone compromised their integrity.
+- 'People turned away from Samsonov.' Literally 'turned away from,' the phrase shows voters abandoning Samsonov in droves.
+- 'They think that he sold out.' Appearing on television alongside the hated governor made voters think Samsonov sold out.
 - 'The people's attitude toward the governor is very bad.' A clear assessment of general public sentiment.
-- 'The meeting undermined trust in Samsonov.' A direct-action past verb expressing the destruction of credibility.
-- 'According to latest data, your rating is higher.' A comparative adjective showing electoral advantage.
+- 'The meeting undermined trust in Samsonov.' That one friendly meeting with Viktor Stepanovich torpedoed Samsonov's honest image.
+- 'According to latest data, your rating is higher.' According to the freshest numbers, Pasha has pulled ahead in the race.
 - 'Ratings have risen by seven percent!' A specific numerical increase marking significant momentum.
 - 'Yes! This is excellent news!' An enthusiastic exclamation celebrating an unexpected breakthrough.

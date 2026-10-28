@@ -39,7 +39,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'In the hospital it is forbidden to turn on a phone.' Medical equipment in operating theatres requires all phones to be powered off.
 - 'Lyonya! Get up and get dressed quickly!' Arkady bursts into his bodyguard's room and shakes him awake.
 - 'What happened? Where are you rushing to?' The FSO guard rubs his sleepy eyes in confusion.
-- 'Drive me to the hospital quickly!' The prefix 'ot-' on the verb indicates transporting someone to a destination.
+- 'Drive me to the hospital quickly!' Arkady orders his guard to get him across town to the hospital as fast as the car can go.
 - 'I won't go anywhere without an order.' Here, Arkady is under strict home arrest, and leaving the apartment violates court bail conditions.
 - 'Let's go quickly, a child's life is at stake!' Arkady pleads with his guard to put human life ahead of bureaucratic protocol.
 - 'First explain to me what has happened.' Lyonya stands his ground until Arkady tells him the full truth.

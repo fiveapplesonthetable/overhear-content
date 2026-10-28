@@ -47,7 +47,7 @@ WALK = [
     (10, None, "'I told you I'll pay it all back! What a greedy woman you are.' And he adds a dark joke."),
     (11, None, "'You can't put caviar in your coffin to take with you!' Literally 'into the coffin with yourself you won't put caviar'."),
     (12, None, "'Better into my coffin than to you! You're a bad man, Arkady.' Just then Samson comes in for breakfast, and Nina tries to calm the old lady down—and switches the channel."),
-    (13, 'Клавдия Викторовна, здесь же ребёнок, мы завтракаем.', "'Klavdia Viktorovna, there's a child here, we're having breakfast.' In spoken Russian, word order is flexible: 'here' comes first to set the focus, followed by 'are having breakfast'."),
+    (13, 'Клавдия Викторовна, здесь же ребёнок, мы завтракаем.', "'Klavdia Viktorovna, there's a child here, we're having breakfast.' Nina reminds Klavdia Viktorovna that there is a child right there at the breakfast table."),
     (13, 'А телевизор, между прочим, наш!', "'And the television, by the way, is ours!' Remember that Klavdia wants a television of her very own. And the moment Nina changes the channel, a breaking news report comes on."),
     (14, None, "'Oh, look, they're showing Samson on television! Several million views already!' It's the video from episode one, where Samson threw the corrupt mayor out the window and said ordinary people can't live decent lives because of crooks like him—and the whole country is watching it."),
 ]

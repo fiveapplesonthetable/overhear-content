@@ -31,17 +31,17 @@ STORY = [
     ('nina', 'Алло, Юля, я перезвоню!', "Hello, Yulia, I'll call you back!", [(277, 'я перезвоню')], "cue 277 'Юль' -> 'Юля'"),
 ]
 WALK = [
-    (0, None, "'What am I, a clown or something?' The two particles at the end add a tone of annoyed disbelief: 'or something?'. Nina corrects him matter-of-factly."),
+    (0, None, "'What am I, a clown or something?' The two little words at the end add a tone of annoyed disbelief: 'or something?'. Nina corrects him matter-of-factly."),
     (1, None, "'Not a clown, a waffle cone!' Literally 'a waffle little horn', which is what Russian calls an ice-cream cone. Samson tries to pull the costume off."),
     (2, None, "'I won't be a waffle! I'll find another job right now.' Notice the 'with/as' ending on 'waffle' after the future 'I will not be'. Nina blocks his way."),
     (3, None, "'When you find another job, you'll leave this one.' Two single-action form futures side by side, without 'when': 'you will find another, you will leave from this one'."),
     (4, None, "'Nina, don't you understand that this is humiliating?' Meanwhile, Nina fires the word right back at him."),
-    (5, None, "'Humiliating? And being unemployed — isn't that humiliating?' Again, after 'to be', the adjective 'unemployed' takes the 'with/as' ending. Just then, a young woman on the pavement stops and stares at Samson's face."),
-    (6, None, "'Hello! Excuse me, are you by any chance Samson?' The adverb in the middle literally means 'by chance' or 'accidentally'. Samson blinks in surprise."),
+    (5, None, "'Humiliating? And being unemployed — isn't that humiliating?' Again, after 'to be', the describing word 'unemployed' takes the 'with/as' ending. Just then, a young woman on the pavement stops and stares at Samson's face."),
+    (6, None, "'Hello! Excuse me, are you by any chance Samson?' The word in the middle literally means 'by chance' or 'accidentally'. Samson blinks in surprise."),
     (7, None, "'What? Yes, I'm Ivan Samsonov.' The young woman turns and waves to her friends down the street."),
     (8, None, "'It's him, guys, Samson! Guys, come over here!' Suddenly a whole group of young people comes running with their phones out."),
     (9, None, "'Hurry up! May I take a photo with you, please?' Literally 'is it possible with you a photograph, please?'. Samson stands frozen inside his giant waffle cone as everyone poses with him."),
     (10, None, "'What is going on? I don't understand.' He has not seen the internet yet today."),
     (11, None, "'Haven't you understood yet? You're famous now!' At that moment Nina's phone rings: it is their daughter Yulia."),
-    (12, None, "'Hello, Yulia, I'll call you back!' The prefix on the verb means doing something again or back: 'call back'."),
+    (12, None, "'Hello, Yulia, I'll call you back!' The prefix on the action word means doing something again or back: 'call back'."),
 ]

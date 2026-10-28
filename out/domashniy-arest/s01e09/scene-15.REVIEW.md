@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Earlier I trusted Eduard Valentinovich.' The verb of trusting takes the 'to/for' form for the trusted person.
-- 'And now I understand that he is deceiving me.' Second half of the sentence introduced by the conjunction that.
-- 'So that means I have a chance now?' Conversational particle introducing an inference with 'of'-form of possession.
-- 'Well, on the whole I find you likable.' Plural short adjective of attraction with 'to'-form experiencer pronoun.
-- 'So what is the problem then?' Idiomatic question word formula asking for the reason behind hesitation.
-- 'I still know you very poorly.' Adverbs of time and manner modifying the action verb.
-- 'Here I am, sitting right in front of you.' Pointing particle with location phrase of spatial location.
-- 'Ask about anything, I will answer honestly.' Command followed by location pronoun phrase of scope.
-- 'About absolutely anything at all?' Indefinite relative phrase expressing an open-ended question.
-- 'Yes, about absolutely everything in the world.' Set idiom meaning literally on the light, or in the whole world.
-- 'Only you must not deceive me.' Impersonal modal expression of prohibition with 'to me/you' pronoun.
-- 'For a former official, that is very hard to do.' 'to'-form noun phrase with descriptive word neuter adverb of difficulty.
-- 'But I will definitely try not to lie.' Future-tense form followed by negative ongoing-action form basic verb form.
+- 'Earlier I trusted Eduard Valentinovich.' Playing her part in the sting, Marina sighs that she used to trust Eduard completely.
+- 'And now I understand that he is deceiving me.' Now she claims her eyes are open and she can see Eduard has been stringing her along.
+- 'So that means I have a chance now?' Arkady perks right up, sensing an opening now that his rival is out of favor.
+- 'Well, on the whole I find you likable.' Marina dangles the bait with a coy admission that she finds him rather likable overall.
+- 'So what is the problem then?' Seeing his opening, Arkady leans in and asks what is holding them back.
+- 'I still know you very poorly.' She demurs that she still barely knows the real man behind the political reputation.
+- 'Here I am, sitting right in front of you.' Spreading his arms, Arkady offers himself up for inspection right there across the table.
+- 'Ask about anything, I will answer honestly.' Confident in his ability to spin anything, he invites her to ask whatever she wants.
+- 'About absolutely anything at all?' Marina double-checks whether 'anything' really means no topic is off limits.
+- 'Yes, about absolutely everything in the world.' Literally 'on the light,' this everyday idiom means 'in the whole wide world.'
+- 'Only you must not deceive me.' She sets one ground rule for her little game: he isn't allowed to lie to her.
+- 'For a former official, that is very hard to do.' With a self-deprecating grin, Arkady jokes that telling the truth goes against a bureaucrat's nature.
+- 'But I will definitely try not to lie.' Even so, he solemnly promises to give honesty his best shot for her sake.

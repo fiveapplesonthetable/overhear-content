@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Khanikeyev! You were worried for nothing.' The adverb meaning in vain reassures the anxious caller.
-- 'At the kindergarten everything is fine.' The short adjective form functions as a standard neutral descriptive phrase.
-- 'Are you sure? There is no police there?' The feminine short adjective expresses certainty.
-- 'The teacher, of course, is a bit strange.' The parenthetical word indicates natural concession.
-- 'But they are all like that there.' The demonstrative pronoun in the plural refers back to eccentric nursery staff.
-- 'So sleep peacefully.' The conjunctional phrase introduces a reassuring logical conclusion.
-- 'Good. Thank you very much for your help.' The preposition meaning 'for' takes the direct-object form form.
-- 'You are welcome. I am driving home.' The verb of vehicular motion expresses current purposeful travel.
-- 'Did she leave? Is everything clear?' The short form adjective conveys that the coast is clear.
-- 'Well now, did everything go fine?' The introductory particle sequence marks a satisfied summation.
-- 'She understood nothing.' Russian employs double negation with the negative pronoun and particle.
-- 'The operation went excellently!' The past tense feminine verb agrees with the feminine noun.
-- 'You are free, Grisha.' The short adjective expresses release from operational duty.
-- 'Go rest after the dancing.' The preposition meaning 'after' governs the plural 'of' form noun ending.
+- 'Hello, Khanikeyev! You were worried for nothing.' Calling Arkady from outside, Ilona tells him he worked himself up over nothing.
+- 'At the kindergarten everything is fine.' As far as she can tell, everything at the kindergarten looks completely normal.
+- 'Are you sure? There is no police there?' Still on edge, Arkady double-checks that she didn't spot any police lurking around.
+- 'The teacher, of course, is a bit strange.' She admits the daycare teacher seemed a little odd, of course.
+- 'But they are all like that there.' Still, she shrugs it off, figuring everyone who works with toddlers is a bit quirky.
+- 'So sleep peacefully.' Convinced the coast is clear, she tells Arkady he can rest easy.
+- 'Good. Thank you very much for your help.' Relieved that Marina apparently passed his test, Arkady warmly thanks Ilona for checking.
+- 'You are welcome. I am driving home.' With her errand done, Ilona says she is heading back home.
+- 'Did she leave? Is everything clear?' Peeking toward the window inside, the officer asks if she is gone and the coast is clear.
+- 'Well now, did everything go fine?' Letting out a breath, he asks the team if their improvised act actually worked.
+- 'She understood nothing.' He grins with relief that Ilona didn't suspect a thing.
+- 'The operation went excellently!' Despite the absurd nursery charade, he declares the undercover mission a smashing success.
+- 'You are free, Grisha.' Turning to the giant operative, he tells Grisha he is off the hook.
+- 'Go rest after the dancing.' He jokes that Grisha earned a break after his big dance number.

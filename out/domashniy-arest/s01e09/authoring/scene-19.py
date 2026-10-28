@@ -33,8 +33,8 @@ STORY = [
     ('marina', 'Но брать взятки — очень плохо.', 'But taking bribes is very bad.', [(604, 'а то что брали плохо.')], 'adapted cue 604'),
 ]
 WALK = [
-    (1, None, "'I do not remember her at all.' The negative expression intensifies the verb to mean not remembering a person at all."),
-    (4, None, "'Ask something else.' The command form takes the indefinite pronoun to mean any other topic."),
+    (1, None, "'I do not remember her at all.' Brushing off an old memory over dinner, Eduard claims he doesn't remember the woman at all."),
+    (4, None, "'Ask something else.' Uncomfortable with that line of questioning, he urges Marina to pick a different topic."),
     (6, None, "'Have you ever taken bribes?' Marina bluntly asks the core incriminating question for the secret recording."),
     (10, None, "'Can you answer the question?' Marina cuts through his long explanation and demands a direct response."),
     (11, None, "'Yes, I took bribes.' Eduard openly admits his corrupt past on the restaurant microphone."),

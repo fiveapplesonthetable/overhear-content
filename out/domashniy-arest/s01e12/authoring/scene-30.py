@@ -37,7 +37,7 @@ WALK = [
     (2, None, "'I cannot make you governor.' Stepanovich shatters Arkady's highest political ambition."),
     (3, None, "'And I cannot make you mayor either.' The corrupt oligarch revokes all previous promises."),
     (4, None, "'Is this some kind of joke, Stepanych?' Arkady nervously tries to laugh off the shock."),
-    (5, None, "'I am in no mood for jokes right now.' Stepanovich emphasizes his deadly serious tone."),
+    (5, None, '\'I am in no mood for jokes right now.\' "Mne ne do shutok" literally means "for me it is not up to jokes"—a classic Russian phrase when things turn dead serious.'),
     (6, None, "'After all, you are our main bribe-taker.' Viktor uses Arkady's scandal as a convenient pretext."),
     (7, None, "'And I am now the main fighter against corruption.' A hypocritical claim from a crooked power broker."),
     (8, None, "'And I cannot let you go either.' Viktor signals that Arkady will not leave alive."),

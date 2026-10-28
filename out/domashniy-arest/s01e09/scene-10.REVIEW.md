@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello, citizen Samsonova.' The courier uses formal Soviet-style legal address.
-- 'A court summons for you.' This phrase indicates the recipient of the official notice.
+- 'A court summons for you.' Handing over the paper, the courier announces an official summons to appear in court.
 - 'Good heavens, what court?' Nina expresses disbelief at the sudden legal document.
 - 'A civil matter. About divorce.' The courier concisely specifies the category of lawsuit.
-- 'About what divorce?' Nina asks with rising indignation using the location form.
+- 'About what divorce?' Repeating his word in disbelief, Nina demands to know what divorce he could possibly mean.
 - 'Well, not about mine!' The courier retorts with deadpan bureaucratic sarcasm.
-- 'Familiarize yourself and sign here.' Two formal command form instruct her on procedural protocol.
+- 'Familiarize yourself and sign here.' Like a true bureaucrat, he tells her to read the notice and put her signature on the line.
 - 'Listen, this is total nonsense!' Nina dismisses the document as an absurd prank.
 - 'Not nonsense, but a government document!' The courier elevates the fake notice to official status.
-- 'Please sign for the receipt.' The polite request demands legal compliance.
+- 'Please sign for the receipt.' All he cares about is getting her signature on the receipt so he can leave.
 - 'Vanya has completely lost his mind!' Nina realizes that her husband is retaliating.
-- 'Kindly appear in court.' The courteous formula requires mandatory court attendance.
-- 'At the strictly appointed time!' The passive verbal adjective specifies the court schedule.
+- 'Kindly appear in court.' Using stiff, old-fashioned courtesy, he orders her to show up at the courthouse.
+- 'At the strictly appointed time!' He wags a finger and warns her to be there right on the dot.
 - 'All the best. Farewell!' The courier concludes his delivery with a melodramatic exit line.

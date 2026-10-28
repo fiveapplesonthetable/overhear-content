@@ -34,18 +34,18 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Well now, where is my tank?' Lyosha stands in the doorway on his crutches demanding his toy."),
-    (1, None, "'Everything is fine with your tank.' Notice the preposition with the 'with/as' form for 'with your tank'."),
+    (1, None, "'Everything is fine with your tank.' Arkady puts on a breezy smile and insists the toy is in perfect shape."),
     (2, None, "'Let's play another game instead!' Arkady suggests an alternative to distract the boy."),
-    (3, None, "'Let's play war!' command particle inviting someone to play together."),
+    (3, None, "'Let's play war!' Hoping to make the boy forget the plastic tank, Arkady proposes playing war instead."),
     (4, None, "'Look: hands up, surrender!' Arkady raises his cast-clad arms pretending to capture an enemy soldier."),
     (5, None, "'And where is my tank after all?' Lyosha refuses to be distracted by war games."),
     (6, None, "'Do you know how to play chess? I'll teach you!' Arkady grabs a dusty chessboard from the shelf."),
     (7, None, "'This is a knight, and this is a queen.' Notice the Russian chess names: 'horse' for knight and 'vizier' for queen."),
-    (8, None, "'Please give me back my tank.' Lyosha repeats his demand politely. Listen to the flow."),
+    (8, None, "'Please give me back my tank.' Lyosha is not buying the chess distraction and politely asks for his toy back."),
     (9, None, "'I glued it, it's drying right now.' Arkady invents an excuse that the glue hasn't dried yet."),
-    (10, None, "'I'm going to call mum!' Notice the past tense verb used idiomatically to indicate immediate future departure."),
+    (10, None, "'I'm going to call mum!' In Russian you can say 'I went' to mean 'I'm off right now!' — and threatening to call Marina works like magic."),
     (11, None, "'What, are you a tattletale?' A colloquial childhood word for a snitch or tattletale."),
     (12, None, "'Well alright, your tank is here.' Arkady surrenders before Marina gets involved."),
-    (13, None, "'It is lying under the pillow.' Preposition with the 'with/as' form showing location underneath something."),
+    (13, None, "'It is lying under the pillow.' Arkady finally points to the hiding spot under the pillow."),
     (14, None, "'Uncle Arkady stepped on it by accident.' Arkady sheepishly confesses that he stepped on the green plastic toy."),
 ]

@@ -31,15 +31,15 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Arkady, you don't understand anything!' Samsonov vents his frustration at Arkady's failed advice."),
-    (1, None, "'She is simply humiliating me in front of the children!' The verb describes being belittled before his family."),
-    (2, None, "'Well, bear it. Don't react.' Arkady advises patience with two short command form."),
-    (3, None, "'Easy to say, don't react!' an action verb expression meaning 'it is easy to say'."),
-    (4, None, "'Am I a man or not, after all?' The idiom means 'in the end' or 'after all'."),
+    (1, None, "'She is simply humiliating me in front of the children!' Samsonov is mortified that Nina turned his big walkout into a joke in front of the kids."),
+    (2, None, "'Well, bear it. Don't react.' Arkady tells him to grit his teeth and keep a poker face no matter what she says."),
+    (3, None, "'Easy to say, don't react!' Sitting on the sidelines giving orders is easy when you aren't the one being laughed at."),
+    (4, None, "'Am I a man or not, after all?' Literally 'at the end of ends,' the closing phrase shows Samsonov's wounded masculine pride."),
     (5, None, "'What should I answer her?' Samsonov asks for concrete words to restore his dignity."),
     (6, None, "'Don't say anything. Look at her.' Arkady recommends maintaining complete silence."),
-    (7, None, "'Look how? Explain to me.' Samsonov asks for specific technical instructions."),
-    (8, None, "'Look heavily, intensely.' Two adverbs describing a stern, unblinking glare."),
-    (9, None, "'Like a real man, for about ten seconds.' Notice the inverted numeral order indicating an approximate duration."),
-    (10, None, "'You can even count in your head.' The location phrase literally means 'in the mind'."),
+    (7, None, "'Look how? Explain to me.' Not trusting his own instincts, Samsonov asks for step-by-step instructions on how to glare."),
+    (8, None, "'Look heavily, intensely.' Arkady coaches him to fix her with a heavy, unblinking stare that shows he means business."),
+    (9, None, "'Like a real man, for about ten seconds.' Putting the number after the word 'seconds' makes it sound like a rough ten-second count."),
+    (10, None, "'You can even count in your head.' Literally 'in the mind,' he suggests silently counting the seconds inside his head."),
     (11, None, "'Alright. I understood everything!' Samsonov heads back to execute the stare."),
 ]

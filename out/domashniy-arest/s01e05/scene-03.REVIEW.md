@@ -10,24 +10,24 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Самсон | Здорово! | Morning, folks! | #83: Здорово | verbatim |
-| 2 | Аркадий | Садись, Ваня. | Sit down, Vanya. | #84: Садись, Ваня | verbatim |
-| 3 | Нина | А то ты вчерашний вечер не помнишь? | As if you don't remember last night? | #87: А то ты не помнишь | adapted: 'вчерашний вечер' added |
-| 4 | Самсон | Я не помню. | I don't remember. | #88: Я не помню | verbatim |
-| 5 | Аркадий | Нина шутит! Всё было супер! Всё было очень хорошо! | Nina is joking! Everything was super! Everything was very good! | #90: Нина шутит<br>#91: Все было супер<br>#92: Все было очень хорошо | verbatim |
-| 6 | Аркадий | Ты, Ваня, не сделал ничего плохого. | You, Vanya, didn't do anything bad. | #94: Ты, Ваня, не сделал ничего плохого | verbatim |
-| 7 | Самсон | А почему у меня тогда лицо побито? | Then why is my face beaten up? | #95: а что мне тогда<br>#96: побить | adapted: crude 'рожу побить' -> 'у меня лицо побито' |
-| 8 | Аркадий | Лицо у тебя побито, Ваня! Ты хулиганов остановил в ресторане! | Your face is beaten up, Vanya! You stopped hooligans in the restaurant! | #97: у тебя побита, Ваня<br>#99: Хулиганов<br>#97: в ресторане | adapted: crude 'рожа' -> 'лицо'; 'дебоширов угомонил' -> 'хулиганов остановил' |
-| 9 | Аркадий | Они приставали к Нине. Нина, ну расскажите вы ему! | They were pestering Nina. Nina, come on, tell him! | #100: приставали<br>#102: Нина, ну расскажите вы ему | adapted: cue 100 'к ней не приставали' -> 'приставали к Нине' |
-| 10 | Нина | Мы танцевали. Сначала они там грубили, оскорбляли. | We were dancing. First they were rude and insulting over there. | #105: Мы танцевали<br>#109: Сначала они там<br>#109: оскорбляли | adapted: crude cues 107 ('лапать') and 110 ('шлюхой') omitted; 'дерзили' -> 'грубили' |
-| 11 | Нина | А когда ты прибежал, ты всё решил! Потом приехала полиция. | And when you came running, you sorted everything out! Then the police arrived. | #113: а когда ты прибежал<br>#113: ты<br>#113: все<br>#114: Потом приехала полиция | adapted: cue 113 'ну ты и все там это' -> 'ты всё решил' |
-| 12 | Самсон | Точно, полиция была! А что с машиной? | That's right, the police were there! And what about the car? | #115: точно<br>#115: Полиция<br>#115: была<br>#117: с машиной | verbatim |
-| 13 | Аркадий | С машиной всё хорошо, Ваня! На ней ни одной царапины не было. | Everything is fine with the car, Vanya! There wasn't a single scratch on it. | #118: С машиной все хорошо, Ваня<br>#119: на ней ни одной царапины не было | verbatim |
-| 14 | Аркадий | Ты же не помнишь ничего. Ты вызвал трезвого водителя! | You don't remember anything, after all. You called a sober driver! | #121: ты же не помнишь ничего<br>#122: Ты вызвал трезвого водителя | verbatim |
-| 15 | Самсон | Слава богу! Я пьяных за рулём просто терпеть не могу! | Thank goodness! I simply cannot stand drunk people behind the wheel! | #123: Слава Богу<br>#126: за рулем пьяных<br>#126: просто терпеть не могу | adapted: cue 127 'уроды конченые' omitted |
-| 16 | Аркадий | Да что ты, Вань! Ты герой! Да, Нина? | Come on, Vanya! You're a hero! Right, Nina? | #131: Да что ты, Вань! Ты герой! Да, Нина | verbatim |
-| 17 | Нина | Да. | Yes. | #132: Да | verbatim |
-| 18 | Аркадий | Кстати, я хочу тебя познакомить. Это новый начальник твоего предвыборного штаба, Илона. | By the way, I want to introduce you. This is the new head of your campaign team, Ilona. | #134: Кстати, я хочу тебя познакомить<br>#135: Это новый начальник<br>#135: предвыборного штаба, Илона | adapted: cue 135 'моего' -> 'твоего'; English 'Take your time' in cue 145 omitted |
+| 1 | Самсон | Здорово! | Morning, folks! | #83 00:05:19: Здорово | verbatim |
+| 2 | Аркадий | Садись, Ваня. | Sit down, Vanya. | #84 00:05:21: Садись, Ваня | verbatim |
+| 3 | Нина | А то ты вчерашний вечер не помнишь? | As if you don't remember last night? | #87 00:05:46: А то ты не помнишь | adapted: 'вчерашний вечер' added |
+| 4 | Самсон | Я не помню. | I don't remember. | #88 00:05:49: Я не помню | verbatim |
+| 5 | Аркадий | Нина шутит! Всё было супер! Всё было очень хорошо! | Nina is joking! Everything was super! Everything was very good! | #90 00:05:53: Нина шутит<br>#91 00:06:00: Все было супер<br>#92 00:06:02: Все было очень хорошо | verbatim |
+| 6 | Аркадий | Ты, Ваня, не сделал ничего плохого. | You, Vanya, didn't do anything bad. | #94 00:06:07: Ты, Ваня, не сделал ничего плохого | verbatim |
+| 7 | Самсон | А почему у меня тогда лицо побито? | Then why is my face beaten up? | #95 00:06:09: а что мне тогда<br>#96 00:06:11: побить | adapted: crude 'рожу побить' -> 'у меня лицо побито' |
+| 8 | Аркадий | Лицо у тебя побито, Ваня! Ты хулиганов остановил в ресторане! | Your face is beaten up, Vanya! You stopped hooligans in the restaurant! | #97 00:06:13: у тебя побита, Ваня<br>#99 00:06:25: Хулиганов<br>#97 00:06:13: в ресторане | adapted: crude 'рожа' -> 'лицо'; 'дебоширов угомонил' -> 'хулиганов остановил' |
+| 9 | Аркадий | Они приставали к Нине. Нина, ну расскажите вы ему! | They were pestering Nina. Nina, come on, tell him! | #100 00:06:29: приставали<br>#102 00:06:34: Нина, ну расскажите вы ему | adapted: cue 100 'к ней не приставали' -> 'приставали к Нине' |
+| 10 | Нина | Мы танцевали. Сначала они там грубили, оскорбляли. | We were dancing. First they were rude and insulting over there. | #105 00:06:42: Мы танцевали<br>#109 00:06:48: Сначала они там<br>#109 00:06:48: оскорбляли | adapted: crude cues 107 ('лапать') and 110 ('шлюхой') omitted; 'дерзили' -> 'грубили' |
+| 11 | Нина | А когда ты прибежал, ты всё решил! Потом приехала полиция. | And when you came running, you sorted everything out! Then the police arrived. | #113 00:07:01: а когда ты прибежал<br>#113 00:07:01: ты<br>#113 00:07:01: все<br>#114 00:07:06: Потом приехала полиция | adapted: cue 113 'ну ты и все там это' -> 'ты всё решил' |
+| 12 | Самсон | Точно, полиция была! А что с машиной? | That's right, the police were there! And what about the car? | #115 00:07:10: точно<br>#115 00:07:10: Полиция<br>#115 00:07:10: была<br>#117 00:07:19: с машиной | verbatim |
+| 13 | Аркадий | С машиной всё хорошо, Ваня! На ней ни одной царапины не было. | Everything is fine with the car, Vanya! There wasn't a single scratch on it. | #118 00:07:25: С машиной все хорошо, Ваня<br>#119 00:07:27: на ней ни одной царапины не было | verbatim |
+| 14 | Аркадий | Ты же не помнишь ничего. Ты вызвал трезвого водителя! | You don't remember anything, after all. You called a sober driver! | #121 00:07:32: ты же не помнишь ничего<br>#122 00:07:34: Ты вызвал трезвого водителя | verbatim |
+| 15 | Самсон | Слава богу! Я пьяных за рулём просто терпеть не могу! | Thank goodness! I simply cannot stand drunk people behind the wheel! | #123 00:07:36: Слава Богу<br>#126 00:07:46: за рулем пьяных<br>#126 00:07:46: просто терпеть не могу | adapted: cue 127 'уроды конченые' omitted |
+| 16 | Аркадий | Да что ты, Вань! Ты герой! Да, Нина? | Come on, Vanya! You're a hero! Right, Nina? | #131 00:07:57: Да что ты, Вань! Ты герой! Да, Нина | verbatim |
+| 17 | Нина | Да. | Yes. | #132 00:08:02: Да | verbatim |
+| 18 | Аркадий | Кстати, я хочу тебя познакомить. Это новый начальник твоего предвыборного штаба, Илона. | By the way, I want to introduce you. This is the new head of your campaign team, Ilona. | #134 00:08:08: Кстати, я хочу тебя познакомить<br>#135 00:08:11: Это новый начальник<br>#135 00:08:11: предвыборного штаба, Илона | adapted: cue 135 'моего' -> 'твоего'; English 'Take your time' in cue 145 omitted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,12 +40,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Then why is my face beaten up?' Literally 'by me then face is beaten', using the short passive form in the neuter form to match 'face'.
 - 'Your face is beaten up, Vanya!' Arkady repeats Samson's words to buy a second to think.
 - 'You stopped hooligans in the restaurant!' Because 'hooligans' is an animate plural noun, its object-form direct object ending matches the plural 'of' form.
-- 'They were pestering Nina.' The verb 'to pester' or 'to bother' takes the preposition 'to' with the 'to/for' form.
+- 'They were pestering Nina.' Arkady explains the fight by saying those men were pestering Nina.
 - 'Nina, come on, tell him!' Arkady nudges Nina to back up his story.
 - 'We were dancing. First they were rude and insulting over there.' Both verbs are ongoing-action form plural, setting the scene.
 - 'And when you came running, you sorted everything out!' The prefix on 'ran' adds the meaning of 'arriving by running', and 'decided everything' means 'settled the whole thing'.
 - 'Then the police arrived.' That sparks a faint memory in Samson's head.
-- 'That's right, the police were there! And what about the car?' Literally 'and what with the car?', using the 'with/as' form.
+- 'That's right, the police were there! And what about the car?' Literally 'and what with the car?' — asking what happened to the borrowed vehicle.
 - 'Everything is fine with the car, Vanya!' Arkady doesn't blink.
 - 'There wasn't a single scratch on it.' With 'was not', the thing that was absent goes into the 'of' form: 'not one scratch'.
 - 'You don't remember anything, after all.' The particle reminds Samson of what he just admitted.

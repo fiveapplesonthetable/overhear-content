@@ -32,10 +32,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Vanya, the election isn't what matters most.' Nina speaks softly without meeting his eyes.
 - 'What does matter most? Tell me!' Ivan is genuinely perplexed by her cold tone.
 - 'You don't think about the family at all.' She reminds him of weeks of brawls, police, and chaos.
-- 'I do everything for the sake of the family!' The preposition requires the 'of' form.
+- 'I do everything for the sake of the family!' Ivan protests that every crazy thing he has done in this campaign was for the family's sake.
 - 'No, you do everything for yourself.' Nina sees through his political ambitions.
 - 'Nina, come on, wait! Everything will work out.' Ivan reaches out to take her hand.
 - 'Listen, Vanya. I am very tired.' She pulls her hand away gently.
-- 'Let's get a divorce.' The hortative particle combines with the future-tense form to propose an action.
+- 'Let's get a divorce.' Two quiet words drop like a stone in the silent room: Nina wants a divorce.
 - 'What are you saying? What divorce?' Ivan freezes in complete disbelief.
 - 'A regular one. I can't go on like this anymore.' Nina stands up, leaving Ivan stunned in the dim room.

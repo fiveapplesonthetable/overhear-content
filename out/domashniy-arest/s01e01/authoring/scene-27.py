@@ -36,7 +36,7 @@ STORY = [
     ('arkady', 'Я помогу тебе, а ты поможешь мне.', "I'll help you, and you'll help me.", [(1047, 'я помогу тебе'), (1048, 'а ты поможешь мне')], ''),
 ]
 WALK = [
-    (0, None, "'Why didn't I think of it right away!' Literally, 'how did I not guess at once'. The verb is past and masculine: no extra ending, because Arkady is a man. Then he starts asking strange questions."),
+    (0, None, "'Why didn't I think of it right away!' Literally, 'how did I not guess at once'. The action word is past and masculine: no extra ending, because Arkady is a man. Then he starts asking strange questions."),
     (1, None, "'Samson, are you Russian?' A question in Russian is often just a statement with a rising voice. Samson answers with a joke."),
     (2, None, "'No, Ethiopian!' A big, blond, very Russian man, being sarcastic. Arkady ignores it and goes on down his list."),
     (3, None, "'Never been in prison?' Literally, 'didn't sit?' In everyday Russian, 'to sit' can mean 'to do time'. Samson is glad to say no."),
@@ -45,13 +45,13 @@ WALK = [
     (6, None, "'Well, what else?' Literally, 'and which one?', as if there could be no other answer. Arkady sums it up."),
     (7, None, "'Russian. Orthodox. Never been in prison.' Three ticks on an invisible form. Samson adds his family."),
     (8, None, "'Well, yes. A wife, two kids.' After the word for 'two', the word for 'children' takes a special form, one you hear a lot. Arkady continues."),
-    (9, None, "'Worked on a building site. Did you serve in the army?' Again past verbs with no subject: the ending tells you it's a man. Samson is proud of this one."),
-    (10, None, "'Of course I served.' He repeats the verb as his answer, which is a very Russian way to say yes. And Arkady has his candidate."),
-    (11, None, "'That's it! Samson, you're going to be the new mayor.' After the verb 'to be', the job takes a special ending for roles: you'll be 'as mayor'. Samson thinks it's just drunken talk."),
+    (9, None, "'Worked on a building site. Did you serve in the army?' Again past words with no subject: the ending tells you it's a man. Samson is proud of this one."),
+    (10, None, "'Of course I served.' He repeats the key word as his answer, which is a very Russian way to say yes. And Arkady has his candidate."),
+    (11, None, "'That's it! Samson, you're going to be the new mayor.' After the action word 'to be', the job takes a special ending for roles: you'll be 'as mayor'. Samson thinks it's just drunken talk."),
     (12, None, "'Agreed.' Said like a man accepting another glass. Arkady insists."),
     (13, None, "'You don't understand me. I'm going to make you the new mayor.' Same special ending on the job: 'make you as the new mayor'. Now Samson listens."),
     (14, None, "'Me? Mayor?' Two short questions, and he can hardly believe it. Arkady explains the plan."),
     (15, None, "'The election is in two months. You wanted a new level, didn't you?' The little word in the middle of the second sentence works like 'after all', reminding Samson of his own words. Samson admits it."),
-    (16, None, "'Well, I did.' Just the verb again, in the past. And Arkady offers the deal."),
-    (17, None, "'I'll help you, and you'll help me.' Both verbs are about the future. Two forms of the same verb, one for 'I', one for 'you', a neat pair to remember."),
+    (16, None, "'Well, I did.' Just the action word again, in the past. And Arkady offers the deal."),
+    (17, None, "'I'll help you, and you'll help me.' Both action words are about the future. Two forms of the same action word, one for 'I', one for 'you', a neat pair to remember."),
 ]

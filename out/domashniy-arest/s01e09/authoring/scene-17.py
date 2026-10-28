@@ -33,9 +33,9 @@ STORY = [
     ('samson', 'Нина, успокойся немедленно!', 'Nina, calm down immediately!', [], 'new reaction'),
 ]
 WALK = [
-    (2, None, "'Now put your hand on mine.' The command form guides his hand to create a tender appearance."),
-    (5, None, "'Now treat me to some fruit.' The construction uses the 'with/as' form for the food offered."),
+    (2, None, "'Now put your hand on mine.' Stepping up the performance for Nina's benefit, Ilona tells Samsonov to place his hand over hers."),
+    (5, None, "'Now treat me to some fruit.' Next she directs him to feed her a piece of fruit like a doting suitor."),
     (7, 'А ты что здесь делаешь?', "'And what are you doing here?' Samsonov feigns casual surprise at his wife's sudden arrival."),
     (9, None, "'That is none of your business.' The phrase firmly rejects her attempt to interrogate him."),
-    (11, None, "'You and I are getting divorced.' The present tense verb expresses a confirmed personal decision."),
+    (11, None, "'You and I are getting divorced.' Trying to sound cold and decisive in front of Ilona, Samsonov reminds Nina that they are splitting up."),
 ]

@@ -33,17 +33,17 @@ STORY = [
     ('marina', 'Подарки надо ценить! А вы не вмешивайтесь.', 'You must appreciate gifts! And you, stay out of it.', [(282, 'Подарки надо ценить'), (285, 'А вы не вмешивайтесь')], 'combined cues 282 and 285'),
 ]
 WALK = [
-    (0, None, "'I am telling Mom everything!' The future tense shows Lyosha's immediate threat."),
-    (1, None, "'Go ahead, tell your mom.' The command form dares the boy to do his worst."),
-    (2, None, "'She already hates me anyway.' The phrase conveys Arkady's feeling of hopelessness."),
+    (0, None, "'I am telling Mom everything!' Furious over his crushed tank, Lyosha threatens to go straight to his mother."),
+    (1, None, "'Go ahead, tell your mom.' Arkady shrugs helplessly and tells the boy to go right ahead."),
+    (2, None, "'She already hates me anyway.' In Arkady's gloomy view, Marina's opinion of him could not sink any lower anyway."),
     (3, None, "'I fixed that tank for her.' He confesses that he wanted to win over Marina."),
     (4, None, "'Mom does not play tanks.' The boy points out the obvious flaw in his logic."),
-    (5, 'Чтобы она за тебя порадовалась!', "'So she would be happy for you!' The conjunction expresses a desired goal."),
+    (5, 'Чтобы она за тебя порадовалась!', "'So she would be happy for you!' He explains his roundabout logic: making the son happy was supposed to make the mother smile."),
     (6, None, "'I like your mom very much.' Arkady openly reveals his feelings to the boy."),
-    (7, None, "'My mom is kind.' The short feminine adjective describes Marina's good nature."),
+    (7, None, "'My mom is kind.' Lyosha defends his mother warmly — she isn't the monster Arkady makes her out to be."),
     (9, None, "'Lyosha, what are you doing here?' Marina's sudden question catches them both off guard."),
     (11, None, "'What happened to the tank? Your tricks again?' She immediately suspects Arkady."),
     (12, None, "'No, Mom! Uncle Arkady fixed the tank.' Lyosha surprises him by speaking up."),
     (13, None, "'And I stepped on it by accident.' The boy takes the entire blame onto himself."),
-    (14, 'А вы не вмешивайтесь.', "'And you, stay out of it.' The formal negative command dismisses Arkady completely."),
+    (14, 'А вы не вмешивайтесь.', "'And you, stay out of it.' Even after Lyosha covers for him, Marina still shoots Arkady a frosty look and tells him to butt out."),
 ]

@@ -31,11 +31,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Marina Sergeyevna, I sincerely sympathize with you.' Major Lavrov opens politely with the patronymic form of address.
 - 'So will you help me or not?' Marina cuts straight to the chase about the medical permit for her son.
-- 'We have connections in the oversight committee.' Notice the location form after the preposition meaning 'in'.
-- 'But everything depends only on you.' Notice the phrase with the preposition meaning 'depends on'.
+- 'We have connections in the oversight committee.' Lavrov dangles the bait: the security service has friends on the medical oversight board.
+- 'But everything depends only on you.' Then comes the hook — whether Lyosha gets his slot depends entirely on Marina.
 - 'What must I do for that?' Marina asks what price they expect her to pay for their help.
 - 'Arkady Borisovich has feelings for you.' Lavrov notes that the former mayor under house arrest is infatuated with her.
-- 'How can we use that?' Literally 'in what manner'. 'with/as' form of manner.
+- 'How can we use that?' Literally, 'in what manner can we use that?' — Marina still thinks he is talking about a normal legal favor.
 - 'Treat him with womanly compassion.' Lavrov hints vaguely that she should become intimate with Arkady.
 - 'I don't understand you at all.' Marina refuses to guess what he is hinting at.
 - 'You just need to get closer to him!' Young Lieutenant Sokolov blurts out the proposal without tact.

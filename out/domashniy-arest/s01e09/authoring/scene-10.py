@@ -33,17 +33,17 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Hello, citizen Samsonova.' The courier uses formal Soviet-style legal address."),
-    (1, None, "'A court summons for you.' This phrase indicates the recipient of the official notice."),
+    (1, None, "'A court summons for you.' Handing over the paper, the courier announces an official summons to appear in court."),
     (2, None, "'Good heavens, what court?' Nina expresses disbelief at the sudden legal document."),
     (3, None, "'A civil matter. About divorce.' The courier concisely specifies the category of lawsuit."),
-    (4, None, "'About what divorce?' Nina asks with rising indignation using the location form."),
+    (4, None, "'About what divorce?' Repeating his word in disbelief, Nina demands to know what divorce he could possibly mean."),
     (5, None, "'Well, not about mine!' The courier retorts with deadpan bureaucratic sarcasm."),
-    (6, None, "'Familiarize yourself and sign here.' Two formal command form instruct her on procedural protocol."),
+    (6, None, "'Familiarize yourself and sign here.' Like a true bureaucrat, he tells her to read the notice and put her signature on the line."),
     (7, None, "'Listen, this is total nonsense!' Nina dismisses the document as an absurd prank."),
     (8, None, "'Not nonsense, but a government document!' The courier elevates the fake notice to official status."),
-    (9, None, "'Please sign for the receipt.' The polite request demands legal compliance."),
+    (9, None, "'Please sign for the receipt.' All he cares about is getting her signature on the receipt so he can leave."),
     (10, None, "'Vanya has completely lost his mind!' Nina realizes that her husband is retaliating."),
-    (11, None, "'Kindly appear in court.' The courteous formula requires mandatory court attendance."),
-    (12, None, "'At the strictly appointed time!' The passive verbal adjective specifies the court schedule."),
+    (11, None, "'Kindly appear in court.' Using stiff, old-fashioned courtesy, he orders her to show up at the courthouse."),
+    (12, None, "'At the strictly appointed time!' He wags a finger and warns her to be there right on the dot."),
     (13, None, "'All the best. Farewell!' The courier concludes his delivery with a melodramatic exit line."),
 ]

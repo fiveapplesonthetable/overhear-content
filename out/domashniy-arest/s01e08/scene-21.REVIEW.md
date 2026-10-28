@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The apple does not fall far from the tree!' Nina invokes the famous proverb about family flaws.
 - 'Your grandfather betrayed his country in the war.' The historical rumor stings Samsonov deeply.
 - 'And you are betraying your family right now!' She links the grandfather's failure to his drinking.
-- 'Do not lecture me on morals!' The colloquial phrase means to preach or scold.
+- 'Do not lecture me on morals!' Literally, 'do not read morals to me!' — Ivan bristles at being lectured by his wife.
 - 'And you are becoming an alcoholic. Goodbye!' Nina turns on her heel and leaves the room.

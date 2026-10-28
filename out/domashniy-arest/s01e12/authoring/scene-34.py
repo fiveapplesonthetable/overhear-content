@@ -33,7 +33,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Nina, stop fussing around in the kitchen!' Samsonov urges his wife to hurry up with packing."),
-    (1, None, "'Come on, let us sit for a moment before the road.' The Russian tradition involves sitting quietly before departing."),
+    (1, None, '\'Come on, let us sit for a moment before the road.\' "Prisyadem na dorozhku" ("let\'s sit for the little road") is a beloved Russian superstition: everyone sits in silence for a moment before a big trip so the journey goes well.'),
     (2, None, "'I have already packed all our things.' Nina confirms that preparations for departure are complete."),
     (3, None, "'You have certainly ruined those children's lives!' The elderly neighbor scolds them for moving away."),
     (4, None, "'How will you live in Siberia?' Klavdiya expresses dramatic dismay over the distant relocation."),
