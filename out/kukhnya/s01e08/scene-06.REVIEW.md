@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Attention everyone, in the kitchen is an important guest!' Barinov announces the arrival of their guest cook.
-- 'This is Chef Elena Pavlovna Sokolova.' Presenting his prominent culinary rival to the brigade.
+- 'This is Chef Elena Pavlovna Sokolova.' Russian omits the present-tense verb 'to be' here, linking 'this' directly with 'chef', combining 'this' with 'chef' and 'Elena'.
 - 'Hello, dear chefs of the restaurant.' Elena addresses the gathered cooks with formal poise.
-- 'Today she works together with us.' Explaining that Elena will be working on the line today.
-- 'I hope you know how to cook tasty and fast.' Setting high professional expectations from the start.
+- 'Today she works together with us.' Chef Barinov expresses this naturally by combining the word for 'today' with 'works' and 'together'.
+- 'I hope you know how to cook tasty and fast.' Elena chooses the imperfective verb meaning 'I hope' for the ongoing action, followed by 'know how to' and 'cook'.
 - 'My guys know how to do absolutely everything!' Viktor proudly defends the competence of his staff.
-- 'Then why has Lyova been cooking soup for an hour already?' Pointing out a glaring delay in the food preparation.
-- 'Lyova, answer the chef quickly and clearly!' Demanding a prompt response from his stammering sous chef.
+- 'Then why has Lyova been cooking soup for an hour already?' The phrasing opens with 'then' before bringing in 'why' and 'is cooking' to make the point clear.
+- 'Lyova, answer the chef quickly and clearly!' Chef Barinov leads with the direct command form meaning 'answer', pairing it with 'quickly' and 'clearly'.
 - 'Right, the waiter brought the first big order.' Elena turns her attention to the incoming tickets.
-- 'One veal, cod, and fresh salad!' Calling out the first dinner rush ticket across the kitchen pass.
-- 'Is everything clear to everyone? Start cooking!' Barinov reinforces the order to his cooks.
-- 'I will personally check every finished dish.' Warning the brigade that no substandard plate will pass.
+- 'One veal, cod, and fresh salad!' Russian omits the present-tense verb 'to be' here, linking 'one' directly with 'veal', combining 'one' with 'veal' and 'cod'.
+- 'Is everything clear to everyone? Start cooking!' Chef Barinov leads with the direct command form meaning 'start', pairing it with 'clear' and 'cooking'.
+- 'I will personally check every finished dish.' Elena expresses this naturally by combining the word for 'personally' with 'will check' and 'finished'.
 - 'Don't boss around too loudly, Elena.' Viktor pushes back against her commanding tone in his domain.
 - 'A true chef always watches over quality!' Elena stands firm on rigorous culinary standards.

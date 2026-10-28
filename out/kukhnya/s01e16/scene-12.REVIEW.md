@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Лановский | Их все очень ненавидят. | Everyone hates them very much. | #155 00:11:07: Их все ненавидят. | adapted: adapted |
 | 3 | Лановский | И вы тоже крыс не любите. | And you also do not like rats. | #156 00:11:09: И мне кажется, что вы ведь тоже крыс недолюбливаете. | adapted: adapted |
 | 4 | Лановский | Мыши очень похожи на них. | Mice are very similar to them. | new | new: new |
-| 5 | Аня | Да, я их не люблю. | Yes, I do not like them. | #157 00:11:12: Недолюбливаю. | adapted: adapted |
+| 5 | Шеф | Да, я их не люблю. | Yes, I do not like them. | #157 00:11:12: Недолюбливаю. | adapted: adapted |
 | 6 | Лановский | Они как милые мыши. | They are like cute mice. | #159 00:11:16: И при всем при том, они ничем не отличаются от милых белок, | adapted: adapted |
 | 7 | Лановский | Но крыс все ненавидят. | But everyone hates rats. | #161 00:11:24: Только белок-то все любят, а крыс ненавидят. | adapted: adapted |
 | 8 | Лановский | Извините, мне звонят. | Excuse me, they are calling me. | #163 00:11:38: Извините. | adapted: adapted |
@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'In this world rats are enemies.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'that' straight to 'enemy'.
-- 'Everyone hates them very much.' You'll hear 'them' all the time in the show, here connected with 'hate'.
-- 'And you also do not like rats.' The first content word means 'you', and 'to love' rounds out the thought.
-- 'Mice are very similar to them.' You'll hear 'mouse' all the time in the show, here connected with 'them'. Chef Viktor answers straight away.
-- 'Yes, I do not like them.' The key word here means 'I', which Chef Viktor combines with 'them'.
-- 'They are like cute mice.' You'll hear 'they' all the time in the show, here connected with 'mouse'.
-- 'But everyone hates rats.' In Russian, 'rat' leads into 'hate' in a very natural everyday phrasing.
-- 'Excuse me, they are calling me.' the speaker starts with 'sorry' and pairs it with 'to me' to make the point clear.
-- 'Yes, I am listening to you.' The first content word means 'I', and 'I'm listening' rounds out the thought.
-- 'Where are they? In the fridge?' the speaker starts with 'where' and pairs it with 'they' to make the point clear.
-- 'Great, we are going now.' Here 'wonderful' sets up the idea, while 'are going' comes at the end for emphasis.
-- 'Viktor Petrovich, let us go with me.' You'll hear 'Viktor' all the time in the show, here connected with 'me'.
+- 'Everyone hates them very much.' Here the speaker anchors the line on the word meaning 'very much' and builds the thought around 'hate'.
+- 'And you also do not like rats.' The phrasing opens with 'too' before bringing in 'rat' and 'to love' to make the point clear.
+- 'Mice are very similar to them.' Russian omits the present-tense verb 'to be' here, linking 'mouse' directly with 'very much', combining 'mouse' with 'very much' and 'similar'.
+- 'Yes, I do not like them.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'love'.
+- 'They are like cute mice.' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'sweet', combining 'how' with 'sweet' and 'mouse'.
+- 'But everyone hates rats.' The phrasing opens with 'rat' before bringing in 'hate' to make the point clear.
+- 'Excuse me, they are calling me.' The character uses the imperative command form of the verb meaning 'sorry'.
+- 'Yes, I am listening to you.' the speaker delivers a punchy conversational reaction built around the Russian word meaning 'I'm listening'.
+- 'Where are they? In the fridge?' Russian omits the present-tense verb 'to be' here, linking 'where' directly with 'fridge', combining 'where' with 'fridge'.
+- 'Great, we are going now.' The phrasing opens with 'wonderful' before bringing in 'now' and 'are going' to make the point clear.
+- 'Viktor Petrovich, let us go with me.' the speaker delivers a punchy conversational reaction built around the Russian word meaning 'come on'.

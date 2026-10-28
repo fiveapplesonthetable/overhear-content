@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Никто не видел запасного ключа? | Has anyone seen the spare key? | #169 00:12:31: Никто не видел запасного ключа? | adapted: verbatim |
+| 1 | Шеф | Никто не видел запасного ключа? | Has anyone seen the spare key? | #169 00:12:31: Никто не видел запасного ключа? | adapted: verbatim |
 | 2 | Макс / Сеня / Федя | А мы не знаем. | We do not know. | #170 00:12:33: А мы не знаем и не видели. | adapted: adapted |
 | 3 | Макс / Сеня / Федя | И не видели. | And we have not seen it. | #170 00:12:33: А мы не знаем и не видели. | adapted: adapted |
 | 4 | Инспектор | Но вообще... | But, generally speaking... | #171 00:12:35: Но вообще... | adapted: verbatim |
 | 5 | Инспектор | Ничем не смогу вам помочь. | I am afraid I cannot help you. | #172 00:12:37: Ничем не смогу вам помочь. | adapted: verbatim |
 | 6 | Инспектор | Мои сотрудники потеряли ключ. | My staff lost the key. | #173 00:12:40: Мои сотрудники потеряли ключ. | adapted: verbatim |
-| 7 | Аня | Экая досада. | What a shame. | #174 00:12:42: Экая досада. Ой-ой-ой. | adapted: adapted |
-| 8 | Аня | Ой, ой, ой. | Oh, oh, oh. | #174 00:12:42: Экая досада. Ой-ой-ой. | adapted: adapted |
+| 7 | Шеф | Экая досада. | What a shame. | #174 00:12:42: Экая досада. Ой-ой-ой. | adapted: adapted |
+| 8 | Шеф | Ой, ой, ой. | Oh, oh, oh. | #174 00:12:42: Экая досада. Ой-ой-ой. | adapted: adapted |
 | 9 | Инспектор | А как же нам быть? | So what are we to do? | #175 00:12:44: А как же нам теперь быть-то? | adapted: adapted |
-| 10 | Аня | У меня есть запасной ключ. | I have a spare key. | #176 00:12:47: У меня есть запасной ключ. | adapted: verbatim |
-| 11 | Аня | Я всегда дубликаты храню. | I always keep a duplicate. | #177 00:12:49: Я всегда дубликаты храню. | adapted: verbatim |
-| 12 | Аня | А, вот он, ключ. | Ah, there is the key. | #178 00:12:54: А, вот он, ключ. | adapted: verbatim |
+| 10 | Шеф | У меня есть запасной ключ. | I have a spare key. | #176 00:12:47: У меня есть запасной ключ. | adapted: verbatim |
+| 11 | Шеф | Я всегда дубликаты храню. | I always keep a duplicate. | #177 00:12:49: Я всегда дубликаты храню. | adapted: verbatim |
+| 12 | Шеф | А, вот он, ключ. | Ah, there is the key. | #178 00:12:54: А, вот он, ключ. | adapted: verbatim |
 | 13 | Инспектор | Нашелся ключ? | Found the key? | #179 00:13:01: Нашелся? Ключ. | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Has anyone seen the spare key?' Chef Viktor puts 'nobody' up front so the listener immediately catches the tone, followed by 'saw'.
-- 'We do not know.' Notice the word order: 'we' comes first, and 'know' finishes the sentence.
-- 'And we have not seen it.' Here 'saw' uses the plural past-tense ending, which also serves for the polite 'you'.
-- 'But, generally speaking...' You'll hear 'at all' all the time in the show, here connected with 'at all'.
-- 'I am afraid I cannot help you.' The first content word means 'by nothing', and 'to help' rounds out the thought.
-- 'My staff lost the key.' the speaker starts with 'employees' and pairs it with 'lost' to make the point clear. Chef Viktor answers straight away.
-- 'What a shame.' Chef Viktor puts 'what a' up front so the listener immediately catches the tone, followed by 'annoyance / shame'.
-- 'Oh, oh, oh.' In Russian, 'oh' leads into 'oh' in a very natural everyday phrasing.
-- 'So what are we to do?' The first content word means 'how', and 'be' rounds out the thought. Then Chef Viktor replies.
-- 'I have a spare key.' A compact expression built around 'me' and 'key'.
-- 'I always keep a duplicate.' In Russian, 'I' leads into 'to keep' in a very natural everyday phrasing.
+- 'Has anyone seen the spare key?' The verb for 'saw' is in the masculine past tense, marked by the '-l' ending.
+- 'We do not know.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'know'.
+- 'And we have not seen it.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'saw'.
+- 'But, generally speaking...' the inspector delivers a punchy conversational reaction built around the Russian word meaning 'at all'.
+- 'I am afraid I cannot help you.' The negative particle sits directly before the verb for 'will be able to' to negate the action.
+- 'My staff lost the key.' Here the inspector anchors the line on the word meaning 'employees' and builds the thought around 'lost' and 'key'.
+- 'What a shame.' Russian omits the present-tense verb 'to be' here, linking 'what a' directly with 'annoyance', combining 'what a' with 'annoyance'.
+- 'Oh, oh, oh.' A crisp, everyday conversational reply meaning 'oh' that you will hear constantly in Russian dialogue.
+- 'So what are we to do?' the inspector puts the word for 'how' together with 'be' in a crisp, natural spoken turn of phrase.
+- 'I have a spare key.' To express possession, Russian uses the preposition 'by' plus the genitive pronoun followed by 'key'.
+- 'I always keep a duplicate.' The phrasing opens with 'always' before bringing in 'duplicate' and 'to keep' to make the point clear.
 - 'Ah, there is the key.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'he' straight to 'key'.
-- 'Found the key?' — Notice the verb meaning 'to turn up / be found' paired with the noun for 'key'.
+- 'Found the key?' The verb for 'to turn up' is in the masculine past tense, marked by the '-l' ending.

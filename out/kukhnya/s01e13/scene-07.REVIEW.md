@@ -17,23 +17,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Элеонора | У меня? Как? Где? | Mine? How? Where? | #95 00:07:50: У меня<br>#95 00:07:50: Как<br>#96 00:07:52: Где | verbatim |
 | 6 | Шеф | Ну вот же. | Right there. | #97 00:07:54: Ну вот же | verbatim |
 | 7 | Шеф | Теперь мы квиты. | Now we're even. | #99 00:08:04: Теперь мы квиты | verbatim |
-| 8 | Аня | Костя, ты видел? | Kostya, did you see? | new | new: new |
-| 9 | Аня | Он разбивает зеркало её машины. | He smashes the mirror on her car. | #100 00:08:07: зеркало ее машины | verbatim |
-| 10 | Аня | А она типа не при делах. | And she acts like she had nothing to do with it. | #101 00:08:11: А она<br>#101 00:08:11: типа не при делах | verbatim |
-| 11 | Аня | Я уверена. | I am sure. | #102 00:08:15: Я уверена | verbatim |
-| 12 | Аня | Это просто так не закончится. | This won't just blow over. | #102 00:08:15: это просто так не закончится | verbatim |
+| 8 | Настя | Костя, ты видел? | Kostya, did you see? | new | new: new |
+| 9 | Настя | Он разбивает зеркало её машины. | He smashes the mirror on her car. | #100 00:08:07: зеркало ее машины | verbatim |
+| 10 | Настя | А она типа не при делах. | And she acts like she had nothing to do with it. | #101 00:08:11: А она<br>#101 00:08:11: типа не при делах | verbatim |
+| 11 | Настя | Я уверена. | I am sure. | #102 00:08:15: Я уверена | verbatim |
+| 12 | Настя | Это просто так не закончится. | This won't just blow over. | #102 00:08:15: это просто так не закончится | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, you have a broken mirror here.' Eleonora points it out.
-- 'Well, would you look at that!' The Chef fakes his surprise.
-- 'Didn't you notice?' he asks her.
-- 'That yours is too?' He points to her car.
-- 'Mine? How? Where?' She is shocked.
+- 'Viktor Petrovich, you have a broken mirror here.' Eleonora uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'here' with 'mirror' and 'broken'.
+- 'Well, would you look at that!' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'it is necessary'.
+- 'Didn't you notice?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'noticed' to make the point directly in conversation.
+- 'That yours is too?' Chef Barinov uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have' around the word meaning 'too'.
+- 'Mine? How? Where?' Eleonora uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'how' with 'where'.
 - 'Right there.' He points to the broken mirror he just smashed.
-- 'Now we're even.' He feels satisfied.
-- 'Kostya, did you see?' Nastya talks to Kostya in the kitchen.
-- 'He smashes the mirror on her car.' She recounts what Barinov did.
-- 'And she acts like she had nothing to do with it.' She notes Eleonora's reaction.
-- 'I am sure.' Nastya is worried.
-- 'This won't just blow over.' She knows the Chef's temper.
+- 'Now we're even.' Russian omits the present-tense verb 'to be' here, linking 'now' directly with 'even', combining 'now' with 'even'.
+- 'Kostya, did you see?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'saw' to make the point directly in conversation.
+- 'He smashes the mirror on her car.' Nastya chooses the imperfective verb meaning 'smashes' for the ongoing action, followed by 'mirror' and 'cars'.
+- 'And she acts like she had nothing to do with it.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'affairs'.
+- 'I am sure.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'sure'.
+- 'This won't just blow over.' She knows the Chef's temper. Let's break down the language.

@@ -11,29 +11,29 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Viktor | Так, стоять. | Hold it right there. | #270 00:17:36: Так стоять. | verbatim |
-| 2 | Аня | В чём дело? | What is the matter? | #271 00:17:39: Это что такое? | adapted: Simplified |
+| 2 | Елена | В чём дело? | What is the matter? | #271 00:17:39: Это что такое? | adapted: Simplified |
 | 3 | Viktor | Вы украли наше блюдо. | You stole our dish. | #275 00:17:50: Да вы украли у нас сезонное блюдо от шефа. | adapted: Simplified |
-| 4 | Аня | Мы его сами придумали. | We invented it ourselves. | #277 00:17:56: Мы не успели его в меню вставить, как мы его уже украли. | adapted: Simplified |
+| 4 | Елена | Мы его сами придумали. | We invented it ourselves. | #277 00:17:56: Мы не успели его в меню вставить, как мы его уже украли. | adapted: Simplified |
 | 5 | Viktor | Я так и знал. | I knew it. | #276 00:17:53: А я так и знал, что вы ничего не можете сами, паразиты. | adapted: Simplified |
 | 6 | Viktor | Вы ничего не можете сами. | You cannot do anything yourselves. | #276 00:17:53: А я так и знал, что вы ничего не можете сами, паразиты. | adapted: Simplified |
-| 7 | Аня | Посмотрите на эту дату. | Look at this date. | #286 00:18:19: Посмотрите, пожалуйста, на дату утверждения меню. | adapted: Simplified |
+| 7 | Елена | Посмотрите на эту дату. | Look at this date. | #286 00:18:19: Посмотрите, пожалуйста, на дату утверждения меню. | adapted: Simplified |
 | 8 | Viktor | Ну, ну. | Well, well. | #287 00:18:22: Ну, ну. | verbatim |
-| 9 | Аня | Дайте мне меню, пожалуйста. | Give me the menu, please. | #285 00:18:14: Меню дайте мне, пожалуйста. | adapted: Simplified |
-| 10 | Аня | Вы хорошо видите? | Can you see clearly? | #288 00:18:25: Вы хорошо видите? | adapted: Simplified |
+| 9 | Елена | Дайте мне меню, пожалуйста. | Give me the menu, please. | #285 00:18:14: Меню дайте мне, пожалуйста. | adapted: Simplified |
+| 10 | Елена | Вы хорошо видите? | Can you see clearly? | #288 00:18:25: Вы хорошо видите? | adapted: Simplified |
 | 11 | Viktor | Да, нормально. | Yes, fine. | #289 00:18:28: Нормально. | adapted: Simplified |
 | 12 | Viktor | Извините. | Sorry. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hold it right there.' Viktor commands the rival chef to stop.
-- 'What is the matter?' She asks him what he wants.
-- 'You stole our dish.' He accuses her of stealing his new recipe.
-- 'We invented it ourselves.' She defends her restaurant's originality.
-- 'I knew it.' He feels his suspicions are confirmed.
-- 'You cannot do anything yourselves.' He insults their culinary skills.
-- 'Look at this date.' She shows him the approval date of her menu.
-- 'Well, well.' He mutters skeptically.
-- 'Give me the menu, please.' She asks for his menu to compare.
-- 'Can you see clearly?' She asks if he can read the earlier date.
-- 'Yes, fine.' He admits that he sees it.
-- 'Sorry.' He is forced to apologize for his mistake.
+- 'Hold it right there.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to stand'.
+- 'What is the matter?' Elena delivers a punchy one-word reaction built around the Russian word meaning 'matter'.
+- 'You stole our dish.' Chef Barinov uses the perfective verb meaning 'stole' to focus on the single completed result, pairing it with 'dish'.
+- 'We invented it ourselves.' Elena delivers a punchy one-word reaction built around the Russian word meaning 'to think up'.
+- 'I knew it.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'knew'.
+- 'You cannot do anything yourselves.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'can'.
+- 'Look at this date.' Elena leads with the direct command form meaning 'look', followed by 'date'.
+- 'Well, well.' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'oh', combining 'oh' with 'oh'.
+- 'Give me the menu, please.' Elena leads with the direct command form meaning 'give', followed by 'menu'.
+- 'Can you see clearly?' Elena turns a statement into a question purely through rising intonation on the word meaning 'good', followed by 'see'.
+- 'Yes, fine.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'fine'.
+- 'Sorry.' Chef Barinov leads with the direct command form meaning 'sorry' to make the point directly in conversation.

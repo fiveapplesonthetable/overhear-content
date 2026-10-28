@@ -12,28 +12,28 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Max | Что ты здесь делаешь? | What are you doing here? | #29 00:02:01: Что ты здесь делаешь? Что не на работе? | verbatim |
 | 2 | Max | Что не на работе? | Why aren't you at work? | #29 00:02:01: Что ты здесь делаешь? Что не на работе? | verbatim |
-| 3 | Аня | Опять допрос. | Another interrogation. | #31 00:02:07: Опять допрос. Вы что, сговорились что ли? | verbatim |
-| 4 | Аня | Вы сговорились что ли? | Did you plan this or something? | #31 00:02:07: Опять допрос. Вы что, сговорились что ли? | verbatim |
+| 3 | Костя | Опять допрос. | Another interrogation. | #31 00:02:07: Опять допрос. Вы что, сговорились что ли? | verbatim |
+| 4 | Костя | Вы сговорились что ли? | Did you plan this or something? | #31 00:02:07: Опять допрос. Вы что, сговорились что ли? | verbatim |
 | 5 | Max | Я сегодня во вторую смену. | I am on the second shift today. | #32 00:02:10: Я сегодня в вторую смену. | verbatim |
-| 6 | Аня | Отлично. Я с тобой поеду. | Great. I will go with you. | #33 00:02:12: Отлично. Я с тобой поеду. | verbatim |
+| 6 | Костя | Отлично. Я с тобой поеду. | Great. I will go with you. | #33 00:02:12: Отлично. Я с тобой поеду. | verbatim |
 | 7 | Max | Может ты забыл, | Maybe you forgot, | #34 00:02:14: Костян, может ты забыл, но у тебя вроде это. | verbatim |
-| 8 | Аня | Да, я помню. | Yeah, I remember. | #35 00:02:16: Да, да, я помню, меня уволили. Мне надо забрать кое-что. | verbatim |
-| 9 | Аня | Меня уволили. | I got fired. | #35 00:02:16: Да, да, я помню, меня уволили. Мне надо забрать кое-что. | verbatim |
+| 8 | Костя | Да, я помню. | Yeah, I remember. | #35 00:02:16: Да, да, я помню, меня уволили. Мне надо забрать кое-что. | verbatim |
+| 9 | Костя | Меня уволили. | I got fired. | #35 00:02:16: Да, да, я помню, меня уволили. Мне надо забрать кое-что. | verbatim |
 | 10 | Max | А что ты не у Вики остался? | Why didn't you stay at Vika's? | #36 00:02:19: А что ты у Викини остался? Она меня не пустила. | verbatim |
 | 11 | Max | Она меня не пустила. | She wouldn't let me in. | #36 00:02:19: А что ты у Викини остался? Она меня не пустила. | verbatim |
-| 12 | Аня | Она все усложнять начала. | She started making everything complicated. | #39 00:02:28: Она все усложнять начала. | verbatim |
+| 12 | Костя | Она все усложнять начала. | She started making everything complicated. | #39 00:02:28: Она все усложнять начала. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' A compact expression built around 'what' and 'are you doing'.
-- 'Why aren't you at work?' Here 'what' sets up the idea, while 'work' comes at the end for emphasis.
-- 'Another interrogation.' Here 'again' sets up the idea, while 'interrogation' comes at the end for emphasis.
-- 'Did you plan this or something?' Kostya puts 'you' up front so the listener immediately catches the tone, followed by 'conspired'. Max answers straight away.
-- 'I am on the second shift today.' The key word here means 'I', which Max combines with 'today'.
-- 'Great. I will go with you.' Kostya starts with 'perfect' and pairs it with 'I' to make the point clear.
-- 'Maybe you forgot,' Max starts with 'can' and pairs it with 'you' to make the point clear. Then Kostya replies.
-- 'Yeah, I remember.' Here 'I' sets up the idea, while 'remember' comes at the end for emphasis.
-- 'I got fired.' The first content word means 'me', and 'to fire' rounds out the thought.
-- 'Why didn't you stay at Vika's?' Max starts with 'what' and pairs it with 'you' to make the point clear.
-- 'She wouldn't let me in.' You'll hear 'it' all the time in the show, here connected with 'to let go'.
-- 'She started making everything complicated.' — Notice the pronoun meaning 'it (the pipe)' paired with the det for 'all'.
+- 'What are you doing here?' Max puts the word for 'here' together with 'are you doing' in a crisp, natural spoken turn of phrase.
+- 'Why aren't you at work?' Max delivers a punchy one-word reaction built around the Russian word meaning 'work'.
+- 'Another interrogation.' Russian omits the present-tense verb 'to be' here, linking 'again' directly with 'interrogation', combining 'again' with 'interrogation'.
+- 'Did you plan this or something?' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'conspired'.
+- 'I am on the second shift today.' Russian omits the present-tense verb 'to be' here, linking 'today' directly with 'second', combining 'today' with 'second' and 'shift'.
+- 'Great. I will go with you.' Here Kostya anchors the line on the word meaning 'perfect' and builds the thought around 'will go'.
+- 'Maybe you forgot,' Max chooses the imperfective verb meaning 'can' for the ongoing action, followed by 'forgot'.
+- 'Yeah, I remember.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'remember'.
+- 'I got fired.' Here the verb for 'to fire' takes the plural past-tense ending '-li', which is also used for the polite 'you'.
+- 'Why didn't you stay at Vika's?' Max uses the informal singular 'you' here with 'remained', as friends and close colleagues do.
+- 'She wouldn't let me in.' The negative particle sits directly before the verb for 'to let go' to negate the action.
+- 'She started making everything complicated.' Kostya chooses the imperfective verb meaning 'complicate' for the ongoing action, followed by 'beginning'.

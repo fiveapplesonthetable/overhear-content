@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Костя | Макс, посмотри на гостей в зале. | Max, look at the guests in the dining room. | new | new: new |
-| 2 | Аня | Они заказывают наши фирменные блюда. | They are ordering our specialty dishes. | #1 00:00:11: заказываете любимое блюдо | adapted: adapted |
+| 2 | Макс | Они заказывают наши фирменные блюда. | They are ordering our specialty dishes. | #1 00:00:11: заказываете любимое блюдо | adapted: adapted |
 | 3 | Костя | Люди приходят сюда каждый вечер. | People come here every evening. | #1 00:00:11: Когда вы приходите в ресторан | adapted: adapted |
-| 4 | Аня | Каждый выбирает своё любимое блюдо. | Everyone chooses their favorite dish. | #1 00:00:11: любимое блюдо | adapted: adapted |
+| 4 | Макс | Каждый выбирает своё любимое блюдо. | Everyone chooses their favorite dish. | #1 00:00:11: любимое блюдо | adapted: adapted |
 | 5 | Костя | Они не думают о пути еды. | They do not think about the food's journey. | #2 00:00:15: вы наверняка не задумываетесь, какой путь | adapted: adapted |
-| 6 | Аня | Какое блюдо проходит длинный путь? | Which dish travels a long way? | #2 00:00:15: путь оно проделывает | adapted: adapted |
+| 6 | Макс | Какое блюдо проходит длинный путь? | Which dish travels a long way? | #2 00:00:15: путь оно проделывает | adapted: adapted |
 | 7 | Костя | Каждое блюдо начинает путь на рынке. | Every dish begins its journey at the market. | #3 00:00:19: чтобы оказаться у вас на тарелке | adapted: adapted |
-| 8 | Аня | Потом повара готовят заказ на кухне. | Then the cooks prepare the order in the kitchen. | new | new: new |
+| 8 | Макс | Потом повара готовят заказ на кухне. | Then the cooks prepare the order in the kitchen. | new | new: new |
 | 9 | Костя | Вся кухня работает ради одной тарелки. | The whole kitchen works for one plate. | new | new: new |
-| 10 | Аня | Повара очень спешат и нервничают. | The cooks rush very much and get nervous. | new | new: new |
+| 10 | Макс | Повара очень спешат и нервничают. | The cooks rush very much and get nervous. | new | new: new |
 | 11 | Костя | А гости видят только вкусный результат. | And guests only see the delicious result. | new | new: new |
-| 12 | Аня | Для них это настоящий праздник вкуса. | For them this is a real celebration of taste. | new | new: new |
+| 12 | Макс | Для них это настоящий праздник вкуса. | For them this is a real celebration of taste. | new | new: new |
 | 13 | Костя | Скоро начнётся наш обычный рабочий вечер. | Soon our usual working evening will begin. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -21,13 +21,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Вика | Я сейчас позову администратора. | I will call the manager right now. | new | new: new |
 | 10 | Гость | Мне не нужен администратор. | I do not need the manager. | new | new: new |
 | 11 | Гость | Ну-ка, давай зови сюда ущербного, который ты готовила. | Go get the idiot who made this. | #286 00:18:54: зови сюда ущербного, который ты готовила | adapted: adapted |
-| 12 | Аня | Что здесь происходит? | What is happening here? | new | new: new |
+| 12 | Макс | Что здесь происходит? | What is happening here? | new | new: new |
 | 13 | Вика | Гость нашёл ремень в салате. | The guest found a belt in the salad. | new | new: new |
-| 14 | Аня | Я сейчас разберусь с этим. | I will sort this out now. | new | new: new |
+| 14 | Макс | Я сейчас разберусь с этим. | I will sort this out now. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this?' In Russian, 'this' leads into 'what' in a very natural everyday phrasing. Vika answers straight away.
-- 'Turkey salad.' Notice the word order: 'salad' comes first, and 'turkey' finishes the sentence.
-- 'Was the turkey wearing pants and a belt?' the guest starts with 'turkey' and pairs it with 'was' to make the point clear.
-- 'Go get the idiot who made this.' the guest puts 'let's' up front so the listener immediately catches the tone, followed by 'call'.
+- 'What is this?' Russian omits the present-tense verb 'to be' here, linking 'this' directly with 'what', combining 'this' with 'what'.
+- 'Turkey salad.' Russian omits the present-tense verb 'to be' here, linking 'salad' directly with 'turkey', combining 'salad' with 'turkey'.
+- 'Was the turkey wearing pants and a belt?' , combining 'turkey' with 'was' and 'trousers'.
+- 'Go get the idiot who made this.' the guest leads with the direct command form meaning 'let's', pairing it with 'call' and 'here'.

@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Have you completely lost your mind?' Fedya catches his colleague stealing kitchen supplies.
-- 'Why are you stealing our vinegar?' Calling out Senya for pocketing expensive balsamic vinegar.
+- 'Why are you stealing our vinegar?' Here Fedya anchors the line on the word meaning 'why' and builds the thought around 'are stealing' and 'vinegar'.
 - 'Its expiration date will end soon!' Senya makes up a ridiculous practical excuse.
-- 'And at home my children want to eat.' Pretending his family is desperately hungry.
-- 'Of course, the children at home really ask for vinegar!' Fedya mocks the absurd culinary excuse.
-- 'I just took a little for salad.' Downplaying the petty kitchen theft.
-- 'The chef will see and tear off your hands!' Warning him of Viktor Barinov's fiery temper.
-- 'Fedya, don't tell the chef anything, please!' Begging his friend to keep the secret.
-- 'The chef is just leaving for the market now.' Explaining that Barinov is stepping out.
+- 'And at home my children want to eat.' Senya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'at home' with 'children' and 'want'.
+- 'Of course, the children at home really ask for vinegar!' Fedya puts the word for 'of course' together with 'children' and 'at home' in a crisp, natural spoken turn of phrase.
+- 'I just took a little for salad.' Here Senya anchors the line on the word meaning 'just' and builds the thought around 'took' and 'a little'.
+- 'The chef will see and tear off your hands!' Fedya uses the perfective verb meaning 'will see' to focus on the single completed result, pairing it with 'immediately' and 'will tear off'.
+- 'Fedya, don't tell the chef anything, please!' Senya leads with the direct command form meaning 'tell' to make the point directly in conversation.
+- 'The chef is just leaving for the market now.' Fedya puts the word for 'now' together with 'just' in a crisp, natural spoken turn of phrase.
 - 'Great, that means we have a little time.' Relieved that they can finish prep work in peace.
-- 'The chef will return, and everything must be ready!' Setting a strict expectation for the shift.
-- 'Let's quickly start cutting the meat together.' Teaming up to get the prep work done.
-- 'Put the bottle back in place and take a knife.' Directing Senya to get back to honest cooking.
-- 'That is all, I am working and not stealing anymore!' Senya promises to behave himself.
+- 'The chef will return, and everything must be ready!' Fedya uses the perfective verb meaning 'will return' to focus on the single completed result, pairing it with 'must' and 'be'.
+- 'Let's quickly start cutting the meat together.' Senya expresses this naturally by combining the word for 'quickly' with 'start' and 'together'.
+- 'Put the bottle back in place and take a knife.' Fedya leads with the direct command form meaning 'put', pairing it with 'bottle' and 'place'.
+- 'That is all, I am working and not stealing anymore!' Senya chooses the imperfective verb meaning 'work' for the ongoing action, followed by 'anymore' and 'steal'.

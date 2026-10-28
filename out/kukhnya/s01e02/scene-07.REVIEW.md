@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Что ты тут вообще делаешь? | What are you even doing here? | new | new: asking with skepticism |
+| 1 | Саша | Что ты тут вообще делаешь? | What are you even doing here? | new | new: asking with skepticism |
 | 2 | Макс | Я просто варю кофе для гостей. | I am just brewing coffee for the guests. | new | new: defending his presence |
-| 3 | Аня | Ты разлил молоко на всю стойку! | You spilled milk all over the counter! | new | new: pointing out the mess |
+| 3 | Саша | Ты разлил молоко на всю стойку! | You spilled milk all over the counter! | new | new: pointing out the mess |
 | 4 | Макс | Я хотел показать красивый фокус. | I wanted to show a neat trick. | new | new: explaining the accident |
-| 5 | Аня | Тоже мне бармен! | Some bartender you are! | #108 00:07:52: Тоже мне бармен | adapted: scoffing at him |
+| 5 | Саша | Тоже мне бармен! | Some bartender you are! | #108 00:07:52: Тоже мне бармен | adapted: scoffing at him |
 | 6 | Макс | У каждого мастера бывают ошибки. | Every master makes mistakes. | new | new: making an excuse |
-| 7 | Аня | Проваливай, давай, я сама всё сделаю. | Get lost, go on, I will do everything myself. | #109 00:07:54: Проваливай, давай, я сама сделаю | adapted: taking over the bar |
+| 7 | Саша | Проваливай, давай, я сама всё сделаю. | Get lost, go on, I will do everything myself. | #109 00:07:54: Проваливай, давай, я сама сделаю | adapted: taking over the bar |
 | 8 | Макс | Ладно, я лучше пойду на кухню. | All right, I had better go to the kitchen. | new | new: accepting defeat |
-| 9 | Аня | И больше никогда не трогай кофемашину! | And never touch the coffee machine again! | new | new: giving a firm warning |
+| 9 | Саша | И больше никогда не трогай кофемашину! | And never touch the coffee machine again! | new | new: giving a firm warning |
 | 10 | Макс | Кухня мне точно ближе, чем этот бар. | The kitchen is definitely closer to my heart than this bar. | new | new: reaffirming his culinary calling |
-| 11 | Аня | Вот и иди помогать поварам. | Then go help the cooks. | new | new: sending him back |
+| 11 | Саша | Вот и иди помогать поварам. | Then go help the cooks. | new | new: sending him back |
 | 12 | Макс | Уже ухожу, шеф бара! | Leaving already, bar boss! | new | new: departing playfully |
 
 ## Walk-through narration (English only, no target-language words quoted)

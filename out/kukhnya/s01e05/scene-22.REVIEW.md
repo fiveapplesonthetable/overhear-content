@@ -11,18 +11,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Федя | Вот так, Макс, держи правильный ритм. | Like that, Max, keep the right rhythm. | new | new: Fedya sets pace |
-| 2 | Аня | Рыба почти готова на горячей сковороде. | The fish is almost ready on the hot pan. | new | new: Max reports status |
+| 2 | Макс | Рыба почти готова на горячей сковороде. | The fish is almost ready on the hot pan. | new | new: Max reports status |
 | 3 | Федя | Отлично, аккуратно переложи рыбу на тарелку. | Great, carefully transfer the fish to the plate. | new | new: Fedya gives instruction |
-| 4 | Аня | Я добавляю свежую зелень и соус. | I add fresh greens and sauce. | new | new: Max garnishes plate |
+| 4 | Макс | Я добавляю свежую зелень и соус. | I add fresh greens and sauce. | new | new: Max garnishes plate |
 | 5 | Федя | Молодец, не торопись. | Well done, take your time. | #313 00:22:58: Молодец. Не торопись. | adapted: Fedya coaches calmly |
 | 6 | Федя | Каждое блюдо должно выглядеть красиво. | Each dish must look beautiful. | new | new: Emphasizing presentation |
-| 7 | Аня | Вдох и выдох, я спокоен. | Inhale and exhale, I am calm. | new | new: Applying breathing lesson |
+| 7 | Макс | Вдох и выдох, я спокоен. | Inhale and exhale, I am calm. | new | new: Applying breathing lesson |
 | 8 | Федя | Видишь, паника исчезает сама собой. | See, the panic disappears by itself. | new | new: Noticing progress |
-| 9 | Аня | Теперь я контролирую весь этот процесс. | Now I control this entire process. | new | new: Max regains confidence |
+| 9 | Макс | Теперь я контролирую весь этот процесс. | Now I control this entire process. | new | new: Max regains confidence |
 | 10 | Федя | Вот этот заказ готов к подаче. | This order is ready to serve. | new | new: Checking order |
-| 11 | Аня | Официант уже может забирать тарелку. | The waiter can already take the plate. | new | new: Ready for dining room |
+| 11 | Макс | Официант уже может забирать тарелку. | The waiter can already take the plate. | new | new: Ready for dining room |
 | 12 | Федя | Ты отлично справляешься сегодня на смене. | You are doing great on the shift today. | new | new: Praising effort |
-| 13 | Аня | Спасибо, Федя, я готов к работе! | Thank you, Fedya, I am ready for work! | new | new: Max thanks Fedya |
+| 13 | Макс | Спасибо, Федя, я готов к работе! | Thank you, Fedya, I am ready for work! | new | new: Max thanks Fedya |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

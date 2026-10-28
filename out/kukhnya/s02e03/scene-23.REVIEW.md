@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Тимур | Эй, дорогой, присаживайся. | Hey, my friend, hop in. | #351 00:23:05: Эв, дорогой, присаживайся. | adapted: adapted |
-| 2 | Аня | Тимур, ты чего здесь? | Timur, what are you doing here? | #352 00:23:08: Тимур, ты чего здесь? | adapted: adapted |
+| 2 | Шеф | Тимур, ты чего здесь? | Timur, what are you doing here? | #352 00:23:08: Тимур, ты чего здесь? | adapted: adapted |
 | 3 | Тимур | Елена сказала отвезти тебя. | Elena told me to drive you. | #353 00:23:09: Елена Павловна сказала отвезти тебя по делам. | adapted: adapted |
 | 4 | Тимур | Надеюсь, у тебя хорошая подружка. | I hope you have a nice friend. | #354 00:23:14: Надеюсь, у твоих дел есть симпатичная подружка. | adapted: adapted |
 | 5 | Макс | Справедливость — это воздаяние. | Justice is giving someone their due. | #355 00:23:20: Справедливость проявляется в воздаянии каждому по его заслугам. | adapted: adapted |
@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hey, my friend, hop in.' The reflexive ending on the verb for 'to take a seat' turns the action back onto the subject.
 - 'Timur, what are you doing here?' Chef Viktor uses the casual singular 'you' with 'Timur', as close colleagues and friends do.
-- 'Elena told me to drive you.' In Russian, 'Yelena' leads into 'you' in a very natural everyday phrasing.
+- 'Elena told me to drive you.' Timur uses the informal singular 'you' here with 'you', as friends and close colleagues do.
 - 'I hope you have a nice friend.' Timur uses the casual singular 'you' with 'hope so', as close colleagues and friends do.
-- 'Justice is giving someone their due.' The key word here means 'justice', which Max combines with 'this'.
-- 'Cicero said so.' Max starts with 'said' and pairs it with 'Cicero' to make the point clear.
-- 'But that's bullshit.' Max puts 'this' up front so the listener immediately catches the tone, followed by 'nonsense'.
-- 'Cicero didn't live now.' The first content word means 'Cicero', and 'now' rounds out the thought.
-- 'People lie.' You'll hear 'people' all the time in the show, here connected with 'cheat'.
-- 'Someone gets punished for someone else.' Notice the word order: 'someone' comes first, and 'other' finishes the sentence.
-- 'Life is complicated.' Listen for the word meaning 'life' right alongside 'complicated' in this line.
-- 'But there is justice in that.' The first content word means 'that', and 'justice' rounds out the thought.
+- 'Justice is giving someone their due.' Russian omits the present-tense verb 'to be' here, linking 'justice' directly with 'retribution', combining 'justice' with 'retribution'.
+- 'Cicero said so.' Max delivers a punchy one-word reaction built around the Russian word meaning 'said'.
+- 'But that's bullshit.' Max delivers a punchy one-word reaction built around the Russian word meaning 'nonsense'.
+- 'Cicero didn't live now.' The verb for 'lived' is in the masculine past tense, marked by the '-l' ending.
+- 'People lie.' Max puts the word for 'people' together with 'cheat' in a crisp, natural spoken turn of phrase.
+- 'Someone gets punished for someone else.' Max chooses the imperfective verb meaning 'to carry' for the ongoing action, followed by 'punishment' and 'other'.
+- 'Life is complicated.' Russian omits the present-tense verb 'to be' here, linking 'life' directly with 'complicated', combining 'life' with 'complicated' and 'thing'.
+- 'But there is justice in that.' Max chooses the imperfective verb meaning 'there is' for the ongoing action, followed by 'justice'.

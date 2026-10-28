@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Значит, соус получился очень вкусным, Макс? | So the sauce turned out very tasty, Max? | #215 00:14:06: Значит, вкусный соус, да? | adapted: asking menacingly |
+| 1 | Шеф | Значит, соус получился очень вкусным, Макс? | So the sauce turned out very tasty, Max? | #215 00:14:06: Значит, вкусный соус, да? | adapted: asking menacingly |
 | 2 | Макс | Шеф, мы все думали, что он хороший. | Chef, we all thought that it was good. | #219 00:14:25: Я же вам доверял | adapted: defending crew |
-| 3 | Аня | Вы глупо соврали мне прямо в лицо! | You foolishly lied to me straight in my face! | #218 00:14:19: за свое вранье | adapted: exploding with anger |
+| 3 | Шеф | Вы глупо соврали мне прямо в лицо! | You foolishly lied to me straight in my face! | #218 00:14:19: за свое вранье | adapted: exploding with anger |
 | 4 | Макс | Мы просто не хотели вас сильно расстроить. | We simply did not want to upset you badly. | #220 00:14:30: Шеф, да только сегодня и обманули | adapted: pleading good intentions |
-| 5 | Аня | Я же вам всем искренне доверял всегда! | I sincerely trusted all of you always! | #219 00:14:25: Я же вам доверял | adapted: feeling betrayed |
+| 5 | Шеф | Я же вам всем искренне доверял всегда! | I sincerely trusted all of you always! | #219 00:14:25: Я же вам доверял | adapted: feeling betrayed |
 | 6 | Макс | Простите, шеф, это больше никогда не повторится. | Forgive us, chef, this will never happen again. | #220 00:14:30: ну честно | adapted: apologizing sincerely |
-| 7 | Аня | С сегодняшнего дня говорите мне только правду. | From today on, tell me only the truth. | #226 00:14:51: будете говорить мне правду | adapted: issuing decree |
+| 7 | Шеф | С сегодняшнего дня говорите мне только правду. | From today on, tell me only the truth. | #226 00:14:51: будете говорить мне правду | adapted: issuing decree |
 | 8 | Макс | Мы обещаем всегда говорить чистую правду. | We promise to always tell the pure truth. | #227 00:14:55: только правду | adapted: promising honesty |
-| 9 | Аня | Никакого глупого обмана на моей кухне больше нет! | There will be no more foolish deceit in my kitchen! | #227 00:14:55: ничего, кроме правды | adapted: forbidding deceit |
+| 9 | Шеф | Никакого глупого обмана на моей кухне больше нет! | There will be no more foolish deceit in my kitchen! | #227 00:14:55: ничего, кроме правды | adapted: forbidding deceit |
 | 10 | Макс | Мы поняли ваш строгий главный урок. | We understood your strict main lesson. | #231 00:15:06: А вы проверку-то не прошли | adapted: acknowledging rule |
-| 11 | Аня | А если кто-то соврёт, сразу уволю! | And if someone lies, I will fire them immediately! | #232 00:15:10: уволю | adapted: threatening dismissal |
+| 11 | Шеф | А если кто-то соврёт, сразу уволю! | And if someone lies, I will fire them immediately! | #232 00:15:10: уволю | adapted: threatening dismissal |
 | 12 | Макс | Мы немедленно начинаем нашу новую работу. | We are immediately beginning our new work. | #233 00:15:14: Работать всем | adapted: returning to work |
 
 ## Walk-through narration (English only, no target-language words quoted)

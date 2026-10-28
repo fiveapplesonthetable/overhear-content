@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Всё, тут нам никто не помешает. | There, nobody will bother us here. | #207 00:15:22: никто не помешает | verbatim |
+| 1 | Настя | Всё, тут нам никто не помешает. | There, nobody will bother us here. | #207 00:15:22: никто не помешает | verbatim |
 | 2 | Костя | Настя, зачем мы сюда быстро пришли? | Nastya, why did we come here quickly? | new | new |
-| 3 | Аня | Нам нужно тихо поговорить без свидетелей. | We need to talk quietly without witnesses. | new | new |
+| 3 | Настя | Нам нужно тихо поговорить без свидетелей. | We need to talk quietly without witnesses. | new | new |
 | 4 | Костя | Здесь действительно очень тихо и спокойно. | It is indeed very quiet and peaceful here. | new | new |
-| 5 | Аня | Ты готов мне немного помочь? | Are you ready to help me a little? | new | new |
+| 5 | Настя | Ты готов мне немного помочь? | Are you ready to help me a little? | new | new |
 | 6 | Костя | Конечно, я всегда рад помочь тебе. | Of course, I am always glad to help you. | new | new |
-| 7 | Аня | Только пообещай никому ничего не рассказывать. | Only promise not to tell anyone anything. | new | new |
+| 7 | Настя | Только пообещай никому ничего не рассказывать. | Only promise not to tell anyone anything. | new | new |
 | 8 | Костя | Обещаю, это будет наша общая тайна. | I promise, this will be our shared secret. | new | new |
-| 9 | Аня | Отлично, тогда слушай меня очень внимательно. | Great, then listen to me very carefully. | new | new |
+| 9 | Настя | Отлично, тогда слушай меня очень внимательно. | Great, then listen to me very carefully. | new | new |
 | 10 | Костя | Я весь во внимании, говори скорее. | I am all ears, speak quickly. | new | new |
-| 11 | Аня | Мы разыграем один очень хитрый спектакль! | We will play out a very clever show! | new | new |
+| 11 | Настя | Мы разыграем один очень хитрый спектакль! | We will play out a very clever show! | new | new |
 | 12 | Костя | Ну да, я пока ничего не понимаю. | Well yeah, I do not understand anything yet. | #208 00:15:28: Ну да | verbatim |
-| 13 | Аня | Скоро ты сам всё отлично поймёшь! | Soon you will understand everything perfectly yourself! | new | new |
+| 13 | Настя | Скоро ты сам всё отлично поймёшь! | Soon you will understand everything perfectly yourself! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

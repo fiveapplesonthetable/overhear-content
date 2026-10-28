@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Саша | Виктория Сергеевна, вам принести чашку кофе? | Viktoriya Sergeyevna, should I bring you a cup of coffee? | new | new |
-| 2 | Аня | Господи, как же меня всё достало! | Lord, how sick of everything I am! | #205 00:15:09: меня все достало | verbatim |
+| 2 | Вика | Господи, как же меня всё достало! | Lord, how sick of everything I am! | #205 00:15:09: меня все достало | verbatim |
 | 3 | Саша | В ресторане опять возникли новые проблемы? | Have new problems arisen in the restaurant again? | new | new |
-| 4 | Аня | Конечно, в баре пропал дорогой коньяк. | Of course, expensive cognac went missing in the bar. | new | new |
+| 4 | Вика | Конечно, в баре пропал дорогой коньяк. | Of course, expensive cognac went missing in the bar. | new | new |
 | 5 | Саша | Бармен Костя сейчас ищет эту бутылку. | Bartender Kostya is looking for that bottle now. | new | new |
-| 6 | Аня | Ну почему всё всегда идёт не так? | Well why does everything always go wrong? | #206 00:15:12: Ну почему все всегда | verbatim |
+| 6 | Вика | Ну почему всё всегда идёт не так? | Well why does everything always go wrong? | #206 00:15:12: Ну почему все всегда | verbatim |
 | 7 | Саша | Наша работа всегда очень нервная. | Our work is always very stressful. | new | new |
-| 8 | Аня | Шеф кричит, повара спорят, бардак везде! | The chef shouts, cooks argue, mess everywhere! | new | new |
+| 8 | Вика | Шеф кричит, повара спорят, бардак везде! | The chef shouts, cooks argue, mess everywhere! | new | new |
 | 9 | Саша | Вам нужно немного отдохнуть и успокоиться. | You need to rest a bit and calm down. | new | new |
-| 10 | Аня | Неужели нельзя, чтобы день прошёл нормально? | Can a day really not pass normally? | #207 00:15:14: прошел нормально | verbatim |
+| 10 | Вика | Неужели нельзя, чтобы день прошёл нормально? | Can a day really not pass normally? | #207 00:15:14: прошел нормально | verbatim |
 | 11 | Саша | Я уверена, скоро всё наладится. | I am sure everything will work out soon. | new | new |
-| 12 | Аня | Хочу хотя бы один спокойный день! | I want at least one calm day! | #208 00:15:18: Один день | verbatim |
+| 12 | Вика | Хочу хотя бы один спокойный день! | I want at least one calm day! | #208 00:15:18: Один день | verbatim |
 | 13 | Саша | Мы все очень хотим этого, поверьте. | We all want this very much, believe me. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -10,25 +10,25 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Привет. Где мой салат? | Hello. Where is my salad? | new | new: new |
+| 1 | Сеня | Привет. Где мой салат? | Hello. Where is my salad? | new | new: new |
 | 2 | Федя | Я его не брал. | I did not take it. | new | new: new |
-| 3 | Аня | Утром он был здесь. | It was here in the morning. | new | new: new |
+| 3 | Сеня | Утром он был здесь. | It was here in the morning. | new | new: new |
 | 4 | Федя | Спроси у других поваров. | Ask the other cooks. | new | new: new |
-| 5 | Аня | Уи, ты мой салат не видел? | Hey, have you seen my salad? | #280 00:17:33: ты мой салат не видел | adapted: adapted |
+| 5 | Сеня | Уи, ты мой салат не видел? | Hey, have you seen my salad? | #280 00:17:33: ты мой салат не видел | adapted: adapted |
 | 6 | Федя | Нет, я готовил десерты. | No, I was preparing desserts. | new | new: new |
-| 7 | Аня | Куда он мог пропасть? | Where could it have gone? | new | new: new |
+| 7 | Сеня | Куда он мог пропасть? | Where could it have gone? | new | new: new |
 | 8 | Федя | Может, его уже подали. | Maybe it was already served. | new | new: new |
-| 9 | Аня | Это был мой лучший салат. | It was my best salad. | new | new: new |
+| 9 | Сеня | Это был мой лучший салат. | It was my best salad. | new | new: new |
 | 10 | Федя | Сделай новый, время есть. | Make a new one, there is time. | new | new: new |
-| 11 | Аня | Гости будут ждать. | The guests will wait. | new | new: new |
+| 11 | Сеня | Гости будут ждать. | The guests will wait. | new | new: new |
 | 12 | Федя | Ничего страшного не случится. | Nothing terrible will happen. | new | new: new |
-| 13 | Аня | Я не успею сделать новый. | I will not have time to make a new one. | new | new: new |
+| 13 | Сеня | Я не успею сделать новый. | I will not have time to make a new one. | new | new: new |
 | 14 | Федя | Тогда придумай что-нибудь другое. | Then think of something else. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, have you seen my salad?' In Russian, 'oui' leads into 'saw' in a very natural everyday phrasing.
-- 'It was my best salad.' Notice the word order: 'this' comes first, and 'salad' finishes the sentence. Then Fedya replies.
-- 'Make a new one, there is time.' The first content word means 'make', and 'there is' rounds out the thought.
-- 'I will not have time to make a new one.' You'll hear 'I' all the time in the show, here connected with 'new'.
-- 'Then think of something else.' In Russian, 'back then' leads into 'another' in a very natural everyday phrasing.
+- 'Hey, have you seen my salad?' The verb for 'saw' is in the masculine past tense, marked by the '-l' ending.
+- 'It was my best salad.' The verb for 'was' is in the masculine past tense, marked by the '-l' ending.
+- 'Make a new one, there is time.' Fedya leads with the direct command form meaning 'make', pairing it with 'new' and 'time'.
+- 'I will not have time to make a new one.' Senya uses the perfective verb meaning 'will manage' to focus on the single completed result, pairing it with 'to do' and 'new'.
+- 'Then think of something else.' Fedya leads with the direct command form meaning 'think up', pairing it with 'back then' and 'another'.

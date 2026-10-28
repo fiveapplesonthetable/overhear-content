@@ -11,22 +11,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Игорь | Что здесь происходит? | What is happening here? | new | new: new |
-| 2 | Аня | Мы просто работаем. | We are just working. | new | new: new |
+| 2 | Шеф | Мы просто работаем. | We are just working. | new | new: new |
 | 3 | Игорь | На кухне полный хаос. | There is complete chaos in the kitchen. | new | new: new |
 | 4 | Игорь | А вы сидите здесь. | And you are sitting here. | new | new: new |
 | 5 | Игорь | Чайком балуемся, Виктор Петрович? | Having some tea, Viktor Petrovich? | #266 00:19:42: Чайком балуемся | adapted: adapted |
-| 6 | Аня | Да, чай очень вкусный. | Yes, the tea is very tasty. | new | new: new |
-| 7 | Аня | Я люблю отдыхать. | I like to rest. | new | new: new |
-| 8 | Аня | Это правильно. | That is right. | #267 00:19:46: Это правильно | adapted: adapted |
+| 6 | Шеф | Да, чай очень вкусный. | Yes, the tea is very tasty. | new | new: new |
+| 7 | Шеф | Я люблю отдыхать. | I like to rest. | new | new: new |
+| 8 | Шеф | Это правильно. | That is right. | #267 00:19:46: Это правильно | adapted: adapted |
 | 9 | Игорь | Вы должны работать. | You must work. | new | new: new |
-| 10 | Аня | Мои повара всё знают. | My cooks know everything. | new | new: new |
-| 11 | Аня | Они работают за меня. | They work for me. | new | new: new |
+| 10 | Шеф | Мои повара всё знают. | My cooks know everything. | new | new: new |
+| 11 | Шеф | Они работают за меня. | They work for me. | new | new: new |
 | 12 | Игорь | Это просто возмутительно. | This is simply outrageous. | new | new: new |
-| 13 | Аня | Не кричите на меня. | Do not yell at me. | new | new: new |
+| 13 | Шеф | Не кричите на меня. | Do not yell at me. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Having some tea, Viktor Petrovich?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'tea' straight to 'Petrovich'.
-- 'That is right.' Notice the word order: 'this' comes first, and 'right' finishes the sentence.
-- 'You must work.' Here 'you' sets up the idea, while 'to work' comes at the end for emphasis.
-- 'This is simply outrageous.' You'll hear 'this' all the time in the show, here connected with 'outrageous'.
+- 'That is right.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'right'.
+- 'You must work.' The phrasing opens with 'must' before bringing in 'to work' to make the point clear.
+- 'This is simply outrageous.' Russian omits the present-tense verb 'to be', connecting 'this' directly with 'outrageous'.

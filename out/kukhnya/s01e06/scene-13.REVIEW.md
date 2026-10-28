@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Где ты нашёл эту коробку? | Where did you find this box? | #182 00:13:13: не это ищете | adapted: asking urgently |
+| 1 | Макс | Где ты нашёл эту коробку? | Where did you find this box? | #182 00:13:13: не это ищете | adapted: asking urgently |
 | 2 | Родион | Вы искали дорогие трюфели на помойке. | You were looking for expensive truffles in the trash. | #182 00:13:13: Вы, случайно, не это ищете? | adapted: speaking calmly |
-| 3 | Аня | Пожалуйста, отдай их нам скорее обратно! | Please, give them back to us quickly! | #183 00:13:15: А ну-ка, дай сюда! | adapted: demanding truffles |
+| 3 | Макс | Пожалуйста, отдай их нам скорее обратно! | Please, give them back to us quickly! | #183 00:13:15: А ну-ка, дай сюда! | adapted: demanding truffles |
 | 4 | Родион | Сначала представьтесь вежливо, молодой человек. | First introduce yourself politely, young man. | #185 00:13:24: Как грубо! | adapted: admonishing manners |
-| 5 | Аня | Меня зовут Макс, а это Костя. | My name is Max, and this is Kostya. | #186 00:13:26: позволь | adapted: introducing themselves |
+| 5 | Макс | Меня зовут Макс, а это Костя. | My name is Max, and this is Kostya. | #186 00:13:26: позволь | adapted: introducing themselves |
 | 6 | Родион | Очень приятно, а я Родион Сергеевич. | Very pleased, and I am Rodion Sergeyevich. | #186 00:13:26: Меня зовут Родион Сергеевич | adapted: introducing himself |
-| 7 | Аня | Что ты хочешь за эти грибы? | What do you want for these mushrooms? | #187 00:13:30: А трюфели в надежном месте | adapted: asking for conditions |
+| 7 | Макс | Что ты хочешь за эти грибы? | What do you want for these mushrooms? | #187 00:13:30: А трюфели в надежном месте | adapted: asking for conditions |
 | 8 | Родион | Мне нужна одна небольшая дружеская услуга. | I need one small friendly favor. | #189 00:13:39: обмен на маленькую услугу | adapted: proposing deal |
-| 9 | Аня | Мы можем заплатить тебе немного денег. | We can pay you a little money. | #197 00:14:11: мы тебе денег заплатим | adapted: offering cash |
+| 9 | Макс | Мы можем заплатить тебе немного денег. | We can pay you a little money. | #197 00:14:11: мы тебе денег заплатим | adapted: offering cash |
 | 10 | Родион | Нет, я хочу роскошный обед здесь. | No, I want a luxurious lunch here. | #199 00:14:19: Я обедаю в этом ресторане | adapted: demanding dining |
-| 11 | Аня | Но охранники не пустят тебя внутрь! | But the guards won't let you inside! | #190 00:13:43: Его не пустят в зал | adapted: pointing out obstacle |
+| 11 | Макс | Но охранники не пустят тебя внутрь! | But the guards won't let you inside! | #190 00:13:43: Его не пустят в зал | adapted: pointing out obstacle |
 | 12 | Родион | Тогда найдите мне подходящую чистую одежду. | Then find me suitable clean clothes. | #192 00:13:49: Я гражданин мира | adapted: suggesting makeover |
-| 13 | Аня | Хорошо, пойдём скорее в нашу раздевалку. | Alright, let's go quickly into our locker room. | #193 00:13:52: Это шкафчик | adapted: accepting plan |
+| 13 | Макс | Хорошо, пойдём скорее в нашу раздевалку. | Alright, let's go quickly into our locker room. | #193 00:13:52: Это шкафчик | adapted: accepting plan |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сеня, не мешай мне смотреть футбол! | Senya, don't disturb me watching football! | #286 00:20:00: футбол начинается | adapted: demanding quiet for game |
+| 1 | Шеф | Сеня, не мешай мне смотреть футбол! | Senya, don't disturb me watching football! | #286 00:20:00: футбол начинается | adapted: demanding quiet for game |
 | 2 | Сеня | Шеф, вас срочно зовёт Дмитрий Владимирович! | Chef, Dmitry Vladimirovich is urgently calling you! | #289 00:20:37: вас Дмитрий Владимирович зовет | adapted: delivering urgent summons |
-| 3 | Аня | Почему хозяин звонит именно в этот момент? | Why does the owner call at this exact moment? | #289 00:20:37: Дмитрий Владимирович | adapted: grumbling about bad timing |
+| 3 | Шеф | Почему хозяин звонит именно в этот момент? | Why does the owner call at this exact moment? | #289 00:20:37: Дмитрий Владимирович | adapted: grumbling about bad timing |
 | 4 | Сеня | Он сказал, что это очень срочное дело. | He said that this is a very urgent matter. | #289 00:20:37: зовет | adapted: emphasizing urgency |
-| 5 | Аня | Я знаю этого человека целых двадцать лет. | I have known this man for a whole twenty years. | #288 00:20:33: Я же вас 20 лет знаю | adapted: reflecting on long acquaintance |
+| 5 | Шеф | Я знаю этого человека целых двадцать лет. | I have known this man for a whole twenty years. | #288 00:20:33: Я же вас 20 лет знаю | adapted: reflecting on long acquaintance |
 | 6 | Сеня | Он ждёт вас прямо сейчас возле зала. | He is waiting for you right now near the hall. | #290 00:20:39: Шеф | adapted: urging Barinov to hurry |
-| 7 | Аня | Наша команда ведёт в счёте два ноль! | Our team is leading in the score two-nil! | #292 00:20:46: Следи за счетом | adapted: pointing at match score |
+| 7 | Шеф | Наша команда ведёт в счёте два ноль! | Our team is leading in the score two-nil! | #292 00:20:46: Следи за счетом | adapted: pointing at match score |
 | 8 | Сеня | Я обещаю внимательно следить за футбольным счётом. | I promise to attentively watch the football score. | #292 00:20:46: Следи за счетом | adapted: promising to monitor game |
-| 9 | Аня | Если наша команда проиграет, я накажу тебя! | If our team loses, I will punish you! | #292 00:20:46: Следи за счетом | adapted: threatening cook |
+| 9 | Шеф | Если наша команда проиграет, я накажу тебя! | If our team loses, I will punish you! | #292 00:20:46: Следи за счетом | adapted: threatening cook |
 | 10 | Сеня | Шеф, я не отойду от экрана телевизора. | Chef, I will not step away from the TV screen. | #292 00:20:46: Следи за счетом | adapted: reassuring vigilance |
-| 11 | Аня | Ладно, я пойду и выслушаю Дмитрия Нагиева. | Fine, I will go and listen to Dmitry Nagiyev. | #290 00:20:39: Шеф | adapted: reluctantly agreeing to go |
+| 11 | Шеф | Ладно, я пойду и выслушаю Дмитрия Нагиева. | Fine, I will go and listen to Dmitry Nagiyev. | #290 00:20:39: Шеф | adapted: reluctantly agreeing to go |
 | 12 | Сеня | Удачи вам в разговоре с нашим хозяином! | Good luck to you in the talk with our master! | #289 00:20:37: Дмитрий Владимирович | adapted: wishing luck |
-| 13 | Аня | Смотри в оба и внимательно следи за счётом! | Keep your eyes peeled and attentively watch the score! | #292 00:20:46: Следи за счетом | adapted: leaving final command |
+| 13 | Шеф | Смотри в оба и внимательно следи за счётом! | Keep your eyes peeled and attentively watch the score! | #292 00:20:46: Следи за счетом | adapted: leaving final command |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
