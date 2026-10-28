@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, tell me, how did this difficult banquet go?' Vika's "tell" is a command from the word Alisa used for "I will tell". "How did it go" is "how did it pass" in Russian. She sounds tired, and she wants the news.
-- 'Everything went simply wonderfully and very calmly.' "Everything" is neuter, so "went" ends in -o to match. The words for "wonderfully" and "calmly" are both adverbs ending in -o. Barinov gives her the polite version of the day.
-- 'And what happened to our celebration cake?' The Russian is "what happened with our festive cake", and all three words after "with" take the "by means of" endings. Vika has heard something, and she asks it lightly.
-- 'Nothing terrible, all the guests remained very pleased!' "Nothing frightening" is the set phrase for "no big deal" that you heard in the knife scene. Barinov is relieved and a bit smug, and he says it with a wave of the hand.
-- 'Well, thank goodness, I was worrying intensely.' "Glory to God" is the Russian "thank goodness", the same one Alisa quoted from her mother. The woman's -las on "worried" tells you Vika is speaking. She lets out her breath.
-- 'We make astonishing discoveries every day.' The Russian for "discovery" grows from the term for "to open", so a discovery is an "opening". Barinov is in a philosophical mood, which happens after a long day.
-- 'Sometimes a person wants to save, not destroy.' In Russian, "save" shares a root with the word Russians say for "thank you", which started as "God save". Vika is in a thoughtful mood too, and she says it softly.
-- 'Yes, I clearly understood that today too.' Barinov agrees with her. The "g" in the term for "today" is said as a "v", which is a common oddity in Russian spelling. "Understood" ends in the man's -l.
-- 'You think that you easily manage a big team.' "Steer" is what Alisa used for controlling the rat, and here it stands for managing the kitchen. Vika is describing Barinov, and she is kind about it.
-- 'And handling a little child is much harder!' It's the "cope" word again, with a comparative: "harder" is just "hard" with an ending, like "faster" earlier. Barinov says it with the weariness of a man who has learned something.
-- 'Children demand much patience and real care.' In Russian, "demand" is the one Barinov used when he wanted silence. Vika says it like a rule she has learned, and it sounds right. "Patience" and "care" take the "of" ending.
-- 'But my daughter brought us great luck.' "Brought" has the woman's ending because the daughter is a girl. What Russian calls luck is a gentle, positive one. Barinov sees the day's silver lining, and he means it.
-- 'I am glad that this evening ended successfully!' Vika uses the woman's form of "glad". The Russian for "ended" has the -sya, "ended by itself", where the baking lesson's "finished" took an object. She can go home.
+- 'Viktor, tell me, how did this difficult banquet go?' "Skazhi" is "tell", said to one person. "Kak proshyol" is "how did it pass". "Slozhny" is "difficult" or "complicated". She wants the news.
+- 'Everything went simply wonderfully and very calmly.' "Vsyo", "everything", takes "proshlo" ending in -o. "Zamechatelno" and "spokoyno" both end in -o too: that's how "wonderful" and "calm" become "wonderfully" and "calmly".
+- 'And what happened to our celebration cake?' The Russian is "s nashim prazdnichnym tortom", "with our festive cake", and all three words take endings after "s". Vika has heard something, and she asks it lightly.
+- 'Nothing terrible, all the guests remained very pleased!' "Nichego strashnogo", "nothing frightening", is the set phrase for "no big deal", heard in the knife scene. "Ostalis dovolny" is "remained pleased".
+- 'Well, thank goodness, I was worrying intensely.' "Slava bogu", "glory to God", is the Russian "thank goodness", the one Alisa quoted from her mother. "Volnovalas" has the woman's -las, so it's Vika speaking.
+- 'We make astonishing discoveries every day.' "Otkrytie", "discovery", grows from "otkryt", "to open", so a discovery is an "opening". "Kazhdy den" is "every day". Barinov is in a philosophical mood.
+- 'Sometimes a person wants to save, not destroy.' "Spasti", "to save", shares a root with "spasibo", which started as "God save". "Unichtozhit" is "to destroy". Vika says it softly.
+- 'Yes, I clearly understood that today too.' "Segodnya" is spelt with a g but said with a v, an old Russian spelling habit. "Ponyal", "understood", ends in the man's -l. "Yasno" is "clearly".
+- 'You think that you easily manage a big team.' "Upravlyaesh" is the word Max used when he steered the rat; here it means running the kitchen. "Kollektivom" is "kollektiv", "team", with -om, because this word wants that ending.
+- 'And handling a little child is much harder!' "Spravitsya" is the "cope" word again. "Trudnee" is "harder": "trudno" with -ee, the same ending that makes "bystree", "faster". "Gorazdo" is "much".
+- 'Children demand much patience and real care.' "Trebuyut", "demand", is the word Barinov used when he wanted silence. After "mnogo", "much", "terpenie" becomes "terpeniya", and "zabota" becomes "zaboty".
+- 'But my daughter brought us great luck.' "Prinesla", "brought", ends in -la because the daughter is a girl. "Udacha" is luck, a warm word Russians also say as "good luck". Barinov sees the day's silver lining.
+- 'I am glad that this evening ended successfully!' Vika says "rada", the woman's form of "glad"; a man says "rad". "Zakonchilsya" has -sya, "ended by itself", where Louis's "zakonchil" took an object.

@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Шеф, я наконец забрал ваш любимый нож. | Chef, I finally retrieved your favorite knife. | #179 00:11:28: мой нож | verbatim |
+| 1 | Макс | Шеф, я наконец забрал нож Луи. | Chef, I finally got Louis's knife back. | #179 00:11:28: мой нож | verbatim |
 | 2 | Шеф | Где ты вообще его нашёл, огузок? | Where did you find it at all, Oguzok? | #180 00:11:35: Шеф, еще бы несколько секунд | verbatim |
 | 3 | Макс | Ваша дочка играла с ним на кухне! | Your daughter was playing with it in the kitchen! | #180 00:11:35: и я мог бы пострадать от вашей дочери | verbatim |
 | 4 | Шеф | Она могла поранить себя или тебя? | Could she hurt herself or you? | new | new |
@@ -19,21 +19,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Макс | Мне нужно продолжать готовить блюда? | Do I need to continue preparing dishes? | new | new |
 | 8 | Шеф | Хватит болтать, живо иди работать! | Stop chattering, go work immediately! | #182 00:11:41: Работай | verbatim |
 | 9 | Макс | А что вы будете делать с дочкой? | And what will you do with your daughter? | #183 00:11:43: Алиса, что мне с тобой делать | verbatim |
-| 10 | Шеф | Алиса, что мне теперь делать с тобой? | Alice, what am I to do with you now? | #183 00:11:43: Алиса, что мне с тобой делать | verbatim |
+| 10 | Шеф | Алиса, что мне теперь делать с тобой? | Alisa, what am I to do with you now? | #183 00:11:43: Алиса, что мне с тобой делать | verbatim |
 | 11 | Макс | Она снова убежит в обеденный зал. | She will run off to the dining hall again. | #184 00:11:45: ты снова куда-нибудь сбежишь | verbatim |
 | 12 | Шеф | Ладно, я отведу её к тёте Вике! | All right, I will take her to Aunt Vika! | #185 00:11:50: Ладно | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I finally retrieved your favorite knife.' "Nakonets" is "finally". Max says "vash", the polite "your", because he is speaking to the chef. In Russian, "retrieved" is "took" with a small "za" in front.
-- 'Where did you find it at all, Oguzok?' "Voobshche" is a filler that means "in general" or "at all", the way English says "where on earth". Oguzok is the nickname Barinov gives Max, and it comes out when the chef is cross.
-- 'Your daughter was playing with it in the kitchen!' Russian says "s nim" for "with it", and the "n" appears because pronouns grow an "n" after a small word like "with". The -la on "igrala" is the girl's ending, since the daughter is a girl.
+- 'Chef, I finally got Louis's knife back.' "Nakonets" is "finally". "Nozh Lui" is "knife of Louis": the owner comes after the thing, and a foreign name like Louis never changes its ending. "Zabral" is "took" with "za" in front, so "took away, got back".
+- 'Where did you find it at all, Oguzok?' "Voobshche" means "in general" or "at all", the way English says "where on earth". Oguzok is Barinov's nickname for Max; it's the butcher's word for the rump, a cheap cut of beef.
+- 'Your daughter was playing with it in the kitchen!' "S nim" is "with it". "Im" becomes "nim" after "s": he, she, it and they all add an "n" after small words like this. The -la on "igrala" is the ending for a girl or woman.
 - 'Could she hurt herself or you?' "Mogla" is "could", with the -a ending of a girl. "Sebya" means "herself", and it is the same for everyone, he, she, or I. Barinov goes straight to the worry about Alisa.
-- 'She almost injured me with this knife!' "Chut ne" is "almost", literally "a little not". And there's no word for "with" before the knife. The ending on it does that, so "this knife" turns into "with this knife". Max exaggerates, a little.
-- 'Nothing terrible, you are still alive.' "Nichego strashnogo" is a set phrase, "nothing frightening", and Russians say it for "no big deal". "Zhiv" is "alive", the family of "zhivo", the "look lively" from the knife scene.
-- 'Do I need to continue preparing dishes?' It's "to me needed to continue", the same pattern as before. "Bluda" are dishes, meaning food and not plates. Max asks, hoping for a break, and gets none.
+- 'She almost injured me with this knife!' "Chut ne" is "almost", literally "a little not". There's no word for "with": "etim nozhom", "this knife" with -im and -om on the end, already means "with this knife". Max exaggerates, a little.
+- 'Nothing terrible, you are still alive.' "Nichego strashnogo" is literally "nothing frightening", the Russian "no big deal". "Zhiv" is "alive", and Barinov is about to turn it into "zhivo", "look lively".
+- 'Do I need to continue preparing dishes?' It's "to me needed to continue", the same "mne nuzhno" pattern as before. "Blyuda" are dishes in the sense of food, not plates. Max hopes for a break and gets none.
 - 'Stop chattering, go work immediately!' "Khvatit" is "enough", and "zhivo" means "quick", "look lively". Two quick commands, and the break is over.
 - 'And what will you do with your daughter?' Max says "vy", the polite "you", and "chto vy budete delat" is "what you will do". It's a risky question to put to the boss, but Max is curious.
-- 'Alice, what am I to do with you now?' The Russian is "what to me to do with you", and there is no "should". The name is spelled Alisa in Russian. Barinov stops being a chef for a moment and sounds like a puzzled father.
+- 'Alisa, what am I to do with you now?' The Russian is "what to me to do with you", with no "should" or "must": "mne" plus a plain verb does it all. Barinov stops being a chef for a moment and sounds like a puzzled father.
 - 'She will run off to the dining hall again.' "Ubezhit" is "will run away", where the u- carries the "off". What Russian calls the dining hall comes from "obed", the midday meal, so it's literally the "lunch hall". "Snova" is "again".
-- 'All right, I will take her to Aunt Vika!' "Otvedu" means "take along", someone you lead by the hand. "K tyote Vike" is "to Aunt Vika", with an ending for "to". So Barinov's problem becomes Vika's problem.
+- 'All right, I will take her to Aunt Vika!' "Otvedu" is "I'll take" someone on foot, leading them. "K tyote Vike" is "to Aunt Vika": after "k", "to", "tyotya" becomes "tyote" and "Vika" becomes "Vike". So Barinov's problem becomes Vika's.
