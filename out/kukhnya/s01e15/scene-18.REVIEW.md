@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Therefore I will not pressure you.' The word for 'press' is the one in 'blood pressure'. 'Poetomu' is 'therefore', and Vika opens with it as if she'd been thinking it over.
+- 'Therefore I will not pressure you.' 'Press' is the word behind 'blood pressure'. Vika opens with 'therefore' as if she'd been thinking it over.
 - 'Let everything remain as it was.' Russian says 'let everything stay as was', with no subject for 'was'. It's a very Russian way to ask for no changes.
-- 'Yes, but I...' Max trails off, and the three dots say it all. Russians stop mid-sentence the same way, but the word for 'but' is 'no'.
-- 'We will definitely live together.' The future is made of the word for 'will be' plus the word for 'live', as in 'we will be living'. The word for 'definitely' comes from the word for 'obligatory'.
-- 'And now good night.' 'Spokoynoy nochi' is literally 'of a calm night', and the 'of' ending shows that it's a wish. It's like 'bon appetit' in that way.
-- 'Moved to live in the hallway.' There's no 'I' and no 'am'. 'Pereekhal zhit' is 'moved to live', with the man's past form. 'Podyezd' is the stairwell of a block of flats.
+- 'Yes, but I...' Max trails off. The Russian 'no' looks like English 'no' but means 'but', so the line begins 'da, no ya'.
+- 'We will definitely live together.' The future is made of 'will be' plus 'live', as in 'we will be living'. 'Definitely' comes from 'obligatory'.
+- 'And now good night.' Literally, 'of a calm night', and the 'of' ending shows it's a wish. It works like 'bon appetit' in that way.
+- 'Moved to live in the hallway.' There's no 'I' and no 'am'. The stairwell of a block of flats is 'podyezd'.
 - 'Hi, Max.' 'Privet' is the casual hello, and Kostya says it on the phone. It's what Russians say to friends.
 - 'What do you need?' Russian says 'what to you necessary', and it's a rude way to open a call. Max is still hurt.
-- 'Max, come back.' 'Vozvrashchaysya' ends in 'sya', so it's 'return yourself'. Kostya uses the plain order for a friend.
-- 'We miss you.' 'Nam tebya ne khvatayet' is literally 'to us you are not enough'. The word for 'be enough' is the one behind the word for 'grab'.
-- 'We will divide the apartment among three.' The word for 'among three' is two words, 'on three', as Russian says 'divide on three'. The sharing word is built from the word for 'divide', with 'po' in front.
-- 'I will try to come.' The word for 'try' has the 'sya' ending, which here gives 'I will try myself'. The word for 'come' means arriving by vehicle, so Max will come by car or bus.
+- 'Max, come back.' 'Vozvrashchaysya' has a 'sya', so it's 'return yourself'. Kostya uses the plain order for a friend.
+- 'We miss you.' Literally, 'to us you are not enough'. 'Khvatat'' is also the root behind the word for 'grab'.
+- 'We will divide the apartment among three.' Russians say 'divide on three'. The sharing word is built from 'divide', with 'po' in front.
+- 'I will try to come.' The 'sya' on 'try' gives 'I will try myself'. 'Come' means arriving by vehicle.

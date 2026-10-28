@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, take care of the last order.' 'Zaymis'' ends in 'sya', so it's 'occupy yourself'. The job you take on goes into the 'im' ending: 'poslednim zakazom'.
-- 'That is it, the kitchen is closed.' 'Zakryta' ends in 'a' because 'kukhnya' is feminine. 'Vsyo' at the start closes the day.
-- 'I always said that you are the most capable.' 'Samy sposobny' is 'the most capable'. 'Vsegda govoril' is 'always said', and it's said with a bit too much sweetness.
-- 'Viktor Petrovich, you have a sick heart.' 'U vas bolnoe serdtse' is 'at you a sick heart'. 'Bolnoe' ends in 'oe' because 'serdtse' is neuter.
+- 'Fedya, take care of the last order.' 'Zaymis'' has a 'sya', so it's 'occupy yourself'. 'Poslednim zakazom' takes 'im' and 'om' for 'with the last order'.
+- 'That is it, the kitchen is closed.' 'Zakryta' has an 'a' because the kitchen is feminine. 'Vsyo' at the start closes the day.
+- 'I always said that you are the most capable.' 'The most capable' is stacked up with 'most' and 'capable'. 'Always said' sounds a bit too sweet.
+- 'Viktor Petrovich, you have a sick heart.' Russian says 'at you a sick heart'. 'Bolnoe' has an 'oe' because 'heart' is neuter.
 - 'My heart is in perfect order.' 'V polnom poryadke' is 'in full order'. The speaker puts the heart first, 'serdtse u menya', to stress it.
 - 'So you tricked me?' 'Obmanuli' is 'tricked', in the polite plural form. 'Tak' at the start is 'so', a word of discovery.
 - 'And how else could I bring you back?' 'Vernut' is 'to bring back', for a person or an object. 'Kak eshchyo' is 'how else'.
 - 'Ah, you bastard!' 'Ah ty' is a pattern: 'ah you' plus an insult. 'Svolokh' is a very rough word, used only when the speaker has lost control.
 - 'Lyova, calm down!' 'Uspokoysya' is 'calm yourself'. It is the order everyone gives to everyone in this series.
-- 'I will give you an attack right now!' 'Ustroyu' is literally 'I will arrange', and 'ustroit' is a handy word for 'organise a scene'. 'Pristup' is a sudden attack or fit.
+- 'I will give you an attack right now!' Literally, 'I will arrange', and the word is also used for staging a scene. An 'attack' here is a sudden fit.
 - 'Lyova, put that in its place!' 'Polozhi' means 'put down' for flat things. 'Na mesto' is 'onto the place'.
 - 'I will kill you!' 'Ubyu' is the future of 'kill', in one word. It's a joke threat here, as it often is among Russian friends.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = 'Lyova has just poured out an apology to the sleeping Barinov. Now Barinov opens his eyes. Here is the scene in Russian first.'
-OPENER = "Let's go back through this one gently."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Barinov forgives Lyova and falls asleep again. When you watch, see whether he really has been listening the whole time. Talk soon.'
+INTRO = 'Lyova has just poured out an apology to the sleeping Barinov. Now Barinov opens his eyes. The Russian comes first.'
+OPENER = 'Gently, once more.'
+TRANSITION = 'Now the whole scene again.'
+OUTRO = 'Barinov forgives Lyova and falls asleep again. Was he really listening the whole time? Talk soon.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('lyova', 'Виктор Петрович, вы не спите?', 'Viktor Petrovich, are you not sleeping?', [(329, 'Лёва, меня чуть не хватил удар от твоей пламенной речи второй за день.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'А теперь дай мне поспать.', 'And now let me sleep.', [], ''),
 ]
 WALK = [
-    (0, None, "'Viktor Petrovich, are you not sleeping?' A negative question, 'vy ne spite', is how Russians ask 'are you awake?'. 'Vy' is the polite you, and the verb ends in 'ite'."),
-    (1, None, "'I heard everything, Lyova.' 'Slyshal' means 'heard', and it's a man's form. 'Vsyo' is 'everything'."),
-    (2, None, "'Did you hear my words?' 'Slova' is the plural of 'slovo', 'word'. Lyova is nervous."),
-    (3, None, "'I almost had a stroke.' 'Menya khvatil udar' is literally 'a blow grabbed me', which is the Russian idiom for a stroke. 'Chut ne' is 'almost'."),
+    (0, None, "'Viktor Petrovich, are you not sleeping?' A negative question is how Russians ask 'are you awake?'. The polite 'you' goes with the 'ite' ending."),
+    (1, None, "'I heard everything, Lyova.' 'Heard' has a man's ending. 'Everything' is the all-purpose 'vsyo'."),
+    (2, None, "'Did you hear my words?' 'Slova' is the plural of 'slovo', word. Lyova is nervous."),
+    (3, None, "'I almost had a stroke.' Literally, 'a blow grabbed me', the Russian idiom for a stroke. 'Chut' ne' is 'almost'."),
     (4, None, "'Your speech was very fiery.' 'Plamenny' comes from 'plamya', flame, so a fiery speech is a flamy one. 'Rech' is feminine, so the word ends in 'oy'."),
-    (5, None, "'I spoke from a pure heart.' 'Ot chistogo serdtsa' is 'from a pure heart', and it's a fixed phrase. English says 'from the bottom of my heart'."),
-    (6, None, "'This is already the second heart attack today.' 'Vtoroy' is 'second', and 'za den' is 'in a day'. The joke is that his heart is behaving worse than it ever did."),
-    (7, None, "'So, you are not angry at me?' 'Zlitsya na' is 'to be angry at', and it takes 'na', 'on'. 'Znachit' at the start means 'so'."),
+    (5, None, "'I spoke from a pure heart.' It's a fixed phrase. English says 'from the bottom of my heart'."),
+    (6, None, "'This is already the second heart attack today.' 'Second' is the usual number word. 'In a day' covers 'today'. His heart is behaving worse than it ever did."),
+    (7, None, "'So, you are not angry at me?' 'To be angry at' wants 'on', so Russians say 'angry on me'. 'So' opens the line."),
     (8, None, "'No, I am not angry at you.' Barinov repeats the question as an answer. The same 'na' comes before 'tebya'."),
     (9, None, "'Will you stay to live with us?' 'Ostanetes zhit' is 'will you stay to live', two verbs together. 'U nas' is 'at our place'."),
-    (10, None, "'Yes, I will stay here.' 'Ostanus'' is 'I will stay', and it has the 'sya' of 'stay yourself'. Barinov agrees in four words."),
-    (11, None, "'I am very glad to hear this.' 'Rad' is 'glad', in the man's form. 'Slyshat' is 'to hear', and it follows directly."),
+    (10, None, "'Yes, I will stay here.' 'Ostanus'' has the 'sya' of 'stay yourself'. Barinov agrees in four words."),
+    (11, None, "'I am very glad to hear this.' 'Glad' has a man's form. 'To hear' follows it directly."),
     (12, None, "'And now let me sleep.' 'Day pospat' is again 'give me to sleep'. The 'po' keeps the sleep short and sweet."),
 ]

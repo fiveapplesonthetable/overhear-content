@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, do not get carried away with pancakes.' 'Uvlekaysya' ends in 'sya', so it's 'carry yourself away'. 'Blinami' ends in 'ami', which is how you say 'with' for many pancakes.
+- 'Lyova, do not get carried away with pancakes.' The order ends in 'sya', so it is 'carry yourself away'. 'With pancakes' ends in 'ami', the ending for 'with' and plural.
 - 'And what is bad about these tasty pancakes?' 'Chto plokhogo' is 'what of bad', a handy phrase meaning 'what's wrong with'. 'V etikh' is 'in these'.
 - 'Remember your last test.' Russians say 'remember about' something, so the little word 'pro', 'about', sits in the middle. A medical test is 'analiz', a word that looks just like its English cousin.
 - 'My cholesterol level was almost in range.' 'V norme' is 'in the norm', which Russians use for 'normal range'. 'Kholesterina' ends in 'a' to say 'of'.
-- 'Go to the dry cleaners and take my suit.' 'Khimchistka' is short for 'chemical cleaning', which is how Russians say 'dry cleaner'. 'Zaydi' means 'pop in'.
-- 'I do not have time. That is the other way.' 'Ne uspevayu' means 'I'm not managing to be in time'. 'V druguyu storonu' is 'to another side', which is how you say 'the other way'.
+- 'Go to the dry cleaners and take my suit.' 'Khimchistka' is short for 'chemical cleaning', which is what Russians call a dry cleaner. 'Zaydi' is the order to pop in.
+- 'I do not have time. That is the other way.' Literally, 'I'm not managing to be in time'. 'To another side' means 'the other way'.
 - 'Lyova, come on, favor for a favor.' 'Usluga za uslugu' means 'service for service'. Russians say it for a swap, and it has no verb.
-- 'What useful favor can there be from you?' 'Ot vas' means 'from you', and the polite 'vas' is the clue that Lyova is being careful. 'Poleznaya' is 'useful', from 'polza'.
+- 'What useful favor can there be from you?' 'Ot vas' is the polite 'from you', and it tells you Lyova is being careful. 'Poleznaya' grows from 'polza', benefit.
 - 'You get me the suit, and I allow you to be late.' The first half has no verb, 'you to me suit'. Barinov doesn't say 'bring' because both of them know what he means.
-- 'Alright, I agree to these strange conditions.' 'Soglasen na' means 'agree to'. 'Usloviya' is 'conditions', and it's a plural word, as in 'terms'.
-- 'That is it, you are no longer sous-chef.' 'Bolshe ne' is 'no more', so 'no longer'. 'Vsyo' at the start slams the door.
-- 'How can you act like this with me?' 'Postupat' means 'to act' or 'to treat', and 'so mnoy' is 'with me'. 'Kak vy mozhete' is the polite 'how can you'.
+- 'Alright, I agree to these strange conditions.' 'Agree to' is followed by the thing agreed. 'Conditions' is plural, as in 'terms'.
+- 'That is it, you are no longer sous-chef.' 'No more' is Russian for 'no longer'. 'Vsyo' at the start slams the door.
+- 'How can you act like this with me?' 'Postupat'' can mean both 'act' and 'treat'. 'Kak vy mozhete' is the polite 'how can you'.
 - 'March to the utility room.' 'Marsh' is the military 'march!', borrowed whole. 'V podsobku' is 'into the back room', a word for a small storeroom.

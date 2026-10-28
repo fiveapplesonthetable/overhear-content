@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Where are you going?' 'Ty kuda' is 'you where to', with no verb at all. In Russian the movement is understood.
 - 'I have to go.' Just two words, 'mne pora', 'to me time'. It's the standard way to say you must leave.
-- 'Stay with me for one more minute.' 'Ostanysya' ends in 'sya', so it's 'stay yourself'. 'Na odnu minutu' is 'for one minute', and 'na' there carries the length of time.
-- 'I cannot, I am rushing very much.' 'Speshu' is 'I hurry', and 'ochen silno' is 'very strongly'. The 'very' doesn't need a verb.
+- 'Stay with me for one more minute.' The order ends in 'sya', so it is 'stay yourself'. 'For one minute' uses 'na' to carry the length of time.
+- 'I cannot, I am rushing very much.' 'Speshu' is 'I hurry'. 'Ochen silno' is 'very strongly', which is how Russian puts 'very much'.
 - 'Do you again have many important things?' 'Del' is 'of affairs', so 'many important affairs' ends in plural 'of' forms. 'U tebya' is 'at you', which she uses for 'do you have'.
 - 'I need to stop by home, take a shower, change.' Russians 'accept' a shower, 'prinyat dush', where English says 'take'. 'Pereodetsya' is 'dress again', that is, change clothes.
-- 'Listen, are you not tired of this?' 'Tebe ne nadoelo' is 'to you has it not got boring', and it's how Russians ask 'aren't you fed up with this?'. 'Slushay' is 'listen', a chatty opener.
+- 'Listen, are you not tired of this?' Literally, 'to you has it not got boring'. It's how Russians ask 'aren't you fed up with this?'.
 - 'What exactly should have strongly tired me?' Max repeats her question back, in the roundabout way of someone playing for time. 'Dolzhno bylo' means 'was supposed to'.
 - 'Sleeping here, but taking a shower far from here.' Nastya doesn't use any 'you' or 'do'. 'Spat' and 'prinimat' are in their basic shape, as if they were nouns.
 - 'Yes, it takes a lot of my time.' 'Zanimaet' means 'occupies', so the thing takes up your time. 'Moego vremeni' is 'of my time', with an 'ego' ending.
-- 'Then why do you do this every day?' 'Zachem' is 'what for', and it's the right word for asking about purpose. 'Kazhdy den' is 'every day'.
+- 'Then why do you do this every day?' 'What for' asks about purpose, and it's the right word here. 'Every day' is two words.
 - 'Because all my things lie there.' Things 'lie', 'lezhat', in a place, as in the flat. Max gives a plain reason, which is the joke.
-- 'Maybe you should move in with me?' 'Mozhet byt' is 'can be', so 'maybe'. 'Ko mne' is 'to me', and 'pereedesh' is 'you'll move', with the same 'pere' as in 'move house'.
+- 'Maybe you should move in with me?' 'Can be' means 'maybe'. 'To me' becomes 'ko mne', and 'you'll move' has the 'pere' that also means 'move house'.

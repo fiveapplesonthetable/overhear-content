@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'ilya': 'Илья', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = 'The kitchen staff are wondering whether Max will come back to work. Ilya and Senya talk it over. Here is the scene in Russian first.'
-OPENER = "Let's go through the scene one last time, slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Everyone is sure Max will turn up. When you watch the episode, see whether the chef agrees. This was the last scene of the episode. See you next time.'
+INTRO = 'The kitchen staff are wondering whether Max will come back to work. Ilya and Senya talk it over. Hear it in Russian first.'
+OPENER = 'One last time, slowly.'
+TRANSITION = 'And the last scene of the episode, once more.'
+OUTRO = 'Everyone is sure Max will turn up. Does the chef agree? That was the last scene of the episode, so see you in the next one.'
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('ilya', 'Тебя это тоже волнует?', 'Does this worry you too?', [(372, 'Тебя это тоже воспринимает?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('senya', 'Да, просто ждём.', 'Yes, we are just waiting.', [], ''),
 ]
 WALK = [
-    (0, None, "'Does this worry you too?' 'Volnuet' means 'worries', and the person worried goes in the 'tebya' form. 'Tozhe' is 'too'."),
-    (1, None, "'What exactly?' 'Chto imenno' is two words, and Russians use it to ask for the specific thing. It's the shortest way to ask for details."),
-    (2, None, "'For example, will Max come or not?' 'Naprimer' is 'for example', one word. 'Ili net' is 'or not', and it's how Russians finish a yes-or-no question."),
-    (3, None, "'I think he will come.' 'Ya dumayu' is 'I think'. 'Pridyot' is 'will arrive', in one word with no 'will'."),
-    (4, None, "'He loves our kitchen.' 'Lyubit' is 'loves', and the thing loved takes 'nashu kukhnyu', with 'u' endings. Senya speaks about the room as if it were a person."),
+    (0, None, "'Does this worry you too?' Russian makes the worried person the object, so 'you' takes the 'tebya' form. The word for 'too' is 'tozhe'."),
+    (1, None, "'What exactly?' 'Chto imenno' is a phrase that asks for the specific thing. It's the shortest way to ask for details."),
+    (2, None, "'For example, will Max come or not?' The word 'naprimer' means 'for example'. The phrase 'or not' ends a yes-or-no question."),
+    (3, None, "'I think he will come.' 'Ya dumayu' is 'I think'. 'Pridyot' is 'will arrive' in a single word, with no separate 'will'."),
+    (4, None, "'He loves our kitchen.' The thing loved takes an 'u' ending. Senya speaks about the room as if it were a person."),
     (5, None, "'And he loves to work.' 'Lyubit rabotat' is 'loves to work', two verbs together. It is the most natural way to say you like doing something."),
     (6, None, "'And what about the chef?' 'A kak zhe' is 'and how then', a handy way to ask 'what about...?'."),
-    (7, None, "'The chef will forgive him.' 'Prostit' is 'will forgive', and 'ego' is 'him'. Senya is confident."),
+    (7, None, "'The chef will forgive him.' The word 'prostit' means 'will forgive', and 'ego' is the word for 'him'. Senya is confident."),
     (8, None, "'They will make peace.' 'Pomiryatsya' comes from 'mir', peace, with 'sya' for 'each other'. Reconciliation is something that two people do."),
     (9, None, "'Of course they will make peace.' Senya repeats the verb as his answer. Russians do it all the time, instead of a flat 'yes'."),
-    (10, None, "'Then everything will be fine.' 'Togda' is 'then', and 'vsyo budet khorosho' is the standard comfort."),
-    (11, None, "'Yes, we are just waiting.' 'Zhdyom' is 'we wait', and it means 'we are waiting'. The episode ends with waiting."),
+    (10, None, "'Then everything will be fine.' Russian says 'then everything will be well', using 'khorosho' for 'fine'. It is the standard comfort, and Senya says it with a shrug."),
+    (11, None, "'Yes, we are just waiting.' 'We wait' means 'we are waiting'. The episode ends with waiting."),
 ]

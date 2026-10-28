@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва', 'mama': 'Мама'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "It's morning in Lyova's flat, and Barinov has made breakfast for everyone. Lyova suspects it's his way of apologising. Here is the scene in Russian first."
-OPENER = "Let's go back through the breakfast table slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Nobody finishes the omelette, and they are all late. When you watch, notice how nobody mentions the apology. See you next time.'
+INTRO = "It's morning in Lyova's flat, and Barinov has made breakfast for everyone. Lyova suspects it's his way of apologising. Listen in Russian first."
+OPENER = 'Slowly, around the breakfast table.'
+TRANSITION = 'Now the breakfast scene, uncut.'
+OUTRO = 'Nobody finishes the omelette, and they are all late. Nobody mentions the apology. See you next time.'
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('barinov', 'Доброе утро, Виктор.', 'Good morning, Viktor.', [(366, 'Доброе утро. Доброе, доброе.')], ''),
@@ -32,14 +32,14 @@ STORY = [
 WALK = [
     (0, None, "'Good morning, Viktor.' 'Utro' is a neuter word, so 'dobroe', 'good', ends in 'oe'. Lyova's mother calls him by his first name, as an equal."),
     (1, None, "'Good morning.' It's the same greeting in two words. The mother says it to the room."),
-    (2, None, "'Viktor prepared such an omelet.' 'Takoy omlet' is 'such an omelette', and 'takoy' is masculine because 'omlet' is. The English word is borrowed from French and arrives in Russian."),
+    (2, None, "'Viktor prepared such an omelet.' 'Such an omelette' is masculine, because 'omlet' is. The word is borrowed from French."),
     (3, None, "'Is this a kind of apology?' 'Tipa' is slang for 'sort of', and it's the kind of word teenagers use. 'Izvineniya' is 'apologies', always plural."),
     (4, None, "'This is a kind of omelet.' Barinov copies 'tipa' back, to avoid the subject. It's a neat way to say nothing."),
-    (5, None, "'Come on, eat.' 'Esh' is the order 'eat!', for a friend. 'Davay' on the end makes it a nudge."),
-    (6, None, "'I will be late for work.' 'Opozdayu' is 'I will be late'. 'Na rabotu' is 'for work'."),
-    (7, None, "'Yes, eat faster.' 'Kushayte' is a cosy word for 'eat', and it ends in 'te' because it's polite and plural. 'Bystree' is 'faster'."),
-    (8, None, "'Alright, I will eat this.' The word for 'I will eat up' starts with 's', which means 'finish'. 'Ladno' is the shrug."),
+    (5, None, "'Come on, eat.' 'Esh'' is the order 'eat!', for a friend. 'Davay' tacked on at the end makes it a nudge."),
+    (6, None, "'I will be late for work.' 'Opozdayu' is a single word for 'I will be late'. 'Na rabotu' is the direction phrase."),
+    (7, None, "'Yes, eat faster.' 'Kushayte' is a cosy 'eat', with the 'te' that makes it polite and plural. 'Bystree' is 'faster'."),
+    (8, None, "'Alright, I will eat this.' 'I will eat up' starts with 's', which means 'finish'. 'Ladno' is the shrug."),
     (9, None, "'This is very delicious.' Without a verb, 'eto ochen vkusno'. It's high praise from a chef."),
     (10, None, "'It is time for us to go.' 'Nam pora' is 'to us time'. The mother says it to herself and the men."),
-    (11, None, "'Thank you for the breakfast.' 'Spasibo za' is 'thanks for', and what follows takes the 'for' form. 'Zavtrak' is the same word as 'breakfast'."),
+    (11, None, "'Thank you for the breakfast.' 'Thanks for' is followed by the thing thanked. 'Breakfast' is the same as in English, nearly."),
 ]

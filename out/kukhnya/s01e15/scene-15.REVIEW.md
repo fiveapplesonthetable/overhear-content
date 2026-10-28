@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, are you not sleeping?' A negative question, 'vy ne spite', is how Russians ask 'are you awake?'. 'Vy' is the polite you, and the verb ends in 'ite'.
-- 'I heard everything, Lyova.' 'Slyshal' means 'heard', and it's a man's form. 'Vsyo' is 'everything'.
-- 'Did you hear my words?' 'Slova' is the plural of 'slovo', 'word'. Lyova is nervous.
-- 'I almost had a stroke.' 'Menya khvatil udar' is literally 'a blow grabbed me', which is the Russian idiom for a stroke. 'Chut ne' is 'almost'.
+- 'Viktor Petrovich, are you not sleeping?' A negative question is how Russians ask 'are you awake?'. The polite 'you' goes with the 'ite' ending.
+- 'I heard everything, Lyova.' 'Heard' has a man's ending. 'Everything' is the all-purpose 'vsyo'.
+- 'Did you hear my words?' 'Slova' is the plural of 'slovo', word. Lyova is nervous.
+- 'I almost had a stroke.' Literally, 'a blow grabbed me', the Russian idiom for a stroke. 'Chut' ne' is 'almost'.
 - 'Your speech was very fiery.' 'Plamenny' comes from 'plamya', flame, so a fiery speech is a flamy one. 'Rech' is feminine, so the word ends in 'oy'.
-- 'I spoke from a pure heart.' 'Ot chistogo serdtsa' is 'from a pure heart', and it's a fixed phrase. English says 'from the bottom of my heart'.
-- 'This is already the second heart attack today.' 'Vtoroy' is 'second', and 'za den' is 'in a day'. The joke is that his heart is behaving worse than it ever did.
-- 'So, you are not angry at me?' 'Zlitsya na' is 'to be angry at', and it takes 'na', 'on'. 'Znachit' at the start means 'so'.
+- 'I spoke from a pure heart.' It's a fixed phrase. English says 'from the bottom of my heart'.
+- 'This is already the second heart attack today.' 'Second' is the usual number word. 'In a day' covers 'today'. His heart is behaving worse than it ever did.
+- 'So, you are not angry at me?' 'To be angry at' wants 'on', so Russians say 'angry on me'. 'So' opens the line.
 - 'No, I am not angry at you.' Barinov repeats the question as an answer. The same 'na' comes before 'tebya'.
 - 'Will you stay to live with us?' 'Ostanetes zhit' is 'will you stay to live', two verbs together. 'U nas' is 'at our place'.
-- 'Yes, I will stay here.' 'Ostanus'' is 'I will stay', and it has the 'sya' of 'stay yourself'. Barinov agrees in four words.
-- 'I am very glad to hear this.' 'Rad' is 'glad', in the man's form. 'Slyshat' is 'to hear', and it follows directly.
+- 'Yes, I will stay here.' 'Ostanus'' has the 'sya' of 'stay yourself'. Barinov agrees in four words.
+- 'I am very glad to hear this.' 'Glad' has a man's form. 'To hear' follows it directly.
 - 'And now let me sleep.' 'Day pospat' is again 'give me to sleep'. The 'po' keeps the sleep short and sweet.

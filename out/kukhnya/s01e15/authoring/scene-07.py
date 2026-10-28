@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Barinov is on his way out when he spots Lyova eating pancakes, and he has a favour to ask. It is not really a favour, and it doesn't end well for Lyova. Here is the scene in Russian first."
-OPENER = "Let's go back through the deal, slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Lyova agrees to the strange terms, and he loses his job title. When you watch, notice who gets what. Speak soon.'
+INTRO = "Barinov is on his way out when he spots Lyova eating pancakes, and he has a favour to ask. It is not really a favour, and it doesn't end well for Lyova. Listen to it in Russian first."
+OPENER = 'The deal, slowly.'
+TRANSITION = 'Now the deal from start to finish.'
+OUTRO = 'Lyova agrees to the strange terms, and he loses his job title. Who gets what? Speak soon.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Лёва, не увлекайся блинами.', 'Lyova, do not get carried away with pancakes.', [(39, 'Лёва, Лёва, Лёва, не увлекайся блинами.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Марш в подсобку.', 'March to the utility room.', [], ''),
 ]
 WALK = [
-    (0, None, "'Lyova, do not get carried away with pancakes.' 'Uvlekaysya' ends in 'sya', so it's 'carry yourself away'. 'Blinami' ends in 'ami', which is how you say 'with' for many pancakes."),
+    (0, None, "'Lyova, do not get carried away with pancakes.' The order ends in 'sya', so it is 'carry yourself away'. 'With pancakes' ends in 'ami', the ending for 'with' and plural."),
     (1, None, "'And what is bad about these tasty pancakes?' 'Chto plokhogo' is 'what of bad', a handy phrase meaning 'what's wrong with'. 'V etikh' is 'in these'."),
     (2, None, "'Remember your last test.' Russians say 'remember about' something, so the little word 'pro', 'about', sits in the middle. A medical test is 'analiz', a word that looks just like its English cousin."),
     (3, None, "'My cholesterol level was almost in range.' 'V norme' is 'in the norm', which Russians use for 'normal range'. 'Kholesterina' ends in 'a' to say 'of'."),
-    (4, None, "'Go to the dry cleaners and take my suit.' 'Khimchistka' is short for 'chemical cleaning', which is how Russians say 'dry cleaner'. 'Zaydi' means 'pop in'."),
-    (5, None, "'I do not have time. That is the other way.' 'Ne uspevayu' means 'I'm not managing to be in time'. 'V druguyu storonu' is 'to another side', which is how you say 'the other way'."),
+    (4, None, "'Go to the dry cleaners and take my suit.' 'Khimchistka' is short for 'chemical cleaning', which is what Russians call a dry cleaner. 'Zaydi' is the order to pop in."),
+    (5, None, "'I do not have time. That is the other way.' Literally, 'I'm not managing to be in time'. 'To another side' means 'the other way'."),
     (6, None, "'Lyova, come on, favor for a favor.' 'Usluga za uslugu' means 'service for service'. Russians say it for a swap, and it has no verb."),
-    (7, None, "'What useful favor can there be from you?' 'Ot vas' means 'from you', and the polite 'vas' is the clue that Lyova is being careful. 'Poleznaya' is 'useful', from 'polza'."),
+    (7, None, "'What useful favor can there be from you?' 'Ot vas' is the polite 'from you', and it tells you Lyova is being careful. 'Poleznaya' grows from 'polza', benefit."),
     (8, None, "'You get me the suit, and I allow you to be late.' The first half has no verb, 'you to me suit'. Barinov doesn't say 'bring' because both of them know what he means."),
-    (9, None, "'Alright, I agree to these strange conditions.' 'Soglasen na' means 'agree to'. 'Usloviya' is 'conditions', and it's a plural word, as in 'terms'."),
-    (10, None, "'That is it, you are no longer sous-chef.' 'Bolshe ne' is 'no more', so 'no longer'. 'Vsyo' at the start slams the door."),
-    (11, None, "'How can you act like this with me?' 'Postupat' means 'to act' or 'to treat', and 'so mnoy' is 'with me'. 'Kak vy mozhete' is the polite 'how can you'."),
+    (9, None, "'Alright, I agree to these strange conditions.' 'Agree to' is followed by the thing agreed. 'Conditions' is plural, as in 'terms'."),
+    (10, None, "'That is it, you are no longer sous-chef.' 'No more' is Russian for 'no longer'. 'Vsyo' at the start slams the door."),
+    (11, None, "'How can you act like this with me?' 'Postupat'' can mean both 'act' and 'treat'. 'Kak vy mozhete' is the polite 'how can you'."),
     (12, None, "'March to the utility room.' 'Marsh' is the military 'march!', borrowed whole. 'V podsobku' is 'into the back room', a word for a small storeroom."),
 ]

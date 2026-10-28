@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'lyova': 'Лёва', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = 'Lyova has thrown Barinov out, and now he feels terrible about it. Max finds him in the kitchen and gives him some advice. Here is their talk in Russian first.'
-OPENER = "Let's go through it again, slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max leaves to find someone close to him, and Lyova is left to think. When you watch, notice who says the last word. Speak soon.'
+INTRO = 'Lyova has thrown Barinov out, and now he feels terrible about it. Max finds him in the kitchen and gives him some advice. Their talk comes first, in Russian.'
+OPENER = 'Again, slowly.'
+TRANSITION = 'Now the talk in one piece.'
+OUTRO = 'Max leaves to find someone close to him, and Lyova is left to think. Who says the last word? Speak soon.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('lyova', 'Какой я подлый человек.', 'What a lowlife I am.', [(297, 'подлый человек, а.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Мне пора идти к близкому человеку.', 'It is time for me to go to a close person.', [], ''),
 ]
 WALK = [
-    (0, None, "'What a lowlife I am.' 'Podly' is 'base', and Russians use it for people who behave meanly. The sentence has 'what a' at the front and no 'am'."),
+    (0, None, "'What a lowlife I am.' 'Base' is what Russians call someone who behaves meanly. There's a 'what a' at the front and no 'am'."),
     (1, None, "'Lyova, stop putting yourself down.' 'Nagovarivat na sebya' is 'to talk onto oneself', meaning 'to run oneself down'. 'Perestan' is 'stop'."),
-    (2, None, "'I kicked a person out of the home.' 'Vygnal' is 'drove out', and the 'vy' at the front means 'out'. 'Iz doma' is 'from the house', and the house takes an 'a'."),
-    (3, None, "'After all, the boss himself is guilty.' 'V kontse kontsov' is literally 'in the end of ends', and it means 'after all'. 'Sam' is 'himself'."),
-    (4, None, "'He is guilty, but I feel bad.' 'Mne ploho' is 'to me bad', which is how Russians say 'I feel bad'. 'A' at the start is a 'but' that contrasts."),
-    (5, None, "'Why does the boss even live with you?' 'U tebya' is 'at you', and it means 'at your place'. 'Voobshche' is 'in general', like 'even'."),
+    (2, None, "'I kicked a person out of the home.' 'Drove out' has a 'vy' for 'out'. 'From the house' puts an 'a' on the house."),
+    (3, None, "'After all, the boss himself is guilty.' Literally, 'in the end of ends', which means 'after all'. 'Himself' points the finger."),
+    (4, None, "'He is guilty, but I feel bad.' 'Mne ploho' is literally 'to me bad', which is Russian for 'I feel bad'. The 'a' at the start is a 'but' that contrasts."),
+    (5, None, "'Why does the boss even live with you?' 'At you' means 'at your place'. 'In general' stands for 'even'."),
     (6, None, "'He left his family.' 'Ushyol' means 'went away', the man's past. Lyova uses 'iz semi' for 'from the family'."),
     (7, None, "'He left the apartment to them.' 'Im' means 'to them', and 'kvartiru' takes a 'u' because it is what was left. 'Ostavil' is 'left behind'."),
-    (8, None, "'Do you feel sorry for him?' 'Tebe ego zhalko' is 'to you him pity', which is how Russians ask about sympathy. The feeling happens to the person."),
-    (9, None, "'He can be an unbearable person.' 'Byvaet' is 'happens to be', for a tendency. 'Nevynosimym' is 'un-bearable', and it's built from the word for carrying."),
+    (8, None, "'Do you feel sorry for him?' Literally, 'to you him pity', and that is how Russians ask about sympathy. The feeling happens to the person."),
+    (9, None, "'He can be an unbearable person.' 'Byvaet' is 'happens to be', for a tendency. 'Nevynosimym' is built from 'carry', so it's 'un-bearable'."),
     (10, None, "'But I have no one else.' 'U menya nikogo net' is 'at me nobody not'. 'Nikogo' is the 'no one' in the form it takes after 'net'."),
-    (11, None, "'Close people should not be scattered.' 'Razbrasyvatsya' means 'to throw around', and the 'sya' makes it 'throw yourself around'. 'Ne stoit' is 'it's not worth'."),
-    (12, None, "'In the end, one can stay alone.' 'V itoge' is 'in the sum', one of the useful phrases for concluding. 'Odnomu' is 'to alone', and it takes the 'u' form after 'stay'."),
-    (13, None, "'It is time for me to go to a close person.' 'Mne pora' is 'to me time'. 'K blizkomu cheloveku' is 'to a close person', in the 'towards' form with 'k'."),
+    (11, None, "'Close people should not be scattered.' The 'sya' makes it 'throw yourself around'. 'It's not worth' is the phrase for 'shouldn't'."),
+    (12, None, "'In the end, one can stay alone.' 'In the sum' is a useful phrase for concluding. 'Alone' takes a 'u' form after 'stay'."),
+    (13, None, "'It is time for me to go to a close person.' 'To me time' stands for 'it's time for me'. 'To a close person' uses 'k' for 'towards'."),
 ]

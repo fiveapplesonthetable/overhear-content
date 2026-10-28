@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well? Did you talk to Kostya?' 'Pogovoril s' is 'had a talk with', and the person goes into the 'with' form, so 'Kostya' becomes 'Kostey'. Vika sounds brisk.
-- 'Yes, he begs me not to move.' 'Umolyaet' is 'begs', and it's a strong word. The 'not to move' keeps the repeated-action form, because he begs him not to do it at all.
+- 'Well? Did you talk to Kostya?' The person you talk with goes into the 'with' form in Russian, so 'Kostya' becomes 'Kostey'. Vika sounds brisk.
+- 'Yes, he begs me not to move.' 'Begs' is a strong word. 'Not to move' keeps the repeated-action form, because he begs him not to do it at all.
 - 'Why does he strongly not want this?' After 'ne khochet', 'this' changes to 'etogo'. Russian puts the object after a 'not want' in that shape.
-- 'He has a problem with money now.' 'U nego' is 'at him', so 'he has'. 'S dengami' is 'with money', and 'dengi' is only ever plural in Russian.
-- 'But you still decided and moved out.' 'Reshilsya' ends in 'sya', so it's 'made up your mind'. 'Vsyo-taki' means 'all the same', and 'syekhal' means 'rode off', that is, moved out.
+- 'He has a problem with money now.' 'At him' stands for 'he has'. Money is only ever plural in Russian.
+- 'But you still decided and moved out.' 'Reshilsya' has a 'sya', so it's 'made up your own mind'. 'Syekhal' is 'rode off', Russian for 'moved out'.
 - 'Yes so fast that I forgot the wallet.' 'Tak bystro, chto' is 'so fast that', the pattern for results. 'Bumazhnik' is a wallet, built on 'bumaga', paper.
 - 'And where do you live?' 'Gde ty zhivyosh' is 'where you live', with no helper word. 'I' at the start means 'and'.
-- 'Nowhere for now.' 'Nigde' is a single word for 'nowhere'. With 'poka', 'for now', it makes a neat answer.
-- 'So better nowhere than with me?' 'To est' means 'that is', like 'i.e.'. 'Chem' is 'than', and it's the word that links the two choices.
-- 'Well alright, let me come to you.' 'Davay priedu' is 'let's say I'll come', and it's the usual way to offer. 'K tebe' is 'to your place'.
-- 'No, you do not need to do me a favor.' 'Odolzhenie' is a favour that one person does another, usually reluctantly. 'Mne ne nado' is 'to me not needed'.
-- 'So you will not come?' 'Ne priedesh' is 'won't arrive by vehicle'. The same 'to est' opens the line, like a summing up.
-- 'You understand, it is important that we want.' 'Poymi' is the order 'understand!', and it's softer than 'listen'. 'Vazhno, chtoby' is 'important that', and 'chtoby' brings the past form.
+- 'Nowhere for now.' 'Nigde' is 'nowhere', and 'poka' is 'for now'. Together they make a neat answer.
+- 'So better nowhere than with me?' The Russian for 'that is', like 'i.e.', opens the line, and the little word 'than' links the two choices. Vika is hurt.
+- 'Well alright, let me come to you.' 'Davay priedu' is 'let's say I'll come', the usual offer. 'K tebe' is 'to your place'.
+- 'No, you do not need to do me a favor.' The word for a favour is something one person does for another, usually reluctantly. 'To me not needed' is the Russian for 'I don't need'.
+- 'So you will not come?' The words for 'will not arrive by vehicle' make up the whole question. The same 'that is' opens the line, like a summing up.
+- 'You understand, it is important that we want.' The order 'understand!' is a softer word than 'listen'. After 'important that', the next action goes in the past form.
