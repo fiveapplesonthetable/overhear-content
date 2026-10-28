@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e06-scene-14"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e06-scene-14'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 6
 SCENE = 14
-TITLE = 'Нагиев решает сделать предложение  (Nagiyev Decides to Propose)'
+TITLE = "Нагиев решает сделать предложение  (Nagiyev Decides to Propose)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.06"
-SOURCE_FILE = "sources/kukhnya/s02/e06.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.06'
+SOURCE_FILE = 'sources/kukhnya/s02/e06.ru.srt'
 
 INTRO = 'Continuing his flashback, Chef Barinov recalls how Nagiyev invited Kristina to a romantic dinner that very evening and asked Vika to have another hostess cover her shift. Pulling out a velvet box in the office, Nagiyev announces to Barinov and Vika that he intends to propose to Kristina tonight.'
 
 STORY = [
-    ('anya', 'Что, поужинаем сегодня?', 'How about we have dinner tonight?', [(224, 'что, поужинаем сегодня')], ''),
-    ('vika', 'Ну, я вообще-то на работе.', 'Well, I am actually on shift at work.', [(225, 'Ну, я вообще-то на работе')], ''),
+    ('chef', 'Что, поужинаем сегодня?', 'How about we have dinner tonight?', [(224, 'что, поужинаем сегодня')], ''),
+    ('nagiyev', 'Ну, я вообще-то на работе.', 'Well, I am actually on shift at work.', [(225, 'Ну, я вообще-то на работе')], ''),
     ('nagiyev', 'Я договорюсь.', 'I will arrange it.', [(226, 'Я договорюсь')], ''),
-    ('anya', 'И на вечер замените Кристину.', 'And have someone cover for Kristina this evening.', [(229, 'И на вечер замените Кристину')], ''),
-    ('vika', 'Но мне это очень важно.', 'Because this is very important to me.', [(231, 'Но мне это очень важно')], ''),
+    ('chef', 'И на вечер замените Кристину.', 'And have someone cover for Kristina this evening.', [(229, 'И на вечер замените Кристину')], ''),
+    ('nagiyev', 'Но мне это очень важно.', 'Because this is very important to me.', [(231, 'Но мне это очень важно')], ''),
     ('nagiyev', 'Я сегодня, не важно почему.', 'Tonight, never mind why.', [(232, 'Я сегодня, не важно почему')], ''),
-    ('anya', 'Хочу сделать ей предложение.', 'I want to propose marriage to her.', [(233, 'хочу сделать ей предложение')], ''),
-    ('vika', 'Вы же Кристину знаете?', 'You know Kristina, right?', [(237, 'Вы же Кристину знаете')], ''),
+    ('chef', 'Хочу сделать ей предложение.', 'I want to propose marriage to her.', [(233, 'хочу сделать ей предложение')], ''),
+    ('nagiyev', 'Вы же Кристину знаете?', 'You know Kristina, right?', [(237, 'Вы же Кристину знаете')], ''),
     ('nagiyev', 'Она романтическая натура.', 'She has a romantic nature.', [(238, 'Она романтическая натура')], ''),
-    ('anya', 'Дима, ты покажи ей ценник от кольца.', 'Dima, just show her the price tag on the ring.', [(239, 'Дима, ты покажи ей ценник от кольца')], ''),
-    ('vika', 'Это будет романтичнее всего.', 'That will be the most romantic thing of all.', [(240, 'Это будет романтичнее всего')], ''),
+    ('chef', 'Дима, ты покажи ей ценник от кольца.', 'Dima, just show her the price tag on the ring.', [(239, 'Дима, ты покажи ей ценник от кольца')], ''),
+    ('nagiyev', 'Это будет романтичнее всего.', 'That will be the most romantic thing of all.', [(240, 'Это будет романтичнее всего')], ''),
     ('nagiyev', 'Нет, Витя, нет.', 'No, Vitya, no.', [(241, 'Нет, Витя, нет')], ''),
-    ('anya', 'Я не хочу больше покупать женщин.', 'I do not want to buy women anymore.', [(242, 'Я не хочу больше покупать женщин')], ''),
+    ('chef', 'Я не хочу больше покупать женщин.', 'I do not want to buy women anymore.', [(242, 'Я не хочу больше покупать женщин')], ''),
 ]
 
 OPENER = "Let's walk back through the scene line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 14 of Episode 6, listen out for the exchange around nagiyev decides to propose — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('nagiyev', 'Нет, Витя, нет.')
+OUTRO = 'That wraps up this scene as continuing the flashback, Nagiyev confides in Chef Barinov and Vika that he wants to propose marriage to Kristina that evening with an expensive diamond ring. See you next time!'
+CLOSING = ("nagiyev", "Всего хорошего!")

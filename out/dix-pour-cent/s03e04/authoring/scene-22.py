@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 4
 SCENE = 22
 TITLE = "Le talent de Samy  (Samy's Talent)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "herve": "marcel"}
-LABELS = {"camille": "Camille", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "At the ASK agency, Camille and Herve review a homemade video sent by the aspiring actor Samy. Herve is completely unimpressed by his eccentric performance, but Camille passionately defends the young actor. Let's listen to their discussion in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Camille's determination wins out over Herve's skepticism, securing Samy a spot with Camille Valentini. When you watch the episode, listen out for the expressions meaning 'instinct' and 'level'. You'll catch them now. See you next time."
-CLOSING = ("camille", "Bonne journée!")
+OUTRO = "Camille's determination wins out over Herve's skepticism, securing Samy a spot with Camille Valentini. When you watch the episode, listen out for the expressions meaning 'instinct' and 'level'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'Bonne journée!')
 STORY = [
     ('herve', 'Ton instinct est à quel niveau?', 'What level is your instinct at?', [(1187, 'ton instinct')], ''),
     ('camille', 'Il a fait ça tout seul.', 'He did that all by himself.', [(1190, 'il a fait ça tout seul')], ''),

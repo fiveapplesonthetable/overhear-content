@@ -1,20 +1,20 @@
 ID = 'kukhnya-s03e06-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 6
 SCENE = 11
-TITLE = 'Спор о спецобслуживании  (Fight Over Private Service)'
+TITLE = "Спор о спецобслуживании  (Fight Over Private Service)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'kristina': 'angelina'}
-LABELS = {'anya': 'Шеф', 'nagiyev': 'Нагиев', 'kristina': 'Кристина'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kristina": "anja", "nagiyev": "angelina"}
+LABELS = {"kristina": "Кристина", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.06'
 SOURCE_FILE = 'sources/kukhnya/s03/e06.ru.srt'
 
 INTRO = 'When Chef Barinov pretends to be too busy to come out, both Nagiyev and Kristina march into the kitchen and demand to close the restaurant tomorrow. Listen to the full conversation in Russian first, and then we will walk through every line together.'
 
 STORY = [
-    ('anya', 'Скажи им, что я очень занят.', 'Tell them that I am very busy.', [(174, 'Скажи, что я занят')], 'adapted'),
+    ('kristina', 'Скажи им, что я очень занят.', 'Tell them that I am very busy.', [(174, 'Скажи, что я занят')], 'adapted'),
     ('nagiyev', 'Витя, ну что это такое?', 'Vitya, well what is this?', [(176, 'Витя, ну что такое')], 'adapted'),
     ('nagiyev', 'Я должен часами ждать тебя там?', 'Am I supposed to wait for you there for hours?', [(177, 'сидеть тебя часами ждать там')], 'adapted'),
     ('kristina', 'Хватит, не ори на моего шефа.', 'Enough, do not yell at my chef.', [(179, 'Не ори на моего шефа')], 'adapted'),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With both co-owners shouting in his kitchen, Chef Barinov steps in with a risky plan to satisfy both of them.'
-CLOSING = ('anya', 'Всё, хватит вам спорить!')
+OUTRO = 'With both co-owners shouting in his kitchen, Chef Barinov steps in with a risky plan to satisfy both of them. Until next time!'
+CLOSING = ("kristina", "Всего хорошего!")

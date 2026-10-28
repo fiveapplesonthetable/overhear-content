@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e01-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 3
-TITLE = 'Штраф за разговор  (A Fine for Talking)'
+TITLE = "Штраф за разговор  (A Fine for Talking)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'nastya': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
+LABELS = {"vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = 'In the dining room near the bar, art director Vika Goncharova hands Max a hefty fine for his mistake, and when he tries to ask her out after work, she raises the penalty even higher.'
@@ -23,7 +23,7 @@ STORY = [
     ('vika', 'Понятно?', 'Understood?', [(41, 'Понятно')], ''),
     ('anya', 'Понятно. Но после смены сходим?', 'Understood. But shall we go after the shift?', [(41, 'Понятно'), (38, 'после смены')], 'adapted'),
     ('vika', 'Штраф пять тысяч.', 'A fine of five thousand.', [(43, 'Штраф пять тысяч')], ''),
-    ('nastya', 'Кажется, пинается.', 'I think it is kicking.', [(44, 'Кажется, пинается')], ''),
+    ('vika', 'Кажется, пинается.', 'I think it is kicking.', [(44, 'Кажется, пинается')], ''),
     ('anya', 'У него сейчас рост восемь сантиметров.', 'He is only eight centimeters tall right now.', [(45, 'У него сейчас рост восемь сантиметров')], ''),
     ('anya', 'Как он может пинаться?', 'How can he be kicking?', [(46, 'он может пинаться')], 'adapted'),
 ]
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that ends our scene by the bar. Listen out for Vika doubling Max's fine when he refuses to drop the subject of a cafe date."
-CLOSING = ('vika', 'Штраф пять тысяч!')
+OUTRO = "And that ends our scene by the bar. Listen out for Vika doubling Max's fine when he refuses to drop the subject of a cafe date. Until next time!"
+CLOSING = ("vika", "Хорошего дня!")

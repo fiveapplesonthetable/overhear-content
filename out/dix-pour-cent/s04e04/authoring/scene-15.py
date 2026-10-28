@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 15
-TITLE = "Un toast déplacé  (An Inappropriate Toast)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un toast déplacé  (An Inappropriate Toast)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "At the agency, Mathias hosts a party to celebrate acquiring the book rights to a novel about disabled animals. Noemie is appalled when Mathias begins to mock the author and her cause in front of the whole room. Let's listen to their tense exchange in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Disgusted by Mathias's cruelty and broken promises, Noemie storms out of the party in tears. When you watch the episode, listen out for the expressions meaning 'is happening' and 'are celebrating'. You'll catch them now. See you next time."
-CLOSING = ("noemie", "Bonne soirée!")
+OUTRO = "Disgusted by Mathias's cruelty and broken promises, Noemie storms out of the party in tears. When you watch the episode, listen out for the expressions meaning 'is happening' and 'are celebrating'. You'll catch them now. See you next time!"
+CLOSING = ('noemie', 'Bonne soirée!')
 STORY = [
     ('noemie', "Qu'est-ce qui se passe ici?", 'What is going on here?', [(954, "Qu'est-ce qui se passe")], ''),
     ('mathias', 'On fête ça! Bois un verre!', 'We are celebrating! Have a drink!', [(955, 'On fête ça'), (956, 'Tu veux boire quelque chose')], ''),

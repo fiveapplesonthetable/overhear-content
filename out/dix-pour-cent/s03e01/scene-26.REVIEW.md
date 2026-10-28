@@ -28,5 +28,5 @@
 | 14 | `lea` (Andréa) | Justement, c'est parfait. | Exactly, that is perfect. | 1033:Justement |
 
 ## Part 5 — Outro & Closing
-> Jean Dujardin is finally ready to return to Paris, borrowing a film and asking Andrea to curate a movie list for him. When you watch the episode, listen out for the expressions meaning 'come on' and 'time'. You'll catch them now. See you next time.
+> Jean Dujardin is finally ready to return to Paris, borrowing a film and asking Andrea to curate a movie list for him. When you watch the episode, listen out for the expressions meaning 'come on' and 'time'. You'll catch them now. See you next time!
 - **Closing**: `jean`: *À bientôt!*

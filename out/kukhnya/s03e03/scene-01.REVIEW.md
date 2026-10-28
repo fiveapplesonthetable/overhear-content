@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What do you mean, no big deal?' In Russian, the idea of 'how' flows naturally into 'terrible' without extra filler words.
 - 'Now you and I will definitely quarrel.' In Russian, the idea of 'we' flows naturally into 'will quarrel' without extra filler words. the guest answers right away.
 - 'Miss, I have no intention of quarreling with you.' Here the Russian phrasing highlights 'miss' before landing on 'to quarrel'.
-- 'Where are you looking? First salt, then wine!' In Russian, the idea of 'you' flows naturally into 'wine' without extra filler words.
+- 'Where are you looking? First salt, then wine!' the guest pairs 'where to' with 'wine' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Call the manager!' Notice how Russian expresses 'call' and 'manager' with crisp inflection rather than helper words. Nastya answers right away.
 - 'I told you we would quarrel.' In Russian, the idea of 'I' flows naturally into 'will quarrel' without extra filler words.
 - 'Thank you. Goodbye. We look forward to seeing you again.' The meaning hinges on 'thank you' working together with 'again' in spoken Russian.

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 26
-TITLE = "Si on se barrait ?  (What If We Left?)"
-LEVEL = "A1 — débutant"
+TITLE = 'Si on se barrait ?  (What If We Left?)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "Back at the ASK offices late at night, Andrea reaches her breaking point under Hicham's oppressive management style. She corners Gabriel with an audacious, life-altering proposal. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this intense late-night agency conspiracy step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Driven to despair by Hicham's authoritarian behavior, Andrea reveals her revolutionary plan to quit ASK and build an agency of their own with Gabriel. When you watch the episode, listen out for the expressions meaning 'smothers' and 'oppresses'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Driven to despair by Hicham's authoritarian behavior, Andrea reveals her revolutionary plan to quit ASK and build an agency of their own with Gabriel. When you watch the episode, listen out for the expressions meaning 'smothers' and 'oppresses'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', "C'est Hicham, je n'en peux plus.", 'It is Hicham, I cannot take it anymore.', [(1150, "C'est Hicham"), (1151, "J'en peux plus")], ''),
     ('lea', "Moi, il m'étouffe complètement.", 'He is completely suffocating me.', [(1153, "Moi, il m'étouffe")], ''),

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Федя, заходил сегодня в холодильник? | Fedya, did you go into the walk-in cooler today? | #166 00:12:26: Федя<br>#168 00:12:33: Заходил сегодня в холодильник | adapted: adapted |
-| 2 | Аня | Сужаю круг подозреваемых. | I am narrowing the circle of suspects. | #169 00:12:36: сужаю круг подозреваемых | adapted: adapted |
+| 1 | Сеня | Федя, заходил сегодня в холодильник? | Fedya, did you go into the walk-in cooler today? | #166 00:12:26: Федя<br>#168 00:12:33: Заходил сегодня в холодильник | adapted: adapted |
+| 2 | Сеня | Сужаю круг подозреваемых. | I am narrowing the circle of suspects. | #169 00:12:36: сужаю круг подозреваемых | adapted: adapted |
 | 3 | Федя | Заходил, но я камбалу брал, а севрюгу нет. | I went in, but I took flounder, not stellate sturgeon. | #171 00:12:41: Заходил. Но я камбалу брал, а севрюгу нет | adapted: adapted |
-| 4 | Аня | Свидетели есть? | Are there witnesses? | #172 00:12:45: Свидетели есть | adapted: adapted |
-| 5 | Аня | За дачу ложных показаний будешь привлечён к ответственности. | For giving false testimony you will be held liable. | #173 00:12:48: за дачу ложных показаний<br>#174 00:12:51: к ответственности | adapted: adapted |
-| 6 | Аня | Ну всё, значит, первый подозреваемый есть. | Alright then, we have our first suspect. | #176 00:12:55: Ну всё, значит, первый подозреваемый есть | adapted: adapted |
+| 4 | Сеня | Свидетели есть? | Are there witnesses? | #172 00:12:45: Свидетели есть | adapted: adapted |
+| 5 | Сеня | За дачу ложных показаний будешь привлечён к ответственности. | For giving false testimony you will be held liable. | #173 00:12:48: за дачу ложных показаний<br>#174 00:12:51: к ответственности | adapted: adapted |
+| 6 | Сеня | Ну всё, значит, первый подозреваемый есть. | Alright then, we have our first suspect. | #176 00:12:55: Ну всё, значит, первый подозреваемый есть | adapted: adapted |
 | 7 | Федя | Наоборот, она умная. | On the contrary, she is smart. | #179 00:13:04: Наоборот, умная | adapted: adapted |
 | 8 | Федя | Разводится со мной и выходит замуж за другого. | She is divorcing me and marrying someone else. | #180 00:13:07: Разводится со мной<br>#180 00:13:07: и выходит замуж за | adapted: adapted |
-| 9 | Катя | Я не беременна. | I am not pregnant. | #181 00:13:14: Я не беременна | adapted: adapted |
-| 10 | Катя | Макс, если хочешь, можешь жениться на мне. | Max, if you want, you can marry me. | #183 00:13:21: Макс, если хочешь, можешь жениться на мне | adapted: adapted |
+| 9 | Сеня | Я не беременна. | I am not pregnant. | #181 00:13:14: Я не беременна | adapted: adapted |
+| 10 | Сеня | Макс, если хочешь, можешь жениться на мне. | Max, if you want, you can marry me. | #183 00:13:21: Макс, если хочешь, можешь жениться на мне | adapted: adapted |
 | 11 | Федя | Легко. | Easily. | #184 00:13:27: Легко | adapted: adapted |
-| 12 | Катя | Поцелуемся? | Shall we kiss? | #185 00:13:30: Поцелуемся | adapted: adapted |
+| 12 | Сеня | Поцелуемся? | Shall we kiss? | #185 00:13:30: Поцелуемся | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

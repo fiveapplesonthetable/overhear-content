@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 26
-TITLE = "Une offre sérieuse  (A Serious Offer)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une offre sérieuse  (A Serious Offer)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "uba": "emilie", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"uba": "Directrice UBA", "lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'uba': 'emilie', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'uba': 'Directrice UBA', 'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At the villa reception, Andréa learns that director Gillières accepted Juliette Binoche's decision gracefully. Soon after, an American executive from agency UBA approaches Andréa with an unexpected career proposition. Let's listen to the scene in French first."
 OPENER = "Let's examine how the American executive tests Andréa's career ambitions and agency loyalty step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "The tempting offer from New York plants an intriguing seed in Andréa's mind amidst agency turmoil. Let's review the corporate recruitment and international business vocabulary from this scene. See you next time!"
-CLOSING = ("uba", "Bonne journée!")
+CLOSING = ('uba', 'Bonne journée!')
 STORY = [
     ('hicham', "J'ai reçu un message très positif de Gillières.", 'I received a very positive message from Gillières.', [(739, "J'ai reçu un message de Jean-Denis Gillières.")], ''),
     ('hicham', 'Il comprend parfaitement la situation de Juliette.', 'He perfectly understands Juliette', [(742, "Et il comprend parfaitement l'indisponibilité de Juliette.")], ''),

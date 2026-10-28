@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e07-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 12
 TITLE = "План Макса и таблетка для Шефа  (Max's Plan and a Pill for the Chef)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"kostya": "Костя", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = "At the apartment, Max hands Kostya the keys to ditch Nagiyev's car and asks him to watch Vika. Meanwhile at the restaurant, Katya gives her queasy father a stomach pill."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'While Kostya comforts Vika on the couch, Max returns to the apartment—and Nagiyev tracks the car by satellite.'
-CLOSING = ('kostya', 'Не переживайте, всё будет хорошо.')
+OUTRO = 'While Kostya comforts Vika on the couch, Max returns to the apartment—and Nagiyev tracks the car by satellite. See you next time!'
+CLOSING = ("kostya", "Пока!")

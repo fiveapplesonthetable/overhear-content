@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 30
-TITLE = "Cécile dit oui  (Cécile Says Yes)"
-LEVEL = "A1 — débutant"
+TITLE = 'Cécile dit oui  (Cécile Says Yes)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "cecile": "emilie"}
-LABELS = {"mathias": "Mathias", "cecile": "Cécile"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'cecile': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'cecile': 'Cécile'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Cécile said no, and then said she didn't know anymore. Now Mathias catches her on her way out and takes her into his office, because he has one more argument up his sleeve. Here's the story in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's go back through it. Mathias spots Cécile in the corridor and greets her in a friendly, easy way, the way old friends do."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the end of this scene, and you followed a real grown-up negotiation in French. Next time you watch it, listen for the little 'not' that wraps around the verb, and you'll hear it everywhere. Until next time."
-CLOSING = ("cecile", "Au revoir, Mathias!")
+OUTRO = "That's the end of this scene, and you followed a real grown-up negotiation in French. See you next time!"
+CLOSING = ('cecile', 'Au revoir, Mathias!')
 STORY = [
     ('mathias', 'Cécile! Ça va? On peut parler?', 'Cécile! Are you okay? Can we talk?', [(774, 'Cécile'), (775, 'Ça va ? On peut parler')], ''),
     ('mathias', 'Viens dans mon bureau.', 'Come into my office.', [(776, 'dans mon bureau')], ''),

@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 19
 TITLE = "J'ai la haine  (I'm So Angry)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gerard": "theo", "samy": "marcel"}
-LABELS = {"gerard": "Gérard", "samy": "Samy"}
+VOICES = {'narrator': 'sky', 'gerard': 'theo', 'samy': 'marcel'}
+LABELS = {'gerard': 'Gérard', 'samy': 'Samy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "Outside on the Parisian pavement, young waiter Samy catches up with veteran actor Gerard Lanvin in deep despair. Convinced that he completely botched his screen audition, Samy tearfully apologizes for wasting the incredible opportunity Gerard gave him. Let's listen to their conversation in French first."
 OPENER = "Let's see how Gerard listens to Samy's anguish on the street."
 TRANSITION = "Now let's listen to Samy and Gerard again at natural speed."
-OUTRO = "Touched by Samy's genuine passion and humility, Gerard pauses to offer wise counsel rather than walking away. When you watch the episode, listen out for the expressions meaning 'wait for me' and 'street'. You'll catch them now. See you next time."
-CLOSING = ("gerard", "À bientôt!")
+OUTRO = "Touched by Samy's genuine passion and humility, Gerard pauses to offer wise counsel rather than walking away. When you watch the episode, listen out for the expressions meaning 'wait for me' and 'street'. You'll catch them now. See you next time!"
+CLOSING = ('gerard', 'À bientôt!')
 STORY = [
     ('samy', 'Gérard, attendez-moi dans la rue!', 'Gerard, wait for me in the street!', [(1190, 'Gérard !')], ''),
     ('gerard', 'Pourquoi tu cours comme ça, Samy?', 'Why are you running like that, Samy?', [(1193, 'La haine de quoi ?')], ''),

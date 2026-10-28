@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e05-scene-15"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e05-scene-15'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 5
 SCENE = 15
-TITLE = 'Саша навещает Макса в палате  (Sasha Visits Max in the Ward)'
+TITLE = "Саша навещает Макса в палате  (Sasha Visits Max in the Ward)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'sasha': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Макс', 'sasha': 'Саша', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.05"
-SOURCE_FILE = "sources/kukhnya/s02/e05.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "lyova": "angelina", "sasha": "anja"}
+LABELS = {"anya": "Макс", "lyova": "Лёва", "sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.05'
+SOURCE_FILE = 'sources/kukhnya/s02/e05.ru.srt'
 
 INTRO = 'In the kitchen, Lyova lectures Chef Barinov that true sports fans never resort to dirty tricks like poisoning players, finally making the Chef feel ashamed. Over at the hospital, Max is resting in his ward when Sasha unexpectedly walks in, explaining that Kostya told her where to find him.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 15 of Episode 5, listen out for the exchange around sasha visits max in the ward — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Ты не переживай.')
+OUTRO = 'That wraps up this scene as lyova convinces Chef Barinov that poisoning people for football is wrong, and Sasha surprises Max in his hospital bed after asking Kostya which hospital he was in. Until next time!'
+CLOSING = ("anya", "Пока!")

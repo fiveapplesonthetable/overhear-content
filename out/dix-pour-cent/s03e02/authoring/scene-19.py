@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 2
 SCENE = 19
 TITLE = "L'avant-première du film  (The Film Premiere)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "julien": "marcel", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"julien": "Julien", "sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'julien': 'marcel', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'julien': 'Julien', 'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "At a crowded Paris cinema, director Julien takes the stage alongside lead actress Sofia to introduce their indie feature film. In a moving tribute, Julien publicly thanks Gabriel for saving the production. Let's listen to the scene in French first."
 OPENER = "Let's examine how Julien and Sofia present their new movie step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around the film premiere. When you watch the episode, listen out for the expressions meaning 'good evening' and 'to be'. You'll catch them now. See you next time."
-CLOSING = ("sofia", "Bonne journée!")
+OUTRO = "That's it for this scene around the film premiere. When you watch the episode, listen out for the expressions meaning 'good evening' and 'to be'. You'll catch them now. See you next time!"
+CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('julien', "Bonsoir à tous, merci d'être là!", 'Good evening everyone, thank you for being here!', [(859, 'Bonsoir à vous.'), (860, "merci d'être là.")], ''),
     ('julien', 'Vous allez voir notre film ce soir.', 'You are going to see our movie tonight.', [(861, 'Le film que vous allez voir,')], ''),

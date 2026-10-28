@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 4
 SCENE = 28
 TITLE = "Course vers l'hôpital  (Race to the Hospital)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "lea": "lucie"}
-LABELS = {"camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Rushing out of the cafe into the bustling Parisian streets, Camille and Noemie look anxiously for an available cab. Terrified for Mathias's life, the two women put aside all past grievances as they scramble to reach the hospital emergency room. Let's listen to the scene in French first."
 OPENER = "Let's examine Camille and Noemie's urgent search for a taxi line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Terrified by the news of Mathias's heart attack, Camille and Noemie flag down a taxi in the street and race to the hospital, determined to support him in his battle to survive. When you watch the episode, listen out for the expressions meaning 'taxi' and 'stop'. You'll catch them now. See you next time."
-CLOSING = ("camille", "Au revoir!")
+OUTRO = "Terrified by the news of Mathias's heart attack, Camille and Noemie flag down a taxi in the street and race to the hospital, determined to support him in his battle to survive. When you watch the episode, listen out for the expressions meaning 'taxi' and 'stop'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'Au revoir!')
 STORY = [
     ('camille', "Taxi! Arrêtez-vous ici, s'il vous plaît!", 'Taxi! Stop here, please!', [(1285, 'Taxi !')], ''),
     ('lea', 'Taxi! Nous sommes très pressées!', 'Taxi! We are in a great hurry!', [(1286, 'Taxi !')], ''),

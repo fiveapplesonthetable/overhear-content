@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Лена, там ограниченное число пригласительных билетов. | Lena, there is a limited number of invitation tickets. | #140 00:10:40: А там ограниченное число пригласительных | adapted: adapted |
-| 2 | Аня | Я просил оставить нам хотя бы пару. | I asked them to save at least a couple for us. | #141 00:10:44: Я просил меня оставить парочку | adapted: adapted |
+| 1 | Михаил | Лена, там ограниченное число пригласительных билетов. | Lena, there is a limited number of invitation tickets. | #140 00:10:40: А там ограниченное число пригласительных | adapted: adapted |
+| 2 | Михаил | Я просил оставить нам хотя бы пару. | I asked them to save at least a couple for us. | #141 00:10:44: Я просил меня оставить парочку | adapted: adapted |
 | 3 | Елена | Очень жаль, что нам не дали. | It is a great pity that they did not give us any. | #142 00:10:47: Не дали. Жаль | adapted: adapted |
 | 4 | Елена | Витя, ты не видел мою тунику? | Vitya, have you seen my tunic? | #143 00:10:51: Витя, а ты не видел мою бирюзовую тунику | adapted: adapted |
-| 5 | Аня | И я тебя люблю, до вечера! | And I love you too, see you tonight! | #144 00:10:56: И я тебя люблю до вечера | adapted: adapted |
+| 5 | Михаил | И я тебя люблю, до вечера! | And I love you too, see you tonight! | #144 00:10:56: И я тебя люблю до вечера | adapted: adapted |
 | 6 | Елена | Кажется, он уже совсем глухой стал. | It seems he has gone completely deaf already. | #145 00:11:02: Совсем глухой стал | adapted: adapted |
 | 7 | Михаил | Опять несёте мясо для костюмера? | Are you carrying meat for the costume designer again? | #149 00:11:14: Опять мясо для костюмера | adapted: adapted |
 | 8 | Михаил | Я узнавал, в том номере никто не живёт. | I checked, nobody lives in that room. | #152 00:11:22: никто не живет | adapted: adapted |
 | 9 | Михаил | Вы носите еду мимо нашей кассы! | You are carrying food past our cash register! | #153 00:11:25: таскаете еду мимо кассы | adapted: adapted |
 | 10 | Михаил | Я вычту стоимость из вашей зарплаты. | I will deduct the cost from your salary. | #154 00:11:28: Я просто вычту ее стоимость из вашей<br>#155 00:11:32: Зарплаты | adapted: adapted |
-| 11 | Аня | Ладно, ведь высокая цель оправдывает средства. | Alright, a noble goal justifies the means after all. | #158 00:11:39: Цель оправдывает средства | adapted: adapted |
+| 11 | Михаил | Ладно, ведь высокая цель оправдывает средства. | Alright, a noble goal justifies the means after all. | #158 00:11:39: Цель оправдывает средства | adapted: adapted |
 | 12 | Елена | Жаль, не видно вчерашнего симпатичного бармена. | Too bad yesterday's handsome bartender is not around. | #161 00:11:48: не видно вчерашнего симпатичного бармена | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'What is this terrible smell in here?' Entering the kitchen, German wrinkles his nose at the stench coming from the vent.
 - 'We need to air out the room urgently.' The verb 'to air out' is built from the root for 'wind'.
-- 'What smells so strange in here?' In Russian, the impersonal verb 'it smells' always takes the instrumental case ('with what does it smell?').
+- 'What smells so strange in here?' In spoken Russian, the words stay in their normal statement order and German's rising voice at the end turns the line into a question.
 - 'Senya, are you deflecting suspicion from yourself?' Because Senya complained first, everyone assumes he is the culprit.
 - 'Oh, it seems the elevator has stopped.' Inside the elevator shaft, the cabin jolts and stops.
-- 'Vika, do not panic, we are stuck.' Russian uses the perfective past-tense verb 'we got stuck' to mean 'we are stuck'.
+- 'Vika, do not panic, we are stuck.' Max pairs 'panic' with 'stuck' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Well, do something at least!' Vika immediately expects Max to fix the elevator.
 - 'And what can I do in here?' Max spreads his hands inside the closed metal cabin.
 - 'I do not know, you are the man here.' Vika throws his own earlier words back at him.
 - 'Fine, I will think of something right now.' Max presses the buttons on the panel with zero effect.
 - 'Hey, is anyone out there?' Max pounds on the elevator doors and yells into the hallway.
-- 'Help us, please!' The polite plural imperative calls out to anyone passing by on the stairs.
+- 'Help us, please!' Max uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.

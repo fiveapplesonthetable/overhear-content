@@ -26,5 +26,5 @@
 | 12 | `camille` (Camille) | Une touriste espagnole croisée dans le métro! | A Spanish tourist crossed paths with in the subway! | 264:C'est ma première fois à Paris. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the rare pearl. When you watch the episode, listen out for the expressions meaning 'director' and 'refuses'. You'll catch them now. See you next time.
+> That's it for this scene around the rare pearl. When you watch the episode, listen out for the expressions meaning 'director' and 'refuses'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *Au revoir!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 26
-TITLE = "Adieu, Samuel  (Goodbye, Samuel)"
-LEVEL = "A1 — débutant"
+TITLE = 'Adieu, Samuel  (Goodbye, Samuel)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "francoise": "emilie"}
-LABELS = {"mathias": "Mathias", "francoise": "Françoise"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'francoise': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'francoise': 'Françoise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "At the Père-Lachaise cemetery the agents bicker in whispers, because Françoise Fabian and Line Renaud both want the same part. Then, at the evening tribute, both great ladies speak about Samuel, and we follow Françoise. As always, the French comes first; let it carry you, word for word doesn't matter."
 OPENER = "Let's go back through it. At the cemetery Mathias sums up the agency's problem in one sentence."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the end of this scene. When you watch it, listen for the back-to-front way of saying 'we miss you'; both Françoise and Line use it. Until next time."
-CLOSING = ("francoise", "Bonne journée!")
+OUTRO = "That's the end of this scene. When you watch it, listen for the back-to-front way of saying 'we miss you'; both Françoise and Line use it. See you next time!"
+CLOSING = ('francoise', 'Bonne journée!')
 STORY = [
     ('mathias', 'Françoise Fabian et Line Renaud veulent le même rôle.', 'Françoise Fabian and Line Renaud want the same part.', [(703, 'Françoise Fabian et Line Renaud veulent le même rôle')], ''),
     ('mathias', "Et celle qui ne l'obtient pas va nous détester.", 'And the one who doesn', [(704, "celle qui ne l'obtient pas")], ''),

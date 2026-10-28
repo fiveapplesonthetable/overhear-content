@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 3
-TITLE = 'Погром в баре  (Chaos at the Bar)'
+TITLE = "Погром в баре  (Chaos at the Bar)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'ainura': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'ainura': 'Айнура'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa", "ainura": "angelina"}
+LABELS = {"kostya": "Костя", "anya": "Макс", "ainura": "Айнура"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = 'At the Claude Monet bar, Kostya is horrified to find shattered glass everywhere and six bottles of elite cognac missing or broken while Ainura mops the floor. Listen to the whole exchange first, and then we will break it down line by line.'
@@ -33,7 +33,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 
 WALK = [
     (0, None, "'Kostya, what happened here?' Max raises the pitch on 'happened' to turn the phrase into a direct spoken question."),
-    (1, None, "'Did you have a bad bartender show?' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'bar'."),
+    (1, None, "'Did you have a bad bartender show?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (2, None, "'I will find out who was juggling here at night.' The grammar packs 'will find out' and 'juggled' into a tight, idiomatic kitchen exchange."),
     (3, None, "'Ainura, could you clean up faster?' Notice how Russian expresses 'Ainura' and 'faster' with crisp inflection rather than helper words. Ainura answers right away."),
     (4, None, "'Listen, Kostya, do not bother me.' Here the Russian phrasing highlights 'listen' before landing on 'to me'."),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max suddenly realizes why there were two extra bottles in Katya's apartment. Next, Chef Barinov walks in with a massive hangover of his own."
-CLOSING = ('kostya', 'Три бутылки разбили.')
+OUTRO = "Max suddenly realizes why there were two extra bottles in Katya's apartment. Next, Chef Barinov walks in with a massive hangover of his own. Until next time!"
+CLOSING = ("kostya", "Хорошего дня!")

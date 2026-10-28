@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e05-scene-02"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e05-scene-02'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 5
 SCENE = 2
-TITLE = 'Гость всегда прав  (The Guest Is Always Right)'
+TITLE = "Гость всегда прав  (The Guest Is Always Right)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'sasha': 'anja'}
-LABELS = {'anya': 'Вика', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.05"
-SOURCE_FILE = "sources/kukhnya/s02/e05.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "sasha": "anja"}
+LABELS = {"vika": "Вика", "sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.05'
+SOURCE_FILE = 'sources/kukhnya/s02/e05.ru.srt'
 
 INTRO = 'In the kitchen, Vika tries to persuade Chef Barinov to humor the guest and fry the steak tartare, reminding him that the customer is always right. Meanwhile, Max tells Kostya about waking up in a panic beside Sasha and admits he is relieved thinking she has flown off to Cyprus for a few days.'
 
 STORY = [
-    ('anya', 'Ой, какая трагедия.', 'Oh, what a tragedy.', [(18, 'Ой, какая трагедия')], ''),
+    ('vika', 'Ой, какая трагедия.', 'Oh, what a tragedy.', [(18, 'Ой, какая трагедия')], ''),
     ('sasha', 'Ведь тебе что, сложно?', 'Is it really that hard for you?', [(19, 'Ведь тебе что, сложно')], ''),
-    ('anya', 'Ты же знаешь, гость всегда прав.', 'You know that the guest is always right.', [(19, 'Ты же знаешь, гость всегда прав')], ''),
+    ('vika', 'Ты же знаешь, гость всегда прав.', 'You know that the guest is always right.', [(19, 'Ты же знаешь, гость всегда прав')], ''),
     ('sasha', 'На моей кухне я всегда прав.', 'In my kitchen, I am always right.', [(20, 'На моей кухне я всегда прав')], ''),
-    ('anya', 'Разговор окончен.', 'This conversation is over.', [(21, 'Разговор окончен')], ''),
+    ('vika', 'Разговор окончен.', 'This conversation is over.', [(21, 'Разговор окончен')], ''),
     ('sasha', 'Просыпаюсь я с Сашей.', 'I wake up next to Sasha.', [(22, 'просыпаюсь я с Сашей')], ''),
-    ('anya', 'Я чуть с ума не сошел.', 'I nearly lost my mind.', [(23, 'Я чуть с ума не сошел')], ''),
+    ('vika', 'Я чуть с ума не сошел.', 'I nearly lost my mind.', [(23, 'Я чуть с ума не сошел')], ''),
     ('sasha', 'Слушай, но клоуну намного страшнее.', 'Listen, clowns are way scarier though.', [(24, 'Слушай, но клоуну намного страшнее')], ''),
-    ('anya', 'И вообще.', 'And besides.', [(25, 'И вообще')], ''),
+    ('vika', 'И вообще.', 'And besides.', [(25, 'И вообще')], ''),
     ('sasha', 'Слава богу, Саша на Кипр улетела.', 'Thank goodness Sasha flew off to Cyprus.', [(27, 'Слава богу, Саша на Кипр улетела')], ''),
-    ('anya', 'Пару дней можно об этом не думать.', 'For a couple of days I do not have to think about it.', [(28, 'Пару дней можно об этом не думать')], ''),
+    ('vika', 'Пару дней можно об этом не думать.', 'For a couple of days I do not have to think about it.', [(28, 'Пару дней можно об этом не думать')], ''),
     ('sasha', 'А потом выбери.', 'And after that, make your choice.', [(30, 'А потом выбери')], ''),
-    ('anya', 'Все равно рано или поздно придется.', 'Sooner or later you will have to anyway.', [(31, 'Все равно рано или поздно придется')], ''),
+    ('vika', 'Все равно рано или поздно придется.', 'Sooner or later you will have to anyway.', [(31, 'Все равно рано или поздно придется')], ''),
 ]
 
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 2 of Episode 5, listen out for the exchange around the guest is always right — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('sasha', 'А потом выбери.')
+OUTRO = 'That wraps up this scene as vika reminds Chef Barinov that the customer is always right while Barinov refuses to fry raw tartare, and Max tells Kostya he is relieved thinking Sasha flew to Cyprus. See you next time!'
+CLOSING = ("sasha", "До свидания!")

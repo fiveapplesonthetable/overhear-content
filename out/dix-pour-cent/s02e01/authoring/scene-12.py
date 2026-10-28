@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 12
-TITLE = "Une promotion désastreuse  (A Disastrous Promotion)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une promotion désastreuse  (A Disastrous Promotion)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "journaliste": "marcel", "gabriel": "theo", "virginie": "emilie"}
-LABELS = {"journaliste": "Le journaliste", "gabriel": "Gabriel", "virginie": "Virginie"}
+VOICES = {'narrator': 'sky', 'journaliste': 'marcel', 'gabriel': 'theo', 'virginie': 'emilie'}
+LABELS = {'journaliste': 'Le journaliste', 'gabriel': 'Gabriel', 'virginie': 'Virginie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "In the interview suite at ASK, promotional day turns into a public relations catastrophe. Ramzy Bedia has refused to show up, leaving Virginie Efira to face the press alone with Gabriel. Deeply depressed over her breakup, Virginie speaks far too candidly about her misery. Let's listen to the scene in French first."
 OPENER = "Let's observe Gabriel trying to control an interview that is going completely off the rails."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Gabriel narrowly avoided a public retirement announcement by inventing a diplomatic slogan. Until next time.'
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = 'Gabriel narrowly avoided a public retirement announcement by inventing a diplomatic slogan. See you next time!'
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('journaliste', "Alors, qu'est-ce qui vous a donné envie de faire ce film?", 'So, what made you want to make this film?', [(319, "Alors, qu'est-ce qui vous a donné envie de faire ce film ?")], ''),
     ('virginie', "L'histoire était bien. C'est une comédie.", 'The story was good. It is a comedy.', [(320, "L'histoire était bien,"), (322, 'Il y a un ton comique.')], ''),

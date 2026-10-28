@@ -27,5 +27,5 @@
 | 13 | `arlette` (Arlette) | Demain matin, nous écouterons leurs explications. | Tomorrow morning, we will listen to their explanations. | 1056:Arlette |
 
 ## Part 5 — Outro & Closing
-> In the quiet agency corridors, Hicham confronts Arlette with the crushing proof that his closest agents plan to desert him. When you watch the episode, listen out for the expressions meaning 'are you' and 'corridor'. You'll catch them now. See you next time.
+> In the quiet agency corridors, Hicham confronts Arlette with the crushing proof that his closest agents plan to desert him. When you watch the episode, listen out for the expressions meaning 'are you' and 'corridor'. You'll catch them now. See you next time!
 - **Closing**: `arlette`: *Bonne journée!*

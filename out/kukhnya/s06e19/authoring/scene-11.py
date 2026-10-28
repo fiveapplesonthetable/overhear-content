@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e19-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 19
 SCENE = 11
-TITLE = 'Возвращение свадебного платья  (Returning the Wedding Dress)'
+TITLE = "Возвращение свадебного платья  (Returning the Wedding Dress)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'denis': 'anja', 'nikita': 'angelina'}
-LABELS = {'anya': 'Катя', 'denis': 'Денис', 'nikita': 'Никита'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "denis": "anja", "katya": "angelina"}
+LABELS = {"denis": "Денис", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.19'
 SOURCE_FILE = 'sources/kukhnya/s06/e19.ru.srt'
 
 INTRO = "Denis slips into Katya's room to hang the wedding dress back up, only for Katya to catch him. He admits he stole it to stop the wedding, but seeing that she insists she is happy, he steps aside and wishes her and Nikita well."
 
 STORY = [
-    ('anya', 'Я про тебя рассказала Кате.', 'I already told Katya about you.', [(168, 'про тебя уже рассказала Кате')], 'adapted'),
-    ('anya', 'Всё, я тебя очень жду.', 'That is all, I am waiting for you eagerly.', [(169, 'Все, я тебя жду')], 'adapted'),
-    ('anya', 'Денис, это опять здесь ты?', 'Denis, is that you in here again?', [(171, 'Опять ты')], 'adapted'),
+    ('katya', 'Я про тебя рассказала Кате.', 'I already told Katya about you.', [(168, 'про тебя уже рассказала Кате')], 'adapted'),
+    ('katya', 'Всё, я тебя очень жду.', 'That is all, I am waiting for you eagerly.', [(169, 'Все, я тебя жду')], 'adapted'),
+    ('katya', 'Денис, это опять здесь ты?', 'Denis, is that you in here again?', [(171, 'Опять ты')], 'adapted'),
     ('denis', 'Я тут ночью к тебе заходил.', 'I stopped by here at night.', [(172, 'Я тут ночью')], 'adapted'),
     ('denis', 'Я вчера твоё платье украл.', 'I stole your dress yesterday.', [(174, 'Твое платье украл')], 'adapted'),
     ('denis', 'Хотел свадьбу сорвать, но вернул.', 'I wanted to ruin the wedding, but returned it.', [(174, 'Хотел свадьбу сорвать, а сейчас вернул')], 'adapted'),
-    ('anya', 'Что, передумал срывать мою свадьбу?', 'What, did you change your mind about ruining my wedding?', [(175, 'Что, передумал сорвать')], 'adapted'),
+    ('katya', 'Что, передумал срывать мою свадьбу?', 'What, did you change your mind about ruining my wedding?', [(175, 'Что, передумал сорвать')], 'adapted'),
     ('denis', 'Скажи честно, ты с ним счастлива?', 'Tell me honestly, are you happy with him?', [(177, 'Ты'), (178, 'счастлива')], 'adapted'),
-    ('anya', 'Денис зашёл пожелать нам счастья.', 'Denis stopped by to wish us happiness.', [(179, 'Денис зашел пожелать нам счастья')], 'adapted'),
+    ('katya', 'Денис зашёл пожелать нам счастья.', 'Denis stopped by to wish us happiness.', [(179, 'Денис зашел пожелать нам счастья')], 'adapted'),
     ('denis', 'Да, желаю большого счастья вам.', 'Yes, I wish great happiness to you both.', [(181, 'Да. Счастья вам')], 'adapted'),
-    ('nikita', 'Спасибо тебе за добрые слова.', 'Thank you for the kind words.', [(182, 'Спасибо')], 'adapted'),
-    ('anya', 'Прощай, Денис, и будь счастлив.', 'Farewell, Denis, and be happy.', [(178, 'счастлива')], 'adapted'),
+    ('denis', 'Спасибо тебе за добрые слова.', 'Thank you for the kind words.', [(182, 'Спасибо')], 'adapted'),
+    ('katya', 'Прощай, Денис, и будь счастлив.', 'Farewell, Denis, and be happy.', [(178, 'счастлива')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Denis is ready to let Katya go in peace—until Sveta calls him with the recording from her car's dashcam. See you in the next scene."
-CLOSING = ('denis', 'Пусть у вас всё получится.')
+OUTRO = "Denis is ready to let Katya go in peace—until Sveta calls him with the recording from her car's dashcam. Until next time!"
+CLOSING = ("denis", "До свидания!")

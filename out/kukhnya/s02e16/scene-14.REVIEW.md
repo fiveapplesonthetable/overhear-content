@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Не знаю, как к нему подойти, чтобы помириться. | I do not know how to approach him to make peace. | #236 00:14:30: Не знаю, как к нему подойти, чтобы помириться | verbatim |
-| 2 | Илья | Может, на пиво пригласить, а? | Maybe I should invite him out for a beer, huh? | #237 00:14:33: Может, на пиво пригласить, а | verbatim |
-| 3 | Аня | Ну, может. | Well, maybe. | #238 00:14:34: Ну, может | verbatim |
-| 4 | Илья | А ты что, реально хочешь с ним помириться? | Wait, do you seriously want to make peace with him? | #238 00:14:34: А ты что, реально хочешь с ним помириться | verbatim |
-| 5 | Аня | Ну да, поэтому и спрашиваю. | Well yeah, that is why I am asking you. | #239 00:14:37: Ну да, поэтому и спрашиваю | verbatim |
-| 6 | Илья | Слушай, что он любит вообще, а? | Listen, what does he like in general? | #240 00:14:39: Слушай, что он любит вообще, а | verbatim |
-| 7 | Аня | Да, все он любит. | Oh, he likes all kinds of things. | #241 00:14:42: Да, все он любит | verbatim |
-| 8 | Илья | Так вот даже лучше. | Actually, this will be even better. | #242 00:14:45: Так вот даже лучше | verbatim |
-| 9 | Аня | Ему понравится. | He is going to love this. | #245 00:14:57: ему понравится | verbatim |
-| 10 | Илья | Не за что. | You are welcome. | #246 00:15:00: Не за что | verbatim |
-| 11 | Аня | Спасибо, Костян. | Thanks, Kostyan. | #246 00:15:00: Спасибо, Костян | verbatim |
-| 12 | Илья | Давай, я пошел. | Alright, I am off. | #247 00:15:02: Давай, я пошел | verbatim |
-| 13 | Аня | Но это так. | Just a little token. | #249 00:15:07: Но это так | verbatim |
+| 1 | Костя | Не знаю, как к нему подойти, чтобы помириться. | I do not know how to approach him to make peace. | #236 00:14:30: Не знаю, как к нему подойти, чтобы помириться | verbatim |
+| 2 | Костя | Может, на пиво пригласить, а? | Maybe I should invite him out for a beer, huh? | #237 00:14:33: Может, на пиво пригласить, а | verbatim |
+| 3 | Костя | Ну, может. | Well, maybe. | #238 00:14:34: Ну, может | verbatim |
+| 4 | Костя | А ты что, реально хочешь с ним помириться? | Wait, do you seriously want to make peace with him? | #238 00:14:34: А ты что, реально хочешь с ним помириться | verbatim |
+| 5 | Костя | Ну да, поэтому и спрашиваю. | Well yeah, that is why I am asking you. | #239 00:14:37: Ну да, поэтому и спрашиваю | verbatim |
+| 6 | Костя | Слушай, что он любит вообще, а? | Listen, what does he like in general? | #240 00:14:39: Слушай, что он любит вообще, а | verbatim |
+| 7 | Костя | Да, все он любит. | Oh, he likes all kinds of things. | #241 00:14:42: Да, все он любит | verbatim |
+| 8 | Костя | Так вот даже лучше. | Actually, this will be even better. | #242 00:14:45: Так вот даже лучше | verbatim |
+| 9 | Костя | Ему понравится. | He is going to love this. | #245 00:14:57: ему понравится | verbatim |
+| 10 | Костя | Не за что. | You are welcome. | #246 00:15:00: Не за что | verbatim |
+| 11 | Костя | Спасибо, Костян. | Thanks, Kostyan. | #246 00:15:00: Спасибо, Костян | verbatim |
+| 12 | Костя | Давай, я пошел. | Alright, I am off. | #247 00:15:02: Давай, я пошел | verbatim |
+| 13 | Костя | Но это так. | Just a little token. | #249 00:15:07: Но это так | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Вот тебе новость. | Well, here is some news for you. | #60 00:04:25: Вот тебе новость | verbatim |
+| 1 | Костя | Вот тебе новость. | Well, here is some news for you. | #60 00:04:25: Вот тебе новость | verbatim |
 | 2 | Настя | Ты же говорила. | But you said so yourself before. | #61 00:04:30: Ты же говорила | verbatim |
-| 3 | Аня | Ну, мало ли, что я говорила. | Well, what does it matter what I said before? | #62 00:04:33: Ну, мало ли, что я говорила | verbatim |
+| 3 | Костя | Ну, мало ли, что я говорила. | Well, what does it matter what I said before? | #62 00:04:33: Ну, мало ли, что я говорила | verbatim |
 | 4 | Настя | А ты сам что, не хочешь? | Do you not want to get married yourself? | #63 00:04:35: А ты сам что, не хочешь | verbatim |
-| 5 | Аня | Настя, конечно, хочу. | Nastya, of course I want to. | #64 00:04:38: Настя, конечно, хочу | verbatim |
+| 5 | Костя | Настя, конечно, хочу. | Nastya, of course I want to. | #64 00:04:38: Настя, конечно, хочу | verbatim |
 | 6 | Настя | Что значит пойдем? | What do you mean, let us just go? | #66 00:04:45: Что значит пойдем | verbatim |
-| 7 | Аня | Я что-то не понимаю. | There is something I do not understand here. | #67 00:04:50: Я что-то не понимаю | verbatim |
+| 7 | Костя | Я что-то не понимаю. | There is something I do not understand here. | #67 00:04:50: Я что-то не понимаю | verbatim |
 | 8 | Настя | Пойдем завтра в ЗАГС и подадим заявление. | Let us go to the registry office tomorrow and submit our application. | #69 00:04:55: Пойдем завтра в ЗАГС и подадим заявление | verbatim |
-| 9 | Аня | Это тебе что? | What kind of proposal is that to you? | #70 00:04:57: Это тебе что | verbatim |
+| 9 | Костя | Это тебе что? | What kind of proposal is that to you? | #70 00:04:57: Это тебе что | verbatim |
 | 10 | Настя | Я хочу, чтобы это было романтичное предложение, понимаешь? | I want it to be a romantic marriage proposal, do you understand? | #71 00:05:00: Я хочу, чтобы это было романтичное предложение, понимаешь | verbatim |
-| 11 | Аня | Ребят, прошу вас, поговорите вы с ним. | Guys, I beg you, please go talk to him. | #72 00:05:09: Ребят, прошу вас, поговорите вы с ним | verbatim |
+| 11 | Костя | Ребят, прошу вас, поговорите вы с ним. | Guys, I beg you, please go talk to him. | #72 00:05:09: Ребят, прошу вас, поговорите вы с ним | verbatim |
 | 12 | Настя | А то он меня даже слушать не хочет. | Because he does not even want to listen to me. | #73 00:05:13: А то он меня даже слушать не хочет | verbatim |
-| 13 | Аня | Конечно поговорим. | Of course we will talk to him. | #76 00:05:18: Конечно поговорим | verbatim |
+| 13 | Костя | Конечно поговорим. | Of course we will talk to him. | #76 00:05:18: Конечно поговорим | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

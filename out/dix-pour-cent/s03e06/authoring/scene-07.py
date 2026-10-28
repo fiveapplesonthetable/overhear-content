@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 6
 SCENE = 7
 TITLE = "La confidence d'Andréa  (Andréa's Breakdown)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "isabelle": "emilie"}
-LABELS = {"lea": "Andréa", "isabelle": "Isabelle"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'isabelle': 'emilie'}
+LABELS = {'lea': 'Andréa', 'isabelle': 'Isabelle'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "Outside the hospital, Andrea Martel continues trying to persuade nurse Isabelle Huppert to help her agency. When the nurse firmly refuses, Andrea's professional armor cracks, revealing her exhaustion as a new mother. Let's listen to their conversation in French first."
 OPENER = "Let's explore how Andrea's vulnerability connects with the nurse line by line."
 TRANSITION = "Now let's listen to this touching conversation once more to reinforce the key phrases."
-OUTRO = "That's it for this scene around andrea's breakdown. When you watch the episode, listen out for the expressions meaning 'have just' and 'the actress'. You'll catch them now. See you next time."
-CLOSING = ("isabelle", "Au revoir!")
+OUTRO = "That's it for this scene around andrea's breakdown. When you watch the episode, listen out for the expressions meaning 'have just' and 'the actress'. You'll catch them now. See you next time!"
+CLOSING = ('isabelle', 'Au revoir!')
 STORY = [
     ('lea', "Je viens d'avoir l'actrice au téléphone.", 'I just had the actress on the phone.', [(388, "Je viens d'avoir Isabelle Huppert au téléphone.")], ''),
     ('lea', "C'est vraiment très important pour elle.", 'It is really very important to her.', [(389, "C'est très important pour elle.")], ''),

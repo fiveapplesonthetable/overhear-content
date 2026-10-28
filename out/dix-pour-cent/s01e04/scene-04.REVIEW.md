@@ -28,5 +28,5 @@
 | 14 | `noemie` (Noémie) | Ne faites pas attention à moi. | Don | 125:Ne faites pas attention à moi |
 
 ## Part 5 — Outro & Closing
-> Mathias hasn't even told Audrey about Augustin's film yet, and he certainly hasn't told her what kind of part it is. You'll catch every step of his trick when you watch. See you next time.
+> Mathias hasn't even told Audrey about Augustin's film yet, and he certainly hasn't told her what kind of part it is. You'll catch every step of his trick when you watch. See you next time!
 - **Closing**: `augustin`: *Bonne journée!*

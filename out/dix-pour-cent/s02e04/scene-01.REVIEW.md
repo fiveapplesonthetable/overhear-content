@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Au fait, ton haut sent la friture. | By the way, your top smells like frying. | 21:Au fait, ton haut sent la friture. |
 
 ## Part 5 — Outro & Closing
-> Arlette's obsession with fantasy television amuses the office, but Mathias remains strictly focused on client contracts. Their teasing dynamic highlights the lighthearted atmosphere at ASK before new challenges arrive. Until next time.
+> Arlette's obsession with fantasy television amuses the office, but Mathias remains strictly focused on client contracts. Their teasing dynamic highlights the lighthearted atmosphere at ASK before new challenges arrive. See you next time!
 - **Closing**: `arlette`: *À demain!*

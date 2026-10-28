@@ -1,28 +1,28 @@
 ID = 'kukhnya-s06e03-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 3
 SCENE = 20
-TITLE = 'Одна семья и бутафорские деньги  (One Family and Prop Money)'
+TITLE = "Одна семья и бутафорские деньги  (One Family and Prop Money)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'angelina', 'kostya': 'anja'}
-LABELS = {'anya': 'Шеф', 'eleonora': 'Элеонора', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "eleonora": "angelina"}
+LABELS = {"chef": "Шеф", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.03'
 SOURCE_FILE = 'sources/kukhnya/s06/e03.ru.srt'
 
 INTRO = "In the final scene, Nastya's father tells orphan Kostya that they are his parents now too; back at the hotel, Barinov hands Eleonora his 100,000 rubles as restaurant profit—only to learn it is fake movie money."
 
 STORY = [
-    ('kostya', 'Давай я тебе тридцать тысяч в месяц буду платить.', 'Let me pay you thirty thousand a month.', [(347, 'тысяч в месяц буду платить')], 'adapted'),
-    ('anya', 'Это нормально, когда родители помогают детям.', 'It is normal when parents help their children.', [(349, 'Это нормально, когда родители помогают детям')], 'exact'),
-    ('kostya', 'У меня не было родителей.', 'I did not have parents.', [(350, 'У меня не было родителей')], 'exact'),
-    ('anya', 'Я знаю, но мы ведь одна семья.', 'I know, but after all we are one family.', [(352, 'Я знаю, но мы ведь одна семья')], 'exact'),
-    ('anya', 'Мы теперь и твои родители тоже, понимаешь?', 'We are now your parents too, do you understand?', [(353, 'Мы теперь и твои родители тоже'), (354, 'Понимаешь?')], 'adapted'),
-    ('kostya', 'Давайте тогда ваш коньяк пить.', "Then let's drink your cognac.", [(355, 'Давайте тогда ваш коньяк пить')], 'exact'),
+    ('chef', 'Давай я тебе тридцать тысяч в месяц буду платить.', 'Let me pay you thirty thousand a month.', [(347, 'тысяч в месяц буду платить')], 'adapted'),
+    ('chef', 'Это нормально, когда родители помогают детям.', 'It is normal when parents help their children.', [(349, 'Это нормально, когда родители помогают детям')], 'exact'),
+    ('chef', 'У меня не было родителей.', 'I did not have parents.', [(350, 'У меня не было родителей')], 'exact'),
+    ('chef', 'Я знаю, но мы ведь одна семья.', 'I know, but after all we are one family.', [(352, 'Я знаю, но мы ведь одна семья')], 'exact'),
+    ('chef', 'Мы теперь и твои родители тоже, понимаешь?', 'We are now your parents too, do you understand?', [(353, 'Мы теперь и твои родители тоже'), (354, 'Понимаешь?')], 'adapted'),
+    ('chef', 'Давайте тогда ваш коньяк пить.', "Then let's drink your cognac.", [(355, 'Давайте тогда ваш коньяк пить')], 'exact'),
     ('eleonora', 'Я так понимаю, кухня сегодня не работала.', 'As I understand it, the kitchen did not work today.', [(357, 'Я так понимаю, кухня сегодня не работала')], 'exact'),
     ('eleonora', 'И этот день можно вычесть из зарплаты.', 'And this day can be deducted from your salary.', [(358, 'И этот день можно вычесть из зарплаты')], 'exact'),
-    ('anya', 'Ну почему же, авторская кухня принесла несколько копеек.', 'Why say that, the auteur cuisine brought in a few pennies.', [(359, 'Ну почему же?'), (360, 'Авторская кухня'), (361, 'принесла несколько копеек')], 'adapted'),
+    ('chef', 'Ну почему же, авторская кухня принесла несколько копеек.', 'Why say that, the auteur cuisine brought in a few pennies.', [(359, 'Ну почему же?'), (360, 'Авторская кухня'), (361, 'принесла несколько копеек')], 'adapted'),
     ('eleonora', 'Витя, можешь оставить эти деньги себе.', 'Vitya, you can keep this money for yourself.', [(362, 'Витя, можешь оставить эти деньги себе')], 'exact'),
     ('eleonora', 'Там таких купюр много валяется.', 'There are plenty of banknotes like those lying around out there.', [(364, 'таких купюр много валяется')], 'adapted'),
     ('eleonora', 'Это бутафорские деньги.', 'This is prop money.', [(366, 'Это бутафорские деньги')], 'exact'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Realizing that Nagiyev paid him for the shoot and the crew lunch with fake movie money, Barinov roars Nagiyev's name across the hotel. See you next time."
-CLOSING = ('anya', 'Нагиев, держись!')
+OUTRO = "Realizing that Nagiyev paid him for the shoot and the crew lunch with fake movie money, Barinov roars Nagiyev's name across the hotel. See you next time!"
+CLOSING = ("chef", "До завтра!")

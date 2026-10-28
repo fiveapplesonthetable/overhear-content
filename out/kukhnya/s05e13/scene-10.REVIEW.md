@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | С этой песни начался мой большой путь. | My great journey began with this song. | #122 00:13:42: с этой песни начался мой путь | adapted: adapted |
-| 2 | Аня | Я нашёл дорогу в ваши добрые сердца. | I found the way into your kind hearts. | #123 00:13:48: и в ваши сердца | adapted: adapted |
-| 3 | Аня | Я написал её в память о любви. | I wrote it in memory of love. | #124 00:13:50: написал я ее в память о | adapted: adapted |
-| 4 | Аня | Эта женщина навсегда разбила моё сердце. | That woman broke my heart forever. | #125 00:13:56: которая навсегда разбила мое сердце | adapted: adapted |
-| 5 | Аня | Лена, ты всегда будешь в моём сердце! | Lena, you will always be in my heart! | #126 00:14:00: Лена, ты всегда будешь в моем сердце | adapted: adapted |
+| 1 | Шеф | С этой песни начался мой большой путь. | My great journey began with this song. | #122 00:13:42: с этой песни начался мой путь | adapted: adapted |
+| 2 | Шеф | Я нашёл дорогу в ваши добрые сердца. | I found the way into your kind hearts. | #123 00:13:48: и в ваши сердца | adapted: adapted |
+| 3 | Шеф | Я написал её в память о любви. | I wrote it in memory of love. | #124 00:13:50: написал я ее в память о | adapted: adapted |
+| 4 | Шеф | Эта женщина навсегда разбила моё сердце. | That woman broke my heart forever. | #125 00:13:56: которая навсегда разбила мое сердце | adapted: adapted |
+| 5 | Шеф | Лена, ты всегда будешь в моём сердце! | Lena, you will always be in my heart! | #126 00:14:00: Лена, ты всегда будешь в моем сердце | adapted: adapted |
 | 6 | Елена | Витя, я сегодня была на твоём концерте. | Vitya, I was at your concert today. | #127 00:14:15: Витя, я была на твоем концерте | adapted: adapted |
 | 7 | Елена | Я стояла в зале и всё слышала. | I stood in the hall and heard everything. | #127 00:14:15: я все слышала | adapted: adapted |
 | 8 | Елена | Я тоже очень тебя люблю, Витя! | I love you very much too, Vitya! | #128 00:14:19: Я тоже тебя люблю, Витя | adapted: adapted |
-| 9 | Аня | Ура, ты наконец сказала мне да! | Hooray, you finally said yes to me! | #129 00:14:22: Ты сказала да | adapted: adapted |
-| 10 | Сеня | Нет, это звучит не очень правдоподобно. | No, that does not sound very plausible. | #130 00:14:30: не очень правдоподобно | adapted: adapted |
-| 11 | Сеня | Вы же попали в настоящий шоу-бизнес! | After all, you got into real show business! | #131 00:14:33: Вы же в | adapted: adapted |
-| 12 | Аня | И что ты хочешь этим сказать? | And what do you mean to say by that? | #132 00:14:36: И | adapted: adapted |
+| 9 | Шеф | Ура, ты наконец сказала мне да! | Hooray, you finally said yes to me! | #129 00:14:22: Ты сказала да | adapted: adapted |
+| 10 | Елена | Нет, это звучит не очень правдоподобно. | No, that does not sound very plausible. | #130 00:14:30: не очень правдоподобно | adapted: adapted |
+| 11 | Елена | Вы же попали в настоящий шоу-бизнес! | After all, you got into real show business! | #131 00:14:33: Вы же в | adapted: adapted |
+| 12 | Шеф | И что ты хочешь этим сказать? | And what do you mean to say by that? | #132 00:14:36: И | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

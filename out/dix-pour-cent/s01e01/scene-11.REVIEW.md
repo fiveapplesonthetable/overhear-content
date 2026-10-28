@@ -30,5 +30,5 @@
 | 16 | `lea` (Andréa) | Cécile de France? Ici? | Cécile de France? Here? | adapted |
 
 ## Part 5 — Outro & Closing
-> Well done, that was a busy tour. When you watch, listen for the polite and the casual 'you', and for that little word that means 'here is'. Until next time.
+> Well done, that was a busy tour. When you watch, listen for the polite and the casual 'you', and for that little word that means 'here is'. See you next time!
 - **Closing**: `lea`: *À plus!*

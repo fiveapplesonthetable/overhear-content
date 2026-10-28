@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'On your mark. Get set. Go!' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately.
-- 'Listen, you are calling at a really bad time right now.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Hello, Max. I think they are going to fire me today.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
-- 'What happened?' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'German asked me to peel two sacks of potatoes before evening.' Notice how Denis pairs a modal word or finite verb with an infinitive to express the action.
-- 'Maybe you can come over and help?' Denis uses natural conversational word order here to highlight the most important part of the reply.
+- 'On your mark. Get set. Go!' Here Vika anchors the thought on 'get' and finishes on 'attention', keeping the spoken rhythm brisk and natural.
+- 'Listen, you are calling at a really bad time right now.' In everyday Russian, 'listen' flows straight into 'on time' without extra linking words.
+- 'Hello, Max. I think they are going to fire me today.' Denis pairs 'it seems' with 'will fire' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'What happened?' Spoken Russian keeps this brief and expressive, built right around 'happened' without extra helper words.
+- 'German asked me to peel two sacks of potatoes before evening.' Here Denis anchors the thought on 'asked' and finishes on 'potatoes', keeping the spoken rhythm brisk and natural.
+- 'Maybe you can come over and help?' In spoken Russian, the words stay in their normal statement order and Denis's rising voice at the end turns the line into a question.
 - 'Well then, my hunter?' Vika raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'Listen, Den just called, he is in trouble at work.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'I have to help him, forgive me.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'Did you forget what the doctor said?' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Darling, we have two whole days ahead of us.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'I will still have plenty of time.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'Listen, Den just called, he is in trouble at work.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'I have to help him, forgive me.' Here Max anchors the thought on 'must' and finishes on 'forgive', keeping the spoken rhythm brisk and natural.
+- 'Did you forget what the doctor said?' In everyday Russian, 'to forget' flows straight into 'Doctor' without extra linking words.
+- 'Darling, we have two whole days ahead of us.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'I will still have plenty of time.' Notice how Russian puts 'still, yet, more' and 'will manage' together in a short, direct phrase where word endings show how the ideas connect.

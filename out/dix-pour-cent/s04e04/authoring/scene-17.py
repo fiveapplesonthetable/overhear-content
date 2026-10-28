@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 17
-TITLE = "La trahison découverte  (The Betrayal Discovered)"
-LEVEL = "A1 — débutant"
+TITLE = 'La trahison découverte  (The Betrayal Discovered)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Left alone at Mathias's desk, Camille looks for the paternity document on his computer. Instead, she spots an open draft email detailing Mathias's ruthless plot to deceive author Ulrika. Let's listen to this chilling discovery in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Horrified by the evidence of her father's treachery, Camille quickly hides her discovery as Mathias returns. When you watch the episode, listen out for the expressions meaning 'let us see' and 'form'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À bientôt!")
+OUTRO = "Horrified by the evidence of her father's treachery, Camille quickly hides her discovery as Mathias returns. When you watch the episode, listen out for the expressions meaning 'let us see' and 'form'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À bientôt!')
 STORY = [
     ('camille', 'Voyons ce formulaire sur son ordinateur.', 'Let us look for this form on his computer.', [], ''),
     ('camille', "Attends, qu'est-ce que c'est que ça?", 'Wait, what is this?', [], ''),

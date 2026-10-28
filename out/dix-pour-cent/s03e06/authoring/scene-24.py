@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 24
-TITLE = "Le discours des trente ans  (The Thirty-Year Speech)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le discours des trente ans  (The Thirty-Year Speech)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "On the gala stage, Hicham delivers a moving speech celebrating thirty years of ASK and honoring Arlette. Off-stage, Andrea confronts Mathias, revealing that the team has united and defeated his takeover plan. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "As Hicham leads the room in celebrating Arlette, Andrea delivers a stinging lesson to a defeated Mathias. When you watch the episode, listen out for the expressions meaning 'good evening' and 'world'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "As Hicham leads the room in celebrating Arlette, Andrea delivers a stinging lesson to a defeated Mathias. When you watch the episode, listen out for the expressions meaning 'good evening' and 'world'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('hicham', 'Bonsoir tout le monde, soyez les bienvenus!', 'Good evening everyone, be welcome!', [(1246, 'Bonsoir, tout le monde')], ''),
     ('hicham', "Merci d'être venus si nombreux ce soir.", 'Thank you for coming in such numbers tonight.', [(1250, "Merci d'être venus si nombreux")], ''),

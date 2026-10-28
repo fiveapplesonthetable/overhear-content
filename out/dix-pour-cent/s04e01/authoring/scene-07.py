@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 1
 SCENE = 7
 TITLE = "Le départ de Noémie  (Noémie's Departure)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "herve": "marcel", "lea": "lucie"}
-LABELS = {"noemie": "Noémie", "herve": "Hervé", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
+LABELS = {'noemie': 'Noémie', 'herve': 'Hervé', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At the ASK agency reception, Noemie packs up her belongings following Mathias's departure. She entrusts her cherished bonsai tree to Herve and makes plans with the assistants for a friendly farewell drink. Let's listen to their conversation in French first."
 OPENER = "Let's explore Noemie's warm farewell with Camille and Herve line by line."
 TRANSITION = "Now let's listen to the assistants' farewell exchange once more from start to finish."
-OUTRO = "That's it for this scene around noemie's departure. When you watch the episode, listen out for the expressions meaning 'goes' and 'need'. You'll catch them now. See you next time."
-CLOSING = ("herve", "À demain!")
+OUTRO = "That's it for this scene around noemie's departure. When you watch the episode, listen out for the expressions meaning 'goes' and 'need'. You'll catch them now. See you next time!"
+CLOSING = ('herve', 'À demain!')
 STORY = [
     ('lea', "Ça va Noémie? Tu as besoin d'aide?", 'Are you okay Noemie? Do you need help?', [(487, 'Ça va ?'), (489, "Je t'appelle un taxi ?")], ''),
     ('noemie', 'Non, ça ira très bien, merci Camille.', 'No, I will be fine, thank you Camille.', [(490, 'Non, ça ira, merci.')], ''),

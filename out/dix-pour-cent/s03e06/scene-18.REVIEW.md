@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Dépêchons-nous avant une catastrophe! | Let us hurry before a disaster! | 968:Dépêche-toi |
 
 ## Part 5 — Outro & Closing
-> Between eccentric friends and missing film stars, ASK's anniversary party spirals into high-stakes comedic chaos. When you watch the episode, listen out for the expressions meaning 'woman' and 'dress'. You'll catch them now. See you next time.
+> Between eccentric friends and missing film stars, ASK's anniversary party spirals into high-stakes comedic chaos. When you watch the episode, listen out for the expressions meaning 'woman' and 'dress'. You'll catch them now. See you next time!
 - **Closing**: `herve`: *À demain!*

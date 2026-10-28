@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 1
-TITLE = "Le double tournage  (The Double Shoot)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le double tournage  (The Double Shoot)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "gabriel": "theo"}
-LABELS = {"hicham": "Hicham", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'gabriel': 'theo'}
+LABELS = {'hicham': 'Hicham', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "At the ASK agency, director Hicham Janowski scrutinizes client paperwork and discovers a serious breach. Agent Gabriel Sarda has secretly double-booked screen legend Isabelle Huppert on two conflicting film productions. Let's listen to the scene in French first."
 OPENER = "Let's observe as Hicham confronts Gabriel about Isabelle's secret schedule."
 TRANSITION = "Now let's listen to Hicham and Gabriel again at full speed."
-OUTRO = "Hicham remains tense about the risky double booking, fearing disastrous legal blowback from the American producers. When you watch the episode, listen out for the expressions meaning 'problem' and 'business agreements'. You'll catch them now. See you next time."
-CLOSING = ("hicham", "Bonne soirée!")
+OUTRO = "Hicham remains tense about the risky double booking, fearing disastrous legal blowback from the American producers. When you watch the episode, listen out for the expressions meaning 'problem' and 'business agreements'. You'll catch them now. See you next time!"
+CLOSING = ('hicham', 'Bonne soirée!')
 STORY = [
     ('hicham', 'Il y a un problème dans tes contrats.', 'There is a problem in your contracts.', [(28, 'tes contrats')], ''),
     ('gabriel', "De quel contrat parles-tu aujourd'hui?", 'Which contract are you talking about today?', [(29, 'Isabelle Huppert')], ''),

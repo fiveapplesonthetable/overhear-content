@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Елена | Витя, тебе совсем нельзя нервничать. | Vitya, you must not get nervous at all. | #16 00:01:57: Тебе нельзя нервничать | adapted: adapted |
+| 1 | Элеонора | Витя, тебе совсем нельзя нервничать. | Vitya, you must not get nervous at all. | #16 00:01:57: Тебе нельзя нервничать | adapted: adapted |
 | 2 | Элеонора | Тяжёлая работа тебе сейчас противопоказана. | Heavy work is forbidden for you right now. | #16 00:01:57: работа тебе противопоказана | adapted: adapted |
 | 3 | Элеонора | Он привёл сюда свою команду. | He brought his own team here. | #18 00:02:04: Он привел свою команду | adapted: adapted |
 | 4 | Элеонора | Ты будешь вести общее руководство. | You will handle general supervision. | #19 00:02:07: общее руководство | adapted: adapted |
-| 5 | Аня | Он всех моих поваров уволил? | Did he fire all of my cooks? | #20 00:02:10: Он моих поваров уволил | adapted: adapted |
-| 6 | Аня | Тогда убирайте моё авторское меню! | Then take away my signature menu! | #22 00:02:14: Тогда убирайте мое авторское меню | adapted: adapted |
-| 7 | Аня | И меняйте вообще название ресторана! | And change the name of the restaurant altogether! | #23 00:02:16: Вообще меняйте название ресторана | adapted: adapted |
-| 8 | Аня | Он уволил лучших поваров Москвы. | He fired the best cooks in Moscow. | #25 00:02:19: Он уволил лучших поваров Москвы | adapted: adapted |
-| 9 | Аня | Они готовят намного лучше вас. | They cook much better than you. | #29 00:02:33: Готовят они лучше | adapted: adapted |
-| 10 | Аня | Давай поставим моих против твоих. | Let us put my guys against yours. | #30 00:02:34: поставим моих против твоих | adapted: adapted |
+| 5 | Шеф | Он всех моих поваров уволил? | Did he fire all of my cooks? | #20 00:02:10: Он моих поваров уволил | adapted: adapted |
+| 6 | Шеф | Тогда убирайте моё авторское меню! | Then take away my signature menu! | #22 00:02:14: Тогда убирайте мое авторское меню | adapted: adapted |
+| 7 | Шеф | И меняйте вообще название ресторана! | And change the name of the restaurant altogether! | #23 00:02:16: Вообще меняйте название ресторана | adapted: adapted |
+| 8 | Шеф | Он уволил лучших поваров Москвы. | He fired the best cooks in Moscow. | #25 00:02:19: Он уволил лучших поваров Москвы | adapted: adapted |
+| 9 | Шеф | Они готовят намного лучше вас. | They cook much better than you. | #29 00:02:33: Готовят они лучше | adapted: adapted |
+| 10 | Шеф | Давай поставим моих против твоих. | Let us put my guys against yours. | #30 00:02:34: поставим моих против твоих | adapted: adapted |
 | 11 | Элеонора | А мне нравится эта идея. | I actually like this idea. | #36 00:02:54: А мне нравится эта идея | adapted: adapted |
 | 12 | Элеонора | Давайте устроим сегодня честный поединок. | Let us hold a fair duel today. | #37 00:02:56: А давайте устроим поединок | adapted: adapted |
 

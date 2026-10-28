@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Life never happens without partings.' Max opens with a negative existential verb and the genitive plural noun for partings.
-- 'We part with our past.' Max uses a reflexive first-person plural verb followed by the instrumental case after the preposition for with.
-- 'We say goodbye to our present.' Here the substantivized adjective for the present appears in the instrumental singular.
-- 'Sometimes we part with the future.' The neuter noun for the future takes the instrumental ending after the preposition.
-- 'But this world is arranged very well.' Max describes the world with a masculine short passive participle and a manner adverb.
-- 'After partings, new meetings always arrive.' The plural verb for arrive agrees with the nominative plural subject meaning new meetings.
-- 'Dad, hello, how are you doing?' Katya greets her father warmly with the informal possessive determiner in the nominative plural.
+- 'Life never happens without partings.' Notice how Russian puts 'life' and 'partings' together in a short, direct phrase where word endings show how the ideas connect.
+- 'We part with our past.' Here Max anchors the thought on 'past' and finishes on 'last, past, previous', keeping the spoken rhythm brisk and natural.
+- 'We say goodbye to our present.' In everyday Russian, 'to goodbye' flows straight into 'real, true' without extra linking words.
+- 'Sometimes we part with the future.' Max pairs 'sometimes, at times' with 'future' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'But this world is arranged very well.' Notice how Russian puts 'world' and 'good, well, all right' together in a short, direct phrase where word endings show how the ideas connect.
+- 'After partings, new meetings always arrive.' Here Max anchors the thought on 'partings' and finishes on 'meeting', keeping the spoken rhythm brisk and natural.
+- 'Dad, hello, how are you doing?' In everyday Russian, 'dad' flows straight into 'things to do' without extra linking words.
 - 'Katya, what are you doing here?' Chef Barinov reacts with a direct question using the second-person singular present tense.
-- 'You have not called me for a long time.' The feminine past-tense verb agrees with Katya while the dative pronoun marks the recipient.
-- 'Dad, please, just do not worry.' Katya calms her father using a negated imperfective imperative verb.
-- 'I just wanted to see you.' The feminine past form of to want pairs with the perfective infinitive to see.
-- 'I wanted to test your reaction.' Katya finishes with a feminine accusative noun phrase meaning your reaction.
+- 'You have not called me for a long time.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'Dad, please, just do not worry.' Katya uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'I just wanted to see you.' In everyday Russian, 'simply, just' flows straight into 'to see' without extra linking words.
+- 'I wanted to test your reaction.' Katya pairs 'wanted' with 'reaction' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

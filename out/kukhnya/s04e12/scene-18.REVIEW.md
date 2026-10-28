@@ -22,17 +22,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Саша | Мне кажется, что Миша не мой человек. | It seems to me that Misha is not my person. | #306 00:19:19: что Миша это не мой человек | adapted: adapted for A1 clarity |
 | 11 | Саша | С тобой всё было совсем по-другому. | With you everything was completely different. | #308 00:19:29: совсем все было по-другому | adapted: adapted for A1 clarity |
 | 12 | Аня | Да, с тобой всё было гораздо проще. | Yes, with you everything was much simpler. | #313 00:19:39: все было гораздо проще | adapted: adapted for A1 clarity |
-| 13 | Денис | Вика, он тебя очень сильно любит! | Vika, he loves you very much! | #320 00:20:16: Он тебя очень любит | adapted: adapted for A1 clarity |
+| 13 | Саша | Вика, он тебя очень сильно любит! | Vika, he loves you very much! | #320 00:20:16: Он тебя очень любит | adapted: adapted for A1 clarity |
 | 14 | Аня | Вика, пожалуйста, открой мне дверь! | Vika, please open the door for me! | #324 00:21:13: пожалуйста, открой | adapted: adapted for A1 clarity |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Sasha, what are you doing in here?' Max freezes when he finds the bride sitting inside the kitchen cooler.
 - 'They kidnapped me, it is a wedding tradition.' In Russian weddings, friends 'steal' the bride until the groom pays a ransom or finds her.
-- 'Misha is supposed to find me, but he is in no hurry.' Reflexive 'toropitsya' means 'to hurry / be in a rush'.
+- 'Misha is supposed to find me, but he is in no hurry.' Sasha pairs 'Misha' with 'to be in a hurry, to hurry' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'All right, then I will go back to the kitchen.' Remembering his promise to Vika, Max turns to leave immediately.
 - 'Max, wait, tell me, are you happy with Vika?' Short-form adjective 'schastliv' ('happy') stops Max at the door.
-- 'Did you not have doubts before the wedding?' Genitive plural 'somneniy' ('of doubts') follows negated 'ne bylo'.
+- 'Did you not have doubts before the wedding?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Did you not feel like dropping everything and running away?' Impersonal 'tebe ne khotelos' expresses an involuntary urge.
 - 'Sasha, you just got overly nervous, that is normal.' The prefix 'pere-' on 'got nervous' means 'got overly worked up'.
 - 'Everyone has doubts, I had doubts back then too.' Max tries to comfort her as a friend.

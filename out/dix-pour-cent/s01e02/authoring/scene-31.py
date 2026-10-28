@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 2
 SCENE = 31
 TITLE = "Moi aussi, je suis ta famille  (I'm Your Family Too)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Luckily, nothing more happened between them. But Mathias doesn't know that, and nobody knows Camille is his daughter. Now he catches her outside, furious. Later, someone unexpected keeps her company. This is the last scene of the episode. Listen to it in French first, and don't worry about the details."
 OPENER = "Let's take it slowly. Mathias walks straight up to Camille and attacks."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the end of the second episode. It was a long, emotional week at the agency, and you followed it all the way to the last puff of smoke. Take a break, and see you in the next episode."
-CLOSING = ("mathias", "À demain, Camille.")
+OUTRO = "That's the end of the second episode. It was a long, emotional week at the agency, and you followed it all the way to the last puff of smoke. See you next time!"
+CLOSING = ('mathias', 'À demain, Camille.')
 STORY = [
     ('mathias', 'À quoi tu joues avec mon fils?', 'What are you playing at with my son?', [(826, 'À quoi tu joues avec mon fils')], ''),
     ('camille', "Je ne savais pas que c'était ton fils.", 'I didn', [(827, "Je ne savais pas que c'était ton fils")], ''),

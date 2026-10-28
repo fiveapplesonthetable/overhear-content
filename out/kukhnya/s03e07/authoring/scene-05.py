@@ -1,31 +1,31 @@
 ID = 'kukhnya-s03e07-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 5
-TITLE = 'Таракан во фрикасе  (A Cockroach in the Fricassee)'
+TITLE = "Таракан во фрикасе  (A Cockroach in the Fricassee)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Шеф', 'katya': 'Катя', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
+LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = "After punching Nagiyev, Max grabs Vika's hand and runs out to a car. Inside the kitchen, Lyova reports that a guest found a cockroach in Chef Barinov's fricassee."
 
 STORY = [
-    ('anya', 'Что же это такое, честное слово!', 'What on earth is this, honest word!', [(55, 'честное слово')], 'adapted'),
-    ('anya', 'Я прямо уже ничего не знаю.', 'I really do not know anything anymore.', [(56, 'Я прям не знаю')], 'adapted'),
-    ('anya', 'Ну что, тебе мало вчера было?', 'Well what, did you not have enough yesterday?', [(57, 'тебе мало, что ли, вчера было')], 'adapted'),
-    ('katya', 'Дима, пожалуйста, немедленно перестань!', 'Dima, please, stop immediately!', [(58, 'Дима, перестань')], 'adapted'),
+    ('chef', 'Что же это такое, честное слово!', 'What on earth is this, honest word!', [(55, 'честное слово')], 'adapted'),
+    ('chef', 'Я прямо уже ничего не знаю.', 'I really do not know anything anymore.', [(56, 'Я прям не знаю')], 'adapted'),
+    ('chef', 'Ну что, тебе мало вчера было?', 'Well what, did you not have enough yesterday?', [(57, 'тебе мало, что ли, вчера было')], 'adapted'),
+    ('lyova', 'Дима, пожалуйста, немедленно перестань!', 'Dima, please, stop immediately!', [(58, 'Дима, перестань')], 'adapted'),
     ('lyova', 'Шеф, там гость в блюде нашёл таракана.', 'Chef, a guest out there found a cockroach in his dish.', [(60, 'нашел таракана')], 'adapted'),
-    ('anya', 'Какого ещё таракана, чьё это блюдо?', 'What cockroach, whose dish is it?', [(61, 'Таракана? Что это блюдо')], 'adapted'),
+    ('chef', 'Какого ещё таракана, чьё это блюдо?', 'What cockroach, whose dish is it?', [(61, 'Таракана? Что это блюдо')], 'adapted'),
     ('lyova', 'К сожалению, это ваше блюдо, шеф.', 'Unfortunately, it is your dish, Chef.', [(62, 'Ваше, шеф')], 'adapted'),
-    ('katya', 'Вот именно поэтому я не люблю традиционную кухню.', 'That is precisely why I do not love traditional cuisine.', [(63, 'Вот именно поэтому я не люблю традиционную кухню')], 'adapted'),
-    ('katya', 'А в молекулярной кухне его бы никто не заметил.', 'And in molecular cuisine no one would have noticed it.', [(64, 'А в молекулярной кухне')], 'adapted'),
-    ('anya', 'Эй, куда он сейчас едет?', 'Hey, where is he driving right now?', [(67, 'Куда')], 'adapted'),
+    ('lyova', 'Вот именно поэтому я не люблю традиционную кухню.', 'That is precisely why I do not love traditional cuisine.', [(63, 'Вот именно поэтому я не люблю традиционную кухню')], 'adapted'),
+    ('lyova', 'А в молекулярной кухне его бы никто не заметил.', 'And in molecular cuisine no one would have noticed it.', [(64, 'А в молекулярной кухне')], 'adapted'),
+    ('chef', 'Эй, куда он сейчас едет?', 'Hey, where is he driving right now?', [(67, 'Куда')], 'adapted'),
     ('lyova', 'Тормози скорее, это же сам Нагиев!', 'Brake quickly, that is Nagiyev himself!', [(68, 'Тормози, тормози')], 'adapted'),
-    ('anya', 'Давай быстро уезжаем отсюда!', 'Let us drive away from here quickly!', [(69, 'Валим')], 'adapted'),
+    ('chef', 'Давай быстро уезжаем отсюда!', 'Let us drive away from here quickly!', [(69, 'Валим')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Out on the street, Max and Vika spot Nagiyev chasing them, while inside the kitchen the cockroach crisis escalates.'
-CLOSING = ('lyova', 'Это ваше блюдо, шеф.')
+OUTRO = 'Out on the street, Max and Vika spot Nagiyev chasing them, while inside the kitchen the cockroach crisis escalates. Until next time!'
+CLOSING = ("lyova", "Пока!")

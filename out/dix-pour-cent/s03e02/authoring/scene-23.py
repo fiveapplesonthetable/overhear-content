@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 23
-TITLE = "Il tient à vous  (He Cares About You)"
-LEVEL = "A1 — débutant"
+TITLE = 'Il tient à vous  (He Cares About You)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "Recovering at home after a traumatic accident, assistant Noemie welcomes Mathias Barneville and his wife Catherine into her apartment. While Mathias tries to minimize the awkwardness, Catherine directly brings up Noemie's career plans and reveals Mathias's true devotion. Let's listen to their conversation in French first."
 OPENER = "Let's see how Catherine gently challenges Noemie while revealing the profound loyalty of Mathias."
 TRANSITION = "Now let's listen to Catherine, Mathias, and Noemie again at natural pace."
-OUTRO = "Moved by Catherine's compassionate insight and Mathias's quiet devotion, Noemie reconsiders her hasty departure from ASK. When you watch the episode, listen out for the expressions meaning 'place' and 'table'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne soirée!")
+OUTRO = "Moved by Catherine's compassionate insight and Mathias's quiet devotion, Noemie reconsiders her hasty departure from ASK. When you watch the episode, listen out for the expressions meaning 'place' and 'table'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('mathias', 'Je vous pose ce sac sur la table.', 'I put this bag on the table for you.', [(1012, 'Je vous pose ça où ?'), (1015, 'Sur la table.')], ''),
     ('noemie', "Merci Mathias, c'est très gentil à vous.", 'Thank you Mathias, that is very kind of you.', [(1016, 'Mathias, merci.')], ''),

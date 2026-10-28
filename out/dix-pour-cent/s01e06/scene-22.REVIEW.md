@@ -29,5 +29,5 @@
 | 15 | `francois` (François) | Pas encore le canard! Non! | Not the duck again! No! | 595:Pas encore le canard, 596:Non |
 
 ## Part 5 — Outro & Closing
-> In Christophe's arms in the shallow water, François finally overcomes his fear of the pool, and the play is saved. Thrilled by their reconciliation, Andréa celebrates a little too hard at the party. See you next time.
+> In Christophe's arms in the shallow water, François finally overcomes his fear of the pool, and the play is saved. Thrilled by their reconciliation, Andréa celebrates a little too hard at the party. See you next time!
 - **Closing**: `lea`: *À bientôt!*

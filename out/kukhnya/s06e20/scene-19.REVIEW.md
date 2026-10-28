@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Я не изменю ваше решение. | I will not change your decision. | #280 00:21:27: не изменю ваше решение | adapted: adapted |
-| 2 | Аня | Но его ресторан достоин получить звезду. | But his restaurant is worthy of receiving a star. | #281 00:21:31: ресторан получил звезду | adapted: adapted |
-| 3 | Аня | Ведь он настоящий кулинарный фанатик. | After all, he is a true culinary fanatic. | #282 00:21:36: Он кулинарный фанатик | adapted: adapted |
-| 4 | Аня | Такой человек умрёт на своей работе. | Such a man will die at his work. | #283 00:21:38: он умрет на работе | adapted: adapted |
-| 5 | Аня | Он действительно здесь себя не жалеет. | He truly does not spare himself here. | #284 00:21:42: Он действительно здесь себя | adapted: adapted |
-| 6 | Аня | Ему по здоровью нельзя сейчас работать. | For his health he must not work right now. | #285 00:21:46: Ему нельзя работать | adapted: adapted |
-| 7 | Аня | Два месяца назад он был в коме. | Two months ago he was in a coma. | #285 00:21:46: два месяца назад он был в коме | adapted: adapted |
-| 8 | Аня | Но кто его может остановить? | But who can stop him? | #286 00:21:49: Но кто его может остановить | adapted: adapted |
+| 1 | Михаил | Я не изменю ваше решение. | I will not change your decision. | #280 00:21:27: не изменю ваше решение | adapted: adapted |
+| 2 | Михаил | Но его ресторан достоин получить звезду. | But his restaurant is worthy of receiving a star. | #281 00:21:31: ресторан получил звезду | adapted: adapted |
+| 3 | Михаил | Ведь он настоящий кулинарный фанатик. | After all, he is a true culinary fanatic. | #282 00:21:36: Он кулинарный фанатик | adapted: adapted |
+| 4 | Михаил | Такой человек умрёт на своей работе. | Such a man will die at his work. | #283 00:21:38: он умрет на работе | adapted: adapted |
+| 5 | Михаил | Он действительно здесь себя не жалеет. | He truly does not spare himself here. | #284 00:21:42: Он действительно здесь себя | adapted: adapted |
+| 6 | Михаил | Ему по здоровью нельзя сейчас работать. | For his health he must not work right now. | #285 00:21:46: Ему нельзя работать | adapted: adapted |
+| 7 | Михаил | Два месяца назад он был в коме. | Two months ago he was in a coma. | #285 00:21:46: два месяца назад он был в коме | adapted: adapted |
+| 8 | Михаил | Но кто его может остановить? | But who can stop him? | #286 00:21:49: Но кто его может остановить | adapted: adapted |
 | 9 | Инспектор | Почему я опять должен вам верить? | Why should I believe you again? | #287 00:21:52: Почему я опять должен вам верить | adapted: adapted |
-| 10 | Аня | Потому что это чистая правда. | Because this is the pure truth. | #288 00:21:54: Потому что это правда | adapted: adapted |
-| 11 | Аня | Сегодня этот лжец спас вам жизнь. | Today this liar saved your life. | #289 00:22:01: сегодня этот лжец спас вам жизнь | adapted: adapted |
-| 12 | Аня | У меня просто батарейка в телефоне села. | The battery in my phone simply died. | #292 00:22:26: У меня просто батарейка села | adapted: adapted |
+| 10 | Михаил | Потому что это чистая правда. | Because this is the pure truth. | #288 00:21:54: Потому что это правда | adapted: adapted |
+| 11 | Михаил | Сегодня этот лжец спас вам жизнь. | Today this liar saved your life. | #289 00:22:01: сегодня этот лжец спас вам жизнь | adapted: adapted |
+| 12 | Михаил | У меня просто батарейка в телефоне села. | The battery in my phone simply died. | #292 00:22:26: У меня просто батарейка села | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

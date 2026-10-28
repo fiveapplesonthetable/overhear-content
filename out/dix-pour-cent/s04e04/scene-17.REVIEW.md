@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Oui, tout va très bien, papa. | Yes, everything is fine, dad. | adapted |
 
 ## Part 5 — Outro & Closing
-> Horrified by the evidence of her father's treachery, Camille quickly hides her discovery as Mathias returns. When you watch the episode, listen out for the expressions meaning 'let us see' and 'form'. You'll catch them now. See you next time.
+> Horrified by the evidence of her father's treachery, Camille quickly hides her discovery as Mathias returns. When you watch the episode, listen out for the expressions meaning 'let us see' and 'form'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À bientôt!*

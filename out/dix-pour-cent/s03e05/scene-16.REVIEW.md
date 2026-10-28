@@ -26,5 +26,5 @@
 | 12 | `noemie` (Noémie) | Je vous en prie, à tout à l'heure! | You are welcome, see you shortly! | adapted |
 
 ## Part 5 — Outro & Closing
-> Noemie keeps the agency functioning smoothly behind the scenes while party preparations swing into gear. When you watch the episode, listen out for the expressions meaning 'am looking for' and 'dear'. You'll catch them now. See you next time.
+> Noemie keeps the agency functioning smoothly behind the scenes while party preparations swing into gear. When you watch the episode, listen out for the expressions meaning 'am looking for' and 'dear'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *Bonne journée!*

@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 3
 SCENE = 2
 TITLE = "Gabriel négocie à l'accueil  (Begging the Receptionist)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "receptionniste": "emilie", "gabriel": "theo"}
-LABELS = {"receptionniste": "Réceptionniste", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'receptionniste': 'emilie', 'gabriel': 'theo'}
+LABELS = {'receptionniste': 'Réceptionniste', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "At the driving exam registration office, Gabriel Sarda desperately attempts to negotiate an early test date for Norman. With the film shoot fast approaching, every week counts, but the strict receptionist refuses to grant special treatment. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel tries to persuade the driving center receptionist."
 TRANSITION = "Now let's listen to Gabriel's tense discussion at the counter again at full speed."
-OUTRO = "The receptionist refuses to bend the rules for a celebrity client, reminding Gabriel that everyone must wait. Faced with a two-month delay, Gabriel must find another solution for Norman's role. Until next time."
-CLOSING = ("receptionniste", "Au revoir, monsieur.")
+OUTRO = "The receptionist refuses to bend the rules for a celebrity client, reminding Gabriel that everyone must wait. Faced with a two-month delay, Gabriel must find another solution for Norman's role. See you next time!"
+CLOSING = ('receptionniste', 'Au revoir, monsieur.')
 STORY = [
     ('receptionniste', "Il n'y a rien de disponible pour avril.", 'There is nothing available for April.', [(32, 'Rien de disponible pour avril.')], ''),
     ('receptionniste', 'La prochaine date est le seize juin.', 'The next date is June sixteenth.', [(35, 'Le 16 juin.')], ''),

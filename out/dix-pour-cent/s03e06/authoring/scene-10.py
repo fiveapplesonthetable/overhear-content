@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 6
 SCENE = 10
 TITLE = "Les cartons de Sophia  (Sophia's Boxes)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "Gabriel arrives at Sophia Leprince's apartment intending to discuss agency business. Instead, he discovers her packing moving boxes to return to her parents' home after months without work, sparking an emotional confrontation between former partners. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Sophia and Gabriel lay bare their mutual wounds, discovering that both are on the brink of losing everything. When you watch the episode, listen out for the expressions meaning 'prepare' and 'cardboard boxes'. You'll catch them now. See you next time."
-CLOSING = ("sofia", "Bonne journée!")
+OUTRO = "Sophia and Gabriel lay bare their mutual wounds, discovering that both are on the brink of losing everything. When you watch the episode, listen out for the expressions meaning 'prepare' and 'cardboard boxes'. You'll catch them now. See you next time!"
+CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('gabriel', 'Salut Sophia, tu prépares tes cartons?', 'Hi Sophia, are you packing your boxes?', [(494, 'Tu déménages ?')], ''),
     ('sofia', 'Je retourne vivre chez mes parents, Gabriel.', 'I am returning to live with my parents, Gabriel.', [(497, 'Je retourne à Vitry-sur-Seine, habiter chez mes parents.')], ''),

@@ -28,5 +28,5 @@
 | 14 | `gabriel` (Gabriel) | Fais-lui un café. | Make her a coffee. | 24:Fais-lui un café |
 
 ## Part 5 — Outro & Closing
-> A forgotten letter and a crisis meeting: not a good start to the week. If it felt fast, that's normal; the key lines will stand out when you watch. See you next time.
+> A forgotten letter and a crisis meeting: not a good start to the week. If it felt fast, that's normal; the key lines will stand out when you watch. See you next time!
 - **Closing**: `lea`: *À bientôt!*

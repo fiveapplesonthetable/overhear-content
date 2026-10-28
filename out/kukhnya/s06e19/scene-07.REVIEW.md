@@ -17,11 +17,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Гуля | У нас дома так принято. | That is the custom for us at home. | #110 00:07:45: У нас так принято | adapted: adapted |
 | 6 | Гуля | Прости меня, пожалуйста, за всё. | Forgive me, please, for everything. | #111 00:07:50: прости меня за всё | adapted: adapted |
 | 7 | Лёва | Я предложил ей сегодня уехать. | I offered to run away with her today. | #113 00:07:58: я предложил ей уехать | adapted: adapted |
-| 8 | Аня | Да забудь ты про неё! | Just forget about her! | #114 00:08:01: Да забудь ты её | adapted: adapted |
+| 8 | Лёва | Да забудь ты про неё! | Just forget about her! | #114 00:08:01: Да забудь ты её | adapted: adapted |
 | 9 | Лёва | Сейчас Настя уйдёт из дома. | Nastya will leave the house right now. | #115 00:08:07: Сейчас Настя уйдёт | adapted: adapted |
 | 10 | Лёва | И мы с тобой поговорим. | And you and I will have a talk. | #116 00:08:10: Мы с тобой поговорим | adapted: adapted |
-| 11 | Аня | Всё, я побежала на девичник. | That is it, I am running off to the bachelorette party. | #117 00:08:16: Всё, я побежала на девичник | adapted: adapted |
-| 12 | Аня | Вы тут много не пейте. | Do not drink too much here. | #118 00:08:19: не пейте | adapted: adapted |
+| 11 | Лёва | Всё, я побежала на девичник. | That is it, I am running off to the bachelorette party. | #117 00:08:16: Всё, я побежала на девичник | adapted: adapted |
+| 12 | Лёва | Вы тут много не пейте. | Do not drink too much here. | #118 00:08:19: не пейте | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

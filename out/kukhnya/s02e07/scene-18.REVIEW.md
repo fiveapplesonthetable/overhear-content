@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Человека на улицу ты бессердешная, Настя. | Throwing a man out on the street—you are heartless, Nastya. | #284 00:19:27: Человека на улицу ты бессердешная, Настя | verbatim |
+| 1 | Настя | Человека на улицу ты бессердешная, Настя. | Throwing a man out on the street—you are heartless, Nastya. | #284 00:19:27: Человека на улицу ты бессердешная, Настя | verbatim |
 | 2 | Родион | Он вообще готовит аль денте. | He even cooks vegetables al dente. | #285 00:19:31: Он вообще готовит аль денте | verbatim |
-| 3 | Аня | И кашляет. | And he is still coughing. | #286 00:19:37: И кашляет | verbatim |
+| 3 | Настя | И кашляет. | And he is still coughing. | #286 00:19:37: И кашляет | verbatim |
 | 4 | Родион | Все бомжи кашляют. | All homeless people cough. | #287 00:19:39: Все бомжи кашляют | verbatim |
-| 5 | Аня | Ему вон уже петь хочется. | Look, he already feels like singing. | #288 00:19:42: Ему вон уже петь хочется | verbatim |
+| 5 | Настя | Ему вон уже петь хочется. | Look, he already feels like singing. | #288 00:19:42: Ему вон уже петь хочется | verbatim |
 | 6 | Родион | Так что, Родион Сергеевич, вам лучше уйти. | So really, Rodion Sergeyevich, it is best that you leave. | #289 00:19:45: Так что, Родион Сергеевич, вам лучше уйти | verbatim |
-| 7 | Аня | Понимаю, понимаете. | I understand, believe me. | #290 00:19:53: Понимаю, понимаете | verbatim |
+| 7 | Настя | Понимаю, понимаете. | I understand, believe me. | #290 00:19:53: Понимаю, понимаете | verbatim |
 | 8 | Родион | Ничто не вечно под луной. | Nothing lasts forever under the moon. | #291 00:19:56: Ничто не вечно под луной | verbatim |
-| 9 | Аня | И кровь. | And for the shelter. | #292 00:19:59: И кровь | verbatim |
+| 9 | Настя | И кровь. | And for the shelter. | #292 00:19:59: И кровь | verbatim |
 | 10 | Родион | Что вы здесь со мной. | That you shared with me here. | #293 00:20:03: Что вы здесь со мной | verbatim |
-| 11 | Аня | Секси мой. | Thank you from the bottom of my heart. | #293 00:20:03: Секси мой | verbatim |
+| 11 | Настя | Спасибо, что вы здесь со мной. | Thank you for being here with me. | #293 00:20:03: Что вы здесь со мной | adapted: adapted |
 | 12 | Родион | И жаль, что в путь иду. | And it is a pity that I set off on my way. | #294 00:20:09: И жаль, что в путь иду | verbatim |
-| 13 | Аня | Не с вами. | Without your company. | #295 00:20:12: Не с вами | verbatim |
+| 13 | Настя | Не с вами. | Without your company. | #295 00:20:12: Не с вами | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -34,8 +34,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So really, Rodion Sergeyevich, it is best that you leave.' Spoken Russian keeps this brisk, leaning on 'like this' and finishing on 'to leave'. Nastya answers right away.
 - 'I understand, believe me.' Here the Russian phrasing highlights 'understand' before landing on 'understand'.
 - 'Nothing lasts forever under the moon.' The grammar packs 'nothing' and 'the Moon' into a tight, idiomatic kitchen exchange.
-- 'And for the shelter.' Spoken Russian keeps this brisk, leaning on 'both' and finishing on 'blood'. Rodion answers right away.
+- 'And for the shelter.' Nastya centers this short reply on 'blood', letting a few direct words carry the whole meaning.
 - 'That you shared with me here.' The grammar packs 'what' and 'me' into a tight, idiomatic kitchen exchange.
-- 'Thank you from the bottom of my heart.' The meaning hinges on 'sex' working together with 'my' in spoken Russian.
+- 'Thank you for being here with me.' Nastya uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
 - 'And it is a pity that I set off on my way.' Notice how Russian expresses 'both' and 'going' with crisp inflection rather than helper words. Nastya answers right away.
 - 'Without your company.' In Russian, the idea of 'not' flows naturally into 'with you' without extra filler words.

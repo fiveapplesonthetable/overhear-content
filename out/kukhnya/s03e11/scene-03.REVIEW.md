@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Viktor, how glad I am to see you!' An emphatic spoken line centered on the verb meaning 'to see'.
-- 'This is my old friend from Paris.' In Russian, the idea of 'this' flows naturally into 'Paris' without extra filler words.
+- 'This is my old friend from Paris.' Chef Barinov pairs 'old' with 'friend' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'We used to work together for a long time.' The grammar packs 'we' and 'together' into a tight, idiomatic kitchen exchange.
 - 'When did you arrive? Let us go, you will tell me everything.' Chef Barinov brings out the contrast between 'you' and 'when' in a few short words. Katya answers right away.
 - 'Max, where did he come from here?' Notice how Russian expresses 'Max' and 'appeared' with crisp inflection rather than helper words.

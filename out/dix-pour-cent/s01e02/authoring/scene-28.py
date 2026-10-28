@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 2
 SCENE = 28
 TITLE = "Toute la famille est là  (The Whole Family's Here)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hippolyte": "theo", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"hippolyte": "Hippolyte", "camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'hippolyte': 'theo', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'hippolyte': 'Hippolyte', 'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "They arrived late, and Hippolyte's mother, Catherine, is scolding him for running through the cemetery. Camille doesn't know these people yet. In a minute she will, and she won't like what she finds out. Listen to it in French first; you don't need every word to feel the shock."
 OPENER = "Let's take it slowly. Hippolyte answers his mother, who is cross because he ran between the graves."
 TRANSITION = 'Now listen to the whole scene again.'
-OUTRO = "A family reunion that only two people understand. Notice how Camille switches between the polite 'you' and the casual one, depending on who's listening. Until next time."
-CLOSING = ("camille", "Salut!")
+OUTRO = "A family reunion that only two people understand. Notice how Camille switches between the polite 'you' and the casual one, depending on who's listening. See you next time!"
+CLOSING = ('camille', 'Salut!')
 STORY = [
     ('hippolyte', "Oui, j'ai couru dans le cimetière.", 'Yes, I ran in the cemetery.', [(776, "Oui, j'ai couru dans le cimetière")], ''),
     ('hippolyte', 'Voici Catherine, ma mère.', 'This is Catherine, my mother.', [(778, 'Voici Catherine, ma mère')], ''),

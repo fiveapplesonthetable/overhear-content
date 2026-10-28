@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 6
-TITLE = "Garder Flora  (Watching Flora)"
-LEVEL = "A1 — débutant"
+TITLE = 'Garder Flora  (Watching Flora)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At their Paris apartment, Andrea Martel is caring for newborn Flora while worrying about star client Beatrice Dalle. Andrea tries to convince Colette to take over babysitting for the afternoon so she can visit the film set. Let's listen to their conversation in French first."
 OPENER = "Let's examine how Andrea and Colette negotiate parenting and career demands line by line."
 TRANSITION = "Now let's listen to the domestic conversation once more to solidify your understanding."
-OUTRO = "That's it for this scene around watching flora. When you watch the episode, listen out for the expressions meaning 'have not' and 'eaten'. You'll catch them now. See you next time."
-CLOSING = ("colette", "Bonne journée!")
+OUTRO = "That's it for this scene around watching flora. When you watch the episode, listen out for the expressions meaning 'have not' and 'eaten'. You'll catch them now. See you next time!"
+CLOSING = ('colette', 'Bonne journée!')
 STORY = [
     ('lea', "Je n'ai rien mangé de la matinée.", 'I have not eaten anything all morning.', [(121, "J'ai rien bouffé de la matinée")], ''),
     ('lea', 'Tu pourrais garder Flora cet après-midi?', 'Could you watch Flora this afternoon?', [(122, 'tu pourrais pas garder Flora, cet après-midi ?')], ''),

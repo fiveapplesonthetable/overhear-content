@@ -29,5 +29,5 @@
 | 15 | `herve` (Hervé) | Viens au théâtre avec moi pour penser à autre chose. | Come to the theater with me to think about something else. | 554:spectacle de théâtre |
 
 ## Part 5 — Outro & Closing
-> At ASK, Herve offers Noemie a theater ticket, only to find her daydreaming about her past lover Philippe. When you watch the episode, listen out for the expressions meaning 'would be' and 'free'. You'll catch them now. See you next time.
+> At ASK, Herve offers Noemie a theater ticket, only to find her daydreaming about her past lover Philippe. When you watch the episode, listen out for the expressions meaning 'would be' and 'free'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *Bonne journée!*

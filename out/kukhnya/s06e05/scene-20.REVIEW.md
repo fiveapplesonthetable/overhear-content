@@ -16,12 +16,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Настя | Я его пригласила, он и приехал. | I invited him, and so he came. | #309 00:22:31: Я его пригласил, он и приехал | adapted: adapted |
 | 5 | Настя | Мы тебе хороший сюрприз хотели сделать. | We wanted to give you a nice surprise. | #310 00:22:34: Мы тебе сюрприз хотели сделать | adapted: adapted |
 | 6 | Настя | Костик, он вообще-то твоя родная семья. | Kostik, he is actually your own family. | #311 00:22:36: Костик, он вообще-то твоя семья | adapted: adapted |
-| 7 | Аня | Этот человек бросил нас с мамой. | This man abandoned my mother and me. | #312 00:22:40: человек бросил нас с мамой | adapted: adapted |
-| 8 | Аня | А теперь он вдруг снова объявился! | And now he suddenly showed up again! | #313 00:22:46: А теперь объявился вдруг | adapted: adapted |
-| 9 | Аня | О таких сюрпризах заранее предупреждать надо. | You need to warn people in advance about such surprises. | #315 00:22:50: О таких вот сюрпризах предупреждать надо | adapted: adapted |
-| 10 | Катя | В итоге я приготовила ужин тебе. | In the end I cooked dinner for you. | #316 00:23:00: В итоге я приготовила молекулярный сет, получается, тебе | adapted: adapted |
-| 11 | Катя | Короче говоря, меня просто подставили. | In short, they simply set me up. | #317 00:23:03: Короче говоря, меня подставили | adapted: adapted |
-| 12 | Аня | Я собирался пригласить тебя на ужин. | I was going to invite you to dinner anyway. | #318 00:23:05: я все равно собирался пригласить тебя на ужин | adapted: adapted |
+| 7 | Костя | Этот человек бросил нас с мамой. | This man abandoned my mother and me. | #312 00:22:40: человек бросил нас с мамой | adapted: adapted |
+| 8 | Костя | А теперь он вдруг снова объявился! | And now he suddenly showed up again! | #313 00:22:46: А теперь объявился вдруг | adapted: adapted |
+| 9 | Костя | О таких сюрпризах заранее предупреждать надо. | You need to warn people in advance about such surprises. | #315 00:22:50: О таких вот сюрпризах предупреждать надо | adapted: adapted |
+| 10 | Настя | В итоге я приготовила ужин тебе. | In the end I cooked dinner for you. | #316 00:23:00: В итоге я приготовила молекулярный сет, получается, тебе | adapted: adapted |
+| 11 | Настя | Короче говоря, меня просто подставили. | In short, they simply set me up. | #317 00:23:03: Короче говоря, меня подставили | adapted: adapted |
+| 12 | Костя | Я собирался пригласить тебя на ужин. | I was going to invite you to dinner anyway. | #318 00:23:05: я все равно собирался пригласить тебя на ужин | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -31,8 +31,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I invited him, and so he came.' The meaning hinges on 'I' working together with 'came' in spoken Russian.
 - 'We wanted to give you a nice surprise.' The plural past ending '-li' on the verb for 'wanted' covers a group or the polite 'you'.
 - 'Kostik, he is actually your own family.' Nastya brings out the contrast between 'he' and 'actually' in a few short words.
-- 'This man abandoned my mother and me.' In Russian, the idea of 'this' flows naturally into 'Mum' without extra filler words.
-- 'And now he suddenly showed up again!' Notice the reflexive suffix on the verb meaning 'showed up', turning the action back on the subject.
+- 'This man abandoned my mother and me.' Here Kostya anchors the thought on 'man' and finishes on 'Mum', keeping the spoken rhythm brisk and natural.
+- 'And now he suddenly showed up again!' In everyday Russian, 'now' flows straight into 'showed up / appeared' without extra linking words.
 - 'You need to warn people in advance about such surprises.' Kostya brings out the contrast between 'about' and 'such' in a few short words.
 - 'In the end I cooked dinner for you.' The meaning hinges on 'result' working together with 'to you' in spoken Russian.
 - 'In short, they simply set me up.' Notice how Russian expresses 'long story short' and 'set up' with crisp inflection rather than helper words. Kostya answers right away.

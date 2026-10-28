@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 2
 SCENE = 3
 TITLE = "En route pour l'audition  (On the Way to the Audition)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "At the ASK reception desk, Gabriel greets his client Sofia Leprince as they prepare for an important casting call. With the audition appointment only minutes away, Sofia asks anxious questions about her character and the script. Let's listen to their conversation in French first."
 OPENER = "Let's examine how Gabriel prepares Sofia for her casting session."
 TRANSITION = "Now let's listen to their conversation in the lobby again without pausing."
-OUTRO = 'Gabriel rushes Sofia to the casting appointment despite her doubts about the script. next time, Sofia will have to face a demanding casting director.'
-CLOSING = ("sofia", "À demain!")
+OUTRO = 'Gabriel rushes Sofia to the casting appointment despite her doubts about the script. See you next time!'
+CLOSING = ('sofia', 'À demain!')
 STORY = [
     ('sofia', 'Bonjour Gabriel, désolée pour mon retard.', 'Hello Gabriel, sorry for my delay.', [(105, 'Bonjour.'), (110, 'Au fait, désolée pour ça.')], ''),
     ('gabriel', 'Pose ton sac, on y va!', 'Put your bag down, let', [(111, 'Pose ton sac, on y va.')], ''),

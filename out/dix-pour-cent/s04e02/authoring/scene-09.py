@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 2
 SCENE = 9
 TITLE = "L'attente au café  (Waiting at the Café)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "serveur": "marcel"}
-LABELS = {"lea": "Andréa", "serveur": "Le serveur"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'serveur': 'marcel'}
+LABELS = {'lea': 'Andréa', 'serveur': 'Le serveur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Sitting anxiously at a bistro table, Andrea waits for her important meeting with iconic actress Nathalie Baye. When she orders another coffee, a playful waiter teases her with celebrity lookalikes until an urgent phone call reveals that Mathias has diverted Nathalie to ASK. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Andrea races out of the cafe after realizing Mathias has intercepted Nathalie Baye. When you watch the episode, listen out for the expressions meaning 'excuse me' and 'madam'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "Andrea races out of the cafe after realizing Mathias has intercepted Nathalie Baye. When you watch the episode, listen out for the expressions meaning 'excuse me' and 'madam'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('lea', 'Pardon monsieur, excusez-moi.', 'Pardon sir, excuse me.', [(449, 'Pardon, excusez-moi.')], ''),
     ('serveur', 'Oui madame, que désirez-vous?', 'Yes madam, what would you like?', [(450, 'Bien sûr.')], ''),

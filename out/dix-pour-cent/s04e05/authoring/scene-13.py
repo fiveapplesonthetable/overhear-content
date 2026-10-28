@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 13
-TITLE = "La virée en ville  (The Night Out)"
-LEVEL = "A1 — débutant"
+TITLE = 'La virée en ville  (The Night Out)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sigourney": "emilie", "lea": "lucie"}
-LABELS = {"sigourney": "Sigourney", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'sigourney': 'emilie', 'lea': 'lucie'}
+LABELS = {'sigourney': 'Sigourney', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Sigourney Weaver and Arlette realize that Bernard will not be joining them for their highly anticipated night out. Let's listen to their conversation. Let's listen to the whole story in French first — don't worry about catching every word."
 OPENER = "Let's walk through it."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the night out, and for the words meaning 'left' and 'think'. You'll catch them now. See you next time."
-CLOSING = ("sigourney", "Au revoir.")
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the night out, and for the words meaning 'left' and 'think'. You'll catch them now. See you next time!"
+CLOSING = ('sigourney', 'Au revoir.')
 STORY = [
     ('sigourney', 'Bernard est parti?', 'Did Bernard leave?', [(633, 'Bernard est parti')], ''),
     ('lea', 'Oui, je crois.', 'Yes, I think so.', [], ''),

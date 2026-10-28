@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 6
-TITLE = "Une invitation aux Césars  (An Invitation to the Césars)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une invitation aux Césars  (An Invitation to the Césars)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "herve": "marcel"}
-LABELS = {"camille": "Camille", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "The name he gave was Camille Valentini. Then Camille caught him hovering by her desk, and he mumbled that he was looking for a script. Now Noémie and Hervé spot what Camille has got: an invitation to the Césars, the French film awards. We'll hear it in French first; don't worry about the details."
 OPENER = "Let's go back through it. Noémie sees the card first, and she can hardly believe her eyes."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Camille has a ticket to the Césars, and two very jealous colleagues. If you heard the helper verb with the past forms, you've learned something you'll use every day. See you next time."
-CLOSING = ("camille", "À bientôt!")
+OUTRO = "Camille has a ticket to the Césars, and two very jealous colleagues. If you heard the helper verb with the past forms, you've learned something you'll use every day. See you next time!"
+CLOSING = ('camille', 'À bientôt!')
 STORY = [
     ('herve', 'Une invitation aux Césars!', 'An invitation to the Césars!', [(119, 'Une invitation aux Césars !')], ''),
     ('herve', "Moi, je n'ai pas eu d'invitation.", 'I didn', [(120, 'Moi')], ''),

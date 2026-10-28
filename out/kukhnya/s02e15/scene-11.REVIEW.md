@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'They advertise plenty of remedies during the commercial breaks.' Spoken Russian keeps this brisk, leaning on 'there' and finishing on 'advise'.
 - 'I do not need pills!' Max brings out the contrast between 'yes' and 'for me' in a few short words.
 - 'I told you she would never agree to do it here.' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'to agree'. Max answers right away.
-- 'What about inviting her to your home?' The grammar packs 'and' and 'to invite' into a tight, idiomatic kitchen exchange.
+- 'What about inviting her to your home?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'Send your mother where?' Kostya brings out the contrast between 'where to' and 'to send' in a few short words.
 - 'To the cinema or the ballet, there you go.' In Russian, the idea of 'the cinema' flows naturally into 'there you go' without extra filler words. Kostya answers right away.
 - 'For the entire night?' In Russian, the idea of 'on' flows naturally into 'night' without extra filler words.

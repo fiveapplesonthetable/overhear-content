@@ -1,103 +1,48 @@
-ID = "kukhnya-s01e10-scene-27"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e10-scene-27.
+ID = 'kukhnya-s01e10-scene-27'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 27
 TITLE = "В кабинете шефа  (In the Chef's Office)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Макс", "chef": "Шеф"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.10"
-SOURCE_FILE = "sources/kukhnya/s01/e10.ru.dual.srt"
-SOURCE_NOTE = (
-    "Cues 189-201. Inside his office, Chef Viktor sternly confronts Max about Victoria's situation, "
-    "warning him of her demanding family and forbidding him from fleeing back to Voronezh."
-)
-
-INTRO = (
-    "Behind closed doors in his private office, Chef Viktor Petrovich confronts Max about "
-    "Victoria. Drawing on his own painful past experience with her family, the veteran chef "
-    "scolds the panicked young cook and strictly forbids him from running away to Voronezh. "
-    "Let us listen to their heated exchange in Russian first."
-)
-
-STORY = [
-    ("chef", "Вот это ты сильно попал, парень.",
-     "Now you are in deep trouble, lad.",
-     [(189, "Вот это ты попал")], "adapted"),
-    ("anya", "Шеф, поверьте, так случайно получилось.",
-     "Chef, believe me, it just happened accidentally.",
-     [(192, "Шеф, так получилось")], "adapted"),
-    ("chef", "Надо было заранее думать головой.",
-     "You had to think with your head in advance.",
-     [(190, "Надо было как-то думать")], "adapted"),
-    ("anya", "Что же мне теперь делать?",
-     "What am I to do now?",
-     [], "new"),
-    ("chef", "Их семья теперь не отстанет от тебя.",
-     "Their family will not leave you alone now.",
-     [(194, "Теперь они с тебя")], "adapted"),
-    ("anya", "Вы так хорошо знаете эту семью?",
-     "Do you know this family so well?",
-     [], "new"),
-    ("chef", "Я сам раньше жил в этой семье.",
-     "I myself used to live in this family.",
-     [(196, "в их семье"), (198, "О себе")], "adapted"),
-    ("anya", "И они выгнали вас из дома?",
-     "And did they drive you out of the house?",
-     [(197, "Выжили")], "adapted"),
-    ("chef", "Они забрали у меня все силы.",
-     "They took all strength from me.",
-     [(195, "Все соки выжмут")], "adapted"),
-    ("anya", "Может, мне просто уехать в Воронеж?",
-     "Maybe I should just leave for Voronezh?",
-     [(199, "Может, обратно в Воронич свалить")], "adapted"),
-    ("chef", "Никуда ты сейчас не поедешь.",
-     "You will not go anywhere now.",
-     [(200, "Я тебе свалю")], "adapted"),
-    ("anya", "Но я очень боюсь такой ответственности.",
-     "But I am very afraid of such responsibility.",
-     [], "new"),
-    ("chef", "Мужчина обязан отвечать за свои поступки.",
-     "A man is obliged to answer for his actions.",
-     [(201, "За свои поступки надо отвечать")], "adapted"),
-]
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
+SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
+INTRO = 'Behind closed doors in his private office, Chef Viktor Petrovich confronts Max about Victoria. Drawing on his own painful past experience with her family, the veteran chef scolds the panicked young cook and strictly forbids him from running away to Voronezh. Let us listen to their heated exchange in Russian first.'
 OPENER = "Now let us examine Viktor's firm life lecture to Max line by line."
-
-WALK = [
-    (0, None,
-     "'Now you are in deep trouble, lad.' -- Viktor bluntly tells Max that he is in a serious bind."),
-    (1, None,
-     "'Chef, believe me, it just happened accidentally.' -- The young man tries to plead that it was an accident."),
-    (2, None,
-     "'You had to think with your head in advance.' -- The head chef scolds the cook for lack of foresight."),
-    (3, None,
-     "'What am I to do now?' -- Max feels desperate and seeks guidance."),
-    (4, None,
-     "'Their family will not leave you alone now.' -- Viktor warns that Victoria's relatives are relentless."),
-    (5, None,
-     "'Do you know this family so well?' -- The young cook asks about Viktor's familiarity with them."),
-    (6, None,
-     "'I myself used to live in this family.' -- Viktor reveals his own past history as Victoria's former relative."),
-    (7, None,
-     "'And did they drive you out of the house?' -- Max asks if the family forced Viktor away."),
-    (8, None,
-     "'They took all strength from me.' -- The chef describes how they drained his vitality."),
-    (9, None,
-     "'Maybe I should just leave for Voronezh?' -- The panicked cook contemplates running away to his hometown."),
-    (10, None,
-     "'You will not go anywhere now.' -- Viktor strictly forbids him from fleeing his obligations."),
-    (11, None,
-     "'But I am very afraid of such responsibility.' -- Max confesses his fear of adult commitment."),
-    (12, None,
-     "'A man is obliged to answer for his actions.' -- The veteran chef demands maturity and accountability."),
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "Faced with Viktor's strict refusal to let him run away, Max realizes that he cannot escape his responsibilities and must confront whatever lies ahead. Next time you watch the episode, listen for the Russian expressions for 'to be afraid' and 'to be' — you will catch every word right away. See you next time!"
+CLOSING = ("chef", "Пока!")
+STORY = [
+    ('chef', 'Вот это ты сильно попал, парень.', 'Now you are in deep trouble, lad.', [(189, 'Вот это ты попал')], ''),
+    ('anya', 'Шеф, поверьте, так случайно получилось.', 'Chef, believe me, it just happened accidentally.', [(192, 'Шеф, так получилось')], ''),
+    ('chef', 'Надо было заранее думать головой.', 'You had to think with your head in advance.', [(190, 'Надо было как-то думать')], ''),
+    ('anya', 'Что же мне теперь делать?', 'What am I to do now?', [], ''),
+    ('chef', 'Их семья теперь не отстанет от тебя.', 'Their family will not leave you alone now.', [(194, 'Теперь они с тебя')], ''),
+    ('anya', 'Вы так хорошо знаете эту семью?', 'Do you know this family so well?', [], ''),
+    ('chef', 'Я сам раньше жил в этой семье.', 'I myself used to live in this family.', [(196, 'в их семье'), (198, 'О себе')], ''),
+    ('anya', 'И они выгнали вас из дома?', 'And did they drive you out of the house?', [(197, 'Выжили')], ''),
+    ('chef', 'Они забрали у меня все силы.', 'They took all strength from me.', [(195, 'Все соки выжмут')], ''),
+    ('anya', 'Может, мне просто уехать в Воронеж?', 'Maybe I should just leave for Voronezh?', [(199, 'Может, обратно в Воронич свалить')], ''),
+    ('chef', 'Никуда ты сейчас не поедешь.', 'You will not go anywhere now.', [(200, 'Я тебе свалю')], ''),
+    ('anya', 'Но я очень боюсь такой ответственности.', 'But I am very afraid of such responsibility.', [], ''),
+    ('chef', 'Мужчина обязан отвечать за свои поступки.', 'A man is obliged to answer for his actions.', [(201, 'За свои поступки надо отвечать')], ''),
 ]
-
-TRANSITION = "Now let us listen to the serious conversation between Viktor and Max again."
-OUTRO = (
-    "Faced with Viktor's strict refusal to let him run away, Max realizes that he cannot "
-    "escape his responsibilities and must confront whatever lies ahead."
-)
-CLOSING = ("chef", "Мужчина обязан отвечать за свои поступки.")
+WALK = [
+    (0, None, "'Now you are in deep trouble, lad.' Chef Barinov puts the word for 'badly' together with 'got into trouble' and 'lad' in a crisp, natural spoken turn of phrase."),
+    (1, None, "'Chef, believe me, it just happened accidentally.' Max leads with the direct command form meaning 'believe me', pairing it with 'so' and 'accidentally'."),
+    (2, None, "'You had to think with your head in advance.' The phrasing opens with 'it was necessary' before bringing in 'was' and 'in advance' to make the point clear."),
+    (3, None, "'What am I to do now?' Max expresses this naturally by combining the word for 'now' with 'to do'."),
+    (4, None, "'Their family will not leave you alone now.' Chef Barinov puts the word for 'family' together with 'now' and 'will leave alone' in a crisp, natural spoken turn of phrase."),
+    (5, None, "'Do you know this family so well?' Max turns a statement into a question purely through rising intonation on the word meaning 'so', pairing it with 'well' and 'know'."),
+    (6, None, "'I myself used to live in this family.' The phrasing opens with 'earlier' before bringing in 'lived' and 'family' to make the point clear."),
+    (7, None, "'And did they drive you out of the house?' Max turns a statement into a question purely through rising intonation on the word meaning 'threw out', followed by 'house'."),
+    (8, None, "'They took all strength from me.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'took away' and 'forces'."),
+    (9, None, "'Maybe I should just leave for Voronezh?' Max turns a statement into a question purely through rising intonation on the word meaning 'maybe', pairing it with 'simply' and 'to leave'."),
+    (10, None, "'You will not go anywhere now.' The phrasing opens with 'nowhere' before bringing in 'now' and 'will go' to make the point clear."),
+    (11, None, "'But I am very afraid of such responsibility.' Max expresses this naturally by combining the word for 'very' with 'fear' and 'responsibility'."),
+    (12, None, "'A man is obliged to answer for his actions.' Chef Barinov puts the word for 'man' together with 'obliged' and 'to answer' in a crisp, natural spoken turn of phrase."),
+]

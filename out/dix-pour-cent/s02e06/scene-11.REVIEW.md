@@ -29,5 +29,5 @@
 | 15 | `technicien` (Le technicien) | Très bien, elle est opérationnelle. | Very good, it is operational. | 246:Bien, 259:Elle est opérationnelle. |
 
 ## Part 5 — Outro & Closing
-> Juliette Binoche rehearses her Cannes opening speech under the guidance of a sound technician. Through a hidden wireless earpiece, she learns to receive prompting smoothly without breaking character. Until next time.
+> Juliette Binoche rehearses her Cannes opening speech under the guidance of a sound technician. Through a hidden wireless earpiece, she learns to receive prompting smoothly without breaking character. See you next time!
 - **Closing**: `technicien`: *Bonne journée!*

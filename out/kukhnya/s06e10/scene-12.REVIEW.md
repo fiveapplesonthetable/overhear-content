@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нагиев | Здравствуй, Витя, как думаешь, простит меня жена? | Hello, Vitya, what do you think, will my wife forgive me? | #186 00:13:02: Здравствуй, Дима<br>#187 00:13:04: как думаешь, простит меня | adapted: adapted |
-| 2 | Аня | Это зависит от того, как стараться будешь. | That depends on how hard you try. | #188 00:13:07: Как стараться будешь | adapted: adapted |
+| 2 | Шеф | Это зависит от того, как стараться будешь. | That depends on how hard you try. | #188 00:13:07: Как стараться будешь | adapted: adapted |
 | 3 | Нагиев | Буду стараться, ведь век актёра совсем недолог. | I will try hard, because an actor's career is very short. | #188 00:13:07: Буду<br>#189 00:13:08: век недолог | adapted: adapted |
-| 4 | Аня | Сегодня ты звезда, а завтра выгонят с телевидения. | Today you are a star, and tomorrow they will kick you off television. | #190 00:13:13: Сегодня ты звезда | adapted: adapted |
-| 5 | Аня | А здесь четыре этажа и отличный ресторан. | And here there are four floors and an excellent restaurant. | #191 00:13:16: четыре этажа обеспеченной старости, плюс ресторан | adapted: adapted |
+| 4 | Шеф | Сегодня ты звезда, а завтра выгонят с телевидения. | Today you are a star, and tomorrow they will kick you off television. | #190 00:13:13: Сегодня ты звезда | adapted: adapted |
+| 5 | Шеф | А здесь четыре этажа и отличный ресторан. | And here there are four floors and an excellent restaurant. | #191 00:13:16: четыре этажа обеспеченной старости, плюс ресторан | adapted: adapted |
 | 6 | Нагиев | Скажи, она сейчас у себя в кабинете? | Tell me, is she in her office right now? | #193 00:13:23: У себя | adapted: adapted |
-| 7 | Аня | Нет, она как раз недавно поужинать вышла. | No, she just recently came out to have dinner. | #193 00:13:23: Нет, твоя счастливая старость как раз поужинать вышла | adapted: adapted |
-| 8 | Аня | Элечка, приятного аппетита, у меня для тебя сюрприз. | Elechka, enjoy your meal, I have a surprise for you. | #195 00:13:39: Элечка, приятного аппетита<br>#196 00:13:41: А у меня для тебя сюрприз | adapted: adapted |
-| 9 | Элеонора | Если снова увижу санитаров, ударю тебя бутылкой! | If I see orderlies again, I will hit you with a bottle! | #197 00:13:45: Увижу санитаров | adapted: adapted |
-| 10 | Аня | Нет, я Диму позвал, он мириться приехал. | No, I called Dima, he came to make peace. | #199 00:13:49: Я Диму позвал<br>#200 00:13:51: Он мириться приехал | adapted: adapted |
-| 11 | Элеонора | Какого ещё Диму ты сюда ко мне позвал? | What Dima did you call here to see me? | #201 00:13:53: Какого, Дима | adapted: adapted |
-| 12 | Аня | Твоего мужа Нагиева, вот он идёт к нам! | Your husband Nagiyev, here he comes toward us! | #203 00:13:58: Вот он, красавец | adapted: adapted |
+| 7 | Шеф | Нет, она как раз недавно поужинать вышла. | No, she just recently came out to have dinner. | #193 00:13:23: Нет, твоя счастливая старость как раз поужинать вышла | adapted: adapted |
+| 8 | Шеф | Элечка, приятного аппетита, у меня для тебя сюрприз. | Elechka, enjoy your meal, I have a surprise for you. | #195 00:13:39: Элечка, приятного аппетита<br>#196 00:13:41: А у меня для тебя сюрприз | adapted: adapted |
+| 9 | Нагиев | Если снова увижу санитаров, ударю тебя бутылкой! | If I see orderlies again, I will hit you with a bottle! | #197 00:13:45: Увижу санитаров | adapted: adapted |
+| 10 | Шеф | Нет, я Диму позвал, он мириться приехал. | No, I called Dima, he came to make peace. | #199 00:13:49: Я Диму позвал<br>#200 00:13:51: Он мириться приехал | adapted: adapted |
+| 11 | Нагиев | Какого ещё Диму ты сюда ко мне позвал? | What Dima did you call here to see me? | #201 00:13:53: Какого, Дима | adapted: adapted |
+| 12 | Шеф | Твоего мужа Нагиева, вот он идёт к нам! | Your husband Nagiyev, here he comes toward us! | #203 00:13:58: Вот он, красавец | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

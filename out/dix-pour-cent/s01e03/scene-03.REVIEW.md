@@ -30,5 +30,5 @@
 | 16 | `mathias` (Mathias) | Quelle aventure! | What an adventure! | 85:Quelle aventure |
 
 ## Part 5 — Outro & Closing
-> So Gabriel's 'exclusive' script was in Mathias's hands too. Right after this, Gabriel accuses Mathias of using spies to get it, and Mathias calmly says that a mother and daughter on one poster is good for the whole agency. See you next time.
+> So Gabriel's 'exclusive' script was in Mathias's hands too. Right after this, Gabriel accuses Mathias of using spies to get it, and Mathias calmly says that a mother and daughter on one poster is good for the whole agency. See you next time!
 - **Closing**: `mathias`: *À demain!*

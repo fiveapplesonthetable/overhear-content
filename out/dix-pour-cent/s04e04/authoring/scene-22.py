@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 22
-TITLE = "Camille Valentini, je suis absente  (Camille Valentini, I am absent)"
-LEVEL = "A1 — débutant"
+TITLE = 'Camille Valentini, je suis absente  (Camille Valentini, I am absent)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "camille": "emilie"}
-LABELS = {"mathias": "Mathias", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Mathias realises his mistake. He wants to apologise to his daughter. He takes his phone and calls Camille. But she doesn't answer. We'll hear it in French first, don't worry about catching every word."
 OPENER = "Let's go back through it. Mathias calls Camille."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around camille valentini, i am absent, and for the words meaning 'to answer' and 'to please'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À bientôt.")
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around camille valentini, i am absent, and for the words meaning 'to answer' and 'to please'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À bientôt.')
 STORY = [
     ('mathias', 'Camille, réponds-moi.', 'Camille, answer me.', [], ''),
     ('mathias', "S'il te plaît, ma chérie.", 'Please, my darling.', [], ''),

@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Аня | Из говяжьего паштета. | Made with beef pate. | #18 00:02:33: из говяжьего паштета | verbatim |
 | 4 | Вика | Но без говяжьего паштета. | Only without the beef pate. | #19 00:02:38: но без говяжьего паштета | verbatim |
 | 5 | Аня | А, ну, отнеси ему, пусть ест. | Oh, well, take it out to him and let him eat. | #19 00:02:38: А, ну, отнеси ему, пусть ест | verbatim |
-| 6 | Вика | Потому что я такой фигней заниматься не буду. | Because I am not going to bother with that nonsense. | #20 00:02:41: потому что я такой фигней заниматься не буду | verbatim |
+| 6 | Вика | Потому что я такой ерундой заниматься не буду. | Because I am not going to bother with such nonsense. | #20 00:02:41: потому что я такой<br>#20 00:02:41: заниматься не буду | adapted: adapted |
 | 7 | Аня | Или, может, ты можешь котлеты сделать из огурцов? | Or maybe you can make cutlets out of cucumbers? | #21 00:02:43: Или, может, ты можешь котлеты сделать из огурцов | verbatim |
 | 8 | Вика | Максим, приготовишь рулетики? | Maksim, will you make the rolls? | #22 00:02:48: Максим, приготовишь рулетики | verbatim |
 | 9 | Аня | Ну, пожалуйста. | Oh, please. | #23 00:02:51: Ну, пожалуйста | verbatim |
@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Made with beef pate.' Max anchors the line on 'out of', while 'pâté' completes the thought.
 - 'Only without the beef pate.' In Russian, the idea of 'but' flows naturally into 'pâté' without extra filler words. Max answers right away.
 - 'Oh, well, take it out to him and let him eat.' Here the Russian phrasing highlights 'and' before landing on 'eats'.
-- 'Because I am not going to bother with that nonsense.' In Russian, the idea of 'because' flows naturally into 'will' without extra filler words.
+- 'Because I am not going to bother with such nonsense.' In everyday Russian, 'because' flows straight into 'will be' without extra linking words.
 - 'Or maybe you can make cutlets out of cucumbers?' Here the Russian phrasing highlights 'or' before landing on 'cucumber'. Vika answers right away.
 - 'Maksim, will you make the rolls?' The grammar packs 'Maxim' and 'little roll' into a tight, idiomatic kitchen exchange.
 - 'Oh, please.' The meaning hinges on 'come on' working together with 'there you go' in spoken Russian.

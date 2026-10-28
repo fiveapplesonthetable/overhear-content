@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 2
 SCENE = 25
 TITLE = "Le départ de Gabriel  (Gabriel's Departure)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "lea": "lucie"}
-LABELS = {"sofia": "Sofia", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'lea': 'lucie'}
+LABELS = {'sofia': 'Sofia', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "In the quiet agency hall, Camille breaks the news to Sofia that Gabriel has just left with Sarah. Sofia hides her heartbreak behind polite smiles as the night closes. Let's listen to the scene in French first."
 OPENER = "Let's examine how Sofia reacts to the painful news of Gabriel's departure line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Confronted with the reality that Gabriel has moved on with Sarah, Sofia masks her sorrow with quiet dignity and heads home alone into the Paris night as the episode concludes. When you watch the episode, listen out for the expressions meaning 'comes' and 'leave'. You'll catch them now. See you next time."
-CLOSING = ("sofia", "Au revoir!")
+OUTRO = "Confronted with the reality that Gabriel has moved on with Sarah, Sofia masks her sorrow with quiet dignity and heads home alone into the Paris night as the episode concludes. When you watch the episode, listen out for the expressions meaning 'comes' and 'leave'. You'll catch them now. See you next time!"
+CLOSING = ('sofia', 'Au revoir!')
 STORY = [
     ('lea', 'Il vient de partir avec Sarah.', 'He just left with Sarah.', [(1104, 'vient de partir avec Sarah')], ''),
     ('lea', 'Ils sont allés à Saint-Ouen ensemble.', 'They went to Saint-Ouen together.', [(1104, 'vient de partir avec Sarah')], ''),

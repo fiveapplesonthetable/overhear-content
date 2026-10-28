@@ -1,89 +1,46 @@
-ID = "kukhnya-s01e15-scene-09"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e15-scene-09.
+ID = 'kukhnya-s01e15-scene-09'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 15
 SCENE = 9
 TITLE = "Без Макса  (Without Max)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "leva": "anja"}
-LABELS = {'anya': 'Сеня', 'leva': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S1.15"
-SOURCE_FILE = "sources/kukhnya/s01/e15.ru.dual.srt"
-SOURCE_NOTE = "Cues."
-
-INTRO = (
-    "In the kitchen, the cooks are enjoying a rare moment of peace and quiet. Senya notes how great the atmosphere is today, and Fedya quickly points out the reason. Let us listen to their conversation in Russian first."
-)
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
+LABELS = {"fedya": "Федя", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
+SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
+INTRO = 'In the kitchen, the cooks are enjoying a rare moment of peace and quiet. Senya notes how great the atmosphere is today, and Fedya quickly points out the reason. Let us listen to their conversation in Russian first.'
+OPENER = 'Now let us examine the conversation line by line.'
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "In the kitchen, the cooks are enjoying a rare moment of peace and quiet. Senya notes how great the atmosphere is today, and Fedya quickly points out the reason. Next time you watch the episode, listen for the Russian expressions for 'to think' and 'great' — you will catch every word right away. See you next time!"
+CLOSING = ("fedya", "Пока!")
 STORY = [
-    ("anya", "Я не думал, что тут так классно.",
-     "I didn't think it was so great here.",
-     [(170, 'Я не думал, что на кухне так классно.')], "adapted"),
-    ("leva", "Везде классно, когда нет Макса.",
-     "It is great everywhere when there is no Max.",
-     [(171, 'Без Макса везде классно.')], "adapted"),
-    ("anya", "Да, сегодня очень тихо.",
-     "Yes, it is very quiet today.",
-     [], "new"),
-    ("leva", "Нам надо работать.",
-     "We need to work.",
-     [], "new"),
-    ("anya", "Я просто отдыхаю.",
-     "I am just resting.",
-     [], "new"),
-    ("leva", "Шеф может прийти.",
-     "The chef can come.",
-     [], "new"),
-    ("anya", "Шеф сейчас занят.",
-     "The chef is busy now.",
-     [], "new"),
-    ("leva", "Всё равно, давай работать.",
-     "Anyway, let's work.",
-     [], "new"),
-    ("anya", "Хорошо, я иду.",
-     "Good, I am coming.",
-     [], "new"),
-    ("leva", "Где мой нож?",
-     "Where is my knife?",
-     [], "new"),
-    ("anya", "Он на столе.",
-     "It is on the table.",
-     [], "new"),
-    ("leva", "Спасибо, я вижу.",
-     "Thank you, I see it.",
-     [], "new"),
+    ('senya', 'Я не думал, что тут так классно.', "I didn't think it was so great here.", [(170, 'Я не думал, что на кухне так классно.')], ''),
+    ('fedya', 'Везде классно, когда нет Макса.', 'It is great everywhere when there is no Max.', [(171, 'Без Макса везде классно.')], ''),
+    ('senya', 'Да, сегодня очень тихо.', 'Yes, it is very quiet today.', [], ''),
+    ('fedya', 'Нам надо работать.', 'We need to work.', [], ''),
+    ('senya', 'Я просто отдыхаю.', 'I am just resting.', [], ''),
+    ('fedya', 'Шеф может прийти.', 'The chef can come.', [], ''),
+    ('senya', 'Шеф сейчас занят.', 'The chef is busy now.', [], ''),
+    ('fedya', 'Всё равно, давай работать.', "Anyway, let's work.", [], ''),
+    ('senya', 'Хорошо, я иду.', 'Good, I am coming.', [], ''),
+    ('fedya', 'Где мой нож?', 'Where is my knife?', [], ''),
+    ('senya', 'Он на столе.', 'It is on the table.', [], ''),
+    ('fedya', 'Спасибо, я вижу.', 'Thank you, I see it.', [], ''),
 ]
-
-OPENER = "Now let us examine the conversation line by line."
-
 WALK = [
-    (0, None,
-     "'I didn't think it was so great here.' The key word here means 'I', which Senya combines with 'thought'. Fedya answers straight away."),
-    (1, None,
-     "'It is great everywhere when there is no Max.' Fedya puts 'everywhere' up front so the listener immediately catches the tone, followed by 'great'."),
-    (2, None,
-     "'Yes, it is very quiet today.' Here 'today' sets up the idea, while 'easy' comes at the end for emphasis."),
-    (3, None,
-     "'We need to work.' You'll hear 'us' all the time in the show, here connected with 'to work'. Then Senya replies."),
-    (4, None,
-     "'I am just resting.' A compact expression built around 'I' and 'am resting'."),
-    (5, None,
-     "'The chef can come.' — Notice the proper name meaning 'chef, boss' paired with the verb for 'can'."),
-    (6, None,
-     "'The chef is busy now.' — Notice the proper name meaning 'chef, boss' paired with the adverb for 'now'."),
-    (7, None,
-     "'Anyway, let's work.' Fedya puts 'the same' up front so the listener immediately catches the tone, followed by 'let's'."),
-    (8, None,
-     "'Good, I am coming.' The key word here means 'good', which Senya combines with 'I'."),
-    (9, None,
-     "'Where is my knife?' In Russian, 'where' leads into 'knife' in a very natural everyday phrasing. Senya answers straight away."),
-    (10, None,
-     "'It is on the table.' Listen for the word meaning 'he' right alongside 'table' in this line."),
-    (11, None,
-     "'Thank you, I see it.' Notice the word order: 'thank you' comes first, and 'see' finishes the sentence."),
+    (0, None, "'I didn' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (1, None, "'It is great everywhere when there is no Max.' Russian omits the present-tense verb 'to be' here, linking 'everywhere' directly with 'great', combining 'everywhere' with 'great' and 'when'."),
+    (2, None, "'Yes, it is very quiet today.' Russian omits the present-tense verb 'to be' here, linking 'today' directly with 'very much', combining 'today' with 'very much' and 'easy'."),
+    (3, None, "'We need to work.' Fedya expresses this naturally by combining the word for 'it is necessary' with 'to work'."),
+    (4, None, "'I am just resting.' Senya puts the word for 'just' together with 'am resting' in a crisp, natural spoken turn of phrase."),
+    (5, None, "'The chef can come.' — Notice the proper name meaning 'chef, boss' paired with the verb for 'can'."),
+    (6, None, "'The chef is busy now.' — Notice the proper name meaning 'chef, boss' paired with the adverb for 'now'."),
+    (7, None, "'Anyway, let's work.' Fedya leads with the direct command form meaning 'let's', pairing it with 'the same' and 'to work'."),
+    (8, None, "'Good, I am coming.' Senya puts the word for 'good' together with 'going' in a crisp, natural spoken turn of phrase."),
+    (9, None, "'Where is my knife?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (10, None, "'It is on the table.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'table'."),
+    (11, None, "'Thank you, I see it.' Fedya expresses this naturally by combining the word for 'thank you' with 'see'."),
 ]
-
-TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around without max, and for the words meaning 'thought' and 'great'. You'll catch them now. See you next time."
-CLOSING = ("leva", "Спасибо, я вижу.")

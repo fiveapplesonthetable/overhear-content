@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e19-scene-01"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e19-scene-01'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 19
 SCENE = 1
-TITLE = 'Переделанный салат и вечное противостояние  (The Remade Salad and the Eternal Rivalry)'
+TITLE = "Переделанный салат и вечное противостояние  (The Remade Salad and the Eternal Rivalry)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.19"
-SOURCE_FILE = "sources/kukhnya/s02/e19.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
+SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 
 INTRO = 'Welcome to Kukhnya Season 2, Episode 19. Max introduces the age-old rivalry between the dining room and the kitchen as an older female guest complains that her salad has too much oil. Max simply stirs the same plate and sends it back out until Chef Barinov spots the trick.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 1 of Episode 19, listen out for the exchange around the remade salad and the eternal rivalry — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Вот сейчас переделаю.')
+OUTRO = 'That wraps up this scene as max describes the rivalry between the dining room and the kitchen as a fussy guest sends back an oily salad, which Max pretends to remake before Chef Barinov catches him. Until next time!'
+CLOSING = ("anya", "Пока!")

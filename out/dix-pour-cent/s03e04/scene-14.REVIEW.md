@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Franchement, nous n'avons pas le choix. | Frankly, we have no choice. | 837:on n'a pas le choix |
 
 ## Part 5 — Outro & Closing
-> Creative egos and impossible deadlines clash under the studio lights as agents scramble to save the day. When you watch the episode, listen out for the expressions meaning 'goes' and 'filming'. You'll catch them now. See you next time.
+> Creative egos and impossible deadlines clash under the studio lights as agents scramble to save the day. When you watch the episode, listen out for the expressions meaning 'goes' and 'filming'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

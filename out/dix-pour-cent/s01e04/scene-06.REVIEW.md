@@ -28,5 +28,5 @@
 | 14 | `mathias` (Mathias) | Ça n'a aucune importance! | That doesn | 191:Ça n'a aucune importance. |
 
 ## Part 5 — Outro & Closing
-> Audrey has a lot of tax bills to pay, and now Mathias wants her to play a stripper. Listen out for how French says 'surname' and 'that doesn't matter'. See you next time.
+> Audrey has a lot of tax bills to pay, and now Mathias wants her to play a stripper. Listen out for how French says 'surname' and 'that doesn't matter'. See you next time!
 - **Closing**: `audrey`: *Au revoir!*

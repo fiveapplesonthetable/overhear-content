@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e04-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 4
 SCENE = 19
-TITLE = 'Твой план, не наш  (Your Plan, Not Ours)'
+TITLE = "Твой план, не наш  (Your Plan, Not Ours)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.04'
 SOURCE_FILE = 'sources/kukhnya/s03/e04.ru.srt'
 
 INTRO = 'After the shift, Max finally sits down with Vika and lays out his grand plan for their life—getting married in two years and having children in five or six—without realizing why that hurts her.'
@@ -22,7 +22,7 @@ STORY = [
     ('anya', 'Дальше я встану на ноги, мы поженимся года через два.', 'Next I will get on my feet, we will get married in about two years.', [(278, 'я встану на ноги, мы поженимся')], 'adapted'),
     ('anya', 'Потом детей заведём лет через пять или шесть.', 'Then we will have kids in five or six years.', [(279, 'Потом детей заведем лет через пять')], 'adapted'),
     ('vika', 'Через пять или шесть?', 'In five or six?', [(280, 'шесть')], 'adapted'),
-    ('anya', 'Хочешь, можем ещё подождать. Поживём для себя, состаримся вместе и умрём в один день.', "If you want, we can wait even longer. We'll live for ourselves, grow old together, and die on the same day.", [(281, 'Хочешь, можем еще подождать'), (282, 'Поживем для себя, состаримся вместе и умрем в один день')], 'adapted'),
+    ('anya', 'Поживём для себя, состаримся вместе и умрём в один день.', 'We will live for ourselves, grow old together, and die on the same day.', [(282, 'Поживем для себя, состаримся вместе и умрем в один день')], 'adapted'),
     ('anya', 'И хочешь, я могу умереть первый! Ну что, нравится тебе мой план?', 'And if you want, I can die first! Well, do you like my plan?', [(283, 'И хочешь, я могу умереть первый'), (284, 'Ну что, нравится тебе мой план')], 'adapted'),
     ('vika', 'Хороший план, Макс.', 'It is a good plan, Max.', [(285, 'Хороший план, Макс')], ''),
     ('vika', 'Только это твой план, не наш.', 'Only that is your plan, not ours.', [(286, 'Только это твой план, не наш')], ''),
@@ -39,12 +39,12 @@ WALK = [
     (5, None, "'Next I will get on my feet, we will get married in about two years.' Spoken Russian keeps this brisk, leaning on 'further' and finishing on 'two'."),
     (6, None, "'Then we will have kids in five or six years.' Max anchors the line on 'then', while 'six' completes the thought."),
     (7, None, "'In five or six?' The grammar packs 'five' and 'six' into a tight, idiomatic kitchen exchange."),
-    (8, None, "'If you want, we can wait even longer. We'll live for ourselves, grow old together, and die on the same day.' Notice how Russian expresses 'want' and 'day' with crisp inflection rather than helper words."),
+    (8, None, "'We will live for ourselves, grow old together, and die on the same day.' In everyday Russian, 'will live for a while' flows straight into 'day' without extra linking words."),
     (9, None, "'And if you want, I can die first! Well, do you like my plan?' Notice how Russian expresses 'and' and 'plan' with crisp inflection rather than helper words."),
     (10, None, "'It is a good plan, Max.' Spoken Russian keeps this brisk, leaning on 'good' and finishing on 'Max'."),
     (11, None, "'Only that is your plan, not ours.' Vika addresses the listener with the informal singular 'you' alongside 'our'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Scene Nineteen. Notice the heartbreak in Vika's voice when Max casually suggests waiting five or six years to have children."
-CLOSING = ('vika', 'Это твой план, не наш!')
+OUTRO = "And that finishes Scene Nineteen. Notice the heartbreak in Vika's voice when Max casually suggests waiting five or six years to have children. Until next time!"
+CLOSING = ("vika", "Пока!")

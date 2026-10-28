@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Значит, ты считаешь меня некрасивой, понял? | So you think I am unattractive, got it? | #340 00:21:49: понял | adapted: adapted |
-| 2 | Аня | Алло, да, шеф, я вас слушаю. | Hello, yes, chef, I am listening to you. | #342 00:22:11: Да, шеф | adapted: adapted |
-| 3 | Аня | Ну хорошо, давайте я ей всё скажу. | Well alright, let me tell her everything. | #343 00:22:14: Ну, хорошо, давайте | adapted: adapted |
-| 4 | Аня | Здравствуйте, уважаемая Елена Павловна. | Hello, respected Elena Pavlovna. | #344 00:22:17: здрасте | adapted: adapted |
-| 5 | Аня | Я действительно ездил сдавать анализы вместо шефа. | I really did go take the medical tests in the chef's place. | #345 00:22:22: я действительно ездил сдавать анализы вместо Виктора Петровича | adapted: adapted |
-| 6 | Аня | Простите нас, пожалуйста, за этот обман. | Forgive us, please, for this deception. | #346 00:22:30: Простите | adapted: adapted |
-| 7 | Аня | Да, всего доброго, до свидания. | Yes, all the best, goodbye. | #347 00:22:32: Да, до свидания | adapted: adapted |
+| 1 | Лёва | Значит, ты считаешь меня некрасивой, понял? | So you think I am unattractive, got it? | #340 00:21:49: понял | adapted: adapted |
+| 2 | Лёва | Алло, да, шеф, я вас слушаю. | Hello, yes, chef, I am listening to you. | #342 00:22:11: Да, шеф | adapted: adapted |
+| 3 | Лёва | Ну хорошо, давайте я ей всё скажу. | Well alright, let me tell her everything. | #343 00:22:14: Ну, хорошо, давайте | adapted: adapted |
+| 4 | Лёва | Здравствуйте, уважаемая Елена Павловна. | Hello, respected Elena Pavlovna. | #344 00:22:17: здрасте | adapted: adapted |
+| 5 | Лёва | Я действительно ездил сдавать анализы вместо шефа. | I really did go take the medical tests in the chef's place. | #345 00:22:22: я действительно ездил сдавать анализы вместо Виктора Петровича | adapted: adapted |
+| 6 | Лёва | Простите нас, пожалуйста, за этот обман. | Forgive us, please, for this deception. | #346 00:22:30: Простите | adapted: adapted |
+| 7 | Лёва | Да, всего доброго, до свидания. | Yes, all the best, goodbye. | #347 00:22:32: Да, до свидания | adapted: adapted |
 | 8 | Гуля | Значит, ты ездил в больницу не из-за болезни? | So you did not go to the hospital because of an illness? | #348 00:22:38: ездил в больницу не потому, что болен | adapted: adapted |
-| 9 | Аня | Да нет, наоборот, у меня отличные анализы! | No, on the contrary, my test results are excellent! | #349 00:22:42: Да нет, наоборот, у меня очень хорошие анализы | adapted: adapted |
-| 10 | Аня | А почему ты вдруг об этом спросила? | And why did you suddenly ask about that? | #350 00:22:46: А что | adapted: adapted |
+| 9 | Лёва | Да нет, наоборот, у меня отличные анализы! | No, on the contrary, my test results are excellent! | #349 00:22:42: Да нет, наоборот, у меня очень хорошие анализы | adapted: adapted |
+| 10 | Лёва | А почему ты вдруг об этом спросила? | And why did you suddenly ask about that? | #350 00:22:46: А что | adapted: adapted |
 | 11 | Гуля | Да нет, ничего, всё очень хорошо. | Oh no, nothing, everything is very good. | #351 00:22:49: Да нет, ничего, все хорошо | adapted: adapted |
-| 12 | Аня | Какой же странный сегодня получился вечер! | What a strange evening it has turned out to be today! | #351 00:22:49: все хорошо | adapted: adapted |
+| 12 | Лёва | Какой же странный сегодня получился вечер! | What a strange evening it has turned out to be today! | #351 00:22:49: все хорошо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -16,12 +16,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Гость | Я выбрал новую мебель для ресторана. | I chose new furniture for the restaurant. | #135 00:09:29: А я выбрал новую мебель для ресторана | adapted: adapted |
 | 5 | Гость | С цветом никак не могу определиться. | I just cannot make up my mind about the color. | #136 00:09:32: С цветом не могу определиться | adapted: adapted |
 | 6 | Гость | Как считаешь, золотой не слишком? | What do you think, is gold not too much? | #137 00:09:34: Как считаешь, золотой не слишком | adapted: adapted |
-| 7 | Аня | Папа, ты позвал поговорить о стульях? | Dad, did you call me to talk about chairs? | #138 00:09:37: Пап, ты меня позвал поговорить о цвете стульев | adapted: adapted |
+| 7 | Гость | Папа, ты позвал поговорить о стульях? | Dad, did you call me to talk about chairs? | #138 00:09:37: Пап, ты меня позвал поговорить о цвете стульев | adapted: adapted |
 | 8 | Гость | Я позвал предложить тебе хорошую работу. | I called you to offer you a good job. | #139 00:09:40: я позвал тебя предложить тебе работу | adapted: adapted |
 | 9 | Гость | Хватит, ты мне уже всё доказал. | Enough, you have already proven everything to me. | #140 00:09:45: Ну, хватит, ты мне уже все доказал | adapted: adapted |
 | 10 | Гость | Возвращайся скорее домой, возьми ручку. | Come back home soon, take the pen. | #141 00:09:48: Возвращайся. На, вот | adapted: adapted |
 | 11 | Гость | Пиши себе любую хорошую зарплату. | Write down any good salary for yourself. | #142 00:09:52: Пиши зарплату | adapted: adapted |
-| 12 | Аня | Извини, я сейчас быстро отвечу. | Excuse me, I will answer quickly right now. | #143 00:09:58: Алло, да, извини, я сейчас | adapted: adapted |
+| 12 | Гость | Извини, я сейчас быстро отвечу. | Excuse me, I will answer quickly right now. | #143 00:09:58: Алло, да, извини, я сейчас | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Dad, did you call me to talk about chairs?' Nikita brings out the contrast between 'dad' and 'you' in a few short words. the guest answers right away.
 - 'I called you to offer you a good job.' The grammar packs 'I' and 'work' into a tight, idiomatic kitchen exchange.
 - 'Enough, you have already proven everything to me.' the guest anchors the line on 'enough', while 'to prove' completes the thought.
-- 'Come back home soon, take the pen.' Notice the reflexive suffix on the verb meaning 'return', turning the action back on the subject.
+- 'Come back home soon, take the pen.' Here the guest anchors the thought on 'return' and finishes on 'a pen', keeping the spoken rhythm brisk and natural.
 - 'Write down any good salary for yourself.' The meaning hinges on 'write' working together with 'salary' in spoken Russian.
 - 'Excuse me, I will answer quickly right now.' In Russian, the idea of 'sorry' flows naturally into 'will answer' without extra filler words.

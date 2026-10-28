@@ -25,5 +25,5 @@
 | 11 | `gabriel` (Gabriel) | C'est difficile de mélanger le travail et l'amour. | It is difficult to mix work and love. | 760:mélanger le travail et les sentiments, 762:Surtout avec mes clients |
 
 ## Part 5 — Outro & Closing
-> Colette walks away in tears, leaving Andréa heartbroken on the street while the agency faces ruin. In our final scene of the season, the four agents gather after hours over a bottle of Samuel's whiskey. See you there.
+> Colette walks away in tears, leaving Andréa heartbroken on the street while the agency faces ruin. See you next time!
 - **Closing**: `colette`: *Au revoir!*

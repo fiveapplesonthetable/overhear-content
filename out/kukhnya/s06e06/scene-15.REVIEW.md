@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Значит, мы увидимся сегодня до вечера. | So, we will see each other this evening. | #236 00:16:20: Значит, до вечера | adapted: adapted |
+| 1 | Гость | Значит, мы увидимся сегодня до вечера. | So, we will see each other this evening. | #236 00:16:20: Значит, до вечера | adapted: adapted |
 | 2 | Гость | У нас всё хорошо, иди отсюда. | Everything is fine with us, go on out. | #238 00:16:29: Все хорошо<br>#239 00:16:30: Иди | adapted: adapted |
 | 3 | Гость | Подождите, я сейчас вам всё объясню. | Wait, I will explain everything to you right now. | #240 00:16:33: Я все объясню | adapted: adapted |
-| 4 | Аня | Ты сейчас всё это Кате объяснишь! | You are going to explain all of this to Katya right now! | #241 00:16:35: Ты все Кате объяснишь | adapted: adapted |
+| 4 | Гость | Ты сейчас всё это Кате объяснишь! | You are going to explain all of this to Katya right now! | #241 00:16:35: Ты все Кате объяснишь | adapted: adapted |
 | 5 | Гость | Послушайте меня, я инспектор Мишлен. | Listen to me, I am a Michelin inspector. | #242 00:16:44: Я инспектор Мишлен | adapted: adapted |
 | 6 | Гость | Честное слово, вот моё удостоверение. | Word of honor, here is my identification card. | #243 00:16:45: Честное слово, вот мое удостоверение | adapted: adapted |
 | 7 | Гость | Поймите, мне очень нравится ваша дочь. | Understand, I like your daughter very much. | #244 00:16:48: Поймите, мне нравится ваша дочь | adapted: adapted |
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'As a man, you should understand me.' The grammar packs 'how' and 'to understand' into a tight, idiomatic kitchen exchange.
 - 'I have a proposal for you.' the guest chooses the respectful plural 'you' alongside 'offer' to keep a polite distance.
 - 'You will not tell Katya about this incident.' The meaning hinges on 'you' working together with 'case' in spoken Russian.
-- 'And I will write a good report about the restaurant.' The grammar packs 'and' and 'restaurant' into a tight, idiomatic kitchen exchange.
+- 'And I will write a good report about the restaurant.' Here the guest anchors the thought on 'will write' and finishes on 'restaurant', keeping the spoken rhythm brisk and natural.

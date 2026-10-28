@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Костя | Это вообще-то ты облажался! | Actually you are the one who screwed up! | #215 00:15:19: Это вообще-то ты облажался | adapted: adapted |
 | 3 | Аня | Мы не того искали. Настя утром обслуживала девушку! | We were looking for the wrong person. Nastya served a girl this morning! | #216 00:15:23: Мы не того искали<br>#217 00:15:25: Настя утром обслуживала девушку | adapted: adapted |
 | 4 | Костя | В смысле? | What do you mean? | #218 00:15:30: В смысле | adapted: adapted |
-| 5 | Аня | В счёте был коктейль Секс на пляже. | On the bill was a Sex on the Beach cocktail. | #219 00:15:36: В счете был коктейль «Секс на пляже» | adapted: adapted |
+| 5 | Аня | В счёте был дорогой коктейль на пляже. | On the bill was an expensive beach cocktail. | #219 00:15:36: В счете был коктейль<br>#219 00:15:36: на пляже | adapted: adapted |
 | 6 | Аня | Потом эта девушка на ресепшене была. | Then this girl was at reception. | #221 00:15:42: Потом эта девушка на ресепшн была | adapted: adapted |
 | 7 | Аня | Заставила Свету базу удалить. | She forced Sveta to delete the database. | #222 00:15:46: Заставила Свету базу удалить | adapted: adapted |
 | 8 | Аня | А Насте она внушила, что с ней расплатился усатый. | And she made Nastya believe that the moustached man paid her. | #225 00:15:52: А Насте она внушила, что с ней расплатился<br>#221 00:15:42: Усатый | adapted: adapted |
@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Actually you are the one who screwed up!' Kostya brings out the contrast between 'this' and 'actually' in a few short words.
 - 'We were looking for the wrong person. Nastya served a girl this morning!' The '-a' ending on the past-tense verb for 'served' marks a female speaker or subject.
 - 'What do you mean?' Kostya raises the pitch on 'sense' to turn the phrase into a direct spoken question. Max answers right away.
-- 'On the bill was a Sex on the Beach cocktail.' Max brings out the contrast between 'bill' and 'was' in a few short words.
+- 'On the bill was an expensive beach cocktail.' In everyday Russian, 'bill, check' flows straight into 'beach' without extra linking words.
 - 'Then this girl was at reception.' In Russian, the idea of 'then' flows naturally into 'was' without extra filler words.
 - 'She forced Sveta to delete the database.' Spoken Russian keeps this brisk, leaning on 'forced' and finishing on 'to delete'.
 - 'And she made Nastya believe that the moustached man paid her.' Max anchors the line on 'and', while 'moustached' completes the thought.
 - 'And remember, you served not me, but that man over there!' The meaning hinges on 'and' working together with 'man' in spoken Russian.
 - 'And what do we do now?' Notice how Russian expresses 'and' and 'to do' with crisp inflection rather than helper words. Max answers right away.
 - 'I am not going to hit a girl. She looked at me.' The meaning hinges on 'I' working together with 'looked' in spoken Russian.
-- 'I will take her the bill now. When she pays with napkins, we will catch her red-handed!' Notice the reflexive suffix on the verb meaning 'will pay', turning the action back on the subject.
+- 'I will take her the bill now. When she pays with napkins, we will catch her red-handed!' Here Max anchors the thought on 'now' and finishes on 'red-handed, stolen goods', keeping the spoken rhythm brisk and natural.

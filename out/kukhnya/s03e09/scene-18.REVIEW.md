@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Speak, daughter, I am all ears.' the guest brings out the contrast between 'to speak' and 'daughter' in a few short words.
 - 'I have never asked you for anything.' Nastya addresses the listener with the informal singular 'you' alongside 'asked for'.
 - 'But right now things are a bit tight with money for us.' Nastya anchors the line on 'but', while 'money' completes the thought.
-- 'Kostik even got a second job.' Notice the reflexive suffix on the verb meaning 'to settle', turning the action back on the subject.
+- 'Kostik even got a second job.' In everyday Russian, 'second' flows straight into 'to settle, to get a job' without extra linking words.
 - 'He works without days off, my poor darling.' In Russian, the idea of 'works' flows naturally into 'poor little thing' without extra filler words.
 - 'He tries so hard and is saving up for the wedding.' Here the Russian phrasing highlights 'he' before landing on 'is saving up'.
 - 'Could you possibly lend us some money?' Notice how Russian expresses 'not' and 'money' with crisp inflection rather than helper words.

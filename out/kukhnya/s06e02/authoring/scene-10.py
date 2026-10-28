@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e02-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 2
 SCENE = 10
-TITLE = 'Катя отшивает обоих  (Katya Rejects Both of Them)'
+TITLE = "Катя отшивает обоих  (Katya Rejects Both of Them)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nikita': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Катя', 'nikita': 'Никита', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "denis": "anja", "katya": "angelina"}
+LABELS = {"denis": "Денис", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.02'
 SOURCE_FILE = 'sources/kukhnya/s06/e02.ru.srt'
 
 INTRO = "At the party, Nikita asks to drink with Katya and gets a sarcastic toast about her mother's advice; moments later, Denis tries his luck and gets toasted as a runaway coward."
 
 STORY = [
-    ('nikita', 'Катя, я могу с тобой выпить?', 'Katya, may I have a drink with you?', [(160, 'Катя, я могу с тобой выпить?')], 'exact'),
-    ('anya', 'Давай за мою маму и за ее мудрые советы.', "Let's drink to my mom and her wise advice.", [(161, 'Давай за мою маму и за ее мудрые советы')], 'exact'),
-    ('anya', 'Ведь ты без них никуда, свободен.', 'After all, you are nowhere without them, dismissed.', [(162, 'Ведь ты без них никуда'), (163, 'Свободен')], 'adapted'),
+    ('denis', 'Катя, я могу с тобой выпить?', 'Katya, may I have a drink with you?', [(160, 'Катя, я могу с тобой выпить?')], 'exact'),
+    ('katya', 'Давай за мою маму и за ее мудрые советы.', "Let's drink to my mom and her wise advice.", [(161, 'Давай за мою маму и за ее мудрые советы')], 'exact'),
+    ('katya', 'Ведь ты без них никуда, свободен.', 'After all, you are nowhere without them, dismissed.', [(162, 'Ведь ты без них никуда'), (163, 'Свободен')], 'adapted'),
     ('denis', 'Катя, привет.', 'Katya, hi.', [(164, 'Катя. Привет')], 'exact'),
-    ('anya', 'Тоже выпить со мной хочешь, да?', 'You want to have a drink with me too, right?', [(165, 'Тоже выпить со мной хочешь, да?')], 'exact'),
-    ('anya', 'За тех, которые сбегают, выпьешь?', 'To those who run away, will you drink?', [(167, 'которые сбегают'), (168, 'Выпьешь?')], 'adapted'),
+    ('katya', 'Тоже выпить со мной хочешь, да?', 'You want to have a drink with me too, right?', [(165, 'Тоже выпить со мной хочешь, да?')], 'exact'),
+    ('katya', 'За тех, которые сбегают, выпьешь?', 'To those who run away, will you drink?', [(167, 'которые сбегают'), (168, 'Выпьешь?')], 'adapted'),
     ('denis', 'Нет, за это не буду.', 'No, I will not drink to that.', [(168, 'Нет')], 'adapted'),
-    ('anya', 'А я выпью, у тебя это очень хорошо получается.', 'Well I will drink, you are very good at that.', [(169, 'А я выпью'), (170, 'Ведь у тебя это очень хорошо получается')], 'adapted'),
+    ('katya', 'А я выпью, у тебя это очень хорошо получается.', 'Well I will drink, you are very good at that.', [(169, 'А я выпью'), (170, 'Ведь у тебя это очень хорошо получается')], 'adapted'),
     ('denis', 'Она права, я виноват.', 'She is right, I am at fault.', [(171, 'Она права, я виноват')], 'exact'),
-    ('nikita', 'Это не повод так долго обижаться.', 'That is no reason to stay offended for so long.', [(172, 'не повод так долго обижаться')], 'adapted'),
+    ('denis', 'Это не повод так долго обижаться.', 'That is no reason to stay offended for so long.', [(172, 'не повод так долго обижаться')], 'adapted'),
     ('denis', 'Я не понял, она у нас работает?', 'I do not understand, does she work here with us?', [(174, 'Я не понял, она у нас работает?')], 'exact'),
-    ('nikita', 'Моя тоже тут работает.', 'Mine works here too.', [(175, 'Моя тоже')], 'adapted'),
+    ('denis', 'Моя тоже тут работает.', 'Mine works here too.', [(175, 'Моя тоже')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Still unaware that they are both pining for Katya, Nikita and Denis bond over their stubborn girlfriends. See you in the next scene.'
-CLOSING = ('denis', 'Давай выпьем!')
+OUTRO = 'Still unaware that they are both pining for Katya, Nikita and Denis bond over their stubborn girlfriends. See you next time!'
+CLOSING = ("denis", "Пока!")

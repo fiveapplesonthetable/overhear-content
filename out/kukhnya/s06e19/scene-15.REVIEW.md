@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Елена | Витя, свадебная церемония уже начинается. | Vitya, the wedding ceremony is already starting. | #239 00:18:36: церемония начинается | adapted: adapted |
 | 6 | Елена | Кто сейчас поведёт нашу невесту? | Who is going to walk our bride right now? | #240 00:18:40: кто невесту поведет | adapted: adapted |
 | 7 | Елена | Ну как, ты уже готова? | Well, how are you, ready now? | #245 00:18:58: Ну как, ты готова | adapted: adapted |
-| 8 | Аня | Да, наверное, я уже готова. | Yes, I suppose I am ready now. | #246 00:19:01: Да, наверное | adapted: adapted |
+| 8 | Елена | Да, наверное, я уже готова. | Yes, I suppose I am ready now. | #246 00:19:01: Да, наверное | adapted: adapted |
 | 9 | Елена | Не переживай, всё будет хорошо. | Do not worry, everything will be fine. | #247 00:19:03: Не переживай. Все будет хорошо | adapted: adapted |
 | 10 | Елена | Я перед свадьбой тоже волновалась. | I was nervous before my wedding too. | #248 00:19:06: Я тоже волновалась | adapted: adapted |
 | 11 | Елена | Ты должна подойти к нему. | You must walk up to him. | #250 00:19:13: Ты должна подойти к нему | adapted: adapted |
@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'There is still not enough food, Chef.' Here the Russian phrasing highlights 'of groceries' before landing on 'little'.
 - 'We need to feed all the guests today.' Mikhail brings out the contrast between 'need' and 'tonight' in a few short words.
 - 'Here are more fresh groceries for you.' The meaning hinges on 'here' working together with 'groceries' in spoken Russian.
-- 'I have my own channels.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'channels'. Elena answers right away.
+- 'I have my own channels.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Vitya, the wedding ceremony is already starting.' Elena brings out the contrast between 'wedding' and 'ceremony' in a few short words.
 - 'Who is going to walk our bride right now?' In Russian, the idea of 'who' flows naturally into 'bride' without extra filler words.
 - 'Well, how are you, ready now?' The meaning hinges on 'come on' working together with 'ready' in spoken Russian. Katya answers right away.

@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | On ne peut faire confiance à personne. | You cannot trust anyone. | adapted |
 
 ## Part 5 — Outro & Closing
-> Herve realizes to his dismay that his secret acting debut is already common knowledge at ASK. When you watch the episode, listen out for the expressions meaning 'minute' and 'is happening'. You'll catch them now. See you next time.
+> Herve realizes to his dismay that his secret acting debut is already common knowledge at ASK. When you watch the episode, listen out for the expressions meaning 'minute' and 'is happening'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Au revoir!*

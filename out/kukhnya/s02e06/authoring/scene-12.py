@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e06-scene-12"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e06-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 6
 SCENE = 12
-TITLE = 'Как облажался сам Шеф  (How the Chef Himself Screwed Up)'
+TITLE = "Как облажался сам Шеф  (How the Chef Himself Screwed Up)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Лёва', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.06"
-SOURCE_FILE = "sources/kukhnya/s02/e06.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
+LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.06'
+SOURCE_FILE = 'sources/kukhnya/s02/e06.ru.srt'
 
 INTRO = "At the end of the shift, after Vika heads home, Lyova asks Chef Barinov how Max can survive such an embarrassing mistake. When Lyova asks if the great Viktor Petrovich has ever blundered like that himself, Barinov sighs and recalls the day he first laid eyes on Kristina before knowing she was Nagiyev's wife."
 
 STORY = [
-    ('anya', 'Все уже ушли.', 'Everyone has already gone home.', [(194, 'все уже ушли')], ''),
+    ('lyova', 'Все уже ушли.', 'Everyone has already gone home.', [(194, 'все уже ушли')], ''),
     ('chef', 'Сейчас я сама ухожу.', 'I am heading out right now myself.', [(195, 'сейчас я сама ухожу')], ''),
-    ('anya', 'До завтра.', 'See you tomorrow.', [(196, 'до завтра')], ''),
+    ('lyova', 'До завтра.', 'See you tomorrow.', [(196, 'до завтра')], ''),
     ('chef', 'А вы когда домой пойдете?', 'And when are you going home?', [(197, 'А вы когда домой пойдете')], ''),
-    ('anya', 'Я немного поработаю.', 'I will work for a little while longer.', [(198, 'я немного поработаю')], ''),
+    ('lyova', 'Я немного поработаю.', 'I will work for a little while longer.', [(198, 'я немного поработаю')], ''),
     ('chef', 'Жены у тебя нет.', 'You do not have a wife.', [(200, 'Жены у тебя нет')], ''),
-    ('anya', 'Была бы хорошая жена.', 'She would make a good wife.', [(201, 'Была бы хорошая жена')], ''),
+    ('lyova', 'Была бы хорошая жена.', 'She would make a good wife.', [(201, 'Была бы хорошая жена')], ''),
     ('chef', 'Как же ты живёшь с таким косяком?', 'How do you even live with a blunder like that?', [(202, 'как же ты живёшь с таким косяком')], ''),
-    ('anya', 'Я уже от стыда повесился уже, наверное.', 'I probably would have hanged myself from shame already.', [(203, 'Я уже от стыда повесился уже, наверное')], ''),
+    ('lyova', 'Я уже от стыда повесился уже, наверное.', 'I probably would have hanged myself from shame already.', [(203, 'Я уже от стыда повесился уже, наверное')], ''),
     ('chef', 'У тебя была такая возможность.', 'You actually had that opportunity once.', [(204, 'У тебя была такая возможность')], ''),
-    ('anya', 'Когда я облажался?', 'Wait, when did I ever screw up?', [(205, 'Когда я облажался')], ''),
+    ('lyova', 'Когда я облажался?', 'Wait, when did I ever screw up?', [(205, 'Когда я облажался')], ''),
     ('chef', 'Напомню тебе.', 'Let me remind you.', [(206, 'Напомню тебе')], ''),
-    ('anya', 'Теперь напоминаю.', 'Now I am reminding you.', [(207, 'Теперь напоминаю')], ''),
+    ('lyova', 'Теперь напоминаю.', 'Now I am reminding you.', [(207, 'Теперь напоминаю')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 12 of Episode 6, listen out for the exchange around how the chef himself screwed up — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Теперь напоминаю.')
+OUTRO = 'That wraps up this scene as late at night in the office, Lyova asks Chef Barinov if he has ever committed a huge blunder himself, prompting a flashback to when Kristina first visited as a guest. See you next time!'
+CLOSING = ("lyova", "Увидимся!")

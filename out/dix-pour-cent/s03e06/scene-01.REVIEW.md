@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Nous verrons bien ce soir. | We shall see tonight. | 27:on se tait et on observe la bête |
 
 ## Part 5 — Outro & Closing
-> With Hicham walking away and selling his shares, Mathias positions himself as the undisputed leader of ASK. When you watch the episode, listen out for the expressions meaning 'business contract' and 'secret'. You'll catch them now. See you next time.
+> With Hicham walking away and selling his shares, Mathias positions himself as the undisputed leader of ASK. When you watch the episode, listen out for the expressions meaning 'business contract' and 'secret'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

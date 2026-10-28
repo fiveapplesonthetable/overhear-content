@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | А ты не знаешь? | Do you happen to know? | #220 00:14:50: а ты не знаешь | verbatim |
-| 2 | Нагиев | Где этот Дмитрий Владимирович? | Where is Dmitry Vladimirovich? | #220 00:14:50: где этот Дмитрий Владимирович | verbatim |
-| 3 | Аня | Он был здесь недавно, но ушёл куда-то. | He was here recently, but he went off somewhere. | #221 00:14:53: Он был здесь недавно, но ушёл куда-то | verbatim |
-| 4 | Нагиев | Его надо... | We need to take him... | #224 00:15:02: Его надо | verbatim |
-| 5 | Аня | Его надо в ресторан. | We need to take him to the restaurant. | #225 00:15:04: Его надо в ресторан | verbatim |
-| 6 | Нагиев | А там разберемся. | And we will sort it out there. | #226 00:15:08: А там разберемся | verbatim |
-| 7 | Аня | Я же звезда. | I am a celebrity, after all. | #228 00:15:12: Я же звезда | verbatim |
-| 8 | Нагиев | А может? | Or maybe? | #229 00:15:15: А может | verbatim |
-| 9 | Аня | Давай я сам позвоню. | Let me make the call myself. | #230 00:15:17: Давай я сам позвоню | verbatim |
-| 10 | Нагиев | Давай, поехали. | Come on, let us go. | #231 00:15:20: Давай, поехали | verbatim |
-| 11 | Аня | Эй, эй. | Hey, hey. | #231 00:15:20: Эй, эй | verbatim |
-| 12 | Нагиев | Поехали. Эй. | Let us go. Hey. | #231 00:15:20: поехали. Эй | verbatim |
-| 13 | Аня | А ну, постоять! | Hey, hold it right there! | #233 00:15:24: А ну, постоять | verbatim |
+| 1 | Лёва | А ты не знаешь? | Do you happen to know? | #220 00:14:50: а ты не знаешь | verbatim |
+| 2 | Лёва | Где этот Дмитрий Владимирович? | Where is Dmitry Vladimirovich? | #220 00:14:50: где этот Дмитрий Владимирович | verbatim |
+| 3 | Лёва | Он был здесь недавно, но ушёл куда-то. | He was here recently, but he went off somewhere. | #221 00:14:53: Он был здесь недавно, но ушёл куда-то | verbatim |
+| 4 | Лёва | Его надо... | We need to take him... | #224 00:15:02: Его надо | verbatim |
+| 5 | Лёва | Его надо в ресторан. | We need to take him to the restaurant. | #225 00:15:04: Его надо в ресторан | verbatim |
+| 6 | Лёва | А там разберемся. | And we will sort it out there. | #226 00:15:08: А там разберемся | verbatim |
+| 7 | Лёва | Я же звезда. | I am a celebrity, after all. | #228 00:15:12: Я же звезда | verbatim |
+| 8 | Лёва | А может? | Or maybe? | #229 00:15:15: А может | verbatim |
+| 9 | Лёва | Давай я сам позвоню. | Let me make the call myself. | #230 00:15:17: Давай я сам позвоню | verbatim |
+| 10 | Лёва | Давай, поехали. | Come on, let us go. | #231 00:15:20: Давай, поехали | verbatim |
+| 11 | Лёва | Эй, эй. | Hey, hey. | #231 00:15:20: Эй, эй | verbatim |
+| 12 | Лёва | Поехали. Эй. | Let us go. Hey. | #231 00:15:20: поехали. Эй | verbatim |
+| 13 | Лёва | А ну, постоять! | Hey, hold it right there! | #233 00:15:24: А ну, постоять | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

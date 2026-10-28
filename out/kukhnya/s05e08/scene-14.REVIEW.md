@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So what is the surprise that you scared me over?' Notice how Russian expresses 'so' and 'frightened' with crisp inflection rather than helper words. Max answers right away.
 - 'We talked it over here and thought about it.' Here the Russian phrasing highlights 'we' before landing on 'thought'.
 - 'Your family is big now.' The grammar packs 'family' and 'now' into a tight, idiomatic kitchen exchange.
-- 'And we bought you an SUV!' The grammar packs 'and' and 'SUV' into a tight, idiomatic kitchen exchange. Nastya answers right away.
+- 'And we bought you an SUV!' Notice how Russian puts 'bought' and 'SUV / jeep' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Such a huge car?' Here the Russian phrasing highlights 'such' before landing on 'car'.
 - 'Get behind the wheel, daughter!' Max anchors the line on 'sit down', while 'daughter' completes the thought.
 - 'She is still not picking up the phone!' The grammar packs 'she' and 'phone receiver' into a tight, idiomatic kitchen exchange. Max answers right away.

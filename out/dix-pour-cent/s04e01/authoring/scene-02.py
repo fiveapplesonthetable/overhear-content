@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 1
 SCENE = 2
 TITLE = "L'enthousiasme de Charlotte  (Charlotte's Enthusiasm)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "charlotte": "emilie", "lea": "lucie", "oscar": "marcel"}
-LABELS = {"charlotte": "Charlotte", "lea": "Andréa", "oscar": "Oscar"}
+VOICES = {'narrator': 'sky', 'charlotte': 'emilie', 'lea': 'lucie', 'oscar': 'marcel'}
+LABELS = {'charlotte': 'Charlotte', 'lea': 'Andréa', 'oscar': 'Oscar'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At the airport arrival terminal, Andrea Martel greets internationally acclaimed actress Charlotte Gainsbourg after an eleven-hour flight. When Charlotte inquires about the artistic merit of her lifelong friend Oscar Rondo's screenplay, Andrea bluffs and lavishes it with praise. Just as Camille sends a text warning that the script is unwatchable, Oscar himself walks up to seal the deal. Let's listen to the scene in French first."
 OPENER = "Let's observe as Andrea bluffs about the script just as director Oscar arrives."
 TRANSITION = "Now let's listen to Andrea, Charlotte, and Oscar again at full speed."
-OUTRO = "Having endorsed a script that she has not read and that Camille considers dreadful, Andrea is trapped in her own lie. When you watch the episode, listen out for the expressions meaning 'remain' and 'magnificent'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "Having endorsed a script that she has not read and that Camille considers dreadful, Andrea is trapped in her own lie. When you watch the episode, listen out for the expressions meaning 'remain' and 'magnificent'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('lea', 'Tu restes magnifique après ce long voyage.', 'You remain gorgeous after this long journey.', [(31, "11 h d'avion")], ''),
     ('charlotte', "J'ai dormi pendant tout le vol.", 'I slept during the whole flight.', [(31, "11 h d'avion")], ''),

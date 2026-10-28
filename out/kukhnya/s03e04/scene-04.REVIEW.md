@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Я развёлся! | I got divorced! | #42 00:03:03: развелся | adapted: adapted |
-| 2 | Аня | Кристина Семёновна, до свидания! | Kristina Semyonovna, goodbye! | #43 00:03:07: Кристина Семеновна | adapted: adapted |
-| 3 | Аня | Четырнадцатая страница! | Page fourteen! | #44 00:03:10: страница | adapted: adapted |
-| 4 | Аня | В лесах среди медведей. | In the woods among the bears. | #46 00:03:14: в лесах среди медведей | verbatim |
-| 5 | Вика | Так, пойду организую шампанское для гостей. | Right, I will go arrange champagne for the guests. | #47 00:03:20: Так<br>#48 00:03:21: Пойду организую шампанское для гостей | adapted: adapted |
-| 6 | Аня | Давай, беги, маленький кролик. | Go on, run, little rabbit. | #49 00:03:23: Давай, беги, маленький кролик | verbatim |
+| 1 | Нагиев | Я развёлся! | I got divorced! | #42 00:03:03: развелся | adapted: adapted |
+| 2 | Нагиев | Кристина Семёновна, до свидания! | Kristina Semyonovna, goodbye! | #43 00:03:07: Кристина Семеновна | adapted: adapted |
+| 3 | Нагиев | Четырнадцатая страница! | Page fourteen! | #44 00:03:10: страница | adapted: adapted |
+| 4 | Нагиев | В лесах среди медведей. | In the woods among the bears. | #46 00:03:14: в лесах среди медведей | verbatim |
+| 5 | Нагиев | Так, пойду организую шампанское для гостей. | Right, I will go arrange champagne for the guests. | #47 00:03:20: Так<br>#48 00:03:21: Пойду организую шампанское для гостей | adapted: adapted |
+| 6 | Нагиев | Давай, беги, маленький кролик. | Go on, run, little rabbit. | #49 00:03:23: Давай, беги, маленький кролик | verbatim |
 | 7 | Костя | Дмитрий Владимирович, я вас поздравляю. | Dmitry Vladimirovich, I congratulate you. | #50 00:03:25: Дмитрий Владимирович, я вас поздравляю | verbatim |
-| 8 | Аня | Да, сынок. | Yes, my boy. | #51 00:03:28: да, сынок | verbatim |
-| 9 | Аня | Мне очень нравится, как ты работаешь. | I really like how you work. | #52 00:03:29: Мне очень нравится, как ты работаешь | verbatim |
-| 10 | Аня | Молодец, красавчик. | Well done, champ. | #53 00:03:31: Молодец, красавчик | verbatim |
+| 8 | Нагиев | Да, сынок. | Yes, my boy. | #51 00:03:28: да, сынок | verbatim |
+| 9 | Нагиев | Мне очень нравится, как ты работаешь. | I really like how you work. | #52 00:03:29: Мне очень нравится, как ты работаешь | verbatim |
+| 10 | Нагиев | Молодец, красавчик. | Well done, champ. | #53 00:03:31: Молодец, красавчик | verbatim |
 | 11 | Костя | Спасибо. | Thank you. | #53 00:03:31: Спасибо | verbatim |
-| 12 | Аня | Хочу тебя поблагодарить. | I want to thank you. | #54 00:03:33: Хочу тебя поблагодарить | verbatim |
+| 12 | Нагиев | Хочу тебя поблагодарить. | I want to thank you. | #54 00:03:33: Хочу тебя поблагодарить | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,50 +1,46 @@
-ID = "kukhnya-s01e14-scene-22"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e14-scene-22.
+ID = 'kukhnya-s01e14-scene-22'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 22
 TITLE = "Божественно  (Divine)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "dmitry": "anja"}
-LABELS = {"anya": "Дмитрий", "dmitry": "Дмитрий"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.14"
-SOURCE_FILE = "sources/kukhnya/s01/e14.ru.dual.srt"
-SOURCE_NOTE = "Cues 305-308"
-
-INTRO = "Dmitry Nagiyev tastes the dish. He takes a bite and is absolutely amazed. We'll hear it in Russian first; don't worry about catching every word."
-
-STORY = [
- ("anya", "Это божественно.", "This is divine.", [(305, "Это божественно")], ""),
- ("anya", "Это очень вкусно.", "This is very tasty.", [], ""),
- ("anya", "Я не ожидал такого.", "I didn't expect this.", [], ""),
- ("anya", "Повезло тебе, поварёнок.", "You're lucky, little chef.", [(306, "Повезло тебе поваренок")], ""),
- ("anya", "Дмитрий Владимирович.", "Dmitry Vladimirovich.", [(306, "Дмитрий Владимирович")], ""),
- ("anya", "Ну, всем повезло.", "Well, we're all lucky.", [(307, "Ну, всем повезло")], ""),
- ("anya", "Наш ресторан лучший.", "Our restaurant is the best.", [], ""),
- ("anya", "Гости очень довольны.", "The guests are very pleased.", [], ""),
- ("anya", "Мы сделали это.", "We did it.", [], ""),
- ("anya", "Теперь можно отдыхать.", "Now we can rest.", [], ""),
- ("anya", "Отличная работа, команда.", "Excellent work, team.", [], ""),
- ("anya", "Браво!", "Bravo!", [(308, "Браво")], ""),
-]
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina"}
+LABELS = {"nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
+SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
+INTRO = "Dmitry Nagiyev tastes the dish. He takes a bite and is absolutely amazed. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Let's go through it line by line. Nagiyev closes his eyes in delight."
-WALK = [
- (0, None, "'This is divine.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'this' straight to 'divinely'."),
- (1, None, "'This is very tasty.' Notice the word order: 'this' comes first, and 'it's tasty' finishes the sentence."),
- (2, None, "'I didn't expect this.' Here 'I' sets up the idea, while 'such' comes at the end for emphasis."),
- (3, None, "'You're lucky, little chef.' You'll hear 'it was lucky' all the time in the show, here connected with 'little cook'."),
- (4, None, "'Dmitry Vladimirovich.' The key word here means 'Dmitry', which Dmitry combines with 'Vladimirovich'."),
- (5, None, "'Well, we're all lucky.' A compact expression built around 'to everyone' and 'it was lucky'."),
- (6, None, "'Our restaurant is the best.' Dmitry puts 'restaurant' up front so the listener immediately catches the tone, followed by 'best'."),
- (7, None, "'The guests are very pleased.' In Russian, 'visitors' leads into 'satisfied' in a very natural everyday phrasing."),
- (8, None, "'We did it.' The first content word means 'we', and 'this' rounds out the thought."),
- (9, None, "'Now we can rest.' The key word here means 'now', which Dmitry combines with 'may'."),
- (10, None, "'Excellent work, team.' Listen for the word meaning 'excellent' right alongside 'job' in this line."),
- (11, None, "'Bravo!' You'll hear 'bravo' all the time in the show, here connected with 'bravo'."),
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "The guests applaud as Nagiyev praises the meal. Next time you watch the episode, listen for the Russian expressions for 'divinely' and 'very' — you will catch every word right away. See you next time!"
+CLOSING = ("nagiyev", "Пока!")
+STORY = [
+    ('nagiyev', 'Это божественно.', 'This is divine.', [(305, 'Это божественно')], ''),
+    ('nagiyev', 'Это очень вкусно.', 'This is very tasty.', [], ''),
+    ('nagiyev', 'Я не ожидал такого.', "I didn't expect this.", [], ''),
+    ('nagiyev', 'Повезло тебе, поварёнок.', "You're lucky, little chef.", [(306, 'Повезло тебе поваренок')], ''),
+    ('nagiyev', 'Дмитрий Владимирович.', 'Dmitry Vladimirovich.', [(306, 'Дмитрий Владимирович')], ''),
+    ('nagiyev', 'Ну, всем повезло.', "Well, we're all lucky.", [(307, 'Ну, всем повезло')], ''),
+    ('nagiyev', 'Наш ресторан лучший.', 'Our restaurant is the best.', [], ''),
+    ('nagiyev', 'Гости очень довольны.', 'The guests are very pleased.', [], ''),
+    ('nagiyev', 'Мы сделали это.', 'We did it.', [], ''),
+    ('nagiyev', 'Теперь можно отдыхать.', 'Now we can rest.', [], ''),
+    ('nagiyev', 'Отличная работа, команда.', 'Excellent work, team.', [], ''),
+    ('nagiyev', 'Браво!', 'Bravo!', [(308, 'Браво')], ''),
 ]
-
-TRANSITION = "Now let's hear the whole scene once more, start to finish."
-OUTRO = "The guests applaud as Nagiyev praises the meal. See you next time."
-CLOSING = ("anya", "Браво!")
+WALK = [
+    (0, None, "'This is divine.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'this' straight to 'divinely'."),
+    (1, None, "'This is very tasty.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'it's tasty', combining 'very much' with 'it's tasty'."),
+    (2, None, "'I didn' t expect this.' The verb for 'expected' is in the matching past tense, marked by the '-l' ending."),
+    (3, None, "'You' re lucky, little chef.' Nagiyev uses the action verb meaning 'it was lucky' to focus on the single completed result, pairing it with 'little cook'."),
+    (4, None, "'Dmitry Vladimirovich.' Russian omits the present-tense verb 'to be' here, linking 'Dmitry' directly with 'Vladimirovich', combining 'Dmitry' with 'Vladimirovich'."),
+    (5, None, "'Well, we're all lucky.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'it was lucky'."),
+    (6, None, "'Our restaurant is the best.' Russian omits the present-tense verb 'to be' here, linking 'restaurant' directly with 'best', combining 'restaurant' with 'best'."),
+    (7, None, "'The guests are very pleased.' Russian omits the present-tense verb 'to be', connecting 'visitors' directly with 'satisfied'."),
+    (8, None, "'We did it.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'did'."),
+    (9, None, "'Now we can rest.' Here Nagiyev anchors the line on the word meaning 'now' and builds the thought around 'may' and 'relax'."),
+    (10, None, "'Excellent work, team.' Russian omits the present-tense verb 'to be' here, linking 'excellent' directly with 'job', combining 'excellent' with 'job' and 'team'."),
+    (11, None, "'Bravo!' A crisp, everyday conversational reply meaning 'bravo' that you will hear constantly in Russian dialogue."),
+]

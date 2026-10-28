@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Ты же обещала. | You promised, after all. | #185 00:12:24: Ты же обещала | adapted: adapted |
+| 1 | Врач | Ты же обещала. | You promised, after all. | #185 00:12:24: Ты же обещала | adapted: adapted |
 | 2 | Врач | Заходим по одному, ведём себя спокойно. | Come in one by one, behave calmly. | #186 00:12:31: Заходим по одному. Ведем себя спокойно | adapted: adapted |
 | 3 | Врач | Тут и так нервная обстановка. | The atmosphere here is tense enough already. | #187 00:12:34: Тут и так нервная остановка | adapted: adapted |
 | 4 | Врач | Как у тебя дела, всё хорошо? | How are you doing, is everything fine? | #188 00:12:36: Как тебе дела? Все хорошо | adapted: adapted |

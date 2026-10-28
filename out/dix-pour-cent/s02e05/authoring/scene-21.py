@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 5
 SCENE = 21
 TITLE = "Je suis enceinte  (I'm Pregnant)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "On a quiet Parisian street, Andréa intercepts Hicham during his morning jog to deliver shocking news. Hesitant to meet casually, she reveals that she is pregnant with his child and needs to talk. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
 OUTRO = "Stunned by Andréa's pregnancy revelation, Hicham grants her a few brief minutes before heading to London. Notice how the feminine adjective for 'pregnant' takes a silent final '-e'. See you next time!"
-CLOSING = ("lea", "Bonne soirée!")
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('hicham', "Qu'est-ce que tu fais là, Andréa?", 'What are you doing here, Andréa?', [(643, "Qu'est-ce que tu fais là ? Tu m'attendais ?")], ''),
     ('lea', 'Attends juste une petite minute.', 'Wait just one little minute.', [(645, '-Wait.'), (646, 'Juste une minute.')], ''),

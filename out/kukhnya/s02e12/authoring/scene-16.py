@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e12-scene-16"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e12-scene-16'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 12
 SCENE = 16
-TITLE = 'Макс становится су-шефом  (Max Becomes Sous-Chef)'
+TITLE = "Макс становится су-шефом  (Max Becomes Sous-Chef)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.12"
-SOURCE_FILE = "sources/kukhnya/s02/e12.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.12'
+SOURCE_FILE = 'sources/kukhnya/s02/e12.ru.srt'
 
 INTRO = 'Once every last order has been plated, Lyova, Senya, and Fedya stroll back into the kitchen expecting to find Aleksandr in ruins. Seeing right through their excuses, Aleksandr strips Lyova of his rank on the spot, promotes Max to sous-chef, and invites everyone to celebrate after work.'
 
@@ -41,13 +41,12 @@ WALK = [
     (6, None, "'What is your patronymic?' Notice how Russian expresses 'how' and 'patronymic' with crisp inflection rather than helper words."),
     (7, None, "'Is that clear to everyone?' Here the Russian phrasing highlights 'to everyone' before landing on 'clear'."),
     (8, None, "'I do not know about this.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'know'. Max answers right away."),
-    (9, None, "'Come on, do not sweat it, you will figure it out as you go.' Notice the reflexive suffix on the verb meaning 'to steam oneself in a bathhouse', turning the action back on the subject."),
+    (9, None, "'Come on, do not sweat it, you will figure it out as you go.' Notice how Russian puts 'to steam oneself in a bathhouse; to sweat over' and 'to sort out, to figure out' together in a short, direct phrase where word endings show how the ideas connect."),
     (10, None, "'Besides, orders from management are not up for discussion.' In Russian, the idea of 'both' flows naturally into 'are discussed' without extra filler words."),
     (11, None, "'And we will celebrate your promotion right away.' Vika addresses the listener with the informal singular 'you' alongside 'to celebrate'. Max answers right away."),
     (12, None, "'I am inviting all of you.' In Russian, the idea of 'I' flows naturally into 'everyone' without extra filler words."),
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 16 of Episode 12, listen out for the exchange around max becomes sous-chef — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Я приглашаю всех.')
+OUTRO = 'That wraps up this scene as when Lyova, Senya, and Fedya stroll back into the kitchen after the rush, Aleksandr punishes Lyova by demoting him and naming Max the new sous-chef. See you next time!'
+CLOSING = ("anya", "До свидания!")

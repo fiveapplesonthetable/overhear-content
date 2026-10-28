@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e16-scene-13"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e16-scene-13'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 16
 SCENE = 13
 TITLE = "Уступка Нагиева и новый план Макса  (Nagiyev Yields the Table and Max's New Plan)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja'}
-LABELS = {'anya': 'Илья', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.16"
-SOURCE_FILE = "sources/kukhnya/s02/e16.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "ilya": "anja", "senya": "angelina"}
+LABELS = {"ilya": "Илья", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.16'
+SOURCE_FILE = 'sources/kukhnya/s02/e16.ru.srt'
 
 INTRO = 'Hearing that Barinov invited Elena Pavlovna on a date, Nagiyev good-naturedly yields his lucky table and moves to another spot with Kristina. Back in the kitchen, Senya refuses to give Max any more hair, and Max quotes Sun Tzu on knowing the enemy to defeat Ilya.'
 
 STORY = [
-    ('anya', 'Ну, ладно, отдыхай.', 'Well, alright, enjoy your evening.', [(220, 'Ну, ладно, отдыхай')], ''),
+    ('ilya', 'Ну, ладно, отдыхай.', 'Well, alright, enjoy your evening.', [(220, 'Ну, ладно, отдыхай')], ''),
     ('senya', 'Счастливый столик.', 'It is a lucky table.', [(221, 'Счастливый столик')], ''),
-    ('anya', 'Обязательно что-нибудь вечером тебе отломится.', 'You are guaranteed to get lucky tonight.', [(222, 'Обязательно что-нибудь вечером тебе отломится')], ''),
+    ('ilya', 'Обязательно что-нибудь вечером тебе отломится.', 'You are guaranteed to get lucky tonight.', [(222, 'Обязательно что-нибудь вечером тебе отломится')], ''),
     ('senya', 'Я-то с женой.', 'Whereas I am dining with my wife.', [(223, 'Я-то с женой')], ''),
-    ('anya', 'Пойду сяду за столик для плебеев.', 'I will go sit at a table for commoners.', [(224, 'Пойду сяду за столик для плебеев')], ''),
+    ('ilya', 'Пойду сяду за столик для плебеев.', 'I will go sit at a table for commoners.', [(224, 'Пойду сяду за столик для плебеев')], ''),
     ('senya', 'Спасибо тебе.', 'Thank you, Dima.', [(225, 'Спасибо тебе')], ''),
-    ('anya', 'До свидания.', 'See you later.', [(226, 'До свидания')], ''),
+    ('ilya', 'До свидания.', 'See you later.', [(226, 'До свидания')], ''),
     ('senya', 'Больше волос не дам.', 'I am not giving you any more hair.', [(227, 'Больше волос не дам')], ''),
-    ('anya', 'Да не нужны мне твои волосы.', 'I do not need your hair anymore.', [(228, 'Да не нужны мне твои волосы')], ''),
+    ('ilya', 'Да не нужны мне твои волосы.', 'I do not need your hair anymore.', [(228, 'Да не нужны мне твои волосы')], ''),
     ('senya', 'А что на этот раз?', 'So what is the plan this time?', [(230, 'А что на этот раз')], ''),
-    ('anya', 'Как ты на этот раз хочешь подставить Илью?', 'How are you planning to set Ilya up this time?', [(231, 'Как ты на этот раз хочешь подставить Илью')], ''),
+    ('ilya', 'Как ты на этот раз хочешь подставить Илью?', 'How are you planning to set Ilya up this time?', [(231, 'Как ты на этот раз хочешь подставить Илью')], ''),
     ('senya', 'Знай своего врага лучше, чем самого себя.', 'Know your enemy better than you know yourself.', [(232, 'Знай своего врага лучше, чем самого себя')], ''),
-    ('anya', 'И победа будет неизбежна.', 'And victory will be inevitable.', [(233, 'И победа будет неизбежна')], ''),
+    ('ilya', 'И победа будет неизбежна.', 'And victory will be inevitable.', [(233, 'И победа будет неизбежна')], ''),
 ]
 
 OPENER = "Let's replay the exchange and look closely at each Russian phrase."
@@ -44,10 +44,9 @@ WALK = [
     (9, None, "'So what is the plan this time?' Senya brings out the contrast between 'and' and 'what' in a few short words."),
     (10, None, "'How are you planning to set Ilya up this time?' Ilya raises the pitch on 'Ilya' to turn the phrase into a direct spoken question. Senya answers right away."),
     (11, None, "'Know your enemy better than you know yourself.' The grammar packs 'to know' and 'yourself' into a tight, idiomatic kitchen exchange."),
-    (12, None, "'And victory will be inevitable.' Spoken Russian keeps this brisk, leaning on 'both' and finishing on 'inevitable'."),
+    (12, None, "'And victory will be inevitable.' Notice how Russian puts 'victory, triumph' and 'inevitable' together in a short, direct phrase where word endings show how the ideas connect."),
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 13 of Episode 16, listen out for the exchange around nagiyev yields the table and max's new plan — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'И победа будет неизбежна.')
+OUTRO = 'That wraps up this scene as nagiyev graciously lets Barinov keep the lucky table for his date with Elena, while Fedya asks Max how he plans to set Ilya up next. Until next time!'
+CLOSING = ("ilya", "Хорошего дня!")

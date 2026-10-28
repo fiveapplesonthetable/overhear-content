@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Tu vois, le public t'admire déjà. | You see, the public already admires you. | 951:Les gens veulent te voir |
 
 ## Part 5 — Outro & Closing
-> Meeting Charlotte Gainsbourg gives Sofia newfound pride and purpose in her acting career. When you watch the episode, listen out for the expressions meaning 'time' and 'stop'. You'll catch them now. See you next time.
+> Meeting Charlotte Gainsbourg gives Sofia newfound pride and purpose in her acting career. When you watch the episode, listen out for the expressions meaning 'time' and 'stop'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À demain!*

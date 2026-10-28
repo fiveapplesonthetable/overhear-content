@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 6
-TITLE = "Le mystère du contrat  (The Damaged Contract)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le mystère du contrat  (The Damaged Contract)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "camille": "emilie", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In Gabriel's office, panic sets in as Jean Dujardin goes completely unreachable and his contract arrives in terrible condition. When the film's producer arrives expecting the signed agreement, Andrea steps in to stall for time. Let's listen to the scene in French first."
 OPENER = "Let's examine how the agents react to the bizarre state of the contract step by step to explore emergency crisis management."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around the damaged contract. When you watch the episode, listen out for the expressions meaning 'phone' and 'cut off.'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = "That's it for this scene around the damaged contract. When you watch the episode, listen out for the expressions meaning 'phone' and 'cut off.'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('gabriel', 'Le téléphone de Jean est totalement coupé.', 'Jean', [(85, 'Le téléphone de Jean est coupé')], ''),
     ('camille', 'Le téléphone de sa femme ne répond pas.', 'His wife', [(85, 'celui de sa femme répond pas non plus.')], ''),

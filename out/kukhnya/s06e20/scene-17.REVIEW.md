@@ -11,16 +11,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Костя | Я сегодня снова потерял своего отца. | Today I lost my father all over again. | #252 00:19:27: Снова потерял отца | adapted: adapted |
-| 2 | Аня | Костик, прости меня, пожалуйста, родной. | Kostik, forgive me, please, darling. | #253 00:19:31: Костик, прости меня, пожалуйста | adapted: adapted |
-| 3 | Аня | Это я во всём сама виновата. | I am to blame for everything myself. | #254 00:19:34: виновата | adapted: adapted |
-| 4 | Аня | Не надо было вообще его искать. | I should not have looked for him at all. | #254 00:19:34: Не надо было вообще его искать | adapted: adapted |
-| 5 | Аня | Костик, ты чуть палочку не съел. | Kostik, you nearly ate the cotton swab. | #255 00:19:48: Костик<br>#256 00:19:52: ватную палочку | adapted: adapted |
-| 6 | Аня | Это я делала тест на отцовство. | It was I who did a paternity test. | #257 00:19:55: Это я делала тест на отцовство | adapted: adapted |
-| 7 | Аня | Я брала слюну у вас обоих. | I took saliva from both of you. | #258 00:19:58: Брала слюну у тебя | adapted: adapted |
+| 2 | Настя | Костик, прости меня, пожалуйста, родной. | Kostik, forgive me, please, darling. | #253 00:19:31: Костик, прости меня, пожалуйста | adapted: adapted |
+| 3 | Настя | Это я во всём сама виновата. | I am to blame for everything myself. | #254 00:19:34: виновата | adapted: adapted |
+| 4 | Настя | Не надо было вообще его искать. | I should not have looked for him at all. | #254 00:19:34: Не надо было вообще его искать | adapted: adapted |
+| 5 | Настя | Костик, ты чуть палочку не съел. | Kostik, you nearly ate the cotton swab. | #255 00:19:48: Костик<br>#256 00:19:52: ватную палочку | adapted: adapted |
+| 6 | Настя | Это я делала тест на отцовство. | It was I who did a paternity test. | #257 00:19:55: Это я делала тест на отцовство | adapted: adapted |
+| 7 | Настя | Я брала слюну у вас обоих. | I took saliva from both of you. | #258 00:19:58: Брала слюну у тебя | adapted: adapted |
 | 8 | Костя | Ну и что показал этот тест? | Well, and what did that test show? | #259 00:20:02: Ну и | adapted: adapted |
-| 9 | Аня | Костя, он твой настоящий отец! | Kostya, he is your real father! | #260 00:20:05: Он твой отец | adapted: adapted |
+| 9 | Настя | Костя, он твой настоящий отец! | Kostya, he is your real father! | #260 00:20:05: Он твой отец | adapted: adapted |
 | 10 | Костя | Тогда я побежал скорее за ним! | Then I am running after him right away! | #261 00:20:11: быстрей<br>#262 00:20:13: Поехали | adapted: adapted |
-| 11 | Денис | Спасибо, что не сказал полицейским. | Thank you for not telling the police officers. | #263 00:20:18: Спасибо, что не сказал про меня полицейским | adapted: adapted |
+| 11 | Костя | Спасибо, что не сказал полицейским. | Thank you for not telling the police officers. | #263 00:20:18: Спасибо, что не сказал про меня полицейским | adapted: adapted |
 | 12 | Костя | Прости, это была очень плохая идея. | Forgive me, that was a very bad idea. | #264 00:20:20: Прости, это была очень плохая идея | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

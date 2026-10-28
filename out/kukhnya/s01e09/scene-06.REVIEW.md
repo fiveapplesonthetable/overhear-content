@@ -1,43 +1,41 @@
-# kukhnya-s01e09-scene-06: review sheet
+# Уроки кондитера  (Pastry Chef Lessons) — `kukhnya-s01e09-scene-06`
 
-Title: Уроки кондитера  (Pastry Chef Lessons)
-Level: A1
-Pair: ru-en
-Source: Кухня s01e09
-Cues 160-179 in the restaurant kitchen.
+**Source:** Кухня (Kukhnya) S1.09 · `sources/kukhnya/s01/e09.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `louis` | anja | Луи |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> In the pastry section of Claude Monet, pastry chef Louis gives Max energetic instructions on preparing an anniversary cake for a bank. While explaining how to whip the cream and melt the white chocolate, Louis suddenly realizes his favorite knife is missing. Listen to the dialogue in Russian first, and then we will examine each sentence.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Луи | Макс, быстрее! Уже пора добавлять яйца. | Max, faster! It is time to add the eggs. | #160 00:10:19: Быстрее. Уже пора добавлять яйца. | adapted: adapted: added name |
-| 2 | Макс | Луи, я делаю всё по рецепту. | Louis, I am doing everything according to the recipe. | new | new: new |
-| 3 | Луи | Обычно я делаю начинку сразу. | Usually I make the filling right away. | #161 00:10:24: Обычно я делаю начинку сразу, | adapted: verbatim |
-| 4 | Луи | Мешай равномерно, чтобы без комочков. | Stir evenly, so there are no lumps. | #165 00:10:36: Равномерно, чтобы без комочков. | adapted: adapted: added verb |
-| 5 | Макс | Сколько шоколада нужно разогреть? | How much chocolate needs to be melted? | #169 00:10:47: Сколько чего?<br>#168 00:10:45: И разогреть шоколад. | adapted: adapted: combined |
-| 6 | Луи | И разогреть шоколад на водяной бане. | And melt the chocolate in a water bath. | #168 00:10:45: И разогреть шоколад. | adapted: adapted: added detail |
-| 7 | Макс | Хорошо, белый или темный шоколад? | All right, white or dark chocolate? | new | new: new |
-| 8 | Луи | Только белый, для логотипа банка! | Only white, for the bank logo! | new | new: new |
-| 9 | Луи | О, телефон звонит, одну секунду. | Oh, the phone is ringing, one second. | #172 00:10:58: Телефон. | adapted: adapted: extended |
-| 10 | Луи | Алло? Нет, сейчас я на кухне. | Hello? No, right now I am in the kitchen. | new | new: new |
-| 11 | Макс | Луи, я закончил взбивать крем. | Louis, I finished whipping the cream. | new | new: new |
-| 12 | Луи | О, спасибо, отличная работа! | Oh, thank you, great job! | #176 00:11:11: О, спасибо. | adapted: adapted: added praise |
-| 13 | Луи | Постой, а где мой любимый нож? | Wait, where is my favorite knife? | #179 00:11:28: мой нож? | adapted: adapted: extended question |
-| 14 | Макс | Я не трогал твой нож, Луи. | I did not touch your knife, Louis. | new | new: new |
+| 0 | Луи | Макс, быстрее! Уже пора добавлять яйца. | Max, faster! It is time to add the eggs. | #160 "Быстрее. Уже пора добавлять яйца." |  |
+| 1 | Макс | Луи, я делаю всё по рецепту. | Louis, I am doing everything according to the recipe. | *(added)* |  |
+| 2 | Луи | Обычно я делаю начинку сразу. | Usually I make the filling right away. | #161 "Обычно я делаю начинку сразу," |  |
+| 3 | Луи | Мешай равномерно, чтобы без комочков. | Stir evenly, so there are no lumps. | #165 "Равномерно, чтобы без комочков." |  |
+| 4 | Макс | Сколько шоколада нужно разогреть? | How much chocolate needs to be melted? | #169 "Сколько чего?", #168 "И разогреть шоколад." |  |
+| 5 | Луи | И разогреть шоколад на водяной бане. | And melt the chocolate in a water bath. | #168 "И разогреть шоколад." |  |
+| 6 | Макс | Хорошо, белый или темный шоколад? | All right, white or dark chocolate? | *(added)* |  |
+| 7 | Луи | Только белый, для логотипа банка! | Only white, for the bank logo! | *(added)* |  |
+| 8 | Луи | О, телефон звонит, одну секунду. | Oh, the phone is ringing, one second. | #172 "Телефон." |  |
+| 9 | Луи | Алло? Нет, сейчас я на кухне. | Hello? No, right now I am in the kitchen. | *(added)* |  |
+| 10 | Макс | Луи, я закончил взбивать крем. | Louis, I finished whipping the cream. | *(added)* |  |
+| 11 | Луи | О, спасибо, отличная работа! | Oh, thank you, great job! | #176 "О, спасибо." |  |
+| 12 | Луи | Постой, а где мой любимый нож? | Wait, where is my favorite knife? | #178 "где" |  |
+| 13 | Макс | Я не трогал твой нож, Луи. | I did not touch your knife, Louis. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Max, faster! It is time to add the eggs.' Louis urges his kitchen assistant with impatient energy.
-- 'Louis, I am doing everything according to the recipe.' Max chooses the imperfective verb meaning 'am doing' for the ongoing action, followed by 'recipe'.
-- 'Usually I make the filling right away.' The phrasing opens with 'usually' before bringing in 'make' and 'filling' to make the point clear.
-- 'Stir evenly, so there are no lumps.' Louis explains the proper stirring technique.
-- 'How much chocolate needs to be melted?' Max puts the word for 'how much' together with 'chocolate' and 'it is necessary' in a crisp, natural spoken turn of phrase.
-- 'And melt the chocolate in a water bath.' Louis gives specific instructions on heating.
-- 'All right, white or dark chocolate?' Max checks which variety to use for the dessert.
-- 'Only white, for the bank logo!' Russian omits the present-tense verb 'to be' here, linking 'only' directly with 'white', combining 'only' with 'white' and 'logo'.
-- 'Oh, the phone is ringing, one second.' Louis puts the word for 'oh' together with 'phone' and 'is ringing' in a crisp, natural spoken turn of phrase.
-- 'Hello? No, right now I am in the kitchen.' Russian omits the present-tense verb 'to be' here, linking 'hello' directly with 'right now', combining 'hello' with 'right now' and 'kitchen'.
-- 'Louis, I finished whipping the cream.' Max uses the perfective verb meaning 'finished' to focus on the single completed result, pairing it with 'whipping' and 'cream'.
-- 'Oh, thank you, great job!' Louis compliments his assistant with warm praise.
-- 'Wait, where is my favorite knife?' Louis looks around in confusion for his tool.
-- 'I did not touch your knife, Louis.' Max denies taking the missing kitchen knife. Now, let us listen to the complete scene again to practice your comprehension.
+> A humorous culinary lesson that ends with a puzzling kitchen mystery. Next time you watch the episode, listen for the Russian expressions for 'bank' and 'bathhouse' — you will catch every word right away. See you next time!
+
+**Луи:** Пока!

@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s03/e05.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "hicham": "marcel", "lea": "lucie", "carlotta": "emilie"}`
-- **Labels**: `{"hicham": "Hicham", "lea": "Andréa", "carlotta": "Carlotta"}`
+- **Voices**: `{"narrator": "sky", "hicham": "marcel", "carlotta": "emilie", "lea": "lucie"}`
+- **Labels**: `{"hicham": "Hicham", "carlotta": "Carlotta", "lea": "Andréa"}`
 
 ## Part 1 — Intro
 > After an upsetting phone argument with his ex-wife about their son, Hicham visits Andrea's apartment late at night. Seeking comfort, he asks to hold his newborn baby daughter. Listen to the scene in French first.
@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Oui, tiens-la doucement contre toi. | Yes, hold her gently against you. | 828:comme ça |
 
 ## Part 5 — Outro & Closing
-> Holding his daughter in his arms brings quiet comfort to Hicham after a difficult evening. When you watch the episode, listen out for the expressions meaning 'wanted' and 'to speak'. You'll catch them now. See you next time.
+> Holding his daughter in his arms brings quiet comfort to Hicham after a difficult evening. When you watch the episode, listen out for the expressions meaning 'wanted' and 'to speak'. You'll catch them now. See you next time!
 - **Closing**: `hicham`: *Bonne soirée!*

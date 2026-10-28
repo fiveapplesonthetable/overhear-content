@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Nous allons t'aider avec le bébé. | We are going to help you with the baby. | 1043:On nous a mis à la porte de la crèche |
 
 ## Part 5 — Outro & Closing
-> Cast out of the local daycare following the babysitting incident with Jose Garcia, Andrea brings baby Flora to ASK and explains her parenting predicament to Gabriel. When you watch the episode, listen out for the expressions meaning 'find' and 'solution'. You'll catch them now. See you next time.
+> Cast out of the local daycare following the babysitting incident with Jose Garcia, Andrea brings baby Flora to ASK and explains her parenting predicament to Gabriel. When you watch the episode, listen out for the expressions meaning 'find' and 'solution'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e07-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 7
 SCENE = 18
 TITLE = "Ультиматум Вики  (Vika's Ultimatum)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
+LABELS = {"vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.07'
 SOURCE_FILE = 'sources/kukhnya/s05/e07.ru.srt'
 
 INTRO = "In the corridor, Vika confronts Max and demands that he leave both the restaurant and her life. When Max refuses to budge, she marches toward Chef Barinov's office with an ultimatum."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Determined to carry out her threat, Vika heads straight into Barinov's office while a football match is on. See you in the next scene."
-CLOSING = ('anya', 'Я тебя одну не оставлю.')
+OUTRO = "Determined to carry out her threat, Vika heads straight into Barinov's office while a football match is on. See you next time!"
+CLOSING = ("anya", "Хорошего дня!")

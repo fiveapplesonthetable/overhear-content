@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, no, I do not mind at all.' The negative particle sits right before the verb meaning 'there is no' to negate the statement. Vika answers right away.
 - 'What a wonderful aroma.' The grammar packs 'what' and 'aroma' into a tight, idiomatic kitchen exchange.
 - 'You are a magician, Max.' Max brings out the contrast between 'you' and 'a wizard' in a few short words.
-- 'I did my very best, specially for you.' Notice the reflexive suffix on the verb meaning 'tried', turning the action back on the subject. Vika answers right away.
+- 'I did my very best, specially for you.' In everyday Russian, 'tried' flows straight into 'on purpose, deliberately' without extra linking words.
 - 'Hello there, Viktoriya Sergeyevna.' The meaning hinges on 'hello' working together with 'Sergeyevna' in spoken Russian.
 - 'Have a seat, Viktoriya Sergeyevna.' Here the Russian phrasing highlights 'sit down' before landing on 'Sergeyevna'.
 - 'Everything in the restaurant is going fine.' Chef Viktor anchors the line on 'restaurant', while 'fine' completes the thought. Vika answers right away.

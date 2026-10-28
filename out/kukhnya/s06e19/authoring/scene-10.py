@@ -1,29 +1,29 @@
 ID = 'kukhnya-s06e19-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 19
 SCENE = 10
-TITLE = 'Утро после кражи платья  (The Morning After Stealing the Dress)'
+TITLE = "Утро после кражи платья  (The Morning After Stealing the Dress)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Денис', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja"}
+LABELS = {"kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.19'
 SOURCE_FILE = 'sources/kukhnya/s06/e19.ru.srt'
 
 INTRO = "On the morning of the wedding, Kostya and Denis wake up with terrible hangovers and zero memory of the night before—until Kostya spots Katya's white wedding dress hanging in the room! Denis grabs the dress to return it before Katya notices."
 
 STORY = [
-    ('anya', 'Костя, скажи, это сейчас ты?', 'Kostya, tell me, is that you right now?', [(152, 'это ты')], 'adapted'),
+    ('kostya', 'Костя, скажи, это сейчас ты?', 'Kostya, tell me, is that you right now?', [(152, 'это ты')], 'adapted'),
     ('kostya', 'Кажется, мы вчера сильно перебрали.', 'It seems we drank way too much yesterday.', [(155, 'перебрали')], 'adapted'),
-    ('anya', 'Я вообще ничего не помню.', 'I do not remember anything at all.', [(156, 'Я ничего не помню')], 'adapted'),
+    ('kostya', 'Я вообще ничего не помню.', 'I do not remember anything at all.', [(156, 'Я ничего не помню')], 'adapted'),
     ('kostya', 'У меня чуть сердце не встало!', 'My heart nearly stopped!', [(158, 'сердце перестало')], 'adapted'),
     ('kostya', 'Ты всё-таки спёр свадебное платье!', 'You stole the wedding dress after all!', [(159, 'Ты все-таки спер свадебное платье')], 'adapted'),
-    ('anya', 'Подожди, неужели это сделал я?', 'Wait, did I really do that?', [(160, 'Я')], 'adapted'),
-    ('anya', 'Ты хоть что-нибудь сейчас помнишь?', 'Do you remember anything at all right now?', [(161, 'Ты что-нибудь помнишь')], 'adapted'),
+    ('kostya', 'Подожди, неужели это сделал я?', 'Wait, did I really do that?', [(160, 'Я')], 'adapted'),
+    ('kostya', 'Ты хоть что-нибудь сейчас помнишь?', 'Do you remember anything at all right now?', [(161, 'Ты что-нибудь помнишь')], 'adapted'),
     ('kostya', 'Мы вчера ночью были в отеле.', 'Last night we were at the hotel.', [(162, 'вчера, кажется, были в отеле')], 'adapted'),
     ('kostya', 'Откуда мы взяли ключ от номера?', 'Where did we get the room key from?', [(163, 'откуда мы взяли ключ от номера')], 'adapted'),
-    ('anya', 'Этот ключ был у меня.', 'I had that key with me.', [(164, 'У меня')], 'adapted'),
+    ('kostya', 'Этот ключ был у меня.', 'I had that key with me.', [(164, 'У меня')], 'adapted'),
     ('kostya', 'Надо срочно вернуть его назад.', 'We need to return it back urgently.', [(165, 'Надо срочно его вернуть')], 'adapted'),
     ('kostya', 'Быстро верни свадебное платье Кате!', 'Quickly return the wedding dress to Katya!', [(166, 'Платье')], 'adapted'),
 ]
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Denis races to the hotel with the wedding gown, hoping to slip it back into Katya's room unseen. See you in the next scene."
-CLOSING = ('anya', 'Я уже бегу в отель!')
+OUTRO = "Denis races to the hotel with the wedding gown, hoping to slip it back into Katya's room unseen. See you next time!"
+CLOSING = ("kostya", "Пока!")

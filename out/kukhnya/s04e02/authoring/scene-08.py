@@ -1,14 +1,14 @@
-ID = "kukhnya-s04e02-scene-08"
-SHOW = "kukhnya"
+ID = 'kukhnya-s04e02-scene-08'
+SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 2
 SCENE = 8
-TITLE = 'Первый день официанта  (First Day as a Waiter)'
+TITLE = "Первый день официанта  (First Day as a Waiter)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'denis': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'denis': 'Денис', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S4.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "denis": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S4.02'
 SOURCE_FILE = 'sources/kukhnya/s04/e02.ru.srt'
 
 INTRO = "In the dining room, Max gives Denis a pep talk before his first shift as a waiter, while Viktor discovers that finding a new job is harder than he thought. Let's listen to the Russian dialogue."
@@ -31,22 +31,20 @@ STORY = [
 OPENER = 'Time to unpack every phrase from the exchange you just heard.'
 
 WALK = [
-    (0, None, "'The most important thing is to always smile.' Max uses natural conversational word order here to highlight the most important part of the reply."),
-    (1, None, "'Make it look more natural.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
+    (0, None, "'The most important thing is to always smile.' Max pairs 'the main thing' with 'smile' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
+    (1, None, "'Make it look more natural.' Spoken Russian keeps this brief and expressive, built right around 'make' without extra helper words."),
     (2, None, "'Go ahead. I believe in you.' Max uses the first-person pronoun in the case required by the Russian verb or preposition."),
-    (3, None, "'These things happen.' Denis uses natural conversational word order here to highlight the most important part of the reply."),
-    (4, None, "'You have a wonderful resume, but unfortunately you do not suit us.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (5, None, "'We will definitely call you back.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (6, None, "'Forgive me, I will fix everything.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately."),
-    (7, None, "'I think my finger is hurt.' Vika uses natural conversational word order here to highlight the most important part of the reply."),
+    (3, None, "'These things happen.' Spoken Russian keeps this brief and expressive, built right around 'it is' without extra helper words."),
+    (4, None, "'You have a wonderful resume, but unfortunately you do not suit us.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
+    (5, None, "'We will definitely call you back.' Notice how Russian puts 'definitely' and 'to call back' together in a short, direct phrase where word endings show how the ideas connect."),
+    (6, None, "'Forgive me, I will fix everything.' Denis uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away."),
+    (7, None, "'I think my finger is hurt.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (8, None, "'Let's go to the emergency clinic.' The past-tense verb ending marks the grammatical gender and number of the subject directly."),
-    (9, None, "'Easy, easy, calm down.' Max uses natural conversational word order here to highlight the most important part of the reply."),
-    (10, None, "'Unfortunately.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (11, None, "'Where are all of you even looking?' Vika uses natural conversational word order here to highlight the most important part of the reply."),
+    (9, None, "'Easy, easy, calm down.' Spoken Russian keeps this brief and expressive, built right around 'quiet' without extra helper words."),
+    (10, None, "'Unfortunately.' Vika centers this short reply on 'regret', letting a few direct words carry the whole meaning."),
+    (11, None, "'Where are all of you even looking?' In everyday Russian, 'where to' flows straight into 'look' without extra linking words."),
 ]
 
 TRANSITION = "Now let's replay the complete scene in Russian without interruption."
-
-OUTRO = "Now you have heard Denis's bumpy first shift as a waiter and Viktor's job-interview rejections. Those polite rejection formulas are worth remembering. See you in the next scene."
-CLOSING = ('anya', 'Вперёд. Я в тебя верю.')
-CLOSING_TRANS = 'Go ahead. I believe in you.'
+OUTRO = "Now you have heard Denis's bumpy first shift as a waiter and Viktor's job-interview rejections. Those polite rejection formulas are worth remembering. See you next time!"
+CLOSING = ("anya", "Всего хорошего!")

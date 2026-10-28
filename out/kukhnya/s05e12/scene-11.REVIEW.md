@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Аня | У тебя, наверное, ноги болят, да? | Your legs probably hurt, right? | #176 00:12:07: У тебя, наверное, ноги болят, да | adapted: adapted |
 | 6 | Аня | Расслабься. | Relax. | #177 00:12:11: Послабься | adapted: adapted |
 | 7 | Вика | Ой, хорошо, спасибо. | Oh, that is nice, thank you. | #172 00:11:57: Нормально | adapted: adapted |
-| 8 | Аня | Ну ты же хочешь секса? | Well you want sex, do you not? | #178 00:12:26: Ну ты же хочешь секса | adapted: adapted |
+| 8 | Аня | Ну ты же хочешь внимания? | Well you want attention, do you not? | #178 00:12:26: Ну ты же хочешь | adapted: adapted |
 | 9 | Аня | Твоя сестра сказала. | Your sister said so. | #179 00:12:27: Твоя сестра сказала | adapted: adapted |
 | 10 | Вика | Лавров, только не с тобой! | Lavrov, just not with you! | #180 00:12:29: Лавров, только не с тобой | adapted: adapted |
 | 11 | Вика | Всё, что мне от тебя нужно, — это завтрашний развод! | All that I need from you is tomorrow's divorce! | #181 00:12:32: Все, что мне от тебя нужно, это завтрашний развод | adapted: adapted |
@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Your legs probably hurt, right?' The grammar packs 'at' and 'yes' into a tight, idiomatic kitchen exchange.
 - 'Relax.' Max brings out the contrast between 'relax' and 'relax' in a few short words.
 - 'Oh, that is nice, thank you.' Vika anchors the line on 'oh', while 'thank you' completes the thought.
-- 'Well you want sex, do you not?' In Russian, the idea of 'come on' flows naturally into 'sex' without extra filler words.
+- 'Well you want attention, do you not?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'Your sister said so.' Spoken Russian keeps this brisk, leaning on 'your' and finishing on 'told'.
 - 'Lavrov, just not with you!' The grammar packs 'proper name' and 'you' into a tight, idiomatic kitchen exchange.
 - 'All that I need from you is tomorrow's divorce!' Notice how Russian expresses 'everything' and 'divorce' with crisp inflection rather than helper words. Max answers right away.

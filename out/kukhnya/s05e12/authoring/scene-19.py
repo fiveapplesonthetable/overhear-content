@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e12-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 12
 SCENE = 19
-TITLE = 'Разговор через вентиляцию  (Talking Through the Ventilation Shaft)'
+TITLE = "Разговор через вентиляцию  (Talking Through the Ventilation Shaft)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.12'
 SOURCE_FILE = 'sources/kukhnya/s05/e12.ru.srt'
 
 INTRO = "To reach Elena's locked room above the kitchen, Chef Barinov climbs into the ventilation shaft and gets stuck. Admitting to Max that it is time to take responsibility for his actions, Viktor inspires Max to speak to Vika through the vent and promise to stand by her and their daughter."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes the heartfelt scene in the ventilation shaft. Listen for the phrase meaning the time has come to answer for one's actions and Max's promise to Vika. See you in the next scene."
-CLOSING = ('anya', 'Я всегда буду рядом!')
+OUTRO = "And that finishes the heartfelt scene in the ventilation shaft. Listen for the phrase meaning the time has come to answer for one's actions and Max's promise to Vika. Until next time!"
+CLOSING = ("anya", "Всего хорошего!")

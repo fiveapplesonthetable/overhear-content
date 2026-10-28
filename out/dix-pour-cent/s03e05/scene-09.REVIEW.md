@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Allô Béatrice? Où es-tu exactement? | Hello Beatrice? Where are you exactly? | 333:Allô Béatrice, ça va ? T'es où là ? |
 
 ## Part 5 — Outro & Closing
-> Andrea breathes a sigh of relief as Beatrice finally reaches out by phone. When you watch the episode, listen out for the expressions meaning 'just' and 'call'. You'll catch them now. See you next time.
+> Andrea breathes a sigh of relief as Beatrice finally reaches out by phone. When you watch the episode, listen out for the expressions meaning 'just' and 'call'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e05-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 5
 SCENE = 6
-TITLE = 'Подсчёт недель  (Counting the Weeks)'
+TITLE = "Подсчёт недель  (Counting the Weeks)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.05'
 SOURCE_FILE = 'sources/kukhnya/s05/e05.ru.srt'
 
 INTRO = "At Kostya and Nastya's apartment, Kostya searches internet forums for advice on Max's dilemma. Nastya joins them for tea and points out a simple way to verify paternity: checking how many weeks along Vika is."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Armed with the twenty-week calculation, Max resolves to visit Vika's doctor the very next morning to learn the truth. See you in the next scene."
-CLOSING = ('anya', 'Завтра утром я всё проверю.')
+OUTRO = "Armed with the twenty-week calculation, Max resolves to visit Vika's doctor the very next morning to learn the truth. See you next time!"
+CLOSING = ("anya", "Пока!")

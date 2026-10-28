@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 4
-TITLE = "La réclamation américaine  (The American Claim)"
-LEVEL = "A1 — débutant"
+TITLE = 'La réclamation américaine  (The American Claim)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "In the executive office, director Hicham Janowski receives an explosive legal demand from abroad. American film producers are suing ASK for two million dollars after discovering Isabelle Huppert's secret double filming schedule. Let's listen to the scene in French first."
 OPENER = "Let's observe as Hicham informs Mathias of the disastrous lawsuit."
 TRANSITION = "Now let's listen to Hicham and Mathias again at full speed."
-OUTRO = "Furious over the impending multi-million dollar disaster, Hicham orders Mathias to contain the American fallout immediately. When you watch the episode, listen out for the expressions meaning 'letter' and 'registered'. You'll catch them now. See you next time."
-CLOSING = ("hicham", "À demain!")
+OUTRO = "Furious over the impending multi-million dollar disaster, Hicham orders Mathias to contain the American fallout immediately. When you watch the episode, listen out for the expressions meaning 'letter' and 'registered'. You'll catch them now. See you next time!"
+CLOSING = ('hicham', 'À demain!')
 STORY = [
     ('hicham', "Une lettre recommandée très grave vient d'arriver.", 'A very serious registered letter just arrived.', [(65, "J'ai un recommandé qui est arrivé")], ''),
     ('lea', 'De quelle société provient ce courrier?', 'Which company does this mail come from?', [(66, 'Moss et Dunning, les producteurs américains')], ''),

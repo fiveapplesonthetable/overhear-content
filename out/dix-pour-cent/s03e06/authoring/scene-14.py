@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 14
-TITLE = "Le royaume des morts  (The Realm of the Dead)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le royaume des morts  (The Realm of the Dead)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "realisateur": "marcel", "gabriel": "theo"}
-LABELS = {"realisateur": "Le réalisateur", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'realisateur': 'marcel', 'gabriel': 'theo'}
+LABELS = {'realisateur': 'Le réalisateur', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "The cameras roll as the stand-in delivers her solemn line on the forest film set. However, unexpected noises on the floor disrupt the delicate atmosphere during the take. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Gabriel successfully saves the tricky scene despite the director's complaints about ambient noise. When you watch the episode, listen out for the expressions meaning 'silence' and 'begins'. You'll catch them now. See you next time."
-CLOSING = ("realisateur", "Bonne soirée!")
+OUTRO = "Gabriel successfully saves the tricky scene despite the director's complaints about ambient noise. When you watch the episode, listen out for the expressions meaning 'silence' and 'begins'. You'll catch them now. See you next time!"
+CLOSING = ('realisateur', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Silence, elle commence sa réplique.', 'Quiet, she begins her line.', [(623, 'Je reviens du royaume')], ''),
     ('realisateur', 'Je reviens du royaume des morts.', 'I return from the realm of the dead.', [(623, 'Je reviens du royaume des morts')], ''),

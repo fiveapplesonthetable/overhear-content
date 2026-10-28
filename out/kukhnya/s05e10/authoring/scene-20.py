@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e10-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 10
 SCENE = 20
-TITLE = 'Пять звёзд за дружбу и любовь  (Five Stars for Friendship and Love)'
+TITLE = "Пять звёзд за дружбу и любовь  (Five Stars for Friendship and Love)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.10'
 SOURCE_FILE = 'sources/kukhnya/s05/e10.ru.srt'
 
 INTRO = 'Snapping out of her trance, Vika knocks out the hypnotist with a vase and jokes that living with Lavrov prepares a person for anything. As the episode closes, Max reflects that unlike hotels, true friendship, loyalty, and love can never be measured in stars.'
@@ -37,7 +37,7 @@ WALK = [
     (3, None, "'By which one could measure everything.' The meaning hinges on 'according to' working together with 'to measure' in spoken Russian."),
     (4, None, "'And give a rating to everything.' In Russian, the idea of 'and' flows naturally into 'grade' without extra filler words."),
     (5, None, "'You are a good four-star friend.' Max brings out the contrast between 'you' and 'good' in a few short words."),
-    (6, None, "'Or one can rely on you.' Notice the reflexive suffix on the verb meaning 'to rely on', turning the action back on the subject."),
+    (6, None, "'Or one can rely on you.' Here Max anchors the thought on 'may, can; it is allowed' and finishes on 'to rely on', keeping the spoken rhythm brisk and natural."),
     (7, None, "'You are an excellent five-star guy.' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'stars'."),
     (8, None, "'But all of that is unreal.' Max brings out the contrast between 'but' and 'everything' in a few short words."),
     (9, None, "'One cannot measure friendship or loyalty.' Max anchors the line on 'one must not', while 'loyalty' completes the thought."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that brings Episode Ten of Season Five to a warm finish. Listen for Max's closing reflection that you cannot measure friendship, loyalty, or love, unlike hotel star ratings. See you next time."
-CLOSING = ('anya', 'Нельзя измерить любовь!')
+OUTRO = "And that brings Episode Ten of Season Five to a warm finish. Listen for Max's closing reflection that you cannot measure friendship, loyalty, or love, unlike hotel star ratings. See you next time!"
+CLOSING = ("anya", "Пока!")

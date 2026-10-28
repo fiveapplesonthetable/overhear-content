@@ -1,22 +1,22 @@
 ID = 'kukhnya-s03e14-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 9
-TITLE = 'Бейсбол во дворе  (Baseball in the Courtyard)'
+TITLE = "Бейсбол во дворе  (Baseball in the Courtyard)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'senya': 'Сеня', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "anya": "alisa"}
+LABELS = {"senya": "Сеня", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = 'Seeing Senya and Fedya with baseball bats, Katya storms off with Stas, who raises his price to five hundred thousand rubles. Desperate, Max asks Senya and Fedya to help him with his own fight, but they refuse. Listen to the Russian dialogue first.'
 
 STORY = [
     ('senya', 'А мы тут просто в бейсбол хотели сыграть!', 'And we just wanted to play a game of baseball here!', [(145, 'А мы в бейсбол хотели сыграть')], 'adapted'),
-    ('katya', 'Говоришь, трогать его совсем не хотел?', 'You say you did not want to touch him at all?', [(148, 'Говоришь, трогать не хотел')], 'adapted'),
-    ('katya', 'Да я тебя больше видеть не могу!', 'I cannot bear the sight of you anymore!', [(149, 'Да я тебя видеть не могу')], 'adapted'),
+    ('senya', 'Говоришь, трогать его совсем не хотел?', 'You say you did not want to touch him at all?', [(148, 'Говоришь, трогать не хотел')], 'adapted'),
+    ('senya', 'Да я тебя больше видеть не могу!', 'I cannot bear the sight of you anymore!', [(149, 'Да я тебя видеть не могу')], 'adapted'),
     ('senya', 'Катя, да я не в курсе, они сами пришли!', 'Katya, I had no idea, they came on their own!', [(150, 'Катя, да я не в курсе, это они сами')], 'adapted'),
     ('anya', 'А теперь пятьсот тысяч минимум, понятно, батя?', 'And now five hundred thousand minimum, got it, pops?', [(151, 'минимум, понятно, батя')], 'adapted'),
     ('senya', 'Катя, милая моя, подожди меня!', 'Katya, my darling, wait for me!', [(152, 'Милая, подожди')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With Senya and Fedya busy fighting Chef Barinov's war, Max turns to his last hope: Timur arriving with deliveries in the back courtyard. Let's listen to Scene Ten."
-CLOSING = ('senya', 'У нас своя война.')
+OUTRO = "With Senya and Fedya busy fighting Chef Barinov's war, Max turns to his last hope: Timur arriving with deliveries in the back courtyard. Until next time!"
+CLOSING = ("senya", "Увидимся!")

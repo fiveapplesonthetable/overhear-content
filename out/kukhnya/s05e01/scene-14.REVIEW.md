@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Что, мы сейчас обязательно выиграем? | So, will we definitely win right now? | #227 00:16:23: сейчас обязательно | adapted: adapted |
+| 1 | Шеф | Что, мы сейчас обязательно выиграем? | So, will we definitely win right now? | #227 00:16:23: сейчас обязательно | adapted: adapted |
 | 2 | Сеня | Я дал вам самого лучшего. | I gave you the very best one. | #228 00:16:24: дал вам | adapted: adapted |
-| 3 | Аня | Выиграю я — будешь моим рабом. | If I win, you will be my servant. | #229 00:16:28: Выиграю я, будешь моим рабом | adapted: verbatim |
-| 4 | Михаил | Хорошо, я согласен на это. | Alright, I agree to that. | #230 00:16:34: Тогда если выиграю я | adapted: adapted |
-| 5 | Михаил | Если выиграю я, ты подчиняешься мне. | If I win, you obey me. | #230 00:16:34: если выиграю я, ты<br>#230 00:16:34: мне | adapted: adapted |
-| 6 | Михаил | Ты и ресторан подчиняетесь мне. | You and the restaurant report to me. | #230 00:16:34: ты и ресторан подчиняетесь мне | adapted: verbatim |
-| 7 | Аня | Давай начинай! | Go ahead and start! | #231 00:16:43: Давай | adapted: adapted |
+| 3 | Шеф | Выиграю я — будешь моим рабом. | If I win, you will be my servant. | #229 00:16:28: Выиграю я, будешь моим рабом | adapted: verbatim |
+| 4 | Шеф | Хорошо, я согласен на это. | Alright, I agree to that. | #230 00:16:34: Тогда если выиграю я | adapted: adapted |
+| 5 | Шеф | Если выиграю я, ты подчиняешься мне. | If I win, you obey me. | #230 00:16:34: если выиграю я, ты<br>#230 00:16:34: мне | adapted: adapted |
+| 6 | Шеф | Ты и ресторан подчиняетесь мне. | You and the restaurant report to me. | #230 00:16:34: ты и ресторан подчиняетесь мне | adapted: verbatim |
+| 7 | Шеф | Давай начинай! | Go ahead and start! | #231 00:16:43: Давай | adapted: adapted |
 | 8 | Сеня | И приготовились все сейчас. | And everyone get ready now. | #232 00:16:46: все | adapted: adapted |
 | 9 | Сеня | Начали! Давай, давай! | Started! Come on, come on! | #233 00:16:50: Начали! Давай, давай! | adapted: verbatim |
-| 10 | Аня | Пошёл, пошёл, быстрее вперёд! | Go, go, faster forward! | #234 00:16:53: Пошел, пошел | adapted: adapted |
-| 11 | Михаил | Ну, что я тебе говорил? | Well, what did I tell you? | #235 00:16:56: Ну, что я говорил? | adapted: adapted |
-| 12 | Аня | Ну какое же ты чудовище! | What a monster you are! | #235 00:16:56: ты чудовище! | adapted: adapted |
+| 10 | Шеф | Пошёл, пошёл, быстрее вперёд! | Go, go, faster forward! | #234 00:16:53: Пошел, пошел | adapted: adapted |
+| 11 | Шеф | Ну, что я тебе говорил? | Well, what did I tell you? | #235 00:16:56: Ну, что я говорил? | adapted: adapted |
+| 12 | Шеф | Ну какое же ты чудовище! | What a monster you are! | #235 00:16:56: ты чудовище! | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

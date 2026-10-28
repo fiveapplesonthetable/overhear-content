@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Alright then, Vitya, tonight you have a night shift.' Notice how Russian expresses 'so' and 'shift' with crisp inflection rather than helper words.
 - 'Listen, Dima, is there no way to do it without Katya?' Notice how Russian expresses 'listen' and 'one must not' with crisp inflection rather than helper words. Dmitry Nagiyev answers right away.
 - 'No way, I already promised the guys there would be fish ice cream.' Here the Russian phrasing highlights 'in no way' before landing on 'ice cream'.
-- 'And what kind of event are you having tonight?' The grammar packs 'and' and 'event' into a tight, idiomatic kitchen exchange.
+- 'And what kind of event are you having tonight?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Tonight I am going to play cards.' Notice how Russian expresses 'tonight' and 'to play' with crisp inflection rather than helper words.
 - 'I will be playing with good, respected people.' Here the Russian phrasing highlights 'will be' before landing on 'people'.
 - 'We need money, we are buying out the second floor, after all!' In Russian, the idea of 'money' flows naturally into 'are buying out' without extra filler words.

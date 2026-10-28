@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Maybe do not rush with the marriage proposal?' The negative particle sits right before the verb meaning 'to rush' to negate the statement.
 - 'Let me suggest one technique to you.' Here the Russian phrasing highlights 'come on' before landing on 'will suggest'.
 - 'It is a technique of calm meditation.' Chef Barinov brings out the contrast between 'this' and 'method' in a few short words.
-- 'I have been doing this meditation for the last month.' Notice the reflexive suffix on the verb meaning 'am handling', turning the action back on the subject.
+- 'I have been doing this meditation for the last month.' Notice how Russian puts 'with meditation' and 'am handling, am occupied with' together in a short, direct phrase where word endings show how the ideas connect.

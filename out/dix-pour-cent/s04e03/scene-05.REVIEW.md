@@ -26,5 +26,5 @@
 | 12 | `sofia` (Sofia) | D'accord, je vais assurer ce beau shooting. | All right, I will deliver on this fine shoot. | 152:une belle journée. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the tiffany's shoot. When you watch the episode, listen out for the expressions meaning 'seem' and 'tired.'. You'll catch them now. See you next time.
+> That's it for this scene around the tiffany's shoot. When you watch the episode, listen out for the expressions meaning 'seem' and 'tired.'. You'll catch them now. See you next time!
 - **Closing**: `sofia`: *À demain!*

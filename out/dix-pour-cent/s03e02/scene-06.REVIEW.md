@@ -26,5 +26,5 @@
 | 12 | `lea` (Andréa) | Je veux profiter un peu de notre liberté. | I want to enjoy our freedom a little bit. | 478:on peut pas profiter encore un tout petit peu de notre liberté. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around choosing baby names. When you watch the episode, listen out for the expressions meaning 'were supposed to' and 'to compare'. You'll catch them now. See you next time.
+> That's it for this scene around choosing baby names. When you watch the episode, listen out for the expressions meaning 'were supposed to' and 'to compare'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

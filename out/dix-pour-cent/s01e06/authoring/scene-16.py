@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 6
 SCENE = 16
 TITLE = "La vérité sur l'audition  (The Truth About the Audition)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie", "herve": "marcel"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'herve': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "At her audition, Sofia discovers to her horror that the role requires hip-hop dancing, something she cannot do at all. When the audition ends in disaster, Gabriel confronts Sofia back at the agency, and a furious argument erupts between them. Let's listen to the scene in French first; don't worry about catching every word."
 OPENER = "Let's go through it slowly. At the casting studio, Constance interrupts Sofia's audition."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Furious at Gabriel's stereotypes, Sofia tells him to take her off his client list and walks out. See you next time!"
-CLOSING = ("sofia", "Bonne soirée!")
+CLOSING = ('sofia', 'Bonne soirée!')
 STORY = [
     ('herve', "Ce n'est pas du tout ce que j'avais demandé.", 'That', [(438, "pas du tout ce que j'avais demandé")], ''),
     ('herve', "La danse d'abord. On reprend depuis le début. Prête?", 'The dance first. We start again from the beginning. Ready?', [(441, "La danse d'abord"), (443, 'On reprend depuis le début. Prête')], ''),

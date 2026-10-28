@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | Pas du tout. Ne force pas le directeur à choisir. | Not at all. Do not force the theatre director to choose. | 194:Pas du tout., 195:Force pas le directeur du théâtre à choisir entre toi et Berléand. |
 
 ## Part 5 — Outro & Closing
-> Andréa made her point clearly: a young director cannot push around an established star like François Berléand. next time, we will check in on Camille back at the agency.
+> Andréa made her point clearly: a young director cannot push around an established star like François Berléand. See you next time!
 - **Closing**: `christophe`: *Bonne journée!*

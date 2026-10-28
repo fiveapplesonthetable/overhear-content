@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Поставь завтра на Спартак пятьдесят тысяч. | Put fifty thousand on Spartak tomorrow. | #14 00:01:53: завтра на Спартак | adapted: adapted |
-| 2 | Михаил | Ты ей ещё сто тысяч должен. | You still owe her a hundred thousand. | #16 00:02:00: Ты мне еще 100 тысяч должен | adapted: adapted |
-| 3 | Аня | Она просит прийти лично с деньгами. | She asks me to come in person with the money. | #17 00:02:01: Хочешь поставить, приходи лично с деньгами | adapted: adapted |
-| 4 | Михаил | Ладно, я всё прекрасно понял. | Alright, I understood everything perfectly. | #18 00:02:04: Я понял | adapted: adapted |
-| 5 | Аня | Какая добрая женщина, сколько денег сэкономила. | What a kind woman, how much money she saved me. | #19 00:02:07: Добрая женщина, Вить, сколько она денег тебе сэкономила | adapted: adapted |
-| 6 | Михаил | Виктор, где ты весь день ходишь? | Viktor, where have you been walking all day? | #20 00:02:18: А ты где шляешься | adapted: adapted |
-| 7 | Аня | Что у тебя там в руках? | What do you have there in your hands? | #29 00:02:53: Шеф! Что? | adapted: adapted |
-| 8 | Михаил | Тут очень интересная статья про ресторан. | Here is a very interesting article about a restaurant. | #21 00:02:22: тут очень интересная статья про ресторан | adapted: adapted |
-| 9 | Аня | Атмосфера этого ресторана подкупает каждого гостя. | The atmosphere of this restaurant wins over every guest. | #22 00:02:29: Атмосфера этого ресторана подкупает | adapted: adapted |
-| 10 | Михаил | И радует тёплым уютом домашнего очага. | And delights with the warm comfort of home. | #23 00:02:35: уютом домашнего очага | adapted: adapted |
-| 11 | Аня | Вы только послушайте эти красивые слова. | Just listen to these beautiful words. | #25 00:02:40: Вы только послушайте | adapted: adapted |
-| 12 | Михаил | Одним словом, конкурент отлично держит марку. | In a word, the competitor holds his standard well. | #27 00:02:46: Одним словом, Андрей Дягилев держит марку | adapted: adapted |
-| 13 | Аня | Это писал какой-то продажный журналист! | Some corrupt journalist wrote this! | #28 00:02:50: Это не кричит, писал | adapted: adapted |
+| 1 | Шеф | Поставь завтра на Спартак пятьдесят тысяч. | Put fifty thousand on Spartak tomorrow. | #14 00:01:53: завтра на Спартак | adapted: adapted |
+| 2 | Шеф | Ты ей ещё сто тысяч должен. | You still owe her a hundred thousand. | #16 00:02:00: Ты мне еще 100 тысяч должен | adapted: adapted |
+| 3 | Шеф | Она просит прийти лично с деньгами. | She asks me to come in person with the money. | #17 00:02:01: Хочешь поставить, приходи лично с деньгами | adapted: adapted |
+| 4 | Шеф | Ладно, я всё прекрасно понял. | Alright, I understood everything perfectly. | #18 00:02:04: Я понял | adapted: adapted |
+| 5 | Шеф | Какая добрая женщина, сколько денег сэкономила. | What a kind woman, how much money she saved me. | #19 00:02:07: Добрая женщина, Вить, сколько она денег тебе сэкономила | adapted: adapted |
+| 6 | Шеф | Виктор, где ты весь день ходишь? | Viktor, where have you been walking all day? | #20 00:02:18: А ты где шляешься | adapted: adapted |
+| 7 | Шеф | Что у тебя там в руках? | What do you have there in your hands? | #29 00:02:53: Шеф! Что? | adapted: adapted |
+| 8 | Шеф | Тут очень интересная статья про ресторан. | Here is a very interesting article about a restaurant. | #21 00:02:22: тут очень интересная статья про ресторан | adapted: adapted |
+| 9 | Шеф | Атмосфера этого ресторана подкупает каждого гостя. | The atmosphere of this restaurant wins over every guest. | #22 00:02:29: Атмосфера этого ресторана подкупает | adapted: adapted |
+| 10 | Шеф | И радует тёплым уютом домашнего очага. | And delights with the warm comfort of home. | #23 00:02:35: уютом домашнего очага | adapted: adapted |
+| 11 | Шеф | Вы только послушайте эти красивые слова. | Just listen to these beautiful words. | #25 00:02:40: Вы только послушайте | adapted: adapted |
+| 12 | Шеф | Одним словом, конкурент отлично держит марку. | In a word, the competitor holds his standard well. | #27 00:02:46: Одним словом, Андрей Дягилев держит марку | adapted: adapted |
+| 13 | Шеф | Это писал какой-то продажный журналист! | Some corrupt journalist wrote this! | #28 00:02:50: Это не кричит, писал | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

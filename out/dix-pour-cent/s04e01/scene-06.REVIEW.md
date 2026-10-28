@@ -26,5 +26,5 @@
 | 12 | `lea` (Andréa) | Bien sûr, on te croit sur parole! | Of course, we believe your word! | 483:Ouais, on te croit vraiment. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around mathias's signature. When you watch the episode, listen out for the expressions meaning 'pact' and 'of shareholders'. You'll catch them now. See you next time.
+> That's it for this scene around mathias's signature. When you watch the episode, listen out for the expressions meaning 'pact' and 'of shareholders'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

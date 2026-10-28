@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 6
 SCENE = 18
 TITLE = "L'adieu lucide  (A Clear-Eyed Farewell)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "On a quiet bench in a Parisian park, Andrea Martel and Colette Brancillon watch over baby Flora. With genuine honesty, Andrea reflects on their painful separation and confronts her own nature as an ambitious agent. Together, they make a mature decision about their future and their daughter. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "With heavy hearts but clear minds, Andrea and Colette release their romantic past. When you watch the episode, listen out for the expressions meaning 'blow' and 'crying'. You'll catch them now. See you next time."
-CLOSING = ("colette", "Bonne soirée!")
+OUTRO = "With heavy hearts but clear minds, Andrea and Colette release their romantic past. When you watch the episode, listen out for the expressions meaning 'blow' and 'crying'. You'll catch them now. See you next time!"
+CLOSING = ('colette', 'Bonne soirée!')
 STORY = [
     ('colette', "Qu'est-ce qu'elle a tout à coup?", 'What is wrong with her suddenly?', [(828, "Qu'est-ce qu'elle a ?")], ''),
     ('lea', 'Ce sont des pleurs de soulagement.', 'These are tears of relief.', [(829, "C'est des pleurs de décompression, je crois...")], ''),

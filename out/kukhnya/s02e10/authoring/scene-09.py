@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e10-scene-09"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e10-scene-09'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 10
 SCENE = 9
-TITLE = 'Саша переезжает к Максу и Косте  (Sasha Moves In with Max and Kostya)'
+TITLE = "Саша переезжает к Максу и Косте  (Sasha Moves In with Max and Kostya)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.10"
-SOURCE_FILE = "sources/kukhnya/s02/e10.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.10'
+SOURCE_FILE = 'sources/kukhnya/s02/e10.ru.srt'
 
 INTRO = 'Feeling responsible for the flood, Max invites Sasha to move into his apartment with him and Kostya. Although Sasha first suspects he is only asking out of guilt, she happily accepts and starts kissing him right on the kitchen table as Kostya walks in.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 9 of Episode 10, listen out for the exchange around sasha moves in with max and kostya — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Костик, закрой глаза.')
+OUTRO = "That wraps up this scene as max invites Sasha to move into his and Kostya's apartment, and she immediately makes herself at home while Kostya awkwardly walks in on them. Until next time!"
+CLOSING = ("anya", "До свидания!")

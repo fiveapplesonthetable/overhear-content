@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 24
 TITLE = "L'accouchement à l'agence  (Delivery at the Agency)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"arlette": "Arlette", "mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'arlette': 'Arlette', 'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "In Andrea's office, an emergency birth unfolds as Arlette calls a midwife on speakerphone and guides a stunned Mathias through delivering the baby. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this intense emergency delivery in the ASK office step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Coached over speakerphone by a midwife, Mathias and Arlette successfully deliver Andrea's baby right inside the ASK agency office. When you watch the episode, listen out for the expressions meaning 'instructs' and 'birth specialist'. You'll catch them now. See you next time."
-CLOSING = ("arlette", "À bientôt!")
+OUTRO = "Coached over speakerphone by a midwife, Mathias and Arlette successfully deliver Andrea's baby right inside the ASK agency office. When you watch the episode, listen out for the expressions meaning 'instructs' and 'birth specialist'. You'll catch them now. See you next time!"
+CLOSING = ('arlette', 'À bientôt!')
 STORY = [
     ('arlette', "Qu'est-ce qu'elle dit, la sage-femme?", 'What is the midwife saying?', [(1324, 'Elle dit quoi, la sage-femme')], ''),
     ('arlette', 'On est dans des bureaux ici!', 'We are in office spaces here!', [(1325, 'on est dans des bureaux')], ''),

@@ -14,13 +14,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Гость | Может, поедешь со мной в Париж? | Maybe you will go to Paris with me? | #2 00:00:28: Может, со мной в Париж | adapted: adapted |
 | 3 | Гость | Там мы найдём тебе хорошую работу. | There we will find you a good job. | #3 00:00:30: Там, Париж. Найдем тебе работу | adapted: adapted |
 | 4 | Гость | Или тебя здесь что-то держит? | Or is something keeping you here? | #4 00:00:33: Или тебя здесь что-то держат | adapted: adapted |
-| 5 | Аня | Нет, меня здесь ничего не держит. | No, nothing is keeping me here. | #5 00:00:35: Ну, нет | adapted: adapted |
-| 6 | Аня | А ты случайно не слишком торопишься? | Are you not rushing things a bit too much? | #6 00:00:45: А ты не слишком торопишься | adapted: adapted |
+| 5 | Катя | Нет, меня здесь ничего не держит. | No, nothing is keeping me here. | #5 00:00:35: Ну, нет | adapted: adapted |
+| 6 | Катя | А ты случайно не слишком торопишься? | Are you not rushing things a bit too much? | #6 00:00:45: А ты не слишком торопишься | adapted: adapted |
 | 7 | Гость | Я целую тебя впервые за пять лет. | I am kissing you for the first time in five years. | #7 00:00:47: Я целую тебя впервые за пять лет знакомства | adapted: adapted |
 | 8 | Гость | По-моему, я уже жутко опаздываю. | In my opinion, I am already terribly late. | #8 00:00:50: По-моему, я жутко опаздываю | adapted: adapted |
-| 9 | Аня | Слышишь, это сработала пожарная сигнализация. | Listen, the fire alarm has gone off. | #9 00:01:05: Это пожарная сигнализация | adapted: adapted |
-| 10 | Аня | Нам сейчас срочно надо идти на улицу. | We urgently need to go outside right now. | #10 00:01:07: Надо идти | adapted: adapted |
-| 11 | Денис | Прости, пожалуйста, я совсем случайно. | Forgive me, please, it was completely accidental. | #12 00:01:21: Прости, пожалуйста | adapted: adapted |
+| 9 | Катя | Слышишь, это сработала пожарная сигнализация. | Listen, the fire alarm has gone off. | #9 00:01:05: Это пожарная сигнализация | adapted: adapted |
+| 10 | Катя | Нам сейчас срочно надо идти на улицу. | We urgently need to go outside right now. | #10 00:01:07: Надо идти | adapted: adapted |
+| 11 | Гость | Прости, пожалуйста, я совсем случайно. | Forgive me, please, it was completely accidental. | #12 00:01:21: Прости, пожалуйста | adapted: adapted |
 | 12 | Гость | Ничего страшного, это просто красное вино. | No big deal, it is just red wine. | #12 00:01:21: Ничего, ничего, ничего | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e08-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 8
 SCENE = 3
 TITLE = "Возвращение Макса на кухню  (Max's Return to the Kitchen)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.08"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.08'
 SOURCE_FILE = 'sources/kukhnya/s03/e08.ru.srt'
 
 INTRO = 'Tired of seeing Max working as a waiter in the dining room like a silent reproach from the past, Nagiyev orders Chef Barinov to take Max back into the kitchen.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Nagiyev insists that Barinov take Max back into the kitchen, and Barinov sees an opportunity to ask Nagiyev for a favor in return.'
-CLOSING = ('nagiyev', 'Возьми его обратно назад!')
+OUTRO = 'Nagiyev insists that Barinov take Max back into the kitchen, and Barinov sees an opportunity to ask Nagiyev for a favor in return. Until next time!'
+CLOSING = ("nagiyev", "Хорошего дня!")

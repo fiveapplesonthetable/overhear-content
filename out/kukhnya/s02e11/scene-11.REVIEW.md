@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Слушай, я тут подумал насчет нашего спора. | Listen, I was thinking about our argument. | #186 00:12:27: Слушай, я тут подумал насчет нашего спора | verbatim |
-| 2 | Макс | Я был неправ. | I was wrong. | #187 00:12:32: Я был неправ | verbatim |
-| 3 | Аня | Ты прав. | You were right. | #188 00:12:34: Ты прав | verbatim |
-| 4 | Макс | Да ладно, это я неправ, это ты прав. | Come on, I was the one who was wrong, you were right. | #189 00:12:36: Да ладно, это я неправ, это ты прав | verbatim |
-| 5 | Аня | Да я спорил только ради спор. | I was only arguing for the sake of arguing. | #190 00:12:38: Да я спорил только ради спор | verbatim |
-| 6 | Макс | Галкин популярнее в России. | Galkin is more popular in Russia. | #191 00:12:39: Галкин популярнее в России | verbatim |
-| 7 | Аня | А что ты так быстро согласился? | Wait, why did you agree so quickly? | #192 00:12:54: А что ты так быстро согласился | verbatim |
-| 8 | Макс | С тобой что, Лёва разговаривал? | Did Lyova talk to you too? | #193 00:12:57: С тобой что, Лёва разговаривал | verbatim |
-| 9 | Аня | Чего? Да ладно? | What? No way? | #194 00:12:59: Чего? Да ладно | verbatim |
-| 10 | Макс | Ага, тоже? | Yeah, he told you the same thing? | #195 00:13:02: Ага, тоже | verbatim |
-| 11 | Аня | Я тебя, может, проверял? | Maybe I was just testing you? | #196 00:13:06: Я тебя, может, проверял | verbatim |
-| 12 | Макс | А ты сдался. | And you caved in. | #197 00:13:08: А ты сдался | verbatim |
-| 13 | Аня | Я не сдался. | I did not cave in. | #197 00:13:08: Я не сдался | verbatim |
+| 1 | Лёва | Слушай, я тут подумал насчет нашего спора. | Listen, I was thinking about our argument. | #186 00:12:27: Слушай, я тут подумал насчет нашего спора | verbatim |
+| 2 | Аня | Я был неправ. | I was wrong. | #187 00:12:32: Я был неправ | verbatim |
+| 3 | Лёва | Ты прав. | You were right. | #188 00:12:34: Ты прав | verbatim |
+| 4 | Аня | Да ладно, это я неправ, это ты прав. | Come on, I was the one who was wrong, you were right. | #189 00:12:36: Да ладно, это я неправ, это ты прав | verbatim |
+| 5 | Лёва | Да я спорил только ради спор. | I was only arguing for the sake of arguing. | #190 00:12:38: Да я спорил только ради спор | verbatim |
+| 6 | Аня | Галкин популярнее в России. | Galkin is more popular in Russia. | #191 00:12:39: Галкин популярнее в России | verbatim |
+| 7 | Лёва | А что ты так быстро согласился? | Wait, why did you agree so quickly? | #192 00:12:54: А что ты так быстро согласился | verbatim |
+| 8 | Аня | С тобой что, Лёва разговаривал? | Did Lyova talk to you too? | #193 00:12:57: С тобой что, Лёва разговаривал | verbatim |
+| 9 | Лёва | Чего? Да ладно? | What? No way? | #194 00:12:59: Чего? Да ладно | verbatim |
+| 10 | Аня | Ага, тоже? | Yeah, he told you the same thing? | #195 00:13:02: Ага, тоже | verbatim |
+| 11 | Лёва | Я тебя, может, проверял? | Maybe I was just testing you? | #196 00:13:06: Я тебя, может, проверял | verbatim |
+| 12 | Аня | А ты сдался. | And you caved in. | #197 00:13:08: А ты сдался | verbatim |
+| 13 | Лёва | Я не сдался. | I did not cave in. | #197 00:13:08: Я не сдался | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

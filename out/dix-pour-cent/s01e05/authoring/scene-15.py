@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 5
 SCENE = 15
 TITLE = "Tu es un animal, Didier  (You're an Animal, Didier)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "joey": "marcel", "costumiere": "emilie"}
-LABELS = {"gabriel": "Gabriel", "joey": "JoeyStarr", "costumiere": "Costumière"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'joey': 'marcel', 'costumiere': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'joey': 'JoeyStarr', 'costumiere': 'Costumière'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Down the hall in JoeyStarr's hotel room, a costume assistant finishes fitting Didier's eighteenth-century shirt just as Gabriel breaks the news that the love scene with Julie is happening tomorrow morning. Behind his tough-guy image, Didier is suddenly shy about his body and his historical research, so Gabriel tries to boost his confidence — a little too intensely. Let's listen in French first."
 OPENER = "Now let's break down the scene line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Even tough-talking JoeyStarr gets stage fright before a period romance scene, especially when he overthinks eighteenth-century history. Keep the expression for gaining weight in mind: to take some weight. See you next time!'
-CLOSING = ("joey", "Au revoir!")
+CLOSING = ('joey', 'Au revoir!')
 STORY = [
     ('costumiere', "Ça t'ira très bien.", 'That will suit you very well.', [(265, "Ça t'ira très bien")], ''),
     ('joey', "J'ai pris du poids.", 'I have put on weight.', [(265, "J'ai pris du poids")], ''),

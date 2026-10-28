@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Bonne nuit, mon petit bébé. | Goodnight, my little baby. | 433:Bonne nuit, ma chérie. |
 
 ## Part 5 — Outro & Closing
-> After facing the strict director's anger, Andrea walks away with Flora in her arms. When you watch the episode, listen out for the expressions meaning 'late' and 'madam'. You'll catch them now. See you next time.
+> After facing the strict director's anger, Andrea walks away with Flora in her arms. When you watch the episode, listen out for the expressions meaning 'late' and 'madam'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

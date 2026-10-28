@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 25
-TITLE = "La femme du site  (The Woman from the Website)"
-LEVEL = "A1 — débutant"
+TITLE = 'La femme du site  (The Woman from the Website)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "She has: a few nights ago, on a dating website, Andréa chatted with a woman and ended the chat with a very rude message. That woman was Colette. We'll hear the scene in French first. Don't worry about every word; the looks between them say a lot. Let's listen to the scene in French first."
 OPENER = "Let's go back through it. Andréa starts with a smile, trying to place the face."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "A very awkward meeting, and not the last one between these two. Notice how the polite 'you' keeps a cool distance between them the whole time. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "A very awkward meeting, and not the last one between these two. Notice how the polite 'you' keeps a cool distance between them the whole time. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('lea', "C'est dingue! Je vous ai vue quelque part.", "It's crazy! I've seen you somewhere.", [(640, "C'est dingue"), (641, 'vue quelque part')], ''),
     ('colette', 'Je vais vous donner un indice.', 'I', [(642, 'Je vais vous donner un indice')], ''),

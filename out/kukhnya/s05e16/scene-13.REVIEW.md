@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Вот и моя нежная говяжья вырезка с белым трюфелем! | Here is my tender beef tenderloin with white truffle! | #211 00:14:46: Моя говяжья вырезка с белым трюфелем | adapted: adapted |
-| 2 | Аня | Добрый вечер, какие прекрасные цветы на твоём столе! | Good evening, what lovely flowers on your table! | #212 00:14:54: Прекрасный | adapted: adapted |
-| 3 | Нагиев | Присаживайся со мной, может, выпьем моего хорошего вина? | Have a seat with me, maybe we should drink some of my good wine? | #217 00:15:14: Может, вина выпьем моего | adapted: adapted |
-| 4 | Аня | С большим удовольствием, я от тебя такого не ожидала! | With great pleasure, I did not expect this from you! | #218 00:15:16: С удовольствием. Я не ожидала | adapted: adapted |
-| 5 | Аня | Не думала, что ты способен так красиво ухаживать. | I did not think that you were capable of courting so beautifully. | #219 00:15:20: что ты способен так красиво ухаживать | adapted: adapted |
-| 6 | Нагиев | Подумаешь, просто угостил тебя вином и белым трюфелем! | Big deal, I just treated you to wine and white truffle! | #221 00:15:28: Вином, вон, трюфелем белым | adapted: adapted |
-| 7 | Аня | Не скромничай, такое упорство и такое редкое терпение! | Do not be modest, such persistence and such rare patience! | #223 00:15:34: Такое терпение | adapted: adapted |
-| 8 | Аня | Выпьем за тебя, мой таинственный и смелый романтик! | Let's drink to you, my mysterious and bold romantic! | #224 00:15:36: За тебя мой брутальный романтик | adapted: adapted |
-| 9 | Аня | Этот прекрасный вечер полностью оправдывает все мои ожидания. | This wonderful evening completely lives up to all my expectations. | #226 00:15:51: Этот вечер оправдывает мои ожидания | adapted: adapted |
-| 10 | Нагиев | Кажется, мои смелые ожидания он тоже полностью оправдывает! | It seems it completely lives up to my bold expectations too! | #227 00:15:58: Мои, кажется, тоже | adapted: adapted |
-| 11 | Аня | Давай продолжим наш романтический ужин у меня в номере? | Let's continue our romantic dinner up in my hotel room? | #231 00:16:10: Давай продолжим у меня в номере | adapted: adapted |
-| 12 | Аня | Гуля, принеси всё туда и приборы на две персоны! | Gulya, bring everything up there and silverware for two! | #236 00:16:31: Принеси все туда. И приборы на две персоны | adapted: adapted |
+| 1 | Элеонора | Вот и моя нежная говяжья вырезка с белым трюфелем! | Here is my tender beef tenderloin with white truffle! | #211 00:14:46: Моя говяжья вырезка с белым трюфелем | adapted: adapted |
+| 2 | Элеонора | Добрый вечер, какие прекрасные цветы на твоём столе! | Good evening, what lovely flowers on your table! | #212 00:14:54: Прекрасный | adapted: adapted |
+| 3 | Элеонора | Присаживайся со мной, может, выпьем моего хорошего вина? | Have a seat with me, maybe we should drink some of my good wine? | #217 00:15:14: Может, вина выпьем моего | adapted: adapted |
+| 4 | Элеонора | С большим удовольствием, я от тебя такого не ожидала! | With great pleasure, I did not expect this from you! | #218 00:15:16: С удовольствием. Я не ожидала | adapted: adapted |
+| 5 | Элеонора | Не думала, что ты способен так красиво ухаживать. | I did not think that you were capable of courting so beautifully. | #219 00:15:20: что ты способен так красиво ухаживать | adapted: adapted |
+| 6 | Элеонора | Подумаешь, просто угостил тебя вином и белым трюфелем! | Big deal, I just treated you to wine and white truffle! | #221 00:15:28: Вином, вон, трюфелем белым | adapted: adapted |
+| 7 | Элеонора | Не скромничай, такое упорство и такое редкое терпение! | Do not be modest, such persistence and such rare patience! | #223 00:15:34: Такое терпение | adapted: adapted |
+| 8 | Элеонора | Выпьем за тебя, мой таинственный и смелый романтик! | Let's drink to you, my mysterious and bold romantic! | #224 00:15:36: За тебя мой брутальный романтик | adapted: adapted |
+| 9 | Элеонора | Этот прекрасный вечер полностью оправдывает все мои ожидания. | This wonderful evening completely lives up to all my expectations. | #226 00:15:51: Этот вечер оправдывает мои ожидания | adapted: adapted |
+| 10 | Элеонора | Кажется, мои смелые ожидания он тоже полностью оправдывает! | It seems it completely lives up to my bold expectations too! | #227 00:15:58: Мои, кажется, тоже | adapted: adapted |
+| 11 | Элеонора | Давай продолжим наш романтический ужин у меня в номере? | Let's continue our romantic dinner up in my hotel room? | #231 00:16:10: Давай продолжим у меня в номере | adapted: adapted |
+| 12 | Элеонора | Гуля, принеси всё туда и приборы на две персоны! | Gulya, bring everything up there and silverware for two! | #236 00:16:31: Принеси все туда. И приборы на две персоны | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

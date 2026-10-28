@@ -29,5 +29,5 @@
 | 15 | `mathias` (Mathias) | Merci. | Thank you. | 603:Merci |
 
 ## Part 5 — Outro & Closing
-> That's the scene: words like radiant and student change their sound for a woman, and now you can hear the difference. See you soon.
+> That's the scene: words like radiant and student change their sound for a woman, and now you can hear the difference. See you next time!
 - **Closing**: `miranda`: *Au revoir, Mathias!*

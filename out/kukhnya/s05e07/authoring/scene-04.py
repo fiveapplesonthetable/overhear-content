@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e07-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 7
 SCENE = 4
-TITLE = 'Евгений Максимович Лавров  (Yevgeny Maximovich Lavrov)'
+TITLE = "Евгений Максимович Лавров  (Yevgeny Maximovich Lavrov)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.07'
 SOURCE_FILE = 'sources/kukhnya/s05/e07.ru.srt'
 
 INTRO = 'Back in the kitchen, Vika orders a tuna sandwich only to find Max standing right in front of her. Max reveals he overheard her phone conversation with her sister and knows for certain that the baby is his.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Before Vika can stop him, Max swipes her car keys from her bag and asks Chef Barinov for his old job back. See you in the next scene.'
-CLOSING = ('vika', 'Зачем ты его взял на работу?')
+OUTRO = 'Before Vika can stop him, Max swipes her car keys from her bag and asks Chef Barinov for his old job back. See you next time!'
+CLOSING = ("vika", "Хорошего дня!")

@@ -30,5 +30,5 @@
 | 16 | `cecile` (Cécile) | C'est comme un rêve pour moi. | It | 68:C'est comme un rêve pour moi |
 
 ## Part 5 — Outro & Closing
-> That's the opening of the episode, and you've already met the polite 'you' between an agent and his star. When you watch it, listen for the phone calls and the apologies; they'll sound familiar now. Until next time.
+> That's the opening of the episode, and you've already met the polite 'you' between an agent and his star. When you watch it, listen for the phone calls and the apologies; they'll sound familiar now. See you next time!
 - **Closing**: `cecile`: *Bonne soirée!*

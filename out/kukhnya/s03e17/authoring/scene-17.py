@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 17
 TITLE = "Признание олигарха  (The Oligarch's Confession)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "guest": "anja", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = 'In the corridor, Chef Barinov praises Max for saving the banquet, and Max gives the credit to Ainura. Seconds later, Nagiyev walks into the restroom and finds Sergey Fyodorovich holding a pistol!'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nagiyev's dream of a rich investor vanishes in an instant when he learns the oligarch is just as broke as he is."
-CLOSING = ('guest', 'Я без денег никому не нужен.')
+OUTRO = "Nagiyev's dream of a rich investor vanishes in an instant when he learns the oligarch is just as broke as he is. Until next time!"
+CLOSING = ("guest", "Хорошего дня!")

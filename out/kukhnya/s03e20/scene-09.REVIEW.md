@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Yes, you and I really were in a relationship.' Here the Russian phrasing highlights 'yes' before landing on 'relationship'.
-- 'And perhaps I even loved you very much back then.' The grammar packs 'and' and 'loved' into a tight, idiomatic kitchen exchange.
+- 'And perhaps I even loved you very much back then.' Here Vika anchors the thought on 'perhaps, possible' and finishes on 'loved', keeping the spoken rhythm brisk and natural.
 - 'I loved you until one day you cheated on me.' The meaning hinges on 'loved' working together with 'cheated on' in spoken Russian.
 - 'Yeah, that old Max was a real fool.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'fool'. Vika answers right away.
 - 'How does it always work out so easily for you?' Vika anchors the line on 'how', while 'to work out' completes the thought.
 - 'You know how to turn everything in the world to your advantage.' The grammar packs 'you' and 'benefit' into a tight, idiomatic kitchen exchange.
 - 'You just bumped your head like that and immediately forgot everything!' An emphatic spoken line centered on the verb meaning 'hit'. Max answers right away.
-- 'And maybe it is a good thing that I forgot everything?' The grammar packs 'and' and 'to forget' into a tight, idiomatic kitchen exchange.
+- 'And maybe it is a good thing that I forgot everything?' Max pairs 'maybe' with 'to forget' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Maybe now we will be able to start everything from the beginning?' The meaning hinges on 'maybe' working together with 'at first' in spoken Russian.
 - 'There is one small problem here: I did not hit my head.' The '-a' ending on the past-tense verb for 'hit' marks a female speaker or subject. Max answers right away.
 - 'Alright, I will leave, it was a bad idea to stay at your place.' Here the Russian phrasing highlights 'all right' before landing on 'you'.

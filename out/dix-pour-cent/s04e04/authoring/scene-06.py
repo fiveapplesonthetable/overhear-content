@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 4
 SCENE = 6
 TITLE = "Le débriefing de Camille  (Camille's Debrief)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "herve": "marcel"}
-LABELS = {"camille": "Camille", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Returning to her desk after a confidential business lunch, Camille is immediately questioned by Herve. To tease her nosy colleague, Camille pretends the meal ended in a wild romantic encounter. Let's listen to their playful banter in French first."
 OPENER = "Let's explore Camille and Herve's entertaining exchange line by line."
 TRANSITION = "Now let's listen to Camille and Herve's full conversation once again from start to finish."
-OUTRO = "That's it for this scene around camille's debrief. When you watch the episode, listen out for the expressions meaning 'spent' and 'time?'. You'll catch them now. See you next time."
-CLOSING = ("camille", "Bonne journée!")
+OUTRO = "That's it for this scene around camille's debrief. When you watch the episode, listen out for the expressions meaning 'spent' and 'time?'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'Bonne journée!')
 STORY = [
     ('herve', 'Alors, tu as passé un bon moment?', 'So, did you have a good time?', [(449, "T'as passé un bon moment ?")], ''),
     ('camille', 'Oui, notre déjeuner était vraiment super.', 'Yes, our lunch was really great.', [(450, 'Super.')], ''),

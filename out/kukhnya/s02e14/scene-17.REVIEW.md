@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сейчас сюда придет Елена Павловна. | Elena Pavlovna is coming in here right now. | #291 00:17:43: Сейчас сюда придет Елена Павловна | verbatim |
-| 2 | Саша | Что ж у нас? | What are we going to do? | #294 00:18:01: Что ж у нас | verbatim |
+| 1 | Шеф | Сейчас сюда придет Елена Павловна. | Elena Pavlovna is coming in here right now. | #291 00:17:43: Сейчас сюда придет Елена Павловна | verbatim |
+| 2 | Шеф | Что ж у нас? | What are we going to do? | #294 00:18:01: Что ж у нас | verbatim |
 | 3 | Елена | Внимание все сюда, пока наш шеф-повар. | Everyone pay attention, while our head chef... | #295 00:18:05: Внимание все сюда, пока наш шеф-повар | verbatim |
-| 4 | Аня | Вот. Внимание все сюда. | Here we are. Everyone pay attention. | #295 00:18:05: Вот. Внимание все сюда | verbatim |
-| 5 | Саша | Да, пока наш шеф-повар отдыхает, так сказать. | Yes, while our head chef is resting, so to speak. | #296 00:18:10: Да, пока наш шеф-повар отдыхает, так сказать | verbatim |
+| 4 | Шеф | Вот. Внимание все сюда. | Here we are. Everyone pay attention. | #295 00:18:05: Вот. Внимание все сюда | verbatim |
+| 5 | Шеф | Да, пока наш шеф-повар отдыхает, так сказать. | Yes, while our head chef is resting, so to speak. | #296 00:18:10: Да, пока наш шеф-повар отдыхает, так сказать | verbatim |
 | 6 | Елена | Лечится. Да. | Getting medical treatment. Yes. | #297 00:18:12: Лечится. Да | verbatim |
-| 7 | Аня | Значит, с вами сегодня будет вот Елена Павловна. | Elena Pavlovna right here will be working with you today. | #298 00:18:17: Значит, с вами сегодня будет вот Елена Павловна | verbatim |
-| 8 | Саша | Волноваться нечего. | There is nothing to worry about. | #299 00:18:20: Волноваться нечего | verbatim |
+| 7 | Шеф | Значит, с вами сегодня будет вот Елена Павловна. | Elena Pavlovna right here will be working with you today. | #298 00:18:17: Значит, с вами сегодня будет вот Елена Павловна | verbatim |
+| 8 | Шеф | Волноваться нечего. | There is nothing to worry about. | #299 00:18:20: Волноваться нечего | verbatim |
 | 9 | Елена | Все, ни пуха ни пера. | Alright, best of luck to you all. | #300 00:18:24: Все, ни пуха ни пера | verbatim |
-| 10 | Аня | Что еще? | What now? | #300 00:18:24: Что еще | verbatim |
-| 11 | Саша | Мы что, нормально общаться не можем? | Can we not just talk to each other normally? | #303 00:18:35: Мы что, нормально общаться не можем | verbatim |
+| 10 | Шеф | Что еще? | What now? | #300 00:18:24: Что еще | verbatim |
+| 11 | Шеф | Мы что, нормально общаться не можем? | Can we not just talk to each other normally? | #303 00:18:35: Мы что, нормально общаться не можем | verbatim |
 | 12 | Елена | Нет, у нас все хорошо. | No, everything is fine between us. | #305 00:18:39: Нет, у нас все хорошо | verbatim |
-| 13 | Аня | Тебя Саша бросил? | Did Sasha dump you? | #305 00:18:39: Тебя Саша бросил | verbatim |
+| 13 | Шеф | Тебя Саша бросил? | Did Sasha dump you? | #305 00:18:39: Тебя Саша бросил | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Everyone pay attention, while our head chef...' Elena anchors the line on 'attention', while 'head chef' completes the thought. Chef Viktor answers right away.
 - 'Here we are. Everyone pay attention.' In Russian, the idea of 'there you go' flows naturally into 'here' without extra filler words.
 - 'Yes, while our head chef is resting, so to speak.' Here the Russian phrasing highlights 'yes' before landing on 'say'.
-- 'Getting medical treatment. Yes.' Notice the reflexive suffix on the verb meaning 'is treated', turning the action back on the subject. Chef Viktor answers right away.
+- 'Getting medical treatment. Yes.' Elena centers this short reply on 'is treated', letting a few direct words carry the whole meaning.
 - 'Elena Pavlovna right here will be working with you today.' The grammar packs 'so' and 'Pavlovna' into a tight, idiomatic kitchen exchange.
 - 'There is nothing to worry about.' Sasha brings out the contrast between 'to worry' and 'nothing' in a few short words.
 - 'Alright, best of luck to you all.' The meaning hinges on 'all' working together with 'feather' in spoken Russian. Chef Viktor answers right away.

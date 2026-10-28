@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Костя | Шеф, как-то это совсем ненадёжно. | Chef, this is somehow completely insecure. | #192 00:11:51: Шеф, как-то это ненадежно | adapted: adapted |
-| 2 | Аня | Это чтобы она не сбежала. | That is so she does not run away. | #193 00:11:59: чтобы она не сбежала | adapted: adapted |
+| 2 | Костя | Это чтобы она не сбежала. | That is so she does not run away. | #193 00:11:59: чтобы она не сбежала | adapted: adapted |
 | 3 | Костя | Виктор Петрович, пожалуйста, отпустите нас. | Viktor Petrovich, please let us go. | #194 00:12:02: пожалуйста, отпустите нас | adapted: adapted |
 | 4 | Костя | Мы точно никому не расскажем. | We will definitely not tell anyone. | #194 00:12:02: мы никому не расскажем | adapted: adapted |
-| 5 | Аня | Я тебя в прошлый раз просил. | I asked you last time. | #196 00:12:06: в прошлый раз спросил | adapted: adapted |
+| 5 | Костя | Я тебя в прошлый раз просил. | I asked you last time. | #196 00:12:06: в прошлый раз спросил | adapted: adapted |
 | 6 | Костя | Да, это был смешной случай. | Yes, that was a funny incident. | #198 00:12:11: это смешной случай | adapted: adapted |
 | 7 | Костя | Так что правильно нас связали. | So they tied us up rightly. | #200 00:12:15: правильно нас связали | adapted: adapted |
 | 8 | Инспектор | Мне сейчас в туалет нужно. | I need to go to the restroom right now. | #202 00:12:22: Мне в туалет нужно | adapted: adapted |
 | 9 | Костя | Ага, смотри какой он хитрый. | Aha, look how sly he is. | #204 00:12:30: Ага, хитрый такой | adapted: adapted |
 | 10 | Костя | Так делают, когда хотят сбежать. | People do that when they want to escape. | #205 00:12:32: так всегда делают, когда хотят сбежать | adapted: adapted |
-| 11 | Аня | Молодец, Сеня, хорошая мысль. | Well done, Senya, good thought. | #206 00:12:36: Молодец, Сеня | adapted: adapted |
-| 12 | Аня | Иди с ним и проследи. | Go with him and keep watch. | #206 00:12:36: Вот иди с ним и проследи | adapted: adapted |
+| 11 | Костя | Молодец, Сеня, хорошая мысль. | Well done, Senya, good thought. | #206 00:12:36: Молодец, Сеня | adapted: adapted |
+| 12 | Костя | Иди с ним и проследи. | Go with him and keep watch. | #206 00:12:36: Вот иди с ним и проследи | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 3
 SCENE = 15
-TITLE = "Donner la réplique  (Running Lines)"
-LEVEL = "A1 — débutant"
+TITLE = 'Donner la réplique  (Running Lines)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "samy": "marcel", "gerard": "theo"}
-LABELS = {"camille": "Camille", "samy": "Samy", "gerard": "Gérard"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'samy': 'marcel', 'gerard': 'theo'}
+LABELS = {'camille': 'Camille', 'samy': 'Samy', 'gerard': 'Gérard'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "In the film studio hallway, Camille encourages Gerard Lanvin to assert his authority as the lead star. When nervous newcomer Samy returns for his final audition, Gerard's warm heart prevails and he agrees to run lines with him. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Generosity wins out over frustration as Gerard Lanvin steps up to support a young talent. When you watch the episode, listen out for the expressions meaning 'is not' and 'hired'. You'll catch them now. See you next time."
-CLOSING = ("gerard", "Au revoir!")
+OUTRO = "Generosity wins out over frustration as Gerard Lanvin steps up to support a young talent. When you watch the episode, listen out for the expressions meaning 'is not' and 'hired'. You'll catch them now. See you next time!"
+CLOSING = ('gerard', 'Au revoir!')
 STORY = [
     ('camille', "Samy n'est pas encore engagé.", 'Samy is not yet hired.', [(869, 'il est pas encore engagé')], ''),
     ('camille', "C'est toi la vedette, Gérard.", 'You are the star, Gerard.', [(871, 'la vedette, Gérard')], ''),

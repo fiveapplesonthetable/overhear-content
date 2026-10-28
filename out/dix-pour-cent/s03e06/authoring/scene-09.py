@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 6
 SCENE = 9
 TITLE = "La négociation d'Arlette  (Arlette's Negotiation)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "lea": "lucie"}
-LABELS = {"arlette": "Arlette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'lea': 'lucie'}
+LABELS = {'arlette': 'Arlette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "In a production office, veteran agent Arlette Azemar meets with respected producer Laurence. Arlette urgently needs Laurence to endorse a contract under a homonym name to protect the agency, prompting an intense negotiation over top French talent. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Arlette's legendary dealmaking skills win over a tough producer once again. When you watch the episode, listen out for the expressions meaning 'story' and 'homonym'. You'll catch them now. See you next time."
-CLOSING = ("arlette", "Bonne soirée!")
+OUTRO = "Arlette's legendary dealmaking skills win over a tough producer once again. When you watch the episode, listen out for the expressions meaning 'story' and 'homonym'. You'll catch them now. See you next time!"
+CLOSING = ('arlette', 'Bonne soirée!')
 STORY = [
     ('lea', "Votre histoire d'homonyme ne marchera jamais.", 'Your lookalike scheme will never work.', [(463, "Ça marchera jamais, votre histoire d'homonyme.")], ''),
     ('arlette', "Tu penses complètement à l'envers, Laurence.", 'You are thinking completely backwards, Laurence.', [(466, "Tu penses à l'envers, Laurence.")], ''),

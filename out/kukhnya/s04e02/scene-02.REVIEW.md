@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will take away your sorrow.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
-- 'Den really took after our grandfather.' Max uses natural conversational word order here to highlight the most important part of the reply.
+- 'I will take away your sorrow.' Here Denis anchors the thought on 'will take' and finishes on 'sorrow', keeping the spoken rhythm brisk and natural.
+- 'Den really took after our grandfather.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'And our grandfather was the best accordionist in the village.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'After your grandfather? How interesting.' Vika uses natural conversational word order here to highlight the most important part of the reply.
+- 'After your grandfather? How interesting.' Notice how Russian puts 'grandfathers' and 'interesting' together in a short, direct phrase where word endings show how the ideas connect.
 - 'And what brought you to Moscow?' Vika addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'Creative differences with management.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
-- 'Wait, who did you come here with?' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
-- 'With my husband. Wait a moment, please.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Maybe we shouldn't do this, right?' Denis places the negative particle directly before the verb or predicate to negate the statement.
+- 'Creative differences with management.' In everyday Russian, 'creative, artistic' flows straight into 'leadership, management' without extra linking words.
+- 'Wait, who did you come here with?' In spoken Russian, the words stay in their normal statement order and Denis's rising voice at the end turns the line into a question.
+- 'With my husband. Wait a moment, please.' Vika uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
+- 'Maybe we shouldn't do this, right?' In spoken Russian, the words stay in their normal statement order and Denis's rising voice at the end turns the line into a question.
 - 'I will tell my husband that everything happened.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
 - 'Is that clear?' Vika raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'What is going on here?' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
+- 'What is going on here?' Spoken Russian keeps this brief and expressive, built right around 'things to do' without extra helper words.

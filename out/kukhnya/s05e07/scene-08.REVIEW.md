@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Моя младшая дочь больше съест. | My youngest daughter would eat more than that. | #138 00:10:29: младшая дочь больше съест | adapted: adapted |
-| 2 | Аня | Ну так что, я ввожу акцию? | Well then, am I introducing the promotion? | #139 00:10:31: Ну так что, я ввожу акцию | adapted: adapted |
-| 3 | Михаил | Вводи, вводи. | Introduce it, introduce it. | #140 00:10:34: Вводи, вводи | adapted: adapted |
-| 4 | Михаил | Но если я приведу человека, который съест твой антрекот. | But if I bring a person who eats your entrecote. | #141 00:10:36: Но если я приведу человека, который съест твой | adapted: adapted |
-| 5 | Михаил | Акция прекращается, понял? | The promotion ends, got it? | #142 00:10:40: Акция прекращается, понял | adapted: adapted |
-| 6 | Аня | Мишаня, ты мазохист. | Mishanya, you are a masochist. | #143 00:10:41: Мишаня, ты | adapted: adapted |
-| 7 | Аня | Любишь проигрывать, да? | You love losing, huh? | #144 00:10:44: Любишь проигрывать | adapted: adapted |
+| 1 | Шеф | Моя младшая дочь больше съест. | My youngest daughter would eat more than that. | #138 00:10:29: младшая дочь больше съест | adapted: adapted |
+| 2 | Шеф | Ну так что, я ввожу акцию? | Well then, am I introducing the promotion? | #139 00:10:31: Ну так что, я ввожу акцию | adapted: adapted |
+| 3 | Шеф | Вводи, вводи. | Introduce it, introduce it. | #140 00:10:34: Вводи, вводи | adapted: adapted |
+| 4 | Шеф | Но если я приведу человека, который съест твой антрекот. | But if I bring a person who eats your entrecote. | #141 00:10:36: Но если я приведу человека, который съест твой | adapted: adapted |
+| 5 | Шеф | Акция прекращается, понял? | The promotion ends, got it? | #142 00:10:40: Акция прекращается, понял | adapted: adapted |
+| 6 | Шеф | Мишаня, ты мазохист. | Mishanya, you are a masochist. | #143 00:10:41: Мишаня, ты | adapted: adapted |
+| 7 | Шеф | Любишь проигрывать, да? | You love losing, huh? | #144 00:10:44: Любишь проигрывать | adapted: adapted |
 | 8 | Сеня | Ну что, твоя истеричка успокоилась? | Well, has your hysterical wife calmed down? | #147 00:10:58: Ну что? Твоя истеричка успокоилась | adapted: adapted |
-| 9 | Аня | Кто истеричка? | Who is hysterical? | #148 00:11:02: Кто истеричка | adapted: adapted |
+| 9 | Шеф | Кто истеричка? | Who is hysterical? | #148 00:11:02: Кто истеричка | adapted: adapted |
 | 10 | Сеня | Я про свою жену говорю. | I am talking about my wife. | #147 00:10:58: Твоя истеричка | adapted: adapted |
-| 11 | Аня | Смотри, она у тебя за спиной стоит. | Look, she is standing right behind you. | #148 00:11:02: Я истеричка | adapted: adapted |
+| 11 | Шеф | Смотри, она у тебя за спиной стоит. | Look, she is standing right behind you. | #148 00:11:02: Я истеричка | adapted: adapted |
 | 12 | Сеня | Ой, только не это! | Oh, anything but that! | #148 00:11:02: Кто истеричка | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

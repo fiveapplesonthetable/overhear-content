@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 3
-TITLE = "Je veux juste voir Mathias  (I Just Want to See Mathias)"
-LEVEL = "A1 — débutant"
+TITLE = 'Je veux juste voir Mathias  (I Just Want to See Mathias)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "lea": "lucie"}
-LABELS = {"sofia": "Sofia", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'lea': 'lucie'}
+LABELS = {'sofia': 'Sofia', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Now a stranger walks in. Camille is in her early twenties, new to Paris from the south of France, and she goes straight to the reception desk, where Sofia is juggling the phones. She wants to see Mathias, and she has no appointment. First the whole thing in French; you don't need to catch every word."
 OPENER = "Let's walk through it. When Camille arrives, Sofia is still on the phone, offering somebody two possible meeting times."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "You've just learned how to ask for someone at a front desk, and how to say you only want one thing. Next, Camille finally meets Mathias. See you there."
-CLOSING = ("lea", "Merci, au revoir!")
+OUTRO = "You've just learned how to ask for someone at a front desk, and how to say you only want one thing. See you next time!"
+CLOSING = ('lea', 'Merci, au revoir!')
 STORY = [
     ('sofia', 'Soit jeudi à quatorze heures, soit vendredi à onze heures.', 'Either Thursday at two, or Friday at eleven.', [(106, 'Soit jeudi à quatorze heures'), (107, 'soit vendredi à onze heures')], ''),
     ('lea', 'Bonjour.', 'Hello.', [(108, 'Bonjour')], ''),

@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e05-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 5
 SCENE = 18
-TITLE = 'Благодарность за сплетню  (Gratitude for the Gossip)'
+TITLE = "Благодарность за сплетню  (Gratitude for the Gossip)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Денис', 'kostya': 'Костя', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "denis": "anja", "katya": "angelina"}
+LABELS = {"denis": "Денис", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.05'
 SOURCE_FILE = 'sources/kukhnya/s05/e05.ru.srt'
 
 INTRO = 'At the bar counter, Denis warmly thanks Kostya for spilling his secret to Katya, assuming Kostya told her the real reason they broke up. Kostya desperately tries to explain that there is one tiny catch.'
 
 STORY = [
-    ('kostya', 'Кать, тебя Элеонора Андреевна зовёт.', 'Katya, Eleonora Andreyevna is calling for you.', [(309, 'Кать, Кать, тебя'), (309, 'зовет')], 'adapted'),
-    ('anya', 'Слушай, не думал, что я такое скажу.', 'Listen, I did not think that I would say such a thing.', [(311, 'Слушай, не думал, что когда-нибудь я такое скажу')], 'adapted'),
-    ('anya', 'Но спасибо тебе за то, что ты трепло.', 'But thank you for being a blabbermouth.', [(311, 'но спасибо тебе за то'), (312, 'что ты трепло')], 'adapted'),
-    ('kostya', 'Не понял.', 'I did not understand.', [(313, 'Не понял')], 'adapted'),
-    ('anya', 'Я знаю, что ты во всём признался.', 'I know that you confessed everything.', [(314, 'Я знаю, что'), (314, 'во всем признался')], 'adapted'),
-    ('anya', 'Катя так спокойно отреагировала.', 'Katya reacted so calmly.', [(315, 'так спокойно отреагировала')], 'adapted'),
-    ('anya', 'У меня аж груз с плеч свалился.', 'A huge weight fell right off my shoulders.', [(315, 'у меня аж груз с')], 'adapted'),
-    ('kostya', 'Слушай, Дэн, есть один нюанс.', 'Listen, Den, there is one catch.', [(316, 'Слушай, Дэн, есть один нюанс')], 'adapted'),
-    ('anya', 'О чём ты говоришь?', 'What are you talking about?', [(313, 'Не понял')], 'adapted'),
+    ('denis', 'Кать, тебя Элеонора Андреевна зовёт.', 'Katya, Eleonora Andreyevna is calling for you.', [(309, 'Кать, Кать, тебя'), (309, 'зовет')], 'adapted'),
+    ('denis', 'Слушай, не думал, что я такое скажу.', 'Listen, I did not think that I would say such a thing.', [(311, 'Слушай, не думал, что когда-нибудь я такое скажу')], 'adapted'),
+    ('denis', 'Но спасибо тебе за то, что ты трепло.', 'But thank you for being a blabbermouth.', [(311, 'но спасибо тебе за то'), (312, 'что ты трепло')], 'adapted'),
+    ('denis', 'Не понял.', 'I did not understand.', [(313, 'Не понял')], 'adapted'),
+    ('denis', 'Я знаю, что ты во всём признался.', 'I know that you confessed everything.', [(314, 'Я знаю, что'), (314, 'во всем признался')], 'adapted'),
+    ('denis', 'Катя так спокойно отреагировала.', 'Katya reacted so calmly.', [(315, 'так спокойно отреагировала')], 'adapted'),
+    ('denis', 'У меня аж груз с плеч свалился.', 'A huge weight fell right off my shoulders.', [(315, 'у меня аж груз с')], 'adapted'),
+    ('denis', 'Слушай, Дэн, есть один нюанс.', 'Listen, Den, there is one catch.', [(316, 'Слушай, Дэн, есть один нюанс')], 'adapted'),
+    ('denis', 'О чём ты говоришь?', 'What are you talking about?', [(313, 'Не понял')], 'adapted'),
     ('katya', 'Мам, это только наше с Денисом дело.', "Mom, this is only Denis's and my business.", [(317, 'Мам, это только наше с Денисом дело')], 'adapted'),
-    ('kostya', 'Тебе лучше самому с ней поговорить.', 'You had better talk to her yourself.', [(316, 'есть один нюанс')], 'adapted'),
-    ('anya', 'Ладно, сейчас всё выясним.', 'Alright, we will sort everything out right now.', [(314, 'Я знаю, что')], 'adapted'),
+    ('denis', 'Тебе лучше самому с ней поговорить.', 'You had better talk to her yourself.', [(316, 'есть один нюанс')], 'adapted'),
+    ('denis', 'Ладно, сейчас всё выясним.', 'Alright, we will sort everything out right now.', [(314, 'Я знаю, что')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Before Kostya can finish explaining his lie about the child in Voronezh, Eleonora marches into the kitchen arguing with Katya. See you in the next scene.'
-CLOSING = ('kostya', 'Дэн, подожди секунду!')
+OUTRO = 'Before Kostya can finish explaining his lie about the child in Voronezh, Eleonora marches into the kitchen arguing with Katya. See you next time!'
+CLOSING = ("denis", "Хорошего дня!")

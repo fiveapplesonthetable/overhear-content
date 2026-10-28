@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 2
 SCENE = 8
 TITLE = "L'héritière de Barneville  (The Barneville Heiress)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "camille": "emilie"}
-LABELS = {"herve": "Hervé", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'camille': 'emilie'}
+LABELS = {'herve': 'Hervé', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "In their newly shared apartment, Camille and Herve organize details for their housewarming celebration. While posting polite invitations for the neighbors, Herve notices Camille studying legal documents from Mathias regarding formal paternity recognition. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Camille weighs the emotional complexity of officially recognizing Mathias as her father. When you watch the episode, listen out for the expressions meaning 'warned' and 'neighbors'. You'll catch them now. See you next time."
-CLOSING = ("herve", "Bonne journée!")
+OUTRO = "Camille weighs the emotional complexity of officially recognizing Mathias as her father. When you watch the episode, listen out for the expressions meaning 'warned' and 'neighbors'. You'll catch them now. See you next time!"
+CLOSING = ('herve', 'Bonne journée!')
 STORY = [
     ('herve', "J'ai prévenu tous les voisins de l'immeuble.", 'I warned all the building', [(427, "J'ai prévenu les voisins.")], ''),
     ('camille', 'Pour notre pendaison de crémaillère demain soir?', 'For our housewarming party tomorrow evening?', [(429, 'pour la pendaison de crémaillère.')], ''),

@@ -1,29 +1,29 @@
 ID = 'kukhnya-s06e02-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 2
 SCENE = 1
-TITLE = 'Разговор с рыбой и звонок олигарху  (Talking to the Fish and Calling the Oligarch)'
+TITLE = "Разговор с рыбой и звонок олигарху  (Talking to the Fish and Calling the Oligarch)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja'}
-LABELS = {'anya': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
+LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.02'
 SOURCE_FILE = 'sources/kukhnya/s06/e02.ru.srt'
 
 INTRO = 'After his doctor warns him to avoid stress, Chef Viktor Barinov asks his aquarium fish Arkady whether he should quit the restaurant and calls oligarch Alyokhin to accept the private chef job.'
 
 STORY = [
-    ('anya', 'Давай, стреляй.', 'Go ahead, shoot.', [(2, 'Давай, стреляй')], 'exact'),
-    ('anya', 'Может, действительно бросить этот дурдом?', 'Maybe I really should quit this madhouse?', [(3, 'а может, действительно бросить этот дурдом?')], 'adapted'),
-    ('anya', 'А то помру раньше времени.', 'Otherwise I will die before my time.', [(4, 'А то помру')], 'adapted'),
-    ('anya', 'И не будет у меня звезды.', 'And I will not have a star.', [(4, 'звезды')], 'adapted'),
+    ('chef', 'Давай, стреляй.', 'Go ahead, shoot.', [(2, 'Давай, стреляй')], 'exact'),
+    ('chef', 'Может, действительно бросить этот дурдом?', 'Maybe I really should quit this madhouse?', [(3, 'а может, действительно бросить этот дурдом?')], 'adapted'),
+    ('chef', 'А то помру раньше времени.', 'Otherwise I will die before my time.', [(4, 'А то помру')], 'adapted'),
+    ('chef', 'И не будет у меня звезды.', 'And I will not have a star.', [(4, 'звезды')], 'adapted'),
     ('lyova', 'Витя, я же рыба.', 'Vitya, I am a fish.', [(5, 'Витя, я же рыба')], 'exact'),
     ('lyova', 'Решай сам.', 'Decide for yourself.', [(6, 'Решай сам')], 'exact'),
-    ('anya', 'Я согласен у вас работать.', 'I agree to work for you.', [(8, 'Я согласен у вас работать')], 'exact'),
+    ('chef', 'Я согласен у вас работать.', 'I agree to work for you.', [(8, 'Я согласен у вас работать')], 'exact'),
     ('lyova', 'Интересный был фильм, да?', 'It was an interesting movie, right?', [(9, 'Интересный был фильм, да?')], 'exact'),
     ('lyova', 'Не знаю, я на экран не смотрел особо.', 'I do not know, I did not really look at the screen.', [(9, 'Не знаю, я на экран не смотрел особо')], 'exact'),
-    ('anya', 'Ну, я пошла?', 'Well, shall I go?', [(10, 'Ну, я пошла?')], 'exact'),
+    ('chef', 'Ну, я пошла?', 'Well, shall I go?', [(10, 'Ну, я пошла?')], 'exact'),
     ('lyova', 'Ну да, пока.', 'Well yes, bye.', [(11, 'Ну, да. Пока')], 'exact'),
     ('lyova', 'Идём гулять завтра.', "Let's go for a walk tomorrow.", [(12, 'Гулять')], 'adapted'),
 ]
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Having told the oligarch he will take the quiet private job, Barinov heads home to break the news to Elena. See you in the next scene.'
-CLOSING = ('lyova', 'Вот твоя сумка.')
+OUTRO = 'Having told the oligarch he will take the quiet private job, Barinov heads home to break the news to Elena. Until next time!'
+CLOSING = ("lyova", "Хорошего дня!")

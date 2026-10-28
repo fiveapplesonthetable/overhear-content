@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Préparons son accueil avec grand soin. | Let us prepare his welcome with great care. | 634:Sérieusement |
 
 ## Part 5 — Outro & Closing
-> Crushed by another funding rejection, Andrea and Gabriel suddenly find new hope when legendary actor Jean Reno agrees to visit ASK to discuss Xavier Beauvois's screenplay. When you watch the episode, listen out for the expressions meaning 'understand' and 'refusal'. You'll catch them now. See you next time.
+> Crushed by another funding rejection, Andrea and Gabriel suddenly find new hope when legendary actor Jean Reno agrees to visit ASK to discuss Xavier Beauvois's screenplay. When you watch the episode, listen out for the expressions meaning 'understand' and 'refusal'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

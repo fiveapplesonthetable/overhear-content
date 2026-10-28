@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | Il est très, très marié. | He | 443:est |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene, and you followed a real family row in French. When you watch it, listen for 'I'm fine here', and for Noémie's very married Mathias. See you next time.
+> That's it for this scene, and you followed a real family row in French. When you watch it, listen for 'I'm fine here', and for Noémie's very married Mathias. See you next time!
 - **Closing**: `camille`: *À bientôt!*

@@ -30,8 +30,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But if we start from the beginning, then let us do it.' Vika brings out the contrast between 'but' and 'if' in a few short words.
 - 'Kostya, I am in total shock myself!' Max anchors the line on 'Kostya', while 'in shock' completes the thought. Chef Barinov answers right away.
 - 'Andrey Mikhailovich, hello and goodbye right away!' Chef Barinov anchors the line on 'Andrei', while 'farewell' completes the thought.
-- 'I hope that we will never see each other again.' Notice the reflexive suffix on the verb meaning 'will see each other', turning the action back on the subject.
-- 'And what, actually, happened here with you?' Notice the reflexive suffix on the verb meaning 'happened', turning the action back on the subject.
+- 'I hope that we will never see each other again.' In everyday Russian, 'hope' flows straight into 'will see each other' without extra linking words.
+- 'And what, actually, happened here with you?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Can you calmly explain this to me right now?' Max raises the pitch on 'can' to turn the phrase into a direct spoken question.
 - 'What happened is that I am quitting this place today!' Notice how Russian expresses 'happened' and 'I quit' with crisp inflection rather than helper words.
 - 'And you can thank Viktoriya Sergeyevna for that.' Here the Russian phrasing highlights 'and' before landing on 'Sergeyevna'.

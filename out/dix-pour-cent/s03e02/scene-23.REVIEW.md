@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s03/e02.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "noemie": "emilie", "mathias": "marcel"}`
-- **Labels**: `{"noemie": "Noémie", "mathias": "Mathias"}`
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}`
+- **Labels**: `{"mathias": "Mathias", "noemie": "Noémie"}`
 
 ## Part 1 — Intro
 > Recovering at home after a traumatic accident, assistant Noemie welcomes Mathias Barneville and his wife Catherine into her apartment. While Mathias tries to minimize the awkwardness, Catherine directly brings up Noemie's career plans and reveals Mathias's true devotion. Let's listen to their conversation in French first.
@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Mathias tient énormément à vous, Noémie. | Mathias cares enormously about you, Noemie. | 1056:Noémie, moi, je sais à quel point il tient à vous. |
 
 ## Part 5 — Outro & Closing
-> Moved by Catherine's compassionate insight and Mathias's quiet devotion, Noemie reconsiders her hasty departure from ASK. When you watch the episode, listen out for the expressions meaning 'place' and 'table'. You'll catch them now. See you next time.
+> Moved by Catherine's compassionate insight and Mathias's quiet devotion, Noemie reconsiders her hasty departure from ASK. When you watch the episode, listen out for the expressions meaning 'place' and 'table'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne soirée!*

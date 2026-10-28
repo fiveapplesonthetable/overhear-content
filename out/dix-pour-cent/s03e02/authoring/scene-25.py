@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 25
-TITLE = "Le remède du célibat  (The Remedy for Being Single)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le remède du célibat  (The Remedy for Being Single)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "monica": "emilie", "gabriel": "theo"}
-LABELS = {"monica": "Monica", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'monica': 'emilie', 'gabriel': 'theo'}
+LABELS = {'monica': 'Monica', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "Sitting comfortably in her stylish Parisian kitchen, Monica Bellucci opens up about her personal struggles with dating and solitude. Together, she and Gabriel share an intimate laugh over tea. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this warm and playful kitchen conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Bonding over the challenges of being single, Monica and Gabriel discover the healing power of genuine friendship while sharing tea in her kitchen. When you watch the episode, listen out for the expressions meaning 'makes' and 'weeks'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = "Bonding over the challenges of being single, Monica and Gabriel discover the healing power of genuine friendship while sharing tea in her kitchen. When you watch the episode, listen out for the expressions meaning 'makes' and 'weeks'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('monica', 'Ça fait trois semaines pour moi.', 'It has been three weeks for me.', [(1091, 'Trois semaines')], ''),
     ('gabriel', "Mais trois semaines, ce n'est rien!", 'But three weeks is nothing!', [(1092, "trois semaines, c'est rien")], ''),

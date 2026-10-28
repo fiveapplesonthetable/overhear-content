@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 2
 SCENE = 6
 TITLE = "La promotion de Noémie  (Noémie's Promotion)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "At lunch in Mathias Barneville's new production offices, Noemie meets her new colleagues. She clarifies that she is no longer an assistant but a development executive, before Mathias greets her warmly. Let's listen to their conversation in French first."
 OPENER = "Let's explore Noemie and Justine's office conversation line by line."
 TRANSITION = "Now let's listen to Noemie's workplace exchange once more from start to finish."
-OUTRO = "That's it for this scene around noemie's promotion. When you watch the episode, listen out for the expressions meaning 'attention' and 'speaks'. You'll catch them now. See you next time."
-CLOSING = ("noemie", "À demain!")
+OUTRO = "That's it for this scene around noemie's promotion. When you watch the episode, listen out for the expressions meaning 'attention' and 'speaks'. You'll catch them now. See you next time!"
+CLOSING = ('noemie', 'À demain!')
 STORY = [
     ('mathias', 'Fais attention quand Vincent parle à midi.', 'Watch out when Vincent speaks at lunchtime.', [(342, "C'est Vincent, fais attention, quand il parle")], ''),
     ('noemie', 'Pourquoi? Quel est son problème?', 'Why? What is his problem?', [(343, 'Pas juste un tunnel')], ''),

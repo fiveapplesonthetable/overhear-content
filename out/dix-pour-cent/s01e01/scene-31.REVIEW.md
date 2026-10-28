@@ -30,5 +30,5 @@
 | 16 | `camille` (Camille) | Oui! Et comment! | Yes! You bet! | 821:Oui, 822:Et comment |
 
 ## Part 5 — Outro & Closing
-> And that's how Camille got her job back. Don't worry if some lines went by quickly; you'll recognise the formal 'you' and the 'going to' future when you watch the episode. See you soon.
+> And that's how Camille got her job back. Don't worry if some lines went by quickly; you'll recognise the formal 'you' and the 'going to' future when you watch the episode. See you next time!
 - **Closing**: `camille`: *À demain, Andréa!*

@@ -1,28 +1,28 @@
 ID = 'kukhnya-s06e01-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 1
 SCENE = 18
-TITLE = 'Михаилу никто не верит  (Nobody Believes Mikhail)'
+TITLE = "Михаилу никто не верит  (Nobody Believes Mikhail)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'eleonora': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "eleonora": "angelina"}
+LABELS = {"chef": "Шеф", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.01'
 SOURCE_FILE = 'sources/kukhnya/s06/e01.ru.srt'
 
 INTRO = "Mikhail drags Barinov to the suite to expose Nagiyev's infidelity, but remembering Eleonora's words about finally being happy, Barinov covers for Nagiyev and claims Mikhail simply drank too much."
 
 STORY = [
-    ('mikhail', 'Простите, где он?', 'Excuse me, where is he?', [(321, 'Простите'), (322, 'Где он?')], 'adapted'),
-    ('mikhail', 'Нагиев и она, они были здесь!', 'Nagiyev and she, they were here!', [(323, 'они были здесь')], 'adapted'),
-    ('mikhail', 'Витя, ты видел?', 'Vitya, did you see?', [(324, 'Витя видел?')], 'adapted'),
+    ('chef', 'Простите, где он?', 'Excuse me, where is he?', [(321, 'Простите'), (322, 'Где он?')], 'adapted'),
+    ('chef', 'Нагиев и она, они были здесь!', 'Nagiyev and she, they were here!', [(323, 'они были здесь')], 'adapted'),
+    ('chef', 'Витя, ты видел?', 'Vitya, did you see?', [(324, 'Витя видел?')], 'adapted'),
     ('eleonora', 'Дима для меня последний вагон.', 'Dima is the last train car for me.', [(325, 'Дима, для меня последний вагон')], 'adapted'),
     ('eleonora', 'Я на самом деле счастлива.', 'I am truly happy.', [(326, 'Я на самом деле счастлива')], 'exact'),
-    ('anya', 'Миша, ты чего?', 'Misha, what is with you?', [(327, 'ты чего?')], 'adapted'),
-    ('anya', 'Никого тут не было.', 'Nobody was in here.', [(328, 'кого тут не было')], 'adapted'),
-    ('anya', 'Да ты перебрал, брат.', 'Why, you drank too much, brother.', [(329, 'О, да ты перебрал, брат')], 'adapted'),
-    ('anya', 'Все, хватит, иди и проспись.', 'Alright, enough, go and sleep it off.', [(330, 'Все, хватит'), (331, 'Иди и проспись')], 'adapted'),
+    ('chef', 'Миша, ты чего?', 'Misha, what is with you?', [(327, 'ты чего?')], 'adapted'),
+    ('chef', 'Никого тут не было.', 'Nobody was in here.', [(328, 'кого тут не было')], 'adapted'),
+    ('chef', 'Да ты перебрал, брат.', 'Why, you drank too much, brother.', [(329, 'О, да ты перебрал, брат')], 'adapted'),
+    ('chef', 'Все, хватит, иди и проспись.', 'Alright, enough, go and sleep it off.', [(330, 'Все, хватит'), (331, 'Иди и проспись')], 'adapted'),
     ('eleonora', 'Ой, вот ты где!', 'Oh, there you are!', [(332, 'вот ты где')], 'adapted'),
     ('eleonora', 'А я бегаю и ищу тебя.', 'And here I am running around looking for you.', [(333, 'бегаю ищу тебя')], 'adapted'),
     ('eleonora', 'Не пойму, куда ты делась.', 'I could not understand where you disappeared to.', [(334, 'Не пойму, куда ты делась')], 'exact'),
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'Alright, enough, go and sleep it off.' The meaning hinges on 'all' working together with 'sleep it off' in spoken Russian."),
     (9, None, "'Oh, there you are!' Eleonora addresses the listener with the informal singular 'you' alongside 'where'."),
     (10, None, "'And here I am running around looking for you.' Eleonora brings out the contrast between 'and' and 'I' in a few short words."),
-    (11, None, "'I could not understand where you disappeared to.' Notice the reflexive suffix on the verb meaning 'to go', turning the action back on the subject."),
+    (11, None, "'I could not understand where you disappeared to.' Notice how Russian puts 'understand' and 'to go, vanish, disappear' together in a short, direct phrase where word endings show how the ideas connect."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "To protect Eleonora's happiness on her wedding night, Barinov keeps Nagiyev's secret, before heading to the hospital the next morning. See you in the next scene."
-CLOSING = ('anya', 'Иди отдыхай, Миша.')
+OUTRO = "To protect Eleonora's happiness on her wedding night, Barinov keeps Nagiyev's secret, before heading to the hospital the next morning. See you next time!"
+CLOSING = ("chef", "До свидания!")

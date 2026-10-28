@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e17-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 17
 SCENE = 12
-TITLE = 'Все предродовые заняты  (All Delivery Rooms Are Full)'
+TITLE = "Все предродовые заняты  (All Delivery Rooms Are Full)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'doctor': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'doctor': 'Врач'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "doctor": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "doctor": "Врач", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.17'
 SOURCE_FILE = 'sources/kukhnya/s05/e17.ru.srt'
 
 INTRO = 'While Chef Barinov discovers that his kitchen oven has completely died and Mikhail has vanished, Max and Vika arrive at the maternity hospital only to be given a gurney in the hallway.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Determined to find Vika a proper room, Max searches the maternity floor while Vika rests. See you in the next scene.'
-CLOSING = ('anya', 'Давай я тебе помогу.')
+OUTRO = 'Determined to find Vika a proper room, Max searches the maternity floor while Vika rests. See you next time!'
+CLOSING = ("anya", "Всего хорошего!")

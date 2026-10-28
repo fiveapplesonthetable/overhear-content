@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 14
-TITLE = "Retrouvailles à Couchey  (Reunion in Couchey)"
-LEVEL = "A1 — débutant"
+TITLE = 'Retrouvailles à Couchey  (Reunion in Couchey)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "maire": "theo", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "maire": "Le maire", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'maire': 'theo', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'maire': 'Le maire', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Andréa arrives at the village town hall of Couchey for her mother's medal ceremony. The mayor introduces a special guest from London, young tech millionaire Hicham Janowski, who turns out to be an old classmate from Andréa's school days. Let's listen to the scene in French first."
 OPENER = 'Andréa reconnects with her roots. Let us examine the lines with English notes.'
 TRANSITION = "Now listen to Andréa and Hicham's conversation once more at a natural pace."
-OUTRO = 'Andréa is stunned to discover that her nerdy former classmate is now enormously wealthy. Back in Paris, Mathias faces an enraged film producer. Here is our closing phrase. Join us next time to see what happens next.'
-CLOSING = ("hicham", "À demain!")
+OUTRO = 'Andréa is stunned to discover that her nerdy former classmate is now enormously wealthy. See you next time!'
+CLOSING = ('hicham', 'À demain!')
 STORY = [
     ('lea', 'Monsieur le maire.', 'Mr. Mayor.', [(376, 'Monsieur le maire')], ''),
     ('maire', 'Andréa, je suis ravi de vous voir ici.', 'Andréa, I am delighted to see you here.', [(377, 'Andréa, je suis ravi de vous voir ici')], ''),

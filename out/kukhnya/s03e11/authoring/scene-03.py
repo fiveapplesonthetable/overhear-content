@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e11-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 3
-TITLE = 'Гость из Парижа  (A Guest from Paris)'
+TITLE = "Гость из Парижа  (A Guest from Paris)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "katya": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "katya": "Катя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = 'Chef Barinov warmly greets his old Parisian friend Paul, who has been offered a job in Russia. Watching from the kitchen, Katya panics and confesses to Max that Paul was the curator at her culinary academy in Paris—from which she was expelled.'
@@ -33,7 +33,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 
 WALK = [
     (0, None, "'Viktor, how glad I am to see you!' An emphatic spoken line centered on the verb meaning 'to see'."),
-    (1, None, "'This is my old friend from Paris.' In Russian, the idea of 'this' flows naturally into 'Paris' without extra filler words."),
+    (1, None, "'This is my old friend from Paris.' Chef Barinov pairs 'old' with 'friend' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (2, None, "'We used to work together for a long time.' The grammar packs 'we' and 'together' into a tight, idiomatic kitchen exchange."),
     (3, None, "'When did you arrive? Let us go, you will tell me everything.' Chef Barinov brings out the contrast between 'you' and 'when' in a few short words. Katya answers right away."),
     (4, None, "'Max, where did he come from here?' Notice how Russian expresses 'Max' and 'appeared' with crisp inflection rather than helper words."),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Chef Barinov proudly boasts about Katya graduating from the academy, completely unaware that she was expelled. Next, Barinov calls Katya out to say hello to Paul.'
-CLOSING = ('katya', 'Шеф ничего не знает.')
+OUTRO = 'Chef Barinov proudly boasts about Katya graduating from the academy, completely unaware that she was expelled. Next, Barinov calls Katya out to say hello to Paul. Until next time!'
+CLOSING = ("katya", "Хорошего дня!")

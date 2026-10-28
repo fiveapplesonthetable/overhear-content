@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Макс, не бросай трубку, теперь она и вправду рожает! | Max, do not hang up, now she really is giving birth! | #323 00:23:33: А теперь она и вправду рожает | adapted: adapted |
+| 1 | Гость | Макс, не бросай трубку, теперь она и вправду рожает! | Max, do not hang up, now she really is giving birth! | #323 00:23:33: А теперь она и вправду рожает | adapted: adapted |
 | 2 | Аня | Самое главное в жизни — женщину нужно любить. | The most important thing in life is that you must love a woman. | #324 00:23:35: И самое главное, женщину нужно любить | adapted: adapted |
 | 3 | Аня | И делать это нужно всем сердцем и отчаянно! | And you must do it with all your heart and fiercely! | #325 00:23:39: И делать это нужно отчаянно | adapted: adapted |
 | 4 | Аня | Иначе какая же это тогда настоящая любовь? | Otherwise what kind of real love is it then? | #326 00:23:41: Иначе какая это к черту любовь | adapted: adapted |

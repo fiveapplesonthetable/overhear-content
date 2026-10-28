@@ -18,7 +18,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Нагиев | Каждый человек должен знать своё место. | Every person must know his place. | #47 00:02:31: каждый должен знать свое место | adapted: adapted |
 | 7 | Нагиев | Вот, например, я здесь хозяин. | For example, I am the owner here. | #48 00:02:38: Например, я хозяин | adapted: adapted |
 | 8 | Нагиев | А ты просто убираешь грязные тарелки. | And you simply clear dirty plates. | #50 00:02:41: грязные тарелки | adapted: adapted |
-| 9 | Вика | Дима, пожалуйста, не надо так говорить. | Dima, please, do not speak like that. | #50 00:02:41: Дима | adapted: adapted |
+| 9 | Нагиев | Дима, пожалуйста, не надо так говорить. | Dima, please, do not speak like that. | #50 00:02:41: Дима | adapted: adapted |
 | 10 | Нагиев | Ты ещё совсем молод и глуп. | You are still very young and foolish. | #51 00:02:42: ты молод | adapted: adapted |
 | 11 | Нагиев | Ладно, давай быстро иди работать. | Alright, go on and get to work quickly. | #53 00:02:48: Давай, иди | adapted: adapted |
 | 12 | Аня | Нет, никуда я отсюда не пойду! | No, I am not going anywhere from here! | #53 00:02:48: Никуда я не пойду | adapted: adapted |

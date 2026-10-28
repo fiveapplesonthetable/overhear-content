@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s01/e04.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "noemie": "emilie", "herve": "marcel"}`
-- **Labels**: `{"noemie": "Noémie", "herve": "Hervé"}`
+- **Voices**: `{"narrator": "sky", "herve": "marcel", "noemie": "emilie"}`
+- **Labels**: `{"herve": "Hervé", "noemie": "Noémie"}`
 
 ## Part 1 — Intro
 > In Mathias's office, Mathias has just talked the young Internet comedy star Augustin into considering Audrey Fleurot for his first film, swearing that Audrey loves his online videos. Meanwhile, out at the assistants' desks, Noémie is rummaging through a drawer in pain after a very unusual weekend, while Camille and Hervé are hard at work. We'll hear the scene in French first; don't worry about catching every word.
@@ -28,5 +28,5 @@
 | 14 | `noemie` (Noémie) | Cette jeune actrice ne peut pas faire tout ce qu'elle veut! | This young actress cannot do whatever she wants! | 159:la fille de Christophe Lambert, 159:faire ce que |
 
 ## Part 5 — Outro & Closing
-> So Noémie is sore from rock climbing, and still thinks Camille is Christophe Lambert's daughter. Listen out for how French says 'my back hurts' and 'ten years older'. See you next time.
+> So Noémie is sore from rock climbing, and still thinks Camille is Christophe Lambert's daughter. Listen out for how French says 'my back hurts' and 'ten years older'. See you next time!
 - **Closing**: `herve`: *À bientôt!*

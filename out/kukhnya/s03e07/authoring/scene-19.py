@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e07-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 19
-TITLE = 'Будущее по соседству с Родионом Сергеевичем  (A Future Next Door to Rodion Sergeyevich)'
+TITLE = "Будущее по соседству с Родионом Сергеевичем  (A Future Next Door to Rodion Sergeyevich)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'rodion': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'rodion': 'Родион'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "rodion": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"rodion": "Родион", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = 'In a vivid flash-forward, Max pictures himself and Vika years later, unemployed and living in squalor next door to Rodion Sergeyevich after Nagiyev ruined their careers.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Even in his fantasy, Max sees how miserable Vika would become without the career and life she loves.'
-CLOSING = ('anya', 'Ты самая лучшая у меня.')
+OUTRO = 'Even in his fantasy, Max sees how miserable Vika would become without the career and life she loves. Until next time!'
+CLOSING = ("anya", "Пока!")

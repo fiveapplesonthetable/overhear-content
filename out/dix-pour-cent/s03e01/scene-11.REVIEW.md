@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | Ne t'inquiète pas, je gère tout. | Do not worry, I manage everything. | 242:et que je gérais |
 
 ## Part 5 — Outro & Closing
-> In his office, Hicham checks in on Andrea's pregnancy and offers maternity assistance. When you watch the episode, listen out for the expressions meaning 'know' and 'easy'. You'll catch them now. See you next time.
+> In his office, Hicham checks in on Andrea's pregnancy and offers maternity assistance. When you watch the episode, listen out for the expressions meaning 'know' and 'easy'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

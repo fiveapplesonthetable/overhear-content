@@ -1,66 +1,46 @@
-ID = "kukhnya-s01e16-scene-24"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e16-scene-24.
+ID = 'kukhnya-s01e16-scene-24'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 24
 TITLE = "Не мой паштет  (Not My Pâté)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "maks": "angelina"}
-LABELS = {"anya": "Anya", "chef": "Chef", "maks": "Maks"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.16"
-SOURCE_FILE = "sources/kukhnya/s01/e16.ru.dual.srt"
-
-INTRO = ("The Chef tastes the pâté that Maks prepared. "
-         "Maks is waiting for a compliment. "
-         "Let us see what happens next in this scene.")
-
-STORY = [
- ("chef", "Неплохо.", "Not bad.", [(291, "Неплохо.")], ""),
- ("maks", "Да?", "Huh?", [(291, "Да?")], ""),
- ("chef", "Только это не мой паштет.", "Only this isn't my pâté.", [(292, "Только это не мой паштет.")], ""),
- ("maks", "Как?", "What?", [(293, "Как?")], ""),
- ("maks", "Та же консистенция.", "Same texture.", [(293, "Та же консистенция.")], ""),
- ("maks", "И состав я подобрал.", "And I got the ingredients right.", [(294, "И состав я подобрал.")], ""),
- ("maks", "Подождите.", "Wait.", [(294, "Подождите.")], ""),
- ("maks", "Что входит в ваш паштет?", "What goes into your pâté?", [(295, "Что входит в ваш паштет?")], ""),
- ("chef", "Это секрет.", "This is a secret.", [], "new"),
- ("chef", "Пойдём.", "Let's go.", [(296, "Пойдем")], "Added yo"),
- ("chef", "Посмотрим.", "Take a look.", [(296, "посмотрим.")], ""),
- ("maks", "Хорошо.", "Good.", [], "new"),
-]
-
-OPENER = "Let's review the scene line by line."
-
-WALK = [
-    (0, None,
-     "'Not bad.' In Russian, 'not bad' leads into 'not bad' in a very natural everyday phrasing. Then Maks replies."),
-    (1, None,
-     "'Huh?' Notice the word order: 'yes' comes first, and 'yes' finishes the sentence."),
-    (2, None,
-     "'Only this isn't my pâté.' Here 'only' sets up the idea, while 'pâté' comes at the end for emphasis."),
-    (3, None,
-     "'What?' You'll hear 'how' all the time in the show, here connected with 'how'."),
-    (4, None,
-     "'Same texture.' The key word here means 'that', which Maks combines with 'consistency'."),
-    (5, None,
-     "'And I got the ingredients right.' Maks starts with 'roster' and pairs it with 'I' to make the point clear."),
-    (6, None,
-     "'Wait.' Notice the word order: 'wait' comes first, and 'wait' finishes the sentence."),
-    (7, None,
-     "'What goes into your pâté?' The question word for 'what' comes right at the start, followed directly by 'pâté'."),
-    (8, None,
-     "'This is a secret.' The first content word means 'this', and 'secret' rounds out the thought."),
-    (9, None,
-     "'Let's go.' A compact expression built around 'let's go' and 'let's go'."),
-    (10, None,
-     "'Take a look.' In Russian, 'have a look' leads into 'have a look' in a very natural everyday phrasing."),
-    (11, None,
-     "'Good.' Maks starts with 'good' and pairs it with 'good' to make the point clear."),
-]
-
-
-
-TRANSITION = "Let's listen to the dialog one more time."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around not my pâté, and for the words meaning 'pâté' and 'consistency'. You'll catch them now. See you next time."
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
+SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
+INTRO = "The Chef tastes the pâté that Maks prepared. Maks is waiting for a compliment. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+OPENER = "Now let's go back through the exchange around Not My Pâté line by line and unpack how the Russian works."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "The Chef tastes the pâté that Maks prepared. Maks is waiting for a compliment. Let us see what happens next in this scene. Next time you watch the episode, listen for the Russian expressions for 'not bad' and 'only' — you will catch every word right away. See you next time!"
 CLOSING = ("anya", "До свидания!")
+STORY = [
+    ('chef', 'Неплохо.', 'Not bad.', [(291, 'Неплохо.')], ''),
+    ('anya', 'Да?', 'Huh?', [(291, 'Да?')], ''),
+    ('chef', 'Только это не мой паштет.', "Only this isn't my pâté.", [(292, 'Только это не мой паштет.')], ''),
+    ('anya', 'Как?', 'What?', [(293, 'Как?')], ''),
+    ('anya', 'Та же консистенция.', 'Same texture.', [(293, 'Та же консистенция.')], ''),
+    ('anya', 'И состав я подобрал.', 'And I got the ingredients right.', [(294, 'И состав я подобрал.')], ''),
+    ('anya', 'Подождите.', 'Wait.', [(294, 'Подождите.')], ''),
+    ('anya', 'Что входит в ваш паштет?', 'What goes into your pâté?', [(295, 'Что входит в ваш паштет?')], ''),
+    ('chef', 'Это секрет.', 'This is a secret.', [], ''),
+    ('chef', 'Пойдём.', "Let's go.", [(296, 'Пойдем')], ''),
+    ('chef', 'Посмотрим.', 'Take a look.', [(296, 'посмотрим.')], ''),
+    ('anya', 'Хорошо.', 'Good.', [], ''),
+]
+WALK = [
+    (0, None, "'Not bad.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'not bad'."),
+    (1, None, "'Huh?' Max asks this with a single word meaning 'yes', using rising intonation to turn it into a quick question."),
+    (2, None, "'Only this isn't my pâté.' Russian omits the present-tense verb 'to be' here, linking 'only' directly with 'pâté', combining 'only' with 'pâté'."),
+    (3, None, "'What?' Max asks this with a single word meaning 'how', using rising intonation to turn it into a quick question."),
+    (4, None, "'Same texture.' Russian omits the present-tense verb 'to be', connecting 'that' directly with 'consistency'."),
+    (5, None, "'And I got the ingredients right.' Here Max anchors the line on the word meaning 'roster' and builds the thought around 'to pick up'."),
+    (6, None, "'Wait.' Max replies with a single verb form meaning 'wait' — in Russian, the verb ending alone carries the subject and tense."),
+    (7, None, "'What goes into your pâté?' The question word for 'what' comes right at the start, followed directly by 'pâté'."),
+    (8, None, "'This is a secret.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'secret'."),
+    (9, None, "'Let's go.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'let's go'."),
+    (10, None, "'Take a look.' Chef Viktor replies with a single verb form meaning 'have a look' — in Russian, the verb ending alone carries the subject and tense."),
+    (11, None, "'Good.' A crisp, everyday conversational reply meaning 'good' that you will hear constantly in Russian dialogue."),
+]

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 1
-TITLE = "Le poste à New York  (The New York Position)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le poste à New York  (The New York Position)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "colette": "emilie", "lea": "lucie"}
-LABELS = {"colette": "Colette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
+LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In their Paris apartment, talent agent Andrea Martel discusses her legal battle with partner Colette Brancillon. American agency UBA withdrew its New York executive offer after learning Andrea is expecting a baby. Let's listen to their conversation in French first."
 OPENER = "Let's explore how Andrea and Colette discuss the legal dispute and celebrate their upcoming baby."
 TRANSITION = "Now let's listen to Andrea and Colette again at full speed."
-OUTRO = "Andrea and Colette resolve to fight the unfair hiring discrimination, finding strength in their growing family. When you watch the episode, listen out for the expressions meaning 'lawyer' and 'says'. You'll catch them now. See you next time."
-CLOSING = ("colette", "À bientôt!")
+OUTRO = "Andrea and Colette resolve to fight the unfair hiring discrimination, finding strength in their growing family. When you watch the episode, listen out for the expressions meaning 'lawyer' and 'says'. You'll catch them now. See you next time!"
+CLOSING = ('colette', 'À bientôt!')
 STORY = [
     ('lea', 'Mon avocat dit que la situation est compliquée.', 'My lawyer says the situation is complicated.', [(6, 'Alors, il dit quoi, ton avocat ?'), (7, 'Il dit que ça sent pas bon,')], ''),
     ('colette', "Qu'est-ce que l'agence UBA essaie de prouver?", 'What is agency UBA trying to prove?', [(7, "UBA est en train d'essayer de prouver")], ''),

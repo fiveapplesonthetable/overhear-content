@@ -28,10 +28,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Now I serve the culinary art with saffron and basil.' The grammar packs 'now' and 'with basil' into a tight, idiomatic kitchen exchange.
 - 'Basil! I completely forgot to put basil in there!' Rodion anchors the line on 'basil', while 'there' completes the thought. Max answers right away.
 - 'Wait, Rodion Sergeyevich, you are not allowed in the dining room!' The grammar packs 'wait' and 'one must not' into a tight, idiomatic kitchen exchange.
-- 'There must definitely be fresh basil in this dish!' In Russian, the idea of 'this' flows naturally into 'basil' without extra filler words.
+- 'There must definitely be fresh basil in this dish!' Notice how Russian puts 'dish; course' and 'basil' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Is that you again? Get out of here quickly!' The grammar packs 'this' and 'from here' into a tight, idiomatic kitchen exchange. Rodion answers right away.
 - 'I brought this for our lamb, it is roasted after all.' Here the Russian phrasing highlights 'I' before landing on 'roasted'.
-- 'You were put here to be the face, not to hand out advice!' In Russian, the idea of 'you' flows naturally into 'to hand out' without extra filler words.
+- 'You were put here to be the face, not to hand out advice!' Max pairs 'locked up, put in prison' with 'to hand out / give' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Look how cheeky you are! Maybe I should escort you out of here?' Dmitry Nagiyev anchors the line on 'look', while 'to escort out' completes the thought. Max answers right away.
 - 'Guys, stop fighting in the dining room immediately!' Here the Russian phrasing highlights 'guys' before landing on 'hall'.
 - 'Wait a second, Rodion, is that really you?' Dmitry Nagiyev anchors the line on 'wait', while 'you' completes the thought.

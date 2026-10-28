@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't you sleep at home last night?' Max places the negative particle directly before the verb or predicate to negate the statement.
+- 'Why didn't you sleep at home last night?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'Come on, why are you holding a grudge?' Max addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
 - 'Yesterday you simply interrupted Vika and me.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'And we had a fight because of that.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'We haven't been able to get pregnant.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'In short, everything is complicated.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
+- 'And we had a fight because of that.' Spoken Russian keeps this brief and expressive, built right around 'had a fight' without extra helper words.
+- 'We haven't been able to get pregnant.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'In short, everything is complicated.' In everyday Russian, 'shared, common' flows straight into 'difficultly, hard, complicated' without extra linking words.
 - 'Forgive me too.' Denis addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'Because of me you have nothing but trouble.' Denis keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Come on, we will manage. So, how are things with you?' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'I need to peel eighteen sacks of potatoes before evening.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
-- 'But I have already peeled three.' Denis uses natural conversational word order here to highlight the most important part of the reply.
-- 'We will help you right now.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
+- 'Because of me you have nothing but trouble.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'Come on, we will manage. So, how are things with you?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'I need to peel eighteen sacks of potatoes before evening.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
+- 'But I have already peeled three.' Denis pairs 'already' with 'to three' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'We will help you right now.' Notice how Russian puts 'right now' and 'will help' together in a short, direct phrase where word endings show how the ideas connect.

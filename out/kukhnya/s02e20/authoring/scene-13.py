@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e20-scene-13"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e20-scene-13'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 20
 SCENE = 13
-TITLE = 'Разговор на воздухе  (A Talk Outside in the Fresh Air)'
+TITLE = "Разговор на воздухе  (A Talk Outside in the Fresh Air)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.20"
-SOURCE_FILE = "sources/kukhnya/s02/e20.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
+SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 
 INTRO = "Terrified by Nastya's sudden affectionate behavior, Kostya runs into the kitchen begging for help. Right behind him, Max appears yet again, and Senya and Fedya persuade Chef Barinov to simply step outside with Max and listen to what he has to say so he will finally leave."
 
 STORY = [
-    ('anya', 'Мне тебя и так очень...', 'I already love you so much as it is...', [(219, 'Мне тебя и так очень')], ''),
+    ('chef', 'Мне тебя и так очень...', 'I already love you so much as it is...', [(219, 'Мне тебя и так очень')], ''),
     ('vika', 'Костян, спасай меня!', 'Kostyan, save me right now!', [(220, 'Костян, спасай меня')], ''),
-    ('kostya', 'Я ж тебя предупреждал!', 'I warned you not to come in here!', [(221, 'Я ж тебя предупреждал')], ''),
-    ('anya', 'Настя, подожди, потом поговорим.', 'Nastya, wait, we will talk about it later.', [(222, 'Настя, подожди, потом поговорим')], ''),
+    ('chef', 'Я ж тебя предупреждал!', 'I warned you not to come in here!', [(221, 'Я ж тебя предупреждал')], ''),
+    ('chef', 'Настя, подожди, потом поговорим.', 'Nastya, wait, we will talk about it later.', [(222, 'Настя, подожди, потом поговорим')], ''),
     ('vika', 'Шеф, шеф, шеф, это не поможет.', 'Chef, Chef, Chef, chasing him will not help.', [(225, 'Шеф, шеф, шеф, это не поможет')], ''),
-    ('kostya', 'Я его очень хорошо знаю.', 'I know him very well.', [(226, 'Я его очень хорошо знаю')], ''),
-    ('anya', 'Лучше просто выслушайте его.', 'It is better if you simply hear him out.', [(227, 'Лучше просто выслушайте его')], ''),
+    ('chef', 'Я его очень хорошо знаю.', 'I know him very well.', [(226, 'Я его очень хорошо знаю')], ''),
+    ('chef', 'Лучше просто выслушайте его.', 'It is better if you simply hear him out.', [(227, 'Лучше просто выслушайте его')], ''),
     ('vika', 'Шеф, шеф, просто поговорите.', 'Chef, please, just talk to him for a minute.', [(228, 'Шеф, шеф, просто поговорите')], ''),
-    ('kostya', 'Давай выйдем на воздух.', 'Alright, let us step outside for some air.', [(229, 'Давай выйдем на воздух')], ''),
-    ('anya', 'Шеф, я не хотел предавать вас.', 'Chef, I never wanted to betray you.', [(230, 'Шеф, я не хотел предавать вас')], ''),
+    ('chef', 'Давай выйдем на воздух.', 'Alright, let us step outside for some air.', [(229, 'Давай выйдем на воздух')], ''),
+    ('chef', 'Шеф, я не хотел предавать вас.', 'Chef, I never wanted to betray you.', [(230, 'Шеф, я не хотел предавать вас')], ''),
     ('vika', 'Я не мог поступить иначе.', 'I simply could not have acted any other way.', [(231, 'Я не мог поступить иначе')], ''),
-    ('kostya', 'Ты сам сделал свой выбор.', 'You made your own choice yourself.', [(232, 'Ты сам сделал свой выбор')], ''),
-    ('anya', 'А потом уж всякие бабки.', 'And only after that come all the money issues.', [(237, 'А потом уж всякие бабки')], ''),
+    ('chef', 'Ты сам сделал свой выбор.', 'You made your own choice yourself.', [(232, 'Ты сам сделал свой выбор')], ''),
+    ('chef', 'А потом уж всякие бабки.', 'And only after that come all the money issues.', [(237, 'А потом уж всякие бабки')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 13 of Episode 20, listen out for the exchange around a talk outside in the fresh air — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'А потом уж всякие бабки.')
+OUTRO = "That wraps up this scene as spooked by Nastya's sweetness, Kostya begs the cooks for help, while Senya and Fedya convince Chef Barinov to step outside and hear Max out one last time. Until next time!"
+CLOSING = ("chef", "Хорошего дня!")

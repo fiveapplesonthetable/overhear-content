@@ -29,5 +29,5 @@
 | 15 | `sofia` (Sofia) | Gabriel, nous devons fêter cette nouvelle! | Gabriel, we must celebrate this news! | 560:Tu sais qu'il veut que tu joues le rôle principal dans son film ? |
 
 ## Part 5 — Outro & Closing
-> Sofia's musical audition turns into the role of a lifetime in Julien Doré's upcoming movie. Listen to the wonderful conversation once more in French. Join us next time to see what happens next.
+> Sofia's musical audition turns into the role of a lifetime in Julien Doré's upcoming movie. Listen to the wonderful conversation once more in French. See you next time!
 - **Closing**: `sofia`: *À bientôt!*

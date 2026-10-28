@@ -27,5 +27,5 @@
 | 13 | `jose` (José) | D'accord, je vais me calmer un peu. | All right, I am going to calm down a bit. | 549:Calme-toi |
 
 ## Part 5 — Outro & Closing
-> Andrea manages to steer Jose Garcia into her living room without waking baby Flora. When you watch the episode, listen out for the expressions meaning 'open' and 'door'. You'll catch them now. See you next time.
+> Andrea manages to steer Jose Garcia into her living room without waking baby Flora. When you watch the episode, listen out for the expressions meaning 'open' and 'door'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

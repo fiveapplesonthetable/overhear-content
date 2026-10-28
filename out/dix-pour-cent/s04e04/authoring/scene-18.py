@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 18
-TITLE = "Trahison par courriel  (Betrayal by Email)"
-LEVEL = "A1 — débutant"
+TITLE = 'Trahison par courriel  (Betrayal by Email)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "In Mathias's office, Camille waits while he retrieves two glasses to celebrate their signed paternity papers. Glancing at his open computer screen, Camille reads an email revealing Mathias's ruthless plot to mislead and replace director Ulrika. Let's listen to their confrontation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Camille walks out of the building, leaving Mathias standing alone in his empty office. When you watch the episode, listen out for the expressions meaning 'brought' and 'glasses'. You'll catch them now. See you next time."
-CLOSING = ("camille", "Au revoir!")
+OUTRO = "Camille walks out of the building, leaving Mathias standing alone in his empty office. When you watch the episode, listen out for the expressions meaning 'brought' and 'glasses'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'Au revoir!')
 STORY = [
     ('mathias', "J'ai apporté deux verres pour trinquer.", 'I brought two glasses to toast.', [], ''),
     ('camille', 'Je viens de lire tes courriels.', 'I have just read your emails.', [], ''),

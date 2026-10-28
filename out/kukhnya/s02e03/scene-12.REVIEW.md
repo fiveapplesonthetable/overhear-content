@@ -1,41 +1,40 @@
-# kukhnya-s02e03-scene-12: review sheet
+# Деньги на квартиру  (Money for the Apartment) — `kukhnya-s02e03-scene-12`
 
-Title: Деньги на квартиру  (Money for the Apartment)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S2.03
+**Source:** Кухня (Kukhnya) S2.03 · `sources/kukhnya/s02/e03.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `kostya` | anja | Костя |
+| `anya` | alisa | Макс |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> When they arrive at the apartment, Sasha hands Max the money he needs for rent before saying goodbye. Inside, Kostya is amazed that Max has his share of the rent and teases him when he learns the cash came from Sasha.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Саша | Я слышала, тебе очень нужны деньги. | I heard you really need money. | #185 00:11:37: Я слышала, тебе нужны были деньги | adapted: Sasha speaks to Max in the hallway |
-| 2 | Саша | Тебе ведь надо платить за квартиру. | After all, you need to pay for the apartment. | #185 00:11:37: деньги на квартиру | adapted: Sasha knows he owes rent to Kostya |
-| 3 | Саша | Вот, пожалуйста, возьми эти деньги. | Here, please, take this money. | #186 00:11:43: Вот, возьми | adapted: Sasha hands him the cash |
-| 4 | Саша | Ну ладно, я пойду домой, пока! | Alright, I will go home, bye! | #187 00:11:50: Ну ладно, я пойду. Пока | adapted: Sasha turns to leave |
-| 5 | Макс | До завтра, спасибо тебе, Саша! | Until tomorrow, thank you, Sasha! | #188 00:11:52: До завтра<br>#189 00:11:55: Спасибо, Саша | adapted: Max thanks her warmly |
-| 6 | Костя | Ну что, Саша уже уехала? | So, did Sasha already leave? | #190 00:12:02: Че, уехала? | adapted: Kostya comes into the room |
-| 7 | Макс | Да, у меня сегодня нет настроения. | Yes, I am not in a good mood today. | #190 00:12:02: Да че-то настроения нет | adapted: Max feels awkward about taking her money |
-| 8 | Макс | Возьми на столе деньги за квартиру. | Take the money for the apartment on the table. | #191 00:12:05: Возьми, вон, на столе | adapted: Max points to the cash on the table |
-| 9 | Костя | Ух ты, откуда столько денег? | Whoa, where is so much money from? | #192 00:12:11: Ух ты | adapted: Kostya is surprised by the full rent payment |
-| 10 | Костя | Ты продал своё дорогое кольцо? | Did you sell your expensive ring? | #193 00:12:13: Ты че, кольцо продал? | adapted: Kostya guesses how Max got the cash |
-| 11 | Макс | Да нет, мне Саша сейчас дала. | No, Sasha just gave it to me. | #193 00:12:13: Да нет<br>#194 00:12:17: сейчас дала | adapted: Max admits Sasha lent him the money |
-| 12 | Костя | Нормально, ты очень хорошо устроился! | Nice, you have set yourself up very well! | #194 00:12:17: Нормально<br>#195 00:12:20: ты хорошо устроился | adapted: Kostya teases his roommate |
-| 13 | Макс | Костя, перестань шутить надо мной! | Kostya, stop joking about me! | #196 00:12:23: Слушай | adapted: Max tells Kostya to stop teasing |
+| 0 | Костя | Я слышала, тебе очень нужны деньги. | I heard you really need money. | #185 "Я слышала, тебе нужны были деньги" |  |
+| 1 | Костя | Тебе ведь надо платить за квартиру. | After all, you need to pay for the apartment. | #185 "деньги на квартиру" |  |
+| 2 | Костя | Вот, пожалуйста, возьми эти деньги. | Here, please, take this money. | #186 "Вот, возьми" |  |
+| 3 | Костя | Ну ладно, я пойду домой, пока! | Alright, I will go home, bye! | #187 "Ну ладно, я пойду. Пока" |  |
+| 4 | Макс | До завтра, спасибо тебе, Саша! | Until tomorrow, thank you, Sasha! | #188 "До завтра", #189 "Спасибо, Саша" |  |
+| 5 | Костя | Ну что, Саша уже уехала? | So, did Sasha already leave? | #190 "Че, уехала?" |  |
+| 6 | Макс | Да, у меня сегодня нет настроения. | Yes, I am not in a good mood today. | #190 "Да че-то настроения нет" |  |
+| 7 | Макс | Возьми на столе деньги за квартиру. | Take the money for the apartment on the table. | #191 "Возьми, вон, на столе" |  |
+| 8 | Костя | Ух ты, откуда столько денег? | Whoa, where is so much money from? | #192 "Ух ты" |  |
+| 9 | Костя | Ты продал своё дорогое кольцо? | Did you sell your expensive ring? | #193 "Ты че, кольцо продал?" |  |
+| 10 | Макс | Да нет, мне Саша сейчас дала. | No, Sasha just gave it to me. | #193 "Да нет", #194 "сейчас дала" |  |
+| 11 | Костя | Нормально, ты очень хорошо устроился! | Nice, you have set yourself up very well! | #194 "Нормально", #195 "ты хорошо устроился" |  |
+| 12 | Макс | Костя, перестань шутить надо мной! | Kostya, stop joking about me! | #196 "Слушай" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'I heard you really need money.' Sasha knows Max has been struggling to pay his share of the rent.
-- 'After all, you need to pay for the apartment.' Here Sasha anchors the line on the word meaning 'it is necessary' and builds the thought around 'to pay' and 'flat'.
-- 'Here, please, take this money.' Sasha leads with the direct command form meaning 'take', followed by 'money'.
-- 'Alright, I will go home, bye!' Sasha uses the perfective verb meaning 'go' to focus on the single completed result, pairing it with 'home' and 'bye'.
-- 'Until tomorrow, thank you, Sasha!' Russian omits the present-tense verb 'to be' here, linking 'tomorrow' directly with 'thank you', combining 'tomorrow' with 'thank you'.
-- 'So, did Sasha already leave?' Kostya checks if their guest has gone in this scene.
-- 'Yes, I am not in a good mood today.' Max feels embarrassed about borrowing money from Sasha.
-- 'Take the money for the apartment on the table.' Max leads with the direct command form meaning 'take', pairing it with 'table' and 'money'.
-- 'Whoa, where is so much money from?' Kostya did not expect Max to have the money ready.
-- 'Did you sell your expensive ring?' Kostya wonders if Max sold the ring he bought earlier.
-- 'No, Sasha just gave it to me.' Max honestly tells him where the money came from.
-- 'Nice, you have set yourself up very well!' Kostya jokes that Max has a very convenient arrangement.
-- 'Kostya, stop joking about me!' Max is not amused by Kostya's teasing. Now listen to the whole apartment scene again.
+> Sasha bails Max out with his rent money, giving Kostya plenty of material to tease his best friend. Next time you watch the episode, listen for the Russian expressions for 'to hear' and 'very' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

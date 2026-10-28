@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 26
-TITLE = "Cartes de visite et confidences  (Business Cards and Confidences)"
-LEVEL = "A1 — débutant"
+TITLE = 'Cartes de visite et confidences  (Business Cards and Confidences)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "camille": "emilie"}
-LABELS = {"herve": "Hervé", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'camille': 'emilie'}
+LABELS = {'herve': 'Hervé', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "At the agency reception, Hervé proudly shows Camille the new business cards he designed. He then drops a surprising revelation, claiming he has figured out the identity of Camille's father. Let's listen to the scene in French first."
 OPENER = "Let's examine how Hervé shares his cards and his funny mistake with Camille."
 TRANSITION = "Now let's listen to the whole discussion again without stopping."
 OUTRO = "Hervé proudly displays his agency ambition and shares his wild theory about Camille's father. Camille is secretly relieved that her true parentage remains safe. See you next time!"
-CLOSING = ("herve", "À plus tard, Camille!")
+CLOSING = ('herve', 'À plus tard, Camille!')
 STORY = [
     ('herve', 'Ta mère arrive quand?', 'When does your mother arrive?', [(858, 'Ta mère arrive quand ?')], ''),
     ('camille', 'Elle arrive la semaine prochaine.', 'She arrives next week.', [(859, 'La semaine prochaine.')], ''),

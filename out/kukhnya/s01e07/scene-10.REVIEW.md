@@ -1,32 +1,40 @@
-# kukhnya-s01e07-scene-10: review sheet
+# Произведение искусства  (A Work of Art) — `kukhnya-s01e07-scene-10`
 
-Title: Произведение искусства  (A Work of Art)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.07
-Cues 192-195. Chef Barinov proudly presents his signature sauce to restaurant owner Dmitry Nagiyev.
+**Source:** Кухня (Kukhnya) S1.07 · `sources/kukhnya/s01/e07.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `nagiyev` | angelina | Нагиев |
+
+## Part 1 — Intro
+
+> Chef Viktor Barinov personally brings his latest culinary creation to the VIP table of restaurant owner Dmitry Nagiyev. Confident in his culinary genius, the chef boasts about the exquisite flavor while Dmitry prepares to judge the dish. Let's listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Шеф | Дмитрий, сейчас ты попробуешь шедевр! | Dmitry, right now you will taste a masterpiece! | #192 00:12:33: Сейчас попробуешь произведение искусства | verbatim |
-| 2 | Нагиев | Виктор, ты снова хвалишь себя? | Viktor, are you praising yourself again? | new | new |
-| 3 | Шеф | Это настоящее кулинарное произведение искусства! | This is a real culinary work of art! | #192 00:12:33: произведение искусства | verbatim |
-| 4 | Нагиев | Мне не терпится отведать твоего соуса. | I cannot wait to taste your sauce. | #195 00:12:39: не терпится отведать | verbatim |
-| 5 | Шеф | Я готовил этот соус всё утро. | I was preparing this sauce all morning. | new | new |
-| 6 | Нагиев | Надеюсь, ты положил правильные специи. | I hope you put the right spices. | new | new |
-| 7 | Шеф | Там только самые свежие ингредиенты. | There are only the freshest ingredients there. | new | new |
-| 8 | Нагиев | Запах действительно очень приятный и тонкий. | The aroma is indeed very pleasant and subtle. | new | new |
-| 9 | Шеф | Один кусочек мяса изменит всё. | One piece of meat will change everything. | new | new |
-| 10 | Нагиев | Не преувеличивай, дай мне вилку. | Do not exaggerate, give me a fork. | new | new |
-| 11 | Шеф | Сначала попробуй соус с хлебом. | First try the sauce with bread. | new | new |
-| 12 | Нагиев | Хорошо, давай начнём эту дегустацию. | Alright, let us begin this tasting. | new | new |
-| 13 | Шеф | Приятного аппетита, дорогой хозяин! | Bon appetit, my dear owner! | new | new |
+| 0 | Шеф | Дмитрий, сейчас ты попробуешь шедевр! | Dmitry, right now you will taste a masterpiece! | #192 "Сейчас попробуешь произведение искусства" |  |
+| 1 | Нагиев | Виктор, ты снова хвалишь себя? | Viktor, are you praising yourself again? | *(added)* |  |
+| 2 | Шеф | Это настоящее кулинарное произведение искусства! | This is a real culinary work of art! | #192 "произведение искусства" |  |
+| 3 | Нагиев | Мне не терпится отведать твоего соуса. | I cannot wait to taste your sauce. | #195 "не терпится отведать" |  |
+| 4 | Шеф | Я готовил этот соус всё утро. | I was preparing this sauce all morning. | *(added)* |  |
+| 5 | Нагиев | Надеюсь, ты положил правильные специи. | I hope you put the right spices. | *(added)* |  |
+| 6 | Шеф | Там только самые свежие ингредиенты. | There are only the freshest ingredients there. | *(added)* |  |
+| 7 | Нагиев | Запах действительно очень приятный и тонкий. | The aroma is indeed very pleasant and subtle. | *(added)* |  |
+| 8 | Шеф | Один кусочек мяса изменит всё. | One piece of meat will change everything. | *(added)* |  |
+| 9 | Нагиев | Не преувеличивай, дай мне вилку. | Do not exaggerate, give me a fork. | *(added)* |  |
+| 10 | Шеф | Сначала попробуй соус с хлебом. | First try the sauce with bread. | *(added)* |  |
+| 11 | Нагиев | Хорошо, давай начнём эту дегустацию. | Alright, let us begin this tasting. | *(added)* |  |
+| 12 | Шеф | Приятного аппетита, дорогой хозяин! | Bon appetit, my dear owner! | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Dmitry, right now you will taste a masterpiece!' The chef addresses the owner with a direct vocative name and an enthusiastic future tense verb.
-- 'This is a real culinary work of art!' The expressive noun phrase uses demonstrative and descriptive adjectives with a genitive noun complement.
-- 'I cannot wait to taste your sauce.' An impersonal construction with a reflexive verb in the dative expresses keen anticipation.
-- 'First try the sauce with bread.' The chef gives guidance with an imperative verb and instrumental case showing accompaniment. Now, let's listen to Chef Barinov presenting the sauce to Dmitry once more.
+> That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!
+
+**Нагиев:** Пока!

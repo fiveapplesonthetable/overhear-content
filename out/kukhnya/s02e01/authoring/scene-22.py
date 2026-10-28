@@ -1,74 +1,39 @@
-ID = "kukhnya-s02e01-scene-22"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s02e01-scene-22.
+ID = 'kukhnya-s02e01-scene-22'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 1
 SCENE = 22
-TITLE = 'Успешный план  (A Successful Plan)'
+TITLE = "Успешный план  (A Successful Plan)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "anja"}
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
 LABELS = {"anya": "Макс", "vika": "Вика"}
-SOURCE_NAME = "Кухня (Kukhnya) S2.01"
-SOURCE_FILE = "sources/kukhnya/s02/e01.ru.dual.srt"
-SOURCE_NOTE = "Scene 22"
-
+SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
+SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = "Max confidently walks into the restaurant's main dining area during his shift. He immediately spots Vika talking with their new strict boss near the bar. Max completely fails to understand the gravity of the situation and speaks out loud without thinking."
-
+OPENER = "Now let's go back through the exchange around A Successful Plan line by line and unpack how the Russian works."
+TRANSITION = "Now let's listen to the conversation again without interruption."
+OUTRO = "Max quickly realizes he has said something wrong at a very bad moment. Next time you watch the episode, listen for the Russian expressions for 'to go' and 'from here' — you will catch every word right away. See you next time!"
+CLOSING = ("anya", "Пока!")
 STORY = [
-    ('anya', 'Привет, Вика.',
-     'Hello, Vika.',
-     [], 'new'),
-    ('vika', 'Макс, иди отсюда.',
-     'Max, get out of here.',
-     [], 'new'),
-    ('anya', 'Почему ты такая злая?',
-     'Why are you so angry?',
-     [], 'new'),
-    ('anya', 'У нас всё отлично.',
-     'We have everything great.',
-     [], 'new'),
-    ('anya', 'Вик,',
-     'Vik,',
-     [(264, 'Вик')], 'adapted'),
-    ('anya', 'Походу, сработал твой план.',
-     'Looks like your plan worked.',
-     [(265, 'походу, сработал')], 'adapted'),
-    ('vika', 'Замолчи, пожалуйста.',
-     'Shut up, please.',
-     [], 'new'),
-    ('vika', 'Ты всё испортил.',
-     'You ruined everything.',
-     [], 'new'),
-    ('anya', 'Я не понимаю.',
-     'I do not understand.',
-     [], 'new'),
-    ('anya', 'Что я сделал не так?',
-     'What did I do wrong?',
-     [], 'new'),
-    ('vika', 'Это наш новый хозяин.',
-     'This is our new owner.',
-     [], 'new'),
-    ('anya', 'Ой, извините меня.',
-     'Oh, excuse me.',
-     [], 'new'),
-    ('anya', 'Я пойду на кухню.',
-     'I will go to the kitchen.',
-     [], 'new'),
+    ('anya', 'Привет, Вика.', 'Hello, Vika.', [], ''),
+    ('vika', 'Макс, иди отсюда.', 'Max, get out of here.', [], ''),
+    ('anya', 'Почему ты такая злая?', 'Why are you so angry?', [], ''),
+    ('anya', 'У нас всё отлично.', 'We have everything great.', [], ''),
+    ('anya', 'Вик,', 'Vik,', [], ''),
+    ('anya', 'Походу, сработал твой план.', 'Looks like your plan worked.', [(265, 'походу, сработал')], ''),
+    ('vika', 'Замолчи, пожалуйста.', 'Shut up, please.', [], ''),
+    ('vika', 'Ты всё испортил.', 'You ruined everything.', [], ''),
+    ('anya', 'Я не понимаю.', 'I do not understand.', [], ''),
+    ('anya', 'Что я сделал не так?', 'What did I do wrong?', [], ''),
+    ('vika', 'Это наш новый хозяин.', 'This is our new owner.', [], ''),
+    ('anya', 'Ой, извините меня.', 'Oh, excuse me.', [], ''),
+    ('anya', 'Я пойду на кухню.', 'I will go to the kitchen.', [], ''),
 ]
-
-OPENER = "Let us break down this interaction."
-
 WALK = [
-    (4, None,
-     "'Vik,' Here 'Vika' sets up the idea, while 'Vika' comes at the end for emphasis."),
-    (5, None,
-     "'Looks like your plan worked.' A compact expression built around 'apparently' and 'plan'. And Vika jumps in."),
-    (6, None,
-     "'Shut up, please.' Notice the word order: 'to fall silent' comes first, and 'to fall silent' finishes the sentence."),
-    (10, None,
-     "'This is our new owner.' You'll hear 'this' all the time in the show, here connected with 'owner'."),
+    (0, None, "'Vik,' Max delivers a punchy one-word reaction built around the Russian word meaning 'Vika'."),
+    (1, None, "'Looks like your plan worked.' Here Max anchors the line on the word meaning 'apparently' and builds the thought around 'worked' and 'plan'."),
+    (2, None, "'Shut up, please.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'to fall silent'."),
+    (3, None, "'This is our new owner.' Russian omits the present-tense verb 'to be' here, linking 'new' directly with 'owner', combining 'new' with 'owner'. Now let's listen to the whole conversation again from start to finish."),
 ]
-
-TRANSITION = "Now let us listen to the conversation again without interruption."
-OUTRO = 'Max quickly realizes he has said something wrong at a very bad moment.'
-CLOSING = ('anya', 'Я пойду на кухню.')

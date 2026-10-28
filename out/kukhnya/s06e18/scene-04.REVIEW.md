@@ -13,14 +13,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Михаил | Подожди, это же не конь. | Wait, this is not a horse. | #67 00:03:29: Это не конь | adapted: adapted |
 | 2 | Михаил | Зато он очень породистый пони. | On the other hand, he is a very thoroughbred pony. | #69 00:03:33: Зато очень породистый | adapted: adapted |
 | 3 | Михаил | Держи коня, мы в расчёте. | Take the horse, we are even. | #71 00:03:37: держи, мы в расчете | adapted: adapted |
-| 4 | Аня | Нас не должны видеть вместе. | They must not see us together. | #74 00:03:49: нас не должны видеть вместе | adapted: adapted |
-| 5 | Денис | Я просто хотел спросить про отца. | I just wanted to ask about your father. | #75 00:03:53: Я просто хотел спросить | adapted: adapted |
-| 6 | Аня | Папе нужна операция в Германии. | Dad needs an operation in Germany. | #76 00:03:56: Нужна операция в Германии | adapted: adapted |
-| 7 | Аня | Мы сейчас везде ищем деньги. | We are looking for money everywhere right now. | #77 00:03:58: Сейчас ищем деньги | adapted: adapted |
-| 8 | Аня | Денис, пожалуйста, не дави на меня. | Denis, please do not pressure me. | #78 00:04:00: Денис, пожалуйста, не дави на меня | adapted: adapted |
-| 9 | Аня | Мне сейчас правда очень тяжело. | It is truly very hard for me right now. | #79 00:04:02: Мне сейчас очень тяжело | adapted: adapted |
-| 10 | Денис | Я сейчас в Питер улетаю. | I am flying to Saint Petersburg right now. | #81 00:04:10: я сейчас в Питер улетаю | adapted: adapted |
-| 11 | Аня | Но мы так и не поговорили. | But we never actually talked. | #83 00:04:15: мы же так и не поговорили | adapted: adapted |
+| 4 | Катя | Нас не должны видеть вместе. | They must not see us together. | #74 00:03:49: нас не должны видеть вместе | adapted: adapted |
+| 5 | Михаил | Я просто хотел спросить про отца. | I just wanted to ask about your father. | #75 00:03:53: Я просто хотел спросить | adapted: adapted |
+| 6 | Катя | Папе нужна операция в Германии. | Dad needs an operation in Germany. | #76 00:03:56: Нужна операция в Германии | adapted: adapted |
+| 7 | Катя | Мы сейчас везде ищем деньги. | We are looking for money everywhere right now. | #77 00:03:58: Сейчас ищем деньги | adapted: adapted |
+| 8 | Катя | Денис, пожалуйста, не дави на меня. | Denis, please do not pressure me. | #78 00:04:00: Денис, пожалуйста, не дави на меня | adapted: adapted |
+| 9 | Катя | Мне сейчас правда очень тяжело. | It is truly very hard for me right now. | #79 00:04:02: Мне сейчас очень тяжело | adapted: adapted |
+| 10 | Михаил | Я сейчас в Питер улетаю. | I am flying to Saint Petersburg right now. | #81 00:04:10: я сейчас в Питер улетаю | adapted: adapted |
+| 11 | Катя | Но мы так и не поговорили. | But we never actually talked. | #83 00:04:15: мы же так и не поговорили | adapted: adapted |
 | 12 | Михаил | Стой здесь и сторожи коня. | Stand here and guard the horse. | #88 00:04:33: А ты стой здесь и сторожи | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

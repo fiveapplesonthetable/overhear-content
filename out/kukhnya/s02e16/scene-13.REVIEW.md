@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну, ладно, отдыхай. | Well, alright, enjoy your evening. | #220 00:13:42: Ну, ладно, отдыхай | verbatim |
+| 1 | Илья | Ну, ладно, отдыхай. | Well, alright, enjoy your evening. | #220 00:13:42: Ну, ладно, отдыхай | verbatim |
 | 2 | Сеня | Счастливый столик. | It is a lucky table. | #221 00:13:43: Счастливый столик | verbatim |
-| 3 | Аня | Обязательно что-нибудь вечером тебе отломится. | You are guaranteed to get lucky tonight. | #222 00:13:46: Обязательно что-нибудь вечером тебе отломится | verbatim |
+| 3 | Илья | Обязательно что-нибудь вечером тебе отломится. | You are guaranteed to get lucky tonight. | #222 00:13:46: Обязательно что-нибудь вечером тебе отломится | verbatim |
 | 4 | Сеня | Я-то с женой. | Whereas I am dining with my wife. | #223 00:13:50: Я-то с женой | verbatim |
-| 5 | Аня | Пойду сяду за столик для плебеев. | I will go sit at a table for commoners. | #224 00:13:55: Пойду сяду за столик для плебеев | verbatim |
+| 5 | Илья | Пойду сяду за столик для плебеев. | I will go sit at a table for commoners. | #224 00:13:55: Пойду сяду за столик для плебеев | verbatim |
 | 6 | Сеня | Спасибо тебе. | Thank you, Dima. | #225 00:13:59: Спасибо тебе | verbatim |
-| 7 | Аня | До свидания. | See you later. | #226 00:14:00: До свидания | verbatim |
+| 7 | Илья | До свидания. | See you later. | #226 00:14:00: До свидания | verbatim |
 | 8 | Сеня | Больше волос не дам. | I am not giving you any more hair. | #227 00:14:07: Больше волос не дам | verbatim |
-| 9 | Аня | Да не нужны мне твои волосы. | I do not need your hair anymore. | #228 00:14:09: Да не нужны мне твои волосы | verbatim |
+| 9 | Илья | Да не нужны мне твои волосы. | I do not need your hair anymore. | #228 00:14:09: Да не нужны мне твои волосы | verbatim |
 | 10 | Сеня | А что на этот раз? | So what is the plan this time? | #230 00:14:13: А что на этот раз | verbatim |
-| 11 | Аня | Как ты на этот раз хочешь подставить Илью? | How are you planning to set Ilya up this time? | #231 00:14:16: Как ты на этот раз хочешь подставить Илью | verbatim |
+| 11 | Илья | Как ты на этот раз хочешь подставить Илью? | How are you planning to set Ilya up this time? | #231 00:14:16: Как ты на этот раз хочешь подставить Илью | verbatim |
 | 12 | Сеня | Знай своего врага лучше, чем самого себя. | Know your enemy better than you know yourself. | #232 00:14:18: Знай своего врага лучше, чем самого себя | verbatim |
-| 13 | Аня | И победа будет неизбежна. | And victory will be inevitable. | #233 00:14:20: И победа будет неизбежна | verbatim |
+| 13 | Илья | И победа будет неизбежна. | And victory will be inevitable. | #233 00:14:20: И победа будет неизбежна | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So what is the plan this time?' Senya brings out the contrast between 'and' and 'what' in a few short words.
 - 'How are you planning to set Ilya up this time?' Ilya raises the pitch on 'Ilya' to turn the phrase into a direct spoken question. Senya answers right away.
 - 'Know your enemy better than you know yourself.' The grammar packs 'to know' and 'yourself' into a tight, idiomatic kitchen exchange.
-- 'And victory will be inevitable.' Spoken Russian keeps this brisk, leaning on 'both' and finishing on 'inevitable'.
+- 'And victory will be inevitable.' Notice how Russian puts 'victory, triumph' and 'inevitable' together in a short, direct phrase where word endings show how the ideas connect.

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 29
-TITLE = "Hier soir  (Last Night)"
-LEVEL = "A1 — débutant"
+TITLE = 'Hier soir  (Last Night)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hippolyte": "theo", "camille": "emilie"}
-LABELS = {"hippolyte": "Hippolyte", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'hippolyte': 'theo', 'camille': 'emilie'}
+LABELS = {'hippolyte': 'Hippolyte', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "He only wants to kiss her again. But Camille has one urgent question about last night, when she woke up in his flat and remembered almost nothing. Here it is in French first. Relax and let it play; we'll go through it together afterwards. Let's listen to the scene in French first."
 OPENER = "Let's walk through it. Hippolyte is in a romantic mood, and he says so straight away."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Phew, a narrow escape for Camille. Listen out for the verbs that use 'to be' in the past, like going home and falling asleep; you'll hear them everywhere. See you next time."
-CLOSING = ("camille", "Ouf! À plus tard!")
+OUTRO = "Phew, a narrow escape for Camille. Listen out for the verbs that use 'to be' in the past, like going home and falling asleep; you'll hear them everywhere. See you next time!"
+CLOSING = ('camille', 'Ouf! À plus tard!')
 STORY = [
     ('hippolyte', 'Tu me plais vraiment!', 'I really like you!', [(793, 'vraiment')], ''),
     ('camille', "Non, quelqu'un va entrer!", 'No, someone', [(794, "quelqu'un")], ''),

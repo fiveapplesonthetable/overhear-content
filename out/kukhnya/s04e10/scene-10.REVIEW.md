@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is clear what kind of movies you watch at home.' The adverb 'at home' is distinct from 'homeward' and sits right before the verb.
 - 'No, that is completely untrue.' Joining 'not' directly to 'truth' creates the single noun 'untruth' or 'lie'.
 - 'Then what, sweet cartoons?' Max guesses the most innocent genre he can think of.
-- 'Cartoons give a mistaken impression of people.' The noun for 'notion' or 'impression' takes the preposition 'about' plus the prepositional case.
+- 'Cartoons give a mistaken impression of people.' Notice how Russian puts 'cartoon, animated film' and 'person; people' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Movies about zombies are another matter.' Like 'kino', the borrowed noun 'zombie' never changes its form for number or case.
 - 'In those, everything is honest and real.' The adverb built with 'po-' and '-omu' means 'fairly' or 'honestly'.
 - 'People are ready to eat each other up.' The plural short-form adjective 'ready' agrees with the plural subject 'people'.

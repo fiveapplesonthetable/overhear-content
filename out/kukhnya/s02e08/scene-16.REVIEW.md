@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Красный. Хорошо. | The red one. Good. | #272 00:17:45: Красный. Хорошо | verbatim |
-| 2 | Вика | Или синий. | Or maybe the blue one. | #273 00:17:47: Или синий | verbatim |
+| 1 | Шеф | Красный. Хорошо. | The red one. Good. | #272 00:17:45: Красный. Хорошо | verbatim |
+| 2 | Лёва | Или синий. | Or maybe the blue one. | #273 00:17:47: Или синий | verbatim |
 | 3 | Лёва | Ну, да. | Well, yes. | #274 00:17:49: Ну, да | verbatim |
-| 4 | Аня | Или красный. | Or the red one. | #275 00:17:52: Или красный | verbatim |
-| 5 | Вика | Виктор Петрович, вы жених или сапер? | Viktor Petrovich, are you a groom or a bomb tech? | #276 00:17:53: Виктор Петрович, вы жених или сапер | verbatim |
+| 4 | Шеф | Или красный. | Or the red one. | #275 00:17:52: Или красный | verbatim |
+| 5 | Лёва | Виктор Петрович, вы жених или сапер? | Viktor Petrovich, are you a groom or a bomb tech? | #276 00:17:53: Виктор Петрович, вы жених или сапер | verbatim |
 | 6 | Лёва | Лёва, это первое свидание. | Lyova, this is a first date. | #277 00:17:58: Лёва, это первое свидание | verbatim |
-| 7 | Аня | Подождите, а она хоть из хорошей семьи? | Wait a second, is she at least from a good family? | #279 00:18:03: Подождите, а она хоть из хорошей семьи | verbatim |
-| 8 | Вика | Она из хорошего ресторана. | She is from a good restaurant. | #280 00:18:06: Она из хорошего ресторана | verbatim |
+| 7 | Шеф | Подождите, а она хоть из хорошей семьи? | Wait a second, is she at least from a good family? | #279 00:18:03: Подождите, а она хоть из хорошей семьи | verbatim |
+| 8 | Лёва | Она из хорошего ресторана. | She is from a good restaurant. | #280 00:18:06: Она из хорошего ресторана | verbatim |
 | 9 | Лёва | Она волшебная. | She is magical. | #281 00:18:08: Она волшебная | verbatim |
-| 10 | Аня | Возьмите красный. | Take the red tie. | #283 00:18:14: Возьмите красный | verbatim |
-| 11 | Вика | Сделал мне предложение. | He proposed to me. | #289 00:18:35: сделал мне предложение | verbatim |
+| 10 | Шеф | Возьмите красный. | Take the red tie. | #283 00:18:14: Возьмите красный | verbatim |
+| 11 | Лёва | Сделал мне предложение. | He proposed to me. | #289 00:18:35: сделал мне предложение | verbatim |
 | 12 | Лёва | Лёва убедил. | Lyova convinced me. | #290 00:18:40: Лёва убедил | verbatim |
-| 13 | Аня | Давай красный. | Hand me the red one. | #291 00:18:42: Давай красный | verbatim |
+| 13 | Шеф | Давай красный. | Hand me the red one. | #291 00:18:42: Давай красный | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

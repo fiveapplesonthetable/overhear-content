@@ -12,11 +12,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Нагиев | Давайте, ребята, камера, мотор! | Come on, guys, camera, rolling! | #259 00:17:18: Давайте, ребята. Камера, мотор | adapted: exact |
 | 2 | Нагиев | Сцена девять, дубль четыре, начали! | Scene nine, take four, action! | #260 00:17:21: Сцена 9, дубль 4<br>#261 00:17:25: Начали! | adapted: adapted |
-| 3 | Аня | Сейчас ты встретишься со своим братом. | Now you will meet your brother. | #263 00:17:28: Сейчас ты встретишься со своим братом | adapted: exact |
+| 3 | Шеф | Сейчас ты встретишься со своим братом. | Now you will meet your brother. | #263 00:17:28: Сейчас ты встретишься со своим братом | adapted: exact |
 | 4 | Нагиев | Стоп, секунду, как ты пистолет держишь? | Cut, one second, how are you holding the pistol? | #264 00:17:31: Стоп. Секунду<br>#265 00:17:34: Пистолет. Как ты держишь? | adapted: adapted |
 | 5 | Нагиев | Готовы, поехали, дубль пять! | Ready, let's roll, take five! | #269 00:17:46: Готовы? Поехали<br>#271 00:17:51: дубль 5 | adapted: adapted |
 | 6 | Нагиев | Стоп, стоп! | Cut, cut! | #274 00:18:00: Стоп, стоп | adapted: exact |
-| 7 | Аня | Что опять не так? | What is wrong again? | #274 00:18:00: Что опять не так? | adapted: exact |
+| 7 | Шеф | Что опять не так? | What is wrong again? | #274 00:18:00: Что опять не так? | adapted: exact |
 | 8 | Нагиев | Ребята, мы снимаем скучное кино. | Guys, we are filming a boring movie. | #275 00:18:02: Ребят, мы снимаем | adapted: adapted |
 | 9 | Нагиев | Он выстрелил в меня и попал в грудь. | He shot at me and hit me in the chest. | #276 00:18:05: в меня, попал в грудь | adapted: adapted |
 | 10 | Нагиев | Я это видел тысячу раз в кино, не убил героя. | I have seen that a thousand times in movies, it did not kill the hero. | #277 00:18:08: Я это видел тысячу раз в кино<br>#278 00:18:09: не убил героя | adapted: adapted |

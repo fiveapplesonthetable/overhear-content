@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Cette lecture vous fera du bien. | This reading will do you good. | 240:tenez, prenez-le. |
 
 ## Part 5 — Outro & Closing
-> Catherine and Noemie connect beyond professional boundaries, sharing thoughts on meditation and personal well-being. When you watch the episode, listen out for the expressions meaning 'to enter' and 'come in'. You'll catch them now. See you next time.
+> Catherine and Noemie connect beyond professional boundaries, sharing thoughts on meditation and personal well-being. When you watch the episode, listen out for the expressions meaning 'to enter' and 'come in'. You'll catch them now. See you next time!
 - **Closing**: `catherine`: *Bonne journée!*

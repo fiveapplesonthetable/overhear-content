@@ -28,5 +28,5 @@
 | 14 | `norman` (Norman) | J'espère que le public va aimer. | I hope the public will like it. | adapted |
 
 ## Part 5 — Outro & Closing
-> Gabriel encourages Norman as he transitions from web comedy to serious cinema. Meanwhile, the party around them continues in full swing. See you next time!
+> Gabriel encourages Norman as he transitions from web comedy to serious cinema. See you next time!
 - **Closing**: `norman`: *À bientôt!*

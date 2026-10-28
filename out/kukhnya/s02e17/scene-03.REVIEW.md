@@ -19,7 +19,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Аня | Я не хочу его терять, понимаешь? | I do not want to lose him, do you understand? | #38 00:02:47: Я не хочу его терять, понимаешь | verbatim |
 | 8 | Костя | Я спать? | Me, go to sleep? | #40 00:03:00: Я спать | verbatim |
 | 9 | Аня | И о футболе. | And about football. | #43 00:03:37: И о футболе | verbatim |
-| 10 | Костя | Да заткнись ты, я знаю! | Just shut up, I know! | #45 00:03:43: Да заткнись ты, я знаю | verbatim |
+| 10 | Костя | Да помолчи ты, я сам знаю! | Just be quiet, I know it myself! | #45 00:03:43: Да<br>#45 00:03:43: ты, я знаю | adapted: adapted |
 | 11 | Аня | Кто не видел, что я хотел сесть встать? | Who did not see that I wanted to sit down and stand up? | #46 00:03:50: Кто не видел, что я хотел сесть встать | verbatim |
 | 12 | Костя | И чё? | And so what? | #47 00:03:53: И чё | verbatim |
 | 13 | Аня | А то, что я хотел! | Because that is what I wanted to do! | #48 00:03:55: А то, что я хотел | verbatim |
@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I do not want to lose him, do you understand?' The negative particle sits right before the verb meaning 'want' to negate the statement.
 - 'Me, go to sleep?' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'to sleep'. Max answers right away.
 - 'And about football.' Max brings out the contrast between 'both' and 'about' in a few short words.
-- 'Just shut up, I know!' Notice how Russian expresses 'yes' and 'know' with crisp inflection rather than helper words.
+- 'Just be quiet, I know it myself!' Kostya pairs 'to be quiet' with 'know' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Who did not see that I wanted to sit down and stand up?' Notice how Russian expresses 'who' and 'to stand up' with crisp inflection rather than helper words. Kostya answers right away.
 - 'And so what?' The grammar packs 'both' and 'what' into a tight, idiomatic kitchen exchange.
 - 'Because that is what I wanted to do!' In Russian, the idea of 'and' flows naturally into 'wanted' without extra filler words.

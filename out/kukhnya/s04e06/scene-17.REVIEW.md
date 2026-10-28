@@ -30,12 +30,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Why are you silent, give me my wine quickly!' Nagiyev loses patience as Kostya hesitates behind the bar.
 - 'Kostya, is it time to carry this bottle to the hall already?' Max runs in to buy a few extra minutes.
 - 'What on earth is going on with you here, guys?' Nagiyev follows them to see why the wine is taking so long.
-- 'Kostya asked us to keep your bottle in the storeroom.' Prepositional case marks location in the storage room.
-- 'A lock accidentally broke at his bar.' Reflexive perfective past verb describes the lock breaking by itself.
+- 'Kostya asked us to keep your bottle in the storeroom.' Notice how Russian puts 'asked' and 'storeroom, warehouse' together in a short, direct phrase where word endings show how the ideas connect.
+- 'A lock accidentally broke at his bar.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Come on, carry it to the dining room very fast!' Nagiyev waves them toward the dining room.
 - 'Do you even understand who is sitting in the hall today?' Particle 'even/at least' intensifies the question.
 - 'That is the very best sommelier in all of Moscow!' The borrowed French noun for sommelier is indeclinable in Russian.
 - 'I want to lure him over to our restaurant.' Prefixed verb 'to lure across' means recruiting someone from a rival.
-- 'Let him drink some of our good elite wine today!' Partitive genitive 'of good wine' follows the prefixed verb of drinking.
+- 'Let him drink some of our good elite wine today!' In everyday Russian, 'to have a drink' flows straight into 'wine' without extra linking words.
 - 'Vika, did the courier finally bring your new wine?' Vika receives the real bottle at the entrance a moment too late.
 - 'Too late, Kostya has already opened my bottle!' Kostya is already pouring the 600-ruble Spanish wine for the sommelier.

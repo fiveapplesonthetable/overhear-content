@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Je commence la lecture tout de suite. | I am starting reading right away. | 28:Dépêche-toi, on n'a pas le temps |
 
 ## Part 5 — Outro & Closing
-> Leaving Camille to tackle the dense screenplay on the fly, Andrea speeds away toward Charles de Gaulle airport. When you watch the episode, listen out for the expressions meaning 'telephone' and 'explodes'. You'll catch them now. See you next time.
+> Leaving Camille to tackle the dense screenplay on the fly, Andrea speeds away toward Charles de Gaulle airport. When you watch the episode, listen out for the expressions meaning 'telephone' and 'explodes'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

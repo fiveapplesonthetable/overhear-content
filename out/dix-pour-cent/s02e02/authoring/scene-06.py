@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 6
-TITLE = "Le rôle de Dario  (The Role of Dario)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le rôle de Dario  (The Role of Dario)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "dario": "theo", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "dario": "Dario", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'dario': 'theo', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'dario': 'Dario', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "Inside Mathias's office, Noémie enthusiastically shares the spiritual revelations she gained from her shaman. Mathias quickly steers the conversation back to work as young actor Dario arrives to discuss a major film audition. Let's listen to the scene in French first."
 OPENER = "Let's examine how Mathias pitches the film role to his client step by step."
 TRANSITION = "Now let's listen to the pitch meeting once more from beginning to end."
 OUTRO = 'Dario leaves delighted with the film opportunity, while Noémie continues to reflect on her spirit animal. On his way out of the building, Mathias steps into the elevator with his son Hippolyte. See you next time!'
-CLOSING = ("dario", "À bientôt!")
+CLOSING = ('dario', 'À bientôt!')
 STORY = [
     ('mathias', 'Le contrat pour Nathalie Baye est prêt?', 'Is the contract for Nathalie Baye ready?', [(177, 'Le contrat pour Nathalie Baye est prêt ?')], ''),
     ('noemie', "C'est vraiment incroyable, en fait. Il m'a ouvert les yeux.", 'It is really incredible, actually. He opened my eyes.', [(178, "C'est vraiment incroyable, en fait."), (179, "Il m'a vraiment ouvert les yeux.")], ''),

@@ -1,39 +1,39 @@
-# kukhnya-s01e08-scene-18: review sheet
+# Обида шефа  (The Chef's Resentment) — `kukhnya-s01e08-scene-18`
 
-Title: Обида шефа  (The Chef's Resentment)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (The Kitchen) S1.8
+**Source:** Кухня (Kukhnya) S1.08 · `sources/kukhnya/s01/e08.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `lyova` | angelina | Лёва |
+| `chef` | anja | Шеф |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Still brooding inside his office, Chef Barinov continues to nurse his bruised pride. Despite sous-chef Lyova's desperate attempts to restore his spirits, the head chef remains convinced that everyone in the restaurant is ungrateful. Let's listen to their conversation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Шеф | Все эти люди вокруг — неблагодарные подонки. | All these people around are ungrateful scumbags. | #217 00:12:41: они все подонки | adapted: venting bitterness |
-| 2 | Лёва | Шеф, нельзя так плохо думать обо всех. | Chef, one should not think so badly about everyone. | #217 00:12:41: подонки | adapted: urging moderation |
-| 3 | Шеф | Я научил их готовить лучшие блюда города. | I taught them to cook the city's best dishes. | #217 00:12:41: они все подонки | adapted: recalling his efforts |
-| 4 | Лёва | Каждый повар помнит ваш великий урок. | Every cook remembers your great lesson. | #217 00:12:41: подонки | adapted: acknowledging mentorship |
-| 5 | Шеф | Тогда почему они сейчас слушают чужие команды? | Then why are they following someone else's orders now? | #217 00:12:41: подонки | adapted: challenging loyalty |
-| 6 | Лёва | Они просто боятся потерять своё рабочее место. | They are simply afraid of losing their job. | #217 00:12:41: подонки | adapted: explaining practical reality |
-| 7 | Шеф | Настоящий мастер никогда не боится трудностей. | A true master is never afraid of difficulties. | #217 00:12:41: подонки | adapted: holding high standard |
-| 8 | Лёва | Вы самый главный кулинарный мастер для нас. | You are the main culinary master for us. | #217 00:12:41: подонки | adapted: flattering chef |
-| 9 | Шеф | Пусть теперь сами справляются со сложным банкетом. | Let them handle the complex banquet themselves now. | #217 00:12:41: подонки | adapted: washing his hands |
-| 10 | Лёва | Без вашего участия на кухне наступит хаос. | Without your participation, chaos will break out in the kitchen. | #217 00:12:41: подонки | adapted: warning of collapse |
-| 11 | Шеф | Вот и отлично, пусть увидят мою силу! | That is great, let them see my strength! | #217 00:12:41: подонки | adapted: gloating |
-| 12 | Лёва | Я всё равно останусь рядом с вами. | I will stay by your side anyway. | #217 00:12:41: подонки | adapted: pledging steadfast loyalty |
+| 0 | Шеф | Все эти люди вокруг — неблагодарные подонки. | All these people around are ungrateful scumbags. | #217 "они все подонки" |  |
+| 1 | Лёва | Шеф, нельзя так плохо думать обо всех. | Chef, one should not think so badly about everyone. | #217 "подонки" |  |
+| 2 | Шеф | Я научил их готовить лучшие блюда города. | I taught them to cook the city's best dishes. | #217 "они все подонки" |  |
+| 3 | Лёва | Каждый повар помнит ваш великий урок. | Every cook remembers your great lesson. | #217 "подонки" |  |
+| 4 | Шеф | Тогда почему они сейчас слушают чужие команды? | Then why are they following someone else's orders now? | #217 "подонки" |  |
+| 5 | Лёва | Они просто боятся потерять своё рабочее место. | They are simply afraid of losing their job. | #217 "подонки" |  |
+| 6 | Шеф | Настоящий мастер никогда не боится трудностей. | A true master is never afraid of difficulties. | #217 "подонки" |  |
+| 7 | Лёва | Вы самый главный кулинарный мастер для нас. | You are the main culinary master for us. | #217 "подонки" |  |
+| 8 | Шеф | Пусть теперь сами справляются со сложным банкетом. | Let them handle the complex banquet themselves now. | #217 "подонки" |  |
+| 9 | Лёва | Без вашего участия на кухне наступит хаос. | Without your participation, chaos will break out in the kitchen. | #217 "подонки" |  |
+| 10 | Шеф | Вот и отлично, пусть увидят мою силу! | That is great, let them see my strength! | #217 "подонки" |  |
+| 11 | Лёва | Я всё равно останусь рядом с вами. | I will stay by your side anyway. | #217 "подонки" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'All these people around are ungrateful scumbags.' Demonstrative plural subject phrase with adverb, dash, and predicate nominative noun phrase.
-- 'Chef, one should not think so badly about everyone.' Vocative title with impersonal modal word, manner adverbs, infinitive, and prepositional pronoun phrase.
-- 'I taught them to cook the city's best dishes.' Subject pronoun with past verb governing accusative pronoun, infinitive, superlative noun phrase, and genitive noun.
-- 'Every cook remembers your great lesson.' Quantified subject noun phrase with present verb and compound accusative masculine noun phrase.
-- 'Then why are they following someone else's orders now?' Consequential adverb with interrogative causal adverb, subject pronoun, temporal adverb, present verb, and accusative noun phrase.
-- 'They are simply afraid of losing their job.' Subject pronoun with restrictive adverb, present reflexive verb governing perfective infinitive, and accusative noun phrase.
-- 'A true master is never afraid of difficulties.' Qualitative subject noun phrase with negative adverb, negated reflexive verb, and genitive plural noun.
-- 'You are the main culinary master for us.' Subject pronoun with compound superlative predicate noun phrase and benefactive prepositional phrase.
-- 'Let them handle the complex banquet themselves now.' Third-person imperative particle with temporal adverb, emphatic pronoun, present verb, and instrumental prepositional phrase.
-- 'Without your participation, chaos will break out in the kitchen.' Negative prepositional phrase with locative phrase, future perfective verb, and nominative subject noun.
-- 'That is great, let them see my strength!' Emphatic particle construction with hortatory clause containing future third-person plural verb and accusative noun phrase.
-- 'I will stay by your side anyway.' Subject pronoun with concessive adverbial idiom, future perfective verb, locative adverb, and instrumental prepositional phrase.
+> Despite his dramatic complaints, Chef Barinov is bolstered by Lyova's unflinching devotion to his culinary vision. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'dish' — you will catch every word right away. See you next time!
+
+**Лёва:** Пока!

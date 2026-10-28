@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s01/e03.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "nathalie": "emilie", "mathias": "marcel"}`
-- **Labels**: `{"nathalie": "Nathalie", "mathias": "Mathias"}`
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "nathalie": "emilie"}`
+- **Labels**: `{"mathias": "Mathias", "nathalie": "Nathalie"}`
 
 ## Part 1 — Intro
 > Both have read Solveig Akerfelt's script, and while they are face to face they pretend to be delighted. Yet the moment they step out of the lift, each actress pulls her own agent aside for a private word in his office. Listen to the French first, and don't worry about catching every word.

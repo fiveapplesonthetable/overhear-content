@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e20-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 20
 SCENE = 18
-TITLE = 'Выбор между мечтой и семьёй  (Choosing Between a Dream and Family)'
+TITLE = "Выбор между мечтой и семьёй  (Choosing Between a Dream and Family)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nagiyev": "angelina"}
+LABELS = {"anya": "Макс", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.20'
 SOURCE_FILE = 'sources/kukhnya/s05/e20.ru.srt'
 
 INTRO = 'Nagiyev welcomes Max to Claude Monet as his new head chef. Despite waiting years for this exact opportunity, Max tells Nagiyev he cannot take the job because he is going to Saint Petersburg with his family.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Impressed by Max's loyalty to his family, Vika hears about his sacrifice and changes her mind about leaving Moscow. See you in the next scene."
-CLOSING = ('anya', 'Мне важнее моя семья.')
+OUTRO = "Impressed by Max's loyalty to his family, Vika hears about his sacrifice and changes her mind about leaving Moscow. See you next time!"
+CLOSING = ("anya", "Хорошего дня!")

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | И что, он после этого тебя оставил? | And what, he kept you on the job after that? | #107 00:07:30: И что, он после этого тебя оставил | verbatim |
+| 1 | Шеф | И что, он после этого тебя оставил? | And what, he kept you on the job after that? | #107 00:07:30: И что, он после этого тебя оставил | verbatim |
 | 2 | Лёва | Да, сказал, что я мужик. | Yes, he said I had guts. | #108 00:07:33: Да, сказал, что я мужик | verbatim |
-| 3 | Аня | Лев, а ты что, тоже лажал? | Lyova, did you really screw up too? | #110 00:07:36: Лев, а ты что, тоже лажал | verbatim |
+| 3 | Шеф | Лев, а ты что, тоже лажал? | Lyova, did you really screw up too? | #110 00:07:36: Лев, а ты что, тоже лажал | verbatim |
 | 4 | Лёва | Да ладно, никогда не поверю. | No way, I will never believe that. | #111 00:07:39: Да ладно, никогда не поверю | verbatim |
-| 5 | Аня | Да ладно, никогда? | Oh really, never? | #113 00:07:44: Да ладно, никогда | verbatim |
+| 5 | Шеф | Да ладно, никогда? | Oh really, never? | #113 00:07:44: Да ладно, никогда | verbatim |
 | 6 | Лёва | Тебе напомнить? | Should I remind you? | #114 00:07:46: Тебе напомнить | verbatim |
-| 7 | Аня | Уважаемый, принеси-ка мне коньяка. | My good man, bring me some cognac. | #115 00:07:50: Уважаемый, принеси-ка мне коньяка | verbatim |
+| 7 | Шеф | Уважаемый, принеси-ка мне коньяка. | My good man, bring me some cognac. | #115 00:07:50: Уважаемый, принеси-ка мне коньяка | verbatim |
 | 8 | Лёва | А вам какого? | Which one would you like? | #116 00:07:54: А вам какого | verbatim |
-| 9 | Аня | Самого дорогого. | The most expensive one. | #117 00:07:56: Самого дорогого | verbatim |
+| 9 | Шеф | Самого дорогого. | The most expensive one. | #117 00:07:56: Самого дорогого | verbatim |
 | 10 | Лёва | Был у меня один постоянный гость. | I used to have a certain regular guest. | #119 00:08:02: Был у меня один постоянный гость | verbatim |
-| 11 | Аня | И этому постоянному гостю готовил только я. | And I was the only one who cooked for that regular guest. | #120 00:08:05: И этому постоянному гостю готовил только я | verbatim |
+| 11 | Шеф | И этому постоянному гостю готовил только я. | And I was the only one who cooked for that regular guest. | #120 00:08:05: И этому постоянному гостю готовил только я | verbatim |
 | 12 | Лёва | Теплый салат с морепродуктами. | A warm seafood salad. | #122 00:08:12: Теплый салат с морепродуктами | verbatim |
-| 13 | Аня | Ну, например, я болел. | Well, one day, for instance, I was out sick. | #124 00:08:20: Ну, например, я болел | verbatim |
+| 13 | Шеф | Ну, например, я болел. | Well, one day, for instance, I was out sick. | #124 00:08:20: Ну, например, я болел | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

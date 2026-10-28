@@ -27,11 +27,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Vitya, tell me, what happened to you?' Elena raises the pitch on 'happened' to turn the phrase into a direct spoken question. Chef Barinov answers right away.
-- 'It seems I just accidentally sprained my ankle.' Notice the reflexive suffix on the verb meaning 'it seems', turning the action back on the subject.
+- 'It seems I just accidentally sprained my ankle.' Chef Barinov pairs 'it seems' with 'twisted / sprained' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'My God, well that is it, you urgently need to see a doctor!' The meaning hinges on 'God' working together with 'doctor' in spoken Russian.
 - 'So for today we are done with golf.' The plural past ending '-li' on the verb for 'to finish' covers a group or the polite 'you'. Chef Barinov answers right away.
 - 'No, I want very much to finish playing this round.' The meaning hinges on 'no' working together with 'game' in spoken Russian.
-- 'Right now I will go rest a little and return to you.' Notice the reflexive suffix on the verb meaning 'will return', turning the action back on the subject.
+- 'Right now I will go rest a little and return to you.' Chef Barinov pairs 'now' with 'will return' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Viktor Petrovich, are you definitely sure about that?' The meaning hinges on 'you' working together with 'sure' in spoken Russian. Chef Barinov answers right away.
 - 'In general, golf is the best thing I have played in my life!' The '-l' ending on the verb meaning 'played' places the action in the masculine past tense.
 - 'Why walk on foot, they will give you a quick ride right now.' The grammar packs 'why' and 'will give a ride' into a tight, idiomatic kitchen exchange.

@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Vitya, do not make me mad right now!' Spoken Russian keeps this brisk, leaning on 'Vitya' and finishing on 'now'.
 - 'And what do you want from me?' In Russian, the idea of 'and' flows naturally into 'want' without extra filler words.
 - 'I expect compassion for your friend.' The meaning hinges on 'am waiting for' working together with 'friend' in spoken Russian.
-- 'You were married to her sister, after all.' In Russian, the idea of 'you' flows naturally into 'sister' without extra filler words.
+- 'You were married to her sister, after all.' Nagiyev pairs 'married' with 'sister' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'What should I do, lead you to her bedroom?' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'bedroom'.
 - 'No, my dear friend, here you must be patient and wait.' Notice how Russian expresses 'no' and 'to wait' with crisp inflection rather than helper words.
 - 'Wait devotedly and faithfully.' Here the Russian phrasing highlights 'to wait' before landing on 'right'.

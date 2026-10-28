@@ -29,5 +29,5 @@
 | 15 | `camille` (Camille) | Merci, Andréa. Ça me fait du bien. | Thank you, Andréa. That makes me feel good. | 341:Ma Camille. |
 
 ## Part 5 — Outro & Closing
-> In an intimate conversation in the restroom, Andréa offers heartfelt support to Camille. Reassuring her that opportunity rarely knocks twice, Andréa encourages Camille to embrace her new role. Until next time.
+> In an intimate conversation in the restroom, Andréa offers heartfelt support to Camille. Reassuring her that opportunity rarely knocks twice, Andréa encourages Camille to embrace her new role. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

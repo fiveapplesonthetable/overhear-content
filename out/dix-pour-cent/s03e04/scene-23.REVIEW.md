@@ -27,5 +27,5 @@
 | 13 | `isabelle` (Isabelle) | Juste la caméra et moi. | Just the camera and me. | 1259:Et moi. |
 
 ## Part 5 — Outro & Closing
-> Gabriel realizes that no contract or doctor's order can ever keep Isabelle away from the camera. When you watch the episode, listen out for the expressions meaning 'blame' and 'insurance'. You'll catch them now. See you next time.
+> Gabriel realizes that no contract or doctor's order can ever keep Isabelle away from the camera. When you watch the episode, listen out for the expressions meaning 'blame' and 'insurance'. You'll catch them now. See you next time!
 - **Closing**: `isabelle`: *À bientôt!*

@@ -27,5 +27,5 @@
 | 13 | `colette` (Colette) | Oui, nous serons toujours une famille. | Yes, we will always be a family. | 848:Et puis on verra ensemble comment s'occuper de Flora. |
 
 ## Part 5 — Outro & Closing
-> With heavy hearts but clear minds, Andrea and Colette release their romantic past. When you watch the episode, listen out for the expressions meaning 'blow' and 'crying'. You'll catch them now. See you next time.
+> With heavy hearts but clear minds, Andrea and Colette release their romantic past. When you watch the episode, listen out for the expressions meaning 'blow' and 'crying'. You'll catch them now. See you next time!
 - **Closing**: `colette`: *Bonne soirée!*

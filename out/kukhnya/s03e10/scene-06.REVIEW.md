@@ -12,10 +12,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Аня | Не расстраивайся, ну не получилось сегодня. | Do not be upset, so it did not work out today. | #88 00:07:56: Не расстраивайся. Ну попробую, не получилось | adapted: adapted |
 | 2 | Аня | Может, ещё не всё потеряно? | Maybe not everything is lost yet? | #89 00:08:00: Может еще не все потеряно | adapted: adapted |
-| 3 | Катя | Привет, Макс, я хотела тебе сказать. | Hi, Max, I wanted to tell you something. | #90 00:08:04: Привет<br>#91 00:08:06: Слушай, Макс, я хотела тебе сказать | adapted: adapted |
-| 4 | Катя | Может, пойдём вечером кофе попьём? | Maybe we could go have some coffee tonight? | #91 00:08:06: может пойдем вечером кофе попьем | adapted: adapted |
+| 3 | Лёва | Привет, Макс, я хотела тебе сказать. | Hi, Max, I wanted to tell you something. | #90 00:08:04: Привет<br>#91 00:08:06: Слушай, Макс, я хотела тебе сказать | adapted: adapted |
+| 4 | Лёва | Может, пойдём вечером кофе попьём? | Maybe we could go have some coffee tonight? | #91 00:08:06: может пойдем вечером кофе попьем | adapted: adapted |
 | 5 | Аня | Привет, чего? Кофе вечером попьём? | Hi, what? Have coffee tonight? | #92 00:08:13: Привет. Чего? | adapted: adapted |
-| 6 | Катя | Да, вот мы и договорились. | Yes, then it is settled between us. | #93 00:08:15: Вот и договорились | adapted: adapted |
+| 6 | Лёва | Да, вот мы и договорились. | Yes, then it is settled between us. | #93 00:08:15: Вот и договорились | adapted: adapted |
 | 7 | Лёва | Я вообще ничего теперь не понимаю. | I do not understand anything at all now. | #94 00:08:22: Я ничего не понимаю | adapted: adapted |
 | 8 | Лёва | Я же всё сделал по рецепту. | I did everything according to your recipe. | #95 00:08:24: Я же все сделал по твоему рецепту | adapted: adapted |
 | 9 | Лёва | Ты ничего не делал, а она с тобой. | You did nothing at all, and she is going with you. | #96 00:08:27: А ты вообще ничего, а она с тобой | adapted: adapted |

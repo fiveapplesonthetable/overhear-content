@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Moi aussi j'adore ton visage. | I adore your face too. | 910:Moi aussi j'aime ton visage., 911:J'adore ton visage... |
 
 ## Part 5 — Outro & Closing
-> In the fading halls of ASK, Gabriel and Andrea lay bare their fears and loyalty to one another. When you watch the episode, listen out for the expressions meaning 'to have' and 'to do'. You'll catch them now. See you next time.
+> In the fading halls of ASK, Gabriel and Andrea lay bare their fears and loyalty to one another. When you watch the episode, listen out for the expressions meaning 'to have' and 'to do'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

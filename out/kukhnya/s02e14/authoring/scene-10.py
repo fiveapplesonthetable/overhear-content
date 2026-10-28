@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e14-scene-10"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e14-scene-10'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 10
-TITLE = 'Побег из-под стола  (Escaping from Under the Desk)'
+TITLE = "Побег из-под стола  (Escaping from Under the Desk)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'max': 'anja'}
-LABELS = {'anya': 'Елена', 'max': 'Макс'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.14"
-SOURCE_FILE = "sources/kukhnya/s02/e14.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "elena": "angelina", "anya": "alisa"}
+LABELS = {"elena": "Елена", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
+SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
 
 INTRO = 'Covering for his head chef, Nagiyev promises Elena Pavlovna that he will take care of Viktor Petrovich and sees her out of the office. Barinov barely crawls out from under the desk before Elena suddenly pops back in to grab her forgotten phone.'
 
 STORY = [
-    ('anya', 'Ну да.', 'Well, yes.', [(168, 'Ну да')], ''),
-    ('max', 'Это он может.', 'That sounds just like him.', [(170, 'Это он может')], ''),
-    ('anya', 'Вот. Хорошо.', 'There. Good.', [(173, 'Вот. Хорошо')], ''),
-    ('max', 'Я могу на вас рассчитывать?', 'Can I count on you?', [(174, 'Я могу на вас рассчитывать')], ''),
-    ('anya', 'Ну, Елена Павловна, будете мне должны.', 'Well, Elena Pavlovna, you will owe me one.', [(176, 'Ну, Елена Павловна, будете мне должны')], ''),
-    ('max', 'Буду вам должна.', 'I will owe you one.', [(176, 'Буду вам должна')], ''),
-    ('anya', 'Вить, ты дурак, а?', 'Vitya, are you a fool or what?', [(177, 'Вить, ты дурак, а')], ''),
-    ('max', 'Да ладно.', 'Oh, come on.', [(179, 'Да ладно')], ''),
-    ('anya', 'Ой, представляете, забыла свой телефон.', 'Oh, can you imagine, I forgot my phone.', [(180, 'Ой, представляете, забыла свой телефон')], ''),
-    ('max', 'А, я бежать хотел.', 'Ah, I was just about to head out.', [(181, 'А, я бежать хотел')], ''),
-    ('anya', 'До свидания.', 'Goodbye.', [(182, 'До свидания')], ''),
-    ('max', 'Ты жив там?', 'Are you still alive under there?', [(183, 'ты жив там')], ''),
-    ('anya', 'Не то слово.', 'You bet I am.', [(184, 'Не то слово')], ''),
+    ('elena', 'Ну да.', 'Well, yes.', [(168, 'Ну да')], ''),
+    ('anya', 'Это он может.', 'That sounds just like him.', [(170, 'Это он может')], ''),
+    ('elena', 'Вот. Хорошо.', 'There. Good.', [(173, 'Вот. Хорошо')], ''),
+    ('anya', 'Я могу на вас рассчитывать?', 'Can I count on you?', [(174, 'Я могу на вас рассчитывать')], ''),
+    ('elena', 'Ну, Елена Павловна, будете мне должны.', 'Well, Elena Pavlovna, you will owe me one.', [(176, 'Ну, Елена Павловна, будете мне должны')], ''),
+    ('anya', 'Буду вам должна.', 'I will owe you one.', [(176, 'Буду вам должна')], ''),
+    ('elena', 'Вить, ты дурак, а?', 'Vitya, are you a fool or what?', [(177, 'Вить, ты дурак, а')], ''),
+    ('anya', 'Да ладно.', 'Oh, come on.', [(179, 'Да ладно')], ''),
+    ('elena', 'Ой, представляете, забыла свой телефон.', 'Oh, can you imagine, I forgot my phone.', [(180, 'Ой, представляете, забыла свой телефон')], ''),
+    ('anya', 'А, я бежать хотел.', 'Ah, I was just about to head out.', [(181, 'А, я бежать хотел')], ''),
+    ('elena', 'До свидания.', 'Goodbye.', [(182, 'До свидания')], ''),
+    ('anya', 'Ты жив там?', 'Are you still alive under there?', [(183, 'ты жив там')], ''),
+    ('elena', 'Не то слово.', 'You bet I am.', [(184, 'Не то слово')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 10 of Episode 14, listen out for the exchange around escaping from under the desk — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Не то слово.')
+OUTRO = "That wraps up this scene as nagiyev plays along with Elena Pavlovna's story and scolds Barinov for skipping his trip, narrowly keeping him hidden when Elena returns for her forgotten phone. See you next time!"
+CLOSING = ("elena", "До встречи!")

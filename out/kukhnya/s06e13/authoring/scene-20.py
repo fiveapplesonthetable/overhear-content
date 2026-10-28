@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e13-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 13
 SCENE = 20
-TITLE = 'Примирение с отцом  (Reconciliation with Father)'
+TITLE = "Примирение с отцом  (Reconciliation with Father)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'gost': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Костя', 'gost': 'Гость', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja"}
+LABELS = {"kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.13'
 SOURCE_FILE = 'sources/kukhnya/s06/e13.ru.srt'
 
 INTRO = 'In the final scene of the episode, Kostya intercepts his father outside the hotel, forgives him, and brings him back home. Meanwhile at the party, Denis congratulates Nikita on his engagement, only to learn that Katya agreed to marry Nikita right after kissing Denis.'
 
 STORY = [
-    ('denis', 'Ну, Никита, принимай теперь мои поздравления.', 'Well, Nikita, accept my congratulations now.', [(289, 'принимай мои поздравления')], 'adapted'),
-    ('denis', 'Слушай, ты что, совсем уже глупый?', 'Listen, are you completely foolish already?', [(291, 'Ты дурак')], 'adapted'),
-    ('gost', 'Костя, прости, что скрывал от тебя.', 'Kostya, forgive me for hiding it from you.', [(294, 'Костя, ты прости, что скрывал от тебя')], 'adapted'),
-    ('gost', 'Большое спасибо вам за всё хорошее.', 'Thank you very much for everything good.', [(295, 'Спасибо вам за все')], 'adapted'),
-    ('gost', 'А свои вещи я завтра заберу.', 'And I will pick up my things tomorrow.', [(296, 'а вещи я завтра заберу')], 'adapted'),
-    ('anya', 'Папа, поехали сейчас вместе к нам домой.', 'Dad, let us go home to our place together right now.', [(297, 'Поехали домой')], 'adapted'),
-    ('anya', 'Там мы спокойно обо всём поговорим.', 'There we will talk calmly about everything.', [(298, 'Там поговорим')], 'adapted'),
-    ('denis', 'Подожди, Костя, там сейчас такое случилось.', 'Wait, Kostya, something huge just happened over there.', [(300, 'Подожди, подожди')], 'adapted'),
-    ('anya', 'Подожди немного, а где сейчас Катя?', 'Wait a little, where is Katya right now?', [(301, 'А где Катя')], 'adapted'),
-    ('denis', 'Катя согласилась выйти замуж за Никиту.', 'Katya agreed to marry Nikita.', [(301, 'Катя')], 'adapted'),
-    ('anya', 'Не переживай, мы обязательно что-нибудь придумаем.', 'Do not worry, we will definitely think of something.', [(299, 'придумает')], 'adapted'),
-    ('gost', 'Конечно, дома за чаем всё обсудим.', 'Of course, at home over tea we will discuss everything.', [(297, 'домой')], 'adapted'),
+    ('kostya', 'Ну, Никита, принимай теперь мои поздравления.', 'Well, Nikita, accept my congratulations now.', [(289, 'принимай мои поздравления')], 'adapted'),
+    ('kostya', 'Слушай, ты что, совсем уже глупый?', 'Listen, are you completely foolish already?', [(291, 'Ты дурак')], 'adapted'),
+    ('kostya', 'Костя, прости, что скрывал от тебя.', 'Kostya, forgive me for hiding it from you.', [(294, 'Костя, ты прости, что скрывал от тебя')], 'adapted'),
+    ('kostya', 'Большое спасибо вам за всё хорошее.', 'Thank you very much for everything good.', [(295, 'Спасибо вам за все')], 'adapted'),
+    ('kostya', 'А свои вещи я завтра заберу.', 'And I will pick up my things tomorrow.', [(296, 'а вещи я завтра заберу')], 'adapted'),
+    ('kostya', 'Папа, поехали сейчас вместе к нам домой.', 'Dad, let us go home to our place together right now.', [(297, 'Поехали домой')], 'adapted'),
+    ('kostya', 'Там мы спокойно обо всём поговорим.', 'There we will talk calmly about everything.', [(298, 'Там поговорим')], 'adapted'),
+    ('kostya', 'Подожди, Костя, там сейчас такое случилось.', 'Wait, Kostya, something huge just happened over there.', [(300, 'Подожди, подожди')], 'adapted'),
+    ('kostya', 'Подожди немного, а где сейчас Катя?', 'Wait a little, where is Katya right now?', [(301, 'А где Катя')], 'adapted'),
+    ('kostya', 'Катя согласилась выйти замуж за Никиту.', 'Katya agreed to marry Nikita.', [(301, 'Катя')], 'adapted'),
+    ('kostya', 'Не переживай, мы обязательно что-нибудь придумаем.', 'Do not worry, we will definitely think of something.', [(299, 'придумает')], 'adapted'),
+    ('kostya', 'Конечно, дома за чаем всё обсудим.', 'Of course, at home over tea we will discuss everything.', [(297, 'домой')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Kostya and his father reconcile warmly, while Denis and Katya are left in an even more tangled romantic mess. See you next time.'
-CLOSING = ('anya', 'Поехали сейчас вместе домой.')
+OUTRO = 'Kostya and his father reconcile warmly, while Denis and Katya are left in an even more tangled romantic mess. See you next time!'
+CLOSING = ("kostya", "До завтра!")

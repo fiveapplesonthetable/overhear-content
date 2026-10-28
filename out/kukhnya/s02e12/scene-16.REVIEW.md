@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What is your patronymic?' Notice how Russian expresses 'how' and 'patronymic' with crisp inflection rather than helper words.
 - 'Is that clear to everyone?' Here the Russian phrasing highlights 'to everyone' before landing on 'clear'.
 - 'I do not know about this.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'know'. Max answers right away.
-- 'Come on, do not sweat it, you will figure it out as you go.' Notice the reflexive suffix on the verb meaning 'to steam oneself in a bathhouse', turning the action back on the subject.
+- 'Come on, do not sweat it, you will figure it out as you go.' Notice how Russian puts 'to steam oneself in a bathhouse; to sweat over' and 'to sort out, to figure out' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Besides, orders from management are not up for discussion.' In Russian, the idea of 'both' flows naturally into 'are discussed' without extra filler words.
 - 'And we will celebrate your promotion right away.' Vika addresses the listener with the informal singular 'you' alongside 'to celebrate'. Max answers right away.
 - 'I am inviting all of you.' In Russian, the idea of 'I' flows naturally into 'everyone' without extra filler words.

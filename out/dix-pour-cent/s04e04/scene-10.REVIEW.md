@@ -27,5 +27,5 @@
 | 13 | `elise` (Élise) | Laisse-moi faire, je connais du monde. | Leave it to me, I know people. | 858:Tu veux que je te trouve une nounou ?, 860:Moi, oui. |
 
 ## Part 5 — Outro & Closing
-> Grateful for Elise's surprising warmth and support, Andrea feels a glimmer of hope amidst her chaotic week. When you watch the episode, listen out for the expressions meaning 'bustle' and 'look for'. You'll catch them now. See you next time.
+> Grateful for Elise's surprising warmth and support, Andrea feels a glimmer of hope amidst her chaotic week. When you watch the episode, listen out for the expressions meaning 'bustle' and 'look for'. You'll catch them now. See you next time!
 - **Closing**: `elise`: *Bonne soirée!*

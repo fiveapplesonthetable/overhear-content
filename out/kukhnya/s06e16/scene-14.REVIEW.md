@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Давай я сам принесу вам шампанское. | Let me bring you the champagne myself. | #205 00:14:53: Я сам принесу вам его | adapted: adapted |
+| 1 | Луи | Давай я сам принесу вам шампанское. | Let me bring you the champagne myself. | #205 00:14:53: Я сам принесу вам его | adapted: adapted |
 | 2 | Луи | Принесёшь прямо в номер, это отлично! | You will bring it right to the room, that is great! | #206 00:14:55: В номер. О, нормально | adapted: adapted |
 | 3 | Луи | Запомни, у нас двести второй номер. | Remember, we have room two hundred and two. | #207 00:14:58: Двести второй | adapted: adapted |
 | 4 | Луи | Большое спасибо тебе за помощь, Костя. | Thank you very much for your help, Kostya. | #208 00:15:00: Спасибо | adapted: adapted |
-| 5 | Аня | Саша, присмотри пока за моим баром. | Sasha, watch my bar for now. | #209 00:15:05: За баром присмотри | adapted: adapted |
-| 6 | Аня | Только смотри не делай как Луи! | Just mind you do not do like Louis! | #211 00:15:09: Только не как | adapted: adapted |
+| 5 | Луи | Саша, присмотри пока за моим баром. | Sasha, watch my bar for now. | #209 00:15:05: За баром присмотри | adapted: adapted |
+| 6 | Луи | Только смотри не делай как Луи! | Just mind you do not do like Louis! | #211 00:15:09: Только не как | adapted: adapted |
 | 7 | Сеня | Скажи, тебе было сегодня очень вкусно? | Tell us, was it very tasty for you today? | #212 00:15:18: Закусно | adapted: adapted |
 | 8 | Сеня | Молодцы, вы честно заслужили свою награду. | Well done, you honestly earned your reward. | #213 00:15:21: Молодцы<br>#214 00:15:23: Вы заслужили награду | adapted: adapted |
 | 9 | Сеня | Ну давай уже скорее награждай нас! | Well come on and reward us quickly already! | #215 00:15:24: Давай уже награждай нас | adapted: adapted |

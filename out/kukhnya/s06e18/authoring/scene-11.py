@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e18-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 18
 SCENE = 11
-TITLE = 'Штраф за перерыв  (Fined for the Break)'
+TITLE = "Штраф за перерыв  (Fined for the Break)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Элеонора', 'fedya': 'Федя', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "eleonora": "angelina", "fedya": "anja"}
+LABELS = {"eleonora": "Элеонора", "fedya": "Федя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.18'
 SOURCE_FILE = 'sources/kukhnya/s06/e18.ru.srt'
 
 INTRO = "Eleonora storms into the kitchen furious that she was kept waiting in her own restaurant while the cooks drank coffee. She fines the entire staff a day's pay, and then greets philanthropist Alyokhin, who wants to nap before discussing the loan."
 
 STORY = [
     ('fedya', 'Капитан должен быть всегда справедливый.', 'A captain must always be fair.', [(180, 'капитан, он же должен быть'), (180, 'справедливый')], 'adapted'),
-    ('anya', 'Кто это тут сейчас решил?', 'Who decided this in here just now?', [(181, 'Кто'), (182, 'это ты решил')], 'adapted'),
-    ('anya', 'Я должна сидеть и ждать?', 'Am I supposed to sit and wait?', [(182, 'я в собственном ресторане должна сидеть и ждать')], 'adapted'),
+    ('eleonora', 'Кто это тут сейчас решил?', 'Who decided this in here just now?', [(181, 'Кто'), (182, 'это ты решил')], 'adapted'),
+    ('eleonora', 'Я должна сидеть и ждать?', 'Am I supposed to sit and wait?', [(182, 'я в собственном ресторане должна сидеть и ждать')], 'adapted'),
     ('fedya', 'По закону поварам положен отдых.', 'By law, cooks are entitled to a rest.', [(183, 'по закону поварам положен отдых')], 'adapted'),
-    ('anya', 'За этот отдых все оштрафованы.', 'For this rest everyone is fined.', [(184, 'За этот отдых все оштрафованы')], 'adapted'),
-    ('anya', 'Лишаю всех вас дневной зарплаты.', "I am docking all of you a day's salary.", [(184, 'на дневную зарплату')], 'adapted'),
-    ('senya', 'Капитан, возьмите, это теперь вам.', 'Captain, take this, this is for you now.', [(186, 'Капитан, это вам')], 'adapted'),
-    ('senya', 'Сейчас вам это просто необходимо.', 'Right now this is simply necessary for you.', [(187, 'сейчас вам это просто необходимо')], 'adapted'),
-    ('anya', 'Дорогой друг, ну как долетели?', 'Dear friend, well, how was your flight?', [(189, 'дорогой'), (190, 'как долетели')], 'adapted'),
-    ('anya', 'Конечно, сначала спокойно отдохните в номере.', 'Of course, first rest quietly in the room.', [(193, 'Да, конечно')], 'adapted'),
-    ('anya', 'А потом мы обо всём поговорим.', 'And later we will talk about everything.', [(193, 'Потом поговорим')], 'adapted'),
-    ('anya', 'Мне у вас денег просить.', 'I still have to ask you for money.', [(195, 'А мне вас еще денег просить')], 'adapted'),
+    ('eleonora', 'За этот отдых все оштрафованы.', 'For this rest everyone is fined.', [(184, 'За этот отдых все оштрафованы')], 'adapted'),
+    ('eleonora', 'Лишаю всех вас дневной зарплаты.', "I am docking all of you a day's salary.", [(184, 'на дневную зарплату')], 'adapted'),
+    ('eleonora', 'Капитан, возьмите, это теперь вам.', 'Captain, take this, this is for you now.', [(186, 'Капитан, это вам')], 'adapted'),
+    ('eleonora', 'Сейчас вам это просто необходимо.', 'Right now this is simply necessary for you.', [(187, 'сейчас вам это просто необходимо')], 'adapted'),
+    ('eleonora', 'Дорогой друг, ну как долетели?', 'Dear friend, well, how was your flight?', [(189, 'дорогой'), (190, 'как долетели')], 'adapted'),
+    ('eleonora', 'Конечно, сначала спокойно отдохните в номере.', 'Of course, first rest quietly in the room.', [(193, 'Да, конечно')], 'adapted'),
+    ('eleonora', 'А потом мы обо всём поговорим.', 'And later we will talk about everything.', [(193, 'Потом поговорим')], 'adapted'),
+    ('eleonora', 'Мне у вас денег просить.', 'I still have to ask you for money.', [(195, 'А мне вас еще денег просить')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "While Alyokhin goes upstairs to sleep off his long flight from Australia, Mikhail's pony breaks loose in the hotel. See you in the next scene."
-CLOSING = ('anya', 'Отдыхайте пару часов спокойно.')
+OUTRO = "While Alyokhin goes upstairs to sleep off his long flight from Australia, Mikhail's pony breaks loose in the hotel. Until next time!"
+CLOSING = ("eleonora", "До свидания!")

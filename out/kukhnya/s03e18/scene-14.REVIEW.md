@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, I really wanted to speak with you.' The grammar packs 'Chef Barinov' and 'to talk' into a tight, idiomatic kitchen exchange.
-- 'About what Fedya and Senya are whispering about.' Notice the reflexive suffix on the verb meaning 'are whispering', turning the action back on the subject. Chef Barinov answers right away.
+- 'About what Fedya and Senya are whispering about.' In everyday Russian, 'matter' flows straight into 'are whispering' without extra linking words.
 - 'Oh, you too, name your price!' The grammar packs 'oh' and 'price' into a tight, idiomatic kitchen exchange.
 - 'No, Chef, I am not talking about that at all right now.' Spoken Russian keeps this brisk, leaning on 'no' and finishing on 'this'.
 - 'I really hope that you will not be offended.' Notice how Russian expresses 'I' and 'you will be offended' with crisp inflection rather than helper words. Chef Barinov answers right away.
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You agreed to turn our temple of food into a cheap diner.' The grammar packs 'you' and 'cheap diner' into a tight, idiomatic kitchen exchange.
 - 'You yourself always told us that.' The grammar packs 'you' and 'spoke' into a tight, idiomatic kitchen exchange.
 - 'But the main thing is that you betrayed your principles.' Max anchors the line on 'but', while 'principles' completes the thought.
-- 'And that means you betrayed all of us too.' The grammar packs 'and' and 'us' into a tight, idiomatic kitchen exchange.
+- 'And that means you betrayed all of us too.' Max centers this short reply on 'changed', letting a few direct words carry the whole meaning.
 - 'Forgive me, Chef, here is my letter of resignation.' Spoken Russian keeps this brisk, leaning on 'forgive' and finishing on 'departure'.

@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 3
 SCENE = 19
 TITLE = "Dispute autour de l'appartement  (Arguing Over the Apartment)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "catherine": "emilie"}
-LABELS = {"mathias": "Mathias", "catherine": "Catherine"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'catherine': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'catherine': 'Catherine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'Stepping away from the lunch table, Mathias confronts Catherine about her sudden friendship with Annick. Their bitter divorce erupts into a furious argument over money, trust, and the family apartment. Listen to the scene in French first.'
 OPENER = "Let's examine how Catherine and Mathias bitterly clash over their divorce."
 TRANSITION = "Now let's listen to their explosive argument once more from start to finish."
 OUTRO = 'With all bridges burned and bitter secrets exposed, Catherine and Mathias leave only the lawyers to resolve their shattered marriage. See you next time!'
-CLOSING = ("mathias", "Bonne journée!")
+CLOSING = ('mathias', 'Bonne journée!')
 STORY = [
     ('mathias', "Pourquoi tu voulais le numéro d'Annick?", 'Why did you want Annick', [(474, "C'est quoi cette complicité avec Annick ? Pourquoi tu voulais son numéro")], ''),
     ('catherine', "C'est interdit que des femmes se parlent?", 'Is it forbidden for women to talk to each other?', [(475, "C'est mauvais que des femmes se parlent")], ''),

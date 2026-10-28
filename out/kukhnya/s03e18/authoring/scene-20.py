@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 20
-TITLE = 'Возвращение беременной Саши  (The Return of Pregnant Sasha)'
+TITLE = "Возвращение беременной Саши  (The Return of Pregnant Sasha)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'sasha': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'sasha': 'Саша', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "sasha": "anja", "anya": "alisa", "nastya": "angelina"}
+LABELS = {"sasha": "Саша", "anya": "Макс", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = "Just as Max and Vika are back together, Max's ex-girlfriend Sasha walks into the dining room visibly pregnant! When Max asks if Ilya is ready to be a father, Sasha drops a shocking bombshell."
@@ -36,11 +36,11 @@ WALK = [
     (1, None, "'Hi, girls! I am so glad to see you!' The meaning hinges on 'hello' working together with 'to see' in spoken Russian. Nastya answers right away."),
     (2, None, "'Whoa, Sasha, tell me, are you pregnant?' Nastya addresses the listener with the informal singular 'you' alongside 'pregnant'."),
     (3, None, "'Well of course I am pregnant, does it not show?' The meaning hinges on 'come on' working together with 'one can see' in spoken Russian."),
-    (4, None, "'Alright, I will go say hello to all the guys.' Notice the reflexive suffix on the verb meaning 'I will say hello', turning the action back on the subject. Max answers right away."),
+    (4, None, "'Alright, I will go say hello to all the guys.' Sasha pairs 'all right' with 'I will say hello' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (5, None, "'Hi, Sasha! How beautiful you have become!' An emphatic spoken line centered on the verb meaning 'have become'."),
     (6, None, "'I am so glad to see all of you too!' Sasha chooses the respectful plural 'you' alongside 'to see' to keep a polite distance."),
     (7, None, "'Pregnancy really only makes you more beautiful.' Spoken Russian keeps this brisk, leaning on 'pregnancy' and finishing on 'adorns'."),
-    (8, None, "'Well, how is Ilya? Is he getting ready to become a father?' Notice the reflexive suffix on the verb meaning 'is cooked', turning the action back on the subject."),
+    (8, None, "'Well, how is Ilya? Is he getting ready to become a father?' Max pairs 'how' with 'father' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (9, None, "'Wait, Max, what does Ilya have to do with this?' The grammar packs 'wait' and 'Ilya' into a tight, idiomatic kitchen exchange."),
     (10, None, "'What do you mean what does Ilya have to do with this?' Notice how Russian expresses 'which' and 'Ilya' with crisp inflection rather than helper words. Sasha answers right away."),
     (11, None, "'In the sense that he and I broke up.' The meaning hinges on 'that' working together with 'broke up' in spoken Russian."),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that cliffhanger brings Episode Eighteen to a close: Sasha is pregnant, and Max is terrified he might be the father! See you in Episode Nineteen.'
-CLOSING = ('sasha', 'Мы с Ильёй давно разошлись.')
+OUTRO = 'And that cliffhanger brings Episode Eighteen to a close: Sasha is pregnant, and Max is terrified he might be the father! See you in Episode Nineteen. See you next time!'
+CLOSING = ("sasha", "До свидания!")

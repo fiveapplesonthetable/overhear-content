@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e20-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 20
 SCENE = 3
-TITLE = 'Легенда про коляску  (The Wheelchair Story)'
+TITLE = "Легенда про коляску  (The Wheelchair Story)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'inspector': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Михаил', 'inspector': 'Инспектор', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "mikhail": "anja"}
+LABELS = {"nastya": "Настя", "mikhail": "Михаил"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.20'
 SOURCE_FILE = 'sources/kukhnya/s06/e20.ru.srt'
 
 INTRO = "Mikhail Jekovich tells Patrick Malouda a moving story that Chef Viktor lost the use of his legs in a car crash yet heroically refuses to stop working. Meanwhile, at the apartment, Nastya's mother insists that Kostya's newfound father is a swindler."
 
 STORY = [
-    ('inspector', 'Скажите, вы на самом деле инвалид?', 'Tell me, are you really disabled?', [(33, 'Вы инвалид')], 'adapted'),
-    ('inspector', 'Я об этом совсем не знал.', 'I did not know about that at all.', [(34, 'Я не знал')], 'adapted'),
-    ('anya', 'Виктор не любит об этом говорить.', 'Viktor does not like to talk about this.', [(35, 'Виктор не любит об этом говорить')], 'adapted'),
-    ('anya', 'У него полностью парализовало ноги.', 'His legs were completely paralyzed.', [(36, 'у него полностью парализовало ноги')], 'adapted'),
-    ('anya', 'Но наш шеф не сдаётся.', 'But our chef does not give up.', [(37, 'Но он не сдается')], 'adapted'),
-    ('anya', 'Он каждый день здесь работает.', 'He works here every day.', [(38, 'Работает')], 'adapted'),
-    ('inspector', 'Ваше мужество достойно большого восхищения.', 'Your courage is worthy of great admiration.', [(39, 'ваше мужество достойно восхищения')], 'adapted'),
+    ('nastya', 'Скажите, вы на самом деле инвалид?', 'Tell me, are you really disabled?', [(33, 'Вы инвалид')], 'adapted'),
+    ('nastya', 'Я об этом совсем не знал.', 'I did not know about that at all.', [(34, 'Я не знал')], 'adapted'),
+    ('mikhail', 'Виктор не любит об этом говорить.', 'Viktor does not like to talk about this.', [(35, 'Виктор не любит об этом говорить')], 'adapted'),
+    ('mikhail', 'У него полностью парализовало ноги.', 'His legs were completely paralyzed.', [(36, 'у него полностью парализовало ноги')], 'adapted'),
+    ('mikhail', 'Но наш шеф не сдаётся.', 'But our chef does not give up.', [(37, 'Но он не сдается')], 'adapted'),
+    ('mikhail', 'Он каждый день здесь работает.', 'He works here every day.', [(38, 'Работает')], 'adapted'),
+    ('nastya', 'Ваше мужество достойно большого восхищения.', 'Your courage is worthy of great admiration.', [(39, 'ваше мужество достойно восхищения')], 'adapted'),
     ('nastya', 'Бабушка сказала, это не отец Кости.', "Grandmother said this is not Kostya's father.", [(42, 'бабушка ясно сказала, это не отец Кости')], 'adapted'),
     ('nastya', 'Она старенькая, могла и перепутать.', 'She is elderly, she could have mixed it up.', [(45, 'Она старенькая, могла'), (45, 'перепутать')], 'adapted'),
     ('nastya', 'Ты же сама его недавно нашла.', 'You found him recently yourself, after all.', [(46, 'Ты же сама его нашла')], 'adapted'),
     ('nastya', 'Он подтвердил, что он отец Кости.', "He confirmed that he is Kostya's father.", [(46, 'И он подтвердил, что он отец Кости')], 'adapted'),
-    ('anya', 'Значит, этот человек хитрый аферист!', 'That means this man is a sly swindler!', [(47, 'он аферист')], 'adapted'),
+    ('mikhail', 'Значит, этот человек хитрый аферист!', 'That means this man is a sly swindler!', [(47, 'он аферист')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "While Nastya's family debates how to verify the man's identity, Nastya's father comes up with a scientific solution. See you in the next scene."
-CLOSING = ('anya', 'Или он вообще опасный маньяк!')
+OUTRO = "While Nastya's family debates how to verify the man's identity, Nastya's father comes up with a scientific solution. Until next time!"
+CLOSING = ("mikhail", "Пока!")

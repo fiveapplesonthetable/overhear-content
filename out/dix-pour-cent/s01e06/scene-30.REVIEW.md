@@ -26,5 +26,5 @@
 | 12 | `lea` (Andréa) | Quand tout va mal, il y a toujours le cinéma. | When everything is going badly, there is always the movies. | 821:Quand tout va mal, 822:il y a toujours le cinéma |
 
 ## Part 5 — Outro & Closing
-> That concludes Episode 6 and Season 1 of Dix pour cent! Even with a tax audit and personal heartbreak, the ASK family sticks together for the love of cinema. See you in Season 2!
+> That concludes Episode 6 and Season 1 of Dix pour cent! Even with a tax audit and personal heartbreak, the ASK family sticks together for the love of cinema. See you next time!
 - **Closing**: `lea`: *À demain!*

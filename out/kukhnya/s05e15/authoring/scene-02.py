@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e15-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 15
 SCENE = 2
 TITLE = "Первый день Никиты  (Nikita's First Day)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Никита', 'eleonora': 'Элеонора', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nikita": "anja", "eleonora": "angelina"}
+LABELS = {"nikita": "Никита", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.15'
 SOURCE_FILE = 'sources/kukhnya/s05/e15.ru.srt'
 
 INTRO = 'On his very first morning as a waiter, Nikita serves Eleonora the wrong coffee and talks back when she scolds him, earning an instant firing and a stunned warning from Kostya.'
 
 STORY = [
     ('eleonora', 'Это что такое? Я всегда пью латте!', 'What is this? I always drink a latte!', [(22, 'Это что такое')], 'adapted'),
-    ('anya', 'Извините, но вы меня об этом не предупредили.', 'Excuse me, but you did not warn me about that.', [(24, 'Извините, вы меня не предупредили')], 'adapted'),
+    ('nikita', 'Извините, но вы меня об этом не предупредили.', 'Excuse me, but you did not warn me about that.', [(24, 'Извините, вы меня не предупредили')], 'adapted'),
     ('eleonora', 'Я каждый день пью один и тот же кофе!', 'Every day I drink the exact same coffee!', [(25, 'Я каждый день пью один и тот же кофе')], 'adapted'),
-    ('anya', 'Во-первых, прошу разговаривать со мной совершенно нормально.', 'First of all, please speak to me in a normal tone.', [(27, 'разговаривать со мной нормально')], 'adapted'),
-    ('anya', 'Я не знаю, какой кофе вы утром предпочитаете.', 'I do not know which coffee you prefer in the morning.', [(28, 'я не знаю, какой вы кофе предпочитаете')], 'adapted'),
-    ('anya', 'Потому что я работаю здесь только первый день.', 'Because I am only working my first day here.', [(29, 'потому что работаю первый день')], 'adapted'),
+    ('nikita', 'Во-первых, прошу разговаривать со мной совершенно нормально.', 'First of all, please speak to me in a normal tone.', [(27, 'разговаривать со мной нормально')], 'adapted'),
+    ('nikita', 'Я не знаю, какой кофе вы утром предпочитаете.', 'I do not know which coffee you prefer in the morning.', [(28, 'я не знаю, какой вы кофе предпочитаете')], 'adapted'),
+    ('nikita', 'Потому что я работаю здесь только первый день.', 'Because I am only working my first day here.', [(29, 'потому что работаю первый день')], 'adapted'),
     ('eleonora', 'Значит, и последний день, ты уже уволен!', 'Then it is also your last day, you are fired already!', [(29, 'И последний, ты уволен')], 'adapted'),
-    ('kostya', 'Никита, ты что творишь? Это же хозяйка отеля!', 'Nikita, what are you doing? That is the owner of the hotel!', [(32, 'Ты же хозяйка отеля')], 'adapted'),
-    ('kostya', 'Иди скорее догони её и быстро извинись!', 'Go catch up to her quickly and apologize right away!', [(32, 'Иди извинись быстро')], 'adapted'),
-    ('anya', 'За что? За то, что она меня оскорбила?', 'For what? For the fact that she insulted me?', [(33, 'За что? За то, что она меня оскорбила')], 'adapted'),
-    ('anya', 'Пускай она сама теперь передо мной извиняется!', 'Let her be the one to apologize to me now!', [(34, 'Пускай сама извиняется')], 'adapted'),
-    ('kostya', 'Ты совсем глупый? Быстро иди и извинись!', 'Are you completely foolish? Go and apologize right now!', [(39, 'Иди извинись')], 'adapted'),
+    ('nikita', 'Никита, ты что творишь? Это же хозяйка отеля!', 'Nikita, what are you doing? That is the owner of the hotel!', [(32, 'Ты же хозяйка отеля')], 'adapted'),
+    ('nikita', 'Иди скорее догони её и быстро извинись!', 'Go catch up to her quickly and apologize right away!', [(32, 'Иди извинись быстро')], 'adapted'),
+    ('nikita', 'За что? За то, что она меня оскорбила?', 'For what? For the fact that she insulted me?', [(33, 'За что? За то, что она меня оскорбила')], 'adapted'),
+    ('nikita', 'Пускай она сама теперь передо мной извиняется!', 'Let her be the one to apologize to me now!', [(34, 'Пускай сама извиняется')], 'adapted'),
+    ('nikita', 'Ты совсем глупый? Быстро иди и извинись!', 'Are you completely foolish? Go and apologize right now!', [(39, 'Иди извинись')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Little does anyone in the restaurant suspect why Nikita is so fearless around wealthy hotel owners. See you in the next scene.'
-CLOSING = ('anya', 'Пускай она сама извиняется!')
+OUTRO = 'Little does anyone in the restaurant suspect why Nikita is so fearless around wealthy hotel owners. See you next time!'
+CLOSING = ("nikita", "До завтра!")

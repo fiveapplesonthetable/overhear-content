@@ -27,5 +27,5 @@
 | 13 | `isabelle` (Isabelle) | Parfait, alors je vais me reposer un peu. | Perfect, then I am going to rest a bit. | 670:Alors, repose-toi bien. |
 
 ## Part 5 — Outro & Closing
-> Isabelle wins the argument with poise, standing up for both artistic craft and her own physical limits. When you watch the episode, listen out for the expressions meaning 'goes' and 'last'. You'll catch them now. See you next time.
+> Isabelle wins the argument with poise, standing up for both artistic craft and her own physical limits. When you watch the episode, listen out for the expressions meaning 'goes' and 'last'. You'll catch them now. See you next time!
 - **Closing**: `isabelle`: *Au revoir!*

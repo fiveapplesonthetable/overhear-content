@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 22
-TITLE = "Soirée confidences  (Evening Confidences)"
-LEVEL = "A1 — débutant"
+TITLE = 'Soirée confidences  (Evening Confidences)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "virginie": "emilie", "gabriel": "theo"}
-LABELS = {"virginie": "Virginie", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'virginie': 'emilie', 'gabriel': 'theo'}
+LABELS = {'virginie': 'Virginie', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Inside Gabriel's apartment, Virginie finds a temporary sanctuary from the media circus outside. As night falls, she confides her genuine guilt about her breakup with Ramzy before losing her temper at the paparazzi waiting below. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = 'Virginie pours out her complicated feelings before shouting down at the relentless press. Remember the common expression for hearing from someone: avoir des nouvelles de. Join us next time to see what happens next.'
-CLOSING = ("virginie", "À bientôt!")
+OUTRO = 'Virginie pours out her complicated feelings before shouting down at the relentless press. Remember the common expression for hearing from someone: avoir des nouvelles de. See you next time!'
+CLOSING = ('virginie', 'À bientôt!')
 STORY = [
     ('virginie', 'Ce tournage était une grande erreur.', 'This shoot was a big mistake.', [(661, 'Ce film était une erreur')], ''),
     ('gabriel', 'Pourquoi est-ce que tu dis ça?', 'Why do you say that?', [(662, 'Pourquoi ?')], ''),

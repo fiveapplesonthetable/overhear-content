@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 19
-TITLE = "Balade sur la Croisette  (Strolling Around)"
-LEVEL = "A1 — débutant"
+TITLE = 'Balade sur la Croisette  (Strolling Around)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "gabriel": "theo"}
-LABELS = {"arlette": "Arlette", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'gabriel': 'theo'}
+LABELS = {'arlette': 'Arlette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Strolling along the sunny Croisette during the Cannes Film Festival, Arlette guides Gabriel through the maze of festival sections. A surprise text message from Sofia brings a burst of romance to Gabriel's festival schedule. Listen to the scene in French first."
 OPENER = "Let's examine how Arlette and Gabriel enjoy the vibrant festival atmosphere."
 TRANSITION = "Now let's listen to the cheerful stroll once more at normal pace."
-OUTRO = 'Under the Mediterranean sun, Arlette reminds Gabriel to savor love and cinema at the Cannes Film Festival. Listen to the charming conversation once more in French. Until next time.'
-CLOSING = ("arlette", "À demain!")
+OUTRO = 'Under the Mediterranean sun, Arlette reminds Gabriel to savor love and cinema at the Cannes Film Festival. Listen to the charming conversation once more in French. See you next time!'
+CLOSING = ('arlette', 'À demain!')
 STORY = [
     ('gabriel', 'Ce film turc est en compétition officielle?', 'Is that Turkish film in the official competition?', [(512, 'Ce film turc est en compétition officielle ?')], ''),
     ('arlette', 'Non, il passe à la Quinzaine des réalisateurs.', 'No, it is screening at the Directors', [(513, "Non, c'est à la Quinzaine des cinéastes.")], ''),

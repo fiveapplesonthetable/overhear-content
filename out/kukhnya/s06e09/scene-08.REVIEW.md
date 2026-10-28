@@ -11,18 +11,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Денис | Костя, из-за аварии у нас всё налаживается. | Kostya, because of the accident everything is getting better for us. | #121 00:09:34: из-за этой аварии у нас с Катей все налаживается | adapted: adapted |
-| 2 | Костя | Неужели ты у неё прощения попросил? | Did you really ask her for forgiveness? | #122 00:09:37: я у нее даже прощения попросил | adapted: adapted |
+| 2 | Денис | Неужели ты у неё прощения попросил? | Did you really ask her for forgiveness? | #122 00:09:37: я у нее даже прощения попросил | adapted: adapted |
 | 3 | Денис | Да, и она меня спокойно выслушала. | Yes, and she listened to me calmly. | #123 00:09:39: Прости его | adapted: adapted |
-| 4 | Костя | Тогда я тебя от души поздравляю. | Then I congratulate you from the bottom of my heart. | #124 00:09:41: Поздравляю | adapted: adapted |
-| 5 | Аня | Почему в зале вообще нет музыки? | Why is there no music in the hall at all? | #129 00:10:08: Вообще музыки нету | adapted: adapted |
+| 4 | Денис | Тогда я тебя от души поздравляю. | Then I congratulate you from the bottom of my heart. | #124 00:09:41: Поздравляю | adapted: adapted |
+| 5 | Элеонора | Почему в зале вообще нет музыки? | Why is there no music in the hall at all? | #129 00:10:08: Вообще музыки нету | adapted: adapted |
 | 6 | Денис | Извините, я сейчас быстро начну играть. | Excuse me, I will quickly start playing right now. | #130 00:10:09: Извините | adapted: adapted |
-| 7 | Аня | Может, ты ради хозяйки двумя руками сыграешь? | Maybe you will play with two hands for the owner's sake? | #131 00:10:15: А может ты ради хозяйки отеля двумя руками сыграешь | adapted: adapted |
-| 8 | Аня | Играй бодрее, иначе мы здесь уснём. | Play more lively, otherwise we will fall asleep here. | #132 00:10:23: Бодрее, бодрее<br>#133 00:10:24: Мы сейчас здесь и уснем | adapted: adapted |
+| 7 | Элеонора | Может, ты ради хозяйки двумя руками сыграешь? | Maybe you will play with two hands for the owner's sake? | #131 00:10:15: А может ты ради хозяйки отеля двумя руками сыграешь | adapted: adapted |
+| 8 | Элеонора | Играй бодрее, иначе мы здесь уснём. | Play more lively, otherwise we will fall asleep here. | #132 00:10:23: Бодрее, бодрее<br>#133 00:10:24: Мы сейчас здесь и уснем | adapted: adapted |
 | 9 | Денис | Простите, я сегодня утром в аварию попал. | Forgive me, I got into an accident this morning. | #134 00:10:31: Простите, я в аварию попал | adapted: adapted |
-| 10 | Аня | Не можешь нормально работать, тогда уходи. | If you cannot work properly, then leave. | #136 00:10:36: Не можешь работать, проваливай | adapted: adapted |
-| 11 | Аня | Ты уволен, мне такие музыканты не нужны. | You are fired, I do not need such musicians. | #137 00:10:38: Ты уволен | adapted: adapted |
-| 12 | Костя | Элеонора Андреевна, ведь это совсем несправедливо. | Eleonora Andreevna, after all this is completely unfair. | #138 00:10:42: Элеонора Андреевна, это несправедливо | adapted: adapted |
-| 13 | Аня | А жизнь вообще очень несправедливая штука! | And life in general is a very unfair thing! | #139 00:10:47: А жизнь вообще<br>#140 00:10:50: Несправедливая штука | adapted: adapted |
+| 10 | Элеонора | Не можешь нормально работать, тогда уходи. | If you cannot work properly, then leave. | #136 00:10:36: Не можешь работать, проваливай | adapted: adapted |
+| 11 | Элеонора | Ты уволен, мне такие музыканты не нужны. | You are fired, I do not need such musicians. | #137 00:10:38: Ты уволен | adapted: adapted |
+| 12 | Денис | Элеонора Андреевна, ведь это совсем несправедливо. | Eleonora Andreevna, after all this is completely unfair. | #138 00:10:42: Элеонора Андреевна, это несправедливо | adapted: adapted |
+| 13 | Элеонора | А жизнь вообще очень несправедливая штука! | And life in general is a very unfair thing! | #139 00:10:47: А жизнь вообще<br>#140 00:10:50: Несправедливая штука | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

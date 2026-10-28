@@ -22,10 +22,10 @@
 | 8 | `herve` (Hervé) | C'est faux! | That is false! | 663:C'est faux |
 | 9 | `herve` (Hervé) | Tout le monde a failli tuer ton père. | Everyone has almost killed your father. | 664:Tout le monde a failli tuer ton père |
 | 10 | `herve` (Hervé) | Il a l'habitude. | He is used to it. | 664:il a l'habitude |
-| 11 | `herve` (Hervé) | Tu viens d'appeler Mathias 'papa'. | You just called Mathias  | 666:Tu viens d'appeler Mathias "papa" |
+| 11 | `herve` (Hervé) | Tu viens d'appeler Mathias 'papa'. | You just called Mathias | 666:Tu viens d'appeler Mathias "papa" |
 | 12 | `camille` (Camille) | Un, deux, trois, quatre... | One, two, three, four... | 667:Un, deux, trois, quatre |
 | 13 | `herve` (Hervé) | Tu récupères l'argent. | You get the money. | 669:tu récupères |
 
 ## Part 5 — Outro & Closing
-> And that's it for this scene. When you watch the episode, listen out for the exchange around guilt, and for the words meaning 'goes' and 'devastated'. You'll catch them now. See you next time.
+> And that's it for this scene. When you watch the episode, listen out for the exchange around guilt, and for the words meaning 'goes' and 'devastated'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *Au revoir.*

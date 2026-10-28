@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Au revoir, et à bientôt. | Goodbye, and see you soon. | 1042:Céline |
 
 ## Part 5 — Outro & Closing
-> Under the warm streetlights of Paris, Andrea and Gabriel share a loving embrace and promise to meet for coffee, stepping forward together into the next chapter of their lives. When you watch the episode, listen out for the expressions meaning 'night' and 'cool'. You'll catch them now. See you next time.
+> Under the warm streetlights of Paris, Andrea and Gabriel share a loving embrace and promise to meet for coffee, stepping forward together into the next chapter of their lives. When you watch the episode, listen out for the expressions meaning 'night' and 'cool'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À demain!*

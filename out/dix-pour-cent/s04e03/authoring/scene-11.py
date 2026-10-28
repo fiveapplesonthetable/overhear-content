@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 11
-TITLE = "La rivale aux Césars  (The César Rival)"
-LEVEL = "A1 — débutant"
+TITLE = 'La rivale aux Césars  (The César Rival)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "lea": "lucie"}
-LABELS = {"camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "At a high-profile photoshoot, Sofia prepares for her turn in front of the cameras. She discovers that Melanie Meyer, who won the Cesar award over her, just finished shooting. Frustrated by constantly feeling second, Sofia shares her doubts with Camille. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Sofia overcomes her disappointment and steps onto the photoshoot set with renewed confidence. When you watch the episode, listen out for the expressions meaning 'to help' and 'sure'. You'll catch them now. See you next time."
-CLOSING = ("camille", "Bonne soirée!")
+OUTRO = "Sofia overcomes her disappointment and steps onto the photoshoot set with renewed confidence. When you watch the episode, listen out for the expressions meaning 'to help' and 'sure'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'Bonne soirée!')
 STORY = [
     ('lea', "Camille, tu peux m'aider un peu?", 'Camille, can you help me a bit?', [(454, "Vous pouvez m'aider")], ''),
     ('camille', "Bien sûr! Tu es tellement belle aujourd'hui.", 'Of course! You are so beautiful today.', [(456, 'Tu es tellement belle')], ''),

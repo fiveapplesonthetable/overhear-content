@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e02-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 2
 SCENE = 2
-TITLE = 'Спор на чаевые  (A Bet on the Tips)'
+TITLE = "Спор на чаевые  (A Bet on the Tips)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'ilya': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'ilya': 'Илья', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "ilya": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"ilya": "Илья", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.02'
 SOURCE_FILE = 'sources/kukhnya/s03/e02.ru.srt'
 
 INTRO = "At the bar, the waiters divide up the evening's shared tip pool, and arrogant waiter Ilya complains that Max is getting an equal share after putting in less money."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings the bar scene to a close. Watch how quickly Ilya's two-person challenge turns into a bet involving the entire waitstaff."
-CLOSING = ('anya', 'Спорим на все чаевые!')
+OUTRO = "That brings the bar scene to a close. Watch how quickly Ilya's two-person challenge turns into a bet involving the entire waitstaff. See you next time!"
+CLOSING = ("anya", "Увидимся!")

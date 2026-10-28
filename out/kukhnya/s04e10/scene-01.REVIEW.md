@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I shaved the coconuts, what is next?' The perfective past verb with prefix 'po-' shows Denis actually completed the absurd task of shaving coconuts.
-- 'And now boil them.' The singular imperative tells him to cook the coconuts in boiling water.
+- 'I shaved the coconuts, what is next?' Notice how Russian puts 'to shave' and 'further, on' together in a short, direct phrase where word endings show how the ideas connect.
+- 'And now boil them.' Here Max anchors the thought on 'now, nowadays' and finishes on 'to cook, boil', keeping the spoken rhythm brisk and natural.
 - 'What are we even cooking?' The adverb meaning 'in general' or 'at all' expresses Denis's growing suspicion.
-- 'Boiled coconuts, what is unclear?' The past passive participle functions as an adjective meaning 'boiled'.
+- 'Boiled coconuts, what is unclear?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'Guys, there is good news.' In Russian, 'news' is a countable feminine singular noun when referring to one piece of news.
 - 'And there is bad news.' The feminine adjective 'bad' agrees with the singular noun 'news'.
 - 'I do not love you very much.' Putting the negative particle before the adverb 'very' softens the statement to 'not very much'.
-- 'We are not going home today.' The reflexive verb with prefix 'raz-' literally means to disperse in different directions.
+- 'We are not going home today.' Nagiyev pairs 'today' with 'to disperse, separate' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'We have an impromptu banquet.' A borrowed long adjective modifies the masculine noun 'banquet'.
-- 'We are working as a friendly team all night.' The instrumental case without a preposition expresses working 'as a friendly team', followed by the accusative time span 'all night'.
+- 'We are working as a friendly team all night.' Here Nagiyev anchors the thought on 'let's work' and finishes on 'night', keeping the spoken rhythm brisk and natural.
 - 'Why have you hung your noses?' Hanging one's nose is the classic Russian idiom for looking gloomy or crestfallen.
-- 'Everyone will get a good bonus!' Using the dative plural 'to everyone' with 'will be' announces a reward for the whole crew.
+- 'Everyone will get a good bonus!' Nagiyev pairs 'will be' with 'bonus, prize, reward' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

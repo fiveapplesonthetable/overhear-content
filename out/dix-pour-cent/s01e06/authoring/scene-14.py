@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 14
-TITLE = "Un message pour Berléand  (A Message for Berléand)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un message pour Berléand  (A Message for Berléand)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "christophe": "theo", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "christophe": "Christophe", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'christophe': 'theo', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'christophe': 'Christophe', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Over dinner at the bistro, Christophe challenges Andréa to demonstrate her powers of persuasion. Smiling, she takes his smartphone, types a quick text pretending to be Christophe, and sends an invitation directly to François Berléand. When Andréa arrives home at three in the morning, an angry Colette is waiting for her with an ultimatum. Let's hear the scene in French first."
 OPENER = "Now let's examine the conversation line by line and look at how the French sentences work."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Andréa pulled off a brilliant trick by texting Berléand, but now she has to survive an awkward evening with Colette's friends. Remember the phrase for sending a message: to send a message. See you next time!"
-CLOSING = ("christophe", "Au revoir!")
+CLOSING = ('christophe', 'Au revoir!')
 STORY = [
     ('christophe', "Par exemple, qu'est-ce que tu veux?", 'For example, what do you want?', [(382, "Par exemple, qu'est-ce que"), (382, 'je veux')], ''),
     ('lea', 'Je veux que tu appelles François.', 'I want you to call François.', [(384, 'Je veux que tu appelles François')], ''),

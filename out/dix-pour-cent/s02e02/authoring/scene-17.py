@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 17
-TITLE = "Une proposition délicate  (A Delicate Proposal)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une proposition délicate  (A Delicate Proposal)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = 'In the quiet corners of ASK, Gabriel and his girlfriend, actress Sofia Leprince, discuss a fantastic new film script discovered by Camille. Gabriel tentatively raises a delicate question about separating their romance from their professional careers. Listen to the scene in French first.'
 OPENER = "Let's explore this tender and complicated conversation line by line."
 TRANSITION = "Now let's listen to the whole exchange once again without interruption."
-OUTRO = "Gabriel wanted to protect Sofia from agency politics, but Sofia's loyalty to him is absolute. Remember the key expression for defending someone: défendre quelqu'un. Join us next time to see what happens next."
-CLOSING = ("sofia", "Au revoir!")
+OUTRO = "Gabriel wanted to protect Sofia from agency politics, but Sofia's loyalty to him is absolute. Remember the key expression for defending someone: défendre quelqu'un. See you next time!"
+CLOSING = ('sofia', 'Au revoir!')
 STORY = [
     ('gabriel', "On passe à l'attaque avec Luchini.", 'We', [(575, "On passe à l'attaque avec Luchini")], ''),
     ('sofia', "Ce serait incroyable! C'est bien?", 'That would be amazing! Is it good?', [(576, 'Ce serait incroyable'), (578, "C'est bien")], ''),

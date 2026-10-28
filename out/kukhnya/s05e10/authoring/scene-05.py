@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e10-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 10
 SCENE = 5
-TITLE = 'Проверка номеров  (Inspecting the Rooms)'
+TITLE = "Проверка номеров  (Inspecting the Rooms)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'inspector': 'anja'}
-LABELS = {'anya': 'Михаил', 'inspector': 'Инспектор'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "inspector": "angelina"}
+LABELS = {"mikhail": "Михаил", "inspector": "Инспектор"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.10'
 SOURCE_FILE = 'sources/kukhnya/s05/e10.ru.srt'
 
 INTRO = 'Upstairs in the hotel corridor, the strict commission chairwoman measures the hallway and inspects a guest room, criticizing the lighting and wrinkled bedding. Mikhail cheerfully brushes off every flaw as a trifle and leads them to a suite that turns out to be occupied.'
 
 STORY = [
-    ('anya', 'Что-то не так?', 'Is something wrong?', [(81, 'Что-то не так')], 'adapted'),
+    ('mikhail', 'Что-то не так?', 'Is something wrong?', [(81, 'Что-то не так')], 'adapted'),
     ('inspector', 'Коридор у вас должен быть на пять сантиметров шире.', 'Your corridor must be five centimeters wider.', [(82, 'Коридор у вас должен быть на пять сантиметров шире')], 'adapted'),
-    ('anya', 'Всё исправлено!', 'Everything is fixed!', [(84, 'Все исправлено')], 'adapted'),
+    ('mikhail', 'Всё исправлено!', 'Everything is fixed!', [(84, 'Все исправлено')], 'adapted'),
     ('inspector', 'Постель помята.', 'The bed is rumpled.', [(85, 'Постель помят')], 'adapted'),
     ('inspector', 'Уборка номеров — три балла.', 'Room housekeeping is three points.', [(86, 'Уборка номеров – три балла')], 'adapted'),
-    ('anya', 'Это такие пустяки!', 'Those are such trifles!', [(87, 'Это такие пустяки')], 'adapted'),
-    ('anya', 'У нас всё отлично, на пять звёзд.', 'Everything with us is excellent, worthy of five stars.', [(88, 'У нас все отлично'), (89, 'На пять звезд')], 'adapted'),
-    ('anya', 'Мы не знали, что этот люкс занят.', 'We did not know that this suite was occupied.', [(90, 'Мы не знали, что этот люк занят')], 'adapted'),
-    ('anya', 'Пройдёмте в другой.', 'Let us proceed to another one.', [(91, 'Пройдемте в другой')], 'adapted'),
+    ('mikhail', 'Это такие пустяки!', 'Those are such trifles!', [(87, 'Это такие пустяки')], 'adapted'),
+    ('mikhail', 'У нас всё отлично, на пять звёзд.', 'Everything with us is excellent, worthy of five stars.', [(88, 'У нас все отлично'), (89, 'На пять звезд')], 'adapted'),
+    ('mikhail', 'Мы не знали, что этот люкс занят.', 'We did not know that this suite was occupied.', [(90, 'Мы не знали, что этот люк занят')], 'adapted'),
+    ('mikhail', 'Пройдёмте в другой.', 'Let us proceed to another one.', [(91, 'Пройдемте в другой')], 'adapted'),
     ('inspector', 'А вы что, не в курсе?', 'Are you not aware?', [(91, 'А вы что, не в курсе')], 'adapted'),
     ('inspector', 'Какие номера у вас свободны, какие заняты?', 'Which rooms of yours are vacant and which are occupied?', [(91, 'какие номера у вас свободны'), (92, 'какие заняты')], 'adapted'),
-    ('anya', 'Сейчас всё проверим!', 'We will check everything right now!', [(84, 'Все исправлено')], 'adapted'),
+    ('mikhail', 'Сейчас всё проверим!', 'We will check everything right now!', [(84, 'Все исправлено')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that finishes the corridor inspection scene. Notice the short passive participles for fixed, rumpled, vacant, and occupied as the inspector grades the hotel. See you in the next scene.'
-CLOSING = ('anya', 'У нас всё отлично!')
+OUTRO = 'And that finishes the corridor inspection scene. Notice the short passive participles for fixed, rumpled, vacant, and occupied as the inspector grades the hotel. Until next time!'
+CLOSING = ("mikhail", "Всего хорошего!")

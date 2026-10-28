@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s01/e03.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "gabriel": "theo", "lea": "lucie", "camille": "emilie"}`
-- **Labels**: `{"gabriel": "Gabriel", "lea": "Andréa", "camille": "Camille"}`
+- **Voices**: `{"narrator": "sky", "gabriel": "theo", "camille": "emilie", "lea": "lucie"}`
+- **Labels**: `{"gabriel": "Gabriel", "camille": "Camille", "lea": "Andréa"}`
 
 ## Part 1 — Intro
 > Meanwhile, the partners have surprising news about the director Solveig Akerfelt. Both Laura Smet and her mother Nathalie Baye tried to sabotage their auditions so they wouldn't have to spend three months on a boat together, and Gabriel hasn't dared to tell anyone that Laura was rejected. First, let's listen to the whole scene in French; don't worry about catching every word.
@@ -31,5 +31,5 @@
 | 17 | `gabriel` (Gabriel) | Non, je fais un Bardot! | No, I | 583:Non, je fais un Bardot |
 
 ## Part 5 — Outro & Closing
-> Right after this, in the agency kitchen, the actor Zinedine Soualem proudly demonstrates the new Portuguese coffee machine to prove he can play a Portuguese role. Meanwhile, Gabriel has to find a way to get Laura's part back from Solveig Akerfelt. See you next time!
+> Right after this, in the agency kitchen, the actor Zinedine Soualem proudly demonstrates the new Portuguese coffee machine to prove he can play a Portuguese role. See you next time!
 - **Closing**: `lea`: *Au revoir!*

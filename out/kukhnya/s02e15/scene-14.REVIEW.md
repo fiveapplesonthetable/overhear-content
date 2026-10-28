@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Не понял. | I do not understand. | #235 00:13:47: Не понял | verbatim |
+| 1 | Елена | Не понял. | I do not understand. | #235 00:13:47: Не понял | verbatim |
 | 2 | Костя | В этом смысле? | In that sense? | #237 00:13:54: В этом смысле | verbatim |
-| 3 | Аня | За наглость. | For sheer nerve. | #239 00:13:59: за наглость | verbatim |
+| 3 | Елена | За наглость. | For sheer nerve. | #239 00:13:59: за наглость | verbatim |
 | 4 | Костя | Ты что? | What is with you? | #240 00:14:03: Ты что | verbatim |
-| 5 | Аня | Я же пошутил. | I was only joking. | #241 00:14:05: Я же пошутил | verbatim |
+| 5 | Елена | Я же пошутил. | I was only joking. | #241 00:14:05: Я же пошутил | verbatim |
 | 6 | Костя | Разговаривать умеет? | Does he know how to talk? | #243 00:14:24: разговаривать умеет | verbatim |
-| 7 | Аня | Степан Андреевич? | Stepan Andreyevich? | #244 00:14:29: Степан Андреевич | verbatim |
+| 7 | Елена | Степан Андреевич? | Stepan Andreyevich? | #244 00:14:29: Степан Андреевич | verbatim |
 | 8 | Костя | Елена Павловна, у меня мама на балет ушла. | Elena Pavlovna, my mother has gone out to the ballet. | #245 00:14:37: Елена Павловна, у меня мама на балет ушла | verbatim |
-| 9 | Аня | Почему пешком? | Why walk on foot? | #247 00:14:43: Почему пешком | verbatim |
+| 9 | Елена | Почему пешком? | Why walk on foot? | #247 00:14:43: Почему пешком | verbatim |
 | 10 | Костя | Я хотел сказать? | What I meant to say was... | #248 00:14:46: Я хотел сказать | verbatim |
-| 11 | Аня | Да? Хорошо? | Really? Sounds good? | #249 00:14:50: Да? Хорошо | verbatim |
+| 11 | Елена | Да? Хорошо? | Really? Sounds good? | #249 00:14:50: Да? Хорошо | verbatim |
 | 12 | Костя | Ну, тогда что? | Well then, what do you say? | #250 00:14:52: Ну, тогда что | verbatim |
-| 13 | Аня | До встречи. | See you soon. | #251 00:14:54: До встречи | verbatim |
+| 13 | Елена | До встречи. | See you soon. | #251 00:14:54: До встречи | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

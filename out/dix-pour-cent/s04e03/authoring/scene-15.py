@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 15
-TITLE = "À la crèche  (At the Daycare)"
-LEVEL = "A1 — débutant"
+TITLE = 'À la crèche  (At the Daycare)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jose": "theo", "lea": "lucie"}
-LABELS = {"jose": "José", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'jose': 'theo', 'lea': 'lucie'}
+LABELS = {'jose': 'José', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Andrea rushes into the daycare center in absolute terror after finding her apartment empty. She discovers Jose Garcia happily cradling baby Flora, completely unbothered by her panic. Let's listen to their chaotic encounter in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Andrea recovers her baby daughter safely from Jose Garcia at the daycare center. When you watch the episode, listen out for the expressions meaning 'baby' and 'adored'. You'll catch them now. See you next time."
-CLOSING = ("jose", "À plus tard, maman stressée!")
+OUTRO = "Andrea recovers her baby daughter safely from Jose Garcia at the daycare center. When you watch the episode, listen out for the expressions meaning 'baby' and 'adored'. You'll catch them now. See you next time!"
+CLOSING = ('jose', 'À plus tard, maman stressée!')
 STORY = [
     ('lea', 'Flora! Oh, mon bébé adoré!', 'Flora! Oh, my beloved baby!', [(667, 'mon bébé')], ''),
     ('jose', 'Andréa, tout va très bien ici.', 'Andrea, everything is going very well here.', [(666, 'Andréa, ça va ?'), (669, 'tout va bien')], ''),

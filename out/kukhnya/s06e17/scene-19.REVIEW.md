@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну не смотри на меня так. | Well, do not look at me like that. | #309 00:20:00: Ну не смотри на меня так | adapted: adapted |
-| 2 | Аня | Тебя нельзя так сильно перекормить. | You must not be overfed so much. | #310 00:20:02: Если тебя перекормить | adapted: adapted |
-| 3 | Федя | К вам пришёл инспектор Мишлен. | A Michelin inspector has come to see you. | #311 00:20:05: к вам инспектор Мишлен | adapted: adapted |
+| 1 | Шеф | Ну не смотри на меня так. | Well, do not look at me like that. | #309 00:20:00: Ну не смотри на меня так | adapted: adapted |
+| 2 | Шеф | Тебя нельзя так сильно перекормить. | You must not be overfed so much. | #310 00:20:02: Если тебя перекормить | adapted: adapted |
+| 3 | Шеф | К вам пришёл инспектор Мишлен. | A Michelin inspector has come to see you. | #311 00:20:05: к вам инспектор Мишлен | adapted: adapted |
 | 4 | Инспектор | Здравствуйте, уважаемый Виктор Петрович. | Hello, respected Viktor Petrovich. | #312 00:20:09: Здравствуйте, Виктор Петрович | adapted: adapted |
 | 5 | Инспектор | Меня зовут Алексей Смолин. | My name is Alexey Smolin. | #312 00:20:09: Меня зовут Алексей Смолин | adapted: adapted |
 | 6 | Инспектор | Я сегодня инспектирую ваш ресторан. | I am inspecting your restaurant today. | #313 00:20:12: Я инспектирую ваш ресторан | adapted: adapted |
 | 7 | Инспектор | С вами сейчас всё в порядке? | Is everything alright with you right now? | #314 00:20:16: С вами всё в порядке | adapted: adapted |
-| 8 | Аня | Да, просто это так неожиданно. | Yes, it is just so unexpected. | #315 00:20:18: Просто так... Неожиданно | adapted: adapted |
+| 8 | Шеф | Да, просто это так неожиданно. | Yes, it is just so unexpected. | #315 00:20:18: Просто так... Неожиданно | adapted: adapted |
 | 9 | Инспектор | Здравствуйте, мне очень приятно. | Hello, it is very nice to meet you. | #316 00:20:25: Здравствуйте<br>#317 00:20:27: Очень приятно | adapted: adapted |
 | 10 | Инспектор | Вызовите сюда скорую помощь! | Call an ambulance here! | #318 00:20:31: Вызовите скорую | adapted: adapted |
-| 11 | Федя | Шеф, я приведу вас в чувство! | Chef, I will bring you to your senses! | #319 00:20:36: приведу в чувство | adapted: adapted |
+| 11 | Шеф | Шеф, я приведу вас в чувство! | Chef, I will bring you to your senses! | #319 00:20:36: приведу в чувство | adapted: adapted |
 | 12 | Инспектор | Стой, не трогай его сейчас! | Stop, do not touch him right now! | #320 00:20:39: Стой | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

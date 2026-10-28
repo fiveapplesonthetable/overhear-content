@@ -27,5 +27,5 @@
 | 13 | `jean` (Jean) | Bien, alors continue le grand combat. | Good, then continue the great fight. | 239:continue le combat |
 
 ## Part 5 — Outro & Closing
-> Despite Andrea's passionate pitch for a revolutionary historical drama, Jean Reno holds firm to his dream of leaving cinema behind for a peaceful life. When you watch the episode, listen out for the expressions meaning 'to talk' and 'worry'. You'll catch them now. See you next time.
+> Despite Andrea's passionate pitch for a revolutionary historical drama, Jean Reno holds firm to his dream of leaving cinema behind for a peaceful life. When you watch the episode, listen out for the expressions meaning 'to talk' and 'worry'. You'll catch them now. See you next time!
 - **Closing**: `jean`: *Au revoir!*

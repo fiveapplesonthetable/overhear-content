@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 2
 SCENE = 10
 TITLE = "L'invitation de Monica  (Monica's Invitation)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "monica": "emilie", "gabriel": "theo", "hicham": "marcel"}
-LABELS = {"monica": "Monica", "gabriel": "Gabriel", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'monica': 'emilie', 'gabriel': 'theo', 'hicham': 'marcel'}
+LABELS = {'monica': 'Monica', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "At the agency, Italian screen icon Monica Bellucci calls to discuss advertising projects. After boss Hicham takes the initial call, Gabriel connects with Monica, who unexpectedly invites him to her home for dinner. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Monica Bellucci calls ASK to discuss new promotional contracts with Gabriel. When you watch the episode, listen out for the expressions meaning 'boss' and 'would like'. You'll catch them now. See you next time."
-CLOSING = ("monica", "À bientôt!")
+OUTRO = "Monica Bellucci calls ASK to discuss new promotional contracts with Gabriel. When you watch the episode, listen out for the expressions meaning 'boss' and 'would like'. You'll catch them now. See you next time!"
+CLOSING = ('monica', 'À bientôt!')
 STORY = [
     ('monica', 'Bonjour, Gabriel est là?', 'Hello, is Gabriel there?', [(589, 'Bonjour, Monica.')], ''),
     ('hicham', 'Non, je suis son patron, Hicham Janowski.', 'No, I am his boss, Hicham Janowski.', [(592, 'Non, je suis son patron,'), (593, 'Hicham Janowski.')], ''),

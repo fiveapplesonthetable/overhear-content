@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Tell me, when will Viktoria Goncharova be discharged?' The grammar packs 'say' and 'to issue' into a tight, idiomatic kitchen exchange.
 - 'She was discharged early this morning.' Notice how Russian expresses 'she' and 'to issue' with crisp inflection rather than helper words.
-- 'It seems her sister picked her up.' Notice the reflexive suffix on the verb meaning 'it seems', turning the action back on the subject.
+- 'It seems her sister picked her up.' Here the doctor anchors the thought on 'it seems' and finishes on 'took away', keeping the spoken rhythm brisk and natural.
 - 'Hi, where were you all morning?' In Russian, the idea of 'hello' flows naturally into 'was' without extra filler words.
 - 'I went to the hospital, I wanted to pick you up.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'to take away'. Vika answers right away.
 - 'Max, nothing is going to work out between us.' Vika anchors the line on 'Max', while 'will work out' completes the thought.

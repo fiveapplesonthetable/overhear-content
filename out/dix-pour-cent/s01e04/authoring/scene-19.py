@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 4
 SCENE = 19
 TITLE = "Le chagrin de Noémie  (Noémie's Heartbreak)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "herve": "marcel", "lea": "lucie"}
-LABELS = {"noemie": "Noémie", "herve": "Hervé", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
+LABELS = {'noemie': 'Noémie', 'herve': 'Hervé', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Back at the agency, though, Mathias is just leaving for the evening and admits to Noémie that he doesn't feel like going to the screening at all. When he forgets his phone on her desk, a message pops up on the screen and breaks Noémie's heart. Let's listen to the scene in French first; don't worry about catching every word."
 OPENER = "Let's go through it slowly. At the end of the day, Noémie says goodbye to Mathias."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Noémie now knows that Mathias has signed his contract with StarMédia—and worse for her, he didn't ask her to follow him. Meanwhile, since Mathias skipped the screening, he is heading straight home, where Camille is sitting at his dinner table. See you next time!"
-CLOSING = ("herve", "Bonne journée!")
+OUTRO = "Noémie now knows that Mathias has signed his contract with StarMédia—and worse for her, he didn't ask her to follow him. See you next time!"
+CLOSING = ('herve', 'Bonne journée!')
 STORY = [
     ('noemie', "Bon, je m'en vais. Profitez bien de la projection.", "Right, I'm leaving. Enjoy the screening.", [(474, "Bon, je m'en vais. Profitez bien de la projection")], ''),
     ('lea', "Je n'en ai vraiment pas envie. À demain.", 'I really don', [(475, "Je n'en ai vraiment pas envie"), (476, 'À demain')], ''),

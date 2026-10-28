@@ -1,26 +1,26 @@
 ID = 'kukhnya-s05e04-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 4
 SCENE = 7
-TITLE = 'Федя в ванной и требование реванша  (Fedya in the Bathtub and Demanding a Rematch)'
+TITLE = "Федя в ванной и требование реванша  (Fedya in the Bathtub and Demanding a Rematch)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Федя', 'guest': 'Гость', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja"}
+LABELS = {"chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.04'
 SOURCE_FILE = 'sources/kukhnya/s05/e04.ru.srt'
 
 INTRO = "Taking Nastya's romantic advice, Marina surprises her husband in the bubble bath—only to discover Fedya in the tub because Senya swapped room-service shifts with him! Back at the hotel, Barinov begs Mikhail for a rubber match to end their tie."
 
 STORY = [
-    ('anya', 'Тогда наших сожителей дома не будет.', 'Good thing our partners are not home right now.', [(96, 'Тогда наших сожителей')], 'adapted'),
-    ('guest', 'Мой секс-герой здесь!', 'My sex hero is in here!', [(97, 'Мой секс-герой здесь')], 'adapted'),
-    ('guest', 'Сеня, ты где?', 'Senya, where are you?', [(98, 'Ты где')], 'adapted'),
-    ('anya', 'Только он это на рум-сервисе остался.', 'Except Senya stayed behind on room service.', [(99, 'Только он это')], 'adapted'),
-    ('guest', 'Так ты же должен был работать.', 'Wait, you were supposed to work it.', [(100, 'Так ты же')], 'adapted'),
-    ('anya', 'Да, ну он попросил меня с ним поменяться.', 'Yes, well, he asked me to swap shifts with him.', [(100, 'Так ты же')], 'adapted'),
-    ('guest', 'И что теперь делать?', 'And what do we do now?', [(101, 'И? А, да')], 'adapted'),
+    ('chef', 'Тогда наших сожителей дома не будет.', 'Good thing our partners are not home right now.', [(96, 'Тогда наших сожителей')], 'adapted'),
+    ('chef', 'Мой главный герой уже здесь!', 'My main hero is already in here!', [(97, 'Мой'), (97, 'герой здесь')], 'adapted'),
+    ('chef', 'Сеня, ты где?', 'Senya, where are you?', [(98, 'Ты где')], 'adapted'),
+    ('chef', 'Только он это на рум-сервисе остался.', 'Except Senya stayed behind on room service.', [(99, 'Только он это')], 'adapted'),
+    ('chef', 'Так ты же должен был работать.', 'Wait, you were supposed to work it.', [(100, 'Так ты же')], 'adapted'),
+    ('chef', 'Да, ну он попросил меня с ним поменяться.', 'Yes, well, he asked me to swap shifts with him.', [(100, 'Так ты же')], 'adapted'),
+    ('chef', 'И что теперь делать?', 'And what do we do now?', [(101, 'И? А, да')], 'adapted'),
     ('chef', 'Виктор Петрович, счет один на один унижает нас обоих.', 'Mikhail, a one-to-one score humiliates us both.', [(102, 'Виктор Петрович, счет')], 'adapted'),
     ('chef', 'Давайте я уже у вас выиграю и покончим с этим.', 'Let me just beat you already and be done with this.', [(103, 'Давайте я уже')], 'adapted'),
     ('chef', 'Отвали от меня, Витя.', 'Back off from me, Vitya.', [(104, 'Отвали, Миша')], 'adapted'),
@@ -32,7 +32,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 
 WALK = [
     (0, None, "'Good thing our partners are not home right now.' Fedya anchors the line on 'then', while 'will be' completes the thought."),
-    (1, None, "'My sex hero is in here!' the guest brings out the contrast between 'my' and 'sex hero' in a few short words."),
+    (1, None, "'My main hero is already in here!' the guest pairs 'main, chief' with 'already, now' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (2, None, "'Senya, where are you?' Here the Russian phrasing highlights 'Senya' before landing on 'where'. Fedya answers right away."),
     (3, None, "'Except Senya stayed behind on room service.' Notice how Russian expresses 'only' and 'remained' with crisp inflection rather than helper words."),
     (4, None, "'Wait, you were supposed to work it.' Here the Russian phrasing highlights 'so' before landing on 'to work'."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Fedya and the team handle the pressure when you watch the episode. See you in the next scene.'
-CLOSING = ('anya', 'Хочешь картами пошлепать, разложи пасьянцы.')
+OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Fedya and the team handle the pressure when you watch the episode. Until next time!'
+CLOSING = ("chef", "До свидания!")

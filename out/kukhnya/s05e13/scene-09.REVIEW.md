@@ -13,15 +13,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Катя | А я хочу выпить за Елену Павловну. | And I want to drink to Elena Pavlovna. | #107 00:11:54: А я хочу выпить за Елену Павловну | adapted: adapted |
 | 2 | Катя | Иначе мы бы сейчас все тут работали. | Otherwise we would all be working here right now. | #109 00:12:00: мы бы сейчас все тут работали | adapted: adapted |
 | 3 | Катя | Папа, а если бы она тебе отказала? | Dad, and what if she had turned you down? | #110 00:12:07: если бы она тебе отказала | adapted: adapted |
-| 4 | Аня | Ну как, что бы я тогда делал? | Well, what would I have done then? | #111 00:12:10: Ну как | adapted: adapted |
-| 5 | Аня | Лена, дорогая, выходи за меня замуж! | Lena, darling, marry me! | #112 00:12:14: выходи за меня | adapted: adapted |
-| 6 | Елена | Нет, Витя, я не могу согласиться. | No, Vitya, I cannot agree. | #113 00:12:17: Нет | adapted: adapted |
-| 7 | Аня | Нам по лестнице любви не подняться. | We cannot climb the stairway of love. | #114 00:12:33: Нам по лестнице любви не подняться | adapted: adapted |
-| 8 | Аня | Мы с тобой слишком рано сдались. | You and I gave up too soon. | #116 00:12:41: Мы с тобой сдались | adapted: adapted |
-| 9 | Аня | Мы с тобой навсегда разошлись. | You and I parted ways forever. | #117 00:12:44: разошлись | adapted: adapted |
-| 10 | Аня | Сегодня горько плачут тёмные небеса. | The dark heavens weep bitterly today. | #118 00:12:49: Горько плачут небеса | adapted: adapted |
-| 11 | Аня | Видит бог, что виноват я сам. | God sees that I am to blame myself. | #120 00:12:56: что виноват я сам | adapted: adapted |
-| 12 | Аня | Ты вчера сказала мне холодное нет. | Yesterday you said a cold no to me. | #121 00:13:03: Нет, ты сказала мне | adapted: adapted |
+| 4 | Шеф | Ну как, что бы я тогда делал? | Well, what would I have done then? | #111 00:12:10: Ну как | adapted: adapted |
+| 5 | Шеф | Лена, дорогая, выходи за меня замуж! | Lena, darling, marry me! | #112 00:12:14: выходи за меня | adapted: adapted |
+| 6 | Катя | Нет, Витя, я не могу согласиться. | No, Vitya, I cannot agree. | #113 00:12:17: Нет | adapted: adapted |
+| 7 | Шеф | Нам по лестнице любви не подняться. | We cannot climb the stairway of love. | #114 00:12:33: Нам по лестнице любви не подняться | adapted: adapted |
+| 8 | Шеф | Мы с тобой слишком рано сдались. | You and I gave up too soon. | #116 00:12:41: Мы с тобой сдались | adapted: adapted |
+| 9 | Шеф | Мы с тобой навсегда разошлись. | You and I parted ways forever. | #117 00:12:44: разошлись | adapted: adapted |
+| 10 | Шеф | Сегодня горько плачут тёмные небеса. | The dark heavens weep bitterly today. | #118 00:12:49: Горько плачут небеса | adapted: adapted |
+| 11 | Шеф | Видит бог, что виноват я сам. | God sees that I am to blame myself. | #120 00:12:56: что виноват я сам | adapted: adapted |
+| 12 | Шеф | Ты вчера сказала мне холодное нет. | Yesterday you said a cold no to me. | #121 00:13:03: Нет, ты сказала мне | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Lena, darling, marry me!' Chef Barinov anchors the line on 'Lena', while 'married' completes the thought.
 - 'No, Vitya, I cannot agree.' The grammar packs 'no' and 'to agree' into a tight, idiomatic kitchen exchange.
 - 'We cannot climb the stairway of love.' Chef Barinov anchors the line on 'us', while 'to rise' completes the thought.
-- 'You and I gave up too soon.' Notice the reflexive suffix on the verb meaning 'to surrender', turning the action back on the subject.
+- 'You and I gave up too soon.' Chef Barinov pairs 'too' with 'to surrender, to give up' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'You and I parted ways forever.' The meaning hinges on 'we' working together with 'part ways' in spoken Russian.
 - 'The dark heavens weep bitterly today.' The grammar packs 'tonight' and 'heavens' into a tight, idiomatic kitchen exchange.
 - 'God sees that I am to blame myself.' The meaning hinges on 'sees' working together with 'yourself' in spoken Russian.

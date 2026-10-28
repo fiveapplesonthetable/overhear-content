@@ -27,5 +27,5 @@
 | 13 | `jean` (Jean) | Merci Andréa, tu es une vraie amie. | Thank you Andrea, you are a true friend. | 992:je pense que |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around andrea's comfort. When you watch the episode, listen out for the expressions meaning 'caused' and 'troubles'. You'll catch them now. See you next time.
+> That's it for this scene around andrea's comfort. When you watch the episode, listen out for the expressions meaning 'caused' and 'troubles'. You'll catch them now. See you next time!
 - **Closing**: `jean`: *À demain!*

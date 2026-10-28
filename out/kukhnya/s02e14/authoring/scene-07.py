@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e14-scene-07"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e14-scene-07'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 7
 TITLE = "Конспирация перед звонком Елены  (Conspiracy During Elena's Call)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'ainura': 'angelina'}
-LABELS = {'anya': 'Шеф', 'nagiyev': 'Нагиев', 'ainura': 'Айнура'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.14"
-SOURCE_FILE = "sources/kukhnya/s02/e14.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "ainura": "angelina", "chef": "anja"}
+LABELS = {"ainura": "Айнура", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
+SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
 
 INTRO = 'When his phone rings again, Chef Barinov frantically hushes the entire kitchen crew so Elena Pavlovna will not hear kitchen clatter in the background. After faking static on the line and hanging up, he barks at the cooks to get back to their stations.'
 
 STORY = [
-    ('anya', 'Тихо все.', 'Everyone be quiet.', [(112, 'Тихо все')], ''),
-    ('nagiyev', 'Тихо, я сказал.', 'Be quiet, I said.', [(113, 'Тихо, я сказал')], ''),
+    ('chef', 'Тихо все.', 'Everyone be quiet.', [(112, 'Тихо все')], ''),
+    ('ainura', 'Тихо, я сказал.', 'Be quiet, I said.', [(113, 'Тихо, я сказал')], ''),
     ('ainura', 'Алло, я слушаю.', 'Hello, I am listening.', [(114, 'Алло, я слушаю')], ''),
-    ('anya', 'Так что отдыхайте спокойно.', 'So just relax and enjoy your rest.', [(117, 'Так что отдыхайте спокойно')], ''),
-    ('nagiyev', 'Ага, хорошо.', 'Yeah, sounds good.', [(118, 'Ага, хорошо')], ''),
+    ('chef', 'Так что отдыхайте спокойно.', 'So just relax and enjoy your rest.', [(117, 'Так что отдыхайте спокойно')], ''),
+    ('ainura', 'Ага, хорошо.', 'Yeah, sounds good.', [(118, 'Ага, хорошо')], ''),
     ('ainura', 'Связь плохая.', 'The reception is bad.', [(120, 'Связь плохая')], ''),
-    ('anya', 'Плохая связь очень.', 'The connection is really terrible.', [(121, 'Плохая связь очень')], ''),
-    ('nagiyev', 'Мышь мелкая.', 'You little mouse.', [(124, 'Мышь мелкая')], ''),
+    ('chef', 'Плохая связь очень.', 'The connection is really terrible.', [(121, 'Плохая связь очень')], ''),
+    ('ainura', 'Мышь мелкая.', 'You little mouse.', [(124, 'Мышь мелкая')], ''),
     ('ainura', 'Вас там Дмитрий Владимирович ждет в зале?', 'Dmitry Vladimirovich is waiting for you out in the dining room.', [(125, 'Вас там Дмитрий Владимирович ждет в зале')], ''),
-    ('anya', 'А вы что встали?', 'And why are you all standing around?', [(127, 'А вы что встали')], ''),
-    ('nagiyev', 'Живо за работу.', 'Get back to work right now.', [(128, 'Живо за работу')], ''),
+    ('chef', 'А вы что встали?', 'And why are you all standing around?', [(127, 'А вы что встали')], ''),
+    ('ainura', 'Живо за работу.', 'Get back to work right now.', [(128, 'Живо за работу')], ''),
     ('ainura', 'Да, шеф.', 'Yes, Chef.', [(129, 'Да, шеф')], ''),
-    ('anya', 'Давай форму.', 'Hand over the uniform.', [(130, 'Давай форму')], ''),
+    ('chef', 'Давай форму.', 'Hand over the uniform.', [(130, 'Давай форму')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = "When you watch Scene 7 of Episode 14, listen out for the exchange around conspiracy during elena's call — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Давай форму.')
+OUTRO = 'That wraps up this scene as chef Barinov hushes the entire kitchen when Elena Pavlovna calls again, pretending he has bad reception on the plane before ordering the cooks back to work. Until next time!'
+CLOSING = ("chef", "Всего хорошего!")

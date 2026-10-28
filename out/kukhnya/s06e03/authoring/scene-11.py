@@ -1,25 +1,25 @@
 ID = 'kukhnya-s06e03-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 3
 SCENE = 11
-TITLE = 'Муки актёрского мастерства  (The Agony of Acting)'
+TITLE = "Муки актёрского мастерства  (The Agony of Acting)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja'}
-LABELS = {'anya': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.03'
 SOURCE_FILE = 'sources/kukhnya/s06/e03.ru.srt'
 
 INTRO = 'In Take One, Barinov reads his line in a flat monotone; when the director asks for a bit more emotion in Take Two, Barinov bellows like a stage tragedian, driving Nagiyev up the wall.'
 
 STORY = [
-    ('anya', 'Сейчас ты встретишься со своим братом.', 'Now you are going to meet your brother.', [(181, 'сейчас ты встретишься со своим братом')], 'exact'),
+    ('chef', 'Сейчас ты встретишься со своим братом.', 'Now you are going to meet your brother.', [(181, 'сейчас ты встретишься со своим братом')], 'exact'),
     ('nagiyev', 'Стоп, Витюша, великолепно!', 'Cut, Vityusha, magnificent!', [(182, 'Стоп! Витюша, великолепно')], 'exact'),
     ('nagiyev', 'Просто гениально, нормально.', 'Simply brilliant, fine.', [(183, 'Просто гениально. Нормально')], 'exact'),
     ('nagiyev', 'Чуть добавь эмоций, хорошо?', 'Just add a little emotion, alright?', [(184, 'Чуть')], 'adapted'),
     ('nagiyev', 'Камера, мотор, дубль два, начали!', 'Camera, rolling, take two, action!', [(185, 'Камера, мотор'), (186, 'дубль два'), (187, 'Начали!')], 'adapted'),
-    ('anya', 'Ну что, сейчас ты встретишься со своим братом!', 'Well then, now you will meet your brother!', [(188, 'сейчас ты встретишься со своим братом')], 'adapted'),
+    ('chef', 'Ну что, сейчас ты встретишься со своим братом!', 'Well then, now you will meet your brother!', [(188, 'сейчас ты встретишься со своим братом')], 'adapted'),
     ('nagiyev', 'Стоп, ну что это такое?', 'Cut, what on earth is that?', [(189, 'Стоп!'), (190, 'это такое?')], 'adapted'),
     ('nagiyev', 'Что это за театр, честное слово?', 'What kind of theater is this, honestly?', [(190, 'Что это за'), (191, 'Честное слово')], 'adapted'),
     ('nagiyev', 'Соберись, точнее работай, пожалуйста.', 'Focus, work more precisely, please.', [(192, 'Соберись, точнее работай, пожалуйста')], 'exact'),
@@ -40,11 +40,11 @@ WALK = [
     (6, None, "'Cut, what on earth is that?' In Russian, the idea of 'stop' flows naturally into 'such' without extra filler words."),
     (7, None, "'What kind of theater is this, honestly?' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'word'."),
     (8, None, "'Focus, work more precisely, please.' Dmitry Nagiyev anchors the line on 'focus', while 'please' completes the thought."),
-    (9, None, "'Let's go, guys, right now everything will work out for us.' Notice the reflexive suffix on the verb meaning 'will work out', turning the action back on the subject."),
+    (9, None, "'Let's go, guys, right now everything will work out for us.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (10, None, "'Camera, rolling!' Notice how Russian expresses 'camera' and 'is coming' with crisp inflection rather than helper words."),
     (11, None, "'Scene nine, take three, action!' In Russian, the idea of 'stage' flows naturally into 'started' without extra filler words."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "As the crew rolls into Take Three, Barinov's culinary brain invents a new nickname for Nagiyev's hero. See you in the next scene."
-CLOSING = ('nagiyev', 'Соберись, Витя!')
+OUTRO = "As the crew rolls into Take Three, Barinov's culinary brain invents a new nickname for Nagiyev's hero. Until next time!"
+CLOSING = ("nagiyev", "До свидания!")

@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e18-scene-02"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e18-scene-02'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 18
 SCENE = 2
-TITLE = 'Макс становится су-шефом и пропажа Насти  (Max Becomes Sous-Chef and Nastya Disappears)'
+TITLE = "Макс становится су-шефом и пропажа Насти  (Max Becomes Sous-Chef and Nastya Disappears)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.18"
-SOURCE_FILE = "sources/kukhnya/s02/e18.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nastya": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "nastya": "Настя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.18'
+SOURCE_FILE = 'sources/kukhnya/s02/e18.ru.srt'
 
 INTRO = "After Senya and Fedya refuse to cover for Lyova without extra pay, Chef Barinov shocks the kitchen by appointing Max as acting sous-chef. Meanwhile, Nastya's mother calls Kostya in a panic because Nastya left for work in the morning and never arrived."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 2 of Episode 18, listen out for the exchange around max becomes sous-chef and nastya disappears — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('nastya', 'Нет ее у нас.')
+OUTRO = "That wraps up this scene as to spite his stubborn veterans, Chef Barinov appoints Max as acting sous-chef on the spot, while Nastya's worried parents call Kostya looking for their missing daughter. See you next time!"
+CLOSING = ("nastya", "До свидания!")

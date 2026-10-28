@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 26
-TITLE = "Folle de toi  (Mad About You)"
-LEVEL = "A1 — débutant"
+TITLE = 'Folle de toi  (Mad About You)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "mathias": "marcel"}
-LABELS = {"noemie": "Noémie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "In the back of the taxi leaving the Cesar ceremony, Mathias laughs affectionately at Noemie's playful humor before she passionately declares her love. Let's listen to the scene in French first."
 OPENER = "Let's examine Noemie and Mathias's tender and romantic final exchange line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "As Paris glides by through the taxi windows, Mathias and Noemie celebrate their shared love and professional partnership, sealing their future together with a passionate kiss as the season premiere concludes. When you watch the episode, listen out for the expressions meaning 'crazy' and 'laugh'. You'll catch them now. See you next time."
-CLOSING = ("noemie", "Au revoir!")
+OUTRO = "As Paris glides by through the taxi windows, Mathias and Noemie celebrate their shared love and professional partnership, sealing their future together with a passionate kiss as the season premiere concludes. When you watch the episode, listen out for the expressions meaning 'crazy' and 'laugh'. You'll catch them now. See you next time!"
+CLOSING = ('noemie', 'Au revoir!')
 STORY = [
     ('mathias', 'Tu es complètement folle, Noémie!', 'You are completely mad, Noemie!', [(1010, 'Tu es complètement folle')], ''),
     ('noemie', 'Oui, je suis folle de toi!', 'Yes, I am mad about you!', [(1011, 'Folle de toi')], ''),

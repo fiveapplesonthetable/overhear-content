@@ -1,41 +1,40 @@
-# kukhnya-s01e19-scene-14: review sheet
+# День рождения ресторана  (The Restaurant's Birthday) — `kukhnya-s01e19-scene-14`
 
-Title: День рождения ресторана  (The Restaurant's Birthday)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.19
+**Source:** Кухня (Kukhnya) S1.19 · `sources/kukhnya/s01/e19.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `vika` | angelina | Вика |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Vika confronts Chef Barinov. The restaurant owner, Dima, gave the Chef two weeks to attract more customers, and half the time is already gone. Vika wants to know his plan.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вика | Что собираешься делать? | What are you going to do? | #236 00:15:29: собираешься делать | verbatim |
-| 2 | Шеф | Ты насчет ресторана? | Are you talking about the restaurant? | #237 00:15:32: Ты насчет | verbatim |
-| 3 | Вика | Дима дал тебе две недели. | Dima gave you two weeks. | #238 00:15:36: Дима тебе дал две недели | verbatim |
-| 4 | Вика | Уже неделя прошла. | A week's already gone by. | #239 00:15:39: Уже неделя прошла | verbatim |
-| 5 | Шеф | Не переживай, у меня есть идея. | Don't worry, I have an idea. | #240 00:15:41: Не переживай, есть у меня одна идея | verbatim |
-| 6 | Вика | Дай угадаю. Ты напьешься? | Let me guess. You'll get drunk? | #241 00:15:43: Дай угадаю. Напьешься | verbatim |
-| 7 | Шеф | Естественно. Такой повод. | Naturally. Such an occasion. | #242 00:15:45: Естественно. Такой повод | verbatim |
-| 8 | Шеф | День рождения ресторана Клод Моне. | The birthday of the Claude Monet restaurant. | #242 00:15:45: День рождения ресторана Клод Мане | adapted: using correct spelling Моне |
-| 9 | Шеф | Устроим пир на весь мир. | We'll throw a party for the whole world. | #243 00:15:49: устроим пир на весь мир | verbatim |
-| 10 | Вика | И как мир об этом узнает? | And how will the world hear about it? | #244 00:15:52: И как весь мир об этом узнает | verbatim |
-| 11 | Шеф | А это я беру на себя. | I'll take care of that. | #245 00:15:55: А это я беру на себя | verbatim |
-| 12 | Вика | Понятно. Удачи. | Got it. Good luck. | #246 00:15:57: Понятно. Удачи | verbatim |
-| 13 | Шеф | Спасибо. | Thanks. | #247 00:15:59: Спасибо | verbatim |
+| 0 | Вика | Что собираешься делать? | What are you going to do? | #236 "собираешься делать" |  |
+| 1 | Шеф | Ты насчет ресторана? | Are you talking about the restaurant? | #237 "Ты насчет" |  |
+| 2 | Вика | Дима дал тебе две недели. | Dima gave you two weeks. | #238 "Дима тебе дал две недели" |  |
+| 3 | Вика | Уже неделя прошла. | A week's already gone by. | #239 "Уже неделя прошла" |  |
+| 4 | Шеф | Не переживай, у меня есть идея. | Don't worry, I have an idea. | #240 "Не переживай, есть у меня одна идея" |  |
+| 5 | Вика | Дай угадаю. Ты напьешься? | Let me guess. You'll get drunk? | #241 "Дай угадаю. Напьешься" |  |
+| 6 | Шеф | Естественно. Такой повод. | Naturally. Such an occasion. | #242 "Естественно. Такой повод" |  |
+| 7 | Шеф | День рождения ресторана Клод Моне. | The birthday of the Claude Monet restaurant. | #242 "День рождения ресторана Клод Мане" |  |
+| 8 | Шеф | Устроим пир на весь мир. | We'll throw a party for the whole world. | #243 "устроим пир на весь мир" |  |
+| 9 | Вика | И как мир об этом узнает? | And how will the world hear about it? | #244 "И как весь мир об этом узнает" |  |
+| 10 | Шеф | А это я беру на себя. | I'll take care of that. | #245 "А это я беру на себя" |  |
+| 11 | Вика | Понятно. Удачи. | Got it. Good luck. | #246 "Понятно. Удачи" |  |
+| 12 | Шеф | Спасибо. | Thanks. | #247 "Спасибо" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'What are you going to do?' Vika asks directly. Notice the word for 'to do' is at the end.
-- 'Are you talking about the restaurant?' Literally, 'You about restaurant?'. The verb 'are' is skipped in Russian.
-- 'Dima gave you two weeks.' The verb 'gave' is in the past tense masculine, because Dima is a man. It is placed before the word for 'you'.
-- 'A week's already gone by.' The verb 'passed' is feminine here, because 'week' is a feminine noun.
-- 'Don't worry, I have an idea.' Literally 'By me there is an idea'. We often use this structure in Russian for possession.
-- 'Let me guess. You'll get drunk?' Vika is skeptical. The second verb is in the future tense.
-- 'Naturally. Such an occasion.' The Chef is very proud. The word 'an' is not translated.
-- 'The birthday of the Claude Monet restaurant.' In Russian, we say 'Day of birth'. We do not use 'the'.
-- 'We'll throw a party for the whole world.' This is a popular Russian rhyming phrase: 'pir na ves mir'.
-- 'And how will the world hear about it?' Vika wonders how people will know. The verb is future tense.
-- 'I'll take care of that.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to take'.
-- 'Got it. Good luck.' Vika isn't convinced. The second word is a wish for success.
-- 'Thanks.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'thank you'.
+> The Chef has a grand plan, but things rarely go smoothly at Claude Monet. See you later. Next time you watch the episode, listen for the Russian expressions for 'to intend' and 'to do' — you will catch every word right away. See you next time!
+
+**Вика:** До встречи!

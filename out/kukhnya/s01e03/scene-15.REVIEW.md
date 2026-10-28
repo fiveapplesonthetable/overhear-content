@@ -1,43 +1,41 @@
-# kukhnya-s01e03-scene-15: review sheet
+# Живой гусь  (The Live Goose) — `kukhnya-s01e03-scene-15`
 
-Title: Живой гусь  (The Live Goose)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.03
+**Source:** Кухня (Kukhnya) S1.03 · `sources/kukhnya/s01/e03.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `nastya` | angelina | Настя |
+| `sasha` | anja | Саша |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the restaurant back hallway, waitress Nastya has made a startling discovery inside a delivery box. Horrified that Chef Barinov plans to slaughter a live banquet goose, Nastya resolves to save the bird. Listen to her whispered conversation with Sasha in Russian first, and then we will examine every phrase.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Настя | Саша, иди скорее сюда! | Sasha, come here quickly! | #265 00:17:17: сюда и позвала | adapted: urgent call |
-| 2 | Саша | Что случилось, Настя? | What happened, Nastya? | #261 00:17:03: на минуточку | adapted: inquiring |
-| 3 | Настя | Посмотри, в коробке сидит живой гусь! | Look, a live goose is sitting in the box! | #264 00:17:15: гусь | adapted: verbatim discovery |
-| 4 | Саша | Откуда здесь взялся этот гусь? | Where did this goose come from? | #264 00:17:15: гусь | adapted: shocked question |
-| 5 | Настя | Шеф хотел приготовить из него блюдо. | The chef wanted to prepare a dish out of it. | new | new: explaining plan |
-| 6 | Саша | Ты решила спасти эту птицу? | Did you decide to save this bird? | new | new: asking motive |
-| 7 | Настя | Да, я не могу его бросить. | Yes, I cannot abandon him. | new | new: resolute stance |
-| 8 | Саша | Шеф будет в ярости, если узнает! | The chef will be furious if he finds out! | new | new: warning of danger |
-| 9 | Настя | Я спрячу гуся в безопасное место. | I will hide the goose in a safe place. | #271 00:17:40: перепрячу | adapted: protective plan |
-| 10 | Саша | Только делай это очень осторожно. | Just do it very carefully. | new | new: advising caution |
-| 11 | Настя | Его чуть не нашли гости. | The guests almost found him. | #267 00:17:22: в зал<br>#270 00:17:38: тебя здесь найдут | adapted: close call |
-| 12 | Саша | Унеси его с кухни прямо сейчас! | Carry him away from the kitchen right now! | #265 00:17:17: сюда и позвала | adapted: order to move |
-| 13 | Настя | Я найду для него тёплый угол. | I will find a warm corner for him. | #271 00:17:40: перепрячу | adapted: safe refuge |
-| 14 | Саша | И возвращайся скорее к работе! | And return to work quickly! | #266 00:17:19: Спасибо большое | adapted: back to shifts |
+| 0 | Настя | Саша, иди скорее сюда! | Sasha, come here quickly! | #265 "сюда и позвала" |  |
+| 1 | Саша | Что случилось, Настя? | What happened, Nastya? | #261 "на минуточку" |  |
+| 2 | Настя | Посмотри, в коробке сидит живой гусь! | Look, a live goose is sitting in the box! | #264 "гусь" |  |
+| 3 | Саша | Откуда здесь взялся этот гусь? | Where did this goose come from? | #264 "гусь" |  |
+| 4 | Настя | Шеф хотел приготовить из него блюдо. | The chef wanted to prepare a dish out of it. | *(added)* |  |
+| 5 | Саша | Ты решила спасти эту птицу? | Did you decide to save this bird? | *(added)* |  |
+| 6 | Настя | Да, я не могу его бросить. | Yes, I cannot abandon him. | *(added)* |  |
+| 7 | Саша | Шеф будет в ярости, если узнает! | The chef will be furious if he finds out! | *(added)* |  |
+| 8 | Настя | Я спрячу гуся в безопасное место. | I will hide the goose in a safe place. | #271 "перепрячу" |  |
+| 9 | Саша | Только делай это очень осторожно. | Just do it very carefully. | *(added)* |  |
+| 10 | Настя | Его чуть не нашли гости. | The guests almost found him. | #267 "в зал", #270 "тебя здесь найдут" |  |
+| 11 | Саша | Унеси его с кухни прямо сейчас! | Carry him away from the kitchen right now! | #265 "сюда и позвала" |  |
+| 12 | Настя | Я найду для него тёплый угол. | I will find a warm corner for him. | #271 "перепрячу" |  |
+| 13 | Саша | И возвращайся скорее к работе! | And return to work quickly! | #266 "Спасибо большое" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Sasha, come here quickly!' An imperative urging a coworker to approach immediately.
-- 'What happened, Nastya?' A direct question asking about the unexpected situation.
-- 'Look, a live goose is sitting in the box!' The imperative draws attention to the hidden bird.
-- 'Where did this goose come from?' An interrogative phrase asking about the origin of the animal.
-- 'The chef wanted to prepare a dish out of it.' The past-tense verb explains the culinary fate of the bird.
-- 'Did you decide to save this bird?' The feminine past verb asks about her rescue intentions.
-- 'Yes, I cannot abandon him.' The modal verb with negated infinitive expresses moral duty.
-- 'The chef will be furious if he finds out!' A conditional warning describing Barinov's temper.
-- 'I will hide the goose in a safe place.' The future verb states her plan to protect the animal.
-- 'Just do it very carefully.' Adverbs of degree and manner urge extreme stealth.
-- 'The guests almost found him.' The adverb meaning nearly explains the close call.
-- 'Carry him away from the kitchen right now!' A sharp imperative telling her to remove the bird.
-- 'I will find a warm corner for him.' Nastya uses the perfective verb meaning 'will find' to focus on the single completed result, pairing it with 'warm' and 'corner'.
-- 'And return to work quickly!' A practical reminder to resume waitressing duties. Alright, let's hear the whole thing once more.
+> Nastya successfully hustles the live goose out of the prep area, determined to keep him safe until her shift ends. Meanwhile in the dining hall, Chef Barinov is about to present a special birthday dish. See you next time!
+
+**Настя:** Пока!

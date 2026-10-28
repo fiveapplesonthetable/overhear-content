@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e19-scene-14"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e19-scene-14'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 19
 SCENE = 14
-TITLE = 'Розыгрыш с запиской и Максим Галкин  (The Note Prank and Maxim Galkin)'
+TITLE = "Розыгрыш с запиской и Максим Галкин  (The Note Prank and Maxim Galkin)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.19"
-SOURCE_FILE = "sources/kukhnya/s02/e19.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
+SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 
 INTRO = 'Holding a bouquet of flowers, Max arrives at the apartment address written in the note, expecting a secret rendezvous with his older admirer. When he steps inside the open door, Kostya, Senya, and Fedya jump out snapping photos and laughing that he is just like Maxim Galkin.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 14 of Episode 19, listen out for the exchange around the note prank and maxim galkin — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Ты прям как Максим Галкин.')
+OUTRO = 'That wraps up this scene as dressed up with flowers, Max goes to the address from the envelope expecting his wealthy admirer, only to find Kostya, Senya, and Fedya waiting to photograph and mock him. See you next time!'
+CLOSING = ("anya", "Всего хорошего!")

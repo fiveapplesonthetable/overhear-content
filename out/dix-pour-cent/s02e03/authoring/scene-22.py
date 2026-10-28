@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 22
-TITLE = "Le permis de conduire  (The Driving Test)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le permis de conduire  (The Driving Test)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "examinateur": "theo", "norman": "marcel"}
-LABELS = {"examinateur": "L'examinateur", "norman": "Norman"}
+VOICES = {'narrator': 'sky', 'examinateur': 'theo', 'norman': 'marcel'}
+LABELS = {'examinateur': "L'examinateur", 'norman': 'Norman'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "Inside the test vehicle, nervous candidate Norman Thavaud embarks on his fourth attempt at the practical driving exam. Guiding the car through busy city streets, Norman manages to keep his cool and successfully impresses the strict examiner. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = 'Norman celebrates a successful driving exam that opens the door to his new movie role. Remember the common conversational idiom for asking what someone means: vouloir dire. Until next time.'
-CLOSING = ("examinateur", "À demain!")
+OUTRO = 'Norman celebrates a successful driving exam that opens the door to his new movie role. Remember the common conversational idiom for asking what someone means: vouloir dire. See you next time!'
+CLOSING = ('examinateur', 'À demain!')
 STORY = [
     ('norman', "J'adore vraiment conduire.", 'I truly love driving.', [(562, "J'adore conduire")], ''),
     ('norman', 'Je pourrais rouler indéfiniment.', 'I could drive indefinitely.', [(563, 'Je pourrais conduire indéfiniment')], ''),

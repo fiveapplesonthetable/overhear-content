@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 30
-TITLE = "Désolée pour hier  (Sorry About Yesterday)"
-LEVEL = "A1 — débutant"
+TITLE = 'Désolée pour hier  (Sorry About Yesterday)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "mathias": "marcel"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'mathias': 'marcel'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "But the day before, Andréa and Gabriel had a furious row about those two actresses, and they said some hurtful things. First, young Hippolyte catches Andréa to ask about roles. Then she goes to find Gabriel. We'll hear it all in French first; just follow the feeling of it."
 OPENER = "Let's go back through it. Hippolyte, the young actor, wants to know which films Andréa could get him into, and one of them catches his eye."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "And just like that, the two friends are back together. When you watch, listen for 'me too' and the future tense of 'to take': you'll hear them clearly now. See you next time!"
-CLOSING = ("lea", "Bonne soirée!")
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('mathias', 'Un film de Tavernier? Super!', 'A Tavernier film? Great!', [(812, 'Un film de Tavernier'), (812, 'Super')], ''),
     ('lea', "Il n'y a pas de rôle pour toi.", 'There', [(813, "Il n'y a pas de rôle pour toi")], ''),

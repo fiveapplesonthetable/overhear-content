@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 2
 SCENE = 3
-TITLE = "Nouveaux bureaux  (New Offices)"
-LEVEL = "A1 — débutant"
+TITLE = 'Nouveaux bureaux  (New Offices)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "igor": "theo", "noemie": "emilie", "mathias": "marcel"}
-LABELS = {"igor": "Igor", "noemie": "Noémie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'igor': 'theo', 'noemie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'igor': 'Igor', 'noemie': 'Noémie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "At the sleek corporate headquarters of StarMedia, Mathias Barneville and Noemie Leclerc settle into their new executive production office. Excited by her promotion to head of development, Noemie decorates their shared workspace and looks forward to shaping ambitious film projects. However, when studio executive Igor de Serisy enters and casually hands her mundane reader reports, Noemie realizes old hierarchies die hard. Let's listen to the scene in French first."
 OPENER = "Let's observe as Noemie and Mathias encounter studio boss Igor in their new office."
 TRANSITION = "Now let's listen to Noemie, Mathias, and Igor talking again at full speed."
-OUTRO = "Though bruised by Igor de Serisy's dismissive task assignment, Noemie remains determined to prove her creative vision. When you watch the episode, listen out for the expressions meaning 'pretty' and 'plant'. You'll catch them now. See you next time."
-CLOSING = ("noemie", "Bonne journée!")
+OUTRO = "Though bruised by Igor de Serisy's dismissive task assignment, Noemie remains determined to prove her creative vision. When you watch the episode, listen out for the expressions meaning 'pretty' and 'plant'. You'll catch them now. See you next time!"
+CLOSING = ('noemie', 'Bonne journée!')
 STORY = [
     ('noemie', 'Voici une jolie plante pour notre bureau.', 'Here is a pretty plant for our office.', [(165, 'apporté une plante')], ''),
     ('noemie', "C'est l'endroit parfait pour travailler ensemble.", 'It is the perfect place to work together.', [(170, "l'endroit idéal pour travailler")], ''),

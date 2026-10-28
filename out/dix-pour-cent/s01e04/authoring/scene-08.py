@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 8
-TITLE = "Un acheteur allemand  (A German Buyer)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un acheteur allemand  (A German Buyer)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "helene": "emilie", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"helene": "Hélène", "mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'helene': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'helene': 'Hélène', 'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = 'She has news about the sale of the agency, and none of the agents are going to like it. Meanwhile, the boss of rival agency StarMédia is still pressing Mathias to jump ship. Listen to the French first without worrying about catching every word.'
 OPENER = "Let's walk through it step by step. Mathias arrives late and apologises to Hélène."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'A German buyer at the door, and Mathias tempted to leave for StarMédia. Next, we follow Mathias home for dinner with his wife Catherine. See you next time!'
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = 'A German buyer at the door, and Mathias tempted to leave for StarMédia. See you next time!'
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('mathias', "Désolé. Vous savez ce que c'est, les actrices.", 'Sorry. You know what actresses are like.', [(211, "Désolé. Vous savez ce que c'est, les actrices")], ''),
     ('helene', "Samuel était l'expert. Une de ses anciennes amies veut voir son testament.", 'Samuel was the expert. One of his old friends wants to see his will.', [(212, "Samuel était l'expert"), (213, 'Une de ses anciennes'), (214, 'son testament')], ''),

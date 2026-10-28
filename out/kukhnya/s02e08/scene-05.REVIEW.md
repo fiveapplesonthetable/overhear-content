@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I knew she would like it.' Notice the reflexive suffix on the verb meaning 'will please', turning the action back on the subject.
+- 'I knew she would like it.' Notice how Russian puts 'knew' and 'will please, you'll like it' together in a short, direct phrase where word endings show how the ideas connect.
 - 'In full detail. Just as I knew.' Here the Russian phrasing highlights 'detail' before landing on 'knew'.
 - 'I told you, slowly and in full detail.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'detail'. Max answers right away.
 - 'No problem at all.' The grammar packs 'yes' and 'question' into a tight, idiomatic kitchen exchange.

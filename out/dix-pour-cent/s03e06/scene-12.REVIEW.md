@@ -27,5 +27,5 @@
 | 13 | `isabelle` (Isabelle) | Parfait, je peux enfin jouer ce rôle. | Perfect, I can finally play this role. | 615:Et peut-être que comme ça, Isabelle, elle pourra un petit peu s'épanouir |
 
 ## Part 5 — Outro & Closing
-> Camille's quick artistic instincts resolve an impasse between director and actress. When you watch the episode, listen out for the expressions meaning 'pallor' and 'spectral'. You'll catch them now. See you next time.
+> Camille's quick artistic instincts resolve an impasse between director and actress. When you watch the episode, listen out for the expressions meaning 'pallor' and 'spectral'. You'll catch them now. See you next time!
 - **Closing**: `isabelle`: *Au revoir!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 3
 SCENE = 17
-TITLE = "Croiser Guy Marchand  (Crossing Paths with Guy Marchand)"
-LEVEL = "A1 — débutant"
+TITLE = 'Croiser Guy Marchand  (Crossing Paths with Guy Marchand)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "guy": "marcel", "lea": "lucie"}
-LABELS = {"guy": "Guy", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'guy': 'marcel', 'lea': 'lucie'}
+LABELS = {'guy': 'Guy', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At the agency, Andrea bumps into veteran actor Guy Marchand, who casually reveals he saw her on Avenue de Trudaine earlier. To protect her confidential agency meetings, Andrea invents a story about apartment hunting, before teasing Guy about his tarot card reader. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "With quick thinking and charm, Andrea deflects suspicion while keeping her colorful client Guy Marchand on track. When you watch the episode, listen out for the expressions meaning 'leave' and 'are you doing'. You'll catch them now. See you next time."
-CLOSING = ("guy", "Bonne soirée!")
+OUTRO = "With quick thinking and charm, Andrea deflects suspicion while keeping her colorful client Guy Marchand on track. When you watch the episode, listen out for the expressions meaning 'leave' and 'are you doing'. You'll catch them now. See you next time!"
+CLOSING = ('guy', 'Bonne soirée!')
 STORY = [
     ('guy', 'Andréa, on ne se quitte plus!', 'Andrea, we never leave each other anymore!', [(1049, "On n'arrête pas de se voir")], ''),
     ('lea', "Bonjour Guy, comment vas-tu aujourd'hui?", 'Hello Guy, how are you today?', [(1048, 'Guy, bah ça alors')], ''),

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Минуточку внимания. | May I have your attention for a minute. | #96 00:06:30: Минуточку внимания | verbatim |
+| 1 | Шеф | Минуточку внимания. | May I have your attention for a minute. | #96 00:06:30: Минуточку внимания | verbatim |
 | 2 | Вика | В общем, новости такие. | Anyway, here is the news. | #97 00:06:32: В общем, новости такие | verbatim |
-| 3 | Илья | Виктора Петровича не будет еще две недели. | Viktor Petrovich will be away for another two weeks. | #98 00:06:34: Виктора Петровича не будет еще две недели | verbatim |
-| 4 | Аня | Он же целый месяц не работает. | He has not worked for a whole month already. | #100 00:06:41: Он же целый месяц не работает | verbatim |
+| 3 | Шеф | Виктора Петровича не будет еще две недели. | Viktor Petrovich will be away for another two weeks. | #98 00:06:34: Виктора Петровича не будет еще две недели | verbatim |
+| 4 | Шеф | Он же целый месяц не работает. | He has not worked for a whole month already. | #100 00:06:41: Он же целый месяц не работает | verbatim |
 | 5 | Вика | Теперь еще пивка поехал попить. | And now he has gone off to drink beer on vacation. | #101 00:06:44: Теперь еще пивка поехал попить | verbatim |
-| 6 | Илья | Как тебе не стыдно? | How can you not be ashamed of yourself? | #102 00:06:46: Как тебе не стыдно | verbatim |
-| 7 | Аня | Как мы можем так говорить? | How could we possibly talk like that? | #103 00:06:49: Как мы можем так говорить | verbatim |
+| 6 | Шеф | Как тебе не стыдно? | How can you not be ashamed of yourself? | #102 00:06:46: Как тебе не стыдно | verbatim |
+| 7 | Шеф | Как мы можем так говорить? | How could we possibly talk like that? | #103 00:06:49: Как мы можем так говорить | verbatim |
 | 8 | Вика | Он болен, ему нужно лечиться. | He is sick and he needs medical treatment. | #104 00:06:51: Он болен, ему нужно лечиться | verbatim |
-| 9 | Илья | Чего вы ржете? | What are you all laughing at? | #105 00:06:57: Чего вы ржете | verbatim |
-| 10 | Аня | Что бы я без тебя делал? | What would I ever do without you? | #106 00:07:01: Что бы я без тебя делал | verbatim |
+| 9 | Шеф | Чего вы ржете? | What are you all laughing at? | #105 00:06:57: Чего вы ржете | verbatim |
+| 10 | Шеф | Что бы я без тебя делал? | What would I ever do without you? | #106 00:07:01: Что бы я без тебя делал | verbatim |
 | 11 | Вика | Ладно, ладно, ладно. | Alright, alright, alright. | #107 00:07:07: Ладно, ладно, ладно | verbatim |
-| 12 | Илья | Ну все. | That is enough. | #107 00:07:07: Ну все | verbatim |
-| 13 | Аня | Ну что вы тут? | So how are you doing in here? | #110 00:07:14: Ну что вы тут | verbatim |
+| 12 | Шеф | Ну все. | That is enough. | #107 00:07:07: Ну все | verbatim |
+| 13 | Шеф | Ну что вы тут? | So how are you doing in here? | #110 00:07:14: Ну что вы тут | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

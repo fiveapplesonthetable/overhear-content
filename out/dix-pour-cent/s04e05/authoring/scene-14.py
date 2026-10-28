@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 14
-TITLE = "Culpabilité  (Guilt)"
-LEVEL = "A1 — débutant"
+TITLE = 'Culpabilité  (Guilt)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "camille": "emilie"}
-LABELS = {"herve": "Hervé", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'camille': 'emilie'}
+LABELS = {'herve': 'Hervé', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Camille feels horribly guilty about Mathias being hospitalized after their intense confrontation. To help distract her, Herve plays a board game with her in the agency office. Let's listen to their conversation in French first."
 OPENER = "Let's walk through it."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around guilt, and for the words meaning 'goes' and 'devastated'. You'll catch them now. See you next time."
-CLOSING = ("camille", "Au revoir.")
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around guilt, and for the words meaning 'goes' and 'devastated'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'Au revoir.')
 STORY = [
     ('herve', 'Ça va?', 'Are you okay?', [(642, 'Ça va')], ''),
     ('camille', 'Je suis dévastée.', 'I am devastated.', [(643, 'Je suis dévastée')], ''),
@@ -28,7 +28,7 @@ STORY = [
     ('herve', "C'est faux!", 'That is false!', [(663, "C'est faux")], ''),
     ('herve', 'Tout le monde a failli tuer ton père.', 'Everyone has almost killed your father.', [(664, 'Tout le monde a failli tuer ton père')], ''),
     ('herve', "Il a l'habitude.", 'He is used to it.', [(664, "il a l'habitude")], ''),
-    ('herve', "Tu viens d'appeler Mathias 'papa'.", 'You just called Mathias ', [(666, 'Tu viens d\'appeler Mathias "papa"')], ''),
+    ('herve', "Tu viens d'appeler Mathias 'papa'.", 'You just called Mathias', [(666, 'Tu viens d\'appeler Mathias "papa"')], ''),
     ('camille', 'Un, deux, trois, quatre...', 'One, two, three, four...', [(667, 'Un, deux, trois, quatre')], ''),
     ('herve', "Tu récupères l'argent.", 'You get the money.', [(669, 'tu récupères')], ''),
 ]

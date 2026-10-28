@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e05-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 5
 SCENE = 18
-TITLE = 'Новая машина для Вики  (A New Car for Vika)'
+TITLE = "Новая машина для Вики  (A New Car for Vika)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa", "kostya": "anja"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.05'
 SOURCE_FILE = 'sources/kukhnya/s03/e05.ru.srt'
 
 INTRO = "Outside the restaurant, Nagiyev proudly shows Max and Kostya a brand-new convertible that he bought for Vika, thanking Max for yesterday's advice. Listen to the full conversation in Russian first, and then we will walk through every line together."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max's trick has backfired spectacularly: instead of giving up on Vika, Nagiyev bought her a luxury car."
-CLOSING = ('nagiyev', 'Здравствуйте, дорогие гости!')
+OUTRO = "Max's trick has backfired spectacularly: instead of giving up on Vika, Nagiyev bought her a luxury car. See you next time!"
+CLOSING = ("nagiyev", "Всего хорошего!")

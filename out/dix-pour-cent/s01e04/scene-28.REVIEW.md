@@ -27,5 +27,5 @@
 | 13 | `sofia` (Sofia) | Merci! Je t'aime, je t'aime! | Thank you! I love you, I love you! | 754:Je t'aime, je t'aime |
 
 ## Part 5 — Outro & Closing
-> Sofia has her very first film role, and Gabriel is a proud agent. Remember how 'I got the part' is said in French: 'I have had the role'. See you next time.
+> Sofia has her very first film role, and Gabriel is a proud agent. Remember how 'I got the part' is said in French: 'I have had the role'. See you next time!
 - **Closing**: `sofia`: *Bonne soirée!*

@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | О, грибы! Мне один дурак на корпоративе дал. | Oh, mushrooms! Some fool gave them to me at an office party. | #55 00:03:39: О, грибы<br>#56 00:03:42: Мне один дурак на корпоративе дал | adapted: adapted |
-| 2 | Аня | Крылья, говорит, прямо вырастают. | Wings, he says, sprout right out. | #57 00:03:47: крылья, говорит<br>#57 00:03:47: вырастают | adapted: adapted |
-| 3 | Аня | Будешь себя отлично чувствовать. | You will feel great. | #58 00:03:51: будешь себя чувствовать | adapted: adapted |
+| 1 | Нагиев | О, грибы! Мне один дурак на корпоративе дал. | Oh, mushrooms! Some fool gave them to me at an office party. | #55 00:03:39: О, грибы<br>#56 00:03:42: Мне один дурак на корпоративе дал | adapted: adapted |
+| 2 | Нагиев | Крылья, говорит, прямо вырастают. | Wings, he says, sprout right out. | #57 00:03:47: крылья, говорит<br>#57 00:03:47: вырастают | adapted: adapted |
+| 3 | Нагиев | Будешь себя отлично чувствовать. | You will feel great. | #58 00:03:51: будешь себя чувствовать | adapted: adapted |
 | 4 | Илья | Мне двадцать четыре. | I am twenty-four. | #59 00:03:55: Мне | adapted: adapted |
-| 5 | Аня | Ты не умничай. Понял? | Don't be a smart-aleck. Got it? | #59 00:03:55: Ты не умничай<br>#60 00:03:57: Понял | adapted: adapted |
-| 6 | Аня | Илюша, приготовь мне что-нибудь праздничное. | Ilyusha, prepare something festive for me. | #61 00:03:59: Илюша, приготовь мне что-нибудь праздничное | adapted: adapted |
-| 7 | Аня | Сделай. Давай. | Make it. Go on. | #62 00:04:03: Сделай<br>#63 00:04:05: Давай | adapted: adapted |
-| 8 | Шеф | А вы что тут столпились? | And why have you crowded around here? | #64 00:04:08: А вы что тут столпились | verbatim |
+| 5 | Нагиев | Ты не умничай. Понял? | Don't be a smart-aleck. Got it? | #59 00:03:55: Ты не умничай<br>#60 00:03:57: Понял | adapted: adapted |
+| 6 | Нагиев | Илюша, приготовь мне что-нибудь праздничное. | Ilyusha, prepare something festive for me. | #61 00:03:59: Илюша, приготовь мне что-нибудь праздничное | adapted: adapted |
+| 7 | Нагиев | Сделай. Давай. | Make it. Go on. | #62 00:04:03: Сделай<br>#63 00:04:05: Давай | adapted: adapted |
+| 8 | Илья | А вы что тут столпились? | And why have you crowded around here? | #64 00:04:08: А вы что тут столпились | verbatim |
 | 9 | Илья | Здравствуйте, шеф. | Hello, Chef. | #65 00:04:11: Здравствуйте, шеф | verbatim |
-| 10 | Шеф | Опять ерундой занимаетесь? | Are you messing around with nonsense again? | #65 00:04:11: Опять ерундой занимаетесь | verbatim |
+| 10 | Илья | Опять ерундой занимаетесь? | Are you messing around with nonsense again? | #65 00:04:11: Опять ерундой занимаетесь | verbatim |
 | 11 | Илья | Шеф, это не ерунда, это большая игра. | Chef, this is not nonsense, this is a big game. | #66 00:04:13: Шеф, это не ерунда, это большая игра | verbatim |
 | 12 | Илья | Открытый чемпионат кухни по сбиванию банок. Солидные деньги на кону. | The open kitchen can-knocking championship. Serious money is at stake. | #67 00:04:16: Открытый чемпионат кухни<br>#67 00:04:16: банок<br>#68 00:04:21: Солидные деньги на кону | adapted: adapted |
 
@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Make it. Go on.' The meaning hinges on 'make' working together with 'come on' in spoken Russian.
 - 'And why have you crowded around here?' The plural past ending '-li' on the verb for 'crowded around' covers a group or the polite 'you'. Ilya answers right away.
 - 'Hello, Chef.' Spoken Russian keeps this brisk, leaning on 'hello' and finishing on 'hello'.
-- 'Are you messing around with nonsense again?' Notice the reflexive suffix on the verb meaning 'are engaged in', turning the action back on the subject.
+- 'Are you messing around with nonsense again?' In spoken Russian, the words stay in their normal statement order and Chef Barinov's rising voice at the end turns the line into a question.
 - 'Chef, this is not nonsense, this is a big game.' Here the Russian phrasing highlights 'Chef Barinov' before landing on 'game'.
 - 'The open kitchen can-knocking championship. Serious money is at stake.' Ilya brings out the contrast between 'open' and 'championship' in a few short words.

@@ -28,5 +28,5 @@
 | 14 | `vera` (Véra) | Parfait, continuons cette belle répétition ensemble. | Perfect, let us continue this fine rehearsal together. | 810:Je suis content que vous le réalisiez. |
 
 ## Part 5 — Outro & Closing
-> By trading roles, Guy and Hippolyte rediscover their theatrical chemistry and mutual respect. Let's review the cinema and acting vocabulary from this rehearsal. Until next time.
+> By trading roles, Guy and Hippolyte rediscover their theatrical chemistry and mutual respect. Let's review the cinema and acting vocabulary from this rehearsal. See you next time!
 - **Closing**: `guy`: *Au revoir!*

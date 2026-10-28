@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Что именно я ей сейчас скажу? | What exactly will I say to her now? | #15 00:00:59: Что я ей скажу | adapted: adapted |
-| 2 | Аня | Спрашивать так в лоб очень глупо. | Asking her so bluntly is very foolish. | #16 00:01:01: Это глупо | adapted: adapted |
-| 3 | Костя | Даже совсем глупо, я бы сказал. | Even completely foolish, I would say. | #17 00:01:03: я бы сказал | adapted: adapted |
-| 4 | Аня | Слушай, может быть, я просто уеду? | Listen, maybe I will just go away? | #19 00:01:19: Слушай, может я уеду | adapted: adapted |
-| 5 | Костя | Тогда она точно выйдет за Никиту. | Then she will definitely marry Nikita. | #20 00:01:22: за Никиту выйдет | adapted: adapted |
-| 6 | Аня | Я скажу, что уезжаю отсюда навсегда. | I will say that I am leaving here forever. | #21 00:01:23: уезжаю навсегда | adapted: adapted |
-| 7 | Аня | Потом внимательно посмотрю на её реакцию. | Then I will look closely at her reaction. | #21 00:01:23: посмотрю на ее реакцию | adapted: adapted |
-| 8 | Аня | Так я пойму, как она относится. | That way I will understand how she feels. | #22 00:01:27: как она ко мне относится | adapted: adapted |
-| 9 | Костя | Слушай, а ведь это хороший план. | Listen, that is actually a good plan. | #23 00:01:31: Хороший план | adapted: adapted |
-| 10 | Аня | Мне осталось только со Светой разобраться. | I only have left to sort things out with Sveta. | #25 00:01:35: со Светкой разобраться | adapted: adapted |
-| 11 | Шеф | Месть подают к столу только холодной. | Revenge is served to the table only cold. | #27 00:02:01: Месть это блюдо | adapted: adapted |
-| 12 | Шеф | И желательно подавать её с кровью. | And preferably it should be served rare. | #28 00:02:07: И желательно с кровью | adapted: adapted |
-| 13 | Шеф | Ладно, давай быстро заканчиваем наш разговор. | Alright, let us quickly finish our conversation. | #29 00:02:10: Заканчиваем | adapted: adapted |
+| 1 | Денис | Что именно я ей сейчас скажу? | What exactly will I say to her now? | #15 00:00:59: Что я ей скажу | adapted: adapted |
+| 2 | Денис | Спрашивать так в лоб очень глупо. | Asking her so bluntly is very foolish. | #16 00:01:01: Это глупо | adapted: adapted |
+| 3 | Денис | Даже совсем глупо, я бы сказал. | Even completely foolish, I would say. | #17 00:01:03: я бы сказал | adapted: adapted |
+| 4 | Денис | Слушай, может быть, я просто уеду? | Listen, maybe I will just go away? | #19 00:01:19: Слушай, может я уеду | adapted: adapted |
+| 5 | Денис | Тогда она точно выйдет за Никиту. | Then she will definitely marry Nikita. | #20 00:01:22: за Никиту выйдет | adapted: adapted |
+| 6 | Денис | Я скажу, что уезжаю отсюда навсегда. | I will say that I am leaving here forever. | #21 00:01:23: уезжаю навсегда | adapted: adapted |
+| 7 | Денис | Потом внимательно посмотрю на её реакцию. | Then I will look closely at her reaction. | #21 00:01:23: посмотрю на ее реакцию | adapted: adapted |
+| 8 | Денис | Так я пойму, как она относится. | That way I will understand how she feels. | #22 00:01:27: как она ко мне относится | adapted: adapted |
+| 9 | Денис | Слушай, а ведь это хороший план. | Listen, that is actually a good plan. | #23 00:01:31: Хороший план | adapted: adapted |
+| 10 | Денис | Мне осталось только со Светой разобраться. | I only have left to sort things out with Sveta. | #25 00:01:35: со Светкой разобраться | adapted: adapted |
+| 11 | Денис | Месть подают к столу только холодной. | Revenge is served to the table only cold. | #27 00:02:01: Месть это блюдо | adapted: adapted |
+| 12 | Денис | И желательно подавать её с кровью. | And preferably it should be served rare. | #28 00:02:07: И желательно с кровью | adapted: adapted |
+| 13 | Денис | Ладно, давай быстро заканчиваем наш разговор. | Alright, let us quickly finish our conversation. | #29 00:02:10: Заканчиваем | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 25
 TITLE = "Une nouvelle vie à l'agence  (A New Life at the Agency)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie", "camille": "emilie"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie', 'camille': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "Immediately following the dramatic birth at ASK, Andrea rests with her newborn while Mathias quietly cleans the office floor in the dead of night. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this touching resolution in the aftermath of the birth step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "After Andrea welcomes her newborn daughter, Mathias quietly cleans the office floor in the dead of night, joined by his daughter Camille in a poignant moment of unity. When you watch the episode, listen out for the expressions meaning 'hold it' and 'embrace'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "After Andrea welcomes her newborn daughter, Mathias quietly cleans the office floor in the dead of night, joined by his daughter Camille in a poignant moment of unity. When you watch the episode, listen out for the expressions meaning 'hold it' and 'embrace'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('mathias', 'Prenez-le doucement dans vos bras.', 'Take him gently in your arms.', [(1369, 'Agnez-le')], ''),
     ('mathias', 'Il sort tout seul maintenant.', 'He is coming out on his own now.', [(1370, 'il va sortir tout seul')], ''),

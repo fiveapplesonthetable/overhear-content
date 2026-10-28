@@ -1,30 +1,30 @@
 ID = 'kukhnya-s05e07-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 7
 SCENE = 6
 TITLE = "Долг Лёве мясом  (Paying Lyova's Debt in Meat)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
+LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.07'
 SOURCE_FILE = 'sources/kukhnya/s05/e07.ru.srt'
 
 INTRO = 'In the kitchen, Senya apologizes to Katya for the bra mix-up while his wife Marina calls him nonstop to check up on him. Meanwhile, Lyova warns Barinov that the meat only has a one-month shelf life, inspiring Barinov to pay off his debt to Lyova in pork.'
 
 STORY = [
-    ('senya', 'Кать, прости, пожалуйста, неудобно получилось.', 'Katya, forgive me, please, that turned out awkward.', [(98, 'Кать, ну прости, пожалуйста, неудобно'), (98, 'получилось')], 'adapted'),
+    ('lyova', 'Кать, прости, пожалуйста, неудобно получилось.', 'Katya, forgive me, please, that turned out awkward.', [(98, 'Кать, ну прости, пожалуйста, неудобно'), (98, 'получилось')], 'adapted'),
     ('lyova', 'А лифчик мой у себя в носках прятать удобно?', 'And hiding my bra in your socks was convenient?', [(99, 'мой, у себя в носках прятать удобно')], 'adapted'),
     ('lyova', 'Простила тебя твоя Маринка?', 'Did your Marinka forgive you?', [(101, 'тебя твоя Маринка')], 'adapted'),
-    ('senya', 'Она как в отпуск вышла, прямо не продохнуть от неё.', 'Ever since she went on vacation, I cannot catch a breath around her.', [(102, 'Она как в отпуск вышла'), (102, 'не продохнуть от нее')], 'adapted'),
+    ('lyova', 'Она как в отпуск вышла, прямо не продохнуть от неё.', 'Ever since she went on vacation, I cannot catch a breath around her.', [(102, 'Она как в отпуск вышла'), (102, 'не продохнуть от нее')], 'adapted'),
     ('lyova', 'Шеф, нужно срочно что-то делать с этим мясом.', 'Chef, we urgently need to do something with this meat.', [(107, 'Шеф, нужно срочно что-то делать с этим мясом')], 'adapted'),
     ('lyova', 'У него срок годности месяц.', 'Its shelf life is one month.', [(108, 'У него срок годности месяц')], 'adapted'),
-    ('anya', 'Лёва, я же тебе денег должен.', 'Lyova, I owe you money, after all.', [(109, 'Лева, я же тебе денег должен')], 'adapted'),
+    ('chef', 'Лёва, я же тебе денег должен.', 'Lyova, I owe you money, after all.', [(109, 'Лева, я же тебе денег должен')], 'adapted'),
     ('lyova', 'Не к спеху.', 'There is no rush.', [(110, 'Не к спеху')], 'adapted'),
-    ('anya', 'Нет, Лёва, нет.', 'No, Lyova, no.', [(110, 'Нет, Лева, нет')], 'adapted'),
-    ('anya', 'Баринов всегда платит свои долги.', 'Barinov always pays his debts.', [(113, 'Всегда платит свои долги')], 'adapted'),
-    ('anya', 'Не надо, не благодари меня.', 'No need, do not thank me.', [(114, 'Не надо, не благодари меня')], 'adapted'),
+    ('chef', 'Нет, Лёва, нет.', 'No, Lyova, no.', [(110, 'Нет, Лева, нет')], 'adapted'),
+    ('chef', 'Баринов всегда платит свои долги.', 'Barinov always pays his debts.', [(113, 'Всегда платит свои долги')], 'adapted'),
+    ('chef', 'Не надо, не благодари меня.', 'No need, do not thank me.', [(114, 'Не надо, не благодари меня')], 'adapted'),
     ('lyova', 'Спасибо большое, шеф.', 'Thank you very much, Chef.', [(107, 'Шеф')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With the cooler still overflowing with pork and beef, Barinov comes up with a bold promotional stunt for the restaurant. See you in the next scene.'
-CLOSING = ('anya', 'Забирай всё это мясо себе.')
+OUTRO = 'With the cooler still overflowing with pork and beef, Barinov comes up with a bold promotional stunt for the restaurant. See you next time!'
+CLOSING = ("chef", "Пока!")

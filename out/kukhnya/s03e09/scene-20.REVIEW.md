@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Forgive me for yesterday.' Notice how Russian expresses 'forgive' and 'day' with crisp inflection rather than helper words.
 - 'Thank you for not filing a police report.' The meaning hinges on 'thank you' working together with 'statement' in spoken Russian. Max answers right away.
 - 'Alright, Chef, it is all behind us now.' Max brings out the contrast between 'well' and 'everything' in a few short words.
-- 'I got a sobriety implant because of you!' Notice the reflexive suffix on the verb meaning 'got an anti-alcohol implant', turning the action back on the subject.
+- 'I got a sobriety implant because of you!' Spoken Russian keeps this brief and expressive, built right around 'got an anti-alcohol implant' without extra helper words.
 - 'Easy, Chef, just take it easy, please!' Notice how Russian expresses 'calmly' and 'ask for' with crisp inflection rather than helper words. Chef Barinov answers right away.
 - 'I will kill you, get over here!' The meaning hinges on 'I' working together with 'here' in spoken Russian.

@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | C'est le plus beau jour! | It is the most beautiful day! | 949:Mon étoile montante |
 
 ## Part 5 — Outro & Closing
-> Thrilled by Vero's secret news, Herve gazes into the dressing room mirror like a true cinema star. When you watch the episode, listen out for the expressions meaning 'busy' and 'ready'. You'll catch them now. See you next time.
+> Thrilled by Vero's secret news, Herve gazes into the dressing room mirror like a true cinema star. When you watch the episode, listen out for the expressions meaning 'busy' and 'ready'. You'll catch them now. See you next time!
 - **Closing**: `vero`: *À demain!*

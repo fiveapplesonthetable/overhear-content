@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 23
-TITLE = "Le dernier verre  (The Last Drink)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le dernier verre  (The Last Drink)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie", "camille": "emilie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie', 'camille': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "The agents gather one last time in the empty ASK office to drink champagne, reflect on their journey together, and say goodbye as they discuss their plans for the future. Let's listen to the whole story in French first — don't worry about catching every word."
 OPENER = "Let's walk through it together."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "They raise their glasses one last time, and turn off the lights. When you watch the episode, listen out for the expressions meaning 'finished' and 'agency'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir.")
+OUTRO = "They raise their glasses one last time, and turn off the lights. When you watch the episode, listen out for the expressions meaning 'finished' and 'agency'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir.')
 STORY = [
     ('gabriel', "C'est fini alors?", 'Is it over then?', [(965, "C'est fini alors")], ''),
     ('lea', "L'agence, oui.", 'The agency, yes.', [(966, "L'agence, oui")], ''),

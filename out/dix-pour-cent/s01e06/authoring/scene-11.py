@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 11
-TITLE = "Notre père  (Our Father)"
-LEVEL = "A1 — débutant"
+TITLE = 'Notre père  (Our Father)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hippolyte": "theo", "camille": "emilie", "serveur": "marcel"}
-LABELS = {"hippolyte": "Hippolyte", "camille": "Camille", "serveur": "Le serveur"}
+VOICES = {'narrator': 'sky', 'hippolyte': 'theo', 'camille': 'emilie', 'serveur': 'marcel'}
+LABELS = {'hippolyte': 'Hippolyte', 'camille': 'Camille', 'serveur': 'Le serveur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Refusing to visit the agency while his father Mathias is there, Hippolyte asks Camille to meet him at a cafe. Sitting outside on a cold Paris afternoon, the two half-siblings sign contracts, talk about their shared father, and invent a warm new friendship. Let's listen to the scene in French first."
 OPENER = 'Camille and Hippolyte break the ice. Let us examine their lines together.'
 TRANSITION = 'Now listen to their cafe conversation once more from start to finish.'
-OUTRO = 'Having made peace with their unusual family bond, Camille and Hippolyte raise their cups together. Meanwhile, Andréa drives out to the countryside to track down François Berléand. Here is our final toast. Until next time.'
-CLOSING = ("camille", "Bonne soirée!")
+OUTRO = 'Having made peace with their unusual family bond, Camille and Hippolyte raise their cups together. Here is our final toast. See you next time!'
+CLOSING = ('camille', 'Bonne soirée!')
 STORY = [
     ('hippolyte', 'Mon père est là?', 'Is my father there?', [(288, 'Mon père est là')], ''),
     ('camille', 'Oui.', 'Yes.', [(289, 'Oui')], ''),

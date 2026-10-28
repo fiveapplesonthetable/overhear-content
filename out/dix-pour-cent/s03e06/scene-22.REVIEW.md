@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | J'étais très fière d'être votre agent! | I was very proud to be your agent! | 1217:très fière |
 
 ## Part 5 — Outro & Closing
-> Corinne's raw emotional honesty saves the day for ASK, turning a potential disaster into a triumphant celebration. When you watch the episode, listen out for the expressions meaning 'first' and 'film'. You'll catch them now. See you next time.
+> Corinne's raw emotional honesty saves the day for ASK, turning a potential disaster into a triumphant celebration. When you watch the episode, listen out for the expressions meaning 'first' and 'film'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | C'est le début d'un grand succès. | It is the beginning of a great success. | adapted |
 
 ## Part 5 — Outro & Closing
-> Sofia has dazzled Julien Dore in the recording studio, opening the door to a music career. Gabriel watches with joy as Sofia's artistic dream begins to take flight. Join us next time to see what happens next.
+> Sofia has dazzled Julien Dore in the recording studio, opening the door to a music career. Gabriel watches with joy as Sofia's artistic dream begins to take flight. See you next time!
 - **Closing**: `sofia`: *Bonne soirée!*

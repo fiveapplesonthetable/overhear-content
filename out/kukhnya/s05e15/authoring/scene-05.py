@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e15-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 15
 SCENE = 5
 TITLE = "Хитрость Макса с меню  (Max's Trick with the Menu)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.15'
 SOURCE_FILE = 'sources/kukhnya/s05/e15.ru.srt'
 
 INTRO = 'Seeing Vika stressed in the kitchen over how to make an edible menu from scratch, Max offers his help, and when she stubbornly refuses, he uses reverse psychology so she orders him to do it.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Even after their divorce, Max and Vika still know each other's habits better than anyone else. See you in the next scene."
-CLOSING = ('anya', 'Давай я сам это сделаю.')
+OUTRO = "Even after their divorce, Max and Vika still know each other's habits better than anyone else. Until next time!"
+CLOSING = ("anya", "Всего хорошего!")

@@ -27,5 +27,5 @@
 | 13 | `sofia` (Sofia) | Que la séance commence enfin, Gabriel! | Let the screening finally begin, Gabriel! | 875:bon film. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the film premiere. When you watch the episode, listen out for the expressions meaning 'good evening' and 'to be'. You'll catch them now. See you next time.
+> That's it for this scene around the film premiere. When you watch the episode, listen out for the expressions meaning 'good evening' and 'to be'. You'll catch them now. See you next time!
 - **Closing**: `sofia`: *Bonne journée!*

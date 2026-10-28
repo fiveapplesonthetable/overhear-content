@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 1
 SCENE = 11
 TITLE = "La visite de l'agence  (A Tour of the Agency)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "noemie": "emilie", "lea": "lucie"}
-LABELS = {"herve": "Hervé", "noemie": "Noémie", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'noemie': 'emilie', 'lea': 'lucie'}
+LABELS = {'herve': 'Hervé', 'noemie': 'Noémie', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Then she left Camille with two assistants, Hervé and Noémie, who give her the tour, and a lot of gossip with it. Here's the story in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's take it slowly. Camille starts by asking Noémie a question, and she uses the polite form, because they have only just met."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Well done, that was a busy tour. When you watch, listen for the polite and the casual 'you', and for that little word that means 'here is'. Until next time."
-CLOSING = ("lea", "À plus!")
+OUTRO = "Well done, that was a busy tour. When you watch, listen for the polite and the casual 'you', and for that little word that means 'here is'. See you next time!"
+CLOSING = ('lea', 'À plus!')
 STORY = [
     ('lea', "Vous êtes l'assistante de Mathias Barneville?", 'Are you Mathias Barneville', [(335, "Vous êtes l'assistante de Mathias Barneville")], ''),
     ('noemie', 'Oui. Il est très sympa.', "Yes. He's very nice.", [(336, 'Oui'), (337, 'Très sympa')], ''),

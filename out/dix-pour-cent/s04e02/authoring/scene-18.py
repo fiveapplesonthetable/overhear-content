@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 2
 SCENE = 18
 TITLE = "Le frère jumeau d'Ozon  (Ozon's Twin Brother)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "franck": "marcel"}
-LABELS = {"sofia": "Sofia", "franck": "Franck"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'franck': 'marcel'}
+LABELS = {'sofia': 'Sofia', 'franck': 'Franck'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "At the lively apartment party, Franck Dubosc shares a private laugh with young actress Sophia. Mischievously deadpanning, Franck invents a wild story about director Francois Ozon sharing directing duties with a secret twin brother. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "With laughter and playful banter, Franck Dubosc brings warmth and joy to the gathering. When you watch the episode, listen out for the expressions meaning 'spoken' and 'next'. You'll catch them now. See you next time."
-CLOSING = ("sofia", "Bonne journée!")
+OUTRO = "With laughter and playful banter, Franck Dubosc brings warmth and joy to the gathering. When you watch the episode, listen out for the expressions meaning 'spoken' and 'next'. You'll catch them now. See you next time!"
+CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('franck', "Camille t'a parlé du prochain film?", 'Did Camille tell you about the next film?', [(984, "Camille t'a dit")], ''),
     ('sofia', 'Oui, le projet avec Fabrice Luchini!', 'Yes, the project with Fabrice Luchini!', [(984, 'film avec Luchini')], ''),

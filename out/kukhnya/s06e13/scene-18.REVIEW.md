@@ -10,14 +10,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Никита, я очень хорошо обо всём подумала. | Nikita, I thought very carefully about everything. | #251 00:18:34: я подумала | adapted: adapted |
-| 2 | Аня | Я согласна с твоим вчерашним предложением. | I agree with your proposal from yesterday. | #251 00:18:34: я согласна с твоим предложением | adapted: adapted |
-| 3 | Аня | Я согласна выйти за тебя замуж. | I agree to marry you. | #252 00:18:40: замуж | adapted: adapted |
+| 1 | Катя | Никита, я очень хорошо обо всём подумала. | Nikita, I thought very carefully about everything. | #251 00:18:34: я подумала | adapted: adapted |
+| 2 | Катя | Я согласна с твоим вчерашним предложением. | I agree with your proposal from yesterday. | #251 00:18:34: я согласна с твоим предложением | adapted: adapted |
+| 3 | Катя | Я согласна выйти за тебя замуж. | I agree to marry you. | #252 00:18:40: замуж | adapted: adapted |
 | 4 | Никита | Катя, ты говоришь мне сейчас правду? | Katya, are you telling me the truth right now? | #253 00:18:45: Правда | adapted: adapted |
-| 5 | Аня | Да, это действительно чистая правда. | Yes, this is truly the honest truth. | #253 00:18:45: Да, правда | adapted: adapted |
+| 5 | Катя | Да, это действительно чистая правда. | Yes, this is truly the honest truth. | #253 00:18:45: Да, правда | adapted: adapted |
 | 6 | Никита | Послушайте, я хочу поделиться с вами радостью. | Listen, I want to share my joy with you. | #256 00:18:56: я хочу поделиться с вами радостью | adapted: adapted |
 | 7 | Никита | Катя согласилась стать моей любимой женой. | Katya agreed to become my beloved wife. | #258 00:19:01: Катя согласилась стать моей женой | adapted: adapted |
-| 8 | Аня | Пожалуйста, хватит, на нас люди смотрят. | Please, stop, people are looking at us. | #260 00:19:12: Хватит, но люди смотрят | adapted: adapted |
+| 8 | Катя | Пожалуйста, хватит, на нас люди смотрят. | Please, stop, people are looking at us. | #260 00:19:12: Хватит, но люди смотрят | adapted: adapted |
 | 9 | Никита | А пускай все люди сейчас смотрят. | Let all the people look right now. | #261 00:19:14: А пускай смотрят | adapted: adapted |
 | 10 | Никита | Пускай все знают, как я счастлив. | Let everyone know how happy I am. | #262 00:19:18: Пускай все знают, как я счастлив | adapted: adapted |
 | 11 | Никита | Я сегодня действительно горд и счастлив. | Today I am truly proud and happy. | #265 00:19:27: Я горд и счастлив | adapted: adapted |

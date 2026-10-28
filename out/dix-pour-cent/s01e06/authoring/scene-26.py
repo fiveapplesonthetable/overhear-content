@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 26
-TITLE = "Le retour de Madame Brancillon  (The Return of Madame Brancillon)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le retour de Madame Brancillon  (The Return of Madame Brancillon)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "camille": "emilie"}
-LABELS = {"lea": "Andréa", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie'}
+LABELS = {'lea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "When Camille stops by with the morning mail, Andréa tries to hide her mounting anxiety before spotting a familiar figure in the hallway. Listen to the scene in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's walk through Andréa's frustration and Colette's icy return step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'Colette is back at ASK, but strictly as an unyielding tax auditor with devastating news for the agency. See you next time!'
-CLOSING = ("lea", "Bonne soirée!")
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('lea', 'Tu Coucheras avec Moi Ce Soir?', 'Will You Sleep with Me Tonight?', [(678, 'Tu Coucheras avec Moi Ce Soir')], ''),
     ('lea', 'Mince!', 'Darn!', [(679, 'Merde')], ''),

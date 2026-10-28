@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e15-scene-15"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e15-scene-15'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 15
 SCENE = 15
 TITLE = "Кража в кабинете Нагиева  (Theft in Nagiyev's Office)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.15"
-SOURCE_FILE = "sources/kukhnya/s02/e15.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.15'
+SOURCE_FILE = 'sources/kukhnya/s02/e15.ru.srt'
 
 INTRO = 'After Ilya is seen lingering near the upstairs office, Nagiyev discovers that a stack of cash has vanished from his desk. Furious, Nagiyev storms into the kitchen with Vika and lines up every employee to find out who dared to steal from him.'
 
 STORY = [
-    ('anya', 'Подышать надо.', 'I need to get some fresh air.', [(253, 'Подышать надо')], ''),
+    ('chef', 'Подышать надо.', 'I need to get some fresh air.', [(253, 'Подышать надо')], ''),
     ('vika', 'Писать хочу.', 'I need to use the bathroom.', [(254, 'Писать хочу')], ''),
-    ('anya', 'Я не был в зале.', 'I was not in the dining room.', [(256, 'Я не был в зале')], ''),
+    ('chef', 'Я не был в зале.', 'I was not in the dining room.', [(256, 'Я не был в зале')], ''),
     ('vika', 'Может он в зале?', 'Maybe he is out in the dining room?', [(256, 'Может он в зале')], ''),
-    ('anya', 'Сюда, Вика.', 'Over here, Vika.', [(258, 'Сюда, Вика')], ''),
+    ('chef', 'Сюда, Вика.', 'Over here, Vika.', [(258, 'Сюда, Вика')], ''),
     ('vika', 'Внимание, на меня смотрим.', 'Attention everyone, look at me.', [(259, 'Внимание, на меня смотрим')], ''),
-    ('anya', 'Шеф где?', 'Where is the Chef?', [(259, 'Шеф где')], ''),
+    ('chef', 'Шеф где?', 'Where is the Chef?', [(259, 'Шеф где')], ''),
     ('vika', 'А вы же его отпустили.', 'Wait, did you not let him go early?', [(260, 'А вы же его отпустили')], ''),
-    ('anya', 'А его шеф отпустил.', 'The Chef gave him the rest of the day off.', [(261, 'А его шеф отпустил')], ''),
+    ('chef', 'А его шеф отпустил.', 'The Chef gave him the rest of the day off.', [(261, 'А его шеф отпустил')], ''),
     ('vika', 'Вы что?', 'What is wrong with you all?', [(263, 'Вы что')], ''),
-    ('anya', 'Вы у кого воруете, а?', 'Who do you think you are stealing from, huh?', [(264, 'Вы у кого воруете, а')], ''),
+    ('chef', 'Вы у кого воруете, а?', 'Who do you think you are stealing from, huh?', [(264, 'Вы у кого воруете, а')], ''),
     ('vika', 'Воруете у кого?', 'Who are you stealing from?', [(265, 'Воруете у кого')], ''),
-    ('anya', 'У меня.', 'From me!', [(266, 'У меня')], ''),
+    ('chef', 'У меня.', 'From me!', [(266, 'У меня')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = "When you watch Scene 15 of Episode 15, listen out for the exchange around theft in nagiyev's office — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'У меня.')
+OUTRO = 'That wraps up this scene as after Ilya slips out of the upstairs corridor, Nagiyev discovers that money has been stolen from his office desk and lines up the entire restaurant staff. Until next time!'
+CLOSING = ("chef", "Пока!")

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 26
-TITLE = "Ta nouvelle assistante  (Your New Assistant)"
-LEVEL = "A1 — débutant"
+TITLE = 'Ta nouvelle assistante  (Your New Assistant)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "It worked. Back at the agency, Gabriel tells Andréa the news: Cécile has said yes to Mathias, who has stolen his star, and Gabriel is furious. Now Mathias walks in, and Andréa watches the two men face off. Then Mathias turns to her with a surprise of his own. First the French version; it's fine if a lot of it goes over your head."
 OPENER = "Let's go back over it. Gabriel starts with a thank-you, but he doesn't mean it at all."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's it for this scene. When you watch it, listen for the past tense with 'have' each time someone is accused of something; you'll hear plenty of it. Until next time."
-CLOSING = ("lea", "Bonne journée, Mathias!")
+OUTRO = "That's it for this scene. When you watch it, listen for the past tense with 'have' each time someone is accused of something; you'll hear plenty of it. See you next time!"
+CLOSING = ('lea', 'Bonne journée, Mathias!')
 STORY = [
     ('gabriel', 'Merci, Mathias! Tu as volé Cécile!', 'Thanks, Mathias! You stole Cécile!', [(684, 'Merci, Mathias'), (684, 'Merci')], ''),
     ('gabriel', "Et ne dis pas que c'était pour le bien de l'agence.", 'And don', [(685, "pour le bien de l'agence")], ''),

@@ -1,21 +1,21 @@
 ID = 'kukhnya-s06e14-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 14
 SCENE = 11
-TITLE = 'Обычай красть невесту  (The Custom of Stealing a Bride)'
+TITLE = "Обычай красть невесту  (The Custom of Stealing a Bride)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'ainura': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Лёва', 'ainura': 'Айнура', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "ainura": "angelina", "denis": "anja"}
+LABELS = {"ainura": "Айнура", "denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.14'
 SOURCE_FILE = 'sources/kukhnya/s06/e14.ru.srt'
 
 INTRO = "Ainura tells Lyova that in Kyrgyzstan, a groom without money for a big wedding can steal his bride first and save up together later. Meanwhile, Kostya finds Nastya's list of flaws at the bar and shows it to Denis and Nikita."
 
 STORY = [
-    ('anya', 'Мне надо сначала немного денег накопить.', 'I need to save up some money first.', [(137, 'Денег надо накопить')], 'adapted'),
-    ('anya', 'Надо кольцо купить и ресторан заказать.', 'I need to buy a ring and book a restaurant.', [(137, 'кольцо купить, ресторан')], 'adapted'),
+    ('ainura', 'Мне надо сначала немного денег накопить.', 'I need to save up some money first.', [(137, 'Денег надо накопить')], 'adapted'),
+    ('ainura', 'Надо кольцо купить и ресторан заказать.', 'I need to buy a ring and book a restaurant.', [(137, 'кольцо купить, ресторан')], 'adapted'),
     ('ainura', 'Я тебе сейчас один секрет скажу.', 'I will tell you one secret right now.', [(138, 'Я тебе секрет скажу')], 'adapted'),
     ('ainura', 'У нас дома иногда невесту воруют.', 'Back home we sometimes steal the bride.', [(139, 'иногда невесту воруют')], 'adapted'),
     ('ainura', 'Это почти как заявление, только веселее.', 'It is almost like an application, only more fun.', [(140, 'как заявление'), (141, 'Только веселее')], 'adapted'),
@@ -23,8 +23,8 @@ STORY = [
     ('ainura', 'Меня в молодости тоже муж украл.', 'My husband also stole me when I was young.', [(143, 'Меня тоже мой муж украл')], 'adapted'),
     ('denis', 'Костя, скажи, зачем ты нас звал?', 'Kostya, tell me, why did you call us?', [(147, 'звал')], 'adapted'),
     ('denis', 'Что это за странный листок бумаги?', 'What is this strange sheet of paper?', [(148, 'Это я в баре нашел')], 'adapted'),
-    ('anya', 'Это Катя сегодня в баре оставила.', 'Katya left this at the bar today.', [(148, 'это я в баре нашел, Катя')], 'adapted'),
-    ('anya', 'Кажется, она сейчас между вами выбирает.', 'It seems she is choosing between you two right now.', [(149, 'между вами выбирает')], 'adapted'),
+    ('ainura', 'Это Катя сегодня в баре оставила.', 'Katya left this at the bar today.', [(148, 'это я в баре нашел, Катя')], 'adapted'),
+    ('ainura', 'Кажется, она сейчас между вами выбирает.', 'It seems she is choosing between you two right now.', [(149, 'между вами выбирает')], 'adapted'),
     ('denis', 'Посмотри, неужели у меня большие уши?', 'Look, do I really have big ears?', [(150, 'Я что, сильно лопоухий')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Denis and Nikita stare at the list of their flaws, realizing that Katya has not truly made up her mind. See you in the next scene.'
-CLOSING = ('ainura', 'Иногда у нас невесту воруют.')
+OUTRO = 'Denis and Nikita stare at the list of their flaws, realizing that Katya has not truly made up her mind. Until next time!'
+CLOSING = ("ainura", "До свидания!")

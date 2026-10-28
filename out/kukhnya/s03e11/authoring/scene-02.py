@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e11-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 2
-TITLE = 'Шутки про пенсию  (Jokes About Retirement)'
+TITLE = "Шутки про пенсию  (Jokes About Retirement)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = "After hearing Vika's complaint, Nagiyev teases Chef Barinov about getting old and needing to retire. Meanwhile, in the locker room, Max notices an old army scar on Lyova before a mysterious foreign visitor arrives asking for Katya."
@@ -38,7 +38,7 @@ WALK = [
     (3, None, "'That is very funny, Dmitry Vladimirovich.' Chef Barinov anchors the line on 'this', while 'ridiculous' completes the thought."),
     (4, None, "'You have started joking too often.' Notice how Russian expresses 'you' and 'to joke' with crisp inflection rather than helper words."),
     (5, None, "'You love to joke every day.' Chef Barinov brings out the contrast between 'love' and 'you' in a few short words."),
-    (6, None, "'A guest is asking for you in the dining room.' In Russian, the idea of 'you' flows naturally into 'guest' without extra filler words."),
+    (6, None, "'A guest is asking for you in the dining room.' Chef Barinov pairs 'hall' with 'guest' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (7, None, "'I said that you are here.' Here the Russian phrasing highlights 'I' before landing on 'here'. Dmitry Nagiyev answers right away."),
     (8, None, "'Let us go, Viktoria Sergeyevna, and drink coffee.' Notice how Russian expresses 'let's go' and 'coffee' with crisp inflection rather than helper words."),
     (9, None, "'Leave our old chef alone.' Here the Russian phrasing highlights 'leave' before landing on 'alone'."),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nagiyev's jokes about Barinov aging plant a seed of insecurity in the chef's mind. Next, we will meet the French chef who just walked into the restaurant."
-CLOSING = ('chef', 'Быстро за работу, повара!')
+OUTRO = "Nagiyev's jokes about Barinov aging plant a seed of insecurity in the chef's mind. Next, we will meet the French chef who just walked into the restaurant. See you next time!"
+CLOSING = ("chef", "Увидимся!")

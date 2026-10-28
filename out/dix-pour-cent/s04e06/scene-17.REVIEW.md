@@ -27,5 +27,5 @@
 | 13 | `colette` (Colette) | Prenons le temps de nous poser. | Let us take the time to pause. | 824:On était dans le coin |
 
 ## Part 5 — Outro & Closing
-> Reunited in the peaceful Parisian sunshine, Andrea and Colette set off together toward the nearby park. When you watch the episode, listen out for the expressions meaning 'are doing' and 'were walking'. You'll catch them now. See you next time.
+> Reunited in the peaceful Parisian sunshine, Andrea and Colette set off together toward the nearby park. When you watch the episode, listen out for the expressions meaning 'are doing' and 'were walking'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

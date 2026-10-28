@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 6
 SCENE = 16
 TITLE = "Les trente ans d'ASK  (Thirty Years of ASK)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "isabelle": "emilie"}
-LABELS = {"mathias": "Mathias", "isabelle": "Isabelle"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'isabelle': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'isabelle': 'Isabelle'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "In the festive agency lounge, the guests gather to celebrate thirty years of ASK. Having rushed back from the shoot, Isabelle joins Mathias to toast to the agency and its cinematic history. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Isabelle and Mathias celebrate thirty years of triumphs and shared memories at ASK. When you watch the episode, listen out for the expressions meaning 'good evening' and 'here is'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À bientôt!")
+OUTRO = "Isabelle and Mathias celebrate thirty years of triumphs and shared memories at ASK. When you watch the episode, listen out for the expressions meaning 'good evening' and 'here is'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À bientôt!')
 STORY = [
     ('isabelle', 'Bonsoir Mathias, me voilà enfin arrivée!', 'Good evening Mathias, here I am at last!', [(639, 'Bonsoir')], ''),
     ('mathias', 'Alors, le tournage est terminé?', 'So, is the shoot finished?', [(642, "C'est bon, c'est dans la boîte")], ''),

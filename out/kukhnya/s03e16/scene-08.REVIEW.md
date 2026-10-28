@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Катя | Макс, как твои успехи, придумал что-нибудь новое? | Max, how is your progress, have you invented anything new? | #130 00:08:33: Как успехи? Придумал что-нибудь новое | adapted: adapted |
 | 3 | Аня | Как я придумаю, шеф запретил мне брать дорогие продукты! | How can I invent anything, the chef forbade me to take expensive ingredients! | #131 00:08:37: Как? Шеф запретил мне брать дорогие продукты | adapted: adapted |
 | 4 | Катя | А ты знаешь, как во Франции придумали майонез? | Do you know how they invented mayonnaise in France? | #132 00:08:42: Знаешь, как придумали майонез | adapted: adapted |
-| 5 | Катя | Город был в осаде, и не было ничего, кроме оливкового масла и яиц. | A city was under siege, and there was nothing except olive oil and eggs. | #133 00:08:43: город<br>#133 00:08:43: был в осаде, и не было ничего, кроме оливкового масла и яиц | adapted: adapted |
+| 5 | Катя | Город был в осаде, не было ничего, кроме масла и яиц. | The city was under siege, and there was nothing except oil and eggs. | #133 00:08:43: город<br>#133 00:08:43: был в осаде<br>#133 00:08:43: масла и яиц | adapted: adapted |
 | 6 | Катя | Солдаты уже не могли больше есть яичницу и омлет. | The soldiers could no longer eat fried eggs and omelettes. | #134 00:08:48: солдаты уже не могли есть яичницу и омлет | adapted: adapted |
 | 7 | Катя | И тогда повар придумал для них вкусный майонез! | And then the cook invented delicious mayonnaise for them! | #134 00:08:48: повар придумал для них майонез | adapted: adapted |
 | 8 | Аня | Ну ладно, приготовлю что-нибудь простое и подешевле. | Well alright, I will cook something simple and a bit cheaper. | #136 00:08:58: Ну, ладно<br>#137 00:09:00: Приготовлю<br>#137 00:09:00: подешевле | adapted: adapted |
@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Max, how is your progress, have you invented anything new?' The grammar packs 'Max' and 'new' into a tight, idiomatic kitchen exchange. Max answers right away.
 - 'How can I invent anything, the chef forbade me to take expensive ingredients!' Max brings out the contrast between 'how' and 'I' in a few short words.
 - 'Do you know how they invented mayonnaise in France?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'mayonnaise'.
-- 'A city was under siege, and there was nothing except olive oil and eggs.' Katya brings out the contrast between 'city' and 'was' in a few short words.
+- 'The city was under siege, and there was nothing except oil and eggs.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'The soldiers could no longer eat fried eggs and omelettes.' The negative particle sits right before the verb meaning 'could' to negate the statement.
 - 'And then the cook invented delicious mayonnaise for them!' Katya brings out the contrast between 'and' and 'then' in a few short words.
 - 'Well alright, I will cook something simple and a bit cheaper.' The meaning hinges on 'come on' working together with 'a bit cheaper' in spoken Russian. Katya answers right away.

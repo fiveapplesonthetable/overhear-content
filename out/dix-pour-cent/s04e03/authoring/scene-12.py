@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 12
-TITLE = "La fin de la séance  (The End of the Shoot)"
-LEVEL = "A1 — débutant"
+TITLE = 'La fin de la séance  (The End of the Shoot)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "lea": "lucie"}
-LABELS = {"sofia": "Sofia", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'lea': 'lucie'}
+LABELS = {'sofia': 'Sofia', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Sofia has just wrapped up her intense photoshoot at the studio. Pleased with the result, she steps off the set to thank the team and debrief with Camille. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "With the studio photoshoot successfully completed, Sofia and Camille head out together in high spirits. When you watch the episode, listen out for the expressions meaning 'finished' and 'session'. You'll catch them now. See you next time."
-CLOSING = ("sofia", "Bonne journée!")
+OUTRO = "With the studio photoshoot successfully completed, Sofia and Camille head out together in high spirits. When you watch the episode, listen out for the expressions meaning 'finished' and 'session'. You'll catch them now. See you next time!"
+CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('sofia', 'Voilà, nous avons enfin terminé!', 'There, we have finally finished!', [], ''),
     ('lea', "C'était vraiment une séance formidable.", 'It was truly a wonderful session.', [], ''),

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e11-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 13
-TITLE = 'Результат теста  (The Test Result)'
+TITLE = "Результат теста  (The Test Result)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = 'Stunned when the pregnancy test comes back positive, Max loses three months of salary and refuses to marry Katya. As Chef Barinov chases Max through the kitchen shouting at the top of his lungs, Nagiyev steps in and orders Barinov to go home until evening.'
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nagiyev's warning about a serious conversation tonight convinces Barinov that he is about to be fired. Next, Paul returns to dine at Claude Monet."
-CLOSING = ('nagiyev', 'Увидимся с тобой вечером!')
+OUTRO = "Nagiyev's warning about a serious conversation tonight convinces Barinov that he is about to be fired. Next, Paul returns to dine at Claude Monet. Until next time!"
+CLOSING = ("nagiyev", "Увидимся с тобой вечером!")

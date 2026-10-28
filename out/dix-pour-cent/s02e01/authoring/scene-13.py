@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 13
-TITLE = "La patate chaude  (The Hot Potato)"
-LEVEL = "A1 — débutant"
+TITLE = 'La patate chaude  (The Hot Potato)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Struggling to handle the fallout from Virginie Efira's scandal, Gabriel calls Andréa on the phone. Andréa explains why Mathias gave Virginie to him rather than to her, revealing Mathias's cunning calculation. Let's listen to the scene in French first."
 OPENER = "Gabriel uncovers Mathias's trick. Let us examine the lines with English notes."
 TRANSITION = 'Now listen to the full phone call once more without interruption.'
-OUTRO = "Gabriel now understands how Mathias manipulated him into taking on the crisis. Meanwhile, Andréa arrives at the town hall of Couchey to receive her mother's medal. Here is our closing sentence. See you next time!"
-CLOSING = ("gabriel", "Au revoir!")
+OUTRO = 'Gabriel now understands how Mathias manipulated him into taking on the crisis. Here is our closing sentence. See you next time!'
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('gabriel', 'Andréa? Pourquoi moi et pas vous pour Virginie?', 'Andréa? Why me and not you for Virginie?', [(366, 'Pourquoi moi et pas vous')], ''),
     ('lea', "Parce que j'aurais dit non.", 'Because I would have said no.', [(367, "Parce que j'aurais dit non")], ''),

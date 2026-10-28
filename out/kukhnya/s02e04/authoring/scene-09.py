@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e04-scene-09"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e04-scene-09'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 4
 SCENE = 9
 TITLE = "Месть поваров за Шефа  (The Cooks' Revenge for the Chef)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kristina': 'anja'}
-LABELS = {'anya': 'Шеф', 'kristina': 'Кристина'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.04"
-SOURCE_FILE = "sources/kukhnya/s02/e04.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja"}
+LABELS = {"chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.04'
+SOURCE_FILE = 'sources/kukhnya/s02/e04.ru.srt'
 
 INTRO = "At the restaurant, Kristina confronts the staff over the mess in the kitchen while Valdemar Barani waves a smug goodbye until tomorrow. Sympathizing with their humiliated boss, Senya and Fedya suggest scratching Barani's car in the courtyard, while Barinov vows to settle the score himself."
 
 STORY = [
-    ('anya', 'Я вас потеряла.', 'I lost track of you.', [(145, 'Я вас потеряла')], ''),
-    ('kristina', 'Простите, Кристина.', 'Forgive me, Kristina.', [(146, 'Простите, Кристина')], ''),
-    ('anya', 'А вы в курсе?', 'Are you aware of this?', [(147, 'А вы в курсе')], ''),
-    ('kristina', 'Что устроил ваш старый друг?', 'What your old friend just pulled off?', [(147, 'что устроил ваш старый друг')], ''),
-    ('anya', 'Ты смотри.', 'Just look at that.', [(149, 'Ты смотри')], ''),
-    ('kristina', 'Господа, было приятно познакомиться.', 'Gentlemen, it was a pleasure meeting you.', [(151, 'Господа, было приятно познакомиться')], ''),
-    ('anya', 'До завтра.', 'See you tomorrow.', [(152, 'До завтра')], ''),
-    ('kristina', 'Шеф, может убить его, а?', 'Chef, maybe we should kill him, huh?', [(153, 'Шеф, может убить его, а')], ''),
-    ('anya', 'Или хотя бы машина ему покоца.', 'Or at least scratch up his car.', [(155, 'Или хотя бы машина ему покоца')], ''),
-    ('kristina', 'Ну, барана этого.', "You know, that sheep's car.", [(155, 'Ну, барана этого')], ''),
-    ('anya', 'Оставьте Володьку в покое.', 'Leave Volodka alone.', [(157, 'Оставьте Володьку в покое')], ''),
-    ('kristina', 'Сломала мужика.', 'It broke the man.', [(160, 'сломала мужика')], ''),
-    ('anya', 'Мы еще посмотрим, кто кого.', 'We will see who beats whom.', [(162, 'Мы еще посмотрим, кто кого')], ''),
+    ('chef', 'Я вас потеряла.', 'I lost track of you.', [(145, 'Я вас потеряла')], ''),
+    ('chef', 'Простите, Кристина.', 'Forgive me, Kristina.', [(146, 'Простите, Кристина')], ''),
+    ('chef', 'А вы в курсе?', 'Are you aware of this?', [(147, 'А вы в курсе')], ''),
+    ('chef', 'Что устроил ваш старый друг?', 'What your old friend just pulled off?', [(147, 'что устроил ваш старый друг')], ''),
+    ('chef', 'Ты смотри.', 'Just look at that.', [(149, 'Ты смотри')], ''),
+    ('chef', 'Господа, было приятно познакомиться.', 'Gentlemen, it was a pleasure meeting you.', [(151, 'Господа, было приятно познакомиться')], ''),
+    ('chef', 'До завтра.', 'See you tomorrow.', [(152, 'До завтра')], ''),
+    ('chef', 'Шеф, может убить его, а?', 'Chef, maybe we should kill him, huh?', [(153, 'Шеф, может убить его, а')], ''),
+    ('chef', 'Или хотя бы машина ему покоца.', 'Or at least scratch up his car.', [(155, 'Или хотя бы машина ему покоца')], ''),
+    ('chef', 'Ну, барана этого.', "You know, that sheep's car.", [(155, 'Ну, барана этого')], ''),
+    ('chef', 'Оставьте Володьку в покое.', 'Leave Volodka alone.', [(157, 'Оставьте Володьку в покое')], ''),
+    ('chef', 'Сломала мужика.', 'It broke the man.', [(160, 'сломала мужика')], ''),
+    ('chef', 'Мы еще посмотрим, кто кого.', 'We will see who beats whom.', [(162, 'Мы еще посмотрим, кто кого')], ''),
 ]
 
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = "When you watch Scene 9 of Episode 4, listen out for the exchange around the cooks' revenge for the chef — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Мы еще посмотрим, кто кого.')
+OUTRO = 'That wraps up this scene as kristina scolds the staff for the damaged equipment, and after Barani leaves for the night, Senya and Fedya offer to vandalize his luxury car to avenge Chef Barinov. Until next time!'
+CLOSING = ("chef", "До свидания!")

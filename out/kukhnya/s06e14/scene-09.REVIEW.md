@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Это очень хорошая и свежая говядина. | This is very good and fresh beef. | #110 00:08:18: Хорошая. Свежая говядина | adapted: adapted |
-| 2 | Аня | Лёва, попробуй ещё один маленький кусочек. | Lyova, try one more small piece. | #112 00:08:24: попробуй | adapted: adapted |
-| 3 | Лёва | Подождите, шеф, это ведь не говядина. | Wait, chef, this is not beef after all. | #113 00:08:32: Это не говядина | adapted: adapted |
-| 4 | Аня | Точно, это же молодая нежная телятина! | Exactly, this is young tender veal! | #114 00:08:34: Это телятина | adapted: adapted |
-| 5 | Аня | Видите, эти корейцы обычные нормальные люди. | You see, these Koreans are ordinary normal people. | #115 00:08:38: эти корейцы такие же люди | adapted: adapted |
+| 1 | Шеф | Это очень хорошая и свежая говядина. | This is very good and fresh beef. | #110 00:08:18: Хорошая. Свежая говядина | adapted: adapted |
+| 2 | Шеф | Лёва, попробуй ещё один маленький кусочек. | Lyova, try one more small piece. | #112 00:08:24: попробуй | adapted: adapted |
+| 3 | Сеня | Подождите, шеф, это ведь не говядина. | Wait, chef, this is not beef after all. | #113 00:08:32: Это не говядина | adapted: adapted |
+| 4 | Шеф | Точно, это же молодая нежная телятина! | Exactly, this is young tender veal! | #114 00:08:34: Это телятина | adapted: adapted |
+| 5 | Шеф | Видите, эти корейцы обычные нормальные люди. | You see, these Koreans are ordinary normal people. | #115 00:08:38: эти корейцы такие же люди | adapted: adapted |
 | 6 | Сеня | У них сегодня какой-то особенный день. | They have some kind of special day today. | #116 00:09:13: сегодня особенный день | adapted: adapted |
 | 7 | Сеня | Они отмечают день рождения своего учителя. | They are celebrating the birthday of their teacher. | #117 00:09:16: День рождения нашего | adapted: adapted |
-| 8 | Лёва | Посмотрите, шеф, какие это обычные люди! | Look, chef, what ordinary people they are! | #118 00:09:31: обычные люди | adapted: adapted |
+| 8 | Сеня | Посмотрите, шеф, какие это обычные люди! | Look, chef, what ordinary people they are! | #118 00:09:31: обычные люди | adapted: adapted |
 | 9 | Сеня | Кажется, это какая-то очень странная секта. | It seems this is some very strange sect. | #119 00:09:35: Это секта | adapted: adapted |
 | 10 | Сеня | Нам ещё повезло, если это телятина. | We are lucky if this is veal. | #120 00:09:37: Нам еще повезло | adapted: adapted |
-| 11 | Аня | Да хватит вам всякую глупость говорить! | Stop talking all kinds of nonsense! | #121 00:09:44: Да хватит | adapted: adapted |
-| 12 | Лёва | Давайте лучше пойдём обратно на кухню. | Let us better go back to the kitchen. | #118 00:09:31: шеф | adapted: adapted |
+| 11 | Шеф | Да хватит вам всякую глупость говорить! | Stop talking all kinds of nonsense! | #121 00:09:44: Да хватит | adapted: adapted |
+| 12 | Сеня | Давайте лучше пойдём обратно на кухню. | Let us better go back to the kitchen. | #118 00:09:31: шеф | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

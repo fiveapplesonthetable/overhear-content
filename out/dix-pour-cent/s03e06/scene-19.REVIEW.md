@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Allons tout de suite dans mon bureau. | Let us go to my office right away. | 980:Viens |
 
 ## Part 5 — Outro & Closing
-> Threatened with the loss of their top star, Andrea and Mathias unite to protect ASK from outside predators. When you watch the episode, listen out for the expressions meaning 'be quiet' and 'speak'. You'll catch them now. See you next time.
+> Threatened with the loss of their top star, Andrea and Mathias unite to protect ASK from outside predators. When you watch the episode, listen out for the expressions meaning 'be quiet' and 'speak'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne soirée!*

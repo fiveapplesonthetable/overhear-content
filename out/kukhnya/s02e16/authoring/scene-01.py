@@ -1,31 +1,31 @@
-ID = "kukhnya-s02e16-scene-01"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e16-scene-01'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 16
 SCENE = 1
 TITLE = "Фирменный омлет и звонок мамы  (The Signature Omelet and Mom's Call)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.16"
-SOURCE_FILE = "sources/kukhnya/s02/e16.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
+LABELS = {"kostya": "Костя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.16'
+SOURCE_FILE = 'sources/kukhnya/s02/e16.ru.srt'
 
 INTRO = 'In the apartment kitchen, Kostya proudly serves Nastya his signature omelet just before her mother calls once again to ask when they are getting married. Meanwhile at Claude Monet, Ainura complains about the latest kitchen fines by joking about swatting a moth.'
 
 STORY = [
     ('anya', 'Фирменный омлет.', 'My signature omelet.', [(1, 'Фирменный омлет')], ''),
     ('kostya', 'Я на секунду показал.', 'I only looked away for a second.', [(2, 'Я на секунду показал')], ''),
-    ('sasha', 'Это кто?', 'Who is that?', [(5, 'Это кто')], ''),
+    ('kostya', 'Это кто?', 'Who is that?', [(5, 'Это кто')], ''),
     ('anya', 'Дай две тысячи.', 'Give me two thousand rubles.', [(8, 'Дай две тысячи')], ''),
     ('kostya', 'Две тысячи.', 'Two thousand rubles.', [(9, 'Две тысячи')], ''),
-    ('sasha', 'Кто звонил?', 'Who called?', [(12, 'Кто звонил')], ''),
+    ('kostya', 'Кто звонил?', 'Who called?', [(12, 'Кто звонил')], ''),
     ('anya', 'Мама звонила.', 'My mom called.', [(12, 'Мама звонила')], ''),
     ('kostya', 'В очередной раз хотела спросить.', 'Once again she wanted to ask about the wedding.', [(13, 'в очередной раз хотела спросить')], ''),
-    ('sasha', 'Ну, потом перезвоню.', 'Well, I will call her back later.', [(14, 'Ну, потом перезвоню')], ''),
+    ('kostya', 'Ну, потом перезвоню.', 'Well, I will call her back later.', [(14, 'Ну, потом перезвоню')], ''),
     ('anya', 'Все нормально?', 'Is everything alright?', [(15, 'Все нормально')], ''),
     ('kostya', 'Смотрите, смотрите.', 'Look, just look at this.', [(15, 'Смотрите, смотрите')], ''),
-    ('sasha', 'Я вчера в шкаф умолю била.', 'Yesterday I killed a moth in the closet.', [(18, 'Я вчера в шкаф умолю била')], ''),
+    ('kostya', 'Я вчера в шкаф умолю била.', 'Yesterday I killed a moth in the closet.', [(18, 'Я вчера в шкаф умолю била')], ''),
     ('anya', 'Мне теперь за нее тоже деньги дать, да?', 'Do I have to pay money for that moth now too?', [(19, 'Мне теперь за нее тоже деньги дать, да')], ''),
 ]
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 1 of Episode 16, listen out for the exchange around the signature omelet and mom's call — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('kostya', 'Смотрите, смотрите.')
+OUTRO = 'That wraps up this scene as at the apartment, Kostya makes his signature omelet for Nastya before her mother calls about wedding plans, while Ainura jokes about fines in the kitchen. Until next time!'
+CLOSING = ("kostya", "Пока!")

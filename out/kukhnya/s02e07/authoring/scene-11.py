@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e07-scene-11"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e07-scene-11'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 7
 SCENE = 11
-TITLE = 'Приступ радикулита и бездомный котёнок  (A Bout of Sciatica and a Stray Kitten)'
+TITLE = "Приступ радикулита и бездомный котёнок  (A Bout of Sciatica and a Stray Kitten)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'max': 'anja'}
-LABELS = {'anya': 'Родион', 'max': 'Макс'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.07"
-SOURCE_FILE = "sources/kukhnya/s02/e07.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "rodion": "anja", "anya": "alisa"}
+LABELS = {"rodion": "Родион", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.07'
+SOURCE_FILE = 'sources/kukhnya/s02/e07.ru.srt'
 
 INTRO = "During their second morning run in the park, Chef Barinov is on the verge of collapsing when Elena suddenly throws her back out and cannot move an inch. Meanwhile back at the apartment, Max and Kostya hatch a clever plan using a stray kitten to appeal to Nastya's soft heart."
 
 STORY = [
-    ('anya', 'Быстро же вы.', 'You got here fast.', [(167, 'Быстро же вы')], ''),
-    ('max', 'Что с вами?', 'What is wrong with you?', [(168, 'Что с вами')], ''),
-    ('anya', 'Что со спиной?', 'What happened to your back?', [(169, 'Что со спиной')], ''),
-    ('max', 'Не могу.', 'I cannot move.', [(171, 'Не могу')], ''),
-    ('anya', 'Не могу ни туда, ни сюда.', 'I cannot move forward or backward.', [(172, 'Не могу ни туда, ни сюда')], ''),
-    ('max', 'Стойте, стойте, стойте.', 'Hold on, stop, stop.', [(175, 'Стойте, стойте, стойте')], ''),
-    ('anya', 'Стойте, стойте.', 'Wait, hold still.', [(176, 'Стойте, стойте')], ''),
-    ('max', 'Вы меня не шевелите, я сама, ладно?', 'Do not move me, I will try by myself, okay?', [(177, 'Вы меня не шевелите, я сама, ладно')], ''),
-    ('anya', 'Я сама.', 'I can do it myself.', [(178, 'Я сама')], ''),
-    ('max', 'Будьте здоровы.', 'Bless you.', [(179, 'Будьте здоровы')], ''),
-    ('anya', 'Родион Сергеевич, что случилось?', 'Rodion Sergeyevich, what happened?', [(180, 'Родион Сергеевич, что случилось')], ''),
-    ('max', 'Вам хуже?', 'Are you feeling worse?', [(181, 'Вам хуже')], ''),
-    ('anya', 'Какой малышка хороший.', 'What a sweet little kitten.', [(186, 'какой малышка хороший')], ''),
+    ('rodion', 'Быстро же вы.', 'You got here fast.', [(167, 'Быстро же вы')], ''),
+    ('anya', 'Что с вами?', 'What is wrong with you?', [(168, 'Что с вами')], ''),
+    ('rodion', 'Что со спиной?', 'What happened to your back?', [(169, 'Что со спиной')], ''),
+    ('anya', 'Не могу.', 'I cannot move.', [(171, 'Не могу')], ''),
+    ('rodion', 'Не могу ни туда, ни сюда.', 'I cannot move forward or backward.', [(172, 'Не могу ни туда, ни сюда')], ''),
+    ('anya', 'Стойте, стойте, стойте.', 'Hold on, stop, stop.', [(175, 'Стойте, стойте, стойте')], ''),
+    ('rodion', 'Стойте, стойте.', 'Wait, hold still.', [(176, 'Стойте, стойте')], ''),
+    ('anya', 'Вы меня не шевелите, я сама, ладно?', 'Do not move me, I will try by myself, okay?', [(177, 'Вы меня не шевелите, я сама, ладно')], ''),
+    ('rodion', 'Я сама.', 'I can do it myself.', [(178, 'Я сама')], ''),
+    ('anya', 'Будьте здоровы.', 'Bless you.', [(179, 'Будьте здоровы')], ''),
+    ('rodion', 'Родион Сергеевич, что случилось?', 'Rodion Sergeyevich, what happened?', [(180, 'Родион Сергеевич, что случилось')], ''),
+    ('anya', 'Вам хуже?', 'Are you feeling worse?', [(181, 'Вам хуже')], ''),
+    ('rodion', 'Какой малышка хороший.', 'What a sweet little kitten.', [(186, 'какой малышка хороший')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 11 of Episode 7, listen out for the exchange around a bout of sciatica and a stray kitten — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Какой малышка хороший.')
+OUTRO = 'That wraps up this scene as during their second morning jog in the park, Elena throws her back out when she bends down, and at the restaurant Max hatches a plan using a stray kitten. Until next time!'
+CLOSING = ("rodion", "До завтра!")

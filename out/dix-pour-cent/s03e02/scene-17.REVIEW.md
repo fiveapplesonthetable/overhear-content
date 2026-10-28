@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Elle quitte notre agence ce matin. | She is leaving our agency this morning. | 845:Est-ce que Noémie t'a parlé d'une proposition d'embauche |
 
 ## Part 5 — Outro & Closing
-> Gabriel deals with the fallout from his disastrous dinner with Monica Bellucci while ASK faces a staff crisis. When you watch the episode, listen out for the expressions meaning 'dropped off' and 'belongings'. You'll catch them now. See you next time.
+> Gabriel deals with the fallout from his disastrous dinner with Monica Bellucci while ASK faces a staff crisis. When you watch the episode, listen out for the expressions meaning 'dropped off' and 'belongings'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À demain!*

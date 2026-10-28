@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e03-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 8
-TITLE = 'Талантливая импровизация  (A Talented Improvisation)'
+TITLE = "Талантливая импровизация  (A Talented Improvisation)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'guest': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "guest": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "guest": "Гость", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = "At the fitness club, the prefect's wife refuses to listen until Max blurts out that he and Vika are a married couple expecting their first baby—until Vika's forgotten purse ruins the lie."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings Scene Eight to a close. Watch how Max's clever pregnancy story works like magic until Vika walks back in and blows their cover."
-CLOSING = ('anya', 'Нас уже простили!')
+OUTRO = "That brings Scene Eight to a close. Watch how Max's clever pregnancy story works like magic until Vika walks back in and blows their cover. See you next time!"
+CLOSING = ("anya", "До завтра!")

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 13
-TITLE = "Le dîner de travail  (The Work Dinner)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le dîner de travail  (The Work Dinner)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "christophe": "theo", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "christophe": "Christophe", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'christophe': 'theo', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'christophe': 'Christophe', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Determined to save François Berléand's role in Dom Juan, Andréa invites director Christophe Bel to dinner. Back at her apartment, Colette prepares to go home to finish her tax audit, but Andréa convinces her to stay and gives her a spare toothbrush. Later at the restaurant, Christophe invites Andréa to his birthday party and boasts about how well he can manipulate people. Let's listen to the scene in French first."
 OPENER = "Let's break down the scene line by line and explore the key expressions."
 TRANSITION = "Now let's listen to the whole dialogue once again from beginning to end."
-OUTRO = 'Andréa thinks she can charm Christophe into saving the play, while Colette is slowly moving into her apartment. Keep the phrase for pride in mind: love of oneself. Join us next time to see what happens next.'
-CLOSING = ("christophe", "À bientôt!")
+OUTRO = 'Andréa thinks she can charm Christophe into saving the play, while Colette is slowly moving into her apartment. Keep the phrase for pride in mind: love of oneself. See you next time!'
+CLOSING = ('christophe', 'À bientôt!')
 STORY = [
     ('lea', 'Christophe, tu ne peux pas refuser.', 'Christophe, you cannot say no.', [(350, 'tu ne peux pas refuser')], ''),
     ('lea', 'Mon amour-propre ne me le permet pas.', 'My pride won', [(351, 'Mon amour-propre ne me le permet pas')], ''),

@@ -11,8 +11,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Михаил | Если что-то не так, персонал штрафуют. | If something goes wrong, they fine the staff. | #22 00:03:11: персонал<br>#22 00:03:11: штрафуют | adapted: adapted |
-| 2 | Аня | За своих подчинённых я не волнуюсь. | I do not worry about my subordinates. | #23 00:03:16: За своих подчиненных я не волнуюсь | adapted: verbatim |
-| 3 | Аня | Миша, иди ты в свой кабинет. | Misha, go to your own office. | #24 00:03:18: иди ты | adapted: adapted |
+| 2 | Михаил | За своих подчинённых я не волнуюсь. | I do not worry about my subordinates. | #23 00:03:16: За своих подчиненных я не волнуюсь | adapted: verbatim |
+| 3 | Михаил | Миша, иди ты в свой кабинет. | Misha, go to your own office. | #24 00:03:18: иди ты | adapted: adapted |
 | 4 | Михаил | Через десять минут у нас собрание. | In ten minutes we have a meeting. | #25 00:03:21: на собрании через<br>#25 00:03:21: минут | adapted: adapted |
 | 5 | Михаил | Там будет всё наше руководство. | All our management will be there. | #26 00:03:26: руководство | adapted: adapted |
 | 6 | Вика | Мне сообщили важную новость. | They informed me of important news. | #27 00:03:29: Мне сообщили | adapted: adapted |

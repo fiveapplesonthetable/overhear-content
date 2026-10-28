@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Элеонора | Здравствуйте, молодой человек, а вы вообще кто? | Hello, young man, and who are you anyway? | #88 00:05:25: Вы кто | adapted: adapted |
+| 1 | Тимур | Здравствуйте, молодой человек, а вы вообще кто? | Hello, young man, and who are you anyway? | #88 00:05:25: Вы кто | adapted: adapted |
 | 2 | Аня | Я Максим Лавров, повар в вашем ресторане. | I am Maxim Lavrov, a cook in your restaurant. | #90 00:05:28: Повар в вашем ресторане | adapted: adapted |
-| 3 | Элеонора | А Катя сейчас где? Наверное, на кухне? | And where is Katya right now? Probably in the kitchen? | #91 00:05:30: Катя где? На кухне, наверное | adapted: adapted |
+| 3 | Тимур | А Катя сейчас где? Наверное, на кухне? | And where is Katya right now? Probably in the kitchen? | #91 00:05:30: Катя где? На кухне, наверное | adapted: adapted |
 | 4 | Аня | Да, она внизу, ей что-нибудь нужно передать? | Yes, she is downstairs, should I pass anything on to her? | #92 00:05:33: Ей что-нибудь передать | adapted: adapted |
-| 5 | Элеонора | Нет, ничего передавать ей сейчас не надо. | No, there is no need to pass anything on to her right now. | #93 00:05:35: Нет, не надо | adapted: adapted |
+| 5 | Тимур | Нет, ничего передавать ей сейчас не надо. | No, there is no need to pass anything on to her right now. | #93 00:05:35: Нет, не надо | adapted: adapted |
 | 6 | Аня | Тогда я пойду обратно вниз на работу. | Then I will go back downstairs to work. | #90 00:05:28: в вашем ресторане | adapted: adapted |
 | 7 | Тимур | Шеф, ну нет больше билетов на этот матч! | Chef, there are simply no more tickets for this match! | #95 00:05:51: Ну нету шеф-брат | adapted: adapted |
 | 8 | Аня | Тимур, ну достань мне хотя бы один билет! | Timur, please get me at least one ticket! | #94 00:05:48: Тимур, ну достань мне этот билет | adapted: adapted |

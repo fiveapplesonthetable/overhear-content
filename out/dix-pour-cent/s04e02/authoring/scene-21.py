@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 2
 SCENE = 21
-TITLE = "Une trahison amère  (A Bitter Betrayal)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une trahison amère  (A Bitter Betrayal)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "elise": "emilie"}
-LABELS = {"lea": "Andréa", "elise": "Élise"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'elise': 'emilie'}
+LABELS = {'lea': 'Andréa', 'elise': 'Élise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Sipping her drink in Andrea's office, Elise Formain bitterly confesses that she was passed over for the leadership of StarMedia. Despite her superior competence, the board appointed Olivier Dimars simply because he is a man. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Elise's revelation of sexism at StarMedia exposes the brutal reality of agency politics. When you watch the episode, listen out for the expressions meaning 'sure' and 'to find'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "Elise's revelation of sexism at StarMedia exposes the brutal reality of agency politics. When you watch the episode, listen out for the expressions meaning 'sure' and 'to find'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('elise', "J'étais sûre de te trouver ici.", 'I was sure I would find you here.', [(1036, "J'étais sûr de te trouver ici")], ''),
     ('lea', "Les heures supplémentaires ne s'arrangent jamais.", 'Overtime hours never get any better.', [(1038, "les heures sup' ne s'arrangent pas")], ''),

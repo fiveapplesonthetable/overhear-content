@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Костян, ты представляешь, это какой-то... | Kostyan, can you imagine, this is some kind of... | #119 00:08:07: Костян, ты представляешь, это какой-то | verbatim |
-| 2 | Саша | О, привет, Саш. | Oh, hi, Sasha. | #120 00:08:11: О, привет, Саш | verbatim |
-| 3 | Аня | Спасибо, Костя, супер. | Thank you, Kostya, that is super. | #121 00:08:13: Спасибо, Костя, супер | verbatim |
-| 4 | Саша | Ну, как видишь, нет. | Well, as you can see, I did not go. | #123 00:08:18: Ну, как видишь, нет | verbatim |
-| 5 | Аня | Хотела поговорить. | I wanted to talk. | #124 00:08:20: Хотела поговорить | verbatim |
-| 6 | Саша | Да, конечно. | Yes, of course. | #125 00:08:22: Да, конечно | verbatim |
-| 7 | Аня | Что мы вместе. | That we are together. | #128 00:08:35: что мы вместе | verbatim |
-| 8 | Саша | Ну, что, тогда до вечера? | Well then, see you tonight? | #130 00:08:46: Ну, что, тогда до вечера | verbatim |
-| 9 | Аня | Я, наверное, сегодня не смогу. | I probably will not be able to make it tonight. | #132 00:08:50: Я, наверное, сегодня не смогу | verbatim |
-| 10 | Саша | Мне надо Костю поддержать. | I need to support Kostya. | #133 00:08:52: Мне надо Костю поддержать | verbatim |
-| 11 | Аня | А что случилось? | What happened? | #134 00:08:54: А что случилось | verbatim |
-| 12 | Саша | Да у него собака умерла. | His dog died. | #135 00:08:56: Да у него собака умерла | verbatim |
-| 13 | Аня | Он ее очень любил. | He loved her very much. | #137 00:09:01: Он ее очень любил | verbatim |
+| 1 | Костя | Костян, ты представляешь, это какой-то... | Kostyan, can you imagine, this is some kind of... | #119 00:08:07: Костян, ты представляешь, это какой-то | verbatim |
+| 2 | Костя | О, привет, Саш. | Oh, hi, Sasha. | #120 00:08:11: О, привет, Саш | verbatim |
+| 3 | Костя | Спасибо, Костя, супер. | Thank you, Kostya, that is super. | #121 00:08:13: Спасибо, Костя, супер | verbatim |
+| 4 | Костя | Ну, как видишь, нет. | Well, as you can see, I did not go. | #123 00:08:18: Ну, как видишь, нет | verbatim |
+| 5 | Костя | Хотела поговорить. | I wanted to talk. | #124 00:08:20: Хотела поговорить | verbatim |
+| 6 | Костя | Да, конечно. | Yes, of course. | #125 00:08:22: Да, конечно | verbatim |
+| 7 | Костя | Что мы вместе. | That we are together. | #128 00:08:35: что мы вместе | verbatim |
+| 8 | Костя | Ну, что, тогда до вечера? | Well then, see you tonight? | #130 00:08:46: Ну, что, тогда до вечера | verbatim |
+| 9 | Костя | Я, наверное, сегодня не смогу. | I probably will not be able to make it tonight. | #132 00:08:50: Я, наверное, сегодня не смогу | verbatim |
+| 10 | Костя | Мне надо Костю поддержать. | I need to support Kostya. | #133 00:08:52: Мне надо Костю поддержать | verbatim |
+| 11 | Костя | А что случилось? | What happened? | #134 00:08:54: А что случилось | verbatim |
+| 12 | Костя | Да у него собака умерла. | His dog died. | #135 00:08:56: Да у него собака умерла | verbatim |
+| 13 | Костя | Он ее очень любил. | He loved her very much. | #137 00:09:01: Он ее очень любил | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

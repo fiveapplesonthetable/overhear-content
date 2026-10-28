@@ -16,10 +16,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Федя | Ты только зубами не бойся. | Just do not be afraid of my teeth. | #312 00:21:07: Не бойся зубами | adapted: adapted |
 | 5 | Федя | Тебе сейчас не больно, нет? | Does it hurt right now, or not? | #314 00:21:11: Не больно, нет? | adapted: verbatim |
 | 6 | Нагиев | Да нет, нормально, всё хорошо. | No, it is fine, everything is good. | #314 00:21:11: Да, нет, нормально, хорошо, да | adapted: adapted |
-| 7 | Аня | Вообще-то полоз — не ядовитая змея. | Actually, a rat snake is a non-venomous snake. | #315 00:21:14: не ядовитый, змея | adapted: adapted |
-| 8 | Аня | Наш полоз не ядовитый вообще. | Our rat snake is not venomous at all. | #316 00:21:16: не ядовитый вообще | adapted: adapted |
+| 7 | Федя | Вообще-то полоз — не ядовитая змея. | Actually, a rat snake is a non-venomous snake. | #315 00:21:14: не ядовитый, змея | adapted: adapted |
+| 8 | Федя | Наш полоз не ядовитый вообще. | Our rat snake is not venomous at all. | #316 00:21:16: не ядовитый вообще | adapted: adapted |
 | 9 | Нагиев | Ну, конечно, он не ядовитый. | Well, of course it is not venomous. | #317 00:21:22: Ну, конечно, не ядовитый | adapted: verbatim |
-| 10 | Аня | Полоз ведь совсем не ядовитый. | After all, a rat snake is not venomous at all. | #319 00:21:27: Полоз-то не ядовитый | adapted: adapted |
+| 10 | Федя | Полоз ведь совсем не ядовитый. | After all, a rat snake is not venomous at all. | #319 00:21:27: Полоз-то не ядовитый | adapted: adapted |
 | 11 | Нагиев | Значит, пятьдесят тысяч за полоза. | Then fifty thousand for a rat snake. | #321 00:21:32: Пятьдесят тысяч за полоза | adapted: verbatim |
 | 12 | Федя | Ладно, это вполне справедливо. | Fine, that is quite fair. | #322 00:21:34: Справедливо | adapted: adapted |
 

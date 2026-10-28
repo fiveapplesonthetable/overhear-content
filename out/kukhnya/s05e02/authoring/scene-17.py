@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e02-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 2
 SCENE = 17
-TITLE = 'Месть лжеревизору  (Payback for the Fake Inspector)'
+TITLE = "Месть лжеревизору  (Payback for the Fake Inspector)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja"}
+LABELS = {"chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.02'
 SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 
 INTRO = 'Convinced that the guest in room 313 is just a freeloader who exploited them for two days, Chef Barinov and Mikhail barge into his suite to force-feed him coffee and steaks. Listen to the confrontation.'
 
 STORY = [
-    ('anya', 'А вот и наш дорогой гость.', 'And here is our dear guest.', [(211, 'мой гость')], 'adapted'),
-    ('anya', 'Мы вам горячий кофе принесли.', 'We brought you hot coffee.', [(212, 'Мы вам кофе принесли')], 'adapted'),
-    ('mikhail', 'Пожалуйста, вот ваш лучший кофе.', 'Here you go, here is your finest coffee.', [(215, 'Пожалуйста, ваш кофе')], 'adapted'),
-    ('guest', 'Я не понял, что здесь происходит?', 'I do not understand, what is going on here?', [(216, 'я не понял, что здесь происходит?')], 'verbatim'),
-    ('guest', 'Вы что творите, вы чего?', 'What are you doing, what is with you?', [(217, 'Да! Вы чего?')], 'adapted'),
-    ('guest', 'Вы что, совсем с ума сошли?', 'Have you completely lost your minds?', [(218, 'Вы что, с ума сошли?')], 'verbatim'),
-    ('anya', 'Пей давай свой вкусный кофе!', 'Drink up your delicious coffee!', [(218, 'Поешь')], 'adapted'),
-    ('guest', 'Что вы себе здесь позволяете?', 'What are you allowing yourselves here?', [(219, 'Что себе')], 'adapted'),
-    ('mikhail', 'Витя, дай ему немного дышать.', 'Vitya, let him breathe a little.', [(219, 'Дай ему дышать')], 'adapted'),
-    ('mikhail', 'Подожди, дай ему спокойно дышать.', 'Wait, let him breathe calmly.', [(220, 'Дай ему дышать')], 'adapted'),
-    ('anya', 'А куда пропал весь кофе?', 'And where did all the coffee go?', [(221, 'А там все кофе, а?')], 'adapted'),
-    ('anya', 'Держи этого хитрого ревизора!', 'Hold that clever inspector!', [(222, 'Держи ревизора')], 'adapted'),
+    ('chef', 'А вот и наш дорогой гость.', 'And here is our dear guest.', [(211, 'мой гость')], 'adapted'),
+    ('chef', 'Мы вам горячий кофе принесли.', 'We brought you hot coffee.', [(212, 'Мы вам кофе принесли')], 'adapted'),
+    ('chef', 'Пожалуйста, вот ваш лучший кофе.', 'Here you go, here is your finest coffee.', [(215, 'Пожалуйста, ваш кофе')], 'adapted'),
+    ('chef', 'Я не понял, что здесь происходит?', 'I do not understand, what is going on here?', [(216, 'я не понял, что здесь происходит?')], 'verbatim'),
+    ('chef', 'Вы что творите, вы чего?', 'What are you doing, what is with you?', [(217, 'Да! Вы чего?')], 'adapted'),
+    ('chef', 'Вы что, совсем с ума сошли?', 'Have you completely lost your minds?', [(218, 'Вы что, с ума сошли?')], 'verbatim'),
+    ('chef', 'Пей давай свой вкусный кофе!', 'Drink up your delicious coffee!', [(218, 'Поешь')], 'adapted'),
+    ('chef', 'Что вы себе здесь позволяете?', 'What are you allowing yourselves here?', [(219, 'Что себе')], 'adapted'),
+    ('chef', 'Витя, дай ему немного дышать.', 'Vitya, let him breathe a little.', [(219, 'Дай ему дышать')], 'adapted'),
+    ('chef', 'Подожди, дай ему спокойно дышать.', 'Wait, let him breathe calmly.', [(220, 'Дай ему дышать')], 'adapted'),
+    ('chef', 'А куда пропал весь кофе?', 'And where did all the coffee go?', [(221, 'А там все кофе, а?')], 'adapted'),
+    ('chef', 'Держи этого хитрого ревизора!', 'Hold that clever inspector!', [(222, 'Держи ревизора')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that captures Barinov and Mikhail's disastrous revenge in room 313. Notice how Barinov calls the guest 'Khlestakov' and 'revizor' after Gogol's famous play 'The Government Inspector'. See you in the next scene."
-CLOSING = ('guest', 'Я сейчас же пойду к хозяйке отеля!')
+OUTRO = "And that captures Barinov and Mikhail's disastrous revenge in room 313. Notice how Barinov calls the guest 'Khlestakov' and 'revizor' after Gogol's famous play 'The Government Inspector'. Until next time!"
+CLOSING = ("chef", "Увидимся!")

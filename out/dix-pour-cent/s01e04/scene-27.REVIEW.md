@@ -29,5 +29,5 @@
 | 15 | `mathias` (Mathias) | Je ne suis pas un bon père. | I | 738:Je ne suis pas un bon père |
 
 ## Part 5 — Outro & Closing
-> Mathias and Audrey forgive each other, and now Mathias has to find a way to save Audrey's image after the Kadropov photos. Notice how French uses 'to find' to say what you think of someone: 'you find me beautiful?'. See you next time.
+> Mathias and Audrey forgive each other, and now Mathias has to find a way to save Audrey's image after the Kadropov photos. Notice how French uses 'to find' to say what you think of someone: 'you find me beautiful?'. See you next time!
 - **Closing**: `audrey`: *À demain!*

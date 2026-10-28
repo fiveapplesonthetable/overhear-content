@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s04/e02.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "noemie": "emilie", "mathias": "marcel"}`
-- **Labels**: `{"noemie": "Noémie", "mathias": "Mathias"}`
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}`
+- **Labels**: `{"mathias": "Mathias", "noemie": "Noémie"}`
 
 ## Part 1 — Intro
 > At lunch in Mathias Barneville's new production offices, Noemie meets her new colleagues. She clarifies that she is no longer an assistant but a development executive, before Mathias greets her warmly. Let's listen to their conversation in French first.
@@ -26,5 +26,5 @@
 | 12 | `noemie` (Noémie) | Merci monsieur Barneville, bon appétit aussi. | Thank you Mr. Barneville, enjoy your lunch too. | 359:Merci, monsieur Barneville. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around noemie's promotion. When you watch the episode, listen out for the expressions meaning 'attention' and 'speaks'. You'll catch them now. See you next time.
+> That's it for this scene around noemie's promotion. When you watch the episode, listen out for the expressions meaning 'attention' and 'speaks'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *À demain!*

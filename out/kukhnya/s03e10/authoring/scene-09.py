@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e10-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 10
 SCENE = 9
-TITLE = 'Знакомство со Светой  (Meeting Sveta)'
+TITLE = "Знакомство со Светой  (Meeting Sveta)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.10'
 SOURCE_FILE = 'sources/kukhnya/s03/e10.ru.srt'
 
 INTRO = 'Senya and Fedya tell Chef Barinov that a gorgeous woman has been sitting alone in the dining room for forty minutes. Puffed up by their flattery, the Chef walks out to charm her—and she immediately invites him to sit down.'
@@ -17,15 +17,15 @@ STORY = [
     ('senya', 'Шеф, там в зале красотка сидит.', 'Chef, there is a beauty sitting in the dining room.', [(135, 'Шеф, там в зале такая красотка сидит')], 'adapted'),
     ('senya', 'Мы в вас верим, всё получится.', 'We believe in you, everything will work out.', [(138, 'мы у вас верим, у вас все получится')], 'adapted'),
     ('senya', 'Потому что вы красивый и умный.', 'Because you are handsome and smart.', [(139, 'потому что вы такой красивый'), (140, 'Умный')], 'adapted'),
-    ('anya', 'Добрый день, я шеф-повар этого ресторана.', 'Good afternoon, I am the head chef of this restaurant.', [(143, 'Добрый день, я шеф-повар этого ресторана')], 'adapted'),
-    ('anya', 'Могу я вам что-нибудь предложить?', 'May I offer you something?', [(144, 'Могу вам что-нибудь предложить')], 'adapted'),
-    ('guest', 'Ой, это же вы ведёте кулинарное шоу!', 'Oh, you are the one who hosts the cooking show!', [(145, 'Ой, это же вы'), (146, 'ведете кулинарное шоу')], 'adapted'),
-    ('anya', 'Это было давно, я был молод.', 'That was a long time ago, I was young.', [(147, 'Ну, это было давно, я был молод')], 'adapted'),
-    ('guest', 'Меня Света зовут, а вас как?', 'My name is Sveta, and what is yours?', [(148, 'Меня Света зовут')], 'adapted'),
-    ('anya', 'Меня зовут Виктор Петрович Баринов.', 'My name is Victor Petrovich Barinov.', [(149, 'Виктор Петрович')], 'adapted'),
-    ('guest', 'Как официально, составите мне компанию?', 'How formal, will you keep me company?', [(149, 'Как официально'), (150, 'вы не составите мне компанию')], 'adapted'),
-    ('guest', 'Витя, ты такой смешной мужчина!', 'Vitya, you are such a funny man!', [(154, 'Вить, ты такой смешной')], 'adapted'),
-    ('anya', 'Светочка, я на минутку отойду, не скучайте.', 'Svetochka, I will step away for a minute, do not be bored.', [(155, 'Светочка, я сейчас на одну минутку отойду, а вы тут не скучайте')], 'adapted'),
+    ('chef', 'Добрый день, я шеф-повар этого ресторана.', 'Good afternoon, I am the head chef of this restaurant.', [(143, 'Добрый день, я шеф-повар этого ресторана')], 'adapted'),
+    ('chef', 'Могу я вам что-нибудь предложить?', 'May I offer you something?', [(144, 'Могу вам что-нибудь предложить')], 'adapted'),
+    ('chef', 'Ой, это же вы ведёте кулинарное шоу!', 'Oh, you are the one who hosts the cooking show!', [(145, 'Ой, это же вы'), (146, 'ведете кулинарное шоу')], 'adapted'),
+    ('chef', 'Это было давно, я был молод.', 'That was a long time ago, I was young.', [(147, 'Ну, это было давно, я был молод')], 'adapted'),
+    ('chef', 'Меня Света зовут, а вас как?', 'My name is Sveta, and what is yours?', [(148, 'Меня Света зовут')], 'adapted'),
+    ('chef', 'Меня зовут Виктор Петрович Баринов.', 'My name is Victor Petrovich Barinov.', [(149, 'Виктор Петрович')], 'adapted'),
+    ('chef', 'Как официально, составите мне компанию?', 'How formal, will you keep me company?', [(149, 'Как официально'), (150, 'вы не составите мне компанию')], 'adapted'),
+    ('chef', 'Витя, ты такой смешной мужчина!', 'Vitya, you are such a funny man!', [(154, 'Вить, ты такой смешной')], 'adapted'),
+    ('chef', 'Светочка, я на минутку отойду, не скучайте.', 'Svetochka, I will step away for a minute, do not be bored.', [(155, 'Светочка, я сейчас на одну минутку отойду, а вы тут не скучайте')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Chef Barinov is convinced his natural charisma still works like magic, unaware that Senya and Fedya arranged Sveta's visit themselves."
-CLOSING = ('guest', 'Витя, ты такой смешной!')
+OUTRO = "Chef Barinov is convinced his natural charisma still works like magic, unaware that Senya and Fedya arranged Sveta's visit themselves. Until next time!"
+CLOSING = ("chef", "Увидимся!")

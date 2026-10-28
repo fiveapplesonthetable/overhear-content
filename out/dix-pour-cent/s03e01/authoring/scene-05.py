@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 5
-TITLE = "Le deal pour Guillaume  (The Canet Deal)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le deal pour Guillaume  (The Canet Deal)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "mathias": "marcel", "camille": "emilie"}
-LABELS = {"gabriel": "Gabriel", "mathias": "Mathias", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'mathias': 'marcel', 'camille': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'mathias': 'Mathias', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "At the ASK agency, Mathias proudly tells Gabriel about signing a lucrative contract for star actor Guillaume Canet. Gabriel brags about his own massive deal for Jean Dujardin, until Camille notices a bizarre name on the document. Let's listen to the scene in French first."
 OPENER = "Let's examine how Mathias and Gabriel compare their major star contracts step by step to explore office rivalry."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around the canet deal. When you watch the episode, listen out for the expressions meaning 'contract' and 'signed!'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne journée!")
+OUTRO = "That's it for this scene around the canet deal. When you watch the episode, listen out for the expressions meaning 'contract' and 'signed!'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('mathias', 'Le contrat pour Guillaume Canet est signé!', 'The contract for Guillaume Canet is signed!', [(71, "Le deal pour Guillaume Canet, ça y est, c'est fait.")], ''),
     ('mathias', 'Je suis très content pour mon client.', 'I am very happy for my client.', [(72, 'Je dois te dire que je suis assez content.')], ''),

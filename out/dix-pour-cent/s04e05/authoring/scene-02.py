@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 2
-TITLE = "Arrivée à Paris  (Arrival in Paris)"
-LEVEL = "A1 — débutant"
+TITLE = 'Arrivée à Paris  (Arrival in Paris)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sigourney": "emilie", "lea": "lucie"}
-LABELS = {"sigourney": "Sigourney", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'sigourney': 'emilie', 'lea': 'lucie'}
+LABELS = {'sigourney': 'Sigourney', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Stepping in on short notice for an overwhelmed Andrea, Camille arrives at Roissy airport to greet Hollywood star Sigourney Weaver. The American actress delights Camille by greeting her in fluent French and immediately insisting on a detour to buy delicate Parisian pastries. Let's listen to their conversation in French first."
 OPENER = "Let's explore Camille and Sigourney's charming first encounter line by line."
 TRANSITION = "Now let's listen to Camille and Sigourney's exchange once more from start to finish."
-OUTRO = "That's it for this scene around arrival in paris. When you watch the episode, listen out for the expressions meaning 'dear' and 'madam'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "That's it for this scene around arrival in paris. When you watch the episode, listen out for the expressions meaning 'dear' and 'madam'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'Bienvenue à Paris, chère madame Weaver!', 'Welcome to Paris, dear Madame Weaver!', [], ''),
     ('sigourney', "Merci beaucoup, je suis ravie d'être ici.", 'Thank you very much, I am delighted to be here.', [], ''),

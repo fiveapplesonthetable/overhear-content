@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 27
-TITLE = "Dernier pas dans la rue  (Last Step into the Street)"
-LEVEL = "A1 — débutant"
+TITLE = 'Dernier pas dans la rue  (Last Step into the Street)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Stepping out into the cool Parisian evening, Andrea and Gabriel walk down onto the pavement outside the building. Free from the endless agency emergencies, they look toward their new lives with calm optimism and promise to stay close friends as they say their final goodbyes. Let's listen to their conversation in French first."
 OPENER = "Let's follow Andrea and Gabriel into the cool night step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Under the warm streetlights of Paris, Andrea and Gabriel share a loving embrace and promise to meet for coffee, stepping forward together into the next chapter of their lives. When you watch the episode, listen out for the expressions meaning 'night' and 'cool'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À demain!")
+OUTRO = "Under the warm streetlights of Paris, Andrea and Gabriel share a loving embrace and promise to meet for coffee, stepping forward together into the next chapter of their lives. When you watch the episode, listen out for the expressions meaning 'night' and 'cool'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('lea', "L'air de la nuit est frais.", 'The night air is cool.', [(1042, 'Céline')], ''),
     ('gabriel', 'Paris est magnifique à cette heure.', 'Paris is magnificent at this hour.', [(1042, 'Céline')], ''),

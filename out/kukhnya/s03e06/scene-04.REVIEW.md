@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нагиев | Ты сейчас свободен, есть разговор. | Are you free right now, we need to talk. | #54 00:03:52: Ты свободен? Есть разговор | adapted: adapted |
-| 2 | Аня | Я тебе сразу честно скажу. | I will tell you honestly right away. | #55 00:03:54: я тебе сразу скажу | adapted: adapted |
-| 3 | Аня | Ты всегда можешь на меня положиться. | You can always count on me. | #57 00:04:06: ты можешь на меня положиться | adapted: adapted |
+| 2 | Шеф | Я тебе сразу честно скажу. | I will tell you honestly right away. | #55 00:03:54: я тебе сразу скажу | adapted: adapted |
+| 3 | Шеф | Ты всегда можешь на меня положиться. | You can always count on me. | #57 00:04:06: ты можешь на меня положиться | adapted: adapted |
 | 4 | Нагиев | А что эта женщина из моего прошлого здесь делала? | And what was that woman from my past doing here? | #58 00:04:21: из моего прошлого здесь делала | adapted: adapted |
-| 5 | Аня | Она у нас новое меню требовала. | She demanded a new menu from us. | #59 00:04:27: Новое меню требовала | adapted: adapted |
-| 6 | Аня | Не волнуйся, ей здесь долго не продержаться. | Do not worry, she will not last long here. | #61 00:04:33: Ей здесь долго не продержаться | adapted: adapted |
+| 5 | Шеф | Она у нас новое меню требовала. | She demanded a new menu from us. | #59 00:04:27: Новое меню требовала | adapted: adapted |
+| 6 | Шеф | Не волнуйся, ей здесь долго не продержаться. | Do not worry, she will not last long here. | #61 00:04:33: Ей здесь долго не продержаться | adapted: adapted |
 | 7 | Нагиев | Я думаю в следующем месяце тебе зарплату поднять. | I am thinking of raising your salary next month. | #64 00:04:43: Я думаю, в следующем месяце тебе зарплату поднять | adapted: adapted |
-| 8 | Аня | Большое спасибо тебе, Дима. | Thank you very much, Dima. | #66 00:04:49: Спасибо, Дим | adapted: adapted |
+| 8 | Шеф | Большое спасибо тебе, Дима. | Thank you very much, Dima. | #66 00:04:49: Спасибо, Дим | adapted: adapted |
 | 9 | Нагиев | Это тебе спасибо за преданность. | Thank you for your loyalty. | #67 00:04:51: Тебе спасибо за преданность | adapted: adapted |
-| 10 | Макс | Привет, я Макс, а как тебя зовут? | Hi, I am Max, and what is your name? | #69 00:05:10: А как тебя зовут | adapted: adapted |
-| 11 | Аня | Меня зовут Вика. | My name is Vika. | #70 00:05:13: Вика | adapted: adapted |
-| 12 | Макс | Прекрасное имя, позвольте вас угостить. | A wonderful name, allow me to treat you. | #74 00:05:23: Прекрасное имя. Мария, позвольте вас угостить | adapted: adapted |
+| 10 | Аня | Привет, я Макс, а как тебя зовут? | Hi, I am Max, and what is your name? | #69 00:05:10: А как тебя зовут | adapted: adapted |
+| 11 | Шеф | Меня зовут Вика. | My name is Vika. | #70 00:05:13: Вика | adapted: adapted |
+| 12 | Аня | Прекрасное имя, позвольте вас угостить. | A wonderful name, allow me to treat you. | #74 00:05:23: Прекрасное имя. Мария, позвольте вас угостить | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

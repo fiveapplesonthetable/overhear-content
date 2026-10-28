@@ -29,5 +29,5 @@
 | 15 | `augustin` (Augustin) | Magnifique! | Magnificent! | 421:Magnifique |
 
 ## Part 5 — Outro & Closing
-> Audrey has won the role on the spot, even if she now has to learn pole dancing for real. Next, Andréa sends Camille on an errand with Hippolyte. See you there.
+> Audrey has won the role on the spot, even if she now has to learn pole dancing for real. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

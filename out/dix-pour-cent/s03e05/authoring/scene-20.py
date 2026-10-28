@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 20
-TITLE = "Visite nocturne  (Late Night Visit)"
-LEVEL = "A1 — débutant"
+TITLE = 'Visite nocturne  (Late Night Visit)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "carlotta": "emilie", "lea": "lucie"}
-LABELS = {"hicham": "Hicham", "carlotta": "Carlotta", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'carlotta': 'emilie', 'lea': 'lucie'}
+LABELS = {'hicham': 'Hicham', 'carlotta': 'Carlotta', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "After an upsetting phone argument with his ex-wife about their son, Hicham visits Andrea's apartment late at night. Seeking comfort, he asks to hold his newborn baby daughter. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Holding his daughter in his arms brings quiet comfort to Hicham after a difficult evening. When you watch the episode, listen out for the expressions meaning 'wanted' and 'to speak'. You'll catch them now. See you next time."
-CLOSING = ("hicham", "Bonne soirée!")
+OUTRO = "Holding his daughter in his arms brings quiet comfort to Hicham after a difficult evening. When you watch the episode, listen out for the expressions meaning 'wanted' and 'to speak'. You'll catch them now. See you next time!"
+CLOSING = ('hicham', 'Bonne soirée!')
 STORY = [
     ('hicham', 'Je voulais juste parler à Elvis.', 'I just wanted to speak to Elvis.', [(794, 'envie de parler à Elvis')], ''),
     ('carlotta', 'Pour ce week-end, il ne viendra pas.', 'For this weekend, he will not come.', [(797, 'pour ce week-end il viendra pas')], ''),

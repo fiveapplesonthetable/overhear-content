@@ -27,5 +27,5 @@
 | 13 | `noemie` (Noémie) | Asseyons-nous pour regarder la cérémonie. | Let us sit down to watch the ceremony. | 905:c'est par ici |
 
 ## Part 5 — Outro & Closing
-> Swallowing her hurt pride, Noemie takes her seat beside Mathias in the glamorous hall. When you watch the episode, listen out for the expressions meaning 'let us find' and 'seats'. You'll catch them now. See you next time.
+> Swallowing her hurt pride, Noemie takes her seat beside Mathias in the glamorous hall. When you watch the episode, listen out for the expressions meaning 'let us find' and 'seats'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *Bonne journée!*

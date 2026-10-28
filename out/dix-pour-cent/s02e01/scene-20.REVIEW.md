@@ -30,5 +30,5 @@
 | 16 | `lea` (Andréa) | Non, attendez, Hicham! Hicham! | No, wait, Hicham! Hicham! | 634:Non, attendez, Hicham, 639:Hicham |
 
 ## Part 5 — Outro & Closing
-> Hicham proved that while he has immense resources, his temper and whims are a force of nature. Remember the everyday expression for letting something drop: laisser tomber. Until next time.
+> Hicham proved that while he has immense resources, his temper and whims are a force of nature. Remember the everyday expression for letting something drop: laisser tomber. See you next time!
 - **Closing**: `karine`: *Bonne soirée!*

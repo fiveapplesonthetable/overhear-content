@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 1
-TITLE = 'Секрет успеха и пустой сейф  (The Secret of Success and the Empty Safe)'
+TITLE = "Секрет успеха и пустой сейф  (The Secret of Success and the Empty Safe)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'hostess': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'hostess': 'Хостес'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "hostess": "anja", "nagiyev": "angelina"}
+LABELS = {"anya": "Макс", "hostess": "Хостес", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = "Welcome to Episode Seventeen of Season Three. Max reflects on everything that keeps Claude Monet among Moscow's finest restaurants—until Dmitry Nagiyev realizes that every kopeck he owned was inside the stolen safe."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max's proud introduction to Claude Monet crashes straight into reality as Nagiyev remembers he stored all his cash in the stolen safe."
-CLOSING = ('nagiyev', 'Там были все мои деньги!')
+OUTRO = "Max's proud introduction to Claude Monet crashes straight into reality as Nagiyev remembers he stored all his cash in the stolen safe. Until next time!"
+CLOSING = ("nagiyev", "До завтра!")

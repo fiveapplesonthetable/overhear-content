@@ -1,41 +1,40 @@
-# kukhnya-s01e09-scene-19: review sheet
+# Удивительные открытия  (Astonishing Discoveries) — `kukhnya-s01e09-scene-19`
 
-Title: Удивительные открытия  (Astonishing Discoveries)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (The Kitchen) S1.9
+**Source:** Кухня (Kukhnya) S1.09 · `sources/kukhnya/s01/e09.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `vika` | angelina | Вика |
+| `chef` | anja | Шеф |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> After the high-stakes bank banquet successfully wraps up at Claude Monet, Vika anxiously checks in with Chef Barinov about the evening's results. As Barinov happily confirms that the guests were thrilled with the cake, both reflect on the astonishing discoveries of human nature and parenthood. Let's listen to their conversation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вика | Виктор, скажи, как прошёл этот сложный банкет? | Viktor, tell me, how did this difficult banquet go? | #341 00:22:05: Ну и как, банкет | adapted: asking about banquet outcome |
-| 2 | Шеф | Всё прошло просто замечательно и очень спокойно. | Everything went simply wonderfully and very calmly. | #341 00:22:05: Все хорошо | adapted: reporting smooth event |
-| 3 | Вика | А что случилось с нашим праздничным тортом? | And what happened to our celebration cake? | #342 00:22:07: что случилось с тортом | adapted: inquiring about dessert |
-| 4 | Шеф | Ничего страшного, все гости остались очень довольны! | Nothing terrible, all the guests remained very pleased! | #343 00:22:10: Ничего. Гости довольны | adapted: reassuring about cake |
-| 5 | Вика | Ну и слава богу, я сильно волновалась. | Well, thank goodness, I was worrying intensely. | #344 00:22:14: Ну и слава богу | adapted: expressing relief |
-| 6 | Шеф | Мы совершаем удивительные открытия каждый день. | We make astonishing discoveries every day. | #345 00:22:17: открытий мы совершаем каждый день | adapted: reflecting philosophically |
-| 7 | Вика | Иногда человек хочет спасти, а не уничтожить. | Sometimes a person wants to save, not destroy. | #346 00:22:21: тебя уничтожить<br>#347 00:22:25: он спасает тебя | adapted: commenting on mutual help |
-| 8 | Шеф | Да, я тоже это сегодня ясно понял. | Yes, I clearly understood that today too. | #347 00:22:25: спасает тебя | adapted: agreeing with insight |
-| 9 | Вика | Ты думаешь, что легко управляешь большим коллективом. | You think that you easily manage a big team. | #348 00:22:30: справляешься с целым коллективом | adapted: noting management illusion |
-| 10 | Шеф | А с маленьким ребёнком справиться гораздо труднее! | And handling a little child is much harder! | #349 00:22:36: справиться с маленьким ребенком | adapted: admitting parenting challenge |
-| 11 | Вика | Дети требуют много терпения и настоящей заботы. | Children demand much patience and real care. | #349 00:22:36: маленьким ребенком | adapted: highlighting patience |
-| 12 | Шеф | Но моя дочка принесла нам большую удачу. | But my daughter brought us great luck. | #349 00:22:36: маленьким ребенком | adapted: praising daughter |
-| 13 | Вика | Я рада, что этот вечер закончился успешно! | I am glad that this evening ended successfully! | #341 00:22:05: Все хорошо | adapted: concluding positively |
+| 0 | Вика | Виктор, скажи, как прошёл этот сложный банкет? | Viktor, tell me, how did this difficult banquet go? | #341 "Ну и как, банкет" |  |
+| 1 | Шеф | Всё прошло просто замечательно и очень спокойно. | Everything went simply wonderfully and very calmly. | #341 "Все хорошо" |  |
+| 2 | Вика | А что случилось с нашим праздничным тортом? | And what happened to our celebration cake? | #342 "что случилось с тортом" |  |
+| 3 | Шеф | Ничего страшного, все гости остались очень довольны! | Nothing terrible, all the guests remained very pleased! | #343 "Ничего. Гости довольны" |  |
+| 4 | Вика | Ну и слава богу, я сильно волновалась. | Well, thank goodness, I was worrying intensely. | #344 "Ну и слава богу" |  |
+| 5 | Шеф | Мы совершаем удивительные открытия каждый день. | We make astonishing discoveries every day. | #345 "открытий мы совершаем каждый день" |  |
+| 6 | Вика | Иногда человек хочет спасти, а не уничтожить. | Sometimes a person wants to save, not destroy. | #346 "тебя уничтожить", #347 "он спасает тебя" |  |
+| 7 | Шеф | Да, я тоже это сегодня ясно понял. | Yes, I clearly understood that today too. | #347 "спасает тебя" |  |
+| 8 | Вика | Ты думаешь, что легко управляешь большим коллективом. | You think that you easily manage a big team. | #348 "справляешься с целым коллективом" |  |
+| 9 | Шеф | А с маленьким ребёнком справиться гораздо труднее! | And handling a little child is much harder! | #349 "справиться с маленьким ребенком" |  |
+| 10 | Вика | Дети требуют много терпения и настоящей заботы. | Children demand much patience and real care. | #349 "маленьким ребенком" |  |
+| 11 | Шеф | Но моя дочка принесла нам большую удачу. | But my daughter brought us great luck. | #349 "маленьким ребенком" |  |
+| 12 | Вика | Я рада, что этот вечер закончился успешно! | I am glad that this evening ended successfully! | #341 "Все хорошо" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Viktor, tell me, how did this difficult banquet go?' Direct address name with imperative verb, interrogative adverb, past motion verb, and demonstrative adjective-noun phrase.
-- 'Everything went simply wonderfully and very calmly.' Subject pronoun with past verb, limiting particle, manner adverb, coordinating conjunction, degree adverb, and qualitative adverb.
-- 'And what happened to our celebration cake?' Vika uses the perfective verb meaning 'to happen' to focus on the single completed result, pairing it with 'festive' and 'cake'.
-- 'Nothing terrible, all the guests remained very pleased!' Negative pronoun with genitive adjective, collective determiner, subject noun, past verb, degree adverb, and short adjective.
-- 'Well, thank goodness, I was worrying intensely.' Conversational particles with fixed gratitude formula, subject pronoun, degree adverb, and past imperfective reflexive verb.
-- 'We make astonishing discoveries every day.' Subject pronoun with present verb, accusative plural adjective-noun phrase, and accusative time expression.
-- 'Sometimes a person wants to save, not destroy.' Temporal adverb with nominative subject noun, present modal verb, infinitive, adversative conjunction, negative particle, and infinitive.
-- 'Yes, I clearly understood that today too.' Affirmative particle with subject pronoun, focusing particle, demonstrative pronoun, temporal adverb, manner adverb, and past verb.
-- 'You think that you easily manage a big team.' Subject pronoun with present cognitive verb, subordinating conjunction, manner adverb, present verb, and instrumental adjective-noun phrase.
-- 'And handling a little child is much harder!' Adversative conjunction with instrumental prepositional phrase, perfective infinitive, degree adverb, and comparative predicative.
-- 'Children demand much patience and real care.' Nominative plural subject noun with present verb, quantitative adverb, and genitive nouns joined by coordinating conjunction.
-- 'But my daughter brought us great luck.' Adversative conjunction with possessive determiner, subject noun, past transitive verb, dative pronoun, and accusative adjective-noun phrase.
-- 'I am glad that this evening ended successfully!' Subject pronoun with short adjective, subordinating conjunction, demonstrative noun phrase, past reflexive verb, and manner adverb.
+> Pleased by the successful banquet and enlightened by the trials of the day, Vika and Chef Barinov share a rare moment of mutual understanding. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'banquet' and 'big' — you will catch every word right away. See you next time!
+
+**Вика:** Пока!

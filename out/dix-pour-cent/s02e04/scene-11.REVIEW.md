@@ -29,5 +29,5 @@
 | 15 | `noemie` (Noémie) | C'est comme ça que j'ai appris à contrôler mes émotions. | That is how I learned to control my emotions. | 325:C'est comme ça que j'ai appris à contrôler mes émotions. |
 
 ## Part 5 — Outro & Closing
-> Facing stiff outside competition for the junior agent post, Camille feels inadequate next to Eugenie's credentials. Despite Camille's moral objections, Noémie sets out to sabotage the applicant's interview. Join us next time to see what happens next.
+> Facing stiff outside competition for the junior agent post, Camille feels inadequate next to Eugenie's credentials. Despite Camille's moral objections, Noémie sets out to sabotage the applicant's interview. See you next time!
 - **Closing**: `noemie`: *À demain!*

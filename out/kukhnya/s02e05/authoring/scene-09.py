@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e05-scene-09"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e05-scene-09'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 5
 SCENE = 9
-TITLE = 'Дед или собака по кличке Дед  (A Grandfather or a Dog Named Grandpa)'
+TITLE = "Дед или собака по кличке Дед  (A Grandfather or a Dog Named Grandpa)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.05"
-SOURCE_FILE = "sources/kukhnya/s02/e05.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.05'
+SOURCE_FILE = 'sources/kukhnya/s02/e05.ru.srt'
 
 INTRO = "Disaster nearly strikes at the bar when Sasha expresses sympathy to Vika about Kostya's dead dog right after Vika heard it was his grandfather. Thinking fast on his feet to save Max, Kostya explains to both women that his old dog was affectionately nicknamed 'Grandpa'."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 9 of Episode 5, listen out for the exchange around a grandfather or a dog named grandpa — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Что? Потрясающе?')
+OUTRO = "That wraps up this scene as sasha and Vika compare notes about Kostya's tragedy in front of him, forcing Kostya to improvise that his late dog was nicknamed 'Grandpa'. Until next time!"
+CLOSING = ("anya", "До свидания!")

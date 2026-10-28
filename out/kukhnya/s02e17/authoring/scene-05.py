@@ -1,30 +1,30 @@
-ID = "kukhnya-s02e17-scene-05"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e17-scene-05'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 17
 SCENE = 5
 TITLE = "Странное настроение Шефа  (The Chef's Strange Mood)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja'}
-LABELS = {'anya': 'Сеня', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.17"
-SOURCE_FILE = "sources/kukhnya/s02/e17.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
+LABELS = {"fedya": "Федя", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.17'
+SOURCE_FILE = 'sources/kukhnya/s02/e17.ru.srt'
 
 INTRO = 'In the staff corridor, Senya and Fedya trade guesses about what was said the night before, right until Chef Barinov storms past yelling at them to get back to work. Fedya declares he is tired of guessing what is wrong with the Chef and decides he is simply crazy.'
 
 STORY = [
-    ('anya', 'Ты ей вчера сказал?', 'Did you tell her yesterday?', [(71, 'ты ей вчера сказал')], ''),
+    ('senya', 'Ты ей вчера сказал?', 'Did you tell her yesterday?', [(71, 'ты ей вчера сказал')], ''),
     ('fedya', 'Я сказал...', 'I told her...', [(72, 'Я сказал')], ''),
-    ('anya', 'Солнце. Трансформатор.', 'Sun. Transformer.', [(74, 'Солнце. Трансформатор')], ''),
+    ('senya', 'Солнце. Трансформатор.', 'Sun. Transformer.', [(74, 'Солнце. Трансформатор')], ''),
     ('fedya', 'А что он сказал-то?', 'Wait, what did he even say?', [(76, 'А что он сказал-то')], ''),
-    ('anya', 'Ах, чергин.', 'Oh, what a guy.', [(76, 'Ах, чергин')], ''),
+    ('senya', 'Ах, чергин.', 'Oh, what a guy.', [(76, 'Ах, чергин')], ''),
     ('fedya', 'Что-то про любовь, наверное.', 'Something about love, probably.', [(77, 'Что-то про любовь, наверное')], ''),
-    ('anya', 'Я не понял, девочки, вы что, на гособеспечении?', 'I do not get it, girls, are you on state welfare or what?', [(78, 'Я не понял, девочки, вы что, на гособеспечении')], ''),
+    ('senya', 'Я не понял, девочки, вы что, на гособеспечении?', 'I do not get it, girls, are you on state welfare or what?', [(78, 'Я не понял, девочки, вы что, на гособеспечении')], ''),
     ('fedya', 'Быстро работать обрубки!', 'Get to work fast, you stumps!', [(79, 'Быстро работать обрубки')], ''),
-    ('anya', 'А что с ним?', 'What is wrong with him today?', [(81, 'А что с ним')], ''),
+    ('senya', 'А что с ним?', 'What is wrong with him today?', [(81, 'А что с ним')], ''),
     ('fedya', 'Я уже задолбался угадывать, что с ним.', 'I am sick and tired of guessing what is wrong with him.', [(81, 'Я уже задолбался угадывать, что с ним')], ''),
-    ('anya', 'Давай примем, что он просто псих.', 'Let us just accept that he is simply nuts.', [(82, 'Давай примем, что он просто псих')], ''),
+    ('senya', 'Давай примем, что он просто псих.', 'Let us just accept that he is simply nuts.', [(82, 'Давай примем, что он просто псих')], ''),
     ('fedya', 'В голове себе постучи.', 'Go knock on your own head.', [(83, 'В голове себе постучи')], ''),
 ]
 
@@ -46,6 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = "When you watch Scene 5 of Episode 17, listen out for the exchange around the chef's strange mood — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('fedya', 'В голове себе постучи.')
+OUTRO = 'That wraps up this scene as in the locker room and kitchen corridor, Senya and Fedya try to figure out why Chef Barinov is barking orders and acting even crazier than usual. Until next time!'
+CLOSING = ("fedya", "Увидимся!")

@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Chef, what are we going to do in the dark now?' Spoken Russian keeps this brisk, leaning on 'Chef Barinov' and finishing on 'darkness'. Chef Barinov answers right away.
 - 'Nothing, we have already cooked everything.' Chef Barinov anchors the line on 'nothing', while 'cooked' completes the thought.
-- 'And the rest is no longer our problem.' The grammar packs 'and' and 'problems' into a tight, idiomatic kitchen exchange.
+- 'And the rest is no longer our problem.' Here Chef Barinov anchors the thought on 'remaining, other, the rest' and finishes on 'problems', keeping the spoken rhythm brisk and natural.
 - 'Guys, what on earth is going on in here?' Here the Russian phrasing highlights 'guys' before landing on 'is happening'.
 - 'We have a banquet scheduled for an oligarch today.' Here the Russian phrasing highlights 'at' before landing on 'planned'.
 - 'Wait, Dima, what oligarch are you talking about?' The meaning hinges on 'wait' working together with 'oligarch' in spoken Russian.

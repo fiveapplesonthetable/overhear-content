@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 8
-TITLE = "Comme dans The Revenant  (Like in The Revenant)"
-LEVEL = "A1 — débutant"
+TITLE = 'Comme dans The Revenant  (Like in The Revenant)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "maxime": "theo", "lea": "lucie"}
-LABELS = {"maxime": "Maxime", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'maxime': 'theo', 'lea': 'lucie'}
+LABELS = {'maxime': 'Maxime', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "Andrea plays confidential video rushes of Jean Dujardin acting like a feral beast in the wilderness. Producer Maxime watches in horror as Andrea compares Dujardin's extreme performance to Leonardo DiCaprio in The Revenant. Let's listen to the scene in French first."
 OPENER = "Let's examine how Maxime reacts to Dujardin's shocking performance step by step to explore extreme method acting."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around like in the revenant. When you watch the episode, listen out for the expressions meaning 'director' and 'shouts'. You'll catch them now. See you next time."
-CLOSING = ("maxime", "À demain!")
+OUTRO = "That's it for this scene around like in the revenant. When you watch the episode, listen out for the expressions meaning 'director' and 'shouts'. You'll catch them now. See you next time!"
+CLOSING = ('maxime', 'À demain!')
 STORY = [
     ('maxime', 'La réalisatrice crie que la prise est coupée!', 'The director is shouting that the take is cut!', [(161, 'Coupé.'), (162, "Jean, c'est coupé.")], ''),
     ('lea', "Jean continue de jouer malgré l'ordre d'arrêter.", 'Jean continues to act despite the order to stop.', [(163, "Jean, c'est coupé !")], ''),

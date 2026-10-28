@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 27
-TITLE = "Le verdict du contrôle fiscal  (The Tax Audit Verdict)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le verdict du contrôle fiscal  (The Tax Audit Verdict)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "colette": "emilie", "mathias": "marcel", "gabriel": "theo"}
-LABELS = {"colette": "Colette", "mathias": "Mathias", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'colette': 'emilie', 'mathias': 'marcel', 'gabriel': 'theo'}
+LABELS = {'colette': 'Colette', 'mathias': 'Mathias', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = 'After three days of silence following her breakup with Andréa, tax inspector Colette Brancillon has returned to ASK, walking straight past Andréa into the conference room. Now Colette stands before Mathias, Andréa, Gabriel, Arlette, and Hélène Kerr to announce the verdict of her tax audit. Listen to the French first, without worrying about catching every word.'
 OPENER = "Let's walk through the scene line by line. Colette greets the partners in the conference room."
 TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = 'Colette leaves the partners reeling from the news of a heavy fine and a commercial court summons. Next, Hélène Kerr demands to know how ASK will survive the audit. See you there.'
-CLOSING = ("colette", "Bonne journée!")
+OUTRO = 'Colette leaves the partners reeling from the news of a heavy fine and a commercial court summons. See you next time!'
+CLOSING = ('colette', 'Bonne journée!')
 STORY = [
     ('colette', 'Bonjour à tous.', 'Hello, everyone.', [(692, 'Bonjour à tous')], ''),
     ('mathias', 'Bonjour.', 'Hello.', [(693, 'Bonjour')], ''),

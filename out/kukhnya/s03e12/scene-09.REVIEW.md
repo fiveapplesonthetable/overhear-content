@@ -19,9 +19,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Хостес | Я квартиру только девочкам сдаю. | I only rent the apartment out to girls. | #143 00:08:56: Я только девочкам сдаю | adapted: adapted |
 | 8 | Аня | А зачем мне тогда квартиру показывали? | Then why did you show me the apartment? | #145 00:09:01: мне тогда квартиру показывали | adapted: adapted |
 | 9 | Хостес | Так ты же деньги за просмотр заплатил. | Because you paid the money for the viewing. | #146 00:09:02: заплатил | adapted: adapted |
-| 10 | Шеф | И так всё хорошо получилось. | And everything turned out so well. | #147 00:09:05: И так все получилось | adapted: adapted |
-| 11 | Шеф | Ему дали новенький мотоцикл. | They gave him a brand-new motorcycle. | #148 00:09:09: мотоцикл<br>#149 00:09:15: Новенький | adapted: adapted |
-| 12 | Шеф | Ну что, Кирилл Ильич, теперь мир? | Well then, Kirill Ilyich, is it peace now? | #150 00:09:20: Ну что, Кирилл Ильич, мир | adapted: adapted |
+| 10 | Хостес | И так всё хорошо получилось. | And everything turned out so well. | #147 00:09:05: И так все получилось | adapted: adapted |
+| 11 | Хостес | Ему дали новенький мотоцикл. | They gave him a brand-new motorcycle. | #148 00:09:09: мотоцикл<br>#149 00:09:15: Новенький | adapted: adapted |
+| 12 | Хостес | Ну что, Кирилл Ильич, теперь мир? | Well then, Kirill Ilyich, is it peace now? | #150 00:09:20: Ну что, Кирилл Ильич, мир | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -32,8 +32,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You are not allowed to live here.' the hostess anchors the line on 'and', while 'one must not' completes the thought.
 - 'But why am I not allowed?' The grammar packs 'but' and 'one must not' into a tight, idiomatic kitchen exchange.
 - 'I only rent the apartment out to girls.' Here the Russian phrasing highlights 'I' before landing on 'I rent out'. Max answers right away.
-- 'Then why did you show me the apartment?' The grammar packs 'and' and 'showed' into a tight, idiomatic kitchen exchange.
+- 'Then why did you show me the apartment?' Max pairs 'why' with 'showed' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Because you paid the money for the viewing.' the hostess anchors the line on 'so', while 'to pay' completes the thought.
-- 'And everything turned out so well.' Notice the reflexive suffix on the verb meaning 'turned out', turning the action back on the subject.
+- 'And everything turned out so well.' Chef Barinov centers this short reply on 'turned out', letting a few direct words carry the whole meaning.
 - 'They gave him a brand-new motorcycle.' Chef Barinov brings out the contrast between 'to him' and 'to give' in a few short words.
 - 'Well then, Kirill Ilyich, is it peace now?' In Russian, the idea of 'come on' flows naturally into 'world' without extra filler words.

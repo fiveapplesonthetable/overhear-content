@@ -27,5 +27,5 @@
 | 13 | `sofia` (Sofia) | Attends, Gabriel, qu'est-ce qui se passe chez ASK? | Wait, Gabriel, what is happening at ASK? | 518:Qu'est-ce qui se passe chez SK ? |
 
 ## Part 5 — Outro & Closing
-> Sophia and Gabriel lay bare their mutual wounds, discovering that both are on the brink of losing everything. When you watch the episode, listen out for the expressions meaning 'prepare' and 'cardboard boxes'. You'll catch them now. See you next time.
+> Sophia and Gabriel lay bare their mutual wounds, discovering that both are on the brink of losing everything. When you watch the episode, listen out for the expressions meaning 'prepare' and 'cardboard boxes'. You'll catch them now. See you next time!
 - **Closing**: `sofia`: *Bonne journée!*

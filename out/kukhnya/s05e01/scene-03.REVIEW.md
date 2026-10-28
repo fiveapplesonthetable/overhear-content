@@ -11,21 +11,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Лёва | Я пытался его предупредить. | I tried to warn him. | #36 00:03:44: я пытался его предупредить | adapted: verbatim |
-| 2 | Аня | Пошёл вон. | Get out. | #38 00:03:50: Пошел | adapted: adapted |
-| 3 | Аня | Это что за ерунда? | What kind of nonsense is this? | #39 00:03:52: Это что за ерунда? | adapted: verbatim |
+| 2 | Михаил | Пошёл вон. | Get out. | #38 00:03:50: Пошел | adapted: adapted |
+| 3 | Михаил | Это что за ерунда? | What kind of nonsense is this? | #39 00:03:52: Это что за ерунда? | adapted: verbatim |
 | 4 | Михаил | В нашем отеле действует новая услуга. | A new service operates in our hotel. | #40 00:03:54: В нашем отеле действует услуга | adapted: adapted |
 | 5 | Михаил | Это услуга для наших гостей. | This is a service for our guests. | #40 00:03:54: услуга | adapted: adapted |
 | 6 | Михаил | Вы сможете посмотреть на работу шефа. | You will be able to watch the chef's work. | #41 00:03:57: Вы сможете понаблюдать за работой | adapted: adapted |
 | 7 | Михаил | Это не прерывает ваш отдых. | This does not interrupt your rest. | #42 00:04:00: не прерывая ваш отдых | adapted: adapted |
 | 8 | Михаил | Я принимаю это после завтрака. | I accept that after breakfast. | #43 00:04:02: я принимаю после завтрака | adapted: adapted |
 | 9 | Михаил | А сейчас извини. | And right now excuse me. | #44 00:04:08: А сейчас извини | adapted: verbatim |
-| 10 | Аня | Ты введи новую услугу. | You should introduce a new service. | #45 00:04:11: ты введи новую услугу | adapted: verbatim |
-| 11 | Аня | Управляющий идёт прямо в номер. | The hotel manager goes straight to the room. | #46 00:04:16: Управляющий в номер | adapted: adapted |
-| 12 | Аня | Не мешай нашему отдыху. | Do not disturb our rest. | #47 00:04:20: вашего отдыха | adapted: adapted |
+| 10 | Михаил | Ты введи новую услугу. | You should introduce a new service. | #45 00:04:11: ты введи новую услугу | adapted: verbatim |
+| 11 | Михаил | Управляющий идёт прямо в номер. | The hotel manager goes straight to the room. | #46 00:04:16: Управляющий в номер | adapted: adapted |
+| 12 | Михаил | Не мешай нашему отдыху. | Do not disturb our rest. | #47 00:04:20: вашего отдыха | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I tried to warn him.' Notice the reflexive suffix on the verb meaning 'tried', turning the action back on the subject. Chef Barinov answers right away.
+- 'I tried to warn him.' In everyday Russian, 'tried' flows straight into 'to warn' without extra linking words.
 - 'Get out.' Chef Barinov anchors the line on 'went', while 'over there' completes the thought.
 - 'What kind of nonsense is this?' The grammar packs 'this' and 'nonsense' into a tight, idiomatic kitchen exchange.
 - 'A new service operates in our hotel.' Notice how Russian expresses 'our' and 'service' with crisp inflection rather than helper words.

@@ -27,5 +27,5 @@
 | 13 | `valentin` (Valentin) | Valentin, comme Valentini sans le i. | Valentin, like Valentini without the i. | 779:Valentin. Comme Valentini, mais sans le i |
 
 ## Part 5 — Outro & Closing
-> Scouting drama showcases brings unexpected encounters and exciting new connections for an ambitious talent agent. When you watch the episode, listen out for the expressions meaning 'stage' and 'splendid'. You'll catch them now. See you next time.
+> Scouting drama showcases brings unexpected encounters and exciting new connections for an ambitious talent agent. When you watch the episode, listen out for the expressions meaning 'stage' and 'splendid'. You'll catch them now. See you next time!
 - **Closing**: `valentin`: *À bientôt!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 10
-TITLE = "Trois mois sur un bateau  (Three Months on a Boat)"
-LEVEL = "A1 — débutant"
+TITLE = 'Trois mois sur un bateau  (Three Months on a Boat)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "laura": "emilie", "gabriel": "theo"}
-LABELS = {"laura": "Laura", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'laura': 'emilie', 'gabriel': 'theo'}
+LABELS = {'laura': 'Laura', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Then Laura found out that Mathias had given the very same script to her mother, Nathalie Baye: the director wants them both, to play a mother and her daughter. Laura loves the script. The problem is somewhere else, and she's about to tell Gabriel where. First, the French. Don't try to hold on to every word; just listen to how they sound."
 OPENER = "Let's go through it gently. Gabriel picks up and immediately fears the worst."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Short and sweet, and you followed all of it. Listen out for that special yes when people answer a negative question. See you next time.'
-CLOSING = ("laura", "Salut, Gabriel!")
+OUTRO = 'Short and sweet, and you followed all of it. Listen out for that special yes when people answer a negative question. See you next time!'
+CLOSING = ('laura', 'Salut, Gabriel!')
 STORY = [
     ('gabriel', "Quoi? Tu n'aimes pas le scénario?", "What? Don't you like the script?", [(198, "Quoi ? Tu n'aimes pas le scénario")], ''),
     ('laura', "Si, je l'adore.", 'Yes, I love it.', [(198, "Si, je l'adore")], ''),

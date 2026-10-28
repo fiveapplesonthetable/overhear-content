@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e05-scene-03"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e05-scene-03'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 5
 SCENE = 3
-TITLE = 'Тартар жарят только идиоты  (Only Idiots Fry Tartare)'
+TITLE = "Тартар жарят только идиоты  (Only Idiots Fry Tartare)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.05"
-SOURCE_FILE = "sources/kukhnya/s02/e05.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.05'
+SOURCE_FILE = 'sources/kukhnya/s02/e05.ru.srt'
 
 INTRO = 'While prepping at his station, Max complains to Kostya once again that things with Vika are complicated whereas things with Sasha are easy, leaving him unable to decide. Across the kitchen, Chef Barinov lectures Lyova that steak tartare is a raw dish and that only complete idiots would ever fry it.'
 
 STORY = [
-    ('anya', 'Не знаю я.', 'I just do not know.', [(32, 'Не знаю я')], ''),
+    ('chef', 'Не знаю я.', 'I just do not know.', [(32, 'Не знаю я')], ''),
     ('vika', 'Понимаешь, Костян с Викой...', 'You see, Kostyan, with Vika...', [(33, 'Понимаешь, Костян с Викой')], ''),
-    ('kostya', 'Да, с Викой сложно, с Сашей просто.', 'Yes, with Vika it is complicated, with Sasha it is simple.', [(33, 'Да, с Викой сложно, с Сашей просто')], ''),
-    ('anya', 'Я уже это слышал.', 'I have heard that already.', [(34, 'Я уже это слышал')], ''),
+    ('chef', 'Да, с Викой сложно, с Сашей просто.', 'Yes, with Vika it is complicated, with Sasha it is simple.', [(33, 'Да, с Викой сложно, с Сашей просто')], ''),
+    ('chef', 'Я уже это слышал.', 'I have heard that already.', [(34, 'Я уже это слышал')], ''),
     ('vika', 'Не знаю я, что делать.', 'I do not know what to do.', [(35, 'Не знаю я, что делать')], ''),
-    ('kostya', 'Че, идея?', 'Wait, do you have an idea?', [(37, 'Че, идея')], ''),
-    ('anya', 'Давай, иди, Костян.', 'Go on, get out of here, Kostyan.', [(38, 'Давай, иди, Костян')], ''),
+    ('chef', 'Че, идея?', 'Wait, do you have an idea?', [(37, 'Че, идея')], ''),
+    ('chef', 'Давай, иди, Костян.', 'Go on, get out of here, Kostyan.', [(38, 'Давай, иди, Костян')], ''),
     ('vika', 'Тартар сырое блюдо.', 'Steak tartare is a raw dish.', [(41, 'Тартар сырое блюдо')], ''),
-    ('kostya', 'Его не жарят.', 'You do not fry it.', [(42, 'Его не жарят')], ''),
-    ('anya', 'Жарят его только идиоты.', 'Only idiots fry it.', [(43, 'Жарят его только идиоты')], ''),
+    ('chef', 'Его не жарят.', 'You do not fry it.', [(42, 'Его не жарят')], ''),
+    ('chef', 'Жарят его только идиоты.', 'Only idiots fry it.', [(43, 'Жарят его только идиоты')], ''),
     ('vika', 'Лёва, я идиот?', 'Lyova, am I an idiot?', [(44, 'Лёва, я идиот')], ''),
-    ('kostya', 'Что за пауза?', 'What was that pause for?', [(45, 'Что за пауза')], ''),
-    ('anya', 'Нет, шеф.', 'No, Chef.', [(46, 'Нет, шеф')], ''),
+    ('chef', 'Что за пауза?', 'What was that pause for?', [(45, 'Что за пауза')], ''),
+    ('chef', 'Нет, шеф.', 'No, Chef.', [(46, 'Нет, шеф')], ''),
 ]
 
 OPENER = "Let's walk back through the scene line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 3 of Episode 5, listen out for the exchange around only idiots fry tartare — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Нет, шеф.')
+OUTRO = 'That wraps up this scene as max complains to Kostya that he cannot choose between Vika and Sasha, while Chef Barinov lectures Lyova that only idiots fry raw steak tartare. Until next time!'
+CLOSING = ("chef", "До встречи!")

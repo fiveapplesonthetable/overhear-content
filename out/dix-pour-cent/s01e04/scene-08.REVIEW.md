@@ -29,5 +29,5 @@
 | 15 | `mathias` (Mathias) | Si je vais chez StarMédia maintenant, je vais avoir beaucoup d'ennemis. | If I go to StarMédia now, I | 242:StarMédia maintenant, 243:beaucoup d'ennemis |
 
 ## Part 5 — Outro & Closing
-> A German buyer at the door, and Mathias tempted to leave for StarMédia. Next, we follow Mathias home for dinner with his wife Catherine. See you next time!
+> A German buyer at the door, and Mathias tempted to leave for StarMédia. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 2
 SCENE = 12
-TITLE = "Coincée à Bergues  (Stuck in Bergues)"
-LEVEL = "A1 — débutant"
+TITLE = 'Coincée à Bergues  (Stuck in Bergues)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "colette": "emilie", "lea": "lucie"}
-LABELS = {"colette": "Colette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
+LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "After enduring a colossal homemade feast with Dany Boon's mother, Andrea steps into the quiet street to call Colette. Expected home in Paris for date night, Andrea must break the difficult news of her whereabouts. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Andrea faces Colette's frustration over her sudden trip to northern France. When you watch the episode, listen out for the expressions meaning 'meal' and 'north'. You'll catch them now. See you next time."
-CLOSING = ("colette", "Bonne soirée!")
+OUTRO = "Andrea faces Colette's frustration over her sudden trip to northern France. When you watch the episode, listen out for the expressions meaning 'meal' and 'north'. You'll catch them now. See you next time!"
+CLOSING = ('colette', 'Bonne soirée!')
 STORY = [
     ('lea', 'Ce repas du nord était délicieux!', 'This northern meal was delicious!', [(677, 'Ça ne vous plaît pas')], ''),
     ('colette', 'Allô Andréa, la baby-sitter est là.', 'Hello Andrea, the babysitter is here.', [(689, 'La baby-sitter est là')], ''),

@@ -1,81 +1,42 @@
-ID = "kukhnya-s01e20-scene-18"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e20-scene-18.
+ID = 'kukhnya-s01e20-scene-18'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 18
-TITLE = 'Неожиданное предложение  (An Unexpected Proposal)'
+TITLE = "Неожиданное предложение  (An Unexpected Proposal)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "vika": "anja"}
-LABELS = {"anya": "Костя", "vika": "Настя"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.20"
-SOURCE_FILE = "sources/kukhnya/s01/e20.ru.dual.srt"
-SOURCE_NOTE = "Scene 18"
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "kostya": "anja"}
+LABELS = {"nastya": "Настя", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
+SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
 INTRO = 'Kostya finally builds up the courage to propose to Nastya. However, Nastya is completely shocked and reacts terribly, explaining that she had a completely different timeline for their relationship.'
-
+OPENER = "Now let's go back through the exchange around An Unexpected Proposal line by line and unpack how the Russian works."
+TRANSITION = "Now let's listen to the conversation again without interruption."
+OUTRO = "Kostya realizes that his impulsive proposal almost ruined the carefully planned future together. Next time you watch the episode, listen for the Russian expressions for 'to want' and 'to say' — you will catch every word right away. See you next time!"
+CLOSING = ("nastya", "Пока!")
 STORY = [
-    ('anya', 'Я хотел тебе кое-что сказать.',
-     'I wanted to tell you something.',
-     [(292, 'хотел тебе кое-что сказать')], 'adapted'),
-    ('anya', 'Я хочу.',
-     'I want...',
-     [(293, 'Я хочу')], 'adapted'),
-    ('anya', 'Чтобы ты стала моей женой.',
-     'For you to be my wife.',
-     [(294, 'Ты стала моей женой')], 'adapted'),
-    ('vika', 'С ума сошел, что ли? О богу, бери.',
-     'Have you lost your mind? Oh God, take it.',
-     [(295, 'С ума сошел, что ли? Богу, бери')], 'adapted'),
-    ('anya', 'Чего? Чего?',
-     'What? What?',
-     [(296, 'Чего? Чего')], 'adapted'),
-    ('anya', 'Сама говорила, что каждый день это новый шаг.',
-     'You said yourself that every day is a new step.',
-     [(297, 'Сама говорила, что каждый день это новый шаг')], 'adapted'),
-    ('vika', 'Костя, я имела в виду знакомство с родителями.',
-     'Kostya, I meant meeting the parents.',
-     [(298, 'Костя, я имела в виду знакомство с родителями')], 'adapted'),
-    ('vika', 'А не это.',
-     'Not this.',
-     [(298, 'а не это')], 'adapted'),
-    ('vika', 'У меня по плану этот шаг только через год.',
-     'I had this step planned for a year from now.',
-     [(299, 'У меня по плану этот шаг только через год')], 'adapted'),
-    ('anya', 'Что, есть какой-то план?',
-     'What, you have a plan?',
-     [(300, 'Что, есть какой-то план')], 'adapted'),
-    ('vika', 'Да, есть.',
-     'Yes, I do.',
-     [(300, 'Да, есть')], 'adapted'),
-    ('vika', 'А ты его сейчас чуть не разрушил.',
-     'And you nearly destroyed it just now.',
-     [(301, 'А ты его сейчас чуть не разрушил')], 'adapted'),
-    ('anya', 'Прости меня, пожалуйста.',
-     'Forgive me, please.',
-     [], 'new'),
-    ('vika', 'Я прощаю тебя.',
-     'I forgive you.',
-     [], 'new'),
+    ('kostya', 'Я хотел тебе кое-что сказать.', 'I wanted to tell you something.', [(292, 'хотел тебе кое-что сказать')], ''),
+    ('kostya', 'Я хочу.', 'I want...', [(293, 'Я хочу')], ''),
+    ('kostya', 'Чтобы ты стала моей женой.', 'For you to be my wife.', [(294, 'Ты стала моей женой')], ''),
+    ('nastya', 'С ума сошел, что ли? О богу, бери.', 'Have you lost your mind? Oh God, take it.', [(295, 'С ума сошел, что ли? Богу, бери')], ''),
+    ('kostya', 'Чего? Чего?', 'What? What?', [(296, 'Чего? Чего')], ''),
+    ('kostya', 'Сама говорила, что каждый день это новый шаг.', 'You said yourself that every day is a new step.', [(297, 'Сама говорила, что каждый день это новый шаг')], ''),
+    ('nastya', 'Костя, я имела в виду знакомство с родителями.', 'Kostya, I meant meeting the parents.', [(298, 'Костя, я имела в виду знакомство с родителями')], ''),
+    ('nastya', 'А не это.', 'Not this.', [(298, 'а не это')], ''),
+    ('nastya', 'У меня по плану этот шаг только через год.', 'I had this step planned for a year from now.', [(299, 'У меня по плану этот шаг только через год')], ''),
+    ('kostya', 'Что, есть какой-то план?', 'What, you have a plan?', [(300, 'Что, есть какой-то план')], ''),
+    ('nastya', 'Да, есть.', 'Yes, I do.', [(300, 'Да, есть')], ''),
+    ('nastya', 'А ты его сейчас чуть не разрушил.', 'And you nearly destroyed it just now.', [(301, 'А ты его сейчас чуть не разрушил')], ''),
+    ('kostya', 'Прости меня, пожалуйста.', 'Forgive me, please.', [], ''),
+    ('nastya', 'Я прощаю тебя.', 'I forgive you.', [], ''),
 ]
-
-OPENER = "Let us break down this interaction."
-
 WALK = [
-    (2, None,
-     "'For you to be my wife.' The first content word means 'you', and 'wife' rounds out the thought. Nastya answers straight away."),
-    (3, None,
-     "'Have you lost your mind? Oh God, take it.' Notice the word order: 'mind' comes first, and 'take' finishes the sentence."),
-    (5, None,
-     "'You said yourself that every day is a new step.' Kostya starts with 'myself' and pairs it with 'said' to make the point clear."),
-    (6, None,
-     "'Kostya, I meant meeting the parents.' Nastya starts with 'Kostya' and pairs it with 'I' to make the point clear."),
-    (8, None,
-     "'I had this step planned for a year from now.' Nastya puts 'me' up front so the listener immediately catches the tone, followed by 'plan'."),
-    (11, None,
-     "'And you nearly destroyed it just now.' You'll hear 'you' all the time in the show, here connected with 'destroyed'."),
+    (0, None, "'For you to be my wife.' The '-a' ending on the past-tense verb for 'have become' shows that the subject is matching."),
+    (1, None, "'Have you lost your mind? Oh God, take it.' Nastya uses a direct command command form of the verb meaning 'take'."),
+    (2, None, "'You said yourself that every day is a new step.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (3, None, "'Kostya, I meant meeting the parents.' The '-a' ending on the past-tense verb for 'had' shows that the subject is matching."),
+    (4, None, "'I had this step planned for a year from now.' Nastya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'plan' with 'step' and 'only'."),
+    (5, None, "'And you nearly destroyed it just now.' Here Nastya anchors the line on the word meaning 'now' and builds the thought around 'nearly' and 'destroyed'. Now let's listen to the whole conversation again from start to finish."),
 ]
-
-TRANSITION = "Now let us listen to the conversation again without interruption."
-OUTRO = "Kostya realizes that his impulsive proposal almost ruined the carefully planned future together."
-CLOSING = ('vika', 'А ты его сейчас чуть не разрушил.')

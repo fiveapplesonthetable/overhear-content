@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e10-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 10
 SCENE = 18
 TITLE = "Ничья в споре и месть Кати  (A Draw in the Bet and Katya's Revenge)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.10'
 SOURCE_FILE = 'sources/kukhnya/s03/e10.ru.srt'
 
 INTRO = 'Nagiyev confronts Chef Barinov in the hallway: he knows Sveta is a call girl because he knows all the high-end call girls in Moscow! They call their bet a draw so Vika never learns the truth. Meanwhile, Katya corners Max.'
@@ -20,12 +20,12 @@ STORY = [
     ('nagiyev', 'Сейчас берёшь девочку в охапку и бежишь.', 'Right now you grab the girl and run from here.', [(300, 'в охапку и бежишь отсюда')], 'adapted'),
     ('nagiyev', 'Если Вика узнает, я тебе усы выщиплю!', 'If Vika finds out, I will pluck your mustache out!', [(301, 'Если Вика узнает об этом, я тебе усы')], 'adapted'),
     ('nagiyev', 'Ладно, ты выиграл, нет, у нас ничья.', 'Alright, you won—no, we have a draw.', [(304, 'ты выиграл'), (305, 'Нет, ничья')], 'adapted'),
-    ('katya', 'Ты что Лёве про меня наговорил?', 'What kind of stories did you tell Lyova about me?', [(306, 'про меня наговорил')], 'adapted'),
-    ('katya', 'Ты сам настоящий псих, понял меня?', 'You are a real psycho yourself, got that?', [(307, 'Ты сам псих понял')], 'adapted'),
+    ('nagiyev', 'Ты что Лёве про меня наговорил?', 'What kind of stories did you tell Lyova about me?', [(306, 'про меня наговорил')], 'adapted'),
+    ('nagiyev', 'Ты сам настоящий псих, понял меня?', 'You are a real psycho yourself, got that?', [(307, 'Ты сам псих понял')], 'adapted'),
     ('anya', 'Да ты мне ещё спасибо скажешь!', 'Why, you will thank me for this yet!', [(307, 'Да ты мне еще спасибо скажешь')], 'adapted'),
-    ('katya', 'Может, мне тебя ещё поцеловать сейчас?', 'Maybe I should kiss you right now too?', [(308, 'может мне тебя еще раз целовать')], 'adapted'),
-    ('katya', 'Папа, ну пожалуйста, только не начинай.', 'Dad, please, just do not start.', [(310, 'Ой, пап, ну не начинай')], 'adapted'),
-    ('katya', 'А может, мы с ним любим друг друга!', 'And maybe he and I love each other!', [(311, 'а может мы с ним любим друг друга')], 'adapted'),
+    ('nagiyev', 'Может, мне тебя ещё поцеловать сейчас?', 'Maybe I should kiss you right now too?', [(308, 'может мне тебя еще раз целовать')], 'adapted'),
+    ('nagiyev', 'Папа, ну пожалуйста, только не начинай.', 'Dad, please, just do not start.', [(310, 'Ой, пап, ну не начинай')], 'adapted'),
+    ('nagiyev', 'А может, мы с ним любим друг друга!', 'And maybe he and I love each other!', [(311, 'а может мы с ним любим друг друга')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'To punish Max and defy her domineering father at the same time, Katya kisses Max right in front of Chef Barinov and declares they are in love!'
-CLOSING = ('katya', 'Мы с ним любим друг друга!')
+OUTRO = 'To punish Max and defy her domineering father at the same time, Katya kisses Max right in front of Chef Barinov and declares they are in love! See you next time!'
+CLOSING = ("nagiyev", "Всего хорошего!")

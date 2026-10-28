@@ -18,10 +18,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Элеонора | В моём отеле бешеная лошадь! | There is a mad horse in my hotel! | #224 00:13:52: В моем отеле бешеная лошадь | adapted: adapted |
 | 7 | Денис | Давай выпьем за Катю с Никитой. | Let us drink to Katya and Nikita. | #226 00:14:07: давай сейчас выпьем за Катю с Никитой | adapted: adapted |
 | 8 | Денис | Они ведь очень красивая пара. | They are a very beautiful couple, after all. | #227 00:14:10: красивая же пара<br>#228 00:14:12: Очень красивая | adapted: adapted |
-| 9 | Аня | Мы пьём за наших молодых. | We are drinking to our young couple. | #230 00:14:20: мы как раз пьем за молодых | adapted: adapted |
+| 9 | Элеонора | Мы пьём за наших молодых. | We are drinking to our young couple. | #230 00:14:20: мы как раз пьем за молодых | adapted: adapted |
 | 10 | Денис | Рейс в Токио сегодня отменили. | They canceled the flight to Tokyo today. | #232 00:14:26: рейс в Токио отменили | adapted: adapted |
 | 11 | Денис | Самолёт не летит из-за непогоды. | The plane is not flying because of bad weather. | #233 00:14:31: Из-за непогоды | adapted: adapted |
-| 12 | Аня | Погода там ужасная, сильный тайфун. | The weather there is terrible, a strong typhoon. | #234 00:14:33: Погода там ужасная<br>#235 00:14:36: Тайфун | adapted: adapted |
+| 12 | Элеонора | Погода там ужасная, сильный тайфун. | The weather there is terrible, a strong typhoon. | #234 00:14:33: Погода там ужасная<br>#235 00:14:36: Тайфун | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

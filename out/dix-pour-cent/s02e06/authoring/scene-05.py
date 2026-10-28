@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 5
-TITLE = "Un planning très serré  (A Tight Schedule)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un planning très serré  (A Tight Schedule)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "herve": "marcel"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'herve': 'marcel'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "In the ASK offices on the eve of the Cannes film festival, Andréa scrambles to organize Juliette Binoche's high-stakes schedule. Gabriel and Hervé struggle to keep up as office tension reaches a boiling point. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andréa and her colleagues handle the extreme pressure step by step to explore festival preparations."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "The pre-festival rush tests everyone's patience as Andréa tries to secure top-tier luxury support for Juliette Binoche. Until next time! Join us next time to see what happens next."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "The pre-festival rush tests everyone's patience as Andréa tries to secure top-tier luxury support for Juliette Binoche. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('lea', 'Prenez rendez-vous avec Chopard pour Juliette Binoche.', 'Make an appointment with Chopard for Juliette Binoche.', [(94, 'Prenez rendez-vous avec Chopard pour Juliette Binoche immédiatement.')], ''),
     ('herve', 'Mon emploi du temps est trop chargé.', 'My schedule is much too tight.', [(95, 'Mon emploi du temps est vraiment trop chargé.')], ''),

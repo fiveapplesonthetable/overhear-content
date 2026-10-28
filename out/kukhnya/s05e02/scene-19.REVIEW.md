@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Элеонора | От тебя я такого не ожидала. | I did not expect something like this from you. | #237 00:22:20: От тебя я такого не ожидала | adapted: verbatim |
-| 2 | Элеонора | Тебе штраф в размере одной зарплаты. | You get a fine of one month's salary. | #238 00:22:23: Штраф в размере одной зарплаты | adapted: adapted |
-| 3 | Элеонора | То же самое передай нашему шефу. | Pass the exact same thing on to our chef. | #239 00:22:25: То же самое | adapted: adapted |
-| 4 | Элеонора | Да, пожалуйста, заходите ко мне. | Yes, please, come in. | #240 00:22:57: Заходите | adapted: adapted |
-| 5 | Аня | Катя, мне надо тебе кое-что сказать. | Katya, I need to tell you something. | #241 00:23:16: Катя, мне надо тебе кое-что сказать | adapted: verbatim |
+| 1 | Катя | От тебя я такого не ожидала. | I did not expect something like this from you. | #237 00:22:20: От тебя я такого не ожидала | adapted: verbatim |
+| 2 | Катя | Тебе штраф в размере одной зарплаты. | You get a fine of one month's salary. | #238 00:22:23: Штраф в размере одной зарплаты | adapted: adapted |
+| 3 | Катя | То же самое передай нашему шефу. | Pass the exact same thing on to our chef. | #239 00:22:25: То же самое | adapted: adapted |
+| 4 | Катя | Да, пожалуйста, заходите ко мне. | Yes, please, come in. | #240 00:22:57: Заходите | adapted: adapted |
+| 5 | Денис | Катя, мне надо тебе кое-что сказать. | Katya, I need to tell you something. | #241 00:23:16: Катя, мне надо тебе кое-что сказать | adapted: verbatim |
 | 6 | Катя | Мама, подожди одну минуту. | Mom, wait one minute. | #242 00:23:21: Мам, подожди | adapted: adapted |
 | 7 | Катя | Раньше не было удобного момента. | Earlier there was no convenient moment. | #242 00:23:21: раньше как-то не было удобного момента | adapted: verbatim |
 | 8 | Катя | Пожалуйста, знакомьтесь сейчас. | Please, get acquainted now. | #243 00:23:26: Знакомьтесь | adapted: adapted |
 | 9 | Катя | Денис, это моя мама. | Denis, this is my mom. | #244 00:23:29: Денис, это моя мама | adapted: verbatim |
 | 10 | Катя | Мама, это мой парень Денис. | Mom, this is my boyfriend Denis. | #245 00:23:31: Мама, это мой парень Денис | adapted: verbatim |
-| 11 | Элеонора | Очень приятно познакомиться, Денис. | Very nice to meet you, Denis. | #244 00:23:29: Денис | adapted: adapted |
-| 12 | Аня | Мне тоже очень приятно. | Very nice to meet you too. | #245 00:23:31: Денис | adapted: adapted |
+| 11 | Катя | Очень приятно познакомиться, Денис. | Very nice to meet you, Denis. | #244 00:23:29: Денис | adapted: adapted |
+| 12 | Денис | Мне тоже очень приятно. | Very nice to meet you too. | #245 00:23:31: Денис | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

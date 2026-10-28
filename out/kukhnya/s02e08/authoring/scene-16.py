@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e08-scene-16"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e08-scene-16'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 8
 SCENE = 16
-TITLE = 'Выбор галстука перед свиданием  (Choosing a Tie Before the Date)'
+TITLE = "Выбор галстука перед свиданием  (Choosing a Tie Before the Date)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.08"
-SOURCE_FILE = "sources/kukhnya/s02/e08.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
+LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.08'
+SOURCE_FILE = 'sources/kukhnya/s02/e08.ru.srt'
 
 INTRO = 'Dressed in a sharp suit before his cinema date with Elena, a nervous Chef Barinov agonizes in front of Vika and Lyova over whether to wear a red tie or a blue one. Vika jokes that he looks like a bomb disposal expert choosing which wire to cut before advising him to pick the red tie.'
 
 STORY = [
-    ('anya', 'Красный. Хорошо.', 'The red one. Good.', [(272, 'Красный. Хорошо')], ''),
-    ('vika', 'Или синий.', 'Or maybe the blue one.', [(273, 'Или синий')], ''),
+    ('chef', 'Красный. Хорошо.', 'The red one. Good.', [(272, 'Красный. Хорошо')], ''),
+    ('lyova', 'Или синий.', 'Or maybe the blue one.', [(273, 'Или синий')], ''),
     ('lyova', 'Ну, да.', 'Well, yes.', [(274, 'Ну, да')], ''),
-    ('anya', 'Или красный.', 'Or the red one.', [(275, 'Или красный')], ''),
-    ('vika', 'Виктор Петрович, вы жених или сапер?', 'Viktor Petrovich, are you a groom or a bomb tech?', [(276, 'Виктор Петрович, вы жених или сапер')], ''),
+    ('chef', 'Или красный.', 'Or the red one.', [(275, 'Или красный')], ''),
+    ('lyova', 'Виктор Петрович, вы жених или сапер?', 'Viktor Petrovich, are you a groom or a bomb tech?', [(276, 'Виктор Петрович, вы жених или сапер')], ''),
     ('lyova', 'Лёва, это первое свидание.', 'Lyova, this is a first date.', [(277, 'Лёва, это первое свидание')], ''),
-    ('anya', 'Подождите, а она хоть из хорошей семьи?', 'Wait a second, is she at least from a good family?', [(279, 'Подождите, а она хоть из хорошей семьи')], ''),
-    ('vika', 'Она из хорошего ресторана.', 'She is from a good restaurant.', [(280, 'Она из хорошего ресторана')], ''),
+    ('chef', 'Подождите, а она хоть из хорошей семьи?', 'Wait a second, is she at least from a good family?', [(279, 'Подождите, а она хоть из хорошей семьи')], ''),
+    ('lyova', 'Она из хорошего ресторана.', 'She is from a good restaurant.', [(280, 'Она из хорошего ресторана')], ''),
     ('lyova', 'Она волшебная.', 'She is magical.', [(281, 'Она волшебная')], ''),
-    ('anya', 'Возьмите красный.', 'Take the red tie.', [(283, 'Возьмите красный')], ''),
-    ('vika', 'Сделал мне предложение.', 'He proposed to me.', [(289, 'сделал мне предложение')], ''),
+    ('chef', 'Возьмите красный.', 'Take the red tie.', [(283, 'Возьмите красный')], ''),
+    ('lyova', 'Сделал мне предложение.', 'He proposed to me.', [(289, 'сделал мне предложение')], ''),
     ('lyova', 'Лёва убедил.', 'Lyova convinced me.', [(290, 'Лёва убедил')], ''),
-    ('anya', 'Давай красный.', 'Hand me the red one.', [(291, 'Давай красный')], ''),
+    ('chef', 'Давай красный.', 'Hand me the red one.', [(291, 'Давай красный')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 16 of Episode 8, listen out for the exchange around choosing a tie before the date — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Давай красный.')
+OUTRO = 'That wraps up this scene as before heading to the movies with Elena, a nervous Chef Barinov asks Vika and Lyova whether to wear a red tie or a blue tie, as if defusing a bomb. See you next time!'
+CLOSING = ("chef", "До свидания!")

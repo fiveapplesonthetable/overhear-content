@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e09-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 9
 SCENE = 18
-TITLE = 'Разговор с отцом  (A Conversation with Her Father)'
+TITLE = "Разговор с отцом  (A Conversation with Her Father)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "guest": "anja"}
+LABELS = {"nastya": "Настя", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.09'
 SOURCE_FILE = 'sources/kukhnya/s03/e09.ru.srt'
 
 INTRO = 'While Kostya hides right under the desk, Nastya swallows her pride and asks her father for a loan. She explains how hard Kostya is working at two jobs without days off to save for their wedding.'
@@ -36,7 +36,7 @@ WALK = [
     (2, None, "'Speak, daughter, I am all ears.' the guest brings out the contrast between 'to speak' and 'daughter' in a few short words."),
     (3, None, "'I have never asked you for anything.' Nastya addresses the listener with the informal singular 'you' alongside 'asked for'."),
     (4, None, "'But right now things are a bit tight with money for us.' Nastya anchors the line on 'but', while 'money' completes the thought."),
-    (5, None, "'Kostik even got a second job.' Notice the reflexive suffix on the verb meaning 'to settle', turning the action back on the subject."),
+    (5, None, "'Kostik even got a second job.' In everyday Russian, 'second' flows straight into 'to settle, to get a job' without extra linking words."),
     (6, None, "'He works without days off, my poor darling.' In Russian, the idea of 'works' flows naturally into 'poor little thing' without extra filler words."),
     (7, None, "'He tries so hard and is saving up for the wedding.' Here the Russian phrasing highlights 'he' before landing on 'is saving up'."),
     (8, None, "'Could you possibly lend us some money?' Notice how Russian expresses 'not' and 'money' with crisp inflection rather than helper words."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Hearing how much Nastya believes in his honesty and pride, Kostya can no longer hide under the desk or keep lying to her.'
-CLOSING = ('nastya', 'Это в долг, я всё верну.')
+OUTRO = 'Hearing how much Nastya believes in his honesty and pride, Kostya can no longer hide under the desk or keep lying to her. See you next time!'
+CLOSING = ("nastya", "Всего хорошего!")

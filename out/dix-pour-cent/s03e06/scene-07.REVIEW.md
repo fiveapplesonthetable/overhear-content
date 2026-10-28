@@ -26,5 +26,5 @@
 | 12 | `isabelle` (Isabelle) | Tenez, prenez cette petite pastille douce. | Here, take this sweet little mint. | 420:je vais vous donner une petite pastille |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around andrea's breakdown. When you watch the episode, listen out for the expressions meaning 'have just' and 'the actress'. You'll catch them now. See you next time.
+> That's it for this scene around andrea's breakdown. When you watch the episode, listen out for the expressions meaning 'have just' and 'the actress'. You'll catch them now. See you next time!
 - **Closing**: `isabelle`: *Au revoir!*

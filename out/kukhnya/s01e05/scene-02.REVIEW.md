@@ -1,41 +1,40 @@
-# kukhnya-s01e05-scene-02: review sheet
+# Мечты о будущем  (Dreams of the Future) — `kukhnya-s01e05-scene-02`
 
-Title: Мечты о будущем  (Dreams of the Future)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.05
-Cues 16-22. In the waitstaff locker room, waitress Nastya excitedly confides in Sasha about her kiss with Max, already imagining their romantic future and beautiful children.
+**Source:** Кухня (Kukhnya) S1.05 · `sources/kukhnya/s01/e05.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `nastya` | angelina | Настя |
+| `sasha` | anja | Саша |
+
+## Part 1 — Intro
+
+> In the restaurant locker room, waitress Nastya glows with romantic excitement. She confides in fellow waitress Sasha about yesterday's unexpected kiss with Max. Sasha is stunned by how quickly Nastya has planned out their future together, including children and family life. Let's listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Саша | Настя, у вас с Максом всё серьёзно? | Nastya, is everything serious between you and Max? | #16 00:01:11: у вас прям всё серьёзно | adapted: adapted |
-| 2 | Настя | Да, мы вчера даже поцеловались. | Yes, yesterday we even kissed. | #17 00:01:13: Да<br>#18 00:01:15: Мы вчера даже поцеловались | adapted: adapted |
-| 3 | Саша | Правда? И как это произошло? | Really? And how did that happen? | new | new: new |
-| 4 | Настя | Это было невероятно романтично! | It was incredibly romantic! | #19 00:01:18: Это было так романтично | adapted: adapted |
-| 5 | Саша | Неужели ты влюбилась в него? | Did you really fall in love with him? | new | new: new |
-| 6 | Настя | Он такой добрый и внимательный парень. | He is such a kind and attentive guy. | new | new: new |
-| 7 | Саша | Вы ведь знакомы всего одну неделю. | After all, you have only known each other one week. | new | new: new |
-| 8 | Настя | Настоящая любовь не знает времени. | True love knows no time. | new | new: new |
-| 9 | Настя | Представляешь, какие у нас будут красивые дети! | Imagine what beautiful children we will have! | #22 00:01:34: Представляешь, какие у нас дети красивые будут | adapted: adapted |
-| 10 | Саша | Ты уже думаешь о детях?! | Are you already thinking about children?! | new | new: new |
-| 11 | Настя | Конечно, мы создадим прекрасную семью. | Of course, we will create a wonderful family. | new | new: new |
-| 12 | Саша | А Макс знает о твоих планах? | And does Max know about your plans? | new | new: new |
-| 13 | Настя | Скоро мы обязательно всё обсудим. | Soon we will definitely discuss everything. | new | new: new |
+| 0 | Саша | Настя, у вас с Максом всё серьёзно? | Nastya, is everything serious between you and Max? | *(added)* |  |
+| 1 | Настя | Да, мы вчера даже поцеловались. | Yes, yesterday we even kissed. | *(added)* |  |
+| 2 | Саша | Правда? И как это произошло? | Really? And how did that happen? | *(added)* |  |
+| 3 | Настя | Это было невероятно романтично! | It was incredibly romantic! | *(added)* |  |
+| 4 | Саша | Неужели ты влюбилась в него? | Did you really fall in love with him? | *(added)* |  |
+| 5 | Настя | Он такой добрый и внимательный парень. | He is such a kind and attentive guy. | *(added)* |  |
+| 6 | Саша | Вы ведь знакомы всего одну неделю. | After all, you have only known each other one week. | *(added)* |  |
+| 7 | Настя | Настоящая любовь не знает времени. | True love knows no time. | *(added)* |  |
+| 8 | Настя | Представляешь, какие у нас будут красивые дети! | Imagine what beautiful children we will have! | #22 "Представляешь, какие у нас дети красивые будут" |  |
+| 9 | Саша | Ты уже думаешь о детях?! | Are you already thinking about children?! | *(added)* |  |
+| 10 | Настя | Конечно, мы создадим прекрасную семью. | Of course, we will create a wonderful family. | *(added)* |  |
+| 11 | Саша | А Макс знает о твоих планах? | And does Max know about your plans? | *(added)* |  |
+| 12 | Настя | Скоро мы обязательно всё обсудим. | Soon we will definitely discuss everything. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Nastya, is everything serious between you and Max?' Sasha inquires about the relationship with an adjective.
-- 'Yes, yesterday we even kissed.' Nastya confirms the spark using an emphatic particle and reflexive verb.
-- 'Really? And how did that happen?' Sasha reacts with curiosity using a question word and past verb.
-- 'It was incredibly romantic!' Nastya describes her feelings with an intensifier adverb.
-- 'Did you really fall in love with him?' Sasha asks in surprise using a particle and past reflexive verb.
-- 'He is such a kind and attentive guy.' Nastya praises Max with descriptive adjectives and a noun.
-- 'After all, you have only known each other one week.' Sasha points out the brief timeline with short predicate adjectives.
-- 'True love knows no time.' Nastya replies with a poetic statement about timeless affection.
-- 'Imagine what beautiful children we will have!' Nastya projects ahead using a future verb and plural noun.
-- 'Are you already thinking about children?!' Sasha is astonished by the speed of her friend's plans.
-- 'Of course, we will create a wonderful family.' Nastya speaks with certainty using a future perfective verb.
-- 'And does Max know about your plans?' Sasha asks whether the prospective groom has been consulted.
-- 'Soon we will definitely discuss everything.' Nastya resolves the question with an adverb of certainty.
+> That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!
+
+**Настя:** Пока!

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e19-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 9
-TITLE = 'Новый сотрудник кухни  (The New Kitchen Employee)'
+TITLE = "Новый сотрудник кухни  (The New Kitchen Employee)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = "Chef Barinov stops the police by declaring that Rodion Sergeyevich is his newly hired cook and calling Timur to prepare Rodion's paperwork. Inside, Max suspects Vika is setting up another test using waitress Eva."
@@ -23,10 +23,10 @@ STORY = [
     ('anya', 'Его паспорт и настоящую медицинскую книжку повара.', "His passport and a real cook's medical booklet.", [(156, 'паспорт, медицинскую книжку')], 'adapted'),
     ('chef', 'Родион Сергеевич работает с завтрашнего дня, завтра и увидите!', 'Rodion Sergeyevich starts work tomorrow, so you will see them tomorrow!', [(157, 'А Родион Сергеевич работает с завтрашнего дня'), (158, 'Завтра и увидите')], 'adapted'),
     ('anya', 'Костя, представь, Вика меня проверяет, как будто я террорист!', 'Kostya, imagine, Vika is testing me as if I were a terrorist!', [(161, 'она меня проверяет'), (162, 'Как будто я террорист')], 'adapted'),
-    ('kostya', 'Ну, в каком-то смысле ты тот ещё террорист.', 'Well, in a sense you really are quite the terrorist.', [(163, 'Ну, в каком-то смысле, ты тот еще террорист')], 'adapted'),
+    ('chef', 'Ну, в каком-то смысле ты тот ещё террорист.', 'Well, in a sense you really are quite the terrorist.', [(163, 'Ну, в каком-то смысле, ты тот еще террорист')], 'adapted'),
     ('anya', 'Смотри, Вика сейчас что-то тихо шепчет Еве.', 'Look, Vika is quietly whispering something to Eva right now.', [(164, 'Ты это видишь')], 'adapted'),
     ('anya', 'Похоже, сегодня у меня будет ещё одна проверка.', 'It looks like I am going to have another test today.', [(171, 'Похоже, будет еще одна проверка')], 'adapted'),
-    ('kostya', 'Макс, успокойся, у тебя уже настоящая паранойя!', 'Max, calm down, you already have real paranoia!', [(172, 'У тебя паранойя')], 'adapted'),
+    ('chef', 'Макс, успокойся, у тебя уже настоящая паранойя!', 'Max, calm down, you already have real paranoia!', [(172, 'У тебя паранойя')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Seeing Vika speak with Eva about a glass of wine for a guest, Max becomes 100% convinced that Vika has sent Eva to seduce him as a test.'
-CLOSING = ('anya', 'Похоже, будет ещё одна проверка.')
+OUTRO = 'Seeing Vika speak with Eva about a glass of wine for a guest, Max becomes 100% convinced that Vika has sent Eva to seduce him as a test. Until next time!'
+CLOSING = ("anya", "Увидимся!")

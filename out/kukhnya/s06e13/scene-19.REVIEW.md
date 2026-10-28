@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Элеонора | Я очень жалею, что ждала долго. | I deeply regret that I waited so long. | #274 00:20:06: Я очень жалею | adapted: adapted |
 | 6 | Элеонора | Но помни, что время летит незаметно. | But remember that time flies by unnoticed. | #275 00:20:09: время летит незаметно | adapted: adapted |
 | 7 | Михаил | Я сегодня так не дождался денег. | I never got the money today. | #277 00:21:21: Не дождался денег | adapted: adapted |
-| 8 | Аня | Простите нас, пожалуйста, мы всё отдадим. | Forgive us, please, we will pay everything back. | #278 00:21:22: Простите | adapted: adapted |
+| 8 | Михаил | Простите нас, пожалуйста, мы всё отдадим. | Forgive us, please, we will pay everything back. | #278 00:21:22: Простите | adapted: adapted |
 | 9 | Михаил | Хватит тут громко плакать и кричать. | Stop crying and shouting loudly in here. | #281 00:21:32: Хватит ныть | adapted: adapted |
 | 10 | Михаил | И с одной почкой люди живут. | People live with one kidney too. | #282 00:21:34: И с одной почкой люди живут | adapted: adapted |
 | 11 | Михаил | А у тебя сейчас их две. | And right now you have two of them. | #283 00:21:41: А у тебя их две | adapted: adapted |
@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But recently, as you know, we made up.' The grammar packs 'but' and 'reconciled' into a tight, idiomatic kitchen exchange.
 - 'I deeply regret that I waited so long.' In Russian, the idea of 'I' flows naturally into 'for a long time' without extra filler words.
 - 'But remember that time flies by unnoticed.' Eleonora brings out the contrast between 'but' and 'remember' in a few short words. Mikhail answers right away.
-- 'I never got the money today.' Notice the reflexive suffix on the verb meaning 'to wait for', turning the action back on the subject.
+- 'I never got the money today.' Notice how Russian puts 'tonight' and 'money' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Forgive us, please, we will pay everything back.' The grammar packs 'forgive' and 'will give' into a tight, idiomatic kitchen exchange.
 - 'Stop crying and shouting loudly in here.' The meaning hinges on 'enough' working together with 'to shout' in spoken Russian.
 - 'People live with one kidney too.' In Russian, the idea of 'and' flows naturally into 'live' without extra filler words.

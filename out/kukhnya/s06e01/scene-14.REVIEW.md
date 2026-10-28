@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сочувствую, Дима. | My condolences, Dima. | #248 00:16:51: Сочувствую | adapted: adapted |
-| 2 | Аня | Поздравляю, Элеонора. | Congratulations, Eleonora. | #249 00:16:54: Поздравляю | adapted: adapted |
+| 1 | Шеф | Сочувствую, Дима. | My condolences, Dima. | #248 00:16:51: Сочувствую | adapted: adapted |
+| 2 | Шеф | Поздравляю, Элеонора. | Congratulations, Eleonora. | #249 00:16:54: Поздравляю | adapted: adapted |
 | 3 | Элеонора | Спасибо, Витя. | Thank you, Vitya. | #249 00:16:54: Спасибо | adapted: adapted |
-| 4 | Аня | Я понимаю, что сейчас не вовремя. | I understand that now is not the right time. | #250 00:16:56: Я понимаю, что не вовремя | adapted: adapted |
-| 5 | Аня | Но я хотел поговорить про твою маму. | But I wanted to talk about your mom. | #250 00:16:56: но я хотел с тобой поговорить по поводу твоей мамы | adapted: adapted |
+| 4 | Шеф | Я понимаю, что сейчас не вовремя. | I understand that now is not the right time. | #250 00:16:56: Я понимаю, что не вовремя | adapted: adapted |
+| 5 | Шеф | Но я хотел поговорить про твою маму. | But I wanted to talk about your mom. | #250 00:16:56: но я хотел с тобой поговорить по поводу твоей мамы | adapted: adapted |
 | 6 | Элеонора | В смысле? | What do you mean? | #251 00:17:01: В смысле? | adapted: exact |
-| 7 | Аня | Она мешает мне работать. | She is keeping me from working. | #252 00:17:03: Мешает мне работать | adapted: adapted |
+| 7 | Шеф | Она мешает мне работать. | She is keeping me from working. | #252 00:17:03: Мешает мне работать | adapted: adapted |
 | 8 | Элеонора | Витя, ты о чем? | Vitya, what are you talking about? | #252 00:17:03: Витя, ты о чем? | adapted: exact |
 | 9 | Элеонора | Мама уже умерла два года назад. | Mom already died two years ago. | #253 00:17:06: Мама уже умерла два года | adapted: adapted |
-| 10 | Аня | Как, в каком смысле? | How, in what sense? | #254 00:17:10: Как? То есть, в каком смысле? | adapted: adapted |
-| 11 | Нагиев | Говорил я ему тогда. | I told him back then. | #255 00:17:13: Говорил я ему | adapted: adapted |
-| 12 | Нагиев | Он был в таком состоянии, что забыл. | He was in such a state that he forgot. | #256 00:17:15: Хотя он был в таком состоянии, что, наверное, забыл | adapted: adapted |
+| 10 | Шеф | Как, в каком смысле? | How, in what sense? | #254 00:17:10: Как? То есть, в каком смысле? | adapted: adapted |
+| 11 | Элеонора | Говорил я ему тогда. | I told him back then. | #255 00:17:13: Говорил я ему | adapted: adapted |
+| 12 | Элеонора | Он был в таком состоянии, что забыл. | He was in such a state that he forgot. | #256 00:17:15: Хотя он был в таком состоянии, что, наверное, забыл | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

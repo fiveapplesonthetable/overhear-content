@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Добрый день, Виктор Петрович. | Good afternoon, Viktor Petrovich. | #58 00:03:56: Добрый день, Виктор Петрович | verbatim |
+| 1 | Шеф | Добрый день, Виктор Петрович. | Good afternoon, Viktor Petrovich. | #58 00:03:56: Добрый день, Виктор Петрович | verbatim |
 | 2 | Вика | Уже видели, да? | You have already seen it, huh? | #59 00:03:58: Уже видели, да | verbatim |
-| 3 | Аня | Ну как вам? | Well, how do you like it? | #59 00:03:58: Ну как вам | verbatim |
+| 3 | Шеф | Ну как вам? | Well, how do you like it? | #59 00:03:58: Ну как вам | verbatim |
 | 4 | Вика | Чем в жизни. | Better than in real life. | #60 00:04:03: чем в жизни | verbatim |
-| 5 | Аня | А тут даже еще лучше. | And in this picture even better still. | #61 00:04:06: а тут даже еще лучше | verbatim |
+| 5 | Шеф | А тут даже еще лучше. | And in this picture even better still. | #61 00:04:06: а тут даже еще лучше | verbatim |
 | 6 | Вика | Я поняла, спасибо. | I see, thank you very much. | #62 00:04:10: Я поняла, спасибо | verbatim |
-| 7 | Аня | Знаете ли. | Well, you know how it is. | #63 00:04:12: знаете ли | verbatim |
+| 7 | Шеф | Знаете ли. | Well, you know how it is. | #63 00:04:12: знаете ли | verbatim |
 | 8 | Вика | Я вообще-то про интервью вас спрашивала. | I was actually asking you about the interview itself. | #64 00:04:14: Я вообще-то про интервью вас спрашивала | verbatim |
-| 9 | Аня | А, эту фигню я вообще не читаю. | Oh, I never read that kind of nonsense. | #65 00:04:16: А, эту фигню я вообще не читаю | verbatim |
+| 9 | Шеф | А, эту книгу я вообще не читаю. | Oh, I never read that book at all. | #65 00:04:16: я вообще не читаю | adapted: adapted |
 | 10 | Вика | Да правильно делаете. | And you are quite right not to. | #66 00:04:18: Да правильно делаете | verbatim |
-| 11 | Аня | Я хотел сказать. | What I meant to say was. | #67 00:04:21: Я хотел сказать | verbatim |
+| 11 | Шеф | Я хотел сказать. | What I meant to say was. | #67 00:04:21: Я хотел сказать | verbatim |
 | 12 | Вика | И в прическах он того. | And when it comes to hairstyles, he is a bit off. | #69 00:04:28: И в прическах он того | verbatim |
-| 13 | Аня | Не слушайте меня. | Do not listen to me. | #70 00:04:36: Не слушайте меня | verbatim |
+| 13 | Шеф | Не слушайте меня. | Do not listen to me. | #70 00:04:36: Не слушайте меня | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I see, thank you very much.' Vika brings out the contrast between 'I' and 'understood' in a few short words.
 - 'Well, you know how it is.' The grammar packs 'know' and 'really' into a tight, idiomatic kitchen exchange. Vika answers right away.
 - 'I was actually asking you about the interview itself.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'to ask'.
-- 'Oh, I never read that kind of nonsense.' Here the Russian phrasing highlights 'and' before landing on 'am reading'.
+- 'Oh, I never read that book at all.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'And you are quite right not to.' The meaning hinges on 'yes' working together with 'are doing' in spoken Russian. Chef Viktor answers right away.
 - 'What I meant to say was.' The meaning hinges on 'I' working together with 'say' in spoken Russian.
 - 'And when it comes to hairstyles, he is a bit off.' Vika anchors the line on 'both', while 'that' completes the thought.

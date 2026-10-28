@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Alright then, all of you stand right here.' In Russian, the idea of 'so' flows naturally into 'here' without extra filler words.
-- 'And I will go and find out what they want.' The grammar packs 'and' and 'want' into a tight, idiomatic kitchen exchange. Chef Barinov answers right away.
+- 'And I will go and find out what they want.' Here Max anchors the thought on 'will go' and finishes on 'want', keeping the spoken rhythm brisk and natural.
 - 'Wait, kid, who are you anyway?' Here the Russian phrasing highlights 'wait' before landing on 'who'.
 - 'I am a good friend of Katya, I work here.' In Russian, the idea of 'I' flows naturally into 'here' without extra filler words.
 - 'Thanks, friend of Katya, we will sort it out ourselves.' Notice how Russian expresses 'thank you' and 'to sort out' with crisp inflection rather than helper words. Max answers right away.

@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e04-scene-07"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e04-scene-07'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 4
 SCENE = 7
 TITLE = "Ссора у Вики и сломанный реквизит  (The Fight at Vika's and Broken Equipment)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.04"
-SOURCE_FILE = "sources/kukhnya/s02/e04.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.04'
+SOURCE_FILE = 'sources/kukhnya/s02/e04.ru.srt'
 
 INTRO = "Jealous after seeing Igor leave, Max confronts Vika in her apartment and accuses her of having an affair with Igor, infuriating her. Meanwhile at the restaurant, Chef Barinov and Nagiyev get drunk and smash Barani's imported kitchen equipment."
 
@@ -42,12 +42,11 @@ WALK = [
     (7, None, "'Dima just got upset.' The grammar packs 'Dima' and 'got upset' into a tight, idiomatic kitchen exchange. Vika answers right away."),
     (8, None, "'I got upset that I could not buy it.' The grammar packs 'I' and 'should I buy?' into a tight, idiomatic kitchen exchange."),
     (9, None, "'Anyway, we got so upset that we drank a little too much.' Notice how Russian expresses 'short' and 'drank too much' with crisp inflection rather than helper words."),
-    (10, None, "'And at yourself.' Spoken Russian keeps this brisk, leaning on 'both' and finishing on 'yourself'. Vika answers right away."),
+    (10, None, "'And at yourself.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context."),
     (11, None, "'Do not stress about it.' Vika brings out the contrast between 'yes' and 'not' in a few short words."),
     (12, None, "'Wonderful, just marvelous.' The meaning hinges on 'wonderful' working together with 'wonderful' in spoken Russian."),
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 7 of Episode 4, listen out for the exchange around the fight at vika's and broken equipment — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Прекрасно, замечательно.')
+OUTRO = "That wraps up this scene as max bursts out and accuses Vika of sleeping with Igor, while at the restaurant Chef Barinov and Nagiyev drunkenly apologize after smashing Barani's expensive cooking equipment. Until next time!"
+CLOSING = ("anya", "Всего хорошего!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e20-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 20
 SCENE = 6
 TITLE = "Второй шанс и угроза Никиты  (A Second Chance and Nikita's Threat)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'inspector': 'anja', 'nikita': 'angelina'}
-LABELS = {'anya': 'Денис', 'inspector': 'Инспектор', 'nikita': 'Никита'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nikita": "anja", "inspector": "angelina"}
+LABELS = {"nikita": "Никита", "inspector": "Инспектор"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.20'
 SOURCE_FILE = 'sources/kukhnya/s06/e20.ru.srt'
 
 INTRO = 'Patrick Malouda confides that he too was once a promising chef until an injury ended his kitchen career, and he agrees to return in the evening so Viktor can cook for him. Outside, a bitter Nikita confronts Denis after the canceled wedding.'
@@ -18,11 +18,11 @@ STORY = [
     ('inspector', 'Когда-то я тоже был поваром.', 'Once I too was a chef.', [(77, 'Когда-то я тоже был поваром')], 'adapted'),
     ('inspector', 'Из-за травмы пришлось оставить профессию.', 'Because of an injury I had to leave the profession.', [(78, 'Но из-за травмы пришлось оставить эту профессию')], 'adapted'),
     ('inspector', 'К сожалению, такова наша жизнь.', 'Unfortunately, such is our life.', [(79, 'Такова жизнь')], 'adapted'),
-    ('anya', 'Может, вы ещё раз придёте?', 'Maybe you will come to us once more?', [(80, 'Может, вы еще раз придете к нам')], 'adapted'),
-    ('anya', 'Виктор обязательно сегодня вас удивит.', 'Viktor will definitely surprise you today.', [(81, 'и обязательно вас удивит')], 'adapted'),
+    ('nikita', 'Может, вы ещё раз придёте?', 'Maybe you will come to us once more?', [(80, 'Может, вы еще раз придете к нам')], 'adapted'),
+    ('nikita', 'Виктор обязательно сегодня вас удивит.', 'Viktor will definitely surprise you today.', [(81, 'и обязательно вас удивит')], 'adapted'),
     ('inspector', 'Да, приду с большим удовольствием.', 'Yes, I will come with great pleasure.', [(82, 'Да, с удовольствием')], 'adapted'),
     ('nikita', 'Вы с Катей из-за меня расстались?', 'Did you and Katya break up because of me?', [(83, 'вы с Катей за меня расстались')], 'adapted'),
-    ('anya', 'Я хотел, чтобы вы поженились.', 'I wanted the two of you to get married.', [(84, 'чтобы вы поженились')], 'adapted'),
+    ('nikita', 'Я хотел, чтобы вы поженились.', 'I wanted the two of you to get married.', [(84, 'чтобы вы поженились')], 'adapted'),
     ('nikita', 'Да, ты очень сильно старался.', 'Yes, you tried very hard.', [(85, 'Да, ты старался')], 'adapted'),
     ('nikita', 'Особенно тогда вечером на крыше.', 'Especially that evening on the roof.', [(86, 'Особенно на крыше')], 'adapted'),
     ('nikita', 'Я навёл о тебе справки.', 'I made inquiries about you.', [(87, 'навел'), (87, 'справки')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Nikita remarks that Denis has a talent for making enemies—and moments later, thugs arrive to settle an old score with Denis. See you in the next scene.'
-CLOSING = ('nikita', 'Ты умеешь заводить себе врагов.')
+OUTRO = 'Nikita remarks that Denis has a talent for making enemies—and moments later, thugs arrive to settle an old score with Denis. See you next time!'
+CLOSING = ("nikita", "До завтра!")

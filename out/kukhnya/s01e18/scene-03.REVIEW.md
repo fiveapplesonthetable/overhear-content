@@ -1,39 +1,40 @@
-# kukhnya-s01e18-scene-03: review sheet
+# Уроки экономии  (Lessons in Saving) — `kukhnya-s01e18-scene-03`
 
-Title: Уроки экономии  (Lessons in Saving)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.18
-Cues 38-128. Cost cutting at the restaurant, Max teaches Kostya bar tricks.
+**Source:** Кухня (Kukhnya) S1.18 · `sources/kukhnya/s01/e18.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `kostya` | anja | Костя |
+| `nagiyev` | angelina | Нагиев |
+
+## Part 1 — Intro
+
+> While Dmitry enforces strict savings in the kitchen, Max teaches Kostya how to make extra money at the bar. Let's listen closely to their exchange in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Дмитрий | В моём ресторане я буду всё контролировать! | In my restaurant I will control everything! | #42 00:02:31: в моем ресторане я буду все контролировать | adapted: adapted |
-| 2 | Дмитрий | Немедленно выключите весь лишний свет! | Immediately turn off all the extra lights! | #79 00:04:52: Выключите весь свет. | adapted: adapted |
-| 3 | Костя | Где нам взять столько денег за неделю? | Where can we get so much money in a week? | #87 00:05:18: где столько денег за неделю взять | adapted: adapted |
-| 4 | Макс | Слушай, а давай твои часы продадим? | Listen, how about we sell your watch? | #88 00:05:23: Слушай, а давай твои часы продадим? | adapted: adapted |
-| 5 | Костя | Нельзя, это старые часы моего дедушки. | No way, this is my grandfather's old watch. | #90 00:05:28: часы | adapted: adapted |
-| 6 | Макс | Ты бармен, у тебя всегда есть деньги. | You are a bartender, you always have money. | #94 00:05:40: ты бармен | adapted: adapted |
-| 7 | Костя | Я никогда не обманывал наших гостей! | I have never cheated our guests! | #98 00:05:49: Никогда не обманывал гостей | adapted: adapted |
-| 8 | Макс | Ты просто первый честный бармен в мире. | You are simply the first honest bartender in the world. | #102 00:06:03: Первый честный бармен. | adapted: adapted |
-| 9 | Макс | Но нам очень нужно быстро достать денег. | But we really need to get money quickly. | #105 00:06:11: Нам нужно достать денег. | adapted: adapted |
-| 10 | Макс | Тогда слушай, есть хитрый способ. | Then listen, there is a clever way. | #108 00:06:21: Тогда слушай. | adapted: adapted |
-| 11 | Макс | Нужно класть в стакан больше льда. | You need to put more ice into the glass. | #113 00:06:41: больше | adapted: adapted |
-| 12 | Макс | Так за день можно много сэкономить! | That way in a day you can save a lot! | #128 00:07:30: А в день можно сэкономить | adapted: adapted |
+| 0 | Нагиев | В моём ресторане я буду всё контролировать! | In my restaurant I will control everything! | #42 "в моем ресторане я буду все контролировать" |  |
+| 1 | Нагиев | Немедленно выключите весь лишний свет! | Immediately turn off all the extra lights! | #79 "Выключите весь свет." |  |
+| 2 | Костя | Где нам взять столько денег за неделю? | Where can we get so much money in a week? | #87 "где столько денег за неделю взять" |  |
+| 3 | Макс | Слушай, а давай твои часы продадим? | Listen, how about we sell your watch? | #88 "Слушай, а давай твои часы продадим?" |  |
+| 4 | Костя | Нельзя, это старые часы моего дедушки. | No way, this is my grandfather's old watch. | #90 "часы" |  |
+| 5 | Макс | Ты бармен, у тебя всегда есть деньги. | You are a bartender, you always have money. | #94 "ты бармен" |  |
+| 6 | Костя | Я никогда не обманывал наших гостей! | I have never cheated our guests! | #98 "Никогда не обманывал гостей" |  |
+| 7 | Макс | Ты просто первый честный бармен в мире. | You are simply the first honest bartender in the world. | #102 "Первый честный бармен." |  |
+| 8 | Макс | Но нам очень нужно быстро достать денег. | But we really need to get money quickly. | #105 "Нам нужно достать денег." |  |
+| 9 | Макс | Тогда слушай, есть хитрый способ. | Then listen, there is a clever way. | #108 "Тогда слушай." |  |
+| 10 | Макс | Нужно класть в стакан больше льда. | You need to put more ice into the glass. | #113 "больше" |  |
+| 11 | Макс | Так за день можно много сэкономить! | That way in a day you can save a lot! | #128 "А в день можно сэкономить" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'In my restaurant I will control everything!' Nagiyev puts the word for 'restaurant' together with 'will be' and 'to keep an eye on' in a crisp, natural spoken turn of phrase.
-- 'Immediately turn off all the extra lights!' Nagiyev leads with the direct command form meaning 'turn off', pairing it with 'immediately' and 'extra'.
-- 'Where can we get so much money in a week?' The phrasing opens with 'where' before bringing in 'to get' and 'so many' to make the point clear.
-- 'Listen, how about we sell your watch?' Max leads with the direct command form meaning 'listen', pairing it with 'let's' and 'watch'.
-- 'No way, this is my grandfather's old watch.' Russian omits the present-tense verb 'to be' here, linking 'not allowed' directly with 'old', pairing it with 'watch' and 'grandfathers'.
-- 'You are a bartender, you always have money.' Max uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'bartender' and 'always'.
-- 'I have never cheated our guests!' The phrasing opens with 'never' before bringing in 'cheated' and 'guests' to make the point clear.
-- 'You are simply the first honest bartender in the world.' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'first', combining 'just' with 'first' and 'the honest'.
-- 'But we really need to get money quickly.' Max puts the word for 'very much' together with 'necessary' and 'quickly' in a crisp, natural spoken turn of phrase.
-- 'Then listen, there is a clever way.' Max leads with the direct command form meaning 'listen', pairing it with 'back then' and 'there is'.
-- 'You need to put more ice into the glass.' The phrasing opens with 'necessary' before bringing in 'to put' and 'glass' to make the point clear.
-- 'That way in a day you can save a lot!' Max expresses this naturally by combining the word for 'day' with 'may' and 'a lot'.
+> Max convinces Kostya that a few harmless bar tricks will solve their rent problem. Next time you watch the episode, listen for the Russian expressions for 'restaurant' and 'to be' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

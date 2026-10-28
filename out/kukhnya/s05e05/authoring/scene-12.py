@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e05-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 5
 SCENE = 12
-TITLE = 'Катя прощает Дениса  (Katya Forgives Denis)'
+TITLE = "Катя прощает Дениса  (Katya Forgives Denis)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Денис', 'katya': 'Катя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "denis": "anja"}
+LABELS = {"katya": "Катя", "denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.05'
 SOURCE_FILE = 'sources/kukhnya/s05/e05.ru.srt'
 
 INTRO = 'Back in the kitchen, Katya approaches Denis and announces that Kostya told her the whole secret. Before Denis can figure out why she wants to rent an apartment for the three of them, Chef Barinov calls him back to his station.'
 
 STORY = [
     ('katya', 'Привет, Денис, я всё знаю.', 'Hi, Denis, I know everything.', [(206, 'Привет. Денис, я все знаю')], 'adapted'),
-    ('anya', 'В смысле?', 'In what sense?', [(207, 'В смысле')], 'adapted'),
+    ('denis', 'В смысле?', 'In what sense?', [(207, 'В смысле')], 'adapted'),
     ('katya', 'Ну, Костя рассказал.', 'Well, Kostya told me.', [(208, 'Ну, Костя рассказал')], 'adapted'),
-    ('anya', 'Понятно.', 'I see.', [(210, 'Понятно')], 'adapted'),
+    ('denis', 'Понятно.', 'I see.', [(210, 'Понятно')], 'adapted'),
     ('katya', 'Почему ты сам мне не рассказал?', 'Why did you not tell me yourself?', [(211, 'Почему ты сам мне не рассказал')], 'adapted'),
-    ('anya', 'Ты бы знала, сколько раз я пытался.', 'If only you knew how many times I tried.', [(212, 'Ты бы знала, сколько раз я пытался')], 'adapted'),
+    ('denis', 'Ты бы знала, сколько раз я пытался.', 'If only you knew how many times I tried.', [(212, 'Ты бы знала, сколько раз я пытался')], 'adapted'),
     ('katya', 'Неужели ты думал, что меня это испугает?', 'Did you really think that this would scare me?', [(213, 'Неужели ты думала, что меня это испугает')], 'adapted'),
     ('katya', 'Ты не переживай.', 'Do not worry.', [(214, 'Ты не переживай')], 'adapted'),
     ('katya', 'Мы справимся со всеми трудностями.', 'We will cope with all the difficulties.', [(214, 'мы справимся со всеми трудностями')], 'adapted'),
     ('katya', 'Мы снимем квартиру.', 'We will rent an apartment.', [(215, 'Мы снимем квартиру')], 'adapted'),
     ('katya', 'Будем жить втроём.', 'The three of us will live together.', [(216, 'Будем жить втроем')], 'adapted'),
-    ('chef', 'Денис, мне нужен свежий хлеб!', 'Denis, I need fresh bread!', [(217, 'Денис! Через 40 минут мне нужен свежий хлеб')], 'adapted'),
+    ('denis', 'Денис, мне нужен свежий хлеб!', 'Denis, I need fresh bread!', [(217, 'Денис! Через 40 минут мне нужен свежий хлеб')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Completely baffled by Katya's talk of living together as three, Denis heads off to confront Kostya about what story he told her. See you in the next scene."
-CLOSING = ('anya', 'Сейчас всё сделаю, шеф.')
+OUTRO = "Completely baffled by Katya's talk of living together as three, Denis heads off to confront Kostya about what story he told her. See you next time!"
+CLOSING = ("denis", "Всего хорошего!")

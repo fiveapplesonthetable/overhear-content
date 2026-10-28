@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 28
-TITLE = "Le départ pour StarMedia  (Leaving for StarMedia)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le départ pour StarMedia  (Leaving for StarMedia)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "ramzy": "theo", "virginie": "emilie", "mathias": "marcel"}
-LABELS = {"ramzy": "Ramzy", "virginie": "Virginie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'ramzy': 'theo', 'virginie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'ramzy': 'Ramzy', 'virginie': 'Virginie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Back at the ASK offices after their televised reconciliation, Virginie Efira and Ramzy Bedia visit Mathias Barneville in his corner office. Returning his personal gift, the reunited couple drop a bombshell on their veteran agent: because of his manipulative contracts, they are leaving the agency for their rival, StarMédia. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through Virginie and Ramzy's departure line by line."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'Losing Virginie and Ramzy to StarMédia is a devastating blow for Mathias and a terrible start to the new year for ASK. Until next time.'
-CLOSING = ("ramzy", "Au revoir!")
+OUTRO = 'Losing Virginie and Ramzy to StarMédia is a devastating blow for Mathias and a terrible start to the new year for ASK. See you next time!'
+CLOSING = ('ramzy', 'Au revoir!')
 STORY = [
     ('mathias', 'Asseyez-vous.', 'Sit down.', [(854, 'Asseyez-vous')], ''),
     ('virginie', "Bonjour, Mathias. J'ai quelque chose pour vous.", 'Hello, Mathias. I have something for you.', [(854, 'Bonjour, Mathias'), (855, "J'ai quelque chose pour vous")], ''),

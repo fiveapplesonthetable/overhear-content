@@ -28,5 +28,5 @@
 | 14 | `audrey` (Audrey) | Mathias, regarde, elle t'a dessiné! Elle est très douée! | Mathias, look, she has drawn you! She | 327:Mathias, regarde, elle t'a dessiné, 328:Elle est, 328:douée |
 
 ## Part 5 — Outro & Closing
-> While Noémie looks after the children at the desks, Hervé takes a phone call from an admirer of Laura Smet and advises him to send Laura a fresh floral perfume — and to save the heavy perfume called Carnage for her mother instead. Next, Audrey meets Augustin. See you next time!
+> While Noémie looks after the children at the desks, Hervé takes a phone call from an admirer of Laura Smet and advises him to send Laura a fresh floral perfume — and to save the heavy perfume called Carnage for her mother instead. See you next time!
 - **Closing**: `audrey`: *À demain!*

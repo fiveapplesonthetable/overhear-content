@@ -12,11 +12,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Нагиев | Я ловлю пулю зубами! | I catch the bullet with my teeth! | #281 00:18:18: Я ловлю пулю зубами | adapted: adapted |
 | 2 | Нагиев | Класс, давай пулю принеси! | Awesome, go bring a bullet! | #282 00:18:20: Класс, класс, класс. Давай пулю принеси | adapted: adapted |
-| 3 | Аня | У нас нет пули. | We do not have a bullet. | #283 00:18:23: Есть только | adapted: adapted |
+| 3 | Костя | У нас нет пули. | We do not have a bullet. | #283 00:18:23: Есть только | adapted: adapted |
 | 4 | Нагиев | Значит, сделай пулю быстро. | Then make a bullet quickly. | #284 00:18:26: Значит, сделай пулю | adapted: adapted |
-| 5 | Аня | Из чего я ее сделаю? | What am I supposed to make it out of? | #284 00:18:26: Из чего я ее сделаю? | adapted: exact |
+| 5 | Костя | Из чего я ее сделаю? | What am I supposed to make it out of? | #284 00:18:26: Из чего я ее сделаю? | adapted: exact |
 | 6 | Нагиев | Какая мне разница из чего? | What difference does it make to me out of what? | #285 00:18:28: Какая мне разница из чего? | adapted: exact |
-| 7 | Аня | Ладно, сейчас сделаю. | Fine, I will make it right now. | #286 00:18:31: Ладно | adapted: adapted |
+| 7 | Костя | Ладно, сейчас сделаю. | Fine, I will make it right now. | #286 00:18:31: Ладно | adapted: adapted |
 | 8 | Нагиев | Стоп, мне же еще в рот ее брать! | Wait, I still have to put it in my mouth! | #287 00:18:32: Стоп<br>#288 00:18:35: Мне еще в рот ее брать | adapted: adapted |
 | 9 | Костя | Я последний раз такое делал очень давно. | The last time I did something like this was a very long time ago. | #289 00:18:39: Я последний раз такое делал | adapted: adapted |
 | 10 | Костя | Я ужас как люблю эту еду. | I terribly love this food. | #291 00:18:46: Я ужас, как люблю | adapted: adapted |

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 26
-TITLE = "La trahison découverte  (The Betrayal Discovered)"
-LEVEL = "A1 — débutant"
+TITLE = 'La trahison découverte  (The Betrayal Discovered)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "hicham": "marcel"}
-LABELS = {"arlette": "Arlette", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'hicham': 'marcel'}
+LABELS = {'arlette': 'Arlette', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "Returning late to ASK, Hicham discovers documents proving that Andrea and Gabriel are preparing to launch a rival agency. Distraught and furious, he searches the darkened corridors for Arlette to confront this devastating betrayal. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "In the quiet agency corridors, Hicham confronts Arlette with the crushing proof that his closest agents plan to desert him. When you watch the episode, listen out for the expressions meaning 'are you' and 'corridor'. You'll catch them now. See you next time."
-CLOSING = ("arlette", "Bonne journée!")
+OUTRO = "In the quiet agency corridors, Hicham confronts Arlette with the crushing proof that his closest agents plan to desert him. When you watch the episode, listen out for the expressions meaning 'are you' and 'corridor'. You'll catch them now. See you next time!"
+CLOSING = ('arlette', 'Bonne journée!')
 STORY = [
     ('hicham', 'Arlette, où êtes-vous dans ce couloir?', 'Arlette, where are you in this corridor?', [(1054, 'Arlette'), (1055, 'Arlette')], ''),
     ('arlette', 'Je suis là Hicham, que se passe-t-il?', 'I am here Hicham, what is happening?', [(1056, 'Arlette')], ''),

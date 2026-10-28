@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Non, pas de salaire, un changement d'étage! | No, not salary, a change of floor! | 731:D'étage |
 
 ## Part 5 — Outro & Closing
-> Andrea skillfully reasserts her executive authority over Gabriel with trademark sharp humor. When you watch the episode, listen out for the expressions meaning 'excuse' and 'set down'. You'll catch them now. See you next time.
+> Andrea skillfully reasserts her executive authority over Gabriel with trademark sharp humor. When you watch the episode, listen out for the expressions meaning 'excuse' and 'set down'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

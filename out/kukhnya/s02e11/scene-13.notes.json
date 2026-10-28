@@ -11,16 +11,16 @@
           "lemma": "здравствуйте",
           "pos": "verb",
           "stress": "здра́вствуйте",
-          "gloss": "hello",
-          "gram": "imperative 2nd person plural"
+          "gloss": "hello (polite)",
+          "gram": "polite greeting, the first в is silent"
         },
         {
           "t": "Петрович.",
           "lemma": "петрович",
           "pos": "name",
-          "stress": "петро́вич",
+          "stress": null,
           "gloss": "Petrovich",
-          "gram": "proper noun, nominative singular"
+          "gram": "patronymic, nominative"
         }
       ]
     },
@@ -33,16 +33,16 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes / hello",
-          "gram": "affirmative particle when answering phone (yes / hello)"
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
         },
         {
           "t": "Здравствуйте.",
           "lemma": "здравствуйте",
           "pos": "verb",
           "stress": "здра́вствуйте",
-          "gloss": "hello",
-          "gram": "imperative 2nd person plural"
+          "gloss": "hello (polite)",
+          "gram": "polite greeting, the first в is silent"
         }
       ]
     },
@@ -55,8 +55,8 @@
           "lemma": "как",
           "pos": "adv",
           "stress": null,
-          "gloss": "how / what do you mean",
-          "gram": "interrogative adverb (how / what do you mean)"
+          "gloss": "how",
+          "gram": "question word"
         },
         {
           "t": "здоровье?",
@@ -77,8 +77,8 @@
           "lemma": "вот",
           "pos": "part",
           "stress": null,
-          "gloss": "there you go",
-          "gram": "particle ('Ну вот!' = there you go, you see)"
+          "gloss": "there, here",
+          "gram": "pointing particle"
         },
         {
           "t": "спасибо.",
@@ -86,7 +86,7 @@
           "pos": "noun",
           "stress": "спаси́бо",
           "gloss": "thank you",
-          "gram": "indeclinable noun/interjection, accusative"
+          "gram": "fixed expression"
         }
       ]
     },
@@ -99,24 +99,24 @@
           "lemma": "а",
           "pos": "conj",
           "stress": null,
-          "gloss": "and",
-          "gram": "coordinating/contrastive conjunction (and)"
+          "gloss": "and, but",
+          "gram": "conjunction"
         },
         {
           "t": "то",
           "lemma": "то",
-          "pos": "conj",
+          "pos": "pron",
           "stress": null,
-          "gloss": "then",
-          "gram": "correlative conjunction (если ... то)"
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "у",
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "by, with",
-          "gram": "preposition + genitive; у нас с тобой = between the two of us"
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
         },
         {
           "t": "меня",
@@ -124,15 +124,15 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, genitive (after держаться)"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "вся",
           "lemma": "весь",
-          "pos": "pron",
+          "pos": "det",
           "stress": null,
-          "gloss": "whole, all",
-          "gram": "determiner, feminine singular nominative"
+          "gloss": "all, whole",
+          "gram": "feminine nominative singular"
         },
         {
           "t": "постель",
@@ -147,8 +147,8 @@
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "in",
-          "gram": "preposition + prepositional; в чём дело = what's going on?"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "крошках.",
@@ -169,8 +169,8 @@
           "lemma": "как",
           "pos": "adv",
           "stress": null,
-          "gloss": "how / what do you mean",
-          "gram": "interrogative adverb (how / what do you mean)"
+          "gloss": "how",
+          "gram": "question word"
         },
         {
           "t": "дела",
@@ -185,8 +185,8 @@
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
-          "gram": "preposition + accusative; верить на слово = take at one's word"
+          "gloss": "on, onto",
+          "gram": "preposition"
         },
         {
           "t": "кухне?",
@@ -194,21 +194,29 @@
           "pos": "noun",
           "stress": "ку́хне",
           "gloss": "kitchen",
-          "gram": "feminine inanimate noun, prepositional singular"
+          "gram": "feminine singular, prepositional"
         }
       ]
     },
     {
       "seg": 7,
-      "trans": "Are you a complete idiot or what?",
+      "trans": "Are you completely joking or what?",
       "words": [
         {
-          "t": "Дебил",
-          "lemma": "дебил",
-          "pos": "noun",
-          "stress": "деби́л",
-          "gloss": "moron, idiot (colloq.)",
-          "gram": "nominative / accusative"
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "шутишь,",
+          "lemma": "шутить",
+          "pos": "verb",
+          "stress": "шу́тишь",
+          "gloss": "are joking",
+          "gram": "present, 2nd person singular, imperfective"
         },
         {
           "t": "что",
@@ -216,15 +224,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "used as a question particle: вы что = what, are you..."
+          "gram": "relative pronoun, accusative"
         },
         {
-          "t": "ли",
+          "t": "ли,",
           "lemma": "ли",
           "pos": "part",
           "stress": null,
-          "gloss": "really",
-          "gram": "part of colloquial tag что ли = or what, I suppose"
+          "gloss": "whether",
+          "gram": "particle"
         },
         {
           "t": "совсем?",
@@ -245,16 +253,16 @@
           "lemma": "вообще-то",
           "pos": "adv",
           "stress": "вообще́-то",
-          "gloss": "actually, as a matter of fact",
-          "gram": "parenthetical adverb"
+          "gloss": "actually, for the record",
+          "gram": "adverb"
         },
         {
           "t": "у",
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "by, with",
-          "gram": "preposition + genitive; у нас с тобой = between the two of us"
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
         },
         {
           "t": "меня",
@@ -262,15 +270,15 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, genitive (after держаться)"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "только",
           "lemma": "только",
-          "pos": "conj",
+          "pos": "adv",
           "stress": "то́лько",
-          "gloss": "only, but",
-          "gram": "adversative particle/conjunction"
+          "gloss": "only",
+          "gram": "limiting adverb"
         },
         {
           "t": "один",
@@ -278,7 +286,7 @@
           "pos": "num",
           "stress": "оди́н",
           "gloss": "one",
-          "gram": "masculine singular, nominative; один в один = spot on"
+          "gram": "nominative, masculine"
         },
         {
           "t": "способ",
@@ -314,9 +322,9 @@
           "t": "Лёва,",
           "lemma": "лёва",
           "pos": "name",
-          "stress": "лёва",
-          "gloss": "Lyova",
-          "gram": "proper noun, nominative/genitive singular"
+          "stress": null,
+          "gloss": "Lyova (pet form of Lev)",
+          "gram": "nominative, used as address"
         },
         {
           "t": "чтобы",
@@ -324,23 +332,23 @@
           "pos": "conj",
           "stress": "что́бы",
           "gloss": "so that",
-          "gram": "conjunction, followed by the past tense"
+          "gram": "conjunction of purpose (+ past form)"
         },
         {
           "t": "быть",
           "lemma": "быть",
           "pos": "verb",
           "stress": null,
-          "gloss": "maybe",
-          "gram": "infinitive of быть in может быть (maybe)"
+          "gloss": "be",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "настоящим",
           "lemma": "настоящий",
           "pos": "adj",
           "stress": "настоя́щим",
-          "gloss": "a real, genuine",
-          "gram": "masculine singular instrumental"
+          "gloss": "real, genuine",
+          "gram": "adj m inst"
         },
         {
           "t": "шефом.",
@@ -359,10 +367,10 @@
         {
           "t": "Какой?",
           "lemma": "какой",
-          "pos": "pron",
+          "pos": "det",
           "stress": "како́й",
-          "gloss": "what",
-          "gram": "interrogative determiner, nominative singular masculine"
+          "gloss": "what a, how",
+          "gram": "nominative masculine singular, exclamation"
         },
         {
           "t": "Понимаешь?",
@@ -380,27 +388,27 @@
       "words": [
         {
           "t": "Надо",
-          "lemma": "над",
-          "pos": "prep",
+          "lemma": "надо",
+          "pos": "adv",
           "stress": "на́до",
-          "gloss": "at, over",
-          "gram": "preposition + instrumental (form of над before мной)"
+          "gloss": "it is necessary",
+          "gram": "predicative adverb + infinitive"
         },
         {
           "t": "быть",
           "lemma": "быть",
           "pos": "verb",
           "stress": null,
-          "gloss": "maybe",
-          "gram": "infinitive of быть in может быть (maybe)"
+          "gloss": "be",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "настоящей",
           "lemma": "настоящий",
           "pos": "adj",
           "stress": "настоя́щей",
-          "gloss": "real, genuine",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gloss": "true",
+          "gram": "feminine singular genitive"
         },
         {
           "t": "гнидой.",
@@ -421,8 +429,8 @@
           "lemma": "а",
           "pos": "conj",
           "stress": null,
-          "gloss": "and",
-          "gram": "coordinating/contrastive conjunction (and)"
+          "gloss": "and, but",
+          "gram": "conjunction"
         },
         {
           "t": "гнидой",
@@ -436,17 +444,17 @@
           "t": "Лёва",
           "lemma": "лёва",
           "pos": "name",
-          "stress": "лёва",
-          "gloss": "Lyova",
-          "gram": "proper noun, nominative/genitive singular"
+          "stress": null,
+          "gloss": "Lyova (pet form of Lev)",
+          "gram": "nominative, used as address"
         },
         {
           "t": "быть",
           "lemma": "быть",
           "pos": "verb",
           "stress": null,
-          "gloss": "maybe",
-          "gram": "infinitive of быть in может быть (maybe)"
+          "gloss": "be",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "нелегко.",
@@ -467,8 +475,8 @@
           "lemma": "ладно",
           "pos": "part",
           "stress": "ла́дно",
-          "gloss": "really?!, come on!",
-          "gram": "exclamation of disbelief (да ладно)"
+          "gloss": "all right",
+          "gram": "particle of agreement"
         },
         {
           "t": "иди",
@@ -497,16 +505,16 @@
           "lemma": "здравствуйте",
           "pos": "verb",
           "stress": "здра́вствуйте",
-          "gloss": "hello",
-          "gram": "imperative 2nd person plural"
+          "gloss": "hello (polite)",
+          "gram": "polite greeting, the first в is silent"
         },
         {
           "t": "Петрович.",
           "lemma": "петрович",
           "pos": "name",
-          "stress": "петро́вич",
+          "stress": null,
           "gloss": "Petrovich",
-          "gram": "proper noun, nominative singular"
+          "gram": "patronymic, nominative"
         }
       ]
     },
@@ -519,16 +527,16 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes / hello",
-          "gram": "affirmative particle when answering phone (yes / hello)"
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
         },
         {
           "t": "Здравствуйте.",
           "lemma": "здравствуйте",
           "pos": "verb",
           "stress": "здра́вствуйте",
-          "gloss": "hello",
-          "gram": "imperative 2nd person plural"
+          "gloss": "hello (polite)",
+          "gram": "polite greeting, the first в is silent"
         }
       ]
     },
@@ -541,8 +549,8 @@
           "lemma": "как",
           "pos": "adv",
           "stress": null,
-          "gloss": "how / what do you mean",
-          "gram": "interrogative adverb (how / what do you mean)"
+          "gloss": "how",
+          "gram": "question word"
         },
         {
           "t": "здоровье?",
@@ -563,8 +571,8 @@
           "lemma": "вот",
           "pos": "part",
           "stress": null,
-          "gloss": "there you go",
-          "gram": "particle ('Ну вот!' = there you go, you see)"
+          "gloss": "there, here",
+          "gram": "pointing particle"
         },
         {
           "t": "спасибо.",
@@ -572,7 +580,7 @@
           "pos": "noun",
           "stress": "спаси́бо",
           "gloss": "thank you",
-          "gram": "indeclinable noun/interjection, accusative"
+          "gram": "fixed expression"
         }
       ]
     },
@@ -585,24 +593,24 @@
           "lemma": "а",
           "pos": "conj",
           "stress": null,
-          "gloss": "and",
-          "gram": "coordinating/contrastive conjunction (and)"
+          "gloss": "and, but",
+          "gram": "conjunction"
         },
         {
           "t": "то",
           "lemma": "то",
-          "pos": "conj",
+          "pos": "pron",
           "stress": null,
-          "gloss": "then",
-          "gram": "correlative conjunction (если ... то)"
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "у",
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "by, with",
-          "gram": "preposition + genitive; у нас с тобой = between the two of us"
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
         },
         {
           "t": "меня",
@@ -610,15 +618,15 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, genitive (after держаться)"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "вся",
           "lemma": "весь",
-          "pos": "pron",
+          "pos": "det",
           "stress": null,
-          "gloss": "whole, all",
-          "gram": "determiner, feminine singular nominative"
+          "gloss": "all, whole",
+          "gram": "feminine nominative singular"
         },
         {
           "t": "постель",
@@ -633,8 +641,8 @@
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "in",
-          "gram": "preposition + prepositional; в чём дело = what's going on?"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "крошках.",
@@ -655,8 +663,8 @@
           "lemma": "как",
           "pos": "adv",
           "stress": null,
-          "gloss": "how / what do you mean",
-          "gram": "interrogative adverb (how / what do you mean)"
+          "gloss": "how",
+          "gram": "question word"
         },
         {
           "t": "дела",
@@ -671,8 +679,8 @@
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
-          "gram": "preposition + accusative; верить на слово = take at one's word"
+          "gloss": "on, onto",
+          "gram": "preposition"
         },
         {
           "t": "кухне?",
@@ -680,21 +688,29 @@
           "pos": "noun",
           "stress": "ку́хне",
           "gloss": "kitchen",
-          "gram": "feminine inanimate noun, prepositional singular"
+          "gram": "feminine singular, prepositional"
         }
       ]
     },
     {
       "seg": 27,
-      "trans": "Are you a complete idiot or what?",
+      "trans": "Are you completely joking or what?",
       "words": [
         {
-          "t": "Дебил",
-          "lemma": "дебил",
-          "pos": "noun",
-          "stress": "деби́л",
-          "gloss": "moron, idiot (colloq.)",
-          "gram": "nominative / accusative"
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "шутишь,",
+          "lemma": "шутить",
+          "pos": "verb",
+          "stress": "шу́тишь",
+          "gloss": "are joking",
+          "gram": "present, 2nd person singular, imperfective"
         },
         {
           "t": "что",
@@ -702,15 +718,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "used as a question particle: вы что = what, are you..."
+          "gram": "relative pronoun, accusative"
         },
         {
-          "t": "ли",
+          "t": "ли,",
           "lemma": "ли",
           "pos": "part",
           "stress": null,
-          "gloss": "really",
-          "gram": "part of colloquial tag что ли = or what, I suppose"
+          "gloss": "whether",
+          "gram": "particle"
         },
         {
           "t": "совсем?",
@@ -731,16 +747,16 @@
           "lemma": "вообще-то",
           "pos": "adv",
           "stress": "вообще́-то",
-          "gloss": "actually, as a matter of fact",
-          "gram": "parenthetical adverb"
+          "gloss": "actually, for the record",
+          "gram": "adverb"
         },
         {
           "t": "у",
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "by, with",
-          "gram": "preposition + genitive; у нас с тобой = between the two of us"
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
         },
         {
           "t": "меня",
@@ -748,15 +764,15 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, genitive (after держаться)"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "только",
           "lemma": "только",
-          "pos": "conj",
+          "pos": "adv",
           "stress": "то́лько",
-          "gloss": "only, but",
-          "gram": "adversative particle/conjunction"
+          "gloss": "only",
+          "gram": "limiting adverb"
         },
         {
           "t": "один",
@@ -764,7 +780,7 @@
           "pos": "num",
           "stress": "оди́н",
           "gloss": "one",
-          "gram": "masculine singular, nominative; один в один = spot on"
+          "gram": "nominative, masculine"
         },
         {
           "t": "способ",
@@ -800,9 +816,9 @@
           "t": "Лёва,",
           "lemma": "лёва",
           "pos": "name",
-          "stress": "лёва",
-          "gloss": "Lyova",
-          "gram": "proper noun, nominative/genitive singular"
+          "stress": null,
+          "gloss": "Lyova (pet form of Lev)",
+          "gram": "nominative, used as address"
         },
         {
           "t": "чтобы",
@@ -810,23 +826,23 @@
           "pos": "conj",
           "stress": "что́бы",
           "gloss": "so that",
-          "gram": "conjunction, followed by the past tense"
+          "gram": "conjunction of purpose (+ past form)"
         },
         {
           "t": "быть",
           "lemma": "быть",
           "pos": "verb",
           "stress": null,
-          "gloss": "maybe",
-          "gram": "infinitive of быть in может быть (maybe)"
+          "gloss": "be",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "настоящим",
           "lemma": "настоящий",
           "pos": "adj",
           "stress": "настоя́щим",
-          "gloss": "a real, genuine",
-          "gram": "masculine singular instrumental"
+          "gloss": "real, genuine",
+          "gram": "adj m inst"
         },
         {
           "t": "шефом.",
@@ -845,10 +861,10 @@
         {
           "t": "Какой?",
           "lemma": "какой",
-          "pos": "pron",
+          "pos": "det",
           "stress": "како́й",
-          "gloss": "what",
-          "gram": "interrogative determiner, nominative singular masculine"
+          "gloss": "what a, how",
+          "gram": "nominative masculine singular, exclamation"
         },
         {
           "t": "Понимаешь?",
@@ -866,27 +882,27 @@
       "words": [
         {
           "t": "Надо",
-          "lemma": "над",
-          "pos": "prep",
+          "lemma": "надо",
+          "pos": "adv",
           "stress": "на́до",
-          "gloss": "at, over",
-          "gram": "preposition + instrumental (form of над before мной)"
+          "gloss": "it is necessary",
+          "gram": "predicative adverb + infinitive"
         },
         {
           "t": "быть",
           "lemma": "быть",
           "pos": "verb",
           "stress": null,
-          "gloss": "maybe",
-          "gram": "infinitive of быть in может быть (maybe)"
+          "gloss": "be",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "настоящей",
           "lemma": "настоящий",
           "pos": "adj",
           "stress": "настоя́щей",
-          "gloss": "real, genuine",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gloss": "true",
+          "gram": "feminine singular genitive"
         },
         {
           "t": "гнидой.",
@@ -907,8 +923,8 @@
           "lemma": "а",
           "pos": "conj",
           "stress": null,
-          "gloss": "and",
-          "gram": "coordinating/contrastive conjunction (and)"
+          "gloss": "and, but",
+          "gram": "conjunction"
         },
         {
           "t": "гнидой",
@@ -922,17 +938,17 @@
           "t": "Лёва",
           "lemma": "лёва",
           "pos": "name",
-          "stress": "лёва",
-          "gloss": "Lyova",
-          "gram": "proper noun, nominative/genitive singular"
+          "stress": null,
+          "gloss": "Lyova (pet form of Lev)",
+          "gram": "nominative, used as address"
         },
         {
           "t": "быть",
           "lemma": "быть",
           "pos": "verb",
           "stress": null,
-          "gloss": "maybe",
-          "gram": "infinitive of быть in может быть (maybe)"
+          "gloss": "be",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "нелегко.",
@@ -953,8 +969,8 @@
           "lemma": "ладно",
           "pos": "part",
           "stress": "ла́дно",
-          "gloss": "really?!, come on!",
-          "gram": "exclamation of disbelief (да ладно)"
+          "gloss": "all right",
+          "gram": "particle of agreement"
         },
         {
           "t": "иди",
@@ -983,16 +999,16 @@
           "lemma": "здравствуйте",
           "pos": "verb",
           "stress": "здра́вствуйте",
-          "gloss": "hello",
-          "gram": "imperative 2nd person plural"
+          "gloss": "hello (polite)",
+          "gram": "polite greeting, the first в is silent"
         },
         {
           "t": "Петрович.",
           "lemma": "петрович",
           "pos": "name",
-          "stress": "петро́вич",
+          "stress": null,
           "gloss": "Petrovich",
-          "gram": "proper noun, nominative singular"
+          "gram": "patronymic, nominative"
         }
       ]
     },
@@ -1005,16 +1021,16 @@
           "lemma": "да",
           "pos": "part",
           "stress": null,
-          "gloss": "yes / hello",
-          "gram": "affirmative particle when answering phone (yes / hello)"
+          "gloss": "yes (да ну = really?)",
+          "gram": "particle in the set phrase да ну"
         },
         {
           "t": "Здравствуйте.",
           "lemma": "здравствуйте",
           "pos": "verb",
           "stress": "здра́вствуйте",
-          "gloss": "hello",
-          "gram": "imperative 2nd person plural"
+          "gloss": "hello (polite)",
+          "gram": "polite greeting, the first в is silent"
         }
       ]
     },
@@ -1027,8 +1043,8 @@
           "lemma": "как",
           "pos": "adv",
           "stress": null,
-          "gloss": "how / what do you mean",
-          "gram": "interrogative adverb (how / what do you mean)"
+          "gloss": "how",
+          "gram": "question word"
         },
         {
           "t": "здоровье?",
@@ -1049,8 +1065,8 @@
           "lemma": "вот",
           "pos": "part",
           "stress": null,
-          "gloss": "there you go",
-          "gram": "particle ('Ну вот!' = there you go, you see)"
+          "gloss": "there, here",
+          "gram": "pointing particle"
         },
         {
           "t": "спасибо.",
@@ -1058,7 +1074,7 @@
           "pos": "noun",
           "stress": "спаси́бо",
           "gloss": "thank you",
-          "gram": "indeclinable noun/interjection, accusative"
+          "gram": "fixed expression"
         }
       ]
     },
@@ -1071,24 +1087,24 @@
           "lemma": "а",
           "pos": "conj",
           "stress": null,
-          "gloss": "and",
-          "gram": "coordinating/contrastive conjunction (and)"
+          "gloss": "and, but",
+          "gram": "conjunction"
         },
         {
           "t": "то",
           "lemma": "то",
-          "pos": "conj",
+          "pos": "pron",
           "stress": null,
-          "gloss": "then",
-          "gram": "correlative conjunction (если ... то)"
+          "gloss": "that",
+          "gram": "demonstrative pronoun"
         },
         {
           "t": "у",
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "by, with",
-          "gram": "preposition + genitive; у нас с тобой = between the two of us"
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
         },
         {
           "t": "меня",
@@ -1096,15 +1112,15 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, genitive (after держаться)"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "вся",
           "lemma": "весь",
-          "pos": "pron",
+          "pos": "det",
           "stress": null,
-          "gloss": "whole, all",
-          "gram": "determiner, feminine singular nominative"
+          "gloss": "all, whole",
+          "gram": "feminine nominative singular"
         },
         {
           "t": "постель",
@@ -1119,8 +1135,8 @@
           "lemma": "в",
           "pos": "prep",
           "stress": null,
-          "gloss": "in",
-          "gram": "preposition + prepositional; в чём дело = what's going on?"
+          "gloss": "in, into",
+          "gram": "preposition"
         },
         {
           "t": "крошках.",
@@ -1141,8 +1157,8 @@
           "lemma": "как",
           "pos": "adv",
           "stress": null,
-          "gloss": "how / what do you mean",
-          "gram": "interrogative adverb (how / what do you mean)"
+          "gloss": "how",
+          "gram": "question word"
         },
         {
           "t": "дела",
@@ -1157,8 +1173,8 @@
           "lemma": "на",
           "pos": "prep",
           "stress": null,
-          "gloss": "on, at",
-          "gram": "preposition + accusative; верить на слово = take at one's word"
+          "gloss": "on, onto",
+          "gram": "preposition"
         },
         {
           "t": "кухне?",
@@ -1166,21 +1182,29 @@
           "pos": "noun",
           "stress": "ку́хне",
           "gloss": "kitchen",
-          "gram": "feminine inanimate noun, prepositional singular"
+          "gram": "feminine singular, prepositional"
         }
       ]
     },
     {
       "seg": 47,
-      "trans": "Are you a complete idiot or what?",
+      "trans": "Are you completely joking or what?",
       "words": [
         {
-          "t": "Дебил",
-          "lemma": "дебил",
-          "pos": "noun",
-          "stress": "деби́л",
-          "gloss": "moron, idiot (colloq.)",
-          "gram": "nominative / accusative"
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "шутишь,",
+          "lemma": "шутить",
+          "pos": "verb",
+          "stress": "шу́тишь",
+          "gloss": "are joking",
+          "gram": "present, 2nd person singular, imperfective"
         },
         {
           "t": "что",
@@ -1188,15 +1212,15 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "used as a question particle: вы что = what, are you..."
+          "gram": "relative pronoun, accusative"
         },
         {
-          "t": "ли",
+          "t": "ли,",
           "lemma": "ли",
           "pos": "part",
           "stress": null,
-          "gloss": "really",
-          "gram": "part of colloquial tag что ли = or what, I suppose"
+          "gloss": "whether",
+          "gram": "particle"
         },
         {
           "t": "совсем?",
@@ -1217,16 +1241,16 @@
           "lemma": "вообще-то",
           "pos": "adv",
           "stress": "вообще́-то",
-          "gloss": "actually, as a matter of fact",
-          "gram": "parenthetical adverb"
+          "gloss": "actually, for the record",
+          "gram": "adverb"
         },
         {
           "t": "у",
           "lemma": "у",
           "pos": "prep",
           "stress": null,
-          "gloss": "by, with",
-          "gram": "preposition + genitive; у нас с тобой = between the two of us"
+          "gloss": "at, near, with",
+          "gram": "preposition + genitive"
         },
         {
           "t": "меня",
@@ -1234,15 +1258,15 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, genitive (after держаться)"
+          "gram": "1st person singular, genitive"
         },
         {
           "t": "только",
           "lemma": "только",
-          "pos": "conj",
+          "pos": "adv",
           "stress": "то́лько",
-          "gloss": "only, but",
-          "gram": "adversative particle/conjunction"
+          "gloss": "only",
+          "gram": "limiting adverb"
         },
         {
           "t": "один",
@@ -1250,7 +1274,7 @@
           "pos": "num",
           "stress": "оди́н",
           "gloss": "one",
-          "gram": "masculine singular, nominative; один в один = spot on"
+          "gram": "nominative, masculine"
         },
         {
           "t": "способ",
@@ -1286,9 +1310,9 @@
           "t": "Лёва,",
           "lemma": "лёва",
           "pos": "name",
-          "stress": "лёва",
-          "gloss": "Lyova",
-          "gram": "proper noun, nominative/genitive singular"
+          "stress": null,
+          "gloss": "Lyova (pet form of Lev)",
+          "gram": "nominative, used as address"
         },
         {
           "t": "чтобы",
@@ -1296,23 +1320,23 @@
           "pos": "conj",
           "stress": "что́бы",
           "gloss": "so that",
-          "gram": "conjunction, followed by the past tense"
+          "gram": "conjunction of purpose (+ past form)"
         },
         {
           "t": "быть",
           "lemma": "быть",
           "pos": "verb",
           "stress": null,
-          "gloss": "maybe",
-          "gram": "infinitive of быть in может быть (maybe)"
+          "gloss": "be",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "настоящим",
           "lemma": "настоящий",
           "pos": "adj",
           "stress": "настоя́щим",
-          "gloss": "a real, genuine",
-          "gram": "masculine singular instrumental"
+          "gloss": "real, genuine",
+          "gram": "adj m inst"
         },
         {
           "t": "шефом.",
@@ -1331,10 +1355,10 @@
         {
           "t": "Какой?",
           "lemma": "какой",
-          "pos": "pron",
+          "pos": "det",
           "stress": "како́й",
-          "gloss": "what",
-          "gram": "interrogative determiner, nominative singular masculine"
+          "gloss": "what a, how",
+          "gram": "nominative masculine singular, exclamation"
         },
         {
           "t": "Понимаешь?",
@@ -1352,27 +1376,27 @@
       "words": [
         {
           "t": "Надо",
-          "lemma": "над",
-          "pos": "prep",
+          "lemma": "надо",
+          "pos": "adv",
           "stress": "на́до",
-          "gloss": "at, over",
-          "gram": "preposition + instrumental (form of над before мной)"
+          "gloss": "it is necessary",
+          "gram": "predicative adverb + infinitive"
         },
         {
           "t": "быть",
           "lemma": "быть",
           "pos": "verb",
           "stress": null,
-          "gloss": "maybe",
-          "gram": "infinitive of быть in может быть (maybe)"
+          "gloss": "be",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "настоящей",
           "lemma": "настоящий",
           "pos": "adj",
           "stress": "настоя́щей",
-          "gloss": "real, genuine",
-          "gram": "oblique feminine singular / masculine nominative"
+          "gloss": "true",
+          "gram": "feminine singular genitive"
         },
         {
           "t": "гнидой.",
@@ -1393,8 +1417,8 @@
           "lemma": "а",
           "pos": "conj",
           "stress": null,
-          "gloss": "and",
-          "gram": "coordinating/contrastive conjunction (and)"
+          "gloss": "and, but",
+          "gram": "conjunction"
         },
         {
           "t": "гнидой",
@@ -1408,17 +1432,17 @@
           "t": "Лёва",
           "lemma": "лёва",
           "pos": "name",
-          "stress": "лёва",
-          "gloss": "Lyova",
-          "gram": "proper noun, nominative/genitive singular"
+          "stress": null,
+          "gloss": "Lyova (pet form of Lev)",
+          "gram": "nominative, used as address"
         },
         {
           "t": "быть",
           "lemma": "быть",
           "pos": "verb",
           "stress": null,
-          "gloss": "maybe",
-          "gram": "infinitive of быть in может быть (maybe)"
+          "gloss": "be",
+          "gram": "infinitive, imperfective"
         },
         {
           "t": "нелегко.",
@@ -1439,8 +1463,8 @@
           "lemma": "ладно",
           "pos": "part",
           "stress": "ла́дно",
-          "gloss": "really?!, come on!",
-          "gram": "exclamation of disbelief (да ладно)"
+          "gloss": "all right",
+          "gram": "particle of agreement"
         },
         {
           "t": "иди",
@@ -1462,425 +1486,28 @@
     },
     {
       "seg": 55,
-      "trans": "All right, go back to work.",
+      "trans": "Have a good day!",
       "words": [
         {
-          "t": "Ладно,",
-          "lemma": "ладно",
-          "pos": "part",
-          "stress": "ла́дно",
-          "gloss": "really?!, come on!",
-          "gram": "exclamation of disbelief (да ладно)"
+          "t": "Хорошего",
+          "lemma": "хороший",
+          "pos": "adj",
+          "stress": "хоро́шего",
+          "gloss": "good",
+          "gram": "genitive masculine singular"
         },
         {
-          "t": "иди",
-          "lemma": "идти",
-          "pos": "verb",
-          "stress": "иди́",
-          "gloss": "go",
-          "gram": "imperative, 2nd person singular, imperfective"
-        },
-        {
-          "t": "работай.",
-          "lemma": "работать",
-          "pos": "verb",
-          "stress": "рабо́тай",
-          "gloss": "work",
-          "gram": "imperative, 2nd person singular, imperfective"
+          "t": "дня!",
+          "lemma": "день",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "day",
+          "gram": "genitive masculine singular"
         }
       ]
     }
   ],
   "lexicon": {
-    "здравствуйте": {
-      "lemma": "здравствуйте",
-      "stress": "здра́вствуйте",
-      "pos": "verb",
-      "gloss": "hello",
-      "meanings": [
-        {
-          "en": "hello",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "здравствуйю",
-              "здравствуйем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "здравствуйешь",
-              "здравствуйете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "здравствуйет",
-              "здравствуйют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "здравствуйл",
-                "здравствуйла",
-                "здравствуйло",
-                "здравствуйли"
-              ]
-            }
-          ]
-        }
-      ],
-      "related": [
-        {
-          "word": "здравствуй",
-          "gloss": "hello"
-        },
-        {
-          "word": "здравие",
-          "gloss": "health"
-        },
-        {
-          "word": "поздравлять",
-          "gloss": "to congratulate"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Здравствуйте! Как там в Венгрии?",
-          "trans": "Hello! How was it in Hungary?"
-        },
-        {
-          "text": "Аркадий Борисович, здравствуйте.",
-          "trans": "Arkady Borisovich, hello."
-        },
-        {
-          "text": "Здравствуйте, Аркадий Борисович.",
-          "trans": "Hello, Arkady Borisovich."
-        }
-      ],
-      "aspect": "impf"
-    },
-    "да": {
-      "lemma": "да",
-      "stress": "да",
-      "pos": "part",
-      "gloss": "yes, indeed",
-      "meanings": [
-        {
-          "en": "yes, indeed",
-          "note": "High-frequency Russian discourse particle adding conversational nuance meaning 'yes, indeed', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "нет",
-          "gloss": "no"
-        },
-        {
-          "word": "давай",
-          "gloss": "let's, come on"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Да ну?",
-          "trans": "Oh yeah?"
-        },
-        {
-          "text": "Да, это я.",
-          "trans": "Yes, it's me."
-        },
-        {
-          "text": "Да ну? Когда?",
-          "trans": "Oh yeah? When?"
-        }
-      ]
-    },
-    "как": {
-      "lemma": "как",
-      "stress": "как",
-      "pos": "adv",
-      "gloss": "how; as",
-      "meanings": [
-        {
-          "en": "how; as",
-          "note": "High-frequency Russian conversational adverb meaning 'how; as', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "какой",
-          "gloss": "what kind of"
-        },
-        {
-          "word": "так",
-          "gloss": "so, thus"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Как там в Венгрии?",
-          "trans": "How was it in Hungary?"
-        },
-        {
-          "text": "Как вы все знаете...",
-          "trans": "As you all know..."
-        },
-        {
-          "text": "Здравствуйте! Как там в Венгрии?",
-          "trans": "Hello! How was it in Hungary?"
-        }
-      ]
-    },
-    "здоровье": {
-      "lemma": "здоровье",
-      "stress": "здоро́вье",
-      "pos": "noun",
-      "gloss": "health",
-      "meanings": [
-        {
-          "en": "health",
-          "note": "Common neuter noun meaning 'health' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "здоровье",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "здоровья",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "здоровью",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "здоровье",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "здоровьем",
-              "—"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "здоровье",
-              "—"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "здорово",
-          "gloss": "great"
-        },
-        {
-          "word": "здоровый",
-          "gloss": "healthy"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Как ваше здоровье?",
-          "trans": "How is your health?"
-        },
-        {
-          "text": "Это угрожает здоровью.",
-          "trans": "This threatens health."
-        },
-        {
-          "text": "Конфликты с соседями угрожают здоровью подсудимого.",
-          "trans": "Conflicts with the neighbours threaten the defendant's health."
-        }
-      ],
-      "gender": "n"
-    },
-    "вот": {
-      "lemma": "вот",
-      "stress": "вот",
-      "pos": "part",
-      "gloss": "here is; (emphasis) that's",
-      "meanings": [
-        {
-          "en": "here is; (emphasis) that's",
-          "note": "High-frequency Russian discourse particle adding conversational nuance meaning 'here is; (emphasis) that's', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "вон",
-          "gloss": "over there"
-        },
-        {
-          "word": "вот-вот",
-          "gloss": "any moment now"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ладно, держи. Вот, смотри.",
-          "trans": "All right, here you go. There, look."
-        },
-        {
-          "text": "Вот, смотри.",
-          "trans": "There, look."
-        },
-        {
-          "text": "Вот увидишь!",
-          "trans": "You'll see!"
-        }
-      ]
-    },
-    "спасибо": {
-      "lemma": "спасибо",
-      "stress": "спаси́бо",
-      "pos": "noun",
-      "gloss": "thank you",
-      "meanings": [
-        {
-          "en": "thank you",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'пасибо'). Common neuter noun meaning 'thank you' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "спасиба",
-              "спасиб"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "спасибу",
-              "спасибам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "спасибо",
-              "спасиба"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "спасибом",
-              "спасибами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "спасибе",
-              "спасибах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "без спасиб",
-          "gloss": "without thank you"
-        },
-        {
-          "word": "наш спасибо",
-          "gloss": "our thank you"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Спасибо, папа!",
-          "trans": "Thanks, Dad!"
-        },
-        {
-          "text": "Спасибо за доверие!",
-          "trans": "Thank you for your trust!"
-        },
-        {
-          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
-          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
-        }
-      ],
-      "gender": "n"
-    },
     "а": {
       "lemma": "а",
       "stress": "а",
@@ -1888,22 +1515,16 @@
       "gloss": "and, but; so",
       "meanings": [
         {
-          "en": "and, but; so",
-          "note": "High-frequency Russian clause-linking conjunction meaning 'and, but; so', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "en": "and, while",
+          "note": "Contrast. Core Russian conj meaning 'and, but; so' in everyday speech."
+        },
+        {
+          "en": "so, and what about",
+          "note": "Starting a question: а жвачку?. Core Russian conj meaning 'and, but; so' in everyday speech."
         }
       ],
       "forms": null,
       "moreForms": [],
-      "related": [
-        {
-          "word": "но",
-          "gloss": "but (stronger contrast)"
-        },
-        {
-          "word": "и",
-          "gloss": "and"
-        }
-      ],
       "examples": [
         {
           "text": "А это тебе.",
@@ -1917,1421 +1538,15 @@
           "text": "Папа, а жвачку ты привёз?",
           "trans": "Dad, did you bring any gum?"
         }
-      ]
-    },
-    "то": {
-      "lemma": "то",
-      "stress": "то",
-      "pos": "pron",
-      "gloss": "that",
-      "meanings": [
-        {
-          "en": "that",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "вот то",
-          "gloss": "right here (that)"
-        },
-        {
-          "word": "именно то",
-          "gloss": "precisely that"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Это хорошо, что готово. А то мы уже начали беспокоиться.",
-          "trans": "It's good that it's ready. We were starting to worry."
-        },
-        {
-          "text": "А если я не скажу, то что? Ты мне ухо отрежешь?",
-          "trans": "And if I don't tell you, then what? Will you cut my ear off?"
-        },
-        {
-          "text": "А если я не скажу, то что?",
-          "trans": "And if I don't tell you, then what?"
-        }
-      ]
-    },
-    "у": {
-      "lemma": "у",
-      "stress": "у",
-      "pos": "prep",
-      "gloss": "at, by; (у меня) I have",
-      "meanings": [
-        {
-          "en": "at, by; (у меня) I have",
-          "note": "High-frequency Russian spatial or relational preposition meaning 'at, by; (у меня) I have', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "около",
-          "gloss": "near"
-        },
-        {
-          "word": "к",
-          "gloss": "to, towards"
-        }
-      ],
-      "examples": [
-        {
-          "text": "У меня есть машинка.",
-          "trans": "I have a toy car."
-        },
-        {
-          "text": "Он у нас.",
-          "trans": "He's at our place."
-        },
-        {
-          "text": "Привет! Смотри, что у меня есть.",
-          "trans": "Hi! Look what I've got."
-        }
-      ]
-    },
-    "я": {
-      "lemma": "я",
-      "stress": "я",
-      "pos": "pron",
-      "gloss": "I",
-      "meanings": [
-        {
-          "en": "I",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'I', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "я"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "меня"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "мне"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "меня"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "мной"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "мне"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "меня",
-          "gloss": "me (genitive/accusative)"
-        },
-        {
-          "word": "мне",
-          "gloss": "to me (dative)"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Шеф, я не брала.",
-          "trans": "Chef, I didn't take it."
-        },
-        {
-          "text": "Я не знаю.",
-          "trans": "I don't know."
-        },
-        {
-          "text": "Я учу уроки.",
-          "trans": "I'm doing my homework."
-        }
-      ]
-    },
-    "весь": {
-      "lemma": "весь",
-      "stress": "весь",
-      "pos": "det",
-      "gloss": "all, whole; everyone, everything",
-      "meanings": [
-        {
-          "en": "all, whole; everyone, everything",
-          "note": "High-frequency Russian pronominal determiner meaning 'all, whole; everyone, everything', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "весь",
-              "вся",
-              "всё",
-              "все"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "всего",
-              "всей",
-              "всего",
-              "всех"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "всему",
-              "всей",
-              "всему",
-              "всем"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "весь / всего",
-              "всю",
-              "всё",
-              "все / всех"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "всем",
-              "всей",
-              "всем",
-              "всеми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "всём",
-              "всей",
-              "всём",
-              "всех"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "всё",
-          "gloss": "everything"
-        },
-        {
-          "word": "все",
-          "gloss": "everyone"
-        },
-        {
-          "word": "всегда",
-          "gloss": "always"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Всё нормально.",
-          "trans": "Everything's fine."
-        },
-        {
-          "text": "Как вы все знаете...",
-          "trans": "As you all know..."
-        },
-        {
-          "text": "Поделись со всеми.",
-          "trans": "Share with everyone."
-        }
-      ]
-    },
-    "постель": {
-      "lemma": "постель",
-      "stress": "посте́ль",
-      "pos": "noun",
-      "gloss": "bed, bedding",
-      "meanings": [
-        {
-          "en": "bed, bedding",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'стель'). Agent/instrument noun formed with the productive Slavic suffix '-тель' ('-er'). Common feminine noun meaning 'bed, bedding' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "постель",
-              "постели"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "постели",
-              "постелей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "постели",
-              "постелям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "постель",
-              "постели"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "постелью",
-              "постелями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "постели",
-              "постелях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "постельный",
-          "gloss": "bed"
-        },
-        {
-          "word": "без постел",
-          "gloss": "without bed"
-        },
-        {
-          "word": "наш постель",
-          "gloss": "our bed"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Она легла в постель.",
-          "trans": "She lay down in bed."
-        },
-        {
-          "text": "Ты опять затащил меня в постель?",
-          "trans": "Did you drag me into bed again?"
-        },
-        {
-          "text": "Тебе лысые мужчины кофе в постель приносят?",
-          "trans": "Do bald men bring you coffee in bed?"
-        }
-      ],
-      "gender": "f"
-    },
-    "в": {
-      "lemma": "в",
-      "stress": "в",
-      "pos": "prep",
-      "gloss": "in, into",
-      "meanings": [
-        {
-          "en": "in, into",
-          "note": "High-frequency Russian spatial or relational preposition meaning 'in, into', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "во",
-          "gloss": "in, into (before consonant clusters)"
-        },
-        {
-          "word": "внутри",
-          "gloss": "inside"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Как там в Венгрии?",
-          "trans": "How is it in Hungary?"
-        },
-        {
-          "text": "Я вырос в коммуналке.",
-          "trans": "I grew up in a communal flat."
-        },
-        {
-          "text": "Здравствуйте! Как там в Венгрии?",
-          "trans": "Hello! How was it in Hungary?"
-        }
-      ]
-    },
-    "крошка": {
-      "lemma": "крошка",
-      "stress": "кро́шка",
-      "pos": "noun",
-      "gloss": "crumb; little one",
-      "meanings": [
-        {
-          "en": "crumb; little one",
-          "note": "Common feminine noun meaning 'crumb; little one' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "крошка",
-              "крошки"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "крошки",
-              "крошк"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "крошке",
-              "крошкам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "крошку",
-              "крошки"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "крошкой",
-              "крошками"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "крошке",
-              "крошках"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "без крошк",
-          "gloss": "without crumb"
-        },
-        {
-          "word": "наш крошка",
-          "gloss": "our crumb"
-        }
-      ],
-      "examples": [
-        {
-          "text": "А то у меня вся постель в крошках.",
-          "trans": "Otherwise my whole bed is full of crumbs."
-        },
-        {
-          "text": "На нашей кухне уже есть новая крошка.",
-          "trans": "In our kitchen there is already a new crumb."
-        }
-      ],
-      "gender": "f"
-    },
-    "дело": {
-      "lemma": "дело",
-      "stress": "де́ло",
-      "pos": "noun",
-      "gloss": "matter; thing to do",
-      "meanings": [
-        {
-          "en": "matter; thing to do",
-          "note": "Common neuter noun meaning 'matter; thing to do' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "дело",
-              "дела"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "дела",
-              "дел"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "делу",
-              "делам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "дело",
-              "дела"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "делом",
-              "делами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "деле",
-              "делах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "деловой",
-          "gloss": "business"
-        },
-        {
-          "word": "без дел",
-          "gloss": "without business"
-        },
-        {
-          "word": "наш дело",
-          "gloss": "our business"
-        }
-      ],
-      "examples": [
-        {
-          "text": "У меня много дел.",
-          "trans": "I have a lot to do."
-        },
-        {
-          "text": "Как дела?",
-          "trans": "How are things?"
-        },
-        {
-          "text": "Мне некогда об этом думать. Слишком много дел.",
-          "trans": "I have no time to think about that. There's too much to do."
-        }
-      ],
-      "gender": "n"
-    },
-    "на": {
-      "lemma": "на",
-      "stress": "на",
-      "pos": "prep",
-      "gloss": "on, onto; for",
-      "meanings": [
-        {
-          "en": "on, onto; for",
-          "note": "High-frequency Russian spatial or relational preposition meaning 'on, onto; for', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "над",
-          "gloss": "above, over"
-        },
-        {
-          "word": "в",
-          "gloss": "in, at"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Программа на сайте.",
-          "trans": "The programme is on the website."
-        },
-        {
-          "text": "Он идёт на второй срок.",
-          "trans": "He is running for a second term."
-        },
-        {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
-        }
-      ]
-    },
-    "кухня": {
-      "lemma": "кухня",
-      "stress": "ку́хня",
-      "pos": "noun",
-      "gloss": "kitchen",
-      "meanings": [
-        {
-          "en": "kitchen",
-          "note": "Entered Russian via Polish 'kuchnia' and Middle High German 'küchen', ultimately from Late Latin 'coquina' (from 'coquere', to cook)."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "кухня",
-              "кухни"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "кухни",
-              "кухонь"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "кухне",
-              "кухням"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "кухню",
-              "кухни"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "кухней",
-              "кухнями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "кухне",
-              "кухнях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "без кухн",
-          "gloss": "without kitchen"
-        },
-        {
-          "word": "наш кухня",
-          "gloss": "our kitchen"
-        }
-      ],
-      "examples": [
-        {
-          "text": "А там кухня.",
-          "trans": "And the kitchen is over there."
-        },
-        {
-          "text": "Мы сидим на кухне.",
-          "trans": "We are sitting in the kitchen."
-        },
-        {
-          "text": "Проходите, пожалуйста! Как видите, большой коридор, а там кухня.",
-          "trans": "Come on in, please! As you can see, a big hall, and the kitchen is over there."
-        }
-      ],
-      "gender": "f"
-    },
-    "дебил": {
-      "lemma": "дебил",
-      "stress": "деби́л",
-      "pos": "noun",
-      "gloss": "moron, idiot (colloq.)",
-      "meanings": [
-        {
-          "en": "moron, idiot (colloq.)",
-          "note": "Common masculine noun meaning 'moron, idiot (colloq.)' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "дебил",
-              "дебилы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "дебила",
-              "дебилов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "дебилу",
-              "дебилам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "дебил",
-              "дебилы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "дебилом",
-              "дебилами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "дебиле",
-              "дебилах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "без деби",
-          "gloss": "without moron"
-        },
-        {
-          "word": "наш дебил",
-          "gloss": "our moron"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Дебил что ли совсем?",
-          "trans": "Are you a complete idiot or what?"
-        },
-        {
-          "text": "Это этот дебил Сеня.",
-          "trans": "It was this moron Senya."
-        }
-      ],
-      "gender": "m"
-    },
-    "что": {
-      "lemma": "что",
-      "stress": "что",
-      "pos": "pron",
-      "gloss": "what",
-      "meanings": [
-        {
-          "en": "what",
-          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'what', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "что"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "чего"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "чему"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "что"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "чем"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "чём"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "что-то",
-          "gloss": "something"
-        },
-        {
-          "word": "ничто",
-          "gloss": "nothing"
-        },
-        {
-          "word": "потому что",
-          "gloss": "because"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Что это?",
-          "trans": "What's this?"
-        },
-        {
-          "text": "Смотри, что у меня есть.",
-          "trans": "Look what I've got."
-        },
-        {
-          "text": "Привет! Смотри, что у меня есть.",
-          "trans": "Hi! Look what I've got."
-        }
-      ]
-    },
-    "ли": {
-      "lemma": "ли",
-      "stress": "ли",
-      "pos": "part",
-      "gloss": "whether, if; (что ли) or what",
-      "meanings": [
-        {
-          "en": "whether, if; (что ли) or what",
-          "note": "High-frequency Russian discourse particle adding conversational nuance meaning 'whether, if; (что ли) or what', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "или",
-          "gloss": "or"
-        },
-        {
-          "word": "вряд ли",
-          "gloss": "hardly"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Забыл, что ли?",
-          "trans": "Did you forget, or what?"
-        },
-        {
-          "text": "Не знаю, дома ли он.",
-          "trans": "I don't know whether he is at home."
-        },
-        {
-          "text": "Осипенко, что ли, тебя нанял?",
-          "trans": "Was it Osipenko who hired you?"
-        }
-      ]
-    },
-    "совсем": {
-      "lemma": "совсем",
-      "stress": "совсе́м",
-      "pos": "adv",
-      "gloss": "quite, completely; (not) at all",
-      "meanings": [
-        {
-          "en": "quite, completely; (not) at all",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'овсем')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "очень совсем",
-          "gloss": "very at all"
-        },
-        {
-          "word": "так совсем",
-          "gloss": "so at all"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я совсем не это хочу сказать.",
-          "trans": "That's not what I mean at all."
-        },
-        {
-          "text": "Он совсем один.",
-          "trans": "He's completely alone."
-        },
-        {
-          "text": "Нет, Вика, я совсем не это хочу сказать.",
-          "trans": "No, Vika, that's not what I mean at all."
-        }
-      ]
-    },
-    "вообще-то": {
-      "lemma": "вообще-то",
-      "stress": "вообще́-то",
-      "pos": "adv",
-      "gloss": "actually, as a matter of fact",
-      "meanings": [
-        {
-          "en": "actually, as a matter of fact",
-          "note": "Prefix 'во-' ('into, up') marks inward or upward movement (stem 'обще-то'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "вообще",
-          "gloss": "at all"
-        },
-        {
-          "word": "очень вообще-то",
-          "gloss": "very actually"
-        },
-        {
-          "word": "так вообще-то",
-          "gloss": "so actually"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Меня вообще-то Юля зовут.",
-          "trans": "My name is actually Yulia."
-        },
-        {
-          "text": "Вообще-то я занят.",
-          "trans": "Actually, I'm busy."
-        },
-        {
-          "text": "Меня вообще-то Юля зовут. Вот сахар.",
-          "trans": "My name is actually Yulia. Here's the sugar."
-        }
-      ]
-    },
-    "только": {
-      "lemma": "только",
-      "stress": "то́лько",
-      "pos": "adv",
-      "gloss": "only, just",
-      "meanings": [
-        {
-          "en": "only, just",
-          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "столько",
-          "gloss": "so much"
-        },
-        {
-          "word": "вот только",
-          "gloss": "right here (only)"
-        },
-        {
-          "word": "именно только",
-          "gloss": "precisely only"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я только посмотрел.",
-          "trans": "I was only looking."
-        },
-        {
-          "text": "Только одну.",
-          "trans": "Just one."
-        },
-        {
-          "text": "Я только посмотрел!",
-          "trans": "I was only looking!"
-        }
-      ]
-    },
-    "один": {
-      "lemma": "один",
-      "stress": "оди́н",
-      "pos": "num",
-      "gloss": "one",
-      "meanings": [
-        {
-          "en": "one",
-          "note": "High-frequency Russian cardinal or ordinal numeral meaning 'one', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "один-один",
-          "gloss": "one-all"
-        },
-        {
-          "word": "одинокий",
-          "gloss": "lonely"
-        },
-        {
-          "word": "одинаковый",
-          "gloss": "the same"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Дай хоть одну.",
-          "trans": "Give me just one."
-        },
-        {
-          "text": "У меня один брат.",
-          "trans": "I have one brother."
-        },
-        {
-          "text": "У тебя же есть ещё. Дай хоть одну.",
-          "trans": "But you've still got some. Give me just one."
-        }
-      ]
-    },
-    "способ": {
-      "lemma": "способ",
-      "stress": "спо́соб",
-      "pos": "noun",
-      "gloss": "way, method, means",
-      "meanings": [
-        {
-          "en": "way, method, means",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'пособ'). Common masculine noun meaning 'way, method, means' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "способ",
-              "способы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "способа",
-              "способов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "способу",
-              "способам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "способ",
-              "способы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "способом",
-              "способами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "способе",
-              "способах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "способность",
-          "gloss": "ability"
-        },
-        {
-          "word": "способный",
-          "gloss": "capable"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Сильный ищет способ, а слабый ищет причину.",
-          "trans": "The strong man looks for a way, and the weak man looks for an excuse."
-        },
-        {
-          "text": "Мы нашли простой способ решить задачу.",
-          "trans": "We found a simple way to solve the problem."
-        },
-        {
-          "text": "Тогда слушай, есть хитрый способ.",
-          "trans": "Then listen, there is a clever way."
-        }
-      ],
-      "gender": "m"
-    },
-    "действовать": {
-      "lemma": "действовать",
-      "stress": "де́йствовать",
-      "pos": "verb",
-      "gloss": "to act, to take action",
-      "meanings": [
-        {
-          "en": "to act, to take action",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to act, to take action', paired with 'подействовать'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "действую",
-              "действуем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "действуешь",
-              "действуете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "действует",
-              "действуют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "действовал",
-                "действовала",
-                "действовало",
-                "действовали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "действуй",
-                "действуйте"
-              ]
-            }
-          ]
-        }
       ],
       "related": [
         {
-          "word": "подействовать",
-          "gloss": "to act"
+          "word": "но",
+          "gloss": "but (stronger contrast)"
         },
         {
-          "word": "действительно",
-          "gloss": "really"
-        },
-        {
-          "word": "действующий",
-          "gloss": "acting"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Ты не обсуждай, ты действуй!",
-          "trans": "Don't discuss, act!"
-        },
-        {
-          "text": "Нам нужно действовать быстро.",
-          "trans": "We need to act quickly."
-        },
-        {
-          "text": "Ты не обсуждай, ты действуй! Самсонова надо ликвидировать!",
-          "trans": "Don't discuss, act! Samsonov must be eliminated!"
-        }
-      ],
-      "aspect": "impf",
-      "pair": "подействовать"
-    },
-    "понимать": {
-      "lemma": "понимать",
-      "stress": "понима́ть",
-      "pos": "verb",
-      "gloss": "to understand",
-      "meanings": [
-        {
-          "en": "to understand",
-          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'нимать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to understand', paired with 'понять'."
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "понимаю",
-              "понимаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "понимаешь",
-              "понимаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "понимает",
-              "понимают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "понимал",
-                "понимала",
-                "понимало",
-                "понимали"
-              ]
-            }
-          ]
-        }
-      ],
-      "related": [
-        {
-          "word": "понять",
-          "gloss": "to understand"
-        },
-        {
-          "word": "принимать",
-          "gloss": "to receive"
-        },
-        {
-          "word": "заниматься",
-          "gloss": "to be busy with"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Я понимаю.",
-          "trans": "I understand."
-        },
-        {
-          "text": "Я хочу на море, понимаешь?",
-          "trans": "I want to go to the sea, you know?"
-        },
-        {
-          "text": "Я хочу нормально жить! Я хочу биде, понимаешь?",
-          "trans": "I want to live like a normal person! I want a bidet, do you understand?"
-        }
-      ],
-      "aspect": "impf",
-      "pair": "понять"
-    },
-    "чтобы": {
-      "lemma": "чтобы",
-      "stress": "что́бы",
-      "pos": "conj",
-      "gloss": "so that, in order to",
-      "meanings": [
-        {
-          "en": "so that, in order to",
-          "note": "High-frequency Russian clause-linking conjunction meaning 'so that, in order to', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "related": [
-        {
-          "word": "что",
-          "gloss": "what, that"
-        },
-        {
-          "word": "бы",
-          "gloss": "conditional particle"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Чтобы свидетели были.",
-          "trans": "So that there are witnesses."
-        },
-        {
-          "text": "Я звоню, чтобы сказать спасибо.",
-          "trans": "I'm calling to say thank you."
-        },
-        {
-          "text": "Чтобы свидетели были, Самсон.",
-          "trans": "So that there are witnesses, Samson."
+          "word": "и",
+          "gloss": "and"
         }
       ]
     },
@@ -3340,10 +1555,20 @@
       "stress": "быть",
       "pos": "verb",
       "gloss": "to be; there is",
+      "aspect": "impf",
+      "pair": null,
       "meanings": [
         {
-          "en": "to be; there is",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to be; there is'."
+          "en": "to be",
+          "note": "the present tense is normally left out: я мэр = I am the mayor"
+        },
+        {
+          "en": "there is, there are",
+          "note": "Present есть; у меня есть = I have. Used as an imperfective (ongoing/repeated action) verb meaning 'to be; there is'."
+        },
+        {
+          "en": "will (with an imperfective infinitive)",
+          "note": "future: буду / будешь ... + infinitive"
         }
       ],
       "forms": {
@@ -3448,20 +1673,6 @@
           ]
         }
       ],
-      "related": [
-        {
-          "word": "забыть",
-          "gloss": "to forget"
-        },
-        {
-          "word": "добыть",
-          "gloss": "to get"
-        },
-        {
-          "word": "побыть",
-          "gloss": "to stay for a while"
-        }
-      ],
       "examples": [
         {
           "text": "У меня есть машинка.",
@@ -3476,343 +1687,251 @@
           "trans": "You will be asking for forgiveness."
         }
       ],
-      "aspect": "impf"
-    },
-    "настоящий": {
-      "lemma": "настоящий",
-      "stress": "настоя́щий",
-      "pos": "adj",
-      "gloss": "real, genuine",
-      "meanings": [
-        {
-          "en": "real, genuine",
-          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'стоящий'). Agrees in gender, number, and case with the noun it modifies ('real, genuine')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "настоящий",
-              "настоящая",
-              "настоящее",
-              "настоящие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "настоящего",
-              "настоящей",
-              "настоящего",
-              "настоящих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "настоящему",
-              "настоящей",
-              "настоящему",
-              "настоящим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "настоящий",
-              "настоящую",
-              "настоящее",
-              "настоящие"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "настоящим",
-              "настоящей",
-              "настоящим",
-              "настоящими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "настоящем",
-              "настоящей",
-              "настоящем",
-              "настоящих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
       "related": [
         {
-          "word": "постоять",
-          "gloss": "to stand for a while"
+          "word": "забыть",
+          "gloss": "to forget"
         },
         {
-          "word": "обстоятельство",
-          "gloss": "circumstance"
+          "word": "добыть",
+          "gloss": "to get"
         },
         {
-          "word": "постоянный",
-          "gloss": "regular"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Это настоящий успех!",
-          "trans": "This is real success!"
-        },
-        {
-          "text": "Он настоящий друг.",
-          "trans": "He is a true friend."
-        },
-        {
-          "text": "Ваня, да пойми ты наконец! Это настоящий успех.",
-          "trans": "Vanya, understand at last! This is real success."
+          "word": "побыть",
+          "gloss": "to stay for a while"
         }
       ]
     },
-    "шеф": {
-      "lemma": "шеф",
-      "stress": "шеф",
-      "pos": "noun",
-      "gloss": "chef; boss",
-      "meanings": [
-        {
-          "en": "chef; boss",
-          "note": "Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "шеф",
-              "шефы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "шефа",
-              "шефов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "шефу",
-              "шефам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "шефа",
-              "шефов"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "шефом",
-              "шефами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "шефе",
-              "шефах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "без шеф",
-          "gloss": "without chef"
-        },
-        {
-          "word": "наш шеф",
-          "gloss": "our chef"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Шеф на кухне.",
-          "trans": "The chef is in the kitchen."
-        },
-        {
-          "text": "Шеф, я не брала.",
-          "trans": "Chef, I didn't take it."
-        },
-        {
-          "text": "Хитро придумано, шеф!",
-          "trans": "Cleverly thought out, boss!"
-        }
-      ],
-      "gender": "m"
-    },
-    "какой": {
-      "lemma": "какой",
-      "stress": "како́й",
-      "pos": "det",
-      "gloss": "what; what a",
-      "meanings": [
-        {
-          "en": "what; what a",
-          "note": "High-frequency Russian pronominal determiner meaning 'what; what a', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "какой",
-              "какая",
-              "какое",
-              "какие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "какого",
-              "какой",
-              "какого",
-              "каких"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "какому",
-              "какой",
-              "какому",
-              "каким"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "какой / какого",
-              "какую",
-              "какое",
-              "какие / каких"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "каким",
-              "какой",
-              "каким",
-              "какими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "каком",
-              "какой",
-              "каком",
-              "каких"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "related": [
-        {
-          "word": "какой-то",
-          "gloss": "some"
-        },
-        {
-          "word": "какой-нибудь",
-          "gloss": "some"
-        }
-      ],
-      "examples": [
-        {
-          "text": "Какой у вас город?",
-          "trans": "What is your town like?"
-        },
-        {
-          "text": "Какой красивый дом!",
-          "trans": "What a beautiful house!"
-        },
-        {
-          "text": "Смотрите, какой у нас грязный унитаз!",
-          "trans": "Look, how dirty our toilet is!"
-        }
-      ]
-    },
-    "над": {
-      "lemma": "над",
-      "stress": "над",
+    "в": {
+      "lemma": "в",
+      "stress": "в",
       "pos": "prep",
-      "gloss": "over, above; at",
+      "gloss": "in, into",
       "meanings": [
         {
-          "en": "over, above; at",
-          "note": "High-frequency Russian spatial or relational preposition meaning 'over, above; at', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "en": "in",
+          "note": "+ prepositional (where). Core Russian prep meaning 'in, into' in everyday speech."
+        },
+        {
+          "en": "into, to",
+          "note": "+ accusative (where to). Core Russian prep meaning 'in, into' in everyday speech."
         }
       ],
       "forms": null,
       "moreForms": [],
-      "related": [
-        {
-          "word": "под",
-          "gloss": "under"
-        },
-        {
-          "word": "на",
-          "gloss": "on"
-        }
-      ],
       "examples": [
         {
-          "text": "Лампа над столом.",
-          "trans": "The lamp is above the table."
+          "text": "Как там в Венгрии?",
+          "trans": "How is it in Hungary?"
         },
         {
-          "text": "Не смейся надо мной.",
-          "trans": "Don't laugh at me."
+          "text": "Я вырос в коммуналке.",
+          "trans": "I grew up in a communal flat."
         },
         {
-          "text": "За поведение? Вы смеётесь надо мной?",
-          "trans": "For my conduct? Are you laughing at me?"
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
+        }
+      ],
+      "related": [
+        {
+          "word": "во",
+          "gloss": "in, into (before consonant clusters)"
+        },
+        {
+          "word": "внутри",
+          "gloss": "inside"
+        }
+      ]
+    },
+    "весь": {
+      "lemma": "весь",
+      "stress": "весь",
+      "pos": "det",
+      "gloss": "all, whole; everyone, everything",
+      "meanings": [
+        {
+          "en": "all, the whole",
+          "note": "The neuter form 'всё' used alone. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+        },
+        {
+          "en": "everything",
+          "note": "Neuter всё. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+        },
+        {
+          "en": "everyone",
+          "note": "Plural все. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "весь",
+              "вся",
+              "всё",
+              "все"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "всего",
+              "всей",
+              "всего",
+              "всех"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "всему",
+              "всей",
+              "всему",
+              "всем"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "весь / всего",
+              "всю",
+              "всё",
+              "все / всех"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "всем",
+              "всей",
+              "всем",
+              "всеми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "всём",
+              "всей",
+              "всём",
+              "всех"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Всё нормально.",
+          "trans": "Everything's fine."
+        },
+        {
+          "text": "Как вы все знаете...",
+          "trans": "As you all know..."
+        },
+        {
+          "text": "Поделись со всеми.",
+          "trans": "Share with everyone."
+        }
+      ],
+      "related": [
+        {
+          "word": "всё",
+          "gloss": "everything"
+        },
+        {
+          "word": "все",
+          "gloss": "everyone"
+        },
+        {
+          "word": "всегда",
+          "gloss": "always"
+        }
+      ]
+    },
+    "вообще-то": {
+      "lemma": "вообще-то",
+      "stress": "вообще́-то",
+      "pos": "adv",
+      "gloss": "actually, as a matter of fact",
+      "meanings": [
+        {
+          "en": "actually, as a matter of fact, for the record",
+          "note": "Polite or pointed correction. Prefix 'во-' ('into, up') marks inward or upward movement (stem 'обще-то'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Меня вообще-то Юля зовут.",
+          "trans": "My name is actually Yulia."
+        },
+        {
+          "text": "Вообще-то я занят.",
+          "trans": "Actually, I'm busy."
+        },
+        {
+          "text": "Меня вообще-то Юля зовут. Вот сахар.",
+          "trans": "My name is actually Yulia. Here's the sugar."
+        }
+      ],
+      "related": [
+        {
+          "word": "вообще",
+          "gloss": "at all"
+        }
+      ]
+    },
+    "вот": {
+      "lemma": "вот",
+      "stress": "вот",
+      "pos": "part",
+      "gloss": "here, there (pointing)",
+      "meanings": [
+        {
+          "en": "here is, there is",
+          "note": "Pointing at something. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+        },
+        {
+          "en": "вот увидишь! = you'll see!",
+          "note": "Emphasis. Core Russian part meaning 'here, there (pointing)' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Вот, смотри.",
+          "trans": "There, look."
+        },
+        {
+          "text": "Вот моя машинка.",
+          "trans": "Here's my toy car."
+        },
+        {
+          "text": "Ладно, держи. Вот, смотри.",
+          "trans": "All right, here you go. There, look."
+        }
+      ],
+      "related": [
+        {
+          "word": "вон",
+          "gloss": "over there"
+        },
+        {
+          "word": "вот-вот",
+          "gloss": "any moment now"
         }
       ]
     },
@@ -3821,6 +1940,7 @@
       "stress": "гни́да",
       "pos": "noun",
       "gloss": "creep, louse (colloq.)",
+      "gender": "f",
       "meanings": [
         {
           "en": "creep, louse (colloq.)",
@@ -3880,16 +2000,6 @@
         ]
       },
       "moreForms": [],
-      "related": [
-        {
-          "word": "без гнид",
-          "gloss": "without creep"
-        },
-        {
-          "word": "наш гнида",
-          "gloss": "our creep"
-        }
-      ],
       "examples": [
         {
           "text": "Надо быть настоящей гнидой.",
@@ -3900,81 +2010,621 @@
           "trans": "And being a bastard, Lyova, is not easy."
         }
       ],
-      "gender": "f"
-    },
-    "нелегко": {
-      "lemma": "нелегко",
-      "stress": "нелегко́",
-      "pos": "adv",
-      "gloss": "not easy, hard",
-      "meanings": [
-        {
-          "en": "not easy, hard",
-          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'легко'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
       "related": [
         {
-          "word": "очень нелегко",
-          "gloss": "very not easy"
+          "word": "без гнид",
+          "gloss": "without creep"
         },
         {
-          "word": "так нелегко",
-          "gloss": "so not easy"
-        }
-      ],
-      "examples": [
-        {
-          "text": "А гнидой Лёва быть нелегко.",
-          "trans": "And being a bastard, Lyova, is not easy."
-        },
-        {
-          "text": "На кухне все стараются работать нелегко.",
-          "trans": "In the kitchen everyone tries to work not easy."
+          "word": "наш гнида",
+          "gloss": "our creep"
         }
       ]
     },
-    "ладно": {
-      "lemma": "ладно",
-      "stress": "ла́дно",
+    "да": {
+      "lemma": "да",
+      "stress": "да",
       "pos": "part",
-      "gloss": "all right, OK",
+      "gloss": "yes",
       "meanings": [
         {
-          "en": "all right, OK",
-          "note": "High-frequency Russian discourse particle adding conversational nuance meaning 'all right, OK', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+          "en": "yes",
+          "note": "emphatic at the start of a sentence"
+        },
+        {
+          "en": "да ну? = really?, oh yeah?",
+          "note": "Disbelief. Core Russian part meaning 'yes' in everyday speech."
         }
       ],
       "forms": null,
       "moreForms": [],
+      "examples": [
+        {
+          "text": "Да ну?",
+          "trans": "Oh yeah?"
+        },
+        {
+          "text": "Да, это я.",
+          "trans": "Yes, it's me."
+        },
+        {
+          "text": "Да ну? Когда?",
+          "trans": "Oh yeah? When?"
+        }
+      ],
       "related": [
         {
-          "word": "ладный",
-          "gloss": "all right (adjective)"
+          "word": "нет",
+          "gloss": "no"
         },
         {
-          "word": "очень ладно",
-          "gloss": "very all right"
+          "word": "давай",
+          "gloss": "let's, come on"
+        }
+      ]
+    },
+    "дебил": {
+      "lemma": "дебил",
+      "stress": "деби́л",
+      "pos": "noun",
+      "gloss": "moron, idiot (colloq.)",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "moron, idiot (colloq.)",
+          "note": "Common masculine noun meaning 'moron, idiot (colloq.)' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "дебил",
+              "дебилы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "дебила",
+              "дебилов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "дебилу",
+              "дебилам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "дебил",
+              "дебилы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "дебилом",
+              "дебилами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "дебиле",
+              "дебилах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Этот дебил его сожрал.",
+          "trans": "This moron devoured it."
         },
         {
-          "word": "так ладно",
-          "gloss": "so all right"
+          "text": "На нашей кухне уже есть новый дебил.",
+          "trans": "In our kitchen there is already a new moron."
+        }
+      ],
+      "related": [
+        {
+          "word": "без деби",
+          "gloss": "without moron"
+        },
+        {
+          "word": "наш дебил",
+          "gloss": "our moron"
+        }
+      ]
+    },
+    "действовать": {
+      "lemma": "действовать",
+      "stress": "де́йствовать",
+      "pos": "verb",
+      "gloss": "to act, to take action",
+      "aspect": "impf",
+      "pair": "подействовать",
+      "meanings": [
+        {
+          "en": "to act, to take action",
+          "note": "правило действует = the rule is in force"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "действую",
+              "действуем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "действуешь",
+              "действуете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "действует",
+              "действуют"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "действовал",
+                "действовала",
+                "действовало",
+                "действовали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "действуй",
+                "действуйте"
+              ]
+            }
+          ]
         }
       ],
       "examples": [
         {
-          "text": "Ладно, держи.",
-          "trans": "All right, here you go."
+          "text": "Ты не обсуждай, ты действуй!",
+          "trans": "Don't discuss, act!"
         },
         {
-          "text": "Ладно, я иду.",
-          "trans": "OK, I'm coming."
+          "text": "Нам нужно действовать быстро.",
+          "trans": "We need to act quickly."
         },
         {
-          "text": "Ладно, держи. Вот, смотри.",
-          "trans": "All right, here you go. There, look."
+          "text": "Ты не обсуждай, ты действуй! Самсонова надо ликвидировать!",
+          "trans": "Don't discuss, act! Samsonov must be eliminated!"
+        }
+      ],
+      "related": [
+        {
+          "word": "подействовать",
+          "gloss": "to act"
+        },
+        {
+          "word": "действительно",
+          "gloss": "really"
+        },
+        {
+          "word": "действующий",
+          "gloss": "acting"
+        }
+      ]
+    },
+    "дело": {
+      "lemma": "дело",
+      "stress": "де́ло",
+      "pos": "noun",
+      "gloss": "matter; thing to do",
+      "gender": "n",
+      "meanings": [
+        {
+          "en": "thing to do, task",
+          "note": "Много дел = a lot to do. Common neuter noun meaning 'matter; thing to do' in everyday Russian."
+        },
+        {
+          "en": "matter, business",
+          "note": "Common neuter noun meaning 'matter; thing to do' in everyday Russian."
+        },
+        {
+          "en": "case (in court)",
+          "note": "Common neuter noun meaning 'matter; thing to do' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "дело",
+              "дела"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "дела",
+              "дел"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "делу",
+              "делам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "дело",
+              "дела"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "делом",
+              "делами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "деле",
+              "делах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "У меня много дел.",
+          "trans": "I have a lot to do."
+        },
+        {
+          "text": "Как дела?",
+          "trans": "How are things?"
+        },
+        {
+          "text": "Мне некогда об этом думать. Слишком много дел.",
+          "trans": "I have no time to think about that. There's too much to do."
+        }
+      ],
+      "related": [
+        {
+          "word": "деловой",
+          "gloss": "business"
+        }
+      ]
+    },
+    "день": {
+      "lemma": "день",
+      "stress": "день",
+      "pos": "noun",
+      "gloss": "day",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "day",
+          "note": "на днях = in the next few days, or the other day"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "день",
+              "дни"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "дня",
+              "дней"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "дню",
+              "дням"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "день",
+              "дни"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "днём",
+              "днями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "дне",
+              "днях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Добрый день!",
+          "trans": "Good afternoon!"
+        },
+        {
+          "text": "Я позвоню на днях.",
+          "trans": "I'll call in the next few days."
+        },
+        {
+          "text": "На днях, на сайте.",
+          "trans": "Any day now, on the website."
+        }
+      ],
+      "related": [
+        {
+          "word": "деньги",
+          "gloss": "money"
+        }
+      ]
+    },
+    "здоровье": {
+      "lemma": "здоровье",
+      "stress": "здоро́вье",
+      "pos": "noun",
+      "gloss": "health",
+      "gender": "n",
+      "meanings": [
+        {
+          "en": "health",
+          "note": "Singular only. Common neuter noun meaning 'health' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "здоровье",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "здоровья",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "здоровью",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "здоровье",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "здоровьем",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "здоровье",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Как ваше здоровье?",
+          "trans": "How is your health?"
+        },
+        {
+          "text": "Это угрожает здоровью.",
+          "trans": "This threatens health."
+        },
+        {
+          "text": "Конфликты с соседями угрожают здоровью подсудимого.",
+          "trans": "Conflicts with the neighbours threaten the defendant's health."
+        }
+      ],
+      "related": [
+        {
+          "word": "здорово",
+          "gloss": "great"
+        },
+        {
+          "word": "здоровый",
+          "gloss": "healthy"
+        }
+      ]
+    },
+    "здравствуйте": {
+      "lemma": "здравствуйте",
+      "stress": "здра́вствуйте",
+      "pos": "verb",
+      "gloss": "hello",
+      "aspect": "impf",
+      "pair": null,
+      "meanings": [
+        {
+          "en": "hello",
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'hello'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "здравствуйю",
+              "здравствуйем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "здравствуйешь",
+              "здравствуйете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "здравствуйет",
+              "здравствуйют"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "здравствуйл",
+                "здравствуйла",
+                "здравствуйло",
+                "здравствуйли"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
+        },
+        {
+          "text": "Аркадий Борисович, здравствуйте.",
+          "trans": "Arkady Borisovich, hello."
+        },
+        {
+          "text": "Здравствуйте, Аркадий Борисович.",
+          "trans": "Hello, Arkady Borisovich."
+        }
+      ],
+      "related": [
+        {
+          "word": "здравствуй",
+          "gloss": "hello"
+        },
+        {
+          "word": "здравие",
+          "gloss": "health"
+        },
+        {
+          "word": "поздравлять",
+          "gloss": "to congratulate"
         }
       ]
     },
@@ -3982,11 +2632,17 @@
       "lemma": "идти",
       "stress": "идти́",
       "pos": "verb",
-      "gloss": "go, walk",
+      "gloss": "to go (on foot)",
+      "aspect": "impf",
+      "pair": "пойти",
       "meanings": [
         {
-          "en": "go, walk",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'go, walk', paired with 'пойти'."
+          "en": "to go, to walk",
+          "note": "In one direction, now. Used as an imperfective (ongoing/repeated action) verb meaning 'to go (on foot)', paired with 'пойти'."
+        },
+        {
+          "en": "идти на второй срок",
+          "note": "To run for a second term. Used as an imperfective (ongoing/repeated action) verb meaning 'to go (on foot)', paired with 'пойти'."
         }
       ],
       "forms": {
@@ -4060,42 +2716,968 @@
           ]
         }
       ],
-      "related": [
+      "examples": [
         {
-          "word": "пойти",
-          "gloss": "go (aspectual partner)"
+          "text": "Я иду домой.",
+          "trans": "I'm going home."
         },
+        {
+          "text": "Он идёт на второй срок.",
+          "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
         {
           "word": "ехать",
           "gloss": "to go (by vehicle)"
         }
+      ]
+    },
+    "как": {
+      "lemma": "как",
+      "stress": "как",
+      "pos": "adv",
+      "gloss": "how; as",
+      "meanings": [
+        {
+          "en": "how",
+          "note": "Question word. Core Russian adv meaning 'how; as' in everyday speech."
+        },
+        {
+          "en": "as",
+          "note": "Как вы знаете = as you know. Core Russian adv meaning 'how; as' in everyday speech."
+        }
       ],
+      "forms": null,
+      "moreForms": [],
       "examples": [
+        {
+          "text": "Как там в Венгрии?",
+          "trans": "How was it in Hungary?"
+        },
+        {
+          "text": "Как вы все знаете...",
+          "trans": "As you all know..."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень как",
+          "gloss": "intensified / related adverb (how)"
+        }
+      ]
+    },
+    "какой": {
+      "lemma": "какой",
+      "stress": "како́й",
+      "pos": "det",
+      "gloss": "what; what a",
+      "meanings": [
+        {
+          "en": "what, which",
+          "note": "In questions. Core Russian det meaning 'what; what a' in everyday speech."
+        },
+        {
+          "en": "what a, how",
+          "note": "in exclamations: какой грязный! = how dirty!"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "какой",
+              "какая",
+              "какое",
+              "какие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "какого",
+              "какой",
+              "какого",
+              "каких"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "какому",
+              "какой",
+              "какому",
+              "каким"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "какой / какого",
+              "какую",
+              "какое",
+              "какие / каких"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "каким",
+              "какой",
+              "каким",
+              "какими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "каком",
+              "какой",
+              "каком",
+              "каких"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Какой у вас город?",
+          "trans": "What is your town like?"
+        },
+        {
+          "text": "Какой красивый дом!",
+          "trans": "What a beautiful house!"
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "какой-то",
+          "gloss": "some"
+        },
+        {
+          "word": "какой-нибудь",
+          "gloss": "some"
+        }
+      ]
+    },
+    "крошка": {
+      "lemma": "крошка",
+      "stress": "кро́шка",
+      "pos": "noun",
+      "gloss": "crumb; little one",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "crumb; little one",
+          "note": "Common feminine noun meaning 'crumb; little one' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "крошка",
+              "крошки"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "крошки",
+              "крошк"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "крошке",
+              "крошкам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "крошку",
+              "крошки"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "крошкой",
+              "крошками"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "крошке",
+              "крошках"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "А то у меня вся постель в крошках.",
+          "trans": "Otherwise my whole bed is full of crumbs."
+        },
+        {
+          "text": "На нашей кухне уже есть новая крошка.",
+          "trans": "In our kitchen there is already a new crumb."
+        }
+      ],
+      "related": [
+        {
+          "word": "без крошк",
+          "gloss": "without crumb"
+        },
+        {
+          "word": "наш крошка",
+          "gloss": "our crumb"
+        }
+      ]
+    },
+    "кухня": {
+      "lemma": "кухня",
+      "stress": "ку́хня",
+      "pos": "noun",
+      "gloss": "kitchen",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "kitchen",
+          "note": "в кухне / на кухне = in the kitchen, на кухню = to the kitchen"
+        },
+        {
+          "en": "cuisine",
+          "note": "E.g. русская кухня. Entered Russian via Polish 'kuchnia' and Middle High German 'küchen', ultimately from Late Latin 'coquina' (from 'coquere', to cook)."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "кухня",
+              "кухни"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "кухни",
+              "кухонь"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "кухне",
+              "кухням"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "кухню",
+              "кухни"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "кухней",
+              "кухнями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "кухне",
+              "кухнях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "А там кухня.",
+          "trans": "And the kitchen is over there."
+        },
+        {
+          "text": "Мы сидим на кухне.",
+          "trans": "We are sitting in the kitchen."
+        },
+        {
+          "text": "Проходите, пожалуйста! Как видите, большой коридор, а там кухня.",
+          "trans": "Come on in, please! As you can see, a big hall, and the kitchen is over there."
+        }
+      ],
+      "related": [
+        {
+          "word": "кухнный",
+          "gloss": "related to kitchen (adj.)"
+        }
+      ]
+    },
+    "ладно": {
+      "lemma": "ладно",
+      "stress": "ла́дно",
+      "pos": "part",
+      "gloss": "all right, OK",
+      "meanings": [
+        {
+          "en": "all right, OK",
+          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ладно, держи.",
+          "trans": "All right, here you go."
+        },
+        {
+          "text": "Ладно, я иду.",
+          "trans": "OK, I'm coming."
+        },
+        {
+          "text": "Ладно, держи. Вот, смотри.",
+          "trans": "All right, here you go. There, look."
+        }
+      ],
+      "related": [
+        {
+          "word": "ладный",
+          "gloss": "all right (adjective)"
+        }
+      ]
+    },
+    "ли": {
+      "lemma": "ли",
+      "stress": "ли",
+      "pos": "part",
+      "gloss": "whether, if; (что ли) or what",
+      "meanings": [
+        {
+          "en": "whether, if",
+          "note": "In indirect questions. Core Russian part meaning 'whether, if; (что ли) or what' in everyday speech."
+        },
+        {
+          "en": "что ли = or what, I suppose",
+          "note": "Colloquial tag. Core Russian part meaning 'whether, if; (что ли) or what' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Забыл, что ли?",
+          "trans": "Did you forget, or what?"
+        },
+        {
+          "text": "Не знаю, дома ли он.",
+          "trans": "I don't know whether he is at home."
+        },
+        {
+          "text": "Осипенко, что ли, тебя нанял?",
+          "trans": "Was it Osipenko who hired you?"
+        }
+      ],
+      "related": [
+        {
+          "word": "или",
+          "gloss": "or"
+        },
+        {
+          "word": "вряд ли",
+          "gloss": "hardly"
+        }
+      ]
+    },
+    "на": {
+      "lemma": "на",
+      "stress": "на",
+      "pos": "prep",
+      "gloss": "on, onto; for",
+      "meanings": [
+        {
+          "en": "on",
+          "note": "+ prepositional: на сайте. Core Russian prep meaning 'on, onto; for' in everyday speech."
+        },
+        {
+          "en": "onto, to; for",
+          "note": "+ accusative: на второй срок. Core Russian prep meaning 'on, onto; for' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Программа на сайте.",
+          "trans": "The programme is on the website."
+        },
+        {
+          "text": "Он идёт на второй срок.",
+          "trans": "He is running for a second term."
+        },
         {
           "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
           "trans": "I love our town very much. That's why I'm running for a second term."
-        },
-        {
-          "text": "Поэтому я иду на второй срок.",
-          "trans": "That's why I'm running for a second term."
-        },
-        {
-          "text": "А ты иди на биржу труда. Там есть работа.",
-          "trans": "You go to the job centre. There's work there."
         }
       ],
+      "related": [
+        {
+          "word": "над",
+          "gloss": "above, over"
+        },
+        {
+          "word": "в",
+          "gloss": "in, at"
+        }
+      ]
+    },
+    "над": {
+      "lemma": "над",
+      "stress": "над",
+      "pos": "prep",
+      "gloss": "over, above; at",
+      "governs": "+ instrumental",
+      "meanings": [
+        {
+          "en": "over, above",
+          "note": "+ instrumental. Core Russian prep meaning 'over, above; at' in everyday speech."
+        },
+        {
+          "en": "at (laugh at)",
+          "note": "смеяться над = to laugh at; form надо before мной"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Лампа над столом.",
+          "trans": "The lamp is above the table."
+        },
+        {
+          "text": "Не смейся надо мной.",
+          "trans": "Don't laugh at me."
+        },
+        {
+          "text": "За поведение? Вы смеётесь надо мной?",
+          "trans": "For my conduct? Are you laughing at me?"
+        }
+      ],
+      "related": [
+        {
+          "word": "под",
+          "gloss": "under"
+        },
+        {
+          "word": "на",
+          "gloss": "on"
+        }
+      ]
+    },
+    "надо": {
+      "lemma": "надо",
+      "stress": "на́до",
+      "pos": "adv",
+      "gloss": "it is necessary",
+      "meanings": [
+        {
+          "en": "must, need to, it is necessary",
+          "note": "Надо + infinitive. Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Надо его помыть.",
+          "trans": "It needs a wash."
+        },
+        {
+          "text": "Надо сделать ещё больше.",
+          "trans": "We need to do even more."
+        },
+        {
+          "text": "Надо его помыть!",
+          "trans": "It needs a wash!"
+        }
+      ],
+      "related": [
+        {
+          "word": "понадобиться",
+          "gloss": "to be needed"
+        },
+        {
+          "word": "ненадолго",
+          "gloss": "for a short time"
+        }
+      ]
+    },
+    "настоящий": {
+      "lemma": "настоящий",
+      "stress": "настоя́щий",
+      "pos": "adj",
+      "gloss": "real, genuine",
+      "meanings": [
+        {
+          "en": "real, genuine, true",
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'стоящий'). Agrees in gender, number, and case with the noun it modifies ('real, genuine')."
+        },
+        {
+          "en": "present, current",
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'стоящий'). Agrees in gender, number, and case with the noun it modifies ('real, genuine')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "настоящий",
+              "настоящая",
+              "настоящее",
+              "настоящие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "настоящего",
+              "настоящей",
+              "настоящего",
+              "настоящих"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "настоящему",
+              "настоящей",
+              "настоящему",
+              "настоящим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "настоящий",
+              "настоящую",
+              "настоящее",
+              "настоящие"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "настоящим",
+              "настоящей",
+              "настоящим",
+              "настоящими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "настоящем",
+              "настоящей",
+              "настоящем",
+              "настоящих"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это настоящий успех!",
+          "trans": "This is real success!"
+        },
+        {
+          "text": "Он настоящий друг.",
+          "trans": "He is a true friend."
+        },
+        {
+          "text": "Ваня, да пойми ты наконец! Это настоящий успех.",
+          "trans": "Vanya, understand at last! This is real success."
+        }
+      ],
+      "related": [
+        {
+          "word": "постоять",
+          "gloss": "to stand for a while"
+        },
+        {
+          "word": "обстоятельство",
+          "gloss": "circumstance"
+        },
+        {
+          "word": "постоянный",
+          "gloss": "regular"
+        }
+      ]
+    },
+    "нелегко": {
+      "lemma": "нелегко",
+      "stress": "нелегко́",
+      "pos": "adv",
+      "gloss": "not easy, hard",
+      "meanings": [
+        {
+          "en": "not easy, hard",
+          "note": "Negative prefix 'не-' ('un-, non-, not') (stem 'легко'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "А гнидой Лёва быть нелегко.",
+          "trans": "And being a bastard, Lyova, is not easy."
+        },
+        {
+          "text": "На кухне все стараются работать нелегко.",
+          "trans": "In the kitchen everyone tries to work not easy."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень нелегко",
+          "gloss": "very not easy"
+        },
+        {
+          "word": "так нелегко",
+          "gloss": "so not easy"
+        }
+      ]
+    },
+    "один": {
+      "lemma": "один",
+      "stress": "оди́н",
+      "pos": "num",
+      "gloss": "one",
+      "meanings": [
+        {
+          "en": "one",
+          "note": "High-frequency Russian pronominal determiner meaning 'one', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "Case",
+          "Form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "один"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "одинго"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "одинму"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "один"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "одинм"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "одинм"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Нам очень дорого обходится авторская кухня.",
+          "trans": "Auteur cuisine costs us very dearly."
+        },
+        {
+          "text": "Это все, кто выходил из отеля.",
+          "trans": "That is everyone who left the hotel."
+        },
+        {
+          "text": "Что здесь вообще сейчас происходит?",
+          "trans": "What is going on here right now?"
+        }
+      ],
+      "related": [
+        {
+          "word": "один-один",
+          "gloss": "one-all"
+        },
+        {
+          "word": "одинокий",
+          "gloss": "lonely"
+        },
+        {
+          "word": "одинаковый",
+          "gloss": "the same"
+        }
+      ]
+    },
+    "понимать": {
+      "lemma": "понимать",
+      "stress": "понима́ть",
+      "pos": "verb",
+      "gloss": "to understand",
       "aspect": "impf",
-      "pair": "пойти"
+      "pair": "понять",
+      "meanings": [
+        {
+          "en": "to understand",
+          "note": "понимаешь? = you know? do you understand?"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "понимаю",
+              "понимаем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "понимаешь",
+              "понимаете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "понимает",
+              "понимают"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "понимал",
+                "понимала",
+                "понимало",
+                "понимали"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я понимаю.",
+          "trans": "I understand."
+        },
+        {
+          "text": "Я хочу на море, понимаешь?",
+          "trans": "I want to go to the sea, you know?"
+        },
+        {
+          "text": "Я хочу нормально жить! Я хочу биде, понимаешь?",
+          "trans": "I want to live like a normal person! I want a bidet, do you understand?"
+        }
+      ],
+      "related": [
+        {
+          "word": "понять",
+          "gloss": "to understand"
+        },
+        {
+          "word": "принимать",
+          "gloss": "to receive"
+        },
+        {
+          "word": "заниматься",
+          "gloss": "to be busy with"
+        }
+      ]
+    },
+    "постель": {
+      "lemma": "постель",
+      "stress": "посте́ль",
+      "pos": "noun",
+      "gloss": "bed, bedding",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "bed, bedding",
+          "note": "furniture or place prepared for sleeping"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "постель",
+              "постели"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "постели",
+              "постелей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "постели",
+              "постелям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "постель",
+              "постели"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "постелью",
+              "постелями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "постели",
+              "постелях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Она легла в постель.",
+          "trans": "She lay down in bed."
+        },
+        {
+          "text": "Ты опять затащил меня в постель?",
+          "trans": "Did you drag me into bed again?"
+        }
+      ],
+      "related": [
+        {
+          "word": "постельный",
+          "gloss": "bed"
+        }
+      ]
     },
     "работать": {
       "lemma": "работать",
       "stress": "рабо́тать",
       "pos": "verb",
       "gloss": "to work",
+      "aspect": "impf",
+      "pair": "поработать",
+      "governs": "+ instrumental (as)",
       "meanings": [
         {
           "en": "to work",
-          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to work', paired with 'поработать'."
+          "note": "работать + instrumental = to work as: работать мэром"
         }
       ],
       "forms": {
@@ -4169,20 +3751,6 @@
           ]
         }
       ],
-      "related": [
-        {
-          "word": "поработать",
-          "gloss": "to work for a while"
-        },
-        {
-          "word": "работа",
-          "gloss": "work"
-        },
-        {
-          "word": "рабочий",
-          "gloss": "working"
-        }
-      ],
       "examples": [
         {
           "text": "Я работаю мэром.",
@@ -4197,8 +3765,995 @@
           "trans": "I've been working as mayor for four years now."
         }
       ],
+      "related": [
+        {
+          "word": "поработать",
+          "gloss": "to work for a while"
+        },
+        {
+          "word": "работа",
+          "gloss": "work"
+        },
+        {
+          "word": "рабочий",
+          "gloss": "working"
+        }
+      ]
+    },
+    "совсем": {
+      "lemma": "совсем",
+      "stress": "совсе́м",
+      "pos": "adv",
+      "gloss": "quite, completely; (not) at all",
+      "meanings": [
+        {
+          "en": "completely, quite",
+          "note": "Совсем не. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'овсем')."
+        },
+        {
+          "en": "not at all",
+          "note": "Совсем не. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'овсем')."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я совсем не это хочу сказать.",
+          "trans": "That's not what I mean at all."
+        },
+        {
+          "text": "Он совсем один.",
+          "trans": "He's completely alone."
+        },
+        {
+          "text": "Нет, Вика, я совсем не это хочу сказать.",
+          "trans": "No, Vika, that's not what I mean at all."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень совсем",
+          "gloss": "intensified / related adverb (quite)"
+        }
+      ]
+    },
+    "спасибо": {
+      "lemma": "спасибо",
+      "stress": "спаси́бо",
+      "pos": "noun",
+      "gloss": "thank you",
+      "gender": "n",
+      "meanings": [
+        {
+          "en": "thank you",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'пасибо'). Common neuter noun meaning 'thank you' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "спасибо",
+              "спасиба"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "спасиба",
+              "спасиб"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "спасибу",
+              "спасибам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "спасибо",
+              "спасиба"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "спасибом",
+              "спасибами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "спасибе",
+              "спасибах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Спасибо, папа!",
+          "trans": "Thanks, Dad!"
+        },
+        {
+          "text": "Спасибо за доверие!",
+          "trans": "Thank you for your trust!"
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "без спасиб",
+          "gloss": "without thank you"
+        },
+        {
+          "word": "наш спасибо",
+          "gloss": "our thank you"
+        }
+      ]
+    },
+    "способ": {
+      "lemma": "способ",
+      "stress": "спо́соб",
+      "pos": "noun",
+      "gloss": "way, method, means",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "way, method, means of doing something",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'пособ'). Common masculine noun meaning 'way, method, means' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "способ",
+              "способы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "способа",
+              "способов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "способу",
+              "способам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "способ",
+              "способы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "способом",
+              "способами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "способе",
+              "способах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Сильный ищет способ, а слабый ищет причину.",
+          "trans": "The strong man looks for a way, and the weak man looks for an excuse."
+        },
+        {
+          "text": "Мы нашли простой способ решить задачу.",
+          "trans": "We found a simple way to solve the problem."
+        },
+        {
+          "text": "Тогда слушай, есть хитрый способ.",
+          "trans": "Then listen, there is a clever way."
+        }
+      ],
+      "related": [
+        {
+          "word": "способность",
+          "gloss": "ability"
+        },
+        {
+          "word": "способный",
+          "gloss": "capable"
+        }
+      ]
+    },
+    "то": {
+      "lemma": "то",
+      "stress": "то",
+      "pos": "pron",
+      "gloss": "that",
+      "meanings": [
+        {
+          "en": "that",
+          "note": "High-frequency Russian personal or demonstrative pronoun meaning 'that', inherited from Common Slavic roots and used constantly in natural spoken dialogue."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "Case",
+          "Form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "то"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "того"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "то"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "том"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "том"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Здесь находится наш ресторан.",
+          "trans": "Our restaurant is located right here."
+        },
+        {
+          "text": "Мы теперь работаем в этом отеле.",
+          "trans": "We now work in this hotel."
+        },
+        {
+          "text": "Чем отличается ресторан при отеле?",
+          "trans": "How does a hotel restaurant differ?"
+        }
+      ],
+      "related": [
+        {
+          "word": "вот то",
+          "gloss": "right here (that)"
+        },
+        {
+          "word": "именно то",
+          "gloss": "precisely that"
+        }
+      ]
+    },
+    "только": {
+      "lemma": "только",
+      "stress": "то́лько",
+      "pos": "adv",
+      "gloss": "only, just",
+      "meanings": [
+        {
+          "en": "only, just",
+          "note": "softens a request: только не сердись = just don't be angry"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я только посмотрел.",
+          "trans": "I was only looking."
+        },
+        {
+          "text": "Только одну.",
+          "trans": "Just one."
+        },
+        {
+          "text": "Я только посмотрел!",
+          "trans": "I was only looking!"
+        }
+      ],
+      "related": [
+        {
+          "word": "столько",
+          "gloss": "so much"
+        }
+      ]
+    },
+    "ты": {
+      "lemma": "ты",
+      "stress": "ты",
+      "pos": "pron",
+      "gloss": "you (informal)",
+      "meanings": [
+        {
+          "en": "you",
+          "note": "One person, informal. Core Russian pron meaning 'you (informal)' in everyday speech."
+        },
+        {
+          "en": "other forms: тебя (gen/acc), тебе (dat), тобой (instr), тебе (prep)",
+          "note": "Case forms. Core Russian pron meaning 'you (informal)' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ты жадина!",
+          "trans": "You're greedy!"
+        },
+        {
+          "text": "У тебя есть ещё?",
+          "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
+        }
+      ]
+    },
+    "у": {
+      "lemma": "у",
+      "stress": "у",
+      "pos": "prep",
+      "gloss": "at, by; (у меня) I have",
+      "governs": "+ genitive",
+      "meanings": [
+        {
+          "en": "at, by, near",
+          "note": "+ genitive. Core Russian prep meaning 'at, by; (у меня) I have' in everyday speech."
+        },
+        {
+          "en": "у меня есть = I have",
+          "note": "Possession. Core Russian prep meaning 'at, by; (у меня) I have' in everyday speech."
+        },
+        {
+          "en": "from (ask from someone)",
+          "note": "Просить у кого. Core Russian prep meaning 'at, by; (у меня) I have' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "У меня есть машинка.",
+          "trans": "I have a toy car."
+        },
+        {
+          "text": "Он у нас.",
+          "trans": "He's at our place."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
+        }
+      ],
+      "related": [
+        {
+          "word": "около",
+          "gloss": "near"
+        },
+        {
+          "word": "к",
+          "gloss": "to, towards"
+        }
+      ]
+    },
+    "хороший": {
+      "lemma": "хороший",
+      "stress": "хоро́ший",
+      "pos": "adj",
+      "gloss": "good, nice",
+      "meanings": [
+        {
+          "en": "good, nice, lovely",
+          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "хороший",
+              "хорошая",
+              "хорошее",
+              "хорошие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "хорошего",
+              "хорошей",
+              "хорошего",
+              "хороших"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "хорошему",
+              "хорошей",
+              "хорошему",
+              "хорошим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "хороший / хорошего",
+              "хорошую",
+              "хорошее",
+              "хорошие / хороших"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "хорошим",
+              "хорошей",
+              "хорошим",
+              "хорошими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "хорошем",
+              "хорошей",
+              "хорошем",
+              "хороших"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хороший день.",
+          "trans": "A good day."
+        },
+        {
+          "text": "Какое хорошее утро!",
+          "trans": "What a lovely morning!"
+        },
+        {
+          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
+          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
+        }
+      ],
+      "related": [
+        {
+          "word": "хорошо",
+          "gloss": "well"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
+        }
+      ]
+    },
+    "что": {
+      "lemma": "что",
+      "stress": "что",
+      "pos": "pron",
+      "gloss": "what",
+      "meanings": [
+        {
+          "en": "what",
+          "note": "Question word. Core Russian pron meaning 'what' in everyday speech."
+        },
+        {
+          "en": "that",
+          "note": "Conjunction. Core Russian pron meaning 'what' in everyday speech."
+        },
+        {
+          "en": "ну что? = well?",
+          "note": "Core Russian pron meaning 'what' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "чего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "чему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "чем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "чём"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Что это?",
+          "trans": "What's this?"
+        },
+        {
+          "text": "Смотри, что у меня есть.",
+          "trans": "Look what I've got."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
+        }
+      ],
+      "related": [
+        {
+          "word": "что-то",
+          "gloss": "something"
+        },
+        {
+          "word": "ничто",
+          "gloss": "nothing"
+        },
+        {
+          "word": "потому что",
+          "gloss": "because"
+        }
+      ]
+    },
+    "чтобы": {
+      "lemma": "чтобы",
+      "stress": "что́бы",
+      "pos": "conj",
+      "gloss": "so that, in order to",
+      "meanings": [
+        {
+          "en": "so that",
+          "note": "+ past tense: 'чтобы свидетели были'"
+        },
+        {
+          "en": "in order to",
+          "note": "+ infinitive. Core Russian conj meaning 'so that, in order to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Чтобы свидетели были.",
+          "trans": "So that there are witnesses."
+        },
+        {
+          "text": "Я звоню, чтобы сказать спасибо.",
+          "trans": "I'm calling to say thank you."
+        },
+        {
+          "text": "Чтобы свидетели были, Самсон.",
+          "trans": "So that there are witnesses, Samson."
+        }
+      ],
+      "related": [
+        {
+          "word": "что",
+          "gloss": "what, that"
+        },
+        {
+          "word": "бы",
+          "gloss": "conditional particle"
+        }
+      ]
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gloss": "boss, chief",
+      "gender": "m",
+      "animacy": "anim",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "Informal. Borrowed from French 'chef' (head, leader, from Latin 'caput'); in Russian kitchen culture 'шеф' is the standard form of address for the executive head chef."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "related": [
+        {
+          "word": "шефный",
+          "gloss": "related to boss (adj.)"
+        }
+      ]
+    },
+    "шутить": {
+      "lemma": "шутить",
+      "stress": "шути́ть",
+      "pos": "verb",
+      "gloss": "to joke",
       "aspect": "impf",
-      "pair": "поработать"
+      "pair": "пошутить",
+      "meanings": [
+        {
+          "en": "to joke",
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to joke', paired with 'пошутить'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "шучу",
+              "шутим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "шутишь",
+              "шутите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "шутит",
+              "шутят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "шутил",
+                "шутила",
+                "шутило",
+                "шутили"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ты шутишь?",
+          "trans": "Are you joking?"
+        },
+        {
+          "text": "Я не шучу.",
+          "trans": "I'm not joking."
+        },
+        {
+          "text": "Шутишь? Правда, скажи, где деньги? Меня наняли.",
+          "trans": "Are you joking? Seriously, tell me, where's the money? They hired me."
+        }
+      ],
+      "related": [
+        {
+          "word": "пошутить",
+          "gloss": "to joke"
+        },
+        {
+          "word": "подшутить",
+          "gloss": "to play a prank"
+        }
+      ]
+    },
+    "я": {
+      "lemma": "я",
+      "stress": "я",
+      "pos": "pron",
+      "gloss": "I",
+      "meanings": [
+        {
+          "en": "I",
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
+        },
+        {
+          "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
+          "note": "Case forms. Core Russian pron meaning 'I' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я учу уроки.",
+          "trans": "I'm doing my homework."
+        },
+        {
+          "text": "Я вырос здесь.",
+          "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
+        }
+      ]
     }
   }
 }

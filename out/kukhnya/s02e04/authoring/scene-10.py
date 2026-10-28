@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e04-scene-10"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e04-scene-10'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 4
 SCENE = 10
-TITLE = 'Утро после примирения  (The Morning After the Reconciliation)'
+TITLE = "Утро после примирения  (The Morning After the Reconciliation)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.04"
-SOURCE_FILE = "sources/kukhnya/s02/e04.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.04'
+SOURCE_FILE = 'sources/kukhnya/s02/e04.ru.srt'
 
 INTRO = "Waking up in Vika's bed the next morning, Max happily assumes that their night together means she has forgiven him and even suggests they fly away together as a couple. However, Vika quickly cools his enthusiasm, calling herself a fool for giving in to her emotions and reminding him that he cheated on her."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 10 of Episode 4, listen out for the exchange around the morning after the reconciliation — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Я еще вернусь.')
+OUTRO = 'That wraps up this scene as max wakes up with Vika hoping she has forgiven him and suggests flying away together, but Vika insists that giving in to emotion does not erase his infidelity. See you next time!'
+CLOSING = ("anya", "До встречи!")

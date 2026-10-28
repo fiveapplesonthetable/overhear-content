@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 21
-TITLE = "Un moment de paix  (A Moment of Peace)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un moment de paix  (A Moment of Peace)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie", "colette": "emilie"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At Andrea's apartment, Hicham visits to hold baby Flora peacefully. When Colette walks in surprised, Hicham reassures her that he comes without conflict, and the three parents share a rare quiet moment of domestic peace. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "In a rare quiet evening, Andrea, Colette, and Hicham find unexpected harmony around baby Flora. When you watch the episode, listen out for the expressions meaning 'come' and 'to talk'. You'll catch them now. See you next time."
-CLOSING = ("colette", "Bonne journée!")
+OUTRO = "In a rare quiet evening, Andrea, Colette, and Hicham find unexpected harmony around baby Flora. When you watch the episode, listen out for the expressions meaning 'come' and 'to talk'. You'll catch them now. See you next time!"
+CLOSING = ('colette', 'Bonne journée!')
 STORY = [
     ('hicham', 'Je ne viens pas parler boulot.', 'I am not coming to talk business.', [], ''),
     ('lea', 'Alors, que veux-tu ce soir, Hicham?', 'So, what do you want tonight, Hicham?', [(829, 'que')], ''),

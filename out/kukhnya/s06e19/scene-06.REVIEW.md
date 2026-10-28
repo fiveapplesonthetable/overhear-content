@@ -17,9 +17,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Гуля | Прощай, Лёва, не ищи меня. | Farewell, Lyova, do not look for me. | #94 00:06:55: Прощай | adapted: adapted |
 | 6 | Лёва | Подожди, как это ты уезжаешь? | Wait, what do you mean you are leaving? | #94 00:06:55: Подожди<br>#95 00:06:58: Как | adapted: adapted |
 | 7 | Лёва | Шеф, простите меня за блюдо. | Chef, forgive me for the dish. | #96 00:07:00: Шеф. Простите | adapted: adapted |
-| 8 | Аня | Лёва, ты куда сейчас побежал? | Lyova, where are you running off to now? | #97 00:07:02: Лёва, ты куда | adapted: adapted |
-| 9 | Аня | Смотри вперёд, разуй свои глаза! | Look ahead, open your eyes wide! | #98 00:07:05: глаза разуй свои | adapted: adapted |
-| 10 | Аня | Продолжать поединок уже нет смысла. | There is no point in continuing the duel now. | #103 00:07:16: продолжать<br>#104 00:07:20: Нет | adapted: adapted |
+| 8 | Гуля | Лёва, ты куда сейчас побежал? | Lyova, where are you running off to now? | #97 00:07:02: Лёва, ты куда | adapted: adapted |
+| 9 | Гуля | Смотри вперёд, разуй свои глаза! | Look ahead, open your eyes wide! | #98 00:07:05: глаза разуй свои | adapted: adapted |
+| 10 | Гуля | Продолжать поединок уже нет смысла. | There is no point in continuing the duel now. | #103 00:07:16: продолжать<br>#104 00:07:20: Нет | adapted: adapted |
 | 11 | Лёва | Гуля, скажи, ты сейчас пошутила? | Gulya, tell me, were you joking just now? | #105 00:07:23: Гуля, если ты пошутила | adapted: adapted |
 | 12 | Лёва | Если пошутила, это не смешно. | If you were joking, it is not funny. | #105 00:07:23: то это не смешно | adapted: adapted |
 

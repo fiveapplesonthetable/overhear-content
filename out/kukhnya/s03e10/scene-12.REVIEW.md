@@ -14,13 +14,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Аня | Сейчас у неё сезонное обострение. | Right now she is having a seasonal flare-up. | #193 00:14:34: Сезонное обострение | adapted: adapted |
 | 3 | Аня | Она может в клинику обратно загреметь. | She could land right back in the clinic. | #195 00:14:39: в клинику обратно загреметь | adapted: adapted |
 | 4 | Аня | Только никому об этом не говори, шеф расстроится. | Just do not tell anyone about this, the Chef will get upset. | #198 00:14:49: никому об этом не говори<br>#199 00:14:51: шеф расстроится | adapted: adapted |
-| 5 | Шеф | Ну а вы чем вообще занимаетесь? | So what do you do for a living? | #200 00:15:01: Ну а вы чем занимаетесь | adapted: adapted |
+| 5 | Гость | Ну а вы чем вообще занимаетесь? | So what do you do for a living? | #200 00:15:01: Ну а вы чем занимаетесь | adapted: adapted |
 | 6 | Гость | Я постоянно с людьми работаю. | I work with people all the time. | #201 00:15:03: С людьми работаю | adapted: adapted |
-| 7 | Шеф | Подождите, я сейчас сам угадаю. | Wait, I will guess it myself right now. | #202 00:15:05: подождите, я сам угадаю | adapted: adapted |
-| 8 | Шеф | Вы учительница, врач или стюардесса? | Are you a teacher, a doctor, or a flight attendant? | #203 00:15:11: Учительница. Нет, врач<br>#204 00:15:15: Стюардесса | adapted: adapted |
+| 7 | Гость | Подождите, я сейчас сам угадаю. | Wait, I will guess it myself right now. | #202 00:15:05: подождите, я сам угадаю | adapted: adapted |
+| 8 | Гость | Вы учительница, врач или стюардесса? | Are you a teacher, a doctor, or a flight attendant? | #203 00:15:11: Учительница. Нет, врач<br>#204 00:15:15: Стюардесса | adapted: adapted |
 | 9 | Гость | Алло, я сейчас очень занята. | Hello, I am very busy right now. | #207 00:15:23: Алло, я занята | adapted: adapted |
 | 10 | Гость | Витя, после ужина поедем к тебе домой? | Vitya, after dinner will we go to your place? | #209 00:15:28: после вашего ужина надо будет ехать к тебе домой | adapted: adapted |
-| 11 | Шеф | Зачем ехать ко мне домой? | Why would we go to my place? | #210 00:15:31: Зачем домой? | adapted: adapted |
+| 11 | Гость | Зачем ехать ко мне домой? | Why would we go to my place? | #210 00:15:31: Зачем домой? | adapted: adapted |
 | 12 | Гость | Или в гостиницу, продолжение банкета будет? | Or to a hotel, will there be a continuation of the party? | #210 00:15:31: или в гостиницу<br>#211 00:15:35: Продолжение банкета будет | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -11,16 +11,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Аня | Что за огрызок? | What is this apple core doing here? | #269 00:16:17: Что за огрызок | verbatim |
-| 2 | Вика | Лавров же деньги у всех искал и спрашивал. | Lavrov was going around asking everyone for money earlier. | #270 00:16:20: Лавров же деньги у всех искал и спрашивал | verbatim |
+| 2 | Нагиев | Лавров же деньги у всех искал и спрашивал. | Lavrov was going around asking everyone for money earlier. | #270 00:16:20: Лавров же деньги у всех искал и спрашивал | verbatim |
 | 3 | Нагиев | Кто здесь Лавров? | Who here is Lavrov? | #271 00:16:22: Кто здесь Лавров | verbatim |
 | 4 | Аня | Я. Вот он. | I am. Right here. | #272 00:16:24: Я. Вот он | verbatim |
-| 5 | Вика | Что, парень, стал у богатых воровать. | So, kid, you started stealing from the rich? | #273 00:16:27: Что, парень, стал у богатых воровать | verbatim |
+| 5 | Нагиев | Что, парень, стал у богатых воровать. | So, kid, you started stealing from the rich? | #273 00:16:27: Что, парень, стал у богатых воровать | verbatim |
 | 6 | Нагиев | То и требовалось. | Which is all the proof we need. | #278 00:16:54: То и требовалось | verbatim |
 | 7 | Аня | Я не брал вас деньги. | I did not take your money. | #280 00:16:58: Я не брал вас деньги | verbatim |
-| 8 | Вика | Вика, вызывай полицию. | Vika, call the police. | #281 00:17:01: Вика, вызывай полицию | verbatim |
+| 8 | Нагиев | Вика, вызывай полицию. | Vika, call the police. | #281 00:17:01: Вика, вызывай полицию | verbatim |
 | 9 | Нагиев | Я не брал деньги. | I did not take the money! | #282 00:17:04: Я не брал деньги | verbatim |
 | 10 | Аня | Может, мы обойдемся без полиции? | Maybe we can handle this without the police? | #283 00:17:06: Может, мы обойдемся без полиции | verbatim |
-| 11 | Вика | А что так? | And why is that? | #284 00:17:08: А что так | verbatim |
+| 11 | Нагиев | А что так? | And why is that? | #284 00:17:08: А что так | verbatim |
 | 12 | Нагиев | Давайте просто его уволим. | Let us just fire him on the spot. | #285 00:17:10: Давайте просто его уволим | verbatim |
 | 13 | Аня | Давай, собирай. | Go on, pack your things. | #287 00:17:18: Давай, собирай | verbatim |
 

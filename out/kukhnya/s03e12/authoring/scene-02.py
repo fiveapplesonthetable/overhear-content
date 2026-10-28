@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e12-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 12
 SCENE = 2
 TITLE = "Обострение у деда Кирилла  (Grandpa Kirill's Flare-Up)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "senya": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.12'
 SOURCE_FILE = 'sources/kukhnya/s03/e12.ru.srt'
 
 INTRO = 'In the kitchen of Claude Monet, Chef Barinov scolds Max for arriving half an hour late. Max explains that their upstairs neighbor, retired officer Kirill Ilyich, threw soup on him during one of his seasonal flare-ups. Listen to the Russian dialogue first, and then we will go through every line.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Now you know the backstory of Kirill Ilyich, the one neighbor who refused to sell his apartment for any amount of money. In the next scene, Chef Barinov tries to calm the old man down with French cuisine while Vika makes a big announcement.'
-CLOSING = ('chef', 'У деда Кирилла обострение.')
+OUTRO = 'Now you know the backstory of Kirill Ilyich, the one neighbor who refused to sell his apartment for any amount of money. See you next time!'
+CLOSING = ("chef", "Увидимся!")

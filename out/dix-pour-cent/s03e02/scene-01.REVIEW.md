@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Fais-moi confiance, je gère la situation. | Trust me, I am managing the situation. | 7:je travaille. |
 
 ## Part 5 — Outro & Closing
-> Andrea pushes Gabriel to face his responsibilities, ensuring that star client Monica Bellucci receives prompt agency attention. When you watch the episode, listen out for the expressions meaning 'come' and 'meeting'. You'll catch them now. See you next time.
+> Andrea pushes Gabriel to face his responsibilities, ensuring that star client Monica Bellucci receives prompt agency attention. When you watch the episode, listen out for the expressions meaning 'come' and 'meeting'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

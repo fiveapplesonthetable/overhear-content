@@ -26,5 +26,5 @@
 | 12 | `lea` (Andréa) | Bravo Gabriel, c'est comme ça qu'ils avancent! | Bravo Gabriel, that is how they make progress! | 408:C'est ce qu'il faut faire. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around gabriel's lecture. When you watch the episode, listen out for the expressions meaning 'it is' and 'interview'. You'll catch them now. See you next time.
+> That's it for this scene around gabriel's lecture. When you watch the episode, listen out for the expressions meaning 'it is' and 'interview'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

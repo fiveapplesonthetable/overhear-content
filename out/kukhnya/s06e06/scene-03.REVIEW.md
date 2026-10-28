@@ -13,9 +13,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Элеонора | Она у нас уже взрослый человек. | She is already a grown adult. | #33 00:02:46: она уже взрослый человек | adapted: adapted |
 | 2 | Элеонора | Она вправе сама принимать важные решения. | She has the right to make important decisions herself. | #34 00:02:49: И вправе сама принимать решение | adapted: adapted |
 | 3 | Элеонора | Мы не должны ей сейчас мешать. | We must not stand in her way right now. | #35 00:02:51: А мы не должны ей мешать | adapted: adapted |
-| 4 | Аня | Ты правда так спокойно думаешь? | Do you really think so calmly? | #36 00:02:54: Ты правда так думаешь | adapted: adapted |
+| 4 | Костя | Ты правда так спокойно думаешь? | Do you really think so calmly? | #36 00:02:54: Ты правда так думаешь | adapted: adapted |
 | 5 | Элеонора | Может, просто лицо ему набить? | Maybe someone should just beat his face in? | #37 00:02:56: Может, ему морду набить | adapted: adapted |
-| 6 | Аня | А кто именно его будет бить? | And who exactly is going to beat him? | #38 00:02:57: А кто будет бить | adapted: adapted |
+| 6 | Костя | А кто именно его будет бить? | And who exactly is going to beat him? | #38 00:02:57: А кто будет бить | adapted: adapted |
 | 7 | Костя | Виктор Петрович, может, мы сможем помочь? | Victor Petrovich, maybe we can help? | #40 00:03:07: Виктор Петрович<br>#41 00:03:09: Может, мы можем помочь | adapted: adapted |
 | 8 | Элеонора | У нас дома места всем хватит. | There is enough room for everyone at our place. | #44 00:03:22: пока у нас места всем хватит | adapted: adapted |
 | 9 | Костя | Я категорически против этого гостя дома. | I am categorically against this guest at home. | #46 00:03:28: Я боюсь, Константин будет против | adapted: adapted |

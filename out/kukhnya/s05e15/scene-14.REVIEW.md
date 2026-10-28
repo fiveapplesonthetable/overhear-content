@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Значит, меню из рисовой бумаги мы отдаём гостю. | So, we give the rice-paper menu to the guest. | #248 00:14:58: Значит, меню из рисовой бумаги мы отдаем гостю | adapted: adapted |
-| 2 | Вика | А меню из простой бумаги тихо отдаём Элеоноре. | And we quietly give the plain-paper menu to Eleonora. | #249 00:15:01: а меню из простой бумаги отдаем | adapted: adapted |
-| 3 | Макс | Она же не станет сама есть бумагу в зале! | She is not going to eat paper in the dining room herself! | #249 00:15:01: из простой бумаги | adapted: adapted |
-| 4 | Аня | Представляешь, Витя вместо меня весь вечер защищал Гену! | Can you imagine, instead of supporting me Vitya defended Gena! | #250 00:15:10: чтобы меня поддержать, защищал Гену | adapted: adapted |
-| 5 | Аня | Он до сих пор передо мной не извинился. | He still has not apologized to me. | #251 00:15:13: До сих пор не извинился | adapted: adapted |
-| 6 | Аня | Он мне даже ни разу сегодня не позвонил! | He has not even called me once today! | #251 00:15:13: даже не позвонил | adapted: adapted |
-| 7 | Вика | Почему же тебя всегда тянет к таким мужчинам? | Why are you always drawn to men like that? | #252 00:15:17: тебя тянет к таким мужчинам | adapted: adapted |
-| 8 | Вика | Тебе что, слишком скучно спокойно живётся одной? | Is living quietly on your own too boring for you? | #254 00:15:22: Тебе что, скучно живется | adapted: adapted |
-| 9 | Аня | То есть ты считаешь, что я сама виновата? | So you think that I am to blame myself? | #255 00:15:23: То есть тут я тоже виновата | adapted: adapted |
-| 10 | Аня | Большое спасибо тебе за поддержку, дорогая подруга! | Thank you very much for the support, dear friend! | #256 00:15:25: Спасибо тебе большое, подруга | adapted: adapted |
-| 11 | Аня | Скажи лучше, что мне теперь с этим делать? | Tell me instead, what am I supposed to do about this now? | #257 00:15:30: мне делать | adapted: adapted |
-| 12 | Вика | Тебе надо просто расслабиться, вино дома есть? | You just need to relax, is there wine at home? | #258 00:15:32: Тебе надо расслабиться | adapted: adapted |
+| 1 | Елена | Значит, меню из рисовой бумаги мы отдаём гостю. | So, we give the rice-paper menu to the guest. | #248 00:14:58: Значит, меню из рисовой бумаги мы отдаем гостю | adapted: adapted |
+| 2 | Елена | А меню из простой бумаги тихо отдаём Элеоноре. | And we quietly give the plain-paper menu to Eleonora. | #249 00:15:01: а меню из простой бумаги отдаем | adapted: adapted |
+| 3 | Аня | Она же не станет сама есть бумагу в зале! | She is not going to eat paper in the dining room herself! | #249 00:15:01: из простой бумаги | adapted: adapted |
+| 4 | Елена | Представляешь, Витя вместо меня весь вечер защищал Гену! | Can you imagine, instead of supporting me Vitya defended Gena! | #250 00:15:10: чтобы меня поддержать, защищал Гену | adapted: adapted |
+| 5 | Елена | Он до сих пор передо мной не извинился. | He still has not apologized to me. | #251 00:15:13: До сих пор не извинился | adapted: adapted |
+| 6 | Елена | Он мне даже ни разу сегодня не позвонил! | He has not even called me once today! | #251 00:15:13: даже не позвонил | adapted: adapted |
+| 7 | Елена | Почему же тебя всегда тянет к таким мужчинам? | Why are you always drawn to men like that? | #252 00:15:17: тебя тянет к таким мужчинам | adapted: adapted |
+| 8 | Елена | Тебе что, слишком скучно спокойно живётся одной? | Is living quietly on your own too boring for you? | #254 00:15:22: Тебе что, скучно живется | adapted: adapted |
+| 9 | Елена | То есть ты считаешь, что я сама виновата? | So you think that I am to blame myself? | #255 00:15:23: То есть тут я тоже виновата | adapted: adapted |
+| 10 | Елена | Большое спасибо тебе за поддержку, дорогая подруга! | Thank you very much for the support, dear friend! | #256 00:15:25: Спасибо тебе большое, подруга | adapted: adapted |
+| 11 | Елена | Скажи лучше, что мне теперь с этим делать? | Tell me instead, what am I supposed to do about this now? | #257 00:15:30: мне делать | adapted: adapted |
+| 12 | Елена | Тебе надо просто расслабиться, вино дома есть? | You just need to relax, is there wine at home? | #258 00:15:32: Тебе надо расслабиться | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

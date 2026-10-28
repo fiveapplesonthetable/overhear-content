@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e11-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 11
 SCENE = 2
-TITLE = 'Сюрприз от бабушки и дедушки  (A Surprise from Grandma and Grandpa)'
+TITLE = "Сюрприз от бабушки и дедушки  (A Surprise from Grandma and Grandpa)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "guest": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "guest": "Гость", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.11'
 SOURCE_FILE = 'sources/kukhnya/s05/e11.ru.srt'
 
 INTRO = "Vika calls Max in a panic to tell him his grandparents are at her apartment and have no idea that she and Max are separated. While Max's grandfather looks for a razor before his heart checkup, Max asks Vika to bring them straight to the hotel."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That brings the phone call and apartment scene to a close. Notice how Max asks Vika to bring his grandparents to the hotel while a job applicant arrives looking for Chef Barinov. See you in the next scene.'
-CLOSING = ('anya', 'Я сам всё объясню!')
+OUTRO = 'That brings the phone call and apartment scene to a close. Notice how Max asks Vika to bring his grandparents to the hotel while a job applicant arrives looking for Chef Barinov. See you next time!'
+CLOSING = ("anya", "До завтра!")

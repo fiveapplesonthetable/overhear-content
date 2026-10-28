@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Слушай, Света, ты же знаешь, что ты нравишься одному человеку? | Listen, Sveta, you know that a certain person likes you, right? | #249 00:17:13: Слушай, Свет, ты же знаешь | adapted: adapted |
+| 1 | Никита | Слушай, Света, ты же знаешь, что ты нравишься одному человеку? | Listen, Sveta, you know that a certain person likes you, right? | #249 00:17:13: Слушай, Свет, ты же знаешь | adapted: adapted |
 | 2 | Света | Допустим, знаю. | Suppose I know. | #250 00:17:20: Допустим | adapted: adapted |
-| 3 | Аня | Между прочим, он прямо страдает. | By the way, he is really suffering. | #250 00:17:20: Между прочим, он страдает<br>#251 00:17:22: Прямо страдает | adapted: adapted |
+| 3 | Никита | Между прочим, он прямо страдает. | By the way, he is really suffering. | #250 00:17:20: Между прочим, он страдает<br>#251 00:17:22: Прямо страдает | adapted: adapted |
 | 4 | Света | И что же делать? | And what should I do? | #252 00:17:24: И что же делать? | adapted: exact |
-| 5 | Аня | Не знаю, например, выпить с ним чашечку кофе через час. | I do not know, for example, drink a cup of coffee with him in an hour. | #253 00:17:27: Не знаю. Например, выпить с ним чашечку кофе через час | adapted: exact |
+| 5 | Никита | Не знаю, например, выпить с ним чашечку кофе через час. | I do not know, for example, drink a cup of coffee with him in an hour. | #253 00:17:27: Не знаю. Например, выпить с ним чашечку кофе через час | adapted: exact |
 | 6 | Света | Ну хорошо, договорились. | Well alright, it is a deal. | #254 00:17:32: Ну, договорились | adapted: adapted |
-| 7 | Лёва | Давай немного отдохнем. | Let's rest a little. | #255 00:17:36: Давай<br>#256 00:17:45: отдохнем | adapted: adapted |
+| 7 | Света | Давай немного отдохнем. | Let's rest a little. | #255 00:17:36: Давай<br>#256 00:17:45: отдохнем | adapted: adapted |
 | 8 | Света | Да я не устала, а ты самый лучший тренер. | Why, I am not tired, and you are the very best coach. | #256 00:17:45: Да я не устал<br>#259 00:17:52: Ты самый лучший тренер | adapted: adapted |
-| 9 | Лёва | Зато я очень устал, извини. | On the other hand, I am very tired, sorry. | #257 00:17:47: Зато я устала<br>#258 00:17:49: Извини | adapted: adapted |
+| 9 | Света | Зато я очень устал, извини. | On the other hand, I am very tired, sorry. | #257 00:17:47: Зато я устала<br>#258 00:17:49: Извини | adapted: adapted |
 | 10 | Света | Лёва, осторожней! | Lyova, be more careful! | #260 00:17:59: Осторожней! | adapted: adapted |
 | 11 | Света | Аккуратней, посмотри, куда едешь! | More carefully, watch where you are going! | #261 00:18:01: Аккуратней! Посмотри, куда едешь! | adapted: exact |
-| 12 | Лёва | Ой, помогите! | Oh, help! | #260 00:17:59: Осторожней! | adapted: adapted |
+| 12 | Света | Ой, помогите! | Oh, help! | #260 00:17:59: Осторожней! | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

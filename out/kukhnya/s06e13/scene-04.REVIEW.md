@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | У меня сейчас есть два варианта. | I have two options right now. | #46 00:03:46: есть два варианта | adapted: adapted |
-| 2 | Аня | Скажи честно, ты раньше в тюрьме сидел? | Tell me honestly, were you in prison before? | #48 00:03:54: Ты сидел | adapted: adapted |
+| 1 | Гость | У меня сейчас есть два варианта. | I have two options right now. | #46 00:03:46: есть два варианта | adapted: adapted |
+| 2 | Гость | Скажи честно, ты раньше в тюрьме сидел? | Tell me honestly, were you in prison before? | #48 00:03:54: Ты сидел | adapted: adapted |
 | 3 | Гость | Да, я там немного совсем посидел. | Yes, I spent just a little time there. | #49 00:03:57: присел | adapted: adapted |
-| 4 | Аня | Мы воспитываем сына в одной квартире. | We are raising our son in the same apartment. | #51 00:04:01: в одной квартире | adapted: adapted |
+| 4 | Гость | Мы воспитываем сына в одной квартире. | We are raising our son in the same apartment. | #51 00:04:01: в одной квартире | adapted: adapted |
 | 5 | Гость | Да я же никого не убивал. | But I did not kill anyone. | #52 00:04:04: я же не убивал никого | adapted: adapted |
-| 6 | Аня | Ты мог бы и раньше сказать. | You could have told me earlier. | #53 00:04:07: Мог бы и раньше сказать | adapted: adapted |
+| 6 | Гость | Ты мог бы и раньше сказать. | You could have told me earlier. | #53 00:04:07: Мог бы и раньше сказать | adapted: adapted |
 | 7 | Гость | Костя, я в поездах играл в карты. | Kostya, I played cards on trains. | #54 00:04:11: играл в карты | adapted: adapted |
 | 8 | Гость | Мне раньше надо было ему сказать. | I should have told him about it earlier. | #56 00:04:17: раньше надо было ему сказать | adapted: adapted |
 | 9 | Гость | Тогда просто время такое тяжёлое было. | It was simply such a hard time back then. | #57 00:04:20: время такое было | adapted: adapted |

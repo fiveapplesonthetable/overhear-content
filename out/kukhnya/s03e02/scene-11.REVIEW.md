@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Ого, вегетарианка! Ты хоть в курсе, что эта штука из мяса? | Whoa, vegetarian! Are you even aware that this thing is made of meat? | #156 00:13:57: Ого, вегетарианка<br>#157 00:13:58: Ты хоть в курсе, что эта штука-то из мяса | adapted: adapted |
-| 2 | Аня | Кристина, мне наплевать, лучший у тебя адвокат или не лучший. | Kristina, I don't care whether you have the best lawyer or not. | #158 00:14:05: Кристина, мне наплевать, лучший у тебя адвокат или не лучший | verbatim |
-| 3 | Аня | Если так будешь разговаривать, вообще ничего не получишь. | If you talk like that, you will get nothing at all. | #159 00:14:08: если так будешь разговаривать, вообще ничего не получишь | verbatim |
+| 1 | Нагиев | Ого, вегетарианка! Ты хоть в курсе, что эта штука из мяса? | Whoa, vegetarian! Are you even aware that this thing is made of meat? | #156 00:13:57: Ого, вегетарианка<br>#157 00:13:58: Ты хоть в курсе, что эта штука-то из мяса | adapted: adapted |
+| 2 | Нагиев | Кристина, мне наплевать, лучший у тебя адвокат или не лучший. | Kristina, I don't care whether you have the best lawyer or not. | #158 00:14:05: Кристина, мне наплевать, лучший у тебя адвокат или не лучший | verbatim |
+| 3 | Нагиев | Если так будешь разговаривать, вообще ничего не получишь. | If you talk like that, you will get nothing at all. | #159 00:14:08: если так будешь разговаривать, вообще ничего не получишь | verbatim |
 | 4 | Шеф | Приятного аппетита. | Bon appetit. | #161 00:14:17: Приятного аппетита | verbatim |
-| 5 | Аня | Взбесило меня! | It infuriated me! | #162 00:14:20: Взбесило меня | verbatim |
-| 6 | Аня | Это не то блюдо. | This is not that dish. | #163 00:14:26: Это не то блюдо | verbatim |
+| 5 | Нагиев | Взбесило меня! | It infuriated me! | #162 00:14:20: Взбесило меня | verbatim |
+| 6 | Нагиев | Это не то блюдо. | This is not that dish. | #163 00:14:26: Это не то блюдо | verbatim |
 | 7 | Шеф | Как не то? То же самое. | How is it not that one? It is the exact same thing. | #163 00:14:26: Как не то<br>#164 00:14:27: То же самое | adapted: adapted |
-| 8 | Аня | Нет, Витя, не то блюдо. | No, Vitya, not that dish. | #164 00:14:27: не то блюдо | adapted: adapted |
-| 9 | Аня | Там вкус был такой терпкий, приятный, природный. | There the taste was so tart, pleasant, natural. | #165 00:14:30: Там вкус был такой терпкий, приятный, природный | verbatim |
-| 10 | Аня | Пускай это переделают, ребята, а? | Have them redo this, guys, okay? | #167 00:14:36: переделают, ребята, а | adapted: adapted |
+| 8 | Нагиев | Нет, Витя, не то блюдо. | No, Vitya, not that dish. | #164 00:14:27: не то блюдо | adapted: adapted |
+| 9 | Нагиев | Там вкус был такой терпкий, приятный, природный. | There the taste was so tart, pleasant, natural. | #165 00:14:30: Там вкус был такой терпкий, приятный, природный | verbatim |
+| 10 | Нагиев | Пускай это переделают, ребята, а? | Have them redo this, guys, okay? | #167 00:14:36: переделают, ребята, а | adapted: adapted |
 | 11 | Шеф | Мы не можем это переделать. | We cannot redo this. | #168 00:14:39: Мы не можем это переделать | verbatim |
 | 12 | Шеф | Нет одного очень важного ингредиента. | One very important ingredient is missing. | #169 00:14:40: Нет одного очень важного ингредиента | verbatim |
 

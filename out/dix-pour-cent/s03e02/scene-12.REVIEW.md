@@ -28,5 +28,5 @@
 | 14 | `colette` (Colette) | Parce que moi, je ne peux pas en avoir. | Because I cannot have children myself. | 733:Pourquoi t'en fais pas un, 734:je peux pas en avoir |
 
 ## Part 5 — Outro & Closing
-> A tense dinner turns into an emotional crisis as Hicham's paternity ambitions clash with Colette and Andrea's family plans. When you watch the episode, listen out for the expressions meaning 'would like' and 'little girl'. You'll catch them now. See you next time.
+> A tense dinner turns into an emotional crisis as Hicham's paternity ambitions clash with Colette and Andrea's family plans. When you watch the episode, listen out for the expressions meaning 'would like' and 'little girl'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

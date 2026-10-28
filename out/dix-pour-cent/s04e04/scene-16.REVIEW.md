@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | On trinque? Je vais chercher à boire! | Shall we drink to it? I will get something to drink! | 1026:On trinque |
 
 ## Part 5 — Outro & Closing
-> Deeply touched by Camille's decision, Mathias leads her to his computer and goes to fetch drinks. When you watch the episode, listen out for the expressions meaning 'is going on' and 'problems'. You'll catch them now. See you next time.
+> Deeply touched by Camille's decision, Mathias leads her to his computer and goes to fetch drinks. When you watch the episode, listen out for the expressions meaning 'is going on' and 'problems'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *Bonne journée!*

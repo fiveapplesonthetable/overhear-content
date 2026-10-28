@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e11-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 19
 TITLE = "Признание Кати и мама Макса  (Katya's Confession and Max's Mom)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "katya": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "katya": "Катя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = "After apologizing to Paul, Chef Barinov hears Katya's full confession: she made up the pregnancy because she was afraid to tell him about her expulsion, and nothing ever happened with Max. Just as Barinov celebrates the good news, Max walks in with a surprise guest pretending to be his mother."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max's theatrical counter-prank catches Katya completely off guard. Let's see how the episode wraps up in Scene Twenty."
-CLOSING = ('anya', 'Знакомьтесь, это моя мама!')
+OUTRO = "Max's theatrical counter-prank catches Katya completely off guard. Let's see how the episode wraps up in Scene Twenty. Until next time!"
+CLOSING = ("anya", "Пока!")

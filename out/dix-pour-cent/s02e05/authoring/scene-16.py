@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 16
-TITLE = "La dame de France 2  (The France 2 Lady)"
-LEVEL = "A1 — débutant"
+TITLE = 'La dame de France 2  (The France 2 Lady)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "elisabeth": "emilie", "gabriel": "theo", "guy": "marcel"}
-LABELS = {"elisabeth": "Élisabeth", "gabriel": "Gabriel", "guy": "Guy"}
+VOICES = {'narrator': 'sky', 'elisabeth': 'emilie', 'gabriel': 'theo', 'guy': 'marcel'}
+LABELS = {'elisabeth': 'Élisabeth', 'gabriel': 'Gabriel', 'guy': 'Guy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "On the movie set, veteran actor Guy Marchand finishes a take and meets Elisabeth Lecoeur, an executive from France 2 Cinema. When Elisabeth reveals that a committee meets tomorrow to decide on funding Julien Dore's project, Gabriel seizes the opportunity to invite her to lunch. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'After introducing Guy Marchand to Elisabeth Lecoeur, Gabriel uses the chance encounter to invite the television executive to lunch. Until next time.'
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = 'After introducing Guy Marchand to Elisabeth Lecoeur, Gabriel uses the chance encounter to invite the television executive to lunch. See you next time!'
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('guy', 'Tout va très bien, merci!', 'Everything is going very well, thanks!', [(445, 'Oui, très bien')], ''),
     ('elisabeth', 'Bravo Guy, quel beau rôle!', 'Bravo Guy, what a wonderful role!', [(449, 'Bravo, Guy ! Quel beau rôle')], ''),

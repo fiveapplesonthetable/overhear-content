@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну вы, конечно, друг друга стоите. | Well, you two certainly deserve each other. | #289 00:21:37: Ну вы, конечно, друг друга стоите | verbatim |
-| 2 | Вика | Вы только его послушайте. | Just listen to him talk. | #290 00:21:39: Вы только его послушайте | verbatim |
+| 1 | Шеф | Ну вы, конечно, друг друга стоите. | Well, you two certainly deserve each other. | #289 00:21:37: Ну вы, конечно, друг друга стоите | verbatim |
+| 2 | Настя | Вы только его послушайте. | Just listen to him talk. | #290 00:21:39: Вы только его послушайте | verbatim |
 | 3 | Настя | А сам? | And what about yourself? | #291 00:21:41: А сам | verbatim |
-| 4 | Аня | Вы же себе позволяете, Витя, кто это? | What are you allowing yourself to do, Vitya, who is this? | #292 00:21:45: Вы же себе позволяете, Витя, кто это | verbatim |
-| 5 | Вика | Чего вы тут несете? | What nonsense are you all spouting in here? | #293 00:21:47: Чего вы тут несете | verbatim |
+| 4 | Шеф | Вы же себе позволяете, Витя, кто это? | What are you allowing yourself to do, Vitya, who is this? | #292 00:21:45: Вы же себе позволяете, Витя, кто это | verbatim |
+| 5 | Настя | Чего вы тут несете? | What nonsense are you all spouting in here? | #293 00:21:47: Чего вы тут несете | verbatim |
 | 6 | Настя | Зачем вам Луи? | Why on earth do you need Louis? | #294 00:21:50: Зачем вам Луи | verbatim |
-| 7 | Аня | Сейчас я все объясню. | I am going to explain everything right now. | #295 00:21:53: Сейчас я все объясню | verbatim |
-| 8 | Вика | Что-то мне это все напоминает? | Why does all of this remind me of something? | #296 00:21:55: Что-то мне это все напоминает | verbatim |
+| 7 | Шеф | Сейчас я все объясню. | I am going to explain everything right now. | #295 00:21:53: Сейчас я все объясню | verbatim |
+| 8 | Настя | Что-то мне это все напоминает? | Why does all of this remind me of something? | #296 00:21:55: Что-то мне это все напоминает | verbatim |
 | 9 | Настя | Я сейчас вам всем объясню! | I am going to explain it to all of you right now! | #297 00:22:17: Я сейчас вам всем объясню | verbatim |
-| 10 | Аня | Даже не пытаешься измениться. | You are not even trying to change. | #299 00:22:47: Даже не пытаешься измениться | verbatim |
-| 11 | Вика | Каждый необдуманный поступок в нашей жизни –. | Every reckless action in our lives is a mine. | #300 00:22:52: Каждый необдуманный поступок в нашей жизни | verbatim |
+| 10 | Шеф | Даже не пытаешься измениться. | You are not even trying to change. | #299 00:22:47: Даже не пытаешься измениться | verbatim |
+| 11 | Настя | Каждый необдуманный поступок в нашей жизни –. | Every reckless action in our lives is a mine. | #300 00:22:52: Каждый необдуманный поступок в нашей жизни | verbatim |
 | 12 | Настя | Мы, оглядываясь, видим лишь руины. | Looking back, we see nothing but ruins. | #310 00:23:42: Мы, оглядываясь, видим лишь руины | verbatim |
-| 13 | Аня | Знаете что? | You know what? | #312 00:23:49: Знаете что | verbatim |
+| 13 | Шеф | Знаете что? | You know what? | #312 00:23:49: Знаете что | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

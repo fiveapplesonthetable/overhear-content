@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | Maintenant, j'ai beaucoup de travail. | Right now, I have a lot of work. | 187:J'ai du travail. |
 
 ## Part 5 — Outro & Closing
-> Andréa and Gabriel navigate professional challenges and personal vulnerabilities as the agency faces major changes. Let's review the workplace and emotional vocabulary from this scene. Join us next time to see what happens next.
+> Andréa and Gabriel navigate professional challenges and personal vulnerabilities as the agency faces major changes. Let's review the workplace and emotional vocabulary from this scene. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

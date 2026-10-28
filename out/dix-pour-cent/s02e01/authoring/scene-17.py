@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 17
-TITLE = "Bréhier menace Arlette  (Bréhier Threatens Arlette)"
-LEVEL = "A1 — débutant"
+TITLE = 'Bréhier menace Arlette  (Bréhier Threatens Arlette)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "francois": "marcel", "arlette": "emilie"}
-LABELS = {"francois": "François", "arlette": "Arlette"}
+VOICES = {'narrator': 'sky', 'francois': 'marcel', 'arlette': 'emilie'}
+LABELS = {'francois': 'François', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = 'On a quiet Parisian street, senior agent Arlette Azémar is walking her beloved Jack Russell terrier, Jean Gabin. Suddenly, rival agency head François Bréhier steps out from the shadows with a sinister warning. Listen to the conversation in French first.'
 OPENER = "Let's walk through this tense confrontation line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more without pauses."
 OUTRO = 'Bréhier has laid his cards on the table, warning ASK to back off from StarMédia. Remember the key phrase for making a threat: faire une menace. See you next time!'
-CLOSING = ("francois", "À bientôt!")
+CLOSING = ('francois', 'À bientôt!')
 STORY = [
     ('arlette', 'Allez, viens, Jean Gabin. Fais ta promenade.', 'Come on, Jean Gabin. Take your walk.', [(465, 'Allez, toutou'), (466, 'Vas-y, Jean Gabin')], ''),
     ('francois', "Qu'est-ce que vous faites ici?", 'What are you doing here?', [(469, "Mais qu'est-ce que vous foutez")], ''),

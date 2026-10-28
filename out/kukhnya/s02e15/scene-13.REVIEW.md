@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Но я же на работе. | But I am on shift at work. | #215 00:12:57: Но я же на работе | verbatim |
-| 2 | Вика | Был, Лёва. | You were, Lyova. | #216 00:12:58: Был, Лёва | verbatim |
+| 1 | Шеф | Но я же на работе. | But I am on shift at work. | #215 00:12:57: Но я же на работе | verbatim |
+| 2 | Лёва | Был, Лёва. | You were, Lyova. | #216 00:12:58: Был, Лёва | verbatim |
 | 3 | Лёва | А сейчас начался у тебя выходной. | Right now your day off has officially started. | #217 00:13:00: А сейчас начался у тебя выходной | verbatim |
-| 4 | Аня | Вернее, два выходных. | Or rather, two days off. | #218 00:13:02: Вернее, два выходных | verbatim |
-| 5 | Вика | А как же морковь? | Wait, what about the carrots? | #219 00:13:04: А как же морковь | verbatim |
+| 4 | Шеф | Вернее, два выходных. | Or rather, two days off. | #218 00:13:02: Вернее, два выходных | verbatim |
+| 5 | Лёва | А как же морковь? | Wait, what about the carrots? | #219 00:13:04: А как же морковь | verbatim |
 | 6 | Лёва | Давай, дуй быстро. | Come on, hurry up and get going. | #221 00:13:09: Давай, дуй быстро | verbatim |
-| 7 | Аня | Ну что ещё? | What else now? | #222 00:13:12: Ну что ещё | verbatim |
-| 8 | Вика | Обижаешь, Лёва. | You wound me, Lyova. | #223 00:13:15: Обижаешь, Лёва | verbatim |
+| 7 | Шеф | Ну что ещё? | What else now? | #222 00:13:12: Ну что ещё | verbatim |
+| 8 | Лёва | Обижаешь, Лёва. | You wound me, Lyova. | #223 00:13:15: Обижаешь, Лёва | verbatim |
 | 9 | Лёва | А мы тут просто так. | We are just hanging out here. | #227 00:13:27: А мы тут просто так | verbatim |
-| 10 | Аня | А, вы туда. | Ah, you are heading in there. | #228 00:13:30: А, вы туда | verbatim |
-| 11 | Вика | Он, у кого занимать-то надо. | There is the man I should borrow money from. | #229 00:13:31: Он, у кого занимать-то надо | verbatim |
+| 10 | Шеф | А, вы туда. | Ah, you are heading in there. | #228 00:13:30: А, вы туда | verbatim |
+| 11 | Лёва | Он, у кого занимать-то надо. | There is the man I should borrow money from. | #229 00:13:31: Он, у кого занимать-то надо | verbatim |
 | 12 | Лёва | Ну, ты понял, Дмитрий Владимирович? | So you got all that, Dmitry Vladimirovich? | #231 00:13:36: Ну, ты понял, Дмитрий Владимирович | verbatim |
-| 13 | Аня | Чего надо? | What do you want? | #232 00:13:41: Чего надо | verbatim |
+| 13 | Шеф | Чего надо? | What do you want? | #232 00:13:41: Чего надо | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

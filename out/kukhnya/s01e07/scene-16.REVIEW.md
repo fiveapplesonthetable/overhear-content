@@ -1,43 +1,41 @@
-# kukhnya-s01e07-scene-16: review sheet
+# Предложение соседа  (A Roommate Offer) — `kukhnya-s01e07-scene-16`
 
-Title: Предложение соседа  (A Roommate Offer)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.07
+**Source:** Кухня (Kukhnya) S1.07 · `sources/kukhnya/s01/e07.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `kostya` | anja | Костя |
+| `anya` | alisa | Макс |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> At the restaurant bar, bartender Kostya hears that Max is struggling to find accommodation in Moscow. Kostya generously offers Max a spare room in his rented flat, and the two friends arrange to meet there later that evening. Listen to their conversation in Russian first, then we will break down each line in English.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Костя | Макс, я слышал, у тебя проблема с жильём. | Max, I heard you have a problem with housing. | #319 00:20:45: А я слышал, у тебя с жильем проблема | adapted: noticing dilemma |
-| 2 | Макс | Да, мне совсем негде жить в Москве. | Yes, I have nowhere to live in Moscow at all. | new | new: confessing hardship |
-| 3 | Костя | Хочешь пожить у меня пару недель? | Do you want to live at my place for a couple of weeks? | #320 00:20:47: Хочешь, поживи у меня пару недель | adapted: generous offer |
-| 4 | Макс | Ты говоришь абсолютно серьёзно, Костя? | Are you speaking completely seriously, Kostya? | #321 00:20:48: Серьезно | adapted: stunned disbelief |
-| 5 | Костя | Конечно, без всяких проблем, мой друг! | Of course, without any problems, my friend! | #321 00:20:48: Ну, конечно, без | adapted: reassuring mate |
-| 6 | Костя | Вот точный адрес моей новой квартиры. | Here is the exact address of my new apartment. | #322 00:20:51: вот тут адрес | adapted: giving details |
-| 7 | Костя | Я приеду домой около десяти вечера. | I will arrive home around ten in the evening. | #323 00:20:54: к десяти уже буду дома | adapted: stating schedule |
-| 8 | Макс | Отлично, я приду прямо вовремя туда. | Excellent, I will come right on time there. | #324 00:20:57: Давай подтягивайся | adapted: accepting invitation |
-| 9 | Макс | Может, мне купить что-нибудь вкусное к чаю? | Maybe I should buy something tasty for tea? | #325 00:20:58: Слушай, а может, что купить надо | adapted: offering gift |
-| 10 | Костя | Купи лучше красивый букет цветов. | Better buy a pretty bouquet of flowers. | #326 00:21:00: цветок букетик купи | adapted: suggesting flowers |
-| 11 | Макс | Зачем нам с тобой нужны цветы? | Why do you and I need flowers? | new | new: baffled question |
-| 12 | Костя | В этой квартире живёт пожилая хозяйка. | An elderly landlady lives in this apartment. | #326 00:21:00: я за бабулей живу просто | adapted: explaining landlady |
-| 13 | Макс | Понял, я куплю самые свежие цветы! | Understood, I will buy the freshest flowers! | new | new: promising flowers |
-| 14 | Костя | Тогда договорились, жду тебя сегодня вечером! | Then agreed, I am waiting for you tonight! | #328 00:21:06: Спасибо | adapted: finalizing plan |
+| 0 | Костя | Макс, я слышал, у тебя проблема с жильём. | Max, I heard you have a problem with housing. | #319 "А я слышал, у тебя с жильем проблема" |  |
+| 1 | Макс | Да, мне совсем негде жить в Москве. | Yes, I have nowhere to live in Moscow at all. | *(added)* |  |
+| 2 | Костя | Хочешь пожить у меня пару недель? | Do you want to live at my place for a couple of weeks? | #320 "Хочешь, поживи у меня пару недель" |  |
+| 3 | Макс | Ты говоришь абсолютно серьёзно, Костя? | Are you speaking completely seriously, Kostya? | #321 "Серьезно" |  |
+| 4 | Костя | Конечно, без всяких проблем, мой друг! | Of course, without any problems, my friend! | #321 "Ну, конечно, без" |  |
+| 5 | Костя | Вот точный адрес моей новой квартиры. | Here is the exact address of my new apartment. | #322 "вот тут адрес" |  |
+| 6 | Костя | Я приеду домой около десяти вечера. | I will arrive home around ten in the evening. | #323 "к десяти уже буду дома" |  |
+| 7 | Макс | Отлично, я приду прямо вовремя туда. | Excellent, I will come right on time there. | #324 "Давай подтягивайся" |  |
+| 8 | Макс | Может, мне купить что-нибудь вкусное к чаю? | Maybe I should buy something tasty for tea? | #325 "Слушай, а может, что купить надо" |  |
+| 9 | Костя | Купи лучше красивый букет цветов. | Better buy a pretty bouquet of flowers. | #326 "цветок букетик купи" |  |
+| 10 | Макс | Зачем нам с тобой нужны цветы? | Why do you and I need flowers? | *(added)* |  |
+| 11 | Костя | В этой квартире живёт пожилая хозяйка. | An elderly landlady lives in this apartment. | #326 "я за бабулей живу просто" |  |
+| 12 | Макс | Понял, я куплю самые свежие цветы! | Understood, I will buy the freshest flowers! | *(added)* |  |
+| 13 | Костя | Тогда договорились, жду тебя сегодня вечером! | Then agreed, I am waiting for you tonight! | #328 "Спасибо" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Max, I heard you have a problem with housing.' Kostya brings up the sensitive topic of accommodation.
-- 'Yes, I have nowhere to live in Moscow at all.' Max confesses his desperate living situation.
-- 'Do you want to live at my place for a couple of weeks?' Kostya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'do you want' with 'to stay' and 'couple'.
-- 'Are you speaking completely seriously, Kostya?' Max turns a statement into a question purely through rising intonation on the word meaning 'speak', pairing it with 'absolutely' and 'seriously'.
-- 'Of course, without any problems, my friend!' Kostya warmly reaffirms his willingness to help.
-- 'Here is the exact address of my new apartment.' Russian omits the present-tense verb 'to be' here, linking 'exact' directly with 'address', combining 'exact' with 'address' and 'new'.
-- 'I will arrive home around ten in the evening.' Kostya uses the perfective verb meaning 'will arrive' to focus on the single completed result, pairing it with 'home' and 'ten'.
-- 'Excellent, I will come right on time there.' Max expresses this naturally by combining the word for 'excellent' with 'will come' and 'right'.
-- 'Maybe I should buy something tasty for tea?' A polite gesture offering housewarming treats.
-- 'Better buy a pretty bouquet of flowers.' Kostya leads with the direct command form meaning 'buy', pairing it with 'better' and 'pretty'.
-- 'Why do you and I need flowers?' Max wonders about the strange floral request.
-- 'An elderly landlady lives in this apartment.' Kostya explains the presence of the apartment owner.
-- 'Understood, I will buy the freshest flowers!' Max promises to make a great first impression.
-- 'Then agreed, I am waiting for you tonight!' The two friends finalize their roommate arrangement. Alright, let's hear the whole thing once more.
+> With Kostya's help, Max finally finds a place to stay in Moscow, starting their friendship as roommates. Until then! Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'address' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

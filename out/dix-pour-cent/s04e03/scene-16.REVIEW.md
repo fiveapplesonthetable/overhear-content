@@ -27,5 +27,5 @@
 | 13 | `noemie` (Noémie) | Mon beau rôti est brûlé! | My nice roast is burned! | 798:tu me dis ça maintenant |
 
 ## Part 5 — Outro & Closing
-> Noemie discovers at the very last second that her roasted lamb will offend their vegetarian dinner guest. When you watch the episode, listen out for the expressions meaning 'look' and 'lamb'. You'll catch them now. See you next time.
+> Noemie discovers at the very last second that her roasted lamb will offend their vegetarian dinner guest. When you watch the episode, listen out for the expressions meaning 'look' and 'lamb'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne soirée!*

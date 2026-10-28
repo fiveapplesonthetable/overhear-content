@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Элеонора | А где наш морской котик? | And where is our fur seal? | #237 00:16:00: А где морской котик? | adapted: adapted |
-| 2 | Элеонора | Где норка? Я же договорилась с директором зоопарка. | Where is the mink? I made an arrangement with the zoo director. | #238 00:16:02: Где норка? Я же договорилась с директором<br>#238 00:16:02: зоопарка | adapted: adapted |
+| 1 | Нагиев | А где наш морской котик? | And where is our fur seal? | #237 00:16:00: А где морской котик? | adapted: adapted |
+| 2 | Нагиев | Где норка? Я же договорилась с директором зоопарка. | Where is the mink? I made an arrangement with the zoo director. | #238 00:16:02: Где норка? Я же договорилась с директором<br>#238 00:16:02: зоопарка | adapted: adapted |
 | 3 | Михаил | Там оборудование сломалось, а норка заболела. | The equipment broke down there, and the mink got sick. | #239 00:16:06: оборудование сломалось, а норка заболела | adapted: verbatim |
-| 4 | Элеонора | Мне на вечере нужны милые животные. | I need cute animals at the evening. | #241 00:16:16: Мне нужны милые животные | adapted: adapted |
+| 4 | Нагиев | Мне на вечере нужны милые животные. | I need cute animals at the evening. | #241 00:16:16: Мне нужны милые животные | adapted: adapted |
 | 5 | Михаил | Многие считают змей очень милыми. | Many people consider snakes very cute. | #242 00:16:20: Многие считают<br>#242 00:16:20: очень милыми | adapted: adapted |
-| 6 | Аня | Кто, как не мы, поддержит природу? | Who if not we will support nature? | #244 00:16:27: кто как не мы<br>#244 00:16:27: природу | adapted: adapted |
-| 7 | Аня | Сегодня у нас морской котик и норка. | Today we have a fur seal and a mink. | #246 00:16:37: Котик и норка | adapted: adapted |
-| 8 | Аня | И ещё наш дальневосточный полоз. | And also our Far Eastern rat snake. | #247 00:16:41: полос | adapted: adapted |
-| 9 | Аня | Но их сегодня, к сожалению, с нами нет. | But unfortunately they are not with us today. | #248 00:16:48: Сегодня, к сожалению, с нами нет | adapted: adapted |
-| 10 | Аня | Ни котика, ни норки — не доехали. | Neither the fur seal nor the mink made it here. | #249 00:16:51: Ни котика, ни норки не доехали | adapted: verbatim |
-| 11 | Аня | Они просто падают как мухи. | They are simply dropping like flies. | #250 00:16:54: как мухи | adapted: adapted |
-| 12 | Аня | Но на змею придётся сегодня скинуться. | But we will have to chip in for the snake today. | #251 00:16:56: придется скинуться | adapted: adapted |
+| 6 | Нагиев | Кто, как не мы, поддержит природу? | Who if not we will support nature? | #244 00:16:27: кто как не мы<br>#244 00:16:27: природу | adapted: adapted |
+| 7 | Нагиев | Сегодня у нас морской котик и норка. | Today we have a fur seal and a mink. | #246 00:16:37: Котик и норка | adapted: adapted |
+| 8 | Нагиев | И ещё наш дальневосточный полоз. | And also our Far Eastern rat snake. | #247 00:16:41: полос | adapted: adapted |
+| 9 | Нагиев | Но их сегодня, к сожалению, с нами нет. | But unfortunately they are not with us today. | #248 00:16:48: Сегодня, к сожалению, с нами нет | adapted: adapted |
+| 10 | Нагиев | Ни котика, ни норки — не доехали. | Neither the fur seal nor the mink made it here. | #249 00:16:51: Ни котика, ни норки не доехали | adapted: verbatim |
+| 11 | Нагиев | Они просто падают как мухи. | They are simply dropping like flies. | #250 00:16:54: как мухи | adapted: adapted |
+| 12 | Нагиев | Но на змею придётся сегодня скинуться. | But we will have to chip in for the snake today. | #251 00:16:56: придется скинуться | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

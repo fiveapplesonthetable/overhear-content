@@ -26,5 +26,5 @@
 | 12 | `colette` (Colette) | C'est un délit. Désolée. Au revoir. | It | 718:C'est un délit. Désolée, 719:Au revoir |
 
 ## Part 5 — Outro & Closing
-> Colette leaves the partners reeling from the news of a heavy fine and a commercial court summons. Next, Hélène Kerr demands to know how ASK will survive the audit. See you there.
+> Colette leaves the partners reeling from the news of a heavy fine and a commercial court summons. See you next time!
 - **Closing**: `colette`: *Bonne journée!*

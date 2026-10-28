@@ -11,9 +11,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Гость | Почему вы лезете на мою кухню? | Why are you meddling in my kitchen? | #197 00:14:27: вы лезете на мою кухню | adapted: adapted |
-| 2 | Аня | Потому что это мой ресторан. | Because this is my restaurant. | #198 00:14:30: А это мой ресторан | adapted: adapted |
-| 3 | Аня | И сегодня свадьба моей дочери. | And today is my daughter's wedding. | #199 00:14:31: И сегодня свадьба моей дочери | adapted: adapted |
-| 4 | Аня | Я буду контролировать каждое блюдо. | I will supervise every dish. | #200 00:14:33: я буду контролировать<br>#200 00:14:33: каждого блюда | adapted: adapted |
+| 2 | Гость | Потому что это мой ресторан. | Because this is my restaurant. | #198 00:14:30: А это мой ресторан | adapted: adapted |
+| 3 | Гость | И сегодня свадьба моей дочери. | And today is my daughter's wedding. | #199 00:14:31: И сегодня свадьба моей дочери | adapted: adapted |
+| 4 | Гость | Я буду контролировать каждое блюдо. | I will supervise every dish. | #200 00:14:33: я буду контролировать<br>#200 00:14:33: каждого блюда | adapted: adapted |
 | 5 | Гость | Ясно, тогда сами тут контролируйте. | Clear enough, then supervise it here yourself. | #201 00:14:37: Ясно<br>#203 00:14:43: Контролируйте | adapted: adapted |
 | 6 | Гость | Контролируйте дальше, уважаемый маэстро! | Keep supervising, respected maestro! | #204 00:14:46: Контролируйте, маэстро | adapted: adapted |
 | 7 | Гость | Проверяйте сами подачу каждого блюда! | Check the plating of every dish yourself! | #205 00:14:50: Контролируйте подачу каждого блюда | adapted: adapted |

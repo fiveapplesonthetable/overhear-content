@@ -12,15 +12,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Елена | Послушай, Кать, по дружбе часок побудь женой шейха. | Listen, Katya, as a friend, be the sheikh's wife for an hour. | #110 00:11:53: Послушай, Кать, по дружбе часок побудь женой Шейха | adapted: adapted |
 | 2 | Елена | Я к подружкам в «Метрополь», это близко. | I am going to my girlfriends at the Metropol, it is close by. | #111 00:11:59: Я к подружкам в<br>#112 00:12:01: Это близко | adapted: adapted |
-| 3 | Аня | Плохая идея. | That is a bad idea. | #112 00:12:01: Плохая идея | adapted: adapted |
+| 3 | Елена | Плохая идея. | That is a bad idea. | #112 00:12:01: Плохая идея | adapted: adapted |
 | 4 | Елена | Мы с тобой похожи, как две капли. | You and I look alike as two drops of water. | #113 00:12:02: Мы с тобой похожи, как две капли | adapted: adapted |
 | 5 | Елена | Никто не заметит. | Nobody will notice. | #114 00:12:06: Никто не заметит | adapted: adapted |
 | 6 | Елена | А муж вообще меня раз в месяц посещает. | And my husband only visits me once a month anyway. | #115 00:12:07: А муж вообще меня раз в месяц посещает | adapted: adapted |
 | 7 | Елена | А в этом месяце уже был. | And he already visited this month. | #116 00:12:11: А в этом уже был | adapted: adapted |
-| 8 | Аня | Нет, мне пора. | No, it is time for me to go. | #117 00:12:13: Мне пора | adapted: adapted |
+| 8 | Елена | Нет, мне пора. | No, it is time for me to go. | #117 00:12:13: Мне пора | adapted: adapted |
 | 9 | Елена | Тогда мне придётся рассказать, что ты меня напоила. | Then I will have to say that you got me drunk. | #117 00:12:13: Тогда мне придется рассказать, что ты меня напоила | adapted: adapted |
 | 10 | Елена | А ваш шеф-повар раздел меня и домогался. | And your head chef undressed me and harassed me. | #118 00:12:18: А ваш шеф-повар раздел меня и домогался | adapted: adapted |
-| 11 | Аня | Что за бред? | What kind of nonsense is that? | #119 00:12:22: Что за бред | adapted: adapted |
+| 11 | Елена | Что за бред? | What kind of nonsense is that? | #119 00:12:22: Что за бред | adapted: adapted |
 | 12 | Елена | И кому поверит мой муж? | And whom will my husband believe? | #119 00:12:22: И кому поверит мой муж | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

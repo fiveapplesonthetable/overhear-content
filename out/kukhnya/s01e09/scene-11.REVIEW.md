@@ -1,32 +1,40 @@
-# kukhnya-s01e09-scene-11: review sheet
+# Игра в Рататуя  (Playing Ratatouille) — `kukhnya-s01e09-scene-11`
 
-Title: Игра в Рататуя  (Playing Ratatouille)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.09
-Cues 245-263. Max and little Alisa play Ratatouille in the kitchen while the staff frantically searches for her.
+**Source:** Кухня (Kukhnya) S1.09 · `sources/kukhnya/s01/e09.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `alisa` | angelina | Алиса |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> Tucked away in a quiet corner of Claude Monet's kitchen, Max and young Alisa play a lively cooking game inspired by the movie Ratatouille. While the pair happily decorate their culinary creation with chocolate, waitress Nastya runs around the restaurant in a total panic searching for the girl. Let's listen to their playful kitchen adventure in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Остался самый последний штрих. | Only the very last touch remains. | #245 00:15:20: Остался последний штрих | verbatim |
-| 2 | Алиса | Смотри, я сама это приготовила! | Look, I made this myself! | #248 00:15:32: И я это приготовил! | verbatim |
-| 3 | Макс | Это я управляю тобой, как в мультике! | It is I who control you, like in the cartoon! | #249 00:15:34: Не ты, а я управляю тобой!<br>#250 00:15:38: Как в мультике «Рататуйя»! | verbatim |
-| 4 | Алиса | То есть ты хитрая маленькая крыса? | So you are a clever little rat? | #251 00:15:41: То есть ты крыса? Уи! | verbatim |
-| 5 | Макс | Художники всегда подписывают свой шедевр. | Artists always sign their masterpiece. | #253 00:15:47: Что делают художники, когда заканчивают свой шедевр?<br>#255 00:15:54: Ну, ставят автограф! | verbatim |
-| 6 | Макс | Куда пропал наш жидкий шоколад? | Where has our liquid chocolate gone? | #256 00:15:57: Где мой жидкий шоколад? | verbatim |
-| 7 | Алиса | Ты сам его только что съел! | You ate it yourself just now! | #257 00:16:01: Ты сожрал?<br>#258 00:16:05: Не я, а ты | verbatim |
-| 8 | Макс | Неправда, я оставил его для украшения. | Not true, I left it for decoration. | new | new |
-| 9 | Настя | Макс, ты не видел маленькую Алису? | Max, have you not seen little Alisa? | #262 00:16:14: Настя, что там у вас?<br>#263 00:16:16: Алисы нигде нет | verbatim |
-| 10 | Макс | Она сидит здесь и помогает мне. | She is sitting here helping me. | new | new |
-| 11 | Настя | Шеф уже ищет её по всему ресторану! | The chef is already looking for her all over the restaurant! | #259 00:16:08: ее нигде нет<br>#261 00:16:12: Ищи! | verbatim |
-| 12 | Алиса | Мы готовим самое вкусное блюдо на свете! | We are cooking the most delicious dish in the world! | new | new |
-| 13 | Настя | Беги скорее к папе, пока он добрый. | Run to dad quickly, while he is kind. | new | new |
+| 0 | Макс | Остался самый последний штрих. | Only the very last touch remains. | #245 "Остался последний штрих" |  |
+| 1 | Алиса | Смотри, я сама это приготовила! | Look, I made this myself! | #248 "И я это приготовил!" |  |
+| 2 | Макс | Это я управляю тобой, как в мультике! | It is I who control you, like in the cartoon! | #249 "Не ты, а я управляю тобой!", #250 "Как в мультике «Рататуйя»!" |  |
+| 3 | Алиса | То есть ты хитрая маленькая крыса? | So you are a clever little rat? | #251 "То есть ты крыса? Уи!" |  |
+| 4 | Макс | Художники всегда подписывают свой шедевр. | Artists always sign their masterpiece. | #253 "Что делают художники, когда заканчивают свой шедевр?", #255 "Ну, ставят автограф!" |  |
+| 5 | Макс | Куда пропал наш жидкий шоколад? | Where has our liquid chocolate gone? | #256 "Где мой жидкий шоколад?" |  |
+| 6 | Алиса | Ты сам его только что съел! | You ate it yourself just now! | #257 "Ты сожрал?", #258 "Не я, а ты" |  |
+| 7 | Макс | Неправда, я оставил его для украшения. | Not true, I left it for decoration. | *(added)* |  |
+| 8 | Алиса | Макс, ты не видел маленькую Алису? | Max, have you not seen little Alisa? | #262 "Настя, что там у вас?", #263 "Алисы нигде нет" |  |
+| 9 | Макс | Она сидит здесь и помогает мне. | She is sitting here helping me. | *(added)* |  |
+| 10 | Алиса | Шеф уже ищет её по всему ресторану! | The chef is already looking for her all over the restaurant! | #259 "ее нигде нет", #261 "Ищи!" |  |
+| 11 | Алиса | Мы готовим самое вкусное блюдо на свете! | We are cooking the most delicious dish in the world! | *(added)* |  |
+| 12 | Алиса | Беги скорее к папе, пока он добрый. | Run to dad quickly, while he is kind. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'It is I who control you, like in the cartoon!' An emphatic pronoun construction with an instrumental comparative simile in the sentence.
-- 'Artists always sign their masterpiece.' The general statement uses a present tense verb and an accusative object for the idea.
-- 'You ate it yourself just now!' The child playfully accuses the cook using an emphatic pronoun and a past tense verb.
-- 'The chef is already looking for her all over the restaurant!' An urgent present tense statement with a prepositional locative phrase for the listener. Now, let's listen to Max and Alisa's playful kitchen dialogue once more.
+> That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!
+
+**Макс:** Пока!

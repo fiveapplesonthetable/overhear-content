@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Listen, so what did you decide, are you buying the car from me?' Spoken Russian keeps this brisk, leaning on 'listen' and finishing on 'car'. Max answers right away.
 - 'Listen, Eva, probably not after all.' Notice how Russian expresses 'listen' and 'no' with crisp inflection rather than helper words.
 - 'Its color is too girly for me.' Here the Russian phrasing highlights 'she' before landing on 'me'.
-- 'And why are you not offering it to us?' The grammar packs 'and' and 'suggest' into a tight, idiomatic kitchen exchange.
+- 'And why are you not offering it to us?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Do you think we cannot buy it, how much does it cost?' Kostya anchors the line on 'think', while 'is standing' completes the thought.
 - 'Five hundred and fifty thousand rubles.' The grammar packs 'five hundred' and 'rubles' into a tight, idiomatic kitchen exchange.
 - 'We are a tiny bit short, but we will think about it.' Kostya anchors the line on 'at', while 'will think' completes the thought.

@@ -27,5 +27,5 @@
 | 13 | `fabrice` (Fabrice) | Sous la pluie? Bréhier va m'entendre! | In the rain? Bréhier will hear from me! | 534:Il avait l'air comment |
 
 ## Part 5 — Outro & Closing
-> Devastated by the supposed loss of a James Bond villain role, Fabrice Luchini directs all his anger at his agent Bréhier. Listen to the scene once more to master French conversational expressions. Until next time.
+> Devastated by the supposed loss of a James Bond villain role, Fabrice Luchini directs all his anger at his agent Bréhier. Listen to the scene once more to master French conversational expressions. See you next time!
 - **Closing**: `fabrice`: *Bonne journée!*

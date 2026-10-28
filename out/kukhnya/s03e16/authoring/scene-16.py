@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 16
-TITLE = 'Нагиев хвалит сёмгу  (Nagiyev Praises the Salmon)'
+TITLE = "Нагиев хвалит сёмгу  (Nagiyev Praises the Salmon)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "nagiyev": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = 'Chef Barinov is horrified when Max admits he served Sauce Lavrov to Nagiyev—until Nagiyev walks into the kitchen, praises the delicious salmon, and orders portions for all his poker guests! Listen to the Russian conversation first.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Seeing Nagiyev completely fine after eating the salmon convinces Chef Barinov to serve it to the entire poker table—until Kostya reveals Nagiyev's secret in Scene Seventeen!"
-CLOSING = ('nagiyev', 'Молодец, очень вкусно!')
+OUTRO = "Seeing Nagiyev completely fine after eating the salmon convinces Chef Barinov to serve it to the entire poker table—until Kostya reveals Nagiyev's secret in Scene Seventeen! See you next time!"
+CLOSING = ("nagiyev", "Увидимся!")

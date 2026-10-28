@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 27
-TITLE = "Viens à New York  (Come to New York)"
-LEVEL = "A1 — débutant"
+TITLE = 'Viens à New York  (Come to New York)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "camille": "emilie"}
-LABELS = {"lea": "Andréa", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie'}
+LABELS = {'lea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At the poolside of the Cannes party, Andréa spots Camille and invites her for a toast. Reaffirming their bond, Andréa asks Camille to follow her to New York to build a new career abroad. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andréa rebuilds trust with Camille and offers her a thrilling new horizon in New York step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "The unexpected reunion in Cannes opens an exhilarating international chapter for Andréa and Camille. Let's review the friendship and travel vocabulary from this scene. Until next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "The unexpected reunion in Cannes opens an exhilarating international chapter for Andréa and Camille. Let's review the friendship and travel vocabulary from this scene. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('camille', "Salut Andréa, laisse-moi t'expliquer ma présence...", 'Hi Andréa, let me explain my presence...', [(765, 'Salut.'), (766, 'Laisse-moi expliquer...')], ''),
     ('lea', "Ce n'est absolument pas la peine.", 'There is absolutely no need.', [(767, "Ce n'est pas la peine.")], ''),

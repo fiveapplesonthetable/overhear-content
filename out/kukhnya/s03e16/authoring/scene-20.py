@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 20
 TITLE = "Письмо Кристины и просроченная рыба  (Kristina's Letter and the Expired Fish)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kristina': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'kristina': 'Кристина', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kristina": "anja", "anya": "alisa"}
+LABELS = {"kristina": "Кристина", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = 'In our final scene of Episode Sixteen, Nagiyev finds a farewell letter from Kristina thanking him for using his birthday as the password to all his bank accounts before fleeing Russia! Meanwhile, Chef Barinov reveals why the guests really got sick. Listen first.'
@@ -23,9 +23,9 @@ STORY = [
     ('anya', 'Мы верим в то, чего не может быть, и верим в себя.', 'We believe in what cannot be, and we believe in ourselves.', [(365, 'Верим в то, чего не может быть'), (366, 'Верим в себя')], 'adapted'),
     ('anya', 'Но без веры мы рискуем остаться в полном одиночестве.', 'But without faith we risk being left in complete solitude.', [(367, 'Но без веры мы рискуем остаться в одиночестве')], 'adapted'),
     ('anya', 'Шеф, а почему вчера плохо всем гостям стало?', 'Chef, and why did all the guests get sick yesterday?', [(368, 'плохо'), (368, 'всем')], 'adapted'),
-    ('chef', 'Рыба была просроченная, надо было её сразу выбросить.', 'The fish was expired, we should have thrown it out right away.', [(369, 'Рыба была просроченная, надо было выбросить')], 'adapted'),
+    ('kristina', 'Рыба была просроченная, надо было её сразу выбросить.', 'The fish was expired, we should have thrown it out right away.', [(369, 'Рыба была просроченная, надо было выбросить')], 'adapted'),
     ('anya', 'Значит, мой соус хороший, его можно поставить в меню?', 'So my sauce is good, can we put it on the menu?', [(370, 'А я')], 'adapted'),
-    ('chef', 'Никак нет, но у тебя ещё всё впереди!', 'Not a chance, but you still have everything ahead of you!', [(372, 'нет. У тебя еще все впереди')], 'adapted'),
+    ('kristina', 'Никак нет, но у тебя ещё всё впереди!', 'Not a chance, but you still have everything ahead of you!', [(372, 'нет. У тебя еще все впереди')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -47,4 +47,4 @@ WALK = [
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
 OUTRO = "And that brings Episode Sixteen of Season Three to a close! Max's sauce was innocent after all, even if Chef Barinov still won't put it on the menu. See you next time!"
-CLOSING = ('chef', 'У тебя ещё всё впереди.')
+CLOSING = ("kristina", "До свидания!")

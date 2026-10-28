@@ -14,10 +14,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Сеня | Я сам сегодня это несу! | I am carrying this myself today! | #164 00:16:44: Я несу | adapted: adapted |
 | 3 | Сеня | Какие там огромные чаевые! | What huge tips they give in there! | #165 00:16:49: какие там чаевые? | adapted: adapted |
 | 4 | Сеня | У меня таких чаевых ещё никогда не было. | I have never had tips like these before. | #166 00:17:02: у меня таких чаевых еще никогда не было | adapted: verbatim |
-| 5 | Аня | Хоть бы с друзьями поделился. | You could at least share with your friends. | #168 00:17:07: Хоть бы поделился | adapted: adapted |
+| 5 | Михаил | Хоть бы с друзьями поделился. | You could at least share with your friends. | #168 00:17:07: Хоть бы поделился | adapted: adapted |
 | 6 | Михаил | Немедленно уберите это со стола. | Immediately take this off the table. | #170 00:17:20: Уберите это | adapted: adapted |
 | 7 | Михаил | Не люблю, когда мясо плохо прожарено. | I do not like it when the meat is poorly cooked. | #171 00:17:21: Не люблю, когда мясо плохо прожарено | adapted: verbatim |
-| 8 | Аня | Сейчас я всё быстро переделаю. | Right now I will redo everything quickly. | #172 00:17:23: Сейчас я все переделаю | adapted: adapted |
+| 8 | Михаил | Сейчас я всё быстро переделаю. | Right now I will redo everything quickly. | #172 00:17:23: Сейчас я все переделаю | adapted: adapted |
 | 9 | Михаил | Уже не надо. Принесите кофе. | No need anymore. Bring some coffee. | #173 00:17:26: Уже не надо. Принесите кофе | adapted: verbatim |
 | 10 | Михаил | Он просто так сегодня шутит. | He is just joking like that today. | #175 00:17:29: Он так шутит | adapted: adapted |
 | 11 | Сеня | Этому гостю очень повезло, да? | This guest got really lucky, right? | #176 00:17:35: повезло, да? | adapted: adapted |

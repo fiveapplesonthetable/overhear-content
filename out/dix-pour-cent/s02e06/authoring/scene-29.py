@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 29
-TITLE = "À la recherche de Sofia  (Looking for Sofia)"
-LEVEL = "A1 — débutant"
+TITLE = 'À la recherche de Sofia  (Looking for Sofia)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "camille": "emilie", "gabriel": "theo"}
-LABELS = {"hicham": "Hicham", "camille": "Camille", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'camille': 'emilie', 'gabriel': 'theo'}
+LABELS = {'hicham': 'Hicham', 'camille': 'Camille', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At a lavish Cannes Film Festival party, Gabriel is searching frantically for Sofia. Meanwhile, Hicham catches up with Camille and tries to lure her back to the agency with an exciting offer. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through Gabriel's search across the party step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'While Gabriel frantically hunts for Sofia across the crowded Cannes party, Camille and Hicham discuss her exciting prospects with an American agency. Join us next time to see what happens next.'
-CLOSING = ("hicham", "À demain!")
+OUTRO = 'While Gabriel frantically hunts for Sofia across the crowded Cannes party, Camille and Hicham discuss her exciting prospects with an American agency. See you next time!'
+CLOSING = ('hicham', 'À demain!')
 STORY = [
     ('camille', "Gabriel, j'ai à te parler.", 'Gabriel, I need to talk to you.', [(815, "J'ai à te parler")], ''),
     ('gabriel', 'Pas maintenant, Camille!', 'Not now, Camille!', [(816, 'Pas maintenant')], ''),

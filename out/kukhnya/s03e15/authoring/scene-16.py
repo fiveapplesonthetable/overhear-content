@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 16
 TITLE = "Одиннадцать друзей Нагиева  (Nagiyev's Ocean's Eleven)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = "In the kitchen, the cooks rehearse bumping into Nagiyev's friend, tossing fish across the room, and mopping around his feet so Chef Barinov can secretly swap Nagiyev's ruined rabbit with a gourmet one! Listen to the Russian scene first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "The kitchen rehearsal goes off without a hitch—until Nagiyev's friend arrives and changes the rules of the bet! Meanwhile, Nastya has a surprise for Kostya in Scene Seventeen."
-CLOSING = ('nagiyev', 'Все молодцы, все красавцы!')
+OUTRO = "The kitchen rehearsal goes off without a hitch—until Nagiyev's friend arrives and changes the rules of the bet! Meanwhile, Nastya has a surprise for Kostya in Scene Seventeen. See you next time!"
+CLOSING = ("nagiyev", "Увидимся!")

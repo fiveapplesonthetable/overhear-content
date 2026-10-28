@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 15
-TITLE = "Un hérisson en boule  (A Curled-Up Hedgehog)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un hérisson en boule  (A Curled-Up Hedgehog)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = 'Still in the taxi, Gabriel continues describing his humiliating panic to Andrea. Convinced he ruined a golden opportunity with Monica Bellucci, he desperately seeks refuge for the night. Listen to the conversation in French first.'
 OPENER = 'Let us discover how Gabriel describes his insecurity to Andrea.'
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Gabriel finds refuge with his closest friend after a humiliating encounter with a movie star. When you watch the episode, listen out for the expressions meaning 'I was' and 'hedgehog'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "Gabriel finds refuge with his closest friend after a humiliating encounter with a movie star. When you watch the episode, listen out for the expressions meaning 'I was' and 'hedgehog'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('gabriel', "J'étais comme un hérisson en boule!", 'I was like a curled-up hedgehog!', [], ''),
     ('lea', 'Tu exagères toujours tes émotions, Gabriel.', 'You always exaggerate your emotions, Gabriel.', [], ''),

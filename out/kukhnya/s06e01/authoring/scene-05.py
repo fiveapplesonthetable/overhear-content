@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e01-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 1
 SCENE = 5
-TITLE = 'Новый директор ресторана  (The New Restaurant Director)'
+TITLE = "Новый директор ресторана  (The New Restaurant Director)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'nikita': 'angelina'}
-LABELS = {'anya': 'Элеонора', 'nagiyev': 'Нагиев', 'nikita': 'Никита'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "nikita": "anja"}
+LABELS = {"nagiyev": "Нагиев", "nikita": "Никита"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.01'
 SOURCE_FILE = 'sources/kukhnya/s06/e01.ru.srt'
 
 INTRO = "As Dmitry Nagiyev protests that his bride cannot fire everyone he smiles at, he compliments the female pianist's fingers—prompting Eleonora to fire her too and appoint waiter Nikita as the new restaurant director."
@@ -18,12 +18,12 @@ STORY = [
     ('nagiyev', 'Нельзя увольнять всех, кому я улыбаюсь.', 'You cannot fire everyone I smile at.', [(66, 'Нельзя увольнять всех, кому я улыбаюсь')], 'exact'),
     ('nagiyev', 'Какие красивые у вас пальцы.', 'What beautiful fingers you have.', [(69, 'Какие красивые у вас пальцы')], 'exact'),
     ('nagiyev', 'А что вы делаете сегодня?', 'And what are you doing today?', [(70, 'А что вы сегодня')], 'adapted'),
-    ('anya', 'Вы уволены.', 'You are fired.', [(71, 'Вы уволены')], 'exact'),
-    ('anya', 'И ваши пальцы тоже.', 'And your fingers too.', [(72, 'И ваши пальцы тоже')], 'exact'),
+    ('nagiyev', 'Вы уволены.', 'You are fired.', [(71, 'Вы уволены')], 'exact'),
+    ('nagiyev', 'И ваши пальцы тоже.', 'And your fingers too.', [(72, 'И ваши пальцы тоже')], 'exact'),
     ('nagiyev', 'Ну ладно, ты уволила всех.', 'Alright then, you fired everyone.', [(73, 'Ну ладно, ты уволила')], 'adapted'),
     ('nagiyev', 'А кто работать будет сегодня?', 'Then who is going to run things today?', [(77, 'Кто рулить-то будет')], 'adapted'),
-    ('anya', 'Никита, иди сюда!', 'Nikita, come here!', [(78, 'Никита!')], 'adapted'),
-    ('anya', 'Поздравляю, ты директор ресторана.', 'Congratulations, you are the restaurant director.', [(80, 'Поздравляю. С этой минуты ты директор ресторана')], 'adapted'),
+    ('nagiyev', 'Никита, иди сюда!', 'Nikita, come here!', [(78, 'Никита!')], 'adapted'),
+    ('nagiyev', 'Поздравляю, ты директор ресторана.', 'Congratulations, you are the restaurant director.', [(80, 'Поздравляю. С этой минуты ты директор ресторана')], 'adapted'),
     ('nikita', 'Спасибо, Элеонора Андреевна.', 'Thank you, Eleonora Andreyevna.', [(80, 'Поздравляю')], 'adapted'),
     ('nagiyev', 'Никита Андреевич, кофе?', 'Nikita Andreyevich, coffee?', [(81, 'Никита Андреевич, кофе?')], 'exact'),
 ]
@@ -32,7 +32,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 
 WALK = [
     (0, None, "'You cannot act like this.' Spoken Russian keeps this brisk, leaning on 'one must not' and finishing on 'to do'."),
-    (1, None, "'You cannot fire everyone I smile at.' Notice the reflexive suffix on the verb meaning 'smile', turning the action back on the subject."),
+    (1, None, "'You cannot fire everyone I smile at.' Here Nagiyev anchors the thought on 'one must not' and finishes on 'smile', keeping the spoken rhythm brisk and natural."),
     (2, None, "'What beautiful fingers you have.' The meaning hinges on 'what' working together with 'fingers' in spoken Russian."),
     (3, None, "'And what are you doing today?' Dmitry Nagiyev chooses the respectful plural 'you' alongside 'tonight' to keep a polite distance."),
     (4, None, "'You are fired.' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'to fire'."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'In a matter of seconds, Nikita goes from waiter to restaurant director, while the wedding still lacks a pianist. See you in the next scene.'
-CLOSING = ('anya', 'С этой минуты ты директор.')
+OUTRO = 'In a matter of seconds, Nikita goes from waiter to restaurant director, while the wedding still lacks a pianist. Until next time!'
+CLOSING = ("nagiyev", "До встречи!")

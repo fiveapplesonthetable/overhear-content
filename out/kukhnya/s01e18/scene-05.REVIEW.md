@@ -1,41 +1,40 @@
-# kukhnya-s01e18-scene-05: review sheet
+# Заказ у стойки  (Order at the Bar) — `kukhnya-s01e18-scene-05`
 
-Title: Заказ у стойки  (Order at the Bar)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.18
-Cue 133. At the bar in Claude Monet, Kostya serves a customer a drink and discusses customer service and drinks with Max.
+**Source:** Кухня (Kukhnya) S1.18 · `sources/kukhnya/s01/e18.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `kostya` | anja | Костя |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> At the bar of restaurant Claude Monet, Kostya serves a customer a beverage with polite service. Max stops by the bar to chat about working with customers and serving drinks. Let us listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Костя | Пожалуйста, вот ваш вкусный напиток. | Here you go, here is your delicious drink. | #133 00:08:01: Пожалуйста. | adapted: adapted |
-| 2 | Макс | Костя, ты отлично работаешь за этой стойкой. | Kostya, you work excellently behind this bar. | new | new: new |
-| 3 | Костя | Спасибо, я стараюсь быть очень вежливым. | Thank you, I try to be very polite. | new | new: new |
-| 4 | Макс | Гости всегда любят свежие и вкусные напитки. | Guests always love fresh and delicious drinks. | new | new: new |
-| 5 | Костя | Наш бар предлагает самые лучшие дорогие напитки. | Our bar offers the very best expensive drinks. | new | new: new |
-| 6 | Макс | Люди в зале готовы платить любые деньги. | People in the dining room are ready to pay any money. | new | new: new |
-| 7 | Костя | Главное — всегда честно делать свою работу. | The main thing is always to do your work honestly. | new | new: new |
-| 8 | Макс | Но некоторые бармены знают хитрые секреты. | However, some barmen know clever secrets. | new | new: new |
-| 9 | Костя | Я не хочу обманывать наших гостей. | I do not want to deceive our guests. | new | new: new |
-| 10 | Макс | Ты просто слишком честный и добрый парень. | You are simply too honest and kind a guy. | new | new: new |
-| 11 | Костя | Зато моя совесть абсолютно чиста сегодня. | On the other hand, my conscience is absolutely clean today. | new | new: new |
-| 12 | Макс | Ладно, продолжай наливать сок и вино. | All right, keep pouring juice and wine. | new | new: new |
-| 13 | Костя | Я с радостью налью гостям сок! | I will gladly pour juice for the guests! | new | new: new |
+| 0 | Костя | Пожалуйста, вот ваш вкусный напиток. | Here you go, here is your delicious drink. | #133 "Пожалуйста." |  |
+| 1 | Макс | Костя, ты отлично работаешь за этой стойкой. | Kostya, you work excellently behind this bar. | *(added)* |  |
+| 2 | Костя | Спасибо, я стараюсь быть очень вежливым. | Thank you, I try to be very polite. | *(added)* |  |
+| 3 | Макс | Гости всегда любят свежие и вкусные напитки. | Guests always love fresh and delicious drinks. | *(added)* |  |
+| 4 | Костя | Наш бар предлагает самые лучшие дорогие напитки. | Our bar offers the very best expensive drinks. | *(added)* |  |
+| 5 | Макс | Люди в зале готовы платить любые деньги. | People in the dining room are ready to pay any money. | *(added)* |  |
+| 6 | Костя | Главное — всегда честно делать свою работу. | The main thing is always to do your work honestly. | *(added)* |  |
+| 7 | Макс | Но некоторые бармены знают хитрые секреты. | However, some barmen know clever secrets. | *(added)* |  |
+| 8 | Костя | Я не хочу обманывать наших гостей. | I do not want to deceive our guests. | *(added)* |  |
+| 9 | Макс | Ты просто слишком честный и добрый парень. | You are simply too honest and kind a guy. | *(added)* |  |
+| 10 | Костя | Зато моя совесть абсолютно чиста сегодня. | On the other hand, my conscience is absolutely clean today. | *(added)* |  |
+| 11 | Макс | Ладно, продолжай наливать сок и вино. | All right, keep pouring juice and wine. | *(added)* |  |
+| 12 | Костя | Я с радостью налью гостям сок! | I will gladly pour juice for the guests! | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Here you go, here is your delicious drink.' Russian omits the present-tense verb 'to be' here, linking 'delicious' directly with 'drink' to make the point directly in conversation.
-- 'Kostya, you work excellently behind this bar.' Here Max anchors the line on the word meaning 'perfect' and builds the thought around 'are working' and 'counter'.
-- 'Thank you, I try to be very polite.' The phrasing opens with 'thank you' before bringing in 'try' and 'be' to make the point clear.
-- 'Guests always love fresh and delicious drinks.' Max expresses this naturally by combining the word for 'visitors' with 'always' and 'love'.
-- 'Our bar offers the very best expensive drinks.' Kostya puts the word for 'bar' together with 'offers' and 'best' in a crisp, natural spoken turn of phrase.
-- 'People in the dining room are ready to pay any money.' Here Max anchors the line on the word meaning 'people' and builds the thought around 'hall' and 'ready'.
-- 'The main thing is always to do your work honestly.' The phrasing opens with 'important' before bringing in 'always' and 'honestly' to make the point clear.
-- 'However, some barmen know clever secrets.' Max expresses this naturally by combining the word for 'barmen' with 'know' and 'clever'.
-- 'I do not want to deceive our guests.' Kostya chooses the imperfective verb meaning 'want' for the ongoing action, followed by 'to deceive' and 'guests'.
-- 'You are simply too honest and kind a guy.' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'too', pairing it with 'the honest' and 'good'.
-- 'On the other hand, my conscience is absolutely clean today.' Russian omits the present-tense verb 'to be' here, linking 'conscience' directly with 'completely', pairing it with 'clean' and 'today'.
-- 'All right, keep pouring juice and wine.' Max chooses the imperfective verb meaning 'continue' for the ongoing action, followed by 'to pour' and 'juice'.
-- 'I will gladly pour juice for the guests!' Kostya puts the word for 'joy' together with 'will pour' and 'guests' in a crisp, natural spoken turn of phrase.
+> Dedicated to honest service, Kostya continues mixing and pouring drinks at the bar while Max prepares to observe the evening crowd. Next time you watch the episode, listen for the Russian expressions for 'tasty' and 'drink' — you will catch every word right away. See you next time!
+
+**Костя:** Пока!

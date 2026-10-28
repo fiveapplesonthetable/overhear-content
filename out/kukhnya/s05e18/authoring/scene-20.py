@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e18-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 18
 SCENE = 20
-TITLE = 'Опоздание на выписку и разговор с Викой  (Late for the Discharge and Talking with Vika)'
+TITLE = "Опоздание на выписку и разговор с Викой  (Late for the Discharge and Talking with Vika)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'doctor': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'doctor': 'Врач'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "doctor": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "doctor": "Врач"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.18'
 SOURCE_FILE = 'sources/kukhnya/s05/e18.ru.srt'
 
 INTRO = 'Exhausted from building the baby crib until dawn, Max arrives at the maternity ward with flowers only to learn that Tanya already took Vika home. At the apartment, Vika makes a painful decision.'
@@ -33,7 +33,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 WALK = [
     (0, None, "'Tell me, when will Viktoria Goncharova be discharged?' The grammar packs 'say' and 'to issue' into a tight, idiomatic kitchen exchange."),
     (1, None, "'She was discharged early this morning.' Notice how Russian expresses 'she' and 'to issue' with crisp inflection rather than helper words."),
-    (2, None, "'It seems her sister picked her up.' Notice the reflexive suffix on the verb meaning 'it seems', turning the action back on the subject."),
+    (2, None, "'It seems her sister picked her up.' Here the doctor anchors the thought on 'it seems' and finishes on 'took away', keeping the spoken rhythm brisk and natural."),
     (3, None, "'Hi, where were you all morning?' In Russian, the idea of 'hello' flows naturally into 'was' without extra filler words."),
     (4, None, "'I went to the hospital, I wanted to pick you up.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'to take away'. Vika answers right away."),
     (5, None, "'Max, nothing is going to work out between us.' Vika anchors the line on 'Max', while 'will work out' completes the thought."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Determined to provide for his newborn daughter, Max vows to earn more money at the restaurant. See you next time.'
-CLOSING = ('anya', 'Буду помогать своей семье.')
+OUTRO = 'Determined to provide for his newborn daughter, Max vows to earn more money at the restaurant. See you next time!'
+CLOSING = ("anya", "Пока!")

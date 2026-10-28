@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Макс, ну как ты себя чувствуешь, друг? | Max, how are you feeling, my friend? | #23 00:02:45: как ты | adapted: adapted |
+| 1 | Врач | Макс, ну как ты себя чувствуешь, друг? | Max, how are you feeling, my friend? | #23 00:02:45: как ты | adapted: adapted |
 | 2 | Аня | Здравствуйте, скажите, а мы с вами знакомы? | Hello, tell me, do we know each other? | #25 00:02:50: Знакомый | adapted: adapted |
-| 3 | Костя | Очень смешно! Подожди, я сейчас не понял. | Very funny! Wait, I do not get it right now. | #26 00:02:52: Очень смешно<br>#27 00:02:55: Не понял | adapted: adapted |
+| 3 | Врач | Очень смешно! Подожди, я сейчас не понял. | Very funny! Wait, I do not get it right now. | #26 00:02:52: Очень смешно<br>#27 00:02:55: Не понял | adapted: adapted |
 | 4 | Врач | Ну, как сегодня самочувствие нашего больного? | Well, how is our patient feeling today? | #28 00:02:57: как самочувствие нашего больного | adapted: adapted |
-| 5 | Костя | Доктор, кажется, у него что-то с памятью. | Doctor, it seems there is something wrong with his memory. | #29 00:03:01: Доктор, кажется, у него что-то с памятью | adapted: adapted |
+| 5 | Врач | Доктор, кажется, у него что-то с памятью. | Doctor, it seems there is something wrong with his memory. | #29 00:03:01: Доктор, кажется, у него что-то с памятью | adapted: adapted |
 | 6 | Врач | Удар был сильным, это могло вызвать амнезию. | The blow was strong, it could have caused amnesia. | #31 00:03:07: Удар был сильным. Это могло вызвать<br>#31 00:03:07: амнезию | adapted: adapted |
 | 7 | Врач | Вот посмотрите сюда, видите тёмное пятно? | Look right here, do you see the dark spot? | #32 00:03:13: Вот посмотрите сюда<br>#33 00:03:16: Видите темное пятно | adapted: adapted |
 | 8 | Врач | Это гематома, она и стала причиной потери памяти. | That is a hematoma, it became the cause of memory loss. | #34 00:03:19: Это гематома<br>#35 00:03:20: быть причиной потери памяти | adapted: adapted |
-| 9 | Костя | Он помнит всё, что происходило два года назад. | He remembers everything that happened two years ago. | #37 00:03:28: Он помнит все, что происходило<br>#37 00:03:28: два года назад | adapted: adapted |
+| 9 | Врач | Он помнит всё, что происходило два года назад. | He remembers everything that happened two years ago. | #37 00:03:28: Он помнит все, что происходило<br>#37 00:03:28: два года назад | adapted: adapted |
 | 10 | Врач | Сначала к человеку возвращаются очень старые воспоминания. | First very old memories return to a person. | #38 00:03:31: воспоминания возвращаются<br>#39 00:03:36: Сначала очень старые воспоминания | adapted: adapted |
-| 11 | Костя | Если вовремя не сохранился, начинаешь игру заново! | If you did not save in time, you start the game over! | #43 00:03:47: если не сохранился, начинаешь заново | adapted: adapted |
+| 11 | Врач | Если вовремя не сохранился, начинаешь игру заново! | If you did not save in time, you start the game over! | #43 00:03:47: если не сохранился, начинаешь заново | adapted: adapted |
 | 12 | Врач | Придёте завтра утром, сейчас больному нужен покой. | Come back tomorrow morning, right now the patient needs rest. | #46 00:03:55: Придете завтра, больному нужен покой | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

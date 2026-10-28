@@ -11,11 +11,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Настя | Не будем мы ни от чего отказываться. | We are not going to refuse anything. | #148 00:09:33: Не будем мы<br>#148 00:09:33: чего отказываться | adapted: adapted |
-| 2 | Аня | Ты же сама говорила, что это кровавые деньги. | You said yourself that it is blood money. | #149 00:09:37: Ты же сама говорила, что это кровавые деньги | adapted: exact |
+| 2 | Денис | Ты же сама говорила, что это кровавые деньги. | You said yourself that it is blood money. | #149 00:09:37: Ты же сама говорила, что это кровавые деньги | adapted: exact |
 | 3 | Настя | Зато у нашего сына своя комната. | On the other hand, our son has his own room. | #151 00:09:41: своя комната | adapted: adapted |
 | 4 | Настя | В хорошей квартире, в хорошем районе. | In a good apartment, in a good neighborhood. | #152 00:09:43: В хорошей квартире, в хорошем районе | adapted: exact |
 | 5 | Настя | Ради сына я готова поступиться своими принципами. | For the sake of our son I am ready to compromise my principles. | #153 00:09:45: Ради сына я готова<br>#153 00:09:45: со своими принципами | adapted: adapted |
-| 6 | Аня | Может, ты и права. | Maybe you are right. | #154 00:09:50: Может, ты права | adapted: adapted |
+| 6 | Денис | Может, ты и права. | Maybe you are right. | #154 00:09:50: Может, ты права | adapted: adapted |
 | 7 | Настя | Может, сходишь в магазин, отметим новоселье? | Maybe you will go to the store so we can celebrate our housewarming? | #155 00:09:53: Может, сходишь в магазин?<br>#156 00:09:55: Отметим новоселье | adapted: adapted |
 | 8 | Денис | Играем до десяти голов. | We are playing to ten goals. | #157 00:10:05: Играем до<br>#157 00:10:05: голов | adapted: adapted |
 | 9 | Денис | Катя, за счетом последишь? | Katya, will you keep track of the score? | #158 00:10:09: за счетом последишь? | adapted: adapted |

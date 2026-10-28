@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Did someone boil socks? Why does it smell like this?' Dmitry Nagiyev brings out the contrast between 'someone' and 'socks' in a few short words.
 - 'Is this some cheap cafeteria we have here?' Dmitry Nagiyev raises the pitch on 'here' to turn the phrase into a direct spoken question.
 - 'Dima, do not worry, we will fix everything right now.' Chef Barinov brings out the contrast between 'Dima' and 'not' in a few short words.
-- 'Pull yourselves together, we will still manage to cook everything.' Notice the reflexive suffix on the verb meaning 'gathered', turning the action back on the subject.
+- 'Pull yourselves together, we will still manage to cook everything.' Notice how Russian puts 'quickly' and 'to prepare, cook' together in a short, direct phrase where word endings show how the ideas connect.
 - 'First of all we need to urgently turn on the lights.' Notice how Russian expresses 'for' and 'light' with crisp inflection rather than helper words.
 - 'The building has no power at all, repairs will take two days.' Here the Russian phrasing highlights 'building' before landing on 'day'.
 - 'Guys, why are you all looking so sad?' Max brings out the contrast between 'guys' and 'and' in a few short words.

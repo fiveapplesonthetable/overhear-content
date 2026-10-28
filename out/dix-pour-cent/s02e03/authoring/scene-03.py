@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 3
-TITLE = "Petit-déjeuner avec maman  (Breakfast with Mom)"
-LEVEL = "A1 — débutant"
+TITLE = 'Petit-déjeuner avec maman  (Breakfast with Mom)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "lea": "lucie"}
-LABELS = {"camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In her small Parisian apartment, Camille Valentini has a hurried breakfast with her visiting mother, Annick. While Annick comments on celebrity hairstyles and asks about Camille's relationship with Mathias, Camille tries not to be late for work. Let's listen to the scene in French first."
 OPENER = "Let's examine how Annick and Camille discuss family and work over breakfast."
 TRANSITION = "Now let's listen to Camille and Annick's morning conversation again at full speed."
 OUTRO = "Annick's visit reminds Camille of her complicated family situation, as Mathias remains her secret father. Despite the maternal guilt, Camille hurries out the door to face another busy day at the agency. See you next time!"
-CLOSING = ("camille", "Bonne soirée!")
+CLOSING = ('camille', 'Bonne soirée!')
 STORY = [
     ('lea', 'Tu ne prends pas de petit-déjeuner?', 'Are you not having breakfast?', [(68, 'Pas de petit-déjeuner ?')], ''),
     ('camille', 'Maman, je suis très en retard.', 'Mom, I am very late.', [(69, 'Maman, je suis en retard.')], ''),

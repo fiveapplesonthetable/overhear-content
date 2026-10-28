@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e01-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 1
 SCENE = 12
-TITLE = 'Пора ехать в ЗАГС  (Time to Head to the Registry Office)'
+TITLE = "Пора ехать в ЗАГС  (Time to Head to the Registry Office)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'angelina', 'nagiyev': 'anja'}
-LABELS = {'anya': 'Элеонора', 'katya': 'Катя', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "eleonora": "angelina"}
+LABELS = {"eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.01'
 SOURCE_FILE = 'sources/kukhnya/s06/e01.ru.srt'
 
 INTRO = 'Dressed in her bridal gown, Eleonora receives a heartfelt apology from Katya before Dmitry Nagiyev hurries in wearing his tailcoat so they do not miss their appointment at the registry office.'
 
 STORY = [
-    ('anya', 'Никита, давай завтра.', "Nikita, let's do it tomorrow.", [(215, 'давай завтра')], 'adapted'),
-    ('katya', 'Мама, ты роскошно выглядишь.', 'Mom, you look gorgeous.', [(217, 'ты роскошно выглядишь')], 'adapted'),
-    ('anya', 'Все, шучу, шучу.', 'Alright, I am joking, I am joking.', [(219, 'Все, шучу, шучу')], 'exact'),
-    ('anya', 'Я говорила, что я здесь ни при чем.', 'I told you that I had nothing to do with it.', [(220, 'Говорила, что я здесь ни при чем')], 'adapted'),
-    ('katya', 'Извини, я была неправа.', 'Forgive me, I was wrong.', [(221, 'Извини, я была неправа')], 'exact'),
-    ('anya', 'А где мой суженый?', 'And where is my betrothed?', [(222, 'А где мой суженый?')], 'exact'),
-    ('anya', 'Мы ведь в ЗАГС так можем опоздать.', 'We might be late to the registry office like this.', [(223, 'Мы ведь в ЗАГС так можем опоздать')], 'exact'),
-    ('anya', 'Я уж думала, что ты от меня сбежал.', 'I already thought that you ran away from me.', [(225, 'Я уж думала, что ты от меня сбежал')], 'exact'),
-    ('nagiyev', 'Хорошо бы, шучу.', 'I wish, just kidding.', [(226, 'Хорошо бы. Шучу')], 'adapted'),
-    ('nagiyev', 'Ну куда я сбегу от красоты твоей?', 'Where would I run from such beauty of yours?', [(227, 'Ну куда я сбегу от красоты такой, от красоты твоей?')], 'adapted'),
-    ('anya', 'Пойдемте, в ЗАГС опоздаем.', "Let's go, or we will be late to the registry office.", [(228, 'Пойдемте, не дай бог, в ЗАГС опоздаем')], 'adapted'),
-    ('nagiyev', 'Ну бегу, дорогая.', 'I am running, darling.', [(229, 'Ну бегу')], 'adapted'),
+    ('eleonora', 'Никита, давай завтра.', "Nikita, let's do it tomorrow.", [(215, 'давай завтра')], 'adapted'),
+    ('eleonora', 'Мама, ты роскошно выглядишь.', 'Mom, you look gorgeous.', [(217, 'ты роскошно выглядишь')], 'adapted'),
+    ('eleonora', 'Все, шучу, шучу.', 'Alright, I am joking, I am joking.', [(219, 'Все, шучу, шучу')], 'exact'),
+    ('eleonora', 'Я говорила, что я здесь ни при чем.', 'I told you that I had nothing to do with it.', [(220, 'Говорила, что я здесь ни при чем')], 'adapted'),
+    ('eleonora', 'Извини, я была неправа.', 'Forgive me, I was wrong.', [(221, 'Извини, я была неправа')], 'exact'),
+    ('eleonora', 'А где мой суженый?', 'And where is my betrothed?', [(222, 'А где мой суженый?')], 'exact'),
+    ('eleonora', 'Мы ведь в ЗАГС так можем опоздать.', 'We might be late to the registry office like this.', [(223, 'Мы ведь в ЗАГС так можем опоздать')], 'exact'),
+    ('eleonora', 'Я уж думала, что ты от меня сбежал.', 'I already thought that you ran away from me.', [(225, 'Я уж думала, что ты от меня сбежал')], 'exact'),
+    ('eleonora', 'Хорошо бы, шучу.', 'I wish, just kidding.', [(226, 'Хорошо бы. Шучу')], 'adapted'),
+    ('eleonora', 'Ну куда я сбегу от красоты твоей?', 'Where would I run from such beauty of yours?', [(227, 'Ну куда я сбегу от красоты такой, от красоты твоей?')], 'adapted'),
+    ('eleonora', 'Пойдемте, в ЗАГС опоздаем.', "Let's go, or we will be late to the registry office.", [(228, 'Пойдемте, не дай бог, в ЗАГС опоздаем')], 'adapted'),
+    ('eleonora', 'Ну бегу, дорогая.', 'I am running, darling.', [(229, 'Ну бегу')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'The bride and groom rush off to make their marriage official while the kitchen prepares for their return. See you in the next scene.'
-CLOSING = ('anya', 'Быстрее, Дима!')
+OUTRO = 'The bride and groom rush off to make their marriage official while the kitchen prepares for their return. See you next time!'
+CLOSING = ("eleonora", "До встречи!")

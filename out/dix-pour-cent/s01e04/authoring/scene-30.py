@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 4
 SCENE = 30
 TITLE = "Tout pour l'UNICEF  (All for UNICEF)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "audrey": "emilie", "mathias": "marcel"}
-LABELS = {"audrey": "Audrey", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'audrey': 'emilie', 'mathias': 'marcel'}
+LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "While Andréa and Colette are talking on the agency roof, Mathias has brought Audrey Fleurot to a big charity gala for UNICEF. After the tabloids printed photos of Audrey at the billionaire Kadropov's birthday party, Mathias has a plan to save her reputation—though it means giving away the very money she earned to pay her taxes. Listen to the scene in French first, and enjoy how Audrey handles it."
 OPENER = "Let's go through it step by step. Backstage before her speech, Audrey is still reluctant to part with her twenty thousand euros."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Audrey has saved her reputation and won a big comedy role to pay off her taxes. Next we head back to ASK, where the news of Mathias's departure is about to have a surprising effect on the German buyer. See you next time!"
-CLOSING = ("audrey", "À bientôt!")
+OUTRO = 'Audrey has saved her reputation and won a big comedy role to pay off her taxes. See you next time!'
+CLOSING = ('audrey', 'À bientôt!')
 STORY = [
     ('audrey', "Vous êtes sûr que c'est la seule solution?", 'Are you sure it', [(775, "que c'est la seule solution")], ''),
     ('mathias', 'Faites-moi confiance, Audrey. Beyoncé a fait ça après son concert.', 'Trust me, Audrey. Beyoncé did that after her concert.', [(775, 'Faites-moi confiance, Audrey'), (777, 'Beyoncé a fait ça après son concert')], ''),

@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e13-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 13
 SCENE = 12
-TITLE = 'Деньги на проводы  (Money for the Farewell Party)'
+TITLE = "Деньги на проводы  (Money for the Farewell Party)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Денис', 'katya': 'Катя', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "denis": "anja"}
+LABELS = {"senya": "Сеня", "denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.13'
 SOURCE_FILE = 'sources/kukhnya/s06/e13.ru.srt'
 
 INTRO = 'Mikhail kicks Chef Barinov out of the poker room so the game can continue uninterrupted. Meanwhile in the corridor, Denis tries to resume his private talk with Katya, but Nikita and Senya interrupt with farewell party plans.'
 
 STORY = [
-    ('anya', 'Катя, мы с тобой не договорили.', 'Katya, you and I did not finish talking.', [(171, 'договорили')], 'adapted'),
-    ('katya', 'Денис, ты правда от нас уезжаешь?', 'Denis, are you really leaving us?', [(172, 'Денис, ты что, уезжаешь')], 'adapted'),
+    ('denis', 'Катя, мы с тобой не договорили.', 'Katya, you and I did not finish talking.', [(171, 'договорили')], 'adapted'),
+    ('senya', 'Денис, ты правда от нас уезжаешь?', 'Denis, are you really leaving us?', [(172, 'Денис, ты что, уезжаешь')], 'adapted'),
     ('senya', 'Ладно, я не буду вам мешать.', 'Alright, I will not bother you two.', [(173, 'не буду вам мешать')], 'adapted'),
-    ('katya', 'А почему ты ничего не сказал?', 'And why did you not say anything to me?', [(174, 'почему ты мне ничего не сказал')], 'adapted'),
-    ('anya', 'Да я никому особо не говорил.', 'Well, I did not really tell anyone.', [(175, 'я никому особо не говорил')], 'adapted'),
-    ('anya', 'Я хотел сначала сказать только тебе.', 'I wanted to tell only you first.', [(174, 'мне ничего не сказал')], 'adapted'),
+    ('senya', 'А почему ты ничего не сказал?', 'And why did you not say anything to me?', [(174, 'почему ты мне ничего не сказал')], 'adapted'),
+    ('denis', 'Да я никому особо не говорил.', 'Well, I did not really tell anyone.', [(175, 'я никому особо не говорил')], 'adapted'),
+    ('denis', 'Я хотел сначала сказать только тебе.', 'I wanted to tell only you first.', [(174, 'мне ничего не сказал')], 'adapted'),
     ('senya', 'О, Денис, ты ещё здесь стоишь!', 'Oh, Denis, you are still standing here!', [(176, 'О, Дэн')], 'adapted'),
     ('senya', 'Ну что, я деньги уже собрал.', 'Well then, I have already collected the money.', [(177, 'я деньги со всех собрал')], 'adapted'),
     ('senya', 'Собрал со всех ребят на кухне.', 'I collected it from all the guys in the kitchen.', [(177, 'со всех собрал')], 'adapted'),
     ('senya', 'Вечером устроим тебе отличные шумные проводы.', 'Tonight we will throw you a great noisy farewell party.', [(177, 'вечером устроим тебе')], 'adapted'),
-    ('katya', 'Значит, все на кухне уже знают?', 'So everyone in the kitchen already knows?', [(175, 'никому особо не говорил')], 'adapted'),
-    ('anya', 'Подожди, Катя, я сейчас всё объясню.', 'Wait, Katya, I will explain everything right now.', [(171, 'Мы ко мне договорили')], 'adapted'),
+    ('senya', 'Значит, все на кухне уже знают?', 'So everyone in the kitchen already knows?', [(175, 'никому особо не говорил')], 'adapted'),
+    ('denis', 'Подожди, Катя, я сейчас всё объясню.', 'Wait, Katya, I will explain everything right now.', [(171, 'Мы ко мне договорили')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Senya's announcement about collecting money for a farewell party ruins Denis's quiet moment with Katya once again. See you in the next scene."
-CLOSING = ('senya', 'Вечером устроим тебе проводы.')
+OUTRO = "Senya's announcement about collecting money for a farewell party ruins Denis's quiet moment with Katya once again. See you next time!"
+CLOSING = ("senya", "До встречи!")

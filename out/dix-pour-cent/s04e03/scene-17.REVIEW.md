@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Alors sourions pour sauver la soirée. | Then let us smile to save the evening. | 844:passer une super soirée |
 
 ## Part 5 — Outro & Closing
-> Mathias and Noemie return to their living room, united in humor and ready to host an unforgettable dinner party. When you watch the episode, listen out for the expressions meaning 'prepare' and 'rice'. You'll catch them now. See you next time.
+> Mathias and Noemie return to their living room, united in humor and ready to host an unforgettable dinner party. When you watch the episode, listen out for the expressions meaning 'prepare' and 'rice'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne journée!*

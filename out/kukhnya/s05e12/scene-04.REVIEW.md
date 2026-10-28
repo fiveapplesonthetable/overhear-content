@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Витя, это фиаско! | Vitya, this is a fiasco! | #33 00:02:52: Витя, это фиаско | adapted: adapted |
-| 2 | Аня | Держусь, тебя не поздравляю. | I am holding back, not congratulating you. | #34 00:02:58: Держусь, тебя не поздравляю | adapted: adapted |
-| 3 | Аня | А ты не можешь потерпеть до вечера! | And you cannot be patient until evening! | #34 00:02:58: потерпеть до вечера | adapted: adapted |
+| 1 | Шеф | Витя, это фиаско! | Vitya, this is a fiasco! | #33 00:02:52: Витя, это фиаско | adapted: adapted |
+| 2 | Шеф | Держусь, тебя не поздравляю. | I am holding back, not congratulating you. | #34 00:02:58: Держусь, тебя не поздравляю | adapted: adapted |
+| 3 | Шеф | А ты не можешь потерпеть до вечера! | And you cannot be patient until evening! | #34 00:02:58: потерпеть до вечера | adapted: adapted |
 | 4 | Елена | То есть ты подготовил мне сюрприз? | So you prepared a surprise for me? | #35 00:03:04: То есть ты подготовил мне сюрприз | adapted: adapted |
-| 5 | Аня | Вот именно, сюрприз! | Precisely, a surprise! | #36 00:03:07: Вот именно, сюрприз | adapted: adapted |
+| 5 | Шеф | Вот именно, сюрприз! | Precisely, a surprise! | #36 00:03:07: Вот именно, сюрприз | adapted: adapted |
 | 6 | Елена | Просто я не верю. | I simply do not believe it. | #37 00:03:10: Просто я не верю | adapted: adapted |
 | 7 | Елена | Обычно у тебя сюрпризы случаются сами собой. | Usually your surprises happen by themselves. | #37 00:03:10: потому что обычно у тебя сюрпризы случаются сами собой | adapted: adapted |
 | 8 | Елена | Потом ты просто просишь за них прощения. | Then you simply ask forgiveness for them. | #38 00:03:14: потом ты просто просишь за них прощения | adapted: adapted |
-| 9 | Аня | Вот увидим вечером! | Well we will see tonight! | #39 00:03:16: Вот увидим вечером | adapted: adapted |
+| 9 | Шеф | Вот увидим вечером! | Well we will see tonight! | #39 00:03:16: Вот увидим вечером | adapted: adapted |
 | 10 | Елена | Спасибо большое, очень приятно. | Thank you very much, that is very nice. | #40 00:03:20: Спасибо большое, очень приятно | adapted: adapted |
 | 11 | Елена | Я позвоню и отметим. | I will call and we will celebrate. | #41 00:03:24: Я позвоню и отметим | adapted: adapted |
-| 12 | Аня | До вечера, любимая! | Until evening, darling! | #39 00:03:16: вечером | adapted: adapted |
+| 12 | Шеф | До вечера, любимая! | Until evening, darling! | #39 00:03:16: вечером | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

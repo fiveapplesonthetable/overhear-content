@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Михаил | Ты что устроил? Нас же засудят. | What did you do? They will sue us. | #146 00:11:20: Ты что устроил? Нас же засудят | adapted: verbatim |
-| 2 | Аня | Кто-то не оценил твой отличный ход? | Did someone not appreciate your great move? | #147 00:11:23: не оценил твой<br>#147 00:11:23: ход? | adapted: adapted |
-| 3 | Аня | Очень странно. | Very strange. | #148 00:11:28: Странно | adapted: adapted |
+| 1 | Шеф | Ты что устроил? Нас же засудят. | What did you do? They will sue us. | #146 00:11:20: Ты что устроил? Нас же засудят | adapted: verbatim |
+| 2 | Шеф | Кто-то не оценил твой отличный ход? | Did someone not appreciate your great move? | #147 00:11:23: не оценил твой<br>#147 00:11:23: ход? | adapted: adapted |
+| 3 | Шеф | Очень странно. | Very strange. | #148 00:11:28: Странно | adapted: adapted |
 | 4 | Сеня | Мы столько денег сегодня потеряли. | We lost so much money today. | #149 00:11:39: Столько денег потеряли | adapted: adapted |
 | 5 | Сеня | Слушай, может, у Тимура закажем? | Listen, maybe we should order from Timur? | #151 00:11:51: Слушай, а может и Тимура закажем? | adapted: adapted |
 | 6 | Сеня | Тимур, привет, это Сеня. | Timur, hi, this is Senya. | #153 00:12:03: Тимур, привет, это Сеня | adapted: verbatim |
 | 7 | Сеня | Ты можешь нам тараканов достать? | Can you get us some cockroaches? | #154 00:12:05: ты можешь нам тараканов достать? | adapted: verbatim |
 | 8 | Сеня | Да, мы тебе хорошо заплатим. | Yes, we will pay you well. | #155 00:12:07: Да, мы заплатим | adapted: adapted |
 | 9 | Сеня | Давай сразу пять штук. | Give us five of them right away. | #157 00:12:12: Давай пять | adapted: adapted |
-| 10 | Аня | Я тебе говорил: не лезь! | I told you: stay away! | #161 00:12:29: я тебе говорил, не лезь | adapted: adapted |
-| 11 | Михаил | Ты вообще кто такой? | Who are you at all? | #163 00:12:34: Ты вообще кто? | adapted: adapted |
-| 12 | Михаил | Отпусти его прямо сейчас! | Let go of him right now! | #168 00:12:44: Отпусти его! | adapted: adapted |
-| 13 | Аня | Ты ему дала свой телефон? | Did you give him your phone number? | #169 00:12:47: Ты ему дала телефон? | adapted: adapted |
-| 14 | Аня | Ты теперь доволен? | Are you satisfied now? | #170 00:12:49: Доволен? | adapted: adapted |
+| 10 | Шеф | Я тебе говорил: не лезь! | I told you: stay away! | #161 00:12:29: я тебе говорил, не лезь | adapted: adapted |
+| 11 | Шеф | Ты вообще кто такой? | Who are you at all? | #163 00:12:34: Ты вообще кто? | adapted: adapted |
+| 12 | Шеф | Отпусти его прямо сейчас! | Let go of him right now! | #168 00:12:44: Отпусти его! | adapted: adapted |
+| 13 | Шеф | Ты ему дала свой телефон? | Did you give him your phone number? | #169 00:12:47: Ты ему дала телефон? | adapted: adapted |
+| 14 | Шеф | Ты теперь доволен? | Are you satisfied now? | #170 00:12:49: Доволен? | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

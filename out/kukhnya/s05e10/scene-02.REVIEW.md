@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ладно, не плачь, сами счёт закроем. | Alright, do not cry, we will cover the bill ourselves. | #20 00:02:31: Ладно, не плачь, ты сами счет закроем | adapted: adapted |
-| 2 | Аня | Усатый в очках? Он в отеле живёт? | Moustached in glasses? Does he live in the hotel? | #21 00:02:33: в очках<br>#22 00:02:35: Он в отеле живет | adapted: adapted |
+| 1 | Михаил | Ладно, не плачь, сами счёт закроем. | Alright, do not cry, we will cover the bill ourselves. | #20 00:02:31: Ладно, не плачь, ты сами счет закроем | adapted: adapted |
+| 2 | Михаил | Усатый в очках? Он в отеле живёт? | Moustached in glasses? Does he live in the hotel? | #21 00:02:33: в очках<br>#22 00:02:35: Он в отеле живет | adapted: adapted |
 | 3 | Вика | Что происходит? Я думала, что это доллары. | What is happening? I thought that those were dollars. | #24 00:02:44: Что происходит<br>#26 00:02:50: Я думала, что это доллары | adapted: adapted |
 | 4 | Вика | Подожди, это из центрального офиса. | Wait, this is from the central office. | #27 00:02:59: Подожди<br>#28 00:03:01: Это из центрального офиса | adapted: adapted |
 | 5 | Вика | В отеле возможно появление мошенника и гипнотизёра. | The appearance of a fraudster and hypnotist in the hotel is possible. | #30 00:03:06: В отеле возможно появление мошенника и гипнотизера | adapted: adapted |
 | 6 | Вика | Жертва находится под гипнозом. | The victim is under hypnosis. | #32 00:03:13: Жертва находится под гипнозом | adapted: adapted |
-| 7 | Аня | Так, надо вызвать полицию. | Right, we need to call the police. | #35 00:03:21: Так, надо вызвать полицию | adapted: adapted |
+| 7 | Михаил | Так, надо вызвать полицию. | Right, we need to call the police. | #35 00:03:21: Так, надо вызвать полицию | adapted: adapted |
 | 8 | Михаил | Никакой полиции! В отеле комиссия. | No police! There is a commission in the hotel. | #35 00:03:21: Никакой полиции<br>#36 00:03:24: В отеле комиссия | adapted: adapted |
 | 9 | Михаил | Шум поднимать нельзя. | We must not raise a commotion. | #36 00:03:24: шум поднимать нельзя | adapted: adapted |
 | 10 | Михаил | Элеонора Андреевна просила меня за всем проследить. | Eleonora Andreyevna asked me to oversee everything. | #40 00:03:35: Элеонора Андреевна<br>#40 00:03:35: меня за всем проследить | adapted: adapted |
 | 11 | Михаил | Мне даже премию обещала, если всё хорошо пройдёт. | She even promised me a bonus if everything goes well. | #41 00:03:38: даже премия обещала, если все хорошо пройдет | adapted: adapted |
-| 12 | Аня | Ты чего? Эй, Дима! | What is with you? Hey, Dima! | #42 00:03:41: Ты чего<br>#43 00:03:43: Эй, Дим | adapted: adapted |
+| 12 | Михаил | Ты чего? Эй, Дима! | What is with you? Hey, Dima! | #42 00:03:41: Ты чего<br>#43 00:03:43: Эй, Дим | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

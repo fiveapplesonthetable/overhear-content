@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Лена, Лена, я трижды ошибался в своей жизни. | Lena, Lena, I have made three big mistakes in my life. | #285 00:18:55: Лена, Лена, я трижды ошибался в своей жизни | verbatim |
+| 1 | Шеф | Лена, Лена, я трижды ошибался в своей жизни. | Lena, Lena, I have made three big mistakes in my life. | #285 00:18:55: Лена, Лена, я трижды ошибался в своей жизни | verbatim |
 | 2 | Сеня | И сейчас больше всего боюсь ошибиться еще раз. | And right now my greatest fear is making one more mistake. | #286 00:18:58: И сейчас больше всего боюсь ошибиться еще раз | verbatim |
-| 3 | Федя | Поэтому я не хочу торопить события. | That is why I do not want to rush things between us. | #287 00:19:02: Поэтому я не хочу торопить события | verbatim |
-| 4 | Аня | Печень возьми на складе. | Grab the liver from the storage room. | #288 00:19:08: Печень возьми на складе | verbatim |
+| 3 | Шеф | Поэтому я не хочу торопить события. | That is why I do not want to rush things between us. | #287 00:19:02: Поэтому я не хочу торопить события | verbatim |
+| 4 | Шеф | Печень возьми на складе. | Grab the liver from the storage room. | #288 00:19:08: Печень возьми на складе | verbatim |
 | 5 | Сеня | Все равно не успеете за час приготовить. | You still will not manage to cook it all in an hour. | #289 00:19:10: Все равно не успеете за час приготовить | verbatim |
-| 6 | Федя | Рук не хватит. | You do not have enough hands. | #290 00:19:13: Рук не хватит | verbatim |
-| 7 | Аня | За работу, девочки! | Get to work, girls! | #294 00:19:21: За работу, девочки | verbatim |
+| 6 | Шеф | Рук не хватит. | You do not have enough hands. | #290 00:19:13: Рук не хватит | verbatim |
+| 7 | Шеф | За работу, девочки! | Get to work, girls! | #294 00:19:21: За работу, девочки | verbatim |
 | 8 | Сеня | Шеф, не успеваем. | Chef, we are not going to make it in time. | #295 00:19:32: Шеф, не успеваем | verbatim |
-| 9 | Федя | Я подумала, вам не помешают лишние руки. | I figured you could use a few extra pairs of hands. | #296 00:19:48: Я подумала, вам не помешают лишние руки | verbatim |
-| 10 | Аня | Ну что ж. | Well then, look at that. | #297 00:20:11: Ну что ж | verbatim |
+| 9 | Шеф | Я подумала, вам не помешают лишние руки. | I figured you could use a few extra pairs of hands. | #296 00:19:48: Я подумала, вам не помешают лишние руки | verbatim |
+| 10 | Шеф | Ну что ж. | Well then, look at that. | #297 00:20:11: Ну что ж | verbatim |
 | 11 | Сеня | Рад сообщить вам? | I am delighted to inform all of you. | #298 00:20:12: рад сообщить вам | verbatim |
-| 12 | Федя | Что невесту мы все-таки нашли? | That we have found our bride after all! | #298 00:20:12: что невесту мы все-таки нашли | verbatim |
-| 13 | Аня | Это значит, что пора подавать горячее. | Which means it is time to serve the hot main course. | #299 00:20:17: Это значит, что пора подавать горячее | verbatim |
+| 12 | Шеф | Что невесту мы все-таки нашли? | That we have found our bride after all! | #298 00:20:12: что невесту мы все-таки нашли | verbatim |
+| 13 | Шеф | Это значит, что пора подавать горячее. | Which means it is time to serve the hot main course. | #299 00:20:17: Это значит, что пора подавать горячее | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, Lena, I have made three big mistakes in my life.' Notice the reflexive suffix on the verb meaning 'to make a mistake', turning the action back on the subject.
+- 'Lena, Lena, I have made three big mistakes in my life.' Notice how Russian puts 'three times' and 'life' together in a short, direct phrase where word endings show how the ideas connect.
 - 'And right now my greatest fear is making one more mistake.' The grammar packs 'both' and 'time' into a tight, idiomatic kitchen exchange.
 - 'That is why I do not want to rush things between us.' Notice how Russian expresses 'therefore' and 'event' with crisp inflection rather than helper words. Chef Viktor answers right away.
 - 'Grab the liver from the storage room.' The grammar packs 'liver' and 'warehouse' into a tight, idiomatic kitchen exchange.

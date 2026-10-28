@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e04-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 4
 SCENE = 19
-TITLE = 'Обвинение в краже  (Accusation of Theft)'
+TITLE = "Обвинение в краже  (Accusation of Theft)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'gulya': 'angelina', 'guest': 'anja'}
-LABELS = {'anya': 'Шеф', 'gulya': 'Гуля', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja"}
+LABELS = {"guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.04'
 SOURCE_FILE = 'sources/kukhnya/s06/e04.ru.srt'
 
 INTRO = "After the kitchen brigade visits Barinov in the hospital, Lyova's mother and her friend block Gulya at the apartment door and demand that she open her handbag to prove she did not steal the five thousand rubles."
 
 STORY = [
     ('guest', 'Здравствуйте, шеф, вам лучше уже?', 'Hello, Chef, are you feeling better already?', [(298, 'Здрасте'), (299, 'Ну что, шеф, вам лучше уже?')], 'adapted'),
-    ('anya', 'Да, спасибо, ребята, уже лучше.', 'Yes, thank you, guys, already better.', [(299, 'Да, спасибо'), (302, 'Да, ребят, уже лучше')], 'adapted'),
+    ('guest', 'Да, спасибо, ребята, уже лучше.', 'Yes, thank you, guys, already better.', [(299, 'Да, спасибо'), (302, 'Да, ребят, уже лучше')], 'adapted'),
     ('guest', 'А когда мне десять тысяч вернете?', 'And when will you pay me back my ten thousand?', [(300, 'А когда мне'), (300, 'тысяч вернете')], 'adapted'),
-    ('anya', 'Пошел вон отсюда, все понял?', 'Get out of here, understood?', [(301, 'Пошел вон. Все понял?')], 'adapted'),
+    ('guest', 'Пошел вон отсюда, все понял?', 'Get out of here, understood?', [(301, 'Пошел вон. Все понял?')], 'adapted'),
     ('guest', 'А ты куда собралась?', 'And where are you going?', [(303, 'а ты куда')], 'adapted'),
-    ('gulya', 'Я к чаю хочу чего-нибудь купить.', 'I want to buy something to go with tea.', [(304, 'Я к чаю хочу чего-нибудь купить')], 'exact'),
+    ('guest', 'Я к чаю хочу чего-нибудь купить.', 'I want to buy something to go with tea.', [(304, 'Я к чаю хочу чего-нибудь купить')], 'exact'),
     ('guest', 'Ты нам сумочку свою сначала покажи.', 'Show us your handbag first.', [(305, 'Ты нам сумочку свою покажи')], 'adapted'),
-    ('gulya', 'Что вы говорите?', 'What are you saying?', [(307, 'Что?')], 'adapted'),
+    ('guest', 'Что вы говорите?', 'What are you saying?', [(307, 'Что?')], 'adapted'),
     ('guest', 'Гуля, мы тебя ни в чем не обвиняем.', 'Gulya, we are not accusing you of anything.', [(307, 'мы тебя ни в чем не обвиняем')], 'adapted'),
     ('guest', 'Взяла пять тысяч, думаешь, никто не заметил?', 'You took five thousand, do you think nobody noticed?', [(308, 'пять тысяч, думаешь, никто не заметил?')], 'adapted'),
     ('guest', 'Ну, дай сюда, покажи сумку!', 'Come on, give it here, show the bag!', [(309, 'Ну, дай сюда, покажи сумку')], 'exact'),
-    ('gulya', 'Что вы такое делаете, пустите!', 'What are you doing, let go!', [(311, 'Что вы такое делаете?')], 'adapted'),
+    ('guest', 'Что вы такое делаете, пустите!', 'What are you doing, let go!', [(311, 'Что вы такое делаете?')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Right as the two women wrestle for Gulya's purse in the hallway, Lyova opens the front door and freezes at the sight. See you in the next scene."
-CLOSING = ('guest', 'Поймали тебя с поличным!')
+OUTRO = "Right as the two women wrestle for Gulya's purse in the hallway, Lyova opens the front door and freezes at the sight. Until next time!"
+CLOSING = ("guest", "До встречи!")

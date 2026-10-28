@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e02-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 2
 SCENE = 2
-TITLE = 'Утренние завтраки и тайный гость  (Morning Breakfasts and the Secret Guest)'
+TITLE = "Утренние завтраки и тайный гость  (Morning Breakfasts and the Secret Guest)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.02'
 SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 
 INTRO = "In the kitchen during the early breakfast rush, Chef Barinov pushes his sleepy cooks while manager Mikhail Dzhekovich explains how a 'secret guest' inspects every department of a hotel. Listen to the exchange."
 
 STORY = [
     ('senya', 'Я сегодня на работе поем.', 'I will eat at work today.', [(11, 'На работе поем')], 'adapted'),
-    ('anya', 'Живее, живее, работаем!', "Livelier, livelier, let's work!", [(12, 'Живее, живее')], 'adapted'),
-    ('anya', 'Давайте, быстрее просыпаемся.', 'Come on, wake up faster.', [(13, 'Давайте, просыпаемся')], 'adapted'),
-    ('anya', 'Побыстрее, ну где наш бекон?', 'A bit faster, well, where is our bacon?', [(15, 'Побыстрее, ну'), (15, 'где бекон?')], 'adapted'),
+    ('chef', 'Живее, живее, работаем!', "Livelier, livelier, let's work!", [(12, 'Живее, живее')], 'adapted'),
+    ('chef', 'Давайте, быстрее просыпаемся.', 'Come on, wake up faster.', [(13, 'Давайте, просыпаемся')], 'adapted'),
+    ('chef', 'Побыстрее, ну где наш бекон?', 'A bit faster, well, where is our bacon?', [(15, 'Побыстрее, ну'), (15, 'где бекон?')], 'adapted'),
     ('senya', 'Жарим, жарим наш бекон.', 'We are frying, frying our bacon.', [(16, 'Жарим, жарим')], 'adapted'),
-    ('anya', 'Проснулись все, утро уже наступило.', 'Wake up everyone, morning has already arrived.', [(16, 'Проснулись все, утро уже наступило')], 'verbatim'),
-    ('anya', 'Что ты забыл на моей кухне?', 'What did you lose in my kitchen?', [(17, 'забыл на моей кухне?')], 'adapted'),
-    ('mikhail', 'Я делаю за тебя твою работу.', 'I am doing your job for you.', [(18, 'Я делаю за тебя твою работу')], 'verbatim'),
-    ('anya', 'Кто такой этот тайный гость?', 'Who is this secret guest?', [(19, 'тайный гость?')], 'adapted'),
-    ('mikhail', 'Это способ проверки в отеле.', 'It is a method of inspection in a hotel.', [(20, 'проверки')], 'adapted'),
-    ('mikhail', 'Проверяющий живёт здесь как обычный гость.', 'The inspector stays here like an ordinary guest.', [(21, 'Проверяющий'), (21, 'гостя')], 'adapted'),
-    ('mikhail', 'Он проверяет работу всех служб отеля.', 'He inspects the work of all hotel departments.', [(21, 'проверяет'), (21, 'всех служб отеля')], 'adapted'),
+    ('chef', 'Проснулись все, утро уже наступило.', 'Wake up everyone, morning has already arrived.', [(16, 'Проснулись все, утро уже наступило')], 'verbatim'),
+    ('chef', 'Что ты забыл на моей кухне?', 'What did you lose in my kitchen?', [(17, 'забыл на моей кухне?')], 'adapted'),
+    ('chef', 'Я делаю за тебя твою работу.', 'I am doing your job for you.', [(18, 'Я делаю за тебя твою работу')], 'verbatim'),
+    ('chef', 'Кто такой этот тайный гость?', 'Who is this secret guest?', [(19, 'тайный гость?')], 'adapted'),
+    ('chef', 'Это способ проверки в отеле.', 'It is a method of inspection in a hotel.', [(20, 'проверки')], 'adapted'),
+    ('chef', 'Проверяющий живёт здесь как обычный гость.', 'The inspector stays here like an ordinary guest.', [(21, 'Проверяющий'), (21, 'гостя')], 'adapted'),
+    ('chef', 'Он проверяет работу всех служб отеля.', 'He inspects the work of all hotel departments.', [(21, 'проверяет'), (21, 'всех служб отеля')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that explains the secret shopper tradition in hospitality. Notice how the present active participle 'proveryayushchiy' functions as a noun meaning 'the inspector'. See you in the next scene."
-CLOSING = ('anya', 'На моей кухне всегда идеальный порядок!')
+OUTRO = "And that explains the secret shopper tradition in hospitality. Notice how the present active participle 'proveryayushchiy' functions as a noun meaning 'the inspector'. See you next time!"
+CLOSING = ("chef", "До завтра!")

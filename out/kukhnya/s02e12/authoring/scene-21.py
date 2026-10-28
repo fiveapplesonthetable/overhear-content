@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e12-scene-21"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e12-scene-21'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 12
 SCENE = 21
-TITLE = 'Возвращение статус-кво  (Restoring the Status Quo)'
+TITLE = "Возвращение статус-кво  (Restoring the Status Quo)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.12"
-SOURCE_FILE = "sources/kukhnya/s02/e12.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.12'
+SOURCE_FILE = 'sources/kukhnya/s02/e12.ru.srt'
 
 INTRO = "As the draft officers escort a stunned Aleksandr away to serve in the army, Lyova happily takes back his sous-chef title and reinstates Max as a line cook. Meanwhile at the hospital, supplier Timur barges loudly into the ward and ruins Viktor Petrovich's latest attempt at playing weak for Elena."
 
 STORY = [
-    ('anya', 'Вопрос, как они его нашли?', 'The question is, how did they track him down?', [(347, 'Вопрос, как они его нашли')], ''),
+    ('chef', 'Вопрос, как они его нашли?', 'The question is, how did they track him down?', [(347, 'Вопрос, как они его нашли')], ''),
     ('vika', 'Черт, что знает.', 'Devil only knows.', [(348, 'Черт, что знает')], ''),
-    ('sasha', 'По фамилии, наверное.', 'By his last name, probably.', [(350, 'По фамилии, наверное')], ''),
-    ('anya', 'Нет, не будешь, да?', 'No, you will not do that, right?', [(355, 'Нет, не будешь, да')], ''),
+    ('chef', 'По фамилии, наверное.', 'By his last name, probably.', [(350, 'По фамилии, наверное')], ''),
+    ('chef', 'Нет, не будешь, да?', 'No, you will not do that, right?', [(355, 'Нет, не будешь, да')], ''),
     ('vika', 'Не будешь, да ладно.', 'You will not, all right then.', [(356, 'Не будешь, да ладно')], ''),
-    ('sasha', 'Ты снова повар.', 'You are a line cook again.', [(358, 'Ты снова повар')], ''),
-    ('anya', 'Саша, иди на свое рабочее место.', 'Sasha, go back to your workstation.', [(360, 'Саша, иди на свое рабочее место')], ''),
+    ('chef', 'Ты снова повар.', 'You are a line cook again.', [(358, 'Ты снова повар')], ''),
+    ('chef', 'Саша, иди на свое рабочее место.', 'Sasha, go back to your workstation.', [(360, 'Саша, иди на свое рабочее место')], ''),
     ('vika', 'Думаете, что я постоянно вру?', 'Do you think I am constantly lying?', [(362, 'думаете, что я постоянно вру')], ''),
-    ('sasha', 'Да ну что вы!', 'Oh, not at all!', [(363, 'Да ну что вы')], ''),
-    ('anya', 'Здравствуйте, Ангела, Виктор...', 'Hello, my angel, Viktor...', [(372, 'Здравствуйте, Ангела, Виктор')], ''),
+    ('chef', 'Да ну что вы!', 'Oh, not at all!', [(363, 'Да ну что вы')], ''),
+    ('chef', 'Здравствуйте, Ангела, Виктор...', 'Hello, my angel, Viktor...', [(372, 'Здравствуйте, Ангела, Виктор')], ''),
     ('vika', 'Тихо, тихо, Тимур.', 'Quiet, quiet, Timur.', [(373, 'Тихо, тихо, Тимур')], ''),
-    ('sasha', 'Виктор Петрович не пришел в себя.', 'Viktor Petrovich has not regained consciousness yet.', [(374, 'Виктор Петрович не пришел в себя')], ''),
-    ('anya', 'Можно не кричать здесь?', 'Could you please not shout in here?', [(375, 'Можно не кричать здесь')], ''),
+    ('chef', 'Виктор Петрович не пришел в себя.', 'Viktor Petrovich has not regained consciousness yet.', [(374, 'Виктор Петрович не пришел в себя')], ''),
+    ('chef', 'Можно не кричать здесь?', 'Could you please not shout in here?', [(375, 'Можно не кричать здесь')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 21 of Episode 12, listen out for the exchange around restoring the status quo — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Можно не кричать здесь?')
+OUTRO = "That wraps up this scene as with Aleksandr hauled off to the army, Lyova reinstates Max as a regular cook while Timur bursts into the hospital ward and ruins Barinov's second attempt at playing unconscious. Until next time!"
+CLOSING = ("chef", "Всего хорошего!")

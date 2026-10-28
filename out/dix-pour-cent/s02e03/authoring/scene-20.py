@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 20
-TITLE = "Une fête grandiose  (A Grandiose Party)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une fête grandiose  (A Grandiose Party)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "camille": "emilie", "gabriel": "theo"}
-LABELS = {"hicham": "Hicham", "camille": "Camille", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'camille': 'emilie', 'gabriel': 'theo'}
+LABELS = {'hicham': 'Hicham', 'camille': 'Camille', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In Hicham's office, Hervé and Camille unveil their plans for Elvis's tenth birthday party. To their surprise, Hicham angrily dismisses their ideas and demands a luxury celebration on a breathtaking scale. Listen to the scene in French first."
 OPENER = "Let's examine how Hicham pushes for an extravagant birthday celebration."
 TRANSITION = "Now let's listen to Hicham's ambitious demands once more at normal speed."
-OUTRO = "Faced with Hicham's immense ambitions, Camille and Hervé must now pull off the ultimate party with a real castle and celebrity guests. Listen to the entire exchange once more in French. Join us next time to see what happens next."
-CLOSING = ("camille", "À bientôt!")
+OUTRO = "Faced with Hicham's immense ambitions, Camille and Hervé must now pull off the ultimate party with a real castle and celebrity guests. Listen to the entire exchange once more in French. See you next time!"
+CLOSING = ('camille', 'À bientôt!')
 STORY = [
     ('gabriel', "On a préparé l'anniversaire d'Elvis.", 'We planned Elvis', [(496, "Alors, l'anniversaire d'Elvis"), (498, 'Les parents de Ferdinand et Elliot les laisseront venir')], ''),
     ('camille', 'On a réservé deux sessions de laser game.', 'We booked two laser game sessions.', [(499, "J'ai réservé un laser game. Deux sessions")], ''),

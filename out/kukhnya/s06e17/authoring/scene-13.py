@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e17-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 17
 SCENE = 13
-TITLE = 'Пленники в номере  (Hostages in the Hotel Room)'
+TITLE = "Пленники в номере  (Hostages in the Hotel Room)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'inspector': 'angelina'}
-LABELS = {'anya': 'Шеф', 'kostya': 'Костя', 'inspector': 'Инспектор'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "inspector": "angelina"}
+LABELS = {"kostya": "Костя", "inspector": "Инспектор"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.17'
 SOURCE_FILE = 'sources/kukhnya/s06/e17.ru.srt'
 
 INTRO = 'Now Kostya and Nastya are tied up alongside the others in the room. Kostya begs to be untied, though Chef Barinov reminds him how bad he is at keeping secrets, and then the inspector asks to use the restroom.'
 
 STORY = [
     ('kostya', 'Шеф, как-то это совсем ненадёжно.', 'Chef, this is somehow completely insecure.', [(192, 'Шеф, как-то это ненадежно')], 'adapted'),
-    ('anya', 'Это чтобы она не сбежала.', 'That is so she does not run away.', [(193, 'чтобы она не сбежала')], 'adapted'),
+    ('kostya', 'Это чтобы она не сбежала.', 'That is so she does not run away.', [(193, 'чтобы она не сбежала')], 'adapted'),
     ('kostya', 'Виктор Петрович, пожалуйста, отпустите нас.', 'Viktor Petrovich, please let us go.', [(194, 'пожалуйста, отпустите нас')], 'adapted'),
     ('kostya', 'Мы точно никому не расскажем.', 'We will definitely not tell anyone.', [(194, 'мы никому не расскажем')], 'adapted'),
-    ('anya', 'Я тебя в прошлый раз просил.', 'I asked you last time.', [(196, 'в прошлый раз спросил')], 'adapted'),
+    ('kostya', 'Я тебя в прошлый раз просил.', 'I asked you last time.', [(196, 'в прошлый раз спросил')], 'adapted'),
     ('kostya', 'Да, это был смешной случай.', 'Yes, that was a funny incident.', [(198, 'это смешной случай')], 'adapted'),
     ('kostya', 'Так что правильно нас связали.', 'So they tied us up rightly.', [(200, 'правильно нас связали')], 'adapted'),
     ('inspector', 'Мне сейчас в туалет нужно.', 'I need to go to the restroom right now.', [(202, 'Мне в туалет нужно')], 'adapted'),
     ('kostya', 'Ага, смотри какой он хитрый.', 'Aha, look how sly he is.', [(204, 'Ага, хитрый такой')], 'adapted'),
     ('kostya', 'Так делают, когда хотят сбежать.', 'People do that when they want to escape.', [(205, 'так всегда делают, когда хотят сбежать')], 'adapted'),
-    ('anya', 'Молодец, Сеня, хорошая мысль.', 'Well done, Senya, good thought.', [(206, 'Молодец, Сеня')], 'adapted'),
-    ('anya', 'Иди с ним и проследи.', 'Go with him and keep watch.', [(206, 'Вот иди с ним и проследи')], 'adapted'),
+    ('kostya', 'Молодец, Сеня, хорошая мысль.', 'Well done, Senya, good thought.', [(206, 'Молодец, Сеня')], 'adapted'),
+    ('kostya', 'Иди с ним и проследи.', 'Go with him and keep watch.', [(206, 'Вот иди с ним и проследи')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Despite the warning, Senya lets his guard down in the bathroom, giving the inspector the chance to turn the tables. See you in the next scene.'
-CLOSING = ('anya', 'Смотри за ним внимательно!')
+OUTRO = 'Despite the warning, Senya lets his guard down in the bathroom, giving the inspector the chance to turn the tables. Until next time!'
+CLOSING = ("kostya", "До завтра!")

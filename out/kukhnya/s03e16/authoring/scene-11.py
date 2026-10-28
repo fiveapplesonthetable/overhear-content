@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 11
 TITLE = "Идея с караоке и свиная голова  (The Karaoke Idea and a Pig's Head)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kristina': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'kristina': 'Кристина', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kristina": "anja", "nagiyev": "angelina"}
+LABELS = {"anya": "Макс", "kristina": "Кристина", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = "After pocketing the furniture money, Kristina suggests buying the deceased Grandpa Kirill's upstairs apartment for cash to open a karaoke club. Meanwhile, in the locker room, Senya finds a severed pig's head in his locker! Listen first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Chef Barinov's counter-prank has Senya and Fedya terrified that they actually woke up the dead neighbor's spirit! Let's see what happens next in Scene Twelve."
-CLOSING = ('anya', 'Сначала копыта, теперь голова!')
+OUTRO = "Chef Barinov's counter-prank has Senya and Fedya terrified that they actually woke up the dead neighbor's spirit! Let's see what happens next in Scene Twelve. Until next time!"
+CLOSING = ("anya", "Всего хорошего!")

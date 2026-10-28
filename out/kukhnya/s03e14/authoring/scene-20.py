@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 20
-TITLE = 'Кто подставит плечо  (Who Will Lend a Shoulder)'
+TITLE = "Кто подставит плечо  (Who Will Lend a Shoulder)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "katya": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "katya": "Катя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = "In our final scene of Episode Fourteen, Katya takes Stas's motorcycle keys and forces him to admit that he and her father were haggling over her. Disgusted with both of them, she rides off—and accidentally knocks her father down! Listen first."
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that brings Episode Fourteen of Season Three to a close! The ambulance Max called for himself ends up taking Chef Barinov to the hospital, and Max's hiccups are gone. See you in Episode Fifteen!"
-CLOSING = ('anya', 'Я наконец икать перестал!')
+OUTRO = "And that brings Episode Fourteen of Season Three to a close! The ambulance Max called for himself ends up taking Chef Barinov to the hospital, and Max's hiccups are gone. See you in Episode Fifteen! See you next time!"
+CLOSING = ("anya", "До свидания!")

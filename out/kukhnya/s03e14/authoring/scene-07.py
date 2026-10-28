@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 7
 TITLE = "Совет Тимура  (Timur's Advice)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'timur': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'timur': 'Тимур'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "timur": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "timur": "Тимур", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = 'Chef Barinov calls Stas, who brazenly raises his price to three hundred thousand rubles to break up with Katya. Meanwhile, Max calls meat supplier Timur to ask how to peacefully settle a conflict with Caucasian guests. Listen first.'
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Treating the guests to fine meat and wine sounds like a brilliant peace offering—until the guests ask what kind of meat Max just served them! Let's find out in Scene Eight."
-CLOSING = ('timur', 'Неси мясо и вино хорошее.')
+OUTRO = "Treating the guests to fine meat and wine sounds like a brilliant peace offering—until the guests ask what kind of meat Max just served them! Let's find out in Scene Eight. Until next time!"
+CLOSING = ("timur", "До встречи!")

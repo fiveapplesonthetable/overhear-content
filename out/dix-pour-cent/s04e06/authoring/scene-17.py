@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 17
-TITLE = "La visite surprise  (The Surprise Visit)"
-LEVEL = "A1 — débutant"
+TITLE = 'La visite surprise  (The Surprise Visit)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Outside the ASK agency, Andrea Martel receives an unexpected visit from Colette Brancillon, who brings baby Flora in a stroller. Surprised and deeply touched, Andrea takes her daughter into her arms for a joyful reunion. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Reunited in the peaceful Parisian sunshine, Andrea and Colette set off together toward the nearby park. When you watch the episode, listen out for the expressions meaning 'are doing' and 'were walking'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "Reunited in the peaceful Parisian sunshine, Andrea and Colette set off together toward the nearby park. When you watch the episode, listen out for the expressions meaning 'are doing' and 'were walking'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('lea', "Colette! Qu'est-ce que tu fais là?", 'Colette! What are you doing here?', [(823, "Qu'est-ce que tu fais là ?")], ''),
     ('colette', 'On se promenait dans le quartier.', 'We were taking a walk in the neighborhood.', [(824, 'On était dans le coin et je me suis dit que même si tu étais occupée...')], ''),

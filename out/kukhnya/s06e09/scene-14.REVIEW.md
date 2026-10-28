@@ -16,12 +16,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Элеонора | И чтобы глупых татуировок не надо было сводить. | And so that you do not have to remove foolish tattoos. | #244 00:16:59: Чтоб татуировок не надо было сводить | adapted: adapted |
 | 5 | Элеонора | Мы однажды решили сделать тату с именами. | We once decided to get tattoos with our names. | #246 00:17:06: Решили, а давай тату сделаем с нашими именами | adapted: adapted |
 | 6 | Элеонора | А ты вообще зачем ко мне приходила? | And why did you come to see me at all? | #248 00:17:15: А зачем приходила-то | adapted: adapted |
-| 7 | Аня | Мама, я слышала, ты сегодня людей уволила. | Mom, I heard you fired people today. | #250 00:17:18: Да я слышала, ты людей уволила | adapted: adapted |
+| 7 | Элеонора | Мама, я слышала, ты сегодня людей уволила. | Mom, I heard you fired people today. | #250 00:17:18: Да я слышала, ты людей уволила | adapted: adapted |
 | 8 | Элеонора | Ты опять пришла просить за своего Дениса? | Did you come again to ask on behalf of your Denis? | #251 00:17:24: Опять пришла просить за своего Дениса | adapted: adapted |
-| 9 | Аня | И за Свету тоже, она моя подруга. | And for Sveta too, she is my friend. | #252 00:17:27: За Свету тоже. Она моя подруга | adapted: adapted |
+| 9 | Элеонора | И за Свету тоже, она моя подруга. | And for Sveta too, she is my friend. | #252 00:17:27: За Свету тоже. Она моя подруга | adapted: adapted |
 | 10 | Элеонора | Ладно, пусть они оба дальше спокойно работают. | Alright, let them both keep working in peace. | #253 00:17:30: Пусть работает | adapted: adapted |
 | 11 | Денис | Извини, пожалуйста, я просто немного задумался. | Excuse me, please, I was just lost in thought a bit. | #255 00:17:44: Извини | adapted: adapted |
-| 12 | Аня | Слушай, давай сейчас потанцуем прямо в кофейне? | Listen, let us dance right now right in the coffee shop? | #256 00:17:49: потанцуем? В кофейне | adapted: adapted |
+| 12 | Элеонора | Слушай, давай сейчас потанцуем прямо в кофейне? | Listen, let us dance right now right in the coffee shop? | #256 00:17:49: потанцуем? В кофейне | adapted: adapted |
 | 13 | Денис | Давай, ведь это моя самая любимая песня! | Let us do it, after all this is my favorite song! | #257 00:17:51: Просто это моя любимая песня | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And why did you come to see me at all?' Here the Russian phrasing highlights 'and' before landing on 'to come'.
 - 'Mom, I heard you fired people today.' Katya anchors the line on 'mom', while 'fired' completes the thought.
 - 'Did you come again to ask on behalf of your Denis?' The grammar packs 'you' and 'their own' into a tight, idiomatic kitchen exchange. Katya answers right away.
-- 'And for Sveta too, she is my friend.' The grammar packs 'and' and 'female friend' into a tight, idiomatic kitchen exchange.
+- 'And for Sveta too, she is my friend.' Here Katya anchors the thought on 'light; electricity' and finishes on 'female friend', keeping the spoken rhythm brisk and natural.
 - 'Alright, let them both keep working in peace.' The meaning hinges on 'all right' working together with 'to work' in spoken Russian.
 - 'Excuse me, please, I was just lost in thought a bit.' The grammar packs 'sorry' and 'got lost in thought' into a tight, idiomatic kitchen exchange. Katya answers right away.
 - 'Listen, let us dance right now right in the coffee shop?' Katya brings out the contrast between 'listen' and 'come on' in a few short words.

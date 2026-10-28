@@ -28,12 +28,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Look, Vika, how thoughtful I am in this photo!' Masculine adjective 'thoughtful/pensive' describes young Max.
 - 'This is an old childhood photo of Max with a toy bunny.' Indeclinable neuter noun 'photo' takes neuter adjectives.
 - 'Oh, Vika, I snagged it somewhere, a thread has started to run!' Literally 'the thread crept/slid', describing a run in knitwear.
-- 'Can you quickly fix the shawl for me right now?' Perfective infinitive 'to fix/correct' asks for a quick repair.
-- 'Unfortunately, I do not have knitting needles at home right now.' Genitive plural 'of knitting needles' follows the negative 'no'.
+- 'Can you quickly fix the shawl for me right now?' In spoken Russian, the words stay in their normal statement order and the speaker's rising voice at the end turns the line into a question.
+- 'Unfortunately, I do not have knitting needles at home right now.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'I accidentally left my knitting needles at work.' Vika thinks she has found a clever excuse to avoid knitting.
 - 'No problem at all, I have my own, I will bring them right now!' Of course, a real knitter travels with her own needles!
-- 'There are only a couple of stitches there, but I forgot my glasses.' Genitive plural 'of loops/stitches' follows the noun 'pair/couple'.
+- 'There are only a couple of stitches there, but I forgot my glasses.' Here the speaker anchors the thought on 'only, in all' and finishes on 'glasses', keeping the spoken rhythm brisk and natural.
 - 'Come on, Vika, there are only a couple of stitches there!' Alone in the room, Max tries to stay optimistic.
-- 'You have a university degree, we will figure it out quickly right now!' Reflexive future 'we will figure it out' promises teamwork.
+- 'You have a university degree, we will figure it out quickly right now!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'I am searching online how to mend a knitted shawl.' Max types the query into his laptop and finds a video tutorial.
-- 'Better search online how to stop lying!' Imperative 'search' plus infinitive 'to stop lying' delivers Vika's sharp retort.
+- 'Better search online how to stop lying!' Here Vika anchors the thought on 'better' and finishes on 'to lie', keeping the spoken rhythm brisk and natural.

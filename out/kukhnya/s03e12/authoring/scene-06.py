@@ -1,30 +1,30 @@
 ID = 'kukhnya-s03e12-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 12
 SCENE = 6
-TITLE = 'Прапорщик Задов и деньги  (Ensign Zadov and Money)'
+TITLE = "Прапорщик Задов и деньги  (Ensign Zadov and Money)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja'}
-LABELS = {'anya': 'Нагиев', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "nagiyev": "angelina"}
+LABELS = {"guest": "Гость", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.12'
 SOURCE_FILE = 'sources/kukhnya/s03/e12.ru.srt'
 
 INTRO = "Upstairs at Kirill Ilyich's door, Dmitry Nagiyev introduces himself and offers peace. Unfortunately, the retired officer recognizes Nagiyev from his comedic television role as Ensign Zadov and takes grave offense when Nagiyev offers him money. Listen to their exchange in Russian first."
 
 STORY = [
     ('guest', 'Что тебе надо?', 'What do you want?', [(92, 'тебе надо')], 'adapted'),
-    ('anya', 'Здравствуйте, меня Дмитрий зовут.', 'Hello, my name is Dmitry.', [(92, 'Меня Дмитрий зовут')], 'adapted'),
+    ('nagiyev', 'Здравствуйте, меня Дмитрий зовут.', 'Hello, my name is Dmitry.', [(92, 'Меня Дмитрий зовут')], 'adapted'),
     ('guest', 'Так, ты мне знаком.', 'Well, you look familiar to me.', [(93, 'Так, так')], 'adapted'),
     ('guest', 'Это ты, что ли, прапорщик?', 'Wait, are you that warrant officer?', [(94, 'Это ты, что ли, прапорщик')], 'adapted'),
-    ('anya', 'Молодец, узнал меня.', 'Well done, you recognized me.', [(96, 'Молодец')], 'adapted'),
-    ('anya', 'Я тебе мир предлагаю.', 'I am offering you peace.', [(97, 'Я тебе мир предлагаю')], 'adapted'),
+    ('nagiyev', 'Молодец, узнал меня.', 'Well done, you recognized me.', [(96, 'Молодец')], 'adapted'),
+    ('nagiyev', 'Я тебе мир предлагаю.', 'I am offering you peace.', [(97, 'Я тебе мир предлагаю')], 'adapted'),
     ('guest', 'Какой ещё тебе мир?', 'What kind of peace for you?', [(98, 'Какой тебе мир')], 'adapted'),
     ('guest', 'Ты всех русских прапорщиков опозорил!', 'You disgraced all Russian warrant officers!', [(99, 'Ты всех русских прапорщиков опозорил')], 'adapted'),
     ('guest', 'Ты всю русскую армию опозорил!', 'You disgraced the entire Russian army!', [(100, 'всю русскую армию')], 'adapted'),
-    ('anya', 'Я к тебе правда с миром пришёл.', 'I truly came to you in peace.', [(102, 'Я к тебе, правда, с миром пришел')], 'adapted'),
-    ('anya', 'Я просто тебе хотел денег предложить.', 'I just wanted to offer you some money.', [(103, 'Я просто тебе хотел денег предложить')], 'adapted'),
+    ('nagiyev', 'Я к тебе правда с миром пришёл.', 'I truly came to you in peace.', [(102, 'Я к тебе, правда, с миром пришел')], 'adapted'),
+    ('nagiyev', 'Я просто тебе хотел денег предложить.', 'I just wanted to offer you some money.', [(103, 'Я просто тебе хотел денег предложить')], 'adapted'),
     ('guest', 'Денег мне решил предложить?', 'You decided to offer me money?', [(104, 'Денег'), (105, 'Денег')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Offering cash to a proud retired officer who already hates Nagiyev's television character turns out to be a painful mistake. In the next scene, a doctor tends to Nagiyev after Kirill Ilyich's shotgun blast of rock salt."
-CLOSING = ('anya', 'Я тебе мир предлагаю.')
+OUTRO = "Offering cash to a proud retired officer who already hates Nagiyev's television character turns out to be a painful mistake. See you next time!"
+CLOSING = ("nagiyev", "До свидания!")

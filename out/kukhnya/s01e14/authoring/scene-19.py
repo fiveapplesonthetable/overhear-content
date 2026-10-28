@@ -1,99 +1,50 @@
-ID = "kukhnya-s01e14-scene-19"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e14-scene-19.
+ID = 'kukhnya-s01e14-scene-19'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 14
 SCENE = 19
 TITLE = "План Макса  (Max's Plan)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "leva": "anja", "guest": "angelina"}
-LABELS = {'anya': 'Макс', 'leva': 'Илья', 'guest': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S1.14"
-SOURCE_FILE = "sources/kukhnya/s01/e14.ru.dual.srt"
-SOURCE_NOTE = "Cues."
-
-INTRO = (
-    "In a brief moment of chaos, Max realizes he needs to take control of a difficult situation. He tells his colleagues that they will figure it out and urges them to go. Let us listen to their conversation in Russian first."
-)
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "ilya": "anja", "anya": "alisa"}
+LABELS = {"ilya": "Илья", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
+SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
+INTRO = 'In a brief moment of chaos, Max realizes he needs to take control of a difficult situation. He tells his colleagues that they will figure it out and urges them to go. Let us listen to their conversation in Russian first.'
+OPENER = 'Now let us examine the conversation line by line.'
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "In a brief moment of chaos, Max realizes he needs to take control of a difficult situation. He tells his colleagues that they will figure it out and urges them to go. Next time you watch the episode, listen for the Russian expressions for 'to sort out' and 'to be' — you will catch every word right away. See you next time!"
+CLOSING = ("ilya", "Пока!")
 STORY = [
-    ("anya", "Ладно, мы разберёмся с этим.",
-     "Alright, we will figure this out.",
-     [(280, 'Ладно, разберёмся.')], "adapted"),
-    ("anya", "Всё будет хорошо.",
-     "Everything will be fine.",
-     [], "exact"),
-    ("leva", "Что нам делать сейчас?",
-     "What should we do now?",
-     [], "exact"),
-    ("anya", "Поехали.",
-     "Let's go.",
-     [(281, 'Поехали.')], "adapted"),
-    ("guest", "Куда мы едем?",
-     "Where are we going?",
-     [], "exact"),
-    ("anya", "Мы никуда не едем.",
-     "We are not going anywhere.",
-     [], "exact"),
-    ("anya", "Это значит, что мы начинаем.",
-     "It means that we are starting.",
-     [], "exact"),
-    ("leva", "Теперь я всё понял.",
-     "Now I understand everything.",
-     [(282, 'Теперь')], "adapted"),
-    ("guest", "Тогда давайте работать.",
-     "Then let's work.",
-     [], "exact"),
-    ("anya", "Да, за работу.",
-     "Yes, back to work.",
-     [], "exact"),
-    ("leva", "У нас мало времени.",
-     "We have little time.",
-     [], "new"),
-    ("guest", "Мы должны успеть.",
-     "We must be in time.",
-     [], "new"),
-    ("anya", "Конечно мы успеем.",
-     "Of course we will be in time.",
-     [], "new"),
-    ("leva", "Тогда начинаем прямо сейчас.",
-     "Then we start right now.",
-     [], "new"),
+    ('anya', 'Ладно, мы разберёмся с этим.', 'Alright, we will figure this out.', [(280, 'Ладно, разберёмся.')], ''),
+    ('anya', 'Всё будет хорошо.', 'Everything will be fine.', [], ''),
+    ('ilya', 'Что нам делать сейчас?', 'What should we do now?', [], ''),
+    ('anya', 'Поехали.', "Let's go.", [(281, 'Поехали.')], ''),
+    ('ilya', 'Куда мы едем?', 'Where are we going?', [], ''),
+    ('anya', 'Мы никуда не едем.', 'We are not going anywhere.', [], ''),
+    ('anya', 'Это значит, что мы начинаем.', 'It means that we are starting.', [], ''),
+    ('ilya', 'Теперь я всё понял.', 'Now I understand everything.', [(282, 'Теперь')], ''),
+    ('ilya', 'Тогда давайте работать.', "Then let's work.", [], ''),
+    ('anya', 'Да, за работу.', 'Yes, back to work.', [], ''),
+    ('ilya', 'У нас мало времени.', 'We have little time.', [], ''),
+    ('ilya', 'Мы должны успеть.', 'We must be in time.', [], ''),
+    ('anya', 'Конечно мы успеем.', 'Of course we will be in time.', [], ''),
+    ('ilya', 'Тогда начинаем прямо сейчас.', 'Then we start right now.', [], ''),
 ]
-
-OPENER = "Now let us examine the conversation line by line."
-
 WALK = [
-    (0, None,
-     "'Alright, we will figure this out.' The reflexive ending on the verb for 'will sort this out' turns the action back onto the subject."),
-    (1, None,
-     "'Everything will be fine.' Notice the word order: 'will be' comes first, and 'good' finishes the sentence. Ilya answers straight away."),
-    (2, None,
-     "'What should we do now?' Here 'what' sets up the idea, while 'now' comes at the end for emphasis."),
-    (3, None,
-     "'Let's go.' You'll hear 'here we go' all the time in the show, here connected with 'here we go'."),
-    (4, None,
-     "'Where are we going?' The key word here means 'where to', which Sasha combines with 'we'. Then Max replies."),
-    (5, None,
-     "'We are not going anywhere.' Max starts with 'we' and pairs it with 'nowhere' to make the point clear."),
-    (6, None,
-     "'It means that we are starting.' Max puts 'this' up front so the listener immediately catches the tone, followed by 'then'."),
-    (7, None,
-     "'Now I understand everything.' In Russian, 'now' leads into 'understood?' in a very natural everyday phrasing. And Sasha jumps in."),
-    (8, None,
-     "'Then let's work.' The key word here means 'back then', which Sasha combines with 'let's'."),
-    (9, None,
-     "'Yes, back to work.' A compact expression built around 'job' and 'job'."),
-    (10, None,
-     "'We have little time.' Ilya starts with 'us' and pairs it with 'little' to make the point clear. Sasha answers straight away."),
-    (11, None,
-     "'We must be in time.' Notice the word order: 'we' comes first, and 'to make it' finishes the sentence."),
-    (12, None,
-     "'Of course we will be in time.' Listen for the word meaning 'of course' right alongside 'we' in this line."),
-    (13, None,
-     "'Then we start right now.' The first content word means 'back then', and 'now' rounds out the thought."),
+    (0, None, "'Alright, we will figure this out.' the self-directed ending on the verb for 'will sort this out' turns the action back onto the subject."),
+    (1, None, "'Everything will be fine.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (2, None, "'What should we do now?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (3, None, "'Let's go.' Max replies with a single verb form meaning 'here we go' — in Russian, the verb ending alone carries the subject and tense."),
+    (4, None, "'Where are we going?' The question opens with the everyday word for 'where to' and builds toward 'are going'."),
+    (5, None, "'We are not going anywhere.' Here Max anchors the line on the word meaning 'nowhere' and builds the thought around 'are going'."),
+    (6, None, "'It means that we are starting.' The phrasing opens with 'then' before bringing in 'are starting' to make the point clear."),
+    (7, None, "'Now I understand everything.' Ilya expresses this naturally by combining the word for 'now' with 'understood?'."),
+    (8, None, "'Then let's work.' Sasha leads with the direct command form meaning 'let's', pairing it with 'back then' and 'to work'."),
+    (9, None, "'Yes, back to work.' Russian omits the present-tense verb 'to be', connecting 'yes' directly with 'job'."),
+    (10, None, "'We have little time.' Ilya uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'little' with 'time'."),
+    (11, None, "'We must be in time.' Sasha expresses this naturally by combining the word for 'must' with 'to make it'."),
+    (12, None, "'Of course we will be in time.' Max puts the word for 'of course' together with 'we'll make it' in a crisp, natural spoken turn of phrase."),
+    (13, None, "'Then we start right now.' Here Ilya anchors the line on the word meaning 'back then' and builds the thought around 'are starting' and 'right'."),
 ]
-
-TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around max's plan, and for the words meaning 'will sort this out' and 'will be'. You'll catch them now. See you next time."
-CLOSING = ("leva", "Тогда начинаем прямо сейчас.")

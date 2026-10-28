@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 20
-TITLE = "Une nouvelle association  (A New Partnership)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une nouvelle association  (A New Partnership)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "camille": "emilie"}
-LABELS = {"mathias": "Mathias", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Along the banks of the Seine, Mathias Barneville and his daughter Camille Valentini talk about their career ambitions. With ASK closing its doors, Camille proposes teaming up to create an entirely new agency. Mathias embraces the opportunity to work alongside Camille as equal partners. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "United by family affection and shared professional passion, Mathias and Camille forge a bold new alliance. When you watch the episode, listen out for the expressions meaning 'must' and 'launch'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À bientôt!")
+OUTRO = "United by family affection and shared professional passion, Mathias and Camille forge a bold new alliance. When you watch the episode, listen out for the expressions meaning 'must' and 'launch'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À bientôt!')
 STORY = [
     ('mathias', 'Tu dois te lancer maintenant, Camille.', 'You must take the plunge now, Camille.', [(853, "Maintenant que tu l'as dit à tout le monde, il faut te lancer.")], ''),
     ('camille', 'Je veux créer ma propre agence.', 'I want to create my own agency.', [(854, 'Je ne sais pas comment, mais oui...')], ''),

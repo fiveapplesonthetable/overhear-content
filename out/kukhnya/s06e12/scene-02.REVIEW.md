@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Лёва | Анна Петровна, скажите, что у вас случилось? | Anna Petrovna, tell me, what happened at your place? | #23 00:01:51: Да, Анна Петровна, что-то случилось | adapted: adapted |
-| 2 | Аня | Я всего лишь случайно поскользнулась в ванной. | I merely slipped by accident in the bathroom. | #24 00:01:56: Всего лишь поскользнула с ванной | adapted: adapted |
-| 3 | Аня | Ничего страшного, не надо было так быстро бежать. | Nothing terrible, you did not need to run so fast. | #25 00:01:59: Ничего страшного | adapted: adapted |
-| 4 | Аня | Врач говорит, что у меня небольшая трещина. | The doctor says that I have a small fracture. | #26 00:02:02: Врач говорит, трещина | adapted: adapted |
-| 5 | Аня | Мне велели целый месяц лежать и не вставать. | They ordered me to lie in bed for a whole month and not get up. | #27 00:02:04: Месяц лежать и не вставать | adapted: adapted |
+| 2 | Гость | Я всего лишь случайно поскользнулась в ванной. | I merely slipped by accident in the bathroom. | #24 00:01:56: Всего лишь поскользнула с ванной | adapted: adapted |
+| 3 | Гость | Ничего страшного, не надо было так быстро бежать. | Nothing terrible, you did not need to run so fast. | #25 00:01:59: Ничего страшного | adapted: adapted |
+| 4 | Гость | Врач говорит, что у меня небольшая трещина. | The doctor says that I have a small fracture. | #26 00:02:02: Врач говорит, трещина | adapted: adapted |
+| 5 | Гость | Мне велели целый месяц лежать и не вставать. | They ordered me to lie in bed for a whole month and not get up. | #27 00:02:04: Месяц лежать и не вставать | adapted: adapted |
 | 6 | Лёва | Ну и как ты будешь одна целый месяц? | Well and how will you be alone for a whole month? | #28 00:02:07: Ну и как ты будешь одна тут целый месяц | adapted: adapted |
-| 7 | Гуля | Врач правильно говорит, за ней нужен хороший уход. | The doctor says rightly, she needs good care. | #29 00:02:10: Врач говорит, уход за ней нужен | adapted: adapted |
+| 7 | Гость | Врач правильно говорит, за ней нужен хороший уход. | The doctor says rightly, she needs good care. | #29 00:02:10: Врач говорит, уход за ней нужен | adapted: adapted |
 | 8 | Лёва | Мама, давай сейчас же забудем все старые обиды. | Mom, let us forget all old grievances right now. | #30 00:02:17: Мам, ну давай забудем все обиды | adapted: adapted |
-| 9 | Аня | Хорошо, сынок, давай забудем наши старые обиды. | Alright, son, let us forget our old grievances. | #31 00:02:21: Давай | adapted: adapted |
+| 9 | Гость | Хорошо, сынок, давай забудем наши старые обиды. | Alright, son, let us forget our old grievances. | #31 00:02:21: Давай | adapted: adapted |
 | 10 | Лёва | Тогда мы вместе с Гулей переезжаем к тебе. | Then Gulya and I are moving in with you together. | #32 00:02:23: Тогда мы с Гули переезжаем к тебе | adapted: adapted |
-| 11 | Аня | Ну уж нет, это я последний раз говорю! | Certainly not, I am saying this for the last time! | #33 00:02:25: Ну уж нет<br>#34 00:02:27: Это я последний раз говорю | adapted: adapted |
-| 12 | Аня | Выбирай прямо сейчас: или она, или я! | Choose right now: either her or me! | #35 00:02:29: Или она, или я | adapted: adapted |
+| 11 | Гость | Ну уж нет, это я последний раз говорю! | Certainly not, I am saying this for the last time! | #33 00:02:25: Ну уж нет<br>#34 00:02:27: Это я последний раз говорю | adapted: adapted |
+| 12 | Гость | Выбирай прямо сейчас: или она, или я! | Choose right now: either her or me! | #35 00:02:29: Или она, или я | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

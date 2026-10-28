@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 12
-TITLE = "Une fleur magnifique  (Like a Wonderful Flower)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une fleur magnifique  (Like a Wonderful Flower)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gillieres": "theo", "lea": "lucie"}
-LABELS = {"gillieres": "Jean-Denis", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gillieres': 'theo', 'lea': 'lucie'}
+LABELS = {'gillieres': 'Jean-Denis', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At a glamorous Cannes festival gathering, wealthy benefactor Jean-Denis Gillières admires Juliette Binoche from afar. When Andréa Martel approaches, he shares his admiration and asks to meet the star in person. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
 OUTRO = 'Jean-Denis Gillières expresses his deep admiration for Juliette Binoche and meets her agent Andréa Martel. Impressed by the demanding work of talent agents, he asks Andréa to arrange an introduction. See you next time!'
-CLOSING = ("lea", "À bientôt!")
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('gillieres', "Il y a des actrices qu'on voit beaucoup.", 'There are actresses you see a lot.', [(264, "Il y a des actrices qu'on voit beaucoup,")], ''),
     ('gillieres', 'Puis elles travaillent moins, et le charme a disparu.', 'Then they work less, and the charm has vanished.', [(265, 'puis elles travaillent moins,'), (266, 'le charme a disparu.')], ''),

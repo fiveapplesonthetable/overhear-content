@@ -1,23 +1,23 @@
 ID = 'kukhnya-s03e04-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 4
 SCENE = 16
-TITLE = 'Поиски слона  (Searching for the Elephant)'
+TITLE = "Поиски слона  (Searching for the Elephant)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'rodion': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'rodion': 'Родион', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.04'
 SOURCE_FILE = 'sources/kukhnya/s03/e04.ru.srt'
 
 INTRO = 'While Rodion Sergeyevich finds the little elephant in the courtyard and pockets it as a lucky charm, Chef Barinov orders the entire kitchen crew to turn the restaurant upside down looking for it.'
 
 STORY = [
     ('anya', 'Извините, Родион Сергеевич, я этого не хотел.', "Excuse me, Rodion Sergeyevich, I didn't mean to do that.", [(224, 'Извините, Родион Сергеевич, я этого не хотел')], ''),
-    ('rodion', 'Да ничего. У меня даже в гороскопе написано, что сегодня неудачный день.', "It's nothing. Even my horoscope says that today is an unlucky day.", [(225, 'Да ничего. У меня даже в гороскопе написано, что сегодня неудачный день')], ''),
+    ('chef', 'Да ничего. У меня даже в гороскопе написано, что сегодня неудачный день.', "It's nothing. Even my horoscope says that today is an unlucky day.", [(225, 'Да ничего. У меня даже в гороскопе написано, что сегодня неудачный день')], ''),
     ('anya', 'А вы что, верите в эту ерунду?', 'Do you actually believe in that nonsense?', [(226, 'А вы что, верите в эту ерунду')], ''),
-    ('rodion', 'Вот у меня теперь всегда удачный день!', 'Now I always have a lucky day!', [(227, 'Вот у меня'), (227, 'всегда удачный день')], 'adapted'),
+    ('chef', 'Вот у меня теперь всегда удачный день!', 'Now I always have a lucky day!', [(227, 'Вот у меня'), (227, 'всегда удачный день')], 'adapted'),
     ('anya', 'Шеф, перевернули всё вверх дном — нет слона.', 'Chef, we turned everything upside down — there is no elephant.', [(228, 'Шеф, перевернули все вверх дном'), (229, 'Нет, слона')], 'adapted'),
     ('chef', 'Ищите, Сеня, ищите!', 'Search, Senya, search!', [(229, 'Ищите, Сеня, ищите')], ''),
     ('chef', 'Найдите мне слона!', 'Find me the elephant!', [(231, 'Найдите мне слона')], ''),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That brings Scene Sixteen to a close. Notice how Max is so busy running dishes to Nagiyev that he misses another chance to hear what Vika wants to tell him.'
-CLOSING = ('chef', 'Найдите мне слона!')
+OUTRO = 'That brings Scene Sixteen to a close. Notice how Max is so busy running dishes to Nagiyev that he misses another chance to hear what Vika wants to tell him. See you next time!'
+CLOSING = ("chef", "Увидимся!")

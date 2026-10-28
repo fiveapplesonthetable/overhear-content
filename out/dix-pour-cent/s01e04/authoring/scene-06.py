@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 6
-TITLE = "Une strip-teaseuse écolo  (An Ecologist Stripper)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une strip-teaseuse écolo  (An Ecologist Stripper)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "audrey": "emilie", "mathias": "marcel"}
-LABELS = {"audrey": "Audrey", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'audrey': 'emilie', 'mathias': 'marcel'}
+LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "At the agency, Noémie has just scolded Camille for saying 'kiss-kiss' to a star on the phone. Now we're at a cafe with Mathias and his client Audrey Fleurot, who has brought her two small children along. Mathias is trying to pitch her Augustin's film between spoonfuls of baby food. We'll hear it in French first; just follow the story and don't worry about every word."
 OPENER = "Let's go back through their cafe meeting. Audrey is trying to get her little girl to eat first."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Audrey has a lot of tax bills to pay, and now Mathias wants her to play a stripper. Listen out for how French says 'surname' and 'that doesn't matter'. See you next time."
-CLOSING = ("audrey", "Au revoir!")
+OUTRO = "Audrey has a lot of tax bills to pay, and now Mathias wants her to play a stripper. Listen out for how French says 'surname' and 'that doesn't matter'. See you next time!"
+CLOSING = ('audrey', 'Au revoir!')
 STORY = [
     ('audrey', 'Chérie, fais-le pour maman.', 'Sweetheart, do it for Mummy.', [(162, 'Chérie, fais-le pour maman.')], ''),
     ('audrey', 'Parle-moi de cet Augustin. Quel est son nom de famille?', 'Tell me about this Augustin. What', [(165, 'Parle-moi de cet Augustin.'), (166, 'Quel est son nom de famille ?')], ''),

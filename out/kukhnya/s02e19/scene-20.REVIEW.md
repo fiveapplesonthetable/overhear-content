@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Повара что в зале делают? | What on earth are the cooks doing in the dining room? | #331 00:20:32: Повара что в зале делают | verbatim |
+| 1 | Шеф | Повара что в зале делают? | What on earth are the cooks doing in the dining room? | #331 00:20:32: Повара что в зале делают | verbatim |
 | 2 | Лёва | Что это? | What is the meaning of this? | #333 00:20:36: Что это | verbatim |
-| 3 | Аня | Повара сами приносят, что приготовили. | The cooks are personally bringing out what they prepared. | #334 00:20:39: Повара сами приносят, что приготовили | verbatim |
+| 3 | Шеф | Повара сами приносят, что приготовили. | The cooks are personally bringing out what they prepared. | #334 00:20:39: Повара сами приносят, что приготовили | verbatim |
 | 4 | Лёва | Вы что творите, а? | What the hell are you people doing, huh? | #336 00:20:51: Вы что творите, а | verbatim |
-| 5 | Аня | Мы сейчас все исправим. | We will fix everything right now. | #336 00:20:51: Мы сейчас все исправим | verbatim |
+| 5 | Шеф | Мы сейчас все исправим. | We will fix everything right now. | #336 00:20:51: Мы сейчас все исправим | verbatim |
 | 6 | Лёва | Так сказать. | So to speak. | #337 00:20:53: так сказать | verbatim |
-| 7 | Аня | За мной. | Follow me, right now. | #338 00:20:57: За мной | verbatim |
+| 7 | Шеф | За мной. | Follow me, right now. | #338 00:20:57: За мной | verbatim |
 | 8 | Лёва | А что у нас происходит? | What is going on in our restaurant? | #339 00:21:00: А что у нас происходит | verbatim |
-| 9 | Аня | Они не вышли сегодня. | They did not show up for work today. | #340 00:21:02: Они не вышли сегодня | verbatim |
+| 9 | Шеф | Они не вышли сегодня. | They did not show up for work today. | #340 00:21:02: Они не вышли сегодня | verbatim |
 | 10 | Лёва | Как это не вышли? | What do you mean, they did not show up? | #341 00:21:05: Как это не вышли | verbatim |
-| 11 | Аня | Вы не знаете, где ваши подчиненные? | You do not even know where your own subordinates are? | #342 00:21:07: Вы не знаете, где ваши подчиненные | verbatim |
+| 11 | Шеф | Вы не знаете, где ваши подчиненные? | You do not even know where your own subordinates are? | #342 00:21:07: Вы не знаете, где ваши подчиненные | verbatim |
 | 12 | Лёва | Знаете, о чем это говорит, а? | Do you know what that says about you, huh? | #343 00:21:10: Знаете, о чем это говорит, а | verbatim |
-| 13 | Аня | А ведь он прав. | And you know, the old man is right. | #344 00:21:15: А ведь он прав | verbatim |
+| 13 | Шеф | А ведь он прав. | And you know, the old man is right. | #344 00:21:15: А ведь он прав | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

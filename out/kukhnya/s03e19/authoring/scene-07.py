@@ -1,22 +1,22 @@
 ID = 'kukhnya-s03e19-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 7
-TITLE = 'Проверка телефонным номером  (The Phone Number Test)'
+TITLE = "Проверка телефонным номером  (The Phone Number Test)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'eva': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'eva': 'Хостес'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa", "hostess": "anja"}
+LABELS = {"vika": "Вика", "anya": "Макс", "hostess": "Хостес"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = 'While Vika is away from the table, a young woman slips Max her phone number. Max throws the napkin away without telling Vika—and discovers that Vika sent the woman to test whether he tells her the whole truth!'
 
 STORY = [
-    ('eva', 'Вот мой номер, позвони мне сегодня вечером.', 'Here is my number, call me tonight.', [(112, 'вот, позвони мне')], 'adapted'),
+    ('hostess', 'Вот мой номер, позвони мне сегодня вечером.', 'Here is my number, call me tonight.', [(112, 'вот, позвони мне')], 'adapted'),
     ('anya', 'Девушка, вообще-то я здесь сижу не один.', 'Miss, actually I am not sitting here alone.', [(113, 'Вообще-то я не один')], 'adapted'),
-    ('eva', 'Ну ничего, позвони мне, когда будешь один.', 'Well that is fine, call me when you are alone.', [(114, 'Ну, позвони, когда будешь один')], 'adapted'),
+    ('hostess', 'Ну ничего, позвони мне, когда будешь один.', 'Well that is fine, call me when you are alone.', [(114, 'Ну, позвони, когда будешь один')], 'adapted'),
     ('vika', 'Ну как ты тут, ещё не умер от тоски?', 'Well how are you here, have you not died of boredom yet?', [(115, 'Ну как, не умер от тоски')], 'adapted'),
     ('anya', 'От тоски нет, а вот от голода сейчас умру.', 'Not of boredom, but I am about to die of hunger right now.', [(117, 'А вот от голода сейчас умру')], 'adapted'),
     ('anya', 'Давай скорее нашего официанта сюда позовём.', 'Let us quickly call our waiter over here.', [(120, 'официанта же надо позвать')], 'adapted'),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Now that Max knows Vika stages secret loyalty tests, he becomes suspicious of every woman who speaks to him.'
-CLOSING = ('vika', 'Говорить правду — значит говорить всё.')
+OUTRO = 'Now that Max knows Vika stages secret loyalty tests, he becomes suspicious of every woman who speaks to him. Until next time!'
+CLOSING = ("vika", "До встречи!")

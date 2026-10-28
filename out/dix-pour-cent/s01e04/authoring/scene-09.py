@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 4
 SCENE = 9
 TITLE = "Dîner chez Mathias  (Dinner at Mathias's)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "catherine": "emilie", "mathias": "marcel"}
-LABELS = {"catherine": "Catherine", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'mathias': 'marcel'}
+LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "After a tense day worrying about the German offer for ASK and StarMédia's proposal, Mathias is back home having dinner with his wife, Catherine. Their son Hippolyte isn't at the table tonight, and Catherine starts wondering aloud about the girl he's been seeing: Andréa's new assistant, Camille, who is secretly Mathias's own daughter. Let's listen to the French first without worrying about every detail."
 OPENER = "Let's go through their conversation line by line. Catherine begins with news about their son."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Mathias has one more problem to fix before Hippolyte and Camille get any closer. See you next time!!'
-CLOSING = ("catherine", "Bonne journée!")
+OUTRO = 'Mathias has one more problem to fix before Hippolyte and Camille get any closer. See you next time!'
+CLOSING = ('catherine', 'Bonne journée!')
 STORY = [
     ('catherine', 'Hippolyte ne sera pas là pour le dîner.', 'Hippolyte won', [(245, 'Hippolyte ne sera pas là pour le dîner')], ''),
     ('mathias', 'Il travaille son texte?', 'Is he working on his lines?', [], ''),

@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | Je te déteste. | I hate you. | 131:Je te déteste |
 
 ## Part 5 — Outro & Closing
-> Camille has a ticket to the Césars, and two very jealous colleagues. If you heard the helper verb with the past forms, you've learned something you'll use every day. See you next time.
+> Camille has a ticket to the Césars, and two very jealous colleagues. If you heard the helper verb with the past forms, you've learned something you'll use every day. See you next time!
 - **Closing**: `camille`: *À bientôt!*

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Верить теории буддистов. | If you believe the theory of the Buddhists. | #2 00:01:05: верить теории буддистов | verbatim |
-| 2 | Макс | Наверное, даже был Гитлером. | I was probably even Hitler in a past life. | #3 00:01:11: Наверное, даже был Гитлером | verbatim |
-| 3 | Аня | Иначе я не понимаю? | Otherwise I just do not understand it? | #4 00:01:14: Иначе я не понимаю | verbatim |
-| 4 | Макс | За что мне такое наказание? | What did I do to deserve such punishment? | #4 00:01:14: за что мне такое наказание | verbatim |
-| 5 | Аня | Как ты? | How are you holding up? | #4 00:01:14: как ты | verbatim |
-| 6 | Макс | А ведь если бы я туда попал. | And yet if I ever made it in there. | #7 00:01:27: А ведь если бы я туда попал | verbatim |
-| 7 | Аня | Шеф, а можно с вами? | Chef, can I come along with you? | #8 00:01:34: Шеф, а можно с вами | verbatim |
-| 8 | Макс | Даже не мечтаю. | Do not even dream about it. | #9 00:01:50: Даже не мечтаю | verbatim |
-| 9 | Аня | Они никого с собой не берут. | They never bring anyone along with them. | #10 00:01:52: Они никого с собой не берут | verbatim |
-| 10 | Макс | Мы для них никто. | To them, we are nobodies. | #11 00:01:53: Мы для них никто | verbatim |
-| 11 | Аня | Это элита. | That is the elite. | #11 00:01:53: Это элита | verbatim |
-| 12 | Макс | А ты-то кто? | And who do you think you are? | #12 00:01:57: А ты-то кто | verbatim |
-| 13 | Аня | Я здесь уже три года работаю. | I have been working here for three years already. | #14 00:02:01: Я здесь уже три года работаю | verbatim |
+| 1 | Шеф | Верить теории буддистов. | If you believe the theory of the Buddhists. | #2 00:01:05: верить теории буддистов | verbatim |
+| 2 | Аня | Наверное, даже был Гитлером. | I was probably even Hitler in a past life. | #3 00:01:11: Наверное, даже был Гитлером | verbatim |
+| 3 | Шеф | Иначе я не понимаю? | Otherwise I just do not understand it? | #4 00:01:14: Иначе я не понимаю | verbatim |
+| 4 | Аня | За что мне такое наказание? | What did I do to deserve such punishment? | #4 00:01:14: за что мне такое наказание | verbatim |
+| 5 | Шеф | Как ты? | How are you holding up? | #4 00:01:14: как ты | verbatim |
+| 6 | Аня | А ведь если бы я туда попал. | And yet if I ever made it in there. | #7 00:01:27: А ведь если бы я туда попал | verbatim |
+| 7 | Шеф | Шеф, а можно с вами? | Chef, can I come along with you? | #8 00:01:34: Шеф, а можно с вами | verbatim |
+| 8 | Аня | Даже не мечтаю. | Do not even dream about it. | #9 00:01:50: Даже не мечтаю | verbatim |
+| 9 | Шеф | Они никого с собой не берут. | They never bring anyone along with them. | #10 00:01:52: Они никого с собой не берут | verbatim |
+| 10 | Аня | Мы для них никто. | To them, we are nobodies. | #11 00:01:53: Мы для них никто | verbatim |
+| 11 | Шеф | Это элита. | That is the elite. | #11 00:01:53: Это элита | verbatim |
+| 12 | Аня | А ты-то кто? | And who do you think you are? | #12 00:01:57: А ты-то кто | verbatim |
+| 13 | Шеф | Я здесь уже три года работаю. | I have been working here for three years already. | #14 00:02:01: Я здесь уже три года работаю | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

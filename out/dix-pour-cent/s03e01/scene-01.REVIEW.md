@@ -27,5 +27,5 @@
 | 13 | `colette` (Colette) | Elle ressemble beaucoup à sa maman. | She looks a lot like her mother. | 19:notre fille. |
 
 ## Part 5 — Outro & Closing
-> Andrea and Colette resolve to fight the unfair hiring discrimination, finding strength in their growing family. When you watch the episode, listen out for the expressions meaning 'lawyer' and 'says'. You'll catch them now. See you next time.
+> Andrea and Colette resolve to fight the unfair hiring discrimination, finding strength in their growing family. When you watch the episode, listen out for the expressions meaning 'lawyer' and 'says'. You'll catch them now. See you next time!
 - **Closing**: `colette`: *À bientôt!*

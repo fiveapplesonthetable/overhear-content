@@ -28,5 +28,5 @@
 | 14 | `lea` (Andréa) | Tiens, chérie. Ça va te faire du bien. Viens là. | Here, darling. This will do you good. Come here. | 156:Tiens, chérie. Ça va te, 157:Viens là |
 
 ## Part 5 — Outro & Closing
-> While Andréa and Gabriel prepare a plan to force Julie and JoeyStarr to make peace on set, a new crisis erupts back at the ASK offices in Paris. Next, Arlette brings a furious soap-opera writer into Mathias's office. See you there.
+> While Andréa and Gabriel prepare a plan to force Julie and JoeyStarr to make peace on set, a new crisis erupts back at the ASK offices in Paris. See you next time!
 - **Closing**: `sofia`: *Bonne journée!*

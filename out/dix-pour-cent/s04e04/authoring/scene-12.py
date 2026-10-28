@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 4
 SCENE = 12
 TITLE = "Le grand amour de Sandrine  (Sandrine's True Love)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sarah": "emilie", "gabriel": "theo"}
-LABELS = {"sarah": "Sarah", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sarah': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sarah': 'Sarah', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "In Gabriel's office, Sarah tries to calm his fears about Sandrine Kiberlain's sudden passion for stand-up comedy. However, Gabriel is completely absorbed in his phone and barely pays attention to her advice. Let's listen to their tense exchange in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Sarah storms out of the office, leaving Gabriel calling her name in the corridor. When you watch the episode, listen out for the expressions meaning 'worry' and 'wants'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = "Sarah storms out of the office, leaving Gabriel calling her name in the corridor. When you watch the episode, listen out for the expressions meaning 'worry' and 'wants'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('sarah', "Ne t'inquiète pas pour Sandrine.", 'Do not worry about Sandrine.', [(886, "Ne t'inquiète pas pour Sandrine")], ''),
     ('sarah', "Elle veut juste changer d'air.", 'She just wants a change of air.', [(887, "Elle veut juste changer d'air")], ''),

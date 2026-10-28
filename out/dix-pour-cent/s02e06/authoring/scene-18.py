@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 6
 SCENE = 18
 TITLE = "Face à la vérité  (I Can't Love You)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "catherine": "emilie", "mathias": "marcel"}
-LABELS = {"catherine": "Catherine", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'mathias': 'marcel'}
+LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = 'In a hotel room at the Cannes Film Festival, Mathias receives an unexpected visit from his wife Catherine. Having visited Camille in Mandelieu, Catherine delivers an ultimatum about his duties as a father. Listen to the scene in French first.'
 OPENER = "Let's examine how Catherine confronts Mathias about the future of Camille."
 TRANSITION = "Now let's listen to the painful confrontation once more at normal pace."
 OUTRO = 'In Cannes, Catherine delivers a necessary truth that forces Mathias to face his responsibilities as a father. Listen to the poignant conversation once more in French. See you next time!'
-CLOSING = ("catherine", "Au revoir!")
+CLOSING = ('catherine', 'Au revoir!')
 STORY = [
     ('mathias', 'Catherine? Quelle surprise de te voir à Cannes!', 'Catherine? What a surprise to see you in Cannes!', [(486, 'Bonjour, monsieur.'), (489, "Si, c'est ma femme.")], ''),
     ('catherine', 'Je suis allée à Mandelieu avant de venir.', 'I went to Mandelieu before coming.', [(493, 'Je suis allée à Mandelieu.')], ''),

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e03-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 2
-TITLE = 'Первый гость  (The First Guest)'
+TITLE = "Первый гость  (The First Guest)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "guest": "anja"}
+LABELS = {"anya": "Макс", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = 'Max explains that the biggest superstition in any restaurant is the first guest of the morning: if a woman walks in first, you are in for trouble—and sure enough, an arrogant guest picks a fight with him.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings Scene Two to a close. Watch how the first guest of the morning proves the waiters' omen right within two minutes."
-CLOSING = ('guest', 'Позовите администратора!')
+OUTRO = "That brings Scene Two to a close. Watch how the first guest of the morning proves the waiters' omen right within two minutes. See you next time!"
+CLOSING = ("guest", "Увидимся!")

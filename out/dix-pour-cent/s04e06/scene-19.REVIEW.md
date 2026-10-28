@@ -26,5 +26,5 @@
 | 12 | `lea` (Andréa) | Merci pour ta tendresse et ton écoute. | Thank you for your tenderness and listening. | 849:Tu ne m'as pas répondu... |
 
 ## Part 5 — Outro & Closing
-> With a gentle kiss and words of gratitude, Andrea and Colette conclude their love story without bitterness. When you watch the episode, listen out for the expressions meaning 'am listening to' and 'answered'. You'll catch them now. See you next time.
+> With a gentle kiss and words of gratitude, Andrea and Colette conclude their love story without bitterness. When you watch the episode, listen out for the expressions meaning 'am listening to' and 'answered'. You'll catch them now. See you next time!
 - **Closing**: `colette`: *Bonne journée!*

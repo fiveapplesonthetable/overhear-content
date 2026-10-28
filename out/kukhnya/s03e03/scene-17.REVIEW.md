@@ -18,10 +18,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Гость | Хочешь шантажировать? Ты у меня из Москвы вылетишь! | Do you want to blackmail me? You will fly right out of Moscow! | #289 00:19:12: Хочешь шантажировать<br>#291 00:19:19: ты у меня из Москвы вылетишь | adapted: adapted |
 | 7 | Аня | Вика! Вика! | Vika! Vika! | #292 00:19:25: Вика | verbatim |
 | 8 | Гость | Вы? Да вам никто не поверит. У вас доказательств нет. | You? Nobody will believe you. You have no proof. | #294 00:19:30: Вы? Да вам никто не поверит<br>#295 00:19:32: У вас доказательств нет | adapted: adapted |
-| 9 | Родион | Боюсь, вы не правы. | I am afraid you are not right. | #296 00:19:34: Боюсь, вы не правы | verbatim |
-| 10 | Родион | Вот этот телефонный аппарат снял аварию. | This telephone device filmed the accident. | #297 00:19:37: Вот этот<br>#297 00:19:37: телефонный аппарат снял | adapted: adapted |
+| 9 | Гость | Боюсь, вы не правы. | I am afraid you are not right. | #296 00:19:34: Боюсь, вы не правы | verbatim |
+| 10 | Гость | Вот этот телефонный аппарат снял аварию. | This telephone device filmed the accident. | #297 00:19:37: Вот этот<br>#297 00:19:37: телефонный аппарат снял | adapted: adapted |
 | 11 | Аня | А вот и доказательство! | And here is the proof! | #298 00:19:43: А вот и доказательство | verbatim |
-| 12 | Аня | Что скажет ваш муж, когда увидит в сети запись, где жена сбивает беременную женщину? | What will your husband say when he sees a recording online where his wife hits a pregnant woman? | #299 00:19:44: что скажет ваш муж, когда увидит в сети запись<br>#300 00:19:47: где жена<br>#300 00:19:47: сбивает беременную<br>#300 00:19:47: женщину | adapted: adapted |
+| 12 | Аня | Что скажет ваш муж, когда увидит в сети запись? | What will your husband say when he sees the recording online? | #299 00:19:44: что скажет ваш муж, когда увидит в сети запись | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am afraid you are not right.' Here the Russian phrasing highlights 'am afraid' before landing on 'right'.
 - 'This telephone device filmed the accident.' In Russian, the idea of 'here' flows naturally into 'accident' without extra filler words.
 - 'And here is the proof!' The meaning hinges on 'and' working together with 'proof' in spoken Russian.
-- 'What will your husband say when he sees a recording online where his wife hits a pregnant woman?' Notice how Russian expresses 'what' and 'woman' with crisp inflection rather than helper words.
+- 'What will your husband say when he sees the recording online?' Max pairs 'will tell, will say' with 'the recording' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

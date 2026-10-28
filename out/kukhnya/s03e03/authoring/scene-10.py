@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e03-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 10
-TITLE = 'Переезд вечером  (Moving in the Evening)'
+TITLE = "Переезд вечером  (Moving in the Evening)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = 'Outside the club, Vika accidentally bumps a pedestrian who demands five thousand rubles to stay quiet, giving Max a wild idea—while Barinov helps Katya pack her bags in his car.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings Scene Ten to a close. Unbeknownst to Barinov and Katya, a piece of Katya's clothing falls out of her poorly packed bag onto the back seat of his car."
-CLOSING = ('chef', 'Вещи надо нормально сложить!')
+OUTRO = "That brings Scene Ten to a close. Unbeknownst to Barinov and Katya, a piece of Katya's clothing falls out of her poorly packed bag onto the back seat of his car. See you next time!"
+CLOSING = ("chef", "Хорошего дня!")

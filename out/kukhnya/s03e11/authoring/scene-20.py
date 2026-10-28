@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e11-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 20
 TITLE = "Ответный розыгрыш Макса  (Max's Counter-Prank)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "katya": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "katya": "Катя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = "In our final scene, Max's hired 'mother' enthusiastically asks whether they will celebrate the wedding at the cheburek stand, forcing Katya to admit in front of Max that she already confessed the truth to her father. Max pays the woman for her acting and reflects on how everyone hides their secret fears."
@@ -40,13 +40,13 @@ WALK = [
     (5, None, "'Chef, I told you this truth right away!' An emphatic spoken line centered on the verb meaning 'said'."),
     (6, None, "'Thank you very much, here is your money for the act.' In Russian, the idea of 'thank you' flows naturally into 'game' without extra filler words."),
     (7, None, "'Every person has their own secret fears.' Here the Russian phrasing highlights 'at' before landing on 'fears'."),
-    (8, None, "'Some people try never to open that door.' Notice the reflexive suffix on the verb meaning 'to try', turning the action back on the subject."),
+    (8, None, "'Some people try never to open that door.' Max pairs 'people' with 'open' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (9, None, "'Others try to hide their fears from everyone.' The grammar packs 'other' and 'fears' into a tight, idiomatic kitchen exchange."),
-    (10, None, "'And some people in life are very lucky.' The grammar packs 'and' and 'to be lucky' into a tight, idiomatic kitchen exchange."),
+    (10, None, "'And some people in life are very lucky.' Here Max anchors the thought on 'some, certain' and finishes on 'to be lucky; to take', keeping the spoken rhythm brisk and natural."),
     (11, None, "'They have no fear in their soul at all.' Here the Russian phrasing highlights 'at' before landing on 'fear'."),
-    (12, None, "'Because brave guys are not afraid of anything.' Notice the reflexive suffix on the verb meaning 'are afraid of', turning the action back on the subject."),
+    (12, None, "'Because brave guys are not afraid of anything.' Max pairs 'that is why' with 'are afraid of' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that completes Episode Eleven of Season Three of Kukhnya! Both Katya's secret and Chef Barinov's fears are finally out in the open. Great job practicing Russian today!"
-CLOSING = ('anya', 'Смелые парни ничего не боятся!')
+OUTRO = "And that completes Episode Eleven of Season Three of Kukhnya! Both Katya's secret and Chef Barinov's fears are finally out in the open. Great job practicing Russian today! See you next time!"
+CLOSING = ("anya", "До свидания!")

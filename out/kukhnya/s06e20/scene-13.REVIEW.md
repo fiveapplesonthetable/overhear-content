@@ -16,12 +16,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Инспектор | Я хочу посмотреть, как вы готовите. | I want to watch how you cook. | #183 00:13:17: я очень хочу посмотреть<br>#184 00:13:21: как вы готовите | adapted: adapted |
 | 5 | Инспектор | Хочу отразить это в своём отчёте. | I want to include this in my report. | #184 00:13:21: чтобы отразить это в своем отчете | adapted: adapted |
 | 6 | Инспектор | Скажите, можно мне это увидеть? | Tell me, may I see that? | #185 00:13:24: Можно | adapted: adapted |
-| 7 | Аня | Да, конечно, приходите на кухню. | Yes, of course, come into the kitchen. | #186 00:13:28: Конечно | adapted: adapted |
-| 8 | Настя | Мама, а ты что тут делаешь? | Mom, what are you doing here? | #188 00:13:39: А ты что тут делаешь | adapted: adapted |
-| 9 | Аня | Папа попросил забрать результаты анализа. | Dad asked me to pick up test results. | #189 00:13:40: папа попросил забрать результаты его анализа | adapted: adapted |
-| 10 | Настя | А у меня анализ папы Кости. | And I have Kostya's dad's test. | #190 00:13:45: тоже папа | adapted: adapted |
-| 11 | Настя | Ладно, мне уже идти надо. | Alright, I need to get going now. | #193 00:13:51: Ладно, мне идти надо | adapted: adapted |
-| 12 | Аня | Да, мне тоже пора домой. | Yes, it is time for me to go home too. | #193 00:13:51: Да, мне тоже | adapted: adapted |
+| 7 | Шеф | Да, конечно, приходите на кухню. | Yes, of course, come into the kitchen. | #186 00:13:28: Конечно | adapted: adapted |
+| 8 | Инспектор | Мама, а ты что тут делаешь? | Mom, what are you doing here? | #188 00:13:39: А ты что тут делаешь | adapted: adapted |
+| 9 | Шеф | Папа попросил забрать результаты анализа. | Dad asked me to pick up test results. | #189 00:13:40: папа попросил забрать результаты его анализа | adapted: adapted |
+| 10 | Инспектор | А у меня анализ папы Кости. | And I have Kostya's dad's test. | #190 00:13:45: тоже папа | adapted: adapted |
+| 11 | Инспектор | Ладно, мне уже идти надо. | Alright, I need to get going now. | #193 00:13:51: Ладно, мне идти надо | adapted: adapted |
+| 12 | Шеф | Да, мне тоже пора домой. | Yes, it is time for me to go home too. | #193 00:13:51: Да, мне тоже | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

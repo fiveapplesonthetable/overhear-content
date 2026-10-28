@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Oui, commandons un bon dîner. | Yes, let us order a good dinner. | 797:-On mange ? -Oui |
 
 ## Part 5 — Outro & Closing
-> Fabrice Luchini and Andréa bond over theatrical art and romantic advice over dinner. Remember the colloquial French encouragement for seizing an opportunity: fonce. Until next time.
+> Fabrice Luchini and Andréa bond over theatrical art and romantic advice over dinner. Remember the colloquial French encouragement for seizing an opportunity: fonce. See you next time!
 - **Closing**: `lea`: *À demain!*

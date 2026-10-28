@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну что, очень неожиданный поворот? | Well, is this a very unexpected twist? | #115 00:08:49: неожиданный поворот | adapted: adapted |
-| 2 | Никита | Да замолчи ты вообще сейчас! | Oh, just shut up right now! | #116 00:08:51: Да заткнись ты вообще | adapted: adapted |
+| 1 | Гость | Ну что, очень неожиданный поворот? | Well, is this a very unexpected twist? | #115 00:08:49: неожиданный поворот | adapted: adapted |
+| 2 | Гость | Да замолчи ты вообще сейчас! | Oh, just shut up right now! | #116 00:08:51: Да заткнись ты вообще | adapted: adapted |
 | 3 | Гость | Алло, мама, привет, мы работаем. | Hello, Mom, hi, we are working. | #118 00:08:56: Алло, да<br>#118 00:08:56: привет<br>#119 00:08:58: работаем | adapted: adapted |
 | 4 | Гость | Да, конечно, встретимся как договаривались. | Yes, of course, we will meet as we agreed. | #120 00:09:01: Да, да, конечно<br>#120 00:09:01: как договаривались | adapted: adapted |
-| 5 | Аня | Не мог выйти один на один? | Could you not face me one on one? | #121 00:09:04: не мог со мной один на один выйти | adapted: adapted |
-| 6 | Никита | Не хотел об тебя руки марать. | I did not want to dirty my hands on you. | #122 00:09:06: не хотел<br>#122 00:09:06: руки марать | adapted: adapted |
-| 7 | Аня | Ты сам во всём виноват! | You are to blame for everything yourself! | #123 00:09:09: ты сам | adapted: adapted |
+| 5 | Гость | Не мог выйти один на один? | Could you not face me one on one? | #121 00:09:04: не мог со мной один на один выйти | adapted: adapted |
+| 6 | Гость | Не хотел об тебя руки марать. | I did not want to dirty my hands on you. | #122 00:09:06: не хотел<br>#122 00:09:06: руки марать | adapted: adapted |
+| 7 | Гость | Ты сам во всём виноват! | You are to blame for everything yourself! | #123 00:09:09: ты сам | adapted: adapted |
 | 8 | Гость | Ну что, вы уже успокоились? | Well, have you calmed down now? | #124 00:09:14: Охладились | adapted: adapted |
 | 9 | Гость | Ваши дела пока немного откладываются. | Your business is postponed for a little while. | #125 00:09:15: пока откладываются | adapted: adapted |
 | 10 | Гость | Ты остаёшься охранять этих двоих. | You are staying here to guard these two. | #126 00:09:19: охранять этих | adapted: adapted |
 | 11 | Гость | А мы скоро сюда подъедем. | And we will drive back here soon. | #127 00:09:21: Мы с тобой, значит, подъедем | adapted: adapted |
-| 12 | Аня | Нам надо отсюда срочно выбираться. | We need to get out of here urgently. | #115 00:08:49: поворот | adapted: adapted |
+| 12 | Гость | Нам надо отсюда срочно выбираться. | We need to get out of here urgently. | #115 00:08:49: поворот | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

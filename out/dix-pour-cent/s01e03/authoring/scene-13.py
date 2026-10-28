@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 3
 SCENE = 13
 TITLE = "La fille de Christophe Lambert  (Christophe Lambert's Daughter)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "lea": "lucie"}
-LABELS = {"noemie": "Noémie", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'lea': 'lucie'}
+LABELS = {'noemie': 'Noémie', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Calling him Dad under her breath, she thanks him for the César invitation, and he tells her it will let her meet people in the film business. But when Camille returns to her desk, Mathias's assistant Noémie is waiting for her, and she looks furious. Listen to the French first without worrying about catching every word."
 OPENER = "Let's break that down step by step. Camille sees right away that something is bothering Noémie."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Camille's real secret is safe, and Noémie now believes she works next to Christophe Lambert's daughter. Until next time!"
-CLOSING = ("noemie", "À demain!")
+OUTRO = "Camille's real secret is safe, and Noémie now believes she works next to Christophe Lambert's daughter. See you next time!"
+CLOSING = ('noemie', 'À demain!')
 STORY = [
     ('lea', "Qu'est-ce qui ne va pas?", 'What', [(264, "Qu'est-ce qui ne va pas")], ''),
     ('noemie', "Tu mens! J'ai vu Mathias poser cette enveloppe sur ton bureau.", 'You are lying! I saw Mathias put this envelope on your desk.', [(264, 'Je sais que tu mens'), (266, "J'ai vu Mathias poser cette enveloppe sur ton bureau")], ''),

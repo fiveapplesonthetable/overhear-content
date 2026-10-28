@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Plutôt que toi et JoeyStarr ensemble à l'écran! | Rather than you and JoeyStarr together on screen! | 264:plutôt que toi et JoeyStarr |
 
 ## Part 5 — Outro & Closing
-> Julie's woodland rabbits do not stand a chance against Samir's shooting schedule, and now Gabriel has to convince JoeyStarr down the hall. Remember the verb for shooting a film: to turn. Join us next time to see what happens next.
+> Julie's woodland rabbits do not stand a chance against Samir's shooting schedule, and now Gabriel has to convince JoeyStarr down the hall. Remember the verb for shooting a film: to turn. See you next time!
 - **Closing**: `samir`: *À bientôt!*

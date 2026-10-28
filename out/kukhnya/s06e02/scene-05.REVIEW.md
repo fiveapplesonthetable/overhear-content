@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Айнура | Важное сказать хочу. | I want to say something important. | #64 00:05:18: Важное сказать хочу | adapted: exact |
 | 2 | Айнура | Ты целовал ее? | Did you kiss her? | #68 00:05:30: Ты целовал ее? | adapted: exact |
-| 3 | Аня | Нет, еще не целовал. | No, I have not kissed her yet. | #68 00:05:30: Ты целовал ее? | adapted: adapted |
+| 3 | Айнура | Нет, еще не целовал. | No, I have not kissed her yet. | #68 00:05:30: Ты целовал ее? | adapted: adapted |
 | 4 | Айнура | Не переживай, Лёва. | Do not worry, Lyova. | #69 00:05:33: Не переживай | adapted: adapted |
 | 5 | Айнура | Пять раз в кино водил и не целовал ее? | You took her to the movies five times and did not kiss her? | #70 00:05:35: пять раз кино водил и не целовал ее? | adapted: adapted |
 | 6 | Айнура | Она приехала в Москву кино смотреть? | Did she come to Moscow to watch movies? | #71 00:05:39: она приехала в Москву кино смотреть? | adapted: adapted |
-| 7 | Аня | Я же не знаю, как у вас принято за девушками ухаживать. | I do not know how it is customary in your country to court girls. | #72 00:05:41: принято за девушками ухаживать | adapted: adapted |
-| 8 | Аня | У вас сначала у родителей разрешение просить надо. | In your country you first have to ask the parents for permission. | #73 00:05:45: у родителей разрешение просить надо | adapted: adapted |
+| 7 | Айнура | Я же не знаю, как у вас принято за девушками ухаживать. | I do not know how it is customary in your country to court girls. | #72 00:05:41: принято за девушками ухаживать | adapted: adapted |
+| 8 | Айнура | У вас сначала у родителей разрешение просить надо. | In your country you first have to ask the parents for permission. | #73 00:05:45: у родителей разрешение просить надо | adapted: adapted |
 | 9 | Айнура | Но это у нас, а тут другая страна. | But that is back home, and here is another country. | #74 00:05:50: Но это у нас. А тут другая страна | adapted: exact |
 | 10 | Айнура | Тут у вас все можно. | Here with you anything is allowed. | #76 00:05:54: Тут у вас все можно | adapted: exact |
-| 11 | Сеня | Значит, да, я все слышал. | So, yes, I heard everything. | #80 00:06:12: Значит, да, я все слышал | adapted: exact |
-| 12 | Сеня | Прости, что-то я удержаться не смог. | Sorry, somehow I could not hold back. | #85 00:06:33: прости, что-то я удержаться не смог | adapted: adapted |
+| 11 | Айнура | Значит, да, я все слышал. | So, yes, I heard everything. | #80 00:06:12: Значит, да, я все слышал | adapted: exact |
+| 12 | Айнура | Прости, что-то я удержаться не смог. | Sorry, somehow I could not hold back. | #85 00:06:33: прости, что-то я удержаться не смог | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But that is back home, and here is another country.' Here the Russian phrasing highlights 'but' before landing on 'country'.
 - 'Here with you anything is allowed.' Ainura chooses the respectful plural 'you' alongside 'may' to keep a polite distance.
 - 'So, yes, I heard everything.' The '-l' ending on the verb meaning 'heard' places the action in the masculine past tense.
-- 'Sorry, somehow I could not hold back.' Notice the reflexive suffix on the verb meaning 'to hold back', turning the action back on the subject.
+- 'Sorry, somehow I could not hold back.' Senya pairs 'forgive' with 'to be able, to manage' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

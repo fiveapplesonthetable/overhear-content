@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 14
-TITLE = 'Заявление об уходе  (The Letter of Resignation)'
+TITLE = "Заявление об уходе  (The Letter of Resignation)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = "In Chef Barinov's office, Max tells Chef that he has changed and betrayed his own principles by letting the chain turn their temple of food into a cheap diner—and hands in his resignation letter."
@@ -32,7 +32,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 
 WALK = [
     (0, None, "'Chef, I really wanted to speak with you.' The grammar packs 'Chef Barinov' and 'to talk' into a tight, idiomatic kitchen exchange."),
-    (1, None, "'About what Fedya and Senya are whispering about.' Notice the reflexive suffix on the verb meaning 'are whispering', turning the action back on the subject. Chef Barinov answers right away."),
+    (1, None, "'About what Fedya and Senya are whispering about.' In everyday Russian, 'matter' flows straight into 'are whispering' without extra linking words."),
     (2, None, "'Oh, you too, name your price!' The grammar packs 'oh' and 'price' into a tight, idiomatic kitchen exchange."),
     (3, None, "'No, Chef, I am not talking about that at all right now.' Spoken Russian keeps this brisk, leaning on 'no' and finishing on 'this'."),
     (4, None, "'I really hope that you will not be offended.' Notice how Russian expresses 'I' and 'you will be offended' with crisp inflection rather than helper words. Chef Barinov answers right away."),
@@ -41,10 +41,10 @@ WALK = [
     (7, None, "'You agreed to turn our temple of food into a cheap diner.' The grammar packs 'you' and 'cheap diner' into a tight, idiomatic kitchen exchange."),
     (8, None, "'You yourself always told us that.' The grammar packs 'you' and 'spoke' into a tight, idiomatic kitchen exchange."),
     (9, None, "'But the main thing is that you betrayed your principles.' Max anchors the line on 'but', while 'principles' completes the thought."),
-    (10, None, "'And that means you betrayed all of us too.' The grammar packs 'and' and 'us' into a tight, idiomatic kitchen exchange."),
+    (10, None, "'And that means you betrayed all of us too.' Max centers this short reply on 'changed', letting a few direct words carry the whole meaning."),
     (11, None, "'Forgive me, Chef, here is my letter of resignation.' Spoken Russian keeps this brisk, leaning on 'forgive' and finishing on 'departure'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max's honest words pierce straight through Chef Barinov's pride, forcing him to confront what he has traded away for a bonus."
-CLOSING = ('anya', 'Вот моё заявление об уходе.')
+OUTRO = "Max's honest words pierce straight through Chef Barinov's pride, forcing him to confront what he has traded away for a bonus. See you next time!"
+CLOSING = ("anya", "До встречи!")

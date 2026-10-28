@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 4
 SCENE = 31
 TITLE = "L'Allemand se retire  (The German Pulls Out)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "lea": "lucie", "mathias": "marcel"}
-LABELS = {"arlette": "Arlette", "lea": "Andréa", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'lea': 'lucie', 'mathias': 'marcel'}
+LABELS = {'arlette': 'Arlette', 'lea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "After Audrey Fleurot's triumph at the UNICEF gala, the next morning back at ASK begins in panic. Andréa and Gabriel are scrambling to keep Mathias's famous clients from following him to the rival agency StarMédia. Then Arlette walks in with news about Jonas Hirsch, the German businessman who wanted to buy the agency from Samuel's widow Hélène. Listen to the French first; don't worry about catching every word."
 OPENER = "Let's walk through it together. Andréa is still preparing for war with Mathias when Arlette walks in."
 TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = 'Mathias wanted to leave ASK in secret, and instead his leak scared away the German buyer and made him look like a hero. In the final scene of the episode, the whole agency gathers with champagne to toast him. Join us next time to see what happens next.'
-CLOSING = ("arlette", "Au revoir!")
+OUTRO = 'Mathias wanted to leave ASK in secret, and instead his leak scared away the German buyer and made him look like a hero. See you next time!'
+CLOSING = ('arlette', 'Au revoir!')
 STORY = [
     ('lea', 'Fais une liste des acteurs de Mathias. Il faut faire vite.', 'Make a list of Mathias', [(804, 'Fais une liste des acteurs de Mathias'), (805, 'mais il faut faire vite')], ''),
     ('arlette', "L'Allemand se retire.", 'The German is pulling out.', [(808, "L'Allemand se retire")], ''),

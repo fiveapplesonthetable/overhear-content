@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 8
-TITLE = "Andréa engage Camille  (Andréa Hires Camille)"
-LEVEL = "A1 — débutant"
+TITLE = 'Andréa engage Camille  (Andréa Hires Camille)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "lea": "lucie"}
-LABELS = {"camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Andréa wasn't interested. And then she notices the young woman from the south who has been waiting in reception all morning: Camille. She takes her outside and fires questions at her. We stay with Camille. As usual, French first, and you really don't need every word."
 OPENER = "Let's go through it together. Andréa first calls Camille with the polite 'you', then changes her mind halfway and switches to the casual one, and she is already walking away."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Camille walked in looking for her father and walks out with a job at his agency. Upstairs, Samuel still has one piece of advice for Gabriel before his plane, and we'll find out what it was. Well done, and see you next time."
-CLOSING = ("camille", "À bientôt!")
+OUTRO = "Camille walked in looking for her father and walks out with a job at his agency. Upstairs, Samuel still has one piece of advice for Gabriel before his plane, and we'll find out what it was. See you next time!"
+CLOSING = ('camille', 'À bientôt!')
 STORY = [
     ('lea', 'Tu viens, oui ou non?', 'Are you coming or not?', [(251, 'Tu viens, oui ou non ?')], ''),
     ('lea', "Tu viens d'où?", 'Where are you from?', [(252, "Tu viens d'où ?")], ''),

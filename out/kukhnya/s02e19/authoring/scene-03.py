@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e19-scene-03"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e19-scene-03'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 19
 SCENE = 3
-TITLE = 'Поклонница господина Огузка  (An Admirer for Mister Oguzok)'
+TITLE = "Поклонница господина Огузка  (An Admirer for Mister Oguzok)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.19"
-SOURCE_FILE = "sources/kukhnya/s02/e19.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
+SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 
 INTRO = 'As the staff members grumble about sharing facilities, Kostya comes into the kitchen to tell Max that his regular older lady has arrived in the dining room again. To the amusement of the other cooks, the guest asks specifically for Max to prepare her meal.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 3 of Episode 19, listen out for the exchange around an admirer for mister oguzok — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Просто вы мне завидуете.')
+OUTRO = 'That wraps up this scene as while the waitresses and cooks bicker over the restroom, Kostya informs Max that the older female guest has returned and is asking specifically for him. Until next time!'
+CLOSING = ("anya", "До встречи!")

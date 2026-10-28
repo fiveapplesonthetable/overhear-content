@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 2
 SCENE = 2
-TITLE = "La bataille des talents  (The Battle for Talent)"
-LEVEL = "A1 — débutant"
+TITLE = 'La bataille des talents  (The Battle for Talent)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "camille": "emilie", "herve": "marcel"}
-LABELS = {"lea": "Andréa", "camille": "Camille", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie', 'herve': 'marcel'}
+LABELS = {'lea': 'Andréa', 'camille': 'Camille', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Junior agents Camille and Herve report that several major actors are wavering, skeptical of being handled by less experienced representatives. With Francois Cluzet walking away and Dany Boon's loyalty hanging in the balance, Andrea rallies her team to fight for every contract. Let's listen to the scene in French first."
 OPENER = "Let's observe as Andrea directs Camille and Herve in the high-stakes retention battle."
 TRANSITION = "Now let's listen to Andrea, Camille, and Herve discussing their strategy again at full speed."
-OUTRO = "Realizing that the agency's survival depends on holding onto its remaining stars, Andrea keeps her team focused and motivated. When you watch the episode, listen out for the expressions meaning 'former' and 'talents'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "Realizing that the agency's survival depends on holding onto its remaining stars, Andrea keeps her team focused and motivated. When you watch the episode, listen out for the expressions meaning 'former' and 'talents'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('camille', 'Les anciens talents de Mathias hésitent beaucoup.', 'Mathias', [(81, 'sur le dos de Mathias')], ''),
     ('herve', 'Ils réclament tous des agents confirmés.', 'They all demand senior agents.', [(86, 'veulent des agents confirmés')], ''),

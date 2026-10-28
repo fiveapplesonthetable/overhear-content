@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'It seems to me that women have some kind of weapon.' Indefinite pronoun 'some kind of' modifies the neuter noun 'weapon'.
-- 'With its help they easily control men.' The verb 'to control/govern' takes the instrumental plural 'men'.
-- 'Forgotten feelings suddenly appear in you again.' Plural passive participle 'forgotten' modifies 'feelings'.
-- 'And a short message changes your peaceful life.' Feminine accusative endings mark 'your peaceful life'.
+- 'With its help they easily control men.' Here Max anchors the thought on 'help' and finishes on 'man', keeping the spoken rhythm brisk and natural.
+- 'Forgotten feelings suddenly appear in you again.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'And a short message changes your peaceful life.' Max pairs 'short, brief' with 'life' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Vika, Mom is coming to visit us tomorrow already!' Present tense of a verb of motion expresses a scheduled arrival tomorrow.
-- 'She simply decided to give us a big surprise.' Literally 'to make a surprise for us', with the dative plural pronoun.
+- 'She simply decided to give us a big surprise.' Here Max anchors the thought on 'simply, just' and finishes on 'surprise', keeping the spoken rhythm brisk and natural.
 - 'We have such a terrible mess at home right now!' Colloquial masculine noun 'mess/chaos' is a household favorite.
 - 'Today we are doing a deep cleaning of the apartment!' The fixed phrase 'general cleaning' means a thorough top-to-bottom scrub.
-- 'We also need to decide where we will put Mom.' Perfective future verb 'will accommodate/place' takes the animate accusative.
-- 'Old pal, you need to move out of our place urgently.' Perfective infinitive 'to move out' combines with the modal 'must'.
+- 'We also need to decide where we will put Mom.' Notice how Russian puts 'need to, must' and 'Mama' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Old pal, you need to move out of our place urgently.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
 - 'All right, let's discuss this another time.' First-person plural future with 'let us' postpones the awkward talk.
 - 'Forgive me, but I will not be able to keep you here.' Next morning, Max makes sure Denis stays out of his mother's sight.

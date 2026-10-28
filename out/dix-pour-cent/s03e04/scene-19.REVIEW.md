@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Promettez-moi d'y réfléchir sérieusement, Noémie. | Promise me to think about it seriously, Noemie. | 934:je... |
 
 ## Part 5 — Outro & Closing
-> In her quiet living room, Noemie cares for an aching Mathias as he makes a heartfelt plea to reunite. When you watch the episode, listen out for the expressions meaning 'sit down' and 'seem'. You'll catch them now. See you next time.
+> In her quiet living room, Noemie cares for an aching Mathias as he makes a heartfelt plea to reunite. When you watch the episode, listen out for the expressions meaning 'sit down' and 'seem'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

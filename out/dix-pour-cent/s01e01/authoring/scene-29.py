@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 29
-TITLE = "Arlette et Jean Gabin  (Arlette and Jean Gabin)"
-LEVEL = "A1 — débutant"
+TITLE = 'Arlette et Jean Gabin  (Arlette and Jean Gabin)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "jean": "theo"}
-LABELS = {"camille": "Camille", "jean": "Jean"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'jean': 'theo'}
+LABELS = {'camille': 'Camille', 'jean': 'Jean'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Walking past an open door, Camille spots a little white dog with a contract in its mouth, in the office of Arlette, the oldest agent in Paris. We'll play the scene in French first. Don't worry if some of it slips past you. Let's listen to the scene in French first."
 OPENER = "Let's walk through it. Camille rushes in and tries to rescue the paper from the dog's teeth."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That was a lovely little meeting: one woman uses the casual 'you', the other the polite one, and you can now hear the difference. Take a break, and see you next time!"
-CLOSING = ("jean", "Au revoir, ma petite!")
+OUTRO = "That was a lovely little meeting: one woman uses the casual 'you', the other the polite one, and you can now hear the difference. See you next time!"
+CLOSING = ('jean', 'Au revoir, ma petite!')
 STORY = [
     ('camille', 'Non! Lâche le contrat!', 'No! Let go of the contract!', [(759, 'Non'), (760, 'Lâche le contrat')], ''),
     ('jean', "Qu'est-ce que tu fais?", 'What are you doing?', [(761, "Qu'est-ce que tu fais")], ''),

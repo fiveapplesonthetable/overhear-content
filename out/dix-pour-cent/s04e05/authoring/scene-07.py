@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 7
-TITLE = "Le mauvais partenaire  (The Wrong Partner)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le mauvais partenaire  (The Wrong Partner)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sigourney": "emilie", "mathias": "marcel"}
-LABELS = {"sigourney": "Sigourney", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'sigourney': 'emilie', 'mathias': 'marcel'}
+LABELS = {'sigourney': 'Sigourney', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "At the hotel, Sigourney Weaver is furious and packing her bags to return to Los Angeles. Camille tries to calm her down. We'll hear their conversation in French first, but don't worry about catching every word."
 OPENER = "Let's walk through it. Camille finds her client packing her bags."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Sigourney Weaver wants a young romantic lead, and she won't settle for less. See you next time."
-CLOSING = ("mathias", "À plus tard!")
+OUTRO = "Sigourney Weaver wants a young romantic lead, and she won't settle for less. See you next time!"
+CLOSING = ('mathias', 'À plus tard!')
 STORY = [
     ('mathias', "Sigourney, qu'est-ce qui se passe?", 'Sigourney, what is going on?', [(299, "Sigourney... Qu'est-ce qui se passe ?")], ''),
     ('sigourney', 'Je rentre à Los Angeles.', 'I am going back to Los Angeles.', [(300, 'Je rentre à Los Angeles.')], ''),

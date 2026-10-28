@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 14
-TITLE = "La vérité brutale  (The Brutal Truth)"
-LEVEL = "A1 — débutant"
+TITLE = 'La vérité brutale  (The Brutal Truth)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "jean": "theo"}
-LABELS = {"lea": "Andréa", "jean": "Jean"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'jean': 'theo'}
+LABELS = {'lea': 'Andréa', 'jean': 'Jean'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Sitting down with Jean Reno in her office, Andrea listens as the famous actor praises Xavier Beauvois's powerful screenplay. Rather than disguising the agency's desperate financial distress, Andrea decides to lay all their cards on the table. Let's listen to their conversation in French first."
 OPENER = "Let's look at Andrea choosing complete honesty with Jean Reno step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Refusing to spin illusions for Jean Reno, Andrea boldly confesses that ASK is bankrupt, lacking six million euros to produce Xavier Beauvois's film, earning the actor's deepest respect. When you watch the episode, listen out for the expressions meaning 'script' and 'intense'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = "Refusing to spin illusions for Jean Reno, Andrea boldly confesses that ASK is bankrupt, lacking six million euros to produce Xavier Beauvois's film, earning the actor's deepest respect. When you watch the episode, listen out for the expressions meaning 'script' and 'intense'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('jean', "C'est un scénario très intense, puissant.", 'It is a very intense, powerful script.', [(659, 'très intense, puissant')], ''),
     ('lea', "C'est un projet magnifique et rare.", 'It is a magnificent and rare project.', [(660, "C'est un beau scénario")], ''),

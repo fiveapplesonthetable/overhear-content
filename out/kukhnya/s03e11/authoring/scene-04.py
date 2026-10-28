@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e11-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 4
 TITLE = "Неожиданная новость Кати  (Katya's Unexpected News)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "katya": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "katya": "Катя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = 'Convinced that Paul has already told her father about her expulsion from the Paris academy, Katya panics when Barinov shouts for her. To stop him from yelling, she blurts out a desperate lie—claiming she is pregnant and pointing at Max as the father.'
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Katya's sudden lie sends Chef Barinov on a rampage after Max. In the next scene, Katya intercepts Paul at the bar before he can speak with her father again."
-CLOSING = ('katya', 'Папа, пожалуйста, подожди меня!')
+OUTRO = "Katya's sudden lie sends Chef Barinov on a rampage after Max. See you next time!"
+CLOSING = ("katya", "Всего хорошего!")

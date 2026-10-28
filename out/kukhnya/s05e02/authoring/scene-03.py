@@ -1,22 +1,22 @@
 ID = 'kukhnya-s05e02-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 2
 SCENE = 3
-TITLE = 'Жалоба на холод в номере  (Complaint About the Cold Room)'
+TITLE = "Жалоба на холод в номере  (Complaint About the Cold Room)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "vika": "angelina"}
+LABELS = {"mikhail": "Михаил", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.02'
 SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 
 INTRO = 'Mikhail warns that a bad review from the secret guest will result in fines for the entire staff, Vika tips off Barinov to stay alert, and a complaint arrives from room 205 about the cold. Listen to the conversation.'
 
 STORY = [
     ('mikhail', 'Если что-то не так, персонал штрафуют.', 'If something goes wrong, they fine the staff.', [(22, 'персонал'), (22, 'штрафуют')], 'adapted'),
-    ('anya', 'За своих подчинённых я не волнуюсь.', 'I do not worry about my subordinates.', [(23, 'За своих подчиненных я не волнуюсь')], 'verbatim'),
-    ('anya', 'Миша, иди ты в свой кабинет.', 'Misha, go to your own office.', [(24, 'иди ты')], 'adapted'),
+    ('mikhail', 'За своих подчинённых я не волнуюсь.', 'I do not worry about my subordinates.', [(23, 'За своих подчиненных я не волнуюсь')], 'verbatim'),
+    ('mikhail', 'Миша, иди ты в свой кабинет.', 'Misha, go to your own office.', [(24, 'иди ты')], 'adapted'),
     ('mikhail', 'Через десять минут у нас собрание.', 'In ten minutes we have a meeting.', [(25, 'на собрании через'), (25, 'минут')], 'adapted'),
     ('mikhail', 'Там будет всё наше руководство.', 'All our management will be there.', [(26, 'руководство')], 'adapted'),
     ('vika', 'Мне сообщили важную новость.', 'They informed me of important news.', [(27, 'Мне сообщили')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes the warning before the morning staff meeting. Notice how 'complaints about' uses the verb 'zhalovatsya' plus the preposition 'na' and the accusative case. See you next time."
-CLOSING = ('vika', 'Мы должны встретить тайного гостя достойно.')
+OUTRO = 'And that finishes the warning before the morning staff meeting. Until next time!'
+CLOSING = ("vika", "Увидимся!")

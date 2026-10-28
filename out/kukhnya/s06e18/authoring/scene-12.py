@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e18-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 18
 SCENE = 12
-TITLE = 'Побег пони и голосование  (The Runaway Pony and the Vote)'
+TITLE = "Побег пони и голосование  (The Runaway Pony and the Vote)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'timur': 'angelina'}
-LABELS = {'anya': 'Денис', 'mikhail': 'Михаил', 'timur': 'Тимур'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "timur": "angelina"}
+LABELS = {"mikhail": "Михаил", "timur": "Тимур"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.18'
 SOURCE_FILE = 'sources/kukhnya/s06/e18.ru.srt'
 
 INTRO = "Mikhail Jekovich panics when he discovers the pony has escaped from the locker room and is roaming the upper floors. Meanwhile, Timur opens the polling booth with red and green ballots, and Nikita's father spots Denis still in Moscow."
@@ -20,11 +20,11 @@ STORY = [
     ('timur', 'У нас два вида бюллетеней.', 'We have two kinds of ballots.', [(202, 'У нас два вида бюллетеней')], 'adapted'),
     ('timur', 'Взял бюллетень и пошёл проголосовал.', 'Take a ballot and go vote.', [(204, 'Взял бюллетень, пошел проголосовал')], 'adapted'),
     ('timur', 'Я в кабинке независимый наблюдатель.', 'In the booth I am an independent observer.', [(206, 'независимый наблюдатель')], 'adapted'),
-    ('anya', 'Здравствуйте, мой рейс сегодня перенесли.', 'Hello, they postponed my flight today.', [(210, 'Перенесли'), (211, 'Рейс')], 'adapted'),
-    ('anya', 'Я поэтому ещё не в Японии.', 'That is why I am not in Japan yet.', [(209, 'Не в Японии')], 'adapted'),
+    ('mikhail', 'Здравствуйте, мой рейс сегодня перенесли.', 'Hello, they postponed my flight today.', [(210, 'Перенесли'), (211, 'Рейс')], 'adapted'),
+    ('mikhail', 'Я поэтому ещё не в Японии.', 'That is why I am not in Japan yet.', [(209, 'Не в Японии')], 'adapted'),
     ('mikhail', 'До деловой встречи есть время.', 'There is time before the business meeting.', [(213, 'Деловая встреча, но до нее еще есть время')], 'adapted'),
     ('mikhail', 'Так что мы можем пообедать.', 'So we can have lunch.', [(213, 'так что можем пообедать')], 'adapted'),
-    ('anya', 'Не могу, я на диете.', 'I cannot, I am on a diet.', [(214, 'Не могу. Я на'), (215, 'на диете')], 'adapted'),
+    ('mikhail', 'Не могу, я на диете.', 'I cannot, I am on a diet.', [(214, 'Не могу. Я на'), (215, 'на диете')], 'adapted'),
     ('mikhail', 'Давай выпьем по бокалу коньяка.', 'Let us drink a glass of cognac.', [(216, 'бокал')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "While Denis is cornered into having a drink with Nikita's father, the runaway pony wanders straight into Alyokhin's suite. See you in the next scene."
-CLOSING = ('timur', 'Голосуем честно и быстро!')
+OUTRO = "While Denis is cornered into having a drink with Nikita's father, the runaway pony wanders straight into Alyokhin's suite. See you next time!"
+CLOSING = ("timur", "До встречи!")

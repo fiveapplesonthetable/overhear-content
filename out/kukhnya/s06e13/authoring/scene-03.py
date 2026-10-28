@@ -1,26 +1,26 @@
 ID = 'kukhnya-s06e13-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 13
 SCENE = 3
 TITLE = "Рисунок маленького Стёпы  (Little Styopa's Drawing)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "chef": "anja"}
+LABELS = {"nastya": "Настя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.13'
 SOURCE_FILE = 'sources/kukhnya/s06/e13.ru.srt'
 
 INTRO = 'In the kitchen, Chef Barinov and Senya ask Timur for a giant fish or moose head to scare Mikhail in his hotel room. Meanwhile at home, Kostya and Nastya notice a strange prison-style drawing made by their little son Styopa.'
 
 STORY = [
-    ('anya', 'Ну как тебе такой отличный план?', 'Well, how do you like such a great plan?', [(30, 'как тебе такой план')], 'adapted'),
-    ('senya', 'Шеф, у Тимура есть голова тунца.', 'Chef, Timur has a tuna head.', [(31, 'есть голова тунца')], 'adapted'),
-    ('anya', 'Нет, эта рыба слишком быстро заметна.', 'No, that fish is noticeable too quickly.', [(32, 'чем-нибудь заметно')], 'adapted'),
-    ('senya', 'Михаил снял себе номер в гостинице.', 'Mikhail rented a room for himself in the hotel.', [(33, 'снял номер в гостинице')], 'adapted'),
-    ('senya', 'Он сегодня точно будет ночевать здесь.', 'He will definitely spend the night here today.', [(33, 'будет ночевать здесь')], 'adapted'),
-    ('anya', 'Отлично, у Тимура есть голова лося.', 'Excellent, Timur has a moose head.', [(34, 'есть голова лося')], 'adapted'),
-    ('anya', 'Надо только быстро отпилить большие рога.', 'We just need to quickly saw off the big antlers.', [(35, 'надо рога отпилить')], 'adapted'),
+    ('chef', 'Ну как тебе такой отличный план?', 'Well, how do you like such a great plan?', [(30, 'как тебе такой план')], 'adapted'),
+    ('nastya', 'Шеф, у Тимура есть голова тунца.', 'Chef, Timur has a tuna head.', [(31, 'есть голова тунца')], 'adapted'),
+    ('chef', 'Нет, эта рыба слишком быстро заметна.', 'No, that fish is noticeable too quickly.', [(32, 'чем-нибудь заметно')], 'adapted'),
+    ('nastya', 'Михаил снял себе номер в гостинице.', 'Mikhail rented a room for himself in the hotel.', [(33, 'снял номер в гостинице')], 'adapted'),
+    ('nastya', 'Он сегодня точно будет ночевать здесь.', 'He will definitely spend the night here today.', [(33, 'будет ночевать здесь')], 'adapted'),
+    ('chef', 'Отлично, у Тимура есть голова лося.', 'Excellent, Timur has a moose head.', [(34, 'есть голова лося')], 'adapted'),
+    ('chef', 'Надо только быстро отпилить большие рога.', 'We just need to quickly saw off the big antlers.', [(35, 'надо рога отпилить')], 'adapted'),
     ('nastya', 'Посмотри, что это такое на бумаге?', 'Look, what is this on the paper?', [(37, 'Что такое')], 'adapted'),
     ('nastya', 'В его возрасте такое непросто нарисовать.', 'At his age it is not easy to draw something like this.', [(38, 'В его возрасте такое нарисовать')], 'adapted'),
     ('nastya', 'Стёпа сказал, что рисунок как у дедушки.', "Styopa said that the drawing is like grandpa's.", [(40, 'рисунок, как у дедушки')], 'adapted'),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Styopa's drawing of his grandfather's tattoo raises serious questions for Kostya at home. See you in the next scene."
-CLOSING = ('anya', 'Надо быстро отпилить рога.')
+OUTRO = "Styopa's drawing of his grandfather's tattoo raises serious questions for Kostya at home. Until next time!"
+CLOSING = ("chef", "Пока!")

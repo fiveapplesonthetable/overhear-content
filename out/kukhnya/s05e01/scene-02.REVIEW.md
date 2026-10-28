@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Слушаю вас. | I am listening to you. | #15 00:01:29: Слушаю вас | adapted: verbatim |
-| 2 | Аня | Открытие завтра. | The grand opening is tomorrow. | #16 00:01:32: Открытие завтра | adapted: verbatim |
+| 1 | Катя | Слушаю вас. | I am listening to you. | #15 00:01:29: Слушаю вас | adapted: verbatim |
+| 2 | Катя | Открытие завтра. | The grand opening is tomorrow. | #16 00:01:32: Открытие завтра | adapted: verbatim |
 | 3 | Денис | Понятия не имею. | I have no idea. | #18 00:01:53: Понятия не имею | adapted: verbatim |
 | 4 | Денис | Давай, всё. | Come on, that is all. | #19 00:01:56: Давай, все | adapted: verbatim |
-| 5 | Аня | Привет, Денис. | Hi, Denis. | #20 00:02:00: Привет | adapted: adapted |
+| 5 | Катя | Привет, Денис. | Hi, Denis. | #20 00:02:00: Привет | adapted: adapted |
 | 6 | Денис | А что-то случилось? | Did something happen? | #21 00:02:04: А что-то случилось? | adapted: verbatim |
-| 7 | Аня | Нет, ничего. | No, nothing. | #22 00:02:09: Нет ничего | adapted: adapted |
-| 8 | Аня | Ей нравится, когда ей доверяет парень. | She likes it when her boyfriend trusts her. | #27 00:02:20: когда Отелло ей доверяет | adapted: adapted |
-| 9 | Аня | Он ведёт себя как ревнивый парень. | He behaves like a jealous boyfriend. | #28 00:02:23: как ревнивый | adapted: adapted |
-| 10 | Сеня | Вы очень круто ссоритесь. | You two argue really coolly. | #29 00:02:27: Вы очень круто ссоритесь | adapted: verbatim |
-| 11 | Сеня | Я как будто в театр сходил. | It is as if I went to the theater. | #30 00:02:30: Я как будто в театр сходил | adapted: verbatim |
-| 12 | Сеня | Ставок больше нет. | No more bets. | #31 00:02:38: Ставок больше нет | adapted: verbatim |
-| 13 | Сеня | И начинай! | And start! | #32 00:02:39: И начинай! | adapted: verbatim |
-| 14 | Сеня | Сегодня у нас ничья. | Today we have a draw. | #35 00:03:11: День ничья | adapted: adapted |
+| 7 | Катя | Нет, ничего. | No, nothing. | #22 00:02:09: Нет ничего | adapted: adapted |
+| 8 | Катя | Ей нравится, когда ей доверяет парень. | She likes it when her boyfriend trusts her. | #27 00:02:20: когда Отелло ей доверяет | adapted: adapted |
+| 9 | Катя | Он ведёт себя как ревнивый парень. | He behaves like a jealous boyfriend. | #28 00:02:23: как ревнивый | adapted: adapted |
+| 10 | Катя | Вы очень круто ссоритесь. | You two argue really coolly. | #29 00:02:27: Вы очень круто ссоритесь | adapted: verbatim |
+| 11 | Катя | Я как будто в театр сходил. | It is as if I went to the theater. | #30 00:02:30: Я как будто в театр сходил | adapted: verbatim |
+| 12 | Катя | Ставок больше нет. | No more bets. | #31 00:02:38: Ставок больше нет | adapted: verbatim |
+| 13 | Катя | И начинай! | And start! | #32 00:02:39: И начинай! | adapted: verbatim |
+| 14 | Катя | Сегодня у нас ничья. | Today we have a draw. | #35 00:03:11: День ничья | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -40,4 +40,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is as if I went to the theater.' Notice how Russian expresses 'I' and 'went' with crisp inflection rather than helper words.
 - 'No more bets.' Senya anchors the line on 'of bets', while 'no' completes the thought.
 - 'And start!' The meaning hinges on 'and' working together with 'begin' in spoken Russian.
-- 'Today we have a draw.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'draw'.
+- 'Today we have a draw.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.

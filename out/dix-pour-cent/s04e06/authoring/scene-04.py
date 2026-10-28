@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 4
-TITLE = "Une nouvelle agence  (A New Agency)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une nouvelle agence  (A New Agency)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "herve": "marcel", "lea": "lucie"}
-LABELS = {"camille": "Camille", "herve": "Hervé", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Outside the agency, Camille reveals her new business plans to Herve, who hints at a surprising career change. Meanwhile, Mathias makes an important decision about his future in film production alongside Noemie. Let's listen to their conversation in French first."
 OPENER = "Let's explore the new career paths and plans line by line."
 TRANSITION = "Now let's listen to Camille and Mathias's career plans once more from start to finish."
-OUTRO = "That's it for this scene around a new agency. When you watch the episode, listen out for the expressions meaning 'mother' and 'to say'. You'll catch them now. See you next time."
-CLOSING = ("camille", "Bonne journée!")
+OUTRO = "That's it for this scene around a new agency. When you watch the episode, listen out for the expressions meaning 'mother' and 'to say'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'Bonne journée!')
 STORY = [
     ('camille', 'Ma mère disait toujours...', 'FIXME translation', [(154, 'Ma mère disait toujours...')], ''),
     ('camille', "c'est la nuit qu'il faut croire à la lumière.", 'FIXME translation', [(155, "c'est la nuit qu'il faut croire à la lumière.")], ''),

@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | Je suis vraiment très heureux! | I am really very happy! | 491:je suis trop content ! |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around herve's last take. When you watch the episode, listen out for the expressions meaning 'can!' and 'last'. You'll catch them now. See you next time.
+> That's it for this scene around herve's last take. When you watch the episode, listen out for the expressions meaning 'can!' and 'last'. You'll catch them now. See you next time!
 - **Closing**: `herve`: *À bientôt!*

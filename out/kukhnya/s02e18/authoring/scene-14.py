@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e18-scene-14"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e18-scene-14'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 18
 SCENE = 14
 TITLE = "Фокус с чесноком и возвращение Шефа  (The Garlic Trick and the Chef's Return)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.18"
-SOURCE_FILE = "sources/kukhnya/s02/e18.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.18'
+SOURCE_FILE = 'sources/kukhnya/s02/e18.ru.srt'
 
 INTRO = 'In the middle of the dining room, Max charms the Chinese tour group by demonstrating how to crush and peel garlic cloves by shaking them vigorously between two bowls. When Chef Barinov suddenly returns and starts yelling at Max, the interpreter calmly turns his outburst into polite commentary.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = "When you watch Scene 14 of Episode 18, listen out for the exchange around the garlic trick and the chef's return — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Чудесных улиток.')
+OUTRO = 'That wraps up this scene as max dazzles the Chinese tourists by peeling garlic between two metal bowls, and when Chef Barinov bursts in yelling, the interpreter smoothly mistranslates his rant as praise. See you next time!'
+CLOSING = ("anya", "Всего хорошего!")

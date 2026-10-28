@@ -1,31 +1,31 @@
-ID = "kukhnya-s02e13-scene-10"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e13-scene-10'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 13
 SCENE = 10
-TITLE = 'Вторая порция рулетиков  (A Second Helping of Rolls)'
+TITLE = "Вторая порция рулетиков  (A Second Helping of Rolls)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.13"
-SOURCE_FILE = "sources/kukhnya/s02/e13.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.13'
+SOURCE_FILE = 'sources/kukhnya/s02/e13.ru.srt'
 
 INTRO = 'Furious that Senya and Fedya kidnapped a reporter, Nagiyev heads out with them to fix the mess before the police get involved. Meanwhile in the kitchen, Nastya tells Max that the vegetarian guest loved the morning dish so much he ordered a second helping.'
 
 STORY = [
     ('anya', 'Дмитрий Владимирович.', 'Dmitry Vladimirovich.', [(152, 'Дмитрий Владимирович')], ''),
     ('chef', 'Нет, нет.', 'No, no.', [(153, 'Нет, нет')], ''),
-    ('fedya', 'Вместе поедем.', 'We will go together.', [(154, 'Вместе поедем')], ''),
+    ('chef', 'Вместе поедем.', 'We will go together.', [(154, 'Вместе поедем')], ''),
     ('anya', 'А мне потом отвечать.', 'And I will be the one held responsible later.', [(154, 'а мне потом отвечать')], ''),
     ('chef', 'Ну, вегетарианец.', 'Well, it is the vegetarian.', [(156, 'Ну, вегетарианец')], ''),
-    ('fedya', 'Заказал такие же рулетики, как в прошлый раз.', 'He ordered the exact same rolls as last time.', [(156, 'Заказал такие же рулетики, как в прошлый раз')], ''),
+    ('chef', 'Заказал такие же рулетики, как в прошлый раз.', 'He ordered the exact same rolls as last time.', [(156, 'Заказал такие же рулетики, как в прошлый раз')], ''),
     ('anya', 'Вегетарианец. Заказал такие же рулетики.', 'The vegetarian. He ordered the exact same rolls.', [(156, 'вегетарианец. Заказал такие же рулетики')], ''),
     ('chef', 'Так что заказ на тебе.', 'So this order is on you.', [(157, 'Так что заказ на тебе')], ''),
-    ('fedya', 'Нормальное вегетарианское блюдо получится.', 'It will turn out to be a proper vegetarian dish.', [(159, 'Нормальное вегетарианское блюдо получится')], ''),
+    ('chef', 'Нормальное вегетарианское блюдо получится.', 'It will turn out to be a proper vegetarian dish.', [(159, 'Нормальное вегетарианское блюдо получится')], ''),
     ('anya', 'Хватит человека бесплатно мясом кормить.', 'Stop feeding the man meat for free.', [(161, 'Хватит человека бесплатно мясом кормить')], ''),
-    ('chef', 'Не-не-не, я сам жрать хочу.', 'No, no, no, I am starving myself.', [(162, 'Не-не-не, я сам жрать хочу')], ''),
-    ('fedya', 'Ну ладно, ладно.', 'Oh, alright, alright.', [(163, 'Ну ладно, ладно')], ''),
+    ('chef', 'Нет, я сам очень есть хочу.', 'No, I am very hungry myself.', [(162, 'я сам'), (162, 'хочу')], 'adapted'),
+    ('chef', 'Ну ладно, ладно.', 'Oh, alright, alright.', [(163, 'Ну ладно, ладно')], ''),
     ('anya', 'На, комплимент от шефа.', 'Here, compliments of the chef.', [(164, 'На, комплимент от шефа')], ''),
 ]
 
@@ -42,12 +42,11 @@ WALK = [
     (7, None, "'So this order is on you.' Notice how Russian expresses 'like this' and 'you' with crisp inflection rather than helper words. Fedya answers right away."),
     (8, None, "'It will turn out to be a proper vegetarian dish.' In Russian, the idea of 'normal' flows naturally into 'will come out' without extra filler words."),
     (9, None, "'Stop feeding the man meat for free.' Notice how Russian expresses 'enough' and 'to feed' with crisp inflection rather than helper words."),
-    (10, None, "'No, no, no, I am starving myself.' Chef Viktor anchors the line on 'no', while 'want' completes the thought. Fedya answers right away."),
+    (10, None, "'No, I am very hungry myself.' Chef Barinov pairs 'very much' with 'want' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (11, None, "'Oh, alright, alright.' In Russian, the idea of 'come on' flows naturally into 'really?!' without extra filler words."),
     (12, None, "'Here, compliments of the chef.' Here the Russian phrasing highlights 'on' before landing on 'chef'."),
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 10 of Episode 13, listen out for the exchange around a second helping of rolls — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'На, комплимент от шефа.')
+OUTRO = 'That wraps up this scene as nagiyev goes out with Senya and Fedya to deal with the captive, while the vegetarian guest returns to Claude Monet and orders the exact same rolls from Max. See you next time!'
+CLOSING = ("anya", "До встречи!")

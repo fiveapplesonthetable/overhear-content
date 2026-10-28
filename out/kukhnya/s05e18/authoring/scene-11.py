@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e18-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 18
 SCENE = 11
-TITLE = 'Денис приезжает в знакомый двор  (Denis Arrives at a Familiar Courtyard)'
+TITLE = "Денис приезжает в знакомый двор  (Denis Arrives at a Familiar Courtyard)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Никита', 'katya': 'Катя', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nikita": "anja", "katya": "angelina"}
+LABELS = {"nikita": "Никита", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.18'
 SOURCE_FILE = 'sources/kukhnya/s05/e18.ru.srt'
 
 INTRO = 'Nikita whispers to Katya that he wants to talk to her alone after closing. When he brings his hired guitarist to the hotel entrance, he is shocked to realize Denis already knows the place.'
 
 STORY = [
-    ('anya', 'Я хотел вечером с тобой поговорить наедине.', 'I wanted to talk with you alone this evening.', [(171, 'вечером с тобой поговорить наедине')], 'adapted'),
+    ('nikita', 'Я хотел вечером с тобой поговорить наедине.', 'I wanted to talk with you alone this evening.', [(171, 'вечером с тобой поговорить наедине')], 'adapted'),
     ('katya', 'Хорошо, тогда увидимся до вечера.', 'Alright, then see you this evening.', [(172, 'Тогда до вечера')], 'adapted'),
-    ('denis', 'Здесь всё сегодня будет происходить?', 'Is everything going to happen right here today?', [(173, 'Здесь, да, все будет происходить')], 'adapted'),
-    ('anya', 'Да, а ты уже бывал тут?', 'Yes, have you been here before?', [(174, 'Да. Бывал тут')], 'adapted'),
-    ('denis', 'Да, это очень знакомое место.', 'Yes, this is a very familiar place.', [(175, 'Да, знакомое место')], 'adapted'),
-    ('denis', 'А ты что, здесь в отеле живёшь?', 'Do you live here in the hotel?', [(176, 'А ты что, здесь живешь')], 'adapted'),
-    ('anya', 'Да нет, я здесь официантом работаю.', 'Well no, I work here as a waiter.', [(176, 'Да нет, ты что, я здесь официантом работаю')], 'adapted'),
-    ('denis', 'Понятно, значит, для девушки стараешься.', 'I see, so you are doing this for a girl.', [(177, 'Ну да')], 'adapted'),
-    ('anya', 'Слушай, ты постой тут пять минут.', 'Listen, stand right here for five minutes.', [(178, 'Слушай, ты постой пять минут')], 'adapted'),
-    ('anya', 'Я сейчас тебе деньги вынесу.', 'I will bring the money out to you right now.', [(178, 'я сейчас деньги вынесу')], 'adapted'),
-    ('denis', 'Хорошо, я подожду тебя у машины.', 'Alright, I will wait for you by the car.', [(178, 'постой пять минут')], 'adapted'),
-    ('anya', 'Никуда отсюда не уходи.', 'Do not go anywhere from here.', [(178, 'я сейчас деньги вынесу')], 'adapted'),
+    ('nikita', 'Здесь всё сегодня будет происходить?', 'Is everything going to happen right here today?', [(173, 'Здесь, да, все будет происходить')], 'adapted'),
+    ('nikita', 'Да, а ты уже бывал тут?', 'Yes, have you been here before?', [(174, 'Да. Бывал тут')], 'adapted'),
+    ('nikita', 'Да, это очень знакомое место.', 'Yes, this is a very familiar place.', [(175, 'Да, знакомое место')], 'adapted'),
+    ('nikita', 'А ты что, здесь в отеле живёшь?', 'Do you live here in the hotel?', [(176, 'А ты что, здесь живешь')], 'adapted'),
+    ('nikita', 'Да нет, я здесь официантом работаю.', 'Well no, I work here as a waiter.', [(176, 'Да нет, ты что, я здесь официантом работаю')], 'adapted'),
+    ('nikita', 'Понятно, значит, для девушки стараешься.', 'I see, so you are doing this for a girl.', [(177, 'Ну да')], 'adapted'),
+    ('nikita', 'Слушай, ты постой тут пять минут.', 'Listen, stand right here for five minutes.', [(178, 'Слушай, ты постой пять минут')], 'adapted'),
+    ('nikita', 'Я сейчас тебе деньги вынесу.', 'I will bring the money out to you right now.', [(178, 'я сейчас деньги вынесу')], 'adapted'),
+    ('nikita', 'Хорошо, я подожду тебя у машины.', 'Alright, I will wait for you by the car.', [(178, 'постой пять минут')], 'adapted'),
+    ('nikita', 'Никуда отсюда не уходи.', 'Do not go anywhere from here.', [(178, 'я сейчас деньги вынесу')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'While Denis waits outside with his guitar case, Eleonora steps out of the hotel and spots him immediately. See you in the next scene.'
-CLOSING = ('anya', 'Я сейчас деньги вынесу.')
+OUTRO = 'While Denis waits outside with his guitar case, Eleonora steps out of the hotel and spots him immediately. Until next time!'
+CLOSING = ("nikita", "Хорошего дня!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e18-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 18
 SCENE = 7
-TITLE = 'Приставка вместо кроватки  (Video Games Instead of the Crib)'
+TITLE = "Приставка вместо кроватки  (Video Games Instead of the Crib)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.18'
 SOURCE_FILE = 'sources/kukhnya/s05/e18.ru.srt'
 
 INTRO = 'When Chef Barinov calls Max to ask if the crib is assembled, he hears video game sound effects in the background. Realizing Max has barely started, Victor leaves Lyova in charge and heads over.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Chef Barinov rushes across Moscow to Vika's apartment so they can finish the nursery before Tanya returns. See you in the next scene."
-CLOSING = ('chef', 'Лёва, остаёшься за главного.')
+OUTRO = "Chef Barinov rushes across Moscow to Vika's apartment so they can finish the nursery before Tanya returns. Until next time!"
+CLOSING = ("chef", "До свидания!")

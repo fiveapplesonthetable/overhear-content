@@ -1,31 +1,31 @@
-ID = "kukhnya-s02e18-scene-17"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e18-scene-17'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 18
 SCENE = 17
 TITLE = "Раскаяние Насти и наряд полиции  (Nastya's Remorse and the Police Raid)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.18"
-SOURCE_FILE = "sources/kukhnya/s02/e18.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.18'
+SOURCE_FILE = 'sources/kukhnya/s02/e18.ru.srt'
 
 INTRO = 'With everyone gathered in the office, Nastya tearfully confesses to her father and Kostya that she staged her own kidnapping because her homeless friends desperately needed money. Just as she begs their forgiveness, a squad of police officers called by her mother raids the kitchen.'
 
 STORY = [
     ('anya', 'Кто шеф не знал.', 'What the Chef did not know.', [(290, 'кто шеф не знал')], ''),
     ('chef', 'То я их купил.', 'Was that I bought them myself.', [(290, 'то я их купил')], ''),
-    ('kostya', 'Им очень были нужны деньги.', 'They needed the money very badly.', [(292, 'им очень были нужны деньги')], ''),
+    ('chef', 'Им очень были нужны деньги.', 'They needed the money very badly.', [(292, 'им очень были нужны деньги')], ''),
     ('anya', 'А попросить нельзя было.', 'Could you not simply have asked me for it?', [(293, 'А попросить нельзя было')], ''),
     ('chef', 'Могла бы хотя бы предупредить.', 'You could have at least warned me.', [(294, 'Могла бы хотя бы предупредить')], ''),
-    ('kostya', 'Я думал, мы доверяем друг другу.', 'I thought we trusted each other.', [(295, 'Я думал, мы доверяем друг другу')], ''),
+    ('chef', 'Я думал, мы доверяем друг другу.', 'I thought we trusted each other.', [(295, 'Я думал, мы доверяем друг другу')], ''),
     ('anya', 'Костик, ну прости.', 'Kostik, please forgive me.', [(296, 'Костик, ну прости')], ''),
     ('chef', 'Пап, прости.', 'Dad, forgive me.', [(297, 'Пап, прости')], ''),
-    ('kostya', 'Простите меня.', 'Forgive me, all of you.', [(298, 'Простите меня')], ''),
+    ('chef', 'Простите меня.', 'Forgive me, all of you.', [(298, 'Простите меня')], ''),
     ('anya', 'В туалете раздевалки чистые.', 'The restrooms and locker rooms are clear.', [(301, 'В туалете раздевалки чистые')], ''),
     ('chef', 'Склад проверь.', 'Go check the storage room.', [(302, 'Склад проверь')], ''),
-    ('kostya', 'Командир, я не понял, вы откуда взялись-то?', 'Officer, I do not understand, where did you guys come from?', [(303, 'Командир, я не понял, вы откуда взялись-то')], ''),
+    ('chef', 'Командир, я не понял, вы откуда взялись-то?', 'Officer, I do not understand, where did you guys come from?', [(303, 'Командир, я не понял, вы откуда взялись-то')], ''),
     ('anya', 'Это я их вызвала.', 'I was the one who called them.', [(304, 'это я их вызвала')], ''),
 ]
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 17 of Episode 18, listen out for the exchange around nastya's remorse and the police raid — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Это я их вызвала.')
+OUTRO = 'That wraps up this scene as nastya confesses to her father and Kostya that she staged the kidnapping to help her homeless friends, right before police officers summoned by her mother storm in. Until next time!'
+CLOSING = ("anya", "До встречи!")

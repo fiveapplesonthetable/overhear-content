@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I am the one who did it.' Max anchors the line on 'this', while 'I' completes the thought.
-- 'Lavrov did not steal your money.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'money'. Dmitry answers right away.
+- 'Lavrov did not steal your money.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Dmitry Vladimirovich, please forgive me.' The grammar packs 'Dmitry' and 'me' into a tight, idiomatic kitchen exchange.
 - 'I wanted this so badly.' Max brings out the contrast between 'I' and 'very' in a few short words.
 - 'I thought that if he were no longer working here.' Notice how Russian expresses 'what' and 'will' with crisp inflection rather than helper words. Dmitry answers right away.

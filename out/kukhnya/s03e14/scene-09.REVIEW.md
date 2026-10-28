@@ -11,8 +11,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Сеня | А мы тут просто в бейсбол хотели сыграть! | And we just wanted to play a game of baseball here! | #145 00:11:18: А мы в бейсбол хотели сыграть | adapted: adapted |
-| 2 | Катя | Говоришь, трогать его совсем не хотел? | You say you did not want to touch him at all? | #148 00:11:23: Говоришь, трогать не хотел | adapted: adapted |
-| 3 | Катя | Да я тебя больше видеть не могу! | I cannot bear the sight of you anymore! | #149 00:11:25: Да я тебя видеть не могу | adapted: adapted |
+| 2 | Сеня | Говоришь, трогать его совсем не хотел? | You say you did not want to touch him at all? | #148 00:11:23: Говоришь, трогать не хотел | adapted: adapted |
+| 3 | Сеня | Да я тебя больше видеть не могу! | I cannot bear the sight of you anymore! | #149 00:11:25: Да я тебя видеть не могу | adapted: adapted |
 | 4 | Сеня | Катя, да я не в курсе, они сами пришли! | Katya, I had no idea, they came on their own! | #150 00:11:27: Катя, да я не в курсе, это они сами | adapted: adapted |
 | 5 | Аня | А теперь пятьсот тысяч минимум, понятно, батя? | And now five hundred thousand minimum, got it, pops? | #151 00:11:30: минимум, понятно, батя | adapted: adapted |
 | 6 | Сеня | Катя, милая моя, подожди меня! | Katya, my darling, wait for me! | #152 00:11:33: Милая, подожди | adapted: adapted |

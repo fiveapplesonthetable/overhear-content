@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e12-scene-17"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e12-scene-17'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 12
 SCENE = 17
-TITLE = 'Вечеринка для одной звезды  (A Party for One Star)'
+TITLE = "Вечеринка для одной звезды  (A Party for One Star)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.12"
-SOURCE_FILE = "sources/kukhnya/s02/e12.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.12'
+SOURCE_FILE = 'sources/kukhnya/s02/e12.ru.srt'
 
 INTRO = 'After the shift, all the other cooks boycott the celebration, and a tired Vika prepares to head home as well. When Aleksandr smoothly confesses that he threw the entire party just to be alone with her, Max pulls the new chef aside and warns him to stay away from Vika.'
 
@@ -42,12 +42,11 @@ WALK = [
     (7, None, "'Can I have a word with you for a minute? Yes?' Notice how Russian expresses 'will you be able' and 'yes' with crisp inflection rather than helper words. Vika answers right away."),
     (8, None, "'What do you think you are doing?' Vika raises the pitch on 'are doing' to turn the phrase into a direct spoken question."),
     (9, None, "'What are you talking about?' Here the Russian phrasing highlights 'yes' before landing on 'what'."),
-    (10, None, "'Keep your hands off Vika, got it?' The grammar packs 'and' and 'understood?' into a tight, idiomatic kitchen exchange. Vika answers right away."),
+    (10, None, "'Keep your hands off Vika, got it?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
     (11, None, "'What business is it of yours?' The meaning hinges on 'to you' working together with 'matter' in spoken Russian."),
     (12, None, "'She is mine.' Spoken Russian keeps this brisk, leaning on 'she' and finishing on 'my'."),
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 17 of Episode 12, listen out for the exchange around a party for one star — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Она моя.')
+OUTRO = 'That wraps up this scene as when all the cooks skip the party and Vika tries to leave too, Aleksandr admits he arranged the entire evening just to be alone with her, prompting Max to confront him. Until next time!'
+CLOSING = ("anya", "До встречи!")

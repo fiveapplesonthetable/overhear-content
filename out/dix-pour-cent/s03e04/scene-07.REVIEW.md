@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | D'accord, nous verrons bien ce soir. | Okay, we shall see tonight. | 460:Oh, ben, certainement. |
 
 ## Part 5 — Outro & Closing
-> Mathias looks uneasy as Catherine departs after organizing the unexpected dinner party. When you watch the episode, listen out for the expressions meaning 'wanted' and 'darling'. You'll catch them now. See you next time.
+> Mathias looks uneasy as Catherine departs after organizing the unexpected dinner party. When you watch the episode, listen out for the expressions meaning 'wanted' and 'darling'. You'll catch them now. See you next time!
 - **Closing**: `catherine`: *Bonne journée!*

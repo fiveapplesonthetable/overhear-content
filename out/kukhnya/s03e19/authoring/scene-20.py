@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e19-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 20
-TITLE = 'Раскрытая тайна поцелуя  (The Kiss Secret Exposed)'
+TITLE = "Раскрытая тайна поцелуя  (The Kiss Secret Exposed)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = 'When Max chases after Katya to stop her from quitting, Chef Barinov explodes and yells that he saw Max and Katya kissing in the kitchen three days ago—with Vika standing right behind them!'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that heartbreaking revelation closes Episode Nineteen: Vika learns about Max's kiss with Katya right after choosing to trust him. See you in the Season Three finale!"
-CLOSING = ('vika', 'Я ещё совсем не привыкла.')
+OUTRO = "And that heartbreaking revelation closes Episode Nineteen: Vika learns about Max's kiss with Katya right after choosing to trust him. See you in the Season Three finale! See you next time!"
+CLOSING = ("vika", "До свидания!")

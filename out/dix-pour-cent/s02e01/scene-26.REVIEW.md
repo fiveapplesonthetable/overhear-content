@@ -25,5 +25,5 @@
 | 11 | `virginie` (Virginie) | Nous allons régler nos comptes en direct. | We are going to settle our scores live. | adapted |
 
 ## Part 5 — Outro & Closing
-> Ramzy is relaxed and making jokes on the sofa, completely unaware of what is coming. Virginie is about to step onto the television set for a dramatic confrontation. Join us next time to see what happens next.
+> Ramzy is relaxed and making jokes on the sofa, completely unaware of what is coming. Virginie is about to step onto the television set for a dramatic confrontation. See you next time!
 - **Closing**: `virginie`: *Bonne journée!*

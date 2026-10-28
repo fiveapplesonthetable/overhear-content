@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s02/e02.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "hicham": "marcel", "lea": "lucie"}`
-- **Labels**: `{"hicham": "Hicham", "lea": "Andréa"}`
+- **Voices**: `{"narrator": "sky", "lea": "lucie", "hicham": "marcel"}`
+- **Labels**: `{"lea": "Andréa", "hicham": "Hicham"}`
 
 ## Part 1 — Intro
 > New majority owner Hicham Janowski calls an impromptu meeting with the agents in his office. He criticizes the agency for relying on aging talent and urges them to recruit younger actors. To motivate the team, Hicham offers a generous bonus to anyone who keeps star actor Fabrice Luchini at ASK. Listen to the scene in French first. Don't worry about catching every word.
@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Nous allons trouver une solution immédiatement. | We are going to find a solution immediately. | 446:tout le monde est partant |
 
 ## Part 5 — Outro & Closing
-> With a tempting bonus on the table, the agents suddenly unite to keep Fabrice Luchini at ASK. Listen to the scene once more to consolidate your comprehension of French business vocabulary. Join us next time to see what happens next.
+> With a tempting bonus on the table, the agents suddenly unite to keep Fabrice Luchini at ASK. Listen to the scene once more to consolidate your comprehension of French business vocabulary. See you next time!
 - **Closing**: `lea`: *À demain!*

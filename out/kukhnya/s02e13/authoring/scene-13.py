@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e13-scene-13"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e13-scene-13'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 13
 SCENE = 13
-TITLE = 'Двойное недоразумение с полицией  (A Double Misunderstanding with the Police)'
+TITLE = "Двойное недоразумение с полицией  (A Double Misunderstanding with the Police)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja'}
-LABELS = {'anya': 'Нагиев', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.13"
-SOURCE_FILE = "sources/kukhnya/s02/e13.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina"}
+LABELS = {"nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.13'
+SOURCE_FILE = 'sources/kukhnya/s02/e13.ru.srt'
 
 INTRO = "When the police officer calls Nagiyev to verify Chef Barinov's identity, a terrified Nagiyev assumes the police have discovered the kidnapped photographer and immediately denies everything. Seconds later, Vika calls Nagiyev from the hospital after discovering Barinov's empty bed."
 
 STORY = [
-    ('anya', 'Нет, это не я.', 'No, that is not me.', [(207, 'Нет, это не я')], ''),
-    ('senya', 'Вы ошиблись.', 'You have the wrong person.', [(208, 'Вы ошиблись')], ''),
-    ('anya', 'Все. Все.', 'That is all. Goodbye.', [(209, 'Все. Все')], ''),
-    ('senya', 'Полиция! Видимо.', 'The police! Apparently.', [(210, 'Полиция! Видимо')], ''),
-    ('anya', 'Что его долго нет.', 'Why is he taking so long?', [(211, 'что его долго нет')], ''),
-    ('senya', 'А что делать теперь?', 'What are we supposed to do now?', [(212, 'А что делать теперь')], ''),
-    ('anya', 'Сейчас, сейчас, сейчас.', 'Hold on, hold on, just a second.', [(213, 'Сейчас, сейчас, сейчас')], ''),
-    ('senya', 'Алло. Алло.', 'Hello. Hello.', [(214, 'Алло. Алло')], ''),
-    ('anya', 'Дима, ты где?', 'Dima, where are you?', [(215, 'Дима, ты где')], ''),
-    ('senya', 'Я в этом?', 'I am in that place...', [(216, 'Я в этом')], ''),
-    ('anya', 'В ресторане.', 'At the restaurant.', [(217, 'В ресторане')], ''),
-    ('senya', 'Кофе пью.', 'Drinking coffee.', [(218, 'Кофе пью')], ''),
-    ('anya', 'Я тебе перезвоню.', 'I will call you back.', [(219, 'Я тебе перезвоню')], ''),
+    ('nagiyev', 'Нет, это не я.', 'No, that is not me.', [(207, 'Нет, это не я')], ''),
+    ('nagiyev', 'Вы ошиблись.', 'You have the wrong person.', [(208, 'Вы ошиблись')], ''),
+    ('nagiyev', 'Все. Все.', 'That is all. Goodbye.', [(209, 'Все. Все')], ''),
+    ('nagiyev', 'Полиция! Видимо.', 'The police! Apparently.', [(210, 'Полиция! Видимо')], ''),
+    ('nagiyev', 'Что его долго нет.', 'Why is he taking so long?', [(211, 'что его долго нет')], ''),
+    ('nagiyev', 'А что делать теперь?', 'What are we supposed to do now?', [(212, 'А что делать теперь')], ''),
+    ('nagiyev', 'Сейчас, сейчас, сейчас.', 'Hold on, hold on, just a second.', [(213, 'Сейчас, сейчас, сейчас')], ''),
+    ('nagiyev', 'Алло. Алло.', 'Hello. Hello.', [(214, 'Алло. Алло')], ''),
+    ('nagiyev', 'Дима, ты где?', 'Dima, where are you?', [(215, 'Дима, ты где')], ''),
+    ('nagiyev', 'Я в этом?', 'I am in that place...', [(216, 'Я в этом')], ''),
+    ('nagiyev', 'В ресторане.', 'At the restaurant.', [(217, 'В ресторане')], ''),
+    ('nagiyev', 'Кофе пью.', 'Drinking coffee.', [(218, 'Кофе пью')], ''),
+    ('nagiyev', 'Я тебе перезвоню.', 'I will call you back.', [(219, 'Я тебе перезвоню')], ''),
 ]
 
 OPENER = "Let's walk back through the scene line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 13 of Episode 13, listen out for the exchange around a double misunderstanding with the police — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Я тебе перезвоню.')
+OUTRO = 'That wraps up this scene as when the police call Nagiyev to ask about detaining a man, Nagiyev thinks they caught him kidnapping the paparazzo and hangs up in terror before Vika calls him. Until next time!'
+CLOSING = ("nagiyev", "Хорошего дня!")

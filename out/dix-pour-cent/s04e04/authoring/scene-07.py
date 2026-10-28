@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 4
 SCENE = 7
 TITLE = "La dernière prise d'Hervé  (Hervé's Last Take)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "valerie": "emilie"}
-LABELS = {"herve": "Hervé", "valerie": "Valérie"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'valerie': 'emilie'}
+LABELS = {'herve': 'Hervé', 'valerie': 'Valérie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "On the movie set, director Valerie calls cut on Herve's final scene to warm applause from the crew. Presenting him with white lilies, Valerie makes an unexpected offer that delights the aspiring actor. Let's listen to their conversation in French first."
 OPENER = "Let's explore Valerie and Herve's warm conversation line by line."
 TRANSITION = "Now let's listen to the full discussion once again from start to finish."
-OUTRO = "That's it for this scene around herve's last take. When you watch the episode, listen out for the expressions meaning 'can!' and 'last'. You'll catch them now. See you next time."
-CLOSING = ("herve", "À bientôt!")
+OUTRO = "That's it for this scene around herve's last take. When you watch the episode, listen out for the expressions meaning 'can!' and 'last'. You'll catch them now. See you next time!"
+CLOSING = ('herve', 'À bientôt!')
 STORY = [
     ('valerie', "Coupez, c'est dans la boîte!", 'Cut, that is a wrap!', [(469, 'Coupez !'), (471, "Super, on l'a !")], ''),
     ('valerie', 'Dernière prise pour Hervé André-Jezak!', 'Last take for Herve Andre-Jezak!', [(475, "C'était la dernière prise pour Hervé")], ''),

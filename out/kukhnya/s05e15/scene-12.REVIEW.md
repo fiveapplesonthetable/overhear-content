@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Никита | Папа, ты зачем снова сюда ко мне пришёл? | Dad, why did you come back here to me again? | #219 00:13:03: Ты что, пришел | adapted: adapted |
+| 1 | Гость | Папа, ты зачем снова сюда ко мне пришёл? | Dad, why did you come back here to me again? | #219 00:13:03: Ты что, пришел | adapted: adapted |
 | 2 | Гость | Во-первых, я не знал, что ты здесь работаешь. | First of all, I did not know that you work right here. | #220 00:13:05: я не знал, что ты именно здесь работаешь | adapted: adapted |
 | 3 | Гость | А во-вторых, хватит уже, ты мне всё доказал! | And second, enough already, you have proved everything to me! | #221 00:13:09: ну хватит уже, ты мне уже все доказал | adapted: adapted |
 | 4 | Гость | Ты сам устроился и честно проработал целый день. | You got the job yourself and honestly worked a whole day. | #222 00:13:15: Сам устроился, проработал целый день | adapted: adapted |
-| 5 | Никита | Если вы ничего не будете заказывать, я пойду. | If you are not going to order anything, I will go. | #224 00:13:21: Если вы ничего не будете заказывать, я тогда пойду | adapted: adapted |
+| 5 | Гость | Если вы ничего не будете заказывать, я пойду. | If you are not going to order anything, I will go. | #224 00:13:21: Если вы ничего не будете заказывать, я тогда пойду | adapted: adapted |
 | 6 | Гость | Виктория, будьте добры, принесите нам сейчас меню. | Victoria, be so kind as to bring us the menu now. | #225 00:13:27: Виктория, будьте добры меню | adapted: adapted |
-| 7 | Аня | Конечно, добрый вечер, прошу за ваш столик. | Of course, good evening, please come to your table. | #226 00:13:30: Конечно. Добрый вечер | adapted: adapted |
+| 7 | Вика | Конечно, добрый вечер, прошу за ваш столик. | Of course, good evening, please come to your table. | #226 00:13:30: Конечно. Добрый вечер | adapted: adapted |
 | 8 | Гость | И покажите наконец ваше знаменитое съедобное меню! | And finally show us your famous edible menu! | #227 00:13:32: И покажите, наконец, ваше съедобное меню | adapted: adapted |
 | 9 | Гость | Или оно у вас сегодня опять не готово? | Or is it not ready again at your place today? | #228 00:13:35: Или оно опять не готово | adapted: adapted |
-| 10 | Аня | Конечно готово, сейчас я быстро принесу его вам. | Of course it is ready, I will quickly bring it to you right now. | #229 00:13:37: готово | adapted: adapted |
+| 10 | Вика | Конечно готово, сейчас я быстро принесу его вам. | Of course it is ready, I will quickly bring it to you right now. | #229 00:13:37: готово | adapted: adapted |
 | 11 | Гость | Тогда несите сразу два, одним мы не наедимся! | Then bring two right away, one will not fill us up! | #230 00:13:40: Одним мы не наедимся | adapted: adapted |
-| 12 | Аня | Макс, выручай, где наше новое съедобное меню? | Max, help me out, where is our new edible menu? | #231 00:13:48: Макс, где съедобное меню | adapted: adapted |
+| 12 | Вика | Макс, выручай, где наше новое съедобное меню? | Max, help me out, where is our new edible menu? | #231 00:13:48: Макс, где съедобное меню | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

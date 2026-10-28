@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Аня | Пускай остается у нас. | Let him stay here with us. | #81 00:05:08: пускай остается у нас | verbatim |
 | 2 | Костя | Мы с Максом не против. | Max and I have no objection. | #82 00:05:15: Мы с Максом не против | verbatim |
-| 3 | Родион | А ты убирай, в какой комнате будешь жить? | So pick which room you are going to sleep in? | #83 00:05:17: А ты убирай, в какой комнате будешь жить | verbatim |
+| 3 | Костя | А ты убирай, в какой комнате будешь жить? | So pick which room you are going to sleep in? | #83 00:05:17: А ты убирай, в какой комнате будешь жить | verbatim |
 | 4 | Аня | С вами. | In the room with you two. | #85 00:05:23: С вами | verbatim |
 | 5 | Костя | Родион Сергеевич. | Rodion Sergeyevich. | #86 00:05:27: Родион Сергеевич | verbatim |
-| 6 | Родион | Прошу прощения. | I beg your pardon. | #87 00:05:31: Прошу прощения | verbatim |
+| 6 | Костя | Прошу прощения. | I beg your pardon. | #87 00:05:31: Прошу прощения | verbatim |
 | 7 | Аня | Я гражданин мира, мне нечего скрывать. | I am a citizen of the world, I have nothing to hide. | #88 00:05:36: Я гражданин мира, мне нечего скрывать | verbatim |
 | 8 | Костя | Доброе утро. | Good morning. | #89 00:05:49: Доброе утро | verbatim |
-| 9 | Родион | Даже не думал, что вы придете. | I did not even think that you would actually show up. | #90 00:05:50: Даже не думал, что вы придете | verbatim |
+| 9 | Костя | Даже не думал, что вы придете. | I did not even think that you would actually show up. | #90 00:05:50: Даже не думал, что вы придете | verbatim |
 | 10 | Аня | Ну что, побежали? | Well then, shall we run? | #91 00:05:53: Ну что, побежали | verbatim |
 | 11 | Костя | Еще умолять будете, чтобы я остановился. | You will be begging me to stop before long. | #93 00:05:59: Еще умолять будете, чтобы я остановился | verbatim |
-| 12 | Родион | Да ладно вам. | Oh, come on now. | #94 00:06:01: Да ладно вам | verbatim |
+| 12 | Костя | Да ладно вам. | Oh, come on now. | #94 00:06:01: Да ладно вам | verbatim |
 | 13 | Аня | Ну, вперед. | All right, forward march. | #96 00:06:05: Ну, вперед | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)

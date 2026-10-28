@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Я думала. | That is what I thought. | #148 00:10:32: я думала | verbatim |
+| 1 | Шеф | Я думала. | That is what I thought. | #148 00:10:32: я думала | verbatim |
 | 2 | Елена | В этом уже нет никакого сюрприза. | There is no surprise left in it anymore. | #149 00:10:36: в этом уже нет никакого сюрприза | verbatim |
-| 3 | Аня | Отнеси эти цветы, Елена Павловна. | Take these flowers over to Elena Pavlovna. | #150 00:10:53: Отнеси эти цветы, Елена Павловна | verbatim |
+| 3 | Шеф | Отнеси эти цветы, Елена Павловна. | Take these flowers over to Elena Pavlovna. | #150 00:10:53: Отнеси эти цветы, Елена Павловна | verbatim |
 | 4 | Елена | А что за повод? | And what is the occasion? | #152 00:10:59: А что за повод | verbatim |
-| 5 | Аня | А, все понял, шеф. | Ah, got it, Chef. | #154 00:11:05: А, все понял, шеф | verbatim |
+| 5 | Шеф | А, все понял, шеф. | Ah, got it, Chef. | #154 00:11:05: А, все понял, шеф | verbatim |
 | 6 | Елена | Вам вот передали. | Someone asked me to hand this to you. | #156 00:11:17: Вам вот передали | verbatim |
-| 7 | Аня | А это Елена Павловна за цветы отдала. | Elena Pavlovna gave me this money to pay for the flowers. | #157 00:11:19: А это Елена Павловна за цветы отдала | verbatim |
+| 7 | Шеф | А это Елена Павловна за цветы отдала. | Elena Pavlovna gave me this money to pay for the flowers. | #157 00:11:19: А это Елена Павловна за цветы отдала | verbatim |
 | 8 | Елена | Сказал, что не хочет. | She said she does not want them. | #158 00:11:22: Сказал, что не хочет | verbatim |
-| 9 | Аня | Вот оно что. | So that is how it is. | #160 00:11:26: Вот оно что | verbatim |
+| 9 | Шеф | Вот оно что. | So that is how it is. | #160 00:11:26: Вот оно что | verbatim |
 | 10 | Елена | Понятно. Да? | Understood. Right? | #161 00:11:27: Понятно. Да | verbatim |
-| 11 | Аня | Ну, я пошел. | Well, I will be going then. | #163 00:11:32: Ну, я пошел | verbatim |
+| 11 | Шеф | Ну, я пошел. | Well, I will be going then. | #163 00:11:32: Ну, я пошел | verbatim |
 | 12 | Елена | И что же? | And what now? | #164 00:11:34: И что же | verbatim |
-| 13 | Аня | Я пошел. | I am heading out. | #167 00:11:43: Я пошел | verbatim |
+| 13 | Шеф | Я пошел. | I am heading out. | #167 00:11:43: Я пошел | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

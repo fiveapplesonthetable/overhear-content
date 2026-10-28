@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e14-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 14
 SCENE = 19
 TITLE = "Разоблачение в номере Элеоноры  (Exposure in Eleonora's Suite)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'eleonora': 'Элеонора', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "eleonora": "angelina", "anya": "alisa"}
+LABELS = {"eleonora": "Элеонора", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.14'
 SOURCE_FILE = 'sources/kukhnya/s05/e14.ru.srt'
 
 INTRO = "When Max arrives at Eleonora's suite to pick up the ten thousand dollars, Katya and Denis burst in accusing him of sleeping with Eleonora for cash, forcing Max to reveal what the money is actually for."
@@ -17,9 +17,9 @@ STORY = [
     ('eleonora', 'Надеюсь, ты сделаешь всё быстро для моей дочери.', 'I hope you will do everything quickly for my daughter.', [(330, 'Я надеюсь, что ты сделаешь все быстро')], 'adapted'),
     ('anya', 'Можете даже не сомневаться в этом, Элеонора Андреевна.', 'You do not even need to doubt that, Eleonora Andreyevna.', [(331, 'Не сомневайся')], 'adapted'),
     ('eleonora', 'Кто там стучит в дверь? Быстро прячься!', 'Who is knocking at the door there? Hide quickly!', [(332, 'Кто там')], 'adapted'),
-    ('katya', 'Мама, тебе не стыдно? Об этом все говорят!', 'Mom, are you not ashamed? Everyone is talking about this!', [(335, 'Тебе не стыдно')], 'adapted'),
+    ('eleonora', 'Мама, тебе не стыдно? Об этом все говорят!', 'Mom, are you not ashamed? Everyone is talking about this!', [(335, 'Тебе не стыдно')], 'adapted'),
     ('anya', 'Катя, прости, просто мне очень нужны были деньги.', 'Katya, forgive me, I just needed the money very badly.', [(338, 'Прости, просто мне очень нужны были деньги')], 'adapted'),
-    ('katya', 'Ты что, спишь с моей мамой из-за денег?', 'Are you sleeping with my mom for money?', [(339, 'Ты что, спишь с моей мамой из-за денег')], 'adapted'),
+    ('eleonora', 'Ты что, спишь с моей мамой из-за денег?', 'Are you sleeping with my mom for money?', [(339, 'Ты что, спишь с моей мамой из-за денег')], 'adapted'),
     ('anya', 'Ты что, с ума сошла? Какой ещё роман?', 'Have you lost your mind? What affair?', [(340, 'Ты что, с ума сошла')], 'adapted'),
     ('anya', 'Твоя мама заплатила мне, чтобы я тебя бросил!', 'Your mom paid me so that I would break up with you!', [(344, 'заплатила мне, чтобы я тебя бросил')], 'adapted'),
     ('eleonora', 'Доченька, я просто хотела, чтобы ты была счастлива!', 'Sweetheart, I just wanted you to be happy!', [(346, 'Я просто хотела, чтобы ты была счастлива')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Once the truth comes out, Katya suddenly connects the dots about another sudden breakup in her life. See you in the next scene.'
-CLOSING = ('anya', 'Мне очень нужны были деньги.')
+OUTRO = 'Once the truth comes out, Katya suddenly connects the dots about another sudden breakup in her life. Until next time!'
+CLOSING = ("anya", "Всего хорошего!")

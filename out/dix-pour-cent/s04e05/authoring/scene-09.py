@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 9
-TITLE = "Renvoi de la crèche  (Expelled from Daycare)"
-LEVEL = "A1 — débutant"
+TITLE = 'Renvoi de la crèche  (Expelled from Daycare)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "directrice": "emilie"}
-LABELS = {"lea": "Andréa", "directrice": "Directrice"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'directrice': 'emilie'}
+LABELS = {'lea': 'Andréa', 'directrice': 'Directrice'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "At the daycare center Les Coccinelles, the director angrily confronts Andrea Martel for arriving very late. Because Andrea left baby Flora behind without notifying the staff, the director makes an uncompromising decision. Let's listen to their confrontation in French first."
 OPENER = "Let's examine the confrontation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "After facing the strict director's anger, Andrea walks away with Flora in her arms. When you watch the episode, listen out for the expressions meaning 'late' and 'madam'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "After facing the strict director's anger, Andrea walks away with Flora in her arms. When you watch the episode, listen out for the expressions meaning 'late' and 'madam'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('directrice', 'Vous êtes en retard, madame Martel!', 'You are late, Madame Martel!', [(425, 'Comment avez-vous pu la laisser ici sans nous prévenir ?')], ''),
     ('lea', "Je sais, j'ai eu une urgence.", 'I know, I had an emergency.', [(425, 'sans nous prévenir ?')], ''),

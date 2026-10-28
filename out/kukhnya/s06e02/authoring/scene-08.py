@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e02-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 2
 SCENE = 8
-TITLE = 'Скандал с префектом  (Clash with the Prefect)'
+TITLE = "Скандал с префектом  (Clash with the Prefect)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja'}
-LABELS = {'anya': 'Шеф', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja"}
+LABELS = {"guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.02'
 SOURCE_FILE = 'sources/kukhnya/s06/e02.ru.srt'
 
 INTRO = "Chef Barinov proudly serves his delicate auteur dishes to the district prefect, but the official mocks the tiny portions as mere starters and demands his ribs—triggering Barinov's famous temper."
 
 STORY = [
-    ('anya', 'Ну как вам блюдо?', 'Well, how do you like the dish?', [(132, 'Ну как?')], 'adapted'),
+    ('guest', 'Ну как вам блюдо?', 'Well, how do you like the dish?', [(132, 'Ну как?')], 'adapted'),
     ('guest', 'Для начала пойдет.', 'For a starter it will do.', [(133, 'пойдет')], 'adapted'),
     ('guest', 'Так что тащи уже ребрышки.', 'So bring out the ribs already.', [(134, 'тащи уже ребрышки')], 'adapted'),
-    ('anya', 'Высокая кухня — это вам не закуска.', 'Haute cuisine is not a snack for you.', [(136, 'высокая кухня')], 'adapted'),
+    ('guest', 'Высокая кухня — это вам не закуска.', 'Haute cuisine is not a snack for you.', [(136, 'высокая кухня')], 'adapted'),
     ('guest', 'А в-третьих, что, Витя?', 'And thirdly, what, Vitya?', [(137, 'А в-третьих, что, Витя?')], 'exact'),
-    ('anya', 'Не Витя, а Виктор Петрович.', 'Not Vitya, but Viktor Petrovich.', [(138, 'не Витя, а Виктор Петрович')], 'adapted'),
+    ('guest', 'Не Витя, а Виктор Петрович.', 'Not Vitya, but Viktor Petrovich.', [(138, 'не Витя, а Виктор Петрович')], 'adapted'),
     ('guest', 'Зря ты так, Виктор Петрович.', 'You should not act like that, Viktor Petrovich.', [(139, 'Зря ты так, Виктор Петрович')], 'exact'),
     ('guest', 'Земля ведь круглая.', 'After all, the earth is round.', [(140, 'круглая')], 'adapted'),
-    ('anya', 'А оплатить кто будет?', 'And who is going to pay?', [(142, 'оплатить кто будет?')], 'adapted'),
+    ('guest', 'А оплатить кто будет?', 'And who is going to pay?', [(142, 'оплатить кто будет?')], 'adapted'),
     ('guest', 'А я и не ел ничего.', 'Why, I did not even eat anything.', [(143, 'А я и не ел ничего')], 'exact'),
     ('guest', 'Я еще вернусь сюда.', 'I will be back here yet.', [(139, 'Зря ты так')], 'adapted'),
-    ('anya', 'Скатертью дорога!', 'Good riddance!', [(138, 'Виктор Петрович')], 'adapted'),
+    ('guest', 'Скатертью дорога!', 'Good riddance!', [(138, 'Виктор Петрович')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'The furious prefect storms out vowing revenge on the restaurant, while Barinov refuses to back down on his culinary vision. See you in the next scene.'
-CLOSING = ('anya', 'Не Витя, а Виктор Петрович!')
+OUTRO = 'The furious prefect storms out vowing revenge on the restaurant, while Barinov refuses to back down on his culinary vision. See you next time!'
+CLOSING = ("guest", "Хорошего дня!")

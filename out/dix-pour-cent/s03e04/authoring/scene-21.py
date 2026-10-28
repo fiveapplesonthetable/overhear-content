@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 4
 SCENE = 21
 TITLE = "Une semaine d'interruption  (A Week of Shutdown)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "Gabriel receives a distressing call from Isabelle Huppert, who has completely lost her voice. With the American shoot shut down for a week, Andrea warns Gabriel that insurance investigators will uncover their illegal double shoot. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "With Isabelle silenced by acute laryngitis, Gabriel and Andrea face the terrifying threat of an insurance investigation. When you watch the episode, listen out for the expressions meaning 'do you feel' and 'morning'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "With Isabelle silenced by acute laryngitis, Gabriel and Andrea face the terrifying threat of an insurance investigation. When you watch the episode, listen out for the expressions meaning 'do you feel' and 'morning'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Allô Isabelle, comment vous sentez-vous ce matin?', 'Hello Isabelle, how are you feeling this morning?', [(1132, "c'est Isabelle"), (1139, 'Ça va, Isabelle')], ''),
     ('gabriel', "Comment ça, vous n'avez plus de voix?", 'What do you mean, you have no voice left?', [(1145, 'Comment ça, plus de voix')], ''),

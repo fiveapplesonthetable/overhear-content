@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Merci pour cet avertissement précieux, Charles. | Thank you for this valuable warning, Charles. | 190:Merci, Charles. |
 
 ## Part 5 — Outro & Closing
-> Armed with Charles's warning, Mathias realizes that Andrea Martel and her allies are quietly organizing a mutiny. When you watch the episode, listen out for the expressions meaning 'sorry' and 'to come'. You'll catch them now. See you next time.
+> Armed with Charles's warning, Mathias realizes that Andrea Martel and her allies are quietly organizing a mutiny. When you watch the episode, listen out for the expressions meaning 'sorry' and 'to come'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À bientôt!*

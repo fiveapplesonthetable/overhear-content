@@ -30,10 +30,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I should not have come back here at all.' Notice how Russian expresses 'not' and 'to return' with crisp inflection rather than helper words. Max answers right away.
 - 'What do you mean should not have? Of course you should have!' Here the Russian phrasing highlights 'how' before landing on 'of course'.
 - 'Everything here has stayed just the way it was.' The grammar packs 'here' and 'remained' into a tight, idiomatic kitchen exchange.
-- 'Nobody in this restaurant has changed at all.' Notice the reflexive suffix on the verb meaning 'changed', turning the action back on the subject. Max answers right away.
+- 'Nobody in this restaurant has changed at all.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Why nobody? I, for example, have changed.' Notice how Russian expresses 'why' and 'changed' with crisp inflection rather than helper words.
 - 'During this time I gained two kilograms.' The meaning hinges on 'I' working together with 'gained' in spoken Russian.
-- 'So you will not be left without a job?' Notice the reflexive suffix on the verb meaning 'will stay', turning the action back on the subject. Max answers right away.
+- 'So you will not be left without a job?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Of course I will not, I have already learned everything.' Max anchors the line on 'of course', while 'learned' completes the thought.
 - 'The main thing is that you smile and are happy.' The grammar packs 'the main thing' and 'happy' into a tight, idiomatic kitchen exchange.
 - 'So smile right now, Viktoriya Sergeyevna!' Here the Russian phrasing highlights 'so' before landing on 'now'. Vika answers right away.

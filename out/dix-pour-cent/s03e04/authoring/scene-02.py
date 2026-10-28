@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 4
 SCENE = 2
 TITLE = "Dans la loge d'Isabelle  (In Isabelle's Dressing Room)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "isabelle": "emilie"}
-LABELS = {"gabriel": "Gabriel", "isabelle": "Isabelle"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'isabelle': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'isabelle': 'Isabelle'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "In her movie set dressing room, acclaimed actress Isabelle Huppert rehearses Shakespeare between grueling film shoots. Agent Gabriel Sarda drops in to check on her stamina and make sure she stays focused on her immediate shoot. Let's listen to the scene in French first."
 OPENER = "Let's observe as Gabriel checks on Isabelle in her dressing room."
 TRANSITION = "Now let's listen to Isabelle and Gabriel again at full speed."
-OUTRO = "Isabelle Huppert dashes onto the soundstage wearing Delphine's signature hat, energized by her endless love of performance. When you watch the episode, listen out for the expressions meaning 'do you feel' and 'train'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne journée!")
+OUTRO = "Isabelle Huppert dashes onto the soundstage wearing Delphine's signature hat, energized by her endless love of performance. When you watch the episode, listen out for the expressions meaning 'do you feel' and 'train'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('gabriel', 'Bonjour Isabelle, comment te sens-tu?', 'Hello Isabelle, how are you feeling?', [(70, 'Ça va ?'), (76, 'Ça va, Gabriel ?')], ''),
     ('isabelle', "J'étais en train de répéter Hamlet.", 'I was in the middle of rehearsing Hamlet.', [(86, "ça, c'est Hamlet."), (94, 'Je joue Hamlet.')], ''),

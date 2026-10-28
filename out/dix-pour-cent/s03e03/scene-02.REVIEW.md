@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Gardons ce grand secret pour nous. | Let us keep this great secret to ourselves. | 142:Vous n'avez parlé à personne ?, 143:Non, bien sûr que non. |
 
 ## Part 5 — Outro & Closing
-> Andrea and Gabriel solidify their alliance, carefully measuring each business step to safeguard their independent agency. When you watch the episode, listen out for the expressions meaning 'lawyer' and 'confirmed'. You'll catch them now. See you next time.
+> Andrea and Gabriel solidify their alliance, carefully measuring each business step to safeguard their independent agency. When you watch the episode, listen out for the expressions meaning 'lawyer' and 'confirmed'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

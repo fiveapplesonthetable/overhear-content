@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну, я правда сделал это случайно. | Well, I really did it by accident. | #310 00:19:22: Ну, я правду случайно | adapted: adapted |
+| 1 | Шеф | Ну, я правда сделал это случайно. | Well, I really did it by accident. | #310 00:19:22: Ну, я правду случайно | adapted: adapted |
 | 2 | Элеонора | Витенька, ничего случайного не бывает. | Vitenka, nothing ever happens by accident. | #311 00:19:24: Витенька<br>#312 00:19:25: ничего случайного не бывает | adapted: adapted |
 | 3 | Элеонора | Чего ты меня весь день достаёшь? | Why have you been pestering me all day? | #313 00:19:28: А чего ты меня сегодня весь день достаёшь | adapted: adapted |
 | 4 | Элеонора | Ты бесишься, что я теперь с Димой. | You are furious that I am with Dima now. | #314 00:19:30: Ты так бесишься, что я теперь с Димой | adapted: adapted |
-| 5 | Аня | Какой же это полный бред! | What complete nonsense that is! | #315 00:19:33: Бред какой | adapted: adapted |
+| 5 | Шеф | Какой же это полный бред! | What complete nonsense that is! | #315 00:19:33: Бред какой | adapted: adapted |
 | 6 | Элеонора | У тебя в руках ключи от его машины. | You have the keys to his car in your hands. | #316 00:19:37: У тебя ключи от его машины | adapted: adapted |
 | 7 | Элеонора | После этого скажешь, что не ревнуешь? | After that will you say that you are not jealous? | #318 00:19:41: После этого будешь говорить, что не ревнуешь | adapted: adapted |
-| 8 | Аня | Эля, не путай ревность с жалостью. | Elya, do not confuse jealousy with pity. | #319 00:19:43: Эля, не путай ревность с жалостью | adapted: adapted |
-| 9 | Аня | Могла бы найти кого-то поприличнее. | You could have found someone more decent. | #320 00:19:46: Могла бы найти кого-то поприличнее | adapted: adapted |
+| 8 | Шеф | Эля, не путай ревность с жалостью. | Elya, do not confuse jealousy with pity. | #319 00:19:43: Эля, не путай ревность с жалостью | adapted: adapted |
+| 9 | Шеф | Могла бы найти кого-то поприличнее. | You could have found someone more decent. | #320 00:19:46: Могла бы найти кого-то поприличнее | adapted: adapted |
 | 10 | Элеонора | Интересно, например, кого именно? | Interesting, for example, who exactly? | #321 00:19:51: Например, кого | adapted: adapted |
-| 11 | Аня | Ну, например, нашего Михаила Джековича. | Well, for example, our Mikhail Dzhekovich. | #322 00:19:52: Ну, например, Михаила | adapted: adapted |
-| 12 | Аня | Нормальный мужик, работает много, пьёт мало. | A normal guy, works a lot, drinks little. | #325 00:20:02: Нормальный мужик<br>#326 00:20:04: Работает много, пьет мало | adapted: adapted |
+| 11 | Шеф | Ну, например, нашего Михаила Джековича. | Well, for example, our Mikhail Dzhekovich. | #322 00:19:52: Ну, например, Михаила | adapted: adapted |
+| 12 | Шеф | Нормальный мужик, работает много, пьёт мало. | A normal guy, works a lot, drinks little. | #325 00:20:02: Нормальный мужик<br>#326 00:20:04: Работает много, пьет мало | adapted: adapted |
 | 13 | Элеонора | Я не ищу мужа среди персонала. | I am not looking for a husband among the staff. | #330 00:20:16: искать себе мужа среди обслуживающего персонала | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

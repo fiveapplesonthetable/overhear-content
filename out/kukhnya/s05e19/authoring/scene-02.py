@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e19-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 19
 SCENE = 2
-TITLE = 'Первая подсказка и расходы на ребёнка  (The First Clue and Baby Expenses)'
+TITLE = "Первая подсказка и расходы на ребёнка  (The First Clue and Baby Expenses)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "katya": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "katya": "Катя", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.19'
 SOURCE_FILE = 'sources/kukhnya/s05/e19.ru.srt'
 
 INTRO = 'Katya notices her favorite hat is missing and finds a mysterious note telling her to follow clues starting at the coffee machine. Meanwhile, Max receives a long shopping list from Vika.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Kostya suggests a practical way for Max to earn a promotion from Chef Barinov. See you in the next scene.'
-CLOSING = ('anya', 'Ладно, не волнуйся, всё куплю.')
+OUTRO = 'Kostya suggests a practical way for Max to earn a promotion from Chef Barinov. See you next time!'
+CLOSING = ("anya", "До завтра!")

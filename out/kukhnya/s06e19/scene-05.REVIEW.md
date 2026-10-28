@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Парни, сейчас всё в ваших руках. | Guys, everything is in your hands right now. | #75 00:05:16: Парни, сейчас все в ваших руках | adapted: adapted |
-| 2 | Аня | Покажите, кто на кухне хозяин. | Show them who is the master in the kitchen. | #76 00:05:18: кто на этой кухне хозяин | adapted: adapted |
-| 3 | Аня | Идите и верните свою работу. | Go and win back your jobs. | #77 00:05:23: Идите и верните свою работу | adapted: adapted |
+| 1 | Шеф | Парни, сейчас всё в ваших руках. | Guys, everything is in your hands right now. | #75 00:05:16: Парни, сейчас все в ваших руках | adapted: adapted |
+| 2 | Шеф | Покажите, кто на кухне хозяин. | Show them who is the master in the kitchen. | #76 00:05:18: кто на этой кухне хозяин | adapted: adapted |
+| 3 | Шеф | Идите и верните свою работу. | Go and win back your jobs. | #77 00:05:23: Идите и верните свою работу | adapted: adapted |
 | 4 | Сеня | Шеф, мы их сегодня порвём! | Chef, we will tear them apart today! | #78 00:05:26: Мы их порвем | adapted: adapted |
-| 5 | Федя | Мы быстро победим этих поваров. | We will quickly defeat these cooks. | #79 00:05:28: сделаем их все | adapted: adapted |
-| 6 | Аня | Лучше докажи это на кухне. | Better prove that in the kitchen. | #85 00:05:40: Лучше сделай это с ними на кухне | adapted: adapted |
-| 7 | Аня | Давайте как в старые времена! | Let us do it like in the old days! | #86 00:05:43: как в старые добрые времена | adapted: adapted |
-| 8 | Аня | Каждая пара приготовит одно блюдо. | Each pair will prepare one dish. | #87 00:06:06: Каждая пара приготовит по одному блюду | adapted: adapted |
-| 9 | Аня | Кто приготовит лучше, тот останется. | Whoever cooks better will stay. | #88 00:06:11: Кто приготовит лучше, тот и останется | adapted: adapted |
-| 10 | Аня | Лучшие останутся на этой кухне. | The best will remain in this kitchen. | #88 00:06:11: останется на этой кухне | adapted: adapted |
-| 11 | Аня | У вас ровно полчаса времени. | You have exactly half an hour. | #89 00:06:14: У вас полчаса | adapted: adapted |
-| 12 | Аня | Давайте, ребята, приступайте к работе! | Come on, guys, get started on the work! | #90 00:06:19: Приступайте | adapted: adapted |
+| 5 | Шеф | Мы быстро победим этих поваров. | We will quickly defeat these cooks. | #79 00:05:28: сделаем их все | adapted: adapted |
+| 6 | Шеф | Лучше докажи это на кухне. | Better prove that in the kitchen. | #85 00:05:40: Лучше сделай это с ними на кухне | adapted: adapted |
+| 7 | Шеф | Давайте как в старые времена! | Let us do it like in the old days! | #86 00:05:43: как в старые добрые времена | adapted: adapted |
+| 8 | Шеф | Каждая пара приготовит одно блюдо. | Each pair will prepare one dish. | #87 00:06:06: Каждая пара приготовит по одному блюду | adapted: adapted |
+| 9 | Шеф | Кто приготовит лучше, тот останется. | Whoever cooks better will stay. | #88 00:06:11: Кто приготовит лучше, тот и останется | adapted: adapted |
+| 10 | Шеф | Лучшие останутся на этой кухне. | The best will remain in this kitchen. | #88 00:06:11: останется на этой кухне | adapted: adapted |
+| 11 | Шеф | У вас ровно полчаса времени. | You have exactly half an hour. | #89 00:06:14: У вас полчаса | adapted: adapted |
+| 12 | Шеф | Давайте, ребята, приступайте к работе! | Come on, guys, get started on the work! | #90 00:06:19: Приступайте | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

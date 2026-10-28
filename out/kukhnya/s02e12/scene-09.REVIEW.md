@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Слушай, а вот это, Луи, с кем? | Listen, who is Louis over there with? | #139 00:08:38: Слушай, а вот это, Луи, с кем | verbatim |
-| 2 | Сеня | Да ладно, шучу. | Come on, I am just kidding. | #140 00:08:42: Да ладно, шучу | verbatim |
+| 1 | Вика | Слушай, а вот это, Луи, с кем? | Listen, who is Louis over there with? | #139 00:08:38: Слушай, а вот это, Луи, с кем | verbatim |
+| 2 | Вика | Да ладно, шучу. | Come on, I am just kidding. | #140 00:08:42: Да ладно, шучу | verbatim |
 | 3 | Луи | А вот директор наш? | And what about our director? | #141 00:08:44: а вот директор наш | verbatim |
-| 4 | Аня | Та вроде ни с кем. | She does not seem to be with anyone. | #142 00:08:49: Та вроде ни с кем | verbatim |
-| 5 | Сеня | Да ну. | You do not say. | #144 00:08:57: Да ну | verbatim |
+| 4 | Вика | Та вроде ни с кем. | She does not seem to be with anyone. | #142 00:08:49: Та вроде ни с кем | verbatim |
+| 5 | Вика | Да ну. | You do not say. | #144 00:08:57: Да ну | verbatim |
 | 6 | Луи | Ну, вообще-то, вас гости звали. | Actually, the guests were asking for you. | #147 00:09:09: Ну, вообще-то, вас гости звали | verbatim |
-| 7 | Аня | Скажи им. | Tell them for me. | #148 00:09:12: скажи им | verbatim |
-| 8 | Сеня | Не-не-не, не сейчас. | No, no, not right now. | #149 00:09:17: Не-не-не, не сейчас | verbatim |
+| 7 | Вика | Скажи им. | Tell them for me. | #148 00:09:12: скажи им | verbatim |
+| 8 | Вика | Не-не-не, не сейчас. | No, no, not right now. | #149 00:09:17: Не-не-не, не сейчас | verbatim |
 | 9 | Луи | Первый день в ресторане. | It is my first day at the restaurant. | #151 00:09:22: Первый день в ресторане | verbatim |
-| 10 | Аня | Ну а мне-то как откажешь? | Well, how could anyone say no to me? | #153 00:09:27: Ну а мне-то как откажешь | verbatim |
-| 11 | Сеня | Это уже третий браслет. | This is already the third bracelet. | #155 00:09:34: Это уже третий браслет | verbatim |
+| 10 | Вика | Ну а мне-то как откажешь? | Well, how could anyone say no to me? | #153 00:09:27: Ну а мне-то как откажешь | verbatim |
+| 11 | Вика | Это уже третий браслет. | This is already the third bracelet. | #155 00:09:34: Это уже третий браслет | verbatim |
 | 12 | Луи | Видишь вот это? | Do you see this right here? | #156 00:09:37: Видишь вот это | verbatim |
-| 13 | Аня | Ладно, я пойду поработаю. | All right, I am going to get back to work. | #158 00:09:43: Ладно, я пойду поработаю | verbatim |
+| 13 | Вика | Ладно, я пойду поработаю. | All right, I am going to get back to work. | #158 00:09:43: Ладно, я пойду поработаю | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 6
-TITLE = "Une chanteuse pour Julien  (A Singer for Julien)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une chanteuse pour Julien  (A Singer for Julien)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In Gabriel's office, Gabriel excitedly tells Sofia that pop singer and client Julien Dore is arriving to discuss his musical movie. Seeking to launch Sofia's singing career, Gabriel coaches her to act like an established artist while keeping their personal life secret. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel coaches Sofia step by step to prepare for the meeting."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "Gabriel prepares Sofia to impress Julien Dore while carefully guarding her dual identity as receptionist and girlfriend. Let's review the vocabulary and conversational expressions used in this dialogue. Until next time."
-CLOSING = ("sofia", "Au revoir!")
+OUTRO = "Gabriel prepares Sofia to impress Julien Dore while carefully guarding her dual identity as receptionist and girlfriend. Let's review the vocabulary and conversational expressions used in this dialogue. See you next time!"
+CLOSING = ('sofia', 'Au revoir!')
 STORY = [
     ('gabriel', 'Julien Doré vient parler de son film.', 'Julien Dore is coming to talk about his film.', [(144, 'Julien Doré vient parler de son film.')], ''),
     ('sofia', 'Tu veux me présenter à Julien Doré?', 'You want to introduce me to Julien Dore?', [(145, 'Je veux te le présenter.'), (146, 'Julien Doré ?')], ''),

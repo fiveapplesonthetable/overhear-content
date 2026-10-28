@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, let's go home.' Lyova keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Please be reasonable.' In spoken Russian, Lyova omits unnecessary linking verbs so the key idea lands immediately.
-- 'Ask Dmitry Vladimirovich for forgiveness.' Lyova uses natural conversational word order here to highlight the most important part of the reply.
-- 'Max, I am definitely going to mess up here.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
-- 'Come on, you are a musician. Approach it creatively.' Max uses natural conversational word order here to highlight the most important part of the reply.
+- 'Viktor Petrovich, let's go home.' In everyday Russian, 'let's go' flows straight into 'home' without extra linking words.
+- 'Please be reasonable.' Lyova centers this short reply on 'reasonable', letting a few direct words carry the whole meaning.
+- 'Ask Dmitry Vladimirovich for forgiveness.' Notice how Russian puts 'ask' and 'forgiveness' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Max, I am definitely going to mess up here.' Denis centers this short reply on 'exactly', letting a few direct words carry the whole meaning.
+- 'Come on, you are a musician. Approach it creatively.' In everyday Russian, 'musician' flows straight into 'creatively' without extra linking words.
 - 'Imagine that the kitchen is your orchestra.' Max addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'Denis, your trial period started half an hour ago.' Lyova keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Got it. On my way.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately.
-- 'Hello, everyone.' Denis uses natural conversational word order here to highlight the most important part of the reply.
-- 'Prep work runs in the Lavrov blood.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'Denis, your trial period started half an hour ago.' Notice how Russian puts 'already' and 'term, suspension' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Got it. On my way.' Here Denis anchors the thought on 'understood' and finishes on 'am going', keeping the spoken rhythm brisk and natural.
+- 'Hello, everyone.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context.
+- 'Prep work runs in the Lavrov blood.' Max pairs 'preparation' with 'of blood' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'And what if Nagiyev sees me here?' Denis raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'Folks, it is the second coming of the Chef out there.' Lyova uses natural conversational word order here to highlight the most important part of the reply.
+- 'Folks, it is the second coming of the Chef out there.' Here Lyova anchors the thought on 'the people' and finishes on 'chef', keeping the spoken rhythm brisk and natural.

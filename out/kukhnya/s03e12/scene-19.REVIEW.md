@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here you go, here is the money for last month.' The meaning hinges on 'please' working together with 'month' in spoken Russian.
-- 'And would you like to see how we redid the nursery?' The grammar packs 'and' and 'made' into a tight, idiomatic kitchen exchange.
+- 'And would you like to see how we redid the nursery?' Kostya pairs 'want' with 'made' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'We did everything here with our own hands.' The plural past ending '-li' on the verb for 'made' covers a group or the polite 'you'. Vika answers right away.
 - 'Except according to the lease, children and pets are not allowed in this apartment.' Notice how Russian expresses 'only' and 'one must not' with crisp inflection rather than helper words.
 - 'Let us pay you extra money instead.' In Russian, the idea of 'let's' flows naturally into 'we will pay extra' without extra filler words.
 - 'Under no circumstances, he will ruin all the walls.' Vika brings out the contrast between 'not even' and 'any' in a few short words.
 - 'You live out this month, and then you move out.' Vika anchors the line on 'live', while 'you are moving out' completes the thought.
-- 'And be sure to restore everything here to the way it was.' The grammar packs 'and' and 'was' into a tight, idiomatic kitchen exchange.
+- 'And be sure to restore everything here to the way it was.' Here Vika anchors the thought on 'definitely' and finishes on 'how', keeping the spoken rhythm brisk and natural.
 - 'Max, and what are you doing here?' Vika anchors the line on 'Max', while 'are doing' completes the thought. Max answers right away.
 - 'I live in this apartment now.' In Russian, the idea of 'I' flows naturally into 'live' without extra filler words.
 - 'Nastya gave me the keys to the apartment.' The meaning hinges on 'to me' working together with 'gave' in spoken Russian.
-- 'Alright, I will pack what is left and go.' Notice the reflexive suffix on the verb meaning 'remained', turning the action back on the subject.
+- 'Alright, I will pack what is left and go.' Here Vika anchors the thought on 'all right' and finishes on 'will go', keeping the spoken rhythm brisk and natural.

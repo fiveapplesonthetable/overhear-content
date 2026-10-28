@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 16
-TITLE = "Fais une Bardot  (Do a Bardot)"
-LEVEL = "A1 — débutant"
+TITLE = 'Fais une Bardot  (Do a Bardot)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "laura": "emilie", "gabriel": "theo", "mathias": "marcel"}
-LABELS = {"laura": "Laura", "gabriel": "Gabriel", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'laura': 'emilie', 'gabriel': 'theo', 'mathias': 'marcel'}
+LABELS = {'laura': 'Laura', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Now both women look back on the last time they lived under the same roof, a disastrous summer when Laura broke her ankle. Yet when it comes to saying no, Laura panics that she will break her mother's heart, and Gabriel comes up with a risky scheme. Listen to the French first; you don't need to catch every word."
 OPENER = "Let's go through it step by step. First, both women remember the summer of twenty eleven."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'So Nathalie wants to sabotage her audition, and Gabriel wants Laura to sabotage hers by playing the diva. Next come the auditions themselves. See you there.'
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = 'So Nathalie wants to sabotage her audition, and Gabriel wants Laura to sabotage hers by playing the diva. See you next time!'
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('mathias', "Été deux mille onze. Elle s'est cassé la cheville.", 'Summer twenty eleven. She broke her ankle.', [(378, 'cassé la cheville'), (379, 'Été')], ''),
     ('laura', 'Je ne pouvais pas marcher. Je suis restée chez ma mère.', 'I couldn', [(381, 'ne pouvait pas marcher'), (382, 'Je suis restée chez ma mère')], ''),

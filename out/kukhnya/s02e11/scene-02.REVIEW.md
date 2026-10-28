@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'There is no need to make a scene in the apartment so early!' Max anchors the line on 'and', while 'early' completes the thought.
-- 'What, could it get in the way?' Notice the reflexive suffix on the verb meaning 'to get in the way', turning the action back on the subject.
+- 'What, could it get in the way?' In everyday Russian, 'maybe' flows straight into 'to get in the way' without extra linking words.
 - 'Well, just take a look at Pashka.' Here the Russian phrasing highlights 'come on' before landing on 'look'. Vika answers right away.
 - 'They will get to work and sort everything out.' The meaning hinges on 'will come' working together with 'to agree' in spoken Russian.
 - 'How are you feeling today?' Max raises the pitch on 'your' to turn the phrase into a direct spoken question.
 - 'That is actually what I wanted to ask you.' The grammar packs 'like this' and 'to ask' into a tight, idiomatic kitchen exchange. Max answers right away.
 - 'How am I feeling?' The grammar packs 'how' and 'health' into a tight, idiomatic kitchen exchange.
-- 'No, no, do not worry.' In Russian, the idea of 'there is no' flows naturally into 'worry' without extra filler words.
+- 'No, no, do not worry.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Let us wait for the MRI results.' Notice how Russian expresses 'to wait for' and 'MRI scan' with crisp inflection rather than helper words. Vika answers right away.
 - 'Only one thing is required of you.' Vika brings out the contrast between 'from' and 'you' in a few short words.
 - 'To follow the regimen strictly.' Here the Russian phrasing highlights 'strictly' before landing on 'regime'.

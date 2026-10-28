@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Костя | Лёва, тебе тут нужно помочь? | Lyova, do you need some help here? | #86 00:09:37: помочь | adapted: adapted |
 | 2 | Костя | Постой, за что ты меня бьёшь? | Wait, what are you hitting me for? | #87 00:09:42: За что | adapted: adapted |
-| 3 | Аня | Прости, Костя, но здесь Гуля работает. | Sorry, Kostya, but Gulya works here. | #88 00:09:43: здесь Гуля работает | adapted: adapted |
-| 4 | Аня | Мало ли что может случиться. | You never know what might happen. | #89 00:09:46: Мало ли что | adapted: adapted |
+| 3 | Айнура | Прости, Костя, но здесь Гуля работает. | Sorry, Kostya, but Gulya works here. | #88 00:09:43: здесь Гуля работает | adapted: adapted |
+| 4 | Айнура | Мало ли что может случиться. | You never know what might happen. | #89 00:09:46: Мало ли что | adapted: adapted |
 | 5 | Айнура | Спасибо тебе за помощь, Лёва. | Thank you for your help, Lyova. | #90 00:09:57: Спасибо, Лёва | adapted: adapted |
 | 6 | Айнура | Я никому об этом не расскажу. | I will not tell anyone about this. | #91 00:10:00: Я никому не расскажу | adapted: adapted |
 | 7 | Айнура | Лёва, у нас плохие новости! | Lyova, we have bad news! | #92 00:10:10: Лёва | adapted: adapted |
 | 8 | Айнура | На кухне люди начали вдруг пропадать. | People have suddenly started disappearing in the kitchen. | #93 00:10:12: На кухне люди начали пропадать | adapted: adapted |
 | 9 | Айнура | Думаю, мне надо забрать Гулю. | I think I need to take Gulya away. | #94 00:10:15: Думаю, Гулю надо забрать | adapted: adapted |
 | 10 | Айнура | Нам пора назад домой вернуться. | It is time for us to return back home. | #95 00:10:16: Назад | adapted: adapted |
-| 11 | Аня | Кто этим водителям права даёт? | Who gives driver's licenses to these drivers? | #97 00:10:36: Кто этим маньякам права дает | adapted: adapted |
-| 12 | Аня | Гуля должна остаться здесь со мной. | Gulya must stay here with me. | #94 00:10:15: Гулю надо | adapted: adapted |
+| 11 | Айнура | Кто этим водителям права даёт? | Who gives driver's licenses to these drivers? | #97 00:10:36: Кто этим маньякам права дает | adapted: adapted |
+| 12 | Айнура | Гуля должна остаться здесь со мной. | Gulya must stay here with me. | #94 00:10:15: Гулю надо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

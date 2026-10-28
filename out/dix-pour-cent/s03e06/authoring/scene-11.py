@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 11
-TITLE = "Le tournage du fantôme  (Filming the Ghost)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le tournage du fantôme  (Filming the Ghost)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "realisateur": "marcel", "isabelle": "emilie", "lea": "lucie"}
-LABELS = {"realisateur": "Le réalisateur", "isabelle": "Isabelle", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'realisateur': 'marcel', 'isabelle': 'emilie', 'lea': 'lucie'}
+LABELS = {'realisateur': 'Le réalisateur', 'isabelle': 'Isabelle', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "In a public park, Camille coordinates a makeshift filming session with lookalike Isabelle playing a queen's ghost. The pretentious young director gives extravagant artistic instructions, but the novice actress repeatedly wanders off-camera, creating amusing chaos on set. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Camille navigates the quirky clash between an amateur nurse actress and a fussy director. When you watch the episode, listen out for the expressions meaning 'scene' and 'intimate'. You'll catch them now. See you next time."
-CLOSING = ("realisateur", "À bientôt!")
+OUTRO = "Camille navigates the quirky clash between an amateur nurse actress and a fussy director. When you watch the episode, listen out for the expressions meaning 'scene' and 'intimate'. You'll catch them now. See you next time!"
+CLOSING = ('realisateur', 'À bientôt!')
 STORY = [
     ('realisateur', 'Cette scène intime doit rester très spectaculaire.', 'This intimate scene must remain very spectacular.', [(524, "parce que c'est intime et en même temps, je veux que ce soit spectaculaire.")], ''),
     ('lea', 'Nous avons seulement une heure pour tourner.', 'We only have one hour to shoot.', [(529, "on n'a qu'une heure et demie, là.")], ''),

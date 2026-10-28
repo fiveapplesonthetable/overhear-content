@@ -1,58 +1,37 @@
-"""Authoring module for Kukhnya s01e11 scene 04."""
-from pathlib import Path
-
-ID = "kukhnya-s01e11-scene-04"
-TITLE = "Возвращение на кухню  (Return to the Kitchen)"
-LEVEL = "A1"
-PAIR = "ru-en"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e11-scene-04.
+ID = 'kukhnya-s01e11-scene-04'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 11
 SCENE = 4
-
-VOICES = {
-    "narrator": "sky",
-    "anya": "alisa",
-    "chef": "anja",
-}
-
-LABELS = {
-    "narrator": "Narrator",
-    "anya": "Макс",
-    "chef": "Шеф",
-}
-
-SOURCE_NAME = "Кухня s01e11"
-SOURCE_FILE = Path("sources/kukhnya/s01/e11.ru.dual.srt")
-SOURCE_NOTE = "Cues 58-65 in the restaurant hallway."
-
-INTRO = (
-    "In this scene in the hallway, Chef Viktor Barinov spots Max sitting idle after Victoria suspended him. "
-    "Furious that someone else is giving orders to his cooks, Viktor fiercely asserts his kitchen authority and sends Max back to work. "
-    "Listen to their conversation in Russian first, and then we will examine each sentence."
-)
-
-OPENER = (
-    "Now, let us examine the vocabulary and phrasing of this energetic backstage encounter."
-)
-
+TITLE = "Возвращение на кухню  (Return to the Kitchen)"
+LEVEL = "A1 — Duolingo Section 2"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
+SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
+INTRO = 'In the hallway, Chef Viktor Barinov spots Max sitting idle after Victoria suspended him. Furious that someone else is giving orders to his cooks, Viktor fiercely asserts his kitchen authority and sends Max back to work. Listen to their conversation in Russian first, and then we will examine each sentence.'
+OPENER = 'Now, let us examine the vocabulary and phrasing of this energetic backstage encounter.'
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "A lively scene demonstrating Chef Barinov's fiery defiance of restaurant management. Next time you watch the episode, listen for the Russian expressions for 'to run' and 'always' — you will catch every word right away. See you next time!"
+CLOSING = ("anya", "Пока!")
 STORY = [
-    ("chef", "Макс, ты что здесь прохлаждаешься?", "Max, why are you slacking off here?", [(58, "Ты что это здесь прохлаждаешься?")], "adapted: added name"),
-    ("anya", "Что мне еще делать, шеф?", "What else am I to do, chef?", [(59, "Что мне еще делать, шеф?")], "verbatim"),
-    ("anya", "Меня сегодня отстранили от работы.", "I was suspended from work today.", [(60, "Меня же сегодня отстранили от работы.")], "adapted: shortened"),
-    ("chef", "Кто тебя отстранил? Я?", "Who suspended you? Me?", [(61, "Кто тебя отстранил? Я?")], "verbatim"),
-    ("anya", "Виктория Сергеевна сказала сидеть здесь.", "Viktoria Sergeyevna told me to sit here.", [], "new"),
-    ("chef", "С каких пор ты её слушаешь?", "Since when do you listen to her?", [(62, "С каких пор ты стал слушать")], "adapted: polite register"),
-    ("chef", "На этой кухне главный только я!", "In this kitchen, only I am the boss!", [], "new"),
-    ("anya", "Она обещала меня уволить, шеф.", "She promised to fire me, chef.", [], "new"),
-    ("chef", "Увольнять поваров могу только я!", "Only I can fire cooks!", [], "new"),
-    ("chef", "А ну марш на кухню!", "Now march to the kitchen!", [(63, "марш на кухне")], "adapted: imperative order"),
-    ("chef", "Там тебя куча чеков дожидается.", "A pile of orders is waiting for you there.", [(63, "там тебе куча чеков дождается.")], "adapted: corrected grammar"),
-    ("anya", "Спасибо, шеф, я бегу!", "Thank you, chef, I am running!", [(64, "Спасибо, шеф.")], "adapted: added action"),
-    ("chef", "Стой, куда ты понес сковороду?", "Wait, where are you carrying that pan?", [(65, "Куда понес?")], "adapted: added noun"),
-    ("anya", "На рабочее место, шеф!", "To the workstation, chef!", [], "new"),
+    ('chef', 'Макс, ты что здесь прохлаждаешься?', 'Max, why are you slacking off here?', [(58, 'Ты что это здесь прохлаждаешься?')], ''),
+    ('anya', 'Что мне еще делать, шеф?', 'What else am I to do, chef?', [(59, 'Что мне еще делать, шеф?')], ''),
+    ('anya', 'Меня сегодня отстранили от работы.', 'I was suspended from work today.', [(60, 'Меня же сегодня отстранили от работы.')], ''),
+    ('chef', 'Кто тебя отстранил? Я?', 'Who suspended you? Me?', [(61, 'Кто тебя отстранил? Я?')], ''),
+    ('anya', 'Виктория Сергеевна сказала сидеть здесь.', 'Viktoria Sergeyevna told me to sit here.', [], ''),
+    ('chef', 'С каких пор ты её слушаешь?', 'Since when do you listen to her?', [(62, 'С каких пор ты стал слушать')], ''),
+    ('chef', 'На этой кухне главный только я!', 'In this kitchen, only I am the boss!', [], ''),
+    ('anya', 'Она обещала меня уволить, шеф.', 'She promised to fire me, chef.', [], ''),
+    ('chef', 'Увольнять поваров могу только я!', 'Only I can fire cooks!', [], ''),
+    ('chef', 'А ну марш на кухню!', 'Now march to the kitchen!', [(63, 'марш на кухне')], ''),
+    ('chef', 'Там тебя куча чеков дожидается.', 'A pile of orders is waiting for you there.', [(63, 'там тебе куча чеков дождается.')], ''),
+    ('anya', 'Спасибо, шеф, я бегу!', 'Thank you, chef, I am running!', [(64, 'Спасибо, шеф.')], ''),
+    ('chef', 'Стой, куда ты понес сковороду?', 'Wait, where are you carrying that pan?', [(65, 'Куда понес?')], ''),
+    ('anya', 'На рабочее место, шеф!', 'To the workstation, chef!', [], ''),
 ]
-
 WALK = [
     (0, None, "'Max, why are you slacking off here?' Viktor scolds his idle apprentice with sharp irritation."),
     (1, None, "'What else am I to do, chef?' Max defends his inactivity with a helpless gesture."),
@@ -66,16 +45,6 @@ WALK = [
     (9, None, "'Now march to the kitchen!' Viktor barks a direct order to return to duty."),
     (10, None, "'A pile of orders is waiting for you there.' Viktor points out the growing queue of tickets."),
     (11, None, "'Thank you, chef, I am running!' Max expresses his relief at getting back to work."),
-    (12, None, "'Wait, where are you carrying that pan?' Viktor stops him with a suspicious glare."),
-    (13, None, "'To the workstation, chef!' Max replies eagerly as he hurries toward the stoves."),
+    (12, None, "'Wait, where are you carrying that pan?' Chef Barinov leads with the direct command form meaning 'stop', pairing it with 'where' and 'carried'."),
+    (13, None, "'To the workstation, chef!' Max replies eagerly as he hurries toward the stoves. Now, let us listen to the complete scene again to practice your comprehension."),
 ]
-
-TRANSITION = (
-    "Now, let us listen to the complete scene again to practice your comprehension."
-)
-
-OUTRO = (
-    "A lively scene demonstrating Chef Barinov's fiery defiance of restaurant management."
-)
-
-CLOSING = ("anya", "Шеф всегда защищает своих поваров!")

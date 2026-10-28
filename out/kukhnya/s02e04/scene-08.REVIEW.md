@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | И все. | And that is all. | #127 00:07:54: И все | verbatim |
-| 2 | Вика | Значит, хорошо? | So that is good? | #127 00:07:54: Значит, хорошо | verbatim |
+| 1 | Шеф | И все. | And that is all. | #127 00:07:54: И все | verbatim |
+| 2 | Настя | Значит, хорошо? | So that is good? | #127 00:07:54: Значит, хорошо | verbatim |
 | 3 | Настя | Ну, то, что ты с ним. | Well, the fact that you are with him. | #128 00:07:57: Ну, то, что ты с ним | verbatim |
-| 4 | Аня | Что хорошо? | What is good about it? | #128 00:07:57: Что хорошо | verbatim |
-| 5 | Вика | Ну, в смысле, не с ним, а я. | Well, I mean not with him, but me. | #129 00:08:00: Ну, в смысле, не с ним, а я | verbatim |
+| 4 | Шеф | Что хорошо? | What is good about it? | #128 00:07:57: Что хорошо | verbatim |
+| 5 | Настя | Ну, в смысле, не с ним, а я. | Well, I mean not with him, but me. | #129 00:08:00: Ну, в смысле, не с ним, а я | verbatim |
 | 6 | Настя | Черт, как все запуталось. | Damn, how complicated everything has become. | #130 00:08:03: Черт, как все запуталось | verbatim |
-| 7 | Аня | Вика, что нам делать? | Vika, what should we do? | #131 00:08:06: Вика, что нам делать | verbatim |
-| 8 | Вика | Нет никаких нас. | There is no 'us'. | #131 00:08:06: Нет никаких нас | verbatim |
+| 7 | Шеф | Вика, что нам делать? | Vika, what should we do? | #131 00:08:06: Вика, что нам делать | verbatim |
+| 8 | Настя | Нет никаких нас. | There is no 'us'. | #131 00:08:06: Нет никаких нас | verbatim |
 | 9 | Настя | Есть я и ты. | There is only you and me. | #132 00:08:09: Есть я и ты | verbatim |
-| 10 | Аня | Я хочу, чтобы ты ушел. | I want you to leave. | #133 00:08:11: Я хочу, чтобы ты ушел | verbatim |
-| 11 | Вика | Подожди, я не хочу, чтобы не уходил. | Wait, I do not want to leave. | #134 00:08:14: Подожди, я не хочу, чтобы не уходил | verbatim |
+| 10 | Шеф | Я хочу, чтобы ты ушел. | I want you to leave. | #133 00:08:11: Я хочу, чтобы ты ушел | verbatim |
+| 11 | Настя | Подожди, я не хочу, чтобы не уходил. | Wait, I do not want to leave. | #134 00:08:14: Подожди, я не хочу, чтобы не уходил | verbatim |
 | 12 | Настя | Если я скажу нет, ты уйдешь? | If I say no, will you leave? | #137 00:09:13: Если я скажу нет, ты уйдешь | verbatim |
-| 13 | Аня | Я серьезно. | I am serious. | #143 00:09:38: Я серьезно | verbatim |
+| 13 | Шеф | Я серьезно. | I am serious. | #143 00:09:38: Я серьезно | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

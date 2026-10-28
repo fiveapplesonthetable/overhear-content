@@ -30,5 +30,5 @@
 | 16 | `gabriel` (Gabriel) | Jamais avec mes clientes! | Never with my clients! | 83:Jamais avec mes clientes |
 
 ## Part 5 — Outro & Closing
-> As they step out of the lift into the corridor, tax inspector Colette Brancillon politely reminds them about the documents she asked for, and Gabriel and Andréa worry that tax inspectors always find something wrong. See you next time.
+> As they step out of the lift into the corridor, tax inspector Colette Brancillon politely reminds them about the documents she asked for, and Gabriel and Andréa worry that tax inspectors always find something wrong. See you next time!
 - **Closing**: `gabriel`: *À demain!*

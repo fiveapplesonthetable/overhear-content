@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e07-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 1
 TITLE = "Спор об имени сына  (Debate Over the Son's Name)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "anya": "alisa", "kostya": "anja"}
+LABELS = {"nastya": "Настя", "anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = 'At the start of Season 3 Episode 7, Max reflects on how a single choice can change everything. At the bar, pregnant Nastya tells Kostya she wants to name their son Kuzma.'
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'What, you do not like Kuzma either?' Spoken Russian keeps this brisk, leaning on 'what' and finishing on 'pleases'."),
     (9, None, "'Kostya, there is no pleasing you at all.' In Russian, the idea of 'Kostya' flows naturally into 'please' without extra filler words."),
     (10, None, "'Nastya, because those are strange names.' The meaning hinges on 'Nastya' working together with 'names' in spoken Russian."),
-    (11, None, "'And everyone will tease our son.' Notice the reflexive suffix on the verb meaning 'mock', turning the action back on the subject."),
+    (11, None, "'And everyone will tease our son.' Kostya pairs 'son' with 'to be; there is' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Kostya hates the old-fashioned name Kuzma, setting up the question to Max that will split the episode into three timelines.'
-CLOSING = ('nastya', 'Это наш будущий сын.')
+OUTRO = 'Kostya hates the old-fashioned name Kuzma, setting up the question to Max that will split the episode into three timelines. Until next time!'
+CLOSING = ("nastya", "До завтра!")

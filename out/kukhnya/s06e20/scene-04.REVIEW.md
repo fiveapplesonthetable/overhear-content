@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну какой же он маньяк? | Well, what kind of maniac is he? | #49 00:04:33: какой маньяк | adapted: adapted |
-| 2 | Аня | Посмотри, как ребёнок его любит. | Look how much the child loves him. | #50 00:04:34: Ты посмотри, как<br>#50 00:04:34: его любит | adapted: adapted |
-| 3 | Аня | Маленькие дети всё сразу чувствуют. | Little children sense everything right away. | #51 00:04:36: сразу чувствуют | adapted: adapted |
+| 1 | Настя | Ну какой же он маньяк? | Well, what kind of maniac is he? | #49 00:04:33: какой маньяк | adapted: adapted |
+| 2 | Настя | Посмотри, как ребёнок его любит. | Look how much the child loves him. | #50 00:04:34: Ты посмотри, как<br>#50 00:04:34: его любит | adapted: adapted |
+| 3 | Настя | Маленькие дети всё сразу чувствуют. | Little children sense everything right away. | #51 00:04:36: сразу чувствуют | adapted: adapted |
 | 4 | Гость | Лучше его выгнать на всякий случай. | Better to kick him out just in case. | #52 00:04:38: Но лучше его выгнать. На всякий случай | adapted: adapted |
-| 5 | Аня | Нет, лучше оставить его дома. | No, better to let him stay at home. | #53 00:04:40: лучше оставить | adapted: adapted |
+| 5 | Настя | Нет, лучше оставить его дома. | No, better to let him stay at home. | #53 00:04:40: лучше оставить | adapted: adapted |
 | 6 | Гость | Надо сделать тест на отцовство. | We need to do a paternity test. | #55 00:04:45: Надо сделать тест на отцовство | adapted: adapted |
-| 7 | Аня | Это просто отличная идея, папа! | That is simply a great idea, Dad! | #56 00:04:52: Отличная идея | adapted: adapted |
-| 8 | Аня | Я об этом в кино видела. | I saw about that in the movies. | #57 00:04:54: в кино видела | adapted: adapted |
-| 9 | Аня | Для теста нужно взять слюну. | For the test we need to take saliva. | #57 00:04:54: что для теста нужно слюну взять | adapted: adapted |
+| 7 | Настя | Это просто отличная идея, папа! | That is simply a great idea, Dad! | #56 00:04:52: Отличная идея | adapted: adapted |
+| 8 | Настя | Я об этом в кино видела. | I saw about that in the movies. | #57 00:04:54: в кино видела | adapted: adapted |
+| 9 | Настя | Для теста нужно взять слюну. | For the test we need to take saliva. | #57 00:04:54: что для теста нужно слюну взять | adapted: adapted |
 | 10 | Гость | Там обязательно надо кровь брать. | They definitely need to take blood there. | #58 00:04:57: Там кровь брать надо | adapted: adapted |
-| 11 | Аня | А я читала, нужны волосы. | And I read that hair is needed. | #59 00:04:59: читала, что волосы надо | adapted: adapted |
+| 11 | Настя | А я читала, нужны волосы. | And I read that hair is needed. | #59 00:04:59: читала, что волосы надо | adapted: adapted |
 | 12 | Гость | Нет, для анализа нужна слюна. | No, saliva is needed for the test. | #60 00:05:01: Нет, там слюна | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

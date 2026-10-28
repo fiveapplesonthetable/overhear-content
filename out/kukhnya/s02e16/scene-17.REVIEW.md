@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Здесь еще? | Are you still here? | #283 00:18:27: Здесь еще | verbatim |
+| 1 | Костя | Здесь еще? | Are you still here? | #283 00:18:27: Здесь еще | verbatim |
 | 2 | Нагиев | Язык длинный. | You have a big mouth. | #285 00:18:30: Язык длинный | verbatim |
-| 3 | Аня | Ой, и на вас потом. | Watch out or I will spill it on you next. | #287 00:18:36: Ой, и на вас потом | verbatim |
+| 3 | Костя | Ой, и на вас потом. | Watch out or I will spill it on you next. | #287 00:18:36: Ой, и на вас потом | verbatim |
 | 4 | Нагиев | Ты что? | What did you just do? | #288 00:18:38: Ты что | verbatim |
-| 5 | Аня | Что вы делаете? | What are you doing? | #289 00:18:42: Что вы делаете | verbatim |
+| 5 | Костя | Что вы делаете? | What are you doing? | #289 00:18:42: Что вы делаете | verbatim |
 | 6 | Нагиев | Сейчас дам боль. | I am about to teach you a painful lesson. | #290 00:18:44: Сейчас дам боль | verbatim |
-| 7 | Аня | Отпустите, вы что делаете? | Let go of him, what are you doing? | #292 00:19:03: Отпустите, вы что делаете | verbatim |
+| 7 | Костя | Отпустите, вы что делаете? | Let go of him, what are you doing? | #292 00:19:03: Отпустите, вы что делаете | verbatim |
 | 8 | Нагиев | Дим, ты чего? | Dima, what is going on? | #293 00:19:05: Дим, ты чего | verbatim |
-| 9 | Аня | А мой сын? | That is my son! | #294 00:19:08: а мой сын | verbatim |
+| 9 | Костя | А мой сын? | That is my son! | #294 00:19:08: а мой сын | verbatim |
 | 10 | Нагиев | Ты следи за выражениями. | Watch your language, kid. | #295 00:19:11: ты следи за выражениями | verbatim |
-| 11 | Аня | Мне чуть костюм не испортил? | He nearly ruined my suit! | #296 00:19:14: мне чуть костюм не испортил | verbatim |
-| 12 | Нагиев | Он теперь год здесь жрать должен. | Now he owes me a whole year of business here. | #297 00:19:18: Он теперь год здесь жрать должен | verbatim |
-| 13 | Аня | Извините, пожалуйста. | Please excuse us. | #298 00:19:21: Извините, пожалуйста | verbatim |
+| 11 | Костя | Мне чуть костюм не испортил? | He nearly ruined my suit! | #296 00:19:14: мне чуть костюм не испортил | verbatim |
+| 12 | Нагиев | Он теперь год здесь обедать должен. | Now he has to dine here for a year. | #297 00:19:18: Он теперь год здесь<br>#297 00:19:18: должен | adapted: adapted |
+| 13 | Костя | Извините, пожалуйста. | Please excuse us. | #298 00:19:21: Извините, пожалуйста | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That is my son!' Kostya brings out the contrast between 'and' and 'my' in a few short words.
 - 'Watch your language, kid.' Notice how Russian expresses 'you' and 'expression' with crisp inflection rather than helper words. Kostya answers right away.
 - 'He nearly ruined my suit!' In Russian, the idea of 'for me' flows naturally into 'ruined' without extra filler words.
-- 'Now he owes me a whole year of business here.' Notice how Russian expresses 'he' and 'must' with crisp inflection rather than helper words.
+- 'Now he has to dine here for a year.' Nagiyev pairs 'now' with 'has to, must' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Please excuse us.' Kostya anchors the line on 'excuse me', while 'there you go' completes the thought.

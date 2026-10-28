@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Неплохо, просто хорошо. | Not bad, simply good. | #193 00:12:23: Неплохо, просто хорошо | verbatim |
+| 1 | Шеф | Неплохо, просто хорошо. | Not bad, simply good. | #193 00:12:23: Неплохо, просто хорошо | verbatim |
 | 2 | Вика | Одно блюдо за два часа сделал. | He spent two hours making a single dish. | #194 00:12:25: Одно блюдо за два часа сделал | verbatim |
-| 3 | Аня | Попробовал бы он так повыпендриваться. | I would like to see him show off like that during a rush. | #197 00:12:33: Попробовал бы он так повыпендриваться | verbatim |
+| 3 | Шеф | Попробовал бы он так повыпендриваться. | I would like to see him show off like that during a rush. | #197 00:12:33: Попробовал бы он так повыпендриваться | verbatim |
 | 4 | Вика | Надо устроить запару. | We need to stage a kitchen rush. | #199 00:12:39: Надо устроить запару | verbatim |
-| 5 | Аня | Посмотрим тогда, как он побегает. | Then we will see how fast he runs around. | #200 00:12:41: Посмотрим тогда, как он побегает | verbatim |
+| 5 | Шеф | Посмотрим тогда, как он побегает. | Then we will see how fast he runs around. | #200 00:12:41: Посмотрим тогда, как он побегает | verbatim |
 | 6 | Вика | Ну что же, я пойду. | Well then, I should get going. | #201 00:12:52: Ну что же, я пойду | verbatim |
-| 7 | Аня | До свидания, Виктор Петрович. | Goodbye, Viktor Petrovich. | #202 00:12:55: До свидания, Виктор Петрович | verbatim |
+| 7 | Шеф | До свидания, Виктор Петрович. | Goodbye, Viktor Petrovich. | #202 00:12:55: До свидания, Виктор Петрович | verbatim |
 | 8 | Вика | Это хотел вас попросить. | There was something I wanted to ask of you. | #204 00:13:12: это хотел вас попросить | verbatim |
-| 9 | Аня | Понимаете, когда вы приходите. | You see, whenever you come to visit. | #204 00:13:12: Понимаете, когда вы приходите | verbatim |
+| 9 | Шеф | Понимаете, когда вы приходите. | You see, whenever you come to visit. | #204 00:13:12: Понимаете, когда вы приходите | verbatim |
 | 10 | Вика | Виктору Петровичу становится лучше. | Viktor Petrovich starts feeling much better. | #205 00:13:15: Виктору Петровичу становится лучше | verbatim |
-| 11 | Аня | Что ли? | Is that so? | #207 00:13:21: что ли | verbatim |
+| 11 | Шеф | Что ли? | Is that so? | #207 00:13:21: что ли | verbatim |
 | 12 | Вика | Ему было бы приятно. | It would mean a lot to him. | #208 00:13:22: ему было бы приятно | verbatim |
-| 13 | Аня | Я могу вечером зайти. | I can stop by this evening. | #209 00:13:25: Я могу вечером зайти | verbatim |
+| 13 | Шеф | Я могу вечером зайти. | I can stop by this evening. | #209 00:13:25: Я могу вечером зайти | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

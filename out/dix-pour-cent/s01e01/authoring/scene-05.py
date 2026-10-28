@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 1
 SCENE = 5
 TITLE = "La dernière réunion de Samuel  (Samuel's Last Meeting)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "samuel": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"samuel": "Samuel", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'samuel': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'samuel': 'Samuel', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "We sit next to Andréa. Gabriel still hasn't told anyone that Tarantino doesn't want Cécile. Today it comes out, and Mathias, who doesn't speak in our version, is quick to blame him. We'll hear the scene in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's go back through it slowly. Samuel's agents have just been teasing him about his trip to Brazil, and he wants to make one thing clear."
 TRANSITION = "Now let's listen to the whole meeting again."
-OUTRO = "That's the end of the meeting, and of Gabriel's secret. If you caught the little sandwich around the verb, you'll start hearing it everywhere in the show. Until next time."
-CLOSING = ("samuel", "Au revoir, tout le monde!")
+OUTRO = "That's the end of the meeting, and of Gabriel's secret. If you caught the little sandwich around the verb, you'll start hearing it everywhere in the show. See you next time!"
+CLOSING = ('samuel', 'Au revoir, tout le monde!')
 STORY = [
     ('samuel', 'Je pars en vacances, pas à la retraite.', 'I', [(176, 'Je pars en vacances, pas à la retraite')], ''),
     ('lea', 'Tes premières vacances en huit ans!', 'Your first holiday in eight years!', [(177, 'Premières vacances en huit ans')], ''),

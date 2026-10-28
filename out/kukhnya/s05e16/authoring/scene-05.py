@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e16-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 16
 SCENE = 5
-TITLE = 'Старая любовь в люксе  (Old Love in the Luxury Suite)'
+TITLE = "Старая любовь в люксе  (Old Love in the Luxury Suite)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa"}
+LABELS = {"guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.16'
 SOURCE_FILE = 'sources/kukhnya/s05/e16.ru.srt'
 
 INTRO = "Up in Dasha's luxury suite, Max learns that his former classmate is now a bank department head flying to Sochi tomorrow on a corporate jet, and when she tries to kiss him, he admits he has not gotten over his breakup."
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'Dasha, no, I recently went through a painful breakup.' The meaning hinges on 'Dasha' working together with 'breakup' in spoken Russian."),
     (9, None, "'I see, then you simply need to clear your head a bit!' The grammar packs 'understood' and 'clear one's head' into a tight, idiomatic kitchen exchange."),
     (10, None, "'Tomorrow I am flying to Sochi on our bank's plane.' Here the Russian phrasing highlights 'I' before landing on 'bank'. Max answers right away."),
-    (11, None, "'That is unlikely to work out, I have urgent work downstairs.' Notice the reflexive suffix on the verb meaning 'will work out', turning the action back on the subject."),
+    (11, None, "'That is unlikely to work out, I have urgent work downstairs.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Max turns down the trip to Sochi at first, hoping he can still patch things up with Vika. See you in the next scene.'
-CLOSING = ('guest', 'Тебе надо немного развеяться.')
+OUTRO = 'Max turns down the trip to Sochi at first, hoping he can still patch things up with Vika. Until next time!'
+CLOSING = ("guest", "Всего хорошего!")

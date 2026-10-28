@@ -1,26 +1,26 @@
 ID = 'kukhnya-s03e01-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 5
-TITLE = 'Носки в центрифуге  (Socks in the Centrifuge)'
+TITLE = "Носки в центрифуге  (Socks in the Centrifuge)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Нагиев', 'chef': 'Шеф', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = 'Back in the kitchen, Nagiyev storms in after an argument with Kristina on the phone and catches Senya using the expensive molecular centrifuge to dry his socks.'
 
 STORY = [
-    ('anya', 'Кристина, никакой новой машины.', 'Kristina, no new car.', [(67, 'Кристина, никакой новой машины')], ''),
-    ('anya', 'Я тебе по-русски сказал. Нет.', 'I told you in plain Russian. No.', [(68, 'Я тебе по-русски сказал. Нет')], ''),
-    ('anya', 'Это что такое?', 'What is this?', [(72, 'Это что такое')], ''),
-    ('anya', 'Что это такое, я вас спрашиваю?', 'What is this, I am asking you?', [(74, 'Что это такое, я вас спрашиваю')], 'adapted'),
-    ('senya', 'Он в центрифуге носки сушит.', 'He is drying socks in the centrifuge.', [(75, 'в центрифуге носки сушит')], 'adapted'),
-    ('senya', 'Говорит, сохнут быстро.', 'He says they dry fast.', [(76, 'Говорит, сохнут быстро')], ''),
-    ('anya', 'Витя, я тебя просил найти человека!', 'Vitya, I asked you to find a person!', [(80, 'Витя, я тебя когда еще просил найти человека')], 'adapted'),
+    ('nagiyev', 'Кристина, никакой новой машины.', 'Kristina, no new car.', [(67, 'Кристина, никакой новой машины')], ''),
+    ('nagiyev', 'Я тебе по-русски сказал. Нет.', 'I told you in plain Russian. No.', [(68, 'Я тебе по-русски сказал. Нет')], ''),
+    ('nagiyev', 'Это что такое?', 'What is this?', [(72, 'Это что такое')], ''),
+    ('nagiyev', 'Что это такое, я вас спрашиваю?', 'What is this, I am asking you?', [(74, 'Что это такое, я вас спрашиваю')], 'adapted'),
+    ('nagiyev', 'Он в центрифуге носки сушит.', 'He is drying socks in the centrifuge.', [(75, 'в центрифуге носки сушит')], 'adapted'),
+    ('nagiyev', 'Говорит, сохнут быстро.', 'He says they dry fast.', [(76, 'Говорит, сохнут быстро')], ''),
+    ('nagiyev', 'Витя, я тебя просил найти человека!', 'Vitya, I asked you to find a person!', [(80, 'Витя, я тебя когда еще просил найти человека')], 'adapted'),
     ('chef', 'В Москве нет специалиста.', 'There is no specialist in Moscow.', [(82, 'В Москве нет специалиста')], 'adapted'),
     ('chef', 'Мы искали, но никто не подошел.', 'We looked, but nobody suited us.', [(83, 'Мы искали, но никто не подошел')], ''),
     ('chef', 'У меня к вам ещё один вопрос.', 'I have one more question for you.', [(85, 'у меня к вам еще один вопрос')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that wraps up our fifth scene. Watch for Nagiyev losing his temper over the centrifuge and Barinov's impossible interview questions."
-CLOSING = ('chef', 'Никто нам не подошел!')
+OUTRO = "And that wraps up our fifth scene. Watch for Nagiyev losing his temper over the centrifuge and Barinov's impossible interview questions. Until next time!"
+CLOSING = ("chef", "Пока!")

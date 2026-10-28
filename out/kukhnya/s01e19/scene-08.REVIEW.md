@@ -1,39 +1,39 @@
-# kukhnya-s01e19-scene-08: review sheet
+# Новый план  (The New Plan) — `kukhnya-s01e19-scene-08`
 
-Title: Новый план  (The New Plan)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.19
+**Source:** Кухня (Kukhnya) S1.19 · `sources/kukhnya/s01/e19.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `kostya` | anja | Костя |
+| `anya` | alisa | Макс |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> At the bar, Kostya tries to cheer up Max after Victoria receives a huge bouquet of roses from another man. When Kostya quotes a poetic line about boats and the ocean, Max realizes Kostya read it from Nastya's online status. Let's listen in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Вика, привет. | Vika, hi. | new | new |
-| 2 | Вика | Привет, Макс. | Hi, Max. | new | new |
-| 3 | Макс | Как дела на работе? | How are things at work? | new | new |
-| 4 | Вика | Всё как обычно. | Everything is as usual. | new | new |
-| 5 | Вика | Какой приятный вечер 0. | What a pleasant evening 0. | new | new |
-| 6 | Вика | Какой приятный вечер 1. | What a pleasant evening 1. | new | new |
-| 7 | Вика | Какой приятный вечер 2. | What a pleasant evening 2. | new | new |
-| 8 | Вика | Какой приятный вечер 3. | What a pleasant evening 3. | new | new |
-| 9 | Вика | Какой приятный вечер 4. | What a pleasant evening 4. | new | new |
-| 10 | Вика | Какой приятный вечер 5. | What a pleasant evening 5. | new | new |
-| 11 | Вика | Какой приятный вечер 6. | What a pleasant evening 6. | new | new |
-| 12 | Вика | Какой приятный вечер 7. | What a pleasant evening 7. | new | new |
+| 0 | Костя | Макс, ты только не переживай. | Max, just do not worry. | #174 "Ты только не переживай" |  |
+| 1 | Макс | А как тут не переживать? | And how can I not worry here? | *(added)* |  |
+| 2 | Макс | Ты видел этот огромный букет? | Did you see that huge bouquet? | *(added)* |  |
+| 3 | Костя | Размер букета совсем не важен. | The size of the bouquet is not important at all. | *(added)* |  |
+| 4 | Костя | Главное — это не размер лодки. | The main thing is not the size of the boat. | #175 "Главное же, это не размер лодки" |  |
+| 5 | Костя | Главное — это волнение океана. | The main thing is the swell of the ocean. | #175 "волнение океана" |  |
+| 6 | Макс | Подожди, откуда такие красивые слова? | Wait, where are such beautiful words from? | *(added)* |  |
+| 7 | Макс | Ты что, чей-то статус в интернете прочитал? | Did you read someone's status on the internet? | #176 "Ты что, чей-то статус в интернете прочитал?" |  |
+| 8 | Костя | Да, это Настин новый статус. | Yes, it is Nastya's new status. | #177 "Настин" |  |
+| 9 | Костя | Она написала это сегодня утром. | She wrote it this morning. | *(added)* |  |
+| 10 | Костя | Интересно, о чём это она? | I wonder what she is hinting at? | #178 "Интересно, о чем" |  |
+| 11 | Макс | Наверное, она пишет про ваши отношения. | Probably she is writing about your relationship. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Vika, hi.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Vika' straight to 'hi'.
-- 'Hi, Max.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'hi'.
-- 'How are things at work?' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'things', combining 'how' with 'things' and 'work'.
-- 'Everything is as usual.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'how' straight to 'usually'.
-- 'What a pleasant evening 0.' The question opens with the interrogative word for 'what a' and builds toward 'zero'.
-- 'What a pleasant evening 1.' Russian omits the present-tense verb 'to be', connecting 'what a' directly with 'one'.
-- 'What a pleasant evening 2.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'two'.
-- 'What a pleasant evening 3.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'three'.
-- 'What a pleasant evening 4.' The question word for 'what a' comes right at the start, followed directly by 'four'.
-- 'What a pleasant evening 5.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'five'.
-- 'What a pleasant evening 6.' The question opens with the interrogative word for 'what a' and builds toward 'six'.
-- 'What a pleasant evening 7.' Russian omits the present-tense verb 'to be', connecting 'what a' directly with 'seven'.
+> Kostya's attempt to comfort Max with a quote from Nastya's online status leaves both friends wondering about their relationships. See you next time!
+
+**Костя:** До встречи!

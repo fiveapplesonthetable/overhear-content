@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 5
 TITLE = "L'agence NOW  (Agency NOW)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "mathias": "marcel"}
-LABELS = {"sofia": "Sofia", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'mathias': 'marcel'}
+LABELS = {'sofia': 'Sofia', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At the ASK agency, star client Sophia Leprince arrives frustrated by a superficial press interview about her new movie. After sending Sophia to wait in his office, ambitious owner Hicham pitches a radical rebranding idea to senior partner Mathias. Let's listen to the scene in French first."
 OPENER = "Let's examine how Hicham pitches his agency rebranding idea to Mathias step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around agency now. When you watch the episode, listen out for the expressions meaning 'I have' and 'talked'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "That's it for this scene around agency now. When you watch the episode, listen out for the expressions meaning 'I have' and 'talked'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('sofia', "J'ai parlé de cinéma pendant une heure entière.", 'I talked about cinema for an entire hour.', [(270, "j'ai parlé du film pendant une heure.")], ''),
     ('sofia', 'La journaliste a seulement parlé de mon esthéticienne!', 'The journalist only talked about my aesthetician!', [(273, "ce qu'elle retient, c'est l'adresse de mon esthéticienne.")], ''),

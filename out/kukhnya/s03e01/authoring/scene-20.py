@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e01-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 20
-TITLE = 'Настоящее свидание  (A Real Date)'
+TITLE = "Настоящее свидание  (A Real Date)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'guest': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "guest": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "guest": "Гость", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = "In the final scene of the episode, Max tracks down Vika's riverboat and leaps off a bridge into the water so the crew has to pull him aboard, turning Nikolai's cruise into his own date with Vika."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that wraps up the Season Three premiere of Kukhnya. Listen for Max's triumphant line after his river jump brings Vika right to his side. See you in Episode Two!"
-CLOSING = ('anya', 'Ты со мной на свидании!')
+OUTRO = "And that wraps up the Season Three premiere of Kukhnya. Listen for Max's triumphant line after his river jump brings Vika right to his side. See you in Episode Two! See you next time!"
+CLOSING = ("anya", "До свидания!")

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e06-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 6
 SCENE = 6
 TITLE = "Неожиданный визит Нагиева  (Nagiyev's Unexpected Visit)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
+LABELS = {"vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.06'
 SOURCE_FILE = 'sources/kukhnya/s03/e06.ru.srt'
 
 INTRO = 'While Max waits for his jeans to dry, Nagiyev calls Vika and announces he is right outside her door to give her a ride to the restaurant. Listen to the full conversation in Russian first, and then we will walk through every line together.'
@@ -21,10 +21,10 @@ STORY = [
     ('anya', 'Доброе утро вам.', 'Good morning to you.', [(95, 'Доброе')], 'adapted'),
     ('vika', 'Тихо, это сейчас Дима звонит.', 'Quiet, that is Dima calling right now.', [(96, 'Это Дима звонит')], 'adapted'),
     ('vika', 'Здравствуйте, уважаемый Дмитрий Владимирович.', 'Hello, dear Dmitry Vladimirovich.', [(97, 'Здравствуйте, Дмитрий Владимирович')], 'adapted'),
-    ('nagiyev', 'Ну что, дорогая Виктория Сергеевна.', 'Well then, dear Victoria Sergeyevna.', [(98, 'Ну, Виктория Сергеевна')], 'adapted'),
-    ('nagiyev', 'Мы же с тобой договаривались, да?', 'You and I had an agreement, right?', [(99, 'Мы же договаривались, да')], 'adapted'),
+    ('vika', 'Ну что, дорогая Виктория Сергеевна.', 'Well then, dear Victoria Sergeyevna.', [(98, 'Ну, Виктория Сергеевна')], 'adapted'),
+    ('vika', 'Мы же с тобой договаривались, да?', 'You and I had an agreement, right?', [(99, 'Мы же договаривались, да')], 'adapted'),
     ('vika', 'Здравствуй, Дима.', 'Hello, Dima.', [(100, 'Здравствуй, Дима')], 'adapted'),
-    ('nagiyev', 'Я решил заехать за коллегой и подвезти на работу.', 'I decided to pick up my colleague and give her a ride to work.', [(101, 'заехать за коллегой, не подвезти на работу')], 'adapted'),
+    ('vika', 'Я решил заехать за коллегой и подвезти на работу.', 'I decided to pick up my colleague and give her a ride to work.', [(101, 'заехать за коллегой, не подвезти на работу')], 'adapted'),
     ('anya', 'Там в дверь кто-то звонит.', 'Someone is ringing the doorbell there.', [(103, 'звонит')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Trapped without his jeans when the doorbell rings, Max has no choice but to hide inside Vika's bathroom."
-CLOSING = ('vika', 'Быстро вставай и одевайся!')
+OUTRO = "Trapped without his jeans when the doorbell rings, Max has no choice but to hide inside Vika's bathroom. See you next time!"
+CLOSING = ("vika", "До свидания!")

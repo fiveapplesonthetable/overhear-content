@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | C'est un tout nouveau départ! | It is a brand new start! | 1362:C'est un nouveau départ |
 
 ## Part 5 — Outro & Closing
-> The celebratory cheers echo through the agency as dawn breaks over Paris. When you watch the episode, listen out for the expressions meaning 'pick up' and 'telephone'. You'll catch them now. See you next time.
+> The celebratory cheers echo through the agency as dawn breaks over Paris. When you watch the episode, listen out for the expressions meaning 'pick up' and 'telephone'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À demain!*

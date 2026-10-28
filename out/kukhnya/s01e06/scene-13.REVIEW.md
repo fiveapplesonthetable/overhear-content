@@ -1,41 +1,40 @@
-# kukhnya-s01e06-scene-13: review sheet
+# Неожиданная находка  (An Unexpected Find) — `kukhnya-s01e06-scene-13`
 
-Title: Неожиданная находка  (An Unexpected Find)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (The Kitchen) S1.6
+**Source:** Кухня (Kukhnya) S1.06 · `sources/kukhnya/s01/e06.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `rodion` | anja | Родион |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the back courtyard of Claude Monet, Max and Kostya are desperately searching the garbage for the restaurant's lost truffles. Suddenly, an eccentric homeless gentleman appears holding the empty container and offers a surprising bargain. Let's listen to their conversation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Где ты нашёл эту коробку? | Where did you find this box? | #182 00:13:13: не это ищете | adapted: asking urgently |
-| 2 | Родион | Вы искали дорогие трюфели на помойке. | You were looking for expensive truffles in the trash. | #182 00:13:13: Вы, случайно, не это ищете? | adapted: speaking calmly |
-| 3 | Макс | Пожалуйста, отдай их нам скорее обратно! | Please, give them back to us quickly! | #183 00:13:15: А ну-ка, дай сюда! | adapted: demanding truffles |
-| 4 | Родион | Сначала представьтесь вежливо, молодой человек. | First introduce yourself politely, young man. | #185 00:13:24: Как грубо! | adapted: admonishing manners |
-| 5 | Макс | Меня зовут Макс, а это Костя. | My name is Max, and this is Kostya. | #186 00:13:26: позволь | adapted: introducing themselves |
-| 6 | Родион | Очень приятно, а я Родион Сергеевич. | Very pleased, and I am Rodion Sergeyevich. | #186 00:13:26: Меня зовут Родион Сергеевич | adapted: introducing himself |
-| 7 | Макс | Что ты хочешь за эти грибы? | What do you want for these mushrooms? | #187 00:13:30: А трюфели в надежном месте | adapted: asking for conditions |
-| 8 | Родион | Мне нужна одна небольшая дружеская услуга. | I need one small friendly favor. | #189 00:13:39: обмен на маленькую услугу | adapted: proposing deal |
-| 9 | Макс | Мы можем заплатить тебе немного денег. | We can pay you a little money. | #197 00:14:11: мы тебе денег заплатим | adapted: offering cash |
-| 10 | Родион | Нет, я хочу роскошный обед здесь. | No, I want a luxurious lunch here. | #199 00:14:19: Я обедаю в этом ресторане | adapted: demanding dining |
-| 11 | Макс | Но охранники не пустят тебя внутрь! | But the guards won't let you inside! | #190 00:13:43: Его не пустят в зал | adapted: pointing out obstacle |
-| 12 | Родион | Тогда найдите мне подходящую чистую одежду. | Then find me suitable clean clothes. | #192 00:13:49: Я гражданин мира | adapted: suggesting makeover |
-| 13 | Макс | Хорошо, пойдём скорее в нашу раздевалку. | Alright, let's go quickly into our locker room. | #193 00:13:52: Это шкафчик | adapted: accepting plan |
+| 0 | Макс | Где ты нашёл эту коробку? | Where did you find this box? | #182 "не это ищете" |  |
+| 1 | Родион | Вы искали дорогие трюфели на помойке. | You were looking for expensive truffles in the trash. | #182 "Вы, случайно, не это ищете?" |  |
+| 2 | Макс | Пожалуйста, отдай их нам скорее обратно! | Please, give them back to us quickly! | #183 "А ну-ка, дай сюда!" |  |
+| 3 | Родион | Сначала представьтесь вежливо, молодой человек. | First introduce yourself politely, young man. | #185 "Как грубо!" |  |
+| 4 | Макс | Меня зовут Макс, а это Костя. | My name is Max, and this is Kostya. | #186 "позволь" |  |
+| 5 | Родион | Очень приятно, а я Родион Сергеевич. | Very pleased, and I am Rodion Sergeyevich. | #186 "Меня зовут Родион Сергеевич" |  |
+| 6 | Макс | Что ты хочешь за эти грибы? | What do you want for these mushrooms? | #187 "А трюфели в надежном месте" |  |
+| 7 | Родион | Мне нужна одна небольшая дружеская услуга. | I need one small friendly favor. | #189 "обмен на маленькую услугу" |  |
+| 8 | Макс | Мы можем заплатить тебе немного денег. | We can pay you a little money. | #178 "денег" |  |
+| 9 | Родион | Нет, я хочу роскошный обед здесь. | No, I want a luxurious lunch here. | #169 "нет" |  |
+| 10 | Макс | Но охранники не пустят тебя внутрь! | But the guards won't let you inside! | #190 "Его не пустят в зал" |  |
+| 11 | Родион | Тогда найдите мне подходящую чистую одежду. | Then find me suitable clean clothes. | #192 "Я гражданин мира" |  |
+| 12 | Макс | Хорошо, пойдём скорее в нашу раздевалку. | Alright, let's go quickly into our locker room. | #193 "Это шкафчик" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Where did you find this box?' Interrogative locative adverb with past transitive verb and demonstrative accusative object.
-- 'You were looking for expensive truffles in the trash.' Formal subject pronoun with past imperfective verb, accusative plural noun phrase, and prepositional location.
-- 'Please, give them back to us quickly!' Polite formula with imperative perfective verb, accusative pronoun, dative pronoun, and directional adverbs.
-- 'First introduce yourself politely, young man.' Temporal adverb with polite imperative reflexive verb, manner adverb, and vocative noun phrase.
-- 'My name is Max, and this is Kostya.' Fixed naming construction with accusative pronoun and present third-person plural verb, followed by demonstrative coordinate clause.
-- 'Very pleased, and I am Rodion Sergeyevich.' Conversational courtesy formula with intensifying adverb, coordinating conjunction, and formal Russian patronymic name.
-- 'What do you want for these mushrooms?' Interrogative pronoun with present second-person verb and prepositional phrase of exchange with accusative plural demonstrative.
-- 'I need one small friendly favor.' Dative experiencer pronoun with short adjective of necessity agreeing with feminine nominative noun phrase.
-- 'We can pay you a little money.' Nominative plural subject with modal present verb governing perfective infinitive, dative pronoun, and partitive genitive.
-- 'No, I want a luxurious lunch here.' Negative particle with first-person present verb governing accusative masculine noun phrase and locative adverb.
-- 'But the guards won't let you inside!' Adversative conjunction with nominative plural noun, negated future third-person plural verb, accusative object, and directional adverb.
-- 'Then find me suitable clean clothes.' Consequential particle with polite imperative verb governing dative pronoun and accusative feminine adjectival noun phrase.
-- 'Alright, let's go quickly into our locker room.' Agreement formula with first-person inclusive imperative of motion, comparative adverb, and accusative directional prepositional phrase.
+> Faced with a ruined dinner service, Max agrees to Rodion's eccentric terms to recover the precious truffles. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'politely' and 'inside' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

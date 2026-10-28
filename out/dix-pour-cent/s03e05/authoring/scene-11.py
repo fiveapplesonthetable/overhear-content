@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 11
-TITLE = "Visite nocturne  (Nighttime Visit)"
-LEVEL = "A1 — débutant"
+TITLE = 'Visite nocturne  (Nighttime Visit)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "valentin": "theo", "camille": "emilie"}
-LABELS = {"valentin": "Valentin", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'valentin': 'theo', 'camille': 'emilie'}
+LABELS = {'valentin': 'Valentin', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "Late in the evening, Camille brings young actor Valentin into the darkened ASK agency. Valentin looks around in awe, curious to discover where she works. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Camille leads Valentin deeper into the agency corridor toward the offices. When you watch the episode, listen out for the expressions meaning 'come in' and 'must'. You'll catch them now. See you next time."
-CLOSING = ("valentin", "Bonne journée!")
+OUTRO = "Camille leads Valentin deeper into the agency corridor toward the offices. When you watch the episode, listen out for the expressions meaning 'come in' and 'must'. You'll catch them now. See you next time!"
+CLOSING = ('valentin', 'Bonne journée!')
 STORY = [
     ('camille', 'Entre discrètement, il ne faut aucun bruit.', 'Come in discreetly, we must not make noise.', [(384, 'Ouais')], ''),
     ('valentin', "C'est vraiment très impressionnant ici.", 'It is truly very impressive here.', [(385, 'Et ton bureau il est où là ?')], ''),

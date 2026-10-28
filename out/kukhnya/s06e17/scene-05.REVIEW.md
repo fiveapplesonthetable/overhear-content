@@ -13,15 +13,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Федя | Не открывайте эту дверь сейчас. | Do not open this door right now. | #65 00:03:47: Не открывайте | adapted: adapted |
 | 2 | Федя | Нас всех за это засудят. | They will prosecute all of us for this. | #65 00:03:47: нас всех засудят | adapted: adapted |
 | 3 | Федя | А мне в тюрьму нельзя. | And I cannot go to prison. | #65 00:03:47: а мне в тюрьму нельзя | adapted: adapted |
-| 4 | Аня | Открывайте, он же там замёрзнет. | Open up, he will freeze in there. | #67 00:03:54: открывайте, он же<br>#68 00:03:56: Самерзнет | adapted: adapted |
-| 5 | Гость | Здравствуйте, сюда заходил мой муж? | Hello, did my husband stop by here? | #69 00:04:00: Здравствуйте. К вам не заходил мой муж | adapted: adapted |
-| 6 | Гость | Он хотел поговорить с шефом. | He wanted to speak with the chef. | #70 00:04:03: Он собирался поговорить с | adapted: adapted |
-| 7 | Аня | Нет, он сюда не заходил. | No, he did not come in here. | #71 00:04:07: Нет, не заходил | adapted: adapted |
+| 4 | Федя | Открывайте, он же там замёрзнет. | Open up, he will freeze in there. | #67 00:03:54: открывайте, он же<br>#68 00:03:56: Самерзнет | adapted: adapted |
+| 5 | Федя | Здравствуйте, сюда заходил мой муж? | Hello, did my husband stop by here? | #69 00:04:00: Здравствуйте. К вам не заходил мой муж | adapted: adapted |
+| 6 | Федя | Он хотел поговорить с шефом. | He wanted to speak with the chef. | #70 00:04:03: Он собирался поговорить с | adapted: adapted |
+| 7 | Федя | Нет, он сюда не заходил. | No, he did not come in here. | #71 00:04:07: Нет, не заходил | adapted: adapted |
 | 8 | Федя | Шеф, а если она запаникует? | Chef, what if she panics? | #72 00:04:15: Шеф, а если она запаникует | adapted: adapted |
 | 9 | Федя | Она же сразу полицию вызовет. | She will call the police right away. | #72 00:04:15: и полицию вызовет | adapted: adapted |
-| 10 | Аня | Надо тихо проследить за ней. | We need to quietly keep an eye on her. | #73 00:04:19: Надо за ней проследить | adapted: adapted |
-| 11 | Аня | Федя, его жена на тебе. | Fedya, his wife is your responsibility. | #74 00:04:20: Федя, жена на тебе | adapted: adapted |
-| 12 | Аня | А с ним попробуем договориться. | And we will try to reach an agreement with him. | #76 00:04:25: мы попробуем договориться | adapted: adapted |
+| 10 | Федя | Надо тихо проследить за ней. | We need to quietly keep an eye on her. | #73 00:04:19: Надо за ней проследить | adapted: adapted |
+| 11 | Федя | Федя, его жена на тебе. | Fedya, his wife is your responsibility. | #74 00:04:20: Федя, жена на тебе | adapted: adapted |
+| 12 | Федя | А с ним попробуем договориться. | And we will try to reach an agreement with him. | #76 00:04:25: мы попробуем договориться | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

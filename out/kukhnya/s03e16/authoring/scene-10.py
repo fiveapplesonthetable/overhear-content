@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 10
-TITLE = 'Побочный эффект тимьяна  (The Side Effect of Thyme)'
+TITLE = "Побочный эффект тимьяна  (The Side Effect of Thyme)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "katya": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = "Max lets Katya and Chef Barinov taste Sauce Lavrov. Both admit it is delicious—until Barinov realizes the base is boiled thyme decoction, which reacts violently with the alcohol in Barinov's stomach! Listen to the Russian scene first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Poor Max is demoted from potato peeling to mopping floors! Meanwhile, Kristina hatches an even bigger scheme to fleece Nagiyev in Scene Eleven.'
-CLOSING = ('anya', 'Здесь совсем нет алкоголя!')
+OUTRO = 'Poor Max is demoted from potato peeling to mopping floors! Meanwhile, Kristina hatches an even bigger scheme to fleece Nagiyev in Scene Eleven. See you next time!'
+CLOSING = ("anya", "Хорошего дня!")

@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | Oui. Mais c'est la vie. | Yes. But that | 336:c'est la vie |
 
 ## Part 5 — Outro & Closing
-> Colette is installed in her office, and Andréa has just thrown away her only safety net at the tax office. We'll find out later why Colette's face looked so familiar. See you next time!
+> Colette is installed in her office, and Andréa has just thrown away her only safety net at the tax office. See you next time!
 - **Closing**: `colette`: *Bonne soirée!*

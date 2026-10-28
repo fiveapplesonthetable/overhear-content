@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Mais comment il a fait? | But how did he do it? | 150:Comment, 150:a fait ? |
 
 ## Part 5 — Outro & Closing
-> So Andréa is going to call her ex at the tax office, while Gabriel is still fuming about Mathias. Listen out for that handy phrase meaning 'it's been a long time'. See you next time.
+> So Andréa is going to call her ex at the tax office, while Gabriel is still fuming about Mathias. Listen out for that handy phrase meaning 'it's been a long time'. See you next time!
 - **Closing**: `lea`: *Au revoir!*

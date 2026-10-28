@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | J'arrive pour défendre tes droits. | I am coming to defend your rights. | 44:T'inquiète, je serai là |
 
 ## Part 5 — Outro & Closing
-> Andrea hangs up the phone, determined to resolve the creative impasse and stand up for Beatrice's artistic rights. When you watch the episode, listen out for the expressions meaning 'how are you doing' and 'large'. You'll catch them now. See you next time.
+> Andrea hangs up the phone, determined to resolve the creative impasse and stand up for Beatrice's artistic rights. When you watch the episode, listen out for the expressions meaning 'how are you doing' and 'large'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

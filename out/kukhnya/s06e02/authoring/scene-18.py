@@ -1,30 +1,30 @@
 ID = 'kukhnya-s06e02-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 2
 SCENE = 18
-TITLE = 'Вместо телевидения приходят чиновники  (Officials Arrive Instead of Television)'
+TITLE = "Вместо телевидения приходят чиновники  (Officials Arrive Instead of Television)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'angelina', 'mikhail': 'anja'}
-LABELS = {'anya': 'Шеф', 'eleonora': 'Элеонора', 'mikhail': 'Михаил'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "eleonora": "angelina"}
+LABELS = {"chef": "Шеф", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.02'
 SOURCE_FILE = 'sources/kukhnya/s06/e02.ru.srt'
 
 INTRO = "At five o'clock, Barinov realizes no television crew is coming—and instead Eleonora walks into the closed restaurant with the district prefect and the deputy mayor to appease them with dinner."
 
 STORY = [
-    ('mikhail', 'Сказали, будет к четырем, а уже почти пять.', 'They said they would be here by four, and it is already almost five.', [(299, 'Сказали, будет к четырем. А уже почти пять')], 'exact'),
-    ('anya', 'И трубку никто не берет.', 'And nobody is picking up the phone.', [(300, 'И трубку никто не берет')], 'exact'),
-    ('mikhail', 'Это Москва, пробки.', 'This is Moscow, traffic jams.', [(301, 'Москва, пробки')], 'adapted'),
+    ('chef', 'Сказали, будет к четырем, а уже почти пять.', 'They said they would be here by four, and it is already almost five.', [(299, 'Сказали, будет к четырем. А уже почти пять')], 'exact'),
+    ('chef', 'И трубку никто не берет.', 'And nobody is picking up the phone.', [(300, 'И трубку никто не берет')], 'exact'),
+    ('chef', 'Это Москва, пробки.', 'This is Moscow, traffic jams.', [(301, 'Москва, пробки')], 'adapted'),
     ('eleonora', 'Я не поняла, почему ресторан закрыт?', 'I do not understand, why is the restaurant closed?', [(304, 'Я не поняла, почему ресторан закрыт?')], 'exact'),
     ('eleonora', 'А вот заместитель мэра у нас проверку устраивает.', 'Here the deputy mayor is conducting an inspection at our place.', [(305, 'А вот заместитель мэра'), (306, 'у нас устраивает')], 'adapted'),
     ('eleonora', 'Хочу его накормить, чтобы был добрее.', 'I want to feed him so that he will be kinder.', [(307, 'Хочу его накормить, чтобы был добрее')], 'exact'),
-    ('mikhail', 'Михаил, управляющий отелем, очень приятно.', 'Mikhail, hotel manager, very pleased to meet you.', [(308, 'Михаил, управляющий отелем. Очень приятно')], 'exact'),
+    ('chef', 'Михаил, управляющий отелем, очень приятно.', 'Mikhail, hotel manager, very pleased to meet you.', [(308, 'Михаил, управляющий отелем. Очень приятно')], 'exact'),
     ('eleonora', 'Такие ребрышки, как здесь, в префектуре не подают.', 'Ribs like the ones here are not served at the prefecture.', [(310, 'такие ребрышки, как здесь, в префектуре не подают')], 'adapted'),
     ('eleonora', 'Это мой ресторан, и я решаю, что здесь едят.', 'This is my restaurant, and I decide what people eat here.', [(314, 'Потому что это мой ресторан, и я решаю, что здесь едят')], 'adapted'),
-    ('anya', 'Решаешь ты, а готовлю я!', 'You decide, but I do the cooking!', [(315, 'Решаешь ты, а готовлю я')], 'exact'),
-    ('anya', 'И если я говорю, что нам нужна авторская кухня, значит, она нужна.', 'And if I say that we need auteur cuisine, then we need it.', [(316, 'И если я говорю, что нам нужна авторская кухня, значит, она нужна')], 'exact'),
+    ('chef', 'Решаешь ты, а готовлю я!', 'You decide, but I do the cooking!', [(315, 'Решаешь ты, а готовлю я')], 'exact'),
+    ('chef', 'И если я говорю, что нам нужна авторская кухня, значит, она нужна.', 'And if I say that we need auteur cuisine, then we need it.', [(316, 'И если я говорю, что нам нужна авторская кухня, значит, она нужна')], 'exact'),
     ('eleonora', 'Спорите, чем нас угощать?', 'Are you arguing over what to treat us with?', [(318, 'Спорите, чем нас угощать?')], 'exact'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'The prefect and the deputy mayor take their seats in the empty dining room, expecting Barinov to cook them pork ribs on command. See you in the next scene.'
-CLOSING = ('anya', 'Готовлю здесь я!')
+OUTRO = 'The prefect and the deputy mayor take their seats in the empty dining room, expecting Barinov to cook them pork ribs on command. See you next time!'
+CLOSING = ("chef", "До свидания!")

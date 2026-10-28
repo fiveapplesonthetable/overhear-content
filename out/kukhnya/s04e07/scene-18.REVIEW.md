@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello, Nikita Sergeyevich, I am at the restaurant right now.' Gavril Ilyich reports back to the famous film director.
-- 'Here Dmitry Nagiyev wants to chat with you.' Reflexive perfective infinitive 'to chat' governs 'with you'.
-- 'Nikita Sergeyevich, I dreamed of calling you my whole life!' Accusative duration 'the whole life' marks his lifelong wish.
-- 'I wanted to say thank you to you for your art!' Preposition 'for' with the accusative marks the reason for gratitude.
+- 'Here Dmitry Nagiyev wants to chat with you.' In everyday Russian, 'wants' flows straight into 'to chat' without extra linking words.
+- 'Nikita Sergeyevich, I dreamed of calling you my whole life!' Nagiyev pairs 'Nikita' with 'to call, to phone' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'I wanted to say thank you to you for your art!' Nagiyev uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
 - 'Simply thank you for existing!' Literally 'for that which you are', a warm Russian compliment.
 - 'Yes, of course, I am handing the phone back to Gavriil Ilyich.' When Mikhalkov asks for his deputy back, Nagiyev obeys at once.
 - 'Yes, Nikita Sergeyevich, there are some small problems here.' Diminutive plural noun softens the report of German's outburst.
 - 'I do not know, maybe we should organize it at the neighboring restaurant?' First-person plural future suggests moving to Arcobaleno.
 - 'Not in the neighboring restaurant, I beg you!' Nagiyev panics at the thought of losing the banquet to his rivals.
-- 'And what if your strange cook jumps out again?' Perfective future verb 'will jump out' recalls German's scene.
+- 'And what if your strange cook jumps out again?' In spoken Russian, the words stay in their normal statement order and the guest's rising voice at the end turns the line into a question.
 - 'He will not jump out anymore, we will fire him!' Nagiyev promises total order during the banquet.
 - 'I beg you, please give us one chance!' Just as Gavril Ilyich is about to agree, a waiter lifts the cloche hiding Denis's pigeon!

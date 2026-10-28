@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 14
-TITLE = "Tout est complet  (Fully Booked)"
-LEVEL = "A1 — débutant"
+TITLE = 'Tout est complet  (Fully Booked)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "catherine": "emilie", "herve": "marcel"}
-LABELS = {"catherine": "Catherine", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'herve': 'marcel'}
+LABELS = {'catherine': 'Catherine', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At the agency office in Paris, Mathias's wife Catherine arrives unexpectedly, hoping to travel down to Cannes to surprise her husband. Desperate to book a ticket when all flights are sold out, Catherine turns to Noémie, unaware that the assistant must sacrifice her own secret ticket. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = "Heartbroken and conflicted, Noémie gives up her own overnight train ticket so that Mathias's wife can surprise him in Cannes. See you next time!"
-CLOSING = ("herve", "À demain!")
+CLOSING = ('herve', 'À demain!')
 STORY = [
     ('catherine', 'Bonjour, Noémie, vous partez?', 'Hello, Noémie, are you leaving?', [(334, 'Bonjour, Noémie'), (335, 'Vous partez')], ''),
     ('catherine', 'Vous rejoignez Mathias à Cannes?', 'Are you joining Mathias in Cannes?', [(337, 'Vous rejoignez Mathias')], ''),

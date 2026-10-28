@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 5
-TITLE = "Un pastis matinal  (A Morning Pastis)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un pastis matinal  (A Morning Pastis)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jean": "theo", "lea": "lucie"}
-LABELS = {"jean": "Jean", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
+LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "At a Parisian cafe around ten in the morning, Andrea meets movie star Jean Reno. To her surprise, she finds him already drinking pastis to clear his head. Let's listen to their conversation in French first."
 OPENER = "Let's look at Andrea and Jean Reno talking at the cafe step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Troubled by Jean Reno's morning drinking, Andrea tries to understand why her star client is feeling so overwhelmed and exhausted with his career. When you watch the episode, listen out for the expressions meaning 'pastis' and 'pleases'. You'll catch them now. See you next time."
-CLOSING = ("jean", "À bientôt!")
+OUTRO = "Troubled by Jean Reno's morning drinking, Andrea tries to understand why her star client is feeling so overwhelmed and exhausted with his career. When you watch the episode, listen out for the expressions meaning 'pastis' and 'pleases'. You'll catch them now. See you next time!"
+CLOSING = ('jean', 'À bientôt!')
 STORY = [
     ('jean', "Un pastis, s'il vous plaît!", 'A pastis, please!', [(199, 'Un pastis')], ''),
     ('lea', 'Mais Jean, il est dix heures.', 'Oh but Jean, it is ten in the morning.', [(200, '10h')], ''),

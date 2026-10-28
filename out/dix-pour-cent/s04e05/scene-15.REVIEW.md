@@ -27,5 +27,5 @@
 | 13 | `arlette` (Arlette) | Je suis agent. | I am an agent. | 732:Je suis agent |
 
 ## Part 5 — Outro & Closing
-> And that's it for this scene. When you watch the episode, listen out for the exchange around the cabaret, and for the words meaning 'are doing' and 'are'. You'll catch them now. See you next time.
+> And that's it for this scene. When you watch the episode, listen out for the exchange around the cabaret, and for the words meaning 'are doing' and 'are'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir.*

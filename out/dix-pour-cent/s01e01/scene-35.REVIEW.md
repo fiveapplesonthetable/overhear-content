@@ -29,5 +29,5 @@
 | 15 | `consul` (Le consul) | Non, je suis désolé. | No, I | 927:Non, je suis désolé |
 
 ## Part 5 — Outro & Closing
-> That's the end of the first episode, and of a very long first day at the agency. Take a breath, be proud of how much French you've heard, and I'll see you in episode two.
+> That's the end of the first episode, and of a very long first day at the agency. Take a breath, be proud of how much French you've heard. See you next time!
 - **Closing**: `lea`: *Au revoir, Samuel.*

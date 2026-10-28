@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e03-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 7
-TITLE = 'Метод дедукции  (The Method of Deduction)'
+TITLE = "Метод дедукции  (The Method of Deduction)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = "In the corridor, Max impresses Vika with a Sherlock Holmes deduction about where to find the prefect's wife—before admitting that hostess Angelina simply goes to yoga with her."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Scene Seven. Listen for Max's brilliant chain of clues followed by the confession that Angelina simply told him where the woman works out."
-CLOSING = ('vika', 'В этот раз я сама!')
+OUTRO = "And that finishes Scene Seven. Listen for Max's brilliant chain of clues followed by the confession that Angelina simply told him where the woman works out. Until next time!"
+CLOSING = ("vika", "До встречи!")

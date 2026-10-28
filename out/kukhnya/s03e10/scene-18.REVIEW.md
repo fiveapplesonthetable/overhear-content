@@ -16,12 +16,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Нагиев | Сейчас берёшь девочку в охапку и бежишь. | Right now you grab the girl and run from here. | #300 00:20:56: в охапку и бежишь отсюда | adapted: adapted |
 | 5 | Нагиев | Если Вика узнает, я тебе усы выщиплю! | If Vika finds out, I will pluck your mustache out! | #301 00:21:01: Если Вика узнает об этом, я тебе усы | adapted: adapted |
 | 6 | Нагиев | Ладно, ты выиграл, нет, у нас ничья. | Alright, you won—no, we have a draw. | #304 00:21:10: ты выиграл<br>#305 00:21:12: Нет, ничья | adapted: adapted |
-| 7 | Катя | Ты что Лёве про меня наговорил? | What kind of stories did you tell Lyova about me? | #306 00:21:20: про меня наговорил | adapted: adapted |
-| 8 | Катя | Ты сам настоящий псих, понял меня? | You are a real psycho yourself, got that? | #307 00:21:23: Ты сам псих понял | adapted: adapted |
+| 7 | Нагиев | Ты что Лёве про меня наговорил? | What kind of stories did you tell Lyova about me? | #306 00:21:20: про меня наговорил | adapted: adapted |
+| 8 | Нагиев | Ты сам настоящий псих, понял меня? | You are a real psycho yourself, got that? | #307 00:21:23: Ты сам псих понял | adapted: adapted |
 | 9 | Аня | Да ты мне ещё спасибо скажешь! | Why, you will thank me for this yet! | #307 00:21:23: Да ты мне еще спасибо скажешь | adapted: adapted |
-| 10 | Катя | Может, мне тебя ещё поцеловать сейчас? | Maybe I should kiss you right now too? | #308 00:21:25: может мне тебя еще раз целовать | adapted: adapted |
-| 11 | Катя | Папа, ну пожалуйста, только не начинай. | Dad, please, just do not start. | #310 00:21:30: Ой, пап, ну не начинай | adapted: adapted |
-| 12 | Катя | А может, мы с ним любим друг друга! | And maybe he and I love each other! | #311 00:21:32: а может мы с ним любим друг друга | adapted: adapted |
+| 10 | Нагиев | Может, мне тебя ещё поцеловать сейчас? | Maybe I should kiss you right now too? | #308 00:21:25: может мне тебя еще раз целовать | adapted: adapted |
+| 11 | Нагиев | Папа, ну пожалуйста, только не начинай. | Dad, please, just do not start. | #310 00:21:30: Ой, пап, ну не начинай | adapted: adapted |
+| 12 | Нагиев | А может, мы с ним любим друг друга! | And maybe he and I love each other! | #311 00:21:32: а может мы с ним любим друг друга | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

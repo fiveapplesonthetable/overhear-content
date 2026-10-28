@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 2
-TITLE = 'Шапочки и перчатки  (Caps and Gloves)'
+TITLE = "Шапочки и перчатки  (Caps and Gloves)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = "Inside the kitchen, Chef Barinov discovers that Lyova and the cooks are already wearing plastic caps and rubber gloves on Vika's orders, while Max arrives late and vaults right over the turnstile."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'While Max wonders if Vika came back to Claude Monet because of him, Chef Barinov storms off to complain to Nagiyev.'
-CLOSING = ('chef', 'Я сейчас же звоню Диме!')
+OUTRO = 'While Max wonders if Vika came back to Claude Monet because of him, Chef Barinov storms off to complain to Nagiyev. See you next time!'
+CLOSING = ("chef", "Увидимся!")

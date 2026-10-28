@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 4
 SCENE = 22
 TITLE = "Les ampoules d'Armelle  (Armelle's Blisters)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "audrey": "emilie"}
-LABELS = {"mathias": "Mathias", "audrey": "Audrey"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'audrey': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'audrey': 'Audrey'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "When the doorbell rings, Audrey lets in a young woman, thinking she is the next nanny on the list, Pauline Adam. Instead, it is Armelle Borzek, the young unknown actress whom Audrey replaced in Augustin's film. Let's listen to the scene in French first. Don't worry about catching every word; let the emotion guide you. Let's listen to the scene in French first."
 OPENER = "Let's walk through the scene line by line. Audrey opens the door expecting a nanny."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Audrey gives the role back to the young actress who worked so hard for it, and notice how they move from the polite 'you' at the start to the warm, casual 'you' on the doorstep. See you next time."
-CLOSING = ("audrey", "À bientôt!")
+OUTRO = "Audrey gives the role back to the young actress who worked so hard for it, and notice how they move from the polite 'you' at the start to the warm, casual 'you' on the doorstep. See you next time!"
+CLOSING = ('audrey', 'À bientôt!')
 STORY = [
     ('audrey', 'Bonjour, entrez. Vous êtes Pauline Adam?', 'Hello, come in. Are you Pauline Adam?', [(572, 'Bonjour, entrez'), (575, 'Pauline Adam')], ''),
     ('mathias', 'Non. Armelle Borzek.', 'No. Armelle Borzek.', [(576, 'Non. Armelle Borzek')], ''),

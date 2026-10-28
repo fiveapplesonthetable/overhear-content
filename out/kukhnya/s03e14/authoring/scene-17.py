@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 17
-TITLE = 'Две компании во дворе  (Two Gangs in the Courtyard)'
+TITLE = "Две компании во дворе  (Two Gangs in the Courtyard)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "katya": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = "Seeing the bikers about to walk into the courtyard where the angry guests are waiting for him, Max tries to hold them back so a huge brawl doesn't erupt, while Katya confronts her father and Stas. Listen to the Russian dialogue first."
@@ -32,7 +32,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 
 WALK = [
     (0, None, "'Alright then, all of you stand right here.' In Russian, the idea of 'so' flows naturally into 'here' without extra filler words."),
-    (1, None, "'And I will go and find out what they want.' The grammar packs 'and' and 'want' into a tight, idiomatic kitchen exchange. Chef Barinov answers right away."),
+    (1, None, "'And I will go and find out what they want.' Here Max anchors the thought on 'will go' and finishes on 'want', keeping the spoken rhythm brisk and natural."),
     (2, None, "'Wait, kid, who are you anyway?' Here the Russian phrasing highlights 'wait' before landing on 'who'."),
     (3, None, "'I am a good friend of Katya, I work here.' In Russian, the idea of 'I' flows naturally into 'here' without extra filler words."),
     (4, None, "'Thanks, friend of Katya, we will sort it out ourselves.' Notice how Russian expresses 'thank you' and 'to sort out' with crisp inflection rather than helper words. Max answers right away."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Both groups are now face to face in the back courtyard, and nobody knows who called whom! Let's see what happens when everyone steps outside in Scene Eighteen."
-CLOSING = ('chef', 'Я вообще ничего не понимаю!')
+OUTRO = "Both groups are now face to face in the back courtyard, and nobody knows who called whom! Let's see what happens when everyone steps outside in Scene Eighteen. Until next time!"
+CLOSING = ("chef", "Хорошего дня!")

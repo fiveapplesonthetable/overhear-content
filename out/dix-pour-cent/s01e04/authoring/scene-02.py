@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 4
 SCENE = 2
 TITLE = "Les photos de Sofia  (Sofia's Photos)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Back at the agency, Gabriel is keeping the promise he made at the end of the last episode: he has taken on receptionist Sofia as a client. Between phone calls at the front desk, Sofia shows him her new professional headshots. We'll hear it in French first; just listen to the tone of their voices."
 OPENER = "Let's go through it line by line. Sofia is answering the agency phone at the reception desk as Gabriel walks in."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'As they step out of the lift into the corridor, tax inspector Colette Brancillon politely reminds them about the documents she asked for, and Gabriel and Andréa worry that tax inspectors always find something wrong. See you next time.'
-CLOSING = ("gabriel", "À demain!")
+OUTRO = 'As they step out of the lift into the corridor, tax inspector Colette Brancillon politely reminds them about the documents she asked for, and Gabriel and Andréa worry that tax inspectors always find something wrong. See you next time!'
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('sofia', 'ASK, bonjour. Oui, je vous la passe.', 'ASK, hello. Yes, I', [(49, 'ASK, bonjour'), (51, 'Oui, je vous la passe')], ''),
     ('sofia', 'Gabriel! Voilà mes nouvelles photos.', 'Gabriel! Here are my new photos.', [(52, 'Gabriel !'), (53, 'les photos')], ''),

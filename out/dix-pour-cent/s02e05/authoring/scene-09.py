@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 9
-TITLE = "La nouvelle junior  (The New Junior)"
-LEVEL = "A1 — débutant"
+TITLE = 'La nouvelle junior  (The New Junior)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie", "camille": "emilie"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'camille': 'emilie'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the ASK conference room, Hicham interrupts the partners meeting to deliver a major announcement. Without consulting the other agents, he reveals his choice for the new junior agent position. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
 OUTRO = "Hicham stuns the agency partners by appointing Camille as the new junior agent. Despite Andréa's surprise, Hicham praises Camille's tenacity, discretion, and quiet courage. See you next time!"
-CLOSING = ("hicham", "Au revoir!")
+CLOSING = ('hicham', 'Au revoir!')
 STORY = [
     ('hicham', "Et maintenant, que diriez-vous d'accueillir officiellement notre nouveau junior?", 'And now, what would you say to officially welcoming our new junior?', [(259, "que diriez-vous d'accueillir officiellement notre nouveau junior ?")], ''),
     ('lea', 'Vous auriez dû nous consulter avant.', 'You should have consulted us beforehand.', [(260, 'Vous auriez dû nous consulter.')], ''),

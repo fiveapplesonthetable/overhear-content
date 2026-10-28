@@ -1,30 +1,30 @@
 ID = 'kukhnya-s05e11-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 11
 SCENE = 15
-TITLE = 'Главные блюда для Артёма  (Main Courses for Artyom)'
+TITLE = "Главные блюда для Артёма  (Main Courses for Artyom)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.11'
 SOURCE_FILE = 'sources/kukhnya/s05/e11.ru.srt'
 
 INTRO = "Having figured out that Artyom is Eleonora's secret favorite, Chef Barinov sets a culinary trap. He announces that Eleonora has a VIP dinner in two hours and assigns Artyom to cook all the main courses himself so her guests will taste his awful cooking."
 
 STORY = [
-    ('anya', 'Пришло время поработать!', 'The time has come to do some work!', [(230, 'Пришло время поработать')], 'adapted'),
-    ('anya', 'У хозяйки через пару часов важная встреча.', 'In a couple of hours the owner has an important meeting.', [(232, 'Через пару часов важная встреча')], 'adapted'),
-    ('anya', 'Сеня, Федя, берёте закуски.', 'Senya, Fedya, you take the appetizers.', [(233, 'Федя'), (233, 'берете закуски')], 'adapted'),
-    ('anya', 'Луи, с тебя десерт.', 'Louis, dessert is on you.', [(234, 'Луи, с тебя десерт')], 'adapted'),
+    ('chef', 'Пришло время поработать!', 'The time has come to do some work!', [(230, 'Пришло время поработать')], 'adapted'),
+    ('chef', 'У хозяйки через пару часов важная встреча.', 'In a couple of hours the owner has an important meeting.', [(232, 'Через пару часов важная встреча')], 'adapted'),
+    ('chef', 'Сеня, Федя, берёте закуски.', 'Senya, Fedya, you take the appetizers.', [(233, 'Федя'), (233, 'берете закуски')], 'adapted'),
+    ('chef', 'Луи, с тебя десерт.', 'Louis, dessert is on you.', [(234, 'Луи, с тебя десерт')], 'adapted'),
     ('senya', 'Хорошо, шеф. А горячее кто?', 'Alright, chef. And who has the hot entrees?', [(235, 'шеф')], 'adapted'),
-    ('anya', 'А все главные блюда готовит Артём!', 'And Artyom is cooking all the main courses!', [(235, 'А все главные блюда готовит Артем')], 'adapted'),
-    ('anya', 'Она обещала зайти на кухню с проверкой.', 'She promised to stop by the kitchen for an inspection.', [(236, 'обещала зайти на кухню')], 'adapted'),
-    ('anya', 'Так что придётся готовить лично.', 'So you will have to cook personally.', [(237, 'так что придется готовить лично')], 'adapted'),
-    ('anya', 'Но ты не волнуйся, я буду всё пробовать и подсказывать.', 'But do not worry, I will taste everything and coach you.', [(238, 'Но ты не волнуйся, я буду все пробовать, подсказывать')], 'adapted'),
-    ('denis', 'Хорошо, шеф.', 'Alright, chef.', [(239, 'Хорошо, шеф')], 'adapted'),
-    ('anya', 'Я верю в тебя!', 'I believe in you!', [(239, 'Я верю в тебя')], 'adapted'),
+    ('chef', 'А все главные блюда готовит Артём!', 'And Artyom is cooking all the main courses!', [(235, 'А все главные блюда готовит Артем')], 'adapted'),
+    ('chef', 'Она обещала зайти на кухню с проверкой.', 'She promised to stop by the kitchen for an inspection.', [(236, 'обещала зайти на кухню')], 'adapted'),
+    ('chef', 'Так что придётся готовить лично.', 'So you will have to cook personally.', [(237, 'так что придется готовить лично')], 'adapted'),
+    ('chef', 'Но ты не волнуйся, я буду всё пробовать и подсказывать.', 'But do not worry, I will taste everything and coach you.', [(238, 'Но ты не волнуйся, я буду все пробовать, подсказывать')], 'adapted'),
+    ('chef', 'Хорошо, шеф.', 'Alright, chef.', [(239, 'Хорошо, шеф')], 'adapted'),
+    ('chef', 'Я верю в тебя!', 'I believe in you!', [(239, 'Я верю в тебя')], 'adapted'),
     ('senya', 'Это будет интересно.', 'This is going to be interesting.', [(235, 'главные блюда')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that finishes the kitchen briefing. Listen for how Chef Barinov assigns the appetizers, the dessert, and all the main courses while pretending to support Artyom. See you in the next scene.'
-CLOSING = ('anya', 'Я верю в тебя!')
+OUTRO = 'And that finishes the kitchen briefing. Listen for how Chef Barinov assigns the appetizers, the dessert, and all the main courses while pretending to support Artyom. Until next time!'
+CLOSING = ("chef", "До встречи!")

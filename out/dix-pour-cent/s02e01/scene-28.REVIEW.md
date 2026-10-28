@@ -30,5 +30,5 @@
 | 16 | `virginie` (Virginie) | On vous laisse, Mathias. À bientôt. | We | 882:On vous laisse, Mathias, 886:À bientôt |
 
 ## Part 5 — Outro & Closing
-> Losing Virginie and Ramzy to StarMédia is a devastating blow for Mathias and a terrible start to the new year for ASK. Until next time.
+> Losing Virginie and Ramzy to StarMédia is a devastating blow for Mathias and a terrible start to the new year for ASK. See you next time!
 - **Closing**: `ramzy`: *Au revoir!*

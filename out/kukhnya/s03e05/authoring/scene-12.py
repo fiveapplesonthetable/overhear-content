@@ -1,32 +1,32 @@
 ID = 'kukhnya-s03e05-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 5
 SCENE = 12
 TITLE = "Молекулярный банкет на завтра  (Tomorrow's Molecular Banquet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.05'
 SOURCE_FILE = 'sources/kukhnya/s03/e05.ru.srt'
 
 INTRO = 'Vika breaks the news to Chef Barinov: guests loved the terrace opening so much that they ordered a molecular banquet for tomorrow, and Katya is leaving. Listen to the full conversation in Russian first, and then we will walk through every line together.'
 
 STORY = [
-    ('anya', 'В твоём возрасте ещё смотрят сериалы?', 'At your age do people still watch TV series?', [(169, 'в твоем возрасте еще смотрят')], 'adapted'),
+    ('chef', 'В твоём возрасте ещё смотрят сериалы?', 'At your age do people still watch TV series?', [(169, 'в твоем возрасте еще смотрят')], 'adapted'),
     ('vika', 'Витя, между прочим, у нас проблемы.', 'Vitya, by the way, we have problems.', [(170, 'Витя, между прочим, у нас проблемы')], 'adapted'),
     ('vika', 'На завтра заказали молекулярный банкет.', 'They ordered a molecular banquet for tomorrow.', [(172, 'на завтра заказали молекулярный банкет')], 'adapted'),
-    ('anya', 'А я тут при чём, иди к Кате.', 'What do I have to do with it, go to Katya.', [(173, 'А я тут при чем? Иди вон к Кате')], 'adapted'),
+    ('chef', 'А я тут при чём, иди к Кате.', 'What do I have to do with it, go to Katya.', [(173, 'А я тут при чем? Иди вон к Кате')], 'adapted'),
     ('vika', 'Она уже будет работать в другом месте.', 'She will already be working at another place.', [(174, 'она уже будет работать в другом')], 'adapted'),
-    ('anya', 'Почему это она такая быстрая?', 'Why is she so quick?', [(176, 'она такая быстрая')], 'adapted'),
+    ('chef', 'Почему это она такая быстрая?', 'Why is she so quick?', [(176, 'она такая быстрая')], 'adapted'),
     ('vika', 'Витя, попробуй её уговорить.', 'Vitya, try to persuade her.', [(177, 'Витя, попробуй ее уговорить')], 'adapted'),
     ('vika', 'Пусть она останется и приготовит банкет.', 'Let her stay and prepare the banquet.', [(178, 'Пусть она останется хотя бы на день и приготовит банкет')], 'adapted'),
-    ('anya', 'Да не буду я её уговаривать.', 'I am not going to persuade her.', [(179, 'Да не буду я ее уговаривать')], 'adapted'),
-    ('anya', 'Она взрослый человек, это её решение.', 'She is a grown person, it is her decision.', [(180, 'Она взрослый человек, это ее решение')], 'adapted'),
+    ('chef', 'Да не буду я её уговаривать.', 'I am not going to persuade her.', [(179, 'Да не буду я ее уговаривать')], 'adapted'),
+    ('chef', 'Она взрослый человек, это её решение.', 'She is a grown person, it is her decision.', [(180, 'Она взрослый человек, это ее решение')], 'adapted'),
     ('vika', 'Витя, а как же наш банкет?', 'Vitya, and what about our banquet?', [(181, 'Витя, а как же банкет')], 'adapted'),
-    ('anya', 'Я сам всё отлично сделаю.', 'I will do everything great myself.', [(181, 'Я сам все сделаю')], 'adapted'),
-    ('anya', 'Сказал, справлюсь, иди и не мешай.', 'I said I will manage, go and do not bother me.', [(184, 'Сказал, справлюсь. Все, иди, не мешай')], 'adapted'),
+    ('chef', 'Я сам всё отлично сделаю.', 'I will do everything great myself.', [(181, 'Я сам все сделаю')], 'adapted'),
+    ('chef', 'Сказал, справлюсь, иди и не мешай.', 'I said I will manage, go and do not bother me.', [(184, 'Сказал, справлюсь. Все, иди, не мешай')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Refusing to admit he knows nothing about molecular gastronomy, Chef Barinov vows to cook the entire banquet himself.'
-CLOSING = ('vika', 'Это же молекулярный банкет!')
+OUTRO = 'Refusing to admit he knows nothing about molecular gastronomy, Chef Barinov vows to cook the entire banquet himself. See you next time!'
+CLOSING = ("vika", "Пока!")

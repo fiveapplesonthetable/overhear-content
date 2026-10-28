@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Attends, parlons calmement de tout cela. | Wait, let | 31:ton avenir chez ASK |
 
 ## Part 5 — Outro & Closing
-> Confronted with Franck Dubosc's deep creative despair and threat to abandon ASK, Gabriel realizes he faces a major crisis. When you watch the episode, listen out for the expressions meaning 'must' and 'look after'. You'll catch them now. See you next time.
+> Confronted with Franck Dubosc's deep creative despair and threat to abandon ASK, Gabriel realizes he faces a major crisis. When you watch the episode, listen out for the expressions meaning 'must' and 'look after'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

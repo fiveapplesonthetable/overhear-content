@@ -11,15 +11,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Елена | Любимый мужчина готовит мне вкусный ужин. | My beloved man is cooking me a delicious dinner. | #1 00:00:12: любимый мужчина готовит тебе ужин | adapted: adapted |
-| 2 | Аня | Тем более я гениальный шеф-повар. | Especially since I am a brilliant head chef. | #2 00:00:16: он гениальный повар | adapted: adapted |
+| 2 | Шеф | Тем более я гениальный шеф-повар. | Especially since I am a brilliant head chef. | #2 00:00:16: он гениальный повар | adapted: adapted |
 | 3 | Елена | Смотри, твой су-шеф сейчас звонит. | Look, your sous-chef is calling right now. | #6 00:00:28: твой су-шеф звонит | adapted: adapted |
-| 4 | Аня | Поставь телефон на громкую связь. | Put the phone on speakerphone. | #8 00:00:31: поставь на громкую | adapted: adapted |
-| 5 | Аня | Да, Лёва, что там случилось? | Yes, Lyova, what happened over there? | #9 00:00:34: Да, Лёва, что случилось | adapted: adapted |
-| 6 | Лёва | Завтра можете вообще на работу не приходить. | Tomorrow you do not have to come to work at all. | #10 00:00:36: а завтра можете вообще не приходить | adapted: adapted |
-| 7 | Лёва | Вы лучше спокойно дома отдохните. | You had better rest quietly at home. | #11 00:00:41: Вы лучше отдохните | adapted: adapted |
-| 8 | Аня | Лёва, какую ерунду ты сейчас говоришь? | Lyova, what nonsense are you talking right now? | #12 00:00:44: что за ерунду ты говоришь | adapted: adapted |
-| 9 | Лёва | Я знаю, что вам нельзя работать. | I know that you must not work. | #13 00:00:47: Я прекрасно знаю, что вам вообще нельзя работать | adapted: adapted |
-| 10 | Аня | Это я соврал, чтобы уйти пораньше. | I made that up so I could leave early. | #18 00:01:01: Это я Лёве соврал, чтобы уйти пораньше с работы | adapted: adapted |
+| 4 | Шеф | Поставь телефон на громкую связь. | Put the phone on speakerphone. | #8 00:00:31: поставь на громкую | adapted: adapted |
+| 5 | Шеф | Да, Лёва, что там случилось? | Yes, Lyova, what happened over there? | #9 00:00:34: Да, Лёва, что случилось | adapted: adapted |
+| 6 | Елена | Завтра можете вообще на работу не приходить. | Tomorrow you do not have to come to work at all. | #10 00:00:36: а завтра можете вообще не приходить | adapted: adapted |
+| 7 | Елена | Вы лучше спокойно дома отдохните. | You had better rest quietly at home. | #11 00:00:41: Вы лучше отдохните | adapted: adapted |
+| 8 | Шеф | Лёва, какую ерунду ты сейчас говоришь? | Lyova, what nonsense are you talking right now? | #12 00:00:44: что за ерунду ты говоришь | adapted: adapted |
+| 9 | Елена | Я знаю, что вам нельзя работать. | I know that you must not work. | #13 00:00:47: Я прекрасно знаю, что вам вообще нельзя работать | adapted: adapted |
+| 10 | Шеф | Это я соврал, чтобы уйти пораньше. | I made that up so I could leave early. | #18 00:01:01: Это я Лёве соврал, чтобы уйти пораньше с работы | adapted: adapted |
 | 11 | Елена | Ты обязательно пройдёшь полное обследование. | You will definitely undergo a full medical checkup. | #22 00:01:14: пока ты не пройдешь полное обследование | adapted: adapted |
 | 12 | Елена | У меня подруга работает в поликлинике. | My friend works as chief doctor at the clinic. | #23 00:01:19: главврач в поликлинике | adapted: adapted |
 
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I know that you must not work.' Notice how Russian expresses 'I' and 'to work' with crisp inflection rather than helper words. Chef Barinov answers right away.
 - 'I made that up so I could leave early.' Here the Russian phrasing highlights 'this' before landing on 'a bit earlier'.
 - 'You will definitely undergo a full medical checkup.' The meaning hinges on 'you' working together with 'medical checkup' in spoken Russian.
-- 'My friend works as chief doctor at the clinic.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'clinic'.
+- 'My friend works as chief doctor at the clinic.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.

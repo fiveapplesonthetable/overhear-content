@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 14
-TITLE = "Le déménagement de bureau  (The Office Move)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le déménagement de bureau  (The Office Move)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "Arriving at the agency, Andrea finds Gabriel happily installing his personal belongings in the spacious office. Surprised by his boldness, she reacts with quick wit and playfully reorganizes the agency hierarchy. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Andrea skillfully reasserts her executive authority over Gabriel with trademark sharp humor. When you watch the episode, listen out for the expressions meaning 'excuse' and 'set down'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = "Andrea skillfully reasserts her executive authority over Gabriel with trademark sharp humor. When you watch the episode, listen out for the expressions meaning 'excuse' and 'set down'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('gabriel', 'Excusez-moi, je dépose ce carton ici.', 'Excuse me, I set this box down here.', [(720, 'Excusez-moi')], ''),
     ('lea', "Gabriel! Mais qu'est-ce que tu fais?", 'Gabriel! What are you doing?', [(722, "qu'est-ce que tu fais")], ''),

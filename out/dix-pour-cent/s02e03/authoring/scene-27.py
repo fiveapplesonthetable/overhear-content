@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 27
-TITLE = "Travail tardif au bureau  (Working Late)"
-LEVEL = "A1 — débutant"
+TITLE = 'Travail tardif au bureau  (Working Late)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In Mathias's office late at night, Noémie is hard at work solving a complicated shooting schedule. Mathias joins her, and as they examine the script sequences together, personal feelings resurface. Let's listen to the scene in French first."
 OPENER = "Let's examine how Mathias and Noémie are sharing an intimate moment working late."
 TRANSITION = "Now let's listen to the whole discussion again without stopping."
 OUTRO = 'Working side by side in the quiet office, Mathias and Noémie find a solution to the schedule crisis. Their professional collaboration rekindles their deep personal connection. See you next time!'
-CLOSING = ("mathias", "Bonne nuit, Noémie.")
+CLOSING = ('mathias', 'Bonne nuit, Noémie.')
 STORY = [
     ('mathias', "Il faut s'arrêter, Noémie, il est tard.", 'We must stop, Noémie, it is late.', [(686, "Il faut s'arrêter, Noémie, il est tard.")], ''),
     ('noemie', "J'ai pris du retard dans mon travail.", 'I got behind in my work.', [(687, "j'ai pris du retard dans mon travail hier.")], ''),

@@ -28,5 +28,5 @@
 | 14 | `gabriel` (Gabriel) | Attention, tu arrives sur la route! | Careful, you | 864:tu arrives sur la route |
 
 ## Part 5 — Outro & Closing
-> That's the riding school. If you can now hear the difference between saying something and saying you didn't, you've got the main idea of this scene. Until next time.
+> That's the riding school. If you can now hear the difference between saying something and saying you didn't, you've got the main idea of this scene. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

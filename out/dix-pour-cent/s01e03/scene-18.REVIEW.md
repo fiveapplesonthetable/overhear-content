@@ -30,5 +30,5 @@
 | 16 | `laura` (Laura) | Dis que je suis malade, que je ne peux pas venir. | Say that I | 482:Dis que je suis malade, que je ne peux pas venir |
 
 ## Part 5 — Outro & Closing
-> Laura's diva act works like a charm: soon after, Gabriel leaves a delighted voicemail on her phone to say that Solveig Akerfelt found her 'too beautiful for the part', a polite excuse because they don't want a prima donna. Next we visit Camille at home as she gets ready for the César awards. Until next time.
+> Laura's diva act works like a charm: soon after, Gabriel leaves a delighted voicemail on her phone to say that Solveig Akerfelt found her 'too beautiful for the part', a polite excuse because they don't want a prima donna. See you next time!
 - **Closing**: `laura`: *À demain!*

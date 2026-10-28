@@ -13,15 +13,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Айнура | Шеф, ты же по-французски хорошо говоришь. | Chef, you speak French well after all. | #105 00:07:52: ты же по-нерусски хорошо говоришь | adapted: adapted |
 | 2 | Айнура | Вот, чуть вместе с пиджаком не почистили. | Here, we almost sent this to the cleaners with the jacket. | #106 00:07:55: Вот, чуть с пиджаком не почистили | adapted: adapted |
 | 3 | Айнура | Прочитай, может, это шпион какой-то? | Read it, maybe he is some kind of spy? | #108 00:08:02: Почитай, может, шпион какой-то | adapted: adapted |
-| 4 | Аня | Оливье Дюбуа — это инспектор Мишлен! | Olivier Dubois is a Michelin inspector! | #109 00:08:04: инспектор Мишлен | adapted: adapted |
+| 4 | Шеф | Оливье Дюбуа — это инспектор Мишлен! | Olivier Dubois is a Michelin inspector! | #109 00:08:04: инспектор Мишлен | adapted: adapted |
 | 5 | Айнура | Значит, он правда иностранный шпион? | So he really is a foreign spy? | #110 00:08:10: Шпион | adapted: adapted |
-| 6 | Аня | Нет, Айнура, это намного хуже! | No, Ainura, this is much worse! | #111 00:08:13: Хуже | adapted: adapted |
+| 6 | Шеф | Нет, Айнура, это намного хуже! | No, Ainura, this is much worse! | #111 00:08:13: Хуже | adapted: adapted |
 | 7 | Айнура | Какой же будем ставить диагноз? | What diagnosis are we going to give? | #113 00:08:19: Какой будем ставить диагноз | adapted: adapted |
-| 8 | Аня | Я за это вам деньги и плачу. | That is what I am paying you money for. | #114 00:08:22: Я за это и плачу | adapted: adapted |
-| 9 | Катя | Мама, здравствуй, что с тобой случилось? | Mom, hello, what happened to you? | #115 00:08:25: Мама<br>#117 00:08:31: Что случилось | adapted: adapted |
+| 8 | Шеф | Я за это вам деньги и плачу. | That is what I am paying you money for. | #114 00:08:22: Я за это и плачу | adapted: adapted |
+| 9 | Айнура | Мама, здравствуй, что с тобой случилось? | Mom, hello, what happened to you? | #115 00:08:25: Мама<br>#117 00:08:31: Что случилось | adapted: adapted |
 | 10 | Айнура | Доктор, что сейчас с моей мамой? | Doctor, what is wrong with my mother right now? | #118 00:08:34: Доктор | adapted: adapted |
-| 11 | Аня | У неё сегодня сильный скачок давления. | She had a severe blood pressure spike today. | #118 00:08:34: Гипертонический криз | adapted: adapted |
-| 12 | Катя | И что теперь, нужна больница? | And what now, does she need a hospital? | #119 00:08:38: И что? Больница | adapted: adapted |
+| 11 | Шеф | У неё сегодня сильный скачок давления. | She had a severe blood pressure spike today. | #118 00:08:34: Гипертонический криз | adapted: adapted |
+| 12 | Айнура | И что теперь, нужна больница? | And what now, does she need a hospital? | #119 00:08:38: И что? Больница | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

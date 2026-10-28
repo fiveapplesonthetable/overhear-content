@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ой, простите, вы не один. | Oh, excuse me, you are not alone. | #336 00:20:20: Ой, простите, вы не один | verbatim |
-| 2 | Елена | А мы, вы знаете, вот смотрим телевизор. | You see, we were just watching television. | #337 00:20:23: А мы, вы знаете, вот смотрим телевизор | verbatim |
-| 3 | Аня | Я сына просила заменить. | I asked my son to change the lightbulb. | #338 00:20:27: я сына просила заменить | verbatim |
-| 4 | Елена | А мы ехали на вокзал. | We were on our way to the train station. | #339 00:20:30: А мы ехали на вокзал | verbatim |
-| 5 | Аня | Простите, я что-то не очень понимаю. | Excuse me, I do not quite understand. | #341 00:20:41: Простите, я что-то не очень понимаю | verbatim |
-| 6 | Елена | Это чья мама? | Whose mother are you? | #342 00:20:43: Это чья мама | verbatim |
-| 7 | Аня | Это ваша мама? | Is she your mother? | #343 00:20:45: Это ваша мама | verbatim |
-| 8 | Елена | Я мама Лёвы, Вера Ивановна. | I am Lyova's mother, Vera Ivanovna. | #344 00:20:48: Я мама Лёвы, Вера Ивановна | verbatim |
-| 9 | Аня | Очень приятно познакомиться. | Very pleased to meet you. | #345 00:20:51: Очень приятно познакомиться | verbatim |
-| 10 | Елена | Я все объясню. | I can explain everything. | #347 00:20:56: Я все объясню | verbatim |
-| 11 | Аня | Нет, благодарю. | No, thank you. | #348 00:20:58: Нет, благодарю | verbatim |
-| 12 | Елена | В другой раз. | Maybe some other time. | #349 00:21:00: В другой раз | verbatim |
-| 13 | Аня | Благодарю вас. | Thank you very much. | #350 00:21:03: Благодарю вас | verbatim |
+| 1 | Лёва | Ой, простите, вы не один. | Oh, excuse me, you are not alone. | #336 00:20:20: Ой, простите, вы не один | verbatim |
+| 2 | Лёва | А мы, вы знаете, вот смотрим телевизор. | You see, we were just watching television. | #337 00:20:23: А мы, вы знаете, вот смотрим телевизор | verbatim |
+| 3 | Лёва | Я сына просила заменить. | I asked my son to change the lightbulb. | #338 00:20:27: я сына просила заменить | verbatim |
+| 4 | Лёва | А мы ехали на вокзал. | We were on our way to the train station. | #339 00:20:30: А мы ехали на вокзал | verbatim |
+| 5 | Лёва | Простите, я что-то не очень понимаю. | Excuse me, I do not quite understand. | #341 00:20:41: Простите, я что-то не очень понимаю | verbatim |
+| 6 | Лёва | Это чья мама? | Whose mother are you? | #342 00:20:43: Это чья мама | verbatim |
+| 7 | Лёва | Это ваша мама? | Is she your mother? | #343 00:20:45: Это ваша мама | verbatim |
+| 8 | Лёва | Я мама Лёвы, Вера Ивановна. | I am Lyova's mother, Vera Ivanovna. | #344 00:20:48: Я мама Лёвы, Вера Ивановна | verbatim |
+| 9 | Лёва | Очень приятно познакомиться. | Very pleased to meet you. | #345 00:20:51: Очень приятно познакомиться | verbatim |
+| 10 | Лёва | Я все объясню. | I can explain everything. | #347 00:20:56: Я все объясню | verbatim |
+| 11 | Лёва | Нет, благодарю. | No, thank you. | #348 00:20:58: Нет, благодарю | verbatim |
+| 12 | Лёва | В другой раз. | Maybe some other time. | #349 00:21:00: В другой раз | verbatim |
+| 13 | Лёва | Благодарю вас. | Thank you very much. | #350 00:21:03: Благодарю вас | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

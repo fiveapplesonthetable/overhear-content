@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e03-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 17
-TITLE = 'Доказательство на телефон  (Proof on the Phone)'
+TITLE = "Доказательство на телефон  (Proof on the Phone)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja', 'rodion': 'angelina'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость', 'rodion': 'Родион'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa"}
+LABELS = {"guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = "Seconds later, the real prefect's wife pulls out of the parking lot and nearly hits Max and Vika—and Rodion Sergeyevich steps forward holding up a phone, claiming he filmed the entire accident."
@@ -22,10 +22,10 @@ STORY = [
     ('guest', 'Хочешь шантажировать? Ты у меня из Москвы вылетишь!', 'Do you want to blackmail me? You will fly right out of Moscow!', [(289, 'Хочешь шантажировать'), (291, 'ты у меня из Москвы вылетишь')], 'adapted'),
     ('anya', 'Вика! Вика!', 'Vika! Vika!', [(292, 'Вика')], ''),
     ('guest', 'Вы? Да вам никто не поверит. У вас доказательств нет.', 'You? Nobody will believe you. You have no proof.', [(294, 'Вы? Да вам никто не поверит'), (295, 'У вас доказательств нет')], 'adapted'),
-    ('rodion', 'Боюсь, вы не правы.', 'I am afraid you are not right.', [(296, 'Боюсь, вы не правы')], ''),
-    ('rodion', 'Вот этот телефонный аппарат снял аварию.', 'This telephone device filmed the accident.', [(297, 'Вот этот'), (297, 'телефонный аппарат снял')], 'adapted'),
+    ('guest', 'Боюсь, вы не правы.', 'I am afraid you are not right.', [(296, 'Боюсь, вы не правы')], ''),
+    ('guest', 'Вот этот телефонный аппарат снял аварию.', 'This telephone device filmed the accident.', [(297, 'Вот этот'), (297, 'телефонный аппарат снял')], 'adapted'),
     ('anya', 'А вот и доказательство!', 'And here is the proof!', [(298, 'А вот и доказательство')], ''),
-    ('anya', 'Что скажет ваш муж, когда увидит в сети запись, где жена сбивает беременную женщину?', 'What will your husband say when he sees a recording online where his wife hits a pregnant woman?', [(299, 'что скажет ваш муж, когда увидит в сети запись'), (300, 'где жена'), (300, 'сбивает беременную'), (300, 'женщину')], 'adapted'),
+    ('anya', 'Что скажет ваш муж, когда увидит в сети запись?', 'What will your husband say when he sees the recording online?', [(299, 'что скажет ваш муж, когда увидит в сети запись')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'I am afraid you are not right.' Here the Russian phrasing highlights 'am afraid' before landing on 'right'."),
     (9, None, "'This telephone device filmed the accident.' In Russian, the idea of 'here' flows naturally into 'accident' without extra filler words."),
     (10, None, "'And here is the proof!' The meaning hinges on 'and' working together with 'proof' in spoken Russian."),
-    (11, None, "'What will your husband say when he sees a recording online where his wife hits a pregnant woman?' Notice how Russian expresses 'what' and 'woman' with crisp inflection rather than helper words."),
+    (11, None, "'What will your husband say when he sees the recording online?' Max pairs 'will tell, will say' with 'the recording' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Scene Seventeen. Listen for how Rodion's theatrical entrance turns the tables on the prefect's wife."
-CLOSING = ('anya', 'А вот и доказательство!')
+OUTRO = "And that finishes Scene Seventeen. Listen for how Rodion's theatrical entrance turns the tables on the prefect's wife. Until next time!"
+CLOSING = ("anya", "Хорошего дня!")

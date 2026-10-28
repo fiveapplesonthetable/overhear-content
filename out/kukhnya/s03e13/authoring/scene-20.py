@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 20
-TITLE = 'Смешать пазлы и начать заново  (Mix the Puzzles and Start Anew)'
+TITLE = "Смешать пазлы и начать заново  (Mix the Puzzles and Start Anew)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = 'In our final scene of Episode Thirteen, Max learns that Vika has left both Nagiyev and the restaurant, and immediately offers to move out of her apartment so she can come home. Listen to the Russian conversation first.'
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings Episode Thirteen of Season Three to a close. Vika is free of Nagiyev, and Max gives up her apartment so she has a home again. See you in Episode Fourteen!'
-CLOSING = ('vika', 'Спасибо тебе, Макс.')
+OUTRO = 'And that brings Episode Thirteen of Season Three to a close. Vika is free of Nagiyev, and Max gives up her apartment so she has a home again. See you in Episode Fourteen! See you next time!'
+CLOSING = ("vika", "До свидания!")

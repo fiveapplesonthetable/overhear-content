@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Mon vrai cadeau, c'est que tu prennes soin de toi. | FIXME translation | 196:Mon vrai cadeau, c'est... que tu prennes soin de toi. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around a new agency. When you watch the episode, listen out for the expressions meaning 'mother' and 'to say'. You'll catch them now. See you next time.
+> That's it for this scene around a new agency. When you watch the episode, listen out for the expressions meaning 'mother' and 'to say'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *Bonne journée!*

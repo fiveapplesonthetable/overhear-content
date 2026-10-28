@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 32
-TITLE = "Le héros du jour  (The Hero of the Day)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le héros du jour  (The Hero of the Day)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "arlette": "emilie", "mathias": "marcel"}
-LABELS = {"lea": "Andréa", "arlette": "Arlette", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'arlette': 'emilie', 'mathias': 'marcel'}
+LABELS = {'lea': 'Andréa', 'arlette': 'Arlette', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = 'In the final scene of the fourth episode, the whole agency gathers with glasses of sparkling wine to celebrate Mathias Barneville. Everyone believes he pretended to join their rival StarMédia just to scare off the German buyer and save ASK—and now that he is a hero here, Mathias can hardly leave! Only Andréa still has a quiet doubt. Listen to the French first, without worrying about catching every word.'
 OPENER = "Let's go through it line by line. The corks pop and everyone raises a glass to Mathias."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'That wraps up the fourth episode of Call My Agent: Audrey Fleurot has a new comedy film to pay off her taxes, Sofia has her very first screen role, Colette knows the truth about the Hotel Saint-Georges, and Mathias is staying at ASK as an accidental hero. See you soon for episode five!'
-CLOSING = ("arlette", "À demain!")
+OUTRO = 'That wraps up the fourth episode of Call My Agent: Audrey Fleurot has a new comedy film to pay off her taxes, Sofia has her very first screen role, Colette knows the truth about the Hotel Saint-Georges, and Mathias is staying at ASK as an accidental hero. See you next time!'
+CLOSING = ('arlette', 'À demain!')
 STORY = [
     ('arlette', 'Champagne! Tu as sauvé notre agence, bravo Mathias!', 'Champagne! You saved our agency, well done Mathias!', [(838, 'Champagne'), (839, 'Faire croire à tout le monde que tu allais chez nos rivaux'), (840, "pour sauver l'agence")], ''),
     ('lea', 'Vivre dangereusement! Respect, monsieur Barneville!', 'Living dangerously! Respect, Mr Barneville!', [(840, 'Vivre dangereusement'), (841, 'Respect'), (841, 'Barneville')], ''),

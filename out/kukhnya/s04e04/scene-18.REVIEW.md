@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could you not think of anything better than this?' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'Could you not think of anything better than this?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'I thought this was your clever plan.' Max addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'Break the door down.' Vika uses natural conversational word order here to highlight the most important part of the reply.
-- 'I am not going to stay in here all night.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'If you need it broken, you break it.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Wonderful. Whom did I marry?' Vika uses natural conversational word order here to highlight the most important part of the reply.
-- 'He cannot even break down a door.' Vika uses natural conversational word order here to highlight the most important part of the reply.
-- 'Alright, calm down now.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
+- 'Break the door down.' Vika pairs 'break' with 'door' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'I am not going to stay in here all night.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'If you need it broken, you break it.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
+- 'Wonderful. Whom did I marry?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question.
+- 'He cannot even break down a door.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'Alright, calm down now.' Spoken Russian keeps this brief and expressive, built right around 'calm down' without extra helper words.
 - 'Do you understand now that it is better not to make me angry?' Max uses the first-person pronoun in the case required by the Russian verb or preposition.
-- 'I understand. Now I will make you angry more often.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Put the door back in place. Are you a man or not?' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately.
-- 'Lev Semyonovich Solovyov.' German uses natural conversational word order here to highlight the most important part of the reply.
+- 'I understand. Now I will make you angry more often.' In everyday Russian, 'understood' flows straight into 'often' without extra linking words.
+- 'Put the door back in place. Are you a man or not?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question.
+- 'Lev Semyonovich Solovyov.' Spoken Russian keeps this brief and expressive, built right around 'semyonovich' without extra helper words.

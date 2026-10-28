@@ -26,5 +26,5 @@
 | 12 | `colette` (Colette) | Merci, pensons enfin à notre bébé. | Thank you, let | 287:Non. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around call at the maternity ward. When you watch the episode, listen out for the expressions meaning 'are not' and 'obliged'. You'll catch them now. See you next time.
+> That's it for this scene around call at the maternity ward. When you watch the episode, listen out for the expressions meaning 'are not' and 'obliged'. You'll catch them now. See you next time!
 - **Closing**: `colette`: *Bonne soirée!*

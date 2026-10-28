@@ -27,5 +27,5 @@
 | 13 | `gerard` (Gérard) | Nous allons faire ce film ensemble. | We are going to make this film together. | 1241:rappeler Emma |
 
 ## Part 5 — Outro & Closing
-> Sharing laughter and mutual respect on the Parisian street, Gerard Lanvin turns Samy's dream into reality by advocating for his talent. When you watch the episode, listen out for the expressions meaning 'knew' and 'back'. You'll catch them now. See you next time.
+> Sharing laughter and mutual respect on the Parisian street, Gerard Lanvin turns Samy's dream into reality by advocating for his talent. When you watch the episode, listen out for the expressions meaning 'knew' and 'back'. You'll catch them now. See you next time!
 - **Closing**: `gerard`: *À demain!*

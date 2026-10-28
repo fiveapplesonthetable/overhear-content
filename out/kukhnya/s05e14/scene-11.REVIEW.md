@@ -14,14 +14,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Вика | Приходите сегодня вечером к нам на собеседование. | Come to us this evening for an interview. | #200 00:11:52: Приходите сегодня вечером на собеседование | adapted: adapted |
 | 3 | Вика | Да, всего вам доброго, до свидания. | Yes, all the best to you, goodbye. | #201 00:11:55: Да, всего доброго, до свидания | adapted: adapted |
 | 4 | Вика | В моём районе есть один неплохой роддом. | In my neighborhood there is a pretty good maternity hospital. | #206 00:12:12: в моем районе есть неплохой роддом | adapted: adapted |
-| 5 | Аня | Но в современном центре персонал гораздо получше. | But at a modern center the staff is much better. | #209 00:12:21: Но там оборудование, там персонал получше | adapted: adapted |
+| 5 | Костя | Но в современном центре персонал гораздо получше. | But at a modern center the staff is much better. | #209 00:12:21: Но там оборудование, там персонал получше | adapted: adapted |
 | 6 | Вика | Десять тысяч долларов — это, конечно, дороговато. | Ten thousand dollars is, of course, rather expensive. | #212 00:12:29: тысяч долларов, конечно, дороговато | adapted: adapted |
-| 7 | Аня | Рожайте спокойно в самой обычной городской больнице. | Give birth calmly in a regular city hospital. | #214 00:12:33: Рожайте в обычной больнице | adapted: adapted |
-| 8 | Аня | Меня вот родили в обычной больнице. | I was born in a regular hospital myself. | #215 00:12:35: Меня родили в обычной больнице | adapted: adapted |
+| 7 | Костя | Рожайте спокойно в самой обычной городской больнице. | Give birth calmly in a regular city hospital. | #214 00:12:33: Рожайте в обычной больнице | adapted: adapted |
+| 8 | Костя | Меня вот родили в обычной больнице. | I was born in a regular hospital myself. | #215 00:12:35: Меня родили в обычной больнице | adapted: adapted |
 | 9 | Вика | Оно и видно, каким человеком ты стал! | It really shows what kind of person you turned into! | #216 00:12:38: каким человеком стал | adapted: adapted |
-| 10 | Аня | Макс, Вике срочно нужны деньги на роды! | Max, Vika urgently needs money for the birth! | #218 00:12:42: Нужны деньги | adapted: adapted |
-| 11 | Макс | Правда? А почему ты раньше не сказал? | Really? And why did you not tell me earlier? | #219 00:12:44: А почему ты не сказал | adapted: adapted |
-| 12 | Аня | Она говорит, что ей от тебя ничего не надо. | She says that she does not want anything from you. | #220 00:12:46: тебе ничего не надо | adapted: adapted |
+| 10 | Костя | Макс, Вике срочно нужны деньги на роды! | Max, Vika urgently needs money for the birth! | #218 00:12:42: Нужны деньги | adapted: adapted |
+| 11 | Аня | Правда? А почему ты раньше не сказал? | Really? And why did you not tell me earlier? | #219 00:12:44: А почему ты не сказал | adapted: adapted |
+| 12 | Костя | Она говорит, что ей от тебя ничего не надо. | She says that she does not want anything from you. | #220 00:12:46: тебе ничего не надо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 2
 SCENE = 16
 TITLE = "La démission de Noémie  (Noémie's Resignation)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "mathias": "marcel"}
-LABELS = {"noemie": "Noémie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "The next morning at the ASK agency, assistant Noemie Leclerc steps into Mathias Barneville's office. Tired of workplace humiliation and feeling undervalued, Noemie has an unexpected announcement to make. Listen to their exchange in French first."
 OPENER = 'Let us examine how Noemie delivers her sudden resignation to Mathias.'
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Noemie surprises Mathias with her decisive departure, breaking ties with the agency that took her for granted. When you watch the episode, listen out for the expressions meaning 'enter' and 'office'. You'll catch them now. See you next time."
-CLOSING = ("noemie", "Au revoir!")
+OUTRO = "Noemie surprises Mathias with her decisive departure, breaking ties with the agency that took her for granted. When you watch the episode, listen out for the expressions meaning 'enter' and 'office'. You'll catch them now. See you next time!"
+CLOSING = ('noemie', 'Au revoir!')
 STORY = [
     ('mathias', 'Entrez dans mon bureau, Noémie.', 'Come into my office, Noemie.', [(796, 'Entrez.')], ''),
     ('noemie', 'Je dois vous parler très sérieusement.', 'I must talk to you very seriously.', [(801, "Pas continuer comme ça, mais oui, mais c'est pas possible.")], ''),

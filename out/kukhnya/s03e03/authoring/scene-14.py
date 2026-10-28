@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e03-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 14
-TITLE = 'Кто на кухне главный  (Who Is Boss in the Kitchen)'
+TITLE = "Кто на кухне главный  (Who Is Boss in the Kitchen)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "chef": "anja", "anya": "alisa"}
+LABELS = {"vika": "Вика", "chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = 'Outside the fitness club, Vika calls Max and overhears him coaching Rodion Sergeyevich, while back at the restaurant Katya demands that her father tell the cooks the truth.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings Scene Fourteen to a close. Watch how Barinov's refusal to back down pushes Katya to make an announcement to the entire kitchen."
-CLOSING = ('chef', 'Это моя кухня!')
+OUTRO = "That brings Scene Fourteen to a close. Watch how Barinov's refusal to back down pushes Katya to make an announcement to the entire kitchen. See you next time!"
+CLOSING = ("chef", "До встречи!")

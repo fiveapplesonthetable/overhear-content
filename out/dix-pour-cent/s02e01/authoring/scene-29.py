@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 29
-TITLE = "Le nouvel associé  (The New Partner)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le nouvel associé  (The New Partner)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Following the loss of Virginie Efira and Ramzy Bedia, a devastated Mathias stumbles into the agency lobby. There, Gabriel, Arlette, and Camille gather around an unexpected savior who has bought out the agency shares to rescue ASK from bankruptcy: millionaire entrepreneur Hicham Janowski. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through the dramatic entrance of Hicham Janowski step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'Hicham Janowski has arrived as the wealthy new majority owner of ASK, but Mathias is so utterly overcome with shock that he faints dead away on the lobby floor. See you next time!'
-CLOSING = ("lea", "À demain!")
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('lea', "C'est quand même assez drôle.", 'It', [(887, "C'est quand même assez drôle")], ''),
     ('lea', "À cause de cette panne, j'ai deux jours de retard.", 'Because of that breakdown, I am two days behind.', [(888, 'À cause de cet idiot et sa voiture'), (889, "j'ai deux jours de retard dans mon travail")], ''),

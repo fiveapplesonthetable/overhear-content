@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ведь это же хорошо, что она ответила. | It is a good thing that she replied, right? | #238 00:15:32: Ведь это же хорошо, что она ответила | verbatim |
+| 1 | Настя | Ведь это же хорошо, что она ответила. | It is a good thing that she replied, right? | #238 00:15:32: Ведь это же хорошо, что она ответила | verbatim |
 | 2 | Костя | Это же хорошо же. | That really is great news. | #239 00:15:34: Это же хорошо же | verbatim |
-| 3 | Аня | Возле ее, прости, мою скудность речи. | Right next to her—forgive my clumsy phrasing. | #240 00:15:36: Возле ее, прости, мою скудность речи | verbatim |
+| 3 | Настя | Возле ее, прости, мою скудность речи. | Right next to her—forgive my clumsy phrasing. | #240 00:15:36: Возле ее, прости, мою скудность речи | verbatim |
 | 4 | Костя | Да. Возле ее. | Yes, right next to her. | #240 00:15:36: Да. Возле ее | verbatim |
-| 5 | Аня | А пригласите ее в клуб. | Why not invite her to a nightclub. | #242 00:15:40: а пригласите ее в клуб | verbatim |
+| 5 | Настя | А пригласите ее в клуб. | Why not invite her to a nightclub. | #242 00:15:40: а пригласите ее в клуб | verbatim |
 | 6 | Костя | Сейчас я напишу. | I will write to her right now. | #243 00:15:42: Сейчас я напишу | verbatim |
-| 7 | Аня | Теперь папочка сам. | Now Daddy will handle this himself. | #244 00:15:46: Теперь папочка сам | verbatim |
+| 7 | Настя | Теперь папочка сам. | Now Daddy will handle this himself. | #244 00:15:46: Теперь папочка сам | verbatim |
 | 8 | Костя | Клуб это для детей. | Nightclubs are for kids. | #245 00:15:48: Клуб это для детей | verbatim |
-| 9 | Аня | Ну, как сказать. | Well, how should I put it. | #246 00:15:51: Ну, как сказать | verbatim |
+| 9 | Настя | Ну, как сказать. | Well, how should I put it. | #246 00:15:51: Ну, как сказать | verbatim |
 | 10 | Костя | Как кино. | How about the movie theater. | #247 00:15:55: Как кино | verbatim |
-| 11 | Аня | Сто лет не была в кино. | She says she has not been to the movies in a hundred years. | #250 00:16:09: Сто лет не была в кино | verbatim |
+| 11 | Настя | Сто лет не была в кино. | She says she has not been to the movies in a hundred years. | #250 00:16:09: Сто лет не была в кино | verbatim |
 | 12 | Костя | Учись, сынок. | Learn from the master, son. | #251 00:16:13: Учись, сынок | verbatim |
-| 13 | Аня | Возьми трубку. | Answer your phone. | #254 00:16:23: Возьми трубку | verbatim |
+| 13 | Настя | Возьми трубку. | Answer your phone. | #254 00:16:23: Возьми трубку | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

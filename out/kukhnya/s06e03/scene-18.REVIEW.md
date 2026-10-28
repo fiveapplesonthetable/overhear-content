@@ -12,15 +12,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Катя | Можно и другую колбасу хоть раз попробовать. | You could try another sausage at least once. | #308 00:20:19: Можно и другую колбасу хоть раз попробовать | adapted: exact |
 | 2 | Никита | Подарили колбасу, так будь благодарен! | They gifted you sausage, so be grateful! | #310 00:20:29: Подарили колбасу, так будь благодарен! | adapted: exact |
-| 3 | Аня | Катя, давай я тебя на машине отвезу? | Katya, let me drive you in a car? | #313 00:20:45: Катя, давай я тебя на машине отвезу | adapted: adapted |
+| 3 | Никита | Катя, давай я тебя на машине отвезу? | Katya, let me drive you in a car? | #313 00:20:45: Катя, давай я тебя на машине отвезу | adapted: adapted |
 | 4 | Катя | Не надо, я такси вызвала. | No need, I called a taxi. | #314 00:20:48: Не надо, я такси вызвала | adapted: exact |
 | 5 | Никита | Давай я тебя на такси отвезу. | Let me take you in the taxi. | #315 00:20:50: Давай я тебя на такси отвезу | adapted: exact |
 | 6 | Катя | Я сама справлюсь. | I will manage by myself. | #316 00:20:53: Я сама справлюсь | adapted: exact |
 | 7 | Никита | Вот куда ты смотрел, когда так сильно бил? | Where were you looking when you kicked so hard? | #317 00:20:54: Вот куда ты смотрел, когда так сильно | adapted: adapted |
-| 8 | Аня | Это ты ей в лицо мяч отбил! | You are the one who deflected the ball into her face! | #318 00:20:57: Это ты ей в лицо мяч отбил | adapted: exact |
-| 9 | Аня | Если бы ты нормально отбивал! | If only you had blocked it properly! | #320 00:21:01: ты нормально отбивал! | adapted: adapted |
+| 8 | Никита | Это ты ей в лицо мяч отбил! | You are the one who deflected the ball into her face! | #318 00:20:57: Это ты ей в лицо мяч отбил | adapted: exact |
+| 9 | Никита | Если бы ты нормально отбивал! | If only you had blocked it properly! | #320 00:21:01: ты нормально отбивал! | adapted: adapted |
 | 10 | Никита | Ребята, у нас есть пуля! | Guys, we have a bullet! | #324 00:21:14: Ребята, у нас есть пуля | adapted: exact |
-| 11 | Аня | Ты ее хорошо помыл? | Did you wash it well? | #325 00:21:16: Помыл? | adapted: adapted |
+| 11 | Никита | Ты ее хорошо помыл? | Did you wash it well? | #325 00:21:16: Помыл? | adapted: adapted |
 | 12 | Никита | Да, спиртом протер! | Yes, I wiped it with alcohol! | #326 00:21:18: Да. Спиртом протер? | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

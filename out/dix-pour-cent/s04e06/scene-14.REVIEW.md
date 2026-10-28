@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Merci d'écouter la réalité, Jean. | Thank you for listening to reality, Jean. | 670:en train de couler |
 
 ## Part 5 — Outro & Closing
-> Refusing to spin illusions for Jean Reno, Andrea boldly confesses that ASK is bankrupt, lacking six million euros to produce Xavier Beauvois's film, earning the actor's deepest respect. When you watch the episode, listen out for the expressions meaning 'script' and 'intense'. You'll catch them now. See you next time.
+> Refusing to spin illusions for Jean Reno, Andrea boldly confesses that ASK is bankrupt, lacking six million euros to produce Xavier Beauvois's film, earning the actor's deepest respect. When you watch the episode, listen out for the expressions meaning 'script' and 'intense'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

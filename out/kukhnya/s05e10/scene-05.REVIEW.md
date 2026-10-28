@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Что-то не так? | Is something wrong? | #81 00:06:25: Что-то не так | adapted: adapted |
+| 1 | Михаил | Что-то не так? | Is something wrong? | #81 00:06:25: Что-то не так | adapted: adapted |
 | 2 | Инспектор | Коридор у вас должен быть на пять сантиметров шире. | Your corridor must be five centimeters wider. | #82 00:06:27: Коридор у вас должен быть на пять сантиметров шире | adapted: adapted |
-| 3 | Аня | Всё исправлено! | Everything is fixed! | #84 00:06:33: Все исправлено | adapted: adapted |
+| 3 | Михаил | Всё исправлено! | Everything is fixed! | #84 00:06:33: Все исправлено | adapted: adapted |
 | 4 | Инспектор | Постель помята. | The bed is rumpled. | #85 00:06:40: Постель помят | adapted: adapted |
 | 5 | Инспектор | Уборка номеров — три балла. | Room housekeeping is three points. | #86 00:06:46: Уборка номеров – три балла | adapted: adapted |
-| 6 | Аня | Это такие пустяки! | Those are such trifles! | #87 00:06:48: Это такие пустяки | adapted: adapted |
-| 7 | Аня | У нас всё отлично, на пять звёзд. | Everything with us is excellent, worthy of five stars. | #88 00:06:50: У нас все отлично<br>#89 00:06:52: На пять звезд | adapted: adapted |
-| 8 | Аня | Мы не знали, что этот люкс занят. | We did not know that this suite was occupied. | #90 00:06:59: Мы не знали, что этот люк занят | adapted: adapted |
-| 9 | Аня | Пройдёмте в другой. | Let us proceed to another one. | #91 00:07:02: Пройдемте в другой | adapted: adapted |
+| 6 | Михаил | Это такие пустяки! | Those are such trifles! | #87 00:06:48: Это такие пустяки | adapted: adapted |
+| 7 | Михаил | У нас всё отлично, на пять звёзд. | Everything with us is excellent, worthy of five stars. | #88 00:06:50: У нас все отлично<br>#89 00:06:52: На пять звезд | adapted: adapted |
+| 8 | Михаил | Мы не знали, что этот люкс занят. | We did not know that this suite was occupied. | #90 00:06:59: Мы не знали, что этот люк занят | adapted: adapted |
+| 9 | Михаил | Пройдёмте в другой. | Let us proceed to another one. | #91 00:07:02: Пройдемте в другой | adapted: adapted |
 | 10 | Инспектор | А вы что, не в курсе? | Are you not aware? | #91 00:07:02: А вы что, не в курсе | adapted: adapted |
 | 11 | Инспектор | Какие номера у вас свободны, какие заняты? | Which rooms of yours are vacant and which are occupied? | #91 00:07:02: какие номера у вас свободны<br>#92 00:07:05: какие заняты | adapted: adapted |
-| 12 | Аня | Сейчас всё проверим! | We will check everything right now! | #84 00:06:33: Все исправлено | adapted: adapted |
+| 12 | Михаил | Сейчас всё проверим! | We will check everything right now! | #84 00:06:33: Все исправлено | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

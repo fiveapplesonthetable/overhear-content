@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e08-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 8
 SCENE = 13
 TITLE = "Курьер у двери Вики  (The Courier at Vika's Door)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.08"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
+LABELS = {"vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.08'
 SOURCE_FILE = 'sources/kukhnya/s03/e08.ru.srt'
 
 INTRO = "Max stands at Vika's door in a delivery uniform when Nagiyev walks out in a bathrobe. Humiliated, Max tells Vika he is quitting Claude Monet to become a sous-chef elsewhere."
@@ -16,11 +16,11 @@ INTRO = "Max stands at Vika's door in a delivery uniform when Nagiyev walks out 
 STORY = [
     ('anya', 'Подожди, ты что, в новую квартиру переехала?', 'Wait, did you move to a new apartment?', [(205, 'Ты переехала')], 'adapted'),
     ('vika', 'Нет, я просто к подруге в гости пришла.', 'No, I just came to visit a friend.', [(206, 'Нет, в гости пришла')], 'adapted'),
-    ('nagiyev', 'Дорогая, чего-то я уже скучать начал.', 'Darling, for some reason I already started missing you.', [(208, 'я скучать начал')], 'adapted'),
-    ('nagiyev', 'О, привет, молодец, что зашёл, мы прямо скучали!', 'Oh, hi, good job dropping by, we really missed you!', [(210, 'Привет. Молодец, что зашел, прямо скучали')], 'adapted'),
+    ('vika', 'Дорогая, чего-то я уже скучать начал.', 'Darling, for some reason I already started missing you.', [(208, 'я скучать начал')], 'adapted'),
+    ('vika', 'О, привет, молодец, что зашёл, мы прямо скучали!', 'Oh, hi, good job dropping by, we really missed you!', [(210, 'Привет. Молодец, что зашел, прямо скучали')], 'adapted'),
     ('anya', 'Всё с тобой понятно, значит, в гости пришла.', 'Everything is clear with you, so you came for a visit.', [(211, 'Понятно. В гости')], 'adapted'),
     ('anya', 'Дмитрий Владимирович, можно мне с Викторией Сергеевной поговорить по работе?', 'Dmitry Vladimirovich, may I speak with Victoria Sergeyevna about work?', [(212, 'Дмитрий Владимирович, можно мне с Викторией Сергеевной поговорить')], 'adapted'),
-    ('nagiyev', 'Дима, скажи, у вас там всё в порядке?', 'Dima, tell me, is everything alright with you out there?', [(214, 'Дима, все в порядке')], 'adapted'),
+    ('vika', 'Дима, скажи, у вас там всё в порядке?', 'Dima, tell me, is everything alright with you out there?', [(214, 'Дима, все в порядке')], 'adapted'),
     ('vika', 'Макс, может, тебе правда надо уволиться?', 'Max, maybe you really should quit?', [(217, 'уволиться')], 'adapted'),
     ('anya', 'Да, похоже, именно так будет лучше всем.', 'Yes, it seems that way will be better for everyone.', [(218, 'Похоже, так будет лучше')], 'adapted'),
     ('vika', 'И что ты теперь делать будешь?', 'And what are you going to do now?', [(219, 'Что делать будешь')], 'adapted'),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Stung by seeing Nagiyev at Vika's apartment, Max walks away and decides to leave Moscow for good."
-CLOSING = ('vika', 'Желаю тебе большой удачи.')
+OUTRO = "Stung by seeing Nagiyev at Vika's apartment, Max walks away and decides to leave Moscow for good. Until next time!"
+CLOSING = ("vika", "Желаю тебе большой удачи.")

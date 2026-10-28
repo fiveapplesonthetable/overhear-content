@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 26
-TITLE = "Ramzy sur le plateau télé  (Ramzy on the TV Set)"
-LEVEL = "A1 — débutant"
+TITLE = 'Ramzy sur le plateau télé  (Ramzy on the TV Set)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "ramzy": "theo", "virginie": "emilie", "michel": "marcel"}
-LABELS = {"ramzy": "Ramzy", "virginie": "Virginie", "michel": "Michel"}
+VOICES = {'narrator': 'sky', 'ramzy': 'theo', 'virginie': 'emilie', 'michel': 'marcel'}
+LABELS = {'ramzy': 'Ramzy', 'virginie': 'Virginie', 'michel': 'Michel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "On the television studio set of Vivement Dimanche, Ramzy Bedia is seated on the red sofa. He chats comfortably with host Michel Drucker while petting the dog, unaware that a major surprise awaits. Let's listen to the scene in French first."
 OPENER = "Let's examine how Ramzy jokes with Michel Drucker before the surprise arrival."
 TRANSITION = "Now let's listen to the whole discussion again without stopping."
-OUTRO = 'Ramzy is relaxed and making jokes on the sofa, completely unaware of what is coming. Virginie is about to step onto the television set for a dramatic confrontation. Join us next time to see what happens next.'
-CLOSING = ("virginie", "Bonne journée!")
+OUTRO = 'Ramzy is relaxed and making jokes on the sofa, completely unaware of what is coming. Virginie is about to step onto the television set for a dramatic confrontation. See you next time!'
+CLOSING = ('virginie', 'Bonne journée!')
 STORY = [
     ('ramzy', "Je crois que ta chienne m'aime bien, Michel!", 'I think your dog likes me, Michel!', [(781, "Je crois que ta chienne m'aime bien, Michel !")], ''),
     ('ramzy', 'Elle sait que je suis un homme blessé.', 'She knows that I am a wounded man.', [(782, 'Elle sait que je suis un homme blessé')], ''),

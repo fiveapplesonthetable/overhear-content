@@ -13,15 +13,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Лёва | Я никогда в жизни так сильно не пугался! | I have never been so scared in my entire life! | #236 00:16:38: Никогда в жизни так не пугался | adapted: adapted |
 | 2 | Лёва | Сеня, ты думаешь, это очень смешно, да? | Senya, you think that is very funny, right? | #237 00:16:41: ты думаешь, это смешно, да | adapted: adapted |
 | 3 | Лёва | Я тебе скажу, это совсем не смешно! | I will tell you, it is not funny at all! | #238 00:16:42: я тебе скажу, это ни капельки не смешно | adapted: adapted |
-| 4 | Сеня | Подожди, Лёва, ты же больше не заикаешься! | Wait, Lyova, you are not stuttering anymore! | #239 00:16:45: Лева, ты не заикаешься | adapted: adapted |
+| 4 | Лёва | Подожди, Лёва, ты же больше не заикаешься! | Wait, Lyova, you are not stuttering anymore! | #239 00:16:45: Лева, ты не заикаешься | adapted: adapted |
 | 5 | Лёва | Конечно, вот так взял и перестал заикаться! | Sure, I just up and stopped stuttering like that! | #240 00:16:47: вот так взял и перестал заикаться | adapted: adapted |
 | 6 | Лёва | Ой, подождите, я правда не заикаюсь! | Oh, wait, I really am not stuttering! | #241 00:16:50: Ой, ой, ой, я не заикаюсь | adapted: adapted |
 | 7 | Лёва | Друзья, я действительно больше не заикаюсь! | Friends, I really do not stutter anymore! | #242 00:16:55: Я действительно не заикаюсь | adapted: adapted |
 | 8 | Лёва | Ехал грека через широкую реку! | A Greek was riding across a wide river! | #243 00:16:58: реку | adapted: adapted |
 | 9 | Аня | А я не понял, что тут случилось? | And I did not get it, what happened here? | #247 00:17:06: А я что-то не понял. А что случилось-то | adapted: adapted |
-| 10 | Сеня | Катя, Стас, я долго думал и всё понял. | Katya, Stas, I thought for a long time and understood everything. | #248 00:17:13: Катя, Стас, я долго думал и понял | adapted: adapted |
-| 11 | Сеня | Признаю, я вчера был совсем неправ. | I admit I was completely wrong yesterday. | #249 00:17:19: Я был неправ | adapted: adapted |
-| 12 | Сеня | Вы так сильно хотите быть вместе. | You want to be together so badly. | #250 00:17:20: Так хотите быть вместе | adapted: adapted |
+| 10 | Лёва | Катя, Стас, я долго думал и всё понял. | Katya, Stas, I thought for a long time and understood everything. | #248 00:17:13: Катя, Стас, я долго думал и понял | adapted: adapted |
+| 11 | Лёва | Признаю, я вчера был совсем неправ. | I admit I was completely wrong yesterday. | #249 00:17:19: Я был неправ | adapted: adapted |
+| 12 | Лёва | Вы так сильно хотите быть вместе. | You want to be together so badly. | #250 00:17:20: Так хотите быть вместе | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

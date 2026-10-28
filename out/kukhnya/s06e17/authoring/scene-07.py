@@ -1,32 +1,32 @@
 ID = 'kukhnya-s06e17-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 17
 SCENE = 7
-TITLE = 'Полмиллиона за молчание  (Half a Million for Silence)'
+TITLE = "Полмиллиона за молчание  (Half a Million for Silence)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'inspector': 'anja', 'timur': 'angelina'}
-LABELS = {'anya': 'Шеф', 'inspector': 'Инспектор', 'timur': 'Тимур'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "inspector": "angelina", "chef": "anja"}
+LABELS = {"inspector": "Инспектор", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.17'
 SOURCE_FILE = 'sources/kukhnya/s06/e17.ru.srt'
 
 INTRO = 'Outside in the courtyard, Timur accidentally bumps the fleeing inspector with his van. Brought back inside, the furious inspector demands five hundred thousand dollars to forget the ordeal and write a glowing review.'
 
 STORY = [
-    ('anya', 'Тимур, ты что тут наделал?', 'Timur, what have you done here?', [(92, 'ты что наделал')], 'adapted'),
-    ('timur', 'Брат, ты только не переживай!', 'Brother, just do not worry!', [(93, 'брат, а не переживай')], 'adapted'),
-    ('timur', 'Я его не сильно сбил.', 'I did not hit him very hard.', [(94, 'Я его не сильно сбил')], 'adapted'),
+    ('chef', 'Тимур, ты что тут наделал?', 'Timur, what have you done here?', [(92, 'ты что наделал')], 'adapted'),
+    ('inspector', 'Брат, ты только не переживай!', 'Brother, just do not worry!', [(93, 'брат, а не переживай')], 'adapted'),
+    ('inspector', 'Я его не сильно сбил.', 'I did not hit him very hard.', [(94, 'Я его не сильно сбил')], 'adapted'),
     ('inspector', 'Это просто ужасная гостиница!', 'This is simply a terrible hotel!', [(95, 'гостиница')], 'adapted'),
     ('inspector', 'Меня здесь все хотят убить.', 'Everyone here wants to kill me.', [(96, 'Меня все хотят убить')], 'adapted'),
     ('inspector', 'Чудо, что я остался жив.', 'It is a miracle that I stayed alive.', [(97, 'что я остался жив')], 'adapted'),
     ('inspector', 'Что вам от меня надо?', 'What do you want from me?', [(98, 'Что вам от меня надо')], 'adapted'),
-    ('anya', 'Предлагаю написать хороший отзыв.', 'I suggest writing a good review.', [(99, 'и написать о нас хороший отзыв')], 'adapted'),
+    ('chef', 'Предлагаю написать хороший отзыв.', 'I suggest writing a good review.', [(99, 'и написать о нас хороший отзыв')], 'adapted'),
     ('inspector', 'Вы намекаете мне на взятку?', 'Are you hinting at a bribe to me?', [(101, 'Намекаете на взятку')], 'adapted'),
-    ('anya', 'Мы хотим возместить ваш ущерб.', 'We want to compensate your damage.', [(102, 'ущерб')], 'adapted'),
+    ('chef', 'Мы хотим возместить ваш ущерб.', 'We want to compensate your damage.', [(102, 'ущерб')], 'adapted'),
     ('inspector', 'Это просто очень возмутительно!', 'This is simply very outrageous!', [(104, 'Это возмутительно')], 'adapted'),
-    ('anya', 'Где я возьму такие деньги?', 'Where will I get that kind of money?', [(110, 'А где я возьму такие деньги')], 'adapted'),
-    ('anya', 'Хорошо, мы на всё согласны.', 'Fine, we agree to everything.', [(111, 'Мы согласны')], 'adapted'),
+    ('chef', 'Где я возьму такие деньги?', 'Where will I get that kind of money?', [(110, 'А где я возьму такие деньги')], 'adapted'),
+    ('chef', 'Хорошо, мы на всё согласны.', 'Fine, we agree to everything.', [(111, 'Мы согласны')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Half a million dollars is an impossible sum for Chef Barinov, until his quiet sous-chef Lyova surprises everyone in the room. See you in the next scene.'
-CLOSING = ('anya', 'Нам нужны большие деньги.')
+OUTRO = 'Half a million dollars is an impossible sum for Chef Barinov, until his quiet sous-chef Lyova surprises everyone in the room. Until next time!'
+CLOSING = ("chef", "Увидимся!")

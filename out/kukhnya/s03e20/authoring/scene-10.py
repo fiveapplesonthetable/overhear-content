@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 10
 TITLE = "Перепёлка от шефа и вопрос о туалете  (The Chef's Quail and the Restroom Question)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = "Worried about Max's dizziness, Vika makes him lie down and brings him water. The next morning in the kitchen, Chef Barinov learns that Sergey banned his signature quail—and pays Sergey another visit."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Chef Barinov's seemingly odd question about the hotel bathroom turns out to be the key to his master plan."
-CLOSING = ('chef', 'У меня только один вопрос.')
+OUTRO = "Chef Barinov's seemingly odd question about the hotel bathroom turns out to be the key to his master plan. See you next time!"
+CLOSING = ("chef", "Хорошего дня!")

@@ -27,5 +27,5 @@
 | 13 | `noemie` (Noémie) | Je veux mourir, Hervé. | I want to die, Hervé. | 492:Je veux mourir, Hervé |
 
 ## Part 5 — Outro & Closing
-> Noémie now knows that Mathias has signed his contract with StarMédia—and worse for her, he didn't ask her to follow him. Meanwhile, since Mathias skipped the screening, he is heading straight home, where Camille is sitting at his dinner table. See you next time!
+> Noémie now knows that Mathias has signed his contract with StarMédia—and worse for her, he didn't ask her to follow him. See you next time!
 - **Closing**: `herve`: *Bonne journée!*

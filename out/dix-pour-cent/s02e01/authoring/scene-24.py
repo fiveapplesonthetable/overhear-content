@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 1
 SCENE = 24
 TITLE = "La décision de Catherine  (Catherine's Decision)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "catherine": "emilie"}
-LABELS = {"mathias": "Mathias", "catherine": "Catherine"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'catherine': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'catherine': 'Catherine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "At Catherine's apartment, Mathias Barneville arrives hoping for a calm conversation and a chance to repair their marriage. But Catherine has already made up her mind. Let's listen to the scene in French first."
 OPENER = "Let's examine how Mathias and Catherine express their painful separation."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Catherine has drawn the line after years of betrayals and demands a divorce. Mathias must face the reality that his family life is slipping away. Until next time.'
-CLOSING = ("catherine", "À demain!")
+OUTRO = 'Catherine has drawn the line after years of betrayals and demands a divorce. Mathias must face the reality that his family life is slipping away. See you next time!'
+CLOSING = ('catherine', 'À demain!')
 STORY = [
     ('catherine', 'Quelle heure est-il?', 'What time is it?', [(727, 'Quelle heure est-il ?')], ''),
     ('mathias', 'Neuf heures pile, comme convenu.', 'Nine o', [(728, '9 heures pile, comme convenu.')], ''),

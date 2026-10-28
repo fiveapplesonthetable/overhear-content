@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Скажи им, что я очень занят. | Tell them that I am very busy. | #174 00:12:49: Скажи, что я занят | adapted: adapted |
+| 1 | Кристина | Скажи им, что я очень занят. | Tell them that I am very busy. | #174 00:12:49: Скажи, что я занят | adapted: adapted |
 | 2 | Нагиев | Витя, ну что это такое? | Vitya, well what is this? | #176 00:12:56: Витя, ну что такое | adapted: adapted |
 | 3 | Нагиев | Я должен часами ждать тебя там? | Am I supposed to wait for you there for hours? | #177 00:12:57: сидеть тебя часами ждать там | adapted: adapted |
 | 4 | Кристина | Хватит, не ори на моего шефа. | Enough, do not yell at my chef. | #179 00:13:03: Не ори на моего шефа | adapted: adapted |

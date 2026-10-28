@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 1
 SCENE = 9
 TITLE = "Le départ de Mathias  (Mathias's Departure)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At the elevator doors of ASK, former managing partner Mathias Barneville prepares to leave the agency for good. Holding his box of personal belongings, he is confronted by Andrea, who firmly asks him to return his office keys. Let's listen to their farewell conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Mathias hands over his keys and steps into the closing elevator, bringing thirty years at ASK to an end. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne journée!")
+OUTRO = "Mathias hands over his keys and steps into the closing elevator, bringing thirty years at ASK to an end. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne journée!')
 STORY = [
     ('lea', "Mathias, attends une seconde s'il te plaît.", 'Mathias, wait a second please.', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),
     ('mathias', "Oui Andréa? Qu'est-ce qu'il y a?", 'Yes Andrea? What is the matter?', [(511, "Au revoir. Vraiment, j'en reviens pas.")], ''),

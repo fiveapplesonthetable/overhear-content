@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 26
-TITLE = "La vérité sur Philippe  (The Truth About Philippe)"
-LEVEL = "A1 — débutant"
+TITLE = 'La vérité sur Philippe  (The Truth About Philippe)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "camille": "emilie"}
-LABELS = {"herve": "Hervé", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'camille': 'emilie'}
+LABELS = {'herve': 'Hervé', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "In the quiet lounge of ASK, Camille finally decides to clear her conscience with Herve. She confesses the startling identity of their mysterious client Philippe, leaving Herve stunned by Mathias's secret maneuvers. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Camille and Herve share a moment of stunned realization in the empty hallway. When you watch the episode, listen out for the expressions meaning 'must' and 'confess'. You'll catch them now. See you next time."
-CLOSING = ("herve", "À bientôt!")
+OUTRO = "Camille and Herve share a moment of stunned realization in the empty hallway. When you watch the episode, listen out for the expressions meaning 'must' and 'confess'. You'll catch them now. See you next time!"
+CLOSING = ('herve', 'À bientôt!')
 STORY = [
     ('camille', "Hervé, je dois tout t'avouer.", 'Herve, I must confess everything.', [(1313, 'je suis en veille')], ''),
     ('herve', 'Vas-y, je suis en veille.', 'Go ahead, I am on standby.', [(1313, 'je suis en veille')], ''),

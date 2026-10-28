@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 1
 SCENE = 23
 TITLE = "Réveil chez Gabriel  (Waking Up at Gabriel's)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "virginie": "emilie", "gabriel": "theo"}
-LABELS = {"virginie": "Virginie", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'virginie': 'emilie', 'gabriel': 'theo'}
+LABELS = {'virginie': 'Virginie', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "The morning after her arrival at Gabriel's apartment, Virginie wakes up feeling energized and playful. As Gabriel frets over the agency's uncertain future, Virginie teases him by offering private acting and singing lessons. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
 OUTRO = "Virginie brightens Gabriel's morning with playful banter about his theatrical talents. Remember the versatile French expression for starting a task: se mettre au travail. See you next time!"
-CLOSING = ("gabriel", "Au revoir!")
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('gabriel', 'Ah, la dormeuse est enfin réveillée!', 'Ah, the sleepyhead is finally awake!', [(681, 'Ah, la dormeuse est réveillée !')], ''),
     ('virginie', 'Bonjour Gabriel. Tu as du café?', 'Good morning Gabriel. Do you have coffee?', [(682, 'Bonjour'), (682, 'Bonjour')], ''),

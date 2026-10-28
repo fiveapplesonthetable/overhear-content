@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 4
 SCENE = 13
-TITLE = "Le scénario de Hartman  (Mathias and Isabelle)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le scénario de Hartman  (Mathias and Isabelle)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "isabelle": "emilie", "mathias": "marcel"}
-LABELS = {"isabelle": "Isabelle", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'mathias': 'marcel'}
+LABELS = {'isabelle': 'Isabelle', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "At a quiet restaurant in Paris, Mathias meets with superstar Isabelle Adjani to review an ambitious movie script. While Isabelle loves the dramatic depth of the project, Mathias cautiously warns her about the director's eccentric demands. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = "Although Mathias tries to shield Isabelle from disappointment, the star's curiosity is sparked by the elusive director. Listen to the French conversation one more time. Until next time."
-CLOSING = ("isabelle", "Bonne journée!")
+OUTRO = "Although Mathias tries to shield Isabelle from disappointment, the star's curiosity is sparked by the elusive director. Listen to the French conversation one more time. See you next time!"
+CLOSING = ('isabelle', 'Bonne journée!')
 STORY = [
     ('isabelle', "C'est un scénario profond et intelligent.", 'It is a profound and intelligent screenplay.', [(353, 'Un scénario profond et intelligent')], ''),
     ('isabelle', "C'est un art dramatique puissant.", 'It is powerful dramatic art.', [(354, 'Un art dramatique puissant')], ''),

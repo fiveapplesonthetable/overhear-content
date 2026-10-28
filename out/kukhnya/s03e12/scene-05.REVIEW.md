@@ -11,11 +11,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нагиев | Мы обязательно решим эту проблему, друзья. | We will definitely solve this problem, friends. | #76 00:05:19: Мы решим эту проблему, друзья | adapted: adapted |
-| 2 | Аня | Кирилл Ильич, ну что ты начинаешь? | Kirill Ilyich, why are you starting this? | #77 00:05:23: Кирилл Ильич, ну что ты | adapted: adapted |
-| 3 | Аня | Мы же тебя кормим на высшем уровне. | We feed you at the highest level. | #78 00:05:25: Мы же тебя кормим на высшем уровне | adapted: adapted |
+| 2 | Шеф | Кирилл Ильич, ну что ты начинаешь? | Kirill Ilyich, why are you starting this? | #77 00:05:23: Кирилл Ильич, ну что ты | adapted: adapted |
+| 3 | Шеф | Мы же тебя кормим на высшем уровне. | We feed you at the highest level. | #78 00:05:25: Мы же тебя кормим на высшем уровне | adapted: adapted |
 | 4 | Нагиев | Витя, ты только у себя на кухне главный. | Vitya, you are only the boss in your own kitchen. | #81 00:05:33: у себя на кухне | adapted: adapted |
-| 5 | Аня | Этому деду особый подход нужен. | This old man needs a special approach. | #83 00:05:38: Деду особый подход нужен | adapted: adapted |
-| 6 | Аня | Надо с ним поговорить по душам. | We need to have a heart-to-heart talk with him. | #84 00:05:41: поговорить по душам | adapted: adapted |
+| 5 | Шеф | Этому деду особый подход нужен. | This old man needs a special approach. | #83 00:05:38: Деду особый подход нужен | adapted: adapted |
+| 6 | Шеф | Надо с ним поговорить по душам. | We need to have a heart-to-heart talk with him. | #84 00:05:41: поговорить по душам | adapted: adapted |
 | 7 | Нагиев | Понятно, тебе лишь бы выпить, да? | I see, you just want an excuse to drink, right? | #85 00:05:43: Понятно, тебе лишь бы выпить, да | adapted: adapted |
 | 8 | Нагиев | И лишь бы поговорить по душам. | And just to chat heart to heart. | #86 00:05:45: по душам | adapted: adapted |
 | 9 | Нагиев | Опять мне всё самому решать. | Once again I have to solve everything myself. | #87 00:05:47: Опять все самому решать | adapted: adapted |

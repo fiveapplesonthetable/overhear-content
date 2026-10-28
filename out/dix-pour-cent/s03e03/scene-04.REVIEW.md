@@ -26,5 +26,5 @@
 | 12 | `lea` (Andréa) | C'est une très belle preuve d'amour sincère. | That is a very lovely proof of sincere love. | 264:Ça, ça me touche parce que c'est vraiment pas son truc. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around such a beautiful couple. When you watch the episode, listen out for the expressions meaning 'think back' and 'ticket'. You'll catch them now. See you next time.
+> That's it for this scene around such a beautiful couple. When you watch the episode, listen out for the expressions meaning 'think back' and 'ticket'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

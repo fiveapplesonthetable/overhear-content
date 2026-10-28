@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 26
-TITLE = "Une sélection de films  (A Film Selection)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une sélection de films  (A Film Selection)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jean": "theo", "lea": "lucie"}
-LABELS = {"jean": "Jean", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
+LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In his country house, actor Jean Dujardin is finally ready to return to Paris with Andrea. Before they hit the road, he looks through some films and asks for her help. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this relaxed conversation between Andrea and Jean step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Jean Dujardin is finally ready to return to Paris, borrowing a film and asking Andrea to curate a movie list for him. When you watch the episode, listen out for the expressions meaning 'come on' and 'time'. You'll catch them now. See you next time."
-CLOSING = ("jean", "À bientôt!")
+OUTRO = "Jean Dujardin is finally ready to return to Paris, borrowing a film and asking Andrea to curate a movie list for him. When you watch the episode, listen out for the expressions meaning 'come on' and 'time'. You'll catch them now. See you next time!"
+CLOSING = ('jean', 'À bientôt!')
 STORY = [
     ('jean', "Allez, c'est l'heure d'y aller.", 'Come on, it is time to go.', [(1020, "Allez, c'est l'heure d'y aller")], ''),
     ('jean', "Dis, c'est celui-là, le film?", 'Tell me, is this the movie?', [(1021, "Dis, c'est celui-là, le film")], ''),

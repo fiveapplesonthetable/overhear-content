@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Михаил | Что случилось, Витя? | What happened, Vitya? | #145 00:09:55: Что случилось? | adapted: adapted |
-| 2 | Аня | Префект не наелся. | The prefect did not eat his fill. | #145 00:09:55: не наелся | adapted: adapted |
-| 3 | Аня | Миша, ты меня прости, что я тогда Элеоноре ничего не сказал. | Misha, forgive me for not saying anything to Eleonora back then. | #146 00:10:00: Миша, ты меня прости, что я тогда Элеоноре ничего не сказал | adapted: exact |
-| 4 | Аня | Ты пойми, для нее это важно. | Understand, for her it is important. | #147 00:10:05: Ты пойми, для нее это | adapted: adapted |
-| 5 | Михаил | Никаких проблем, Витя. | No problem at all, Vitya. | #148 00:10:07: Никаких проблем | adapted: adapted |
-| 6 | Аня | За новое меню и за звезду! | To the new menu and to the star! | #149 00:10:13: За новое меню и за звезду | adapted: adapted |
-| 7 | Костя | Катя уже третий бокал пьет. | Katya is already drinking her third glass. | #150 00:10:20: Катя уже третий бокал пьет | adapted: exact |
-| 8 | Костя | По-моему, пора идти. | In my opinion, it is time to go. | #151 00:10:23: По-моему, пора | adapted: adapted |
-| 9 | Михаил | Давай, удачи. | Go ahead, good luck. | #152 00:10:25: Давай | adapted: adapted |
-| 10 | Костя | Ну что, думаешь, пора уже с Катей поговорить? | Well, do you think it is time to talk to Katya already? | #154 00:10:30: Ну что, думаешь, пора уж с Катей поговорить? | adapted: adapted |
-| 11 | Михаил | Да, а вино где? | Yes, and where is the wine? | #155 00:10:36: Да. А вино где? | adapted: exact |
-| 12 | Костя | Не вопрос, сейчас налью. | No question, I will pour right now. | #158 00:10:45: Не вопрос | adapted: adapted |
+| 1 | Шеф | Что случилось, Витя? | What happened, Vitya? | #145 00:09:55: Что случилось? | adapted: adapted |
+| 2 | Шеф | Префект не наелся. | The prefect did not eat his fill. | #145 00:09:55: не наелся | adapted: adapted |
+| 3 | Шеф | Миша, ты меня прости, что я тогда Элеоноре ничего не сказал. | Misha, forgive me for not saying anything to Eleonora back then. | #146 00:10:00: Миша, ты меня прости, что я тогда Элеоноре ничего не сказал | adapted: exact |
+| 4 | Шеф | Ты пойми, для нее это важно. | Understand, for her it is important. | #147 00:10:05: Ты пойми, для нее это | adapted: adapted |
+| 5 | Шеф | Никаких проблем, Витя. | No problem at all, Vitya. | #148 00:10:07: Никаких проблем | adapted: adapted |
+| 6 | Шеф | За новое меню и за звезду! | To the new menu and to the star! | #149 00:10:13: За новое меню и за звезду | adapted: adapted |
+| 7 | Шеф | Катя уже третий бокал пьет. | Katya is already drinking her third glass. | #150 00:10:20: Катя уже третий бокал пьет | adapted: exact |
+| 8 | Шеф | По-моему, пора идти. | In my opinion, it is time to go. | #151 00:10:23: По-моему, пора | adapted: adapted |
+| 9 | Шеф | Давай, удачи. | Go ahead, good luck. | #152 00:10:25: Давай | adapted: adapted |
+| 10 | Шеф | Ну что, думаешь, пора уже с Катей поговорить? | Well, do you think it is time to talk to Katya already? | #154 00:10:30: Ну что, думаешь, пора уж с Катей поговорить? | adapted: adapted |
+| 11 | Шеф | Да, а вино где? | Yes, and where is the wine? | #155 00:10:36: Да. А вино где? | adapted: exact |
+| 12 | Шеф | Не вопрос, сейчас налью. | No question, I will pour right now. | #158 00:10:45: Не вопрос | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -29,5 +29,5 @@
 | 15 | `sofia` (Sofia) | Bien sûr que si, j'y réfléchirai avec toi. | Of course I do, I will think about it with you. | 309:J'y réfléchirai. |
 
 ## Part 5 — Outro & Closing
-> Hicham introduces his son Elvis to the agency staff and generously hands out match tickets. Meanwhile, Camille and Sofia bond over their shared professional aspirations in the agency. Join us next time to see what happens next.
+> Hicham introduces his son Elvis to the agency staff and generously hands out match tickets. See you next time!
 - **Closing**: `sofia`: *À demain!*

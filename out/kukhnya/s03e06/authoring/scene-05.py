@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e06-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 6
 SCENE = 5
-TITLE = 'Не та квартира  (The Wrong Apartment)'
+TITLE = "Не та квартира  (The Wrong Apartment)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.06'
 SOURCE_FILE = 'sources/kukhnya/s03/e06.ru.srt'
 
 INTRO = "Drunk after the club, Max brings Masha into an apartment and yells at Vika to stop haunting him—only to discover he is actually standing in Vika's hallway."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Once the alcohol wears off, Max realizes he drunkenly stumbled into Vika's apartment and spilled whiskey on her rug."
-CLOSING = ('anya', 'А где мои джинсы?')
+OUTRO = "Once the alcohol wears off, Max realizes he drunkenly stumbled into Vika's apartment and spilled whiskey on her rug. Until next time!"
+CLOSING = ("anya", "Пока!")

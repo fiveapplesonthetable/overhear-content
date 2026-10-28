@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'By which one could measure everything.' The meaning hinges on 'according to' working together with 'to measure' in spoken Russian.
 - 'And give a rating to everything.' In Russian, the idea of 'and' flows naturally into 'grade' without extra filler words.
 - 'You are a good four-star friend.' Max brings out the contrast between 'you' and 'good' in a few short words.
-- 'Or one can rely on you.' Notice the reflexive suffix on the verb meaning 'to rely on', turning the action back on the subject.
+- 'Or one can rely on you.' Here Max anchors the thought on 'may, can; it is allowed' and finishes on 'to rely on', keeping the spoken rhythm brisk and natural.
 - 'You are an excellent five-star guy.' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'stars'.
 - 'But all of that is unreal.' Max brings out the contrast between 'but' and 'everything' in a few short words.
 - 'One cannot measure friendship or loyalty.' Max anchors the line on 'one must not', while 'loyalty' completes the thought.

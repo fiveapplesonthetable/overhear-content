@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e14-scene-11"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e14-scene-11'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 11
 TITLE = "Объяснение Ильи и ревность Макса  (Ilya's Explanation and Max's Jealousy)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.14"
-SOURCE_FILE = "sources/kukhnya/s02/e14.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "sasha": "Саша", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
+SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
 
 INTRO = 'In the dining room, Ilya corners Sasha to apologize for vanishing six months earlier, explaining that he was scared of his own feelings but is now ready to commit. Watching from the kitchen, Max grows furious while Senya and Fedya joke about the reunion.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = "When you watch Scene 11 of Episode 14, listen out for the exchange around ilya's explanation and max's jealousy — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Макс, ты?')
+OUTRO = 'That wraps up this scene as ilya apologizes to Sasha for disappearing six months ago and says he is ready for a serious commitment, while Max spies on them from the kitchen window. Until next time!'
+CLOSING = ("anya", "До завтра!")

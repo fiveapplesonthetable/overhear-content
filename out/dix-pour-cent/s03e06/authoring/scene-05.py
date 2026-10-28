@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 6
 SCENE = 5
 TITLE = "Fille de traître  (Traitor's Daughter)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "noemie": "emilie", "lea": "lucie"}
-LABELS = {"herve": "Hervé", "noemie": "Noémie", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'noemie': 'emilie', 'lea': 'lucie'}
+LABELS = {'herve': 'Hervé', 'noemie': 'Noémie', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "At the ASK agency, tensions flare between assistants and junior agents ahead of the thirtieth anniversary gala. Camille, Noemie, and Herve argue about betrayal and family loyalty before putting differences aside to clean the office. Let's listen to their exchange in French first."
 OPENER = "Let's explore how Camille, Noemie, and Herve navigate workplace conflict line by line."
 TRANSITION = "Now let's listen to the assistants' reconciliation once more from start to finish."
-OUTRO = "That's it for this scene around traitor's daughter. When you watch the episode, listen out for the expressions meaning 'daughter' and 'traitor'. You'll catch them now. See you next time."
-CLOSING = ("herve", "Bonne journée!")
+OUTRO = "That's it for this scene around traitor's daughter. When you watch the episode, listen out for the expressions meaning 'daughter' and 'traitor'. You'll catch them now. See you next time!"
+CLOSING = ('herve', 'Bonne journée!')
 STORY = [
     ('lea', "Fille de traître, voilà ce qu'il pense.", 'Traitor', [(343, "Fille de traître, c'est ça qu'il aurait dû écrire.")], ''),
     ('noemie', 'Il faut parfois se salir les mains.', 'One must sometimes get one', [(345, 'faut savoir se salir les mains')], ''),

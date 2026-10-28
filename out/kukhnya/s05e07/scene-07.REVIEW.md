@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Есть идея провести в ресторане акцию «Месяц Прованса». | There is an idea to hold a 'Month of Provence' promotion in the restaurant. | #116 00:08:31: Есть идея провести в ресторане акцию «Месяц Прованса» | adapted: adapted |
-| 2 | Аня | Кто съест антрекот, может за него не платить. | Whoever eats the entrecote does not have to pay for it. | #117 00:08:36: Кто съест<br>#117 00:08:36: может за него не платить | adapted: adapted |
-| 3 | Михаил | Жаль только, что наш усатый генератор случайных идей не знает. | Too bad our moustached generator of random ideas does not know. | #119 00:08:45: Жаль только, что наш усатый генератор случайных идей не знает | adapted: adapted |
-| 4 | Михаил | Смысл любой акции в ресторане — это получить прибыль. | The point of any promotion in a restaurant is to make a profit. | #120 00:08:48: что смысл любой акции в ресторане – это получить прибыль | adapted: adapted |
-| 5 | Михаил | А не заниматься благотворительностью. | And not to engage in charity. | #121 00:08:51: а не заниматься благотворительностью | adapted: adapted |
+| 1 | Шеф | Есть идея провести в ресторане акцию «Месяц Прованса». | There is an idea to hold a 'Month of Provence' promotion in the restaurant. | #116 00:08:31: Есть идея провести в ресторане акцию «Месяц Прованса» | adapted: adapted |
+| 2 | Шеф | Кто съест антрекот, может за него не платить. | Whoever eats the entrecote does not have to pay for it. | #117 00:08:36: Кто съест<br>#117 00:08:36: может за него не платить | adapted: adapted |
+| 3 | Шеф | Жаль только, что наш усатый генератор случайных идей не знает. | Too bad our moustached generator of random ideas does not know. | #119 00:08:45: Жаль только, что наш усатый генератор случайных идей не знает | adapted: adapted |
+| 4 | Шеф | Смысл любой акции в ресторане — это получить прибыль. | The point of any promotion in a restaurant is to make a profit. | #120 00:08:48: что смысл любой акции в ресторане – это получить прибыль | adapted: adapted |
+| 5 | Шеф | А не заниматься благотворительностью. | And not to engage in charity. | #121 00:08:51: а не заниматься благотворительностью | adapted: adapted |
 | 6 | Элеонора | Витя, ну серьёзно, странная какая-то акция. | Vitya, seriously, it is some kind of strange promotion. | #122 00:08:53: Витя, ну серьезно, странная какая-то акция | adapted: adapted |
 | 7 | Элеонора | Люди будут съедать всё наше мясо бесплатно. | People will eat up all our meat for free. | #123 00:08:56: Люди будут съедать все наше мясо бесплатно | adapted: adapted |
-| 8 | Аня | А ты думаешь, так легко съесть два килограмма мяса? | Do you think it is so easy to eat two kilograms of meat? | #124 00:08:59: А ты думаешь, так легко съесть два килограмма мяса | adapted: adapted |
-| 9 | Аня | Давай поспорим. | Let us make a bet. | #125 00:09:02: Давай поспорим | adapted: adapted |
-| 10 | Михаил | Любишь проигрывать? | Do you like losing? | #127 00:09:07: Любишь проигрывать | adapted: adapted |
+| 8 | Шеф | А ты думаешь, так легко съесть два килограмма мяса? | Do you think it is so easy to eat two kilograms of meat? | #124 00:08:59: А ты думаешь, так легко съесть два килограмма мяса | adapted: adapted |
+| 9 | Шеф | Давай поспорим. | Let us make a bet. | #125 00:09:02: Давай поспорим | adapted: adapted |
+| 10 | Шеф | Любишь проигрывать? | Do you like losing? | #127 00:09:07: Любишь проигрывать | adapted: adapted |
 | 11 | Элеонора | Верни ключи и документы на машину. | Return the keys and the car documents. | #130 00:09:28: Верни ключи и документы на машину | adapted: adapted |
-| 12 | Аня | Вы выиграли возможность прокатиться с обаятельным поваром. | You have won the chance to go for a ride with a charming cook. | #132 00:09:33: вы выиграли возможность прокатиться с обаятельным поваром | adapted: adapted |
+| 12 | Шеф | Вы выиграли возможность прокатиться с обаятельным поваром. | You have won the chance to go for a ride with a charming cook. | #132 00:09:33: вы выиграли возможность прокатиться с обаятельным поваром | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

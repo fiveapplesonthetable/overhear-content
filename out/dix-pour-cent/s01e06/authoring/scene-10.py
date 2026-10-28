@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 10
-TITLE = "La menace de procès  (The Threat of a Lawsuit)"
-LEVEL = "A1 — débutant"
+TITLE = 'La menace de procès  (The Threat of a Lawsuit)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "camille": "emilie", "directeur": "theo"}
-LABELS = {"lea": "Andréa", "camille": "Camille", "directeur": "Le directeur"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie', 'directeur': 'theo'}
+LABELS = {'lea': 'Andréa', 'camille': 'Camille', 'directeur': 'Le directeur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "After François Berléand punches young theatre director Christophe Bel in a fury over the swimming pool staging, the theatre director threatens to sue ASK for cancelling the production. Andréa is terrified of a public scandal, while Camille suggests offering a commercial gesture. Let's listen to the scene in French first."
 OPENER = 'The theatre director is furious. Let us listen to each sentence again with explanations.'
 TRANSITION = 'Now listen to the full conversation once more at a natural pace.'
 OUTRO = "Hippolyte answers Camille's call, but when he asks if his father Mathias is at the office, he refuses to come in and suggests meeting Camille somewhere else instead. Here is our final takeaway line. See you next time!"
-CLOSING = ("directeur", "À demain!")
+CLOSING = ('directeur', 'À demain!')
 STORY = [
     ('directeur', 'Faites quelque chose.', 'Do something.', [(267, 'Faites quelque chose')], ''),
     ('directeur', "Sinon je vais devoir vous poursuivre, je n'ai pas le choix.", 'Otherwise I will have to sue you, I have no choice.', [(268, 'Sinon je vais devoir vous poursuivre'), (268, "je n'ai pas le choix")], ''),

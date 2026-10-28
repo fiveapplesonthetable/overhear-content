@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 35
-TITLE = "Un appel de Rio  (A Call from Rio)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un appel de Rio  (A Call from Rio)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "consul": "theo", "lea": "lucie", "mathias": "marcel"}
-LABELS = {"consul": "Le consul", "lea": "Andréa", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'consul': 'theo', 'lea': 'lucie', 'mathias': 'marcel'}
+LABELS = {'consul': 'Le consul', 'lea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Back at the office, the agents sit down for their meeting with Andréa, Mathias, Gabriel and Arlette around the table, and Gabriel walks in looking very pleased with himself. Then a call comes through from Rio, where Samuel is on holiday. As usual, the French comes first; just listen, and we'll go through it together afterwards."
 OPENER = "Let's walk through it gently. Gabriel arrives at the meeting, and Andréa notices his face straight away."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the end of the first episode, and of a very long first day at the agency. Take a breath, be proud of how much French you've heard, and I'll see you in episode two."
-CLOSING = ("lea", "Au revoir, Samuel.")
+OUTRO = "That's the end of the first episode, and of a very long first day at the agency. Take a breath, be proud of how much French you've heard. See you next time!"
+CLOSING = ('lea', 'Au revoir, Samuel.')
 STORY = [
     ('lea', "Gabriel, tu as l'air satisfait de toi.", 'Gabriel, you look pleased with yourself.', [(910, "Tu as l'air satisfait de toi")], ''),
     ('mathias', 'On a perdu un gros contrat.', 'We lost a big contract.', [(911, 'On a perdu un gros contrat')], ''),

@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 2
 SCENE = 24
 TITLE = "L'interruption de Bréhier  (Bréhier's Interruption)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "francois": "marcel", "lea": "lucie", "fabrice": "theo"}
-LABELS = {"francois": "François", "lea": "Andréa", "fabrice": "Fabrice"}
+VOICES = {'narrator': 'sky', 'francois': 'marcel', 'lea': 'lucie', 'fabrice': 'theo'}
+LABELS = {'francois': 'François', 'lea': 'Andréa', 'fabrice': 'Fabrice'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "Rival talent agent François Bréhier ambushes Andréa Martel and Fabrice Luchini at their dinner table. Hoping to steal Luchini back, Bréhier reveals that the coveted James Bond audition was an elaborate trick orchestrated by ASK. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
 OUTRO = 'François Bréhier exposes the James Bond audition ruse, leaving Fabrice thoroughly bewildered. Remember the forceful conversational French phrase for telling someone to back off: fiche-moi la paix. See you next time!'
-CLOSING = ("lea", "Bonne soirée!")
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('francois', 'Ne te laisse pas avoir, Fabrice!', 'Do not let yourself be fooled, Fabrice!', [(801, 'Ne te laisse pas avoir par elle')], ''),
     ('francois', 'Cette femme est très dangereuse.', 'This woman is very dangerous.', [(802, '-Elle est dangereuse')], ''),

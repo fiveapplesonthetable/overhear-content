@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Kostya, what is hard about it? Everything is hard!' The grammar packs 'Kostya' and 'difficultly' into a tight, idiomatic kitchen exchange. Eva answers right away.
 - 'I did not get it, is something going on with Katya?' Here the Russian phrasing highlights 'I' before landing on 'with Katya'.
-- 'You did not get it? What else do you need?' In Russian, the idea of 'you' flows naturally into 'need' without extra filler words.
+- 'You did not get it? What else do you need?' Max pairs 'understood' with 'need' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Pour orange juice into a glass for me quickly.' Spoken Russian keeps this brisk, leaning on 'juice' and finishing on 'pour'. Chef Barinov answers right away.
 - 'Senya, please take the food out to our dog.' Notice how Russian expresses 'Senya' and 'dog' with crisp inflection rather than helper words.
 - 'Viktoriya Sergeyevna said that we cannot go outside.' In Russian, the idea of 'after all' flows naturally into 'to go out' without extra filler words.

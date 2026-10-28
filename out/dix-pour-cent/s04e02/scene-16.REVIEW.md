@@ -27,5 +27,5 @@
 | 13 | `dylan` (Dylan) | Je ne pensais pas que tu savais. | I did not think that you knew. | 843:un orthophoniste |
 
 ## Part 5 — Outro & Closing
-> Franck Dubosc reveals that beneath his popular star persona, he shares the same deep insecurities as young Dylan. When you watch the episode, listen out for the expressions meaning 'sorry' and 'agent'. You'll catch them now. See you next time.
+> Franck Dubosc reveals that beneath his popular star persona, he shares the same deep insecurities as young Dylan. When you watch the episode, listen out for the expressions meaning 'sorry' and 'agent'. You'll catch them now. See you next time!
 - **Closing**: `franck`: *À demain!*

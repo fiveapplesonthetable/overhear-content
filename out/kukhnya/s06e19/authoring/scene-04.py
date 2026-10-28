@@ -1,29 +1,29 @@
 ID = 'kukhnya-s06e19-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 19
 SCENE = 4
-TITLE = 'Предложение сбежать вдвоём  (An Offer to Run Away Together)'
+TITLE = "Предложение сбежать вдвоём  (An Offer to Run Away Together)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'denis': 'anja'}
-LABELS = {'anya': 'Катя', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "denis": "anja", "katya": "angelina"}
+LABELS = {"denis": "Денис", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.19'
 SOURCE_FILE = 'sources/kukhnya/s06/e19.ru.srt'
 
 INTRO = "Denis uses a key from reception to enter Katya's room while she is still in her wedding dress. He apologizes for his harsh words the day before and begs her to run away with him to Paris, Milan, or Voronezh while there is still time."
 
 STORY = [
-    ('anya', 'Денис, как ты сюда попал?', 'Denis, how did you get in here?', [(52, 'как сюда попал')], 'adapted'),
+    ('katya', 'Денис, как ты сюда попал?', 'Denis, how did you get in here?', [(52, 'как сюда попал')], 'adapted'),
     ('denis', 'Я хотел с тобой поговорить.', 'I wanted to talk with you.', [(53, 'Я хотел с тобой поговорить')], 'adapted'),
-    ('anya', 'До свадьбы нельзя меня видеть.', 'Before the wedding you must not see me.', [(55, 'же нельзя смотреть')], 'adapted'),
+    ('katya', 'До свадьбы нельзя меня видеть.', 'Before the wedding you must not see me.', [(55, 'же нельзя смотреть')], 'adapted'),
     ('denis', 'Мне можно, я не жених.', 'I am allowed, I am not the groom.', [(56, 'Ты не жених')], 'adapted'),
     ('denis', 'Я пришёл попросить у тебя прощения.', 'I came to ask your forgiveness.', [(57, 'Пришел попросить прощения')], 'adapted'),
-    ('anya', 'Я на тебя не обижаюсь.', 'I am not angry with you.', [(60, 'Я не обижаюсь')], 'adapted'),
-    ('anya', 'Это всё уже в прошлом.', 'All of that is already in the past.', [(61, 'Все в прошлом')], 'adapted'),
+    ('katya', 'Я на тебя не обижаюсь.', 'I am not angry with you.', [(60, 'Я не обижаюсь')], 'adapted'),
+    ('katya', 'Это всё уже в прошлом.', 'All of that is already in the past.', [(61, 'Все в прошлом')], 'adapted'),
     ('denis', 'Давай сегодня уедем отсюда вдвоём.', 'Let us leave here together today.', [(64, 'Давай уедем'), (65, 'Вдвоем')], 'adapted'),
     ('denis', 'Мы начнём нашу жизнь сначала.', 'We will start our life over.', [(66, 'Начнем все сначала')], 'adapted'),
-    ('anya', 'И куда же мы поедем?', 'And where will we go?', [(67, 'Куда мы поедем')], 'adapted'),
+    ('katya', 'И куда же мы поедем?', 'And where will we go?', [(67, 'Куда мы поедем')], 'adapted'),
     ('denis', 'Да куда угодно, выбирай сама.', 'Anywhere at all, choose for yourself.', [(67, 'Да куда угодно'), (69, 'Выбирай')], 'adapted'),
     ('denis', 'Поверь, сейчас ещё не поздно.', 'Believe me, right now it is not too late.', [(71, 'Еще ведь не поздно')], 'adapted'),
 ]
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Torn between love and duty to her family, Katya gives Denis her answer while Chef Barinov gathers his cooks downstairs. See you in the next scene.'
-CLOSING = ('denis', 'Нет, я говорю серьёзно.')
+OUTRO = 'Torn between love and duty to her family, Katya gives Denis her answer while Chef Barinov gathers his cooks downstairs. See you next time!'
+CLOSING = ("denis", "До свидания!")

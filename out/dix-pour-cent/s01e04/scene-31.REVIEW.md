@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | Super, Mathias! Tu as fait quelque chose de formidable. Bravo! | Great, Mathias! You did something wonderful. Bravo! | 835:Super, Mathias, 836:Tu as fait quelque chose de formidable, 837:Bravo |
 
 ## Part 5 — Outro & Closing
-> Mathias wanted to leave ASK in secret, and instead his leak scared away the German buyer and made him look like a hero. In the final scene of the episode, the whole agency gathers with champagne to toast him. Join us next time to see what happens next.
+> Mathias wanted to leave ASK in secret, and instead his leak scared away the German buyer and made him look like a hero. See you next time!
 - **Closing**: `arlette`: *Au revoir!*

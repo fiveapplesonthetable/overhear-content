@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 32
-TITLE = "Arlette secoue Gabriel  (Arlette Shakes Gabriel Up)"
-LEVEL = "A1 — débutant"
+TITLE = 'Arlette secoue Gabriel  (Arlette Shakes Gabriel Up)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "arlette": "emilie"}
-LABELS = {"gabriel": "Gabriel", "arlette": "Arlette"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'arlette': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "So he's lying on the sofa in Arlette's office, on a hot afternoon, looking at pictures of a young unknown actress. Arlette, the oldest and sharpest agent in the building, walks in and is not impressed. Listen to it in French first. It's fine to understand only bits of it for now. Let's listen to the scene in French first."
 OPENER = "Let's go through it together. Arlette comes in, looks at Gabriel stretched out on her sofa, and asks the obvious question."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Well done, that was a quick and witty exchange. Listen for the 'not anymore' and the 'nothing' when you watch, and See you next time!"
-CLOSING = ("arlette", "Bonne journée!")
+OUTRO = "Well done, that was a quick and witty exchange. Listen for the 'not anymore' and the 'nothing' when you watch. See you next time!"
+CLOSING = ('arlette', 'Bonne journée!')
 STORY = [
     ('arlette', 'Il fait chaud. Vous faites quoi?', "It's hot. What are you doing?", [(823, 'Il fait chaud'), (823, 'Vous faites quoi')], ''),
     ('gabriel', 'Je travaille.', 'I', [(823, 'Je travaille')], ''),

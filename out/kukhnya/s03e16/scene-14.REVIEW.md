@@ -17,11 +17,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Аня | Ну, почти понял, сейчас принесу свежий тимьян! | Well, I almost got it, I will bring fresh thyme right now! | #245 00:15:46: Ну, почти. Тащи тимьян | adapted: adapted |
 | 6 | Аня | Смотри на экран, тебе ещё не страшно? | Look at the screen, are you not scared yet? | #249 00:15:57: Страшно | adapted: adapted |
 | 7 | Аня | Да не верю я в этих призраков! | I do not believe in those ghosts! | #250 00:15:59: Да не верю | adapted: adapted |
-| 8 | Нагиев | Что-то мне совсем не везёт сегодня в карты. | Somehow I am having no luck at all in cards tonight. | #251 00:16:04: Не везет<br>#251 00:16:04: в карты | adapted: adapted |
-| 9 | Нагиев | Зато мне в любви очень повезло, да, зайка? | On the other hand, I got very lucky in love, right, sweetheart? | #252 00:16:06: Зато в любви повезло<br>#253 00:16:08: Да, зайка | adapted: adapted |
+| 8 | Катя | Что-то мне совсем не везёт сегодня в карты. | Somehow I am having no luck at all in cards tonight. | #251 00:16:04: Не везет<br>#251 00:16:04: в карты | adapted: adapted |
+| 9 | Катя | Зато мне в любви очень повезло, да, зайка? | On the other hand, I got very lucky in love, right, sweetheart? | #252 00:16:06: Зато в любви повезло<br>#253 00:16:08: Да, зайка | adapted: adapted |
 | 10 | Катя | Дима, такими темпами ты скоро без ресторана останешься! | Dima, at this rate you will soon be left without a restaurant! | #254 00:16:10: такими темпами<br>#255 00:16:12: ты скоро из<br>#255 00:16:12: ресторана | adapted: adapted |
-| 11 | Нагиев | Сейчас я ещё немного выпью и расслаблюсь. | Right now I will drink a little more and relax. | #256 00:16:16: Сейчас я выпью, расслаблюсь | adapted: adapted |
-| 12 | Нагиев | Вот увидишь, скоро мне обязательно повезёт! | You will see, soon my luck will definitely turn! | #258 00:16:20: И попрет | adapted: adapted |
+| 11 | Катя | Сейчас я ещё немного выпью и расслаблюсь. | Right now I will drink a little more and relax. | #256 00:16:16: Сейчас я выпью, расслаблюсь | adapted: adapted |
+| 12 | Катя | Вот увидишь, скоро мне обязательно повезёт! | You will see, soon my luck will definitely turn! | #258 00:16:20: И попрет | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Somehow I am having no luck at all in cards tonight.' Notice how Russian expresses 'something' and 'cards' with crisp inflection rather than helper words.
 - 'On the other hand, I got very lucky in love, right, sweetheart?' Here the Russian phrasing highlights 'on the other hand' before landing on 'bunny'.
 - 'Dima, at this rate you will soon be left without a restaurant!' Spoken Russian keeps this brisk, leaning on 'Dima' and finishing on 'will stay'.
-- 'Right now I will drink a little more and relax.' Notice the reflexive suffix on the verb meaning 'will relax', turning the action back on the subject.
+- 'Right now I will drink a little more and relax.' Nagiyev pairs 'now' with 'will relax' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'You will see, soon my luck will definitely turn!' Dmitry Nagiyev brings out the contrast between 'here' and 'see' in a few short words.

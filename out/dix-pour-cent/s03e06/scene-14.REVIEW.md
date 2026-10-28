@@ -27,5 +27,5 @@
 | 13 | `realisateur` (Le réalisateur) | D'accord, c'est bon pour moi! | Agreed, it is good for me! | 623:Je reviens du royaume |
 
 ## Part 5 — Outro & Closing
-> Gabriel successfully saves the tricky scene despite the director's complaints about ambient noise. When you watch the episode, listen out for the expressions meaning 'silence' and 'begins'. You'll catch them now. See you next time.
+> Gabriel successfully saves the tricky scene despite the director's complaints about ambient noise. When you watch the episode, listen out for the expressions meaning 'silence' and 'begins'. You'll catch them now. See you next time!
 - **Closing**: `realisateur`: *Bonne soirée!*

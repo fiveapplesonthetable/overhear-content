@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Мой сын повар с хорошей зарплатой. | My son is a chef with a good salary. | #81 00:06:23: повар с хорошей зарплатой | adapted: adapted |
-| 2 | Лёва | А ещё он моя главная опора. | And he is also my main support. | #82 00:06:26: моя опора | adapted: adapted |
+| 1 | Катя | Мой сын повар с хорошей зарплатой. | My son is a chef with a good salary. | #81 00:06:23: повар с хорошей зарплатой | adapted: adapted |
+| 2 | Катя | А ещё он моя главная опора. | And he is also my main support. | #82 00:06:26: моя опора | adapted: adapted |
 | 3 | Денис | Почему мы сегодня оба такие стеснительные? | Why are we both so shy today? | #83 00:06:28: такие стеснительные | adapted: adapted |
-| 4 | Лёва | Я вас оставлю на несколько минут. | I will leave you for a few minutes. | #84 00:06:30: Я вас оставлю на несколько минут | adapted: adapted |
-| 5 | Аня | Прости, мы тут случайно бокал разбили. | Sorry, we accidentally broke a glass here. | #86 00:06:39: Прости, мы тут бокал разбили | adapted: adapted |
+| 4 | Катя | Я вас оставлю на несколько минут. | I will leave you for a few minutes. | #84 00:06:30: Я вас оставлю на несколько минут | adapted: adapted |
+| 5 | Катя | Прости, мы тут случайно бокал разбили. | Sorry, we accidentally broke a glass here. | #86 00:06:39: Прости, мы тут бокал разбили | adapted: adapted |
 | 6 | Денис | Ничего страшного, мы сейчас всё уберём. | No big deal, we will clean everything up right now. | #87 00:06:41: Ничего страшного, мы сейчас уберём | adapted: adapted |
-| 7 | Аня | Пять минут, я сейчас очень быстро. | Five minutes, I will be very quick right now. | #89 00:07:01: Пять минут, я быстро | adapted: adapted |
+| 7 | Катя | Пять минут, я сейчас очень быстро. | Five minutes, I will be very quick right now. | #89 00:07:01: Пять минут, я быстро | adapted: adapted |
 | 8 | Денис | Катя, подожди здесь хотя бы минуту. | Katya, wait here for at least a minute. | #89 00:07:01: Подожди | adapted: adapted |
-| 9 | Аня | Я пока спокойно поработаю за ноутбуком. | Meanwhile I will work quietly on the laptop. | #90 00:07:03: поработай за твоим ноутбуком | adapted: adapted |
+| 9 | Катя | Я пока спокойно поработаю за ноутбуком. | Meanwhile I will work quietly on the laptop. | #90 00:07:03: поработай за твоим ноутбуком | adapted: adapted |
 | 10 | Денис | Катя, мы так нормально не поговорили. | Katya, we still have not talked properly. | #91 00:07:05: Катя, мы до сих пор так нормально не поговорили | adapted: adapted |
-| 11 | Аня | Денис, пожалуйста, только снова не начинай. | Denis, please, just do not start again. | #92 00:07:09: не начинай | adapted: adapted |
+| 11 | Катя | Денис, пожалуйста, только снова не начинай. | Denis, please, just do not start again. | #92 00:07:09: не начинай | adapted: adapted |
 | 12 | Денис | Я прошу, позволь мне сейчас извиниться. | I beg you, allow me to apologize right now. | #92 00:07:09: Я прошу, позволь мне извиниться | adapted: adapted |
-| 13 | Аня | Я не хочу говорить на эту тему. | I do not want to talk about this topic. | #93 00:07:12: Я не хочу говорить на эту тему | adapted: adapted |
+| 13 | Катя | Я не хочу говорить на эту тему. | I do not want to talk about this topic. | #93 00:07:12: Я не хочу говорить на эту тему | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

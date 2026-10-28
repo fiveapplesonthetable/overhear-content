@@ -11,12 +11,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Вика | А где сегодня Виктор Петрович? | And where is Victor Petrovich today? | #69 00:05:08: где Виктор Петрович | adapted: adapted |
-| 2 | Катя | А он ещё не приходил. | He has not arrived yet. | #70 00:05:10: А он не приходил еще | adapted: adapted |
+| 2 | Вика | А он ещё не приходил. | He has not arrived yet. | #70 00:05:10: А он не приходил еще | adapted: adapted |
 | 3 | Вика | Его уже два часа нет. | He has been gone for two hours already. | #72 00:05:17: Два часа его еще нет | adapted: adapted |
 | 4 | Вика | Катя, принеси, пожалуйста, свой диплом. | Katya, please bring your diploma. | #73 00:05:20: Катя, кстати, принеси, пожалуйста, свой диплом | adapted: adapted |
 | 5 | Вика | Я должна тебя официально оформить. | I have to register you officially. | #74 00:05:25: Я должна тебя оформить | adapted: adapted |
-| 6 | Катя | Хорошо, я ещё вещи не разобрала. | Alright, I have not unpacked my things yet. | #74 00:05:25: Хорошо<br>#75 00:05:27: Я еще не все вещи разобрала | adapted: adapted |
-| 7 | Катя | Как только найду, сразу принесу. | As soon as I find it, I will bring it right away. | #76 00:05:29: Как найду, принесу | adapted: adapted |
+| 6 | Вика | Хорошо, я ещё вещи не разобрала. | Alright, I have not unpacked my things yet. | #74 00:05:25: Хорошо<br>#75 00:05:27: Я еще не все вещи разобрала | adapted: adapted |
+| 7 | Вика | Как только найду, сразу принесу. | As soon as I find it, I will bring it right away. | #76 00:05:29: Как найду, принесу | adapted: adapted |
 | 8 | Аня | Добрый день, уважаемый шеф! | Good afternoon, respected Chef! | #78 00:05:39: Добрый день, шеф | adapted: adapted |
 | 9 | Аня | Да нет, шеф, я не могу. | Oh no, Chef, I cannot do that. | #79 00:05:42: Да нет, шеф, я не могу | adapted: adapted |
 | 10 | Аня | Ладно, добрый день всем на кухне! | Alright, good afternoon to everyone in the kitchen! | #81 00:05:49: Добрый день, шеф | adapted: adapted |

@@ -1,22 +1,22 @@
 ID = 'kukhnya-s06e14-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 14
 SCENE = 3
-TITLE = 'Подозрительное мясо  (Suspicious Meat)'
+TITLE = "Подозрительное мясо  (Suspicious Meat)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
+LABELS = {"fedya": "Федя", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.14'
 SOURCE_FILE = 'sources/kukhnya/s06/e14.ru.srt'
 
 INTRO = "Chef Barinov hands the Korean guest's meat to Senya to roast for lunch, and Senya immediately cuts off a piece to steal for his own dinner. Fedya teases him that since the guests are from Korea, the meat might actually be dog meat."
 
 STORY = [
-    ('anya', 'Мы приготовим всё в лучшем виде.', 'We will prepare everything in the best possible way.', [(31, 'Приготовим все в лучшем виде')], 'adapted'),
+    ('fedya', 'Мы приготовим всё в лучшем виде.', 'We will prepare everything in the best possible way.', [(31, 'Приготовим все в лучшем виде')], 'adapted'),
     ('senya', 'Да, шеф, я внимательно вас слушаю.', 'Yes, chef, I am listening to you attentively.', [(32, 'Сеня. Да, да, шеф')], 'adapted'),
-    ('anya', 'Приготовь сегодня на обед сочные стейки.', 'Prepare juicy steaks for lunch today.', [(33, 'Приготовь на обед')], 'adapted'),
+    ('fedya', 'Приготовь сегодня на обед сочные стейки.', 'Prepare juicy steaks for lunch today.', [(33, 'Приготовь на обед')], 'adapted'),
     ('senya', 'Не волнуйтесь, всё скоро будет сделано.', 'Do not worry, everything will be done soon.', [(34, 'Будь сделано')], 'adapted'),
     ('senya', 'А у нас сегодня отличный ужин.', 'And we have a great dinner tonight.', [(35, 'на ужин')], 'adapted'),
     ('fedya', 'Посмотри, какой большой кусок хорошего мяса.', 'Look what a big piece of good meat.', [(36, 'стейк')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "To test Fedya's theory, Senya tosses a piece of the raw meat to the stray dog named Eleonora Andreyevna. See you in the next scene."
-CLOSING = ('anya', 'Приготовь на обед стейки.')
+OUTRO = "To test Fedya's theory, Senya tosses a piece of the raw meat to the stray dog named Eleonora Andreyevna. Until next time!"
+CLOSING = ("fedya", "Пока!")

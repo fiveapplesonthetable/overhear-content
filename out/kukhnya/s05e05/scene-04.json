@@ -1,350 +1,348 @@
 {
-  "schemaVersion": 1,
-  "id": "kukhnya-s05e05-scene-04",
-  "pair": "ru-en",
-  "title": "Выдуманная тайна Дениса  (Denis's Invented Secret)",
-  "level": "A1 — Duolingo Section 2",
-  "voices": {
-    "narrator": "sky",
-    "anya": "alisa",
-    "denis": "anja",
-    "nastya": "angelina"
+ "schemaVersion": 1,
+ "id": "kukhnya-s05e05-scene-04",
+ "pair": "ru-en",
+ "show": "kukhnya",
+ "season": 5,
+ "episode": 5,
+ "scene": 4,
+ "title": "Выдуманная тайна Дениса  (Denis's Invented Secret)",
+ "level": "A1 — Duolingo Section 2",
+ "voices": {
+  "narrator": "sky",
+  "kostya": "anja",
+  "nastya": "angelina"
+ },
+ "labels": {
+  "kostya": "Костя",
+  "nastya": "Настя"
+ },
+ "segments": [
+  {
+   "v": "narrator",
+   "t": "At the bar counter, Denis confides in Kostya that he and Katya have broken up over a secret he cannot tell her. When Nastya demands to know what happened, Kostya panics and makes up a sympathetic story about a daughter in Voronezh.",
+   "gap": 0.8
   },
-  "labels": {
-    "anya": "Костя",
-    "denis": "Денис",
-    "nastya": "Настя"
+  {
+   "v": "kostya",
+   "t": "Что случилось?",
+   "gap": 0.55
   },
-  "segments": [
-    {
-      "v": "narrator",
-      "t": "At the bar counter, Denis confides in Kostya that he and Katya have broken up over a secret he cannot tell her. When Nastya demands to know what happened, Kostya panics and makes up a sympathetic story about a daughter in Voronezh.",
-      "gap": 0.8
-    },
-    {
-      "v": "anya",
-      "t": "Что случилось?",
-      "gap": 0.55
-    },
-    {
-      "v": "denis",
-      "t": "Мы с Катей расстались.",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "Крепись, старик.",
-      "gap": 0.55
-    },
-    {
-      "v": "denis",
-      "t": "Кате всё равно правду не расскажешь.",
-      "gap": 0.55
-    },
-    {
-      "v": "nastya",
-      "t": "Это какую правду Кате не расскажешь?",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "Настя, ну я не могу тебе рассказать.",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "У Дэна в Воронеже есть семья.",
-      "gap": 0.55
-    },
-    {
-      "v": "nastya",
-      "t": "Дэн женат?",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "Жена от него ушла.",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "Оставила его одного с дочкой.",
-      "gap": 0.55
-    },
-    {
-      "v": "nastya",
-      "t": "А где же сейчас дочка?",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "У бабушки с дедушкой.",
-      "gap": 0.9
-    },
-    {
-      "v": "narrator",
-      "t": "Now let's go back through their conversation line by line and unpack the Russian phrasing.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Что случилось?",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'What happened?' The grammar packs 'what' and 'happened' into a tight, idiomatic kitchen exchange.",
-      "gap": 0.4
-    },
-    {
-      "v": "denis",
-      "t": "Мы с Катей расстались.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Katya and I broke up.' Denis anchors the line on 'we', while 'broke up' completes the thought.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Крепись, старик.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Stay strong, buddy.' Spoken Russian keeps this brisk, leaning on 'stay strong' and finishing on 'old man'. Denis answers right away.",
-      "gap": 0.4
-    },
-    {
-      "v": "denis",
-      "t": "Кате всё равно правду не расскажешь.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'You cannot tell Katya the truth anyway.' Denis anchors the line on 'proper name', while 'you will tell' completes the thought.",
-      "gap": 0.4
-    },
-    {
-      "v": "nastya",
-      "t": "Это какую правду Кате не расскажешь?",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'What truth can you not tell Katya?' The grammar packs 'this' and 'you will tell' into a tight, idiomatic kitchen exchange.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Настя, ну я не могу тебе рассказать.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Nastya, well I cannot tell you.' Kostya anchors the line on 'Nastya', while 'to tell' completes the thought.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "У Дэна в Воронеже есть семья.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Den has a family in Voronezh.' Notice how Russian expresses 'at' and 'family' with crisp inflection rather than helper words.",
-      "gap": 0.4
-    },
-    {
-      "v": "nastya",
-      "t": "Дэн женат?",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Is Den married?' The meaning hinges on 'Den' working together with 'married' in spoken Russian.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Жена от него ушла.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'His wife left him.' The '-a' ending on the past-tense verb for 'left' marks a female speaker or subject.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Оставила его одного с дочкой.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'She left him alone with a daughter.' Kostya brings out the contrast between 'to leave' and 'his' in a few short words.",
-      "gap": 0.4
-    },
-    {
-      "v": "nastya",
-      "t": "А где же сейчас дочка?",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'And where is the daughter right now?' In Russian, the idea of 'and' flows naturally into 'daughter' without extra filler words.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "У бабушки с дедушкой.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'With her grandmother and grandfather.' The meaning hinges on 'at' working together with 'grandfather' in spoken Russian. Alright, let's hear the entire conversation one more time from start to finish.",
-      "gap": 0.9
-    },
-    {
-      "v": "anya",
-      "t": "Что случилось?",
-      "gap": 0.5
-    },
-    {
-      "v": "denis",
-      "t": "Мы с Катей расстались.",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Крепись, старик.",
-      "gap": 0.5
-    },
-    {
-      "v": "denis",
-      "t": "Кате всё равно правду не расскажешь.",
-      "gap": 0.5
-    },
-    {
-      "v": "nastya",
-      "t": "Это какую правду Кате не расскажешь?",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Настя, ну я не могу тебе рассказать.",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "У Дэна в Воронеже есть семья.",
-      "gap": 0.5
-    },
-    {
-      "v": "nastya",
-      "t": "Дэн женат?",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Жена от него ушла.",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Оставила его одного с дочкой.",
-      "gap": 0.5
-    },
-    {
-      "v": "nastya",
-      "t": "А где же сейчас дочка?",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "У бабушки с дедушкой.",
-      "gap": 0.9
-    },
-    {
-      "v": "narrator",
-      "t": "Moved to tears by the story of Denis's poor little daughter, Nastya promises Kostya she will not breathe a word to anyone. See you in the next scene.",
-      "gap": 0.5
-    },
-    {
-      "v": "nastya",
-      "t": "Бедная девочка, вот беда.",
-      "gap": 0.3
-    }
-  ],
-  "source": {
-    "show": "Кухня (Kukhnya) S5.05",
-    "file": "sources/kukhnya/s05/e05.ru.srt",
-    "lines": [
-      {
-        "line": 0,
-        "cue": 58,
-        "fragment": "случилось"
-      },
-      {
-        "line": 1,
-        "cue": 59,
-        "fragment": "Мы с Катей расстались"
-      },
-      {
-        "line": 2,
-        "cue": 60,
-        "fragment": "Крепись, старик"
-      },
-      {
-        "line": 3,
-        "cue": 62,
-        "fragment": "Кате все равно правду не расскажешь"
-      },
-      {
-        "line": 4,
-        "cue": 63,
-        "fragment": "Это какую правду Кате не расскажешь"
-      },
-      {
-        "line": 5,
-        "cue": 66,
-        "fragment": "Настя, ну я не могу тебе рассказать"
-      },
-      {
-        "line": 6,
-        "cue": 69,
-        "fragment": "Дэна в Воронеже есть семья"
-      },
-      {
-        "line": 7,
-        "cue": 70,
-        "fragment": "Дэн женат"
-      },
-      {
-        "line": 8,
-        "cue": 73,
-        "fragment": "Жена от него ушла"
-      },
-      {
-        "line": 9,
-        "cue": 74,
-        "fragment": "оставила его одного с дочкой"
-      },
-      {
-        "line": 10,
-        "cue": 78,
-        "fragment": "А где же сейчас дочка"
-      },
-      {
-        "line": 11,
-        "cue": 79,
-        "fragment": "У бабушки с дедушкой"
-      }
-    ]
+  {
+   "v": "kostya",
+   "t": "Мы с Катей расстались.",
+   "gap": 0.55
   },
-  "show": "kukhnya",
-  "season": 5,
-  "episode": 5,
-  "scene": 4
+  {
+   "v": "kostya",
+   "t": "Крепись, старик.",
+   "gap": 0.55
+  },
+  {
+   "v": "kostya",
+   "t": "Кате всё равно правду не расскажешь.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Это какую правду Кате не расскажешь?",
+   "gap": 0.55
+  },
+  {
+   "v": "kostya",
+   "t": "Настя, ну я не могу тебе рассказать.",
+   "gap": 0.55
+  },
+  {
+   "v": "kostya",
+   "t": "У Дэна в Воронеже есть семья.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "Дэн женат?",
+   "gap": 0.55
+  },
+  {
+   "v": "kostya",
+   "t": "Жена от него ушла.",
+   "gap": 0.55
+  },
+  {
+   "v": "kostya",
+   "t": "Оставила его одного с дочкой.",
+   "gap": 0.55
+  },
+  {
+   "v": "nastya",
+   "t": "А где же сейчас дочка?",
+   "gap": 0.55
+  },
+  {
+   "v": "kostya",
+   "t": "У бабушки с дедушкой.",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Now let's go back through their conversation line by line and unpack the Russian phrasing.",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "Что случилось?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'What happened?' The grammar packs 'what' and 'happened' into a tight, idiomatic kitchen exchange.",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "Мы с Катей расстались.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Katya and I broke up.' Denis anchors the line on 'we', while 'broke up' completes the thought.",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "Крепись, старик.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Stay strong, buddy.' Spoken Russian keeps this brisk, leaning on 'stay strong' and finishing on 'old man'. Denis answers right away.",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "Кате всё равно правду не расскажешь.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'You cannot tell Katya the truth anyway.' Denis anchors the line on 'proper name', while 'you will tell' completes the thought.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Это какую правду Кате не расскажешь?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'What truth can you not tell Katya?' The grammar packs 'this' and 'you will tell' into a tight, idiomatic kitchen exchange.",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "Настя, ну я не могу тебе рассказать.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Nastya, well I cannot tell you.' Kostya anchors the line on 'Nastya', while 'to tell' completes the thought.",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "У Дэна в Воронеже есть семья.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Den has a family in Voronezh.' Notice how Russian expresses 'at' and 'family' with crisp inflection rather than helper words.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "Дэн женат?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Is Den married?' The meaning hinges on 'Den' working together with 'married' in spoken Russian.",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "Жена от него ушла.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'His wife left him.' The '-a' ending on the past-tense verb for 'left' marks a female speaker or subject.",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "Оставила его одного с дочкой.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'She left him alone with a daughter.' Kostya brings out the contrast between 'to leave' and 'his' in a few short words.",
+   "gap": 0.4
+  },
+  {
+   "v": "nastya",
+   "t": "А где же сейчас дочка?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'And where is the daughter right now?' In Russian, the idea of 'and' flows naturally into 'daughter' without extra filler words.",
+   "gap": 0.4
+  },
+  {
+   "v": "kostya",
+   "t": "У бабушки с дедушкой.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'With her grandmother and grandfather.' The meaning hinges on 'at' working together with 'grandfather' in spoken Russian. Alright, let's hear the entire conversation one more time from start to finish.",
+   "gap": 0.9
+  },
+  {
+   "v": "kostya",
+   "t": "Что случилось?",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "Мы с Катей расстались.",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "Крепись, старик.",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "Кате всё равно правду не расскажешь.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Это какую правду Кате не расскажешь?",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "Настя, ну я не могу тебе рассказать.",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "У Дэна в Воронеже есть семья.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Дэн женат?",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "Жена от него ушла.",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "Оставила его одного с дочкой.",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "А где же сейчас дочка?",
+   "gap": 0.5
+  },
+  {
+   "v": "kostya",
+   "t": "У бабушки с дедушкой.",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Moved to tears by the story of Denis's poor little daughter, Nastya promises Kostya she will not breathe a word to anyone. See you next time!",
+   "gap": 0.5
+  },
+  {
+   "v": "nastya",
+   "t": "Хорошего дня!",
+   "gap": 0.3
+  }
+ ],
+ "source": {
+  "show": "Кухня (Kukhnya) S5.05",
+  "file": "sources/kukhnya/s05/e05.ru.srt",
+  "lines": [
+   {
+    "line": 0,
+    "cue": 58,
+    "fragment": "случилось"
+   },
+   {
+    "line": 1,
+    "cue": 59,
+    "fragment": "Мы с Катей расстались"
+   },
+   {
+    "line": 2,
+    "cue": 60,
+    "fragment": "Крепись, старик"
+   },
+   {
+    "line": 3,
+    "cue": 62,
+    "fragment": "Кате все равно правду не расскажешь"
+   },
+   {
+    "line": 4,
+    "cue": 63,
+    "fragment": "Это какую правду Кате не расскажешь"
+   },
+   {
+    "line": 5,
+    "cue": 66,
+    "fragment": "Настя, ну я не могу тебе рассказать"
+   },
+   {
+    "line": 6,
+    "cue": 69,
+    "fragment": "Дэна в Воронеже есть семья"
+   },
+   {
+    "line": 7,
+    "cue": 70,
+    "fragment": "Дэн женат"
+   },
+   {
+    "line": 8,
+    "cue": 73,
+    "fragment": "Жена от него ушла"
+   },
+   {
+    "line": 9,
+    "cue": 74,
+    "fragment": "оставила его одного с дочкой"
+   },
+   {
+    "line": 10,
+    "cue": 78,
+    "fragment": "А где же сейчас дочка"
+   },
+   {
+    "line": 11,
+    "cue": 79,
+    "fragment": "У бабушки с дедушкой"
+   }
+  ]
+ }
 }

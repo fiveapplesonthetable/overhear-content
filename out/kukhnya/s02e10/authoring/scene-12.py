@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e10-scene-12"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e10-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 10
 SCENE = 12
-TITLE = 'Сбор денег для спасения Лёвы  (Pooling Money to Save Lyova)'
+TITLE = "Сбор денег для спасения Лёвы  (Pooling Money to Save Lyova)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja'}
-LABELS = {'anya': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.10"
-SOURCE_FILE = "sources/kukhnya/s02/e10.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.10'
+SOURCE_FILE = 'sources/kukhnya/s02/e10.ru.srt'
 
 INTRO = 'After the collector warns that he expects the hundred thousand tomorrow or else, a terrified Lyova panics because the real Chef is in the hospital and cannot pay. Rallying around the sous-chef, the kitchen crew decides to pool their own savings together to cover the debt.'
 
 STORY = [
-    ('anya', 'Чтобы сто тысяч завтра у меня были.', 'Make sure I have the hundred thousand tomorrow.', [(185, 'Чтобы сто тысяч завтра у меня были')], ''),
+    ('chef', 'Чтобы сто тысяч завтра у меня были.', 'Make sure I have the hundred thousand tomorrow.', [(185, 'Чтобы сто тысяч завтра у меня были')], ''),
     ('lyova', 'Иначе разговаривать будем по-другому.', 'Otherwise we will be having a very different conversation.', [(186, 'иначе разговаривать будем по-другому')], ''),
-    ('anya', 'Ну что ты так волнуешься?', 'Why are you worrying so much?', [(187, 'Ну что ты так волнуешься')], ''),
+    ('chef', 'Ну что ты так волнуешься?', 'Why are you worrying so much?', [(187, 'Ну что ты так волнуешься')], ''),
     ('lyova', 'Не ты же занимал.', 'You are not the one who borrowed it.', [(188, 'Не ты же занимал')], ''),
-    ('anya', 'Ага, занимал не я.', 'Yeah, right, I was not the one who borrowed it.', [(189, 'Ага, занимал не я')], ''),
+    ('chef', 'Ага, занимал не я.', 'Yeah, right, I was not the one who borrowed it.', [(189, 'Ага, занимал не я')], ''),
     ('lyova', 'Шеф-то в больнице с него что возьмешь?', 'The Chef is in the hospital, what can you get from him now?', [(190, 'Шеф-то в больнице с него что возьмешь')], ''),
-    ('anya', 'Да что ты разволновался?', 'Why are you getting so worked up?', [(191, 'Да что ты разволновался')], ''),
+    ('chef', 'Да что ты разволновался?', 'Why are you getting so worked up?', [(191, 'Да что ты разволновался')], ''),
     ('lyova', 'Ой, а я за.', 'Oh, I am in.', [(193, 'Ой, а я за')], ''),
-    ('anya', 'Вот, вот, десять тысяч.', 'Here, take ten thousand.', [(194, 'Вот, вот, десять тысяч')], ''),
+    ('chef', 'Вот, вот, десять тысяч.', 'Here, take ten thousand.', [(194, 'Вот, вот, десять тысяч')], ''),
     ('lyova', 'Что вы мне так смотрите?', 'Why are you all looking at me like that?', [(195, 'Что вы мне так смотрите')], ''),
-    ('anya', 'Мне шеф десять тысяч должен.', 'The Chef already owes me ten thousand.', [(196, 'Мне шеф десять тысяч должен')], ''),
+    ('chef', 'Мне шеф десять тысяч должен.', 'The Chef already owes me ten thousand.', [(196, 'Мне шеф десять тысяч должен')], ''),
     ('lyova', 'Так что я еще больше, чем ты положил.', 'So I have actually put in even more than you did.', [(197, 'Так что я еще больше, чем ты положил')], ''),
-    ('anya', 'Ладно, вот.', 'All right, here you go.', [(198, 'Ладно, вот')], ''),
+    ('chef', 'Ладно, вот.', 'All right, here you go.', [(198, 'Ладно, вот')], ''),
 ]
 
 OPENER = "Alright, let's go through it step by step in English."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 12 of Episode 10, listen out for the exchange around pooling money to save lyova — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Ладно, вот.')
+OUTRO = "That wraps up this scene as terrified after the debt collector threatens him, Lyova panics in the kitchen until the cooks agree to chip in ten thousand rubles each to cover the Chef's debt. See you next time!"
+CLOSING = ("chef", "Увидимся!")

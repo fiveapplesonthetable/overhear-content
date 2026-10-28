@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Думаю, шейх нас простит. | I think the sheikh will forgive us. | #201 00:21:49: Думаю, шейх нас простит | adapted: adapted |
+| 1 | Михаил | Думаю, шейх нас простит. | I think the sheikh will forgive us. | #201 00:21:49: Думаю, шейх нас простит | adapted: adapted |
 | 2 | Аня | По-любому простит. | He will definitely forgive us. | #202 00:21:53: По-любому | adapted: adapted |
 | 3 | Михаил | Имейте в виду, за этот инцидент вы ответите лично. | Keep in mind, you will answer for this incident personally. | #206 00:22:19: Имейте в виду, за этот инцидент вы ответите лично | adapted: adapted |
 | 4 | Михаил | Виктория, может, вам в декрет пора? | Victoria, maybe it is time for you to go on maternity leave? | #207 00:22:22: Виктория, может, вам в декрет пора | adapted: adapted |
@@ -18,9 +18,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Михаил | Чисти картошку, мальчик, ты хоть знаешь, кто я? | Peel potatoes, boy, do you even know who I am? | #209 00:22:27: чисти картошку<br>#211 00:22:33: Мальчик, ты хоть знаешь, кто я | adapted: adapted |
 | 7 | Аня | Я никуда не пойду, пока ты не извинишься перед Викой. | I am not going anywhere until you apologize to Vika. | #210 00:22:30: Я никуда не пойду, пока ты не извинишься перед Викой | adapted: adapted |
 | 8 | Михаил | Ты уволен! | You are fired! | #212 00:22:35: Уволен | adapted: adapted |
-| 9 | Шеф | Джекович, иди-ка ты в свой отель, весь ресторан уже достал. | Dzhekovich, go back to your hotel, you have fed up the whole restaurant already. | #212 00:22:35: Джекович, иди-ка ты в свой отель<br>#213 00:22:40: Весь ресторан уже сегодня достал | adapted: adapted |
+| 9 | Михаил | Джекович, иди-ка ты в свой отель, весь ресторан уже достал. | Dzhekovich, go back to your hotel, you have fed up the whole restaurant already. | #212 00:22:35: Джекович, иди-ка ты в свой отель<br>#213 00:22:40: Весь ресторан уже сегодня достал | adapted: adapted |
 | 10 | Михаил | Я всё напишу в докладной. | I will write everything in an official report. | #214 00:22:47: Я все напишу в докладной | adapted: adapted |
-| 11 | Шеф | И не забудь упомянуть про помидор. | And do not forget to mention the tomato. | #215 00:22:50: И не забудь упомянуть про помидор | adapted: adapted |
+| 11 | Михаил | И не забудь упомянуть про помидор. | And do not forget to mention the tomato. | #215 00:22:50: И не забудь упомянуть про помидор | adapted: adapted |
 | 12 | Аня | Долг каждого мужчины — защищать свою женщину. | The duty of every man is to protect his woman. | #217 00:23:01: Долг каждого мужчины защищать свою женщину | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

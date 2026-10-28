@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 25
-TITLE = "Éteindre les lumières  (Turning Off the Lights)"
-LEVEL = "A1 — débutant"
+TITLE = 'Éteindre les lumières  (Turning Off the Lights)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "In the empty offices of ASK after the farewell gathering, Andrea and Gabriel linger alone in the quiet hallways. Looking around at the dark desks and deserted corridors, they share a poignant moment before Gabriel turns off the agency lights forever. Let's listen to their conversation in French first."
 OPENER = "Let's look at Andrea and Gabriel in the quiet ASK office step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Standing in the quiet darkness of ASK, Andrea and Gabriel share a final nostalgic moment together before turning off the office lights and walking away. When you watch the episode, listen out for the expressions meaning 'world' and 'left'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = "Standing in the quiet darkness of ASK, Andrea and Gabriel share a final nostalgic moment together before turning off the office lights and walking away. When you watch the episode, listen out for the expressions meaning 'world' and 'left'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('lea', 'Tout le monde est parti maintenant.', 'Everyone has left now.', [], ''),
     ('gabriel', 'Oui, le bureau est enfin vide.', 'Yes, the office is finally empty.', [], ''),

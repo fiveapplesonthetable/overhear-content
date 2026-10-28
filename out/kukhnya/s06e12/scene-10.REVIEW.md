@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сеня, подожди, а куда ты так спешишь? | Senya, wait, where are you hurrying off to like that? | #159 00:11:32: А чего спешишь-то | adapted: adapted |
-| 2 | Сеня | Мне надо свежей рыбы незаметно забрать домой. | I need to quietly take some fresh fish home. | #160 00:11:34: рыбу свежей | adapted: adapted |
-| 3 | Сеня | Представляете, там шеф такой ужасный соус приготовил! | Can you imagine, the chef cooked such a terrible sauce in there! | #161 00:11:42: Там шеф такой убогий соус приготовил | adapted: adapted |
-| 4 | Света | В общем, Денис решил сделать мне предложение. | Anyway, Denis decided to propose to me. | #163 00:11:51: он решил сюрпризом сделать мне предложение | adapted: adapted |
-| 5 | Аня | Да ладно, Света, ты сейчас серьёзно говоришь? | No way, Sveta, are you speaking seriously right now? | #164 00:11:54: Да ладно | adapted: adapted |
-| 6 | Света | Да, он мне вчера даже красивое кольцо купил. | Yes, yesterday he even bought me a beautiful ring. | #165 00:11:57: Да. Он мне даже кольцо купил | adapted: adapted |
-| 7 | Аня | Надо же, как быстро он на это решился. | My goodness, how quickly he decided on that. | #166 00:11:59: Быстро он решился | adapted: adapted |
-| 8 | Света | Только это большой секрет, вы никому не говорите, хорошо? | Only it is a big secret, do not tell anyone, alright? | #166 00:11:59: Только вы никому<br>#167 00:12:01: Хорошо | adapted: adapted |
-| 9 | Аня | Ну что же, тогда желаем вам большой любви. | Well then, we wish you great love. | #168 00:12:03: да любовь | adapted: adapted |
-| 10 | Света | Катя, подожди, ты что, из-за этого расстроилась? | Katya, wait, did you get upset over this? | #169 00:12:06: Ты что, расстроилась | adapted: adapted |
-| 11 | Аня | Да нет, что ты, я даже рада за вас. | Why no, not at all, I am even happy for you. | #170 00:12:07: Да нет, я даже рада за них | adapted: adapted |
-| 12 | Аня | Ведь настоящая свадьба — это всегда очень круто! | After all, a real wedding is always very cool! | #171 00:12:10: Свадьба — это круто | adapted: adapted |
+| 1 | Катя | Сеня, подожди, а куда ты так спешишь? | Senya, wait, where are you hurrying off to like that? | #159 00:11:32: А чего спешишь-то | adapted: adapted |
+| 2 | Катя | Мне надо свежей рыбы незаметно забрать домой. | I need to quietly take some fresh fish home. | #160 00:11:34: рыбу свежей | adapted: adapted |
+| 3 | Катя | Представляете, там шеф такой ужасный соус приготовил! | Can you imagine, the chef cooked such a terrible sauce in there! | #161 00:11:42: Там шеф такой убогий соус приготовил | adapted: adapted |
+| 4 | Катя | В общем, Денис решил сделать мне предложение. | Anyway, Denis decided to propose to me. | #163 00:11:51: он решил сюрпризом сделать мне предложение | adapted: adapted |
+| 5 | Катя | Да ладно, Света, ты сейчас серьёзно говоришь? | No way, Sveta, are you speaking seriously right now? | #164 00:11:54: Да ладно | adapted: adapted |
+| 6 | Катя | Да, он мне вчера даже красивое кольцо купил. | Yes, yesterday he even bought me a beautiful ring. | #165 00:11:57: Да. Он мне даже кольцо купил | adapted: adapted |
+| 7 | Катя | Надо же, как быстро он на это решился. | My goodness, how quickly he decided on that. | #166 00:11:59: Быстро он решился | adapted: adapted |
+| 8 | Катя | Только это большой секрет, вы никому не говорите, хорошо? | Only it is a big secret, do not tell anyone, alright? | #166 00:11:59: Только вы никому<br>#167 00:12:01: Хорошо | adapted: adapted |
+| 9 | Катя | Ну что же, тогда желаем вам большой любви. | Well then, we wish you great love. | #168 00:12:03: да любовь | adapted: adapted |
+| 10 | Катя | Катя, подожди, ты что, из-за этого расстроилась? | Katya, wait, did you get upset over this? | #169 00:12:06: Ты что, расстроилась | adapted: adapted |
+| 11 | Катя | Да нет, что ты, я даже рада за вас. | Why no, not at all, I am even happy for you. | #170 00:12:07: Да нет, я даже рада за них | adapted: adapted |
+| 12 | Катя | Ведь настоящая свадьба — это всегда очень круто! | After all, a real wedding is always very cool! | #171 00:12:10: Свадьба — это круто | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

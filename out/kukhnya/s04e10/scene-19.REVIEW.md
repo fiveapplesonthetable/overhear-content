@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'I hate them all, traitors!' Nagiyev storms into the kitchen shouting the first-person singular of 'to hate'.
 - 'Dmitry Vladimirovich, what happened?' Max asks what went wrong out at the banquet table.
-- 'The director decided to film without me!' The preposition 'without' governs the genitive form of 'me'.
-- 'He wants to shoot the second part with someone else!' The adjective 'other/another' takes the instrumental ending '-im' after 'with'.
+- 'The director decided to film without me!' Notice how Russian puts 'director' and 'to take off, peel' together in a short, direct phrase where word endings show how the ideas connect.
+- 'He wants to shoot the second part with someone else!' Here Nagiyev anchors the thought on 'wants' and finishes on 'to take off, peel', keeping the spoken rhythm brisk and natural.
 - 'And I am such a handsome actor, after all!' Wounded vanity makes Nagiyev praise his own looks.
 - 'Do we have any laxative in the kitchen?' Like 'sleeping medicine' earlier, this neuter adjective functions as a noun.
-- 'Pour it straight into the desserts, into the pastries!' The singular imperative 'pour' takes the accusative plural after 'into'.
+- 'Pour it straight into the desserts, into the pastries!' Notice how Russian puts 'pour' and 'pastries, cakes' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Pour the whole bottle in there at once!' Adding the prefix 'vy-' means to pour out the entire contents.
-- 'I will never get involved with these movies again!' The reflexive verb with 'with' means to get mixed up or involved with someone.
+- 'I will never get involved with these movies again!' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Now I only act in the West!' Directions and regions like 'the West' take the preposition 'on' in Russian.
 - 'She is very dangerous for everyone.' As the episode closes, Nagiyev daydreams of himself in a slick Hollywood spy trailer.
-- 'The agent is working undercover.' Literally 'under cover', the preposition 'pod' takes the instrumental case.
+- 'The agent is working undercover.' Here Nagiyev anchors the thought on 'agent' and finishes on 'to undercover', keeping the spoken rhythm brisk and natural.

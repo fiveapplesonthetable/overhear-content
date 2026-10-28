@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 4
 SCENE = 9
 TITLE = "Le refuge des loups  (The Wolves' Shelter)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "ulrika": "emilie"}
-LABELS = {"mathias": "Mathias", "ulrika": "Ulrika"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'ulrika': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'ulrika': 'Ulrika'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Aiming to secure the lucrative film rights to Ulrika Desrosieres's bestselling novel, Mathias Barneville travels to an animal sanctuary. He poses as an ardent philanthropist who deeply cares for retired circus performers. Ulrika welcomes the polished producer and invites him to participate in a surprisingly dangerous feeding routine. Let's listen to their meeting in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Trapped by his own polite lies, Mathias steps cautiously into the pen beside the howling wolves. When you watch the episode, listen out for the expressions meaning 'welcome' and 'shelter'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À demain!")
+OUTRO = "Trapped by his own polite lies, Mathias steps cautiously into the pen beside the howling wolves. When you watch the episode, listen out for the expressions meaning 'welcome' and 'shelter'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À demain!')
 STORY = [
     ('ulrika', 'Bienvenue dans notre refuge pour animaux âgés.', 'Welcome to our shelter for elderly animals.', [(619, 'Comme refuge pour eux')], ''),
     ('mathias', 'Votre travail ici est vraiment admirable, Ulrika.', 'Your work here is truly admirable, Ulrika.', [(631, 'Vous faites un travail formidable')], ''),

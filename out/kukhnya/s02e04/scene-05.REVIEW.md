@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сколько лет? | How many years has it been? | #72 00:04:11: Сколько лет | verbatim |
+| 1 | Шеф | Сколько лет? | How many years has it been? | #72 00:04:11: Сколько лет | verbatim |
 | 2 | Вика | Слушай, вижу, у тебя все в порядке. | Listen, I see everything is going well for you. | #74 00:04:14: Слушай, вижу, у тебя все в порядке | verbatim |
-| 3 | Аня | Опять на кухне? | Back in the kitchen again? | #75 00:04:16: Опять на кухне | verbatim |
+| 3 | Шеф | Опять на кухне? | Back in the kitchen again? | #75 00:04:16: Опять на кухне | verbatim |
 | 4 | Вика | Я вижу, вы знакомы. | I see the two of you know each other. | #76 00:04:18: Я вижу, вы знакомы | verbatim |
-| 5 | Аня | Виктор Петрович мой первый шеф. | Viktor Petrovich was my first head chef. | #77 00:04:20: Виктор Петрович мой первый шеф | verbatim |
+| 5 | Шеф | Виктор Петрович мой первый шеф. | Viktor Petrovich was my first head chef. | #77 00:04:20: Виктор Петрович мой первый шеф | verbatim |
 | 6 | Вика | Мой учитель. | My teacher. | #78 00:04:24: Мой учитель | verbatim |
-| 7 | Аня | Где лучше поставить оборудование. | Where it is best to set up the equipment. | #80 00:04:31: где лучше поставить оборудование | verbatim |
+| 7 | Шеф | Где лучше поставить оборудование. | Where it is best to set up the equipment. | #80 00:04:31: где лучше поставить оборудование | verbatim |
 | 8 | Вика | Потом поговорим. | We will talk later. | #81 00:04:35: Потом поговорим | verbatim |
-| 9 | Аня | Игорь, что ты здесь делаешь? | Igor, what are you doing here? | #84 00:05:12: Игорь, что ты здесь делаешь | verbatim |
+| 9 | Шеф | Игорь, что ты здесь делаешь? | Igor, what are you doing here? | #84 00:05:12: Игорь, что ты здесь делаешь | verbatim |
 | 10 | Вика | Не отвечаешь на СМС. | You are not replying to my text messages. | #85 00:05:14: не отвечаешь на СМС | verbatim |
-| 11 | Аня | Ну, потому что мне тебе нечего ответить. | Well, because I have nothing to say to you. | #86 00:05:18: Ну, потому что мне тебе нечего ответить | verbatim |
+| 11 | Шеф | Ну, потому что мне тебе нечего ответить. | Well, because I have nothing to say to you. | #86 00:05:18: Ну, потому что мне тебе нечего ответить | verbatim |
 | 12 | Вика | Ну, так бы и ответила, что нечего ответить. | Then you could have replied that you have nothing to say. | #87 00:05:20: Ну, так бы и ответила, что нечего ответить | verbatim |
-| 13 | Аня | Кого-то ждешь? | Are you waiting for someone? | #89 00:05:28: Кого-то ждешь | verbatim |
+| 13 | Шеф | Кого-то ждешь? | Are you waiting for someone? | #89 00:05:28: Кого-то ждешь | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

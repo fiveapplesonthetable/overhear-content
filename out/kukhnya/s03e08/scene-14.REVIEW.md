@@ -19,14 +19,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Аня | Алло, можно заказать билет на поезд до Воронежа? | Hello, may I book a train ticket to Voronezh? | #235 00:15:44: Можно заказать | adapted: adapted |
 | 8 | Аня | Мне нужен один ночной билет на сегодня. | I need one night ticket for today. | #236 00:15:47: Ночной | adapted: adapted |
 | 9 | Аня | Да, мне обязательно нужна быстрая доставка. | Yes, I definitely need fast delivery. | #238 00:15:51: Доставка нужна | adapted: adapted |
-| 10 | Елена | Прекрасно, у вас получился просто прекрасный удар! | Wonderful, you made a simply wonderful shot! | #242 00:16:07: Прекрасно. Прекрасный удар | adapted: adapted |
-| 11 | Елена | Ну что, друзья, пойдём спокойно дальше? | Well then, friends, shall we walk on calmly? | #244 00:16:11: Ну что, пойдем дальше | adapted: adapted |
-| 12 | Елена | Будьте осторожнее, вы такой большой шутник! | Be more careful, you are such a big joker! | #245 00:16:15: Это вы шутник | adapted: adapted |
+| 10 | Вика | Прекрасно, у вас получился просто прекрасный удар! | Wonderful, you made a simply wonderful shot! | #242 00:16:07: Прекрасно. Прекрасный удар | adapted: adapted |
+| 11 | Вика | Ну что, друзья, пойдём спокойно дальше? | Well then, friends, shall we walk on calmly? | #244 00:16:11: Ну что, пойдем дальше | adapted: adapted |
+| 12 | Вика | Будьте осторожнее, вы такой большой шутник! | Be more careful, you are such a big joker! | #245 00:16:15: Это вы шутник | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Dima, maybe we will eat a little later?' The meaning hinges on 'Dima' working together with 'then' in spoken Russian.
-- 'We will eat later, when we actually get hungry.' Notice the reflexive suffix on the verb meaning 'get hungry', turning the action back on the subject.
+- 'We will eat later, when we actually get hungry.' In everyday Russian, 'will eat' flows straight into 'get hungry' without extra linking words.
 - 'Dima, let us not rush right now.' The grammar packs 'Dima' and 'hurry' into a tight, idiomatic kitchen exchange.
 - 'After all, we will still have time for everything.' In Russian, the idea of 'after all' flows naturally into 'only' without extra filler words.
 - 'Alright, I will probably drive home right now.' Notice how Russian expresses 'all right' and 'will go' with crisp inflection rather than helper words.

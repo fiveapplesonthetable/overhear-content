@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e01-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 1
 SCENE = 7
-TITLE = 'Знакомьтесь, Катя  (Meet Katya)'
+TITLE = "Знакомьтесь, Катя  (Meet Katya)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nagiyev": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "nagiyev": "Нагиев", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.01'
 SOURCE_FILE = 'sources/kukhnya/s03/e01.ru.srt'
 
 INTRO = 'At the bar, Max complains to Kostya about how many times Vika has turned him down, right before Nagiyev gathers the kitchen brigade to introduce the new molecular chef from Paris.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that finishes Scene Seven. Listen out for Max counting his forty movie invitations and Nagiyev proudly presenting Katya to the kitchen.'
-CLOSING = ('nagiyev', 'Прошу знакомиться!')
+OUTRO = 'And that finishes Scene Seven. Listen out for Max counting his forty movie invitations and Nagiyev proudly presenting Katya to the kitchen. Until next time!'
+CLOSING = ("nagiyev", "До встречи!")

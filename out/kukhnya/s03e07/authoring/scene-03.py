@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e07-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 3
 TITLE = "Первый вариант: гнев Макса  (First Version: Max's Anger)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nagiyev": "angelina"}
+LABELS = {"anya": "Макс", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = 'In the first timeline, Max blurts out that the name Dmitry infuriates him because of Nagiyev. Moments later, Nagiyev walks in to take Vika away, and Max confronts him.'
@@ -25,7 +25,7 @@ STORY = [
     ('nagiyev', 'Ну, чаще всего нет, конечно.', 'Well, most often not, of course.', [(39, 'Ну, чаще всего нет, конечно')], 'adapted'),
     ('nagiyev', 'Поэтому не волнуйся, давай ступай.', 'So do not worry, go on, step along.', [(40, 'Поэтому не волнуйся. Давай, ступай')], 'adapted'),
     ('anya', 'Вика с вами никуда не пойдёт.', 'Vika will not go anywhere with you.', [(41, 'Вика с вами никуда не пойдет')], 'adapted'),
-    ('vika', 'Макс, пожалуйста, не начинай сейчас.', 'Max, please, do not start right now.', [(33, 'Подождите')], 'adapted'),
+    ('nagiyev', 'Макс, пожалуйста, не начинай сейчас.', 'Max, please, do not start right now.', [(33, 'Подождите')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'By standing up to Nagiyev right in the dining room, Max sets off an explosive confrontation.'
-CLOSING = ('anya', 'Вика никуда не пойдёт!')
+OUTRO = 'By standing up to Nagiyev right in the dining room, Max sets off an explosive confrontation. Until next time!'
+CLOSING = ("anya", "Хорошего дня!")

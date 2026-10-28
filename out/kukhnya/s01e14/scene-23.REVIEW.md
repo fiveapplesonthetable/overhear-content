@@ -1,39 +1,39 @@
-# kukhnya-s01e14-scene-23: review sheet
+# Максим молодец  (Maxim Did Great) — `kukhnya-s01e14-scene-23`
 
-Title: Максим молодец  (Maxim Did Great)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.14
-Cues 309-312
+**Source:** Кухня (Kukhnya) S1.14 · `sources/kukhnya/s01/e14.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `nastya` | angelina | Настя |
+| `kostya` | anja | Костя |
+
+## Part 1 — Intro
+
+> Nastya and Kostya watch from the bar. They discuss Max and Victoria. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to their conversation in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Костя | Максим молодец. | Maxim did great. | #309 00:20:23: Максим молодец | verbatim |
-| 2 | Костя | Он помог Вике. | He helped Vika. | #309 00:20:23: он помог Вике | verbatim |
-| 3 | Костя | Он спас вечер. | He saved the evening. | new | new |
-| 4 | Настя | Да, она наговорила гадости. | Yeah, she said awful things. | #310 00:20:26: Да, она наговорила<br>#310 00:20:26: гадости | verbatim |
-| 5 | Настя | Ему всякие гадости. | All sorts of awful things to him. | #310 00:20:26: ему всякие гадости | verbatim |
-| 6 | Настя | И ей очень стыдно. | And she feels terrible. | #310 00:20:26: и ему очень стыдно | verbatim |
-| 7 | Костя | И как же она это исправит? | So how's she going to make it right? | #311 00:20:31: И как же она это исправит | verbatim |
-| 8 | Костя | Что она будет делать? | What will she do? | new | new |
-| 9 | Настя | А, водка. | Ah, vodka. | #312 00:20:34: А, водка | verbatim |
-| 10 | Настя | Она нальёт ему водки. | She will pour him vodka. | new | new |
-| 11 | Костя | Это хороший план. | That's a good plan. | new | new |
-| 12 | Настя | Она знает, что делать. | She knows what to do. | new | new |
+| 0 | Костя | Максим молодец. | Maxim did great. | #309 "Максим молодец" |  |
+| 1 | Костя | Он помог Вике. | He helped Vika. | #309 "он помог Вике" |  |
+| 2 | Костя | Он спас вечер. | He saved the evening. | *(added)* |  |
+| 3 | Настя | Да, она наговорила гадости. | Yeah, she said awful things. | #310 "Да, она наговорила", #310 "гадости" |  |
+| 4 | Настя | Ему всякие гадости. | All sorts of awful things to him. | #310 "ему всякие гадости" |  |
+| 5 | Настя | И ей очень стыдно. | And she feels terrible. | #310 "и ему очень стыдно" |  |
+| 6 | Костя | И как же она это исправит? | So how's she going to make it right? | #311 "И как же она это исправит" |  |
+| 7 | Костя | Что она будет делать? | What will she do? | *(added)* |  |
+| 8 | Настя | А, водка. | Ah, vodka. | #312 "А, водка" |  |
+| 9 | Настя | Она нальёт ему водки. | She will pour him vodka. | *(added)* |  |
+| 10 | Костя | Это хороший план. | That's a good plan. | *(added)* |  |
+| 11 | Настя | Она знает, что делать. | She knows what to do. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Maxim did great.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Maxim' straight to 'well done'.
-- 'He helped Vika.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'helped'.
-- 'He saved the evening.' Kostya uses the perfective verb meaning 'saved' to focus on the single completed result, pairing it with 'evening'.
-- 'Yeah, she said awful things.' The '-a' ending on the past-tense verb for 'said' shows that the subject is feminine.
-- 'All sorts of awful things to him.' Russian omits the present-tense verb 'to be' here, linking 'any' directly with 'nasty things', combining 'any' with 'nasty things'.
-- 'And she feels terrible.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'shameful', combining 'very much' with 'shameful'.
-- 'So how's she going to make it right?' The phrasing opens with 'how' before bringing in 'to fix' to make the point clear.
-- 'What will she do?' Kostya chooses the imperfective verb meaning 'will be' for the ongoing action, followed by 'do'.
-- 'Ah, vodka.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'vodka'.
-- 'She will pour him vodka.' Nastya uses the perfective verb meaning 'will pour' to focus on the single completed result, pairing it with 'vodka'.
-- 'That's a good plan.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'plan', combining 'good' with 'plan'.
-- 'She knows what to do.' The question word for 'what' comes right at the start, followed directly by 'do'.
+> They watch Victoria preparing a drink for Max. Next time you watch the episode, listen for the Russian expressions for 'well done' and 'to help' — you will catch every word right away. See you next time!
+
+**Настя:** Пока!

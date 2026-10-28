@@ -1,41 +1,39 @@
-# kukhnya-s01e03-scene-02: review sheet
+# Обед персонала  (Staff Lunch) — `kukhnya-s01e03-scene-02`
 
-Title: Обед персонала  (Staff Lunch)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.03
-Cues 83-96. In the staff dining area during lunch, waitress Nastya explains her strict vegetarianism to cleaner Ainura, who nostalgically recounts eating only potatoes during the nineties.
+**Source:** Кухня (Kukhnya) S1.03 · `sources/kukhnya/s01/e03.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `ainura` | angelina | Айнура |
+
+## Part 1 — Intro
+
+> During staff lunch in the restaurant backroom, waitress Nastya refuses the meat cutlets on offer. Cleaner Ainura is puzzled by her choice and asks why she avoids meat. Nastya passionately explains her vegetarian philosophy, while Ainura recalls having lived on potatoes alone during hard times. Let's listen to their amusing exchange in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Айнура | Настя, почему ты не кушаешь мясо? | Nastya, why do you not eat meat? | #83 00:04:47: А почему ты мясо не кушаешь, Тян | adapted: adapted |
-| 2 | Настя | Потому что я строгая вегетарианка. | Because I am a strict vegetarian. | #84 00:04:50: А я вегетарианка | adapted: adapted |
-| 3 | Айнура | Да ты что? А я думала, ты русская. | Really? And here I thought you were Russian. | #85 00:04:52: Да ты что, вегетарианка<br>#86 00:04:55: А это, думала, ты русская | verbatim |
-| 4 | Настя | Вегетарианцы — это люди, которые не едят мясо. | Vegetarians are people who do not eat meat. | #87 00:04:58: Вегетарианцы – это люди, которые мясо не едят | adapted: adapted |
-| 5 | Айнура | Раньше я тоже была вегетарианкой. | I used to be a vegetarian too. | #88 00:05:02: Раньше я тоже была вегетариантой | adapted: adapted |
-| 6 | Настя | Правда? Когда вы не ели мясо? | Really? When did you not eat meat? | new | new: new |
-| 7 | Айнура | В девяностые годы совсем не было денег. | In the nineties there was no money at all. | #88 00:05:02: в 90-е годы<br>#89 00:05:06: Денег не было | adapted: adapted |
-| 8 | Айнура | Я целый год ела только картошку. | I ate only potatoes for a whole year. | #89 00:05:06: одну картошку ела | adapted: adapted |
-| 9 | Настя | Я считаю недопустимым убивать животных. | I consider killing animals unacceptable. | #91 00:05:11: считаю недопустимым убивать животных | adapted: adapted |
-| 10 | Айнура | Но сочные мясные котлеты такие вкусные! | But juicy meat cutlets are so tasty! | #94 00:05:21: вот таких вот сочных | adapted: adapted |
-| 11 | Настя | Каждая коровка имеет право на жизнь. | Every cow has the right to life. | #92 00:05:14: была милая коровка | adapted: adapted |
-| 12 | Айнура | Ой, бай! Ты так красиво рассказываешь! | Oh my! You tell stories so beautifully! | #96 00:05:34: Ой, бай! Ты так вкусно рассказываешь | adapted: adapted |
-| 13 | Настя | Надеюсь, вы меня наконец поняли. | I hope you finally understood me. | new | new: new |
+| 0 | Айнура | Настя, почему ты не кушаешь мясо? | Nastya, why do you not eat meat? | #83 "А почему ты мясо не кушаешь, Тян" |  |
+| 1 | Айнура | Потому что я строгая вегетарианка. | Because I am a strict vegetarian. | #84 "А я вегетарианка" |  |
+| 2 | Айнура | Да ты что? А я думала, ты русская. | Really? And here I thought you were Russian. | #85 "Да ты что, вегетарианка", #86 "А это, думала, ты русская" |  |
+| 3 | Айнура | Вегетарианцы — это люди, которые не едят мясо. | Vegetarians are people who do not eat meat. | #87 "Вегетарианцы – это люди, которые мясо не едят" |  |
+| 4 | Айнура | Раньше я тоже была вегетарианкой. | I used to be a vegetarian too. | #88 "Раньше я тоже была вегетариантой" |  |
+| 5 | Айнура | Правда? Когда вы не ели мясо? | Really? When did you not eat meat? | *(added)* |  |
+| 6 | Айнура | В девяностые годы совсем не было денег. | In the nineties there was no money at all. | #88 "в 90-е годы", #89 "Денег не было" |  |
+| 7 | Айнура | Я целый год ела только картошку. | I ate only potatoes for a whole year. | #89 "одну картошку ела" |  |
+| 8 | Айнура | Я считаю недопустимым убивать животных. | I consider killing animals unacceptable. | #91 "считаю недопустимым убивать животных" |  |
+| 9 | Айнура | Но сочные мясные котлеты такие вкусные! | But juicy meat cutlets are so tasty! | #94 "вот таких вот сочных" |  |
+| 10 | Айнура | Каждая коровка имеет право на жизнь. | Every cow has the right to life. | #92 "была милая коровка" |  |
+| 11 | Айнура | Ой, бай! Ты так красиво рассказываешь! | Oh my! You tell stories so beautifully! | #96 "Ой, бай! Ты так вкусно рассказываешь" |  |
+| 12 | Айнура | Надеюсь, вы меня наконец поняли. | I hope you finally understood me. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Nastya, why do you not eat meat?' Ainura asks her colleague curiously with a question word.
-- 'Because I am a strict vegetarian.' Nastya explains her diet using an adjective and predicate noun.
-- 'Really? And here I thought you were Russian.' Ainura expresses genuine surprise at the foreign concept.
-- 'Vegetarians are people who do not eat meat.' Nastya defines the word using an explanatory clause.
-- 'I used to be a vegetarian too.' Ainura relates her own past experience using a temporal adverb.
-- 'Really? When did you not eat meat?' Nastya inquires about the past using a time conjunction.
-- 'In the nineties there was no money at all.' Ainura explains the economic hardship using an impersonal negative past.
-- 'I ate only potatoes for a whole year.' Ainura describes her involuntary diet with an emphatic particle.
-- 'I consider killing animals unacceptable.' Nastya states her moral stance using a predicative adjective.
-- 'But juicy meat cutlets are so tasty!' Ainura defends traditional cooking with descriptive adjectives.
-- 'Every cow has the right to life.' Nastya advocates for animals using a dative noun and possessive verb.
-- 'Oh my! You tell stories so beautifully!' Ainura compliments Nastya's passionate storytelling.
-- 'I hope you finally understood me.' Nastya wraps up the conversation with a hopeful present verb.
+> That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!
+
+**Айнура:** Пока!

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 8
-TITLE = "Gabriel défend Sofia  (Gabriel Defends Sofia)"
-LEVEL = "A1 — débutant"
+TITLE = 'Gabriel défend Sofia  (Gabriel Defends Sofia)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "Inside Gabriel's office, Sofia is furious after an audition that turned into a shouting match with casting director Constance. When Constance calls in a rage to complain, Gabriel must walk a delicate line between defending his client and calming an industry heavyweight. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel tries to mediate between Sofia and Constance step by step."
 TRANSITION = "Now let's listen to Gabriel's difficult phone call once more."
 OUTRO = "Gabriel manages to end the call without further incident, but Constance's fury leaves Sofia's casting in jeopardy. See you next time!"
-CLOSING = ("gabriel", "À demain!")
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('gabriel', "Oui, ma chérie? Qu'est-ce qui ne va pas?", 'Yes, my dear? What is wrong?', [(222, 'Oui, ma chérie ?')], ''),
     ('gabriel', 'Je peux faire quelque chose pour vous remonter le moral?', 'Can I do anything to cheer you up?', [(224, 'Je peux faire quelque chose pour vous remonter le moral ?')], ''),

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e14-scene-12"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e14-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 12
-TITLE = 'Стычка с Ильёй в зале  (Clash with Ilya in the Dining Room)'
+TITLE = "Стычка с Ильёй в зале  (Clash with Ilya in the Dining Room)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Саша', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.14"
-SOURCE_FILE = "sources/kukhnya/s02/e14.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "sasha": "anja"}
+LABELS = {"sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
+SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
 
 INTRO = "Marching out into the dining room, Max confronts Ilya face to face and warns him to stay away from Sasha. Before a fight can break out in front of Elena Pavlovna's table, Vika steps in and orders Ilya to serve the vip guest immediately."
 
 STORY = [
-    ('anya', 'Поговорить надо.', 'We need to talk.', [(204, 'Поговорить надо')], ''),
-    ('chef', 'Саша, не лезь, она моя девушка.', 'Sasha, stay out of this, she is my girlfriend.', [(205, 'Саша, не лезь, она моя девушка')], ''),
-    ('anya', 'И ты не радуйся, это не надолго.', 'And do not get too happy, that will not last long.', [(206, 'И ты не радуйся, это не надолго')], ''),
-    ('chef', 'Я вижу, ты не понял.', 'I see you did not get the message.', [(207, 'Я вижу, ты не понял')], ''),
-    ('anya', 'Ну, объясни.', 'Well, explain it to me then.', [(208, 'Ну, объясни')], ''),
-    ('chef', 'На, ну-ка, прекратили немедленно.', 'Hey, stop this immediately, both of you.', [(209, 'На, ну-ка, прекратили немедленно')], ''),
-    ('anya', 'С тобой еще закончили, понял?', 'We are not finished here yet, got it?', [(210, 'С тобой еще закончили, понял')], ''),
-    ('chef', 'Извините, пожалуйста.', 'Excuse me, please.', [(211, 'Извините, пожалуйста')], ''),
-    ('anya', 'Я же вам говорила.', 'Just like I told you.', [(212, 'Я же вам говорила')], ''),
-    ('chef', 'Здесь всегда что-то происходит.', 'There is always something dramatic happening here.', [(213, 'Здесь всегда что-то происходит')], ''),
-    ('anya', 'Вот этого гостя надо очень быстро обслужить.', 'This guest right here needs to be served very quickly.', [(214, 'Вот этого гостя надо очень быстро обслужить')], ''),
-    ('chef', 'Понял меня?', 'Do you understand me?', [(215, 'Понял меня')], ''),
-    ('anya', 'Не вопрос.', 'No problem at all.', [(216, 'Не вопрос')], ''),
+    ('sasha', 'Поговорить надо.', 'We need to talk.', [(204, 'Поговорить надо')], ''),
+    ('sasha', 'Саша, не лезь, она моя девушка.', 'Sasha, stay out of this, she is my girlfriend.', [(205, 'Саша, не лезь, она моя девушка')], ''),
+    ('sasha', 'И ты не радуйся, это не надолго.', 'And do not get too happy, that will not last long.', [(206, 'И ты не радуйся, это не надолго')], ''),
+    ('sasha', 'Я вижу, ты не понял.', 'I see you did not get the message.', [(207, 'Я вижу, ты не понял')], ''),
+    ('sasha', 'Ну, объясни.', 'Well, explain it to me then.', [(208, 'Ну, объясни')], ''),
+    ('sasha', 'На, ну-ка, прекратили немедленно.', 'Hey, stop this immediately, both of you.', [(209, 'На, ну-ка, прекратили немедленно')], ''),
+    ('sasha', 'С тобой еще закончили, понял?', 'We are not finished here yet, got it?', [(210, 'С тобой еще закончили, понял')], ''),
+    ('sasha', 'Извините, пожалуйста.', 'Excuse me, please.', [(211, 'Извините, пожалуйста')], ''),
+    ('sasha', 'Я же вам говорила.', 'Just like I told you.', [(212, 'Я же вам говорила')], ''),
+    ('sasha', 'Здесь всегда что-то происходит.', 'There is always something dramatic happening here.', [(213, 'Здесь всегда что-то происходит')], ''),
+    ('sasha', 'Вот этого гостя надо очень быстро обслужить.', 'This guest right here needs to be served very quickly.', [(214, 'Вот этого гостя надо очень быстро обслужить')], ''),
+    ('sasha', 'Понял меня?', 'Do you understand me?', [(215, 'Понял меня')], ''),
+    ('sasha', 'Не вопрос.', 'No problem at all.', [(216, 'Не вопрос')], ''),
 ]
 
 OPENER = "Let's walk back through the scene line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 12 of Episode 14, listen out for the exchange around clash with ilya in the dining room — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Не вопрос.')
+OUTRO = "That wraps up this scene as max confronts Ilya in the dining room to warn him away from Sasha until Vika breaks them up and orders Ilya to serve Elena Pavlovna's table quickly. See you next time!"
+CLOSING = ("sasha", "Увидимся!")

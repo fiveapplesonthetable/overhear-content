@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Гуля | Руки убрала, быстро отошла от моего мужа! | Take your hands off, step away from my husband right now! | #33 00:02:52: Руки убрала<br>#34 00:02:54: Быстро отошла от моего мужа | adapted: adapted |
-| 2 | Аня | Марин, ты чего? | Marina, what is wrong with you? | #35 00:02:57: Марин, ты чего | adapted: adapted |
+| 2 | Сеня | Марин, ты чего? | Marina, what is wrong with you? | #35 00:02:57: Марин, ты чего | adapted: adapted |
 | 3 | Гуля | Ты что думаешь, я слепая? | Do you think that I am blind? | #35 00:02:57: Ты что думаешь, я слепая | adapted: adapted |
-| 4 | Аня | Ну мы же разобрались, ну ошибся. | Well we already sorted it out, I made a mistake. | #39 00:03:10: ну мы же разобрались<br>#40 00:03:12: Ну, ошибся | adapted: adapted |
+| 4 | Сеня | Ну мы же разобрались, ну ошибся. | Well we already sorted it out, I made a mistake. | #39 00:03:10: ну мы же разобрались<br>#40 00:03:12: Ну, ошибся | adapted: adapted |
 | 5 | Гуля | Зачем она вчера звонила поздно? | Why did she call late yesterday? | #40 00:03:12: Ну зачем она вчера звонила поздно | adapted: adapted |
-| 6 | Аня | У Феди скоро день рождения, она звонила посоветоваться. | Fedya's birthday is coming up soon, she called to ask for advice. | #41 00:03:15: у Феди вон скоро день рождения, она звонила посоветоваться | adapted: adapted |
-| 7 | Аня | Довольна? Испортила сюрприз. | Are you satisfied? You ruined the surprise. | #42 00:03:19: Довольна? Испортила<br>#42 00:03:19: сюрприз | adapted: adapted |
+| 6 | Сеня | У Феди скоро день рождения, она звонила посоветоваться. | Fedya's birthday is coming up soon, she called to ask for advice. | #41 00:03:15: у Феди вон скоро день рождения, она звонила посоветоваться | adapted: adapted |
+| 7 | Сеня | Довольна? Испортила сюрприз. | Are you satisfied? You ruined the surprise. | #42 00:03:19: Довольна? Испортила<br>#42 00:03:19: сюрприз | adapted: adapted |
 | 8 | Гуля | А это что такое? Тоже сюрприз для Феди? | And what is this? Also a surprise for Fedya? | #43 00:03:21: А это что такое<br>#44 00:03:24: Тоже сюрприз для Феди | adapted: adapted |
 | 9 | Гуля | Почему это лежало в твоём ящике с носками? | Why was this lying in your drawer with your socks? | #46 00:03:29: А почему это лежало в твоем ящике с носками | adapted: adapted |
 | 10 | Гуля | Дениса не удержала, решила у меня мужа отбить? | You could not keep Denis, so you decided to steal my husband? | #47 00:03:35: Дениса не удержала<br>#48 00:03:36: Решила у меня мужа отбить | adapted: adapted |
-| 11 | Катя | Марина, ты что, с ума сошла? | Marina, have you lost your mind? | #49 00:03:38: Марина, ты что, с ума сошла | adapted: adapted |
-| 12 | Аня | Тихо, тихо, ты что творишь? | Quiet, quiet, what are you doing? | #52 00:03:47: Тихо, тихо<br>#53 00:03:49: Ты что творишь | adapted: adapted |
+| 11 | Сеня | Марина, ты что, с ума сошла? | Marina, have you lost your mind? | #49 00:03:38: Марина, ты что, с ума сошла | adapted: adapted |
+| 12 | Сеня | Тихо, тихо, ты что творишь? | Quiet, quiet, what are you doing? | #52 00:03:47: Тихо, тихо<br>#53 00:03:49: Ты что творишь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

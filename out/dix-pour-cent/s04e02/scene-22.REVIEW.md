@@ -27,5 +27,5 @@
 | 13 | `elise` (Élise) | Réfléchis bien avant de refuser, Andréa. | Think carefully before refusing, Andrea. | 1057:proposition |
 
 ## Part 5 — Outro & Closing
-> Elise's bombshell about Dany Boon leaves Andrea facing a dangerous new war on two fronts. When you watch the episode, listen out for the expressions meaning 'come' and 'decided'. You'll catch them now. See you next time.
+> Elise's bombshell about Dany Boon leaves Andrea facing a dangerous new war on two fronts. When you watch the episode, listen out for the expressions meaning 'come' and 'decided'. You'll catch them now. See you next time!
 - **Closing**: `elise`: *Bonne soirée!*

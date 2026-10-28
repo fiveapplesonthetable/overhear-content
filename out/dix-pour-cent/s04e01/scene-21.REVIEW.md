@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | On rentre ensemble, la tête haute. | We are going home together, heads held high. | 939:partir comme ça |
 
 ## Part 5 — Outro & Closing
-> Sofia and Gabriel leave the ceremony together, ready to focus on new cinematic opportunities. When you watch the episode, listen out for the expressions meaning 'prize' and 'wait'. You'll catch them now. See you next time.
+> Sofia and Gabriel leave the ceremony together, ready to focus on new cinematic opportunities. When you watch the episode, listen out for the expressions meaning 'prize' and 'wait'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Au revoir!*

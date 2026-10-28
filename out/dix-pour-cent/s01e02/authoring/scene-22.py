@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 22
-TITLE = "Je déteste les actrices  (I Hate Actresses)"
-LEVEL = "A1 — débutant"
+TITLE = 'Je déteste les actrices  (I Hate Actresses)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "helene": "emilie", "mathias": "marcel"}
-LABELS = {"helene": "Hélène", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'helene': 'emilie', 'mathias': 'marcel'}
+LABELS = {'helene': 'Hélène', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Meanwhile, Mathias takes Samuel's widow, Hélène Kerr, to a restaurant. She has inherited Samuel's shares in the agency, and Mathias has an offer for her. We'll take this one from Hélène's side of the table. First the French; don't try to catch everything."
 OPENER = "Let's go back through the meal. Hélène starts by checking the numbers, very calmly."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the end of this scene. When you watch it, listen for the polite question with the verb first, the one that leaves Mathias speechless. See you next time."
-CLOSING = ("helene", "Bonsoir, Mathias.")
+OUTRO = "That's the end of this scene. When you watch it, listen for the polite question with the verb first, the one that leaves Mathias speechless. See you next time!"
+CLOSING = ('helene', 'Bonsoir, Mathias.')
 STORY = [
     ('helene', 'Donc je garde dix-sept pour cent des parts?', 'So I keep seventeen percent of the shares?', [(631, 'des parts')], ''),
     ('mathias', "Oui. Vous n'avez rien à faire.", 'Yes. You have nothing to do.', [(632, 'Oui'), (634, "Vous n'avez rien à faire")], ''),

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e09-scene-15"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e09-scene-15'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 9
 SCENE = 15
-TITLE = 'Пьяный Шеф увольняет всех  (The Drunken Chef Fires Everyone)'
+TITLE = "Пьяный Шеф увольняет всех  (The Drunken Chef Fires Everyone)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja'}
-LABELS = {'anya': 'Шеф', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.09"
-SOURCE_FILE = "sources/kukhnya/s02/e09.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja"}
+LABELS = {"chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.09'
+SOURCE_FILE = 'sources/kukhnya/s02/e09.ru.srt'
 
 INTRO = 'After polishing off the cognac inside the cold storage room, Chef Barinov emerges furious and drunk, paying Fedya back his debt only to fire him and the rest of the kitchen crew on the spot. Lyova reassures everyone that the Chef will sleep it off in two hours and forget everything.'
 
 STORY = [
-    ('anya', 'Да пишешь сам.', 'Write it yourself.', [(244, 'Да пишешь сам')], ''),
-    ('fedya', 'Федя, я тебе все долги вернул?', 'Fedya, have I paid back all my debts to you?', [(246, 'Федя, я тебе все долги вернул')], ''),
-    ('anya', 'Ну и пошел вон с моей кухни.', 'Then get the hell out of my kitchen.', [(247, 'Ну и пошел вон с моей кухни')], ''),
-    ('fedya', 'Собери апельсины и сразу уволен.', 'Pick up the oranges and you are fired immediately.', [(248, 'собери апельсины и сразу уволен')], ''),
-    ('anya', 'Да и еще.', 'Oh, and one more thing.', [(249, 'Да и еще')], ''),
-    ('fedya', 'Все, кому я не сказал, что они уволены.', 'Everyone else whom I have not yet told that they are fired.', [(250, 'Все, кому я не сказал, что они уволены')], ''),
-    ('anya', 'И что теперь делать?', 'And what are we supposed to do now?', [(251, 'И что теперь делать')], ''),
-    ('fedya', 'Да успокойтесь вы.', 'Calm down, all of you.', [(252, 'Да успокойтесь вы')], ''),
-    ('anya', 'Через два часа его отпустит.', 'In two hours it will wear off.', [(253, 'Через два часа его отпустит')], ''),
-    ('fedya', 'Он вообще ничего не вспомнит.', 'He will not remember a thing.', [(253, 'он вообще ничего не вспомнит')], ''),
-    ('anya', 'Че ты там прячешь?', 'What are you hiding behind your back?', [(255, 'Че ты там прячешь')], ''),
-    ('fedya', 'Шефу хватит уже.', 'The Chef has had enough already.', [(256, 'Шефу хватит уже')], ''),
-    ('anya', 'Уговорили, я сам.', 'You talked me into it, I will drink it myself.', [(258, 'Уговорили, я сам')], ''),
+    ('chef', 'Да пишешь сам.', 'Write it yourself.', [(244, 'Да пишешь сам')], ''),
+    ('chef', 'Федя, я тебе все долги вернул?', 'Fedya, have I paid back all my debts to you?', [(246, 'Федя, я тебе все долги вернул')], ''),
+    ('chef', 'Ну и пошел вон с моей кухни.', 'Then get the hell out of my kitchen.', [(247, 'Ну и пошел вон с моей кухни')], ''),
+    ('chef', 'Собери апельсины и сразу уволен.', 'Pick up the oranges and you are fired immediately.', [(248, 'собери апельсины и сразу уволен')], ''),
+    ('chef', 'Да и еще.', 'Oh, and one more thing.', [(249, 'Да и еще')], ''),
+    ('chef', 'Все, кому я не сказал, что они уволены.', 'Everyone else whom I have not yet told that they are fired.', [(250, 'Все, кому я не сказал, что они уволены')], ''),
+    ('chef', 'И что теперь делать?', 'And what are we supposed to do now?', [(251, 'И что теперь делать')], ''),
+    ('chef', 'Да успокойтесь вы.', 'Calm down, all of you.', [(252, 'Да успокойтесь вы')], ''),
+    ('chef', 'Через два часа его отпустит.', 'In two hours it will wear off.', [(253, 'Через два часа его отпустит')], ''),
+    ('chef', 'Он вообще ничего не вспомнит.', 'He will not remember a thing.', [(253, 'он вообще ничего не вспомнит')], ''),
+    ('chef', 'Че ты там прячешь?', 'What are you hiding behind your back?', [(255, 'Че ты там прячешь')], ''),
+    ('chef', 'Шефу хватит уже.', 'The Chef has had enough already.', [(256, 'Шефу хватит уже')], ''),
+    ('chef', 'Уговорили, я сам.', 'You talked me into it, I will drink it myself.', [(258, 'Уговорили, я сам')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 15 of Episode 9, listen out for the exchange around the drunken chef fires everyone — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Уговорили, я сам.')
+OUTRO = 'That wraps up this scene as after drinking the cognac in the walk-in fridge, Chef Barinov stumbles out, fires Fedya and the entire kitchen staff on the spot, and passes out. Until next time!'
+CLOSING = ("chef", "Пока!")

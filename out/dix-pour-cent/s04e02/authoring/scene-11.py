@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 2
 SCENE = 11
 TITLE = "Chez Madame Bonnero  (At Madame Bonnero's)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "bonnero": "emilie", "lea": "lucie"}
-LABELS = {"bonnero": "Madame Bonnero", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'bonnero': 'emilie', 'lea': 'lucie'}
+LABELS = {'bonnero': 'Madame Bonnero', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Arriving in the northern town of Bergues, Andrea pays an unexpected visit to Dany Boon's mother, Madame Bonnero. Andrea hopes to preserve the agency's bond with the star, but Madame Bonnero insists on hospitality first. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Andrea discovers the generous hospitality of Dany Boon's mother in Bergues. When you watch the episode, listen out for the expressions meaning 'hello' and 'look for'. You'll catch them now. See you next time."
-CLOSING = ("bonnero", "À demain!")
+OUTRO = "Andrea discovers the generous hospitality of Dany Boon's mother in Bergues. When you watch the episode, listen out for the expressions meaning 'hello' and 'look for'. You'll catch them now. See you next time!"
+CLOSING = ('bonnero', 'À demain!')
 STORY = [
     ('lea', 'Bonjour, je cherche Madame Bonnero.', 'Hello, I am looking for Madame Bonnero.', [(611, 'Mme Bonnero')], ''),
     ('bonnero', "Oui, c'est moi, qui êtes-vous?", 'Yes, that is me, who are you?', [(611, 'Mme Bonnero')], ''),

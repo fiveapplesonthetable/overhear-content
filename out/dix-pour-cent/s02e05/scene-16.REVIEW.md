@@ -28,5 +28,5 @@
 | 14 | `gabriel` (Gabriel) | Je peux vous inviter à déjeuner? | Can I invite you to lunch? | 473:Je pourrais peut-être vous inviter à déjeuner |
 
 ## Part 5 — Outro & Closing
-> After introducing Guy Marchand to Elisabeth Lecoeur, Gabriel uses the chance encounter to invite the television executive to lunch. Until next time.
+> After introducing Guy Marchand to Elisabeth Lecoeur, Gabriel uses the chance encounter to invite the television executive to lunch. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e05-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 5
 SCENE = 2
-TITLE = 'Утро в кабинете  (Morning in the Office)'
+TITLE = "Утро в кабинете  (Morning in the Office)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.05'
 SOURCE_FILE = 'sources/kukhnya/s03/e05.ru.srt'
 
 INTRO = 'The next morning, Max wakes Nagiyev up at the restaurant. Still groggy, Nagiyev brags that he spent the whole night talking about love with Vika. Listen to the full conversation in Russian first, and then we will walk through every line together.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Max is stunned to hear that Nagiyev spent the night discussing love with Vika. Notice how Russian forms questions about topics and people.'
-CLOSING = ('anya', 'Я вас понял.')
+OUTRO = 'Max is stunned to hear that Nagiyev spent the night discussing love with Vika. Notice how Russian forms questions about topics and people. See you next time!'
+CLOSING = ("anya", "Увидимся!")

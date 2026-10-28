@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | Bonne chance à Couchey. | Good luck in Couchey. | adapted |
 
 ## Part 5 — Outro & Closing
-> Gabriel now understands how Mathias manipulated him into taking on the crisis. Meanwhile, Andréa arrives at the town hall of Couchey to receive her mother's medal. Here is our closing sentence. See you next time!
+> Gabriel now understands how Mathias manipulated him into taking on the crisis. Here is our closing sentence. See you next time!
 - **Closing**: `gabriel`: *Au revoir!*

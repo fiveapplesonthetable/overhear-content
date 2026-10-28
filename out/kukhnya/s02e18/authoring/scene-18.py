@@ -1,31 +1,31 @@
-ID = "kukhnya-s02e18-scene-18"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e18-scene-18'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 18
 SCENE = 18
 TITLE = "Китайские чаевые и заявление Феди  (Chinese Tips and Fedya's Notice)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.18"
-SOURCE_FILE = "sources/kukhnya/s02/e18.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.18'
+SOURCE_FILE = 'sources/kukhnya/s02/e18.ru.srt'
 
 INTRO = "At the end of the exhausting Monday shift, Vika brings in a fat stack of tips left by the grateful Chinese tourists. Chef Barinov hands the reward to Max, who asks to share it equally with the whole crew, right before Fedya announces he is giving one month's notice."
 
 STORY = [
     ('anya', 'Понедельник день тяжелый.', 'Monday really is a heavy day.', [(305, 'понедельник день тяжелый')], ''),
     ('chef', 'Ну что.', 'Well then.', [(305, 'Ну что')], ''),
-    ('fedya', 'Вот, ваши китайские чаевые.', 'Here are your Chinese tips.', [(306, 'Вот, ваши китайские чаевые')], ''),
+    ('chef', 'Вот, ваши китайские чаевые.', 'Here are your Chinese tips.', [(306, 'Вот, ваши китайские чаевые')], ''),
     ('anya', 'Иди сюда.', 'Come over here.', [(308, 'иди сюда')], ''),
     ('chef', 'Бери, это твоя заслуга.', 'Take it, you earned this today.', [(309, 'Бери, это твоя заслуга')], ''),
-    ('fedya', 'Шеф, давайте нас всех поделим.', 'Chef, let us split it among all of us.', [(310, 'Шеф, давайте нас всех поделим')], ''),
+    ('chef', 'Шеф, давайте нас всех поделим.', 'Chef, let us split it among all of us.', [(310, 'Шеф, давайте нас всех поделим')], ''),
     ('anya', 'Я считаю.', 'I believe that is fair.', [(312, 'Я считаю')], ''),
     ('chef', 'Что все так сегодня замечательно получилось.', 'That everything turned out so wonderfully today.', [(314, 'что все так сегодня замечательно получилось')], ''),
-    ('fedya', 'Да, Федя?', 'Right, Fedya?', [(315, 'Да, Федя')], ''),
+    ('chef', 'Да, Федя?', 'Right, Fedya?', [(315, 'Да, Федя')], ''),
     ('anya', 'Петрович, я передумал эти отпуска.', 'Petrovich, I changed my mind about those vacations.', [(317, 'Петрович, я передумал эти отпуска')], ''),
     ('chef', 'Но через месяц уйду.', 'But in a month I am leaving.', [(318, 'Но через месяц уйду')], ''),
-    ('fedya', 'Это официальное предупреждение.', 'Consider this my official notice.', [(319, 'Это официальное предупреждение')], ''),
+    ('chef', 'Это официальное предупреждение.', 'Consider this my official notice.', [(319, 'Это официальное предупреждение')], ''),
     ('anya', 'Через месяц.', 'In one month.', [(320, 'Через месяц')], ''),
 ]
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = "When you watch Scene 18 of Episode 18, listen out for the exchange around chinese tips and fedya's notice — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Через месяц.')
+OUTRO = 'That wraps up this scene as vika brings the generous tips left by the Chinese tourists, which Max insists on splitting with the whole kitchen, while Fedya announces he will quit in a month. See you next time!'
+CLOSING = ("anya", "До завтра!")

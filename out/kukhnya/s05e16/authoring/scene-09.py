@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e16-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 16
 SCENE = 9
 TITLE = "Холодный отказ Вики  (Vika's Cold Rejection)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.16'
 SOURCE_FILE = 'sources/kukhnya/s05/e16.ru.srt'
 
 INTRO = 'Max tries to explain to Vika that he kept his wedding ring on in front of Dasha and resisted her advances out of love for Vika, but Vika coldly replies that she no longer loves him—pushing Max to call Dasha about Sochi.'
@@ -37,14 +37,14 @@ WALK = [
     (3, None, "'I lied to her on purpose that it does not come off.' In Russian, the idea of 'I' flows naturally into 'come off' without extra filler words. Vika answers right away."),
     (4, None, "'Now the part about you lying I readily believe!' Spoken Russian keeps this brisk, leaning on 'here' and finishing on 'to believe'."),
     (5, None, "'That was my former classmate, nothing happened between us!' The grammar packs 'this' and 'not' into a tight, idiomatic kitchen exchange."),
-    (6, None, "'She tried to kiss me, but I honestly held back.' Notice the reflexive suffix on the verb meaning 'hold back', turning the action back on the subject."),
+    (6, None, "'She tried to kiss me, but I honestly held back.' In everyday Russian, 'tried' flows straight into 'hold back, restrain oneself' without extra linking words."),
     (7, None, "'Because I still love only you!' The grammar packs 'that is why' and 'like' into a tight, idiomatic kitchen exchange."),
     (8, None, "'Too bad you did not hold back when we were married.' The grammar packs 'it is a pity' and 'married' into a tight, idiomatic kitchen exchange."),
-    (9, None, "'And now it is too late, I no longer love you.' The grammar packs 'and' and 'you' into a tight, idiomatic kitchen exchange."),
+    (9, None, "'And now it is too late, I no longer love you.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
     (10, None, "'Be a real man at last and stop humiliating yourself!' Vika anchors the line on 'were he', while 'to humiliate oneself' completes the thought."),
     (11, None, "'Hello, Dasha, is your offer about Sochi still open?' The grammar packs 'hello' and 'force' into a tight, idiomatic kitchen exchange."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Stung by Vika's harsh words, Max packs his bag to fly away to Sochi with Dasha. See you in the next scene."
-CLOSING = ('anya', 'Нам нужно серьёзно поговорить.')
+OUTRO = "Stung by Vika's harsh words, Max packs his bag to fly away to Sochi with Dasha. Until next time!"
+CLOSING = ("anya", "До завтра!")

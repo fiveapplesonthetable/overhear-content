@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | А ну, хватит! | Come on, enough! | #284 00:20:02: А ну, хватит | adapted: adapted |
-| 2 | Лёва | А ну, извиняйся! | Come on, apologize! | #286 00:20:09: А ну, извиняйся | adapted: adapted |
+| 1 | Шеф | А ну, хватит! | Come on, enough! | #284 00:20:02: А ну, хватит | adapted: adapted |
+| 2 | Элеонора | А ну, извиняйся! | Come on, apologize! | #286 00:20:09: А ну, извиняйся | adapted: adapted |
 | 3 | Элеонора | Что здесь происходит? | What is going on here? | #287 00:20:12: Что здесь происходит | adapted: adapted |
-| 4 | Аня | Всё нормально. | Everything is fine. | #288 00:20:15: Все нормально | adapted: adapted |
-| 5 | Аня | Поругались из-за девушки, молодые, горячие. | They argued over a girl, young and hot-headed. | #289 00:20:17: за девушки молодые, горячие | adapted: adapted |
+| 4 | Шеф | Всё нормально. | Everything is fine. | #288 00:20:15: Все нормально | adapted: adapted |
+| 5 | Шеф | Поругались из-за девушки, молодые, горячие. | They argued over a girl, young and hot-headed. | #289 00:20:17: за девушки молодые, горячие | adapted: adapted |
 | 6 | Элеонора | Из-за какой ещё девушки? | Over what girl? | #290 00:20:20: Из-за какой еще девушки | adapted: adapted |
-| 7 | Лёва | Он приставал к девушке! | He was hitting on a girl! | #290 00:20:20: Он приставал к<br>#292 00:20:27: приставал к девушке | adapted: adapted |
-| 8 | Аня | Ты уволен! | You are fired! | #294 00:20:32: Ты уволен | adapted: adapted |
-| 9 | Аня | За драку и за отвратительное приготовление блюд! | For the fight and for the disgusting preparation of dishes! | #295 00:20:34: За драку и за отвратительное приготовление блюд | adapted: adapted |
-| 10 | Аня | Лёва, ты молодец. | Lyova, well done. | #296 00:20:44: ты молодец | adapted: adapted |
-| 11 | Аня | Не переживай, Артём. | Do not worry, Artyom. | #297 00:20:47: Не переживай, Артём | adapted: adapted |
-| 12 | Аня | Ещё найдёшь себе другую работу! | You will find yourself another job! | #298 00:20:50: Ещё найдёшь себе другую работу | adapted: adapted |
+| 7 | Элеонора | Он приставал к девушке! | He was hitting on a girl! | #290 00:20:20: Он приставал к<br>#292 00:20:27: приставал к девушке | adapted: adapted |
+| 8 | Шеф | Ты уволен! | You are fired! | #294 00:20:32: Ты уволен | adapted: adapted |
+| 9 | Шеф | За драку и за отвратительное приготовление блюд! | For the fight and for the disgusting preparation of dishes! | #295 00:20:34: За драку и за отвратительное приготовление блюд | adapted: adapted |
+| 10 | Шеф | Лёва, ты молодец. | Lyova, well done. | #296 00:20:44: ты молодец | adapted: adapted |
+| 11 | Шеф | Не переживай, Артём. | Do not worry, Artyom. | #297 00:20:47: Не переживай, Артём | adapted: adapted |
+| 12 | Шеф | Ещё найдёшь себе другую работу! | You will find yourself another job! | #298 00:20:50: Ещё найдёшь себе другую работу | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

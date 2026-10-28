@@ -27,5 +27,5 @@
 | 13 | `bonnero` (Madame Bonnero) | Alors, qu'est-ce qu'on mange ensemble? | So, what do we eat together? | 640:Qu'est-ce qu'on mange |
 
 ## Part 5 — Outro & Closing
-> Andrea discovers the generous hospitality of Dany Boon's mother in Bergues. When you watch the episode, listen out for the expressions meaning 'hello' and 'look for'. You'll catch them now. See you next time.
+> Andrea discovers the generous hospitality of Dany Boon's mother in Bergues. When you watch the episode, listen out for the expressions meaning 'hello' and 'look for'. You'll catch them now. See you next time!
 - **Closing**: `bonnero`: *À demain!*

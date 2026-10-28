@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Миша, может, тебе больше не играть? | Misha, maybe you should not play anymore? | #60 00:04:45: Миш, может, тебе больше не играть | adapted: adapted |
-| 2 | Аня | Ну пойми, что это не твоё. | Just understand that this is not for you. | #61 00:04:47: Ну пойми, что это не твое | adapted: adapted |
-| 3 | Михаил | Я очень хорошо умею играть. | I know how to play very well. | #62 00:04:50: Я умею играть | adapted: adapted |
-| 4 | Михаил | Просто мне сегодня не повезло. | I was simply unlucky today. | #63 00:04:53: Просто мне не повезло | adapted: adapted |
-| 5 | Аня | Хозяйка отеля к себе зовёт. | The hotel owner is calling me to her office. | #67 00:05:04: к себе зовет | adapted: adapted |
-| 6 | Михаил | Ей уже обо всём донесли. | Someone has already reported everything to her. | #68 00:05:07: А то уже донесли | adapted: adapted |
+| 1 | Шеф | Миша, может, тебе больше не играть? | Misha, maybe you should not play anymore? | #60 00:04:45: Миш, может, тебе больше не играть | adapted: adapted |
+| 2 | Шеф | Ну пойми, что это не твоё. | Just understand that this is not for you. | #61 00:04:47: Ну пойми, что это не твое | adapted: adapted |
+| 3 | Шеф | Я очень хорошо умею играть. | I know how to play very well. | #62 00:04:50: Я умею играть | adapted: adapted |
+| 4 | Шеф | Просто мне сегодня не повезло. | I was simply unlucky today. | #63 00:04:53: Просто мне не повезло | adapted: adapted |
+| 5 | Шеф | Хозяйка отеля к себе зовёт. | The hotel owner is calling me to her office. | #67 00:05:04: к себе зовет | adapted: adapted |
+| 6 | Шеф | Ей уже обо всём донесли. | Someone has already reported everything to her. | #68 00:05:07: А то уже донесли | adapted: adapted |
 | 7 | Настя | Алло, да, я могу говорить. | Hello, yes, I can talk now. | #69 00:05:20: Алло, да. Да, могу говорить | adapted: adapted |
 | 8 | Настя | Нет, Костя сейчас не рядом. | No, Kostya is not nearby right now. | #70 00:05:24: Нет, Костя не рядом | adapted: adapted |
 | 9 | Настя | Нет, я ещё ничего не сказала. | No, I have not said anything yet. | #71 00:05:27: Нет, еще не сказала | adapted: adapted |

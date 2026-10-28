@@ -29,5 +29,5 @@
 | 15 | `cecile` (Cécile) | Bon. Alors, je vais attendre. | Fine. Then I | adapted |
 
 ## Part 5 — Outro & Closing
-> Nicely done. Next time someone tells you they have to take an urgent call, you'll know exactly what to think. See you soon for what happens next.
+> Nicely done. See you next time!
 - **Closing**: `cecile`: *À tout à l'heure!*

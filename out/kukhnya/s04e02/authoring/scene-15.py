@@ -1,14 +1,14 @@
-ID = "kukhnya-s04e02-scene-15"
-SHOW = "kukhnya"
+ID = 'kukhnya-s04e02-scene-15'
+SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 2
 SCENE = 15
-TITLE = 'Кухня как оркестр  (The Kitchen as an Orchestra)'
+TITLE = "Кухня как оркестр  (The Kitchen as an Orchestra)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Макс', 'lyova': 'Лёва', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S4.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "denis": "anja", "anya": "alisa"}
+LABELS = {"lyova": "Лёва", "denis": "Денис", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S4.02'
 SOURCE_FILE = 'sources/kukhnya/s04/e02.ru.srt'
 
 INTRO = "After Lyova visits Viktor and advises him to apologize to Nagiyev, Denis begins his trial shift in the kitchen with Max's coaching—just as Viktor walks back into the restaurant completely sober. Listen in Russian first."
@@ -31,22 +31,20 @@ STORY = [
 OPENER = "Let's look closely at each Russian line in this scene."
 
 WALK = [
-    (0, None, "'Viktor Petrovich, let's go home.' Lyova keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (1, None, "'Please be reasonable.' In spoken Russian, Lyova omits unnecessary linking verbs so the key idea lands immediately."),
-    (2, None, "'Ask Dmitry Vladimirovich for forgiveness.' Lyova uses natural conversational word order here to highlight the most important part of the reply."),
-    (3, None, "'Max, I am definitely going to mess up here.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately."),
-    (4, None, "'Come on, you are a musician. Approach it creatively.' Max uses natural conversational word order here to highlight the most important part of the reply."),
+    (0, None, "'Viktor Petrovich, let's go home.' In everyday Russian, 'let's go' flows straight into 'home' without extra linking words."),
+    (1, None, "'Please be reasonable.' Lyova centers this short reply on 'reasonable', letting a few direct words carry the whole meaning."),
+    (2, None, "'Ask Dmitry Vladimirovich for forgiveness.' Notice how Russian puts 'ask' and 'forgiveness' together in a short, direct phrase where word endings show how the ideas connect."),
+    (3, None, "'Max, I am definitely going to mess up here.' Denis centers this short reply on 'exactly', letting a few direct words carry the whole meaning."),
+    (4, None, "'Come on, you are a musician. Approach it creatively.' In everyday Russian, 'musician' flows straight into 'creatively' without extra linking words."),
     (5, None, "'Imagine that the kitchen is your orchestra.' Max addresses the listener with the informal singular pronoun, showing a close or familiar relationship."),
-    (6, None, "'Denis, your trial period started half an hour ago.' Lyova keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (7, None, "'Got it. On my way.' In spoken Russian, Denis omits unnecessary linking verbs so the key idea lands immediately."),
-    (8, None, "'Hello, everyone.' Denis uses natural conversational word order here to highlight the most important part of the reply."),
-    (9, None, "'Prep work runs in the Lavrov blood.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
+    (6, None, "'Denis, your trial period started half an hour ago.' Notice how Russian puts 'already' and 'term, suspension' together in a short, direct phrase where word endings show how the ideas connect."),
+    (7, None, "'Got it. On my way.' Here Denis anchors the thought on 'understood' and finishes on 'am going', keeping the spoken rhythm brisk and natural."),
+    (8, None, "'Hello, everyone.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context."),
+    (9, None, "'Prep work runs in the Lavrov blood.' Max pairs 'preparation' with 'of blood' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (10, None, "'And what if Nagiyev sees me here?' Denis raises the pitch on the key word to turn this short Russian clause into a direct question."),
-    (11, None, "'Folks, it is the second coming of the Chef out there.' Lyova uses natural conversational word order here to highlight the most important part of the reply."),
+    (11, None, "'Folks, it is the second coming of the Chef out there.' Here Lyova anchors the thought on 'the people' and finishes on 'chef', keeping the spoken rhythm brisk and natural."),
 ]
 
 TRANSITION = 'With all the phrases clear, listen to the full Russian dialogue again.'
-
-OUTRO = 'That covers Max comparing the kitchen to an orchestra and Viktor returning sober. Listen for how Russian imperatives encourage creative thinking. See you in the next scene.'
-CLOSING = ('denis', 'Всем привет.')
-CLOSING_TRANS = 'Hello, everyone.'
+OUTRO = 'That covers Max comparing the kitchen to an orchestra and Viktor returning sober. Listen for how Russian imperatives encourage creative thinking. Until next time!'
+CLOSING = ("denis", "Всего хорошего!")

@@ -18,11 +18,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Михаил | Тебе ничего доверять нельзя. | You cannot be trusted with anything. | #226 00:14:34: Тебе ничего доверять нельзя | adapted: verbatim |
 | 7 | Михаил | У нас есть девушки лёгкого поведения? | Do we have girls of easy virtue? | #227 00:14:39: У нас же есть девушки легкого поведения? | adapted: adapted |
 | 8 | Михаил | Поднимись сейчас наверх в номер. | Go upstairs to the room right now. | #230 00:15:00: поднимись | adapted: adapted |
-| 9 | Аня | Ты что здесь у меня делаешь? | What are you doing here in my office? | #231 00:15:09: Ты что здесь? | adapted: adapted |
+| 9 | Михаил | Ты что здесь у меня делаешь? | What are you doing here in my office? | #231 00:15:09: Ты что здесь? | adapted: adapted |
 | 10 | Нагиев | Знай, что это моя месть. | Know that this is my revenge. | #233 00:15:12: месть | adapted: adapted |
 | 11 | Нагиев | Это блюдо, которое подают холодным. | It is a dish that is served cold. | #234 00:15:14: Это блюдо, которое подают холодным | adapted: verbatim |
 | 12 | Нагиев | А я тебе его разогрел. | And I warmed it up for you. | #234 00:15:14: а я тебе<br>#234 00:15:14: разогрел | adapted: adapted |
-| 13 | Аня | Ты что, убил моего Аркадия?! | Wait, did you kill my Arkady?! | #235 00:15:21: Ты убил | adapted: adapted |
+| 13 | Михаил | Ты что, убил моего Аркадия?! | Wait, did you kill my Arkady?! | #235 00:15:21: Ты убил | adapted: adapted |
 | 14 | Нагиев | Питаюсь плохо, надо к врачу сходить. | I am eating poorly, I should go see a doctor. | #236 00:15:24: Питаюсь, наверное, плохо, надо к врачу сходить | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

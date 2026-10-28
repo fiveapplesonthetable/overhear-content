@@ -28,5 +28,5 @@
 | 14 | `camille` (Camille) | J'y vais immédiatement, ne bouge pas! | I am going immediately, do not move! | 1264:J'y vais, j'y vais |
 
 ## Part 5 — Outro & Closing
-> While sorting out actor contracts with Mathias, Camille is abruptly called to help an agonizing Andrea, whose labor pains have suddenly begun. When you watch the episode, listen out for the expressions meaning 'satisfactory' and 'completed'. You'll catch them now. See you next time.
+> While sorting out actor contracts with Mathias, Camille is abruptly called to help an agonizing Andrea, whose labor pains have suddenly begun. When you watch the episode, listen out for the expressions meaning 'satisfactory' and 'completed'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Мы не можем убрать авторское меню. | We cannot remove the auteur menu. | #196 00:13:48: мы не можем убрать авторское меню | adapted: adapted |
-| 2 | Аня | Мы хотим первыми в России получить звезду. | We want to be the first in Russia to get a star. | #197 00:13:52: если хотим получить первыми в России звезду | adapted: adapted |
+| 1 | Шеф | Мы не можем убрать авторское меню. | We cannot remove the auteur menu. | #196 00:13:48: мы не можем убрать авторское меню | adapted: adapted |
+| 2 | Шеф | Мы хотим первыми в России получить звезду. | We want to be the first in Russia to get a star. | #197 00:13:52: если хотим получить первыми в России звезду | adapted: adapted |
 | 3 | Элеонора | Не только мы этого сейчас хотим. | We are not the only ones who want that right now. | #198 00:13:55: Не только мы хотим | adapted: adapted |
 | 4 | Элеонора | Конкуренты уже попали в ресторанный гид. | Competitors have already made it into the restaurant guide. | #202 00:14:04: Ресторанный гид. В ресторанный гид, да | adapted: adapted |
-| 5 | Аня | Я ни за что не уберу авторское меню. | I will never remove the auteur menu. | #207 00:14:23: Я не уберу авторское меню | adapted: adapted |
-| 6 | Аня | Эля, мы же с тобой договаривались. | Elya, you and I had an agreement. | #208 00:14:26: Эля, мы с тобой договаривались | adapted: adapted |
+| 5 | Шеф | Я ни за что не уберу авторское меню. | I will never remove the auteur menu. | #207 00:14:23: Я не уберу авторское меню | adapted: adapted |
+| 6 | Шеф | Эля, мы же с тобой договаривались. | Elya, you and I had an agreement. | #208 00:14:26: Эля, мы с тобой договаривались | adapted: adapted |
 | 7 | Элеонора | Ты прав, но решать проблему надо. | You are right, but we must solve the problem. | #209 00:14:29: Ты прав, но решать проблему надо | adapted: adapted |
 | 8 | Элеонора | Значит, будем вместе инвестировать в ресторан? | So, shall we invest in the restaurant together? | #210 00:14:35: Значит, будем инвестировать | adapted: adapted |
 | 9 | Элеонора | Миша, посчитай, сколько нам нужно денег. | Misha, calculate how much money we need. | #211 00:14:37: Миша, посчитай, сколько нужно | adapted: adapted |
-| 10 | Михаил | Всё уже рассчитано, нужно два миллиона. | Everything is already calculated, we need two million. | #212 00:14:41: Все уже рассчитано, нужно 2 миллиона | adapted: adapted |
+| 10 | Шеф | Всё уже рассчитано, нужно два миллиона. | Everything is already calculated, we need two million. | #212 00:14:41: Все уже рассчитано, нужно 2 миллиона | adapted: adapted |
 | 11 | Элеонора | Значит, с нас по миллиону рублей. | That means one million rubles from each of us. | #213 00:14:43: у нас с тобой по миллиону рублей | adapted: adapted |
-| 12 | Аня | Хорошо, я принесу свою часть. | Fine, I will bring my share. | #214 00:14:47: Пока все | adapted: adapted |
+| 12 | Шеф | Хорошо, я принесу свою часть. | Fine, I will bring my share. | #214 00:14:47: Пока все | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

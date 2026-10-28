@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | Euh, oui, trois. Mais courage, Sofia! | Er, yes, three. But hang in there, Sofia! | 207:Trois ? |
 
 ## Part 5 — Outro & Closing
-> Sofia's first auditions with Gabriel haven't gone well, and right after this Mathias walks into the agency on the phone with Audrey, joking that if her dress is too small she shouldn't eat until tomorrow. Listen out for the words meaning 'too' and 'not enough'. See you next time.
+> Sofia's first auditions with Gabriel haven't gone well, and right after this Mathias walks into the agency on the phone with Audrey, joking that if her dress is too small she shouldn't eat until tomorrow. Listen out for the words meaning 'too' and 'not enough'. See you next time!
 - **Closing**: `gabriel`: *À demain!*

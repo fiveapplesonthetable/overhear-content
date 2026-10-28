@@ -17,10 +17,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Аня | Доброе утро вам. | Good morning to you. | #95 00:06:58: Доброе | adapted: adapted |
 | 6 | Вика | Тихо, это сейчас Дима звонит. | Quiet, that is Dima calling right now. | #96 00:07:07: Это Дима звонит | adapted: adapted |
 | 7 | Вика | Здравствуйте, уважаемый Дмитрий Владимирович. | Hello, dear Dmitry Vladimirovich. | #97 00:07:10: Здравствуйте, Дмитрий Владимирович | adapted: adapted |
-| 8 | Нагиев | Ну что, дорогая Виктория Сергеевна. | Well then, dear Victoria Sergeyevna. | #98 00:07:12: Ну, Виктория Сергеевна | adapted: adapted |
-| 9 | Нагиев | Мы же с тобой договаривались, да? | You and I had an agreement, right? | #99 00:07:15: Мы же договаривались, да | adapted: adapted |
+| 8 | Вика | Ну что, дорогая Виктория Сергеевна. | Well then, dear Victoria Sergeyevna. | #98 00:07:12: Ну, Виктория Сергеевна | adapted: adapted |
+| 9 | Вика | Мы же с тобой договаривались, да? | You and I had an agreement, right? | #99 00:07:15: Мы же договаривались, да | adapted: adapted |
 | 10 | Вика | Здравствуй, Дима. | Hello, Dima. | #100 00:07:18: Здравствуй, Дима | adapted: adapted |
-| 11 | Нагиев | Я решил заехать за коллегой и подвезти на работу. | I decided to pick up my colleague and give her a ride to work. | #101 00:07:22: заехать за коллегой, не подвезти на работу | adapted: adapted |
+| 11 | Вика | Я решил заехать за коллегой и подвезти на работу. | I decided to pick up my colleague and give her a ride to work. | #101 00:07:22: заехать за коллегой, не подвезти на работу | adapted: adapted |
 | 12 | Аня | Там в дверь кто-то звонит. | Someone is ringing the doorbell there. | #103 00:07:34: звонит | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

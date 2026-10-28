@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I am almost ready and my suitcase is packed too.' The meaning hinges on 'I' working together with 'some' in spoken Russian.
-- 'How about you?' In Russian, the idea of 'you' flows naturally into 'how' without extra filler words. Max answers right away.
+- 'How about you?' Kostya centers this short reply on 'how / what do you mean', letting a few direct words carry the whole meaning.
 - 'I mean, I am not.' Max anchors the line on 'sense', while 'there is no' completes the thought.
 - 'I mean, I am in the middle of it.' In Russian, the idea of 'sense' flows naturally into 'process' without extra filler words.
 - 'Kisses. Yes.' Here the Russian phrasing highlights 'am kissing' before landing on 'yes'. Kostya answers right away.

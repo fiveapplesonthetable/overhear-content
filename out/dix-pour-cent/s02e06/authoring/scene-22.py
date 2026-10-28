@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 22
-TITLE = "Perdus dans les couloirs  (Lost in the Corridors)"
-LEVEL = "A1 — débutant"
+TITLE = 'Perdus dans les couloirs  (Lost in the Corridors)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "juliette": "emilie", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"juliette": "Juliette", "lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'juliette': 'emilie', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'juliette': 'Juliette', 'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Lost behind the scenes of the Palais des Festivals, Andréa, Juliette Binoche, and Hicham rush frantically through service hallways. Time is running out before the opening ceremony as panic escalates. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andréa, Juliette, and Hicham navigate the backstage maze step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "A frantic search for a restroom turns into a backstage labyrinth as Juliette's dress suffers unexpected damage moments before the show. Until next time! See you next time!"
-CLOSING = ("juliette", "À bientôt!")
+OUTRO = "A frantic search for a restroom turns into a backstage labyrinth as Juliette's dress suffers unexpected damage moments before the show. See you next time!"
+CLOSING = ('juliette', 'À bientôt!')
 STORY = [
     ('lea', 'Par ici, dépêchons-nous un peu!', 'This way, let us hurry up a bit!', [(604, 'Par ici.')], ''),
     ('juliette', 'Je dois monter sur scène bientôt.', 'I have to go on stage soon.', [(600, 'Tu montes')], ''),

@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 6
 SCENE = 8
 TITLE = "Un deuil à l'agence  (A Mourning at the Agency)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "At the ASK offices, tensions explode between Andrea and Mathias over lost film projects and departing clients. But their bitter quarrel comes to a sudden halt when Arlette rushes in with devastating news. Let's listen to their conversation in French first."
 OPENER = "Let's look at Andrea and Mathias arguing before tragedy strikes step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "An angry confrontation between Andrea and Mathias over ASK's downfall is silenced by tragedy when Arlette arrives with her beloved dog Jean, who has passed away. When you watch the episode, listen out for the expressions meaning 'left' and 'fine'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne soirée!")
+OUTRO = "An angry confrontation between Andrea and Mathias over ASK's downfall is silenced by tragedy when Arlette arrives with her beloved dog Jean, who has passed away. When you watch the episode, listen out for the expressions meaning 'left' and 'fine'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('lea', 'François Ozon est parti chez StarMédia.', 'Francois Ozon left for StarMedia.', [(358, 'Ozon')], ''),
     ('mathias', "Ce beau projet peut sauver l'agence.", 'This fine project can save the agency.', [(372, 'sauver ASK')], ''),

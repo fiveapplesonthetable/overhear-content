@@ -1,41 +1,40 @@
-# kukhnya-s01e10-scene-41: review sheet
+# Подозрительная икра  (Suspicious Caviar) — `kukhnya-s01e10-scene-41`
 
-Title: Подозрительная икра  (Suspicious Caviar)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.10
+**Source:** Кухня (Kukhnya) S1.10 · `sources/kukhnya/s01/e10.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `nagiyev` | angelina | Нагиев |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the lavish dining hall of Claude Monet, restaurant owner Dmitry Nagiyev summons Chef Viktor Barinov to his table. Eyeing a plate of strangely colored black caviar intended for wealthy guests, Nagiyev demands an immediate and honest explanation.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Витя, иди скорее сюда к столу! | Vitya, come quickly here to the table! | new | new: Nagiyev calls |
-| 2 | Шеф | Что случилось, Дмитрий Владимирович, в чём дело? | What happened, Dmitry Vladimirovich, what is the matter? | new | new: Barinov asks |
-| 3 | Нагиев | Витя, скажи мне прямо, это чего? | Vitya, tell me straight, what is this? | #293 00:20:57: Вить, это чего? | adapted: Nagiyev points |
-| 4 | Шеф | Чего? Вот это на тарелке чего? | What? What is this on the plate? | #294 00:20:59: Чего? Вот это чего? | adapted: Chef acts dumb |
-| 5 | Шеф | Это самая настоящая свежая русская икра. | This is real fresh Russian caviar. | #295 00:21:02: Икра. | adapted: Chef claims |
-| 6 | Шеф | Причём очень дорогая и очень хорошая икра! | And very expensive and very good caviar! | #296 00:21:05: Причем очень хорошая. | adapted: Chef praises |
-| 7 | Нагиев | Витя, ты совсем дурак или притворяешься? | Vitya, are you a complete fool or pretending? | #297 00:21:06: Вить, ты дурак? | adapted: Nagiyev fumes |
-| 8 | Шеф | В каком смысле дурак, не понимаю вас! | In what sense a fool, I do not understand you! | #297 00:21:06: В смысле? | adapted: Chef defends |
-| 9 | Нагиев | Вот это чего, я тебя строго спрашиваю?! | What is this, I am strictly asking you?! | #298 00:21:11: Вот это чего я тебя спрашиваю? | adapted: Nagiyev demands |
-| 10 | Шеф | Гости просили чёрную икру к праздничному столу. | The guests asked for black caviar for the holiday table. | new | new: Chef explains request |
-| 11 | Нагиев | Но цвет у этой икры странный и подозрительный. | But the color of this caviar is strange and suspicious. | new | new: Nagiyev inspects |
-| 12 | Шеф | Особый свет в зале меняет все оттенки. | Special lighting in the hall changes all shades. | new | new: Chef makes excuse |
-| 13 | Нагиев | Не ври мне, говори сейчас всю правду! | Do not lie to me, tell the whole truth now! | new | new: Nagiyev insists |
+| 0 | Нагиев | Витя, иди скорее сюда к столу! | Vitya, come quickly here to the table! | *(added)* |  |
+| 1 | Шеф | Что случилось, Дмитрий Владимирович, в чём дело? | What happened, Dmitry Vladimirovich, what is the matter? | *(added)* |  |
+| 2 | Нагиев | Витя, скажи мне прямо, это чего? | Vitya, tell me straight, what is this? | #293 "Вить, это чего?" |  |
+| 3 | Шеф | Чего? Вот это на тарелке чего? | What? What is this on the plate? | #294 "Чего? Вот это чего?" |  |
+| 4 | Шеф | Это самая настоящая свежая русская икра. | This is real fresh Russian caviar. | #295 "Икра." |  |
+| 5 | Шеф | Причём очень дорогая и очень хорошая икра! | And very expensive and very good caviar! | #296 "Причем очень хорошая." |  |
+| 6 | Нагиев | Витя, ты совсем дурак или притворяешься? | Vitya, are you a complete fool or pretending? | #297 "Вить, ты дурак?" |  |
+| 7 | Шеф | В каком смысле дурак, не понимаю вас! | In what sense a fool, I do not understand you! | #297 "В смысле?" |  |
+| 8 | Нагиев | Вот это чего, я тебя строго спрашиваю?! | What is this, I am strictly asking you?! | #298 "Вот это чего я тебя спрашиваю?" |  |
+| 9 | Шеф | Гости просили чёрную икру к праздничному столу. | The guests asked for black caviar for the holiday table. | *(added)* |  |
+| 10 | Нагиев | Но цвет у этой икры странный и подозрительный. | But the color of this caviar is strange and suspicious. | *(added)* |  |
+| 11 | Шеф | Особый свет в зале меняет все оттенки. | Special lighting in the hall changes all shades. | *(added)* |  |
+| 12 | Нагиев | Не ври мне, говори сейчас всю правду! | Do not lie to me, tell the whole truth now! | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Vitya, come quickly here to the table!' Nagiyev calls the head chef into the dining room.
-- 'What happened, Dmitry Vladimirovich, what is the matter?' Chef Barinov uses the perfective verb meaning 'to happen' to focus on the single completed result, pairing it with 'matter'.
-- 'Vitya, tell me straight, what is this?' Nagiyev uses the perfective verb meaning 'to say' to focus on the single completed result, pairing it with 'straight'.
-- 'What? What is this on the plate?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'plate'.
-- 'This is real fresh Russian caviar.' Russian omits the present-tense verb 'to be' here, linking 'real' directly with 'fresh', combining 'real' with 'fresh' and 'Russian'.
-- 'And very expensive and very good caviar!' Russian omits the present-tense verb 'to be' here, linking 'very' directly with 'expensive', combining 'very' with 'expensive'.
-- 'Vitya, are you a complete fool or pretending?' Nagiyev turns a statement into a question purely through rising intonation on the word meaning 'quite', pairing it with 'fool' and 'to pretend'.
-- 'In what sense a fool, I do not understand you!' Chef Barinov expresses this naturally by combining the word for 'sense' with 'fool' and 'to understand'.
-- 'What is this, I am strictly asking you?!' Nagiyev puts the word for 'strictly' together with 'to ask' in a crisp, natural spoken turn of phrase.
-- 'The guests asked for black caviar for the holiday table.' Here Chef Barinov anchors the line on the word meaning 'guest' and builds the thought around 'to ask' and 'black'.
-- 'But the color of this caviar is strange and suspicious.' Russian omits the present-tense verb 'to be' here, linking 'colour' directly with 'caviar', combining 'colour' with 'caviar' and 'strange'.
-- 'Special lighting in the hall changes all shades.' Chef Barinov expresses this naturally by combining the word for 'special' with 'light' and 'hall'.
-- 'Do not lie to me, tell the whole truth now!' Nagiyev chooses the imperfective verb meaning 'to lie' for the ongoing action, followed by 'to speak' and 'now'.
+> Cornered by his sharp-eyed boss in front of empty tables, Barinov realizes his culinary deception cannot last. Next time you watch the episode, listen for the Russian expressions for 'to lie' and 'to speak' — you will catch every word right away. See you next time!
+
+**Нагиев:** Пока!

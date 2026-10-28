@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Лучше сразу всё ей расскажи. | Better tell her everything right away. | #79 00:07:09: лучше расскажи | adapted: adapted |
+| 1 | Костя | Лучше сразу всё ей расскажи. | Better tell her everything right away. | #79 00:07:09: лучше расскажи | adapted: adapted |
 | 2 | Настя | О чём вы тут говорите? | What are you talking about here? | #80 00:07:13: Костик? | adapted: adapted |
-| 3 | Аня | Представь, что мы с тобой расстались. | Imagine that you and I broke up. | #81 00:07:17: Представь, что мы с тобой расстались | adapted: verbatim |
+| 3 | Костя | Представь, что мы с тобой расстались. | Imagine that you and I broke up. | #81 00:07:17: Представь, что мы с тобой расстались | adapted: verbatim |
 | 4 | Настя | Ты что, совсем дурак? | Are you a complete fool? | #82 00:07:21: Ты дурак? | adapted: adapted |
-| 5 | Аня | Да нет, ты просто представь. | No, just imagine it. | #83 00:07:23: Да нет, ты представь | adapted: adapted |
-| 6 | Аня | Я говорю это чисто образно. | I am saying this purely figuratively. | #84 00:07:27: Я образно | adapted: adapted |
-| 7 | Аня | Я бы переспал с другой девушкой. | Suppose I slept with another girl. | #85 00:07:29: я бы переспал с другой девушкой | adapted: verbatim |
-| 8 | Аня | И потом тебе обо всём рассказал. | And then told you all about it. | #85 00:07:29: и потом тебе обо всем рассказал | adapted: verbatim |
+| 5 | Костя | Да нет, ты просто представь. | No, just imagine it. | #83 00:07:23: Да нет, ты представь | adapted: adapted |
+| 6 | Костя | Я говорю это чисто образно. | I am saying this purely figuratively. | #84 00:07:27: Я образно | adapted: adapted |
+| 7 | Костя | Я бы переспал с другой девушкой. | Suppose I slept with another girl. | #85 00:07:29: я бы переспал с другой девушкой | adapted: verbatim |
+| 8 | Костя | И потом тебе обо всём рассказал. | And then told you all about it. | #85 00:07:29: и потом тебе обо всем рассказал | adapted: verbatim |
 | 9 | Настя | Ты что, мне изменил? | Wait, did you cheat on me? | #86 00:07:35: Ты что, мне изменил? | adapted: verbatim |
-| 10 | Аня | Ну ты же ещё не представила! | Well, you have not imagined it yet! | #87 00:07:38: Ну ты же не представила | adapted: adapted |
+| 10 | Костя | Ну ты же ещё не представила! | Well, you have not imagined it yet! | #87 00:07:38: Ну ты же не представила | adapted: adapted |
 | 11 | Настя | Когда? Когда это было? | When? When did that happen? | #88 00:07:40: Когда? Когда это было? | adapted: verbatim |
-| 12 | Аня | Этого никогда не было, Настя! | That never happened, Nastya! | #89 00:07:42: Этого не было, Настя | adapted: adapted |
+| 12 | Костя | Этого никогда не было, Настя! | That never happened, Nastya! | #89 00:07:42: Этого не было, Настя | adapted: adapted |
 | 13 | Настя | А теперь боишься мне рассказать, да? | And now you are afraid to tell me, right? | #90 00:07:44: А теперь боишься мне рассказать, да? | adapted: verbatim |
 | 14 | Настя | Какой же ты трус! | What a coward you are! | #91 00:07:47: Трус | adapted: adapted |
 

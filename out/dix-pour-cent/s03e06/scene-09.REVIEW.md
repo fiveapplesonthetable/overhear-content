@@ -27,5 +27,5 @@
 | 13 | `arlette` (Arlette) | Marché conclu, signe ce papier maintenant. | Deal done, sign this paper now. | 489:Allez, signe. |
 
 ## Part 5 — Outro & Closing
-> Arlette's legendary dealmaking skills win over a tough producer once again. When you watch the episode, listen out for the expressions meaning 'story' and 'homonym'. You'll catch them now. See you next time.
+> Arlette's legendary dealmaking skills win over a tough producer once again. When you watch the episode, listen out for the expressions meaning 'story' and 'homonym'. You'll catch them now. See you next time!
 - **Closing**: `arlette`: *Bonne soirée!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 21
-TITLE = "Deux actrices pour un rôle  (Two Actresses for One Part)"
-LEVEL = "A1 — débutant"
+TITLE = 'Deux actrices pour un rôle  (Two Actresses for One Part)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "line": "emilie"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "line": "Line"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'line': 'emilie'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'line': 'Line'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "The power of rivalry. Françoise is coming back, the film is saved, and Andréa laughed at the very idea of Line in a Gabor film. Then Gabriel's phone rings. It's Line, and she is thrilled. Listen to it in French first, and don't worry if the argument goes fast."
 OPENER = "Let's take it slowly. Line Renaud is on the phone, and she can hardly contain herself."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'A real row between two old friends, and you followed it in French, so be pleased with yourself. Gabor now has two actresses for one part; see you next time to find out what happens.'
-CLOSING = ("line", "Bonne journée!")
+OUTRO = 'A real row between two old friends, and you followed it in French, so be pleased with yourself. Gabor now has two actresses for one part. See you next time!'
+CLOSING = ('line', 'Bonne journée!')
 STORY = [
     ('line', 'Gabi! Il me veut!', 'Gabi! He wants me!', [(608, 'Gabi'), (605, 'Il me veut')], ''),
     ('line', 'Je viens de passer deux heures avec Gabor.', 'I', [(606, 'Je viens de passer deux heures avec Gabor')], ''),

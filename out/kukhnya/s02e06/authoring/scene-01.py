@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e06-scene-01"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e06-scene-01'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 6
 SCENE = 1
 TITLE = "Наказание Макса и закрытый вход  (Max's Punishment and the VIP Entrance)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'max': 'anja'}
-LABELS = {'anya': 'Шеф', 'max': 'Макс'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.06"
-SOURCE_FILE = "sources/kukhnya/s02/e06.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.06'
+SOURCE_FILE = 'sources/kukhnya/s02/e06.ru.srt'
 
 INTRO = 'Exhausted from working non-stop after losing both Vika and Sasha, Max scrubs the kitchen and wonders aloud whether he was a tyrant in a past life to deserve such punishment. Outside the restaurant, he watches wealthy VIP guests pull up in luxury cars and asks the Chef if ordinary cooks ever get invited into that elite world.'
 
 STORY = [
-    ('anya', 'Верить теории буддистов.', 'If you believe the theory of the Buddhists.', [(2, 'верить теории буддистов')], ''),
-    ('max', 'Наверное, даже был Гитлером.', 'I was probably even Hitler in a past life.', [(3, 'Наверное, даже был Гитлером')], ''),
-    ('anya', 'Иначе я не понимаю?', 'Otherwise I just do not understand it?', [(4, 'Иначе я не понимаю')], ''),
-    ('max', 'За что мне такое наказание?', 'What did I do to deserve such punishment?', [(4, 'за что мне такое наказание')], ''),
-    ('anya', 'Как ты?', 'How are you holding up?', [(4, 'как ты')], ''),
-    ('max', 'А ведь если бы я туда попал.', 'And yet if I ever made it in there.', [(7, 'А ведь если бы я туда попал')], ''),
-    ('anya', 'Шеф, а можно с вами?', 'Chef, can I come along with you?', [(8, 'Шеф, а можно с вами')], ''),
-    ('max', 'Даже не мечтаю.', 'Do not even dream about it.', [(9, 'Даже не мечтаю')], ''),
-    ('anya', 'Они никого с собой не берут.', 'They never bring anyone along with them.', [(10, 'Они никого с собой не берут')], ''),
-    ('max', 'Мы для них никто.', 'To them, we are nobodies.', [(11, 'Мы для них никто')], ''),
-    ('anya', 'Это элита.', 'That is the elite.', [(11, 'Это элита')], ''),
-    ('max', 'А ты-то кто?', 'And who do you think you are?', [(12, 'А ты-то кто')], ''),
-    ('anya', 'Я здесь уже три года работаю.', 'I have been working here for three years already.', [(14, 'Я здесь уже три года работаю')], ''),
+    ('chef', 'Верить теории буддистов.', 'If you believe the theory of the Buddhists.', [(2, 'верить теории буддистов')], ''),
+    ('anya', 'Наверное, даже был Гитлером.', 'I was probably even Hitler in a past life.', [(3, 'Наверное, даже был Гитлером')], ''),
+    ('chef', 'Иначе я не понимаю?', 'Otherwise I just do not understand it?', [(4, 'Иначе я не понимаю')], ''),
+    ('anya', 'За что мне такое наказание?', 'What did I do to deserve such punishment?', [(4, 'за что мне такое наказание')], ''),
+    ('chef', 'Как ты?', 'How are you holding up?', [(4, 'как ты')], ''),
+    ('anya', 'А ведь если бы я туда попал.', 'And yet if I ever made it in there.', [(7, 'А ведь если бы я туда попал')], ''),
+    ('chef', 'Шеф, а можно с вами?', 'Chef, can I come along with you?', [(8, 'Шеф, а можно с вами')], ''),
+    ('anya', 'Даже не мечтаю.', 'Do not even dream about it.', [(9, 'Даже не мечтаю')], ''),
+    ('chef', 'Они никого с собой не берут.', 'They never bring anyone along with them.', [(10, 'Они никого с собой не берут')], ''),
+    ('anya', 'Мы для них никто.', 'To them, we are nobodies.', [(11, 'Мы для них никто')], ''),
+    ('chef', 'Это элита.', 'That is the elite.', [(11, 'Это элита')], ''),
+    ('anya', 'А ты-то кто?', 'And who do you think you are?', [(12, 'А ты-то кто')], ''),
+    ('chef', 'Я здесь уже три года работаю.', 'I have been working here for three years already.', [(14, 'Я здесь уже три года работаю')], ''),
 ]
 
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = "When you watch Scene 1 of Episode 6, listen out for the exchange around max's punishment and the vip entrance — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('max', 'А ты-то кто?')
+OUTRO = 'That wraps up this scene as working without days off after losing both Vika and Sasha, Max wonders what sins he committed in a past life while watching rich VIP guests arrive at Claude Monet. Until next time!'
+CLOSING = ("anya", "Пока!")

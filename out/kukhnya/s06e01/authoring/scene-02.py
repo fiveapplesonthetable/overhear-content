@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e01-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 1
 SCENE = 2
-TITLE = 'Инструктаж перед банкетом  (Pre-Banquet Briefing)'
+TITLE = "Инструктаж перед банкетом  (Pre-Banquet Briefing)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.01'
 SOURCE_FILE = 'sources/kukhnya/s06/e01.ru.srt'
 
 INTRO = 'Down in the kitchen, Chef Viktor Barinov gathers his culinary brigade before the wedding banquet for his ex-wife Eleonora and Dmitry Nagiyev, issuing a stern warning to Senya before a sudden wave of dizziness hits him.'
 
 STORY = [
-    ('anya', 'Все готово.', 'Everything is ready.', [(15, 'Все готово')], 'exact'),
+    ('chef', 'Все готово.', 'Everything is ready.', [(15, 'Все готово')], 'exact'),
     ('senya', 'Что?', 'What?', [(17, 'Что?')], 'exact'),
-    ('anya', 'Ничего, счастлив я сильно.', 'Nothing, I am very happy.', [(18, 'Счастлив я')], 'adapted'),
-    ('anya', 'Я надеюсь, вам повторять не надо.', 'I hope I do not need to repeat to you.', [(19, 'Я надеюсь, вам повторять не надо')], 'exact'),
-    ('anya', 'Сегодня очень важный банкет.', 'Today is a very important banquet.', [(20, 'сегодня очень важный банкет')], 'adapted'),
-    ('anya', 'И сразу предупреждаю всех.', 'And I am warning everyone right away.', [(22, 'И сразу предупреждаю всех')], 'exact'),
-    ('anya', 'Если пропадет омар, я тебя уволю.', 'If a lobster disappears, I will fire you.', [(23, 'Если пропадет хоть один')], 'adapted'),
+    ('chef', 'Ничего, счастлив я сильно.', 'Nothing, I am very happy.', [(18, 'Счастлив я')], 'adapted'),
+    ('chef', 'Я надеюсь, вам повторять не надо.', 'I hope I do not need to repeat to you.', [(19, 'Я надеюсь, вам повторять не надо')], 'exact'),
+    ('chef', 'Сегодня очень важный банкет.', 'Today is a very important banquet.', [(20, 'сегодня очень важный банкет')], 'adapted'),
+    ('chef', 'И сразу предупреждаю всех.', 'And I am warning everyone right away.', [(22, 'И сразу предупреждаю всех')], 'exact'),
+    ('chef', 'Если пропадет омар, я тебя уволю.', 'If a lobster disappears, I will fire you.', [(23, 'Если пропадет хоть один')], 'adapted'),
     ('senya', 'Шеф, все за работу.', 'Chef, everyone back to work.', [(24, 'за работу')], 'adapted'),
     ('senya', 'Шеф, все в порядке?', 'Chef, is everything alright?', [(26, 'Все в порядке')], 'adapted'),
-    ('anya', 'Все в порядке, магнитные бури.', 'Everything is fine, just magnetic storms.', [(27, 'Магнитные бури')], 'adapted'),
-    ('anya', 'Пойду прилягу.', 'I will go lie down for a bit.', [(27, 'Пойду прилягу')], 'exact'),
-    ('anya', 'Что стоим?', 'Why are we standing around?', [(28, 'Что стоим?')], 'exact'),
+    ('chef', 'Все в порядке, магнитные бури.', 'Everything is fine, just magnetic storms.', [(27, 'Магнитные бури')], 'adapted'),
+    ('chef', 'Пойду прилягу.', 'I will go lie down for a bit.', [(27, 'Пойду прилягу')], 'exact'),
+    ('chef', 'Что стоим?', 'Why are we standing around?', [(28, 'Что стоим?')], 'exact'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Barinov blames his sudden dizziness on magnetic storms and retreats to his office to lie down. See you in the next scene.'
-CLOSING = ('anya', 'Все за работу!')
+OUTRO = 'Barinov blames his sudden dizziness on magnetic storms and retreats to his office to lie down. See you next time!'
+CLOSING = ("chef", "Всего хорошего!")

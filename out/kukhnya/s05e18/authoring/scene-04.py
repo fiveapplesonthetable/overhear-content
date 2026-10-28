@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e18-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 18
 SCENE = 4
-TITLE = 'Шеф отправляет Макса собирать кроватку  (Chef Sends Max to Assemble the Crib)'
+TITLE = "Шеф отправляет Макса собирать кроватку  (Chef Sends Max to Assemble the Crib)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.18'
 SOURCE_FILE = 'sources/kukhnya/s05/e18.ru.srt'
 
 INTRO = "Max steps into Chef Barinov's office to invite him to the hospital discharge and ask to leave early for a celebration. Instead, Victor hands him Vika's keys and orders him to assemble the baby crib."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With the apartment keys in hand, Max heads over to Vika's place while Chef Barinov returns to his console game. See you in the next scene."
-CLOSING = ('chef', 'Езжай и собери кроватку.')
+OUTRO = "With the apartment keys in hand, Max heads over to Vika's place while Chef Barinov returns to his console game. See you next time!"
+CLOSING = ("chef", "Хорошего дня!")

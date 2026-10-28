@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 16
-TITLE = "La reconnaissance de paternité  (The Paternity Recognition)"
-LEVEL = "A1 — débutant"
+TITLE = 'La reconnaissance de paternité  (The Paternity Recognition)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Camille arrives at Mathias's apartment to discuss her lost book contract and share an unexpected decision. She tells Mathias that she is finally ready to accept official paternity recognition. Let's listen to their emotional conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Deeply touched by Camille's decision, Mathias leads her to his computer and goes to fetch drinks. When you watch the episode, listen out for the expressions meaning 'is going on' and 'problems'. You'll catch them now. See you next time."
-CLOSING = ("camille", "Bonne journée!")
+OUTRO = "Deeply touched by Camille's decision, Mathias leads her to his computer and goes to fetch drinks. When you watch the episode, listen out for the expressions meaning 'is going on' and 'problems'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'Bonne journée!')
 STORY = [
     ('mathias', 'Bonjour Camille! Comment tu vas?', 'Hello Camille! How are you doing?', [(1003, 'Comment tu vas')], ''),
     ('camille', "Ça va. Noémie n'est pas là?", 'I am fine. Is Noemie not here?', [(1005, "Noémie n'est pas là")], ''),

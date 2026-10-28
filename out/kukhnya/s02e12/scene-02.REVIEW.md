@@ -32,10 +32,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'They played the exact same prank on me when I started.' Max brings out the contrast between 'here' and 'me' in a few short words.
 - 'Reporting for duty.' Notice how Russian expresses 'for' and 'arrive' with crisp inflection rather than helper words. Vika answers right away.
 - 'Viktor Petrovich.' Vika anchors the line on 'Viktor', while 'Petrovich' completes the thought.
-- 'I have good news for you.' Here the Russian phrasing highlights 'by' before landing on 'news'.
+- 'I have good news for you.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Your MRI results just came back.' Spoken Russian keeps this brisk, leaning on 'have come' and finishing on 'your'. Vika answers right away.
 - 'You simply cannot take your eyes off them.' The meaning hinges on 'just' working together with 'to tear off' in spoken Russian.
 - 'Does that mean I can go back to work?' Max anchors the line on 'so', while 'work' completes the thought.
-- 'You will have to forget about work for at least two months.' Notice the reflexive suffix on the verb meaning 'it will be necessary', turning the action back on the subject. Vika answers right away.
+- 'You will have to forget about work for at least two months.' Chef Barinov pairs 'work' with 'months' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'What do you mean, for two months?' The grammar packs 'how' and 'months' into a tight, idiomatic kitchen exchange.
 - 'Two weeks here with us, and then bed rest at home.' Max brings out the contrast between 'two' and 'weeks' in a few short words.

@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e08-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 8
 SCENE = 2
 TITLE = "Слухи о перстне шейха  (Rumors About the Sheikh's Ring)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Федя', 'nastya': 'Настя', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.08"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "fedya": "anja"}
+LABELS = {"nastya": "Настя", "fedya": "Федя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.08'
 SOURCE_FILE = 'sources/kukhnya/s05/e08.ru.srt'
 
 INTRO = "In the locker room, Fedya swears that during the sheikh's last visit, a waiter received a jewel-encrusted ring and retired abroad. Nastya counters with a rumor from her friends that a waitress disappeared into the sheikh's harem."
 
 STORY = [
-    ('anya', 'И больше этого официанта никто не видел.', 'And nobody ever saw that waiter again.', [(11, 'больше этого'), (12, 'официанта никто не видел')], 'adapted'),
-    ('anya', 'Так клянусь, мне повар знакомый рассказывал.', 'I swear, a cook I know told me.', [(13, 'Так клянусь, мне повар знакомый рассказывал')], 'adapted'),
-    ('anya', 'Он продал этот перстень и уехал за границу.', 'He sold that ring and moved abroad.', [(14, 'продал этот перстень и'), (14, 'жить за границу')], 'adapted'),
-    ('anya', 'Больше его никто не видел.', 'Nobody saw him again.', [(15, 'Больше его никто не видел')], 'adapted'),
+    ('fedya', 'И больше этого официанта никто не видел.', 'And nobody ever saw that waiter again.', [(11, 'больше этого'), (12, 'официанта никто не видел')], 'adapted'),
+    ('fedya', 'Так клянусь, мне повар знакомый рассказывал.', 'I swear, a cook I know told me.', [(13, 'Так клянусь, мне повар знакомый рассказывал')], 'adapted'),
+    ('fedya', 'Он продал этот перстень и уехал за границу.', 'He sold that ring and moved abroad.', [(14, 'продал этот перстень и'), (14, 'жить за границу')], 'adapted'),
+    ('fedya', 'Больше его никто не видел.', 'Nobody saw him again.', [(15, 'Больше его никто не видел')], 'adapted'),
     ('nastya', 'Мне подружки из этого отеля рассказывали.', 'My girlfriends from that hotel told me.', [(16, 'Мне подружки из этого отеля рассказывали')], 'adapted'),
     ('nastya', 'Одна девушка отнесла ему заказ и пропала.', 'One girl brought him an order and vanished.', [(16, 'из этого отеля рассказывали')], 'adapted'),
     ('nastya', 'Теперь она живёт в его гареме.', 'Now she lives in his harem.', [(18, 'он не')], 'adapted'),
-    ('senya', 'Вот у шейха, наверное, праздник каждый день.', 'The sheikh probably has a holiday every day.', [(19, 'Вот у шейха, наверное')], 'adapted'),
-    ('anya', 'Представляешь, сколько стоит такой перстень?', 'Can you imagine how much such a ring costs?', [(14, 'продал этот перстень')], 'adapted'),
-    ('senya', 'Нам бы тоже не помешал такой подарок.', 'We could use a gift like that too.', [(13, 'повар знакомый рассказывал')], 'adapted'),
+    ('nastya', 'Вот у шейха, наверное, праздник каждый день.', 'The sheikh probably has a holiday every day.', [(19, 'Вот у шейха, наверное')], 'adapted'),
+    ('fedya', 'Представляешь, сколько стоит такой перстень?', 'Can you imagine how much such a ring costs?', [(14, 'продал этот перстень')], 'adapted'),
+    ('nastya', 'Нам бы тоже не помешал такой подарок.', 'We could use a gift like that too.', [(13, 'повар знакомый рассказывал')], 'adapted'),
     ('nastya', 'Лучше держаться от него подальше.', 'It is better to stay far away from him.', [(15, 'Больше его никто не видел')], 'adapted'),
-    ('anya', 'Пойдёмте скорее на кухню.', 'Let us hurry to the kitchen.', [(13, 'повар знакомый')], 'adapted'),
+    ('fedya', 'Пойдёмте скорее на кухню.', 'Let us hurry to the kitchen.', [(13, 'повар знакомый')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Inspired by the legend of the diamond ring, Senya and Fedya head into the kitchen hoping to cook a dish worthy of the sheikh's generosity. See you in the next scene."
-CLOSING = ('senya', 'Мне бы такой перстень!')
+OUTRO = "Inspired by the legend of the diamond ring, Senya and Fedya head into the kitchen hoping to cook a dish worthy of the sheikh's generosity. See you next time!"
+CLOSING = ("nastya", "До завтра!")

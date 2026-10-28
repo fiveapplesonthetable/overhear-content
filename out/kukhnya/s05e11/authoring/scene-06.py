@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e11-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 11
 SCENE = 6
-TITLE = 'Капли или водка  (Medicine Drops or Vodka)'
+TITLE = "Капли или водка  (Medicine Drops or Vodka)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"guest": "Гость", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.11'
 SOURCE_FILE = 'sources/kukhnya/s05/e11.ru.srt'
 
 INTRO = 'Inside the hotel room, Vika explains to Max that his grandfather had a heart attack six months ago, so they must not upset him with news of their breakup. Moments later, the grandmother catches her husband disguising vodka in a water bottle and forces him to take his bitter heart drops.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That brings the hotel room scene to a close. Pay attention to the medical vocabulary for a weak heart, a heart attack, and medicine drops. See you in the next scene.'
-CLOSING = ('vika', 'У деда слабое сердце!')
+OUTRO = 'That brings the hotel room scene to a close. Pay attention to the medical vocabulary for a weak heart, a heart attack, and medicine drops. See you next time!'
+CLOSING = ("vika", "Пока!")

@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 5
 SCENE = 14
 TITLE = "On tourne la scène d'amour demain  (We Shoot the Love Scene Tomorrow)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "samir": "theo", "lea": "lucie", "julie": "emilie"}
-LABELS = {"samir": "Samir", "lea": "Andréa", "julie": "Julie"}
+VOICES = {'narrator': 'sky', 'samir': 'theo', 'lea': 'lucie', 'julie': 'emilie'}
+LABELS = {'samir': 'Samir', 'lea': 'Andréa', 'julie': 'Julie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "At the country hotel near the film set, Julie is resting in her room after bruising her back in the horse fall. In the corridor outside, director Samir tells Andréa that all the delays leave them no choice: they must shoot the big barn love scene tomorrow morning. When Andréa breaks the news to Julie, the actress tries to pitch a poetic alternative. Let's hear the scene in French first."
 OPENER = "Let's go through the scene line by line and look at how each sentence works."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Julie's woodland rabbits do not stand a chance against Samir's shooting schedule, and now Gabriel has to convince JoeyStarr down the hall. Remember the verb for shooting a film: to turn. Join us next time to see what happens next."
-CLOSING = ("samir", "À bientôt!")
+OUTRO = "Julie's woodland rabbits do not stand a chance against Samir's shooting schedule, and now Gabriel has to convince JoeyStarr down the hall. Remember the verb for shooting a film: to turn. See you next time!"
+CLOSING = ('samir', 'À bientôt!')
 STORY = [
     ('samir', 'Avec tous ces retards, il nous reste une demi-journée dans la grange.', 'With all these delays, we have half a day left in the barn.', [(252, 'Avec tous ces retards, il nous reste une demi-journée dans la grange')], ''),
     ('samir', "J'ai dû réécrire le planning.", 'I had to rewrite the schedule.', [(253, "J'ai dû réécrire le planning")], ''),

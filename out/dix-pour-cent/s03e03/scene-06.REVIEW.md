@@ -26,5 +26,5 @@
 | 12 | `mathias` (Mathias) | Ne renoncez pas, tout va très bien se passer. | Do not give up, everything will go very well. | 365:Très bien, très bien. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around one hundred and twenty copies. When you watch the episode, listen out for the expressions meaning 'I have' and 'talked'. You'll catch them now. See you next time.
+> That's it for this scene around one hundred and twenty copies. When you watch the episode, listen out for the expressions meaning 'I have' and 'talked'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À demain!*

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Костя, меня только что совсем уволили. | Kostya, they just completely fired me. | #134 00:09:55: Меня уволили | adapted: adapted |
+| 1 | Костя | Костя, меня только что совсем уволили. | Kostya, they just completely fired me. | #134 00:09:55: Меня уволили | adapted: adapted |
 | 2 | Костя | Этого мы с тобой не учли. | You and I did not take that into account. | #134 00:09:55: не учили | adapted: adapted |
 | 3 | Костя | Ладно, тогда переходим к новому плану. | Alright, then we move on to a new plan. | #135 00:09:59: переходим к плану | adapted: adapted |
-| 4 | Аня | Но у меня нет другого плана. | But I do not have another plan. | #137 00:10:06: У меня тоже нет | adapted: adapted |
-| 5 | Аня | Надо пойти и сказать всем правду. | I need to go and tell everyone the truth. | #139 00:10:11: надо пойти и сказать всем | adapted: adapted |
-| 6 | Аня | Скажу, что я никуда не уезжаю. | I will say that I am not going anywhere. | #139 00:10:11: я никуда не уезжаю | adapted: adapted |
+| 4 | Костя | Но у меня нет другого плана. | But I do not have another plan. | #137 00:10:06: У меня тоже нет | adapted: adapted |
+| 5 | Костя | Надо пойти и сказать всем правду. | I need to go and tell everyone the truth. | #139 00:10:11: надо пойти и сказать всем | adapted: adapted |
+| 6 | Костя | Скажу, что я никуда не уезжаю. | I will say that I am not going anywhere. | #139 00:10:11: я никуда не уезжаю | adapted: adapted |
 | 7 | Костя | Так, пожалуйста, только сейчас не паникуй. | Alright, please just do not panic right now. | #140 00:10:13: не паникуй | adapted: adapted |
 | 8 | Костя | Ты с Катей уже спокойно поговорил? | Did you already talk calmly with Katya? | #141 00:10:16: Ты с Катей поговорил | adapted: adapted |
-| 9 | Аня | Я не успел, там все набежали. | I did not have time, everyone came running there. | #141 00:10:16: Я не успел, там все набежали | adapted: adapted |
+| 9 | Костя | Я не успел, там все набежали. | I did not have time, everyone came running there. | #141 00:10:16: Я не успел, там все набежали | adapted: adapted |
 | 10 | Костя | Сначала идёшь и говоришь с Катей. | First you go and talk with Katya. | #142 00:10:20: идешь, говоришь с Катей | adapted: adapted |
-| 11 | Шеф | Только этот костюм мне обязательно верните. | Just be sure to return this suit to me. | #144 00:10:28: костюм обязательно верните | adapted: adapted |
-| 12 | Шеф | Вы в нём просто отлично смотритесь. | You look simply great in it. | #150 00:10:45: на свидание пошел | adapted: adapted |
+| 11 | Костя | Только этот костюм мне обязательно верните. | Just be sure to return this suit to me. | #144 00:10:28: костюм обязательно верните | adapted: adapted |
+| 12 | Костя | Вы в нём просто отлично смотритесь. | You look simply great in it. | #150 00:10:45: на свидание пошел | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

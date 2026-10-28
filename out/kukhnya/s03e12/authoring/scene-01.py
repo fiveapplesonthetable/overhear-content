@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e12-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 12
 SCENE = 1
-TITLE = 'Плохой день с утра  (A Bad Day from the Start)'
+TITLE = "Плохой день с утра  (A Bad Day from the Start)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "nagiyev": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.12'
 SOURCE_FILE = 'sources/kukhnya/s03/e12.ru.srt'
 
 INTRO = 'Max begins the morning convinced that nothing can ruin his wonderful mood. However, an encounter with Dmitry Nagiyev at the restaurant entrance and sudden news from his best friend Kostya quickly turn his day upside down. Listen to the Russian conversation first, and then we will unpack each line.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Now you have heard how Max's cheerful morning falls apart when Kostya asks him to move out before the baby arrives. Next, Max heads into the kitchen, where an angry neighbor is already causing trouble."
-CLOSING = ('anya', 'Какой ужасный сегодня день!')
+OUTRO = "Now you have heard how Max's cheerful morning falls apart when Kostya asks him to move out before the baby arrives. Next, Max heads into the kitchen, where an angry neighbor is already causing trouble. Until next time!"
+CLOSING = ("anya", "До завтра!")

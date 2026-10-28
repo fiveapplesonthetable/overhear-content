@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 1
 SCENE = 16
 TITLE = "La visite d'Oscar  (Oscar's Visit)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "oscar": "marcel", "charlotte": "emilie", "paco": "theo"}
-LABELS = {"oscar": "Oscar", "charlotte": "Charlotte", "paco": "Paco"}
+VOICES = {'narrator': 'sky', 'oscar': 'marcel', 'charlotte': 'emilie', 'paco': 'theo'}
+LABELS = {'oscar': 'Oscar', 'charlotte': 'Charlotte', 'paco': 'Paco'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At Charlotte Gainsbourg's apartment, director Oscar visits to check on her supposed broken leg. After hearing Charlotte's absurd story about slipping on a banana peel, Oscar proposes modifying his sci-fi film before both friends share an honest, heartwarming reconciliation. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Moving past absurd excuses and movie blunders, Charlotte and Oscar find creative harmony in an animated project. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'mishap'. You'll catch them now. See you next time."
-CLOSING = ("oscar", "Au revoir!")
+OUTRO = "Moving past absurd excuses and movie blunders, Charlotte and Oscar find creative harmony in an animated project. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'mishap'. You'll catch them now. See you next time!"
+CLOSING = ('oscar', 'Au revoir!')
 STORY = [
     ('oscar', 'Charlotte, comment vas-tu depuis cet accident?', 'Charlotte, how are you since this accident?', [(816, 'Oscar, comment tu vas'), (820, 'Comment tu vas')], ''),
     ('charlotte', "C'est affreux, j'ai glissé dehors.", 'It is awful, I slipped outside.', [(817, "C'est nul"), (827, "j'ai glissé")], ''),

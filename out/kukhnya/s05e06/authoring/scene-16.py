@@ -1,30 +1,30 @@
 ID = 'kukhnya-s05e06-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 6
 SCENE = 16
-TITLE = 'Наташа бросает Нагиева  (Natasha Dumps Nagiyev)'
+TITLE = "Наташа бросает Нагиева  (Natasha Dumps Nagiyev)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'gost': 'angelina'}
-LABELS = {'anya': 'Вика', 'nagiyev': 'Нагиев', 'gost': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "guest": "anja"}
+LABELS = {"nagiyev": "Нагиев", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.06'
 SOURCE_FILE = 'sources/kukhnya/s05/e06.ru.srt'
 
 INTRO = "In the lobby, Nagiyev chases after his fiancée Natasha, who wants nothing more to do with him or his supposed children. When she storms out, Vika sheepishly admits that she told Max the baby was Nagiyev's."
 
 STORY = [
     ('nagiyev', 'Зайчонок, ну ты куда?', 'Little bunny, where are you going?', [(259, 'ну ты куда, ну')], 'adapted'),
-    ('gost', 'Подальше от тебя и твоих детей!', 'Far away from you and your children!', [(260, 'Подальше от тебя и твоих детей')], 'adapted'),
+    ('guest', 'Подальше от тебя и твоих детей!', 'Far away from you and your children!', [(260, 'Подальше от тебя и твоих детей')], 'adapted'),
     ('nagiyev', 'Да ты послушай, зайка!', 'Just listen to me, sweetheart!', [(261, 'Да ты'), (261, 'зайка')], 'adapted'),
     ('nagiyev', 'Это что сейчас было?', 'What was that just now?', [(262, 'Это что')], 'adapted'),
-    ('anya', 'Дима, прости.', 'Dima, forgive me.', [(262, 'Дима, прости')], 'adapted'),
-    ('anya', 'Я сказала Максу, что это твой ребёнок.', 'I told Max that this is your child.', [(263, 'Я сказала Максу, что это твой ребенок')], 'adapted'),
+    ('nagiyev', 'Дима, прости.', 'Dima, forgive me.', [(262, 'Дима, прости')], 'adapted'),
+    ('nagiyev', 'Я сказала Максу, что это твой ребёнок.', 'I told Max that this is your child.', [(263, 'Я сказала Максу, что это твой ребенок')], 'adapted'),
     ('nagiyev', 'Чего ты сделала?', 'What did you do?', [(264, 'Чего'), (264, 'ты сделал')], 'adapted'),
     ('nagiyev', 'У нас с тобой ничего не было!', 'There was nothing between you and me!', [(265, 'У нас с тобой ничего не было')], 'adapted'),
-    ('anya', 'Я просто хотела, чтобы он отстал.', 'I just wanted him to leave me alone.', [(263, 'Я сказала Максу')], 'adapted'),
+    ('nagiyev', 'Я просто хотела, чтобы он отстал.', 'I just wanted him to leave me alone.', [(263, 'Я сказала Максу')], 'adapted'),
     ('nagiyev', 'Как это ничего не было?', 'How was there nothing at all?', [(266, 'ничего не было')], 'adapted'),
-    ('anya', 'Мне очень жаль.', 'I am very sorry.', [(267, 'очень жаль')], 'adapted'),
+    ('nagiyev', 'Мне очень жаль.', 'I am very sorry.', [(267, 'очень жаль')], 'adapted'),
     ('nagiyev', 'Отлично, теперь и свадьбы не будет.', 'Great, now there will not be a wedding either.', [(265, 'ничего не было')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Left without a bride thanks to Vika's lie, Nagiyev sighs as Max walks up to ask him the truth face to face. See you in the next scene."
-CLOSING = ('anya', 'Дима, ещё раз прости меня.')
+OUTRO = "Left without a bride thanks to Vika's lie, Nagiyev sighs as Max walks up to ask him the truth face to face. See you next time!"
+CLOSING = ("nagiyev", "До завтра!")

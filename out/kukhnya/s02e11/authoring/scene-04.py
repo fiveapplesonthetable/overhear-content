@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e11-scene-04"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e11-scene-04'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 11
 SCENE = 4
 TITLE = "Бессмысленный спор Сени и Феди  (Senya and Fedya's Pointless Argument)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.11"
-SOURCE_FILE = "sources/kukhnya/s02/e11.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.11'
+SOURCE_FILE = 'sources/kukhnya/s02/e11.ru.srt'
 
 INTRO = "Back in the Claude Monet kitchen, Senya and Fedya pass the time by arguing over whether dogs or cats are man's true friend. Before long, their debate spirals into a heated dispute over whether comedian Maxim Galkin is more famous than everyone else."
 
@@ -39,15 +39,14 @@ WALK = [
     (4, None, "'They have their own functions.' In Russian, the idea of 'by' flows naturally into 'function' without extra filler words."),
     (5, None, "'Well, and what other functions are those?' Here the Russian phrasing highlights 'come on' before landing on 'function'."),
     (6, None, "'Listen, are you arguing just for the sake of arguing?' Max raises the pitch on 'so that' to turn the phrase into a direct spoken question. Chef Viktor answers right away."),
-    (7, None, "'And you are not arguing just for the sake of it.' The grammar packs 'and' and 'that' into a tight, idiomatic kitchen exchange."),
+    (7, None, "'And you are not arguing just for the sake of it.' Spoken Russian keeps this brief and expressive, built right around 'to argue, to dispute' without extra helper words."),
     (8, None, "'The Americans do not need that anyway.' The meaning hinges on 'like this' working together with 'American' in spoken Russian."),
     (9, None, "'Of course, way more.' Notice how Russian expresses 'of course' and 'more' with crisp inflection rather than helper words. Max answers right away."),
-    (10, None, "'And do you know how much Galkin has?' The grammar packs 'and' and 'know' into a tight, idiomatic kitchen exchange."),
-    (11, None, "'That is him over there.' In Russian, the idea of 'this' flows naturally into 'there' without extra filler words."),
+    (10, None, "'And do you know how much Galkin has?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question."),
+    (11, None, "'That is him over there.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context."),
     (12, None, "'What did you just say?' Max anchors the line on 'what', while 'to say' completes the thought."),
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = "When you watch Scene 4 of Episode 11, listen out for the exchange around senya and fedya's pointless argument — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Чё ты сказал?')
+OUTRO = 'That wraps up this scene as in the Claude Monet kitchen, Senya and Fedya launch into a heated argument that starts with dogs versus cats and escalates to Russian pop stars. See you next time!'
+CLOSING = ("anya", "До завтра!")

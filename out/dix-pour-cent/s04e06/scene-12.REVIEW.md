@@ -25,5 +25,5 @@
 | 11 | `lea` (Andréa) | Mais il ne veut pas céder. | But he does not want to give in. | 538:Mais il ne veut pas céder. |
 
 ## Part 5 — Outro & Closing
-> Andrea realizes the budget problem is serious. When you watch the episode, listen out for the expressions meaning 'madam' and 'producer'. You'll catch them now. See you next time.
+> Andrea realizes the budget problem is serious. When you watch the episode, listen out for the expressions meaning 'madam' and 'producer'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 5
 SCENE = 10
 TITLE = "L'histoire de Chet Baker  (The Chet Baker Story)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "gabriel": "theo"}
-LABELS = {"arlette": "Arlette", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'gabriel': 'theo'}
+LABELS = {'arlette': 'Arlette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the hallway at ASK, Gabriel talks with senior agent Arlette about her complicated past with client Guy Marchand. Arlette shares the romantic story of leaving him for legendary jazz musician Chet Baker. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = 'Arlette shares her glamorous past with Gabriel, recounting how her romance with jazz legend Chet Baker created a fifty-year rift with Guy Marchand. Join us next time to see what happens next.'
-CLOSING = ("arlette", "À demain!")
+OUTRO = 'Arlette shares her glamorous past with Gabriel, recounting how her romance with jazz legend Chet Baker created a fifty-year rift with Guy Marchand. See you next time!'
+CLOSING = ('arlette', 'À demain!')
 STORY = [
     ('gabriel', 'Ça fait toujours cet effet, même après 50 ans?', 'Does it still have that effect, even after 50 years?', [(277, 'Ça fait toujours cet effet, même après 50 ans ?')], ''),
     ('arlette', 'Pardon? De quoi parlez-vous?', 'Pardon? What are you talking about?', [(278, 'Pardon ?')], ''),

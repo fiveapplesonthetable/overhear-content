@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Федя | Шеф, а вы как раз вовремя. | Chef, you are right on time. | #71 00:06:05: Шеф, а вы как раз вовремя | adapted: adapted |
-| 2 | Федя | У нас тут французское блюдо. Хотите? | We have a French dish here. Do you want some? | #71 00:06:05: У нас тут истинно французское блюдо<br>#73 00:06:11: Хотите | adapted: adapted |
+| 1 | Шеф | Шеф, а вы как раз вовремя. | Chef, you are right on time. | #71 00:06:05: Шеф, а вы как раз вовремя | adapted: adapted |
+| 2 | Шеф | У нас тут французское блюдо. Хотите? | We have a French dish here. Do you want some? | #71 00:06:05: У нас тут истинно французское блюдо<br>#73 00:06:11: Хотите | adapted: adapted |
 | 3 | Шеф | Нет, спасибо. Я сегодня на диете. | No, thank you. I am on a diet today. | #74 00:06:13: Нет, спасибо. Я сегодня на диете | adapted: adapted |
-| 4 | Федя | Шеф, вам это зачем? | Chef, why do you need that? | #75 00:06:15: Шеф, вам это зачем | adapted: adapted |
+| 4 | Шеф | Шеф, вам это зачем? | Chef, why do you need that? | #75 00:06:15: Шеф, вам это зачем | adapted: adapted |
 | 5 | Шеф | Хочу немножко привести себя в порядок. | I want to get myself in shape a bit. | #76 00:06:18: Хочу немножко привести себя в порядок | adapted: adapted |
-| 6 | Федя | Шеф, вы и так выглядите супер! | Chef, you already look super! | #77 00:06:20: Шеф, и так выглядит ты супер | adapted: adapted |
+| 6 | Шеф | Шеф, вы и так выглядите супер! | Chef, you already look super! | #77 00:06:20: Шеф, и так выглядит ты супер | adapted: adapted |
 | 7 | Шеф | Скажи, только честно. | Tell me, only honestly. | #81 00:06:32: не скажи, только честно | adapted: adapted |
 | 8 | Шеф | Я толстый? | Am I fat? | #82 00:06:36: Я толстый | adapted: adapted |
 | 9 | Аня | Да, шеф, вы толстый. | Yes, chef, you are fat. | #83 00:06:42: Да, шеф, вы толстый | adapted: adapted |
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Am I fat?' Chef Barinov anchors the line on 'I', while 'fat' completes the thought.
 - 'Yes, chef, you are fat.' The grammar packs 'yes' and 'fat' into a tight, idiomatic kitchen exchange.
 - 'Listen, I liked you better when you lied!' An emphatic spoken line centered on the verb meaning 'listen'. Max answers right away.
-- 'You asked me yourself, chef.' In Russian, the idea of 'you' flows naturally into 'proper name' without extra filler words.
+- 'You asked me yourself, chef.' Max centers this short reply on 'to ask', letting a few direct words carry the whole meaning.
 - 'Go work, blockhead!' The meaning hinges on 'go' working together with 'woodpecker' in spoken Russian.

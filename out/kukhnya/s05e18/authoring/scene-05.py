@@ -1,30 +1,30 @@
 ID = 'kukhnya-s05e18-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 18
 SCENE = 5
-TITLE = 'Билеты на концерт в мусорке  (Concert Tickets in the Trash)'
+TITLE = "Билеты на концерт в мусорке  (Concert Tickets in the Trash)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'denis': 'anja'}
-LABELS = {'anya': 'Катя', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "denis": "anja"}
+LABELS = {"katya": "Катя", "denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.18'
 SOURCE_FILE = 'sources/kukhnya/s05/e18.ru.srt'
 
 INTRO = "Trying to clean up Denis's messy locker area, Katya throws a bag of old junk into the dumpster. Denis arrives right after and reveals that he had hidden two Eric Clapton concert tickets inside."
 
 STORY = [
     ('denis', 'Доброе утро, Катя, привет тебе.', 'Good morning, Katya, hello to you.', [(84, 'привет')], 'adapted'),
-    ('anya', 'Ой, ну и бардак у тебя здесь.', 'Oh, what a mess you have here.', [(85, 'О, ну и бардак у тебя')], 'adapted'),
-    ('anya', 'Давно нужно было выкинуть этот хлам.', 'This junk should have been thrown out long ago.', [(86, 'Давно нужно было выкинуть весь этот хлам')], 'adapted'),
+    ('katya', 'Ой, ну и бардак у тебя здесь.', 'Oh, what a mess you have here.', [(85, 'О, ну и бардак у тебя')], 'adapted'),
+    ('katya', 'Давно нужно было выкинуть этот хлам.', 'This junk should have been thrown out long ago.', [(86, 'Давно нужно было выкинуть весь этот хлам')], 'adapted'),
     ('denis', 'Слушай, я туда два билета спрятал.', 'Listen, I hid two tickets in there.', [(87, 'Слушай, я тебе туда два билета')], 'adapted'),
     ('denis', 'Это билеты на сегодняшний концерт.', "Those are tickets for tonight's concert.", [(87, 'на сегодняшний концерт')], 'adapted'),
     ('denis', 'А ты их только что выкинула.', 'And you just threw them away.', [(88, 'Ты только что выкинула')], 'adapted'),
-    ('anya', 'Ой, Денис, извини меня, пожалуйста.', 'Oh, Denis, forgive me, please.', [(88, 'Ой, извини')], 'adapted'),
-    ('anya', 'Я бы пошла с большим удовольствием.', 'I would have gone with great pleasure.', [(89, 'Я с удовольствием')], 'adapted'),
-    ('anya', 'Но у меня сегодня вечернее дежурство.', 'But I have the evening shift today.', [(89, 'но мне сегодня дежурство')], 'adapted'),
-    ('anya', 'Ты сам достанешь их оттуда?', 'Will you get them out of there yourself?', [(90, 'Сам достанешь')], 'adapted'),
-    ('anya', 'Извини меня ещё раз, ладно?', 'Forgive me once again, alright?', [(91, 'Извини еще раз')], 'adapted'),
+    ('katya', 'Ой, Денис, извини меня, пожалуйста.', 'Oh, Denis, forgive me, please.', [(88, 'Ой, извини')], 'adapted'),
+    ('katya', 'Я бы пошла с большим удовольствием.', 'I would have gone with great pleasure.', [(89, 'Я с удовольствием')], 'adapted'),
+    ('katya', 'Но у меня сегодня вечернее дежурство.', 'But I have the evening shift today.', [(89, 'но мне сегодня дежурство')], 'adapted'),
+    ('katya', 'Ты сам достанешь их оттуда?', 'Will you get them out of there yourself?', [(90, 'Сам достанешь')], 'adapted'),
+    ('katya', 'Извини меня ещё раз, ладно?', 'Forgive me once again, alright?', [(91, 'Извини еще раз')], 'adapted'),
     ('denis', 'Ладно, ничего страшного, сам достану.', 'Alright, no big deal, I will get them myself.', [(90, 'Сам достанешь')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Disappointed that Katya cannot attend the concert, Denis climbs into the bin to rescue the tickets. See you in the next scene.'
-CLOSING = ('anya', 'Извини меня ещё раз.')
+OUTRO = 'Disappointed that Katya cannot attend the concert, Denis climbs into the bin to rescue the tickets. Until next time!'
+CLOSING = ("katya", "Всего хорошего!")

@@ -27,5 +27,5 @@
 | 13 | `dylan` (Dylan) | Merci Franck, ce conseil me rassure. | Thank you Franck, this advice reassures me. | 878:très important |
 
 ## Part 5 — Outro & Closing
-> Franck Dubosc's candid humility helps Dylan see that vulnerability and fear are part of every actor's path. When you watch the episode, listen out for the expressions meaning 'must' and 'to work on'. You'll catch them now. See you next time.
+> Franck Dubosc's candid humility helps Dylan see that vulnerability and fear are part of every actor's path. When you watch the episode, listen out for the expressions meaning 'must' and 'to work on'. You'll catch them now. See you next time!
 - **Closing**: `dylan`: *Bonne soirée!*

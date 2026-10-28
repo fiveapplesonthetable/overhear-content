@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Je ferai de mon mieux, Andréa. | I will do my best, Andrea. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around morning at the agency. When you watch the episode, listen out for the expressions meaning 'look' and 'returned'. You'll catch them now. See you next time.
+> That's it for this scene around morning at the agency. When you watch the episode, listen out for the expressions meaning 'look' and 'returned'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

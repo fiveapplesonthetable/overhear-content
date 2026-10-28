@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Нагиев | Обед был неплох, но завтра вы будете потрясены! | Lunch was not bad, but tomorrow you will be amazed! | #100 00:06:54: Завтра будете потрясены | adapted: adapted |
 | 2 | Нагиев | Витя, выручай, мне нужен твой кулинарный шедевр! | Vitya, help me out, I need your culinary masterpiece! | #105 00:07:18: шедевр | adapted: adapted |
-| 3 | Аня | Дима, ты забыл? Я больше не твой слуга! | Dima, did you forget? I am no longer your servant! | #106 00:07:20: Забыл? Я больше не твой | adapted: adapted |
+| 3 | Шеф | Дима, ты забыл? Я больше не твой слуга! | Dima, did you forget? I am no longer your servant! | #106 00:07:20: Забыл? Я больше не твой | adapted: adapted |
 | 4 | Нагиев | Витя, но ты же мой старый верный друг! | Vitya, but you are my old loyal friend! | #107 00:07:22: Ты мой друг | adapted: adapted |
-| 5 | Аня | Другом я тебе был только в далёком прошлом. | I was your friend only in the distant past. | #107 00:07:22: В прошлом | adapted: adapted |
+| 5 | Шеф | Другом я тебе был только в далёком прошлом. | I was your friend only in the distant past. | #107 00:07:22: В прошлом | adapted: adapted |
 | 6 | Нагиев | Эта важная гостья оказалась просто настоящим гурманом! | This important female guest turned out to be a true gourmet! | #108 00:07:25: просто гурман оказалась | adapted: adapted |
 | 7 | Нагиев | Мы с ней уже самые редкие блюда пробовали. | She and I have already tried the rarest dishes. | #110 00:07:30: Мы эти самые | adapted: adapted |
 | 8 | Нагиев | Говорит, что вся эта кухня — полное барахло! | She says that all that cuisine is complete junk! | #113 00:07:37: Говорит, кухня барахло | adapted: adapted |
-| 9 | Аня | Ну хоть что-то приятное она про соседей сказала! | Well, at least she said something nice about our neighbors! | #113 00:07:37: Ну хоть что-то приятное | adapted: adapted |
+| 9 | Шеф | Ну хоть что-то приятное она про соседей сказала! | Well, at least she said something nice about our neighbors! | #113 00:07:37: Ну хоть что-то приятное | adapted: adapted |
 | 10 | Нагиев | Витя, ну что ты как маленький, я же прошу! | Vitya, why are you acting like a child, I am begging you! | #114 00:07:40: Вить, ну что ты как маленький | adapted: adapted |
 | 11 | Нагиев | Один ужин, и она даст мне главную роль! | One dinner, and she will give me the leading role! | #117 00:07:48: Она мне роль даст | adapted: adapted |
-| 12 | Аня | Тем более нет, пусть роль получит нормальный артист! | All the more reason to say no, let a real actor get the role! | #118 00:07:50: Пусть эту роль получит нормальный артист | adapted: adapted |
+| 12 | Шеф | Тем более нет, пусть роль получит нормальный артист! | All the more reason to say no, let a real actor get the role! | #118 00:07:50: Пусть эту роль получит нормальный артист | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

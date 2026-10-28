@@ -1,20 +1,20 @@
 ID = 'kukhnya-s05e04-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 4
 SCENE = 15
-TITLE = 'Куриная ножка для Элеоноры  (A Chicken Drumstick for Eleonora)'
+TITLE = "Куриная ножка для Элеоноры  (A Chicken Drumstick for Eleonora)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'angelina', 'chef': 'anja'}
-LABELS = {'anya': 'Денис', 'eleonora': 'Элеонора', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "eleonora": "angelina"}
+LABELS = {"chef": "Шеф", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.04'
 SOURCE_FILE = 'sources/kukhnya/s05/e04.ru.srt'
 
 INTRO = "In suite 311, Eleonora calls out from the bathtub for room service to bring the fruit inside—forcing Denis to flee when he recognizes her voice! Moments later, Barinov enters suite 311 thinking it is Elena's room and seductively offers Eleonora chicken legs and wings."
 
 STORY = [
-    ('anya', 'Обслуживание номеров.', 'Room service.', [(227, 'Обслуживание номеров')], 'adapted'),
+    ('chef', 'Обслуживание номеров.', 'Room service.', [(227, 'Обслуживание номеров')], 'adapted'),
     ('eleonora', 'Ходите. В ванную идите,', 'Come in. Bring it into the bathroom,', [(228, 'Ходите. В ванную')], 'adapted'),
     ('eleonora', 'я здесь в ванной.', 'I am right here in the bathroom.', [(229, 'я здесь')], 'adapted'),
     ('eleonora', 'Привет, проходи сюда.', 'Hello, come right in.', [(230, 'Привет')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Denis and the team handle the pressure when you watch the episode. See you in the next scene.'
-CLOSING = ('anya', 'Убери это, пожалуйста.')
+OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Denis and the team handle the pressure when you watch the episode. Until next time!'
+CLOSING = ("chef", "До встречи!")

@@ -31,5 +31,5 @@
 | 17 | `camille` (Camille) | Sinon, je cherche un poste dans une autre agence. | Otherwise, I | adapted |
 
 ## Part 5 — Outro & Closing
-> That's all for this scene. When you watch it, listen for the moment Camille says what she really wants to be; Mathias does not see it coming. See you next time.
+> That's all for this scene. When you watch it, listen for the moment Camille says what she really wants to be; Mathias does not see it coming. See you next time!
 - **Closing**: `camille`: *À demain!*

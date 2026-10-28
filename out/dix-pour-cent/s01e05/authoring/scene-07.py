@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 7
-TITLE = "Comme un aimant  (Like a Magnet)"
-LEVEL = "A1 — débutant"
+TITLE = 'Comme un aimant  (Like a Magnet)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "joey": "marcel", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "joey": "JoeyStarr", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'joey': 'marcel', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'joey': 'JoeyStarr', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = 'While Andréa calms Julie Gayet down in her trailer by promising the costume film could win her an award, Gabriel follows JoeyStarr into his trailer. JoeyStarr is furious about how Julie treats him on set, but Gabriel cannot stop looking at his phone. Listen to the French first, without worrying about catching every word.'
 OPENER = "Let's walk through the scene line by line. JoeyStarr notices that Gabriel is staring at his phone instead of listening."
 TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = "Gabriel's confession about being drawn to his opposite gives JoeyStarr food for thought about Julie Gayet. Next, out at the catering tent in the courtyard, Sofia spots Gabriel and proudly introduces him as her agent. See you there."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "Gabriel's confession about being drawn to his opposite gives JoeyStarr food for thought about Julie Gayet. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('joey', "Dis-le si je t'ennuie.", 'Say it if I', [(116, "Dis-le si je t'ennuie")], ''),
     ('gabriel', "Non, excuse-moi! Regarde, j'écoute. Vas-y, je suis tout à toi.", 'No, excuse me! Look, I', [(117, 'Non, excuse-moi'), (118, 'regarde'), (119, "J'écoute. Vas-y, je suis tout à toi")], ''),

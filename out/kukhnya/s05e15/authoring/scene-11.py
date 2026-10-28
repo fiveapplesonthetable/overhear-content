@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e15-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 15
 SCENE = 11
 TITLE = "Краски для Шефа и визит Андрея  (Paints for the Chef and Andrey's Visit)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa", "chef": "anja"}
+LABELS = {"vika": "Вика", "anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.15'
 SOURCE_FILE = 'sources/kukhnya/s05/e15.ru.srt'
 
 INTRO = 'Just as Max finishes printing two edible menus on rice paper, Vika casually tells him they are no longer needed, and Chef Barinov grabs the edible paints and a sheet of rice paper for Gennady.'
@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'Oh, I completely forgot to tell you, the menu is no longer needed.' In Russian, the idea of 'oh' flows naturally into 'needed' without extra filler words."),
     (2, None, "'Thank you very much for the effort, you can go back to work.' Spoken Russian keeps this brisk, leaning on 'very much' and finishing on 'to work'."),
     (3, None, "'You are welcome! Is this at all normal on her part?' The meaning hinges on 'not' working together with 'side' in spoken Russian."),
-    (4, None, "'Guys, I am going to step away from the kitchen for a short while.' Notice the reflexive suffix on the verb meaning 'step away briefly', turning the action back on the subject."),
+    (4, None, "'Guys, I am going to step away from the kitchen for a short while.' In everyday Russian, 'guys, team' flows straight into 'for a short time' without extra linking words."),
     (5, None, "'Lyova stays here in charge in my place.' Chef Barinov brings out the contrast between 'Lyova' and 'to stay' in a few short words."),
     (6, None, "'Chef, and where are you carrying our food paints?' Spoken Russian keeps this brisk, leaning on 'Chef Barinov' and finishing on 'paint'."),
     (7, None, "'None of your business, I urgently need paper!' The grammar packs 'not' and 'paper' into a tight, idiomatic kitchen exchange. Vika answers right away."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Neither Vika nor Max realizes that Chef Barinov just walked off with one of the two rice-paper menus. See you in the next scene.'
-CLOSING = ('vika', 'Меню нам уже не нужно.')
+OUTRO = 'Neither Vika nor Max realizes that Chef Barinov just walked off with one of the two rice-paper menus. Until next time!'
+CLOSING = ("vika", "Хорошего дня!")

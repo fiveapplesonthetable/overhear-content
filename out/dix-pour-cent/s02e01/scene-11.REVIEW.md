@@ -29,5 +29,5 @@
 | 15 | `camille` (Camille) | D'accord, je m'en occupe tout de suite. | All right, I am taking care of it right away. | 302:Merci. Changez ça ! |
 
 ## Part 5 — Outro & Closing
-> Andréa will visit Couchey, but she is determined to sleep back in Paris that same night. next time, we will join Virginie Efira's disastrous promotional interviews.
+> Andréa will visit Couchey, but she is determined to sleep back in Paris that same night. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

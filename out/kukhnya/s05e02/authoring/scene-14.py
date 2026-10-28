@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e02-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 2
 SCENE = 14
-TITLE = 'Щедрые чаевые и капризы с мясом  (Generous Tips and Meat Complaints)'
+TITLE = "Щедрые чаевые и капризы с мясом  (Generous Tips and Meat Complaints)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "senya": "angelina"}
+LABELS = {"mikhail": "Михаил", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.02'
 SOURCE_FILE = 'sources/kukhnya/s05/e02.ru.srt'
 
 INTRO = "While waiters compete to deliver room service to generous guests in room 202, the supposed inspector in room 313 rejects Chef Barinov's steak and demands coffee right to his face. Listen to the scene."
@@ -18,10 +18,10 @@ STORY = [
     ('senya', 'Я сам сегодня это несу!', 'I am carrying this myself today!', [(164, 'Я несу')], 'adapted'),
     ('senya', 'Какие там огромные чаевые!', 'What huge tips they give in there!', [(165, 'какие там чаевые?')], 'adapted'),
     ('senya', 'У меня таких чаевых ещё никогда не было.', 'I have never had tips like these before.', [(166, 'у меня таких чаевых еще никогда не было')], 'verbatim'),
-    ('anya', 'Хоть бы с друзьями поделился.', 'You could at least share with your friends.', [(168, 'Хоть бы поделился')], 'adapted'),
+    ('mikhail', 'Хоть бы с друзьями поделился.', 'You could at least share with your friends.', [(168, 'Хоть бы поделился')], 'adapted'),
     ('mikhail', 'Немедленно уберите это со стола.', 'Immediately take this off the table.', [(170, 'Уберите это')], 'adapted'),
     ('mikhail', 'Не люблю, когда мясо плохо прожарено.', 'I do not like it when the meat is poorly cooked.', [(171, 'Не люблю, когда мясо плохо прожарено')], 'verbatim'),
-    ('anya', 'Сейчас я всё быстро переделаю.', 'Right now I will redo everything quickly.', [(172, 'Сейчас я все переделаю')], 'adapted'),
+    ('mikhail', 'Сейчас я всё быстро переделаю.', 'Right now I will redo everything quickly.', [(172, 'Сейчас я все переделаю')], 'adapted'),
     ('mikhail', 'Уже не надо. Принесите кофе.', 'No need anymore. Bring some coffee.', [(173, 'Уже не надо. Принесите кофе')], 'verbatim'),
     ('mikhail', 'Он просто так сегодня шутит.', 'He is just joking like that today.', [(175, 'Он так шутит')], 'adapted'),
     ('senya', 'Этому гостю очень повезло, да?', 'This guest got really lucky, right?', [(176, 'повезло, да?')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that shows Chef Barinov struggling to keep his temper in room 313. Notice how the dative case is used with the verb 'pozaviduyet' for 'will envy'. See you in the next scene."
-CLOSING = ('anya', 'Моё терпение уже почти лопнуло!')
+OUTRO = 'And that shows Chef Barinov struggling to keep his temper in room 313. See you next time!'
+CLOSING = ("mikhail", "До свидания!")

@@ -15,12 +15,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Федя | Вот это настоящий холодный лёд. | Right here is real cold ice. | #189 00:14:24: это лёд | adapted: adapted |
 | 4 | Федя | На, вот можешь сам проверить. | Here, you can check for yourself. | #189 00:14:24: На, вот можешь проверить | adapted: adapted |
 | 5 | Федя | Ну что, ты уже проверил? | Well, have you checked already? | #190 00:14:34: Проверил | adapted: adapted |
-| 6 | Костя | Да, соперник у тебя, конечно, серьёзный. | Yes, your rival is certainly serious. | #191 00:14:57: Да, соперник у тебя, конечно, серьёзный | adapted: adapted |
-| 7 | Костя | Хорошо, что ему Настя не нравится. | It is good that he does not like Nastya. | #193 00:15:04: хорошо, что ему Настя не нравится | adapted: adapted |
+| 6 | Федя | Да, соперник у тебя, конечно, серьёзный. | Yes, your rival is certainly serious. | #191 00:14:57: Да, соперник у тебя, конечно, серьёзный | adapted: adapted |
+| 7 | Федя | Хорошо, что ему Настя не нравится. | It is good that he does not like Nastya. | #193 00:15:04: хорошо, что ему Настя не нравится | adapted: adapted |
 | 8 | Аня | Пойду с ним спокойно поговорю. | I will go talk with him calmly. | #194 00:15:08: Пойду с ним поговорю | adapted: adapted |
-| 9 | Костя | Макс, подожди, ты куда идёшь? | Max, wait, where are you going? | #195 00:15:10: Макс, Макс | adapted: adapted |
+| 9 | Федя | Макс, подожди, ты куда идёшь? | Max, wait, where are you going? | #195 00:15:10: Макс, Макс | adapted: adapted |
 | 10 | Аня | Дмитрий Владимирович, вы сейчас свободны? | Dmitry Vladimirovich, are you free right now? | #197 00:15:17: Дмитрий Владимирович | adapted: adapted |
-| 11 | Костя | Дай я тебе позже перезвоню. | Let me call you back later. | #197 00:15:17: я тебе перезвоню | adapted: adapted |
+| 11 | Федя | Дай я тебе позже перезвоню. | Let me call you back later. | #197 00:15:17: я тебе перезвоню | adapted: adapted |
 | 12 | Аня | Нам нужно серьёзно поговорить. | We need to talk seriously. | #194 00:15:08: поговорю | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

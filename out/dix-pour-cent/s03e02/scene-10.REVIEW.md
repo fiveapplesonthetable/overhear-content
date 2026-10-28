@@ -29,5 +29,5 @@
 | 15 | `gabriel` (Gabriel) | Rendez-vous chez toi à vingt heures trente! | See you at your place at eight thirty! | 614:20h30 ?, 616:Au revoir. |
 
 ## Part 5 — Outro & Closing
-> Monica Bellucci calls ASK to discuss new promotional contracts with Gabriel. When you watch the episode, listen out for the expressions meaning 'boss' and 'would like'. You'll catch them now. See you next time.
+> Monica Bellucci calls ASK to discuss new promotional contracts with Gabriel. When you watch the episode, listen out for the expressions meaning 'boss' and 'would like'. You'll catch them now. See you next time!
 - **Closing**: `monica`: *À bientôt!*

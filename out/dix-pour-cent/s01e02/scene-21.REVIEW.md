@@ -30,5 +30,5 @@
 | 16 | `lea` (Andréa) | Exactement! | Exactly! | 630:Exactement |
 
 ## Part 5 — Outro & Closing
-> A real row between two old friends, and you followed it in French, so be pleased with yourself. Gabor now has two actresses for one part; see you next time to find out what happens.
+> A real row between two old friends, and you followed it in French, so be pleased with yourself. Gabor now has two actresses for one part. See you next time!
 - **Closing**: `line`: *Bonne journée!*

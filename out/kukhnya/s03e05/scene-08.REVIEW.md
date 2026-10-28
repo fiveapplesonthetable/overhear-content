@@ -10,8 +10,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Вика, я тебя поздравляю. | Vika, I congratulate you. | #111 00:08:11: Я тебя поздравляю | adapted: adapted |
-| 2 | Нагиев | Ты первая женщина, которая отказалась ехать. | You are the first woman who refused to go. | #112 00:08:12: Ты первая женщина, которая отказалась ехать | adapted: adapted |
+| 1 | Вика | Вика, я тебя поздравляю. | Vika, I congratulate you. | #111 00:08:11: Я тебя поздравляю | adapted: adapted |
+| 2 | Вика | Ты первая женщина, которая отказалась ехать. | You are the first woman who refused to go. | #112 00:08:12: Ты первая женщина, которая отказалась ехать | adapted: adapted |
 | 3 | Вика | А вы возьмите с собой Виктора Петровича. | Why don't you take Viktor Petrovich with you. | #114 00:08:21: А вы возьмите с собой, Виктора Петровича | adapted: adapted |
 | 4 | Аня | Привет, ты чего трубку не берёшь? | Hi, why are you not picking up the phone? | #118 00:08:39: Ты чего, трубку не берешь | adapted: adapted |
 | 5 | Аня | Я хочу с тобой разговаривать. | I want to talk with you. | #119 00:08:41: Я хочу с тобой разговаривать | adapted: adapted |

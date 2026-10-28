@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 6
 SCENE = 15
 TITLE = "La mission secrète de Renard  (Renard's Secret Mission)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "renard": "theo", "mathias": "marcel"}
-LABELS = {"renard": "Renard", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'renard': 'theo', 'mathias': 'marcel'}
+LABELS = {'renard': 'Renard', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "Outside the agency building, the preparations for the grand anniversary party are underway. Mathias approaches the security guard Renard to give him an urgent and confidential assignment. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Mathias secures Renard's cooperation for the secret arrival of the American executives. When you watch the episode, listen out for the expressions meaning 'passes' and 'mission'. You'll catch them now. See you next time."
-CLOSING = ("renard", "Bonne journée!")
+OUTRO = "Mathias secures Renard's cooperation for the secret arrival of the American executives. When you watch the episode, listen out for the expressions meaning 'passes' and 'mission'. You'll catch them now. See you next time!"
+CLOSING = ('renard', 'Bonne journée!')
 STORY = [
     ('mathias', 'Ça va, Renard?', 'Are you alright, Renard?', [(627, 'Ça va, Renard ?')], ''),
     ('renard', 'Ça va, tout se passe bien.', 'Everything is going fine.', [(628, 'Ça va, ça se rend bien')], ''),

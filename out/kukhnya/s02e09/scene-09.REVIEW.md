@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Елена Павловна, простите, мой... | Elena Pavlovna, forgive me, my... | #141 00:09:44: Елена Павловна, простите, мой | verbatim |
-| 2 | Вика | Поверьте, оно было восхитительным. | Believe me, it was absolutely delightful. | #143 00:09:51: Поверьте, оно было восхитительным | verbatim |
+| 1 | Шеф | Елена Павловна, простите, мой... | Elena Pavlovna, forgive me, my... | #141 00:09:44: Елена Павловна, простите, мой | verbatim |
+| 2 | Елена | Поверьте, оно было восхитительным. | Believe me, it was absolutely delightful. | #143 00:09:51: Поверьте, оно было восхитительным | verbatim |
 | 3 | Елена | Я рада, что вам понравилось. | I am glad that you liked it. | #145 00:09:57: Я рада, что вам понравилось | verbatim |
-| 4 | Аня | Я вас благодарю. | I thank you. | #145 00:09:57: Я вас благодарю | verbatim |
-| 5 | Вика | Ничего, ничего, не переживайте. | It is nothing, nothing at all, do not worry. | #146 00:10:01: Ничего, ничего, не переживайте | verbatim |
+| 4 | Шеф | Я вас благодарю. | I thank you. | #145 00:09:57: Я вас благодарю | verbatim |
+| 5 | Елена | Ничего, ничего, не переживайте. | It is nothing, nothing at all, do not worry. | #146 00:10:01: Ничего, ничего, не переживайте | verbatim |
 | 6 | Елена | Извините. Ничего. | Excuse me. It is nothing. | #146 00:10:01: Извините. Ничего | verbatim |
-| 7 | Аня | Все в порядке. | Everything is fine. | #147 00:10:04: Все в порядке | verbatim |
-| 8 | Вика | Алло, Виктор Петрович. | Hello, Viktor Petrovich. | #148 00:10:12: Алло, Виктор Петрович | verbatim |
+| 7 | Шеф | Все в порядке. | Everything is fine. | #147 00:10:04: Все в порядке | verbatim |
+| 8 | Елена | Алло, Виктор Петрович. | Hello, Viktor Petrovich. | #148 00:10:12: Алло, Виктор Петрович | verbatim |
 | 9 | Елена | Тогда что же, встретимся через час? | Then what do you say we meet in an hour? | #149 00:10:16: Тогда что же, встретимся через час | verbatim |
-| 10 | Аня | Я же буду на машине. | I will be driving my car. | #150 00:10:21: я же буду на машине | verbatim |
-| 11 | Вика | Надо его остановить. | We have to stop him. | #154 00:11:04: надо его остановить | verbatim |
+| 10 | Шеф | Я же буду на машине. | I will be driving my car. | #150 00:10:21: я же буду на машине | verbatim |
+| 11 | Елена | Надо его остановить. | We have to stop him. | #154 00:11:04: надо его остановить | verbatim |
 | 12 | Елена | Это все равно. | It makes no difference now. | #157 00:11:13: Это все равно | verbatim |
-| 13 | Аня | А что, там холодно, быстрее отойдет? | What, since it is cold in there, will it wear off faster? | #160 00:11:24: А что, там холодно, быстрее отойдет | verbatim |
+| 13 | Шеф | А что, там холодно, быстрее отойдет? | What, since it is cold in there, will it wear off faster? | #160 00:11:24: А что, там холодно, быстрее отойдет | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

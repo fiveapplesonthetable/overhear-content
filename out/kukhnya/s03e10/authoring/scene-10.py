@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e10-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 10
 SCENE = 10
-TITLE = 'Звонок Нагиеву и маме  (Calling Nagiyev and Mom)'
+TITLE = "Звонок Нагиеву и маме  (Calling Nagiyev and Mom)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "anya": "alisa", "chef": "anja"}
+LABELS = {"lyova": "Лёва", "anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.10'
 SOURCE_FILE = 'sources/kukhnya/s03/e10.ru.srt'
 
 INTRO = 'Bursting with pride, Chef Barinov calls Nagiyev to boast that he is bringing a stunning woman to dinner tonight. Meanwhile, Lyova excitedly calls his mother to announce his date with Katya—putting Max on the spot.'
@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'I will introduce you to a wonderful young woman.' The meaning hinges on 'I'll introduce' working together with 'woman' in spoken Russian."),
     (2, None, "'Get your money ready for dinner, loser!' An emphatic spoken line centered on the verb meaning 'prepare'. Max answers right away."),
     (3, None, "'Listen, Lyova, here is how things turned out.' Max anchors the line on 'listen', while 'turned out' completes the thought."),
-    (4, None, "'Yes, Mom, I am going to have a date!' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'date'."),
+    (4, None, "'Yes, Mom, I am going to have a date!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (5, None, "'Yes, she is from a very respectable family.' The meaning hinges on 'yes' working together with 'family' in spoken Russian."),
     (6, None, "'I hope that you will meet each other soon.' Lyova chooses the respectful plural 'you' alongside 'will get acquainted' to keep a polite distance."),
     (7, None, "'Alright, Mom, bye, it is time for me to work.' Spoken Russian keeps this brisk, leaning on 'everything' and finishing on 'to work'."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Seeing how thrilled Lyova and his mother are, Max does not have the heart to tell Lyova that Katya rejected him. Instead, Max invents a wild cover story.'
-CLOSING = ('lyova', 'Ну что, где будет свидание?')
+OUTRO = 'Seeing how thrilled Lyova and his mother are, Max does not have the heart to tell Lyova that Katya rejected him. Instead, Max invents a wild cover story. See you next time!'
+CLOSING = ("lyova", "Хорошего дня!")

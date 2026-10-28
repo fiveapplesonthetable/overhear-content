@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 12
-TITLE = 'Французский метод от икоты  (The French Method for Hiccups)'
+TITLE = "Французский метод от икоты  (The French Method for Hiccups)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'louis': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Макс', 'louis': 'Луи', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "fedya": "anja", "anya": "alisa"}
+LABELS = {"fedya": "Федя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = "Max promises Timur he will come right out after stuffing his dish, while Louis suggests a classic French remedy for Max's nonstop hiccups: giving him a massive scare! Listen to the Russian conversation first."
@@ -18,9 +18,9 @@ STORY = [
     ('fedya', 'Молодец, я знал, что ты не трус.', 'Well done, I knew that you are not a coward.', [(202, 'Молодец, я знал, что ты не трус')], 'adapted'),
     ('fedya', 'В общем, я тебя жду во дворе, Макс.', 'In short, I am waiting for you in the courtyard, Max.', [(204, 'В общем, я тебя жду, Макс')], 'adapted'),
     ('anya', 'Слушай, надо что-то с этим делать!', 'Listen, we have to do something about this!', [(205, 'Слушай, надо что-то с этим делать')], 'adapted'),
-    ('louis', 'Есть один отличный французский метод.', 'There is one excellent French method.', [(206, 'Есть один французский метод')], 'adapted'),
-    ('louis', 'Надо сделать человеку очень сильный испуг.', 'You have to give the person a very strong fright.', [(207, 'делать человеку сильный испуг')], 'adapted'),
-    ('louis', 'И тогда никто больше не будет икать!', 'And then nobody will hiccup anymore!', [(208, 'никто не икать')], 'adapted'),
+    ('fedya', 'Есть один отличный французский метод.', 'There is one excellent French method.', [(206, 'Есть один французский метод')], 'adapted'),
+    ('fedya', 'Надо сделать человеку очень сильный испуг.', 'You have to give the person a very strong fright.', [(207, 'делать человеку сильный испуг')], 'adapted'),
+    ('fedya', 'И тогда никто больше не будет икать!', 'And then nobody will hiccup anymore!', [(208, 'никто не икать')], 'adapted'),
     ('fedya', 'Хороший вариант, давай попробуем.', "A good option, let's try it.", [(209, 'Вариант')], 'adapted'),
     ('fedya', 'Только если у него инфаркт будет, это ты придумал.', 'Only if he has a heart attack, you came up with it.', [(209, 'Только если у него инфаркт будет, это ты придумал')], 'adapted'),
     ('anya', 'Привет, батя, мы уже приехали в ресторан.', 'Hi, pops, we have already arrived at the restaurant.', [(212, 'бать-то')], 'adapted'),
@@ -39,12 +39,12 @@ WALK = [
     (5, None, "'You have to give the person a very strong fright.' Spoken Russian keeps this brisk, leaning on 'need' and finishing on 'fright'."),
     (6, None, "'And then nobody will hiccup anymore!' Notice how Russian expresses 'and' and 'to hiccup' with crisp inflection rather than helper words. Fedya answers right away."),
     (7, None, "'A good option, let's try it.' Here the Russian phrasing highlights 'good' before landing on 'let's try'."),
-    (8, None, "'Only if he has a heart attack, you came up with it.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'came up with'."),
+    (8, None, "'Only if he has a heart attack, you came up with it.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (9, None, "'Hi, pops, we have already arrived at the restaurant.' Spoken Russian keeps this brisk, leaning on 'hello' and finishing on 'restaurant'."),
     (10, None, "'I brought a couple of friends along with me here.' Max anchors the line on 'I', while 'brought along' completes the thought."),
     (11, None, "'I hope you do not mind at all today?' The meaning hinges on 'hope' working together with 'against' in spoken Russian."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'While Louis and Fedya prepare their ambush in the dark hallway, Max tries one more desperate trick to escape the courtyard: calling an ambulance for himself!'
-CLOSING = ('louis', 'Есть один французский метод.')
+OUTRO = 'While Louis and Fedya prepare their ambush in the dark hallway, Max tries one more desperate trick to escape the courtyard: calling an ambulance for himself! See you next time!'
+CLOSING = ("fedya", "Пока!")

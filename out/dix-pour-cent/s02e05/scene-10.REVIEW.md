@@ -29,5 +29,5 @@
 | 15 | `arlette` (Arlette) | La jalousie, c'est tellement stupide. | Jealousy is so stupid. | 289:La jalousie, c'est tellement stupide. |
 
 ## Part 5 — Outro & Closing
-> Arlette shares her glamorous past with Gabriel, recounting how her romance with jazz legend Chet Baker created a fifty-year rift with Guy Marchand. Join us next time to see what happens next.
+> Arlette shares her glamorous past with Gabriel, recounting how her romance with jazz legend Chet Baker created a fifty-year rift with Guy Marchand. See you next time!
 - **Closing**: `arlette`: *À demain!*

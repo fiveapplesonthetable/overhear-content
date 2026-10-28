@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 9
 TITLE = "L'audition imprévue  (The Unexpected Audition)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "samy": "marcel", "casting_asst": "emilie"}
-LABELS = {"samy": "Samy", "casting_asst": "Assistante de casting"}
+VOICES = {'narrator': 'sky', 'samy': 'marcel', 'casting_asst': 'emilie'}
+LABELS = {'samy': 'Samy', 'casting_asst': 'Assistante de casting'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At the casting studio, Samy takes the stage to pitch himself despite having zero acting experience. While the casting team reacts with amusement and skepticism, an assistant measures him for costume fitting. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Samy finishes his offbeat audition and measurement session with good humor. When you watch the episode, listen out for the expressions meaning 'introduce' and 'experience'. You'll catch them now. See you next time."
-CLOSING = ("samy", "À bientôt!")
+OUTRO = "Samy finishes his offbeat audition and measurement session with good humor. When you watch the episode, listen out for the expressions meaning 'introduce' and 'experience'. You'll catch them now. See you next time!"
+CLOSING = ('samy', 'À bientôt!')
 STORY = [
     ('samy', 'Voilà, je me présente à vous.', 'Here I am, let me introduce myself to you.', [(391, 'Donc, voilà, je me présente.')], ''),
     ('samy', "Je n'ai pas d'expérience dans ce métier.", 'I have no experience in this profession.', [(392, "J'ai aucune expérience dans le métier.")], ''),

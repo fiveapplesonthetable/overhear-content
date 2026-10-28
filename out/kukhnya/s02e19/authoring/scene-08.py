@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e19-scene-08"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e19-scene-08'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 19
 SCENE = 8
 TITLE = "Стоп-лист и признание гостьи  (The Stop-List and the Guest's Confession)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'sasha': 'anja'}
-LABELS = {'anya': 'Макс', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.19"
-SOURCE_FILE = "sources/kukhnya/s02/e19.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja"}
+LABELS = {"anya": "Макс", "sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
+SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 
 INTRO = 'Escalating the feud with Vika, Chef Barinov forbids the waitresses from stepping past the kitchen line and places half the menu on the stop-list. Out in the dining room, Max apologizes to his older guest, who confesses that she actually comes to Claude Monet for a certain young man.'
 
@@ -41,13 +41,12 @@ WALK = [
     (6, None, "'Have you lost your minds completely?' Here the Russian phrasing highlights 'you' before landing on 'at all'. Sasha answers right away."),
     (7, None, "'Those items are on the stop-list.' In Russian, the idea of 'they' flows naturally into '86'd list' without extra filler words."),
     (8, None, "'That is quite alright, Maxim.' Here the Russian phrasing highlights 'nothing' before landing on 'Maxim'."),
-    (9, None, "'You know, Maxim, I want to make a confession to you.' Notice the reflexive suffix on the verb meaning 'to admit', turning the action back on the subject. Max answers right away."),
+    (9, None, "'You know, Maxim, I want to make a confession to you.' Notice how Russian puts 'know' and 'to admit' together in a short, direct phrase where word endings show how the ideas connect."),
     (10, None, "'Yes, I noticed that.' The meaning hinges on 'yes' working together with 'noticed' in spoken Russian."),
     (11, None, "'You apparently really like the way I cook?' Sasha anchors the line on 'for you', while 'prepare' completes the thought."),
     (12, None, "'I come here for the sake of one young man.' The meaning hinges on 'and' working together with 'fellow' in spoken Russian."),
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = "When you watch Scene 8 of Episode 19, listen out for the exchange around the stop-list and the guest's confession — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'А ради одного молодого парня.')
+OUTRO = 'That wraps up this scene as chef Barinov retaliates against Vika by banning waitresses from the kitchen and putting dishes on the stop-list, while the older guest hints to Max that she comes there just to see him. See you next time!'
+CLOSING = ("anya", "Пока!")

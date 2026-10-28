@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Attends. Au moins jusqu'à demain. | Wait. Until tomorrow at least. | 617:Attends. Au moins jusqu'à demain |
 
 ## Part 5 — Outro & Closing
-> That's all for this scene; Gabriel will try to follow the advice, and his assistant Hervé will soon drag him out for a drink to take his mind off things. You followed a real office argument in French, so be pleased with yourself, and see you next time.
+> That's all for this scene; Gabriel will try to follow the advice, and his assistant Hervé will soon drag him out for a drink to take his mind off things. You followed a real office argument in French, so be pleased with yourself. See you next time!
 - **Closing**: `lea`: *À demain, Gabriel!*

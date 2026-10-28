@@ -13,9 +13,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Гость | Вы знаете, Виктор, у меня сейчас ничего нет. | You know, Viktor, I have nothing right now. | #162 00:09:08: Вы знаете, у меня ничего нет | adapted: adapted |
 | 2 | Гость | Нет ни любимой жены, ни верных друзей. | I have neither a beloved wife nor loyal friends. | #163 00:09:11: Ни жены, ни друзей | adapted: adapted |
 | 3 | Гость | Но зато у меня есть одна большая мечта. | But on the other hand I have one big dream. | #164 00:09:13: Но у меня есть мечта | adapted: adapted |
-| 4 | Аня | Очень интересно, и какая же у вас мечта? | Very interesting, and what kind of dream do you have? | #165 00:09:17: Интересно | adapted: adapted |
+| 4 | Гость | Очень интересно, и какая же у вас мечта? | Very interesting, and what kind of dream do you have? | #165 00:09:17: Интересно | adapted: adapted |
 | 5 | Гость | Триста тысяч рублей — вот моя светлая мечта! | Three hundred thousand rubles—that is my bright dream! | #165 00:09:17: Триста тысяч | adapted: adapted |
-| 6 | Аня | Какая чёткая и весьма дорогая у вас мечта! | What a precise and rather expensive dream you have! | #166 00:09:20: Какая четкая и | adapted: adapted |
+| 6 | Гость | Какая чёткая и весьма дорогая у вас мечта! | What a precise and rather expensive dream you have! | #166 00:09:20: Какая четкая и | adapted: adapted |
 | 7 | Гость | Завтра я уезжаю на север писать новые картины. | Tomorrow I am leaving for the north to paint new pictures. | #169 00:09:29: Завтра я уезжаю в | adapted: adapted |
 | 8 | Гость | И на первое время мне очень нужны деньги. | And for the beginning I really need money. | #170 00:09:33: И на первое время мне нужны деньги | adapted: adapted |
 | 9 | Элеонора | Виктория, я хотела сказать вам большое спасибо. | Victoria, I wanted to say thank you very much. | #172 00:09:41: Виктория, я хотела сказать спасибо | adapted: adapted |

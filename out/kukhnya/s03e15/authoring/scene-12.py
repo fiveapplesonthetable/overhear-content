@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 12
 TITLE = "Перебор с маслом и просьба Кости  (Too Much Oil and Kostya's Request)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = 'Nagiyev brags that he has mastered cooking in a single day and calls himself a genius—until he and Chef Barinov taste his rabbit and nearly choke on the oil and spices! Just then, Kostya asks Nagiyev for a favor. Listen first.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Kostya asks Nagiyev to hand him the remaining four hundred thousand rubles as a 'wedding gift' in front of Nastya, while Max heads to Vika's apartment with a crane truck!"
-CLOSING = ('chef', 'Сейчас что-нибудь придумаем.')
+OUTRO = "Kostya asks Nagiyev to hand him the remaining four hundred thousand rubles as a 'wedding gift' in front of Nastya, while Max heads to Vika's apartment with a crane truck! See you next time!"
+CLOSING = ("chef", "Пока!")

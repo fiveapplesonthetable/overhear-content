@@ -18,10 +18,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Нагиев | Прости меня, друг, так уж вышло. | Forgive me, my friend, that is how it turned out. | #60 00:06:29: Прости, друг | adapted: adapted |
 | 7 | Аня | Вика, можно тебя попросить на одну секунду? | Vika, may I have a word with you for one second? | #61 00:06:36: Вика, можно на секунду | adapted: adapted |
 | 8 | Аня | Скажи мне, как вообще твои дела? | Tell me, how are things with you? | #62 00:06:42: Как твои дела | adapted: adapted |
-| 9 | Вика | Хорошо. Ты чего-то хотел по работе? | Fine. Did you want something regarding work? | #63 00:06:44: Хорошо | adapted: adapted |
+| 9 | Нагиев | Хорошо. Ты чего-то хотел по работе? | Fine. Did you want something regarding work? | #63 00:06:44: Хорошо | adapted: adapted |
 | 10 | Аня | Я просто хотел услышать, что всё хорошо. | I just wanted to hear that everything is fine. | #64 00:06:47: Просто хотел услышать, что у тебя все хорошо | adapted: adapted |
 | 11 | Аня | Для меня это самое главное в жизни. | For me that is the most important thing in life. | #65 00:06:51: Для меня это самое главное в жизни | adapted: adapted |
-| 12 | Вика | Расслабься, мы теперь просто работаем вместе. | Relax, we just work together now. | #68 00:07:01: Просто работаем вместе | adapted: adapted |
+| 12 | Нагиев | Расслабься, мы теперь просто работаем вместе. | Relax, we just work together now. | #68 00:07:01: Просто работаем вместе | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

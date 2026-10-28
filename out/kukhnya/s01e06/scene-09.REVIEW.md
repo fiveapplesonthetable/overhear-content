@@ -1,39 +1,39 @@
-# kukhnya-s01e06-scene-09: review sheet
+# Волос в тарелке  (A Hair on the Plate) — `kukhnya-s01e06-scene-09`
 
-Title: Волос в тарелке  (A Hair on the Plate)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.06
+**Source:** Кухня (Kukhnya) S1.06 · `sources/kukhnya/s01/e06.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `nastya` | angelina | Настя |
+| `guest` | anja | Гость |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the elegant dining room of Claude Monet, an indignant diner summons waitress Nastya over to his table. He points out a long stray hair in his meal, sparking a hilariously deadpan exchange with the unflappable waitress. Let's listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Гость | Девушка, подойдите немедленно к нашему столу! | Miss, come over to our table immediately! | #85 00:05:52: Бевушка | adapted: calling the waitress angrily |
-| 2 | Настя | Добрый день, слушаю вас очень внимательно. | Good day, I am listening to you very attentively. | #86 00:05:59: Слушаю вас | adapted: responding politely |
-| 3 | Гость | Посмотрите на это, что это такое? | Look at this, what is that? | #86 00:05:59: Это что | adapted: pointing at his plate |
-| 4 | Настя | Я вижу, что это обычный волос. | I see that this is an ordinary hair. | #87 00:06:03: Это волос | adapted: stating the obvious calmly |
-| 5 | Гость | Я тоже отлично вижу этот длинный волос! | I also see this long hair perfectly well! | #88 00:06:06: Я вижу, что это волос | adapted: growing exasperated |
-| 6 | Настя | Тогда зачем вы об этом спрашиваете? | Then why are you asking about it? | #89 00:06:08: А зачем тогда спрашиваете | adapted: replying with deadpan logic |
-| 7 | Гость | Как этот волос попал в тарелку? | How did this hair get onto the plate? | #90 00:06:12: Я хочу понять, как этот волос попал ко мне в тарелку | adapted: demanding an explanation |
-| 8 | Настя | Вероятно, он просто выпал из вашей головы. | Probably it simply fell out of your head. | #91 00:06:16: Вероятно, выпал из вашей головы | adapted: suggesting a logical source |
-| 9 | Гость | Такой длинный волос не может быть моим! | Such a long hair cannot be mine! | #92 00:06:20: Такой длинный | adapted: protesting indignantly |
-| 10 | Настя | Тогда, наверное, он выпал из бороды. | Then probably it fell out of a beard. | #93 00:06:22: Наверное, из вашей бороды | adapted: offering another guess |
-| 11 | Гость | У меня нет бороды, позовите шефа! | I do not have a beard, call the chef! | #94 00:06:25: У меня нет бороды<br>#95 00:06:30: Позовите ко мне шеф-повара | adapted: losing his temper |
-| 12 | Настя | Хорошо, я сейчас позову шеф-повара. | Fine, I will call the head chef right now. | #96 00:06:34: Зову | adapted: agreeing calmly |
+| 0 | Гость | Девушка, подойдите немедленно к нашему столу! | Miss, come over to our table immediately! | #85 "Бевушка" |  |
+| 1 | Настя | Добрый день, слушаю вас очень внимательно. | Good day, I am listening to you very attentively. | #86 "Слушаю вас" |  |
+| 2 | Гость | Посмотрите на это, что это такое? | Look at this, what is that? | #86 "Это что" |  |
+| 3 | Настя | Я вижу, что это обычный волос. | I see that this is an ordinary hair. | #87 "Это волос" |  |
+| 4 | Гость | Я тоже отлично вижу этот длинный волос! | I also see this long hair perfectly well! | #88 "Я вижу, что это волос" |  |
+| 5 | Настя | Тогда зачем вы об этом спрашиваете? | Then why are you asking about it? | #89 "А зачем тогда спрашиваете" |  |
+| 6 | Гость | Как этот волос попал в тарелку? | How did this hair get onto the plate? | #90 "Я хочу понять, как этот волос попал ко мне в тарелку" |  |
+| 7 | Настя | Вероятно, он просто выпал из вашей головы. | Probably it simply fell out of your head. | #91 "Вероятно, выпал из вашей головы" |  |
+| 8 | Гость | Такой длинный волос не может быть моим! | Such a long hair cannot be mine! | #92 "Такой длинный" |  |
+| 9 | Настя | Тогда, наверное, он выпал из бороды. | Then probably it fell out of a beard. | #93 "Наверное, из вашей бороды" |  |
+| 10 | Гость | У меня нет бороды, позовите шефа! | I do not have a beard, call the chef! | #94 "У меня нет бороды", #95 "Позовите ко мне шеф-повара" |  |
+| 11 | Настя | Хорошо, я сейчас позову шеф-повара. | Fine, I will call the head chef right now. | #96 "Зову" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Miss, come over to our table immediately!' The angry customer demands instant attention from the waitstaff.
-- 'Good day, I am listening to you very attentively.' Nastya greets him with calm professional courtesy.
-- 'Look at this, what is that?' The customer points aggressively down at his meal.
-- 'I see that this is an ordinary hair.' Nastya offers a calm and literal observation of the offending item.
-- 'I also see this long hair perfectly well!' the guest puts the word for 'perfectly' together with 'see' and 'long' in a crisp, natural spoken turn of phrase.
-- 'Then why are you asking about it?' Nastya innocently questions why he posed a question he already knew the answer to.
-- 'How did this hair get onto the plate?' The guest presses for an institutional explanation.
-- 'Probably it simply fell out of your head.' Nastya neutrally suggests the customer might be the origin.
-- 'Such a long hair cannot be mine!' The short-haired diner rejects the suggestion out of hand.
-- 'Then probably it fell out of a beard.' Nastya helpfully suggests another facial source.
-- 'I do not have a beard, call the chef!' The clean-shaven customer reaches his boiling point and demands management.
-- 'Fine, I will call the head chef right now.' Nastya unhurriedly walks off toward the kitchen to fetch Barinov.
+> Leaving the infuriated guest waiting at his table, Nastya heads into the kitchen to alert Chef Barinov. See you next time!
+
+**Настя:** Пока!

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 7
-TITLE = "Peur de la routine  (Fear of Routine)"
-LEVEL = "A1 — débutant"
+TITLE = 'Peur de la routine  (Fear of Routine)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "In their Paris bedroom, Andrea Martel opens up to Colette about her anxieties regarding domestic family life. Fearing the dull routine of bourgeois couples, Andrea finds comfort when Colette reminds her that their life together is an adventure. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andrea and Colette overcome their fears of domestic routine step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around fear of routine. When you watch the episode, listen out for the expressions meaning 'domestic' and 'know.'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "That's it for this scene around fear of routine. When you watch the episode, listen out for the expressions meaning 'domestic' and 'know.'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('lea', 'Je ne suis pas très domestique, tu sais.', 'I am not very domestic, you know.', [(522, 'Je suis pas très domestique, moi, tu sais.')], ''),
     ('colette', 'Oui, je le sais très bien, Andréa.', 'Yes, I know that very well, Andrea.', [(523, 'Oui, je sais.')], ''),

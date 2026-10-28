@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Как вы себя чувствуете? | How are you feeling today? | #129 00:09:11: Как вы себя чувствуете | verbatim |
-| 2 | Макс | Спасибо, хорошо. | Thank you, quite well. | #130 00:09:14: Спасибо, хорошо | verbatim |
-| 3 | Аня | Ничего не беспокоит. | Nothing is bothering you? | #131 00:09:16: Ничего не беспокоит | verbatim |
-| 4 | Макс | Нет, все нормально. | No, everything is fine. | #132 00:09:21: Нет, все нормально | verbatim |
-| 5 | Аня | Вы говорили, что вам нужен банкет, да? | You mentioned that you needed a banquet, right? | #133 00:09:23: Вы говорили, что вам нужен банкет, да | verbatim |
-| 6 | Макс | Ну, Елена сказала. | Well, Elena told me. | #134 00:09:27: Ну, Елена сказала | verbatim |
-| 7 | Аня | Подождите. Это что же? | Wait a second. What is going on here? | #135 00:09:34: Подождите. Это что же | verbatim |
-| 8 | Макс | Так, так, так, Витя. | Now, now, Vitya, calm down. | #136 00:09:39: Так, так, так, Витя | verbatim |
-| 9 | Аня | В конце концов, то... | After all, otherwise... | #140 00:09:51: в конце концов, то | verbatim |
-| 10 | Макс | Да ты сядешь за этот черт в стол! | Sit down at this damn table right now! | #141 00:09:53: Да ты сядешь за этот черт в стол | verbatim |
-| 11 | Аня | Если вы не будете контролировать свой гнев. | If you do not learn to control your anger. | #142 00:10:03: Если вы не будете контролировать свой гнев | verbatim |
-| 12 | Макс | А что делать? | Then what am I supposed to do? | #144 00:10:07: А что делать | verbatim |
-| 13 | Аня | Нет. У меня есть один способ. | No. I have one special method. | #145 00:10:09: Нет. У меня есть один способ | verbatim |
+| 1 | Елена | Как вы себя чувствуете? | How are you feeling today? | #129 00:09:11: Как вы себя чувствуете | verbatim |
+| 2 | Аня | Спасибо, хорошо. | Thank you, quite well. | #130 00:09:14: Спасибо, хорошо | verbatim |
+| 3 | Елена | Ничего не беспокоит. | Nothing is bothering you? | #131 00:09:16: Ничего не беспокоит | verbatim |
+| 4 | Аня | Нет, все нормально. | No, everything is fine. | #132 00:09:21: Нет, все нормально | verbatim |
+| 5 | Елена | Вы говорили, что вам нужен банкет, да? | You mentioned that you needed a banquet, right? | #133 00:09:23: Вы говорили, что вам нужен банкет, да | verbatim |
+| 6 | Аня | Ну, Елена сказала. | Well, Elena told me. | #134 00:09:27: Ну, Елена сказала | verbatim |
+| 7 | Елена | Подождите. Это что же? | Wait a second. What is going on here? | #135 00:09:34: Подождите. Это что же | verbatim |
+| 8 | Аня | Так, так, так, Витя. | Now, now, Vitya, calm down. | #136 00:09:39: Так, так, так, Витя | verbatim |
+| 9 | Елена | В конце концов, то... | After all, otherwise... | #140 00:09:51: в конце концов, то | verbatim |
+| 10 | Аня | Да ты сядешь за этот черт в стол! | Sit down at this damn table right now! | #141 00:09:53: Да ты сядешь за этот черт в стол | verbatim |
+| 11 | Елена | Если вы не будете контролировать свой гнев. | If you do not learn to control your anger. | #142 00:10:03: Если вы не будете контролировать свой гнев | verbatim |
+| 12 | Аня | А что делать? | Then what am I supposed to do? | #144 00:10:07: А что делать | verbatim |
+| 13 | Елена | Нет. У меня есть один способ. | No. I have one special method. | #145 00:10:09: Нет. У меня есть один способ | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
