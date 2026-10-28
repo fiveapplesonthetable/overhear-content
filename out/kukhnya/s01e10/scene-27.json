@@ -11,8 +11,13 @@
  "segments": [
   {
    "v": "narrator",
-   "t": "In the office, Barinov speaks to Max about Vika's family. He has some experience of them, and not good experience. No need to catch everything on the first pass.",
+   "t": "Barinov has overheard the news, and he marches Max off to his office for a talk about Vika's family. He has some experience of them, and not good experience. No need to catch everything on the first pass.",
    "gap": 0.8
+  },
+  {
+   "v": "barinov",
+   "t": "Ну-ка, пойдём со мной.",
+   "gap": 0.55
   },
   {
    "v": "barinov",
@@ -37,11 +42,6 @@
   {
    "v": "barinov",
    "t": "Их семья теперь не отстанет от тебя.",
-   "gap": 0.55
-  },
-  {
-   "v": "max",
-   "t": "Вы так хорошо знаете эту семью?",
    "gap": 0.55
   },
   {
@@ -82,6 +82,16 @@
   {
    "v": "narrator",
    "t": "Now, step by step.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Ну-ка, пойдём со мной.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Come with me, now.' 'Nu-ka' in front of an order makes it brisk, like 'come on'. 'Poydyom' is 'let's go', and so mnoy is 'with me': s becomes so before mnoy.",
    "gap": 0.4
   },
   {
@@ -132,16 +142,6 @@
   {
    "v": "narrator",
    "t": "'Their family will not leave you alone now.' \"Ne otstanet ot tebya\", literally \"won't fall behind you\", is \"won't leave you alone\". \"Ikh\", \"their\", never changes its ending. \"Semya\" is \"family\".",
-   "gap": 0.4
-  },
-  {
-   "v": "max",
-   "t": "Вы так хорошо знаете эту семью?",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Do you know this family so well?' \"Znaete\" is \"you know\", polite form. \"Etu semyu\" is \"this family\": \"eta semya\" becomes \"etu semyu\" as the thing known. \"Tak khorosho\" is \"so well\".",
    "gap": 0.4
   },
   {
@@ -216,6 +216,11 @@
   },
   {
    "v": "barinov",
+   "t": "Ну-ка, пойдём со мной.",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
    "t": "Вот это ты сильно попал, парень.",
    "gap": 0.5
   },
@@ -237,11 +242,6 @@
   {
    "v": "barinov",
    "t": "Их семья теперь не отстанет от тебя.",
-   "gap": 0.5
-  },
-  {
-   "v": "max",
-   "t": "Вы так хорошо знаете эту семью?",
    "gap": 0.5
   },
   {
@@ -296,21 +296,26 @@
   "lines": [
    {
     "line": 0,
+    "cue": 188,
+    "fragment": "Ну-ка, пойдем со мной"
+   },
+   {
+    "line": 1,
     "cue": 189,
     "fragment": "Вот это ты попал"
    },
    {
-    "line": 1,
+    "line": 2,
     "cue": 192,
     "fragment": "Шеф, так получилось"
    },
    {
-    "line": 2,
+    "line": 3,
     "cue": 190,
     "fragment": "Надо было как-то думать"
    },
    {
-    "line": 4,
+    "line": 5,
     "cue": 194,
     "fragment": "Теперь они с тебя"
    },

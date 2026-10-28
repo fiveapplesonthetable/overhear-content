@@ -11,8 +11,13 @@
  "segments": [
   {
    "v": "narrator",
-   "t": "The box is open, and the chef is looking at what Senya has brought: pike caviar, not black caviar. The price is low and the colour is wrong. The Russian comes first.",
+   "t": "Senya slips into the office with a secret box for the chef. Inside is pike caviar, not black caviar. The price is low and the colour is wrong. The Russian comes first.",
    "gap": 0.8
+  },
+  {
+   "v": "barinov",
+   "t": "Ну что, принёс?",
+   "gap": 0.55
   },
   {
    "v": "senya",
@@ -27,11 +32,6 @@
   {
    "v": "senya",
    "t": "Это отличная щучья икра, пять килограммов.",
-   "gap": 0.55
-  },
-  {
-   "v": "barinov",
-   "t": "Она выглядит очень красиво и аппетитно.",
    "gap": 0.55
   },
   {
@@ -85,6 +85,16 @@
    "gap": 0.4
   },
   {
+   "v": "barinov",
+   "t": "Ну что, принёс?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Well, did you bring it?' 'Nu chto' is a quick 'well?'. 'Prinyos' is 'brought', the past of prinesti; it has no l at the end, unlike most past forms.",
+   "gap": 0.4
+  },
+  {
    "v": "senya",
    "t": "Вот товар, как вы заказывали, шеф.",
    "gap": 0.55
@@ -101,7 +111,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Open the box and show me the caviar.' \"Otkroy\" is \"open\" and \"pokazhi\" is \"show\", both said to one person. \"Otkroy\" is from \"otkryt\", the verb in \"otkroem\" in the last scene. \"Pokazhi mne\" is \"show me\".",
+   "t": "'Open the box and show me the caviar.' \"Otkroy\" is \"open\" and \"pokazhi\" is \"show\", both said to one person. \"Otkroy\" is from \"otkryt\", the opposite of \"zakryt\", \"to close\". \"Pokazhi mne\" is \"show me\".",
    "gap": 0.4
   },
   {
@@ -112,16 +122,6 @@
   {
    "v": "narrator",
    "t": "'This is excellent pike caviar, five kilograms.' \"Shchuchya\", \"pike\", is made from \"shchuka\", \"a pike\", and it describes the caviar. \"Pyat kilogrammov\" here has the full ending. \"Otlichnaya\" is \"excellent\".",
-   "gap": 0.4
-  },
-  {
-   "v": "barinov",
-   "t": "Она выглядит очень красиво и аппетитно.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'It looks very beautiful and appetizing.' \"Appetitno\", \"appetizing\", is from \"appetit\", \"appetite\". \"Vyglyadit\" is \"looks\", in the sense of \"appears\". \"Krasivo\" is \"beautiful\".",
    "gap": 0.4
   },
   {
@@ -215,6 +215,11 @@
    "gap": 0.9
   },
   {
+   "v": "barinov",
+   "t": "Ну что, принёс?",
+   "gap": 0.5
+  },
+  {
    "v": "senya",
    "t": "Вот товар, как вы заказывали, шеф.",
    "gap": 0.5
@@ -227,11 +232,6 @@
   {
    "v": "senya",
    "t": "Это отличная щучья икра, пять килограммов.",
-   "gap": 0.5
-  },
-  {
-   "v": "barinov",
-   "t": "Она выглядит очень красиво и аппетитно.",
    "gap": 0.5
   },
   {
@@ -296,11 +296,21 @@
   "lines": [
    {
     "line": 0,
+    "cue": 202,
+    "fragment": "Ну что? Принёс"
+   },
+   {
+    "line": 1,
+    "cue": 203,
+    "fragment": "Как"
+   },
+   {
+    "line": 1,
     "cue": 204,
     "fragment": "вы заказывали"
    },
    {
-    "line": 2,
+    "line": 3,
     "cue": 205,
     "fragment": "Икра щучья. Пять кило"
    },

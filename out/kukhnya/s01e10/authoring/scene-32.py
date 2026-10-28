@@ -40,6 +40,6 @@ WALK = [
     (7, None, '\'Taste a tiny bit, just do not eat it all.\' "Chut-chut" is "a tiny bit". "Chut" alone means "almost", as in Max\'s "chut ne ranila" about the knife. "Ne syesh vsyo" is "don\'t eat it all up"; Alisa said "syela" about the chocolate.'),
     (8, None, '\'Listen, the taste is simply magnificent.\' Russians say "slushay", "listen", to get attention. "Velikolepny", "magnificent", is the word Louis used for his cake: "velikolepny tort".'),
     (9, None, '\'Our guests will be in total delight.\' Russians are "v polnom vostorge", "in full delight", when something thrills them. "Budut" is "will be". Senya expects the guests to love it.'),
-    (10, None, '\'The main thing is that the guests suspect nothing.\' "Glavnoe, chtoby" is "the main thing is that", the pattern of Barinov\'s "Glavnoe, chtoby tovar byl svezhim". After "chtoby", the verb goes into the past: "zapodozrili".'),
+    (10, None, '\'The main thing is that the guests suspect nothing.\' "Glavnoe, chtoby" is "the main thing is that", from glavny, "main", whose root is glava, "head". After "chtoby", the verb goes into the past: "zapodozrili".'),
     (11, None, '\'The guests will not find out anything, hide the jar!\' "Uznayut" is "will find out", from "uznat", Vika\'s word in "Pochemu ya uznayu ob etom posledney?". "Pryach" is "hide", and "banka" is "jar".'),
 ]

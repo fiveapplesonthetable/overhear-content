@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Вот товар, как вы заказывали, шеф. | Here is the goods, as you ordered, chef. | #204 00:14:00: вы заказывали | verbatim |
-| 2 | Шеф | Открой коробку и покажи мне икру. | Open the box and show me the caviar. | new | new |
-| 3 | Сеня | Это отличная щучья икра, пять килограммов. | This is excellent pike caviar, five kilograms. | #205 00:14:02: Икра щучья. Пять кило | verbatim |
-| 4 | Шеф | Она выглядит очень красиво и аппетитно. | It looks very beautiful and appetizing. | new | new |
+| 1 | Шеф | Ну что, принёс? | Well, did you bring it? | #202 00:13:51: Ну что? Принёс | verbatim |
+| 2 | Сеня | Вот товар, как вы заказывали, шеф. | Here is the goods, as you ordered, chef. | #203 00:13:53: Как<br>#204 00:14:00: вы заказывали | verbatim |
+| 3 | Шеф | Открой коробку и покажи мне икру. | Open the box and show me the caviar. | new | new |
+| 4 | Сеня | Это отличная щучья икра, пять килограммов. | This is excellent pike caviar, five kilograms. | #205 00:14:02: Икра щучья. Пять кило | verbatim |
 | 5 | Сеня | Цена всего двести рублей за килограмм. | The price is only two hundred rubles per kilogram. | #206 00:14:04: Двести рублей килограмм | verbatim |
 | 6 | Шеф | Это действительно очень дешёвая цена. | This is indeed a very cheap price. | new | new |
 | 7 | Сеня | Мы сэкономили ресторану очень много денег. | We saved the restaurant a lot of money. | new | new |
@@ -26,10 +26,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
+- 'Well, did you bring it?' 'Nu chto' is a quick 'well?'. 'Prinyos' is 'brought', the past of prinesti; it has no l at the end, unlike most past forms.
 - 'Here is the goods, as you ordered, chef.' "Tovar", "goods", is singular, so "vot tovar" is "here is the goods". "Kak vy zakazyvali" is "as you ordered", from "zakaz", "order".
-- 'Open the box and show me the caviar.' "Otkroy" is "open" and "pokazhi" is "show", both said to one person. "Otkroy" is from "otkryt", the verb in "otkroem" in the last scene. "Pokazhi mne" is "show me".
+- 'Open the box and show me the caviar.' "Otkroy" is "open" and "pokazhi" is "show", both said to one person. "Otkroy" is from "otkryt", the opposite of "zakryt", "to close". "Pokazhi mne" is "show me".
 - 'This is excellent pike caviar, five kilograms.' "Shchuchya", "pike", is made from "shchuka", "a pike", and it describes the caviar. "Pyat kilogrammov" here has the full ending. "Otlichnaya" is "excellent".
-- 'It looks very beautiful and appetizing.' "Appetitno", "appetizing", is from "appetit", "appetite". "Vyglyadit" is "looks", in the sense of "appears". "Krasivo" is "beautiful".
 - 'The price is only two hundred rubles per kilogram.' "Vsego", "only", comes from "ves", "all", so it's "in all two hundred". "Za kilogramm" is "per kilogram", with "za". "Tsena" is "price".
 - 'This is indeed a very cheap price.' "Deshyovaya", "cheap", is the opposite of "dorogaya", "expensive". Barinov said "deystvitelno", "indeed", at the tasting, "deystvitelno ochen vkusnaya".
 - 'We saved the restaurant a lot of money.' "Sekonomili" is "saved", for money, from "ekonomiya". "Restoranu" is "for the restaurant": "restoran" adds -u. "Mnogo deneg" is "a lot of money".
