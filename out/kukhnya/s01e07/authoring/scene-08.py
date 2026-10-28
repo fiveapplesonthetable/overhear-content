@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
 INTRO = "Max has a problem: Kostya has offered Nastya a room in the same flat where Max has just agreed to live. Max doesn't want to share the flat, and he knows how to talk Nastya out of it. It's in Russian first."
 OPENER = "Let's replay the talk. Max is smooth and a bit sly, and the lines are short."
-TRANSITION = 'And the whole persuasion once more.'
+TRANSITION = 'It should feel more familiar now.'
 OUTRO = "Max's trick is to make his friend sound unbearable: 'he snores'. It works, and it also gives you a good Russian word for a very common complaint. See you next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
@@ -31,15 +31,15 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Nastya, do you know where to rent a flat?' The word a tenant uses for 'rent' is the one that also means 'take off' or 'take down', so it's 'where to take a flat'. There is no 'should': 'where to rent' is just two words."),
-    (1, None, "'I was looking for a place myself this morning.' There's no 'I' at all, only 'myself was looking', and the 'a' tells you it's a woman. 'A place' is the word for housing, from 'to live'."),
+    (1, None, "'I was looking for a place myself this morning.' There's no 'I' at all, only 'myself was looking', and the 'a' tells you it's a woman. 'A place' is the Russian way to put housing, from 'to live'."),
     (2, None, "'And did you manage to find a room?' 'To you it succeeded' is how Russian says 'did you manage'. It's a smooth chunk to know."),
     (3, None, "'Kostik helped me, I am moving to his place.' The pet form of a name adds a soft 'ik', and it signals warmth. 'Moving' starts with a piece meaning 'across', as if you'd ride across town to a new home."),
     (4, None, "'Wait, Kostya invited you to live together?' 'Wait' is a casual 'hold on'. 'Invited' is literally 'called', so he 'called you to live together'."),
     (5, None, "'Yes, we are dating, after all.' The small word 'ved' means 'after all' and adds a feeling of 'it's obvious'. 'Dating' ends in 'sya' and literally means 'meeting each other'."),
-    (6, None, "'To be honest, I do not envy you at all.' Russians envy 'to' someone, so 'you' takes the 'to' form. 'Not at all' puts the 'at all' word in front of the 'not'."),
+    (6, None, "'To be honest, I do not envy you at all.' Russians envy 'to' someone, so 'you' appears in the 'to' form. 'Not at all' puts the 'at all' word in front of the 'not'."),
     (7, None, "'Why? Kostya is such a sweet guy.' 'Sweet' is the word that Russians use for a lovable person. 'Such' goes in front, and 'guy' is the casual word for a young man."),
     (8, None, "'At night he snores terribly and loudly!' 'Terribly' comes from 'fear'. 'At night' is the 'yu' form again."),
-    (9, None, "'Oh, I cannot stand snoring at all!' 'I can stand' means 'I can bear'. 'Snoring' is a plain word."),
+    (9, None, "'Oh, I cannot stand snoring at all!' 'I can stand' means 'I can bear'."),
     (10, None, "'Think well before agreeing.' 'Before' is a two-word phrase. 'Agreeing' ends in 'sya'."),
     (11, None, "'You are right, I will look for another option.' 'Right' has a short form that is used for 'you are right'. 'I will look for' has a prefix that means 'for a while'."),
 ]

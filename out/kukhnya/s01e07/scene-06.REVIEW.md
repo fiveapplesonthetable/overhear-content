@@ -29,10 +29,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Respected chef, step right up and choose knives!' The opening word is a formal 'respected', the kind used at the start of a speech or a letter. Both commands are in the plural, which is polite.
 - 'Look what a sharp and thin blade!' 'What a' is the same word as 'which'. 'Sharp' and 'thin' are both in the neuter, to go with 'blade'.
-- 'Careful, this blade is sharp as a dagger.' There are two words for 'blade' in the lines: this one is the sword-like one. 'Like' is a short word, as in 'sharp like a dagger'.
-- 'But here the metal is too soft.' 'Too' is a single word, and it's followed by 'soft'. Barinov says it flatly.
+- 'Careful, this blade is sharp as a dagger.' There are two Russian words for 'blade' in these lines, and this one is the sword-like one. 'Like' is the term for 'as', as in 'sharp like a dagger'.
+- 'But here the metal is too soft.' 'Too' goes right before 'soft'. Barinov says it flatly, like a judge.
 - 'This is the best strong steel for the kitchen!' 'Strong' also means 'durable'. 'Steel' is a she-word.
-- 'Don't deceive me, I am an experienced chef.' 'Don't deceive' is 'not' plus a command. 'Experienced' is built from 'experience'.
+- 'Don't deceive me, I am an experienced chef.' 'Don't deceive' is 'not' plus a command. 'Experienced' is made from 'experience'.
 - 'One cannot cut meat with such a knife.' 'With such a knife' is one phrase with the 'om' ending. 'not allowed' comes at the end.
 - 'Then look at this Japanese knife.' Words for nationalities don't get a capital letter in Russian. 'This' points at the knife.
 - 'Craftsmen made it from hard steel.' 'They made it' has no person named. 'Masters' is a word that works for any skilled craftsman.

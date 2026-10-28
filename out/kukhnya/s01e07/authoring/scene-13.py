@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
 INTRO = "Nastya has decided not to move in with Kostya after all, and Kostya has found out why: Max told her Kostya was a nightmare to live with. He storms over to find him. It's in Russian first."
 OPENER = "Let's go back through the row. Kostya is hurt, and Max keeps saying it was only a joke."
-TRANSITION = 'Here is the whole fight again.'
+TRANSITION = 'Here goes the full scene.'
 OUTRO = "The last line is a good one to keep for the right moment: 'some best friend you are'. It has no verb to speak of, only scorn. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,7 +31,7 @@ STORY = [
     ('kostya', 'Тоже мне лучший друг называется, уходи!', 'Some best friend you are, leave!', [(296, 'Тоже мне друг называется')], ''),
 ]
 WALK = [
-    (0, None, "'Max, we urgently need to clarify something.' 'Something or other' is 'what' with a 'koye' in front. 'Clarify' is built on 'clear'."),
+    (0, None, "'Max, we urgently need to clarify something.' 'Something or other' is 'what' with a 'koye' in front. 'Clarify' is based on 'clear'."),
     (1, None, "'Guys, I really do not have time for you now.' 'Guys' is a friendly word for a group. 'Not up to you' is the idiom for 'I haven't time or mood for you'."),
     (2, None, "'What did you tell Nastya about me?' 'told' has a prefix that means 'a lot, and not nice'. 'To Nastya' puts an 'e' on the name."),
     (3, None, "'I was just joking a little, do not be mad.' 'Joked' comes from 'a joke'. 'Don't be mad' ends in 'sya'."),

@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Good morning, Chef Viktor Petrovich!' Russians address each other by first name plus father's name when being formal. 'Petrovich' means 'son of Pyotr'.
-- 'Good morning, Elena Pavlovna.' For a woman, the father's name ends in 'ovna', so 'Pavlovna' is 'daughter of Pavel'. Barinov answers in the same formal way.
+- 'Good morning, Elena Pavlovna.' For a woman, the father's name ends in 'ovna', so 'Pavlovna' literally means 'daughter of Pavel'. Barinov answers in the same formal way.
 - 'Why did you come to this market?' 'You' is the polite one, and 'came' is in the plural to match. 'To this market' ends in 'ok'.
 - 'I am choosing the best fresh vegetables.' 'The very best' is 'most' plus 'best', and it goes with 'fresh' in the same plural. 'Vegetables' is a plural word.
-- 'And did you decide to make your husband borscht?' 'Borscht' is a beetroot soup, and the jab is that she cooks at home. 'To husband' ends in 'u', as in 'for husband'.
-- 'No, I am opening a new expensive restaurant.' 'open' is related to 'opening'. 'New' and 'expensive' agree with 'restaurant'.
-- 'I am preparing a new menu myself.' 'myself' is the woman's form, so Elena uses 'sama'. A man would say 'sam'.
+- 'And did you decide to make your husband borscht?' 'Borscht' is a beetroot soup, and the jab is that she cooks at home. 'husband' ends in 'u', the ending that means 'for' here.
+- 'No, I am opening a new expensive restaurant.' 'open' is related to the term for 'opening'. 'New' and 'expensive' take the ending that agrees with 'restaurant'.
+- 'I am preparing a new menu myself.' The term for 'myself' is the woman's form, so Elena says 'sama'. A man would say 'sam', with no ending.
 - 'Nobody will go to your restaurant!' 'Nobody will go' uses 'not', as Russian always does with 'nobody'. 'Your' is polite, and it agrees with 'restaurant'.
-- 'We will see whose kitchen is better!' 'Whose' agrees with 'kitchen', so it is the she-form. 'Better' is a short word.
-- 'My restaurant will always be first!' After 'will be', 'first' takes an 'ym' ending, which is why it sounds a little different from the dictionary form. 'Always' is plain.
-- 'Then try these beautiful apples.' 'Try' is the polite command. 'Apples' is plural.
-- 'Oh, how sour these apples are!' 'How' becomes 'what kind of' in an exclamation. 'Sour' is related to 'acid'.
-- 'One must know how to choose good fruit!' 'One must' is a short word, and it's followed by 'know how'. 'To know how' means 'to be skilled at'.
+- 'We will see whose kitchen is better!' 'whose' agrees with 'kitchen', so it comes out as the she-form. 'Better' is a short word that you will use constantly.
+- 'My restaurant will always be first!' After 'will be', 'first' takes an 'ym' ending, which is why it sounds a little different from the dictionary form.
+- 'Then try these beautiful apples.' 'Try' is the respectful command. 'Apples' is plural.
+- 'Oh, how sour these apples are!' 'how' turns into 'what kind of' in an exclamation. 'Sour' is related to the Russian for 'acid'.
+- 'One must know how to choose good fruit!' 'One must' is followed by 'know how'. 'To know how' means 'to be skilled at'.
 - 'Learn while I am a kind chef!' The word 'poka' means 'while', and it also means 'bye'. 'Learn' ends in 'sya'.

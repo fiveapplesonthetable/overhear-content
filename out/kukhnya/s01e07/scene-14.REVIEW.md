@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, do not worry so much!' 'Don't worry' is 'not' plus a polite command. 'You' is added for emphasis, which isn't needed but sounds warm.
 - 'How not to worry? I lost my sense of taste!' 'How not to' is a neat phrase: 'how could I not'. 'Taste' is the same word as 'flavour'.
 - 'Everything will definitely be fine and calm.' 'Will be good' needs no word for 'good', only 'well'. 'Definitely' comes from 'obliged'.
-- 'I cannot prepare the signature sauce.' 'I cannot' is plain. 'Signature' means 'the house's own'.
+- 'I cannot prepare the signature sauce.' 'Signature' means 'the house's own'.
 - 'We will help you, the whole team is with you!' 'Help' takes 'you' in the 'to' form. 'The whole team' is 'all team'.
 - 'But you do not know the exact recipe.' 'Exact' is a short describing word. 'Recipe' is borrowed.
 - 'Direct us, command our every step!' 'Direct' and 'command' are polite commands. 'By every step' ends in 'om'.
 - 'Has the broth already boiled for this sauce?' 'Boiled' ends in 'sya', so the broth boiled by itself. 'Broth' is borrowed from French.
 - 'The broth is ready, and fresh vegetables are chopped.' 'Chopped' is a plural form, because 'vegetables' is plural. 'Ready' agrees with 'broth'.
 - 'Who then will taste the finished dish?' 'Who then' has a small word that adds impatience. 'Finished' is the same word as 'ready'.
-- 'We will taste everything carefully ourselves!' 'Ourselves' is a plural word that stresses the team. 'Carefully' is built on 'attention'.
+- 'We will taste everything carefully ourselves!' 'Ourselves' is a plural word that stresses the team. 'Carefully' is related to 'attention'.
 - 'To work then, everything will turn out well for us!' 'To work' is a short call to action. 'Will turn out' ends in 'sya'.
 - 'Of course, Chef, we will not let you down!' 'Let down' is the 'lead under' verb again. 'We' form ends in 'em'.

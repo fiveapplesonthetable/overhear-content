@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
 INTRO = "Max has made it to Kostya's flat at last, and there is a kettle on. The episode ends with him thinking out loud about what matters in life. It's in Russian first."
 OPENER = "Let's go through the ending. It's a quiet scene with warm, short sentences."
-TRANSITION = 'Here is the whole ending again.'
+TRANSITION = 'Same lines, no pauses this time.'
 OUTRO = "Max's rule is that wherever the day takes you, you want a place to come home to. In Russian it is only a few words. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -37,9 +37,9 @@ WALK = [
     (2, None, "'We are friends, and friends always help each other.' 'Each other' is literally 'friend to friend'. 'Help' takes the 'to' form of the person."),
     (3, None, "'Today I realized one very important thing.' 'Understood' also means 'realized' here. 'Thing' is a she-word, so 'one' ends in 'u'."),
     (4, None, "'What thing did you realize, philosopher?' 'What' asks for the thing, and 'philosopher' is a gentle tease. 'Thing' is in the same form as before."),
-    (5, None, "'Whatever might happen to you during the day...' 'Whatever happens' is a pattern: 'what would not happen'. 'During the day' is a single word."),
+    (5, None, "'Whatever might happen to you during the day...' 'Whatever happens' is a pattern: 'what would not happen'."),
     (6, None, "'The main thing is to have somewhere to return in the evening.' 'So that' makes the next part a wish. 'Where to return' has no 'should'."),
-    (7, None, "'Return to where you are sincerely welcome.' 'Where they are glad of you' is how Russian says 'welcome'. 'Sincerely' comes from 'sincere'."),
+    (7, None, "'Return to where you are sincerely welcome.' 'Where they are glad of you' is Russian for 'welcome'. 'Sincerely' comes from 'sincere'."),
     (8, None, "'That is true, it is dreary in an empty apartment.' 'Dreary' comes from 'longing'. 'In an empty apartment' puts an 'oy' on 'empty' and an 'e' on the flat."),
     (9, None, "'After all there is nothing worse than terrible loneliness.' 'Worse' is an irregular form of 'bad'. 'Loneliness' comes from 'one'."),
     (10, None, "'Together we will definitely have more fun living!' 'The two of us together' is one word in Russian. 'More fun' comes from 'cheerful'."),

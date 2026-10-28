@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Nastya, what happened to you today?' 'At you happened' is how Russian puts 'to you'. 'Today' sounds like 'sevodnya'.
-- 'My wicked landlady kicked me out.' 'Landlady' is the word for the woman of the house. 'Kicked out' ends in 'la' because the landlady is a woman.
-- 'What did she kick you out for?' 'For what' is the short way to ask 'why'. 'Kicked out' is built from 'drive' with a prefix.
+- 'My wicked landlady kicked me out.' 'Landlady' is the word for the woman of the house. 'Kicked out' carries 'la' since the landlady is a woman.
+- 'What did she kick you out for?' 'For what' is the short way to ask 'why'. 'Kicked out' grows out of 'drive' with a prefix.
 - 'I brought live carp home.' 'Home' as a direction is a different word from 'at home'. 'Live' has the 'ikh' plural, and 'carp' takes 'ov'.
-- 'Why do you need live fish at home?' 'To you' sits where English would say 'you'. 'Live' agrees with 'fish', which is a she-word.
+- 'Why do you need live fish at home?' 'To you' sits where English would say 'you'. 'Live' agrees with 'fish', which is one of the she-words.
 - 'In the store they could simply kill them!' The 'they' is no one in particular. 'Could' is the plural past of 'can'.
 - 'And where are they swimming now?' 'Swim' ends in 'yut', for 'they'. 'Now' is 'at once' in other places.
 - 'They live wonderfully in the bathtub.' 'live' is the same one Max used for 'live in Moscow'. 'Bathtub' ends in 'e' for the place.
-- 'I see, the landlady was very unhappy.' 'Unhappy' is 'not' plus 'satisfied', and the 'a' ending shows a woman. 'I see' is one word.
+- 'I see, the landlady was very unhappy.' 'Unhappy' is 'not' plus 'satisfied', and the 'a' ending shows a woman.
 - 'I cannot live with cruel people.' 'With people' uses a special form of 'people', 'lyudmi'. 'Cruel' agrees with it.
 - 'Listen, you can stay at my place for now.' 'Stay for a while' starts with a prefix that means 'a little'. 'At my place' is 'at me'.
 - 'Thank you, Kostik, you are a true friend!' 'Kostik' is a pet form of Kostya's name, with a soft 'ik'. 'Real' and 'true' are the same word.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, why did you arrive so early?' 'Came' is a form for a man, and it means he arrived on foot. 'Early' is a short word that you will use again.
+- 'Kostya, why did you arrive so early?' 'Came' is a form for a man, and it means he arrived on foot. 'Early' is a useful word for any arrival.
 - 'It is already eight o'clock in the morning, Max.' Russians say 'eight hours', so the clock time has 'hours' after it. 'Of the morning' is how they say 'a.m.'.
 - 'I thought that the restaurant was still closed.' The word 'still' comes before 'closed'. 'Thought' ends with nothing, because Max is a man.
 - 'Why haven't you put on your uniform yet?' 'Not yet' is made of 'still' and 'not'. 'Put on' is used for clothes, and 'uniform' ends in 'u' since it's the thing put on.
 - 'My locker key is lying here.' Russians say a key 'lies' on a table. 'Key from the locker' uses 'from' where English uses 'to' or 'of'.
-- 'Then go faster to the staff locker room.' 'Faster' is a short word that works as 'hurry'. 'Of the staff' comes from the borrowed word for 'personnel'.
+- 'Then go faster to the staff locker room.' 'Faster' works as 'hurry'. 'Of the staff' comes from the borrowed word for 'personnel'.
 - 'Do not boss me around, I will manage everything in time.' 'Command' is followed by 'me' in a special form, the one that goes with 'by'. 'I will manage' is the one-word future.
 - 'What were you doing here at night at all?' 'At all' sits in the middle and adds suspicion. 'At night' is a one-word time, and it ends in 'yu'.
 - 'Honestly speaking, I live right here.' The opening is a fixed phrase for 'to be honest'. 'Right here' is the pair 'directly' and 'here'.
-- 'You spend the night in Chef Barinov's restaurant?!' 'Spend the night' is built from 'night'. 'Chef Barinov's' is two words with the 'a' ending, which is how Russian says 'of'.
+- 'You spend the night in Chef Barinov's restaurant?!' 'Spend the night' is taken from 'night'. 'Chef Barinov's' is two words with the 'a' ending, which is Russian for 'of'.
 - 'Yes, I sleep on the sofa in the dining room.' 'I sleep' is an irregular form that adds an extra 'l' sound to the stem. 'On the sofa' ends in 'e', and so does 'in the hall'.
 - 'If the chef finds out, he will kill you!' 'If' starts the line, and 'will find out' and 'will kill' are both one-word futures. 'You' has the changed form.
 - 'Please, do not tell anyone my secret.' 'Don't tell' is 'not' plus a command. 'To nobody' is one word, and the 'not' stays in the line.

@@ -32,9 +32,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We are friends, and friends always help each other.' 'Each other' is literally 'friend to friend'. 'Help' takes the 'to' form of the person.
 - 'Today I realized one very important thing.' 'Understood' also means 'realized' here. 'Thing' is a she-word, so 'one' ends in 'u'.
 - 'What thing did you realize, philosopher?' 'What' asks for the thing, and 'philosopher' is a gentle tease. 'Thing' is in the same form as before.
-- 'Whatever might happen to you during the day...' 'Whatever happens' is a pattern: 'what would not happen'. 'During the day' is a single word.
+- 'Whatever might happen to you during the day...' 'Whatever happens' is a pattern: 'what would not happen'.
 - 'The main thing is to have somewhere to return in the evening.' 'So that' makes the next part a wish. 'Where to return' has no 'should'.
-- 'Return to where you are sincerely welcome.' 'Where they are glad of you' is how Russian says 'welcome'. 'Sincerely' comes from 'sincere'.
+- 'Return to where you are sincerely welcome.' 'Where they are glad of you' is Russian for 'welcome'. 'Sincerely' comes from 'sincere'.
 - 'That is true, it is dreary in an empty apartment.' 'Dreary' comes from 'longing'. 'In an empty apartment' puts an 'oy' on 'empty' and an 'e' on the flat.
 - 'After all there is nothing worse than terrible loneliness.' 'Worse' is an irregular form of 'bad'. 'Loneliness' comes from 'one'.
 - 'Together we will definitely have more fun living!' 'The two of us together' is one word in Russian. 'More fun' comes from 'cheerful'.
