@@ -29,5 +29,5 @@
 | 15 | `camille` (Camille) | Merci! | Thank you! | 811:Merci |
 
 ## Part 5 — Outro & Closing
-> Phew, a narrow escape for Camille. Listen out for the verbs that use 'to be' in the past, like going home and falling asleep; you'll hear them everywhere. See you next time.
+> Phew, a narrow escape for Camille. Listen out for the verbs that use 'to be' in the past, like going home and falling asleep; you'll hear them everywhere. See you next time!
 - **Closing**: `camille`: *Ouf! À plus tard!*

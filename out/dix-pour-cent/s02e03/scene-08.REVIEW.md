@@ -26,5 +26,5 @@
 | 12 | `julien` (Julien) | Au revoir, à très bientôt pour répéter! | Goodbye, see you very soon to rehearse! | 224:Au revoir. |
 
 ## Part 5 — Outro & Closing
-> Sofia skillfully manages the awkward encounter in the hallway, while Julien leaves with high spirits and an eagerness to collaborate on his musical soundtrack. Let's review the conversational phrases and vocabulary from this scene. Join us next time to see what happens next.
+> Sofia skillfully manages the awkward encounter in the hallway, while Julien leaves with high spirits and an eagerness to collaborate on his musical soundtrack. Let's review the conversational phrases and vocabulary from this scene. See you next time!
 - **Closing**: `julien`: *Bonne soirée!*

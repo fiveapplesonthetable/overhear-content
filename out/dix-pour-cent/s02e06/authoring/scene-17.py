@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 17
-TITLE = "Négociations cannoises  (Diplomatic Skills)"
-LEVEL = "A1 — débutant"
+TITLE = 'Négociations cannoises  (Diplomatic Skills)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "In Cannes, Andréa and Gabriel discuss personal and professional crises during the film festival. While dealing with Hicham's demands, Andréa must protect star client Juliette Binoche without jeopardizing her film financing. Listen to the scene in French first."
 OPENER = "Let's examine how Andréa and Gabriel manage a delicate festival crisis."
 TRANSITION = "Now let's listen to the strategic conversation once more at normal pace."
-OUTRO = 'At the Cannes Festival, Andréa balances moral principles with the harsh realities of film financing. Listen to the tense dialogue once more in French. Join us next time to see what happens next.'
-CLOSING = ("lea", "À bientôt!")
+OUTRO = 'At the Cannes Festival, Andréa balances moral principles with the harsh realities of film financing. Listen to the tense dialogue once more in French. See you next time!'
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('gabriel', 'Hicham a découvert ton secret pour le bébé?', 'Did Hicham discover your secret about the baby?', [(448, 'Je sais pas comment il fait, mais il sait tout.')], ''),
     ('lea', 'Oui, il sait tout et prétend être le père.', 'Yes, he knows everything and claims to be the father.', [(451, "Et c'est facile de se dire le père !"), (452, 'Géniteur peut-être, mais père ? Non.')], ''),

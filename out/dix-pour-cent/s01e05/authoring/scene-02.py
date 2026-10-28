@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 5
 SCENE = 2
 TITLE = "C'est la femme des impôts?  (Is That the Tax Woman?)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "colette": "emilie", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "colette": "Colette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'colette': 'emilie', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'colette': 'Colette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Meanwhile in Paris, Andréa wakes up in her apartment with Colette Brancillon, the tax inspector auditing ASK. As they leave the building together, a frantic Gabriel intercepts Andréa on the pavement — and recognizes Colette. Listen to the scene in French first; don't worry about catching every word."
 OPENER = "Let's go back through it step by step. It is morning in Andréa's bedroom, and she reaches out for Colette before they both have to leave for work."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "While Andréa hides her new romance with the tax inspector from Gabriel and they head out to the country film set, back in Paris it is Camille's twenty-third birthday. See you next time."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "While Andréa hides her new romance with the tax inspector from Gabriel and they head out to the country film set, back in Paris it is Camille's twenty-third birthday. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('lea', 'Viens là.', 'Come here.', [(23, 'Viens là')], ''),
     ('colette', 'Je vais prendre une douche.', 'I', [(24, 'Je vais prendre une douche')], ''),

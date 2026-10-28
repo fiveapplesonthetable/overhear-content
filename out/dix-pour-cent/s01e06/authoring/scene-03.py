@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 3
-TITLE = "La vérité sur Mathias  (The Truth About Mathias)"
-LEVEL = "A1 — débutant"
+TITLE = 'La vérité sur Mathias  (The Truth About Mathias)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "camille": "emilie"}
-LABELS = {"mathias": "Mathias", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Camille insists that coming to ASK was entirely her own decision. But as Catherine digs into the dates and discovers Camille's exact age, a devastating realization hits her: Mathias had an affair while Catherine was pregnant with their son Hippolyte. Downstairs in the courtyard, Mathias waits in dread. Let's listen to the scene in French first."
 OPENER = "Let's examine how this painful family truth comes to light sentence by sentence."
 TRANSITION = "Now let's listen to the entire dramatic scene once more in French."
 OUTRO = 'The truth is out: Catherine now knows that Mathias betrayed her while she was pregnant with Hippolyte. This revelation will ignite an explosive crisis for the entire Barneville family. See you next time!'
-CLOSING = ("mathias", "À bientôt!")
+CLOSING = ('mathias', 'À bientôt!')
 STORY = [
     ('camille', "C'est moi qui ai tout fait.", 'It was all my doing.', [(59, "C'est moi qui ai tout fait")], ''),
     ('camille', "Je suis montée à Paris, je suis allée à l'agence.", 'I came to Paris, I went to the agency.', [(60, "Je suis montée à Paris, je suis allée à l'agence")], ''),

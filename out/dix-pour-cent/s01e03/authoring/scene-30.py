@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 30
-TITLE = "Je veux être ton agent  (I Want to Be Your Agent)"
-LEVEL = "A1 — débutant"
+TITLE = 'Je veux être ton agent  (I Want to Be Your Agent)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "On a small black stage, under a single spotlight, Sofia performed in a strange, poetic play called 'Absence', full of lines about loss, waiting and doubt. Now the show is over, and Gabriel walks her out into the street. Listen to it in French first. Let the words go by; the meaning will come. Let's listen to the scene in French first."
 OPENER = "Let's walk back through it. Sofia is still buzzing from the show, and she can hardly believe her eyes."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "A happy ending for Sofia, but not for the agency. Meanwhile, in a quiet bar, François, the boss of the big rival agency StarMédia, meets Mathias in secret. He says it's shocking that Samuel left Mathias nothing after his whole career at the agency, and he makes an offer: come to StarMédia with all your clients, and one day run the biggest agency in Paris. If Mathias says yes, the agency is finished. Mathias asks only one question, whether he could bring all his clients, and François tells him to think it over. We'll find out what he decides in the next episode. Well done, and see you then."
-CLOSING = ("sofia", "Bonne journée!")
+OUTRO = 'A happy ending for Sofia, but not for the agency. See you next time!'
+CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('sofia', "Tu es venu! C'est incroyable!", 'You came! I can', [(770, 'venu')], ''),
     ('sofia', "Je ne t'ai pas vu avant la fin.", 'I didn', [(771, "Je ne t'ai pas vu")], ''),

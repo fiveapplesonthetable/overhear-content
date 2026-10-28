@@ -30,5 +30,5 @@
 | 16 | `sofia` (Sofia) | D'accord. Très bien! | Okay. Great! | 791:D'accord, 792:Très bien |
 
 ## Part 5 — Outro & Closing
-> A happy ending for Sofia, but not for the agency. Meanwhile, in a quiet bar, François, the boss of the big rival agency StarMédia, meets Mathias in secret. He says it's shocking that Samuel left Mathias nothing after his whole career at the agency, and he makes an offer: come to StarMédia with all your clients, and one day run the biggest agency in Paris. If Mathias says yes, the agency is finished. Mathias asks only one question, whether he could bring all his clients, and François tells him to think it over. We'll find out what he decides in the next episode. Well done, and see you then.
+> A happy ending for Sofia, but not for the agency. See you next time!
 - **Closing**: `sofia`: *Bonne journée!*

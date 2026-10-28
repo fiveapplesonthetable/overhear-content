@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Bonne nuit, dors bien cette nuit. | Good night, sleep well tonight. | 669:Je vais me coucher |
 
 ## Part 5 — Outro & Closing
-> Andrea and Colette navigate the emotional intricacies of new parenthood together. When you watch the episode, listen out for the expressions meaning 'seen' and 'stops'. You'll catch them now. See you next time.
+> Andrea and Colette navigate the emotional intricacies of new parenthood together. When you watch the episode, listen out for the expressions meaning 'seen' and 'stops'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

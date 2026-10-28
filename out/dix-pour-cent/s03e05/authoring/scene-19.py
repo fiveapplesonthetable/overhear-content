@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 19
-TITLE = "Fausse déception  (Feigned Disappointment)"
-LEVEL = "A1 — débutant"
+TITLE = 'Fausse déception  (Feigned Disappointment)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = 'In his office at ASK, Mathias receives a phone call from Hicham. Hicham announces that Solaris has signed the rival co-production deal. Mathias feigns total devastation while Noemie listens in secrecy. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Mathias's cunning act keeps Hicham completely in the dark about his secret maneuvers. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'signed'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À demain!")
+OUTRO = "Mathias's cunning act keeps Hicham completely in the dark about his secret maneuvers. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'signed'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À demain!')
 STORY = [
     ('mathias', 'Allô, Hicham? Comment vas-tu?', 'Hello, Hicham? How are you doing?', [(783, 'Allo')], ''),
     ('noemie', 'Ils ont signé hier soir le contrat.', 'They signed the contract yesterday evening.', [(784, 'signé hier soir le deal')], ''),

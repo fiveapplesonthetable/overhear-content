@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 23
-TITLE = "Un enfer total  (Sheer Hell)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un enfer total  (Sheer Hell)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "lea": "lucie"}
-LABELS = {"camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "Late at night in her small Paris apartment, an overwhelmed Camille calls her mother Annick in tears. Suffering from the bitter jealousy and harsh treatment of her colleagues at ASK, Camille seeks comfort and advice. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
 OUTRO = "Heartened by her mother's loving support, Camille considers stepping away from the ruthless pressure of the agency. Remember the common French idiom for having reached one's limit: ne plus en pouvoir. See you next time!"
-CLOSING = ("lea", "À bientôt!")
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('camille', 'Coucou maman, ça ne va pas.', 'Hi Mom, things are not going well.', [(697, '-Coucou, maman.')], ''),
     ('lea', "Qu'est-ce qui se passe, ma chérie?", 'What is going on, my sweetie?', [(697, "-Qu'est-ce qui se passe ?")], ''),

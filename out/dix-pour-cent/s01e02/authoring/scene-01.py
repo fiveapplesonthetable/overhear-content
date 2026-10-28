@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 1
-TITLE = "Une couronne pour Samuel  (A Wreath for Samuel)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une couronne pour Samuel  (A Wreath for Samuel)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "francoise": "emilie"}
-LABELS = {"lea": "Andréa", "francoise": "Françoise"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'francoise': 'emilie'}
+LABELS = {'lea': 'Andréa', 'francoise': 'Françoise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "We begin at a florist's. Andréa, the toughest agent at ASK, is ordering a funeral wreath for Samuel, with Françoise Fabian beside her. Françoise was Samuel's client, and she is supposed to start a film by the director Gabor Rajevski in three weeks. You'll hear the story in French first; there's no need to catch every word."
 OPENER = "Let's go back through it slowly. The wreath is nearly ready, the florist asks for the name for the ribbon, and then Françoise asks the question everyone in Paris is asking."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the start of the episode: a funeral to plan and a star who wants to walk away. If some lines went by fast, that's normal; you'll recognise them when you watch. Until next time."
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = "That's the start of the episode: a funeral to plan and a star who wants to walk away. If some lines went by fast, that's normal; you'll recognise them when you watch. See you next time!"
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('francoise', 'Et la cause du décès?', 'And the cause of death?', [(5, 'Et la cause du décès ?')], ''),
     ('lea', 'Il a avalé une guêpe.', 'He swallowed a wasp.', [(8, 'Il a avalé une guêpe')], ''),

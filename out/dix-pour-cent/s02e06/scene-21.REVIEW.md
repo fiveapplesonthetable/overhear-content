@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | D'accord, courons chercher des toilettes! | All right, let us run to find a bathroom! | 598:d'accord. |
 
 ## Part 5 — Outro & Closing
-> An unexpected panic strikes Juliette Binoche minutes before she must step onto the global stage. Andréa and Hicham must navigate the backstage corridors to avert disaster. Until next time! Join us next time to see what happens next.
+> An unexpected panic strikes Juliette Binoche minutes before she must step onto the global stage. Andréa and Hicham must navigate the backstage corridors to avert disaster. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

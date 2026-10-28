@@ -27,5 +27,5 @@
 | 13 | `colette` (Colette) | Rentre à Paris le plus vite! | Return to Paris as fast as possible! | 687:Au revoir |
 
 ## Part 5 — Outro & Closing
-> Andrea faces Colette's frustration over her sudden trip to northern France. When you watch the episode, listen out for the expressions meaning 'meal' and 'north'. You'll catch them now. See you next time.
+> Andrea faces Colette's frustration over her sudden trip to northern France. When you watch the episode, listen out for the expressions meaning 'meal' and 'north'. You'll catch them now. See you next time!
 - **Closing**: `colette`: *Bonne soirée!*

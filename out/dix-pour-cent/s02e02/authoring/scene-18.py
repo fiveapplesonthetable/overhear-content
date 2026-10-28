@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 18
-TITLE = "Une pause agent  (An Agent Break)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une pause agent  (An Agent Break)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "fabrice": "theo", "lea": "lucie"}
-LABELS = {"fabrice": "Fabrice", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'fabrice': 'theo', 'lea': 'lucie'}
+LABELS = {'fabrice': 'Fabrice', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = 'Determined to sign iconic actor Fabrice Luchini, Andréa visits him at his Paris apartment. Luchini admits he has quit his rival agent Bréhier, but unexpectedly reveals that he plans to manage his own career without any agency. Listen to their conversation in French first.'
 OPENER = "Let's explore how Andréa connects with Luchini on a deeply personal level."
 TRANSITION = "Now let's listen to the full conversation between Andréa and Luchini once again."
 OUTRO = "Although Luchini refuses to sign immediately, Andréa has built a genuine friendship with him. Remember the everyday idiom for getting carried away: s'emballer. See you next time!"
-CLOSING = ("fabrice", "À demain!")
+CLOSING = ('fabrice', 'À demain!')
 STORY = [
     ('fabrice', "C'est ouvert! Tu veux du thé?", 'It', [(625, "C'est ouvert"), (627, 'Tu veux du thé')], ''),
     ('lea', 'Non merci, ça va.', 'No thanks, I', [(628, 'Non merci, ça va')], ''),

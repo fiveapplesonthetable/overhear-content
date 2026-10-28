@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 21
-TITLE = "Une théorie du complot  (A Conspiracy Theory)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une théorie du complot  (A Conspiracy Theory)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Outside the ASK offices, Gabriel frantically waits to pull Andrea aside after spotting her with dancer Rayane Bensetti. Armed with photos from tailing Elise Formain across Paris, Gabriel tries to convince a skeptical Andrea that their new partner is a traitor. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Gabriel and Andrea walk into the agency lobby, determined to uncover the truth behind Elise's secret meetings. When you watch the episode, listen out for the expressions meaning 'received' and 'messages'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "Gabriel and Andrea walk into the agency lobby, determined to uncover the truth behind Elise's secret meetings. When you watch the episode, listen out for the expressions meaning 'received' and 'messages'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('gabriel', 'Andréa, tu as reçu mes messages?', 'Andrea, did you receive my messages?', [(819, 'Andréa ! Tu as eu mes messages ?')], ''),
     ('lea', "J'étais avec Rayane Bensetti, Gabriel.", 'I was with Rayane Bensetti, Gabriel.', [(808, 'Rayane, ça va ?'), (816, 'Rayane Bensetti')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 25
-TITLE = "Le financement refusé  (Financing Denied)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le financement refusé  (Financing Denied)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "julien": "marcel", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "julien": "Julien", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'julien': 'marcel', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'julien': 'Julien', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the recording studio, Julien Dore learns that television executives have refused to finance his movie. Furious over an absurd misunderstanding, Julien threatens to quit the project while Gabriel and Sofia urge him to persist. Let's listen to the scene in French first."
 OPENER = "Let's examine how Julien reacts to the funding cancellation and how Gabriel tries to rescue the film step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "Despite the sudden setback from France 2, Gabriel and Sofia stand firmly by Julien's artistic vision. Let's review the financing and crisis-management vocabulary from this scene. See you next time!"
-CLOSING = ("gabriel", "À demain!")
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('julien', 'France 2 refuse de financer notre film!', 'France 2 refuses to finance our film!', [(818, 'Les salopards !'), (820, 'France 2 ne va pas nous financer.')], ''),
     ('gabriel', "Qu'est-ce qui se passe exactement ce matin?", 'What is happening exactly this morning?', [(819, "Qu'est-ce qui se passe ?"), (823, 'Mon producteur était là ce matin.')], ''),

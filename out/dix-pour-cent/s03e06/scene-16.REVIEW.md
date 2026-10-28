@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | À notre agence et à l'avenir! | To our agency and to the future! | 679:À ASK |
 
 ## Part 5 — Outro & Closing
-> Isabelle and Mathias celebrate thirty years of triumphs and shared memories at ASK. When you watch the episode, listen out for the expressions meaning 'good evening' and 'here is'. You'll catch them now. See you next time.
+> Isabelle and Mathias celebrate thirty years of triumphs and shared memories at ASK. When you watch the episode, listen out for the expressions meaning 'good evening' and 'here is'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À bientôt!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 9
-TITLE = "Le problème du smoking  (The Tuxedo Problem)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le problème du smoking  (The Tuxedo Problem)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "juliette": "emilie"}
-LABELS = {"lea": "Andréa", "juliette": "Juliette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'juliette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'juliette': 'Juliette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At a luxury Cannes hotel suite, Andréa arrives with frustrating news for client Juliette Binoche. Another major international star has chosen the exact same tuxedo for the opening red carpet. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = 'Andréa navigates a classic Cannes red-carpet crisis: when another A-list star wears a tuxedo, Juliette Binoche graciously pivots to her backup dress to ensure an unforgettable festival opening. Join us next time to see what happens next.'
-CLOSING = ("lea", "À demain!")
+OUTRO = 'Andréa navigates a classic Cannes red-carpet crisis: when another A-list star wears a tuxedo, Juliette Binoche graciously pivots to her backup dress to ensure an unforgettable festival opening. See you next time!'
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('lea', 'Bienvenue à Cannes, Juliette.', 'Welcome to Cannes, Juliette.', [(171, 'Bienvenue à Cannes.')], ''),
     ('juliette', 'Bonjour Andréa, comment vas-tu?', 'Hello Andréa, how are you?', [(170, 'Bonjour.')], ''),

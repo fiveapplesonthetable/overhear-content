@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 27
-TITLE = "Prends tes affaires  (Get Your Things)"
-LEVEL = "A1 — débutant"
+TITLE = 'Prends tes affaires  (Get Your Things)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "camille": "emilie", "herve": "marcel"}
-LABELS = {"lea": "Andréa", "camille": "Camille", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie', 'herve': 'marcel'}
+LABELS = {'lea': 'Andréa', 'camille': 'Camille', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Now Andréa walks straight to the assistants' desks, where Camille is working next to Hervé and Noémie. You'll hear the whole scene in French first. Don't worry about catching every word; we'll go through it together afterwards. Let's listen to the scene in French first."
 OPENER = "Let's take it from the top. Andréa doesn't shout straight away; she starts with a sigh, as if the bad luck were all hers."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the end of a very short first job. If you picked up the two little words that wrap around a verb to make it negative, you've learned something you'll use every single day. Until next time."
-CLOSING = ("camille", "Au revoir!")
+OUTRO = "That's the end of a very short first job. If you picked up the two little words that wrap around a verb to make it negative, you've learned something you'll use every single day. See you next time!"
+CLOSING = ('camille', 'Au revoir!')
 STORY = [
     ('lea', 'Pas de chance pour moi!', 'Unlucky me!', [(708, 'Pas de chance pour moi')], ''),
     ('lea', 'Je trouve une assistante qui me plaît.', 'I find an assistant I like.', [(709, 'Je trouve une assistante qui me plaît')], ''),

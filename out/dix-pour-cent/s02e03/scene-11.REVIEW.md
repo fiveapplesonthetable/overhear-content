@@ -29,5 +29,5 @@
 | 15 | `noemie` (Noémie) | Laisse-moi faire, ça va rentrer. | Leave it to me, it will fit. | 280:Laisse-moi faire., 281:Ça va rentrer. |
 
 ## Part 5 — Outro & Closing
-> Noémie demonstrates her logistical genius by aligning two competing film shoots for Nathalie Baye. Meanwhile, her playful chemistry with Mathias continues to test professional office decorum. See you next time!
+> Noémie demonstrates her logistical genius by aligning two competing film shoots for Nathalie Baye. See you next time!
 - **Closing**: `noemie`: *Au revoir!*

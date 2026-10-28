@@ -28,5 +28,5 @@
 | 14 | `camille` (Camille) | Mais ce risque a parfaitement payé! | But that risk paid off perfectly! | 536:cartonné, 537:son agent |
 
 ## Part 5 — Outro & Closing
-> Turning a chaotic casting situation into a major victory, Camille proves her sharp eye for talent to a stunned Mathias. When you watch the episode, listen out for the expressions meaning 'occurred' and 'audition tests'. You'll catch them now. See you next time.
+> Turning a chaotic casting situation into a major victory, Camille proves her sharp eye for talent to a stunned Mathias. When you watch the episode, listen out for the expressions meaning 'occurred' and 'audition tests'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne soirée!*

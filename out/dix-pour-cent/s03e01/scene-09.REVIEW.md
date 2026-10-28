@@ -29,5 +29,5 @@
 | 15 | `gabriel` (Gabriel) | C'est un grand succès pour toi. | It is a great success for you. | 173:Il faut que je vous montre. |
 
 ## Part 5 — Outro & Closing
-> Sofia shows Gabriel the finished poster for her new film at the agency. When you watch the episode, listen out for the expressions meaning 'minute' and 'it is necessary that'. You'll catch them now. See you next time.
+> Sofia shows Gabriel the finished poster for her new film at the agency. When you watch the episode, listen out for the expressions meaning 'minute' and 'it is necessary that'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Merci, nous recommencerons les entretiens demain. | Thank you, we will resume the interviews tomorrow. | 763:-À partir d'où ? -On recommence. |
 
 ## Part 5 — Outro & Closing
-> Hervé presents his case with characteristic wit and passion, showing his ambition to become a full agent. Until next time.
+> Hervé presents his case with characteristic wit and passion, showing his ambition to become a full agent. See you next time!
 - **Closing**: `herve`: *Au revoir!*

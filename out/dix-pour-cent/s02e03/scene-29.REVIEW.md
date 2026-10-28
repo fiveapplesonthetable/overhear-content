@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s02/e03.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "gabriel": "theo", "norman": "marcel", "lea": "lucie"}`
-- **Labels**: `{"gabriel": "Gabriel", "norman": "Norman", "lea": "Andréa"}`
+- **Voices**: `{"narrator": "sky", "gabriel": "theo", "lea": "lucie", "norman": "marcel"}`
+- **Labels**: `{"gabriel": "Gabriel", "lea": "Andréa", "norman": "Norman"}`
 
 ## Part 1 — Intro
 > Following a chaotic birthday joyride, YouTuber Norman Thavaud is taken to the police station for speeding without his driver's license. Gabriel rushes to the station, only to find a panicked Norman desperate to abandon his dream role in Jacques Audiard's upcoming film. Listen to the scene in French first. Don't worry about catching every word.

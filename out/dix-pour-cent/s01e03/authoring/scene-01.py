@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 1
-TITLE = "La lettre oubliée  (The Forgotten Letter)"
-LEVEL = "A1 — débutant"
+TITLE = 'La lettre oubliée  (The Forgotten Letter)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "camille": "emilie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "camille": "Camille", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'camille': 'Camille', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "We start with Andréa, the toughest agent at ASK, just off the phone. The agency had one friend at the tax office, a Mr Jarron, and a letter was supposed to go to him. Her assistant Camille was in charge of posting it. Here's the story in French first; don't worry if a lot of it goes past you."
 OPENER = "Let's go back through it. Andréa finishes a call with one of her stars, Cécile de France, in her usual casual way."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "A forgotten letter and a crisis meeting: not a good start to the week. If it felt fast, that's normal; the key lines will stand out when you watch. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "A forgotten letter and a crisis meeting: not a good start to the week. If it felt fast, that's normal; the key lines will stand out when you watch. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('lea', 'Cécile! Oui, super. Rappelle-moi. Salut.', 'Cécile! Yes, great. Call me back. Bye.', [(1, 'Cécile ! Oui, super'), (3, 'rappelle-moi. Salut')], ''),
     ('lea', 'Le contrôle fiscal. Cette lettre pour monsieur Jarron?', 'The tax audit. That letter for Mr Jarron?', [(5, 'Le contrôle fiscal'), (6, 'Cette lettre pour M. Jarron')], ''),

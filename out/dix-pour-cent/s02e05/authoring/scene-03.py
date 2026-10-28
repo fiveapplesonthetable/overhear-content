@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 3
-TITLE = "Le diagnostic du médecin  (Minor Stroke)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le diagnostic du médecin  (Minor Stroke)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "medecin": "theo", "guy": "marcel", "lea": "lucie"}
-LABELS = {"medecin": "Le médecin", "guy": "Guy", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'medecin': 'theo', 'guy': 'marcel', 'lea': 'lucie'}
+LABELS = {'medecin': 'Le médecin', 'guy': 'Guy', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the examination room, a doctor explains the test results to Guy Marchand and his agent Gabriel. While Guy is relieved that he does not have Alzheimer's disease, the doctor warns that his minor stroke will cause lingering confusion. Let's listen to the scene in French first."
 OPENER = "Let's examine how the doctor explains Guy Marchand's medical diagnosis."
 TRANSITION = "Now let's listen to the doctor's reassuring consultation again at full speed."
 OUTRO = 'The diagnosis of a minor stroke relieves Guy but leaves Gabriel deeply concerned about the production. Keeping Guy on set without risking another public incident will test the agency to its limits. See you next time!'
-CLOSING = ("guy", "À bientôt!")
+CLOSING = ('guy', 'À bientôt!')
 STORY = [
     ('medecin', "Regardez les examens, ce n'est pas Alzheimer.", 'Look at the tests, it is not Alzheimer', [(77, "Ce n'est pas Alzheimer.")], ''),
     ('medecin', "Ce n'est pas une maladie neurodégénérative grave.", 'It is not a serious neurodegenerative disease.', [(78, "Ce n'est pas une maladie neurodégénérative.")], ''),

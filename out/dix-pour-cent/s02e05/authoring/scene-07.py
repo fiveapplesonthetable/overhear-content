@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 7
-TITLE = "Répétitions intenses  (Intense Rehearsals)"
-LEVEL = "A1 — débutant"
+TITLE = 'Répétitions intenses  (Intense Rehearsals)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "At home, Sofia collapses on the sofa after a grueling rehearsal for Julien Dore's musical. Gabriel's professional concern quickly turns into personal jealousy as he questions the nature of their creative intimacy. Let's listen to the scene in French first."
 OPENER = "Let's examine how Sofia and Gabriel's domestic discussion escalates step by step to explore romantic tension in artistic partnerships."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "The pressures of Sofia's breakthrough role strain her relationship with Gabriel as artistic dedication clashes with domestic security. Let's review the expressive emotional and performance vocabulary from this scene. See you next time!"
-CLOSING = ("sofia", "Bonne journée!")
+CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('gabriel', "Ça s'est bien passé avec Julien?", 'Did it go well with Julien?', [(189, "Ça s'est passé comment avec Julien ?")], ''),
     ('sofia', 'Je suis complètement épuisée ce soir.', 'I am completely exhausted this evening.', [(190, 'Je suis épuisée.')], ''),

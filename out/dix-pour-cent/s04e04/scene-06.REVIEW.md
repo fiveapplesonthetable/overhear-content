@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Maintenant, je fais une petite sieste! | Now, I am taking a short nap! | 466:Micro-sieste |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around camille's debrief. When you watch the episode, listen out for the expressions meaning 'spent' and 'time?'. You'll catch them now. See you next time.
+> That's it for this scene around camille's debrief. When you watch the episode, listen out for the expressions meaning 'spent' and 'time?'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *Bonne journée!*

@@ -31,5 +31,5 @@
 | 17 | `mathias` (Mathias) | Réglez ça en vingt-quatre heures ou j'interviens! | Sort it out in twenty-four hours or I step in! | 144:Réglez ça en 24 heures ou j'interviens |
 
 ## Part 5 — Outro & Closing
-> Two agents fighting over a chair and a client, all in the polite 'you'. Don't worry about every detail; you've got the shape of it. See you next time.
+> Two agents fighting over a chair and a client, all in the polite 'you'. Don't worry about every detail; you've got the shape of it. See you next time!
 - **Closing**: `lea`: *Au revoir!*

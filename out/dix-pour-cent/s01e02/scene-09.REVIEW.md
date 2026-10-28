@@ -31,5 +31,5 @@
 | 17 | `line` (Line) | Je trouve que ça sonne vraiment bien. Pourquoi pas? | I think that sounds really good. Why not? | 311:Je trouve que ça sonne vraiment bien, 312:Pourquoi pas |
 
 ## Part 5 — Outro & Closing
-> That's the end of lunch, and the start of a lot of trouble for Gabriel. Listen for the casual and the polite 'you' going in opposite directions when you watch. See you next time.
+> That's the end of lunch, and the start of a lot of trouble for Gabriel. Listen for the casual and the polite 'you' going in opposite directions when you watch. See you next time!
 - **Closing**: `line`: *Au revoir, Gabriel!*

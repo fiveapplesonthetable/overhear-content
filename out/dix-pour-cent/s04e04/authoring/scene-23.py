@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 23
-TITLE = "Vos méthodes sont révoltantes  (Your methods are revolting)"
-LEVEL = "A1 — débutant"
+TITLE = 'Vos méthodes sont révoltantes  (Your methods are revolting)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "ulrika": "emilie"}
-LABELS = {"mathias": "Mathias", "ulrika": "Ulrika"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'ulrika': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'ulrika': 'Ulrika'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Mathias is furious about what happened to Camille. He decides to call the author, Ulrika, to cancel their secret deal. We'll hear it in French first, don't worry about catching every word."
 OPENER = "Let's go back through it. Mathias makes his call."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around your methods are revolting, and for the words meaning 'to have' and 'to say'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Au revoir.")
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around your methods are revolting, and for the words meaning 'to have' and 'to say'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Au revoir.')
 STORY = [
     ('ulrika', 'Allô?', 'Hello?', [(1207, 'Allô ?')], ''),
     ('mathias', 'Ulrika?', 'Is this Ulrika?', [(1207, 'Ulrika ?')], ''),

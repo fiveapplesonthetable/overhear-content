@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Camille? C'est une excellente idée pour vous! | Camille? That is an excellent idea for you! | 545:ce qu'il me faut. |
 
 ## Part 5 — Outro & Closing
-> Nathalie Baye's energetic feng shui session ends with an unexpected triumph for ASK. When you watch the episode, listen out for the expressions meaning 'welcome' and 'former'. You'll catch them now. See you next time.
+> Nathalie Baye's energetic feng shui session ends with an unexpected triumph for ASK. When you watch the episode, listen out for the expressions meaning 'welcome' and 'former'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

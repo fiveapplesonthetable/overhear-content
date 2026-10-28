@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Tu es incroyable, Isabelle! | You are incredible, Isabelle! | 870:C'est cool |
 
 ## Part 5 — Outro & Closing
-> With lightning-fast improvisation and daring cunning, Isabelle Huppert pulls off the impossible double booking. When you watch the episode, listen out for the expressions meaning 'is not' and 'dressing room'. You'll catch them now. See you next time.
+> With lightning-fast improvisation and daring cunning, Isabelle Huppert pulls off the impossible double booking. When you watch the episode, listen out for the expressions meaning 'is not' and 'dressing room'. You'll catch them now. See you next time!
 - **Closing**: `isabelle`: *À demain!*

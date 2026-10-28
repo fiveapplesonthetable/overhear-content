@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 28
-TITLE = "Menace de faillite chez ASK  (Threat of Bankruptcy at ASK)"
-LEVEL = "A1 — débutant"
+TITLE = 'Menace de faillite chez ASK  (Threat of Bankruptcy at ASK)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "helene": "emilie", "mathias": "marcel"}
-LABELS = {"gabriel": "Gabriel", "helene": "Hélène", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'helene': 'emilie', 'mathias': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'helene': 'Hélène', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Following the devastating conclusion of the tax audit, Colette leaves the agency with a heavy fine and a court summons. In the conference room, Samuel's widow Hélène Kerr confronts Mathias about whether his wealthy father-in-law will still buy her shares, and the partners realize the entire agency is facing bankruptcy. Let's listen to the scene in French first; don't worry about catching every word."
 OPENER = "Let's go through it slowly. In the conference room, Hélène Kerr questions Mathias."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'As Mathias admits his marriage is over and the agency stares into the abyss of bankruptcy, Andréa dashes onto the street outside ASK to find Colette. See you next time!'
-CLOSING = ("gabriel", "À bientôt!")
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('helene', 'Votre femme et votre beau-père étaient au courant de ce contrôle fiscal?', 'Did your wife and your father-in-law know about this tax audit?', [(720, 'Votre femme et votre beau-père étaient'), (720, 'au courant de ce contrôle fiscal')], ''),
     ('mathias', 'Oui.', 'Yes.', [(721, 'Oui')], ''),

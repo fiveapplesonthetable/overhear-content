@@ -28,5 +28,5 @@
 | 14 | `catherine` (Catherine) | C'est important d'être ensemble, chéri. | It is important to be together, darling. | 425:important qu'on fasse des choses tous les deux |
 
 ## Part 5 — Outro & Closing
-> While doing yoga with his wife Catherine, Mathias plots his path to becoming Managing Director of ASK amid Hicham's chaotic leadership. When you watch the episode, listen out for the expressions meaning 'dinner' and 'true'. You'll catch them now. See you next time.
+> While doing yoga with his wife Catherine, Mathias plots his path to becoming Managing Director of ASK amid Hicham's chaotic leadership. When you watch the episode, listen out for the expressions meaning 'dinner' and 'true'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne soirée!*

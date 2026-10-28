@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 25
-TITLE = "Une révélation inattendue  (An Unexpected Revelation)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une révélation inattendue  (An Unexpected Revelation)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "valerie": "emilie"}
-LABELS = {"herve": "Hervé", "valerie": "Valérie"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'valerie': 'emilie'}
+LABELS = {'herve': 'Hervé', 'valerie': 'Valérie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Director Valerie Donzelli drops by ASK with a surprise announcement: she wants Herve to play a lead role in her movie. After she leaves, Camille promises to keep Herve's new acting secret safe from Gabriel. Let's listen to the scene in French first."
 OPENER = "Let's examine Herve's surprise transition from assistant to actor line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Stunned by Valerie Donzelli's offer to cast him in her film, Herve worries about Gabriel's reaction, but Camille pledges total secrecy as Herve embarks on his secret acting debut. When you watch the episode, listen out for the expressions meaning 'excellent' and 'piece of news'. You'll catch them now. See you next time."
-CLOSING = ("valerie", "À demain!")
+OUTRO = "Stunned by Valerie Donzelli's offer to cast him in her film, Herve worries about Gabriel's reaction, but Camille pledges total secrecy as Herve embarks on his secret acting debut. When you watch the episode, listen out for the expressions meaning 'excellent' and 'piece of news'. You'll catch them now. See you next time!"
+CLOSING = ('valerie', 'À demain!')
 STORY = [
     ('valerie', "Hervé, j'ai une excellente nouvelle.", 'Herve, I have excellent news.', [(1056, 'bonne nouvelle')], ''),
     ('herve', 'Vous avez choisi mon acteur Alex?', 'Did you choose my actor Alex?', [(1057, 'Vous avez choisi mon Alex')], ''),

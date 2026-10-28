@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | On connaît le patron de l'hôtel. On va lui parler. | We know the owner of the hotel. We | 663:On connaît le patron, 664:On va lui parler |
 
 ## Part 5 — Outro & Closing
-> So while Andréa and Gabriel hurry to the Hotel Saint-Georges to cover up Samuel's secret room, back at the assistants' desks Hervé explains a strange phone call to Camille: a Russian billionaire named Kadropov is in Paris for his birthday and pays famous actresses a small fortune just to come to his party. We'll soon see who takes that offer. See you next time.
+> So while Andréa and Gabriel hurry to the Hotel Saint-Georges to cover up Samuel's secret room, back at the assistants' desks Hervé explains a strange phone call to Camille: a Russian billionaire named Kadropov is in Paris for his birthday and pays famous actresses a small fortune just to come to his party. We'll soon see who takes that offer. See you next time!
 - **Closing**: `lea`: *À bientôt!*

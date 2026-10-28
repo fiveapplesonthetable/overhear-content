@@ -26,5 +26,5 @@
 | 12 | `lea` (Andréa) | Je veux cette belle fête avec toi. | I want this beautiful party with you. | 533:Avec toi. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around fear of routine. When you watch the episode, listen out for the expressions meaning 'domestic' and 'know.'. You'll catch them now. See you next time.
+> That's it for this scene around fear of routine. When you watch the episode, listen out for the expressions meaning 'domestic' and 'know.'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

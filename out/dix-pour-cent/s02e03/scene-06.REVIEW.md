@@ -26,5 +26,5 @@
 | 12 | `sofia` (Sofia) | Je l'adore, c'est pour ça que je panique! | I adore him, that is why I am panicking! | 172:Je l'adore !, 173:C'est pour ça que je panique ! |
 
 ## Part 5 — Outro & Closing
-> Gabriel prepares Sofia to impress Julien Dore while carefully guarding her dual identity as receptionist and girlfriend. Let's review the vocabulary and conversational expressions used in this dialogue. Until next time.
+> Gabriel prepares Sofia to impress Julien Dore while carefully guarding her dual identity as receptionist and girlfriend. Let's review the vocabulary and conversational expressions used in this dialogue. See you next time!
 - **Closing**: `sofia`: *Au revoir!*

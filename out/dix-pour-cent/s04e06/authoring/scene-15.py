@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 15
-TITLE = "Prêt à couler ensemble  (Ready to Sink Together)"
-LEVEL = "A1 — débutant"
+TITLE = 'Prêt à couler ensemble  (Ready to Sink Together)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jean": "theo", "lea": "lucie"}
-LABELS = {"jean": "Jean", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
+LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Following Andrea's startling admission that ASK is on the brink of collapse, the office falls silent as they await Jean Reno's verdict. To their astonishment, the veteran actor responds with infectious enthusiasm, inspired by their passion and uncompromising authenticity. Let's listen to their exchange in French first."
 OPENER = "Let's look at Jean Reno's passionate decision to join the project step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Inspired by Andrea's unvarnished truthfulness, Jean Reno signs onto Xavier Beauvois's film, cheerfully agreeing to sink or swim with ASK in the romantic spirit of The Big Blue. When you watch the episode, listen out for the expressions meaning 'does' and 'tell'. You'll catch them now. See you next time."
-CLOSING = ("jean", "À bientôt!")
+OUTRO = "Inspired by Andrea's unvarnished truthfulness, Jean Reno signs onto Xavier Beauvois's film, cheerfully agreeing to sink or swim with ASK in the romantic spirit of The Big Blue. When you watch the episode, listen out for the expressions meaning 'does' and 'tell'. You'll catch them now. See you next time!"
+CLOSING = ('jean', 'À bientôt!')
 STORY = [
     ('lea', 'Ça fait du bien de dire la vérité.', 'It feels good to tell the truth.', [(675, 'Ça fait du bien de dire la vérité')], ''),
     ('jean', 'Absolument, la sincérité est essentielle.', 'Absolutely, sincerity is essential.', [(676, 'Absolument')], ''),

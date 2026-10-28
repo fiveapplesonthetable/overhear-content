@@ -27,5 +27,5 @@
 | 13 | `noemie` (Noémie) | C'est une vraie catastrophe pour notre agence. | That is a real disaster for our agency. | 95:On passe à côté de deux des plus grands noms du cinéma |
 
 ## Part 5 — Outro & Closing
-> Hartman holds a four-year grudge after Isabelle rejected his debut film, putting Andréa in an impossible bind. With Noémie watching, Andréa must urgently figure out how to save the deal. Join us next time to see what happens next.
+> Hartman holds a four-year grudge after Isabelle rejected his debut film, putting Andréa in an impossible bind. With Noémie watching, Andréa must urgently figure out how to save the deal. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Nous allons être très en retard! | We are going to be very late! | 688:tout au plus |
 
 ## Part 5 — Outro & Closing
-> Mathias discovers that managing Isabelle Huppert means coping with whirlwind artistic detours at any moment. When you watch the episode, listen out for the expressions meaning 'fine' and 'solidarity'. You'll catch them now. See you next time.
+> Mathias discovers that managing Isabelle Huppert means coping with whirlwind artistic detours at any moment. When you watch the episode, listen out for the expressions meaning 'fine' and 'solidarity'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À demain!*

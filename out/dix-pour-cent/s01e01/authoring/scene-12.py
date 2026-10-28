@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 1
 SCENE = 12
 TITLE = "J'ai encore un agent?  (Do I Still Have an Agent?)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "cecile": "emilie", "gabriel": "theo", "herve": "marcel"}
-LABELS = {"cecile": "Cécile", "gabriel": "Gabriel", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'cecile': 'emilie', 'gabriel': 'theo', 'herve': 'marcel'}
+LABELS = {'cecile': 'Cécile', 'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "He has been dodging her calls all morning. So Cécile has decided to come in person. She walks onto the agents' floor, looks for Gabriel's assistant Hervé, and asks a rather awkward question. Gabriel, meanwhile, would love to be anywhere else. First the French version. Don't try to catch everything; the shape of it is enough. Let's listen to the scene in French first."
 OPENER = "Let's walk through it. Cécile arrives and tells the room why she's here, with a handy way of saying what you've come for."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Nicely done. Next time someone tells you they have to take an urgent call, you'll know exactly what to think. See you soon for what happens next."
-CLOSING = ("cecile", "À tout à l'heure!")
+OUTRO = 'Nicely done. See you next time!'
+CLOSING = ('cecile', "À tout à l'heure!")
 STORY = [
     ('cecile', 'Bonjour. Je suis là pour voir Gabriel.', "Hello. I'm here to see Gabriel.", [(400, 'Je suis là pour voir')], ''),
     ('herve', 'Pas maintenant!', 'Not now!', [(402, 'Pas maintenant')], ''),

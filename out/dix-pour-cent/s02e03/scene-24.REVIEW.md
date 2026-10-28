@@ -27,5 +27,5 @@
 | 13 | `sofia` (Sofia) | D'accord, je vais lui parler. | All right, I will talk to him. | 640:Ah, c'est super que tu sois venu. |
 
 ## Part 5 — Outro & Closing
-> Despite her initial hesitation, Sofia gathers her courage to approach Julien Dore. Remember the colloquial French idiom for taking a chance: tenter le coup. Join us next time to see what happens next.
+> Despite her initial hesitation, Sofia gathers her courage to approach Julien Dore. Remember the colloquial French idiom for taking a chance: tenter le coup. See you next time!
 - **Closing**: `sofia`: *Bonne journée!*

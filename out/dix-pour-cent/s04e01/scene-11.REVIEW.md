@@ -27,5 +27,5 @@
 | 13 | `colette` (Colette) | Parfait, je prépare le champagne pour nous! | Perfect, I am preparing champagne for us! | 648:Bravo. |
 
 ## Part 5 — Outro & Closing
-> Colette's professional success brings joy and excitement to the couple's hectic day. When you watch the episode, listen out for the expressions meaning 'said' and 'true'. You'll catch them now. See you next time.
+> Colette's professional success brings joy and excitement to the couple's hectic day. When you watch the episode, listen out for the expressions meaning 'said' and 'true'. You'll catch them now. See you next time!
 - **Closing**: `colette`: *Au revoir!*

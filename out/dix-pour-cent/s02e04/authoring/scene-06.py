@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 6
 TITLE = "La confession d'Andréa  (Andréa's Confession)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "Alone in Gabriel's office, Gabriel asks Andréa why she seemed so unnerved by Hicham's presence. Andréa drops her guard and confesses a shocking secret that leaves Gabriel stunned and amused. Let's listen to the scene in French first."
 OPENER = "Let's examine Andréa's surprising confession step by step to appreciate the comic banter between the two friends."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "Andréa's hilarious confession strengthens the bond of trust between Gabriel and her, even as the workplace dynamics become delightfully chaotic. Let's review the conversational expressions and vocabulary from this scene. See you next time!"
-CLOSING = ("lea", "À demain!")
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('gabriel', "Ça va? Tu avais l'air tendue.", 'Are you okay? You seemed tense.', [(137, 'Ça va ?'), (138, "Tu avais l'air tendu.")], ''),
     ('lea', 'Je ne supporte pas ses ordres.', 'I cannot stand his orders.', [(139, "Je ne supporte pas qu'il me donne des ordres.")], ''),

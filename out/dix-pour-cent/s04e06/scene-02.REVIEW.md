@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | On peut arrêter de dire ça? | FIXME translation | 92:On peut arrêter de dire ça? Certains sont superstitieux. Merci! |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around a sinking ship. When you watch the episode, listen out for the expressions meaning 'to be' and 'court'. You'll catch them now. See you next time.
+> That's it for this scene around a sinking ship. When you watch the episode, listen out for the expressions meaning 'to be' and 'court'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | Et en plus, tu as apporté des chocolats! | And what is more, you brought chocolates! | 188:Et en plus tu as fait à dîner., 190:Des chocolats ! |
 
 ## Part 5 — Outro & Closing
-> Sofia's talent earns her a coveted voice trial with Julien Dore, celebrating a sweet domestic victory with Gabriel. Let's review the vocabulary and everyday conversational idioms from this scene. Join us next time to see what happens next.
+> Sofia's talent earns her a coveted voice trial with Julien Dore, celebrating a sweet domestic victory with Gabriel. Let's review the vocabulary and everyday conversational idioms from this scene. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

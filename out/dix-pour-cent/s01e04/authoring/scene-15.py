@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 15
-TITLE = "Un mois au Canada  (A Month in Canada)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un mois au Canada  (A Month in Canada)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "augustin": "theo", "audrey": "emilie", "lea": "lucie"}
-LABELS = {"augustin": "Augustin", "audrey": "Audrey", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'augustin': 'theo', 'audrey': 'emilie', 'lea': 'lucie'}
+LABELS = {'augustin': 'Augustin', 'audrey': 'Audrey', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "At that very moment Mathias steps outside, phones François at the rival agency StarMédia to accept his offer, and is overheard by a heartbroken Noémie. Back inside Mathias's office, Augustin reveals a detail of the shoot that Mathias carefully hid from Audrey. Listen to the French first; you don't need to catch every word."
 OPENER = "Let's go through it step by step. Augustin is delighted that Audrey likes his script, and starts talking about the shooting schedule."
 TRANSITION = "Now let's listen to the whole scene again."
 OUTRO = 'So Gabriel has won Sofia an audition, while Audrey has just learned that the role means a month in Canada. And Augustin still has one more question for her: can she really pole dance? See you next time!'
-CLOSING = ("lea", "À bientôt!")
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('augustin', 'Moi aussi, je suis très content.', 'I', [(361, 'moi aussi, je suis content')], ''),
     ('augustin', "On va tourner d'abord la partie canadienne.", 'We', [(362, "d'abord la partie canadienne")], ''),

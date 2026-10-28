@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 20
-TITLE = "Mon agent  (My Agent)"
-LEVEL = "A1 — débutant"
+TITLE = 'Mon agent  (My Agent)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "jose": "theo"}
-LABELS = {"lea": "Andréa", "jose": "José"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'jose': 'theo'}
+LABELS = {'lea': 'Andréa', 'jose': 'José'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "In his quiet hotel suite after an exhausting shoot, Jose Garcia begins to call Andrea his love before quickly correcting himself to 'my agent'. Andrea laughs off the slip of the tongue as room service knocks at the door. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Jose and Andrea settle into the hotel room, grateful to have survived a chaotic day of filming. When you watch the episode, listen out for the expressions meaning 'lo--' and 'agent'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "Jose and Andrea settle into the hotel room, grateful to have survived a chaotic day of filming. When you watch the episode, listen out for the expressions meaning 'lo--' and 'agent'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('jose', 'Allô, mon am-- Allô, mon agent.', 'Hello, my lo-- Hello, my agent.', [(989, 'Allô, mo--'), (991, 'Mon agent')], ''),
     ('lea', 'Tu as failli dire mon amour!', 'You almost said my love!', [(992, 'Ça commence pareil')], ''),

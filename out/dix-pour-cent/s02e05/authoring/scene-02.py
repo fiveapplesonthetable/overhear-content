@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 2
-TITLE = "Guy oublie son texte  (Guy Forgets His Lines)"
-LEVEL = "A1 — débutant"
+TITLE = 'Guy oublie son texte  (Guy Forgets His Lines)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "guy": "marcel", "gabriel": "theo", "vera": "emilie"}
-LABELS = {"guy": "Guy", "gabriel": "Gabriel", "vera": "Véra"}
+VOICES = {'narrator': 'sky', 'guy': 'marcel', 'gabriel': 'theo', 'vera': 'emilie'}
+LABELS = {'guy': 'Guy', 'gabriel': 'Gabriel', 'vera': 'Véra'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "On the movie set, director Vera Loiseau gives acting instructions to veteran star Guy Marchand. To everyone's surprise, Guy experiences sudden confusion, failing to recognize his director and leaving the set. Let's listen to the scene in French first."
 OPENER = "Let's examine how Guy's sudden confusion disrupts the movie rehearsal."
 TRANSITION = "Now let's listen to Guy's alarming misunderstanding on set again at full speed."
-OUTRO = "Guy's sudden disorientation shocks director Vera and raises immediate alarm for Gabriel. Realizing that something is medically wrong with his star client, Gabriel seeks immediate medical help. Join us next time to see what happens next."
-CLOSING = ("guy", "Au revoir, Gabriel.")
+OUTRO = "Guy's sudden disorientation shocks director Vera and raises immediate alarm for Gabriel. Realizing that something is medically wrong with his star client, Gabriel seeks immediate medical help. See you next time!"
+CLOSING = ('guy', 'Au revoir, Gabriel.')
 STORY = [
     ('vera', 'Bonjour Guy, nous tournons la scène trente-quatre.', 'Hello Guy, we are shooting scene thirty-four.', [(40, 'Nous sommes à la scène 34.')], ''),
     ('vera', 'Votre personnage doit changer de vêtements ici.', 'Your character must change clothes here.', [(46, 'vous quittiez votre pyjama pour enfiler votre costume,')], ''),

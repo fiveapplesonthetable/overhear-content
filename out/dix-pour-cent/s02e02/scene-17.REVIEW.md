@@ -29,5 +29,5 @@
 | 15 | `sofia` (Sofia) | Je ne veux personne d'autre que toi. | I don | 602:Je ne veux personne d'autre que toi |
 
 ## Part 5 — Outro & Closing
-> Gabriel wanted to protect Sofia from agency politics, but Sofia's loyalty to him is absolute. Remember the key expression for defending someone: défendre quelqu'un. Join us next time to see what happens next.
+> Gabriel wanted to protect Sofia from agency politics, but Sofia's loyalty to him is absolute. Remember the key expression for defending someone: défendre quelqu'un. See you next time!
 - **Closing**: `sofia`: *Au revoir!*

@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Repose-toi bien pendant le trajet, Gabriel. | Rest well during the trip, Gabriel. | 787:Salut. |
 
 ## Part 5 — Outro & Closing
-> Gabriel finds refuge with his closest friend after a humiliating encounter with a movie star. When you watch the episode, listen out for the expressions meaning 'I was' and 'hedgehog'. You'll catch them now. See you next time.
+> Gabriel finds refuge with his closest friend after a humiliating encounter with a movie star. When you watch the episode, listen out for the expressions meaning 'I was' and 'hedgehog'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 2
 SCENE = 24
 TITLE = "Les aveux de Gabriel et Monika  (Gabriel and Monica's Confessions)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "monica": "emilie", "gabriel": "theo"}
-LABELS = {"monica": "Monica", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'monica': 'emilie', 'gabriel': 'theo'}
+LABELS = {'monica': 'Monica', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "Late in the evening, a guilt-ridden Gabriel pays a visit to superstar client Monica Bellucci. Expecting harsh anger, he is surprised to find that Monica shares his vulnerability and loneliness. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through these sincere confessions between Gabriel and Monica step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "After rushing to apologize to Monica Bellucci, Gabriel is relieved to discover that the famous star understands his pain and struggles with loneliness too. When you watch the episode, listen out for the expressions meaning 'genuine' and 'type'. You'll catch them now. See you next time."
-CLOSING = ("monica", "Bonne journée!")
+OUTRO = "After rushing to apologize to Monica Bellucci, Gabriel is relieved to discover that the famous star understands his pain and struggles with loneliness too. When you watch the episode, listen out for the expressions meaning 'genuine' and 'type'. You'll catch them now. See you next time!"
+CLOSING = ('monica', 'Bonne journée!')
 STORY = [
     ('gabriel', "Monika? C'est Gabriel.", 'Monica? It is Gabriel.', [(1060, 'Monika ?'), (1061, "C'est Gabriel")], ''),
     ('gabriel', 'Je suis en dessous de tout.', 'I am completely worthless.', [(1062, 'je suis en dessous de tout')], ''),

@@ -30,5 +30,5 @@
 | 16 | `mathias` (Mathias) | Désolé, c'est tout ce que je peux faire. | Sorry, that | 170:Désolé, c'est tout ce que je peux faire |
 
 ## Part 5 — Outro & Closing
-> Did you notice the switch from the formal 'you' to the casual one as soon as the door closed? That small change gives away a father and daughter. See you next time.
+> Did you notice the switch from the formal 'you' to the casual one as soon as the door closed? That small change gives away a father and daughter. See you next time!
 - **Closing**: `camille`: *Salut, Mathias!*

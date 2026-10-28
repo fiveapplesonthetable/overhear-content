@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s01/e04.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "audrey": "emilie", "mathias": "marcel"}`
-- **Labels**: `{"audrey": "Audrey", "mathias": "Mathias"}`
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "audrey": "emilie"}`
+- **Labels**: `{"mathias": "Mathias", "audrey": "Audrey"}`
 
 ## Part 1 — Intro
 > When the doorbell rings, Audrey lets in a young woman, thinking she is the next nanny on the list, Pauline Adam. Instead, it is Armelle Borzek, the young unknown actress whom Audrey replaced in Augustin's film. Let's listen to the scene in French first. Don't worry about catching every word; let the emotion guide you. Let's listen to the scene in French first.
@@ -29,5 +29,5 @@
 | 15 | `audrey` (Audrey) | Allez, profite bien du tournage. Bonne chance! | Come on, enjoy the shoot. Good luck! | 604:Allez, profite bien du tournage, 605:Bonne chance |
 
 ## Part 5 — Outro & Closing
-> Audrey gives the role back to the young actress who worked so hard for it, and notice how they move from the polite 'you' at the start to the warm, casual 'you' on the doorstep. See you next time.
+> Audrey gives the role back to the young actress who worked so hard for it, and notice how they move from the polite 'you' at the start to the warm, casual 'you' on the doorstep. See you next time!
 - **Closing**: `audrey`: *À bientôt!*

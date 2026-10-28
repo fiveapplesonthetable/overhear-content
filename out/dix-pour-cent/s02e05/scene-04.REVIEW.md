@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Je veux juste mon contrat de travail! | I just want my employment contract! | 133:Je n'ai pas de contrat ! |
 
 ## Part 5 — Outro & Closing
-> Camille refuses Mathias's offer of cash, insisting on the formal recognition of her contract. Her determination shows her professional pride as she fights for her rightful place at ASK. Until next time.
+> Camille refuses Mathias's offer of cash, insisting on the formal recognition of her contract. Her determination shows her professional pride as she fights for her rightful place at ASK. See you next time!
 - **Closing**: `camille`: *Au revoir!*

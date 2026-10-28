@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 2
-TITLE = "Le retour du passé  (The Return of the Past)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le retour du passé  (The Return of the Past)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "jose": "theo", "laurence": "emilie"}
-LABELS = {"lea": "Andréa", "jose": "José", "laurence": "Laurence"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'jose': 'theo', 'laurence': 'emilie'}
+LABELS = {'lea': 'Andréa', 'jose': 'José', 'laurence': 'Laurence'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Devastated to find a farewell note from Colette, Andrea heads straight to the film studio. On set, an enthusiastic Jose Garcia describes his passionate new role, before a sudden encounter with his former partner Laurence completely throws him off balance. Let's listen to their conversation in French first."
 OPENER = "Let's explore this dramatic encounter line by line."
 TRANSITION = "Now let's listen to the full exchange once more from start to finish."
-OUTRO = "That's it for this scene around the return of the past. When you watch the episode, listen out for the expressions meaning 'left' and 'note'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = "That's it for this scene around the return of the past. When you watch the episode, listen out for the expressions meaning 'left' and 'note'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('lea', "Colette m'a laissé un mot terrible.", 'Colette left me a terrible note.', [(13, "On n'a plus de couches")], ''),
     ('lea', 'Ce que tu fais est irresponsable!', 'What you are doing is irresponsible!', [(17, 'Ce que tu fais est irresponsable.')], ''),

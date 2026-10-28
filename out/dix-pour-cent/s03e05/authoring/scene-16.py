@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 16
-TITLE = "Les préparatifs de la fête  (Party Preparations)"
-LEVEL = "A1 — débutant"
+TITLE = 'Les préparatifs de la fête  (Party Preparations)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "valentin": "theo"}
-LABELS = {"noemie": "Noémie", "valentin": "Valentin"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'valentin': 'theo'}
+LABELS = {'noemie': 'Noémie', 'valentin': 'Valentin'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At the agency front desk, Valentin drops by hoping to catch Camille before running off to an audition. Meanwhile, Noemie manages phone calls and delivery logistics for ASK's grand thirtieth anniversary celebration. Let's listen to their exchanges in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Noemie keeps the agency functioning smoothly behind the scenes while party preparations swing into gear. When you watch the episode, listen out for the expressions meaning 'am looking for' and 'dear'. You'll catch them now. See you next time."
-CLOSING = ("noemie", "Bonne journée!")
+OUTRO = "Noemie keeps the agency functioning smoothly behind the scenes while party preparations swing into gear. When you watch the episode, listen out for the expressions meaning 'am looking for' and 'dear'. You'll catch them now. See you next time!"
+CLOSING = ('noemie', 'Bonne journée!')
 STORY = [
     ('valentin', 'Bonjour Noémie, je cherche ma chère Camille.', 'Hello Noemie, I am looking for my dear Camille.', [(730, 'je vais chercher Camille')], ''),
     ('noemie', 'Camille termine un rendez-vous dans son bureau.', 'Camille is finishing a meeting in her office.', [(731, 'elle est bientôt finie')], ''),

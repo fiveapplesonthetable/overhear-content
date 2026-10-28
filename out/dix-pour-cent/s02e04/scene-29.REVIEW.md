@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s02/e04.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "hicham": "marcel", "lea": "lucie"}`
-- **Labels**: `{"hicham": "Hicham", "lea": "Andréa"}`
+- **Voices**: `{"narrator": "sky", "lea": "lucie", "hicham": "marcel"}`
+- **Labels**: `{"lea": "Andréa", "hicham": "Hicham"}`
 
 ## Part 1 — Intro
 > In the aftermath of the collapsed meeting, the agency partners corner Camille, demanding answers. As Hicham threatens to fire her on the spot, Mathias steps in and reveals a life-altering truth. Listen to the scene in French first. Don't worry about catching every word.
@@ -30,5 +30,5 @@
 | 16 | `hicham` (Hicham) | Je suis tout à fait d'accord. | I completely agree. | 946:Je suis tout à fait d'accord |
 
 ## Part 5 — Outro & Closing
-> With Mathias finally admitting that Camille is his secret daughter, the entire balance of power at ASK is turned upside down. Until next time.
+> With Mathias finally admitting that Camille is his secret daughter, the entire balance of power at ASK is turned upside down. See you next time!
 - **Closing**: `hicham`: *À bientôt!*

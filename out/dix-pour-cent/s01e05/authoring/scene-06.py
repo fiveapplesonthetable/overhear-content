@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 6
-TITLE = "Ça peut te valoir un César  (That Could Win You a César)"
-LEVEL = "A1 — débutant"
+TITLE = 'Ça peut te valoir un César  (That Could Win You a César)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "julie": "emilie", "lea": "lucie", "joey": "marcel"}
-LABELS = {"julie": "Julie", "lea": "Andréa", "joey": "JoeyStarr"}
+VOICES = {'narrator': 'sky', 'julie': 'emilie', 'lea': 'lucie', 'joey': 'marcel'}
+LABELS = {'julie': 'Julie', 'lea': 'Andréa', 'joey': 'JoeyStarr'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Outside on the chateau set, Julie Gayet has just walked off into her trailer after JoeyStarr ruined his lines again, just as Andréa and Gabriel arrived from Paris. Now the two agents split up: Andréa goes inside Julie's dressing room to calm her down, while out in the courtyard JoeyStarr complains to Gabriel and the director Samir. We'll hear the scene in French first; don't worry about catching every word."
 OPENER = "Let's walk through it line by line. Inside her dressing room, Julie is pacing up and down."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Andréa is dangling a César award in front of Julie, while JoeyStarr is mocking her classical music lessons in the courtyard. Listen out for that verb meaning 'to be worth' or 'to win you'. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "Andréa is dangling a César award in front of Julie, while JoeyStarr is mocking her classical music lessons in the courtyard. Listen out for that verb meaning 'to be worth' or 'to win you'. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('julie', 'Je ne retourne pas sur ce plateau!', 'I', [(103, 'Je ne'), (103, 'pas'), (103, 'sur ce plateau')], ''),
     ('julie', "Il doit s'excuser avant!", 'He has to apologise first!', [(103, 'il')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 13
-TITLE = "La prime pour Luchini  (The Bonus for Luchini)"
-LEVEL = "A1 — débutant"
+TITLE = 'La prime pour Luchini  (The Bonus for Luchini)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "New majority owner Hicham Janowski calls an impromptu meeting with the agents in his office. He criticizes the agency for relying on aging talent and urges them to recruit younger actors. To motivate the team, Hicham offers a generous bonus to anyone who keeps star actor Fabrice Luchini at ASK. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'With a tempting bonus on the table, the agents suddenly unite to keep Fabrice Luchini at ASK. Listen to the scene once more to consolidate your comprehension of French business vocabulary. Join us next time to see what happens next.'
-CLOSING = ("lea", "À demain!")
+OUTRO = 'With a tempting bonus on the table, the agents suddenly unite to keep Fabrice Luchini at ASK. Listen to the scene once more to consolidate your comprehension of French business vocabulary. See you next time!'
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('hicham', 'Tout le monde dans mon bureau!', 'Everyone in my office!', [(399, 'Tout le monde dans mon bureau')], ''),
     ('lea', "Qu'est-ce qui se passe, Hicham?", 'What is going on, Hicham?', [(411, 'Janowski, on ne peut pas organiser')], ''),

@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 6
 SCENE = 12
 TITLE = "Le silence du fantôme  (The Ghost's Silence)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "isabelle": "emilie", "realisateur": "marcel", "lea": "lucie"}
-LABELS = {"isabelle": "Isabelle", "realisateur": "Le réalisateur", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'realisateur': 'marcel', 'lea': 'lucie'}
+LABELS = {'isabelle': 'Isabelle', 'realisateur': 'Le réalisateur', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "Shivering in the cold during their outdoor take, lookalike nurse Isabelle struggles to articulate her lines. Exasperated by the director's complaints, she threatens to walk away back to her hospital job until Camille finds an artistic compromise that saves the shoot. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Camille's quick artistic instincts resolve an impasse between director and actress. When you watch the episode, listen out for the expressions meaning 'pallor' and 'spectral'. You'll catch them now. See you next time."
-CLOSING = ("isabelle", "Au revoir!")
+OUTRO = "Camille's quick artistic instincts resolve an impasse between director and actress. When you watch the episode, listen out for the expressions meaning 'pallor' and 'spectral'. You'll catch them now. See you next time!"
+CLOSING = ('isabelle', 'Au revoir!')
 STORY = [
     ('realisateur', 'Cette pâleur spectrale est vraiment magnifique.', 'This spectral pallor is really magnificent.', [(585, 'Cette pâleur spectrale')], ''),
     ('isabelle', "J'ai trop froid, mes lèvres se bloquent.", 'I am too cold, my lips are locking up.', [(590, "Oh, non, j'ai froid."), (594, "J'ai les lèvres qui se bloquent.")], ''),

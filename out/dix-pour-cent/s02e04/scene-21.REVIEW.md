@@ -27,5 +27,5 @@
 | 13 | `hicham` (Hicham) | C'est parfait, nous allons réfléchir. | That is perfect, we will think about it. | 621:-Ouais... voilà, maintenant tu sais. |
 
 ## Part 5 — Outro & Closing
-> Leopoldine leaves the office having made a memorable impression on both partners. Notice how the near future is formed with aller followed by an infinitive: nous allons reflechir. Until next time.
+> Leopoldine leaves the office having made a memorable impression on both partners. Notice how the near future is formed with aller followed by an infinitive: nous allons reflechir. See you next time!
 - **Closing**: `hicham`: *À demain!*

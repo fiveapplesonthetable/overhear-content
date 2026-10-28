@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s02/e06.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "lea": "lucie", "juliette": "emilie", "gillieres": "theo"}`
-- **Labels**: `{"lea": "Andréa", "juliette": "Juliette", "gillieres": "Jean-Denis"}`
+- **Voices**: `{"narrator": "sky", "lea": "lucie", "gillieres": "theo", "juliette": "emilie"}`
+- **Labels**: `{"lea": "Andréa", "gillieres": "Jean-Denis", "juliette": "Juliette"}`
 
 ## Part 1 — Intro
 > At the Cannes luxury hotel, powerful media mogul Jean-Denis Gillières corners Andréa, insisting on meeting with Juliette Binoche. Learning that Juliette despises his advances, Andréa cleverly arranges a business lunch on his private yacht for a day when Juliette will have already left town. Listen to the scene in French first.
@@ -28,5 +28,5 @@
 | 14 | `lea` (Andréa) | Lundi, c'est parfait pour nous! | Monday is perfect for us! | 322:Lundi, c'est parfait |
 
 ## Part 5 — Outro & Closing
-> By agreeing to a yacht lunch after Juliette's departure, Andréa protects her star client while politely humoring the wealthy mogul. Join us next time to see what happens next.
+> By agreeing to a yacht lunch after Juliette's departure, Andréa protects her star client while politely humoring the wealthy mogul. See you next time!
 - **Closing**: `lea`: *Au revoir!*

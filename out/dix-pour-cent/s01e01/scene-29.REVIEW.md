@@ -29,5 +29,5 @@
 | 15 | `jean` (Jean) | Allez, viens, Jean Gabin! | Come on, Jean Gabin! | adapted |
 
 ## Part 5 — Outro & Closing
-> That was a lovely little meeting: one woman uses the casual 'you', the other the polite one, and you can now hear the difference. Take a break, and see you next time!
+> That was a lovely little meeting: one woman uses the casual 'you', the other the polite one, and you can now hear the difference. See you next time!
 - **Closing**: `jean`: *Au revoir, ma petite!*

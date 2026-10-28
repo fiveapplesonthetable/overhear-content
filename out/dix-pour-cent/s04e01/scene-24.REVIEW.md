@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | C'est une occasion parfaite pour nous. | It is a perfect opportunity for us. | 1004:C'est bien |
 
 ## Part 5 — Outro & Closing
-> Faced with Mathias Barneville's sudden departure to become a film producer, Andrea rallies Gabriel to take the offensive and calls an emergency agency meeting for eight o'clock tomorrow morning. When you watch the episode, listen out for the expressions meaning 'said' and 'keeps'. You'll catch them now. See you next time.
+> Faced with Mathias Barneville's sudden departure to become a film producer, Andrea rallies Gabriel to take the offensive and calls an emergency agency meeting for eight o'clock tomorrow morning. When you watch the episode, listen out for the expressions meaning 'said' and 'keeps'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

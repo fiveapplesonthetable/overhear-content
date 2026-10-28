@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 2
 SCENE = 18
 TITLE = "L'accident de Catherine  (Catherine's Accident)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "catherine": "emilie"}
-LABELS = {"mathias": "Mathias", "catherine": "Catherine"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'catherine': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'catherine': 'Catherine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "On a Paris street corner, Catherine Barneville is talking on the phone with Mathias when she suddenly suffers an accident. Panic ensues as Mathias scrambles to get emergency help. Let's listen to the scene in French first."
 OPENER = "Let's examine how Mathias and Catherine handle this street emergency step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around catherine's accident. When you watch the episode, listen out for the expressions meaning 'appointment' and 'am waiting for'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne soirée!")
+OUTRO = "That's it for this scene around catherine's accident. When you watch the episode, listen out for the expressions meaning 'appointment' and 'am waiting for'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('mathias', 'Oui Catherine, quel est ce rendez-vous?', 'Yes Catherine, what is this appointment?', [], ''),
     ('catherine', "Je t'attends à l'angle de la rue.", 'I am waiting for you on the street corner.', [], ''),

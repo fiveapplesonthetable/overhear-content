@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 2
 SCENE = 20
-TITLE = "Une visite inattendue  (An Unexpected Visit)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une visite inattendue  (An Unexpected Visit)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "elise": "emilie", "lea": "lucie"}
-LABELS = {"elise": "Élise", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'elise': 'emilie', 'lea': 'lucie'}
+LABELS = {'elise': 'Élise', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Late at night in the empty ASK offices, Andrea pours herself a drink to unwind after a grueling day. Suddenly, rival StarMedia agent Elise Formain appears in her doorway and asks for a glass, startling Andrea. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Elise's sudden arrival late at night sets the stage for an unexpected corporate confrontation. When you watch the episode, listen out for the expressions meaning 'been' and 'exhausting'. You'll catch them now. See you next time."
-CLOSING = ("elise", "Au revoir!")
+OUTRO = "Elise's sudden arrival late at night sets the stage for an unexpected corporate confrontation. When you watch the episode, listen out for the expressions meaning 'been' and 'exhausting'. You'll catch them now. See you next time!"
+CLOSING = ('elise', 'Au revoir!')
 STORY = [
     ('lea', 'La journée a été particulièrement épuisante.', 'The day was particularly exhausting.', [(1035, "Tu m'en sers un")], ''),
     ('elise', "Tu m'en sers un verre aussi?", 'Will you pour me a glass too?', [(1035, "Tu m'en sers un aussi ?")], ''),

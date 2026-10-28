@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | Léa Seydoux te remerciera en personne. Promis. | Léa Seydoux will thank you in person. Promised. | 500:Léa Seydoux te remerciera en personne. Promis |
 
 ## Part 5 — Outro & Closing
-> Andréa has managed to slip into Hicham's passenger seat, setting up the perfect moment to pitch ASK. Remember the classic idiom for a goldmine: la poule aux œufs d'or. Join us next time to see what happens next.
+> Andréa has managed to slip into Hicham's passenger seat, setting up the perfect moment to pitch ASK. Remember the classic idiom for a goldmine: la poule aux œufs d'or. See you next time!
 - **Closing**: `lea`: *Au revoir!*

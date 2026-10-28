@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 4
 SCENE = 18
-TITLE = "Nouveau rendez-vous  (Rescheduling the Meeting)"
-LEVEL = "A1 — débutant"
+TITLE = 'Nouveau rendez-vous  (Rescheduling the Meeting)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "sacha": "theo"}
-LABELS = {"lea": "Andréa", "sacha": "Sacha"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'sacha': 'theo'}
+LABELS = {'lea': 'Andréa', 'sacha': 'Sacha'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = 'In her office, Andréa meets with German film director Sacha Hartman, who is furious because he believes superstar Isabelle Adjani is ignoring him. Andréa decides to take control of the situation and calls Isabelle directly. Listen to the scene in French first.'
 OPENER = "Let's examine how Andréa calms down an angry film director."
 TRANSITION = "Now let's listen to the negotiation once more at normal pace."
 OUTRO = 'With a single phone call, Andréa fixes the misunderstanding and confirms the meeting with Isabelle Adjani. See you next time!'
-CLOSING = ("sacha", "Bonne journée!")
+CLOSING = ('sacha', 'Bonne journée!')
 STORY = [
     ('sacha', 'Comment ça, Isabelle est indisponible?', 'What do you mean, Isabelle is unavailable?', [(481, 'Comment ça, indisponible ?')], ''),
     ('lea', 'Elle a un défilé et des essayages.', 'She has a fashion show and costume fittings.', [(482, 'Rien. Elle a des essayages'), (483, 'puis un défilé Chanel')], ''),

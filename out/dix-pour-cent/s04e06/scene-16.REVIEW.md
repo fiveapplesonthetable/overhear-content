@@ -27,5 +27,5 @@
 | 13 | `elise` (Élise) | Nous verrons qui gagne cette bataille. | We will see who wins this battle. | 746:bloques le financement |
 
 ## Part 5 — Outro & Closing
-> Cornering Elise Formain in a grocery aisle, Andrea calls out her sabotage of Xavier Beauvois's film and delivers a stunning blow by revealing that Jean Reno has officially signed on as lead actor. When you watch the episode, listen out for the expressions meaning 'come' and 'errands'. You'll catch them now. See you next time.
+> Cornering Elise Formain in a grocery aisle, Andrea calls out her sabotage of Xavier Beauvois's film and delivers a stunning blow by revealing that Jean Reno has officially signed on as lead actor. When you watch the episode, listen out for the expressions meaning 'come' and 'errands'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

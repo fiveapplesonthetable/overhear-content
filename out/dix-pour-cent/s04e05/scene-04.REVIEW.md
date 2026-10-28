@@ -27,5 +27,5 @@
 | 13 | `sigourney` (Sigourney) | Parfait, je vais commencer ma gymnastique. | Perfect, I will start my exercises. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around a star's demands. When you watch the episode, listen out for the expressions meaning 'splendid' and 'suite'. You'll catch them now. See you next time.
+> That's it for this scene around a star's demands. When you watch the episode, listen out for the expressions meaning 'splendid' and 'suite'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

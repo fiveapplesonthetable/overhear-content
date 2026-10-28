@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 1
-TITLE = "Le coupable démasqué  (The Culprit Unmasked)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le coupable démasqué  (The Culprit Unmasked)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "At the talent agency, IT specialist Nathan confirms that the leaked movie contract was photocopied in their own offices in the middle of the night. Andrea confronts Mathias over his maneuvers to take control of ASK. When Hicham Janowski suddenly offers to sell his shares, the corporate battle reaches an unexpected turning point. Let's listen to the scene in French first."
 OPENER = "Let's observe as Andrea, Mathias, and Hicham face off over the control of the agency."
 TRANSITION = "Now let's listen to the partners confronting each other again at full speed."
-OUTRO = "With Hicham walking away and selling his shares, Mathias positions himself as the undisputed leader of ASK. When you watch the episode, listen out for the expressions meaning 'business contract' and 'secret'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "With Hicham walking away and selling his shares, Mathias positions himself as the undisputed leader of ASK. When you watch the episode, listen out for the expressions meaning 'business contract' and 'secret'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('lea', 'Le contrat secret a été photocopié ici.', 'The secret contract was photocopied here.', [(3, 'ça a bien été photocopié ici')], ''),
     ('mathias', "J'ai agi pour protéger notre agence.", 'I acted to protect our agency.', [(94, "Je suis en train d'essayer de sauver")], ''),

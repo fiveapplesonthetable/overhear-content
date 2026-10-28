@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 5
 SCENE = 27
 TITLE = "L'hésitation de Gabriel  (Gabriel's Hesitation)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "gabriel": "theo"}
-LABELS = {"arlette": "Arlette", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'gabriel': 'theo'}
+LABELS = {'arlette': 'Arlette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "Inside the quiet hallway of ASK, Gabriel searches anxiously for Arlette to seek her guidance. Finding the veteran agent in her office with her dog Jean Gabin, Gabriel tries to test the waters without revealing too much. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Arlette's calm perspective reminds Gabriel of the deep history and emotional stakes at ASK. When you watch the episode, listen out for the expressions meaning 'is happening' and 'was looking for'. You'll catch them now. See you next time."
-CLOSING = ("arlette", "À bientôt!")
+OUTRO = "Arlette's calm perspective reminds Gabriel of the deep history and emotional stakes at ASK. When you watch the episode, listen out for the expressions meaning 'is happening' and 'was looking for'. You'll catch them now. See you next time!"
+CLOSING = ('arlette', 'À bientôt!')
 STORY = [
     ('gabriel', 'Arlette, tu es là?', 'Arlette, are you there?', [(1057, 'Hein ?')], ''),
     ('arlette', "Hein, qu'est-ce qui se passe?", 'Huh, what is going on?', [(1057, 'Hein ?')], ''),

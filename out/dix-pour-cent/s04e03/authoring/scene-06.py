@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 3
 SCENE = 6
 TITLE = "L'ennemie dans nos murs  (The Enemy in Our Walls)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "camille": "emilie", "gabriel": "theo"}
-LABELS = {"herve": "Hervé", "camille": "Camille", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'camille': 'emilie', 'gabriel': 'theo'}
+LABELS = {'herve': 'Hervé', 'camille': 'Camille', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "At ASK reception, Camille and Herve spot rival super-agent Elise Formain striding through the lobby. Fearing an aggressive buyout by competitor StarMedia, they alert Gabriel as tension peaks. Let's listen to their conversation in French first."
 OPENER = "Let's explore Camille, Herve, and Gabriel's panicked discovery line by line."
 TRANSITION = "Now let's listen to the assistants' alert once more from start to finish."
-OUTRO = "That's it for this scene around the enemy in our walls. When you watch the episode, listen out for the expressions meaning 'woman' and 'elegant'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "That's it for this scene around the enemy in our walls. When you watch the episode, listen out for the expressions meaning 'woman' and 'elegant'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('camille', "Qui est cette femme élégante à l'accueil?", 'Who is this elegant woman at reception?', [(196, "C'est qui ?")], ''),
     ('herve', 'Tu ne connais pas Élise Formain?', 'You do not know Elise Formain?', [(197, 'Vous ne connaissez pas Elise Formain ?')], ''),

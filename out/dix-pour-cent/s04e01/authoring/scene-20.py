@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 1
 SCENE = 20
 TITLE = "La déception de Sophia  (Sophia's Disappointment)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "Inside the grand auditorium of the Cesars, Sophia and Gabriel reach their seats in the middle of row D. Convinced by industry superstition that winners are always placed on the aisle, Sophia loses hope, and storms out when the award goes to someone else. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Devastated by losing the Cesar, Sophia flees the grand auditorium in heartbreak. When you watch the episode, listen out for the expressions meaning 'seats' and 'middle'. You'll catch them now. See you next time."
-CLOSING = ("sofia", "À bientôt!")
+OUTRO = "Devastated by losing the Cesar, Sophia flees the grand auditorium in heartbreak. When you watch the episode, listen out for the expressions meaning 'seats' and 'middle'. You'll catch them now. See you next time!"
+CLOSING = ('sofia', 'À bientôt!')
 STORY = [
     ('gabriel', 'Nos places sont là, au milieu.', 'Our seats are there, in the middle.', [(907, 'juste ici')], ''),
     ('sofia', "C'est réglé, je ne gagnerai pas.", 'It is settled, I will not win.', [(909, "c'est réglé")], ''),

@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s03/e03.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "samy": "marcel", "gerard": "theo"}`
-- **Labels**: `{"samy": "Samy", "gerard": "Gérard"}`
+- **Voices**: `{"narrator": "sky", "gerard": "theo", "samy": "marcel"}`
+- **Labels**: `{"gerard": "Gérard", "samy": "Samy"}`
 
 ## Part 1 — Intro
 > At a Parisian cafe, agent Mathias Barneville meets his star client Gerard Lanvin to discuss shooting dates. Noticing that their ambitious young waiter Samy dreams of acting, Gerard suggests giving him a screen test for a bodyguard role. Let's listen to the scene in French first.
@@ -27,5 +27,5 @@
 | 13 | `samy` (Samy) | Merci, je vais donner le meilleur! | Thank you, I will give my best! | 87:Ah non, mais il n'y a pas de problème. |
 
 ## Part 5 — Outro & Closing
-> Samy rushes to fetch his resume and headshots, thrilled by the sudden opportunity offered by Gerard Lanvin. When you watch the episode, listen out for the expressions meaning 'come' and 'minute'. You'll catch them now. See you next time.
+> Samy rushes to fetch his resume and headshots, thrilled by the sudden opportunity offered by Gerard Lanvin. When you watch the episode, listen out for the expressions meaning 'come' and 'minute'. You'll catch them now. See you next time!
 - **Closing**: `gerard`: *À demain!*

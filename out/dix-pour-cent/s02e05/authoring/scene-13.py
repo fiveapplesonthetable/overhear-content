@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 13
-TITLE = "Le test de grossesse  (Pregnancy Test)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le test de grossesse  (Pregnancy Test)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "camille": "emilie"}
-LABELS = {"lea": "Andréa", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie'}
+LABELS = {'lea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = 'In the agency restroom, Andréa and Camille discover a positive pregnancy test left behind in the trash. Intrigued and amused, they speculate about which colleague or visiting client could be expecting a baby. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'Amused by their restroom discovery, Andréa and Camille agree to keep the positive test strictly between themselves. See you next time!'
-CLOSING = ("lea", "À bientôt!")
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('lea', "Regarde ça! C'est drôle.", 'Look at that! It is funny.', [(361, "C'est drôle")], ''),
     ('camille', "De qui tu crois que c'est?", 'Whose do you think it is?', [(362, "De qui tu crois que c'est")], ''),

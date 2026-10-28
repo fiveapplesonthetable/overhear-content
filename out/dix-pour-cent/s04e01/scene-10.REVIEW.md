@@ -27,5 +27,5 @@
 | 13 | `colette` (Colette) | Merci, Flora sera très heureuse parmi eux. | Thank you, Flora will be very happy among them. | 549:un tout petit peu d'amour pour les enfants des autres |
 
 ## Part 5 — Outro & Closing
-> Andrea agrees to the cooperative daycare chores so that Colette can finally return to work. When you watch the episode, listen out for the expressions meaning 'sorry' and 'been'. You'll catch them now. See you next time.
+> Andrea agrees to the cooperative daycare chores so that Colette can finally return to work. When you watch the episode, listen out for the expressions meaning 'sorry' and 'been'. You'll catch them now. See you next time!
 - **Closing**: `colette`: *À bientôt!*

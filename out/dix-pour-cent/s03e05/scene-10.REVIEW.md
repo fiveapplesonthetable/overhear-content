@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s03/e05.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "mathias": "marcel", "lea": "lucie"}`
-- **Labels**: `{"mathias": "Mathias", "lea": "Andréa"}`
+- **Voices**: `{"narrator": "sky", "lea": "lucie", "mathias": "marcel"}`
+- **Labels**: `{"lea": "Andréa", "mathias": "Mathias"}`
 
 ## Part 1 — Intro
 > In the ASK conference room, Andrea calls a crisis meeting to address Beatrice's walkout. Both Mathias and Hicham argue over who is best equipped to negotiate with the demanding producers. Let's listen to their confrontation in French first.
@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | D'accord pour un brief rapide de dix minutes. | Agreed for a quick ten-minute briefing. | 383:Mais tu me laisseras te briefer un peu avant d'y aller |
 
 ## Part 5 — Outro & Closing
-> Hicham prepares to face the furious production team with Mathias's strategic notes in hand. When you watch the episode, listen out for the expressions meaning 'meeting' and 'crisis'. You'll catch them now. See you next time.
+> Hicham prepares to face the furious production team with Mathias's strategic notes in hand. When you watch the episode, listen out for the expressions meaning 'meeting' and 'crisis'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

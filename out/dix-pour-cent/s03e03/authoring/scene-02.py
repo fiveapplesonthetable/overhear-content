@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 2
 TITLE = "Projet d'agence secrète  (Secret Agency Project)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "Andrea Martel and Gabriel Sarda plan to break away from ASK to launch an independent talent agency. Meeting secretly with their attorney, they review strict commercial regulations to protect their future enterprise. Let's listen to the scene in French first."
 OPENER = "Let's observe as Andrea and Gabriel plan their secret new agency."
 TRANSITION = "Now let's listen to Andrea and Gabriel again at full speed."
-OUTRO = "Andrea and Gabriel solidify their alliance, carefully measuring each business step to safeguard their independent agency. When you watch the episode, listen out for the expressions meaning 'lawyer' and 'confirmed'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "Andrea and Gabriel solidify their alliance, carefully measuring each business step to safeguard their independent agency. When you watch the episode, listen out for the expressions meaning 'lawyer' and 'confirmed'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('gabriel', "L'avocat a confirmé notre rendez-vous secret.", 'The lawyer confirmed our secret meeting.', [(104, "C'est bon, il a confirmé."), (105, 'Rendez-vous dans une demi-heure à Belleville.')], ''),
     ('lea', 'Parfait, nous devons rester très discrets.', 'Perfect, we must remain very discreet.', [(133, 'on voulait rester discret.')], ''),

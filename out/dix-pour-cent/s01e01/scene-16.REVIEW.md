@@ -30,5 +30,5 @@
 | 16 | `lea` (Andréa) | Un problème au boulot, Gabriel? | A problem at work, Gabriel? | 485:Un problème au boulot, Gabriel ? |
 
 ## Part 5 — Outro & Closing
-> Well done: you just sat through Sofia's first pitch in French. Listen for 'I'm an actress' when you watch, and for the moment Cécile walks in. Until next time.
+> Well done: you just sat through Sofia's first pitch in French. Listen for 'I'm an actress' when you watch, and for the moment Cécile walks in. See you next time!
 - **Closing**: `sofia`: *Au revoir!*

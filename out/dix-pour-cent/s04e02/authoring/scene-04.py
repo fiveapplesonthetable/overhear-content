@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 2
 SCENE = 4
 TITLE = "L'offre de Mathias  (Mathias's Offer)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Expecting a fair deal for Fabrice Luchini and rising talent Sofia Leprince, Andrea is outraged by Mathias's drastically low financial offer. When Mathias coldly threatens to poison ASK's relationship with star client Dany Boon unless she capitulates, a ruthless power struggle erupts. Let's listen to the scene in French first."
 OPENER = "Let's observe as Andrea and Mathias clash over contracts and agency loyalty."
 TRANSITION = "Now let's listen to Andrea and Mathias negotiating again at full speed."
-OUTRO = "Refusing to bow to Mathias's blackmail, Andrea leaves the meeting with renewed anger and determination. When you watch the episode, listen out for the expressions meaning 'proposal' and 'financial'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "Refusing to bow to Mathias's blackmail, Andrea leaves the meeting with renewed anger and determination. When you watch the episode, listen out for the expressions meaning 'proposal' and 'financial'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('lea', 'Cette proposition financière est une mauvaise blague.', 'This financial proposal is a bad joke.', [(240, "C'est une blague")], ''),
     ('lea', 'Tu renverrais un producteur avec cette offre.', 'You would send a producer packing with this offer.', [(243, 'une offre aussi nulle')], ''),

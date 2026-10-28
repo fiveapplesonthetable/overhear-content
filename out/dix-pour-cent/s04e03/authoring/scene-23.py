@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 23
-TITLE = "Une fuite discrète  (A Discreet Escape)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une fuite discrète  (A Discreet Escape)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jose": "theo", "helene": "emilie"}
-LABELS = {"jose": "José", "helene": "Hélène"}
+VOICES = {'narrator': 'sky', 'jose': 'theo', 'helene': 'emilie'}
+LABELS = {'jose': 'José', 'helene': 'Hélène'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "In a luxurious hotel room, Jose Garcia makes hasty excuses to his companion about an issue with his credit card before quietly slipping away down the corridor. Let's listen to the scene in French first."
 OPENER = "Let's look at how Jose Garcia executes his discreet exit step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Eager to escape an awkward morning reunion, Jose Garcia invents an errand at reception and slips out of the hotel room, leaving his bewildered companion behind. When you watch the episode, listen out for the expressions meaning 'come' and 'stay'. You'll catch them now. See you next time."
-CLOSING = ("jose", "À bientôt!")
+OUTRO = "Eager to escape an awkward morning reunion, Jose Garcia invents an errand at reception and slips out of the hotel room, leaving his bewildered companion behind. When you watch the episode, listen out for the expressions meaning 'come' and 'stay'. You'll catch them now. See you next time!"
+CLOSING = ('jose', 'À bientôt!')
 STORY = [
     ('helene', 'Viens ici, reste encore un peu.', 'Come here, stay a little longer.', [(1024, 'Viens')], ''),
     ('jose', 'Je dois descendre à la réception.', 'I must go down to reception.', [(1025, 'descends à la réception')], ''),

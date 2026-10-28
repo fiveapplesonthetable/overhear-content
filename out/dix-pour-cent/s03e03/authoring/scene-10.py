@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 10
 TITLE = "L'essayage de costumes  (The Costume Fitting)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "emma": "emilie", "gerard": "theo"}
-LABELS = {"mathias": "Mathias", "emma": "Emma", "gerard": "Gérard"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'emma': 'emilie', 'gerard': 'theo'}
+LABELS = {'mathias': 'Mathias', 'emma': 'Emma', 'gerard': 'Gérard'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = 'During a costume fitting for his upcoming feature film, star actor Gerard Lanvin has his waist measured by the costume designer. Meanwhile, agent Mathias panics over the phone when he hears that an unknown newcomer was put forward for a major part. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Balancing wardrobe measurements with casting emergencies, Gerard Lanvin and Mathias navigate the unpredictable world of film production. When you watch the episode, listen out for the expressions meaning 'suck in' and 'abdomen'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "Balancing wardrobe measurements with casting emergencies, Gerard Lanvin and Mathias navigate the unpredictable world of film production. When you watch the episode, listen out for the expressions meaning 'suck in' and 'abdomen'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('emma', 'Surtout, ne rentrez pas le ventre!', 'Above all, do not suck in your stomach!', [(413, 'rentrez pas le ventre')], ''),
     ('emma', 'Après, le pantalon sera trop serré.', 'Afterwards, the trousers will be too tight.', [(414, 'le pantalon')], ''),

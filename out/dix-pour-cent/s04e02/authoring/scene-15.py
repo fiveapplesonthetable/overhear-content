@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 2
 SCENE = 15
-TITLE = "Quittes pour une gifle  (Even for a Slap)"
-LEVEL = "A1 — débutant"
+TITLE = 'Quittes pour une gifle  (Even for a Slap)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "franck": "marcel", "dylan": "theo"}
-LABELS = {"franck": "Franck", "dylan": "Dylan"}
+VOICES = {'narrator': 'sky', 'franck': 'marcel', 'dylan': 'theo'}
+LABELS = {'franck': 'Franck', 'dylan': 'Dylan'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Outside the community center, veteran comedian Franck Dubosc catches up with young actor Dylan. Feeling guilty about their violent confrontation on set, Franck proposes an unusual and direct way to clear the air. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Franck Dubosc shows unexpected humility by offering Dylan a chance to retaliate for their fight on set. When you watch the episode, listen out for the expressions meaning 'wait' and 'moment'. You'll catch them now. See you next time."
-CLOSING = ("franck", "Au revoir!")
+OUTRO = "Franck Dubosc shows unexpected humility by offering Dylan a chance to retaliate for their fight on set. When you watch the episode, listen out for the expressions meaning 'wait' and 'moment'. You'll catch them now. See you next time!"
+CLOSING = ('franck', 'Au revoir!')
 STORY = [
     ('franck', 'Hé! Dylan, attends un instant.', 'Hey! Dylan, wait a moment.', [(834, 'Hé')], ''),
     ('dylan', "Qu'est-ce que tu fais là?", 'What are you doing here?', [(835, 'vas-y')], ''),

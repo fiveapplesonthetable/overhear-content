@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Bravo pour cette très belle chanson! | Congratulations on this very beautiful song! | 1214:du passé |
 
 ## Part 5 — Outro & Closing
-> After struggling with stand-up comedy, Sandrine finds her true artistic voice in music, performing a moving song about childhood memories while Gabriel cheers her on. When you watch the episode, listen out for the expressions meaning 'ready' and 'sing'. You'll catch them now. See you next time.
+> After struggling with stand-up comedy, Sandrine finds her true artistic voice in music, performing a moving song about childhood memories while Gabriel cheers her on. When you watch the episode, listen out for the expressions meaning 'ready' and 'sing'. You'll catch them now. See you next time!
 - **Closing**: `sandrine`: *Bonne soirée!*

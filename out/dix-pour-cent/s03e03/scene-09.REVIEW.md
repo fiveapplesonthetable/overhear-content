@@ -27,5 +27,5 @@
 | 13 | `samy` (Samy) | Merci beaucoup pour votre accueil. | Thank you very much for your welcome. | 412:Merci. |
 
 ## Part 5 — Outro & Closing
-> Samy finishes his offbeat audition and measurement session with good humor. When you watch the episode, listen out for the expressions meaning 'introduce' and 'experience'. You'll catch them now. See you next time.
+> Samy finishes his offbeat audition and measurement session with good humor. When you watch the episode, listen out for the expressions meaning 'introduce' and 'experience'. You'll catch them now. See you next time!
 - **Closing**: `samy`: *À bientôt!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 2
 SCENE = 17
-TITLE = "La zone de confort  (The Comfort Zone)"
-LEVEL = "A1 — débutant"
+TITLE = 'La zone de confort  (The Comfort Zone)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "dylan": "theo", "franck": "marcel"}
-LABELS = {"dylan": "Dylan", "franck": "Franck"}
+VOICES = {'narrator': 'sky', 'dylan': 'theo', 'franck': 'marcel'}
+LABELS = {'dylan': 'Dylan', 'franck': 'Franck'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "In a quiet corner at the apartment gathering, young actor Dylan opens up to veteran entertainer Franck Dubosc. Paralyzed by self-doubt and imposter syndrome after his early success, Dylan listens as Franck shares the strange, unpredictable path of his own career. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Franck Dubosc's candid humility helps Dylan see that vulnerability and fear are part of every actor's path. When you watch the episode, listen out for the expressions meaning 'must' and 'to work on'. You'll catch them now. See you next time."
-CLOSING = ("dylan", "Bonne soirée!")
+OUTRO = "Franck Dubosc's candid humility helps Dylan see that vulnerability and fear are part of every actor's path. When you watch the episode, listen out for the expressions meaning 'must' and 'to work on'. You'll catch them now. See you next time!"
+CLOSING = ('dylan', 'Bonne soirée!')
 STORY = [
     ('dylan', 'Je dois travailler ma diction.', 'I have to work on my diction.', [(844, 'travailler ma diction')], ''),
     ('franck', 'Pardon? Tout le monde te comprend.', 'Excuse me? Everyone understands you.', [(845, 'Pardon')], ''),

@@ -29,5 +29,5 @@
 | 15 | `camille` (Camille) | Une comédie romantique, c'est déjà pas mal! | A romantic comedy is not bad at all! | adapted |
 
 ## Part 5 — Outro & Closing
-> The unexpected moment of warmth between Gabriel and Mathias seals their alliance to protect the agency. Soon after, dark clouds gather as rival agent François Bréhier approaches Arlette on the street. Until next time.
+> The unexpected moment of warmth between Gabriel and Mathias seals their alliance to protect the agency. Soon after, dark clouds gather as rival agent François Bréhier approaches Arlette on the street. See you next time!
 - **Closing**: `camille`: *Bonne journée!*

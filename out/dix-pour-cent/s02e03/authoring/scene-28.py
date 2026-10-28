@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 28
-TITLE = "Sofia en studio  (Sofia Sings)"
-LEVEL = "A1 — débutant"
+TITLE = 'Sofia en studio  (Sofia Sings)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "julien": "marcel", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"julien": "Julien", "sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'julien': 'marcel', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'julien': 'Julien', 'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In a professional music studio, Sofia Leprince steps up to the microphone with Julien Dore. Her stunning singing voice leaves the famous musician completely amazed. Let's listen to the scene in French first."
 OPENER = "Let's examine how Julien and Gabriel are praising Sofia's musical performance."
 TRANSITION = "Now let's listen to the whole discussion again without stopping."
-OUTRO = "Sofia has dazzled Julien Dore in the recording studio, opening the door to a music career. Gabriel watches with joy as Sofia's artistic dream begins to take flight. Join us next time to see what happens next."
-CLOSING = ("sofia", "Bonne soirée!")
+OUTRO = "Sofia has dazzled Julien Dore in the recording studio, opening the door to a music career. Gabriel watches with joy as Sofia's artistic dream begins to take flight. See you next time!"
+CLOSING = ('sofia', 'Bonne soirée!')
 STORY = [
     ('julien', "C'est beau, non?", 'It is beautiful, is it not?', [(722, "C'est beau, non ?")], ''),
     ('sofia', "Oui, c'est vraiment très beau.", 'Yes, it is really very beautiful.', [(723, "Oui, c'est beau.")], ''),

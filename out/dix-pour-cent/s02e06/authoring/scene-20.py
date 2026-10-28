@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 20
-TITLE = "Beauté féline  (Feline Beauty)"
-LEVEL = "A1 — débutant"
+TITLE = 'Beauté féline  (Feline Beauty)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "juliette": "emilie", "lea": "lucie"}
-LABELS = {"juliette": "Juliette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'juliette': 'emilie', 'lea': 'lucie'}
+LABELS = {'juliette': 'Juliette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = 'In her Cannes hotel suite, Juliette Binoche receives an unwelcome poetic invitation from powerful sponsor Jean-Denis Gillières. Andréa works to protect her star client from predatory behavior while safeguarding her directorial debut. Listen to the scene in French first.'
 OPENER = "Let's examine how Andréa protects Juliette from unwanted advances of Gillières."
 TRANSITION = "Now let's listen to the decisive conversation once more at normal pace."
 OUTRO = 'In her Cannes suite, Juliette Binoche and Andréa form a united front against corporate harassment. Listen to the powerful dialogue once more in French. See you next time!'
-CLOSING = ("lea", "Bonne soirée!")
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('juliette', 'Écoute ce poème ridicule envoyé par Gillières.', 'Listen to this ridiculous poem sent by Gillières.', [(533, '« Ta beauté féline me hante.')], ''),
     ('juliette', 'Il écrit que ma beauté féline le hante.', 'He writes that my feline beauty haunts him.', [(533, '« Ta beauté féline me hante.')], ''),

@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 4
 SCENE = 7
 TITLE = "L'invitation de Catherine  (Catherine's Invitation)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "catherine": "emilie", "mathias": "marcel"}
-LABELS = {"catherine": "Catherine", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'mathias': 'marcel'}
+LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "At the ASK agency, Catherine Barneville drops by to visit Noemie, who is wearing a neck brace. When Mathias arrives, Catherine reveals she has invited Noemie over for dinner with her handsome physical therapist. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Mathias looks uneasy as Catherine departs after organizing the unexpected dinner party. When you watch the episode, listen out for the expressions meaning 'wanted' and 'darling'. You'll catch them now. See you next time."
-CLOSING = ("catherine", "Bonne journée!")
+OUTRO = "Mathias looks uneasy as Catherine departs after organizing the unexpected dinner party. When you watch the episode, listen out for the expressions meaning 'wanted' and 'darling'. You'll catch them now. See you next time!"
+CLOSING = ('catherine', 'Bonne journée!')
 STORY = [
     ('mathias', 'Catherine, tu voulais me voir?', 'Catherine, did you want to see me?', [(445, 'Catherine, tu voulais me voir ?')], ''),
     ('catherine', 'Non mon chéri, je viens voir Noémie.', 'No my darling, I am visiting Noemie.', [(446, 'Non, non, mon chéri, non.'), (447, 'je suis venue rendre visite à notre Noémie.')], ''),

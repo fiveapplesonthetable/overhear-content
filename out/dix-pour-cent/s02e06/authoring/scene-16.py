@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 16
-TITLE = "Garder la maison ensemble  (Holding the Fort Together)"
-LEVEL = "A1 — débutant"
+TITLE = 'Garder la maison ensemble  (Holding the Fort Together)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "noemie": "emilie"}
-LABELS = {"herve": "Hervé", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'noemie': 'emilie'}
+LABELS = {'herve': 'Hervé', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Back at the Paris office, Hervé returns flustered, only to find Noémie crying after giving up her travel ticket to Mathias's wife. Recognizing her heartbreak over Mathias, Hervé offers comforting words and decides to stay in Paris with her so they can hold down the fort together. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'Comforting a tearful Noémie over her secret heartbreak, Hervé decides to stay behind in Paris so they can look after the office together. See you next time!'
-CLOSING = ("herve", "Bonne journée!")
+CLOSING = ('herve', 'Bonne journée!')
 STORY = [
     ('herve', "C'est horrible, vraiment horrible!", 'It is horrible, truly horrible!', [(413, "C'est horrible")], ''),
     ('herve', "Tu n'es pas dans le train?", 'Are you not on the train?', [(414, 'dans le train')], ''),

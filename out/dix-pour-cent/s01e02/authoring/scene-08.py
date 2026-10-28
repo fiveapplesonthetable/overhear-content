@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 8
-TITLE = "Rencontre à la photocopieuse  (A Meeting at the Photocopier)"
-LEVEL = "A1 — débutant"
+TITLE = 'Rencontre à la photocopieuse  (A Meeting at the Photocopier)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hippolyte": "theo", "camille": "emilie"}
-LABELS = {"hippolyte": "Hippolyte", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'hippolyte': 'theo', 'camille': 'emilie'}
+LABELS = {'hippolyte': 'Hippolyte', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Lots of photocopies. So now Camille is alone with the photocopier, it jams, and she mutters something rude at it. Just then a young man strolls in, very relaxed, and very sure of himself. You'll hear their little conversation in French first. Don't chase every word; just follow who wants what. Let's listen to the scene in French first."
 OPENER = "Let's go through it slowly. The young man walks in and checks on her with a friendly, everyday question."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That was a nice one to finish on. Keep your ears open for that special yes when you watch, and I'll see you next time."
-CLOSING = ("camille", "À bientôt!")
+OUTRO = 'That was a nice one to finish on. Keep your ears open for that special yes when you watch. See you next time!'
+CLOSING = ('camille', 'À bientôt!')
 STORY = [
     ('hippolyte', 'Bonjour. Tout va bien?', 'Hello. Everything okay?', [(245, 'Bonjour'), (246, 'Tout va bien')], ''),
     ('camille', 'Bonjour. Il fait des caprices.', "Hello. It's playing up.", [(245, 'Bonjour'), (247, 'Il fait des caprices')], ''),

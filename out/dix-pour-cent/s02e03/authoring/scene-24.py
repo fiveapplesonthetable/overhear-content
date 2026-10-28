@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 24
-TITLE = "Julien veut partir  (Julien Wants to Leave)"
-LEVEL = "A1 — débutant"
+TITLE = 'Julien veut partir  (Julien Wants to Leave)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "julien": "marcel", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "julien": "Julien", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'julien': 'marcel', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'julien': 'Julien', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In the lounge of the laser game center, Gabriel spots musician and filmmaker Julien Dore looking anxious to leave. After Julien admits to a creative dispute, Gabriel pushes actress Sofia Leprince to seize the moment and introduce herself. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = 'Despite her initial hesitation, Sofia gathers her courage to approach Julien Dore. Remember the colloquial French idiom for taking a chance: tenter le coup. Join us next time to see what happens next.'
-CLOSING = ("sofia", "Bonne journée!")
+OUTRO = 'Despite her initial hesitation, Sofia gathers her courage to approach Julien Dore. Remember the colloquial French idiom for taking a chance: tenter le coup. See you next time!'
+CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('gabriel', 'Salut Julien! Tu vas bien?', 'Hi Julien! Are you doing well?', [(622, '-Salut, Julien.')], ''),
     ('julien', 'Tu peux me trouver un taxi?', 'Can you find me a taxi?', [(623, 'Tu peux me trouver un taxi ?')], ''),

@@ -31,5 +31,5 @@
 | 17 | `lea` (Andréa) | Oui, c'est parfait. | Yes, it | 52:Oui, c'est parfait |
 
 ## Part 5 — Outro & Closing
-> That's the start of the episode: a funeral to plan and a star who wants to walk away. If some lines went by fast, that's normal; you'll recognise them when you watch. Until next time.
+> That's the start of the episode: a funeral to plan and a star who wants to walk away. If some lines went by fast, that's normal; you'll recognise them when you watch. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

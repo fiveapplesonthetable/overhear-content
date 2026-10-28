@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 2
 SCENE = 14
 TITLE = "La panique de Gabriel  (Gabriel's Panic)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "In a Parisian taxi late at night, talent agent Gabriel Sarda frantically calls his colleague Andrea Martel. Gabriel has just fled dinner at Monica Bellucci's apartment after panicking over her romantic interest in him. Listen to their conversation in French first."
 OPENER = 'Let us examine how Gabriel confesses his panic to Andrea from the taxi.'
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "In the quiet of a nighttime taxi, Gabriel confesses his deep insecurities about intimacy and romance. When you watch the episode, listen out for the expressions meaning 'I have' and 'need'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne journée!")
+OUTRO = "In the quiet of a nighttime taxi, Gabriel confesses his deep insecurities about intimacy and romance. When you watch the episode, listen out for the expressions meaning 'I have' and 'need'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('gabriel', "Andréa, j'ai besoin de te parler!", 'Andrea, I need to talk to you!', [(759, "Non, mais Andréa, c'est la faute d'Hicham, putain.")], ''),
     ('lea', 'Où es-tu à cette heure tardive?', 'Where are you at this late hour?', [(757, 'Je vais faire pipi.')], ''),

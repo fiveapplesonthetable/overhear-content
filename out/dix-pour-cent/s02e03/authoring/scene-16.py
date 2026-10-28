@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 16
-TITLE = "Retrouvailles au Grand Colbert  (Reunion at Grand Colbert)"
-LEVEL = "A1 — débutant"
+TITLE = 'Retrouvailles au Grand Colbert  (Reunion at Grand Colbert)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "annick": "emilie", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"annick": "Annick", "mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'annick': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'annick': 'Annick', 'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'At Le Grand Colbert restaurant, Mathias finally arrives to meet Annick and their daughter Camille. Years of estrangement create palpable tension as the former couple exchange polite pleasantries and order drinks. Listen to the conversation in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'Mathias and Annick attempt to bridge eight years of distance over coffee and wine, under the watchful gaze of their daughter Camille. Listen to the French conversation one more time. Join us next time to see what happens next.'
-CLOSING = ("annick", "Au revoir!")
+OUTRO = 'Mathias and Annick attempt to bridge eight years of distance over coffee and wine, under the watchful gaze of their daughter Camille. Listen to the French conversation one more time. See you next time!'
+CLOSING = ('annick', 'Au revoir!')
 STORY = [
     ('annick', "J'ai besoin d'un verre. Garçon!", 'I need a drink. Waiter!', [(405, "J'ai besoin d'un verre. Garçon")], ''),
     ('lea', 'Regarde maman, il est là.', 'Look Mom, he is here.', [(407, 'Il est là')], ''),

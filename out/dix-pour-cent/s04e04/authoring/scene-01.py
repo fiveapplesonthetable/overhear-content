@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 1
-TITLE = "Félicitations sur scène  (Congratulations on Stage)"
-LEVEL = "A1 — débutant"
+TITLE = 'Félicitations sur scène  (Congratulations on Stage)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sandrine": "emilie", "gabriel": "theo"}
-LABELS = {"sandrine": "Sandrine", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sandrine': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sandrine': 'Sandrine', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "After an acclaimed stage performance in Paris, actress Sandrine Kiberlain takes her curtain call to roaring applause. Backstage, her devoted talent agent Gabriel rushes to congratulate her on a triumphant evening in the theater. Let's listen to their conversation in French first."
 OPENER = "Let's explore Gabriel and Sandrine's backstage conversation line by line."
 TRANSITION = "Now let's listen to Gabriel and Sandrine's exchange once more from start to finish."
-OUTRO = "That's it for this scene around congratulations on stage. When you watch the episode, listen out for the expressions meaning 'congratulations' and 'beautiful'. You'll catch them now. See you next time."
-CLOSING = ("sandrine", "Bonne journée!")
+OUTRO = "That's it for this scene around congratulations on stage. When you watch the episode, listen out for the expressions meaning 'congratulations' and 'beautiful'. You'll catch them now. See you next time!"
+CLOSING = ('sandrine', 'Bonne journée!')
 STORY = [
     ('gabriel', 'Félicitations pour cette belle soirée, Sandrine!', 'Congratulations on this beautiful evening, Sandrine!', [(1, 'Félicitations !')], ''),
     ('sandrine', 'Merci Gabriel, je suis très émue.', 'Thank you Gabriel, I am very moved.', [], ''),

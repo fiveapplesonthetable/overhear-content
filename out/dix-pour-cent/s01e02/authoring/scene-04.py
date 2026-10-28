@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 2
 SCENE = 4
 TITLE = "Dîner chez Gabriel  (Dinner at Gabriel's)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "He also hinted that Andréa isn't calm or reassuring enough for her clients, and it stung. Tonight the two old friends talk about work, then about something much more personal. We'll hear it in French first; just follow the feeling of it."
 OPENER = "Let's go back through it slowly. Andréa is still upset about Françoise Fabian, who has just walked away from a film."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Nothing is decided yet, but something has changed between Andréa and Gabriel. If you heard the soft 'would' forms, you've got the heart of the scene. See you next time."
-CLOSING = ("gabriel", "Bonne nuit, Andréa.")
+OUTRO = "Nothing is decided yet, but something has changed between Andréa and Gabriel. If you heard the soft 'would' forms, you've got the heart of the scene. See you next time!"
+CLOSING = ('gabriel', 'Bonne nuit, Andréa.')
 STORY = [
     ('lea', "Je te jure, c'est un film magnifique.", 'I swear, it', [(152, "Je te jure, c'est un film magnifique")], ''),
     ('gabriel', 'Quel gâchis.', 'What a waste.', [(153, 'Quel gâchis')], ''),

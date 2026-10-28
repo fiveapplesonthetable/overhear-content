@@ -29,5 +29,5 @@
 | 15 | `gabriel` (Gabriel) | Tu es vraiment magnifique. | You are really wonderful. | 857:Tu es magnifique. |
 
 ## Part 5 — Outro & Closing
-> Gabriel has watched Sofia's performance tape and is captivated by her talent and charm. Their bond deepens as Sofia realizes Gabriel truly believes in her. Join us next time to see what happens next.
+> Gabriel has watched Sofia's performance tape and is captivated by her talent and charm. Their bond deepens as Sofia realizes Gabriel truly believes in her. See you next time!
 - **Closing**: `sofia`: *Bonne journée!*

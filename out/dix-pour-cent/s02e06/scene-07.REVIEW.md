@@ -26,5 +26,5 @@
 | 12 | `lea` (Andréa) | On se verra à mon retour de Cannes. | We will see each other on my return from Cannes. | 156:On se voit à mon retour de Cannes ? |
 
 ## Part 5 — Outro & Closing
-> Hicham and Andréa share a tender moment on the Parisian pavement as pregnancy forces Andréa to reconsider her priorities before Cannes. Until next time! Until next time.
+> Hicham and Andréa share a tender moment on the Parisian pavement as pregnancy forces Andréa to reconsider her priorities before Cannes. See you next time!
 - **Closing**: `lea`: *À bientôt!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 19
-TITLE = "Le désastre du stand-up  (The Stand-Up Disaster)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le désastre du stand-up  (The Stand-Up Disaster)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sandrine": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sandrine": "Sandrine"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sandrine': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sandrine': 'Sandrine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "At a Parisian comedy club, Sandrine Kiberlain endures a catastrophic stand-up performance before an unimpressed crowd. Retreating backstage to the bar with Gabriel, Sandrine unleashes her fury, holding her agent entirely responsible for the fiasco. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Sandrine sips her drink with a triumphant smile, while Gabriel accepts that some actors are meant for drama. When you watch the episode, listen out for the expressions meaning 'stage fright' and 'crazy'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À demain!")
+OUTRO = "Sandrine sips her drink with a triumphant smile, while Gabriel accepts that some actors are meant for drama. When you watch the episode, listen out for the expressions meaning 'stage fright' and 'crazy'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('sandrine', "J'ai un trac fou ce soir.", 'I have crazy stage fright tonight.', [(1045, "Je n'arrive pas à respirer"), (1061, 'Pas trop le trac ?')], ''),
     ('gabriel', "Respire, le public va t'adorer.", 'Breathe, the audience will love you.', [(1048, 'On peut annuler')], ''),

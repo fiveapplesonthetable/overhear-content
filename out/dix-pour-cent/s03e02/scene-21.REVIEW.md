@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | Merci Gabriel, tu es un vrai ami. | Thank you Gabriel, you are a true friend. | 909:c'est vrai |
 
 ## Part 5 — Outro & Closing
-> Sharing a strong cigarette in the evening breeze, Gabriel helps Herve regain his composure after a harrowing screening. When you watch the episode, listen out for the expressions meaning 'smoke' and 'cigarette'. You'll catch them now. See you next time.
+> Sharing a strong cigarette in the evening breeze, Gabriel helps Herve regain his composure after a harrowing screening. When you watch the episode, listen out for the expressions meaning 'smoke' and 'cigarette'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Au revoir!*

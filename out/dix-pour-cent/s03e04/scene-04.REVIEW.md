@@ -26,5 +26,5 @@
 | 12 | `herve` (Hervé) | Tu es vraiment devenue très snob, Camille! | You have really become very snobbish, Camille! | 212:tu peux pas être aussi snob. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around theater schools. When you watch the episode, listen out for the expressions meaning 'to work' and 'screenwriters'. You'll catch them now. See you next time.
+> That's it for this scene around theater schools. When you watch the episode, listen out for the expressions meaning 'to work' and 'screenwriters'. You'll catch them now. See you next time!
 - **Closing**: `herve`: *Au revoir!*

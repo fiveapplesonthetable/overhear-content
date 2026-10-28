@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 24
-TITLE = "Sept mois  (Seven Months)"
-LEVEL = "A1 — débutant"
+TITLE = 'Sept mois  (Seven Months)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jean": "theo", "lea": "lucie"}
-LABELS = {"jean": "Jean", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
+LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In her ASK office, Andrea Martel shares a quiet moment with star actor Jean Dujardin. When Jean offers her a drink, he suddenly notices her rounded belly and discovers that Andrea is seven months pregnant. Let's listen to their intimate conversation in French first."
 OPENER = "Let's see how Jean reacts with surprise and warmth upon discovering Andrea's pregnancy."
 TRANSITION = "Now let's listen to Jean and Andrea again at natural speed."
-OUTRO = "Jean connects the timeline of Andrea's pregnancy with the start of his grueling film shoot, understanding both their struggles. When you watch the episode, listen out for the expressions meaning 'want' and 'to drink'. You'll catch them now. See you next time."
-CLOSING = ("jean", "Bonne soirée!")
+OUTRO = "Jean connects the timeline of Andrea's pregnancy with the start of his grueling film shoot, understanding both their struggles. When you watch the episode, listen out for the expressions meaning 'want' and 'to drink'. You'll catch them now. See you next time!"
+CLOSING = ('jean', 'Bonne soirée!')
 STORY = [
     ('jean', 'Tu veux boire un verre de whisky?', 'Do you want to drink a glass of whisky?', [(1004, 'boire du whisky')], ''),
     ('lea', 'Pas pour moi, ça va très bien.', 'Not for me, I am doing fine.', [(1002, 'Pas pour moi, ça va.')], ''),

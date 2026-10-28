@@ -29,5 +29,5 @@
 | 15 | `benoit` (Benoît) | Je crois que je vais partir. | I think that I will leave. | 472:Benoît Larroque, 473:Non |
 
 ## Part 5 — Outro & Closing
-> Frightened by Noémie's absurd warnings, Benoît abandons the interview and rushes out the door. Listen to the hilarious conversation once more in French. Until next time.
+> Frightened by Noémie's absurd warnings, Benoît abandons the interview and rushes out the door. Listen to the hilarious conversation once more in French. See you next time!
 - **Closing**: `benoit`: *Bonne soirée!*

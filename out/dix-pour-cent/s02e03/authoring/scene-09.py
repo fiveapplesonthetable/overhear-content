@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 9
-TITLE = "Limites professionnelles  (Professional Boundaries)"
-LEVEL = "A1 — débutant"
+TITLE = 'Limites professionnelles  (Professional Boundaries)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In the hallway at ASK, Andréa confronts Gabriel after catching him flirting with her new client. She lays down the firm's strict rules regarding professional boundaries and client relationships. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
 OUTRO = 'Andréa lays down the law on agency conduct: romantic entanglements with clients are strictly forbidden. Gabriel promises to behave, but his romantic impulses remain hard to tame. See you next time!'
-CLOSING = ("lea", "Bonne journée!")
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('lea', 'Voilà la règle numéro un ici.', 'Here is rule number one here.', [(225, 'voilà la règle numéro un.')], ''),
     ('lea', 'On ne drague jamais les clients. Jamais.', 'We never flirt with clients. Never.', [(226, 'On ne drague jamais les clients. Jamais.')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 2
-TITLE = "Un homme normal  (A Normal Man)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un homme normal  (A Normal Man)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "monica": "emilie", "gabriel": "theo"}
-LABELS = {"monica": "Monica", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'monica': 'emilie', 'gabriel': 'theo'}
+LABELS = {'monica': 'Monica', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "At the ASK offices, Italian screen icon Monica Bellucci meets with her dedicated agent Gabriel Sarda. Behind her glamorous public image, Monica confides her fatigue with predatory suitors and yearns to meet an authentic, ordinary companion. Let's listen to their honest conversation in French first."
 OPENER = "Let's see how Monica describes her romantic aspirations to Gabriel."
 TRANSITION = "Now let's listen to Monica and Gabriel again at full speed."
-OUTRO = "Monica Bellucci reveals the human vulnerability beneath her cinematic icon status, seeking a grounded romantic partner. When you watch the episode, listen out for the expressions meaning 'loved' and 'shoot'. You'll catch them now. See you next time."
-CLOSING = ("monica", "À demain!")
+OUTRO = "Monica Bellucci reveals the human vulnerability beneath her cinematic icon status, seeking a grounded romantic partner. When you watch the episode, listen out for the expressions meaning 'loved' and 'shoot'. You'll catch them now. See you next time!"
+CLOSING = ('monica', 'À demain!')
 STORY = [
     ('monica', "J'ai adoré tourner ce film en Australie.", 'I loved shooting this movie in Australia.', [(134, "J'ai adoré tourner ces films d'horreur en Australie.")], ''),
     ('gabriel', "C'était un rôle très différent pour toi.", 'It was a very different role for you.', [(135, "j'ai sorti quelque chose de différent de moi, tu vois ?")], ''),

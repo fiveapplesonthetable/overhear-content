@@ -27,5 +27,5 @@
 | 13 | `sofia` (Sofia) | Allez, viens danser avec nous maintenant! | Come on, come dance with us now! | 1015:Viens danser |
 
 ## Part 5 — Outro & Closing
-> With laughter and playful banter, Franck Dubosc brings warmth and joy to the gathering. When you watch the episode, listen out for the expressions meaning 'spoken' and 'next'. You'll catch them now. See you next time.
+> With laughter and playful banter, Franck Dubosc brings warmth and joy to the gathering. When you watch the episode, listen out for the expressions meaning 'spoken' and 'next'. You'll catch them now. See you next time!
 - **Closing**: `sofia`: *Bonne journée!*

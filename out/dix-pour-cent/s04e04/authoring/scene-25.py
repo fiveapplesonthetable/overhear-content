@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 25
-TITLE = "Une chanson sincère  (A Sincere Song)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une chanson sincère  (A Sincere Song)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sandrine": "emilie", "gabriel": "theo"}
-LABELS = {"sandrine": "Sandrine", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sandrine': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sandrine': 'Sandrine', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "At a Parisian music club, Sandrine Kiberlain steps onto the stage under warm stage lights to perform a tender song. Leaving comedy behind, she embraces her true passion for music as Gabriel cheers her on from the wings. Let's listen to the scene in French first."
 OPENER = "Let's look at Sandrine's heartfelt musical performance step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "After struggling with stand-up comedy, Sandrine finds her true artistic voice in music, performing a moving song about childhood memories while Gabriel cheers her on. When you watch the episode, listen out for the expressions meaning 'ready' and 'sing'. You'll catch them now. See you next time."
-CLOSING = ("sandrine", "Bonne soirée!")
+OUTRO = "After struggling with stand-up comedy, Sandrine finds her true artistic voice in music, performing a moving song about childhood memories while Gabriel cheers her on. When you watch the episode, listen out for the expressions meaning 'ready' and 'sing'. You'll catch them now. See you next time!"
+CLOSING = ('sandrine', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Sandrine, vous êtes prête à chanter?', 'Sandrine, are you ready to sing?', [(1214, 'du passé')], ''),
     ('sandrine', 'Oui, je monte sur scène maintenant.', 'Yes, I am going on stage now.', [(1214, 'du passé')], ''),

@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 1
 SCENE = 15
 TITLE = "L'ultimatum du producteur  (The Producer's Ultimatum)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "michel": "marcel", "camille": "emilie"}
-LABELS = {"michel": "Michel", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'michel': 'marcel', 'camille': 'emilie'}
+LABELS = {'michel': 'Michel', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "In Mathias's office, the telephone rings with an explosive call from movie producer Michel. Ramzy Bedia has vanished just one week before the premiere, and Michel delivers an uncompromising threat. Let's listen to the scene in French first."
 OPENER = 'The producer loses his temper. Let us examine the lines with English notes.'
 TRANSITION = 'Now listen to the heated exchange once more from beginning to end.'
 OUTRO = 'With a lawsuit looming over ASK, Mathias urgently needs to track down Ramzy and calm the producer. Soon after, Gabriel approaches Mathias to propose a truce. See you next time!'
-CLOSING = ("camille", "Bonne soirée!")
+CLOSING = ('camille', 'Bonne soirée!')
 STORY = [
     ('michel', "Mathias, tu as l'air d'avoir mal compris.", 'Mathias, you seem to have misunderstood.', [(422, "tu as l'air d'avoir mal compris")], ''),
     ('michel', 'Ramzy ne répond plus jamais à mes appels!', 'Ramzy never answers my calls anymore!', [(423, 'Ramzy ne répond plus à mes appels et je suis le producteur du film')], ''),

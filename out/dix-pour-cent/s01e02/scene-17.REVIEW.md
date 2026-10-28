@@ -31,5 +31,5 @@
 | 17 | `herve` (Hervé) | Exactement. | Exactly. | 521:Exactement |
 
 ## Part 5 — Outro & Closing
-> That's the old story, and right after it Camille hurries to reception to ask Sofia a favour: send some photos to a casting director. You did well with all those past tenses; see you next time.
+> That's the old story, and right after it Camille hurries to reception to ask Sofia a favour: send some photos to a casting director. You did well with all those past tenses. See you next time!
 - **Closing**: `herve`: *À bientôt!*

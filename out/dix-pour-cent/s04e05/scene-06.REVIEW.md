@@ -25,5 +25,5 @@
 | 11 | `gabriel` (Gabriel) | Tu es tellement naïve parfois. | You are so innocent sometimes. | 295:t'es tellement naïve parfois. |
 
 ## Part 5 — Outro & Closing
-> Gabriel and Andrea are plotting to steal a phone. When you watch the episode, listen out for the expressions meaning 'to look for' and 'information'. You'll catch them now. See you next time.
+> Gabriel and Andrea are plotting to steal a phone. When you watch the episode, listen out for the expressions meaning 'to look for' and 'information'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 9
-TITLE = "Le coup de poing  (The Punch)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le coup de poing  (The Punch)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "christophe": "theo", "francois": "marcel", "lea": "lucie"}
-LABELS = {"christophe": "Christophe", "francois": "François", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'christophe': 'theo', 'francois': 'marcel', 'lea': 'lucie'}
+LABELS = {'christophe': 'Christophe', 'francois': 'François', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Back at the theatre rehearsal hall, the pool staging of Dom Juan turns into a total disaster. Director Christophe Bel insists that François Berléand stand right at the edge of the water. Insults fly, tensions explode, and François does the unthinkable. Let's listen to the scene in French first."
 OPENER = "Let's break down this dramatic escalation line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'François Berléand has punched his director, putting the entire production in jeopardy. next time, Andréa and Camille will face the threat of an immediate lawsuit.'
-CLOSING = ("lea", "Au revoir!")
+OUTRO = 'François Berléand has punched his director, putting the entire production in jeopardy. See you next time!'
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('christophe', "Depuis le début. Et plus près de l'eau.", 'From the beginning. And closer to the water.', [(230, 'Depuis le début.'), (231, "Et plus près de l'eau.")], ''),
     ('francois', "Plus près? Comment? J'ai déjà les pieds mouillés!", 'Closer? How? My feet are already wet!', [(232, 'Plus près ?'), (233, "Comment ? J'ai déjà les pieds mouillés !")], ''),

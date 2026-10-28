@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 3
 SCENE = 14
 TITLE = "La fête d'anniversaire  (Laser Game Party)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "camille": "emilie", "elvis": "theo"}
-LABELS = {"hicham": "Hicham", "camille": "Camille", "elvis": "Elvis"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'camille': 'emilie', 'elvis': 'theo'}
+LABELS = {'hicham': 'Hicham', 'camille': 'Camille', 'elvis': 'Elvis'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'Hicham introduces his ten-year-old son Elvis at the agency and looks for entertainment during their week together in Paris. When the boy asks for a laser tag party, Hicham quickly delegates all the party logistics to Camille. Listen to the conversation in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'Mathias worries that Camille is lowering herself to an errand runner, but Camille remains determined to earn her promotion. Listen to the French scene once more. Until next time.'
-CLOSING = ("camille", "Bonne journée!")
+OUTRO = 'Mathias worries that Camille is lowering herself to an errand runner, but Camille remains determined to earn her promotion. Listen to the French scene once more. See you next time!'
+CLOSING = ('camille', 'Bonne journée!')
 STORY = [
     ('hicham', 'Bonjour tout le monde!', 'Hello everyone!', [(354, 'Bonjour tout le monde')], ''),
     ('camille', 'Bonjour Hicham.', 'Hello Hicham.', [(355, 'Bonjour')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 15
-TITLE = "La fausse jambe cassée  (The Fake Broken Leg)"
-LEVEL = "A1 — débutant"
+TITLE = 'La fausse jambe cassée  (The Fake Broken Leg)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "charlotte": "emilie", "paco": "theo"}
-LABELS = {"lea": "Andréa", "charlotte": "Charlotte", "paco": "Paco"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'charlotte': 'emilie', 'paco': 'theo'}
+LABELS = {'lea': 'Andréa', 'charlotte': 'Charlotte', 'paco': 'Paco'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At Charlotte Gainsbourg's apartment, Andrea hatches an audacious scheme to rescue her star client from an awful sci-fi film. To avoid hurting her director friend Oscar, Andrea brings in prop master Paco to fit Charlotte with a fake plaster cast before Oscar arrives. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "With a fake plaster cast and seconds to spare, Charlotte and Andrea prepare for Oscar's sudden inspection. When you watch the episode, listen out for the expressions meaning 'movie' and 'science fiction'. You'll catch them now. See you next time."
-CLOSING = ("charlotte", "À bientôt!")
+OUTRO = "With a fake plaster cast and seconds to spare, Charlotte and Andrea prepare for Oscar's sudden inspection. When you watch the episode, listen out for the expressions meaning 'movie' and 'science fiction'. You'll catch them now. See you next time!"
+CLOSING = ('charlotte', 'À bientôt!')
 STORY = [
     ('lea', 'Ce film de science-fiction sera un navet.', 'This science fiction movie will be a dud.', [(762, 'ça va être un navet total')], ''),
     ('charlotte', 'Je veux faire ce film par amitié.', 'I want to do this film out of friendship.', [(764, "j'en ferai un par amitié")], ''),

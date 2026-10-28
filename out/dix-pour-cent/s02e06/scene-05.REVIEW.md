@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | Calmons-nous avant de monter les marches. | Let us calm down before climbing the red carpet stairs. | 102:Je monte déjà ces marches ! |
 
 ## Part 5 — Outro & Closing
-> The pre-festival rush tests everyone's patience as Andréa tries to secure top-tier luxury support for Juliette Binoche. Until next time! Join us next time to see what happens next.
+> The pre-festival rush tests everyone's patience as Andréa tries to secure top-tier luxury support for Juliette Binoche. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

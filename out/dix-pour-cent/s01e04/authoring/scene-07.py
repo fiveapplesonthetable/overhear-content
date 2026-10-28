@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 7
-TITLE = "Trop exotique ou pas assez  (Too Exotic or Not Enough)"
-LEVEL = "A1 — débutant"
+TITLE = 'Trop exotique ou pas assez  (Too Exotic or Not Enough)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "At the cafe, Mathias has just pitched Audrey Fleurot the role of an ecologist stripper in Augustin's film. Meanwhile, out on a Paris street, Gabriel is walking with Sofia, his newest client, while arguing on the phone with a casting director who has just turned her down for several roles in a row. We'll hear it in French first; don't worry about catching every word."
 OPENER = "Let's walk through it. Gabriel is on the phone with a casting director, getting more annoyed by the second."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Sofia's first auditions with Gabriel haven't gone well, and right after this Mathias walks into the agency on the phone with Audrey, joking that if her dress is too small she shouldn't eat until tomorrow. Listen out for the words meaning 'too' and 'not enough'. See you next time."
-CLOSING = ("gabriel", "À demain!")
+OUTRO = "Sofia's first auditions with Gabriel haven't gone well, and right after this Mathias walks into the agency on the phone with Audrey, joking that if her dress is too small she shouldn't eat until tomorrow. Listen out for the words meaning 'too' and 'not enough'. See you next time!"
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('gabriel', 'Et Sofia Leprince? Trop exotique?', 'And Sofia Leprince? Too exotic?', [(193, 'Et Sofia Leprince ?'), (193, 'trop exotique.')], ''),
     ('gabriel', 'Tu veux dire trop noire?', 'Do you mean too black?', [(194, 'Tu veux dire trop noire ?')], ''),

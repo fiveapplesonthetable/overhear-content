@@ -27,5 +27,5 @@
 | 13 | `juliette` (Juliette) | La cérémonie va bientôt commencer! | The ceremony will begin soon! | 600:Tu montes |
 
 ## Part 5 — Outro & Closing
-> A frantic search for a restroom turns into a backstage labyrinth as Juliette's dress suffers unexpected damage moments before the show. Until next time! See you next time!
+> A frantic search for a restroom turns into a backstage labyrinth as Juliette's dress suffers unexpected damage moments before the show. See you next time!
 - **Closing**: `juliette`: *À bientôt!*

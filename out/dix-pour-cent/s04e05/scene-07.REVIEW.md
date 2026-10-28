@@ -25,5 +25,5 @@
 | 11 | `sigourney` (Sigourney) | Et Gaspard sera mon amant. | And Gaspard will be my lover. | 323:Et Gaspard, mon amant. |
 
 ## Part 5 — Outro & Closing
-> Sigourney Weaver wants a young romantic lead, and she won't settle for less. See you next time.
+> Sigourney Weaver wants a young romantic lead, and she won't settle for less. See you next time!
 - **Closing**: `mathias`: *À plus tard!*

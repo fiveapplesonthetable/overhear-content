@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Bonne chance avec vos nouveaux problèmes quotidiens! | Good luck with your new daily problems! | 511:Au revoir. Vraiment, j'en reviens pas. |
 
 ## Part 5 — Outro & Closing
-> Mathias hands over his keys and steps into the closing elevator, bringing thirty years at ASK to an end. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time.
+> Mathias hands over his keys and steps into the closing elevator, bringing thirty years at ASK to an end. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne journée!*

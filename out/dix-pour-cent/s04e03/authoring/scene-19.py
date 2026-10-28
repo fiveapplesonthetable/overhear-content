@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 19
-TITLE = "Une plaidoirie passionnée  (A Passionate Defense)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une plaidoirie passionnée  (A Passionate Defense)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "igor": "theo", "noemie": "emilie"}
-LABELS = {"igor": "Igor", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'igor': 'theo', 'noemie': 'emilie'}
+LABELS = {'igor': 'Igor', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "At the dinner table, producer Igor de Serisy expresses serious reservations about Xavier Beauvois's screenplay, complaining that it is far too dark and violent. Noemie steps forward with unexpected eloquence, delivering a passionate artistic defense of the film that leaves the producer astonished. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Igor and Mathias look at Noemie with newfound respect, struck by her intellectual depth and passion for cinema. When you watch the episode, listen out for the expressions meaning 'read' and 'screenplay'. You'll catch them now. See you next time."
-CLOSING = ("igor", "Au revoir!")
+OUTRO = "Igor and Mathias look at Noemie with newfound respect, struck by her intellectual depth and passion for cinema. When you watch the episode, listen out for the expressions meaning 'read' and 'screenplay'. You'll catch them now. See you next time!"
+CLOSING = ('igor', 'Au revoir!')
 STORY = [
     ('noemie', "J'ai lu le scénario de Xavier.", 'I read Xavier', [(918, "moi aussi j'ai lu le scénario")], ''),
     ('igor', 'Il est beaucoup trop violent et sombre.', 'It is much too violent and dark.', [(926, "C'est très violent"), (926, 'est')], ''),

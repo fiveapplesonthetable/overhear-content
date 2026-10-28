@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 5
-TITLE = "Une soirée incognito  (An Incognito Evening)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une soirée incognito  (An Incognito Evening)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "monica": "emilie"}
-LABELS = {"gabriel": "Gabriel", "monica": "Monica"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'monica': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'monica': 'Monica'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "Talent agent Gabriel Sarda takes glamorous Italian actress Monica Bellucci to a casual flat party hosted by his brother's friends. Hoping to meet ordinary people without celebrity attention, Monica attends incognito under the pseudonym Chantal. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel helps Monica to navigate her incognito party entrance line by line."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around an incognito evening. When you watch the episode, listen out for the expressions meaning 'sure' and 'perfect'. You'll catch them now. See you next time."
-CLOSING = ("monica", "À bientôt!")
+OUTRO = "That's it for this scene around an incognito evening. When you watch the episode, listen out for the expressions meaning 'sure' and 'perfect'. You'll catch them now. See you next time!"
+CLOSING = ('monica', 'À bientôt!')
 STORY = [
     ('monica', 'Je ne suis pas très sûre de moi.', 'I am not very sure of myself.', [(371, 'Je suis pas sûre.')], ''),
     ('gabriel', 'Tu es vraiment parfaite comme ça!', 'You are really perfect like that!', [(372, "T'es super bien comme ça.")], ''),

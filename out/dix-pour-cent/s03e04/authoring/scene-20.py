@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 20
-TITLE = "La déclaration de naissance  (The Birth Declaration)"
-LEVEL = "A1 — débutant"
+TITLE = 'La déclaration de naissance  (The Birth Declaration)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "At the maternity clinic, Hicham brings a teddy bear for the newborn baby. When the civil registrar arrives to complete the birth certificate, Andrea declares the child fatherless, sparking an intense clash with Hicham. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "In the hospital room, Andrea and Hicham confront the delicate boundaries between biological fatherhood and family law. When you watch the episode, listen out for the expressions meaning 'thanks' and 'little'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "In the hospital room, Andrea and Hicham confront the delicate boundaries between biological fatherhood and family law. When you watch the episode, listen out for the expressions meaning 'thanks' and 'little'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('lea', 'Merci pour le petit ours en peluche.', 'Thank you for the little teddy bear.', [(935, 'Merci pour le petit ours')], ''),
     ('hicham', "C'est un cadeau pour notre fille.", 'It is a gift for our daughter.', [(935, 'petit ours')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 20
-TITLE = "À table avec Papa  (At the Table with Dad)"
-LEVEL = "A1 — débutant"
+TITLE = 'À table avec Papa  (At the Table with Dad)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel", "hippolyte": "theo"}
-LABELS = {"camille": "Camille", "mathias": "Mathias", "hippolyte": "Hippolyte"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel', 'hippolyte': 'theo'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias', 'hippolyte': 'Hippolyte'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Because Mathias decided to skip the evening screening, he comes home early—and walks straight into his dining room, where his wife Catherine and his son Hippolyte are having dinner with Camille, his secret daughter! Neither Catherine nor Hippolyte has any idea who Camille really is. Let's hear the scene in French first; don't worry if it goes by fast."
 OPENER = "Let's go through it line by line. Catherine greets Mathias happily as he walks into the dining room."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Camille turned the tables on Mathias at dinner, and outside she made it clear that his double life is his own fault. Next, we check in on Audrey Fleurot as she prepares for her new role. See you next time.'
-CLOSING = ("camille", "Bonne soirée!")
+OUTRO = 'Camille turned the tables on Mathias at dinner, and outside she made it clear that his double life is his own fault. See you next time!'
+CLOSING = ('camille', 'Bonne soirée!')
 STORY = [
     ('hippolyte', "Déjà de retour? J'ai invité les enfants à dîner!", 'Back already? I invited the kids for dinner!', [(495, 'Déjà de retour'), (497, "J'ai invité les enfants à dîner")], ''),
     ('mathias', "J'avais juste envie de rentrer.", 'I just wanted to come home.', [(496, "J'avais juste envie de rentrer")], ''),

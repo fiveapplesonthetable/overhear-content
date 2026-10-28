@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 4
-TITLE = "Mathias et Camille au café  (Mathias and Camille at the Café)"
-LEVEL = "A1 — débutant"
+TITLE = 'Mathias et Camille au café  (Mathias and Camille at the Café)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Mathias meets his secret daughter Camille at a quiet cafe across town. After his wife Catherine kicked him out for his years of lies, Mathias wants to come clean to everyone at ASK. However, Camille is horrified by the prospect of being exposed. Let's listen to their conversation in French first."
 OPENER = "Let's examine how Mathias and Camille discuss their hidden family secret."
 TRANSITION = "Now let's listen to their conversation at the cafe again without interruptions."
-OUTRO = 'Camille desperately wants to protect her independent life at the agency. Mathias agrees to keep quiet for now, but keeping such a major secret is never easy. Until next time.'
-CLOSING = ("camille", "À demain!")
+OUTRO = 'Camille desperately wants to protect her independent life at the agency. Mathias agrees to keep quiet for now, but keeping such a major secret is never easy. See you next time!'
+CLOSING = ('camille', 'À demain!')
 STORY = [
     ('mathias', "Tu es sûre d'avoir assez mangé?", 'Are you sure you have eaten enough?', [(92, 'assez mangé ?')], ''),
     ('camille', 'Alors, tu as quelque chose à me dire.', 'So, you have something to tell me.', [(94, 'Alors,'), (95, 'Tu as quelque chose à me dire.')], ''),

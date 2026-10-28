@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 2
-TITLE = "Panique et trahisons  (Panic and Betrayals)"
-LEVEL = "A1 — débutant"
+TITLE = 'Panique et trahisons  (Panic and Betrayals)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "lea": "lucie", "mathias": "marcel"}
-LABELS = {"noemie": "Noémie", "lea": "Andréa", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'lea': 'lucie', 'mathias': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'lea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "In the bustling hallways of ASK, Mathias takes charge of organizing the agency's thirtieth anniversary celebration. While assistant Noemie helps him manage the practical details, Andrea and Gabriel struggle with the reality of his triumph. Disgusted by the atmosphere of mutual suspicion, the agents wonder if walking away is their only remaining option. Let's listen to the scene in French first."
 OPENER = "Let's observe as Mathias plans the party while Andrea denounces the toxic rivalry."
 TRANSITION = "Now let's listen to Mathias and the agents again at full speed."
-OUTRO = "Tensions inside the agency reach an all-time high as preparations for the anniversary party continue. When you watch the episode, listen out for the expressions meaning 'serve' and 'champagne'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Tensions inside the agency reach an all-time high as preparations for the anniversary party continue. When you watch the episode, listen out for the expressions meaning 'serve' and 'champagne'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('mathias', 'Nous servons uniquement du champagne ce soir.', 'We are serving only champagne tonight.', [(147, 'On avait dit champagne uniquement')], ''),
     ('mathias', 'Veuillez annuler ce bar à cocktails.', 'Please cancel this cocktail bar.', [(151, "m'annuler le bar à cocktails")], ''),

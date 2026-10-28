@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 10
-TITLE = "Une mafia de nounous  (A Nanny Mafia)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une mafia de nounous  (A Nanny Mafia)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "elise": "emilie", "lea": "lucie"}
-LABELS = {"elise": "Élise", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'elise': 'emilie', 'lea': 'lucie'}
+LABELS = {'elise': 'Élise', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "After losing her daycare spot, Andrea Martel is exhausted from bringing baby Flora to the ASK agency every day. Rival agent Elise Formain steps into her office and observes her colleague's mounting distress. Rather than exploiting Andrea's weakness, Elise offers unexpected maternal advice and a surprising solution. Let's listen to their exchange in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Grateful for Elise's surprising warmth and support, Andrea feels a glimmer of hope amidst her chaotic week. When you watch the episode, listen out for the expressions meaning 'bustle' and 'look for'. You'll catch them now. See you next time."
-CLOSING = ("elise", "Bonne soirée!")
+OUTRO = "Grateful for Elise's surprising warmth and support, Andrea feels a glimmer of hope amidst her chaotic week. When you watch the episode, listen out for the expressions meaning 'bustle' and 'look for'. You'll catch them now. See you next time!"
+CLOSING = ('elise', 'Bonne soirée!')
 STORY = [
     ('elise', "C'est quoi tout ce va-et-vient ici?", 'What is all this coming and going here?', [(836, "C'est quoi tout ce va-et-vient ?")], ''),
     ('lea', 'Je cherche une nounou pour ma fille.', 'I am looking for a nanny for my daughter.', [(840, 'une')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 21
-TITLE = "Le cours de pole dance  (The Pole-Dancing Class)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le cours de pole dance  (The Pole-Dancing Class)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "audrey": "emilie", "mathias": "marcel"}
-LABELS = {"audrey": "Audrey", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'audrey': 'emilie', 'mathias': 'marcel'}
+LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "She has brought her two small children along to the dance studio, and Mathias arrives with the contracts. Let's hear the scene in French first; don't worry about catching every word."
 OPENER = "Let's go through the scene step by step. The dance coach asks if Audrey is ready, and Audrey apologises for her ordinary sports clothes."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Audrey is trying her best to prepare for the role and find a nanny, even if her heart isn't really in leaving her children. Back at her flat, she is about to interview her first nanny applicant—or so she thinks. See you next time."
-CLOSING = ("audrey", "À tout à l'heure!")
+OUTRO = "Audrey is trying her best to prepare for the role and find a nanny, even if her heart isn't really in leaving her children. Back at her flat, she is about to interview her first nanny applicant—or so she thinks. See you next time!"
+CLOSING = ('audrey', "À tout à l'heure!")
 STORY = [
     ('audrey', "Je n'ai pas eu le temps d'acheter une tenue.", 'I didn', [(540, "Je n'ai pas eu le temps d'acheter")], ''),
     ('audrey', "J'ai un mois. J'ai déjà fait ça, mais il y a longtemps.", "I have one month. I've done it before, but a long time ago.", [(543, "J'ai un mois"), (544, 'Il y a longtemps')], ''),

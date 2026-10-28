@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 12
-TITLE = "Coupez!  (Cut!)"
-LEVEL = "A1 — débutant"
+TITLE = 'Coupez!  (Cut!)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"arlette": "Arlette", "mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'arlette': 'Arlette', 'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Back at ASK in Paris, Mathias's bouquet of flowers has fared no better: he walks into Arlette's office to press her again about saving Jonathan Joubert's character on Happy Ever After, and even tries to intimidate her now that Samuel Kerr is dead. Listen to the French first; it's fine to catch just the main idea."
 OPENER = "Let's walk through it together. Mathias walks into Arlette's office and tries to sit in the armchair."
 TRANSITION = "Now let's listen to the whole confrontation again."
 OUTRO = "Arlette refuses to bend to Mathias's threats, and Doctor Ryan's fate looks sealed — unless Camille's hairdressing-salon plan can save him. See you next time!"
-CLOSING = ("mathias", "Bonne soirée!")
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('mathias', 'Arlette, je veux vous parler de Jonathan Joubert.', 'Arlette, I want to talk to you about Jonathan Joubert.', [(218, 'Arlette'), (218, 'de Jonathan Joubert')], ''),
     ('arlette', "C'est son fauteuil.", 'That', [(219, "C'est son fauteuil")], ''),

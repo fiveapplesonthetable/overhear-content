@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | Va voir Hervé pour la musique. Mais garde le secret! | Go see Hervé for the music. But keep the secret! | 135:Va voir Hervé., 136:Il te filera les paroles, 137:Mais surtout, bouche cousue ! C'est top secret ! |
 
 ## Part 5 — Outro & Closing
-> Sofia has just landed the audition of a lifetime with director Luc Besson, even if her hip-hop dancing skills might require some urgent improvisation. In the next room, Hervé and Noémie are watching a suspicious luxury bag on Mathias's desk. See you next time!
+> Sofia has just landed the audition of a lifetime with director Luc Besson, even if her hip-hop dancing skills might require some urgent improvisation. See you next time!
 - **Closing**: `sofia`: *À demain!*

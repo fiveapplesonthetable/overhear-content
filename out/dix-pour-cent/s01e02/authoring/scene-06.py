@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 6
-TITLE = "Déjeuner avec Line Renaud  (Lunch with Line Renaud)"
-LEVEL = "A1 — débutant"
+TITLE = 'Déjeuner avec Line Renaud  (Lunch with Line Renaud)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "line": "emilie", "gabriel": "theo"}
-LABELS = {"line": "Line", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'line': 'emilie', 'gabriel': 'theo'}
+LABELS = {'line': 'Line', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Gabriel's guest is Line Renaud, the famous singer and actress, playing herself. She was one of Samuel's oldest friends and clients, and we sit with her. Gabriel expects a sad lunch, but Line has other plans. As always, the French comes first; relax and listen."
 OPENER = "Let's walk through it. Gabriel greets his famous guest, warmly and a little nervously."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Line Renaud may be in her eighties, but she's the liveliest person in this episode so far. If you caught the little word for 'what a', you're ready for more. See you next time."
-CLOSING = ("line", "Bonne journée!")
+OUTRO = "Line Renaud may be in her eighties, but she's the liveliest person in this episode so far. If you caught the little word for 'what a', you're ready for more. See you next time!"
+CLOSING = ('line', 'Bonne journée!')
 STORY = [
     ('gabriel', "Bonjour, Line. C'est vraiment gentil d'être venue.", "Hello, Line. It's really kind of you to come.", [(218, 'Bonjour, Line'), (219, "C'est vraiment gentil d'être venue")], ''),
     ('line', 'Je suis vraiment contente.', 'I', [(220, 'Je suis vraiment contente')], ''),

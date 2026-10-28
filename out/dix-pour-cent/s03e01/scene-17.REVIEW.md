@@ -27,5 +27,5 @@
 | 13 | `annick` (Annick) | Il faut garder ta dignité, ma fille! | You must keep your dignity, my daughter! | 601:Il faut retrouver une dignité, ma fille, là. |
 
 ## Part 5 — Outro & Closing
-> Late at night, Annick tries to protect Camille from overworking in the competitive world of talent agencies. When you watch the episode, listen out for the expressions meaning 'it is' and 'normal'. You'll catch them now. See you next time.
+> Late at night, Annick tries to protect Camille from overworking in the competitive world of talent agencies. When you watch the episode, listen out for the expressions meaning 'it is' and 'normal'. You'll catch them now. See you next time!
 - **Closing**: `annick`: *Au revoir!*

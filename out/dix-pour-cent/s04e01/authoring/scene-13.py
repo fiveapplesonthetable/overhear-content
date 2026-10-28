@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 13
-TITLE = "Les pleurs de décharge  (Release Crying)"
-LEVEL = "A1 — débutant"
+TITLE = 'Les pleurs de décharge  (Release Crying)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "In the quiet living room, Colette notices that baby Flora immediately stops crying when held. Andrea explains the pediatric concept of release crying, leading to a thoughtful exchange between the exhausted mothers. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Andrea and Colette navigate the emotional intricacies of new parenthood together. When you watch the episode, listen out for the expressions meaning 'seen' and 'stops'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "Andrea and Colette navigate the emotional intricacies of new parenthood together. When you watch the episode, listen out for the expressions meaning 'seen' and 'stops'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('colette', 'Tu as vu ça, Andréa?', 'Did you see that, Andrea?', [(661, 'Tu as vu ça')], ''),
     ('lea', 'Elle arrête de pleurer dans tes bras.', 'She stops crying in your arms.', [(662, 'Elle arrête de pleurer')], ''),

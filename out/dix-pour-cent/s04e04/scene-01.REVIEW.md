@@ -27,5 +27,5 @@
 | 13 | `sandrine` (Sandrine) | Merci pour ton fidèle soutien, Gabriel. | Thank you for your faithful support, Gabriel. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around congratulations on stage. When you watch the episode, listen out for the expressions meaning 'congratulations' and 'beautiful'. You'll catch them now. See you next time.
+> That's it for this scene around congratulations on stage. When you watch the episode, listen out for the expressions meaning 'congratulations' and 'beautiful'. You'll catch them now. See you next time!
 - **Closing**: `sandrine`: *Bonne journée!*

@@ -27,5 +27,5 @@
 | 13 | `valentin` (Valentin) | Voilà, je te suis avec grand plaisir. | There, I am following you with great pleasure. | 387:Voilà |
 
 ## Part 5 — Outro & Closing
-> Camille leads Valentin deeper into the agency corridor toward the offices. When you watch the episode, listen out for the expressions meaning 'come in' and 'must'. You'll catch them now. See you next time.
+> Camille leads Valentin deeper into the agency corridor toward the offices. When you watch the episode, listen out for the expressions meaning 'come in' and 'must'. You'll catch them now. See you next time!
 - **Closing**: `valentin`: *Bonne journée!*

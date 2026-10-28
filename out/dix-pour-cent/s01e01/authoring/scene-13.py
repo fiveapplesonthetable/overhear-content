@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 13
-TITLE = "Trop vieille pour le rôle  (Too Old for the Part)"
-LEVEL = "A1 — débutant"
+TITLE = 'Trop vieille pour le rôle  (Too Old for the Part)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "lea": "lucie"}
-LABELS = {"camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Nobody told Camille it was a secret. Now the new assistant finds herself next to Cécile at the washroom mirror, and she's sure Cécile already knows. She means to be kind. You'll hear it in French first; just follow the feeling of it, the words will come later."
 OPENER = "Let's go back through it. Camille opens with a friendly little question, the kind you ask a stranger at a sink."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That was a painful one, but you followed it. Listen out for the polite 'you' and those feminine endings when you watch, and I'll see you next time."
-CLOSING = ("camille", "Bonne journée!")
+OUTRO = "That was a painful one, but you followed it. Listen out for the polite 'you' and those feminine endings when you watch. See you next time!"
+CLOSING = ('camille', 'Bonne journée!')
 STORY = [
     ('camille', 'Journée difficile?', 'Tough day?', [(423, 'Journée difficile')], ''),
     ('lea', 'Pas difficile. Juste très particulière.', 'Not tough. Just very strange.', [(424, 'Pas difficile'), (424, 'très particulière')], ''),

@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | Personne ne me dit comment il faut que je sois enceinte! | Nobody tells me how I should be pregnant! | 235:personne me dit comment il faut que je sois enceinte. |
 
 ## Part 5 — Outro & Closing
-> Sofia visits ASK to share her poster before Andrea experiences a sudden contraction. When you watch the episode, listen out for the expressions meaning 'worked' and 'love'. You'll catch them now. See you next time.
+> Sofia visits ASK to share her poster before Andrea experiences a sudden contraction. When you watch the episode, listen out for the expressions meaning 'worked' and 'love'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 21
-TITLE = "Une cigarette forte  (A Strong Smoke)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une cigarette forte  (A Strong Smoke)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "herve": "marcel"}
-LABELS = {"gabriel": "Gabriel", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'herve': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "Outside the cinema on the pavement, Herve panics after watching the screening of his new auteur film. Trying to calm his racing anxiety, he borrows a heavy cigarette from the ticket clerk, which he shares with agent Gabriel. Let's listen to their conversation in French first."
 OPENER = "Let's observe how Gabriel comforts Herve during a sudden wave of panic on the pavement."
 TRANSITION = "Now let's listen to Gabriel and Herve again at full speed."
-OUTRO = "Sharing a strong cigarette in the evening breeze, Gabriel helps Herve regain his composure after a harrowing screening. When you watch the episode, listen out for the expressions meaning 'smoke' and 'cigarette'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Au revoir!")
+OUTRO = "Sharing a strong cigarette in the evening breeze, Gabriel helps Herve regain his composure after a harrowing screening. When you watch the episode, listen out for the expressions meaning 'smoke' and 'cigarette'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('gabriel', 'Tu fumes une cigarette maintenant, Hervé?', 'You smoke a cigarette now, Herve?', [], ''),
     ('herve', "J'ai taxé une clope pour déstresser.", 'I bummed a smoke to de-stress.', [], ''),

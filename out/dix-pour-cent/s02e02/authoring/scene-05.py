@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 2
 SCENE = 5
 TITLE = "Le chaman de Noémie  (Noémie's Shaman)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "mathias": "marcel", "gabriel": "theo"}
-LABELS = {"noemie": "Noémie", "mathias": "Mathias", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'mathias': 'marcel', 'gabriel': 'theo'}
+LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "Back at the ASK offices, tensions run high following Hicham's arrival as majority owner. While Gabriel checks in on his colleagues, an exhausted Mathias snaps at callers over Ramzy's departure. Worried about Mathias's health, Noémie proposes an unusual alternative cure. Let's listen to the scene in French first."
 OPENER = "Let's examine how Noémie tries to help Mathias step by step."
 TRANSITION = "Now let's listen to the scene once more from beginning to end."
-OUTRO = 'Noémie is eager to help Mathias recover from his fainting spell by introducing him to her spiritual healer. Meanwhile, Mathias quickly pivots back to business as an aspiring young actor enters his office. See you next time!'
-CLOSING = ("noemie", "Bonne journée!")
+OUTRO = 'Noémie is eager to help Mathias recover from his fainting spell by introducing him to her spiritual healer. See you next time!'
+CLOSING = ('noemie', 'Bonne journée!')
 STORY = [
     ('gabriel', 'Ça va? Vous avez mangé?', 'How are you? Have you eaten?', [(154, 'Ça va ?'), (155, 'Vous avez mangé ?')], ''),
     ('noemie', 'Oui, un soda zéro sucre.', 'Yes, a zero-sugar soda.', [(156, 'un soda zéro sucre.')], ''),

@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Non, ce n'est pas possible! | No, this is not possible! | 665:Flora ? |
 
 ## Part 5 — Outro & Closing
-> Andrea discovers that both her movie star client and her infant daughter have vanished from the apartment. When you watch the episode, listen out for the expressions meaning 'hour' and 'is it'. You'll catch them now. See you next time.
+> Andrea discovers that both her movie star client and her infant daughter have vanished from the apartment. When you watch the episode, listen out for the expressions meaning 'hour' and 'is it'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

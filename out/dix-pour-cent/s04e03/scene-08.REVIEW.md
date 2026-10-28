@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Pardon, nous sommes tous très fatigués. | Excuse us, we are all very tired. | 307:Désolé |
 
 ## Part 5 — Outro & Closing
-> Gabriel delivers a scathing toast against Elise Formain before storming back to his desk. When you watch the episode, listen out for the expressions meaning 'welcome' and 'team'. You'll catch them now. See you next time.
+> Gabriel delivers a scathing toast against Elise Formain before storming back to his desk. When you watch the episode, listen out for the expressions meaning 'welcome' and 'team'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

@@ -27,5 +27,5 @@
 | 13 | `noemie` (Noémie) | Je pars avec un effet immédiat! | I leave with immediate effect! | 814:Avec effet immédiat, donc oui, maintenant. |
 
 ## Part 5 — Outro & Closing
-> Noemie surprises Mathias with her decisive departure, breaking ties with the agency that took her for granted. When you watch the episode, listen out for the expressions meaning 'enter' and 'office'. You'll catch them now. See you next time.
+> Noemie surprises Mathias with her decisive departure, breaking ties with the agency that took her for granted. When you watch the episode, listen out for the expressions meaning 'enter' and 'office'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *Au revoir!*

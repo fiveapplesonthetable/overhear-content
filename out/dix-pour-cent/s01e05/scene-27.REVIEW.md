@@ -30,5 +30,5 @@
 | 16 | `gabriel` (Gabriel) | Didier, rappelle-moi. La prod est furieuse! | Didier, call me back. Production is furious! | 624:Didier, rappelle-moi, 625:La prod est furieuse |
 
 ## Part 5 — Outro & Closing
-> While Mathias celebrates taking control of ASK, Andréa and Gabriel have to track down two runaway movie stars. Next, Hervé comes up with a clever phone trick to make Julie Gayet pick up. See you there.
+> While Mathias celebrates taking control of ASK, Andréa and Gabriel have to track down two runaway movie stars. See you next time!
 - **Closing**: `mathias`: *Bonne soirée!*

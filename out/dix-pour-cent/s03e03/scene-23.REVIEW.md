@@ -28,5 +28,5 @@
 | 14 | `arlette` (Arlette) | Non, le bébé arrive tout de suite! | No, the baby is arriving right now! | 1317:T'es sûre |
 
 ## Part 5 — Outro & Closing
-> While Arlette confronts Andrea about her secret plan to abandon ASK, she suddenly realizes Andrea is in active labor right inside the office. When you watch the episode, listen out for the expressions meaning 'come in' and 'strained'. You'll catch them now. See you next time.
+> While Arlette confronts Andrea about her secret plan to abandon ASK, she suddenly realizes Andrea is in active labor right inside the office. When you watch the episode, listen out for the expressions meaning 'come in' and 'strained'. You'll catch them now. See you next time!
 - **Closing**: `arlette`: *Bonne journée!*

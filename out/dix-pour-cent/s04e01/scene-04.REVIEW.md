@@ -27,5 +27,5 @@
 | 13 | `vendeur` (Le vendeur) | Vous brillerez sur le tapis rouge. | You will shine on the red carpet. | 181:La Cérémonie des César |
 
 ## Part 5 — Outro & Closing
-> Finding a look that matches her playful confidence, Noemie leaves the boutique prepared to turn heads at the ceremony. When you watch the episode, listen out for the expressions meaning 'it is' and 'party'. You'll catch them now. See you next time.
+> Finding a look that matches her playful confidence, Noemie leaves the boutique prepared to turn heads at the ceremony. When you watch the episode, listen out for the expressions meaning 'it is' and 'party'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *Bonne journée!*

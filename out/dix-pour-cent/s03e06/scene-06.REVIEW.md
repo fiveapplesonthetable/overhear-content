@@ -26,5 +26,5 @@
 | 12 | `isabelle` (Isabelle) | Je travaille et je suis de garde! | I work and I am on duty! | 387:je suis de garde à l'hôpital. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the namesake. When you watch the episode, listen out for the expressions meaning 'it is' and 'question?'. You'll catch them now. See you next time.
+> That's it for this scene around the namesake. When you watch the episode, listen out for the expressions meaning 'it is' and 'question?'. You'll catch them now. See you next time!
 - **Closing**: `isabelle`: *À bientôt!*

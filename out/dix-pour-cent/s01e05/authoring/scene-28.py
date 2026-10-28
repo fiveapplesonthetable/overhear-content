@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 28
-TITLE = "Le coup de fil de Spielberg  (The Call About Spielberg)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le coup de fil de Spielberg  (The Call About Spielberg)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "joey": "marcel", "julie": "emilie"}
-LABELS = {"gabriel": "Gabriel", "joey": "JoeyStarr", "julie": "Julie"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'joey': 'marcel', 'julie': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'joey': 'JoeyStarr', 'julie': 'Julie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Julie Gayet and JoeyStarr have disappeared from the film set after their night together, and neither of them will answer their agents' calls. Back at the agency, Hervé comes up with a trick: he leaves Julie a fake voicemail claiming that the famous director Steven Spielberg is in Paris looking for a French actress. Listen to the French first, without worrying about catching every word."
 OPENER = "Let's walk through the scene line by line. First we hear the bait that makes Julie call back."
 TRANSITION = "Now let's listen to the whole scene again without interruption."
-OUTRO = "With Julie and Didier finally getting along both on and off camera, the costume drama is saved. Next, we return to Paris, where Mathias visits the studio set of Jonathan Joubert's daytime soap opera. See you there."
-CLOSING = ("julie", "Bonne journée!")
+OUTRO = 'With Julie and Didier finally getting along both on and off camera, the costume drama is saved. See you next time!'
+CLOSING = ('julie', 'Bonne journée!')
 STORY = [
     ('gabriel', 'Je veux organiser une rencontre avec Steven Spielberg, qui est à Paris.', 'I want to set up a meeting with Steven Spielberg, who is in Paris.', [(627, 'Je veux organiser une rencontre avec Steven Spielberg, qui est à Paris')], ''),
     ('gabriel', 'Il prépare un film sur la Guerre de Cent Ans.', 'He', [(628, 'Il prépare un film sur la Guerre de Cent Ans')], ''),

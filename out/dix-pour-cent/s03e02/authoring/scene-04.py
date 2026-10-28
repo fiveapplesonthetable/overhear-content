@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 4
-TITLE = "La vie ordinaire  (Ordinary Life)"
-LEVEL = "A1 — débutant"
+TITLE = 'La vie ordinaire  (Ordinary Life)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "monica": "emilie"}
-LABELS = {"gabriel": "Gabriel", "monica": "Monica"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'monica': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'monica': 'Monica'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "Inside a quiet Paris bookstore, Monica Bellucci browses quirky guides describing local romantic strolls. Craving genuine human connection away from the spotlight, she hatches a plan to attend a neighborhood apartment gathering with Gabriel. Let's listen to their conversation in French first."
 OPENER = "Let's see how Monica convinces Gabriel to accompany her on an ordinary Parisian evening."
 TRANSITION = "Now let's listen to Gabriel and Monica again at full speed."
-OUTRO = "Monica Bellucci embraces the adventure of ordinary Parisian life, stepping away from the red carpet toward a neighborhood gathering. When you watch the episode, listen out for the expressions meaning 'did you have' and 'found'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne journée!")
+OUTRO = "Monica Bellucci embraces the adventure of ordinary Parisian life, stepping away from the red carpet toward a neighborhood gathering. When you watch the episode, listen out for the expressions meaning 'did you have' and 'found'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('gabriel', 'As-tu trouvé un guide intéressant, Monica?', 'Did you find an interesting guide, Monica?', [(256, 'guide')], ''),
     ('monica', 'Ce livre propose des promenades très coquines!', 'This book suggests very playful strolls!', [(231, 'Mais si vous êtes plus hardi, il y a aussi le Paris coquin.')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 18
-TITLE = "Sur le tapis rouge  (On the Red Carpet)"
-LEVEL = "A1 — débutant"
+TITLE = 'Sur le tapis rouge  (On the Red Carpet)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "charlotte": "emilie", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"charlotte": "Charlotte", "gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'charlotte': 'emilie', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'charlotte': 'Charlotte', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At the prestigious Cesars ceremony, Charlotte Gainsbourg warmly invites Mimie Mathy onto the red carpet. As photographers clamor for photos, Gabriel steps aside so that the two actresses can share the glamorous spotlight. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "With generous warmth, Charlotte Gainsbourg and Mimie Mathy turn the red carpet into a moment of pure solidarity. When you watch the episode, listen out for the expressions meaning 'come' and 'to do'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "With generous warmth, Charlotte Gainsbourg and Mimie Mathy turn the red carpet into a moment of pure solidarity. When you watch the episode, listen out for the expressions meaning 'come' and 'to do'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('charlotte', 'Mimie, viens faire des photos avec moi!', 'Mimie, come take photos with me!', [], ''),
     ('lea', 'Tu es vraiment sûre, Charlotte?', 'Are you really sure, Charlotte?', [], ''),

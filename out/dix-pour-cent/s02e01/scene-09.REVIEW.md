@@ -29,5 +29,5 @@
 | 15 | `gabriel` (Gabriel) | On va arranger ça, on te le promet. | We are going to fix this, we promise you. | 268:on va arranger de belles façades., 269:On vous le promet. |
 
 ## Part 5 — Outro & Closing
-> Gabriel has agreed to become Virginie's public agent while Mathias represents Ramzy. next time, Mathias will try to talk some sense into Ramzy himself.
+> Gabriel has agreed to become Virginie's public agent while Mathias represents Ramzy. See you next time!
 - **Closing**: `virginie`: *À demain!*

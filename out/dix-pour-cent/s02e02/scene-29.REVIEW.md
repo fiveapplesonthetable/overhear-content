@@ -29,5 +29,5 @@
 | 15 | `mathias` (Mathias) | Le grand frisson. Allons-y, maintenant. | The big thrill. Let | 970:Le grand frisson, 971:Allons-y, maintenant |
 
 ## Part 5 — Outro & Closing
-> Mathias and Noémie share a tender romantic secret away from the pressures of the agency, heading off into the Parisian night together. Join us next time to see what happens next.
+> Mathias and Noémie share a tender romantic secret away from the pressures of the agency, heading off into the Parisian night together. See you next time!
 - **Closing**: `mathias`: *Bonne soirée!*

@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 5
 SCENE = 24
 TITLE = "L'inversion des rôles  (Swapping Roles)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hippolyte": "theo", "guy": "marcel", "vera": "emilie"}
-LABELS = {"hippolyte": "Hippolyte", "guy": "Guy", "vera": "Véra"}
+VOICES = {'narrator': 'sky', 'hippolyte': 'theo', 'guy': 'marcel', 'vera': 'emilie'}
+LABELS = {'hippolyte': 'Hippolyte', 'guy': 'Guy', 'vera': 'Véra'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "On the movie set, director Vera prepares Guy Marchand and Hippolyte Rivière for a crucial dialogue scene. When Guy struggles with his lines, Hippolyte playfully swaps roles to help him connect with the emotion. Let's listen to the scene in French first."
 OPENER = "Let's examine how the two veteran actors improvise by exchanging their lines step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "By trading roles, Guy and Hippolyte rediscover their theatrical chemistry and mutual respect. Let's review the cinema and acting vocabulary from this rehearsal. Until next time."
-CLOSING = ("guy", "Au revoir!")
+OUTRO = "By trading roles, Guy and Hippolyte rediscover their theatrical chemistry and mutual respect. Let's review the cinema and acting vocabulary from this rehearsal. See you next time!"
+CLOSING = ('guy', 'Au revoir!')
 STORY = [
     ('vera', "Silence pour une répétition s'il vous plaît!", 'Silence for a rehearsal please!', [(739, 'Silence pour une répétition !'), (740, 'Silence !')], ''),
     ('guy', "Je voulais dire... cette fille s'appelle Marianne.", 'I wanted to say... this girl is called Marianne.', [(742, 'Je voulais dire...'), (744, "Elle s'appelle Marianne.")], ''),

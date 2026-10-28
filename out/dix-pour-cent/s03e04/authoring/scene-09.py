@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 9
-TITLE = "Pas une machine  (Not a Machine)"
-LEVEL = "A1 — débutant"
+TITLE = 'Pas une machine  (Not a Machine)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "isabelle": "emilie", "assistant": "theo"}
-LABELS = {"isabelle": "Isabelle", "assistant": "L'assistant"}
+VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'assistant': 'theo'}
+LABELS = {'isabelle': 'Isabelle', 'assistant': "L'assistant"}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "Behind the video monitors, the assistant director insists on shooting one more tight take of the death scene. Exhausted after seven agonizing takes, Isabelle Huppert puts her foot down. Let's listen to their confrontation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Isabelle wins the argument with poise, standing up for both artistic craft and her own physical limits. When you watch the episode, listen out for the expressions meaning 'goes' and 'last'. You'll catch them now. See you next time."
-CLOSING = ("isabelle", "Au revoir!")
+OUTRO = "Isabelle wins the argument with poise, standing up for both artistic craft and her own physical limits. When you watch the episode, listen out for the expressions meaning 'goes' and 'last'. You'll catch them now. See you next time!"
+CLOSING = ('isabelle', 'Au revoir!')
 STORY = [
     ('assistant', 'Isabelle, on va faire une dernière prise.', 'Isabelle, we are going to do one last take.', [(650, 'Isabelle, Isabelle, Isabelle.'), (651, 'On va faire une dernière prise en plan plus serré.')], ''),
     ('assistant', "On a besoin d'un plan plus serré.", 'We need a tighter shot.', [(651, 'en plan plus serré.')], ''),

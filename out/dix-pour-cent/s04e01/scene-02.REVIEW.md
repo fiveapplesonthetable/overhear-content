@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Je me retrouve dans un piège terrible. | I find myself in a terrible trap. | 51:C'EST NAZE |
 
 ## Part 5 — Outro & Closing
-> Having endorsed a script that she has not read and that Camille considers dreadful, Andrea is trapped in her own lie. When you watch the episode, listen out for the expressions meaning 'remain' and 'magnificent'. You'll catch them now. See you next time.
+> Having endorsed a script that she has not read and that Camille considers dreadful, Andrea is trapped in her own lie. When you watch the episode, listen out for the expressions meaning 'remain' and 'magnificent'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

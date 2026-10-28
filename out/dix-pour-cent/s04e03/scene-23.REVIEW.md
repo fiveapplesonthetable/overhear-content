@@ -27,5 +27,5 @@
 | 13 | `helene` (Hélène) | Hein? José, où vas-tu donc? | Huh? Jose, where are you going? | 1027:José |
 
 ## Part 5 — Outro & Closing
-> Eager to escape an awkward morning reunion, Jose Garcia invents an errand at reception and slips out of the hotel room, leaving his bewildered companion behind. When you watch the episode, listen out for the expressions meaning 'come' and 'stay'. You'll catch them now. See you next time.
+> Eager to escape an awkward morning reunion, Jose Garcia invents an errand at reception and slips out of the hotel room, leaving his bewildered companion behind. When you watch the episode, listen out for the expressions meaning 'come' and 'stay'. You'll catch them now. See you next time!
 - **Closing**: `jose`: *À bientôt!*

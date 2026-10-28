@@ -27,5 +27,5 @@
 | 13 | `receptionniste` (Réceptionniste) | Alors, vous voulez le seize juin? | So, do you want June sixteenth? | 66:Alors..., 67:tu veux le 16 juin ? |
 
 ## Part 5 — Outro & Closing
-> The receptionist refuses to bend the rules for a celebrity client, reminding Gabriel that everyone must wait. Faced with a two-month delay, Gabriel must find another solution for Norman's role. Until next time.
+> The receptionist refuses to bend the rules for a celebrity client, reminding Gabriel that everyone must wait. Faced with a two-month delay, Gabriel must find another solution for Norman's role. See you next time!
 - **Closing**: `receptionniste`: *Au revoir, monsieur.*

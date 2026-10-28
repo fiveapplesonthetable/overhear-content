@@ -25,5 +25,5 @@
 | 11 | `sofia` (Sofia) | D'accord, je vais parler avec Julien. | All right, I am going to talk with Julien. | 258:Julien |
 
 ## Part 5 — Outro & Closing
-> Pragmatic Mathias urges Sofia to stick strictly to acting, while Gabriel encourages her to stay open to Julien Dore's musical film. Until next time!
+> Pragmatic Mathias urges Sofia to stick strictly to acting, while Gabriel encourages her to stay open to Julien Dore's musical film. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

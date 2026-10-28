@@ -29,5 +29,5 @@
 | 15 | `mathias` (Mathias) | Oui, je vais lui parler. | Yes, I | adapted |
 
 ## Part 5 — Outro & Closing
-> Mathias has one more problem to fix before Hippolyte and Camille get any closer. See you next time!!
+> Mathias has one more problem to fix before Hippolyte and Camille get any closer. See you next time!
 - **Closing**: `catherine`: *Bonne journée!*

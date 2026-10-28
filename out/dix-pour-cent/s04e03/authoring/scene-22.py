@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 22
-TITLE = "Le pacte des profiteroles  (The Profiterole Pact)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le pacte des profiteroles  (The Profiterole Pact)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "jose": "theo"}
-LABELS = {"lea": "Andréa", "jose": "José"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'jose': 'theo'}
+LABELS = {'lea': 'Andréa', 'jose': 'José'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Over late-night dessert in the hotel room, Andrea confesses that Colette left her because she always puts her actors before her family. Touched by her sorrow, Jose proposes a mutual pact to stop acting rashly and reclaim their lives, sealing the promise over a bowl of profiteroles. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Sealing their pact over profiteroles, Jose and Andrea find comforting friendship in the midst of turmoil. When you watch the episode, listen out for the expressions meaning 'news' and 'screwed up'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = "Sealing their pact over profiteroles, Jose and Andrea find comforting friendship in the midst of turmoil. When you watch the episode, listen out for the expressions meaning 'news' and 'screwed up'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('jose', 'Tu as des nouvelles de Colette?', 'Do you have any news from Colette?', [(996, 'Des nouvelles de Colette ?')], ''),
     ('lea', "J'ai tout raté, je l'ai laissée partir.", 'I ruined everything, I let her leave.', [(997, "J'ai merdé, je l'ai laissée partir")], ''),

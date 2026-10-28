@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 2
-TITLE = "Un bateau qui coule  (A Sinking Ship)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un bateau qui coule  (A Sinking Ship)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "At the ASK agency, the entire team is panicking over the impending bankruptcy following the loss of most of their talents. As tensions run high, Gabriel compares the failing agency to a famous doomed ocean liner. Let's listen to their conversation in French first."
 OPENER = "Let's explore the chaotic panic at the agency line by line."
 TRANSITION = "Now let's listen to the sinking ship comparison once more from start to finish."
-OUTRO = "That's it for this scene around a sinking ship. When you watch the episode, listen out for the expressions meaning 'to be' and 'court'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "That's it for this scene around a sinking ship. When you watch the episode, listen out for the expressions meaning 'to be' and 'court'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('mathias', "On n'est pas encore au tribunal.", 'FIXME translation', [(59, "On n'est pas encore au tribunal, de quoi vous parlez?")], ''),
     ('gabriel', 'Demandez à la mère de Camille!', 'FIXME translation', [(60, 'Demandez à la mère de Camille!')], ''),

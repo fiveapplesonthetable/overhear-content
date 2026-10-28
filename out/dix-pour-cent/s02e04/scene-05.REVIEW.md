@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | Tiens, prends un peu de café. | Here, have some coffee. | 135:Tiens... du café. |
 
 ## Part 5 — Outro & Closing
-> Andréa holds her ground against Hicham's demands, demonstrating the uneasy balance of power between the agents and their new boss. Let's review the workplace and negotiation vocabulary from this scene. Until next time.
+> Andréa holds her ground against Hicham's demands, demonstrating the uneasy balance of power between the agents and their new boss. Let's review the workplace and negotiation vocabulary from this scene. See you next time!
 - **Closing**: `gabriel`: *Au revoir!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 16
-TITLE = "Le dîner écolo  (The Eco Dinner)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le dîner écolo  (The Eco Dinner)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "In their Parisian apartment kitchen, Noemie Leclerc prepares a roast lamb for an important dinner. Seeking reassurance from Mathias, her culinary confidence is shattered when he casually mentions their guest is a militant vegetarian. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Noemie discovers at the very last second that her roasted lamb will offend their vegetarian dinner guest. When you watch the episode, listen out for the expressions meaning 'look' and 'lamb'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne soirée!")
+OUTRO = "Noemie discovers at the very last second that her roasted lamb will offend their vegetarian dinner guest. When you watch the episode, listen out for the expressions meaning 'look' and 'lamb'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('noemie', 'Regarde, cet agneau est vraiment parfait.', 'Look, this lamb is truly perfect.', [(784, "L'agneau est parfait")], ''),
     ('noemie', "Tu crois que sa femme va m'aimer?", 'Do you think his wife will like me?', [(786, "sa femme va m'aimer")], ''),

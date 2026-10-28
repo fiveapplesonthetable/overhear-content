@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 27
-TITLE = "ASK ne sera pas vendue  (ASK Will Not Be Sold)"
-LEVEL = "A1 — débutant"
+TITLE = 'ASK ne sera pas vendue  (ASK Will Not Be Sold)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "At home with Catherine, Mathias finalized his financial plan with his father-in-law and promised Catherine he would meet her at the opera tonight. The next morning at ASK, the assistants wonder why Mathias has called an urgent meeting. Now Andréa, Gabriel, and Arlette gather in Mathias's office to hear his announcement. Listen to the French first, without worrying about catching every word."
 OPENER = "Let's walk through the scene line by line. Mathias greets the other partners in his office."
 TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = 'While Mathias celebrates taking control of ASK, Andréa and Gabriel have to track down two runaway movie stars. Next, Hervé comes up with a clever phone trick to make Julie Gayet pick up. See you there.'
-CLOSING = ("mathias", "Bonne soirée!")
+OUTRO = 'While Mathias celebrates taking control of ASK, Andréa and Gabriel have to track down two runaway movie stars. See you next time!'
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('mathias', "Bonjour à tous. Merci à tous d'être venus.", 'Good morning, everyone. Thank you all for coming.', [(592, 'Bonjour à tous'), (593, "Merci à tous d'être venus")], ''),
     ('mathias', "Ce matin, j'ai une bonne nouvelle pour vous.", 'This morning, I have good news for you.', [(599, 'Je vous ai demandé de venir ce matin pour vous annoncer une bonne nouvelle')], ''),

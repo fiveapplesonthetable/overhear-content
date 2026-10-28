@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 28
-TITLE = "Les nominations aux Césars  (The César Nominations)"
-LEVEL = "A1 — débutant"
+TITLE = 'Les nominations aux Césars  (The César Nominations)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "At four in the morning inside the darkened ASK agency, the reception phone begins ringing urgently. Sophia answers to receive life-changing news from the Cesar Academy, sparking celebration and hope for ASK's future. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "The celebratory cheers echo through the agency as dawn breaks over Paris. When you watch the episode, listen out for the expressions meaning 'pick up' and 'telephone'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À demain!")
+OUTRO = "The celebratory cheers echo through the agency as dawn breaks over Paris. When you watch the episode, listen out for the expressions meaning 'pick up' and 'telephone'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('gabriel', 'Sophia, tu décroches le téléphone?', 'Sophia, will you pick up the phone?', [(1327, 'Sophia'), (1329, 'Tu décroches')], ''),
     ('sofia', 'Il est quatre heures du matin!', 'It is four in the morning!', [(1330, 'Il est 4h')], ''),

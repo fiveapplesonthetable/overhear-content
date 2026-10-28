@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | Ce serait mauvais pour nous tous, d'accord? | That would be bad for all of us, okay? | 571:Ce serait mauvais pour nous tous, d'accord |
 
 ## Part 5 — Outro & Closing
-> Andréa and Colette are officially a secret couple, while back in Paris Mathias is preparing to buy the agency with his wife's money. Remember that the French word that looks like 'sensible' actually means 'sensitive'. See you next time.
+> Andréa and Colette are officially a secret couple, while back in Paris Mathias is preparing to buy the agency with his wife's money. Remember that the French word that looks like 'sensible' actually means 'sensitive'. See you next time!
 - **Closing**: `lea`: *Au revoir!*

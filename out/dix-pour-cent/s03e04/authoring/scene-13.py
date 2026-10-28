@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 13
-TITLE = "Le showcase du conservatoire  (The Conservatory Showcase)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le showcase du conservatoire  (The Conservatory Showcase)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "valentin": "theo", "lea": "lucie"}
-LABELS = {"camille": "Camille", "valentin": "Valentin", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'valentin': 'theo', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'valentin': 'Valentin', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = 'At a drama school showcase in Paris, Camille scouts for fresh acting talent. After congratulating a student actress and handing her a business card, she bumps into a charming young actor named Valentin. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Scouting drama showcases brings unexpected encounters and exciting new connections for an ambitious talent agent. When you watch the episode, listen out for the expressions meaning 'stage' and 'splendid'. You'll catch them now. See you next time."
-CLOSING = ("valentin", "À bientôt!")
+OUTRO = "Scouting drama showcases brings unexpected encounters and exciting new connections for an ambitious talent agent. When you watch the episode, listen out for the expressions meaning 'stage' and 'splendid'. You'll catch them now. See you next time!"
+CLOSING = ('valentin', 'À bientôt!')
 STORY = [
     ('camille', 'Votre scène avec Créon était magnifique.', 'Your scene with Creon was magnificent.', [(739, 'scène avec Créon')], ''),
     ('lea', "Merci beaucoup, c'est très gentil.", 'Thank you very much, that is very kind.', [(740, "merci, c'est gentil")], ''),

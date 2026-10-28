@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 3
 SCENE = 14
 TITLE = "L'inspectrice des impôts arrive  (The Tax Inspector Arrives)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "colette": "Colette", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = 'Earlier today Andréa promised her ex-boyfriend Clément a luxury suite at Cannes if he replaced Colette within a week. Yet the moment Andréa meets Colette face to face, she has the strange feeling they have met before, and decides she can handle her after all. Listen to the French first, without worrying about catching every single word.'
 OPENER = "Let's walk through it together. After checking that the inspector doesn't mind Arlette's dog, Gabriel brings her to Andréa."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Colette is installed in her office, and Andréa has just thrown away her only safety net at the tax office. We'll find out later why Colette's face looked so familiar. See you next time!"
-CLOSING = ("colette", "Bonne soirée!")
+OUTRO = 'Colette is installed in her office, and Andréa has just thrown away her only safety net at the tax office. See you next time!'
+CLOSING = ('colette', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Andréa. Voici la dame du centre des impôts.', 'Andréa. Here is the lady from the tax office.', [(314, 'Andréa'), (315, 'Voici la dame du centre des impôts')], ''),
     ('lea', 'Bonjour. Andréa Martel.', 'Hello. Andréa Martel.', [(316, 'Bonjour. Andréa Martel')], ''),

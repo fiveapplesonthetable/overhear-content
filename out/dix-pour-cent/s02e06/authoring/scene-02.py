@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 2
-TITLE = "Tenir la boutique  (Holding the Fort)"
-LEVEL = "A1 — débutant"
+TITLE = 'Tenir la boutique  (Holding the Fort)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "arlette": "emilie", "lea": "lucie"}
-LABELS = {"herve": "Hervé", "arlette": "Arlette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'arlette': 'emilie', 'lea': 'lucie'}
+LABELS = {'herve': 'Hervé', 'arlette': 'Arlette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At the ASK offices in Paris, Arlette finishes a comforting phone call with an actress whose film missed the Cannes festival. Meanwhile, agency director Hicham organizes travel logistics and gives instructions to assistant Hervé, who must stay behind. Let's listen to their conversation in French first."
 OPENER = "Let's see how Arlette and Hicham motivate Hervé to manage the Paris office."
 TRANSITION = "Now let's listen to Arlette, Hicham, and Hervé again at full speed."
 OUTRO = 'Hervé reluctantly accepts his assignment to watch over the ASK agency while his colleagues travel south to Cannes. Arlette and Hicham ensure the office remains staffed and ready for incoming talent inquiries. See you next time!'
-CLOSING = ("herve", "À bientôt!")
+CLOSING = ('herve', 'À bientôt!')
 STORY = [
     ('arlette', 'Ne pleure pas pour Cannes, Fabienne.', 'Do not cry over Cannes, Fabienne.', [(59, 'Non, ne pleure pas, Fabienne.')], ''),
     ('arlette', "Le festival d'Angoulême est très bien aussi.", 'The Angouleme festival is very good too.', [(60, "mais le festival d'Angoulême, c'est bien aussi.")], ''),

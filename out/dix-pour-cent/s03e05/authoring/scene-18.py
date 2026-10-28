@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 18
-TITLE = "Plus de corset  (No More Brace)"
-LEVEL = "A1 — débutant"
+TITLE = 'Plus de corset  (No More Brace)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "mathias": "marcel"}
-LABELS = {"noemie": "Noémie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "In Mathias's office at ASK, Noemie reveals a wonderful personal surprise. Free at last from her medical neck brace, she shows off her restored mobility and shares a playful, affectionate exchange with Mathias. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "A moment of lighthearted relief brings Noemie and Mathias closer together amidst hectic agency life. When you watch the episode, listen out for the expressions meaning 'have not' and 'noticed'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "A moment of lighthearted relief brings Noemie and Mathias closer together amidst hectic agency life. When you watch the episode, listen out for the expressions meaning 'have not' and 'noticed'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('noemie', "Vous n'avez rien remarqué d'important?", 'Did you not notice anything important?', [(773, "n'avez même pas remarqué")], ''),
     ('mathias', "Non, qu'est-ce qui a changé?", 'No, what has changed?', [(774, 'Quoi')], ''),

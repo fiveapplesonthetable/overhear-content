@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 5
 SCENE = 20
 TITLE = "Elle n'est pas faite pour toi  (She's Not Right for You)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hippolyte": "theo", "mathias": "marcel", "catherine": "emilie"}
-LABELS = {"hippolyte": "Hippolyte", "mathias": "Mathias", "catherine": "Catherine"}
+VOICES = {'narrator': 'sky', 'hippolyte': 'theo', 'mathias': 'marcel', 'catherine': 'emilie'}
+LABELS = {'hippolyte': 'Hippolyte', 'mathias': 'Mathias', 'catherine': 'Catherine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Mathias goes down to the kitchen and catches his son Hippolyte taking bottles of wine to bring back to Camille's flat. Panicking at the thought that his son and his secret daughter are seeing each other, Mathias invents a lie to break them up. Let's listen to the scene in French first."
 OPENER = "Let's go back through the scene. Upstairs in bed, Catherine hears a noise."
 TRANSITION = "Now let's listen to the whole kitchen scene again."
-OUTRO = "Rather than tell his son the truth about Camille, Mathias tells a cruel lie that will soon come back to haunt him. Remember how French uses 'to have thirst' and 'to make fear'. See you next time."
-CLOSING = ("catherine", "À bientôt!")
+OUTRO = "Rather than tell his son the truth about Camille, Mathias tells a cruel lie that will soon come back to haunt him. Remember how French uses 'to have thirst' and 'to make fear'. See you next time!"
+CLOSING = ('catherine', 'À bientôt!')
 STORY = [
     ('catherine', "C'est quoi ça?", 'What', [(393, "C'est quoi ça")], ''),
     ('mathias', 'Reste là, je vais voir.', 'Stay there, I', [(394, 'Reste là, je vais voir')], ''),

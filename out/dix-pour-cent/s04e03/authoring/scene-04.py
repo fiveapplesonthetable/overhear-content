@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 3
 SCENE = 4
 TITLE = "Le hoquet de José  (José's Hiccups)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jose": "theo", "lea": "lucie"}
-LABELS = {"jose": "José", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'jose': 'theo', 'lea': 'lucie'}
+LABELS = {'jose': 'José', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "On the film set, actor Jose Garcia suffers an unbearable attack of hiccups that halts the shoot. Andrea steps in and uncovers the hidden romantic anxiety behind his physical distress. Let's listen to their conversation in French first."
 OPENER = "Let's explore Jose and Andrea's intimate discussion line by line."
 TRANSITION = "Now let's listen to Jose and Andrea's full conversation once again from start to finish."
-OUTRO = "That's it for this scene around jose's hiccups. When you watch the episode, listen out for the expressions meaning 'to shoot' and 'little'. You'll catch them now. See you next time."
-CLOSING = ("jose", "Au revoir!")
+OUTRO = "That's it for this scene around jose's hiccups. When you watch the episode, listen out for the expressions meaning 'to shoot' and 'little'. You'll catch them now. See you next time!"
+CLOSING = ('jose', 'Au revoir!')
 STORY = [
     ('jose', 'Je ne peux pas tourner ainsi!', 'I cannot shoot like this!', [(51, 'Je peux pas tourner')], ''),
     ('lea', "C'est seulement un petit hoquet.", 'It is only a little hiccup.', [(53, 'juste un hoquet')], ''),

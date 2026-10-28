@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 24
 TITLE = "La visite de Noémie  (Noémie's Visit)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "mathias": "marcel"}
-LABELS = {"noemie": "Noémie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "At his quiet Parisian apartment, an exhausted Mathias Barneville receives an unexpected visit from his devoted assistant Noémie. Noticing his overwhelming stress from agency battles, Noémie steps in to comfort him and ease his physical tension with a soothing massage. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
 OUTRO = "As the tension melts away under Noémie's touch, the bond between the two partners deepens outside the walls of ASK. Remember the useful French phrase for expressing regret about an unknown fact: si j'avais su. See you next time!"
-CLOSING = ("noemie", "À bientôt!")
+CLOSING = ('noemie', 'À bientôt!')
 STORY = [
     ('noemie', 'Tout va bien, Mathias?', 'Is everything going well, Mathias?', [(676, 'Tout... va bien ?')], ''),
     ('noemie', 'Je peux entrer un instant?', 'Can I come in for a moment?', [(677, 'Je peux entrer ?')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 12
-TITLE = "Line Renaud? Quelle idée!  (Line Renaud? What an Idea!)"
-LEVEL = "A1 — débutant"
+TITLE = 'Line Renaud? Quelle idée!  (Line Renaud? What an Idea!)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "camille": "emilie"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'camille': 'emilie'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Andréa swore she would win Françoise back, then made a mess of three apology messages on her voicemail. Now Gabriel walks in with a solution of his own: at lunch he offered the part to Line Renaud, the much-loved singer of the music hall. Camille, the assistant, is in the room too. Here's the scene in French first; just catch what you can."
 OPENER = "Let's go through it together. Gabriel hands Andréa a sheet of paper, and she looks at it suspiciously."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Well done: that was a fast, funny row, and you followed it. Keep your ears open, because Gabriel is about to have doubts of his own. See you next time.'
-CLOSING = ("lea", "À plus tard!")
+OUTRO = 'Well done: that was a fast, funny row, and you followed it. Keep your ears open, because Gabriel is about to have doubts of his own. See you next time!'
+CLOSING = ('lea', 'À plus tard!')
 STORY = [
     ('lea', "Oui, Gabriel? C'est quoi, ça?", 'Yes, Gabriel? What', [(360, 'Oui, Gabriel ?'), (361, "C'est quoi ça ?")], ''),
     ('gabriel', 'Line Renaud pour remplacer Françoise Fabian.', 'Line Renaud, to replace Françoise Fabian.', [(363, 'Line Renaud pour remplacer Françoise Fabian')], ''),

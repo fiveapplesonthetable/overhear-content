@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 11
-TITLE = "Un film ne meurt jamais  (A Film Never Dies)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un film ne meurt jamais  (A Film Never Dies)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "emma": "emilie"}
-LABELS = {"lea": "Andréa", "emma": "Emma"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'emma': 'emilie'}
+LABELS = {'lea': 'Andréa', 'emma': 'Emma'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "She is furious, and she's here to say so. Andréa will defend herself, make a big promise, and then try to keep it, by phone. You'll hear it all in French first. Don't worry about the details; feel the argument. Let's listen to the scene in French first."
 OPENER = "Let's go back through it. Emma comes straight in with what Françoise told her."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "A rough morning for Andréa, but you came through it fine. Next time you hear someone say they've been doing something for years, listen for that present tense. Until next time."
-CLOSING = ("lea", "Bon courage!")
+OUTRO = 'A rough morning for Andréa, but you came through it fine. See you next time!'
+CLOSING = ('lea', 'Bon courage!')
 STORY = [
     ('emma', 'Françoise a appelé. Elle dit que vous étiez odieux.', 'Françoise phoned. She says you were odious.', [(325, 'Françoise a appelé, elle dit que vous étiez odieux')], ''),
     ('lea', "C'est tellement malhonnête! Elle avait déjà pris sa décision.", "That's so dishonest! She'd already made her decision.", [(326, "C'est tellement malhonnête ! Elle avait déjà pris sa décision")], ''),

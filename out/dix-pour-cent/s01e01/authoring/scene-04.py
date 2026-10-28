@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 4
-TITLE = "Un nouveau caprice?  (Another Whim?)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un nouveau caprice?  (Another Whim?)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "camille": "emilie", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "His assistant Noémie brings drinks. Watch how he speaks to Camille in front of others, and how he speaks once the door is closed. Camille is in fact Mathias's daughter, a secret nobody at the agency knows, and he intends to keep it that way. We'll hear it in French first; relax and listen for the tone."
 OPENER = "Let's go through it. Mathias greets her in the doorway, in front of his assistant, and he is very proper about it."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Did you notice the switch from the formal 'you' to the casual one as soon as the door closed? That small change gives away a father and daughter. See you next time."
-CLOSING = ("camille", "Salut, Mathias!")
+OUTRO = "Did you notice the switch from the formal 'you' to the casual one as soon as the door closed? That small change gives away a father and daughter. See you next time!"
+CLOSING = ('camille', 'Salut, Mathias!')
 STORY = [
     ('mathias', 'Bonjour, Camille. Entrez.', 'Hello, Camille. Come in.', [(123, 'Bonjour, Camille'), (124, 'Entrez')], ''),
     ('camille', "Un café, s'il vous plaît.", 'A coffee, please.', [(125, "Un café, s'il vous plaît")], ''),

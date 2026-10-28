@@ -27,5 +27,5 @@
 | 13 | `hicham` (Hicham) | Santé, Andréa Martel! | Cheers, Andréa Martel! | 34:Andréa Martel., 35:Santé. |
 
 ## Part 5 — Outro & Closing
-> Hicham Janowski is now the majority owner of ASK. While the toast is polite, his arrival brings an ambitious and unpredictable new dynamic to the team. Join us next time to see what happens next.
+> Hicham Janowski is now the majority owner of ASK. While the toast is polite, his arrival brings an ambitious and unpredictable new dynamic to the team. See you next time!
 - **Closing**: `lea`: *À bientôt!*

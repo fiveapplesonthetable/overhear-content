@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Bonne chance pour convaincre notre ami! | Good luck convincing our friend! | 803:J'appelle Franck |
 
 ## Part 5 — Outro & Closing
-> Gabriel takes initiative to prevent top client Dany Boon from departing ASK. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time.
+> Gabriel takes initiative to prevent top client Dany Boon from departing ASK. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne journée!*

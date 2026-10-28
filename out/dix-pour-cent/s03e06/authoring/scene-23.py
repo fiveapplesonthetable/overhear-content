@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 23
-TITLE = "Avant le discours  (Before the Speech)"
-LEVEL = "A1 — débutant"
+TITLE = 'Avant le discours  (Before the Speech)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "camille": "emilie"}
-LABELS = {"hicham": "Hicham", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'camille': 'emilie'}
+LABELS = {'hicham': 'Hicham', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "Backstage at the ASK thirtieth anniversary gala, Camille alerts Hicham that the packed room is waiting for him. Noticing his nervous tension, she brings him a glass of water before he steps up to the microphone. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "In the wings of the grand anniversary hall, Camille steadies Hicham before he steps into the spotlight. When you watch the episode, listen out for the expressions meaning 'world' and 'waits for'. You'll catch them now. See you next time."
-CLOSING = ("hicham", "À demain!")
+OUTRO = "In the wings of the grand anniversary hall, Camille steadies Hicham before he steps into the spotlight. When you watch the episode, listen out for the expressions meaning 'world' and 'waits for'. You'll catch them now. See you next time!"
+CLOSING = ('hicham', 'À demain!')
 STORY = [
     ('camille', 'Hicham, tout le monde vous attend là-bas.', 'Hicham, everyone is waiting for you over there.', [(1219, 'Il est tout là-bas')], ''),
     ('hicham', 'La salle entière est déjà bien remplie?', 'Is the entire hall already well filled?', [(1219, 'là-bas')], ''),

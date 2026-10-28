@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 4
 SCENE = 24
 TITLE = "La percée du Yi-king  (The I Ching's Breakthrough)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "mathias": "marcel"}
-LABELS = {"noemie": "Noémie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "Inside Mathias's office at ASK, Noemie consults the ancient Chinese text of the I Ching for guidance. She reads aloud hexagram forty-three, symbolizing the Breakthrough, urging Mathias to act decisively. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "The ancient wisdom of the I Ching strengthens Mathias's resolve to move against Hicham without delay. When you watch the episode, listen out for the expressions meaning 'brilliant' and 'sign'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "The ancient wisdom of the I Ching strengthens Mathias's resolve to move against Hicham without delay. When you watch the episode, listen out for the expressions meaning 'brilliant' and 'sign'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('noemie', "Mathias, c'est absolument génial.", 'Mathias, this is absolutely brilliant.', [(1289, "Mathias, c'est génial.")], ''),
     ('noemie', "C'est le signe de la percée.", 'It is the sign of the breakthrough.', [(1290, "C'est la percée.")], ''),

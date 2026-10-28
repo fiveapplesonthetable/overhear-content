@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 3
 SCENE = 7
 TITLE = "L'arrivée d'Élise  (Élise's Arrival)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Behind closed doors at ASK, Andrea confronts Hicham about Elise Formain's presence in the building. Hicham reveals that Elise is joining the agency with her roster, forcing a high-stakes partners' vote. Let's listen to their conversation in French first."
 OPENER = "Let's explore Andrea, Hicham, and Gabriel's tense boardroom confrontation line by line."
 TRANSITION = "Now let's listen to the partners' crucial vote once more from start to finish."
-OUTRO = "That's it for this scene around elise's arrival. When you watch the episode, listen out for the expressions meaning 'is doing' and 'offices?'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne journée!")
+OUTRO = "That's it for this scene around elise's arrival. When you watch the episode, listen out for the expressions meaning 'is doing' and 'offices?'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('lea', 'Que fait Élise Formain dans nos bureaux?', 'What is Elise Formain doing in our offices?', [(204, "Qu'est-ce qu'Elise Formain fait ici ?")], ''),
     ('lea', 'Fermez la porte avant cette réunion urgente.', 'Close the door before this urgent meeting.', [(205, "La porte, s'il vous plaît.")], ''),

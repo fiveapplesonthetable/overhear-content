@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 22
-TITLE = "Une infirmière de province  (A Provincial Nurse)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une infirmière de province  (A Provincial Nurse)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "corinne": "emilie", "lea": "lucie"}
-LABELS = {"corinne": "Corinne", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'corinne': 'emilie', 'lea': 'lucie'}
+LABELS = {'corinne': 'Corinne', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "In the screening room, Andrea and the producers review the film footage featuring Corinne. Corinne explains her role as a nurse and shares a deeply poignant hospital memory, moving the entire room and making Andrea proud. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Corinne's raw emotional honesty saves the day for ASK, turning a potential disaster into a triumphant celebration. When you watch the episode, listen out for the expressions meaning 'first' and 'film'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Corinne's raw emotional honesty saves the day for ASK, turning a potential disaster into a triumphant celebration. When you watch the episode, listen out for the expressions meaning 'first' and 'film'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'Le premier montage du film est prêt.', 'The first cut of the film is ready.', [(1104, "C'est un premier montage")], ''),
     ('corinne', "Je joue le rôle d'une infirmière.", 'I play the role of a nurse.', [(1162, "le rôle de l'infirmière")], ''),

@@ -28,5 +28,5 @@
 | 14 | `lea` (Andréa) | On ne peut plus bosser avec lui. | We can no longer work with him. | 1176:on peut plus bosser ensemble |
 
 ## Part 5 — Outro & Closing
-> Driven to despair by Hicham's authoritarian behavior, Andrea reveals her revolutionary plan to quit ASK and build an agency of their own with Gabriel. When you watch the episode, listen out for the expressions meaning 'smothers' and 'oppresses'. You'll catch them now. See you next time.
+> Driven to despair by Hicham's authoritarian behavior, Andrea reveals her revolutionary plan to quit ASK and build an agency of their own with Gabriel. When you watch the episode, listen out for the expressions meaning 'smothers' and 'oppresses'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

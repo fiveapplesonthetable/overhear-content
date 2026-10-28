@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Je dois appeler Camille au secours. | I must call Camille for help. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around morning panic. When you watch the episode, listen out for the expressions meaning 'seat' and 'baby'. You'll catch them now. See you next time.
+> That's it for this scene around morning panic. When you watch the episode, listen out for the expressions meaning 'seat' and 'baby'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

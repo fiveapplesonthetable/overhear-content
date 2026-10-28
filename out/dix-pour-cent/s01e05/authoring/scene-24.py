@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 24
-TITLE = "Un insecte! Au feu!  (An Insect! Fire!)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un insecte! Au feu!  (An Insect! Fire!)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "samir": "theo", "joey": "marcel", "julie": "emilie"}
-LABELS = {"samir": "Samir", "joey": "JoeyStarr", "julie": "Julie"}
+VOICES = {'narrator': 'sky', 'samir': 'theo', 'joey': 'marcel', 'julie': 'emilie'}
+LABELS = {'samir': 'Samir', 'joey': 'JoeyStarr', 'julie': 'Julie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Now director Samir brings them into a candlelit barn filled with hay to shoot their big romantic scene, though they are still very tense. Here it is in French first. Let the words flow by and catch what you can. Let's listen to the scene in French first."
 OPENER = "Let's go through it line by line. Inside the dim barn, Samir shows the two stars where to sit in the hay."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "It took a beetle and a small barn fire, but Julie and JoeyStarr finally have real chemistry on screen. Remember the cry for 'fire!': literally 'to the fire!'. See you next time."
-CLOSING = ("joey", "À bientôt!")
+OUTRO = "It took a beetle and a small barn fire, but Julie and JoeyStarr finally have real chemistry on screen. Remember the cry for 'fire!': literally 'to the fire!'. See you next time!"
+CLOSING = ('joey', 'À bientôt!')
 STORY = [
     ('samir', "Julie, tu arrives par là et tu t'assois à côté de lui.", 'Julie, you come in this way and sit down next to him.', [(514, "Julie, tu arrives par là et tu t'assois à côté de lui")], ''),
     ('samir', "Et ensuite vous jouez la scène, d'accord?", 'And then you play the scene, okay?', [(515, "Et ensuite vous jouez la scène, d'accord")], ''),

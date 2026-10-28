@@ -30,5 +30,5 @@
 | 16 | `mathias` (Mathias) | J'ai quelque chose à te dire. | I have something to tell you. | 739:J'ai quelque chose à te dire |
 
 ## Part 5 — Outro & Closing
-> Mathias's secret is finally out in the open, setting up an explosive season finale. That concludes Episode 5 of Dix pour cent — see you in Episode 6, where François Berléand takes the stage.
+> Mathias's secret is finally out in the open, setting up an explosive season finale. That concludes Episode 5 of Dix pour cent. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

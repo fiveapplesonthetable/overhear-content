@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 1
 SCENE = 12
 TITLE = "L'homme des bois  (The Wild Man)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jean": "theo", "lea": "lucie"}
-LABELS = {"jean": "Jean", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
+LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "Andrea visits the estate of star client Jean Dujardin after his family raises urgent concerns. Still deeply immersed in his wilderness movie role, Jean is camping outside in the woods and refusing all modern comforts. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Andrea tracks down Jean Dujardin camping outside in his garden. When you watch the episode, listen out for the expressions meaning 'was necessary' and 'travel'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Andrea tracks down Jean Dujardin camping outside in his garden. When you watch the episode, listen out for the expressions meaning 'was necessary' and 'travel'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'Jean? Tu es là?', 'Jean? Are you there?', [(293, 'Jean ?')], ''),
     ('jean', 'Hein? Eh, Andréa!', 'Huh? Hey, Andrea!', [(294, 'Hein ?'), (295, 'Eh, Andréa !')], ''),

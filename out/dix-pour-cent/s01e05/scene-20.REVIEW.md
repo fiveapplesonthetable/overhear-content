@@ -29,5 +29,5 @@
 | 15 | `hippolyte` (Hippolyte) | Tu l'as vue avec lui? D'accord. | You saw her with him? Okay. | 413:Tu l'as vue avec lui, 415:D'accord |
 
 ## Part 5 — Outro & Closing
-> Rather than tell his son the truth about Camille, Mathias tells a cruel lie that will soon come back to haunt him. Remember how French uses 'to have thirst' and 'to make fear'. See you next time.
+> Rather than tell his son the truth about Camille, Mathias tells a cruel lie that will soon come back to haunt him. Remember how French uses 'to have thirst' and 'to make fear'. See you next time!
 - **Closing**: `catherine`: *À bientôt!*

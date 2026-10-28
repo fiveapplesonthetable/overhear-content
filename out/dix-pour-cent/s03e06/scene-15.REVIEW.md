@@ -27,5 +27,5 @@
 | 13 | `renard` (Renard) | Je garde le secret absolu. | I keep absolute secrecy. | 636:Je peux compter sur toi |
 
 ## Part 5 — Outro & Closing
-> Mathias secures Renard's cooperation for the secret arrival of the American executives. When you watch the episode, listen out for the expressions meaning 'passes' and 'mission'. You'll catch them now. See you next time.
+> Mathias secures Renard's cooperation for the secret arrival of the American executives. When you watch the episode, listen out for the expressions meaning 'passes' and 'mission'. You'll catch them now. See you next time!
 - **Closing**: `renard`: *Bonne journée!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 10
-TITLE = "Le garde du corps  (The Jewelry Bodyguard)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le garde du corps  (The Jewelry Bodyguard)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "renard": "theo", "lea": "lucie"}
-LABELS = {"renard": "Renard", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'renard': 'theo', 'lea': 'lucie'}
+LABELS = {'renard': 'Renard', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Outside Juliette Binoche's hotel room in Cannes, Andréa encounters an unyielding private security guard. Tasked with protecting multi-million euro festival jewels, the guard refuses to let anyone pass without strict clearance. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
 OUTRO = "Andréa encounters rigorous security outside Juliette Binoche's suite. After radioing for clearance, the taciturn bodyguard Renard grants Andréa access to her star. See you next time!"
-CLOSING = ("renard", "Bonne soirée!")
+CLOSING = ('renard', 'Bonne soirée!')
 STORY = [
     ('lea', "J'en déduis que les bijoux Chopard sont arrivés. Bonjour.", 'I deduce that the Chopard jewelry has arrived. Hello.', [(213, "J'en déduis que les bijoux Chopard sont arrivés. Bonjour.")], ''),
     ('renard', 'Qui êtes-vous, madame?', 'Who are you, madam?', [(217, 'Qui êtes-vous, madame ?')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 4
 SCENE = 20
-TITLE = "Séduction au bureau  (Hicham Flirts)"
-LEVEL = "A1 — débutant"
+TITLE = 'Séduction au bureau  (Hicham Flirts)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = 'In her office at ASK, Andréa is visited by new boss Hicham Janowski. When Hicham tries to charm her, Andréa makes her personal boundaries crystal clear and orders him out of her office. Listen to the scene in French first.'
 OPENER = "Let's examine how Andréa firmly rejects the flirtatious advances of Hicham."
 TRANSITION = "Now let's listen to the sharp confrontation once more at natural pace."
 OUTRO = 'Andréa sets crystal-clear personal and professional boundaries with Hicham in her office. Listen to the tense dialogue once more in French. See you next time!'
-CLOSING = ("hicham", "Au revoir!")
+CLOSING = ('hicham', 'Au revoir!')
 STORY = [
     ('hicham', "Bonjour Andréa, c'est l'heure de notre réunion.", 'Hello Andréa, it is time for our meeting.', [(561, "C'est l'heure de l'interview.")], ''),
     ('lea', 'Non, vous êtes en avance. Revenez plus tard.', 'No, you are early. Come back later.', [(562, 'Non, vous êtes en avance. Revenez plus tard, je travaille.')], ''),

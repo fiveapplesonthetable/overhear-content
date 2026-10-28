@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 4
 SCENE = 15
-TITLE = "La manifestation  (Anti-Hartman Protest)"
-LEVEL = "A1 — débutant"
+TITLE = 'La manifestation  (Anti-Hartman Protest)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "sacha": "theo", "lea": "lucie"}
-LABELS = {"camille": "Camille", "sacha": "Sacha", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'sacha': 'theo', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'sacha': 'Sacha', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "Outside the radio building, an angry crowd of conservative demonstrators gathers to protest against Sacha Hartman's movie. Learning that Mathias and Isabelle are on their way, Camille coordinates with Andréa to hurry the director into a waiting cab. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = "Thanks to Camille's quick reflexes and Andréa's warning, Sacha slips safely into a taxi before Mathias and Isabelle arrive. Listen to the French scene once more. Join us next time to see what happens next."
-CLOSING = ("camille", "Au revoir!")
+OUTRO = "Thanks to Camille's quick reflexes and Andréa's warning, Sacha slips safely into a taxi before Mathias and Isabelle arrive. Listen to the French scene once more. See you next time!"
+CLOSING = ('camille', 'Au revoir!')
 STORY = [
     ('camille', 'Non, Camille. Vous faites erreur.', 'No, Camille. You are mistaken.', [(397, 'Non, Camille')], ''),
     ('camille', 'Mathias vient ici avec Isabelle Adjani.', 'Mathias is coming here with Isabelle Adjani.', [(400, 'avec Isabelle Adjani au studio radio')], ''),

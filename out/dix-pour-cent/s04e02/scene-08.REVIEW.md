@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | Imagine le magnifique appartement immense pour nous! | Imagine the huge magnificent apartment for us! | 447:Imagine, on pourrait se prendre un appartement immense. |
 
 ## Part 5 — Outro & Closing
-> Camille weighs the emotional complexity of officially recognizing Mathias as her father. When you watch the episode, listen out for the expressions meaning 'warned' and 'neighbors'. You'll catch them now. See you next time.
+> Camille weighs the emotional complexity of officially recognizing Mathias as her father. When you watch the episode, listen out for the expressions meaning 'warned' and 'neighbors'. You'll catch them now. See you next time!
 - **Closing**: `herve`: *Bonne journée!*

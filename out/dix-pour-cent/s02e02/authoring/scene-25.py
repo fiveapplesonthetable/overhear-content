@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 25
-TITLE = "Moment de tendresse  (A Tender Moment)"
-LEVEL = "A1 — débutant"
+TITLE = 'Moment de tendresse  (A Tender Moment)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "In Gabriel's office at ASK, Sofia Leprince shows him a video recording of a musical play. As they watch her performance together, Gabriel is deeply moved by her singing and acting talent. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel and Sofia share a tender moment watching her tape."
 TRANSITION = "Now let's listen to the whole discussion again without stopping."
-OUTRO = "Gabriel has watched Sofia's performance tape and is captivated by her talent and charm. Their bond deepens as Sofia realizes Gabriel truly believes in her. Join us next time to see what happens next."
-CLOSING = ("sofia", "Bonne journée!")
+OUTRO = "Gabriel has watched Sofia's performance tape and is captivated by her talent and charm. Their bond deepens as Sofia realizes Gabriel truly believes in her. See you next time!"
+CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('gabriel', "Un prisonnier qui chante, c'est très original.", 'A singing prisoner, that is very original.', [(836, 'Un prisonnier qui chante. Très original.')], ''),
     ('sofia', 'Ne faites pas attention à la robe.', 'Do not pay attention to the dress.', [(837, 'Ne faites pas attention à la robe,')], ''),

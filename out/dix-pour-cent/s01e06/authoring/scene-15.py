@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 6
 SCENE = 15
 TITLE = "L'audition de Sofia  (Sofia's Audition)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "At the dance and casting studio, Sofia arrives for her big callback in Luc Besson's action film. Gabriel urges her to stay natural and relaxed, but when the casting director asks for the action scene, Sofia launches into an over-the-top combat performance that takes everyone by surprise. Let's listen to the scene in French first."
 OPENER = "Now let's walk through the audition scene line by line and examine the key French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Sofia gave the audition everything she had, but her intense kung-fu styling was not what Constance had in mind. Remember the phrase for starting right away: all of a continuation. Until next time.'
-CLOSING = ("gabriel", "À demain!")
+OUTRO = 'Sofia gave the audition everything she had, but her intense kung-fu styling was not what Constance had in mind. Remember the phrase for starting right away: all of a continuation. See you next time!'
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('gabriel', "Ne t'inquiète pas, sois naturelle.", 'Don', [(424, 'On y va')], ''),
     ('gabriel', 'Sofia, on y va?', 'Sofia, shall we go?', [(423, 'Sofia'), (424, 'On y va')], ''),

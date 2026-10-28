@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 25
-TITLE = "La trahison dévoilée  (The Betrayal Revealed)"
-LEVEL = "A1 — débutant"
+TITLE = 'La trahison dévoilée  (The Betrayal Revealed)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "virginie": "emilie"}
-LABELS = {"gabriel": "Gabriel", "virginie": "Virginie"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'virginie': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'virginie': 'Virginie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "At a Parisian cafe terrace, Gabriel meets actress Virginie Efira while waiting for their director. When the director stands them up, Gabriel decides to reveal an uncomfortable truth about Mathias. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel reveals Mathias's secret betrayal to Virginie."
 TRANSITION = "Now let's listen to the whole discussion again without stopping."
 OUTRO = "Gabriel has exposed the secret financial deal behind the film. Virginie now holds the proof of Mathias's betrayal and Ramzy's complicity. See you next time!"
-CLOSING = ("virginie", "Bonne soirée!")
+CLOSING = ('virginie', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Il ne vient pas?', 'Is he not coming?', [(763, 'Il ne vient pas ?')], ''),
     ('virginie', 'Il est où, ton réalisateur?', 'Where is your director?', [(764, 'Il est où, ton réalisateur ?')], ''),

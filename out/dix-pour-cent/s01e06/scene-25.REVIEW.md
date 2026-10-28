@@ -30,5 +30,5 @@
 | 16 | `francois` (François) | Bravo! Bravo, le directeur! | Bravo! Well done, director! | 676:Bravo |
 
 ## Part 5 — Outro & Closing
-> Colette gave Christophe the artistic inspiration he needed, while keeping him firmly at arm's length. Join us next time to see what happens next.
+> Colette gave Christophe the artistic inspiration he needed, while keeping him firmly at arm's length. See you next time!
 - **Closing**: `colette`: *À demain!*

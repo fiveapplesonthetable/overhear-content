@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 4
 SCENE = 5
 TITLE = "Un week-end d'escalade  (A Climbing Weekend)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "noemie": "emilie"}
-LABELS = {"herve": "Hervé", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'noemie': 'emilie'}
+LABELS = {'herve': 'Hervé', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "In Mathias's office, Mathias has just talked the young Internet comedy star Augustin into considering Audrey Fleurot for his first film, swearing that Audrey loves his online videos. Meanwhile, out at the assistants' desks, Noémie is rummaging through a drawer in pain after a very unusual weekend, while Camille and Hervé are hard at work. We'll hear the scene in French first; don't worry about catching every word."
 OPENER = "Let's go through it line by line. Camille sees Noémie searching through a desk drawer."
 TRANSITION = "Now let's listen to the whole scene once more."
-OUTRO = "So Noémie is sore from rock climbing, and still thinks Camille is Christophe Lambert's daughter. Listen out for how French says 'my back hurts' and 'ten years older'. See you next time."
-CLOSING = ("herve", "À bientôt!")
+OUTRO = "So Noémie is sore from rock climbing, and still thinks Camille is Christophe Lambert's daughter. Listen out for how French says 'my back hurts' and 'ten years older'. See you next time!"
+CLOSING = ('herve', 'À bientôt!')
 STORY = [
     ('herve', 'Vous cherchez quelque chose?', 'Are you looking for something?', [(126, 'Vous cherchez quelque chose ?')], ''),
     ('noemie', "Oui, un médicament. J'ai mal au dos.", 'Yes, some medicine. My back hurts.', [(127, 'Oui'), (128, 'mal'), (128, 'dos')], ''),

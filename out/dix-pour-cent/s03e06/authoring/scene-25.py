@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 6
 SCENE = 25
 TITLE = "Faire l'agent ailleurs  (An Agent Elsewhere)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "camille": "emilie"}
-LABELS = {"mathias": "Mathias", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "In the hallway outside the gala, Camille catches up with Mathias as he prepares to leave ASK. Though she chooses to remain at the agency, Mathias warmly encourages her before Noemie runs out to join him. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Outside the gala, Camille bids an affectionate farewell to her father as Noemie runs to join his side. When you watch the episode, listen out for the expressions meaning 'knew' and 'plan'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne journée!")
+OUTRO = "Outside the gala, Camille bids an affectionate farewell to her father as Noemie runs to join his side. When you watch the episode, listen out for the expressions meaning 'knew' and 'plan'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne journée!')
 STORY = [
     ('camille', 'Je ne savais rien de ce plan secret.', 'I knew nothing about this secret plan.', [(1291, 'Je savais pas')], ''),
     ('camille', "Je n'étais pas au courant, je te promets!", 'I was not in the loop, I promise you!', [(1292, "J'étais pas au courant, je te promets")], ''),

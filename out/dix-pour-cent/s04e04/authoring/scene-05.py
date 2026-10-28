@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 4
 SCENE = 5
 TITLE = "La vocation de Sandrine  (Sandrine's Calling)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sandrine": "emilie", "gabriel": "theo"}
-LABELS = {"sandrine": "Sandrine", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sandrine': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sandrine': 'Sandrine', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Gabriel urges Sandrine Kiberlain to star in a prestigious new period biopic by Daniele Thompson. But Sandrine is tired of crying on screen and secretly dreams of doing stand-up comedy instead. Let's listen to their conversation in French first."
 OPENER = "Let's explore Sandrine and Gabriel's humorous debate line by line."
 TRANSITION = "Now let's listen to Sandrine and Gabriel's complete discussion once again."
-OUTRO = "That's it for this scene around sandrine's calling. When you watch the episode, listen out for the expressions meaning 'read' and 'great'. You'll catch them now. See you next time."
-CLOSING = ("sandrine", "Bonne soirée!")
+OUTRO = "That's it for this scene around sandrine's calling. When you watch the episode, listen out for the expressions meaning 'read' and 'great'. You'll catch them now. See you next time!"
+CLOSING = ('sandrine', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Sandrine, tu as lu ce grand scénario?', 'Sandrine, did you read this great script?', [(159, 'Sandrine, bonjour')], ''),
     ('sandrine', 'Je ne veux plus de drames tristes.', 'I do not want sad dramas anymore.', [(170, "je n'arrête pas de penser")], ''),

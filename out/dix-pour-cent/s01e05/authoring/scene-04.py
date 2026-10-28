@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 4
-TITLE = "Tu as le trac?  (Have You Got Stage Fright?)"
-LEVEL = "A1 — débutant"
+TITLE = 'Tu as le trac?  (Have You Got Stage Fright?)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "joey": "marcel", "assistant": "theo"}
-LABELS = {"sofia": "Sofia", "joey": "JoeyStarr", "assistant": "L'assistant"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'joey': 'marcel', 'assistant': 'theo'}
+LABELS = {'sofia': 'Sofia', 'joey': 'JoeyStarr', 'assistant': "L'assistant"}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Back in Paris, Camille has just turned twenty-three, and Mathias handed her a work envelope without remembering her birthday at all. Meanwhile, out in the countryside on the chateau film set, Sofia has arrived for her big day: a two-line part in the eighteenth-century costume drama opposite JoeyStarr and Julie Gayet. We'll hear the scene in French first; don't worry about catching every word."
 OPENER = "Let's walk through it line by line. Sofia is in her eighteenth-century costume, talking excitedly in the dressing room."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Sofia has rehearsed her two lines with JoeyStarr himself, while Julie Gayet is losing patience on the set. Listen out for that useful phrase meaning 'to have stage fright'. See you next time."
-CLOSING = ("sofia", "À bientôt!")
+OUTRO = "Sofia has rehearsed her two lines with JoeyStarr himself, while Julie Gayet is losing patience on the set. Listen out for that useful phrase meaning 'to have stage fright'. See you next time!"
+CLOSING = ('sofia', 'À bientôt!')
 STORY = [
     ('sofia', "J'ai une scène avec JoeyStarr!", 'I have a scene with JoeyStarr!', [(68, "J'ai une scène avec JoeyStarr.")], ''),
     ('sofia', "J'ai deux répliques, mais elles sont assez longues.", 'I have two lines, but they', [(69, 'répliques'), (70, 'Deux, mais elles sont assez longues.')], ''),

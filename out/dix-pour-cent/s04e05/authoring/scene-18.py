@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 18
-TITLE = "La passerelle Debilly  (The Debilly Footbridge)"
-LEVEL = "A1 — débutant"
+TITLE = 'La passerelle Debilly  (The Debilly Footbridge)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sigourney": "emilie", "vendeur": "theo"}
-LABELS = {"sigourney": "Sigourney", "vendeur": "Le vendeur"}
+VOICES = {'narrator': 'sky', 'sigourney': 'emilie', 'vendeur': 'theo'}
+LABELS = {'sigourney': 'Sigourney', 'vendeur': 'Le vendeur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Sigourney Weaver takes a walk across the famous Debilly footbridge in Paris with the Eiffel Tower behind her. While waiting for her secret meeting, she stops to chat with a souvenir seller on the bridge. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Holding her new miniature Eiffel Tower, Sigourney walks forward to greet her guest on the bridge. When you watch the episode, listen out for the expressions meaning 'footbridge' and 'view'. You'll catch them now. See you next time."
-CLOSING = ("vendeur", "Bonne journée à Paris!")
+OUTRO = "Holding her new miniature Eiffel Tower, Sigourney walks forward to greet her guest on the bridge. When you watch the episode, listen out for the expressions meaning 'footbridge' and 'view'. You'll catch them now. See you next time!"
+CLOSING = ('vendeur', 'Bonne journée à Paris!')
 STORY = [
     ('sigourney', 'Voici la passerelle Debilly à Paris.', 'Here is the Debilly footbridge in Paris.', [(743, 'DEBILY')], ''),
     ('sigourney', 'Quelle vue magnifique sur la Seine!', 'What a magnificent view over the Seine!', [], ''),

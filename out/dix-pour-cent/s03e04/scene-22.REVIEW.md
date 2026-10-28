@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | La France entière me remerciera. | All of France will thank me. | 1213:me remerciera |
 
 ## Part 5 — Outro & Closing
-> Camille's determination wins out over Herve's skepticism, securing Samy a spot with Camille Valentini. When you watch the episode, listen out for the expressions meaning 'instinct' and 'level'. You'll catch them now. See you next time.
+> Camille's determination wins out over Herve's skepticism, securing Samy a spot with Camille Valentini. When you watch the episode, listen out for the expressions meaning 'instinct' and 'level'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *Bonne journée!*

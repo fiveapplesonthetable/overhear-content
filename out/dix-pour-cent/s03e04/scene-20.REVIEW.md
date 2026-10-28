@@ -27,5 +27,5 @@
 | 13 | `hicham` (Hicham) | J'ai besoin de temps pour digérer cela. | I need time to process that. | 965:important pour elle |
 
 ## Part 5 — Outro & Closing
-> In the hospital room, Andrea and Hicham confront the delicate boundaries between biological fatherhood and family law. When you watch the episode, listen out for the expressions meaning 'thanks' and 'little'. You'll catch them now. See you next time.
+> In the hospital room, Andrea and Hicham confront the delicate boundaries between biological fatherhood and family law. When you watch the episode, listen out for the expressions meaning 'thanks' and 'little'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

@@ -25,5 +25,5 @@
 | 11 | `lea` (Andréa) | Paris nous attend. | Paris is waiting for us. | adapted |
 
 ## Part 5 — Outro & Closing
-> And that's it for this scene. When you watch the episode, listen out for the exchange around the night out, and for the words meaning 'left' and 'think'. You'll catch them now. See you next time.
+> And that's it for this scene. When you watch the episode, listen out for the exchange around the night out, and for the words meaning 'left' and 'think'. You'll catch them now. See you next time!
 - **Closing**: `sigourney`: *Au revoir.*

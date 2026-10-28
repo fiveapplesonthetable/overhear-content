@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 10
-TITLE = "La dispersion  (Overdiversification)"
-LEVEL = "A1 — débutant"
+TITLE = 'La dispersion  (Overdiversification)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"mathias": "Mathias", "sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'mathias': 'Mathias', 'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In Gabriel's office, cautious agent Mathias questions Sofia about her meeting with singer Julien Dore. Mathias warns her to focus on acting alone, while Gabriel urges her to stay curious and hear Julien's offer. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Pragmatic Mathias urges Sofia to stick strictly to acting, while Gabriel encourages her to stay open to Julien Dore's musical film. Until next time!"
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = "Pragmatic Mathias urges Sofia to stick strictly to acting, while Gabriel encourages her to stay open to Julien Dore's musical film. See you next time!"
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('mathias', 'Pourquoi tu parles avec Julien Doré?', 'Why are you talking with Julien Dore?', [(245, 'avec Julien Doré')], ''),
     ('sofia', 'Julien cherche une chanteuse pour son film.', 'Julien is looking for a singer for his film.', [(246, 'Julien cherche une chanteuse pour son film.')], ''),

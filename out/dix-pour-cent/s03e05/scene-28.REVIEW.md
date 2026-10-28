@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | ASK, c'est mon agence. | ASK is my agency. | 1090:Aiska, c'est chez moi |
 
 ## Part 5 — Outro & Closing
-> Mathias recognizes that Hicham's heartbreak creates the perfect opening to regain command of ASK. When you watch the episode, listen out for the expressions meaning 'are doing' and 'calm'. You'll catch them now. See you next time.
+> Mathias recognizes that Hicham's heartbreak creates the perfect opening to regain command of ASK. When you watch the episode, listen out for the expressions meaning 'are doing' and 'calm'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

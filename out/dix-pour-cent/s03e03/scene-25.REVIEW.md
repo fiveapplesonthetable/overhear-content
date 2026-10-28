@@ -28,5 +28,5 @@
 | 14 | `camille` (Camille) | Alors, laisse-moi t'aider maintenant. | Then let me help you now. | 1388:je nettoie |
 
 ## Part 5 — Outro & Closing
-> After Andrea welcomes her newborn daughter, Mathias quietly cleans the office floor in the dead of night, joined by his daughter Camille in a poignant moment of unity. When you watch the episode, listen out for the expressions meaning 'hold it' and 'embrace'. You'll catch them now. See you next time.
+> After Andrea welcomes her newborn daughter, Mathias quietly cleans the office floor in the dead of night, joined by his daughter Camille in a poignant moment of unity. When you watch the episode, listen out for the expressions meaning 'hold it' and 'embrace'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

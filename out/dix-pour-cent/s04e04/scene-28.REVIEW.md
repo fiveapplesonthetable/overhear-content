@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Courage, arrivons vite à l'hôpital! | Courage, let us arrive quickly at the hospital! | 1286:Taxi ! |
 
 ## Part 5 — Outro & Closing
-> Terrified by the news of Mathias's heart attack, Camille and Noemie flag down a taxi in the street and race to the hospital, determined to support him in his battle to survive. When you watch the episode, listen out for the expressions meaning 'taxi' and 'stop'. You'll catch them now. See you next time.
+> Terrified by the news of Mathias's heart attack, Camille and Noemie flag down a taxi in the street and race to the hospital, determined to support him in his battle to survive. When you watch the episode, listen out for the expressions meaning 'taxi' and 'stop'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *Au revoir!*

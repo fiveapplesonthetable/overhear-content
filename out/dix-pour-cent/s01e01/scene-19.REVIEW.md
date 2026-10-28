@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s01/e01.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "camille": "emilie", "gabriel": "theo"}`
-- **Labels**: `{"camille": "Camille", "gabriel": "Gabriel"}`
+- **Voices**: `{"narrator": "sky", "gabriel": "theo", "camille": "emilie"}`
+- **Labels**: `{"gabriel": "Gabriel", "camille": "Camille"}`
 
 ## Part 1 — Intro
 > Mathias won't tell Andréa, so he certainly won't tell Camille. Her boss's only advice is one word: improvise. So Camille goes to the assistants' desks, where Noémie, Mathias's loyal assistant, is sitting alone. Listen to the whole scene in French first, and don't worry if some of it slips past you.

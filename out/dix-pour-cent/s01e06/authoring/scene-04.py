@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 6
 SCENE = 4
 TITLE = "Je ne sais pas nager  (I Can't Swim)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "francois": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"francois": "François", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'francois': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'francois': 'François', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Back at the agency, the crisis over Dom Juan is escalating. François Berléand is furious about the avant-garde rehearsal and demands that Andréa fix the conflict with director Christophe Bel at once. Let's listen to the scene in French first."
 OPENER = "Let's examine the conversation step by step to see how François reveals his secret."
 TRANSITION = "Now let's listen to the entire dialogue once more from beginning to end."
 OUTRO = 'François has finally told Andréa the truth: he cannot swim, which is why he refuses to dive into the pool. Now Andréa must find a way to save the play without exposing her client to public embarrassment. See you next time!'
-CLOSING = ("francois", "Au revoir!")
+CLOSING = ('francois', 'Au revoir!')
 STORY = [
     ('lea', "Qu'est-ce qu'elle a de si mauvais, cette scène?", 'What is so bad about that scene?', [(92, "Qu'est-ce qu'elle a de si mauvais, cette scène ?")], ''),
     ('francois', "N'essaie pas de comprendre, règle vite ce problème.", 'Do not try to understand, fix this problem quickly.', [(93, 'Je ne vous demande pas de comprendre, je vous demande de régler ça.')], ''),

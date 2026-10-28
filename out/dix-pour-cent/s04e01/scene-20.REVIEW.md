@@ -27,5 +27,5 @@
 | 13 | `sofia` (Sofia) | Je refuse de rester assise ici! | I refuse to sit here! | 938:Je n'ai pas gagné, alors |
 
 ## Part 5 — Outro & Closing
-> Devastated by losing the Cesar, Sophia flees the grand auditorium in heartbreak. When you watch the episode, listen out for the expressions meaning 'seats' and 'middle'. You'll catch them now. See you next time.
+> Devastated by losing the Cesar, Sophia flees the grand auditorium in heartbreak. When you watch the episode, listen out for the expressions meaning 'seats' and 'middle'. You'll catch them now. See you next time!
 - **Closing**: `sofia`: *À bientôt!*

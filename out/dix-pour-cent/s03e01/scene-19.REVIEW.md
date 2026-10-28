@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Ce bébé est notre plus belle aventure. | This baby is our most beautiful adventure. | 667:Le truc le plus fou que j'ai jamais fait de ma vie, c'est grâce à toi. |
 
 ## Part 5 — Outro & Closing
-> Andrea and Colette navigate the emotional and practical complexities of expecting a baby together. When you watch the episode, listen out for the expressions meaning 'look at' and 'crib'. You'll catch them now. See you next time.
+> Andrea and Colette navigate the emotional and practical complexities of expecting a baby together. When you watch the episode, listen out for the expressions meaning 'look at' and 'crib'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

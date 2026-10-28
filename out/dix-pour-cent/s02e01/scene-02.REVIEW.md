@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Virginie, crois-moi, c'est la meilleure chose à faire. | Virginie, believe me, it is the best thing to do. | 55:Crois-moi, 56:c'est la meilleure chose à faire. |
 
 ## Part 5 — Outro & Closing
-> Virginie is terrified of losing both her partner and her career over the scandal. Mathias urges honesty, but in the morning the press will already have the story. Join us next time to see what happens next.
+> Virginie is terrified of losing both her partner and her career over the scandal. Mathias urges honesty, but in the morning the press will already have the story. See you next time!
 - **Closing**: `mathias`: *À bientôt!*

@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s01/e05.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "noemie": "emilie", "mathias": "marcel"}`
-- **Labels**: `{"noemie": "Noémie", "mathias": "Mathias"}`
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}`
+- **Labels**: `{"mathias": "Mathias", "noemie": "Noémie"}`
 
 ## Part 1 — Intro
 > Mathias steps out to the assistants' desks to try to save his client with a bouquet of flowers, just as the actor Zinedine Soualem walks in unannounced. Listen to the French first, without worrying about catching every word.
@@ -29,5 +29,5 @@
 | 15 | `mathias` (Mathias) | Ma mère va être très surprise dans son salon! | My mother is going to be very surprised in her salon! | 201:dans le salon de ma mère |
 
 ## Part 5 — Outro & Closing
-> Camille knows just how much the women in her mother's hairdressing salon love Doctor Ryan. Meanwhile, out in the countryside at the chateau, Andréa and Gabriel have a plan of their own for Julie Gayet and JoeyStarr. See you next time!
+> Camille knows just how much the women in her mother's hairdressing salon love Doctor Ryan. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

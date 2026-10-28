@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 6
 SCENE = 24
 TITLE = "La cérémonie d'ouverture  (The Opening Ceremony)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "juliette": "emilie", "gabriel": "theo"}
-LABELS = {"juliette": "Juliette", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'juliette': 'emilie', 'gabriel': 'theo'}
+LABELS = {'juliette': 'Juliette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At the grand opening of the Cannes Film Festival, Juliette Binoche walks onto the stage in her torn evening dress. With warmth, humor, and passion, she delivers an inspiring address celebrating women in cinema. Let's listen to the scene in French first."
 OPENER = "Let's examine how Juliette Binoche wins over the audience step by step during the opening ceremony."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = 'Turning a potential wardrobe disaster into an unforgettable speech, Juliette Binoche electrifies the audience and officially launches the festival. Until next time! See you next time!'
-CLOSING = ("gabriel", "À demain!")
+OUTRO = 'Turning a potential wardrobe disaster into an unforgettable speech, Juliette Binoche electrifies the audience and officially launches the festival. See you next time!'
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('gabriel', 'Regarde Juliette monter sur scène!', 'Look at Juliette going on stage!', [(664, 'monter sur scène')], ''),
     ('gabriel', 'Sa robe de soirée est déchirée!', 'Her evening dress is torn!', [(679, 'sur ma robe')], ''),

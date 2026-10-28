@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 3
 SCENE = 1
-TITLE = "Une chance pour Samy  (A Chance for Samy)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une chance pour Samy  (A Chance for Samy)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gerard": "theo", "samy": "marcel"}
-LABELS = {"gerard": "Gérard", "samy": "Samy"}
+VOICES = {'narrator': 'sky', 'gerard': 'theo', 'samy': 'marcel'}
+LABELS = {'gerard': 'Gérard', 'samy': 'Samy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At a Parisian cafe, agent Mathias Barneville meets his star client Gerard Lanvin to discuss shooting dates. Noticing that their ambitious young waiter Samy dreams of acting, Gerard suggests giving him a screen test for a bodyguard role. Let's listen to the scene in French first."
 OPENER = "Let's observe as Gerard and Mathias offer Samy a screen test for the movie."
 TRANSITION = "Now let's listen to Samy, Gerard, and Mathias again at full speed."
-OUTRO = "Samy rushes to fetch his resume and headshots, thrilled by the sudden opportunity offered by Gerard Lanvin. When you watch the episode, listen out for the expressions meaning 'come' and 'minute'. You'll catch them now. See you next time."
-CLOSING = ("gerard", "À demain!")
+OUTRO = "Samy rushes to fetch his resume and headshots, thrilled by the sudden opportunity offered by Gerard Lanvin. When you watch the episode, listen out for the expressions meaning 'come' and 'minute'. You'll catch them now. See you next time!"
+CLOSING = ('gerard', 'À demain!')
 STORY = [
     ('gerard', 'Samy, viens voir une minute.', 'Samy, come see for a minute.', [(65, 'Samy !'), (66, 'Viens voir.')], ''),
     ('samy', "Oui, monsieur Barneville, j'arrive.", 'Yes, Mr. Barneville, I am coming.', [(67, 'Yes.')], ''),

@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 3
 SCENE = 13
 TITLE = "La visite imprévue de José  (José's Unexpected Visit)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "jose": "theo"}
-LABELS = {"lea": "Andréa", "jose": "José"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'jose': 'theo'}
+LABELS = {'lea': 'Andréa', 'jose': 'José'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Late at night in her apartment, Andrea Martel worries about Colette's sudden silence. Her anxious thoughts are shattered when actor Jose Garcia knocks loudly at her door in high spirits. Let's listen to their chaotic encounter in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Andrea manages to steer Jose Garcia into her living room without waking baby Flora. When you watch the episode, listen out for the expressions meaning 'open' and 'door'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "Andrea manages to steer Jose Garcia into her living room without waking baby Flora. When you watch the episode, listen out for the expressions meaning 'open' and 'door'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('jose', "Andréa! Ouvre la porte, c'est moi!", 'Andrea! Open the door, it is me!', [(541, 'Andréa !'), (555, "C'est José !")], ''),
     ('lea', "José? Qu'est-ce que tu fais là?", 'Jose? What are you doing here?', [(540, 'Ah, José'), (542, "Qu'est-ce que tu fais là ?")], ''),

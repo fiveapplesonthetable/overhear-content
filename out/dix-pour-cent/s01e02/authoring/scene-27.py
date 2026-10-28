@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 27
-TITLE = "Pourquoi pas les deux?  (Why Not Both?)"
-LEVEL = "A1 — débutant"
+TITLE = 'Pourquoi pas les deux?  (Why Not Both?)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabor": "marcel", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabor": "Gabor", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabor': 'marcel', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabor': 'Gabor', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Now, side by side for once, they corner Gabor and his producer Emma with a bold idea. Here's the scene in French first. Don't chase every word; just follow the mood. Let's listen to the scene in French first."
 OPENER = "Let's go through it slowly. Andréa opens with a question that sounds simple, but changes everything."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = "Two rival agents, one bold idea, and a toast nobody understands. Keep the trick with 'why not' plus a verb; it's a lovely way to make a suggestion. See you next time!"
-CLOSING = ("lea", "À bientôt!")
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('lea', 'Pourquoi ne pas prendre les deux?', 'Why not take them both?', [(750, 'Pourquoi ne pas prendre les deux')], ''),
     ('gabor', 'Les deux?', 'Both of them?', [], ''),

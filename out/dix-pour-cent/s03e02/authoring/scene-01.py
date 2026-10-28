@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 1
-TITLE = "Le point tutelle  (The Check-In)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le point tutelle  (The Check-In)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "In Gabriel's office at ASK, supervisory agent Andrea Martel conducts a formal weekly check-in on his recovery. Inspecting his office furniture, Andrea discovers a hidden backlog of urgent client mail, including a request from superstar Monica Bellucci. Let's listen to the scene in French first."
 OPENER = "Let's observe as Andrea confronts Gabriel about the neglected client files."
 TRANSITION = "Now let's listen to Andrea and Gabriel again at full speed."
-OUTRO = "Andrea pushes Gabriel to face his responsibilities, ensuring that star client Monica Bellucci receives prompt agency attention. When you watch the episode, listen out for the expressions meaning 'come' and 'meeting'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Andrea pushes Gabriel to face his responsibilities, ensuring that star client Monica Bellucci receives prompt agency attention. When you watch the episode, listen out for the expressions meaning 'come' and 'meeting'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'Je viens pour notre point tutelle hebdomadaire.', 'I come for our weekly check-in.', [(1, "Ok, je viens pour un point tutelle. T'en es où aujourd'hui ?")], ''),
     ('gabriel', 'Tout va bien, je remonte la pente.', 'Everything is fine, I am getting back on track.', [(7, 'Voilà, je remonte la pente, je travaille.')], ''),

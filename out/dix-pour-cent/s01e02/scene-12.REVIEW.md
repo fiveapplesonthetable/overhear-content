@@ -28,5 +28,5 @@
 | 14 | `camille` (Camille) | C'est qui, Line Renaud? | Who | 383:C'est qui, Line Renaud ? |
 
 ## Part 5 — Outro & Closing
-> Well done: that was a fast, funny row, and you followed it. Keep your ears open, because Gabriel is about to have doubts of his own. See you next time.
+> Well done: that was a fast, funny row, and you followed it. Keep your ears open, because Gabriel is about to have doubts of his own. See you next time!
 - **Closing**: `lea`: *À plus tard!*

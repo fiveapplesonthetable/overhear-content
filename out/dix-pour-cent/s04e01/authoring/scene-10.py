@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 10
-TITLE = "La crèche parentale  (The Cooperative Daycare)"
-LEVEL = "A1 — débutant"
+TITLE = 'La crèche parentale  (The Cooperative Daycare)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "colette": "emilie", "lea": "lucie"}
-LABELS = {"colette": "Colette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
+LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "At the cooperative daycare center Les Coccinelles, Andrea rushes in late to join Colette for an intake interview. Expecting a standard childcare facility, Andrea is stunned to discover that parents must take turns cooking meals, changing diapers, and cleaning rooms. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Andrea agrees to the cooperative daycare chores so that Colette can finally return to work. When you watch the episode, listen out for the expressions meaning 'sorry' and 'been'. You'll catch them now. See you next time."
-CLOSING = ("colette", "À bientôt!")
+OUTRO = "Andrea agrees to the cooperative daycare chores so that Colette can finally return to work. When you watch the episode, listen out for the expressions meaning 'sorry' and 'been'. You'll catch them now. See you next time!"
+CLOSING = ('colette', 'À bientôt!')
 STORY = [
     ('lea', "Pardon Colette, j'ai été retenue au travail.", 'Sorry Colette, I was held up at work.', [(514, "Désolée, j'ai été retenue au travail.")], ''),
     ('colette', 'Cette crèche parentale demande beaucoup de coopération.', 'This parent daycare requires a lot of cooperation.', [(517, "la crèche Les Coccinelles, c'est avant tout la coopération.")], ''),

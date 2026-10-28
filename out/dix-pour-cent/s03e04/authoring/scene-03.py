@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 4
 SCENE = 3
 TITLE = "L'avertissement de Charles  (Charles's Warning)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "charles": "theo"}
-LABELS = {"mathias": "Mathias", "charles": "Charles"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'charles': 'theo'}
+LABELS = {'mathias': 'Mathias', 'charles': 'Charles'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "At the Paris courthouse, attorney Charles Hirsch asks his longtime friend Mathias Barneville to meet on urgent business. Risking professional ethics, Charles discreetly warns Mathias that internal collaborators are secretly preparing to abandon ASK. Let's listen to the scene in French first."
 OPENER = "Let's observe as Charles gives Mathias a confidential warning about his agency."
 TRANSITION = "Now let's listen to Charles and Mathias again at full speed."
-OUTRO = "Armed with Charles's warning, Mathias realizes that Andrea Martel and her allies are quietly organizing a mutiny. When you watch the episode, listen out for the expressions meaning 'sorry' and 'to come'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À bientôt!")
+OUTRO = "Armed with Charles's warning, Mathias realizes that Andrea Martel and her allies are quietly organizing a mutiny. When you watch the episode, listen out for the expressions meaning 'sorry' and 'to come'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À bientôt!')
 STORY = [
     ('charles', 'Désolé de te faire venir ici.', 'Sorry to make you come here.', [(153, "Désolé de t'avoir fait venir ici")], ''),
     ('mathias', "Je t'en prie, je comprends parfaitement.", 'Please, I understand perfectly.', [(155, "Je t'en prie.")], ''),

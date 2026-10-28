@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 21
 TITLE = "L'entretien de Léopoldine  (Léopoldine's Interview)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "leopoldine": "emilie", "hicham": "marcel", "gabriel": "theo"}
-LABELS = {"leopoldine": "Léopoldine", "hicham": "Hicham", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'leopoldine': 'emilie', 'hicham': 'marcel', 'gabriel': 'theo'}
+LABELS = {'leopoldine': 'Léopoldine', 'hicham': 'Hicham', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "Inside Hicham's executive office, Gabriel and Hicham interview prospective assistant Leopoldine Schneck. The energetic candidate presents her cinema degree and event planning experience, hoping to land the coveted spot at ASK. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = 'Leopoldine leaves the office having made a memorable impression on both partners. Notice how the near future is formed with aller followed by an infinitive: nous allons reflechir. Until next time.'
-CLOSING = ("hicham", "À demain!")
+OUTRO = 'Leopoldine leaves the office having made a memorable impression on both partners. Notice how the near future is formed with aller followed by an infinitive: nous allons reflechir. See you next time!'
+CLOSING = ('hicham', 'À demain!')
 STORY = [
     ('hicham', 'Faites entrer mademoiselle Léopoldine Schneck!', 'Send in Miss Leopoldine Schneck!', [(582, '-Faites-la entrer.')], ''),
     ('gabriel', 'Bonjour, parlez-nous un peu de vous.', 'Hello, tell us a bit about yourself.', [(585, 'Parlez-nous de vous.')], ''),

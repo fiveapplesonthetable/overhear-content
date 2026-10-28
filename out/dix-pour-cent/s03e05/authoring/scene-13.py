@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 13
-TITLE = "La répétition intime  (The Intimate Rehearsal)"
-LEVEL = "A1 — débutant"
+TITLE = 'La répétition intime  (The Intimate Rehearsal)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "valentin": "theo"}
-LABELS = {"camille": "Camille", "valentin": "Valentin"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'valentin': 'theo'}
+LABELS = {'camille': 'Camille', 'valentin': 'Valentin'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "In the quiet of the agency office, Camille Valentini rehearses an audition scene with Valentin. When Valentin launches into an intense, shouting performance, Camille stops him to explain the nuance of film acting. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Coaching an actor who is also a boyfriend proves delicate for Camille. When you watch the episode, listen out for the expressions meaning 'must' and 'to leave'. You'll catch them now. See you next time."
-CLOSING = ("camille", "Au revoir!")
+OUTRO = "Coaching an actor who is also a boyfriend proves delicate for Camille. When you watch the episode, listen out for the expressions meaning 'must' and 'to leave'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'Au revoir!')
 STORY = [
     ('valentin', 'Tu dois partir immédiatement là-bas!', 'You must leave over there immediately!', [(408, 'Faut que tu ailles là-bas')], ''),
     ('valentin', "C'est une très grande chance pour toi.", 'It is a very big opportunity for you.', [(410, "C'est une grande chance")], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 5
-TITLE = "Le châle vert  (The Green Shawl)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le châle vert  (The Green Shawl)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "lea": "lucie"}
-LABELS = {"camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "But at the office she's all business again, with twenty-four hours to win back Françoise Fabian. Then an old client of Andréa's, an actress called Rebecca Vialle whom nobody has hired for years, turns up without an appointment. Camille tries to help her, and finds out she has made a mistake of her own. First the scene in French; you don't need every word."
 OPENER = "Let's go through it. Camille starts by talking to the actress waiting at her desk, very politely."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Poor Camille: a kind heart for Rebecca, and a green shawl for Françoise. If you followed the polite 'you' between the two women, you're doing really well. Until next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "Poor Camille: a kind heart for Rebecca, and a green shawl for Françoise. If you followed the polite 'you' between the two women, you're doing really well. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('camille', 'Je vais voir si elle peut vous recevoir.', 'I', [(200, 'Je vais voir si elle peut vous recevoir')], ''),
     ('camille', 'Andréa! Une de vos actrices est là, Rebecca Vialle.', 'Andréa! One of your actresses is here, Rebecca Vialle.', [(203, 'Andréa'), (204, 'Une de vos actrices est là, Rebecca Vialle')], ''),

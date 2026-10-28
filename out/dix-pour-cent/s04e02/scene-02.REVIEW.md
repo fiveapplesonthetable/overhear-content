@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Battez-vous pour chaque contrat sans faiblir. | Fight for each contract without faltering. | 87:Montrez plus d'assurance |
 
 ## Part 5 — Outro & Closing
-> Realizing that the agency's survival depends on holding onto its remaining stars, Andrea keeps her team focused and motivated. When you watch the episode, listen out for the expressions meaning 'former' and 'talents'. You'll catch them now. See you next time.
+> Realizing that the agency's survival depends on holding onto its remaining stars, Andrea keeps her team focused and motivated. When you watch the episode, listen out for the expressions meaning 'former' and 'talents'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

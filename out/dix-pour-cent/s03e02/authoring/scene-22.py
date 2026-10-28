@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 2
 SCENE = 22
 TITLE = "Tout nu à l'écran  (Completely Naked on Screen)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "herve": "marcel"}
-LABELS = {"gabriel": "Gabriel", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'herve': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "Standing outside the cinema doors, Herve explains why he rushed out of the preview screening room in absolute dismay. To his horror, the art-house director eliminated every single scene where Herve was wearing clothes. Let's listen to their conversation in French first."
 OPENER = "Let's see how Herve confides his deepest artistic humiliation to an encouraging Gabriel."
 TRANSITION = "Now let's listen to Herve and Gabriel again at normal speed."
-OUTRO = "Reassured by Gabriel's praise for his artistic courage, Herve prepares to face the critics and the after-party buffet. When you watch the episode, listen out for the expressions meaning 'for being' and 'gone out'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À demain!")
+OUTRO = "Reassured by Gabriel's praise for his artistic courage, Herve prepares to face the critics and the after-party buffet. When you watch the episode, listen out for the expressions meaning 'for being' and 'gone out'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('herve', "Pardon d'être sorti de la salle.", 'Sorry for leaving the screening room.', [(910, 'Pardon, je suis sorti de la salle')], ''),
     ('gabriel', "Ce n'est pas grave du tout.", 'It is no big deal at all.', [(910, "c'est pas parce que le film était pas bien")], ''),

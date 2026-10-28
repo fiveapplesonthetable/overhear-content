@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 5
 SCENE = 23
 TITLE = "La lettre d'Hicham  (Hicham's Letter)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "colette": "emilie", "lea": "lucie"}
-LABELS = {"colette": "Colette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
+LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "Returning home after resolving the film crisis, Andrea finds Colette holding a letter from Hicham addressed to the family court judge. In the letter, Hicham officially waives his parental claim so that Colette can legitimately become Flora's recognized second parent. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "With a single generous legal letter, Hicham cements Andrea and Colette's family, bringing peace to their coparenting journey. When you watch the episode, listen out for the expressions meaning 'worked out' and 'wonderful'. You'll catch them now. See you next time."
-CLOSING = ("colette", "Au revoir!")
+OUTRO = "With a single generous legal letter, Hicham cements Andrea and Colette's family, bringing peace to their coparenting journey. When you watch the episode, listen out for the expressions meaning 'worked out' and 'wonderful'. You'll catch them now. See you next time!"
+CLOSING = ('colette', 'Au revoir!')
 STORY = [
     ('lea', "Tout s'est arrangé avec Béatrice Dalle!", 'Everything worked out with Beatrice Dalle!', [(989, 'bien passé avec Béatrice')], ''),
     ('colette', "C'est formidable, mais regarde cette lettre.", 'That is wonderful, but look at this letter.', [(991, "lettre d'Hicham")], ''),

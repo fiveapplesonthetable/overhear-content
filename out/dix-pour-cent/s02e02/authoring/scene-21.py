@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 21
-TITLE = "Visite surprise de Christophe Lambert  (Surprise Visit from Christophe Lambert)"
-LEVEL = "A1 — débutant"
+TITLE = 'Visite surprise de Christophe Lambert  (Surprise Visit from Christophe Lambert)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "christophe": "theo", "noemie": "emilie", "mathias": "marcel"}
-LABELS = {"christophe": "Christophe", "noemie": "Noémie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'christophe': 'theo', 'noemie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'christophe': 'Christophe', 'noemie': 'Noémie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "Celebrated actor Christophe Lambert pays an unexpected visit to the ASK agency. Receptionist and assistant Noémie Leclerc is starstruck and eagerly asks for a commemorative photograph before Mathias whisks him into an office. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = 'Christophe Lambert charms the ASK office before heading off to read his new movie script. Remember the classic phrase for asking permission: je peux followed by an infinitive. Join us next time to see what happens next.'
-CLOSING = ("christophe", "À bientôt!")
+OUTRO = 'Christophe Lambert charms the ASK office before heading off to read his new movie script. Remember the classic phrase for asking permission: je peux followed by an infinitive. See you next time!'
+CLOSING = ('christophe', 'À bientôt!')
 STORY = [
     ('noemie', "Oh mon Dieu, c'est Christophe Lambert!", 'Oh my goodness, it is Christophe Lambert!', [(718, 'Oh mon Dieu')], ''),
     ('christophe', 'Bonjour Noémie! Comment tu vas?', 'Hello Noémie! How are you doing?', [(714, 'Noémie ! Comment tu vas ?')], ''),

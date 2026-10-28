@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 3
 SCENE = 12
 TITLE = "Elvis à l'agence  (Elvis at the Agency)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "sofia": "emilie", "elvis": "theo"}
-LABELS = {"hicham": "Hicham", "sofia": "Sofia", "elvis": "Elvis"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'sofia': 'emilie', 'elvis': 'theo'}
+LABELS = {'hicham': 'Hicham', 'sofia': 'Sofia', 'elvis': 'Elvis'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "At the ASK reception desk, majority shareholder Hicham Janowski arrives with his young son Elvis. After introducing Elvis to Sofia and Camille, Hicham generously offers tickets to a big football match. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = 'Hicham introduces his son Elvis to the agency staff and generously hands out match tickets. Meanwhile, Camille and Sofia bond over their shared professional aspirations in the agency. Join us next time to see what happens next.'
-CLOSING = ("sofia", "À demain!")
+OUTRO = 'Hicham introduces his son Elvis to the agency staff and generously hands out match tickets. See you next time!'
+CLOSING = ('sofia', 'À demain!')
 STORY = [
     ('hicham', "Voilà Sofia, elle est à l'accueil.", 'Here is Sofia, she is at reception.', [(284, "Voilà. Ici c'est Sofia, elle est à l'accueil.")], ''),
     ('sofia', "Bonjour! Tout va très bien aujourd'hui.", 'Hello! Everything is going very well today.', [(285, 'Tout va bien ?'), (285, 'Très bien.')], ''),

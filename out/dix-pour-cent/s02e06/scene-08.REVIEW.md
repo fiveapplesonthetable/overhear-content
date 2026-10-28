@@ -26,5 +26,5 @@
 | 12 | `herve` (Hervé) | Je reste ici pour garder l'agence. | I stay here to look after the agency. | 168:C'est juste que je ne vais pas à Cannes. |
 
 ## Part 5 — Outro & Closing
-> Hervé contends with an eccentric writer while holding the fort at ASK as his colleagues pack their bags for the festival. Until next time! See you next time!
+> Hervé contends with an eccentric writer while holding the fort at ASK as his colleagues pack their bags for the festival. See you next time!
 - **Closing**: `herve`: *Au revoir!*

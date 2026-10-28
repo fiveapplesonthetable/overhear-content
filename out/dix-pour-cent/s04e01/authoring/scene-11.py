@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 11
-TITLE = "Le oui de Xavier Beauvois  (Xavier Beauvois Says Yes)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le oui de Xavier Beauvois  (Xavier Beauvois Says Yes)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "colette": "emilie", "lea": "lucie"}
-LABELS = {"colette": "Colette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
+LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "Andrea receives an urgent phone call from Colette while navigating her hectic workday. Colette shares exhilarating news: renowned filmmaker Xavier Beauvois has officially greenlit her project, giving the couple cause for joyous celebration. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Colette's professional success brings joy and excitement to the couple's hectic day. When you watch the episode, listen out for the expressions meaning 'said' and 'true'. You'll catch them now. See you next time."
-CLOSING = ("colette", "Au revoir!")
+OUTRO = "Colette's professional success brings joy and excitement to the couple's hectic day. When you watch the episode, listen out for the expressions meaning 'said' and 'true'. You'll catch them now. See you next time!"
+CLOSING = ('colette', 'Au revoir!')
 STORY = [
     ('colette', 'Andréa, Xavier Beauvois a dit oui!', 'Andrea, Xavier Beauvois said yes!', [(643, 'Xavier Beauvois a dit oui.')], ''),
     ('lea', "Ce n'est pas vrai! C'est génial!", 'That is not true! That is amazing!', [(644, "C'est pas vrai ! C'est génial.")], ''),

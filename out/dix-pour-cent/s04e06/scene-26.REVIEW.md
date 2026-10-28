@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Une nouvelle page commence. | A new page begins. | 1041:AGENCE SAMUEL KERR |
 
 ## Part 5 — Outro & Closing
-> Before closing the doors forever, Andrea and Gabriel pause with deep respect before the ASK logo, proud of their shared history and ready for the future. When you watch the episode, listen out for the expressions meaning 'stop' and 'instant'. You'll catch them now. See you next time.
+> Before closing the doors forever, Andrea and Gabriel pause with deep respect before the ASK logo, proud of their shared history and ready for the future. When you watch the episode, listen out for the expressions meaning 'stop' and 'instant'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Au revoir!*

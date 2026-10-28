@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s01/e02.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "francoise": "emilie", "mathias": "marcel"}`
-- **Labels**: `{"francoise": "Françoise", "mathias": "Mathias"}`
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "francoise": "emilie"}`
+- **Labels**: `{"mathias": "Mathias", "francoise": "Françoise"}`
 
 ## Part 1 — Intro
 > At the Père-Lachaise cemetery the agents bicker in whispers, because Françoise Fabian and Line Renaud both want the same part. Then, at the evening tribute, both great ladies speak about Samuel, and we follow Françoise. As always, the French comes first; let it carry you, word for word doesn't matter.
@@ -31,5 +31,5 @@
 | 17 | `mathias` (Mathias) | Tu disais que c'était notre chanson. | You used to say it was our song. | 748:Tu disais que c'était |
 
 ## Part 5 — Outro & Closing
-> That's the end of this scene. When you watch it, listen for the back-to-front way of saying 'we miss you'; both Françoise and Line use it. Until next time.
+> That's the end of this scene. When you watch it, listen for the back-to-front way of saying 'we miss you'; both Françoise and Line use it. See you next time!
 - **Closing**: `francoise`: *Bonne journée!*

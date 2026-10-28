@@ -27,5 +27,5 @@
 | 13 | `elise` (Élise) | Prépare-toi à une sacrée surprise. | Prepare yourself for quite a surprise. | 1035:Tu m'en sers un |
 
 ## Part 5 — Outro & Closing
-> Elise's sudden arrival late at night sets the stage for an unexpected corporate confrontation. When you watch the episode, listen out for the expressions meaning 'been' and 'exhausting'. You'll catch them now. See you next time.
+> Elise's sudden arrival late at night sets the stage for an unexpected corporate confrontation. When you watch the episode, listen out for the expressions meaning 'been' and 'exhausting'. You'll catch them now. See you next time!
 - **Closing**: `elise`: *Au revoir!*

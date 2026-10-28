@@ -30,5 +30,5 @@
 | 16 | `camille` (Camille) | Non, rien. C'est pour Andréa. | No, nothing. It | 65:Non, rien, 67:C'est pour Andréa |
 
 ## Part 5 — Outro & Closing
-> Mathias has completely forgotten Camille's twenty-third birthday, and Colette — watching from down the corridor — notices the strange tension between them as she investigates his file. See you next time.
+> Mathias has completely forgotten Camille's twenty-third birthday, and Colette — watching from down the corridor — notices the strange tension between them as she investigates his file. See you next time!
 - **Closing**: `camille`: *Bonne journée!*

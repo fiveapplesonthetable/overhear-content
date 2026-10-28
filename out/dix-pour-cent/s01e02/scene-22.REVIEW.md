@@ -31,5 +31,5 @@
 | 17 | `helene` (Hélène) | Oh, oui. Tout le monde veut la place de Samuel. | Oh, yes. Everyone wants Samuel | 657:Oh, oui |
 
 ## Part 5 — Outro & Closing
-> That's the end of this scene. When you watch it, listen for the polite question with the verb first, the one that leaves Mathias speechless. See you next time.
+> That's the end of this scene. When you watch it, listen for the polite question with the verb first, the one that leaves Mathias speechless. See you next time!
 - **Closing**: `helene`: *Bonsoir, Mathias.*

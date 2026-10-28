@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Tu es vraiment un ami formidable! | You are truly a wonderful friend! | adapted |
 
 ## Part 5 — Outro & Closing
-> Gabriel secures a promise from Andrea to head home early, showing how deep friendship endures beneath agency rivalries. When you watch the episode, listen out for the expressions meaning 'drinking glass' and 'drinking water'. You'll catch them now. See you next time.
+> Gabriel secures a promise from Andrea to head home early, showing how deep friendship endures beneath agency rivalries. When you watch the episode, listen out for the expressions meaning 'drinking glass' and 'drinking water'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À demain!*

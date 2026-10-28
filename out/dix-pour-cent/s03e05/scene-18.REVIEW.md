@@ -27,5 +27,5 @@
 | 13 | `noemie` (Noémie) | Si cela peut vous faire plaisir! | If that can bring you pleasure! | 782:si ça vous excite |
 
 ## Part 5 — Outro & Closing
-> A moment of lighthearted relief brings Noemie and Mathias closer together amidst hectic agency life. When you watch the episode, listen out for the expressions meaning 'have not' and 'noticed'. You'll catch them now. See you next time.
+> A moment of lighthearted relief brings Noemie and Mathias closer together amidst hectic agency life. When you watch the episode, listen out for the expressions meaning 'have not' and 'noticed'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

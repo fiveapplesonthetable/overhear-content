@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 11
-TITLE = "Clément aux impôts  (Clément at the Tax Office)"
-LEVEL = "A1 — débutant"
+TITLE = 'Clément aux impôts  (Clément at the Tax Office)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "clement": "theo", "lea": "lucie"}
-LABELS = {"clement": "Clément", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'clement': 'theo', 'lea': 'lucie'}
+LABELS = {'clement': 'Clément', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "An old ex-boyfriend of hers, Clément, works there now, and she hasn't seen him in ten years. She's hoping old feelings, or a few cinema perks, will buy the agency some help. We'll hear their conversation in French first; don't worry about catching every word."
 OPENER = "Let's walk through it together. Andréa walks into Clément's office with her warmest smile."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'Andréa has her deal: one week of being polite to Colette Brancillon, and the audit problem should vanish. See you next time!'
-CLOSING = ("lea", "À bientôt!")
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('lea', 'Clément, ça fait plaisir de te voir.', 'Clément, it', [(215, 'Clément, ça fait plaisir de te voir')], ''),
     ('clement', 'Andréa. Ça fait combien de temps? Dix ans?', 'Andréa. How long has it been? Ten years?', [(216, 'Andréa'), (217, 'Ça fait combien de temps'), (218, 'Dix')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 14
-TITLE = "Panique sur le plateau américain  (Panic on the American Set)"
-LEVEL = "A1 — débutant"
+TITLE = 'Panique sur le plateau américain  (Panic on the American Set)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "isabelle": "emilie", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "isabelle": "Isabelle", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'isabelle': 'emilie', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'isabelle': 'Isabelle', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = 'On the bustling American movie set in Paris, star actress Isabelle Huppert and agent Mathias race against time. Disaster strikes when co-star Ben Stiller refuses to leave his trailer after script revisions, threatening the entire evening schedule. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Creative egos and impossible deadlines clash under the studio lights as agents scramble to save the day. When you watch the episode, listen out for the expressions meaning 'goes' and 'filming'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "Creative egos and impossible deadlines clash under the studio lights as agents scramble to save the day. When you watch the episode, listen out for the expressions meaning 'goes' and 'filming'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('mathias', 'Tout va bien pour le tournage?', 'Is everything going well for the shoot?', [(803, 'Tout va bien')], ''),
     ('isabelle', 'Oui, il faut aller très vite.', 'Yes, we must go very quickly.', [(809, 'très vite')], ''),

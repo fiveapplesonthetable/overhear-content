@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 11
-TITLE = "Après le direct  (After the Live Show)"
-LEVEL = "A1 — débutant"
+TITLE = 'Après le direct  (After the Live Show)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "isabelle": "emilie"}
-LABELS = {"mathias": "Mathias", "isabelle": "Isabelle"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'isabelle': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'isabelle': 'Isabelle'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "Directly after finishing her live radio interview with Laure Adler, Isabelle and Mathias hurry through the labyrinth of corridors. As Mathias rushes toward the exit, Isabelle wants to know how her performance came across. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Mathias successfully bundles Isabelle into the car, racing across the night to reach the American production on time. When you watch the episode, listen out for the expressions meaning 'hurry up' and 'must'. You'll catch them now. See you next time."
-CLOSING = ("isabelle", "Bonne soirée!")
+OUTRO = "Mathias successfully bundles Isabelle into the car, racing across the night to reach the American production on time. When you watch the episode, listen out for the expressions meaning 'hurry up' and 'must'. You'll catch them now. See you next time!"
+CLOSING = ('isabelle', 'Bonne soirée!')
 STORY = [
     ('mathias', 'Dépêchez-vous, nous devons partir vite!', 'Hurry up, we must leave quickly!', [(694, 'Je passe devant')], ''),
     ('mathias', 'Je passe devant pour ouvrir la porte.', 'I am going ahead to open the door.', [(694, 'Je passe devant')], ''),

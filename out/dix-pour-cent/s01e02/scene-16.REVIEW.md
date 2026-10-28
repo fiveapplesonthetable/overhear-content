@@ -30,5 +30,5 @@
 | 16 | `damien` (Damien) | Attendez, il fait pipi! | Wait, he | 490:Attendez, il fait pipi ! |
 
 ## Part 5 — Outro & Closing
-> That's the end of this scene: a sad night, then a warm morning, all in French. When you watch it, listen for Arlette telling them they're all her family. Bye for now. See you next time!
+> That's the end of this scene: a sad night, then a warm morning, all in French. When you watch it, listen for Arlette telling them they're all her family. See you next time!
 - **Closing**: `arlette`: *À tout à l'heure!*

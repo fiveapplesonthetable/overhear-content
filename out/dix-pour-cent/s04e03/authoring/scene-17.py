@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 17
-TITLE = "Une invitée inattendue  (An Unexpected Guest)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une invitée inattendue  (An Unexpected Guest)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "In their apartment kitchen, Mathias and Noemie scramble to prepare dinner for producer Igor de Serisy. When Igor arrives accompanied not by his wife but by his young mistress Claire, Noemie and Mathias exchange tense whispers about loyalty, respect, and their own romantic past. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Mathias and Noemie return to their living room, united in humor and ready to host an unforgettable dinner party. When you watch the episode, listen out for the expressions meaning 'prepare' and 'rice'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne journée!")
+OUTRO = "Mathias and Noemie return to their living room, united in humor and ready to host an unforgettable dinner party. When you watch the episode, listen out for the expressions meaning 'prepare' and 'rice'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne journée!')
 STORY = [
     ('noemie', "Qu'est-ce que tu fais là?", 'What are you doing there?', [(799, "Qu'est-ce que tu fais")], ''),
     ('mathias', 'Je prépare du riz en plus.', 'I am preparing extra rice.', [(804, 'Et du riz en plus')], ''),

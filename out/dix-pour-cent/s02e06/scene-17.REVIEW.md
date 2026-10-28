@@ -29,5 +29,5 @@
 | 15 | `lea` (Andréa) | D'accord, je vais lui parler avec fermeté. | Alright, I will speak to him with firmness. | 481:Je suis désolé, mais il y a des règles strictes. |
 
 ## Part 5 — Outro & Closing
-> At the Cannes Festival, Andréa balances moral principles with the harsh realities of film financing. Listen to the tense dialogue once more in French. Join us next time to see what happens next.
+> At the Cannes Festival, Andréa balances moral principles with the harsh realities of film financing. Listen to the tense dialogue once more in French. See you next time!
 - **Closing**: `lea`: *À bientôt!*

@@ -28,5 +28,5 @@
 | 14 | `isabelle` (Isabelle) | Oui, bien sûr. C'est dommage. | Yes, of course. It is a pity. | 373:Oui, bien sûr |
 
 ## Part 5 — Outro & Closing
-> Although Mathias tries to shield Isabelle from disappointment, the star's curiosity is sparked by the elusive director. Listen to the French conversation one more time. Until next time.
+> Although Mathias tries to shield Isabelle from disappointment, the star's curiosity is sparked by the elusive director. Listen to the French conversation one more time. See you next time!
 - **Closing**: `isabelle`: *Bonne journée!*

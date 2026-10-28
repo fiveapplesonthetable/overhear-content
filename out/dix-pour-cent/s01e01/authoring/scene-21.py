@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 1
 SCENE = 21
 TITLE = "Laisse-lui un peu d'espace  (Give Her Some Space)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "While Mathias was having tea with Miranda Jones, who told him firmly that Cécile, at forty-one, is too old for Tarantino, Gabriel was back at the agency, lost. Cécile has walked out on him, and he goes to the one colleague who never runs out of ideas: Andréa. Today we hear things from her side. As usual, the French comes first, and it's fine to understand only part of it."
 OPENER = "Let's walk through it. Gabriel comes into Andréa's office and admits, quite simply, that he is stuck."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's all for this scene; Gabriel will try to follow the advice, and his assistant Hervé will soon drag him out for a drink to take his mind off things. You followed a real office argument in French, so be pleased with yourself, and see you next time."
-CLOSING = ("lea", "À demain, Gabriel!")
+OUTRO = "That's all for this scene; Gabriel will try to follow the advice, and his assistant Hervé will soon drag him out for a drink to take his mind off things. You followed a real office argument in French, so be pleased with yourself. See you next time!"
+CLOSING = ('lea', 'À demain, Gabriel!')
 STORY = [
     ('gabriel', 'Andréa, je ne sais pas quoi faire.', 'Andréa, I don', [(604, 'Je ne sais pas quoi faire')], ''),
     ('gabriel', "Cécile est partie. Elle veut changer d'agent.", 'Cécile has left. She wants to change agents.', [], ''),

@@ -29,5 +29,5 @@
 | 15 | `herve` (Hervé) | Maintenant courez, chaque seconde compte! Allez! | Now run, every second counts! Come on! | 354:Maintenant courez, chaque seconde compte ! Allez ! |
 
 ## Part 5 — Outro & Closing
-> Armed with Hervé's gym discovery and an agonizing workout session, Andréa prepares to stage a chance encounter. Next, she will confront Fabrice Luchini directly on his home turf. Until next time.
+> Armed with Hervé's gym discovery and an agonizing workout session, Andréa prepares to stage a chance encounter. See you next time!
 - **Closing**: `herve`: *À bientôt!*
