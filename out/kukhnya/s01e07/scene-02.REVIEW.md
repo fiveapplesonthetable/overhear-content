@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, why did you arrive so early?' 'Came' is a form for a man, and it means he arrived on foot. 'Early' is a useful word for any arrival.
-- 'It is already eight o'clock in the morning, Max.' Russians say 'eight hours', so the clock time has 'hours' after it. 'Of the morning' is how they say 'a.m.'.
-- 'I thought that the restaurant was still closed.' The word 'still' comes before 'closed'. 'Thought' ends with nothing, because Max is a man.
-- 'Why haven't you put on your uniform yet?' 'Not yet' is made of 'still' and 'not'. 'Put on' is used for clothes, and 'uniform' ends in 'u' since it's the thing put on.
-- 'My locker key is lying here.' Russians say a key 'lies' on a table. 'Key from the locker' uses 'from' where English uses 'to' or 'of'.
-- 'Then go faster to the staff locker room.' 'Faster' works as 'hurry'. 'Of the staff' comes from the borrowed word for 'personnel'.
-- 'Do not boss me around, I will manage everything in time.' 'Command' is followed by 'me' in a special form, the one that goes with 'by'. 'I will manage' is the one-word future.
-- 'What were you doing here at night at all?' 'At all' sits in the middle and adds suspicion. 'At night' is a one-word time, and it ends in 'yu'.
-- 'Honestly speaking, I live right here.' The opening is a fixed phrase for 'to be honest'. 'Right here' is the pair 'directly' and 'here'.
-- 'You spend the night in Chef Barinov's restaurant?!' 'Spend the night' is taken from 'night'. 'Chef Barinov's' is two words with the 'a' ending, which is Russian for 'of'.
-- 'Yes, I sleep on the sofa in the dining room.' 'I sleep' is an irregular form that adds an extra 'l' sound to the stem. 'On the sofa' ends in 'e', and so does 'in the hall'.
-- 'If the chef finds out, he will kill you!' 'If' starts the line, and 'will find out' and 'will kill' are both one-word futures. 'You' has the changed form.
-- 'Please, do not tell anyone my secret.' 'Don't tell' is 'not' plus a command. 'To nobody' is one word, and the 'not' stays in the line.
+- 'Kostya, why did you arrive so early?' "Prishyol", 'came', is for arriving on foot, with pri- meaning arrival. "Tak rano" is 'so early'.
+- 'It is already eight o'clock in the morning, Max.' Russian counts the clock in hours: vosem' chasov, 'eight of hours'. "Utra", 'of the morning', is how you say a.m.
+- 'I thought that the restaurant was still closed.' "Dumal" ends in -l, the past tense for a man; a woman would say dumala. "Yeshchyo" means 'still' here.
+- 'Why haven't you put on your uniform yet?' "Yeshchyo ne", 'still not', is how Russian says 'not yet'. "Nadet'" is the verb for putting on clothes, and forma becomes formu as the thing being put on.
+- 'My locker key is lying here.' A key in Russian 'lies', lezhit, when it is flat on a surface. And it's a key ot shkafa, 'from the locker', where English says 'to' or 'of'.
+- 'Then go faster to the staff locker room.' "Idi" is the command 'go', and bystreye, 'faster', is how you tell someone to hurry. "Razdevalka", the changing room, comes from razdevat'sya, to get undressed.
+- 'Do not boss me around, I will manage everything in time.' "Komandovat'", to command, takes mnoy, the 'by me' form of 'me'. "Uspeyu" is the future of uspet', to make it in time, and you'll hear it whenever someone is running late.
+- 'What were you doing here at night at all?' "Vobshche", 'at all', gives the question a suspicious edge. "Noch'yu", 'at night', is the word for night with an ending that turns it into a time.
+- 'Honestly speaking, I live right here.' "Chestno govorya" is a fixed phrase, like 'to be honest'. "Pryamo zdes'" is 'straight here', meaning right here.
+- 'You spend the night in Chef Barinov's restaurant?!' "Nochevat'", to spend the night, is built on noch', night. "Shefa Barinova", 'of Chef Barinov', puts an -a on both words to show whose restaurant it is.
+- 'Yes, I sleep on the sofa in the dining room.' "Splyu", 'I sleep', has an extra l that only the I form gets; 'you sleep' is spish. "Divan" and zal both take -e after na and v: na divane, v zale.
+- 'If the chef finds out, he will kill you!' Russian puts uznayet, 'will find out', in the future, where English says 'finds out'. "Ub'yot", 'will kill', is the future too.
+- 'Please do not tell anyone my secret.' "Nikomu" means 'to nobody', and the ne in front of rasskazyvay stays: 'don't tell to nobody'. Ne rasskazyvay is the usual way to ask someone to keep quiet.

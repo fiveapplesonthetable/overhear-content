@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, what happened to you today?' 'At you happened' is how Russian puts 'to you'. 'Today' sounds like 'sevodnya'.
-- 'My wicked landlady kicked me out.' 'Landlady' is the word for the woman of the house. 'Kicked out' carries 'la' since the landlady is a woman.
-- 'What did she kick you out for?' 'For what' is the short way to ask 'why'. 'Kicked out' grows out of 'drive' with a prefix.
-- 'I brought live carp home.' 'Home' as a direction is a different word from 'at home'. 'Live' has the 'ikh' plural, and 'carp' takes 'ov'.
-- 'Why do you need live fish at home?' 'To you' sits where English would say 'you'. 'Live' agrees with 'fish', which is one of the she-words.
-- 'In the store they could simply kill them!' The 'they' is no one in particular. 'Could' is the plural past of 'can'.
-- 'And where are they swimming now?' 'Swim' ends in 'yut', for 'they'. 'Now' is 'at once' in other places.
-- 'They live wonderfully in the bathtub.' 'live' is the same one Max used for 'live in Moscow'. 'Bathtub' ends in 'e' for the place.
-- 'I see, the landlady was very unhappy.' 'Unhappy' is 'not' plus 'satisfied', and the 'a' ending shows a woman.
-- 'I cannot live with cruel people.' 'With people' uses a special form of 'people', 'lyudmi'. 'Cruel' agrees with it.
-- 'Listen, you can stay at my place for now.' 'Stay for a while' starts with a prefix that means 'a little'. 'At my place' is 'at me'.
-- 'Thank you, Kostik, you are a true friend!' 'Kostik' is a pet form of Kostya's name, with a soft 'ik'. 'Real' and 'true' are the same word.
+- 'Nastya, what happened to you today?' "Chto u tebya sluchilos'" is literally 'what at you happened', the usual way to ask what's wrong. "Segodnya" is written with a g but said sevodnya.
+- 'My wicked landlady kicked me out.' "Khozyayka" is the woman of the house, and for a tenant that means the landlady. "Vygnala" joins vy-, 'out', to the verb for driving, and the -la shows it was a woman.
+- 'What did she kick you out for?' Za chto, 'for what', asks the reason for a punishment, not just any 'why'.
+- 'I brought live carp home.' "Domoy" means 'homewards', a different word from doma, 'at home'. Carp are living things, so karpy changes to karpov as the thing she brought.
+- 'Why do you need live fish at home?' Zachem tebe is literally 'what for to you', which Russians use for 'why do you need'. "Ryba", fish, is feminine, so live is zhivaya.
+- 'In the store they could simply kill them!' "Mogli", 'could', has the -li ending used for 'they'. Nobody in particular is meant by 'they', which is how Russian talks about people in general.
+- 'And where are they swimming now?' "Plavayut", 'they swim', is from plavat', which also covers floating. "Seychas" means 'now' or 'right now'.
+- 'They live wonderfully in the bathtub.' "Zhivut", 'they live', comes from zhit', which Max uses for living in Moscow. "Vanna" becomes vanne after v.
+- 'I see, the landlady was very unhappy.' "Ponyatno", 'understood', does the job of 'I see' in conversation. "Nedovol'na" is ne plus dovol'na, 'pleased', with -a because it's the landlady.
+- 'I cannot live with cruel people.' "Lyudi", people, has an irregular 'with' form, lyud'mi. S zhestokimi lyud'mi is 'with cruel people'.
+- 'Listen, you can stay at my place for now.' "Pozhit'" adds po- to zhit', making it 'live for a while'. U menya, 'at me', also means 'at my place'.
+- 'Thank you, "Kostik", you are a true friend!' "Kostik" is an affectionate form of Kostya, with -ik on the end. "Nastoyashchiy" can mean real or true, as in nastoyashchiy drug.

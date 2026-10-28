@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "Barinov has gone to the food market for the day's vegetables, and who should he run into at the next stall but Elena Pavlovna, who runs the rival restaurant down the road? They are exquisitely polite for about ten seconds. It's in Russian first."
+INTRO = "Chef Barinov of Claude Monet has gone to the food market for the day's vegetables, and who should he run into at the next stall but Elena Pavlovna, who is about to open a rival restaurant? They are exquisitely polite for about ten seconds. First the scene in Russian."
 OPENER = "Let's go back. Both of them use the polite 'you' and the father's name, which makes the insults land harder."
-TRANSITION = 'Now the whole thing flows.'
+TRANSITION = 'Now the whole market encounter again.'
 OUTRO = "The fight is about who is best, and it's told through apples. 'We'll see' and 'learn while I'm kind' are two good lines to keep. See you next time."
 CLOSING = ('barinov', 'До встречи!')
 STORY = [
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Учитесь, пока я добрый шеф!', 'Learn while I am a kind chef!', [(55, 'Ну')], ''),
 ]
 WALK = [
-    (0, None, "'Good morning, Chef Viktor Petrovich!' Russians address each other by first name plus father's name when being formal. 'Petrovich' means 'son of Pyotr'."),
-    (1, None, "'Good morning, Elena Pavlovna.' For a woman, the father's name ends in 'ovna', so 'Pavlovna' literally means 'daughter of Pavel'. Barinov answers in the same formal way."),
-    (2, None, "'Why did you come to this market?' 'You' is the polite one, and 'came' is in the plural to match. 'To this market' ends in 'ok'."),
-    (3, None, "'I am choosing the best fresh vegetables.' 'The very best' is 'most' plus 'best', and it goes with 'fresh' in the same plural. 'Vegetables' is a plural word."),
-    (4, None, "'And did you decide to make your husband borscht?' 'Borscht' is a beetroot soup, and the jab is that she cooks at home. 'husband' ends in 'u', the ending that means 'for' here."),
-    (5, None, "'No, I am opening a new expensive restaurant.' 'open' is related to the term for 'opening'. 'New' and 'expensive' take the ending that agrees with 'restaurant'."),
-    (6, None, "'I am preparing a new menu myself.' The term for 'myself' is the woman's form, so Elena says 'sama'. A man would say 'sam', with no ending."),
-    (7, None, "'Nobody will go to your restaurant!' 'Nobody will go' uses 'not', as Russian always does with 'nobody'. 'Your' is polite, and it agrees with 'restaurant'."),
-    (8, None, "'We will see whose kitchen is better!' 'whose' agrees with 'kitchen', so it comes out as the she-form. 'Better' is a short word that you will use constantly."),
-    (9, None, "'My restaurant will always be first!' After 'will be', 'first' takes an 'ym' ending, which is why it sounds a little different from the dictionary form."),
-    (10, None, "'Then try these beautiful apples.' 'Try' is the respectful command. 'Apples' is plural."),
-    (11, None, "'Oh, how sour these apples are!' 'how' turns into 'what kind of' in an exclamation. 'Sour' is related to the Russian for 'acid'."),
-    (12, None, "'One must know how to choose good fruit!' 'One must' is followed by 'know how'. 'To know how' means 'to be skilled at'."),
-    (13, None, "'Learn while I am a kind chef!' The word 'poka' means 'while', and it also means 'bye'. 'Learn' ends in 'sya'."),
+    (0, None, "'Good morning, Chef Viktor Petrovich!' First name plus father's name is the respectful way to address someone. Petrovich means 'son of Pyotr'."),
+    (1, None, "'Good morning, Elena Pavlovna.' For a woman the father's name ends in -ovna or -evna, so Pavlovna is 'daughter of Pavel'. Barinov answers in the same formal style."),
+    (2, None, "'Why did you come to this market?' Polite vy takes a plural verb even for one person, so it's vy prishli. Na rynok, 'to the market', uses na, not v, the way Russians go na rabotu, to work."),
+    (3, None, '\'I am choosing the best fresh vegetables.\' "Samye luchshie", \'the very best\', stacks \'most\' on top of \'best\' for emphasis. Every word in the phrase ends in -ie, the plural, to match ovoshchi.'),
+    (4, None, '\'And did you decide to make your husband borscht?\' "Muzhu", \'for the husband\', is muzh with -u for the person who benefits. "Svarit\'" means to cook by boiling, which is how borscht gets made.'),
+    (5, None, '\'No, I am opening a new expensive restaurant.\' "Otkryvayu", \'I\'m opening\', is from otkryvat\', the same verb you\'d use for a door or a shop. "Novyy" and dorogoy match restoran, which is masculine.'),
+    (6, None, '\'I am preparing a new menu myself.\' Sama, \'myself\', is the woman\'s form; Barinov would say sam. "Gotovlyu", \'I\'m preparing\', is just as often plain \'I cook\'.'),
+    (7, None, '\'Nobody will go to your restaurant!\' "Nikto ne poydyot" is \'nobody not will go\': with nikto the ne is required. V vash restoran uses v for going into a place.'),
+    (8, None, '\'We will see whose kitchen is better!\' My yeshchyo posmotrim, literally \'we will still see\', is the standard \'we\'ll see about that\'. "Chya", \'whose\', is feminine to agree with kukhnya.'),
+    (9, None, "'My restaurant will always be first!' After budet, 'will be', the word pervyy changes to pervym. That -ym ending is common after forms of 'to be'."),
+    (10, None, '\'Then try these beautiful apples.\' "Poprobuyte", \'try\', ends in -yte, the polite command. One apple is yabloko; several are yabloki.'),
+    (11, None, '\'Oh, how sour these apples are!\' In an exclamation, kakie, \'what kind of\', works like \'how\'. "Kislyy", sour, is related to kislota, acid.'),
+    (12, None, '\'One must know how to choose good fruit!\' Nado, \'it is necessary\', plus a verb is the simplest way to say \'one must\'. "Umet\'" means to know how, as a skill, unlike znat\', to know a fact.'),
+    (13, None, '\'Learn while I am a kind chef!\' Here poka is \'while\', the same poka you use for \'bye\'. "Uchites\'", \'learn\', ends in -tes\', the polite vy ending.'),
 ]

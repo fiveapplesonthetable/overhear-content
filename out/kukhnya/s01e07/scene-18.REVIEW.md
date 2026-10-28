@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Louis, and where is our colleague?' The term for 'where' asks about a place, not a direction. 'Our' takes the ending that agrees with the person asked about.
-- 'I do not know, he is probably at home.' 'Probably' is a long word that you can use for any guess.
-- 'But how did you find out my address?' 'Found out' can also mean 'recognized', as it comes from 'know'. 'My address' is the thing found out.
-- 'Louis, I just need help today.' 'Help' is grammatically a she-word, so 'needed' ends in 'a'. 'Just' means 'simply'.
-- 'Wait, Maxim, no, no need to continue!' Louis uses Max's full name to sound dramatic. The phrase for 'no need' is literally 'not' plus 'necessary'.
-- 'I have nowhere to spend this night.' 'Nowhere' is 'no' plus 'where'. 'Spend' literally means 'lead through'.
-- 'Nothing will work out between us.' The Russian idiom is 'at us with you nothing will come out'. It is the sentence you use when you turn someone down.
-- 'My heart has long been occupied.' 'occupied' is the one for a seat that's taken, and it is also what you say of a phone line. Louis says it with a flourish.
-- 'Louis, you misunderstood me completely!' 'Wrongly' grows out of 'not' plus 'rightly'. 'Understood' ends in a consonant, because the word is about Louis.
-- 'Do not worry, everything will work out.' 'will work out' ends in 'sya', so it means 'will sort itself out'. It is a fixed phrase that people say to comfort each other.
-- 'You will definitely find yourself someone else.' 'Someone' ends in 'nibud', which means 'anyone at all'. 'Other' agrees with 'someone'.
-- 'Everything will be great, ooh-la-la, bye!' Louis's 'ooh-la-la' is French, and he adds it to everything. The Russian for 'bye' is literally the same word as 'for now'.
-- 'Louis, open the door, wait a second!' The Russian for 'open' is a short command. 'Wait a second' is a casual 'hold on', and its ending is the same as in 'wait'.
+- 'Hi, Louis, and where is our Felix?' "Nash Feliks", 'our Felix', sounds warm, the way you'd mention a colleague everyone knows. "Gde" asks where something is; 'where to' would be kuda.
+- 'I do not know, he is probably at home.' "Navernoye", 'probably', is what you say when guessing. "Doma" means 'at home', with no movement.
+- 'But how did you find out my address?' "Uznal", 'found out', is from uznat', which also means 'to recognise'. "Kak", 'how', opens the question.
+- 'Louis, I just need help today.' "Pomoshch'", help, is feminine, so 'needed' is nuzhna. "Mne nuzhna", 'to me needed', is the usual 'I need'.
+- 'Wait, Maxim, no, no need to continue!' Louis uses Max's full name to sound dramatic. Ne nado, 'no need', plus an infinitive means 'don't': ne nado prodolzhat'.
+- 'I have nowhere to spend this night.' "Mne negde", 'I have nowhere', is what Max said about Moscow too. "Provesti", to spend time, is literally 'to lead through'.
+- 'Nothing will work out between us.' U nas s toboy, 'at us with you', means 'between you and me'. "Nichego ne poluchitsya" is the standard way to turn someone down.
+- 'My heart has long been occupied.' "Zanyato", 'occupied', is also said of a taken seat or a busy phone line. It ends in -o to match serdtse, a neuter noun.
+- 'Louis, you misunderstood me completely!' "Nepravil'no", 'wrongly', is ne plus pravil'no, 'correctly'. Ponyal ends in -l because Louis is a man.
+- 'Do not worry, everything will work out.' "Vsyo obrazuyetsya", 'it'll all sort itself out', is a stock phrase of comfort. Putting ty before ne perezhivay makes the command gentler.
+- 'You will definitely find yourself someone else.' "Kogo-nibud'", 'someone', is kto in its object form plus -nibud'. "Drugogo", 'else', agrees with it.
+- 'Everything will be great, ooh-la-la, bye!' "Ulya-lya" is Louis's French ooh-la-la dropped into Russian. Poka, 'bye', doubles as the poka of 'while' in the chef's 'learn while I'm kind'.
+- 'Louis, open the door, wait a second!' "Otkroy", 'open', and podozhdi, 'wait', are both said to one person on ty terms. In podozhdi sekundu, sekunda takes the object ending -u.

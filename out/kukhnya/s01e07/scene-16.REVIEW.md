@@ -17,7 +17,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Костя | Конечно, без всяких проблем, мой друг! | Of course, without any problems, my friend! | #321 00:20:48: Ну, конечно, без | verbatim |
 | 6 | Костя | Вот точный адрес моей новой квартиры. | Here is the exact address of my new apartment. | #322 00:20:51: вот тут адрес | verbatim |
 | 7 | Костя | Я приеду домой около десяти вечера. | I will arrive home around ten in the evening. | #323 00:20:54: к десяти уже буду дома | verbatim |
-| 8 | Макс | Отлично, я приду прямо вовремя туда. | Excellent, I will come right on time there. | #324 00:20:57: Давай подтягивайся | verbatim |
+| 8 | Макс | Отлично, я приду туда прямо вовремя. | Excellent, I will come right on time there. | #324 00:20:57: Давай подтягивайся | verbatim |
 | 9 | Макс | Может, мне купить что-нибудь вкусное к чаю? | Maybe I should buy something tasty for tea? | #325 00:20:58: Слушай, а может, что купить надо | verbatim |
 | 10 | Костя | Купи лучше красивый букет цветов. | Better buy a pretty bouquet of flowers. | #326 00:21:00: цветок букетик купи | verbatim |
 | 11 | Макс | Зачем нам с тобой нужны цветы? | Why do you and I need flowers? | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, I heard you have a problem with housing.' 'At you a problem' is the Russian way to put 'you have a problem'. The word for 'housing' gets an 'em' ending after the Russian for 'with'.
-- 'Yes, I have nowhere to live in Moscow at all.' 'nowhere' is 'no' plus 'where', and it works as a tiny pattern: 'to me nowhere to live'. There is a twin for movement, 'nowhere to go'.
-- 'Do you want to live at my place for a couple of weeks?' 'A couple' comes from 'pair'. 'Weeks' takes a special 'of' form, as it follows 'couple'.
-- 'Are you speaking completely seriously, Kostya?' 'Seriously' comes from 'serious'. 'Completely' is a favourite word of Max's.
-- 'Of course, without any problems, my friend!' The term for 'without' asks for the 'of' form, so 'problems' changes its ending. 'Any kind of' is a single word.
-- 'Here is the exact address of my new apartment.' 'Here is' points at things without a verb. 'Of my new apartment' puts the same ending on all three words.
-- 'I will arrive home around ten in the evening.' 'Around' asks for the 'of' form, so 'ten' changes shape. 'Arrive' starts with the piece 'pri', and it's the word for arriving by transport.
-- 'Excellent, I will come right on time there.' 'I will come' means arriving on foot. 'There' is the movement word, literally 'to there'.
-- 'Maybe I should buy something tasty for tea?' 'Something' is 'what' plus the tail 'nibud', meaning 'anything at all'. 'For tea' uses 'k', which means 'toward'.
-- 'Better buy a pretty bouquet of flowers.' 'Better' is 'would be better to'. 'Of flowers' is how Russian says 'a bouquet of flowers'.
-- 'Why do you and I need flowers?' 'You and I' is literally 'us with you'. 'Needed' is plural, to agree with 'flowers'.
-- 'An elderly landlady lives in this apartment.' 'Elderly' has an 'aya' ending, for a woman. 'landlady' literally means 'the woman of the house'.
-- 'Understood, I will buy the freshest flowers!' 'I will buy' gains an extra 'l' in the middle. 'The freshest' is literally 'most fresh'.
-- 'Then agreed, I am waiting for you tonight!' The Russian for 'agreed' ends in 'lis' because they have come to terms with each other. 'I wait for you' is the usual way to say 'I expect you'.
+- 'Max, I heard you have a problem with housing.' U tebya problema, 'at you a problem', is the Russian 'you have a problem'. "Zhil'yo", housing, becomes zhil'yom after s, 'with'.
+- 'Yes, I have nowhere to live in Moscow at all.' "Negde", 'nowhere', with mne, 'to me', and an infinitive makes 'I have nowhere to live'. For movement it would be nekuda, 'nowhere to go'.
+- 'Do you want to live at my place for a couple of weeks?' "Paru nedel'", 'a couple of weeks', puts nedelya into its 'of' plural after para. "Pozhit'", to live for a while, is what Kostya once offered Nastya.
+- 'Are you speaking completely seriously, Kostya?' "Ser'yozno", 'seriously', on its own is the everyday 'really?'. "Absolyutno" is easy to recognise as 'absolutely'.
+- 'Of course, without any problems, my friend!' "Bez", 'without', takes the 'of' form, so problemy becomes problem. "Vsyakikh", 'any kind of', is from vsyakiy.
+- 'Here is the exact address of my new apartment.' "Vot", 'here is', points at something with no verb needed. "Moyey novoy kvartiry" all take the feminine 'of' ending, since kvartira is feminine.
+- 'I will arrive home around ten in the evening.' "Okolo", 'around', changes desyat' to desyati, the 'of' ending. "Priedu" is for arriving by transport; on foot it would be pridu.
+- 'Excellent, I will come right on time there.' "Pridu" is the on-foot partner of Kostya's priedu. "Tuda", 'there', means 'to there', with movement.
+- 'Maybe I should buy something tasty for tea?' "Chto-nibud'", 'something', is chto plus -nibud', 'anything at all'. K chayu, 'for tea', uses k, 'toward'.
+- 'Better buy a pretty bouquet of flowers.' "Kupi luchshe", 'buy better', means 'you'd better buy'. In buket tsvetov, 'a bouquet of flowers', tsvety becomes tsvetov.
+- 'Why do you and I need flowers?' "Nam" s toboy, 'to us with you', means 'you and I'. "Nuzhny", 'needed', is plural to match tsvety.
+- 'An elderly landlady lives in this apartment.' "Pozhilaya", 'elderly', is a polite word for old. "Khozyayka" is the landlady, as in Nastya's story.
+- 'Understood, I will buy the freshest flowers!' "Kuplyu", 'I will buy', adds an l that kupit' doesn't have. "Samye svezhie", 'the freshest', uses samyy for 'most'.
+- 'Then agreed, I am waiting for you tonight!' "Dogovorilis'", 'agreed', closes the plan, as it did for Nagiyev. "Zhdu tebya", 'I wait for you', means 'I'll be expecting you'.

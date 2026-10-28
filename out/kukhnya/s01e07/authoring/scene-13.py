@@ -10,9 +10,9 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "Nastya has decided not to move in with Kostya after all, and Kostya has found out why: Max told her Kostya was a nightmare to live with. He storms over to find him. It's in Russian first."
+INTRO = 'At Claude Monet, Nastya has decided not to move in with Kostya the bartender after all, and he has found out why: Max told her Kostya snores and is impossible to live with. He storms over to have it out. Hear the row in Russian first.'
 OPENER = "Let's go back through the row. Kostya is hurt, and Max keeps saying it was only a joke."
-TRANSITION = 'Here goes the full scene.'
+TRANSITION = 'Now the row from start to finish.'
 OUTRO = "The last line is a good one to keep for the right moment: 'some best friend you are'. It has no verb to speak of, only scorn. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Тоже мне лучший друг называется, уходи!', 'Some best friend you are, leave!', [(296, 'Тоже мне друг называется')], ''),
 ]
 WALK = [
-    (0, None, "'Max, we urgently need to clarify something.' 'Something or other' is 'what' with a 'koye' in front. 'Clarify' is based on 'clear'."),
-    (1, None, "'Guys, I really do not have time for you now.' 'Guys' is a friendly word for a group. 'Not up to you' is the idiom for 'I haven't time or mood for you'."),
-    (2, None, "'What did you tell Nastya about me?' 'told' has a prefix that means 'a lot, and not nice'. 'To Nastya' puts an 'e' on the name."),
-    (3, None, "'I was just joking a little, do not be mad.' 'Joked' comes from 'a joke'. 'Don't be mad' ends in 'sya'."),
-    (4, None, "'Joking? You called me a real psycho!' 'Called' takes a 'with' form, so 'real psycho' ends in 'om'. 'Joking?' is just a repeat of the word with the voice up."),
-    (5, None, "'I wanted to protect you from mistakes.' 'Protect' comes from 'guard'. 'From mistakes' is 'from' with a plural."),
-    (6, None, "'First you promised to help, and then bailed!' 'Threw' is the slang for 'let down'. 'Promised' has a prefix that makes it a one-off."),
-    (7, None, "'I did not want to hurt you, Kostya.' 'Hurt' comes from 'an offence'. 'Did not want' is the past he-form."),
-    (8, None, "'Because of your stupid words Nastya left.' 'Because of' is the blame form, as opposed to a thank-you one. 'Left' ends in 'a' since Nastya is a woman."),
-    (9, None, "'Forgive me, I will fix everything today.' 'Forgive' is the informal command. 'Fix' comes from 'right', so it's 'make right'."),
-    (10, None, "'Never poke your nose into my business again!' 'Climb' is 'to poke'. 'My business' is 'my affairs', and Russians say it in the plural."),
-    (11, None, "'Kostya, wait, let us discuss everything calmly.' 'Wait' is the casual command. 'Calmly' comes from 'calm'."),
-    (12, None, "'Some best friend you are, leave!' The first words make a sarcastic phrase: 'also to-me best friend is-called'. It's what you say when someone has just let you down."),
+    (0, None, '\'Max, we urgently need to clarify something.\' "Nam nuzhno", \'to us it\'s needed\', turns \'we need\' around, so the need happens to you. "Koye-chto", \'something\', is chto with koye- in front, for a particular thing the speaker has in mind.'),
+    (1, None, '\'Guys, I really do not have time for you now.\' "Mne ne do vas", literally \'to me not up to you\', means \'I\'ve no time or patience for you\'. "Rebyata", \'guys\', is a friendly word for a group.'),
+    (2, None, '\'What did you tell Nastya about me?\' "Nagovoril" adds na- to govorit\', and suggests saying a lot, usually nasty things about someone. "Naste" is Nastya in her \'to\' form.'),
+    (3, None, '\'I was just joking a little, do not be mad.\' "Poshutil", \'joked\', comes from shutka, a joke, with po- for \'a little\'. Ne zlis\', \'don\'t be angry\', ends in -s\', short for -sya.'),
+    (4, None, '\'Joking? You called me a real psycho!\' "Nazvat\'", to call someone something, puts the label in the \'with\' form: nastoyashchim man\'yakom. "Man\'yak" is the same word as \'maniac\'.'),
+    (5, None, '\'I wanted to protect you from mistakes.\' "Uberech\'", to protect, is related to beregat\', to guard or look after. After ot, \'from\', oshibki becomes oshibok, the \'of\' plural.'),
+    (6, None, '\'First you promised to help, and then bailed!\' "Kinul" is literally \'threw\', and in slang it means \'ditched\' or \'let down\'. "Snachala"... a potom is \'first... and then\'.'),
+    (7, None, '\'I did not want to hurt you, Kostya.\' "Obidet\'", to hurt someone\'s feelings, is related to obida, an offence. "Khotel" ends in -l because Max is a man.'),
+    (8, None, '\'Because of your stupid words Nastya left.\' "Iz-za", \'because of\', blames something, and the cause gets \'of\' endings: tvoikh glupykh slov. "Ushla", \'left\', has the -la of a woman\'s past.'),
+    (9, None, '\'Forgive me, I will fix everything today.\' "Prosti", \'forgive me\', fits a friend; to the chef, the cooks said prostite. "Ispravlyu", \'I will fix\', comes from pravyy, right, so it means \'make right\'.'),
+    (10, None, '\'Never poke your nose into my business again!\' "Lezt\'" means to climb or crawl, and ne lez\' v is \'don\'t poke into\'. Dela, \'affairs\', is plural, the way Russians talk about someone\'s business.'),
+    (11, None, '\'Kostya, wait, let us discuss everything calmly.\' "Podozhdi", \'wait\', is for one friend; to the chef it would be podozhdite. "Davay obsudim" is \'let\'s discuss\', with davay doing the work of \'let\'s\'.'),
+    (12, None, '\'Some best friend you are, leave!\' "Tozhe mne"... nazyvaetsya is a sarcastic set phrase, roughly \'and that calls itself a best friend\'. "Ukhodi" is the blunt command \'go away\'.'),
 ]

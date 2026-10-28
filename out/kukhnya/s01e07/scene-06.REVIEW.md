@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Respected chef, step right up and choose knives!' The opening word is a formal 'respected', the kind used at the start of a speech or a letter. Both commands are in the plural, which is polite.
-- 'Look what a sharp and thin blade!' 'What a' is the same word as 'which'. 'Sharp' and 'thin' are both in the neuter, to go with 'blade'.
-- 'Careful, this blade is sharp as a dagger.' There are two Russian words for 'blade' in these lines, and this one is the sword-like one. 'Like' is the term for 'as', as in 'sharp like a dagger'.
-- 'But here the metal is too soft.' 'Too' goes right before 'soft'. Barinov says it flatly, like a judge.
-- 'This is the best strong steel for the kitchen!' 'Strong' also means 'durable'. 'Steel' is a she-word.
-- 'Don't deceive me, I am an experienced chef.' 'Don't deceive' is 'not' plus a command. 'Experienced' is made from 'experience'.
-- 'One cannot cut meat with such a knife.' 'With such a knife' is one phrase with the 'om' ending. 'not allowed' comes at the end.
-- 'Then look at this Japanese knife.' Words for nationalities don't get a capital letter in Russian. 'This' points at the knife.
-- 'Craftsmen made it from hard steel.' 'They made it' has no person named. 'Masters' is a word that works for any skilled craftsman.
-- 'Yes, this knife rests in the hand perfectly.' Russian says a knife 'lies' in the hand. 'In the hand' ends in 'e'.
-- 'How much does such an excellent tool cost?' 'How much does it cost' is two words, and you can use it in any shop. 'Tool' is a borrowed word.
-- 'For you I will give it for only three thousand.' 'I will give' is 'give away', as in 'let go'. 'Only' sits at the front of the price.
-- 'Fine, I am taking this knife.' 'I take away' is the usual way to say you buy it. 'Fine' is the plain 'good'.
-- 'In my kitchen sharp order is needed!' The knife is sharp, and so is Barinov's order. 'Needed' is the he-form, since 'order' is a he-word.
+- 'Respected chef, step right up and choose knives!' "Uvazhaemyy", 'respected', is how a formal letter or announcement begins, like 'Dear Sir'. "Podkhodite" and vybirayte are both polite commands, ending in -te.
+- 'Look what a sharp and thin blade!' "Lezviye", a blade, is neuter, so kakoe, ostroe and tonkoe all end in -oe to match it.
+- 'Careful, this blade is sharp as a dagger.' Barinov says klinok, another word for blade. "Kak kinzhal", 'like a dagger', shows kak doing the job of 'as' in a comparison.
+- 'But here the metal is too soft.' "Slishkom", 'too', goes straight in front of the word it changes, like English: slishkom myagkiy, too soft.
+- 'This is the best strong steel for the kitchen!' "Stal'", steel, is feminine, so the salesman says luchshaya prochnaya, both ending in -aya. "Dlya kukhni", 'for the kitchen', changes kukhnya to kukhni after dlya.
+- 'Don't deceive me, I am an experienced chef.' "Opytnyy", experienced, comes from opyt, experience, which Max used at the start of the episode. Barinov uses casual ty with the salesman, while the salesman sticks to vy.
+- 'One cannot cut meat with such a knife.' "Takim nozhom", 'with such a knife', has no word for 'with': the -im and -om endings mean 'using'. "Nel'zya" at the end is the flat 'can't be done'.
+- 'Then look at this Japanese knife.' "Yaponskiy", Japanese, has a small letter in Russian, as do all nationality words. "Vot etot" is 'this one right here'.
+- 'Craftsmen made it from hard steel.' Ego sdelali, 'they made it', has no named subject, which is how Russian often says 'it was made'. "Mastera" is the plural of master, a skilled craftsman.
+- 'Yes, this knife rests in the hand perfectly.' A knife that lezhit v ruke, 'lies in the hand', is one that feels right to hold. "Ruka" becomes ruke after v.
+- 'How much does such an excellent tool cost?' "Skol'ko stoit?", 'how much costs?', is the question to keep for any shop. "Takoy", 'such', is masculine to agree with the word for tool.
+- 'For you I will give it for only three thousand.' "Otdam" is 'I'll hand it over', a seller's way of naming a price. "Vsego" means 'only', and after tri, 'three', tysyacha becomes tysyachi.
+- 'Fine, I am taking this knife.' "Zabirayu" means 'I'm taking it with me', which is how a buyer says 'I'll have it'. "Khorosho", 'good', doubles as 'fine' or 'OK'.
+- 'In my kitchen sharp order is needed!' "Nuzhen", 'needed', is masculine to match poryadok, order. "Ostryy", sharp, is the word the salesman used for his blade, so Barinov ends on a pun.

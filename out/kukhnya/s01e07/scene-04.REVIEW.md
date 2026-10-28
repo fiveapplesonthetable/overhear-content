@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you completely lost your mind?' The phrase literally says 'went off the mind'. It's a very common way to ask 'are you crazy?'.
-- 'Why are you stealing our vinegar?' 'Steal' comes from 'thief'. 'Our vinegar' is the thing being stolen, and Russian shows it with its ending.
-- 'Its expiration date will end soon!' 'Term' is also 'deadline', and 'term of validity' is the best-before date. 'At it' stands for 'its'.
-- 'And at home my children want to eat.' 'To eat' also means 'there is', and the context tells you which. 'At home' is a single word, while 'home' as a direction is another.
-- 'Of course, the children at home really ask for vinegar!' Fedya is sarcastic and turns Senya's excuse upside-down. 'Ask for' is followed directly by 'vinegar'.
-- 'I just took a little for salad.' 'Took' is the finished kind of the word, so it means 'I took it'.
-- 'The chef will see and tear off your hands!' The idiom 'tear off hands' is a common Russian threat. It doesn't mean it literally.
-- 'Fedya, don't tell the chef anything, please!' 'To the chef' ends in 'u'. 'Anything' has its 'not' as usual.
-- 'The chef is just leaving for the market now.' 'Just' is a very useful pair: 'kak raz', meaning 'exactly now'. 'Leaves' begins with a piece that means 'away'.
-- 'Great, that means we have a little time.' 'That means' is a single word in Russian. 'We have' is 'at us there is', and 'time' goes into the 'of' form.
-- 'The chef will return, and everything must be ready!' 'Return' ends in 'sya', which makes it 'return himself'. 'Must be ready' is one neuter phrase, because 'everything' is neuter.
-- 'Let's quickly start cutting the meat together.' 'Let's start' ends in 'em', for 'we'. 'Cut' is a plain word that you'll hear in every kitchen.
-- 'Put the bottle back in its place and take a knife.' 'Put' comes from 'stand', since bottles stand. 'Take' is the command from 'to take'.
-- 'That is all, I am working and not stealing anymore!' 'That's all' opens as a flat 'everything'. 'No longer' is two small words.
+- 'Have you completely lost your mind?' S uma soshyol is literally 'came down off the mind'. "Ty chto?" at the front is a blunt 'what's wrong with you?'.
+- 'Why are you stealing our vinegar?' "Vorovat'", to steal, shares its root with vor, a thief. Zachem asks 'what for', not just 'why'.
+- 'Its expiration date will end soon!' "Srok" is a time limit, so here it's the use-by date. U nego, 'at him', refers to the vinegar, because uksus is masculine.
+- 'And at home my children want to eat.' "Doma" means 'at home'; heading home would be domoy. "Yest'", 'to eat', is spelled just like yest' in u menya yest', 'I have'.
+- 'Of course, the children at home really ask for vinegar!' Fedya throws Senya's words back at him. "Konechno", 'of course', is spelled with ch but said with sh: koneshno.
+- 'I just took a little for salad.' "Vzyal", 'took', is the past of vzyat'. After dlya, 'for', salat picks up an -a: dlya salata.
+- 'The chef will see and tear off your hands!' "Otorvyot" joins oto-, 'off', to rvat', 'to tear'. 'I'll tear your hands off' is a stock threat, not a literal one.
+- 'Fedya, don't tell the chef anything, please!' "Shef" becomes shefu, 'to the chef', for the person you tell. "Nichego", 'nothing', comes with ne: 'don't tell nothing'.
+- 'The chef is just leaving for the market now.' "Kak raz" means 'just' or 'right at that moment'. "Ukhodit" begins with u-, which means going away.
+- 'Great, that means we have a little time.' "Znachit", 'that means', is again doing the work of 'so'. "Vremya", time, has an odd 'of' form, vremeni, used here after nemnogo, 'a little'.
+- 'The chef will return, and everything must be ready!' "Vsyo", 'everything', is neuter, so the words that follow are too: dolzhno and gotovo, both ending in -o.
+- 'Let's quickly start cutting the meat together.' "Davay" plus a 'we' verb makes 'let's': davay nachnyom, 'let's start'. "Rezat'", to cut, you'll hear in every kitchen scene.
+- 'Put the bottle back in its place and take a knife.' "Stav'", 'put', is for setting something upright, like a bottle. "Butylka" becomes butylku because Senya has to move it, and beri means 'take'.
+- 'That is all, I am working and not stealing anymore!' On its own, vsyo, 'everything', means 'that's it, done'. "Bol'she ne", 'more not', gives you 'not anymore'.

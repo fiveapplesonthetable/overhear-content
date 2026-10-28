@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Chef Viktor Petrovich!' Russians address each other by first name plus father's name when being formal. 'Petrovich' means 'son of Pyotr'.
-- 'Good morning, Elena Pavlovna.' For a woman, the father's name ends in 'ovna', so 'Pavlovna' literally means 'daughter of Pavel'. Barinov answers in the same formal way.
-- 'Why did you come to this market?' 'You' is the polite one, and 'came' is in the plural to match. 'To this market' ends in 'ok'.
-- 'I am choosing the best fresh vegetables.' 'The very best' is 'most' plus 'best', and it goes with 'fresh' in the same plural. 'Vegetables' is a plural word.
-- 'And did you decide to make your husband borscht?' 'Borscht' is a beetroot soup, and the jab is that she cooks at home. 'husband' ends in 'u', the ending that means 'for' here.
-- 'No, I am opening a new expensive restaurant.' 'open' is related to the term for 'opening'. 'New' and 'expensive' take the ending that agrees with 'restaurant'.
-- 'I am preparing a new menu myself.' The term for 'myself' is the woman's form, so Elena says 'sama'. A man would say 'sam', with no ending.
-- 'Nobody will go to your restaurant!' 'Nobody will go' uses 'not', as Russian always does with 'nobody'. 'Your' is polite, and it agrees with 'restaurant'.
-- 'We will see whose kitchen is better!' 'whose' agrees with 'kitchen', so it comes out as the she-form. 'Better' is a short word that you will use constantly.
-- 'My restaurant will always be first!' After 'will be', 'first' takes an 'ym' ending, which is why it sounds a little different from the dictionary form.
-- 'Then try these beautiful apples.' 'Try' is the respectful command. 'Apples' is plural.
-- 'Oh, how sour these apples are!' 'how' turns into 'what kind of' in an exclamation. 'Sour' is related to the Russian for 'acid'.
-- 'One must know how to choose good fruit!' 'One must' is followed by 'know how'. 'To know how' means 'to be skilled at'.
-- 'Learn while I am a kind chef!' The word 'poka' means 'while', and it also means 'bye'. 'Learn' ends in 'sya'.
+- 'Good morning, Chef Viktor Petrovich!' First name plus father's name is the respectful way to address someone. Petrovich means 'son of Pyotr'.
+- 'Good morning, Elena Pavlovna.' For a woman the father's name ends in -ovna or -evna, so Pavlovna is 'daughter of Pavel'. Barinov answers in the same formal style.
+- 'Why did you come to this market?' Polite vy takes a plural verb even for one person, so it's vy prishli. Na rynok, 'to the market', uses na, not v, the way Russians go na rabotu, to work.
+- 'I am choosing the best fresh vegetables.' "Samye luchshie", 'the very best', stacks 'most' on top of 'best' for emphasis. Every word in the phrase ends in -ie, the plural, to match ovoshchi.
+- 'And did you decide to make your husband borscht?' "Muzhu", 'for the husband', is muzh with -u for the person who benefits. "Svarit'" means to cook by boiling, which is how borscht gets made.
+- 'No, I am opening a new expensive restaurant.' "Otkryvayu", 'I'm opening', is from otkryvat', the same verb you'd use for a door or a shop. "Novyy" and dorogoy match restoran, which is masculine.
+- 'I am preparing a new menu myself.' Sama, 'myself', is the woman's form; Barinov would say sam. "Gotovlyu", 'I'm preparing', is just as often plain 'I cook'.
+- 'Nobody will go to your restaurant!' "Nikto ne poydyot" is 'nobody not will go': with nikto the ne is required. V vash restoran uses v for going into a place.
+- 'We will see whose kitchen is better!' My yeshchyo posmotrim, literally 'we will still see', is the standard 'we'll see about that'. "Chya", 'whose', is feminine to agree with kukhnya.
+- 'My restaurant will always be first!' After budet, 'will be', the word pervyy changes to pervym. That -ym ending is common after forms of 'to be'.
+- 'Then try these beautiful apples.' "Poprobuyte", 'try', ends in -yte, the polite command. One apple is yabloko; several are yabloki.
+- 'Oh, how sour these apples are!' In an exclamation, kakie, 'what kind of', works like 'how'. "Kislyy", sour, is related to kislota, acid.
+- 'One must know how to choose good fruit!' Nado, 'it is necessary', plus a verb is the simplest way to say 'one must'. "Umet'" means to know how, as a skill, unlike znat', to know a fact.
+- 'Learn while I am a kind chef!' Here poka is 'while', the same poka you use for 'bye'. "Uchites'", 'learn', ends in -tes', the polite vy ending.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't you tell the truth right away?' 'Right away' is the single word 'srazu'. 'Didn't tell' is the finished kind of 'tell', so it means 'tell the whole thing'.
-- 'I was very ashamed to admit it, Kostya.' Russian says 'to me was shameful', with the feeling outside the person. 'Admit' ends in 'sya'.
-- 'Move in with me into a big apartment.' 'Move house' starts from 'across' and 'ride'. 'To me' is the short 'ko mne', and 'into a big apartment' has an 'uyu' ending.
-- 'How many rooms are in your apartment?' 'How many' is followed by the 'of' form, so 'rooms' changes shape. 'In your apartment' puts the usual 'e' on the end.
-- 'I have two separate rooms.' 'I have' is 'at me there are'. 'Two' is the she-form because 'room' is grammatically a she-word.
-- 'Will we pay for the apartment fifty-fifty?' 'In half' is one word that does the work of 'fifty-fifty'. 'We will pay' is made of 'will' and 'pay'.
-- 'Yes, each pays exactly half the amount.' 'Exactly' is pieced together from 'even', and 'half' ends in 'u'.
-- 'And does Nastya come over to you often?' 'To you' means 'to your place', in the short 'k tebe'.
-- 'She does not come, we are not dating.' 'Meet' ends in 'sya', and it also means 'go out with'. The two 'not's are a tidy pair.
-- 'So there is no serious relationship between you?' 'Relationships' only exists in the plural in Russian. 'Between you' needs a changed form of 'you'.
-- 'We are simply good friends and colleagues.' 'Friends' changes inside, from 'drug' to 'druzya'. 'Colleagues' is borrowed and looks like English.
-- 'Then I gladly agree to move in!' 'With joy' is how Russians say 'gladly'. 'Agree' ends in a consonant because Max is a man.
-- 'Great, I expect your things this evening.' 'This evening' is 'today evening', and the evening ends in 'om'. 'I wait for' is the usual phrase for saying 'I expect'.
+- 'Why didn't you tell the truth right away?' "Srazu" means 'at once'. Rasskazal is the completed form of 'tell', and pravda, the truth, becomes pravdu as the thing told.
+- 'I was very ashamed to admit it, Kostya.' "Mne bylo stydno" is literally 'to me it was shameful': the feeling happens to you, rather than being something you are. "Priznat'sya", 'to admit', ends in -sya, like many verbs about yourself.
+- 'Move in with me into a big apartment.' "Pereyezzhay", 'move in', is built from pere-, 'across', and yezzhat', to travel by transport. Ko mne means 'to my place'.
+- 'How many rooms are in your apartment?' After skol'ko, 'how many', the noun goes into its 'of' form, so komnaty becomes komnat. In tvoyey kvartire, 'your' and 'flat' both end in -e.
+- 'I have two separate rooms.' "Dve", 'two', is the feminine form, because komnata, a room, is feminine. You'd say dva for two tables.
+- 'Will we pay for the apartment fifty-fifty?' "Popolam" means 'in half', and it's what you say when you split a bill. "Budem platit'" is 'will pay', made like English: budem, 'we will', plus platit', 'to pay'.
+- 'Yes, each pays exactly half the amount.' "Rovno", 'exactly', is related to rovnyy, flat or even. "Polovina", a half, becomes polovinu as the thing being paid.
+- 'And does Nastya come over to you often?' K tebe, 'to you', also means 'to your place', just like ko mne a moment ago.
+- 'She does not come, we are not dating.' "Vstrechat'sya" means 'to meet each other', and for a couple it means 'to go out together'. Kostya says ne twice, once for each half of the sentence.
+- 'So there is no serious relationship between you?' "Znachit", 'it means', is what Russians say for 'so'. For a couple the word is plural, otnosheniya, and after net it becomes otnosheniy.
+- 'We are simply good friends and colleagues.' Drug, friend, has an irregular plural, druz'ya. "Kollegi" you can probably guess.
+- 'Then I gladly agree to move in!' S radost'yu, 'with joy', is how Russians say 'gladly'. "Soglasen", 'agreed', is the form for a man; Nastya would say soglasna.
+- 'Great, I expect your things this evening.' "Segodnya vecherom" is 'today in the evening', with vecher taking -om to become a time. "Zhdu", 'I wait', doubles as 'I'm expecting'.
