@@ -2992,47 +2992,23 @@
     },
     {
       "seg": 67,
-      "trans": "Everyone talks, and I act!",
+      "trans": "See you soon!",
       "words": [
         {
-          "t": "Все",
-          "lemma": "все",
-          "pos": "pron",
+          "t": "До",
+          "lemma": "до",
+          "pos": "prep",
           "stress": null,
-          "gloss": "everyone, all",
-          "gram": "plural, nominative"
+          "gloss": "until",
+          "gram": "preposition + genitive"
         },
         {
-          "t": "говорят,",
-          "lemma": "говорить",
-          "pos": "verb",
-          "stress": "говоря́т",
-          "gloss": "talk, say",
-          "gram": "3rd person plural present, imperfective"
-        },
-        {
-          "t": "а",
-          "lemma": "а",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "while, whereas",
-          "gram": "conjunction"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "делаю!",
-          "lemma": "делать",
-          "pos": "verb",
-          "stress": "де́лаю",
-          "gloss": "do, act",
-          "gram": "1st person singular present, imperfective"
+          "t": "встречи!",
+          "lemma": "встреча",
+          "pos": "noun",
+          "stress": "встре́чи",
+          "gloss": "meeting, next time",
+          "gram": "genitive feminine singular"
         }
       ]
     }
@@ -9329,6 +9305,48 @@
         {
           "word": "ямный",
           "gloss": "related to pit (adj.)"
+        }
+      ]
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "gloss": "until, before; up to",
+      "meanings": [
+        {
+          "en": "until, till",
+          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+        },
+        {
+          "en": "до свидания = goodbye",
+          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
+        }
+      ],
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach, walk as far as"
+        },
+        {
+          "word": "после",
+          "gloss": "after"
         }
       ]
     }

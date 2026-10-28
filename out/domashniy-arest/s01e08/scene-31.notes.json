@@ -2110,47 +2110,23 @@
     },
     {
       "seg": 63,
-      "trans": "Well, push it right back!",
+      "trans": "Have a good day!",
       "words": [
         {
-          "t": "Ну",
-          "lemma": "ну",
-          "pos": "part",
+          "t": "Хорошего",
+          "lemma": "хороший",
+          "pos": "adj",
+          "stress": "хоро́шего",
+          "gloss": "good",
+          "gram": "genitive masculine singular"
+        },
+        {
+          "t": "дня!",
+          "lemma": "день",
+          "pos": "noun",
           "stress": null,
-          "gloss": "come on, well",
-          "gram": "particle"
-        },
-        {
-          "t": "вот",
-          "lemma": "вот",
-          "pos": "part",
-          "stress": null,
-          "gloss": "then",
-          "gram": "pointing particle"
-        },
-        {
-          "t": "задвиньте",
-          "lemma": "задвинуть",
-          "pos": "verb",
-          "stress": "задви́ньте",
-          "gloss": "push back, stow",
-          "gram": "2nd person plural imperative, perfective"
-        },
-        {
-          "t": "её",
-          "lemma": "она",
-          "pos": "pron",
-          "stress": "её",
-          "gloss": "it (the hypothesis)",
-          "gram": "3rd person singular feminine accusative"
-        },
-        {
-          "t": "обратно!",
-          "lemma": "обратно",
-          "pos": "adv",
-          "stress": "обра́тно",
-          "gloss": "back",
-          "gram": "directional adverb"
+          "gloss": "day",
+          "gram": "genitive masculine singular"
         }
       ]
     }
@@ -7314,6 +7290,92 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "день": {
+      "lemma": "день",
+      "stress": "день",
+      "pos": "noun",
+      "gloss": "day",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "day",
+          "note": "на днях = in the next few days, or the other day"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "день",
+              "дни"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "дня",
+              "дней"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "дню",
+              "дням"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "день",
+              "дни"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "днём",
+              "днями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "дне",
+              "днях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Добрый день!",
+          "trans": "Good afternoon!"
+        },
+        {
+          "text": "Я позвоню на днях.",
+          "trans": "I'll call in the next few days."
+        },
+        {
+          "text": "На днях, на сайте.",
+          "trans": "Any day now, on the website."
+        }
+      ],
+      "related": [
+        {
+          "word": "деньги",
+          "gloss": "money"
         }
       ]
     }

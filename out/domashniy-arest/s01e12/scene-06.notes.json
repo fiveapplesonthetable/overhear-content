@@ -2272,55 +2272,23 @@
     },
     {
       "seg": 59,
-      "trans": "Do not worry, everything will be simply great!",
+      "trans": "All the best!",
       "words": [
         {
-          "t": "Не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "волнуйся,",
-          "lemma": "волноваться",
-          "pos": "verb",
-          "stress": "волну́йся",
-          "gloss": "worry",
-          "gram": "imperative singular, imperfective"
-        },
-        {
-          "t": "всё",
+          "t": "Всего",
           "lemma": "весь",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "everything",
-          "gram": "neuter singular nominative pronoun"
+          "pos": "det",
+          "stress": "всего́",
+          "gloss": "all",
+          "gram": "genitive neuter singular"
         },
         {
-          "t": "будет",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": "бу́дет",
-          "gloss": "will be",
-          "gram": "3rd person singular future"
-        },
-        {
-          "t": "просто",
-          "lemma": "просто",
-          "pos": "adv",
-          "stress": "про́сто",
-          "gloss": "simply",
-          "gram": "adverb"
-        },
-        {
-          "t": "отлично!",
-          "lemma": "отлично",
-          "pos": "adv",
-          "stress": "отли́чно",
-          "gloss": "great",
-          "gram": "adverb"
+          "t": "хорошего!",
+          "lemma": "хороший",
+          "pos": "adj",
+          "stress": "хоро́шего",
+          "gloss": "good, the best",
+          "gram": "genitive neuter singular"
         }
       ]
     }
@@ -7429,6 +7397,113 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "хороший": {
+      "lemma": "хороший",
+      "stress": "хоро́ший",
+      "pos": "adj",
+      "gloss": "good, nice",
+      "meanings": [
+        {
+          "en": "good, nice, lovely",
+          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "хороший",
+              "хорошая",
+              "хорошее",
+              "хорошие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "хорошего",
+              "хорошей",
+              "хорошего",
+              "хороших"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "хорошему",
+              "хорошей",
+              "хорошему",
+              "хорошим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "хороший / хорошего",
+              "хорошую",
+              "хорошее",
+              "хорошие / хороших"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "хорошим",
+              "хорошей",
+              "хорошим",
+              "хорошими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "хорошем",
+              "хорошей",
+              "хорошем",
+              "хороших"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хороший день.",
+          "trans": "A good day."
+        },
+        {
+          "text": "Какое хорошее утро!",
+          "trans": "What a lovely morning!"
+        },
+        {
+          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
+          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
+        }
+      ],
+      "related": [
+        {
+          "word": "хорошо",
+          "gloss": "well"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
         }
       ]
     }

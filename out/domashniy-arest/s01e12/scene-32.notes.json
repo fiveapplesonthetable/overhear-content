@@ -1553,114 +1553,6 @@
       ]
     },
     {
-      "seg": 57,
-      "trans": "You will answer in court according to law.",
-      "words": [
-        {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (informal)",
-          "gram": "nom.2sg"
-        },
-        {
-          "t": "ответишь",
-          "lemma": "ответить",
-          "pos": "verb",
-          "stress": "отве́тишь",
-          "gloss": "to answer, to reply",
-          "gram": "fut.2sg"
-        },
-        {
-          "t": "перед",
-          "lemma": "перед",
-          "pos": "prep",
-          "stress": "пе́ред",
-          "gloss": "in front of, before",
-          "gram": "ins"
-        },
-        {
-          "t": "судом",
-          "lemma": "суд",
-          "pos": "noun",
-          "stress": "судо́м",
-          "gloss": "court",
-          "gram": "ins.m.sg"
-        },
-        {
-          "t": "по",
-          "lemma": "по",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "along; by; about",
-          "gram": "dat"
-        },
-        {
-          "t": "закону.",
-          "lemma": "закон",
-          "pos": "noun",
-          "stress": "зако́ну",
-          "gloss": "law, statute",
-          "gram": "dat.m.sg"
-        }
-      ]
-    },
-    {
-      "seg": 59,
-      "trans": "You will answer in court according to law.",
-      "words": [
-        {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (informal)",
-          "gram": "nom.2sg"
-        },
-        {
-          "t": "ответишь",
-          "lemma": "ответить",
-          "pos": "verb",
-          "stress": "отве́тишь",
-          "gloss": "to answer, to reply",
-          "gram": "fut.2sg"
-        },
-        {
-          "t": "перед",
-          "lemma": "перед",
-          "pos": "prep",
-          "stress": "пе́ред",
-          "gloss": "in front of, before",
-          "gram": "ins"
-        },
-        {
-          "t": "судом",
-          "lemma": "суд",
-          "pos": "noun",
-          "stress": "судо́м",
-          "gloss": "court",
-          "gram": "ins.m.sg"
-        },
-        {
-          "t": "по",
-          "lemma": "по",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "along; by; about",
-          "gram": "dat"
-        },
-        {
-          "t": "закону.",
-          "lemma": "закон",
-          "pos": "noun",
-          "stress": "зако́ну",
-          "gloss": "law, statute",
-          "gram": "dat.m.sg"
-        }
-      ]
-    },
-    {
       "seg": 44,
       "trans": "Arkady Borisovich, are you alive? Get up carefully.",
       "words": [
@@ -2351,6 +2243,74 @@
           "stress": "сле́дствие",
           "gloss": "investigation, consequence",
           "gram": "nom.n.sg"
+        }
+      ]
+    },
+    {
+      "seg": 57,
+      "trans": "You will answer in court according to law.",
+      "words": [
+        {
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (informal)",
+          "gram": "nom.2sg"
+        },
+        {
+          "t": "ответишь",
+          "lemma": "ответить",
+          "pos": "verb",
+          "stress": "отве́тишь",
+          "gloss": "to answer, to reply",
+          "gram": "fut.2sg"
+        },
+        {
+          "t": "перед",
+          "lemma": "перед",
+          "pos": "prep",
+          "stress": "пе́ред",
+          "gloss": "in front of, before",
+          "gram": "ins"
+        },
+        {
+          "t": "судом",
+          "lemma": "суд",
+          "pos": "noun",
+          "stress": "судо́м",
+          "gloss": "court",
+          "gram": "ins.m.sg"
+        },
+        {
+          "t": "по",
+          "lemma": "по",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "along; by; about",
+          "gram": "dat"
+        },
+        {
+          "t": "закону.",
+          "lemma": "закон",
+          "pos": "noun",
+          "stress": "зако́ну",
+          "gloss": "law, statute",
+          "gram": "dat.m.sg"
+        }
+      ]
+    },
+    {
+      "seg": 59,
+      "trans": "Bye!",
+      "words": [
+        {
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -7168,6 +7128,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

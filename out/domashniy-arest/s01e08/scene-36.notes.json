@@ -2122,31 +2122,15 @@
     },
     {
       "seg": 63,
-      "trans": "Rush to the hospital!",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Срочно",
-          "lemma": "срочно",
+          "t": "Пока!",
+          "lemma": "пока",
           "pos": "adv",
-          "stress": "Сро́чно",
-          "gloss": "urgently",
-          "gram": "adverb"
-        },
-        {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "to",
-          "gram": "takes accusative"
-        },
-        {
-          "t": "больницу!",
-          "lemma": "больница",
-          "pos": "noun",
-          "stress": "больни́цу",
-          "gloss": "hospital",
-          "gram": "feminine singular, accusative"
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -6158,6 +6142,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

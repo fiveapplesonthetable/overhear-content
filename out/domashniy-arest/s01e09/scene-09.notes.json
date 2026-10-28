@@ -1672,39 +1672,23 @@
     },
     {
       "seg": 59,
-      "trans": "Leave these three folders.",
+      "trans": "All the best!",
       "words": [
         {
-          "t": "Оставьте",
-          "lemma": "оставить",
-          "pos": "verb",
-          "stress": "Оста́вьте",
-          "gloss": "leave",
-          "gram": "imperative plural, perfective"
+          "t": "Всего",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": "всего́",
+          "gloss": "all",
+          "gram": "genitive neuter singular"
         },
         {
-          "t": "эти",
-          "lemma": "этот",
-          "pos": "pron",
-          "stress": "э́ти",
-          "gloss": "these",
-          "gram": "plural accusative demonstrative pronoun"
-        },
-        {
-          "t": "три",
-          "lemma": "три",
-          "pos": "num",
-          "stress": null,
-          "gloss": "three",
-          "gram": "cardinal numeral, accusative"
-        },
-        {
-          "t": "папки.",
-          "lemma": "папка",
-          "pos": "noun",
-          "stress": "па́пки",
-          "gloss": "folders",
-          "gram": "plural accusative"
+          "t": "хорошего!",
+          "lemma": "хороший",
+          "pos": "adj",
+          "stress": "хоро́шего",
+          "gloss": "good, the best",
+          "gram": "genitive neuter singular"
         }
       ]
     }
@@ -5065,6 +5049,113 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "хороший": {
+      "lemma": "хороший",
+      "stress": "хоро́ший",
+      "pos": "adj",
+      "gloss": "good, nice",
+      "meanings": [
+        {
+          "en": "good, nice, lovely",
+          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "хороший",
+              "хорошая",
+              "хорошее",
+              "хорошие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "хорошего",
+              "хорошей",
+              "хорошего",
+              "хороших"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "хорошему",
+              "хорошей",
+              "хорошему",
+              "хорошим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "хороший / хорошего",
+              "хорошую",
+              "хорошее",
+              "хорошие / хороших"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "хорошим",
+              "хорошей",
+              "хорошим",
+              "хорошими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "хорошем",
+              "хорошей",
+              "хорошем",
+              "хороших"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хороший день.",
+          "trans": "A good day."
+        },
+        {
+          "text": "Какое хорошее утро!",
+          "trans": "What a lovely morning!"
+        },
+        {
+          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
+          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
+        }
+      ],
+      "related": [
+        {
+          "word": "хорошо",
+          "gloss": "well"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
         }
       ]
     }

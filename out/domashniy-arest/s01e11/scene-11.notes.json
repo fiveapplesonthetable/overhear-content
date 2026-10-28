@@ -1924,63 +1924,15 @@
     },
     {
       "seg": 51,
-      "trans": "No one has ever made breakfast for me before.",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Мне",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "to me",
-          "gram": "dative 1st person pronoun"
-        },
-        {
-          "t": "ещё",
-          "lemma": "ещё",
+          "t": "Пока!",
+          "lemma": "пока",
           "pos": "adv",
-          "stress": "ещё",
-          "gloss": "yet, ever",
-          "gram": "adverb"
-        },
-        {
-          "t": "никто",
-          "lemma": "никто",
-          "pos": "pron",
-          "stress": "никто́",
-          "gloss": "no one",
-          "gram": "negative pronoun, nominative"
-        },
-        {
-          "t": "никогда",
-          "lemma": "никогда",
-          "pos": "adv",
-          "stress": "никогда́",
-          "gloss": "never",
-          "gram": "negative adverb"
-        },
-        {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "готовил",
-          "lemma": "готовить",
-          "pos": "verb",
-          "stress": "гото́вил",
-          "gloss": "prepared, made",
-          "gram": "past masculine singular"
-        },
-        {
-          "t": "завтрак.",
-          "lemma": "завтрак",
-          "pos": "noun",
-          "stress": "за́втрак",
-          "gloss": "breakfast",
-          "gram": "masculine inanimate noun, accusative singular"
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -5700,6 +5652,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

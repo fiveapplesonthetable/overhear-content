@@ -1912,47 +1912,15 @@
     },
     {
       "seg": 59,
-      "trans": "You are right, I am a candidate after all!",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (informal)",
-          "gram": "2nd person singular, nominative"
-        },
-        {
-          "t": "права,",
-          "lemma": "правый",
-          "pos": "adj",
-          "stress": "права́",
-          "gloss": "right, correct",
-          "gram": "short adjective, feminine singular"
-        },
-        {
-          "t": "я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "же",
-          "lemma": "же",
-          "pos": "part",
-          "stress": null,
-          "gloss": "but, after all",
-          "gram": "emphatic particle"
-        },
-        {
-          "t": "кандидат!",
-          "lemma": "кандидат",
-          "pos": "noun",
-          "stress": "кандида́т",
-          "gloss": "candidate",
-          "gram": "masculine nominative singular"
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -5869,6 +5837,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

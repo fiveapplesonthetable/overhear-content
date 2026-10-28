@@ -1618,31 +1618,15 @@
     },
     {
       "seg": 53,
-      "trans": "It was a test.",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "Э́то",
-          "gloss": "this, it (is)",
-          "gram": "demonstrative, unchanging"
-        },
-        {
-          "t": "была",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": "была́",
-          "gloss": "was",
-          "gram": "feminine singular past, imperfective"
-        },
-        {
-          "t": "проверка.",
-          "lemma": "проверка",
-          "pos": "noun",
-          "stress": "прове́рка",
-          "gloss": "a test",
-          "gram": "feminine singular nominative"
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -5164,6 +5148,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

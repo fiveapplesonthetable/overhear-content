@@ -1702,63 +1702,23 @@
     },
     {
       "seg": 55,
-      "trans": "Some don't, but some do!",
+      "trans": "See you soon!",
       "words": [
         {
-          "t": "У",
-          "lemma": "у",
+          "t": "До",
+          "lemma": "до",
           "pos": "prep",
           "stress": null,
-          "gloss": "by (some don't)",
-          "gram": "+ genitive"
+          "gloss": "until",
+          "gram": "preposition + genitive"
         },
         {
-          "t": "кого",
-          "lemma": "кто",
-          "pos": "pron",
-          "stress": "кого́",
-          "gloss": "whom (some)",
-          "gram": "genitive after preposition"
-        },
-        {
-          "t": "нет,",
-          "lemma": "нет",
-          "pos": "part",
-          "stress": null,
-          "gloss": "there is no (influence)",
-          "gram": "negative predicate"
-        },
-        {
-          "t": "а",
-          "lemma": "а",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and, but",
-          "gram": "conjunction"
-        },
-        {
-          "t": "у",
-          "lemma": "у",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "by (others do)",
-          "gram": "+ genitive"
-        },
-        {
-          "t": "кого",
-          "lemma": "кто",
-          "pos": "pron",
-          "stress": "кого́",
-          "gloss": "whom (others)",
-          "gram": "genitive after preposition"
-        },
-        {
-          "t": "есть!",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": null,
-          "gloss": "there is",
-          "gram": "present existential"
+          "t": "встречи!",
+          "lemma": "встреча",
+          "pos": "noun",
+          "stress": "встре́чи",
+          "gloss": "meeting, next time",
+          "gram": "genitive feminine singular"
         }
       ]
     }
@@ -5085,6 +5045,146 @@
         {
           "word": "это",
           "gloss": "this is, it"
+        }
+      ]
+    },
+    "встреча": {
+      "lemma": "встреча",
+      "stress": "встре́ча",
+      "pos": "noun",
+      "gloss": "meeting",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "meeting",
+          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
+        },
+        {
+          "en": "see you",
+          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "встреча",
+              "встречи"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "встречи",
+              "встреч"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "встрече",
+              "встречам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "встречу",
+              "встречи"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "встречей",
+              "встречами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "встрече",
+              "встречах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До встречи!",
+          "trans": "See you!"
+        },
+        {
+          "text": "У меня встреча.",
+          "trans": "I have a meeting."
+        },
+        {
+          "text": "Решается ваш вопрос, Клавдия Викторовна! Вы не видите, у меня встреча?",
+          "trans": "Your question is being sorted out, Klavdia Viktorovna! Can't you see I have a meeting?"
+        }
+      ],
+      "related": [
+        {
+          "word": "встретиться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встречаться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встретить",
+          "gloss": "to meet"
+        }
+      ]
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "gloss": "until, before; up to",
+      "meanings": [
+        {
+          "en": "until, till",
+          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+        },
+        {
+          "en": "до свидания = goodbye",
+          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
+        }
+      ],
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach, walk as far as"
+        },
+        {
+          "word": "после",
+          "gloss": "after"
         }
       ]
     }

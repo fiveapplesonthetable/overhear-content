@@ -2494,63 +2494,23 @@
     },
     {
       "seg": 55,
-      "trans": "He must urgently be brought into a presentable state!",
+      "trans": "See you soon!",
       "words": [
         {
-          "t": "Нужно",
-          "lemma": "нужно",
-          "pos": "adv",
-          "stress": "Ну́жно",
-          "gloss": "necessary",
-          "gram": "predicative"
-        },
-        {
-          "t": "срочно",
-          "lemma": "срочно",
-          "pos": "adv",
-          "stress": "сро́чно",
-          "gloss": "urgently",
-          "gram": "adverb of manner"
-        },
-        {
-          "t": "привести",
-          "lemma": "привести",
-          "pos": "verb",
-          "stress": "привести́",
-          "gloss": "to bring",
-          "gram": "perfective infinitive"
-        },
-        {
-          "t": "его",
-          "lemma": "он",
-          "pos": "pron",
-          "stress": "его́",
-          "gloss": "him",
-          "gram": "3rd person singular masculine accusative"
-        },
-        {
-          "t": "в",
-          "lemma": "в",
+          "t": "До",
+          "lemma": "до",
           "pos": "prep",
           "stress": null,
-          "gloss": "into",
-          "gram": "preposition + accusative"
+          "gloss": "until",
+          "gram": "preposition + genitive"
         },
         {
-          "t": "человеческий",
-          "lemma": "человеческий",
-          "pos": "adj",
-          "stress": "челове́ческий",
-          "gloss": "presentable",
-          "gram": "masculine singular accusative"
-        },
-        {
-          "t": "вид!",
-          "lemma": "вид",
+          "t": "встречи!",
+          "lemma": "встреча",
           "pos": "noun",
-          "stress": null,
-          "gloss": "state",
-          "gram": "masculine singular accusative in человеческий вид"
+          "stress": "встре́чи",
+          "gloss": "meeting, next time",
+          "gram": "genitive feminine singular"
         }
       ]
     }
@@ -8489,6 +8449,48 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "gloss": "until, before; up to",
+      "meanings": [
+        {
+          "en": "until, till",
+          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+        },
+        {
+          "en": "до свидания = goodbye",
+          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
+        }
+      ],
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach, walk as far as"
+        },
+        {
+          "word": "после",
+          "gloss": "after"
         }
       ]
     }

@@ -2740,31 +2740,15 @@
     },
     {
       "seg": 81,
-      "trans": "Well, thanks, Nikolai.",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Ну,",
-          "lemma": "ну",
-          "pos": "part",
-          "stress": null,
-          "gloss": "well",
-          "gram": "particle"
-        },
-        {
-          "t": "спасибо,",
-          "lemma": "спасибо",
-          "pos": "interj",
-          "stress": "спаси́бо",
-          "gloss": "thanks",
-          "gram": "interjection"
-        },
-        {
-          "t": "Николай.",
-          "lemma": "николай",
-          "pos": "name",
-          "stress": "Никола́й",
-          "gloss": "Nikolai",
-          "gram": "first name, nominative, used as address"
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -6911,6 +6895,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }

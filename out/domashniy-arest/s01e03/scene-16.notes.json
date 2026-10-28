@@ -3238,47 +3238,23 @@
     },
     {
       "seg": 75,
-      "trans": "I'm not going to steal a dog.",
+      "trans": "Goodbye!",
       "words": [
         {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
+          "t": "До",
+          "lemma": "до",
+          "pos": "prep",
           "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "gloss": "until",
+          "gram": "preposition + genitive"
         },
         {
-          "t": "не",
-          "lemma": "не",
-          "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
-        },
-        {
-          "t": "буду",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": "бу́ду",
-          "gloss": "will, am going to",
-          "gram": "future, 1st person singular (auxiliary)"
-        },
-        {
-          "t": "воровать",
-          "lemma": "воровать",
-          "pos": "verb",
-          "stress": "ворова́ть",
-          "gloss": "steal",
-          "gram": "infinitive, imperfective"
-        },
-        {
-          "t": "собаку.",
-          "lemma": "собака",
+          "t": "свидания!",
+          "lemma": "свидание",
           "pos": "noun",
-          "stress": "соба́ку",
-          "gloss": "dog",
-          "gram": "accusative singular, feminine"
+          "stress": "свида́ния",
+          "gloss": "meeting (goodbye)",
+          "gram": "genitive neuter singular"
         }
       ]
     }
@@ -9189,6 +9165,96 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "свидание": {
+      "lemma": "свидание",
+      "stress": "свида́ние",
+      "pos": "noun",
+      "gloss": "meeting; date",
+      "gender": "n",
+      "meanings": [
+        {
+          "en": "до свидания = goodbye",
+          "note": "Literally 'until the meeting'. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+        },
+        {
+          "en": "date (romantic)",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "свидание",
+              "свидания"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "свидания",
+              "свиданий"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "свиданию",
+              "свиданиям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "свидание",
+              "свидания"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "свиданием",
+              "свиданиями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "свидании",
+              "свиданиях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "У меня сегодня свидание.",
+          "trans": "I have a date today."
+        },
+        {
+          "text": "У неё свидание.",
+          "trans": "She has a date."
+        }
+      ],
+      "related": [
+        {
+          "word": "видать",
+          "gloss": "to see"
         }
       ]
     }

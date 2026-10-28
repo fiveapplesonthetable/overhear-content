@@ -3100,39 +3100,23 @@
     },
     {
       "seg": 77,
-      "trans": "Fine, you'll get your television!",
+      "trans": "Have a good day!",
       "words": [
         {
-          "t": "Хорошо,",
-          "lemma": "хорошо",
-          "pos": "part",
-          "stress": "Хорошо́",
-          "gloss": "fine, alright",
-          "gram": "agreement particle"
+          "t": "Хорошего",
+          "lemma": "хороший",
+          "pos": "adj",
+          "stress": "хоро́шего",
+          "gloss": "good",
+          "gram": "genitive masculine singular"
         },
         {
-          "t": "будет",
-          "lemma": "быть",
-          "pos": "verb",
-          "stress": "бу́дет",
-          "gloss": "there will be",
-          "gram": "future, 3rd person singular"
-        },
-        {
-          "t": "вам",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "for you (formal)",
-          "gram": "2nd person plural, dative"
-        },
-        {
-          "t": "телевизор!",
-          "lemma": "телевизор",
+          "t": "дня!",
+          "lemma": "день",
           "pos": "noun",
-          "stress": "телеви́зор",
-          "gloss": "television",
-          "gram": "nominative singular, masculine"
+          "stress": null,
+          "gloss": "day",
+          "gram": "genitive masculine singular"
         }
       ]
     }
@@ -9220,6 +9204,92 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "день": {
+      "lemma": "день",
+      "stress": "день",
+      "pos": "noun",
+      "gloss": "day",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "day",
+          "note": "на днях = in the next few days, or the other day"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "день",
+              "дни"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "дня",
+              "дней"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "дню",
+              "дням"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "день",
+              "дни"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "днём",
+              "днями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "дне",
+              "днях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Добрый день!",
+          "trans": "Good afternoon!"
+        },
+        {
+          "text": "Я позвоню на днях.",
+          "trans": "I'll call in the next few days."
+        },
+        {
+          "text": "На днях, на сайте.",
+          "trans": "Any day now, on the website."
+        }
+      ],
+      "related": [
+        {
+          "word": "деньги",
+          "gloss": "money"
         }
       ]
     }

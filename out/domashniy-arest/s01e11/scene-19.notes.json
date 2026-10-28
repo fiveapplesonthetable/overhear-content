@@ -2398,63 +2398,23 @@
     },
     {
       "seg": 55,
-      "trans": "You must hide in a very reliable place.",
+      "trans": "Goodbye!",
       "words": [
         {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you (informal)",
-          "gram": "2nd person singular, nominative"
-        },
-        {
-          "t": "должна",
-          "lemma": "должный",
-          "pos": "adj",
-          "stress": "должна́",
-          "gloss": "must",
-          "gram": "short feminine singular"
-        },
-        {
-          "t": "спрятаться",
-          "lemma": "прятаться",
-          "pos": "verb",
-          "stress": "спря́таться",
-          "gloss": "to hide",
-          "gram": "perfective infinitive"
-        },
-        {
-          "t": "в",
-          "lemma": "в",
+          "t": "До",
+          "lemma": "до",
           "pos": "prep",
           "stress": null,
-          "gloss": "in",
-          "gram": "preposition with prepositional"
+          "gloss": "until",
+          "gram": "preposition + genitive"
         },
         {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "надёжном",
-          "lemma": "надёжный",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "reliable",
-          "gram": "neuter prepositional singular"
-        },
-        {
-          "t": "месте.",
-          "lemma": "место",
+          "t": "свидания!",
+          "lemma": "свидание",
           "pos": "noun",
-          "stress": "ме́сте",
-          "gloss": "place",
-          "gram": "neuter prepositional singular"
+          "stress": "свида́ния",
+          "gloss": "meeting (goodbye)",
+          "gram": "genitive neuter singular"
         }
       ]
     }
@@ -7339,6 +7299,96 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "свидание": {
+      "lemma": "свидание",
+      "stress": "свида́ние",
+      "pos": "noun",
+      "gloss": "meeting; date",
+      "gender": "n",
+      "meanings": [
+        {
+          "en": "до свидания = goodbye",
+          "note": "Literally 'until the meeting'. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+        },
+        {
+          "en": "date (romantic)",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "свидание",
+              "свидания"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "свидания",
+              "свиданий"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "свиданию",
+              "свиданиям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "свидание",
+              "свидания"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "свиданием",
+              "свиданиями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "свидании",
+              "свиданиях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "У меня сегодня свидание.",
+          "trans": "I have a date today."
+        },
+        {
+          "text": "У неё свидание.",
+          "trans": "She has a date."
+        }
+      ],
+      "related": [
+        {
+          "word": "видать",
+          "gloss": "to see"
         }
       ]
     }

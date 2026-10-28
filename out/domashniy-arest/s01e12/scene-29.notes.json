@@ -2392,63 +2392,23 @@
     },
     {
       "seg": 59,
-      "trans": "Let's raise this toast to your future success!",
+      "trans": "Goodbye!",
       "words": [
         {
-          "t": "Поднимем",
-          "lemma": "поднять",
-          "pos": "verb",
-          "stress": "Подни́мем",
-          "gloss": "let's raise",
-          "gram": "1st person plural, future"
-        },
-        {
-          "t": "этот",
-          "lemma": "этот",
-          "pos": "pron",
-          "stress": "э́тот",
-          "gloss": "this",
-          "gram": "inanimate masculine accusative singular"
-        },
-        {
-          "t": "тост",
-          "lemma": "тост",
-          "pos": "noun",
-          "stress": null,
-          "gloss": "toast",
-          "gram": "masculine accusative singular"
-        },
-        {
-          "t": "за",
-          "lemma": "за",
+          "t": "До",
+          "lemma": "до",
           "pos": "prep",
           "stress": null,
-          "gloss": "for, to",
-          "gram": "preposition with accusative"
+          "gloss": "until",
+          "gram": "preposition + genitive"
         },
         {
-          "t": "твой",
-          "lemma": "твой",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "your",
-          "gram": "masculine accusative singular"
-        },
-        {
-          "t": "будущий",
-          "lemma": "будущий",
-          "pos": "adj",
-          "stress": "бу́дущий",
-          "gloss": "future",
-          "gram": "masculine accusative singular"
-        },
-        {
-          "t": "успех!",
-          "lemma": "успех",
+          "t": "свидания!",
+          "lemma": "свидание",
           "pos": "noun",
-          "stress": "успе́х",
-          "gloss": "success",
-          "gram": "masculine accusative singular"
+          "stress": "свида́ния",
+          "gloss": "meeting (goodbye)",
+          "gram": "genitive neuter singular"
         }
       ]
     }
@@ -7990,6 +7950,138 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "gloss": "until, before; up to",
+      "meanings": [
+        {
+          "en": "until, till",
+          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+        },
+        {
+          "en": "до свидания = goodbye",
+          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
+        }
+      ],
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach, walk as far as"
+        },
+        {
+          "word": "после",
+          "gloss": "after"
+        }
+      ]
+    },
+    "свидание": {
+      "lemma": "свидание",
+      "stress": "свида́ние",
+      "pos": "noun",
+      "gloss": "meeting; date",
+      "gender": "n",
+      "meanings": [
+        {
+          "en": "до свидания = goodbye",
+          "note": "Literally 'until the meeting'. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+        },
+        {
+          "en": "date (romantic)",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "свидание",
+              "свидания"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "свидания",
+              "свиданий"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "свиданию",
+              "свиданиям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "свидание",
+              "свидания"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "свиданием",
+              "свиданиями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "свидании",
+              "свиданиях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "У меня сегодня свидание.",
+          "trans": "I have a date today."
+        },
+        {
+          "text": "У неё свидание.",
+          "trans": "She has a date."
+        }
+      ],
+      "related": [
+        {
+          "word": "видать",
+          "gloss": "to see"
         }
       ]
     }

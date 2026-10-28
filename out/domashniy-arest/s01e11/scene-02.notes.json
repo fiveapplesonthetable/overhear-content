@@ -1990,55 +1990,23 @@
     },
     {
       "seg": 55,
-      "trans": "I will wait for your answer anyway!",
+      "trans": "Have a good day!",
       "words": [
         {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
+          "t": "Хорошего",
+          "lemma": "хороший",
+          "pos": "adj",
+          "stress": "хоро́шего",
+          "gloss": "good",
+          "gram": "genitive masculine singular"
         },
         {
-          "t": "всё",
-          "lemma": "всё",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "all the same",
-          "gram": "adverb"
-        },
-        {
-          "t": "равно",
-          "lemma": "равно",
-          "pos": "adv",
-          "stress": "равно́",
-          "gloss": "equally",
-          "gram": "adverb"
-        },
-        {
-          "t": "дождусь",
-          "lemma": "дождаться",
-          "pos": "verb",
-          "stress": "дожду́сь",
-          "gloss": "will wait for",
-          "gram": "1st person singular future, perfective"
-        },
-        {
-          "t": "твоего",
-          "lemma": "твой",
-          "pos": "det",
-          "stress": "твоего́",
-          "gloss": "your",
-          "gram": "masculine singular genitive"
-        },
-        {
-          "t": "ответа!",
-          "lemma": "ответ",
+          "t": "дня!",
+          "lemma": "день",
           "pos": "noun",
-          "stress": "отве́та",
-          "gloss": "answer",
-          "gram": "masculine singular genitive"
+          "stress": null,
+          "gloss": "day",
+          "gram": "genitive masculine singular"
         }
       ]
     }
@@ -6339,6 +6307,199 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "день": {
+      "lemma": "день",
+      "stress": "день",
+      "pos": "noun",
+      "gloss": "day",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "day",
+          "note": "на днях = in the next few days, or the other day"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "день",
+              "дни"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "дня",
+              "дней"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "дню",
+              "дням"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "день",
+              "дни"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "днём",
+              "днями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "дне",
+              "днях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Добрый день!",
+          "trans": "Good afternoon!"
+        },
+        {
+          "text": "Я позвоню на днях.",
+          "trans": "I'll call in the next few days."
+        },
+        {
+          "text": "На днях, на сайте.",
+          "trans": "Any day now, on the website."
+        }
+      ],
+      "related": [
+        {
+          "word": "деньги",
+          "gloss": "money"
+        }
+      ]
+    },
+    "хороший": {
+      "lemma": "хороший",
+      "stress": "хоро́ший",
+      "pos": "adj",
+      "gloss": "good, nice",
+      "meanings": [
+        {
+          "en": "good, nice, lovely",
+          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "хороший",
+              "хорошая",
+              "хорошее",
+              "хорошие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "хорошего",
+              "хорошей",
+              "хорошего",
+              "хороших"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "хорошему",
+              "хорошей",
+              "хорошему",
+              "хорошим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "хороший / хорошего",
+              "хорошую",
+              "хорошее",
+              "хорошие / хороших"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "хорошим",
+              "хорошей",
+              "хорошим",
+              "хорошими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "хорошем",
+              "хорошей",
+              "хорошем",
+              "хороших"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хороший день.",
+          "trans": "A good day."
+        },
+        {
+          "text": "Какое хорошее утро!",
+          "trans": "What a lovely morning!"
+        },
+        {
+          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
+          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
+        }
+      ],
+      "related": [
+        {
+          "word": "хорошо",
+          "gloss": "well"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
         }
       ]
     }

@@ -3400,31 +3400,23 @@
     },
     {
       "seg": 85,
-      "trans": "Yes, alright. Alright!",
+      "trans": "All the best!",
       "words": [
         {
-          "t": "Да,",
-          "lemma": "да",
-          "pos": "part",
-          "stress": null,
-          "gloss": "yes",
-          "gram": "affirmative particle"
+          "t": "Всего",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": "всего́",
+          "gloss": "all",
+          "gram": "genitive neuter singular"
         },
         {
-          "t": "хорошо.",
-          "lemma": "хорошо",
-          "pos": "part",
-          "stress": "хорошо́",
-          "gloss": "alright, good",
-          "gram": "agreement particle"
-        },
-        {
-          "t": "Хорошо!",
-          "lemma": "хорошо",
-          "pos": "part",
-          "stress": "Хорошо́",
-          "gloss": "alright, good",
-          "gram": "agreement particle"
+          "t": "хорошего!",
+          "lemma": "хороший",
+          "pos": "adj",
+          "stress": "хоро́шего",
+          "gloss": "good, the best",
+          "gram": "genitive neuter singular"
         }
       ]
     }
@@ -9561,6 +9553,121 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "весь": {
+      "lemma": "весь",
+      "stress": "весь",
+      "pos": "det",
+      "gloss": "all, whole; everyone, everything",
+      "meanings": [
+        {
+          "en": "all, the whole",
+          "note": "The neuter form 'всё' used alone. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+        },
+        {
+          "en": "everything",
+          "note": "Neuter всё. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+        },
+        {
+          "en": "everyone",
+          "note": "Plural все. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "весь",
+              "вся",
+              "всё",
+              "все"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "всего",
+              "всей",
+              "всего",
+              "всех"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "всему",
+              "всей",
+              "всему",
+              "всем"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "весь / всего",
+              "всю",
+              "всё",
+              "все / всех"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "всем",
+              "всей",
+              "всем",
+              "всеми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "всём",
+              "всей",
+              "всём",
+              "всех"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Всё нормально.",
+          "trans": "Everything's fine."
+        },
+        {
+          "text": "Как вы все знаете...",
+          "trans": "As you all know..."
+        },
+        {
+          "text": "Поделись со всеми.",
+          "trans": "Share with everyone."
+        }
+      ],
+      "related": [
+        {
+          "word": "всё",
+          "gloss": "everything"
+        },
+        {
+          "word": "все",
+          "gloss": "everyone"
+        },
+        {
+          "word": "всегда",
+          "gloss": "always"
         }
       ]
     }

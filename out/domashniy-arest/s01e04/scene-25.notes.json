@@ -2446,39 +2446,23 @@
     },
     {
       "seg": 61,
-      "trans": "To our new life!",
+      "trans": "See you soon!",
       "words": [
         {
-          "t": "За",
-          "lemma": "за",
+          "t": "До",
+          "lemma": "до",
           "pos": "prep",
           "stress": null,
-          "gloss": "to, for (in a toast)",
-          "gram": "preposition + accusative"
+          "gloss": "until",
+          "gram": "preposition + genitive"
         },
         {
-          "t": "нашу",
-          "lemma": "наш",
-          "pos": "det",
-          "stress": "на́шу",
-          "gloss": "our",
-          "gram": "accusative singular, feminine"
-        },
-        {
-          "t": "новую",
-          "lemma": "новый",
-          "pos": "adj",
-          "stress": "но́вую",
-          "gloss": "new",
-          "gram": "accusative singular, feminine"
-        },
-        {
-          "t": "жизнь!",
-          "lemma": "жизнь",
+          "t": "встречи!",
+          "lemma": "встреча",
           "pos": "noun",
-          "stress": null,
-          "gloss": "life",
-          "gram": "accusative singular, feminine"
+          "stress": "встре́чи",
+          "gloss": "meeting, next time",
+          "gram": "genitive feminine singular"
         }
       ]
     }
@@ -7578,6 +7562,146 @@
         {
           "word": "этот",
           "gloss": "this (before a noun)"
+        }
+      ]
+    },
+    "встреча": {
+      "lemma": "встреча",
+      "stress": "встре́ча",
+      "pos": "noun",
+      "gloss": "meeting",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "meeting",
+          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
+        },
+        {
+          "en": "see you",
+          "note": "In 'до встречи' = until we meet. Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'треча'). Common feminine noun meaning 'meeting' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "встреча",
+              "встречи"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "встречи",
+              "встреч"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "встрече",
+              "встречам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "встречу",
+              "встречи"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "встречей",
+              "встречами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "встрече",
+              "встречах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До встречи!",
+          "trans": "See you!"
+        },
+        {
+          "text": "У меня встреча.",
+          "trans": "I have a meeting."
+        },
+        {
+          "text": "Решается ваш вопрос, Клавдия Викторовна! Вы не видите, у меня встреча?",
+          "trans": "Your question is being sorted out, Klavdia Viktorovna! Can't you see I have a meeting?"
+        }
+      ],
+      "related": [
+        {
+          "word": "встретиться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встречаться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встретить",
+          "gloss": "to meet"
+        }
+      ]
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "gloss": "until, before; up to",
+      "meanings": [
+        {
+          "en": "until, till",
+          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+        },
+        {
+          "en": "до свидания = goodbye",
+          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
+        }
+      ],
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach, walk as far as"
+        },
+        {
+          "word": "после",
+          "gloss": "after"
         }
       ]
     }

@@ -1744,31 +1744,15 @@
     },
     {
       "seg": 55,
-      "trans": "I will sign everything.",
+      "trans": "Bye!",
       "words": [
         {
-          "t": "Я",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "всё",
-          "lemma": "всё",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "everything",
-          "gram": "neuter singular accusative"
-        },
-        {
-          "t": "подпишу.",
-          "lemma": "подписать",
-          "pos": "verb",
-          "stress": "подпишу́",
-          "gloss": "will sign",
-          "gram": "1st person singular future, perfective"
+          "t": "Пока!",
+          "lemma": "пока",
+          "pos": "adv",
+          "stress": "пока́",
+          "gloss": "bye!",
+          "gram": "informal farewell interjection"
         }
       ]
     }
@@ -5592,6 +5576,44 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "bye",
+      "meanings": [
+        {
+          "en": "bye, see you",
+          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
+        },
+        {
+          "en": "while, for now",
+          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     }
