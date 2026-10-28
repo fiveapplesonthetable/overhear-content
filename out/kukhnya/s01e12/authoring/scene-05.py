@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "Victoria approaches Chef Barinov with a colorful advertising flyer for a new Italian restaurant, Arcobaleno, opening right next door. While Victoria urgently presses for fresh menu updates to meet the incoming competition, Barinov vehemently refuses any changes to his kitchen. Let's listen to their heated debate in Russian."
-OPENER = "Now let's examine how Victoria and Barinov clash over the new restaurant competition line by line."
+INTRO = 'Back in the dining room, Vika has found a leaflet for an Italian restaurant opening next door, and she shows it to Chef Barinov. She wants to change the menu, and he does not. Here is their argument in Russian first.'
+OPENER = "Let's take it a line at a time, and keep an eye on who is afraid of whom."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Refusing to alter his culinary traditions, Barinov retreats to his kitchen while Victoria seeks other ways to compete. Next time you watch the episode, listen for the Russian expressions for 'illness' and 'to be afraid' — you will catch every word right away. See you next time!"
+OUTRO = "Barinov stomps off, and Vika is left with a leaflet and a problem. When you watch, count how often he says 'my' about the kitchen."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('vika', 'Витя, посмотри на этот рекламный буклет!', 'Vitya, look at this advertising flyer!', [(41, 'Полюбуйся.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'А на кухню ко мне не лезь!', 'And do not get into my kitchen!', [(57, 'А ко мне на кухню не лезь.')], ''),
 ]
 WALK = [
-    (0, None, "'Vitya, look at this advertising flyer!' Victoria shows the promotional material to Barinov."),
-    (1, None, "'What kind of strange word is Arcobaleno?' Barinov questions the foreign name with disgust."),
-    (2, None, "'What is that anyway, a rare kidney disease?' He mocks the unusual restaurant name sarcastically."),
-    (3, None, "'Arcobaleno means rainbow in Italian, Vitya.' Victoria explains the literal meaning patiently."),
-    (4, None, "'I will not go to their cafe!' Barinov refuses to show any interest in their business."),
-    (5, None, "'In a week they are opening right next to us.' Victoria warns him of the impending competition."),
-    (6, None, "'Oh, I am scared, cafe Rainbow will bankrupt us!' Barinov ridicules the notion that they pose a threat."),
-    (7, None, "'Vitya, it is time for us to attract new guests.' Victoria urges an urgent update to their approach."),
-    (8, None, "'We need to urgently change our menu.' She suggests refreshing their culinary offerings."),
-    (9, None, "'We are the best, and people love us for that!' Barinov proudly defends his classic recipes with passion."),
-    (10, None, "'The restaurant needs fresh and bold ideas.' Victoria insists on modern marketing strategies."),
-    (11, None, "'Change everything in the dining room, on your turf!' Barinov draws a clear line between front of house and kitchen."),
-    (12, None, "'And do not get into my kitchen!' He strictly forbids any administrative interference in his domain."),
+    (0, None, "'Vitya, look at this advertising leaflet!' 'Vitya' is a short, friendly form of Viktor, and very few people dare to use it. 'Reklamny' is just 'reklama', 'advert', with a new ending, and 'buklet' is 'booklet' with a Russian accent."),
+    (1, None, "'What kind of strange word is Arcobaleno?' 'What kind of' is literally 'what this for'. 'Slovo' is the word for 'word',."),
+    (2, None, "'What is that anyway, a rare kidney disease?' 'Vobshche' means 'in general' and 'at all', and Russians put it everywhere. 'Rare' and 'illness' match in gender, and 'of kidneys' is a single word."),
+    (3, None, "'Arcobaleno means rainbow in Italian, Vitya.' 'Znachit' means 'means', and it's also a filler like 'so' in speech. 'In Italian' is one word: 'po' at the front and 'ski' at the back make 'in that language'."),
+    (4, None, "'I will not go to their cafe!' 'Ikh' means 'their' and never changes, whatever it describes. 'Cafe' doesn't change either."),
+    (5, None, "'In a week they are opening right next to us.' 'Through a week' is how Russians say 'in a week'. 'They open' ends in 'sya', which is literally 'they open themselves'."),
+    (6, None, "'Oh, I am scared, cafe Rainbow will ruin us!' Barinov uses the Russian word for 'rainbow', the translation of 'Arcobaleno', as an insult. 'I am scared' is a single word, 'boyus'."),
+    (7, None, "'Vitya, it is time for us to attract new guests.' 'Nam pora' is literally 'to us time', which is how Russians say 'it's time for us'. 'New' and 'guests' both end in 'kh' here."),
+    (8, None, "'We need to urgently change our menu.' 'Nuzhno' means 'necessary', and the action word follows it. 'Menyu' doesn't change shape, just like 'cafe'."),
+    (9, None, "'We are the best, and people love us for that!' Nobody says 'they' here. The bare word 'love', in its 'they' form, means 'people in general'. Russian does that a lot when nobody in particular is meant."),
+    (10, None, "'The restaurant needs fresh and bold ideas.' 'Restoranu' ends in 'u' because the restaurant is the one in need, so it's 'to the restaurant needed ideas'. 'Bold' and 'fresh' both end in 'e' because 'ideas' is a group."),
+    (11, None, "'Change everything in the dining room, on your own territory!' 'Menyay' is the order 'change'. 'Zal' means a hall, and after 'in' it turns into 'v zale'. 'Svoey' is 'your own' again."),
+    (12, None, "'And do not get into my kitchen!' 'Ne lez' is the rude, informal way of saying 'stay out', literally 'don't climb'. 'Ko mne' is 'to me', with an extra 'o' to make it easier to say."),
 ]

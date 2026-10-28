@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "Undeterred by her initial rejection, Max follows Victoria to her office to apologize for his prank. However, Victoria is in no mood for jokes and delivers a crushing blow to his ego. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine this harsh rejection line by line."
+INTRO = 'Max follows Vika into her office to say sorry for the trick. It goes badly, because she is not in the mood for jokes. Here is the scene in Russian first.'
+OPENER = "Let's go back through it and see how each answer of hers closes another door."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Stung by Victoria's cruel words, a humbled Max retreats to the kitchen, realizing that his charming tricks will not work on her anymore. Next time you watch the episode, listen for the Russian expressions for 'ticket' and 'to be' — you will catch every word right away. See you next time!"
+OUTRO = "Max leaves with 'empty place' still ringing in his ears. When you watch, listen for the moment he switches from 'you' to the polite 'you'."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Вика, послушай, нам было так хорошо вместе.', 'Vika, listen, it was so good for us together.', [(16, 'Вик, ты что-то пишешь, пошутил.'), (17, 'Слушай, нам было так трогательно.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Ладно, извините, я ухожу прямо сейчас.', 'Alright, excuse me, I am leaving right now.', [(26, 'Ладно, извините.')], ''),
 ]
 WALK = [
-    (0, None, "'Vika, listen, it was so good for us together.' Max tries to remind Vika of the good times they had."),
-    (1, None, "'Listen to me carefully, my dear friend.' Vika tells him to pay close attention. Calling him her dear friend sounds very sarcastic here."),
-    (2, None, "'What is with you? You are so angry today.' Max wonders why she is acting so angry with him."),
-    (3, None, "'Joke your stupid jokes in the kitchen!' Vika tells him to take his silly jokes back to the kitchen."),
-    (4, None, "'Why are you talking to me so rudely?' Max asks why she is speaking to him so harshly."),
-    (5, None, "'There are many of the same idiots behind the door.' Vika points out that there are plenty of other idiots out there."),
-    (6, None, "'But I brought us tickets to the cinema.' Max mentions the movie tickets again to win her over."),
-    (7, None, "'I am not interested in your tickets to the cinema.' Vika clearly states she does not care about his tickets. Literally she says the tickets are not interesting to me."),
-    (8, None, "'Why do you not want to go with me?' Max asks why she refuses to go out with him."),
-    (9, None, "'Because you are an empty place to me.' Vika says he means absolutely nothing to her. She calls him an empty place."),
-    (10, None, "'An empty place? You are a very kind girl.' Max repeats her harsh words and sarcastically calls her a very kind girl."),
-    (11, None, "'Have you understood everything? And now leave from here.' Vika checks if he got the message and tells him to leave."),
-    (12, None, "'Alright, excuse me, I am leaving right now.' Max apologizes and says he is leaving immediately."),
+    (0, None, "'Vika, listen, it was so good for us together.' 'Listen' is the order to a friend. 'It was good to us' puts the people as 'to us' and the feeling as a plain word, 'good', with no 'is' anywhere."),
+    (1, None, "'Listen to me carefully, my dear friend.' It's the same action as Max's 'listen', minus the 'po' at the front. 'Dear' also means 'expensive' in Russian, and here Vika means it sarcastically."),
+    (2, None, "'What is with you? You are so angry today.' 'What with you' is how Russians say 'what's wrong with you?'. 'Angry' ends in 'aya' because Max is talking about a woman."),
+    (3, None, "'Joke your stupid jokes in the kitchen!' 'Joke' and 'jokes' come from one root. 'Stupid' is built from the word for 'fool', so it's close to 'fool-ish'. 'Svoi' means 'your own'."),
+    (4, None, "'Why are you talking to me so rudely?' This is a different 'why' from the usual one: 'zachem' asks 'what for'. 'With me' is 'so mnoy', where 'so' is just 'with' with an extra vowel."),
+    (5, None, "'There are many of the same idiots behind the door.' After 'many', the next word takes a special ending, which is why 'idiots' finishes in 'ov'. 'Za' means 'behind', and the door changes its ending after it."),
+    (6, None, "'But I brought us tickets to the cinema.' 'Brought' ends in a consonant because Max is a man. It means 'carried here', the one you'd use for a gift or a delivery."),
+    (7, None, "'I am not interested in your tickets to the cinema.' Vika doesn't say 'I' either. She says 'to me not interesting'. 'Your' is 'tvoi', for someone you call 'ty'."),
+    (8, None, "'Why do you not want to go with me?' 'Khochesh' is 'you want', and 'khochu' would be 'I want'. 'To go' follows it in its basic shape, just like English."),
+    (9, None, "'Because you are an empty place to me.' 'Because' is a cousin of the word for 'why', which Russian teachers like to point out. 'Empty place' is an idiom for a nobody, and 'empty' ends in 'oe' to match 'mesto'."),
+    (10, None, "'An empty place? You are a very kind girl.' Max repeats her words as a question, like an echo. 'Kind' is sarcasm, and it's the opposite of what he feels."),
+    (11, None, "'Have you understood everything? And now leave from here.' 'Understood' ends in 'l' because Max is a man. 'Uydi' is an order meaning 'go away', and 'from here' is a single word in Russian."),
+    (12, None, "'Alright, excuse me, I am leaving right now.' Max switches to the polite 'excuse me', the form you'd use to a boss or a stranger. It tells you he has backed off and put some distance between them."),
 ]

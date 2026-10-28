@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
-INTRO = "In the dining room near the waiter station, Max stages an elaborate medical emergency to get waitress Sasha's attention. Pretending to suffer from acute appendicitis, he draws her close before surprising her with cinema tickets. Let's listen to their playful encounter in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the symptoms of distress, medical emergency phrasing, and casual conversational invitations."
+INTRO = 'After Vika, Max tries the same trick on someone else. He finds Sasha, a waitress, by the service station and suddenly groans in pain. Here it is in Russian first.'
+OPENER = "Let's walk through this one, which is mostly about how Sasha reacts."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Sasha heads off to her tables with a laugh while Max celebrates the success of his clever theatrical ploy. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'appendicitis' and 'performer' — you will catch every word right away. See you next time!"
+OUTRO = "Sasha laughs and goes back to her tables, and Max finally gets a yes. When you watch, notice that Sasha's 'what happened to you' is the question you'd want to know in a real emergency."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Саша, привет! Как дела?', 'Sasha, hi! How are things?', [(27, 'Саш, привет.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('sasha', 'Ладно, пойдём! До вечера, артист.', "All right, let's go! See you tonight, actor.", [], ''),
 ]
 WALK = [
-    (0, None, "'Sasha, hi! How are things?' Max greets Sasha and asks how she is doing."),
-    (1, None, "'Hi, little cook! Everything is normal.' Sasha says hello back. She calls him a little cook in a friendly way."),
-    (2, None, "'Oh, ow! How painful!' Max fakes stomach pain again. He cries out in fake agony."),
-    (3, None, "'What happened to you?' Sasha asks what is wrong with him."),
-    (4, None, "'I have a sharp pain in my side.' Max complains about a sharp stabbing pain in his side."),
-    (5, None, "'On which side exactly?' Sasha wants to know exactly which side hurts."),
-    (6, None, "'Right here, on the right side.' Max points out that the pain is on his right side."),
-    (7, None, "'On the right? That could be appendicitis!' Sasha gets worried because right side pain could mean appendicitis."),
-    (8, None, "'Shall I urgently call an ambulance?' Sasha offers to call for medical help right away. The word for ambulance literally means fast."),
-    (9, None, "'No, no need for any ambulance!' Max quickly stops her from calling anyone."),
-    (10, None, "'Look, I have two tickets!' Max reveals his trick and shows her the movie tickets instead."),
-    (11, None, "'What? You are just a jerk, Max!' Sasha is shocked and calls him a jerk for the stupid joke."),
-    (12, None, "'Will you go to the movies with me tonight?' Max asks her if she will join him for a movie later."),
-    (13, None, "'All right, let's go! See you tonight, actor.' Sasha agrees to go. She calls him an actor because of his fake pain."),
+    (0, None, "'Sasha, hi! How are things?' 'Privet' is the casual hi, for friends only. 'Kak dela' is literally 'how deeds', and it's what Russians say instead of 'how are you'."),
+    (1, None, "'Hi, little cook! Everything is normal.' Sasha's nickname is the word for 'cook' plus an ending that means 'young one'. Baby animals get the same ending, like 'volchonok', a wolf cub."),
+    (2, None, "'Oh, ow! How painful!' 'Oy' really is the Russian 'ouch', so that one's easy. 'How painful' has no 'is' in it, as you'd expect by now."),
+    (3, None, "'What happened to you?' 'Happened' ends in 'los' because 'what' counts as neuter in Russian. 'S toboy' is 'with you', and 'chto s toboy' is the standard way to ask what's wrong."),
+    (4, None, "'I have a sharp pain in my side.' Russian says 'at me strongly stabs in the side'. 'U menya', literally 'at me', is how you say 'I have', and 'side' takes an odd 'u' ending after 'in'."),
+    (5, None, "'On which side exactly?' The first part is literally 'from what side'. 'Imenno' means 'exactly' and it's a useful word for asking someone to be specific."),
+    (6, None, "'Right here, on the right side.' 'Vot' points, so 'vot zdes' is almost the spoken version of jabbing a finger. The word for 'right' is the one that means the side, as well as 'correct'."),
+    (7, None, "'On the right? That could be appendicitis!' 'Mozhet byt' means 'can be', and it's also how Russians say 'maybe'. The word for appendicitis is nearly the English one, wearing a Russian ending."),
+    (8, None, "'Shall I urgently call an ambulance?' The word for ambulance is really 'quick', short for 'quick help'. It's feminine, so it ends in 'uyu' when it is the thing being called."),
+    (9, None, "'No, no need for any ambulance!' 'No' plus 'not' appear together again, 'nikakoy' and 'ne'. 'Ne nado' is 'not necessary', the everyday way to say 'no need'."),
+    (10, None, "'Look, I have two tickets!' It's 'u menya' again, but now it means 'I have'. 'Smotri' is the order 'look', which you'd say to a friend."),
+    (11, None, "'What? You are just a jerk, Max!' 'Prosto' means 'simply', and it makes the insult sound friendly, not furious. A friend can say 'you're just a jerk' and mean it fondly."),
+    (12, None, "'Will you go with me to the movies tonight?' The 'you' form of 'go' does the job of 'will you go', with no helper word. 'Vecherom' is 'in the evening', and the 'om' ending is what makes it 'in'."),
+    (13, None, "'All right, let's go! See you tonight, actor.' 'Do vechera' is 'until evening', the usual way to say 'see you later today'. The last word is 'actor', and Sasha is teasing him about the performance."),
 ]
