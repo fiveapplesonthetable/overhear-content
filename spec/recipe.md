@@ -7,14 +7,11 @@ Adapted from the project's recipe. Every scene becomes one short listening story
   no exclamations, no hype, no innuendo. Reassure, don't perform.
 - Target-language speakers. Each scene has at most **three** speaking roles besides the narrator; fewer is better.
 
-| show language | lead role key (optional, fixed voice) | other role keys (any name, voice from this pool) |
-|---|---|---|
-| ru (Russian) | `anya` -> voice `alisa` | `anja` or `angelina` (e.g. `chef`, `lena`, `seller`) |
-| fr (French)  | `lea`  -> voice `lucie` | `emilie`, `theo`, `marcel` |
-
-The lead key (`anya`/`lea`) is for ONE character per show (the lead), never a free slot for whoever is the scene's viewpoint; it need not be in every scene.
-Other roles get a display name in `labels` (role -> name in the target language). Each role has its own voice.
-Characters from the show who have no voice are spoken about by the narrator or folded into the nearest role.
+One character = one role key = the character's own name (`max`, `barinov`, `kostya`, `nastya`), everywhere in a show.
+There are no viewpoint or protagonist slot keys (`anya`, `lea`, ...). The show's characters live in `out/<show>/cast.json`
+(`key`, `ru`, `en` names, `gender`); scripts carry no `voices`, the renderer picks voices from `gender`. `labels` repeats
+the `ru` name of each speaking key. Characters from the show who have no voice are spoken about by the narrator or folded
+into the nearest role.
 
 ## Level and tone
 - **A1** (Duolingo section 2/3): very simple vocabulary, short present-tense sentences, a few new words per scene,
@@ -52,6 +49,5 @@ Characters from the show who have no voice are spoken about by the narrator or f
 
 ## Added rules (see FEEDBACK.md, 2026-10-28)
 - Part 5 ends with a **new** short farewell line, never a repeat of a story line.
-- A character keeps **one role key and one voice for the whole show**; `characters.md` lists every role key you use
-  (a line `Story role key / voice: \`key\` -> voice`). The `anya`/`lea` slot is only for the show's lead;
-  see FEEDBACK.md section "Voices".
+- A character keeps **one role key for the whole show**, the character's own name, listed in `out/<show>/cast.json`.
+  See FEEDBACK.md "P-1". Walk-through explanations sound like a person, not a template (same section).

@@ -25,8 +25,16 @@ class T(unittest.TestCase):
         self.tmp = Path(tempfile.mkdtemp())
         self.ep = self.tmp / "kukhnya" / "s01e02"
         self.ep.mkdir(parents=True)
-        (self.tmp / "kukhnya" / "characters.md").write_text("Story role key / voice: `chef` -> anja")
-        self.script = json.loads((EX / "scene.json").read_text(encoding="utf-8"))
+        self.cast = {"schemaVersion": 1, "show": "kukhnya", "other_names": ["Claude Monet"], "cast": [
+            {"key": "barinov", "ru": "Шеф", "en": ["Barinov", "Viktor", "Chef"], "gender": "m"},
+            {"key": "nastya", "ru": "Настя", "en": ["Nastya"], "gender": "f"},
+            {"key": "max", "ru": "Макс", "en": ["Max", "Maksim", "Lavrov"], "gender": "m"}]}
+        self.write_cast()
+        # examples/ predates cast.json: map its slot keys onto the character keys and drop `voices`
+        raw = (EX / "scene.json").read_text(encoding="utf-8").replace('"anya"', '"nastya"').replace('"chef"', '"barinov"').replace("Anya", "Nastya")
+        self.script = json.loads(raw)
+        del self.script["voices"]
+        self.script["labels"] = {"barinov": "Шеф", "nastya": "Настя"}
         self.script.update({"id": "kukhnya-s01e02-scene-01", "schemaVersion": 1, "show": "kukhnya", "season": 1,
                             "episode": 2, "scene": 1})
         self.script["source"]["show"] = "Кухня (Kukhnya) S1.02"
@@ -37,6 +45,10 @@ class T(unittest.TestCase):
         self.write()
 
     def tearDown(self): shutil.rmtree(self.tmp)
+
+    def write_cast(self):
+        (self.tmp / "kukhnya" / "cast.json").write_text(json.dumps(self.cast, ensure_ascii=False))
+        v._CAST.clear()
 
     def write(self):
         (self.ep / "scenes.json").write_text(json.dumps(self.scenes, ensure_ascii=False))
@@ -160,30 +172,122 @@ class T(unittest.TestCase):
         self.assertTrue(v.schema_errors({}, sch, sch))
         self.assertTrue(v.schema_errors({"a": 1, "c": 1}, sch, sch))
 
-    def test_role_key_must_be_in_characters_md(self):
-        (self.tmp / "kukhnya" / "characters.md").write_text("nothing here")
-        v._KEYS.clear()
-        self.assertTrue(any("`chef` is not in kukhnya/characters.md" in e for e in self.errs()))
-        v._KEYS.clear()
+    # ---- P-1: one character = one role key, taken from cast.json; names in the narration match the speaker
+    def test_cast_missing(self):
+        (self.tmp / "kukhnya" / "cast.json").unlink(); v._CAST.clear()
+        self.assertTrue(any("missing cast.json" in e for e in self.errs()))
 
-    def test_one_voice_per_character(self):
-        v.CHAR_VOICES.clear()
-        for sid, voice in (("a", "anja"), ("b", "angelina")):
-            self.script["voices"]["chef"] = voice
-            f = self.tmp / f"{sid}.json"; f.write_text(json.dumps(self.script, ensure_ascii=False))
-            v.check_script(f, "ru", v.Report())
-        rep = v.Report(); v.check_voices(rep); v.CHAR_VOICES.clear()
-        self.assertTrue(any("more than one voice" in e for e in rep.errors))
+    def test_cast_slot_key_is_rejected(self):
+        self.cast["cast"].append({"key": "anya", "ru": "Аня", "en": ["Anya"], "gender": "f"}); self.write_cast()
+        self.assertTrue(any("viewpoint/protagonist slot" in e for e in self.errs()))
 
-    def test_one_role_key_per_character(self):
-        v.CHAR_KEYS.clear()
-        for key in ("chef", "boss"):
-            self.script["voices"] = {"narrator": "sky", "anya": "alisa", key: "anja"}
-            self.script["labels"] = {key: "Шеф"}
-            f = self.tmp / f"{key}.json"; f.write_text(json.dumps(self.script, ensure_ascii=False))
-            v.check_script(f, "ru", v.Report())
-        rep = v.Report(); v.check_voices(rep); v.CHAR_KEYS.clear()
-        self.assertTrue(any("more than one role key" in e for e in rep.errors))
+    def test_cast_schema_and_duplicates(self):
+        self.cast["cast"][1]["gender"] = "x"; self.write_cast()
+        self.assertTrue(any("cast.json" in e and "gender" in e for e in self.errs()))
+        self.cast["cast"][1]["gender"] = "f"
+        self.cast["cast"].append({"key": "boss", "ru": "Шеф", "en": ["Boss"], "gender": "m"}); self.write_cast()   # same person, second key
+        self.assertTrue(any("same display name" in e for e in self.errs()))
+
+    def test_role_key_must_be_in_cast(self):
+        for seg in self.script["segments"]:
+            if seg["v"] == "nastya": seg["v"] = "vika"
+        self.script["labels"] = {"barinov": "Шеф", "vika": "Вика"}
+        errs = self.errs()
+        self.assertTrue(any("role key `vika` is not in cast.json" in e for e in errs))
+
+    def test_slot_key_in_script_is_rejected(self):
+        for seg in self.script["segments"]:
+            if seg["v"] == "nastya": seg["v"] = "anya"
+        self.script["labels"] = {"barinov": "Шеф", "anya": "Настя"}
+        self.assertTrue(any("`anya` is not in cast.json (viewpoint slot" in e for e in self.errs()))
+
+    def test_voices_field_is_gone(self):
+        self.script["voices"] = {"narrator": "sky", "nastya": "angelina", "barinov": "anja"}
+        self.assertTrue(any("unknown field 'voices'" in e for e in self.errs()))
+
+    def test_label_must_equal_cast_ru(self):
+        self.script["labels"]["barinov"] = "Баринов"
+        self.assertTrue(any("label for `barinov` is 'Баринов', cast.json says 'Шеф'" in e for e in self.errs()))
+
+    def narr(self, i, text):
+        self.script["segments"][i]["t"] = text
+
+    def first_gloss_index(self):
+        return next(i for i, s in enumerate(self.script["segments"]) if i and s["v"] == "narrator" and self.script["segments"][i - 1]["v"] != "narrator" and v.split_gloss(s["t"]))
+
+    def test_narrator_name_must_be_in_cast(self):
+        self.narr(0, "Vasily walks into the kitchen. " + self.script["segments"][0]["t"])
+        self.assertTrue(any("narration names 'Vasily'" in e for e in self.errs()))
+        self.narr(0, "Max and Viktor Barinov meet at Claude Monet. Maksim's day starts badly. Nobody expects the Russian chef.")
+        self.assertFalse(any("narration names" in e for e in self.errs()))
+
+    def test_narrator_names_the_actual_speaker(self):
+        i = self.first_gloss_index(); who = self.script["segments"][i - 1]["v"]
+        other, ok = ("Nastya", "Barinov") if who == "barinov" else ("Barinov", "Nastya")
+        self.narr(i, "'He says it.' " + other + " says it with a smile.")
+        self.assertTrue(any(f"narration says {other!r} did this" in e for e in self.errs()))
+        for good in (ok + " says it with a smile.", "He says it with a smile.", "The speaker says it with a smile."):
+            self.narr(i, "'He says it.' " + good)
+            self.assertFalse(any("did this but" in e for e in self.errs()), good)
+
+    def test_gender_heuristic_is_a_warning(self):
+        seg = next(s for s in self.script["segments"] if s["v"] == "barinov")
+        seg["t"] = "Я вчера пошла домой."
+        self.write(); rep = run(self.ep)
+        self.assertTrue(any("is male but says 'пошла'" in e for e in rep.warnings))
+        self.assertFalse(any("пошла" in e for e in rep.errors))
+        seg["t"] = "Я вчера пошёл домой. Это была ошибка."
+        self.write(); self.assertFalse(any("is male" in e for e in run(self.ep).warnings))
+
+    # ---- P-1 problem 2: explanations that sound like a person
+    def segs_with(self, explanations, speaker="barinov"):
+        segs = [{"v": "narrator", "t": "Intro.", "gap": 0.5}]
+        for k, e in enumerate(explanations):
+            segs.append({"v": speaker, "t": "Привет.", "gap": 0.5})
+            segs.append({"v": "narrator", "t": "'Hello, number %d.' %s" % (k, e), "gap": 0.5})
+        return {"id": "x-s01e01-scene-01", "show": "kukhnya", "segments": segs}
+
+    def explain(self, explanations, cast=True):
+        v.TEMPLATE_SEEN.clear(); rep = v.Report()
+        v.check_explanations("w", self.segs_with(explanations), "kukhnya", v.load_cast(self.tmp / "kukhnya", v.Report()) if cast else None, rep)
+        v.check_templates(rep)
+        return rep.errors
+
+    def test_template_detector(self):
+        template = ["Notice how naturally this everyday Russian phrase expresses the point number %d." % k for k in range(v.TEMPLATE_MAX + 1)]
+        errs = self.explain(template)
+        self.assertEqual(len([e for e in errs if "reused template" in e]), v.TEMPLATE_MAX + 1)       # an error on every line
+        self.assertEqual([e for e in self.explain(template[:v.TEMPLATE_MAX]) if "reused template" in e], [])   # exactly the limit is fine
+        # same skeleton although the quoted words and the names differ
+        named = ["Here Max puts 'cat %d' before 'dog' for emphasis." % k for k in range(v.TEMPLATE_MAX)] + ["Here Nastya puts 'sun' before 'moon' for emphasis."]
+        self.assertTrue(any("reused template" in e for e in self.explain(named)))
+
+    def test_natural_repeats_do_not_trip_the_detector(self):
+        openers = ["He means that the shift is over for today.", "He means it kindly, whatever it sounds like.", "This is the first time Max hears it.",
+                   "It sounds rude in English, but it is only a joke.", "Barinov says it with a smile.", "You will hear this one all the time."]
+        errs = self.explain(openers * 2)       # each opening appears twice
+        self.assertEqual([e for e in errs if "reused template" in e], [])
+
+    def test_skeleton_normalisation(self):
+        a, _ = v.skeleton("Max puts 'cat' before 'dog' to stress it.", {"Max"})
+        b, _ = v.skeleton("Barinov puts 'sun' before 'moon' to stress it.", {"Barinov"})
+        self.assertEqual(a, b)
+        self.assertEqual(a, "N puts Q before Q to")
+
+    def test_grammar_label_ending(self):
+        for bad in ("The chef confronts Max with a past tense verb and duration phrase.", "Barinov barks his insult using command form verbs.",
+                    "She explains it via the dative case.", "Max protests politely with past and future verbs."):
+            self.assertTrue(any("grammar label" in e for e in self.explain([bad])), bad)
+        for good in ("Barinov doesn't say 'Max'. He uses the surname, the way a stern boss puts you in your place.",
+                     "It's what you'd shout at a group who all owe you money.", "Max protests politely, with a sigh."):
+            self.assertEqual([e for e in self.explain([good]) if "grammar label" in e], [], good)
+
+    def test_grammar_density(self):
+        jargon = "The verb is in the past tense and the noun is in the accusative case."
+        plain = "He is gloating because he had money on Max being late."
+        self.assertTrue(any("use grammar terms" in e for e in self.explain([jargon] * 3 + [plain] * 3)))
+        self.assertEqual([e for e in self.explain([jargon] + [plain] * 7) if "use grammar terms" in e], [])         # 1 of 8
+        self.assertEqual([e for e in self.explain([jargon] * 3) if "use grammar terms" in e], [])                    # too few lines to judge
 
     def test_words_must_be_whitespace_tokens(self):
         n = self.good_notes()

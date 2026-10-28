@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://overhear.invalid/schema/cast.v1.json",
+  "title": "cast.json (the cast of one show)",
+  "description": "out/<show>/cast.json. One entry per character; the key is the character's own name. Scripts use only these keys; the renderer picks voices from `gender`.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "show",
+    "cast"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "show": {
+      "enum": [
+        "kukhnya",
+        "domashniy-arest",
+        "dix-pour-cent"
+      ]
+    },
+    "cast": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "key",
+          "ru",
+          "en",
+          "gender"
+        ],
+        "properties": {
+          "key": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_]*$",
+            "description": "role key = the character's own name in lowercase Latin (max, barinov, kostya, nastya). Never a viewpoint/protagonist slot (anya, lea, lead, hero ...)."
+          },
+          "ru": {
+            "type": "string",
+            "minLength": 1,
+            "description": "display name in the show's language, exactly as used in `labels` of every script (fr shows: the French display name)."
+          },
+          "en": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "description": "names the English narration may use for this character. First = the canonical form. Include accepted short forms, e.g. [\"Max\",\"Maksim\",\"Lavrov\",\"Maksim Lavrov\"] or [\"Barinov\",\"Viktor\",\"Chef\",\"Viktor Barinov\"]. A form may be several words; each word is accepted on its own."
+          },
+          "gender": {
+            "enum": [
+              "m",
+              "f"
+            ],
+            "description": "drives the voice (renderer) and grammar agreement in the character's lines."
+          }
+        }
+      }
+    },
+    "other_names": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Optional. Non-character proper nouns the English narration may use (restaurants, places, teams): [\"Claude Monet\", \"Arcobaleno\", \"Voronezh\"]. Any other capitalised name that is neither here nor a character is an error."
+    }
+  }
+}

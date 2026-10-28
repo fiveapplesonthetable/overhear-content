@@ -10,7 +10,7 @@ gaps, checks the language rules, and checks every claimed source line against th
     (see examples/*/authoring.py; SOURCE_FILE is relative to the repo root)
 
 An authoring module defines:
-    ID, TITLE, LEVEL, PAIR ("ru-en" | "fr-en"), VOICES, LABELS, SOURCE_NAME, SOURCE_FILE,
+    ID, TITLE, LEVEL, PAIR ("ru-en" | "fr-en"), LABELS, SOURCE_NAME, SOURCE_FILE,
     INTRO, STORY, OPENER, WALK, TRANSITION, OUTRO, CLOSING
   STORY    [(role, text, english, [(cue_no, "fragment of the subtitle line"), ...], note)]
   WALK     [(story_line_index, sentence_or_None, narrator_gloss)]  replay then explain
@@ -97,9 +97,9 @@ def build(mod, check_source=True):
     add("narrator", mod.OUTRO, 0.5)
     add(mod.CLOSING[0], mod.CLOSING[1], 0.3)
 
-    for r in {s["v"] for s in segs}:
-        if r not in mod.VOICES:
-            problems.append(f"role {r!r} missing from VOICES")
+    for r in {s["v"] for s in segs} - {"narrator"}:
+        if r not in mod.LABELS:
+            problems.append(f"role {r!r} missing from LABELS (and it must be a key of out/<show>/cast.json; no VOICES any more)")
 
     review = [f"# {mod.ID}: review sheet", "",
               f"Title: {mod.TITLE}", f"Level: {mod.LEVEL}", f"Pair: {mod.PAIR}",
@@ -132,13 +132,13 @@ def build(mod, check_source=True):
     review += ["", "## Walk-through narration (English only, no target-language words quoted)", ""]
     review += [f"- {g}" for _, _, g in mod.WALK]
     spec = {"id": mod.ID, "pair": mod.PAIR, "title": mod.TITLE, "level": mod.LEVEL,
-            "voices": mod.VOICES, "labels": mod.LABELS, "segments": segs,
+            "labels": mod.LABELS, "segments": segs,
             "source": {"show": mod.SOURCE_NAME, "file": str(mod.SOURCE_FILE), "lines": sources}}
     return spec, "\n".join(review) + "\n", problems
 
 
 def label_of(mod, role):
-    return {"narrator": "Narrator", "anya": "Аня", "lea": "Léa"}.get(role) or mod.LABELS.get(role, role)
+    return {"narrator": "Narrator"}.get(role) or mod.LABELS.get(role, role)
 
 
 if __name__ == "__main__":
