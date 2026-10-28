@@ -1,4440 +1,4804 @@
 {
- "lines": [
-  {
-   "seg": 1,
-   "trans": "Who wants some good news?",
-   "words": [
+  "lines": [
     {
-     "t": "Qui",
-     "lemma": "qui",
-     "pos": "pron",
-     "stress": "ki",
-     "gloss": "who",
-     "gram": "interrogative pronoun, subject"
+      "seg": 1,
+      "trans": "Who wants some good news?",
+      "words": [
+        {
+          "t": "Qui",
+          "lemma": "qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "who",
+          "gram": "interrogative pronoun, subject"
+        },
+        {
+          "t": "veut",
+          "lemma": "vouloir",
+          "pos": "verb",
+          "stress": "vø",
+          "gloss": "wants",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "une",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "yn",
+          "gloss": "a (piece of)",
+          "gram": "indefinite article, feminine singular"
+        },
+        {
+          "t": "bonne",
+          "lemma": "bon",
+          "pos": "adj",
+          "stress": "bɔn",
+          "gloss": "good",
+          "gram": "feminine singular, agrees with 'nouvelle'"
+        },
+        {
+          "t": "nouvelle?",
+          "lemma": "nouvelle",
+          "pos": "noun",
+          "stress": "nuvɛl",
+          "gloss": "news (piece of news)",
+          "gram": "feminine singular"
+        }
+      ]
     },
     {
-     "t": "veut",
-     "lemma": "vouloir",
-     "pos": "verb",
-     "stress": "vø",
-     "gloss": "wants",
-     "gram": "present, 3rd person singular"
+      "seg": 2,
+      "trans": "Sofia got the part!",
+      "words": [
+        {
+          "t": "Sofia",
+          "lemma": "sofia",
+          "pos": "name",
+          "stress": "sɔfja",
+          "gloss": "Sofia (first name)",
+          "gram": "proper name"
+        },
+        {
+          "t": "a",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "a",
+          "gloss": "has",
+          "gram": "auxiliary 'avoir', present, 3rd person singular"
+        },
+        {
+          "t": "eu",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "y",
+          "gloss": "had (got)",
+          "gram": "past participle of 'avoir'; 'a eu' = got"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "rôle!",
+          "lemma": "rôle",
+          "pos": "noun",
+          "stress": "ʁol",
+          "gloss": "part, role",
+          "gram": "masculine singular"
+        }
+      ]
     },
     {
-     "t": "une",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "yn",
-     "gloss": "a (piece of)",
-     "gram": "indefinite article, feminine singular"
+      "seg": 3,
+      "trans": "Great! In the costume drama?",
+      "words": [
+        {
+          "t": "Super!",
+          "lemma": "super",
+          "pos": "adj",
+          "stress": "sypɛʁ",
+          "gloss": "great!, fantastic!",
+          "gram": "invariable exclamation"
+        },
+        {
+          "t": "Dans",
+          "lemma": "dans",
+          "pos": "prep",
+          "stress": "dɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "film",
+          "lemma": "film",
+          "pos": "noun",
+          "stress": "film",
+          "gloss": "movie, film",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition; 'en costume' = in period costume"
+        },
+        {
+          "t": "costume?",
+          "lemma": "costume",
+          "pos": "noun",
+          "stress": "kɔstym",
+          "gloss": "period costume",
+          "gram": "masculine singular"
+        }
+      ]
     },
     {
-     "t": "bonne",
-     "lemma": "bon",
-     "pos": "adj",
-     "stress": "bɔn",
-     "gloss": "good",
-     "gram": "feminine singular, agrees with 'nouvelle'"
+      "seg": 4,
+      "trans": "The director is smart.",
+      "words": [
+        {
+          "t": "Le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "réalisateur",
+          "lemma": "réalisateur",
+          "pos": "noun",
+          "stress": "ʁealizatœʁ",
+          "gloss": "director",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "ɛ",
+          "gloss": "is",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "intelligent.",
+          "lemma": "intelligent",
+          "pos": "adj",
+          "stress": "ɛ̃teliʒɑ̃",
+          "gloss": "smart, clever",
+          "gram": "masculine singular"
+        }
+      ]
     },
     {
-     "t": "nouvelle?",
-     "lemma": "nouvelle",
-     "pos": "noun",
-     "stress": "nuvɛl",
-     "gloss": "news (piece of news)",
-     "gram": "feminine singular"
+      "seg": 5,
+      "trans": "No, Sofia is playing the slave.",
+      "words": [
+        {
+          "t": "Non,",
+          "lemma": "non",
+          "pos": "adv",
+          "stress": "nɔ̃",
+          "gloss": "no",
+          "gram": "negative answer"
+        },
+        {
+          "t": "Sofia",
+          "lemma": "sofia",
+          "pos": "name",
+          "stress": "sɔfja",
+          "gloss": "Sofia (first name)",
+          "gram": "proper name"
+        },
+        {
+          "t": "joue",
+          "lemma": "jouer",
+          "pos": "verb",
+          "stress": "ʒu",
+          "gloss": "plays, is playing",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "l'esclave.",
+          "lemma": "esclave",
+          "pos": "noun",
+          "stress": "lɛsklav",
+          "gloss": "the slave",
+          "gram": "la (elided l') + esclave: feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 6,
+      "trans": "No! Really?",
+      "words": [
+        {
+          "t": "Non!",
+          "lemma": "non",
+          "pos": "adv",
+          "stress": "nɔ̃",
+          "gloss": "no!",
+          "gram": "exclamation of disbelief"
+        },
+        {
+          "t": "C'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "is it (it's)",
+          "gram": "ce (elided c', it) + est: present, 3rd person singular"
+        },
+        {
+          "t": "vrai?",
+          "lemma": "vrai",
+          "pos": "adj",
+          "stress": "vʁɛ",
+          "gloss": "true, really",
+          "gram": "masculine singular; 'c'est vrai?' = really?"
+        }
+      ]
+    },
+    {
+      "seg": 7,
+      "trans": "Yes, she does the cleaning for the duchess.",
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "positive answer"
+        },
+        {
+          "t": "elle",
+          "lemma": "elle",
+          "pos": "pron",
+          "stress": "ɛl",
+          "gloss": "she",
+          "gram": "subject pronoun, 3rd person singular feminine"
+        },
+        {
+          "t": "fait",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "does",
+          "gram": "present, 3rd person singular; 'faire le ménage' = to do the cleaning"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "ménage",
+          "lemma": "ménage",
+          "pos": "noun",
+          "stress": "menaʒ",
+          "gloss": "cleaning, housework",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "pour",
+          "lemma": "pour",
+          "pos": "prep",
+          "stress": "puʁ",
+          "gloss": "for",
+          "gram": "preposition"
+        },
+        {
+          "t": "la",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
+        },
+        {
+          "t": "duchesse.",
+          "lemma": "duchesse",
+          "pos": "noun",
+          "stress": "dyʃɛs",
+          "gloss": "duchess",
+          "gram": "feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 8,
+      "trans": "She's going to be furious with me.",
+      "words": [
+        {
+          "t": "Elle",
+          "lemma": "elle",
+          "pos": "pron",
+          "stress": "ɛl",
+          "gloss": "she",
+          "gram": "subject pronoun, 3rd person singular feminine"
+        },
+        {
+          "t": "va",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "is going to",
+          "gram": "present, 3rd person singular; near future (aller + infinitive)"
+        },
+        {
+          "t": "être",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "ɛtʁ",
+          "gloss": "be",
+          "gram": "infinitive after 'aller'"
+        },
+        {
+          "t": "furieuse",
+          "lemma": "furieux",
+          "pos": "adj",
+          "stress": "fyʁjøz",
+          "gloss": "furious",
+          "gram": "feminine singular of 'furieux', agrees with 'elle'"
+        },
+        {
+          "t": "contre",
+          "lemma": "contre",
+          "pos": "prep",
+          "stress": "kɔ̃tʁ",
+          "gloss": "with, against",
+          "gram": "preposition after 'furieuse'"
+        },
+        {
+          "t": "moi.",
+          "lemma": "moi",
+          "pos": "pron",
+          "stress": "mwa",
+          "gloss": "me",
+          "gram": "stressed pronoun after a preposition"
+        }
+      ]
+    },
+    {
+      "seg": 9,
+      "trans": "I'm playing the slave?",
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "joue",
+          "lemma": "jouer",
+          "pos": "verb",
+          "stress": "ʒu",
+          "gloss": "play, am playing",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "l'esclave?",
+          "lemma": "esclave",
+          "pos": "noun",
+          "stress": "lɛsklav",
+          "gloss": "the slave",
+          "gram": "la (elided l') + esclave: feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 10,
+      "trans": "Yes, but with lines to say as well.",
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "positive answer"
+        },
+        {
+          "t": "mais",
+          "lemma": "mais",
+          "pos": "conj",
+          "stress": "mɛ",
+          "gloss": "but",
+          "gram": "coordinating conjunction"
+        },
+        {
+          "t": "avec",
+          "lemma": "avec",
+          "pos": "prep",
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition"
+        },
+        {
+          "t": "du",
+          "lemma": "du",
+          "pos": "det",
+          "stress": "dy",
+          "gloss": "some",
+          "gram": "partitive article, masculine singular (de + le)"
+        },
+        {
+          "t": "texte",
+          "lemma": "texte",
+          "pos": "noun",
+          "stress": "tɛkst",
+          "gloss": "lines, text",
+          "gram": "masculine singular ('du texte' = spoken lines)"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in ('en plus' = as well)",
+          "gram": "preposition in the phrase 'en plus'"
+        },
+        {
+          "t": "plus.",
+          "lemma": "plus",
+          "pos": "adv",
+          "stress": "plys",
+          "gloss": "addition, extra",
+          "gram": "'en plus' = in addition, as well (final s pronounced)"
+        }
+      ]
+    },
+    {
+      "seg": 11,
+      "trans": "I got the part?",
+      "words": [
+        {
+          "t": "J'ai",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je (elided j') + ai: auxiliary 'avoir', present, 1st person singular"
+        },
+        {
+          "t": "eu",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "y",
+          "gloss": "had (got)",
+          "gram": "past participle of 'avoir'; 'j'ai eu' = I got"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "rôle?",
+          "lemma": "rôle",
+          "pos": "noun",
+          "stress": "ʁol",
+          "gloss": "part, role",
+          "gram": "masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 12,
+      "trans": "In a film with JoeyStarr!",
+      "words": [
+        {
+          "t": "Dans",
+          "lemma": "dans",
+          "pos": "prep",
+          "stress": "dɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "film",
+          "lemma": "film",
+          "pos": "noun",
+          "stress": "film",
+          "gloss": "movie, film",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "avec",
+          "lemma": "avec",
+          "pos": "prep",
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition"
+        },
+        {
+          "t": "JoeyStarr!",
+          "lemma": "joeystarr",
+          "pos": "name",
+          "stress": "dʒoistaʁ",
+          "gloss": "JoeyStarr (French rapper and actor)",
+          "gram": "proper name"
+        }
+      ]
+    },
+    {
+      "seg": 13,
+      "trans": "That's brilliant! Oh, Gabriel!",
+      "words": [
+        {
+          "t": "C'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "that's, it's",
+          "gram": "ce (elided c', it) + est: present, 3rd person singular"
+        },
+        {
+          "t": "génial!",
+          "lemma": "génial",
+          "pos": "adj",
+          "stress": "ʒenjal",
+          "gloss": "brilliant, awesome",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "Oh,",
+          "lemma": "oh",
+          "pos": "interj",
+          "stress": "o",
+          "gloss": "oh!",
+          "gram": "exclamation"
+        },
+        {
+          "t": "Gabriel!",
+          "lemma": "gabriel",
+          "pos": "name",
+          "stress": "ɡabʁijɛl",
+          "gloss": "Gabriel (first name)",
+          "gram": "proper name"
+        }
+      ]
+    },
+    {
+      "seg": 14,
+      "trans": "Thank you! I love you, I love you!",
+      "words": [
+        {
+          "t": "Merci!",
+          "lemma": "merci",
+          "pos": "interj",
+          "stress": "mɛʁsi",
+          "gloss": "thank you!",
+          "gram": "polite thanks"
+        },
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "t'aime,",
+          "lemma": "aimer",
+          "pos": "verb",
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
+        },
+        {
+          "t": "je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "t'aime!",
+          "lemma": "aimer",
+          "pos": "verb",
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
+        }
+      ]
+    },
+    {
+      "seg": 16,
+      "trans": "Who wants some good news?",
+      "words": [
+        {
+          "t": "Qui",
+          "lemma": "qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "who",
+          "gram": "interrogative pronoun, subject"
+        },
+        {
+          "t": "veut",
+          "lemma": "vouloir",
+          "pos": "verb",
+          "stress": "vø",
+          "gloss": "wants",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "une",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "yn",
+          "gloss": "a (piece of)",
+          "gram": "indefinite article, feminine singular"
+        },
+        {
+          "t": "bonne",
+          "lemma": "bon",
+          "pos": "adj",
+          "stress": "bɔn",
+          "gloss": "good",
+          "gram": "feminine singular, agrees with 'nouvelle'"
+        },
+        {
+          "t": "nouvelle?",
+          "lemma": "nouvelle",
+          "pos": "noun",
+          "stress": "nuvɛl",
+          "gloss": "news (piece of news)",
+          "gram": "feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 18,
+      "trans": "Sofia got the part!",
+      "words": [
+        {
+          "t": "Sofia",
+          "lemma": "sofia",
+          "pos": "name",
+          "stress": "sɔfja",
+          "gloss": "Sofia (first name)",
+          "gram": "proper name"
+        },
+        {
+          "t": "a",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "a",
+          "gloss": "has",
+          "gram": "auxiliary 'avoir', present, 3rd person singular"
+        },
+        {
+          "t": "eu",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "y",
+          "gloss": "had (got)",
+          "gram": "past participle of 'avoir'; 'a eu' = got"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "rôle!",
+          "lemma": "rôle",
+          "pos": "noun",
+          "stress": "ʁol",
+          "gloss": "part, role",
+          "gram": "masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "Great! In the costume drama?",
+      "words": [
+        {
+          "t": "Super!",
+          "lemma": "super",
+          "pos": "adj",
+          "stress": "sypɛʁ",
+          "gloss": "great!, fantastic!",
+          "gram": "invariable exclamation"
+        },
+        {
+          "t": "Dans",
+          "lemma": "dans",
+          "pos": "prep",
+          "stress": "dɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "film",
+          "lemma": "film",
+          "pos": "noun",
+          "stress": "film",
+          "gloss": "movie, film",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition; 'en costume' = in period costume"
+        },
+        {
+          "t": "costume?",
+          "lemma": "costume",
+          "pos": "noun",
+          "stress": "kɔstym",
+          "gloss": "period costume",
+          "gram": "masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 22,
+      "trans": "The director is smart.",
+      "words": [
+        {
+          "t": "Le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "réalisateur",
+          "lemma": "réalisateur",
+          "pos": "noun",
+          "stress": "ʁealizatœʁ",
+          "gloss": "director",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "ɛ",
+          "gloss": "is",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "intelligent.",
+          "lemma": "intelligent",
+          "pos": "adj",
+          "stress": "ɛ̃teliʒɑ̃",
+          "gloss": "smart, clever",
+          "gram": "masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "No, Sofia is playing the slave.",
+      "words": [
+        {
+          "t": "Non,",
+          "lemma": "non",
+          "pos": "adv",
+          "stress": "nɔ̃",
+          "gloss": "no",
+          "gram": "negative answer"
+        },
+        {
+          "t": "Sofia",
+          "lemma": "sofia",
+          "pos": "name",
+          "stress": "sɔfja",
+          "gloss": "Sofia (first name)",
+          "gram": "proper name"
+        },
+        {
+          "t": "joue",
+          "lemma": "jouer",
+          "pos": "verb",
+          "stress": "ʒu",
+          "gloss": "plays, is playing",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "l'esclave.",
+          "lemma": "esclave",
+          "pos": "noun",
+          "stress": "lɛsklav",
+          "gloss": "the slave",
+          "gram": "la (elided l') + esclave: feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "No! Really?",
+      "words": [
+        {
+          "t": "Non!",
+          "lemma": "non",
+          "pos": "adv",
+          "stress": "nɔ̃",
+          "gloss": "no!",
+          "gram": "exclamation of disbelief"
+        },
+        {
+          "t": "C'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "is it (it's)",
+          "gram": "ce (elided c', it) + est: present, 3rd person singular"
+        },
+        {
+          "t": "vrai?",
+          "lemma": "vrai",
+          "pos": "adj",
+          "stress": "vʁɛ",
+          "gloss": "true, really",
+          "gram": "masculine singular; 'c'est vrai?' = really?"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "Yes, she does the cleaning for the duchess.",
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "positive answer"
+        },
+        {
+          "t": "elle",
+          "lemma": "elle",
+          "pos": "pron",
+          "stress": "ɛl",
+          "gloss": "she",
+          "gram": "subject pronoun, 3rd person singular feminine"
+        },
+        {
+          "t": "fait",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "does",
+          "gram": "present, 3rd person singular; 'faire le ménage' = to do the cleaning"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "ménage",
+          "lemma": "ménage",
+          "pos": "noun",
+          "stress": "menaʒ",
+          "gloss": "cleaning, housework",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "pour",
+          "lemma": "pour",
+          "pos": "prep",
+          "stress": "puʁ",
+          "gloss": "for",
+          "gram": "preposition"
+        },
+        {
+          "t": "la",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
+        },
+        {
+          "t": "duchesse.",
+          "lemma": "duchesse",
+          "pos": "noun",
+          "stress": "dyʃɛs",
+          "gloss": "duchess",
+          "gram": "feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 30,
+      "trans": "She's going to be furious with me.",
+      "words": [
+        {
+          "t": "Elle",
+          "lemma": "elle",
+          "pos": "pron",
+          "stress": "ɛl",
+          "gloss": "she",
+          "gram": "subject pronoun, 3rd person singular feminine"
+        },
+        {
+          "t": "va",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "is going to",
+          "gram": "present, 3rd person singular; near future (aller + infinitive)"
+        },
+        {
+          "t": "être",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "ɛtʁ",
+          "gloss": "be",
+          "gram": "infinitive after 'aller'"
+        },
+        {
+          "t": "furieuse",
+          "lemma": "furieux",
+          "pos": "adj",
+          "stress": "fyʁjøz",
+          "gloss": "furious",
+          "gram": "feminine singular of 'furieux', agrees with 'elle'"
+        },
+        {
+          "t": "contre",
+          "lemma": "contre",
+          "pos": "prep",
+          "stress": "kɔ̃tʁ",
+          "gloss": "with, against",
+          "gram": "preposition after 'furieuse'"
+        },
+        {
+          "t": "moi.",
+          "lemma": "moi",
+          "pos": "pron",
+          "stress": "mwa",
+          "gloss": "me",
+          "gram": "stressed pronoun after a preposition"
+        }
+      ]
+    },
+    {
+      "seg": 32,
+      "trans": "I'm playing the slave?",
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "joue",
+          "lemma": "jouer",
+          "pos": "verb",
+          "stress": "ʒu",
+          "gloss": "play, am playing",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "l'esclave?",
+          "lemma": "esclave",
+          "pos": "noun",
+          "stress": "lɛsklav",
+          "gloss": "the slave",
+          "gram": "la (elided l') + esclave: feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 34,
+      "trans": "Yes, but with lines to say as well.",
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "positive answer"
+        },
+        {
+          "t": "mais",
+          "lemma": "mais",
+          "pos": "conj",
+          "stress": "mɛ",
+          "gloss": "but",
+          "gram": "coordinating conjunction"
+        },
+        {
+          "t": "avec",
+          "lemma": "avec",
+          "pos": "prep",
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition"
+        },
+        {
+          "t": "du",
+          "lemma": "du",
+          "pos": "det",
+          "stress": "dy",
+          "gloss": "some",
+          "gram": "partitive article, masculine singular (de + le)"
+        },
+        {
+          "t": "texte",
+          "lemma": "texte",
+          "pos": "noun",
+          "stress": "tɛkst",
+          "gloss": "lines, text",
+          "gram": "masculine singular ('du texte' = spoken lines)"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in ('en plus' = as well)",
+          "gram": "preposition in the phrase 'en plus'"
+        },
+        {
+          "t": "plus.",
+          "lemma": "plus",
+          "pos": "adv",
+          "stress": "plys",
+          "gloss": "addition, extra",
+          "gram": "'en plus' = in addition, as well (final s pronounced)"
+        }
+      ]
+    },
+    {
+      "seg": 36,
+      "trans": "I got the part?",
+      "words": [
+        {
+          "t": "J'ai",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je (elided j') + ai: auxiliary 'avoir', present, 1st person singular"
+        },
+        {
+          "t": "eu",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "y",
+          "gloss": "had (got)",
+          "gram": "past participle of 'avoir'; 'j'ai eu' = I got"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "rôle?",
+          "lemma": "rôle",
+          "pos": "noun",
+          "stress": "ʁol",
+          "gloss": "part, role",
+          "gram": "masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 38,
+      "trans": "In a film with JoeyStarr!",
+      "words": [
+        {
+          "t": "Dans",
+          "lemma": "dans",
+          "pos": "prep",
+          "stress": "dɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "film",
+          "lemma": "film",
+          "pos": "noun",
+          "stress": "film",
+          "gloss": "movie, film",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "avec",
+          "lemma": "avec",
+          "pos": "prep",
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition"
+        },
+        {
+          "t": "JoeyStarr!",
+          "lemma": "joeystarr",
+          "pos": "name",
+          "stress": "dʒoistaʁ",
+          "gloss": "JoeyStarr (French rapper and actor)",
+          "gram": "proper name"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "That's brilliant! Oh, Gabriel!",
+      "words": [
+        {
+          "t": "C'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "that's, it's",
+          "gram": "ce (elided c', it) + est: present, 3rd person singular"
+        },
+        {
+          "t": "génial!",
+          "lemma": "génial",
+          "pos": "adj",
+          "stress": "ʒenjal",
+          "gloss": "brilliant, awesome",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "Oh,",
+          "lemma": "oh",
+          "pos": "interj",
+          "stress": "o",
+          "gloss": "oh!",
+          "gram": "exclamation"
+        },
+        {
+          "t": "Gabriel!",
+          "lemma": "gabriel",
+          "pos": "name",
+          "stress": "ɡabʁijɛl",
+          "gloss": "Gabriel (first name)",
+          "gram": "proper name"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "Thank you! I love you, I love you!",
+      "words": [
+        {
+          "t": "Merci!",
+          "lemma": "merci",
+          "pos": "interj",
+          "stress": "mɛʁsi",
+          "gloss": "thank you!",
+          "gram": "polite thanks"
+        },
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "t'aime,",
+          "lemma": "aimer",
+          "pos": "verb",
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
+        },
+        {
+          "t": "je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "t'aime!",
+          "lemma": "aimer",
+          "pos": "verb",
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "Who wants some good news?",
+      "words": [
+        {
+          "t": "Qui",
+          "lemma": "qui",
+          "pos": "pron",
+          "stress": "ki",
+          "gloss": "who",
+          "gram": "interrogative pronoun, subject"
+        },
+        {
+          "t": "veut",
+          "lemma": "vouloir",
+          "pos": "verb",
+          "stress": "vø",
+          "gloss": "wants",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "une",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "yn",
+          "gloss": "a (piece of)",
+          "gram": "indefinite article, feminine singular"
+        },
+        {
+          "t": "bonne",
+          "lemma": "bon",
+          "pos": "adj",
+          "stress": "bɔn",
+          "gloss": "good",
+          "gram": "feminine singular, agrees with 'nouvelle'"
+        },
+        {
+          "t": "nouvelle?",
+          "lemma": "nouvelle",
+          "pos": "noun",
+          "stress": "nuvɛl",
+          "gloss": "news (piece of news)",
+          "gram": "feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "Sofia got the part!",
+      "words": [
+        {
+          "t": "Sofia",
+          "lemma": "sofia",
+          "pos": "name",
+          "stress": "sɔfja",
+          "gloss": "Sofia (first name)",
+          "gram": "proper name"
+        },
+        {
+          "t": "a",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "a",
+          "gloss": "has",
+          "gram": "auxiliary 'avoir', present, 3rd person singular"
+        },
+        {
+          "t": "eu",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "y",
+          "gloss": "had (got)",
+          "gram": "past participle of 'avoir'; 'a eu' = got"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "rôle!",
+          "lemma": "rôle",
+          "pos": "noun",
+          "stress": "ʁol",
+          "gloss": "part, role",
+          "gram": "masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "Great! In the costume drama?",
+      "words": [
+        {
+          "t": "Super!",
+          "lemma": "super",
+          "pos": "adj",
+          "stress": "sypɛʁ",
+          "gloss": "great!, fantastic!",
+          "gram": "invariable exclamation"
+        },
+        {
+          "t": "Dans",
+          "lemma": "dans",
+          "pos": "prep",
+          "stress": "dɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "film",
+          "lemma": "film",
+          "pos": "noun",
+          "stress": "film",
+          "gloss": "movie, film",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in",
+          "gram": "preposition; 'en costume' = in period costume"
+        },
+        {
+          "t": "costume?",
+          "lemma": "costume",
+          "pos": "noun",
+          "stress": "kɔstym",
+          "gloss": "period costume",
+          "gram": "masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "The director is smart.",
+      "words": [
+        {
+          "t": "Le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "réalisateur",
+          "lemma": "réalisateur",
+          "pos": "noun",
+          "stress": "ʁealizatœʁ",
+          "gloss": "director",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "ɛ",
+          "gloss": "is",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "intelligent.",
+          "lemma": "intelligent",
+          "pos": "adj",
+          "stress": "ɛ̃teliʒɑ̃",
+          "gloss": "smart, clever",
+          "gram": "masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "No, Sofia is playing the slave.",
+      "words": [
+        {
+          "t": "Non,",
+          "lemma": "non",
+          "pos": "adv",
+          "stress": "nɔ̃",
+          "gloss": "no",
+          "gram": "negative answer"
+        },
+        {
+          "t": "Sofia",
+          "lemma": "sofia",
+          "pos": "name",
+          "stress": "sɔfja",
+          "gloss": "Sofia (first name)",
+          "gram": "proper name"
+        },
+        {
+          "t": "joue",
+          "lemma": "jouer",
+          "pos": "verb",
+          "stress": "ʒu",
+          "gloss": "plays, is playing",
+          "gram": "present, 3rd person singular"
+        },
+        {
+          "t": "l'esclave.",
+          "lemma": "esclave",
+          "pos": "noun",
+          "stress": "lɛsklav",
+          "gloss": "the slave",
+          "gram": "la (elided l') + esclave: feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "No! Really?",
+      "words": [
+        {
+          "t": "Non!",
+          "lemma": "non",
+          "pos": "adv",
+          "stress": "nɔ̃",
+          "gloss": "no!",
+          "gram": "exclamation of disbelief"
+        },
+        {
+          "t": "C'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "is it (it's)",
+          "gram": "ce (elided c', it) + est: present, 3rd person singular"
+        },
+        {
+          "t": "vrai?",
+          "lemma": "vrai",
+          "pos": "adj",
+          "stress": "vʁɛ",
+          "gloss": "true, really",
+          "gram": "masculine singular; 'c'est vrai?' = really?"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "Yes, she does the cleaning for the duchess.",
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "positive answer"
+        },
+        {
+          "t": "elle",
+          "lemma": "elle",
+          "pos": "pron",
+          "stress": "ɛl",
+          "gloss": "she",
+          "gram": "subject pronoun, 3rd person singular feminine"
+        },
+        {
+          "t": "fait",
+          "lemma": "faire",
+          "pos": "verb",
+          "stress": "fɛ",
+          "gloss": "does",
+          "gram": "present, 3rd person singular; 'faire le ménage' = to do the cleaning"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "ménage",
+          "lemma": "ménage",
+          "pos": "noun",
+          "stress": "menaʒ",
+          "gloss": "cleaning, housework",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "pour",
+          "lemma": "pour",
+          "pos": "prep",
+          "stress": "puʁ",
+          "gloss": "for",
+          "gram": "preposition"
+        },
+        {
+          "t": "la",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "la",
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
+        },
+        {
+          "t": "duchesse.",
+          "lemma": "duchesse",
+          "pos": "noun",
+          "stress": "dyʃɛs",
+          "gloss": "duchess",
+          "gram": "feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 51,
+      "trans": "She's going to be furious with me.",
+      "words": [
+        {
+          "t": "Elle",
+          "lemma": "elle",
+          "pos": "pron",
+          "stress": "ɛl",
+          "gloss": "she",
+          "gram": "subject pronoun, 3rd person singular feminine"
+        },
+        {
+          "t": "va",
+          "lemma": "aller",
+          "pos": "verb",
+          "stress": "va",
+          "gloss": "is going to",
+          "gram": "present, 3rd person singular; near future (aller + infinitive)"
+        },
+        {
+          "t": "être",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "ɛtʁ",
+          "gloss": "be",
+          "gram": "infinitive after 'aller'"
+        },
+        {
+          "t": "furieuse",
+          "lemma": "furieux",
+          "pos": "adj",
+          "stress": "fyʁjøz",
+          "gloss": "furious",
+          "gram": "feminine singular of 'furieux', agrees with 'elle'"
+        },
+        {
+          "t": "contre",
+          "lemma": "contre",
+          "pos": "prep",
+          "stress": "kɔ̃tʁ",
+          "gloss": "with, against",
+          "gram": "preposition after 'furieuse'"
+        },
+        {
+          "t": "moi.",
+          "lemma": "moi",
+          "pos": "pron",
+          "stress": "mwa",
+          "gloss": "me",
+          "gram": "stressed pronoun after a preposition"
+        }
+      ]
+    },
+    {
+      "seg": 52,
+      "trans": "I'm playing the slave?",
+      "words": [
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "joue",
+          "lemma": "jouer",
+          "pos": "verb",
+          "stress": "ʒu",
+          "gloss": "play, am playing",
+          "gram": "present, 1st person singular"
+        },
+        {
+          "t": "l'esclave?",
+          "lemma": "esclave",
+          "pos": "noun",
+          "stress": "lɛsklav",
+          "gloss": "the slave",
+          "gram": "la (elided l') + esclave: feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 53,
+      "trans": "Yes, but with lines to say as well.",
+      "words": [
+        {
+          "t": "Oui,",
+          "lemma": "oui",
+          "pos": "adv",
+          "stress": "wi",
+          "gloss": "yes",
+          "gram": "positive answer"
+        },
+        {
+          "t": "mais",
+          "lemma": "mais",
+          "pos": "conj",
+          "stress": "mɛ",
+          "gloss": "but",
+          "gram": "coordinating conjunction"
+        },
+        {
+          "t": "avec",
+          "lemma": "avec",
+          "pos": "prep",
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition"
+        },
+        {
+          "t": "du",
+          "lemma": "du",
+          "pos": "det",
+          "stress": "dy",
+          "gloss": "some",
+          "gram": "partitive article, masculine singular (de + le)"
+        },
+        {
+          "t": "texte",
+          "lemma": "texte",
+          "pos": "noun",
+          "stress": "tɛkst",
+          "gloss": "lines, text",
+          "gram": "masculine singular ('du texte' = spoken lines)"
+        },
+        {
+          "t": "en",
+          "lemma": "en",
+          "pos": "prep",
+          "stress": "ɑ̃",
+          "gloss": "in ('en plus' = as well)",
+          "gram": "preposition in the phrase 'en plus'"
+        },
+        {
+          "t": "plus.",
+          "lemma": "plus",
+          "pos": "adv",
+          "stress": "plys",
+          "gloss": "addition, extra",
+          "gram": "'en plus' = in addition, as well (final s pronounced)"
+        }
+      ]
+    },
+    {
+      "seg": 54,
+      "trans": "I got the part?",
+      "words": [
+        {
+          "t": "J'ai",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je (elided j') + ai: auxiliary 'avoir', present, 1st person singular"
+        },
+        {
+          "t": "eu",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "y",
+          "gloss": "had (got)",
+          "gram": "past participle of 'avoir'; 'j'ai eu' = I got"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "rôle?",
+          "lemma": "rôle",
+          "pos": "noun",
+          "stress": "ʁol",
+          "gloss": "part, role",
+          "gram": "masculine singular"
+        }
+      ]
+    },
+    {
+      "seg": 55,
+      "trans": "In a film with JoeyStarr!",
+      "words": [
+        {
+          "t": "Dans",
+          "lemma": "dans",
+          "pos": "prep",
+          "stress": "dɑ̃",
+          "gloss": "in",
+          "gram": "preposition"
+        },
+        {
+          "t": "un",
+          "lemma": "un",
+          "pos": "det",
+          "stress": "œ̃",
+          "gloss": "a",
+          "gram": "indefinite article, masculine singular"
+        },
+        {
+          "t": "film",
+          "lemma": "film",
+          "pos": "noun",
+          "stress": "film",
+          "gloss": "movie, film",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "avec",
+          "lemma": "avec",
+          "pos": "prep",
+          "stress": "avɛk",
+          "gloss": "with",
+          "gram": "preposition"
+        },
+        {
+          "t": "JoeyStarr!",
+          "lemma": "joeystarr",
+          "pos": "name",
+          "stress": "dʒoistaʁ",
+          "gloss": "JoeyStarr (French rapper and actor)",
+          "gram": "proper name"
+        }
+      ]
+    },
+    {
+      "seg": 56,
+      "trans": "That's brilliant! Oh, Gabriel!",
+      "words": [
+        {
+          "t": "C'est",
+          "lemma": "être",
+          "pos": "verb",
+          "stress": "sɛ",
+          "gloss": "that's, it's",
+          "gram": "ce (elided c', it) + est: present, 3rd person singular"
+        },
+        {
+          "t": "génial!",
+          "lemma": "génial",
+          "pos": "adj",
+          "stress": "ʒenjal",
+          "gloss": "brilliant, awesome",
+          "gram": "masculine singular"
+        },
+        {
+          "t": "Oh,",
+          "lemma": "oh",
+          "pos": "interj",
+          "stress": "o",
+          "gloss": "oh!",
+          "gram": "exclamation"
+        },
+        {
+          "t": "Gabriel!",
+          "lemma": "gabriel",
+          "pos": "name",
+          "stress": "ɡabʁijɛl",
+          "gloss": "Gabriel (first name)",
+          "gram": "proper name"
+        }
+      ]
+    },
+    {
+      "seg": 57,
+      "trans": "Thank you! I love you, I love you!",
+      "words": [
+        {
+          "t": "Merci!",
+          "lemma": "merci",
+          "pos": "interj",
+          "stress": "mɛʁsi",
+          "gloss": "thank you!",
+          "gram": "polite thanks"
+        },
+        {
+          "t": "Je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "t'aime,",
+          "lemma": "aimer",
+          "pos": "verb",
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
+        },
+        {
+          "t": "je",
+          "lemma": "je",
+          "pos": "pron",
+          "stress": "ʒə",
+          "gloss": "I",
+          "gram": "subject pronoun, 1st person singular"
+        },
+        {
+          "t": "t'aime!",
+          "lemma": "aimer",
+          "pos": "verb",
+          "stress": "tɛm",
+          "gloss": "love you",
+          "gram": "te (elided t', you) + aime: present, 1st person singular"
+        }
+      ]
+    },
+    {
+      "seg": 59,
+      "trans": "I got the part!",
+      "words": [
+        {
+          "t": "J'ai",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je (elided j') + ai: auxiliary 'avoir', present, 1st person singular"
+        },
+        {
+          "t": "eu",
+          "lemma": "avoir",
+          "pos": "verb",
+          "stress": "y",
+          "gloss": "had (got)",
+          "gram": "past participle of 'avoir'; 'j'ai eu' = I got"
+        },
+        {
+          "t": "le",
+          "lemma": "le",
+          "pos": "det",
+          "stress": "lə",
+          "gloss": "the",
+          "gram": "definite article, masculine singular"
+        },
+        {
+          "t": "rôle!",
+          "lemma": "rôle",
+          "pos": "noun",
+          "stress": "ʁol",
+          "gloss": "part, role",
+          "gram": "masculine singular"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "seg": 2,
-   "trans": "Sofia got the part!",
-   "words": [
-    {
-     "t": "Sofia",
-     "lemma": "sofia",
-     "pos": "name",
-     "stress": "sɔfja",
-     "gloss": "Sofia (first name)",
-     "gram": "proper name"
+  ],
+  "lexicon": {
+    "aimer": {
+      "examples": [
+        {
+          "text": "Tu n'aimais pas Mandelieu?",
+          "trans": "Didn't you like Mandelieu?"
+        },
+        {
+          "text": "J'aime le cinéma.",
+          "trans": "I like films."
+        },
+        {
+          "text": "Tu n'aimais pas Mandelieu? C'est un bel endroit.",
+          "trans": "Didn't you like Mandelieu? It's a lovely place."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "j'aime",
+              "nous aimons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu aimes",
+              "vous aimez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle aime",
+              "ils/elles aiment"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to like, to love",
+      "lemma": "aimer",
+      "meanings": [
+        {
+          "en": "to like",
+          "note": "with things and places"
+        },
+        {
+          "en": "to love",
+          "note": "with people"
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai aimé",
+                "nous avons aimé"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as aimé",
+                "vous avez aimé"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a aimé",
+                "ils/elles ont aimé"
+              ]
+            }
+          ],
+          "title": "Passé composé"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'aimais",
+                "nous aimions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu aimais",
+                "vous aimiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle aimait",
+                "ils/elles aimaient"
+              ]
+            }
+          ],
+          "title": "Imparfait"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'aimerai",
+                "nous aimerons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu aimeras",
+                "vous aimerez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle aimera",
+                "ils/elles aimeront"
+              ]
+            }
+          ],
+          "title": "Futur"
+        }
+      ],
+      "pos": "verb",
+      "stress": "eme",
+      "related": [
+        {
+          "word": "aimation",
+          "gloss": "action of to like"
+        }
+      ]
     },
-    {
-     "t": "a",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "a",
-     "gloss": "has",
-     "gram": "auxiliary 'avoir', present, 3rd person singular"
+    "aller": {
+      "examples": [
+        {
+          "text": "Ça va? Oui, ça va bien.",
+          "trans": "How are you? Yes, I'm fine."
+        },
+        {
+          "text": "Je vais au bureau.",
+          "trans": "I'm going to the office."
+        },
+        {
+          "text": "On va manger ensemble.",
+          "trans": "We're going to eat together."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je vais",
+              "nous allons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu vas",
+              "vous allez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle va",
+              "ils/elles vont"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to go",
+      "lemma": "aller",
+      "meanings": [
+        {
+          "en": "to go",
+          "note": "aller + infinitive: tu vas l'agacer = you're going to annoy her"
+        },
+        {
+          "en": "to be (health), in 'ça va'",
+          "note": "ça va? = how are you? / are you okay?"
+        },
+        {
+          "en": "going to (near future)",
+          "note": "aller + infinitive: je vais partir"
+        },
+        {
+          "en": "come on!",
+          "note": "imperative 'allez!' / 'allons!'"
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je suis allé(e)",
+                "nous sommes allé(e)s"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu es allé(e)",
+                "vous êtes allé(e)(s)"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle est allé(e)",
+                "ils/elles sont allé(e)s"
+              ]
+            }
+          ],
+          "title": "Passé composé"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'allais",
+                "nous allions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu allais",
+                "vous alliez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle allait",
+                "ils/elles allaient"
+              ]
+            }
+          ],
+          "title": "Imparfait"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'irai",
+                "nous irons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu iras",
+                "vous irez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle ira",
+                "ils/elles iront"
+              ]
+            }
+          ],
+          "title": "Futur"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "allons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "va",
+                "allez"
+              ]
+            }
+          ],
+          "title": "Imperative"
+        }
+      ],
+      "pos": "verb",
+      "stress": "ale",
+      "related": [
+        {
+          "word": "allemand",
+          "gloss": "German"
+        },
+        {
+          "word": "allergique",
+          "gloss": "allergic"
+        },
+        {
+          "word": "aller-retour",
+          "gloss": "round trip"
+        }
+      ]
     },
-    {
-     "t": "eu",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "y",
-     "gloss": "had (got)",
-     "gram": "past participle of 'avoir'; 'a eu' = got"
+    "avec": {
+      "examples": [
+        {
+          "text": "Tu déjeunes avec Audiard.",
+          "trans": "You're having lunch with Audiard."
+        },
+        {
+          "text": "Avec plaisir!",
+          "trans": "With pleasure!"
+        },
+        {
+          "text": "Et demain, tu déjeunes avec Audiard.",
+          "trans": "And tomorrow you're having lunch with Audiard."
+        }
+      ],
+      "forms": null,
+      "gloss": "with",
+      "lemma": "avec",
+      "meanings": [
+        {
+          "en": "with",
+          "note": "Everyday French prep meaning 'with'."
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "avɛk",
+      "related": []
     },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
+    "avoir": {
+      "examples": [
+        {
+          "text": "J'ai un problème.",
+          "trans": "I have a problem."
+        },
+        {
+          "text": "Elle a trente ans.",
+          "trans": "She's thirty."
+        },
+        {
+          "text": "Il y a un macaron sur la table.",
+          "trans": "There's a macaron on the table."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "j'ai",
+              "nous avons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu as",
+              "vous avez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle a",
+              "ils/elles ont"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to have",
+      "lemma": "avoir",
+      "meanings": [
+        {
+          "en": "to have",
+          "note": "avoir peur = to be afraid, avoir raison = to be right, avoir 40 ans = to be 40"
+        },
+        {
+          "en": "to be (an age)",
+          "note": "elle a quarante ans = she is forty"
+        },
+        {
+          "en": "auxiliary for most past forms",
+          "note": "j'ai vécu = I lived"
+        },
+        {
+          "en": "il y a = there is / there are",
+          "note": ""
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai eu",
+                "nous avons eu"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as eu",
+                "vous avez eu"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a eu",
+                "ils/elles ont eu"
+              ]
+            }
+          ],
+          "title": "Passé composé"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'avais",
+                "nous avions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu avais",
+                "vous aviez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle avait",
+                "ils/elles avaient"
+              ]
+            }
+          ],
+          "title": "Imparfait"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'aurai",
+                "nous aurons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu auras",
+                "vous aurez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle aura",
+                "ils/elles auront"
+              ]
+            }
+          ],
+          "title": "Futur"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "ayons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "aie",
+                "ayez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "—",
+                "—"
+              ]
+            }
+          ],
+          "title": "Imperative"
+        }
+      ],
+      "pos": "verb",
+      "stress": "avwaʁ",
+      "related": [
+        {
+          "word": "avoir à voir",
+          "gloss": "to have to do with"
+        }
+      ]
     },
-    {
-     "t": "rôle!",
-     "lemma": "rôle",
-     "pos": "noun",
-     "stress": "ʁol",
-     "gloss": "part, role",
-     "gram": "masculine singular"
+    "bon": {
+      "examples": [
+        {
+          "text": "Bon. Alors, je vais attendre.",
+          "trans": "Fine. Then I'll wait."
+        },
+        {
+          "text": "Bonne journée!",
+          "trans": "Have a nice day!"
+        },
+        {
+          "text": "C'est un bon film.",
+          "trans": "It's a good film."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "bon",
+              "bonne"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "bons",
+              "bonnes"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "good",
+      "lemma": "bon",
+      "meanings": [
+        {
+          "en": "good",
+          "note": "as an interjection: bon, alors... = right, so..."
+        },
+        {
+          "en": "well, okay, right",
+          "note": "as an interjection: bon, alors... = right, so..."
+        },
+        {
+          "en": "bonne journée = have a nice day",
+          "note": ""
+        }
+      ],
+      "moreForms": [],
+      "pos": "adj",
+      "stress": "bɔ̃",
+      "related": [
+        {
+          "word": "bonement",
+          "gloss": "in a good manner (adv.)"
+        }
+      ]
+    },
+    "contre": {
+      "examples": [
+        {
+          "text": "Je suis contre.",
+          "trans": "I'm against it."
+        },
+        {
+          "text": "Se battre contre le chagrin.",
+          "trans": "To fight against sorrow."
+        },
+        {
+          "text": "Oui, il faut se battre contre le chagrin.",
+          "trans": "Yes, we must fight against sorrow."
+        }
+      ],
+      "forms": null,
+      "gloss": "against",
+      "lemma": "contre",
+      "meanings": [
+        {
+          "en": "against",
+          "note": "Everyday French prep meaning 'against'."
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "kɔ̃tʁ",
+      "related": [
+        {
+          "word": "rentrer",
+          "gloss": "to go home"
+        },
+        {
+          "word": "contrer",
+          "gloss": "to counter"
+        }
+      ]
+    },
+    "costume": {
+      "lemma": "costume",
+      "stress": "kɔstym",
+      "pos": "noun",
+      "gloss": "suit; costume",
+      "meanings": [
+        {
+          "en": "suit (men's jacket and trousers)",
+          "note": "un film en costume = a costume drama / period film"
+        },
+        {
+          "en": "costume (for the stage or a period film)",
+          "note": "un film en costume = a costume drama / period film"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le costume",
+              "les costumes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Dans le film en costume?",
+          "trans": "In the costume drama?"
+        },
+        {
+          "text": "Il porte un costume sombre.",
+          "trans": "He's wearing a dark suit."
+        },
+        {
+          "text": "Pour vérifier mes costumes.",
+          "trans": "To check my suits."
+        }
+      ],
+      "gender": "m",
+      "plural": "costumes",
+      "related": [
+        {
+          "word": "le/la costume",
+          "gloss": "the suit (with article)"
+        }
+      ]
+    },
+    "dans": {
+      "examples": [
+        {
+          "text": "Dans une heure.",
+          "trans": "In an hour."
+        },
+        {
+          "text": "Dans le cinéma.",
+          "trans": "In the film business."
+        },
+        {
+          "text": "Tu connais beaucoup de monde dans le cinéma. Tu pourrais m'aider.",
+          "trans": "You know lots of people in film. You could help me."
+        }
+      ],
+      "forms": null,
+      "gloss": "in, inside; in (time)",
+      "lemma": "dans",
+      "meanings": [
+        {
+          "en": "in, inside",
+          "note": "j'étais dans les sous-vêtements"
+        },
+        {
+          "en": "in (time from now)",
+          "note": "dans une heure = in an hour"
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "dɑ̃",
+      "related": [
+        {
+          "word": "danse",
+          "gloss": "dance"
+        },
+        {
+          "word": "danser",
+          "gloss": "to dance"
+        },
+        {
+          "word": "danseur",
+          "gloss": "dancer"
+        }
+      ]
+    },
+    "du": {
+      "examples": [
+        {
+          "text": "Du Botox chaque année.",
+          "trans": "Botox every year."
+        },
+        {
+          "text": "Je veux du café.",
+          "trans": "I want some coffee."
+        },
+        {
+          "text": "C'est du compost.",
+          "trans": "It's compost."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "du (de l')",
+              "de la (de l')"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "des",
+              "des"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "some; of the",
+      "lemma": "du",
+      "meanings": [
+        {
+          "en": "some (partitive, masculine)",
+          "note": "du Botox, du pain"
+        },
+        {
+          "en": "of the (de + le)",
+          "note": ""
+        }
+      ],
+      "moreForms": [],
+      "pos": "det",
+      "stress": "dy",
+      "related": []
+    },
+    "duchesse": {
+      "lemma": "duchesse",
+      "stress": "dyʃɛs",
+      "pos": "noun",
+      "gloss": "duchess",
+      "meanings": [
+        {
+          "en": "duchess (noblewoman)",
+          "note": "masculine: le duc"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la duchesse",
+              "les duchesses"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oui, elle fait le ménage pour la duchesse.",
+          "trans": "Yes, she does the cleaning for the duchess."
+        },
+        {
+          "text": "La duchesse habite dans un château.",
+          "trans": "The duchess lives in a castle."
+        },
+        {
+          "text": "Baissez les yeux devant la duchesse!",
+          "trans": "Lower your eyes before the duchess!"
+        }
+      ],
+      "gender": "f",
+      "plural": "duchesses",
+      "related": [
+        {
+          "word": "le/la duchesse",
+          "gloss": "the duchess (with article)"
+        }
+      ]
+    },
+    "elle": {
+      "examples": [
+        {
+          "text": "Elle est trop vieille pour le rôle.",
+          "trans": "She's too old for the part."
+        },
+        {
+          "text": "Je pars avec elle.",
+          "trans": "I'm leaving with her."
+        },
+        {
+          "text": "Elle est pleine de requins.",
+          "trans": "It's full of sharks."
+        }
+      ],
+      "forms": null,
+      "gloss": "she; it; her",
+      "lemma": "elle",
+      "meanings": [
+        {
+          "en": "she",
+          "note": "for a feminine noun: l'industrie... elle"
+        },
+        {
+          "en": "it",
+          "note": "for feminine nouns"
+        },
+        {
+          "en": "her",
+          "note": "after a preposition: avec elle"
+        }
+      ],
+      "moreForms": [],
+      "pos": "pron",
+      "stress": "ɛl",
+      "related": []
+    },
+    "en": {
+      "examples": [
+        {
+          "text": "Je pars en vacances.",
+          "trans": "I'm going on holiday."
+        },
+        {
+          "text": "J'en ai assez!",
+          "trans": "I've had enough!"
+        },
+        {
+          "text": "Je suis en retard.",
+          "trans": "I'm late."
+        }
+      ],
+      "forms": null,
+      "gloss": "in; (pronoun) of it, some",
+      "lemma": "en",
+      "meanings": [
+        {
+          "en": "in",
+          "note": "preposition: en vacances, en huit ans"
+        },
+        {
+          "en": "of it, of them",
+          "note": "pronoun before the verb: j'en ai assez, je n'en peux plus"
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "ɑ̃",
+      "related": []
+    },
+    "esclave": {
+      "lemma": "esclave",
+      "stress": "ɛsklav",
+      "pos": "noun",
+      "gloss": "slave",
+      "meanings": [
+        {
+          "en": "slave",
+          "note": "same form for masculine and feminine: un/une esclave, l'esclave"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "l'esclave",
+              "les esclaves"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Non, Sofia joue l'esclave.",
+          "trans": "No, Sofia is playing the slave."
+        },
+        {
+          "text": "Je joue l'esclave?",
+          "trans": "I'm playing the slave?"
+        },
+        {
+          "text": "On veut les esclaves derrière le château, d'accord?",
+          "trans": "We want the slaves behind the chateau, okay?"
+        }
+      ],
+      "gender": "m",
+      "plural": "esclaves",
+      "related": [
+        {
+          "word": "le/la esclave",
+          "gloss": "the slave (with article)"
+        }
+      ]
+    },
+    "faire": {
+      "examples": [
+        {
+          "text": "Ne fais pas ça!",
+          "trans": "Don't do that!"
+        },
+        {
+          "text": "Fais du vélo!",
+          "trans": "Ride a bike!"
+        },
+        {
+          "text": "Qu'est-ce que tu fais?",
+          "trans": "What are you doing?"
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je fais",
+              "nous faisons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu fais",
+              "vous faites"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle fait",
+              "ils/elles font"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to do, to make",
+      "lemma": "faire",
+      "meanings": [
+        {
+          "en": "to do",
+          "note": "pour faire quoi? = to do what?"
+        },
+        {
+          "en": "to make",
+          "note": "faire un café"
+        },
+        {
+          "en": "to go (an activity)",
+          "note": "faire du vélo = to ride a bike, to cycle"
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai fait",
+                "nous avons fait"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as fait",
+                "vous avez fait"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a fait",
+                "ils/elles ont fait"
+              ]
+            }
+          ],
+          "title": "Passé composé"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je faisais",
+                "nous faisions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu faisais",
+                "vous faisiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle faisait",
+                "ils/elles faisaient"
+              ]
+            }
+          ],
+          "title": "Imparfait"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je ferai",
+                "nous ferons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu feras",
+                "vous ferez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle fera",
+                "ils/elles feront"
+              ]
+            }
+          ],
+          "title": "Futur"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "faisons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "fais",
+                "faites"
+              ]
+            }
+          ],
+          "title": "Imperative"
+        }
+      ],
+      "pos": "verb",
+      "stress": "fɛʁ",
+      "related": [
+        {
+          "word": "faire attention",
+          "gloss": "to pay attention"
+        },
+        {
+          "word": "refaire",
+          "gloss": "redo"
+        }
+      ]
+    },
+    "film": {
+      "examples": [
+        {
+          "text": "C'est un bon film.",
+          "trans": "It's a good film."
+        },
+        {
+          "text": "On regarde un film?",
+          "trans": "Shall we watch a film?"
+        },
+        {
+          "text": "C'est le prochain film de Tarantino.",
+          "trans": "It's Tarantino's next film."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le film",
+              "les films"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "m",
+      "gloss": "film, movie",
+      "lemma": "film",
+      "meanings": [
+        {
+          "en": "film, movie",
+          "note": "Standard masculine noun meaning 'film, movie'."
+        }
+      ],
+      "moreForms": [],
+      "plural": "films",
+      "pos": "noun",
+      "stress": "film",
+      "related": [
+        {
+          "word": "le/la film",
+          "gloss": "the film (with article)"
+        }
+      ]
+    },
+    "furieux": {
+      "lemma": "furieux",
+      "stress": "fyʁjø",
+      "pos": "adj",
+      "gloss": "furious, very angry",
+      "meanings": [
+        {
+          "en": "furious, very angry",
+          "note": "furieux contre quelqu'un = furious with someone"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "furieux",
+              "furieuse"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "furieux",
+              "furieuses"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Elle va être furieuse contre moi.",
+          "trans": "She's going to be furious with me."
+        },
+        {
+          "text": "Il est furieux.",
+          "trans": "He's furious."
+        },
+        {
+          "text": "Elle est furieuse contre Mathias.",
+          "trans": "She's furious with Mathias."
+        }
+      ],
+      "related": [
+        {
+          "word": "furieuxement",
+          "gloss": "in a furious manner (adv.)"
+        }
+      ]
+    },
+    "génial": {
+      "examples": [
+        {
+          "text": "Génial, non?",
+          "trans": "Brilliant, isn't it?"
+        },
+        {
+          "text": "C'est une idée géniale.",
+          "trans": "It's a brilliant idea."
+        },
+        {
+          "text": "Oui! Elle s'appelle Armelle Borzek. Elle est géniale!",
+          "trans": "Yes! Her name is Armelle Borzek. She's brilliant!"
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "génial",
+              "géniale"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "géniaux",
+              "géniales"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "brilliant, great",
+      "lemma": "génial",
+      "meanings": [
+        {
+          "en": "brilliant, great",
+          "note": "informal praise"
+        },
+        {
+          "en": "of genius",
+          "note": ""
+        }
+      ],
+      "moreForms": [],
+      "pos": "adj",
+      "stress": "ʒenjal",
+      "related": [
+        {
+          "word": "génie",
+          "gloss": "genius"
+        },
+        {
+          "word": "ingénieur",
+          "gloss": "engineer"
+        }
+      ]
+    },
+    "intelligent": {
+      "lemma": "intelligent",
+      "stress": "ɛ̃teliʒɑ̃",
+      "pos": "adj",
+      "gloss": "smart, intelligent",
+      "meanings": [
+        {
+          "en": "smart, clever, intelligent",
+          "note": "Prefix 'in-'/'im-' marks negation ('un-, in-') or inward motion."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "intelligent",
+              "intelligente"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "intelligents",
+              "intelligentes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Le réalisateur est intelligent.",
+          "trans": "The director is smart."
+        },
+        {
+          "text": "C'est une femme très intelligente.",
+          "trans": "She's a very smart woman."
+        },
+        {
+          "text": "Ce n'est pas très intelligent.",
+          "trans": "It's not very smart."
+        }
+      ],
+      "related": [
+        {
+          "word": "tellement",
+          "gloss": "so"
+        },
+        {
+          "word": "intellectuel",
+          "gloss": "intellectual"
+        }
+      ]
+    },
+    "je": {
+      "examples": [
+        {
+          "text": "Je suis désolée.",
+          "trans": "I'm sorry."
+        },
+        {
+          "text": "J'ai un loft.",
+          "trans": "I've got a loft."
+        },
+        {
+          "text": "Gabriel! Je suis à mon cours d'équitation.",
+          "trans": "Gabriel! I'm at my horse-riding lesson."
+        }
+      ],
+      "forms": null,
+      "gloss": "I",
+      "lemma": "je",
+      "meanings": [
+        {
+          "en": "I",
+          "note": "j' before a vowel"
+        }
+      ],
+      "moreForms": [],
+      "pos": "pron",
+      "stress": "ʒə",
+      "related": []
+    },
+    "jouer": {
+      "examples": [
+        {
+          "text": "Il joue le frère de Guillaume.",
+          "trans": "He plays Guillaume's brother."
+        },
+        {
+          "text": "Elle joue dans une pièce.",
+          "trans": "She's acting in a play."
+        },
+        {
+          "text": "Les enfants jouent dehors.",
+          "trans": "The children are playing outside."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je joue",
+              "nous jouons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu joues",
+              "vous jouez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle joue",
+              "ils/elles jouent"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to play",
+      "lemma": "jouer",
+      "meanings": [
+        {
+          "en": "to play (a part)",
+          "note": "jouer un rôle, jouer le frère de..."
+        },
+        {
+          "en": "to act, to perform",
+          "note": "je joue dans un spectacle"
+        },
+        {
+          "en": "to play (a game, music)",
+          "note": "jouer au foot, jouer du piano"
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai joué",
+                "nous avons joué"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as joué",
+                "vous avez joué"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a joué",
+                "ils/elles ont joué"
+              ]
+            }
+          ],
+          "title": "Passé composé"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je jouais",
+                "nous jouions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu jouais",
+                "vous jouiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle jouait",
+                "ils/elles jouaient"
+              ]
+            }
+          ],
+          "title": "Imparfait"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je jouerai",
+                "nous jouerons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu joueras",
+                "vous jouerez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle jouera",
+                "ils/elles joueront"
+              ]
+            }
+          ],
+          "title": "Futur"
+        }
+      ],
+      "pos": "verb",
+      "stress": "ʒwe",
+      "related": [
+        {
+          "word": "joue",
+          "gloss": "cheek"
+        },
+        {
+          "word": "joueur",
+          "gloss": "player"
+        }
+      ]
+    },
+    "le": {
+      "examples": [
+        {
+          "text": "Le meilleur.",
+          "trans": "The best."
+        },
+        {
+          "text": "Vous la connaissez?",
+          "trans": "Do you know her?"
+        },
+        {
+          "text": "Les voilà.",
+          "trans": "There they are."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "le (l')",
+              "la (l')"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "les",
+              "les"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "the; him, her, it, them",
+      "lemma": "le",
+      "meanings": [
+        {
+          "en": "the (definite article)",
+          "note": "le, la, l', les"
+        },
+        {
+          "en": "him, her, it, them (object pronoun)",
+          "note": "before the verb: vous la connaissez? les voilà"
+        }
+      ],
+      "moreForms": [],
+      "pos": "det",
+      "stress": "lə",
+      "related": []
+    },
+    "mais": {
+      "examples": [
+        {
+          "text": "Je veux, mais je ne peux pas.",
+          "trans": "I want to, but I can't."
+        },
+        {
+          "text": "Mais oui!",
+          "trans": "Yes, of course!"
+        },
+        {
+          "text": "Non, mais c'est important.",
+          "trans": "No, but it's important."
+        }
+      ],
+      "forms": null,
+      "gloss": "but",
+      "lemma": "mais",
+      "meanings": [
+        {
+          "en": "but",
+          "note": "mais oui! = of course!"
+        },
+        {
+          "en": "(emphasis)",
+          "note": "mais oui! = of course!"
+        }
+      ],
+      "moreForms": [],
+      "pos": "conj",
+      "stress": "mɛ",
+      "related": [
+        {
+          "word": "maison",
+          "gloss": "house"
+        }
+      ]
+    },
+    "merci": {
+      "examples": [
+        {
+          "text": "Je prends ça. Merci.",
+          "trans": "I'll take that. Thanks."
+        },
+        {
+          "text": "Merci, au revoir!",
+          "trans": "Thank you, goodbye!"
+        },
+        {
+          "text": "Merci.",
+          "trans": "Thank you."
+        }
+      ],
+      "forms": null,
+      "gloss": "thank you",
+      "lemma": "merci",
+      "meanings": [
+        {
+          "en": "thank you, thanks",
+          "note": "merci beaucoup = thank you very much"
+        }
+      ],
+      "moreForms": [],
+      "pos": "interj",
+      "stress": "mɛʁsi",
+      "related": [
+        {
+          "word": "remercier",
+          "gloss": "to thank"
+        },
+        {
+          "word": "mercredi",
+          "gloss": "Wednesday"
+        }
+      ]
+    },
+    "moi": {
+      "examples": [
+        {
+          "text": "Tu viens avec moi?",
+          "trans": "Are you coming with me?"
+        },
+        {
+          "text": "Moi aussi.",
+          "trans": "Me too."
+        },
+        {
+          "text": "C'est comme un rêve pour moi.",
+          "trans": "It's like a dream for me."
+        }
+      ],
+      "forms": null,
+      "gloss": "me",
+      "lemma": "moi",
+      "meanings": [
+        {
+          "en": "me",
+          "note": "after a preposition: avec moi"
+        },
+        {
+          "en": "me, I (stressed)",
+          "note": "moi aussi = me too"
+        }
+      ],
+      "moreForms": [],
+      "pos": "pron",
+      "stress": "mwa",
+      "related": []
+    },
+    "ménage": {
+      "lemma": "ménage",
+      "stress": "menaʒ",
+      "pos": "noun",
+      "gloss": "housework, cleaning; household",
+      "meanings": [
+        {
+          "en": "housework, cleaning",
+          "note": "faire le ménage = to do the cleaning / housework"
+        },
+        {
+          "en": "household, couple",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le ménage",
+              "les ménages"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Oui, elle fait le ménage pour la duchesse.",
+          "trans": "Yes, she does the cleaning for the duchess."
+        },
+        {
+          "text": "Je fais le ménage le samedi.",
+          "trans": "I do the cleaning on Saturdays."
+        },
+        {
+          "text": "Les femmes de ménage et les vacances étaient payées avec l'argent de l'agence.",
+          "trans": "The cleaners and the vacations were paid for with the agency's money."
+        }
+      ],
+      "gender": "m",
+      "plural": "ménages",
+      "related": [
+        {
+          "word": "déménager",
+          "gloss": "to move house"
+        }
+      ]
+    },
+    "non": {
+      "examples": [
+        {
+          "text": "Non, mais c'est important.",
+          "trans": "No, but it's important."
+        },
+        {
+          "text": "Vous savez monter, non?",
+          "trans": "You can ride, can't you?"
+        },
+        {
+          "text": "Oh non! Je suis en retard.",
+          "trans": "Oh no! I'm late."
+        }
+      ],
+      "forms": null,
+      "gloss": "no",
+      "lemma": "non",
+      "meanings": [
+        {
+          "en": "no",
+          "note": "at the end of a sentence: super, non?"
+        },
+        {
+          "en": "..., non? = ..., don't you? / isn't it?",
+          "note": "tag at the end of a question"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "nɔ̃",
+      "related": [
+        {
+          "word": "bien",
+          "gloss": "related adverbial expression (no)"
+        }
+      ]
+    },
+    "nouvelle": {
+      "examples": [
+        {
+          "text": "Toujours aucune nouvelle?",
+          "trans": "Still no news?"
+        },
+        {
+          "text": "J'ai une bonne nouvelle.",
+          "trans": "I have good news."
+        },
+        {
+          "text": "Des nouvelles importantes?",
+          "trans": "Any important news?"
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "la nouvelle",
+              "les nouvelles"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "f",
+      "gloss": "piece of news",
+      "lemma": "nouvelle",
+      "meanings": [
+        {
+          "en": "piece of news",
+          "note": "des nouvelles = news"
+        },
+        {
+          "en": "short story",
+          "note": "literature"
+        }
+      ],
+      "moreForms": [],
+      "plural": "nouvelles",
+      "pos": "noun",
+      "related": [
+        {
+          "word": "nouveau",
+          "gloss": "new (adjective)"
+        }
+      ],
+      "stress": "nuvɛl"
+    },
+    "oh": {
+      "examples": [
+        {
+          "text": "Oh non!",
+          "trans": "Oh no!"
+        },
+        {
+          "text": "Oh, merci!",
+          "trans": "Oh, thank you!"
+        },
+        {
+          "text": "Oh non! Je suis en retard.",
+          "trans": "Oh no! I'm late."
+        }
+      ],
+      "forms": null,
+      "gloss": "oh (surprise, dismay)",
+      "lemma": "oh",
+      "meanings": [
+        {
+          "en": "oh",
+          "note": "surprise or dismay"
+        }
+      ],
+      "moreForms": [],
+      "pos": "interj",
+      "stress": "o",
+      "related": []
+    },
+    "oui": {
+      "examples": [
+        {
+          "text": "Oui, oui.",
+          "trans": "Yes, yes."
+        },
+        {
+          "text": "Oui, je sais.",
+          "trans": "Yes, I know."
+        },
+        {
+          "text": "Oui, oui. J'ai juste besoin d'un petit cours.",
+          "trans": "Yes, yes. I just need a little lesson."
+        }
+      ],
+      "forms": null,
+      "gloss": "yes",
+      "lemma": "oui",
+      "meanings": [
+        {
+          "en": "yes",
+          "note": "Everyday French adv meaning 'yes'."
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "stress": "wi",
+      "related": [
+        {
+          "word": "bien",
+          "gloss": "related adverbial expression (yes)"
+        }
+      ]
+    },
+    "plus": {
+      "examples": [
+        {
+          "text": "À plus!",
+          "trans": "See you!"
+        },
+        {
+          "text": "Je veux plus de café.",
+          "trans": "I want more coffee."
+        },
+        {
+          "text": "Je n'en peux plus.",
+          "trans": "I can't take any more."
+        }
+      ],
+      "forms": null,
+      "gloss": "more",
+      "lemma": "plus",
+      "meanings": [
+        {
+          "en": "more",
+          "note": "pronounced plys when it means 'more' at the end"
+        },
+        {
+          "en": "à plus = see you later",
+          "note": "informal goodbye"
+        },
+        {
+          "en": "ne... plus = no longer",
+          "note": "pronounced ply"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adv",
+      "register": "à plus: informal",
+      "stress": "ply",
+      "related": [
+        {
+          "word": "plusieurs",
+          "gloss": "several"
+        }
+      ]
+    },
+    "pour": {
+      "examples": [
+        {
+          "text": "Deux places pour mardi.",
+          "trans": "Two tickets for Tuesday."
+        },
+        {
+          "text": "Je suis là pour voir Mathias.",
+          "trans": "I'm here to see Mathias."
+        },
+        {
+          "text": "C'est comme un rêve pour moi.",
+          "trans": "It's like a dream for me."
+        }
+      ],
+      "forms": null,
+      "gloss": "for; (in order) to",
+      "lemma": "pour",
+      "meanings": [
+        {
+          "en": "for",
+          "note": "before an infinitive: pour faire plaisir"
+        },
+        {
+          "en": "to, in order to",
+          "note": "+ infinitive: pour voir"
+        }
+      ],
+      "moreForms": [],
+      "pos": "prep",
+      "stress": "puʁ",
+      "related": [
+        {
+          "word": "pourquoi",
+          "gloss": "why"
+        },
+        {
+          "word": "pour cent",
+          "gloss": "percent"
+        },
+        {
+          "word": "pour de vrai",
+          "gloss": "for real"
+        }
+      ]
+    },
+    "qui": {
+      "examples": [
+        {
+          "text": "C'est moi qui t'ai formée!",
+          "trans": "I'm the one who trained you!"
+        },
+        {
+          "text": "Qui est là?",
+          "trans": "Who's there?"
+        },
+        {
+          "text": "Tu ne pars pas. C'est moi qui te vire!",
+          "trans": "You're not leaving. I'm the one firing you!"
+        }
+      ],
+      "forms": null,
+      "gloss": "who; which, that",
+      "lemma": "qui",
+      "meanings": [
+        {
+          "en": "who (relative)",
+          "note": "c'est moi qui... = I'm the one who..."
+        },
+        {
+          "en": "who? (question)",
+          "note": "qui parle?"
+        }
+      ],
+      "moreForms": [],
+      "pos": "pron",
+      "stress": "ki",
+      "related": []
+    },
+    "réalisateur": {
+      "examples": [
+        {
+          "text": "Gabor est réalisateur.",
+          "trans": "Gabor is a director."
+        },
+        {
+          "text": "La réalisatrice arrive.",
+          "trans": "The director (woman) is arriving."
+        },
+        {
+          "text": "C'est un truc bizarre des réalisateurs.",
+          "trans": "It's a weird thing directors do."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "un réalisateur / une réalisatrice",
+              "des réalisateurs"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "m",
+      "gloss": "film director",
+      "lemma": "réalisateur",
+      "meanings": [
+        {
+          "en": "film director",
+          "note": "feminine: réalisatrice"
+        }
+      ],
+      "moreForms": [],
+      "plural": "réalisateurs",
+      "pos": "noun",
+      "stress": "ʁealizatœʁ",
+      "related": [
+        {
+          "word": "réaliser",
+          "gloss": "to realise"
+        },
+        {
+          "word": "réaliste",
+          "gloss": "realistic"
+        },
+        {
+          "word": "réalisatrice",
+          "gloss": "director"
+        }
+      ]
+    },
+    "rôle": {
+      "examples": [
+        {
+          "text": "Il a un nouveau rôle.",
+          "trans": "He has a new part."
+        },
+        {
+          "text": "C'est quoi le rôle?",
+          "trans": "What's the part?"
+        },
+        {
+          "text": "Oui! Mon préféré, Pierre Niney, a un nouveau rôle.",
+          "trans": "Yes! My favourite, Pierre Niney, has a new part."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le rôle",
+              "les rôles"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "m",
+      "gloss": "role, part",
+      "lemma": "rôle",
+      "meanings": [
+        {
+          "en": "part, role (in a film or play)",
+          "note": "un rôle dans un film"
+        }
+      ],
+      "moreForms": [],
+      "plural": "rôles",
+      "pos": "noun",
+      "stress": "ʁol",
+      "related": [
+        {
+          "word": "le/la rôle",
+          "gloss": "the role (with article)"
+        }
+      ]
+    },
+    "super": {
+      "examples": [
+        {
+          "text": "C'est super!",
+          "trans": "It's great!"
+        },
+        {
+          "text": "Ce serait super si vous pouviez venir.",
+          "trans": "It would be great if you could come."
+        },
+        {
+          "text": "J'ai trouvé un travail. Super, non?",
+          "trans": "I found a job. Great, isn't it?"
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "super",
+              "super"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "super",
+              "super"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "great",
+      "lemma": "super",
+      "meanings": [
+        {
+          "en": "great, super",
+          "note": "informal, does not change"
+        }
+      ],
+      "moreForms": [],
+      "pos": "adj",
+      "register": "informal",
+      "stress": "sypɛʁ",
+      "related": [
+        {
+          "word": "superbe",
+          "gloss": "superb"
+        }
+      ]
+    },
+    "texte": {
+      "examples": [
+        {
+          "text": "Ce n'est pas facile d'apprendre un texte.",
+          "trans": "It's not easy to learn lines."
+        },
+        {
+          "text": "Tu connais ton texte?",
+          "trans": "Do you know your lines?"
+        },
+        {
+          "text": "Ce n'est pas facile d'apprendre un texte avec tout ce bruit.",
+          "trans": "It's not easy to learn lines with all this noise."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "le texte",
+              "les textes"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gender": "m",
+      "gloss": "text; lines (of a play or film)",
+      "lemma": "texte",
+      "meanings": [
+        {
+          "en": "text",
+          "note": "apprendre un texte = to learn lines"
+        },
+        {
+          "en": "lines, script (for an actor)",
+          "note": "apprendre un texte = to learn lines"
+        }
+      ],
+      "moreForms": [],
+      "plural": "textes",
+      "pos": "noun",
+      "stress": "tɛkst",
+      "related": [
+        {
+          "word": "le/la texte",
+          "gloss": "the text (with article)"
+        }
+      ]
+    },
+    "un": {
+      "examples": [
+        {
+          "text": "J'ai un problème.",
+          "trans": "I have a problem."
+        },
+        {
+          "text": "C'est une femme.",
+          "trans": "She's a woman."
+        },
+        {
+          "text": "Un peu, s'il vous plaît.",
+          "trans": "A little, please."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "un",
+              "une"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "des",
+              "des"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "a, an; one",
+      "lemma": "un",
+      "meanings": [
+        {
+          "en": "a, an (indefinite article)",
+          "note": "feminine une"
+        },
+        {
+          "en": "one (number)",
+          "note": "quarante et un = forty-one"
+        },
+        {
+          "en": "un peu = a little",
+          "note": ""
+        }
+      ],
+      "moreForms": [],
+      "pos": "det",
+      "stress": "œ̃",
+      "related": []
+    },
+    "vouloir": {
+      "examples": [
+        {
+          "text": "Je veux juste partir.",
+          "trans": "I just want to leave."
+        },
+        {
+          "text": "Ils ne veulent pas Cécile.",
+          "trans": "They don't want Cécile."
+        },
+        {
+          "text": "Tu veux un café?",
+          "trans": "Do you want a coffee?"
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je veux",
+              "nous voulons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu veux",
+              "vous voulez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle veut",
+              "ils/elles veulent"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to want",
+      "lemma": "vouloir",
+      "meanings": [
+        {
+          "en": "to want",
+          "note": "+ noun: je veux un café; + infinitive: je veux partir"
+        },
+        {
+          "en": "would like (polite)",
+          "note": "je voudrais..."
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai voulu",
+                "nous avons voulu"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as voulu",
+                "vous avez voulu"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a voulu",
+                "ils/elles ont voulu"
+              ]
+            }
+          ],
+          "title": "Passé composé"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je voulais",
+                "nous voulions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu voulais",
+                "vous vouliez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle voulait",
+                "ils/elles voulaient"
+              ]
+            }
+          ],
+          "title": "Imparfait"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je voudrai",
+                "nous voudrons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu voudras",
+                "vous voudrez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle voudra",
+                "ils/elles voudront"
+              ]
+            }
+          ],
+          "title": "Futur"
+        }
+      ],
+      "pos": "verb",
+      "stress": "vulwaʁ",
+      "related": [
+        {
+          "word": "revouloir",
+          "gloss": "verb family relative (to want)"
+        }
+      ]
+    },
+    "vrai": {
+      "examples": [
+        {
+          "text": "C'est vrai?",
+          "trans": "Is that true?"
+        },
+        {
+          "text": "Une vraie amie.",
+          "trans": "A real friend."
+        },
+        {
+          "text": "La terre, elle est vraie. Elle ne sait pas mentir.",
+          "trans": "The earth is honest. It doesn't know how to lie."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "vrai",
+              "vraie"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "vrais",
+              "vraies"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "true, real",
+      "lemma": "vrai",
+      "meanings": [
+        {
+          "en": "true",
+          "note": "Everyday French adj meaning 'true, real'."
+        },
+        {
+          "en": "real, genuine, honest",
+          "note": ""
+        }
+      ],
+      "moreForms": [],
+      "pos": "adj",
+      "stress": "vʁɛ",
+      "related": [
+        {
+          "word": "vraiment",
+          "gloss": "really"
+        }
+      ]
+    },
+    "être": {
+      "examples": [
+        {
+          "text": "Je suis à Paris.",
+          "trans": "I'm in Paris."
+        },
+        {
+          "text": "C'est important.",
+          "trans": "It's important."
+        },
+        {
+          "text": "Vous êtes où?",
+          "trans": "Where are you?"
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je suis",
+              "nous sommes"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu es",
+              "vous êtes"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle est",
+              "ils/elles sont"
+            ]
+          }
+        ],
+        "title": "Present"
+      },
+      "gloss": "to be",
+      "lemma": "être",
+      "meanings": [
+        {
+          "en": "to be",
+          "note": "the most common verb"
+        },
+        {
+          "en": "c'est = it is, this is",
+          "note": "ce + est"
+        }
+      ],
+      "moreForms": [
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'ai été",
+                "nous avons été"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu as été",
+                "vous avez été"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle a été",
+                "ils/elles ont été"
+              ]
+            }
+          ],
+          "title": "Passé composé"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "j'étais",
+                "nous étions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu étais",
+                "vous étiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle était",
+                "ils/elles étaient"
+              ]
+            }
+          ],
+          "title": "Imparfait"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je serai",
+                "nous serons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu seras",
+                "vous serez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle sera",
+                "ils/elles seront"
+              ]
+            }
+          ],
+          "title": "Futur"
+        },
+        {
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "soyons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "sois",
+                "soyez"
+              ]
+            }
+          ],
+          "title": "Imperative"
+        }
+      ],
+      "pos": "verb",
+      "stress": "ɛtʁ",
+      "related": [
+        {
+          "word": "reêtre",
+          "gloss": "verb family relative (to be)"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "seg": 3,
-   "trans": "Great! In the costume drama?",
-   "words": [
-    {
-     "t": "Super!",
-     "lemma": "super",
-     "pos": "adj",
-     "stress": "sypɛʁ",
-     "gloss": "great!, fantastic!",
-     "gram": "invariable exclamation"
-    },
-    {
-     "t": "Dans",
-     "lemma": "dans",
-     "pos": "prep",
-     "stress": "dɑ̃",
-     "gloss": "in",
-     "gram": "preposition"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "film",
-     "lemma": "film",
-     "pos": "noun",
-     "stress": "film",
-     "gloss": "movie, film",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "en",
-     "lemma": "en",
-     "pos": "prep",
-     "stress": "ɑ̃",
-     "gloss": "in",
-     "gram": "preposition; 'en costume' = in period costume"
-    },
-    {
-     "t": "costume?",
-     "lemma": "costume",
-     "pos": "noun",
-     "stress": "kɔstym",
-     "gloss": "period costume",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 4,
-   "trans": "The director is smart.",
-   "words": [
-    {
-     "t": "Le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "réalisateur",
-     "lemma": "réalisateur",
-     "pos": "noun",
-     "stress": "ʁealizatœʁ",
-     "gloss": "director",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "is",
-     "gram": "present, 3rd person singular"
-    },
-    {
-     "t": "intelligent.",
-     "lemma": "intelligent",
-     "pos": "adj",
-     "stress": "ɛ̃teliʒɑ̃",
-     "gloss": "smart, clever",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 5,
-   "trans": "No, Sofia is playing the slave.",
-   "words": [
-    {
-     "t": "Non,",
-     "lemma": "non",
-     "pos": "adv",
-     "stress": "nɔ̃",
-     "gloss": "no",
-     "gram": "negative answer"
-    },
-    {
-     "t": "Sofia",
-     "lemma": "sofia",
-     "pos": "name",
-     "stress": "sɔfja",
-     "gloss": "Sofia (first name)",
-     "gram": "proper name"
-    },
-    {
-     "t": "joue",
-     "lemma": "jouer",
-     "pos": "verb",
-     "stress": "ʒu",
-     "gloss": "plays, is playing",
-     "gram": "present, 3rd person singular"
-    },
-    {
-     "t": "l'esclave.",
-     "lemma": "esclave",
-     "pos": "noun",
-     "stress": "lɛsklav",
-     "gloss": "the slave",
-     "gram": "la (elided l') + esclave: feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 6,
-   "trans": "No! Really?",
-   "words": [
-    {
-     "t": "Non!",
-     "lemma": "non",
-     "pos": "adv",
-     "stress": "nɔ̃",
-     "gloss": "no!",
-     "gram": "exclamation of disbelief"
-    },
-    {
-     "t": "C'est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "sɛ",
-     "gloss": "is it (it's)",
-     "gram": "ce (elided c', it) + est: present, 3rd person singular"
-    },
-    {
-     "t": "vrai?",
-     "lemma": "vrai",
-     "pos": "adj",
-     "stress": "vʁɛ",
-     "gloss": "true, really",
-     "gram": "masculine singular; 'c'est vrai?' = really?"
-    }
-   ]
-  },
-  {
-   "seg": 7,
-   "trans": "Yes, she does the cleaning for the duchess.",
-   "words": [
-    {
-     "t": "Oui,",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "positive answer"
-    },
-    {
-     "t": "elle",
-     "lemma": "elle",
-     "pos": "pron",
-     "stress": "ɛl",
-     "gloss": "she",
-     "gram": "subject pronoun, 3rd person singular feminine"
-    },
-    {
-     "t": "fait",
-     "lemma": "faire",
-     "pos": "verb",
-     "stress": "fɛ",
-     "gloss": "does",
-     "gram": "present, 3rd person singular; 'faire le ménage' = to do the cleaning"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "ménage",
-     "lemma": "ménage",
-     "pos": "noun",
-     "stress": "menaʒ",
-     "gloss": "cleaning, housework",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "pour",
-     "lemma": "pour",
-     "pos": "prep",
-     "stress": "puʁ",
-     "gloss": "for",
-     "gram": "preposition"
-    },
-    {
-     "t": "la",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "la",
-     "gloss": "the",
-     "gram": "definite article, feminine singular"
-    },
-    {
-     "t": "duchesse.",
-     "lemma": "duchesse",
-     "pos": "noun",
-     "stress": "dyʃɛs",
-     "gloss": "duchess",
-     "gram": "feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 8,
-   "trans": "She's going to be furious with me.",
-   "words": [
-    {
-     "t": "Elle",
-     "lemma": "elle",
-     "pos": "pron",
-     "stress": "ɛl",
-     "gloss": "she",
-     "gram": "subject pronoun, 3rd person singular feminine"
-    },
-    {
-     "t": "va",
-     "lemma": "aller",
-     "pos": "verb",
-     "stress": "va",
-     "gloss": "is going to",
-     "gram": "present, 3rd person singular; near future (aller + infinitive)"
-    },
-    {
-     "t": "être",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "ɛtʁ",
-     "gloss": "be",
-     "gram": "infinitive after 'aller'"
-    },
-    {
-     "t": "furieuse",
-     "lemma": "furieux",
-     "pos": "adj",
-     "stress": "fyʁjøz",
-     "gloss": "furious",
-     "gram": "feminine singular of 'furieux', agrees with 'elle'"
-    },
-    {
-     "t": "contre",
-     "lemma": "contre",
-     "pos": "prep",
-     "stress": "kɔ̃tʁ",
-     "gloss": "with, against",
-     "gram": "preposition after 'furieuse'"
-    },
-    {
-     "t": "moi.",
-     "lemma": "moi",
-     "pos": "pron",
-     "stress": "mwa",
-     "gloss": "me",
-     "gram": "stressed pronoun after a preposition"
-    }
-   ]
-  },
-  {
-   "seg": 9,
-   "trans": "I'm playing the slave?",
-   "words": [
-    {
-     "t": "Je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "joue",
-     "lemma": "jouer",
-     "pos": "verb",
-     "stress": "ʒu",
-     "gloss": "play, am playing",
-     "gram": "present, 1st person singular"
-    },
-    {
-     "t": "l'esclave?",
-     "lemma": "esclave",
-     "pos": "noun",
-     "stress": "lɛsklav",
-     "gloss": "the slave",
-     "gram": "la (elided l') + esclave: feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 10,
-   "trans": "Yes, but with lines to say as well.",
-   "words": [
-    {
-     "t": "Oui,",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "positive answer"
-    },
-    {
-     "t": "mais",
-     "lemma": "mais",
-     "pos": "conj",
-     "stress": "mɛ",
-     "gloss": "but",
-     "gram": "coordinating conjunction"
-    },
-    {
-     "t": "avec",
-     "lemma": "avec",
-     "pos": "prep",
-     "stress": "avɛk",
-     "gloss": "with",
-     "gram": "preposition"
-    },
-    {
-     "t": "du",
-     "lemma": "du",
-     "pos": "det",
-     "stress": "dy",
-     "gloss": "some",
-     "gram": "partitive article, masculine singular (de + le)"
-    },
-    {
-     "t": "texte",
-     "lemma": "texte",
-     "pos": "noun",
-     "stress": "tɛkst",
-     "gloss": "lines, text",
-     "gram": "masculine singular ('du texte' = spoken lines)"
-    },
-    {
-     "t": "en",
-     "lemma": "en",
-     "pos": "prep",
-     "stress": "ɑ̃",
-     "gloss": "in ('en plus' = as well)",
-     "gram": "preposition in the phrase 'en plus'"
-    },
-    {
-     "t": "plus.",
-     "lemma": "plus",
-     "pos": "adv",
-     "stress": "plys",
-     "gloss": "addition, extra",
-     "gram": "'en plus' = in addition, as well (final s pronounced)"
-    }
-   ]
-  },
-  {
-   "seg": 11,
-   "trans": "I got the part?",
-   "words": [
-    {
-     "t": "J'ai",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "ʒe",
-     "gloss": "I have",
-     "gram": "je (elided j') + ai: auxiliary 'avoir', present, 1st person singular"
-    },
-    {
-     "t": "eu",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "y",
-     "gloss": "had (got)",
-     "gram": "past participle of 'avoir'; 'j'ai eu' = I got"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "rôle?",
-     "lemma": "rôle",
-     "pos": "noun",
-     "stress": "ʁol",
-     "gloss": "part, role",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 12,
-   "trans": "In a film with JoeyStarr!",
-   "words": [
-    {
-     "t": "Dans",
-     "lemma": "dans",
-     "pos": "prep",
-     "stress": "dɑ̃",
-     "gloss": "in",
-     "gram": "preposition"
-    },
-    {
-     "t": "un",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "œ̃",
-     "gloss": "a",
-     "gram": "indefinite article, masculine singular"
-    },
-    {
-     "t": "film",
-     "lemma": "film",
-     "pos": "noun",
-     "stress": "film",
-     "gloss": "movie, film",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "avec",
-     "lemma": "avec",
-     "pos": "prep",
-     "stress": "avɛk",
-     "gloss": "with",
-     "gram": "preposition"
-    },
-    {
-     "t": "JoeyStarr!",
-     "lemma": "joeystarr",
-     "pos": "name",
-     "stress": "dʒoistaʁ",
-     "gloss": "JoeyStarr (French rapper and actor)",
-     "gram": "proper name"
-    }
-   ]
-  },
-  {
-   "seg": 13,
-   "trans": "That's brilliant! Oh, Gabriel!",
-   "words": [
-    {
-     "t": "C'est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "sɛ",
-     "gloss": "that's, it's",
-     "gram": "ce (elided c', it) + est: present, 3rd person singular"
-    },
-    {
-     "t": "génial!",
-     "lemma": "génial",
-     "pos": "adj",
-     "stress": "ʒenjal",
-     "gloss": "brilliant, awesome",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "Oh,",
-     "lemma": "oh",
-     "pos": "interj",
-     "stress": "o",
-     "gloss": "oh!",
-     "gram": "exclamation"
-    },
-    {
-     "t": "Gabriel!",
-     "lemma": "gabriel",
-     "pos": "name",
-     "stress": "ɡabʁijɛl",
-     "gloss": "Gabriel (first name)",
-     "gram": "proper name"
-    }
-   ]
-  },
-  {
-   "seg": 14,
-   "trans": "Thank you! I love you, I love you!",
-   "words": [
-    {
-     "t": "Merci!",
-     "lemma": "merci",
-     "pos": "interj",
-     "stress": "mɛʁsi",
-     "gloss": "thank you!",
-     "gram": "polite thanks"
-    },
-    {
-     "t": "Je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "t'aime,",
-     "lemma": "aimer",
-     "pos": "verb",
-     "stress": "tɛm",
-     "gloss": "love you",
-     "gram": "te (elided t', you) + aime: present, 1st person singular"
-    },
-    {
-     "t": "je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "t'aime!",
-     "lemma": "aimer",
-     "pos": "verb",
-     "stress": "tɛm",
-     "gloss": "love you",
-     "gram": "te (elided t', you) + aime: present, 1st person singular"
-    }
-   ]
-  },
-  {
-   "seg": 16,
-   "trans": "Who wants some good news?",
-   "words": [
-    {
-     "t": "Qui",
-     "lemma": "qui",
-     "pos": "pron",
-     "stress": "ki",
-     "gloss": "who",
-     "gram": "interrogative pronoun, subject"
-    },
-    {
-     "t": "veut",
-     "lemma": "vouloir",
-     "pos": "verb",
-     "stress": "vø",
-     "gloss": "wants",
-     "gram": "present, 3rd person singular"
-    },
-    {
-     "t": "une",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "yn",
-     "gloss": "a (piece of)",
-     "gram": "indefinite article, feminine singular"
-    },
-    {
-     "t": "bonne",
-     "lemma": "bon",
-     "pos": "adj",
-     "stress": "bɔn",
-     "gloss": "good",
-     "gram": "feminine singular, agrees with 'nouvelle'"
-    },
-    {
-     "t": "nouvelle?",
-     "lemma": "nouvelle",
-     "pos": "noun",
-     "stress": "nuvɛl",
-     "gloss": "news (piece of news)",
-     "gram": "feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 18,
-   "trans": "Sofia got the part!",
-   "words": [
-    {
-     "t": "Sofia",
-     "lemma": "sofia",
-     "pos": "name",
-     "stress": "sɔfja",
-     "gloss": "Sofia (first name)",
-     "gram": "proper name"
-    },
-    {
-     "t": "a",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "a",
-     "gloss": "has",
-     "gram": "auxiliary 'avoir', present, 3rd person singular"
-    },
-    {
-     "t": "eu",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "y",
-     "gloss": "had (got)",
-     "gram": "past participle of 'avoir'; 'a eu' = got"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "rôle!",
-     "lemma": "rôle",
-     "pos": "noun",
-     "stress": "ʁol",
-     "gloss": "part, role",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 20,
-   "trans": "Great! In the costume drama?",
-   "words": [
-    {
-     "t": "Super!",
-     "lemma": "super",
-     "pos": "adj",
-     "stress": "sypɛʁ",
-     "gloss": "great!, fantastic!",
-     "gram": "invariable exclamation"
-    },
-    {
-     "t": "Dans",
-     "lemma": "dans",
-     "pos": "prep",
-     "stress": "dɑ̃",
-     "gloss": "in",
-     "gram": "preposition"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "film",
-     "lemma": "film",
-     "pos": "noun",
-     "stress": "film",
-     "gloss": "movie, film",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "en",
-     "lemma": "en",
-     "pos": "prep",
-     "stress": "ɑ̃",
-     "gloss": "in",
-     "gram": "preposition; 'en costume' = in period costume"
-    },
-    {
-     "t": "costume?",
-     "lemma": "costume",
-     "pos": "noun",
-     "stress": "kɔstym",
-     "gloss": "period costume",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 22,
-   "trans": "The director is smart.",
-   "words": [
-    {
-     "t": "Le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "réalisateur",
-     "lemma": "réalisateur",
-     "pos": "noun",
-     "stress": "ʁealizatœʁ",
-     "gloss": "director",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "is",
-     "gram": "present, 3rd person singular"
-    },
-    {
-     "t": "intelligent.",
-     "lemma": "intelligent",
-     "pos": "adj",
-     "stress": "ɛ̃teliʒɑ̃",
-     "gloss": "smart, clever",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 24,
-   "trans": "No, Sofia is playing the slave.",
-   "words": [
-    {
-     "t": "Non,",
-     "lemma": "non",
-     "pos": "adv",
-     "stress": "nɔ̃",
-     "gloss": "no",
-     "gram": "negative answer"
-    },
-    {
-     "t": "Sofia",
-     "lemma": "sofia",
-     "pos": "name",
-     "stress": "sɔfja",
-     "gloss": "Sofia (first name)",
-     "gram": "proper name"
-    },
-    {
-     "t": "joue",
-     "lemma": "jouer",
-     "pos": "verb",
-     "stress": "ʒu",
-     "gloss": "plays, is playing",
-     "gram": "present, 3rd person singular"
-    },
-    {
-     "t": "l'esclave.",
-     "lemma": "esclave",
-     "pos": "noun",
-     "stress": "lɛsklav",
-     "gloss": "the slave",
-     "gram": "la (elided l') + esclave: feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 26,
-   "trans": "No! Really?",
-   "words": [
-    {
-     "t": "Non!",
-     "lemma": "non",
-     "pos": "adv",
-     "stress": "nɔ̃",
-     "gloss": "no!",
-     "gram": "exclamation of disbelief"
-    },
-    {
-     "t": "C'est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "sɛ",
-     "gloss": "is it (it's)",
-     "gram": "ce (elided c', it) + est: present, 3rd person singular"
-    },
-    {
-     "t": "vrai?",
-     "lemma": "vrai",
-     "pos": "adj",
-     "stress": "vʁɛ",
-     "gloss": "true, really",
-     "gram": "masculine singular; 'c'est vrai?' = really?"
-    }
-   ]
-  },
-  {
-   "seg": 28,
-   "trans": "Yes, she does the cleaning for the duchess.",
-   "words": [
-    {
-     "t": "Oui,",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "positive answer"
-    },
-    {
-     "t": "elle",
-     "lemma": "elle",
-     "pos": "pron",
-     "stress": "ɛl",
-     "gloss": "she",
-     "gram": "subject pronoun, 3rd person singular feminine"
-    },
-    {
-     "t": "fait",
-     "lemma": "faire",
-     "pos": "verb",
-     "stress": "fɛ",
-     "gloss": "does",
-     "gram": "present, 3rd person singular; 'faire le ménage' = to do the cleaning"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "ménage",
-     "lemma": "ménage",
-     "pos": "noun",
-     "stress": "menaʒ",
-     "gloss": "cleaning, housework",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "pour",
-     "lemma": "pour",
-     "pos": "prep",
-     "stress": "puʁ",
-     "gloss": "for",
-     "gram": "preposition"
-    },
-    {
-     "t": "la",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "la",
-     "gloss": "the",
-     "gram": "definite article, feminine singular"
-    },
-    {
-     "t": "duchesse.",
-     "lemma": "duchesse",
-     "pos": "noun",
-     "stress": "dyʃɛs",
-     "gloss": "duchess",
-     "gram": "feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 30,
-   "trans": "She's going to be furious with me.",
-   "words": [
-    {
-     "t": "Elle",
-     "lemma": "elle",
-     "pos": "pron",
-     "stress": "ɛl",
-     "gloss": "she",
-     "gram": "subject pronoun, 3rd person singular feminine"
-    },
-    {
-     "t": "va",
-     "lemma": "aller",
-     "pos": "verb",
-     "stress": "va",
-     "gloss": "is going to",
-     "gram": "present, 3rd person singular; near future (aller + infinitive)"
-    },
-    {
-     "t": "être",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "ɛtʁ",
-     "gloss": "be",
-     "gram": "infinitive after 'aller'"
-    },
-    {
-     "t": "furieuse",
-     "lemma": "furieux",
-     "pos": "adj",
-     "stress": "fyʁjøz",
-     "gloss": "furious",
-     "gram": "feminine singular of 'furieux', agrees with 'elle'"
-    },
-    {
-     "t": "contre",
-     "lemma": "contre",
-     "pos": "prep",
-     "stress": "kɔ̃tʁ",
-     "gloss": "with, against",
-     "gram": "preposition after 'furieuse'"
-    },
-    {
-     "t": "moi.",
-     "lemma": "moi",
-     "pos": "pron",
-     "stress": "mwa",
-     "gloss": "me",
-     "gram": "stressed pronoun after a preposition"
-    }
-   ]
-  },
-  {
-   "seg": 32,
-   "trans": "I'm playing the slave?",
-   "words": [
-    {
-     "t": "Je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "joue",
-     "lemma": "jouer",
-     "pos": "verb",
-     "stress": "ʒu",
-     "gloss": "play, am playing",
-     "gram": "present, 1st person singular"
-    },
-    {
-     "t": "l'esclave?",
-     "lemma": "esclave",
-     "pos": "noun",
-     "stress": "lɛsklav",
-     "gloss": "the slave",
-     "gram": "la (elided l') + esclave: feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 34,
-   "trans": "Yes, but with lines to say as well.",
-   "words": [
-    {
-     "t": "Oui,",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "positive answer"
-    },
-    {
-     "t": "mais",
-     "lemma": "mais",
-     "pos": "conj",
-     "stress": "mɛ",
-     "gloss": "but",
-     "gram": "coordinating conjunction"
-    },
-    {
-     "t": "avec",
-     "lemma": "avec",
-     "pos": "prep",
-     "stress": "avɛk",
-     "gloss": "with",
-     "gram": "preposition"
-    },
-    {
-     "t": "du",
-     "lemma": "du",
-     "pos": "det",
-     "stress": "dy",
-     "gloss": "some",
-     "gram": "partitive article, masculine singular (de + le)"
-    },
-    {
-     "t": "texte",
-     "lemma": "texte",
-     "pos": "noun",
-     "stress": "tɛkst",
-     "gloss": "lines, text",
-     "gram": "masculine singular ('du texte' = spoken lines)"
-    },
-    {
-     "t": "en",
-     "lemma": "en",
-     "pos": "prep",
-     "stress": "ɑ̃",
-     "gloss": "in ('en plus' = as well)",
-     "gram": "preposition in the phrase 'en plus'"
-    },
-    {
-     "t": "plus.",
-     "lemma": "plus",
-     "pos": "adv",
-     "stress": "plys",
-     "gloss": "addition, extra",
-     "gram": "'en plus' = in addition, as well (final s pronounced)"
-    }
-   ]
-  },
-  {
-   "seg": 36,
-   "trans": "I got the part?",
-   "words": [
-    {
-     "t": "J'ai",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "ʒe",
-     "gloss": "I have",
-     "gram": "je (elided j') + ai: auxiliary 'avoir', present, 1st person singular"
-    },
-    {
-     "t": "eu",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "y",
-     "gloss": "had (got)",
-     "gram": "past participle of 'avoir'; 'j'ai eu' = I got"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "rôle?",
-     "lemma": "rôle",
-     "pos": "noun",
-     "stress": "ʁol",
-     "gloss": "part, role",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 38,
-   "trans": "In a film with JoeyStarr!",
-   "words": [
-    {
-     "t": "Dans",
-     "lemma": "dans",
-     "pos": "prep",
-     "stress": "dɑ̃",
-     "gloss": "in",
-     "gram": "preposition"
-    },
-    {
-     "t": "un",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "œ̃",
-     "gloss": "a",
-     "gram": "indefinite article, masculine singular"
-    },
-    {
-     "t": "film",
-     "lemma": "film",
-     "pos": "noun",
-     "stress": "film",
-     "gloss": "movie, film",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "avec",
-     "lemma": "avec",
-     "pos": "prep",
-     "stress": "avɛk",
-     "gloss": "with",
-     "gram": "preposition"
-    },
-    {
-     "t": "JoeyStarr!",
-     "lemma": "joeystarr",
-     "pos": "name",
-     "stress": "dʒoistaʁ",
-     "gloss": "JoeyStarr (French rapper and actor)",
-     "gram": "proper name"
-    }
-   ]
-  },
-  {
-   "seg": 40,
-   "trans": "That's brilliant! Oh, Gabriel!",
-   "words": [
-    {
-     "t": "C'est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "sɛ",
-     "gloss": "that's, it's",
-     "gram": "ce (elided c', it) + est: present, 3rd person singular"
-    },
-    {
-     "t": "génial!",
-     "lemma": "génial",
-     "pos": "adj",
-     "stress": "ʒenjal",
-     "gloss": "brilliant, awesome",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "Oh,",
-     "lemma": "oh",
-     "pos": "interj",
-     "stress": "o",
-     "gloss": "oh!",
-     "gram": "exclamation"
-    },
-    {
-     "t": "Gabriel!",
-     "lemma": "gabriel",
-     "pos": "name",
-     "stress": "ɡabʁijɛl",
-     "gloss": "Gabriel (first name)",
-     "gram": "proper name"
-    }
-   ]
-  },
-  {
-   "seg": 42,
-   "trans": "Thank you! I love you, I love you!",
-   "words": [
-    {
-     "t": "Merci!",
-     "lemma": "merci",
-     "pos": "interj",
-     "stress": "mɛʁsi",
-     "gloss": "thank you!",
-     "gram": "polite thanks"
-    },
-    {
-     "t": "Je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "t'aime,",
-     "lemma": "aimer",
-     "pos": "verb",
-     "stress": "tɛm",
-     "gloss": "love you",
-     "gram": "te (elided t', you) + aime: present, 1st person singular"
-    },
-    {
-     "t": "je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "t'aime!",
-     "lemma": "aimer",
-     "pos": "verb",
-     "stress": "tɛm",
-     "gloss": "love you",
-     "gram": "te (elided t', you) + aime: present, 1st person singular"
-    }
-   ]
-  },
-  {
-   "seg": 44,
-   "trans": "Who wants some good news?",
-   "words": [
-    {
-     "t": "Qui",
-     "lemma": "qui",
-     "pos": "pron",
-     "stress": "ki",
-     "gloss": "who",
-     "gram": "interrogative pronoun, subject"
-    },
-    {
-     "t": "veut",
-     "lemma": "vouloir",
-     "pos": "verb",
-     "stress": "vø",
-     "gloss": "wants",
-     "gram": "present, 3rd person singular"
-    },
-    {
-     "t": "une",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "yn",
-     "gloss": "a (piece of)",
-     "gram": "indefinite article, feminine singular"
-    },
-    {
-     "t": "bonne",
-     "lemma": "bon",
-     "pos": "adj",
-     "stress": "bɔn",
-     "gloss": "good",
-     "gram": "feminine singular, agrees with 'nouvelle'"
-    },
-    {
-     "t": "nouvelle?",
-     "lemma": "nouvelle",
-     "pos": "noun",
-     "stress": "nuvɛl",
-     "gloss": "news (piece of news)",
-     "gram": "feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 45,
-   "trans": "Sofia got the part!",
-   "words": [
-    {
-     "t": "Sofia",
-     "lemma": "sofia",
-     "pos": "name",
-     "stress": "sɔfja",
-     "gloss": "Sofia (first name)",
-     "gram": "proper name"
-    },
-    {
-     "t": "a",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "a",
-     "gloss": "has",
-     "gram": "auxiliary 'avoir', present, 3rd person singular"
-    },
-    {
-     "t": "eu",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "y",
-     "gloss": "had (got)",
-     "gram": "past participle of 'avoir'; 'a eu' = got"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "rôle!",
-     "lemma": "rôle",
-     "pos": "noun",
-     "stress": "ʁol",
-     "gloss": "part, role",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 46,
-   "trans": "Great! In the costume drama?",
-   "words": [
-    {
-     "t": "Super!",
-     "lemma": "super",
-     "pos": "adj",
-     "stress": "sypɛʁ",
-     "gloss": "great!, fantastic!",
-     "gram": "invariable exclamation"
-    },
-    {
-     "t": "Dans",
-     "lemma": "dans",
-     "pos": "prep",
-     "stress": "dɑ̃",
-     "gloss": "in",
-     "gram": "preposition"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "film",
-     "lemma": "film",
-     "pos": "noun",
-     "stress": "film",
-     "gloss": "movie, film",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "en",
-     "lemma": "en",
-     "pos": "prep",
-     "stress": "ɑ̃",
-     "gloss": "in",
-     "gram": "preposition; 'en costume' = in period costume"
-    },
-    {
-     "t": "costume?",
-     "lemma": "costume",
-     "pos": "noun",
-     "stress": "kɔstym",
-     "gloss": "period costume",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 47,
-   "trans": "The director is smart.",
-   "words": [
-    {
-     "t": "Le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "réalisateur",
-     "lemma": "réalisateur",
-     "pos": "noun",
-     "stress": "ʁealizatœʁ",
-     "gloss": "director",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "ɛ",
-     "gloss": "is",
-     "gram": "present, 3rd person singular"
-    },
-    {
-     "t": "intelligent.",
-     "lemma": "intelligent",
-     "pos": "adj",
-     "stress": "ɛ̃teliʒɑ̃",
-     "gloss": "smart, clever",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 48,
-   "trans": "No, Sofia is playing the slave.",
-   "words": [
-    {
-     "t": "Non,",
-     "lemma": "non",
-     "pos": "adv",
-     "stress": "nɔ̃",
-     "gloss": "no",
-     "gram": "negative answer"
-    },
-    {
-     "t": "Sofia",
-     "lemma": "sofia",
-     "pos": "name",
-     "stress": "sɔfja",
-     "gloss": "Sofia (first name)",
-     "gram": "proper name"
-    },
-    {
-     "t": "joue",
-     "lemma": "jouer",
-     "pos": "verb",
-     "stress": "ʒu",
-     "gloss": "plays, is playing",
-     "gram": "present, 3rd person singular"
-    },
-    {
-     "t": "l'esclave.",
-     "lemma": "esclave",
-     "pos": "noun",
-     "stress": "lɛsklav",
-     "gloss": "the slave",
-     "gram": "la (elided l') + esclave: feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 49,
-   "trans": "No! Really?",
-   "words": [
-    {
-     "t": "Non!",
-     "lemma": "non",
-     "pos": "adv",
-     "stress": "nɔ̃",
-     "gloss": "no!",
-     "gram": "exclamation of disbelief"
-    },
-    {
-     "t": "C'est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "sɛ",
-     "gloss": "is it (it's)",
-     "gram": "ce (elided c', it) + est: present, 3rd person singular"
-    },
-    {
-     "t": "vrai?",
-     "lemma": "vrai",
-     "pos": "adj",
-     "stress": "vʁɛ",
-     "gloss": "true, really",
-     "gram": "masculine singular; 'c'est vrai?' = really?"
-    }
-   ]
-  },
-  {
-   "seg": 50,
-   "trans": "Yes, she does the cleaning for the duchess.",
-   "words": [
-    {
-     "t": "Oui,",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "positive answer"
-    },
-    {
-     "t": "elle",
-     "lemma": "elle",
-     "pos": "pron",
-     "stress": "ɛl",
-     "gloss": "she",
-     "gram": "subject pronoun, 3rd person singular feminine"
-    },
-    {
-     "t": "fait",
-     "lemma": "faire",
-     "pos": "verb",
-     "stress": "fɛ",
-     "gloss": "does",
-     "gram": "present, 3rd person singular; 'faire le ménage' = to do the cleaning"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "ménage",
-     "lemma": "ménage",
-     "pos": "noun",
-     "stress": "menaʒ",
-     "gloss": "cleaning, housework",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "pour",
-     "lemma": "pour",
-     "pos": "prep",
-     "stress": "puʁ",
-     "gloss": "for",
-     "gram": "preposition"
-    },
-    {
-     "t": "la",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "la",
-     "gloss": "the",
-     "gram": "definite article, feminine singular"
-    },
-    {
-     "t": "duchesse.",
-     "lemma": "duchesse",
-     "pos": "noun",
-     "stress": "dyʃɛs",
-     "gloss": "duchess",
-     "gram": "feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 51,
-   "trans": "She's going to be furious with me.",
-   "words": [
-    {
-     "t": "Elle",
-     "lemma": "elle",
-     "pos": "pron",
-     "stress": "ɛl",
-     "gloss": "she",
-     "gram": "subject pronoun, 3rd person singular feminine"
-    },
-    {
-     "t": "va",
-     "lemma": "aller",
-     "pos": "verb",
-     "stress": "va",
-     "gloss": "is going to",
-     "gram": "present, 3rd person singular; near future (aller + infinitive)"
-    },
-    {
-     "t": "être",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "ɛtʁ",
-     "gloss": "be",
-     "gram": "infinitive after 'aller'"
-    },
-    {
-     "t": "furieuse",
-     "lemma": "furieux",
-     "pos": "adj",
-     "stress": "fyʁjøz",
-     "gloss": "furious",
-     "gram": "feminine singular of 'furieux', agrees with 'elle'"
-    },
-    {
-     "t": "contre",
-     "lemma": "contre",
-     "pos": "prep",
-     "stress": "kɔ̃tʁ",
-     "gloss": "with, against",
-     "gram": "preposition after 'furieuse'"
-    },
-    {
-     "t": "moi.",
-     "lemma": "moi",
-     "pos": "pron",
-     "stress": "mwa",
-     "gloss": "me",
-     "gram": "stressed pronoun after a preposition"
-    }
-   ]
-  },
-  {
-   "seg": 52,
-   "trans": "I'm playing the slave?",
-   "words": [
-    {
-     "t": "Je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "joue",
-     "lemma": "jouer",
-     "pos": "verb",
-     "stress": "ʒu",
-     "gloss": "play, am playing",
-     "gram": "present, 1st person singular"
-    },
-    {
-     "t": "l'esclave?",
-     "lemma": "esclave",
-     "pos": "noun",
-     "stress": "lɛsklav",
-     "gloss": "the slave",
-     "gram": "la (elided l') + esclave: feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 53,
-   "trans": "Yes, but with lines to say as well.",
-   "words": [
-    {
-     "t": "Oui,",
-     "lemma": "oui",
-     "pos": "adv",
-     "stress": "wi",
-     "gloss": "yes",
-     "gram": "positive answer"
-    },
-    {
-     "t": "mais",
-     "lemma": "mais",
-     "pos": "conj",
-     "stress": "mɛ",
-     "gloss": "but",
-     "gram": "coordinating conjunction"
-    },
-    {
-     "t": "avec",
-     "lemma": "avec",
-     "pos": "prep",
-     "stress": "avɛk",
-     "gloss": "with",
-     "gram": "preposition"
-    },
-    {
-     "t": "du",
-     "lemma": "du",
-     "pos": "det",
-     "stress": "dy",
-     "gloss": "some",
-     "gram": "partitive article, masculine singular (de + le)"
-    },
-    {
-     "t": "texte",
-     "lemma": "texte",
-     "pos": "noun",
-     "stress": "tɛkst",
-     "gloss": "lines, text",
-     "gram": "masculine singular ('du texte' = spoken lines)"
-    },
-    {
-     "t": "en",
-     "lemma": "en",
-     "pos": "prep",
-     "stress": "ɑ̃",
-     "gloss": "in ('en plus' = as well)",
-     "gram": "preposition in the phrase 'en plus'"
-    },
-    {
-     "t": "plus.",
-     "lemma": "plus",
-     "pos": "adv",
-     "stress": "plys",
-     "gloss": "addition, extra",
-     "gram": "'en plus' = in addition, as well (final s pronounced)"
-    }
-   ]
-  },
-  {
-   "seg": 54,
-   "trans": "I got the part?",
-   "words": [
-    {
-     "t": "J'ai",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "ʒe",
-     "gloss": "I have",
-     "gram": "je (elided j') + ai: auxiliary 'avoir', present, 1st person singular"
-    },
-    {
-     "t": "eu",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "y",
-     "gloss": "had (got)",
-     "gram": "past participle of 'avoir'; 'j'ai eu' = I got"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "rôle?",
-     "lemma": "rôle",
-     "pos": "noun",
-     "stress": "ʁol",
-     "gloss": "part, role",
-     "gram": "masculine singular"
-    }
-   ]
-  },
-  {
-   "seg": 55,
-   "trans": "In a film with JoeyStarr!",
-   "words": [
-    {
-     "t": "Dans",
-     "lemma": "dans",
-     "pos": "prep",
-     "stress": "dɑ̃",
-     "gloss": "in",
-     "gram": "preposition"
-    },
-    {
-     "t": "un",
-     "lemma": "un",
-     "pos": "det",
-     "stress": "œ̃",
-     "gloss": "a",
-     "gram": "indefinite article, masculine singular"
-    },
-    {
-     "t": "film",
-     "lemma": "film",
-     "pos": "noun",
-     "stress": "film",
-     "gloss": "movie, film",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "avec",
-     "lemma": "avec",
-     "pos": "prep",
-     "stress": "avɛk",
-     "gloss": "with",
-     "gram": "preposition"
-    },
-    {
-     "t": "JoeyStarr!",
-     "lemma": "joeystarr",
-     "pos": "name",
-     "stress": "dʒoistaʁ",
-     "gloss": "JoeyStarr (French rapper and actor)",
-     "gram": "proper name"
-    }
-   ]
-  },
-  {
-   "seg": 56,
-   "trans": "That's brilliant! Oh, Gabriel!",
-   "words": [
-    {
-     "t": "C'est",
-     "lemma": "être",
-     "pos": "verb",
-     "stress": "sɛ",
-     "gloss": "that's, it's",
-     "gram": "ce (elided c', it) + est: present, 3rd person singular"
-    },
-    {
-     "t": "génial!",
-     "lemma": "génial",
-     "pos": "adj",
-     "stress": "ʒenjal",
-     "gloss": "brilliant, awesome",
-     "gram": "masculine singular"
-    },
-    {
-     "t": "Oh,",
-     "lemma": "oh",
-     "pos": "interj",
-     "stress": "o",
-     "gloss": "oh!",
-     "gram": "exclamation"
-    },
-    {
-     "t": "Gabriel!",
-     "lemma": "gabriel",
-     "pos": "name",
-     "stress": "ɡabʁijɛl",
-     "gloss": "Gabriel (first name)",
-     "gram": "proper name"
-    }
-   ]
-  },
-  {
-   "seg": 57,
-   "trans": "Thank you! I love you, I love you!",
-   "words": [
-    {
-     "t": "Merci!",
-     "lemma": "merci",
-     "pos": "interj",
-     "stress": "mɛʁsi",
-     "gloss": "thank you!",
-     "gram": "polite thanks"
-    },
-    {
-     "t": "Je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "t'aime,",
-     "lemma": "aimer",
-     "pos": "verb",
-     "stress": "tɛm",
-     "gloss": "love you",
-     "gram": "te (elided t', you) + aime: present, 1st person singular"
-    },
-    {
-     "t": "je",
-     "lemma": "je",
-     "pos": "pron",
-     "stress": "ʒə",
-     "gloss": "I",
-     "gram": "subject pronoun, 1st person singular"
-    },
-    {
-     "t": "t'aime!",
-     "lemma": "aimer",
-     "pos": "verb",
-     "stress": "tɛm",
-     "gloss": "love you",
-     "gram": "te (elided t', you) + aime: present, 1st person singular"
-    }
-   ]
-  },
-  {
-   "seg": 59,
-   "trans": "I got the part!",
-   "words": [
-    {
-     "t": "J'ai",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "ʒe",
-     "gloss": "I have",
-     "gram": "je (elided j') + ai: auxiliary 'avoir', present, 1st person singular"
-    },
-    {
-     "t": "eu",
-     "lemma": "avoir",
-     "pos": "verb",
-     "stress": "y",
-     "gloss": "had (got)",
-     "gram": "past participle of 'avoir'; 'j'ai eu' = I got"
-    },
-    {
-     "t": "le",
-     "lemma": "le",
-     "pos": "det",
-     "stress": "lə",
-     "gloss": "the",
-     "gram": "definite article, masculine singular"
-    },
-    {
-     "t": "rôle!",
-     "lemma": "rôle",
-     "pos": "noun",
-     "stress": "ʁol",
-     "gloss": "part, role",
-     "gram": "masculine singular"
-    }
-   ]
   }
- ],
- "lexicon": {
-  "aimer": {
-   "examples": [
-    {
-     "text": "Tu n'aimais pas Mandelieu?",
-     "trans": "Didn't you like Mandelieu?"
-    },
-    {
-     "text": "J'aime le cinéma.",
-     "trans": "I like films."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "j'aime",
-       "nous aimons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu aimes",
-       "vous aimez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle aime",
-       "ils/elles aiment"
-      ]
-     }
-    ],
-    "title": "Present"
-   },
-   "gloss": "to like, to love",
-   "lemma": "aimer",
-   "meanings": [
-    {
-     "en": "to like",
-     "note": "with things and places"
-    },
-    {
-     "en": "to love",
-     "note": "with people"
-    }
-   ],
-   "moreForms": [
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'ai aimé",
-        "nous avons aimé"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu as aimé",
-        "vous avez aimé"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle a aimé",
-        "ils/elles ont aimé"
-       ]
-      }
-     ],
-     "title": "Passé composé"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'aimais",
-        "nous aimions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu aimais",
-        "vous aimiez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle aimait",
-        "ils/elles aimaient"
-       ]
-      }
-     ],
-     "title": "Imparfait"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'aimerai",
-        "nous aimerons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu aimeras",
-        "vous aimerez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle aimera",
-        "ils/elles aimeront"
-       ]
-      }
-     ],
-     "title": "Futur"
-    }
-   ],
-   "pos": "verb",
-   "stress": "eme"
-  },
-  "aller": {
-   "examples": [
-    {
-     "text": "Ça va? Oui, ça va bien.",
-     "trans": "How are you? Yes, I'm fine."
-    },
-    {
-     "text": "Je vais au bureau.",
-     "trans": "I'm going to the office."
-    },
-    {
-     "text": "On va manger ensemble.",
-     "trans": "We're going to eat together."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "je vais",
-       "nous allons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu vas",
-       "vous allez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle va",
-       "ils/elles vont"
-      ]
-     }
-    ],
-    "title": "Present"
-   },
-   "gloss": "to go",
-   "lemma": "aller",
-   "meanings": [
-    {
-     "en": "to go",
-     "note": ""
-    },
-    {
-     "en": "to be (health), in 'ça va'",
-     "note": "ça va? = how are you? / are you okay?"
-    },
-    {
-     "en": "going to (near future)",
-     "note": "aller + infinitive: je vais partir"
-    },
-    {
-     "en": "come on!",
-     "note": "imperative 'allez!' / 'allons!'"
-    }
-   ],
-   "moreForms": [
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je suis allé(e)",
-        "nous sommes allé(e)s"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu es allé(e)",
-        "vous êtes allé(e)(s)"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle est allé(e)",
-        "ils/elles sont allé(e)s"
-       ]
-      }
-     ],
-     "title": "Passé composé"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'allais",
-        "nous allions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu allais",
-        "vous alliez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle allait",
-        "ils/elles allaient"
-       ]
-      }
-     ],
-     "title": "Imparfait"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'irai",
-        "nous irons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu iras",
-        "vous irez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle ira",
-        "ils/elles iront"
-       ]
-      }
-     ],
-     "title": "Futur"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "—",
-        "allons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "va",
-        "allez"
-       ]
-      }
-     ],
-     "title": "Imperative"
-    }
-   ],
-   "pos": "verb",
-   "stress": "ale"
-  },
-  "avec": {
-   "examples": [
-    {
-     "text": "Tu déjeunes avec Audiard.",
-     "trans": "You're having lunch with Audiard."
-    },
-    {
-     "text": "Avec plaisir!",
-     "trans": "With pleasure!"
-    }
-   ],
-   "forms": null,
-   "gloss": "with",
-   "lemma": "avec",
-   "meanings": [
-    {
-     "en": "with",
-     "note": ""
-    }
-   ],
-   "moreForms": [],
-   "pos": "prep",
-   "stress": "avɛk"
-  },
-  "avoir": {
-   "examples": [
-    {
-     "text": "J'ai un problème.",
-     "trans": "I have a problem."
-    },
-    {
-     "text": "Elle a trente ans.",
-     "trans": "She's thirty."
-    },
-    {
-     "text": "Il y a un macaron sur la table.",
-     "trans": "There's a macaron on the table."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "j'ai",
-       "nous avons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu as",
-       "vous avez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle a",
-       "ils/elles ont"
-      ]
-     }
-    ],
-    "title": "Present"
-   },
-   "gloss": "to have",
-   "lemma": "avoir",
-   "meanings": [
-    {
-     "en": "to have",
-     "note": ""
-    },
-    {
-     "en": "to be (an age)",
-     "note": "elle a quarante ans = she is forty"
-    },
-    {
-     "en": "auxiliary for most past forms",
-     "note": "j'ai vécu = I lived"
-    },
-    {
-     "en": "il y a = there is / there are",
-     "note": ""
-    }
-   ],
-   "moreForms": [
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'ai eu",
-        "nous avons eu"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu as eu",
-        "vous avez eu"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle a eu",
-        "ils/elles ont eu"
-       ]
-      }
-     ],
-     "title": "Passé composé"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'avais",
-        "nous avions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu avais",
-        "vous aviez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle avait",
-        "ils/elles avaient"
-       ]
-      }
-     ],
-     "title": "Imparfait"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'aurai",
-        "nous aurons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu auras",
-        "vous aurez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle aura",
-        "ils/elles auront"
-       ]
-      }
-     ],
-     "title": "Futur"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "—",
-        "ayons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "aie",
-        "ayez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "—",
-        "—"
-       ]
-      }
-     ],
-     "title": "Imperative"
-    }
-   ],
-   "pos": "verb",
-   "stress": "avwaʁ"
-  },
-  "bon": {
-   "examples": [
-    {
-     "text": "Bon. Alors, je vais attendre.",
-     "trans": "Fine. Then I'll wait."
-    },
-    {
-     "text": "Bonne journée!",
-     "trans": "Have a nice day!"
-    },
-    {
-     "text": "C'est un bon film.",
-     "trans": "It's a good film."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "bon",
-       "bonne"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "bons",
-       "bonnes"
-      ]
-     }
-    ],
-    "title": "Forms"
-   },
-   "gloss": "good",
-   "lemma": "bon",
-   "meanings": [
-    {
-     "en": "good",
-     "note": ""
-    },
-    {
-     "en": "well, okay, right",
-     "note": "as an interjection: bon, alors... = right, so..."
-    },
-    {
-     "en": "bonne journée = have a nice day",
-     "note": ""
-    }
-   ],
-   "moreForms": [],
-   "pos": "adj",
-   "stress": "bɔ̃"
-  },
-  "contre": {
-   "examples": [
-    {
-     "text": "Je suis contre.",
-     "trans": "I'm against it."
-    },
-    {
-     "text": "Se battre contre le chagrin.",
-     "trans": "To fight against sorrow."
-    }
-   ],
-   "forms": null,
-   "gloss": "against",
-   "lemma": "contre",
-   "meanings": [
-    {
-     "en": "against",
-     "note": ""
-    }
-   ],
-   "moreForms": [],
-   "pos": "prep",
-   "stress": "kɔ̃tʁ"
-  },
-  "costume": {
-   "lemma": "costume",
-   "stress": "kɔstym",
-   "pos": "noun",
-   "gloss": "suit; costume",
-   "meanings": [
-    {
-     "en": "suit (men's jacket and trousers)",
-     "note": ""
-    },
-    {
-     "en": "costume (for the stage or a period film)",
-     "note": "un film en costume = a costume drama / period film"
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "le costume",
-       "les costumes"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Dans le film en costume?",
-     "trans": "In the costume drama?"
-    },
-    {
-     "text": "Il porte un costume sombre.",
-     "trans": "He's wearing a dark suit."
-    }
-   ],
-   "gender": "m",
-   "plural": "costumes"
-  },
-  "dans": {
-   "examples": [
-    {
-     "text": "Dans une heure.",
-     "trans": "In an hour."
-    },
-    {
-     "text": "Dans le cinéma.",
-     "trans": "In the film business."
-    }
-   ],
-   "forms": null,
-   "gloss": "in, inside; in (time)",
-   "lemma": "dans",
-   "meanings": [
-    {
-     "en": "in, inside",
-     "note": ""
-    },
-    {
-     "en": "in (time from now)",
-     "note": "dans une heure = in an hour"
-    }
-   ],
-   "moreForms": [],
-   "pos": "prep",
-   "stress": "dɑ̃"
-  },
-  "du": {
-   "examples": [
-    {
-     "text": "Du Botox chaque année.",
-     "trans": "Botox every year."
-    },
-    {
-     "text": "Je veux du café.",
-     "trans": "I want some coffee."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "du (de l')",
-       "de la (de l')"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "des",
-       "des"
-      ]
-     }
-    ],
-    "title": "Forms"
-   },
-   "gloss": "some; of the",
-   "lemma": "du",
-   "meanings": [
-    {
-     "en": "some (partitive, masculine)",
-     "note": "du Botox, du pain"
-    },
-    {
-     "en": "of the (de + le)",
-     "note": ""
-    }
-   ],
-   "moreForms": [],
-   "pos": "det",
-   "stress": "dy"
-  },
-  "duchesse": {
-   "lemma": "duchesse",
-   "stress": "dyʃɛs",
-   "pos": "noun",
-   "gloss": "duchess",
-   "meanings": [
-    {
-     "en": "duchess (noblewoman)",
-     "note": "masculine: le duc"
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "la duchesse",
-       "les duchesses"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Oui, elle fait le ménage pour la duchesse.",
-     "trans": "Yes, she does the cleaning for the duchess."
-    },
-    {
-     "text": "La duchesse habite dans un château.",
-     "trans": "The duchess lives in a castle."
-    }
-   ],
-   "gender": "f",
-   "plural": "duchesses"
-  },
-  "elle": {
-   "examples": [
-    {
-     "text": "Elle est trop vieille pour le rôle.",
-     "trans": "She's too old for the part."
-    },
-    {
-     "text": "Je pars avec elle.",
-     "trans": "I'm leaving with her."
-    }
-   ],
-   "forms": null,
-   "gloss": "she; it; her",
-   "lemma": "elle",
-   "meanings": [
-    {
-     "en": "she",
-     "note": ""
-    },
-    {
-     "en": "it",
-     "note": "for feminine nouns"
-    },
-    {
-     "en": "her",
-     "note": "after a preposition: avec elle"
-    }
-   ],
-   "moreForms": [],
-   "pos": "pron",
-   "stress": "ɛl"
-  },
-  "en": {
-   "examples": [
-    {
-     "text": "Je pars en vacances.",
-     "trans": "I'm going on holiday."
-    },
-    {
-     "text": "J'en ai assez!",
-     "trans": "I've had enough!"
-    }
-   ],
-   "forms": null,
-   "gloss": "in; (pronoun) of it, some",
-   "lemma": "en",
-   "meanings": [
-    {
-     "en": "in",
-     "note": "preposition: en vacances, en huit ans"
-    },
-    {
-     "en": "of it, of them",
-     "note": "pronoun before the verb: j'en ai assez, je n'en peux plus"
-    }
-   ],
-   "moreForms": [],
-   "pos": "prep",
-   "stress": "ɑ̃"
-  },
-  "esclave": {
-   "lemma": "esclave",
-   "stress": "ɛsklav",
-   "pos": "noun",
-   "gloss": "slave",
-   "meanings": [
-    {
-     "en": "slave",
-     "note": "same form for masculine and feminine: un/une esclave, l'esclave"
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "l'esclave",
-       "les esclaves"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Non, Sofia joue l'esclave.",
-     "trans": "No, Sofia is playing the slave."
-    },
-    {
-     "text": "Je joue l'esclave?",
-     "trans": "I'm playing the slave?"
-    }
-   ],
-   "gender": "m",
-   "plural": "esclaves"
-  },
-  "faire": {
-   "examples": [
-    {
-     "text": "Ne fais pas ça!",
-     "trans": "Don't do that!"
-    },
-    {
-     "text": "Fais du vélo!",
-     "trans": "Ride a bike!"
-    },
-    {
-     "text": "Qu'est-ce que tu fais?",
-     "trans": "What are you doing?"
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "je fais",
-       "nous faisons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu fais",
-       "vous faites"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle fait",
-       "ils/elles font"
-      ]
-     }
-    ],
-    "title": "Present"
-   },
-   "gloss": "to do, to make",
-   "lemma": "faire",
-   "meanings": [
-    {
-     "en": "to do",
-     "note": "pour faire quoi? = to do what?"
-    },
-    {
-     "en": "to make",
-     "note": "faire un café"
-    },
-    {
-     "en": "to go (an activity)",
-     "note": "faire du vélo = to ride a bike, to cycle"
-    }
-   ],
-   "moreForms": [
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'ai fait",
-        "nous avons fait"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu as fait",
-        "vous avez fait"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle a fait",
-        "ils/elles ont fait"
-       ]
-      }
-     ],
-     "title": "Passé composé"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je faisais",
-        "nous faisions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu faisais",
-        "vous faisiez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle faisait",
-        "ils/elles faisaient"
-       ]
-      }
-     ],
-     "title": "Imparfait"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je ferai",
-        "nous ferons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu feras",
-        "vous ferez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle fera",
-        "ils/elles feront"
-       ]
-      }
-     ],
-     "title": "Futur"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "—",
-        "faisons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "fais",
-        "faites"
-       ]
-      }
-     ],
-     "title": "Imperative"
-    }
-   ],
-   "pos": "verb",
-   "stress": "fɛʁ"
-  },
-  "film": {
-   "examples": [
-    {
-     "text": "C'est un bon film.",
-     "trans": "It's a good film."
-    },
-    {
-     "text": "On regarde un film?",
-     "trans": "Shall we watch a film?"
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "le film",
-       "les films"
-      ]
-     }
-    ],
-    "title": "Forms"
-   },
-   "gender": "m",
-   "gloss": "film, movie",
-   "lemma": "film",
-   "meanings": [
-    {
-     "en": "film, movie",
-     "note": ""
-    }
-   ],
-   "moreForms": [],
-   "plural": "films",
-   "pos": "noun",
-   "stress": "film"
-  },
-  "furieux": {
-   "lemma": "furieux",
-   "stress": "fyʁjø",
-   "pos": "adj",
-   "gloss": "furious, very angry",
-   "meanings": [
-    {
-     "en": "furious, very angry",
-     "note": "furieux contre quelqu'un = furious with someone"
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "furieux",
-       "furieuse"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "furieux",
-       "furieuses"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Elle va être furieuse contre moi.",
-     "trans": "She's going to be furious with me."
-    },
-    {
-     "text": "Il est furieux.",
-     "trans": "He's furious."
-    }
-   ]
-  },
-  "génial": {
-   "examples": [
-    {
-     "text": "Génial, non?",
-     "trans": "Brilliant, isn't it?"
-    },
-    {
-     "text": "C'est une idée géniale.",
-     "trans": "It's a brilliant idea."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "génial",
-       "géniale"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "géniaux",
-       "géniales"
-      ]
-     }
-    ],
-    "title": "Forms"
-   },
-   "gloss": "brilliant, great",
-   "lemma": "génial",
-   "meanings": [
-    {
-     "en": "brilliant, great",
-     "note": "informal praise"
-    },
-    {
-     "en": "of genius",
-     "note": ""
-    }
-   ],
-   "moreForms": [],
-   "pos": "adj",
-   "stress": "ʒenjal"
-  },
-  "intelligent": {
-   "lemma": "intelligent",
-   "stress": "ɛ̃teliʒɑ̃",
-   "pos": "adj",
-   "gloss": "smart, intelligent",
-   "meanings": [
-    {
-     "en": "smart, clever, intelligent",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "intelligent",
-       "intelligente"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "intelligents",
-       "intelligentes"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Le réalisateur est intelligent.",
-     "trans": "The director is smart."
-    },
-    {
-     "text": "C'est une femme très intelligente.",
-     "trans": "She's a very smart woman."
-    }
-   ]
-  },
-  "je": {
-   "examples": [
-    {
-     "text": "Je suis désolée.",
-     "trans": "I'm sorry."
-    },
-    {
-     "text": "J'ai un loft.",
-     "trans": "I've got a loft."
-    }
-   ],
-   "forms": null,
-   "gloss": "I",
-   "lemma": "je",
-   "meanings": [
-    {
-     "en": "I",
-     "note": "j' before a vowel"
-    }
-   ],
-   "moreForms": [],
-   "pos": "pron",
-   "stress": "ʒə"
-  },
-  "jouer": {
-   "examples": [
-    {
-     "text": "Il joue le frère de Guillaume.",
-     "trans": "He plays Guillaume's brother."
-    },
-    {
-     "text": "Elle joue dans une pièce.",
-     "trans": "She's acting in a play."
-    },
-    {
-     "text": "Les enfants jouent dehors.",
-     "trans": "The children are playing outside."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "je joue",
-       "nous jouons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu joues",
-       "vous jouez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle joue",
-       "ils/elles jouent"
-      ]
-     }
-    ],
-    "title": "Present"
-   },
-   "gloss": "to play",
-   "lemma": "jouer",
-   "meanings": [
-    {
-     "en": "to play (a part)",
-     "note": "jouer un rôle, jouer le frère de..."
-    },
-    {
-     "en": "to act, to perform",
-     "note": "je joue dans un spectacle"
-    },
-    {
-     "en": "to play (a game, music)",
-     "note": "jouer au foot, jouer du piano"
-    }
-   ],
-   "moreForms": [
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'ai joué",
-        "nous avons joué"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu as joué",
-        "vous avez joué"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle a joué",
-        "ils/elles ont joué"
-       ]
-      }
-     ],
-     "title": "Passé composé"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je jouais",
-        "nous jouions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu jouais",
-        "vous jouiez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle jouait",
-        "ils/elles jouaient"
-       ]
-      }
-     ],
-     "title": "Imparfait"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je jouerai",
-        "nous jouerons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu joueras",
-        "vous jouerez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle jouera",
-        "ils/elles joueront"
-       ]
-      }
-     ],
-     "title": "Futur"
-    }
-   ],
-   "pos": "verb",
-   "stress": "ʒwe"
-  },
-  "le": {
-   "examples": [
-    {
-     "text": "Le meilleur.",
-     "trans": "The best."
-    },
-    {
-     "text": "Vous la connaissez?",
-     "trans": "Do you know her?"
-    },
-    {
-     "text": "Les voilà.",
-     "trans": "There they are."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "le (l')",
-       "la (l')"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "les",
-       "les"
-      ]
-     }
-    ],
-    "title": "Forms"
-   },
-   "gloss": "the; him, her, it, them",
-   "lemma": "le",
-   "meanings": [
-    {
-     "en": "the (definite article)",
-     "note": "le, la, l', les"
-    },
-    {
-     "en": "him, her, it, them (object pronoun)",
-     "note": "before the verb: vous la connaissez? les voilà"
-    }
-   ],
-   "moreForms": [],
-   "pos": "det",
-   "stress": "lə"
-  },
-  "mais": {
-   "examples": [
-    {
-     "text": "Je veux, mais je ne peux pas.",
-     "trans": "I want to, but I can't."
-    },
-    {
-     "text": "Mais oui!",
-     "trans": "Yes, of course!"
-    }
-   ],
-   "forms": null,
-   "gloss": "but",
-   "lemma": "mais",
-   "meanings": [
-    {
-     "en": "but",
-     "note": ""
-    },
-    {
-     "en": "(emphasis)",
-     "note": "mais oui! = of course!"
-    }
-   ],
-   "moreForms": [],
-   "pos": "conj",
-   "stress": "mɛ"
-  },
-  "merci": {
-   "examples": [
-    {
-     "text": "Je prends ça. Merci.",
-     "trans": "I'll take that. Thanks."
-    },
-    {
-     "text": "Merci, au revoir!",
-     "trans": "Thank you, goodbye!"
-    }
-   ],
-   "forms": null,
-   "gloss": "thank you",
-   "lemma": "merci",
-   "meanings": [
-    {
-     "en": "thank you, thanks",
-     "note": "merci beaucoup = thank you very much"
-    }
-   ],
-   "moreForms": [],
-   "pos": "interj",
-   "stress": "mɛʁsi"
-  },
-  "moi": {
-   "examples": [
-    {
-     "text": "Tu viens avec moi?",
-     "trans": "Are you coming with me?"
-    },
-    {
-     "text": "Moi aussi.",
-     "trans": "Me too."
-    }
-   ],
-   "forms": null,
-   "gloss": "me",
-   "lemma": "moi",
-   "meanings": [
-    {
-     "en": "me",
-     "note": "after a preposition: avec moi"
-    },
-    {
-     "en": "me, I (stressed)",
-     "note": "moi aussi = me too"
-    }
-   ],
-   "moreForms": [],
-   "pos": "pron",
-   "stress": "mwa"
-  },
-  "ménage": {
-   "lemma": "ménage",
-   "stress": "menaʒ",
-   "pos": "noun",
-   "gloss": "housework, cleaning; household",
-   "meanings": [
-    {
-     "en": "housework, cleaning",
-     "note": "faire le ménage = to do the cleaning / housework"
-    },
-    {
-     "en": "household, couple",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Forms",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "le ménage",
-       "les ménages"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Oui, elle fait le ménage pour la duchesse.",
-     "trans": "Yes, she does the cleaning for the duchess."
-    },
-    {
-     "text": "Je fais le ménage le samedi.",
-     "trans": "I do the cleaning on Saturdays."
-    }
-   ],
-   "gender": "m",
-   "plural": "ménages"
-  },
-  "non": {
-   "examples": [
-    {
-     "text": "Non, mais c'est important.",
-     "trans": "No, but it's important."
-    },
-    {
-     "text": "Vous savez monter, non?",
-     "trans": "You can ride, can't you?"
-    }
-   ],
-   "forms": null,
-   "gloss": "no",
-   "lemma": "non",
-   "meanings": [
-    {
-     "en": "no",
-     "note": ""
-    },
-    {
-     "en": "..., non? = ..., don't you? / isn't it?",
-     "note": "tag at the end of a question"
-    }
-   ],
-   "moreForms": [],
-   "pos": "adv",
-   "stress": "nɔ̃"
-  },
-  "nouvelle": {
-   "examples": [
-    {
-     "text": "Toujours aucune nouvelle?",
-     "trans": "Still no news?"
-    },
-    {
-     "text": "J'ai une bonne nouvelle.",
-     "trans": "I have good news."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "la nouvelle",
-       "les nouvelles"
-      ]
-     }
-    ],
-    "title": "Forms"
-   },
-   "gender": "f",
-   "gloss": "piece of news",
-   "lemma": "nouvelle",
-   "meanings": [
-    {
-     "en": "piece of news",
-     "note": "des nouvelles = news"
-    },
-    {
-     "en": "short story",
-     "note": "literature"
-    }
-   ],
-   "moreForms": [],
-   "plural": "nouvelles",
-   "pos": "noun",
-   "related": [
-    {
-     "gloss": "new (adjective)",
-     "word": "nouveau"
-    }
-   ],
-   "stress": "nuvɛl"
-  },
-  "oh": {
-   "examples": [
-    {
-     "text": "Oh non!",
-     "trans": "Oh no!"
-    },
-    {
-     "text": "Oh, merci!",
-     "trans": "Oh, thank you!"
-    }
-   ],
-   "forms": null,
-   "gloss": "oh (surprise, dismay)",
-   "lemma": "oh",
-   "meanings": [
-    {
-     "en": "oh",
-     "note": "surprise or dismay"
-    }
-   ],
-   "moreForms": [],
-   "pos": "interj",
-   "stress": "o"
-  },
-  "oui": {
-   "examples": [
-    {
-     "text": "Oui, oui.",
-     "trans": "Yes, yes."
-    },
-    {
-     "text": "Oui, je sais.",
-     "trans": "Yes, I know."
-    }
-   ],
-   "forms": null,
-   "gloss": "yes",
-   "lemma": "oui",
-   "meanings": [
-    {
-     "en": "yes",
-     "note": ""
-    }
-   ],
-   "moreForms": [],
-   "pos": "adv",
-   "stress": "wi"
-  },
-  "plus": {
-   "examples": [
-    {
-     "text": "À plus!",
-     "trans": "See you!"
-    },
-    {
-     "text": "Je veux plus de café.",
-     "trans": "I want more coffee."
-    }
-   ],
-   "forms": null,
-   "gloss": "more",
-   "lemma": "plus",
-   "meanings": [
-    {
-     "en": "more",
-     "note": "pronounced plys when it means 'more' at the end"
-    },
-    {
-     "en": "à plus = see you later",
-     "note": "informal goodbye"
-    },
-    {
-     "en": "ne... plus = no longer",
-     "note": "pronounced ply"
-    }
-   ],
-   "moreForms": [],
-   "pos": "adv",
-   "register": "à plus: informal",
-   "stress": "ply"
-  },
-  "pour": {
-   "examples": [
-    {
-     "text": "Deux places pour mardi.",
-     "trans": "Two tickets for Tuesday."
-    },
-    {
-     "text": "Je suis là pour voir Mathias.",
-     "trans": "I'm here to see Mathias."
-    }
-   ],
-   "forms": null,
-   "gloss": "for; (in order) to",
-   "lemma": "pour",
-   "meanings": [
-    {
-     "en": "for",
-     "note": ""
-    },
-    {
-     "en": "to, in order to",
-     "note": "+ infinitive: pour voir"
-    }
-   ],
-   "moreForms": [],
-   "pos": "prep",
-   "stress": "puʁ"
-  },
-  "qui": {
-   "examples": [
-    {
-     "text": "C'est moi qui t'ai formée!",
-     "trans": "I'm the one who trained you!"
-    },
-    {
-     "text": "Qui est là?",
-     "trans": "Who's there?"
-    }
-   ],
-   "forms": null,
-   "gloss": "who; which, that",
-   "lemma": "qui",
-   "meanings": [
-    {
-     "en": "who (relative)",
-     "note": "c'est moi qui... = I'm the one who..."
-    },
-    {
-     "en": "who? (question)",
-     "note": "qui parle?"
-    }
-   ],
-   "moreForms": [],
-   "pos": "pron",
-   "stress": "ki"
-  },
-  "réalisateur": {
-   "examples": [
-    {
-     "text": "Gabor est réalisateur.",
-     "trans": "Gabor is a director."
-    },
-    {
-     "text": "La réalisatrice arrive.",
-     "trans": "The director (woman) is arriving."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "un réalisateur / une réalisatrice",
-       "des réalisateurs"
-      ]
-     }
-    ],
-    "title": "Forms"
-   },
-   "gender": "m",
-   "gloss": "film director",
-   "lemma": "réalisateur",
-   "meanings": [
-    {
-     "en": "film director",
-     "note": "feminine: réalisatrice"
-    }
-   ],
-   "moreForms": [],
-   "plural": "réalisateurs",
-   "pos": "noun",
-   "stress": "ʁealizatœʁ"
-  },
-  "rôle": {
-   "examples": [
-    {
-     "text": "Il a un nouveau rôle.",
-     "trans": "He has a new part."
-    },
-    {
-     "text": "C'est quoi le rôle?",
-     "trans": "What's the part?"
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "le rôle",
-       "les rôles"
-      ]
-     }
-    ],
-    "title": "Forms"
-   },
-   "gender": "m",
-   "gloss": "role, part",
-   "lemma": "rôle",
-   "meanings": [
-    {
-     "en": "part, role (in a film or play)",
-     "note": "un rôle dans un film"
-    }
-   ],
-   "moreForms": [],
-   "plural": "rôles",
-   "pos": "noun",
-   "stress": "ʁol"
-  },
-  "super": {
-   "examples": [
-    {
-     "text": "C'est super!",
-     "trans": "It's great!"
-    },
-    {
-     "text": "Ce serait super si vous pouviez venir.",
-     "trans": "It would be great if you could come."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "super",
-       "super"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "super",
-       "super"
-      ]
-     }
-    ],
-    "title": "Forms"
-   },
-   "gloss": "great",
-   "lemma": "super",
-   "meanings": [
-    {
-     "en": "great, super",
-     "note": "informal, does not change"
-    }
-   ],
-   "moreForms": [],
-   "pos": "adj",
-   "register": "informal",
-   "stress": "sypɛʁ"
-  },
-  "texte": {
-   "examples": [
-    {
-     "text": "Ce n'est pas facile d'apprendre un texte.",
-     "trans": "It's not easy to learn lines."
-    },
-    {
-     "text": "Tu connais ton texte?",
-     "trans": "Do you know your lines?"
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "form",
-       "le texte",
-       "les textes"
-      ]
-     }
-    ],
-    "title": "Forms"
-   },
-   "gender": "m",
-   "gloss": "text; lines (of a play or film)",
-   "lemma": "texte",
-   "meanings": [
-    {
-     "en": "text",
-     "note": ""
-    },
-    {
-     "en": "lines, script (for an actor)",
-     "note": "apprendre un texte = to learn lines"
-    }
-   ],
-   "moreForms": [],
-   "plural": "textes",
-   "pos": "noun",
-   "stress": "tɛkst"
-  },
-  "un": {
-   "examples": [
-    {
-     "text": "J'ai un problème.",
-     "trans": "I have a problem."
-    },
-    {
-     "text": "C'est une femme.",
-     "trans": "She's a woman."
-    },
-    {
-     "text": "Un peu, s'il vous plaît.",
-     "trans": "A little, please."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "un",
-       "une"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "des",
-       "des"
-      ]
-     }
-    ],
-    "title": "Forms"
-   },
-   "gloss": "a, an; one",
-   "lemma": "un",
-   "meanings": [
-    {
-     "en": "a, an (indefinite article)",
-     "note": "feminine une"
-    },
-    {
-     "en": "one (number)",
-     "note": "quarante et un = forty-one"
-    },
-    {
-     "en": "un peu = a little",
-     "note": ""
-    }
-   ],
-   "moreForms": [],
-   "pos": "det",
-   "stress": "œ̃"
-  },
-  "vouloir": {
-   "examples": [
-    {
-     "text": "Je veux juste partir.",
-     "trans": "I just want to leave."
-    },
-    {
-     "text": "Ils ne veulent pas Cécile.",
-     "trans": "They don't want Cécile."
-    },
-    {
-     "text": "Tu veux un café?",
-     "trans": "Do you want a coffee?"
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "je veux",
-       "nous voulons"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu veux",
-       "vous voulez"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle veut",
-       "ils/elles veulent"
-      ]
-     }
-    ],
-    "title": "Present"
-   },
-   "gloss": "to want",
-   "lemma": "vouloir",
-   "meanings": [
-    {
-     "en": "to want",
-     "note": "+ noun: je veux un café; + infinitive: je veux partir"
-    },
-    {
-     "en": "would like (polite)",
-     "note": "je voudrais..."
-    }
-   ],
-   "moreForms": [
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'ai voulu",
-        "nous avons voulu"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu as voulu",
-        "vous avez voulu"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle a voulu",
-        "ils/elles ont voulu"
-       ]
-      }
-     ],
-     "title": "Passé composé"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je voulais",
-        "nous voulions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu voulais",
-        "vous vouliez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle voulait",
-        "ils/elles voulaient"
-       ]
-      }
-     ],
-     "title": "Imparfait"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je voudrai",
-        "nous voudrons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu voudras",
-        "vous voudrez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle voudra",
-        "ils/elles voudront"
-       ]
-      }
-     ],
-     "title": "Futur"
-    }
-   ],
-   "pos": "verb",
-   "stress": "vulwaʁ"
-  },
-  "vrai": {
-   "examples": [
-    {
-     "text": "C'est vrai?",
-     "trans": "Is that true?"
-    },
-    {
-     "text": "Une vraie amie.",
-     "trans": "A real friend."
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "m",
-     "f"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "sg",
-       "vrai",
-       "vraie"
-      ]
-     },
-     {
-      "cells": [
-       "pl",
-       "vrais",
-       "vraies"
-      ]
-     }
-    ],
-    "title": "Forms"
-   },
-   "gloss": "true, real",
-   "lemma": "vrai",
-   "meanings": [
-    {
-     "en": "true",
-     "note": ""
-    },
-    {
-     "en": "real, genuine, honest",
-     "note": ""
-    }
-   ],
-   "moreForms": [],
-   "pos": "adj",
-   "stress": "vʁɛ"
-  },
-  "être": {
-   "examples": [
-    {
-     "text": "Je suis à Paris.",
-     "trans": "I'm in Paris."
-    },
-    {
-     "text": "C'est important.",
-     "trans": "It's important."
-    },
-    {
-     "text": "Vous êtes où?",
-     "trans": "Where are you?"
-    }
-   ],
-   "forms": {
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "je suis",
-       "nous sommes"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "tu es",
-       "vous êtes"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "il/elle est",
-       "ils/elles sont"
-      ]
-     }
-    ],
-    "title": "Present"
-   },
-   "gloss": "to be",
-   "lemma": "être",
-   "meanings": [
-    {
-     "en": "to be",
-     "note": "the most common verb"
-    },
-    {
-     "en": "c'est = it is, this is",
-     "note": "ce + est"
-    }
-   ],
-   "moreForms": [
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'ai été",
-        "nous avons été"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu as été",
-        "vous avez été"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle a été",
-        "ils/elles ont été"
-       ]
-      }
-     ],
-     "title": "Passé composé"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "j'étais",
-        "nous étions"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu étais",
-        "vous étiez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle était",
-        "ils/elles étaient"
-       ]
-      }
-     ],
-     "title": "Imparfait"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "je serai",
-        "nous serons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "tu seras",
-        "vous serez"
-       ]
-      },
-      {
-       "cells": [
-        "3rd",
-        "il/elle sera",
-        "ils/elles seront"
-       ]
-      }
-     ],
-     "title": "Futur"
-    },
-    {
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "—",
-        "soyons"
-       ]
-      },
-      {
-       "cells": [
-        "2nd",
-        "sois",
-        "soyez"
-       ]
-      }
-     ],
-     "title": "Imperative"
-    }
-   ],
-   "pos": "verb",
-   "stress": "ɛtʁ"
-  }
- }
 }

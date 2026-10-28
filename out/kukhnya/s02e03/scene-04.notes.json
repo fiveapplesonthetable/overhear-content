@@ -30,7 +30,7 @@
         },
         {
           "t": "связок.",
-          "lemma": "связок",
+          "lemma": "связка",
           "pos": "noun",
           "stress": "свя́зок",
           "gloss": "ligament, vocal cord",
@@ -90,8 +90,8 @@
         },
         {
           "t": "нагружайте",
-          "lemma": "нагружайте",
-          "pos": "noun",
+          "lemma": "нагружать",
+          "pos": "verb",
           "stress": "нагружа́йте",
           "gloss": "load, burden",
           "gram": "UNKNOWN"
@@ -150,7 +150,7 @@
         },
         {
           "t": "травмы?",
-          "lemma": "травмы",
+          "lemma": "травма",
           "pos": "noun",
           "stress": "тра́вмы",
           "gloss": "injury, trauma",
@@ -340,8 +340,8 @@
         },
         {
           "t": "наехала.",
-          "lemma": "наехала",
-          "pos": "noun",
+          "lemma": "наехать",
+          "pos": "verb",
           "stress": "наеха́ла",
           "gloss": "confront, run into",
           "gram": "UNKNOWN"
@@ -422,7 +422,7 @@
         },
         {
           "t": "связок.",
-          "lemma": "связок",
+          "lemma": "связка",
           "pos": "noun",
           "stress": "свя́зок",
           "gloss": "ligament, vocal cord",
@@ -482,8 +482,8 @@
         },
         {
           "t": "нагружайте",
-          "lemma": "нагружайте",
-          "pos": "noun",
+          "lemma": "нагружать",
+          "pos": "verb",
           "stress": "нагружа́йте",
           "gloss": "load, burden",
           "gram": "UNKNOWN"
@@ -542,7 +542,7 @@
         },
         {
           "t": "травмы?",
-          "lemma": "травмы",
+          "lemma": "травма",
           "pos": "noun",
           "stress": "тра́вмы",
           "gloss": "injury, trauma",
@@ -732,8 +732,8 @@
         },
         {
           "t": "наехала.",
-          "lemma": "наехала",
-          "pos": "noun",
+          "lemma": "наехать",
+          "pos": "verb",
           "stress": "наеха́ла",
           "gloss": "confront, run into",
           "gram": "UNKNOWN"
@@ -814,7 +814,7 @@
         },
         {
           "t": "связок.",
-          "lemma": "связок",
+          "lemma": "связка",
           "pos": "noun",
           "stress": "свя́зок",
           "gloss": "ligament, vocal cord",
@@ -874,8 +874,8 @@
         },
         {
           "t": "нагружайте",
-          "lemma": "нагружайте",
-          "pos": "noun",
+          "lemma": "нагружать",
+          "pos": "verb",
           "stress": "нагружа́йте",
           "gloss": "load, burden",
           "gram": "UNKNOWN"
@@ -934,7 +934,7 @@
         },
         {
           "t": "травмы?",
-          "lemma": "травмы",
+          "lemma": "травма",
           "pos": "noun",
           "stress": "тра́вмы",
           "gloss": "injury, trauma",
@@ -1124,8 +1124,8 @@
         },
         {
           "t": "наехала.",
-          "lemma": "наехала",
-          "pos": "noun",
+          "lemma": "наехать",
+          "pos": "verb",
           "stress": "наеха́ла",
           "gloss": "confront, run into",
           "gram": "UNKNOWN"
@@ -1221,9 +1221,14 @@
         {
           "text": "Он у нас.",
           "trans": "He's at our place."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
       ],
-      "governs": "+ genitive"
+      "governs": "+ genitive",
+      "related": []
     },
     "вы": {
       "lemma": "вы",
@@ -1240,7 +1245,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "вы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "вам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "вами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "вас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1250,18 +1299,28 @@
         {
           "text": "Губернатор вас поддерживает?",
           "trans": "Does the governor support you?"
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "вас",
+          "gloss": "you (genitive/accusative)"
         }
       ]
     },
     "надрыв": {
       "lemma": "надрыв",
-      "stress": "на́дрыв",
+      "stress": "надры́в",
       "pos": "noun",
       "gloss": "strain, anguish",
       "meanings": [
         {
           "en": "strain, anguish",
-          "examples": []
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'дрыв'). Common masculine noun meaning 'strain, anguish' in everyday Russian."
         }
       ],
       "forms": {
@@ -1274,58 +1333,76 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
               "надрыв",
               "надрывы"
             ]
           },
           {
             "cells": [
-              "gen",
+              "genitive",
               "надрыва",
               "надрывов"
             ]
           },
           {
             "cells": [
-              "dat",
+              "dative",
               "надрыву",
               "надрывам"
             ]
           },
           {
             "cells": [
-              "acc",
+              "accusative",
               "надрыв",
               "надрывы"
             ]
           },
           {
             "cells": [
-              "inst",
+              "instrumental",
               "надрывом",
               "надрывами"
             ]
           },
           {
             "cells": [
-              "prep",
+              "prepositional",
               "надрыве",
               "надрывах"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "надрывный",
+          "gloss": "related to strain (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "У вас надрыв связок.",
+          "trans": "You have a partial ligament tear."
+        },
+        {
+          "text": "Это слово «надрыв» часто звучит в разговоре.",
+          "trans": "This word 'strain' is often heard in conversation."
+        }
+      ]
     },
-    "связок": {
-      "lemma": "связок",
-      "stress": "свя́зок",
+    "связка": {
+      "lemma": "связка",
+      "stress": "свя́зка",
       "pos": "noun",
       "gloss": "ligament, vocal cord",
       "meanings": [
         {
           "en": "ligament, vocal cord",
-          "examples": []
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'вязка'). Common feminine noun meaning 'ligament, vocal cord' in everyday Russian."
         }
       ],
       "forms": {
@@ -1338,48 +1415,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "связок",
-              "связокы"
+              "nominative",
+              "связка",
+              "связки"
             ]
           },
           {
             "cells": [
-              "gen",
-              "связока",
-              "связоков"
+              "genitive",
+              "связки",
+              "связк"
             ]
           },
           {
             "cells": [
-              "dat",
-              "связоку",
-              "связокам"
+              "dative",
+              "связке",
+              "связкам"
             ]
           },
           {
             "cells": [
-              "acc",
-              "связок",
-              "связокы"
+              "accusative",
+              "связку",
+              "связки"
             ]
           },
           {
             "cells": [
-              "inst",
-              "связоком",
-              "связоками"
+              "instrumental",
+              "связкой",
+              "связками"
             ]
           },
           {
             "cells": [
-              "prep",
-              "связоке",
-              "связоках"
+              "prepositional",
+              "связке",
+              "связках"
             ]
           }
         ]
-      }
+      },
+      "gender": "f",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "завязка",
+          "gloss": "tying"
+        }
+      ],
+      "examples": [
+        {
+          "text": "У вас надрыв связок.",
+          "trans": "You have a partial ligament tear."
+        },
+        {
+          "text": "Конец связи.",
+          "trans": "Over and out."
+        }
+      ]
     },
     "это": {
       "lemma": "это",
@@ -1389,7 +1484,7 @@
       "meanings": [
         {
           "en": "this, that",
-          "note": ""
+          "note": "pointing at a thing or a situation; 'это' + noun = 'this is ...'"
         },
         {
           "en": "this is, that is",
@@ -1404,7 +1499,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "этого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "этому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "этим"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "этом"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1414,6 +1553,16 @@
         {
           "text": "А это тебе.",
           "trans": "And this is for you."
+        },
+        {
+          "text": "А это тебе. Машинка!",
+          "trans": "And this is for you. A toy car!"
+        }
+      ],
+      "related": [
+        {
+          "word": "этот",
+          "gloss": "this (before a noun)"
         }
       ]
     },
@@ -1438,8 +1587,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "очень": {
       "lemma": "очень",
@@ -1449,7 +1603,7 @@
       "meanings": [
         {
           "en": "very",
-          "note": ""
+          "note": "with verbs: очень люблю"
         },
         {
           "en": "very much",
@@ -1466,6 +1620,16 @@
         {
           "text": "Это очень трудно.",
           "trans": "It's very hard."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "совсем",
+          "gloss": "intensified / related adverb (very)"
         }
       ]
     },
@@ -1486,22 +1650,36 @@
         {
           "text": "Мне стало страшно.",
           "trans": "I got scared."
+        },
+        {
+          "text": "Неужели вам вдруг стало страшно?",
+          "trans": "Did you really suddenly get scared?"
+        },
+        {
+          "text": "Он ночью страшно и громко храпит!",
+          "trans": "At night he snores terribly and loudly!"
+        }
+      ],
+      "related": [
+        {
+          "word": "страшный",
+          "gloss": "terrible"
         }
       ]
     },
-    "нагружайте": {
-      "lemma": "нагружайте",
-      "stress": "нагружа́йте",
-      "pos": "noun",
+    "нагружать": {
+      "lemma": "нагружать",
+      "stress": "нагружа́ть",
+      "pos": "verb",
       "gloss": "load, burden",
       "meanings": [
         {
           "en": "load, burden",
-          "examples": []
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'гружать'). Used as an imperfective (ongoing/repeated action) verb meaning 'load, burden'."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -1510,48 +1688,67 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "нагружайте",
-              "нагружайтеы"
+              "1st",
+              "нагружаю",
+              "нагружаем"
             ]
           },
           {
             "cells": [
-              "gen",
-              "нагружайтеа",
-              "нагружайтеов"
+              "2nd",
+              "нагружаешь",
+              "нагружаете"
             ]
           },
           {
             "cells": [
-              "dat",
-              "нагружайтеу",
-              "нагружайтеам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "нагружайте",
-              "нагружайтеы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "нагружайтеом",
-              "нагружайтеами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "нагружайтее",
-              "нагружайтеах"
+              "3rd",
+              "нагружает",
+              "нагружают"
             ]
           }
         ]
-      }
+      },
+      "aspect": "impf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "нагружал",
+                "нагружала",
+                "нагружало",
+                "нагружали"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "разгружать",
+          "gloss": "to unload"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Не нагружайте ногу.",
+          "trans": "Keep your weight off that leg."
+        },
+        {
+          "text": "Это слово «нагружать» часто звучит в разговоре.",
+          "trans": "This word 'load' is often heard in conversation."
+        }
+      ]
     },
     "нога": {
       "lemma": "нога",
@@ -1562,7 +1759,7 @@
       "meanings": [
         {
           "en": "leg",
-          "note": ""
+          "note": "Russian uses one word for both"
         },
         {
           "en": "foot",
@@ -1630,6 +1827,16 @@
         {
           "text": "У меня болит нога.",
           "trans": "My leg hurts."
+        },
+        {
+          "text": "Заходите. Поставьте, пожалуйста, правую ногу на кровать.",
+          "trans": "Come in. Please put your right foot on the bed."
+        }
+      ],
+      "related": [
+        {
+          "word": "ногный",
+          "gloss": "related to leg (adj.)"
         }
       ]
     },
@@ -1654,8 +1861,13 @@
         {
           "text": "Спасибо за доверие!",
           "trans": "Thank you for your trust!"
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
-      ]
+      ],
+      "related": []
     },
     "какой": {
       "lemma": "какой",
@@ -1747,6 +1959,20 @@
         {
           "text": "Какой красивый дом!",
           "trans": "What a beautiful house!"
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "какой-то",
+          "gloss": "some"
+        },
+        {
+          "word": "какой-нибудь",
+          "gloss": "some"
         }
       ]
     },
@@ -1759,7 +1985,7 @@
       "meanings": [
         {
           "en": "reason, cause, grounds",
-          "note": ""
+          "note": "Prefix 'при-' indicates approaching, attachment, or slight degree of action (stem 'чина'). Common feminine noun meaning 'reason, cause' in everyday Russian."
         }
       ],
       "forms": {
@@ -1823,6 +2049,20 @@
         {
           "text": "В чём причина?",
           "trans": "What is the reason?"
+        },
+        {
+          "text": "Нет причин держать вас под арестом. Сегодня вы выйдете отсюда.",
+          "trans": "There is no reason to keep you under arrest. Today you will walk out of here."
+        }
+      ],
+      "related": [
+        {
+          "word": "начинать",
+          "gloss": "to begin"
+        },
+        {
+          "word": "начинаться",
+          "gloss": "to begin"
         }
       ]
     },
@@ -1912,18 +2152,23 @@
         {
           "text": "Это ваша программа?",
           "trans": "Is this your programme?"
+        },
+        {
+          "text": "Аркадий Борисович, кто ваши конкуренты?",
+          "trans": "Arkady Borisovich, who are your rivals?"
         }
-      ]
+      ],
+      "related": []
     },
-    "травмы": {
-      "lemma": "травмы",
-      "stress": "тра́вмы",
+    "травма": {
+      "lemma": "травма",
+      "stress": "тра́вма",
       "pos": "noun",
       "gloss": "injury, trauma",
       "meanings": [
         {
           "en": "injury, trauma",
-          "examples": []
+          "note": "Common feminine noun meaning 'injury, trauma' in everyday Russian."
         }
       ],
       "forms": {
@@ -1936,48 +2181,70 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
+              "травма",
+              "травмы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
               "травмы",
-              "травмыы"
+              "травм"
             ]
           },
           {
             "cells": [
-              "gen",
-              "травмыа",
-              "травмыов"
+              "dative",
+              "травме",
+              "травмам"
             ]
           },
           {
             "cells": [
-              "dat",
-              "травмыу",
-              "травмыам"
+              "accusative",
+              "травму",
+              "травмы"
             ]
           },
           {
             "cells": [
-              "acc",
-              "травмы",
-              "травмыы"
+              "instrumental",
+              "травмой",
+              "травмами"
             ]
           },
           {
             "cells": [
-              "inst",
-              "травмыом",
-              "травмыами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "травмые",
-              "травмыах"
+              "prepositional",
+              "травме",
+              "травмах"
             ]
           }
         ]
-      }
+      },
+      "gender": "f",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "трава",
+          "gloss": "grass"
+        },
+        {
+          "word": "травить",
+          "gloss": "to torment"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Какая причина вашей травмы?",
+          "trans": "What is the cause of your injury?"
+        },
+        {
+          "text": "А трава в мешках сгорела. Из-за вас!",
+          "trans": "And the herbs in the sacks burned. Because of you!"
+        }
+      ]
     },
     "я": {
       "lemma": "я",
@@ -1987,14 +2254,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2004,6 +2315,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -2086,12 +2411,30 @@
         {
           "text": "Как попасть на вокзал?",
           "trans": "How do I get to the station?"
+        },
+        {
+          "text": "Скажи: салют попал в станцию. Три района без света.",
+          "trans": "Say a firework hit the power station. Three districts without electricity."
+        }
+      ],
+      "related": [
+        {
+          "word": "попадать",
+          "gloss": "to hit"
+        },
+        {
+          "word": "попасться",
+          "gloss": "to get caught"
+        },
+        {
+          "word": "спасти",
+          "gloss": "to save"
         }
       ]
     },
     "под": {
       "lemma": "под",
-      "stress": null,
+      "stress": "под",
       "pos": "prep",
       "gloss": "under",
       "meanings": [
@@ -2118,9 +2461,14 @@
         {
           "text": "Под мою ответственность.",
           "trans": "On my responsibility."
+        },
+        {
+          "text": "Хорошо, давайте три. Под мою личную ответственность.",
+          "trans": "All right, let's say three. On my personal responsibility."
         }
       ],
-      "governs": "+ instrumental / + accusative"
+      "governs": "+ instrumental / + accusative",
+      "related": []
     },
     "машина": {
       "lemma": "машина",
@@ -2131,7 +2479,7 @@
       "meanings": [
         {
           "en": "car",
-          "note": ""
+          "note": "Common feminine noun meaning 'car; machine' in everyday Russian."
         },
         {
           "en": "machine",
@@ -2199,6 +2547,16 @@
         {
           "text": "На какой машине ты приехала?",
           "trans": "Which car did you come in?"
+        },
+        {
+          "text": "Машина. Немецкая.",
+          "trans": "A car. A German one."
+        }
+      ],
+      "related": [
+        {
+          "word": "машинка",
+          "gloss": "toy car"
         }
       ]
     },
@@ -2338,6 +2696,20 @@
           "text": "Ты будешь просить прощения.",
           "trans": "You will be asking for forgiveness."
         }
+      ],
+      "related": [
+        {
+          "word": "забыть",
+          "gloss": "to forget"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
+        },
+        {
+          "word": "побыть",
+          "gloss": "to stay for a while"
+        }
       ]
     },
     "заявлять": {
@@ -2348,7 +2720,7 @@
       "meanings": [
         {
           "en": "to declare",
-          "examples": []
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'являть'). Used as an imperfective (ongoing/repeated action) verb meaning 'to declare'."
         }
       ],
       "forms": {
@@ -2365,7 +2737,55 @@
             ]
           }
         ]
-      }
+      },
+      "aspect": "impf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "заявлял",
+                "заявляла",
+                "заявляло",
+                "заявляли"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "появляться",
+          "gloss": "to appear"
+        },
+        {
+          "word": "являться",
+          "gloss": "be"
+        }
+      ],
+      "examples": [
+        {
+          "text": "я заявляю об угоне.",
+          "trans": "I am reporting it stolen."
+        },
+        {
+          "text": "Будете заявлять в полицию?",
+          "trans": "Will you report to the police?"
+        },
+        {
+          "text": "Заявлять не буду.",
+          "trans": "I will not report it."
+        }
+      ]
     },
     "в": {
       "lemma": "в",
@@ -2392,8 +2812,13 @@
         {
           "text": "Я вырос в коммуналке.",
           "trans": "I grew up in a communal flat."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
         }
-      ]
+      ],
+      "related": []
     },
     "полиция": {
       "lemma": "полиция",
@@ -2468,6 +2893,16 @@
         {
           "text": "Полиция здесь.",
           "trans": "The police are here."
+        },
+        {
+          "text": "Тут кнопки вызова: скорая, полиция и мы.",
+          "trans": "Here are the call buttons: ambulance, police, and us."
+        }
+      ],
+      "related": [
+        {
+          "word": "полициный",
+          "gloss": "related to police (adj.)"
         }
       ]
     },
@@ -2479,7 +2914,7 @@
       "meanings": [
         {
           "en": "no",
-          "note": ""
+          "note": "+ genitive: 'у нас нет выбора' = we have no choice"
         },
         {
           "en": "there isn't",
@@ -2496,8 +2931,13 @@
         {
           "text": "Нет? Ладно.",
           "trans": "No? All right."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
-      ]
+      ],
+      "related": []
     },
     "забыть": {
       "lemma": "забыть",
@@ -2509,7 +2949,7 @@
       "meanings": [
         {
           "en": "to forget",
-          "note": ""
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'быть'). Used as an perfective (single completed action) verb meaning 'to forget', paired with 'забывать'."
         }
       ],
       "forms": {
@@ -2591,6 +3031,24 @@
         {
           "text": "Я забыл ключи.",
           "trans": "I forgot the keys."
+        },
+        {
+          "text": "Сейчас будешь чинить трубу. И унитаз не забудь помыть.",
+          "trans": "Now you're going to fix the pipe. And don't forget to wash the toilet."
+        }
+      ],
+      "related": [
+        {
+          "word": "забывать",
+          "gloss": "to forget"
+        },
+        {
+          "word": "быть",
+          "gloss": "to be"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
         }
       ]
     },
@@ -2604,7 +3062,7 @@
       "meanings": [
         {
           "en": "to put, to stand (something upright)",
-          "note": ""
+          "note": "поставить защёлку = fit a latch"
         },
         {
           "en": "to install",
@@ -2690,6 +3148,24 @@
         {
           "text": "Поставь чашку сюда.",
           "trans": "Put the cup here."
+        },
+        {
+          "text": "Заходите. Поставьте, пожалуйста, правую ногу на кровать.",
+          "trans": "Come in. Please put your right foot on the bed."
+        }
+      ],
+      "related": [
+        {
+          "word": "ставить",
+          "gloss": "to put"
+        },
+        {
+          "word": "отставать",
+          "gloss": "to fall behind"
+        },
+        {
+          "word": "приставка",
+          "gloss": "games console"
         }
       ]
     },
@@ -2718,18 +3194,23 @@
         {
           "text": "Он идёт на второй срок.",
           "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
         }
-      ]
+      ],
+      "related": []
     },
     "ручник": {
       "lemma": "ручник",
-      "stress": "ру́чник",
+      "stress": "ручни́к",
       "pos": "noun",
       "gloss": "handbrake",
       "meanings": [
         {
           "en": "handbrake",
-          "examples": []
+          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common masculine noun meaning 'handbrake' in everyday Russian."
         }
       ],
       "forms": {
@@ -2742,48 +3223,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
               "ручник",
-              "ручникы"
+              "ручники"
             ]
           },
           {
             "cells": [
-              "gen",
+              "genitive",
               "ручника",
               "ручников"
             ]
           },
           {
             "cells": [
-              "dat",
+              "dative",
               "ручнику",
               "ручникам"
             ]
           },
           {
             "cells": [
-              "acc",
+              "accusative",
               "ручник",
-              "ручникы"
+              "ручники"
             ]
           },
           {
             "cells": [
-              "inst",
+              "instrumental",
               "ручником",
               "ручниками"
             ]
           },
           {
             "cells": [
-              "prep",
+              "prepositional",
               "ручнике",
               "ручниках"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "ручникный",
+          "gloss": "related to handbrake (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я забыл поставить машину на ручник.",
+          "trans": "I forgot to put the car on handbrake."
+        },
+        {
+          "text": "Это слово «ручник» часто звучит в разговоре.",
+          "trans": "This word 'handbrake' is often heard in conversation."
+        }
+      ]
     },
     "и": {
       "lemma": "и",
@@ -2793,7 +3292,7 @@
       "meanings": [
         {
           "en": "and",
-          "note": ""
+          "note": "emphasis: вот поэтому ты и... = that's exactly why you..."
         }
       ],
       "forms": null,
@@ -2806,8 +3305,13 @@
         {
           "text": "Папа и мама.",
           "trans": "Dad and Mum."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
-      ]
+      ],
+      "related": []
     },
     "она": {
       "lemma": "она",
@@ -2830,22 +3334,27 @@
         {
           "text": "Я о ней не слышал.",
           "trans": "I haven't heard of her."
+        },
+        {
+          "text": "Паша, я больше не хочу о ней слышать. Понял?",
+          "trans": "Pasha, I don't want to hear about her again. Understood?"
         }
-      ]
+      ],
+      "related": []
     },
-    "наехала": {
-      "lemma": "наехала",
-      "stress": "наеха́ла",
-      "pos": "noun",
+    "наехать": {
+      "lemma": "наехать",
+      "stress": "нае́хать",
+      "pos": "verb",
       "gloss": "confront, run into",
       "meanings": [
         {
           "en": "confront, run into",
-          "examples": []
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'ехать'). Used as an perfective (single completed action) verb meaning 'confront, run into'."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2854,48 +3363,75 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "наехала",
-              "наехалаы"
+              "1st",
+              "наехаю",
+              "наехаем"
             ]
           },
           {
             "cells": [
-              "gen",
-              "наехалаа",
-              "наехалаов"
+              "2nd",
+              "наехаешь",
+              "наехаете"
             ]
           },
           {
             "cells": [
-              "dat",
-              "наехалау",
-              "наехалаам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "наехала",
-              "наехалаы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "наехалаом",
-              "наехалаами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "наехалае",
-              "наехалаах"
+              "3rd",
+              "наехает",
+              "наехают"
             ]
           }
         ]
-      }
+      },
+      "aspect": "pf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "наехал",
+                "наехала",
+                "наехало",
+                "наехали"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "ехать",
+          "gloss": "to go"
+        },
+        {
+          "word": "приехать",
+          "gloss": "to arrive"
+        },
+        {
+          "word": "поехать",
+          "gloss": "to go"
+        }
+      ],
+      "examples": [
+        {
+          "text": "И она на меня наехала.",
+          "trans": "And it ran over me."
+        },
+        {
+          "text": "Это слово «наехать» часто звучит в разговоре.",
+          "trans": "This word 'confront' is often heard in conversation."
+        }
+      ]
     },
     "понятно": {
       "lemma": "понятно",
@@ -2922,6 +3458,16 @@
         {
           "text": "Понятно, спасибо.",
           "trans": "I see, thanks."
+        },
+        {
+          "text": "Я стану мэром, понятно?",
+          "trans": "I'm going to be mayor, understood?"
+        }
+      ],
+      "related": [
+        {
+          "word": "понятный",
+          "gloss": "understandable"
         }
       ]
     }

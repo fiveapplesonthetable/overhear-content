@@ -242,7 +242,7 @@
         },
         {
           "t": "пачки",
-          "lemma": "пачки",
+          "lemma": "пачка",
           "pos": "noun",
           "stress": "па́чки",
           "gloss": "pack, packet",
@@ -250,8 +250,8 @@
         },
         {
           "t": "сожрал.",
-          "lemma": "сожрал",
-          "pos": "noun",
+          "lemma": "сожрать",
+          "pos": "verb",
           "stress": "со́жрал",
           "gloss": "devour, gobble up",
           "gram": "UNKNOWN"
@@ -272,7 +272,7 @@
         },
         {
           "t": "хрена",
-          "lemma": "хрена",
+          "lemma": "хрен",
           "pos": "noun",
           "stress": "хре́на",
           "gloss": "horseradish; hell (colloq.)",
@@ -690,7 +690,7 @@
         },
         {
           "t": "пачки",
-          "lemma": "пачки",
+          "lemma": "пачка",
           "pos": "noun",
           "stress": "па́чки",
           "gloss": "pack, packet",
@@ -698,8 +698,8 @@
         },
         {
           "t": "сожрал.",
-          "lemma": "сожрал",
-          "pos": "noun",
+          "lemma": "сожрать",
+          "pos": "verb",
           "stress": "со́жрал",
           "gloss": "devour, gobble up",
           "gram": "UNKNOWN"
@@ -720,7 +720,7 @@
         },
         {
           "t": "хрена",
-          "lemma": "хрена",
+          "lemma": "хрен",
           "pos": "noun",
           "stress": "хре́на",
           "gloss": "horseradish; hell (colloq.)",
@@ -1138,7 +1138,7 @@
         },
         {
           "t": "пачки",
-          "lemma": "пачки",
+          "lemma": "пачка",
           "pos": "noun",
           "stress": "па́чки",
           "gloss": "pack, packet",
@@ -1146,8 +1146,8 @@
         },
         {
           "t": "сожрал.",
-          "lemma": "сожрал",
-          "pos": "noun",
+          "lemma": "сожрать",
+          "pos": "verb",
           "stress": "со́жрал",
           "gloss": "devour, gobble up",
           "gram": "UNKNOWN"
@@ -1168,7 +1168,7 @@
         },
         {
           "t": "хрена",
-          "lemma": "хрена",
+          "lemma": "хрен",
           "pos": "noun",
           "stress": "хре́на",
           "gloss": "horseradish; hell (colloq.)",
@@ -1413,9 +1413,14 @@
         {
           "text": "Он у нас.",
           "trans": "He's at our place."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
       ],
-      "governs": "+ genitive"
+      "governs": "+ genitive",
+      "related": []
     },
     "ты": {
       "lemma": "ты",
@@ -1432,7 +1437,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1442,6 +1491,20 @@
         {
           "text": "У тебя есть ещё?",
           "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
         }
       ]
     },
@@ -1453,7 +1516,7 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": ""
+          "note": "the neuter form 'всё' used alone"
         },
         {
           "en": "everything",
@@ -1544,7 +1607,8 @@
           "text": "Поделись со всеми.",
           "trans": "Share with everyone."
         }
-      ]
+      ],
+      "related": []
     },
     "хорошо": {
       "lemma": "хорошо",
@@ -1554,7 +1618,7 @@
       "meanings": [
         {
           "en": "well",
-          "note": ""
+          "note": "how something is done"
         },
         {
           "en": "good, fine",
@@ -1571,6 +1635,24 @@
         {
           "text": "Всё хорошо.",
           "trans": "Everything's fine."
+        },
+        {
+          "text": "Хорошо! Там всё нормально.",
+          "trans": "Good! Everything's fine over there."
+        }
+      ],
+      "related": [
+        {
+          "word": "хороший",
+          "gloss": "good"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
         }
       ]
     },
@@ -1582,7 +1664,7 @@
       "meanings": [
         {
           "en": "no",
-          "note": ""
+          "note": "+ genitive: 'у нас нет выбора' = we have no choice"
         },
         {
           "en": "there isn't",
@@ -1599,8 +1681,13 @@
         {
           "text": "Нет? Ладно.",
           "trans": "No? All right."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
-      ]
+      ],
+      "related": []
     },
     "я": {
       "lemma": "я",
@@ -1610,14 +1697,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1627,6 +1758,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -1638,7 +1783,7 @@
       "meanings": [
         {
           "en": "very",
-          "note": ""
+          "note": "with verbs: очень люблю"
         },
         {
           "en": "very much",
@@ -1655,6 +1800,16 @@
         {
           "text": "Это очень трудно.",
           "trans": "It's very hard."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "совсем",
+          "gloss": "intensified / related adverb (very)"
         }
       ]
     },
@@ -1666,7 +1821,7 @@
       "meanings": [
         {
           "en": "badly",
-          "note": ""
+          "note": "predicative"
         },
         {
           "en": "it's bad",
@@ -1683,6 +1838,24 @@
         {
           "text": "Мне плохо.",
           "trans": "I feel bad."
+        },
+        {
+          "text": "Послушайте, а можно в другое место? Здесь плохо пахнет.",
+          "trans": "Listen, could we go somewhere else? It smells bad in here."
+        }
+      ],
+      "related": [
+        {
+          "word": "плохой",
+          "gloss": "bad"
+        },
+        {
+          "word": "неплохо",
+          "gloss": "not bad"
+        },
+        {
+          "word": "неплохой",
+          "gloss": "not bad"
         }
       ]
     },
@@ -1707,8 +1880,13 @@
         {
           "text": "Я же знаю.",
           "trans": "But I know."
+        },
+        {
+          "text": "У тебя же есть ещё. Дай хоть одну.",
+          "trans": "But you've still got some. Give me just one."
         }
-      ]
+      ],
+      "related": []
     },
     "говорить": {
       "lemma": "говорить",
@@ -1720,7 +1898,7 @@
       "meanings": [
         {
           "en": "to say, to tell",
-          "note": ""
+          "note": "Я тебе говорю = I'm telling you"
         },
         {
           "en": "to speak, to talk",
@@ -1806,6 +1984,24 @@
         {
           "text": "Я говорю по-русски.",
           "trans": "I speak Russian."
+        },
+        {
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, the thing you said."
+        }
+      ],
+      "related": [
+        {
+          "word": "сказать",
+          "gloss": "to say"
+        },
+        {
+          "word": "договориться",
+          "gloss": "to agree"
+        },
+        {
+          "word": "поговорить",
+          "gloss": "to have a talk"
         }
       ]
     },
@@ -1830,12 +2026,17 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "есть": {
       "lemma": "есть",
-      "stress": null,
+      "stress": "есть",
       "pos": "verb",
       "aspect": "impf",
       "pair": "съесть",
@@ -1925,6 +2126,24 @@
         {
           "text": "Что ты ешь?",
           "trans": "What are you eating?"
+        },
+        {
+          "text": "Я вчера ел маринованные грибы. Может, один гриб был плохой.",
+          "trans": "Yesterday I ate pickled mushrooms. Maybe one mushroom was bad."
+        }
+      ],
+      "related": [
+        {
+          "word": "съесть",
+          "gloss": "to eat"
+        },
+        {
+          "word": "сесть",
+          "gloss": "to sit down"
+        },
+        {
+          "word": "поесть",
+          "gloss": "to eat"
         }
       ]
     },
@@ -1936,7 +2155,7 @@
       "meanings": [
         {
           "en": "this",
-          "note": ""
+          "note": "alone: 'я этого не хочу' = I don't want that"
         }
       ],
       "forms": {
@@ -2014,6 +2233,16 @@
         {
           "text": "Меня тошнит от этой коммуналки.",
           "trans": "I'm sick of this communal flat."
+        },
+        {
+          "text": "Меня уже тошнит от этой коммуналки! У нас труба уже неделю течёт.",
+          "trans": "I'm sick of this communal flat! Our pipe has been leaking for a week now."
+        }
+      ],
+      "related": [
+        {
+          "word": "это",
+          "gloss": "this is, it"
         }
       ]
     },
@@ -2090,6 +2319,20 @@
         {
           "text": "На ужин мы приготовили свежую рыбу.",
           "trans": "For dinner we cooked fresh fish."
+        },
+        {
+          "text": "У нас есть большая тарелка рыбы и крабов.",
+          "trans": "We have a big platter of fish and crabs."
+        }
+      ],
+      "related": [
+        {
+          "word": "рыбалка",
+          "gloss": "fishing"
+        },
+        {
+          "word": "рыбак",
+          "gloss": "fisherman"
         }
       ]
     },
@@ -2185,6 +2428,24 @@
         {
           "text": "Мне некогда об этом думать.",
           "trans": "I have no time to think about that."
+        },
+        {
+          "text": "Мне некогда об этом думать. Слишком много дел.",
+          "trans": "I have no time to think about that. There's too much to do."
+        }
+      ],
+      "related": [
+        {
+          "word": "подумать",
+          "gloss": "to think"
+        },
+        {
+          "word": "передумать",
+          "gloss": "to change one's mind"
+        },
+        {
+          "word": "придумать",
+          "gloss": "to think up"
         }
       ]
     },
@@ -2209,8 +2470,13 @@
         {
           "text": "Я о ней не слышал.",
           "trans": "I haven't heard of her."
+        },
+        {
+          "text": "Паша, я больше не хочу о ней слышать. Понял?",
+          "trans": "Pasha, I don't want to hear about her again. Understood?"
         }
-      ]
+      ],
+      "related": []
     },
     "нормальный": {
       "lemma": "нормальный",
@@ -2220,7 +2486,7 @@
       "meanings": [
         {
           "en": "normal, ordinary",
-          "note": ""
+          "note": "colloquial"
         },
         {
           "en": "decent, OK",
@@ -2302,6 +2568,10 @@
         {
           "text": "Нормальные шутки.",
           "trans": "Normal jokes."
+        },
+        {
+          "text": "Нормальные шутки. Где деньги?",
+          "trans": "Normal jokes. Where's the money?"
         }
       ],
       "related": [
@@ -2384,6 +2654,16 @@
         {
           "text": "Мы пожарили мясо на углях.",
           "trans": "We grilled the meat over charcoal."
+        },
+        {
+          "text": "А зачем идти за дровами? Я вот уголь взял.",
+          "trans": "And why go for firewood? I brought charcoal right here."
+        }
+      ],
+      "related": [
+        {
+          "word": "уголный",
+          "gloss": "related to coal (adj.)"
         }
       ]
     },
@@ -2483,6 +2763,24 @@
         {
           "text": "Он не пьёт.",
           "trans": "He doesn't drink."
+        },
+        {
+          "text": "Всё, теперь ты герой? И можно только пить?",
+          "trans": "So now you're a hero? And all you have to do is drink?"
+        }
+      ],
+      "related": [
+        {
+          "word": "выпить",
+          "gloss": "to drink"
+        },
+        {
+          "word": "попить",
+          "gloss": "to have a drink"
+        },
+        {
+          "word": "запить",
+          "gloss": "to go on a drinking binge"
         }
       ]
     },
@@ -2511,13 +2809,18 @@
         {
           "text": "Ага, как же!",
           "trans": "Yeah, right!"
+        },
+        {
+          "text": "Ага, как с Кайеном, да?",
+          "trans": "Yeah, right, like with the Cayenne?"
         }
       ],
-      "register": "informal"
+      "register": "informal",
+      "related": []
     },
     "два": {
       "lemma": "два",
-      "stress": null,
+      "stress": "два",
       "pos": "num",
       "gloss": "two",
       "meanings": [
@@ -2526,58 +2829,7 @@
           "note": "'два' with masculine/neuter nouns, 'две' with feminine; the noun goes into the genitive singular"
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m/n",
-          "f"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "два",
-              "две"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "двух",
-              "двух"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "двум",
-              "двум"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "два / двух",
-              "две / двух"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "двумя",
-              "двумя"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "двух",
-              "двух"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -2587,18 +2839,23 @@
         {
           "text": "Два дома.",
           "trans": "Two houses."
+        },
+        {
+          "text": "Я выйду отсюда через две недели. Я решу все ваши проблемы.",
+          "trans": "I'll be out of here in two weeks. I'll solve all your problems."
         }
-      ]
+      ],
+      "related": []
     },
-    "пачки": {
-      "lemma": "пачки",
-      "stress": "па́чки",
+    "пачка": {
+      "lemma": "пачка",
+      "stress": "па́чка",
       "pos": "noun",
       "gloss": "pack, packet",
       "meanings": [
         {
           "en": "pack, packet",
-          "examples": []
+          "note": "Common feminine noun meaning 'pack, packet' in everyday Russian."
         }
       ],
       "forms": {
@@ -2611,62 +2868,80 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
+              "пачка",
+              "пачки"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
               "пачки",
-              "пачкиы"
+              "пачк"
             ]
           },
           {
             "cells": [
-              "gen",
-              "пачкиа",
-              "пачкиов"
+              "dative",
+              "пачке",
+              "пачкам"
             ]
           },
           {
             "cells": [
-              "dat",
-              "пачкиу",
-              "пачкиам"
+              "accusative",
+              "пачку",
+              "пачки"
             ]
           },
           {
             "cells": [
-              "acc",
-              "пачки",
-              "пачкиы"
+              "instrumental",
+              "пачкой",
+              "пачками"
             ]
           },
           {
             "cells": [
-              "inst",
-              "пачкиом",
-              "пачкиами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "пачкие",
-              "пачкиах"
+              "prepositional",
+              "пачке",
+              "пачках"
             ]
           }
         ]
-      }
+      },
+      "gender": "f",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "пачкный",
+          "gloss": "related to pack (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ага, две пачки сожрал.",
+          "trans": "Yeah, I ate two packs."
+        },
+        {
+          "text": "Это слово «пачка» часто звучит в разговоре.",
+          "trans": "This word 'pack' is often heard in conversation."
+        }
+      ]
     },
-    "сожрал": {
-      "lemma": "сожрал",
-      "stress": "со́жрал",
-      "pos": "noun",
+    "сожрать": {
+      "lemma": "сожрать",
+      "stress": "сожра́ть",
+      "pos": "verb",
       "gloss": "devour, gobble up",
       "meanings": [
         {
           "en": "devour, gobble up",
-          "examples": []
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ожрать'). Used as an perfective (single completed action) verb meaning 'devour, gobble up'."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2675,48 +2950,67 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "сожрал",
-              "сожралы"
+              "1st",
+              "сожраю",
+              "сожраем"
             ]
           },
           {
             "cells": [
-              "gen",
-              "сожрала",
-              "сожралов"
+              "2nd",
+              "сожраешь",
+              "сожраете"
             ]
           },
           {
             "cells": [
-              "dat",
-              "сожралу",
-              "сожралам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "сожрал",
-              "сожралы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "сожралом",
-              "сожралами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "сожрале",
-              "сожралах"
+              "3rd",
+              "сожрает",
+              "сожрают"
             ]
           }
         ]
-      }
+      },
+      "aspect": "pf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "сожрал",
+                "сожрала",
+                "сожрало",
+                "сожрали"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "ожрать",
+          "gloss": "aspect/prefix relative (devour)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ага, две пачки сожрал.",
+          "trans": "Yeah, I ate two packs."
+        },
+        {
+          "text": "Это слово «сожрать» часто звучит в разговоре.",
+          "trans": "This word 'devour' is often heard in conversation."
+        }
+      ]
     },
     "ни": {
       "lemma": "ни",
@@ -2743,18 +3037,23 @@
         {
           "text": "Ни слова!",
           "trans": "Not a word!"
+        },
+        {
+          "text": "Пятьсот. А у меня ни копейки.",
+          "trans": "Five hundred. And I haven't got a penny."
         }
-      ]
+      ],
+      "related": []
     },
-    "хрена": {
-      "lemma": "хрена",
-      "stress": "хре́на",
+    "хрен": {
+      "lemma": "хрен",
+      "stress": "хрен",
       "pos": "noun",
       "gloss": "horseradish; hell (colloq.)",
       "meanings": [
         {
           "en": "horseradish; hell (colloq.)",
-          "examples": []
+          "note": "Common masculine noun meaning 'horseradish; hell (colloq.)' in everyday Russian."
         }
       ],
       "forms": {
@@ -2767,48 +3066,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
+              "хрен",
+              "хрены"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
               "хрена",
-              "хренаы"
+              "хренов"
             ]
           },
           {
             "cells": [
-              "gen",
-              "хренаа",
-              "хренаов"
+              "dative",
+              "хрену",
+              "хренам"
             ]
           },
           {
             "cells": [
-              "dat",
-              "хренау",
-              "хренаам"
+              "accusative",
+              "хрен",
+              "хрены"
             ]
           },
           {
             "cells": [
-              "acc",
-              "хрена",
-              "хренаы"
+              "instrumental",
+              "хреном",
+              "хренами"
             ]
           },
           {
             "cells": [
-              "inst",
-              "хренаом",
-              "хренаами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "хренае",
-              "хренаах"
+              "prepositional",
+              "хрене",
+              "хренах"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "хреново",
+          "gloss": "badly"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ни хрена себе.",
+          "trans": "No shit."
+        },
+        {
+          "text": "Это слово «хрен» часто звучит в разговоре.",
+          "trans": "This word 'horseradish' is often heard in conversation."
+        }
+      ]
     },
     "себя": {
       "lemma": "себя",
@@ -2875,18 +3192,23 @@
         {
           "text": "Он думает только о себе.",
           "trans": "He only thinks about himself."
+        },
+        {
+          "text": "А с Пашей я снова чувствую себя женщиной.",
+          "trans": "And with Pasha I feel like a woman again."
         }
-      ]
+      ],
+      "related": []
     },
     "болеть": {
       "lemma": "болеть",
       "pos": "verb",
-      "stress": "болеть",
+      "stress": "бо́леть",
       "gloss": "be sick, ache",
       "meanings": [
         {
           "en": "be sick, ache",
-          "examples": []
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'be sick, ache'."
         }
       ],
       "forms": {
@@ -2903,7 +3225,59 @@
             ]
           }
         ]
-      }
+      },
+      "aspect": "impf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "болел",
+                "болела",
+                "болело",
+                "болели"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "заболеть",
+          "gloss": "to fall ill"
+        },
+        {
+          "word": "болезнь",
+          "gloss": "illness"
+        },
+        {
+          "word": "заболевание",
+          "gloss": "disease"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Мама болеет.",
+          "trans": "My mother is ill."
+        },
+        {
+          "text": "У тебя сын болеет.",
+          "trans": "Your son is ill."
+        },
+        {
+          "text": "Я этого не хочу. Но вспомни, у тебя сын болеет.",
+          "trans": "I don't want that. But remember, your son is ill."
+        }
+      ]
     },
     "живот": {
       "lemma": "живот",
@@ -2914,7 +3288,7 @@
       "meanings": [
         {
           "en": "belly, tummy",
-          "note": ""
+          "note": "у меня болит живот = I have a stomach ache"
         },
         {
           "en": "stomach",
@@ -2982,6 +3356,24 @@
         {
           "text": "У меня болит живот.",
           "trans": "My stomach hurts."
+        },
+        {
+          "text": "Живот у тебя, как у депутата.",
+          "trans": "You've got a belly like a member of parliament."
+        }
+      ],
+      "related": [
+        {
+          "word": "живо",
+          "gloss": "quickly"
+        },
+        {
+          "word": "живой",
+          "gloss": "living"
+        },
+        {
+          "word": "животное",
+          "gloss": "animal"
         }
       ]
     },
@@ -3006,6 +3398,20 @@
         {
           "text": "Надо сделать ещё больше.",
           "trans": "We need to do even more."
+        },
+        {
+          "text": "Надо его помыть!",
+          "trans": "It needs a wash!"
+        }
+      ],
+      "related": [
+        {
+          "word": "понадобиться",
+          "gloss": "to be needed"
+        },
+        {
+          "word": "ненадолго",
+          "gloss": "for a short time"
         }
       ]
     },
@@ -3017,7 +3423,7 @@
       "meanings": [
         {
           "en": "go",
-          "examples": []
+          "note": "'пойдём' / 'пойдёмте'; colloquially also 'пошли'"
         }
       ],
       "forms": {
@@ -3034,7 +3440,51 @@
             ]
           }
         ]
-      }
+      },
+      "aspect": "impf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "пойл",
+                "пойла",
+                "пойло",
+                "пойли"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "идти",
+          "gloss": "to go"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Можно я пойду?",
+          "trans": "May I go?"
+        },
+        {
+          "text": "Пойдём домой.",
+          "trans": "Let's go home."
+        },
+        {
+          "text": "А можно я пойду посмотрю?",
+          "trans": "Can I go and have a look?"
+        }
+      ]
     },
     "домой": {
       "lemma": "домой",
@@ -3057,6 +3507,16 @@
         {
           "text": "Пора идти домой.",
           "trans": "It's time to go home."
+        },
+        {
+          "text": "Так, мы идём к слепым. А ты иди домой и делай уроки.",
+          "trans": "Right, we're going to the blind people. And you go home and do your homework."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень домой",
+          "gloss": "intensified / related adverb (home)"
         }
       ]
     },
@@ -3135,6 +3595,16 @@
         {
           "text": "Этого не может быть.",
           "trans": "That can't be."
+        },
+        {
+          "text": "Этого не может быть. Это наша история.",
+          "trans": "That can't be. It's our history."
+        }
+      ],
+      "related": [
+        {
+          "word": "может",
+          "gloss": "maybe"
         }
       ]
     },
@@ -3230,9 +3700,27 @@
         {
           "text": "Где вы работаете?",
           "trans": "Where do you work?"
+        },
+        {
+          "text": "Я уже четыре года работаю мэром.",
+          "trans": "I've been working as mayor for four years now."
         }
       ],
-      "governs": "+ instrumental (as)"
+      "governs": "+ instrumental (as)",
+      "related": [
+        {
+          "word": "поработать",
+          "gloss": "to work for a while"
+        },
+        {
+          "word": "работа",
+          "gloss": "work"
+        },
+        {
+          "word": "рабочий",
+          "gloss": "working"
+        }
+      ]
     },
     "сегодня": {
       "lemma": "сегодня",
@@ -3255,6 +3743,16 @@
         {
           "text": "Я буду сегодня.",
           "trans": "I'll be there tonight."
+        },
+        {
+          "text": "Виктор Степанович, сегодня никак не могу.",
+          "trans": "Viktor Stepanovich, I really can't today."
+        }
+      ],
+      "related": [
+        {
+          "word": "сегодняшний",
+          "gloss": "today's"
         }
       ]
     },
@@ -3354,6 +3852,16 @@
         {
           "text": "Он идёт на второй срок.",
           "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "ехать",
+          "gloss": "to go (by vehicle)"
         }
       ]
     },
@@ -3365,7 +3873,7 @@
       "meanings": [
         {
           "en": "and",
-          "note": ""
+          "note": "emphasis: вот поэтому ты и... = that's exactly why you..."
         }
       ],
       "forms": null,
@@ -3378,8 +3886,13 @@
         {
           "text": "Папа и мама.",
           "trans": "Dad and Mum."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
-      ]
+      ],
+      "related": []
     },
     "отдыхать": {
       "lemma": "отдыхать",
@@ -3469,6 +3982,20 @@
         {
           "text": "Вы отдыхайте, а мы сами поедем.",
           "trans": "You rest, and we'll go ourselves."
+        },
+        {
+          "text": "Всё отлично, отдыхай!",
+          "trans": "Everything is great, get some rest!"
+        },
+        {
+          "text": "Летом мы отдыхаем на море.",
+          "trans": "In the summer we vacation by the sea."
+        }
+      ],
+      "related": [
+        {
+          "word": "отдохнуть",
+          "gloss": "to have a rest"
         }
       ]
     }

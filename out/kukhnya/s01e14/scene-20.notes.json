@@ -45,10 +45,10 @@
         {
           "t": "Жак,",
           "lemma": "жак",
-          "pos": "noun",
+          "pos": "name",
           "stress": null,
           "gloss": "Jacques",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "ты",
@@ -200,7 +200,7 @@
           "pos": "verb",
           "stress": "жи́ли",
           "gloss": "to live",
-          "gram": "verb"
+          "gram": "past tense, plural"
         },
         {
           "t": "в",
@@ -212,11 +212,11 @@
         },
         {
           "t": "Париже.",
-          "lemma": "париже",
-          "pos": "noun",
+          "lemma": "париж",
+          "pos": "name",
           "stress": "пари́же",
           "gloss": "Paris",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         }
       ]
     },
@@ -262,7 +262,7 @@
           "pos": "verb",
           "stress": "целова́ться",
           "gloss": "to kiss",
-          "gram": "verb"
+          "gram": "infinitive"
         }
       ]
     },
@@ -289,10 +289,10 @@
         {
           "t": "закусить.",
           "lemma": "закусить",
-          "pos": "noun",
+          "pos": "verb",
           "stress": "заку́сить",
           "gloss": "have a bite, snack",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -561,10 +561,10 @@
         {
           "t": "Жак,",
           "lemma": "жак",
-          "pos": "noun",
+          "pos": "name",
           "stress": null,
           "gloss": "Jacques",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "ты",
@@ -716,7 +716,7 @@
           "pos": "verb",
           "stress": "жи́ли",
           "gloss": "to live",
-          "gram": "verb"
+          "gram": "past tense, plural"
         },
         {
           "t": "в",
@@ -728,11 +728,11 @@
         },
         {
           "t": "Париже.",
-          "lemma": "париже",
-          "pos": "noun",
+          "lemma": "париж",
+          "pos": "name",
           "stress": "пари́же",
           "gloss": "Paris",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         }
       ]
     },
@@ -778,7 +778,7 @@
           "pos": "verb",
           "stress": "целова́ться",
           "gloss": "to kiss",
-          "gram": "verb"
+          "gram": "infinitive"
         }
       ]
     },
@@ -805,10 +805,10 @@
         {
           "t": "закусить.",
           "lemma": "закусить",
-          "pos": "noun",
+          "pos": "verb",
           "stress": "заку́сить",
           "gloss": "have a bite, snack",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1077,10 +1077,10 @@
         {
           "t": "Жак,",
           "lemma": "жак",
-          "pos": "noun",
+          "pos": "name",
           "stress": null,
           "gloss": "Jacques",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "ты",
@@ -1232,7 +1232,7 @@
           "pos": "verb",
           "stress": "жи́ли",
           "gloss": "to live",
-          "gram": "verb"
+          "gram": "past tense, plural"
         },
         {
           "t": "в",
@@ -1244,11 +1244,11 @@
         },
         {
           "t": "Париже.",
-          "lemma": "париже",
-          "pos": "noun",
+          "lemma": "париж",
+          "pos": "name",
           "stress": "пари́же",
           "gloss": "Paris",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         }
       ]
     },
@@ -1294,7 +1294,7 @@
           "pos": "verb",
           "stress": "целова́ться",
           "gloss": "to kiss",
-          "gram": "verb"
+          "gram": "infinitive"
         }
       ]
     },
@@ -1321,10 +1321,10 @@
         {
           "t": "закусить.",
           "lemma": "закусить",
-          "pos": "noun",
+          "pos": "verb",
           "stress": "заку́сить",
           "gloss": "have a bite, snack",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1598,7 +1598,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": ""
+          "note": "давай + 1st person plural or infinitive"
         },
         {
           "en": "let's",
@@ -1684,6 +1684,24 @@
         {
           "text": "Он мне даёт книгу.",
           "trans": "He gives me a book."
+        },
+        {
+          "text": "Давай мы его уволим, а тебя на его место назначим.",
+          "trans": "Let's fire him and put you in his place."
+        }
+      ],
+      "related": [
+        {
+          "word": "дать",
+          "gloss": "to give"
+        },
+        {
+          "word": "давай",
+          "gloss": "let's"
+        },
+        {
+          "word": "сдавать",
+          "gloss": "to take"
         }
       ]
     },
@@ -1695,14 +1713,58 @@
       "meanings": [
         {
           "en": "we",
-          "note": ""
+          "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
           "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1712,6 +1774,16 @@
         {
           "text": "У нас грязный унитаз.",
           "trans": "Our toilet is dirty."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
         }
       ]
     },
@@ -1811,6 +1883,24 @@
         {
           "text": "Я попробую ещё раз.",
           "trans": "I'll try one more time."
+        },
+        {
+          "text": "Давай попробуем.",
+          "trans": "Let's try."
+        }
+      ],
+      "related": [
+        {
+          "word": "пробовать",
+          "gloss": "to try"
+        },
+        {
+          "word": "пробка",
+          "gloss": "traffic jam"
+        },
+        {
+          "word": "распробовать",
+          "gloss": "to taste properly"
         }
       ]
     },
@@ -1822,7 +1912,7 @@
       "meanings": [
         {
           "en": "this, that",
-          "note": ""
+          "note": "pointing at a thing or a situation; 'это' + noun = 'this is ...'"
         },
         {
           "en": "this is, that is",
@@ -1837,7 +1927,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "этого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "этому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "этим"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "этом"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1847,72 +1981,43 @@
         {
           "text": "А это тебе.",
           "trans": "And this is for you."
+        },
+        {
+          "text": "А это тебе. Машинка!",
+          "trans": "And this is for you. A toy car!"
+        }
+      ],
+      "related": [
+        {
+          "word": "этот",
+          "gloss": "this (before a noun)"
         }
       ]
     },
     "жак": {
       "lemma": "жак",
       "stress": "жак",
-      "pos": "noun",
+      "pos": "name",
       "gloss": "Jacques",
       "meanings": [
         {
           "en": "Jacques",
-          "examples": []
+          "note": "Core Russian name meaning 'Jacques' in everyday speech."
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nom",
-              "жак",
-              "жакы"
-            ]
-          },
-          {
-            "cells": [
-              "gen",
-              "жака",
-              "жаков"
-            ]
-          },
-          {
-            "cells": [
-              "dat",
-              "жаку",
-              "жакам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "жак",
-              "жакы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "жаком",
-              "жаками"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "жаке",
-              "жаках"
-            ]
-          }
-        ]
-      }
+      "forms": null,
+      "moreForms": [],
+      "related": [],
+      "examples": [
+        {
+          "text": "Жак, ты где?",
+          "trans": "Jacques, where are you?"
+        },
+        {
+          "text": "Давайте извиним Жак.",
+          "trans": "Let's forgive Jacques."
+        }
+      ]
     },
     "ты": {
       "lemma": "ты",
@@ -1929,7 +2034,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1939,6 +2088,20 @@
         {
           "text": "У тебя есть ещё?",
           "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
         }
       ]
     },
@@ -1950,7 +2113,7 @@
       "meanings": [
         {
           "en": "where",
-          "note": ""
+          "note": "location; for direction use 'куда'"
         }
       ],
       "forms": null,
@@ -1963,6 +2126,16 @@
         {
           "text": "Где папа?",
           "trans": "Where's Dad?"
+        },
+        {
+          "text": "А где машинка? Где моя машинка?",
+          "trans": "Hey, where's the toy car? Where's my toy car?"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень где",
+          "gloss": "intensified / related adverb (where)"
         }
       ]
     },
@@ -1974,14 +2147,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1991,18 +2208,32 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
     "здесь": {
       "lemma": "здесь",
-      "stress": null,
+      "stress": "здесь",
       "pos": "adv",
       "gloss": "here",
       "meanings": [
         {
           "en": "here",
-          "note": ""
+          "note": "location"
         }
       ],
       "forms": null,
@@ -2015,6 +2246,16 @@
         {
           "text": "Мы здесь живём.",
           "trans": "We live here."
+        },
+        {
+          "text": "Мы же бизнесом здесь занимаемся.",
+          "trans": "But we're in business here."
+        }
+      ],
+      "related": [
+        {
+          "word": "тут",
+          "gloss": "here (colloquial)"
         }
       ]
     },
@@ -2114,6 +2355,16 @@
         {
           "text": "Он идёт на второй срок.",
           "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "ехать",
+          "gloss": "to go (by vehicle)"
         }
       ]
     },
@@ -2142,8 +2393,13 @@
         {
           "text": "А где машинка?",
           "trans": "And where's the toy car?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
         }
-      ]
+      ],
+      "related": []
     },
     "вы": {
       "lemma": "вы",
@@ -2160,7 +2416,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "вы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "вам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "вами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "вас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2170,6 +2470,16 @@
         {
           "text": "Губернатор вас поддерживает?",
           "trans": "Does the governor support you?"
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "вас",
+          "gloss": "you (genitive/accusative)"
         }
       ]
     },
@@ -2181,10 +2491,54 @@
       "meanings": [
         {
           "en": "who",
-          "note": ""
+          "note": "in the instrumental: 'кем ты работаешь?'"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "кто"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "кого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "кому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "кого"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "кем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ком"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2194,8 +2548,13 @@
         {
           "text": "Кто там?",
           "trans": "Who's there?"
+        },
+        {
+          "text": "Аркадий Борисович, кто ваши конкуренты?",
+          "trans": "Arkady Borisovich, who are your rivals?"
         }
-      ]
+      ],
+      "related": []
     },
     "такой": {
       "lemma": "такой",
@@ -2205,14 +2564,79 @@
       "meanings": [
         {
           "en": "such, so",
-          "note": ""
+          "note": "'что я за мэр такой' = what kind of mayor am I"
         },
         {
           "en": "что такое? = what's this?",
           "note": ""
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "такой",
+              "такая",
+              "такое",
+              "такие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "такого",
+              "такой",
+              "такого",
+              "таких"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "такому",
+              "такой",
+              "такому",
+              "таким"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "такой / такого",
+              "такую",
+              "такое",
+              "такие / таких"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "таким",
+              "такой",
+              "таким",
+              "такими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "таком",
+              "такой",
+              "таком",
+              "таких"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2222,6 +2646,20 @@
         {
           "text": "Он такой добрый.",
           "trans": "He's so kind."
+        },
+        {
+          "text": "Павел Юрьевич, это что такое?",
+          "trans": "Pavel Yuryevich, what is this?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тако",
+          "gloss": "in a such way (adv.)"
+        },
+        {
+          "word": "такость",
+          "gloss": "quality of being such"
         }
       ]
     },
@@ -2233,7 +2671,7 @@
       "meanings": [
         {
           "en": "he",
-          "note": ""
+          "note": "accusative/genitive его (него after prepositions), dative ему (нему)"
         },
         {
           "en": "it",
@@ -2244,7 +2682,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "он"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "его"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "его"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "им"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нём"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2254,8 +2736,13 @@
         {
           "text": "Надо его помыть.",
           "trans": "It needs a wash."
+        },
+        {
+          "text": "Очкарик! Держи его!",
+          "trans": "Four-eyes! Grab him!"
         }
-      ]
+      ],
+      "related": []
     },
     "мой": {
       "lemma": "мой",
@@ -2343,8 +2830,13 @@
         {
           "text": "Это моё.",
           "trans": "That's mine."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
-      ]
+      ],
+      "related": []
     },
     "сосед": {
       "lemma": "сосед",
@@ -2419,6 +2911,10 @@
         {
           "text": "Это наш сосед.",
           "trans": "This is our neighbour."
+        },
+        {
+          "text": "Соседи, привет! Слушай, дружок, дай свой телефон на минутку.",
+          "trans": "Hi, neighbours! Listen, buddy, lend me your phone for a minute."
         }
       ],
       "related": [
@@ -2524,12 +3020,30 @@
         {
           "text": "Ты даже не представляешь, как я устал.",
           "trans": "You can't even imagine how tired I am."
+        },
+        {
+          "text": "Представляешь, в духовке забыли! Юль, выйди.",
+          "trans": "Can you believe it, they forgot it in the oven! Yul, step out."
+        }
+      ],
+      "related": [
+        {
+          "word": "представить",
+          "gloss": "to imagine"
+        },
+        {
+          "word": "поставить",
+          "gloss": "to put"
+        },
+        {
+          "word": "отставать",
+          "gloss": "to fall behind"
         }
       ]
     },
     "жить": {
       "lemma": "жить",
-      "stress": null,
+      "stress": "жить",
       "pos": "verb",
       "aspect": "impf",
       "pair": null,
@@ -2537,7 +3051,7 @@
       "meanings": [
         {
           "en": "to live",
-          "note": ""
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to live'."
         }
       ],
       "forms": {
@@ -2602,6 +3116,24 @@
         {
           "text": "Я хочу нормально жить.",
           "trans": "I want to live normally."
+        },
+        {
+          "text": "Я хочу нормально жить! Я хочу биде, понимаешь?",
+          "trans": "I want to live like a normal person! I want a bidet, do you understand?"
+        }
+      ],
+      "related": [
+        {
+          "word": "житься",
+          "gloss": "to live"
+        },
+        {
+          "word": "дожить",
+          "gloss": "to live until"
+        },
+        {
+          "word": "пережить",
+          "gloss": "to survive"
         }
       ]
     },
@@ -2630,72 +3162,42 @@
         {
           "text": "Я вырос в коммуналке.",
           "trans": "I grew up in a communal flat."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
         }
-      ]
+      ],
+      "related": []
     },
-    "париже": {
-      "lemma": "париже",
-      "stress": "пари́же",
-      "pos": "noun",
+    "париж": {
+      "lemma": "париж",
+      "stress": "пари́ж",
+      "pos": "name",
       "gloss": "Paris",
       "meanings": [
         {
           "en": "Paris",
-          "examples": []
+          "note": "Core Russian name meaning 'Paris' in everyday speech."
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nom",
-              "париже",
-              "парижеы"
-            ]
-          },
-          {
-            "cells": [
-              "gen",
-              "парижеа",
-              "парижеов"
-            ]
-          },
-          {
-            "cells": [
-              "dat",
-              "парижеу",
-              "парижеам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "париже",
-              "парижеы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "парижеом",
-              "парижеами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "парижее",
-              "парижеах"
-            ]
-          }
-        ]
-      }
+      "forms": null,
+      "moreForms": [],
+      "related": [],
+      "examples": [
+        {
+          "text": "А в Париж вас никто замуж не звал?",
+          "trans": "And nobody asked you to marry him and move to Paris?"
+        },
+        {
+          "text": "Однажды, когда я работал в Париже...",
+          "trans": "Once, when I worked in Paris..."
+        },
+        {
+          "text": "Представляешь, мы жили в Париже.",
+          "trans": "Can you imagine, we lived in Paris."
+        }
+      ]
     },
     "подождать": {
       "lemma": "подождать",
@@ -2789,6 +3291,16 @@
         {
           "text": "Подождите минуту.",
           "trans": "Wait a minute."
+        },
+        {
+          "text": "Подожди, Нин, ты не поняла. Это же стыдно!",
+          "trans": "Wait, Nina, you don't get it. It's shameful!"
+        }
+      ],
+      "related": [
+        {
+          "word": "ждать",
+          "gloss": "to wait"
         }
       ]
     },
@@ -2813,8 +3325,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "быть": {
       "lemma": "быть",
@@ -2952,6 +3469,20 @@
           "text": "Ты будешь просить прощения.",
           "trans": "You will be asking for forgiveness."
         }
+      ],
+      "related": [
+        {
+          "word": "забыть",
+          "gloss": "to forget"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
+        },
+        {
+          "word": "побыть",
+          "gloss": "to stay for a while"
+        }
       ]
     },
     "целоваться": {
@@ -2963,7 +3494,7 @@
       "meanings": [
         {
           "en": "to kiss",
-          "note": ""
+          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an verbal verb meaning 'to kiss'."
         }
       ],
       "forms": {
@@ -3036,6 +3567,28 @@
         {
           "text": "Они долго целовались.",
           "trans": "They were kissing for a long time."
+        },
+        {
+          "text": "Ты вчера целовался с моей девушкой!",
+          "trans": "Yesterday you kissed my girl!"
+        },
+        {
+          "text": "Вы целовались прямо в ресторане!",
+          "trans": "You were kissing right in the restaurant!"
+        }
+      ],
+      "related": [
+        {
+          "word": "поцеловать",
+          "gloss": "to kiss"
+        },
+        {
+          "word": "целовать",
+          "gloss": "to kiss"
+        },
+        {
+          "word": "поцеловаться",
+          "gloss": "to kiss"
         }
       ]
     },
@@ -3047,7 +3600,7 @@
       "meanings": [
         {
           "en": "at first, first of all",
-          "note": ""
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'начала')."
         },
         {
           "en": "from the beginning, over again",
@@ -3064,6 +3617,16 @@
         {
           "text": "Давай начнём всё сначала.",
           "trans": "Let's start everything from the beginning."
+        },
+        {
+          "text": "Мы танцевали. Сначала они там грубили, оскорбляли.",
+          "trans": "We were dancing. First they were rude and insulting over there."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень сначала",
+          "gloss": "intensified / related adverb (at first)"
         }
       ]
     },
@@ -3088,22 +3651,36 @@
         {
           "text": "Надо сделать ещё больше.",
           "trans": "We need to do even more."
+        },
+        {
+          "text": "Надо его помыть!",
+          "trans": "It needs a wash!"
+        }
+      ],
+      "related": [
+        {
+          "word": "понадобиться",
+          "gloss": "to be needed"
+        },
+        {
+          "word": "ненадолго",
+          "gloss": "for a short time"
         }
       ]
     },
     "закусить": {
       "lemma": "закусить",
-      "stress": "заку́сить",
-      "pos": "noun",
+      "stress": "закуси́ть",
+      "pos": "verb",
       "gloss": "have a bite, snack",
       "meanings": [
         {
           "en": "have a bite, snack",
-          "examples": []
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'кусить'). Used as an perfective (single completed action) verb meaning 'have a bite, snack'."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -3112,48 +3689,67 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "закусить",
-              "закуситьы"
+              "1st",
+              "закушу",
+              "закусим"
             ]
           },
           {
             "cells": [
-              "gen",
-              "закуситьа",
-              "закуситьов"
+              "2nd",
+              "закусишь",
+              "закусите"
             ]
           },
           {
             "cells": [
-              "dat",
-              "закуситьу",
-              "закуситьам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "закусить",
-              "закуситьы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "закуситьом",
-              "закуситьами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "закуситье",
-              "закуситьах"
+              "3rd",
+              "закусит",
+              "закусят"
             ]
           }
         ]
-      }
+      },
+      "aspect": "pf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "закусил",
+                "закусила",
+                "закусило",
+                "закусили"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "перекусить",
+          "gloss": "to have a bite to eat"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Сначала надо закусить.",
+          "trans": "First we need to have a bite."
+        },
+        {
+          "text": "Это слово «закусить» часто звучит в разговоре.",
+          "trans": "This word 'have a bite' is often heard in conversation."
+        }
+      ]
     },
     "на": {
       "lemma": "на",
@@ -3180,8 +3776,13 @@
         {
           "text": "Он идёт на второй срок.",
           "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
         }
-      ]
+      ],
+      "related": []
     },
     "очень": {
       "lemma": "очень",
@@ -3191,7 +3792,7 @@
       "meanings": [
         {
           "en": "very",
-          "note": ""
+          "note": "with verbs: очень люблю"
         },
         {
           "en": "very much",
@@ -3208,6 +3809,16 @@
         {
           "text": "Это очень трудно.",
           "trans": "It's very hard."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "совсем",
+          "gloss": "intensified / related adverb (very)"
         }
       ]
     },
@@ -3236,6 +3847,20 @@
         {
           "text": "Мама вкусно готовит.",
           "trans": "Mum is a good cook."
+        },
+        {
+          "text": "Ладно. Ой, вкусно!",
+          "trans": "All right. Oh, it's tasty!"
+        }
+      ],
+      "related": [
+        {
+          "word": "вкус",
+          "gloss": "taste"
+        },
+        {
+          "word": "вкусный",
+          "gloss": "tasty"
         }
       ]
     },
@@ -3249,7 +3874,7 @@
       "meanings": [
         {
           "en": "to say, to tell",
-          "note": ""
+          "note": "Я тебе говорю = I'm telling you"
         },
         {
           "en": "to speak, to talk",
@@ -3335,6 +3960,24 @@
         {
           "text": "Я говорю по-русски.",
           "trans": "I speak Russian."
+        },
+        {
+          "text": "Ну, то, что ты говорил.",
+          "trans": "Well, the thing you said."
+        }
+      ],
+      "related": [
+        {
+          "word": "сказать",
+          "gloss": "to say"
+        },
+        {
+          "word": "договориться",
+          "gloss": "to agree"
+        },
+        {
+          "word": "поговорить",
+          "gloss": "to have a talk"
         }
       ]
     },
@@ -3357,7 +4000,51 @@
           "note": ""
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "чего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "чему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "чем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "чём"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -3367,8 +4054,13 @@
         {
           "text": "Смотри, что у меня есть.",
           "trans": "Look what I've got."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
-      ]
+      ],
+      "related": []
     },
     "да": {
       "lemma": "да",
@@ -3378,7 +4070,7 @@
       "meanings": [
         {
           "en": "yes",
-          "note": ""
+          "note": "emphatic at the start of a sentence"
         },
         {
           "en": "да ну? = really?, oh yeah?",
@@ -3395,8 +4087,13 @@
         {
           "text": "Да, это я.",
           "trans": "Yes, it's me."
+        },
+        {
+          "text": "Да ну? Когда?",
+          "trans": "Oh yeah? When?"
         }
-      ]
+      ],
+      "related": []
     },
     "нравиться": {
       "lemma": "нравиться",
@@ -3473,9 +4170,23 @@
         {
           "text": "Людям нравится.",
           "trans": "People like it."
+        },
+        {
+          "text": "Реакция положительная. Людям нравится.",
+          "trans": "The reaction is positive. People like it."
         }
       ],
-      "governs": "the liker in the dative"
+      "governs": "the liker in the dative",
+      "related": [
+        {
+          "word": "понравиться",
+          "gloss": "to be liked"
+        },
+        {
+          "word": "нравоучение",
+          "gloss": "moral lecture"
+        }
+      ]
     },
     "спасибо": {
       "lemma": "спасибо",
@@ -3498,8 +4209,13 @@
         {
           "text": "Спасибо за доверие!",
           "trans": "Thank you for your trust!"
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
-      ]
+      ],
+      "related": []
     },
     "дорогой": {
       "lemma": "дорогой",
@@ -3509,7 +4225,7 @@
       "meanings": [
         {
           "en": "expensive",
-          "note": ""
+          "note": "to a loved one, and at the start of letters"
         },
         {
           "en": "dear",
@@ -3613,19 +4329,29 @@
         {
           "text": "Дорогая, я дома!",
           "trans": "Darling, I'm home!"
+        },
+        {
+          "text": "В Москве вам дают деньги на дорогую одежду, а мозги не дают.",
+          "trans": "In Moscow they give you money for expensive clothes, but they don't give you brains."
+        }
+      ],
+      "related": [
+        {
+          "word": "дёшево",
+          "gloss": "cheap(ly)"
         }
       ]
     },
     "друг": {
       "lemma": "друг",
-      "stress": null,
+      "stress": "друг",
       "pos": "noun",
       "gender": "m",
       "gloss": "friend",
       "meanings": [
         {
           "en": "friend",
-          "note": ""
+          "note": "Common masculine noun meaning 'friend' in everyday Russian."
         }
       ],
       "forms": {
@@ -3689,6 +4415,16 @@
         {
           "text": "Он мой друг.",
           "trans": "He's my friend."
+        },
+        {
+          "text": "Это Паша, мой заместитель. Это Ваня, друг моего детства.",
+          "trans": "This is Pasha, my deputy. This is Vanya, my childhood friend."
+        }
+      ],
+      "related": [
+        {
+          "word": "другой",
+          "gloss": "other"
         }
       ]
     },
@@ -3700,7 +4436,7 @@
       "meanings": [
         {
           "en": "please",
-          "note": ""
+          "note": "handing something over"
         },
         {
           "en": "you're welcome",
@@ -3721,6 +4457,16 @@
         {
           "text": "Спасибо! — Пожалуйста.",
           "trans": "Thank you! — You're welcome."
+        },
+        {
+          "text": "Проводите его, пожалуйста.",
+          "trans": "Please see him out."
+        }
+      ],
+      "related": [
+        {
+          "word": "пожалуй",
+          "gloss": "perhaps"
         }
       ]
     },
@@ -3808,7 +4554,30 @@
           ]
         }
       ],
-      "examples": []
+      "examples": [
+        {
+          "text": "Кушай хорошо, чтобы расти сильным.",
+          "trans": "Eat well so that you grow up strong."
+        },
+        {
+          "text": "Вот, совсем другое дело, кушайте!",
+          "trans": "There, that is much better, eat up!"
+        },
+        {
+          "text": "Настя, почему ты не кушаешь мясо?",
+          "trans": "Nastya, why do you not eat meat?"
+        }
+      ],
+      "related": [
+        {
+          "word": "покушать",
+          "gloss": "to eat"
+        },
+        {
+          "word": "накушаться",
+          "gloss": "to get drunk"
+        }
+      ]
     },
     "здоровье": {
       "lemma": "здоровье",
@@ -3883,6 +4652,20 @@
         {
           "text": "Это угрожает здоровью.",
           "trans": "This threatens health."
+        },
+        {
+          "text": "Конфликты с соседями угрожают здоровью подсудимого.",
+          "trans": "Conflicts with the neighbours threaten the defendant's health."
+        }
+      ],
+      "related": [
+        {
+          "word": "здорово",
+          "gloss": "great"
+        },
+        {
+          "word": "здоровый",
+          "gloss": "healthy"
         }
       ]
     }

@@ -2290,6 +2290,10 @@
         {
           "text": "J'aime le cinéma.",
           "trans": "I like films."
+        },
+        {
+          "text": "Tu n'aimais pas Mandelieu? C'est un bel endroit.",
+          "trans": "Didn't you like Mandelieu? It's a lovely place."
         }
       ],
       "forms": {
@@ -2431,7 +2435,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "eme"
+      "stress": "eme",
+      "related": [
+        {
+          "word": "aimation",
+          "gloss": "action of to like"
+        }
+      ]
     },
     "alors": {
       "examples": [
@@ -2442,6 +2452,10 @@
         {
           "text": "Je fais quoi, alors?",
           "trans": "So what do I do?"
+        },
+        {
+          "text": "Jeudi, alors.",
+          "trans": "Thursday, then."
         }
       ],
       "forms": null,
@@ -2450,7 +2464,7 @@
       "meanings": [
         {
           "en": "so, well (opening a remark)",
-          "note": ""
+          "note": "to draw a conclusion or move on"
         },
         {
           "en": "then",
@@ -2463,7 +2477,13 @@
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "alɔʁ"
+      "stress": "alɔʁ",
+      "related": [
+        {
+          "word": "très alors",
+          "gloss": "related adverbial expression (so)"
+        }
+      ]
     },
     "ami": {
       "examples": [
@@ -2474,6 +2494,10 @@
         {
           "text": "Des amis à Paris?",
           "trans": "Friends in Paris?"
+        },
+        {
+          "text": "C'est mon ami.",
+          "trans": "He's my friend."
         }
       ],
       "forms": {
@@ -2509,7 +2533,13 @@
       "moreForms": [],
       "plural": "amis",
       "pos": "noun",
-      "stress": "ami"
+      "stress": "ami",
+      "related": [
+        {
+          "word": "le/la ami",
+          "gloss": "the friend (with article)"
+        }
+      ]
     },
     "avoir": {
       "examples": [
@@ -2562,7 +2592,7 @@
       "meanings": [
         {
           "en": "to have",
-          "note": ""
+          "note": "avoir peur = to be afraid, avoir raison = to be right, avoir 40 ans = to be 40"
         },
         {
           "en": "to be (an age)",
@@ -2704,7 +2734,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "avwaʁ"
+      "stress": "avwaʁ",
+      "related": [
+        {
+          "word": "avoir à voir",
+          "gloss": "to have to do with"
+        }
+      ]
     },
     "beau": {
       "examples": [
@@ -2715,6 +2751,10 @@
         {
           "text": "Il fait beau.",
           "trans": "The weather is nice."
+        },
+        {
+          "text": "Tu n'aimais pas Mandelieu? C'est un bel endroit.",
+          "trans": "Didn't you like Mandelieu? It's a lovely place."
         }
       ],
       "forms": {
@@ -2751,7 +2791,21 @@
       ],
       "moreForms": [],
       "pos": "adj",
-      "stress": "bo"
+      "stress": "bo",
+      "related": [
+        {
+          "word": "beaucoup",
+          "gloss": "a lot"
+        },
+        {
+          "word": "beau-père",
+          "gloss": "father-in-law"
+        },
+        {
+          "word": "beauf",
+          "gloss": "redneck"
+        }
+      ]
     },
     "beaucoup": {
       "examples": [
@@ -2762,6 +2816,10 @@
         {
           "text": "Merci beaucoup!",
           "trans": "Thank you very much!"
+        },
+        {
+          "text": "Tu connais beaucoup de monde dans le cinéma. Tu pourrais m'aider.",
+          "trans": "You know lots of people in film. You could help me."
         }
       ],
       "forms": null,
@@ -2770,7 +2828,7 @@
       "meanings": [
         {
           "en": "a lot, very much",
-          "note": ""
+          "note": "beaucoup de + noun, with no article: beaucoup de travail"
         },
         {
           "en": "beaucoup de = a lot of, many",
@@ -2779,7 +2837,21 @@
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "boku"
+      "stress": "boku",
+      "related": [
+        {
+          "word": "beau",
+          "gloss": "beautiful"
+        },
+        {
+          "word": "beau-père",
+          "gloss": "father-in-law"
+        },
+        {
+          "word": "beauf",
+          "gloss": "redneck"
+        }
+      ]
     },
     "bien": {
       "examples": [
@@ -2790,6 +2862,10 @@
         {
           "text": "C'est pour ton bien.",
           "trans": "It's for your own good."
+        },
+        {
+          "text": "Très bien.",
+          "trans": "Very well."
         }
       ],
       "forms": null,
@@ -2798,7 +2874,7 @@
       "meanings": [
         {
           "en": "well",
-          "note": ""
+          "note": "as a masculine noun: pour le bien de = for the good of"
         },
         {
           "en": "of course (bien sûr)",
@@ -2815,7 +2891,21 @@
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "bjɛ̃"
+      "stress": "bjɛ̃",
+      "related": [
+        {
+          "word": "bien sûr",
+          "gloss": "of course"
+        },
+        {
+          "word": "bientôt",
+          "gloss": "soon"
+        },
+        {
+          "word": "bienvenue",
+          "gloss": "welcome"
+        }
+      ]
     },
     "cela": {
       "lemma": "cela",
@@ -2838,8 +2928,13 @@
         {
           "text": "Cela ne change rien au projet.",
           "trans": "That changes nothing about the project."
+        },
+        {
+          "text": "Vous voulez vraiment m'humilier comme cela?",
+          "trans": "Do you really want to humiliate me like that?"
         }
-      ]
+      ],
+      "related": []
     },
     "cinéma": {
       "examples": [
@@ -2850,6 +2945,10 @@
         {
           "text": "On va au cinéma?",
           "trans": "Shall we go to the cinema?"
+        },
+        {
+          "text": "J'ai toujours adoré le cinéma.",
+          "trans": "I've always loved films."
         }
       ],
       "forms": {
@@ -2885,7 +2984,13 @@
       "moreForms": [],
       "plural": "cinémas",
       "pos": "noun",
-      "stress": "sinema"
+      "stress": "sinema",
+      "related": [
+        {
+          "word": "le/la cinéma",
+          "gloss": "the cinema (with article)"
+        }
+      ]
     },
     "combat": {
       "lemma": "combat",
@@ -2895,7 +3000,7 @@
       "meanings": [
         {
           "en": "fight, battle, combat, struggle",
-          "note": ""
+          "note": "Standard masculine noun meaning 'fight, battle, struggle'."
         }
       ],
       "forms": {
@@ -2924,10 +3029,20 @@
         {
           "text": "C'est parti pour le combat!",
           "trans": "Here we go for the fight!"
+        },
+        {
+          "text": "Je ne lâcherai pas le combat!",
+          "trans": "I will not give up the fight!"
         }
       ],
       "gender": "m",
-      "plural": "combats"
+      "plural": "combats",
+      "related": [
+        {
+          "word": "combattre",
+          "gloss": "to fight"
+        }
+      ]
     },
     "compliqué": {
       "examples": [
@@ -2938,6 +3053,10 @@
         {
           "text": "Le contrat est compliqué.",
           "trans": "The contract is complicated."
+        },
+        {
+          "text": "Non, je viens d'arriver. Mon père, mais c'est compliqué.",
+          "trans": "No, I've just arrived. My dad, but it's complicated."
         }
       ],
       "forms": {
@@ -2969,12 +3088,26 @@
       "meanings": [
         {
           "en": "complicated",
-          "note": ""
+          "note": "Prefix 'com-' (from Latin 'cum') means 'with, together'."
         }
       ],
       "moreForms": [],
       "pos": "adj",
-      "stress": "kɔ̃plike"
+      "stress": "kɔ̃plike",
+      "related": [
+        {
+          "word": "compliquer",
+          "gloss": "to make difficult"
+        },
+        {
+          "word": "compliment",
+          "gloss": "compliment"
+        },
+        {
+          "word": "remplir",
+          "gloss": "to fill"
+        }
+      ]
     },
     "continuer": {
       "examples": [
@@ -2985,6 +3118,10 @@
         {
           "text": "Je continue demain.",
           "trans": "I'll carry on tomorrow."
+        },
+        {
+          "text": "Merci. Continuez!",
+          "trans": "Thank you. Go on!"
         }
       ],
       "forms": {
@@ -3023,7 +3160,7 @@
       "meanings": [
         {
           "en": "to continue, to go on",
-          "note": ""
+          "note": "First-group '-er' verb (from Latin first conjugation '-are'), the most productive verb class in French. Prefix 'con-'/'com-' (from Latin 'cum') means 'with, together'. Core French verb meaning 'to continue, to go on'."
         }
       ],
       "moreForms": [
@@ -3122,7 +3259,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "kɔ̃tinɥe"
+      "stress": "kɔ̃tinɥe",
+      "related": [
+        {
+          "word": "continuation",
+          "gloss": "action of to continue"
+        }
+      ]
     },
     "de": {
       "examples": [
@@ -3133,6 +3276,10 @@
         {
           "text": "La plus grande imprésario de Paris.",
           "trans": "The greatest impresario in Paris."
+        },
+        {
+          "text": "Le film de Kechiche.",
+          "trans": "The Kechiche film."
         }
       ],
       "forms": null,
@@ -3141,7 +3288,7 @@
       "meanings": [
         {
           "en": "of",
-          "note": ""
+          "note": "je n'ai pas de temps; also before a plural adjective: de mauvaises nouvelles"
         },
         {
           "en": "from",
@@ -3162,7 +3309,17 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "də"
+      "stress": "də",
+      "related": [
+        {
+          "word": "du",
+          "gloss": "de + le"
+        },
+        {
+          "word": "des",
+          "gloss": "de + les"
+        }
+      ]
     },
     "devant": {
       "examples": [
@@ -3173,6 +3330,10 @@
         {
           "text": "Je t'attends devant le cinéma.",
           "trans": "I'll wait for you in front of the cinema."
+        },
+        {
+          "text": "Tu l'as embrassée devant tout le monde!",
+          "trans": "You kissed her in front of everyone!"
         }
       ],
       "forms": null,
@@ -3186,7 +3347,8 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "dəvɑ̃"
+      "stress": "dəvɑ̃",
+      "related": []
     },
     "devenir": {
       "examples": [
@@ -3197,6 +3359,10 @@
         {
           "text": "Il veut devenir acteur.",
           "trans": "He wants to become an actor."
+        },
+        {
+          "text": "Line est devenue une star, et Françoise a fait du cinéma d'auteur.",
+          "trans": "Line became a star, and Françoise made art-house films."
         }
       ],
       "forms": {
@@ -3334,7 +3500,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "dəvəniʁ"
+      "stress": "dəvəniʁ",
+      "related": [
+        {
+          "word": "redevenir",
+          "gloss": "to become again"
+        }
+      ]
     },
     "décliner": {
       "lemma": "décliner",
@@ -3383,6 +3555,16 @@
         {
           "text": "Je décline votre offre.",
           "trans": "I decline your offer."
+        },
+        {
+          "text": "Ça sonne bien, mais je décline.",
+          "trans": "It sounds good, but I decline."
+        }
+      ],
+      "related": [
+        {
+          "word": "clinique",
+          "gloss": "clinic"
         }
       ]
     },
@@ -3395,6 +3577,10 @@
         {
           "text": "J'en ai assez!",
           "trans": "I've had enough!"
+        },
+        {
+          "text": "Je suis en retard.",
+          "trans": "I'm late."
         }
       ],
       "forms": null,
@@ -3412,7 +3598,8 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "ɑ̃"
+      "stress": "ɑ̃",
+      "related": []
     },
     "enfin": {
       "examples": [
@@ -3423,6 +3610,10 @@
         {
           "text": "Enfin les vacances!",
           "trans": "Holidays at last!"
+        },
+        {
+          "text": "Enfin, vous êtes belle.",
+          "trans": "Well, you're beautiful."
         }
       ],
       "forms": null,
@@ -3440,7 +3631,13 @@
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "ɑ̃fɛ̃"
+      "stress": "ɑ̃fɛ̃",
+      "related": [
+        {
+          "word": "enfiler",
+          "gloss": "to slip on"
+        }
+      ]
     },
     "et": {
       "examples": [
@@ -3450,6 +3647,10 @@
         },
         {
           "text": "Et toi?",
+          "trans": "And you?"
+        },
+        {
+          "text": "Et vous?",
           "trans": "And you?"
         }
       ],
@@ -3468,7 +3669,8 @@
       ],
       "moreForms": [],
       "pos": "conj",
-      "stress": "e"
+      "stress": "e",
+      "related": []
     },
     "falloir": {
       "examples": [
@@ -3625,7 +3827,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "falwaʁ"
+      "stress": "falwaʁ",
+      "related": [
+        {
+          "word": "refalloir",
+          "gloss": "verb family relative (to be necessary)"
+        }
+      ]
     },
     "famille": {
       "examples": [
@@ -3636,6 +3844,10 @@
         {
           "text": "C'est pour faire plaisir à ma famille.",
           "trans": "It's to make my family happy."
+        },
+        {
+          "text": "C'est juste un travail pour faire plaisir à ma famille.",
+          "trans": "It's just a job to make my family happy."
         }
       ],
       "forms": {
@@ -3661,13 +3873,19 @@
       "meanings": [
         {
           "en": "family",
-          "note": ""
+          "note": "Standard feminine noun meaning 'family'."
         }
       ],
       "moreForms": [],
       "plural": "familles",
       "pos": "noun",
-      "stress": "famij"
+      "stress": "famij",
+      "related": [
+        {
+          "word": "familial",
+          "gloss": "family"
+        }
+      ]
     },
     "film": {
       "examples": [
@@ -3678,6 +3896,10 @@
         {
           "text": "On regarde un film?",
           "trans": "Shall we watch a film?"
+        },
+        {
+          "text": "C'est le prochain film de Tarantino.",
+          "trans": "It's Tarantino's next film."
         }
       ],
       "forms": {
@@ -3703,19 +3925,33 @@
       "meanings": [
         {
           "en": "film, movie",
-          "note": ""
+          "note": "Standard masculine noun meaning 'film, movie'."
         }
       ],
       "moreForms": [],
       "plural": "films",
       "pos": "noun",
-      "stress": "film"
+      "stress": "film",
+      "related": [
+        {
+          "word": "le/la film",
+          "gloss": "the film (with article)"
+        }
+      ]
     },
     "finir": {
       "examples": [
         {
           "text": "J'ai vraiment fini par adorer ce contrôle fiscal!",
           "trans": "I've really grown to love this tax audit!"
+        },
+        {
+          "text": "Je finis par passer pour un idiot!",
+          "trans": "I end up looking like an idiot!"
+        },
+        {
+          "text": "Tu finis à quelle heure?",
+          "trans": "What time do you finish?"
         }
       ],
       "forms": {
@@ -3881,7 +4117,21 @@
         }
       ],
       "pos": "verb",
-      "stress": "finiʁ"
+      "stress": "finiʁ",
+      "related": [
+        {
+          "word": "infiniment",
+          "gloss": "so much"
+        },
+        {
+          "word": "fini",
+          "gloss": "finished"
+        },
+        {
+          "word": "définir",
+          "gloss": "to define"
+        }
+      ]
     },
     "français": {
       "examples": [
@@ -3892,6 +4142,10 @@
         {
           "text": "Il est français.",
           "trans": "He's French."
+        },
+        {
+          "text": "Oui, mais il faut des autorisations. Ah, la paperasse française!",
+          "trans": "Yes, but you need permits. Ah, French paperwork!"
         }
       ],
       "forms": {
@@ -3928,7 +4182,17 @@
       ],
       "moreForms": [],
       "pos": "adj",
-      "stress": "fʁɑ̃sɛ"
+      "stress": "fʁɑ̃sɛ",
+      "related": [
+        {
+          "word": "franchement",
+          "gloss": "honestly"
+        },
+        {
+          "word": "franchise",
+          "gloss": "frankness"
+        }
+      ]
     },
     "grand": {
       "examples": [
@@ -3939,6 +4203,10 @@
         {
           "text": "Paris est une grande ville.",
           "trans": "Paris is a big city."
+        },
+        {
+          "text": "Nous avons presque perdu une grande star!",
+          "trans": "We almost lost a big star!"
         }
       ],
       "forms": {
@@ -3970,7 +4238,7 @@
       "meanings": [
         {
           "en": "big, tall",
-          "note": ""
+          "note": "before the noun: une grande actrice = a great actress"
         },
         {
           "en": "great, important",
@@ -3983,7 +4251,21 @@
       ],
       "moreForms": [],
       "pos": "adj",
-      "stress": "ɡʁɑ̃"
+      "stress": "ɡʁɑ̃",
+      "related": [
+        {
+          "word": "grand-chose",
+          "gloss": "much"
+        },
+        {
+          "word": "grandir",
+          "gloss": "to grow up"
+        },
+        {
+          "word": "grand-mère",
+          "gloss": "grandmother"
+        }
+      ]
     },
     "homme": {
       "examples": [
@@ -3994,6 +4276,10 @@
         {
           "text": "Le rôle est pour un homme.",
           "trans": "The part is for a man."
+        },
+        {
+          "text": "Ils ont pensé que ce serait mieux avec un homme.",
+          "trans": "They thought it would be better with a man."
         }
       ],
       "forms": {
@@ -4029,7 +4315,13 @@
       "moreForms": [],
       "plural": "hommes",
       "pos": "noun",
-      "stress": "ɔm"
+      "stress": "ɔm",
+      "related": [
+        {
+          "word": "hommage",
+          "gloss": "tribute"
+        }
+      ]
     },
     "il": {
       "examples": [
@@ -4040,6 +4332,10 @@
         {
           "text": "Il y a un problème.",
           "trans": "There's a problem."
+        },
+        {
+          "text": "Il me connaît.",
+          "trans": "He knows me."
         }
       ],
       "forms": null,
@@ -4048,7 +4344,7 @@
       "meanings": [
         {
           "en": "he, it",
-          "note": ""
+          "note": "for masculine nouns, and in impersonal phrases: il y a"
         },
         {
           "en": "it (impersonal)",
@@ -4061,7 +4357,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "il"
+      "stress": "il",
+      "related": []
     },
     "inquiéter": {
       "examples": [
@@ -4072,6 +4369,10 @@
         {
           "text": "Tu m'inquiètes.",
           "trans": "You're worrying me."
+        },
+        {
+          "text": "Pardon? Ça ne m'inquiète pas du tout.",
+          "trans": "Excuse me? That doesn't worry me at all."
         }
       ],
       "forms": {
@@ -4213,7 +4514,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "ɛ̃kjete"
+      "stress": "ɛ̃kjete",
+      "related": [
+        {
+          "word": "inquiétation",
+          "gloss": "action of to worry"
+        }
+      ]
     },
     "je": {
       "examples": [
@@ -4224,6 +4531,10 @@
         {
           "text": "J'ai un loft.",
           "trans": "I've got a loft."
+        },
+        {
+          "text": "Gabriel! Je suis à mon cours d'équitation.",
+          "trans": "Gabriel! I'm at my horse-riding lesson."
         }
       ],
       "forms": null,
@@ -4237,7 +4548,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "ʒə"
+      "stress": "ʒə",
+      "related": []
     },
     "laisser": {
       "examples": [
@@ -4248,6 +4560,10 @@
         {
           "text": "Laisse-moi parler!",
           "trans": "Let me speak!"
+        },
+        {
+          "text": "Laissez vos photos et votre CV ici.",
+          "trans": "Leave your photos and your CV here."
         }
       ],
       "forms": {
@@ -4286,7 +4602,7 @@
       "meanings": [
         {
           "en": "to leave (something somewhere)",
-          "note": ""
+          "note": "laisser quelqu'un voir = to let someone see"
         },
         {
           "en": "to let, to allow",
@@ -4413,7 +4729,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "lɛse"
+      "stress": "lɛse",
+      "related": [
+        {
+          "word": "relais",
+          "gloss": "relay"
+        }
+      ]
     },
     "le": {
       "examples": [
@@ -4468,7 +4790,8 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "lə"
+      "stress": "lə",
+      "related": []
     },
     "là-dessus": {
       "lemma": "là-dessus",
@@ -4487,6 +4810,16 @@
         {
           "text": "Je te laisse méditer là-dessus.",
           "trans": "I leave you to ponder that."
+        },
+        {
+          "text": "On entend souvent le mot là-dessus ici.",
+          "trans": "We often hear the word 'on that' here."
+        }
+      ],
+      "related": [
+        {
+          "word": "là-dedans",
+          "gloss": "in there"
         }
       ]
     },
@@ -4499,6 +4832,10 @@
         {
           "text": "Ne lâche pas!",
           "trans": "Don't give up!"
+        },
+        {
+          "text": "Non! Lâche le contrat!",
+          "trans": "No! Let go of the contract!"
         }
       ],
       "forms": {
@@ -4537,7 +4874,7 @@
       "meanings": [
         {
           "en": "to let go of, to drop",
-          "note": ""
+          "note": "informal"
         },
         {
           "en": "to let someone down",
@@ -4671,7 +5008,21 @@
         }
       ],
       "pos": "verb",
-      "stress": "laʃe"
+      "stress": "laʃe",
+      "related": [
+        {
+          "word": "lâche",
+          "gloss": "coward"
+        },
+        {
+          "word": "relâcher",
+          "gloss": "to release"
+        },
+        {
+          "word": "lâchement",
+          "gloss": "cowardly"
+        }
+      ]
     },
     "maintenant": {
       "examples": [
@@ -4682,6 +5033,10 @@
         {
           "text": "Je pars maintenant.",
           "trans": "I'm leaving now."
+        },
+        {
+          "text": "Très bien. Tu peux commencer maintenant?",
+          "trans": "Very good. Can you start now?"
         }
       ],
       "forms": null,
@@ -4690,12 +5045,22 @@
       "meanings": [
         {
           "en": "now",
-          "note": ""
+          "note": "Everyday French adv meaning 'now'."
         }
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "mɛ̃tnɑ̃"
+      "stress": "mɛ̃tnɑ̃",
+      "related": [
+        {
+          "word": "main",
+          "gloss": "hand"
+        },
+        {
+          "word": "maintenir",
+          "gloss": "to hold"
+        }
+      ]
     },
     "mais": {
       "examples": [
@@ -4706,6 +5071,10 @@
         {
           "text": "Mais oui!",
           "trans": "Yes, of course!"
+        },
+        {
+          "text": "Non, mais c'est important.",
+          "trans": "No, but it's important."
         }
       ],
       "forms": null,
@@ -4714,7 +5083,7 @@
       "meanings": [
         {
           "en": "but",
-          "note": ""
+          "note": "mais oui! = of course!"
         },
         {
           "en": "(emphasis)",
@@ -4723,7 +5092,13 @@
       ],
       "moreForms": [],
       "pos": "conj",
-      "stress": "mɛ"
+      "stress": "mɛ",
+      "related": [
+        {
+          "word": "maison",
+          "gloss": "house"
+        }
+      ]
     },
     "me": {
       "examples": [
@@ -4734,6 +5109,10 @@
         {
           "text": "Je m'appelle Camille.",
           "trans": "My name is Camille."
+        },
+        {
+          "text": "Il me connaît.",
+          "trans": "He knows me."
         }
       ],
       "forms": null,
@@ -4751,7 +5130,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "mə"
+      "stress": "mə",
+      "related": []
     },
     "méditer": {
       "lemma": "méditer",
@@ -4800,6 +5180,24 @@
         {
           "text": "Je te laisse méditer.",
           "trans": "I leave you to ponder."
+        },
+        {
+          "text": "Je te laisse méditer là-dessus.",
+          "trans": "I leave you to ponder that."
+        }
+      ],
+      "related": [
+        {
+          "word": "comédien",
+          "gloss": "actor"
+        },
+        {
+          "word": "médical",
+          "gloss": "medical"
+        },
+        {
+          "word": "médicament",
+          "gloss": "medicine"
         }
       ]
     },
@@ -4812,6 +5210,10 @@
         {
           "text": "Il n'a jamais joué.",
           "trans": "He has never played."
+        },
+        {
+          "text": "Je ne sais pas.",
+          "trans": "I don't know."
         }
       ],
       "forms": null,
@@ -4829,7 +5231,17 @@
       ],
       "moreForms": [],
       "pos": "part",
-      "stress": "nə"
+      "stress": "nə",
+      "related": [
+        {
+          "word": "pas",
+          "gloss": "not"
+        },
+        {
+          "word": "jamais",
+          "gloss": "never"
+        }
+      ]
     },
     "on": {
       "examples": [
@@ -4840,6 +5252,10 @@
         {
           "text": "On attend l'appel.",
           "trans": "We're waiting for the call."
+        },
+        {
+          "text": "On est au Westin. Tout le monde est là.",
+          "trans": "We're at the Westin. Everyone is here."
         }
       ],
       "forms": null,
@@ -4857,7 +5273,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "ɔ̃"
+      "stress": "ɔ̃",
+      "related": []
     },
     "parler": {
       "examples": [
@@ -4868,6 +5285,10 @@
         {
           "text": "Tu parles français?",
           "trans": "Do you speak French?"
+        },
+        {
+          "text": "Oui, trois cent mille. Je parle de ses vingt ans de carrière.",
+          "trans": "Yes, three hundred thousand. I'm talking about his twenty years of career."
         }
       ],
       "forms": {
@@ -4906,7 +5327,7 @@
       "meanings": [
         {
           "en": "to speak, to talk",
-          "note": ""
+          "note": "parler à quelqu'un = to talk to someone"
         },
         {
           "en": "parler de = to talk about",
@@ -5033,7 +5454,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "paʁle"
+      "stress": "paʁle",
+      "related": [
+        {
+          "word": "reparler",
+          "gloss": "to discuss again"
+        }
+      ]
     },
     "partir": {
       "examples": [
@@ -5213,7 +5640,21 @@
         }
       ],
       "pos": "verb",
-      "stress": "paʁtiʁ"
+      "stress": "paʁtiʁ",
+      "related": [
+        {
+          "word": "départ",
+          "gloss": "departure"
+        },
+        {
+          "word": "particulier",
+          "gloss": "particular"
+        },
+        {
+          "word": "part",
+          "gloss": "share"
+        }
+      ]
     },
     "pas": {
       "examples": [
@@ -5253,7 +5694,8 @@
       ],
       "moreForms": [],
       "pos": "part",
-      "stress": "pa"
+      "stress": "pa",
+      "related": []
     },
     "pour": {
       "examples": [
@@ -5264,6 +5706,10 @@
         {
           "text": "Je suis là pour voir Mathias.",
           "trans": "I'm here to see Mathias."
+        },
+        {
+          "text": "C'est comme un rêve pour moi.",
+          "trans": "It's like a dream for me."
         }
       ],
       "forms": null,
@@ -5272,7 +5718,7 @@
       "meanings": [
         {
           "en": "for",
-          "note": ""
+          "note": "before an infinitive: pour faire plaisir"
         },
         {
           "en": "to, in order to",
@@ -5281,7 +5727,21 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "puʁ"
+      "stress": "puʁ",
+      "related": [
+        {
+          "word": "pourquoi",
+          "gloss": "why"
+        },
+        {
+          "word": "pour cent",
+          "gloss": "percent"
+        },
+        {
+          "word": "pour de vrai",
+          "gloss": "for real"
+        }
+      ]
     },
     "pouvoir": {
       "examples": [
@@ -5441,7 +5901,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "puvwaʁ"
+      "stress": "puvwaʁ",
+      "related": [
+        {
+          "word": "pouvez-vous",
+          "gloss": "can you"
+        }
+      ]
     },
     "préférer": {
       "examples": [
@@ -5452,6 +5918,10 @@
         {
           "text": "Tu préférerais rester?",
           "trans": "Would you rather stay?"
+        },
+        {
+          "text": "Tu préférerais qu'ASK disparaisse?",
+          "trans": "Would you rather ASK disappeared?"
         }
       ],
       "forms": {
@@ -5589,7 +6059,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "pʁefeʁe"
+      "stress": "pʁefeʁe",
+      "related": [
+        {
+          "word": "préféré",
+          "gloss": "favourite"
+        }
+      ]
     },
     "père": {
       "examples": [
@@ -5600,6 +6076,10 @@
         {
           "text": "Son père est agent.",
           "trans": "Her father is an agent."
+        },
+        {
+          "text": "Non, je viens d'arriver. Mon père, mais c'est compliqué.",
+          "trans": "No, I've just arrived. My dad, but it's complicated."
         }
       ],
       "forms": {
@@ -5625,13 +6105,19 @@
       "meanings": [
         {
           "en": "father, dad",
-          "note": ""
+          "note": "Standard masculine noun meaning 'father'."
         }
       ],
       "moreForms": [],
       "plural": "pères",
       "pos": "noun",
-      "stress": "pɛʁ"
+      "stress": "pɛʁ",
+      "related": [
+        {
+          "word": "le/la père",
+          "gloss": "the father (with article)"
+        }
+      ]
     },
     "quitter": {
       "examples": [
@@ -5642,6 +6128,10 @@
         {
           "text": "Ne me quitte pas.",
           "trans": "Don't leave me."
+        },
+        {
+          "text": "Elle est partie! Elle m'a quitté.",
+          "trans": "She's gone! She's left me."
         }
       ],
       "forms": {
@@ -5814,7 +6304,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "kite"
+      "stress": "kite",
+      "related": [
+        {
+          "word": "quitte",
+          "gloss": "even"
+        }
+      ]
     },
     "révolution": {
       "lemma": "révolution",
@@ -5851,6 +6347,16 @@
         {
           "text": "La Révolution française.",
           "trans": "The French Revolution."
+        },
+        {
+          "text": "Un film sur la Révolution française.",
+          "trans": "A movie about the French Revolution."
+        }
+      ],
+      "related": [
+        {
+          "word": "le/la révolution",
+          "gloss": "the revolution (with article)"
         }
       ]
     },
@@ -5863,6 +6369,10 @@
         {
           "text": "C'est quoi le rôle?",
           "trans": "What's the part?"
+        },
+        {
+          "text": "Oui! Mon préféré, Pierre Niney, a un nouveau rôle.",
+          "trans": "Yes! My favourite, Pierre Niney, has a new part."
         }
       ],
       "forms": {
@@ -5894,7 +6404,13 @@
       "moreForms": [],
       "plural": "rôles",
       "pos": "noun",
-      "stress": "ʁol"
+      "stress": "ʁol",
+      "related": [
+        {
+          "word": "le/la rôle",
+          "gloss": "the role (with article)"
+        }
+      ]
     },
     "savoir": {
       "examples": [
@@ -6052,8 +6568,8 @@
       "pos": "verb",
       "related": [
         {
-          "gloss": "to know (a person, a place)",
-          "word": "connaître"
+          "word": "connaître",
+          "gloss": "to know (a person, a place)"
         }
       ],
       "stress": "savwaʁ"
@@ -6067,6 +6583,10 @@
         {
           "text": "Elle monte sur scène.",
           "trans": "She goes on stage."
+        },
+        {
+          "text": "Quand vous regardez des films, des scènes d'amour...",
+          "trans": "When you watch films, love scenes..."
         }
       ],
       "forms": {
@@ -6102,7 +6622,13 @@
       "moreForms": [],
       "plural": "scènes",
       "pos": "noun",
-      "stress": "sɛn"
+      "stress": "sɛn",
+      "related": [
+        {
+          "word": "le/la scène",
+          "gloss": "the scene (with article)"
+        }
+      ]
     },
     "simple": {
       "examples": [
@@ -6113,6 +6639,10 @@
         {
           "text": "Une question simple.",
           "trans": "A simple question."
+        },
+        {
+          "text": "C'est plus simple quand on connaît les bonnes personnes.",
+          "trans": "It's simpler when you know the right people."
         }
       ],
       "forms": {
@@ -6144,12 +6674,18 @@
       "meanings": [
         {
           "en": "simple, easy",
-          "note": ""
+          "note": "Everyday French adj meaning 'simple, easy'."
         }
       ],
       "moreForms": [],
       "pos": "adj",
-      "stress": "sɛ̃pl"
+      "stress": "sɛ̃pl",
+      "related": [
+        {
+          "word": "simplement",
+          "gloss": "simply"
+        }
+      ]
     },
     "sonner": {
       "examples": [
@@ -6160,6 +6696,10 @@
         {
           "text": "Le téléphone sonne.",
           "trans": "The phone is ringing."
+        },
+        {
+          "text": "Je trouve que ça sonne vraiment bien. Pourquoi pas?",
+          "trans": "I think that sounds really good. Why not?"
         }
       ],
       "forms": {
@@ -6301,7 +6841,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "sɔne"
+      "stress": "sɔne",
+      "related": [
+        {
+          "word": "sonnation",
+          "gloss": "action of to ring"
+        }
+      ]
     },
     "sur": {
       "examples": [
@@ -6312,6 +6858,10 @@
         {
           "text": "Tu es sur haut-parleur.",
           "trans": "You're on speaker."
+        },
+        {
+          "text": "Attention, tu arrives sur la route!",
+          "trans": "Careful, you're heading for the road!"
         }
       ],
       "forms": null,
@@ -6329,7 +6879,8 @@
       ],
       "moreForms": [],
       "pos": "prep",
-      "stress": "syʁ"
+      "stress": "syʁ",
+      "related": []
     },
     "te": {
       "examples": [
@@ -6340,6 +6891,10 @@
         {
           "text": "Je te rappelle.",
           "trans": "I'll call you back."
+        },
+        {
+          "text": "Je voulais te faire la surprise.",
+          "trans": "I wanted to surprise you."
         }
       ],
       "forms": null,
@@ -6357,7 +6912,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "tə"
+      "stress": "tə",
+      "related": []
     },
     "toi": {
       "examples": [
@@ -6368,6 +6924,10 @@
         {
           "text": "C'est pour toi.",
           "trans": "It's for you."
+        },
+        {
+          "text": "Oui, et toi?",
+          "trans": "Fine, and you?"
         }
       ],
       "forms": null,
@@ -6385,7 +6945,8 @@
       ],
       "moreForms": [],
       "pos": "pron",
-      "stress": "twa"
+      "stress": "twa",
+      "related": []
     },
     "trop": {
       "examples": [
@@ -6396,6 +6957,10 @@
         {
           "text": "C'est trop difficile.",
           "trans": "It's too difficult."
+        },
+        {
+          "text": "Trop vieille? C'est quoi le rôle, une gamine?",
+          "trans": "Too old? What's the part, a little girl?"
         }
       ],
       "forms": null,
@@ -6413,7 +6978,13 @@
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "tʁo"
+      "stress": "tʁo",
+      "related": [
+        {
+          "word": "trophée",
+          "gloss": "trophy"
+        }
+      ]
     },
     "très": {
       "examples": [
@@ -6424,6 +6995,10 @@
         {
           "text": "C'est très important.",
           "trans": "It's very important."
+        },
+        {
+          "text": "Très bien. Et vous? Un thé?",
+          "trans": "Very well. And you? Tea?"
         }
       ],
       "forms": null,
@@ -6432,12 +7007,18 @@
       "meanings": [
         {
           "en": "very",
-          "note": ""
+          "note": "Everyday French adv meaning 'very'."
         }
       ],
       "moreForms": [],
       "pos": "adv",
-      "stress": "tʁɛ"
+      "stress": "tʁɛ",
+      "related": [
+        {
+          "word": "très bien",
+          "gloss": "very well"
+        }
+      ]
     },
     "tu": {
       "examples": [
@@ -6448,6 +7029,10 @@
         {
           "text": "Tu viens?",
           "trans": "Are you coming?"
+        },
+        {
+          "text": "Tu es pénible.",
+          "trans": "You're a pain."
         }
       ],
       "forms": null,
@@ -6463,8 +7048,8 @@
       "pos": "pron",
       "related": [
         {
-          "gloss": "you (polite or plural)",
-          "word": "vous"
+          "word": "vous",
+          "gloss": "you (polite or plural)"
         }
       ],
       "stress": "ty"
@@ -6526,7 +7111,8 @@
       ],
       "moreForms": [],
       "pos": "det",
-      "stress": "œ̃"
+      "stress": "œ̃",
+      "related": []
     },
     "être": {
       "examples": [
@@ -6737,7 +7323,13 @@
         }
       ],
       "pos": "verb",
-      "stress": "ɛtʁ"
+      "stress": "ɛtʁ",
+      "related": [
+        {
+          "word": "reêtre",
+          "gloss": "verb family relative (to be)"
+        }
+      ]
     }
   }
 }

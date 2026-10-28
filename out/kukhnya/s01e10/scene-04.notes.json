@@ -2243,8 +2243,13 @@
         {
           "text": "А где машинка?",
           "trans": "And where's the toy car?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
         }
-      ]
+      ],
+      "related": []
     },
     "в": {
       "lemma": "в",
@@ -2271,8 +2276,13 @@
         {
           "text": "Я вырос в коммуналке.",
           "trans": "I grew up in a communal flat."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
         }
-      ]
+      ],
+      "related": []
     },
     "ваш": {
       "lemma": "ваш",
@@ -2360,8 +2370,13 @@
         {
           "text": "Это ваша программа?",
           "trans": "Is this your programme?"
+        },
+        {
+          "text": "Аркадий Борисович, кто ваши конкуренты?",
+          "trans": "Arkady Borisovich, who are your rivals?"
         }
-      ]
+      ],
+      "related": []
     },
     "весь": {
       "lemma": "весь",
@@ -2371,7 +2386,7 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": ""
+          "note": "the neuter form 'всё' used alone"
         },
         {
           "en": "everything",
@@ -2462,7 +2477,8 @@
           "text": "Поделись со всеми.",
           "trans": "Share with everyone."
         }
-      ]
+      ],
+      "related": []
     },
     "внимательно": {
       "lemma": "внимательно",
@@ -2472,7 +2488,7 @@
       "meanings": [
         {
           "en": "carefully, attentively, closely",
-          "note": ""
+          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         }
       ],
       "forms": null,
@@ -2485,6 +2501,20 @@
         {
           "text": "Слушайте учителя внимательно.",
           "trans": "Listen to the teacher attentively."
+        },
+        {
+          "text": "И, Марина Сергеевна, читайте всё внимательно! Особенно мелким шрифтом!",
+          "trans": "And, Marina Sergeyevna, read everything carefully! Especially in fine print!"
+        }
+      ],
+      "related": [
+        {
+          "word": "внимание",
+          "gloss": "attention"
+        },
+        {
+          "word": "внимательный",
+          "gloss": "attentive"
         }
       ]
     },
@@ -2503,7 +2533,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "вы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "вам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "вами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "вас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2513,6 +2587,16 @@
         {
           "text": "Губернатор вас поддерживает?",
           "trans": "Does the governor support you?"
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "вас",
+          "gloss": "you (genitive/accusative)"
         }
       ]
     },
@@ -2581,8 +2665,31 @@
         ]
       },
       "moreForms": [],
-      "examples": [],
-      "animacy": "inan"
+      "examples": [
+        {
+          "text": "Мы готовим срочный выпуск новостей.",
+          "trans": "We are preparing an urgent news broadcast."
+        },
+        {
+          "text": "Десять тысяч евро за один выпуск?",
+          "trans": "Ten thousand euros for one episode?"
+        }
+      ],
+      "animacy": "inan",
+      "related": [
+        {
+          "word": "спускаться",
+          "gloss": "to go down"
+        },
+        {
+          "word": "отпускать",
+          "gloss": "to let go"
+        },
+        {
+          "word": "пускать",
+          "gloss": "to let in"
+        }
+      ]
     },
     "выступать": {
       "lemma": "выступать",
@@ -2594,7 +2701,7 @@
       "meanings": [
         {
           "en": "to give a speech, to speak in public",
-          "note": ""
+          "note": "on stage"
         },
         {
           "en": "to perform",
@@ -2663,6 +2770,24 @@
         {
           "text": "Я не люблю выступать.",
           "trans": "I don't like speaking in public."
+        },
+        {
+          "text": "Там же президент выступает! Надо открыть шампанское.",
+          "trans": "But the president is on TV! We have to open the champagne."
+        }
+      ],
+      "related": [
+        {
+          "word": "выступить",
+          "gloss": "to perform"
+        },
+        {
+          "word": "поступить",
+          "gloss": "to enter"
+        },
+        {
+          "word": "наступить",
+          "gloss": "to come"
         }
       ]
     },
@@ -2739,6 +2864,16 @@
         {
           "text": "Что ты делаешь в эти выходные?",
           "trans": "What are you doing this weekend?"
+        },
+        {
+          "text": "Сегодня выходные, всё круто!",
+          "trans": "It is the weekend today, everything is cool!"
+        }
+      ],
+      "related": [
+        {
+          "word": "выходные",
+          "gloss": "weekend"
         }
       ]
     },
@@ -2752,7 +2887,7 @@
       "meanings": [
         {
           "en": "to give",
-          "note": ""
+          "note": "давай + 1st person plural or infinitive"
         },
         {
           "en": "let's",
@@ -2838,6 +2973,24 @@
         {
           "text": "Он мне даёт книгу.",
           "trans": "He gives me a book."
+        },
+        {
+          "text": "Давай мы его уволим, а тебя на его место назначим.",
+          "trans": "Let's fire him and put you in his place."
+        }
+      ],
+      "related": [
+        {
+          "word": "дать",
+          "gloss": "to give"
+        },
+        {
+          "word": "давай",
+          "gloss": "let's"
+        },
+        {
+          "word": "сдавать",
+          "gloss": "to take"
         }
       ]
     },
@@ -2914,6 +3067,16 @@
         {
           "text": "Я позвоню на днях.",
           "trans": "I'll call in the next few days."
+        },
+        {
+          "text": "На днях, на сайте.",
+          "trans": "Any day now, on the website."
+        }
+      ],
+      "related": [
+        {
+          "word": "деньги",
+          "gloss": "money"
         }
       ]
     },
@@ -2938,8 +3101,13 @@
         {
           "text": "Десять рублей.",
           "trans": "Ten roubles."
+        },
+        {
+          "text": "Ладно, будь там. Через десять минут буду.",
+          "trans": "All right, stay there. I'll be there in ten minutes."
         }
-      ]
+      ],
+      "related": []
     },
     "до": {
       "lemma": "до",
@@ -2966,8 +3134,13 @@
         {
           "text": "До завтра!",
           "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
         }
-      ]
+      ],
+      "related": []
     },
     "евро": {
       "lemma": "евро",
@@ -3039,6 +3212,20 @@
         {
           "text": "Шестьсот евро за килограмм.",
           "trans": "Six hundred euros per kilogram."
+        },
+        {
+          "text": "Тебе по-братски всего шестьсот евро за килограмм.",
+          "trans": "For you as a friend, only six hundred euros per kilogram."
+        },
+        {
+          "text": "Тогда цена выросла до семисот евро!",
+          "trans": "Then the price has risen to seven hundred euros!"
+        }
+      ],
+      "related": [
+        {
+          "word": "еврный",
+          "gloss": "related to euro (adj.)"
         }
       ]
     },
@@ -3067,8 +3254,13 @@
         {
           "text": "Спасибо за подарок.",
           "trans": "Thanks for the present."
+        },
+        {
+          "text": "За что?",
+          "trans": "What for?"
         }
-      ]
+      ],
+      "related": []
     },
     "здравствуйте": {
       "lemma": "здравствуйте",
@@ -3091,6 +3283,24 @@
         {
           "text": "Здравствуйте! Как дела?",
           "trans": "Hello! How are you?"
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
+        }
+      ],
+      "related": [
+        {
+          "word": "здравствуй",
+          "gloss": "hello"
+        },
+        {
+          "word": "здравие",
+          "gloss": "health"
+        },
+        {
+          "word": "поздравлять",
+          "gloss": "to congratulate"
         }
       ]
     },
@@ -3102,7 +3312,7 @@
       "meanings": [
         {
           "en": "and",
-          "note": ""
+          "note": "emphasis: вот поэтому ты и... = that's exactly why you..."
         }
       ],
       "forms": null,
@@ -3115,8 +3325,13 @@
         {
           "text": "Папа и мама.",
           "trans": "Dad and Mum."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
-      ]
+      ],
+      "related": []
     },
     "известный": {
       "lemma": "известный",
@@ -3126,7 +3341,7 @@
       "meanings": [
         {
           "en": "famous, well-known",
-          "note": ""
+          "note": "Prefix 'из-' ('out from within') marks extraction or exhaustion (stem 'вестный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('famous, well-known')."
         }
       ],
       "forms": {
@@ -3200,6 +3415,28 @@
         {
           "text": "Он самый известный человек в городе.",
           "trans": "He is the most famous man in town."
+        },
+        {
+          "text": "Вы сами подумайте. Он самый известный человек в Синеозерске!",
+          "trans": "Think about it yourselves. He is the most famous man in Sineozersk!"
+        },
+        {
+          "text": "Он самый известный человек в Синеозерске!",
+          "trans": "He is the most famous man in Sineozersk!"
+        }
+      ],
+      "related": [
+        {
+          "word": "известно",
+          "gloss": "it is known"
+        },
+        {
+          "word": "неизвестный",
+          "gloss": "unknown"
+        },
+        {
+          "word": "произведение",
+          "gloss": "work"
         }
       ]
     },
@@ -3289,6 +3526,20 @@
         {
           "text": "Каждый человек.",
           "trans": "Every person."
+        },
+        {
+          "text": "Аркаш, мне москвичи звонят каждый день. Может, всё-таки передумаем?",
+          "trans": "Arkasha, the people from Moscow call me every day. Maybe we should reconsider after all?"
+        }
+      ],
+      "related": [
+        {
+          "word": "каждо",
+          "gloss": "in a every way (adv.)"
+        },
+        {
+          "word": "каждость",
+          "gloss": "quality of being every"
         }
       ]
     },
@@ -3301,7 +3552,7 @@
       "meanings": [
         {
           "en": "kopeck, one hundredth of a rouble",
-          "note": ""
+          "note": "Common feminine noun meaning 'kopeck' in everyday Russian."
         },
         {
           "en": "ни копейки = not a penny",
@@ -3369,6 +3620,16 @@
         {
           "text": "Это стоит копейки.",
           "trans": "It costs next to nothing."
+        },
+        {
+          "text": "Пятьсот. А у меня ни копейки.",
+          "trans": "Five hundred. And I haven't got a penny."
+        }
+      ],
+      "related": [
+        {
+          "word": "копейкный",
+          "gloss": "related to kopeck (adj.)"
         }
       ]
     },
@@ -3454,6 +3715,24 @@
         {
           "text": "Он показал отличные кулинарные навыки.",
           "trans": "He showed excellent culinary skills."
+        },
+        {
+          "text": "Я отличный повар и закончил кулинарный колледж.",
+          "trans": "I am an excellent cook and finished culinary college."
+        },
+        {
+          "text": "Ладно, сейчас проверим твои настоящие кулинарные навыки.",
+          "trans": "Fine, now we will test your real culinary skills."
+        }
+      ],
+      "related": [
+        {
+          "word": "кулинарно",
+          "gloss": "in a culinary way (adv.)"
+        },
+        {
+          "word": "кулинарность",
+          "gloss": "quality of being culinary"
         }
       ]
     },
@@ -3478,6 +3757,16 @@
         {
           "text": "Сегодня мне лучше.",
           "trans": "I feel better today."
+        },
+        {
+          "text": "Работаю. Делаю жизнь людей лучше.",
+          "trans": "Working. Making people's lives better."
+        }
+      ],
+      "related": [
+        {
+          "word": "лучший",
+          "gloss": "best"
         }
       ]
     },
@@ -3567,8 +3856,13 @@
         {
           "text": "Это моё.",
           "trans": "That's mine."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
-      ]
+      ],
+      "related": []
     },
     "мы": {
       "lemma": "мы",
@@ -3578,14 +3872,58 @@
       "meanings": [
         {
           "en": "we",
-          "note": ""
+          "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
           "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -3595,6 +3933,16 @@
         {
           "text": "У нас грязный унитаз.",
           "trans": "Our toilet is dirty."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
         }
       ]
     },
@@ -3606,7 +3954,7 @@
       "meanings": [
         {
           "en": "our, ours",
-          "note": ""
+          "note": "наш, наша, наше, наши; agrees with the noun"
         }
       ],
       "forms": {
@@ -3684,8 +4032,13 @@
         {
           "text": "Это наша квартира.",
           "trans": "This is our flat."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
         }
-      ]
+      ],
+      "related": []
     },
     "не": {
       "lemma": "не",
@@ -3708,8 +4061,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "нет": {
       "lemma": "нет",
@@ -3719,7 +4077,7 @@
       "meanings": [
         {
           "en": "no",
-          "note": ""
+          "note": "+ genitive: 'у нас нет выбора' = we have no choice"
         },
         {
           "en": "there isn't",
@@ -3736,8 +4094,13 @@
         {
           "text": "Нет? Ладно.",
           "trans": "No? All right."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
-      ]
+      ],
+      "related": []
     },
     "новый": {
       "lemma": "новый",
@@ -3747,7 +4110,7 @@
       "meanings": [
         {
           "en": "new",
-          "note": ""
+          "note": "Agrees in gender, number, and case with the noun it modifies ('new')."
         }
       ],
       "forms": {
@@ -3825,6 +4188,20 @@
         {
           "text": "Мне нужна новая работа.",
           "trans": "I need a new job."
+        },
+        {
+          "text": "Ну что, довольна? Теперь новую работу искать.",
+          "trans": "Well, happy now? Now I have to look for a new job."
+        }
+      ],
+      "related": [
+        {
+          "word": "ново",
+          "gloss": "in a new way (adv.)"
+        },
+        {
+          "word": "новость",
+          "gloss": "quality of being new"
         }
       ]
     },
@@ -3920,6 +4297,20 @@
         {
           "text": "Партнёры подробно обсудили условия сделки.",
           "trans": "The partners discussed the terms of the deal in detail."
+        },
+        {
+          "text": "Заодно без лишних ушей обсудим твоё назначение.",
+          "trans": "At the same time without extra ears we will discuss your appointment."
+        }
+      ],
+      "related": [
+        {
+          "word": "обсуждать",
+          "gloss": "to discuss"
+        },
+        {
+          "word": "подсудимый",
+          "gloss": "defendant"
         }
       ]
     },
@@ -3938,72 +4329,7 @@
           "note": ""
         }
       ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "один",
-              "одна",
-              "одно",
-              "одни"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "одного",
-              "одной",
-              "одного",
-              "одних"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "одному",
-              "одной",
-              "одному",
-              "одним"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "один / одного",
-              "одну",
-              "одно",
-              "одни / одних"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "одним",
-              "одной",
-              "одним",
-              "одними"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "одном",
-              "одной",
-              "одном",
-              "одних"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
@@ -4013,6 +4339,24 @@
         {
           "text": "У меня один брат.",
           "trans": "I have one brother."
+        },
+        {
+          "text": "У тебя же есть ещё. Дай хоть одну.",
+          "trans": "But you've still got some. Give me just one."
+        }
+      ],
+      "related": [
+        {
+          "word": "один-один",
+          "gloss": "one-all"
+        },
+        {
+          "word": "одинокий",
+          "gloss": "lonely"
+        },
+        {
+          "word": "одинаковый",
+          "gloss": "the same"
         }
       ]
     },
@@ -4024,7 +4368,7 @@
       "meanings": [
         {
           "en": "really well, excellently",
-          "note": ""
+          "note": "used as an exclamation of approval"
         },
         {
           "en": "great!, excellent!",
@@ -4041,6 +4385,24 @@
         {
           "text": "Всё прошло отлично.",
           "trans": "Everything went great."
+        },
+        {
+          "text": "Отлично, Ваня!",
+          "trans": "Perfect, Vanya!"
+        }
+      ],
+      "related": [
+        {
+          "word": "личный",
+          "gloss": "personal"
+        },
+        {
+          "word": "отличный",
+          "gloss": "excellent"
+        },
+        {
+          "word": "лично",
+          "gloss": "personally"
         }
       ]
     },
@@ -4132,7 +4494,30 @@
           ]
         }
       ],
-      "examples": []
+      "examples": [
+        {
+          "text": "Настоящий мужчина всегда оценит вашу доброту.",
+          "trans": "A real man will always appreciate your kindness."
+        },
+        {
+          "text": "Жалко только, что шеф этого не оценит.",
+          "trans": "Too bad only that the chef won't appreciate this."
+        },
+        {
+          "text": "Во сколько вы оценили мою работу?",
+          "trans": "At how much did you value my work?"
+        }
+      ],
+      "related": [
+        {
+          "word": "оценивать",
+          "gloss": "to appreciate"
+        },
+        {
+          "word": "оценка",
+          "gloss": "evaluation"
+        }
+      ]
     },
     "очень": {
       "lemma": "очень",
@@ -4142,7 +4527,7 @@
       "meanings": [
         {
           "en": "very",
-          "note": ""
+          "note": "with verbs: очень люблю"
         },
         {
           "en": "very much",
@@ -4159,6 +4544,16 @@
         {
           "text": "Это очень трудно.",
           "trans": "It's very hard."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "совсем",
+          "gloss": "intensified / related adverb (very)"
         }
       ]
     },
@@ -4171,7 +4566,7 @@
       "meanings": [
         {
           "en": "TV show, broadcast, programme",
-          "note": ""
+          "note": "Prefix 'пере-' denotes crossing over, repeating, or exceeding a limit (stem 'дача'). Common feminine noun meaning 'broadcast, TV show' in everyday Russian."
         },
         {
           "en": "transfer, handover",
@@ -4235,6 +4630,28 @@
         {
           "text": "Я по его передачам научусь готовить.",
           "trans": "I will learn to cook from his shows."
+        },
+        {
+          "text": "Есть такой английский повар. Я по его передачам научусь готовить.",
+          "trans": "There is this English chef. I will learn to cook from his shows."
+        },
+        {
+          "text": "Десять тысяч за каждую новую передачу.",
+          "trans": "Ten thousand for each new broadcast."
+        }
+      ],
+      "related": [
+        {
+          "word": "удача",
+          "gloss": "luck"
+        },
+        {
+          "word": "задача",
+          "gloss": "task"
+        },
+        {
+          "word": "дача",
+          "gloss": "dacha"
         }
       ]
     },
@@ -4330,6 +4747,24 @@
         {
           "text": "Кто платит?",
           "trans": "Who is paying?"
+        },
+        {
+          "text": "А вашу работу вернуть можно. И мы хорошо платим.",
+          "trans": "But we can get your job back for you. And we pay well."
+        }
+      ],
+      "related": [
+        {
+          "word": "заплатить",
+          "gloss": "to pay"
+        },
+        {
+          "word": "бесплатный",
+          "gloss": "free"
+        },
+        {
+          "word": "бесплатно",
+          "gloss": "for free"
         }
       ]
     },
@@ -4425,6 +4860,16 @@
         {
           "text": "Подождите минуту.",
           "trans": "Wait a minute."
+        },
+        {
+          "text": "Подожди, Нин, ты не поняла. Это же стыдно!",
+          "trans": "Wait, Nina, you don't get it. It's shameful!"
+        }
+      ],
+      "related": [
+        {
+          "word": "ждать",
+          "gloss": "to wait"
         }
       ]
     },
@@ -4518,6 +4963,24 @@
         {
           "text": "Я тоже могу быть постоянным клиентом!",
           "trans": "I can be a regular client too!"
+        },
+        {
+          "text": "Тест-драйв у нас только для постоянных клиентов.",
+          "trans": "Our test drive is only for regular clients."
+        }
+      ],
+      "related": [
+        {
+          "word": "постоять",
+          "gloss": "to stand for a while"
+        },
+        {
+          "word": "обстоятельство",
+          "gloss": "circumstance"
+        },
+        {
+          "word": "настоящий",
+          "gloss": "real"
         }
       ]
     },
@@ -4531,7 +4994,7 @@
       "meanings": [
         {
           "en": "to suggest",
-          "note": ""
+          "note": "+ accusative + dative"
         },
         {
           "en": "to offer",
@@ -4617,6 +5080,20 @@
         {
           "text": "Он предлагает работу.",
           "trans": "He is offering a job."
+        },
+        {
+          "text": "Ну, что вы предлагаете?",
+          "trans": "So what do you suggest?"
+        }
+      ],
+      "related": [
+        {
+          "word": "предложить",
+          "gloss": "to offer"
+        },
+        {
+          "word": "полагаться",
+          "gloss": "to be due"
         }
       ]
     },
@@ -4630,7 +5107,7 @@
       "meanings": [
         {
           "en": "to offer",
-          "note": ""
+          "note": "Prefix 'пред-' ('before, fore-') indicates anticipation or prior position (stem 'ложить'). Used as an perfective (single completed action) verb meaning 'to offer, to suggest', paired with 'предлагать'."
         },
         {
           "en": "to suggest",
@@ -4699,6 +5176,24 @@
         {
           "text": "Он предложил кофе.",
           "trans": "He offered coffee."
+        },
+        {
+          "text": "Тебе же предложили работу. Что, плохая работа?",
+          "trans": "But you were offered a job. What, is it a bad job?"
+        }
+      ],
+      "related": [
+        {
+          "word": "предлагать",
+          "gloss": "to suggest"
+        },
+        {
+          "word": "положительный",
+          "gloss": "positive"
+        },
+        {
+          "word": "заложить",
+          "gloss": "to lay"
         }
       ]
     },
@@ -4711,7 +5206,7 @@
       "meanings": [
         {
           "en": "producer",
-          "note": ""
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'дюсер'). Common masculine noun meaning 'producer' in everyday Russian."
         }
       ],
       "forms": {
@@ -4771,6 +5266,16 @@
         {
           "text": "Наши продюсеры хотят предложить вам работу.",
           "trans": "Our producers want to offer you a job."
+        },
+        {
+          "text": "И что решили ваши строгие продюсеры?",
+          "trans": "And what did your strict producers decide?"
+        }
+      ],
+      "related": [
+        {
+          "word": "продюсерный",
+          "gloss": "related to producer (adj.)"
         }
       ]
     },
@@ -4783,7 +5288,7 @@
       "meanings": [
         {
           "en": "to forgive, pardon",
-          "note": ""
+          "note": "imperative 'прощайте' = farewell"
         },
         {
           "en": "to say goodbye",
@@ -4846,6 +5351,20 @@
         {
           "text": "Всего хорошего. Прощайте!",
           "trans": "All the best. Farewell!"
+        },
+        {
+          "text": "Тогда прощай, я должен срочно уйти.",
+          "trans": "Then farewell, I must urgently leave."
+        },
+        {
+          "text": "Прощайте, наш старый коммунальный дом!",
+          "trans": "Farewell, our old communal apartment!"
+        }
+      ],
+      "related": [
+        {
+          "word": "общаться",
+          "gloss": "to communicate"
         }
       ]
     },
@@ -4858,7 +5377,7 @@
       "meanings": [
         {
           "en": "work",
-          "note": ""
+          "note": "'на работе' = at work"
         },
         {
           "en": "job",
@@ -4926,6 +5445,24 @@
         {
           "text": "Работы очень много.",
           "trans": "There's a lot of work."
+        },
+        {
+          "text": "Я на работе.",
+          "trans": "I'm at work."
+        }
+      ],
+      "related": [
+        {
+          "word": "работать",
+          "gloss": "to work"
+        },
+        {
+          "word": "поработать",
+          "gloss": "to work for a while"
+        },
+        {
+          "word": "рабочий",
+          "gloss": "working"
         }
       ]
     },
@@ -5021,9 +5558,27 @@
         {
           "text": "Где вы работаете?",
           "trans": "Where do you work?"
+        },
+        {
+          "text": "Я уже четыре года работаю мэром.",
+          "trans": "I've been working as mayor for four years now."
         }
       ],
-      "governs": "+ instrumental (as)"
+      "governs": "+ instrumental (as)",
+      "related": [
+        {
+          "word": "поработать",
+          "gloss": "to work for a while"
+        },
+        {
+          "word": "работа",
+          "gloss": "work"
+        },
+        {
+          "word": "рабочий",
+          "gloss": "working"
+        }
+      ]
     },
     "ресторан": {
       "lemma": "ресторан",
@@ -5098,6 +5653,20 @@
         {
           "text": "Мы рады видеть вас в нашем ресторане.",
           "trans": "We are glad to see you in our restaurant."
+        },
+        {
+          "text": "Звонили из итальянского ресторана.",
+          "trans": "They called from the Italian restaurant."
+        }
+      ],
+      "related": [
+        {
+          "word": "реструктурировать",
+          "gloss": "to restructure"
+        },
+        {
+          "word": "ресторанный",
+          "gloss": "restaurant"
         }
       ]
     },
@@ -5111,7 +5680,7 @@
       "meanings": [
         {
           "en": "to decide",
-          "note": ""
+          "note": "+ infinitive: решил стать = decided to become"
         },
         {
           "en": "to solve",
@@ -5197,6 +5766,24 @@
         {
           "text": "Я решил.",
           "trans": "I've decided."
+        },
+        {
+          "text": "Суд решил: домашний арест по месту прописки.",
+          "trans": "The court has decided: house arrest at his registered address."
+        }
+      ],
+      "related": [
+        {
+          "word": "решать",
+          "gloss": "to decide"
+        },
+        {
+          "word": "разрешить",
+          "gloss": "to allow"
+        },
+        {
+          "word": "разрешиться",
+          "gloss": "to be resolved"
         }
       ]
     },
@@ -5273,6 +5860,16 @@
         {
           "text": "У меня нет ни рубля.",
           "trans": "I haven't got a single rouble."
+        },
+        {
+          "text": "Наша задача — взять у взяточников миллиард рублей.",
+          "trans": "Our task is to take a billion roubles from the bribe-takers."
+        }
+      ],
+      "related": [
+        {
+          "word": "рублный",
+          "gloss": "related to rouble (adj.)"
         }
       ]
     },
@@ -5353,6 +5950,16 @@
         {
           "text": "У меня сегодня свидание.",
           "trans": "I have a date today."
+        },
+        {
+          "text": "У неё свидание.",
+          "trans": "She has a date."
+        }
+      ],
+      "related": [
+        {
+          "word": "видать",
+          "gloss": "to see"
         }
       ]
     },
@@ -5448,6 +6055,24 @@
         {
           "text": "Я сделаю это завтра.",
           "trans": "I'll do it tomorrow."
+        },
+        {
+          "text": "Мы сделали много, но надо сделать ещё больше.",
+          "trans": "We've done a lot, but we need to do even more."
+        }
+      ],
+      "related": [
+        {
+          "word": "делать",
+          "gloss": "to do"
+        },
+        {
+          "word": "переделать",
+          "gloss": "to redo"
+        },
+        {
+          "word": "сделанный",
+          "gloss": "made"
         }
       ]
     },
@@ -5476,6 +6101,24 @@
         {
           "text": "Сколько стоит?",
           "trans": "How much is it?"
+        },
+        {
+          "text": "Сколько жвачки! Класс!",
+          "trans": "So much gum! Cool!"
+        }
+      ],
+      "related": [
+        {
+          "word": "кольцо",
+          "gloss": "ring"
+        },
+        {
+          "word": "прикольно",
+          "gloss": "cool"
+        },
+        {
+          "word": "прикольный",
+          "gloss": "cool"
         }
       ]
     },
@@ -5579,6 +6222,24 @@
         {
           "text": "Да, слушаю.",
           "trans": "Yes, I'm listening."
+        },
+        {
+          "text": "Слушай, Самсон, я тут подумал. Твой начальник — такой опытный специалист.",
+          "trans": "Listen, Samson, I've been thinking. Your boss is such an experienced specialist."
+        }
+      ],
+      "related": [
+        {
+          "word": "послушать",
+          "gloss": "to listen"
+        },
+        {
+          "word": "слушание",
+          "gloss": "hearing"
+        },
+        {
+          "word": "слушаться",
+          "gloss": "to obey"
         }
       ]
     },
@@ -5590,7 +6251,7 @@
       "meanings": [
         {
           "en": "funny, amusing",
-          "note": ""
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'мешной'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('funny, ridiculous')."
         },
         {
           "en": "ridiculous, laughable",
@@ -5672,6 +6333,16 @@
         {
           "text": "Это смешная история.",
           "trans": "That's a funny story."
+        },
+        {
+          "text": "Ты такой смешной, Тузик! Кто такой сладкий?",
+          "trans": "You're so funny, Tuzik! Who's so sweet?"
+        }
+      ],
+      "related": [
+        {
+          "word": "смешно",
+          "gloss": "funny"
         }
       ]
     },
@@ -5683,7 +6354,7 @@
       "meanings": [
         {
           "en": "calmly, quietly, in peace",
-          "note": ""
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'покойно'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
         }
       ],
       "forms": null,
@@ -5696,6 +6367,24 @@
         {
           "text": "Он сидел спокойно.",
           "trans": "He sat calmly."
+        },
+        {
+          "text": "Его не будет часа два. Вы спокойно всё сделаете.",
+          "trans": "He'll be gone for about two hours. You'll do everything calmly."
+        }
+      ],
+      "related": [
+        {
+          "word": "беспокоить",
+          "gloss": "to bother"
+        },
+        {
+          "word": "беспокоиться",
+          "gloss": "to worry"
+        },
+        {
+          "word": "спокойный",
+          "gloss": "calm"
         }
       ]
     },
@@ -5707,7 +6396,7 @@
       "meanings": [
         {
           "en": "strict, stern, severe",
-          "note": ""
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'трогий'). Agrees in gender, number, and case with the noun it modifies ('strict, stern')."
         }
       ],
       "forms": {
@@ -5785,6 +6474,24 @@
         {
           "text": "У нас в школе очень строгий директор.",
           "trans": "We have a very strict principal at our school."
+        },
+        {
+          "text": "Ой, спина не разгибается! Какая вы строгая, Клавдия Викторовна.",
+          "trans": "Ow, my back won't straighten! How strict you are, Klavdia Viktorovna."
+        }
+      ],
+      "related": [
+        {
+          "word": "трогать",
+          "gloss": "to touch"
+        },
+        {
+          "word": "строго",
+          "gloss": "strictly"
+        },
+        {
+          "word": "растрогать",
+          "gloss": "to move"
         }
       ]
     },
@@ -5796,14 +6503,79 @@
       "meanings": [
         {
           "en": "such, so",
-          "note": ""
+          "note": "'что я за мэр такой' = what kind of mayor am I"
         },
         {
           "en": "что такое? = what's this?",
           "note": ""
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "такой",
+              "такая",
+              "такое",
+              "такие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "такого",
+              "такой",
+              "такого",
+              "таких"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "такому",
+              "такой",
+              "такому",
+              "таким"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "такой / такого",
+              "такую",
+              "такое",
+              "такие / таких"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "таким",
+              "такой",
+              "таким",
+              "такими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "таком",
+              "такой",
+              "таком",
+              "таких"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -5813,6 +6585,20 @@
         {
           "text": "Он такой добрый.",
           "trans": "He's so kind."
+        },
+        {
+          "text": "Павел Юрьевич, это что такое?",
+          "trans": "Pavel Yuryevich, what is this?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тако",
+          "gloss": "in a such way (adv.)"
+        },
+        {
+          "word": "такость",
+          "gloss": "quality of being such"
         }
       ]
     },
@@ -5841,6 +6627,16 @@
         {
           "text": "Тогда приходи завтра.",
           "trans": "Then come tomorrow."
+        },
+        {
+          "text": "Я тебе тогда сказал: ты меня ещё поцелуешь.",
+          "trans": "I told you back then: you'll kiss me one day."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень тогда",
+          "gloss": "intensified / related adverb (then)"
         }
       ]
     },
@@ -5917,6 +6713,16 @@
         {
           "text": "Тысяча рублей.",
           "trans": "A thousand roubles."
+        },
+        {
+          "text": "Мы построим кластер. Это тысячи рабочих мест.",
+          "trans": "We will build the cluster. That means thousands of jobs."
+        }
+      ],
+      "related": [
+        {
+          "word": "тысячный",
+          "gloss": "related to thousand (adj.)"
         }
       ]
     },
@@ -5995,6 +6801,20 @@
         {
           "text": "Не хочешь, как хочешь.",
           "trans": "If you don't want to, suit yourself."
+        },
+        {
+          "text": "Там хотят построить торговый центр.",
+          "trans": "They want to build a shopping centre there."
+        }
+      ],
+      "related": [
+        {
+          "word": "захотеть",
+          "gloss": "to want"
+        },
+        {
+          "word": "хотеться",
+          "gloss": "to feel like"
         }
       ]
     },
@@ -6017,7 +6837,51 @@
           "note": ""
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "чего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "чему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "чем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "чём"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -6027,8 +6891,13 @@
         {
           "text": "Смотри, что у меня есть.",
           "trans": "Look what I've got."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
-      ]
+      ],
+      "related": []
     },
     "шоу": {
       "lemma": "шоу",
@@ -6099,6 +6968,20 @@
         {
           "text": "Сейчас мы устроим весёлое шоу.",
           "trans": "Now we will arrange a fun show."
+        },
+        {
+          "text": "Получилось отличное кулинарное шоу.",
+          "trans": "It turned out to be a great culinary show."
+        },
+        {
+          "text": "Хватит кричать, вышло отличное шоу!",
+          "trans": "Stop shouting, it turned out a great show!"
+        }
+      ],
+      "related": [
+        {
+          "word": "шоуный",
+          "gloss": "related to show (adj.)"
         }
       ]
     },
@@ -6110,7 +6993,7 @@
       "meanings": [
         {
           "en": "this, that",
-          "note": ""
+          "note": "pointing at a thing or a situation; 'это' + noun = 'this is ...'"
         },
         {
           "en": "this is, that is",
@@ -6125,7 +7008,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "этого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "этому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "этим"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "этом"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -6135,6 +7062,16 @@
         {
           "text": "А это тебе.",
           "trans": "And this is for you."
+        },
+        {
+          "text": "А это тебе. Машинка!",
+          "trans": "And this is for you. A toy car!"
+        }
+      ],
+      "related": [
+        {
+          "word": "этот",
+          "gloss": "this (before a noun)"
         }
       ]
     },
@@ -6146,14 +7083,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -6163,6 +7144,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     }

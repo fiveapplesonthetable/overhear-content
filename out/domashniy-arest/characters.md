@@ -76,10 +76,10 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
   Label: Марина.
 - Speech: polite *вы* with the mayor; firm, idealistic. "Не надо врать."
 
-## Лидия Алексеевна (Lidia Alekseyevna; the mayor's secretary; first seen s01e01)
-- Appearance for the art: woman about 60, light skin, auburn hair in a tight bun, beige blouse `#E9D8BE`, string of
-  pearls, often carrying a small white coffee cup on a saucer.
-- Story role key / voice: `secretary` -> angelina. Label: Лидия Алексеевна.
+## Лидия Алексеевна (Lidia Alekseyevna; mayor's secretary and City Hall archivist; first seen s01e01, major role s01e05)
+- Who: middle-aged City Hall secretary and archivist secretly devoted to Arkady Borisovich; helps Ilona copy Arkady's signed building order in s01e05 and stalls Pasha in the corridor by throwing her arms around his neck and declaring her passionate love for him ("Это моя женская честь!").
+- Appearance for the art: plump woman about 58, light skin `#F6D2B5`, auburn hair `#A64B3A` pinned up in a tight bun, horn-rimmed glasses on a chain, string of pearls, purple knitted shawl `#7A4E8A` over a beige blouse `#E9D8BE`, often carrying a small white coffee cup or archive folder.
+- Story role key / voice: `secretary` or `lydia` -> `angelina` or `anja`. Label: Лидия Алексеевна.
 - Speech: polite *вы*. "Хорошо, Аркадий Борисович."
 
 ## Аракелян, "Ара" (Arakelyan; businessman who pays the bribe; first seen s01e01)
@@ -297,14 +297,6 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
   - Андрюша: younger man about 32, light skin, sandy hair, thick-lensed glasses (low vision, "слабовидящий"), green
     cardigan `#4E8A6E`, carrying cardboard boxes of dried herbs. Role `andryusha` -> angelina (or `anja`). Label: Андрюша.
 
-## Лидия Алексеевна (Lydia Alexeyevna; City Hall archivist; s01e05 sc. 13 and 17)
-- Who: middle-aged City Hall archivist who is secretly devoted to Arkady Borisovich; helps Ilona copy Arkady's signed
-  building order and stalls Pasha in the corridor by throwing her arms around his neck and declaring her passionate love
-  for him ("Это моя женская честь!").
-- Appearance for the art: plump woman about 55, light skin, curly dyed-red hair `#A64B3A` pinned up in a bun, horn-rimmed
-  glasses on a chain, purple knitted shawl `#7A4E8A` over a floral blouse.
-- Story role key / voice: `lydia` -> anja (or `angelina`). Label: Лидия Алексеевна.
-
 ## Вениамин Игоревич Игнатьев и его дочь Галина (Veniamin Igorevich Ignatyev and Galina; s01e06)
 - Who: wealthy owner of the Sineozersk meatpacking plant («Синеозёрский мясокомбинат») who despises both Arkady and
   Osipenko because City Hall tried to squeeze his business, yet has a tender heart for orphans and adores his estranged
@@ -356,6 +348,14 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
   Суренович (sc. 33).
 - Денис Мишин (FSB IT technician, sc. 10): young man in glasses and a grey sweater fixing Colonel Mikhail Mikhailovich's computer;
   role `tech` -> angelina, label Денис.
+
+## Recurring & Guest Characters (s01e08–s01e12)
+- **Отец Григорий (Father Grigory; monastery priest; s01e08–s01e12)**: bearded Orthodox priest about 55, light skin `#F6D2B5`, long grey-streaked dark beard and hair `#3B261E`, tall black klobuk/kamilavka hat and long black cassock `#24242C` with a silver pectoral cross (simple shape). Role `grigory` -> `anja`. Label: Отец Григорий.
+- **Татьяна / Заведующая детсадом (kindergarten director; s01e08)**: plump woman about 48, light skin `#F6D2B5`, blonde bouffant hair `#E8C56B`, glasses, coral jacket `#D96B5A` over a cream blouse. Role `tanya` -> `anja` or `angelina`. Label: Татьяна.
+- **Толя / Анатолий (Anatoly; operative / associate; s01e08–s01e11)**: stocky man about 40, light skin `#F6D2B5`, short brown hair `#5A3E2B`, dark olive field jacket `#4B5D3A`. Role `tolya` -> `anja`. Label: Толя.
+- **Беленьков и Тарачков (regional officials / investigators; s01e09–s01e12)**: stern middle-aged officials in dark navy `#2C3E58` and charcoal `#36404A` suits with ties and folders. Labels: Беленьков / Тарачков.
+- **Ветеран (World War II / Soviet veteran; s01e09)**: elderly man about 82, light skin `#F6D2B5`, white hair, dark blazer `#2E3A5E` decorated with geometric medal ribbons on the chest. Role `veteran` -> `anja`. Label: Ветеран.
+- **Певец (chanson / campaign singer; s01e08–s01e10)**: flamboyant singer in a shiny burgundy stage jacket `#8E2F3B` holding a microphone. Label: Певец.
 
 ## Places
 - Коммуналка (the communal flat): long dim corridor with old olive-green walls `#7C8B4F`, brown wooden doors,

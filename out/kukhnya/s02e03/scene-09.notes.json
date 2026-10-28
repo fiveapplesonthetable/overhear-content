@@ -74,11 +74,11 @@
         },
         {
           "t": "зеленом",
-          "lemma": "зеленом",
-          "pos": "noun",
+          "lemma": "зелёный",
+          "pos": "adj",
           "stress": "зеле́ном",
           "gloss": "green",
-          "gram": "noun"
+          "gram": "instrumental singular"
         },
         {
           "t": "платье?",
@@ -178,11 +178,11 @@
         },
         {
           "t": "ее",
-          "lemma": "ее",
-          "pos": "noun",
+          "lemma": "её",
+          "pos": "pron",
           "stress": "е́е",
           "gloss": "her, hers",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         },
         {
           "t": "не",
@@ -314,11 +314,11 @@
         },
         {
           "t": "ее",
-          "lemma": "ее",
-          "pos": "noun",
+          "lemma": "её",
+          "pos": "pron",
           "stress": "е́е",
           "gloss": "her, hers",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         },
         {
           "t": "найти.",
@@ -434,11 +434,11 @@
         },
         {
           "t": "зеленом",
-          "lemma": "зеленом",
-          "pos": "noun",
+          "lemma": "зелёный",
+          "pos": "adj",
           "stress": "зеле́ном",
           "gloss": "green",
-          "gram": "noun"
+          "gram": "instrumental singular"
         },
         {
           "t": "платье?",
@@ -538,11 +538,11 @@
         },
         {
           "t": "ее",
-          "lemma": "ее",
-          "pos": "noun",
+          "lemma": "её",
+          "pos": "pron",
           "stress": "е́е",
           "gloss": "her, hers",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         },
         {
           "t": "не",
@@ -674,11 +674,11 @@
         },
         {
           "t": "ее",
-          "lemma": "ее",
-          "pos": "noun",
+          "lemma": "её",
+          "pos": "pron",
           "stress": "е́е",
           "gloss": "her, hers",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         },
         {
           "t": "найти.",
@@ -794,11 +794,11 @@
         },
         {
           "t": "зеленом",
-          "lemma": "зеленом",
-          "pos": "noun",
+          "lemma": "зелёный",
+          "pos": "adj",
           "stress": "зеле́ном",
           "gloss": "green",
-          "gram": "noun"
+          "gram": "instrumental singular"
         },
         {
           "t": "платье?",
@@ -898,11 +898,11 @@
         },
         {
           "t": "ее",
-          "lemma": "ее",
-          "pos": "noun",
+          "lemma": "её",
+          "pos": "pron",
           "stress": "е́е",
           "gloss": "her, hers",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         },
         {
           "t": "не",
@@ -1034,11 +1034,11 @@
         },
         {
           "t": "ее",
-          "lemma": "ее",
-          "pos": "noun",
+          "lemma": "её",
+          "pos": "pron",
           "stress": "е́е",
           "gloss": "her, hers",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         },
         {
           "t": "найти.",
@@ -1125,18 +1125,28 @@
         {
           "text": "Привет! Как дела?",
           "trans": "Hi! How are things?"
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
+        }
+      ],
+      "related": [
+        {
+          "word": "привал",
+          "gloss": "halt"
         }
       ]
     },
     "здесь": {
       "lemma": "здесь",
-      "stress": null,
+      "stress": "здесь",
       "pos": "adv",
       "gloss": "here",
       "meanings": [
         {
           "en": "here",
-          "note": ""
+          "note": "location"
         }
       ],
       "forms": null,
@@ -1149,6 +1159,16 @@
         {
           "text": "Мы здесь живём.",
           "trans": "We live here."
+        },
+        {
+          "text": "Мы же бизнесом здесь занимаемся.",
+          "trans": "But we're in business here."
+        }
+      ],
+      "related": [
+        {
+          "word": "тут",
+          "gloss": "here (colloquial)"
         }
       ]
     },
@@ -1288,6 +1308,20 @@
           "text": "Ты будешь просить прощения.",
           "trans": "You will be asking for forgiveness."
         }
+      ],
+      "related": [
+        {
+          "word": "забыть",
+          "gloss": "to forget"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
+        },
+        {
+          "word": "побыть",
+          "gloss": "to stay for a while"
+        }
       ]
     },
     "девушка": {
@@ -1363,6 +1397,16 @@
         {
           "text": "Это моя девушка Лёля.",
           "trans": "This is my girlfriend Lyolya."
+        },
+        {
+          "text": "Это моя девушка.",
+          "trans": "She's my girlfriend."
+        }
+      ],
+      "related": [
+        {
+          "word": "девушкный",
+          "gloss": "related to girl (adj.)"
         }
       ]
     },
@@ -1391,72 +1435,116 @@
         {
           "text": "Я вырос в коммуналке.",
           "trans": "I grew up in a communal flat."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
         }
-      ]
+      ],
+      "related": []
     },
-    "зеленом": {
-      "lemma": "зеленом",
-      "stress": "зеле́ном",
-      "pos": "noun",
+    "зелёный": {
+      "lemma": "зелёный",
+      "stress": "зелёный",
+      "pos": "adj",
       "gloss": "green",
       "meanings": [
         {
           "en": "green",
-          "examples": []
+          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('green')."
         }
       ],
       "forms": {
         "title": "Declension",
         "columns": [
           "",
-          "sg",
+          "m",
+          "f",
+          "n",
           "pl"
         ],
         "rows": [
           {
             "cells": [
-              "nom",
-              "зеленом",
-              "зеленомы"
+              "nominative",
+              "зелёный",
+              "зелёная",
+              "зелёное",
+              "зелёные"
             ]
           },
           {
             "cells": [
-              "gen",
-              "зеленома",
-              "зеленомов"
+              "genitive",
+              "зелёного",
+              "зелёной",
+              "зелёного",
+              "зелёных"
             ]
           },
           {
             "cells": [
-              "dat",
-              "зеленому",
-              "зеленомам"
+              "dative",
+              "зелёному",
+              "зелёной",
+              "зелёному",
+              "зелёным"
             ]
           },
           {
             "cells": [
-              "acc",
-              "зеленом",
-              "зеленомы"
+              "accusative",
+              "зелёный",
+              "зелёную",
+              "зелёное",
+              "зелёные"
             ]
           },
           {
             "cells": [
-              "inst",
-              "зеленомом",
-              "зеленомами"
+              "instrumental",
+              "зелёным",
+              "зелёной",
+              "зелёным",
+              "зелёными"
             ]
           },
           {
             "cells": [
-              "prep",
-              "зеленоме",
-              "зеленомах"
+              "prepositional",
+              "зелёном",
+              "зелёной",
+              "зелёном",
+              "зелёных"
             ]
           }
         ]
-      }
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "зелёно",
+          "gloss": "in a green way (adv.)"
+        },
+        {
+          "word": "зелёность",
+          "gloss": "quality of being green"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Мы пьём горячий зелёный чай.",
+          "trans": "We are drinking hot green tea."
+        },
+        {
+          "text": "Уходи отсюда со своим зелёным чаем!",
+          "trans": "Get out of here with your green tea!"
+        },
+        {
+          "text": "И зелёный чай?",
+          "trans": "And green tea?"
+        }
+      ]
     },
     "платье": {
       "lemma": "платье",
@@ -1467,7 +1555,7 @@
       "meanings": [
         {
           "en": "dress, frock",
-          "note": null
+          "note": "Common neuter noun meaning 'dress, gown' in everyday Russian."
         }
       ],
       "forms": {
@@ -1531,6 +1619,24 @@
         {
           "text": "На ней красивое летнее платье.",
           "trans": "She is wearing a pretty summer dress."
+        },
+        {
+          "text": "Подожди. Купи себе платье или бабушке что-нибудь.",
+          "trans": "Wait. Buy yourself a dress or something for your grandmother."
+        }
+      ],
+      "related": [
+        {
+          "word": "платить",
+          "gloss": "to pay"
+        },
+        {
+          "word": "бесплатный",
+          "gloss": "free"
+        },
+        {
+          "word": "бесплатно",
+          "gloss": "for free"
         }
       ]
     },
@@ -1559,6 +1665,16 @@
         {
           "text": "Я вообще не знаю.",
           "trans": "I have no idea at all."
+        },
+        {
+          "text": "Я человек чистый. Я вообще не вор.",
+          "trans": "I'm an honest man. I'm not a thief at all."
+        }
+      ],
+      "related": [
+        {
+          "word": "вообще-то",
+          "gloss": "actually"
         }
       ]
     },
@@ -1570,7 +1686,7 @@
       "meanings": [
         {
           "en": "yes",
-          "note": ""
+          "note": "emphatic at the start of a sentence"
         },
         {
           "en": "да ну? = really?, oh yeah?",
@@ -1587,8 +1703,13 @@
         {
           "text": "Да, это я.",
           "trans": "Yes, it's me."
+        },
+        {
+          "text": "Да ну? Когда?",
+          "trans": "Oh yeah? When?"
         }
-      ]
+      ],
+      "related": []
     },
     "где": {
       "lemma": "где",
@@ -1598,7 +1719,7 @@
       "meanings": [
         {
           "en": "where",
-          "note": ""
+          "note": "location; for direction use 'куда'"
         }
       ],
       "forms": null,
@@ -1611,6 +1732,16 @@
         {
           "text": "Где папа?",
           "trans": "Where's Dad?"
+        },
+        {
+          "text": "А где машинка? Где моя машинка?",
+          "trans": "Hey, where's the toy car? Where's my toy car?"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень где",
+          "gloss": "intensified / related adverb (where)"
         }
       ]
     },
@@ -1635,8 +1766,13 @@
         {
           "text": "Я о ней не слышал.",
           "trans": "I haven't heard of her."
+        },
+        {
+          "text": "Паша, я больше не хочу о ней слышать. Понял?",
+          "trans": "Pasha, I don't want to hear about her again. Understood?"
         }
-      ]
+      ],
+      "related": []
     },
     "я": {
       "lemma": "я",
@@ -1646,14 +1782,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1663,6 +1843,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -1687,8 +1881,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "знать": {
       "lemma": "знать",
@@ -1765,6 +1964,24 @@
         {
           "text": "Я не знаю.",
           "trans": "I don't know."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "узнать",
+          "gloss": "to recognise"
+        },
+        {
+          "word": "признаться",
+          "gloss": "to confess"
+        },
+        {
+          "word": "признательный",
+          "gloss": "grateful"
         }
       ]
     },
@@ -1783,7 +2000,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1793,18 +2054,32 @@
         {
           "text": "У тебя есть ещё?",
           "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
         }
       ]
     },
-    "ее": {
-      "lemma": "ее",
-      "stress": "е́е",
-      "pos": "noun",
+    "её": {
+      "lemma": "её",
+      "stress": "её",
+      "pos": "pron",
       "gloss": "her, hers",
       "meanings": [
         {
           "en": "her, hers",
-          "examples": []
+          "note": "Core Russian pron meaning 'her, hers' in everyday speech."
         }
       ],
       "forms": {
@@ -1858,7 +2133,22 @@
             ]
           }
         ]
-      }
+      },
+      "related": [],
+      "examples": [
+        {
+          "text": "Один он ее не потянет.",
+          "trans": "He cannot afford it on his own."
+        },
+        {
+          "text": "Ты ее не видела?",
+          "trans": "You didn't see her?"
+        },
+        {
+          "text": "Мне нужно ее найти.",
+          "trans": "I need to find her."
+        }
+      ]
     },
     "видеть": {
       "lemma": "видеть",
@@ -1870,7 +2160,7 @@
       "meanings": [
         {
           "en": "to see",
-          "note": ""
+          "note": "drawing attention"
         },
         {
           "en": "видишь? = see?",
@@ -1939,6 +2229,24 @@
         {
           "text": "Я вижу машинку.",
           "trans": "I can see the toy car."
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
+        }
+      ],
+      "related": [
+        {
+          "word": "увидеть",
+          "gloss": "to see"
+        },
+        {
+          "word": "свидетель",
+          "gloss": "witness"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -1963,6 +2271,24 @@
         {
           "text": "Это странно.",
           "trans": "That's strange."
+        },
+        {
+          "text": "Как странно, я ничего об этом не слышал.",
+          "trans": "How strange, I've heard nothing about it."
+        }
+      ],
+      "related": [
+        {
+          "word": "странный",
+          "gloss": "strange"
+        },
+        {
+          "word": "страна",
+          "gloss": "country"
+        },
+        {
+          "word": "страница",
+          "gloss": "page"
         }
       ]
     },
@@ -2041,6 +2367,16 @@
         {
           "text": "Этого не может быть.",
           "trans": "That can't be."
+        },
+        {
+          "text": "Этого не может быть. Это наша история.",
+          "trans": "That can't be. It's our history."
+        }
+      ],
+      "related": [
+        {
+          "word": "может",
+          "gloss": "maybe"
         }
       ]
     },
@@ -2054,7 +2390,7 @@
       "meanings": [
         {
           "en": "to leave, to go away, to walk out",
-          "note": ""
+          "note": "Used as an perfective (single completed action) verb meaning 'to leave, to go away (on foot)', paired with 'уходить'."
         }
       ],
       "forms": {
@@ -2136,6 +2472,16 @@
         {
           "text": "Она уже ушла домой.",
           "trans": "She has already gone home."
+        },
+        {
+          "text": "А мне что, уйти?",
+          "trans": "So should I leave?"
+        }
+      ],
+      "related": [
+        {
+          "word": "уходить",
+          "gloss": "to leave"
         }
       ]
     },
@@ -2160,9 +2506,23 @@
         {
           "text": "Тебе нужно отдохнуть.",
           "trans": "You need to rest."
+        },
+        {
+          "text": "Мне нужно позвонить губернатору. Дай телефон.",
+          "trans": "I need to call the governor. Give me a phone."
         }
       ],
-      "governs": "+ dative + infinitive"
+      "governs": "+ dative + infinitive",
+      "related": [
+        {
+          "word": "нужный",
+          "gloss": "necessary"
+        },
+        {
+          "word": "нужнее",
+          "gloss": "more needed"
+        }
+      ]
     },
     "найти": {
       "lemma": "найти",
@@ -2174,7 +2534,7 @@
       "meanings": [
         {
           "en": "to find",
-          "note": ""
+          "note": "Used as an perfective (single completed action) verb meaning 'to find', paired with 'находить'."
         }
       ],
       "forms": {
@@ -2256,6 +2616,16 @@
         {
           "text": "Я нашёл телефон.",
           "trans": "I found the phone."
+        },
+        {
+          "text": "Ну где я сейчас найду грузчиков?",
+          "trans": "Well, where am I going to find movers right now?"
+        }
+      ],
+      "related": [
+        {
+          "word": "находить",
+          "gloss": "to find"
         }
       ]
     },
@@ -2355,18 +2725,37 @@
         {
           "text": "Я только посмотрел.",
           "trans": "I only had a look."
+        },
+        {
+          "text": "А можно я пойду посмотрю?",
+          "trans": "Can I go and have a look?"
+        }
+      ],
+      "related": [
+        {
+          "word": "смотреть",
+          "gloss": "to look"
+        },
+        {
+          "word": "пересмотр",
+          "gloss": "review"
+        },
+        {
+          "word": "просмотр",
+          "gloss": "view"
         }
       ]
     },
     "бар": {
       "lemma": "бар",
-      "stress": null,
+      "stress": "бар",
       "pos": "noun",
       "gender": "m",
       "gloss": "bar, pub",
       "meanings": [
         {
-          "en": "bar, pub, tavern"
+          "en": "bar, pub, tavern",
+          "note": "Common masculine noun meaning 'bar, pub' in everyday Russian."
         }
       ],
       "forms": {
@@ -2426,6 +2815,20 @@
         {
           "text": "Наш бар закрывается.",
           "trans": "Our bar is closing."
+        },
+        {
+          "text": "Проверьте все бары и старых друзей.",
+          "trans": "Check all the bars and old friends."
+        },
+        {
+          "text": "Уже утро. Наш бар закрывается.",
+          "trans": "It is already morning. Our bar is closing."
+        }
+      ],
+      "related": [
+        {
+          "word": "барный",
+          "gloss": "related to bar (adj.)"
         }
       ]
     },
@@ -2454,8 +2857,13 @@
         {
           "text": "До завтра!",
           "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
         }
-      ]
+      ],
+      "related": []
     },
     "встреча": {
       "lemma": "встреча",
@@ -2466,7 +2874,7 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": ""
+          "note": "in 'до встречи' = until we meet"
         },
         {
           "en": "see you",
@@ -2534,6 +2942,24 @@
         {
           "text": "У меня встреча.",
           "trans": "I have a meeting."
+        },
+        {
+          "text": "Решается ваш вопрос, Клавдия Викторовна! Вы не видите, у меня встреча?",
+          "trans": "Your question is being sorted out, Klavdia Viktorovna! Can't you see I have a meeting?"
+        }
+      ],
+      "related": [
+        {
+          "word": "встретиться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встречаться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встретить",
+          "gloss": "to meet"
         }
       ]
     }

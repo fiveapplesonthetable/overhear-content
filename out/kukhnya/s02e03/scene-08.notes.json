@@ -72,7 +72,7 @@
           "pos": "verb",
           "stress": "вы́тру",
           "gloss": "to wipe, wipe dry",
-          "gram": "verb"
+          "gram": "1st person singular"
         }
       ]
     },
@@ -192,7 +192,7 @@
           "pos": "noun",
           "stress": "руково́дству",
           "gloss": "leadership, management",
-          "gram": "noun"
+          "gram": "accusative / dative singular"
         }
       ]
     },
@@ -448,7 +448,7 @@
           "pos": "verb",
           "stress": "вы́тру",
           "gloss": "to wipe, wipe dry",
-          "gram": "verb"
+          "gram": "1st person singular"
         }
       ]
     },
@@ -568,7 +568,7 @@
           "pos": "noun",
           "stress": "руково́дству",
           "gloss": "leadership, management",
-          "gram": "noun"
+          "gram": "accusative / dative singular"
         }
       ]
     },
@@ -824,7 +824,7 @@
           "pos": "verb",
           "stress": "вы́тру",
           "gloss": "to wipe, wipe dry",
-          "gram": "verb"
+          "gram": "1st person singular"
         }
       ]
     },
@@ -944,7 +944,7 @@
           "pos": "noun",
           "stress": "руково́дству",
           "gloss": "leadership, management",
-          "gram": "noun"
+          "gram": "accusative / dative singular"
         }
       ]
     },
@@ -1160,14 +1160,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1177,6 +1221,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -1201,8 +1259,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "хотеть": {
       "lemma": "хотеть",
@@ -1279,6 +1342,20 @@
         {
           "text": "Не хочешь, как хочешь.",
           "trans": "If you don't want to, suit yourself."
+        },
+        {
+          "text": "Там хотят построить торговый центр.",
+          "trans": "They want to build a shopping centre there."
+        }
+      ],
+      "related": [
+        {
+          "word": "захотеть",
+          "gloss": "to want"
+        },
+        {
+          "word": "хотеться",
+          "gloss": "to feel like"
         }
       ]
     },
@@ -1291,7 +1368,7 @@
       "meanings": [
         {
           "en": "truth",
-          "note": ""
+          "note": "as a side word: Правда, всё нормально = Honestly, everything's fine"
         },
         {
           "en": "honestly, really",
@@ -1359,6 +1436,24 @@
         {
           "text": "Это правда.",
           "trans": "That's true."
+        },
+        {
+          "text": "Правда, Нин, всё нормально. Скажи что-нибудь, пожалуйста.",
+          "trans": "Honestly, Nina, everything's fine. Say something, please."
+        }
+      ],
+      "related": [
+        {
+          "word": "правильно",
+          "gloss": "right"
+        },
+        {
+          "word": "правый",
+          "gloss": "right"
+        },
+        {
+          "word": "правило",
+          "gloss": "rule"
         }
       ]
     },
@@ -1370,7 +1465,7 @@
       "meanings": [
         {
           "en": "now",
-          "note": ""
+          "note": "'сейчас буду' = I'll be right there"
         },
         {
           "en": "in a moment",
@@ -1387,6 +1482,16 @@
         {
           "text": "Сейчас приду.",
           "trans": "I'll be right there."
+        },
+        {
+          "text": "Конечно, помогу. Кто у вас сейчас начальник?",
+          "trans": "Of course I'll help. Who's your boss now?"
+        }
+      ],
+      "related": [
+        {
+          "word": "теперь",
+          "gloss": "now (after a change)"
         }
       ]
     },
@@ -1398,7 +1503,7 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": ""
+          "note": "the neuter form 'всё' used alone"
         },
         {
           "en": "everything",
@@ -1489,7 +1594,8 @@
           "text": "Поделись со всеми.",
           "trans": "Share with everyone."
         }
-      ]
+      ],
+      "related": []
     },
     "вытереть": {
       "lemma": "вытереть",
@@ -1583,6 +1689,24 @@
         {
           "text": "Вытри руки полотенцем.",
           "trans": "Wipe your hands with a towel."
+        },
+        {
+          "text": "Я уже вытерла слёзы и готова.",
+          "trans": "I already dried my tears and am ready."
+        }
+      ],
+      "related": [
+        {
+          "word": "вытирать",
+          "gloss": "to wipe"
+        },
+        {
+          "word": "тереть",
+          "gloss": "to rub"
+        },
+        {
+          "word": "растереть",
+          "gloss": "to rub down"
         }
       ]
     },
@@ -1607,6 +1731,20 @@
         {
           "text": "Надо сделать ещё больше.",
           "trans": "We need to do even more."
+        },
+        {
+          "text": "Надо его помыть!",
+          "trans": "It needs a wash!"
+        }
+      ],
+      "related": [
+        {
+          "word": "понадобиться",
+          "gloss": "to be needed"
+        },
+        {
+          "word": "ненадолго",
+          "gloss": "for a short time"
         }
       ]
     },
@@ -1620,7 +1758,7 @@
       "meanings": [
         {
           "en": "to cry, to weep",
-          "note": ""
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to cry, to weep', paired with 'заплакать'."
         }
       ],
       "forms": {
@@ -1702,6 +1840,24 @@
         {
           "text": "Почему девочка плачет?",
           "trans": "Why is the little girl crying?"
+        },
+        {
+          "text": "Ладно, не плачь.",
+          "trans": "All right, don't cry."
+        }
+      ],
+      "related": [
+        {
+          "word": "заплакать",
+          "gloss": "to cry"
+        },
+        {
+          "word": "плакат",
+          "gloss": "poster"
+        },
+        {
+          "word": "расплакаться",
+          "gloss": "to burst into tears"
         }
       ]
     },
@@ -1713,7 +1869,7 @@
       "meanings": [
         {
           "en": "well",
-          "note": ""
+          "note": "how something is done"
         },
         {
           "en": "good, fine",
@@ -1730,6 +1886,24 @@
         {
           "text": "Всё хорошо.",
           "trans": "Everything's fine."
+        },
+        {
+          "text": "Хорошо! Там всё нормально.",
+          "trans": "Good! Everything's fine over there."
+        }
+      ],
+      "related": [
+        {
+          "word": "хороший",
+          "gloss": "good"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
         }
       ]
     },
@@ -1748,7 +1922,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "вы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "вам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "вами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "вас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1758,6 +1976,16 @@
         {
           "text": "Губернатор вас поддерживает?",
           "trans": "Does the governor support you?"
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "вас",
+          "gloss": "you (genitive/accusative)"
         }
       ]
     },
@@ -1836,6 +2064,20 @@
         {
           "text": "Его уволили.",
           "trans": "He was fired."
+        },
+        {
+          "text": "Давай мы его уволим, а тебя на его место назначим.",
+          "trans": "Let's fire him and put you in his place."
+        }
+      ],
+      "related": [
+        {
+          "word": "увольнять",
+          "gloss": "to fire"
+        },
+        {
+          "word": "уволиться",
+          "gloss": "quit"
         }
       ]
     },
@@ -1935,9 +2177,23 @@
         {
           "text": "Я всё расскажу маме.",
           "trans": "I'll tell Mum everything."
+        },
+        {
+          "text": "Сталину расскажите.",
+          "trans": "Tell that to Stalin."
         }
       ],
-      "governs": "кому? (dative) + что? (accusative)"
+      "governs": "кому? (dative) + что? (accusative)",
+      "related": [
+        {
+          "word": "рассказывать",
+          "gloss": "to tell"
+        },
+        {
+          "word": "подсказать",
+          "gloss": "to prompt"
+        }
+      ]
     },
     "руководство": {
       "lemma": "руководство",
@@ -2008,6 +2264,28 @@
         {
           "text": "Руководство приняло новое решение.",
           "trans": "The leadership made a new decision."
+        },
+        {
+          "text": "Но почему руководство нас совсем не ценит?",
+          "trans": "But why does leadership not value us at all?"
+        },
+        {
+          "text": "Это была только игра для строгого руководства!",
+          "trans": "That was only an act for the strict management!"
+        }
+      ],
+      "related": [
+        {
+          "word": "руководитель",
+          "gloss": "head"
+        },
+        {
+          "word": "руководить",
+          "gloss": "to lead"
+        },
+        {
+          "word": "рукола",
+          "gloss": "arugula"
         }
       ]
     },
@@ -2032,6 +2310,16 @@
         {
           "text": "Да никуда я не пряталась!",
           "trans": "I wasn't hiding anywhere!"
+        },
+        {
+          "text": "Да никуда я не пряталась! Я контролировала ситуацию.",
+          "trans": "I wasn't hiding anywhere! I was controlling the situation."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень никуда",
+          "gloss": "intensified / related adverb (nowhere)"
         }
       ]
     },
@@ -2127,6 +2415,16 @@
         {
           "text": "Пойдём домой.",
           "trans": "Let's go home."
+        },
+        {
+          "text": "А можно я пойду посмотрю?",
+          "trans": "Can I go and have a look?"
+        }
+      ],
+      "related": [
+        {
+          "word": "идти",
+          "gloss": "to go"
         }
       ]
     },
@@ -2141,7 +2439,51 @@
           "note": "usually in the genitive ничего, with не: ничего не осталось"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ничто"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ничего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ничему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ничто"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ничем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ни о чём"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2151,6 +2493,16 @@
         {
           "text": "Я ничего не знаю.",
           "trans": "I don't know anything."
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
+        }
+      ],
+      "related": [
+        {
+          "word": "уничтожить",
+          "gloss": "to destroy"
         }
       ]
     },
@@ -2164,7 +2516,7 @@
       "meanings": [
         {
           "en": "to say, to tell",
-          "note": ""
+          "note": "once; что скажешь? = what do you say?"
         },
         {
           "en": "скажите = tell me / tell us",
@@ -2250,6 +2602,24 @@
         {
           "text": "Скажите, где метро?",
           "trans": "Excuse me, where's the metro?"
+        },
+        {
+          "text": "Скажите, когда будет ваша программа?",
+          "trans": "Tell us, when will your programme be out?"
+        }
+      ],
+      "related": [
+        {
+          "word": "говорить",
+          "gloss": "to speak"
+        },
+        {
+          "word": "наказать",
+          "gloss": "to punish"
+        },
+        {
+          "word": "казаться",
+          "gloss": "to seem"
         }
       ]
     },
@@ -2349,6 +2719,24 @@
         {
           "text": "Извини, пожалуйста.",
           "trans": "Sorry, please."
+        },
+        {
+          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
+          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+        }
+      ],
+      "related": [
+        {
+          "word": "извинять",
+          "gloss": "to excuse"
+        },
+        {
+          "word": "извиниться",
+          "gloss": "to apologise"
+        },
+        {
+          "word": "извинение",
+          "gloss": "apology"
         }
       ]
     },
@@ -2362,7 +2750,7 @@
       "meanings": [
         {
           "en": "to calm down, to settle down",
-          "note": ""
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'спокоиться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an perfective (single completed action) verb meaning 'to calm down', paired with 'успокаиваться'."
         }
       ],
       "forms": {
@@ -2444,6 +2832,24 @@
         {
           "text": "Успокойся, пожалуйста!",
           "trans": "Calm down, please!"
+        },
+        {
+          "text": "Успокойся, всё хорошо.",
+          "trans": "Calm down, everything's fine."
+        }
+      ],
+      "related": [
+        {
+          "word": "успокаиваться",
+          "gloss": "to calm down"
+        },
+        {
+          "word": "успокоить",
+          "gloss": "to calm down"
+        },
+        {
+          "word": "успокоительный",
+          "gloss": "calming"
         }
       ]
     },
@@ -2543,6 +2949,16 @@
         {
           "text": "Он идёт на второй срок.",
           "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "ехать",
+          "gloss": "to go (by vehicle)"
         }
       ]
     },
@@ -2638,9 +3054,27 @@
         {
           "text": "Где вы работаете?",
           "trans": "Where do you work?"
+        },
+        {
+          "text": "Я уже четыре года работаю мэром.",
+          "trans": "I've been working as mayor for four years now."
         }
       ],
-      "governs": "+ instrumental (as)"
+      "governs": "+ instrumental (as)",
+      "related": [
+        {
+          "word": "поработать",
+          "gloss": "to work for a while"
+        },
+        {
+          "word": "работа",
+          "gloss": "work"
+        },
+        {
+          "word": "рабочий",
+          "gloss": "working"
+        }
+      ]
     },
     "дальше": {
       "lemma": "дальше",
@@ -2650,7 +3084,7 @@
       "meanings": [
         {
           "en": "further, farther",
-          "note": ""
+          "note": "in a list or a story"
         },
         {
           "en": "next, go on",
@@ -2667,6 +3101,16 @@
         {
           "text": "Что дальше?",
           "trans": "What's next?"
+        },
+        {
+          "text": "А дальше? Я очень волнуюсь, я к этому не приспособлена.",
+          "trans": "And then what? I'm very nervous, I'm not cut out for this."
+        }
+      ],
+      "related": [
+        {
+          "word": "дальний",
+          "gloss": "distant"
         }
       ]
     },
@@ -2695,8 +3139,13 @@
         {
           "text": "До завтра!",
           "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
         }
-      ]
+      ],
+      "related": []
     },
     "встреча": {
       "lemma": "встреча",
@@ -2707,7 +3156,7 @@
       "meanings": [
         {
           "en": "meeting",
-          "note": ""
+          "note": "in 'до встречи' = until we meet"
         },
         {
           "en": "see you",
@@ -2775,6 +3224,24 @@
         {
           "text": "У меня встреча.",
           "trans": "I have a meeting."
+        },
+        {
+          "text": "Решается ваш вопрос, Клавдия Викторовна! Вы не видите, у меня встреча?",
+          "trans": "Your question is being sorted out, Klavdia Viktorovna! Can't you see I have a meeting?"
+        }
+      ],
+      "related": [
+        {
+          "word": "встретиться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встречаться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встретить",
+          "gloss": "to meet"
         }
       ]
     }

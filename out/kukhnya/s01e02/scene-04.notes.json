@@ -1,3705 +1,4513 @@
 {
- "lines": [
-  {
-   "seg": 1,
-   "trans": "And where is my knife?",
-   "words": [
-    {
-     "t": "А",
-     "lemma": "а",
-     "pos": "conj",
-     "stress": null,
-     "gloss": "and, but",
-     "gram": "conjunction"
-    },
-    {
-     "t": "где",
-     "lemma": "где",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "where",
-     "gram": "interrogative adverb"
-    },
-    {
-     "t": "мой",
-     "lemma": "мой",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "my",
-     "gram": "masculine nominative singular"
-    },
-    {
-     "t": "нож?",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "nominative singular"
-    }
-   ]
-  },
-  {
-   "seg": 2,
-   "trans": "Who took my knife?",
-   "words": [
-    {
-     "t": "Кто",
-     "lemma": "кто",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "who",
-     "gram": "interrogative pronoun"
-    },
-    {
-     "t": "взял",
-     "lemma": "взять",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "took",
-     "gram": "past masculine singular"
-    },
-    {
-     "t": "мой",
-     "lemma": "мой",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "my",
-     "gram": "masculine accusative singular"
-    },
-    {
-     "t": "нож?",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    }
-   ]
-  },
-  {
-   "seg": 3,
-   "trans": "Chef, I didn't take it.",
-   "words": [
-    {
-     "t": "Шеф,",
-     "lemma": "шеф",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "chef",
-     "gram": "address"
-    },
-    {
-     "t": "я",
-     "lemma": "я",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "I",
-     "gram": "1st person singular, nominative"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "брала.",
-     "lemma": "брать",
-     "pos": "verb",
-     "stress": "брала́",
-     "gloss": "took",
-     "gram": "past feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 4,
-   "trans": "I repeat: who took my knife?",
-   "words": [
-    {
-     "t": "Повторяю.",
-     "lemma": "повторять",
-     "pos": "verb",
-     "stress": "Повторя́ю",
-     "gloss": "repeat",
-     "gram": "1st person singular present"
-    },
-    {
-     "t": "Кто",
-     "lemma": "кто",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "who",
-     "gram": "interrogative pronoun"
-    },
-    {
-     "t": "взял",
-     "lemma": "взять",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "took",
-     "gram": "past masculine singular"
-    },
-    {
-     "t": "мой",
-     "lemma": "мой",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "my",
-     "gram": "masculine accusative singular"
-    },
-    {
-     "t": "нож?",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    }
-   ]
-  },
-  {
-   "seg": 5,
-   "trans": "I don't know, chef.",
-   "words": [
-    {
-     "t": "Я",
-     "lemma": "я",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "I",
-     "gram": "1st person singular, nominative"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "знаю,",
-     "lemma": "знать",
-     "pos": "verb",
-     "stress": "зна́ю",
-     "gloss": "know",
-     "gram": "1st person singular present"
-    },
-    {
-     "t": "шеф.",
-     "lemma": "шеф",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "chef",
-     "gram": "address"
-    }
-   ]
-  },
-  {
-   "seg": 6,
-   "trans": "Nobody will go home from here.",
-   "words": [
-    {
-     "t": "Никто",
-     "lemma": "никто",
-     "pos": "pron",
-     "stress": "Никто́",
-     "gloss": "nobody",
-     "gram": "negative pronoun"
-    },
-    {
-     "t": "отсюда",
-     "lemma": "отсюда",
-     "pos": "adv",
-     "stress": "отсю́да",
-     "gloss": "from here",
-     "gram": "adverb"
-    },
-    {
-     "t": "домой",
-     "lemma": "домой",
-     "pos": "adv",
-     "stress": "домо́й",
-     "gloss": "home",
-     "gram": "adverb of direction"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "уйдёт.",
-     "lemma": "уйти",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "will leave",
-     "gram": "3rd person singular future"
-    }
-   ]
-  },
-  {
-   "seg": 7,
-   "trans": "Until you find the knife.",
-   "words": [
-    {
-     "t": "Пока",
-     "lemma": "пока",
-     "pos": "conj",
-     "stress": "Пока́",
-     "gloss": "until",
-     "gram": "conjunction"
-    },
-    {
-     "t": "вы",
-     "lemma": "вы",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "you (polite/plural)",
-     "gram": "2nd person plural, nominative"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "найдёте",
-     "lemma": "найти",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "find",
-     "gram": "2nd person plural future"
-    },
-    {
-     "t": "нож.",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    }
-   ]
-  },
-  {
-   "seg": 8,
-   "trans": "Understood, chef.",
-   "words": [
-    {
-     "t": "Понятно,",
-     "lemma": "понятно",
-     "pos": "adv",
-     "stress": "Поня́тно",
-     "gloss": "understood",
-     "gram": "adverb"
-    },
-    {
-     "t": "шеф.",
-     "lemma": "шеф",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "chef",
-     "gram": "address"
-    }
-   ]
-  },
-  {
-   "seg": 9,
-   "trans": "I will not cook anything.",
-   "words": [
-    {
-     "t": "Я",
-     "lemma": "я",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "I",
-     "gram": "1st person singular, nominative"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "буду",
-     "lemma": "быть",
-     "pos": "verb",
-     "stress": "бу́ду",
-     "gloss": "will",
-     "gram": "1st person singular future"
-    },
-    {
-     "t": "ничего",
-     "lemma": "ничто",
-     "pos": "pron",
-     "stress": "ничего́",
-     "gloss": "anything",
-     "gram": "genitive pronoun"
-    },
-    {
-     "t": "готовить.",
-     "lemma": "готовить",
-     "pos": "verb",
-     "stress": "гото́вить",
-     "gloss": "to cook",
-     "gram": "imperfective infinitive"
-    }
-   ]
-  },
-  {
-   "seg": 10,
-   "trans": "Right, everyone, look for the knife.",
-   "words": [
-    {
-     "t": "Так,",
-     "lemma": "так",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "right",
-     "gram": "adverb"
-    },
-    {
-     "t": "все",
-     "lemma": "все",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "everyone",
-     "gram": "pronoun"
-    },
-    {
-     "t": "ищем",
-     "lemma": "искать",
-     "pos": "verb",
-     "stress": "и́щем",
-     "gloss": "are looking for",
-     "gram": "1st person plural present"
-    },
-    {
-     "t": "нож.",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    }
-   ]
-  },
-  {
-   "seg": 11,
-   "trans": "Quick!",
-   "words": [
-    {
-     "t": "Живо!",
-     "lemma": "живо",
-     "pos": "adv",
-     "stress": "Жи́во",
-     "gloss": "quick",
-     "gram": "adverb"
-    }
-   ]
-  },
-  {
-   "seg": 12,
-   "trans": "What is the problem?",
-   "words": [
-    {
-     "t": "А",
-     "lemma": "а",
-     "pos": "conj",
-     "stress": null,
-     "gloss": "and, but",
-     "gram": "conjunction"
-    },
-    {
-     "t": "что",
-     "lemma": "что",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "what",
-     "gram": "interrogative pronoun, nominative/accusative"
-    },
-    {
-     "t": "за",
-     "lemma": "за",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "sort of",
-     "gram": "preposition with accusative"
-    },
-    {
-     "t": "проблема?",
-     "lemma": "проблема",
-     "pos": "noun",
-     "stress": "пробле́ма",
-     "gloss": "problem",
-     "gram": "nominative singular"
-    }
-   ]
-  },
-  {
-   "seg": 13,
-   "trans": "We will buy the same knife.",
-   "words": [
-    {
-     "t": "Мы",
-     "lemma": "мы",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "we",
-     "gram": "1st person plural, nominative"
-    },
-    {
-     "t": "такой",
-     "lemma": "такой",
-     "pos": "pron",
-     "stress": "тако́й",
-     "gloss": "same",
-     "gram": "masculine accusative singular"
-    },
-    {
-     "t": "же",
-     "lemma": "же",
-     "pos": "part",
-     "stress": null,
-     "gloss": "after all, but",
-     "gram": "emphatic particle"
-    },
-    {
-     "t": "нож",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    },
-    {
-     "t": "купим.",
-     "lemma": "купить",
-     "pos": "verb",
-     "stress": "ку́пим",
-     "gloss": "will buy",
-     "gram": "1st person plural future"
-    }
-   ]
-  },
-  {
-   "seg": 14,
-   "trans": "And do you know what kind of knife this is?",
-   "words": [
-    {
-     "t": "А",
-     "lemma": "а",
-     "pos": "conj",
-     "stress": null,
-     "gloss": "and, but",
-     "gram": "conjunction"
-    },
-    {
-     "t": "ты",
-     "lemma": "ты",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "you (informal)",
-     "gram": "2nd person singular, nominative"
-    },
-    {
-     "t": "знаешь,",
-     "lemma": "знать",
-     "pos": "verb",
-     "stress": "зна́ешь",
-     "gloss": "know",
-     "gram": "2nd person singular present"
-    },
-    {
-     "t": "что",
-     "lemma": "что",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "what",
-     "gram": "interrogative pronoun, nominative/accusative"
-    },
-    {
-     "t": "это",
-     "lemma": "это",
-     "pos": "pron",
-     "stress": "э́то",
-     "gloss": "this, it (is)",
-     "gram": "demonstrative, unchanging"
-    },
-    {
-     "t": "за",
-     "lemma": "за",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "sort of",
-     "gram": "preposition"
-    },
-    {
-     "t": "нож?",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "nominative singular"
-    }
-   ]
-  },
-  {
-   "seg": 16,
-   "trans": "And where is my knife?",
-   "words": [
-    {
-     "t": "А",
-     "lemma": "а",
-     "pos": "conj",
-     "stress": null,
-     "gloss": "and, but",
-     "gram": "conjunction"
-    },
-    {
-     "t": "где",
-     "lemma": "где",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "where",
-     "gram": "interrogative adverb"
-    },
-    {
-     "t": "мой",
-     "lemma": "мой",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "my",
-     "gram": "masculine nominative singular"
-    },
-    {
-     "t": "нож?",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "nominative singular"
-    }
-   ]
-  },
-  {
-   "seg": 18,
-   "trans": "Who took my knife?",
-   "words": [
-    {
-     "t": "Кто",
-     "lemma": "кто",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "who",
-     "gram": "interrogative pronoun"
-    },
-    {
-     "t": "взял",
-     "lemma": "взять",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "took",
-     "gram": "past masculine singular"
-    },
-    {
-     "t": "мой",
-     "lemma": "мой",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "my",
-     "gram": "masculine accusative singular"
-    },
-    {
-     "t": "нож?",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    }
-   ]
-  },
-  {
-   "seg": 20,
-   "trans": "Chef, I didn't take it.",
-   "words": [
-    {
-     "t": "Шеф,",
-     "lemma": "шеф",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "chef",
-     "gram": "address"
-    },
-    {
-     "t": "я",
-     "lemma": "я",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "I",
-     "gram": "1st person singular, nominative"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "брала.",
-     "lemma": "брать",
-     "pos": "verb",
-     "stress": "брала́",
-     "gloss": "took",
-     "gram": "past feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 22,
-   "trans": "I repeat.",
-   "words": [
-    {
-     "t": "Повторяю.",
-     "lemma": "повторять",
-     "pos": "verb",
-     "stress": "Повторя́ю",
-     "gloss": "repeat",
-     "gram": "1st person singular present"
-    }
-   ]
-  },
-  {
-   "seg": 24,
-   "trans": "Who took my knife?",
-   "words": [
-    {
-     "t": "Кто",
-     "lemma": "кто",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "who",
-     "gram": "interrogative pronoun"
-    },
-    {
-     "t": "взял",
-     "lemma": "взять",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "took",
-     "gram": "past masculine singular"
-    },
-    {
-     "t": "мой",
-     "lemma": "мой",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "my",
-     "gram": "masculine accusative singular"
-    },
-    {
-     "t": "нож?",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    }
-   ]
-  },
-  {
-   "seg": 26,
-   "trans": "I don't know, chef.",
-   "words": [
-    {
-     "t": "Я",
-     "lemma": "я",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "I",
-     "gram": "1st person singular, nominative"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "знаю,",
-     "lemma": "знать",
-     "pos": "verb",
-     "stress": "зна́ю",
-     "gloss": "know",
-     "gram": "1st person singular present"
-    },
-    {
-     "t": "шеф.",
-     "lemma": "шеф",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "chef",
-     "gram": "address"
-    }
-   ]
-  },
-  {
-   "seg": 28,
-   "trans": "Nobody will go home from here.",
-   "words": [
-    {
-     "t": "Никто",
-     "lemma": "никто",
-     "pos": "pron",
-     "stress": "Никто́",
-     "gloss": "nobody",
-     "gram": "negative pronoun"
-    },
-    {
-     "t": "отсюда",
-     "lemma": "отсюда",
-     "pos": "adv",
-     "stress": "отсю́да",
-     "gloss": "from here",
-     "gram": "adverb"
-    },
-    {
-     "t": "домой",
-     "lemma": "домой",
-     "pos": "adv",
-     "stress": "домо́й",
-     "gloss": "home",
-     "gram": "adverb of direction"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "уйдёт.",
-     "lemma": "уйти",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "will leave",
-     "gram": "3rd person singular future"
-    }
-   ]
-  },
-  {
-   "seg": 30,
-   "trans": "Until you find the knife.",
-   "words": [
-    {
-     "t": "Пока",
-     "lemma": "пока",
-     "pos": "conj",
-     "stress": "Пока́",
-     "gloss": "until",
-     "gram": "conjunction"
-    },
-    {
-     "t": "вы",
-     "lemma": "вы",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "you (polite/plural)",
-     "gram": "2nd person plural, nominative"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "найдёте",
-     "lemma": "найти",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "find",
-     "gram": "2nd person plural future"
-    },
-    {
-     "t": "нож.",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    }
-   ]
-  },
-  {
-   "seg": 32,
-   "trans": "Understood, chef.",
-   "words": [
-    {
-     "t": "Понятно,",
-     "lemma": "понятно",
-     "pos": "adv",
-     "stress": "Поня́тно",
-     "gloss": "understood",
-     "gram": "adverb"
-    },
-    {
-     "t": "шеф.",
-     "lemma": "шеф",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "chef",
-     "gram": "address"
-    }
-   ]
-  },
-  {
-   "seg": 34,
-   "trans": "I will not cook anything.",
-   "words": [
-    {
-     "t": "Я",
-     "lemma": "я",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "I",
-     "gram": "1st person singular, nominative"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "буду",
-     "lemma": "быть",
-     "pos": "verb",
-     "stress": "бу́ду",
-     "gloss": "will",
-     "gram": "1st person singular future"
-    },
-    {
-     "t": "ничего",
-     "lemma": "ничто",
-     "pos": "pron",
-     "stress": "ничего́",
-     "gloss": "anything",
-     "gram": "genitive pronoun"
-    },
-    {
-     "t": "готовить.",
-     "lemma": "готовить",
-     "pos": "verb",
-     "stress": "гото́вить",
-     "gloss": "to cook",
-     "gram": "imperfective infinitive"
-    }
-   ]
-  },
-  {
-   "seg": 36,
-   "trans": "Right, everyone, look for the knife.",
-   "words": [
-    {
-     "t": "Так,",
-     "lemma": "так",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "right",
-     "gram": "adverb"
-    },
-    {
-     "t": "все",
-     "lemma": "все",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "everyone",
-     "gram": "pronoun"
-    },
-    {
-     "t": "ищем",
-     "lemma": "искать",
-     "pos": "verb",
-     "stress": "и́щем",
-     "gloss": "are looking for",
-     "gram": "1st person plural present"
-    },
-    {
-     "t": "нож.",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    }
-   ]
-  },
-  {
-   "seg": 38,
-   "trans": "Quick!",
-   "words": [
-    {
-     "t": "Живо!",
-     "lemma": "живо",
-     "pos": "adv",
-     "stress": "Жи́во",
-     "gloss": "quick",
-     "gram": "adverb"
-    }
-   ]
-  },
-  {
-   "seg": 40,
-   "trans": "What is the problem?",
-   "words": [
-    {
-     "t": "А",
-     "lemma": "а",
-     "pos": "conj",
-     "stress": null,
-     "gloss": "and, but",
-     "gram": "conjunction"
-    },
-    {
-     "t": "что",
-     "lemma": "что",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "what",
-     "gram": "interrogative pronoun, nominative/accusative"
-    },
-    {
-     "t": "за",
-     "lemma": "за",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "sort of",
-     "gram": "preposition with accusative"
-    },
-    {
-     "t": "проблема?",
-     "lemma": "проблема",
-     "pos": "noun",
-     "stress": "пробле́ма",
-     "gloss": "problem",
-     "gram": "nominative singular"
-    }
-   ]
-  },
-  {
-   "seg": 42,
-   "trans": "We will buy the same knife.",
-   "words": [
-    {
-     "t": "Мы",
-     "lemma": "мы",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "we",
-     "gram": "1st person plural, nominative"
-    },
-    {
-     "t": "такой",
-     "lemma": "такой",
-     "pos": "pron",
-     "stress": "тако́й",
-     "gloss": "same",
-     "gram": "masculine accusative singular"
-    },
-    {
-     "t": "же",
-     "lemma": "же",
-     "pos": "part",
-     "stress": null,
-     "gloss": "after all, but",
-     "gram": "emphatic particle"
-    },
-    {
-     "t": "нож",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    },
-    {
-     "t": "купим.",
-     "lemma": "купить",
-     "pos": "verb",
-     "stress": "ку́пим",
-     "gloss": "will buy",
-     "gram": "1st person plural future"
-    }
-   ]
-  },
-  {
-   "seg": 44,
-   "trans": "And do you know what kind of knife this is?",
-   "words": [
-    {
-     "t": "А",
-     "lemma": "а",
-     "pos": "conj",
-     "stress": null,
-     "gloss": "and, but",
-     "gram": "conjunction"
-    },
-    {
-     "t": "ты",
-     "lemma": "ты",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "you (informal)",
-     "gram": "2nd person singular, nominative"
-    },
-    {
-     "t": "знаешь,",
-     "lemma": "знать",
-     "pos": "verb",
-     "stress": "зна́ешь",
-     "gloss": "know",
-     "gram": "2nd person singular present"
-    },
-    {
-     "t": "что",
-     "lemma": "что",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "what",
-     "gram": "interrogative pronoun, nominative/accusative"
-    },
-    {
-     "t": "это",
-     "lemma": "это",
-     "pos": "pron",
-     "stress": "э́то",
-     "gloss": "this, it (is)",
-     "gram": "demonstrative, unchanging"
-    },
-    {
-     "t": "за",
-     "lemma": "за",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "sort of",
-     "gram": "preposition"
-    },
-    {
-     "t": "нож?",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "nominative singular"
-    }
-   ]
-  },
-  {
-   "seg": 46,
-   "trans": "And where is my knife?",
-   "words": [
-    {
-     "t": "А",
-     "lemma": "а",
-     "pos": "conj",
-     "stress": null,
-     "gloss": "and, but",
-     "gram": "conjunction"
-    },
-    {
-     "t": "где",
-     "lemma": "где",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "where",
-     "gram": "interrogative adverb"
-    },
-    {
-     "t": "мой",
-     "lemma": "мой",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "my",
-     "gram": "masculine nominative singular"
-    },
-    {
-     "t": "нож?",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "nominative singular"
-    }
-   ]
-  },
-  {
-   "seg": 47,
-   "trans": "Who took my knife?",
-   "words": [
-    {
-     "t": "Кто",
-     "lemma": "кто",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "who",
-     "gram": "interrogative pronoun"
-    },
-    {
-     "t": "взял",
-     "lemma": "взять",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "took",
-     "gram": "past masculine singular"
-    },
-    {
-     "t": "мой",
-     "lemma": "мой",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "my",
-     "gram": "masculine accusative singular"
-    },
-    {
-     "t": "нож?",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    }
-   ]
-  },
-  {
-   "seg": 48,
-   "trans": "Chef, I didn't take it.",
-   "words": [
-    {
-     "t": "Шеф,",
-     "lemma": "шеф",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "chef",
-     "gram": "address"
-    },
-    {
-     "t": "я",
-     "lemma": "я",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "I",
-     "gram": "1st person singular, nominative"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "брала.",
-     "lemma": "брать",
-     "pos": "verb",
-     "stress": "брала́",
-     "gloss": "took",
-     "gram": "past feminine singular"
-    }
-   ]
-  },
-  {
-   "seg": 49,
-   "trans": "I repeat: who took my knife?",
-   "words": [
-    {
-     "t": "Повторяю.",
-     "lemma": "повторять",
-     "pos": "verb",
-     "stress": "Повторя́ю",
-     "gloss": "repeat",
-     "gram": "1st person singular present"
-    },
-    {
-     "t": "Кто",
-     "lemma": "кто",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "who",
-     "gram": "interrogative pronoun"
-    },
-    {
-     "t": "взял",
-     "lemma": "взять",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "took",
-     "gram": "past masculine singular"
-    },
-    {
-     "t": "мой",
-     "lemma": "мой",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "my",
-     "gram": "masculine accusative singular"
-    },
-    {
-     "t": "нож?",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    }
-   ]
-  },
-  {
-   "seg": 50,
-   "trans": "I don't know, chef.",
-   "words": [
-    {
-     "t": "Я",
-     "lemma": "я",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "I",
-     "gram": "1st person singular, nominative"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "знаю,",
-     "lemma": "знать",
-     "pos": "verb",
-     "stress": "зна́ю",
-     "gloss": "know",
-     "gram": "1st person singular present"
-    },
-    {
-     "t": "шеф.",
-     "lemma": "шеф",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "chef",
-     "gram": "address"
-    }
-   ]
-  },
-  {
-   "seg": 51,
-   "trans": "Nobody will go home from here.",
-   "words": [
-    {
-     "t": "Никто",
-     "lemma": "никто",
-     "pos": "pron",
-     "stress": "Никто́",
-     "gloss": "nobody",
-     "gram": "negative pronoun"
-    },
-    {
-     "t": "отсюда",
-     "lemma": "отсюда",
-     "pos": "adv",
-     "stress": "отсю́да",
-     "gloss": "from here",
-     "gram": "adverb"
-    },
-    {
-     "t": "домой",
-     "lemma": "домой",
-     "pos": "adv",
-     "stress": "домо́й",
-     "gloss": "home",
-     "gram": "adverb of direction"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "уйдёт.",
-     "lemma": "уйти",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "will leave",
-     "gram": "3rd person singular future"
-    }
-   ]
-  },
-  {
-   "seg": 52,
-   "trans": "Until you find the knife.",
-   "words": [
-    {
-     "t": "Пока",
-     "lemma": "пока",
-     "pos": "conj",
-     "stress": "Пока́",
-     "gloss": "until",
-     "gram": "conjunction"
-    },
-    {
-     "t": "вы",
-     "lemma": "вы",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "you (polite/plural)",
-     "gram": "2nd person plural, nominative"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "найдёте",
-     "lemma": "найти",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "find",
-     "gram": "2nd person plural future"
-    },
-    {
-     "t": "нож.",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    }
-   ]
-  },
-  {
-   "seg": 53,
-   "trans": "Understood, chef.",
-   "words": [
-    {
-     "t": "Понятно,",
-     "lemma": "понятно",
-     "pos": "adv",
-     "stress": "Поня́тно",
-     "gloss": "understood",
-     "gram": "adverb"
-    },
-    {
-     "t": "шеф.",
-     "lemma": "шеф",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "chef",
-     "gram": "address"
-    }
-   ]
-  },
-  {
-   "seg": 54,
-   "trans": "I will not cook anything.",
-   "words": [
-    {
-     "t": "Я",
-     "lemma": "я",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "I",
-     "gram": "1st person singular, nominative"
-    },
-    {
-     "t": "не",
-     "lemma": "не",
-     "pos": "part",
-     "stress": null,
-     "gloss": "not",
-     "gram": "negation"
-    },
-    {
-     "t": "буду",
-     "lemma": "быть",
-     "pos": "verb",
-     "stress": "бу́ду",
-     "gloss": "will",
-     "gram": "1st person singular future"
-    },
-    {
-     "t": "ничего",
-     "lemma": "ничто",
-     "pos": "pron",
-     "stress": "ничего́",
-     "gloss": "anything",
-     "gram": "genitive pronoun"
-    },
-    {
-     "t": "готовить.",
-     "lemma": "готовить",
-     "pos": "verb",
-     "stress": "гото́вить",
-     "gloss": "to cook",
-     "gram": "imperfective infinitive"
-    }
-   ]
-  },
-  {
-   "seg": 55,
-   "trans": "Right, everyone, look for the knife.",
-   "words": [
-    {
-     "t": "Так,",
-     "lemma": "так",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "right",
-     "gram": "adverb"
-    },
-    {
-     "t": "все",
-     "lemma": "все",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "everyone",
-     "gram": "pronoun"
-    },
-    {
-     "t": "ищем",
-     "lemma": "искать",
-     "pos": "verb",
-     "stress": "и́щем",
-     "gloss": "are looking for",
-     "gram": "1st person plural present"
-    },
-    {
-     "t": "нож.",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    }
-   ]
-  },
-  {
-   "seg": 56,
-   "trans": "Quick!",
-   "words": [
-    {
-     "t": "Живо!",
-     "lemma": "живо",
-     "pos": "adv",
-     "stress": "Жи́во",
-     "gloss": "quick",
-     "gram": "adverb"
-    }
-   ]
-  },
-  {
-   "seg": 57,
-   "trans": "What is the problem?",
-   "words": [
-    {
-     "t": "А",
-     "lemma": "а",
-     "pos": "conj",
-     "stress": null,
-     "gloss": "and, but",
-     "gram": "conjunction"
-    },
-    {
-     "t": "что",
-     "lemma": "что",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "what",
-     "gram": "interrogative pronoun, nominative/accusative"
-    },
-    {
-     "t": "за",
-     "lemma": "за",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "sort of",
-     "gram": "preposition with accusative"
-    },
-    {
-     "t": "проблема?",
-     "lemma": "проблема",
-     "pos": "noun",
-     "stress": "пробле́ма",
-     "gloss": "problem",
-     "gram": "nominative singular"
-    }
-   ]
-  },
-  {
-   "seg": 58,
-   "trans": "We will buy the same knife.",
-   "words": [
-    {
-     "t": "Мы",
-     "lemma": "мы",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "we",
-     "gram": "1st person plural, nominative"
-    },
-    {
-     "t": "такой",
-     "lemma": "такой",
-     "pos": "pron",
-     "stress": "тако́й",
-     "gloss": "same",
-     "gram": "masculine accusative singular"
-    },
-    {
-     "t": "же",
-     "lemma": "же",
-     "pos": "part",
-     "stress": null,
-     "gloss": "after all, but",
-     "gram": "emphatic particle"
-    },
-    {
-     "t": "нож",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "accusative singular"
-    },
-    {
-     "t": "купим.",
-     "lemma": "купить",
-     "pos": "verb",
-     "stress": "ку́пим",
-     "gloss": "will buy",
-     "gram": "1st person plural future"
-    }
-   ]
-  },
-  {
-   "seg": 59,
-   "trans": "And do you know what kind of knife this is?",
-   "words": [
-    {
-     "t": "А",
-     "lemma": "а",
-     "pos": "conj",
-     "stress": null,
-     "gloss": "and, but",
-     "gram": "conjunction"
-    },
-    {
-     "t": "ты",
-     "lemma": "ты",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "you (informal)",
-     "gram": "2nd person singular, nominative"
-    },
-    {
-     "t": "знаешь,",
-     "lemma": "знать",
-     "pos": "verb",
-     "stress": "зна́ешь",
-     "gloss": "know",
-     "gram": "2nd person singular present"
-    },
-    {
-     "t": "что",
-     "lemma": "что",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "what",
-     "gram": "interrogative pronoun, nominative/accusative"
-    },
-    {
-     "t": "это",
-     "lemma": "это",
-     "pos": "pron",
-     "stress": "э́то",
-     "gloss": "this, it (is)",
-     "gram": "demonstrative, unchanging"
-    },
-    {
-     "t": "за",
-     "lemma": "за",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "sort of",
-     "gram": "preposition"
-    },
-    {
-     "t": "нож?",
-     "lemma": "нож",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "knife",
-     "gram": "nominative singular"
-    }
-   ]
-  },
-  {
-   "seg": 61,
-   "trans": "See you!",
-   "words": [
-    {
-     "t": "До",
-     "lemma": "до",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "until",
-     "gram": "preposition with genitive"
-    },
-    {
-     "t": "встречи!",
-     "lemma": "встреча",
-     "pos": "noun",
-     "stress": "встре́чи",
-     "gloss": "meeting",
-     "gram": "genitive singular"
-    }
-   ]
-  }
- ],
- "lexicon": {
-  "а": {
-   "lemma": "а",
-   "stress": "а",
-   "pos": "conj",
-   "gloss": "and, but; so",
-   "meanings": [
-    {
-     "en": "and, while",
-     "note": "contrast"
-    },
-    {
-     "en": "so, and what about",
-     "note": "starting a question: а жвачку?"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "А это тебе.",
-     "trans": "And this is for you."
-    },
-    {
-     "text": "А где машинка?",
-     "trans": "And where's the toy car?"
-    }
-   ]
-  },
-  "брать": {
-   "lemma": "брать",
-   "stress": "брать",
-   "pos": "verb",
-   "aspect": "impf",
-   "pair": "взять",
-   "gloss": "to take",
-   "meanings": [
-    {
-     "en": "to take",
-     "note": "habitually or in general"
-    },
-    {
-     "en": "to take bribes",
-     "note": "'брать' alone often means this, in talk about officials"
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "беру",
-       "берём"
+  "lines": [
+    {
+      "seg": 1,
+      "trans": "And where is my knife?",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "где",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "interrogative adverb"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "my",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "нож?",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "nominative singular"
+        }
       ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "берёшь",
-       "берёте"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "берёт",
-       "берут"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "брал",
-        "брала",
-        "брало",
-        "брали"
-       ]
-      }
-     ]
     },
     {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "бери",
-        "берите"
-       ]
-      }
-     ]
+      "seg": 2,
+      "trans": "Who took my knife?",
+      "words": [
+        {
+          "t": "Кто",
+          "lemma": "кто",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "who",
+          "gram": "interrogative pronoun"
+        },
+        {
+          "t": "взял",
+          "lemma": "взять",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "took",
+          "gram": "past masculine singular"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "my",
+          "gram": "masculine accusative singular"
+        },
+        {
+          "t": "нож?",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 3,
+      "trans": "Chef, I didn't take it.",
+      "words": [
+        {
+          "t": "Шеф,",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chef",
+          "gram": "address"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "брала.",
+          "lemma": "брать",
+          "pos": "verb",
+          "stress": "брала́",
+          "gloss": "took",
+          "gram": "past feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 4,
+      "trans": "I repeat: who took my knife?",
+      "words": [
+        {
+          "t": "Повторяю.",
+          "lemma": "повторять",
+          "pos": "verb",
+          "stress": "Повторя́ю",
+          "gloss": "repeat",
+          "gram": "1st person singular present"
+        },
+        {
+          "t": "Кто",
+          "lemma": "кто",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "who",
+          "gram": "interrogative pronoun"
+        },
+        {
+          "t": "взял",
+          "lemma": "взять",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "took",
+          "gram": "past masculine singular"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "my",
+          "gram": "masculine accusative singular"
+        },
+        {
+          "t": "нож?",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 5,
+      "trans": "I don't know, chef.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "знаю,",
+          "lemma": "знать",
+          "pos": "verb",
+          "stress": "зна́ю",
+          "gloss": "know",
+          "gram": "1st person singular present"
+        },
+        {
+          "t": "шеф.",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chef",
+          "gram": "address"
+        }
+      ]
+    },
+    {
+      "seg": 6,
+      "trans": "Nobody will go home from here.",
+      "words": [
+        {
+          "t": "Никто",
+          "lemma": "никто",
+          "pos": "pron",
+          "stress": "Никто́",
+          "gloss": "nobody",
+          "gram": "negative pronoun"
+        },
+        {
+          "t": "отсюда",
+          "lemma": "отсюда",
+          "pos": "adv",
+          "stress": "отсю́да",
+          "gloss": "from here",
+          "gram": "adverb"
+        },
+        {
+          "t": "домой",
+          "lemma": "домой",
+          "pos": "adv",
+          "stress": "домо́й",
+          "gloss": "home",
+          "gram": "adverb of direction"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "уйдёт.",
+          "lemma": "уйти",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "will leave",
+          "gram": "3rd person singular future"
+        }
+      ]
+    },
+    {
+      "seg": 7,
+      "trans": "Until you find the knife.",
+      "words": [
+        {
+          "t": "Пока",
+          "lemma": "пока",
+          "pos": "conj",
+          "stress": "Пока́",
+          "gloss": "until",
+          "gram": "conjunction"
+        },
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (polite/plural)",
+          "gram": "2nd person plural, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "найдёте",
+          "lemma": "найти",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "find",
+          "gram": "2nd person plural future"
+        },
+        {
+          "t": "нож.",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 8,
+      "trans": "Understood, chef.",
+      "words": [
+        {
+          "t": "Понятно,",
+          "lemma": "понятно",
+          "pos": "adv",
+          "stress": "Поня́тно",
+          "gloss": "understood",
+          "gram": "adverb"
+        },
+        {
+          "t": "шеф.",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chef",
+          "gram": "address"
+        }
+      ]
+    },
+    {
+      "seg": 9,
+      "trans": "I will not cook anything.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "буду",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": "бу́ду",
+          "gloss": "will",
+          "gram": "1st person singular future"
+        },
+        {
+          "t": "ничего",
+          "lemma": "ничто",
+          "pos": "pron",
+          "stress": "ничего́",
+          "gloss": "anything",
+          "gram": "genitive pronoun"
+        },
+        {
+          "t": "готовить.",
+          "lemma": "готовить",
+          "pos": "verb",
+          "stress": "гото́вить",
+          "gloss": "to cook",
+          "gram": "imperfective infinitive"
+        }
+      ]
+    },
+    {
+      "seg": 10,
+      "trans": "Right, everyone, look for the knife.",
+      "words": [
+        {
+          "t": "Так,",
+          "lemma": "так",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "right",
+          "gram": "adverb"
+        },
+        {
+          "t": "все",
+          "lemma": "все",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "everyone",
+          "gram": "pronoun"
+        },
+        {
+          "t": "ищем",
+          "lemma": "искать",
+          "pos": "verb",
+          "stress": "и́щем",
+          "gloss": "are looking for",
+          "gram": "1st person plural present"
+        },
+        {
+          "t": "нож.",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 11,
+      "trans": "Quick!",
+      "words": [
+        {
+          "t": "Живо!",
+          "lemma": "живо",
+          "pos": "adv",
+          "stress": "Жи́во",
+          "gloss": "quick",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 12,
+      "trans": "What is the problem?",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "interrogative pronoun, nominative/accusative"
+        },
+        {
+          "t": "за",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "sort of",
+          "gram": "preposition with accusative"
+        },
+        {
+          "t": "проблема?",
+          "lemma": "проблема",
+          "pos": "noun",
+          "stress": "пробле́ма",
+          "gloss": "problem",
+          "gram": "nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 13,
+      "trans": "We will buy the same knife.",
+      "words": [
+        {
+          "t": "Мы",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
+        },
+        {
+          "t": "такой",
+          "lemma": "такой",
+          "pos": "pron",
+          "stress": "тако́й",
+          "gloss": "same",
+          "gram": "masculine accusative singular"
+        },
+        {
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
+          "stress": null,
+          "gloss": "after all, but",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "нож",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        },
+        {
+          "t": "купим.",
+          "lemma": "купить",
+          "pos": "verb",
+          "stress": "ку́пим",
+          "gloss": "will buy",
+          "gram": "1st person plural future"
+        }
+      ]
+    },
+    {
+      "seg": 14,
+      "trans": "And do you know what kind of knife this is?",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (informal)",
+          "gram": "2nd person singular, nominative"
+        },
+        {
+          "t": "знаешь,",
+          "lemma": "знать",
+          "pos": "verb",
+          "stress": "зна́ешь",
+          "gloss": "know",
+          "gram": "2nd person singular present"
+        },
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "interrogative pronoun, nominative/accusative"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this, it (is)",
+          "gram": "demonstrative, unchanging"
+        },
+        {
+          "t": "за",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "sort of",
+          "gram": "preposition"
+        },
+        {
+          "t": "нож?",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 16,
+      "trans": "And where is my knife?",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "где",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "interrogative adverb"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "my",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "нож?",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 18,
+      "trans": "Who took my knife?",
+      "words": [
+        {
+          "t": "Кто",
+          "lemma": "кто",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "who",
+          "gram": "interrogative pronoun"
+        },
+        {
+          "t": "взял",
+          "lemma": "взять",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "took",
+          "gram": "past masculine singular"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "my",
+          "gram": "masculine accusative singular"
+        },
+        {
+          "t": "нож?",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "Chef, I didn't take it.",
+      "words": [
+        {
+          "t": "Шеф,",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chef",
+          "gram": "address"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "брала.",
+          "lemma": "брать",
+          "pos": "verb",
+          "stress": "брала́",
+          "gloss": "took",
+          "gram": "past feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 22,
+      "trans": "I repeat.",
+      "words": [
+        {
+          "t": "Повторяю.",
+          "lemma": "повторять",
+          "pos": "verb",
+          "stress": "Повторя́ю",
+          "gloss": "repeat",
+          "gram": "1st person singular present"
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "Who took my knife?",
+      "words": [
+        {
+          "t": "Кто",
+          "lemma": "кто",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "who",
+          "gram": "interrogative pronoun"
+        },
+        {
+          "t": "взял",
+          "lemma": "взять",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "took",
+          "gram": "past masculine singular"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "my",
+          "gram": "masculine accusative singular"
+        },
+        {
+          "t": "нож?",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "I don't know, chef.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "знаю,",
+          "lemma": "знать",
+          "pos": "verb",
+          "stress": "зна́ю",
+          "gloss": "know",
+          "gram": "1st person singular present"
+        },
+        {
+          "t": "шеф.",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chef",
+          "gram": "address"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "Nobody will go home from here.",
+      "words": [
+        {
+          "t": "Никто",
+          "lemma": "никто",
+          "pos": "pron",
+          "stress": "Никто́",
+          "gloss": "nobody",
+          "gram": "negative pronoun"
+        },
+        {
+          "t": "отсюда",
+          "lemma": "отсюда",
+          "pos": "adv",
+          "stress": "отсю́да",
+          "gloss": "from here",
+          "gram": "adverb"
+        },
+        {
+          "t": "домой",
+          "lemma": "домой",
+          "pos": "adv",
+          "stress": "домо́й",
+          "gloss": "home",
+          "gram": "adverb of direction"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "уйдёт.",
+          "lemma": "уйти",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "will leave",
+          "gram": "3rd person singular future"
+        }
+      ]
+    },
+    {
+      "seg": 30,
+      "trans": "Until you find the knife.",
+      "words": [
+        {
+          "t": "Пока",
+          "lemma": "пока",
+          "pos": "conj",
+          "stress": "Пока́",
+          "gloss": "until",
+          "gram": "conjunction"
+        },
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (polite/plural)",
+          "gram": "2nd person plural, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "найдёте",
+          "lemma": "найти",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "find",
+          "gram": "2nd person plural future"
+        },
+        {
+          "t": "нож.",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 32,
+      "trans": "Understood, chef.",
+      "words": [
+        {
+          "t": "Понятно,",
+          "lemma": "понятно",
+          "pos": "adv",
+          "stress": "Поня́тно",
+          "gloss": "understood",
+          "gram": "adverb"
+        },
+        {
+          "t": "шеф.",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chef",
+          "gram": "address"
+        }
+      ]
+    },
+    {
+      "seg": 34,
+      "trans": "I will not cook anything.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "буду",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": "бу́ду",
+          "gloss": "will",
+          "gram": "1st person singular future"
+        },
+        {
+          "t": "ничего",
+          "lemma": "ничто",
+          "pos": "pron",
+          "stress": "ничего́",
+          "gloss": "anything",
+          "gram": "genitive pronoun"
+        },
+        {
+          "t": "готовить.",
+          "lemma": "готовить",
+          "pos": "verb",
+          "stress": "гото́вить",
+          "gloss": "to cook",
+          "gram": "imperfective infinitive"
+        }
+      ]
+    },
+    {
+      "seg": 36,
+      "trans": "Right, everyone, look for the knife.",
+      "words": [
+        {
+          "t": "Так,",
+          "lemma": "так",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "right",
+          "gram": "adverb"
+        },
+        {
+          "t": "все",
+          "lemma": "все",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "everyone",
+          "gram": "pronoun"
+        },
+        {
+          "t": "ищем",
+          "lemma": "искать",
+          "pos": "verb",
+          "stress": "и́щем",
+          "gloss": "are looking for",
+          "gram": "1st person plural present"
+        },
+        {
+          "t": "нож.",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 38,
+      "trans": "Quick!",
+      "words": [
+        {
+          "t": "Живо!",
+          "lemma": "живо",
+          "pos": "adv",
+          "stress": "Жи́во",
+          "gloss": "quick",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "What is the problem?",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "interrogative pronoun, nominative/accusative"
+        },
+        {
+          "t": "за",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "sort of",
+          "gram": "preposition with accusative"
+        },
+        {
+          "t": "проблема?",
+          "lemma": "проблема",
+          "pos": "noun",
+          "stress": "пробле́ма",
+          "gloss": "problem",
+          "gram": "nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "We will buy the same knife.",
+      "words": [
+        {
+          "t": "Мы",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
+        },
+        {
+          "t": "такой",
+          "lemma": "такой",
+          "pos": "pron",
+          "stress": "тако́й",
+          "gloss": "same",
+          "gram": "masculine accusative singular"
+        },
+        {
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
+          "stress": null,
+          "gloss": "after all, but",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "нож",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        },
+        {
+          "t": "купим.",
+          "lemma": "купить",
+          "pos": "verb",
+          "stress": "ку́пим",
+          "gloss": "will buy",
+          "gram": "1st person plural future"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "And do you know what kind of knife this is?",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (informal)",
+          "gram": "2nd person singular, nominative"
+        },
+        {
+          "t": "знаешь,",
+          "lemma": "знать",
+          "pos": "verb",
+          "stress": "зна́ешь",
+          "gloss": "know",
+          "gram": "2nd person singular present"
+        },
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "interrogative pronoun, nominative/accusative"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this, it (is)",
+          "gram": "demonstrative, unchanging"
+        },
+        {
+          "t": "за",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "sort of",
+          "gram": "preposition"
+        },
+        {
+          "t": "нож?",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "And where is my knife?",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "где",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "interrogative adverb"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "my",
+          "gram": "masculine nominative singular"
+        },
+        {
+          "t": "нож?",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "Who took my knife?",
+      "words": [
+        {
+          "t": "Кто",
+          "lemma": "кто",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "who",
+          "gram": "interrogative pronoun"
+        },
+        {
+          "t": "взял",
+          "lemma": "взять",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "took",
+          "gram": "past masculine singular"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "my",
+          "gram": "masculine accusative singular"
+        },
+        {
+          "t": "нож?",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "Chef, I didn't take it.",
+      "words": [
+        {
+          "t": "Шеф,",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chef",
+          "gram": "address"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "брала.",
+          "lemma": "брать",
+          "pos": "verb",
+          "stress": "брала́",
+          "gloss": "took",
+          "gram": "past feminine singular"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "I repeat: who took my knife?",
+      "words": [
+        {
+          "t": "Повторяю.",
+          "lemma": "повторять",
+          "pos": "verb",
+          "stress": "Повторя́ю",
+          "gloss": "repeat",
+          "gram": "1st person singular present"
+        },
+        {
+          "t": "Кто",
+          "lemma": "кто",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "who",
+          "gram": "interrogative pronoun"
+        },
+        {
+          "t": "взял",
+          "lemma": "взять",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "took",
+          "gram": "past masculine singular"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "my",
+          "gram": "masculine accusative singular"
+        },
+        {
+          "t": "нож?",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "I don't know, chef.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "знаю,",
+          "lemma": "знать",
+          "pos": "verb",
+          "stress": "зна́ю",
+          "gloss": "know",
+          "gram": "1st person singular present"
+        },
+        {
+          "t": "шеф.",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chef",
+          "gram": "address"
+        }
+      ]
+    },
+    {
+      "seg": 51,
+      "trans": "Nobody will go home from here.",
+      "words": [
+        {
+          "t": "Никто",
+          "lemma": "никто",
+          "pos": "pron",
+          "stress": "Никто́",
+          "gloss": "nobody",
+          "gram": "negative pronoun"
+        },
+        {
+          "t": "отсюда",
+          "lemma": "отсюда",
+          "pos": "adv",
+          "stress": "отсю́да",
+          "gloss": "from here",
+          "gram": "adverb"
+        },
+        {
+          "t": "домой",
+          "lemma": "домой",
+          "pos": "adv",
+          "stress": "домо́й",
+          "gloss": "home",
+          "gram": "adverb of direction"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "уйдёт.",
+          "lemma": "уйти",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "will leave",
+          "gram": "3rd person singular future"
+        }
+      ]
+    },
+    {
+      "seg": 52,
+      "trans": "Until you find the knife.",
+      "words": [
+        {
+          "t": "Пока",
+          "lemma": "пока",
+          "pos": "conj",
+          "stress": "Пока́",
+          "gloss": "until",
+          "gram": "conjunction"
+        },
+        {
+          "t": "вы",
+          "lemma": "вы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (polite/plural)",
+          "gram": "2nd person plural, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "найдёте",
+          "lemma": "найти",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "find",
+          "gram": "2nd person plural future"
+        },
+        {
+          "t": "нож.",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 53,
+      "trans": "Understood, chef.",
+      "words": [
+        {
+          "t": "Понятно,",
+          "lemma": "понятно",
+          "pos": "adv",
+          "stress": "Поня́тно",
+          "gloss": "understood",
+          "gram": "adverb"
+        },
+        {
+          "t": "шеф.",
+          "lemma": "шеф",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "chef",
+          "gram": "address"
+        }
+      ]
+    },
+    {
+      "seg": 54,
+      "trans": "I will not cook anything.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "буду",
+          "lemma": "быть",
+          "pos": "verb",
+          "stress": "бу́ду",
+          "gloss": "will",
+          "gram": "1st person singular future"
+        },
+        {
+          "t": "ничего",
+          "lemma": "ничто",
+          "pos": "pron",
+          "stress": "ничего́",
+          "gloss": "anything",
+          "gram": "genitive pronoun"
+        },
+        {
+          "t": "готовить.",
+          "lemma": "готовить",
+          "pos": "verb",
+          "stress": "гото́вить",
+          "gloss": "to cook",
+          "gram": "imperfective infinitive"
+        }
+      ]
+    },
+    {
+      "seg": 55,
+      "trans": "Right, everyone, look for the knife.",
+      "words": [
+        {
+          "t": "Так,",
+          "lemma": "так",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "right",
+          "gram": "adverb"
+        },
+        {
+          "t": "все",
+          "lemma": "все",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "everyone",
+          "gram": "pronoun"
+        },
+        {
+          "t": "ищем",
+          "lemma": "искать",
+          "pos": "verb",
+          "stress": "и́щем",
+          "gloss": "are looking for",
+          "gram": "1st person plural present"
+        },
+        {
+          "t": "нож.",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 56,
+      "trans": "Quick!",
+      "words": [
+        {
+          "t": "Живо!",
+          "lemma": "живо",
+          "pos": "adv",
+          "stress": "Жи́во",
+          "gloss": "quick",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 57,
+      "trans": "What is the problem?",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "interrogative pronoun, nominative/accusative"
+        },
+        {
+          "t": "за",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "sort of",
+          "gram": "preposition with accusative"
+        },
+        {
+          "t": "проблема?",
+          "lemma": "проблема",
+          "pos": "noun",
+          "stress": "пробле́ма",
+          "gloss": "problem",
+          "gram": "nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 58,
+      "trans": "We will buy the same knife.",
+      "words": [
+        {
+          "t": "Мы",
+          "lemma": "мы",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
+        },
+        {
+          "t": "такой",
+          "lemma": "такой",
+          "pos": "pron",
+          "stress": "тако́й",
+          "gloss": "same",
+          "gram": "masculine accusative singular"
+        },
+        {
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
+          "stress": null,
+          "gloss": "after all, but",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "нож",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "accusative singular"
+        },
+        {
+          "t": "купим.",
+          "lemma": "купить",
+          "pos": "verb",
+          "stress": "ку́пим",
+          "gloss": "will buy",
+          "gram": "1st person plural future"
+        }
+      ]
+    },
+    {
+      "seg": 59,
+      "trans": "And do you know what kind of knife this is?",
+      "words": [
+        {
+          "t": "А",
+          "lemma": "а",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and, but",
+          "gram": "conjunction"
+        },
+        {
+          "t": "ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (informal)",
+          "gram": "2nd person singular, nominative"
+        },
+        {
+          "t": "знаешь,",
+          "lemma": "знать",
+          "pos": "verb",
+          "stress": "зна́ешь",
+          "gloss": "know",
+          "gram": "2nd person singular present"
+        },
+        {
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "interrogative pronoun, nominative/accusative"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this, it (is)",
+          "gram": "demonstrative, unchanging"
+        },
+        {
+          "t": "за",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "sort of",
+          "gram": "preposition"
+        },
+        {
+          "t": "нож?",
+          "lemma": "нож",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "knife",
+          "gram": "nominative singular"
+        }
+      ]
+    },
+    {
+      "seg": 61,
+      "trans": "See you!",
+      "words": [
+        {
+          "t": "До",
+          "lemma": "до",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "until",
+          "gram": "preposition with genitive"
+        },
+        {
+          "t": "встречи!",
+          "lemma": "встреча",
+          "pos": "noun",
+          "stress": "встре́чи",
+          "gloss": "meeting",
+          "gram": "genitive singular"
+        }
+      ]
     }
-   ],
-   "examples": [
-    {
-     "text": "Все деньги брать надо.",
-     "trans": "We have to take all the money."
+  ],
+  "lexicon": {
+    "а": {
+      "lemma": "а",
+      "stress": "а",
+      "pos": "conj",
+      "gloss": "and, but; so",
+      "meanings": [
+        {
+          "en": "and, while",
+          "note": "contrast"
+        },
+        {
+          "en": "so, and what about",
+          "note": "starting a question: а жвачку?"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "А это тебе.",
+          "trans": "And this is for you."
+        },
+        {
+          "text": "А где машинка?",
+          "trans": "And where's the toy car?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": []
     },
-    {
-     "text": "Он не берёт взятки.",
-     "trans": "He doesn't take bribes."
-    }
-   ]
-  },
-  "быть": {
-   "lemma": "быть",
-   "stress": "быть",
-   "pos": "verb",
-   "aspect": "impf",
-   "pair": null,
-   "gloss": "to be; there is",
-   "meanings": [
-    {
-     "en": "to be",
-     "note": "the present tense is normally left out: я мэр = I am the mayor"
-    },
-    {
-     "en": "there is, there are",
-     "note": "present есть; у меня есть = I have"
-    },
-    {
-     "en": "will (with an imperfective infinitive)",
-     "note": "future: буду / будешь ... + infinitive"
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "есть",
-       "есть"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "есть",
-       "есть"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "есть",
-       "есть"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Future",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "1st",
-        "буду",
-        "будем"
-       ]
+    "брать": {
+      "lemma": "брать",
+      "stress": "брать",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "взять",
+      "gloss": "to take",
+      "meanings": [
+        {
+          "en": "to take",
+          "note": "habitually or in general"
+        },
+        {
+          "en": "to take bribes",
+          "note": "'брать' alone often means this, in talk about officials"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "беру",
+              "берём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "берёшь",
+              "берёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "берёт",
+              "берут"
+            ]
+          }
+        ]
       },
-      {
-       "cells": [
-        "2nd",
-        "будешь",
-        "будете"
-       ]
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "брал",
+                "брала",
+                "брало",
+                "брали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "бери",
+                "берите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Все деньги брать надо.",
+          "trans": "We have to take all the money."
+        },
+        {
+          "text": "Он не берёт взятки.",
+          "trans": "He doesn't take bribes."
+        },
+        {
+          "text": "Я не беру нож.",
+          "trans": "I'm not taking the knife."
+        }
+      ],
+      "related": [
+        {
+          "word": "взять",
+          "gloss": "to take"
+        },
+        {
+          "word": "забрать",
+          "gloss": "to take back"
+        },
+        {
+          "word": "убрать",
+          "gloss": "to remove"
+        }
+      ]
+    },
+    "быть": {
+      "lemma": "быть",
+      "stress": "быть",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": null,
+      "gloss": "to be; there is",
+      "meanings": [
+        {
+          "en": "to be",
+          "note": "the present tense is normally left out: я мэр = I am the mayor"
+        },
+        {
+          "en": "there is, there are",
+          "note": "present есть; у меня есть = I have"
+        },
+        {
+          "en": "will (with an imperfective infinitive)",
+          "note": "future: буду / будешь ... + infinitive"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "есть",
+              "есть"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "есть",
+              "есть"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "есть",
+              "есть"
+            ]
+          }
+        ]
       },
-      {
-       "cells": [
-        "3rd",
-        "будет",
-        "будут"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "был",
-        "была",
-        "было",
-        "были"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "будь",
-        "будьте"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "У меня есть машинка.",
-     "trans": "I have a toy car."
-    },
-    {
-     "text": "Детство было трудное.",
-     "trans": "Childhood was hard."
-    },
-    {
-     "text": "Ты будешь просить прощения.",
-     "trans": "You will be asking for forgiveness."
-    }
-   ]
-  },
-  "взять": {
-   "lemma": "взять",
-   "stress": "взять",
-   "pos": "verb",
-   "aspect": "pf",
-   "pair": "брать",
-   "gloss": "to take",
-   "meanings": [
-    {
-     "en": "to take",
-     "note": ""
-    },
-    {
-     "en": "to hire",
-     "note": "'взять на работу' = to give someone a job"
-    }
-   ],
-   "forms": {
-    "title": "Future",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "возьму",
-       "возьмём"
+      "moreForms": [
+        {
+          "title": "Future",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "буду",
+                "будем"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "будешь",
+                "будете"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "будет",
+                "будут"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "был",
+                "была",
+                "было",
+                "были"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "будь",
+                "будьте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "У меня есть машинка.",
+          "trans": "I have a toy car."
+        },
+        {
+          "text": "Детство было трудное.",
+          "trans": "Childhood was hard."
+        },
+        {
+          "text": "Ты будешь просить прощения.",
+          "trans": "You will be asking for forgiveness."
+        }
+      ],
+      "related": [
+        {
+          "word": "забыть",
+          "gloss": "to forget"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
+        },
+        {
+          "word": "побыть",
+          "gloss": "to stay for a while"
+        }
       ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "возьмёшь",
-       "возьмёте"
+    },
+    "взять": {
+      "lemma": "взять",
+      "stress": "взять",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "брать",
+      "gloss": "to take",
+      "meanings": [
+        {
+          "en": "to take",
+          "note": "'взять на работу' = to give someone a job"
+        },
+        {
+          "en": "to hire",
+          "note": "'взять на работу' = to give someone a job"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "возьму",
+              "возьмём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "возьмёшь",
+              "возьмёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "возьмёт",
+              "возьмут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "взял",
+                "взяла",
+                "взяло",
+                "взяли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "возьми",
+                "возьмите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Возьмите на работу Галилея.",
+          "trans": "Go and hire Galileo."
+        },
+        {
+          "text": "Возьми деньги.",
+          "trans": "Take the money."
+        },
+        {
+          "text": "Вот и возьмите на работу Галилея.",
+          "trans": "Then go and hire Galileo."
+        }
+      ],
+      "related": [
+        {
+          "word": "брать",
+          "gloss": "to take"
+        },
+        {
+          "word": "взятка",
+          "gloss": "bribe"
+        },
+        {
+          "word": "взяточник",
+          "gloss": "bribe-taker"
+        }
       ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "возьмёт",
-       "возьмут"
+    },
+    "все": {
+      "lemma": "все",
+      "stress": "все",
+      "pos": "pron",
+      "gloss": "all; everyone",
+      "meanings": [
+        {
+          "en": "all (of them)",
+          "note": "after a plural noun or pronoun: вы все"
+        },
+        {
+          "en": "everyone",
+          "note": "всем = to everyone (dative)"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Вы все воры.",
+          "trans": "You're all thieves."
+        },
+        {
+          "text": "Всем всё равно.",
+          "trans": "Nobody cares."
+        },
+        {
+          "text": "И знаешь, что самое главное? Всем всё равно.",
+          "trans": "And you know the main thing? Nobody cares."
+        }
+      ],
+      "related": []
+    },
+    "встреча": {
+      "lemma": "встреча",
+      "stress": "встре́ча",
+      "pos": "noun",
+      "gender": "f",
+      "gloss": "meeting",
+      "meanings": [
+        {
+          "en": "meeting",
+          "note": "in 'до встречи' = until we meet"
+        },
+        {
+          "en": "see you",
+          "note": "in 'до встречи' = until we meet"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "встреча",
+              "встречи"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "встречи",
+              "встреч"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "встрече",
+              "встречам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "встречу",
+              "встречи"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "встречей",
+              "встречами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "встрече",
+              "встречах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До встречи!",
+          "trans": "See you!"
+        },
+        {
+          "text": "У меня встреча.",
+          "trans": "I have a meeting."
+        },
+        {
+          "text": "Решается ваш вопрос, Клавдия Викторовна! Вы не видите, у меня встреча?",
+          "trans": "Your question is being sorted out, Klavdia Viktorovna! Can't you see I have a meeting?"
+        }
+      ],
+      "related": [
+        {
+          "word": "встретиться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встречаться",
+          "gloss": "to meet"
+        },
+        {
+          "word": "встретить",
+          "gloss": "to meet"
+        }
       ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "взял",
-        "взяла",
-        "взяло",
-        "взяли"
-       ]
-      }
-     ]
     },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "возьми",
-        "возьмите"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Возьмите на работу Галилея.",
-     "trans": "Go and hire Galileo."
-    },
-    {
-     "text": "Возьми деньги.",
-     "trans": "Take the money."
-    }
-   ]
-  },
-  "все": {
-   "lemma": "все",
-   "stress": null,
-   "pos": "pron",
-   "gloss": "all; everyone",
-   "meanings": [
-    {
-     "en": "all (of them)",
-     "note": "after a plural noun or pronoun: вы все"
-    },
-    {
-     "en": "everyone",
-     "note": "всем = to everyone (dative)"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Вы все воры.",
-     "trans": "You're all thieves."
-    },
-    {
-     "text": "Всем всё равно.",
-     "trans": "Nobody cares."
-    }
-   ]
-  },
-  "встреча": {
-   "lemma": "встреча",
-   "stress": "встре́ча",
-   "pos": "noun",
-   "gender": "f",
-   "gloss": "meeting",
-   "meanings": [
-    {
-     "en": "meeting",
-     "note": ""
-    },
-    {
-     "en": "see you",
-     "note": "in 'до встречи' = until we meet"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "встреча",
-       "встречи"
+    "вы": {
+      "lemma": "вы",
+      "stress": "вы",
+      "pos": "pron",
+      "gloss": "you (polite or plural)",
+      "meanings": [
+        {
+          "en": "you",
+          "note": "polite to one person, or to several people"
+        },
+        {
+          "en": "other forms: вас (gen/acc), вам (dat), вами (instr), вас (prep)",
+          "note": "case forms"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "вы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "вам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "вами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "вас"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Как вы все знаете...",
+          "trans": "As you all know..."
+        },
+        {
+          "text": "Губернатор вас поддерживает?",
+          "trans": "Does the governor support you?"
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "вас",
+          "gloss": "you (genitive/accusative)"
+        }
       ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "встречи",
-       "встреч"
+    },
+    "где": {
+      "lemma": "где",
+      "stress": "где",
+      "pos": "adv",
+      "gloss": "where",
+      "meanings": [
+        {
+          "en": "where",
+          "note": "location; for direction use 'куда'"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Где моя машинка?",
+          "trans": "Where's my toy car?"
+        },
+        {
+          "text": "Где папа?",
+          "trans": "Where's Dad?"
+        },
+        {
+          "text": "А где машинка? Где моя машинка?",
+          "trans": "Hey, where's the toy car? Where's my toy car?"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень где",
+          "gloss": "intensified / related adverb (where)"
+        }
       ]
-     },
-     {
-      "cells": [
-       "dative",
-       "встрече",
-       "встречам"
+    },
+    "готовить": {
+      "lemma": "готовить",
+      "stress": "гото́вить",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "приготовить",
+      "gloss": "to cook; to prepare",
+      "meanings": [
+        {
+          "en": "to cook",
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to cook; to prepare', paired with 'приготовить'."
+        },
+        {
+          "en": "to prepare",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "готовлю",
+              "готовим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "готовишь",
+              "готовите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "готовит",
+              "готовят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "готовил",
+                "готовила",
+                "готовило",
+                "готовили"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я готовлю обед.",
+          "trans": "I'm cooking lunch."
+        },
+        {
+          "text": "Мама хорошо готовит.",
+          "trans": "Mum cooks well."
+        },
+        {
+          "text": "Я уже не могу готовить, стирать, убирать. Я хочу на море!",
+          "trans": "I can't take the cooking, washing and cleaning any more. I want to go to the sea!"
+        }
+      ],
+      "related": [
+        {
+          "word": "приготовить",
+          "gloss": "to prepare"
+        },
+        {
+          "word": "готовый",
+          "gloss": "ready"
+        },
+        {
+          "word": "подготовить",
+          "gloss": "to prepare"
+        }
       ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "встречу",
-       "встречи"
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "gloss": "until, before; up to",
+      "meanings": [
+        {
+          "en": "until, till",
+          "note": "+ genitive"
+        },
+        {
+          "en": "до свидания = goodbye",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
+        }
+      ],
+      "related": []
+    },
+    "домой": {
+      "lemma": "домой",
+      "stress": "домо́й",
+      "pos": "adv",
+      "gloss": "(to) home, homeward",
+      "meanings": [
+        {
+          "en": "home, homeward (direction)",
+          "note": "contrast дома = at home"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "А ты иди домой и делай уроки.",
+          "trans": "And you go home and do your homework."
+        },
+        {
+          "text": "Пора идти домой.",
+          "trans": "It's time to go home."
+        },
+        {
+          "text": "Так, мы идём к слепым. А ты иди домой и делай уроки.",
+          "trans": "Right, we're going to the blind people. And you go home and do your homework."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень домой",
+          "gloss": "intensified / related adverb (home)"
+        }
       ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "встречей",
-       "встречами"
+    },
+    "же": {
+      "lemma": "же",
+      "stress": "же",
+      "pos": "part",
+      "gloss": "but, after all (emphasis)",
+      "meanings": [
+        {
+          "en": "but, after all",
+          "note": "adds emphasis to the word before it"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "У тебя же есть ещё.",
+          "trans": "But you've still got some."
+        },
+        {
+          "text": "Я же знаю.",
+          "trans": "But I know."
+        },
+        {
+          "text": "У тебя же есть ещё. Дай хоть одну.",
+          "trans": "But you've still got some. Give me just one."
+        }
+      ],
+      "related": []
+    },
+    "живо": {
+      "lemma": "живо",
+      "stress": "жи́во",
+      "pos": "adv",
+      "gloss": "quickly, look lively",
+      "meanings": [
+        {
+          "en": "quickly, at once",
+          "note": "in commands"
+        },
+        {
+          "en": "vividly",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Живо в архив!",
+          "trans": "Off to the archive, now!"
+        },
+        {
+          "text": "Живо сюда!",
+          "trans": "Come here, quick!"
+        },
+        {
+          "text": "Лёва! Ты ещё здесь? Живо в архив!",
+          "trans": "Lyova! Are you still here? Off to the archive, now!"
+        }
+      ],
+      "related": [
+        {
+          "word": "живот",
+          "gloss": "belly"
+        },
+        {
+          "word": "живой",
+          "gloss": "living"
+        },
+        {
+          "word": "животное",
+          "gloss": "animal"
+        }
       ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "встрече",
-       "встречах"
+    },
+    "за": {
+      "lemma": "за",
+      "stress": "за",
+      "pos": "prep",
+      "gloss": "for; behind",
+      "meanings": [
+        {
+          "en": "for",
+          "note": "спасибо за + accusative"
+        },
+        {
+          "en": "behind",
+          "note": "+ instrumental"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Спасибо за доверие!",
+          "trans": "Thank you for your trust!"
+        },
+        {
+          "text": "Спасибо за подарок.",
+          "trans": "Thanks for the present."
+        },
+        {
+          "text": "За что?",
+          "trans": "What for?"
+        }
+      ],
+      "related": []
+    },
+    "знать": {
+      "lemma": "знать",
+      "stress": "знать",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": null,
+      "gloss": "to know",
+      "meanings": [
+        {
+          "en": "to know",
+          "note": "a fact or a person"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "знаю",
+              "знаем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "знаешь",
+              "знаете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "знает",
+              "знают"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "знал",
+                "знала",
+                "знало",
+                "знали"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Как вы все знаете...",
+          "trans": "As you all know..."
+        },
+        {
+          "text": "Я не знаю.",
+          "trans": "I don't know."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "узнать",
+          "gloss": "to recognise"
+        },
+        {
+          "word": "признаться",
+          "gloss": "to confess"
+        },
+        {
+          "word": "признательный",
+          "gloss": "grateful"
+        }
       ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "До встречи!",
-     "trans": "See you!"
     },
-    {
-     "text": "У меня встреча.",
-     "trans": "I have a meeting."
-    }
-   ]
-  },
-  "вы": {
-   "lemma": "вы",
-   "stress": "вы",
-   "pos": "pron",
-   "gloss": "you (polite or plural)",
-   "meanings": [
-    {
-     "en": "you",
-     "note": "polite to one person, or to several people"
-    },
-    {
-     "en": "other forms: вас (gen/acc), вам (dat), вами (instr), вас (prep)",
-     "note": "case forms"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Как вы все знаете...",
-     "trans": "As you all know..."
-    },
-    {
-     "text": "Губернатор вас поддерживает?",
-     "trans": "Does the governor support you?"
-    }
-   ]
-  },
-  "где": {
-   "lemma": "где",
-   "stress": "где",
-   "pos": "adv",
-   "gloss": "where",
-   "meanings": [
-    {
-     "en": "where",
-     "note": ""
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Где моя машинка?",
-     "trans": "Where's my toy car?"
-    },
-    {
-     "text": "Где папа?",
-     "trans": "Where's Dad?"
-    }
-   ]
-  },
-  "готовить": {
-   "lemma": "готовить",
-   "stress": "гото́вить",
-   "pos": "verb",
-   "aspect": "impf",
-   "pair": "приготовить",
-   "gloss": "to cook; to prepare",
-   "meanings": [
-    {
-     "en": "to cook",
-     "note": ""
-    },
-    {
-     "en": "to prepare",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "готовлю",
-       "готовим"
+    "искать": {
+      "lemma": "искать",
+      "stress": "иска́ть",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": null,
+      "gloss": "to look for",
+      "meanings": [
+        {
+          "en": "to look for, to search",
+          "note": "Prefix 'ис-' ('out from within') marks extraction or exhaustion (stem 'кать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to look for'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "ищу",
+              "ищем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "ищешь",
+              "ищете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "ищет",
+              "ищут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "искал",
+                "искала",
+                "искало",
+                "искали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "ищи",
+                "ищите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я ищу работу.",
+          "trans": "I'm looking for a job."
+        },
+        {
+          "text": "Что ты ищешь?",
+          "trans": "What are you looking for?"
+        },
+        {
+          "text": "Ну что, довольна? Теперь новую работу искать.",
+          "trans": "Well, happy now? Now I have to look for a new job."
+        }
+      ],
+      "related": [
+        {
+          "word": "найти",
+          "gloss": "to find (pf)"
+        }
       ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "готовишь",
-       "готовите"
+    },
+    "кто": {
+      "lemma": "кто",
+      "stress": "кто",
+      "pos": "pron",
+      "gloss": "who",
+      "meanings": [
+        {
+          "en": "who",
+          "note": "in the instrumental: 'кем ты работаешь?'"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "кто"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "кого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "кому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "кого"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "кем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ком"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Кто ваши конкуренты?",
+          "trans": "Who are your rivals?"
+        },
+        {
+          "text": "Кто там?",
+          "trans": "Who's there?"
+        },
+        {
+          "text": "Аркадий Борисович, кто ваши конкуренты?",
+          "trans": "Arkady Borisovich, who are your rivals?"
+        }
+      ],
+      "related": []
+    },
+    "купить": {
+      "lemma": "купить",
+      "stress": "купи́ть",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "покупать",
+      "gloss": "to buy",
+      "meanings": [
+        {
+          "en": "to buy",
+          "note": "Used as an perfective (single completed action) verb meaning 'to buy', paired with 'покупать'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "куплю",
+              "купим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "купишь",
+              "купите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "купит",
+              "купят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "купил",
+                "купила",
+                "купило",
+                "купили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "купи",
+                "купите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я купил герметик.",
+          "trans": "I've bought sealant."
+        },
+        {
+          "text": "Купи хлеб, пожалуйста.",
+          "trans": "Buy some bread, please."
+        },
+        {
+          "text": "Юле бы дублёнку купили, Славику бы ноутбук.",
+          "trans": "We could have bought Yulia a sheepskin coat, and Slavik a laptop."
+        }
+      ],
+      "related": [
+        {
+          "word": "покупать",
+          "gloss": "to buy"
+        }
       ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "готовит",
-       "готовят"
+    },
+    "мой": {
+      "lemma": "мой",
+      "stress": "мой",
+      "pos": "det",
+      "gloss": "my, mine",
+      "meanings": [
+        {
+          "en": "my, mine",
+          "note": "agrees with the thing owned"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мой",
+              "моя",
+              "моё",
+              "мои"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "моего",
+              "моей",
+              "моего",
+              "моих"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "моему",
+              "моей",
+              "моему",
+              "моим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "мой / моего",
+              "мою",
+              "моё",
+              "мои / моих"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "моим",
+              "моей",
+              "моим",
+              "моими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "моём",
+              "моей",
+              "моём",
+              "моих"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Где моя машинка?",
+          "trans": "Where's my toy car?"
+        },
+        {
+          "text": "Это моё.",
+          "trans": "That's mine."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
+        }
+      ],
+      "related": []
+    },
+    "мы": {
+      "lemma": "мы",
+      "stress": "мы",
+      "pos": "pron",
+      "gloss": "we",
+      "meanings": [
+        {
+          "en": "we",
+          "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
+        },
+        {
+          "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
+          "note": "case forms"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нас"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Мы сделали много.",
+          "trans": "We've done a lot."
+        },
+        {
+          "text": "У нас грязный унитаз.",
+          "trans": "Our toilet is dirty."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
+        }
       ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "готовил",
-        "готовила",
-        "готовило",
-        "готовили"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Я готовлю обед.",
-     "trans": "I'm cooking lunch."
     },
-    {
-     "text": "Мама хорошо готовит.",
-     "trans": "Mum cooks well."
-    }
-   ]
-  },
-  "до": {
-   "lemma": "до",
-   "stress": "до",
-   "pos": "prep",
-   "gloss": "until, before; up to",
-   "meanings": [
-    {
-     "en": "until, till",
-     "note": "+ genitive"
-    },
-    {
-     "en": "до свидания = goodbye",
-     "note": ""
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "До свидания!",
-     "trans": "Goodbye!"
-    },
-    {
-     "text": "До завтра!",
-     "trans": "See you tomorrow!"
-    }
-   ]
-  },
-  "домой": {
-   "lemma": "домой",
-   "stress": "домо́й",
-   "pos": "adv",
-   "gloss": "(to) home, homeward",
-   "meanings": [
-    {
-     "en": "home, homeward (direction)",
-     "note": "contrast дома = at home"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "А ты иди домой и делай уроки.",
-     "trans": "And you go home and do your homework."
-    },
-    {
-     "text": "Пора идти домой.",
-     "trans": "It's time to go home."
-    }
-   ]
-  },
-  "же": {
-   "lemma": "же",
-   "stress": "же",
-   "pos": "part",
-   "gloss": "but, after all (emphasis)",
-   "meanings": [
-    {
-     "en": "but, after all",
-     "note": "adds emphasis to the word before it"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "У тебя же есть ещё.",
-     "trans": "But you've still got some."
-    },
-    {
-     "text": "Я же знаю.",
-     "trans": "But I know."
-    }
-   ]
-  },
-  "живо": {
-   "lemma": "живо",
-   "stress": "жи́во",
-   "pos": "adv",
-   "gloss": "quickly, look lively",
-   "meanings": [
-    {
-     "en": "quickly, at once",
-     "note": "in commands"
-    },
-    {
-     "en": "vividly",
-     "note": ""
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Живо в архив!",
-     "trans": "Off to the archive, now!"
-    },
-    {
-     "text": "Живо сюда!",
-     "trans": "Come here, quick!"
-    }
-   ]
-  },
-  "за": {
-   "lemma": "за",
-   "stress": "за",
-   "pos": "prep",
-   "gloss": "for; behind",
-   "meanings": [
-    {
-     "en": "for",
-     "note": "спасибо за + accusative"
-    },
-    {
-     "en": "behind",
-     "note": "+ instrumental"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Спасибо за доверие!",
-     "trans": "Thank you for your trust!"
-    },
-    {
-     "text": "Спасибо за подарок.",
-     "trans": "Thanks for the present."
-    }
-   ]
-  },
-  "знать": {
-   "lemma": "знать",
-   "stress": "знать",
-   "pos": "verb",
-   "aspect": "impf",
-   "pair": null,
-   "gloss": "to know",
-   "meanings": [
-    {
-     "en": "to know",
-     "note": "a fact or a person"
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "знаю",
-       "знаем"
+    "найти": {
+      "lemma": "найти",
+      "stress": "найти́",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "находить",
+      "gloss": "to find",
+      "meanings": [
+        {
+          "en": "to find",
+          "note": "Used as an perfective (single completed action) verb meaning 'to find', paired with 'находить'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "найду",
+              "найдём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "найдёшь",
+              "найдёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "найдёт",
+              "найдут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "нашёл",
+                "нашла",
+                "нашло",
+                "нашли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "найди",
+                "найдите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Где я найду грузчиков?",
+          "trans": "Where will I find movers?"
+        },
+        {
+          "text": "Я нашёл телефон.",
+          "trans": "I found the phone."
+        },
+        {
+          "text": "Ну где я сейчас найду грузчиков?",
+          "trans": "Well, where am I going to find movers right now?"
+        }
+      ],
+      "related": [
+        {
+          "word": "находить",
+          "gloss": "to find"
+        }
       ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "знаешь",
-       "знаете"
+    },
+    "не": {
+      "lemma": "не",
+      "stress": "не",
+      "pos": "part",
+      "gloss": "not",
+      "meanings": [
+        {
+          "en": "not",
+          "note": "goes right before the word it negates"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я не знаю.",
+          "trans": "I don't know."
+        },
+        {
+          "text": "Денег не хватило.",
+          "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": []
+    },
+    "никто": {
+      "lemma": "никто",
+      "stress": "никто́",
+      "pos": "pron",
+      "gloss": "nobody",
+      "meanings": [
+        {
+          "en": "nobody, no one",
+          "note": "needs 'не' with the verb: никто не войдёт"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Никто не войдёт.",
+          "trans": "Nobody will come in."
+        },
+        {
+          "text": "Я знаю город как никто.",
+          "trans": "I know the town like nobody else."
+        },
+        {
+          "text": "Садитесь и держите дверь. Никто не войдёт.",
+          "trans": "Sit down and hold the door. Nobody will come in."
+        }
+      ],
+      "related": []
+    },
+    "ничто": {
+      "lemma": "ничто",
+      "stress": "ничто́",
+      "pos": "pron",
+      "gloss": "nothing",
+      "meanings": [
+        {
+          "en": "nothing",
+          "note": "usually in the genitive ничего, with не: ничего не осталось"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ничто"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ничего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ничему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ничто"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ничем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ни о чём"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ничего не осталось.",
+          "trans": "There's nothing left."
+        },
+        {
+          "text": "Я ничего не знаю.",
+          "trans": "I don't know anything."
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
+        }
+      ],
+      "related": [
+        {
+          "word": "уничтожить",
+          "gloss": "to destroy"
+        }
       ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "знает",
-       "знают"
+    },
+    "нож": {
+      "lemma": "нож",
+      "stress": "нож",
+      "pos": "noun",
+      "gender": "m",
+      "gloss": "knife",
+      "meanings": [
+        {
+          "en": "knife",
+          "note": "end-stressed in all oblique forms: ножа, ножом"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "нож",
+              "ножи"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ножа",
+              "ножей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ножу",
+              "ножам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нож",
+              "ножи"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ножом",
+              "ножами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ноже",
+              "ножах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Живого человека ножом резать!",
+          "trans": "Cutting a living person with a knife!"
+        },
+        {
+          "text": "На столе лежит острый нож.",
+          "trans": "There is a sharp knife on the table."
+        },
+        {
+          "text": "Нина, ну как ты могла? Живого человека ножом резать!",
+          "trans": "Nina, how could you? Cutting a living person with a knife!"
+        }
+      ],
+      "related": [
+        {
+          "word": "ножный",
+          "gloss": "related to knife (adj.)"
+        }
       ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "знал",
-        "знала",
-        "знало",
-        "знали"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Как вы все знаете...",
-     "trans": "As you all know..."
     },
-    {
-     "text": "Я не знаю.",
-     "trans": "I don't know."
-    }
-   ]
-  },
-  "искать": {
-   "lemma": "искать",
-   "stress": "иска́ть",
-   "pos": "verb",
-   "aspect": "impf",
-   "pair": null,
-   "gloss": "to look for",
-   "meanings": [
-    {
-     "en": "to look for, to search",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "ищу",
-       "ищем"
+    "отсюда": {
+      "lemma": "отсюда",
+      "stress": "отсю́да",
+      "pos": "adv",
+      "gloss": "from here",
+      "meanings": [
+        {
+          "en": "from here, out of here",
+          "note": "locative / directional adverb"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я выйду отсюда.",
+          "trans": "I'll get out of here."
+        },
+        {
+          "text": "Отсюда не выйдешь.",
+          "trans": "You won't leave here."
+        },
+        {
+          "text": "Я выйду отсюда через две недели. Я решу все ваши проблемы.",
+          "trans": "I'll be out of here in two weeks. I'll solve all your problems."
+        }
+      ],
+      "related": [
+        {
+          "word": "сюда",
+          "gloss": "here"
+        }
       ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "ищешь",
-       "ищете"
+    },
+    "повторять": {
+      "lemma": "повторять",
+      "stress": "повторя́ть",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "повторить",
+      "gloss": "to repeat, to review",
+      "meanings": [
+        {
+          "en": "to repeat, to say again",
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'вторять'). Used as an imperfective (ongoing/repeated action) verb meaning 'to repeat, to review', paired with 'повторить'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "повторяю",
+              "повторяем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "повторяешь",
+              "повторяете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "повторяет",
+              "повторяют"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "повторял",
+                "повторяла",
+                "повторяло",
+                "повторяли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "повторяй",
+                "повторяйте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ещё раз повторяю, я решил вашу проблему.",
+          "trans": "I repeat once again, I solved your problem."
+        },
+        {
+          "text": "Повторяйте за мной.",
+          "trans": "Repeat after me."
+        },
+        {
+          "text": "Каждый день ты повторяешь одно и то же.",
+          "trans": "Every day you repeat the same thing."
+        }
+      ],
+      "related": [
+        {
+          "word": "повторить",
+          "gloss": "to repeat"
+        },
+        {
+          "word": "второй",
+          "gloss": "second"
+        },
+        {
+          "word": "повториться",
+          "gloss": "to recur"
+        }
       ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "ищет",
-       "ищут"
+    },
+    "пока": {
+      "lemma": "пока",
+      "stress": "пока́",
+      "pos": "adv",
+      "gloss": "for now, meanwhile; while; bye",
+      "meanings": [
+        {
+          "en": "for now, meanwhile",
+          "note": "а пока = but for now"
+        },
+        {
+          "en": "while",
+          "note": "as a conjunction: пока я сплю"
+        },
+        {
+          "en": "bye, see you",
+          "note": "informal goodbye"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока!",
+          "trans": "Bye!"
+        },
+        {
+          "text": "Пока, папа!",
+          "trans": "Bye, Dad!"
+        },
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        }
+      ],
+      "related": [
+        {
+          "word": "пока",
+          "gloss": "bye (as an adverb/interjection)"
+        }
       ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "искал",
-        "искала",
-        "искало",
-        "искали"
-       ]
-      }
-     ]
     },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "ищи",
-        "ищите"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Я ищу работу.",
-     "trans": "I'm looking for a job."
-    },
-    {
-     "text": "Что ты ищешь?",
-     "trans": "What are you looking for?"
-    }
-   ],
-   "related": [
-    {
-     "word": "найти",
-     "gloss": "to find (pf)"
-    }
-   ]
-  },
-  "кто": {
-   "lemma": "кто",
-   "stress": "кто",
-   "pos": "pron",
-   "gloss": "who",
-   "meanings": [
-    {
-     "en": "who",
-     "note": ""
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Кто ваши конкуренты?",
-     "trans": "Who are your rivals?"
-    },
-    {
-     "text": "Кто там?",
-     "trans": "Who's there?"
-    }
-   ]
-  },
-  "купить": {
-   "lemma": "купить",
-   "stress": "купи́ть",
-   "pos": "verb",
-   "aspect": "pf",
-   "pair": "покупать",
-   "gloss": "to buy",
-   "meanings": [
-    {
-     "en": "to buy",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Future",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "куплю",
-       "купим"
+    "понятно": {
+      "lemma": "понятно",
+      "stress": "поня́тно",
+      "pos": "adv",
+      "gloss": "clear, understood",
+      "meanings": [
+        {
+          "en": "(it is) clear, understood",
+          "note": "Всё понятно = all clear"
+        },
+        {
+          "en": "I see",
+          "note": "as a reply"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Всё понятно.",
+          "trans": "All clear."
+        },
+        {
+          "text": "Понятно, спасибо.",
+          "trans": "I see, thanks."
+        },
+        {
+          "text": "Я стану мэром, понятно?",
+          "trans": "I'm going to be mayor, understood?"
+        }
+      ],
+      "related": [
+        {
+          "word": "понятный",
+          "gloss": "understandable"
+        }
       ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "купишь",
-       "купите"
+    },
+    "проблема": {
+      "lemma": "проблема",
+      "stress": "пробле́ма",
+      "pos": "noun",
+      "gender": "f",
+      "gloss": "problem",
+      "meanings": [
+        {
+          "en": "problem",
+          "note": "'будут проблемы' = there'll be trouble"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "проблема",
+              "проблемы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "проблемы",
+              "проблем"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "проблеме",
+              "проблемам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "проблему",
+              "проблемы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "проблемой",
+              "проблемами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "проблеме",
+              "проблемах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это не проблема.",
+          "trans": "That's not a problem."
+        },
+        {
+          "text": "У меня проблема.",
+          "trans": "I have a problem."
+        },
+        {
+          "text": "Я знаю проблемы простых людей.",
+          "trans": "I know the problems of ordinary people."
+        }
+      ],
+      "related": [
+        {
+          "word": "проблемный",
+          "gloss": "problematic"
+        }
       ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "купит",
-       "купят"
+    },
+    "так": {
+      "lemma": "так",
+      "stress": "так",
+      "pos": "part",
+      "gloss": "so, then; like that",
+      "meanings": [
+        {
+          "en": "so, then",
+          "note": "at the start of a question"
+        },
+        {
+          "en": "like that, so",
+          "note": ""
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Так тебя не ждать?",
+          "trans": "So I shouldn't wait for you?"
+        },
+        {
+          "text": "Так хорошо.",
+          "trans": "That's good like that."
+        },
+        {
+          "text": "Так тебя не ждать сегодня?",
+          "trans": "So I shouldn't wait for you tonight?"
+        }
+      ],
+      "related": []
+    },
+    "такой": {
+      "lemma": "такой",
+      "stress": "тако́й",
+      "pos": "pron",
+      "gloss": "such, like this",
+      "meanings": [
+        {
+          "en": "such, so",
+          "note": "'что я за мэр такой' = what kind of mayor am I"
+        },
+        {
+          "en": "что такое? = what's this?",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "такой",
+              "такая",
+              "такое",
+              "такие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "такого",
+              "такой",
+              "такого",
+              "таких"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "такому",
+              "такой",
+              "такому",
+              "таким"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "такой / такого",
+              "такую",
+              "такое",
+              "такие / таких"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "таким",
+              "такой",
+              "таким",
+              "такими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "таком",
+              "такой",
+              "таком",
+              "таких"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это что такое?",
+          "trans": "What is this?"
+        },
+        {
+          "text": "Он такой добрый.",
+          "trans": "He's so kind."
+        },
+        {
+          "text": "Павел Юрьевич, это что такое?",
+          "trans": "Pavel Yuryevich, what is this?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тако",
+          "gloss": "in a such way (adv.)"
+        },
+        {
+          "word": "такость",
+          "gloss": "quality of being such"
+        }
       ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "купил",
-        "купила",
-        "купило",
-        "купили"
-       ]
-      }
-     ]
     },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "купи",
-        "купите"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Я купил герметик.",
-     "trans": "I've bought sealant."
-    },
-    {
-     "text": "Купи хлеб, пожалуйста.",
-     "trans": "Buy some bread, please."
-    }
-   ]
-  },
-  "мой": {
-   "lemma": "мой",
-   "stress": "мой",
-   "pos": "det",
-   "gloss": "my, mine",
-   "meanings": [
-    {
-     "en": "my, mine",
-     "note": "agrees with the thing owned"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "m",
-     "f",
-     "n",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "мой",
-       "моя",
-       "моё",
-       "мои"
+    "ты": {
+      "lemma": "ты",
+      "stress": "ты",
+      "pos": "pron",
+      "gloss": "you (informal)",
+      "meanings": [
+        {
+          "en": "you",
+          "note": "one person, informal"
+        },
+        {
+          "en": "other forms: тебя (gen/acc), тебе (dat), тобой (instr), тебе (prep)",
+          "note": "case forms"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ты жадина!",
+          "trans": "You're greedy!"
+        },
+        {
+          "text": "У тебя есть ещё?",
+          "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
+        }
       ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "моего",
-       "моей",
-       "моего",
-       "моих"
+    },
+    "уйти": {
+      "lemma": "уйти",
+      "stress": "уйти́",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "уходить",
+      "gloss": "to leave, to go away (on foot)",
+      "meanings": [
+        {
+          "en": "to leave, to go away, to walk out",
+          "note": "Used as an perfective (single completed action) verb meaning 'to leave, to go away (on foot)', paired with 'уходить'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "уйду",
+              "уйдём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "уйдёшь",
+              "уйдёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "уйдёт",
+              "уйдут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "ушёл",
+                "ушла",
+                "ушло",
+                "ушли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "уйди",
+                "уйдите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я хочу, чтобы он ушёл.",
+          "trans": "I want him to leave."
+        },
+        {
+          "text": "Она уже ушла домой.",
+          "trans": "She has already gone home."
+        },
+        {
+          "text": "А мне что, уйти?",
+          "trans": "So should I leave?"
+        }
+      ],
+      "related": [
+        {
+          "word": "уходить",
+          "gloss": "to leave"
+        }
       ]
-     },
-     {
-      "cells": [
-       "dative",
-       "моему",
-       "моей",
-       "моему",
-       "моим"
+    },
+    "что": {
+      "lemma": "что",
+      "stress": "что",
+      "pos": "pron",
+      "gloss": "what",
+      "meanings": [
+        {
+          "en": "what",
+          "note": "question word"
+        },
+        {
+          "en": "that",
+          "note": "conjunction"
+        },
+        {
+          "en": "ну что? = well?",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "чего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "чему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "чем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "чём"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Что это?",
+          "trans": "What's this?"
+        },
+        {
+          "text": "Смотри, что у меня есть.",
+          "trans": "Look what I've got."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
+        }
+      ],
+      "related": []
+    },
+    "шеф": {
+      "lemma": "шеф",
+      "stress": "шеф",
+      "pos": "noun",
+      "gender": "m",
+      "gloss": "boss, chief",
+      "meanings": [
+        {
+          "en": "boss, chief",
+          "note": "informal"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "шеф",
+              "шефы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "шефу",
+              "шефам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "шефа",
+              "шефов"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "шефом",
+              "шефами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "шефе",
+              "шефах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хитро придумано, шеф!",
+          "trans": "Cleverly thought out, boss!"
+        },
+        {
+          "text": "Шеф подписал приказ.",
+          "trans": "The boss signed the order."
+        },
+        {
+          "text": "Шеф на кухне.",
+          "trans": "The chef is in the kitchen."
+        }
+      ],
+      "animacy": "anim",
+      "related": [
+        {
+          "word": "шефный",
+          "gloss": "related to boss (adj.)"
+        }
       ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "мой / моего",
-       "мою",
-       "моё",
-       "мои / моих"
+    },
+    "это": {
+      "lemma": "это",
+      "stress": "э́то",
+      "pos": "pron",
+      "gloss": "this, that; it is",
+      "meanings": [
+        {
+          "en": "this, that",
+          "note": "pointing at a thing or a situation; 'это' + noun = 'this is ...'"
+        },
+        {
+          "en": "this is, that is",
+          "note": "points at something: это моё = that's mine"
+        },
+        {
+          "en": "is",
+          "note": "linking word: главное — это народ"
+        },
+        {
+          "en": "other forms: этого, этому, это, этим, этом",
+          "note": "case forms"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "этого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "этому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "этим"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "этом"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это моё.",
+          "trans": "That's mine."
+        },
+        {
+          "text": "А это тебе.",
+          "trans": "And this is for you."
+        },
+        {
+          "text": "А это тебе. Машинка!",
+          "trans": "And this is for you. A toy car!"
+        }
+      ],
+      "related": [
+        {
+          "word": "этот",
+          "gloss": "this (before a noun)"
+        }
       ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "моим",
-       "моей",
-       "моим",
-       "моими"
+    },
+    "я": {
+      "lemma": "я",
+      "stress": "я",
+      "pos": "pron",
+      "gloss": "I",
+      "meanings": [
+        {
+          "en": "I",
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
+        },
+        {
+          "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
+          "note": "case forms"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я учу уроки.",
+          "trans": "I'm doing my homework."
+        },
+        {
+          "text": "Я вырос здесь.",
+          "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
+        }
       ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "моём",
-       "моей",
-       "моём",
-       "моих"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Где моя машинка?",
-     "trans": "Where's my toy car?"
-    },
-    {
-     "text": "Это моё.",
-     "trans": "That's mine."
     }
-   ]
-  },
-  "мы": {
-   "lemma": "мы",
-   "stress": "мы",
-   "pos": "pron",
-   "gloss": "we",
-   "meanings": [
-    {
-     "en": "we",
-     "note": ""
-    },
-    {
-     "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
-     "note": "case forms"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Мы сделали много.",
-     "trans": "We've done a lot."
-    },
-    {
-     "text": "У нас грязный унитаз.",
-     "trans": "Our toilet is dirty."
-    }
-   ]
-  },
-  "найти": {
-   "lemma": "найти",
-   "stress": "найти́",
-   "pos": "verb",
-   "aspect": "pf",
-   "pair": "находить",
-   "gloss": "to find",
-   "meanings": [
-    {
-     "en": "to find",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Future",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "найду",
-       "найдём"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "найдёшь",
-       "найдёте"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "найдёт",
-       "найдут"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "нашёл",
-        "нашла",
-        "нашло",
-        "нашли"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "найди",
-        "найдите"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Где я найду грузчиков?",
-     "trans": "Where will I find movers?"
-    },
-    {
-     "text": "Я нашёл телефон.",
-     "trans": "I found the phone."
-    }
-   ]
-  },
-  "не": {
-   "lemma": "не",
-   "stress": "не",
-   "pos": "part",
-   "gloss": "not",
-   "meanings": [
-    {
-     "en": "not",
-     "note": "goes right before the word it negates"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Я не знаю.",
-     "trans": "I don't know."
-    },
-    {
-     "text": "Денег не хватило.",
-     "trans": "There wasn't enough money."
-    }
-   ]
-  },
-  "никто": {
-   "lemma": "никто",
-   "stress": "никто́",
-   "pos": "pron",
-   "gloss": "nobody",
-   "meanings": [
-    {
-     "en": "nobody, no one",
-     "note": "needs 'не' with the verb: никто не войдёт"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Никто не войдёт.",
-     "trans": "Nobody will come in."
-    },
-    {
-     "text": "Я знаю город как никто.",
-     "trans": "I know the town like nobody else."
-    }
-   ]
-  },
-  "ничто": {
-   "lemma": "ничто",
-   "stress": "ничто́",
-   "pos": "pron",
-   "gloss": "nothing",
-   "meanings": [
-    {
-     "en": "nothing",
-     "note": "usually in the genitive ничего, with не: ничего не осталось"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Ничего не осталось.",
-     "trans": "There's nothing left."
-    },
-    {
-     "text": "Я ничего не знаю.",
-     "trans": "I don't know anything."
-    }
-   ]
-  },
-  "нож": {
-   "lemma": "нож",
-   "stress": null,
-   "pos": "noun",
-   "gender": "m",
-   "gloss": "knife",
-   "meanings": [
-    {
-     "en": "knife",
-     "note": "end-stressed in all oblique forms: ножа, ножом"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "нож",
-       "ножи"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "ножа",
-       "ножей"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "ножу",
-       "ножам"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "нож",
-       "ножи"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "ножом",
-       "ножами"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "ноже",
-       "ножах"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Живого человека ножом резать!",
-     "trans": "Cutting a living person with a knife!"
-    },
-    {
-     "text": "На столе лежит острый нож.",
-     "trans": "There is a sharp knife on the table."
-    }
-   ]
-  },
-  "отсюда": {
-   "lemma": "отсюда",
-   "stress": "отсю́да",
-   "pos": "adv",
-   "gloss": "from here",
-   "meanings": [
-    {
-     "en": "from here, out of here",
-     "note": ""
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Я выйду отсюда.",
-     "trans": "I'll get out of here."
-    },
-    {
-     "text": "Отсюда не выйдешь.",
-     "trans": "You won't leave here."
-    }
-   ]
-  },
-  "повторять": {
-   "lemma": "повторять",
-   "stress": "повторя́ть",
-   "pos": "verb",
-   "aspect": "impf",
-   "pair": "повторить",
-   "gloss": "to repeat, to review",
-   "meanings": [
-    {
-     "en": "to repeat, to say again",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "повторяю",
-       "повторяем"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "повторяешь",
-       "повторяете"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "повторяет",
-       "повторяют"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "повторял",
-        "повторяла",
-        "повторяло",
-        "повторяли"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "повторяй",
-        "повторяйте"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Ещё раз повторяю, я решил вашу проблему.",
-     "trans": "I repeat once again, I solved your problem."
-    },
-    {
-     "text": "Повторяйте за мной.",
-     "trans": "Repeat after me."
-    }
-   ]
-  },
-  "пока": {
-   "lemma": "пока",
-   "stress": "пока́",
-   "pos": "adv",
-   "gloss": "for now, meanwhile; while; bye",
-   "meanings": [
-    {
-     "en": "for now, meanwhile",
-     "note": "а пока = but for now"
-    },
-    {
-     "en": "while",
-     "note": "as a conjunction: пока я сплю"
-    },
-    {
-     "en": "bye, see you",
-     "note": "informal goodbye"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Пока!",
-     "trans": "Bye!"
-    },
-    {
-     "text": "Пока, папа!",
-     "trans": "Bye, Dad!"
-    }
-   ]
-  },
-  "понятно": {
-   "lemma": "понятно",
-   "stress": "поня́тно",
-   "pos": "adv",
-   "gloss": "clear, understood",
-   "meanings": [
-    {
-     "en": "(it is) clear, understood",
-     "note": "Всё понятно = all clear"
-    },
-    {
-     "en": "I see",
-     "note": "as a reply"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Всё понятно.",
-     "trans": "All clear."
-    },
-    {
-     "text": "Понятно, спасибо.",
-     "trans": "I see, thanks."
-    }
-   ]
-  },
-  "проблема": {
-   "lemma": "проблема",
-   "stress": "пробле́ма",
-   "pos": "noun",
-   "gender": "f",
-   "gloss": "problem",
-   "meanings": [
-    {
-     "en": "problem",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "проблема",
-       "проблемы"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "проблемы",
-       "проблем"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "проблеме",
-       "проблемам"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "проблему",
-       "проблемы"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "проблемой",
-       "проблемами"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "проблеме",
-       "проблемах"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Это не проблема.",
-     "trans": "That's not a problem."
-    },
-    {
-     "text": "У меня проблема.",
-     "trans": "I have a problem."
-    }
-   ]
-  },
-  "так": {
-   "lemma": "так",
-   "stress": null,
-   "pos": "part",
-   "gloss": "so, then; like that",
-   "meanings": [
-    {
-     "en": "so, then",
-     "note": "at the start of a question"
-    },
-    {
-     "en": "like that, so",
-     "note": ""
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Так тебя не ждать?",
-     "trans": "So I shouldn't wait for you?"
-    },
-    {
-     "text": "Так хорошо.",
-     "trans": "That's good like that."
-    }
-   ]
-  },
-  "такой": {
-   "lemma": "такой",
-   "stress": "тако́й",
-   "pos": "pron",
-   "gloss": "such, like this",
-   "meanings": [
-    {
-     "en": "such, so",
-     "note": ""
-    },
-    {
-     "en": "что такое? = what's this?",
-     "note": ""
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Это что такое?",
-     "trans": "What is this?"
-    },
-    {
-     "text": "Он такой добрый.",
-     "trans": "He's so kind."
-    }
-   ]
-  },
-  "ты": {
-   "lemma": "ты",
-   "stress": "ты",
-   "pos": "pron",
-   "gloss": "you (informal)",
-   "meanings": [
-    {
-     "en": "you",
-     "note": "one person, informal"
-    },
-    {
-     "en": "other forms: тебя (gen/acc), тебе (dat), тобой (instr), тебе (prep)",
-     "note": "case forms"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Ты жадина!",
-     "trans": "You're greedy!"
-    },
-    {
-     "text": "У тебя есть ещё?",
-     "trans": "Have you got any more?"
-    }
-   ]
-  },
-  "уйти": {
-   "lemma": "уйти",
-   "stress": "уйти́",
-   "pos": "verb",
-   "aspect": "pf",
-   "pair": "уходить",
-   "gloss": "to leave, to go away (on foot)",
-   "meanings": [
-    {
-     "en": "to leave, to go away, to walk out",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Future",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "уйду",
-       "уйдём"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "уйдёшь",
-       "уйдёте"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "уйдёт",
-       "уйдут"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "ушёл",
-        "ушла",
-        "ушло",
-        "ушли"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "уйди",
-        "уйдите"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Я хочу, чтобы он ушёл.",
-     "trans": "I want him to leave."
-    },
-    {
-     "text": "Она уже ушла домой.",
-     "trans": "She has already gone home."
-    }
-   ]
-  },
-  "что": {
-   "lemma": "что",
-   "stress": "что",
-   "pos": "pron",
-   "gloss": "what",
-   "meanings": [
-    {
-     "en": "what",
-     "note": "question word"
-    },
-    {
-     "en": "that",
-     "note": "conjunction"
-    },
-    {
-     "en": "ну что? = well?",
-     "note": ""
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Что это?",
-     "trans": "What's this?"
-    },
-    {
-     "text": "Смотри, что у меня есть.",
-     "trans": "Look what I've got."
-    }
-   ]
-  },
-  "шеф": {
-   "lemma": "шеф",
-   "stress": "шеф",
-   "pos": "noun",
-   "gender": "m",
-   "gloss": "boss, chief",
-   "meanings": [
-    {
-     "en": "boss, chief",
-     "note": "informal"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "шеф",
-       "шефы"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "шефа",
-       "шефов"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "шефу",
-       "шефам"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "шефа",
-       "шефов"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "шефом",
-       "шефами"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "шефе",
-       "шефах"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Хитро придумано, шеф!",
-     "trans": "Cleverly thought out, boss!"
-    },
-    {
-     "text": "Шеф подписал приказ.",
-     "trans": "The boss signed the order."
-    }
-   ],
-   "animacy": "anim"
-  },
-  "это": {
-   "lemma": "это",
-   "stress": "э́то",
-   "pos": "pron",
-   "gloss": "this, that; it is",
-   "meanings": [
-    {
-     "en": "this, that",
-     "note": ""
-    },
-    {
-     "en": "this is, that is",
-     "note": "points at something: это моё = that's mine"
-    },
-    {
-     "en": "is",
-     "note": "linking word: главное — это народ"
-    },
-    {
-     "en": "other forms: этого, этому, это, этим, этом",
-     "note": "case forms"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Это моё.",
-     "trans": "That's mine."
-    },
-    {
-     "text": "А это тебе.",
-     "trans": "And this is for you."
-    }
-   ]
-  },
-  "я": {
-   "lemma": "я",
-   "stress": "я",
-   "pos": "pron",
-   "gloss": "I",
-   "meanings": [
-    {
-     "en": "I",
-     "note": ""
-    },
-    {
-     "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
-     "note": "case forms"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Я учу уроки.",
-     "trans": "I'm doing my homework."
-    },
-    {
-     "text": "Я вырос здесь.",
-     "trans": "I grew up here."
-    }
-   ]
   }
- }
 }

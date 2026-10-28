@@ -1,3857 +1,4356 @@
 {
- "lines": [
-  {
-   "seg": 1,
-   "trans": "Hey, Vanya, get up, get up!",
-   "words": [
+  "lines": [
     {
-     "t": "Эй,",
-     "lemma": "эй",
-     "pos": "interj",
-     "stress": null,
-     "gloss": "hey",
-     "gram": "interjection"
+      "seg": 1,
+      "trans": "Hey, Vanya, get up, get up!",
+      "words": [
+        {
+          "t": "Эй,",
+          "lemma": "эй",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "hey",
+          "gram": "interjection"
+        },
+        {
+          "t": "Ваня,",
+          "lemma": "ваня",
+          "pos": "name",
+          "stress": "Ва́ня",
+          "gloss": "Vanya",
+          "gram": "first name, vocative"
+        },
+        {
+          "t": "вставай,",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "встава́й",
+          "gloss": "get up",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "вставай!",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "встава́й",
+          "gloss": "get up",
+          "gram": "singular imperative, imperfective"
+        }
+      ]
     },
     {
-     "t": "Ваня,",
-     "lemma": "ваня",
-     "pos": "name",
-     "stress": "Ва́ня",
-     "gloss": "Vanya",
-     "gram": "first name, vocative"
+      "seg": 2,
+      "trans": "Come on, get up, you'll freeze in the snow!",
+      "words": [
+        {
+          "t": "Давай,",
+          "lemma": "давать",
+          "pos": "verb",
+          "stress": "Дава́й",
+          "gloss": "come on",
+          "gram": "imperative particle"
+        },
+        {
+          "t": "вставай,",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "встава́й",
+          "gloss": "get up",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "замёрзнешь",
+          "lemma": "замёрзнуть",
+          "pos": "verb",
+          "stress": "замёрзнешь",
+          "gloss": "will freeze",
+          "gram": "2nd person singular future, perfective"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on",
+          "gram": "preposition with locative"
+        },
+        {
+          "t": "снегу!",
+          "lemma": "снег",
+          "pos": "noun",
+          "stress": "снегу́",
+          "gloss": "the snow",
+          "gram": "masculine singular, locative"
+        }
+      ]
     },
     {
-     "t": "вставай,",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "встава́й",
-     "gloss": "get up",
-     "gram": "singular imperative, imperfective"
+      "seg": 3,
+      "trans": "Arise, vast country...",
+      "words": [
+        {
+          "t": "Вставай,",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "Встава́й",
+          "gloss": "arise",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "страна",
+          "lemma": "страна",
+          "pos": "noun",
+          "stress": "страна́",
+          "gloss": "country",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "огромная...",
+          "lemma": "огромный",
+          "pos": "adj",
+          "stress": "огро́мная",
+          "gloss": "vast, huge",
+          "gram": "feminine singular, nominative"
+        }
+      ]
     },
     {
-     "t": "вставай!",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "встава́й",
-     "gloss": "get up",
-     "gram": "singular imperative, imperfective"
+      "seg": 4,
+      "trans": "What country? Get on your feet!",
+      "words": [
+        {
+          "t": "Какая",
+          "lemma": "какой",
+          "pos": "det",
+          "stress": "Кака́я",
+          "gloss": "what",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "страна?",
+          "lemma": "страна",
+          "pos": "noun",
+          "stress": "страна́",
+          "gloss": "country",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "Вставай",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "Встава́й",
+          "gloss": "get up",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition with accusative"
+        },
+        {
+          "t": "ноги!",
+          "lemma": "нога",
+          "pos": "noun",
+          "stress": "но́ги",
+          "gloss": "feet",
+          "gram": "feminine plural, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 5,
+      "trans": "A vast country...",
+      "words": [
+        {
+          "t": "Страна",
+          "lemma": "страна",
+          "pos": "noun",
+          "stress": "Страна́",
+          "gloss": "country",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "огромная...",
+          "lemma": "огромный",
+          "pos": "adj",
+          "stress": "огро́мная",
+          "gloss": "vast, huge",
+          "gram": "feminine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 6,
+      "trans": "You slept here all night!",
+      "words": [
+        {
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (informal)",
+          "gram": "2nd person singular, nominative"
+        },
+        {
+          "t": "всю",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": "всю",
+          "gloss": "all, the whole",
+          "gram": "feminine singular, accusative"
+        },
+        {
+          "t": "ночь",
+          "lemma": "ночь",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "night",
+          "gram": "feminine singular, accusative duration"
+        },
+        {
+          "t": "тут",
+          "lemma": "тут",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "here",
+          "gram": "adverb"
+        },
+        {
+          "t": "проспал!",
+          "lemma": "проспать",
+          "pos": "verb",
+          "stress": "проспа́л",
+          "gloss": "slept through",
+          "gram": "past masculine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 7,
+      "trans": "Where am I? What time is it?",
+      "words": [
+        {
+          "t": "Где",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "adverb"
+        },
+        {
+          "t": "я?",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "Который",
+          "lemma": "который",
+          "pos": "det",
+          "stress": "Кото́рый",
+          "gloss": "what, which",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "час?",
+          "lemma": "час",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "hour (what time is it)",
+          "gram": "masculine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 8,
+      "trans": "It's already morning, people are walking past.",
+      "words": [
+        {
+          "t": "Уже",
+          "lemma": "уже",
+          "pos": "adv",
+          "stress": "Уже́",
+          "gloss": "already",
+          "gram": "adverb"
+        },
+        {
+          "t": "утро,",
+          "lemma": "утро",
+          "pos": "noun",
+          "stress": "у́тро",
+          "gloss": "morning",
+          "gram": "neuter singular, nominative"
+        },
+        {
+          "t": "люди",
+          "lemma": "человек",
+          "pos": "noun",
+          "stress": "лю́ди",
+          "gloss": "people",
+          "gram": "plural, nominative"
+        },
+        {
+          "t": "идут",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "иду́т",
+          "gloss": "are walking",
+          "gram": "3rd person plural present, imperfective"
+        },
+        {
+          "t": "мимо.",
+          "lemma": "мимо",
+          "pos": "adv",
+          "stress": "ми́мо",
+          "gloss": "past, by",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 9,
+      "trans": "Lyokha! Where is my friend Lyokha?",
+      "words": [
+        {
+          "t": "Лёха!",
+          "lemma": "лёха",
+          "pos": "name",
+          "stress": "Лёха",
+          "gloss": "Lyokha",
+          "gram": "first name, vocative"
+        },
+        {
+          "t": "Где",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "adverb"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": null,
+          "gloss": "my",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "друг",
+          "lemma": "друг",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "friend",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "Лёха?",
+          "lemma": "лёха",
+          "pos": "name",
+          "stress": "Лёха",
+          "gloss": "Lyokha",
+          "gram": "first name, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 10,
+      "trans": "Your friend is sleeping at home.",
+      "words": [
+        {
+          "t": "Дома",
+          "lemma": "дома",
+          "pos": "adv",
+          "stress": "До́ма",
+          "gloss": "at home",
+          "gram": "adverb"
+        },
+        {
+          "t": "спит",
+          "lemma": "спать",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is sleeping",
+          "gram": "3rd person singular present, imperfective"
+        },
+        {
+          "t": "твой",
+          "lemma": "твой",
+          "pos": "det",
+          "stress": null,
+          "gloss": "your",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "друг.",
+          "lemma": "друг",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "friend",
+          "gram": "masculine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 11,
+      "trans": "Listen, do you need a tank?",
+      "words": [
+        {
+          "t": "Слышишь,",
+          "lemma": "слышать",
+          "pos": "verb",
+          "stress": "Слы́шишь",
+          "gloss": "listen, you hear",
+          "gram": "2nd person singular present, imperfective"
+        },
+        {
+          "t": "танк",
+          "lemma": "танк",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "a tank",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "нужен",
+          "lemma": "нужный",
+          "pos": "adj",
+          "stress": "ну́жен",
+          "gloss": "needed",
+          "gram": "short masculine, nominative"
+        },
+        {
+          "t": "тебе?",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебе́",
+          "gloss": "to you",
+          "gram": "2nd person singular, dative"
+        }
+      ]
+    },
+    {
+      "seg": 12,
+      "trans": "Go and take it!",
+      "words": [
+        {
+          "t": "Иди",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "Иди́",
+          "gloss": "go",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "и",
+          "lemma": "и",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction"
+        },
+        {
+          "t": "забирай",
+          "lemma": "забирать",
+          "pos": "verb",
+          "stress": "забира́й",
+          "gloss": "take, collect",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "его!",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": "его́",
+          "gloss": "it",
+          "gram": "3rd person masculine singular, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 14,
+      "trans": "Hey, Vanya, get up, get up!",
+      "words": [
+        {
+          "t": "Эй,",
+          "lemma": "эй",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "hey",
+          "gram": "interjection"
+        },
+        {
+          "t": "Ваня,",
+          "lemma": "ваня",
+          "pos": "name",
+          "stress": "Ва́ня",
+          "gloss": "Vanya",
+          "gram": "first name, vocative"
+        },
+        {
+          "t": "вставай,",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "встава́й",
+          "gloss": "get up",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "вставай!",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "встава́й",
+          "gloss": "get up",
+          "gram": "singular imperative, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 16,
+      "trans": "Come on, get up, you'll freeze in the snow!",
+      "words": [
+        {
+          "t": "Давай,",
+          "lemma": "давать",
+          "pos": "verb",
+          "stress": "Дава́й",
+          "gloss": "come on",
+          "gram": "imperative particle"
+        },
+        {
+          "t": "вставай,",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "встава́й",
+          "gloss": "get up",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "замёрзнешь",
+          "lemma": "замёрзнуть",
+          "pos": "verb",
+          "stress": "замёрзнешь",
+          "gloss": "will freeze",
+          "gram": "2nd person singular future, perfective"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on",
+          "gram": "preposition with locative"
+        },
+        {
+          "t": "снегу!",
+          "lemma": "снег",
+          "pos": "noun",
+          "stress": "снегу́",
+          "gloss": "the snow",
+          "gram": "masculine singular, locative"
+        }
+      ]
+    },
+    {
+      "seg": 18,
+      "trans": "Arise, vast country...",
+      "words": [
+        {
+          "t": "Вставай,",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "Встава́й",
+          "gloss": "arise",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "страна",
+          "lemma": "страна",
+          "pos": "noun",
+          "stress": "страна́",
+          "gloss": "country",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "огромная...",
+          "lemma": "огромный",
+          "pos": "adj",
+          "stress": "огро́мная",
+          "gloss": "vast, huge",
+          "gram": "feminine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 20,
+      "trans": "What country? Get on your feet!",
+      "words": [
+        {
+          "t": "Какая",
+          "lemma": "какой",
+          "pos": "det",
+          "stress": "Кака́я",
+          "gloss": "what",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "страна?",
+          "lemma": "страна",
+          "pos": "noun",
+          "stress": "страна́",
+          "gloss": "country",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "Вставай",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "Встава́й",
+          "gloss": "get up",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition with accusative"
+        },
+        {
+          "t": "ноги!",
+          "lemma": "нога",
+          "pos": "noun",
+          "stress": "но́ги",
+          "gloss": "feet",
+          "gram": "feminine plural, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 22,
+      "trans": "A vast country...",
+      "words": [
+        {
+          "t": "Страна",
+          "lemma": "страна",
+          "pos": "noun",
+          "stress": "Страна́",
+          "gloss": "country",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "огромная...",
+          "lemma": "огромный",
+          "pos": "adj",
+          "stress": "огро́мная",
+          "gloss": "vast, huge",
+          "gram": "feminine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "You slept here all night!",
+      "words": [
+        {
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (informal)",
+          "gram": "2nd person singular, nominative"
+        },
+        {
+          "t": "всю",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": "всю",
+          "gloss": "all, the whole",
+          "gram": "feminine singular, accusative"
+        },
+        {
+          "t": "ночь",
+          "lemma": "ночь",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "night",
+          "gram": "feminine singular, accusative duration"
+        },
+        {
+          "t": "тут",
+          "lemma": "тут",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "here",
+          "gram": "adverb"
+        },
+        {
+          "t": "проспал!",
+          "lemma": "проспать",
+          "pos": "verb",
+          "stress": "проспа́л",
+          "gloss": "slept through",
+          "gram": "past masculine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 26,
+      "trans": "Where am I? What time is it?",
+      "words": [
+        {
+          "t": "Где",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "adverb"
+        },
+        {
+          "t": "я?",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "Который",
+          "lemma": "который",
+          "pos": "det",
+          "stress": "Кото́рый",
+          "gloss": "what, which",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "час?",
+          "lemma": "час",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "hour (what time is it)",
+          "gram": "masculine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 28,
+      "trans": "It's already morning, people are walking past.",
+      "words": [
+        {
+          "t": "Уже",
+          "lemma": "уже",
+          "pos": "adv",
+          "stress": "Уже́",
+          "gloss": "already",
+          "gram": "adverb"
+        },
+        {
+          "t": "утро,",
+          "lemma": "утро",
+          "pos": "noun",
+          "stress": "у́тро",
+          "gloss": "morning",
+          "gram": "neuter singular, nominative"
+        },
+        {
+          "t": "люди",
+          "lemma": "человек",
+          "pos": "noun",
+          "stress": "лю́ди",
+          "gloss": "people",
+          "gram": "plural, nominative"
+        },
+        {
+          "t": "идут",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "иду́т",
+          "gloss": "are walking",
+          "gram": "3rd person plural present, imperfective"
+        },
+        {
+          "t": "мимо.",
+          "lemma": "мимо",
+          "pos": "adv",
+          "stress": "ми́мо",
+          "gloss": "past, by",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 30,
+      "trans": "Lyokha! Where is my friend Lyokha?",
+      "words": [
+        {
+          "t": "Лёха!",
+          "lemma": "лёха",
+          "pos": "name",
+          "stress": "Лёха",
+          "gloss": "Lyokha",
+          "gram": "first name, vocative"
+        },
+        {
+          "t": "Где",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "adverb"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": null,
+          "gloss": "my",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "друг",
+          "lemma": "друг",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "friend",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "Лёха?",
+          "lemma": "лёха",
+          "pos": "name",
+          "stress": "Лёха",
+          "gloss": "Lyokha",
+          "gram": "first name, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 32,
+      "trans": "Your friend is sleeping at home.",
+      "words": [
+        {
+          "t": "Дома",
+          "lemma": "дома",
+          "pos": "adv",
+          "stress": "До́ма",
+          "gloss": "at home",
+          "gram": "adverb"
+        },
+        {
+          "t": "спит",
+          "lemma": "спать",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is sleeping",
+          "gram": "3rd person singular present, imperfective"
+        },
+        {
+          "t": "твой",
+          "lemma": "твой",
+          "pos": "det",
+          "stress": null,
+          "gloss": "your",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "друг.",
+          "lemma": "друг",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "friend",
+          "gram": "masculine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 34,
+      "trans": "Listen, do you need a tank?",
+      "words": [
+        {
+          "t": "Слышишь,",
+          "lemma": "слышать",
+          "pos": "verb",
+          "stress": "Слы́шишь",
+          "gloss": "listen, you hear",
+          "gram": "2nd person singular present, imperfective"
+        },
+        {
+          "t": "танк",
+          "lemma": "танк",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "a tank",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "нужен",
+          "lemma": "нужный",
+          "pos": "adj",
+          "stress": "ну́жен",
+          "gloss": "needed",
+          "gram": "short masculine, nominative"
+        },
+        {
+          "t": "тебе?",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебе́",
+          "gloss": "to you",
+          "gram": "2nd person singular, dative"
+        }
+      ]
+    },
+    {
+      "seg": 36,
+      "trans": "Go and take it!",
+      "words": [
+        {
+          "t": "Иди",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "Иди́",
+          "gloss": "go",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "и",
+          "lemma": "и",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction"
+        },
+        {
+          "t": "забирай",
+          "lemma": "забирать",
+          "pos": "verb",
+          "stress": "забира́й",
+          "gloss": "take, collect",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "его!",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": "его́",
+          "gloss": "it",
+          "gram": "3rd person masculine singular, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 38,
+      "trans": "Hey, Vanya, get up, get up!",
+      "words": [
+        {
+          "t": "Эй,",
+          "lemma": "эй",
+          "pos": "interj",
+          "stress": null,
+          "gloss": "hey",
+          "gram": "interjection"
+        },
+        {
+          "t": "Ваня,",
+          "lemma": "ваня",
+          "pos": "name",
+          "stress": "Ва́ня",
+          "gloss": "Vanya",
+          "gram": "first name, vocative"
+        },
+        {
+          "t": "вставай,",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "встава́й",
+          "gloss": "get up",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "вставай!",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "встава́й",
+          "gloss": "get up",
+          "gram": "singular imperative, imperfective"
+        }
+      ]
+    },
+    {
+      "seg": 39,
+      "trans": "Come on, get up, you'll freeze in the snow!",
+      "words": [
+        {
+          "t": "Давай,",
+          "lemma": "давать",
+          "pos": "verb",
+          "stress": "Дава́й",
+          "gloss": "come on",
+          "gram": "imperative particle"
+        },
+        {
+          "t": "вставай,",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "встава́й",
+          "gloss": "get up",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "замёрзнешь",
+          "lemma": "замёрзнуть",
+          "pos": "verb",
+          "stress": "замёрзнешь",
+          "gloss": "will freeze",
+          "gram": "2nd person singular future, perfective"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on",
+          "gram": "preposition with locative"
+        },
+        {
+          "t": "снегу!",
+          "lemma": "снег",
+          "pos": "noun",
+          "stress": "снегу́",
+          "gloss": "the snow",
+          "gram": "masculine singular, locative"
+        }
+      ]
+    },
+    {
+      "seg": 40,
+      "trans": "Arise, vast country...",
+      "words": [
+        {
+          "t": "Вставай,",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "Встава́й",
+          "gloss": "arise",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "страна",
+          "lemma": "страна",
+          "pos": "noun",
+          "stress": "страна́",
+          "gloss": "country",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "огромная...",
+          "lemma": "огромный",
+          "pos": "adj",
+          "stress": "огро́мная",
+          "gloss": "vast, huge",
+          "gram": "feminine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 41,
+      "trans": "What country? Get on your feet!",
+      "words": [
+        {
+          "t": "Какая",
+          "lemma": "какой",
+          "pos": "det",
+          "stress": "Кака́я",
+          "gloss": "what",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "страна?",
+          "lemma": "страна",
+          "pos": "noun",
+          "stress": "страна́",
+          "gloss": "country",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "Вставай",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "Встава́й",
+          "gloss": "get up",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition with accusative"
+        },
+        {
+          "t": "ноги!",
+          "lemma": "нога",
+          "pos": "noun",
+          "stress": "но́ги",
+          "gloss": "feet",
+          "gram": "feminine plural, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "A vast country...",
+      "words": [
+        {
+          "t": "Страна",
+          "lemma": "страна",
+          "pos": "noun",
+          "stress": "Страна́",
+          "gloss": "country",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "огромная...",
+          "lemma": "огромный",
+          "pos": "adj",
+          "stress": "огро́мная",
+          "gloss": "vast, huge",
+          "gram": "feminine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "You slept here all night!",
+      "words": [
+        {
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you (informal)",
+          "gram": "2nd person singular, nominative"
+        },
+        {
+          "t": "всю",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": "всю",
+          "gloss": "all, the whole",
+          "gram": "feminine singular, accusative"
+        },
+        {
+          "t": "ночь",
+          "lemma": "ночь",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "night",
+          "gram": "feminine singular, accusative duration"
+        },
+        {
+          "t": "тут",
+          "lemma": "тут",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "here",
+          "gram": "adverb"
+        },
+        {
+          "t": "проспал!",
+          "lemma": "проспать",
+          "pos": "verb",
+          "stress": "проспа́л",
+          "gloss": "slept through",
+          "gram": "past masculine singular, perfective"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "Where am I? What time is it?",
+      "words": [
+        {
+          "t": "Где",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "adverb"
+        },
+        {
+          "t": "я?",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "Который",
+          "lemma": "который",
+          "pos": "det",
+          "stress": "Кото́рый",
+          "gloss": "what, which",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "час?",
+          "lemma": "час",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "hour (what time is it)",
+          "gram": "masculine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "It's already morning, people are walking past.",
+      "words": [
+        {
+          "t": "Уже",
+          "lemma": "уже",
+          "pos": "adv",
+          "stress": "Уже́",
+          "gloss": "already",
+          "gram": "adverb"
+        },
+        {
+          "t": "утро,",
+          "lemma": "утро",
+          "pos": "noun",
+          "stress": "у́тро",
+          "gloss": "morning",
+          "gram": "neuter singular, nominative"
+        },
+        {
+          "t": "люди",
+          "lemma": "человек",
+          "pos": "noun",
+          "stress": "лю́ди",
+          "gloss": "people",
+          "gram": "plural, nominative"
+        },
+        {
+          "t": "идут",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "иду́т",
+          "gloss": "are walking",
+          "gram": "3rd person plural present, imperfective"
+        },
+        {
+          "t": "мимо.",
+          "lemma": "мимо",
+          "pos": "adv",
+          "stress": "ми́мо",
+          "gloss": "past, by",
+          "gram": "adverb"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "Lyokha! Where is my friend Lyokha?",
+      "words": [
+        {
+          "t": "Лёха!",
+          "lemma": "лёха",
+          "pos": "name",
+          "stress": "Лёха",
+          "gloss": "Lyokha",
+          "gram": "first name, vocative"
+        },
+        {
+          "t": "Где",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "adverb"
+        },
+        {
+          "t": "мой",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": null,
+          "gloss": "my",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "друг",
+          "lemma": "друг",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "friend",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "Лёха?",
+          "lemma": "лёха",
+          "pos": "name",
+          "stress": "Лёха",
+          "gloss": "Lyokha",
+          "gram": "first name, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "Your friend is sleeping at home.",
+      "words": [
+        {
+          "t": "Дома",
+          "lemma": "дома",
+          "pos": "adv",
+          "stress": "До́ма",
+          "gloss": "at home",
+          "gram": "adverb"
+        },
+        {
+          "t": "спит",
+          "lemma": "спать",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "is sleeping",
+          "gram": "3rd person singular present, imperfective"
+        },
+        {
+          "t": "твой",
+          "lemma": "твой",
+          "pos": "det",
+          "stress": null,
+          "gloss": "your",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "друг.",
+          "lemma": "друг",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "friend",
+          "gram": "masculine singular, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "Listen, do you need a tank?",
+      "words": [
+        {
+          "t": "Слышишь,",
+          "lemma": "слышать",
+          "pos": "verb",
+          "stress": "Слы́шишь",
+          "gloss": "listen, you hear",
+          "gram": "2nd person singular present, imperfective"
+        },
+        {
+          "t": "танк",
+          "lemma": "танк",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "a tank",
+          "gram": "masculine singular, nominative"
+        },
+        {
+          "t": "нужен",
+          "lemma": "нужный",
+          "pos": "adj",
+          "stress": "ну́жен",
+          "gloss": "needed",
+          "gram": "short masculine, nominative"
+        },
+        {
+          "t": "тебе?",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебе́",
+          "gloss": "to you",
+          "gram": "2nd person singular, dative"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "Go and take it!",
+      "words": [
+        {
+          "t": "Иди",
+          "lemma": "идти",
+          "pos": "verb",
+          "stress": "Иди́",
+          "gloss": "go",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "и",
+          "lemma": "и",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction"
+        },
+        {
+          "t": "забирай",
+          "lemma": "забирать",
+          "pos": "verb",
+          "stress": "забира́й",
+          "gloss": "take, collect",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "его!",
+          "lemma": "он",
+          "pos": "pron",
+          "stress": "его́",
+          "gloss": "it",
+          "gram": "3rd person masculine singular, accusative"
+        }
+      ]
+    },
+    {
+      "seg": 51,
+      "trans": "Arise, vast country...",
+      "words": [
+        {
+          "t": "Вставай,",
+          "lemma": "вставать",
+          "pos": "verb",
+          "stress": "Встава́й",
+          "gloss": "arise",
+          "gram": "singular imperative, imperfective"
+        },
+        {
+          "t": "страна",
+          "lemma": "страна",
+          "pos": "noun",
+          "stress": "страна́",
+          "gloss": "country",
+          "gram": "feminine singular, nominative"
+        },
+        {
+          "t": "огромная...",
+          "lemma": "огромный",
+          "pos": "adj",
+          "stress": "огро́мная",
+          "gloss": "vast, huge",
+          "gram": "feminine singular, nominative"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "seg": 2,
-   "trans": "Come on, get up, you'll freeze in the snow!",
-   "words": [
-    {
-     "t": "Давай,",
-     "lemma": "давать",
-     "pos": "verb",
-     "stress": "Дава́й",
-     "gloss": "come on",
-     "gram": "imperative particle"
+  ],
+  "lexicon": {
+    "весь": {
+      "lemma": "весь",
+      "stress": "весь",
+      "pos": "det",
+      "gloss": "all, whole; everyone, everything",
+      "meanings": [
+        {
+          "en": "all, the whole",
+          "note": "the neuter form 'всё' used alone"
+        },
+        {
+          "en": "everything",
+          "note": "neuter всё"
+        },
+        {
+          "en": "everyone",
+          "note": "plural все"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "весь",
+              "вся",
+              "всё",
+              "все"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "всего",
+              "всей",
+              "всего",
+              "всех"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "всему",
+              "всей",
+              "всему",
+              "всем"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "весь / всего",
+              "всю",
+              "всё",
+              "все / всех"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "всем",
+              "всей",
+              "всем",
+              "всеми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "всём",
+              "всей",
+              "всём",
+              "всех"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Всё нормально.",
+          "trans": "Everything's fine."
+        },
+        {
+          "text": "Как вы все знаете...",
+          "trans": "As you all know..."
+        },
+        {
+          "text": "Поделись со всеми.",
+          "trans": "Share with everyone."
+        }
+      ],
+      "related": []
     },
-    {
-     "t": "вставай,",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "встава́й",
-     "gloss": "get up",
-     "gram": "singular imperative, imperfective"
+    "вставать": {
+      "lemma": "вставать",
+      "stress": "встава́ть",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "встать",
+      "gloss": "to get up, to stand up",
+      "meanings": [
+        {
+          "en": "to get up",
+          "note": "out of bed or from the floor"
+        },
+        {
+          "en": "to stand up",
+          "note": ""
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "встаю",
+              "встаём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "встаёшь",
+              "встаёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "встаёт",
+              "встают"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "вставал",
+                "вставала",
+                "вставало",
+                "вставали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "вставай",
+                "вставайте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Тузик, давай встаём!",
+          "trans": "Come on, Tuzik, let's get up!"
+        },
+        {
+          "text": "Я встаю в семь утра.",
+          "trans": "I get up at seven in the morning."
+        },
+        {
+          "text": "Ну, Тузик, давай встаём!",
+          "trans": "Come on, Tuzik, let's get up!"
+        }
+      ],
+      "related": [
+        {
+          "word": "встать",
+          "gloss": "to stand up"
+        },
+        {
+          "word": "вставить",
+          "gloss": "to insert"
+        }
+      ]
     },
-    {
-     "t": "замёрзнешь",
-     "lemma": "замёрзнуть",
-     "pos": "verb",
-     "stress": "замёрзнешь",
-     "gloss": "will freeze",
-     "gram": "2nd person singular future, perfective"
+    "где": {
+      "lemma": "где",
+      "stress": "где",
+      "pos": "adv",
+      "gloss": "where",
+      "meanings": [
+        {
+          "en": "where",
+          "note": "location; for direction use 'куда'"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Где моя машинка?",
+          "trans": "Where's my toy car?"
+        },
+        {
+          "text": "Где папа?",
+          "trans": "Where's Dad?"
+        },
+        {
+          "text": "А где машинка? Где моя машинка?",
+          "trans": "Hey, where's the toy car? Where's my toy car?"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень где",
+          "gloss": "intensified / related adverb (where)"
+        }
+      ]
     },
-    {
-     "t": "на",
-     "lemma": "на",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "on",
-     "gram": "preposition with locative"
+    "давать": {
+      "lemma": "давать",
+      "stress": "дава́ть",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "дать",
+      "gloss": "to give; (imperative) let's",
+      "meanings": [
+        {
+          "en": "to give",
+          "note": "давай + 1st person plural or infinitive"
+        },
+        {
+          "en": "let's",
+          "note": "давай + 1st person plural or infinitive"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "даю",
+              "даём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "даёшь",
+              "даёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "даёт",
+              "дают"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "давал",
+                "давала",
+                "давало",
+                "давали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "давай",
+                "давайте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Давай поговорим.",
+          "trans": "Let's talk."
+        },
+        {
+          "text": "Он мне даёт книгу.",
+          "trans": "He gives me a book."
+        },
+        {
+          "text": "Давай мы его уволим, а тебя на его место назначим.",
+          "trans": "Let's fire him and put you in his place."
+        }
+      ],
+      "related": [
+        {
+          "word": "дать",
+          "gloss": "to give"
+        },
+        {
+          "word": "давай",
+          "gloss": "let's"
+        },
+        {
+          "word": "сдавать",
+          "gloss": "to take"
+        }
+      ]
     },
-    {
-     "t": "снегу!",
-     "lemma": "снег",
-     "pos": "noun",
-     "stress": "снегу́",
-     "gloss": "the snow",
-     "gram": "masculine singular, locative"
+    "дома": {
+      "lemma": "дома",
+      "stress": "до́ма",
+      "pos": "adv",
+      "gloss": "at home",
+      "meanings": [
+        {
+          "en": "at home",
+          "note": "location; compare домой = homeward"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ты, главное, оставь его дома.",
+          "trans": "The main thing is, you keep him at home."
+        },
+        {
+          "text": "Сегодня я сижу дома.",
+          "trans": "Today I'm staying at home."
+        },
+        {
+          "text": "А Осипенко сейчас дома лежит. У него больное сердце.",
+          "trans": "And Osipenko is lying at home right now. He has a sick heart."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень дома",
+          "gloss": "intensified / related adverb (at home)"
+        }
+      ]
+    },
+    "друг": {
+      "lemma": "друг",
+      "stress": "друг",
+      "pos": "noun",
+      "gender": "m",
+      "gloss": "friend",
+      "meanings": [
+        {
+          "en": "friend",
+          "note": "Common masculine noun meaning 'friend' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "друг",
+              "друзья"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "друга",
+              "друзей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "другу",
+              "друзьям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "друга",
+              "друзей"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "другом",
+              "друзьями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "друге",
+              "друзьях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это Ваня, друг моего детства.",
+          "trans": "This is Vanya, my childhood friend."
+        },
+        {
+          "text": "Он мой друг.",
+          "trans": "He's my friend."
+        },
+        {
+          "text": "Это Паша, мой заместитель. Это Ваня, друг моего детства.",
+          "trans": "This is Pasha, my deputy. This is Vanya, my childhood friend."
+        }
+      ],
+      "related": [
+        {
+          "word": "другой",
+          "gloss": "other"
+        }
+      ]
+    },
+    "забирать": {
+      "lemma": "забирать",
+      "stress": "забира́ть",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "забрать",
+      "gloss": "to take (away), to collect",
+      "meanings": [
+        {
+          "en": "to take, to take away",
+          "note": "забирать деньги = to take the money"
+        },
+        {
+          "en": "to pick up",
+          "note": "забирать детей из школы = to pick the kids up from school"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "забираю",
+              "забираем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "забираешь",
+              "забираете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "забирает",
+              "забирают"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "забирал",
+                "забирала",
+                "забирало",
+                "забирали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "забирай",
+                "забирайте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я забираю детей из школы.",
+          "trans": "I pick the children up from school."
+        },
+        {
+          "text": "Ты забираешь все деньги.",
+          "trans": "You take all the money."
+        },
+        {
+          "text": "А я тебе делаю условный срок. Плюс ты забираешь все деньги Вики.",
+          "trans": "And I get you a suspended sentence. Plus you take all of Vika's money."
+        }
+      ],
+      "related": [
+        {
+          "word": "забрать",
+          "gloss": "to take back"
+        },
+        {
+          "word": "убирать",
+          "gloss": "to clean up"
+        },
+        {
+          "word": "убираться",
+          "gloss": "to clear out"
+        }
+      ]
+    },
+    "замёрзнуть": {
+      "lemma": "замёрзнуть",
+      "stress": "замёрзнуть",
+      "pos": "verb",
+      "aspect": "perf",
+      "pair": "замерзать",
+      "gloss": "to get cold, freeze",
+      "meanings": [
+        {
+          "en": "to get cold, feel chilled; to freeze solid",
+          "note": "intransitive; past tense замёрз, замёрзла"
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "замёрзну",
+              "замёрзнем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "замёрзнешь",
+              "замёрзнете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "замёрзнет",
+              "замёрзнут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "замёрз",
+                "замёрзла",
+                "замёрзло",
+                "замёрзли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "замёрзни",
+                "замёрзните"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Даня, а ты что, замёрз?",
+          "trans": "Danya, are you cold or what?"
+        },
+        {
+          "text": "Я очень замёрзла на улице.",
+          "trans": "I got very cold outside."
+        },
+        {
+          "text": "Давай, вставай, замёрзнешь на снегу!",
+          "trans": "Come on, get up, you'll freeze in the snow!"
+        }
+      ],
+      "related": [
+        {
+          "word": "замерзать",
+          "gloss": "to get cold"
+        },
+        {
+          "word": "мёрзнуть",
+          "gloss": "to freeze"
+        }
+      ]
+    },
+    "и": {
+      "lemma": "и",
+      "stress": "и",
+      "pos": "conj",
+      "gloss": "and",
+      "meanings": [
+        {
+          "en": "and",
+          "note": "emphasis: вот поэтому ты и... = that's exactly why you..."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я родился и вырос здесь.",
+          "trans": "I was born and grew up here."
+        },
+        {
+          "text": "Папа и мама.",
+          "trans": "Dad and Mum."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": []
+    },
+    "идти": {
+      "lemma": "идти",
+      "stress": "идти́",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "пойти",
+      "gloss": "to go (on foot)",
+      "meanings": [
+        {
+          "en": "to go, to walk",
+          "note": "in one direction, now"
+        },
+        {
+          "en": "идти на второй срок",
+          "note": "to run for a second term"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "иду",
+              "идём"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "идёшь",
+              "идёте"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "идёт",
+              "идут"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "шёл",
+                "шла",
+                "шло",
+                "шли"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "иди",
+                "идите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я иду домой.",
+          "trans": "I'm going home."
+        },
+        {
+          "text": "Он идёт на второй срок.",
+          "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "ехать",
+          "gloss": "to go (by vehicle)"
+        }
+      ]
+    },
+    "какой": {
+      "lemma": "какой",
+      "stress": "како́й",
+      "pos": "det",
+      "gloss": "what; what a",
+      "meanings": [
+        {
+          "en": "what, which",
+          "note": "in questions"
+        },
+        {
+          "en": "what a, how",
+          "note": "in exclamations: какой грязный! = how dirty!"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "какой",
+              "какая",
+              "какое",
+              "какие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "какого",
+              "какой",
+              "какого",
+              "каких"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "какому",
+              "какой",
+              "какому",
+              "каким"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "какой / какого",
+              "какую",
+              "какое",
+              "какие / каких"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "каким",
+              "какой",
+              "каким",
+              "какими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "каком",
+              "какой",
+              "каком",
+              "каких"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Какой у вас город?",
+          "trans": "What is your town like?"
+        },
+        {
+          "text": "Какой красивый дом!",
+          "trans": "What a beautiful house!"
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "какой-то",
+          "gloss": "some"
+        },
+        {
+          "word": "какой-нибудь",
+          "gloss": "some"
+        }
+      ]
+    },
+    "который": {
+      "lemma": "который",
+      "stress": "кото́рый",
+      "pos": "pron",
+      "gloss": "who, which (relative)",
+      "meanings": [
+        {
+          "en": "who, which, that",
+          "note": "joins a description to a noun; agrees with that noun in gender and number"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "который",
+              "которая",
+              "которое",
+              "которые"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "которого",
+              "которой",
+              "которого",
+              "которых"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "которому",
+              "которой",
+              "которому",
+              "которым"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "который/которого",
+              "которую",
+              "которое",
+              "которые/которых"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "которым",
+              "которой",
+              "которым",
+              "которыми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "котором",
+              "которой",
+              "котором",
+              "которых"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это мэр, который держит слово.",
+          "trans": "This is a mayor who keeps his word."
+        },
+        {
+          "text": "Где книга, которая была здесь?",
+          "trans": "Where is the book that was here?"
+        },
+        {
+          "text": "А что я за мэр такой, который держит своё слово?",
+          "trans": "And what kind of mayor would I be if I kept my word?"
+        }
+      ],
+      "related": [
+        {
+          "word": "некоторый",
+          "gloss": "some"
+        }
+      ]
+    },
+    "мимо": {
+      "lemma": "мимо",
+      "stress": "ми́мо",
+      "pos": "adv",
+      "gloss": "past, by",
+      "meanings": [
+        {
+          "en": "past, by (moving past something)",
+          "note": "Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Уже утро, люди идут мимо.",
+          "trans": "It's already morning, people are walking past."
+        },
+        {
+          "text": "Пройти мимо.",
+          "trans": "To walk past."
+        }
+      ],
+      "related": [
+        {
+          "word": "мимый",
+          "gloss": "past (adjective)"
+        }
+      ]
+    },
+    "мой": {
+      "lemma": "мой",
+      "stress": "мой",
+      "pos": "det",
+      "gloss": "my, mine",
+      "meanings": [
+        {
+          "en": "my, mine",
+          "note": "agrees with the thing owned"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мой",
+              "моя",
+              "моё",
+              "мои"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "моего",
+              "моей",
+              "моего",
+              "моих"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "моему",
+              "моей",
+              "моему",
+              "моим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "мой / моего",
+              "мою",
+              "моё",
+              "мои / моих"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "моим",
+              "моей",
+              "моим",
+              "моими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "моём",
+              "моей",
+              "моём",
+              "моих"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Где моя машинка?",
+          "trans": "Where's my toy car?"
+        },
+        {
+          "text": "Это моё.",
+          "trans": "That's mine."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
+        }
+      ],
+      "related": []
+    },
+    "на": {
+      "lemma": "на",
+      "stress": "на",
+      "pos": "prep",
+      "gloss": "on, onto; for",
+      "meanings": [
+        {
+          "en": "on",
+          "note": "+ prepositional: на сайте"
+        },
+        {
+          "en": "onto, to; for",
+          "note": "+ accusative: на второй срок"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Программа на сайте.",
+          "trans": "The programme is on the website."
+        },
+        {
+          "text": "Он идёт на второй срок.",
+          "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": []
+    },
+    "нога": {
+      "lemma": "нога",
+      "stress": "нога́",
+      "pos": "noun",
+      "gender": "f",
+      "gloss": "leg, foot",
+      "meanings": [
+        {
+          "en": "leg",
+          "note": "Russian uses one word for both"
+        },
+        {
+          "en": "foot",
+          "note": "Russian uses one word for both"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "нога",
+              "ноги"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ноги",
+              "ног"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ноге",
+              "ногам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ногу",
+              "ноги"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ногой",
+              "ногами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ноге",
+              "ногах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Правая нога.",
+          "trans": "The right foot."
+        },
+        {
+          "text": "У меня болит нога.",
+          "trans": "My leg hurts."
+        },
+        {
+          "text": "Заходите. Поставьте, пожалуйста, правую ногу на кровать.",
+          "trans": "Come in. Please put your right foot on the bed."
+        }
+      ],
+      "related": [
+        {
+          "word": "ногный",
+          "gloss": "related to leg (adj.)"
+        }
+      ]
+    },
+    "ночь": {
+      "lemma": "ночь",
+      "stress": "ночь",
+      "pos": "noun",
+      "gender": "f",
+      "gloss": "night",
+      "meanings": [
+        {
+          "en": "night",
+          "note": "ночью = at night; спокойной ночи = good night"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ночь",
+              "ночи"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ночи",
+              "ночей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ночи",
+              "ночам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ночь",
+              "ночи"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ночью",
+              "ночами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ночи",
+              "ночах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Спокойной ночи!",
+          "trans": "Good night!"
+        },
+        {
+          "text": "Ночью я сплю.",
+          "trans": "At night I sleep."
+        },
+        {
+          "text": "Ну что, Аркаша? Наступила ночь, просыпается мафия.",
+          "trans": "So, Arkasha? Night has fallen, the mafia wakes up."
+        }
+      ],
+      "related": [
+        {
+          "word": "ночный",
+          "gloss": "related to night (adj.)"
+        }
+      ]
+    },
+    "нужный": {
+      "lemma": "нужный",
+      "stress": "ну́жный",
+      "pos": "adj",
+      "gloss": "necessary, needed",
+      "meanings": [
+        {
+          "en": "needed",
+          "note": "short form 'нужен / нужна / нужно / нужны' + dative: 'мне нужна работа' = I need a job"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "нужный",
+              "нужная",
+              "нужное",
+              "нужные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нужного",
+              "нужной",
+              "нужного",
+              "нужных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нужному",
+              "нужной",
+              "нужному",
+              "нужным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нужный / нужного",
+              "нужную",
+              "нужное",
+              "нужные / нужных"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нужным",
+              "нужной",
+              "нужным",
+              "нужными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нужном",
+              "нужной",
+              "нужном",
+              "нужных"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Short form",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "short",
+                "нужен",
+                "нужна",
+                "нужно",
+                "нужны"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Мне ещё работа нужна.",
+          "trans": "I need a job too."
+        },
+        {
+          "text": "Тебе нужна ручка?",
+          "trans": "Do you need a pen?"
+        },
+        {
+          "text": "Ему нужны деньги.",
+          "trans": "He needs money."
+        }
+      ],
+      "related": [
+        {
+          "word": "нужно",
+          "gloss": "necessary"
+        },
+        {
+          "word": "нужнее",
+          "gloss": "more needed"
+        }
+      ]
+    },
+    "огромный": {
+      "lemma": "огромный",
+      "stress": "огро́мный",
+      "pos": "adj",
+      "gloss": "huge, enormous",
+      "meanings": [
+        {
+          "en": "huge, enormous, vast",
+          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('huge, enormous')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "огромный",
+              "огромная",
+              "огромное",
+              "огромные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "огромного",
+              "огромной",
+              "огромного",
+              "огромных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "огромному",
+              "огромной",
+              "огромному",
+              "огромным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "огромный/огромного",
+              "огромную",
+              "огромное",
+              "огромные/огромных"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "огромным",
+              "огромной",
+              "огромным",
+              "огромными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "огромном",
+              "огромной",
+              "огромном",
+              "огромных"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Шансы у нас огромные.",
+          "trans": "Our chances are huge."
+        },
+        {
+          "text": "Спасибо вам огромное!",
+          "trans": "Thank you so much!"
+        },
+        {
+          "text": "Кстати, если хочешь, иди к нам в команду. Шансы у нас огромные.",
+          "trans": "By the way, if you want, join our team. Our chances are huge."
+        }
+      ],
+      "related": [
+        {
+          "word": "огромно",
+          "gloss": "in a huge way (adv.)"
+        },
+        {
+          "word": "огромность",
+          "gloss": "quality of being huge"
+        }
+      ]
+    },
+    "он": {
+      "lemma": "он",
+      "stress": "он",
+      "pos": "pron",
+      "gloss": "he; it",
+      "meanings": [
+        {
+          "en": "he",
+          "note": "accusative/genitive его (него after prepositions), dative ему (нему)"
+        },
+        {
+          "en": "it",
+          "note": "for masculine and neuter things"
+        },
+        {
+          "en": "other forms: его (gen/acc), ему (dat), им (instr), нём (prep)",
+          "note": "case forms"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "он"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "его"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "его"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "им"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нём"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Держи его!",
+          "trans": "Grab him!"
+        },
+        {
+          "text": "Надо его помыть.",
+          "trans": "It needs a wash."
+        },
+        {
+          "text": "Очкарик! Держи его!",
+          "trans": "Four-eyes! Grab him!"
+        }
+      ],
+      "related": []
+    },
+    "проспать": {
+      "lemma": "проспать",
+      "stress": "проспа́ть",
+      "pos": "verb",
+      "aspect": "pf",
+      "pair": "просыпать",
+      "gloss": "to sleep through, overslept; sleep for",
+      "meanings": [
+        {
+          "en": "to sleep for (a duration of time); to oversleep",
+          "note": "Prefix 'про-' indicates movement through, completion, or missing the mark (stem 'спать'). Used as an perfective (single completed action) verb meaning 'to sleep through, overslept; sleep for', paired with 'просыпать'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "просплю",
+              "проспим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "проспишь",
+              "проспите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "проспит",
+              "проспят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "проспал",
+                "проспала",
+                "проспало",
+                "проспали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "проспи",
+                "проспите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ты всю ночь тут проспал!",
+          "trans": "You slept here all night!"
+        },
+        {
+          "text": "Я проспал поезд.",
+          "trans": "I overslept the train."
+        },
+        {
+          "text": "Шеф, извините, я просто проспал.",
+          "trans": "Boss, excuse me, I simply overslept."
+        }
+      ],
+      "related": [
+        {
+          "word": "просыпать",
+          "gloss": "to sleep through"
+        },
+        {
+          "word": "проспаться",
+          "gloss": "to sleep off"
+        },
+        {
+          "word": "поспать",
+          "gloss": "to sleep"
+        }
+      ]
+    },
+    "слышать": {
+      "lemma": "слышать",
+      "stress": "слы́шать",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "услышать",
+      "gloss": "to hear",
+      "meanings": [
+        {
+          "en": "to hear",
+          "note": "слышать о + prepositional"
+        },
+        {
+          "en": "to hear about",
+          "note": "слышать о + prepositional"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "слышу",
+              "слышим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "слышишь",
+              "слышите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "слышит",
+              "слышат"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "слышал",
+                "слышала",
+                "слышало",
+                "слышали"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я ничего не слышал.",
+          "trans": "I didn't hear anything."
+        },
+        {
+          "text": "Ты меня слышишь?",
+          "trans": "Can you hear me?"
+        },
+        {
+          "text": "Как странно, я ничего об этом не слышал.",
+          "trans": "How strange, I've heard nothing about it."
+        }
+      ],
+      "related": [
+        {
+          "word": "услышать",
+          "gloss": "to hear"
+        }
+      ]
+    },
+    "снег": {
+      "lemma": "снег",
+      "stress": "снег",
+      "pos": "noun",
+      "gender": "m",
+      "gloss": "snow",
+      "meanings": [
+        {
+          "en": "snow",
+          "note": "locative в снегу after в/на"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "снег",
+              "снега"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "снега",
+              "снегов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "снегу",
+              "снегам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "снег",
+              "снега"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "снегом",
+              "снегами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "снегу",
+              "снегах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Сейчас снег уберём.",
+          "trans": "Right now we will clear the snow."
+        },
+        {
+          "text": "В лесу лежит белый снег.",
+          "trans": "White snow lies in the forest."
+        },
+        {
+          "text": "Ой, тут кругом снег! А где мы сидеть будем?",
+          "trans": "Oh, there is snow all around here! And where are we going to sit?"
+        }
+      ],
+      "related": [
+        {
+          "word": "снегный",
+          "gloss": "related to snow (adj.)"
+        }
+      ]
+    },
+    "спать": {
+      "lemma": "спать",
+      "stress": "спать",
+      "pos": "verb",
+      "aspect": "impf",
+      "pair": "поспать",
+      "gloss": "to sleep",
+      "meanings": [
+        {
+          "en": "to sleep, to be asleep",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'пать'). Used as an imperfective (ongoing/repeated action) verb meaning 'to sleep', paired with 'поспать'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "сплю",
+              "спим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "спишь",
+              "спите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "спит",
+              "спят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "спал",
+                "спала",
+                "спало",
+                "спали"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "спи",
+                "спите"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Поехали спать.",
+          "trans": "Let's go to sleep."
+        },
+        {
+          "text": "Ребёнок уже спит.",
+          "trans": "The child is already asleep."
+        },
+        {
+          "text": "Ладно, утром позвоню ей. Поехали спать.",
+          "trans": "All right, I'll call her in the morning. Let's go to sleep."
+        }
+      ],
+      "related": [
+        {
+          "word": "поспать",
+          "gloss": "to sleep"
+        }
+      ]
+    },
+    "страна": {
+      "lemma": "страна",
+      "stress": "страна́",
+      "pos": "noun",
+      "gender": "f",
+      "gloss": "country",
+      "meanings": [
+        {
+          "en": "country, nation",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'трана'). Common feminine noun meaning 'country' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "страна",
+              "страны"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "страны",
+              "стран"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "стране",
+              "странам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "страну",
+              "страны"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "страной",
+              "странами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "стране",
+              "странах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Над тобой вся страна смеётся!",
+          "trans": "The whole country is laughing at you!"
+        },
+        {
+          "text": "Это большая страна.",
+          "trans": "It is a big country."
+        },
+        {
+          "text": "Над тобой вся страна смеётся! Все видели, как ты из окна летел.",
+          "trans": "The whole country is laughing at you! Everyone saw you fly out the window."
+        }
+      ],
+      "related": [
+        {
+          "word": "странно",
+          "gloss": "strange"
+        },
+        {
+          "word": "странный",
+          "gloss": "strange"
+        },
+        {
+          "word": "страница",
+          "gloss": "page"
+        }
+      ]
+    },
+    "танк": {
+      "lemma": "танк",
+      "stress": "танк",
+      "pos": "noun",
+      "gender": "m",
+      "gloss": "tank (armoured vehicle / toy tank)",
+      "meanings": [
+        {
+          "en": "tank (armoured vehicle or toy)",
+          "note": "military armored combat vehicle or toy replica"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "танк",
+              "танки"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "танка",
+              "танков"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "танку",
+              "танкам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "танк",
+              "танки"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "танком",
+              "танками"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "танке",
+              "танках"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Вы очень долго чините мой танк.",
+          "trans": "You are taking very long to fix my tank."
+        },
+        {
+          "text": "Игрушечный танк.",
+          "trans": "A toy tank."
+        },
+        {
+          "text": "У меня танк сломался.",
+          "trans": "My tank broke."
+        }
+      ],
+      "related": [
+        {
+          "word": "танкный",
+          "gloss": "related to tank (adj.)"
+        }
+      ]
+    },
+    "твой": {
+      "lemma": "твой",
+      "stress": "твой",
+      "pos": "det",
+      "gloss": "your (informal)",
+      "meanings": [
+        {
+          "en": "your, yours",
+          "note": "to someone you call ты"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "твой",
+              "твоя",
+              "твоё",
+              "твои"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "твоего",
+              "твоей",
+              "твоего",
+              "твоих"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "твоему",
+              "твоей",
+              "твоему",
+              "твоим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "твой / твоего",
+              "твою",
+              "твоё",
+              "твои / твоих"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "твоим",
+              "твоей",
+              "твоим",
+              "твоими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "твоём",
+              "твоей",
+              "твоём",
+              "твоих"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это твой кофе.",
+          "trans": "This is your coffee."
+        },
+        {
+          "text": "Я бы на твоём месте подумал.",
+          "trans": "If I were you, I'd think about it."
+        },
+        {
+          "text": "Твой начальник здесь.",
+          "trans": "Your boss is here."
+        }
+      ],
+      "related": []
+    },
+    "тут": {
+      "lemma": "тут",
+      "stress": "тут",
+      "pos": "adv",
+      "gloss": "here",
+      "meanings": [
+        {
+          "en": "here",
+          "note": "colloquial, like здесь"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я тут.",
+          "trans": "I'm here."
+        },
+        {
+          "text": "Тут к вам человек.",
+          "trans": "There's someone here to see you."
+        },
+        {
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, I'm sorry, there's a man here to see you."
+        }
+      ],
+      "related": [
+        {
+          "word": "здесь",
+          "gloss": "here"
+        }
+      ]
+    },
+    "ты": {
+      "lemma": "ты",
+      "stress": "ты",
+      "pos": "pron",
+      "gloss": "you (informal)",
+      "meanings": [
+        {
+          "en": "you",
+          "note": "one person, informal"
+        },
+        {
+          "en": "other forms: тебя (gen/acc), тебе (dat), тобой (instr), тебе (prep)",
+          "note": "case forms"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ты жадина!",
+          "trans": "You're greedy!"
+        },
+        {
+          "text": "У тебя есть ещё?",
+          "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
+        }
+      ]
+    },
+    "уже": {
+      "lemma": "уже",
+      "stress": "уже́",
+      "pos": "adv",
+      "gloss": "already",
+      "meanings": [
+        {
+          "en": "already",
+          "note": "уже четыре года = for four years now"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я уже четыре года работаю мэром.",
+          "trans": "I've been mayor for four years now."
+        },
+        {
+          "text": "Папа уже дома.",
+          "trans": "Dad is already home."
+        },
+        {
+          "text": "Я уже дома.",
+          "trans": "I'm already home."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень уже",
+          "gloss": "intensified / related adverb (already)"
+        }
+      ]
+    },
+    "утро": {
+      "lemma": "утро",
+      "stress": "у́тро",
+      "pos": "noun",
+      "gender": "n",
+      "gloss": "morning",
+      "meanings": [
+        {
+          "en": "morning",
+          "note": "утром = in the morning"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "утро",
+              "утра"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "утра",
+              "утр"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "утру",
+              "утрам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "утро",
+              "утра"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "утром",
+              "утрами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "утре",
+              "утрах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Доброе утро!",
+          "trans": "Good morning!"
+        },
+        {
+          "text": "Какое хорошее утро!",
+          "trans": "What a lovely morning!"
+        },
+        {
+          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
+          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
+        }
+      ],
+      "related": [
+        {
+          "word": "утрный",
+          "gloss": "related to morning (adj.)"
+        }
+      ]
+    },
+    "час": {
+      "lemma": "час",
+      "stress": "час",
+      "pos": "noun",
+      "gender": "m",
+      "gloss": "hour",
+      "meanings": [
+        {
+          "en": "hour",
+          "note": "в два часа = at two o'clock"
+        },
+        {
+          "en": "o'clock",
+          "note": "в два часа = at two o'clock"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "час",
+              "часы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "часа",
+              "часов"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "часу",
+              "часам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "час",
+              "часы"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "часом",
+              "часами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "часе",
+              "часах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я буду через час.",
+          "trans": "I'll be there in an hour."
+        },
+        {
+          "text": "Сейчас три часа.",
+          "trans": "It's three o'clock now."
+        },
+        {
+          "text": "Слушай, я уеду на полтора часа. Ты с Викой посиди, понял?",
+          "trans": "Listen, I'm going out for an hour and a half. You stay with Vika, got it?"
+        }
+      ],
+      "governs": "after 2, 3, 4 and полтора the genitive часа is stressed on the ending",
+      "related": [
+        {
+          "word": "часный",
+          "gloss": "related to hour (adj.)"
+        }
+      ]
+    },
+    "человек": {
+      "lemma": "человек",
+      "stress": "челове́к",
+      "pos": "noun",
+      "gender": "m",
+      "gloss": "person; (pl) people",
+      "meanings": [
+        {
+          "en": "person, human being",
+          "note": "the plural is a different word: люди, людям, о людях"
+        },
+        {
+          "en": "people",
+          "note": "plural люди, a different word"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "человек",
+              "люди"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "человека",
+              "людей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "человеку",
+              "людям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "человека",
+              "людей"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "человеком",
+              "людьми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "человеке",
+              "людях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Он хороший человек.",
+          "trans": "He is a good person."
+        },
+        {
+          "text": "Здесь много людей.",
+          "trans": "There are a lot of people here."
+        },
+        {
+          "text": "Я знаю проблемы простых людей.",
+          "trans": "I know the problems of ordinary people."
+        }
+      ],
+      "related": [
+        {
+          "word": "человеческий",
+          "gloss": "human"
+        }
+      ]
+    },
+    "эй": {
+      "lemma": "эй",
+      "stress": "эй",
+      "pos": "interj",
+      "gloss": "hey",
+      "meanings": [
+        {
+          "en": "hey!",
+          "note": "to get someone's attention"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Эй, ты что?",
+          "trans": "Hey, what's wrong?"
+        },
+        {
+          "text": "Эй, иди сюда!",
+          "trans": "Hey, come here!"
+        },
+        {
+          "text": "Хорошая, никто же не говорит. Эй, ты что?",
+          "trans": "She is good, nobody's saying she isn't. Hey, what's wrong?"
+        }
+      ],
+      "related": []
+    },
+    "я": {
+      "lemma": "я",
+      "stress": "я",
+      "pos": "pron",
+      "gloss": "I",
+      "meanings": [
+        {
+          "en": "I",
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
+        },
+        {
+          "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
+          "note": "case forms"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я учу уроки.",
+          "trans": "I'm doing my homework."
+        },
+        {
+          "text": "Я вырос здесь.",
+          "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "seg": 3,
-   "trans": "Arise, vast country...",
-   "words": [
-    {
-     "t": "Вставай,",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "Встава́й",
-     "gloss": "arise",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "страна",
-     "lemma": "страна",
-     "pos": "noun",
-     "stress": "страна́",
-     "gloss": "country",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "огромная...",
-     "lemma": "огромный",
-     "pos": "adj",
-     "stress": "огро́мная",
-     "gloss": "vast, huge",
-     "gram": "feminine singular, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 4,
-   "trans": "What country? Get on your feet!",
-   "words": [
-    {
-     "t": "Какая",
-     "lemma": "какой",
-     "pos": "det",
-     "stress": "Кака́я",
-     "gloss": "what",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "страна?",
-     "lemma": "страна",
-     "pos": "noun",
-     "stress": "страна́",
-     "gloss": "country",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "Вставай",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "Встава́й",
-     "gloss": "get up",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "на",
-     "lemma": "на",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "on, onto",
-     "gram": "preposition with accusative"
-    },
-    {
-     "t": "ноги!",
-     "lemma": "нога",
-     "pos": "noun",
-     "stress": "но́ги",
-     "gloss": "feet",
-     "gram": "feminine plural, accusative"
-    }
-   ]
-  },
-  {
-   "seg": 5,
-   "trans": "A vast country...",
-   "words": [
-    {
-     "t": "Страна",
-     "lemma": "страна",
-     "pos": "noun",
-     "stress": "Страна́",
-     "gloss": "country",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "огромная...",
-     "lemma": "огромный",
-     "pos": "adj",
-     "stress": "огро́мная",
-     "gloss": "vast, huge",
-     "gram": "feminine singular, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 6,
-   "trans": "You slept here all night!",
-   "words": [
-    {
-     "t": "Ты",
-     "lemma": "ты",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "you (informal)",
-     "gram": "2nd person singular, nominative"
-    },
-    {
-     "t": "всю",
-     "lemma": "весь",
-     "pos": "det",
-     "stress": "всю",
-     "gloss": "all, the whole",
-     "gram": "feminine singular, accusative"
-    },
-    {
-     "t": "ночь",
-     "lemma": "ночь",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "night",
-     "gram": "feminine singular, accusative duration"
-    },
-    {
-     "t": "тут",
-     "lemma": "тут",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "here",
-     "gram": "adverb"
-    },
-    {
-     "t": "проспал!",
-     "lemma": "проспать",
-     "pos": "verb",
-     "stress": "проспа́л",
-     "gloss": "slept through",
-     "gram": "past masculine singular, perfective"
-    }
-   ]
-  },
-  {
-   "seg": 7,
-   "trans": "Where am I? What time is it?",
-   "words": [
-    {
-     "t": "Где",
-     "lemma": "где",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "where",
-     "gram": "adverb"
-    },
-    {
-     "t": "я?",
-     "lemma": "я",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "I",
-     "gram": "1st person singular, nominative"
-    },
-    {
-     "t": "Который",
-     "lemma": "который",
-     "pos": "det",
-     "stress": "Кото́рый",
-     "gloss": "what, which",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "час?",
-     "lemma": "час",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "hour (what time is it)",
-     "gram": "masculine singular, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 8,
-   "trans": "It's already morning, people are walking past.",
-   "words": [
-    {
-     "t": "Уже",
-     "lemma": "уже",
-     "pos": "adv",
-     "stress": "Уже́",
-     "gloss": "already",
-     "gram": "adverb"
-    },
-    {
-     "t": "утро,",
-     "lemma": "утро",
-     "pos": "noun",
-     "stress": "у́тро",
-     "gloss": "morning",
-     "gram": "neuter singular, nominative"
-    },
-    {
-     "t": "люди",
-     "lemma": "человек",
-     "pos": "noun",
-     "stress": "лю́ди",
-     "gloss": "people",
-     "gram": "plural, nominative"
-    },
-    {
-     "t": "идут",
-     "lemma": "идти",
-     "pos": "verb",
-     "stress": "иду́т",
-     "gloss": "are walking",
-     "gram": "3rd person plural present, imperfective"
-    },
-    {
-     "t": "мимо.",
-     "lemma": "мимо",
-     "pos": "adv",
-     "stress": "ми́мо",
-     "gloss": "past, by",
-     "gram": "adverb"
-    }
-   ]
-  },
-  {
-   "seg": 9,
-   "trans": "Lyokha! Where is my friend Lyokha?",
-   "words": [
-    {
-     "t": "Лёха!",
-     "lemma": "лёха",
-     "pos": "name",
-     "stress": "Лёха",
-     "gloss": "Lyokha",
-     "gram": "first name, vocative"
-    },
-    {
-     "t": "Где",
-     "lemma": "где",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "where",
-     "gram": "adverb"
-    },
-    {
-     "t": "мой",
-     "lemma": "мой",
-     "pos": "det",
-     "stress": null,
-     "gloss": "my",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "друг",
-     "lemma": "друг",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "friend",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "Лёха?",
-     "lemma": "лёха",
-     "pos": "name",
-     "stress": "Лёха",
-     "gloss": "Lyokha",
-     "gram": "first name, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 10,
-   "trans": "Your friend is sleeping at home.",
-   "words": [
-    {
-     "t": "Дома",
-     "lemma": "дома",
-     "pos": "adv",
-     "stress": "До́ма",
-     "gloss": "at home",
-     "gram": "adverb"
-    },
-    {
-     "t": "спит",
-     "lemma": "спать",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "is sleeping",
-     "gram": "3rd person singular present, imperfective"
-    },
-    {
-     "t": "твой",
-     "lemma": "твой",
-     "pos": "det",
-     "stress": null,
-     "gloss": "your",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "друг.",
-     "lemma": "друг",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "friend",
-     "gram": "masculine singular, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 11,
-   "trans": "Listen, do you need a tank?",
-   "words": [
-    {
-     "t": "Слышишь,",
-     "lemma": "слышать",
-     "pos": "verb",
-     "stress": "Слы́шишь",
-     "gloss": "listen, you hear",
-     "gram": "2nd person singular present, imperfective"
-    },
-    {
-     "t": "танк",
-     "lemma": "танк",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "a tank",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "нужен",
-     "lemma": "нужный",
-     "pos": "adj",
-     "stress": "ну́жен",
-     "gloss": "needed",
-     "gram": "short masculine, nominative"
-    },
-    {
-     "t": "тебе?",
-     "lemma": "ты",
-     "pos": "pron",
-     "stress": "тебе́",
-     "gloss": "to you",
-     "gram": "2nd person singular, dative"
-    }
-   ]
-  },
-  {
-   "seg": 12,
-   "trans": "Go and take it!",
-   "words": [
-    {
-     "t": "Иди",
-     "lemma": "идти",
-     "pos": "verb",
-     "stress": "Иди́",
-     "gloss": "go",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "и",
-     "lemma": "и",
-     "pos": "conj",
-     "stress": null,
-     "gloss": "and",
-     "gram": "conjunction"
-    },
-    {
-     "t": "забирай",
-     "lemma": "забирать",
-     "pos": "verb",
-     "stress": "забира́й",
-     "gloss": "take, collect",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "его!",
-     "lemma": "он",
-     "pos": "pron",
-     "stress": "его́",
-     "gloss": "it",
-     "gram": "3rd person masculine singular, accusative"
-    }
-   ]
-  },
-  {
-   "seg": 14,
-   "trans": "Hey, Vanya, get up, get up!",
-   "words": [
-    {
-     "t": "Эй,",
-     "lemma": "эй",
-     "pos": "interj",
-     "stress": null,
-     "gloss": "hey",
-     "gram": "interjection"
-    },
-    {
-     "t": "Ваня,",
-     "lemma": "ваня",
-     "pos": "name",
-     "stress": "Ва́ня",
-     "gloss": "Vanya",
-     "gram": "first name, vocative"
-    },
-    {
-     "t": "вставай,",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "встава́й",
-     "gloss": "get up",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "вставай!",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "встава́й",
-     "gloss": "get up",
-     "gram": "singular imperative, imperfective"
-    }
-   ]
-  },
-  {
-   "seg": 16,
-   "trans": "Come on, get up, you'll freeze in the snow!",
-   "words": [
-    {
-     "t": "Давай,",
-     "lemma": "давать",
-     "pos": "verb",
-     "stress": "Дава́й",
-     "gloss": "come on",
-     "gram": "imperative particle"
-    },
-    {
-     "t": "вставай,",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "встава́й",
-     "gloss": "get up",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "замёрзнешь",
-     "lemma": "замёрзнуть",
-     "pos": "verb",
-     "stress": "замёрзнешь",
-     "gloss": "will freeze",
-     "gram": "2nd person singular future, perfective"
-    },
-    {
-     "t": "на",
-     "lemma": "на",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "on",
-     "gram": "preposition with locative"
-    },
-    {
-     "t": "снегу!",
-     "lemma": "снег",
-     "pos": "noun",
-     "stress": "снегу́",
-     "gloss": "the snow",
-     "gram": "masculine singular, locative"
-    }
-   ]
-  },
-  {
-   "seg": 18,
-   "trans": "Arise, vast country...",
-   "words": [
-    {
-     "t": "Вставай,",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "Встава́й",
-     "gloss": "arise",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "страна",
-     "lemma": "страна",
-     "pos": "noun",
-     "stress": "страна́",
-     "gloss": "country",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "огромная...",
-     "lemma": "огромный",
-     "pos": "adj",
-     "stress": "огро́мная",
-     "gloss": "vast, huge",
-     "gram": "feminine singular, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 20,
-   "trans": "What country? Get on your feet!",
-   "words": [
-    {
-     "t": "Какая",
-     "lemma": "какой",
-     "pos": "det",
-     "stress": "Кака́я",
-     "gloss": "what",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "страна?",
-     "lemma": "страна",
-     "pos": "noun",
-     "stress": "страна́",
-     "gloss": "country",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "Вставай",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "Встава́й",
-     "gloss": "get up",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "на",
-     "lemma": "на",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "on, onto",
-     "gram": "preposition with accusative"
-    },
-    {
-     "t": "ноги!",
-     "lemma": "нога",
-     "pos": "noun",
-     "stress": "но́ги",
-     "gloss": "feet",
-     "gram": "feminine plural, accusative"
-    }
-   ]
-  },
-  {
-   "seg": 22,
-   "trans": "A vast country...",
-   "words": [
-    {
-     "t": "Страна",
-     "lemma": "страна",
-     "pos": "noun",
-     "stress": "Страна́",
-     "gloss": "country",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "огромная...",
-     "lemma": "огромный",
-     "pos": "adj",
-     "stress": "огро́мная",
-     "gloss": "vast, huge",
-     "gram": "feminine singular, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 24,
-   "trans": "You slept here all night!",
-   "words": [
-    {
-     "t": "Ты",
-     "lemma": "ты",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "you (informal)",
-     "gram": "2nd person singular, nominative"
-    },
-    {
-     "t": "всю",
-     "lemma": "весь",
-     "pos": "det",
-     "stress": "всю",
-     "gloss": "all, the whole",
-     "gram": "feminine singular, accusative"
-    },
-    {
-     "t": "ночь",
-     "lemma": "ночь",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "night",
-     "gram": "feminine singular, accusative duration"
-    },
-    {
-     "t": "тут",
-     "lemma": "тут",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "here",
-     "gram": "adverb"
-    },
-    {
-     "t": "проспал!",
-     "lemma": "проспать",
-     "pos": "verb",
-     "stress": "проспа́л",
-     "gloss": "slept through",
-     "gram": "past masculine singular, perfective"
-    }
-   ]
-  },
-  {
-   "seg": 26,
-   "trans": "Where am I? What time is it?",
-   "words": [
-    {
-     "t": "Где",
-     "lemma": "где",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "where",
-     "gram": "adverb"
-    },
-    {
-     "t": "я?",
-     "lemma": "я",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "I",
-     "gram": "1st person singular, nominative"
-    },
-    {
-     "t": "Который",
-     "lemma": "который",
-     "pos": "det",
-     "stress": "Кото́рый",
-     "gloss": "what, which",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "час?",
-     "lemma": "час",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "hour (what time is it)",
-     "gram": "masculine singular, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 28,
-   "trans": "It's already morning, people are walking past.",
-   "words": [
-    {
-     "t": "Уже",
-     "lemma": "уже",
-     "pos": "adv",
-     "stress": "Уже́",
-     "gloss": "already",
-     "gram": "adverb"
-    },
-    {
-     "t": "утро,",
-     "lemma": "утро",
-     "pos": "noun",
-     "stress": "у́тро",
-     "gloss": "morning",
-     "gram": "neuter singular, nominative"
-    },
-    {
-     "t": "люди",
-     "lemma": "человек",
-     "pos": "noun",
-     "stress": "лю́ди",
-     "gloss": "people",
-     "gram": "plural, nominative"
-    },
-    {
-     "t": "идут",
-     "lemma": "идти",
-     "pos": "verb",
-     "stress": "иду́т",
-     "gloss": "are walking",
-     "gram": "3rd person plural present, imperfective"
-    },
-    {
-     "t": "мимо.",
-     "lemma": "мимо",
-     "pos": "adv",
-     "stress": "ми́мо",
-     "gloss": "past, by",
-     "gram": "adverb"
-    }
-   ]
-  },
-  {
-   "seg": 30,
-   "trans": "Lyokha! Where is my friend Lyokha?",
-   "words": [
-    {
-     "t": "Лёха!",
-     "lemma": "лёха",
-     "pos": "name",
-     "stress": "Лёха",
-     "gloss": "Lyokha",
-     "gram": "first name, vocative"
-    },
-    {
-     "t": "Где",
-     "lemma": "где",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "where",
-     "gram": "adverb"
-    },
-    {
-     "t": "мой",
-     "lemma": "мой",
-     "pos": "det",
-     "stress": null,
-     "gloss": "my",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "друг",
-     "lemma": "друг",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "friend",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "Лёха?",
-     "lemma": "лёха",
-     "pos": "name",
-     "stress": "Лёха",
-     "gloss": "Lyokha",
-     "gram": "first name, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 32,
-   "trans": "Your friend is sleeping at home.",
-   "words": [
-    {
-     "t": "Дома",
-     "lemma": "дома",
-     "pos": "adv",
-     "stress": "До́ма",
-     "gloss": "at home",
-     "gram": "adverb"
-    },
-    {
-     "t": "спит",
-     "lemma": "спать",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "is sleeping",
-     "gram": "3rd person singular present, imperfective"
-    },
-    {
-     "t": "твой",
-     "lemma": "твой",
-     "pos": "det",
-     "stress": null,
-     "gloss": "your",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "друг.",
-     "lemma": "друг",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "friend",
-     "gram": "masculine singular, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 34,
-   "trans": "Listen, do you need a tank?",
-   "words": [
-    {
-     "t": "Слышишь,",
-     "lemma": "слышать",
-     "pos": "verb",
-     "stress": "Слы́шишь",
-     "gloss": "listen, you hear",
-     "gram": "2nd person singular present, imperfective"
-    },
-    {
-     "t": "танк",
-     "lemma": "танк",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "a tank",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "нужен",
-     "lemma": "нужный",
-     "pos": "adj",
-     "stress": "ну́жен",
-     "gloss": "needed",
-     "gram": "short masculine, nominative"
-    },
-    {
-     "t": "тебе?",
-     "lemma": "ты",
-     "pos": "pron",
-     "stress": "тебе́",
-     "gloss": "to you",
-     "gram": "2nd person singular, dative"
-    }
-   ]
-  },
-  {
-   "seg": 36,
-   "trans": "Go and take it!",
-   "words": [
-    {
-     "t": "Иди",
-     "lemma": "идти",
-     "pos": "verb",
-     "stress": "Иди́",
-     "gloss": "go",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "и",
-     "lemma": "и",
-     "pos": "conj",
-     "stress": null,
-     "gloss": "and",
-     "gram": "conjunction"
-    },
-    {
-     "t": "забирай",
-     "lemma": "забирать",
-     "pos": "verb",
-     "stress": "забира́й",
-     "gloss": "take, collect",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "его!",
-     "lemma": "он",
-     "pos": "pron",
-     "stress": "его́",
-     "gloss": "it",
-     "gram": "3rd person masculine singular, accusative"
-    }
-   ]
-  },
-  {
-   "seg": 38,
-   "trans": "Hey, Vanya, get up, get up!",
-   "words": [
-    {
-     "t": "Эй,",
-     "lemma": "эй",
-     "pos": "interj",
-     "stress": null,
-     "gloss": "hey",
-     "gram": "interjection"
-    },
-    {
-     "t": "Ваня,",
-     "lemma": "ваня",
-     "pos": "name",
-     "stress": "Ва́ня",
-     "gloss": "Vanya",
-     "gram": "first name, vocative"
-    },
-    {
-     "t": "вставай,",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "встава́й",
-     "gloss": "get up",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "вставай!",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "встава́й",
-     "gloss": "get up",
-     "gram": "singular imperative, imperfective"
-    }
-   ]
-  },
-  {
-   "seg": 39,
-   "trans": "Come on, get up, you'll freeze in the snow!",
-   "words": [
-    {
-     "t": "Давай,",
-     "lemma": "давать",
-     "pos": "verb",
-     "stress": "Дава́й",
-     "gloss": "come on",
-     "gram": "imperative particle"
-    },
-    {
-     "t": "вставай,",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "встава́й",
-     "gloss": "get up",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "замёрзнешь",
-     "lemma": "замёрзнуть",
-     "pos": "verb",
-     "stress": "замёрзнешь",
-     "gloss": "will freeze",
-     "gram": "2nd person singular future, perfective"
-    },
-    {
-     "t": "на",
-     "lemma": "на",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "on",
-     "gram": "preposition with locative"
-    },
-    {
-     "t": "снегу!",
-     "lemma": "снег",
-     "pos": "noun",
-     "stress": "снегу́",
-     "gloss": "the snow",
-     "gram": "masculine singular, locative"
-    }
-   ]
-  },
-  {
-   "seg": 40,
-   "trans": "Arise, vast country...",
-   "words": [
-    {
-     "t": "Вставай,",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "Встава́й",
-     "gloss": "arise",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "страна",
-     "lemma": "страна",
-     "pos": "noun",
-     "stress": "страна́",
-     "gloss": "country",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "огромная...",
-     "lemma": "огромный",
-     "pos": "adj",
-     "stress": "огро́мная",
-     "gloss": "vast, huge",
-     "gram": "feminine singular, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 41,
-   "trans": "What country? Get on your feet!",
-   "words": [
-    {
-     "t": "Какая",
-     "lemma": "какой",
-     "pos": "det",
-     "stress": "Кака́я",
-     "gloss": "what",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "страна?",
-     "lemma": "страна",
-     "pos": "noun",
-     "stress": "страна́",
-     "gloss": "country",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "Вставай",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "Встава́й",
-     "gloss": "get up",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "на",
-     "lemma": "на",
-     "pos": "prep",
-     "stress": null,
-     "gloss": "on, onto",
-     "gram": "preposition with accusative"
-    },
-    {
-     "t": "ноги!",
-     "lemma": "нога",
-     "pos": "noun",
-     "stress": "но́ги",
-     "gloss": "feet",
-     "gram": "feminine plural, accusative"
-    }
-   ]
-  },
-  {
-   "seg": 42,
-   "trans": "A vast country...",
-   "words": [
-    {
-     "t": "Страна",
-     "lemma": "страна",
-     "pos": "noun",
-     "stress": "Страна́",
-     "gloss": "country",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "огромная...",
-     "lemma": "огромный",
-     "pos": "adj",
-     "stress": "огро́мная",
-     "gloss": "vast, huge",
-     "gram": "feminine singular, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 43,
-   "trans": "You slept here all night!",
-   "words": [
-    {
-     "t": "Ты",
-     "lemma": "ты",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "you (informal)",
-     "gram": "2nd person singular, nominative"
-    },
-    {
-     "t": "всю",
-     "lemma": "весь",
-     "pos": "det",
-     "stress": "всю",
-     "gloss": "all, the whole",
-     "gram": "feminine singular, accusative"
-    },
-    {
-     "t": "ночь",
-     "lemma": "ночь",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "night",
-     "gram": "feminine singular, accusative duration"
-    },
-    {
-     "t": "тут",
-     "lemma": "тут",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "here",
-     "gram": "adverb"
-    },
-    {
-     "t": "проспал!",
-     "lemma": "проспать",
-     "pos": "verb",
-     "stress": "проспа́л",
-     "gloss": "slept through",
-     "gram": "past masculine singular, perfective"
-    }
-   ]
-  },
-  {
-   "seg": 44,
-   "trans": "Where am I? What time is it?",
-   "words": [
-    {
-     "t": "Где",
-     "lemma": "где",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "where",
-     "gram": "adverb"
-    },
-    {
-     "t": "я?",
-     "lemma": "я",
-     "pos": "pron",
-     "stress": null,
-     "gloss": "I",
-     "gram": "1st person singular, nominative"
-    },
-    {
-     "t": "Который",
-     "lemma": "который",
-     "pos": "det",
-     "stress": "Кото́рый",
-     "gloss": "what, which",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "час?",
-     "lemma": "час",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "hour (what time is it)",
-     "gram": "masculine singular, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 45,
-   "trans": "It's already morning, people are walking past.",
-   "words": [
-    {
-     "t": "Уже",
-     "lemma": "уже",
-     "pos": "adv",
-     "stress": "Уже́",
-     "gloss": "already",
-     "gram": "adverb"
-    },
-    {
-     "t": "утро,",
-     "lemma": "утро",
-     "pos": "noun",
-     "stress": "у́тро",
-     "gloss": "morning",
-     "gram": "neuter singular, nominative"
-    },
-    {
-     "t": "люди",
-     "lemma": "человек",
-     "pos": "noun",
-     "stress": "лю́ди",
-     "gloss": "people",
-     "gram": "plural, nominative"
-    },
-    {
-     "t": "идут",
-     "lemma": "идти",
-     "pos": "verb",
-     "stress": "иду́т",
-     "gloss": "are walking",
-     "gram": "3rd person plural present, imperfective"
-    },
-    {
-     "t": "мимо.",
-     "lemma": "мимо",
-     "pos": "adv",
-     "stress": "ми́мо",
-     "gloss": "past, by",
-     "gram": "adverb"
-    }
-   ]
-  },
-  {
-   "seg": 46,
-   "trans": "Lyokha! Where is my friend Lyokha?",
-   "words": [
-    {
-     "t": "Лёха!",
-     "lemma": "лёха",
-     "pos": "name",
-     "stress": "Лёха",
-     "gloss": "Lyokha",
-     "gram": "first name, vocative"
-    },
-    {
-     "t": "Где",
-     "lemma": "где",
-     "pos": "adv",
-     "stress": null,
-     "gloss": "where",
-     "gram": "adverb"
-    },
-    {
-     "t": "мой",
-     "lemma": "мой",
-     "pos": "det",
-     "stress": null,
-     "gloss": "my",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "друг",
-     "lemma": "друг",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "friend",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "Лёха?",
-     "lemma": "лёха",
-     "pos": "name",
-     "stress": "Лёха",
-     "gloss": "Lyokha",
-     "gram": "first name, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 47,
-   "trans": "Your friend is sleeping at home.",
-   "words": [
-    {
-     "t": "Дома",
-     "lemma": "дома",
-     "pos": "adv",
-     "stress": "До́ма",
-     "gloss": "at home",
-     "gram": "adverb"
-    },
-    {
-     "t": "спит",
-     "lemma": "спать",
-     "pos": "verb",
-     "stress": null,
-     "gloss": "is sleeping",
-     "gram": "3rd person singular present, imperfective"
-    },
-    {
-     "t": "твой",
-     "lemma": "твой",
-     "pos": "det",
-     "stress": null,
-     "gloss": "your",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "друг.",
-     "lemma": "друг",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "friend",
-     "gram": "masculine singular, nominative"
-    }
-   ]
-  },
-  {
-   "seg": 48,
-   "trans": "Listen, do you need a tank?",
-   "words": [
-    {
-     "t": "Слышишь,",
-     "lemma": "слышать",
-     "pos": "verb",
-     "stress": "Слы́шишь",
-     "gloss": "listen, you hear",
-     "gram": "2nd person singular present, imperfective"
-    },
-    {
-     "t": "танк",
-     "lemma": "танк",
-     "pos": "noun",
-     "stress": null,
-     "gloss": "a tank",
-     "gram": "masculine singular, nominative"
-    },
-    {
-     "t": "нужен",
-     "lemma": "нужный",
-     "pos": "adj",
-     "stress": "ну́жен",
-     "gloss": "needed",
-     "gram": "short masculine, nominative"
-    },
-    {
-     "t": "тебе?",
-     "lemma": "ты",
-     "pos": "pron",
-     "stress": "тебе́",
-     "gloss": "to you",
-     "gram": "2nd person singular, dative"
-    }
-   ]
-  },
-  {
-   "seg": 49,
-   "trans": "Go and take it!",
-   "words": [
-    {
-     "t": "Иди",
-     "lemma": "идти",
-     "pos": "verb",
-     "stress": "Иди́",
-     "gloss": "go",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "и",
-     "lemma": "и",
-     "pos": "conj",
-     "stress": null,
-     "gloss": "and",
-     "gram": "conjunction"
-    },
-    {
-     "t": "забирай",
-     "lemma": "забирать",
-     "pos": "verb",
-     "stress": "забира́й",
-     "gloss": "take, collect",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "его!",
-     "lemma": "он",
-     "pos": "pron",
-     "stress": "его́",
-     "gloss": "it",
-     "gram": "3rd person masculine singular, accusative"
-    }
-   ]
-  },
-  {
-   "seg": 51,
-   "trans": "Arise, vast country...",
-   "words": [
-    {
-     "t": "Вставай,",
-     "lemma": "вставать",
-     "pos": "verb",
-     "stress": "Встава́й",
-     "gloss": "arise",
-     "gram": "singular imperative, imperfective"
-    },
-    {
-     "t": "страна",
-     "lemma": "страна",
-     "pos": "noun",
-     "stress": "страна́",
-     "gloss": "country",
-     "gram": "feminine singular, nominative"
-    },
-    {
-     "t": "огромная...",
-     "lemma": "огромный",
-     "pos": "adj",
-     "stress": "огро́мная",
-     "gloss": "vast, huge",
-     "gram": "feminine singular, nominative"
-    }
-   ]
   }
- ],
- "lexicon": {
-  "весь": {
-   "lemma": "весь",
-   "stress": "весь",
-   "pos": "det",
-   "gloss": "all, whole; everyone, everything",
-   "meanings": [
-    {
-     "en": "all, the whole",
-     "note": ""
-    },
-    {
-     "en": "everything",
-     "note": "neuter всё"
-    },
-    {
-     "en": "everyone",
-     "note": "plural все"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "m",
-     "f",
-     "n",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "весь",
-       "вся",
-       "всё",
-       "все"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "всего",
-       "всей",
-       "всего",
-       "всех"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "всему",
-       "всей",
-       "всему",
-       "всем"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "весь / всего",
-       "всю",
-       "всё",
-       "все / всех"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "всем",
-       "всей",
-       "всем",
-       "всеми"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "всём",
-       "всей",
-       "всём",
-       "всех"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Всё нормально.",
-     "trans": "Everything's fine."
-    },
-    {
-     "text": "Как вы все знаете...",
-     "trans": "As you all know..."
-    },
-    {
-     "text": "Поделись со всеми.",
-     "trans": "Share with everyone."
-    }
-   ]
-  },
-  "вставать": {
-   "lemma": "вставать",
-   "stress": "встава́ть",
-   "pos": "verb",
-   "aspect": "impf",
-   "pair": "встать",
-   "gloss": "to get up, to stand up",
-   "meanings": [
-    {
-     "en": "to get up",
-     "note": "out of bed or from the floor"
-    },
-    {
-     "en": "to stand up",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "встаю",
-       "встаём"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "встаёшь",
-       "встаёте"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "встаёт",
-       "встают"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "вставал",
-        "вставала",
-        "вставало",
-        "вставали"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "вставай",
-        "вставайте"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Тузик, давай встаём!",
-     "trans": "Come on, Tuzik, let's get up!"
-    },
-    {
-     "text": "Я встаю в семь утра.",
-     "trans": "I get up at seven in the morning."
-    }
-   ]
-  },
-  "где": {
-   "lemma": "где",
-   "stress": "где",
-   "pos": "adv",
-   "gloss": "where",
-   "meanings": [
-    {
-     "en": "where",
-     "note": ""
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Где моя машинка?",
-     "trans": "Where's my toy car?"
-    },
-    {
-     "text": "Где папа?",
-     "trans": "Where's Dad?"
-    }
-   ]
-  },
-  "давать": {
-   "lemma": "давать",
-   "stress": "дава́ть",
-   "pos": "verb",
-   "aspect": "impf",
-   "pair": "дать",
-   "gloss": "to give; (imperative) let's",
-   "meanings": [
-    {
-     "en": "to give",
-     "note": ""
-    },
-    {
-     "en": "let's",
-     "note": "давай + 1st person plural or infinitive"
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "даю",
-       "даём"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "даёшь",
-       "даёте"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "даёт",
-       "дают"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "давал",
-        "давала",
-        "давало",
-        "давали"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "давай",
-        "давайте"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Давай поговорим.",
-     "trans": "Let's talk."
-    },
-    {
-     "text": "Он мне даёт книгу.",
-     "trans": "He gives me a book."
-    }
-   ]
-  },
-  "дома": {
-   "lemma": "дома",
-   "stress": "до́ма",
-   "pos": "adv",
-   "gloss": "at home",
-   "meanings": [
-    {
-     "en": "at home",
-     "note": "location; compare домой = homeward"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Ты, главное, оставь его дома.",
-     "trans": "The main thing is, you keep him at home."
-    },
-    {
-     "text": "Сегодня я сижу дома.",
-     "trans": "Today I'm staying at home."
-    }
-   ]
-  },
-  "друг": {
-   "lemma": "друг",
-   "stress": null,
-   "pos": "noun",
-   "gender": "m",
-   "gloss": "friend",
-   "meanings": [
-    {
-     "en": "friend",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "друг",
-       "друзья"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "друга",
-       "друзей"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "другу",
-       "друзьям"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "друга",
-       "друзей"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "другом",
-       "друзьями"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "друге",
-       "друзьях"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Это Ваня, друг моего детства.",
-     "trans": "This is Vanya, my childhood friend."
-    },
-    {
-     "text": "Он мой друг.",
-     "trans": "He's my friend."
-    }
-   ]
-  },
-  "забирать": {
-   "lemma": "забирать",
-   "stress": "забира́ть",
-   "pos": "verb",
-   "aspect": "impf",
-   "pair": "забрать",
-   "gloss": "to take (away), to collect",
-   "meanings": [
-    {
-     "en": "to take, to take away",
-     "note": "забирать деньги = to take the money"
-    },
-    {
-     "en": "to pick up",
-     "note": "забирать детей из школы = to pick the kids up from school"
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "забираю",
-       "забираем"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "забираешь",
-       "забираете"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "забирает",
-       "забирают"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "забирал",
-        "забирала",
-        "забирало",
-        "забирали"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "забирай",
-        "забирайте"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Я забираю детей из школы.",
-     "trans": "I pick the children up from school."
-    },
-    {
-     "text": "Ты забираешь все деньги.",
-     "trans": "You take all the money."
-    }
-   ]
-  },
-  "замёрзнуть": {
-   "lemma": "замёрзнуть",
-   "stress": "замёрзнуть",
-   "pos": "verb",
-   "aspect": "perf",
-   "pair": "замерзать",
-   "gloss": "to get cold, freeze",
-   "meanings": [
-    {
-     "en": "to get cold, feel chilled; to freeze solid",
-     "note": "intransitive; past tense замёрз, замёрзла"
-    }
-   ],
-   "forms": {
-    "title": "Future",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "замёрзну",
-       "замёрзнем"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "замёрзнешь",
-       "замёрзнете"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "замёрзнет",
-       "замёрзнут"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "замёрз",
-        "замёрзла",
-        "замёрзло",
-        "замёрзли"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "замёрзни",
-        "замёрзните"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Даня, а ты что, замёрз?",
-     "trans": "Danya, are you cold or what?"
-    },
-    {
-     "text": "Я очень замёрзла на улице.",
-     "trans": "I got very cold outside."
-    }
-   ]
-  },
-  "и": {
-   "lemma": "и",
-   "stress": "и",
-   "pos": "conj",
-   "gloss": "and",
-   "meanings": [
-    {
-     "en": "and",
-     "note": ""
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Я родился и вырос здесь.",
-     "trans": "I was born and grew up here."
-    },
-    {
-     "text": "Папа и мама.",
-     "trans": "Dad and Mum."
-    }
-   ]
-  },
-  "идти": {
-   "lemma": "идти",
-   "stress": "идти́",
-   "pos": "verb",
-   "aspect": "impf",
-   "pair": "пойти",
-   "gloss": "to go (on foot)",
-   "meanings": [
-    {
-     "en": "to go, to walk",
-     "note": "in one direction, now"
-    },
-    {
-     "en": "идти на второй срок",
-     "note": "to run for a second term"
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "иду",
-       "идём"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "идёшь",
-       "идёте"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "идёт",
-       "идут"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "шёл",
-        "шла",
-        "шло",
-        "шли"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "иди",
-        "идите"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Я иду домой.",
-     "trans": "I'm going home."
-    },
-    {
-     "text": "Он идёт на второй срок.",
-     "trans": "He is running for a second term."
-    }
-   ]
-  },
-  "какой": {
-   "lemma": "какой",
-   "stress": "како́й",
-   "pos": "det",
-   "gloss": "what; what a",
-   "meanings": [
-    {
-     "en": "what, which",
-     "note": "in questions"
-    },
-    {
-     "en": "what a, how",
-     "note": "in exclamations: какой грязный! = how dirty!"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "m",
-     "f",
-     "n",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "какой",
-       "какая",
-       "какое",
-       "какие"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "какого",
-       "какой",
-       "какого",
-       "каких"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "какому",
-       "какой",
-       "какому",
-       "каким"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "какой / какого",
-       "какую",
-       "какое",
-       "какие / каких"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "каким",
-       "какой",
-       "каким",
-       "какими"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "каком",
-       "какой",
-       "каком",
-       "каких"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Какой у вас город?",
-     "trans": "What is your town like?"
-    },
-    {
-     "text": "Какой красивый дом!",
-     "trans": "What a beautiful house!"
-    }
-   ]
-  },
-  "который": {
-   "lemma": "который",
-   "stress": "кото́рый",
-   "pos": "pron",
-   "gloss": "who, which (relative)",
-   "meanings": [
-    {
-     "en": "who, which, that",
-     "note": "joins a description to a noun; agrees with that noun in gender and number"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "m",
-     "f",
-     "n",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "который",
-       "которая",
-       "которое",
-       "которые"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "которого",
-       "которой",
-       "которого",
-       "которых"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "которому",
-       "которой",
-       "которому",
-       "которым"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "который/которого",
-       "которую",
-       "которое",
-       "которые/которых"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "которым",
-       "которой",
-       "которым",
-       "которыми"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "котором",
-       "которой",
-       "котором",
-       "которых"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Это мэр, который держит слово.",
-     "trans": "This is a mayor who keeps his word."
-    },
-    {
-     "text": "Где книга, которая была здесь?",
-     "trans": "Where is the book that was here?"
-    }
-   ]
-  },
-  "мимо": {
-   "lemma": "мимо",
-   "stress": "ми́мо",
-   "pos": "adv",
-   "gloss": "past, by",
-   "meanings": [
-    {
-     "en": "past, by (moving past something)",
-     "note": ""
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Уже утро, люди идут мимо.",
-     "trans": "It's already morning, people are walking past."
-    },
-    {
-     "text": "Пройти мимо.",
-     "trans": "To walk past."
-    }
-   ]
-  },
-  "мой": {
-   "lemma": "мой",
-   "stress": "мой",
-   "pos": "det",
-   "gloss": "my, mine",
-   "meanings": [
-    {
-     "en": "my, mine",
-     "note": "agrees with the thing owned"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "m",
-     "f",
-     "n",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "мой",
-       "моя",
-       "моё",
-       "мои"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "моего",
-       "моей",
-       "моего",
-       "моих"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "моему",
-       "моей",
-       "моему",
-       "моим"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "мой / моего",
-       "мою",
-       "моё",
-       "мои / моих"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "моим",
-       "моей",
-       "моим",
-       "моими"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "моём",
-       "моей",
-       "моём",
-       "моих"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Где моя машинка?",
-     "trans": "Where's my toy car?"
-    },
-    {
-     "text": "Это моё.",
-     "trans": "That's mine."
-    }
-   ]
-  },
-  "на": {
-   "lemma": "на",
-   "stress": "на",
-   "pos": "prep",
-   "gloss": "on, onto; for",
-   "meanings": [
-    {
-     "en": "on",
-     "note": "+ prepositional: на сайте"
-    },
-    {
-     "en": "onto, to; for",
-     "note": "+ accusative: на второй срок"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Программа на сайте.",
-     "trans": "The programme is on the website."
-    },
-    {
-     "text": "Он идёт на второй срок.",
-     "trans": "He is running for a second term."
-    }
-   ]
-  },
-  "нога": {
-   "lemma": "нога",
-   "stress": "нога́",
-   "pos": "noun",
-   "gender": "f",
-   "gloss": "leg, foot",
-   "meanings": [
-    {
-     "en": "leg",
-     "note": ""
-    },
-    {
-     "en": "foot",
-     "note": "Russian uses one word for both"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "нога",
-       "ноги"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "ноги",
-       "ног"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "ноге",
-       "ногам"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "ногу",
-       "ноги"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "ногой",
-       "ногами"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "ноге",
-       "ногах"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Правая нога.",
-     "trans": "The right foot."
-    },
-    {
-     "text": "У меня болит нога.",
-     "trans": "My leg hurts."
-    }
-   ]
-  },
-  "ночь": {
-   "lemma": "ночь",
-   "stress": "ночь",
-   "pos": "noun",
-   "gender": "f",
-   "gloss": "night",
-   "meanings": [
-    {
-     "en": "night",
-     "note": "ночью = at night; спокойной ночи = good night"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "ночь",
-       "ночи"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "ночи",
-       "ночей"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "ночи",
-       "ночам"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "ночь",
-       "ночи"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "ночью",
-       "ночами"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "ночи",
-       "ночах"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Спокойной ночи!",
-     "trans": "Good night!"
-    },
-    {
-     "text": "Ночью я сплю.",
-     "trans": "At night I sleep."
-    }
-   ]
-  },
-  "нужный": {
-   "lemma": "нужный",
-   "stress": "ну́жный",
-   "pos": "adj",
-   "gloss": "necessary, needed",
-   "meanings": [
-    {
-     "en": "needed",
-     "note": "short form 'нужен / нужна / нужно / нужны' + dative: 'мне нужна работа' = I need a job"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "m",
-     "f",
-     "n",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "нужный",
-       "нужная",
-       "нужное",
-       "нужные"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "нужного",
-       "нужной",
-       "нужного",
-       "нужных"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "нужному",
-       "нужной",
-       "нужному",
-       "нужным"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "нужный / нужного",
-       "нужную",
-       "нужное",
-       "нужные / нужных"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "нужным",
-       "нужной",
-       "нужным",
-       "нужными"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "нужном",
-       "нужной",
-       "нужном",
-       "нужных"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Short form",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "short",
-        "нужен",
-        "нужна",
-        "нужно",
-        "нужны"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Мне ещё работа нужна.",
-     "trans": "I need a job too."
-    },
-    {
-     "text": "Тебе нужна ручка?",
-     "trans": "Do you need a pen?"
-    }
-   ]
-  },
-  "огромный": {
-   "lemma": "огромный",
-   "stress": "огро́мный",
-   "pos": "adj",
-   "gloss": "huge, enormous",
-   "meanings": [
-    {
-     "en": "huge, enormous, vast",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "m",
-     "f",
-     "n",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "огромный",
-       "огромная",
-       "огромное",
-       "огромные"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "огромного",
-       "огромной",
-       "огромного",
-       "огромных"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "огромному",
-       "огромной",
-       "огромному",
-       "огромным"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "огромный/огромного",
-       "огромную",
-       "огромное",
-       "огромные/огромных"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "огромным",
-       "огромной",
-       "огромным",
-       "огромными"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "огромном",
-       "огромной",
-       "огромном",
-       "огромных"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Шансы у нас огромные.",
-     "trans": "Our chances are huge."
-    },
-    {
-     "text": "Спасибо вам огромное!",
-     "trans": "Thank you so much!"
-    }
-   ]
-  },
-  "он": {
-   "lemma": "он",
-   "stress": "он",
-   "pos": "pron",
-   "gloss": "he; it",
-   "meanings": [
-    {
-     "en": "he",
-     "note": ""
-    },
-    {
-     "en": "it",
-     "note": "for masculine and neuter things"
-    },
-    {
-     "en": "other forms: его (gen/acc), ему (dat), им (instr), нём (prep)",
-     "note": "case forms"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Держи его!",
-     "trans": "Grab him!"
-    },
-    {
-     "text": "Надо его помыть.",
-     "trans": "It needs a wash."
-    }
-   ]
-  },
-  "проспать": {
-   "lemma": "проспать",
-   "stress": "проспа́ть",
-   "pos": "verb",
-   "aspect": "pf",
-   "pair": "просыпать",
-   "gloss": "to sleep through, overslept; sleep for",
-   "meanings": [
-    {
-     "en": "to sleep for (a duration of time); to oversleep",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Future",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "просплю",
-       "проспим"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "проспишь",
-       "проспите"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "проспит",
-       "проспят"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "проспал",
-        "проспала",
-        "проспало",
-        "проспали"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "проспи",
-        "проспите"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Ты всю ночь тут проспал!",
-     "trans": "You slept here all night!"
-    },
-    {
-     "text": "Я проспал поезд.",
-     "trans": "I overslept the train."
-    }
-   ]
-  },
-  "слышать": {
-   "lemma": "слышать",
-   "stress": "слы́шать",
-   "pos": "verb",
-   "aspect": "impf",
-   "pair": "услышать",
-   "gloss": "to hear",
-   "meanings": [
-    {
-     "en": "to hear",
-     "note": ""
-    },
-    {
-     "en": "to hear about",
-     "note": "слышать о + prepositional"
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "слышу",
-       "слышим"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "слышишь",
-       "слышите"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "слышит",
-       "слышат"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "слышал",
-        "слышала",
-        "слышало",
-        "слышали"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Я ничего не слышал.",
-     "trans": "I didn't hear anything."
-    },
-    {
-     "text": "Ты меня слышишь?",
-     "trans": "Can you hear me?"
-    }
-   ]
-  },
-  "снег": {
-   "lemma": "снег",
-   "stress": "снег",
-   "pos": "noun",
-   "gender": "m",
-   "gloss": "snow",
-   "meanings": [
-    {
-     "en": "snow",
-     "note": "locative в снегу after в/на"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "снег",
-       "снега"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "снега",
-       "снегов"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "снегу",
-       "снегам"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "снег",
-       "снега"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "снегом",
-       "снегами"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "снегу",
-       "снегах"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Сейчас снег уберём.",
-     "trans": "Right now we will clear the snow."
-    },
-    {
-     "text": "В лесу лежит белый снег.",
-     "trans": "White snow lies in the forest."
-    }
-   ]
-  },
-  "спать": {
-   "lemma": "спать",
-   "stress": "спать",
-   "pos": "verb",
-   "aspect": "impf",
-   "pair": "поспать",
-   "gloss": "to sleep",
-   "meanings": [
-    {
-     "en": "to sleep, to be asleep",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Present",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "1st",
-       "сплю",
-       "спим"
-      ]
-     },
-     {
-      "cells": [
-       "2nd",
-       "спишь",
-       "спите"
-      ]
-     },
-     {
-      "cells": [
-       "3rd",
-       "спит",
-       "спят"
-      ]
-     }
-    ]
-   },
-   "moreForms": [
-    {
-     "title": "Past",
-     "columns": [
-      "",
-      "m",
-      "f",
-      "n",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "past",
-        "спал",
-        "спала",
-        "спало",
-        "спали"
-       ]
-      }
-     ]
-    },
-    {
-     "title": "Imperative",
-     "columns": [
-      "",
-      "sg",
-      "pl"
-     ],
-     "rows": [
-      {
-       "cells": [
-        "imperative",
-        "спи",
-        "спите"
-       ]
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "text": "Поехали спать.",
-     "trans": "Let's go to sleep."
-    },
-    {
-     "text": "Ребёнок уже спит.",
-     "trans": "The child is already asleep."
-    }
-   ]
-  },
-  "страна": {
-   "lemma": "страна",
-   "stress": "страна́",
-   "pos": "noun",
-   "gender": "f",
-   "gloss": "country",
-   "meanings": [
-    {
-     "en": "country, nation",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "страна",
-       "страны"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "страны",
-       "стран"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "стране",
-       "странам"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "страну",
-       "страны"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "страной",
-       "странами"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "стране",
-       "странах"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Над тобой вся страна смеётся!",
-     "trans": "The whole country is laughing at you!"
-    },
-    {
-     "text": "Это большая страна.",
-     "trans": "It is a big country."
-    }
-   ]
-  },
-  "танк": {
-   "lemma": "танк",
-   "stress": "танк",
-   "pos": "noun",
-   "gender": "m",
-   "gloss": "tank (armoured vehicle / toy tank)",
-   "meanings": [
-    {
-     "en": "tank (armoured vehicle or toy)",
-     "note": ""
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "танк",
-       "танки"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "танка",
-       "танков"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "танку",
-       "танкам"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "танк",
-       "танки"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "танком",
-       "танками"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "танке",
-       "танках"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Вы очень долго чините мой танк.",
-     "trans": "You are taking very long to fix my tank."
-    },
-    {
-     "text": "Игрушечный танк.",
-     "trans": "A toy tank."
-    }
-   ]
-  },
-  "твой": {
-   "lemma": "твой",
-   "stress": null,
-   "pos": "det",
-   "gloss": "your (informal)",
-   "meanings": [
-    {
-     "en": "your, yours",
-     "note": "to someone you call ты"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "m",
-     "f",
-     "n",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "твой",
-       "твоя",
-       "твоё",
-       "твои"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "твоего",
-       "твоей",
-       "твоего",
-       "твоих"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "твоему",
-       "твоей",
-       "твоему",
-       "твоим"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "твой / твоего",
-       "твою",
-       "твоё",
-       "твои / твоих"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "твоим",
-       "твоей",
-       "твоим",
-       "твоими"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "твоём",
-       "твоей",
-       "твоём",
-       "твоих"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Это твой кофе.",
-     "trans": "This is your coffee."
-    },
-    {
-     "text": "Я бы на твоём месте подумал.",
-     "trans": "If I were you, I'd think about it."
-    }
-   ]
-  },
-  "тут": {
-   "lemma": "тут",
-   "stress": null,
-   "pos": "adv",
-   "gloss": "here",
-   "meanings": [
-    {
-     "en": "here",
-     "note": "colloquial, like здесь"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Я тут.",
-     "trans": "I'm here."
-    },
-    {
-     "text": "Тут к вам человек.",
-     "trans": "There's someone here to see you."
-    }
-   ]
-  },
-  "ты": {
-   "lemma": "ты",
-   "stress": "ты",
-   "pos": "pron",
-   "gloss": "you (informal)",
-   "meanings": [
-    {
-     "en": "you",
-     "note": "one person, informal"
-    },
-    {
-     "en": "other forms: тебя (gen/acc), тебе (dat), тобой (instr), тебе (prep)",
-     "note": "case forms"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Ты жадина!",
-     "trans": "You're greedy!"
-    },
-    {
-     "text": "У тебя есть ещё?",
-     "trans": "Have you got any more?"
-    }
-   ]
-  },
-  "уже": {
-   "lemma": "уже",
-   "stress": "уже́",
-   "pos": "adv",
-   "gloss": "already",
-   "meanings": [
-    {
-     "en": "already",
-     "note": "уже четыре года = for four years now"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Я уже четыре года работаю мэром.",
-     "trans": "I've been mayor for four years now."
-    },
-    {
-     "text": "Папа уже дома.",
-     "trans": "Dad is already home."
-    }
-   ]
-  },
-  "утро": {
-   "lemma": "утро",
-   "stress": "у́тро",
-   "pos": "noun",
-   "gender": "n",
-   "gloss": "morning",
-   "meanings": [
-    {
-     "en": "morning",
-     "note": "утром = in the morning"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "утро",
-       "утра"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "утра",
-       "утр"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "утру",
-       "утрам"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "утро",
-       "утра"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "утром",
-       "утрами"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "утре",
-       "утрах"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Доброе утро!",
-     "trans": "Good morning!"
-    },
-    {
-     "text": "Какое хорошее утро!",
-     "trans": "What a lovely morning!"
-    }
-   ]
-  },
-  "час": {
-   "lemma": "час",
-   "stress": "час",
-   "pos": "noun",
-   "gender": "m",
-   "gloss": "hour",
-   "meanings": [
-    {
-     "en": "hour",
-     "note": ""
-    },
-    {
-     "en": "o'clock",
-     "note": "в два часа = at two o'clock"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "час",
-       "часы"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "часа",
-       "часов"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "часу",
-       "часам"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "час",
-       "часы"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "часом",
-       "часами"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "часе",
-       "часах"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Я буду через час.",
-     "trans": "I'll be there in an hour."
-    },
-    {
-     "text": "Сейчас три часа.",
-     "trans": "It's three o'clock now."
-    }
-   ],
-   "governs": "after 2, 3, 4 and полтора the genitive часа is stressed on the ending"
-  },
-  "человек": {
-   "lemma": "человек",
-   "stress": "челове́к",
-   "pos": "noun",
-   "gender": "m",
-   "gloss": "person; (pl) people",
-   "meanings": [
-    {
-     "en": "person, human being",
-     "note": ""
-    },
-    {
-     "en": "people",
-     "note": "plural люди, a different word"
-    }
-   ],
-   "forms": {
-    "title": "Declension",
-    "columns": [
-     "",
-     "sg",
-     "pl"
-    ],
-    "rows": [
-     {
-      "cells": [
-       "nominative",
-       "человек",
-       "люди"
-      ]
-     },
-     {
-      "cells": [
-       "genitive",
-       "человека",
-       "людей"
-      ]
-     },
-     {
-      "cells": [
-       "dative",
-       "человеку",
-       "людям"
-      ]
-     },
-     {
-      "cells": [
-       "accusative",
-       "человека",
-       "людей"
-      ]
-     },
-     {
-      "cells": [
-       "instrumental",
-       "человеком",
-       "людьми"
-      ]
-     },
-     {
-      "cells": [
-       "prepositional",
-       "человеке",
-       "людях"
-      ]
-     }
-    ]
-   },
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Он хороший человек.",
-     "trans": "He is a good person."
-    },
-    {
-     "text": "Здесь много людей.",
-     "trans": "There are a lot of people here."
-    }
-   ]
-  },
-  "эй": {
-   "lemma": "эй",
-   "stress": null,
-   "pos": "interj",
-   "gloss": "hey",
-   "meanings": [
-    {
-     "en": "hey!",
-     "note": "to get someone's attention"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Эй, ты что?",
-     "trans": "Hey, what's wrong?"
-    },
-    {
-     "text": "Эй, иди сюда!",
-     "trans": "Hey, come here!"
-    }
-   ]
-  },
-  "я": {
-   "lemma": "я",
-   "stress": "я",
-   "pos": "pron",
-   "gloss": "I",
-   "meanings": [
-    {
-     "en": "I",
-     "note": ""
-    },
-    {
-     "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
-     "note": "case forms"
-    }
-   ],
-   "forms": null,
-   "moreForms": [],
-   "examples": [
-    {
-     "text": "Я учу уроки.",
-     "trans": "I'm doing my homework."
-    },
-    {
-     "text": "Я вырос здесь.",
-     "trans": "I grew up here."
-    }
-   ]
-  }
- }
 }

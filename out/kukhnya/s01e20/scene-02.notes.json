@@ -134,7 +134,7 @@
           "pos": "noun",
           "stress": "лестни́це",
           "gloss": "stairs, staircase, ladder",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         }
       ]
     },
@@ -184,7 +184,7 @@
         },
         {
           "t": "солнцу.",
-          "lemma": "солнцу",
+          "lemma": "солнце",
           "pos": "noun",
           "stress": "со́лнцу",
           "gloss": "sun",
@@ -364,7 +364,7 @@
           "pos": "verb",
           "stress": "останови́мся",
           "gloss": "to stop, to come to a halt",
-          "gram": "verb"
+          "gram": "1st person plural"
         },
         {
           "t": "мы",
@@ -476,8 +476,8 @@
         },
         {
           "t": "коем",
-          "lemma": "коем",
-          "pos": "noun",
+          "lemma": "кой",
+          "pos": "pron",
           "stress": "ко́ем",
           "gloss": "which (in ни в коем случае = by no means)",
           "gram": "UNKNOWN"
@@ -501,7 +501,7 @@
         {
           "t": "останавливаться.",
           "lemma": "останавливаться",
-          "pos": "noun",
+          "pos": "verb",
           "stress": "останавлива́ться",
           "gloss": "stop, stay",
           "gram": "UNKNOWN"
@@ -742,7 +742,7 @@
           "pos": "noun",
           "stress": "лестни́це",
           "gloss": "stairs, staircase, ladder",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         }
       ]
     },
@@ -792,7 +792,7 @@
         },
         {
           "t": "солнцу.",
-          "lemma": "солнцу",
+          "lemma": "солнце",
           "pos": "noun",
           "stress": "со́лнцу",
           "gloss": "sun",
@@ -972,7 +972,7 @@
           "pos": "verb",
           "stress": "останови́мся",
           "gloss": "to stop, to come to a halt",
-          "gram": "verb"
+          "gram": "1st person plural"
         },
         {
           "t": "мы",
@@ -1084,8 +1084,8 @@
         },
         {
           "t": "коем",
-          "lemma": "коем",
-          "pos": "noun",
+          "lemma": "кой",
+          "pos": "pron",
           "stress": "ко́ем",
           "gloss": "which (in ни в коем случае = by no means)",
           "gram": "UNKNOWN"
@@ -1109,7 +1109,7 @@
         {
           "t": "останавливаться.",
           "lemma": "останавливаться",
-          "pos": "noun",
+          "pos": "verb",
           "stress": "останавлива́ться",
           "gloss": "stop, stay",
           "gram": "UNKNOWN"
@@ -1350,7 +1350,7 @@
           "pos": "noun",
           "stress": "лестни́це",
           "gloss": "stairs, staircase, ladder",
-          "gram": "noun"
+          "gram": "prepositional / dative singular"
         }
       ]
     },
@@ -1400,7 +1400,7 @@
         },
         {
           "t": "солнцу.",
-          "lemma": "солнцу",
+          "lemma": "солнце",
           "pos": "noun",
           "stress": "со́лнцу",
           "gloss": "sun",
@@ -1580,7 +1580,7 @@
           "pos": "verb",
           "stress": "останови́мся",
           "gloss": "to stop, to come to a halt",
-          "gram": "verb"
+          "gram": "1st person plural"
         },
         {
           "t": "мы",
@@ -1692,8 +1692,8 @@
         },
         {
           "t": "коем",
-          "lemma": "коем",
-          "pos": "noun",
+          "lemma": "кой",
+          "pos": "pron",
           "stress": "ко́ем",
           "gloss": "which (in ни в коем случае = by no means)",
           "gram": "UNKNOWN"
@@ -1717,7 +1717,7 @@
         {
           "t": "останавливаться.",
           "lemma": "останавливаться",
-          "pos": "noun",
+          "pos": "verb",
           "stress": "останавлива́ться",
           "gloss": "stop, stay",
           "gram": "UNKNOWN"
@@ -1880,14 +1880,58 @@
       "meanings": [
         {
           "en": "we",
-          "note": ""
+          "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
           "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1897,6 +1941,16 @@
         {
           "text": "У нас грязный унитаз.",
           "trans": "Our toilet is dirty."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
         }
       ]
     },
@@ -1921,8 +1975,13 @@
         {
           "text": "Я же знаю.",
           "trans": "But I know."
+        },
+        {
+          "text": "У тебя же есть ещё. Дай хоть одну.",
+          "trans": "But you've still got some. Give me just one."
         }
-      ]
+      ],
+      "related": []
     },
     "хорошо": {
       "lemma": "хорошо",
@@ -1932,7 +1991,7 @@
       "meanings": [
         {
           "en": "well",
-          "note": ""
+          "note": "how something is done"
         },
         {
           "en": "good, fine",
@@ -1949,6 +2008,24 @@
         {
           "text": "Всё хорошо.",
           "trans": "Everything's fine."
+        },
+        {
+          "text": "Хорошо! Там всё нормально.",
+          "trans": "Good! Everything's fine over there."
+        }
+      ],
+      "related": [
+        {
+          "word": "хороший",
+          "gloss": "good"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
         }
       ]
     },
@@ -1960,7 +2037,7 @@
       "meanings": [
         {
           "en": "together",
-          "note": ""
+          "note": "Core Russian adv meaning 'together' in everyday speech."
         }
       ],
       "forms": null,
@@ -1973,6 +2050,16 @@
         {
           "text": "Мы живём вместе.",
           "trans": "We live together."
+        },
+        {
+          "text": "Мы с Пашей вместе уже месяц.",
+          "trans": "Pasha and I have been together for a month now."
+        }
+      ],
+      "related": [
+        {
+          "word": "вместо",
+          "gloss": "instead of"
         }
       ]
     },
@@ -2001,8 +2088,13 @@
         {
           "text": "Ну что?",
           "trans": "Well?"
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
         }
-      ]
+      ],
+      "related": []
     },
     "да": {
       "lemma": "да",
@@ -2012,7 +2104,7 @@
       "meanings": [
         {
           "en": "yes",
-          "note": ""
+          "note": "emphatic at the start of a sentence"
         },
         {
           "en": "да ну? = really?, oh yeah?",
@@ -2029,8 +2121,13 @@
         {
           "text": "Да, это я.",
           "trans": "Yes, it's me."
+        },
+        {
+          "text": "Да ну? Когда?",
+          "trans": "Oh yeah? When?"
         }
-      ]
+      ],
+      "related": []
     },
     "конечно": {
       "lemma": "конечно",
@@ -2053,6 +2150,24 @@
         {
           "text": "Да, конечно.",
           "trans": "Yes, of course."
+        },
+        {
+          "text": "Конечно, помогу. Кто у вас сейчас начальник?",
+          "trans": "Of course I'll help. Who's your boss now?"
+        }
+      ],
+      "related": [
+        {
+          "word": "конец",
+          "gloss": "end"
+        },
+        {
+          "word": "наконец",
+          "gloss": "at last"
+        },
+        {
+          "word": "наконец-то",
+          "gloss": "at last"
         }
       ]
     },
@@ -2081,6 +2196,16 @@
         {
           "text": "Как вы все знаете...",
           "trans": "As you all know..."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень как",
+          "gloss": "intensified / related adverb (how)"
         }
       ]
     },
@@ -2105,8 +2230,13 @@
         {
           "text": "Как будто я не знаю!",
           "trans": "As if I didn't know!"
+        },
+        {
+          "text": "Ты смотришь на меня так, как будто убить хочешь.",
+          "trans": "You look at me as if you want to kill me."
         }
-      ]
+      ],
+      "related": []
     },
     "идти": {
       "lemma": "идти",
@@ -2204,6 +2334,16 @@
         {
           "text": "Он идёт на второй срок.",
           "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "ехать",
+          "gloss": "to go (by vehicle)"
         }
       ]
     },
@@ -2236,9 +2376,14 @@
         {
           "text": "Мы говорим по телефону.",
           "trans": "We're talking on the phone."
+        },
+        {
+          "text": "Это Аракелян. Я по поводу торгового центра.",
+          "trans": "It's Arakelyan. I'm calling about the shopping centre."
         }
       ],
-      "governs": "+ dative"
+      "governs": "+ dative",
+      "related": []
     },
     "лестница": {
       "lemma": "лестница",
@@ -2249,7 +2394,7 @@
       "meanings": [
         {
           "en": "stairs, staircase; ladder",
-          "note": ""
+          "note": "Derived noun with agent/object suffix '-ник'/'-щик'/'-чик'. Common feminine noun meaning 'stairs, staircase, ladder' in everyday Russian."
         }
       ],
       "forms": {
@@ -2313,6 +2458,16 @@
         {
           "text": "Подняться по лестнице.",
           "trans": "To walk up the stairs."
+        },
+        {
+          "text": "Марина! Аркадий Борисович с лестницы упал!",
+          "trans": "Marina! Arkady Borisovich fell down the stairs!"
+        }
+      ],
+      "related": [
+        {
+          "word": "лестницный",
+          "gloss": "related to stairs (adj.)"
         }
       ]
     },
@@ -2337,6 +2492,16 @@
         {
           "text": "Посмотреть вверх.",
           "trans": "To look up."
+        },
+        {
+          "text": "Ваш рейтинг снова резко растёт вверх!",
+          "trans": "Your rating is sharply rising again!"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень вверх",
+          "gloss": "intensified / related adverb (up)"
         }
       ]
     },
@@ -2365,12 +2530,26 @@
         {
           "text": "Идите прямо по этой улице.",
           "trans": "Go straight along this street."
+        },
+        {
+          "text": "В смысле, Виктор Степанович? Прямо так, да?",
+          "trans": "What do you mean, Viktor Stepanovich? Just like that?"
+        }
+      ],
+      "related": [
+        {
+          "word": "упрямый",
+          "gloss": "stubborn"
+        },
+        {
+          "word": "прямой",
+          "gloss": "straight"
         }
       ]
     },
     "к": {
       "lemma": "к",
-      "stress": null,
+      "stress": "к",
       "pos": "prep",
       "gloss": "to, towards",
       "meanings": [
@@ -2389,18 +2568,23 @@
         {
           "text": "Я иду к маме.",
           "trans": "I'm going to Mum's."
+        },
+        {
+          "text": "Аркадий Борисович, извините, тут к вам человек.",
+          "trans": "Arkady Borisovich, I'm sorry, there's a man here to see you."
         }
-      ]
+      ],
+      "related": []
     },
-    "солнцу": {
-      "lemma": "солнцу",
-      "stress": "со́лнцу",
+    "солнце": {
+      "lemma": "солнце",
+      "stress": "со́лнце",
       "pos": "noun",
       "gloss": "sun",
       "meanings": [
         {
           "en": "sun",
-          "examples": []
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'олнце'). Common neuter noun meaning 'sun' in everyday Russian."
         }
       ],
       "forms": {
@@ -2413,48 +2597,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "солнцу",
-              "солнцуы"
+              "nominative",
+              "солнце",
+              "солнця"
             ]
           },
           {
             "cells": [
-              "gen",
-              "солнцуа",
-              "солнцуов"
+              "genitive",
+              "солнця",
+              "солнцей"
             ]
           },
           {
             "cells": [
-              "dat",
-              "солнцуу",
-              "солнцуам"
+              "dative",
+              "солнцю",
+              "солнцям"
             ]
           },
           {
             "cells": [
-              "acc",
-              "солнцу",
-              "солнцуы"
+              "accusative",
+              "солнце",
+              "солнця"
             ]
           },
           {
             "cells": [
-              "inst",
-              "солнцуом",
-              "солнцуами"
+              "instrumental",
+              "солнцем",
+              "солнцями"
             ]
           },
           {
             "cells": [
-              "prep",
-              "солнцуе",
-              "солнцуах"
+              "prepositional",
+              "солнце",
+              "солнцях"
             ]
           }
         ]
-      }
+      },
+      "gender": "n",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "солнцный",
+          "gloss": "related to sun (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Мы идём вверх, прямо к солнцу.",
+          "trans": "We are walking up, straight to the sun."
+        },
+        {
+          "text": "Спасибо, солнышко. Иди, Юля, работай.",
+          "trans": "Thank you, sweetheart. Go on, Yulya, work."
+        }
+      ]
     },
     "высоко": {
       "lemma": "высоко",
@@ -2481,6 +2683,16 @@
         {
           "text": "Птицы летят высоко в небе.",
           "trans": "The birds are flying high in the sky."
+        },
+        {
+          "text": "Город высоко ценит вас и вашего мужа.",
+          "trans": "The city values you and your husband highly."
+        }
+      ],
+      "related": [
+        {
+          "word": "высокый",
+          "gloss": "high (adjective)"
         }
       ]
     },
@@ -2557,6 +2769,16 @@
         {
           "text": "Он сделал шаг вперёд.",
           "trans": "He took a step forward."
+        },
+        {
+          "text": "Надо следить за каждым шагом кандидата.",
+          "trans": "We must monitor every step of the candidate."
+        }
+      ],
+      "related": [
+        {
+          "word": "шагный",
+          "gloss": "related to step (adj.)"
         }
       ]
     },
@@ -2585,8 +2807,13 @@
         {
           "text": "Спасибо за подарок.",
           "trans": "Thanks for the present."
+        },
+        {
+          "text": "За что?",
+          "trans": "What for?"
         }
-      ]
+      ],
+      "related": []
     },
     "шагом": {
       "lemma": "шагом",
@@ -2609,6 +2836,16 @@
         {
           "text": "Мы шли быстрым шагом.",
           "trans": "We walked at a brisk pace."
+        },
+        {
+          "text": "Пока ещё на мои деньги куплен! Встала и мыть посуду, шагом марш!",
+          "trans": "It's still bought with my money! Get up and wash the dishes, forward march!"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень шагом",
+          "gloss": "intensified / related adverb (at a walk)"
         }
       ]
     },
@@ -2633,8 +2870,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "торопиться": {
       "lemma": "торопиться",
@@ -2646,7 +2888,7 @@
       "meanings": [
         {
           "en": "to be in a hurry, to rush",
-          "note": ""
+          "note": "Не торопись = Don't rush"
         }
       ],
       "forms": {
@@ -2728,6 +2970,24 @@
         {
           "text": "Не торопись!",
           "trans": "Don't rush!"
+        },
+        {
+          "text": "Спасибо вам, Марина. Извините, тороплюсь.",
+          "trans": "Thank you, Marina. Sorry, I'm in a hurry."
+        }
+      ],
+      "related": [
+        {
+          "word": "поторопиться",
+          "gloss": "to hurry"
+        },
+        {
+          "word": "сторона",
+          "gloss": "side"
+        },
+        {
+          "word": "торопить",
+          "gloss": "to rush"
         }
       ]
     },
@@ -2741,7 +3001,7 @@
       "meanings": [
         {
           "en": "to go upstairs, to climb, to ascend",
-          "note": ""
+          "note": "Prefix 'под-' ('under, up to') indicates approaching or supporting from below (stem 'ниматься'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'to go up, to climb, to rise', paired with 'подняться'."
         },
         {
           "en": "to rise, to get up",
@@ -2827,6 +3087,24 @@
         {
           "text": "Мы поднимаемся по лестнице.",
           "trans": "We are going up the stairs."
+        },
+        {
+          "text": "Лидия Алексеевна, он поднимается уже! Ну задержите его!",
+          "trans": "Lydia Alexeyevna, he's coming up already! Well stop him!"
+        }
+      ],
+      "related": [
+        {
+          "word": "подняться",
+          "gloss": "to rise"
+        },
+        {
+          "word": "принимать",
+          "gloss": "to receive"
+        },
+        {
+          "word": "заниматься",
+          "gloss": "to be busy with"
         }
       ]
     },
@@ -2838,7 +3116,7 @@
       "meanings": [
         {
           "en": "seemingly, apparently, like",
-          "note": ""
+          "note": "Core Russian part meaning 'seemingly, like, apparently' in everyday speech."
         }
       ],
       "forms": null,
@@ -2847,8 +3125,13 @@
         {
           "text": "Вроде всё совершенно нормально.",
           "trans": "Everything seems completely fine."
+        },
+        {
+          "text": "Вроде нет, мы не торопимся.",
+          "trans": "Seems not, we are not rushing."
         }
-      ]
+      ],
+      "related": []
     },
     "нет": {
       "lemma": "нет",
@@ -2858,7 +3141,7 @@
       "meanings": [
         {
           "en": "no",
-          "note": ""
+          "note": "+ genitive: 'у нас нет выбора' = we have no choice"
         },
         {
           "en": "there isn't",
@@ -2875,8 +3158,13 @@
         {
           "text": "Нет? Ладно.",
           "trans": "No? All right."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
-      ]
+      ],
+      "related": []
     },
     "если": {
       "lemma": "если",
@@ -2899,8 +3187,13 @@
         {
           "text": "А если нет?",
           "trans": "And if not?"
+        },
+        {
+          "text": "Возьмите её, если хотите.",
+          "trans": "Take her if you want."
         }
-      ]
+      ],
+      "related": []
     },
     "остановиться": {
       "lemma": "остановиться",
@@ -2994,6 +3287,24 @@
         {
           "text": "Остановилась там кровь уже?",
           "trans": "Has the bleeding stopped yet?"
+        },
+        {
+          "text": "Ваня, ты что? Он только начал бояться, а ты остановился!",
+          "trans": "Vanya, what is wrong with you? He just started getting scared, and you stopped!"
+        }
+      ],
+      "related": [
+        {
+          "word": "останавливаться",
+          "gloss": "stop"
+        },
+        {
+          "word": "остаться",
+          "gloss": "to remain"
+        },
+        {
+          "word": "оставить",
+          "gloss": "to leave"
         }
       ]
     },
@@ -3072,6 +3383,16 @@
         {
           "text": "Этого не может быть.",
           "trans": "That can't be."
+        },
+        {
+          "text": "Этого не может быть. Это наша история.",
+          "trans": "That can't be. It's our history."
+        }
+      ],
+      "related": [
+        {
+          "word": "может",
+          "gloss": "maybe"
         }
       ]
     },
@@ -3167,12 +3488,30 @@
         {
           "text": "Чашка упала со стола.",
           "trans": "The cup fell off the table."
+        },
+        {
+          "text": "А потом на меня упал мусор с ветки.",
+          "trans": "And then rubbish fell on me from a branch."
+        }
+      ],
+      "related": [
+        {
+          "word": "падать",
+          "gloss": "to fall"
+        },
+        {
+          "word": "попасться",
+          "gloss": "to get caught"
+        },
+        {
+          "word": "спасти",
+          "gloss": "to save"
         }
       ]
     },
     "вниз": {
       "lemma": "вниз",
-      "stress": null,
+      "stress": "вниз",
       "pos": "adv",
       "gloss": "down, downstairs",
       "meanings": [
@@ -3191,6 +3530,16 @@
         {
           "text": "Он смотрит вниз.",
           "trans": "He looks down."
+        },
+        {
+          "text": "Да. Спускайтесь вниз, она там стоит.",
+          "trans": "Yes. Go downstairs, it's parked there."
+        }
+      ],
+      "related": [
+        {
+          "word": "внизу",
+          "gloss": "downstairs"
         }
       ]
     },
@@ -3202,7 +3551,7 @@
       "meanings": [
         {
           "en": "and",
-          "note": ""
+          "note": "emphasis: вот поэтому ты и... = that's exactly why you..."
         }
       ],
       "forms": null,
@@ -3215,8 +3564,13 @@
         {
           "text": "Папа и мама.",
           "trans": "Dad and Mum."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
-      ]
+      ],
+      "related": []
     },
     "разбиться": {
       "lemma": "разбиться",
@@ -3314,6 +3668,24 @@
         {
           "text": "Чашка упала и разбилась.",
           "trans": "The cup fell and broke."
+        },
+        {
+          "text": "Вы знаете, Марина, я сегодня чуть не разбился.",
+          "trans": "You know, Marina, I nearly got killed today."
+        }
+      ],
+      "related": [
+        {
+          "word": "разбиваться",
+          "gloss": "to crash"
+        },
+        {
+          "word": "убить",
+          "gloss": "to kill"
+        },
+        {
+          "word": "бить",
+          "gloss": "to beat"
         }
       ]
     },
@@ -3342,8 +3714,13 @@
         {
           "text": "Ни слова!",
           "trans": "Not a word!"
+        },
+        {
+          "text": "Пятьсот. А у меня ни копейки.",
+          "trans": "Five hundred. And I haven't got a penny."
         }
-      ]
+      ],
+      "related": []
     },
     "в": {
       "lemma": "в",
@@ -3370,18 +3747,23 @@
         {
           "text": "Я вырос в коммуналке.",
           "trans": "I grew up in a communal flat."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
         }
-      ]
+      ],
+      "related": []
     },
-    "коем": {
-      "lemma": "коем",
-      "stress": "ко́ем",
-      "pos": "noun",
+    "кой": {
+      "lemma": "кой",
+      "stress": "кой",
+      "pos": "pron",
       "gloss": "which (in ни в коем случае = by no means)",
       "meanings": [
         {
           "en": "which (in ни в коем случае = by no means)",
-          "examples": []
+          "note": "Core Russian pron meaning 'which (in ни в коем случае = by no means)' in everyday speech."
         }
       ],
       "forms": {
@@ -3435,7 +3817,18 @@
             ]
           }
         ]
-      }
+      },
+      "related": [],
+      "examples": [
+        {
+          "text": "Нам ни в коем случае нельзя останавливаться.",
+          "trans": "Under no circumstances must we stop."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ]
     },
     "случай": {
       "lemma": "случай",
@@ -3518,6 +3911,24 @@
         {
           "text": "Это странный случай.",
           "trans": "This is a strange case."
+        },
+        {
+          "text": "Возьмите, пожалуйста. На случай, если передумаете.",
+          "trans": "Please take this. In case you change your mind."
+        }
+      ],
+      "related": [
+        {
+          "word": "получаться",
+          "gloss": "to work out"
+        },
+        {
+          "word": "получать",
+          "gloss": "to receive"
+        },
+        {
+          "word": "случайно",
+          "gloss": "by chance"
         }
       ]
     },
@@ -3546,22 +3957,32 @@
         {
           "text": "Здесь нельзя курить.",
           "trans": "You can't smoke here."
+        },
+        {
+          "text": "Нельзя? Ладно, пойду учить уроки.",
+          "trans": "Not allowed? All right, I'll go and do my homework."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень нельзя",
+          "gloss": "intensified / related adverb (it is not allowed)"
         }
       ]
     },
     "останавливаться": {
       "lemma": "останавливаться",
-      "stress": "останавлива́ться",
-      "pos": "noun",
+      "stress": "остана́вливаться",
+      "pos": "verb",
       "gloss": "stop, stay",
       "meanings": [
         {
           "en": "stop, stay",
-          "examples": []
+          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'stop, stay'."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Present",
         "columns": [
           "",
           "sg",
@@ -3570,48 +3991,75 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "останавливаться",
-              "останавливатьсяы"
+              "1st",
+              "останавливаюсь",
+              "останавливаемся"
             ]
           },
           {
             "cells": [
-              "gen",
-              "останавливатьсяа",
-              "останавливатьсяов"
+              "2nd",
+              "останавливаешься",
+              "останавливаетесь"
             ]
           },
           {
             "cells": [
-              "dat",
-              "останавливатьсяу",
-              "останавливатьсяам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "останавливаться",
-              "останавливатьсяы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "останавливатьсяом",
-              "останавливатьсяами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "останавливатьсяе",
-              "останавливатьсяах"
+              "3rd",
+              "останавливается",
+              "останавливаются"
             ]
           }
         ]
-      }
+      },
+      "aspect": "impf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "останавливался",
+                "останавливалась",
+                "останавливалось",
+                "останавливались"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "остаться",
+          "gloss": "to remain"
+        },
+        {
+          "word": "оставить",
+          "gloss": "to leave"
+        },
+        {
+          "word": "оставаться",
+          "gloss": "to stay"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Нам ни в коем случае нельзя останавливаться.",
+          "trans": "Under no circumstances must we stop."
+        },
+        {
+          "text": "Это слово «останавливаться» часто звучит в разговоре.",
+          "trans": "This word 'stop' is often heard in conversation."
+        }
+      ]
     },
     "всегда": {
       "lemma": "всегда",
@@ -3621,7 +4069,7 @@
       "meanings": [
         {
           "en": "always",
-          "note": ""
+          "note": "Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'егда')."
         }
       ],
       "forms": null,
@@ -3634,6 +4082,20 @@
         {
           "text": "Выход всегда есть.",
           "trans": "There's always a way out."
+        },
+        {
+          "text": "Обиделась. У неё всегда так.",
+          "trans": "She's offended. She's always like that."
+        }
+      ],
+      "related": [
+        {
+          "word": "всего",
+          "gloss": "only"
+        },
+        {
+          "word": "навсегда",
+          "gloss": "forever"
         }
       ]
     },
@@ -3682,6 +4144,16 @@
         {
           "text": "Жадность должна быть умеренная.",
           "trans": "Greed should be moderate."
+        },
+        {
+          "text": "Жадность, Паша, должна быть умеренная. Комнатной температуры.",
+          "trans": "Greed, Pasha, should be moderate. Room temperature."
+        }
+      ],
+      "related": [
+        {
+          "word": "недолжен",
+          "gloss": "not must"
         }
       ]
     },
@@ -3693,7 +4165,7 @@
       "meanings": [
         {
           "en": "only, just",
-          "note": ""
+          "note": "softens a request: только не сердись = just don't be angry"
         }
       ],
       "forms": null,
@@ -3706,6 +4178,16 @@
         {
           "text": "Только одну.",
           "trans": "Just one."
+        },
+        {
+          "text": "Я только посмотрел!",
+          "trans": "I was only looking!"
+        }
+      ],
+      "related": [
+        {
+          "word": "столько",
+          "gloss": "so much"
         }
       ]
     },
@@ -3738,6 +4220,20 @@
         {
           "text": "Идите вперёд.",
           "trans": "Go ahead."
+        },
+        {
+          "text": "Вы взяточник! Вы лезете вперёд больного ребёнка.",
+          "trans": "You're a bribe-taker! You're pushing in ahead of a sick child."
+        }
+      ],
+      "related": [
+        {
+          "word": "впереди",
+          "gloss": "ahead"
+        },
+        {
+          "word": "впервые",
+          "gloss": "for the first time"
         }
       ]
     },
@@ -3749,14 +4245,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -3766,6 +4306,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -3877,6 +4431,24 @@
         {
           "text": "Согласен!",
           "trans": "Agreed!"
+        },
+        {
+          "text": "Согласен.",
+          "trans": "Agreed."
+        }
+      ],
+      "related": [
+        {
+          "word": "согласиться",
+          "gloss": "to agree"
+        },
+        {
+          "word": "согласованный",
+          "gloss": "agreed"
+        },
+        {
+          "word": "соглашаться",
+          "gloss": "to agree"
         }
       ]
     },
@@ -3901,9 +4473,14 @@
         {
           "text": "Я с папой.",
           "trans": "I'm with Dad."
+        },
+        {
+          "text": "Со всеми поделись поровну, понял?",
+          "trans": "Share it all equally with everyone, understand?"
         }
       ],
-      "governs": "+ instrumental"
+      "governs": "+ instrumental",
+      "related": []
     },
     "ты": {
       "lemma": "ты",
@@ -3920,7 +4497,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -3930,6 +4551,20 @@
         {
           "text": "У тебя есть ещё?",
           "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
         }
       ]
     }

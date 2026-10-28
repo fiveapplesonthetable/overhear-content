@@ -159,20 +159,19 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 - Appearance for the art: early 40s, medium skin #D9A074, neat side-parted black hair, grey suit, blue tie.
 - Story role key / voice: `theo`. Label: Clément.
 
-## Camille's mother, Madame Valentini (lives near Cannes; Mathias's old love; first seen s01e03)
-- Appearance for the art: late 40s, tanned medium skin #D9A074, big curly auburn hair, leopard-print blouse, big gold
-  hoop earrings, lots of bracelets.
-- Story role key / voice: `emilie`. Label: Maman (or "La mère de Camille").
-- Speech: warm, loud, southern; *tu* with Camille.
+## Annick Valentini (Camille's mother, Madame Valentini; lives near Cannes; Mathias's old love; first seen s01e03)
+- Appearance for the art: late 40s, tanned medium skin `#D9A074`, big curly auburn hair `#A64B3A`, warm patterned terracotta-and-gold blouse `#C98B5E`, big gold hoop earrings `#E0B456`, lots of bracelets.
+- Story role key / voice: `emilie` (or `annick` -> `emilie`). Label: Annick (or Maman).
+- Speech: warm, loud, southern; *tu* with Camille and Mathias.
 
 ## Dominique Besnehard (film producer, plays himself; first seen s01e03)
-- Appearance for the art (stylised, not a portrait): 60s, light skin #F6D2B5, grey curly hair, red-framed glasses,
-  bottle-green velvet blazer.
+- Appearance for the art (stylised, not a portrait): 60s, light skin `#F6D2B5`, grey curly hair `#8E9299`, red-framed glasses `#C8373B`, bottle-green velvet blazer `#2E6B4E`.
 - Story role key / voice: `marcel`. Label: Dominique.
 
-## François (boss of the rival agency StarMédia; first seen s01e03)
-- Appearance for the art: about 60, tanned light skin, silver hair, open-collar black shirt, expensive watch.
-- Story role key / voice: `marcel`. Label: François.
+## François Bréhier (boss of the rival agency StarMédia; first seen s01e03)
+- Appearance for the art: late 50s, tanned light skin `#F6D2B5`, slick swept-back silver hair `#A0A4AB`, smarmy grin, charcoal suit `#333840` over an open-collar black shirt `#24242C`, expensive gold watch.
+- Story role key / voice: `marcel` or `theo`. Label: François (or Bréhier).
+- Speech: smarmy, opportunistic, antagonistic.
 
 ## Hugo (delivery boy and film student, Hervé's crush; first seen s01e03)
 - Appearance for the art: early 20s, deep skin #9A6341, short curls, bike courier jacket, cycling helmet.
@@ -298,108 +297,108 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 - Film soundstage (s01e06): indoor soundstage dressed as a 20th-century military tent/bunker with spotlights and boom mics; warm khaki-gold `#C89B54`.
 - Casting studio (s01e06): bright audition room with a video camera on a tripod, folding chairs, and plain backdrop; cool studio blue `#6E8EB8`.
 
-## Virginie Efira (guest star s02e01)
-- Appearance for the art: late 30s, blonde hair, light skin #F6D2B5.
-- Story role key / voice: `lea` -> lucie or `emilie`. Label: Virginie.
-- Speech: informal, warm.
-
-## Ramzy Bedia (guest star s02e01)
-- Appearance for the art: tall, medium skin #D9A074, short dark hair.
-- Story role key / voice: `theo` or `marcel`. Label: Ramzy.
-- Speech: comedic, defensive.
-
 ## Hicham Janowski (new ASK majority shareholder; first seen s02e01)
-- Appearance for the art: 40s, handsome, short dark hair and stubble, medium skin #D9A074, sharp suits.
-- Story role key / voice: `theo` or `marcel`. Label: Hicham.
-- Speech: fast, aggressive, wealthy tech bro vibes.
+- Appearance for the art: early 40s, handsome, medium skin `#D9A074`, short neatly styled dark hair `#221A18` and close dark beard/stubble, sleek midnight-blue designer suit `#1B3B5A` over a black crew-neck shirt `#24242C`, confident posture.
+- Story role key / voice: `hicham` -> `marcel` or `theo` (or `lea` -> `lucie` when viewpoint). Label: Hicham.
+- Speech: fast, assertive, impulsive, wealthy tech-entrepreneur energy; *tu* with the agents.
 
-## Fabrice Luchini (guest star s02e02)
-- Appearance for the art: 60s, light skin #F6D2B5, receding grey hair, wears glasses and scarves, theatrical expressions.
-- Story role key / voice: `theo` or `marcel`. Label: Fabrice Luchini.
-- Speech: very theatrical, quotes literature, uses grand vocabulary.
+## Virginie Efira (star client, plays herself; guest star s02e01)
+- Appearance for the art (stylised cartoon, not a portrait): late 30s, light skin `#F6D2B5`, wavy golden-blonde shoulder-length hair `#E8C36A`, warm bright smile, chic navy-blue silk blouse `#2E3A5E` under a camel coat `#C9956A`.
+- Story role key / voice: `lea` -> `lucie` or `emilie`. Label: Virginie.
+- Speech: informal, warm, self-deprecating; *tu* with Ramzy, Mathias, and Gabriel.
 
-## Linda Gérard (actor client, used as fake casting director Debbie MacWilliams)
-- Appearance for the art: 40s, light skin #F6D2B5, dressed up as an imposing English casting director.
-- Story role key / voice: `emilie`. Label: Linda.
+## Ramzy Bedia (star client, plays himself; guest star s02e01)
+- Appearance for the art (stylised cartoon, not a portrait): tall, medium skin `#D9A074`, closely cropped dark hair and neat beard `#221815`, expressive eyebrows, olive bomber jacket `#5A6B4C` over a cream tee `#FFF6EA`.
+- Story role key / voice: `ramzy` -> `marcel` or `theo`. Label: Ramzy.
+- Speech: comedic, defensive, emotional; *tu* with Virginie and Gabriel.
 
-## Constance (casting director)
-- Appearance for the art: 40s, sharp, modern professional attire.
-- Story role key / voice: `emilie`. Label: Constance.
-- Speech: cutting, dismissive, arrogant.
+## Fabrice Luchini (star client, plays himself; guest star s02e02)
+- Appearance for the art (stylised cartoon, not a portrait): 60s, light skin `#F6D2B5`, receding silver-grey hair `#9A9EA6` brushed back at the sides, expressive raised eyebrows, dark plum blazer `#4A3360` with a burgundy cashmere scarf `#8E2F3B` draped around his neck, gesturing theatrical hands.
+- Story role key / voice: `fabrice` -> `theo` or `marcel`. Label: Fabrice.
+- Speech: highly theatrical, quotes Flaubert and Céline, shifting from whisper to exclamation.
 
-## Christophe Lambert (guest star s02e02)
-- Appearance for the art: 50s, light skin #F6D2B5, short messy greyish hair, casual cool clothes.
-- Story role key / voice: `theo`. Label: Christophe Lambert.
+## Christophe Lambert (star client, plays himself; guest star s02e02)
+- Appearance for the art (stylised cartoon, not a portrait): late 50s, tanned light skin `#D9A074`, tousled sandy-grey hair `#8C8275`, light stubble, cool slate-blue suede jacket `#3B5368` over a white shirt.
+- Story role key / voice: `christophe` -> `theo`. Label: Christophe.
 
-## François Bréhier (rival agent at Starmédia)
-- Appearance for the art: 50s, slick, well-dressed, light skin #F6D2B5.
-- Story role key / voice: `theo`. Label: François Bréhier.
-- Speech: smarmy, antagonistic.
+## Linda Gérard (actress client posing as English casting director Debbie MacWilliams; s02e02)
+- Appearance for the art: 40s, light skin `#F6D2B5`, auburn hair pinned up `#8B3A2B`, oversized round glasses and tweed blazer `#7A6855`.
+- Story role key / voice: `emilie` or `lea` -> `lucie`. Label: Linda.
 
-## Norman Thavaud (guest star s02e03)
-- Appearance for the art: late 20s, light skin #F6D2B5, wavy hair, casual vlogger clothes, expressive face.
-- Story role key / voice: `theo`. Label: Norman Thavaud.
-- Speech: informal, energetic, modern slang.
+## Norman Thavaud (star client, plays himself; guest star s02e03)
+- Appearance for the art (stylised cartoon, not a portrait): late 20s, light skin `#F6D2B5`, tousled wavy medium-brown hair `#6B4423`, casual maroon hoodie `#8E3B46` under a denim jacket `#4B6B8A`, wide expressive eyes.
+- Story role key / voice: `norman` -> `theo` (or `lea` -> `lucie` when viewpoint). Label: Norman.
+- Speech: informal, energetic, anxious about his driving test.
 
-## Aymar (driving instructor)
-- Appearance for the art: 40s, stressed driving instructor.
-- Story role key / voice: `marcel`. Label: Aymar.
+## Aymar / L'examinateur (driving instructor & examiner; s02e03)
+- Appearance for the art: 40s, light skin `#F6D2B5`, short brown hair `#5A3E2B`, glasses, teal polo shirt `#2E7D7A`, holding a clipboard.
+- Story role key / voice: `marcel` or `theo`. Label: Aymar (or L'examinateur).
 
-## Isabelle Adjani (guest star s02e04)
-- Appearance for the art: 60s, light skin #F6D2B5, dark hair, wears stylish hats and large sunglasses.
-- Story role key / voice: `lea` or `emilie`. Label: Isabelle Adjani.
-- Speech: dramatic, insecure but diva-like.
+## Isabelle Adjani (star client, plays herself; guest star s02e04)
+- Appearance for the art (stylised cartoon, not a portrait): 60s, pale porcelain skin `#F6D2B5`, long dark-brown hair `#2B1B17`, wide-brimmed dark plum hat `#4A3360`, large dark sunglasses, flowing lavender-grey silk scarf and coat `#7A6B8A`.
+- Story role key / voice: `isabelle` -> `emilie` or `lea` -> `lucie`. Label: Isabelle.
+- Speech: breathy, enigmatic, mercurial diva charm.
 
-## René (young director)
-- Appearance for the art: late 20s, hipster, nervous.
-- Story role key / voice: `theo`. Label: René.
+## Julien Doré (star client, plays himself; singer and aspiring director; guest star s02e05, recurring s03)
+- Appearance for the art (stylised cartoon, not a portrait): mid 30s, light skin `#F6D2B5`, long wavy golden-blonde hair `#D4A459` reaching his shoulders, light beard, black open-collar shirt `#24242C` under a mustard-tan suede jacket `#C98B5E`.
+- Story role key / voice: `julien` -> `theo` or `marcel`. Label: Julien.
 
-## Guy Marchand (guest star s02e05)
-- Appearance for the art: 70s, light skin #F6D2B5, distinguished, silver hair, elegant but casual clothes.
-- Story role key / voice: `theo` or `marcel`. Label: Guy Marchand.
+## Guy Marchand (star client, plays himself; veteran crooner and actor; guest star s02e05)
+- Appearance for the art (stylised cartoon, not a portrait): late 70s, light skin `#F6D2B5`, distinguished silver-white hair `#D0D4DC` and trim silver moustache, camel blazer `#B88B5A` with a silk ascot scarf `#8E2F3B` and fedora hat.
+- Story role key / voice: `guy` -> `marcel` or `theo`. Label: Guy.
 
-## Julien Doré (guest star s02e05)
-- Appearance for the art: 30s, light skin #F6D2B5, long blonde wavy hair, hipster style.
-- Story role key / voice: `theo`. Label: Julien Doré.
+## Juliette Binoche (star client, plays herself; Cannes festival president; guest star s02e06)
+- Appearance for the art (stylised cartoon, not a portrait): early 50s, light skin `#F6D2B5`, sleek dark-chestnut hair `#3B2219` swept back, radiant warm smile, dramatic royal-blue or crimson Cannes evening gown `#A62B4C` (or crisp white silk shirt by day).
+- Story role key / voice: `juliette` -> `emilie` or `lea` -> `lucie`. Label: Juliette.
 
-## Juliette Binoche (guest star s02e06)
-- Appearance for the art: 50s, light skin #F6D2B5, elegant, confident, stylish.
-- Story role key / voice: `lea` or `emilie`. Label: Juliette Binoche.
+## Jean Dujardin (star client, plays himself; method-acting as a World War I deserter living in the woods; guest star s03e01)
+- Appearance for the art (stylised cartoon, not a portrait): mid 40s, medium-tanned skin `#D9A074`, tousled dark hair and thick overgrown beard `#3B261E`, vintage distressed olive-brown wool greatcoat `#5A523C` and mud-splattered boots.
+- Story role key / voice: `jean` -> `theo` or `marcel`. Label: Jean.
 
-## Annick Valentini (Camille's mother)
-- Appearance for the art: 40s, light skin #F6D2B5, bohemian style.
-- Story role key / voice: `emilie`. Label: Annick Valentini.
+## Monica Bellucci (star client, plays herself; guest star s03e02)
+- Appearance for the art (stylised cartoon, not a portrait): 50s, warm light skin `#F6D2B5`, long lustrous dark-espresso hair `#1F1614` with soft bangs, classic black lace-trimmed Italian dress `#24242C` with a ruby-red coat `#A62B4C` and gold drop earrings.
+- Story role key / voice: `monica` -> `emilie` or `lea` -> `lucie`. Label: Monica.
 
-## Jean Dujardin (guest star s03e01)
-- Appearance for the art: 40s, light skin #F6D2B5, short hair, handsome, charismatic, often seen rugged or in character.
-- Story role key / voice: `theo` or `marcel`. Label: Jean Dujardin.
+## Gérard Lanvin (star client, plays himself; guest star s03e03)
+- Appearance for the art (stylised cartoon, not a portrait): 60s, tanned skin `#D9A074`, short salt-and-pepper hair and rugged grey-streaked stubble `#7A7E85`, dark brown leather aviator jacket `#4E3629` over a charcoal henley shirt `#36404A`.
+- Story role key / voice: `gerard` -> `theo` or `marcel`. Label: Gérard.
 
-### Monica Bellucci
-- **Monica Bellucci** (`monica`): The world-famous Italian actress, who in this episode is struggling with loneliness and looking for a normal, non-industry guy.
+## Isabelle Huppert (star client, plays herself; tireless actress shooting two films at once; guest star s03e04)
+- Appearance for the art (stylised cartoon, not a portrait): 60s, pale light skin `#F6D2B5` with freckles, shoulder-length straight copper-strawberry-blonde hair `#C96A42`, sharp tailored emerald-teal pantsuit `#2E7D7A` over a cream blouse, dark sunglasses in hand.
+- Story role key / voice: `isabelle` -> `emilie` or `lea` -> `lucie`. Label: Isabelle.
 
-### Gérard Lanvin
-- **Gérard Lanvin** (`gerard`): The veteran French actor, known for his tough-guy roles but trying to manage a delicate personal and professional situation in this episode.
+## Béatrice Dalle (star client, plays herself; fiery rebel actress; guest star s03e05)
+- Appearance for the art (stylised cartoon, not a portrait): 50s, light skin `#F6D2B5`, long wild jet-black hair `#181518`, bold red lips and wide gap-toothed grin, black rock-and-roll leather jacket `#24242C` over a leopard/gold top `#D4A459`.
+- Story role key / voice: `beatrice` -> `emilie` or `lea` -> `lucie`. Label: Béatrice.
 
-### Isabelle Huppert
-- **Isabelle Huppert** (`isabelle`): The legendary French actress known for being extremely hardworking, practically starring in multiple films at the same time in this episode.
+## Charlotte Gainsbourg (star client, plays herself; guest star s04e01)
+- Appearance for the art (stylised cartoon, not a portrait): late 40s, slim, light skin `#F6D2B5`, long straight chestnut-brown hair `#4A2E26` parted in the middle, understated Parisian chic navy pea coat `#2A3B5C` over a striped shirt and jeans.
+- Story role key / voice: `charlotte` -> `emilie` or `lea` -> `lucie`. Label: Charlotte.
 
-### Béatrice Dalle
-- **Béatrice Dalle** (`beatrice`): The fiery and rebellious French actress, known for her intense roles and unpredictable behavior on set.
+## Élise Formain (ambitious new agent hired by Hicham from StarMédia; recurring S4, first seen s04e01)
+- Appearance for the art: late 30s, light skin `#F6D2B5`, sleek honey-blonde bob `#D9B25F`, sharp tailored burgundy-plum blazer `#7A2E4D` over a cream blouse, calculating smile.
+- Story role key / voice: `elise` -> `emilie` (or `lea` -> `lucie` when viewpoint). Label: Élise.
 
-### Charlotte Gainsbourg (guest star s04e01)
-- **Charlotte Gainsbourg** (`charlotte`): The acclaimed actress who gets accidentally booked for an absurd sci-fi movie and desperately wants out.
+## Franck Dubosc (star client, plays himself; comedy star seeking a gritty dramatic role; guest star s04e02)
+- Appearance for the art (stylised cartoon, not a portrait): 50s, tanned skin `#D9A074`, swept-back silver-brown hair `#6E6A66`, expressive blue-eyed grin, sky-blue open-collar shirt `#78B9E8` under a navy blazer `#2E3A5E`.
+- Story role key / voice: `franck` -> `theo` or `marcel` (or `lea` -> `lucie`). Label: Franck.
 
-### Franck Dubosc (guest star s04e02)
-- **Franck Dubosc** (`franck`): The popular comedy actor who desperately wants to prove he can play a serious dramatic role in a cerebral film.
+## José Garcia (star client, plays himself; energetic actor; guest star s04e03)
+- Appearance for the art (stylised cartoon, not a portrait): 50s, medium skin `#D9A074`, short dark hair with silver temples and neat goatee `#3A3638`, lively theatrical grin, terracotta-rust jacket `#B85A44` over a dark shirt.
+- Story role key / voice: `jose` -> `theo`. Label: José.
 
-### José Garcia (guest star s04e03)
-- **José Garcia** (`jose`): The energetic actor who reunites with his old friend and co-star but harbors an unspoken tension with her.
+## Sandrine Kiberlain (star client, plays herself; actress trying stand-up comedy; guest star s04e04)
+- Appearance for the art (stylised cartoon, not a portrait): 50s, slim, light skin `#F6D2B5`, tousled short-to-medium golden-blonde hair `#E8C36A`, warm expressive face, oversized mustard blazer `#E0B456` over a white tee, holding a stand-up microphone.
+- Story role key / voice: `sandrine` -> `emilie` or `lea` -> `lucie`. Label: Sandrine.
 
-### Sandrine Kiberlain (guest star s04e04)
-- **Sandrine Kiberlain** (`sandrine`): The celebrated French actress who suddenly wants to quit acting to pursue a career in stand-up comedy, much to her agent's dismay.
+## Sigourney Weaver (star client, plays herself; tall Hollywood legend visiting Paris; guest star s04e05)
+- Appearance for the art (stylised cartoon, not a portrait): tall, statuesque, light skin `#F6D2B5`, wavy auburn-chestnut hair `#7A3B2E`, regal posture, tailored royal-red blazer `#C8373B` over a cream silk blouse `#FFF6EA` and gold scarf.
+- Story role key / voice: `sigourney` -> `emilie` or `lea` -> `lucie`. Label: Sigourney.
 
-### Sigourney Weaver (guest star s04e05)
-- **Sigourney Weaver** (`sigourney`): The legendary American Hollywood star who arrives in Paris expecting to star in a romance opposite Gaspard Ulliel, but instead finds an elderly Bernard Campan cast as her lover.
+## Jean Reno (star client, plays himself; legendary French actor retiring; guest star s04e06)
+- Appearance for the art (stylised cartoon, not a portrait): 70, stocky, medium-light skin `#D9A074`, closely cropped silver hair and neat white-grey stubble beard `#B0B4BC`, iconic small round glasses, dark olive-charcoal overcoat `#3B423E` and burgundy scarf.
+- Story role key / voice: `jean` -> `theo` or `marcel`. Label: Jean.
 
-### Jean Reno (guest star s04e06)
-- **Jean Reno** (`jean`): The legendary French actor who decides to retire from acting entirely in order to live a quiet life on a farm, throwing his agency into chaos.
+## Sacha Hartman & Elvis Janowski (recurring S3–S4)
+- **Sacha Hartman (veteran film producer; s03–s04)**: 65, light skin `#F6D2B5`, silver hair and glasses, navy cashmere sweater over a collared shirt `#2E3A5E`. Label: Sacha.
+- **Elvis Janowski (Hicham's young son; s03–s04)**: boy about 8, medium skin `#D9A074`, curly dark hair `#221815`, yellow-and-blue striped sweater `#F2C14E`. Label: Elvis.

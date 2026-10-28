@@ -230,8 +230,8 @@
         },
         {
           "t": "наделали,",
-          "lemma": "наделали",
-          "pos": "noun",
+          "lemma": "наделать",
+          "pos": "verb",
           "stress": "надела́ли",
           "gloss": "make, cause",
           "gram": "UNKNOWN"
@@ -328,8 +328,8 @@
         },
         {
           "t": "повесился?",
-          "lemma": "повесился",
-          "pos": "noun",
+          "lemma": "повеситься",
+          "pos": "verb",
           "stress": "повеси́лся",
           "gloss": "hang oneself",
           "gram": "UNKNOWN"
@@ -566,8 +566,8 @@
         },
         {
           "t": "наделали,",
-          "lemma": "наделали",
-          "pos": "noun",
+          "lemma": "наделать",
+          "pos": "verb",
           "stress": "надела́ли",
           "gloss": "make, cause",
           "gram": "UNKNOWN"
@@ -664,8 +664,8 @@
         },
         {
           "t": "повесился?",
-          "lemma": "повесился",
-          "pos": "noun",
+          "lemma": "повеситься",
+          "pos": "verb",
           "stress": "повеси́лся",
           "gloss": "hang oneself",
           "gram": "UNKNOWN"
@@ -902,8 +902,8 @@
         },
         {
           "t": "наделали,",
-          "lemma": "наделали",
-          "pos": "noun",
+          "lemma": "наделать",
+          "pos": "verb",
           "stress": "надела́ли",
           "gloss": "make, cause",
           "gram": "UNKNOWN"
@@ -1000,8 +1000,8 @@
         },
         {
           "t": "повесился?",
-          "lemma": "повесился",
-          "pos": "noun",
+          "lemma": "повеситься",
+          "pos": "verb",
           "stress": "повеси́лся",
           "gloss": "hang oneself",
           "gram": "UNKNOWN"
@@ -1032,14 +1032,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1049,6 +1093,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -1127,6 +1185,20 @@
         {
           "text": "Не хочешь, как хочешь.",
           "trans": "If you don't want to, suit yourself."
+        },
+        {
+          "text": "Там хотят построить торговый центр.",
+          "trans": "They want to build a shopping centre there."
+        }
+      ],
+      "related": [
+        {
+          "word": "захотеть",
+          "gloss": "to want"
+        },
+        {
+          "word": "хотеться",
+          "gloss": "to feel like"
         }
       ]
     },
@@ -1155,8 +1227,13 @@
         {
           "text": "Я звоню, чтобы сказать спасибо.",
           "trans": "I'm calling to say thank you."
+        },
+        {
+          "text": "Чтобы свидетели были, Самсон.",
+          "trans": "So that there are witnesses, Samson."
         }
-      ]
+      ],
+      "related": []
     },
     "ты": {
       "lemma": "ты",
@@ -1173,7 +1250,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1183,6 +1304,20 @@
         {
           "text": "У тебя есть ещё?",
           "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
         }
       ]
     },
@@ -1261,6 +1396,24 @@
         {
           "text": "Я не знаю.",
           "trans": "I don't know."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "узнать",
+          "gloss": "to recognise"
+        },
+        {
+          "word": "признаться",
+          "gloss": "to confess"
+        },
+        {
+          "word": "признательный",
+          "gloss": "grateful"
         }
       ]
     },
@@ -1274,7 +1427,7 @@
       "meanings": [
         {
           "en": "to love",
-          "note": ""
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to love, to like', paired with 'полюбить'."
         },
         {
           "en": "to like",
@@ -1360,6 +1513,24 @@
         {
           "text": "Ты любишь жвачку?",
           "trans": "Do you like gum?"
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "полюбить",
+          "gloss": "to come to love"
+        },
+        {
+          "word": "любимый",
+          "gloss": "favourite"
+        },
+        {
+          "word": "любитель",
+          "gloss": "fan"
         }
       ]
     },
@@ -1455,6 +1626,24 @@
         {
           "text": "Прекратите шуметь!",
           "trans": "Stop making noise!"
+        },
+        {
+          "text": "Да ну что вы, прекратите! Это жизнь.",
+          "trans": "Oh, come on, stop it! That's life."
+        }
+      ],
+      "related": [
+        {
+          "word": "прекращать",
+          "gloss": "to stop"
+        },
+        {
+          "word": "прекрасный",
+          "gloss": "beautiful"
+        },
+        {
+          "word": "прекрасно",
+          "gloss": "perfectly"
         }
       ]
     },
@@ -1466,7 +1655,7 @@
       "meanings": [
         {
           "en": "hang oneself",
-          "examples": []
+          "note": "Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'hang oneself'."
         }
       ],
       "forms": {
@@ -1499,7 +1688,47 @@
             ]
           }
         ]
-      }
+      },
+      "aspect": "impf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "вешался",
+                "вешалась",
+                "вешалось",
+                "вешались"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "свешаться",
+          "gloss": "aspect/prefix relative (hang oneself)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Хочешь вешаться — вешайся, мне всё равно.",
+          "trans": "You want to hang yourself — hang yourself, I do not care."
+        },
+        {
+          "text": "Ты хочешь вешаться?",
+          "trans": "Do you want to hang yourself?"
+        }
+      ]
     },
     "весь": {
       "lemma": "весь",
@@ -1509,7 +1738,7 @@
       "meanings": [
         {
           "en": "all, the whole",
-          "note": ""
+          "note": "the neuter form 'всё' used alone"
         },
         {
           "en": "everything",
@@ -1600,7 +1829,8 @@
           "text": "Поделись со всеми.",
           "trans": "Share with everyone."
         }
-      ]
+      ],
+      "related": []
     },
     "равно": {
       "lemma": "равно",
@@ -1623,6 +1853,24 @@
         {
           "text": "Всем всё равно.",
           "trans": "Nobody cares."
+        },
+        {
+          "text": "Мне всё равно. Что ты, что он.",
+          "trans": "It's all the same to me. You or him."
+        }
+      ],
+      "related": [
+        {
+          "word": "сравняться",
+          "gloss": "to become equal"
+        },
+        {
+          "word": "сравнивать",
+          "gloss": "to compare"
+        },
+        {
+          "word": "равномерно",
+          "gloss": "evenly"
         }
       ]
     },
@@ -1636,7 +1884,7 @@
       "meanings": [
         {
           "en": "to stand for a while",
-          "note": ""
+          "note": "said to stop someone leaving"
         },
         {
           "en": "Постой! = Wait!",
@@ -1722,6 +1970,24 @@
         {
           "text": "Я тут постою.",
           "trans": "I'll stand here for a bit."
+        },
+        {
+          "text": "Викуля, постой!",
+          "trans": "Vikulya, wait!"
+        }
+      ],
+      "related": [
+        {
+          "word": "стоять",
+          "gloss": "to stand"
+        },
+        {
+          "word": "обстоятельство",
+          "gloss": "circumstance"
+        },
+        {
+          "word": "постоянный",
+          "gloss": "regular"
         }
       ]
     },
@@ -1746,8 +2012,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "шутить": {
       "lemma": "шутить",
@@ -1759,7 +2030,7 @@
       "meanings": [
         {
           "en": "to joke",
-          "note": ""
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to joke', paired with 'пошутить'."
         }
       ],
       "forms": {
@@ -1824,6 +2095,20 @@
         {
           "text": "Я не шучу.",
           "trans": "I'm not joking."
+        },
+        {
+          "text": "Шутишь? Правда, скажи, где деньги? Меня наняли.",
+          "trans": "Are you joking? Seriously, tell me, where's the money? They hired me."
+        }
+      ],
+      "related": [
+        {
+          "word": "пошутить",
+          "gloss": "to joke"
+        },
+        {
+          "word": "подшутить",
+          "gloss": "to play a prank"
         }
       ]
     },
@@ -1919,6 +2204,24 @@
         {
           "text": "Конечно, помогу.",
           "trans": "Of course I'll help."
+        },
+        {
+          "text": "Экскаваторщик — это не мой уровень. Может, поможешь?",
+          "trans": "Excavator driver isn't my level. Maybe you could help?"
+        }
+      ],
+      "related": [
+        {
+          "word": "помогать",
+          "gloss": "to help"
+        },
+        {
+          "word": "мочь",
+          "gloss": "can"
+        },
+        {
+          "word": "смочь",
+          "gloss": "to be able"
         }
       ]
     },
@@ -1941,7 +2244,51 @@
           "note": ""
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "чего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "чему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "что"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "чем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "чём"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1951,8 +2298,13 @@
         {
           "text": "Смотри, что у меня есть.",
           "trans": "Look what I've got."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
-      ]
+      ],
+      "related": []
     },
     "вы": {
       "lemma": "вы",
@@ -1969,7 +2321,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "вы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "вам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "вами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "вас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1979,22 +2375,32 @@
         {
           "text": "Губернатор вас поддерживает?",
           "trans": "Does the governor support you?"
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "вас",
+          "gloss": "you (genitive/accusative)"
         }
       ]
     },
-    "наделали": {
-      "lemma": "наделали",
-      "stress": "надела́ли",
-      "pos": "noun",
+    "наделать": {
+      "lemma": "наделать",
+      "stress": "наде́лать",
+      "pos": "verb",
       "gloss": "make, cause",
       "meanings": [
         {
           "en": "make, cause",
-          "examples": []
+          "note": "Prefix 'на-' marks surface contact, accumulation, or completing a quantity (stem 'делать'). Used as an perfective (single completed action) verb meaning 'make, cause'."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -2003,48 +2409,75 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "наделали",
-              "наделалиы"
+              "1st",
+              "наделаю",
+              "наделаем"
             ]
           },
           {
             "cells": [
-              "gen",
-              "наделалиа",
-              "наделалиов"
+              "2nd",
+              "наделаешь",
+              "наделаете"
             ]
           },
           {
             "cells": [
-              "dat",
-              "наделалиу",
-              "наделалиам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "наделали",
-              "наделалиы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "наделалиом",
-              "наделалиами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "наделалие",
-              "наделалиах"
+              "3rd",
+              "наделает",
+              "наделают"
             ]
           }
         ]
-      }
+      },
+      "aspect": "pf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "наделал",
+                "наделала",
+                "наделало",
+                "наделали"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "сделать",
+          "gloss": "to do"
+        },
+        {
+          "word": "делать",
+          "gloss": "to do"
+        },
+        {
+          "word": "переделать",
+          "gloss": "to redo"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Что вы наделали, Виктория?",
+          "trans": "What have you done, Victoria?"
+        },
+        {
+          "text": "Что, я зря пришла? Я надела костюм зайки!",
+          "trans": "What, did I come for nothing? I put on a bunny costume!"
+        }
+      ]
     },
     "убить": {
       "lemma": "убить",
@@ -2056,7 +2489,7 @@
       "meanings": [
         {
           "en": "to kill",
-          "note": ""
+          "note": "'mum will kill me' = I'll be in big trouble"
         }
       ],
       "forms": {
@@ -2138,6 +2571,24 @@
         {
           "text": "Я тебя убью!",
           "trans": "I'll kill you! (said in anger)"
+        },
+        {
+          "text": "Ты смотришь на меня так, как будто убить хочешь.",
+          "trans": "You look at me as if you want to kill me."
+        }
+      ],
+      "related": [
+        {
+          "word": "убивать",
+          "gloss": "to kill"
+        },
+        {
+          "word": "бить",
+          "gloss": "to beat"
+        },
+        {
+          "word": "побить",
+          "gloss": "to beat up"
         }
       ]
     },
@@ -2149,7 +2600,7 @@
       "meanings": [
         {
           "en": "he",
-          "note": ""
+          "note": "accusative/genitive его (него after prepositions), dative ему (нему)"
         },
         {
           "en": "it",
@@ -2160,7 +2611,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "он"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "его"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "его"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "им"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нём"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2170,8 +2665,13 @@
         {
           "text": "Надо его помыть.",
           "trans": "It needs a wash."
+        },
+        {
+          "text": "Очкарик! Держи его!",
+          "trans": "Four-eyes! Grab him!"
         }
-      ]
+      ],
+      "related": []
     },
     "реально": {
       "lemma": "реально",
@@ -2198,18 +2698,32 @@
         {
           "text": "Это реально сделать за день.",
           "trans": "It's realistic to do that in a day."
+        },
+        {
+          "text": "Я не шучу и реально сваливаю отсюда.",
+          "trans": "I am not joking and am seriously getting out of here."
+        }
+      ],
+      "related": [
+        {
+          "word": "реальный",
+          "gloss": "real"
+        },
+        {
+          "word": "реальность",
+          "gloss": "reality"
         }
       ]
     },
-    "повесился": {
-      "lemma": "повесился",
-      "stress": "повеси́лся",
+    "повеситься": {
+      "lemma": "повеситься",
+      "stress": "пове́ситься",
       "pos": "verb",
       "gloss": "hang oneself",
       "meanings": [
         {
           "en": "hang oneself",
-          "examples": []
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'веситься'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an imperfective (ongoing/repeated action) verb meaning 'hang oneself'."
         }
       ],
       "forms": {
@@ -2242,7 +2756,47 @@
             ]
           }
         ]
-      }
+      },
+      "aspect": "impf",
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "повесился",
+                "повесилась",
+                "повесилось",
+                "повесились"
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        {
+          "word": "сповеситься",
+          "gloss": "aspect/prefix relative (hang oneself)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ты что, реально повесился?",
+          "trans": "Did you really hang yourself?"
+        },
+        {
+          "text": "Ты реально повесился?",
+          "trans": "Did you really hang yourself?"
+        }
+      ]
     }
   }
 }

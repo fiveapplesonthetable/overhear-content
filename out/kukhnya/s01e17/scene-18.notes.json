@@ -58,11 +58,11 @@
       "words": [
         {
           "t": "Рулеты",
-          "lemma": "рулеты",
+          "lemma": "рулет",
           "pos": "noun",
           "stress": "руле́ты",
           "gloss": "roll, roulade",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "из",
@@ -78,7 +78,7 @@
           "pos": "noun",
           "stress": "теляти́ны",
           "gloss": "veal",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "с",
@@ -90,11 +90,11 @@
         },
         {
           "t": "ветчиной.",
-          "lemma": "ветчиной",
+          "lemma": "ветчина",
           "pos": "noun",
           "stress": "ветчи́ной",
           "gloss": "ham",
-          "gram": "noun"
+          "gram": "instrumental singular"
         }
       ]
     },
@@ -238,7 +238,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "corpse, dead body",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -450,11 +450,11 @@
       "words": [
         {
           "t": "Рулеты",
-          "lemma": "рулеты",
+          "lemma": "рулет",
           "pos": "noun",
           "stress": "руле́ты",
           "gloss": "roll, roulade",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "из",
@@ -470,7 +470,7 @@
           "pos": "noun",
           "stress": "теляти́ны",
           "gloss": "veal",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "с",
@@ -482,11 +482,11 @@
         },
         {
           "t": "ветчиной.",
-          "lemma": "ветчиной",
+          "lemma": "ветчина",
           "pos": "noun",
           "stress": "ветчи́ной",
           "gloss": "ham",
-          "gram": "noun"
+          "gram": "instrumental singular"
         }
       ]
     },
@@ -630,7 +630,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "corpse, dead body",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -842,11 +842,11 @@
       "words": [
         {
           "t": "Рулеты",
-          "lemma": "рулеты",
+          "lemma": "рулет",
           "pos": "noun",
           "stress": "руле́ты",
           "gloss": "roll, roulade",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "из",
@@ -862,7 +862,7 @@
           "pos": "noun",
           "stress": "теляти́ны",
           "gloss": "veal",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "с",
@@ -874,11 +874,11 @@
         },
         {
           "t": "ветчиной.",
-          "lemma": "ветчиной",
+          "lemma": "ветчина",
           "pos": "noun",
           "stress": "ветчи́ной",
           "gloss": "ham",
-          "gram": "noun"
+          "gram": "instrumental singular"
         }
       ]
     },
@@ -1022,7 +1022,7 @@
           "pos": "noun",
           "stress": null,
           "gloss": "corpse, dead body",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         }
       ]
     },
@@ -1215,7 +1215,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1225,6 +1269,20 @@
         {
           "text": "У тебя есть ещё?",
           "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
         }
       ]
     },
@@ -1364,6 +1422,20 @@
           "text": "Ты будешь просить прощения.",
           "trans": "You will be asking for forgiveness."
         }
+      ],
+      "related": [
+        {
+          "word": "забыть",
+          "gloss": "to forget"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
+        },
+        {
+          "word": "побыть",
+          "gloss": "to stay for a while"
+        }
       ]
     },
     "там": {
@@ -1374,7 +1446,7 @@
       "meanings": [
         {
           "en": "there",
-          "note": ""
+          "note": "там такие деньги = there's so much money in it"
         }
       ],
       "forms": null,
@@ -1387,6 +1459,16 @@
         {
           "text": "Кто там?",
           "trans": "Who's there?"
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень там",
+          "gloss": "intensified / related adverb (there)"
         }
       ]
     },
@@ -1398,7 +1480,7 @@
       "meanings": [
         {
           "en": "no",
-          "note": ""
+          "note": "+ genitive: 'у нас нет выбора' = we have no choice"
         },
         {
           "en": "there isn't",
@@ -1415,8 +1497,13 @@
         {
           "text": "Нет? Ладно.",
           "trans": "No? All right."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
-      ]
+      ],
+      "related": []
     },
     "конечно": {
       "lemma": "конечно",
@@ -1439,18 +1526,36 @@
         {
           "text": "Да, конечно.",
           "trans": "Yes, of course."
+        },
+        {
+          "text": "Конечно, помогу. Кто у вас сейчас начальник?",
+          "trans": "Of course I'll help. Who's your boss now?"
+        }
+      ],
+      "related": [
+        {
+          "word": "конец",
+          "gloss": "end"
+        },
+        {
+          "word": "наконец",
+          "gloss": "at last"
+        },
+        {
+          "word": "наконец-то",
+          "gloss": "at last"
         }
       ]
     },
-    "рулеты": {
-      "lemma": "рулеты",
-      "stress": "руле́ты",
+    "рулет": {
+      "lemma": "рулет",
+      "stress": "руле́т",
       "pos": "noun",
       "gloss": "roll, roulade",
       "meanings": [
         {
           "en": "roll, roulade",
-          "examples": []
+          "note": "Common masculine noun meaning 'roll, roulade' in everyday Russian."
         }
       ],
       "forms": {
@@ -1463,48 +1568,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "рулеты",
-              "рулетыы"
+              "nominative",
+              "рулет",
+              "рулеты"
             ]
           },
           {
             "cells": [
-              "gen",
-              "рулетыа",
-              "рулетыов"
+              "genitive",
+              "рулета",
+              "рулетов"
             ]
           },
           {
             "cells": [
-              "dat",
-              "рулетыу",
-              "рулетыам"
+              "dative",
+              "рулету",
+              "рулетам"
             ]
           },
           {
             "cells": [
-              "acc",
-              "рулеты",
-              "рулетыы"
+              "accusative",
+              "рулет",
+              "рулеты"
             ]
           },
           {
             "cells": [
-              "inst",
-              "рулетыом",
-              "рулетыами"
+              "instrumental",
+              "рулетом",
+              "рулетами"
             ]
           },
           {
             "cells": [
-              "prep",
-              "рулетые",
-              "рулетыах"
+              "prepositional",
+              "рулете",
+              "рулетах"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "рулетик",
+          "gloss": "little roll"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Рулеты из телятины с ветчиной.",
+          "trans": "Veal rolls with ham."
+        },
+        {
+          "text": "Иначе все поймут, что за рулём пьяный!",
+          "trans": "Otherwise everyone will realise the driver is drunk!"
+        }
+      ]
     },
     "из": {
       "lemma": "из",
@@ -1527,9 +1650,14 @@
         {
           "text": "Он из Москвы.",
           "trans": "He's from Moscow."
+        },
+        {
+          "text": "Марина Сергеевна, я уже знаю. Мне звонили из мэрии.",
+          "trans": "Marina Sergeyevna, I already know. The town hall called me."
         }
       ],
-      "governs": "+ genitive"
+      "governs": "+ genitive",
+      "related": []
     },
     "телятина": {
       "lemma": "телятина",
@@ -1541,7 +1669,7 @@
       "meanings": [
         {
           "en": "veal, calf meat",
-          "note": ""
+          "note": "Common feminine noun meaning 'veal' in everyday Russian."
         }
       ],
       "forms": {
@@ -1601,6 +1729,20 @@
         {
           "text": "Повар готовит нежную телятину.",
           "trans": "The chef prepares tender veal."
+        },
+        {
+          "text": "Одна телятина, треска и свежий салат!",
+          "trans": "One veal, cod, and fresh salad!"
+        },
+        {
+          "text": "Мясные рулетики из телятины с тонкими ломтиками ветчины.",
+          "trans": "You know, veal rolls with thin slices of ham."
+        }
+      ],
+      "related": [
+        {
+          "word": "телятинный",
+          "gloss": "related to veal (adj.)"
         }
       ]
     },
@@ -1625,73 +1767,62 @@
         {
           "text": "Я с папой.",
           "trans": "I'm with Dad."
+        },
+        {
+          "text": "Со всеми поделись поровну, понял?",
+          "trans": "Share it all equally with everyone, understand?"
         }
       ],
-      "governs": "+ instrumental"
+      "governs": "+ instrumental",
+      "related": []
     },
-    "ветчиной": {
-      "lemma": "ветчиной",
-      "stress": "ветчи́ной",
+    "ветчина": {
+      "lemma": "ветчина",
+      "stress": "ветчина́",
       "pos": "noun",
       "gloss": "ham",
       "meanings": [
         {
           "en": "ham",
-          "examples": []
+          "note": "Common substantive noun meaning 'ham' in everyday Russian."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Forms",
         "columns": [
-          "",
-          "sg",
-          "pl"
+          "Form",
+          "Value"
         ],
         "rows": [
           {
             "cells": [
-              "nom",
-              "ветчиной",
-              "ветчинойы"
-            ]
-          },
-          {
-            "cells": [
-              "gen",
-              "ветчинойа",
-              "ветчинойов"
-            ]
-          },
-          {
-            "cells": [
-              "dat",
-              "ветчинойу",
-              "ветчинойам"
-            ]
-          },
-          {
-            "cells": [
-              "acc",
-              "ветчиной",
-              "ветчинойы"
-            ]
-          },
-          {
-            "cells": [
-              "inst",
-              "ветчинойом",
-              "ветчинойами"
-            ]
-          },
-          {
-            "cells": [
-              "prep",
-              "ветчинойе",
-              "ветчинойах"
+              "Base",
+              "ветчина"
             ]
           }
         ]
-      }
+      },
+      "moreForms": [],
+      "related": [
+        {
+          "word": "ветчинный",
+          "gloss": "related to ham (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Это нежное мясо с тонкой ветчиной.",
+          "trans": "This is tender meat with thin ham."
+        },
+        {
+          "text": "Мясные рулетики из телятины с тонкими ломтиками ветчины.",
+          "trans": "You know, veal rolls with thin slices of ham."
+        },
+        {
+          "text": "Это такая штука для нарезки ветчины очень тонкими ломтиками.",
+          "trans": "It is a gadget for slicing ham really thin."
+        }
+      ]
     },
     "я": {
       "lemma": "я",
@@ -1701,14 +1832,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1718,6 +1893,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -1742,8 +1931,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "понимать": {
       "lemma": "понимать",
@@ -1820,6 +2014,24 @@
         {
           "text": "Я хочу на море, понимаешь?",
           "trans": "I want to go to the sea, you know?"
+        },
+        {
+          "text": "Я хочу нормально жить! Я хочу биде, понимаешь?",
+          "trans": "I want to live like a normal person! I want a bidet, do you understand?"
+        }
+      ],
+      "related": [
+        {
+          "word": "понять",
+          "gloss": "to understand"
+        },
+        {
+          "word": "принимать",
+          "gloss": "to receive"
+        },
+        {
+          "word": "заниматься",
+          "gloss": "to be busy with"
         }
       ]
     },
@@ -1833,7 +2045,7 @@
       "meanings": [
         {
           "en": "to steal",
-          "note": ""
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'красть'). Used as an perfective (single completed action) verb meaning 'to steal', paired with 'красть'."
         }
       ],
       "forms": {
@@ -1915,6 +2127,24 @@
         {
           "text": "У меня украли телефон.",
           "trans": "My phone was stolen."
+        },
+        {
+          "text": "Чтобы он вернул деньги, которые украл.",
+          "trans": "For him to give back the money he stole."
+        }
+      ],
+      "related": [
+        {
+          "word": "красть",
+          "gloss": "to steal"
+        },
+        {
+          "word": "красота",
+          "gloss": "beauty"
+        },
+        {
+          "word": "красивый",
+          "gloss": "beautiful"
         }
       ]
     },
@@ -2004,8 +2234,13 @@
         {
           "text": "Это моё.",
           "trans": "That's mine."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
-      ]
+      ],
+      "related": []
     },
     "рецепт": {
       "lemma": "рецепт",
@@ -2080,6 +2315,16 @@
         {
           "text": "Шеф хранит этот секретный рецепт в тайне.",
           "trans": "The chef keeps this secret recipe confidential."
+        },
+        {
+          "text": "Шеф хранит свой тайный рецепт супа.",
+          "trans": "The chef keeps his secret soup recipe."
+        }
+      ],
+      "related": [
+        {
+          "word": "рецептный",
+          "gloss": "related to recipe (adj.)"
         }
       ]
     },
@@ -2094,7 +2339,51 @@
           "note": "usually in the genitive ничего, with не: ничего не осталось"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ничто"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ничего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ничему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ничто"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ничем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ни о чём"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2104,6 +2393,16 @@
         {
           "text": "Я ничего не знаю.",
           "trans": "I don't know anything."
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
+        }
+      ],
+      "related": [
+        {
+          "word": "уничтожить",
+          "gloss": "to destroy"
         }
       ]
     },
@@ -2203,6 +2502,24 @@
         {
           "text": "Он не берёт взятки.",
           "trans": "He doesn't take bribes."
+        },
+        {
+          "text": "Я не беру нож.",
+          "trans": "I'm not taking the knife."
+        }
+      ],
+      "related": [
+        {
+          "word": "взять",
+          "gloss": "to take"
+        },
+        {
+          "word": "забрать",
+          "gloss": "to take back"
+        },
+        {
+          "word": "убрать",
+          "gloss": "to remove"
         }
       ]
     },
@@ -2231,8 +2548,13 @@
         {
           "text": "Ну что?",
           "trans": "Well?"
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
         }
-      ]
+      ],
+      "related": []
     },
     "труп": {
       "lemma": "труп",
@@ -2242,7 +2564,7 @@
       "meanings": [
         {
           "en": "corpse, dead body",
-          "examples": []
+          "note": "Common masculine noun meaning 'corpse, dead body' in everyday Russian."
         }
       ],
       "forms": {
@@ -2255,48 +2577,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
               "труп",
               "трупы"
             ]
           },
           {
             "cells": [
-              "gen",
+              "genitive",
               "трупа",
               "трупов"
             ]
           },
           {
             "cells": [
-              "dat",
+              "dative",
               "трупу",
               "трупам"
             ]
           },
           {
             "cells": [
-              "acc",
+              "accusative",
               "труп",
               "трупы"
             ]
           },
           {
             "cells": [
-              "inst",
+              "instrumental",
               "трупом",
               "трупами"
             ]
           },
           {
             "cells": [
-              "prep",
+              "prepositional",
               "трупе",
               "трупах"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "трупный",
+          "gloss": "related to corpse (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ну, Сеня, ты труп.",
+          "trans": "Well, Senya, you are a corpse."
+        },
+        {
+          "text": "Детство у меня было трудное. Я вырос в коммуналке.",
+          "trans": "My childhood was hard. I grew up in a communal flat."
+        }
+      ]
     },
     "это": {
       "lemma": "это",
@@ -2306,7 +2646,7 @@
       "meanings": [
         {
           "en": "this, that",
-          "note": ""
+          "note": "pointing at a thing or a situation; 'это' + noun = 'this is ...'"
         },
         {
           "en": "this is, that is",
@@ -2321,7 +2661,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "этого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "этому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "это"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "этим"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "этом"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2331,6 +2715,16 @@
         {
           "text": "А это тебе.",
           "trans": "And this is for you."
+        },
+        {
+          "text": "А это тебе. Машинка!",
+          "trans": "And this is for you. A toy car!"
+        }
+      ],
+      "related": [
+        {
+          "word": "этот",
+          "gloss": "this (before a noun)"
         }
       ]
     },
@@ -2342,10 +2736,54 @@
       "meanings": [
         {
           "en": "who",
-          "note": ""
+          "note": "in the instrumental: 'кем ты работаешь?'"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "кто"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "кого"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "кому"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "кого"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "кем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ком"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2355,8 +2793,13 @@
         {
           "text": "Кто там?",
           "trans": "Who's there?"
+        },
+        {
+          "text": "Аркадий Борисович, кто ваши конкуренты?",
+          "trans": "Arkady Borisovich, who are your rivals?"
         }
-      ]
+      ],
+      "related": []
     },
     "тогда": {
       "lemma": "тогда",
@@ -2383,6 +2826,16 @@
         {
           "text": "Тогда приходи завтра.",
           "trans": "Then come tomorrow."
+        },
+        {
+          "text": "Я тебе тогда сказал: ты меня ещё поцелуешь.",
+          "trans": "I told you back then: you'll kiss me one day."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень тогда",
+          "gloss": "intensified / related adverb (then)"
         }
       ]
     },
@@ -2461,6 +2914,16 @@
         {
           "text": "Этого не может быть.",
           "trans": "That can't be."
+        },
+        {
+          "text": "Этого не может быть. Это наша история.",
+          "trans": "That can't be. It's our history."
+        }
+      ],
+      "related": [
+        {
+          "word": "может",
+          "gloss": "maybe"
         }
       ]
     },
@@ -2560,6 +3023,24 @@
         {
           "text": "Нина не верит.",
           "trans": "Nina doesn't believe it."
+        },
+        {
+          "text": "Вот скажи, Нина не верит.",
+          "trans": "Go on, tell her. Nina doesn't believe it."
+        }
+      ],
+      "related": [
+        {
+          "word": "поверить",
+          "gloss": "to believe"
+        },
+        {
+          "word": "доверие",
+          "gloss": "trust"
+        },
+        {
+          "word": "проверить",
+          "gloss": "to check"
         }
       ]
     },
@@ -2671,6 +3152,10 @@
         {
           "text": "Будь честным.",
           "trans": "Be honest."
+        },
+        {
+          "text": "Я ухожу. Ваш сын будет бедным и честным.",
+          "trans": "I'm leaving. Your son will be poor and honest."
         }
       ],
       "related": [
@@ -2689,7 +3174,7 @@
       "meanings": [
         {
           "en": "word",
-          "note": ""
+          "note": "'дать слово' = to give one's word, 'держать слово' = to keep one's word"
         },
         {
           "en": "promise",
@@ -2757,6 +3242,16 @@
         {
           "text": "Он держит слово.",
           "trans": "He keeps his word."
+        },
+        {
+          "text": "А что я за мэр такой, который держит своё слово?",
+          "trans": "And what kind of mayor would I be if I kept my word?"
+        }
+      ],
+      "related": [
+        {
+          "word": "словный",
+          "gloss": "related to word (adj.)"
         }
       ]
     },
@@ -2837,6 +3332,24 @@
         {
           "text": "Конец связи.",
           "trans": "Over and out."
+        },
+        {
+          "text": "В конце фильма все счастливы.",
+          "trans": "At the end of the film everyone is happy."
+        }
+      ],
+      "related": [
+        {
+          "word": "конечно",
+          "gloss": "of course"
+        },
+        {
+          "word": "наконец",
+          "gloss": "at last"
+        },
+        {
+          "word": "наконец-то",
+          "gloss": "at last"
         }
       ]
     }

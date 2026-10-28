@@ -230,7 +230,7 @@
           "pos": "adj",
           "stress": "эка́я",
           "gloss": "what a",
-          "gram": "adj"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "досада.",
@@ -386,11 +386,11 @@
         },
         {
           "t": "дубликаты",
-          "lemma": "дубликаты",
+          "lemma": "дубликат",
           "pos": "noun",
           "stress": "дублика́ты",
           "gloss": "duplicate",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "храню.",
@@ -692,7 +692,7 @@
           "pos": "adj",
           "stress": "эка́я",
           "gloss": "what a",
-          "gram": "adj"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "досада.",
@@ -848,11 +848,11 @@
         },
         {
           "t": "дубликаты",
-          "lemma": "дубликаты",
+          "lemma": "дубликат",
           "pos": "noun",
           "stress": "дублика́ты",
           "gloss": "duplicate",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "храню.",
@@ -1154,7 +1154,7 @@
           "pos": "adj",
           "stress": "эка́я",
           "gloss": "what a",
-          "gram": "adj"
+          "gram": "nominative feminine singular"
         },
         {
           "t": "досада.",
@@ -1310,11 +1310,11 @@
         },
         {
           "t": "дубликаты",
-          "lemma": "дубликаты",
+          "lemma": "дубликат",
           "pos": "noun",
           "stress": "дублика́ты",
           "gloss": "duplicate",
-          "gram": "noun"
+          "gram": "nominative / accusative"
         },
         {
           "t": "храню.",
@@ -1431,8 +1431,13 @@
         {
           "text": "Я знаю город как никто.",
           "trans": "I know the town like nobody else."
+        },
+        {
+          "text": "Садитесь и держите дверь. Никто не войдёт.",
+          "trans": "Sit down and hold the door. Nobody will come in."
         }
-      ]
+      ],
+      "related": []
     },
     "не": {
       "lemma": "не",
@@ -1455,8 +1460,13 @@
         {
           "text": "Денег не хватило.",
           "trans": "There wasn't enough money."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
         }
-      ]
+      ],
+      "related": []
     },
     "видеть": {
       "lemma": "видеть",
@@ -1468,7 +1478,7 @@
       "meanings": [
         {
           "en": "to see",
-          "note": ""
+          "note": "drawing attention"
         },
         {
           "en": "видишь? = see?",
@@ -1537,6 +1547,24 @@
         {
           "text": "Я вижу машинку.",
           "trans": "I can see the toy car."
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
+        }
+      ],
+      "related": [
+        {
+          "word": "увидеть",
+          "gloss": "to see"
+        },
+        {
+          "word": "свидетель",
+          "gloss": "witness"
+        },
+        {
+          "word": "видеться",
+          "gloss": "to see each other"
         }
       ]
     },
@@ -1548,7 +1576,7 @@
       "meanings": [
         {
           "en": "spare",
-          "examples": []
+          "note": "Prefix 'за-' marks beginning an action, covering, or stopping by along the way (stem 'пасной'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('spare')."
         }
       ],
       "forms": {
@@ -1583,11 +1611,31 @@
             ]
           }
         ]
-      }
+      },
+      "related": [
+        {
+          "word": "запасно",
+          "gloss": "in a spare way (adv.)"
+        },
+        {
+          "word": "запасность",
+          "gloss": "quality of being spare"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Никто не видел запасного ключа?",
+          "trans": "Has anyone seen the spare key?"
+        },
+        {
+          "text": "У меня есть запасной ключ.",
+          "trans": "I have a spare key."
+        }
+      ]
     },
     "ключ": {
       "lemma": "ключ",
-      "stress": null,
+      "stress": "ключ",
       "pos": "noun",
       "gender": "m",
       "gloss": "key",
@@ -1658,6 +1706,24 @@
         {
           "text": "Где ключ?",
           "trans": "Where's the key?"
+        },
+        {
+          "text": "На белом? Давай сюда ключи.",
+          "trans": "The white one? Give me the keys."
+        }
+      ],
+      "related": [
+        {
+          "word": "отключить",
+          "gloss": "to switch off"
+        },
+        {
+          "word": "переключиться",
+          "gloss": "to switch over"
+        },
+        {
+          "word": "выключить",
+          "gloss": "to turn off"
         }
       ]
     },
@@ -1686,8 +1752,13 @@
         {
           "text": "А где машинка?",
           "trans": "And where's the toy car?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
         }
-      ]
+      ],
+      "related": []
     },
     "мы": {
       "lemma": "мы",
@@ -1697,14 +1768,58 @@
       "meanings": [
         {
           "en": "we",
-          "note": ""
+          "note": "нас = us (gen/acc/prep); у нас = we have, at our place"
         },
         {
           "en": "other forms: нас (gen/acc), нам (dat), нами (instr), нас (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "мы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "нас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1714,6 +1829,16 @@
         {
           "text": "У нас грязный унитаз.",
           "trans": "Our toilet is dirty."
+        },
+        {
+          "text": "Смотрите, какой у нас грязный унитаз!",
+          "trans": "Look, how dirty our toilet is!"
+        }
+      ],
+      "related": [
+        {
+          "word": "нас",
+          "gloss": "us (genitive/accusative/prepositional)"
         }
       ]
     },
@@ -1792,6 +1917,24 @@
         {
           "text": "Я не знаю.",
           "trans": "I don't know."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "узнать",
+          "gloss": "to recognise"
+        },
+        {
+          "word": "признаться",
+          "gloss": "to confess"
+        },
+        {
+          "word": "признательный",
+          "gloss": "grateful"
         }
       ]
     },
@@ -1803,7 +1946,7 @@
       "meanings": [
         {
           "en": "and",
-          "note": ""
+          "note": "emphasis: вот поэтому ты и... = that's exactly why you..."
         }
       ],
       "forms": null,
@@ -1816,8 +1959,13 @@
         {
           "text": "Папа и мама.",
           "trans": "Dad and Mum."
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
         }
-      ]
+      ],
+      "related": []
     },
     "но": {
       "lemma": "но",
@@ -1827,7 +1975,7 @@
       "meanings": [
         {
           "en": "but",
-          "note": ""
+          "note": "stronger contrast than 'а'"
         }
       ],
       "forms": null,
@@ -1840,8 +1988,13 @@
         {
           "text": "Я хочу, но не могу.",
           "trans": "I want to, but I can't."
+        },
+        {
+          "text": "Мы сделали много, но надо сделать ещё больше.",
+          "trans": "We've done a lot, but we need to do even more."
         }
-      ]
+      ],
+      "related": []
     },
     "вообще": {
       "lemma": "вообще",
@@ -1868,6 +2021,16 @@
         {
           "text": "Я вообще не знаю.",
           "trans": "I have no idea at all."
+        },
+        {
+          "text": "Я человек чистый. Я вообще не вор.",
+          "trans": "I'm an honest man. I'm not a thief at all."
+        }
+      ],
+      "related": [
+        {
+          "word": "вообще-то",
+          "gloss": "actually"
         }
       ]
     },
@@ -1882,7 +2045,51 @@
           "note": "usually in the genitive ничего, with не: ничего не осталось"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ничто"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ничего"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ничему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ничто"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ничем"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ни о чём"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1892,12 +2099,22 @@
         {
           "text": "Я ничего не знаю.",
           "trans": "I don't know anything."
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
+        }
+      ],
+      "related": [
+        {
+          "word": "уничтожить",
+          "gloss": "to destroy"
         }
       ]
     },
     "смочь": {
       "lemma": "смочь",
-      "stress": null,
+      "stress": "смочь",
       "pos": "verb",
       "aspect": "pf",
       "pair": "мочь",
@@ -1970,6 +2187,20 @@
         {
           "text": "Ты сможешь прийти завтра утром?",
           "trans": "Will you be able to come tomorrow morning?"
+        },
+        {
+          "text": "Я думаю, что у меня есть мужчина. Он сможет меня защитить.",
+          "trans": "I think that I have a man. He will be able to protect me."
+        }
+      ],
+      "related": [
+        {
+          "word": "мочь",
+          "gloss": "can"
+        },
+        {
+          "word": "помочь",
+          "gloss": "to help"
         }
       ]
     },
@@ -1988,7 +2219,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "вы"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "вам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "вас"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "вами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "вас"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -1998,6 +2273,16 @@
         {
           "text": "Губернатор вас поддерживает?",
           "trans": "Does the governor support you?"
+        },
+        {
+          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
+          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
+        }
+      ],
+      "related": [
+        {
+          "word": "вас",
+          "gloss": "you (genitive/accusative)"
         }
       ]
     },
@@ -2093,6 +2378,24 @@
         {
           "text": "Конечно, помогу.",
           "trans": "Of course I'll help."
+        },
+        {
+          "text": "Экскаваторщик — это не мой уровень. Может, поможешь?",
+          "trans": "Excavator driver isn't my level. Maybe you could help?"
+        }
+      ],
+      "related": [
+        {
+          "word": "помогать",
+          "gloss": "to help"
+        },
+        {
+          "word": "мочь",
+          "gloss": "can"
+        },
+        {
+          "word": "смочь",
+          "gloss": "to be able"
         }
       ]
     },
@@ -2182,8 +2485,13 @@
         {
           "text": "Это моё.",
           "trans": "That's mine."
+        },
+        {
+          "text": "Нет. Это моё.",
+          "trans": "No. That's mine."
         }
-      ]
+      ],
+      "related": []
     },
     "сотрудник": {
       "lemma": "сотрудник",
@@ -2258,6 +2566,16 @@
         {
           "text": "Он опытный сотрудник компании.",
           "trans": "He is an experienced company employee."
+        },
+        {
+          "text": "Почему вы обижаете наших сотрудников?",
+          "trans": "Why are you mistreating our staff?"
+        }
+      ],
+      "related": [
+        {
+          "word": "сотрудничество",
+          "gloss": "cooperation"
         }
       ]
     },
@@ -2271,7 +2589,7 @@
       "meanings": [
         {
           "en": "to lose",
-          "note": ""
+          "note": "Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'терять'). Used as an perfective (single completed action) verb meaning 'to lose', paired with 'терять'."
         }
       ],
       "forms": {
@@ -2336,6 +2654,24 @@
         {
           "text": "Вы совсем страх потеряли?",
           "trans": "Have you lost all fear?"
+        },
+        {
+          "text": "Что смотрите, бандерлоги? Вы совсем страх потеряли?",
+          "trans": "What are you staring at, you monkeys? Have you lost all fear?"
+        }
+      ],
+      "related": [
+        {
+          "word": "терять",
+          "gloss": "to lose"
+        },
+        {
+          "word": "потеря",
+          "gloss": "loss"
+        },
+        {
+          "word": "растеряться",
+          "gloss": "to become confused"
         }
       ]
     },
@@ -2347,7 +2683,7 @@
       "meanings": [
         {
           "en": "what a",
-          "examples": []
+          "note": "Agrees in gender, number, and case with the noun it modifies ('what a')."
         }
       ],
       "forms": {
@@ -2382,7 +2718,23 @@
             ]
           }
         ]
-      }
+      },
+      "related": [
+        {
+          "word": "неэкая",
+          "gloss": "not what a"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Экая досада.",
+          "trans": "What a shame."
+        },
+        {
+          "text": "Это слово «экая» часто звучит в разговоре.",
+          "trans": "This word 'what a' is often heard in conversation."
+        }
+      ]
     },
     "досада": {
       "lemma": "досада",
@@ -2392,7 +2744,7 @@
       "meanings": [
         {
           "en": "annoyance / shame",
-          "examples": []
+          "note": "Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'сада'). Common feminine noun meaning 'annoyance / shame' in everyday Russian."
         }
       ],
       "forms": {
@@ -2405,52 +2757,70 @@
         "rows": [
           {
             "cells": [
-              "nom",
+              "nominative",
               "досада",
-              "досадаы"
+              "досады"
             ]
           },
           {
             "cells": [
-              "gen",
-              "досадаа",
-              "досадаов"
+              "genitive",
+              "досады",
+              "досад"
             ]
           },
           {
             "cells": [
-              "dat",
-              "досадау",
-              "досадаам"
+              "dative",
+              "досаде",
+              "досадам"
             ]
           },
           {
             "cells": [
-              "acc",
-              "досада",
-              "досадаы"
+              "accusative",
+              "досаду",
+              "досады"
             ]
           },
           {
             "cells": [
-              "inst",
-              "досадаом",
-              "досадаами"
+              "instrumental",
+              "досадой",
+              "досадами"
             ]
           },
           {
             "cells": [
-              "prep",
-              "досадае",
-              "досадаах"
+              "prepositional",
+              "досаде",
+              "досадах"
             ]
           }
         ]
-      }
+      },
+      "gender": "f",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "досадный",
+          "gloss": "related to annoyance (adj.)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Экая досада.",
+          "trans": "What a shame."
+        },
+        {
+          "text": "Это слово «досада» часто звучит в разговоре.",
+          "trans": "This word 'annoyance' is often heard in conversation."
+        }
+      ]
     },
     "ой": {
       "lemma": "ой",
-      "stress": null,
+      "stress": "ой",
       "pos": "interj",
       "gloss": "oh",
       "meanings": [
@@ -2469,8 +2839,13 @@
         {
           "text": "Ой, извините.",
           "trans": "Oh, sorry."
+        },
+        {
+          "text": "Ой, смотри! Новости.",
+          "trans": "Oh, look! The news."
         }
-      ]
+      ],
+      "related": []
     },
     "как": {
       "lemma": "как",
@@ -2497,6 +2872,16 @@
         {
           "text": "Как вы все знаете...",
           "trans": "As you all know..."
+        },
+        {
+          "text": "Здравствуйте! Как там в Венгрии?",
+          "trans": "Hello! How was it in Hungary?"
+        }
+      ],
+      "related": [
+        {
+          "word": "очень как",
+          "gloss": "intensified / related adverb (how)"
         }
       ]
     },
@@ -2521,8 +2906,13 @@
         {
           "text": "Я же знаю.",
           "trans": "But I know."
+        },
+        {
+          "text": "У тебя же есть ещё. Дай хоть одну.",
+          "trans": "But you've still got some. Give me just one."
         }
-      ]
+      ],
+      "related": []
     },
     "быть": {
       "lemma": "быть",
@@ -2660,6 +3050,20 @@
           "text": "Ты будешь просить прощения.",
           "trans": "You will be asking for forgiveness."
         }
+      ],
+      "related": [
+        {
+          "word": "забыть",
+          "gloss": "to forget"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
+        },
+        {
+          "word": "побыть",
+          "gloss": "to stay for a while"
+        }
       ]
     },
     "у": {
@@ -2691,9 +3095,14 @@
         {
           "text": "Он у нас.",
           "trans": "He's at our place."
+        },
+        {
+          "text": "Привет! Смотри, что у меня есть.",
+          "trans": "Hi! Look what I've got."
         }
       ],
-      "governs": "+ genitive"
+      "governs": "+ genitive",
+      "related": []
     },
     "я": {
       "lemma": "я",
@@ -2703,14 +3112,58 @@
       "meanings": [
         {
           "en": "I",
-          "note": ""
+          "note": "меня = me (genitive/accusative), мне = to me (dative)"
         },
         {
           "en": "other forms: меня (gen/acc), мне (dat), мной (instr), мне (prep)",
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "я"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "мне"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "меня"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "мной"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "мне"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2720,6 +3173,20 @@
         {
           "text": "Я вырос здесь.",
           "trans": "I grew up here."
+        },
+        {
+          "text": "Шеф, я не брала.",
+          "trans": "Chef, I didn't take it."
+        }
+      ],
+      "related": [
+        {
+          "word": "меня",
+          "gloss": "me (genitive/accusative)"
+        },
+        {
+          "word": "мне",
+          "gloss": "to me (dative)"
         }
       ]
     },
@@ -2731,7 +3198,7 @@
       "meanings": [
         {
           "en": "always",
-          "note": ""
+          "note": "Prefix 'вс-' ('up') marks upward or sudden onset of action (stem 'егда')."
         }
       ],
       "forms": null,
@@ -2744,18 +3211,32 @@
         {
           "text": "Выход всегда есть.",
           "trans": "There's always a way out."
+        },
+        {
+          "text": "Обиделась. У неё всегда так.",
+          "trans": "She's offended. She's always like that."
+        }
+      ],
+      "related": [
+        {
+          "word": "всего",
+          "gloss": "only"
+        },
+        {
+          "word": "навсегда",
+          "gloss": "forever"
         }
       ]
     },
-    "дубликаты": {
-      "lemma": "дубликаты",
-      "stress": "дублика́ты",
+    "дубликат": {
+      "lemma": "дубликат",
+      "stress": "дублика́т",
       "pos": "noun",
       "gloss": "duplicate",
       "meanings": [
         {
           "en": "duplicate",
-          "examples": []
+          "note": "Common masculine noun meaning 'duplicate' in everyday Russian."
         }
       ],
       "forms": {
@@ -2768,48 +3249,66 @@
         "rows": [
           {
             "cells": [
-              "nom",
-              "дубликаты",
-              "дубликатыы"
+              "nominative",
+              "дубликат",
+              "дубликаты"
             ]
           },
           {
             "cells": [
-              "gen",
-              "дубликатыа",
-              "дубликатыов"
+              "genitive",
+              "дубликата",
+              "дубликатов"
             ]
           },
           {
             "cells": [
-              "dat",
-              "дубликатыу",
-              "дубликатыам"
+              "dative",
+              "дубликату",
+              "дубликатам"
             ]
           },
           {
             "cells": [
-              "acc",
-              "дубликаты",
-              "дубликатыы"
+              "accusative",
+              "дубликат",
+              "дубликаты"
             ]
           },
           {
             "cells": [
-              "inst",
-              "дубликатыом",
-              "дубликатыами"
+              "instrumental",
+              "дубликатом",
+              "дубликатами"
             ]
           },
           {
             "cells": [
-              "prep",
-              "дубликатые",
-              "дубликатыах"
+              "prepositional",
+              "дубликате",
+              "дубликатах"
             ]
           }
         ]
-      }
+      },
+      "gender": "m",
+      "moreForms": [],
+      "related": [
+        {
+          "word": "дублёнка",
+          "gloss": "sheepskin coat"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я всегда дубликаты храню.",
+          "trans": "I always keep a duplicate."
+        },
+        {
+          "text": "Это слово «дубликат» часто звучит в разговоре.",
+          "trans": "This word 'duplicate' is often heard in conversation."
+        }
+      ]
     },
     "хранить": {
       "lemma": "хранить",
@@ -2821,7 +3320,7 @@
       "meanings": [
         {
           "en": "to keep, to store",
-          "note": ""
+          "note": "Used as an imperfective (ongoing/repeated action) verb meaning 'to keep, to store', paired with 'сохранить'."
         },
         {
           "en": "to keep (a secret)",
@@ -2890,6 +3389,16 @@
         {
           "text": "Она хранит икру в холодильнике.",
           "trans": "She keeps the caviar in the fridge."
+        },
+        {
+          "text": "Она там взятки для врачей хранит.",
+          "trans": "She keeps bribes for the doctors in there."
+        }
+      ],
+      "related": [
+        {
+          "word": "сохранить",
+          "gloss": "to keep"
         }
       ]
     },
@@ -2918,8 +3427,13 @@
         {
           "text": "Вот моя машинка.",
           "trans": "Here's my toy car."
+        },
+        {
+          "text": "Ладно, держи. Вот, смотри.",
+          "trans": "All right, here you go. There, look."
         }
-      ]
+      ],
+      "related": []
     },
     "он": {
       "lemma": "он",
@@ -2929,7 +3443,7 @@
       "meanings": [
         {
           "en": "he",
-          "note": ""
+          "note": "accusative/genitive его (него after prepositions), dative ему (нему)"
         },
         {
           "en": "it",
@@ -2940,7 +3454,51 @@
           "note": "case forms"
         }
       ],
-      "forms": null,
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "он"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "его"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ему"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "его"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "им"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нём"
+            ]
+          }
+        ]
+      },
       "moreForms": [],
       "examples": [
         {
@@ -2950,8 +3508,13 @@
         {
           "text": "Надо его помыть.",
           "trans": "It needs a wash."
+        },
+        {
+          "text": "Очкарик! Держи его!",
+          "trans": "Four-eyes! Grab him!"
         }
-      ]
+      ],
+      "related": []
     },
     "найтись": {
       "lemma": "найтись",
@@ -3045,6 +3608,24 @@
         {
           "text": "Ключи нашлись!",
           "trans": "The keys turned up!"
+        },
+        {
+          "text": "Опоздал ты, Аркаша. Другие люди нашлись.",
+          "trans": "You're too late, Arkasha. Other people came along."
+        }
+      ],
+      "related": [
+        {
+          "word": "находиться",
+          "gloss": "to be located"
+        },
+        {
+          "word": "прийтись",
+          "gloss": "to have to"
+        },
+        {
+          "word": "пройтись",
+          "gloss": "to walk over"
         }
       ]
     },
@@ -3125,6 +3706,24 @@
         {
           "text": "Конец связи.",
           "trans": "Over and out."
+        },
+        {
+          "text": "В конце фильма все счастливы.",
+          "trans": "At the end of the film everyone is happy."
+        }
+      ],
+      "related": [
+        {
+          "word": "конечно",
+          "gloss": "of course"
+        },
+        {
+          "word": "наконец",
+          "gloss": "at last"
+        },
+        {
+          "word": "наконец-то",
+          "gloss": "at last"
         }
       ]
     }
