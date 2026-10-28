@@ -6,302 +6,223 @@
  "level": "A1 — Duolingo Section 2",
  "labels": {
   "barinov": "Шеф",
-  "hostess": "Хостес"
+  "hostess": "Хостес",
+  "nagiyev": "Нагиев"
  },
  "segments": [
   {
    "v": "narrator",
-   "t": "Barinov has gone to check out the competition: a restaurant next door, where a hostess greets him with a smile. He answers her with heavy sarcasm. Listen to his arrival in Russian first.",
+   "t": "Barinov and Nagiyev pay their return visit to Arcobaleno, the rival restaurant. A hostess greets them, and Nagiyev cannot resist making fun of the place. Listen to their arrival in Russian first.",
    "gap": 0.8
   },
   {
    "v": "hostess",
-   "t": "Добрый день, рада видеть вас здесь.",
+   "t": "Добрый день. Рада видеть вас в нашем ресторане.",
    "gap": 0.55
   },
   {
    "v": "hostess",
-   "t": "Добро пожаловать в наш новый ресторан.",
+   "t": "Вам зал для курящих или не курящих?",
+   "gap": 0.55
+  },
+  {
+   "v": "nagiyev",
+   "t": "А у вас разделение?",
+   "gap": 0.55
+  },
+  {
+   "v": "nagiyev",
+   "t": "Надо же. И два зала есть.",
+   "gap": 0.55
+  },
+  {
+   "v": "nagiyev",
+   "t": "И кондиционер.",
+   "gap": 0.55
+  },
+  {
+   "v": "nagiyev",
+   "t": "Просто дворец шейха.",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "Шутки такие дурацкие.",
+   "gap": 0.55
+  },
+  {
+   "v": "barinov",
+   "t": "Нам простой зал для курящих.",
    "gap": 0.55
   },
   {
    "v": "hostess",
-   "t": "Вам зал для курящих или нет?",
+   "t": "Прошу.",
    "gap": 0.55
   },
   {
    "v": "barinov",
-   "t": "А у вас тут есть разделение?",
-   "gap": 0.55
-  },
-  {
-   "v": "hostess",
-   "t": "Да, у нас есть два зала.",
-   "gap": 0.55
-  },
-  {
-   "v": "barinov",
-   "t": "Надо же, даже два зала есть!",
-   "gap": 0.55
-  },
-  {
-   "v": "barinov",
-   "t": "И кондиционер тут тоже работает хорошо.",
-   "gap": 0.55
-  },
-  {
-   "v": "barinov",
-   "t": "Это просто настоящий дворец восточного шейха.",
-   "gap": 0.55
-  },
-  {
-   "v": "hostess",
-   "t": "У вас сегодня очень смешные шутки.",
-   "gap": 0.55
-  },
-  {
-   "v": "barinov",
-   "t": "Нам нужен простой зал для курящих.",
-   "gap": 0.55
-  },
-  {
-   "v": "hostess",
-   "t": "Хорошо, прошу вас пройти за мной.",
-   "gap": 0.55
-  },
-  {
-   "v": "barinov",
-   "t": "Большое спасибо, мы идём за вами.",
-   "gap": 0.55
-  },
-  {
-   "v": "hostess",
-   "t": "Вот ваш удобный столик у окна.",
-   "gap": 0.55
-  },
-  {
-   "v": "barinov",
-   "t": "Отлично, принесите нам меню, пожалуйста.",
+   "t": "Спасибо.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "Let's walk in with Barinov again, line by line.",
+   "t": "Let's walk in with them again, line by line.",
    "gap": 0.4
   },
   {
    "v": "hostess",
-   "t": "Добрый день, рада видеть вас здесь.",
+   "t": "Добрый день. Рада видеть вас в нашем ресторане.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Good afternoon, I'm glad to see you here.' \"Dobryy den\" is the polite daytime hello. \"Rada\" ends in \"-a\" because the hostess is a woman.",
+   "t": "'Good afternoon. Glad to see you at our restaurant.' \"Dobryy den\" is the polite daytime hello. \"Rada\" ends in \"-a\" because the hostess is a woman.",
    "gap": 0.4
   },
   {
    "v": "hostess",
-   "t": "Добро пожаловать в наш новый ресторан.",
+   "t": "Вам зал для курящих или не курящих?",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Welcome to our new restaurant.' \"Dobro pozhalovat\" is a fixed phrase, literally \"kindly come\".",
+   "t": "'Would you like the smoking or the non-smoking room?' \"Dlya kuryashchikh\" means \"for those who smoke\", from \"kurit\", to smoke. \"Vam\", for you, is polite.",
+   "gap": 0.4
+  },
+  {
+   "v": "nagiyev",
+   "t": "А у вас разделение?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Oh, you have separate sections?' \"Razdelenie\", division, comes from \"delit\", to divide. \"U vas\" means \"you have\", literally \"at you\".",
+   "gap": 0.4
+  },
+  {
+   "v": "nagiyev",
+   "t": "Надо же. И два зала есть.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Well, well. Two rooms, even.' \"Nado zhe\" is a set phrase of surprise, here fake surprise. After \"dva\", two, \"zal\" picks up an \"-a\": \"dva zala\".",
+   "gap": 0.4
+  },
+  {
+   "v": "nagiyev",
+   "t": "И кондиционер.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'And air conditioning.' \"Konditsioner\" is borrowed, with its stress near the end. A single noun after \"i\" is enough for a mocking list.",
+   "gap": 0.4
+  },
+  {
+   "v": "nagiyev",
+   "t": "Просто дворец шейха.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'It's a sheikh's palace, really.' \"Prosto\" is \"simply\", used here like \"just\" or \"practically\". \"Sheykha\" is \"of a sheikh\", the genitive.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Шутки такие дурацкие.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Such stupid jokes.' \"Duratskie\", silly, comes from \"durak\", a fool. \"Takie\" is \"such\", matching the plural \"shutki\", jokes.",
+   "gap": 0.4
+  },
+  {
+   "v": "barinov",
+   "t": "Нам простой зал для курящих.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'A regular smoking room for us.' \"Nam\", to us, is enough to ask for something: no verb needed. \"Prostoy\" means simple or ordinary.",
    "gap": 0.4
   },
   {
    "v": "hostess",
-   "t": "Вам зал для курящих или нет?",
+   "t": "Прошу.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Would you like the smoking room or not?' \"Dlya kuryashchikh\" means \"for those who smoke\", from \"kurit\", to smoke. \"Vam\", for you, is polite.",
+   "t": "'This way, please.' \"Proshu\" is literally \"I ask\", the usual polite word when you show someone where to go.",
    "gap": 0.4
   },
   {
    "v": "barinov",
-   "t": "А у вас тут есть разделение?",
+   "t": "Спасибо.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'So you have separate sections here?' \"Razdelenie\", division, comes from \"delit\", to divide. \"U vas\" means \"you have\", literally \"at you\".",
-   "gap": 0.4
-  },
-  {
-   "v": "hostess",
-   "t": "Да, у нас есть два зала.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Yes, we have two dining rooms.' After \"dva\", two, \"zal\" picks up an \"-a\": \"dva zala\".",
-   "gap": 0.4
-  },
-  {
-   "v": "barinov",
-   "t": "Надо же, даже два зала есть!",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Well, would you look at that, even two rooms!' \"Nado zhe\" is a set phrase of surprise, here fake surprise. \"Dazhe\" means \"even\".",
-   "gap": 0.4
-  },
-  {
-   "v": "barinov",
-   "t": "И кондиционер тут тоже работает хорошо.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'And the air conditioning works well here too.' \"Konditsioner\" is borrowed, with its stress near the end. \"Tozhe\" means \"too\".",
-   "gap": 0.4
-  },
-  {
-   "v": "barinov",
-   "t": "Это просто настоящий дворец восточного шейха.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'It's a real palace for an eastern sheikh.' \"Vostochnyy\", eastern, comes from \"vostok\", east. \"Dvorets\" means palace.",
-   "gap": 0.4
-  },
-  {
-   "v": "hostess",
-   "t": "У вас сегодня очень смешные шутки.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'You have very funny jokes today.' \"Smeshnye\", funny, comes from \"smekh\", laughter. She can be as dry as he is.",
-   "gap": 0.4
-  },
-  {
-   "v": "barinov",
-   "t": "Нам нужен простой зал для курящих.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'We need a regular room for smokers.' \"Prostoy\" means simple or ordinary, and the jokes stop for a moment.",
-   "gap": 0.4
-  },
-  {
-   "v": "hostess",
-   "t": "Хорошо, прошу вас пройти за мной.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Very well, please follow me.' \"Proshu\" is literally \"I ask\", a polite \"please\". \"Za mnoy\" means \"behind me\".",
-   "gap": 0.4
-  },
-  {
-   "v": "barinov",
-   "t": "Большое спасибо, мы идём за вами.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Thank you very much, we're right behind you.' \"Idyom za vami\" is \"we go behind you\", the same \"za\" as hers.",
-   "gap": 0.4
-  },
-  {
-   "v": "hostess",
-   "t": "Вот ваш удобный столик у окна.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Here's your comfortable table by the window.' \"U okna\" means \"at the window\": \"okno\" becomes \"okna\" after \"u\".",
-   "gap": 0.4
-  },
-  {
-   "v": "barinov",
-   "t": "Отлично, принесите нам меню, пожалуйста.",
-   "gap": 0.55
-  },
-  {
-   "v": "narrator",
-   "t": "'Great, bring us the menu, please.' \"Prinesite\" is \"bring\" said with \"vy\". \"Nam\" means \"to us\". Now Barinov's arrival once more, start to finish.",
+   "t": "'Thank you.' \"Spasibo\" works for a host, a waiter or a friend alike. Now the arrival once more, start to finish.",
    "gap": 0.9
   },
   {
    "v": "hostess",
-   "t": "Добрый день, рада видеть вас здесь.",
+   "t": "Добрый день. Рада видеть вас в нашем ресторане.",
    "gap": 0.5
   },
   {
    "v": "hostess",
-   "t": "Добро пожаловать в наш новый ресторан.",
+   "t": "Вам зал для курящих или не курящих?",
+   "gap": 0.5
+  },
+  {
+   "v": "nagiyev",
+   "t": "А у вас разделение?",
+   "gap": 0.5
+  },
+  {
+   "v": "nagiyev",
+   "t": "Надо же. И два зала есть.",
+   "gap": 0.5
+  },
+  {
+   "v": "nagiyev",
+   "t": "И кондиционер.",
+   "gap": 0.5
+  },
+  {
+   "v": "nagiyev",
+   "t": "Просто дворец шейха.",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "Шутки такие дурацкие.",
+   "gap": 0.5
+  },
+  {
+   "v": "barinov",
+   "t": "Нам простой зал для курящих.",
    "gap": 0.5
   },
   {
    "v": "hostess",
-   "t": "Вам зал для курящих или нет?",
+   "t": "Прошу.",
    "gap": 0.5
   },
   {
    "v": "barinov",
-   "t": "А у вас тут есть разделение?",
-   "gap": 0.5
-  },
-  {
-   "v": "hostess",
-   "t": "Да, у нас есть два зала.",
-   "gap": 0.5
-  },
-  {
-   "v": "barinov",
-   "t": "Надо же, даже два зала есть!",
-   "gap": 0.5
-  },
-  {
-   "v": "barinov",
-   "t": "И кондиционер тут тоже работает хорошо.",
-   "gap": 0.5
-  },
-  {
-   "v": "barinov",
-   "t": "Это просто настоящий дворец восточного шейха.",
-   "gap": 0.5
-  },
-  {
-   "v": "hostess",
-   "t": "У вас сегодня очень смешные шутки.",
-   "gap": 0.5
-  },
-  {
-   "v": "barinov",
-   "t": "Нам нужен простой зал для курящих.",
-   "gap": 0.5
-  },
-  {
-   "v": "hostess",
-   "t": "Хорошо, прошу вас пройти за мной.",
-   "gap": 0.5
-  },
-  {
-   "v": "barinov",
-   "t": "Большое спасибо, мы идём за вами.",
-   "gap": 0.5
-  },
-  {
-   "v": "hostess",
-   "t": "Вот ваш удобный столик у окна.",
-   "gap": 0.5
-  },
-  {
-   "v": "barinov",
-   "t": "Отлично, принесите нам меню, пожалуйста.",
+   "t": "Спасибо.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "Barinov gets his table by the window, and the sarcasm keeps coming. Keep \"nado zhe\" for any moment of surprise, real or fake. See you next time!",
+   "t": "Nagiyev mocks the decor, Barinov cuts him short, and the hostess leads them to the smoking room. Keep \"nado zhe\" for any moment of surprise, real or fake. See you next time!",
    "gap": 0.5
   },
   {
@@ -317,72 +238,52 @@
    {
     "line": 0,
     "cue": 221,
-    "fragment": "Добрый день. Рада видеть вас"
+    "fragment": "Добрый день. Рада видеть вас в нашем ресторане."
    },
    {
     "line": 1,
-    "cue": 221,
-    "fragment": "в нашем ресторане"
+    "cue": 222,
+    "fragment": "Вам зал для курящих или не курящих?"
    },
    {
     "line": 2,
-    "cue": 222,
-    "fragment": "Вам зал для курящих"
+    "cue": 223,
+    "fragment": "А у вас разделение?"
    },
    {
     "line": 3,
-    "cue": 223,
-    "fragment": "А у вас разделение"
+    "cue": 224,
+    "fragment": "Надо же. И два зала есть."
    },
    {
     "line": 4,
-    "cue": 224,
-    "fragment": "два зала есть"
+    "cue": 225,
+    "fragment": "И кондиционер."
    },
    {
     "line": 5,
-    "cue": 224,
-    "fragment": "Надо же. И два зала есть"
+    "cue": 226,
+    "fragment": "Просто дворец шейха Мансура."
    },
    {
     "line": 6,
-    "cue": 225,
-    "fragment": "И кондиционер"
+    "cue": 227,
+    "fragment": "Шутки такие дурацкие."
    },
    {
     "line": 7,
-    "cue": 226,
-    "fragment": "Просто дворец шейха"
+    "cue": 228,
+    "fragment": "Нам простой зал для"
    },
    {
     "line": 8,
-    "cue": 227,
-    "fragment": "Шутки такие"
+    "cue": 229,
+    "fragment": "Прошу."
    },
    {
     "line": 9,
-    "cue": 228,
-    "fragment": "Нам простой зал"
-   },
-   {
-    "line": 10,
     "cue": 229,
-    "fragment": "Прошу"
-   },
-   {
-    "line": 11,
-    "cue": 229,
-    "fragment": "Спасибо"
-   },
-   {
-    "line": 12,
-    "cue": 230,
-    "fragment": "Прошу"
-   },
-   {
-    "line": 13,
-    "cue": 229,
-    "fragment": "Спасибо"
+    "fragment": "Спасибо."
    }
   ]
  },

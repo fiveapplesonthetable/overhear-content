@@ -8,25 +8,27 @@
     {
       "scene": 1,
       "start": "00:00:41,970",
-      "end": "00:02:08,560",
+      "end": "00:01:25,430",
       "title": "Market Lessons",
-      "summary": "Viktor takes Max along to the fish market to teach him how to identify fresh produce from vendors subtle expressions.",
+      "summary": "At the market, Barinov shows Senya how to read a fish seller's face to tell how many days old the fish really is, and the seller is not amused.",
       "characters": [
-        "Max",
-        "Chef"
+        "Chef",
+        "Senya",
+        "Seller"
       ],
       "location": "Claude Monet",
       "merge": null
     },
     {
       "scene": 2,
-      "start": "00:02:23,750",
+      "start": "00:01:25,610",
       "end": "00:02:25,480",
-      "title": "Return to the Kitchen",
-      "summary": "Walking back from the market, Max and Viktor discuss their culinary standards and dismiss rumors about their rival restaurant.",
+      "title": "See You at Arcobaleno",
+      "summary": "Elena, the chef of the rival restaurant Arcobaleno, runs into Barinov at the market and promises a return visit. Afterwards Barinov suspects Senya of having eaten at Arcobaleno, and Senya denies it.",
       "characters": [
+        "Elena",
         "Chef",
-        "Max"
+        "Senya"
       ],
       "location": "Claude Monet",
       "merge": null
@@ -76,7 +78,7 @@
       "start": "00:05:03,850",
       "end": "00:05:33,870",
       "title": "Double date",
-      "summary": "Max brings Vika to a double date with Nastya and Kostya. Vika and Nastya argue and Vika leaves.",
+      "summary": "In the bar, Max introduces Vika to Nastya and Kostya as his girlfriend; they know her only as Victoria Sergeyevna, their boss, and the evening starts awkwardly.",
       "characters": [
         "Max",
         "Nastya",
@@ -91,7 +93,7 @@
       "start": "00:05:56,300",
       "end": "00:06:18,030",
       "title": "An Unsuccessful Introduction",
-      "summary": "Max introduces his new girlfriend Victoria to his best friends, but the meeting starts off very awkwardly.",
+      "summary": "Kostya admires the bar while Max brings drinks and tries to get a toast going, but nobody quite relaxes.",
       "characters": [
         "Nastya",
         "Max",
@@ -105,7 +107,7 @@
       "start": "00:06:25,710",
       "end": "00:07:46,480",
       "title": "Strange Friends",
-      "summary": "Victoria complains about Max's strange friends, and they eventually leave feeling deeply offended.",
+      "summary": "Max's mojito story falls flat and Vika is plainly annoyed. Nastya needles her about the kissing ban at work, refuses to be ordered about outside work, and drags Kostya home.",
       "characters": [
         "Vika",
         "Max",
@@ -117,9 +119,9 @@
     {
       "scene": 9,
       "start": "00:08:09,710",
-      "end": "00:08:57,020",
+      "end": "00:09:06,050",
       "title": "The Seasonal Dish",
-      "summary": "Chef Barinov tastes the kitchen team's submissions for the new seasonal menu and selects Senya's veal rolls with ham, leaving Fedya frustrated that his dish was not even tasted.",
+      "summary": "Barinov tastes the seasonal-dish entries and picks Senya's veal rolls with ham, calling him a cripple before remembering his promise. Fedya is left presenting his Breton lamb chops to an empty room.",
       "characters": [
         "Senya",
         "Chef",
@@ -133,20 +135,20 @@
       "start": "00:09:06,050",
       "end": "00:09:07,950",
       "title": "Chops with Asparagus",
-      "summary": "In the kitchen, a disappointed Fedya shows off his Breton lamb chops with asparagus after Chef Barinov walks away, while Senya proudly celebrates winning the seasonal menu contest.",
+      "summary": "Fedya announces his Breton lamb chops with asparagus to nobody; this line is taught at the end of the previous scene.",
       "characters": [
         "Fedya",
         "Senya"
       ],
       "location": "Claude Monet Kitchen",
-      "merge": null
+      "merge": "prev"
     },
     {
       "scene": 11,
       "start": "00:09:16,990",
       "end": "00:09:44,760",
       "title": "Max's Birthday",
-      "summary": "Looking for a way to reconcile his feuding friends and his girlfriend Sasha, Max suddenly remembers that tomorrow is his birthday, though he worries nobody will believe a last-minute invitation.",
+      "summary": "Looking for a way to reconcile his feuding friends and his girlfriend Vika, Max suddenly remembers that tomorrow is his birthday, though he worries nobody will believe a last-minute invitation.",
       "characters": [
         "Max",
         "Kostya"
@@ -159,9 +161,10 @@
       "start": "00:09:57,050",
       "end": "00:13:40,030",
       "title": "A Trick and a Slicer",
-      "summary": "Senya impresses Nagiyev with his tasty veal rolls and cleverly convinces him to buy a new slicer.",
+      "summary": "Nagiyev plans a return visit to Arcobaleno with a reluctant Barinov. Senya serves Nagiyev his veal rolls as the chef's new seasonal dish and talks him into buying a slicer before being sent off.",
       "characters": [
         "Nagiyev",
+        "Chef",
         "Senya"
       ],
       "location": "Claude Monet",
@@ -172,9 +175,10 @@
       "start": "00:14:19,120",
       "end": "00:14:42,020",
       "title": "Two Dining Rooms",
-      "summary": "Visiting a rival restaurant, Chef Viktor Barinov makes sarcastic jokes about the establishment having two dining halls and air conditioning before asking the hostess for a table in the smoking section.",
+      "summary": "At Arcobaleno, the hostess greets Barinov and Nagiyev. Nagiyev mocks the separate dining rooms and the air conditioning, Barinov cuts the jokes short, and they ask for the smoking room.",
       "characters": [
         "Hostess",
+        "Nagiyev",
         "Chef"
       ],
       "location": "Claude Monet",
@@ -278,13 +282,13 @@
     {
       "scene": 21,
       "start": "00:21:54,480",
-      "end": "00:22:15,340",
+      "end": "00:22:29,320",
       "title": "End of the Conflict",
-      "summary": "In the dining room of Claude Monet, the staff and Victoria apologize to Max for ruining his celebration, bringing a peaceful conclusion to their workplace conflicts.",
+      "summary": "In the dining room, Nastya and Vika apologise to Max for ruining his birthday. The conflict is settled for now, and Max asks Nastya to bring him a glass.",
       "characters": [
-        "Vika",
         "Max",
-        "Chef"
+        "Nastya",
+        "Vika"
       ],
       "location": "Claude Monet",
       "merge": null
@@ -294,14 +298,14 @@
       "start": "00:22:29,320",
       "end": "00:22:29,960",
       "title": "A Glass for the Chef",
-      "summary": "In the restaurant kitchen, Chef Viktor calls on Nastya to bring him a clean glass so he can join the team in raising a celebratory toast to friendship.",
+      "summary": "Max finishes his request to Nastya for a glass; the line is taught at the end of the previous scene.",
       "characters": [
         "Chef",
         "Nastya",
         "Max"
       ],
       "location": "Claude Monet Kitchen",
-      "merge": null
+      "merge": "prev"
     },
     {
       "scene": 23,
@@ -322,10 +326,9 @@
       "start": "00:23:32,550",
       "end": "00:23:51,730",
       "title": "A Clean Slate",
-      "summary": "Late at night in the kitchen, Max talks with Kostya about the heavy cost of deception and resolves to face the future honestly, starting over with a clean slate.",
+      "summary": "Max reflects in voice-over that one lie breeds another and that a fresh start from a clean slate depends only on yourself.",
       "characters": [
-        "Max",
-        "Kostya"
+        "Max"
       ],
       "location": "Claude Monet Kitchen",
       "merge": null

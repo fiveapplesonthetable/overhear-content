@@ -7,43 +7,35 @@ SCENE = 13
 TITLE = 'Два зала  (Two Dining Rooms)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'hostess': 'Хостес'}
+LABELS = {'barinov': 'Шеф', 'hostess': 'Хостес', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = 'Barinov has gone to check out the competition: a restaurant next door, where a hostess greets him with a smile. He answers her with heavy sarcasm. Listen to his arrival in Russian first.'
-OPENER = "Let's walk in with Barinov again, line by line."
-TRANSITION = "Now Barinov's arrival once more, start to finish."
-OUTRO = 'Barinov gets his table by the window, and the sarcasm keeps coming. Keep "nado zhe" for any moment of surprise, real or fake. See you next time!'
+INTRO = 'Barinov and Nagiyev pay their return visit to Arcobaleno, the rival restaurant. A hostess greets them, and Nagiyev cannot resist making fun of the place. Listen to their arrival in Russian first.'
+OPENER = "Let's walk in with them again, line by line."
+TRANSITION = "Now the arrival once more, start to finish."
+OUTRO = 'Nagiyev mocks the decor, Barinov cuts him short, and the hostess leads them to the smoking room. Keep "nado zhe" for any moment of surprise, real or fake. See you next time!'
 CLOSING = ('hostess', 'Хорошего дня!')
 STORY = [
-    ('hostess', 'Добрый день, рада видеть вас здесь.', 'Good afternoon, I am glad to see you here.', [(221, 'Добрый день. Рада видеть вас')], ''),
-    ('hostess', 'Добро пожаловать в наш новый ресторан.', 'Welcome to our new restaurant.', [(221, 'в нашем ресторане')], ''),
-    ('hostess', 'Вам зал для курящих или нет?', 'Would you like the smoking room or not?', [(222, 'Вам зал для курящих')], ''),
-    ('barinov', 'А у вас тут есть разделение?', 'Do you have separate sections here?', [(223, 'А у вас разделение')], ''),
-    ('hostess', 'Да, у нас есть два зала.', 'Yes, we have two dining rooms.', [(224, 'два зала есть')], ''),
-    ('barinov', 'Надо же, даже два зала есть!', 'Well now, there are even two rooms!', [(224, 'Надо же. И два зала есть')], ''),
-    ('barinov', 'И кондиционер тут тоже работает хорошо.', 'And the air conditioner works well here too.', [(225, 'И кондиционер')], ''),
-    ('barinov', 'Это просто настоящий дворец восточного шейха.', 'This is simply a real palace of an eastern sheikh.', [(226, 'Просто дворец шейха')], ''),
-    ('hostess', 'У вас сегодня очень смешные шутки.', 'You have very funny jokes today.', [(227, 'Шутки такие')], ''),
-    ('barinov', 'Нам нужен простой зал для курящих.', 'We need a regular room for smokers.', [(228, 'Нам простой зал')], ''),
-    ('hostess', 'Хорошо, прошу вас пройти за мной.', 'Very well, please follow me.', [(229, 'Прошу')], ''),
-    ('barinov', 'Большое спасибо, мы идём за вами.', 'Thank you very much, we are following you.', [(229, 'Спасибо')], ''),
-    ('hostess', 'Вот ваш удобный столик у окна.', 'Here is your comfortable table by the window.', [(230, 'Прошу')], ''),
-    ('barinov', 'Отлично, принесите нам меню, пожалуйста.', 'Great, bring us the menu, please.', [(229, 'Спасибо')], ''),
+    ('hostess', 'Добрый день. Рада видеть вас в нашем ресторане.', 'Good afternoon. Glad to see you at our restaurant.', [(221, 'Добрый день. Рада видеть вас в нашем ресторане.')], ''),
+    ('hostess', 'Вам зал для курящих или не курящих?', 'Would you like the smoking or the non-smoking room?', [(222, 'Вам зал для курящих или не курящих?')], ''),
+    ('nagiyev', 'А у вас разделение?', 'Oh, you have separate sections?', [(223, 'А у вас разделение?')], ''),
+    ('nagiyev', 'Надо же. И два зала есть.', 'Well, well. Two rooms, even.', [(224, 'Надо же. И два зала есть.')], ''),
+    ('nagiyev', 'И кондиционер.', 'And air conditioning.', [(225, 'И кондиционер.')], ''),
+    ('nagiyev', 'Просто дворец шейха.', "It's a sheikh's palace, really.", [(226, 'Просто дворец шейха Мансура.')], ''),
+    ('barinov', 'Шутки такие дурацкие.', 'Such stupid jokes.', [(227, 'Шутки такие дурацкие.')], ''),
+    ('barinov', 'Нам простой зал для курящих.', 'A regular smoking room for us.', [(228, 'Нам простой зал для')], ''),
+    ('hostess', 'Прошу.', 'This way, please.', [(229, 'Прошу.')], ''),
+    ('barinov', 'Спасибо.', 'Thank you.', [(229, 'Спасибо.')], ''),
 ]
 WALK = [
-    (0, None, '\'Good afternoon, I\'m glad to see you here.\' "Dobryy den" is the polite daytime hello. "Rada" ends in "-a" because the hostess is a woman.'),
-    (1, None, '\'Welcome to our new restaurant.\' "Dobro pozhalovat" is a fixed phrase, literally "kindly come".'),
-    (2, None, '\'Would you like the smoking room or not?\' "Dlya kuryashchikh" means "for those who smoke", from "kurit", to smoke. "Vam", for you, is polite.'),
-    (3, None, '\'So you have separate sections here?\' "Razdelenie", division, comes from "delit", to divide. "U vas" means "you have", literally "at you".'),
-    (4, None, '\'Yes, we have two dining rooms.\' After "dva", two, "zal" picks up an "-a": "dva zala".'),
-    (5, None, '\'Well, would you look at that, even two rooms!\' "Nado zhe" is a set phrase of surprise, here fake surprise. "Dazhe" means "even".'),
-    (6, None, '\'And the air conditioning works well here too.\' "Konditsioner" is borrowed, with its stress near the end. "Tozhe" means "too".'),
-    (7, None, '\'It\'s a real palace for an eastern sheikh.\' "Vostochnyy", eastern, comes from "vostok", east. "Dvorets" means palace.'),
-    (8, None, '\'You have very funny jokes today.\' "Smeshnye", funny, comes from "smekh", laughter. She can be as dry as he is.'),
-    (9, None, '\'We need a regular room for smokers.\' "Prostoy" means simple or ordinary, and the jokes stop for a moment.'),
-    (10, None, '\'Very well, please follow me.\' "Proshu" is literally "I ask", a polite "please". "Za mnoy" means "behind me".'),
-    (11, None, '\'Thank you very much, we\'re right behind you.\' "Idyom za vami" is "we go behind you", the same "za" as hers.'),
-    (12, None, '\'Here\'s your comfortable table by the window.\' "U okna" means "at the window": "okno" becomes "okna" after "u".'),
-    (13, None, '\'Great, bring us the menu, please.\' "Prinesite" is "bring" said with "vy". "Nam" means "to us".'),
+    (0, None, '\'Good afternoon. Glad to see you at our restaurant.\' "Dobryy den" is the polite daytime hello. "Rada" ends in "-a" because the hostess is a woman.'),
+    (1, None, '\'Would you like the smoking or the non-smoking room?\' "Dlya kuryashchikh" means "for those who smoke", from "kurit", to smoke. "Vam", for you, is polite.'),
+    (2, None, '\'Oh, you have separate sections?\' "Razdelenie", division, comes from "delit", to divide. "U vas" means "you have", literally "at you".'),
+    (3, None, '\'Well, well. Two rooms, even.\' "Nado zhe" is a set phrase of surprise, here fake surprise. After "dva", two, "zal" picks up an "-a": "dva zala".'),
+    (4, None, '\'And air conditioning.\' "Konditsioner" is borrowed, with its stress near the end. A single noun after "i" is enough for a mocking list.'),
+    (5, None, '\'It\'s a sheikh\'s palace, really.\' "Prosto" is "simply", used here like "just" or "practically". "Sheykha" is "of a sheikh", the genitive.'),
+    (6, None, '\'Such stupid jokes.\' "Duratskie", silly, comes from "durak", a fool. "Takie" is "such", matching the plural "shutki", jokes.'),
+    (7, None, '\'A regular smoking room for us.\' "Nam", to us, is enough to ask for something: no verb needed. "Prostoy" means simple or ordinary.'),
+    (8, None, '\'This way, please.\' "Proshu" is literally "I ask", the usual polite word when you show someone where to go.'),
+    (9, None, '\'Thank you.\' "Spasibo" works for a host, a waiter or a friend alike.'),
 ]

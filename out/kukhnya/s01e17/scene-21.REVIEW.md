@@ -10,32 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Максим, прости нас, пожалуйста. | Maxim, please forgive us. | #321 00:22:00: Максим, прости нас, пожалуйста, что испортили тебе праздник. | verbatim |
-| 2 | Вика | Мы испортили тебе отличный праздник. | We ruined a great holiday for you. | #321 00:22:00: что испортили тебе праздник | verbatim |
-| 3 | Макс | Я не сержусь на вас. | I am not angry at you. | new | new |
-| 4 | Вика | Прости их, пожалуйста. | Please forgive them. | #322 00:22:06: Прости их, пожалуйста. | verbatim |
-| 5 | Шеф | Ну и меня тоже прости. | Well and forgive me too. | #323 00:22:08: Ну и меня. | verbatim |
-| 6 | Шеф | Так, всё? Конфликт закончился? | So, is that all? The conflict is over? | #323 00:22:08: Так все?<br>#324 00:22:10: Конфликт исчерпан? | verbatim |
-| 7 | Макс | Да, шеф, конфликт закончился. | Yes, chef, the conflict is over. | #324 00:22:10: Конфликт исчерпан | verbatim |
-| 8 | Шеф | Но только пока кто-то снова не ошибётся. | But only until someone makes a mistake again. | #324 00:22:10: Временно, пока кто-нибудь снова не накосячит. | verbatim |
-| 9 | Вика | Мы все хотим мира на кухне. | We all want peace in the kitchen. | new | new |
-| 10 | Шеф | Мир на кухне — это главное. | Peace in the kitchen is key. | new | new |
-| 11 | Макс | Спасибо всем за добрые слова. | Thank you all for the kind words. | new | new |
-| 12 | Вика | Теперь мы можем спокойно работать. | Now we can work calmly. | new | new |
-| 13 | Макс | Я очень рад, что мы помирились. | I am very glad that we reconciled. | new | new |
+| 1 | Макс | Опа-на. | Well, look at that. | #320 00:21:54: Опа-на. | verbatim |
+| 2 | Настя | Максим, прости нас, пожалуйста, что испортили тебе праздник. | Maxim, please forgive us for ruining your party. | #321 00:22:00: Максим, прости нас, пожалуйста, что испортили тебе праздник. | verbatim |
+| 3 | Вика | Прости их, пожалуйста. | Please forgive them. | #322 00:22:06: Прости их, пожалуйста. | verbatim |
+| 4 | Вика | Ну и меня. Так всё? | And me too. So, are we done? | #323 00:22:08: Ну и меня. Так все? | verbatim |
+| 5 | Вика | Конфликт исчерпан? | Is the conflict over? | #324 00:22:10: Конфликт исчерпан? | verbatim |
+| 6 | Макс | Временно, пока кто-нибудь снова не накосячит. | For now, until somebody messes up again. | #324 00:22:10: Временно, пока кто-нибудь снова не накосячит. | verbatim |
+| 7 | Макс | Настя, принеси бокал. | Nastya, bring a glass. | #325 00:22:14: Настя,<br>#326 00:22:29: принеси бокал. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maksim, please forgive us.' "Prosti" is "forgive" said to one person. Vika uses his full name to sound serious.
-- 'We ruined a great celebration for you.' "Isportili" means "spoiled". "Tebe", for you, says whose celebration it was.
-- 'I'm not angry with you.' "Serzhus na vas" is "I'm angry at you", using "na", onto.
-- 'Please forgive them.' Now she asks on behalf of the staff: "ikh" means them.
-- 'Well, and forgive me too.' "Menya" means me. Barinov tacks himself on at the end.
-- 'So, is that it? Is the conflict over?' "Tak, vsyo?" is literally "so, all?", meaning "are we done?".
-- 'Yes, chef, the conflict is over.' "Zakonchilsya", ended, is related to "konets", end.
-- 'But only until somebody makes a mistake again.' "Poka" with "ne" means "until". "Oshibyotsya" is related to "oshibka", a mistake.
-- 'We all want peace in the kitchen.' "Mir" means both peace and world, and here it becomes "mira".
-- 'Peace in the kitchen is the main thing.' "Glavnoe", the main thing, is related to "glava", head.
-- 'Thanks to everyone for the kind words.' "Vsem" means "to everyone". "Za dobrye slova" is "for the kind words".
-- 'Now we can work in peace.' "Mozhem" is "we can", and "spokoyno" means without trouble.
-- 'I'm really glad we made up.' "Pomirilis", made peace with each other, is built on "mir" too.
+- 'Well, look at that.' "Opa-na" is a playful "whoa", the sound of a pleasant surprise.
+- 'Maxim, please forgive us for ruining your party.' "Prosti" is "forgive" said to one person. "Isportili", spoiled, is plural because she speaks for two.
+- 'Please forgive them.' Now Vika asks on behalf of the pair: "ikh" means them.
+- 'And me too. So, are we done?' "Menya" means me. "Tak, vsyo?" is literally "so, all?", meaning "is that it?".
+- 'Is the conflict over?' "Ischerpan" is literally "drained to the bottom", a formal way to say a matter is closed.
+- 'For now, until somebody messes up again.' "Poka" with "ne" means "until". "Nakosyachit" is slang for "to mess up", from "kosyak", a blunder.
+- 'Nastya, bring a glass.' "Prinesi" is "bring" said to one person you call "ty". "Bokal" is a wine glass, not a tumbler.
