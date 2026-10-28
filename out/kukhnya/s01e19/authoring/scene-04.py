@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'nagiyev': 'Нагиев', 'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = 'Nagiyev is showing his friend Igor around Claude Monet, boasting about everything. He calls the staff by the wrong names and proudly introduces his art director. First, the Russian.'
-OPENER = 'Slowly this time.'
-TRANSITION = "Let's hear the whole thing again, start to finish."
-OUTRO = "Nagiyev has no idea who half his staff are, but he makes the tour sound grand. 'Voobshche-to' is a handy phrase for 'actually' when you're correcting someone. See you next time!"
-CLOSING = ('vika', 'До свидания!')
+INTRO = "Over at Claude Monet, the owner, Nagiyev, is giving his friend Igor a grand tour and getting his own staff's names wrong. We'll get the Russian before any explaining; just enjoy the tone."
+OPENER = 'Now the tour again, stop by stop.'
+TRANSITION = 'One more lap of the restaurant, all in Russian.'
+OUTRO = "Nagiyev couldn't place Nastya, but you've picked up voobshche-to for setting someone straight. See you next time!"
+CLOSING = ('nagiyev', 'Ну всё, пока!')
 STORY = [
     ('nagiyev', 'Вот, Игорь.', 'Here you go, Igor.', [(44, 'Вот, Игорек, это и есть оазис французской кухни.')], ''),
     ('nagiyev', 'Это оазис французской кухни.', 'This is an oasis of French cuisine.', [(44, 'Вот, Игорек, это и есть оазис французской кухни.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Добрый день.', 'Good afternoon.', [(59, 'Добрый день. Здравствуйте, Игорь.')], ''),
 ]
 WALK = [
-    (0, None, "'Here you go, Igor.' The small word 'vot' points at the dining room. Igor's name needs no change here."),
-    (1, None, "'This is an oasis of French cuisine.' 'Of French cuisine' has an 'oy' ending on 'French' and an 'i' on 'cuisine'. 'Oasis' is a borrowed word."),
-    (2, None, "'A bastion of quality.' 'Enclave' is borrowed too. 'Of quality' needs an 'a' ending."),
-    (3, None, "'So much effort has gone into this place.' 'How much' is used here as an exclamation. 'Effort' is literally 'strengths'."),
-    (4, None, "'A waiter is like my own child.' 'Own' here means 'by blood', which makes the staff almost family. 'Child' is an irregular word."),
-    (5, None, "'Oh, hi, Vilyash.' He greets the wrong person with the casual hello. The name he uses is wrong, which is the joke."),
-    (6, None, "'I'm Nastya, actually.' 'Actually' has the little 'to' added, which sharpens the correction. There's no 'am'."),
-    (7, None, "'She must be new.' 'New girl' is made by adding a small ending to 'new'. 'Probably' is one word."),
-    (8, None, "'Well, let's keep going.' 'We'll go' works as 'let's go'. 'Further' is another handy small word."),
-    (9, None, "'Make us two coffees.' Coffee is masculine and never changes, so 'two' takes its masculine form. 'Make' is the friendly command."),
-    (10, None, "'This is Viktoria Sergeyevna.' He gives her first name and patronymic, the formal way. There's no 'is'."),
-    (11, None, "'The art director of our restaurant.' 'Art director' is a hyphenated compound. 'Of our restaurant' takes an 'ogo' and an 'a'."),
-    (12, None, "'Good afternoon.' The greeting means 'kind day'. Vika keeps it short and formal."),
+    (0, None, "'Here you go, Igor.' \"Vot\" means 'here it is', said while pointing or handing something over. In the show he calls his friend by the cosier \"Igorek\"."),
+    (1, None, "'This is an oasis of French cuisine.' \"Kukhnya\" means both 'kitchen' and 'cuisine', and here it's the second. After \"oazis\" it becomes \"frantsuzskoy kukhni\", 'of French cuisine'."),
+    (2, None, "'A bastion of quality.' \"Anklav\" is 'enclave', a fancy borrowed word, which is the point: he's showing off. \"Kachestvo\", 'quality', becomes \"kachestva\", 'of quality'."),
+    (3, None, "'So much effort went into this place.' \"Skol'ko sil\", literally 'how many strengths', stands for 'so much effort'. \"Syuda\" means 'to here', a direction, while \"zdes'\" is 'here' as a place."),
+    (4, None, "'A waiter is like my own child.' \"Rodnoy\" means 'my own, by blood', and it also gives \"rodnoy gorod\", 'home town'. \"Kak\", usually 'how', here means 'like'."),
+    (5, None, "'Oh, hi, Vilyash.' \"Privet\" is the casual 'hi', fine for a friend and a bit much for staff you can't name. \"Vilyash\" isn't anyone's name here, which is the joke."),
+    (6, None, "'I'm Nastya, actually.' \"Voobshche-to\", 'actually', corrects someone with a little edge. It's \"voobshche\", 'in general', plus -to for emphasis."),
+    (7, None, "'She must be new.' \"Novenkaya\" is 'the new girl', built from \"novy\", 'new'. \"Navernoe\", 'probably', turns it into a guess said out loud."),
+    (8, None, "'Well, let's keep going.' \"Poydem\", literally 'we'll go', works as 'let's go' when you're on foot. \"Dal'she\", 'further', also means 'next' or 'go on'."),
+    (9, None, "'Make us two coffees.' \"Kofe\" never changes its ending, so two coffees are just \"dva kofe\". Officially \"kofe\" is masculine, which is why it's \"dva\" and not \"dve\"."),
+    (10, None, "'This is Viktoria Sergeyevna.' The second name is a patronymic, made from her father's name plus -evna, the ending for a daughter. First name and patronymic together are how you're polite at work."),
+    (11, None, "'The art director of our restaurant.' \"Art-direktor\" comes straight from English. \"Nash\", 'our', becomes \"nashego\" and \"restoran\" becomes \"restorana\": 'of our restaurant'."),
+    (12, None, "'Good afternoon.' \"Dobry den'\", literally 'good day', is the polite greeting from late morning to evening. Vika uses it because Igor is a guest she's only just met."),
 ]

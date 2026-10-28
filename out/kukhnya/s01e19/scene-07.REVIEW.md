@@ -1,6 +1,6 @@
 # kukhnya-s01e19-scene-07: review sheet
 
-Title: Важный вопрос  (Important Question)
+Title: Букет  (The Bouquet)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Кухня (Kukhnya) S1.19
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Vika, I was just thinking.' 'Here' is used as a filler. The 'thought' is a once-and-done action, so it means a thought that has arrived.
-- 'Anyway, this is for you.' The opening is a stock phrase, 'in general'. 'This to you' means 'this is for you'.
-- 'How unexpected, thank you very much!' 'Unexpected' is 'not' plus 'expected', stuck together. 'How' plus an adverb makes an exclamation.
-- 'Listen, maybe we could go somewhere tonight?' 'We'll go' is the kind of going that comes back, so it suits an outing. 'Somewhere' is built with a tail on 'where to'.
-- 'You know, I can't tonight.' 'I can't' is irregular. 'Tonight' is made from 'today' and 'in the evening'.
-- 'I have an important business meeting.' 'Business' is an adjective made from 'matter'. 'At me' stands for 'I have'.
-- 'Excuse me, are you Viktoria Goncharova, the art director?' There is no 'are', only 'you' and the name. 'Excuse me' is the polite word.
-- 'Yes, that's me.' Russian says 'this I', where English says 'that's me'. The 'I' stays in its plain form.
-- 'Then this is for you, sign here.' 'Sign' finishes with 'sya', so it means 'sign yourself'. 'For you' is the polite 'vam'.
-- 'How beautiful! Max, hold these, please.' 'What beauty' is the Russian exclamation, with 'beauty' as a noun. 'Hold' is the casual command.
-- 'Thank you for the lovely flowers.' 'Wonderful' is built from 'miracle'. 'Flowers' is plural, with a 'y' ending.
-- 'We need to put them quickly in water.' Russians say flowers 'stand' in water, so the word is the one for standing something up. 'In water' needs an 'u' ending.
+- 'Hi, Vika, I have been thinking.' "Ya tut podumal" is literally 'I here thought a bit'. The po- in "podumal" makes it a short spell of thinking, and "tut" is just filler.
+- 'Anyway, this is for you.' "V obshchem", 'in general', is what Russians say when they finally get to the point. "Eto tebe", 'this to you', is how you hand someone a present.
+- 'How unexpected, thank you very much!' "Neozhidanno" is ne plus "ozhidanno", from "ozhidat'", 'to expect'. "Spasibo bol'shoe" is literally 'big thanks'.
+- 'Listen, maybe we could go somewhere tonight?' "Skhodim" means 'we'll go and come back', a little outing. "Kuda-nibud'", 'somewhere', is for a place nobody has picked yet.
+- 'You know, I cannot tonight.' "Ne mogu", 'I can't', stands alone; Russians often drop the verb that would follow. "Segodnya vecherom" is 'this evening'.
+- 'I have an important business meeting.' "Delovaya", 'business', comes from "delo", 'matter, business'. Hold on to this meeting: it comes back in the next few scenes.
+- 'Excuse me, are you Victoria Goncharova, the art director?' "Izvinite" is the polite 'excuse me', for a stranger. The courier uses vy and her full name, as you would at work.
+- 'Yes, that is me.' "Da, eto ya" is literally 'yes, this I'. It's the standard reply when someone checks who you are.
+- 'Then this is for you, sign right here.' "Vam", 'to you', is the vy form; Max said "tebe" a minute ago. "Raspishites'", 'sign', comes from the same root as "podpis'", 'signature'.
+- 'How beautiful! Max, hold these, please.' "Kakaya krasota" is literally 'what beauty'. "Poderzhi" is 'hold for a bit', and once again the po- keeps it short.
+- 'Thank you for the wonderful flowers.' "Chudesnye", 'wonderful', comes from "chudo", 'miracle'. "Tsvety" is the plural of "tsvetok", 'flower', and the singular looks quite different.
+- 'We need to put them in water quickly.' "V vodu", 'into water', has -u because the flowers are going into it. Russians 'stand' flowers in water: "postavit'".

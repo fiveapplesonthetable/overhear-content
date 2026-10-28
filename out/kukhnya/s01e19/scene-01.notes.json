@@ -4,7 +4,7 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "Woke me up, did you?",
+      "trans": "Did I wake you?",
       "words": [
         {
           "t": "Разбудил?",
@@ -444,7 +444,7 @@
     },
     {
       "seg": 14,
-      "trans": "Woke me up, did you?",
+      "trans": "Did I wake you?",
       "words": [
         {
           "t": "Разбудил?",
@@ -884,7 +884,7 @@
     },
     {
       "seg": 38,
-      "trans": "Woke me up, did you?",
+      "trans": "Did I wake you?",
       "words": [
         {
           "t": "Разбудил?",
@@ -1324,23 +1324,23 @@
     },
     {
       "seg": 51,
-      "trans": "Goodbye.",
+      "trans": "Good night!",
       "words": [
         {
-          "t": "До",
-          "lemma": "до",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "until",
-          "gram": "preposition + genitive"
+          "t": "Спокойной",
+          "lemma": "спокойный",
+          "pos": "adj",
+          "stress": "споко́йной",
+          "gloss": "good (lit. calm)",
+          "gram": "feminine singular, genitive (a wish)"
         },
         {
-          "t": "свидания!",
-          "lemma": "свидание",
+          "t": "ночи!",
+          "lemma": "ночь",
           "pos": "noun",
-          "stress": "свида́ния",
-          "gloss": "meeting (goodbye)",
-          "gram": "genitive neuter singular"
+          "stress": "но́чи",
+          "gloss": "night",
+          "gram": "genitive singular (a wish: спокойной ночи)"
         }
       ]
     }
@@ -1763,48 +1763,6 @@
         {
           "word": "очень где",
           "gloss": "intensified / related adverb (where)"
-        }
-      ]
-    },
-    "до": {
-      "lemma": "до",
-      "stress": "до",
-      "pos": "prep",
-      "gloss": "until, before; up to",
-      "meanings": [
-        {
-          "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
-        },
-        {
-          "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
-        },
-        {
-          "text": "До завтра!",
-          "trans": "See you tomorrow!"
-        },
-        {
-          "text": "До вечера!",
-          "trans": "See you tonight!"
-        }
-      ],
-      "related": [
-        {
-          "word": "дойти",
-          "gloss": "to reach, walk as far as"
-        },
-        {
-          "word": "после",
-          "gloss": "after"
         }
       ]
     },
@@ -2770,96 +2728,6 @@
         {
           "word": "будить",
           "gloss": "wake up"
-        }
-      ]
-    },
-    "свидание": {
-      "lemma": "свидание",
-      "stress": "свида́ние",
-      "pos": "noun",
-      "gloss": "meeting; date",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
-        },
-        {
-          "en": "date (romantic)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "свидание",
-              "свидания"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "свидания",
-              "свиданий"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "свиданию",
-              "свиданиям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "свидание",
-              "свидания"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "свиданием",
-              "свиданиями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "свидании",
-              "свиданиях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
-        },
-        {
-          "text": "У меня сегодня свидание.",
-          "trans": "I have a date today."
-        },
-        {
-          "text": "У неё свидание.",
-          "trans": "She has a date."
-        }
-      ],
-      "related": [
-        {
-          "word": "видать",
-          "gloss": "to see"
         }
       ]
     },
@@ -3870,6 +3738,195 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "спокойный": {
+      "lemma": "спокойный",
+      "stress": "споко́йный",
+      "pos": "adj",
+      "gloss": "calm, quiet",
+      "meanings": [
+        {
+          "en": "calm, quiet, peaceful",
+          "note": "Спокойной ночи = good night. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'покойный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('calm, quiet')."
+        },
+        {
+          "en": "good (night)",
+          "note": "Спокойной ночи = good night. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'покойный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('calm, quiet')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "спокойный",
+              "спокойная",
+              "спокойное",
+              "спокойные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "спокойного",
+              "спокойной",
+              "спокойного",
+              "спокойных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "спокойному",
+              "спокойной",
+              "спокойному",
+              "спокойным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "спокойный / спокойного",
+              "спокойную",
+              "спокойное",
+              "спокойные / спокойных"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "спокойным",
+              "спокойной",
+              "спокойным",
+              "спокойными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "спокойном",
+              "спокойной",
+              "спокойном",
+              "спокойных"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Спокойной ночи!",
+          "trans": "Good night!"
+        },
+        {
+          "text": "Он очень спокойный человек.",
+          "trans": "He's a very calm person."
+        },
+        {
+          "text": "Это ваша самоуверенность промелькнула. Спокойной ночи!",
+          "trans": "That was your overconfidence flashing by. Good night!"
+        }
+      ],
+      "related": [
+        {
+          "word": "спокойно",
+          "gloss": "calmly"
+        }
+      ]
+    },
+    "ночь": {
+      "lemma": "ночь",
+      "stress": "ночь",
+      "pos": "noun",
+      "gloss": "night",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "night",
+          "note": "ночью = at night; спокойной ночи = good night"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ночь",
+              "ночи"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ночи",
+              "ночей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ночи",
+              "ночам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ночь",
+              "ночи"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ночью",
+              "ночами"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ночи",
+              "ночах"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Спокойной ночи!",
+          "trans": "Good night!"
+        },
+        {
+          "text": "Ночью я сплю.",
+          "trans": "At night I sleep."
+        },
+        {
+          "text": "Ну что, Аркаша? Наступила ночь, просыпается мафия.",
+          "trans": "So, Arkasha? Night has fallen, the mafia wakes up."
+        }
+      ],
+      "related": [
+        {
+          "word": "ночный",
+          "gloss": "related to night (adj.)"
         }
       ]
     }

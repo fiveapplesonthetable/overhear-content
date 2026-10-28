@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I'm very tired today.' 'Tired' is a short masculine form, since Max is a man. 'Today' sits at the end.
-- 'We worked a lot this morning.' 'A lot' is a single small word. 'In the morning' has an 'om' ending.
-- 'Let's rest a bit.' 'A bit' is literally 'not much'. 'Let's' is made from 'davayte' and a 'we' form.
-- 'Hello, cooks!' The plural of 'cook' ends in a stressed 'a'. It's an odd plural, but a common one.
-- 'Why are you standing around, cripples?' Literally, 'what did you get up for'. 'Cripples' is Barinov's pet insult, borrowed by the cooks.
-- 'Can't you see?' It is only 'don't you see', with the polite plural. Fedya is mocking.
-- 'The pros have arrived.' 'Professionals' is a borrowed word, in the plural. 'Arrived' has the plural ending 'li'.
-- 'You aren't professionals.' The 'not' goes in front of the noun. There's no 'are'.
-- 'You just talk a lot.' 'Just' and 'a lot' flank the verb. 'Talk' carries 'ite', the polite plural.
-- 'We're telling the truth.' 'We tell' ends in 'im'. 'Truth' takes a 'u' ending.
-- 'Go and work!' 'Go' is a polite plural command. The next word is the plain form 'to work'.
-- 'Okay, we're going.' 'We go' finishes with 'yom'. The first word is a quick 'okay'.
+- 'I am very tired today.' "Ya ustal", 'I'm tired', is said with the past form, literally 'I got tired'. A woman says "ya ustala".
+- 'We worked a lot in the morning.' "Utrom", 'in the morning', is "utro" with -om added, just as "vecher" gives "vecherom". "Mnogo" means 'a lot'.
+- 'Let's rest a bit.' "Davayte" plus 'we' turns into 'let's' for a group. "Otdokhnyom" means 'we'll rest'.
+- 'Hello, cooks!' "Povar", 'cook', becomes "povara", with the stress on the end. That ending for more than one comes with just a few words, like "doma", 'houses'.
+- 'What are you standing around for, cripples?' "Chto vstali" is 'why have you stopped?', with "chto" meaning 'why'. "Invalidy", 'cripples', is a nasty insult here.
+- 'Can't you see?' "Vidite", 'you see', ends in -te because Fedya speaks to the whole group. To one friend it's "vidish'".
+- 'The pros are here.' "Prishli", 'came', ends in -li because there are two of them. "Professionaly" is the word Senya uses for himself and Fedya.
+- 'You are not professionals.' "Vy ne professionaly" is just 'you not professionals'. Russian needs no 'are'.
+- 'You just talk a lot.' "Prosto" covers both 'just' and 'simply'. "Govorite", 'you talk', is aimed at both of them.
+- 'We are telling the truth.' "Govorit' pravdu" is 'to tell the truth': "pravda" becomes "pravdu". A lone "Pravda" can mean 'really?'.
+- 'Go to work!' "Idite rabotat'", 'go work', has no 'to' between the two verbs. "Idi" spat', 'go to sleep', works the same way.
+- 'Okay, we are going.' "Idyom" is 'we go' or 'we're going', on foot. "Khorosho", 'good', is the plain 'okay'.

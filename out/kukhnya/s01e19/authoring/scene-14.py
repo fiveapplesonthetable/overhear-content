@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = 'Vika catches Barinov in the kitchen with a simple question: what is he going to do about the restaurant? The owner has given him two weeks to attract more customers, and half the time is gone. First, the Russian.'
-OPENER = "Let's replay it, with a word or two on each line."
-TRANSITION = "Let's finish by hearing it all again."
-OUTRO = "Barinov has a plan, which involves drinking and a very big party. As you listen again, notice the rhyme in 'pir na ves mir', which literally means 'a feast for the whole world'. See you next time!"
-CLOSING = ('vika', 'До свидания!')
+INTRO = "Vika catches Barinov in the kitchen to ask what he'll do now that the owner has given him two weeks to bring in customers. Here it is in Russian first, and you needn't follow all of it."
+OPENER = "Now let's go back over what they said, slowly."
+TRANSITION = "Here's the whole plan once more, party and all."
+OUTRO = "Barinov's big plan is a birthday party, and you heard him promise to tell the whole world. See you next time!"
+CLOSING = ('vika', 'Ну всё, пока!')
 STORY = [
     ('vika', 'Что собираешься делать?', 'What are you going to do?', [(236, 'собираешься делать')], ''),
     ('barinov', 'Ты насчет ресторана?', 'Are you talking about the restaurant?', [(237, 'Ты насчет')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Спасибо.', 'Thanks.', [(247, 'Спасибо')], ''),
 ]
 WALK = [
-    (0, None, "'What are you going to do?' 'Intend' carries 'sya', and literally means 'gather yourself'. It is followed by the plain 'to do'."),
-    (1, None, "'You mean the restaurant?' The small word 'naschyot' means 'regarding'. 'Restaurant' takes an 'a' ending after it."),
-    (2, None, "'The owner gave you two weeks.' 'Two' takes the feminine form, 'dve', as 'week' is feminine. 'Weeks' after 'two' ends in 'i'."),
-    (3, None, "'A week's already gone by.' 'Passed' finishes with 'a' because 'week' is feminine. 'Already' is placed first."),
-    (4, None, "'Don't worry, I have an idea.' A negative command uses the ongoing form of 'worry'. 'At me there is' stands for 'I have'."),
-    (5, None, "'Let me guess. You'll get drunk?' 'Give' plus 'I'll guess' makes 'let me guess'. 'Get drunk' is the completed kind, from 'drink'."),
-    (6, None, "'Naturally. It's such an occasion.' 'Naturally' is built from 'nature'. 'Occasion' also means 'reason'."),
-    (7, None, "'The birthday of the Claude Monet restaurant.' Three nouns in a row, each in the 'of' form. 'Day of birth' is a pair of words."),
-    (8, None, "'We'll throw a feast for the whole world.' The phrase rhymes in Russian, 'pir na ves mir', which makes it a favourite saying. 'Arrange' is an action seen as complete."),
-    (9, None, "'And how will the world hear about it?' 'Find out' treats the action as done, in the future. 'About this' adds a 'b' before the vowel."),
-    (10, None, "'I'll take care of that.' The idiom is 'I take it on myself'. 'Myself' is a special word, here with an 'ya' ending."),
-    (11, None, "'Got it. Good luck.' 'Understandable' is a one-word reply. 'Luck' takes an 'i' ending in a wish."),
-    (12, None, "'Thanks.' One word, and plenty for Barinov. It's the plain Russian thank-you."),
+    (0, None, "'What are you going to do?' \"Sobiraesh'sya\", 'you're planning', is the same verb Max used about Vika. \"Delat'\" means 'to do'."),
+    (1, None, "'Are you talking about the restaurant?' \"Naschet\", 'about', is spelled with \"sch\" but said 'nashchet'. It's the casual word; po \"povodu\" is the formal one."),
+    (2, None, "'The owner gave you two weeks.' \"Dve\", 'two', is the form for words like \"nedelya\", 'week', which then becomes \"nedeli\". \"Dal\", 'gave', comes from \"dat'\"."),
+    (3, None, "'A week's already gone by.' \"Proshla\", 'went by', agrees with \"nedelya\", 'week'. The same verb, \"proyti\", is for time passing and for walking past."),
+    (4, None, "'Don't worry, I have an idea.' \"U menya est'\" is 'I have', literally 'at me there is'. \"Ideya\", 'idea', is easy to spot."),
+    (5, None, "'Let me guess. You'll get drunk?' \"Day ugadayu\", 'give, I'll guess', is the Russian 'let me guess'. \"Napyosh'sya\" is na- plus \"pit'\", 'to drink', plus -sya: to drink your fill."),
+    (6, None, "'Naturally. Such an occasion.' \"Estestvenno\", 'naturally', comes from \"estestvo\", 'nature'. \"Povod\" is an excuse or reason, especially for a drink."),
+    (7, None, "'The birthday of the Claude Monet restaurant.' \"Den' rozhdeniya\" is literally 'day of birth'. You'll use it for people and, here, a restaurant."),
+    (8, None, "'We'll throw a party for the whole world.' \"Pir na ves' mir\" is a rhyming saying, 'a feast for the whole world'. \"Mir\" means both 'world' and 'peace'."),
+    (9, None, "'And how will the world hear about it?' \"Ob etom\", 'about it', has \"o\" turning into \"ob\" before a vowel. \"Uznaet\" means 'will find out'."),
+    (10, None, "'I'll take care of that.' \"Beru na sebya\", 'I take onto myself', means 'leave it to me'. Plain \"ya beru\", 'I take', is what you say in a shop when you pick something."),
+    (11, None, "'Got it. Good luck.' \"Ponyatno\", 'understood', means 'got it', said every day. \"Udachi\", 'good luck', is short for 'I wish you luck'."),
+    (12, None, "'Thanks.' \"Spasibo\" comes from an old phrase, \"spasi Bog\", 'God save'. Today it's just 'thanks'."),
 ]

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you go, Igor.' The small word 'vot' points at the dining room. Igor's name needs no change here.
-- 'This is an oasis of French cuisine.' 'Of French cuisine' has an 'oy' ending on 'French' and an 'i' on 'cuisine'. 'Oasis' is a borrowed word.
-- 'A bastion of quality.' 'Enclave' is borrowed too. 'Of quality' needs an 'a' ending.
-- 'So much effort has gone into this place.' 'How much' is used here as an exclamation. 'Effort' is literally 'strengths'.
-- 'A waiter is like my own child.' 'Own' here means 'by blood', which makes the staff almost family. 'Child' is an irregular word.
-- 'Oh, hi, Vilyash.' He greets the wrong person with the casual hello. The name he uses is wrong, which is the joke.
-- 'I'm Nastya, actually.' 'Actually' has the little 'to' added, which sharpens the correction. There's no 'am'.
-- 'She must be new.' 'New girl' is made by adding a small ending to 'new'. 'Probably' is one word.
-- 'Well, let's keep going.' 'We'll go' works as 'let's go'. 'Further' is another handy small word.
-- 'Make us two coffees.' Coffee is masculine and never changes, so 'two' takes its masculine form. 'Make' is the friendly command.
-- 'This is Viktoria Sergeyevna.' He gives her first name and patronymic, the formal way. There's no 'is'.
-- 'The art director of our restaurant.' 'Art director' is a hyphenated compound. 'Of our restaurant' takes an 'ogo' and an 'a'.
-- 'Good afternoon.' The greeting means 'kind day'. Vika keeps it short and formal.
+- 'Here you go, Igor.' "Vot" means 'here it is', said while pointing or handing something over. In the show he calls his friend by the cosier "Igorek".
+- 'This is an oasis of French cuisine.' "Kukhnya" means both 'kitchen' and 'cuisine', and here it's the second. After "oazis" it becomes "frantsuzskoy kukhni", 'of French cuisine'.
+- 'A bastion of quality.' "Anklav" is 'enclave', a fancy borrowed word, which is the point: he's showing off. "Kachestvo", 'quality', becomes "kachestva", 'of quality'.
+- 'So much effort went into this place.' "Skol'ko sil", literally 'how many strengths', stands for 'so much effort'. "Syuda" means 'to here', a direction, while "zdes'" is 'here' as a place.
+- 'A waiter is like my own child.' "Rodnoy" means 'my own, by blood', and it also gives "rodnoy gorod", 'home town'. "Kak", usually 'how', here means 'like'.
+- 'Oh, hi, Vilyash.' "Privet" is the casual 'hi', fine for a friend and a bit much for staff you can't name. "Vilyash" isn't anyone's name here, which is the joke.
+- 'I'm Nastya, actually.' "Voobshche-to", 'actually', corrects someone with a little edge. It's "voobshche", 'in general', plus -to for emphasis.
+- 'She must be new.' "Novenkaya" is 'the new girl', built from "novy", 'new'. "Navernoe", 'probably', turns it into a guess said out loud.
+- 'Well, let's keep going.' "Poydem", literally 'we'll go', works as 'let's go' when you're on foot. "Dal'she", 'further', also means 'next' or 'go on'.
+- 'Make us two coffees.' "Kofe" never changes its ending, so two coffees are just "dva kofe". Officially "kofe" is masculine, which is why it's "dva" and not "dve".
+- 'This is Viktoria Sergeyevna.' The second name is a patronymic, made from her father's name plus -evna, the ending for a daughter. First name and patronymic together are how you're polite at work.
+- 'The art director of our restaurant.' "Art-direktor" comes straight from English. "Nash", 'our', becomes "nashego" and "restoran" becomes "restorana": 'of our restaurant'.
+- 'Good afternoon.' "Dobry den'", literally 'good day', is the polite greeting from late morning to evening. Vika uses it because Igor is a guest she's only just met.

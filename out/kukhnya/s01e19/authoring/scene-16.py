@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "The restaurant's birthday party is going badly. A famous guest has been turned away at the door, and the owner storms in to ask the chef what is going on. Max wanders in at exactly the wrong moment. Let's hear how it sounds in Russian."
-OPENER = "Let's walk through what each line is doing."
-TRANSITION = "Let's hear the whole thing again, start to finish."
-OUTRO = "Barinov has a worse problem than a mood. 'Yest'' means 'there is', but a cook says it to a chef as 'aye, aye', which is a neat double life for one word. See you next time!"
-CLOSING = ('max', 'До свидания!')
+INTRO = "The birthday party is going badly: a famous guest has been turned away at the door, and the owner storms in to ask the chef why. Listen to the Russian once through; don't worry about every word."
+OPENER = 'Now the row again, piece by piece.'
+TRANSITION = "Here's the whole row again, with Max walking in at the end."
+OUTRO = "The owner admitted he's selling, and Max got sent back to the stove, and you followed it all. See you next time!"
+CLOSING = ('barinov', 'Всё, пока!')
 STORY = [
     ('nagiyev', 'Витя, что происходит?', 'Vitya, what is going on?', [(341, 'Вить, что происходит')], ''),
     ('nagiyev', 'Почему к нам не пускают посетителей?', "Why aren't customers being let in?", [(341, 'Почему в мой ресторан не пускают посетителей')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Я иду на кухню.', 'I am going to the kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'What's going on?' 'Happens' is a long one, but 'chto' starts it as in English. There's no 'is'."),
-    (1, None, "'Why aren't customers being let in?' 'They let in' has no 'they', only an ending. 'Visitors' takes the 'of' plural after 'not'."),
-    (2, None, "'We didn't let the famous guest and her mom in.' 'Didn't let in' has a 'li' ending. 'With her mother' needs 'oy' on 'mother'."),
-    (3, None, "'We have a private party.' 'Closed party' is how Russians say 'private'. 'At us' stands for 'we have'."),
-    (4, None, "'She'll kick up a stink on the internet.' The phrase 'raise a stench' is an idiom for making a fuss. 'On the internet' needs an 'e'."),
-    (5, None, "'The restaurant's price could drop a lot.' 'Of the restaurant' follows 'price'. 'Fall' is a finished action."),
-    (6, None, "'So you really are selling it?' The word 'vse-taki' means 'after all'. 'You sell' finishes with 'sh', for the casual 'you'."),
-    (7, None, "'I tried.' 'Try' carries 'sya', and the 'l' says it's a man. A short, tired line."),
-    (8, None, "'Who wants an empty restaurant?' 'To whom needed' is the Russian pattern. 'Empty' agrees with the masculine restaurant."),
-    (9, None, "'This was your idea.' 'Was' ends in 'a' because 'idea' is feminine. Barinov is not letting him off."),
-    (10, None, "'Chef, can I go home?' 'Possible' plus 'to go' plus 'home' makes the question. 'Home' as a direction is one word."),
-    (11, None, "'Will tomorrow's prep do itself?' 'Itself' appears twice, as 'by itself' and 'itself'. 'Prep' comes from 'prepare'."),
-    (12, None, "'Yes, Chef.' The word is 'there is', but cooks say it as 'aye, aye'. A soldier's reply to an order."),
-    (13, None, "'I'm going to the kitchen.' 'I go' is a single short word. 'To the kitchen' uses 'on' and a 'u' ending."),
+    (0, None, "'Vitya, what's going on?' Vitya is the friendly short form of Viktor. \"Chto proiskhodit\" is the everyday 'what's going on?'."),
+    (1, None, "'Why aren't customers being let in?' \"Ne puskayut\", 'they don't let in', has no 'they'; the ending alone stands for whoever does it. \"Posetiteli\", 'visitors', is the word for restaurant customers."),
+    (2, None, "'We didn't let the famous guest and her mom in.' \"S mamoy\", 'with mum', is how Russian says 'and her mum': with, not and. \"Ne pustili\" means 'didn't let in'."),
+    (3, None, "'We have a private party.' \"Zakrytaya vecherinka\" is literally 'closed party'. \"Vecherinka\" comes from \"vecher\", 'evening'."),
+    (4, None, "'She'll kick up a stink on the internet.' \"Podnyat'\" von', 'to raise a stench', is slang for making a big fuss. \"V internete\" is 'on the internet', with \"v\", 'in'."),
+    (5, None, "'The restaurant's price could drop a lot.' \"Tsena restorana\" is 'price of the restaurant', -a doing the 'of'. \"Upast'\" means 'to fall'."),
+    (6, None, "'So you really are selling it?' \"Vsyo-taki\", 'after all', shows Barinov suspected it all along. \"Prodayosh'\", 'you sell', comes from \"prodavat'\"."),
+    (7, None, "'I tried, Vitya.' \"Ya pytalsya\", 'I tried', hints that it didn't work out. \"Pytat'sya\", 'to try', always carries its -sya."),
+    (8, None, "'Who wants an empty restaurant?' \"Komu nuzhen\", 'to whom is needed', means 'who needs'. \"Pustoy\" means 'empty'."),
+    (9, None, "'This was your idea.' \"Byla\", 'was', and \"tvoya\", 'your', both take their -a from \"ideya\", 'idea'."),
+    (10, None, "'Chef, can I go home?' \"Mozhno\", 'is it allowed', is the simplest way to ask permission. \"Domoy\", 'home', is the direction, as when Vika sent her car home."),
+    (11, None, "'Will tomorrow's prep do itself?' \"Sama sebya\", 'itself by itself', is pure sarcasm: nobody else is going to do it. \"Zagotovka\", 'prep', comes from \"gotovit'\", 'to prepare, cook'."),
+    (12, None, "'Yes, Chef.' \"Est'\" normally means 'there is', but in the army and in kitchens it means 'yes, sir'. It's the reply to an order."),
+    (13, None, "'I'm going to the kitchen.' \"Idu\" is 'I go', on foot. \"Na kukhnyu\", 'to the kitchen', is the same as Fedya's on the phone."),
 ]

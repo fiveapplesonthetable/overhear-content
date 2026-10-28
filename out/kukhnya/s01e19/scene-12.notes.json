@@ -2038,23 +2038,23 @@
     },
     {
       "seg": 55,
-      "trans": "Bye!",
+      "trans": "Well, see you!",
       "words": [
         {
-          "t": "До",
-          "lemma": "до",
-          "pos": "prep",
+          "t": "Ну,",
+          "lemma": "ну",
+          "pos": "part",
           "stress": null,
-          "gloss": "until",
-          "gram": "preposition + genitive"
+          "gloss": "oh, come on",
+          "gram": "particle of impatience"
         },
         {
-          "t": "свидания!",
-          "lemma": "свидание",
-          "pos": "noun",
-          "stress": "свида́ния",
-          "gloss": "meeting (goodbye)",
-          "gram": "genitive neuter singular"
+          "t": "увидимся!",
+          "lemma": "увидеться",
+          "pos": "verb",
+          "stress": "уви́димся",
+          "gloss": "will see each other",
+          "gram": "1st person plural future, perfective"
         }
       ]
     }
@@ -5864,66 +5864,63 @@
         }
       ]
     },
-    "до": {
-      "lemma": "до",
-      "stress": "до",
-      "pos": "prep",
-      "gloss": "until, before; up to",
+    "ну": {
+      "lemma": "ну",
+      "stress": "ну",
+      "pos": "part",
+      "gloss": "well; come on",
       "meanings": [
         {
-          "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "en": "well",
+          "note": "hesitation, at the start of a sentence"
         },
         {
-          "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+          "en": "oh come on!",
+          "note": "Ну, папа!. Core Russian part meaning 'well; come on' in everyday speech."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
+          "text": "Ну, папа!",
+          "trans": "Oh, come on, Dad!"
         },
         {
-          "text": "До завтра!",
-          "trans": "See you tomorrow!"
+          "text": "Ну что?",
+          "trans": "Well?"
         },
         {
-          "text": "До вечера!",
-          "trans": "See you tonight!"
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
         }
       ],
       "related": [
         {
-          "word": "дойти",
-          "gloss": "to reach, walk as far as"
+          "word": "ну-ка",
+          "gloss": "come on, let's see"
         },
         {
-          "word": "после",
-          "gloss": "after"
+          "word": "ладно",
+          "gloss": "alright"
         }
       ]
     },
-    "свидание": {
-      "lemma": "свидание",
-      "stress": "свида́ние",
-      "pos": "noun",
-      "gloss": "meeting; date",
-      "gender": "n",
+    "увидеться": {
+      "lemma": "увидеться",
+      "stress": "уви́деться",
+      "pos": "verb",
+      "gloss": "to see each other, meet up",
+      "aspect": "pf",
+      "pair": "видеться",
       "meanings": [
         {
-          "en": "до свидания = goodbye",
-          "note": "Literally 'until the meeting'. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
-        },
-        {
-          "en": "date (romantic)",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+          "en": "to see each other, meet",
+          "note": "Prefix 'у-' marks departure, removal, or successful completion (stem 'видеться'). Reflexive/intransitive verb with the postfix '-ся'/'-сь' (historically from the reflexive pronoun 'себя', oneself). Used as an perfective (single completed action) verb meaning 'to see each other, meet up', paired with 'видеться'."
         }
       ],
       "forms": {
-        "title": "Declension",
+        "title": "Future",
         "columns": [
           "",
           "sg",
@@ -5932,66 +5929,75 @@
         "rows": [
           {
             "cells": [
-              "nominative",
-              "свидание",
-              "свидания"
+              "1st",
+              "увижусь",
+              "увидимся"
             ]
           },
           {
             "cells": [
-              "genitive",
-              "свидания",
-              "свиданий"
+              "2nd",
+              "увидишься",
+              "увидитесь"
             ]
           },
           {
             "cells": [
-              "dative",
-              "свиданию",
-              "свиданиям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "свидание",
-              "свидания"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "свиданием",
-              "свиданиями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "свидании",
-              "свиданиях"
+              "3rd",
+              "увидится",
+              "увидятся"
             ]
           }
         ]
       },
-      "moreForms": [],
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "увиделся",
+                "увиделась",
+                "увиделось",
+                "увиделись"
+              ]
+            }
+          ]
+        }
+      ],
       "examples": [
         {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
+          "text": "Послушай, мы сегодня увидимся вечером с тобой?",
+          "trans": "Listen, will we see each other this evening?"
         },
         {
-          "text": "У меня сегодня свидание.",
-          "trans": "I have a date today."
+          "text": "Увидимся завтра!",
+          "trans": "See you tomorrow!"
         },
         {
-          "text": "У неё свидание.",
-          "trans": "She has a date."
+          "text": "Хорошо, увидимся на кухне, администратор!",
+          "trans": "All right, see you in the kitchen, administrator!"
         }
       ],
       "related": [
         {
-          "word": "видать",
+          "word": "видеться",
+          "gloss": "to see each other"
+        },
+        {
+          "word": "видеть",
+          "gloss": "to see"
+        },
+        {
+          "word": "увидеть",
           "gloss": "to see"
         }
       ]

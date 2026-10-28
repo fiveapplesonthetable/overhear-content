@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = 'At the bar, Kostya tries to cheer Max up after the bouquet, and he does it with a line about boats and the ocean. Max is not fooled by the poetry for long. Listen to it in Russian first.'
-OPENER = "Now we'll look at each line."
-TRANSITION = "Let's finish by hearing it all again."
-OUTRO = "Kostya's wise saying turns out to be someone else's status message. The word 'Nastin' is made from a name by adding 'in', and it means 'Nastya's', which is how Russians show who owns what. See you next time!"
-CLOSING = ('kostya', 'До свидания!')
+INTRO = "Later at the bar, Kostya tries to cheer Max up after that bouquet, with a line about boats and the ocean. Listen in Russian before anything else; don't chase every word."
+OPENER = "Now let's go through the pep talk slowly."
+TRANSITION = "Here's the whole pep talk again, boat and all."
+OUTRO = "Kostya's big wisdom turned out to be borrowed, but you can now say glavnoe for 'the main thing'. See you next time!"
+CLOSING = ('kostya', 'Ладно, увидимся!')
 STORY = [
     ('kostya', 'Макс, ты только не переживай.', 'Max, just do not worry.', [(174, 'Ты только не переживай')], ''),
     ('max', 'А как тут не переживать?', 'And how can I not worry here?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Наверное, она пишет про ваши отношения.', 'Probably she is writing about your relationship.', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, just don't worry.' 'Just not' stands in front of the command. 'Worry' is a word that also means 'live through'."),
-    (1, None, "'How can I not worry?' 'How' plus 'not' plus the plain form means 'how can I not'. 'Here' is a filler."),
-    (2, None, "'Did you see that huge bouquet?' 'Saw' ends in the masculine 'l'. 'Huge' and 'bouquet' agree, both masculine."),
-    (3, None, "'The size of the bouquet isn't important at all.' 'Of the bouquet' needs an 'a' ending. 'Important' is a short masculine form."),
-    (4, None, "'The main thing isn't the size of the boat.' The dash is the 'is'. 'Of the boat' carries 'i'."),
-    (5, None, "'The main thing is the swell of the ocean.' 'Swell' comes from 'wave' and also means 'worry'. 'Of the ocean' takes an 'a' ending."),
-    (6, None, "'Wait, where did such beautiful words come from?' 'From where' is one word on its own. 'Such beautiful words' is all plural."),
-    (7, None, "'Did you read someone's status on the internet?' 'Someone's' is made with a tail on 'whose'. 'Read through' is a finished action, and 'on the internet' needs an 'e'."),
-    (8, None, "'Yes, it's Nastya's new status.' Russians make 'Nastya's' by adding 'in' to the name. It acts like an adjective, so it agrees with 'status'."),
-    (9, None, "'She wrote it this morning.' 'Wrote' ends in 'a', for a woman. 'This morning' is made from 'today' and 'in the morning'."),
-    (10, None, "'I wonder what she's hinting at.' 'Interesting' is used on its own as 'I wonder'. 'About what' is two small words."),
-    (11, None, "'She's probably writing about your relationship.' 'Writes' finishes with 't' for 'she'. 'About' takes the plural 'your relationship'."),
+    (0, None, "'Max, just do not worry.' \"Ne perezhivay\", 'don't worry', is one of the most useful lines in Russian. \"Tol'ko\", usually 'only', here softens it to 'just'."),
+    (1, None, "'And how can I not worry here?' Russian asks this with the dictionary form: \"kak ne perezhivat'\", 'how not to worry'. No 'I' or 'can' is needed."),
+    (2, None, "'Did you see that huge bouquet?' \"Videl\", 'saw', is the form for a man, because Kostya is the one asked. \"Buket\" comes from French bouquet."),
+    (3, None, "'The size of the bouquet is not important at all.' \"Razmer buketa\" is 'size of the bouquet', with -a doing the work of 'of'. \"Vazhen\" is the short form of \"vazhny\", 'important'."),
+    (4, None, "'The main thing is not the size of the boat.' \"Glavnoe\", 'the main thing', starts countless Russian sentences. \"Lodka\", 'boat', becomes \"lodki\" after \"razmer\"."),
+    (5, None, "'The main thing is the swell of the ocean.' \"Volnenie\" comes from \"volna\", 'wave', and it also means 'nerves, excitement'. So the line is a pun about feelings."),
+    (6, None, "'Wait, where are such beautiful words from?' Otkuda means 'from where'. Russian keeps three of these apart: \"gde\" 'where', \"kuda\" 'where to' and otkuda 'where from'."),
+    (7, None, "'Did you read someone's status on the internet?' \"Chey-to\" is 'someone's', from \"chey\", 'whose', plus -to. Status is a social media post here, same as in English."),
+    (8, None, "'Yes, it is Nastya's new status.' \"Nastin\" means 'Nastya's'; add -in to a name like hers and you get 'belonging to'. \"Mama\" gives \"mamin\", 'Mum's'."),
+    (9, None, "'She wrote it this morning.' \"Segodnya utrom\" is 'this morning', literally 'today in the morning'. \"Napisala\", 'wrote', has a feminine -a, since Nastya is the writer."),
+    (10, None, "'I wonder what she is hinting at?' \"Interesno\", 'interesting', opens the sentence where English says 'I wonder'. \"O chyom\", 'about what', asks what something's about."),
+    (11, None, "'Probably she is writing about your relationship.' \"Vashi\", 'your', is plural because Max means Kostya and Nastya. \"Pro\", 'about', is the chattier partner of \"o\"."),
 ]

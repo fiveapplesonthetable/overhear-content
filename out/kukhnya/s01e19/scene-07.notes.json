@@ -1636,23 +1636,23 @@
     },
     {
       "seg": 51,
-      "trans": "See you soon!",
+      "trans": "All the best!",
       "words": [
         {
-          "t": "До",
-          "lemma": "до",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "until",
-          "gram": "preposition + genitive"
+          "t": "Всего",
+          "gloss": "all",
+          "gram": "genitive neuter singular",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": "всего́"
         },
         {
-          "t": "скорого!",
-          "lemma": "скорый",
+          "t": "доброго!",
+          "gloss": "good",
+          "gram": "genitive singular, neuter",
+          "lemma": "добрый",
           "pos": "adj",
-          "stress": "ско́рого",
-          "gloss": "speedy, quick",
-          "gram": "genitive singular, neuter"
+          "stress": "до́брого"
         }
       ]
     }
@@ -2526,48 +2526,6 @@
         {
           "word": "дело",
           "gloss": "matter"
-        }
-      ]
-    },
-    "до": {
-      "lemma": "до",
-      "stress": "до",
-      "pos": "prep",
-      "gloss": "until, before; up to",
-      "meanings": [
-        {
-          "en": "until, till",
-          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
-        },
-        {
-          "en": "до свидания = goodbye",
-          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "До свидания!",
-          "trans": "Goodbye!"
-        },
-        {
-          "text": "До завтра!",
-          "trans": "See you tomorrow!"
-        },
-        {
-          "text": "До вечера!",
-          "trans": "See you tonight!"
-        }
-      ],
-      "related": [
-        {
-          "word": "дойти",
-          "gloss": "to reach, walk as far as"
-        },
-        {
-          "word": "после",
-          "gloss": "after"
         }
       ]
     },
@@ -4063,109 +4021,6 @@
         }
       ]
     },
-    "скорый": {
-      "lemma": "скорый",
-      "stress": "ско́рый",
-      "pos": "adj",
-      "gloss": "speedy, quick",
-      "meanings": [
-        {
-          "en": "speedy, quick",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'корый'). Agrees in gender, number, and case with the noun it modifies ('speedy, quick')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "скорый",
-              "скорая",
-              "скорое",
-              "скорые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "скорого",
-              "скорой",
-              "скорого",
-              "скорых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "скорому",
-              "скорой",
-              "скорому",
-              "скорым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "скорый",
-              "скорую",
-              "скорое",
-              "скорые"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "скорым",
-              "скорой",
-              "скорым",
-              "скорыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "скором",
-              "скорой",
-              "скором",
-              "скорых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Макс Лавров? Привет, давай скорее обнимемся!",
-          "trans": "Max Lavrov? Hi, let's hug right away!"
-        },
-        {
-          "text": "Ладно, иди готовь скорее своего дорогого короля!",
-          "trans": "Fine, go prepare your expensive king right away!"
-        },
-        {
-          "text": "Гуля, подойди скорее сюда, у меня важное поручение.",
-          "trans": "Gulya, come over here quickly, I have an important errand."
-        }
-      ],
-      "related": [
-        {
-          "word": "скоро",
-          "gloss": "speedyly (adverbial form)"
-        },
-        {
-          "word": "очень скорый",
-          "gloss": "very speedy"
-        }
-      ]
-    },
     "слушать": {
       "lemma": "слушать",
       "stress": "слу́шать",
@@ -5057,6 +4912,228 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "весь": {
+      "lemma": "весь",
+      "stress": "весь",
+      "pos": "det",
+      "gloss": "all, whole; everyone, everything",
+      "meanings": [
+        {
+          "en": "all, the whole",
+          "note": "The neuter form 'всё' used alone. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+        },
+        {
+          "en": "everything",
+          "note": "Neuter всё. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+        },
+        {
+          "en": "everyone",
+          "note": "Plural все. Core Russian det meaning 'all, whole; everyone, everything' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "весь",
+              "вся",
+              "всё",
+              "все"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "всего",
+              "всей",
+              "всего",
+              "всех"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "всему",
+              "всей",
+              "всему",
+              "всем"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "весь / всего",
+              "всю",
+              "всё",
+              "все / всех"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "всем",
+              "всей",
+              "всем",
+              "всеми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "всём",
+              "всей",
+              "всём",
+              "всех"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Всё нормально.",
+          "trans": "Everything's fine."
+        },
+        {
+          "text": "Как вы все знаете...",
+          "trans": "As you all know..."
+        },
+        {
+          "text": "Поделись со всеми.",
+          "trans": "Share with everyone."
+        }
+      ],
+      "related": [
+        {
+          "word": "всё",
+          "gloss": "everything"
+        },
+        {
+          "word": "все",
+          "gloss": "everyone"
+        },
+        {
+          "word": "всегда",
+          "gloss": "always"
+        }
+      ]
+    },
+    "добрый": {
+      "lemma": "добрый",
+      "stress": "до́брый",
+      "pos": "adj",
+      "gloss": "kind; good",
+      "meanings": [
+        {
+          "en": "kind",
+          "note": "About people. Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'брый'). Agrees in gender, number, and case with the noun it modifies ('kind; good')."
+        },
+        {
+          "en": "good",
+          "note": "in greetings: добрый день, добрый вечер"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "добрый",
+              "добрая",
+              "доброе",
+              "добрые"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "доброго",
+              "доброй",
+              "доброго",
+              "добрых"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "доброму",
+              "доброй",
+              "доброму",
+              "добрым"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "добрый / доброго",
+              "добрую",
+              "доброе",
+              "добрые / добрых"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "добрым",
+              "доброй",
+              "добрым",
+              "добрыми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "добром",
+              "доброй",
+              "добром",
+              "добрых"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Добрый вечер!",
+          "trans": "Good evening!"
+        },
+        {
+          "text": "Она очень добрая.",
+          "trans": "She is very kind."
+        },
+        {
+          "text": "Добрый вечер, Вика. С Новым годом!",
+          "trans": "Good evening, Vika. Happy New Year!"
+        }
+      ],
+      "related": [
+        {
+          "word": "добро",
+          "gloss": "in a kind way (adv.)"
+        },
+        {
+          "word": "добрость",
+          "gloss": "quality of being kind"
         }
       ]
     }

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, look over there quickly.' The command is casual. 'There' means 'to there', as Max is pointing.
-- 'What happened, Max?' 'Happened' finishes with 'sya' and is neuter. 'What' sits at the front.
-- 'What is Vika talking about with that man?' 'About what' is two words. 'With this man' takes 'im' and 'om' endings.
-- 'Max, I have no idea at all.' The phrase is 'without an idea', and it is a set idiom. 'Anyway' is the long word you've already heard.
-- 'This man gave her a huge bouquet.' 'Gave as a gift' is one word. 'To her' is the short word 'ey'.
-- 'Maybe he's just a regular guest.' A regular guest is a 'constant' guest in Russian. 'Maybe' is built from 'can be'.
-- 'They're smiling at each other too sweetly.' 'Each other' is literally 'friend to friend'. 'Too' goes in front of 'sweetly'.
-- 'You shouldn't worry so much.' 'It's not worth to you' is the pattern. 'So much' is two small words.
-- 'Kostya, go a bit closer to them.' The prefix 'po' makes 'closer' into 'a bit closer'. 'Go up' also has a prefix.
-- 'Why should I go up to their table?' 'What for' asks about purpose, not cause. 'To their little table' has a 'u' ending.
-- 'Listen to what they're discussing now.' 'Listen' is an action seen as complete of command. 'They discuss' is plural.
-- 'Fine, I'll go and find out everything.' Two verbs side by side with 'and'. 'Find out' treats the action as done.
-- 'Thanks, friend, I'm waiting for news.' 'News' is plural and takes an 'ey' ending after 'wait for'. 'Friend' is the casual form of address.
+- 'Kostya, look over there quickly.' "Tuda" means 'to there', the direction of the look, not the place. "Skoree", 'quicker', makes it urgent.
+- 'What happened, Max?' "Chto sluchilos'" is the standard 'what's wrong?'. You'll hear it whenever someone looks upset.
+- 'What is Vika talking about with that person?' "S etim chelovekom" is 'with that person', and both words grow an ending after "s". Chelovek, 'person', is a word you'll use daily.
+- 'Max, I have no idea at all.' "Bez ponyatiya" is literally 'without a notion'. "Voobshche", 'at all', makes it stronger.
+- 'This man gave her a huge bouquet.' "Podaril" means 'gave as a gift', from "podarok", 'present'. "Ey" is 'to her'.
+- 'Maybe it is just a regular guest.' "Postoyanny gost'" is literally 'constant guest', the restaurant word for a regular. "Mozhet byt'" is the full form of 'maybe'.
+- 'They are smiling too sweetly at each other.' "Drug drugu", 'each other', is literally 'friend to friend'. "Milo", 'sweetly', comes from "mily", 'sweet, cute'.
+- 'You should not worry so much.' "Tebe ne stoit", word for word 'it's not worth it to you', gently tells someone they shouldn't.
+- 'Kostya, get closer to them.' "Poblizhe" is 'a bit closer': po- in front of "blizhe" softens it. "Podoydi" means 'walk up to'.
+- 'Why should I approach their table?' "Stolik" is 'little table', from "stol", and in restaurants it's always "stolik". Zachem asks 'what for'.
+- 'Listen to what they are discussing right now.' "Poslushay" is 'go and have a listen'. Plain "slushay" is the 'listen' that starts a sentence, like Max's 'Listen, maybe we could go...' earlier.
+- 'Fine, I will go and find out everything.' "Ladno" is an 'okay' with a sigh in it. Uznayu, 'I'll find out', comes from "znat'", 'to know'.
+- 'Thank you, friend, I await the news.' "Zhdu novostey" is 'I wait for news'. "Novost'" means one piece of news; in Russian news can be counted.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What's going on?' 'Happens' is a long one, but 'chto' starts it as in English. There's no 'is'.
-- 'Why aren't customers being let in?' 'They let in' has no 'they', only an ending. 'Visitors' takes the 'of' plural after 'not'.
-- 'We didn't let the famous guest and her mom in.' 'Didn't let in' has a 'li' ending. 'With her mother' needs 'oy' on 'mother'.
-- 'We have a private party.' 'Closed party' is how Russians say 'private'. 'At us' stands for 'we have'.
-- 'She'll kick up a stink on the internet.' The phrase 'raise a stench' is an idiom for making a fuss. 'On the internet' needs an 'e'.
-- 'The restaurant's price could drop a lot.' 'Of the restaurant' follows 'price'. 'Fall' is a finished action.
-- 'So you really are selling it?' The word 'vse-taki' means 'after all'. 'You sell' finishes with 'sh', for the casual 'you'.
-- 'I tried.' 'Try' carries 'sya', and the 'l' says it's a man. A short, tired line.
-- 'Who wants an empty restaurant?' 'To whom needed' is the Russian pattern. 'Empty' agrees with the masculine restaurant.
-- 'This was your idea.' 'Was' ends in 'a' because 'idea' is feminine. Barinov is not letting him off.
-- 'Chef, can I go home?' 'Possible' plus 'to go' plus 'home' makes the question. 'Home' as a direction is one word.
-- 'Will tomorrow's prep do itself?' 'Itself' appears twice, as 'by itself' and 'itself'. 'Prep' comes from 'prepare'.
-- 'Yes, Chef.' The word is 'there is', but cooks say it as 'aye, aye'. A soldier's reply to an order.
-- 'I'm going to the kitchen.' 'I go' is a single short word. 'To the kitchen' uses 'on' and a 'u' ending.
+- 'Vitya, what's going on?' Vitya is the friendly short form of Viktor. "Chto proiskhodit" is the everyday 'what's going on?'.
+- 'Why aren't customers being let in?' "Ne puskayut", 'they don't let in', has no 'they'; the ending alone stands for whoever does it. "Posetiteli", 'visitors', is the word for restaurant customers.
+- 'We didn't let the famous guest and her mom in.' "S mamoy", 'with mum', is how Russian says 'and her mum': with, not and. "Ne pustili" means 'didn't let in'.
+- 'We have a private party.' "Zakrytaya vecherinka" is literally 'closed party'. "Vecherinka" comes from "vecher", 'evening'.
+- 'She'll kick up a stink on the internet.' "Podnyat'" von', 'to raise a stench', is slang for making a big fuss. "V internete" is 'on the internet', with "v", 'in'.
+- 'The restaurant's price could drop a lot.' "Tsena restorana" is 'price of the restaurant', -a doing the 'of'. "Upast'" means 'to fall'.
+- 'So you really are selling it?' "Vsyo-taki", 'after all', shows Barinov suspected it all along. "Prodayosh'", 'you sell', comes from "prodavat'".
+- 'I tried, Vitya.' "Ya pytalsya", 'I tried', hints that it didn't work out. "Pytat'sya", 'to try', always carries its -sya.
+- 'Who wants an empty restaurant?' "Komu nuzhen", 'to whom is needed', means 'who needs'. "Pustoy" means 'empty'.
+- 'This was your idea.' "Byla", 'was', and "tvoya", 'your', both take their -a from "ideya", 'idea'.
+- 'Chef, can I go home?' "Mozhno", 'is it allowed', is the simplest way to ask permission. "Domoy", 'home', is the direction, as when Vika sent her car home.
+- 'Will tomorrow's prep do itself?' "Sama sebya", 'itself by itself', is pure sarcasm: nobody else is going to do it. "Zagotovka", 'prep', comes from "gotovit'", 'to prepare, cook'.
+- 'Yes, Chef.' "Est'" normally means 'there is', but in the army and in kitchens it means 'yes, sir'. It's the reply to an order.
+- 'I'm going to the kitchen.' "Idu" is 'I go', on foot. "Na kukhnyu", 'to the kitchen', is the same as Fedya's on the phone.

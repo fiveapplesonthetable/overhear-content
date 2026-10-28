@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, just don't worry.' 'Just not' stands in front of the command. 'Worry' is a word that also means 'live through'.
-- 'How can I not worry?' 'How' plus 'not' plus the plain form means 'how can I not'. 'Here' is a filler.
-- 'Did you see that huge bouquet?' 'Saw' ends in the masculine 'l'. 'Huge' and 'bouquet' agree, both masculine.
-- 'The size of the bouquet isn't important at all.' 'Of the bouquet' needs an 'a' ending. 'Important' is a short masculine form.
-- 'The main thing isn't the size of the boat.' The dash is the 'is'. 'Of the boat' carries 'i'.
-- 'The main thing is the swell of the ocean.' 'Swell' comes from 'wave' and also means 'worry'. 'Of the ocean' takes an 'a' ending.
-- 'Wait, where did such beautiful words come from?' 'From where' is one word on its own. 'Such beautiful words' is all plural.
-- 'Did you read someone's status on the internet?' 'Someone's' is made with a tail on 'whose'. 'Read through' is a finished action, and 'on the internet' needs an 'e'.
-- 'Yes, it's Nastya's new status.' Russians make 'Nastya's' by adding 'in' to the name. It acts like an adjective, so it agrees with 'status'.
-- 'She wrote it this morning.' 'Wrote' ends in 'a', for a woman. 'This morning' is made from 'today' and 'in the morning'.
-- 'I wonder what she's hinting at.' 'Interesting' is used on its own as 'I wonder'. 'About what' is two small words.
-- 'She's probably writing about your relationship.' 'Writes' finishes with 't' for 'she'. 'About' takes the plural 'your relationship'.
+- 'Max, just do not worry.' "Ne perezhivay", 'don't worry', is one of the most useful lines in Russian. "Tol'ko", usually 'only', here softens it to 'just'.
+- 'And how can I not worry here?' Russian asks this with the dictionary form: "kak ne perezhivat'", 'how not to worry'. No 'I' or 'can' is needed.
+- 'Did you see that huge bouquet?' "Videl", 'saw', is the form for a man, because Kostya is the one asked. "Buket" comes from French bouquet.
+- 'The size of the bouquet is not important at all.' "Razmer buketa" is 'size of the bouquet', with -a doing the work of 'of'. "Vazhen" is the short form of "vazhny", 'important'.
+- 'The main thing is not the size of the boat.' "Glavnoe", 'the main thing', starts countless Russian sentences. "Lodka", 'boat', becomes "lodki" after "razmer".
+- 'The main thing is the swell of the ocean.' "Volnenie" comes from "volna", 'wave', and it also means 'nerves, excitement'. So the line is a pun about feelings.
+- 'Wait, where are such beautiful words from?' Otkuda means 'from where'. Russian keeps three of these apart: "gde" 'where', "kuda" 'where to' and otkuda 'where from'.
+- 'Did you read someone's status on the internet?' "Chey-to" is 'someone's', from "chey", 'whose', plus -to. Status is a social media post here, same as in English.
+- 'Yes, it is Nastya's new status.' "Nastin" means 'Nastya's'; add -in to a name like hers and you get 'belonging to'. "Mama" gives "mamin", 'Mum's'.
+- 'She wrote it this morning.' "Segodnya utrom" is 'this morning', literally 'today in the morning'. "Napisala", 'wrote', has a feminine -a, since Nastya is the writer.
+- 'I wonder what she is hinting at?' "Interesno", 'interesting', opens the sentence where English says 'I wonder'. "O chyom", 'about what', asks what something's about.
+- 'Probably she is writing about your relationship.' "Vashi", 'your', is plural because Max means Kostya and Nastya. "Pro", 'about', is the chattier partner of "o".

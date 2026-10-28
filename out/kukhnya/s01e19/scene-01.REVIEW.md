@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Разбудил? | Woke me up, did you? | #1 00:00:21: Расбудил? Конечно, нет. | verbatim |
+| 1 | Макс | Разбудил? | Did I wake you? | #1 00:00:21: Расбудил? Конечно, нет. | verbatim |
 | 2 | Макс | Прости меня, пожалуйста. | Please forgive me. | #5 00:00:35: Прости меня, пожалуйста, я так устал. | verbatim |
 | 3 | Вика | Где ты вообще был? | Where were you, anyway? | #7 00:00:42: И где ты вообще был? | verbatim |
 | 4 | Макс | Что тут допрос такой? | What is this, an interrogation? | #8 00:00:44: А, что вообще тут допрос такой, а? | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Woke me up, did you?' One word does the work of four. The 'l' ending tells you it's a man who did it, and 'wake up' is built from the plain word for waking with a prefix on the front.
-- 'Please forgive me.' 'Forgive' is the informal order, and 'me' takes the 'a' form, 'menya'. Max says it the way a child does.
-- 'Where were you, anyway?' 'Anyway' is a long word, 'voobshche', which is said 'vaapshe'. 'Were' finishes with 'l' for a man.
-- 'What is this, an interrogation?' 'What kind of' is made with 'chto za', as in many Russian questions. 'Interrogation' is a noun built from 'to ask'.
-- 'You think you can roam wherever you like?' 'Anywhere' is literally 'where it pleases', two words. The slangy word for 'roam' carries 'sya', so it's 'roam oneself'.
-- 'And come home at three?' Russians say 'in three hours' for 'at three o'clock', and after 'three' 'hour' is shortened. 'Come' is the ongoing kind, for a habit.
-- 'Quarter to.' The Russian is 'without fifteen', since the minutes before the hour are 'without'. Max leaves the hour out, because they both know it's three.
-- 'What kind of relationship do we have?' 'At us' stands for 'we have'. 'Relationship' is always plural in Russian when it means a relationship between two people.
-- 'We have an open relationship.' 'Free' is the Russian for 'open' here, from the same family as 'freedom'. Max says it with a grin.
-- 'It's all fine.' Russian spells 'everything' and 'everyone' the same way when the two dots are left off. Here it clearly means 'everything', so it's 'everything's fine'.
-- 'Since we have an open relationship...' The small word 'raz' means 'since' or 'if it is so'. Vika picks up Max's own words and turns them back on him.
-- 'You're free tonight.' 'Free' is the same as in the 'free relationship', but now a short masculine form. The tiny 'na' in front of 'today' makes it 'for today'.
+- 'Did I wake you?' One word, "razbudil", does the job of a whole question. It's "raz-" plus "budit'", 'to wake', and the -l ending shows a man is talking about himself.
+- 'Please forgive me.' "Prosti" is what you say to someone you call "ty"; a boss gets "prostite". "Menya", 'me', is how ya looks when someone does something to you.
+- 'Where were you, anyway?' "Voobshche", 'anyway', is written with "shch" but said fast, closer to 'vapshe'. "Byl", 'were', is the man's form; about herself Vika would say "byla".
+- 'What is this, an interrogation?' "Dopros" is police-style questioning, and it shares a root with "sprosit'", 'to ask'. Such a heavy word is Max going on the attack.
+- 'You think you can wander off anywhere?' "Gde ugodno" means 'wherever you please', and the same "ugodno" gives "kto ugodno", 'anyone at all'. "Shlyat'sya" is a rude word for roaming about with no good reason.
+- 'And stroll in at three o'clock?' "V" tri chasa is 'at three o'clock': "v" plus the time. After tri, "chas", 'hour', becomes chasa.
+- 'Quarter to.' "Bez pyatnadtsati", literally 'without fifteen', gives a quarter to the hour. Max corrects her by fifteen minutes, as if that helps.
+- 'What kind of relationship do we have?' "Chto" za means 'what kind of', and here it's split around "u nas". "Otnosheniya" is plural, the way English sometimes says 'relations'.
+- 'We have an open relationship.' "U nas", literally 'at us', gives 'we have'. "Svobodnye" means 'free', the word Russians use where English says 'open'.
+- 'Everything is fine.' "Vsyo khorosho", 'all is good', is something you'll hear constantly. In print the dots on yo are often dropped, so it looks just like "vse", 'everyone'.
+- 'Since we have an open relationship,' "Raz" usually means 'once', as in "odin raz", but at the start of a sentence it means 'since'. Vika is setting Max's own words up as a trap.
+- 'You're free for tonight.' "Svoboden" is the short form of "svobodny", the one used for 'you are free'. "Na segodnya" means 'for today', as in plans for the day.
