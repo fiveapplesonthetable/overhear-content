@@ -19,8 +19,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Макс | Он вам дорогие подарки дарит. | He gives you expensive presents. | #280 00:18:34: подарки вам дорогие дарит. | verbatim |
 | 8 | Макс | Нужно быть благодарной. | You ought to be grateful. | #281 00:18:37: Нужно же быть благодарной. | verbatim |
 | 9 | Вика | Раз ты так хочешь, я так и сделаю. | Since you want it that way, I will do just that. | #282 00:18:39: раз ты так настаиваешь, я так и поступлю. | verbatim |
-| 10 | Макс | Извините. Это нормально, да? | Excuse me. Is this normal? | #283 00:18:45: Извините. Это нормально, да? | verbatim |
-| 11 | Гость | Ну, бывает. | Well, it happens. | #285 00:18:51: Ну, бывает. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -33,5 +31,3 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He gives you expensive presents.' The word darit means 'to give as a present', rather than just 'to give'.
 - 'You ought to be grateful.' The ending -oy on blagodarnoy shows he means a woman; to a man it would be blagodarnym.
 - 'Since you want it that way, I'll do just that.' The word raz usually means 'once', and here it means 'since'.
-- 'Excuse me. Is this normal?' Russian uses normalno, 'normal', all the time for 'okay' or 'fine'.
-- 'Well, it happens.' The word byvaet, 'it happens', is what you say in Russian to shrug something off.
