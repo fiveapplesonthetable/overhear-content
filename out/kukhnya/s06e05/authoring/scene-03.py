@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e05-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 5
 SCENE = 3
-TITLE = 'Утреннее шампанское  (Morning Champagne)'
+TITLE = "Утреннее шампанское  (Morning Champagne)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'gost': 'angelina'}
-LABELS = {'anya': 'Костя', 'mikhail': 'Михаил', 'gost': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja"}
+LABELS = {"guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.05'
 SOURCE_FILE = 'sources/kukhnya/s06/e05.ru.srt'
 
 INTRO = 'Down in the lobby and dining room, Denis waits for Katya while Mikhail boasts about his card hand, until Kostya accidentally douses an important guest with champagne.'
 
 STORY = [
-    ('anya', 'Катя, я жду тебя внизу.', 'Katya, I am waiting for you downstairs.', [(41, 'Жду тебя')], 'adapted'),
-    ('mikhail', 'У меня не хватило одной карты.', 'I was short by just one card.', [(42, 'у меня не хватило какой-то там')], 'adapted'),
-    ('anya', 'Ты мне что-то хотел сказать?', 'Did you want to tell me something?', [(44, 'ты мне что-то хотел сказать')], 'adapted'),
-    ('gost', 'Что вы тут вообще делаете?', 'What on earth are you doing here?', [(47, 'Что вы делаете')], 'adapted'),
-    ('mikhail', 'Я управляющий этим большим отелем.', 'I am the manager of this big hotel.', [(48, 'Я управляющий отелем')], 'adapted'),
-    ('gost', 'Вы же на ногах не стоите!', 'You can barely stand on your feet!', [(50, 'Да вы на ногах не стоите')], 'adapted'),
-    ('gost', 'Я лично знаком с хозяйкой отеля.', 'I personally know the owner of the hotel.', [(51, 'я знаком с хозяйкой отеля')], 'adapted'),
-    ('gost', 'Она сегодня же об этом узнает.', 'She will find out about this today.', [(52, 'Она сегодня об этом узнает')], 'adapted'),
-    ('mikhail', 'Пожалуйста, не говорите ей ничего.', 'Please do not tell her anything.', [(52, 'Пожалуйста, не говорите ей ничего')], 'adapted'),
-    ('mikhail', 'Послушайте, сегодня всё за наш счёт.', 'Listen, everything is on the house today.', [(54, 'Послушайте, все за наш счет')], 'adapted'),
-    ('gost', 'Вы у нас в отеле проживаете?', 'Are you staying at our hotel?', [(55, 'Вы у нас проживаете')], 'adapted'),
-    ('anya', 'Пойдём быстрее отсюда на кухню.', 'Let us go quickly from here to the kitchen.', [(56, 'Пойдем отсюда')], 'adapted'),
+    ('guest', 'Катя, я жду тебя внизу.', 'Katya, I am waiting for you downstairs.', [(41, 'Жду тебя')], 'adapted'),
+    ('guest', 'У меня не хватило одной карты.', 'I was short by just one card.', [(42, 'у меня не хватило какой-то там')], 'adapted'),
+    ('guest', 'Ты мне что-то хотел сказать?', 'Did you want to tell me something?', [(44, 'ты мне что-то хотел сказать')], 'adapted'),
+    ('guest', 'Что вы тут вообще делаете?', 'What on earth are you doing here?', [(47, 'Что вы делаете')], 'adapted'),
+    ('guest', 'Я управляющий этим большим отелем.', 'I am the manager of this big hotel.', [(48, 'Я управляющий отелем')], 'adapted'),
+    ('guest', 'Вы же на ногах не стоите!', 'You can barely stand on your feet!', [(50, 'Да вы на ногах не стоите')], 'adapted'),
+    ('guest', 'Я лично знаком с хозяйкой отеля.', 'I personally know the owner of the hotel.', [(51, 'я знаком с хозяйкой отеля')], 'adapted'),
+    ('guest', 'Она сегодня же об этом узнает.', 'She will find out about this today.', [(52, 'Она сегодня об этом узнает')], 'adapted'),
+    ('guest', 'Пожалуйста, не говорите ей ничего.', 'Please do not tell her anything.', [(52, 'Пожалуйста, не говорите ей ничего')], 'adapted'),
+    ('guest', 'Послушайте, сегодня всё за наш счёт.', 'Listen, everything is on the house today.', [(54, 'Послушайте, все за наш счет')], 'adapted'),
+    ('guest', 'Вы у нас в отеле проживаете?', 'Are you staying at our hotel?', [(55, 'Вы у нас проживаете')], 'adapted'),
+    ('guest', 'Пойдём быстрее отсюда на кухню.', 'Let us go quickly from here to the kitchen.', [(56, 'Пойдем отсюда')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Mikhail barely avoids a scandal with Eleonora by offering the soaked guest free service, while Chef Barinov pulls him away before things get worse. See you in the next scene.'
-CLOSING = ('mikhail', 'Хватит уже смеяться надо мной.')
+OUTRO = 'Mikhail barely avoids a scandal with Eleonora by offering the soaked guest free service, while Chef Barinov pulls him away before things get worse. Until next time!'
+CLOSING = ("guest", "Пока!")

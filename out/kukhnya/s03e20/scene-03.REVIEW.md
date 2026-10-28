@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Wait a second, did the two of you already see each other yesterday?' the inspector chooses the respectful plural 'you' alongside 'saw each other' to keep a polite distance.
 - 'Yes, Olya helped me with the hotel yesterday.' In Russian, the idea of 'yes' flows naturally into 'with the hotel' without extra filler words.
 - 'Olga, tell me, is it fashionable to walk around like that now?' Spoken Russian keeps this brisk, leaning on 'Olga' and finishing on 'go'.
-- 'Look, you are missing one earring in your ear.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'no'.
+- 'Look, you are missing one earring in your ear.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Andrey, put it in your pocket, or I will lose this one too.' Notice how Russian expresses 'Andrei' and 'I will lose' with crisp inflection rather than helper words.
 - 'It is time for me to go, it turns out we have to save profitability!' An emphatic spoken line centered on the verb meaning 'to go'.

@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'She did that on purpose.' The grammar packs 'she' and 'on purpose' into a tight, idiomatic kitchen exchange.
 - 'You saw it yourself.' The meaning hinges on 'you' working together with 'to see' in spoken Russian.
 - 'Why did you put it right next to the edge?' Kostya brings out the contrast between 'what for' and 'you' in a few short words. Nastya answers right away.
-- 'What about me?' The grammar packs 'and' and 'I' into a tight, idiomatic kitchen exchange.
+- 'What about me?' In spoken Russian, the words stay in their normal statement order and Nastya's rising voice at the end turns the line into a question.
 - 'Let us sit down and eat.' Notice how Russian expresses 'let's' and 'will eat' with crisp inflection rather than helper words.
 - 'I did not even use it.' The meaning hinges on 'I' working together with 'to use' in spoken Russian. Nastya answers right away.
 - 'I do not want anything of yours at all.' In Russian, the idea of 'for me' flows naturally into 'at' without extra filler words.

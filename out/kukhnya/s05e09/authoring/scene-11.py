@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e09-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 9
 SCENE = 11
 TITLE = "Честный ответ Макса  (Max's Honest Answer)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.09'
 SOURCE_FILE = 'sources/kukhnya/s05/e09.ru.srt'
 
 INTRO = 'When Vika smells alcohol behind the bar and asks Kostya if he broke a bottle, Kostya turns to Max to back up his alibi. Refusing to break his promise of honesty, Max tells Vika the truth, which finally convinces her to let him help with the crib.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that concludes the dining room exchange. Listen for how Max apologizes to Kostya because he promised Vika not to lie, and then spots an intruder in the locker room. See you in the next scene.'
-CLOSING = ('anya', 'Я обещал не врать!')
+OUTRO = 'And that concludes the dining room exchange. Listen for how Max apologizes to Kostya because he promised Vika not to lie, and then spots an intruder in the locker room. Until next time!'
+CLOSING = ("anya", "Хорошего дня!")

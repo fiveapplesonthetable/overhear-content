@@ -1,25 +1,25 @@
 ID = 'kukhnya-s03e12-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 12
 SCENE = 5
-TITLE = 'Нагиев идёт на переговоры  (Nagiyev Goes to Negotiate)'
+TITLE = "Нагиев идёт на переговоры  (Nagiyev Goes to Negotiate)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja'}
-LABELS = {'anya': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.12'
 SOURCE_FILE = 'sources/kukhnya/s03/e12.ru.srt'
 
 INTRO = "Grandpa Kirill's latest prank sends guests fleeing from the dining room of Claude Monet. Chef Barinov suggests calming the old man down with cognac and a heart-to-heart talk, but Dmitry Nagiyev decides to use his own celebrity charm instead. Listen to the Russian scene first."
 
 STORY = [
     ('nagiyev', 'Мы обязательно решим эту проблему, друзья.', 'We will definitely solve this problem, friends.', [(76, 'Мы решим эту проблему, друзья')], 'adapted'),
-    ('anya', 'Кирилл Ильич, ну что ты начинаешь?', 'Kirill Ilyich, why are you starting this?', [(77, 'Кирилл Ильич, ну что ты')], 'adapted'),
-    ('anya', 'Мы же тебя кормим на высшем уровне.', 'We feed you at the highest level.', [(78, 'Мы же тебя кормим на высшем уровне')], 'adapted'),
+    ('chef', 'Кирилл Ильич, ну что ты начинаешь?', 'Kirill Ilyich, why are you starting this?', [(77, 'Кирилл Ильич, ну что ты')], 'adapted'),
+    ('chef', 'Мы же тебя кормим на высшем уровне.', 'We feed you at the highest level.', [(78, 'Мы же тебя кормим на высшем уровне')], 'adapted'),
     ('nagiyev', 'Витя, ты только у себя на кухне главный.', 'Vitya, you are only the boss in your own kitchen.', [(81, 'у себя на кухне')], 'adapted'),
-    ('anya', 'Этому деду особый подход нужен.', 'This old man needs a special approach.', [(83, 'Деду особый подход нужен')], 'adapted'),
-    ('anya', 'Надо с ним поговорить по душам.', 'We need to have a heart-to-heart talk with him.', [(84, 'поговорить по душам')], 'adapted'),
+    ('chef', 'Этому деду особый подход нужен.', 'This old man needs a special approach.', [(83, 'Деду особый подход нужен')], 'adapted'),
+    ('chef', 'Надо с ним поговорить по душам.', 'We need to have a heart-to-heart talk with him.', [(84, 'поговорить по душам')], 'adapted'),
     ('nagiyev', 'Понятно, тебе лишь бы выпить, да?', 'I see, you just want an excuse to drink, right?', [(85, 'Понятно, тебе лишь бы выпить, да')], 'adapted'),
     ('nagiyev', 'И лишь бы поговорить по душам.', 'And just to chat heart to heart.', [(86, 'по душам')], 'adapted'),
     ('nagiyev', 'Опять мне всё самому решать.', 'Once again I have to solve everything myself.', [(87, 'Опять все самому решать')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Confident that his fame will win over the retired officer, Nagiyev marches upstairs to Kirill Ilyich's door. In the next scene, we see how Grandpa Kirill reacts when he recognizes Nagiyev from television."
-CLOSING = ('nagiyev', 'Опять всё самому решать.')
+OUTRO = "Confident that his fame will win over the retired officer, Nagiyev marches upstairs to Kirill Ilyich's door. Until next time!"
+CLOSING = ("nagiyev", "Пока!")

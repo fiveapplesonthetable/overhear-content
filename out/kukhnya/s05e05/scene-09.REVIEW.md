@@ -15,13 +15,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Элеонора | Деньги пойдут на благотворительность. | The money will go to charity. | #145 00:09:46: Деньги пойдут на благотворительность | adapted: adapted |
 | 4 | Элеонора | А вот это моя гордость. | And this right here is my pride. | #147 00:09:51: А вот это моя гордость | adapted: adapted |
 | 5 | Элеонора | Называется «Бывший муж». | It is called 'Ex-Husband.' | #148 00:09:54: Называется «Бывший муж» | adapted: adapted |
-| 6 | Аня | А я принесу шампанское. | And I will bring champagne. | #149 00:09:59: А я принесу шампанское | adapted: adapted |
+| 6 | Шеф | А я принесу шампанское. | And I will bring champagne. | #149 00:09:59: А я принесу шампанское | adapted: adapted |
 | 7 | Элеонора | Я вижу, он так и не признался тебе. | I see he still has not confessed to you. | #150 00:10:06: Я вижу, он так и не признался тебе | adapted: adapted |
 | 8 | Элеонора | Лена, я не хочу тебя обманывать. | Lena, I do not want to deceive you. | #151 00:10:09: Лена, я не хочу тебя обманывать | adapted: adapted |
 | 9 | Элеонора | Мой первый муж Виктор Петрович. | My first husband is Victor Petrovich. | #152 00:10:10: Мой первый муж Виктор Петрович | adapted: adapted |
-| 10 | Елена | Какой Виктор Петрович? | Which Victor Petrovich? | #153 00:10:13: Какой Виктор Петрович | adapted: adapted |
+| 10 | Элеонора | Какой Виктор Петрович? | Which Victor Petrovich? | #153 00:10:13: Какой Виктор Петрович | adapted: adapted |
 | 11 | Элеонора | Потому что он трус и лжец. | Because he is a coward and a liar. | #156 00:10:23: потому что он патологический трус<br>#157 00:10:25: И лжец | adapted: adapted |
-| 12 | Аня | Мне с работы позвонили, я пойду. | They called me from work, I will go. | #163 00:10:41: Мне с работы позвонили<br>#164 00:10:43: Я, видимо, пойду | adapted: adapted |
+| 12 | Шеф | Мне с работы позвонили, я пойду. | They called me from work, I will go. | #163 00:10:41: Мне с работы позвонили<br>#164 00:10:43: Я, видимо, пойду | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

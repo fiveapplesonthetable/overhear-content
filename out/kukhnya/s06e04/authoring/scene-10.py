@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e04-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 4
 SCENE = 10
-TITLE = 'Инспектор спускается в зал  (The Inspector Comes Down to the Dining Room)'
+TITLE = "Инспектор спускается в зал  (The Inspector Comes Down to the Dining Room)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'angelina', 'senya': 'anja'}
-LABELS = {'anya': 'Шеф', 'nastya': 'Настя', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nastya": "angelina"}
+LABELS = {"chef": "Шеф", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.04'
 SOURCE_FILE = 'sources/kukhnya/s06/e04.ru.srt'
 
 INTRO = 'When Olivier walks into the dining room wearing a sharp suit and glasses, Nastya takes his order with trembling hands, and Chef Barinov insists on washing the knives and cooking every dish himself.'
 
 STORY = [
-    ('anya', 'Денис, начинай играть, я думаю, инспектор сейчас спустится.', 'Denis, start playing, I think the inspector will come down right now.', [(162, 'Денис, начинай играть. Я думаю, инспектор сейчас спустится')], 'exact'),
-    ('senya', 'Шикарно выглядишь сегодня.', 'You look sharp today.', [(165, 'Шикарно выглядишь')], 'adapted'),
-    ('anya', 'Я похож на старого инспектора?', 'Do I look like an old inspector?', [(166, 'Я похож на старого инспектора?')], 'exact'),
+    ('chef', 'Денис, начинай играть, я думаю, инспектор сейчас спустится.', 'Denis, start playing, I think the inspector will come down right now.', [(162, 'Денис, начинай играть. Я думаю, инспектор сейчас спустится')], 'exact'),
+    ('nastya', 'Шикарно выглядишь сегодня.', 'You look sharp today.', [(165, 'Шикарно выглядишь')], 'adapted'),
+    ('chef', 'Я похож на старого инспектора?', 'Do I look like an old inspector?', [(166, 'Я похож на старого инспектора?')], 'exact'),
     ('nastya', 'Я подхожу, а он на меня как посмотрит!', 'I walk up, and the way he looks at me!', [(168, 'подхожу, а он на меня как посмотрит')], 'adapted'),
     ('nastya', 'Мне даже плохо стало.', 'I even felt faint.', [(168, 'мне аж плохо стало')], 'adapted'),
-    ('anya', 'Настя, что он заказал?', 'Nastya, what did he order?', [(169, 'Настя! Что он заказал?')], 'exact'),
+    ('chef', 'Настя, что он заказал?', 'Nastya, what did he order?', [(169, 'Настя! Что он заказал?')], 'exact'),
     ('nastya', 'Филе голубя и блюдо из рыбы.', 'Fillet of pigeon and the fish dish.', [(170, 'Голубя и')], 'adapted'),
-    ('senya', 'Сейчас приготовим, нам две звезды даст!', 'We will cook it right now, he will give us two stars!', [(171, 'нам две звезды даст')], 'adapted'),
-    ('anya', 'Готовить буду я, а ты мне дашь чистые ножи.', 'I will do the cooking, and you give me clean knives.', [(172, 'готовить буду я, а ты мне'), (172, 'чистые ножи')], 'adapted'),
-    ('senya', 'Шеф, а почему я?', 'Chef, why me?', [(173, 'Шеф, а чего?')], 'adapted'),
-    ('anya', 'Да, ты прав, ножи я тоже сам помою.', 'Yes, you are right, I will wash the knives myself too.', [(173, 'Да, ты прав'), (174, 'Ножи я тоже сам помою')], 'adapted'),
-    ('anya', 'Сейчас папочка будет творить историю!', 'Right now Daddy is going to make history!', [(176, 'Сейчас папочка будет творить историю')], 'exact'),
+    ('nastya', 'Сейчас приготовим, нам две звезды даст!', 'We will cook it right now, he will give us two stars!', [(171, 'нам две звезды даст')], 'adapted'),
+    ('chef', 'Готовить буду я, а ты мне дашь чистые ножи.', 'I will do the cooking, and you give me clean knives.', [(172, 'готовить буду я, а ты мне'), (172, 'чистые ножи')], 'adapted'),
+    ('nastya', 'Шеф, а почему я?', 'Chef, why me?', [(173, 'Шеф, а чего?')], 'adapted'),
+    ('chef', 'Да, ты прав, ножи я тоже сам помою.', 'Yes, you are right, I will wash the knives myself too.', [(173, 'Да, ты прав'), (174, 'Ножи я тоже сам помою')], 'adapted'),
+    ('chef', 'Сейчас папочка будет творить историю!', 'Right now Daddy is going to make history!', [(176, 'Сейчас папочка будет творить историю')], 'exact'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Refusing to trust anyone else with his Michelin destiny, Barinov plates the wild pigeon and carries it out to Olivier's table himself. See you in the next scene."
-CLOSING = ('anya', 'Готовить буду только я!')
+OUTRO = "Refusing to trust anyone else with his Michelin destiny, Barinov plates the wild pigeon and carries it out to Olivier's table himself. See you next time!"
+CLOSING = ("chef", "Пока!")

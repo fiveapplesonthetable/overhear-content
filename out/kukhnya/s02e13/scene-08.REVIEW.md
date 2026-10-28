@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Алло, Лёва. | Hello, Lyova. | #116 00:08:57: Алло, Лёва | verbatim |
+| 1 | Шеф | Алло, Лёва. | Hello, Lyova. | #116 00:08:57: Алло, Лёва | verbatim |
 | 2 | Вика | Привези мне нормальной еды. | Bring me some normal food. | #117 00:09:01: привези мне нормальной еды | verbatim |
-| 3 | Федя | Виктор Петрович. | Viktor Petrovich. | #119 00:09:10: Виктор Петрович | verbatim |
-| 4 | Аня | Чем за последние три года. | More than in the last three years. | #120 00:09:14: чем за последние три года | verbatim |
+| 3 | Шеф | Виктор Петрович. | Viktor Petrovich. | #119 00:09:10: Виктор Петрович | verbatim |
+| 4 | Шеф | Чем за последние три года. | More than in the last three years. | #120 00:09:14: чем за последние три года | verbatim |
 | 5 | Вика | Я звоню врачу и знаю. | I call the doctor and I know everything. | #121 00:09:17: Я звоню врачу и знаю | verbatim |
-| 6 | Федя | И поверьте мне. | And believe me. | #122 00:09:21: И поверьте мне | verbatim |
-| 7 | Аня | Я не могу говорить. | I cannot talk right now. | #123 00:09:24: я не могу говорить | verbatim |
+| 6 | Шеф | И поверьте мне. | And believe me. | #122 00:09:21: И поверьте мне | verbatim |
+| 7 | Шеф | Я не могу говорить. | I cannot talk right now. | #123 00:09:24: я не могу говорить | verbatim |
 | 8 | Вика | Иуда. Предатель. | Judas. Traitor. | #124 00:09:28: Иуда. Предатель | verbatim |
-| 9 | Федя | Алло, Федя, срочно привези мне в больницу стейк. | Hello, Fedya, urgently bring a steak to me at the hospital. | #126 00:09:33: Алло, Федя, срочно привези мне в больницу стейк | verbatim |
-| 10 | Аня | Какой только есть в ресторане. | Whatever steak we have in the restaurant. | #127 00:09:38: какой только есть в ресторане | verbatim |
+| 9 | Шеф | Алло, Федя, срочно привези мне в больницу стейк. | Hello, Fedya, urgently bring a steak to me at the hospital. | #126 00:09:33: Алло, Федя, срочно привези мне в больницу стейк | verbatim |
+| 10 | Шеф | Какой только есть в ресторане. | Whatever steak we have in the restaurant. | #127 00:09:38: какой только есть в ресторане | verbatim |
 | 11 | Вика | Не могу говорить. | I cannot talk now. | #128 00:09:41: Не могу говорить | verbatim |
-| 12 | Федя | Очень занят. | I am very busy. | #129 00:09:45: Очень занят | verbatim |
-| 13 | Аня | Все меня предали. | Everyone has betrayed me. | #130 00:09:51: Все меня предали | verbatim |
+| 12 | Шеф | Очень занят. | I am very busy. | #129 00:09:45: Очень занят | verbatim |
+| 13 | Шеф | Все меня предали. | Everyone has betrayed me. | #130 00:09:51: Все меня предали | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

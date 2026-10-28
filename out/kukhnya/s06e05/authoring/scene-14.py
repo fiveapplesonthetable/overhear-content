@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e05-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 5
 SCENE = 14
-TITLE = 'Где взять миллион  (Where to Get a Million)'
+TITLE = "Где взять миллион  (Where to Get a Million)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nastya": "angelina"}
+LABELS = {"chef": "Шеф", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.05'
 SOURCE_FILE = 'sources/kukhnya/s06/e05.ru.srt'
 
 INTRO = 'Behind closed doors, Eleonora gloats to Nagiyev that Victor will never find a million rubles by tomorrow, while Chef Barinov agonizes over his wedding savings.'
 
 STORY = [
-    ('anya', 'Думаешь, этот хитрый план сработает?', 'Do you think this clever plan will work?', [(215, 'сработает? Конечно, сработает')], 'adapted'),
-    ('mikhail', 'Откуда у него такие большие деньги?', 'Where would he get that kind of big money?', [(216, 'Откуда у него бабки такие')], 'adapted'),
-    ('mikhail', 'Вернёт он тебе это старое меню.', 'He will bring that old menu back to you.', [(217, 'Вернет он тебе это старое меню')], 'adapted'),
+    ('chef', 'Думаешь, этот хитрый план сработает?', 'Do you think this clever plan will work?', [(215, 'сработает? Конечно, сработает')], 'adapted'),
+    ('chef', 'Откуда у него такие большие деньги?', 'Where would he get that kind of big money?', [(216, 'Откуда у него бабки такие')], 'adapted'),
+    ('chef', 'Вернёт он тебе это старое меню.', 'He will bring that old menu back to you.', [(217, 'Вернет он тебе это старое меню')], 'adapted'),
     ('nastya', 'Костик, я сейчас отлучусь ненадолго.', 'Kostik, I am stepping out for a little while now.', [(218, 'Костик, я отлучусь ненадолго')], 'adapted'),
     ('nastya', 'У Никиты я уже сама отпросилась.', 'I already asked Nikita for time off myself.', [(219, 'У Никиты я отпросилась')], 'adapted'),
-    ('anya', 'Ты куда это собралась, Настя?', 'Where are you heading off to, Nastya?', [(220, 'Ты куда, Настя')], 'adapted'),
-    ('mikhail', 'Витя, деньги нам нужны уже завтра.', 'Vitya, we need the money tomorrow already.', [(222, 'Деньги нужны завтра')], 'adapted'),
-    ('anya', 'Ясно, я тебя прекрасно услышал.', 'Clear, I heard you loud and clear.', [(223, 'Ясно')], 'adapted'),
-    ('mikhail', 'Что, у тебя совсем нет денег?', 'What, do you have no money at all?', [(224, 'Что, проблемы? Вообще ноль')], 'adapted'),
-    ('anya', 'Да нет, есть как раз миллион.', 'Actually no, I have a million right there.', [(225, 'Да нет, есть как раз миллион')], 'adapted'),
-    ('anya', 'Мы его с Леной на свадьбу откладывали.', 'Lena and I were saving it for our wedding.', [(226, 'Мы его с Леной на свадьбу откладывали')], 'adapted'),
-    ('mikhail', 'Я бы тебе обязательно помог, друг.', 'I would definitely help you, my friend.', [(227, 'Не, ну я бы помог, конечно')], 'adapted'),
+    ('chef', 'Ты куда это собралась, Настя?', 'Where are you heading off to, Nastya?', [(220, 'Ты куда, Настя')], 'adapted'),
+    ('chef', 'Витя, деньги нам нужны уже завтра.', 'Vitya, we need the money tomorrow already.', [(222, 'Деньги нужны завтра')], 'adapted'),
+    ('chef', 'Ясно, я тебя прекрасно услышал.', 'Clear, I heard you loud and clear.', [(223, 'Ясно')], 'adapted'),
+    ('chef', 'Что, у тебя совсем нет денег?', 'What, do you have no money at all?', [(224, 'Что, проблемы? Вообще ноль')], 'adapted'),
+    ('chef', 'Да нет, есть как раз миллион.', 'Actually no, I have a million right there.', [(225, 'Да нет, есть как раз миллион')], 'adapted'),
+    ('chef', 'Мы его с Леной на свадьбу откладывали.', 'Lena and I were saving it for our wedding.', [(226, 'Мы его с Леной на свадьбу откладывали')], 'adapted'),
+    ('chef', 'Я бы тебе обязательно помог, друг.', 'I would definitely help you, my friend.', [(227, 'Не, ну я бы помог, конечно')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With Mikhail broke and Eleonora demanding cash by morning, Chef Barinov is sorely tempted to dip into the forbidden wedding piggy bank. See you in the next scene.'
-CLOSING = ('anya', 'Надо срочно что-то придумать.')
+OUTRO = 'With Mikhail broke and Eleonora demanding cash by morning, Chef Barinov is sorely tempted to dip into the forbidden wedding piggy bank. See you next time!'
+CLOSING = ("chef", "Увидимся!")

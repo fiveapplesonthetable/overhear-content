@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e19-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 14
-TITLE = 'Забытый базилик и встреча друзей  (The Forgotten Basil and Reunion of Friends)'
+TITLE = "Забытый базилик и встреча друзей  (The Forgotten Basil and Reunion of Friends)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'rodion': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'rodion': 'Родион', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "rodion": "anja", "anya": "alisa", "nagiyev": "angelina"}
+LABELS = {"rodion": "Родион", "anya": "Макс", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = 'Realizing he forgot to add basil to the Provençal lamb, a tipsy Rodion bursts into the dining room! When Andrey Mikhailovich tries to throw him out and Nagiyev defends him, the St. Petersburg investor recognizes Rodion!'
@@ -34,10 +34,10 @@ WALK = [
     (0, None, "'Now I serve the culinary art with saffron and basil.' The grammar packs 'now' and 'with basil' into a tight, idiomatic kitchen exchange."),
     (1, None, "'Basil! I completely forgot to put basil in there!' Rodion anchors the line on 'basil', while 'there' completes the thought. Max answers right away."),
     (2, None, "'Wait, Rodion Sergeyevich, you are not allowed in the dining room!' The grammar packs 'wait' and 'one must not' into a tight, idiomatic kitchen exchange."),
-    (3, None, "'There must definitely be fresh basil in this dish!' In Russian, the idea of 'this' flows naturally into 'basil' without extra filler words."),
+    (3, None, "'There must definitely be fresh basil in this dish!' Notice how Russian puts 'dish; course' and 'basil' together in a short, direct phrase where word endings show how the ideas connect."),
     (4, None, "'Is that you again? Get out of here quickly!' The grammar packs 'this' and 'from here' into a tight, idiomatic kitchen exchange. Rodion answers right away."),
     (5, None, "'I brought this for our lamb, it is roasted after all.' Here the Russian phrasing highlights 'I' before landing on 'roasted'."),
-    (6, None, "'You were put here to be the face, not to hand out advice!' In Russian, the idea of 'you' flows naturally into 'to hand out' without extra filler words."),
+    (6, None, "'You were put here to be the face, not to hand out advice!' Max pairs 'locked up, put in prison' with 'to hand out / give' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (7, None, "'Look how cheeky you are! Maybe I should escort you out of here?' Dmitry Nagiyev anchors the line on 'look', while 'to escort out' completes the thought. Max answers right away."),
     (8, None, "'Guys, stop fighting in the dining room immediately!' Here the Russian phrasing highlights 'guys' before landing on 'hall'."),
     (9, None, "'Wait a second, Rodion, is that really you?' Dmitry Nagiyev anchors the line on 'wait', while 'you' completes the thought."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "The entire dining room gasps: the courtyard's homeless philosopher is actually missing St. Petersburg tycoon Rodion Gromov!"
-CLOSING = ('rodion', 'Я забыл положить туда базилик!')
+OUTRO = "The entire dining room gasps: the courtyard's homeless philosopher is actually missing St. Petersburg tycoon Rodion Gromov! See you next time!"
+CLOSING = ("rodion", "До встречи!")

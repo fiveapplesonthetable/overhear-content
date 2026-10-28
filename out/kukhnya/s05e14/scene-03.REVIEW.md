@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сеня, принеси-ка мне свежий лимончик. | Senya, bring me a fresh little lemon slice. | #56 00:03:21: принеси-ка мне лимончик | adapted: adapted |
-| 2 | Аня | Времени у меня сейчас ещё целый вагон. | I still have plenty of time right now. | #57 00:03:24: у меня еще вагон | adapted: adapted |
+| 1 | Шеф | Сеня, принеси-ка мне свежий лимончик. | Senya, bring me a fresh little lemon slice. | #56 00:03:21: принеси-ка мне лимончик | adapted: adapted |
+| 2 | Шеф | Времени у меня сейчас ещё целый вагон. | I still have plenty of time right now. | #57 00:03:24: у меня еще вагон | adapted: adapted |
 | 3 | Сеня | Хорошо, Виктор Петрович, сейчас принесу. | Alright, Viktor Petrovich, I will bring it right now. | #58 00:03:25: Хорошо | adapted: adapted |
-| 4 | Аня | Предлагаю тост за самую лёгкую победу! | I propose a toast to the easiest victory! | #60 00:03:30: За самую легкую победу | adapted: adapted |
-| 5 | Аня | Подожди, это ещё что тут за дела? | Wait, what kind of trick is this here? | #62 00:03:40: что за дела | adapted: adapted |
-| 6 | Михаил | Витя, мои бокалы руками не трогать, помнишь? | Vitya, do not touch my glasses with your hands, remember? | #62 00:03:40: бокалы не трогать, помнишь | adapted: adapted |
-| 7 | Михаил | Иначе ты сразу проиграл наш спор! | Otherwise you immediately lost our bet! | #63 00:03:45: Иначе ты проиграл | adapted: adapted |
-| 8 | Аня | А как же мне тогда достать рюмку? | Then how am I supposed to get the shot glass? | #64 00:03:48: А как же тогда | adapted: adapted |
-| 9 | Михаил | А никак, Витя, совсем никак не достанешь! | In no way, Vitya, you cannot get it at all! | #65 00:03:50: А никак | adapted: adapted |
-| 10 | Аня | Ты же специально это заранее придумал! | You thought this up on purpose in advance! | #62 00:03:40: что за дела | adapted: adapted |
-| 11 | Михаил | Уговор дороже денег, отдавай мне билет. | A deal is a deal, hand the ticket over to me. | #63 00:03:45: ты проиграл | adapted: adapted |
-| 12 | Аня | Ладно, забирай, но я это запомню! | Fine, take it, but I will remember this! | #58 00:03:25: Хорошо | adapted: adapted |
+| 4 | Шеф | Предлагаю тост за самую лёгкую победу! | I propose a toast to the easiest victory! | #60 00:03:30: За самую легкую победу | adapted: adapted |
+| 5 | Шеф | Подожди, это ещё что тут за дела? | Wait, what kind of trick is this here? | #62 00:03:40: что за дела | adapted: adapted |
+| 6 | Шеф | Витя, мои бокалы руками не трогать, помнишь? | Vitya, do not touch my glasses with your hands, remember? | #62 00:03:40: бокалы не трогать, помнишь | adapted: adapted |
+| 7 | Шеф | Иначе ты сразу проиграл наш спор! | Otherwise you immediately lost our bet! | #63 00:03:45: Иначе ты проиграл | adapted: adapted |
+| 8 | Шеф | А как же мне тогда достать рюмку? | Then how am I supposed to get the shot glass? | #64 00:03:48: А как же тогда | adapted: adapted |
+| 9 | Шеф | А никак, Витя, совсем никак не достанешь! | In no way, Vitya, you cannot get it at all! | #65 00:03:50: А никак | adapted: adapted |
+| 10 | Шеф | Ты же специально это заранее придумал! | You thought this up on purpose in advance! | #62 00:03:40: что за дела | adapted: adapted |
+| 11 | Шеф | Уговор дороже денег, отдавай мне билет. | A deal is a deal, hand the ticket over to me. | #63 00:03:45: ты проиграл | adapted: adapted |
+| 12 | Шеф | Ладно, забирай, но я это запомню! | Fine, take it, but I will remember this! | #58 00:03:25: Хорошо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

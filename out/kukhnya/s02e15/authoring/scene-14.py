@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e15-scene-14"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e15-scene-14'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 15
 SCENE = 14
 TITLE = "Отказ Нагиева и приглашение Елены  (Nagiyev's Refusal and Inviting Elena)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Елена', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.15"
-SOURCE_FILE = "sources/kukhnya/s02/e15.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "elena": "angelina", "kostya": "anja"}
+LABELS = {"elena": "Елена", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.15'
+SOURCE_FILE = 'sources/kukhnya/s02/e15.ru.srt'
 
 INTRO = 'In the office, Nagiyev thinks Max is joking when the young cook asks to borrow money and sends him away empty-handed. Back in the kitchen, Chef Barinov calls Elena Pavlovna to announce that the apartment is completely free for the evening.'
 
 STORY = [
-    ('anya', 'Не понял.', 'I do not understand.', [(235, 'Не понял')], ''),
+    ('elena', 'Не понял.', 'I do not understand.', [(235, 'Не понял')], ''),
     ('kostya', 'В этом смысле?', 'In that sense?', [(237, 'В этом смысле')], ''),
-    ('anya', 'За наглость.', 'For sheer nerve.', [(239, 'за наглость')], ''),
+    ('elena', 'За наглость.', 'For sheer nerve.', [(239, 'за наглость')], ''),
     ('kostya', 'Ты что?', 'What is with you?', [(240, 'Ты что')], ''),
-    ('anya', 'Я же пошутил.', 'I was only joking.', [(241, 'Я же пошутил')], ''),
+    ('elena', 'Я же пошутил.', 'I was only joking.', [(241, 'Я же пошутил')], ''),
     ('kostya', 'Разговаривать умеет?', 'Does he know how to talk?', [(243, 'разговаривать умеет')], ''),
-    ('anya', 'Степан Андреевич?', 'Stepan Andreyevich?', [(244, 'Степан Андреевич')], ''),
+    ('elena', 'Степан Андреевич?', 'Stepan Andreyevich?', [(244, 'Степан Андреевич')], ''),
     ('kostya', 'Елена Павловна, у меня мама на балет ушла.', 'Elena Pavlovna, my mother has gone out to the ballet.', [(245, 'Елена Павловна, у меня мама на балет ушла')], ''),
-    ('anya', 'Почему пешком?', 'Why walk on foot?', [(247, 'Почему пешком')], ''),
+    ('elena', 'Почему пешком?', 'Why walk on foot?', [(247, 'Почему пешком')], ''),
     ('kostya', 'Я хотел сказать?', 'What I meant to say was...', [(248, 'Я хотел сказать')], ''),
-    ('anya', 'Да? Хорошо?', 'Really? Sounds good?', [(249, 'Да? Хорошо')], ''),
+    ('elena', 'Да? Хорошо?', 'Really? Sounds good?', [(249, 'Да? Хорошо')], ''),
     ('kostya', 'Ну, тогда что?', 'Well then, what do you say?', [(250, 'Ну, тогда что')], ''),
-    ('anya', 'До встречи.', 'See you soon.', [(251, 'До встречи')], ''),
+    ('elena', 'До встречи.', 'See you soon.', [(251, 'До встречи')], ''),
 ]
 
 OPENER = "Let's replay the exchange and look closely at each Russian phrase."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 14 of Episode 15, listen out for the exchange around nagiyev's refusal and inviting elena — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'До встречи.')
+OUTRO = "That wraps up this scene as nagiyev laughs off Max's request for a loan, while Chef Barinov calls Elena Pavlovna to invite her to his apartment now that his mother is at the ballet. See you next time!"
+CLOSING = ("elena", "Всего хорошего!")

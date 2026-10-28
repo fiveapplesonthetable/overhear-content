@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e14-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 14
 SCENE = 5
-TITLE = 'Вызов на разговор и взятка  (Summoned for a Talk and a Bribe)'
+TITLE = "Вызов на разговор и взятка  (Summoned for a Talk and a Bribe)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'guest': 'Гость', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "anya": "alisa"}
+LABELS = {"guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.14'
 SOURCE_FILE = 'sources/kukhnya/s03/e14.ru.srt'
 
 INTRO = 'At Table Seven, the driver and his tough friends order Max to step outside with them, so Max stalls by claiming he has a dish to finish stuffing. Meanwhile, Chef Barinov offers Stas one hundred thousand rubles to leave Katya. Listen first.'
@@ -24,9 +24,9 @@ STORY = [
     ('guest', 'Иди давай, мы тебя ждём на улице.', 'Go on then, we are waiting for you outside.', [(71, 'Иди давай, мы тебя ждем уже')], 'adapted'),
     ('anya', 'Здорово, батя, зачем ты звонил?', 'Hey, pops, why did you call?', [(73, 'Здорово, батя')], 'adapted'),
     ('anya', 'Вчера как-то неудобно у нас получилось.', 'Things turned out rather awkwardly between us yesterday.', [(75, 'вчера как-то неудобно получилось')], 'adapted'),
-    ('chef', 'Тебе нужны деньги, а мне нужна дочь.', 'You need money, and I need my daughter.', [(77, 'Тебе ж нужны деньги, а мне нужна дочь')], 'adapted'),
+    ('guest', 'Тебе нужны деньги, а мне нужна дочь.', 'You need money, and I need my daughter.', [(77, 'Тебе ж нужны деньги, а мне нужна дочь')], 'adapted'),
     ('anya', 'Понял, а сколько здесь денег?', 'Got it, and how much money is here?', [(78, 'А сколько здесь')], 'adapted'),
-    ('chef', 'Здесь ровно сто тысяч рублей.', 'There is exactly one hundred thousand rubles here.', [(79, 'Сто тысяч')], 'adapted'),
+    ('guest', 'Здесь ровно сто тысяч рублей.', 'There is exactly one hundred thousand rubles here.', [(79, 'Сто тысяч')], 'adapted'),
     ('anya', 'А у тебя ещё дочки есть?', 'Do you have any more daughters?', [(81, 'А у тебя еще дочки есть')], 'adapted'),
 ]
 
@@ -42,7 +42,7 @@ WALK = [
     (6, None, "'I will finish stuffing it right now and come right out.' The meaning hinges on 'I' working together with 'I'll get out' in spoken Russian."),
     (7, None, "'Go on then, we are waiting for you outside.' Notice how Russian expresses 'go' and 'street' with crisp inflection rather than helper words. Max answers right away."),
     (8, None, "'Hey, pops, why did you call?' Max anchors the line on 'great', while 'called' completes the thought."),
-    (9, None, "'Things turned out rather awkwardly between us yesterday.' Notice the reflexive suffix on the verb meaning 'turned out', turning the action back on the subject."),
+    (9, None, "'Things turned out rather awkwardly between us yesterday.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (10, None, "'You need money, and I need my daughter.' Chef Barinov addresses the listener with the informal singular 'you' alongside 'daughter'. Max answers right away."),
     (11, None, "'Got it, and how much money is here?' The '-l' ending on the verb meaning 'understood' places the action in the masculine past tense."),
     (12, None, "'There is exactly one hundred thousand rubles here.' Chef Barinov anchors the line on 'here', while 'rubles' completes the thought."),
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Stas happily pockets the money—wait until Katya finds out what her father just did! In the next scene, Max tries to sneak home while Katya confronts Barinov.'
-CLOSING = ('chef', 'Здесь ровно сто тысяч.')
+OUTRO = 'Stas happily pockets the money—wait until Katya finds out what her father just did! Until next time!'
+CLOSING = ("guest", "Пока!")

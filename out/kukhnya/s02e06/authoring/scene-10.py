@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e06-scene-10"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e06-scene-10'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 6
 SCENE = 10
-TITLE = 'Лёд для Лёвы и вызов к хозяину  (Ice for Lyova and a Summons to the Owner)'
+TITLE = "Лёд для Лёвы и вызов к хозяину  (Ice for Lyova and a Summons to the Owner)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja'}
-LABELS = {'anya': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.06"
-SOURCE_FILE = "sources/kukhnya/s02/e06.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.06'
+SOURCE_FILE = 'sources/kukhnya/s02/e06.ru.srt'
 
 INTRO = 'At the end of the flashback, Nastya brings a pale, sweating Lyova a bucket of ice in the walk-in cooler after the spiked salad takes effect. Back in the present, Chef Barinov notices how pale Max looks and sends him out to the dining room to make amends with the VIP guest whose parking spot he challenged.'
 
 STORY = [
-    ('anya', 'Шеф сказал лёд принести.', 'The Chef told me to bring you some ice.', [(164, 'Шеф сказал лёд принести')], ''),
+    ('chef', 'Шеф сказал лёд принести.', 'The Chef told me to bring you some ice.', [(164, 'Шеф сказал лёд принести')], ''),
     ('lyova', 'Сказал, вы ударились.', 'He said you bumped yourself.', [(165, 'Сказал, вы ударились')], ''),
-    ('anya', 'А, да.', 'Oh, yes.', [(165, 'А, да')], ''),
+    ('chef', 'А, да.', 'Oh, yes.', [(165, 'А, да')], ''),
     ('lyova', 'Я вам помогу.', 'I will help you with that.', [(167, 'Я вам помогу')], ''),
-    ('anya', 'Я сам.', 'I can do it myself.', [(168, 'Я сам')], ''),
+    ('chef', 'Я сам.', 'I can do it myself.', [(168, 'Я сам')], ''),
     ('lyova', 'Да ладно, мне не сложно.', 'Oh come on, it is no trouble for me.', [(169, 'Да ладно, мне не сложно')], ''),
-    ('anya', 'Спасибо, не надо.', 'Thank you, there is no need.', [(170, 'Спасибо, не надо')], ''),
+    ('chef', 'Спасибо, не надо.', 'Thank you, there is no need.', [(170, 'Спасибо, не надо')], ''),
     ('lyova', 'Ну как ты, Лёва?', 'Well, how are you holding up, Lyova?', [(171, 'Ну как ты, Лёва')], ''),
-    ('anya', 'Не совсем.', 'Not quite.', [(172, 'Не совсем')], ''),
+    ('chef', 'Не совсем.', 'Not quite.', [(172, 'Не совсем')], ''),
     ('lyova', 'А, поговорить надо ведь.', 'Right, we need to have a talk.', [(173, 'А, поговорить надо ведь')], ''),
-    ('anya', 'Нам с тобой поговорить надо.', 'You and I need to have a talk.', [(174, 'Нам с тобой поговорить надо')], ''),
+    ('chef', 'Нам с тобой поговорить надо.', 'You and I need to have a talk.', [(174, 'Нам с тобой поговорить надо')], ''),
     ('lyova', 'Что такое бледное, а?', 'Why are you looking so pale, huh?', [(176, 'Что такое бледное, а')], ''),
-    ('anya', 'Куда вся кровь делась?', 'Where did all the blood go from your face?', [(176, 'Куда вся кровь делась')], ''),
+    ('chef', 'Куда вся кровь делась?', 'Where did all the blood go from your face?', [(176, 'Куда вся кровь делась')], ''),
 ]
 
 OPENER = "Alright, let's go through it step by step in English."
@@ -34,7 +34,7 @@ OPENER = "Alright, let's go through it step by step in English."
 WALK = [
     (0, None, "'The Chef told me to bring you some ice.' In Russian, the idea of 'chef' flows naturally into 'to bring' without extra filler words."),
     (1, None, "'He said you bumped yourself.' Here the Russian phrasing highlights 'to say' before landing on 'to hit'."),
-    (2, None, "'Oh, yes.' The grammar packs 'and' and 'yes' into a tight, idiomatic kitchen exchange. Lyova answers right away."),
+    (2, None, "'Oh, yes.' Chef Barinov keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'."),
     (3, None, "'I will help you with that.' The meaning hinges on 'I' working together with 'I'll help' in spoken Russian."),
     (4, None, "'I can do it myself.' Chef Viktor brings out the contrast between 'I' and 'himself' in a few short words."),
     (5, None, "'Oh come on, it is no trouble for me.' The meaning hinges on 'yes' working together with 'difficult' in spoken Russian. Chef Viktor answers right away."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 10 of Episode 6, listen out for the exchange around ice for lyova and a summons to the owner — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Куда вся кровь делась?')
+OUTRO = 'That wraps up this scene as in the end of the flashback, Nastya brings a mortified Lyova a bucket of ice, and in the present Chef Barinov tells Max to go apologize to the VIP guest in the dining room. See you next time!'
+CLOSING = ("chef", "До встречи!")

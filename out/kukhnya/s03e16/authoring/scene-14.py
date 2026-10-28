@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 14
-TITLE = 'Как удалить злое вещество  (How to Remove the Bad Substance)'
+TITLE = "Как удалить злое вещество  (How to Remove the Bad Substance)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "anya": "alisa"}
+LABELS = {"katya": "Катя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = 'Katya explains that using molecular kitchen chemistry, she can extract the compound in thyme that reacts with alcohol while keeping the delicious flavor intact! Meanwhile, in the dining room, Nagiyev pretends to lose at poker. Listen first.'
@@ -21,11 +21,11 @@ STORY = [
     ('anya', 'Ну, почти понял, сейчас принесу свежий тимьян!', 'Well, I almost got it, I will bring fresh thyme right now!', [(245, 'Ну, почти. Тащи тимьян')], 'adapted'),
     ('anya', 'Смотри на экран, тебе ещё не страшно?', 'Look at the screen, are you not scared yet?', [(249, 'Страшно')], 'adapted'),
     ('anya', 'Да не верю я в этих призраков!', 'I do not believe in those ghosts!', [(250, 'Да не верю')], 'adapted'),
-    ('nagiyev', 'Что-то мне совсем не везёт сегодня в карты.', 'Somehow I am having no luck at all in cards tonight.', [(251, 'Не везет'), (251, 'в карты')], 'adapted'),
-    ('nagiyev', 'Зато мне в любви очень повезло, да, зайка?', 'On the other hand, I got very lucky in love, right, sweetheart?', [(252, 'Зато в любви повезло'), (253, 'Да, зайка')], 'adapted'),
+    ('katya', 'Что-то мне совсем не везёт сегодня в карты.', 'Somehow I am having no luck at all in cards tonight.', [(251, 'Не везет'), (251, 'в карты')], 'adapted'),
+    ('katya', 'Зато мне в любви очень повезло, да, зайка?', 'On the other hand, I got very lucky in love, right, sweetheart?', [(252, 'Зато в любви повезло'), (253, 'Да, зайка')], 'adapted'),
     ('katya', 'Дима, такими темпами ты скоро без ресторана останешься!', 'Dima, at this rate you will soon be left without a restaurant!', [(254, 'такими темпами'), (255, 'ты скоро из'), (255, 'ресторана')], 'adapted'),
-    ('nagiyev', 'Сейчас я ещё немного выпью и расслаблюсь.', 'Right now I will drink a little more and relax.', [(256, 'Сейчас я выпью, расслаблюсь')], 'adapted'),
-    ('nagiyev', 'Вот увидишь, скоро мне обязательно повезёт!', 'You will see, soon my luck will definitely turn!', [(258, 'И попрет')], 'adapted'),
+    ('katya', 'Сейчас я ещё немного выпью и расслаблюсь.', 'Right now I will drink a little more and relax.', [(256, 'Сейчас я выпью, расслаблюсь')], 'adapted'),
+    ('katya', 'Вот увидишь, скоро мне обязательно повезёт!', 'You will see, soon my luck will definitely turn!', [(258, 'И попрет')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -41,10 +41,10 @@ WALK = [
     (7, None, "'Somehow I am having no luck at all in cards tonight.' Notice how Russian expresses 'something' and 'cards' with crisp inflection rather than helper words."),
     (8, None, "'On the other hand, I got very lucky in love, right, sweetheart?' Here the Russian phrasing highlights 'on the other hand' before landing on 'bunny'."),
     (9, None, "'Dima, at this rate you will soon be left without a restaurant!' Spoken Russian keeps this brisk, leaning on 'Dima' and finishing on 'will stay'."),
-    (10, None, "'Right now I will drink a little more and relax.' Notice the reflexive suffix on the verb meaning 'will relax', turning the action back on the subject."),
+    (10, None, "'Right now I will drink a little more and relax.' Nagiyev pairs 'now' with 'will relax' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (11, None, "'You will see, soon my luck will definitely turn!' Dmitry Nagiyev brings out the contrast between 'here' and 'see' in a few short words."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Once Katya distills the safe thyme extract, she and Max need a drinking guest to test the new Sauce Lavrov on. Let's see whom they pick in Scene Fifteen!"
-CLOSING = ('katya', 'Вкус останется прежним!')
+OUTRO = "Once Katya distills the safe thyme extract, she and Max need a drinking guest to test the new Sauce Lavrov on. Let's see whom they pick in Scene Fifteen! See you next time!"
+CLOSING = ("katya", "До встречи!")

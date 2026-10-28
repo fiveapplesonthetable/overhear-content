@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We need to fire one extra cook.' An impersonal modal predicate combines with a dative pronoun and perfective infinitive.
+- 'We need to fire one extra cook.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
 - 'Listen, can I have you for one minute?' In spoken Russian, the verb for calling someone aside is often left implicit.
 - 'We have a staff reduction in the restaurant right now.' The neuter verbal noun denotes workplace downsizing or layoffs.
-- 'Forgive me, there is nothing personal here.' A negative pronoun takes a neuter genitive singular adjective.
-- 'I beg you, just do not fire me today!' An imperfective negative imperative pleads against the action happening.
+- 'Forgive me, there is nothing personal here.' Max pairs 'sorry' with 'personal' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'I beg you, just do not fire me today!' Notice how Russian puts 'I beg' and 'today' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Please, I have a big family at home.' The standard Russian possession phrase highlights his household responsibilities.
 - 'I have small children and a bank loan.' The irregular plural for children pairs with the everyday noun for a loan.
 - 'Please, I am begging you very much!' Intensity adverbs reinforce the first-person verb of asking.
-- 'Well why are you kneeling, get up quickly now!' Embarrassed by the man kneeling, Max uses an imperfective imperative to make him stand.
-- 'Everything is fine, I will not fire you.' A negated perfective future verb promises that his job is safe.
+- 'Well why are you kneeling, get up quickly now!' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'Everything is fine, I will not fire you.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'On the contrary, you are a really great cook, got it?' Max pivots to praise using a colloquial adjective meaning cool or great.
-- 'This downsizing will definitely not affect you.' The reflexive verb for touching or affecting governs the genitive case.
+- 'This downsizing will definitely not affect you.' Max pairs 'definitely' with 'affect' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'So come on, go work calmly.' Double imperatives send the relieved cook straight back to the kitchen.

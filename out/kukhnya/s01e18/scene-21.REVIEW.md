@@ -1,39 +1,39 @@
-# kukhnya-s01e18-scene-21: review sheet
+# Под ноги  (Underfoot) — `kukhnya-s01e18-scene-21`
 
-Title: Под ноги  (Underfoot)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.18
-Scene 21
+**Source:** Кухня (Kukhnya) S1.18 · `sources/kukhnya/s01/e18.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `kostya` | anja | Костя |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> Max and Kostya sit outside after losing their jobs. They reflect on their failures and try to find some hope for the future. Let's listen closely to their exchange in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Нас уволили из ресторана. | We got fired from the restaurant. | new | new: new |
-| 2 | Костя | По крайней мере, нам есть где жить. | At least we have somewhere to live. | #377 00:23:46: нам есть где жить | adapted: adapted |
-| 3 | Макс | Мы падаем и страдаем от боли. | We fall and suffer from pain. | #378 00:23:50: падаем, страдаем от боли | adapted: adapted |
-| 4 | Костя | А потом встаём и идём дальше. | And then we get up and walk further. | #378 00:23:50: встаем, идем дальше | adapted: adapted |
-| 5 | Макс | И так будет продолжаться бесконечно? | And it will continue like this forever? | #379 00:23:54: И так бесконечно | adapted: adapted |
-| 6 | Костя | Жизнь всегда полна трудных моментов. | Life is always full of difficult moments. | new | new: new |
-| 7 | Макс | Может, пора смотреть под ноги? | Maybe it is time to look underfoot? | #380 00:23:57: Может, уже стоит начать смотреть под ноги | adapted: adapted |
-| 8 | Костя | Ты прав, нужно быть осторожнее. | You are right, we need to be more careful. | new | new: new |
-| 9 | Макс | Завтра мы начнём искать новую работу. | Tomorrow we will start looking for new work. | new | new: new |
-| 10 | Костя | У нас обязательно всё получится. | Everything will definitely work out for us. | new | new: new |
-| 11 | Макс | Главное, что мы не сдаёмся. | The main thing is that we do not give up. | new | new: new |
-| 12 | Костя | Я верю в нас. | I believe in us. | new | new: new |
+| 0 | Макс | Нас уволили из ресторана. | We got fired from the restaurant. | *(added)* |  |
+| 1 | Костя | По крайней мере, нам есть где жить. | At least we have somewhere to live. | #377 "нам есть где жить" |  |
+| 2 | Макс | Мы падаем и страдаем от боли. | We fall and suffer from pain. | #378 "падаем, страдаем от боли" |  |
+| 3 | Костя | А потом встаём и идём дальше. | And then we get up and walk further. | #378 "встаем, идем дальше" |  |
+| 4 | Макс | И так будет продолжаться бесконечно? | And it will continue like this forever? | #379 "И так бесконечно" |  |
+| 5 | Костя | Жизнь всегда полна трудных моментов. | Life is always full of difficult moments. | *(added)* |  |
+| 6 | Макс | Может, пора смотреть под ноги? | Maybe it is time to look underfoot? | #380 "Может, уже стоит начать смотреть под ноги" |  |
+| 7 | Костя | Ты прав, нужно быть осторожнее. | You are right, we need to be more careful. | *(added)* |  |
+| 8 | Макс | Завтра мы начнём искать новую работу. | Tomorrow we will start looking for new work. | *(added)* |  |
+| 9 | Костя | У нас обязательно всё получится. | Everything will definitely work out for us. | *(added)* |  |
+| 10 | Макс | Главное, что мы не сдаёмся. | The main thing is that we do not give up. | *(added)* |  |
+| 11 | Костя | Я верю в нас. | I believe in us. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'We got fired from the restaurant.' Max uses the perfective verb meaning 'to fire' to focus on the single completed result, pairing it with 'restaurant'.
-- 'At least we have somewhere to live.' The question opens with the interrogative word for 'where' and builds toward 'to live'. Then Max responds.
-- 'We fall and suffer from pain.' Max chooses the imperfective verb meaning 'to fall' for the ongoing action, followed by 'to suffer' and 'pains'.
-- 'And then we get up and walk further.' Kostya expresses this naturally by combining the word for 'then' with 'we get up' and 'are going'.
-- 'And it will continue like this forever?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'endlessly'.
-- 'Life is always full of difficult moments.' Russian omits the present-tense verb 'to be' here, linking 'life' directly with 'always', combining 'life' with 'always' and 'full'.
-- 'Maybe it is time to look underfoot?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'legs'.
-- 'You are right, we need to be more careful.' Kostya expresses this naturally by combining the word for 'right' with 'necessary' and 'be'.
-- 'Tomorrow we will start looking for new work.' Max puts the word for 'tomorrow' together with 'we start' and 'to look for' in a crisp, natural spoken turn of phrase.
-- 'Everything will definitely work out for us.' Notice the reflexive ending on the verb for 'will come out', which directs the action back onto the subject. Then Max responds.
-- 'The main thing is that we do not give up.' The question word for 'what' comes right at the start, followed directly by 'surrender'.
-- 'I believe in us.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'believe'.
+> Despite the setbacks, the two friends agree to keep moving forward and face the challenges ahead. Next time you watch the episode, listen for the Russian expressions for 'to fire' and 'restaurant' — you will catch every word right away. See you next time!
+
+**Костя:** Пока!

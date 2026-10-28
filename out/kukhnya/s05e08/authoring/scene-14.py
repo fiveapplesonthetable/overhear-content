@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e08-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 8
 SCENE = 14
 TITLE = "Подарок от родителей Насти  (A Gift from Nastya's Parents)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.08"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nastya": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "nastya": "Настя", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.08'
 SOURCE_FILE = 'sources/kukhnya/s05/e08.ru.srt'
 
 INTRO = 'Inside the hotel, Max tells Kostya about Katya being stuck in the harem, making Kostya panic that Nastya is there too. In reality, Nastya is outside with her father, who unveils a massive new SUV as a family gift.'
@@ -38,7 +38,7 @@ WALK = [
     (4, None, "'So what is the surprise that you scared me over?' Notice how Russian expresses 'so' and 'frightened' with crisp inflection rather than helper words. Max answers right away."),
     (5, None, "'We talked it over here and thought about it.' Here the Russian phrasing highlights 'we' before landing on 'thought'."),
     (6, None, "'Your family is big now.' The grammar packs 'family' and 'now' into a tight, idiomatic kitchen exchange."),
-    (7, None, "'And we bought you an SUV!' The grammar packs 'and' and 'SUV' into a tight, idiomatic kitchen exchange. Nastya answers right away."),
+    (7, None, "'And we bought you an SUV!' Notice how Russian puts 'bought' and 'SUV / jeep' together in a short, direct phrase where word endings show how the ideas connect."),
     (8, None, "'Such a huge car?' Here the Russian phrasing highlights 'such' before landing on 'car'."),
     (9, None, "'Get behind the wheel, daughter!' Max anchors the line on 'sit down', while 'daughter' completes the thought."),
     (10, None, "'She is still not picking up the phone!' The grammar packs 'she' and 'phone receiver' into a tight, idiomatic kitchen exchange. Max answers right away."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Instead of being thrilled by her father's generous gift, eco-conscious Nastya stares in horror at the giant gas-guzzling vehicle. See you in the next scene."
-CLOSING = ('nastya', 'Папа, зачем нам такой джип?')
+OUTRO = "Instead of being thrilled by her father's generous gift, eco-conscious Nastya stares in horror at the giant gas-guzzling vehicle. See you next time!"
+CLOSING = ("nastya", "До свидания!")

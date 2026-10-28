@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And here is the manager of my hobby.' The meaning hinges on 'and' working together with 'hobby' in spoken Russian.
 - 'You can tell right away the person loves coming to work.' In Russian, the idea of 'immediately' flows naturally into 'work' without extra filler words.
 - 'Vika, what is this paper?' The meaning hinges on 'Vika' working together with 'paper' in spoken Russian.
-- 'This is my notice, I am resigning.' Notice the reflexive suffix on the verb meaning 'am resigning', turning the action back on the subject.
+- 'This is my notice, I am resigning.' Here Vika anchors the thought on 'statement' and finishes on 'am resigning / quitting', keeping the spoken rhythm brisk and natural.

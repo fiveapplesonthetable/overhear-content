@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 18
-TITLE = 'Кристина в шкафу  (Kristina in the Closet)'
+TITLE = "Кристина в шкафу  (Kristina in the Closet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kristina': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'kristina': 'Кристина', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "kristina": "anja", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "kristina": "Кристина", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = "Once Vika leaves, Kristina emerges from the closet asking why Vika was there, while Nagiyev furiously triesChef Barinov's meditation mantra to keep from exploding. Listen to the Russian scene first, and then we will unpack every line."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Kristina hasn't just brought documents—she has a buyer offering big money for Claude Monet. Let's see how Nagiyev responds at the restaurant in the next scene."
-CLOSING = ('nagiyev', 'Я спокоен, я спокоен.')
+OUTRO = "Kristina hasn't just brought documents—she has a buyer offering big money for Claude Monet. See you next time!"
+CLOSING = ("nagiyev", "Всего хорошего!")

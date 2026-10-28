@@ -15,18 +15,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Аня | Шеф, холодильник не работает, давайте плов приготовлю. | Chef, the fridge is off, let me cook pilaf. | #212 00:15:27: Давайте плов приготовлю | adapted: adapted |
 | 4 | Аня | Мы этим пловом хоть кухню сегодня накормим. | At least we will feed the kitchen today with this pilaf. | #213 00:15:30: Хоть кухню накормим | adapted: adapted |
 | 5 | Шеф | Давай готовь, только под ногами не крутись. | Go ahead and cook, just do not get underfoot. | #214 00:15:32: Давай, только под ногами не крутись | adapted: adapted |
-| 6 | Федя | Хорошо, шеф, ресторан — это ещё ерунда. | Alright, Chef, a restaurant is nothing. | #215 00:15:33: Хорошо. Ресторан — это фигня | adapted: adapted |
-| 7 | Федя | У нас на корабле в океане генераторы отказали. | On our ship in the ocean all the generators failed. | #216 00:15:36: у нас на корабле в океане все генераторы отказали | adapted: adapted |
+| 6 | Шеф | Хорошо, шеф, ресторан — это ещё ерунда. | Alright, Chef, a restaurant is nothing. | #215 00:15:33: Хорошо. Ресторан — это фигня | adapted: adapted |
+| 7 | Шеф | У нас на корабле в океане генераторы отказали. | On our ship in the ocean all the generators failed. | #216 00:15:36: у нас на корабле в океане все генераторы отказали | adapted: adapted |
 | 8 | Шеф | Сказочник, посмотри, у тебя вся рыба горит! | Storyteller, look, all your fish is burning! | #218 00:15:44: у тебя рыба горит | adapted: adapted |
-| 9 | Федя | Однажды, шеф, мы целый месяц без топлива плыли. | Once, Chef, we drifted for a whole month without fuel. | #219 00:15:53: Однажды, шеф, мы месяц без топлива дрейфовали | adapted: adapted |
-| 10 | Федя | Потом заправились и спокойно дошли к берегу. | Then we refueled and calmly reached the shore. | #220 00:15:59: заправились, дошли | adapted: adapted |
+| 9 | Шеф | Однажды, шеф, мы целый месяц без топлива плыли. | Once, Chef, we drifted for a whole month without fuel. | #219 00:15:53: Однажды, шеф, мы месяц без топлива дрейфовали | adapted: adapted |
+| 10 | Шеф | Потом заправились и спокойно дошли к берегу. | Then we refueled and calmly reached the shore. | #220 00:15:59: заправились, дошли | adapted: adapted |
 | 11 | Шеф | Ты сейчас это серьёзно мне рассказываешь? | Are you seriously telling me this right now? | #221 00:16:02: Серьезно | adapted: adapted |
 | 12 | Аня | Смотрите, огонь! У нас всё мясо сгорело! | Look, fire! All our meat has burned up! | #222 00:16:17: иди | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'We are not giving up, guys, let us work fast and together!' Chef Barinov brings out the contrast between 'not' and 'we give up' in a few short words.
-- 'Steaks on charcoal turn out even tastier.' Notice the reflexive suffix on the verb meaning 'turn out', turning the action back on the subject. Max answers right away.
+- 'Steaks on charcoal turn out even tastier.' In everyday Russian, 'steaks' flows straight into 'tastier' without extra linking words.
 - 'Chef, the fridge is off, let me cook pilaf.' Max brings out the contrast between 'Chef Barinov' and 'refrigerator' in a few short words.
 - 'At least we will feed the kitchen today with this pilaf.' Spoken Russian keeps this brisk, leaning on 'we' and finishing on 'we will feed'.
 - 'Go ahead and cook, just do not get underfoot.' The grammar packs 'come on' and 'spin' into a tight, idiomatic kitchen exchange. Fedya answers right away.

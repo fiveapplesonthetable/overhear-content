@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hi, we have an ambush in the kitchen.' In Russian slang, the noun for an ambush means a sudden piece of bad luck or trouble.
 - 'Our German has gone completely wild today.' An expressive prefixed past-tense verb describes a boss losing his temper.
-- 'Next month he will slash everyone's salary.' A dative plural pronoun marks the workers affected by the perfective verb of cutting.
+- 'Next month he will slash everyone's salary.' Here Max anchors the thought on 'next' and finishes on 'salary', keeping the spoken rhythm brisk and natural.
 - 'Now we will work twice as much.' The idiom 'in two times more' is the standard Russian way to say twice as much.
-- 'And we will get paid twice as little.' The comparative adverb for less contrasts the longer hours with lower pay.
+- 'And we will get paid twice as little.' Max pairs 'to receive, collect' with 'less' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Maksim Leonidovich, do they really want to cut salaries?' The target cook takes the bait and asks whether the pay cut is real.
 - 'Keep quiet, please do not yell so loudly!' Max hushes him conspiratorially to make the rumor sound like a secret.
 - 'Nobody knows about this yet.' Double negation pairs the negative pronoun 'nobody' with the particle 'not'.
-- 'Let this stay strictly between us.' The preposition 'between' governs the instrumental case of the pronoun 'us'.
+- 'Let this stay strictly between us.' Max pairs 'remains' with 'strictly' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'By the way, the neighbors need a cook right now.' Max casually drops the hint about the opening at Arcobaleno.
 - 'Only you need to bring your resume very quickly.' The borrowed neuter noun for a resume is indeclinable in Russian.
-- 'Go quickly, I will cover for you here.' A perfective future verb promises to cover for the cook during his shift.
+- 'Go quickly, I will cover for you here.' In everyday Russian, 'go, walk' flows straight into 'to cover' without extra linking words.

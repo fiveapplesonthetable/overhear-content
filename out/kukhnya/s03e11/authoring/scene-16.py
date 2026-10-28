@@ -1,32 +1,32 @@
 ID = 'kukhnya-s03e11-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 16
 TITLE = "Подозрения Шефа  (The Chef's Suspicions)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Шеф', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = "Wondering why Nagiyev would suddenly give him a vacation after refusing for six months, Chef Barinov heads toward the kitchen to pick up his things—and spots Paul wearing a chef's jacket at the pass."
 
 STORY = [
-    ('anya', 'Дима, а почему ты меня домой отправляешь?', 'Dima, why are you sending me home?', [(260, 'А что ты меня отправляешь')], 'adapted'),
-    ('anya', 'Раньше ты мне долго отпуск не давал.', 'Before, you did not give me a vacation for a long time.', [(261, 'отпуска не давал')], 'adapted'),
+    ('chef', 'Дима, а почему ты меня домой отправляешь?', 'Dima, why are you sending me home?', [(260, 'А что ты меня отправляешь')], 'adapted'),
+    ('chef', 'Раньше ты мне долго отпуск не давал.', 'Before, you did not give me a vacation for a long time.', [(261, 'отпуска не давал')], 'adapted'),
     ('nagiyev', 'Просто я теперь очень добрый человек.', 'I am simply becoming a very kind person now.', [(262, 'Добрый становлюсь')], 'adapted'),
     ('nagiyev', 'Вика, может быть, действительно сделать ремонт?', 'Vika, maybe we really should do a renovation?', [(263, 'может быть, действительно ремонт сделать')], 'adapted'),
     ('nagiyev', 'Сделаем в ресторане всё красиво с нуля!', 'Let us redo everything in the restaurant from scratch!', [(264, 'все с нуля')], 'adapted'),
-    ('vika', 'Только если этот ремонт за твой счёт.', 'Only if this renovation is at your expense.', [(265, 'За твой счет')], 'adapted'),
-    ('anya', 'Ладно, я сейчас пойду зайду на кухню.', 'Alright, I will go stop by the kitchen right now.', [(266, 'Ладно, я пойду, зайду на кухню')], 'adapted'),
+    ('nagiyev', 'Только если этот ремонт за твой счёт.', 'Only if this renovation is at your expense.', [(265, 'За твой счет')], 'adapted'),
+    ('chef', 'Ладно, я сейчас пойду зайду на кухню.', 'Alright, I will go stop by the kitchen right now.', [(266, 'Ладно, я пойду, зайду на кухню')], 'adapted'),
     ('nagiyev', 'Что тебе сейчас делать на этой кухне?', 'What do you have to do in that kitchen right now?', [(267, 'Что тебе там делать-то на кухне')], 'adapted'),
     ('nagiyev', 'Я же дал тебе свободные дни.', 'I gave you days off after all.', [(267, 'Тебе барин вольную дал')], 'adapted'),
-    ('anya', 'Да уйду я, только свои вещи заберу.', 'Yes, I will leave, I will just pick up my things.', [(269, 'Да уйду, уйду. Вещи только заберу')], 'adapted'),
-    ('anya', 'Подожди, кто это там стоит на кухне?', 'Wait, who is that standing in the kitchen over there?', [(270, 'Алло. Ну-ка')], 'adapted'),
-    ('vika', 'Повара готовят для гостей две говядины.', 'The cooks are preparing two beef dishes for the guests.', [(271, 'Две говядины')], 'adapted'),
-    ('vika', 'Все на кухне говорят ему: да, шеф!', 'Everyone in the kitchen is saying to him: yes, Chef!', [(272, 'Да, шеф')], 'adapted'),
+    ('chef', 'Да уйду я, только свои вещи заберу.', 'Yes, I will leave, I will just pick up my things.', [(269, 'Да уйду, уйду. Вещи только заберу')], 'adapted'),
+    ('chef', 'Подожди, кто это там стоит на кухне?', 'Wait, who is that standing in the kitchen over there?', [(270, 'Алло. Ну-ка')], 'adapted'),
+    ('nagiyev', 'Повара готовят для гостей две говядины.', 'The cooks are preparing two beef dishes for the guests.', [(271, 'Две говядины')], 'adapted'),
+    ('nagiyev', 'Все на кухне говорят ему: да, шеф!', 'Everyone in the kitchen is saying to him: yes, Chef!', [(272, 'Да, шеф')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Seeing Paul in his kitchen confirms every fear in Barinov's head, triggering an explosive confrontation in Scene Seventeen."
-CLOSING = ('anya', 'Кто занял моё место?')
+OUTRO = "Seeing Paul in his kitchen confirms every fear in Barinov's head, triggering an explosive confrontation in Scene Seventeen. See you next time!"
+CLOSING = ("chef", "Увидимся!")

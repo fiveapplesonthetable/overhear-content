@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | У шефа всё было бы не так! | With the Chef everything would have been different! | #137 00:15:00: У шефа все было бы не так | adapted: adapted |
-| 2 | Аня | Дорогая, я сейчас всё могу объяснить! | Darling, I can explain everything right now! | #142 00:15:22: Я все могу объяснить | adapted: adapted |
-| 3 | Аня | Так, быстро остановили свою буйную фантазию! | Alright, quickly stop your wild imagination! | #144 00:15:29: остановили свою буйную фантазию | adapted: adapted |
-| 4 | Аня | Зато вон Максим про своё горе забыл. | At least look, Maxim forgot about his grief. | #145 00:15:33: про свое горе забыл | adapted: adapted |
-| 5 | Костя | Макс, вообще-то ты сам во всём виноват. | Max, actually you are to blame for everything yourself. | #148 00:15:40: Макс, вообще-то ты сам во всем виноват | adapted: adapted |
-| 6 | Костя | Нечего было тогда с Сашей целоваться. | You had no business kissing Sasha back then. | #149 00:15:43: Нечего было Саше целоваться | adapted: adapted |
-| 7 | Макс | А я с этим даже не спорю. | And I am not even arguing with that. | #150 00:15:44: А я не спорю | adapted: adapted |
-| 8 | Костя | Ну и зря ты так легко сдаёшься. | Well, it is a mistake that you give up so easily. | #150 00:15:44: Ну и зря | adapted: adapted |
-| 9 | Костя | Мне кажется, что развод слишком жестокое наказание. | It seems to me that divorce is too harsh a punishment. | #152 00:15:48: Развод. Слишком жестокое наказание | adapted: adapted |
-| 10 | Костя | Тем более за такое мелкое преступление. | Especially for such a minor offense. | #152 00:15:48: за такое мелкое преступление | adapted: adapted |
-| 11 | Аня | Да, наш бывший юрист сразу вступился! | Yes, our former lawyer stepped in right away! | #153 00:15:53: Да, юрист вступился | adapted: adapted |
-| 12 | Аня | Было бы здорово, если бы за измены судили! | It would be great if people were put on trial for cheating! | #154 00:15:55: если бы за измены судили | adapted: adapted |
+| 1 | Шеф | У шефа всё было бы не так! | With the Chef everything would have been different! | #137 00:15:00: У шефа все было бы не так | adapted: adapted |
+| 2 | Шеф | Дорогая, я сейчас всё могу объяснить! | Darling, I can explain everything right now! | #142 00:15:22: Я все могу объяснить | adapted: adapted |
+| 3 | Шеф | Так, быстро остановили свою буйную фантазию! | Alright, quickly stop your wild imagination! | #144 00:15:29: остановили свою буйную фантазию | adapted: adapted |
+| 4 | Шеф | Зато вон Максим про своё горе забыл. | At least look, Maxim forgot about his grief. | #145 00:15:33: про свое горе забыл | adapted: adapted |
+| 5 | Шеф | Макс, вообще-то ты сам во всём виноват. | Max, actually you are to blame for everything yourself. | #148 00:15:40: Макс, вообще-то ты сам во всем виноват | adapted: adapted |
+| 6 | Шеф | Нечего было тогда с Сашей целоваться. | You had no business kissing Sasha back then. | #149 00:15:43: Нечего было Саше целоваться | adapted: adapted |
+| 7 | Аня | А я с этим даже не спорю. | And I am not even arguing with that. | #150 00:15:44: А я не спорю | adapted: adapted |
+| 8 | Шеф | Ну и зря ты так легко сдаёшься. | Well, it is a mistake that you give up so easily. | #150 00:15:44: Ну и зря | adapted: adapted |
+| 9 | Шеф | Мне кажется, что развод слишком жестокое наказание. | It seems to me that divorce is too harsh a punishment. | #152 00:15:48: Развод. Слишком жестокое наказание | adapted: adapted |
+| 10 | Шеф | Тем более за такое мелкое преступление. | Especially for such a minor offense. | #152 00:15:48: за такое мелкое преступление | adapted: adapted |
+| 11 | Шеф | Да, наш бывший юрист сразу вступился! | Yes, our former lawyer stepped in right away! | #153 00:15:53: Да, юрист вступился | adapted: adapted |
+| 12 | Шеф | Было бы здорово, если бы за измены судили! | It would be great if people were put on trial for cheating! | #154 00:15:55: если бы за измены судили | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

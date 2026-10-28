@@ -10,22 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Извините, но я решил остаться в ресторане. | Forgive me, but I decided to stay at the restaurant. | #32 00:03:08: вы меня извините, но я решил остаться в ресторане | adapted: adapted |
+| 1 | Шеф | Извините, но я решил остаться в ресторане. | Forgive me, but I decided to stay at the restaurant. | #32 00:03:08: вы меня извините, но я решил остаться в ресторане | adapted: adapted |
 | 2 | Сеня | По какому поводу вообще собрание? | What is the staff meeting about anyway? | #33 00:03:18: поводу вообще собрание? | adapted: adapted |
 | 3 | Сеня | Карманы проверять будут? | Are they going to check our pockets? | #34 00:03:20: карманы проверять | adapted: adapted |
-| 4 | Аня | Очень смешно, Сеня. | Very funny, Senya. | #35 00:03:23: Очень смешно | adapted: adapted |
-| 5 | Аня | Кухня, внимание! | Kitchen, attention! | #36 00:03:38: Кухня, внимание | adapted: exact |
-| 6 | Аня | Сегодня в вашей жизни историческое событие. | Today is a historic event in your lives. | #36 00:03:38: сегодня в вашей жизни историческое событие | adapted: adapted |
-| 7 | Аня | Мы меняем концепцию ресторана. | We are changing the restaurant's concept. | #37 00:03:44: Мы меняем концепцию | adapted: adapted |
-| 8 | Аня | Это ресторан авторской кухни. | This is a restaurant of auteur cuisine. | #38 00:03:46: это ресторан авторской кухни | adapted: adapted |
+| 4 | Шеф | Очень смешно, Сеня. | Very funny, Senya. | #35 00:03:23: Очень смешно | adapted: adapted |
+| 5 | Шеф | Кухня, внимание! | Kitchen, attention! | #36 00:03:38: Кухня, внимание | adapted: exact |
+| 6 | Шеф | Сегодня в вашей жизни историческое событие. | Today is a historic event in your lives. | #36 00:03:38: сегодня в вашей жизни историческое событие | adapted: adapted |
+| 7 | Шеф | Мы меняем концепцию ресторана. | We are changing the restaurant's concept. | #37 00:03:44: Мы меняем концепцию | adapted: adapted |
+| 8 | Шеф | Это ресторан авторской кухни. | This is a restaurant of auteur cuisine. | #38 00:03:46: это ресторан авторской кухни | adapted: adapted |
 | 9 | Сеня | Что это значит? | What does that mean? | #40 00:03:56: Что? | adapted: adapted |
-| 10 | Аня | Итак, в новом меню морские гребешки. | So, on the new menu are sea scallops. | #41 00:03:58: Итак, в новом меню<br>#42 00:04:01: морские гребешки | adapted: adapted |
-| 11 | Аня | А также гусиная грудка в соусе. | And also goose breast in sauce. | #44 00:04:08: гусиная грудка | adapted: adapted |
-| 12 | Аня | И филе дикого голубя. | And fillet of wild pigeon. | #46 00:04:16: филе дикого голубя | adapted: adapted |
+| 10 | Шеф | Итак, в новом меню морские гребешки. | So, on the new menu are sea scallops. | #41 00:03:58: Итак, в новом меню<br>#42 00:04:01: морские гребешки | adapted: adapted |
+| 11 | Шеф | А также гусиная грудка в соусе. | And also goose breast in sauce. | #44 00:04:08: гусиная грудка | adapted: adapted |
+| 12 | Шеф | И филе дикого голубя. | And fillet of wild pigeon. | #46 00:04:16: филе дикого голубя | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Forgive me, but I decided to stay at the restaurant.' Notice the reflexive suffix on the verb meaning 'to remain', turning the action back on the subject. Senya answers right away.
+- 'Forgive me, but I decided to stay at the restaurant.' Chef Barinov uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
 - 'What is the staff meeting about anyway?' Senya anchors the line on 'according to', while 'staff meeting' completes the thought.
 - 'Are they going to check our pockets?' The grammar packs 'pockets' and 'to be' into a tight, idiomatic kitchen exchange.
 - 'Very funny, Senya.' Notice how Russian expresses 'very' and 'Senya' with crisp inflection rather than helper words.

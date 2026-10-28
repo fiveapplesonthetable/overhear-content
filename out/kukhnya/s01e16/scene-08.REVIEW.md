@@ -1,41 +1,40 @@
-# kukhnya-s01e16-scene-08: review sheet
+# Чей паштет лучше  (Whose Pâté is Better) — `kukhnya-s01e16-scene-08`
 
-Title: Чей паштет лучше  (Whose Pâté is Better)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.16
-Cues 58-61. Kostya tries to discuss the police inspection at Arcobaleno, but Max interrupts him to demand an honest answer on whose pâté is better.
+**Source:** Кухня (Kukhnya) S1.16 · `sources/kukhnya/s01/e16.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `kostya` | anja | Костя |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> In the bar area of Claude Monet, Kostya tries to tell Max about the exciting raid at Arcobaleno. However, Max is obsessed with his ongoing culinary bet with Chef Viktor and refuses to discuss anything else. He forces Kostya to make a definitive comparison. Let us listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Костя | Макс, ты слышал важные новости сегодня? | Max, did you hear important news today? | #58 00:05:23: А ты слышал про проверку ФМС в другом ресторане? | adapted: adapted |
-| 2 | Макс | Какие ещё новости могут волновать меня? | What other news could worry me? | new | new: new |
-| 3 | Костя | В соседнем ресторане сейчас идёт большая проверка. | A huge inspection is going on in the neighboring restaurant right now. | #58 00:05:23: в другом ресторане? | adapted: adapted |
-| 4 | Макс | Мне сейчас совсем не до чужих проверок. | Right now I do not care at all about outside inspections. | new | new: new |
-| 5 | Костя | Там полиция проверяет всех работников кухни. | The police are checking all kitchen workers over there. | new | new: new |
-| 6 | Макс | Ответь честно, чей паштет сейчас лучше? | Answer honestly, whose pâté is better right now? | #59 00:05:26: Чей паштет лучше, мой или шефа? | adapted: adapted |
-| 7 | Костя | Ты обещаешь не обижаться на меня? | Do you promise not to be offended with me? | new | new: new |
-| 8 | Макс | Я хочу услышать только чистую правду. | I want to hear only the pure truth. | new | new: new |
-| 9 | Костя | И ты точно не скажешь шефу? | And you definitely will not tell the chef? | #60 00:05:30: А ты шефу не скажешь? | adapted: adapted |
-| 10 | Макс | Нет, я просто хочу знать результат. | No, I simply want to know the result. | #60 00:05:30: Нет. | adapted: adapted |
-| 11 | Костя | У шефа этот паштет намного лучше. | The chef makes this pâté much better. | #61 00:05:33: У шефа лучше. | adapted: adapted |
-| 12 | Макс | Я обязательно найду его секретный ингредиент! | I will definitely find his secret ingredient! | new | new: new |
-| 13 | Костя | Желаю тебе большой удачи в этом! | I wish you great luck in that! | new | new: new |
+| 0 | Костя | Макс, ты слышал важные новости сегодня? | Max, did you hear important news today? | #58 "А ты слышал про проверку ФМС в другом ресторане?" |  |
+| 1 | Макс | Какие ещё новости могут волновать меня? | What other news could worry me? | *(added)* |  |
+| 2 | Костя | В соседнем ресторане сейчас идёт большая проверка. | A huge inspection is going on in the neighboring restaurant right now. | #58 "в другом ресторане?" |  |
+| 3 | Макс | Мне сейчас совсем не до чужих проверок. | Right now I do not care at all about outside inspections. | *(added)* |  |
+| 4 | Костя | Там полиция проверяет всех работников кухни. | The police are checking all kitchen workers over there. | *(added)* |  |
+| 5 | Макс | Ответь честно, чей паштет сейчас лучше? | Answer honestly, whose pâté is better right now? | #59 "Чей паштет лучше, мой или шефа?" |  |
+| 6 | Костя | Ты обещаешь не обижаться на меня? | Do you promise not to be offended with me? | *(added)* |  |
+| 7 | Макс | Я хочу услышать только чистую правду. | I want to hear only the pure truth. | *(added)* |  |
+| 8 | Костя | И ты точно не скажешь шефу? | And you definitely will not tell the chef? | #60 "А ты шефу не скажешь?" |  |
+| 9 | Макс | Нет, я просто хочу знать результат. | No, I simply want to know the result. | #60 "Нет." |  |
+| 10 | Костя | У шефа этот паштет намного лучше. | The chef makes this pâté much better. | #61 "У шефа лучше." |  |
+| 11 | Макс | Я обязательно найду его секретный ингредиент! | I will definitely find his secret ingredient! | *(added)* |  |
+| 12 | Костя | Желаю тебе большой удачи в этом! | I wish you great luck in that! | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Max, did you hear important news today?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'heard', pairing it with 'important' and 'the news'.
-- 'What other news could worry me?' Here Max anchors the line on the word meaning 'more' and builds the thought around 'the news' and 'can'.
-- 'A huge inspection is going on in the neighboring restaurant right now.' The phrasing opens with 'neighboring' before bringing in 'restaurant' and 'now' to make the point clear.
-- 'Right now I do not care at all about outside inspections.' Russian omits the present-tense verb 'to be' here, linking 'now' directly with 'at all', pairing it with 'someone else's' and 'inspections'.
-- 'The police are checking all kitchen workers over there.' Kostya puts the word for 'there' together with 'police' and 'is testing' in a crisp, natural spoken turn of phrase.
-- 'Answer honestly, whose pâté is better right now?' Max leads with the direct command form meaning 'answer', pairing it with 'honestly' and 'pâté'.
-- 'Do you promise not to be offended with me?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'promise', followed by 'feel offended'.
-- 'I want to hear only the pure truth.' Max chooses the imperfective verb meaning 'want' for the ongoing action, followed by 'to hear' and 'only'.
-- 'And you definitely will not tell the chef?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'definitely', pairing it with 'will you say' and 'chef'.
-- 'No, I simply want to know the result.' Here Max anchors the line on the word meaning 'just' and builds the thought around 'want' and 'to know'.
-- 'The chef makes this pâté much better.' Russian omits the present-tense verb 'to be' here, linking 'chef' directly with 'pâté', pairing it with 'much' and 'better'.
-- 'I will definitely find his secret ingredient!' Max expresses this naturally by combining the word for 'surely' with 'find' and 'secret'.
-- 'I wish you great luck in that!' Kostya chooses the imperfective verb meaning 'I wish' for the ongoing action, followed by 'big' and 'luck'.
+> Although Kostya honestly confirms Chef Viktor's culinary superiority, Max remains determined to crack the secret recipe and win his two days off. Next time you watch the episode, listen for the Russian expressions for 'to hear' and 'important' — you will catch every word right away. See you next time!
+
+**Костя:** Пока!

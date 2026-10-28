@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | И последний штрих. | And now for the finishing touch. | #195 00:12:35: и последний штрих | verbatim |
+| 1 | Нагиев | И последний штрих. | And now for the finishing touch. | #195 00:12:35: и последний штрих | verbatim |
 | 2 | Шеф | Это что? | What on earth is that? | #196 00:12:44: Это что | verbatim |
-| 3 | Аня | Но на вкус пальчики оближут. | They will lick their fingers from the taste. | #198 00:12:51: но на вкус пальчики оближут | verbatim |
+| 3 | Нагиев | Но на вкус пальчики оближут. | They will lick their fingers from the taste. | #198 00:12:51: но на вкус пальчики оближут | verbatim |
 | 4 | Шеф | Так что давай, неси. | So go on, carry it out. | #199 00:12:55: Так что давай, неси | verbatim |
-| 5 | Аня | Это старинный французский рецепт. | It is an ancient French recipe. | #202 00:13:09: Это старинный французский рецепт | verbatim |
+| 5 | Нагиев | Это старинный французский рецепт. | It is an ancient French recipe. | #202 00:13:09: Это старинный французский рецепт | verbatim |
 | 6 | Шеф | Так, красавцы. | Alright, you beauties. | #203 00:13:14: Так, красавцы | verbatim |
-| 7 | Аня | Какая тебе разница? | What difference does it make to you? | #204 00:13:19: Какая тебе разница | verbatim |
+| 7 | Нагиев | Какая тебе разница? | What difference does it make to you? | #204 00:13:19: Какая тебе разница | verbatim |
 | 8 | Шеф | Посмотри, что это вы приготовили мне, а? | Take a look at what you just cooked for me, huh? | #205 00:13:20: Посмотри, что это вы приготовили мне, а | verbatim |
-| 9 | Аня | Что это за гадость, я вас спрашиваю, а? | What is this filth, I am asking all of you! | #206 00:13:23: Что это за гадость, я вас спрашиваю, а | verbatim |
+| 9 | Нагиев | Что это за гадость, я вас спрашиваю, а? | What is this filth, I am asking all of you! | #206 00:13:23: Что это за гадость, я вас спрашиваю, а | verbatim |
 | 10 | Шеф | Дим, ну мы не знали, что это тебе. | Dima, we had no idea that plate was for you. | #207 00:13:24: Дим, ну мы не знали, что это тебе | verbatim |
-| 11 | Аня | Что за бардак на кухне, а? | What kind of chaos is going on in this kitchen? | #208 00:13:27: Что за бардак на кухне, а | verbatim |
+| 11 | Нагиев | Что за бардак на кухне, а? | What kind of chaos is going on in this kitchen? | #208 00:13:27: Что за бардак на кухне, а | verbatim |
 | 12 | Шеф | Какая разница кому? | What difference does it make who it was for? | #208 00:13:27: Какая разница кому | verbatim |
-| 13 | Аня | Вы устроили? | Did you people set this up? | #209 00:13:30: Вы устроили | verbatim |
+| 13 | Нагиев | Вы устроили? | Did you people set this up? | #209 00:13:30: Вы устроили | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e02-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 2
 SCENE = 6
-TITLE = 'Дорогие голуби и план на вечер  (Pricy Pigeons and a Plan for the Evening)'
+TITLE = "Дорогие голуби и план на вечер  (Pricy Pigeons and a Plan for the Evening)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nikita': 'angelina'}
-LABELS = {'anya': 'Денис', 'kostya': 'Костя', 'nikita': 'Никита'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "denis": "anja"}
+LABELS = {"denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.02'
 SOURCE_FILE = 'sources/kukhnya/s06/e02.ru.srt'
 
 INTRO = "In the dining room, guests walk out after seeing a five-thousand-ruble pigeon dish on the menu, while both Denis and Nikita separately plot to win Katya back at tonight's staff party."
 
 STORY = [
-    ('nikita', 'Филе дикого голубя с конфетой.', 'Fillet of wild pigeon with a bonbon.', [(87, 'Филе дикого голубя')], 'adapted'),
-    ('anya', 'А почему так дорого?', 'And why is it so expensive?', [(88, 'А почему так дорого?')], 'exact'),
-    ('nikita', 'Наверное, он очень редкий.', 'Probably, it is very rare.', [(89, 'наверное'), (90, 'Он очень редкий')], 'adapted'),
-    ('anya', 'Нормальный ресторан поблизости есть?', 'Is there a normal restaurant nearby?', [(92, 'Нормальный ресторан поблизости есть?')], 'exact'),
-    ('kostya', 'Что нового, Денис?', 'What is new, Denis?', [(93, 'Что нового?')], 'adapted'),
-    ('anya', 'С Катей не могу помириться.', 'I cannot make up with Katya.', [(94, 'С Катей не могу помириться')], 'exact'),
-    ('anya', 'Цветы выбрасывает, трубку не берёт.', 'She throws away flowers and does not pick up the phone.', [(95, 'Цветы выбрасывает, трубку не берёт')], 'exact'),
-    ('kostya', 'Ты издеваешься?', 'Are you kidding?', [(96, 'Ты издеваешься?')], 'exact'),
-    ('kostya', 'Сегодня вечером все выпьют и расслабятся.', 'Tonight everyone will have a drink and relax.', [(97, 'сегодня вечером'), (98, 'Все выпьют, расслабятся')], 'adapted'),
-    ('anya', 'Ещё раз попробую поговорить.', 'I will try talking to her once more.', [(99, 'Ещё раз попробую')], 'adapted'),
-    ('nikita', 'Слушай, ты не мог бы с Катей поговорить?', 'Listen, could you talk to Katya?', [(104, 'ты не мог бы с Катей поговорить')], 'adapted'),
-    ('nikita', 'Я мучаюсь и помириться хочу.', 'I am agonizing and want to make up.', [(105, 'мучаюсь, помириться хочу')], 'adapted'),
+    ('denis', 'Филе дикого голубя с конфетой.', 'Fillet of wild pigeon with a bonbon.', [(87, 'Филе дикого голубя')], 'adapted'),
+    ('denis', 'А почему так дорого?', 'And why is it so expensive?', [(88, 'А почему так дорого?')], 'exact'),
+    ('denis', 'Наверное, он очень редкий.', 'Probably, it is very rare.', [(89, 'наверное'), (90, 'Он очень редкий')], 'adapted'),
+    ('denis', 'Нормальный ресторан поблизости есть?', 'Is there a normal restaurant nearby?', [(92, 'Нормальный ресторан поблизости есть?')], 'exact'),
+    ('denis', 'Что нового, Денис?', 'What is new, Denis?', [(93, 'Что нового?')], 'adapted'),
+    ('denis', 'С Катей не могу помириться.', 'I cannot make up with Katya.', [(94, 'С Катей не могу помириться')], 'exact'),
+    ('denis', 'Цветы выбрасывает, трубку не берёт.', 'She throws away flowers and does not pick up the phone.', [(95, 'Цветы выбрасывает, трубку не берёт')], 'exact'),
+    ('denis', 'Ты издеваешься?', 'Are you kidding?', [(96, 'Ты издеваешься?')], 'exact'),
+    ('denis', 'Сегодня вечером все выпьют и расслабятся.', 'Tonight everyone will have a drink and relax.', [(97, 'сегодня вечером'), (98, 'Все выпьют, расслабятся')], 'adapted'),
+    ('denis', 'Ещё раз попробую поговорить.', 'I will try talking to her once more.', [(99, 'Ещё раз попробую')], 'adapted'),
+    ('denis', 'Слушай, ты не мог бы с Катей поговорить?', 'Listen, could you talk to Katya?', [(104, 'ты не мог бы с Катей поговорить')], 'adapted'),
+    ('denis', 'Я мучаюсь и помириться хочу.', 'I am agonizing and want to make up.', [(105, 'мучаюсь, помириться хочу')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Both Kostya and Denis give the exact same advice—wait until Katya has a glass of wine at the evening party. See you in the next scene.'
-CLOSING = ('kostya', 'Лучший союзник — алкоголь.')
+OUTRO = 'Both Kostya and Denis give the exact same advice—wait until Katya has a glass of wine at the evening party. See you next time!'
+CLOSING = ("denis", "До завтра!")

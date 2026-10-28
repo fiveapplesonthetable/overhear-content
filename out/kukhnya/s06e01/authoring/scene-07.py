@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e01-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 1
 SCENE = 7
-TITLE = 'Новый пианист Денис  (The New Pianist Denis)'
+TITLE = "Новый пианист Денис  (The New Pianist Denis)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'angelina', 'denis': 'anja'}
-LABELS = {'anya': 'Шеф', 'eleonora': 'Элеонора', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "eleonora": "angelina"}
+LABELS = {"chef": "Шеф", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.01'
 SOURCE_FILE = 'sources/kukhnya/s06/e01.ru.srt'
 
 INTRO = "Right after promising Katya she will never meddle in her love life again, Eleonora spots Katya's ex-boyfriend Denis arriving as Nagiyev's replacement pianist and secretly orders Mikhail to get rid of him."
 
 STORY = [
     ('eleonora', 'Я никогда больше не буду лезть в твою жизнь.', 'I will never meddle in your life again.', [(106, 'Я никогда больше не буду лезть')], 'adapted'),
-    ('denis', 'Здравствуйте, рад вас видеть.', 'Hello, glad to see you.', [(115, 'Здравствуйте')], 'adapted'),
+    ('chef', 'Здравствуйте, рад вас видеть.', 'Hello, glad to see you.', [(115, 'Здравствуйте')], 'adapted'),
     ('eleonora', 'Дима, можно тебя на минуточку?', 'Dima, may I have you for a moment?', [(116, 'можно тебе на минуточку')], 'adapted'),
     ('eleonora', 'Он у нас играть не будет.', 'He is not going to play for us.', [(117, 'Он у нас играть не будет')], 'exact'),
     ('eleonora', 'Чего ты психуешь, он не в моем вкусе.', 'Why are you freaking out, he is not my type.', [(118, 'Чего ты психуешь-то? Он вообще не в моем вкусе')], 'adapted'),
     ('eleonora', 'Пусть он играет в другом месте.', 'Let him play in some other place.', [(120, 'играет в каком-нибудь другом месте')], 'adapted'),
-    ('denis', 'Привет, Катя.', 'Hi, Katya.', [(123, 'Привет')], 'adapted'),
-    ('denis', 'У вас тут текучка большая.', 'You have high staff turnover here.', [(125, 'У вас тут текучка')], 'adapted'),
-    ('anya', 'Ведь это не похоже на мое печенье.', 'After all, this does not look like my cookies.', [(126, 'Ведь это не похоже на мое печенье')], 'exact'),
-    ('anya', 'Я все-таки с острыми предметами работаю.', 'After all, I work with sharp objects.', [(127, 'я все-таки с острыми предметами работаю')], 'adapted'),
+    ('chef', 'Привет, Катя.', 'Hi, Katya.', [(123, 'Привет')], 'adapted'),
+    ('chef', 'У вас тут текучка большая.', 'You have high staff turnover here.', [(125, 'У вас тут текучка')], 'adapted'),
+    ('chef', 'Ведь это не похоже на мое печенье.', 'After all, this does not look like my cookies.', [(126, 'Ведь это не похоже на мое печенье')], 'exact'),
+    ('chef', 'Я все-таки с острыми предметами работаю.', 'After all, I work with sharp objects.', [(127, 'я все-таки с острыми предметами работаю')], 'adapted'),
     ('eleonora', 'Поздравляю, а мне приходится работать с тупыми.', 'Congratulations, while I have to work with dull ones.', [(128, 'Поздравляю, а мне приходится работать с тупыми')], 'exact'),
-    ('anya', 'Сейчас сделаем новое печенье.', 'We will make new cookies right now.', [(126, 'мое печенье')], 'adapted'),
+    ('chef', 'Сейчас сделаем новое печенье.', 'We will make new cookies right now.', [(126, 'мое печенье')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'While Denis wonders if he still has a gig for the evening, Barinov turns the cookie crisis over to pastry chef Louis. See you in the next scene.'
-CLOSING = ('anya', 'Где Луи?')
+OUTRO = 'While Denis wonders if he still has a gig for the evening, Barinov turns the cookie crisis over to pastry chef Louis. Until next time!'
+CLOSING = ("chef", "Увидимся!")

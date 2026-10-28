@@ -21,7 +21,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Нагиев | Ну, чаще всего нет, конечно. | Well, most often not, of course. | #39 00:02:09: Ну, чаще всего нет, конечно | adapted: adapted |
 | 10 | Нагиев | Поэтому не волнуйся, давай ступай. | So do not worry, go on, step along. | #40 00:02:11: Поэтому не волнуйся. Давай, ступай | adapted: adapted |
 | 11 | Аня | Вика с вами никуда не пойдёт. | Vika will not go anywhere with you. | #41 00:02:13: Вика с вами никуда не пойдет | adapted: adapted |
-| 12 | Вика | Макс, пожалуйста, не начинай сейчас. | Max, please, do not start right now. | #33 00:01:54: Подождите | adapted: adapted |
+| 12 | Нагиев | Макс, пожалуйста, не начинай сейчас. | Max, please, do not start right now. | #33 00:01:54: Подождите | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

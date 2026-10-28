@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e06-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 6
 SCENE = 1
 TITLE = "Развод в ЗАГСе и спор родителей  (Divorce at the Registry and the Parents' Fight)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'eleonora': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
+LABELS = {"vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.06'
 SOURCE_FILE = 'sources/kukhnya/s05/e06.ru.srt'
 
 INTRO = "Welcome to episode six of Kukhnya season five. Max dreams of his wedding day with Vika before waking up at the divorce registry office, where Vika refuses to name the baby's father. Back at the hotel, Barinov and Eleonora clash over heartbroken Katya."
@@ -23,8 +23,8 @@ STORY = [
     ('vika', 'Ты уже почти не муж.', 'You are already almost not my husband.', [(12, 'ты уже почти не муж')], 'adapted'),
     ('vika', 'Я не собираюсь перед тобой отчитываться.', 'I am not going to report to you.', [(13, 'я не собираюсь перед тобой отчитываться')], 'adapted'),
     ('anya', 'Кто отец ребёнка?', "Who is the child's father?", [(16, 'Кто отец ребенка')], 'adapted'),
-    ('eleonora', 'Это твой повар её бросил!', 'It was your cook who dumped her!', [(19, 'это твой повар ее бросил')], 'adapted'),
-    ('eleonora', 'С этого момента я беру её под контроль.', 'From this moment I am taking her under my control.', [(21, 'с этого момента я'), (22, 'беру ее под свой контроль')], 'adapted'),
+    ('vika', 'Это твой повар её бросил!', 'It was your cook who dumped her!', [(19, 'это твой повар ее бросил')], 'adapted'),
+    ('vika', 'С этого момента я беру её под контроль.', 'From this moment I am taking her under my control.', [(21, 'с этого момента я'), (22, 'беру ее под свой контроль')], 'adapted'),
     ('anya', 'Я сам прослежу за ребёнком.', 'I will look after the child myself.', [(25, 'Я прослежу за ребенком')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With the final divorce certificate set for one month away, Max still has no idea who fathered Vika's child, while Katya's parents battle over how to comfort her. See you in the next scene."
-CLOSING = ('eleonora', 'Я прослежу получше тебя.')
+OUTRO = "With the final divorce certificate set for one month away, Max still has no idea who fathered Vika's child, while Katya's parents battle over how to comfort her. Until next time!"
+CLOSING = ("vika", "До встречи!")

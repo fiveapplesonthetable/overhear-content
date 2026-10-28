@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Сегодня мне совершенно некогда. | Today I have no time at all. | #251 00:18:05: Сегодня мне некогда | adapted: adapted |
-| 2 | Вика | И почему вдруг сразу предложение? | And why a marriage proposal all of a sudden? | #252 00:18:07: И почему сразу предложение | adapted: adapted |
-| 3 | Вика | Витя, ты думаешь, мне надо за него выходить? | Vitya, do you think I should marry him? | #253 00:18:11: Витя, ты думаешь<br>#254 00:18:14: мне надо за него выходить | adapted: adapted |
+| 1 | Катя | Сегодня мне совершенно некогда. | Today I have no time at all. | #251 00:18:05: Сегодня мне некогда | adapted: adapted |
+| 2 | Катя | И почему вдруг сразу предложение? | And why a marriage proposal all of a sudden? | #252 00:18:07: И почему сразу предложение | adapted: adapted |
+| 3 | Катя | Витя, ты думаешь, мне надо за него выходить? | Vitya, do you think I should marry him? | #253 00:18:11: Витя, ты думаешь<br>#254 00:18:14: мне надо за него выходить | adapted: adapted |
 | 4 | Аня | Ты уже взрослая девочка, сама решай. | You are already a grown girl, decide for yourself. | #255 00:18:18: Ты уже взрослая девочка, сама решай | adapted: adapted |
 | 5 | Аня | Что же ты тут делаешь на кухне? | What on earth are you doing here in the kitchen? | #258 00:18:47: Что ж ты делаешь-то | adapted: adapted |
 | 6 | Аня | Зачем ты туда тимьян положил? | Why did you put thyme in there? | #259 00:18:58: Зачем туда тимьян положил | adapted: adapted |
@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Today I have no time at all.' In Russian, the idea of 'tonight' flows naturally into 'no time' without extra filler words.
-- 'And why a marriage proposal all of a sudden?' The grammar packs 'and' and 'offer' into a tight, idiomatic kitchen exchange.
+- 'And why a marriage proposal all of a sudden?' Notice how Russian puts 'why' and 'offer, proposal; sentence' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Vitya, do you think I should marry him?' In Russian, the idea of 'Vitya' flows naturally into 'to go out' without extra filler words. Max answers right away.
 - 'You are already a grown girl, decide for yourself.' Here the Russian phrasing highlights 'you' before landing on 'to decide'.
 - 'What on earth are you doing here in the kitchen?' In Russian, the idea of 'what' flows naturally into 'kitchen' without extra filler words.

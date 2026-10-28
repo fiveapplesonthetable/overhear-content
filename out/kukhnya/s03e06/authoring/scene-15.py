@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e06-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 6
 SCENE = 15
-TITLE = 'Перед грозой  (Before the Thunderstorm)'
+TITLE = "Перед грозой  (Before the Thunderstorm)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.06'
 SOURCE_FILE = 'sources/kukhnya/s03/e06.ru.srt'
 
 INTRO = 'Nagiyev warns Max that while he cannot fire him because of Kristina, he can still make him regret getting in the way. The next day, dark storm clouds gather over the terrace.'
@@ -40,11 +40,11 @@ WALK = [
     (6, None, "'To you, dear friend, happy anniversary!' Spoken Russian keeps this brisk, leaning on 'for' and finishing on 'anniversary'."),
     (7, None, "'Well, how is our second banquet over there?' Chef Barinov anchors the line on 'come on', while 'banquet' completes the thought."),
     (8, None, "'It has not started yet, but the guests are already gathering.' The meaning hinges on 'else' working together with 'gather' in spoken Russian."),
-    (9, None, "'Chef, it seems heavy rain is brewing.' Notice the reflexive suffix on the verb meaning 'it seems', turning the action back on the subject. Chef Barinov answers right away."),
+    (9, None, "'Chef, it seems heavy rain is brewing.' Max pairs 'it seems' with 'is brewing / planned' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (10, None, "'No, there will be no rain today.' Here the Russian phrasing highlights 'no' before landing on 'will be'."),
     (11, None, "'Alright, then we keep working.' The grammar packs 'all right' and 'to work' into a tight, idiomatic kitchen exchange."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Chef Barinov is convinced the sky will stay clear, but moments later a torrential downpour hits the summer terrace.'
-CLOSING = ('chef', 'Сегодня дождя точно не будет.')
+OUTRO = 'Chef Barinov is convinced the sky will stay clear, but moments later a torrential downpour hits the summer terrace. Until next time!'
+CLOSING = ("chef", "До завтра!")

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Думаешь, этот хитрый план сработает? | Do you think this clever plan will work? | #215 00:15:02: сработает? Конечно, сработает | adapted: adapted |
-| 2 | Михаил | Откуда у него такие большие деньги? | Where would he get that kind of big money? | #216 00:15:04: Откуда у него бабки такие | adapted: adapted |
-| 3 | Михаил | Вернёт он тебе это старое меню. | He will bring that old menu back to you. | #217 00:15:05: Вернет он тебе это старое меню | adapted: adapted |
+| 1 | Шеф | Думаешь, этот хитрый план сработает? | Do you think this clever plan will work? | #215 00:15:02: сработает? Конечно, сработает | adapted: adapted |
+| 2 | Шеф | Откуда у него такие большие деньги? | Where would he get that kind of big money? | #216 00:15:04: Откуда у него бабки такие | adapted: adapted |
+| 3 | Шеф | Вернёт он тебе это старое меню. | He will bring that old menu back to you. | #217 00:15:05: Вернет он тебе это старое меню | adapted: adapted |
 | 4 | Настя | Костик, я сейчас отлучусь ненадолго. | Kostik, I am stepping out for a little while now. | #218 00:15:16: Костик, я отлучусь ненадолго | adapted: adapted |
 | 5 | Настя | У Никиты я уже сама отпросилась. | I already asked Nikita for time off myself. | #219 00:15:18: У Никиты я отпросилась | adapted: adapted |
-| 6 | Аня | Ты куда это собралась, Настя? | Where are you heading off to, Nastya? | #220 00:15:21: Ты куда, Настя | adapted: adapted |
-| 7 | Михаил | Витя, деньги нам нужны уже завтра. | Vitya, we need the money tomorrow already. | #222 00:15:30: Деньги нужны завтра | adapted: adapted |
-| 8 | Аня | Ясно, я тебя прекрасно услышал. | Clear, I heard you loud and clear. | #223 00:15:32: Ясно | adapted: adapted |
-| 9 | Михаил | Что, у тебя совсем нет денег? | What, do you have no money at all? | #224 00:15:35: Что, проблемы? Вообще ноль | adapted: adapted |
-| 10 | Аня | Да нет, есть как раз миллион. | Actually no, I have a million right there. | #225 00:15:37: Да нет, есть как раз миллион | adapted: adapted |
-| 11 | Аня | Мы его с Леной на свадьбу откладывали. | Lena and I were saving it for our wedding. | #226 00:15:40: Мы его с Леной на свадьбу откладывали | adapted: adapted |
-| 12 | Михаил | Я бы тебе обязательно помог, друг. | I would definitely help you, my friend. | #227 00:15:43: Не, ну я бы помог, конечно | adapted: adapted |
+| 6 | Шеф | Ты куда это собралась, Настя? | Where are you heading off to, Nastya? | #220 00:15:21: Ты куда, Настя | adapted: adapted |
+| 7 | Шеф | Витя, деньги нам нужны уже завтра. | Vitya, we need the money tomorrow already. | #222 00:15:30: Деньги нужны завтра | adapted: adapted |
+| 8 | Шеф | Ясно, я тебя прекрасно услышал. | Clear, I heard you loud and clear. | #223 00:15:32: Ясно | adapted: adapted |
+| 9 | Шеф | Что, у тебя совсем нет денег? | What, do you have no money at all? | #224 00:15:35: Что, проблемы? Вообще ноль | adapted: adapted |
+| 10 | Шеф | Да нет, есть как раз миллион. | Actually no, I have a million right there. | #225 00:15:37: Да нет, есть как раз миллион | adapted: adapted |
+| 11 | Шеф | Мы его с Леной на свадьбу откладывали. | Lena and I were saving it for our wedding. | #226 00:15:40: Мы его с Леной на свадьбу откладывали | adapted: adapted |
+| 12 | Шеф | Я бы тебе обязательно помог, друг. | I would definitely help you, my friend. | #227 00:15:43: Не, ну я бы помог, конечно | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

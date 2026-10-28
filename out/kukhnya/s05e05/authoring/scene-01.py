@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e05-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 5
 SCENE = 1
 TITLE = "Возвращение Макса  (Max's Return)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.05'
 SOURCE_FILE = 'sources/kukhnya/s05/e05.ru.srt'
 
 INTRO = 'Welcome to episode five of Kukhnya season five. Max Lavrov rushes back to Moscow after learning that Vika is pregnant, but when he catches up to her at the hotel, she hits him with a shocking claim.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Vika walks away after telling Max that the baby is not his, leaving him stunned in the middle of the hotel. See you in the next scene.'
-CLOSING = ('anya', 'Этого просто не может быть!')
+OUTRO = 'Vika walks away after telling Max that the baby is not his, leaving him stunned in the middle of the hotel. Until next time!'
+CLOSING = ("anya", "До встречи!")

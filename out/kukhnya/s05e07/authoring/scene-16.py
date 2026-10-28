@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e07-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 7
 SCENE = 16
-TITLE = 'Диагноз переедание  (Diagnosis: Overeating)'
+TITLE = "Диагноз переедание  (Diagnosis: Overeating)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vrach': 'anja', 'eleonora': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vrach': 'Врач', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "eleonora": "angelina"}
+LABELS = {"chef": "Шеф", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.07'
 SOURCE_FILE = 'sources/kukhnya/s05/e07.ru.srt'
 
 INTRO = "In the lobby, the paramedic explains that severe overeating triggered the prefect's collapse. After Eleonora berates Mikhail for risking a man's life over a bet, Barinov hands Mikhail a fresh two-kilogram steak to eat himself."
 
 STORY = [
     ('eleonora', 'Доктор, а что с ним?', 'Doctor, what is wrong with him?', [(256, 'Доктор, а что с ним')], 'adapted'),
-    ('vrach', 'Обследование покажет точнее.', 'The examination will show more precisely.', [(257, 'покажет точнее')], 'adapted'),
-    ('vrach', 'Распространённый случай, всему виной переедание.', 'A common case, overeating is to blame for everything.', [(258, 'Распространенный случай'), (258, 'виной, конечно, переедание')], 'adapted'),
-    ('vrach', 'Нужно себя сдерживать.', 'One must restrain oneself.', [(259, 'Нужно себя сдерживать')], 'adapted'),
-    ('vrach', 'Вы, кстати, тоже имейте в виду.', 'You, by the way, should keep that in mind too.', [(260, 'Вы, кстати, тоже')], 'adapted'),
+    ('chef', 'Обследование покажет точнее.', 'The examination will show more precisely.', [(257, 'покажет точнее')], 'adapted'),
+    ('chef', 'Распространённый случай, всему виной переедание.', 'A common case, overeating is to blame for everything.', [(258, 'Распространенный случай'), (258, 'виной, конечно, переедание')], 'adapted'),
+    ('chef', 'Нужно себя сдерживать.', 'One must restrain oneself.', [(259, 'Нужно себя сдерживать')], 'adapted'),
+    ('chef', 'Вы, кстати, тоже имейте в виду.', 'You, by the way, should keep that in mind too.', [(260, 'Вы, кстати, тоже')], 'adapted'),
     ('eleonora', 'Префекта до инфаркта довёл!', 'You drove the prefect to a heart attack!', [(262, 'Префект'), (262, 'инфаркта довел')], 'adapted'),
     ('eleonora', 'Рисковать человеческой жизнью ради победы!', 'Risking a human life for the sake of a victory!', [(264, 'а рисковать человеческой жизнью ради'), (264, 'победы')], 'adapted'),
-    ('anya', 'Пари продолжается.', 'The wager continues.', [(265, 'Пари продолжается')], 'adapted'),
-    ('anya', 'Это вам, Михаил Джекович.', 'This is for you, Mikhail Dzhekovich.', [(267, 'Это вам')], 'adapted'),
-    ('anya', 'Приятного аппетита.', 'Enjoy your meal.', [(268, 'Приятного аппетита')], 'adapted'),
+    ('chef', 'Пари продолжается.', 'The wager continues.', [(265, 'Пари продолжается')], 'adapted'),
+    ('chef', 'Это вам, Михаил Джекович.', 'This is for you, Mikhail Dzhekovich.', [(267, 'Это вам')], 'adapted'),
+    ('chef', 'Приятного аппетита.', 'Enjoy your meal.', [(268, 'Приятного аппетита')], 'adapted'),
     ('eleonora', 'Приятного аппетита, Михаил.', 'Enjoy your meal, Mikhail.', [(268, 'Приятного аппетита')], 'adapted'),
-    ('anya', 'Ешьте всё до последнего кусочка.', 'Eat everything down to the last piece.', [(267, 'Это вам')], 'adapted'),
+    ('chef', 'Ешьте всё до последнего кусочка.', 'Eat everything down to the last piece.', [(267, 'Это вам')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Stuck with a two-kilogram steak in front of him, Mikhail gets a taste of his own medicine while the kitchen celebrates. See you in the next scene.'
-CLOSING = ('anya', 'Ждём вашего рекорда, Михаил.')
+OUTRO = 'Stuck with a two-kilogram steak in front of him, Mikhail gets a taste of his own medicine while the kitchen celebrates. See you next time!'
+CLOSING = ("chef", "До завтра!")

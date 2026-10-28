@@ -15,13 +15,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Сеня | Неприятно, когда они так на нас смотрят. | It is unpleasant when they stare at us like that. | #229 00:18:10: Неприятно | adapted: adapted |
 | 4 | Гость | Успокойтесь, я поговорю с их шеф-поваром. | Calm down, I will speak with their head chef. | #230 00:18:14: Успокойтесь. Я поговорю с их шеф-поваром | adapted: adapted |
 | 5 | Гость | Мы сейчас всё спокойно здесь выясним. | We will calmly find out everything here right now. | #230 00:18:14: и мы все выясним | adapted: adapted |
-| 6 | Аня | Эй, почему посторонние люди на кухне? | Hey, why are unauthorized people in the kitchen? | #232 00:18:27: почему посторонние на кухне | adapted: adapted |
+| 6 | Гость | Эй, почему посторонние люди на кухне? | Hey, why are unauthorized people in the kitchen? | #232 00:18:27: почему посторонние на кухне | adapted: adapted |
 | 7 | Гость | Скажите, куда вы дели нашего пророка? | Tell us, where did you put our prophet? | #233 00:18:30: Вы куда дели<br>#234 00:18:32: нашего пророка | adapted: adapted |
-| 8 | Аня | О чём вы вообще сейчас говорите? | What are you even talking about right now? | #235 00:18:34: О чем вы | adapted: adapted |
+| 8 | Гость | О чём вы вообще сейчас говорите? | What are you even talking about right now? | #235 00:18:34: О чем вы | adapted: adapted |
 | 9 | Сеня | Шеф, они хотят нас во всём обвинить! | Chef, they want to blame us for everything! | #236 00:18:39: а на нас | adapted: adapted |
 | 10 | Гость | Что вы такое про нас говорите? | What are you saying about us? | #237 00:18:40: Вы что говорите | adapted: adapted |
 | 11 | Гость | Братья, быстро защищайтесь от этих поваров! | Brothers, quickly defend yourselves from these cooks! | #238 00:18:43: Братья, защищайтесь | adapted: adapted |
-| 12 | Аня | Подождите, никто здесь никого не трогал! | Wait, nobody touched anyone in here! | #235 00:18:34: Шеф | adapted: adapted |
+| 12 | Гость | Подождите, никто здесь никого не трогал! | Wait, nobody touched anyone in here! | #235 00:18:34: Шеф | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

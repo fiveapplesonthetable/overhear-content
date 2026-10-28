@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e13-scene-01"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e13-scene-01'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 13
 SCENE = 1
-TITLE = 'Ода мясу и больничный завтрак  (Ode to Meat and the Hospital Breakfast)'
+TITLE = "Ода мясу и больничный завтрак  (Ode to Meat and the Hospital Breakfast)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.13"
-SOURCE_FILE = "sources/kukhnya/s02/e13.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.13'
+SOURCE_FILE = 'sources/kukhnya/s02/e13.ru.srt'
 
 INTRO = 'At Claude Monet, Max reflects on how nobody can resist juicy marbled beef or young lamb, right until a polite guest asks for a vegetarian dish. Meanwhile in his hospital ward, Chef Barinov despairs when the nurse serves him plain porridge instead of meat.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 1 of Episode 13, listen out for the exchange around ode to meat and the hospital breakfast — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Приятного аппетита.')
+OUTRO = 'That wraps up this scene as max praises juicy marbled beef and lamb before a vegetarian guest arrives at Claude Monet, while Chef Barinov suffers through a meatless hospital breakfast. Until next time!'
+CLOSING = ("anya", "Пока!")

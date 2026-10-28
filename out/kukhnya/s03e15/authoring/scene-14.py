@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 14
-TITLE = 'Падение с третьего этажа  (Falling from the Third Floor)'
+TITLE = "Падение с третьего этажа  (Falling from the Third Floor)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = "Standing on the crane platform outside Vika's third-floor window, Max spots Vika hiding inside and warns her that if he falls, it will be on her conscience—right before the crane jerks and sends him tumbling down! Listen first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max plummets three stories into the bushes below, and Vika rushes downstairs in a panic! Let's see if Max is okay in Scene Fifteen."
-CLOSING = ('vika', 'Дурак, что ты делаешь?')
+OUTRO = "Max plummets three stories into the bushes below, and Vika rushes downstairs in a panic! Let's see if Max is okay in Scene Fifteen. See you next time!"
+CLOSING = ("vika", "До встречи!")

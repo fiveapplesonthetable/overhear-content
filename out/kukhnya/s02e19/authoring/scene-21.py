@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e19-scene-21"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e19-scene-21'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 19
 SCENE = 21
-TITLE = 'Конец войны и роль для Шефа  (End of the War and a Role for the Chef)'
+TITLE = "Конец войны и роль для Шефа  (End of the War and a Role for the Chef)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.19"
-SOURCE_FILE = "sources/kukhnya/s02/e19.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
+SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 
 INTRO = 'In the office, Nagiyev angrily orders Vika and Chef Barinov to end the war that is making the entire staff suffer. Afterward, however, the film director approaches Viktor Petrovich and confesses that watching him lose his temper convinced her he is the exact man she needs for her film.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 21 of Episode 19, listen out for the exchange around end of the war and a role for the chef — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('vika', 'Вы были такой.')
+OUTRO = 'That wraps up this scene as nagiyev orders Vika and Chef Barinov to end their feud immediately, while the film director reveals to Viktor Petrovich that his fiery outburst won him the role instead of Nagiyev. Until next time!'
+CLOSING = ("vika", "Всего хорошего!")

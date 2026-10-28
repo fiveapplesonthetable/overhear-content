@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e06-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 6
 SCENE = 17
-TITLE = 'Скандал между гостями  (Scandal Between Guests)'
+TITLE = "Скандал между гостями  (Scandal Between Guests)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "vika": "angelina", "anya": "alisa"}
+LABELS = {"guest": "Гость", "vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.06'
 SOURCE_FILE = 'sources/kukhnya/s03/e06.ru.srt'
 
 INTRO = 'The mourners and the birthday guests start arguing across the dining room. Each group insists they were promised the entire restaurant to themselves. Listen to the full conversation in Russian first, and then we will walk through every line together.'
@@ -37,7 +37,7 @@ WALK = [
     (3, None, "'We were promised this entire restaurant.' The grammar packs 'us' and 'restaurant' into a tight, idiomatic kitchen exchange."),
     (4, None, "'Please, go to your table.' Spoken Russian keeps this brisk, leaning on 'please' and finishing on 'table'."),
     (5, None, "'And take your friends with you too, please.' Notice how Russian expresses 'and' and 'please' with crisp inflection rather than helper words."),
-    (6, None, "'I will definitely complain about you!' Notice the reflexive suffix on the verb meaning 'complain', turning the action back on the subject."),
+    (6, None, "'I will definitely complain about you!' In everyday Russian, 'definitely' flows straight into 'complain' without extra linking words."),
     (7, None, "'Friends, let us peacefully settle this misunderstanding.' Vika brings out the contrast between 'friend' and 'let's' in a few short words. the guest answers right away."),
     (8, None, "'If you do not mind, you leave yourselves.' Here the Russian phrasing highlights 'if' before landing on 'leave'."),
     (9, None, "'Please put down that sharp knife.' The grammar packs 'put' and 'knife' into a tight, idiomatic kitchen exchange."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'At the worst possible moment, angry guests call both Nagiyev and Kristina, who walk through the front door at the same time.'
-CLOSING = ('vika', 'Дима, ты уже приехал?')
+OUTRO = 'At the worst possible moment, angry guests call both Nagiyev and Kristina, who walk through the front door at the same time. Until next time!'
+CLOSING = ("vika", "Хорошего дня!")

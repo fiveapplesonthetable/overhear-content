@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e10-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 10
 SCENE = 1
-TITLE = 'Лёва влюбился в Катю  (Lyova Fell in Love with Katya)'
+TITLE = "Лёва влюбился в Катю  (Lyova Fell in Love with Katya)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja'}
-LABELS = {'anya': 'Макс', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "lyova": "angelina"}
+LABELS = {"anya": "Макс", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.10'
 SOURCE_FILE = 'sources/kukhnya/s03/e10.ru.srt'
 
 INTRO = "At the start of a busy morning in the kitchen, Lyova gets distracted watching the Chef's daughter Katya and spills scalding coffee on himself. Max quickly realizes that Lyova has fallen head over heels for her."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Lyova is convinced that since Max brought Kostya and Nastya together, Max can work a miracle for him and Katya too. Let us hear how Max negotiates his fee.'
-CLOSING = ('lyova', 'Ты должен мне помочь с Катей.')
+OUTRO = 'Lyova is convinced that since Max brought Kostya and Nastya together, Max can work a miracle for him and Katya too. Let us hear how Max negotiates his fee. Until next time!'
+CLOSING = ("lyova", "До завтра!")

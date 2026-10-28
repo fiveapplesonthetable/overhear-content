@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e09-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 9
 SCENE = 1
-TITLE = 'Утро после разрыва  (The Morning After the Breakup)'
+TITLE = "Утро после разрыва  (The Morning After the Breakup)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "lyova": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.09'
 SOURCE_FILE = 'sources/kukhnya/s03/e09.ru.srt'
 
 INTRO = "After breaking up with Elena Pavlovna, Chef Barinov wakes up hungover in Max's apartment. While Lyova and Ilya hurry out the door, the Chef recruits Max to go find a morning drink."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With the Chef acting as both the boss and the bad influence, Max has no way to refuse. Let us see how Vika reacts when they call the restaurant.'
-CLOSING = ('chef', 'Собирайся, пойдём скорее!')
+OUTRO = 'With the Chef acting as both the boss and the bad influence, Max has no way to refuse. Let us see how Vika reacts when they call the restaurant. Until next time!'
+CLOSING = ("chef", "До завтра!")

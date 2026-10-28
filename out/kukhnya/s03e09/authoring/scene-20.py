@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e09-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 9
 SCENE = 20
-TITLE = 'Невидимые нити  (Invisible Threads)'
+TITLE = "Невидимые нити  (Invisible Threads)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.09'
 SOURCE_FILE = 'sources/kukhnya/s03/e09.ru.srt'
 
 INTRO = 'Chef Barinov returns to the kitchen sober—having actually gotten an anti-alcohol implant—and sincerely thanks Max. Moments later, the Chef overhears Max bragging about the staged video and chases him through the kitchen!'
@@ -40,11 +40,11 @@ WALK = [
     (6, None, "'Forgive me for yesterday.' Notice how Russian expresses 'forgive' and 'day' with crisp inflection rather than helper words."),
     (7, None, "'Thank you for not filing a police report.' The meaning hinges on 'thank you' working together with 'statement' in spoken Russian. Max answers right away."),
     (8, None, "'Alright, Chef, it is all behind us now.' Max brings out the contrast between 'well' and 'everything' in a few short words."),
-    (9, None, "'I got a sobriety implant because of you!' Notice the reflexive suffix on the verb meaning 'got an anti-alcohol implant', turning the action back on the subject."),
+    (9, None, "'I got a sobriety implant because of you!' Spoken Russian keeps this brief and expressive, built right around 'got an anti-alcohol implant' without extra helper words."),
     (10, None, "'Easy, Chef, just take it easy, please!' Notice how Russian expresses 'calmly' and 'ask for' with crisp inflection rather than helper words. Chef Barinov answers right away."),
     (11, None, "'I will kill you, get over here!' The meaning hinges on 'I' working together with 'here' in spoken Russian."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that brings Episode 9 of Season 3 to a hilarious close! Chef Barinov is sober against his will, Kostya is honest with Nastya, and Katya's Parisian secret is ticking. See you in Episode 10!"
-CLOSING = ('anya', 'Спокойно, шеф, только спокойно!')
+OUTRO = "And that brings Episode 9 of Season 3 to a hilarious close! Chef Barinov is sober against his will, Kostya is honest with Nastya, and Katya's Parisian secret is ticking. See you in Episode 10! See you next time!"
+CLOSING = ("anya", "До свидания!")

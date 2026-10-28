@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | А как же наша свадьба? | And what about our wedding? | #267 00:17:11: А как же наша свадьба | adapted: adapted |
-| 2 | Аня | Это тоже было твоё прикрытие? | Was that also your cover story? | #268 00:17:13: Это тоже было прикрытие | adapted: adapted |
+| 1 | Шеф | А как же наша свадьба? | And what about our wedding? | #267 00:17:11: А как же наша свадьба | adapted: adapted |
+| 2 | Шеф | Это тоже было твоё прикрытие? | Was that also your cover story? | #268 00:17:13: Это тоже было прикрытие | adapted: adapted |
 | 3 | Елена | Нет, я действительно тебя люблю. | No, I truly love you. | #269 00:17:15: Нет, я действительно тебя люблю | adapted: adapted |
 | 4 | Елена | Поэтому я помогаю тебе сбежать. | That is why I am helping you escape. | #270 00:17:17: помогаю тебе сбежать | adapted: adapted |
 | 5 | Елена | Возьми, это твой новый паспорт. | Take this, it is your new passport. | #271 00:17:19: Возьми. Это твой новый паспорт | adapted: adapted |
 | 6 | Елена | Ты должен срочно покинуть страну. | You must leave the country urgently. | #272 00:17:21: должен покинуть страну | adapted: adapted |
 | 7 | Елена | По ветке доберёшься до аэропорта. | Along the line you will reach the airport. | #274 00:17:29: ты доберешься до аэропорта | adapted: adapted |
-| 8 | Аня | Там в номере связаны люди. | People are tied up in the room over there. | #275 00:17:33: там в номере связаны люди | adapted: adapted |
+| 8 | Шеф | Там в номере связаны люди. | People are tied up in the room over there. | #275 00:17:33: там в номере связаны люди | adapted: adapted |
 | 9 | Елена | Не волнуйся, я позабочусь о них. | Do not worry, I will take care of them. | #276 00:17:36: Не волнуйся<br>#277 00:17:38: Я о них позабочусь | adapted: adapted |
-| 10 | Аня | Мне надо попрощаться с Катей. | I need to say goodbye to Katya. | #280 00:17:52: мне надо попрощаться с Катей | adapted: adapted |
+| 10 | Шеф | Мне надо попрощаться с Катей. | I need to say goodbye to Katya. | #280 00:17:52: мне надо попрощаться с Катей | adapted: adapted |
 | 11 | Елена | Хорошо, даю тебе немного времени. | Alright, I give you a little time. | #281 00:17:56: Хорошо, даю тебе | adapted: adapted |
 | 12 | Елена | И не забудь сбрить усы. | And do not forget to shave off your mustache. | #282 00:17:58: Не забудь сбрить усы | adapted: adapted |
 

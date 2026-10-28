@@ -17,10 +17,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Федя | Это такая честная борьба, да? | This is such a fair fight, right? | #259 00:16:08: Это честная борьба, да | adapted: adapted |
 | 6 | Федя | Тимур, ты вообще куда смотрел? | Timur, where were you even looking? | #260 00:16:10: Тимур, а ты куда смотрел | adapted: adapted |
 | 7 | Федя | Кругом одна сплошная коррупция! | All around there is nothing but corruption! | #261 00:16:13: в коррупции | adapted: adapted |
-| 8 | Аня | Кто привёз в отель лошадь? | Who brought a horse into the hotel? | #265 00:16:23: привезти в отель лошадь | adapted: adapted |
+| 8 | Сеня | Кто привёз в отель лошадь? | Who brought a horse into the hotel? | #265 00:16:23: привезти в отель лошадь | adapted: adapted |
 | 9 | Сеня | Простите, я её крепко привязал. | Forgive me, I tied her up tightly. | #266 00:16:27: Простите, я её привязал | adapted: adapted |
 | 10 | Сеня | Но она отвязалась и убежала. | But she came untied and ran away. | #267 00:16:29: Она отвязалась и убежала | adapted: adapted |
-| 11 | Аня | Она носится и кусает гостей! | She rushes around and bites the guests! | #269 00:16:34: носится по всему отелю и кусает гостей | adapted: adapted |
+| 11 | Сеня | Она носится и кусает гостей! | She rushes around and bites the guests! | #269 00:16:34: носится по всему отелю и кусает гостей | adapted: adapted |
 | 12 | Сеня | Больше таких инцидентов не будет. | There will be no more such incidents. | #271 00:16:39: Больше инцидентов не будет | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

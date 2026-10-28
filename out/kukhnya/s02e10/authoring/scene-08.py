@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e10-scene-08"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e10-scene-08'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 10
 SCENE = 8
-TITLE = 'Настя спасает черепаху  (Nastya Rescues the Turtle)'
+TITLE = "Настя спасает черепаху  (Nastya Rescues the Turtle)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'max': 'anja'}
-LABELS = {'anya': 'Федя', 'max': 'Макс'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.10"
-SOURCE_FILE = "sources/kukhnya/s02/e10.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "fedya": "anja", "anya": "alisa"}
+LABELS = {"fedya": "Федя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.10'
+SOURCE_FILE = 'sources/kukhnya/s02/e10.ru.srt'
 
 INTRO = 'Horrified that the kitchen is about to turn a live turtle into soup, vegetarian Nastya pleads with Fedya to spare the animal and give it to her instead. Softening under her gaze, Fedya hands the turtle over and promises to trick the guest with chicken marinated in fish stock.'
 
 STORY = [
-    ('anya', 'Не будешь ее готовить?', 'Are you not going to cook her?', [(118, 'не будешь ее готовить')], ''),
-    ('max', 'Не буду.', 'Not right now.', [(119, 'Не буду')], ''),
-    ('anya', 'А готовить завтра буду.', 'I am going to cook her tomorrow.', [(120, 'а готовить завтра буду')], ''),
-    ('max', 'Отдай ее мне?', 'Will you give her to me?', [(121, 'отдай ее мне')], ''),
-    ('anya', 'Я тебя очень прошу.', 'I am begging you.', [(122, 'Я тебя очень прошу')], ''),
-    ('max', 'Не смотри на меня так.', 'Do not look at me like that.', [(124, 'Не смотри на меня так')], ''),
-    ('anya', 'На, забирай.', 'Here, take her.', [(125, 'На, забирай')], ''),
-    ('max', 'А как же суп?', 'But what about the soup?', [(127, 'А как же суп')], ''),
-    ('anya', 'Курица, замаринованная в рыбе.', 'Chicken marinated in fish broth.', [(129, 'курица, замаринованная в рыбе')], ''),
-    ('max', 'Они никогда не догадаются.', 'They will never guess the difference.', [(130, 'Они никогда не догадаются')], ''),
-    ('anya', 'То есть вместо нее умрет курица?', 'So a chicken is going to die in her place?', [(132, 'То есть вместо нее умрет курица')], ''),
-    ('max', 'А то сейчас заберу.', 'Watch out or I will take her back right now.', [(133, 'А то сейчас заберу')], ''),
-    ('anya', 'Так, иди.', 'All right, go on.', [(133, 'Так, иди')], ''),
+    ('fedya', 'Не будешь ее готовить?', 'Are you not going to cook her?', [(118, 'не будешь ее готовить')], ''),
+    ('anya', 'Не буду.', 'Not right now.', [(119, 'Не буду')], ''),
+    ('fedya', 'А готовить завтра буду.', 'I am going to cook her tomorrow.', [(120, 'а готовить завтра буду')], ''),
+    ('anya', 'Отдай ее мне?', 'Will you give her to me?', [(121, 'отдай ее мне')], ''),
+    ('fedya', 'Я тебя очень прошу.', 'I am begging you.', [(122, 'Я тебя очень прошу')], ''),
+    ('anya', 'Не смотри на меня так.', 'Do not look at me like that.', [(124, 'Не смотри на меня так')], ''),
+    ('fedya', 'На, забирай.', 'Here, take her.', [(125, 'На, забирай')], ''),
+    ('anya', 'А как же суп?', 'But what about the soup?', [(127, 'А как же суп')], ''),
+    ('fedya', 'Курица, замаринованная в рыбе.', 'Chicken marinated in fish broth.', [(129, 'курица, замаринованная в рыбе')], ''),
+    ('anya', 'Они никогда не догадаются.', 'They will never guess the difference.', [(130, 'Они никогда не догадаются')], ''),
+    ('fedya', 'То есть вместо нее умрет курица?', 'So a chicken is going to die in her place?', [(132, 'То есть вместо нее умрет курица')], ''),
+    ('anya', 'А то сейчас заберу.', 'Watch out or I will take her back right now.', [(133, 'А то сейчас заберу')], ''),
+    ('fedya', 'Так, иди.', 'All right, go on.', [(133, 'Так, иди')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 8 of Episode 10, listen out for the exchange around nastya rescues the turtle — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Так, иди.')
+OUTRO = 'That wraps up this scene as horrified that the live turtle is meant for soup, Nastya begs Fedya to give the creature to her, and Fedya agrees to fake the soup using chicken marinated in fish broth. See you next time!'
+CLOSING = ("fedya", "Пока!")

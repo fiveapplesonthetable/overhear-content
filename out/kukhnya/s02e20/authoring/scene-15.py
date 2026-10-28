@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e20-scene-15"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e20-scene-15'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 20
 SCENE = 15
-TITLE = 'Обещание Макса выиграть час  (Max Promises to Buy an Hour)'
+TITLE = "Обещание Макса выиграть час  (Max Promises to Buy an Hour)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Шеф', 'fedya': 'Федя', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.20"
-SOURCE_FILE = "sources/kukhnya/s02/e20.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina"}
+LABELS = {"chef": "Шеф", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
+SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 
 INTRO = 'Behind closed doors, Fedya weakly suggests the wedding guests might not remember the missing dishes, but Nagiyev roars that they paid a fortune for them and the bride is already in tears. When Chef Barinov says they need at least an hour, Max steps up and promises to stall the wedding party.'
 
 STORY = [
-    ('anya', 'Может, они не вспомнят?', 'Maybe they will not even remember those dishes?', [(254, 'Может, они не вспомнят')], ''),
-    ('fedya', 'Рот закрой, Федя.', 'Shut your mouth, Fedya.', [(255, 'Рот закрой, Федя')], ''),
+    ('chef', 'Может, они не вспомнят?', 'Maybe they will not even remember those dishes?', [(254, 'Может, они не вспомнят')], ''),
+    ('chef', 'Рот закрой, Федя.', 'Shut your mouth, Fedya.', [(255, 'Рот закрой, Федя')], ''),
     ('nagiyev', 'А они все вспомнят.', 'They will remember every single thing.', [(256, 'А они все вспомнят')], ''),
-    ('anya', 'Они бабки за это платили.', 'They paid good money for that menu.', [(257, 'Они бабки за это платили')], ''),
-    ('fedya', 'Быстро готовьте.', 'Cook it right now, fast.', [(258, 'Быстро готовьте')], ''),
+    ('chef', 'Они бабки за это платили.', 'They paid good money for that menu.', [(257, 'Они бабки за это платили')], ''),
+    ('chef', 'Быстро готовьте.', 'Cook it right now, fast.', [(258, 'Быстро готовьте')], ''),
     ('nagiyev', 'Дим, мы не успеем.', 'Dima, we will not make it in time.', [(260, 'Дим, мы не успеем')], ''),
-    ('anya', 'У нас его нет.', 'We do not even have the ingredients here.', [(261, 'у нас его нет')], ''),
-    ('fedya', 'Шеф, у вас будет час, я все решу.', 'Chef, you will have your hour, I will handle everything.', [(262, 'Шеф, у вас будет час, я все решу')], ''),
+    ('chef', 'У нас его нет.', 'We do not even have the ingredients here.', [(261, 'у нас его нет')], ''),
+    ('chef', 'Шеф, у вас будет час, я все решу.', 'Chef, you will have your hour, I will handle everything.', [(262, 'Шеф, у вас будет час, я все решу')], ''),
     ('nagiyev', 'Пошел вон отсюда.', 'Get out of here right now.', [(263, 'Пошел вон отсюда')], ''),
-    ('anya', 'Я сам решаю, кто, куда, когда пошел.', 'I am the one who decides who goes where and when.', [(264, 'Я сам решаю, кто, куда, когда пошел')], ''),
-    ('fedya', 'Что ты сказал, малыш?', 'What did you just say, kid?', [(265, 'Что ты сказал, малыш')], ''),
+    ('chef', 'Я сам решаю, кто, куда, когда пошел.', 'I am the one who decides who goes where and when.', [(264, 'Я сам решаю, кто, куда, когда пошел')], ''),
+    ('chef', 'Что ты сказал, малыш?', 'What did you just say, kid?', [(265, 'Что ты сказал, малыш')], ''),
     ('nagiyev', 'Слышали, да?', 'Did all of you hear that?', [(266, 'Слышали, да')], ''),
-    ('anya', 'Готовьте закуски, он все решит.', 'Start prepping the appetizers, he will handle it.', [(267, 'Готовьте закуски, он все решит')], ''),
+    ('chef', 'Готовьте закуски, он все решит.', 'Start prepping the appetizers, he will handle it.', [(267, 'Готовьте закуски, он все решит')], ''),
 ]
 
 OPENER = "Let's replay the exchange and look closely at each Russian phrase."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 15 of Episode 20, listen out for the exchange around max promises to buy an hour — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Готовьте закуски, он все решит.')
+OUTRO = 'That wraps up this scene as when Chef Barinov admits the kitchen lacks both the foie gras and the time to cook the missing wedding dishes, Max steps in and promises to buy them a full hour. Until next time!'
+CLOSING = ("chef", "Пока!")

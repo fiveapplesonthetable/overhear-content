@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e05-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 5
 SCENE = 20
 TITLE = "Звонок врача и отъезд Дениса  (The Doctor's Call and Denis's Departure)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "denis": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.05'
 SOURCE_FILE = 'sources/kukhnya/s05/e05.ru.srt'
 
 INTRO = 'In the final scene, Max asks Vika one last time who the father is, while Barinov makes peace with Elena with a gift and Denis packs his bags to leave. Then Vika receives a call from her doctor revealing that the sixteen-week figure was a lie.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Episode five of Kukhnya season five comes to an emotional close as Vika hides the truth that Max really is the father of her baby. See you next time.'
-CLOSING = ('vika', 'Спасибо вам большое.')
+OUTRO = 'Episode five of Kukhnya season five comes to an emotional close as Vika hides the truth that Max really is the father of her baby. See you next time!'
+CLOSING = ("vika", "Пока!")

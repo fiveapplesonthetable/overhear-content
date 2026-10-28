@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e03-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 1
-TITLE = 'Суеверные официанты  (Superstitious Waiters)'
+TITLE = "Суеверные официанты  (Superstitious Waiters)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'angelina', 'guest': 'anja'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "anya": "alisa", "guest": "anja"}
+LABELS = {"nastya": "Настя", "anya": "Макс", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = 'In Episode Three of Season Three, Max explains that waiters are even more superstitious than athletes: spill a pinch of salt at a table, and a quarrel with the guest is practically guaranteed.'
@@ -38,7 +38,7 @@ WALK = [
     (4, None, "'What do you mean, no big deal?' In Russian, the idea of 'how' flows naturally into 'terrible' without extra filler words."),
     (5, None, "'Now you and I will definitely quarrel.' In Russian, the idea of 'we' flows naturally into 'will quarrel' without extra filler words. the guest answers right away."),
     (6, None, "'Miss, I have no intention of quarreling with you.' Here the Russian phrasing highlights 'miss' before landing on 'to quarrel'."),
-    (7, None, "'Where are you looking? First salt, then wine!' In Russian, the idea of 'you' flows naturally into 'wine' without extra filler words."),
+    (7, None, "'Where are you looking? First salt, then wine!' the guest pairs 'where to' with 'wine' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (8, None, "'Call the manager!' Notice how Russian expresses 'call' and 'manager' with crisp inflection rather than helper words. Nastya answers right away."),
     (9, None, "'I told you we would quarrel.' In Russian, the idea of 'I' flows naturally into 'will quarrel' without extra filler words."),
     (10, None, "'Thank you. Goodbye. We look forward to seeing you again.' The meaning hinges on 'thank you' working together with 'again' in spoken Russian."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes our opening scene. Listen for how the waitress's prophecy about spilled salt immediately comes true."
-CLOSING = ('nastya', 'Мы обязательно поссоримся!')
+OUTRO = "And that finishes our opening scene. Listen for how the waitress's prophecy about spilled salt immediately comes true. Until next time!"
+CLOSING = ("nastya", "До завтра!")

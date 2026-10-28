@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What are you doing? He ordered just coffee!' An emphatic spoken line centered on the verb meaning 'are doing'. the guest answers right away.
 - 'Coffee? Yes, give me an espresso coffee.' The grammar packs 'coffee' and 'espresso' into a tight, idiomatic kitchen exchange.
 - 'And here, keep the change.' The meaning hinges on 'and' working together with 'need' in spoken Russian.
-- 'Sometimes patience is very generously rewarded.' Notice the reflexive suffix on the verb meaning 'is rewarded', turning the action back on the subject.
+- 'Sometimes patience is very generously rewarded.' Max pairs 'at times, sometimes' with 'is rewarded' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

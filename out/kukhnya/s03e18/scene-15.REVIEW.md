@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Attention all chefs! Listen to me quickly!' The grammar packs 'attention' and 'me' into a tight, idiomatic kitchen exchange.
 - 'For the first time in this kitchen we are burning a menu!' Notice how Russian expresses 'for the first time' and 'menu' with crisp inflection rather than helper words.
 - 'We are burning the pages of this new menu right now.' Chef Barinov anchors the line on 'we', while 'menu' completes the thought.
-- 'The menu is accused of betraying French cuisine with chebureki!' Notice the reflexive suffix on the verb meaning 'is accused', turning the action back on the subject.
+- 'The menu is accused of betraying French cuisine with chebureki!' Here Chef Barinov anchors the thought on 'menu' and finishes on 'with chebureki', keeping the spoken rhythm brisk and natural.

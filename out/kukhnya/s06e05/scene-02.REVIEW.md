@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Прошу прощения, здесь мой друг. | Excuse me, my friend is in here. | #25 00:02:21: Прошу прощения, у вас здесь мой друг | adapted: adapted |
-| 2 | Михаил | Витя, это правда ты пришёл? | Vitya, is it really you who came? | #26 00:02:24: Витя, Витенька, это ты | adapted: adapted |
-| 3 | Михаил | Ты представляешь, я всё проиграл. | Can you imagine, I lost everything. | #27 00:02:28: ты представляешь, я всё проиграл | adapted: adapted |
-| 4 | Михаил | Я проиграл всё, что у меня было. | I lost everything that I had. | #28 00:02:33: Всё, что у меня было | adapted: adapted |
-| 5 | Михаил | Зачем я вообще с ним сел играть? | Why did I even sit down to play with him? | #30 00:02:36: Зачем я вообще с ним сел играть | adapted: adapted |
-| 6 | Аня | Вы его самого не выиграли? | Did you not win him too? | #31 00:02:39: а вы его самого в рабство не выиграли | adapted: adapted |
-| 7 | Аня | Жаль, тогда я его забираю. | Too bad, then I am taking him away. | #32 00:02:43: Жаль. Ну тогда его забирают | adapted: adapted |
-| 8 | Костя | Настя, ты телефон дома забыла. | Nastya, you forgot your phone at home. | #35 00:02:59: Настя, а ты телефон дома забыла | adapted: adapted |
-| 9 | Аня | Спасибо тебе большое, дорогой. | Thank you very much, my dear. | #36 00:03:04: Спасибо | adapted: adapted |
-| 10 | Костя | Скажи мне правду, пожалуйста. | Tell me the truth, please. | #37 00:03:07: Скажи мне, пожалуйста | adapted: adapted |
-| 11 | Аня | Гости за столиком уже ждут. | The guests at the table are already waiting. | #38 00:03:09: Гости за восьмым столиком постарели уже | adapted: adapted |
-| 12 | Аня | Иди быстрее прими у них заказ. | Go quickly and take their order. | #39 00:03:12: Иди прими заказ | adapted: adapted |
+| 1 | Шеф | Прошу прощения, здесь мой друг. | Excuse me, my friend is in here. | #25 00:02:21: Прошу прощения, у вас здесь мой друг | adapted: adapted |
+| 2 | Шеф | Витя, это правда ты пришёл? | Vitya, is it really you who came? | #26 00:02:24: Витя, Витенька, это ты | adapted: adapted |
+| 3 | Шеф | Ты представляешь, я всё проиграл. | Can you imagine, I lost everything. | #27 00:02:28: ты представляешь, я всё проиграл | adapted: adapted |
+| 4 | Шеф | Я проиграл всё, что у меня было. | I lost everything that I had. | #28 00:02:33: Всё, что у меня было | adapted: adapted |
+| 5 | Шеф | Зачем я вообще с ним сел играть? | Why did I even sit down to play with him? | #30 00:02:36: Зачем я вообще с ним сел играть | adapted: adapted |
+| 6 | Шеф | Вы его самого не выиграли? | Did you not win him too? | #31 00:02:39: а вы его самого в рабство не выиграли | adapted: adapted |
+| 7 | Шеф | Жаль, тогда я его забираю. | Too bad, then I am taking him away. | #32 00:02:43: Жаль. Ну тогда его забирают | adapted: adapted |
+| 8 | Шеф | Настя, ты телефон дома забыла. | Nastya, you forgot your phone at home. | #35 00:02:59: Настя, а ты телефон дома забыла | adapted: adapted |
+| 9 | Шеф | Спасибо тебе большое, дорогой. | Thank you very much, my dear. | #36 00:03:04: Спасибо | adapted: adapted |
+| 10 | Шеф | Скажи мне правду, пожалуйста. | Tell me the truth, please. | #37 00:03:07: Скажи мне, пожалуйста | adapted: adapted |
+| 11 | Шеф | Гости за столиком уже ждут. | The guests at the table are already waiting. | #38 00:03:09: Гости за восьмым столиком постарели уже | adapted: adapted |
+| 12 | Шеф | Иди быстрее прими у них заказ. | Go quickly and take their order. | #39 00:03:12: Иди прими заказ | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

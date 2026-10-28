@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Надо же в штанах. Это тебе. | Well look at that, wearing pants. These are for you. | #118 00:09:45: Надо же в | adapted: adapted |
-| 2 | Аня | Спасибо, не надо. Да ладно, Лен, ну это было неумно, я согласен. | No thank you. Come on, Lena, it was foolish, I agree. | #119 00:09:47: Спасибо, не надо | adapted: adapted |
+| 1 | Елена | Надо же в штанах. Это тебе. | Well look at that, wearing pants. These are for you. | #118 00:09:45: Надо же в | adapted: adapted |
+| 2 | Елена | Спасибо, не надо. Да ладно, Лен, ну это было неумно, я согласен. | No thank you. Come on, Lena, it was foolish, I agree. | #119 00:09:47: Спасибо, не надо | adapted: adapted |
 | 3 | Шеф | Во всяком случае, я же не соврал, сказал правду. | At least I did not lie to you, I told the truth. | #120 00:09:52: Во всяком случае | adapted: adapted |
 | 4 | Шеф | Видишь, я уже изменился. Ты изменился? | See, I have already changed. You changed? | #121 00:09:55: Видишь, я уже | adapted: adapted |
-| 5 | Аня | Да. Да ты такой же самовлюблённый эгоист, как был. | Right. You are the exact same narcissistic egoist you always were. | #122 00:09:57: Да. Да ты | adapted: adapted |
-| 6 | Аня | Вместо того, чтобы просто взять и извиниться за свою глупость. | Instead of simply apologizing for your stupidity. | #125 00:10:03: Вместо того, чтобы | adapted: adapted |
+| 5 | Елена | Да. Да ты такой же самовлюблённый эгоист, как был. | Right. You are the exact same narcissistic egoist you always were. | #122 00:09:57: Да. Да ты | adapted: adapted |
+| 6 | Елена | Вместо того, чтобы просто взять и извиниться за свою глупость. | Instead of simply apologizing for your stupidity. | #125 00:10:03: Вместо того, чтобы | adapted: adapted |
 | 7 | Шеф | И всё. Согласен. Это было глупо. | And that is all. I agree. It was stupid. | #126 00:10:06: И всё. Согласен | adapted: adapted |
 | 8 | Шеф | Но это был карточный долг. И отдать его дело чести. | But it was a card debt. And paying it off is a matter of honor. | #127 00:10:08: Но это был | adapted: adapted |
-| 9 | Аня | Кукарекать без штанов – это не долг, это идиотизм. | Crowing without pants is not a debt, it is idiocy. | #129 00:10:13: Кукарекать без штанов | adapted: adapted |
+| 9 | Елена | Кукарекать без штанов – это не долг, это идиотизм. | Crowing without pants is not a debt, it is idiocy. | #129 00:10:13: Кукарекать без штанов | adapted: adapted |
 | 10 | Шеф | Да, идиотизм. Но я обещал выполнить любой идиотизм, если проиграю. | Yes, idiocy. But I promised to carry out any idiocy if I lost. | #130 00:10:16: Да, идиотизм. Но | adapted: adapted |
 | 11 | Шеф | Ничего. Цветы возьмешь? Нет. | Alright then. Will you take the flowers? No. | #133 00:10:26: Ничего. Цветы возьмешь | adapted: adapted |
 | 12 | Шеф | Девушка, это вам от мужчины с чувством собственного достоинства. | Miss, these are for you from a man with a sense of self-respect. | #134 00:10:29: Девушка, это вам | adapted: adapted |
-| 13 | Аня | Извините, это мне цветы принесли. | Excuse me, she was bringing those flowers to me. | #136 00:10:43: Извините, это мне | adapted: adapted |
+| 13 | Елена | Извините, это мне цветы принесли. | Excuse me, she was bringing those flowers to me. | #136 00:10:43: Извините, это мне | adapted: adapted |
 | 14 | Шеф | Отдайте цветы. | Give the flowers back. | #137 00:10:45: Отдайте цветы | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

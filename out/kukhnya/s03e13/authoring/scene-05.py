@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 5
-TITLE = 'Кофе в постель  (Coffee in Bed)'
+TITLE = "Кофе в постель  (Coffee in Bed)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa"}
+LABELS = {"vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = "At Vika's apartment, Vika chats with a friend before Nagiyev tries to charm her into bed, only to be firmly turned down once again. Listen to the full Russian conversation first, and then we will walk through every line."
@@ -23,9 +23,9 @@ STORY = [
     ('anya', 'Подожди, я сейчас не поняла.', 'Wait, I did not understand just now.', [(62, 'Не поняла')], 'adapted'),
     ('anya', 'И как Дима к этому относится?', 'And how does Dima feel about that?', [(63, 'как он к этому относится')], 'adapted'),
     ('vika', 'Вроде он относится нормально.', 'He seems to take it fine.', [(64, 'Вроде ненормально')], 'adapted'),
-    ('nagiyev', 'Ладно, нет так нет.', 'Alright, if it is a no, then it is a no.', [(65, 'нет так нет')], 'adapted'),
-    ('nagiyev', 'Я же всё прекрасно понимаю.', 'I understand everything perfectly well.', [(66, 'я не понимаю, что ли')], 'adapted'),
-    ('nagiyev', 'Я тебе да, а ты мне нет.', 'I say yes to you, and you say no to me.', [(67, 'Я тебе да, ты мне нет')], 'adapted'),
+    ('vika', 'Ладно, нет так нет.', 'Alright, if it is a no, then it is a no.', [(65, 'нет так нет')], 'adapted'),
+    ('vika', 'Я же всё прекрасно понимаю.', 'I understand everything perfectly well.', [(66, 'я не понимаю, что ли')], 'adapted'),
+    ('vika', 'Я тебе да, а ты мне нет.', 'I say yes to you, and you say no to me.', [(67, 'Я тебе да, ты мне нет')], 'adapted'),
     ('vika', 'Спокойной ночи, Дмитрий Владимирович.', 'Good night, Dmitry Vladimirovich.', [(69, 'Спокойной ночи')], 'adapted'),
 ]
 
@@ -39,7 +39,7 @@ WALK = [
     (4, None, "'To express his gratitude, so to speak.' Max anchors the line on 'to express', while 'to say' completes the thought. Vika answers right away."),
     (5, None, "'Well, so far there is not much to thank me for.' Vika anchors the line on 'come on', while 'what' completes the thought."),
     (6, None, "'Wait, I did not understand just now.' The meaning hinges on 'wait' working together with 'understood' in spoken Russian."),
-    (7, None, "'And how does Dima feel about that?' Notice the reflexive suffix on the verb meaning 'applies', turning the action back on the subject. Vika answers right away."),
+    (7, None, "'And how does Dima feel about that?' Max pairs 'how' with 'applies' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (8, None, "'He seems to take it fine.' Here the Russian phrasing highlights 'seemingly' before landing on 'normally'."),
     (9, None, "'Alright, if it is a no, then it is a no.' Notice how Russian expresses 'all right' and 'so' with crisp inflection rather than helper words."),
     (10, None, "'I understand everything perfectly well.' Here the Russian phrasing highlights 'I' before landing on 'understand'."),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nagiyev's patience is wearing thin after another night on the living room sofa. In the next scene, he goes straight to Chef Barinov for relationship advice."
-CLOSING = ('nagiyev', 'Нет так нет.')
+OUTRO = "Nagiyev's patience is wearing thin after another night on the living room sofa. Until next time!"
+CLOSING = ("vika", "Пока!")

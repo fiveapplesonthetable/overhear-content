@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e12-scene-19"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e12-scene-19'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 12
 SCENE = 19
-TITLE = 'Разоблачение симулянта в палате  (Exposing the Faker in the Ward)'
+TITLE = "Разоблачение симулянта в палате  (Exposing the Faker in the Ward)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.12"
-SOURCE_FILE = "sources/kukhnya/s02/e12.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.12'
+SOURCE_FILE = 'sources/kukhnya/s02/e12.ru.srt'
 
 INTRO = "At the hospital, Viktor Petrovich pretends to be unconscious so Elena Pavlovna will sit tenderly by his bedside and confess her feelings. His ward neighbor, however, mischievously ruins the act by casually mentioning that Spartak lost yesterday's match, causing Barinov to sit bolt upright."
 
 STORY = [
-    ('anya', 'Расскажите, как вы к нему относитесь.', 'Tell him how you feel about him.', [(311, 'Расскажите, как вы к нему относитесь')], ''),
+    ('chef', 'Расскажите, как вы к нему относитесь.', 'Tell him how you feel about him.', [(311, 'Расскажите, как вы к нему относитесь')], ''),
     ('vika', 'Доброе утро, Виктор Петрович!', 'Good morning, Viktor Petrovich!', [(313, 'Доброе утро, Виктор Петрович')], ''),
-    ('anya', 'Игру-то смотрели вчера?', 'Did you watch the game yesterday?', [(314, 'Игру-то смотрели вчера')], ''),
+    ('chef', 'Игру-то смотрели вчера?', 'Did you watch the game yesterday?', [(314, 'Игру-то смотрели вчера')], ''),
     ('vika', 'Очень смешно.', 'Very funny.', [(315, 'Очень смешно')], ''),
-    ('anya', 'Вы издеваетесь.', 'You are making fun of me.', [(316, 'вы издеваетесь')], ''),
+    ('chef', 'Вы издеваетесь.', 'You are making fun of me.', [(316, 'вы издеваетесь')], ''),
     ('vika', 'Ну, конечно, давно.', 'Well, of course, for a long time now.', [(318, 'Ну, конечно, давно')], ''),
-    ('anya', 'А вы что, не в курсе?', 'Wait, did you not know?', [(319, 'А вы что, не в курсе')], ''),
+    ('chef', 'А вы что, не в курсе?', 'Wait, did you not know?', [(319, 'А вы что, не в курсе')], ''),
     ('vika', 'Да уже все нормально.', 'Everything is fine already.', [(321, 'Да уже все нормально')], ''),
-    ('anya', 'Ну, спит просто.', 'He is just sleeping.', [(322, 'Ну, спит просто')], ''),
+    ('chef', 'Ну, спит просто.', 'He is just sleeping.', [(322, 'Ну, спит просто')], ''),
     ('vika', 'Как это?', 'How can that be?', [(324, 'Как это')], ''),
-    ('anya', 'Вот так.', 'Just like that.', [(325, 'Вот так')], ''),
+    ('chef', 'Вот так.', 'Just like that.', [(325, 'Вот так')], ''),
     ('vika', 'Ну, хватит, хватит.', 'All right, enough, that is enough.', [(326, 'Ну, хватит, хватит')], ''),
-    ('anya', 'Нормально все со мной.', 'Everything is fine with me.', [(327, 'Нормально все со мной')], ''),
+    ('chef', 'Нормально все со мной.', 'Everything is fine with me.', [(327, 'Нормально все со мной')], ''),
 ]
 
 OPENER = "Right, let's take their exchange slowly and unpack the Russian."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 19 of Episode 12, listen out for the exchange around exposing the faker in the ward — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Нормально все со мной.')
+OUTRO = "That wraps up this scene as when Elena visits the hospital while Chef Barinov is pretending to be unconscious, his ward neighbor tricks Barinov into sitting bolt upright by mentioning Spartak's football match. Until next time!"
+CLOSING = ("chef", "Увидимся!")

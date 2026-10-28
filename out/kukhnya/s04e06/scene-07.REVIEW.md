@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Senya, well how did your reconciliation dinner go?' Max checks on the outcome of Senya's romantic dinner.
 - 'Nowhere, my wife got a bad toothache in the evening.' The inchoative prefix on the verb marks the sudden onset of pain.
-- 'She ate nothing at all during the whole evening.' Accusative time span after 'for/during' marks the whole evening.
-- 'Folks, I wanted to ask you to cover for me.' Perfective infinitive 'to replace' means covering someone's shift.
-- 'My close friend is passing through Moscow today.' Prepositional case marks location in the capital.
-- 'Louis, spare us the details, we are busy right now.' Preposition 'without' governs the genitive plural of 'details'.
-- 'Look for a replacement among the free cooks.' Preposition 'among' governs the genitive plural case.
+- 'She ate nothing at all during the whole evening.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'Folks, I wanted to ask you to cover for me.' Here Louis anchors the thought on 'friend' and finishes on 'to replace', keeping the spoken rhythm brisk and natural.
+- 'My close friend is passing through Moscow today.' In everyday Russian, 'today' flows straight into 'friend' without extra linking words.
+- 'Louis, spare us the details, we are busy right now.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'Look for a replacement among the free cooks.' Notice how Russian puts 'look for' and 'cooks' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Denis, please do not worry about my work.' Louis turns to the newest cook in the kitchen.
-- 'Tonight German will not be in the kitchen.' Impersonal negated future takes the genitive singular of German's name.
-- 'And all my desserts are already completely ready.' Plural short predicate adjective 'ready' agrees with 'desserts'.
+- 'Tonight German will not be in the kitchen.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'And all my desserts are already completely ready.' Louis pairs 'desserts' with 'ready' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'They are sitting neatly in my big refrigerator.' In Russian, upright dishes and containers 'stand' inside the fridge.
 - 'I labeled everything, you just need to hand them out!' Unfortunately for Denis, Louis wrote all the labels in French.

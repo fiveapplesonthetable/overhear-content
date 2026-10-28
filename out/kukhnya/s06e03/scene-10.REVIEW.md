@@ -10,12 +10,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Так, все в ресторан, готовим обед! | Alright, everyone into the restaurant, we are cooking lunch! | #162 00:11:23: Так, все в ресторан, готовим обед | adapted: adapted |
+| 1 | Денис | Так, все в ресторан, готовим обед! | Alright, everyone into the restaurant, we are cooking lunch! | #162 00:11:23: Так, все в ресторан, готовим обед | adapted: adapted |
 | 2 | Денис | Это было несложно. | That was not hard. | #164 00:11:34: Это было несложно | adapted: exact |
 | 3 | Денис | Мы договаривались до десяти, так что после обеда продолжим. | We agreed to play to ten, so we will continue after lunch. | #165 00:11:35: мы договаривались до<br>#165 00:11:35: так что после обеда продолжим | adapted: adapted |
 | 4 | Денис | Зачем продолжать свой позор? | Why prolong your disgrace? | #166 00:11:39: свой позор? | adapted: adapted |
 | 5 | Нагиев | Ну что, вы готовы? | Well, are you ready? | #167 00:11:41: Ну что, готовы? | adapted: adapted |
-| 6 | Аня | Подожди, а где деньги? | Wait, where is the money? | #169 00:11:48: а где деньги? | adapted: adapted |
+| 6 | Денис | Подожди, а где деньги? | Wait, where is the money? | #169 00:11:48: а где деньги? | adapted: adapted |
 | 7 | Нагиев | Быстро учится, умный мальчик. | He learns fast, smart boy. | #170 00:11:50: учиться, умный мальчик | adapted: adapted |
 | 8 | Нагиев | Ничего еще не сняли, а уже деньги просит. | We have not filmed a thing yet, and he is already asking for money. | #171 00:11:53: не сняли, а уже деньги | adapted: adapted |
 | 9 | Нагиев | Пистолет, где его пистолет? | The pistol, where is his pistol? | #173 00:11:57: Пистолет, где пистолет? | adapted: adapted |

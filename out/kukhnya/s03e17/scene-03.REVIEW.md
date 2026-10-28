@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'They will quarrel and ruin our whole wedding.' Spoken Russian keeps this brisk, leaning on 'they' and finishing on 'to spoil'. Nastya answers right away.
 - 'Max, will you come to our wedding alone?' Nastya brings out the contrast between 'Max' and 'you' in a few short words.
-- 'And why should I come with Katya?' The grammar packs 'and' and 'with Katya' into a tight, idiomatic kitchen exchange.
+- 'And why should I come with Katya?' Notice how Russian puts 'why' and 'to come' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Well, I just thought so.' Notice how Russian expresses 'come on' and 'thought' with crisp inflection rather than helper words.
 - 'She really likes you, after all.' Nastya addresses the listener with the informal singular 'you' alongside 'appeal to'.
 - 'Max, bring me that, do this for me.' Kostya brings out the contrast between 'Max' and 'bring' in a few short words.
@@ -37,5 +37,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'By what kind of signs?' In Russian, the idea of 'according to' flows naturally into 'by the signs' without extra filler words.
 - 'First, she looks only at you.' Spoken Russian keeps this brisk, leaning on 'first' and finishing on 'you'.
 - 'That person always tries to touch you.' Nastya addresses the listener with the informal singular 'you' alongside 'to touch'.
-- 'And third, any of your jokes.' The grammar packs 'and' and 'jokes' into a tight, idiomatic kitchen exchange.
+- 'And third, any of your jokes.' Here Nastya anchors the thought on 'third' and finishes on 'jokes', keeping the spoken rhythm brisk and natural.
 - 'How do you know all this, Nastya?' Max raises the pitch on 'Nastya' to turn the phrase into a direct spoken question.

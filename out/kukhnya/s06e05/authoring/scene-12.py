@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e05-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 5
 SCENE = 12
-TITLE = 'Работаем в минус  (Working at a Loss)'
+TITLE = "Работаем в минус  (Working at a Loss)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Шеф', 'eleonora': 'Элеонора', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "eleonora": "angelina", "chef": "anja"}
+LABELS = {"eleonora": "Элеонора", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.05'
 SOURCE_FILE = 'sources/kukhnya/s06/e05.ru.srt'
 
 INTRO = 'During an urgent business meeting in the dining room, Eleonora reveals the bad news the fortune teller foresaw: the restaurant is operating at a heavy financial loss.'
@@ -16,16 +16,16 @@ INTRO = 'During an urgent business meeting in the dining room, Eleonora reveals 
 STORY = [
     ('eleonora', 'Самая неприятная ситуация у нас в ресторане.', 'The most unpleasant situation is in our restaurant.', [(178, 'И самая неприятная ситуация у нас в ресторане')], 'adapted'),
     ('eleonora', 'Сейчас мы фактически работаем в минус.', 'Right now we are practically operating at a loss.', [(179, 'Фактически мы работаем в минус')], 'adapted'),
-    ('nagiyev', 'О, вот и мой обед принесли!', 'Oh, here they have brought my lunch!', [(180, 'принесли')], 'adapted'),
+    ('eleonora', 'О, вот и мой обед принесли!', 'Oh, here they have brought my lunch!', [(180, 'принесли')], 'adapted'),
     ('eleonora', 'Я задала вам очень важный вопрос.', 'I asked you a very important question.', [(182, 'Я задала вопрос')], 'adapted'),
     ('eleonora', 'Почему у нас возникла такая ситуация?', 'Why did such a situation arise for us?', [(183, 'Почему у нас возникла такая ситуация')], 'adapted'),
-    ('anya', 'Нам очень дорого обходится авторская кухня.', 'Auteur cuisine costs us very dearly.', [(184, 'Нам дорого обходится авторская кухня')], 'adapted'),
+    ('chef', 'Нам очень дорого обходится авторская кухня.', 'Auteur cuisine costs us very dearly.', [(184, 'Нам дорого обходится авторская кухня')], 'adapted'),
     ('eleonora', 'Гостей не устраивает малый размер блюд.', 'Guests are unhappy with the small size of the dishes.', [(185, 'Плюс гостей не устраивает соотношение цены и размера блюд')], 'adapted'),
-    ('nagiyev', 'Порция на тарелке совсем маленькая.', 'The portion on the plate is tiny.', [(188, 'Порция-то нормальная')], 'adapted'),
+    ('eleonora', 'Порция на тарелке совсем маленькая.', 'The portion on the plate is tiny.', [(188, 'Порция-то нормальная')], 'adapted'),
     ('eleonora', 'Какие у вас есть дельные предложения?', 'What sensible proposals do you have?', [(190, 'Какие есть предложения')], 'adapted'),
-    ('anya', 'Можно немного сократить наши расходы.', 'We can cut our expenses a little.', [(191, 'Можно сократить зарплаты')], 'adapted'),
-    ('nagiyev', 'Давайте вернём старое доброе меню.', 'Let us bring back the good old menu.', [(193, 'Взять и вернуть старое доброе меню')], 'adapted'),
-    ('nagiyev', 'Тогда народ снова потянется к нам.', 'Then people will flock back to us again.', [(194, 'народ снова потянется')], 'adapted'),
+    ('chef', 'Можно немного сократить наши расходы.', 'We can cut our expenses a little.', [(191, 'Можно сократить зарплаты')], 'adapted'),
+    ('eleonora', 'Давайте вернём старое доброе меню.', 'Let us bring back the good old menu.', [(193, 'Взять и вернуть старое доброе меню')], 'adapted'),
+    ('eleonora', 'Тогда народ снова потянется к нам.', 'Then people will flock back to us again.', [(194, 'народ снова потянется')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nagiyev's casual suggestion to scrap the gourmet menu and bring back old favorites strikes right at Chef Barinov's culinary pride. See you in the next scene."
-CLOSING = ('anya', 'Старое меню возвращать нельзя.')
+OUTRO = "Nagiyev's casual suggestion to scrap the gourmet menu and bring back old favorites strikes right at Chef Barinov's culinary pride. See you next time!"
+CLOSING = ("chef", "До встречи!")

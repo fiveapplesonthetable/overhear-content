@@ -15,10 +15,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Элеонора | Ты ещё хочешь обвинить в этом меня саму? | Do you also want to blame me for this myself? | #306 00:19:23: хочешь меня обвинить | adapted: adapted |
 | 4 | Элеонора | У тебя был последний шанс, но ты его потерял. | You had a last chance, but you lost it. | #308 00:19:28: Знаешь, у тебя был шанс, но ты его не использовал | adapted: adapted |
 | 5 | Элеонора | Всё, с этой минуты ты окончательно уволен! | That is it, from this minute you are fired for good! | #309 00:19:31: Все, ты уволен | adapted: adapted |
-| 6 | Аня | Мама, ты сейчас серьёзно это ему говоришь? | Mom, are you seriously saying that to him right now? | #309 00:19:31: Мам, ты серьезно | adapted: adapted |
-| 7 | Аня | Ты же сама на себя этот кофе разлила! | You spilled that coffee on yourself! | #310 00:19:33: Ты же сама на себя кофе разлила | adapted: adapted |
-| 8 | Аня | За что же ты тогда его сейчас увольняешь? | What are you firing him for right now then? | #310 00:19:33: за что ты его увольняешь | adapted: adapted |
-| 9 | Аня | Так несправедливо нельзя к людям относиться, мама! | You cannot treat people so unfairly, Mom! | #311 00:19:36: Так нельзя к людям относиться | adapted: adapted |
+| 6 | Элеонора | Мама, ты сейчас серьёзно это ему говоришь? | Mom, are you seriously saying that to him right now? | #309 00:19:31: Мам, ты серьезно | adapted: adapted |
+| 7 | Элеонора | Ты же сама на себя этот кофе разлила! | You spilled that coffee on yourself! | #310 00:19:33: Ты же сама на себя кофе разлила | adapted: adapted |
+| 8 | Элеонора | За что же ты тогда его сейчас увольняешь? | What are you firing him for right now then? | #310 00:19:33: за что ты его увольняешь | adapted: adapted |
+| 9 | Элеонора | Так несправедливо нельзя к людям относиться, мама! | You cannot treat people so unfairly, Mom! | #311 00:19:36: Так нельзя к людям относиться | adapted: adapted |
 | 10 | Элеонора | Да, пожалуй, моя дочь Катя совершенно права. | Yes, perhaps my daughter Katya is completely right. | #312 00:19:40: Да, Катя права | adapted: adapted |
 | 11 | Элеонора | Никита, извини меня, я просто немного погорячилась. | Nikita, forgive me, I just lost my temper a little. | #313 00:19:42: Никита, извини, я погорячилась | adapted: adapted |
 | 12 | Никита | Спасибо вам и приятного аппетита, Элеонора Андреевна. | Thank you and enjoy your meal, Eleonora Andreyevna. | #314 00:19:47: Спасибо. Приятного аппетита | adapted: adapted |

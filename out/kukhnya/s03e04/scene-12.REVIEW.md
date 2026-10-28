@@ -15,12 +15,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Нагиев | Почему? Это чего? | Why? What is this? | #167 00:10:48: Почему<br>#168 00:10:50: Это чего | adapted: adapted |
 | 4 | Аня | А это как раз тот самый холодец, который я собирался вам принести. | And this is that very aspic that I was going to bring you. | #169 00:10:57: А это как раз тот самый холодец, который я собирался вам принести | verbatim |
 | 5 | Нагиев | Это его Катя приготовила? | Did Katya prepare this? | #170 00:11:00: Это его Катя приготовила | verbatim |
-| 6 | Аня | Да, Дмитрий Владимирович. | Yes, Dmitry Vladimirovich. | #140 00:08:57: Да, Дмитрий Владимирович | verbatim |
+| 6 | Аня | Да, Дмитрий Владимирович. | Yes, Dmitry Vladimirovich. | new | new |
 | 7 | Нагиев | Приготовь мне ещё что-нибудь необычное! | Prepare something else unusual for me! | #171 00:11:02: приготовь-ка мне еще что-нибудь | adapted: adapted |
 | 8 | Нагиев | Почему? | Why? | #173 00:11:10: Почему | verbatim |
 | 9 | Аня | Потому что мы пилоты! | Because we are pilots! | #174 00:11:13: Потому что мы пилоты | verbatim |
 | 10 | Аня | Спасибо, я твой должник. | Thank you, I am in your debt. | #175 00:11:16: Спасибо, я твой должник | verbatim |
-| 11 | Катя | Пожалуйста, Макс. | You're welcome, Max. | #176 00:11:33: пожалуйста | adapted: adapted |
+| 11 | Нагиев | Пожалуйста, Макс. | You're welcome, Max. | #176 00:11:33: пожалуйста | adapted: adapted |
 | 12 | Аня | Ты меня просто спасла. | You simply saved me. | #175 00:11:16: Спасибо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

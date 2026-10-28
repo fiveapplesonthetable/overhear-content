@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I do not understand at all, why put on gloves?' The grammar packs 'I' and 'gloves' into a tight, idiomatic kitchen exchange.
 - 'Kitchen, attention! We will operate by the new rules!' In Russian, the idea of 'cuisine' flows naturally into 'by the rules' without extra filler words.
 - 'Chef, you said that you decide everything here!' Spoken Russian keeps this brisk, leaning on 'Chef Barinov' and finishing on 'to decide'. Chef Barinov answers right away.
-- 'This is my new firm decision.' In Russian, the idea of 'this' flows naturally into 'decision' without extra filler words.
+- 'This is my new firm decision.' Chef Barinov pairs 'there is' with 'decision, ruling, solution' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Sorry to interrupt, I am here about the new menu.' Spoken Russian keeps this brisk, leaning on 'excuse me' and finishing on 'menu'.
 - 'We need to add okroshka, salad, and chebureki to it.' Notice how Russian expresses 'needed' and 'chebureki' with crisp inflection rather than helper words. Chef Barinov answers right away.
 - 'Well, team, it is time for us to experiment!' Here the Russian phrasing highlights 'come on' before landing on 'to experiment'.
-- 'Listen, what on earth happened to him all of a sudden?' Notice the reflexive suffix on the verb meaning 'happened', turning the action back on the subject.
+- 'Listen, what on earth happened to him all of a sudden?' Max pairs 'listen' with 'happened' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'It seems they simply bribed our Chef.' The meaning hinges on 'it seems' working together with 'chef' in spoken Russian.

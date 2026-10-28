@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 4
-TITLE = 'Удалённый номер и розовая машина  (A Deleted Number and a Pink Car)'
+TITLE = "Удалённый номер и розовая машина  (A Deleted Number and a Pink Car)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'eva': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'eva': 'Ева'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa", "eva": "angelina"}
+LABELS = {"kostya": "Костя", "anya": "Макс", "eva": "Ева"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = "At the restaurant, Max is crushed when Vika replies to his birthday message with 'Thank you, who is this?'—proving she deleted his number! Meanwhile, Eva offers to sell her pink car for five hundred and fifty thousand rubles. Listen first."
@@ -39,12 +39,12 @@ WALK = [
     (5, None, "'Listen, so what did you decide, are you buying the car from me?' Spoken Russian keeps this brisk, leaning on 'listen' and finishing on 'car'. Max answers right away."),
     (6, None, "'Listen, Eva, probably not after all.' Notice how Russian expresses 'listen' and 'no' with crisp inflection rather than helper words."),
     (7, None, "'Its color is too girly for me.' Here the Russian phrasing highlights 'she' before landing on 'me'."),
-    (8, None, "'And why are you not offering it to us?' The grammar packs 'and' and 'suggest' into a tight, idiomatic kitchen exchange."),
+    (8, None, "'And why are you not offering it to us?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
     (9, None, "'Do you think we cannot buy it, how much does it cost?' Kostya anchors the line on 'think', while 'is standing' completes the thought."),
     (10, None, "'Five hundred and fifty thousand rubles.' The grammar packs 'five hundred' and 'rubles' into a tight, idiomatic kitchen exchange."),
     (11, None, "'We are a tiny bit short, but we will think about it.' Kostya anchors the line on 'at', while 'will think' completes the thought."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Kostya and Nastya don't even have money for a fancy wedding, let alone a car—until Nastya's wealthy father arrives at the restaurant in Scene Five!"
-CLOSING = ('kostya', 'Она удалила твой номер.')
+OUTRO = "Kostya and Nastya don't even have money for a fancy wedding, let alone a car—until Nastya's wealthy father arrives at the restaurant in Scene Five! See you next time!"
+CLOSING = ("kostya", "Всего хорошего!")

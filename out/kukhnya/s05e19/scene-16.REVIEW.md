@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Дима, ну куда ты всё время смотришь? | Dima, where do you keep looking all the time? | #269 00:18:55: Дим, ну куда ты все время смотришь | adapted: adapted |
+| 1 | Шеф | Дима, ну куда ты всё время смотришь? | Dima, where do you keep looking all the time? | #269 00:18:55: Дим, ну куда ты все время смотришь | adapted: adapted |
 | 2 | Нагиев | У этого гостя очень знакомое лицо. | That guest has a very familiar face. | #271 00:19:00: знакомая | adapted: adapted |
 | 3 | Нагиев | Я просто так чужие лица не запоминаю. | I do not remember strangers' faces for no reason. | #272 00:19:02: Я просто так лица не запоминаю | adapted: adapted |
 | 4 | Нагиев | Либо он важная шишка, либо я ему должен. | Either he is a big shot, or I owe him money. | #273 00:19:04: Либо он шишка какая-то | adapted: adapted |
-| 5 | Макс | Давайте тарелку, я сам отнесу гостю. | Give me the plate, I will take it to the guest myself. | #274 00:19:13: Я сам отнесу | adapted: adapted |
-| 6 | Аня | Посмотри, это точно инспектор Мишлен! | Look, that is definitely the Michelin inspector! | #275 00:19:19: Это инспектор Мишлен | adapted: adapted |
-| 7 | Макс | Пожалуйста, ваше фирменное блюдо от шефа. | Here you go, your signature dish from the chef. | #276 00:19:24: Пожалуйста | adapted: adapted |
+| 5 | Аня | Давайте тарелку, я сам отнесу гостю. | Give me the plate, I will take it to the guest myself. | #274 00:19:13: Я сам отнесу | adapted: adapted |
+| 6 | Шеф | Посмотри, это точно инспектор Мишлен! | Look, that is definitely the Michelin inspector! | #275 00:19:19: Это инспектор Мишлен | adapted: adapted |
+| 7 | Аня | Пожалуйста, ваше фирменное блюдо от шефа. | Here you go, your signature dish from the chef. | #276 00:19:24: Пожалуйста | adapted: adapted |
 | 8 | Нагиев | Точно он, я никогда не ошибаюсь. | It is definitely him, I am never mistaken. | #277 00:19:26: Точно он. Я не ошибаюсь | adapted: adapted |
 | 9 | Нагиев | Мне эту информацию важный человек передал. | An important contact passed this information to me. | #278 00:19:29: человечек | adapted: adapted |
 | 10 | Нагиев | Объяснять долго, я эту информацию за деньги купил. | It is a long story, I bought this tip for good money. | #280 00:19:35: объяснять долго. В общем, я эту инфу за хорошие бабки купил | adapted: adapted |
-| 11 | Аня | Тогда я сейчас приготовлю ему лучший ужин. | Then I will cook him the best dinner right now. | #275 00:19:19: инспектор Мишлен | adapted: adapted |
-| 12 | Макс | Приятного аппетита, надеюсь, вам понравится. | Bon appétit, I hope you like it. | #276 00:19:24: Пожалуйста | adapted: adapted |
+| 11 | Шеф | Тогда я сейчас приготовлю ему лучший ужин. | Then I will cook him the best dinner right now. | #275 00:19:19: инспектор Мишлен | adapted: adapted |
+| 12 | Аня | Приятного аппетита, надеюсь, вам понравится. | Bon appétit, I hope you like it. | #276 00:19:24: Пожалуйста | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

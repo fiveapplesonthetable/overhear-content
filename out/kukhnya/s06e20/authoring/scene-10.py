@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e20-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 20
 SCENE = 10
-TITLE = 'Пропавшая коляска  (The Missing Wheelchair)'
+TITLE = "Пропавшая коляска  (The Missing Wheelchair)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nastya": "angelina"}
+LABELS = {"chef": "Шеф", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.20'
 SOURCE_FILE = 'sources/kukhnya/s06/e20.ru.srt'
 
 INTRO = "At home, Nastya tells Kostya to close his eyes and open his mouth so she can swab his cheek for the DNA test. Back at the hotel, Mikhail warns Viktor Petrovich that Patrick Malouda is arriving—only to discover that someone stole Barinov's wheelchair!"
 
 STORY = [
     ('nastya', 'Костик, закрой глаза и открой рот.', 'Kostik, close your eyes and open your mouth.', [(128, 'Костик'), (129, 'Закрой глаза, открой рот')], 'adapted'),
-    ('anya', 'Зачем мне открывать сейчас рот?', 'Why should I open my mouth right now?', [(130, 'Зачем')], 'adapted'),
+    ('chef', 'Зачем мне открывать сейчас рот?', 'Why should I open my mouth right now?', [(130, 'Зачем')], 'adapted'),
     ('nastya', 'Так нужно, давай быстрее открывай.', 'It is necessary, come on, open up quickly.', [(130, 'Ну, нужно. Давай')], 'adapted'),
-    ('anya', 'Настя, это что, такая шутка?', 'Nastya, is this some kind of joke?', [(131, 'Это что, шутка')], 'adapted'),
-    ('mikhail', 'Витя, инспектор мне уже звонил.', 'Vitya, the inspector already called me.', [(132, 'Витя, инспектор уже звонил')], 'adapted'),
-    ('mikhail', 'Он совсем скоро будет здесь.', 'He will be here very soon.', [(133, 'Скоро будет')], 'adapted'),
-    ('mikhail', 'Так что давай готовь коляску.', 'So come on, get the wheelchair ready.', [(134, 'Давай, Витя')], 'adapted'),
-    ('anya', 'Подожди, а где моя коляска?', 'Wait, where is my wheelchair?', [(135, 'а где моя коляска')], 'adapted'),
-    ('mikhail', 'Как вы могли потерять коляску?', 'How could you lose the wheelchair?', [(135, 'моя коляска')], 'adapted'),
-    ('anya', 'Эй, стой на месте сейчас же!', 'Hey, stop right there this instant!', [(138, 'Эй'), (139, 'Стой, стой, стой')], 'adapted'),
-    ('anya', 'Куда ты на ней едешь?', 'Where are you riding off to on it?', [(140, 'Куда ты едешь')], 'adapted'),
-    ('mikhail', 'Ну что ты там делаешь?', 'Well, what are you doing over there?', [(140, 'Ну что ты делаешь')], 'adapted'),
+    ('chef', 'Настя, это что, такая шутка?', 'Nastya, is this some kind of joke?', [(131, 'Это что, шутка')], 'adapted'),
+    ('chef', 'Витя, инспектор мне уже звонил.', 'Vitya, the inspector already called me.', [(132, 'Витя, инспектор уже звонил')], 'adapted'),
+    ('chef', 'Он совсем скоро будет здесь.', 'He will be here very soon.', [(133, 'Скоро будет')], 'adapted'),
+    ('chef', 'Так что давай готовь коляску.', 'So come on, get the wheelchair ready.', [(134, 'Давай, Витя')], 'adapted'),
+    ('chef', 'Подожди, а где моя коляска?', 'Wait, where is my wheelchair?', [(135, 'а где моя коляска')], 'adapted'),
+    ('chef', 'Как вы могли потерять коляску?', 'How could you lose the wheelchair?', [(135, 'моя коляска')], 'adapted'),
+    ('chef', 'Эй, стой на месте сейчас же!', 'Hey, stop right there this instant!', [(138, 'Эй'), (139, 'Стой, стой, стой')], 'adapted'),
+    ('chef', 'Куда ты на ней едешь?', 'Where are you riding off to on it?', [(140, 'Куда ты едешь')], 'adapted'),
+    ('chef', 'Ну что ты там делаешь?', 'Well, what are you doing over there?', [(140, 'Ну что ты делаешь')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With the wheelchair rolling down the street and the Michelin inspector minutes away, Senya and Fedya race out to find a replacement. See you in the next scene.'
-CLOSING = ('anya', 'Быстро верните мою коляску!')
+OUTRO = 'With the wheelchair rolling down the street and the Michelin inspector minutes away, Senya and Fedya race out to find a replacement. See you next time!'
+CLOSING = ("chef", "Пока!")

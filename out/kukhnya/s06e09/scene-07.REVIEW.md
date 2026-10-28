@@ -18,10 +18,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Лёва | Подожди, сейчас я ей быстро позвоню. | Wait, I will call her quickly right now. | #108 00:08:36: Сейчас я ей позвоню | adapted: adapted |
 | 7 | Гуля | Знаешь, Лёва, делай что ты хочешь. | You know, Lyova, do whatever you want. | #109 00:08:38: Знаешь, делай что хочешь | adapted: adapted |
 | 8 | Лёва | Алло, мама, скажи, ты сейчас где? | Hello, mom, tell me, where are you right now? | #111 00:08:47: Алло. Мам, ты где | adapted: adapted |
-| 9 | Аня | Она поехала обратно в свою поликлинику. | She went back to her clinic. | #113 00:08:52: Я поехала в поликлинику | adapted: adapted |
+| 9 | Гуля | Она поехала обратно в свою поликлинику. | She went back to her clinic. | #113 00:08:52: Я поехала в поликлинику | adapted: adapted |
 | 10 | Лёва | Мама просит нас спокойно обедать без неё. | Mom asks us to calmly have lunch without her. | #115 00:08:56: Обедайте без меня | adapted: adapted |
 | 11 | Лёва | Простите, но мне пора идти работать. | Forgive me, but it is time for me to go work. | #116 00:09:04: Простите, маме не здоровиться, а мне работать надо | adapted: adapted |
-| 12 | Аня | Елена, к дегустации свадебного меню всё готово. | Elena, everything is ready for the wedding menu tasting. | #117 00:09:13: Елена Павловна, к дегустации свадебного меню все готово | adapted: adapted |
+| 12 | Гуля | Елена, к дегустации свадебного меню всё готово. | Elena, everything is ready for the wedding menu tasting. | #117 00:09:13: Елена Павловна, к дегустации свадебного меню все готово | adapted: adapted |
 | 13 | Гуля | Ах, вот для чего этот званый обед! | Ah, so that is what this fancy lunch is for! | #118 00:09:20: Ах, вот для чего этот обед-то | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

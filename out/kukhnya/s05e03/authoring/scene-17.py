@@ -1,29 +1,29 @@
 ID = 'kukhnya-s05e03-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 3
 SCENE = 17
-TITLE = 'Укус змеи и сто тысяч рублей  (The Snake Bite and One Hundred Thousand Rubles)'
+TITLE = "Укус змеи и сто тысяч рублей  (The Snake Bite and One Hundred Thousand Rubles)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'fedya': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Нагиев', 'fedya': 'Федя', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "fedya": "anja"}
+LABELS = {"nagiyev": "Нагиев", "fedya": "Федя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.03'
 SOURCE_FILE = 'sources/kukhnya/s05/e03.ru.srt'
 
 INTRO = 'Moments later, the escaped snake bites Dmitry Nagiyev right on the backside, and a terrified Nagiyev stumbles into the kitchen offering one hundred thousand rubles to anyone who will suck out the venom. Listen to the panic.'
 
 STORY = [
-    ('anya', 'Помогите, меня змея укусила!', 'Help, a snake bit me!', [(293, 'Меня змея укусила!')], 'verbatim'),
-    ('anya', 'Она прямо сзади меня укусила!', 'It bit me right from behind!', [(294, 'прямо змея укусила!')], 'adapted'),
-    ('anya', 'Ой, как же мне сейчас плохо!', 'Oh, how awful I feel right now!', [(295, 'Мне плохо, а!')], 'adapted'),
-    ('anya', 'Надо срочно этот яд убрать!', 'Someone needs to get this venom out urgently!', [(296, 'Надо яд')], 'adapted'),
-    ('anya', 'Я вас всех очень прошу!', 'I am begging all of you!', [(297, 'Я вас очень прошу!')], 'verbatim'),
-    ('anya', 'Помогите, я ведь сам не могу!', 'Help me, I cannot do it myself!', [(298, 'Я сам не могу!')], 'adapted'),
-    ('anya', 'Я туда просто сам не достану!', 'I simply cannot reach back there myself!', [(299, 'Я не достану просто!')], 'adapted'),
-    ('anya', 'Федя, ну будь ты человеком!', 'Fedya, please be a pal!', [(300, 'Будь человеком, а!')], 'adapted'),
-    ('anya', 'Ребята, ну будьте вы людьми!', 'Guys, please be human beings!', [(301, 'Будьте вы людьми, а!')], 'adapted'),
-    ('anya', 'Я сто тысяч за это даю!', 'I am giving a hundred thousand for this!', [(302, 'Я сто тысяч даю, а!')], 'adapted'),
+    ('nagiyev', 'Помогите, меня змея укусила!', 'Help, a snake bit me!', [(293, 'Меня змея укусила!')], 'verbatim'),
+    ('nagiyev', 'Она прямо сзади меня укусила!', 'It bit me right from behind!', [(294, 'прямо змея укусила!')], 'adapted'),
+    ('nagiyev', 'Ой, как же мне сейчас плохо!', 'Oh, how awful I feel right now!', [(295, 'Мне плохо, а!')], 'adapted'),
+    ('nagiyev', 'Надо срочно этот яд убрать!', 'Someone needs to get this venom out urgently!', [(296, 'Надо яд')], 'adapted'),
+    ('nagiyev', 'Я вас всех очень прошу!', 'I am begging all of you!', [(297, 'Я вас очень прошу!')], 'verbatim'),
+    ('nagiyev', 'Помогите, я ведь сам не могу!', 'Help me, I cannot do it myself!', [(298, 'Я сам не могу!')], 'adapted'),
+    ('nagiyev', 'Я туда просто сам не достану!', 'I simply cannot reach back there myself!', [(299, 'Я не достану просто!')], 'adapted'),
+    ('nagiyev', 'Федя, ну будь ты человеком!', 'Fedya, please be a pal!', [(300, 'Будь человеком, а!')], 'adapted'),
+    ('nagiyev', 'Ребята, ну будьте вы людьми!', 'Guys, please be human beings!', [(301, 'Будьте вы людьми, а!')], 'adapted'),
+    ('nagiyev', 'Я сто тысяч за это даю!', 'I am giving a hundred thousand for this!', [(302, 'Я сто тысяч даю, а!')], 'adapted'),
     ('fedya', 'Ладно, давай, я это могу!', 'Fine, come on, I can do it!', [(303, 'Я могу!')], 'adapted'),
     ('fedya', 'А что, у меня большой кредит!', 'Why not, I have a big loan to pay!', [(304, 'А что у меня кредит?')], 'adapted'),
 ]
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that shows how Fedya's bank loan convinces him to save Nagiyev. Notice the instrumental plural 'lyudmi' in the plea 'budte vy lyudmi'. See you in the next scene."
-CLOSING = ('fedya', 'За сто тысяч я спасу кого угодно!')
+OUTRO = "And that shows how Fedya's bank loan convinces him to save Nagiyev. Until next time!"
+CLOSING = ("fedya", "Увидимся!")

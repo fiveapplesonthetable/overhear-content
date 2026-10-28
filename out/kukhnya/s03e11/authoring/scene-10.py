@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e11-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 10
-TITLE = 'Разговор во дворе  (A Conversation in the Courtyard)'
+TITLE = "Разговор во дворе  (A Conversation in the Courtyard)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"kostya": "Костя", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = 'In the restaurant, Katya admits to Vika that she is not actually pregnant and only wanted to teach Max a lesson—which Vika heartily approves of. Outside in the courtyard, Kostya suggests that Max demand a pregnancy test as proof.'
@@ -39,7 +39,7 @@ WALK = [
     (4, None, "'Maybe you simply do not remember anything?' In Russian, the idea of 'yes' flows naturally into 'remember' without extra filler words."),
     (5, None, "'After all, that sometimes happens to you.' The meaning hinges on 'at' working together with 'such' in spoken Russian. Max answers right away."),
     (6, None, "'I know for sure that I did not sleep with her.' The '-l' ending on the verb meaning 'slept' places the action in the masculine past tense."),
-    (7, None, "'And it seems to me she is lying to all of us.' The grammar packs 'and' and 'is lying' into a tight, idiomatic kitchen exchange."),
+    (7, None, "'And it seems to me she is lying to all of us.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form."),
     (8, None, "'Then she must have exact proof.' Notice how Russian expresses 'then' and 'proof' with crisp inflection rather than helper words."),
     (9, None, "'We just need to do one quick test.' Here the Russian phrasing highlights 'needed' before landing on 'test'."),
     (10, None, "'Boys, come inside to us for lunch quickly!' The meaning hinges on 'boys' working together with 'lunch' in spoken Russian."),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Armed with Kostya's idea of a pregnancy test, Max prepares to expose Katya's bluff. Meanwhile, Chef Barinov stays up all night working on a new menu."
-CLOSING = ('anya', 'Я куплю тест прямо сейчас!')
+OUTRO = "Armed with Kostya's idea of a pregnancy test, Max prepares to expose Katya's bluff. Meanwhile, Chef Barinov stays up all night working on a new menu. See you next time!"
+CLOSING = ("anya", "Хорошего дня!")

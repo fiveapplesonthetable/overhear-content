@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e20-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 20
 SCENE = 9
-TITLE = 'Соперники в плену  (Rivals in Captivity)'
+TITLE = "Соперники в плену  (Rivals in Captivity)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nikita': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Денис', 'nikita': 'Никита', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja"}
+LABELS = {"guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.20'
 SOURCE_FILE = 'sources/kukhnya/s06/e20.ru.srt'
 
 INTRO = "Tied up together in a basement, Denis and Nikita bicker over Nikita's cowardly scheme. Fortunately for them, the lead kidnapper gets a phone call from his visiting mother and postpones dealing with them until after a sightseeing trip, leaving a single guard."
 
 STORY = [
-    ('anya', 'Ну что, очень неожиданный поворот?', 'Well, is this a very unexpected twist?', [(115, 'неожиданный поворот')], 'adapted'),
-    ('nikita', 'Да замолчи ты вообще сейчас!', 'Oh, just shut up right now!', [(116, 'Да заткнись ты вообще')], 'adapted'),
+    ('guest', 'Ну что, очень неожиданный поворот?', 'Well, is this a very unexpected twist?', [(115, 'неожиданный поворот')], 'adapted'),
+    ('guest', 'Да замолчи ты вообще сейчас!', 'Oh, just shut up right now!', [(116, 'Да заткнись ты вообще')], 'adapted'),
     ('guest', 'Алло, мама, привет, мы работаем.', 'Hello, Mom, hi, we are working.', [(118, 'Алло, да'), (118, 'привет'), (119, 'работаем')], 'adapted'),
     ('guest', 'Да, конечно, встретимся как договаривались.', 'Yes, of course, we will meet as we agreed.', [(120, 'Да, да, конечно'), (120, 'как договаривались')], 'adapted'),
-    ('anya', 'Не мог выйти один на один?', 'Could you not face me one on one?', [(121, 'не мог со мной один на один выйти')], 'adapted'),
-    ('nikita', 'Не хотел об тебя руки марать.', 'I did not want to dirty my hands on you.', [(122, 'не хотел'), (122, 'руки марать')], 'adapted'),
-    ('anya', 'Ты сам во всём виноват!', 'You are to blame for everything yourself!', [(123, 'ты сам')], 'adapted'),
+    ('guest', 'Не мог выйти один на один?', 'Could you not face me one on one?', [(121, 'не мог со мной один на один выйти')], 'adapted'),
+    ('guest', 'Не хотел об тебя руки марать.', 'I did not want to dirty my hands on you.', [(122, 'не хотел'), (122, 'руки марать')], 'adapted'),
+    ('guest', 'Ты сам во всём виноват!', 'You are to blame for everything yourself!', [(123, 'ты сам')], 'adapted'),
     ('guest', 'Ну что, вы уже успокоились?', 'Well, have you calmed down now?', [(124, 'Охладились')], 'adapted'),
     ('guest', 'Ваши дела пока немного откладываются.', 'Your business is postponed for a little while.', [(125, 'пока откладываются')], 'adapted'),
     ('guest', 'Ты остаёшься охранять этих двоих.', 'You are staying here to guard these two.', [(126, 'охранять этих')], 'adapted'),
     ('guest', 'А мы скоро сюда подъедем.', 'And we will drive back here soon.', [(127, 'Мы с тобой, значит, подъедем')], 'adapted'),
-    ('anya', 'Нам надо отсюда срочно выбираться.', 'We need to get out of here urgently.', [(115, 'поворот')], 'adapted'),
+    ('guest', 'Нам надо отсюда срочно выбираться.', 'We need to get out of here urgently.', [(115, 'поворот')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'While Denis and Nikita look for a way to overpower their lone guard, Nastya carries out her secret DNA mission at home. See you in the next scene.'
-CLOSING = ('guest', 'Сидите тут совсем тихо!')
+OUTRO = 'While Denis and Nikita look for a way to overpower their lone guard, Nastya carries out her secret DNA mission at home. Until next time!'
+CLOSING = ("guest", "Всего хорошего!")

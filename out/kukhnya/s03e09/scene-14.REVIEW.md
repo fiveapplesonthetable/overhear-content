@@ -19,7 +19,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Аня | Но ты должна мне помочь. | But you have to help me with it. | #215 00:15:34: но ты должна мне помочь | adapted: adapted |
 | 8 | Катя | Хорошо, я обязательно тебе помогу. | Alright, I will definitely help you. | #216 00:15:36: Поможешь? Да | adapted: adapted |
 | 9 | Аня | Тихо, мы с тобой потом договорим. | Quiet, you and I will finish talking later. | #217 00:15:40: Потом договорим | adapted: adapted |
-| 10 | Вика | Катя, ты свои документы принесла? | Katya, did you bring your documents? | #218 00:15:46: Катя, ты документы принесла | adapted: adapted |
+| 10 | Катя | Катя, ты свои документы принесла? | Katya, did you bring your documents? | #218 00:15:46: Катя, ты документы принесла | adapted: adapted |
 | 11 | Катя | Извините, я сегодня опять забыла. | Excuse me, I forgot again today. | #219 00:15:47: Я забыла | adapted: adapted |
 | 12 | Катя | Давайте я точно завтра принесу. | Let me definitely bring them tomorrow. | #220 00:15:49: Давайте я завтра принесу | adapted: adapted |
 

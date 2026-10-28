@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e19-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 6
-TITLE = 'Тост за честность  (A Toast to Honesty)'
+TITLE = "Тост за честность  (A Toast to Honesty)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'rodion': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'rodion': 'Родион'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa", "rodion": "anja"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс", "rodion": "Родион"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = "In the courtyard, Nagiyev tries to pay Rodion Sergeyevich to leave for a few days so Chef won't know Nagiyev lost the argument. Later that evening, Vika and Max raise a glass to honesty."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Right after clinking glasses to honesty, Vika excuses herself for a minute—setting her secret test in motion.'
-CLOSING = ('anya', 'Давай выпьем за нашу честность!')
+OUTRO = 'Right after clinking glasses to honesty, Vika excuses herself for a minute—setting her secret test in motion. See you next time!'
+CLOSING = ("anya", "До свидания!")

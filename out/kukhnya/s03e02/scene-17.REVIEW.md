@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну, я понимаю, договориться нам не удастся. | Well, I understand we will not manage to reach an agreement. | #241 00:20:11: Ну, я понимаю, договориться нам не удастся | verbatim |
+| 1 | Нагиев | Ну, я понимаю, договориться нам не удастся. | Well, I understand we will not manage to reach an agreement. | #241 00:20:11: Ну, я понимаю, договориться нам не удастся | verbatim |
 | 2 | Кристина | При разделе имущества мы будем действовать по закону. | In dividing the property we will act according to the law. | #242 00:20:22: при разделе имущества мы будем действовать | adapted: adapted |
-| 3 | Аня | Ну, ладно. | Well, all right. | #244 00:20:29: Ну, ладно | verbatim |
-| 4 | Аня | Раз вы меня ограбить начали, давайте я вас обедом угощу. | Since you have started to rob me, let me treat you to lunch. | #245 00:20:31: вы меня ограбить начали, давайте я вас<br>#245 00:20:31: обедом угощу | adapted: adapted |
-| 5 | Аня | У нас молекулярная кухня. | We have molecular cuisine. | #246 00:20:37: У нас<br>#247 00:20:39: Молекулярная кухня | adapted: adapted |
-| 6 | Аня | Прелесть! Молекула к молекуле. | A delight! Molecule to molecule. | #248 00:20:41: Прелесть. Молекула к молекуле | verbatim |
-| 7 | Аня | Витя, как удачно! Можешь на секундочку? | Vitya, how well-timed! Can you spare a second? | #249 00:20:45: как удачно<br>#250 00:20:46: на секундочку | adapted: adapted |
-| 8 | Аня | Приготовь, пожалуйста, нам то блюдо с жемчужинами. | Please prepare for us that dish with the pearls. | #251 00:20:49: приготовь, пожалуйста, нам вот то блюдо с жемчужинами | adapted: adapted |
-| 9 | Аня | Вот, для наших гостей две порции. | Here, two portions for our guests. | #253 00:20:56: Вот, для наших гостей две порции | verbatim |
-| 10 | Аня | И секретного ингредиента не жалей. | And do not spare the secret ingredient. | #254 00:20:59: ингредиент секретного, не жалей | adapted: adapted |
-| 11 | Аня | В общем, как себе. | In short, just like for yourself. | #255 00:21:02: В общем, как себе | verbatim |
-| 12 | Аня | Ступай. | Off you go. | #256 00:21:05: Ступай | verbatim |
+| 3 | Нагиев | Ну, ладно. | Well, all right. | #244 00:20:29: Ну, ладно | verbatim |
+| 4 | Нагиев | Раз вы меня ограбить начали, давайте я вас обедом угощу. | Since you have started to rob me, let me treat you to lunch. | #245 00:20:31: вы меня ограбить начали, давайте я вас<br>#245 00:20:31: обедом угощу | adapted: adapted |
+| 5 | Нагиев | У нас молекулярная кухня. | We have molecular cuisine. | #246 00:20:37: У нас<br>#247 00:20:39: Молекулярная кухня | adapted: adapted |
+| 6 | Нагиев | Прелесть! Молекула к молекуле. | A delight! Molecule to molecule. | #248 00:20:41: Прелесть. Молекула к молекуле | verbatim |
+| 7 | Нагиев | Витя, как удачно! Можешь на секундочку? | Vitya, how well-timed! Can you spare a second? | #249 00:20:45: как удачно<br>#250 00:20:46: на секундочку | adapted: adapted |
+| 8 | Нагиев | Приготовь, пожалуйста, нам то блюдо с жемчужинами. | Please prepare for us that dish with the pearls. | #251 00:20:49: приготовь, пожалуйста, нам вот то блюдо с жемчужинами | adapted: adapted |
+| 9 | Нагиев | Вот, для наших гостей две порции. | Here, two portions for our guests. | #253 00:20:56: Вот, для наших гостей две порции | verbatim |
+| 10 | Нагиев | И секретного ингредиента не жалей. | And do not spare the secret ingredient. | #254 00:20:59: ингредиент секретного, не жалей | adapted: adapted |
+| 11 | Нагиев | В общем, как себе. | In short, just like for yourself. | #255 00:21:02: В общем, как себе | verbatim |
+| 12 | Нагиев | Ступай. | Off you go. | #256 00:21:05: Ступай | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

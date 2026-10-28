@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Ну что, Виктор, сдаёшься? | Well then, Victor, do you surrender? | #1 00:00:27: Ну что, Витя, Виктор<br>#2 00:00:31: Сдаешься | adapted: adapted |
-| 2 | Аня | Русские не сдаются, особенно когда играют против олигархов. | Russians do not surrender, especially when playing against oligarchs. | #3 00:00:33: Русские не сдаются<br>#5 00:00:40: когда играют против олигархов | adapted: adapted |
-| 3 | Гость | Не называй меня олигархом. | Do not call me an oligarch. | #7 00:00:46: Не называй меня олигархом | adapted: adapted |
-| 4 | Аня | А как же мне тебя называть? | Then what should I call you? | #8 00:00:49: А как же мне тебя называть | adapted: adapted |
-| 5 | Аня | Мясной король России? | The meat king of Russia? | #9 00:00:51: России | adapted: adapted |
-| 6 | Гость | Ну ладно, вскрываемся. | Alright then, let us show our cards. | #10 00:00:53: Ну ладно<br>#11 00:00:56: Вскрываемся | adapted: adapted |
-| 7 | Гость | У меня флеш. | I have a flush. | #12 00:00:58: У меня флеш | adapted: adapted |
-| 8 | Аня | Мы с тобой давно не виделись. | You and I have not seen each other in a long time. | #13 00:01:03: мы с тобой не виделись | adapted: adapted |
-| 9 | Аня | А ты так и не научился играть в покер. | And you still have not learned to play poker. | #14 00:01:07: а ты так и не научился играть в покер | adapted: adapted |
-| 10 | Аня | У меня каре. | I have four of a kind. | #15 00:01:11: Каре, каре | adapted: adapted |
-| 11 | Аня | Сколько тебе надо будет мяса продать, чтобы рассчитаться? | How much meat will you have to sell to settle up with me? | #16 00:01:13: сколько тебе надо будет<br>#16 00:01:13: продать, чтобы со мной рассчитаться | adapted: adapted |
-| 12 | Аня | Целые фуры мяса! | Whole truckloads of meat! | #17 00:01:20: Фуры, фуры | adapted: adapted |
+| 1 | Шеф | Ну что, Виктор, сдаёшься? | Well then, Victor, do you surrender? | #1 00:00:27: Ну что, Витя, Виктор<br>#2 00:00:31: Сдаешься | adapted: adapted |
+| 2 | Шеф | Русские не сдаются, особенно когда играют против олигархов. | Russians do not surrender, especially when playing against oligarchs. | #3 00:00:33: Русские не сдаются<br>#5 00:00:40: когда играют против олигархов | adapted: adapted |
+| 3 | Шеф | Не называй меня олигархом. | Do not call me an oligarch. | #7 00:00:46: Не называй меня олигархом | adapted: adapted |
+| 4 | Шеф | А как же мне тебя называть? | Then what should I call you? | #8 00:00:49: А как же мне тебя называть | adapted: adapted |
+| 5 | Шеф | Мясной король России? | The meat king of Russia? | #9 00:00:51: России | adapted: adapted |
+| 6 | Шеф | Ну ладно, вскрываемся. | Alright then, let us show our cards. | #10 00:00:53: Ну ладно<br>#11 00:00:56: Вскрываемся | adapted: adapted |
+| 7 | Шеф | У меня флеш. | I have a flush. | #12 00:00:58: У меня флеш | adapted: adapted |
+| 8 | Шеф | Мы с тобой давно не виделись. | You and I have not seen each other in a long time. | #13 00:01:03: мы с тобой не виделись | adapted: adapted |
+| 9 | Шеф | А ты так и не научился играть в покер. | And you still have not learned to play poker. | #14 00:01:07: а ты так и не научился играть в покер | adapted: adapted |
+| 10 | Шеф | У меня каре. | I have four of a kind. | #15 00:01:11: Каре, каре | adapted: adapted |
+| 11 | Шеф | Сколько тебе надо будет мяса продать, чтобы рассчитаться? | How much meat will you have to sell to settle up with me? | #16 00:01:13: сколько тебе надо будет<br>#16 00:01:13: продать, чтобы со мной рассчитаться | adapted: adapted |
+| 12 | Шеф | Целые фуры мяса! | Whole truckloads of meat! | #17 00:01:20: Фуры, фуры | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

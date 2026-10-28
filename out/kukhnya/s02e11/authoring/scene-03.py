@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e11-scene-03"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e11-scene-03'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 11
 SCENE = 3
-TITLE = 'Просьба о сигаретах в больнице  (Begging for Cigarettes in the Hospital)'
+TITLE = "Просьба о сигаретах в больнице  (Begging for Cigarettes in the Hospital)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.11"
-SOURCE_FILE = "sources/kukhnya/s02/e11.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.11'
+SOURCE_FILE = 'sources/kukhnya/s02/e11.ru.srt'
 
 INTRO = 'As soon as the doctor steps out of the hospital room, Chef Barinov calls over the young orderly Nikolai and demands a pack of cigarettes. When Nikolai protests that smuggling tobacco into the ward will get him fired, Barinov sarcastically asks if morphine would be easier to get.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 3 of Episode 11, listen out for the exchange around begging for cigarettes in the hospital — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Это меня уволят.')
+OUTRO = 'That wraps up this scene as once the doctor leaves the ward, Chef Barinov immediately tries to talk hospital orderly Nikolai into sneaking him a pack of cigarettes. Until next time!'
+CLOSING = ("anya", "До встречи!")

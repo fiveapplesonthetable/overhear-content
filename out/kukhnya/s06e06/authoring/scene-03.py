@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e06-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 6
 SCENE = 3
-TITLE = 'Взрослое решение  (An Adult Decision)'
+TITLE = "Взрослое решение  (An Adult Decision)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'eleonora': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'eleonora': 'Элеонора', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "eleonora": "angelina"}
+LABELS = {"kostya": "Костя", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.06'
 SOURCE_FILE = 'sources/kukhnya/s06/e06.ru.srt'
 
 INTRO = 'Once Katya leaves the room, Eleonora drops her calm facade and suggests roughing Olivier up, while at home Kostya refuses to host his estranged father. Listen to the full conversation in Russian first, and then we will walk through every line together.'
@@ -17,9 +17,9 @@ STORY = [
     ('eleonora', 'Она у нас уже взрослый человек.', 'She is already a grown adult.', [(33, 'она уже взрослый человек')], 'adapted'),
     ('eleonora', 'Она вправе сама принимать важные решения.', 'She has the right to make important decisions herself.', [(34, 'И вправе сама принимать решение')], 'adapted'),
     ('eleonora', 'Мы не должны ей сейчас мешать.', 'We must not stand in her way right now.', [(35, 'А мы не должны ей мешать')], 'adapted'),
-    ('anya', 'Ты правда так спокойно думаешь?', 'Do you really think so calmly?', [(36, 'Ты правда так думаешь')], 'adapted'),
+    ('kostya', 'Ты правда так спокойно думаешь?', 'Do you really think so calmly?', [(36, 'Ты правда так думаешь')], 'adapted'),
     ('eleonora', 'Может, просто лицо ему набить?', 'Maybe someone should just beat his face in?', [(37, 'Может, ему морду набить')], 'adapted'),
-    ('anya', 'А кто именно его будет бить?', 'And who exactly is going to beat him?', [(38, 'А кто будет бить')], 'adapted'),
+    ('kostya', 'А кто именно его будет бить?', 'And who exactly is going to beat him?', [(38, 'А кто будет бить')], 'adapted'),
     ('kostya', 'Виктор Петрович, может, мы сможем помочь?', 'Victor Petrovich, maybe we can help?', [(40, 'Виктор Петрович'), (41, 'Может, мы можем помочь')], 'adapted'),
     ('eleonora', 'У нас дома места всем хватит.', 'There is enough room for everyone at our place.', [(44, 'пока у нас места всем хватит')], 'adapted'),
     ('kostya', 'Я категорически против этого гостя дома.', 'I am categorically against this guest at home.', [(46, 'Я боюсь, Константин будет против')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "While Denis and Nikita eagerly agree to confront Olivier, Kostya shuts the door on his father despite Nastya's pleas. See you in the next scene."
-CLOSING = ('kostya', 'Пусть сам смотрит нашу столицу.')
+OUTRO = "While Denis and Nikita eagerly agree to confront Olivier, Kostya shuts the door on his father despite Nastya's pleas. Until next time!"
+CLOSING = ("kostya", "Пока!")

@@ -1,14 +1,14 @@
-ID = "kukhnya-s04e02-scene-14"
-SHOW = "kukhnya"
+ID = 'kukhnya-s04e02-scene-14'
+SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 2
 SCENE = 14
-TITLE = 'Новичок на заготовке  (A Newcomer on Prep)'
+TITLE = "Новичок на заготовке  (A Newcomer on Prep)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Макс', 'lyova': 'Лёва', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S4.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "lyova": "angelina", "denis": "anja"}
+LABELS = {"anya": "Макс", "lyova": "Лёва", "denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S4.02'
 SOURCE_FILE = 'sources/kukhnya/s04/e02.ru.srt'
 
 INTRO = "Max brings Denis to sous-chef Lyova and pitches him as an experienced cook from Voronezh who can take over the vegetable prep station. Let's listen to their exchange in Russian."
@@ -31,22 +31,20 @@ STORY = [
 OPENER = "Now let's walk through the Russian dialogue together."
 
 WALK = [
-    (0, None, "'Sorry that I left. I let everyone down.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately."),
-    (1, None, "'But I am ready to fix everything.' Notice how Max pairs a modal word or finite verb with an infinitive to express the action."),
-    (2, None, "'Here, meet Denis, my brother.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately."),
-    (3, None, "'Let's take him on for vegetable prep, huh?' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (4, None, "'Lyova, you said yourself that we are short-handed.' Max places the negative particle directly before the verb or predicate to negate the statement."),
-    (5, None, "'And he is a responsible person.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately."),
+    (0, None, "'Sorry that I left. I let everyone down.' Here Max anchors the thought on 'sorry' and finishes on 'to let down, fail', keeping the spoken rhythm brisk and natural."),
+    (1, None, "'But I am ready to fix everything.' In everyday Russian, 'ready' flows straight into 'to fix, to correct' without extra linking words."),
+    (2, None, "'Here, meet Denis, my brother.' Max pairs 'to get acquainted, to meet' with 'brother' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
+    (3, None, "'Let's take him on for vegetable prep, huh?' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together."),
+    (4, None, "'Lyova, you said yourself that we are short-handed.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
+    (5, None, "'And he is a responsible person.' In everyday Russian, 'man' flows straight into 'responsible, crucial' without extra linking words."),
     (6, None, "'And what about work experience?' Lyova raises the pitch on the key word to turn this short Russian clause into a direct question."),
-    (7, None, "'Well, he worked as a cook at the best restaurant in Voronezh.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (8, None, "'So he can definitely handle prep work, right?' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately."),
-    (9, None, "'I don't know, I need to ask first.' Lyova uses natural conversational word order here to highlight the most important part of the reply."),
+    (7, None, "'Well, he worked as a cook at the best restaurant in Voronezh.' Notice how Russian puts 'so, like this' and 'Voronezh' together in a short, direct phrase where word endings show how the ideas connect."),
+    (8, None, "'So he can definitely handle prep work, right?' Here Max anchors the thought on 'so, like this' and finishes on 'to manage, to cope, to handle', keeping the spoken rhythm brisk and natural."),
+    (9, None, "'I don't know, I need to ask first.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form."),
     (10, None, "'Ask whom? Now you decide everything here.' Max addresses the listener with the informal singular pronoun, showing a close or familiar relationship."),
-    (11, None, "'Alright, let him come tomorrow for a trial period.' Lyova keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
+    (11, None, "'Alright, let him come tomorrow for a trial period.' Notice how Russian puts 'tomorrow' and 'term, suspension' together in a short, direct phrase where word endings show how the ideas connect."),
 ]
 
 TRANSITION = "Let's hear the entire conversation one more time from start to finish."
-
-OUTRO = 'That finishes Max persuading Lyova to give Denis a trial shift on vegetable prep. Notice how Russian particles add persuasive warmth to requests. See you in the next scene.'
-CLOSING = ('anya', 'Спасибо, Лёв.')
-CLOSING_TRANS = 'Thank you, Lyova.'
+OUTRO = 'That finishes Max persuading Lyova to give Denis a trial shift on vegetable prep. Notice how Russian particles add persuasive warmth to requests. See you next time!'
+CLOSING = ("anya", "Хорошего дня!")

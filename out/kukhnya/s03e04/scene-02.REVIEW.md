@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | А то человек есть, а блюда нет. | Otherwise the person is here, and the dish is not. | #15 00:01:22: А то человек есть, а блюда нет | verbatim |
-| 2 | Аня | Убью! | I will kill him! | #16 00:01:30: Убью | verbatim |
+| 1 | Шеф | А то человек есть, а блюда нет. | Otherwise the person is here, and the dish is not. | #15 00:01:22: А то человек есть, а блюда нет | verbatim |
+| 2 | Шеф | Убью! | I will kill him! | #16 00:01:30: Убью | verbatim |
 | 3 | Елена | А я приготовлю для тебя железное алиби. | And I will prepare an ironclad alibi for you. | #17 00:01:32: А я приготовлю для тебя железное алиби | verbatim |
-| 4 | Аня | Хотел тебя предупредить, мы завтра идём в кино. | I wanted to let you know, tomorrow we are going to the cinema. | #18 00:01:40: Хотел тебя предупредить, мы завтра идем в кино | verbatim |
+| 4 | Шеф | Хотел тебя предупредить, мы завтра идём в кино. | I wanted to let you know, tomorrow we are going to the cinema. | #18 00:01:40: Хотел тебя предупредить, мы завтра идем в кино | verbatim |
 | 5 | Елена | Везёт же вам! | Lucky you! | #19 00:01:43: Везет же вам | verbatim |
 | 6 | Елена | Мы с тобой идём в кино, ничего не планируй. | You and I are going to the cinema, don't plan anything. | #19 00:01:43: Мы с тобой идем в кино<br>#19 00:01:43: ничего не планируй | adapted: adapted |
 | 7 | Елена | А почему ты слоника не носишь, который я тебе подарила? | And why aren't you carrying the little elephant that I gave you? | #21 00:01:50: слоника не носишь, который | adapted: adapted |
 | 8 | Елена | Он же удачу приносит. | It brings good luck, after all. | #22 00:01:52: Он же удачу приносит | verbatim |
-| 9 | Аня | Всё. Да, пока. | That is all. Yes, bye. | #23 00:01:54: Всё. Да, пока | verbatim |
-| 10 | Аня | Думаю, всё. | I think that is everything. | #24 00:02:00: Думаю, всё | verbatim |
+| 9 | Шеф | Всё. Да, пока. | That is all. Yes, bye. | #23 00:01:54: Всё. Да, пока | verbatim |
+| 10 | Шеф | Думаю, всё. | I think that is everything. | #24 00:02:00: Думаю, всё | verbatim |
 | 11 | Елена | Да, Витя! | Yes, Vitya! | #26 00:02:03: Да, Витя | verbatim |
 | 12 | Елена | А, всё, нашла. | Ah, that's it, I found it. | #27 00:02:05: нашла | adapted: adapted |
 

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e08-scene-12"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e08-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 8
 SCENE = 12
-TITLE = 'Сообщение от Елены в сети  (A Message from Elena Online)'
+TITLE = "Сообщение от Елены в сети  (A Message from Elena Online)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'elena': 'angelina'}
-LABELS = {'anya': 'Шеф', 'nastya': 'Настя', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.08"
-SOURCE_FILE = "sources/kukhnya/s02/e08.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "elena": "angelina", "chef": "anja"}
+LABELS = {"elena": "Елена", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.08'
+SOURCE_FILE = 'sources/kukhnya/s02/e08.ru.srt'
 
 INTRO = "Furious that Max created a social media page under his name without permission, Chef Barinov storms over to yell at him. Before Max can delete the profile, however, a friendly message from Elena pops up on the laptop screen, instantly changing the Chef's mind."
 
 STORY = [
-    ('anya', 'Я всегда думал, что ты просто идиот.', 'I always thought that you were simply an idiot.', [(205, 'Я всегда думал, что ты просто идиот')], ''),
-    ('nastya', 'Но ты не идиот.', 'Wait, you are not just an idiot.', [(206, 'Но ты не идиот')], ''),
+    ('chef', 'Я всегда думал, что ты просто идиот.', 'I always thought that you were simply an idiot.', [(205, 'Я всегда думал, что ты просто идиот')], ''),
+    ('elena', 'Но ты не идиот.', 'Wait, you are not just an idiot.', [(206, 'Но ты не идиот')], ''),
     ('elena', 'Какого черта ты решил.', 'Why the hell did you decide to do that.', [(208, 'Какого черта ты решил')], ''),
-    ('anya', 'Шеф, а я подумал.', 'Chef, I just thought it would help.', [(209, 'Шеф, а я подумал')], ''),
-    ('nastya', 'Еще раз добрый день.', 'Good afternoon once again.', [(212, 'Еще раз добрый день')], ''),
+    ('chef', 'Шеф, а я подумал.', 'Chef, I just thought it would help.', [(209, 'Шеф, а я подумал')], ''),
+    ('elena', 'Еще раз добрый день.', 'Good afternoon once again.', [(212, 'Еще раз добрый день')], ''),
     ('elena', 'Как настроение?', 'How is your mood today?', [(213, 'Как настроение')], ''),
-    ('anya', 'Гостей много?', 'Do you have many guests?', [(214, 'Гостей много')], ''),
-    ('nastya', 'Сообщение от Елены.', 'It is a message from Elena.', [(215, 'Сообщение от Елены')], ''),
+    ('chef', 'Гостей много?', 'Do you have many guests?', [(214, 'Гостей много')], ''),
+    ('elena', 'Сообщение от Елены.', 'It is a message from Elena.', [(215, 'Сообщение от Елены')], ''),
     ('elena', 'Что это?', 'Wait, what is that?', [(215, 'Что это')], ''),
-    ('anya', 'Да вы не волнуйтесь.', 'Do not worry, Chef.', [(216, 'да вы не волнуйтесь')], ''),
-    ('nastya', 'Я сейчас все удалю.', 'I will delete the whole thing right now.', [(216, 'я сейчас все удалю')], ''),
+    ('chef', 'Да вы не волнуйтесь.', 'Do not worry, Chef.', [(216, 'да вы не волнуйтесь')], ''),
+    ('elena', 'Я сейчас все удалю.', 'I will delete the whole thing right now.', [(216, 'я сейчас все удалю')], ''),
     ('elena', 'Надо что-то ответить.', 'We have to reply something to her.', [(217, 'надо что-то ответить')], ''),
-    ('anya', 'Напиши так.', 'Write it down like this.', [(218, 'Напиши так')], ''),
+    ('chef', 'Напиши так.', 'Write it down like this.', [(218, 'Напиши так')], ''),
 ]
 
 OPENER = "Let's walk back through the scene line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 12 of Episode 8, listen out for the exchange around a message from elena online — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Напиши так.')
+OUTRO = 'That wraps up this scene as chef Barinov starts to scold Max for creating a social media profile in his name, until a direct message from Elena pops up on the screen. See you next time!'
+CLOSING = ("chef", "Увидимся!")

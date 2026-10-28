@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e10-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 10
 SCENE = 1
-TITLE = 'Звёзды отеля и странные доллары  (Hotel Stars and Strange Dollars)'
+TITLE = "Звёзды отеля и странные доллары  (Hotel Stars and Strange Dollars)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nastya": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "nastya": "Настя", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.10'
 SOURCE_FILE = 'sources/kukhnya/s05/e10.ru.srt'
 
 INTRO = 'Max explains how a special commission inspects every corner of a hotel to award its star rating. Meanwhile in the restaurant, a polite guest settles his bill with Nastya in what look like dollars—until Kostya sees they are paper napkins.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes our opening scene in the dining room. Listen for the comparative structure meaning the more stars, the better the service, and Nastya's surprise at the bar. See you in the next scene."
-CLOSING = ('anya', 'Чем больше звёзд, тем лучше!')
+OUTRO = "And that finishes our opening scene in the dining room. Listen for the comparative structure meaning the more stars, the better the service, and Nastya's surprise at the bar. Until next time!"
+CLOSING = ("anya", "До встречи!")

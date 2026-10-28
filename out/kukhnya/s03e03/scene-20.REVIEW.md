@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And that is just what I thought right away! Right away.' The grammar packs 'and' and 'right' into a tight, idiomatic kitchen exchange.
+- 'And that is just what I thought right away! Right away.' Chef Barinov pairs 'immediately' with 'right, straight' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Max, do you have any brains at all, throwing yourself under the wheels?' Spoken Russian keeps this brisk, leaning on 'Max' and finishing on 'to throw oneself'. Max answers right away.
 - 'Well, at least I felt like a hero.' Here the Russian phrasing highlights 'come on' before landing on 'hero'.
 - 'And still I do not believe in omens, especially bad ones.' The meaning hinges on 'and' working together with 'bad' in spoken Russian.

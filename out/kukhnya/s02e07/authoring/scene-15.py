@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e07-scene-15"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e07-scene-15'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 7
 SCENE = 15
-TITLE = 'Мастер-класс от Родиона Сергеевича  (A Masterclass from Rodion Sergeyevich)'
+TITLE = "Мастер-класс от Родиона Сергеевича  (A Masterclass from Rodion Sergeyevich)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.07"
-SOURCE_FILE = "sources/kukhnya/s02/e07.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.07'
+SOURCE_FILE = 'sources/kukhnya/s02/e07.ru.srt'
 
 INTRO = "In the apartment kitchen, Rodion Sergeyevich watches Max boiling vegetables and demonstrates how plunging them into ice water immediately after draining preserves true Italian al dente texture. Impressed by the homeless man's culinary expertise, Max and Kostya sit down at the table with him for a friendly drink."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 15 of Episode 7, listen out for the exchange around a masterclass from rodion sergeyevich — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('vika', 'Какие обиды?')
+OUTRO = 'That wraps up this scene as at the apartment, Rodion Sergeyevich teaches Max the proper Italian ice-bath method for cooking al dente vegetables and bonds with Max and Kostya over drinks. Until next time!'
+CLOSING = ("vika", "Пока!")

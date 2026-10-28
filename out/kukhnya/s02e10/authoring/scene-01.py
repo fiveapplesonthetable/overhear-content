@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e10-scene-01"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e10-scene-01'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 10
 SCENE = 1
 TITLE = "Потоп у Саши  (The Flood at Sasha's Place)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.10"
-SOURCE_FILE = "sources/kukhnya/s02/e10.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.10'
+SOURCE_FILE = 'sources/kukhnya/s02/e10.ru.srt'
 
 INTRO = "Welcome to Kukhnya Season 2, Episode 10. Max reflects on how everyone walks their own path in life, right up until Sasha's furious landlady knocks on the door and reveals that an overflowing tap has flooded the neighbor's freshly renovated apartment below."
 
@@ -33,7 +33,7 @@ OPENER = "Let's replay the exchange and look closely at each Russian phrase."
 
 WALK = [
     (0, None, "'Along which you walk.' Max brings out the contrast between 'on' and 'who' in a few short words."),
-    (1, None, "'And leads someone else over there.' The grammar packs 'and' and 'there' into a tight, idiomatic kitchen exchange. Max answers right away."),
+    (1, None, "'And leads someone else over there.' Chef Barinov keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'."),
     (2, None, "'Everyone has their own path.' Spoken Russian keeps this brisk, leaning on 'by' and finishing on 'path'."),
     (3, None, "'Who is that?' Here the Russian phrasing highlights 'who' before landing on 'this'."),
     (4, None, "'I do not know.' Spoken Russian keeps this brisk, leaning on 'not' and finishing on 'know'. Chef Viktor answers right away."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 1 of Episode 10, listen out for the exchange around the flood at sasha's place — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Год назад.')
+OUTRO = "That wraps up this scene as max reflects on how everyone follows their own path in life until Sasha's angry landlady bursts in and discovers they have flooded the downstairs neighbor's newly renovated apartment. Until next time!"
+CLOSING = ("anya", "Пока!")

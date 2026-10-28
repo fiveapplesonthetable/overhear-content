@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e18-scene-04"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e18-scene-04'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 18
 SCENE = 4
 TITLE = "Подпись под накладной и родители Насти  (Signing the Invoice and Nastya's Parents)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'timur': 'anja'}
-LABELS = {'anya': 'Макс', 'timur': 'Тимур'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.18"
-SOURCE_FILE = "sources/kukhnya/s02/e18.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "timur": "angelina"}
+LABELS = {"anya": "Макс", "timur": "Тимур"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.18'
+SOURCE_FILE = 'sources/kukhnya/s02/e18.ru.srt'
 
 INTRO = "Max assures Chef Barinov that he checked and signed for all the produce, unaware that he just accepted a bad batch of snails. Out at the bar, Nastya's parents arrive in a panic and berate Kostya for losing track of their daughter."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = "When you watch Scene 4 of Episode 18, listen out for the exchange around signing the invoice and nastya's parents — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Прекратите оба.')
+OUTRO = "That wraps up this scene as max proudly tells Chef Barinov that he signed off on Timur's fresh delivery, while Nastya's furious parents confront Kostya at the bar over their missing daughter. See you next time!"
+CLOSING = ("anya", "До завтра!")

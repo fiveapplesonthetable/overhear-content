@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну да. | Well, yes. | #168 00:10:19: Ну да | verbatim |
-| 2 | Макс | Это он может. | That sounds just like him. | #170 00:10:25: Это он может | verbatim |
-| 3 | Аня | Вот. Хорошо. | There. Good. | #173 00:10:35: Вот. Хорошо | verbatim |
-| 4 | Макс | Я могу на вас рассчитывать? | Can I count on you? | #174 00:10:37: Я могу на вас рассчитывать | verbatim |
-| 5 | Аня | Ну, Елена Павловна, будете мне должны. | Well, Elena Pavlovna, you will owe me one. | #176 00:10:42: Ну, Елена Павловна, будете мне должны | verbatim |
-| 6 | Макс | Буду вам должна. | I will owe you one. | #176 00:10:42: Буду вам должна | verbatim |
-| 7 | Аня | Вить, ты дурак, а? | Vitya, are you a fool or what? | #177 00:10:54: Вить, ты дурак, а | verbatim |
-| 8 | Макс | Да ладно. | Oh, come on. | #179 00:11:00: Да ладно | verbatim |
-| 9 | Аня | Ой, представляете, забыла свой телефон. | Oh, can you imagine, I forgot my phone. | #180 00:11:07: Ой, представляете, забыла свой телефон | verbatim |
-| 10 | Макс | А, я бежать хотел. | Ah, I was just about to head out. | #181 00:11:09: А, я бежать хотел | verbatim |
-| 11 | Аня | До свидания. | Goodbye. | #182 00:11:11: До свидания | verbatim |
-| 12 | Макс | Ты жив там? | Are you still alive under there? | #183 00:11:15: ты жив там | verbatim |
-| 13 | Аня | Не то слово. | You bet I am. | #184 00:11:19: Не то слово | verbatim |
+| 1 | Елена | Ну да. | Well, yes. | #168 00:10:19: Ну да | verbatim |
+| 2 | Аня | Это он может. | That sounds just like him. | #170 00:10:25: Это он может | verbatim |
+| 3 | Елена | Вот. Хорошо. | There. Good. | #173 00:10:35: Вот. Хорошо | verbatim |
+| 4 | Аня | Я могу на вас рассчитывать? | Can I count on you? | #174 00:10:37: Я могу на вас рассчитывать | verbatim |
+| 5 | Елена | Ну, Елена Павловна, будете мне должны. | Well, Elena Pavlovna, you will owe me one. | #176 00:10:42: Ну, Елена Павловна, будете мне должны | verbatim |
+| 6 | Аня | Буду вам должна. | I will owe you one. | #176 00:10:42: Буду вам должна | verbatim |
+| 7 | Елена | Вить, ты дурак, а? | Vitya, are you a fool or what? | #177 00:10:54: Вить, ты дурак, а | verbatim |
+| 8 | Аня | Да ладно. | Oh, come on. | #179 00:11:00: Да ладно | verbatim |
+| 9 | Елена | Ой, представляете, забыла свой телефон. | Oh, can you imagine, I forgot my phone. | #180 00:11:07: Ой, представляете, забыла свой телефон | verbatim |
+| 10 | Аня | А, я бежать хотел. | Ah, I was just about to head out. | #181 00:11:09: А, я бежать хотел | verbatim |
+| 11 | Елена | До свидания. | Goodbye. | #182 00:11:11: До свидания | verbatim |
+| 12 | Аня | Ты жив там? | Are you still alive under there? | #183 00:11:15: ты жив там | verbatim |
+| 13 | Елена | Не то слово. | You bet I am. | #184 00:11:19: Не то слово | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

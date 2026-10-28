@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Calm, you say?' Repeating the adjective followed by the second-person verb 'you say' is a classic sarcastic response when reality proves the opposite.
 - 'What did you break?' Vika assumes Max broke something and uses the masculine past-tense verb with the prefix for shattering into pieces.
-- 'That was not me, that was Styopa.' With no past-tense verb needed, the invariant demonstrative pronoun points directly at the real culprit.
-- 'Kostya asked us to look after him.' The verb for 'to look after' always takes the preposition for 'behind' followed by the instrumental case.
+- 'That was not me, that was Styopa.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'Kostya asked us to look after him.' In everyday Russian, 'asked' flows straight into 'to look' without extra linking words.
 - 'He is a cool kid, right?' Adding the word for 'truth' at the end of a statement turns it into a friendly tag question.
 - 'He is a cute boy.' False-friend alert: this Russian adjective means 'cute' or 'good-looking', not 'sympathetic'.
-- 'I still need to unpack my things.' The dative pronoun combines with the adverb for 'still' and the modal word for 'need to'.
+- 'I still need to unpack my things.' Here Vika anchors the thought on 'still, yet, more' and finishes on 'to take apart, to dismantle; to sort out', keeping the spoken rhythm brisk and natural.
 - 'Viktoriya, come to the restaurant urgently.' Because she must travel across town by vehicle, German uses the motion verb for arriving by transport rather than on foot.
-- 'We have been robbed!' Russian expresses passive events like 'we were robbed' with an active third-person plural verb and the accusative pronoun 'us'.
+- 'We have been robbed!' German centers this short reply on 'to robbed', letting a few direct words carry the whole meaning.
 - 'Yes, I will be right there.' Literally 'now I will be', this two-word phrase is how Russians say 'I'll be right there'.
 - 'Styopa is staying with you.' The present tense of 'to remain' expresses an immediate decision about what is happening right now.
-- 'And what am I supposed to do with him?' Combining a dative pronoun with an infinitive question asks what one ought to do in a predicament.
-- 'Practice, imagine that he is our son.' Vika pairs an imperfective command for ongoing practice with a perfective command for a single act of imagination.
-- 'He is climbing into the oven right now!' The motion verb for climbing or crawling takes the accusative case after 'into' to show direction.
+- 'And what am I supposed to do with him?' Spoken Russian keeps this brief and expressive, built right around 'to do' without extra helper words.
+- 'Practice, imagine that he is our son.' Vika pairs 'practice' with 'son' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'He is climbing into the oven right now!' Notice how Russian puts 'right now' and 'oven' together in a short, direct phrase where word endings show how the ideas connect.

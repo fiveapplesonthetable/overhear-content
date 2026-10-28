@@ -14,13 +14,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Аня | Хочется составить картинку своего счастья. | We want to put together a picture of our happiness. | #2 00:00:32: составить картинку своего счастья | adapted: adapted |
 | 3 | Аня | Не всегда пазлы складываются правильно. | Puzzles do not always come together the right way. | #3 00:00:35: не всегда пазлы складываются | adapted: adapted |
 | 4 | Аня | Нифига себе, где это я? | Holy cow, where am I? | #4 00:00:52: Нифига себе | adapted: adapted |
-| 5 | Катя | Доброе утро, Макс. | Good morning, Max. | #5 00:01:05: Доброе утро | adapted: adapted |
+| 5 | Нагиев | Доброе утро, Макс. | Good morning, Max. | #5 00:01:05: Доброе утро | adapted: adapted |
 | 6 | Аня | Доброе утро, Катя. | Good morning, Katya. | #6 00:01:26: Доброе утро | adapted: adapted |
 | 7 | Нагиев | Ну, кому как сегодня. | Well, that depends on who you ask today. | #7 00:01:28: Ну, кому как | adapted: adapted |
 | 8 | Нагиев | Знал бы я про свою судьбу. | If only I had known about my fate. | #8 00:01:30: Знал бы, что судьба | adapted: adapted |
 | 9 | Нагиев | Судьба повернулась ко мне спиной. | Fate turned its back on me. | #9 00:01:34: так повернется | adapted: adapted |
 | 10 | Нагиев | Конечно, диван бы купил раскладной. | Of course, I would have bought a fold-out sofa. | #10 00:01:38: Конечно, диван бы купил раскладной | adapted: adapted |
-| 11 | Катя | Как спалось сегодня ночью? | How did you sleep last night? | #11 00:01:42: Как почивались | adapted: adapted |
+| 11 | Нагиев | Как спалось сегодня ночью? | How did you sleep last night? | #11 00:01:42: Как почивались | adapted: adapted |
 | 12 | Аня | Неплохо, спасибо тебе. | Not bad, thank you. | #12 00:01:44: Неплохо | adapted: adapted |
 | 13 | Аня | Ты мои джинсы не видела? | Have you seen my jeans? | #13 00:01:47: Ты мои джинсы не видела | adapted: adapted |
 

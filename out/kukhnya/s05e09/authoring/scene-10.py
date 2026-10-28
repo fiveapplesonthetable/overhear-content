@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e09-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 9
 SCENE = 10
-TITLE = 'Детская кроватка и коньяк  (The Baby Crib and the Cognac)'
+TITLE = "Детская кроватка и коньяк  (The Baby Crib and the Cognac)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.09'
 SOURCE_FILE = 'sources/kukhnya/s05/e09.ru.srt'
 
 INTRO = "At the bar counter, Kostya accidentally smashes a bottle of cognac and hurries to mop it up before anyone sees. Just then, a deliveryman brings a baby crib to the hotel because Max absentmindedly gave the restaurant address instead of Vika's apartment."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That finishes the scene at the bar counter. Notice how Max apologizes for mixing up the home and work addresses, right before Vika catches the scent of spilled cognac. See you in the next scene.'
-CLOSING = ('vika', 'Костя, чем это пахнет?')
+OUTRO = 'That finishes the scene at the bar counter. Notice how Max apologizes for mixing up the home and work addresses, right before Vika catches the scent of spilled cognac. See you next time!'
+CLOSING = ("vika", "Увидимся!")

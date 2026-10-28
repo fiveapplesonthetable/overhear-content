@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Аня | Извините меня. | Forgive me. | #140 00:08:17: Извините меня | verbatim |
 | 2 | Федя | Нормальные они. | They are perfectly fine. | #143 00:08:24: Нормальные они | verbatim |
-| 3 | Родион | Я предположил. | I just made an assumption. | #145 00:08:28: Я предположил | verbatim |
+| 3 | Федя | Я предположил. | I just made an assumption. | #145 00:08:28: Я предположил | verbatim |
 | 4 | Аня | А что ты меня вообще слушаешь? | Why are you even listening to me in the first place? | #146 00:08:30: А что ты меня вообще слушаешь | verbatim |
 | 5 | Федя | А если он не придет? | And what if he does not show up? | #149 00:08:42: А если он не придет | verbatim |
-| 6 | Родион | Придет, куда денется? | He will show up, where else would he go? | #150 00:08:44: Придет, куда денется | verbatim |
+| 6 | Федя | Придет, куда денется? | He will show up, where else would he go? | #150 00:08:44: Придет, куда денется | verbatim |
 | 7 | Аня | Бабки нужны, значит придет. | He needs the cash, which means he will show up. | #151 00:08:46: Бабки нужны, значит придет | verbatim |
 | 8 | Федя | Константин, здравствуйте. | Konstantin, hello there. | #153 00:08:50: Константин, здравствуйте | verbatim |
-| 9 | Родион | А вы случайно пиво не пьете? | Do you happen to drink beer, by any chance? | #154 00:08:53: А вы случайно пиво не пьете | verbatim |
+| 9 | Федя | А вы случайно пиво не пьете? | Do you happen to drink beer, by any chance? | #154 00:08:53: А вы случайно пиво не пьете | verbatim |
 | 10 | Аня | Здравствуйте, Родион Сергеевич. | Hello, Rodion Sergeyevich. | #154 00:08:53: Здравствуйте, Родион Сергеевич | verbatim |
 | 11 | Федя | Родион Сергеевич, какое пиво зимой на улице? | Rodion Sergeyevich, who drinks beer outside in the winter? | #155 00:08:57: Родион Сергеевич, какое пиво зимой на улице | verbatim |
-| 12 | Родион | Но видно. | Well, one can see. | #157 00:09:05: Но видно | verbatim |
+| 12 | Федя | Но видно. | Well, one can see. | #157 00:09:05: Но видно | verbatim |
 | 13 | Аня | Скажи мне, кто твой друг? | Tell me who your friend is. | #159 00:09:11: Скажи мне, кто твой друг | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)

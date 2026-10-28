@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'God, what have you done right now?' Max brings out the contrast between 'God' and 'you' in a few short words.
-- 'I never thought that everything would end right like this.' Notice the reflexive suffix on the verb meaning 'will end', turning the action back on the subject.
+- 'I never thought that everything would end right like this.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Our life turned out to be too short.' The grammar packs 'our' and 'short' into a tight, idiomatic kitchen exchange.
 - 'I did not have time to understand simple truths.' Max anchors the line on 'I', while 'truths' completes the thought.
 - 'If you love a person, tell them about it.' Notice how Russian expresses 'if' and 'this' with crisp inflection rather than helper words.

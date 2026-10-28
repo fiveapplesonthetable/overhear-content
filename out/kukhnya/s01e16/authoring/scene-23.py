@@ -1,50 +1,46 @@
-ID = "kukhnya-s01e16-scene-23"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e16-scene-23.
+ID = 'kukhnya-s01e16-scene-23'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 16
 SCENE = 23
 TITLE = "Один в один  (Exactly the Same)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "maks": "angelina"}
-LABELS = {"anya": "Anya", "chef": "Chef", "maks": "Maks"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.16"
-SOURCE_FILE = "sources/kukhnya/s01/e16.ru.dual.srt"
-
-INTRO = ("Maks has been trying to recreate a special recipe. Maks approaches the Chef. Let us see what happens next in this scene. Let's listen closely to their exchange in Russian first, and then walk through each line together.")
-
-STORY = [
-    ("maks", "Шеф, я сделал это.", "Chef, I did it.", [(287, "Шеф, я сделал это.")], "adapted"),
-    ("chef", "Что ты сделал?", "What did you make?", [], "new"),
-    ("maks", "Я сделал ваш паштет.", "I made your pâté.", [], "new"),
-    ("chef", "Мой паштет?", "My pâté?", [], "new"),
-    ("maks", "Получилось один в один.", "It came out exactly the same.", [(288, "Получилось один в один.")], "adapted"),
-    ("chef", "Я должен попробовать.", "I must taste it.", [], "new"),
-    ("maks", "Даже чуть-чуть лучше.", "Even a little better.", [(289, "Даже чуть-чуть лучше.")], "adapted"),
-    ("chef", "Да ладно?", "No way!", [(289, "Да ладно?")], "adapted"),
-    ("maks", "Да.", "Yeah.", [(290, "Да.")], "adapted"),
-    ("chef", "Это невозможно.", "This is impossible.", [], "new"),
-    ("maks", "Я хороший повар.", "I am a good cook.", [], "new"),
-    ("chef", "Мы посмотрим.", "We will see.", [], "new"),
-]
-
-OPENER = "Let's review the scene line by line."
-
-WALK = [
-    (0, None, "'Chef, I did it.' The verb for 'did' is in the masculine past tense, marked by that 'l' sound at the end."),
-    (1, None, "'What did you make?' The verb for 'did' is in the masculine past tense, marked by that 'l' sound at the end."),
-    (2, None, "'I made your pâté.' Maks starts with 'I' and pairs it with 'did' to make the point clear. And Chef jumps in."),
-    (3, None, "'My pâté?' Chef puts 'pâté' up front so the listener immediately catches the tone, followed by 'pâté'."),
-    (4, None, "'It came out exactly the same.' The key word here means 'worked out', which Maks combines with 'one'."),
-    (5, None, "'I must taste it.' Chef puts 'I' up front so the listener immediately catches the tone, followed by 'has to'. Maks answers straight away."),
-    (6, None, "'Even a little better.' Maks puts 'a little bit' up front so the listener immediately catches the tone, followed by 'better'."),
-    (7, None, "'No way!' The first content word means 'yes', and 'all right' rounds out the thought."),
-    (8, None, "'Yeah.' You'll hear 'yes' all the time in the show, here connected with 'yes'. Then Chef replies."),
-    (9, None, "'This is impossible.' A compact expression built around 'this' and 'impossible'."),
-    (10, None, "'I am a good cook.' Listen for the word meaning 'I' right alongside 'good' in this line."),
-    (11, None, "'We will see.' The first content word means 'we', and 'have a look' rounds out the thought."),
-]
-
-TRANSITION = "Let's listen to the dialog one more time."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around exactly the same, and for the words meaning 'did' and 'pâté'. You'll catch them now. See you next time."
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
+SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
+INTRO = "Maks has been trying to recreate a special recipe. Maks approaches the Chef. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+OPENER = "Now let's go back through the exchange around Exactly the Same line by line and unpack how the Russian works."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "Maks has been trying to recreate a special recipe. Maks approaches the Chef. Let us see what happens next in this scene. Next time you watch the episode, listen for the Russian expressions for 'to do' and 'pâté' — you will catch every word right away. See you next time!"
 CLOSING = ("anya", "До свидания!")
+STORY = [
+    ('anya', 'Шеф, я сделал это.', 'Chef, I did it.', [(287, 'Шеф, я сделал это.')], ''),
+    ('chef', 'Что ты сделал?', 'What did you make?', [], ''),
+    ('anya', 'Я сделал ваш паштет.', 'I made your pâté.', [], ''),
+    ('chef', 'Мой паштет?', 'My pâté?', [], ''),
+    ('anya', 'Получилось один в один.', 'It came out exactly the same.', [(288, 'Получилось один в один.')], ''),
+    ('chef', 'Я должен попробовать.', 'I must taste it.', [], ''),
+    ('anya', 'Даже чуть-чуть лучше.', 'Even a little better.', [(289, 'Даже чуть-чуть лучше.')], ''),
+    ('chef', 'Да ладно?', 'No way!', [(289, 'Да ладно?')], ''),
+    ('anya', 'Да.', 'Yeah.', [(290, 'Да.')], ''),
+    ('chef', 'Это невозможно.', 'This is impossible.', [], ''),
+    ('anya', 'Я хороший повар.', 'I am a good cook.', [], ''),
+    ('chef', 'Мы посмотрим.', 'We will see.', [], ''),
+]
+WALK = [
+    (0, None, "'Chef, I did it.' The verb for 'did' is in the matching past tense, marked by that 'l' sound at the end."),
+    (1, None, "'What did you make?' The verb for 'did' is in the matching past tense, marked by that 'l' sound at the end."),
+    (2, None, "'I made your pâté.' Max uses the polite everyday 'you' alongside 'pâté', keeping a formal or respectful register."),
+    (3, None, "'My pâté?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'pâté'. Then Max responds."),
+    (4, None, "'It came out exactly the same.' Max uses the action verb meaning 'worked out' to focus on the single completed result, pairing it with 'one'."),
+    (5, None, "'I must taste it.' Here Chef Barinov anchors the line on the word meaning 'has to' and builds the thought around 'to taste'."),
+    (6, None, "'Even a little better.' Russian omits the present-tense verb 'to be' here, linking 'a little bit' directly with 'better', combining 'a little bit' with 'better'."),
+    (7, None, "'No way!' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'yes', followed by 'all right'."),
+    (8, None, "'Yeah.' A crisp, everyday conversational reply meaning 'yes' that you will hear constantly in Russian dialogue."),
+    (9, None, "'This is impossible.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'impossible'."),
+    (10, None, "'I am a good cook.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'chef', combining 'good' with 'chef'."),
+    (11, None, "'We will see.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'have a look'."),
+]

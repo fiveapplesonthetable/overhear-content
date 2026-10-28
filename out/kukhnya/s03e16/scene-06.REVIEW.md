@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is my birthday, my dear.' Spoken Russian keeps this brisk, leaning on 'there' and finishing on 'good'. Kristina answers right away.
 - 'I think we need to replace the furniture in the restaurant.' Kristina brings out the contrast between 'to me' and 'it seems' in a few short words.
 - 'You know, I already ordered it, they are supposed to deliver it on Monday!' Spoken Russian keeps this brisk, leaning on 'know' and finishing on 'to bring'.
-- 'You are my clever girl, I have wanted to replace the furniture for a long time too.' In Russian, the idea of 'you' flows naturally into 'to replace' without extra filler words.
+- 'You are my clever girl, I have wanted to replace the furniture for a long time too.' Nagiyev pairs 'clever girl / smarty' with 'to replace' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'But then I calculated how much money it costs.' Dmitry Nagiyev anchors the line on 'but', while 'money' completes the thought.
 - 'Our old furniture is still quite fine and new.' The grammar packs 'our' and 'new' into a tight, idiomatic kitchen exchange.
 - 'So call them and cancel the order, okay?' Spoken Russian keeps this brisk, leaning on 'so' and finishing on 'all right'. Kristina answers right away.

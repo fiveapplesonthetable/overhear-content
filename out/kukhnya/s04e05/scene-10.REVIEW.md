@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Tell me, how did the sous-chef's first day go?' Vika asks about his shift using the past tense of the verb for passing.
-- 'German asked me to fire one cook.' A perfective verb of requesting governs the accusative person and infinitive action.
-- 'But I simply could not fire him.' The perfective past of 'can' indicates a single attempt that failed.
-- 'It is not at all necessary to fire a person directly.' Vika uses a predicative adverb with an animate accusative noun.
+- 'German asked me to fire one cook.' In everyday Russian, 'asked' flows straight into 'cook' without extra linking words.
+- 'But I simply could not fire him.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'It is not at all necessary to fire a person directly.' Notice how Russian puts 'person' and 'to fire, to dismiss' together in a short, direct phrase where word endings show how the ideas connect.
 - 'I heard the neighbors need cooks right now.' The plural short adjective for needed agrees with the plural subject 'cooks'.
-- 'Are you suggesting getting him hired by our competitors?' The perfective infinitive means placing someone into a job.
-- 'Vika, you are a real genius!' Max praises her clever workaround with an enthusiastic nominative compliment.
+- 'Are you suggesting getting him hired by our competitors?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
+- 'Vika, you are a real genius!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'By the way, his mom sent Denis good money.' Max shares the rent news, unaware that Vika actually gave Denis that money.
-- 'Already tomorrow he will move out of our place.' A perfective future verb promises that their apartment will soon be theirs alone.
+- 'Already tomorrow he will move out of our place.' Here Max anchors the thought on 'already' and finishes on 'to move out', keeping the spoken rhythm brisk and natural.
 - 'What a great mom he has after all!' Vika plays along ironically using the invariable praise noun meaning 'well done'.
-- 'Folks, did I interrupt you here?' Denis walks in after his shower using a perfective past verb of disturbing.
+- 'Folks, did I interrupt you here?' In spoken Russian, the words stay in their normal statement order and Denis's rising voice at the end turns the line into a question.
 - 'Enjoy your bath, go to sleep quickly.' Max uses the traditional Russian idiom said to someone emerging from a bath or steam.

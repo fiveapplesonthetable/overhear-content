@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e17-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 17
 SCENE = 1
-TITLE = 'В приёмном отделении роддома  (At the Maternity Hospital Reception)'
+TITLE = "В приёмном отделении роддома  (At the Maternity Hospital Reception)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'doctor': 'anja'}
-LABELS = {'anya': 'Макс', 'doctor': 'Врач'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "doctor": "anja"}
+LABELS = {"anya": "Макс", "doctor": "Врач"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.17'
 SOURCE_FILE = 'sources/kukhnya/s05/e17.ru.srt'
 
 INTRO = 'Max rushes into the maternity hospital reception desk searching for Vika. While the nurse explains the strict visiting rules, Max tries to reach his wife on the phone.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max slips through the reception doors in a hurry to find Vika's ward. See you in the next scene."
-CLOSING = ('doctor', 'Сейчас я открою.')
+OUTRO = "Max slips through the reception doors in a hurry to find Vika's ward. Until next time!"
+CLOSING = ("doctor", "До встречи!")

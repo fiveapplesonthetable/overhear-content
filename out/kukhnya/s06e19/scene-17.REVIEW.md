@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | До свидания, хотя подождите минуту. | Goodbye, although wait a minute. | #268 00:21:29: До свидания. Хотя подождите | adapted: adapted |
-| 2 | Аня | Лена, может, мы сейчас поженимся? | Lena, maybe we should get married right now? | #270 00:21:33: Может, мы поженимся | adapted: adapted |
+| 1 | Шеф | До свидания, хотя подождите минуту. | Goodbye, although wait a minute. | #268 00:21:29: До свидания. Хотя подождите | adapted: adapted |
+| 2 | Шеф | Лена, может, мы сейчас поженимся? | Lena, maybe we should get married right now? | #270 00:21:33: Может, мы поженимся | adapted: adapted |
 | 3 | Елена | Витя, имей хоть немного совести. | Vitya, have at least a little conscience. | #271 00:21:35: Витя, имей совесть | adapted: adapted |
 | 4 | Елена | Твоя дочь сбежала из-под венца. | Your daughter just ran away from the altar. | #272 00:21:37: У тебя дочь только что сбежала из-под венца | adapted: adapted |
-| 5 | Аня | Она вспомнит это с улыбкой. | She will remember this with a smile. | #273 00:21:39: будет вспоминать эту ситуацию с<br>#274 00:21:44: улыбкой | adapted: adapted |
-| 6 | Аня | Она молодая и сильная женщина. | She is a young and strong woman. | #274 00:21:44: Она молодая, сильная женщина | adapted: adapted |
-| 7 | Аня | А я уже не молодой. | And I am no longer young. | #275 00:21:46: А я уже не очень молодой | adapted: adapted |
-| 8 | Аня | Надо беречь каждую нашу минуту. | We must treasure every minute of ours. | #277 00:21:50: как надо беречь каждую минуту | adapted: adapted |
-| 9 | Аня | И наслаждаться каждым новым мгновением. | And savor every new moment. | #277 00:21:50: и наслаждаться каждым мгновением | adapted: adapted |
-| 10 | Аня | Давай будем как муж и жена. | Let us be together as husband and wife. | #278 00:21:55: как муж и жена | adapted: adapted |
-| 11 | Аня | Скажи, ты согласна или нет? | Tell me, do you agree or not? | #279 00:22:00: Ты согласна или нет | adapted: adapted |
+| 5 | Шеф | Она вспомнит это с улыбкой. | She will remember this with a smile. | #273 00:21:39: будет вспоминать эту ситуацию с<br>#274 00:21:44: улыбкой | adapted: adapted |
+| 6 | Шеф | Она молодая и сильная женщина. | She is a young and strong woman. | #274 00:21:44: Она молодая, сильная женщина | adapted: adapted |
+| 7 | Шеф | А я уже не молодой. | And I am no longer young. | #275 00:21:46: А я уже не очень молодой | adapted: adapted |
+| 8 | Шеф | Надо беречь каждую нашу минуту. | We must treasure every minute of ours. | #277 00:21:50: как надо беречь каждую минуту | adapted: adapted |
+| 9 | Шеф | И наслаждаться каждым новым мгновением. | And savor every new moment. | #277 00:21:50: и наслаждаться каждым мгновением | adapted: adapted |
+| 10 | Шеф | Давай будем как муж и жена. | Let us be together as husband and wife. | #278 00:21:55: как муж и жена | adapted: adapted |
+| 11 | Шеф | Скажи, ты согласна или нет? | Tell me, do you agree or not? | #279 00:22:00: Ты согласна или нет | adapted: adapted |
 | 12 | Елена | Объявляю вас мужем и женой! | I pronounce you husband and wife! | #280 00:22:04: Объявляю вас мужем и женой | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

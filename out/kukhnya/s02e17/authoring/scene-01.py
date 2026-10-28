@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e17-scene-01"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e17-scene-01'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 17
 SCENE = 1
 TITLE = "Выбор сапёра и ночной десерт  (A Sapper's Choice and a Late-Night Dessert)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.17"
-SOURCE_FILE = "sources/kukhnya/s02/e17.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.17'
+SOURCE_FILE = 'sources/kukhnya/s02/e17.ru.srt'
 
 INTRO = 'Welcome to Kukhnya Season 2, Episode 17. Max reflects on how choosing between telling the bitter truth and staying silent feels just like a sapper defusing a bomb, while at two in the morning Vika discovers Louis preparing a dessert for a female guest.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = "When you watch Scene 1 of Episode 17, listen out for the exchange around a sapper's choice and a late-night dessert — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Скажи им, что кухня закрыта.')
+OUTRO = 'That wraps up this scene as max compares deciding whether to tell a bitter truth to defusing a bomb, while late at night Vika complains about lingering guests and learns Louis is making a special dessert for a lady. Until next time!'
+CLOSING = ("anya", "Пока!")

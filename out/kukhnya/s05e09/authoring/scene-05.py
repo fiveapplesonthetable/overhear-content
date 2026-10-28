@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e09-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 9
 SCENE = 5
-TITLE = 'Пропавшие трюфели  (The Missing Truffles)'
+TITLE = "Пропавшие трюфели  (The Missing Truffles)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Макс', 'lyova': 'Лёва', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "anya": "alisa"}
+LABELS = {"lyova": "Лёва", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.09'
 SOURCE_FILE = 'sources/kukhnya/s05/e09.ru.srt'
 
 INTRO = "Near the cold storage room, sous-chef Lyova notices that expensive truffles are missing and questions the cooks. Bound by his promise to tell only the truth, Max exposes Senya's hiding spot, forcing Senya to claim he was merely testing security."
@@ -21,10 +21,10 @@ STORY = [
     ('anya', 'Видел.', 'I saw them.', [(63, 'Видел')], 'adapted'),
     ('lyova', 'Где они?', 'Where are they?', [(64, 'Где они')], 'adapted'),
     ('lyova', 'Кто их туда положил?', 'Who put them in there?', [(64, 'Кто'), (65, 'их туда положил')], 'adapted'),
-    ('senya', 'Что такое, Лёв? Спокойно.', 'What is the matter, Lyova? Easy.', [(66, 'Что такое, Лёв? Спокойно')], 'adapted'),
-    ('senya', 'Просто хотел проверить.', 'I just wanted to check.', [(67, 'Просто хотел проверить')], 'adapted'),
-    ('senya', 'Смотрит кто-нибудь тут или нет.', 'Whether anyone watches things here or not.', [(67, 'смотрит кто-нибудь тут за этим или нет')], 'adapted'),
-    ('senya', 'А то продукты пропадают.', 'Otherwise groceries keep disappearing.', [(68, 'продукты пропадают')], 'adapted'),
+    ('lyova', 'Что такое, Лёв? Спокойно.', 'What is the matter, Lyova? Easy.', [(66, 'Что такое, Лёв? Спокойно')], 'adapted'),
+    ('lyova', 'Просто хотел проверить.', 'I just wanted to check.', [(67, 'Просто хотел проверить')], 'adapted'),
+    ('lyova', 'Смотрит кто-нибудь тут или нет.', 'Whether anyone watches things here or not.', [(67, 'смотрит кто-нибудь тут за этим или нет')], 'adapted'),
+    ('lyova', 'А то продукты пропадают.', 'Otherwise groceries keep disappearing.', [(68, 'продукты пропадают')], 'adapted'),
     ('lyova', 'Твои проверки?', 'Your inspections?', [(69, 'Твои проверки')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that concludes the truffle inspection in the storage area. Listen for how Lyova asks who put the truffles there and how Senya talks his way out of trouble. See you in the next scene.'
-CLOSING = ('senya', 'Просто хотел проверить!')
+OUTRO = 'And that concludes the truffle inspection in the storage area. Listen for how Lyova asks who put the truffles there and how Senya talks his way out of trouble. Until next time!'
+CLOSING = ("lyova", "Всего хорошего!")

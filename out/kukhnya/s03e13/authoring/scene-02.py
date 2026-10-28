@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 2
-TITLE = 'Три пустые бутылки  (Three Empty Bottles)'
+TITLE = "Три пустые бутылки  (Three Empty Bottles)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "katya": "angelina"}
+LABELS = {"anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = 'Still groggy in the morning light, Katya insists that nothing happened between her and Max, until they spot three empty bottles of expensive alcohol on the floor. Listen closely to the Russian dialogue first, and then we will go through each line.'
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Three mysterious bottles and zero memory of where they came from! Keep listening as the scene shifts to the bar at Claude Monet, where the answer is waiting.'
-CLOSING = ('katya', 'Где мы их достали?')
+OUTRO = 'Three mysterious bottles and zero memory of where they came from! Keep listening as the scene shifts to the bar at Claude Monet, where the answer is waiting. See you next time!'
+CLOSING = ("katya", "Увидимся!")

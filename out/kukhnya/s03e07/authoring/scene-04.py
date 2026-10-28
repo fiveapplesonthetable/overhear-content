@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e07-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 4
-TITLE = 'Каждый должен знать своё место  (Everyone Must Know Their Place)'
+TITLE = "Каждый должен знать своё место  (Everyone Must Know Their Place)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = "Nagiyev is stunned by Max's defiance. While Max begs Vika not to leave with Nagiyev, the restaurant owner belittles Max as a lowly waiter who clears dirty plates."
@@ -22,7 +22,7 @@ STORY = [
     ('nagiyev', 'Каждый человек должен знать своё место.', 'Every person must know his place.', [(47, 'каждый должен знать свое место')], 'adapted'),
     ('nagiyev', 'Вот, например, я здесь хозяин.', 'For example, I am the owner here.', [(48, 'Например, я хозяин')], 'adapted'),
     ('nagiyev', 'А ты просто убираешь грязные тарелки.', 'And you simply clear dirty plates.', [(50, 'грязные тарелки')], 'adapted'),
-    ('vika', 'Дима, пожалуйста, не надо так говорить.', 'Dima, please, do not speak like that.', [(50, 'Дима')], 'adapted'),
+    ('nagiyev', 'Дима, пожалуйста, не надо так говорить.', 'Dima, please, do not speak like that.', [(50, 'Дима')], 'adapted'),
     ('nagiyev', 'Ты ещё совсем молод и глуп.', 'You are still very young and foolish.', [(51, 'ты молод')], 'adapted'),
     ('nagiyev', 'Ладно, давай быстро иди работать.', 'Alright, go on and get to work quickly.', [(53, 'Давай, иди')], 'adapted'),
     ('anya', 'Нет, никуда я отсюда не пойду!', 'No, I am not going anywhere from here!', [(53, 'Никуда я не пойду')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Refusing to be humiliated in front of Vika, Max loses his temper and knocks Nagiyev to the floor.'
-CLOSING = ('vika', 'Макс, остановись, пожалуйста!')
+OUTRO = 'Refusing to be humiliated in front of Vika, Max loses his temper and knocks Nagiyev to the floor. See you next time!'
+CLOSING = ("nagiyev", "Всего хорошего!")

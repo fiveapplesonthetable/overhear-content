@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e19-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 19
 SCENE = 6
 TITLE = "Прощание Гули и драка  (Gulya's Farewell and a Brawl)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'gulya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'lyova': 'Лёва', 'gulya': 'Гуля'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "gulya": "anja", "lyova": "angelina"}
+LABELS = {"gulya": "Гуля", "lyova": "Лёва"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.19'
 SOURCE_FILE = 'sources/kukhnya/s06/e19.ru.srt'
 
 INTRO = 'Right in the middle of the culinary duel, Gulya pulls Lyova aside to tell him she is leaving for Bishkek forever. Distracted and heartbroken, Lyova ruins his dish, and a brawl breaks out on the kitchen floor, ending the contest.'
@@ -21,9 +21,9 @@ STORY = [
     ('gulya', 'Прощай, Лёва, не ищи меня.', 'Farewell, Lyova, do not look for me.', [(94, 'Прощай')], 'adapted'),
     ('lyova', 'Подожди, как это ты уезжаешь?', 'Wait, what do you mean you are leaving?', [(94, 'Подожди'), (95, 'Как')], 'adapted'),
     ('lyova', 'Шеф, простите меня за блюдо.', 'Chef, forgive me for the dish.', [(96, 'Шеф. Простите')], 'adapted'),
-    ('anya', 'Лёва, ты куда сейчас побежал?', 'Lyova, where are you running off to now?', [(97, 'Лёва, ты куда')], 'adapted'),
-    ('anya', 'Смотри вперёд, разуй свои глаза!', 'Look ahead, open your eyes wide!', [(98, 'глаза разуй свои')], 'adapted'),
-    ('anya', 'Продолжать поединок уже нет смысла.', 'There is no point in continuing the duel now.', [(103, 'продолжать'), (104, 'Нет')], 'adapted'),
+    ('gulya', 'Лёва, ты куда сейчас побежал?', 'Lyova, where are you running off to now?', [(97, 'Лёва, ты куда')], 'adapted'),
+    ('gulya', 'Смотри вперёд, разуй свои глаза!', 'Look ahead, open your eyes wide!', [(98, 'глаза разуй свои')], 'adapted'),
+    ('gulya', 'Продолжать поединок уже нет смысла.', 'There is no point in continuing the duel now.', [(103, 'продолжать'), (104, 'Нет')], 'adapted'),
     ('lyova', 'Гуля, скажи, ты сейчас пошутила?', 'Gulya, tell me, were you joking just now?', [(105, 'Гуля, если ты пошутила')], 'adapted'),
     ('lyova', 'Если пошутила, это не смешно.', 'If you were joking, it is not funny.', [(105, 'то это не смешно')], 'adapted'),
 ]
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With the cook-off lost, Lyova chases Gulya into the hallway to ask why she is suddenly leaving Moscow. See you in the next scene.'
-CLOSING = ('anya', 'Они проиграли этот бой.')
+OUTRO = 'With the cook-off lost, Lyova chases Gulya into the hallway to ask why she is suddenly leaving Moscow. See you next time!'
+CLOSING = ("gulya", "До завтра!")

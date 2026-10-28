@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e20-scene-01"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e20-scene-01'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 20
 SCENE = 1
-TITLE = 'Борьба за место и отказ переезжать  (Fighting for His Place and Refusing to Move In)'
+TITLE = "Борьба за место и отказ переезжать  (Fighting for His Place and Refusing to Move In)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'timur': 'anja'}
-LABELS = {'anya': 'Шеф', 'timur': 'Тимур'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.20"
-SOURCE_FILE = "sources/kukhnya/s02/e20.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "timur": "angelina"}
+LABELS = {"chef": "Шеф", "timur": "Тимур"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
+SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 
 INTRO = "Welcome to Kukhnya Season 2, Episode 20. Max reflects on how he spent nearly a year earning his place in the kitchen and is ready to do anything to get it back. Meanwhile, at Elena's apartment, Chef Barinov stubbornly tries to fix a broken appliance himself and tells Elena he cannot move in with her."
 
 STORY = [
-    ('anya', 'Которого добивался почти год.', 'Which I worked for almost a year to achieve.', [(1, 'которого добивался почти год')], ''),
+    ('chef', 'Которого добивался почти год.', 'Which I worked for almost a year to achieve.', [(1, 'которого добивался почти год')], ''),
     ('timur', 'И готов на все, чтобы его вернуть.', 'And I am ready to do anything to get it back.', [(2, 'И готов на все, чтобы его вернуть')], ''),
-    ('anya', 'Тимур, привет.', 'Timur, hey there.', [(3, 'Тимур, привет')], ''),
+    ('chef', 'Тимур, привет.', 'Timur, hey there.', [(3, 'Тимур, привет')], ''),
     ('timur', 'Что привез?', 'What did you bring today?', [(4, 'Что привез')], ''),
-    ('anya', 'Кушать подано.', 'Breakfast is served.', [(6, 'Кушать подано')], ''),
+    ('chef', 'Кушать подано.', 'Breakfast is served.', [(6, 'Кушать подано')], ''),
     ('timur', 'Что это?', 'What on earth is that?', [(7, 'Что это')], ''),
-    ('anya', 'Я мастера вызову.', 'I will call a repairman.', [(8, 'я мастера вызову')], ''),
+    ('chef', 'Я мастера вызову.', 'I will call a repairman.', [(8, 'я мастера вызову')], ''),
     ('timur', 'Я сам справлюсь.', 'I can handle it myself.', [(8, 'Я сам справлюсь')], ''),
-    ('anya', 'Тут просто контакта нет.', 'There is simply a loose contact inside here.', [(11, 'тут просто контакта нет')], ''),
+    ('chef', 'Тут просто контакта нет.', 'There is simply a loose contact inside here.', [(11, 'тут просто контакта нет')], ''),
     ('timur', 'Я говорю, люди мы с тобой взрослые.', 'I am saying, you and I are both grown adults.', [(13, 'Я говорю, люди мы с тобой взрослые')], ''),
-    ('anya', 'Эй, Витя.', 'Hey, Vitya, watch out.', [(15, 'Эй, Витя')], ''),
+    ('chef', 'Эй, Витя.', 'Hey, Vitya, watch out.', [(15, 'Эй, Витя')], ''),
     ('timur', 'Я не могу к тебе переехать.', 'I cannot move in with you.', [(16, 'Я не могу к тебе переехать')], ''),
-    ('anya', 'Потому что я не могу к тебе переехать.', 'Because I simply cannot move in with you.', [(17, 'Потому что я не могу к тебе переехать')], ''),
+    ('chef', 'Потому что я не могу к тебе переехать.', 'Because I simply cannot move in with you.', [(17, 'Потому что я не могу к тебе переехать')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 1 of Episode 20, listen out for the exchange around fighting for his place and refusing to move in — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Эй, Витя.')
+OUTRO = "That wraps up this scene as max vows to do anything to win back his job at Claude Monet, while at Elena's apartment Chef Barinov tries to fix an appliance and refuses to move in with her. Until next time!"
+CLOSING = ("chef", "Пока!")

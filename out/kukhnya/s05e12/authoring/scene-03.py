@@ -1,30 +1,30 @@
 ID = 'kukhnya-s05e12-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 12
 SCENE = 3
-TITLE = 'Забытый день рождения  (The Forgotten Birthday)'
+TITLE = "Забытый день рождения  (The Forgotten Birthday)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja'}
-LABELS = {'anya': 'Шеф', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
+LABELS = {"chef": "Шеф", "elena": "Елена"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.12'
 SOURCE_FILE = 'sources/kukhnya/s05/e12.ru.srt'
 
 INTRO = "Dropping Viktor off at the hotel in the morning, Elena casually asks what his plans are for the evening. Viktor talks about watching football on television and remembers that Friday is Lyova's birthday, completely forgetting that today is Elena's birthday!"
 
 STORY = [
-    ('anya', 'Спасибо, что подвезла.', 'Thank you for giving me a ride.', [(23, 'Спасибо, что подвезла')], 'adapted'),
+    ('chef', 'Спасибо, что подвезла.', 'Thank you for giving me a ride.', [(23, 'Спасибо, что подвезла')], 'adapted'),
     ('elena', 'Какие планы на вечер?', 'What are the plans for the evening?', [(24, 'Какие планы на вечер')], 'adapted'),
-    ('anya', 'Никаких. Спартак сегодня не играет.', 'None at all. Spartak is not playing today.', [(25, 'Никаких. Спартак сегодня не играет')], 'adapted'),
+    ('chef', 'Никаких. Спартак сегодня не играет.', 'None at all. Spartak is not playing today.', [(25, 'Никаких. Спартак сегодня не играет')], 'adapted'),
     ('elena', 'Ты вообще помнишь, какой сегодня день?', 'Do you even remember what day it is today?', [(27, 'Ты вообще помнишь, какой сегодня день')], 'adapted'),
-    ('anya', 'Среда, а что?', 'Wednesday, why?', [(28, 'Среда, что')], 'adapted'),
+    ('chef', 'Среда, а что?', 'Wednesday, why?', [(28, 'Среда, что')], 'adapted'),
     ('elena', 'В пятницу у Лёвы день рождения.', "On Friday it is Lyova's birthday.", [(29, 'В пятницу у Лёвы день рождения')], 'adapted'),
-    ('anya', 'Спасибо, что напомнила!', 'Thank you for reminding me!', [(30, 'Спасибо, что напомнила')], 'adapted'),
-    ('anya', 'Слушай, ты можешь отключить этот противный звук?', 'Listen, can you turn off that annoying sound?', [(31, 'Слушай, ну ты можешь отключить этот звук противный')], 'adapted'),
-    ('anya', 'Бесит!', 'It infuriates me!', [(32, 'Бесит')], 'adapted'),
+    ('chef', 'Спасибо, что напомнила!', 'Thank you for reminding me!', [(30, 'Спасибо, что напомнила')], 'adapted'),
+    ('chef', 'Слушай, ты можешь отключить этот противный звук?', 'Listen, can you turn off that annoying sound?', [(31, 'Слушай, ну ты можешь отключить этот звук противный')], 'adapted'),
+    ('chef', 'Бесит!', 'It infuriates me!', [(32, 'Бесит')], 'adapted'),
     ('elena', 'А меня бесит, что ты забыл про мой день рождения!', 'And it infuriates me that you forgot about my birthday!', [(32, 'А меня бесит, что ты забыл про мой день рождения')], 'adapted'),
-    ('anya', 'Лена, подожди!', 'Lena, wait!', [(27, 'помнишь')], 'adapted'),
+    ('chef', 'Лена, подожди!', 'Lena, wait!', [(27, 'помнишь')], 'adapted'),
     ('elena', 'Даже видеть тебя не хочу!', 'I do not even want to see you!', [(32, 'день рождения')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes the car ride scene. Listen for the colloquial verb meaning it annoys or infuriates me and Elena's sharp reply when Viktor forgets her birthday. See you in the next scene."
-CLOSING = ('elena', 'Ты забыл про день рождения!')
+OUTRO = "And that finishes the car ride scene. Listen for the colloquial verb meaning it annoys or infuriates me and Elena's sharp reply when Viktor forgets her birthday. Until next time!"
+CLOSING = ("elena", "Увидимся!")

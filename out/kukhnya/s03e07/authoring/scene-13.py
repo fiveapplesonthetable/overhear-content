@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e07-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 13
-TITLE = 'Погоня и новая попытка  (The Chase and a New Attempt)'
+TITLE = "Погоня и новая попытка  (The Chase and a New Attempt)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = 'Max walks in and sees Kostya hugging a crying Vika, jumping to the wrong conclusion. When Vika runs outside into the street, Max chases after her in the car.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "In the second timeline, Max's reckless car chase ends in a terrible crash, prompting him to reflect on what truly matters."
-CLOSING = ('anya', 'Вика, стой, выслушай меня!')
+OUTRO = "In the second timeline, Max's reckless car chase ends in a terrible crash, prompting him to reflect on what truly matters. Until next time!"
+CLOSING = ("anya", "До свидания!")

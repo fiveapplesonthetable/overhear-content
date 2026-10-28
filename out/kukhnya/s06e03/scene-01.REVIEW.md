@@ -16,11 +16,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Нагиев | Витя, что за карма у тебя? | Vitya, what kind of karma do you have? | #9 00:01:04: Витя, что такое, что за карма у тебя? | adapted: adapted |
 | 5 | Нагиев | Перерыв пять минут, и не расходиться! | Five-minute break, and do not wander off! | #10 00:01:08: Перерыв!<br>#11 00:01:10: Пять минут! И не расходиться! | adapted: adapted |
 | 6 | Нагиев | Нельзя так, Витя! | You cannot do that, Vitya! | #12 00:01:13: Нельзя так, Витя! | adapted: exact |
-| 7 | Аня | А жалобы все теперь на меня. | And now all the complaints fall on me. | #14 00:01:20: А жалобы все теперь на меня | adapted: exact |
+| 7 | Шеф | А жалобы все теперь на меня. | And now all the complaints fall on me. | #14 00:01:20: А жалобы все теперь на меня | adapted: exact |
 | 8 | Нагиев | Ты что, не видишь, что кровь здесь льют? | Do you not see that they are pouring blood here? | #17 00:01:25: Ты что, не видишь, что кровь здесь льют | adapted: adapted |
-| 9 | Аня | Я хочу пройти в ресторан. | I want to walk through to the restaurant. | #18 00:01:28: Я хочу пройти в ресторан | adapted: exact |
+| 9 | Шеф | Я хочу пройти в ресторан. | I want to walk through to the restaurant. | #18 00:01:28: Я хочу пройти в ресторан | adapted: exact |
 | 10 | Нагиев | Ты на кровь не наступай. | Do not step on the blood. | #19 00:01:29: Ты на кровь не наступай | adapted: exact |
-| 11 | Аня | Уберите руки, что вы себе позволяете? | Take your hands off, what do you think you are doing? | #21 00:01:33: Уберите руки. Что вы себе позволяете? | adapted: exact |
+| 11 | Шеф | Уберите руки, что вы себе позволяете? | Take your hands off, what do you think you are doing? | #21 00:01:33: Уберите руки. Что вы себе позволяете? | adapted: exact |
 | 12 | Нагиев | Иди быстрее, Витя. | Walk faster, Vitya. | #23 00:01:37: Иди, иди, иди | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And now all the complaints fall on me.' Here the Russian phrasing highlights 'and' before landing on 'me'.
 - 'Do you not see that they are pouring blood here?' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'pour'.
 - 'I want to walk through to the restaurant.' Chef Barinov anchors the line on 'I', while 'restaurant' completes the thought. Dmitry Nagiyev answers right away.
-- 'Do not step on the blood.' In Russian, the idea of 'you' flows naturally into 'step on' without extra filler words.
+- 'Do not step on the blood.' Here Nagiyev anchors the thought on 'blood' and finishes on 'step on', keeping the spoken rhythm brisk and natural.
 - 'Take your hands off, what do you think you are doing?' Spoken Russian keeps this brisk, leaning on 'take away' and finishing on 'allow'.
 - 'Walk faster, Vitya.' In Russian, the idea of 'go' flows naturally into 'faster' without extra filler words.

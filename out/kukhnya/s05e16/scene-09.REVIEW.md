@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I lied to her on purpose that it does not come off.' In Russian, the idea of 'I' flows naturally into 'come off' without extra filler words. Vika answers right away.
 - 'Now the part about you lying I readily believe!' Spoken Russian keeps this brisk, leaning on 'here' and finishing on 'to believe'.
 - 'That was my former classmate, nothing happened between us!' The grammar packs 'this' and 'not' into a tight, idiomatic kitchen exchange.
-- 'She tried to kiss me, but I honestly held back.' Notice the reflexive suffix on the verb meaning 'hold back', turning the action back on the subject.
+- 'She tried to kiss me, but I honestly held back.' In everyday Russian, 'tried' flows straight into 'hold back, restrain oneself' without extra linking words.
 - 'Because I still love only you!' The grammar packs 'that is why' and 'like' into a tight, idiomatic kitchen exchange.
 - 'Too bad you did not hold back when we were married.' The grammar packs 'it is a pity' and 'married' into a tight, idiomatic kitchen exchange.
-- 'And now it is too late, I no longer love you.' The grammar packs 'and' and 'you' into a tight, idiomatic kitchen exchange.
+- 'And now it is too late, I no longer love you.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Be a real man at last and stop humiliating yourself!' Vika anchors the line on 'were he', while 'to humiliate oneself' completes the thought.
 - 'Hello, Dasha, is your offer about Sochi still open?' The grammar packs 'hello' and 'force' into a tight, idiomatic kitchen exchange.

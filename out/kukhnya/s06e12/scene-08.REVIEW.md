@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Гость | Я просто на кухню холодной воды вышла попить. | I just came out to the kitchen to drink some cold water. | #126 00:09:12: Воды вышла попить | adapted: adapted |
-| 2 | Гость | Значит, вы с Лёвой решили меня обмануть? | So, you and Lyova decided to deceive me? | #127 00:09:14: А, решили меня обмануть | adapted: adapted |
-| 3 | Аня | Простите, но это вы нас первые обманули. | Forgive me, but you were the one who deceived us first. | #129 00:09:20: Нет уж, простите, но вы нас первые обманули | adapted: adapted |
-| 4 | Аня | Придумали всю эту историю со своим переломом. | You made up this whole story with your fracture. | #129 00:09:20: со своим вот<br>#130 00:09:25: переломом | adapted: adapted |
-| 5 | Аня | Это всё специально, чтобы Лёва к вам вернулся? | Is all this on purpose so that Lyova would return to you? | #131 00:09:27: Это чтобы Лёва к вам вернулся | adapted: adapted |
-| 6 | Гость | Естественно, и чтобы он вас гораздо реже видел. | Naturally, and so that he would see you much less often. | #132 00:09:29: Естественно. И чтобы вас реже видел | adapted: adapted |
-| 7 | Аня | Знайте, что мне совсем не нужен никто другой. | Know that I do not need anyone else at all. | #134 00:09:34: Да мне не нужен другой | adapted: adapted |
-| 8 | Аня | Осторожно, вам теперь нужно срочно ехать на рентген! | Careful, now you need to urgently go for an X-ray! | #135 00:09:42: Вам нужно срочно на рентген | adapted: adapted |
-| 9 | Гость | Сейчас ехать нельзя, иначе Лёва сразу всё поймёт. | I cannot go right now, otherwise Lyova will understand everything immediately. | #136 00:09:44: Сейчас нельзя. А то Лев всё поймёт | adapted: adapted |
-| 10 | Гость | Завтра утром моя добрая соседка меня туда свозит. | Tomorrow morning my kind neighbor will drive me there. | #137 00:09:47: Да завтра утром соседка меня | adapted: adapted |
-| 11 | Гость | Хотя вы ведь всё равно ему всё расскажете. | Although you will tell him everything anyway. | #139 00:09:55: Всё равно ему всё расскажете | adapted: adapted |
-| 12 | Аня | Ничего я не скажу, выпейте пока обезболивающее. | I will not say anything, drink a painkiller for now. | #140 00:10:08: Выпейте | adapted: adapted |
+| 1 | Гуля | Я просто на кухню холодной воды вышла попить. | I just came out to the kitchen to drink some cold water. | #126 00:09:12: Воды вышла попить | adapted: adapted |
+| 2 | Гуля | Значит, вы с Лёвой решили меня обмануть? | So, you and Lyova decided to deceive me? | #127 00:09:14: А, решили меня обмануть | adapted: adapted |
+| 3 | Гуля | Простите, но это вы нас первые обманули. | Forgive me, but you were the one who deceived us first. | #129 00:09:20: Нет уж, простите, но вы нас первые обманули | adapted: adapted |
+| 4 | Гуля | Придумали всю эту историю со своим переломом. | You made up this whole story with your fracture. | #129 00:09:20: со своим вот<br>#130 00:09:25: переломом | adapted: adapted |
+| 5 | Гуля | Это всё специально, чтобы Лёва к вам вернулся? | Is all this on purpose so that Lyova would return to you? | #131 00:09:27: Это чтобы Лёва к вам вернулся | adapted: adapted |
+| 6 | Гуля | Естественно, и чтобы он вас гораздо реже видел. | Naturally, and so that he would see you much less often. | #132 00:09:29: Естественно. И чтобы вас реже видел | adapted: adapted |
+| 7 | Гуля | Знайте, что мне совсем не нужен никто другой. | Know that I do not need anyone else at all. | #134 00:09:34: Да мне не нужен другой | adapted: adapted |
+| 8 | Гуля | Осторожно, вам теперь нужно срочно ехать на рентген! | Careful, now you need to urgently go for an X-ray! | #135 00:09:42: Вам нужно срочно на рентген | adapted: adapted |
+| 9 | Гуля | Сейчас ехать нельзя, иначе Лёва сразу всё поймёт. | I cannot go right now, otherwise Lyova will understand everything immediately. | #136 00:09:44: Сейчас нельзя. А то Лев всё поймёт | adapted: adapted |
+| 10 | Гуля | Завтра утром моя добрая соседка меня туда свозит. | Tomorrow morning my kind neighbor will drive me there. | #137 00:09:47: Да завтра утром соседка меня | adapted: adapted |
+| 11 | Гуля | Хотя вы ведь всё равно ему всё расскажете. | Although you will tell him everything anyway. | #139 00:09:55: Всё равно ему всё расскажете | adapted: adapted |
+| 12 | Гуля | Ничего я не скажу, выпейте пока обезболивающее. | I will not say anything, drink a painkiller for now. | #140 00:10:08: Выпейте | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

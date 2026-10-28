@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Тихо все. | Everyone be quiet. | #112 00:07:19: Тихо все | verbatim |
-| 2 | Нагиев | Тихо, я сказал. | Be quiet, I said. | #113 00:07:22: Тихо, я сказал | verbatim |
+| 1 | Шеф | Тихо все. | Everyone be quiet. | #112 00:07:19: Тихо все | verbatim |
+| 2 | Айнура | Тихо, я сказал. | Be quiet, I said. | #113 00:07:22: Тихо, я сказал | verbatim |
 | 3 | Айнура | Алло, я слушаю. | Hello, I am listening. | #114 00:07:26: Алло, я слушаю | verbatim |
-| 4 | Аня | Так что отдыхайте спокойно. | So just relax and enjoy your rest. | #117 00:07:34: Так что отдыхайте спокойно | verbatim |
-| 5 | Нагиев | Ага, хорошо. | Yeah, sounds good. | #118 00:07:36: Ага, хорошо | verbatim |
+| 4 | Шеф | Так что отдыхайте спокойно. | So just relax and enjoy your rest. | #117 00:07:34: Так что отдыхайте спокойно | verbatim |
+| 5 | Айнура | Ага, хорошо. | Yeah, sounds good. | #118 00:07:36: Ага, хорошо | verbatim |
 | 6 | Айнура | Связь плохая. | The reception is bad. | #120 00:07:46: Связь плохая | verbatim |
-| 7 | Аня | Плохая связь очень. | The connection is really terrible. | #121 00:07:49: Плохая связь очень | verbatim |
-| 8 | Нагиев | Мышь мелкая. | You little mouse. | #124 00:07:58: Мышь мелкая | verbatim |
+| 7 | Шеф | Плохая связь очень. | The connection is really terrible. | #121 00:07:49: Плохая связь очень | verbatim |
+| 8 | Айнура | Мышь мелкая. | You little mouse. | #124 00:07:58: Мышь мелкая | verbatim |
 | 9 | Айнура | Вас там Дмитрий Владимирович ждет в зале? | Dmitry Vladimirovich is waiting for you out in the dining room. | #125 00:08:00: Вас там Дмитрий Владимирович ждет в зале | verbatim |
-| 10 | Аня | А вы что встали? | And why are you all standing around? | #127 00:08:05: А вы что встали | verbatim |
-| 11 | Нагиев | Живо за работу. | Get back to work right now. | #128 00:08:07: Живо за работу | verbatim |
+| 10 | Шеф | А вы что встали? | And why are you all standing around? | #127 00:08:05: А вы что встали | verbatim |
+| 11 | Айнура | Живо за работу. | Get back to work right now. | #128 00:08:07: Живо за работу | verbatim |
 | 12 | Айнура | Да, шеф. | Yes, Chef. | #129 00:08:10: Да, шеф | verbatim |
-| 13 | Аня | Давай форму. | Hand over the uniform. | #130 00:08:11: Давай форму | verbatim |
+| 13 | Шеф | Давай форму. | Hand over the uniform. | #130 00:08:11: Давай форму | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

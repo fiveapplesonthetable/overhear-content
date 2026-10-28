@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Костян, скажи, а правда, что беременным секса больше хочется? | Kostyan, tell me, is it true that pregnant women want sex more? | #128 00:08:14: Костян, слушай, скажи, а правда, что беременным секса больше хочется | adapted: adapted |
-| 2 | Костя | А тебе зачем? | And why do you ask? | #129 00:08:20: А тебе зачем | adapted: adapted |
+| 1 | Аня | Костян, скажи, а правда, что беременным романтики больше хочется? | Kostyan, tell me, is it true that pregnant women want romance more? | #128 00:08:14: Костян, слушай, скажи, а правда, что беременным<br>#128 00:08:14: больше хочется | adapted: adapted |
+| 2 | Шеф | А тебе зачем? | And why do you ask? | #129 00:08:20: А тебе зачем | adapted: adapted |
 | 3 | Аня | Сестра Вики сказала, что Вика хочет. | Vika's sister said that Vika wants it. | #129 00:08:20: Сестра<br>#132 00:08:27: она сказала, что Вика хочет | adapted: adapted |
-| 4 | Костя | А, ну тогда вперёд! | Ah, well then go for it! | #133 00:08:31: А<br>#134 00:08:32: Ну, тогда вперёд | adapted: adapted |
+| 4 | Шеф | А, ну тогда вперёд! | Ah, well then go for it! | #133 00:08:31: А<br>#134 00:08:32: Ну, тогда вперёд | adapted: adapted |
 | 5 | Шеф | Лавров, зайди! Нужен совет. Хочу сделать сюрприз Елене Павловне. | Lavrov, come in! I need advice. I want to make a surprise for Elena Pavlovna. | #135 00:08:36: зайди<br>#136 00:08:41: Хочу сделать сюрприз Елене Павловне | adapted: adapted |
 | 6 | Аня | Что, опять накосячили? А что ей нравится? | What, did you mess up again? And what does she like? | #138 00:08:47: Что, опять накосячили<br>#139 00:08:50: Ну, а что<br>#139 00:08:50: нравится | adapted: adapted |
 | 7 | Аня | Цветы? Свидание на крыше? А какая музыка ей нравится? | Flowers? A date on the roof? And what music does she like? | #140 00:08:52: цветы<br>#141 00:08:56: Свидание на крыше<br>#142 00:09:00: А какая музыка ей нравится | adapted: adapted |
@@ -25,8 +25,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, tell me, is it true that pregnant women want sex more?' Max anchors the line on 'Kostyan', while 'want' completes the thought. Kostya answers right away.
-- 'And why do you ask?' The grammar packs 'and' and 'why' into a tight, idiomatic kitchen exchange.
+- 'Kostyan, tell me, is it true that pregnant women want romance more?' Notice how Russian puts 'say' and 'want, feel like' together in a short, direct phrase where word endings show how the ideas connect.
+- 'And why do you ask?' Kostya centers this short reply on 'why', letting a few direct words carry the whole meaning.
 - 'Vika's sister said that Vika wants it.' In Russian, the idea of 'sister' flows naturally into 'wants' without extra filler words.
 - 'Ah, well then go for it!' In Russian, the idea of 'and' flows naturally into 'forward' without extra filler words. Chef Barinov answers right away.
 - 'Lavrov, come in! I need advice. I want to make a surprise for Elena Pavlovna.' Spoken Russian keeps this brisk, leaning on 'proper name' and finishing on 'Pavlovna'.

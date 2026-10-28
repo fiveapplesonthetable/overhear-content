@@ -11,16 +11,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Аня | Максим, можно тебя на минуточку? | Maksim, can I have a word with you for a minute? | #20 00:01:54: Максим, можно тебя на минуточку | verbatim |
-| 2 | Шеф | Давай попозже поговорим. | Let us talk a little later. | #21 00:02:01: Давай попозже поговорим | verbatim |
+| 2 | Саша | Давай попозже поговорим. | Let us talk a little later. | #21 00:02:01: Давай попозже поговорим | verbatim |
 | 3 | Саша | Чего не хватает, шеф? | What is missing, Chef? | #24 00:02:20: Чего не хватает, шеф | verbatim |
 | 4 | Аня | Все идеально. | Everything is ideal. | #25 00:02:24: Все идеально | verbatim |
-| 5 | Шеф | Федя, извини, что долго не отдавал. | Fedya, sorry it took me so long to pay you back. | #28 00:02:38: Федя, извини, что долго не отдавал | verbatim |
+| 5 | Саша | Федя, извини, что долго не отдавал. | Fedya, sorry it took me so long to pay you back. | #28 00:02:38: Федя, извини, что долго не отдавал | verbatim |
 | 6 | Саша | Крис, ну что рассказывать? | Kris, well what is there to tell? | #30 00:02:58: Крис, ну что рассказывать | verbatim |
 | 7 | Аня | А я-то знаю сколько... | And I know just how much... | #32 00:03:02: А я-то знаю сколько | verbatim |
-| 8 | Шеф | Крис, ты меня слышишь или нет? | Kris, are you listening to me or not? | #33 00:03:03: Крис, ты меня слышишь или нет | verbatim |
+| 8 | Саша | Крис, ты меня слышишь или нет? | Kris, are you listening to me or not? | #33 00:03:03: Крис, ты меня слышишь или нет | verbatim |
 | 9 | Саша | Прости, Саша, мне просто мужик нужен. | Sorry, Sasha, I just need a man. | #34 00:03:06: Прости, Саша, мне просто мужик нужен | verbatim |
 | 10 | Аня | Этот что ли? | This guy, or what? | #35 00:03:09: Этот что ли | verbatim |
-| 11 | Шеф | Не за что на свете. | Not for anything in the world. | #37 00:03:13: не за что на свете | verbatim |
+| 11 | Саша | Не за что на свете. | Not for anything in the world. | #37 00:03:13: не за что на свете | verbatim |
 | 12 | Саша | Ну одно дело там. | Well, that is one thing over there. | #38 00:03:17: ну одно дело там | verbatim |
 | 13 | Аня | А что у вас там с Максом? | And what is going on with you and Max? | #39 00:03:23: А что у вас там с Максом | verbatim |
 

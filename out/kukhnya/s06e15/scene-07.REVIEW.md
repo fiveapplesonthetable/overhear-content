@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Почему твоё заявление с маленькой буквы? | Why does your application start with a lowercase letter? | #99 00:06:30: Почему заявление с маленькой буквы | adapted: adapted |
+| 1 | Костя | Почему твоё заявление с маленькой буквы? | Why does your application start with a lowercase letter? | #99 00:06:30: Почему заявление с маленькой буквы | adapted: adapted |
 | 2 | Лёва | Это большая буква, просто так выглядит. | That is a capital letter, it just looks like that. | #100 00:06:34: Это большая. А выглядит как маленькая | adapted: adapted |
-| 3 | Аня | Иди и быстро переписывай всё заново. | Go and quickly rewrite everything all over again. | #101 00:06:40: Иди, переписывай | adapted: adapted |
+| 3 | Костя | Иди и быстро переписывай всё заново. | Go and quickly rewrite everything all over again. | #101 00:06:40: Иди, переписывай | adapted: adapted |
 | 4 | Лёва | Вы издеваетесь, это уже третье заявление! | Are you kidding me, this is already the third letter! | #102 00:06:42: Вы издеваетесь? Это уже третье заявление | adapted: adapted |
-| 5 | Аня | Хочешь быть шефом, учись писать документы! | If you want to be a chef, learn to write documents! | #103 00:06:45: Хочешь быть шефом? Учись работать с документами | adapted: adapted |
+| 5 | Костя | Хочешь быть шефом, учись писать документы! | If you want to be a chef, learn to write documents! | #103 00:06:45: Хочешь быть шефом? Учись работать с документами | adapted: adapted |
 | 6 | Костя | Придумал, с кем сегодня отца познакомить? | Did you think of who to introduce your father to today? | #104 00:06:56: Ну что, придумал с кем отца познакомить | adapted: adapted |
 | 7 | Костя | У меня сейчас есть два варианта. | I have two options right now. | #105 00:07:01: у меня есть два варианта | adapted: adapted |
 | 8 | Костя | Смотри, вы и на работе вместе. | Look, you two are together at work too. | #108 00:07:09: на работе-то не расстаётесь | adapted: adapted |

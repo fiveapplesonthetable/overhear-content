@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Нагиев | Текст уже выучил от зубов? | Have you learned the lines by heart already? | #237 00:15:27: Текст как от зубов? | adapted: adapted |
-| 2 | Аня | Да мучает меня один вопрос, почему? | One question is bothering me, why? | #238 00:15:30: Да мучает<br>#238 00:15:30: Ну почему? | adapted: adapted |
-| 3 | Аня | Ведь врач лечит людей, а ты ломаешь кости. | After all, a doctor heals people, and you break bones. | #239 00:15:32: это врач<br>#244 00:15:45: кости | adapted: adapted |
+| 2 | Шеф | Да мучает меня один вопрос, почему? | One question is bothering me, why? | #238 00:15:30: Да мучает<br>#238 00:15:30: Ну почему? | adapted: adapted |
+| 3 | Шеф | Ведь врач лечит людей, а ты ломаешь кости. | After all, a doctor heals people, and you break bones. | #239 00:15:32: это врач<br>#244 00:15:45: кости | adapted: adapted |
 | 4 | Нагиев | Витя, это высокое искусство! | Vitya, this is high art! | #241 00:15:37: Это искусство | adapted: adapted |
 | 5 | Нагиев | Он всегда прав, понимаешь? | He is always right, do you understand? | #243 00:15:41: Он всегда прав, понимаешь? | adapted: exact |
-| 6 | Аня | Какой же это бред. | What nonsense this is. | #245 00:15:48: Какой бред | adapted: adapted |
+| 6 | Шеф | Какой же это бред. | What nonsense this is. | #245 00:15:48: Какой бред | adapted: adapted |
 | 7 | Нагиев | Все, хватит есть, работаем! | Alright, enough eating, let's work! | #246 00:16:04: Все, хватит<br>#247 00:16:05: Работаем | adapted: adapted |
-| 8 | Аня | Ну что ты делаешь, я же в мяч играл! | What are you doing, I was playing the ball! | #248 00:16:24: Ну что ты делаешь? Я в мяч играл | adapted: exact |
-| 9 | Аня | Ты мне чуть ногу не сломал, слышишь? | You almost broke my leg, do you hear? | #249 00:16:27: Ты мне чуть ногу не сломал, слышишь? | adapted: exact |
-| 10 | Никита | Ребята, вы что так завелись? | Guys, why did you get so worked up? | #250 00:16:28: вы что так завелись-то? | adapted: adapted |
-| 11 | Аня | Давайте так, мы вам пробиваем пенальти и расходимся. | Let's do it this way, we take a penalty kick against you and call it a day. | #252 00:16:34: Так, давайте так, мы вам пробиваем пенальти и расходимся | adapted: exact |
-| 12 | Никита | Тоже мне судья нашелся, ладно, я на ворота. | Look who appointed himself referee, fine, I am in goal. | #253 00:16:37: Тоже мне судья нашелся<br>#256 00:16:44: Ладно, я на ворота | adapted: adapted |
+| 8 | Шеф | Ну что ты делаешь, я же в мяч играл! | What are you doing, I was playing the ball! | #248 00:16:24: Ну что ты делаешь? Я в мяч играл | adapted: exact |
+| 9 | Шеф | Ты мне чуть ногу не сломал, слышишь? | You almost broke my leg, do you hear? | #249 00:16:27: Ты мне чуть ногу не сломал, слышишь? | adapted: exact |
+| 10 | Шеф | Ребята, вы что так завелись? | Guys, why did you get so worked up? | #250 00:16:28: вы что так завелись-то? | adapted: adapted |
+| 11 | Шеф | Давайте так, мы вам пробиваем пенальти и расходимся. | Let's do it this way, we take a penalty kick against you and call it a day. | #252 00:16:34: Так, давайте так, мы вам пробиваем пенальти и расходимся | adapted: exact |
+| 12 | Шеф | Тоже мне судья нашелся, ладно, я на ворота. | Look who appointed himself referee, fine, I am in goal. | #253 00:16:37: Тоже мне судья нашелся<br>#256 00:16:44: Ладно, я на ворота | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

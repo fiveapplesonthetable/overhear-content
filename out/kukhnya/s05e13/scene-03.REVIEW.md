@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Как обычно, тебя хватает ненадолго. | As usual, you do not last very long. | #33 00:03:07: Как обычно, тебе хватает | adapted: adapted |
-| 2 | Аня | Женщина, не буди во мне зверя! | Woman, do not wake the beast in me! | #37 00:03:33: женщина! Не понимай мне зверя | adapted: adapted |
-| 3 | Аня | Ты всегда только о еде думаешь! | You always only think about food! | #38 00:03:39: Ты только о еде думаешь | adapted: adapted |
-| 4 | Аня | Я сейчас за себя не отвечаю! | I am not responsible for my actions right now! | #39 00:03:57: Я за себя не отвечаю | adapted: adapted |
-| 5 | Вика | И что ты мне тогда сделаешь? | And what will you do to me then? | #40 00:04:03: ты мне сделаешь | adapted: adapted |
-| 6 | Аня | Зачем ты кидаешь в меня макаронами? | Why are you throwing macaroni at me? | #41 00:04:05: Макаронами | adapted: adapted |
-| 7 | Вика | Ты же сам недавно хотел выпить! | You wanted to have a drink yourself recently! | #42 00:04:29: же хотел выпить | adapted: adapted |
-| 8 | Аня | Пожалуйста, не надо меня трогать! | Please, do not touch me! | #43 00:04:52: Дарил | adapted: adapted |
-| 9 | Аня | Ребята, меня дома сильно ударили. | Guys, I got hit hard at home. | #44 00:05:00: Меня Сеня ударил | adapted: adapted |
+| 1 | Сеня | Как обычно, тебя хватает ненадолго. | As usual, you do not last very long. | #33 00:03:07: Как обычно, тебе хватает | adapted: adapted |
+| 2 | Сеня | Женщина, не буди во мне зверя! | Woman, do not wake the beast in me! | #37 00:03:33: женщина! Не понимай мне зверя | adapted: adapted |
+| 3 | Сеня | Ты всегда только о еде думаешь! | You always only think about food! | #38 00:03:39: Ты только о еде думаешь | adapted: adapted |
+| 4 | Сеня | Я сейчас за себя не отвечаю! | I am not responsible for my actions right now! | #39 00:03:57: Я за себя не отвечаю | adapted: adapted |
+| 5 | Сеня | И что ты мне тогда сделаешь? | And what will you do to me then? | #40 00:04:03: ты мне сделаешь | adapted: adapted |
+| 6 | Сеня | Зачем ты кидаешь в меня макаронами? | Why are you throwing macaroni at me? | #41 00:04:05: Макаронами | adapted: adapted |
+| 7 | Сеня | Ты же сам недавно хотел выпить! | You wanted to have a drink yourself recently! | #42 00:04:29: же хотел выпить | adapted: adapted |
+| 8 | Сеня | Пожалуйста, не надо меня трогать! | Please, do not touch me! | #43 00:04:52: Дарил | adapted: adapted |
+| 9 | Сеня | Ребята, меня дома сильно ударили. | Guys, I got hit hard at home. | #44 00:05:00: Меня Сеня ударил | adapted: adapted |
 | 10 | Федя | Мы же сразу тебе это говорили. | We told you that right from the start. | #33 00:03:07: Как обычно | adapted: adapted |
-| 11 | Аня | Лучше спокойно сидеть на нашей кухне. | It is better to sit quietly in our kitchen. | #39 00:03:57: за себя | adapted: adapted |
+| 11 | Сеня | Лучше спокойно сидеть на нашей кухне. | It is better to sit quietly in our kitchen. | #39 00:03:57: за себя | adapted: adapted |
 | 12 | Федя | Давай лучше ещё немного выпьем. | Let's rather have a little more to drink. | #42 00:04:29: хотел выпить | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

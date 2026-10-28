@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 19
-TITLE = 'Заявление об увольнении  (The Resignation Letter)'
+TITLE = "Заявление об увольнении  (The Resignation Letter)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kristina': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'kristina': 'Кристина', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kristina": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "kristina": "Кристина", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = 'At Claude Monet, Kristina urges Nagiyev to sell the restaurant to a big chain, insisting it only brings him trouble—just as Vika walks up and hands him her resignation letter. Listen to the full scene in Russian first.'
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'And here is the manager of my hobby.' The meaning hinges on 'and' working together with 'hobby' in spoken Russian."),
     (9, None, "'You can tell right away the person loves coming to work.' In Russian, the idea of 'immediately' flows naturally into 'work' without extra filler words."),
     (10, None, "'Vika, what is this paper?' The meaning hinges on 'Vika' working together with 'paper' in spoken Russian."),
-    (11, None, "'This is my notice, I am resigning.' Notice the reflexive suffix on the verb meaning 'am resigning', turning the action back on the subject."),
+    (11, None, "'This is my notice, I am resigning.' Here Vika anchors the thought on 'statement' and finishes on 'am resigning / quitting', keeping the spoken rhythm brisk and natural."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Vika refuses to work for Nagiyev any longer and hands in her notice. In our final scene of the episode, Max catches up with Vika to offer his help.'
-CLOSING = ('vika', 'Это заявление, я увольняюсь.')
+OUTRO = 'Vika refuses to work for Nagiyev any longer and hands in her notice. Until next time!'
+CLOSING = ("vika", "Пока!")

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e09-scene-05"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e09-scene-05'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 9
 SCENE = 5
 TITLE = "Тайный поклонник Елены Павловны  (Elena Pavlovna's Secret Admirer)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'elena': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.09"
-SOURCE_FILE = "sources/kukhnya/s02/e09.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "elena": "angelina", "chef": "anja"}
+LABELS = {"elena": "Елена", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.09'
+SOURCE_FILE = 'sources/kukhnya/s02/e09.ru.srt'
 
 INTRO = 'Alone in the corridor, Chef Barinov calls Elena Pavlovna in a disguised voice, pretending to be a daring scuba diver and secret admirer rather than a chef. When Max walks in at the worst possible moment, Barinov snaps and chases him away to finish his phone call.'
 
 STORY = [
-    ('anya', 'Алло, Елена Павловна, я должен вам кое-что передать.', 'Hello, Elena Pavlovna, I need to pass something along to you.', [(74, 'Алло, Елена Павловна, я должен вам кое-что передать')], ''),
-    ('vika', 'Нет, это не Виктор Петрович.', 'No, this is not Viktor Petrovich.', [(75, 'Нет, это не Виктор Петрович')], ''),
+    ('chef', 'Алло, Елена Павловна, я должен вам кое-что передать.', 'Hello, Elena Pavlovna, I need to pass something along to you.', [(74, 'Алло, Елена Павловна, я должен вам кое-что передать')], ''),
+    ('elena', 'Нет, это не Виктор Петрович.', 'No, this is not Viktor Petrovich.', [(75, 'Нет, это не Виктор Петрович')], ''),
     ('elena', 'Это ваш тайный поклонник.', 'This is your secret admirer.', [(76, 'Это ваш тайный поклонник')], ''),
-    ('anya', 'Нет, я не повар, что вы.', 'No, I am not a cook, not at all.', [(78, 'Нет, я не повар, что вы')], ''),
-    ('vika', 'Я занимаюсь обычно дайвингом.', 'I usually go scuba diving.', [(79, 'Я занимаюсь обычно дайвингом')], ''),
+    ('chef', 'Нет, я не повар, что вы.', 'No, I am not a cook, not at all.', [(78, 'Нет, я не повар, что вы')], ''),
+    ('elena', 'Я занимаюсь обычно дайвингом.', 'I usually go scuba diving.', [(79, 'Я занимаюсь обычно дайвингом')], ''),
     ('elena', 'Да, я знаю, что это очень опасно.', 'Yes, I know that it is very dangerous.', [(80, 'Да, я знаю, что это очень опасно')], ''),
-    ('anya', 'Человек должен в жизни испытать все.', 'A person must experience everything in life.', [(81, 'Человек должен в жизни испытать все')], ''),
-    ('vika', 'Мне плевать.', 'I do not care.', [(81, 'Мне плевать')], ''),
+    ('chef', 'Человек должен в жизни испытать все.', 'A person must experience everything in life.', [(81, 'Человек должен в жизни испытать все')], ''),
+    ('elena', 'Мне плевать.', 'I do not care.', [(81, 'Мне плевать')], ''),
     ('elena', 'У меня очень важный разговор.', 'I am having a very important conversation.', [(83, 'У меня очень важный разговор')], ''),
-    ('anya', 'Иди отсюда!', 'Get out of here!', [(83, 'Иди отсюда')], ''),
-    ('vika', 'Потом зайдешь.', 'Come back later.', [(84, 'Потом зайдешь')], ''),
+    ('chef', 'Иди отсюда!', 'Get out of here!', [(83, 'Иди отсюда')], ''),
+    ('elena', 'Потом зайдешь.', 'Come back later.', [(84, 'Потом зайдешь')], ''),
     ('elena', 'Ну так.', 'Well, just like that.', [(85, 'Ну так')], ''),
-    ('anya', 'Больше ничего.', 'Nothing else.', [(88, 'больше ничего')], ''),
+    ('chef', 'Больше ничего.', 'Nothing else.', [(88, 'больше ничего')], ''),
 ]
 
 OPENER = "Let's walk back through the scene line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = "When you watch Scene 5 of Episode 9, listen out for the exchange around elena pavlovna's secret admirer — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Больше ничего.')
+OUTRO = 'That wraps up this scene as chef Barinov calls Elena Pavlovna pretending to be a mysterious scuba diver admirer and furiously chases Max away when interrupted. Until next time!'
+CLOSING = ("chef", "Увидимся!")

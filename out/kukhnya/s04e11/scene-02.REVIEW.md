@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good, put the wardrobe right here.' The plural imperative directs the movers where to place the furniture.
+- 'Good, put the wardrobe right here.' Here Vika anchors the thought on 'good, well, all right' and finishes on 'here, this way', keeping the spoken rhythm brisk and natural.
 - 'Wait, let me tell them myself.' The masculine emphatic pronoun 'myself' shows Max trying to assert his role as host.
-- 'And what should we do with the old furniture?' The collective feminine singular noun 'furniture' takes the instrumental ending '-yu' after 'with'.
-- 'Just throw it out onto the street.' The perfective infinitive means to toss or throw out completely.
+- 'And what should we do with the old furniture?' Max pairs 'old' with 'to do' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Just throw it out onto the street.' Notice how Russian puts 'simply, just' and 'street' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Vika, let me do everything myself.' Max volunteers eagerly once the heavy work is mostly done.
 - 'Yes, of course, and just when will that be?' Sarcastic agreement followed by 'when' challenges Max's track record.
 - 'You have not been able to change the tires for half a year.' In everyday Russian among drivers, 'rubber' in the singular means a set of car tires.
-- 'The car just stands there in the courtyard.' The prepositional case 'in the yard' tells where the car is parked.
+- 'The car just stands there in the courtyard.' Notice how Russian puts 'machine' and 'yard, courtyard' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Vika, I will definitely change them today.' Adding the adverb 'without fail / definitely' makes the promise sound firm.
 - 'We will see how you do that.' The first-person plural future 'we will see' expresses skeptical patience.
-- 'You will see, by evening everything will be ready.' The instrumental form of 'evening' means 'in the evening'.
+- 'You will see, by evening everything will be ready.' Max pairs 'see' with 'ready' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Then take the keys to the car.' Once again, keys in Russian are 'from' the car using the preposition 'ot'.

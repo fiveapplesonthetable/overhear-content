@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'For some reason the closet will not open at all.' Spoken Russian keeps this brisk, leaning on 'something' and finishing on 'opens'.
 - 'Well I do not know, it will have to be another time.' In Russian, the idea of 'come on' flows naturally into 'time' without extra filler words. Katya answers right away.
 - 'Just call ahead of time, and I will get it out for you.' Katya anchors the line on 'so', while 'I will get' completes the thought.
-- 'And how will you get it out yourself? Well, thank you.' The grammar packs 'and' and 'thank you' into a tight, idiomatic kitchen exchange.
+- 'And how will you get it out yourself? Well, thank you.' the hostess uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
 - 'Goodbye, have a nice day!' Notice how Russian expresses 'until' and 'day' with crisp inflection rather than helper words.
 - 'Max, come out quickly, she left.' Here the Russian phrasing highlights 'Max' before landing on 'left'.

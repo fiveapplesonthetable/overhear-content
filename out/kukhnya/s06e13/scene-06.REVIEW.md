@@ -21,14 +21,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Сеня | Он же завтра уезжает от нас навсегда. | He is leaving us forever tomorrow. | #90 00:07:28: уезжает завтра навсегда | adapted: adapted |
 | 10 | Михаил | А раньше нельзя было мне сказать? | Could you not have told me earlier? | #91 00:07:33: раньше нельзя было сказать | adapted: adapted |
 | 11 | Михаил | Ладно, тогда идём сейчас за расчётом. | Fine, then let us go get your final pay now. | #92 00:07:36: идем за счет | adapted: adapted |
-| 12 | Аня | Подождите, я что, уже совсем уволен? | Wait, am I already completely fired? | #93 00:07:37: Я что, уволен | adapted: adapted |
+| 12 | Михаил | Подождите, я что, уже совсем уволен? | Wait, am I already completely fired? | #93 00:07:37: Я что, уволен | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you really leaving tomorrow already?' In Russian, the idea of 'you' flows naturally into 'are leaving' without extra filler words.
+- 'Are you really leaving tomorrow already?' Here Senya anchors the thought on 'actually, really' and finishes on 'are leaving', keeping the spoken rhythm brisk and natural.
 - 'He did not even warn anyone in advance.' Spoken Russian keeps this brisk, leaning on 'he' and finishing on 'warned'.
 - 'Denis is leaving for Voronezh forever tomorrow.' In Russian, the idea of 'Denis' flows naturally into 'forever' without extra filler words.
-- 'A nice room is freeing up at Kostya's place now.' Notice the reflexive suffix on the verb meaning 'becomes free', turning the action back on the subject.
+- 'A nice room is freeing up at Kostya's place now.' Notice how Russian puts 'bones' and 'becomes free / vacates' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Now this is truly very big news.' Notice how Russian expresses 'here' and 'piece of news' with crisp inflection rather than helper words.
 - 'And who is going to play the piano?' In Russian, the idea of 'and' flows naturally into 'piano' without extra filler words.
 - 'Alright, I did not understand anything right now.' In Russian, the idea of 'so' flows naturally into 'understood' without extra filler words.

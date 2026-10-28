@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Я не понял, нафига тебе это надо? | I do not get it, why the heck did you do that? | #73 00:04:16: Я не понял, нафига тебе это надо | verbatim |
+| 1 | Аня | Я не понял, зачем тебе это надо? | I do not understand, why do you need this? | #73 00:04:16: Я не понял<br>#73 00:04:16: тебе это надо | adapted: adapted |
 | 2 | Саша | Я просто давно знал. | I just knew for a long time what she wanted. | #74 00:04:18: я просто давно знал | verbatim |
 | 3 | Аня | Так как она выбрала тебя. | Since she chose you instead of me. | #75 00:04:22: Так как она выбрала тебя | verbatim |
 | 4 | Саша | Ну-ка погоди. | Hold on a second. | #77 00:04:33: Ну-ка погоди | verbatim |
@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not get it, why the heck did you do that?' Max brings out the contrast between 'I' and 'not' in a few short words.
+- 'I do not understand, why do you need this?' Notice how Russian puts 'understood' and 'it is necessary' together in a short, direct phrase where word endings show how the ideas connect.
 - 'I just knew for a long time what she wanted.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'knew'. Max answers right away.
 - 'Since she chose you instead of me.' Notice how Russian expresses 'like this' and 'you' with crisp inflection rather than helper words.
 - 'Hold on a second.' Sasha anchors the line on 'go on', while 'wait' completes the thought.
@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It is not going to work.' Max addresses the listener with the informal singular 'you' alongside 'will come out'.
 - 'I will tell Sasha to give them back to you.' Here the Russian phrasing highlights 'I' before landing on 'returned'. Max answers right away.
 - 'Max, you are amazing.' In Russian, the idea of 'Max' flows naturally into 'super' without extra filler words.
-- 'I do not have a boyfriend like that.' Here the Russian phrasing highlights 'by' before landing on 'there is no'.
+- 'I do not have a boyfriend like that.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Well, I do.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'there is'. Sasha answers right away.
 - 'Did you want to say something to me?' Sasha anchors the line on 'you', while 'say' completes the thought.
 - 'I will pay you back for them tomorrow.' In Russian, the idea of 'tomorrow' flows naturally into 'money' without extra filler words.

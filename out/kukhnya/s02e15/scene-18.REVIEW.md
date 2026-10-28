@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Then the investigation is officially closed.' Spoken Russian keeps this brisk, leaning on 'then' and finishing on 'to close'. Vika answers right away.
 - 'But I am warning all of you.' Vika brings out the contrast between 'I' and 'everyone' in a few short words.
 - 'Next time this happens.' The meaning hinges on 'next' working together with 'time' in spoken Russian.
-- 'That applies to you too.' Notice the reflexive suffix on the verb meaning 'concerns', turning the action back on the subject. Max answers right away.
+- 'That applies to you too.' Notice how Russian puts 'some, also' and 'concerns, applies to' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Got it, mom.' Max anchors the line on 'clear', while 'Mum' completes the thought.
 - 'Well, it is clear to me.' In Russian, the idea of 'come on' flows naturally into 'clear' without extra filler words.
 - 'I figured his scheme out right away.' Notice how Russian expresses 'come on' and 'understood?' with crisp inflection rather than helper words. Vika answers right away.

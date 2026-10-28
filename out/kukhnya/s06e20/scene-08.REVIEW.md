@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Миша, ну это как-то неправильно. | Misha, well, this is somehow wrong. | #102 00:07:57: Миша, ну это как-то неправильно | adapted: adapted |
-| 2 | Михаил | Ты же эту звезду заслужил! | You deserved this star, after all! | #103 00:08:02: Ты эту звезду заслужил | adapted: adapted |
-| 3 | Михаил | Мы с тобой сколько инспекций прошли! | How many inspections you and I have been through! | #104 00:08:04: Мы с тобой сколько инспекций прошли | adapted: adapted |
-| 4 | Михаил | Нельзя сейчас всё это потерять. | We cannot lose all of this right now. | #105 00:08:07: все потерять | adapted: adapted |
+| 1 | Никита | Миша, ну это как-то неправильно. | Misha, well, this is somehow wrong. | #102 00:07:57: Миша, ну это как-то неправильно | adapted: adapted |
+| 2 | Никита | Ты же эту звезду заслужил! | You deserved this star, after all! | #103 00:08:02: Ты эту звезду заслужил | adapted: adapted |
+| 3 | Никита | Мы с тобой сколько инспекций прошли! | How many inspections you and I have been through! | #104 00:08:04: Мы с тобой сколько инспекций прошли | adapted: adapted |
+| 4 | Никита | Нельзя сейчас всё это потерять. | We cannot lose all of this right now. | #105 00:08:07: все потерять | adapted: adapted |
 | 5 | Никита | Подождите, он же так задохнётся! | Wait, he will suffocate like that! | #107 00:08:23: же так задохнется | adapted: adapted |
 | 6 | Никита | Я думал, вы его просто побьёте. | I thought you would just beat him up. | #108 00:08:25: я думал, вы его просто, ну, побьете | adapted: adapted |
 | 7 | Никита | А вы его убить собираетесь! | And you are planning to kill him! | #108 00:08:25: а вы его убить собираетесь | adapted: adapted |
 | 8 | Никита | Мы с вами так не договаривались. | We did not agree on that. | #109 00:08:31: Мы так не договаривались | adapted: adapted |
-| 9 | Михаил | Мы вообще никак не договаривались. | We did not make any agreement with you at all. | #110 00:08:33: А мы с тобой вообще никак не договаривались | adapted: adapted |
-| 10 | Михаил | Ты же сам сюда пришёл. | You came here yourself, after all. | #111 00:08:35: Ты же сам пришел | adapted: adapted |
+| 9 | Никита | Мы вообще никак не договаривались. | We did not make any agreement with you at all. | #110 00:08:33: А мы с тобой вообще никак не договаривались | adapted: adapted |
+| 10 | Никита | Ты же сам сюда пришёл. | You came here yourself, after all. | #111 00:08:35: Ты же сам пришел | adapted: adapted |
 | 11 | Никита | Стойте, так делать совсем нельзя! | Stop, you cannot do that at all! | #112 00:08:38: стойте, стойте<br>#113 00:08:39: Так нельзя | adapted: adapted |
 | 12 | Никита | Я сейчас в полицию сообщу! | I will report this to the police right now! | #114 00:08:43: Я в полицию сообщу | adapted: adapted |
 

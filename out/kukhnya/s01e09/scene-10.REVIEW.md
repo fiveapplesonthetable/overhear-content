@@ -1,32 +1,40 @@
-# kukhnya-s01e09-scene-10: review sheet
+# Папина дочка  (Daddy's Girl) — `kukhnya-s01e09-scene-10`
 
-Title: Папина дочка  (Daddy's Girl)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.09
-Cues 224-244. Vika and little Alisa greet restaurant guests with awkward bluntness before Chef Barinov arrives to check the kitchen.
+**Source:** Кухня (Kukhnya) S1.09 · `sources/kukhnya/s01/e09.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `alisa` | angelina | Алиса |
+| `chef` | anja | Шеф |
+
+## Part 1 — Intro
+
+> In the elegant dining room of Claude Monet, art director Victoria tries her best to entertain Chef Barinov's outspoken young daughter Alisa. After the little girl makes hilariously blunt remarks to arriving diners, Chef Barinov appears and immediately heads to the kitchen to demand speed. Let's listen to their lively exchanges in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вика | Добрый день, добро пожаловать в ресторан! | Good afternoon, welcome to the restaurant! | #224 00:14:01: Добрый день<br>#226 00:14:05: Мы с моей помощницей рады видеть вас в нашем ресторане | verbatim |
-| 2 | Алиса | Здравствуйте, а это ваша девушка? | Hello, is that your girlfriend? | #227 00:14:10: Здравствуйте<br>#229 00:14:15: А это твоя девушка? | verbatim |
-| 3 | Вика | Алиса, веди себя прилично с гостями. | Alisa, behave decently with the guests. | new | new |
-| 4 | Алиса | У меня был дедушка в Новороссийске. | I had a grandfather in Novorossiysk. | #230 00:14:19: У меня тоже был дедушка в Новороссийске | verbatim |
-| 5 | Алиса | Но он умер в прошлом году. | But he died last year. | #231 00:14:23: Только он умер | verbatim |
-| 6 | Вика | А вот наконец и твой папа! | And here at last is your dad! | #233 00:14:32: вот и папа | verbatim |
-| 7 | Алиса | Папа, пойдём скорее играть со мной! | Dad, let us go play with me quickly! | #237 00:14:43: Пап, давай играть | verbatim |
-| 8 | Шеф | Сначала я проверю работу наших поваров. | First I will check our cooks' work. | #238 00:14:45: Давай-ка я сначала посмотрю, как готовят эти инвалиды | verbatim |
-| 9 | Шеф | Кладите меньше пармезана в это блюдо! | Put less Parmesan into this dish! | #239 00:14:50: Меньше пармезана | verbatim |
-| 10 | Шеф | Соус заказали целых полчаса назад. | The sauce was ordered a whole half-hour ago. | #241 00:14:56: Соус полчаса назад заказали | verbatim |
-| 11 | Шеф | Шевелитесь быстрее, гости долго ждут заказ. | Move faster, the guests have been waiting long for the order. | #242 00:14:58: Шевелись | verbatim |
-| 12 | Алиса | Папа всегда так громко командует. | Dad always commands so loudly. | new | new |
-| 13 | Вика | Твой папа — настоящий хозяин кухни. | Your dad is the true master of the kitchen. | #236 00:14:41: Папина дочка | verbatim |
+| 0 | Алиса | Добрый день, добро пожаловать в ресторан! | Good afternoon, welcome to the restaurant! | #224 "Добрый день", #226 "Мы с моей помощницей рады видеть вас в нашем ресторане" |  |
+| 1 | Алиса | Здравствуйте, а это ваша девушка? | Hello, is that your girlfriend? | #227 "Здравствуйте", #229 "А это твоя девушка?" |  |
+| 2 | Алиса | Алиса, веди себя прилично с гостями. | Alisa, behave decently with the guests. | *(added)* |  |
+| 3 | Алиса | У меня был дедушка в Новороссийске. | I had a grandfather in Novorossiysk. | #230 "У меня тоже был дедушка в Новороссийске" |  |
+| 4 | Алиса | Но он умер в прошлом году. | But he died last year. | #231 "Только он умер" |  |
+| 5 | Алиса | А вот наконец и твой папа! | And here at last is your dad! | #233 "вот и папа" |  |
+| 6 | Алиса | Папа, пойдём скорее играть со мной! | Dad, let us go play with me quickly! | #237 "Пап, давай играть" |  |
+| 7 | Шеф | Сначала я проверю работу наших поваров. | First I will check our cooks' work. | #238 "Давай-ка я сначала посмотрю, как готовят эти инвалиды" |  |
+| 8 | Шеф | Кладите меньше пармезана в это блюдо! | Put less Parmesan into this dish! | #239 "Меньше пармезана" |  |
+| 9 | Шеф | Соус заказали целых полчаса назад. | The sauce was ordered a whole half-hour ago. | #241 "Соус полчаса назад заказали" |  |
+| 10 | Шеф | Шевелитесь быстрее, гости долго ждут заказ. | Move faster, the guests have been waiting long for the order. | #242 "Шевелись" |  |
+| 11 | Алиса | Папа всегда так громко командует. | Dad always commands so loudly. | *(added)* |  |
+| 12 | Алиса | Твой папа — настоящий хозяин кухни. | Your dad is the true master of the kitchen. | #236 "Папина дочка" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Hello, is that your girlfriend?' A direct and humorous question demonstrating childish frankness with a demonstrative pronoun.
-- 'Alisa, behave decently with the guests.' Victoria gently instructs the child with an imperative verb and an instrumental prepositional phrase.
-- 'First I will check our cooks' work.' A future tense perfective statement showing the chef's dedication to quality in the kitchen.
-- 'Move faster, the guests have been waiting long for the order.' A brisk imperative followed by an explanation of customer delays for the team. Now, let's hear the lively dining room and kitchen dialogue once more.
+> Now you know how to talk about welcoming restaurant guests, childish frankness, and urgent kitchen instructions in Russian. Listen for these conversational patterns in the upcoming scene. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'faster' — you will catch every word right away. See you next time!
+
+**Шеф:** Пока!

@@ -12,10 +12,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Катя | У меня тоже хороший план есть. | I have a good plan too. | #104 00:07:28: У меня тоже план есть | adapted: adapted |
 | 2 | Катя | Пойдём скорее улики уничтожать. | Let's go destroy the evidence quickly. | #105 00:07:37: Пойдём улики уничтожать | adapted: adapted |
-| 3 | Нагиев | Падать с этого дивана очень больно. | Falling off this sofa hurts a lot. | #108 00:07:46: Падать с него больно | adapted: adapted |
-| 4 | Нагиев | И спать на нём одиноко. | And sleeping on it is lonely. | #109 00:07:48: Спать одиноко | adapted: adapted |
-| 5 | Нагиев | Взяли диван и понесли отсюда. | Pick up the sofa and carry it out of here. | #110 00:07:54: Взяли, понесли | adapted: adapted |
-| 6 | Нагиев | Тёплый плед вам в подарок. | The warm blanket is a gift for you. | #111 00:07:56: Плед в подарок | adapted: adapted |
+| 3 | Катя | Падать с этого дивана очень больно. | Falling off this sofa hurts a lot. | #108 00:07:46: Падать с него больно | adapted: adapted |
+| 4 | Катя | И спать на нём одиноко. | And sleeping on it is lonely. | #109 00:07:48: Спать одиноко | adapted: adapted |
+| 5 | Катя | Взяли диван и понесли отсюда. | Pick up the sofa and carry it out of here. | #110 00:07:54: Взяли, понесли | adapted: adapted |
+| 6 | Катя | Тёплый плед вам в подарок. | The warm blanket is a gift for you. | #111 00:07:56: Плед в подарок | adapted: adapted |
 | 7 | Катя | В общем, шесть бутылок дорогого алкоголя. | In short, six bottles of expensive alcohol. | #113 00:08:04: шесть бутылок элитного алкоголя | adapted: adapted |
 | 8 | Катя | Три из них разбили, три унесли. | Three of them were smashed, three were carried off. | #113 00:08:04: три из них разбили<br>#114 00:08:10: три унесли | adapted: adapted |
 | 9 | Катя | Пойдём смотреть записи с камер. | Let's go watch the camera recordings. | #114 00:08:10: Пойдем смотреть записи | adapted: adapted |

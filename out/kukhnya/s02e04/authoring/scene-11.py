@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e04-scene-11"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e04-scene-11'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 4
 SCENE = 11
-TITLE = 'Шеф становится су-шефом  (The Chef Becomes a Sous-Chef)'
+TITLE = "Шеф становится су-шефом  (The Chef Becomes a Sous-Chef)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.04"
-SOURCE_FILE = "sources/kukhnya/s02/e04.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.04'
+SOURCE_FILE = 'sources/kukhnya/s02/e04.ru.srt'
 
 INTRO = 'In front of a crowd of guests and journalists in the dining room, Kristina introduces chef and author Valdemar Barani to begin his culinary masterclass. Barani announces his favorite signature meat roll and publicly needles Viktor Petrovich by calling him up to serve as his assistant.'
 
 STORY = [
-    ('anya', 'Дамы и господа.', 'Ladies and gentlemen.', [(180, 'Дамы и господа')], ''),
+    ('chef', 'Дамы и господа.', 'Ladies and gentlemen.', [(180, 'Дамы и господа')], ''),
     ('vika', 'Шеф-повара и писателя Вальдемара Барани.', 'Chef and author Valdemar Barani.', [(181, 'шеф-повара и писателя Вальдемара Барани')], ''),
-    ('anya', 'Господа, только я не буду много говорить.', 'Gentlemen, I am not going to talk too much.', [(182, 'Господа, только я не буду много говорить')], ''),
+    ('chef', 'Господа, только я не буду много говорить.', 'Gentlemen, I am not going to talk too much.', [(182, 'Господа, только я не буду много говорить')], ''),
     ('vika', 'А то вам будет неинтересно читать мою книгу.', 'Otherwise it will not be interesting for you to read my book.', [(183, 'а то вам будет неинтересно читать мою книгу')], ''),
-    ('anya', 'Сегодня я хочу представить вам свое любимое блюдо.', 'Today I want to present my favorite dish to you.', [(184, 'Сегодня я хочу представить вам свое любимое блюдо')], ''),
+    ('chef', 'Сегодня я хочу представить вам свое любимое блюдо.', 'Today I want to present my favorite dish to you.', [(184, 'Сегодня я хочу представить вам свое любимое блюдо')], ''),
     ('vika', 'Но мне понадобится помощник.', 'But I am going to need an assistant.', [(187, 'Но мне понадобится помощник')], ''),
-    ('anya', 'Виктор Петрович?', 'Viktor Petrovich?', [(188, 'Виктор Петрович')], ''),
+    ('chef', 'Виктор Петрович?', 'Viktor Petrovich?', [(188, 'Виктор Петрович')], ''),
     ('vika', 'А как плезиром еще.', 'With pleasure, of course.', [(189, 'А как плезиром еще')], ''),
-    ('anya', 'Наш шеф-повар только что стал су-шефом.', 'Our head chef just became a sous-chef.', [(190, 'Наш шеф-повар только что стал су-шефом')], ''),
+    ('chef', 'Наш шеф-повар только что стал су-шефом.', 'Our head chef just became a sous-chef.', [(190, 'Наш шеф-повар только что стал су-шефом')], ''),
     ('vika', 'Лучше им не мешать.', 'It is better not to get in their way.', [(191, 'лучше им не мешать')], ''),
-    ('anya', 'Как говорится.', 'As the saying goes.', [(191, 'как говорится')], ''),
+    ('chef', 'Как говорится.', 'As the saying goes.', [(191, 'как говорится')], ''),
     ('vika', 'Ты смотри, а.', 'Just look at that.', [(192, 'Ты смотри, а')], ''),
-    ('anya', 'Хочет шефа публично унизить.', 'He wants to humiliate the Chef in public.', [(193, 'Хочет шефа публично унизить')], ''),
+    ('chef', 'Хочет шефа публично унизить.', 'He wants to humiliate the Chef in public.', [(193, 'Хочет шефа публично унизить')], ''),
 ]
 
 OPENER = "Now let's break down each line of their conversation."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 11 of Episode 4, listen out for the exchange around the chef becomes a sous-chef — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Хочет шефа публично унизить.')
+OUTRO = 'That wraps up this scene as valdemar Barani begins his public masterclass in the dining room and publicly humiliates Viktor Petrovich by inviting him up as his assistant. Until next time!'
+CLOSING = ("chef", "До завтра!")

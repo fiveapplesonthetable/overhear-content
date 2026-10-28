@@ -40,4 +40,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where did you run away to? To what job interview?' Vika addresses the listener with the informal singular 'you' alongside 'job interview'.
 - 'When I ran out of the apartment, you smashed a vase.' The meaning hinges on 'when' working together with 'broke' in spoken Russian.
 - 'I remember how we met at the club.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'in a club'.
-- 'I spent the night at your place and ran off to apply for a job.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'work'.
+- 'I spent the night at your place and ran off to apply for a job.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.

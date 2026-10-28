@@ -4,13 +4,13 @@ Title: Угроза Виктории Орловой  (Viktoriya Orlova's Threat)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Кухня (Kukhnya) S4.20
-Jury member Viktoriya Orlova, president of the Russian Restaurateurs Association, warns Viktor Petrovich that if he ruins the show, she will blacklist him from every restaurant in Moscow.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Дима, я тебя совсем не боюсь. | Dima, I am not afraid of you at all. | #226 00:17:18: Я тебя не боюсь | adapted: adapted |
+| 1 | Денис | Дима, я тебя совсем не боюсь. | Dima, I am not afraid of you at all. | #226 00:17:18: Я тебя не боюсь | adapted: adapted |
 | 2 | Вика | Виктор Петрович, можно с вами поговорить? | Viktor Petrovich, may I speak with you? | #226 00:17:18: Виктор Петрович, можно с вами поговорить | verbatim |
 | 3 | Денис | Извините, Катя, подожди меня одну секунду! | Excuse me, Katya, wait for me for one second! | #227 00:17:27: Извините<br>#229 00:17:33: Извините. Катя! Кать, подожди | adapted: adapted |
 | 4 | Вика | Виктор Петрович, вы хотите сорвать шоу? | Viktor Petrovich, do you want to ruin the show? | #230 00:17:37: Виктор Петрович, вы хотите сорвать мое шоу | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, I am not afraid of you at all.' Barinov stands up to Nagiyev using a negated reflexive verb with the genitive pronoun.
+- 'Dima, I am not afraid of you at all.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'Viktor Petrovich, may I speak with you?' Association president Viktoriya Orlova steps over and addresses Barinov in the polite plural.
 - 'Excuse me, Katya, wait for me for one second!' In the background, Denis bumps into a cameraman as he chases after Katya.
-- 'Viktor Petrovich, do you want to ruin the show?' The perfective infinitive literally means to tear off and means to derail or ruin an event.
+- 'Viktor Petrovich, do you want to ruin the show?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question.
 - 'I warned you, he can let's down!' Nagiyev chimes in from behind, reminding everyone that he warned them about Barinov.
-- 'Do you want me to lose money?' As an investor in the broadcast, Orlova uses a subjunctive clause with the feminine past.
-- 'Quiet, Dima, be quiet for one minute.' She silences Nagiyev's interruptions with a brisk singular imperative.
-- 'Viktor Petrovich, do not worsen your position.' A negated plural imperative warns Barinov not to make his situation worse.
+- 'Do you want me to lose money?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question.
+- 'Quiet, Dima, be quiet for one minute.' Notice how Russian puts 'quiet' and 'a minute' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Viktor Petrovich, do not worsen your position.' Here Vika anchors the thought on 'position' and finishes on 'position, situation', keeping the spoken rhythm brisk and natural.
 - 'I have big connections in Moscow.' As head of the restaurateurs' association, she wields enormous influence across the city.
 - 'You will not get hired at a single restaurant.' An emphatic negative construction warns that every restaurant door will be closed to him.
-- 'Not even as the most ordinary line cook.' The instrumental singular expresses the role or capacity in which one works.
+- 'Not even as the most ordinary line cook.' Notice how Russian puts 'the most' and 'as a cook' together in a short, direct phrase where word endings show how the ideas connect.
 - 'You have one minute to think it over.' She leaves him sixty seconds to make his choice before the cameras roll.

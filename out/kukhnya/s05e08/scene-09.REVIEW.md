@@ -12,15 +12,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Костя | Тебя тоже жаба душит, и причём очень большая. | Envy is choking you too, and a very big one at that. | #101 00:11:18: Тебя тоже жаба душит<br>#102 00:11:20: И причем очень большая | adapted: adapted |
 | 2 | Костя | Макс, Насти что-то нигде нет, трубку не берёт. | Max, Nastya is nowhere to be found, she is not picking up the phone. | #103 00:11:24: Макс<br>#103 00:11:24: что-то нигде нет, трубку не берет | adapted: adapted |
-| 3 | Аня | В гареме смотрел? | Did you check the harem? | #104 00:11:27: смотрел | adapted: adapted |
+| 3 | Елена | В гареме смотрел? | Did you check the harem? | #104 00:11:27: смотрел | adapted: adapted |
 | 4 | Елена | Ой, спасибо тебе, я уже год так не расслаблялась. | Oh, thank you, I have not relaxed like this in a year. | #105 00:11:35: Ой, спасибо тебе. Я уже так год не расслаблялась | adapted: adapted |
 | 5 | Елена | Живу в золотой клетке. | I live in a golden cage. | #106 00:11:38: Живу в золотой клетке | adapted: adapted |
 | 6 | Елена | И подружки мои, и тусовки — всё пропало. | Both my girlfriends and parties—everything is gone. | #107 00:11:40: И подружки мои, тусовки | adapted: adapted |
-| 7 | Аня | Ну, это твой выбор. | Well, that is your choice. | #108 00:11:44: Ну, это твой выбор | adapted: adapted |
+| 7 | Елена | Ну, это твой выбор. | Well, that is your choice. | #108 00:11:44: Ну, это твой выбор | adapted: adapted |
 | 8 | Елена | Как тебя зовут? | What is your name? | #109 00:11:49: Как тебя зовут | adapted: adapted |
-| 9 | Аня | Катя. | Katya. | #109 00:11:49: Катя | adapted: adapted |
+| 9 | Елена | Катя. | Katya. | #109 00:11:49: Катя | adapted: adapted |
 | 10 | Елена | А меня зовут Юля. | And my name is Yulya. | #109 00:11:49: Как тебя зовут | adapted: adapted |
-| 11 | Аня | Очень приятно познакомиться, Юля. | Very nice to meet you, Yulya. | #105 00:11:35: Ой, спасибо тебе | adapted: adapted |
+| 11 | Елена | Очень приятно познакомиться, Юля. | Very nice to meet you, Yulya. | #105 00:11:35: Ой, спасибо тебе | adapted: adapted |
 | 12 | Елена | Посиди со мной ещё немного. | Sit with me a little longer. | #106 00:11:38: Живу в золотой клетке | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Well, that is your choice.' Notice how Russian expresses 'come on' and 'choice' with crisp inflection rather than helper words. Elena answers right away.
 - 'What is your name?' The grammar packs 'how' and 'is called' into a tight, idiomatic kitchen exchange.
 - 'Katya.' Katya anchors the line on 'Katya', while 'Katya' completes the thought.
-- 'And my name is Yulya.' The grammar packs 'and' and 'Yulya' into a tight, idiomatic kitchen exchange. Katya answers right away.
+- 'And my name is Yulya.' Elena centers this short reply on 'is called', letting a few direct words carry the whole meaning.
 - 'Very nice to meet you, Yulya.' Katya brings out the contrast between 'very' and 'pleasant' in a few short words.
 - 'Sit with me a little longer.' In Russian, the idea of 'sit for a while' flows naturally into 'a little' without extra filler words.

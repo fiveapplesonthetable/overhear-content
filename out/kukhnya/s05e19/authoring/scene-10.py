@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e19-scene-10'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 19
 SCENE = 10
 TITLE = "Подсказка у дедушки и свежие идеи  (The Grandfather's Clue and Fresh Ideas)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "anya": "alisa", "chef": "anja"}
+LABELS = {"katya": "Катя", "anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.19'
 SOURCE_FILE = 'sources/kukhnya/s05/e19.ru.srt'
 
 INTRO = "Katya feeds Senya's fish in the aquarium to retrieve a note pointing to 'the grandfather of your future children.' Her father Victor hands her an envelope telling her to go to the botanical garden at six."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Putting on Chef Barinov's apron, Max immediately launches his first cost-cutting experiment in the kitchen. See you in the next scene."
-CLOSING = ('anya', 'Есть свежие идеи — предлагайте.')
+OUTRO = "Putting on Chef Barinov's apron, Max immediately launches his first cost-cutting experiment in the kitchen. See you next time!"
+CLOSING = ("anya", "Увидимся!")

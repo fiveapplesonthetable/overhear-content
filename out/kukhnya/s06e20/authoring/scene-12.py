@@ -1,30 +1,30 @@
 ID = 'kukhnya-s06e20-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 20
 SCENE = 12
-TITLE = 'Украденная коляска  (The Stolen Wheelchair)'
+TITLE = "Украденная коляска  (The Stolen Wheelchair)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja', 'inspector': 'angelina'}
-LABELS = {'anya': 'Шеф', 'elena': 'Елена', 'inspector': 'Инспектор'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "inspector": "angelina"}
+LABELS = {"chef": "Шеф", "inspector": "Инспектор"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.20'
 SOURCE_FILE = 'sources/kukhnya/s06/e20.ru.srt'
 
 INTRO = 'Elena arrives to take Viktor home after his two hours, when Patrick Malouda suddenly walks up behind them! Thinking fast, Barinov throws himself onto the ground and claims that thieves just stole his wheelchair right from under him.'
 
 STORY = [
-    ('elena', 'Витя, мы договаривались на два часа.', 'Vitya, we agreed on two hours.', [(157, 'Витя'), (158, 'Мы договаривались не больше двух часов')], 'adapted'),
-    ('anya', 'Лена, прости, я сегодня замотался.', 'Lena, forgive me, I got caught up today.', [(158, 'прости, ну я замотался')], 'adapted'),
-    ('anya', 'Я как раз домой собирался.', 'I was just getting ready to go home.', [(159, 'Я как раз домой собирался')], 'adapted'),
-    ('anya', 'Всё нормально, вы не беспокойтесь.', 'Everything is fine, do not worry.', [(163, 'Все нормально, не беспокойтесь')], 'adapted'),
+    ('inspector', 'Витя, мы договаривались на два часа.', 'Vitya, we agreed on two hours.', [(157, 'Витя'), (158, 'Мы договаривались не больше двух часов')], 'adapted'),
+    ('chef', 'Лена, прости, я сегодня замотался.', 'Lena, forgive me, I got caught up today.', [(158, 'прости, ну я замотался')], 'adapted'),
+    ('chef', 'Я как раз домой собирался.', 'I was just getting ready to go home.', [(159, 'Я как раз домой собирался')], 'adapted'),
+    ('chef', 'Всё нормально, вы не беспокойтесь.', 'Everything is fine, do not worry.', [(163, 'Все нормально, не беспокойтесь')], 'adapted'),
     ('inspector', 'Виктор, что с вами произошло?', 'Viktor, what happened to you?', [(164, 'Виктор, что с вами'), (166, 'Что произошло')], 'adapted'),
     ('inspector', 'Скажите, а где ваша коляска?', 'Tell me, where is your wheelchair?', [(167, 'Где ваша коляска')], 'adapted'),
-    ('anya', 'У меня её только что украли.', 'Someone just stole it from me.', [(168, 'У меня ее только что украли')], 'adapted'),
+    ('chef', 'У меня её только что украли.', 'Someone just stole it from me.', [(168, 'У меня ее только что украли')], 'adapted'),
     ('inspector', 'Украли здесь, это просто возмутительно!', 'Stolen here, that is simply outrageous!', [(169, 'Здесь? Это возмутительно, Виктор')], 'adapted'),
-    ('anya', 'Патрик, познакомься, это моя жена Елена.', 'Patrick, meet my wife Elena.', [(171, 'Патрик, кстати, это моя жена Елена')], 'adapted'),
-    ('anya', 'А это главный инспектор Мишлен.', 'And this is the chief Michelin inspector.', [(173, 'главный инспектор Мишлен')], 'adapted'),
-    ('elena', 'Инспектор, мне очень приятно познакомиться.', 'Inspector, I am very pleased to meet you.', [(174, 'инспектор'), (175, 'Приятно познакомиться')], 'adapted'),
+    ('chef', 'Патрик, познакомься, это моя жена Елена.', 'Patrick, meet my wife Elena.', [(171, 'Патрик, кстати, это моя жена Елена')], 'adapted'),
+    ('chef', 'А это главный инспектор Мишлен.', 'And this is the chief Michelin inspector.', [(173, 'главный инспектор Мишлен')], 'adapted'),
+    ('inspector', 'Инспектор, мне очень приятно познакомиться.', 'Inspector, I am very pleased to meet you.', [(174, 'инспектор'), (175, 'Приятно познакомиться')], 'adapted'),
     ('inspector', 'Елена, вы просто сегодня прекрасны.', 'Elena, you are simply lovely today.', [(176, 'Вы прекрасны')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Hearing the words 'Michelin inspector,' Elena immediately plays along, and Senya and Fedya arrive with a borrowed wheelchair. See you in the next scene."
-CLOSING = ('anya', 'Спасибо, ребята, помогите подняться.')
+OUTRO = "Hearing the words 'Michelin inspector,' Elena immediately plays along, and Senya and Fedya arrive with a borrowed wheelchair. See you next time!"
+CLOSING = ("chef", "До встречи!")

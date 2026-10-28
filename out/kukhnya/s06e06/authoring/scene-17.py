@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e06-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 6
 SCENE = 17
-TITLE = 'Сломанный экран  (The Broken Screen)'
+TITLE = "Сломанный экран  (The Broken Screen)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'gost': 'angelina'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя', 'gost': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.06'
 SOURCE_FILE = 'sources/kukhnya/s06/e06.ru.srt'
 
 INTRO = 'Staring at the shattered television screen, Nastya reveals where the money actually came from, sparking a heated clash between father and son. Listen to the full conversation in Russian first, and then we will walk through every line together.'
@@ -16,16 +16,16 @@ INTRO = 'Staring at the shattered television screen, Nastya reveals where the mo
 STORY = [
     ('nastya', 'На этот телевизор я деньги заняла.', 'I borrowed the money for this television.', [(264, 'Вообще-то на этот телевизор я у своего папы деньги заняла')], 'adapted'),
     ('nastya', 'Я взяла их в долг у папы!', 'I borrowed them from my dad!', [(264, 'у своего папы деньги заняла')], 'adapted'),
-    ('gost', 'Сынок, ты бы сначала головой думал.', 'Son, you should have used your head first.', [(265, 'Сынок, ты бы головой думал')], 'adapted'),
-    ('gost', 'Не надо сразу молотком тут махать.', 'There is no need to swing a hammer around right away.', [(265, 'прежде чем молотком махать')], 'adapted'),
-    ('anya', 'А ты думал, прежде чем сюда приезжать?', 'And did you think before coming here?', [(266, 'а ты думала, прежде чем сюда приезжать')], 'adapted'),
-    ('anya', 'От тебя в доме одни проблемы!', 'There is nothing but trouble from you in the house!', [(267, 'У тебя одни проблемы')], 'adapted'),
-    ('gost', 'Не трогай свою мать, слышишь меня?', 'Do not bring your mother into this, do you hear me?', [(269, 'Не тронь, мать')], 'adapted'),
-    ('gost', 'Твоя мама была замечательная женщина.', 'Your mother was a wonderful woman.', [(270, 'Она святая женщина')], 'adapted'),
-    ('anya', 'Зачем же она такого человека выбрала?', 'Why then did she choose a man like you?', [(271, 'раз такого, как ты выбрала')], 'adapted'),
+    ('kostya', 'Сынок, ты бы сначала головой думал.', 'Son, you should have used your head first.', [(265, 'Сынок, ты бы головой думал')], 'adapted'),
+    ('kostya', 'Не надо сразу молотком тут махать.', 'There is no need to swing a hammer around right away.', [(265, 'прежде чем молотком махать')], 'adapted'),
+    ('kostya', 'А ты думал, прежде чем сюда приезжать?', 'And did you think before coming here?', [(266, 'а ты думала, прежде чем сюда приезжать')], 'adapted'),
+    ('kostya', 'От тебя в доме одни проблемы!', 'There is nothing but trouble from you in the house!', [(267, 'У тебя одни проблемы')], 'adapted'),
+    ('kostya', 'Не трогай свою мать, слышишь меня?', 'Do not bring your mother into this, do you hear me?', [(269, 'Не тронь, мать')], 'adapted'),
+    ('kostya', 'Твоя мама была замечательная женщина.', 'Your mother was a wonderful woman.', [(270, 'Она святая женщина')], 'adapted'),
+    ('kostya', 'Зачем же она такого человека выбрала?', 'Why then did she choose a man like you?', [(271, 'раз такого, как ты выбрала')], 'adapted'),
     ('nastya', 'Доктор, кто это вас так сильно?', 'Doctor, who hit you so hard like that?', [(273, 'Кто это вас так')], 'adapted'),
-    ('anya', 'Это меня родной отец так ударил.', 'My own father hit me like that.', [(275, 'Батя')], 'adapted'),
-    ('anya', 'Честно говоря, он ударил за дело.', 'Honestly speaking, he hit me for a good reason.', [(276, 'Ну, за дело')], 'adapted'),
+    ('kostya', 'Это меня родной отец так ударил.', 'My own father hit me like that.', [(275, 'Батя')], 'adapted'),
+    ('kostya', 'Честно говоря, он ударил за дело.', 'Honestly speaking, he hit me for a good reason.', [(276, 'Ну, за дело')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Ironically, getting knocked flat by his father for disrespecting his mother finally earns Timofey Ilyich a measure of Kostya's respect. See you in the next scene."
-CLOSING = ('anya', 'Надо пойти извиниться перед отцом.')
+OUTRO = "Ironically, getting knocked flat by his father for disrespecting his mother finally earns Timofey Ilyich a measure of Kostya's respect. Until next time!"
+CLOSING = ("kostya", "Пока!")

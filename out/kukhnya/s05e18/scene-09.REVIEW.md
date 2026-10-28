@@ -13,15 +13,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Гость | Здравствуйте, мужики, совесть имейте! | Hello, fellas, have a conscience! | #150 00:10:32: Мужики, совесть имейте | adapted: adapted |
 | 2 | Гость | Я сутки из такси не вылезал, людей возил. | I did not get out of my taxi all day, driving people. | #151 00:10:34: из такси не вылезал, людей возил | adapted: adapted |
 | 3 | Гость | Вырубите дрель, я только спать лёг! | Turn off the drill, I just lay down to sleep! | #152 00:10:37: Вырубите дрель, а? Только спать | adapted: adapted |
-| 4 | Шеф | Слушай, друг, у нас тут ещё час работы. | Listen, friend, we have another hour of work here. | #153 00:10:40: Слушай, друг, ну у нас тут еще час | adapted: adapted |
-| 5 | Шеф | Потерпи, завтра жену из роддома забирать. | Bear with us, tomorrow he picks up his wife from the hospital. | #154 00:10:44: Потерпи. Завтра жену из роддома забирать | adapted: adapted |
-| 6 | Шеф | Пожалуйста, войди в наше положение. | Please, put yourself in our shoes. | #155 00:10:47: Войди в положение | adapted: adapted |
+| 4 | Гость | Слушай, друг, у нас тут ещё час работы. | Listen, friend, we have another hour of work here. | #153 00:10:40: Слушай, друг, ну у нас тут еще час | adapted: adapted |
+| 5 | Гость | Потерпи, завтра жену из роддома забирать. | Bear with us, tomorrow he picks up his wife from the hospital. | #154 00:10:44: Потерпи. Завтра жену из роддома забирать | adapted: adapted |
+| 6 | Гость | Пожалуйста, войди в наше положение. | Please, put yourself in our shoes. | #155 00:10:47: Войди в положение | adapted: adapted |
 | 7 | Гость | У вас тут ещё ребёнок орать будет? | Is a baby going to be screaming in here too? | #155 00:10:47: У вас сегодня еще ребенок орать будет | adapted: adapted |
 | 8 | Аня | Да, в моём доме будет жить мой ребёнок. | Yes, my child is going to live in my home. | #156 00:10:51: Да, в моем доме будет | adapted: adapted |
 | 9 | Аня | У тебя какие-то проблемы с этим? | Do you have some kind of problem with that? | #157 00:10:54: Какие-то проблемы | adapted: adapted |
 | 10 | Гость | Проблемы у тебя будут, если дрель услышу! | You will have problems if I hear the drill again! | #157 00:10:54: Проблема у тебя будет, если еще раз дрелью | adapted: adapted |
 | 11 | Гость | Вообще-то сегодня суббота, вы права не имеете. | Actually today is Saturday, you have no right. | #158 00:10:57: вообще-то сегодня суббота<br>#159 00:10:59: Вы вообще права не имеете | adapted: adapted |
-| 12 | Шеф | Не обращай на него внимания, продолжаем. | Pay no attention to him, let's continue. | #160 00:11:01: Не обращай внимания | adapted: adapted |
+| 12 | Гость | Не обращай на него внимания, продолжаем. | Pay no attention to him, let's continue. | #160 00:11:01: Не обращай внимания | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

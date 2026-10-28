@@ -11,8 +11,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Аня | Да, Костя, всё нормально, мы гуляем. | Yes, Kostya, everything is fine, we are out walking. | #133 00:09:40: Да, Костя, всё нормально, мы гуляем | verbatim |
-| 2 | Костя | Отец Насти сейчас к тебе едет. | Nastya's father is driving over to you right now. | #134 00:09:42: отец Настя сейчас к тебе едет | adapted: adapted for A1 clarity |
-| 3 | Костя | Он хочет Стёпку забрать. | He wants to pick Styopa up. | #135 00:09:46: хочет Степку забрать | adapted: adapted for A1 clarity |
+| 2 | Гость | Отец Насти сейчас к тебе едет. | Nastya's father is driving over to you right now. | #134 00:09:42: отец Настя сейчас к тебе едет | adapted: adapted for A1 clarity |
+| 3 | Гость | Он хочет Стёпку забрать. | He wants to pick Styopa up. | #135 00:09:46: хочет Степку забрать | adapted: adapted for A1 clarity |
 | 4 | Аня | Ну, Стёпка, иди сюда. | Well, Styopa, come here. | #137 00:09:59: Ну, Степка | adapted: adapted for A1 clarity |
 | 5 | Гость | Ты какой здоровый стал! | How big and strong you have grown! | #138 00:10:04: здоровый какой стал | adapted: adapted for A1 clarity |
 | 6 | Гость | В нашу породу, сразу видно! | Just like our stock, you can tell right away! | #139 00:10:07: В нашу породу сразу видно | verbatim |
@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Yes, Kostya, everything is fine, we are out walking.' In Russian, the verb for 'walking' also means playing outside in the fresh air.
-- 'Nastya's father is driving over to you right now.' Possession with nouns is shown by putting the owner ('Nastya') in the genitive case right after 'father'.
-- 'He wants to pick Styopa up.' The perfective infinitive with 'want' means to come take someone or something away.
-- 'Well, Styopa, come here.' The singular imperative of 'to go on foot' pairs with the directional adverb 'to here'.
+- 'Nastya's father is driving over to you right now.' In everyday Russian, 'father' flows straight into 'is going' without extra linking words.
+- 'He wants to pick Styopa up.' Kostya pairs 'wants' with 'to take away' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Well, Styopa, come here.' Notice how Russian puts 'come' and 'here, this way' together in a short, direct phrase where word endings show how the ideas connect.
 - 'How big and strong you have grown!' In colloquial speech, the word for 'healthy' often means 'big and sturdy'.
 - 'Just like our stock, you can tell right away!' The impersonal word for 'visible' means 'you can tell right away'.
 - 'Of course, you can tell right away.' Max agrees politely without realizing the grandfather has never seen his grandson up close.
-- 'Styopa, say goodbye to your uncle, we are leaving.' Russian children are taught to call any grown man 'uncle', here in the instrumental case after 'say goodbye with'.
+- 'Styopa, say goodbye to your uncle, we are leaving.' Notice how Russian puts 'styopa' and 'are leaving' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Bye, little guy!' The casual farewell works among friends and with children.
-- 'Have you seen a little boy?' Because 'boy' is an animate masculine noun, its accusative direct-object form matches the genitive ending '-a'.
-- 'He has a Spider-Man mask.' Compound superhero names decline in the genitive to show whose mask it is.
+- 'Have you seen a little boy?' In spoken Russian, the words stay in their normal statement order and the guest's rising voice at the end turns the line into a question.
+- 'He has a Spider-Man mask.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Oh, have you not seen a child?' Asking a question in the negative is the polite Russian way to ask strangers if they have spotted someone.
 - 'A fair-haired little boy.' Adding the diminutive suffix to the adjective for 'light' affectionately describes a blond child.
-- 'I turned away for just a second!' The prefix 'ot-' and reflexive ending show the mother turned herself away briefly.
+- 'I turned away for just a second!' In everyday Russian, 'second' flows straight into 'to turn away' without extra linking words.

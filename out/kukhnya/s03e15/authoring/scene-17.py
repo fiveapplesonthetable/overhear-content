@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 17
 TITLE = "Покупка машины и условие гостя  (Buying the Car and the Guest's Condition)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "anya": "alisa", "guest": "anja"}
+LABELS = {"nastya": "Настя", "anya": "Макс", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = "Outside the restaurant, Nastya proudly shows Kostya what she just bought with all their wedding money: Eva's pink car! Seconds later, Nagiyev's friend arrives for the bet and demands that every single cook leave the kitchen! Listen first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With all the cooks ordered out of the kitchen, how can Nagiyev possibly win the bet? Fortunately, Chef Barinov already prepared a Plan B! Let's hear Scene Eighteen."
-CLOSING = ('nastya', 'Я купила у Евы машину!')
+OUTRO = "With all the cooks ordered out of the kitchen, how can Nagiyev possibly win the bet? Fortunately, Chef Barinov already prepared a Plan B! Let's hear Scene Eighteen. Until next time!"
+CLOSING = ("nastya", "Хорошего дня!")

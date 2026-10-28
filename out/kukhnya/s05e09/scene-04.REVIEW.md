@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну вот, как-то так. | Well there, something like that. | #48 00:04:04: Ну вот. Как-то так | adapted: adapted |
+| 1 | Шеф | Ну вот, как-то так. | Well there, something like that. | #48 00:04:04: Ну вот. Как-то так | adapted: adapted |
 | 2 | Елена | Слушай, какой ты был стройный! | Listen, how slim you used to be! | #49 00:04:07: Слушай, какой что был стройный | adapted: adapted |
-| 3 | Аня | Ты опять намекаешь, что я толстый? | Are you hinting again that I am fat? | #50 00:04:10: Ты опять намекаешь, что я толстый | adapted: adapted |
+| 3 | Шеф | Ты опять намекаешь, что я толстый? | Are you hinting again that I am fat? | #50 00:04:10: Ты опять намекаешь, что я толстый | adapted: adapted |
 | 4 | Елена | Нет, я просто говорю, что был стройный. | No, I am just saying that you were slim. | #51 00:04:12: Нет. Я просто говорю, что был стройный | adapted: adapted |
-| 5 | Аня | Да я могу похудеть в любой момент! | I can lose weight at any moment! | #52 00:04:14: Да я могу похудеть в любой момент | adapted: adapted |
+| 5 | Шеф | Да я могу похудеть в любой момент! | I can lose weight at any moment! | #52 00:04:14: Да я могу похудеть в любой момент | adapted: adapted |
 | 6 | Елена | Значит так. | So here is the deal. | #54 00:04:18: Значит так | adapted: adapted |
 | 7 | Елена | Через неделю ты поправишься. | In a week you will recover. | #55 00:04:20: Через неделю, когда ты поправишься | adapted: adapted |
 | 8 | Елена | У нас свидание в ресторане. | We have a date at the restaurant. | #55 00:04:20: у нас свидание в ресторане | adapted: adapted |
-| 9 | Аня | И я буду в этом костюме. | And I will be in this suit. | #56 00:04:25: И я буду в этом костюме | adapted: adapted |
-| 10 | Аня | И он мне будет великоват! | And it will be a bit too big on me! | #57 00:04:27: И он мне будет великоват | adapted: adapted |
+| 9 | Шеф | И я буду в этом костюме. | And I will be in this suit. | #56 00:04:25: И я буду в этом костюме | adapted: adapted |
+| 10 | Шеф | И он мне будет великоват! | And it will be a bit too big on me! | #57 00:04:27: И он мне будет великоват | adapted: adapted |
 | 11 | Елена | Посмотрим! | We will see! | #53 00:04:16: Ой-ой-ой-ой | adapted: adapted |
-| 12 | Аня | Точно тебе говорю! | I am telling you for sure! | #47 00:04:00: Так | adapted: adapted |
+| 12 | Шеф | Точно тебе говорю! | I am telling you for sure! | #47 00:04:00: Так | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

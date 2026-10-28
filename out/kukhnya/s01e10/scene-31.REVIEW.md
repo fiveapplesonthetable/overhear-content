@@ -1,36 +1,39 @@
-# kukhnya-s01e10-scene-31: review sheet
+# Секретный рецепт  (The Secret Recipe) — `kukhnya-s01e10-scene-31`
 
-Title: Секретный рецепт  (The Secret Recipe)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.10
+**Source:** Кухня (Kukhnya) S1.10 · `sources/kukhnya/s01/e10.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `senya` | angelina | Сеня |
+| `fedya` | anja | Федя |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the kitchen of Claude Monet, cooks Senya and Fedya have bought cheap pike caviar to replace sturgeon caviar. To pull off the trick, Senya prepares special food dye to turn the golden caviar pitch black. Listen to their conversation in Russian first, then we will break down each line in English.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Федя | Сеня, ты уверен в этой идее? | Senya, are you sure about this idea? | new | new: expressing doubt |
-| 2 | Сеня | Конечно, это гениальный план! | Of course, this is a brilliant plan! | new | new: boasting confidence |
-| 3 | Федя | Она же совсем жёлтая, как песок. | It is completely yellow, like sand. | new | new: pointing at color |
-| 4 | Сеня | Сейчас мы её аккуратно покрасим. | Now we will carefully dye it. | #207 00:14:12: Давай | adapted: explaining method |
-| 5 | Федя | Какой краской ты будешь красить? | What dye will you paint it with? | new | new: asking about dye |
-| 6 | Сеня | У меня есть специальный чёрный краситель. | I have a special black food coloring. | new | new: revealing ingredient |
-| 7 | Федя | А гости ничего не заметят? | And the guests will not notice anything? | new | new: worrying about discovery |
-| 8 | Сеня | Они подумают, что это дорогая икра. | They will think that this is expensive caviar. | new | new: reassuring friend |
-| 9 | Федя | Тогда давай быстро начнём работу. | Then let us quickly begin the work. | new | new: agreeing to help |
-| 10 | Сеня | Бери большую ложку и перемешивай. | Take the big spoon and stir. | new | new: directing action |
-| 11 | Федя | Смотри, цвет уже начинает меняться. | Look, the color is already starting to change. | new | new: observing result |
-| 12 | Сеня | Отлично, получается настоящая осетровая икра! | Excellent, it is turning out like real sturgeon caviar! | new | new: celebrating progress |
+| 0 | Федя | Сеня, ты уверен в этой идее? | Senya, are you sure about this idea? | *(added)* |  |
+| 1 | Сеня | Конечно, это гениальный план! | Of course, this is a brilliant plan! | *(added)* |  |
+| 2 | Федя | Она же совсем жёлтая, как песок. | It is completely yellow, like sand. | *(added)* |  |
+| 3 | Сеня | Сейчас мы её аккуратно покрасим. | Now we will carefully dye it. | #208 "кра" |  |
+| 4 | Федя | Какой краской ты будешь красить? | What dye will you paint it with? | *(added)* |  |
+| 5 | Сеня | У меня есть специальный чёрный краситель. | I have a special black food coloring. | *(added)* |  |
+| 6 | Федя | А гости ничего не заметят? | And the guests will not notice anything? | *(added)* |  |
+| 7 | Сеня | Они подумают, что это дорогая икра. | They will think that this is expensive caviar. | *(added)* |  |
+| 8 | Федя | Тогда давай быстро начнём работу. | Then let us quickly begin the work. | *(added)* |  |
+| 9 | Сеня | Бери большую ложку и перемешивай. | Take the big spoon and stir. | *(added)* |  |
+| 10 | Федя | Смотри, цвет уже начинает меняться. | Look, the color is already starting to change. | *(added)* |  |
+| 11 | Сеня | Отлично, получается настоящая осетровая икра! | Excellent, it is turning out like real sturgeon caviar! | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Senya, are you sure about this idea?' — short adjective expressing certainty with a prepositional object.
-- 'Of course, this is a brilliant plan!' — emphatic introductory word followed by a demonstrative clause.
-- 'Now we will carefully dye it.' — future perfective verb with an adverb of manner.
-- 'I have a special black food coloring.' — standard Russian possessive structure in the nominative.
-- 'And the guests will not notice anything?' — negative pronoun with a future perfective verb.
-- 'They will think that this is expensive caviar.' — future verb introducing an indirect statement.
-- 'Take the big spoon and stir.' — two consecutive imperative verbs directing food preparation.
-- 'Look, the color is already starting to change.' — imperative calling attention to an active change.
-- 'Excellent, it is turning out like real sturgeon caviar!' — predicative adverb with a reflexive verb. Now listen to the full conversation once more.
+> In the kitchen, Senya and Fedya inspect the golden pike caviar and prepare black food coloring to disguise it as expensive sturgeon caviar. Next time you watch the episode, listen for the Russian expressions for 'of course' and 'colour' — you will catch every word right away. See you next time!
+
+**Сеня:** Пока!

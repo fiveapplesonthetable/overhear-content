@@ -11,15 +11,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Михаил | Ну что, Витя, теперь ты мой раб. | Well then, Vitya, now you are my servant. | #237 00:17:18: Ну что, Витя, теперь ты мой раб | adapted: verbatim |
-| 2 | Аня | Кабинет мой хоть верни. | At least give my office back. | #238 00:17:23: Кабинет хоть верни | adapted: adapted |
+| 2 | Михаил | Кабинет мой хоть верни. | At least give my office back. | #238 00:17:23: Кабинет хоть верни | adapted: adapted |
 | 3 | Михаил | Кабинет верну, но ты будешь помнить. | I will return the office, but you will remember. | #238 00:17:23: Кабинет верну, но ты всегда будешь помнить | adapted: adapted |
 | 4 | Михаил | Помни, в каком месте ты сидишь. | Remember what place you are sitting in. | #239 00:17:27: в каком месте ты сидишь | adapted: verbatim |
 | 5 | Михаил | Сегодня на открытии будет префект. | Today the prefect will be at the grand opening. | #239 00:17:27: сегодня на открытии будет префект | adapted: verbatim |
 | 6 | Михаил | Я хочу, чтобы ты приготовил пиццу. | I want you to make a pizza. | #240 00:17:32: Я хочу, чтобы ты для него приготовил пиццу | adapted: adapted |
 | 7 | Михаил | Он её просто обожает. | He simply adores it. | #241 00:17:34: Он ее обожает | adapted: adapted |
-| 8 | Аня | Ты что, совсем с ума сошёл? | Have you completely lost your mind? | #241 00:17:34: Ты что | adapted: adapted |
-| 9 | Аня | У нас французский ресторан. | We have a French restaurant. | #242 00:17:37: У нас французский ресторан | adapted: verbatim |
-| 10 | Аня | Какая ещё здесь пицца? | What kind of pizza could there be here? | #243 00:17:38: Какая пицца? | adapted: adapted |
+| 8 | Михаил | Ты что, совсем с ума сошёл? | Have you completely lost your mind? | #241 00:17:34: Ты что | adapted: adapted |
+| 9 | Михаил | У нас французский ресторан. | We have a French restaurant. | #242 00:17:37: У нас французский ресторан | adapted: verbatim |
+| 10 | Михаил | Какая ещё здесь пицца? | What kind of pizza could there be here? | #243 00:17:38: Какая пицца? | adapted: adapted |
 | 11 | Михаил | А ну молчать, раб! | Be quiet right now, servant! | #243 00:17:38: раб | adapted: adapted |
 | 12 | Михаил | Кто здесь теперь господин? | Who is the master here now? | #244 00:17:41: господин? | adapted: adapted |
 | 13 | Михаил | Сказал пиццу — значит, пиццу. | I said pizza, so pizza it is. | #245 00:17:44: Сказал пиццу? Значит, пиццу | adapted: adapted |

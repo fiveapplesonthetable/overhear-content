@@ -17,17 +17,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Нагиев | Держите скорее этих бандитов! | Catch these bandits quickly! | #219 00:14:29: Держите | adapted: adapted |
 | 6 | Нагиев | Это они тут взрыв устроили! | They are the ones who caused the explosion here! | #220 00:14:31: Это они взрыв устроили | adapted: adapted |
 | 7 | Аня | Катя, а если хозяйка снова вернётся? | Katya, what if the landlady comes back again? | #222 00:14:42: а если она вернется | adapted: adapted |
-| 8 | Катя | Это твоя квартира и твои проблемы. | It is your apartment and your problems. | #223 00:14:45: Твоя квартира, твои проблемы | adapted: adapted |
+| 8 | Нагиев | Это твоя квартира и твои проблемы. | It is your apartment and your problems. | #223 00:14:45: Твоя квартира, твои проблемы | adapted: adapted |
 | 9 | Аня | Ну останься хоть на пару часов. | Well stay for at least a couple of hours. | #224 00:14:47: останься хоть на пару часов | adapted: adapted |
-| 10 | Катя | Я из-за тебя тоже чуть не попала. | I almost got in trouble because of you too. | #225 00:14:50: тоже чуть не попал | adapted: adapted |
-| 11 | Катя | Ты же сам сказал, что мы в расчете. | You said yourself that we are even. | #226 00:14:53: Ты сам сказал, что мы в расчете | adapted: adapted |
+| 10 | Нагиев | Я из-за тебя тоже чуть не попала. | I almost got in trouble because of you too. | #225 00:14:50: тоже чуть не попал | adapted: adapted |
+| 11 | Нагиев | Ты же сам сказал, что мы в расчете. | You said yourself that we are even. | #226 00:14:53: Ты сам сказал, что мы в расчете | adapted: adapted |
 | 12 | Аня | Катя, погоди, не уходи сейчас. | Katya, wait a moment, do not leave right now. | #227 00:14:56: Катя, погоди | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What on earth are you doing here?' The grammar packs 'you' and 'are doing' into a tight, idiomatic kitchen exchange.
 - 'That is my new car!' The meaning hinges on 'this' working together with 'machine' in spoken Russian.
-- 'And what if I had been sitting inside?' The grammar packs 'and' and 'did time' into a tight, idiomatic kitchen exchange.
+- 'And what if I had been sitting inside?' In spoken Russian, the words stay in their normal statement order and Nagiyev's rising voice at the end turns the line into a question.
 - 'That old man had a real grenade!' Max anchors the line on 'at', while 'real' completes the thought.
 - 'Catch these bandits quickly!' Spoken Russian keeps this brisk, leaning on 'are holding' and finishing on 'bandits'.
 - 'They are the ones who caused the explosion here!' Dmitry Nagiyev anchors the line on 'this', while 'caused' completes the thought.

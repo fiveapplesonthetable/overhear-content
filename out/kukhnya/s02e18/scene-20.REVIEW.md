@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Какую проверку? | What test are you talking about? | #335 00:20:54: Какую проверку | verbatim |
+| 1 | Шеф | Какую проверку? | What test are you talking about? | #335 00:20:54: Какую проверку | verbatim |
 | 2 | Лёва | А ты думаешь? | What do you think? | #336 00:20:56: А ты думаешь | verbatim |
-| 3 | Аня | Вы же сами заявление подписали. | You signed the request form yourself. | #337 00:21:02: Вы же сами заявление подписали | verbatim |
+| 3 | Шеф | Вы же сами заявление подписали. | You signed the request form yourself. | #337 00:21:02: Вы же сами заявление подписали | verbatim |
 | 4 | Лёва | Я пьяный был? | Was I drunk when I signed it? | #338 00:21:05: Я пьяный был | verbatim |
-| 5 | Аня | Ну, тогда не считается. | Well, then it does not count. | #339 00:21:06: Ну, тогда не считается | verbatim |
+| 5 | Шеф | Ну, тогда не считается. | Well, then it does not count. | #339 00:21:06: Ну, тогда не считается | verbatim |
 | 6 | Лёва | Предупреждать надо было. | You should have warned me beforehand. | #340 00:21:09: Предупреждать надо было | verbatim |
-| 7 | Аня | А я не виноват. | It is not my fault. | #341 00:21:11: А я не виноват | verbatim |
+| 7 | Шеф | А я не виноват. | It is not my fault. | #341 00:21:11: А я не виноват | verbatim |
 | 8 | Лёва | Что вы все время пьяный. | That you are drunk all the time. | #341 00:21:11: что вы все время пьяный | verbatim |
-| 9 | Аня | Без тебя актер. | Quite an actor even without you. | #344 00:21:18: Без тебя актер | verbatim |
+| 9 | Шеф | Без тебя актер. | Quite an actor even without you. | #344 00:21:18: Без тебя актер | verbatim |
 | 10 | Лёва | Вечером что был? | What happened in the evening? | #345 00:21:20: Вечером что был | verbatim |
-| 11 | Аня | Ничего не знаю. | I do not know anything. | #346 00:21:23: Ничего не знаю | verbatim |
+| 11 | Шеф | Ничего не знаю. | I do not know anything. | #346 00:21:23: Ничего не знаю | verbatim |
 | 12 | Лёва | У меня планы. | I have plans. | #346 00:21:23: У меня планы | verbatim |
-| 13 | Аня | Шеф, готово. | Chef, everything is ready. | #347 00:21:27: Шеф, готово | verbatim |
+| 13 | Шеф | Шеф, готово. | Chef, everything is ready. | #347 00:21:27: Шеф, готово | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

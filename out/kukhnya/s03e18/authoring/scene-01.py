@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 1
-TITLE = 'Турникет и новые правила  (The Turnstile and New Rules)'
+TITLE = "Турникет и новые правила  (The Turnstile and New Rules)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "chef": "anja", "anya": "alisa"}
+LABELS = {"vika": "Вика", "chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = 'Welcome to Episode Eighteen of Season Three. On her first morning as director under the restaurant chain, Vika installs an electronic turnstile and announces strict fines for tardiness and smoke breaks.'
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Defying Vika's new three-strike fine policy on the spot, Chef Barinov marches straight out to smoke."
-CLOSING = ('chef', 'Я сейчас иду курить!')
+OUTRO = "Defying Vika's new three-strike fine policy on the spot, Chef Barinov marches straight out to smoke. Until next time!"
+CLOSING = ("chef", "До завтра!")

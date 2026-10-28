@@ -16,8 +16,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Костя | Ты что, угнать её сейчас хочешь? | What, do you want to steal it right now? | #295 00:22:35: Ты что, угнать ее хочешь | adapted: adapted |
 | 5 | Аня | Просто переставлю её тихо куда-нибудь. | I will simply move it quietly somewhere. | #295 00:22:35: Просто переставлю ее куда-нибудь | adapted: adapted |
 | 6 | Аня | Пусть он теперь побегает и поищет. | Let him run around and look for it now. | #296 00:22:37: поищет | adapted: adapted |
-| 7 | Шеф | Алло, Катя, я принимаю твои условия. | Hello, Katya, I accept your terms. | #300 00:23:27: Катя, я принимаю твои условия | adapted: adapted |
-| 8 | Шеф | Пожалуйста, быстрее возвращайся к нам. | Please, come back to us quickly. | #301 00:23:30: Возвращайся | adapted: adapted |
+| 7 | Костя | Алло, Катя, я принимаю твои условия. | Hello, Katya, I accept your terms. | #300 00:23:27: Катя, я принимаю твои условия | adapted: adapted |
+| 8 | Костя | Пожалуйста, быстрее возвращайся к нам. | Please, come back to us quickly. | #301 00:23:30: Возвращайся | adapted: adapted |
 | 9 | Аня | У каждого человека есть обратная сторона. | Every person has another side. | #302 00:23:33: У каждого человека есть обратная сторона | adapted: adapted |
 | 10 | Аня | Сторона, которая скрыта от чужих глаз. | A side that is hidden from others' eyes. | #303 00:23:37: Сторона, которая скрыта от глаз | adapted: adapted |
 | 11 | Аня | Кого-то эта сторона может сильно удивить. | That side can surprise someone greatly. | #306 00:23:51: Кого-то эта сторона может очень сильно удивить | adapted: adapted |

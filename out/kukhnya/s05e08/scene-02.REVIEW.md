@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | И больше этого официанта никто не видел. | And nobody ever saw that waiter again. | #11 00:01:58: больше этого<br>#12 00:02:04: официанта никто не видел | adapted: adapted |
-| 2 | Аня | Так клянусь, мне повар знакомый рассказывал. | I swear, a cook I know told me. | #13 00:02:07: Так клянусь, мне повар знакомый рассказывал | adapted: adapted |
-| 3 | Аня | Он продал этот перстень и уехал за границу. | He sold that ring and moved abroad. | #14 00:02:26: продал этот перстень и<br>#14 00:02:26: жить за границу | adapted: adapted |
-| 4 | Аня | Больше его никто не видел. | Nobody saw him again. | #15 00:02:30: Больше его никто не видел | adapted: adapted |
+| 1 | Федя | И больше этого официанта никто не видел. | And nobody ever saw that waiter again. | #11 00:01:58: больше этого<br>#12 00:02:04: официанта никто не видел | adapted: adapted |
+| 2 | Федя | Так клянусь, мне повар знакомый рассказывал. | I swear, a cook I know told me. | #13 00:02:07: Так клянусь, мне повар знакомый рассказывал | adapted: adapted |
+| 3 | Федя | Он продал этот перстень и уехал за границу. | He sold that ring and moved abroad. | #14 00:02:26: продал этот перстень и<br>#14 00:02:26: жить за границу | adapted: adapted |
+| 4 | Федя | Больше его никто не видел. | Nobody saw him again. | #15 00:02:30: Больше его никто не видел | adapted: adapted |
 | 5 | Настя | Мне подружки из этого отеля рассказывали. | My girlfriends from that hotel told me. | #16 00:02:32: Мне подружки из этого отеля рассказывали | adapted: adapted |
 | 6 | Настя | Одна девушка отнесла ему заказ и пропала. | One girl brought him an order and vanished. | #16 00:02:32: из этого отеля рассказывали | adapted: adapted |
 | 7 | Настя | Теперь она живёт в его гареме. | Now she lives in his harem. | #18 00:03:00: он не | adapted: adapted |
-| 8 | Сеня | Вот у шейха, наверное, праздник каждый день. | The sheikh probably has a holiday every day. | #19 00:03:02: Вот у шейха, наверное | adapted: adapted |
-| 9 | Аня | Представляешь, сколько стоит такой перстень? | Can you imagine how much such a ring costs? | #14 00:02:26: продал этот перстень | adapted: adapted |
-| 10 | Сеня | Нам бы тоже не помешал такой подарок. | We could use a gift like that too. | #13 00:02:07: повар знакомый рассказывал | adapted: adapted |
+| 8 | Настя | Вот у шейха, наверное, праздник каждый день. | The sheikh probably has a holiday every day. | #19 00:03:02: Вот у шейха, наверное | adapted: adapted |
+| 9 | Федя | Представляешь, сколько стоит такой перстень? | Can you imagine how much such a ring costs? | #14 00:02:26: продал этот перстень | adapted: adapted |
+| 10 | Настя | Нам бы тоже не помешал такой подарок. | We could use a gift like that too. | #13 00:02:07: повар знакомый рассказывал | adapted: adapted |
 | 11 | Настя | Лучше держаться от него подальше. | It is better to stay far away from him. | #15 00:02:30: Больше его никто не видел | adapted: adapted |
-| 12 | Аня | Пойдёмте скорее на кухню. | Let us hurry to the kitchen. | #13 00:02:07: повар знакомый | adapted: adapted |
+| 12 | Федя | Пойдёмте скорее на кухню. | Let us hurry to the kitchen. | #13 00:02:07: повар знакомый | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e11-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 11
 SCENE = 12
-TITLE = 'Спор на три зарплаты  (A Bet for Three Paychecks)'
+TITLE = "Спор на три зарплаты  (A Bet for Three Paychecks)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.11"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "katya": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.11'
 SOURCE_FILE = 'sources/kukhnya/s03/e11.ru.srt'
 
 INTRO = 'In the kitchen, Max hands Chef Barinov a pregnancy test and confidently bets three months of his salary that Katya is lying. When the staff restroom turns out to be out of order, Barinov sends Katya to the guest restroom—where Vika helps her swap the test.'
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Max expects an easy victory, unaware that Katya and Vika are about to trick him with a positive test from a pregnant guest in the restroom.'
-CLOSING = ('anya', 'Сейчас мы узнаем всю правду!')
+OUTRO = 'Max expects an easy victory, unaware that Katya and Vika are about to trick him with a positive test from a pregnant guest in the restroom. See you next time!'
+CLOSING = ("anya", "Пока!")

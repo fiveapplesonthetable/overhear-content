@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 5
-TITLE = 'Тайна про поцелуй с Катей  (The Secret About Kissing Katya)'
+TITLE = "Тайна про поцелуй с Катей  (The Secret About Kissing Katya)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'eva': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'eva': 'Ева'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa", "eva": "angelina"}
+LABELS = {"kostya": "Костя", "anya": "Макс", "eva": "Ева"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = 'At the bar counter, Max confesses to Kostya that he and Katya kissed right before Vika came back. Waitress Eva overhears part of their conversation, and Kostya urges Max to tell Katya the truth right away.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Kostya's advice is simple—tell Katya the truth—but Eva has already caught wind of the gossip."
-CLOSING = ('kostya', 'Скажи Кате всю правду сразу.')
+OUTRO = "Kostya's advice is simple—tell Katya the truth—but Eva has already caught wind of the gossip. Until next time!"
+CLOSING = ("kostya", "Пока!")

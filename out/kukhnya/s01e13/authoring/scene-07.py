@@ -1,60 +1,46 @@
-ID = "kukhnya-s01e13-scene-07"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e13-scene-07.
+ID = 'kukhnya-s01e13-scene-07'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 13
 SCENE = 7
 TITLE = "Разбитое зеркало  (A Broken Mirror)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-SOURCE_NAME = "Кухня (Kukhnya) S1.13"
-SOURCE_FILE = "sources/kukhnya/s01/e13.ru.dual.srt"
-
-VOICES = {
-    "narrator": "sky",
-    "anya": "alisa",
-    "chef": "anja",
-    "eleonora": "angelina"
-}
-
-LABELS = {
-    "anya": "Настя",
-    "chef": "Шеф",
-    "eleonora": "Элеонора"
-}
-
-STORY = [
-    ("eleonora", "Виктор Петрович, у вас тут зеркало сломанное.", "Viktor Petrovich, you have a broken mirror here.", [(93, "вас тут зеркало сломанное")], ""),
-    ("chef", "Да надо же!", "Well, would you look at that!", [(94, "Да надо же")], ""),
-    ("chef", "А вы не заметили?", "Didn't you notice?", [(94, "А вы не заметили")], ""),
-    ("chef", "Что у вас тоже?", "That yours is too?", [(94, "что у вас тоже")], ""),
-    ("eleonora", "У меня? Как? Где?", "Mine? How? Where?", [(95, "У меня"), (95, "Как"), (96, "Где")], ""),
-    ("chef", "Ну вот же.", "Right there.", [(97, "Ну вот же")], ""),
-    ("chef", "Теперь мы квиты.", "Now we're even.", [(99, "Теперь мы квиты")], ""),
-    ("anya", "Костя, ты видел?", "Kostya, did you see?", [], "new"),
-    ("anya", "Он разбивает зеркало её машины.", "He smashes the mirror on her car.", [(100, "зеркало ее машины")], ""),
-    ("anya", "А она типа не при делах.", "And she acts like she had nothing to do with it.", [(101, "А она"), (101, "типа не при делах")], ""),
-    ("anya", "Я уверена.", "I am sure.", [(102, "Я уверена")], ""),
-    ("anya", "Это просто так не закончится.", "This won't just blow over.", [(102, "это просто так не закончится")], "")
-]
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "chef": "anja"}
+LABELS = {"nastya": "Настя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
+SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Nastya accidentally broke Chef Barinov's side mirror. Outside the restaurant, the owner Eleonora points out the damage to Barinov. Believing she did it, he takes revenge. We will hear it in Russian first; don't worry about catching every word."
-
-WALK = [
-    (0, None, "'Viktor Petrovich, you have a broken mirror here.' Eleonora points it out."),
-    (1, None, "'Well, would you look at that!' The Chef fakes his surprise."),
-    (2, None, "'Didn't you notice?' he asks her."),
-    (3, None, "'That yours is too?' He points to her car."),
-    (4, None, "'Mine? How? Where?' She is shocked."),
-    (5, None, "'Right there.' He points to the broken mirror he just smashed."),
-    (6, None, "'Now we're even.' He feels satisfied."),
-    (7, None, "'Kostya, did you see?' Nastya talks to Kostya in the kitchen."),
-    (8, None, "'He smashes the mirror on her car.' She recounts what Barinov did."),
-    (9, None, "'And she acts like she had nothing to do with it.' She notes Eleonora's reaction."),
-    (10, None, "'I am sure.' Nastya is worried."),
-    (11, None, "'This won't just blow over.' She knows the Chef's temper.")
+OPENER = "Now let's go back through the conversation line by line."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "That's it for this scene! The broken mirror will cause more trouble soon. Next time you watch the episode, listen for the Russian expressions for 'mirror' and 'broken' — you will catch every word right away. See you next time!"
+CLOSING = ("nastya", "Пока!")
+STORY = [
+    ('nastya', 'Виктор Петрович, у вас тут зеркало сломанное.', 'Viktor Petrovich, you have a broken mirror here.', [(93, 'вас тут зеркало сломанное')], ''),
+    ('chef', 'Да надо же!', 'Well, would you look at that!', [(94, 'Да надо же')], ''),
+    ('chef', 'А вы не заметили?', "Didn't you notice?", [(94, 'А вы не заметили')], ''),
+    ('chef', 'Что у вас тоже?', 'That yours is too?', [(94, 'что у вас тоже')], ''),
+    ('nastya', 'У меня? Как? Где?', 'Mine? How? Where?', [(95, 'У меня'), (95, 'Как'), (96, 'Где')], ''),
+    ('chef', 'Ну вот же.', 'Right there.', [(97, 'Ну вот же')], ''),
+    ('chef', 'Теперь мы квиты.', "Now we're even.", [(99, 'Теперь мы квиты')], ''),
+    ('nastya', 'Костя, ты видел?', 'Kostya, did you see?', [], ''),
+    ('nastya', 'Он разбивает зеркало её машины.', 'He smashes the mirror on her car.', [(100, 'зеркало ее машины')], ''),
+    ('nastya', 'А она типа не при делах.', 'And she acts like she had nothing to do with it.', [(101, 'А она'), (101, 'типа не при делах')], ''),
+    ('nastya', 'Я уверена.', 'I am sure.', [], ''),
+    ('nastya', 'Это просто так не закончится.', "This won't just blow over.", [(91, 'это')], ''),
 ]
-
-OPENER = "Here's the full conversation again."
-TRANSITION = "Let's break down the language."
-OUTRO = "That's it for this scene! The broken mirror will cause more trouble soon."
-CLOSING = ("anya", "Это просто так не закончится.")
+WALK = [
+    (0, None, "'Viktor Petrovich, you have a broken mirror here.' Eleonora uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'here' with 'mirror' and 'broken'."),
+    (1, None, "'Well, would you look at that!' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'it is necessary'."),
+    (2, None, "'Didn't you notice?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'noticed' to make the point directly in conversation."),
+    (3, None, "'That yours is too?' Chef Barinov uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have' around the word meaning 'too'."),
+    (4, None, "'Mine? How? Where?' Eleonora uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'how' with 'where'."),
+    (5, None, "'Right there.' He points to the broken mirror he just smashed."),
+    (6, None, "'Now we're even.' Russian omits the present-tense verb 'to be' here, linking 'now' directly with 'even', combining 'now' with 'even'."),
+    (7, None, "'Kostya, did you see?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'saw' to make the point directly in conversation."),
+    (8, None, "'He smashes the mirror on her car.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (9, None, "'And she acts like she had nothing to do with it.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'affairs'."),
+    (10, None, "'I am sure.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'sure'."),
+    (11, None, "'This won't just blow over.' She knows the Chef's temper. Let's break down the language."),
+]

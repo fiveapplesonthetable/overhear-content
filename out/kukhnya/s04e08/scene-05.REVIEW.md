@@ -26,10 +26,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Vikochka, hello, how glad I am to see you!' Affectionate diminutive 'Vikochka' shows warm maternal approval.
-- 'Welcome on your arrival, how did you get here today?' Preposition 'with' plus instrumental 'arrival' is the standard welcome formula.
-- 'I got here fine, thank you very much, my dears.' Reflexive perfective past verb means 'reached/arrived safely'.
+- 'Welcome on your arrival, how did you get here today?' Here Vika anchors the thought on 'arrival' and finishes on 'to today', keeping the spoken rhythm brisk and natural.
+- 'I got here fine, thank you very much, my dears.' the speaker uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
 - 'Please come into the room, give me your bag.' Polite plural imperatives welcome the guest inside.
-- 'Vika, do you see what I arrived wearing today?' Preposition 'in' plus prepositional 'what' means 'wearing what'.
+- 'Vika, do you see what I arrived wearing today?' In spoken Russian, the words stay in their normal statement order and the speaker's rising voice at the end turns the line into a question.
 - 'Yes, that is a very beautiful warm shawl!' Masculine noun 'shawl/headscarf' takes masculine adjective endings.
 - 'And tell me, where did you buy such a pretty one?' Vika has never seen the shawl in her life and asks an innocent question.
 - 'Very funny, Vika, after all you knitted it yourself!' Max's mother takes Vika's question as a modest joke.

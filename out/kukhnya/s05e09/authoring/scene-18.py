@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e09-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 9
 SCENE = 18
 TITLE = "Усы Иосифа Пригожина  (Iosif Prigozhin's Moustache)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa", "guest": "anja"}
+LABELS = {"vika": "Вика", "anya": "Макс", "guest": "Гость"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.09'
 SOURCE_FILE = 'sources/kukhnya/s05/e09.ru.srt'
 
 INTRO = 'Max brings producer Iosif Prigozhin to the hotel to confirm the car accident to Vika, but Prigozhin is wearing a prop moustache from a music video shoot. Convinced Max hired an impersonator, Vika yanks at his moustache until Prigozhin storms out.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That finishes the comedic misunderstanding in the lobby. Notice how Vika praises the supposed lookalike and tells him his performance has dragged on too long. See you in the next scene.'
-CLOSING = ('anya', 'Вика, подожди меня!')
+OUTRO = 'That finishes the comedic misunderstanding in the lobby. Notice how Vika praises the supposed lookalike and tells him his performance has dragged on too long. See you next time!'
+CLOSING = ("anya", "Хорошего дня!")

@@ -11,16 +11,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Костя | А ведь ты её любишь. | After all, you love her. | #119 00:08:31: А ведь ты ее любишь | adapted: adapted |
-| 2 | Аня | Люблю, а что это значит? | I do, and what does that mean? | #120 00:08:35: А значит, что | adapted: adapted |
+| 2 | Костя | Люблю, а что это значит? | I do, and what does that mean? | #120 00:08:35: А значит, что | adapted: adapted |
 | 3 | Костя | Мы должны сорвать эту свадьбу. | We must ruin this wedding. | #121 00:08:38: мы должны сорвать эту свадьбу | adapted: adapted |
-| 4 | Аня | Я согласен, но только как? | I agree, but how? | #122 00:08:41: Согласен. А как | adapted: adapted |
+| 4 | Костя | Я согласен, но только как? | I agree, but how? | #122 00:08:41: Согласен. А как | adapted: adapted |
 | 5 | Костя | Можем своровать её свадебное платье. | We can steal her wedding dress. | #123 00:08:44: Можем своровать свадебное платье | adapted: adapted |
-| 6 | Аня | Они украли моё свадебное платье! | They stole my wedding dress! | #124 00:08:52: Они украли свадебное платье | adapted: adapted |
+| 6 | Костя | Они украли моё свадебное платье! | They stole my wedding dress! | #124 00:08:52: Они украли свадебное платье | adapted: adapted |
 | 7 | Костя | Либо можем своровать саму Катю. | Or we can steal Katya herself. | #125 00:09:01: мы можем просто своровать Катю | adapted: adapted |
 | 8 | Костя | Просто заберём без свадебного платья. | We will just take her without the wedding dress. | #127 00:09:08: Без свадебного платья | adapted: adapted |
-| 9 | Аня | Ты понял меня, друг мой? | Did you understand me, my friend? | #128 00:09:09: Ты понял | adapted: adapted |
+| 9 | Костя | Ты понял меня, друг мой? | Did you understand me, my friend? | #128 00:09:09: Ты понял | adapted: adapted |
 | 10 | Света | Привет, девичник прошёл у вас хорошо? | Hi, did your bachelorette party go well? | #130 00:09:23: привет<br>#131 00:09:24: прошел хорошо | adapted: adapted |
-| 11 | Аня | О да, всё прошло нормально. | Oh yes, everything went fine. | #132 00:09:26: О, да, нормально | adapted: adapted |
+| 11 | Костя | О да, всё прошло нормально. | Oh yes, everything went fine. | #132 00:09:26: О, да, нормально | adapted: adapted |
 | 12 | Света | Тогда садитесь, я вас подвезу. | Then get in, I will give you a ride. | #133 00:09:28: Садитесь, подвезу | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

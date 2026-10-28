@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I have been waiting for you for an hour already.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'I'm waiting'. Dmitry answers right away.
 - 'Where have you been wandering?' Dmitry raises the pitch on 'can walk' to turn the phrase into a direct spoken question.
 - 'I am sitting inside the walk-in fridge.' The grammar packs 'I' and 'am sitting' into a tight, idiomatic kitchen exchange.
-- 'Oh, it really stinks in there, guys.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'kids'. Max answers right away.
+- 'Oh, it really stinks in there, guys.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'First it stinks in there, and then it is freezing cold.' Max brings out the contrast between 'there' and 'both' in a few short words.
 - 'So who is she?' Dmitry brings out the contrast between 'come on' and 'both' in a few short words.
 - 'Oh, let us say so.' Notice how Russian expresses 'oh' and 'to allow' with crisp inflection rather than helper words.

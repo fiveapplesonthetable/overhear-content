@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e02-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 2
 SCENE = 16
 TITLE = "Коварный план Ильи  (Ilya's Cunning Plan)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'ilya': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Макс', 'ilya': 'Илья', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "ilya": "anja", "anya": "alisa"}
+LABELS = {"ilya": "Илья", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.02'
 SOURCE_FILE = 'sources/kukhnya/s03/e02.ru.srt'
 
 INTRO = 'Determined to get Max fired, Ilya arranges for a friend to pose as his regular customer, slip a fake inflated receipt into the bill folder, and stage a loud overcharging scandal.'
@@ -25,7 +25,7 @@ STORY = [
     ('ilya', 'Я в долгу не останусь.', 'I will owe you one.', [(236, 'Я в долгу не останусь')], ''),
     ('ilya', 'Солнышко, слушай, я отойду на полчаса.', 'Sunshine, listen, I will step away for half an hour.', [(237, 'солнышко, слушай, я отойду на полчаса')], ''),
     ('ilya', 'Если мои постоянные придут, ты посадишь?', 'If my regulars come, will you seat them?', [(238, 'Если мои постоянные придут, ты посадишь')], ''),
-    ('sasha', 'Конечно. Пожалуйста.', "Of course. You're welcome.", [(239, 'Конечно'), (240, 'Пожалуйста')], 'adapted'),
+    ('ilya', 'Конечно. Пожалуйста.', "Of course. You're welcome.", [(239, 'Конечно'), (240, 'Пожалуйста')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That brings Scene Sixteen to a close. Watch how carefully Ilya sets the trap with the fake receipt before excusing himself for half an hour.'
-CLOSING = ('ilya', 'Я в долгу не останусь!')
+OUTRO = 'That brings Scene Sixteen to a close. Watch how carefully Ilya sets the trap with the fake receipt before excusing himself for half an hour. See you next time!'
+CLOSING = ("ilya", "Увидимся!")

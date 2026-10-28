@@ -1,14 +1,14 @@
-ID = "kukhnya-s04e01-scene-16"
-SHOW = "kukhnya"
+ID = 'kukhnya-s04e01-scene-16'
+SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 1
 SCENE = 16
-TITLE = 'Первый блин комом  (The First Pancake)'
+TITLE = "Первый блин комом  (The First Pancake)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S4.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S4.01'
 SOURCE_FILE = 'sources/kukhnya/s04/e01.ru.srt'
 
 INTRO = "That evening at home, Max puts his plan into action: he pretends to be completely exhausted from the restaurant kitchen so that Vika will have to fry pancakes for him herself. Let's listen to their Russian dialogue first."
@@ -32,21 +32,19 @@ OPENER = "Let's step through the scene line by line to see how the speakers buil
 
 WALK = [
     (0, None, "'Hi there. Are you hungry?' The past-tense verb ending marks the grammatical gender and number of the subject directly."),
-    (1, None, "'Well, a little bit.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (2, None, "'What do we have for dinner tonight?' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately."),
-    (3, None, "'Whatever you cook is what we will eat.' Vika uses natural conversational word order here to highlight the most important part of the reply."),
-    (4, None, "'I can cook, of course.' Notice how Max pairs a modal word or finite verb with an infinitive to express the action."),
-    (5, None, "'I am just really tired today.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (6, None, "'Listen, why don't we order something?' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately."),
-    (7, None, "'Maybe let's make some quick pancakes, huh?' Max uses natural conversational word order here to highlight the most important part of the reply."),
-    (8, None, "'You can make them, right?' Max uses natural conversational word order here to highlight the most important part of the reply."),
-    (9, None, "'I can. Great.' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately."),
-    (10, None, "'Here, everything is ready.' Vika uses natural conversational word order here to highlight the most important part of the reply."),
-    (11, None, "'It smells delicious.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
+    (1, None, "'Well, a little bit.' Notice how Russian puts 'there is' and 'a little' together in a short, direct phrase where word endings show how the ideas connect."),
+    (2, None, "'What do we have for dinner tonight?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
+    (3, None, "'Whatever you cook is what we will eat.' In everyday Russian, 'will prepare' flows straight into 'there is' without extra linking words."),
+    (4, None, "'I can cook, of course.' Max pairs 'can, am able to' with 'to prepare, cook' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
+    (5, None, "'I am just really tired today.' Notice how Russian puts 'simply, just' and 'today' together in a short, direct phrase where word endings show how the ideas connect."),
+    (6, None, "'Listen, why don't we order something?' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together."),
+    (7, None, "'Maybe let's make some quick pancakes, huh?' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together."),
+    (8, None, "'You can make them, right?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question."),
+    (9, None, "'I can. Great.' Notice how Russian puts 'can, am able to' and 'perfectly' together in a short, direct phrase where word endings show how the ideas connect."),
+    (10, None, "'Here, everything is ready.' Vika centers this short reply on 'ready', letting a few direct words carry the whole meaning."),
+    (11, None, "'It smells delicious.' In everyday Russian, 'to smell' flows straight into 'deliciously' without extra linking words."),
 ]
 
 TRANSITION = "Let's listen to the complete scene again from beginning to end."
-
-OUTRO = "And that concludes Max's plan at home to get Vika to fry pancakes for dinner. Notice how Russian uses short conversational questions and suggestions with 'let's'. See you in the next scene."
-CLOSING = ('anya', 'Пахнет вкусно.')
-CLOSING_TRANS = 'It smells delicious.'
+OUTRO = "And that concludes Max's plan at home to get Vika to fry pancakes for dinner. Notice how Russian uses short conversational questions and suggestions with 'let's'. See you next time!"
+CLOSING = ("anya", "Пока!")

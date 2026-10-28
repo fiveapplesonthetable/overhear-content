@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Настя | Какой же ты хороший парень, правда, Катя? | What a good guy you are, isn't that right, Katya? | #312 00:20:11: какой ты хороший парень, да, Кать | adapted: adapted |
 | 5 | Настя | Очень хорошо, что Никита сегодня пришёл к нам. | It is so nice that Nikita came to our place today. | #313 00:20:14: Хорошо, что Никита пришел | adapted: adapted |
 | 6 | Настя | С ним за столом всегда так весело! | It is always so cheerful at the table with him! | #313 00:20:14: с ним весело | adapted: adapted |
-| 7 | Аня | Давай я лучше налью тебе красного вина. | Let me pour you some red wine instead. | #316 00:20:32: я тебе вина | adapted: adapted |
+| 7 | Денис | Давай я лучше налью тебе красного вина. | Let me pour you some red wine instead. | #316 00:20:32: я тебе вина | adapted: adapted |
 | 8 | Настя | Лучше сделай ему свой отличный коктейль! | Better make him your great cocktail instead! | #316 00:20:32: ему налей<br>#317 00:20:35: Отличный коктейль | adapted: adapted |
 | 9 | Денис | Да ну, Настя, ты что такое говоришь? | Come on, Nastya, what are you talking about? | #317 00:20:35: Да ну, Настя, ты что | adapted: adapted |
 | 10 | Денис | От этого крепкого коктейля я сразу усну. | From that strong cocktail I will pass out right away. | #318 00:20:37: я сразу отъеду | adapted: adapted |

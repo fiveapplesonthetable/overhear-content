@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e09-scene-12"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e09-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 9
 SCENE = 12
 TITLE = "Ультиматум Кристины  (Kristina's Ultimatum)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'kristina': 'angelina'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'kristina': 'Кристина'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.09"
-SOURCE_FILE = "sources/kukhnya/s02/e09.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kristina": "anja", "nastya": "angelina"}
+LABELS = {"anya": "Макс", "kristina": "Кристина", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.09'
+SOURCE_FILE = 'sources/kukhnya/s02/e09.ru.srt'
 
 INTRO = 'While Chef Barinov begs through the door for his phone, Kristina corners Max in the dining room and makes it clear she always gets what she wants in her own restaurant. When Max says she can fire him, she threatens to fire Kostya instead unless Max comes to her after work.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = "When you watch Scene 12 of Episode 9, listen out for the exchange around kristina's ultimatum — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Не за что.')
+OUTRO = 'That wraps up this scene as in the dining room, Kristina corners Max and threatens to fire him or his friend Kostya over a broken bottle of vintage wine unless Max meets her after work. See you next time!'
+CLOSING = ("anya", "Увидимся!")

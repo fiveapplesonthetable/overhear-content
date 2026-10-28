@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Настя | На этот телевизор я деньги заняла. | I borrowed the money for this television. | #264 00:18:15: Вообще-то на этот телевизор я у своего папы деньги заняла | adapted: adapted |
 | 2 | Настя | Я взяла их в долг у папы! | I borrowed them from my dad! | #264 00:18:15: у своего папы деньги заняла | adapted: adapted |
-| 3 | Гость | Сынок, ты бы сначала головой думал. | Son, you should have used your head first. | #265 00:18:21: Сынок, ты бы головой думал | adapted: adapted |
-| 4 | Гость | Не надо сразу молотком тут махать. | There is no need to swing a hammer around right away. | #265 00:18:21: прежде чем молотком махать | adapted: adapted |
-| 5 | Аня | А ты думал, прежде чем сюда приезжать? | And did you think before coming here? | #266 00:18:25: а ты думала, прежде чем сюда приезжать | adapted: adapted |
-| 6 | Аня | От тебя в доме одни проблемы! | There is nothing but trouble from you in the house! | #267 00:18:27: У тебя одни проблемы | adapted: adapted |
-| 7 | Гость | Не трогай свою мать, слышишь меня? | Do not bring your mother into this, do you hear me? | #269 00:18:33: Не тронь, мать | adapted: adapted |
-| 8 | Гость | Твоя мама была замечательная женщина. | Your mother was a wonderful woman. | #270 00:18:35: Она святая женщина | adapted: adapted |
-| 9 | Аня | Зачем же она такого человека выбрала? | Why then did she choose a man like you? | #271 00:18:37: раз такого, как ты выбрала | adapted: adapted |
+| 3 | Костя | Сынок, ты бы сначала головой думал. | Son, you should have used your head first. | #265 00:18:21: Сынок, ты бы головой думал | adapted: adapted |
+| 4 | Костя | Не надо сразу молотком тут махать. | There is no need to swing a hammer around right away. | #265 00:18:21: прежде чем молотком махать | adapted: adapted |
+| 5 | Костя | А ты думал, прежде чем сюда приезжать? | And did you think before coming here? | #266 00:18:25: а ты думала, прежде чем сюда приезжать | adapted: adapted |
+| 6 | Костя | От тебя в доме одни проблемы! | There is nothing but trouble from you in the house! | #267 00:18:27: У тебя одни проблемы | adapted: adapted |
+| 7 | Костя | Не трогай свою мать, слышишь меня? | Do not bring your mother into this, do you hear me? | #269 00:18:33: Не тронь, мать | adapted: adapted |
+| 8 | Костя | Твоя мама была замечательная женщина. | Your mother was a wonderful woman. | #270 00:18:35: Она святая женщина | adapted: adapted |
+| 9 | Костя | Зачем же она такого человека выбрала? | Why then did she choose a man like you? | #271 00:18:37: раз такого, как ты выбрала | adapted: adapted |
 | 10 | Настя | Доктор, кто это вас так сильно? | Doctor, who hit you so hard like that? | #273 00:18:50: Кто это вас так | adapted: adapted |
-| 11 | Аня | Это меня родной отец так ударил. | My own father hit me like that. | #275 00:18:54: Батя | adapted: adapted |
-| 12 | Аня | Честно говоря, он ударил за дело. | Honestly speaking, he hit me for a good reason. | #276 00:18:56: Ну, за дело | adapted: adapted |
+| 11 | Костя | Это меня родной отец так ударил. | My own father hit me like that. | #275 00:18:54: Батя | adapted: adapted |
+| 12 | Костя | Честно говоря, он ударил за дело. | Honestly speaking, he hit me for a good reason. | #276 00:18:56: Ну, за дело | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

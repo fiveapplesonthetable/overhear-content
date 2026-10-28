@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By the way, I also have good news.' A parenthetical conversational word introduces the possessive construction.
-- 'I finally decided to rent an apartment for myself.' In housing contexts, the perfective verb for taking off means renting a flat.
-- 'Interesting, and where did you get the money?' Max asks about the source of the cash using a past-tense perfective verb.
-- 'My mom sent me this money today.' A dative pronoun marks the recipient of the money sent by mail or transfer.
-- 'There are exactly sixty thousand rubles here.' Russian compound tens require the genitive plural on the word for thousand.
-- 'I found several good options.' The quantifier for several governs the genitive plural case on the following adjective and noun.
+- 'By the way, I also have good news.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'I finally decided to rent an apartment for myself.' In everyday Russian, 'finally' flows straight into 'apartment' without extra linking words.
+- 'Interesting, and where did you get the money?' Max pairs 'interesting' with 'money' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'My mom sent me this money today.' Notice how Russian puts 'mom' and 'money' together in a short, direct phrase where word endings show how the ideas connect.
+- 'There are exactly sixty thousand rubles here.' Here Denis anchors the thought on 'exactly' and finishes on 'rubles', keeping the spoken rhythm brisk and natural.
+- 'I found several good options.' In everyday Russian, 'to find' flows straight into 'options' without extra linking words.
 - 'Right after the shift I am going to look at them.' A unidirectional verb of motion by vehicle expresses an immediate trip.
 - 'Guy, did you happen to forget anything?' Senya dangles the stolen envelope using a negative pronoun in a yes-or-no question.
 - 'How did you do that so unnoticeably?' Denis marvels at the sleight of hand with an expressive manner adverb.
 - 'On the metro they will steal the money even more unnoticeably.' An impersonal third-person plural verb warns against pickpockets.
 - 'Let the money rather stay with me for safekeeping.' The particle for 'let' combines with a prefixed verb meaning to lie for a while.
-- 'When you find an apartment, you will take it right back.' Two perfective future verbs form a clear temporal condition and result.
+- 'When you find an apartment, you will take it right back.' Notice how Russian puts 'when' and 'to take back, to take away' together in a short, direct phrase where word endings show how the ideas connect.
 - 'All right, let it stay with you for now.' Denis agrees and hands the envelope of cash over to Max.

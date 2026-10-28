@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Лёва | Шеф, там вас гость ждёт с тараканом. | Chef, a guest is waiting for you out there with a cockroach. | #228 00:16:28: Шеф, там вас гость ждет с тараканом | adapted: adapted |
+| 1 | Вика | Шеф, там вас гость ждёт с тараканом. | Chef, a guest is waiting for you out there with a cockroach. | #228 00:16:28: Шеф, там вас гость ждет с тараканом | adapted: adapted |
 | 2 | Аня | Как же мне это надоело уже! | How tired I am of this already! | #229 00:16:36: надоело уже | adapted: adapted |
 | 3 | Аня | Что, скучно ехать без музыки, да? | What, it is boring to ride without music, right? | #230 00:16:42: Скучно без музыки, да | adapted: adapted |
 | 4 | Аня | Вика, пожалуйста, просто выслушай меня. | Vika, please, just hear me out. | #231 00:16:51: Вика, выслушай меня | adapted: adapted |
@@ -21,7 +21,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Аня | Вика, я очень сильно люблю тебя. | Vika, I love you very much. | #236 00:17:01: Вика, я люблю тебя | adapted: adapted |
 | 10 | Вика | Подожди, что ты сейчас сказал? | Wait, what did you just say? | #237 00:17:06: Что ты сказал | adapted: adapted |
 | 11 | Аня | Я сказал, что люблю тебя. | I said that I love you. | #238 00:17:08: Я люблю тебя | adapted: adapted |
-| 12 | Аня | Я всегда боялся этих слов, а сейчас говорю, потому что действительно тебя люблю. | I was always afraid of those words, and now I say them because I truly love you. | #239 00:17:10: Я всегда боялся этих слов, а сейчас говорю так | adapted: adapted |
+| 12 | Аня | Я боялся этих слов, а сейчас говорю, что действительно тебя люблю. | I was afraid of those words, and now I say I truly love you. | #239 00:17:10: боялся этих слов, а сейчас говорю | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Vika, I love you very much.' Spoken Russian keeps this brisk, leaning on 'Vika' and finishing on 'you'. Vika answers right away.
 - 'Wait, what did you just say?' The grammar packs 'wait' and 'said' into a tight, idiomatic kitchen exchange.
 - 'I said that I love you.' In Russian, the idea of 'I' flows naturally into 'you' without extra filler words.
-- 'I was always afraid of those words, and now I say them because I truly love you.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'like'.
+- 'I was afraid of those words, and now I say I truly love you.' In everyday Russian, 'was afraid' flows straight into 'love' without extra linking words.

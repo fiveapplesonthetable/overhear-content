@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e08-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 8
 SCENE = 20
-TITLE = 'Неизбежные изменения  (Inevitable Changes)'
+TITLE = "Неизбежные изменения  (Inevitable Changes)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.08"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.08'
 SOURCE_FILE = 'sources/kukhnya/s03/e08.ru.srt'
 
 INTRO = "Chef Barinov tears up Max's train ticket and tells him to report to the kitchen tomorrow morning. While Max returns to work, Elena kicks Barinov out of her apartment."
@@ -23,7 +23,7 @@ STORY = [
     ('chef', 'Лена, прости меня за вчерашнее, неудобно получилось.', 'Lena, forgive me for yesterday, it turned out awkwardly.', [(355, 'прости меня за вчерашнее, неудобно получилось')], 'adapted'),
     ('chef', 'Ты тоже пойми, я такой, как есть, поздно меняться.', 'You understand too, I am the way I am, it is too late to change.', [(356, 'я такой, как есть, поздно меняться')], 'adapted'),
     ('chef', 'Ты или принимай меня, или не принимай, тебе решать.', 'Either accept me or do not accept me, it is up to you to decide.', [(357, 'Ты или принимай меня')], 'adapted'),
-    ('anya', 'Но изменения в нашей жизни всё равно происходят, хотим мы этого или нет.', 'But changes in our life happen anyway, whether we want that or not.', [(360, 'Но изменения в нашей жизни все равно происходят, хотим мы этого или нет')], 'adapted'),
+    ('anya', 'Изменения в нашей жизни происходят, хотим мы этого или нет.', 'Changes in our life happen whether we want that or not.', [(360, 'изменения в нашей жизни'), (360, 'происходят, хотим мы этого или нет')], 'adapted'),
     ('vika', 'Доброе утро, ты разве не уволился?', 'Good morning, did you not quit?', [(362, 'Ты не уволился')], 'adapted'),
     ('anya', 'Нет, мы можем принять их или пытаться остаться в прошлом.', 'No, we can accept them or try to stay in the past.', [(364, 'пытаться остаться в прошлом')], 'adapted'),
     ('chef', 'Лёва, здравствуй, можно мне снова у тебя пожить?', 'Lyova, hello, may I stay at your place again?', [(365, 'Лёва, можно у тебя пожить')], 'adapted'),
@@ -41,12 +41,12 @@ WALK = [
     (6, None, "'Lena, forgive me for yesterday, it turned out awkwardly.' In Russian, the idea of 'Lena' flows naturally into 'turned out' without extra filler words."),
     (7, None, "'You understand too, I am the way I am, it is too late to change.' The meaning hinges on 'you' working together with 'to change' in spoken Russian."),
     (8, None, "'Either accept me or do not accept me, it is up to you to decide.' The negative particle sits right before the verb meaning 'accept' to negate the statement."),
-    (9, None, "'But changes in our life happen anyway, whether we want that or not.' Max anchors the line on 'but', while 'no' completes the thought."),
+    (9, None, "'Changes in our life happen whether we want that or not.' Notice how Russian puts 'changes' and 'want' together in a short, direct phrase where word endings show how the ideas connect."),
     (10, None, "'Good morning, did you not quit?' The '-l' ending on the verb meaning 'quit' places the action in the masculine past tense. Max answers right away."),
     (11, None, "'No, we can accept them or try to stay in the past.' The meaning hinges on 'no' working together with 'last' in spoken Russian."),
     (12, None, "'Lyova, hello, may I stay at your place again?' Chef Barinov anchors the line on 'Lyova', while 'stay' completes the thought."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Max stays at Claude Monet ready to face whatever comes next, while Chef Barinov moves back in with Lyova and his mother.'
-CLOSING = ('chef', 'Лёва, можно у тебя пожить?')
+OUTRO = 'Max stays at Claude Monet ready to face whatever comes next, while Chef Barinov moves back in with Lyova and his mother. See you next time!'
+CLOSING = ("chef", "До свидания!")

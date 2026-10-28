@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e07-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 7
 SCENE = 16
-TITLE = 'Все гости в сборе  (All the Guests Gathered)'
+TITLE = "Все гости в сборе  (All the Guests Gathered)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Костя', 'nastya': 'Настя', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "nastya": "angelina"}
+LABELS = {"kostya": "Костя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.07'
 SOURCE_FILE = 'sources/kukhnya/s06/e07.ru.srt'
 
 INTRO = "At Kostya and Nastya's apartment, the doorbell rings repeatedly as first Denis and then Nikita show up under flimsy excuses to join Katya for dinner. Listen to the full conversation in Russian first, and then we will walk through every line together."
 
 STORY = [
     ('nastya', 'Кажется, к нам кто-то ещё пришёл.', 'It seems someone else has come to our place.', [(270, 'Кто-то еще пришел')], 'adapted'),
-    ('anya', 'Подожди, я сейчас сам открою дверь.', 'Wait, I will open the door myself right now.', [(271, 'Я открою')], 'adapted'),
-    ('denis', 'Привет, Костя, я принёс тебе соковыжималку.', 'Hi, Kostya, I brought you the juicer.', [(272, 'Привет'), (273, 'Костя, я тебе сокер принес')], 'adapted'),
-    ('anya', 'Слушай, Денис, у нас же сегодня новоселье!', 'Listen, Denis, we are having a housewarming today!', [(275, 'тут такое дело, у нас же новоселье')], 'adapted'),
-    ('anya', 'Давай, проходи скорее к нам за стол.', 'Come on, step right in to our table.', [(276, 'Давай, заходи к нам')], 'adapted'),
+    ('kostya', 'Подожди, я сейчас сам открою дверь.', 'Wait, I will open the door myself right now.', [(271, 'Я открою')], 'adapted'),
+    ('kostya', 'Привет, Костя, я принёс тебе соковыжималку.', 'Hi, Kostya, I brought you the juicer.', [(272, 'Привет'), (273, 'Костя, я тебе сокер принес')], 'adapted'),
+    ('kostya', 'Слушай, Денис, у нас же сегодня новоселье!', 'Listen, Denis, we are having a housewarming today!', [(275, 'тут такое дело, у нас же новоселье')], 'adapted'),
+    ('kostya', 'Давай, проходи скорее к нам за стол.', 'Come on, step right in to our table.', [(276, 'Давай, заходи к нам')], 'adapted'),
     ('nastya', 'Костик, наверное, чистых тарелок не хватит на всех.', 'Kostik, there probably will not be enough clean plates for everyone.', [(277, 'наверное, тарелок не хватит на всех')], 'adapted'),
-    ('anya', 'Ничего страшного, я сейчас коробку распакую.', 'No big deal, I will unpack a box right now.', [(279, 'Ничего страшного, я распакую, Настя')], 'adapted'),
+    ('kostya', 'Ничего страшного, я сейчас коробку распакую.', 'No big deal, I will unpack a box right now.', [(279, 'Ничего страшного, я распакую, Настя')], 'adapted'),
     ('nastya', 'Зачем ты позвал его к нам в гости?', 'Why did you invite him into our home?', [(281, 'Зачем он нам')], 'adapted'),
-    ('anya', 'Неудобно как-то, ведь человек сам зашёл.', 'It would be awkward not to, since the guy stopped by.', [(282, 'Неудобно как-то, человек вроде зашел')], 'adapted'),
-    ('denis', 'Настя, ты на работе ключи от склада забыла.', 'Nastya, you forgot the storage keys at work.', [(286, 'Настя, слушай, ты на работе ключи от подсобки забыла')], 'adapted'),
+    ('kostya', 'Неудобно как-то, ведь человек сам зашёл.', 'It would be awkward not to, since the guy stopped by.', [(282, 'Неудобно как-то, человек вроде зашел')], 'adapted'),
+    ('kostya', 'Настя, ты на работе ключи от склада забыла.', 'Nastya, you forgot the storage keys at work.', [(286, 'Настя, слушай, ты на работе ключи от подсобки забыла')], 'adapted'),
     ('nastya', 'Спасибо большое, заходи ужинать вместе с нами!', 'Thank you very much, come in and have dinner with us!', [(288, 'Спасибо тебе большое'), (290, 'поужинаешь с нами')], 'adapted'),
-    ('denis', 'Я с большим удовольствием останусь у вас.', 'I will gladly stay at your place.', [(292, 'я с удовольствием')], 'adapted'),
+    ('kostya', 'Я с большим удовольствием останусь у вас.', 'I will gladly stay at your place.', [(292, 'я с удовольствием')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Both rival suitors take their seats on either side of Katya as Kostya and Nastya glare at each other across the room. See you in the next scene.'
-CLOSING = ('nastya', 'Вот и отлично, проходи к столу.')
+OUTRO = 'Both rival suitors take their seats on either side of Katya as Kostya and Nastya glare at each other across the room. See you next time!'
+CLOSING = ("nastya", "Всего хорошего!")

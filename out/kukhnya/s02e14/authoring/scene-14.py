@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e14-scene-14"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e14-scene-14'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 14
 SCENE = 14
-TITLE = 'Скандал с солью и рассказ Елене  (The Salt Scandal and Telling Elena)'
+TITLE = "Скандал с солью и рассказ Елене  (The Salt Scandal and Telling Elena)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.14"
-SOURCE_FILE = "sources/kukhnya/s02/e14.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.14'
+SOURCE_FILE = 'sources/kukhnya/s02/e14.ru.srt'
 
 INTRO = "Furious that a guest walked out, Vika brings the ruined dish back into the kitchen and demands that Chef Barinov find out who dumped salt on it. Moments later, that very same guest visits Arcobaleno and tells Elena Pavlovna that Claude Monet's kitchen is falling apart without Barinov."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 14 of Episode 14, listen out for the exchange around the salt scandal and telling elena — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Наверное, у них кухня.')
+OUTRO = "That wraps up this scene as vika brings the salted plate back to Chef Barinov after the guest storms out, and that same guest complains to Elena Pavlovna at Arcobaleno about Claude Monet's kitchen. See you next time!"
+CLOSING = ("anya", "Всего хорошего!")

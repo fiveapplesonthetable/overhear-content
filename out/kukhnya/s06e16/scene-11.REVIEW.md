@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Настя | Как ты можешь смотреть мне в глаза? | How can you look me in the eyes? | #163 00:12:07: Как ты можешь смотреть мне в глаза и улыбаться | adapted: adapted |
 | 2 | Настя | Скажи, как ты мог мне изменить? | Tell me, how could you cheat on me? | #165 00:12:13: как ты мог | adapted: adapted |
-| 3 | Аня | Подожди, о чём ты сейчас говоришь? | Wait, what are you talking about right now? | #166 00:12:15: Что ты | adapted: adapted |
+| 3 | Костя | Подожди, о чём ты сейчас говоришь? | Wait, what are you talking about right now? | #166 00:12:15: Что ты | adapted: adapted |
 | 4 | Настя | Я сама только что всё слышала! | I just heard everything myself! | #167 00:12:17: Я слышала | adapted: adapted |
 | 5 | Настя | Эта модель ходила с барменом в номер! | That model went to a room with the bartender! | #167 00:12:17: что она ходила с барменом в номер | adapted: adapted |
-| 6 | Аня | Да это не я был, Настя! | That was not me, Nastya! | #169 00:12:25: Да не я был, Настя | adapted: adapted |
-| 7 | Аня | Клянусь тебе, это вчера был Луи. | I swear to you, that was Louis yesterday. | #169 00:12:25: это был Луи | adapted: adapted |
+| 6 | Костя | Да это не я был, Настя! | That was not me, Nastya! | #169 00:12:25: Да не я был, Настя | adapted: adapted |
+| 7 | Костя | Клянусь тебе, это вчера был Луи. | I swear to you, that was Louis yesterday. | #169 00:12:25: это был Луи | adapted: adapted |
 | 8 | Настя | Какой ещё Луи, что ты врёшь? | What do you mean Louis, why are you lying? | #170 00:12:27: Какой Луи | adapted: adapted |
-| 9 | Аня | Я вчера вечером захотел в туалет. | Last night I needed to go to the restroom. | #171 00:12:32: Я захотел в туалет | adapted: adapted |
-| 10 | Аня | Попросил его немного присмотреть за баром. | I asked him to watch the bar for a bit. | #172 00:12:34: Попросил его присмотреть за баром | adapted: adapted |
-| 11 | Аня | А он за этой моделью присмотрел! | And he watched over that model instead! | #173 00:12:37: А он за этой моделью и присмотрел | adapted: adapted |
-| 12 | Аня | Это чистая правда, поверь мне, Настя! | This is the honest truth, believe me, Nastya! | #175 00:12:43: Правда чистая, Настя | adapted: adapted |
+| 9 | Костя | Я вчера вечером захотел в туалет. | Last night I needed to go to the restroom. | #171 00:12:32: Я захотел в туалет | adapted: adapted |
+| 10 | Костя | Попросил его немного присмотреть за баром. | I asked him to watch the bar for a bit. | #172 00:12:34: Попросил его присмотреть за баром | adapted: adapted |
+| 11 | Костя | А он за этой моделью присмотрел! | And he watched over that model instead! | #173 00:12:37: А он за этой моделью и присмотрел | adapted: adapted |
+| 12 | Костя | Это чистая правда, поверь мне, Настя! | This is the honest truth, believe me, Nastya! | #175 00:12:43: Правда чистая, Настя | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

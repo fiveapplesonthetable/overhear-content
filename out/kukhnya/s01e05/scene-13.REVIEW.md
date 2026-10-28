@@ -1,41 +1,40 @@
-# kukhnya-s01e05-scene-13: review sheet
+# Предупреждение от Вики  (A Warning from Vika) — `kukhnya-s01e05-scene-13`
 
-Title: Предупреждение от Вики  (A Warning from Vika)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (The Kitchen) S1.5
+**Source:** Кухня (Kukhnya) S1.05 · `sources/kukhnya/s01/e05.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `vika` | angelina | Вика |
+| `anya` | alisa | Макс |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the kitchen of Claude Monet, restaurant administrator Vika confronts young cook Max with an eggplant in hand. Furious that waitress Nastya has been crying all day, Vika delivers an unmistakable warning before leaving Max to finish his soup. Let's listen to their conversation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вика | Макс, иди сюда прямо сейчас! | Max, come here right now! | #159 00:11:24: Иди сюда | adapted: demanding attention |
-| 2 | Макс | Привет, Вика, что случилось? | Hi, Vika, what happened? | #159 00:11:24: привет | adapted: curious greeting |
-| 3 | Вика | Слушай меня очень внимательно один раз. | Listen to me very attentively once. | #160 00:11:27: слушай сюда внимательно | adapted: giving warning |
-| 4 | Вика | Не трогай моих официанток больше никогда! | Don't touch my waitresses ever again! | #161 00:11:30: кого-то из моих официанток | adapted: threatening |
-| 5 | Вика | Или я приму очень строгие меры. | Or I will take very strict measures. | #162 00:11:34: Тебе вот этот | adapted: holding eggplant |
-| 6 | Макс | Вика, почему ты так сильно злишься? | Vika, why are you so angry? | #163 00:11:37: Вик, да что с тобой | adapted: confused |
-| 7 | Вика | Бедная Настя плачет из-за тебя весь день. | Poor Nastya has been crying because of you all day. | #164 00:11:39: Настя рыдает целый день | adapted: pointing out distress |
-| 8 | Макс | Но между нами абсолютно ничего не было! | But absolutely nothing happened between us! | #165 00:11:41: ничего не было | adapted: defending himself |
-| 9 | Вика | Я видела ваши странные разговоры у бара. | I saw your strange conversations by the bar. | #167 00:11:49: я все видела | adapted: asserting facts |
-| 10 | Вика | Я предупредила тебя в последний раз. | I warned you for the last time. | #169 00:11:58: Я тебя предупредила | adapted: final ultimatum |
-| 11 | Макс | Хорошо, я понял тебя, спасибо за совет. | Alright, I understood you, thanks for the advice. | #168 00:11:51: мне все равно | adapted: accepting boundary |
-| 12 | Макс | Теперь мне нужно быстро посолить суп. | Now I need to quickly salt the soup. | #173 00:12:18: осталось посолить | adapted: resuming cooking |
-| 13 | Макс | И не забыть добавить свежих сливок. | And not forget to add fresh cream. | #174 00:12:21: добавить сливок | adapted: finishing sauce |
+| 0 | Вика | Макс, иди сюда прямо сейчас! | Max, come here right now! | #159 "Иди сюда" |  |
+| 1 | Макс | Привет, Вика, что случилось? | Hi, Vika, what happened? | #159 "привет" |  |
+| 2 | Вика | Слушай меня очень внимательно один раз. | Listen to me very attentively once. | #160 "слушай сюда внимательно" |  |
+| 3 | Вика | Не трогай моих официанток больше никогда! | Don't touch my waitresses ever again! | #161 "кого-то из моих официанток" |  |
+| 4 | Вика | Или я приму очень строгие меры. | Or I will take very strict measures. | #162 "Тебе вот этот" |  |
+| 5 | Макс | Вика, почему ты так сильно злишься? | Vika, why are you so angry? | #163 "Вик, да что с тобой" |  |
+| 6 | Вика | Бедная Настя плачет из-за тебя весь день. | Poor Nastya has been crying because of you all day. | #164 "Настя рыдает целый день" |  |
+| 7 | Макс | Но между нами абсолютно ничего не было! | But absolutely nothing happened between us! | #165 "ничего не было" |  |
+| 8 | Вика | Я видела ваши странные разговоры у бара. | I saw your strange conversations by the bar. | #167 "я все видела" |  |
+| 9 | Вика | Я предупредила тебя в последний раз. | I warned you for the last time. | #169 "Я тебя предупредила" |  |
+| 10 | Макс | Хорошо, я понял тебя, спасибо за совет. | Alright, I understood you, thanks for the advice. | #168 "мне все равно" |  |
+| 11 | Макс | Теперь мне нужно быстро посолить суп. | Now I need to quickly salt the soup. | #173 "осталось посолить" |  |
+| 12 | Макс | И не забыть добавить свежих сливок. | And not forget to add fresh cream. | #174 "добавить сливок" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Max, come here right now!' Direct vocative address with imperative motion verb and reinforced temporal adverb.
-- 'Hi, Vika, what happened?' Informal conversational greeting with interrogative pronoun and past neuter verb.
-- 'Listen to me very attentively once.' Imperative verb governing accusative object with manner adverbs and quantitative multiplier.
-- 'Don't touch my waitresses ever again!' Negated imperative verb governing animate genitive noun phrase with negative temporal adverb.
-- 'Or I will take very strict measures.' Alternative conjunction with future perfective verb governing intensified accusative noun phrase.
-- 'Vika, why are you so angry?' Direct address with interrogative causal adverb and intensified reflexive present verb.
-- 'Poor Nastya has been crying because of you all day.' Nominative subject noun phrase with present verb and causative prepositional construction.
-- 'But absolutely nothing happened between us!' Adversative conjunction with reciprocal prepositional pronoun and negated impersonal past verb.
-- 'I saw your strange conversations by the bar.' Past perfective transitive verb governing accusative noun phrase and locative prepositional phrase.
-- 'I warned you for the last time.' Past perfective verb governing direct object with temporal prepositional phrase.
-- 'Alright, I understood you, thanks for the advice.' Formula of agreement with past verb and conversational gratitude phrase.
-- 'Now I need to quickly salt the soup.' Temporal adverb with modal dative necessity governing infinitive and accusative object.
-- 'And not forget to add fresh cream.' Max uses the perfective verb meaning 'to forget' to focus on the single completed result, pairing it with 'to add' and 'fresh'.
+> Vika leaves no doubt about protecting her restaurant floor staff, while Max quickly turns his attention back to his culinary duties. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'poor' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

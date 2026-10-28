@@ -15,12 +15,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Врач | Я уже всё хорошо промыл. | I already washed everything out well. | #108 00:06:42: Я все промыл | adapted: adapted |
 | 4 | Врач | Через пару дней перестанет вас беспокоить. | In a couple of days it will stop bothering you. | #109 00:06:45: Через пару дней перестанет вас беспокоить | adapted: adapted |
 | 5 | Нагиев | Очень сильно жжёт! | It burns really badly! | #110 00:06:48: Жгет | adapted: adapted |
-| 6 | Аня | Дима, давай лучше я с ним сам поговорю. | Dima, let me talk to him myself instead. | #112 00:06:54: давай лучше я с ним сам поговорю | adapted: adapted |
-| 7 | Аня | Поговорю с ним с коньячком. | I will talk to him over a little cognac. | #113 00:06:56: С коньячком | adapted: adapted |
-| 8 | Аня | Этот метод каждый год работает. | This method works every year. | #113 00:06:56: Этот метод каждый год работает | adapted: adapted |
+| 6 | Врач | Дима, давай лучше я с ним сам поговорю. | Dima, let me talk to him myself instead. | #112 00:06:54: давай лучше я с ним сам поговорю | adapted: adapted |
+| 7 | Врач | Поговорю с ним с коньячком. | I will talk to him over a little cognac. | #113 00:06:56: С коньячком | adapted: adapted |
+| 8 | Врач | Этот метод каждый год работает. | This method works every year. | #113 00:06:56: Этот метод каждый год работает | adapted: adapted |
 | 9 | Нагиев | Лучше текилу возьми и лимон. | Better take tequila and a lemon. | #114 00:07:00: Лучше текилу возьми и лимон | adapted: adapted |
 | 10 | Нагиев | Соль у него уже есть. | He already has salt. | #115 00:07:02: Соль у этой | adapted: adapted |
-| 11 | Аня | Оставайся у нас сколько тебе нужно. | Stay with us as long as you need. | #116 00:07:07: Оставайся у нас сколько тебе нужно | adapted: adapted |
+| 11 | Врач | Оставайся у нас сколько тебе нужно. | Stay with us as long as you need. | #116 00:07:07: Оставайся у нас сколько тебе нужно | adapted: adapted |
 | 12 | Врач | Макс, я собрала все твои вещи, перестирала, погладила. | Max, I packed all your things, washed and ironed them. | #117 00:07:11: Макс, я собрала все твои вещи, перестирала, погладила | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ну, понимаешь. | Well, you understand how it is. | #93 00:05:27: Ну, понимаешь | verbatim |
-| 2 | Вика | Поэтому хожу. | That is why I walk around like this. | #95 00:05:31: Поэтому хожу | verbatim |
+| 1 | Шеф | Ну, понимаешь. | Well, you understand how it is. | #93 00:05:27: Ну, понимаешь | verbatim |
+| 2 | Нагиев | Поэтому хожу. | That is why I walk around like this. | #95 00:05:31: Поэтому хожу | verbatim |
 | 3 | Нагиев | Видишь, люди знают, любят. | You see, people know me and love me. | #102 00:05:57: Видишь, люди знают, любят | verbatim |
-| 4 | Аня | Получается так. | That is how it turns out. | #103 00:06:00: Получается так | verbatim |
-| 5 | Вика | Дмитрий Владимирович. | Dmitriy Vladimirovich. | #103 00:06:00: Дмитрий Владимирович | verbatim |
+| 4 | Шеф | Получается так. | That is how it turns out. | #103 00:06:00: Получается так | verbatim |
+| 5 | Нагиев | Дмитрий Владимирович. | Dmitriy Vladimirovich. | #103 00:06:00: Дмитрий Владимирович | verbatim |
 | 6 | Нагиев | Ваш кофе. | Here is your coffee. | #104 00:06:02: Ваш кофе | verbatim |
-| 7 | Аня | Че это? | What is this? | #104 00:06:02: Че это | verbatim |
-| 8 | Вика | Я не просил. | I did not ask for this. | #105 00:06:05: Я не просил | verbatim |
+| 7 | Шеф | Че это? | What is this? | #104 00:06:02: Че это | verbatim |
+| 8 | Нагиев | Я не просил. | I did not ask for this. | #105 00:06:05: Я не просил | verbatim |
 | 9 | Нагиев | Ах, вот как и я. | Ah, so that is how it is. | #106 00:06:07: Ах, вот как и я | verbatim |
-| 10 | Аня | Ах, вот как. | Ah, I see now. | #107 00:06:09: Ах, вот как | verbatim |
-| 11 | Вика | Молодец. Глядишь так. | Good job. Keep looking like that. | #108 00:06:13: Молодец. Глядишь так | verbatim |
+| 10 | Шеф | Ах, вот как. | Ah, I see now. | #107 00:06:09: Ах, вот как | verbatim |
+| 11 | Нагиев | Молодец. Глядишь так. | Good job. Keep looking like that. | #108 00:06:13: Молодец. Глядишь так | verbatim |
 | 12 | Нагиев | А че? | Why, what is wrong? | #109 00:06:16: А че | verbatim |
-| 13 | Аня | Кстати, вам очень идет. | By the way, it suits you very well. | #110 00:06:19: Кстати, вам очень идет | verbatim |
+| 13 | Шеф | Кстати, вам очень идет. | By the way, it suits you very well. | #110 00:06:19: Кстати, вам очень идет | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

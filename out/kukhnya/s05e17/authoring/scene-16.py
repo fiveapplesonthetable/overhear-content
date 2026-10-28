@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e17-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 17
 SCENE = 16
-TITLE = 'Виктор берёт вину на себя  (Victor Takes the Blame)'
+TITLE = "Виктор берёт вину на себя  (Victor Takes the Blame)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'eleonora': 'angelina'}
-LABELS = {'anya': 'Шеф', 'katya': 'Катя', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "eleonora": "angelina"}
+LABELS = {"chef": "Шеф", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.17'
 SOURCE_FILE = 'sources/kukhnya/s05/e17.ru.srt'
 
 INTRO = "Seeing Katya and Nikita panic after bumping Eleonora's car with Nagiyev's jeep, Chef Barinov hides Mikhail and tells Eleonora that he was the one behind the wheel."
 
 STORY = [
-    ('anya', 'Вылезай скорее из машины, террорист.', 'Climb out of the car quickly, terrorist.', [(299, 'Вылезай, террорист')], 'adapted'),
-    ('katya', 'Папа, что случилось, он ранен?', 'Dad, what happened, is he wounded?', [(300, 'Пап, что случилось? Он ранен')], 'adapted'),
-    ('anya', 'Да, литром виски прямо в голову.', 'Yes, by a liter of whiskey straight to the head.', [(301, 'Да. Литром виски в голову')], 'adapted'),
-    ('anya', 'Тебе лучше сейчас тихо отползать.', 'You had better crawl away quietly right now.', [(302, 'тебе лучше отползать')], 'adapted'),
-    ('anya', 'Сиди там совсем тихо.', 'Sit there completely quietly.', [(303, 'Сиди тихо')], 'adapted'),
+    ('chef', 'Вылезай скорее из машины, террорист.', 'Climb out of the car quickly, terrorist.', [(299, 'Вылезай, террорист')], 'adapted'),
+    ('eleonora', 'Папа, что случилось, он ранен?', 'Dad, what happened, is he wounded?', [(300, 'Пап, что случилось? Он ранен')], 'adapted'),
+    ('chef', 'Да, литром виски прямо в голову.', 'Yes, by a liter of whiskey straight to the head.', [(301, 'Да. Литром виски в голову')], 'adapted'),
+    ('chef', 'Тебе лучше сейчас тихо отползать.', 'You had better crawl away quietly right now.', [(302, 'тебе лучше отползать')], 'adapted'),
+    ('chef', 'Сиди там совсем тихо.', 'Sit there completely quietly.', [(303, 'Сиди тихо')], 'adapted'),
     ('eleonora', 'Что здесь у вас происходит?', 'What is going on with you here?', [(304, 'Что происходит')], 'adapted'),
-    ('anya', 'Эля, в этом только я виноват.', 'Elya, only I am to blame for this.', [(305, 'Это я виноват')], 'adapted'),
-    ('anya', 'Я совершенно случайно въехал в неё.', 'I drove into it completely by accident.', [(305, 'случайно въехал в неё')], 'adapted'),
+    ('chef', 'Эля, в этом только я виноват.', 'Elya, only I am to blame for this.', [(305, 'Это я виноват')], 'adapted'),
+    ('chef', 'Я совершенно случайно въехал в неё.', 'I drove into it completely by accident.', [(305, 'случайно въехал в неё')], 'adapted'),
     ('eleonora', 'То есть ты въехал в мою машину?', 'So you drove into my car?', [(306, 'То есть не она в тебя, а ты в неё')], 'adapted'),
     ('eleonora', 'Слава богу, то есть какого чёрта?', 'Thank goodness, I mean what the heck?', [(307, 'Слава богу. То есть какого чёрта')], 'adapted'),
-    ('anya', 'Ладно, вы тут сами разбирайтесь.', 'Alright, you two sort it out here yourselves.', [(308, 'Вы тут разбирайтесь')], 'adapted'),
-    ('katya', 'Спасибо, папа, мы тогда пойдём.', 'Thanks, Dad, we will get going then.', [(309, 'Мы пойдём')], 'adapted'),
+    ('chef', 'Ладно, вы тут сами разбирайтесь.', 'Alright, you two sort it out here yourselves.', [(308, 'Вы тут разбирайтесь')], 'adapted'),
+    ('eleonora', 'Спасибо, папа, мы тогда пойдём.', 'Thanks, Dad, we will get going then.', [(309, 'Мы пойдём')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Katya and Nikita slip away grateful to Chef Barinov, leaving Victor alone to face Eleonora's questions. See you in the next scene."
-CLOSING = ('anya', 'Это я виноват, случайно.')
+OUTRO = "Katya and Nikita slip away grateful to Chef Barinov, leaving Victor alone to face Eleonora's questions. See you next time!"
+CLOSING = ("chef", "До завтра!")

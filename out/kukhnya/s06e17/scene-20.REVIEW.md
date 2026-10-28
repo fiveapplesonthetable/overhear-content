@@ -10,14 +10,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Господи, за что меня наказываешь? | Lord, why are you punishing me? | #321 00:20:47: Господи, за что ты меня наказываешь | adapted: adapted |
-| 2 | Врач | Нет дыхания, начинаем реанимацию. | No breathing, we are starting resuscitation. | #322 00:20:53: Нет дыхания, нет. Начинаем | adapted: adapted |
-| 3 | Аня | У нас Лёва опять заклинил. | Our Lyova jammed up again. | #324 00:21:06: он опять заклинил | adapted: adapted |
-| 4 | Аня | Витя, что ты за человек? | Vitya, what kind of person are you? | #325 00:21:24: Витя, вот что ты за человек | adapted: adapted |
-| 5 | Аня | Всю свадьбу испортил похоронами. | You ruined the whole wedding with a funeral. | #326 00:21:27: Всю свадьбу испортил своими похоронами | adapted: adapted |
-| 6 | Аня | Давай выпьем за наш оптимизм. | Let us drink to our optimism. | #329 00:21:35: Выпьем за оптимизм | adapted: adapted |
-| 7 | Врач | Виктор Петрович находится в коме. | Viktor Petrovich is in a coma. | #330 00:21:44: Виктор Петрович сейчас находится в коме | adapted: adapted |
-| 8 | Врач | Его состояние стабильно тяжёлое. | His condition is stable but serious. | #331 00:21:47: Состояние стабильно тяжелое | adapted: adapted |
+| 1 | Шеф | Господи, за что меня наказываешь? | Lord, why are you punishing me? | #321 00:20:47: Господи, за что ты меня наказываешь | adapted: adapted |
+| 2 | Шеф | Нет дыхания, начинаем реанимацию. | No breathing, we are starting resuscitation. | #322 00:20:53: Нет дыхания, нет. Начинаем | adapted: adapted |
+| 3 | Шеф | У нас Лёва опять заклинил. | Our Lyova jammed up again. | #324 00:21:06: он опять заклинил | adapted: adapted |
+| 4 | Шеф | Витя, что ты за человек? | Vitya, what kind of person are you? | #325 00:21:24: Витя, вот что ты за человек | adapted: adapted |
+| 5 | Шеф | Всю свадьбу испортил похоронами. | You ruined the whole wedding with a funeral. | #326 00:21:27: Всю свадьбу испортил своими похоронами | adapted: adapted |
+| 6 | Шеф | Давай выпьем за наш оптимизм. | Let us drink to our optimism. | #329 00:21:35: Выпьем за оптимизм | adapted: adapted |
+| 7 | Шеф | Виктор Петрович находится в коме. | Viktor Petrovich is in a coma. | #330 00:21:44: Виктор Петрович сейчас находится в коме | adapted: adapted |
+| 8 | Шеф | Его состояние стабильно тяжёлое. | His condition is stable but serious. | #331 00:21:47: Состояние стабильно тяжелое | adapted: adapted |
 | 9 | Элеонора | Витя, прости меня, пожалуйста. | Vitya, forgive me, please. | #332 00:22:39: Прости меня | adapted: adapted |
 | 10 | Элеонора | Этот инспектор был не настоящим. | That inspector was not real. | #332 00:22:39: Инспектор был не настоящим | adapted: adapted |
 | 11 | Элеонора | Это я сама всё подстроила. | I staged all of this myself. | #333 00:22:43: Это я все подстроил | adapted: adapted |

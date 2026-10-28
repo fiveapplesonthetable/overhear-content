@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 16
-TITLE = 'Спасительный плов  (The Lifesaving Pilaf)'
+TITLE = "Спасительный плов  (The Lifesaving Pilaf)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "guest": "anja", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "guest": "Гость", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = "Nagiyev is horrified when Max serves simple pilaf to the oil tycoon, but Sergey Fyodorovich tastes it, remembers the pilaf of his youth, and praises Claude Monet's special approach!"
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Ainura's humble cauldron of pilaf wins over the oil magnate, and Nagiyev immediately takes full credit for the triumph."
-CLOSING = ('guest', 'Я помню этот чудесный вкус!')
+OUTRO = "Ainura's humble cauldron of pilaf wins over the oil magnate, and Nagiyev immediately takes full credit for the triumph. See you next time!"
+CLOSING = ("guest", "Увидимся!")

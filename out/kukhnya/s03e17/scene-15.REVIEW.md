@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And I do not care at all anymore.' Chef Barinov brings out the contrast between 'and' and 'to me' in a few short words.
 - 'We have nothing at all to feed the guests in the hall.' Chef Barinov anchors the line on 'us', while 'nothing' completes the thought.
 - 'It is all over, our restaurant is finished.' The '-l' ending on the verb meaning 'arrived' places the action in the masculine past tense.
-- 'That means I will not have to tolerate you anymore.' Notice the reflexive suffix on the verb meaning 'it will be necessary', turning the action back on the subject.
+- 'That means I will not have to tolerate you anymore.' In everyday Russian, 'it will be necessary' flows straight into 'to tolerate / endure' without extra linking words.
 - 'And you too, I am going home right now.' In Russian, the idea of 'and' flows naturally into 'home' without extra filler words.
 - 'There is nothing to feed the guests, we must do something fast.' Spoken Russian keeps this brisk, leaning on 'guests' and finishing on 'to do'. Dmitry Nagiyev answers right away.
 - 'Do not think that we are skimping on electricity.' Dmitry Nagiyev anchors the line on 'not', while 'we save' completes the thought.

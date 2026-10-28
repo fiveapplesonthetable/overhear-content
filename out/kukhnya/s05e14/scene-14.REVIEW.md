@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Настя | Девушка вчера звонила по поводу вакансии хостес. | The young woman called yesterday about the hostess vacancy. | #251 00:15:30: я вчера звонила по поводу вакансии хостес | adapted: adapted |
 | 2 | Настя | Ей сказали подойти к нам сегодня вечером. | She was told to come see us this evening. | #252 00:15:32: Мне сказали, сегодня вечером подойти | adapted: adapted |
-| 3 | Аня | Настя, там только что твоя мама звонила. | Nastya, your mom just called over there. | #255 00:15:37: Настя. Мама твоя звонила | adapted: adapted |
-| 4 | Аня | Она сказала, что у малыша температура поднялась. | She said that the little boy's fever went up. | #255 00:15:37: она сказала, что у | adapted: adapted |
+| 3 | Денис | Настя, там только что твоя мама звонила. | Nastya, your mom just called over there. | #255 00:15:37: Настя. Мама твоя звонила | adapted: adapted |
+| 4 | Денис | Она сказала, что у малыша температура поднялась. | She said that the little boy's fever went up. | #255 00:15:37: она сказала, что у | adapted: adapted |
 | 5 | Настя | Тогда скажешь Вике, что я срочно уехала. | Then tell Vika that I left urgently. | #256 00:15:45: Скажешь Вике, что я уехала | adapted: adapted |
 | 6 | Денис | Костя, ты уже слышал главную новость дня? | Kostya, have you heard the main news of the day yet? | #257 00:15:54: Элеонора спит с Максом | adapted: adapted |
 | 7 | Денис | Кажется, хозяйка отеля Элеонора спит с Максом! | It seems the hotel owner Eleonora is sleeping with Max! | #257 00:15:54: Элеонора спит с Максом | adapted: adapted |
-| 8 | Аня | Да ладно, откуда ты взял такую глупость? | Come on, where did you get such nonsense from? | #258 00:15:57: Да ладно | adapted: adapted |
+| 8 | Денис | Да ладно, откуда ты взял такую глупость? | Come on, where did you get such nonsense from? | #258 00:15:57: Да ладно | adapted: adapted |
 | 9 | Денис | Я собственными глазами видел его возле номера! | I saw him near her suite with my own eyes! | #258 00:15:57: А я собственными глазами видел | adapted: adapted |
 | 10 | Денис | Он как раз тихо выходил из её номера. | He was just quietly walking out of her room. | #258 00:15:57: как Макс выходил из ее номера | adapted: adapted |
 | 11 | Денис | Она позвала его вечером получить всё что хочет! | She invited him tonight to get whatever he wants! | #259 00:16:00: приходи вечером, получишь что хочешь | adapted: adapted |
-| 12 | Аня | Тогда скоро у нас будет новый шеф-повар! | Then soon we are going to have a new head chef! | #260 00:16:07: скоро у нас будет новый шеф-повар | adapted: adapted |
+| 12 | Денис | Тогда скоро у нас будет новый шеф-повар! | Then soon we are going to have a new head chef! | #260 00:16:07: скоро у нас будет новый шеф-повар | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

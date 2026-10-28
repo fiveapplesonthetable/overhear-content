@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 1
-TITLE = 'Утро с сюрпризом  (Morning with a Surprise)'
+TITLE = "Утро с сюрпризом  (Morning with a Surprise)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nagiyev": "angelina"}
+LABELS = {"anya": "Макс", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = "Welcome to Episode Thirteen of Season Three of Kukhnya. After a wild night out, Max wakes up in Katya's bed in complete shock, while Dmitry Nagiyev wakes up on a narrow sofa at Vika's apartment. Listen to the full conversation first, and then we will unpack every line together."
@@ -18,13 +18,13 @@ STORY = [
     ('anya', 'Хочется составить картинку своего счастья.', 'We want to put together a picture of our happiness.', [(2, 'составить картинку своего счастья')], 'adapted'),
     ('anya', 'Не всегда пазлы складываются правильно.', 'Puzzles do not always come together the right way.', [(3, 'не всегда пазлы складываются')], 'adapted'),
     ('anya', 'Нифига себе, где это я?', 'Holy cow, where am I?', [(4, 'Нифига себе')], 'adapted'),
-    ('katya', 'Доброе утро, Макс.', 'Good morning, Max.', [(5, 'Доброе утро')], 'adapted'),
+    ('nagiyev', 'Доброе утро, Макс.', 'Good morning, Max.', [(5, 'Доброе утро')], 'adapted'),
     ('anya', 'Доброе утро, Катя.', 'Good morning, Katya.', [(6, 'Доброе утро')], 'adapted'),
     ('nagiyev', 'Ну, кому как сегодня.', 'Well, that depends on who you ask today.', [(7, 'Ну, кому как')], 'adapted'),
     ('nagiyev', 'Знал бы я про свою судьбу.', 'If only I had known about my fate.', [(8, 'Знал бы, что судьба')], 'adapted'),
     ('nagiyev', 'Судьба повернулась ко мне спиной.', 'Fate turned its back on me.', [(9, 'так повернется')], 'adapted'),
     ('nagiyev', 'Конечно, диван бы купил раскладной.', 'Of course, I would have bought a fold-out sofa.', [(10, 'Конечно, диван бы купил раскладной')], 'adapted'),
-    ('katya', 'Как спалось сегодня ночью?', 'How did you sleep last night?', [(11, 'Как почивались')], 'adapted'),
+    ('nagiyev', 'Как спалось сегодня ночью?', 'How did you sleep last night?', [(11, 'Как почивались')], 'adapted'),
     ('anya', 'Неплохо, спасибо тебе.', 'Not bad, thank you.', [(12, 'Неплохо')], 'adapted'),
     ('anya', 'Ты мои джинсы не видела?', 'Have you seen my jeans?', [(13, 'Ты мои джинсы не видела')], 'adapted'),
 ]
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings our opening morning scene to a close. Listen out for how Max and Katya try to piece together what happened the night before. See you in the next scene.'
-CLOSING = ('anya', 'Ты мои джинсы не видела?')
+OUTRO = 'And that brings our opening morning scene to a close. Listen out for how Max and Katya try to piece together what happened the night before. Until next time!'
+CLOSING = ("anya", "До завтра!")

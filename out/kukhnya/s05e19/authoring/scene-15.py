@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e19-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 19
 SCENE = 15
-TITLE = 'Фирменный паштет вместо медальона  (Signature Pâté Instead of the Medallion)'
+TITLE = "Фирменный паштет вместо медальона  (Signature Pâté Instead of the Medallion)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'louis': 'angelina'}
-LABELS = {'anya': 'Макс', 'lyova': 'Лёва', 'louis': 'Луи'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "lyova": "angelina", "louis": "anja"}
+LABELS = {"anya": "Макс", "lyova": "Лёва", "louis": "Луи"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.19'
 SOURCE_FILE = 'sources/kukhnya/s05/e19.ru.srt'
 
 INTRO = "Lyova brings Max a prime beef tenderloin for Chef Barinov's signature medallion, but Max insists on serving his own duck pâté instead. Meanwhile, Senya asks Louis to translate the French notebook."
@@ -34,7 +34,7 @@ WALK = [
     (0, None, "'Lyova, why do I need this tenderloin?' Notice how Russian expresses 'Lyova' and 'tenderloin' with crisp inflection rather than helper words. Lyova answers right away."),
     (1, None, "'That is the chef's special—beef tenderloin medallion.' Lyova brings out the contrast between 'this' and 'dish' in a few short words."),
     (2, None, "'Lyova, today I am the head chef here.' Max anchors the line on 'Lyova', while 'proper name' completes the thought."),
-    (3, None, "'And I am going to cook my own signature dish.' The grammar packs 'and' and 'dish' into a tight, idiomatic kitchen exchange. Lyova answers right away."),
+    (3, None, "'And I am going to cook my own signature dish.' Here Max anchors the thought on 'will be' and finishes on 'dish', keeping the spoken rhythm brisk and natural."),
     (4, None, "'Right, what dish is that, your pâté?' The meaning hinges on 'yeah' working together with 'pâté' in spoken Russian."),
     (5, None, "'At least they recently added it to our menu.' In Russian, the idea of 'on the other hand' flows naturally into 'menu' without extra filler words."),
     (6, None, "'And what dish of yours did they add to the menu?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'to add'. Lyova answers right away."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Before Louis finishes translating the notebook, Max carries his pâté out to the dining room himself. See you in the next scene.'
-CLOSING = ('anya', 'Буду готовить своё фирменное блюдо.')
+OUTRO = 'Before Louis finishes translating the notebook, Max carries his pâté out to the dining room himself. Until next time!'
+CLOSING = ("anya", "До встречи!")

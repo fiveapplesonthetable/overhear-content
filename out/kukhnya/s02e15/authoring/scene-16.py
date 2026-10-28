@@ -1,30 +1,30 @@
-ID = "kukhnya-s02e15-scene-16"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e15-scene-16'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 15
 SCENE = 16
-TITLE = 'Улика против Макса  (Evidence Against Max)'
+TITLE = "Улика против Макса  (Evidence Against Max)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.15"
-SOURCE_FILE = "sources/kukhnya/s02/e15.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.15'
+SOURCE_FILE = 'sources/kukhnya/s02/e15.ru.srt'
 
 INTRO = "Pointing out that Max was begging everyone for money all day, a search of the staff lockers turns up Nagiyev's missing cash inside Max's jacket. As Max protests his innocence and Nagiyev tells Vika to call the police, Ilya steps forward and suggests they just fire Max instead."
 
 STORY = [
     ('anya', 'Что за огрызок?', 'What is this apple core doing here?', [(269, 'Что за огрызок')], ''),
-    ('vika', 'Лавров же деньги у всех искал и спрашивал.', 'Lavrov was going around asking everyone for money earlier.', [(270, 'Лавров же деньги у всех искал и спрашивал')], ''),
+    ('nagiyev', 'Лавров же деньги у всех искал и спрашивал.', 'Lavrov was going around asking everyone for money earlier.', [(270, 'Лавров же деньги у всех искал и спрашивал')], ''),
     ('nagiyev', 'Кто здесь Лавров?', 'Who here is Lavrov?', [(271, 'Кто здесь Лавров')], ''),
     ('anya', 'Я. Вот он.', 'I am. Right here.', [(272, 'Я. Вот он')], ''),
-    ('vika', 'Что, парень, стал у богатых воровать.', 'So, kid, you started stealing from the rich?', [(273, 'Что, парень, стал у богатых воровать')], ''),
+    ('nagiyev', 'Что, парень, стал у богатых воровать.', 'So, kid, you started stealing from the rich?', [(273, 'Что, парень, стал у богатых воровать')], ''),
     ('nagiyev', 'То и требовалось.', 'Which is all the proof we need.', [(278, 'То и требовалось')], ''),
     ('anya', 'Я не брал вас деньги.', 'I did not take your money.', [(280, 'Я не брал вас деньги')], ''),
-    ('vika', 'Вика, вызывай полицию.', 'Vika, call the police.', [(281, 'Вика, вызывай полицию')], ''),
+    ('nagiyev', 'Вика, вызывай полицию.', 'Vika, call the police.', [(281, 'Вика, вызывай полицию')], ''),
     ('nagiyev', 'Я не брал деньги.', 'I did not take the money!', [(282, 'Я не брал деньги')], ''),
     ('anya', 'Может, мы обойдемся без полиции?', 'Maybe we can handle this without the police?', [(283, 'Может, мы обойдемся без полиции')], ''),
-    ('vika', 'А что так?', 'And why is that?', [(284, 'А что так')], ''),
+    ('nagiyev', 'А что так?', 'And why is that?', [(284, 'А что так')], ''),
     ('nagiyev', 'Давайте просто его уволим.', 'Let us just fire him on the spot.', [(285, 'Давайте просто его уволим')], ''),
     ('anya', 'Давай, собирай.', 'Go on, pack your things.', [(287, 'Давай, собирай')], ''),
 ]
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 16 of Episode 15, listen out for the exchange around evidence against max — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Давай, собирай.')
+OUTRO = "That wraps up this scene as when the stolen cash is found stuffed inside Max's locker after everyone heard him begging for a loan, Nagiyev orders Vika to call the police before Ilya suggests simply firing him. See you next time!"
+CLOSING = ("anya", "До свидания!")

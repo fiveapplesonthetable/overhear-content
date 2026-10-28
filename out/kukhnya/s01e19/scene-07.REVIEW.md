@@ -1,39 +1,40 @@
-# kukhnya-s01e19-scene-07: review sheet
+# Важный вопрос  (Important Question) — `kukhnya-s01e19-scene-07`
 
-Title: Важный вопрос  (Important Question)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.19
+**Source:** Кухня (Kukhnya) S1.19 · `sources/kukhnya/s01/e19.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `vika` | angelina | Вика |
+| `anya` | alisa | Макс |
+| `guest` | anja | Гость |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the dining room, Max brings Victoria a flower and invites her out for the evening, but she says she has a business meeting. Seconds later, a courier arrives carrying a huge bouquet of roses for her. Let's listen to the scene in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Гость | Добрый вечер, Виктория. | Good evening, Victoria. | new | new |
-| 2 | Вика | Добрый вечер. | Good evening. | new | new |
-| 3 | Гость | Как ваши дела? | How are you? | new | new |
-| 4 | Вика | Всё отлично, спасибо. | Everything is great, thanks. | new | new |
-| 5 | Гость | Я рад это слышать. | I'm glad to hear that. | new | new |
-| 6 | Вика | А как ваш бизнес? | And how is your business? | new | new |
-| 7 | Гость | Бизнес идёт хорошо. | Business is going well. | new | new |
-| 8 | Гость | Спасибо, что спросили. | Thank you for asking. | new | new |
-| 9 | Вика | Какой приятный вечер 0. | What a pleasant evening 0. | new | new |
-| 10 | Вика | Какой приятный вечер 1. | What a pleasant evening 1. | new | new |
-| 11 | Вика | Какой приятный вечер 2. | What a pleasant evening 2. | new | new |
-| 12 | Вика | Какой приятный вечер 3. | What a pleasant evening 3. | new | new |
+| 0 | Макс | Привет, Вика, я тут подумал. | Hi, Vika, I have been thinking. | #158 "Привет", #159 "Я тут подумал" |  |
+| 1 | Макс | В общем, это тебе. | Anyway, this is for you. | #160 "В общем, это тебе" |  |
+| 2 | Вика | Как неожиданно, спасибо большое! | How unexpected, thank you very much! | #161 "Как неожиданно", #162 "Спасибо" |  |
+| 3 | Макс | Слушай, может, вечером сходим куда-нибудь? | Listen, maybe we could go somewhere tonight? | #162 "Слушай, а может вечером сходим куда-нибудь?" |  |
+| 4 | Вика | Ты знаешь, сегодня вечером не могу. | You know, I cannot tonight. | #163 "Ты знаешь, сегодня вечером не могу" |  |
+| 5 | Вика | У меня важная деловая встреча. | I have an important business meeting. | #164 "У меня деловая встреча" |  |
+| 6 | Гость | Извините, вы Виктория Гончарова, арт-директор? | Excuse me, are you Victoria Goncharova, the art director? | #165 "Извините", #165 "Виктория Гончарова, арт-директор?" |  |
+| 7 | Вика | Да, это я. | Yes, that is me. | #166 "Это я" |  |
+| 8 | Гость | Тогда это вам, распишитесь вот здесь. | Then this is for you, sign right here. | #166 "Тогда это вам", #167 "Распишитесь", #169 "Вот здесь" |  |
+| 9 | Вика | Какая красота! Макс, подержи, пожалуйста. | How beautiful! Max, hold these, please. | #167 "Какая красота", #168 "Подержи" |  |
+| 10 | Вика | Спасибо вам за чудесные цветы. | Thank you for the wonderful flowers. | #171 "Спасибо" |  |
+| 11 | Вика | Надо их быстро поставить в воду. | We need to put them in water quickly. | #173 "Надо их", #173 "поставить в воду" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Good evening, Victoria.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'good' straight to 'Viktoriya'.
-- 'Good evening.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'evening', combining 'good' with 'evening'.
-- 'How are you?' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'things' to make the point directly in conversation.
-- 'Everything is great, thanks.' Russian omits the present-tense verb 'to be' here, linking 'perfect' directly with 'thank you', combining 'perfect' with 'thank you'.
-- 'I'm glad to hear that.' the guest puts the word for 'glad' together with 'to hear' in a crisp, natural spoken turn of phrase.
-- 'And how is your business?' Vika uses the polite plural 'you' alongside 'business', keeping a formal or respectful register.
-- 'Business is going well.' The phrasing opens with 'business' before bringing in 'goes' and 'good' to make the point clear.
-- 'Thank you for asking.' Here the verb for 'to ask' takes the plural past-tense ending '-li', which is also used for the polite 'you'. Then Vika responds.
-- 'What a pleasant evening 0.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'nice' straight to 'zero'.
-- 'What a pleasant evening 1.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'one'.
-- 'What a pleasant evening 2.' Russian omits the present-tense verb 'to be' here, linking 'nice' directly with 'evening', combining 'nice' with 'evening' and 'two'.
-- 'What a pleasant evening 3.' The question opens with the interrogative word for 'what a' and builds toward 'three'.
+> Max's modest flower is overshadowed by a huge bouquet from Victoria's admirer, leaving him more jealous than ever. See you next time!
+
+**Вика:** До скорого!

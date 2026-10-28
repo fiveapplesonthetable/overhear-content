@@ -1,33 +1,33 @@
 ID = 'kukhnya-s05e01-scene-12'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 1
 SCENE = 12
 TITLE = "Юридический совет Кости  (Kostya's Legal Advice)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Денис', 'kostya': 'Костя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja"}
+LABELS = {"kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.01'
 SOURCE_FILE = 'sources/kukhnya/s05/e01.ru.srt'
 
 INTRO = 'After Chef Barinov bargains for half the cockroach betting pool, Denis tells Kostya that Katya stopped answering his calls, and Kostya uses his law background to suggest marriage. Listen to the Russian dialogue.'
 
 STORY = [
-    ('chef', 'Вы опять за старое?', 'Are you at it again?', [(181, 'Опять?')], 'adapted'),
-    ('anya', 'Шеф, мы только после работы.', 'Chef, we only do it after work.', [(182, 'Шеф, мы только после работы')], 'verbatim'),
-    ('anya', 'Там же ставки. Хотите в долю?', 'There are bets there. Do you want a cut?', [(183, 'Там же ставки. Хотите в долю?')], 'verbatim'),
-    ('chef', 'Ладно, только после работы.', 'Fine, only after work.', [(186, 'Ладно'), (187, 'Только после работы?')], 'adapted'),
-    ('anya', 'Всё, она сильно обиделась.', 'That is it, she got really offended.', [(189, 'Все, она обиделась')], 'adapted'),
-    ('anya', 'Она на телефон не отвечает.', 'She is not answering her phone.', [(189, 'На телефон не отвечает')], 'verbatim'),
-    ('anya', 'Как я должен был поступить?', 'How was I supposed to act?', [(190, 'Как я должен был поступить?')], 'verbatim'),
+    ('kostya', 'Вы опять за старое?', 'Are you at it again?', [(181, 'Опять?')], 'adapted'),
+    ('kostya', 'Шеф, мы только после работы.', 'Chef, we only do it after work.', [(182, 'Шеф, мы только после работы')], 'verbatim'),
+    ('kostya', 'Там же ставки. Хотите в долю?', 'There are bets there. Do you want a cut?', [(183, 'Там же ставки. Хотите в долю?')], 'verbatim'),
+    ('kostya', 'Ладно, только после работы.', 'Fine, only after work.', [(186, 'Ладно'), (187, 'Только после работы?')], 'adapted'),
+    ('kostya', 'Всё, она сильно обиделась.', 'That is it, she got really offended.', [(189, 'Все, она обиделась')], 'adapted'),
+    ('kostya', 'Она на телефон не отвечает.', 'She is not answering her phone.', [(189, 'На телефон не отвечает')], 'verbatim'),
+    ('kostya', 'Как я должен был поступить?', 'How was I supposed to act?', [(190, 'Как я должен был поступить?')], 'verbatim'),
     ('kostya', 'Слушай меня как хороший юрист.', 'Listen to me as a good lawyer.', [(191, 'Слушай меня'), (191, 'юрист')], 'adapted'),
     ('kostya', 'Формально, да, ты её парень.', 'Formally, yes, you are her boyfriend.', [(192, 'Формально, да. Ты ее парень')], 'verbatim'),
     ('kostya', 'Но юридически ты ей никто.', 'But legally you are nobody to her.', [(193, 'Но юридически ты ей никто')], 'verbatim'),
     ('kostya', 'Но один выход точно есть.', 'But there is definitely one solution.', [(200, 'Но выход есть')], 'adapted'),
     ('kostya', 'Тебе надо на ней жениться.', 'You need to marry her.', [(201, 'Жениться')], 'adapted'),
     ('kostya', 'Ты же любишь Катю.', 'You love Katya, after all.', [(203, 'Ты же любишь Катю')], 'verbatim'),
-    ('chef', 'Рабочий день уже начался!', 'The workday has already started!', [(207, 'Рабочий день уже начался!')], 'verbatim'),
+    ('kostya', 'Рабочий день уже начался!', 'The workday has already started!', [(207, 'Рабочий день уже начался!')], 'verbatim'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Kostya's legal consultation at the bar. Notice how Russian uses the verb 'to get married' specifically for a man proposing to a woman. See you next time."
-CLOSING = ('anya', 'Я действительно очень люблю Катю.')
+OUTRO = "And that finishes Kostya's legal consultation at the bar. Notice how Russian uses the verb 'to get married' specifically for a man proposing to a woman. See you next time!"
+CLOSING = ("kostya", "Всего хорошего!")

@@ -1,50 +1,46 @@
-ID = "kukhnya-s01e19-scene-08"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e19-scene-08.
+ID = 'kukhnya-s01e19-scene-08'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 19
 SCENE = 8
 TITLE = "Новый план  (The New Plan)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "guest": "anja", "max": "angelina"}
-LABELS = {"anya": "Вика", "guest": "Гость", "max": "Макс"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.19"
-SOURCE_FILE = "sources/kukhnya/s01/e19.ru.dual.srt"
-SOURCE_NOTE = ""
-
-INTRO = "In this scene focused on the new plan, the characters discuss their situation. Don't worry. Let's listen closely to Vika and a restaurant guest's exchange in Russian first, and then walk through each line together."
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "anya": "alisa"}
+LABELS = {"kostya": "Костя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
+SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
+INTRO = "At the bar, Kostya tries to cheer up Max after Victoria receives a huge bouquet of roses from another man. When Kostya quotes a poetic line about boats and the ocean, Max realizes Kostya read it from Nastya's online status. Let's listen in Russian first."
+OPENER = "Let's walk through Kostya and Max's bar conversation line by line."
+TRANSITION = "Now let's hear the whole scene once more from start to finish."
+OUTRO = "Kostya's attempt to comfort Max with a quote from Nastya's online status leaves both friends wondering about their relationships. See you next time!"
+CLOSING = ("kostya", "До встречи!")
 STORY = [
-    ('max', 'Вика, привет.', 'Vika, hi.', [], ''),
-    ('anya', 'Привет, Макс.', 'Hi, Max.', [], ''),
-    ('max', 'Как дела на работе?', 'How are things at work?', [], ''),
-    ('anya', 'Всё как обычно.', 'Everything is as usual.', [], ''),
-    ('anya', 'Какой приятный вечер 0.', 'What a pleasant evening 0.', [], ''),
-    ('anya', 'Какой приятный вечер 1.', 'What a pleasant evening 1.', [], ''),
-    ('anya', 'Какой приятный вечер 2.', 'What a pleasant evening 2.', [], ''),
-    ('anya', 'Какой приятный вечер 3.', 'What a pleasant evening 3.', [], ''),
-    ('anya', 'Какой приятный вечер 4.', 'What a pleasant evening 4.', [], ''),
-    ('anya', 'Какой приятный вечер 5.', 'What a pleasant evening 5.', [], ''),
-    ('anya', 'Какой приятный вечер 6.', 'What a pleasant evening 6.', [], ''),
-    ('anya', 'Какой приятный вечер 7.', 'What a pleasant evening 7.', [], '')
+    ('kostya', 'Макс, ты только не переживай.', 'Max, just do not worry.', [(174, 'Ты только не переживай')], ''),
+    ('anya', 'А как тут не переживать?', 'And how can I not worry here?', [], ''),
+    ('anya', 'Ты видел этот огромный букет?', 'Did you see that huge bouquet?', [], ''),
+    ('kostya', 'Размер букета совсем не важен.', 'The size of the bouquet is not important at all.', [], ''),
+    ('kostya', 'Главное — это не размер лодки.', 'The main thing is not the size of the boat.', [(175, 'Главное же, это не размер лодки')], ''),
+    ('kostya', 'Главное — это волнение океана.', 'The main thing is the swell of the ocean.', [(175, 'волнение океана')], ''),
+    ('anya', 'Подожди, откуда такие красивые слова?', 'Wait, where are such beautiful words from?', [], ''),
+    ('anya', 'Ты что, чей-то статус в интернете прочитал?', "Did you read someone's status on the internet?", [(176, 'Ты что, чей-то статус в интернете прочитал?')], ''),
+    ('kostya', 'Да, это Настин новый статус.', "Yes, it is Nastya's new status.", [(177, 'Настин')], ''),
+    ('kostya', 'Она написала это сегодня утром.', 'She wrote it this morning.', [], ''),
+    ('kostya', 'Интересно, о чём это она?', 'I wonder what she is hinting at?', [(178, 'Интересно, о чем')], ''),
+    ('anya', 'Наверное, она пишет про ваши отношения.', 'Probably she is writing about your relationship.', [], ''),
 ]
-
-OPENER = "Let's go through it line by line. Pay close attention to the grammar and vocabulary."
 WALK = [
-    (0, None, "'Vika, hi.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Vika' straight to 'hi'."),
-    (1, None, "'Hi, Max.' Notice the word order: 'hi' comes first, and 'Max' finishes the sentence."),
-    (2, None, "'How are things at work?' In Russian, 'how' leads into 'work' in a very natural everyday phrasing. Then Vika replies."),
-    (3, None, "'Everything is as usual.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'how' straight to 'usually'."),
-    (4, None, "'What a pleasant evening 0.' Notice the word order: 'nice' comes first, and 'zero' finishes the sentence."),
-    (5, None, "'What a pleasant evening 1.' Vika starts with 'nice' and pairs it with 'evening' to make the point clear."),
-    (6, None, "'What a pleasant evening 2.' Vika puts 'nice' up front so the listener immediately catches the tone, followed by 'evening'."),
-    (7, None, "'What a pleasant evening 3.' Listen for the word meaning 'nice' right alongside 'evening' in this line."),
-    (8, None, "'What a pleasant evening 4.' The question word for 'what a' comes right at the start, followed directly by 'four'."),
-    (9, None, "'What a pleasant evening 5.' The key word here means 'nice', which Vika combines with 'evening'."),
-    (10, None, "'What a pleasant evening 6.' The first content word means 'nice', and 'six' rounds out the thought."),
-    (11, None, "'What a pleasant evening 7.' A compact expression built around 'nice' and 'seven'.")
+    (0, None, "'Max, just do not worry.' Kostya tries to comfort his friend after the flower incident."),
+    (1, None, "'And how can I not worry here?' Max cannot hide his frustration over Victoria's wealthy admirer."),
+    (2, None, "'Did you see that huge bouquet?' He points out the giant roses that just arrived."),
+    (3, None, "'The size of the bouquet is not important at all.' Kostya insists that grand gifts are not everything."),
+    (4, None, "'The main thing is not the size of the boat.' Kostya recites the first half of a philosophical quote."),
+    (5, None, "'The main thing is the swell of the ocean.' He finishes the metaphor about passion and feelings."),
+    (6, None, "'Wait, where are such beautiful words from?' Max is suspicious of Kostya's sudden poetry."),
+    (7, None, "'Did you read someone's status on the internet?' Max immediately guesses where the quote came from."),
+    (8, None, "'Yes, it is Nastya's new status.' Kostya admits he read it on Nastya's social media page."),
+    (9, None, "'She wrote it this morning.' He mentions when the post appeared."),
+    (10, None, "'I wonder what she is hinting at?' Literally 'interesting, about what is she?', a natural way to say 'I wonder what she means'."),
+    (11, None, "'Probably she is writing about your relationship.' Max leaves Kostya with a new worry of his own."),
 ]
-
-TRANSITION = "Now let's hear the whole scene once more, start to finish."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the new plan, and for the words meaning 'things' and 'work'. You'll catch them now. See you next time."
-CLOSING = ("anya", "Всё как обычно.")

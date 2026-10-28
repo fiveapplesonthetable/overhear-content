@@ -19,7 +19,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Аня | Здравствуйте, Дмитрий Владимирович. | Hello, Dmitry Vladimirovich. | #68 00:05:42: Здравствуйте, Дмитрий Владимирович | verbatim |
 | 8 | Нагиев | Что ли? | Is that right? | #69 00:05:45: что ли | verbatim |
 | 9 | Кристина | Знали, что у нас с Кристиной проблемы. | They found out that Kristina and I are having problems. | #72 00:05:56: Знали, что у нас с Кристиной проблемы | verbatim |
-| 10 | Аня | А, сволочи. | Oh, the bastards. | #73 00:05:59: А, сволочи | verbatim |
+| 10 | Аня | Ах, какие хитрые люди! | Oh, what cunning people! | #73 00:05:59: А | adapted: adapted |
 | 11 | Нагиев | В смысле, вот уроды. | I mean, what creeps. | #75 00:06:03: В смысле, вот уроды | verbatim |
 | 12 | Кристина | Я говорю. | That is what I am saying. | #78 00:06:14: Я говорю | verbatim |
 | 13 | Аня | Чтобы парни убрали. | Have the guys get rid of him. | #79 00:06:20: чтобы парни убрали | verbatim |
@@ -30,12 +30,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The guest is thrilled with your vegetarian rolls.' Dmitry anchors the line on 'guest', while 'little roll' completes the thought.
 - 'Well, I should think so.' In Russian, the idea of 'come on' flows naturally into 'would' without extra filler words.
 - 'After all, any vegetarian dish tastes better with meat.' Here the Russian phrasing highlights 'you know' before landing on 'meat'. Dmitry answers right away.
-- 'And do you know what.' The grammar packs 'and' and 'know' into a tight, idiomatic kitchen exchange.
+- 'And do you know what.' Spoken Russian keeps this brief and expressive, built right around 'know' without extra helper words.
 - 'He paid the price for mushroom rolls.' Kristina brings out the contrast between 'to pay' and 'behind' in a few short words.
 - 'Hello, Dmitry Vladimirovich.' Max brings out the contrast between 'hello' and 'Dmitry' in a few short words. Dmitry answers right away.
 - 'Is that right?' In Russian, the idea of 'what' flows naturally into 'really' without extra filler words.
 - 'They found out that Kristina and I are having problems.' In Russian, the idea of 'to know' flows naturally into 'problems' without extra filler words.
-- 'Oh, the bastards.' Max anchors the line on 'and', while 'scoundrels' completes the thought. Dmitry answers right away.
+- 'Oh, what cunning people!' Here Max anchors the thought on 'clever' and finishes on 'people', keeping the spoken rhythm brisk and natural.
 - 'I mean, what creeps.' In Russian, the idea of 'sense' flows naturally into 'freak' without extra filler words.
 - 'That is what I am saying.' Here the Russian phrasing highlights 'I' before landing on 'say'.
 - 'Have the guys get rid of him.' The plural past ending '-li' on the verb for 'removed' covers a group or the polite 'you'.

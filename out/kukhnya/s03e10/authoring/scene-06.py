@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e10-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 10
 SCENE = 6
-TITLE = 'Катя приглашает Макса  (Katya Invites Max)'
+TITLE = "Катя приглашает Макса  (Katya Invites Max)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'lyova': 'Лёва', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "anya": "alisa"}
+LABELS = {"lyova": "Лёва", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.10'
 SOURCE_FILE = 'sources/kukhnya/s03/e10.ru.srt'
 
 INTRO = "Following Max's instructions, Lyova tries to charm Katya and strikes out immediately. While Max comforts Lyova, Katya walks right over and invites Max out for coffee in front of him!"
@@ -16,10 +16,10 @@ INTRO = "Following Max's instructions, Lyova tries to charm Katya and strikes ou
 STORY = [
     ('anya', 'Не расстраивайся, ну не получилось сегодня.', 'Do not be upset, so it did not work out today.', [(88, 'Не расстраивайся. Ну попробую, не получилось')], 'adapted'),
     ('anya', 'Может, ещё не всё потеряно?', 'Maybe not everything is lost yet?', [(89, 'Может еще не все потеряно')], 'adapted'),
-    ('katya', 'Привет, Макс, я хотела тебе сказать.', 'Hi, Max, I wanted to tell you something.', [(90, 'Привет'), (91, 'Слушай, Макс, я хотела тебе сказать')], 'adapted'),
-    ('katya', 'Может, пойдём вечером кофе попьём?', 'Maybe we could go have some coffee tonight?', [(91, 'может пойдем вечером кофе попьем')], 'adapted'),
+    ('lyova', 'Привет, Макс, я хотела тебе сказать.', 'Hi, Max, I wanted to tell you something.', [(90, 'Привет'), (91, 'Слушай, Макс, я хотела тебе сказать')], 'adapted'),
+    ('lyova', 'Может, пойдём вечером кофе попьём?', 'Maybe we could go have some coffee tonight?', [(91, 'может пойдем вечером кофе попьем')], 'adapted'),
     ('anya', 'Привет, чего? Кофе вечером попьём?', 'Hi, what? Have coffee tonight?', [(92, 'Привет. Чего?')], 'adapted'),
-    ('katya', 'Да, вот мы и договорились.', 'Yes, then it is settled between us.', [(93, 'Вот и договорились')], 'adapted'),
+    ('lyova', 'Да, вот мы и договорились.', 'Yes, then it is settled between us.', [(93, 'Вот и договорились')], 'adapted'),
     ('lyova', 'Я вообще ничего теперь не понимаю.', 'I do not understand anything at all now.', [(94, 'Я ничего не понимаю')], 'adapted'),
     ('lyova', 'Я же всё сделал по рецепту.', 'I did everything according to your recipe.', [(95, 'Я же все сделал по твоему рецепту')], 'adapted'),
     ('lyova', 'Ты ничего не делал, а она с тобой.', 'You did nothing at all, and she is going with you.', [(96, 'А ты вообще ничего, а она с тобой')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Poor Lyova is crushed when Katya asks Max out instead of him. Thinking fast, Max promises to hand his coffee date with Katya right over to Lyova.'
-CLOSING = ('katya', 'Может, пойдём вечером кофе попьём?')
+OUTRO = 'Poor Lyova is crushed when Katya asks Max out instead of him. Thinking fast, Max promises to hand his coffee date with Katya right over to Lyova. See you next time!'
+CLOSING = ("lyova", "До свидания!")

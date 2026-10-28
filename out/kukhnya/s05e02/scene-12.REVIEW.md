@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Несите ему лучше хороший стейк. | Better bring him a good steak. | #133 00:13:12: лучше стейк | adapted: adapted |
-| 2 | Шеф | Наш тайный гость уже не хочет стейка. | Our secret guest no longer wants steak. | #134 00:13:40: не хочет стейка | adapted: adapted |
-| 3 | Шеф | Он просит какой-нибудь вкусный десерт. | He is asking for some delicious dessert. | #135 00:13:43: Он просит какой-нибудь десерт | adapted: adapted |
-| 4 | Костя | Ты собираешься ей признаваться? | Are you going to confess to her? | #136 00:14:12: Ты собираешься признаваться? | adapted: adapted |
-| 5 | Шеф | Гость хочет какой-нибудь лёгкий салат. | The guest wants some light salad. | #137 00:14:37: хочет какой-нибудь легкий салат | adapted: adapted |
-| 6 | Шеф | И просит, чтобы ему поменяли шторы. | And he asks for his curtains to be changed. | #138 00:14:40: И просит, чтобы ему поменяли шторы | adapted: verbatim |
-| 7 | Шеф | Ему мешает фонарь с улицы. | The streetlight outside is bothering him. | #139 00:14:42: Ему мешает фонарь с улицы | adapted: verbatim |
-| 8 | Аня | Катя, я должен тебе во всём признаться. | Katya, I must confess everything to you. | #143 00:15:18: я должен тебе во всем признаться | adapted: verbatim |
-| 9 | Аня | В ту ночь мы с тобой расстались. | On that night you and I broke up. | #144 00:15:22: В ту ночь, когда мы с тобой расстались | adapted: adapted |
-| 10 | Аня | Я тогда напился и изменил тебе. | I got drunk back then and cheated on you. | #144 00:15:22: я напился и изменил | adapted: adapted |
-| 11 | Аня | Я знаю, что ты этого не простишь. | I know that you will not forgive this. | #145 00:15:30: Я знаю, что ты никогда этого не простишь | adapted: adapted |
-| 12 | Аня | Даже если простишь, то никогда не забудешь. | Even if you forgive, you will never forget it. | #146 00:15:34: Даже если простишь, то никогда этого не забудешь | adapted: adapted |
-| 13 | Аня | Я очень об этом сожалею. | I regret this very deeply. | #148 00:15:39: Я очень об этом сожалею | adapted: verbatim |
+| 1 | Денис | Несите ему лучше хороший стейк. | Better bring him a good steak. | #133 00:13:12: лучше стейк | adapted: adapted |
+| 2 | Денис | Наш тайный гость уже не хочет стейка. | Our secret guest no longer wants steak. | #134 00:13:40: не хочет стейка | adapted: adapted |
+| 3 | Денис | Он просит какой-нибудь вкусный десерт. | He is asking for some delicious dessert. | #135 00:13:43: Он просит какой-нибудь десерт | adapted: adapted |
+| 4 | Денис | Ты собираешься ей признаваться? | Are you going to confess to her? | #136 00:14:12: Ты собираешься признаваться? | adapted: adapted |
+| 5 | Денис | Гость хочет какой-нибудь лёгкий салат. | The guest wants some light salad. | #137 00:14:37: хочет какой-нибудь легкий салат | adapted: adapted |
+| 6 | Денис | И просит, чтобы ему поменяли шторы. | And he asks for his curtains to be changed. | #138 00:14:40: И просит, чтобы ему поменяли шторы | adapted: verbatim |
+| 7 | Денис | Ему мешает фонарь с улицы. | The streetlight outside is bothering him. | #139 00:14:42: Ему мешает фонарь с улицы | adapted: verbatim |
+| 8 | Денис | Катя, я должен тебе во всём признаться. | Katya, I must confess everything to you. | #143 00:15:18: я должен тебе во всем признаться | adapted: verbatim |
+| 9 | Денис | В ту ночь мы с тобой расстались. | On that night you and I broke up. | #144 00:15:22: В ту ночь, когда мы с тобой расстались | adapted: adapted |
+| 10 | Денис | Я тогда напился и изменил тебе. | I got drunk back then and cheated on you. | #144 00:15:22: я напился и изменил | adapted: adapted |
+| 11 | Денис | Я знаю, что ты этого не простишь. | I know that you will not forgive this. | #145 00:15:30: Я знаю, что ты никогда этого не простишь | adapted: adapted |
+| 12 | Денис | Даже если простишь, то никогда не забудешь. | Even if you forgive, you will never forget it. | #146 00:15:34: Даже если простишь, то никогда этого не забудешь | adapted: adapted |
+| 13 | Денис | Я очень об этом сожалею. | I regret this very deeply. | #148 00:15:39: Я очень об этом сожалею | adapted: verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e15-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 15
 SCENE = 9
-TITLE = 'Мечта о Карелии и отмена меню  (Dream of Karelia and Canceling the Menu)'
+TITLE = "Мечта о Карелии и отмена меню  (Dream of Karelia and Canceling the Menu)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'guest': 'anja', 'eleonora': 'angelina'}
-LABELS = {'anya': 'Шеф', 'guest': 'Гость', 'eleonora': 'Элеонора'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "eleonora": "angelina"}
+LABELS = {"guest": "Гость", "eleonora": "Элеонора"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.15'
 SOURCE_FILE = 'sources/kukhnya/s05/e15.ru.srt'
 
 INTRO = 'At the bar, Gennady tells Chef Barinov that his dream is three hundred thousand rubles to go paint in Karelia, while Eleonora thanks Vika for playing along earlier and says they do not actually need an edible menu.'
@@ -17,9 +17,9 @@ STORY = [
     ('guest', 'Вы знаете, Виктор, у меня сейчас ничего нет.', 'You know, Viktor, I have nothing right now.', [(162, 'Вы знаете, у меня ничего нет')], 'adapted'),
     ('guest', 'Нет ни любимой жены, ни верных друзей.', 'I have neither a beloved wife nor loyal friends.', [(163, 'Ни жены, ни друзей')], 'adapted'),
     ('guest', 'Но зато у меня есть одна большая мечта.', 'But on the other hand I have one big dream.', [(164, 'Но у меня есть мечта')], 'adapted'),
-    ('anya', 'Очень интересно, и какая же у вас мечта?', 'Very interesting, and what kind of dream do you have?', [(165, 'Интересно')], 'adapted'),
+    ('guest', 'Очень интересно, и какая же у вас мечта?', 'Very interesting, and what kind of dream do you have?', [(165, 'Интересно')], 'adapted'),
     ('guest', 'Триста тысяч рублей — вот моя светлая мечта!', 'Three hundred thousand rubles—that is my bright dream!', [(165, 'Триста тысяч')], 'adapted'),
-    ('anya', 'Какая чёткая и весьма дорогая у вас мечта!', 'What a precise and rather expensive dream you have!', [(166, 'Какая четкая и')], 'adapted'),
+    ('guest', 'Какая чёткая и весьма дорогая у вас мечта!', 'What a precise and rather expensive dream you have!', [(166, 'Какая четкая и')], 'adapted'),
     ('guest', 'Завтра я уезжаю на север писать новые картины.', 'Tomorrow I am leaving for the north to paint new pictures.', [(169, 'Завтра я уезжаю в')], 'adapted'),
     ('guest', 'И на первое время мне очень нужны деньги.', 'And for the beginning I really need money.', [(170, 'И на первое время мне нужны деньги')], 'adapted'),
     ('eleonora', 'Виктория, я хотела сказать вам большое спасибо.', 'Victoria, I wanted to say thank you very much.', [(172, 'Виктория, я хотела сказать спасибо')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Chef Barinov goes to fetch the cash for Gennady, only for the artist to have a sudden change of heart. See you in the next scene.'
-CLOSING = ('guest', 'У меня есть большая мечта.')
+OUTRO = 'Chef Barinov goes to fetch the cash for Gennady, only for the artist to have a sudden change of heart. Until next time!'
+CLOSING = ("guest", "До завтра!")

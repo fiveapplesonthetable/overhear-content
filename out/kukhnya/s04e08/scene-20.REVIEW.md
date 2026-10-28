@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom said that Denis is simply my childhood friend.' Genitive singular 'of childhood' modifies the masculine noun 'friend'.
-- 'After all, he and I grew up in the same courtyard.' Plural past verb 'grew up' pairs with the prepositional phrase 'in one courtyard'.
+- 'Mom said that Denis is simply my childhood friend.' Max pairs 'mom' with 'childhood' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'After all, he and I grew up in the same courtyard.' Notice how Russian puts 'grew up' and 'yard, courtyard' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Wait, so that means he is simply your childhood friend?' Vika realizes that the entire half-brother story was another one of Max's lies.
-- 'Vika, well he really is just like a brother to me!' Dative pronoun 'to me' accompanies the comparison 'like a brother'.
-- 'So you were brazenly lying to me this whole time?' Accusative duration phrase 'all this time' underscores how long the deception lasted.
+- 'Vika, well he really is just like a brother to me!' In everyday Russian, 'really' flows straight into 'brother' without extra linking words.
+- 'So you were brazenly lying to me this whole time?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question.
 - 'Vika, please forgive me that it turned out this way.' Denis apologizes for inadvertently triggering the revelation.
-- 'Simply if I had not lied, you would have kicked him out.' Subjunctive particles in both clauses express a counterfactual past condition.
+- 'Simply if I had not lied, you would have kicked him out.' Here Max anchors the thought on 'simply, just' and finishes on 'kicked out, evicted', keeping the spoken rhythm brisk and natural.
 - 'Be quiet, I do not even want to hear you anymore!' Furious at Max's endless fibs, Vika walks out of the room.
 - 'Elena told Chef that they are far too different people.' Meanwhile at the restaurant, Elena bids farewell to a heartbroken Viktor Barinov.
-- 'She needs to leave so as not to torment anyone.' Purpose clause with 'in order not to' takes the infinitive 'to torment'.
-- 'Just what makes people lie so foolishly?' Present-tense verb 'compels/makes' governs the accusative 'people' and infinitive 'to lie'.
+- 'She needs to leave so as not to torment anyone.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
+- 'Just what makes people lie so foolishly?' Here Max anchors the thought on 'forces, makes' and finishes on 'to lie', keeping the spoken rhythm brisk and natural.
 - 'Only people hurt the ones whom they love deeply.' Literally 'make painful to those whom they love', closing the episode on a poignant note.

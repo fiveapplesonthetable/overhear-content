@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сеня, зайди ко мне в кабинет на минутку. | Senya, come into my office for a minute. | #141 00:10:33: Сеня, зайди на минутку | adapted: adapted |
-| 2 | Аня | Вот, я придумал новый соус, попробуй скорее. | Here, I invented a new sauce, taste it quickly. | #142 00:10:36: Вот, придумал новый соус<br>#143 00:10:40: Попробуй | adapted: adapted |
+| 1 | Шеф | Сеня, зайди ко мне в кабинет на минутку. | Senya, come into my office for a minute. | #141 00:10:33: Сеня, зайди на минутку | adapted: adapted |
+| 2 | Шеф | Вот, я придумал новый соус, попробуй скорее. | Here, I invented a new sauce, taste it quickly. | #142 00:10:36: Вот, придумал новый соус<br>#143 00:10:40: Попробуй | adapted: adapted |
 | 3 | Сеня | Большое спасибо, что вы именно мне доверяете. | Thank you very much for trusting me specifically. | #144 00:10:42: Спасибо, что именно мне доверяете | adapted: adapted |
-| 4 | Аня | Осторожно, соус горячий, сразу выводы не делай. | Careful, the sauce is hot, do not jump to conclusions right away. | #146 00:10:46: Горячо<br>#147 00:10:52: И сразу выводы не делай | adapted: adapted |
-| 5 | Аня | Подожди немного, ведь тут очень важно послевкусие. | Wait a little, because the aftertaste is very important here. | #149 00:10:57: Тут важно послевкусие | adapted: adapted |
-| 6 | Аня | Ну как тебе мой новый соус, Сеня? | Well how do you like my new sauce, Senya? | #151 00:11:07: Ну как, соус, Сеня | adapted: adapted |
+| 4 | Шеф | Осторожно, соус горячий, сразу выводы не делай. | Careful, the sauce is hot, do not jump to conclusions right away. | #146 00:10:46: Горячо<br>#147 00:10:52: И сразу выводы не делай | adapted: adapted |
+| 5 | Шеф | Подожди немного, ведь тут очень важно послевкусие. | Wait a little, because the aftertaste is very important here. | #149 00:10:57: Тут важно послевкусие | adapted: adapted |
+| 6 | Шеф | Ну как тебе мой новый соус, Сеня? | Well how do you like my new sauce, Senya? | #151 00:11:07: Ну как, соус, Сеня | adapted: adapted |
 | 7 | Сеня | Честно говоря, совсем невкусный этот ваш новый соус. | Honestly speaking, this new sauce of yours is not tasty at all. | #152 00:11:10: Ну, честно говоря, такая фигня, это ваш соус | adapted: adapted |
 | 8 | Сеня | Здесь шалфея слишком много, просто невозможно есть. | There is too much sage here, it is simply impossible to eat. | #153 00:11:13: Шалфея много | adapted: adapted |
 | 9 | Сеня | Такую ерунду вы иногда готовите на кухне, шеф! | Such nonsense you sometimes cook in the kitchen, chef! | #153 00:11:13: готовите иногда, шеф | adapted: adapted |
-| 10 | Аня | Интересно, раньше ты мне этого никогда не говорил. | Interesting, you never said that to me before. | #155 00:11:19: Раньше ты мне этого не говорил | adapted: adapted |
+| 10 | Шеф | Интересно, раньше ты мне этого никогда не говорил. | Interesting, you never said that to me before. | #155 00:11:19: Раньше ты мне этого не говорил | adapted: adapted |
 | 11 | Сеня | Даже не знаю, что это вдруг нашло на меня. | I do not even know what suddenly came over me. | #156 00:11:24: Ну, даже не знаю<br>#157 00:11:26: Нашло на меня | adapted: adapted |
 | 12 | Сеня | Наверное, просто внутри накопилось, ладно, я пойду работать. | Probably it just built up inside, alright, I will go work. | #158 00:11:28: Накопилось, наверное, я пойду | adapted: adapted |
 

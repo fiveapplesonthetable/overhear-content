@@ -20,7 +20,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Инспектор | С сегодняшнего дня в нашем ресторане новый директор. | Starting today, there is a new director in our restaurant. | #294 00:22:39: С сегодняшнего дня в нашем ресторане новый директор | adapted: adapted |
 | 9 | Инспектор | А вот как раз и она идёт сюда. | And here she comes walking right this way. | #296 00:22:50: вот и она | adapted: adapted |
 | 10 | Инспектор | Прошу любить и уважать — Виктория Сергеевна! | Please welcome and respect—Viktoriya Sergeyevna! | #297 00:22:54: Прошу любить и жаловать Виктория Сергеевна | adapted: adapted |
-| 11 | Вика | Здравствуйте, я новый директор ресторана «Клод Моне». | Hello, I am the new director of the Claude Monet restaurant. | #298 00:22:57: Новый директор Клод Мане | adapted: adapted |
+| 11 | Инспектор | Здравствуйте, я новый директор ресторана «Клод Моне». | Hello, I am the new director of the Claude Monet restaurant. | #298 00:22:57: Новый директор Клод Мане | adapted: adapted |
 | 12 | Аня | Пока мы думаем, появляются совсем новые обстоятельства. | While we are thinking, completely new circumstances appear. | #299 00:23:04: И пока мы думаем, появляются новые обстоятельства | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And here she comes walking right this way.' The meaning hinges on 'and' working together with 'is coming' in spoken Russian.
 - 'Please welcome and respect—Viktoriya Sergeyevna!' Here the Russian phrasing highlights 'ask for' before landing on 'respect'.
 - 'Hello, I am the new director of the Claude Monet restaurant.' Spoken Russian keeps this brisk, leaning on 'hello' and finishing on '»'.
-- 'While we are thinking, completely new circumstances appear.' Notice the reflexive suffix on the verb meaning 'to appear', turning the action back on the subject.
+- 'While we are thinking, completely new circumstances appear.' Here Max anchors the thought on 'for now' and finishes on 'circumstances', keeping the spoken rhythm brisk and natural.

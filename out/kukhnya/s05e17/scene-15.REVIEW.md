@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Михаил | Витя, а я уже с Нагиевым дрался? | Vitya, did I already fight with Nagiyev? | #287 00:17:48: Витя<br>#288 00:17:51: с Нагеевым дрался | adapted: adapted |
-| 2 | Аня | Нет, ты ещё ни с кем не дрался. | No, you have not fought with anyone yet. | #289 00:17:53: Нет | adapted: adapted |
-| 3 | Михаил | Почему тогда у меня лицо болит? | Why does my face hurt so much then? | #289 00:17:53: Почему у меня так лицо болит | adapted: adapted |
-| 4 | Аня | Не знаю, отлежал, пока спал. | I do not know, you slept on it awkwardly. | #290 00:17:56: Не знаю. Отлежал, пока спал | adapted: adapted |
-| 5 | Михаил | Ой, голова у меня очень тяжёлая. | Oh, my head is very heavy. | #291 00:17:58: Голова тяжелая | adapted: adapted |
-| 6 | Аня | Когда я получу обещанные поцелуи? | When can I get the promised kisses? | #294 00:18:15: Когда я могу получить обещанные поцелуи | adapted: adapted |
+| 1 | Шеф | Витя, а я уже с Нагиевым дрался? | Vitya, did I already fight with Nagiyev? | #287 00:17:48: Витя<br>#288 00:17:51: с Нагеевым дрался | adapted: adapted |
+| 2 | Шеф | Нет, ты ещё ни с кем не дрался. | No, you have not fought with anyone yet. | #289 00:17:53: Нет | adapted: adapted |
+| 3 | Шеф | Почему тогда у меня лицо болит? | Why does my face hurt so much then? | #289 00:17:53: Почему у меня так лицо болит | adapted: adapted |
+| 4 | Шеф | Не знаю, отлежал, пока спал. | I do not know, you slept on it awkwardly. | #290 00:17:56: Не знаю. Отлежал, пока спал | adapted: adapted |
+| 5 | Шеф | Ой, голова у меня очень тяжёлая. | Oh, my head is very heavy. | #291 00:17:58: Голова тяжелая | adapted: adapted |
+| 6 | Шеф | Когда я получу обещанные поцелуи? | When can I get the promised kisses? | #294 00:18:15: Когда я могу получить обещанные поцелуи | adapted: adapted |
 | 7 | Катя | А сколько всего я тебе должна? | And how many in total do I owe you? | #295 00:18:18: А сколько я должна | adapted: adapted |
-| 8 | Аня | Давай начнём хотя бы с одного. | Let's start with at least one. | #296 00:18:20: давай начнем хотя бы с одного | adapted: adapted |
-| 9 | Аня | Ой, это же машина Элеоноры! | Oh, that is Eleonora's car! | #297 00:18:26: тачка | adapted: adapted |
+| 8 | Шеф | Давай начнём хотя бы с одного. | Let's start with at least one. | #296 00:18:20: давай начнем хотя бы с одного | adapted: adapted |
+| 9 | Шеф | Ой, это же машина Элеоноры! | Oh, that is Eleonora's car! | #297 00:18:26: тачка | adapted: adapted |
 | 10 | Катя | Это же папина и мамина машина! | That is Dad's and Mom's car! | #297 00:18:26: тачка | adapted: adapted |
-| 11 | Аня | Она меня теперь точно уволит. | She will definitely fire me now. | #298 00:18:28: Ведь она меня | adapted: adapted |
+| 11 | Шеф | Она меня теперь точно уволит. | She will definitely fire me now. | #298 00:18:28: Ведь она меня | adapted: adapted |
 | 12 | Катя | Что же нам теперь делать? | What are we going to do now? | #293 00:18:01: Ну что | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

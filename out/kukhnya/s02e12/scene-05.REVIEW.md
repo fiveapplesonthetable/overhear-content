@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Вы должны бороться за эту жизнь. | You must fight for this life. | #72 00:05:06: Вы должны бороться за эту жизнь | verbatim |
+| 1 | Сеня | Вы должны бороться за эту жизнь. | You must fight for this life. | #72 00:05:06: Вы должны бороться за эту жизнь | verbatim |
 | 2 | Федя | У вас такая дочь потрясающая. | You have such an amazing daughter. | #73 00:05:10: У вас такая дочь потрясающая | verbatim |
-| 3 | Аня | Ну сделайте это для нее. | Do it for her sake. | #74 00:05:13: Ну сделайте это для нее | verbatim |
+| 3 | Сеня | Ну сделайте это для нее. | Do it for her sake. | #74 00:05:13: Ну сделайте это для нее | verbatim |
 | 4 | Федя | Ну и для меня. | Well, and for mine too. | #75 00:05:15: Ну и для меня | verbatim |
-| 5 | Аня | Я не знаю. | I do not know. | #76 00:05:23: Я не знаю | verbatim |
+| 5 | Сеня | Я не знаю. | I do not know. | #76 00:05:23: Я не знаю | verbatim |
 | 6 | Федя | Я ничего не делала. | I did not do anything. | #77 00:05:25: Я ничего не делала | verbatim |
-| 7 | Аня | Я ничего не пробовала. | I did not taste anything. | #78 00:05:27: Я ничего не пробовала | verbatim |
+| 7 | Сеня | Я ничего не пробовала. | I did not taste anything. | #78 00:05:27: Я ничего не пробовала | verbatim |
 | 8 | Федя | Это вообще, это вообще... | That is just, that is just... | #80 00:05:36: Это вообще, это вообще | verbatim |
-| 9 | Аня | Как можно так врать? | How can anyone lie like that? | #81 00:05:38: Как можно так врать | verbatim |
+| 9 | Сеня | Как можно так врать? | How can anyone lie like that? | #81 00:05:38: Как можно так врать | verbatim |
 | 10 | Федя | Успокойтесь. Успокойтесь. | Calm down. Calm down. | #83 00:05:44: Успокойтесь. Успокойтесь | verbatim |
-| 11 | Аня | Я понимаю. | I understand. | #84 00:05:46: Я понимаю | verbatim |
+| 11 | Сеня | Я понимаю. | I understand. | #84 00:05:46: Я понимаю | verbatim |
 | 12 | Федя | Я не хочу. | I do not want to. | #85 00:05:47: Я не хочу | verbatim |
-| 13 | Аня | Сделай для меня одолжение. | Do me a favor. | #86 00:05:50: сделай для меня одолжение | verbatim |
+| 13 | Сеня | Сделай для меня одолжение. | Do me a favor. | #86 00:05:50: сделай для меня одолжение | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

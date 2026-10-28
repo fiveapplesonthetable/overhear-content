@@ -10,11 +10,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Чё делаешь? Чай пью. | What are you doing? Drinking tea. | #32 00:03:41: Чё делаешь? Чай | adapted: adapted |
-| 2 | Аня | Ну, рассказывай. С Денисом проблемы? | Come on, spill it. Trouble with Denis? | #34 00:03:51: Ну, рассказывай. С | adapted: adapted |
-| 3 | Катя | Нет, с Денисом все нормально. | No, everything is fine with Denis. | #35 00:03:54: Нет, с Денисом | adapted: adapted |
-| 4 | Аня | Да ладно, нормально. Когда было нормально, вас каждую ночь было слышно. | Come on, fine. When things were fine, we could hear the two of you every single night. | #36 00:03:56: Да ладно, нормально | adapted: adapted |
-| 5 | Аня | Так, ну, под чай у нас с тобой разговор не пойдет. | Alright, this conversation is not going to work over plain tea. | #37 00:04:02: Так, ну, под | adapted: adapted |
+| 1 | Настя | Чё делаешь? Чай пью. | What are you doing? Drinking tea. | #32 00:03:41: Чё делаешь? Чай | adapted: adapted |
+| 2 | Настя | Ну, рассказывай. С Денисом проблемы? | Come on, spill it. Trouble with Denis? | #34 00:03:51: Ну, рассказывай. С | adapted: adapted |
+| 3 | Настя | Нет, с Денисом все нормально. | No, everything is fine with Denis. | #35 00:03:54: Нет, с Денисом | adapted: adapted |
+| 4 | Настя | Да ладно, нормально. Когда было нормально, вас каждую ночь было слышно. | Come on, fine. When things were fine, we could hear the two of you every single night. | #36 00:03:56: Да ладно, нормально | adapted: adapted |
+| 5 | Настя | Так, ну, под чай у нас с тобой разговор не пойдет. | Alright, this conversation is not going to work over plain tea. | #37 00:04:02: Так, ну, под | adapted: adapted |
 | 6 | Шеф | Лен, я очень рад, что ты позвонила. | Lena, I am really glad you called. | #41 00:04:18: Лен, я очень | adapted: adapted |
 | 7 | Шеф | А что, заехала не рад? А что заехала, так просто счастлив. | And you are not glad I stopped by? That you stopped by makes me downright thrilled. | #42 00:04:21: А что, заехала | adapted: adapted |
 | 8 | Шеф | У меня тут шальная мысль мелькнула. | A crazy thought just flashed through my mind. | #43 00:04:24: У меня тут | adapted: adapted |
@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'A crazy thought just flashed through my mind.' Chef Barinov brings out the contrast between 'at' and 'me' in a few short words.
 - 'Why don't we try starting things over from the beginning?' Chef Barinov raises the pitch on 'business' to turn the phrase into a direct spoken question.
 - 'Secondly, you are never going to change anyway.' Spoken Russian keeps this brisk, leaning on 'second' and finishing on 'you will change'.
-- 'I have already changed.' Notice the reflexive suffix on the verb meaning 'changed', turning the action back on the subject.
+- 'I have already changed.' Notice how Russian puts 'already' and 'changed' together in a short, direct phrase where word endings show how the ideas connect.
 - 'At least give me a chance to invite you on a date.' The grammar packs 'come on' and 'date' into a tight, idiomatic kitchen exchange.
 - 'Fine. Let us have a date.' Here the Russian phrasing highlights 'all right' before landing on 'date'.
 - 'Tomorrow right here in the restaurant.' Chef Barinov brings out the contrast between 'tomorrow' and 'here' in a few short words.

@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e11-scene-09"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e11-scene-09'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 11
 SCENE = 9
-TITLE = 'Тайный перекур и заказ куропаток  (A Secret Smoke Break and Ordering Partridges)'
+TITLE = "Тайный перекур и заказ куропаток  (A Secret Smoke Break and Ordering Partridges)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.11"
-SOURCE_FILE = "sources/kukhnya/s02/e11.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.11'
+SOURCE_FILE = 'sources/kukhnya/s02/e11.ru.srt'
 
 INTRO = "At the hospital, Chef Barinov sneaks a forbidden cigarette until a sudden wave of dizziness proves his neighbor right about following doctors' orders. Back at Claude Monet, Max lures Nastya toward the walk-in refrigerator by claiming he urgently needs four partridges."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 9 of Episode 11, listen out for the exchange around a secret smoke break and ordering partridges — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Ну, четыре.')
+OUTRO = 'That wraps up this scene as in the hospital, Chef Barinov sneaks a cigarette with his ward neighbor until he gets dizzy, while Max tricks Nastya into entering the walk-in fridge by asking for four partridges. Until next time!'
+CLOSING = ("anya", "До свидания!")

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Это что здесь происходит? | What on earth is going on here? | #113 00:07:12: Это что здесь происходит | verbatim |
+| 1 | Шеф | Это что здесь происходит? | What on earth is going on here? | #113 00:07:12: Это что здесь происходит | verbatim |
 | 2 | Вика | Нет, ты давай, иди в комнату. | No, go on into your room right now. | #114 00:07:13: Нет, ты давай, иди в комнату | verbatim |
-| 3 | Аня | Виктор Петрович, остановитесь. | Viktor Petrovich, stop right there. | #116 00:07:18: Виктор Петрович, остановитесь | verbatim |
+| 3 | Шеф | Виктор Петрович, остановитесь. | Viktor Petrovich, stop right there. | #116 00:07:18: Виктор Петрович, остановитесь | verbatim |
 | 4 | Вика | Фу ты елки, Виктор Петрович, мой… | Good grief, Viktor Petrovich, this is my... | #119 00:07:25: Фу ты елки, Виктор Петрович, мой | verbatim |
-| 5 | Аня | Понятно, ты можешь не продолжать. | I get it, you do not need to finish that sentence. | #120 00:07:28: Понятно, ты можешь не продолжать | verbatim |
+| 5 | Шеф | Понятно, ты можешь не продолжать. | I get it, you do not need to finish that sentence. | #120 00:07:28: Понятно, ты можешь не продолжать | verbatim |
 | 6 | Вика | И что вы с ним здесь? | Wait, what are you doing here with him? | #121 00:07:31: И что вы с ним здесь | verbatim |
-| 7 | Аня | Так, ну-ка прекрати, пожалуйста. | Alright, stop that right now, please. | #122 00:07:32: Так, ну-ка прекрати, пожалуйста | verbatim |
+| 7 | Шеф | Так, ну-ка прекрати, пожалуйста. | Alright, stop that right now, please. | #122 00:07:32: Так, ну-ка прекрати, пожалуйста | verbatim |
 | 8 | Вика | И вообще, почему ты здесь? | And besides, why are you even here? | #123 00:07:35: И вообще, почему ты здесь | verbatim |
-| 9 | Аня | От него, кстати, алкоголем пахнет. | By the way, he smells like alcohol. | #125 00:07:41: От него, кстати, алкоголем пахнет | verbatim |
+| 9 | Шеф | От него, кстати, алкоголем пахнет. | By the way, he smells like alcohol. | #125 00:07:41: От него, кстати, алкоголем пахнет | verbatim |
 | 10 | Вика | Мам, вот только не начинай. | Mom, please do not even start. | #127 00:07:46: Мам, вот только не начинай | verbatim |
-| 11 | Аня | Конечно тебе лучше в армии. | Maybe you really would be better off in the army. | #129 00:07:51: Конечно тебе лучше в армии | verbatim |
+| 11 | Шеф | Конечно тебе лучше в армии. | Maybe you really would be better off in the army. | #129 00:07:51: Конечно тебе лучше в армии | verbatim |
 | 12 | Вика | Иди в комнату. | Go to your room. | #130 00:07:53: Иди в комнату | verbatim |
-| 13 | Аня | Нет, ты видел? | No, did you see that? | #131 00:07:56: Нет, ты видел | verbatim |
+| 13 | Шеф | Нет, ты видел? | No, did you see that? | #131 00:07:56: Нет, ты видел | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

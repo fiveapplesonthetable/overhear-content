@@ -19,7 +19,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Шеф | Лена, прости меня за вчерашнее, неудобно получилось. | Lena, forgive me for yesterday, it turned out awkwardly. | #355 00:23:03: прости меня за вчерашнее, неудобно получилось | adapted: adapted |
 | 8 | Шеф | Ты тоже пойми, я такой, как есть, поздно меняться. | You understand too, I am the way I am, it is too late to change. | #356 00:23:08: я такой, как есть, поздно меняться | adapted: adapted |
 | 9 | Шеф | Ты или принимай меня, или не принимай, тебе решать. | Either accept me or do not accept me, it is up to you to decide. | #357 00:23:11: Ты или принимай меня | adapted: adapted |
-| 10 | Аня | Но изменения в нашей жизни всё равно происходят, хотим мы этого или нет. | But changes in our life happen anyway, whether we want that or not. | #360 00:23:20: Но изменения в нашей жизни все равно происходят, хотим мы этого или нет | adapted: adapted |
+| 10 | Аня | Изменения в нашей жизни происходят, хотим мы этого или нет. | Changes in our life happen whether we want that or not. | #360 00:23:20: изменения в нашей жизни<br>#360 00:23:20: происходят, хотим мы этого или нет | adapted: adapted |
 | 11 | Вика | Доброе утро, ты разве не уволился? | Good morning, did you not quit? | #362 00:23:28: Ты не уволился | adapted: adapted |
 | 12 | Аня | Нет, мы можем принять их или пытаться остаться в прошлом. | No, we can accept them or try to stay in the past. | #364 00:23:42: пытаться остаться в прошлом | adapted: adapted |
 | 13 | Шеф | Лёва, здравствуй, можно мне снова у тебя пожить? | Lyova, hello, may I stay at your place again? | #365 00:23:45: Лёва, можно у тебя пожить | adapted: adapted |
@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Lena, forgive me for yesterday, it turned out awkwardly.' In Russian, the idea of 'Lena' flows naturally into 'turned out' without extra filler words.
 - 'You understand too, I am the way I am, it is too late to change.' The meaning hinges on 'you' working together with 'to change' in spoken Russian.
 - 'Either accept me or do not accept me, it is up to you to decide.' The negative particle sits right before the verb meaning 'accept' to negate the statement.
-- 'But changes in our life happen anyway, whether we want that or not.' Max anchors the line on 'but', while 'no' completes the thought.
+- 'Changes in our life happen whether we want that or not.' Notice how Russian puts 'changes' and 'want' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Good morning, did you not quit?' The '-l' ending on the verb meaning 'quit' places the action in the masculine past tense. Max answers right away.
 - 'No, we can accept them or try to stay in the past.' The meaning hinges on 'no' working together with 'last' in spoken Russian.
 - 'Lyova, hello, may I stay at your place again?' Chef Barinov anchors the line on 'Lyova', while 'stay' completes the thought.

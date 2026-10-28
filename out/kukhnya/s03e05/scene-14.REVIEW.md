@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And she refused to fly with me.' Dmitry Nagiyev anchors the line on 'and', while 'fly' completes the thought. Max answers right away.
 - 'Wait, how did she refuse?' In Russian, the idea of 'wait' flows naturally into 'refused' without extra filler words.
 - 'I had the exact same foolish expression on my face.' The meaning hinges on 'at' working together with 'was' in spoken Russian.
-- 'She simply went and refused right away.' Notice the reflexive suffix on the verb meaning 'refused', turning the action back on the subject. Max answers right away.
+- 'She simply went and refused right away.' Nagiyev pairs 'simply' with 'refused' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'And when exactly did she refuse?' Max brings out the contrast between 'and' and 'when' in a few short words.
 - 'I offered, and she immediately refused.' The '-a' ending on the past-tense verb for 'refused' marks a female speaker or subject.

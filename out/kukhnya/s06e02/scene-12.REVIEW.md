@@ -16,10 +16,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Костя | Мы на роликах катались. | We were skating on rollerblades. | #203 00:13:58: Мы на роликах катались | adapted: exact |
 | 5 | Костя | Я ее взял и наклонил. | I caught her and dipped her. | #204 00:14:00: Я ее раз взял<br>#205 00:14:05: Наклонил | adapted: adapted |
 | 6 | Лёва | Я все понял, я готов. | I understood everything, I am ready. | #206 00:14:10: Я все. Я готов | adapted: adapted |
-| 7 | Аня | Виктор Петрович, здравствуйте. | Viktor Petrovich, hello. | #210 00:14:31: Виктор Петрович, здравствуйте | adapted: exact |
+| 7 | Костя | Виктор Петрович, здравствуйте. | Viktor Petrovich, hello. | #210 00:14:31: Виктор Петрович, здравствуйте | adapted: exact |
 | 8 | Костя | Это продюсер программы, мы меняем концепцию нашей программы. | This is the show's producer, we are changing the concept of our program. | #211 00:14:34: продюсер программы<br>#212 00:14:38: меняем концепцию нашей программы | adapted: adapted |
 | 9 | Костя | И теперь будем снимать в реальных ресторанах. | And now we will film in real restaurants. | #212 00:14:38: и теперь будем снимать<br>#213 00:14:42: в реальных ресторанах | adapted: adapted |
-| 10 | Аня | С чего это вдруг такая честь? | Why such an honor all of a sudden? | #214 00:14:45: С чего это вдруг такая честь? | adapted: exact |
+| 10 | Костя | С чего это вдруг такая честь? | Why such an honor all of a sudden? | #214 00:14:45: С чего это вдруг такая честь? | adapted: exact |
 | 11 | Костя | До нас дошли слухи, что вы ввели новое авторское меню. | Rumors reached us that you introduced a new auteur menu. | #216 00:14:50: И до нас дошли слухи, что вы ввели новое авторское меню | adapted: exact |
 | 12 | Костя | Кто, если не вы, лучший повар страны? | Who, if not you, is the best chef in the country? | #217 00:14:54: И кто, если не вы, лучший повар страны? | adapted: exact |
 

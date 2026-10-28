@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Масло оливковое, две бутылки. | Olive oil, two bottles. | #29 00:02:37: Масло оливковое. Две бутылки | adapted: adapted |
-| 2 | Аня | Креветки, одна пачка. | Shrimp, one pack. | #30 00:02:40: Креветки. Одна пачка | adapted: adapted |
-| 3 | Аня | Устрицы, пять штук, соль и перец. | Oysters, five pieces, salt and pepper. | #31 00:02:42: Устрицы. Пять штук. Соль<br>#32 00:02:43: Перец | adapted: adapted |
-| 4 | Аня | Это ты пытался украсть за эту неделю. | This is what you tried to steal this week. | #32 00:02:43: ты пытался украсть только за эту неделю | adapted: adapted |
-| 5 | Лёва | А может, у него клептомания? | Or maybe he has kleptomania? | #33 00:02:48: А может, у него клептомания | adapted: adapted |
-| 6 | Лёва | Может, его лечить надо? | Maybe he needs to be treated? | #33 00:02:48: Может, его лечить надо | adapted: adapted |
-| 7 | Аня | Для начала я его уволю. | For starters, I will fire him. | #34 00:02:51: для начала я его уволю | adapted: adapted |
-| 8 | Аня | А потом пусть лечится. | And after that let him get treated. | #34 00:02:51: а потом пусть лечится | adapted: adapted |
+| 1 | Шеф | Масло оливковое, две бутылки. | Olive oil, two bottles. | #29 00:02:37: Масло оливковое. Две бутылки | adapted: adapted |
+| 2 | Шеф | Креветки, одна пачка. | Shrimp, one pack. | #30 00:02:40: Креветки. Одна пачка | adapted: adapted |
+| 3 | Шеф | Устрицы, пять штук, соль и перец. | Oysters, five pieces, salt and pepper. | #31 00:02:42: Устрицы. Пять штук. Соль<br>#32 00:02:43: Перец | adapted: adapted |
+| 4 | Шеф | Это ты пытался украсть за эту неделю. | This is what you tried to steal this week. | #32 00:02:43: ты пытался украсть только за эту неделю | adapted: adapted |
+| 5 | Сеня | А может, у него клептомания? | Or maybe he has kleptomania? | #33 00:02:48: А может, у него клептомания | adapted: adapted |
+| 6 | Сеня | Может, его лечить надо? | Maybe he needs to be treated? | #33 00:02:48: Может, его лечить надо | adapted: adapted |
+| 7 | Шеф | Для начала я его уволю. | For starters, I will fire him. | #34 00:02:51: для начала я его уволю | adapted: adapted |
+| 8 | Шеф | А потом пусть лечится. | And after that let him get treated. | #34 00:02:51: а потом пусть лечится | adapted: adapted |
 | 9 | Сеня | Я больше не буду так, клянусь. | I will not do that anymore, I swear. | #35 00:02:55: Я больше не буду так, клянусь | adapted: adapted |
 | 10 | Сеня | Ещё раз поймаешь, увольняй. | If you catch me one more time, fire me. | #36 00:02:57: Еще раз поймаешь, увольняй | adapted: adapted |
-| 11 | Аня | Хорошо. | Fine. | #37 00:03:00: Хорошо | adapted: adapted |
+| 11 | Шеф | Хорошо. | Fine. | #37 00:03:00: Хорошо | adapted: adapted |
 | 12 | Сеня | Ну, этот раз не в счёт, ладно? | Well, this time does not count, alright? | #38 00:03:07: это раз не в счет, ладно | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

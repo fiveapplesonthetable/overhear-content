@@ -17,11 +17,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Михаил | Нельзя во дворе его оставить. | I cannot leave him in the courtyard. | #140 00:07:41: на ночь во дворе оставить | adapted: adapted |
 | 6 | Михаил | Зрелище тут не очень приятное. | The sight in here is not very pleasant. | #142 00:07:47: зрелище не очень приятное | adapted: adapted |
 | 7 | Михаил | Ничего, он до утра потерпит. | It is fine, he will endure until morning. | #143 00:07:50: Но он потерпит | adapted: adapted |
-| 8 | Денис | Катя, ты поговорила с Никитой? | Katya, did you talk with Nikita? | #145 00:07:57: Катя<br>#146 00:08:02: поговорила с Никитой | adapted: adapted |
-| 9 | Аня | Нет, сегодня опять не вышло. | No, it did not work out again today. | #147 00:08:04: Нет. Опять нет | adapted: adapted |
-| 10 | Аня | Я полдня провела у отца. | I spent half the day with my father. | #148 00:08:06: я полдня провела у отца в больнице | adapted: adapted |
-| 11 | Аня | А потом Никита уехал в Питер. | And then Nikita left for Saint Petersburg. | #148 00:08:06: а потом Никита уехал в Питер | adapted: adapted |
-| 12 | Аня | Не обижайся, для меня это важно. | Do not be offended, this is important to me. | #149 00:08:10: Не обижайся. Просто ты же знаешь, что для меня это важно | adapted: adapted |
+| 8 | Михаил | Катя, ты поговорила с Никитой? | Katya, did you talk with Nikita? | #145 00:07:57: Катя<br>#146 00:08:02: поговорила с Никитой | adapted: adapted |
+| 9 | Катя | Нет, сегодня опять не вышло. | No, it did not work out again today. | #147 00:08:04: Нет. Опять нет | adapted: adapted |
+| 10 | Катя | Я полдня провела у отца. | I spent half the day with my father. | #148 00:08:06: я полдня провела у отца в больнице | adapted: adapted |
+| 11 | Катя | А потом Никита уехал в Питер. | And then Nikita left for Saint Petersburg. | #148 00:08:06: а потом Никита уехал в Питер | adapted: adapted |
+| 12 | Катя | Не обижайся, для меня это важно. | Do not be offended, this is important to me. | #149 00:08:10: Не обижайся. Просто ты же знаешь, что для меня это важно | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

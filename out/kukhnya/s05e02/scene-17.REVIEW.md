@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | А вот и наш дорогой гость. | And here is our dear guest. | #211 00:20:49: мой гость | adapted: adapted |
-| 2 | Аня | Мы вам горячий кофе принесли. | We brought you hot coffee. | #212 00:20:50: Мы вам кофе принесли | adapted: adapted |
-| 3 | Михаил | Пожалуйста, вот ваш лучший кофе. | Here you go, here is your finest coffee. | #215 00:21:01: Пожалуйста, ваш кофе | adapted: adapted |
-| 4 | Гость | Я не понял, что здесь происходит? | I do not understand, what is going on here? | #216 00:21:03: я не понял, что здесь происходит? | adapted: verbatim |
-| 5 | Гость | Вы что творите, вы чего? | What are you doing, what is with you? | #217 00:21:05: Да! Вы чего? | adapted: adapted |
-| 6 | Гость | Вы что, совсем с ума сошли? | Have you completely lost your minds? | #218 00:21:07: Вы что, с ума сошли? | adapted: verbatim |
-| 7 | Аня | Пей давай свой вкусный кофе! | Drink up your delicious coffee! | #218 00:21:07: Поешь | adapted: adapted |
-| 8 | Гость | Что вы себе здесь позволяете? | What are you allowing yourselves here? | #219 00:21:10: Что себе | adapted: adapted |
-| 9 | Михаил | Витя, дай ему немного дышать. | Vitya, let him breathe a little. | #219 00:21:10: Дай ему дышать | adapted: adapted |
-| 10 | Михаил | Подожди, дай ему спокойно дышать. | Wait, let him breathe calmly. | #220 00:21:13: Дай ему дышать | adapted: adapted |
-| 11 | Аня | А куда пропал весь кофе? | And where did all the coffee go? | #221 00:21:15: А там все кофе, а? | adapted: adapted |
-| 12 | Аня | Держи этого хитрого ревизора! | Hold that clever inspector! | #222 00:21:18: Держи ревизора | adapted: adapted |
+| 1 | Шеф | А вот и наш дорогой гость. | And here is our dear guest. | #211 00:20:49: мой гость | adapted: adapted |
+| 2 | Шеф | Мы вам горячий кофе принесли. | We brought you hot coffee. | #212 00:20:50: Мы вам кофе принесли | adapted: adapted |
+| 3 | Шеф | Пожалуйста, вот ваш лучший кофе. | Here you go, here is your finest coffee. | #215 00:21:01: Пожалуйста, ваш кофе | adapted: adapted |
+| 4 | Шеф | Я не понял, что здесь происходит? | I do not understand, what is going on here? | #216 00:21:03: я не понял, что здесь происходит? | adapted: verbatim |
+| 5 | Шеф | Вы что творите, вы чего? | What are you doing, what is with you? | #217 00:21:05: Да! Вы чего? | adapted: adapted |
+| 6 | Шеф | Вы что, совсем с ума сошли? | Have you completely lost your minds? | #218 00:21:07: Вы что, с ума сошли? | adapted: verbatim |
+| 7 | Шеф | Пей давай свой вкусный кофе! | Drink up your delicious coffee! | #218 00:21:07: Поешь | adapted: adapted |
+| 8 | Шеф | Что вы себе здесь позволяете? | What are you allowing yourselves here? | #219 00:21:10: Что себе | adapted: adapted |
+| 9 | Шеф | Витя, дай ему немного дышать. | Vitya, let him breathe a little. | #219 00:21:10: Дай ему дышать | adapted: adapted |
+| 10 | Шеф | Подожди, дай ему спокойно дышать. | Wait, let him breathe calmly. | #220 00:21:13: Дай ему дышать | adapted: adapted |
+| 11 | Шеф | А куда пропал весь кофе? | And where did all the coffee go? | #221 00:21:15: А там все кофе, а? | adapted: adapted |
+| 12 | Шеф | Держи этого хитрого ревизора! | Hold that clever inspector! | #222 00:21:18: Держи ревизора | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

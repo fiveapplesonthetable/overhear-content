@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e18-scene-03'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 18
 SCENE = 3
 TITLE = "Подарок Лёвы и молодой отец  (Lyova's Gift and the New Father)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Макс', 'lyova': 'Лёва', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "anya": "alisa", "fedya": "anja"}
+LABELS = {"lyova": "Лёва", "anya": "Макс", "fedya": "Федя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.18'
 SOURCE_FILE = 'sources/kukhnya/s05/e18.ru.srt'
 
 INTRO = "Lyova proudly tells Fedya and Senya that he left a pastry as a romantic gift for Gulya. Moments later, Max arrives beaming with joy and invites everyone to Vika's hospital discharge."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "After celebrating with the cooks, Max heads into Chef Barinov's office to ask for the evening off. See you in the next scene."
-CLOSING = ('lyova', 'Это мой подарок для неё.')
+OUTRO = "After celebrating with the cooks, Max heads into Chef Barinov's office to ask for the evening off. Until next time!"
+CLOSING = ("lyova", "Увидимся!")

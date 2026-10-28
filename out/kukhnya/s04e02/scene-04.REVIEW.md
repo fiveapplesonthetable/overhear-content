@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Where is Denis?' Vika raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'He went back home.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'He said Moscow is a village and Voronezh is a city of opportunity.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Want some? Maybe you will join me?' Max uses natural conversational word order here to highlight the most important part of the reply.
+- 'He went back home.' Notice how Russian puts 'home' and 'left, went away' together in a short, direct phrase where word endings show how the ideas connect.
+- 'He said Moscow is a village and Voronezh is a city of opportunity.' Here Max anchors the thought on 'said' and finishes on 'possibility, opportunity, resource', keeping the spoken rhythm brisk and natural.
+- 'Want some? Maybe you will join me?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'I bought butter and bread.' The past-tense verb ending marks the grammatical gender and number of the subject directly.
-- 'Your prices here are something else, of course.' Denis keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Max, I helped push a car out there.' Notice how Denis pairs a modal word or finite verb with an infinitive to express the action.
+- 'Your prices here are something else, of course.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'Max, I helped push a car out there.' Here Denis anchors the thought on 'car' and finishes on 'to out', keeping the spoken rhythm brisk and natural.
 - 'Are there any towels?' Denis raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'In the bathroom.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Well, where have you been wandering?' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately.
-- 'I was at the grocery store.' Denis uses natural conversational word order here to highlight the most important part of the reply.
-- 'I have no words.' Vika uses natural conversational word order here to highlight the most important part of the reply.
+- 'In the bathroom.' Max centers this short reply on 'bathtub, bath', letting a few direct words carry the whole meaning.
+- 'Well, where have you been wandering?' Notice how Russian puts 'where' and 'are walking' together in a short, direct phrase where word endings show how the ideas connect.
+- 'I was at the grocery store.' Denis centers this short reply on 'shop', letting a few direct words carry the whole meaning.
+- 'I have no words.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.

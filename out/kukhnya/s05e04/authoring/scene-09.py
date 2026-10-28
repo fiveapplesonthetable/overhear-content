@@ -1,32 +1,32 @@
 ID = 'kukhnya-s05e04-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 4
 SCENE = 9
 TITLE = "Долг чести и чужой букет  (A Debt of Honor and Someone Else's Bouquet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Елена', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
+LABELS = {"chef": "Шеф", "elena": "Елена"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.04'
 SOURCE_FILE = 'sources/kukhnya/s05/e04.ru.srt'
 
 INTRO = 'Back in trousers, Barinov intercepts Elena with a bouquet and argues that paying off a gambling debt—even in a dress—is a matter of honor. When Elena rejects the flowers, Victor grandly hands them to a passing girl, only to learn she was the courier delivering that very bouquet to Elena!'
 
 STORY = [
-    ('anya', 'Надо же в штанах. Это тебе.', 'Well look at that, wearing pants. These are for you.', [(118, 'Надо же в')], 'adapted'),
-    ('anya', 'Спасибо, не надо. Да ладно, Лен, ну это было неумно, я согласен.', 'No thank you. Come on, Lena, it was foolish, I agree.', [(119, 'Спасибо, не надо')], 'adapted'),
+    ('elena', 'Надо же в штанах. Это тебе.', 'Well look at that, wearing pants. These are for you.', [(118, 'Надо же в')], 'adapted'),
+    ('elena', 'Спасибо, не надо. Да ладно, Лен, ну это было неумно, я согласен.', 'No thank you. Come on, Lena, it was foolish, I agree.', [(119, 'Спасибо, не надо')], 'adapted'),
     ('chef', 'Во всяком случае, я же не соврал, сказал правду.', 'At least I did not lie to you, I told the truth.', [(120, 'Во всяком случае')], 'adapted'),
     ('chef', 'Видишь, я уже изменился. Ты изменился?', 'See, I have already changed. You changed?', [(121, 'Видишь, я уже')], 'adapted'),
-    ('anya', 'Да. Да ты такой же самовлюблённый эгоист, как был.', 'Right. You are the exact same narcissistic egoist you always were.', [(122, 'Да. Да ты')], 'adapted'),
-    ('anya', 'Вместо того, чтобы просто взять и извиниться за свою глупость.', 'Instead of simply apologizing for your stupidity.', [(125, 'Вместо того, чтобы')], 'adapted'),
+    ('elena', 'Да. Да ты такой же самовлюблённый эгоист, как был.', 'Right. You are the exact same narcissistic egoist you always were.', [(122, 'Да. Да ты')], 'adapted'),
+    ('elena', 'Вместо того, чтобы просто взять и извиниться за свою глупость.', 'Instead of simply apologizing for your stupidity.', [(125, 'Вместо того, чтобы')], 'adapted'),
     ('chef', 'И всё. Согласен. Это было глупо.', 'And that is all. I agree. It was stupid.', [(126, 'И всё. Согласен')], 'adapted'),
     ('chef', 'Но это был карточный долг. И отдать его дело чести.', 'But it was a card debt. And paying it off is a matter of honor.', [(127, 'Но это был')], 'adapted'),
-    ('anya', 'Кукарекать без штанов – это не долг, это идиотизм.', 'Crowing without pants is not a debt, it is idiocy.', [(129, 'Кукарекать без штанов')], 'adapted'),
+    ('elena', 'Кукарекать без штанов – это не долг, это идиотизм.', 'Crowing without pants is not a debt, it is idiocy.', [(129, 'Кукарекать без штанов')], 'adapted'),
     ('chef', 'Да, идиотизм. Но я обещал выполнить любой идиотизм, если проиграю.', 'Yes, idiocy. But I promised to carry out any idiocy if I lost.', [(130, 'Да, идиотизм. Но')], 'adapted'),
     ('chef', 'Ничего. Цветы возьмешь? Нет.', 'Alright then. Will you take the flowers? No.', [(133, 'Ничего. Цветы возьмешь')], 'adapted'),
     ('chef', 'Девушка, это вам от мужчины с чувством собственного достоинства.', 'Miss, these are for you from a man with a sense of self-respect.', [(134, 'Девушка, это вам')], 'adapted'),
-    ('anya', 'Извините, это мне цветы принесли.', 'Excuse me, she was bringing those flowers to me.', [(136, 'Извините, это мне')], 'adapted'),
+    ('elena', 'Извините, это мне цветы принесли.', 'Excuse me, she was bringing those flowers to me.', [(136, 'Извините, это мне')], 'adapted'),
     ('chef', 'Отдайте цветы.', 'Give the flowers back.', [(137, 'Отдайте цветы')], 'adapted'),
 ]
 
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Elena and the team handle the pressure when you watch the episode. See you in the next scene.'
-CLOSING = ('anya', 'Отдайте цветы.')
+OUTRO = 'And that brings this scene at the hotel to a close. Listen out for how Elena and the team handle the pressure when you watch the episode. Until next time!'
+CLOSING = ("elena", "До завтра!")

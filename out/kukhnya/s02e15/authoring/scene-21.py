@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e15-scene-21"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e15-scene-21'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 15
 SCENE = 21
-TITLE = 'Признание в аэропорту и перемены к лучшему  (Confession at the Airport and Changes for the Better)'
+TITLE = "Признание в аэропорту и перемены к лучшему  (Confession at the Airport and Changes for the Better)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.15"
-SOURCE_FILE = "sources/kukhnya/s02/e15.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nastya": "angelina", "sasha": "anja"}
+LABELS = {"anya": "Макс", "nastya": "Настя", "sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.15'
+SOURCE_FILE = 'sources/kukhnya/s02/e15.ru.srt'
 
 INTRO = 'Chasing after Elena Pavlovna outside, Chef Barinov honestly admits that he made up the story because he was terrified of not impressing her, winning her forgiveness before she heads to the airport. Meanwhile, with Sasha gone, Kostya and Nastya finally have the bedroom at home all to themselves.'
 
@@ -38,7 +38,7 @@ WALK = [
     (3, None, "'What else could I have told you?' Notice how Russian expresses 'and' and 'say' with crisp inflection rather than helper words. Nastya answers right away."),
     (4, None, "'You could have told me the exact truth.' In Russian, the idea of 'exactly' flows naturally into 'say' without extra filler words."),
     (5, None, "'Because I was afraid that you would not like me.' In Russian, the idea of 'because' flows naturally into 'to be liked' without extra filler words."),
-    (6, None, "'And I really want you to like me.' Notice the reflexive suffix on the verb meaning 'to be liked', turning the action back on the subject. Nastya answers right away."),
+    (6, None, "'And I really want you to like me.' In everyday Russian, 'very' flows straight into 'to be liked' without extra linking words."),
     (7, None, "'I am on my way to the airport.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'the airport'."),
     (8, None, "'Even when it seems like the right step.' Sasha anchors the line on 'even', while 'correct' completes the thought."),
     (9, None, "'The main thing is that mom never finds out.' The negative particle sits right before the verb meaning 'to recognise' to negate the statement. Nastya answers right away."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 21 of Episode 15, listen out for the exchange around confession at the airport and changes for the better — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Слушай, уже утром, надо вставать.')
+OUTRO = 'That wraps up this scene as chef Barinov catches up with Elena Pavlovna to admit he lied because he was afraid she would not like him, while Kostya and Nastya finally enjoy the apartment to themselves. Until next time!'
+CLOSING = ("anya", "Всего хорошего!")

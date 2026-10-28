@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Это вы что вы тут делаете, а? | What do you think you are doing here, huh? | #46 00:04:17: Это вы что вы тут делаете, а | verbatim |
+| 1 | Шеф | Это вы что вы тут делаете, а? | What do you think you are doing here, huh? | #46 00:04:17: Это вы что вы тут делаете, а | verbatim |
 | 2 | Айнура | Как вы решили, вегетарианцы, нормальной едой не кормить? | How did you decide not to feed vegetarians normal food? | #47 00:04:19: Как вы решили, вегетарианцы, нормальной едой не кормить | verbatim |
-| 3 | Аня | С мясом. | With meat. | #48 00:04:22: С мясом | verbatim |
+| 3 | Шеф | С мясом. | With meat. | #48 00:04:22: С мясом | verbatim |
 | 4 | Айнура | Куда этого шефа нет? | What happens when the chef is away? | #49 00:04:24: Куда этого шефа нет | verbatim |
-| 5 | Аня | А. Иди. | Oh. Go on. | #53 00:04:33: а. Иди | verbatim |
+| 5 | Шеф | А. Иди. | Oh. Go on. | #53 00:04:33: а. Иди | verbatim |
 | 6 | Айнура | Там сейчас вегетарианец мясо будет ездить. | Right now a vegetarian out there is about to eat meat. | #55 00:04:48: Там сейчас вегетарианец мясо будет ездить | verbatim |
-| 7 | Аня | Как мясо? | What do you mean, meat? | #56 00:04:51: Как мясо | verbatim |
+| 7 | Шеф | Как мясо? | What do you mean, meat? | #56 00:04:51: Как мясо | verbatim |
 | 8 | Айнура | Чё ты паникуешь? | Why are you panicking? | #57 00:04:54: Чё ты паникуешь | verbatim |
-| 9 | Аня | Даже не заметит ничего. | He will not even notice anything. | #58 00:04:57: даже не заметит ничего | verbatim |
+| 9 | Шеф | Даже не заметит ничего. | He will not even notice anything. | #58 00:04:57: даже не заметит ничего | verbatim |
 | 10 | Айнура | На самом деле. | Really, it is true. | #58 00:04:57: На самом деле | verbatim |
-| 11 | Аня | Ещё спасибо скажешь. | You will even thank me later. | #59 00:05:00: Ещё спасибо скажешь | verbatim |
+| 11 | Шеф | Ещё спасибо скажешь. | You will even thank me later. | #59 00:05:00: Ещё спасибо скажешь | verbatim |
 | 12 | Айнура | Согласен, вегетарианские ещё идиоты. | Agreed, vegetarians are total idiots too. | #60 00:05:02: Согласен, вегетарианские ещё идиоты | verbatim |
-| 13 | Аня | Идиоты, а? | Total idiots, right? | #60 00:05:02: Идиоты, а | verbatim |
+| 13 | Шеф | Идиоты, а? | Total idiots, right? | #60 00:05:02: Идиоты, а | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Oh, I completely forgot to tell you, the menu is no longer needed.' In Russian, the idea of 'oh' flows naturally into 'needed' without extra filler words.
 - 'Thank you very much for the effort, you can go back to work.' Spoken Russian keeps this brisk, leaning on 'very much' and finishing on 'to work'.
 - 'You are welcome! Is this at all normal on her part?' The meaning hinges on 'not' working together with 'side' in spoken Russian.
-- 'Guys, I am going to step away from the kitchen for a short while.' Notice the reflexive suffix on the verb meaning 'step away briefly', turning the action back on the subject.
+- 'Guys, I am going to step away from the kitchen for a short while.' In everyday Russian, 'guys, team' flows straight into 'for a short time' without extra linking words.
 - 'Lyova stays here in charge in my place.' Chef Barinov brings out the contrast between 'Lyova' and 'to stay' in a few short words.
 - 'Chef, and where are you carrying our food paints?' Spoken Russian keeps this brisk, leaning on 'Chef Barinov' and finishing on 'paint'.
 - 'None of your business, I urgently need paper!' The grammar packs 'not' and 'paper' into a tight, idiomatic kitchen exchange. Vika answers right away.

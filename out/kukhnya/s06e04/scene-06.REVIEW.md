@@ -12,15 +12,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Никита | Денис, можно тебя на минутку? | Denis, may I have a word with you for a minute? | #90 00:06:05: Денис, можно тебя на минутку? | adapted: exact |
 | 2 | Никита | Ты на работе, поэтому займи свое рабочее место. | You are at work, so take your workstation. | #91 00:06:08: ты на работе, поэтому, пожалуйста, займи свое рабочее место | adapted: adapted |
-| 3 | Аня | Мой начальник — Михаил Джекович. | My boss is Mikhail Dzhekovich. | #92 00:06:14: Мой начальник Михаил Джекович | adapted: exact |
-| 4 | Аня | Поэтому убери руку, пожалуйста. | So take your hand off me, please. | #93 00:06:16: Поэтому убери руку, пожалуйста | adapted: exact |
+| 3 | Никита | Мой начальник — Михаил Джекович. | My boss is Mikhail Dzhekovich. | #92 00:06:14: Мой начальник Михаил Джекович | adapted: exact |
+| 4 | Никита | Поэтому убери руку, пожалуйста. | So take your hand off me, please. | #93 00:06:16: Поэтому убери руку, пожалуйста | adapted: exact |
 | 5 | Никита | Да, но и со мной портить отношения не стоит. | Yes, but it is not worth ruining relations with me either. | #95 00:06:21: Но и со мной портить отношения не стоит | adapted: adapted |
-| 6 | Аня | Ты хочешь занять место управляющего? | Do you want to take the manager's place? | #97 00:06:26: на место управляющего? | adapted: adapted |
+| 6 | Никита | Ты хочешь занять место управляющего? | Do you want to take the manager's place? | #97 00:06:26: на место управляющего? | adapted: adapted |
 | 7 | Никита | Ну а почему бы и нет? | Well and why not? | #98 00:06:28: Ну, а почему бы и нет? | adapted: exact |
 | 8 | Никита | Джекович уже старый, теряет хватку. | Dzhekovich is already old, he is losing his grip. | #99 00:06:30: Джекович уже старый, теряет хватку | adapted: exact |
-| 9 | Михаил | Во-первых, не старый, а опытный. | First of all, not old, but experienced. | #100 00:06:33: во-первых, не старый, а опытный | adapted: adapted |
-| 10 | Михаил | А во-вторых, хватку иногда надо ослабить. | And secondly, sometimes you need to loosen your grip. | #101 00:06:37: Во-вторых, хватку иногда надо ослабить | adapted: exact |
-| 11 | Михаил | Извините, что прервал вашу беседу, хорошего дня. | Sorry to interrupt your conversation, have a good day. | #102 00:06:44: Извините, что прервал вашу беседу<br>#103 00:06:46: Хорошего дня | adapted: adapted |
+| 9 | Никита | Во-первых, не старый, а опытный. | First of all, not old, but experienced. | #100 00:06:33: во-первых, не старый, а опытный | adapted: adapted |
+| 10 | Никита | А во-вторых, хватку иногда надо ослабить. | And secondly, sometimes you need to loosen your grip. | #101 00:06:37: Во-вторых, хватку иногда надо ослабить | adapted: exact |
+| 11 | Никита | Извините, что прервал вашу беседу, хорошего дня. | Sorry to interrupt your conversation, have a good day. | #102 00:06:44: Извините, что прервал вашу беседу<br>#103 00:06:46: Хорошего дня | adapted: adapted |
 | 12 | Никита | Ты специально меня подставил? | Did you set me up on purpose? | #104 00:06:50: специально меня подставил? | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'First of all, not old, but experienced.' The grammar packs 'first of all' and 'experienced' into a tight, idiomatic kitchen exchange.
 - 'And secondly, sometimes you need to loosen your grip.' The meaning hinges on 'and' working together with 'to loosen' in spoken Russian.
 - 'Sorry to interrupt your conversation, have a good day.' Here the Russian phrasing highlights 'excuse me' before landing on 'day'.
-- 'Did you set me up on purpose?' In Russian, the idea of 'you' flows naturally into 'set up' without extra filler words.
+- 'Did you set me up on purpose?' In spoken Russian, the words stay in their normal statement order and Nikita's rising voice at the end turns the line into a question.

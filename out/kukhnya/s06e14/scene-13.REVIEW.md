@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Тимур | Мы один раз двух невест украли. | One time we stole two brides at once. | #168 00:13:36: Мы один раз сразу двух невест | adapted: adapted |
 | 2 | Тимур | Хочешь, мы прямо сейчас её украдём? | Do you want us to steal her right now? | #171 00:13:46: Хочешь? Прямо сейчас ее украдем | adapted: adapted |
-| 3 | Аня | Прямо здесь, у нас в отеле? | Right here, in our hotel? | #172 00:13:49: Прямо здесь | adapted: adapted |
-| 4 | Аня | Она сегодня работает одна в прачечной. | She is working alone in the laundry room today. | #174 00:13:55: Она сегодня в прачечной, одна на смене | adapted: adapted |
+| 3 | Тимур | Прямо здесь, у нас в отеле? | Right here, in our hotel? | #172 00:13:49: Прямо здесь | adapted: adapted |
+| 4 | Тимур | Она сегодня работает одна в прачечной. | She is working alone in the laundry room today. | #174 00:13:55: Она сегодня в прачечной, одна на смене | adapted: adapted |
 | 5 | Тимур | Отлично, тогда я всё хорошо понял. | Excellent, then I understood everything well. | #175 00:13:58: А, все понял | adapted: adapted |
 | 6 | Тимур | Жди нас дома и готовь праздник. | Wait for us at home and prepare a celebration. | #176 00:14:00: Жди дома, готовь праздник | adapted: adapted |
-| 7 | Аня | Слушай, ты случайно Катю не видел? | Listen, have you seen Katya by any chance? | #177 00:14:13: Катю не видел | adapted: adapted |
+| 7 | Тимур | Слушай, ты случайно Катю не видел? | Listen, have you seen Katya by any chance? | #177 00:14:13: Катю не видел | adapted: adapted |
 | 8 | Тимур | Денис, ты сейчас идёшь не туда. | Denis, you are going the wrong way right now. | #178 00:14:15: Денис, ты идешь не туда | adapted: adapted |
 | 9 | Тимур | Дорог много, но верный путь один. | There are many roads, but only one true path. | #179 00:14:17: Путей много, но верный лишь один | adapted: adapted |
-| 10 | Аня | Скажите, а где здесь у вас туалет? | Tell me, where is your restroom here? | #181 00:14:36: Где здесь туалет | adapted: adapted |
-| 11 | Айнура | Иди домой, я твои дела доделаю. | Go home, I will finish up your chores. | #186 00:14:59: Иди, я твои дела доделаю | adapted: adapted |
-| 12 | Айнура | Не забудь закрыть дверь в прачечную. | Do not forget to close the door to the laundry room. | #187 00:15:02: Спасибо | adapted: adapted |
+| 10 | Тимур | Скажите, а где здесь у вас туалет? | Tell me, where is your restroom here? | #181 00:14:36: Где здесь туалет | adapted: adapted |
+| 11 | Тимур | Иди домой, я твои дела доделаю. | Go home, I will finish up your chores. | #186 00:14:59: Иди, я твои дела доделаю | adapted: adapted |
+| 12 | Тимур | Не забудь закрыть дверь в прачечную. | Do not forget to close the door to the laundry room. | #187 00:15:02: Спасибо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

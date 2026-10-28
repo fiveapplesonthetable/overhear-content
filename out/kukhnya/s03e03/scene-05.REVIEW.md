@@ -11,17 +11,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Катя | Неправильно режешь? Ну покажите как. | Cutting it wrong? Well, show me how. | #72 00:05:19: Неправильно режешь<br>#73 00:05:21: Ну покажите как | adapted: adapted |
-| 2 | Аня | Ты думаешь, ей приятно, что мы её режем? | Do you think she likes that we are cutting her? | #74 00:05:28: Ты думаешь, ей приятно, что мы ее<br>#74 00:05:28: режем | adapted: adapted |
+| 2 | Федя | Ты думаешь, ей приятно, что мы её режем? | Do you think she likes that we are cutting her? | #74 00:05:28: Ты думаешь, ей приятно, что мы ее<br>#74 00:05:28: режем | adapted: adapted |
 | 3 | Катя | Не знаю насчёт камбалы, но мне очень приятно. | I don't know about the flounder, but I find it very pleasant. | #75 00:05:31: Не знаю насчет<br>#75 00:05:31: но мне очень приятно | adapted: adapted |
-| 4 | Аня | А я могу научить тебя правильно резать мясо. | And I can teach you how to cut meat properly. | #76 00:05:34: А я могу научить тебя правильно резать мясо | verbatim |
-| 5 | Аня | Мясо любой дурак может порезать. | Any fool can cut meat. | #77 00:05:37: Мясо любой дурак может порезать | verbatim |
-| 6 | Аня | Он вообще кроме рыбы ничего не может. | He cannot do anything at all except fish. | #79 00:05:41: Он вообще кроме рыбы ничего не может | verbatim |
-| 7 | Шеф | Екатерина, зайдите ко мне. | Yekaterina, come into my office. | #80 00:05:44: Екатерина, зайдите ко мне | verbatim |
-| 8 | Шеф | Это что за взрыв ты устроила на моей кухне? | What kind of explosion did you stage in my kitchen? | #81 00:05:56: Это что за<br>#81 00:05:56: взрыв ты<br>#82 00:06:02: устроила на моей кухне | adapted: adapted |
+| 4 | Федя | А я могу научить тебя правильно резать мясо. | And I can teach you how to cut meat properly. | #76 00:05:34: А я могу научить тебя правильно резать мясо | verbatim |
+| 5 | Федя | Мясо любой дурак может порезать. | Any fool can cut meat. | #77 00:05:37: Мясо любой дурак может порезать | verbatim |
+| 6 | Федя | Он вообще кроме рыбы ничего не может. | He cannot do anything at all except fish. | #79 00:05:41: Он вообще кроме рыбы ничего не может | verbatim |
+| 7 | Федя | Екатерина, зайдите ко мне. | Yekaterina, come into my office. | #80 00:05:44: Екатерина, зайдите ко мне | verbatim |
+| 8 | Федя | Это что за взрыв ты устроила на моей кухне? | What kind of explosion did you stage in my kitchen? | #81 00:05:56: Это что за<br>#81 00:05:56: взрыв ты<br>#82 00:06:02: устроила на моей кухне | adapted: adapted |
 | 9 | Катя | Какой взрыв? Я просто вливаюсь в новый коллектив. | What explosion? I am simply blending into the new team. | #82 00:06:02: Какой взрыв<br>#83 00:06:05: Я просто вливаюсь в новый коллектив | adapted: adapted |
 | 10 | Катя | А можно меня не учить? Мне давно не пятнадцать лет. | And can you not lecture me? I haven't been fifteen for a long time. | #85 00:06:09: А можно меня не учить? Мне давно не | adapted: adapted |
-| 11 | Шеф | На моей кухне тебе всегда будет пятнадцать. | In my kitchen you will always be fifteen. | #86 00:06:12: На моей кухне тебе всегда будет | adapted: adapted |
-| 12 | Шеф | Я тебе запрещаю! Куда пошла? | I forbid you! Where are you going? | #87 00:06:16: запрещаю. Куда пошла | adapted: adapted |
+| 11 | Федя | На моей кухне тебе всегда будет пятнадцать. | In my kitchen you will always be fifteen. | #86 00:06:12: На моей кухне тебе всегда будет | adapted: adapted |
+| 12 | Федя | Я тебе запрещаю! Куда пошла? | I forbid you! Where are you going? | #87 00:06:16: запрещаю. Куда пошла | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,22 +1,22 @@
 ID = 'kukhnya-s03e13-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 16
-TITLE = 'Больше так не пьём  (We Are Not Drinking Like That Anymore)'
+TITLE = "Больше так не пьём  (We Are Not Drinking Like That Anymore)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "anya": "alisa"}
+LABELS = {"katya": "Катя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = 'Vika realizes that Chef Barinov coached Nagiyev to promise marriage just so she would sleep with him, while in the kitchen Max and Katya vow never to drink that much again. Listen to the Russian dialogue first.'
 
 STORY = [
-    ('vika', 'Сегодня мне совершенно некогда.', 'Today I have no time at all.', [(251, 'Сегодня мне некогда')], 'adapted'),
-    ('vika', 'И почему вдруг сразу предложение?', 'And why a marriage proposal all of a sudden?', [(252, 'И почему сразу предложение')], 'adapted'),
-    ('vika', 'Витя, ты думаешь, мне надо за него выходить?', 'Vitya, do you think I should marry him?', [(253, 'Витя, ты думаешь'), (254, 'мне надо за него выходить')], 'adapted'),
+    ('katya', 'Сегодня мне совершенно некогда.', 'Today I have no time at all.', [(251, 'Сегодня мне некогда')], 'adapted'),
+    ('katya', 'И почему вдруг сразу предложение?', 'And why a marriage proposal all of a sudden?', [(252, 'И почему сразу предложение')], 'adapted'),
+    ('katya', 'Витя, ты думаешь, мне надо за него выходить?', 'Vitya, do you think I should marry him?', [(253, 'Витя, ты думаешь'), (254, 'мне надо за него выходить')], 'adapted'),
     ('anya', 'Ты уже взрослая девочка, сама решай.', 'You are already a grown girl, decide for yourself.', [(255, 'Ты уже взрослая девочка, сама решай')], 'adapted'),
     ('anya', 'Что же ты тут делаешь на кухне?', 'What on earth are you doing here in the kitchen?', [(258, 'Что ж ты делаешь-то')], 'adapted'),
     ('anya', 'Зачем ты туда тимьян положил?', 'Why did you put thyme in there?', [(259, 'Зачем туда тимьян положил')], 'adapted'),
@@ -32,7 +32,7 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 
 WALK = [
     (0, None, "'Today I have no time at all.' In Russian, the idea of 'tonight' flows naturally into 'no time' without extra filler words."),
-    (1, None, "'And why a marriage proposal all of a sudden?' The grammar packs 'and' and 'offer' into a tight, idiomatic kitchen exchange."),
+    (1, None, "'And why a marriage proposal all of a sudden?' Notice how Russian puts 'why' and 'offer, proposal; sentence' together in a short, direct phrase where word endings show how the ideas connect."),
     (2, None, "'Vitya, do you think I should marry him?' In Russian, the idea of 'Vitya' flows naturally into 'to go out' without extra filler words. Max answers right away."),
     (3, None, "'You are already a grown girl, decide for yourself.' Here the Russian phrasing highlights 'you' before landing on 'to decide'."),
     (4, None, "'What on earth are you doing here in the kitchen?' In Russian, the idea of 'what' flows naturally into 'kitchen' without extra filler words."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Chef Barinov quietly tells Max that nothing happened between Max and Katya because Barinov was there too. Meanwhile, Vika heads home to confront Nagiyev.'
-CLOSING = ('katya', 'Всё, больше так не пьём.')
+OUTRO = 'Chef Barinov quietly tells Max that nothing happened between Max and Katya because Barinov was there too. Meanwhile, Vika heads home to confront Nagiyev. See you next time!'
+CLOSING = ("katya", "Увидимся!")

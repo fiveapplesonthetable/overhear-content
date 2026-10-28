@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Где у вас туалет? | Where is your restroom? | #235 00:17:26: Где у вас туалет? | adapted: exact |
-| 2 | Аня | Налево по коридору. | To the left down the corridor. | #235 00:17:26: Налево по коридору | adapted: exact |
-| 3 | Костя | Так если он не настоящий, может, я ему самого дешевого вина налью? | So if he is not real, maybe I should pour him the cheapest wine? | #237 00:17:33: Так если он не настоящий, может, я ему самого дешевого вина налью? | adapted: exact |
-| 4 | Костя | А зачем продукт на него переводить? | Why waste good product on him? | #238 00:17:37: продукт на него переводить? | adapted: adapted |
-| 5 | Аня | Эта фотография вообще ничего не доказывает. | That photograph does not prove anything at all. | #239 00:17:44: Эта фотография вообще ничего не доказывает | adapted: exact |
-| 6 | Аня | Может быть, это тоже инспектор. | Maybe this guy is an inspector too. | #240 00:17:47: Может быть, это тоже инспектор | adapted: exact |
-| 7 | Аня | В блюде не хватает остроты. | The dish lacks spiciness. | #241 00:17:53: Не хватает остроты | adapted: adapted |
-| 8 | Аня | Ну вот, теперь в самый раз. | Well there, now it is just right. | #244 00:18:04: Ну вот, теперь в самый раз | adapted: exact |
-| 9 | Аня | Думаю, уважаемому инспектору должно понравиться. | I think the respected inspector should like it. | #245 00:18:08: Думаю, уважаемому инспектору | adapted: adapted |
-| 10 | Костя | Катя, подожди, у нас важный разговор. | Katya, wait, we have an important conversation. | #246 00:18:16: Катя!<br>#247 00:18:18: Подожди, у нас важный разговор | adapted: adapted |
-| 11 | Костя | Дело в том, что Никита склеил крышку рояля, и я решил отомстить. | The thing is that Nikita glued the piano lid shut, and I decided to get revenge. | #249 00:18:21: дело в том, что Никита<br>#249 00:18:21: крышку рояля<br>#250 00:18:26: И я решил отомстить | adapted: adapted |
+| 1 | Шеф | Где у вас туалет? | Where is your restroom? | #235 00:17:26: Где у вас туалет? | adapted: exact |
+| 2 | Шеф | Налево по коридору. | To the left down the corridor. | #235 00:17:26: Налево по коридору | adapted: exact |
+| 3 | Шеф | Так если он не настоящий, может, я ему самого дешевого вина налью? | So if he is not real, maybe I should pour him the cheapest wine? | #237 00:17:33: Так если он не настоящий, может, я ему самого дешевого вина налью? | adapted: exact |
+| 4 | Шеф | А зачем продукт на него переводить? | Why waste good product on him? | #238 00:17:37: продукт на него переводить? | adapted: adapted |
+| 5 | Шеф | Эта фотография вообще ничего не доказывает. | That photograph does not prove anything at all. | #239 00:17:44: Эта фотография вообще ничего не доказывает | adapted: exact |
+| 6 | Шеф | Может быть, это тоже инспектор. | Maybe this guy is an inspector too. | #240 00:17:47: Может быть, это тоже инспектор | adapted: exact |
+| 7 | Шеф | В блюде не хватает остроты. | The dish lacks spiciness. | #241 00:17:53: Не хватает остроты | adapted: adapted |
+| 8 | Шеф | Ну вот, теперь в самый раз. | Well there, now it is just right. | #244 00:18:04: Ну вот, теперь в самый раз | adapted: exact |
+| 9 | Шеф | Думаю, уважаемому инспектору должно понравиться. | I think the respected inspector should like it. | #245 00:18:08: Думаю, уважаемому инспектору | adapted: adapted |
+| 10 | Шеф | Катя, подожди, у нас важный разговор. | Katya, wait, we have an important conversation. | #246 00:18:16: Катя!<br>#247 00:18:18: Подожди, у нас важный разговор | adapted: adapted |
+| 11 | Шеф | Дело в том, что Никита склеил крышку рояля, и я решил отомстить. | The thing is that Nikita glued the piano lid shut, and I decided to get revenge. | #249 00:18:21: дело в том, что Никита<br>#249 00:18:21: крышку рояля<br>#250 00:18:26: И я решил отомстить | adapted: adapted |
 | 12 | Катя | Как именно отомстить? | How exactly did you get revenge? | #251 00:18:28: Как отомстить? | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

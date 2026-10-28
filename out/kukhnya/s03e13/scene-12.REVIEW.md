@@ -11,14 +11,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Аня | Ну что, Костя, как тут дела? | So, Kostya, how are things going here? | #181 00:13:52: Ну что, как тут | adapted: adapted |
-| 2 | Костя | Тишина, никто тобой не интересовался. | All quiet, nobody asked for you. | #182 00:13:54: Тишина<br>#182 00:13:54: никто не интересовался | adapted: adapted |
+| 2 | Гость | Тишина, никто тобой не интересовался. | All quiet, nobody asked for you. | #182 00:13:54: Тишина<br>#182 00:13:54: никто не интересовался | adapted: adapted |
 | 3 | Гость | Девушка, дадите ручку поцеловать? | Miss, will you let me kiss your hand? | #183 00:14:05: Дадите ручку | adapted: adapted |
 | 4 | Гость | А может быть, красивую ножку? | Or maybe your pretty little foot? | #185 00:14:09: А ножку | adapted: adapted |
 | 5 | Аня | Так, дружище, пойдём скорее на выход. | Alright, buddy, let's head for the exit quickly. | #187 00:14:12: Так, дружище | adapted: adapted |
-| 6 | Костя | Здравствуйте, вы кого-то ищете? | Hello, are you looking for someone? | #191 00:14:25: Здравствуйте | adapted: adapted |
+| 6 | Гость | Здравствуйте, вы кого-то ищете? | Hello, are you looking for someone? | #191 00:14:25: Здравствуйте | adapted: adapted |
 | 7 | Гость | Подскажите, где найти Викторию Сергеевну? | Could you tell me where to find Viktoria Sergeyevna? | #189 00:14:19: где найти Викторию Сергеевну | adapted: adapted |
 | 8 | Гость | Я по поводу ремонта систем видеонаблюдения. | I am here about repairing the video surveillance system. | #190 00:14:22: Я по поводу ремонта систем видеонаблюдения | adapted: adapted |
-| 9 | Костя | Здравствуйте, Виктория вас уже ждёт. | Hello, Viktoria is already waiting for you. | #191 00:14:25: Здравствуйте. Виктория вас уже ждет | adapted: adapted |
+| 9 | Гость | Здравствуйте, Виктория вас уже ждёт. | Hello, Viktoria is already waiting for you. | #191 00:14:25: Здравствуйте. Виктория вас уже ждет | adapted: adapted |
 | 10 | Аня | Слушай, друг, а ты зачем приходил? | Listen, friend, why did you come here anyway? | #193 00:14:31: Слушай, друг, а ты что вообще приходил | adapted: adapted |
 | 11 | Гость | Так вашу кофемашину ремонтировать! | To repair your coffee machine, of course! | #194 00:14:35: Так вашу кофемашину ремонтировать | adapted: adapted |
 | 12 | Гость | А вы сами её починили, красавцы! | And you fixed it yourselves, well done! | #195 00:14:38: сами ее починили<br>#196 00:14:40: Красавцы | adapted: adapted |

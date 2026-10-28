@@ -29,10 +29,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'If Shakespeare lived in our time.' Unreal conditions in Russian use 'if' plus the particle 'by' and the past-tense form of the verb, even when talking about the present.
 - 'He would probably have put it just like this.' The second clause of a conditional sentence repeats the particle 'by' with the past-tense verb.
 - 'Two chefs wage battles between themselves.' The plural noun 'battles' is the direct object of 'lead/wage'.
-- 'Viktoriya and Max are in love with each other.' The plural short-form participle 'in love' takes the preposition 'into' plus the accusative.
+- 'Viktoriya and Max are in love with each other.' Max pairs 'friend' with 'each' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Max, well, what is this?' Adding the neuter pronoun 'such' after 'what is this' expresses irritation at a mess.
-- 'Woman, do not distract me, I am losing right now!' Glued to his game console, Max uses the imperfective present 'I am losing'.
-- 'Max, I asked you to fix it.' Vika uses the feminine past tense 'asked' followed by the perfective infinitive 'to repair'.
+- 'Woman, do not distract me, I am losing right now!' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'Max, I asked you to fix it.' In everyday Russian, 'asked for' flows straight into 'to fix, mend' without extra linking words.
 - 'And you simply unscrewed this thing!' The prefix 'ot-' on the verb for 'twist/turn' means to unscrew or twist off.
 - 'Vika, wash up without the shower head for now.' In Russian, both a garden watering can and a bathroom shower head are called by the same noun from 'to pour'.
 - 'I will buy a new one later and screw it on.' The prefix 'pri-' is the exact opposite of 'ot-', meaning to attach or screw back on.

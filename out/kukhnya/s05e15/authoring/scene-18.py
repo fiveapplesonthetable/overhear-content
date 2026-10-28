@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e15-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 15
 SCENE = 18
 TITLE = "Признание Михаила и тосты  (Mikhail's Confession and Toasts)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "senya": "angelina"}
+LABELS = {"mikhail": "Михаил", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.15'
 SOURCE_FILE = 'sources/kukhnya/s05/e15.ru.srt'
 
 INTRO = "At the bachelor party in the suite, a tipsy Mikhail pulls Chef Barinov aside and confesses that he has feelings for the Chef's ex-wife Eleonora, right before Senya proposes a dramatic toast."
@@ -18,14 +18,14 @@ STORY = [
     ('mikhail', 'Но ты это завтра утром сразу же забудь!', 'But you forget about it first thing tomorrow morning!', [(317, 'Но ты это сразу забудь')], 'adapted'),
     ('mikhail', 'Мне очень нравится твоя бывшая жена Элеонора.', 'I really like your ex-wife Eleonora.', [(319, 'Мне нравится твоя жена')], 'adapted'),
     ('mikhail', 'Только, пожалуйста, не говори об этом никому!', 'Only please, do not tell anyone about this!', [(322, 'никому, пожалуйста')], 'adapted'),
-    ('anya', 'Ну что, ты хочешь, чтобы я тебя благословил?', 'Well, do you want me to give you my blessing?', [(323, 'ты хочешь')], 'adapted'),
-    ('anya', 'Извини, Миша, но делай как считаешь нужным.', 'Sorry, Misha, but do whatever you see fit.', [(324, 'Извини, это не ко мне')], 'adapted'),
+    ('mikhail', 'Ну что, ты хочешь, чтобы я тебя благословил?', 'Well, do you want me to give you my blessing?', [(323, 'ты хочешь')], 'adapted'),
+    ('mikhail', 'Извини, Миша, но делай как считаешь нужным.', 'Sorry, Misha, but do whatever you see fit.', [(324, 'Извини, это не ко мне')], 'adapted'),
     ('senya', 'Господа, внимание, у меня созрел отличный тост!', 'Gentlemen, attention, I have a great toast ready!', [(326, 'У меня созрел тост')], 'adapted'),
     ('senya', 'Дорогой шеф, пусть это будет ваша последняя свадьба!', 'Dear Chef, may this be your final wedding!', [(329, 'чтобы это была ваша последняя свадьба')], 'adapted'),
     ('mikhail', 'Выпьем до дна за вас и за Елену Павловну!', "Let's drink bottoms up to you and to Elena Pavlovna!", [(330, 'За вас и за Елену Павловну')], 'adapted'),
     ('senya', 'Виктор Петрович, а почему вы с нами не пьёте?', 'Viktor Petrovich, and why are you not drinking with us?', [(331, 'А что вы не пьете')], 'adapted'),
     ('senya', 'К сожалению, вся наша закуска уже кончилась.', 'Unfortunately, all our snacks have run out already.', [(335, 'кончился')], 'adapted'),
-    ('anya', 'Ладно, наливайте мне тоже одну маленькую рюмку!', 'Fine, pour me one small shot glass too!', [(336, 'Ура')], 'adapted'),
+    ('mikhail', 'Ладно, наливайте мне тоже одну маленькую рюмку!', 'Fine, pour me one small shot glass too!', [(336, 'Ура')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Once Chef Barinov takes his first drink, the party quickly spirals out of control. See you in the next scene.'
-CLOSING = ('mikhail', 'За вас и за Елену Павловну!')
+OUTRO = 'Once Chef Barinov takes his first drink, the party quickly spirals out of control. See you next time!'
+CLOSING = ("mikhail", "Хорошего дня!")

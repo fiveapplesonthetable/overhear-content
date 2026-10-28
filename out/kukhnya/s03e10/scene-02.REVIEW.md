@@ -11,13 +11,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Аня | Не всё, что говорят, чистая правда. | Not everything people say is the pure truth. | #19 00:02:25: не все, что про меня говорят, правда | adapted: adapted |
-| 2 | Лёва | К тому же ты свёл Костю и Настю. | Besides, you brought Kostya and Nastya together. | #20 00:02:28: К тому же ты свел Костю и Настю | adapted: adapted |
-| 3 | Лёва | А они вон какие разные люди. | And look how different those two people are. | #21 00:02:31: Они вон какие разные | adapted: adapted |
+| 2 | Нагиев | К тому же ты свёл Костю и Настю. | Besides, you brought Kostya and Nastya together. | #20 00:02:28: К тому же ты свел Костю и Настю | adapted: adapted |
+| 3 | Нагиев | А они вон какие разные люди. | And look how different those two people are. | #21 00:02:31: Они вон какие разные | adapted: adapted |
 | 4 | Аня | Ладно, я попробую устроить вам свидание. | Alright, I will try to arrange a date for you two. | #24 00:02:56: Ладно, я попробую строить вам свидание | adapted: adapted |
 | 5 | Аня | Ты будешь во всём меня слушаться. | You will obey me in everything. | #26 00:03:02: Если ты будешь во всём меня слушаться | adapted: adapted |
 | 6 | Аня | Если не получится, я не виноват. | If it does not work out, it is not my fault. | #26 00:03:02: ничего не получится<br>#27 00:03:06: я не виноват | adapted: adapted |
 | 7 | Аня | На работу буду приходить на час позже. | I will come to work an hour later. | #27 00:03:06: И на работу я буду приходить на час позже | adapted: adapted |
-| 8 | Лёва | Хорошо, договорились, приходи на час позже. | Alright, it is a deal, come an hour later. | #29 00:03:12: Хорошо. На час | adapted: adapted |
+| 8 | Нагиев | Хорошо, договорились, приходи на час позже. | Alright, it is a deal, come an hour later. | #29 00:03:12: Хорошо. На час | adapted: adapted |
 | 9 | Нагиев | Слушай, я тебя сейчас отвлекаю? | Listen, am I distracting you right now? | #30 00:03:27: я отвлекаю | adapted: adapted |
 | 10 | Нагиев | Вот хорошо, тогда внимательно слушай. | That is good, then listen carefully. | #31 00:03:30: Вот, хорошо, тогда слушай | adapted: adapted |
 | 11 | Нагиев | Я хотел спросить у тебя совет. | I wanted to ask you for some advice. | #32 00:03:32: буду спрашивать совет | adapted: adapted |

@@ -11,9 +11,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Аня | Извините, Родион Сергеевич, я этого не хотел. | Excuse me, Rodion Sergeyevich, I didn't mean to do that. | #224 00:16:27: Извините, Родион Сергеевич, я этого не хотел | verbatim |
-| 2 | Родион | Да ничего. У меня даже в гороскопе написано, что сегодня неудачный день. | It's nothing. Even my horoscope says that today is an unlucky day. | #225 00:16:30: Да ничего. У меня даже в гороскопе написано, что сегодня неудачный день | verbatim |
+| 2 | Шеф | Да ничего. У меня даже в гороскопе написано, что сегодня неудачный день. | It's nothing. Even my horoscope says that today is an unlucky day. | #225 00:16:30: Да ничего. У меня даже в гороскопе написано, что сегодня неудачный день | verbatim |
 | 3 | Аня | А вы что, верите в эту ерунду? | Do you actually believe in that nonsense? | #226 00:16:35: А вы что, верите в эту ерунду | verbatim |
-| 4 | Родион | Вот у меня теперь всегда удачный день! | Now I always have a lucky day! | #227 00:16:36: Вот у меня<br>#227 00:16:36: всегда удачный день | adapted: adapted |
+| 4 | Шеф | Вот у меня теперь всегда удачный день! | Now I always have a lucky day! | #227 00:16:36: Вот у меня<br>#227 00:16:36: всегда удачный день | adapted: adapted |
 | 5 | Аня | Шеф, перевернули всё вверх дном — нет слона. | Chef, we turned everything upside down — there is no elephant. | #228 00:16:46: Шеф, перевернули все вверх дном<br>#229 00:16:48: Нет, слона | adapted: adapted |
 | 6 | Шеф | Ищите, Сеня, ищите! | Search, Senya, search! | #229 00:16:48: Ищите, Сеня, ищите | verbatim |
 | 7 | Шеф | Найдите мне слона! | Find me the elephant! | #231 00:16:59: Найдите мне слона | verbatim |

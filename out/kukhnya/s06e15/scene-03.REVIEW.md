@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Папа, почему вы сидите в темноте? | Dad, why are you sitting in the dark? | #29 00:02:43: в темноте сидите | adapted: adapted |
-| 2 | Аня | Смотри, чаевые и визитка сразу вместе. | Look, a tip and a business card together at once. | #31 00:03:01: чаевые визитки | adapted: adapted |
-| 3 | Айнура | Но там же написан важный телефон! | But an important phone number is written there! | #33 00:03:06: Там телефон | adapted: adapted |
-| 4 | Айнура | Ты быстро перепиши этот номер себе. | Quickly copy that number down for yourself. | #33 00:03:06: ты его перепиши себе | adapted: adapted |
-| 5 | Айнура | У моей племянницы муж шеф-поваром будет! | My niece's husband is going to be a head chef! | #35 00:03:13: У моей племянницы муж шеф-поваром будет | adapted: adapted |
-| 6 | Аня | Вообще-то я ещё ничего не решил. | Actually, I have not decided anything yet. | #36 00:03:15: Вообще-то я ещё не решил | adapted: adapted |
-| 7 | Айнура | Как это ты ещё не решил? | What do you mean you have not decided yet? | #38 00:03:20: Что значит не решил | adapted: adapted |
+| 1 | Лёва | Папа, почему вы сидите в темноте? | Dad, why are you sitting in the dark? | #29 00:02:43: в темноте сидите | adapted: adapted |
+| 2 | Лёва | Смотри, чаевые и визитка сразу вместе. | Look, a tip and a business card together at once. | #31 00:03:01: чаевые визитки | adapted: adapted |
+| 3 | Лёва | Но там же написан важный телефон! | But an important phone number is written there! | #33 00:03:06: Там телефон | adapted: adapted |
+| 4 | Лёва | Ты быстро перепиши этот номер себе. | Quickly copy that number down for yourself. | #33 00:03:06: ты его перепиши себе | adapted: adapted |
+| 5 | Лёва | У моей племянницы муж шеф-поваром будет! | My niece's husband is going to be a head chef! | #35 00:03:13: У моей племянницы муж шеф-поваром будет | adapted: adapted |
+| 6 | Лёва | Вообще-то я ещё ничего не решил. | Actually, I have not decided anything yet. | #36 00:03:15: Вообще-то я ещё не решил | adapted: adapted |
+| 7 | Лёва | Как это ты ещё не решил? | What do you mean you have not decided yet? | #38 00:03:20: Что значит не решил | adapted: adapted |
 | 8 | Шеф | Чего ты там не решил, Лёва? | What have you not decided over there, Lyova? | #38 00:03:20: Чего ты там не решил, Лёва | adapted: adapted |
-| 9 | Аня | Виктор Петрович, представляете, какое странное совпадение! | Viktor Petrovich, can you imagine what a strange coincidence! | #40 00:03:26: Виктор Петрович, представляете, какое совпадение | adapted: adapted |
-| 10 | Аня | Я вчера приготовил гостю ваше блюдо. | Yesterday I cooked your dish for a guest. | #41 00:03:28: Я вчера приготовил | adapted: adapted |
-| 11 | Аня | А он позвал меня работать шефом. | And he invited me to work as a head chef. | #41 00:03:28: и он позвал меня работать шефом | adapted: adapted |
+| 9 | Лёва | Виктор Петрович, представляете, какое странное совпадение! | Viktor Petrovich, can you imagine what a strange coincidence! | #40 00:03:26: Виктор Петрович, представляете, какое совпадение | adapted: adapted |
+| 10 | Лёва | Я вчера приготовил гостю ваше блюдо. | Yesterday I cooked your dish for a guest. | #41 00:03:28: Я вчера приготовил | adapted: adapted |
+| 11 | Лёва | А он позвал меня работать шефом. | And he invited me to work as a head chef. | #41 00:03:28: и он позвал меня работать шефом | adapted: adapted |
 | 12 | Шеф | Интересно, и кто этот щедрый гость? | Interesting, and who is this generous guest? | #41 00:03:28: от шефа | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

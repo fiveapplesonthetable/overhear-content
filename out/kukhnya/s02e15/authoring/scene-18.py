@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e15-scene-18"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e15-scene-18'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 15
 SCENE = 18
-TITLE = 'Хитроумный план и расставание с Сашей  (The Clever Scheme and Breaking Up with Sasha)'
+TITLE = "Хитроумный план и расставание с Сашей  (The Clever Scheme and Breaking Up with Sasha)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.15"
-SOURCE_FILE = "sources/kukhnya/s02/e15.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.15'
+SOURCE_FILE = 'sources/kukhnya/s02/e15.ru.srt'
 
 INTRO = "Touched by Ilya's romantic speech, Nagiyev closes the investigation and lets everyone off with a warning. However, when Max laughs and tries to explain to Sasha that Ilya staged the entire theft and confession to look like a noble hero, Sasha angrily breaks up with Max."
 
@@ -35,7 +35,7 @@ WALK = [
     (0, None, "'Then the investigation is officially closed.' Spoken Russian keeps this brisk, leaning on 'then' and finishing on 'to close'. Vika answers right away."),
     (1, None, "'But I am warning all of you.' Vika brings out the contrast between 'I' and 'everyone' in a few short words."),
     (2, None, "'Next time this happens.' The meaning hinges on 'next' working together with 'time' in spoken Russian."),
-    (3, None, "'That applies to you too.' Notice the reflexive suffix on the verb meaning 'concerns', turning the action back on the subject. Max answers right away."),
+    (3, None, "'That applies to you too.' Notice how Russian puts 'some, also' and 'concerns, applies to' together in a short, direct phrase where word endings show how the ideas connect."),
     (4, None, "'Got it, mom.' Max anchors the line on 'clear', while 'Mum' completes the thought."),
     (5, None, "'Well, it is clear to me.' In Russian, the idea of 'come on' flows naturally into 'clear' without extra filler words."),
     (6, None, "'I figured his scheme out right away.' Notice how Russian expresses 'come on' and 'understood?' with crisp inflection rather than helper words. Vika answers right away."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = 'When you watch Scene 18 of Episode 15, listen out for the exchange around the clever scheme and breaking up with sasha — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Похоже, что меня.')
+OUTRO = 'That wraps up this scene as nagiyev drops the matter since the cash was returned, and when Max gloats to Sasha that Ilya staged the whole confession to manipulate her, an offended Sasha dumps Max. See you next time!'
+CLOSING = ("anya", "До завтра!")

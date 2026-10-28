@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 17
-TITLE = 'Яблочный сок вместо виски  (Apple Juice Instead of Whiskey)'
+TITLE = "Яблочный сок вместо виски  (Apple Juice Instead of Whiskey)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "katya": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "katya": "Катя", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = 'Thrilled that Sauce Lavrov works, Katya invites Max to her place to celebrate. Then Max asks Kostya how Nagiyev can drink seven glasses of whiskey—and Kostya reveals he has been pouring Nagiyev apple juice all night! Listen first.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Nagiyev was drinking apple juice, while his respected poker guests were drinking real whiskey! Within seconds, the poker table turns into a fountain. Let's hear Scene Eighteen!"
-CLOSING = ('kostya', 'Тактика у него такая.')
+OUTRO = "Nagiyev was drinking apple juice, while his respected poker guests were drinking real whiskey! Within seconds, the poker table turns into a fountain. Let's hear Scene Eighteen! Until next time!"
+CLOSING = ("kostya", "Хорошего дня!")

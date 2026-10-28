@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e06-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 6
 SCENE = 20
-TITLE = 'Новый сюжет  (A New Storyline)'
+TITLE = "Новый сюжет  (A New Storyline)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.06'
 SOURCE_FILE = 'sources/kukhnya/s03/e06.ru.srt'
 
 INTRO = 'In the closing scene, Nagiyev promises Vika he will leave Max alone if she gives him a chance. Watching them leave together, Max wonders if he can start a new chapter.'
@@ -38,7 +38,7 @@ WALK = [
     (3, None, "'That I am such a cheerful eccentric.' The meaning hinges on 'what' working together with 'oddball' in spoken Russian."),
     (4, None, "'But I really can be different, honest word.' In Russian, the idea of 'but' flows naturally into 'word' without extra filler words."),
     (5, None, "'Please, just give me one chance.' Spoken Russian keeps this brisk, leaning on 'please' and finishing on 'chance'."),
-    (6, None, "'Do not be afraid, I will not touch him, let him work.' Notice the reflexive suffix on the verb meaning 'fear', turning the action back on the subject."),
+    (6, None, "'Do not be afraid, I will not touch him, let him work.' Here Nagiyev anchors the thought on 'fear' and finishes on 'works', keeping the spoken rhythm brisk and natural."),
     (7, None, "'Sometimes your life is like a long TV series.' Spoken Russian keeps this brisk, leaning on 'sometimes' and finishing on 'TV series'."),
     (8, None, "'Which has been running for very many years already.' Max brings out the contrast between 'who' and 'is coming' in a few short words."),
     (9, None, "'You stop being the main character of this story.' The grammar packs 'you' and 'story' into a tight, idiomatic kitchen exchange."),
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Vika leaves with Nagiyev, and Max faces a fateful choice: let their story end, or fight to win Vika back in Episode 7.'
-CLOSING = ('anya', 'Я тебя всё равно найду!')
+OUTRO = 'Vika leaves with Nagiyev, and Max faces a fateful choice: let their story end, or fight to win Vika back in Episode 7. See you next time!'
+CLOSING = ("anya", "До свидания!")

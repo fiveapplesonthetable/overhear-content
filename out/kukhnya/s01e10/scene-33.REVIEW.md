@@ -1,38 +1,40 @@
-# kukhnya-s01e10-scene-33: review sheet
+# Евгений Максимович  (Evgeny Maksimovich) — `kukhnya-s01e10-scene-33`
 
-Title: Евгений Максимович  (Evgeny Maksimovich)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.10
+**Source:** Кухня (Kukhnya) S1.10 · `sources/kukhnya/s01/e10.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `anya` | alisa | Макс |
+| `vika` | angelina | Вика |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> In the restaurant office, Max confronts Victoria after discovering she was only testing his maturity. To turn the tables, Max playfully pretends to embrace parenthood, eagerly suggesting marriage, loans, and baby names. Listen to their conversation in Russian first, then we will break down each line in English.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Вика, я тут подумал над твоими словами. | Vika, I have been thinking about your words. | #233 00:15:57: я тут подумал | adapted: opening conversation |
-| 2 | Вика | И что же ты надумал, Макс? | And what did you come up with, Max? | new | new: feigning innocence |
-| 3 | Макс | Я позвонил маме, родители скоро приедут. | I called mom, my parents are coming soon. | #234 00:16:01: маме с папкой, они приедут. | adapted: declaring plan |
-| 4 | Макс | Мы обязательно сыграем большую свадьбу! | We will definitely have a big wedding! | #235 00:16:02: Сыграем свадьбу | adapted: offering wedding |
-| 5 | Вика | Макс, ты это сейчас серьёзно говоришь? | Max, are you saying this seriously right now? | new | new: surprised reaction |
-| 6 | Макс | Если не хватит денег, возьмём кредит. | If there is not enough money, we will take a loan. | #236 00:16:04: кредит возьмём | adapted: suggesting finance |
-| 7 | Макс | В понедельник я к тебе перееду. | On Monday I will move in with you. | #237 00:16:06: я к тебе перееду. | adapted: proposing move |
-| 8 | Макс | Будем вместе спокойно ждать ребёнка. | We will wait for the baby together peacefully. | #238 00:16:08: Будем ждать ребёнка. | adapted: feigning enthusiasm |
-| 9 | Вика | Подожди, какой ещё ребёнок? | Wait, what baby are you talking about? | new | new: starting to backtrack |
-| 10 | Макс | Может, мы назовём его Женя? | Maybe we will name him Zhenya? | #240 00:16:13: ребёночка Женя назовём? | adapted: suggesting name |
-| 11 | Макс | Будет красивое имя — Евгений Максимович! | It will be a handsome name — Evgeny Maksimovich! | #241 00:16:19: Евгений Максимович. | adapted: proposing full name |
-| 12 | Макс | А если родится девочка, назовём Евгения. | And if a girl is born, we will name her Evgeniya. | #242 00:16:20: А если девочка, то Евгения. | adapted: covering both genders |
-| 13 | Макс | Тебе нравится такой план, дорогая? | Do you like this plan, darling? | #243 00:16:24: Тебе нравится? | adapted: concluding challenge |
+| 0 | Макс | Вика, я тут подумал над твоими словами. | Vika, I have been thinking about your words. | #233 "я тут подумал" |  |
+| 1 | Вика | И что же ты надумал, Макс? | And what did you come up with, Max? | *(added)* |  |
+| 2 | Макс | Я позвонил маме, родители скоро приедут. | I called mom, my parents are coming soon. | #234 "маме с папкой, они приедут." |  |
+| 3 | Макс | Мы обязательно сыграем большую свадьбу! | We will definitely have a big wedding! | #235 "Сыграем свадьбу" |  |
+| 4 | Вика | Макс, ты это сейчас серьёзно говоришь? | Max, are you saying this seriously right now? | *(added)* |  |
+| 5 | Макс | Если не хватит денег, возьмём кредит. | If there is not enough money, we will take a loan. | #236 "кредит возьмём" |  |
+| 6 | Макс | В понедельник я к тебе перееду. | On Monday I will move in with you. | #237 "я к тебе перееду." |  |
+| 7 | Макс | Будем вместе спокойно ждать ребёнка. | We will wait for the baby together peacefully. | #238 "Будем ждать ребёнка." |  |
+| 8 | Вика | Подожди, какой ещё ребёнок? | Wait, what baby are you talking about? | *(added)* |  |
+| 9 | Макс | Может, мы назовём его Женя? | Maybe we will name him Zhenya? | #240 "ребёночка Женя назовём?" |  |
+| 10 | Макс | Будет красивое имя — Евгений Максимович! | It will be a handsome name — Evgeny Maksimovich! | #241 "Евгений Максимович." |  |
+| 11 | Макс | А если родится девочка, назовём Евгения. | And if a girl is born, we will name her Evgeniya. | #242 "А если девочка, то Евгения." |  |
+| 12 | Макс | Тебе нравится такой план, дорогая? | Do you like this plan, darling? | #243 "Тебе нравится?" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Vika, I have been thinking about your words.' — past verb governing a prepositional construction.
-- 'I called mom, my parents are coming soon.' — two coordinate clauses expressing family news.
-- 'We will definitely have a big wedding!' — future perfective verb with an emphatic adverb.
-- 'If there is not enough money, we will take a loan.' — conditional construction with genitive of negation.
-- 'On Monday I will move in with you.' — prepositional time phrase followed by a motion verb.
-- 'We will wait for the baby together peacefully.' — compound future verb with an accusative direct object.
-- 'Maybe we will name him Zhenya?' — modal particle with future verb governing double accusative.
-- 'It will be a handsome name — Evgeny Maksimovich!' — full name with traditional Russian patronymic.
-- 'And if a girl is born, we will name her Evgeniya.' — conditional future sentence expressing contingency.
-- 'Do you like this plan, darling?' — dative construction of liking with an affectionate address. Now listen to the full conversation once more.
+> In the restaurant office, Max playfully turns the tables on Victoria by enthusiastically proposing marriage, moving in together, and naming their baby Evgeny Maksimovich. Next time you watch the episode, listen for the Russian expressions for 'to wait' and 'to be enough' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

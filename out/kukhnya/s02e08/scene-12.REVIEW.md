@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Я всегда думал, что ты просто идиот. | I always thought that you were simply an idiot. | #205 00:13:27: Я всегда думал, что ты просто идиот | verbatim |
-| 2 | Настя | Но ты не идиот. | Wait, you are not just an idiot. | #206 00:13:31: Но ты не идиот | verbatim |
+| 1 | Шеф | Я всегда думал, что ты просто идиот. | I always thought that you were simply an idiot. | #205 00:13:27: Я всегда думал, что ты просто идиот | verbatim |
+| 2 | Елена | Но ты не идиот. | Wait, you are not just an idiot. | #206 00:13:31: Но ты не идиот | verbatim |
 | 3 | Елена | Какого черта ты решил. | Why the hell did you decide to do that. | #208 00:13:36: Какого черта ты решил | verbatim |
-| 4 | Аня | Шеф, а я подумал. | Chef, I just thought it would help. | #209 00:13:40: Шеф, а я подумал | verbatim |
-| 5 | Настя | Еще раз добрый день. | Good afternoon once again. | #212 00:13:48: Еще раз добрый день | verbatim |
+| 4 | Шеф | Шеф, а я подумал. | Chef, I just thought it would help. | #209 00:13:40: Шеф, а я подумал | verbatim |
+| 5 | Елена | Еще раз добрый день. | Good afternoon once again. | #212 00:13:48: Еще раз добрый день | verbatim |
 | 6 | Елена | Как настроение? | How is your mood today? | #213 00:13:51: Как настроение | verbatim |
-| 7 | Аня | Гостей много? | Do you have many guests? | #214 00:13:53: Гостей много | verbatim |
-| 8 | Настя | Сообщение от Елены. | It is a message from Elena. | #215 00:13:54: Сообщение от Елены | verbatim |
+| 7 | Шеф | Гостей много? | Do you have many guests? | #214 00:13:53: Гостей много | verbatim |
+| 8 | Елена | Сообщение от Елены. | It is a message from Elena. | #215 00:13:54: Сообщение от Елены | verbatim |
 | 9 | Елена | Что это? | Wait, what is that? | #215 00:13:54: Что это | verbatim |
-| 10 | Аня | Да вы не волнуйтесь. | Do not worry, Chef. | #216 00:13:57: да вы не волнуйтесь | verbatim |
-| 11 | Настя | Я сейчас все удалю. | I will delete the whole thing right now. | #216 00:13:57: я сейчас все удалю | verbatim |
+| 10 | Шеф | Да вы не волнуйтесь. | Do not worry, Chef. | #216 00:13:57: да вы не волнуйтесь | verbatim |
+| 11 | Елена | Я сейчас все удалю. | I will delete the whole thing right now. | #216 00:13:57: я сейчас все удалю | verbatim |
 | 12 | Елена | Надо что-то ответить. | We have to reply something to her. | #217 00:14:00: надо что-то ответить | verbatim |
-| 13 | Аня | Напиши так. | Write it down like this. | #218 00:14:08: Напиши так | verbatim |
+| 13 | Шеф | Напиши так. | Write it down like this. | #218 00:14:08: Напиши так | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

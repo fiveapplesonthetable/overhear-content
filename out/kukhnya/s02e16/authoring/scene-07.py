@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e16-scene-07"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e16-scene-07'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 16
 SCENE = 7
 TITLE = "Знакомство с сыном Елены  (Meeting Elena's Son)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.16"
-SOURCE_FILE = "sources/kukhnya/s02/e16.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.16'
+SOURCE_FILE = 'sources/kukhnya/s02/e16.ru.srt'
 
 INTRO = "Hearing a scuffle in the hallway, Elena Pavlovna rushes out in her robe and stops Chef Barinov from twisting the intruder's arm, revealing that the young man is her son Vasily. Barinov points out that Vasily smells of alcohol, sparking an argument between mother and son."
 
 STORY = [
-    ('anya', 'Это что здесь происходит?', 'What on earth is going on here?', [(113, 'Это что здесь происходит')], ''),
+    ('chef', 'Это что здесь происходит?', 'What on earth is going on here?', [(113, 'Это что здесь происходит')], ''),
     ('vika', 'Нет, ты давай, иди в комнату.', 'No, go on into your room right now.', [(114, 'Нет, ты давай, иди в комнату')], ''),
-    ('anya', 'Виктор Петрович, остановитесь.', 'Viktor Petrovich, stop right there.', [(116, 'Виктор Петрович, остановитесь')], ''),
+    ('chef', 'Виктор Петрович, остановитесь.', 'Viktor Petrovich, stop right there.', [(116, 'Виктор Петрович, остановитесь')], ''),
     ('vika', 'Фу ты елки, Виктор Петрович, мой…', 'Good grief, Viktor Petrovich, this is my...', [(119, 'Фу ты елки, Виктор Петрович, мой')], ''),
-    ('anya', 'Понятно, ты можешь не продолжать.', 'I get it, you do not need to finish that sentence.', [(120, 'Понятно, ты можешь не продолжать')], ''),
+    ('chef', 'Понятно, ты можешь не продолжать.', 'I get it, you do not need to finish that sentence.', [(120, 'Понятно, ты можешь не продолжать')], ''),
     ('vika', 'И что вы с ним здесь?', 'Wait, what are you doing here with him?', [(121, 'И что вы с ним здесь')], ''),
-    ('anya', 'Так, ну-ка прекрати, пожалуйста.', 'Alright, stop that right now, please.', [(122, 'Так, ну-ка прекрати, пожалуйста')], ''),
+    ('chef', 'Так, ну-ка прекрати, пожалуйста.', 'Alright, stop that right now, please.', [(122, 'Так, ну-ка прекрати, пожалуйста')], ''),
     ('vika', 'И вообще, почему ты здесь?', 'And besides, why are you even here?', [(123, 'И вообще, почему ты здесь')], ''),
-    ('anya', 'От него, кстати, алкоголем пахнет.', 'By the way, he smells like alcohol.', [(125, 'От него, кстати, алкоголем пахнет')], ''),
+    ('chef', 'От него, кстати, алкоголем пахнет.', 'By the way, he smells like alcohol.', [(125, 'От него, кстати, алкоголем пахнет')], ''),
     ('vika', 'Мам, вот только не начинай.', 'Mom, please do not even start.', [(127, 'Мам, вот только не начинай')], ''),
-    ('anya', 'Конечно тебе лучше в армии.', 'Maybe you really would be better off in the army.', [(129, 'Конечно тебе лучше в армии')], ''),
+    ('chef', 'Конечно тебе лучше в армии.', 'Maybe you really would be better off in the army.', [(129, 'Конечно тебе лучше в армии')], ''),
     ('vika', 'Иди в комнату.', 'Go to your room.', [(130, 'Иди в комнату')], ''),
-    ('anya', 'Нет, ты видел?', 'No, did you see that?', [(131, 'Нет, ты видел')], ''),
+    ('chef', 'Нет, ты видел?', 'No, did you see that?', [(131, 'Нет, ты видел')], ''),
 ]
 
 OPENER = "Let's replay the exchange and look closely at each Russian phrase."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 7 of Episode 16, listen out for the exchange around meeting elena's son — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Нет, ты видел?')
+OUTRO = 'That wraps up this scene as elena Pavlovna rushes out of the bathroom to stop Chef Barinov from twisting the arm of her son Vasily, who rudely criticizes their relationship. Until next time!'
+CLOSING = ("chef", "Всего хорошего!")

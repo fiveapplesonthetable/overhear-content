@@ -19,9 +19,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Аня | Вот вы двое и пойдёте их разносить. | You two are the ones who will go deliver them. | #212 00:15:28: Вот вы двое и пойдете разносить | adapted: adapted |
 | 8 | Сеня | Нет, мы повара, мы не официанты. | No, we are cooks, we are not waiters. | #213 00:15:30: мы не официанты | adapted: adapted |
 | 9 | Аня | Вот именно, официантов я штрафовать не могу. | Exactly, I cannot fine the waiters. | #214 00:15:32: Вот именно. Официантов я штрафовать не могу | adapted: adapted |
-| 10 | Инспектор | Здравствуйте, я ничего сегодня не заказывал. | Hello, I did not order anything today. | #217 00:15:43: Здравствуйте<br>#218 00:15:46: Я ничего не | adapted: adapted |
+| 10 | Сеня | Здравствуйте, я ничего сегодня не заказывал. | Hello, I did not order anything today. | #217 00:15:43: Здравствуйте<br>#218 00:15:46: Я ничего не | adapted: adapted |
 | 11 | Сеня | Мы вам бесплатную закуску от шефа принесли. | We brought you a free snack from the chef. | #219 00:15:47: принесли | adapted: adapted |
-| 12 | Инспектор | Простите, я вас совсем не понимаю. | Excuse me, I do not understand you at all. | #220 00:15:49: Я не понимаю | adapted: adapted |
+| 12 | Сеня | Простите, я вас совсем не понимаю. | Excuse me, I do not understand you at all. | #220 00:15:49: Я не понимаю | adapted: adapted |
 | 13 | Сеня | Да мы сейчас поставим тарелку и уйдём. | We will just set the plate down right now and leave. | #221 00:15:52: Да мы сейчас поставим, мы уйдем | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

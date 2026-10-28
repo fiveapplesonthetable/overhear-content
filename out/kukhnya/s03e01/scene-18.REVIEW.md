@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You went to Nagiyev. Bravo!' Chef Barinov brings out the contrast between 'am off' and 'Nagiyev' in a few short words.
 - 'But it will not be easy for you here.' Chef Barinov addresses the listener with the informal singular 'you' alongside 'not easy'. Vika answers right away.
 - 'Dad, it has never been easy for me.' Vika brings out the contrast between 'dad' and 'to me' in a few short words.
-- 'And who paid for your education in France?' The grammar packs 'and' and 'France' into a tight, idiomatic kitchen exchange.
+- 'And who paid for your education in France?' Notice how Russian puts 'paid' and 'training, tuition' together in a short, direct phrase where word endings show how the ideas connect.

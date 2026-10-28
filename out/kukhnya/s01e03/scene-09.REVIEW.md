@@ -1,32 +1,40 @@
-# kukhnya-s01e03-scene-09: review sheet
+# Разговор у барной стойки  (Conversation at the Bar) — `kukhnya-s01e03-scene-09`
 
-Title: Разговор у барной стойки  (Conversation at the Bar)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.03
-Cues 213-220. Bartender Kostya talks sense into Max about his unrealistic crush on Vika.
+**Source:** Кухня (Kukhnya) S1.03 · `sources/kukhnya/s01/e03.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `kostya` | anja | Костя |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> At the Claude Monet bar counter, novice cook Max vents his romantic frustrations about art director Vika. Bartender Kostya tries to inject some harsh reality into Max's daydreaming, arguing that glamorous Vika is completely out of his league. Let's listen to their conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Костя | Расслабься, друг, не нервничай так. | Relax, my friend, do not be so nervous. | #213 00:13:23: Расслабься | adapted: trying to calm Max down |
-| 2 | Макс | Он просто хочет меня позлить. | He simply wants to get a rise out of me. | #214 00:13:25: меня позлить хочет | adapted: venting his frustration |
-| 3 | Костя | Ты не обижайся на мои слова. | Do not take offense at my words. | #215 00:13:34: Ты без обид | adapted: prefacing his blunt advice |
-| 4 | Макс | Что ты хочешь мне сказать? | What do you want to tell me? | new | new: asking tensely |
-| 5 | Костя | Она никогда не выберет тебя. | She would never choose you. | #216 00:13:37: она бы не в жизни | adapted: stating the hard truth |
-| 6 | Макс | Почему ты так уверен в этом? | Why are you so confident about this? | new | new: demanding justification |
-| 7 | Костя | Она красивая и взрослая женщина. | She is a beautiful and mature woman. | new | new: pointing out the gap |
-| 8 | Костя | А ты просто бедный молодой повар. | And you are simply a broke young cook. | new | new: describing Max's standing |
-| 9 | Макс | Я знаю её совсем с другой стороны. | I know her from a completely different side. | #217 00:13:42: Я-то знаю | adapted: hinting at their night together |
-| 10 | Костя | Хочешь выпить со мной сока? | Do you want to drink some juice with me? | #218 00:13:46: Выпить хочешь | adapted: offering a refreshment |
-| 11 | Макс | Нет, спасибо, я сейчас на работе. | No, thank you, I am at work right now. | #219 00:13:49: Нет, спасибо | adapted: declining politely |
-| 12 | Костя | Ну, как знаешь, твоё дело. | Well, suit yourself, it is your business. | #220 00:13:51: как хочешь | adapted: shrugging it off |
-| 13 | Макс | Я всё равно поговорю с ней. | I will still talk with her anyway. | new | new: resolving to pursue Vika |
+| 0 | Костя | Расслабься, друг, не нервничай так. | Relax, my friend, do not be so nervous. | #213 "Расслабься" |  |
+| 1 | Макс | Он просто хочет меня позлить. | He simply wants to get a rise out of me. | #214 "меня позлить хочет" |  |
+| 2 | Костя | Ты не обижайся на мои слова. | Do not take offense at my words. | #215 "Ты без обид" |  |
+| 3 | Макс | Что ты хочешь мне сказать? | What do you want to tell me? | *(added)* |  |
+| 4 | Костя | Она никогда не выберет тебя. | She would never choose you. | #216 "она бы не в жизни" |  |
+| 5 | Макс | Почему ты так уверен в этом? | Why are you so confident about this? | *(added)* |  |
+| 6 | Костя | Она красивая и взрослая женщина. | She is a beautiful and mature woman. | *(added)* |  |
+| 7 | Костя | А ты просто бедный молодой повар. | And you are simply a broke young cook. | *(added)* |  |
+| 8 | Макс | Я знаю её совсем с другой стороны. | I know her from a completely different side. | #217 "Я-то знаю" |  |
+| 9 | Костя | Хочешь выпить со мной сока? | Do you want to drink some juice with me? | #218 "Выпить хочешь" |  |
+| 10 | Макс | Нет, спасибо, я сейчас на работе. | No, thank you, I am at work right now. | #219 "Нет, спасибо" |  |
+| 11 | Костя | Ну, как знаешь, твоё дело. | Well, suit yourself, it is your business. | #220 "как хочешь" |  |
+| 12 | Макс | Я всё равно поговорю с ней. | I will still talk with her anyway. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Relax, my friend, do not be so nervous.' Kostya advises, using the imperative form of the reflexive verb.
-- 'He simply wants to get a rise out of me.' Max replies, explaining his visible frustration.
-- 'Do you want to drink some juice with me?' the bartender offers generously to distract his friend.
-- 'No, thank you, I am at work right now.' Max answers responsibly, declining the drink. Now listen to the full bar conversation once more.
+> Kostya wipes down the counter as Max remains lost in thought. Next time you watch the episode, listen for the Russian expressions for 'poor' and 'adult' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

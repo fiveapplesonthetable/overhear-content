@@ -17,8 +17,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Нагиев | Ну какой же сегодня плохой день! | Well what a bad day it is today! | #259 00:19:08: какой день сегодня, плохой | adapted: adapted |
 | 6 | Нагиев | Машину мою новую сегодня разбили. | They wrecked my new car today. | #260 00:19:12: Машину разбили | adapted: adapted |
 | 7 | Нагиев | И моё сердце тоже разбили. | And they broke my heart too. | #261 00:19:14: Сердце | adapted: adapted |
-| 8 | Вика | Дима, пожалуйста, прости меня за всё. | Dima, please forgive me for everything. | #263 00:19:23: Прости меня | adapted: adapted |
-| 9 | Вика | Честное слово, мне очень жаль. | Honestly, I am very sorry. | #264 00:19:26: Мне очень жаль | adapted: adapted |
+| 8 | Нагиев | Дима, пожалуйста, прости меня за всё. | Dima, please forgive me for everything. | #263 00:19:23: Прости меня | adapted: adapted |
+| 9 | Нагиев | Честное слово, мне очень жаль. | Honestly, I am very sorry. | #264 00:19:26: Мне очень жаль | adapted: adapted |
 | 10 | Нагиев | Нет, это мне вас обоих сейчас жаль. | No, I am the one who feels sorry for both of you right now. | #265 00:19:33: Это мне вас жаль | adapted: adapted |
 | 11 | Нагиев | Вы не сможете устроиться ни в один ресторан в Москве. | You will not be able to get a job at a single restaurant in Moscow. | #266 00:19:41: устроиться не в один ресторан в Москве | adapted: adapted |
 | 12 | Нагиев | Запомните, я вас просто уничтожу! | Remember, I will simply destroy you! | #267 00:19:49: Я вас уничтожу | adapted: adapted |

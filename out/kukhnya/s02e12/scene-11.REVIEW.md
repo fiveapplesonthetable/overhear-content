@@ -10,26 +10,26 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ага, помоги. | Yeah, help me out. | #175 00:10:47: Ага, помоги | verbatim |
+| 1 | Шеф | Ага, помоги. | Yeah, help me out. | #175 00:10:47: Ага, помоги | verbatim |
 | 2 | Вика | Это наша Виктория Сергеевна. | This is our Viktoriya Sergeyevna. | #177 00:10:51: Это наша Виктория Сергеевна | verbatim |
-| 3 | Аня | Да ладно. | Oh, come on. | #178 00:10:55: Да ладно | verbatim |
+| 3 | Шеф | Да ладно. | Oh, come on. | #178 00:10:55: Да ладно | verbatim |
 | 4 | Вика | Это я заранее. | I am just saying it in advance. | #179 00:10:56: Это я заранее | verbatim |
-| 5 | Аня | Да шучу. | I am just kidding. | #179 00:10:56: Да шучу | verbatim |
+| 5 | Шеф | Да шучу. | I am just kidding. | #179 00:10:56: Да шучу | verbatim |
 | 6 | Вика | Обсудить рабочий момент. | To discuss a work matter. | #180 00:10:58: обсудить рабочий момент | verbatim |
-| 7 | Аня | Ну, пошли работать. | Well, let us get to work. | #182 00:11:05: Ну, пошли работать | verbatim |
+| 7 | Шеф | Ну, пошли работать. | Well, let us get to work. | #182 00:11:05: Ну, пошли работать | verbatim |
 | 8 | Вика | Мне сказали. | Someone told me. | #183 00:11:29: мне сказали | verbatim |
-| 9 | Аня | В общем, по поводу моей семьи. | Anyway, regarding my family. | #184 00:11:34: В общем, по поводу моей семьи | verbatim |
+| 9 | Шеф | В общем, по поводу моей семьи. | Anyway, regarding my family. | #184 00:11:34: В общем, по поводу моей семьи | verbatim |
 | 10 | Вика | Я с мужем не живу. | I do not live with my husband anymore. | #185 00:11:37: Я с мужем не живу | verbatim |
-| 11 | Аня | Сын вырос, и мы развелись. | Our son grew up, and we got divorced. | #187 00:11:40: Сын вырос, и мы развелись | verbatim |
+| 11 | Шеф | Сын вырос, и мы развелись. | Our son grew up, and we got divorced. | #187 00:11:40: Сын вырос, и мы развелись | verbatim |
 | 12 | Вика | Просто не было подходящего момента. | There just was never a right moment to mention it. | #188 00:11:46: просто не было подходящего момента | verbatim |
-| 13 | Аня | Наше новое блюдо. | Our new dish. | #190 00:11:54: Наше новое блюдо | verbatim |
+| 13 | Шеф | Наше новое блюдо. | Our new dish. | #190 00:11:54: Наше новое блюдо | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Yeah, help me out.' The meaning hinges on 'yeah' working together with 'help' in spoken Russian.
 - 'This is our Viktoriya Sergeyevna.' Notice how Russian expresses 'this' and 'Sergeyevna' with crisp inflection rather than helper words. Chef Viktor answers right away.
 - 'Oh, come on.' Chef Viktor anchors the line on 'yes', while 'really?!' completes the thought.
-- 'I am just saying it in advance.' In Russian, the idea of 'this' flows naturally into 'in advance' without extra filler words.
+- 'I am just saying it in advance.' Vika centers this short reply on 'in advance', letting a few direct words carry the whole meaning.
 - 'I am just kidding.' Here the Russian phrasing highlights 'yes' before landing on 'am joking'. Vika answers right away.
 - 'To discuss a work matter.' The grammar packs 'to discuss' and 'moment' into a tight, idiomatic kitchen exchange.
 - 'Well, let us get to work.' Here the Russian phrasing highlights 'come on' before landing on 'to work'.

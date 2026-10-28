@@ -1,18 +1,23 @@
 {
+ "schemaVersion": 1,
  "id": "kukhnya-s04e04-scene-02",
  "pair": "ru-en",
+ "show": "kukhnya",
+ "season": 4,
+ "episode": 4,
+ "scene": 2,
  "title": "Совет врача  (The Doctor's Advice)",
  "level": "A1 — Duolingo Section 2",
  "voices": {
   "narrator": "sky",
+  "doctor": "anja",
   "anya": "alisa",
-  "vika": "angelina",
-  "vrach": "anja"
+  "vika": "angelina"
  },
  "labels": {
+  "doctor": "Врач",
   "anya": "Макс",
-  "vika": "Вика",
-  "vrach": "Врач"
+  "vika": "Вика"
  },
  "segments": [
   {
@@ -41,12 +46,12 @@
    "gap": 0.55
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "Ничего страшного. Судя по анализам, вы здоровы.",
    "gap": 0.55
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "В ближайшие два дня советую вам хорошенько потрудиться.",
    "gap": 0.55
   },
@@ -56,12 +61,12 @@
    "gap": 0.55
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "Ну, это уже зависит от вас.",
    "gap": 0.55
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "Кто-то может и семь раз.",
    "gap": 0.55
   },
@@ -76,7 +81,7 @@
    "gap": 0.55
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "Имеется в виду за два дня.",
    "gap": 0.9
   },
@@ -92,7 +97,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Well, what does it say?' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.",
+   "t": "'Well, what does it say?' Max keeps this everyday Russian response short and direct, without needing English helper words like 'am', 'is', or 'are'.",
    "gap": 0.4
   },
   {
@@ -102,7 +107,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Only one line again.' Vika uses natural conversational word order here to highlight the most important part of the reply.",
+   "t": "'Only one line again.' Spoken Russian keeps this brief and expressive, built right around 'again' without extra helper words.",
    "gap": 0.4
   },
   {
@@ -112,7 +117,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Phew, thank goodness.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.",
+   "t": "'Phew, thank goodness.' Max pairs 'glory' with 'to God' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.",
    "gap": 0.4
   },
   {
@@ -122,27 +127,27 @@
   },
   {
    "v": "narrator",
-   "t": "'Oops, sorry, out of habit.' Max uses natural conversational word order here to highlight the most important part of the reply.",
+   "t": "'Oops, sorry, out of habit.' Notice how Russian puts 'sorry' and 'habit' together in a short, direct phrase where word endings show how the ideas connect.",
    "gap": 0.4
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "Ничего страшного. Судя по анализам, вы здоровы.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Nothing terrible. Judging by the tests, you are healthy.' In spoken Russian, The doctor omits unnecessary linking verbs so the key idea lands immediately.",
+   "t": "'Nothing terrible. Judging by the tests, you are healthy.' Here the doctor anchors the thought on 'terrible' and finishes on 'healthy, well; huge', keeping the spoken rhythm brisk and natural.",
    "gap": 0.4
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "В ближайшие два дня советую вам хорошенько потрудиться.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Over the next two days I advise you to work really hard.' The doctor keeps the sentence short and direct, relying on Russian case endings to show how the words connect.",
+   "t": "'Over the next two days I advise you to work really hard.' In everyday Russian, 'next' flows straight into 'to take the trouble, to bother' without extra linking words.",
    "gap": 0.4
   },
   {
@@ -156,23 +161,23 @@
    "gap": 0.4
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "Ну, это уже зависит от вас.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Well, that depends on you.' The doctor keeps the sentence short and direct, relying on Russian case endings to show how the words connect.",
+   "t": "'Well, that depends on you.' Notice how Russian puts 'already' and 'depends' together in a short, direct phrase where word endings show how the ideas connect.",
    "gap": 0.4
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "Кто-то может и семь раз.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'Some people can manage seven times.' In spoken Russian, The doctor omits unnecessary linking verbs so the key idea lands immediately.",
+   "t": "'Some people can manage seven times.' Here the doctor anchors the thought on 'maybe' and finishes on 'time, occasion', keeping the spoken rhythm brisk and natural.",
    "gap": 0.4
   },
   {
@@ -182,7 +187,7 @@
   },
   {
    "v": "narrator",
-   "t": "'Well, seven it is then.' Vika uses natural conversational word order here to highlight the most important part of the reply.",
+   "t": "'Well, seven it is then.' Spoken Russian keeps this brief and expressive, built right around 'so, like this' without extra helper words.",
    "gap": 0.4
   },
   {
@@ -196,13 +201,13 @@
    "gap": 0.4
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "Имеется в виду за два дня.",
    "gap": 0.55
   },
   {
    "v": "narrator",
-   "t": "'I mean over the course of two days.' In spoken Russian, The doctor omits unnecessary linking verbs so the key idea lands immediately. Let's hear the entire conversation one more time from start to finish.",
+   "t": "'I mean over the course of two days.' Notice how Russian puts 'is available, I have' and 'day' together in a short, direct phrase where word endings show how the ideas connect. Let's hear the entire conversation one more time from start to finish.",
    "gap": 0.9
   },
   {
@@ -226,12 +231,12 @@
    "gap": 0.5
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "Ничего страшного. Судя по анализам, вы здоровы.",
    "gap": 0.5
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "В ближайшие два дня советую вам хорошенько потрудиться.",
    "gap": 0.5
   },
@@ -241,12 +246,12 @@
    "gap": 0.5
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "Ну, это уже зависит от вас.",
    "gap": 0.5
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "Кто-то может и семь раз.",
    "gap": 0.5
   },
@@ -261,18 +266,18 @@
    "gap": 0.5
   },
   {
-   "v": "vrach",
+   "v": "doctor",
    "t": "Имеется в виду за два дня.",
    "gap": 0.9
   },
   {
    "v": "narrator",
-   "t": "That covers Max and Vika's visit to the fertility doctor. Notice how Russian uses impersonal expressions and infinitives to give polite medical advice. See you in the next scene.",
+   "t": "That covers Max and Vika's visit to the fertility doctor. Notice how Russian uses impersonal expressions and infinitives to give polite medical advice. See you next time!",
    "gap": 0.5
   },
   {
-   "v": "vrach",
-   "t": "Судя по анализам, вы здоровы.",
+   "v": "doctor",
+   "t": "Пока!",
    "gap": 0.3
   }
  ],
@@ -351,9 +356,5 @@
     "fragment": "за два дня."
    }
   ]
- },
- "show": "kukhnya",
- "season": 4,
- "episode": 4,
- "scene": 2
+ }
 }

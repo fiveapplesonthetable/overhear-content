@@ -1,31 +1,31 @@
 ID = 'kukhnya-s06e05-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 5
 SCENE = 2
 TITLE = "Проигрыш Михаила  (Mikhail's Gambling Loss)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja"}
+LABELS = {"chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.05'
 SOURCE_FILE = 'sources/kukhnya/s06/e05.ru.srt'
 
 INTRO = 'Just as the fortune teller predicted, identical twin bellboys summon Chef Barinov upstairs to room two-oh-seven, where Mikhail Dzhekovich has gambled away everything he owns.'
 
 STORY = [
-    ('anya', 'Прошу прощения, здесь мой друг.', 'Excuse me, my friend is in here.', [(25, 'Прошу прощения, у вас здесь мой друг')], 'adapted'),
-    ('mikhail', 'Витя, это правда ты пришёл?', 'Vitya, is it really you who came?', [(26, 'Витя, Витенька, это ты')], 'adapted'),
-    ('mikhail', 'Ты представляешь, я всё проиграл.', 'Can you imagine, I lost everything.', [(27, 'ты представляешь, я всё проиграл')], 'adapted'),
-    ('mikhail', 'Я проиграл всё, что у меня было.', 'I lost everything that I had.', [(28, 'Всё, что у меня было')], 'adapted'),
-    ('mikhail', 'Зачем я вообще с ним сел играть?', 'Why did I even sit down to play with him?', [(30, 'Зачем я вообще с ним сел играть')], 'adapted'),
-    ('anya', 'Вы его самого не выиграли?', 'Did you not win him too?', [(31, 'а вы его самого в рабство не выиграли')], 'adapted'),
-    ('anya', 'Жаль, тогда я его забираю.', 'Too bad, then I am taking him away.', [(32, 'Жаль. Ну тогда его забирают')], 'adapted'),
-    ('kostya', 'Настя, ты телефон дома забыла.', 'Nastya, you forgot your phone at home.', [(35, 'Настя, а ты телефон дома забыла')], 'adapted'),
-    ('anya', 'Спасибо тебе большое, дорогой.', 'Thank you very much, my dear.', [(36, 'Спасибо')], 'adapted'),
-    ('kostya', 'Скажи мне правду, пожалуйста.', 'Tell me the truth, please.', [(37, 'Скажи мне, пожалуйста')], 'adapted'),
-    ('anya', 'Гости за столиком уже ждут.', 'The guests at the table are already waiting.', [(38, 'Гости за восьмым столиком постарели уже')], 'adapted'),
-    ('anya', 'Иди быстрее прими у них заказ.', 'Go quickly and take their order.', [(39, 'Иди прими заказ')], 'adapted'),
+    ('chef', 'Прошу прощения, здесь мой друг.', 'Excuse me, my friend is in here.', [(25, 'Прошу прощения, у вас здесь мой друг')], 'adapted'),
+    ('chef', 'Витя, это правда ты пришёл?', 'Vitya, is it really you who came?', [(26, 'Витя, Витенька, это ты')], 'adapted'),
+    ('chef', 'Ты представляешь, я всё проиграл.', 'Can you imagine, I lost everything.', [(27, 'ты представляешь, я всё проиграл')], 'adapted'),
+    ('chef', 'Я проиграл всё, что у меня было.', 'I lost everything that I had.', [(28, 'Всё, что у меня было')], 'adapted'),
+    ('chef', 'Зачем я вообще с ним сел играть?', 'Why did I even sit down to play with him?', [(30, 'Зачем я вообще с ним сел играть')], 'adapted'),
+    ('chef', 'Вы его самого не выиграли?', 'Did you not win him too?', [(31, 'а вы его самого в рабство не выиграли')], 'adapted'),
+    ('chef', 'Жаль, тогда я его забираю.', 'Too bad, then I am taking him away.', [(32, 'Жаль. Ну тогда его забирают')], 'adapted'),
+    ('chef', 'Настя, ты телефон дома забыла.', 'Nastya, you forgot your phone at home.', [(35, 'Настя, а ты телефон дома забыла')], 'adapted'),
+    ('chef', 'Спасибо тебе большое, дорогой.', 'Thank you very much, my dear.', [(36, 'Спасибо')], 'adapted'),
+    ('chef', 'Скажи мне правду, пожалуйста.', 'Tell me the truth, please.', [(37, 'Скажи мне, пожалуйста')], 'adapted'),
+    ('chef', 'Гости за столиком уже ждут.', 'The guests at the table are already waiting.', [(38, 'Гости за восьмым столиком постарели уже')], 'adapted'),
+    ('chef', 'Иди быстрее прими у них заказ.', 'Go quickly and take their order.', [(39, 'Иди прими заказ')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "While Chef Barinov hauls a broke Mikhail out of the card game, Kostya grows suspicious of Nastya's secretive morning errands. See you in the next scene."
-CLOSING = ('kostya', 'Да, я уже бегу.')
+OUTRO = "While Chef Barinov hauls a broke Mikhail out of the card game, Kostya grows suspicious of Nastya's secretive morning errands. See you next time!"
+CLOSING = ("chef", "Всего хорошего!")

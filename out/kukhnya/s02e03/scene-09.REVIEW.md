@@ -1,39 +1,39 @@
-# kukhnya-s02e03-scene-09: review sheet
+# Девушка в зеленом  (The Girl in Green) — `kukhnya-s02e03-scene-09`
 
-Title: Девушка в зеленом  (The Girl in Green)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S2.03
+**Source:** Кухня (Kukhnya) S2.03 · `sources/kukhnya/s02/e03.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `ilya` | anja | Илья |
+| `nastya` | angelina | Настя |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Ilya is looking for someone in the restaurant. He asks Nastya if she has seen a specific girl, but Nastya is confused by his question. Let's listen closely to their exchange in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Илья | Привет. | Hi. | new | new |
-| 2 | Настя | Привет, Илья. | Hi, Ilya. | new | new |
-| 3 | Илья | Здесь была девушка в зеленом платье? | Was there a girl in a green dress here? | #153 00:09:45: А разве здесь была девушка в зеленом платье | verbatim |
-| 4 | Настя | Вообще да. | Yes, actually. | #154 00:09:47: Вообще да | verbatim |
-| 5 | Илья | Где она? | Where is she? | new | new |
-| 6 | Настя | Я не знаю. | I don't know. | new | new |
-| 7 | Илья | Ты ее не видела? | You didn't see her? | new | new |
-| 8 | Настя | Странно, я не видела. | That's strange, I didn't see. | #155 00:09:49: Странно, я не видела | verbatim |
-| 9 | Илья | Может, она ушла? | Maybe she left? | new | new |
-| 10 | Настя | Может быть. | Maybe. | new | new |
-| 11 | Илья | Мне нужно ее найти. | I need to find her. | new | new |
-| 12 | Настя | Посмотри в баре. | Look in the bar. | new | new |
+| 0 | Илья | Привет. | Hi. | *(added)* |  |
+| 1 | Настя | Привет, Илья. | Hi, Ilya. | *(added)* |  |
+| 2 | Илья | Здесь была девушка в зеленом платье? | Was there a girl in a green dress here? | #153 "А разве здесь была девушка в зеленом платье" |  |
+| 3 | Настя | Вообще да. | Yes, actually. | #154 "Вообще да" |  |
+| 4 | Илья | Где она? | Where is she? | *(added)* |  |
+| 5 | Настя | Я не знаю. | I don't know. | *(added)* |  |
+| 6 | Илья | Ты ее не видела? | You didn't see her? | *(added)* |  |
+| 7 | Настя | Странно, я не видела. | That's strange, I didn't see. | #155 "Странно, я не видела" |  |
+| 8 | Илья | Может, она ушла? | Maybe she left? | *(added)* |  |
+| 9 | Настя | Может быть. | Maybe. | *(added)* |  |
+| 10 | Илья | Мне нужно ее найти. | I need to find her. | *(added)* |  |
+| 11 | Настя | Посмотри в баре. | Look in the bar. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Hi.' A crisp, everyday conversational reply meaning 'hi' that you will hear constantly in Russian dialogue.
-- 'Hi, Ilya.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'hi'.
-- 'Was there a girl in a green dress here?' Ilya turns a statement into a question purely through rising intonation on the word meaning 'here', pairing it with 'was' and 'girlfriend'.
-- 'Yes, actually.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'at all'.
-- 'Where is she?' The question opens with the interrogative word for 'where' and builds toward 'it'.
-- 'I don't know.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'know'.
-- 'You didn't see her?' Ilya turns a statement into a question purely through rising intonation on the word meaning 'saw' to make the point directly in conversation.
-- 'That's strange, I didn't see.' Nastya expresses this naturally by combining the word for 'strange' with 'saw'.
-- 'Maybe she left?' Ilya turns a statement into a question purely through rising intonation on the word meaning 'can', followed by 'left'.
-- 'Maybe.' Nastya chooses the imperfective verb meaning 'can' for the ongoing action, followed by 'be'.
-- 'I need to find her.' The phrasing opens with 'necessary' before bringing in 'to find' to make the point clear.
-- 'Look in the bar.' Nastya leads with the direct command form meaning 'look', followed by 'bar'.
+> And that's it for this scene. When you watch the episode, listen out for the exchange around the girl in green, and for the words meaning 'was' and 'girlfriend'. You'll catch them now. See you next time.
+
+**Илья:** До встречи!

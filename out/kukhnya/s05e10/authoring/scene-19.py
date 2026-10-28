@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e10-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 10
 SCENE = 19
-TITLE = 'Ловушка в номере  (The Trap in the Hotel Room)'
+TITLE = "Ловушка в номере  (The Trap in the Hotel Room)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja", "vika": "angelina", "anya": "alisa"}
+LABELS = {"kostya": "Костя", "vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.10'
 SOURCE_FILE = 'sources/kukhnya/s05/e10.ru.srt'
 
 INTRO = 'After the chairwoman warns Mikhail that Hotel Eleon will get no more than two stars, Vika catches the female hypnotist stealing from a room safe. The con artist puts Vika into a trance, and when Kostya and Nastya arrive with Max, she commands Max to hold Kostya back!'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes the dramatic showdown in the hotel room. Listen for the hypnotist's formula—when I snap my fingers, you will wake up and remember nothing—and her command to Max. See you in the next scene."
-CLOSING = ('kostya', 'Макс, хватай её!')
+OUTRO = "And that finishes the dramatic showdown in the hotel room. Listen for the hypnotist's formula—when I snap my fingers, you will wake up and remember nothing—and her command to Max. Until next time!"
+CLOSING = ("kostya", "Всего хорошего!")

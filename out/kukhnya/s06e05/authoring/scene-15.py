@@ -1,30 +1,30 @@
 ID = 'kukhnya-s06e05-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 5
 SCENE = 15
-TITLE = 'Слежка за номером  (Watching the Hotel Room)'
+TITLE = "Слежка за номером  (Watching the Hotel Room)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "denis": "anja"}
+LABELS = {"denis": "Денис"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.05'
 SOURCE_FILE = 'sources/kukhnya/s06/e05.ru.srt'
 
 INTRO = 'In the kitchen, Mikhail mentions he is heading back to the card table to win everything back, while outside the detective gives Denis and Nikita an update on Olivier.'
 
 STORY = [
-    ('mikhail', 'Кстати, сегодня я собираюсь отыграться.', 'By the way, today I am going to win it back.', [(229, 'Кстати, сегодня собираюсь отыграться')], 'adapted'),
-    ('anya', 'Может, тебе не надо опять играть?', 'Maybe you should not play again?', [(230, 'Опять? Может, не надо')], 'adapted'),
-    ('mikhail', 'Нет, сегодня точно мой счастливый день.', 'No, today is definitely my lucky day.', [(231, 'Не, сегодня мой день')], 'adapted'),
+    ('denis', 'Кстати, сегодня я собираюсь отыграться.', 'By the way, today I am going to win it back.', [(229, 'Кстати, сегодня собираюсь отыграться')], 'adapted'),
+    ('denis', 'Может, тебе не надо опять играть?', 'Maybe you should not play again?', [(230, 'Опять? Может, не надо')], 'adapted'),
+    ('denis', 'Нет, сегодня точно мой счастливый день.', 'No, today is definitely my lucky day.', [(231, 'Не, сегодня мой день')], 'adapted'),
     ('denis', 'Шеф, пожалуйста, помогите нам на кухне.', 'Chef, please help us in the kitchen.', [(232, 'Шеф, пожалуйста')], 'adapted'),
     ('denis', 'Федя сегодня съел что-то не то.', 'Fedya ate something bad today.', [(233, 'Съел что-то не то')], 'adapted'),
-    ('anya', 'Ладно, я всё прекрасно понял.', 'Alright, I understood everything.', [(234, 'Я все понял')], 'adapted'),
-    ('mikhail', 'Это все, кто выходил из отеля.', 'That is everyone who left the hotel.', [(236, 'Это все, кто выходил из отеля')], 'adapted'),
-    ('mikhail', 'Ему в номер заказали ужин и вино.', 'Dinner and wine were ordered to his room.', [(237, 'Ему в номер заказали ужин на двоих и вино')], 'adapted'),
+    ('denis', 'Ладно, я всё прекрасно понял.', 'Alright, I understood everything.', [(234, 'Я все понял')], 'adapted'),
+    ('denis', 'Это все, кто выходил из отеля.', 'That is everyone who left the hotel.', [(236, 'Это все, кто выходил из отеля')], 'adapted'),
+    ('denis', 'Ему в номер заказали ужин и вино.', 'Dinner and wine were ordered to his room.', [(237, 'Ему в номер заказали ужин на двоих и вино')], 'adapted'),
     ('denis', 'У них там точно свидание намечается.', 'They definitely have a date coming up there.', [(238, 'У них там что-то намечается')], 'adapted'),
     ('denis', 'Надо тихо пробраться к нему в номер.', 'We need to sneak quietly into his room.', [(239, 'Надо пробраться к нему в номер')], 'adapted'),
-    ('mikhail', 'Можно залезть через соседнее окно.', 'You can climb in through the neighboring window.', [(240, 'Можно через окно из соседнего номера')], 'adapted'),
+    ('denis', 'Можно залезть через соседнее окно.', 'You can climb in through the neighboring window.', [(240, 'Можно через окно из соседнего номера')], 'adapted'),
     ('denis', 'Или просто Катю туда сразу отвести.', 'Or simply bring Katya right up there.', [(241, 'Или просто Катю туда отвезти')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "While Denis and Nikita plot to bring Katya straight to Olivier's hotel room door, Chef Barinov gets a risky idea from Mikhail's gambling plans. See you in the next scene."
-CLOSING = ('denis', 'Поведём Катю прямо к номеру.')
+OUTRO = "While Denis and Nikita plot to bring Katya straight to Olivier's hotel room door, Chef Barinov gets a risky idea from Mikhail's gambling plans. Until next time!"
+CLOSING = ("denis", "Хорошего дня!")

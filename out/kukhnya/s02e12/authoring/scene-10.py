@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e12-scene-10"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e12-scene-10'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 12
 SCENE = 10
 TITLE = "Хитрость санитара  (The Orderly's Trick)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.12"
-SOURCE_FILE = "sources/kukhnya/s02/e12.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.12'
+SOURCE_FILE = 'sources/kukhnya/s02/e12.ru.srt'
 
 INTRO = "Back at the hospital, Elena Pavlovna stops by to ask how Viktor Petrovich is feeling. Following the Chef's secret instructions, the orderly claims that Barinov was muttering weakly in his sleep about how he must not burden Elena because she has a family of her own."
 
 STORY = [
-    ('anya', 'Этот в десять.', 'This one is at ten.', [(160, 'Этот в десять')], ''),
+    ('chef', 'Этот в десять.', 'This one is at ten.', [(160, 'Этот в десять')], ''),
     ('vika', 'Добрый день.', 'Good afternoon.', [(161, 'Добрый день')], ''),
-    ('anya', 'Как Виктор Петрович себя чувствует?', 'How is Viktor Petrovich feeling?', [(162, 'Как Виктор Петрович себя чувствует')], ''),
+    ('chef', 'Как Виктор Петрович себя чувствует?', 'How is Viktor Petrovich feeling?', [(162, 'Как Виктор Петрович себя чувствует')], ''),
     ('vika', 'Ну, знаете, уже лучше.', 'Well, you know, he is doing better already.', [(163, 'Ну, знаете, уже лучше')], ''),
-    ('anya', 'Бормотал, правда, что-то про вас.', 'Although he was muttering something about you.', [(164, 'Бормотал, правда, что-то про вас')], ''),
+    ('chef', 'Бормотал, правда, что-то про вас.', 'Although he was muttering something about you.', [(164, 'Бормотал, правда, что-то про вас')], ''),
     ('vika', 'Про меня?', 'About me?', [(165, 'Про меня')], ''),
-    ('anya', 'Сделает для меня одолжение.', 'Do me a favor.', [(166, 'сделает для меня одолжение')], ''),
+    ('chef', 'Сделает для меня одолжение.', 'Do me a favor.', [(166, 'сделает для меня одолжение')], ''),
     ('vika', 'А что он сказал?', 'And what did he say?', [(167, 'А что он сказал')], ''),
-    ('anya', 'У нее семья.', 'That she has a family.', [(168, 'у нее семья')], ''),
+    ('chef', 'У нее семья.', 'That she has a family.', [(168, 'у нее семья')], ''),
     ('vika', 'Слабым таким голосом, знаете.', 'In such a weak little voice, you know.', [(169, 'Слабым таким голосом, знаете')], ''),
-    ('anya', 'Ну, вы простите, я не все разобрал.', 'Forgive me, I could not make out all of it.', [(170, 'Ну, вы простите, я не все разобрал')], ''),
+    ('chef', 'Ну, вы простите, я не все разобрал.', 'Forgive me, I could not make out all of it.', [(170, 'Ну, вы простите, я не все разобрал')], ''),
     ('vika', 'Кофе будешь?', 'Would you like some coffee?', [(172, 'Кофе будешь')], ''),
-    ('anya', 'Да, нет, спасибо.', 'No, thank you.', [(173, 'Да, нет, спасибо')], ''),
+    ('chef', 'Да, нет, спасибо.', 'No, thank you.', [(173, 'Да, нет, спасибо')], ''),
 ]
 
 OPENER = "Alright, let's go through it step by step in English."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = "When you watch Scene 10 of Episode 12, listen out for the exchange around the orderly's trick — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'Да, нет, спасибо.')
+OUTRO = "That wraps up this scene as when Elena checks on Viktor Petrovich at the hospital, the orderly follows Barinov's instructions and pretends the Chef was muttering in his sleep about Elena having a family. See you next time!"
+CLOSING = ("chef", "До встречи!")

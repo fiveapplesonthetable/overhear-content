@@ -1,39 +1,39 @@
-# kukhnya-s01e08-scene-17: review sheet
+# Преданный Аркашка  (Loyal Arkasha) — `kukhnya-s01e08-scene-17`
 
-Title: Преданный Аркашка  (Loyal Arkasha)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (The Kitchen) S1.8
+**Source:** Кухня (Kukhnya) S1.08 · `sources/kukhnya/s01/e08.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `lyova` | angelina | Лёва |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> Sitting alone in his office, Chef Viktor Barinov stares sadly into his fishbowl. Feeling betrayed by the entire restaurant staff, he pours out his grief to his faithful pet goldfish Arkasha until sous-chef Lyova walks in. Let's listen to their conversation in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Шеф | Один ты остался у меня, милый Аркашка. | You are all I have left, dear Arkasha. | #213 00:12:27: Один ты у меня остался, Аркашка | adapted: speaking to fish |
-| 2 | Лёва | Шеф, почему вы сидите здесь в темноте? | Chef, why are you sitting here in the dark? | #213 00:12:27: Аркашка | adapted: asking gently |
-| 3 | Шеф | Моя рыбка — единственный верный организм на свете. | My fish is the only loyal organism in the world. | #214 00:12:30: Единственный преданный мне живой | adapted: lamenting loyalty |
-| 4 | Лёва | Но вся наша кухня очень скучает без вас! | But our entire kitchen misses you very much! | #212 00:12:19: предатели | adapted: reassuring chef |
-| 5 | Шеф | Все повара на кухне — настоящие предатели. | All the cooks in the kitchen are true traitors. | #212 00:12:19: предатели | adapted: holding grudge |
-| 6 | Лёва | Они просто испугались нового строгого порядка. | They just got scared of the new strict order. | #216 00:12:35: Бузеров | adapted: explaining staff fear |
-| 7 | Шеф | Они с удовольствием бросили своего старого шефа. | They gladly abandoned their old chef. | #214 00:12:30: преданный мне | adapted: feeling discarded |
-| 8 | Лёва | Мы все искренне любим только вас, шеф. | We all sincerely love only you, chef. | #214 00:12:30: живой человек | adapted: expressing loyalty |
-| 9 | Шеф | Только Аркашка слушает меня внимательно и молчит. | Only Arkasha listens to me attentively and keeps quiet. | #215 00:12:32: организм | adapted: trusting fish |
-| 10 | Лёва | Пойдёмте на кухню, пока суп не остыл. | Let's go to the kitchen before the soup gets cold. | #216 00:12:35: Бузеров | adapted: inviting chef back |
-| 11 | Шеф | Я никуда не пойду из этого кабинета. | I will not go anywhere out of this office. | #213 00:12:27: Один ты у меня остался | adapted: refusing stubbornly |
-| 12 | Лёва | Тогда я принесу вам горячего чаю сюда. | Then I will bring you some hot tea here. | #213 00:12:27: Аркашка | adapted: caring for chef |
+| 0 | Шеф | Один ты остался у меня, милый Аркашка. | You are all I have left, dear Arkasha. | #213 "Один ты у меня остался, Аркашка" |  |
+| 1 | Лёва | Шеф, почему вы сидите здесь в темноте? | Chef, why are you sitting here in the dark? | #213 "Аркашка" |  |
+| 2 | Шеф | Моя рыбка — единственный верный организм на свете. | My fish is the only loyal organism in the world. | #214 "Единственный преданный мне живой" |  |
+| 3 | Лёва | Но вся наша кухня очень скучает без вас! | But our entire kitchen misses you very much! | #212 "предатели" |  |
+| 4 | Шеф | Все повара на кухне — настоящие предатели. | All the cooks in the kitchen are true traitors. | #212 "предатели" |  |
+| 5 | Лёва | Они просто испугались нового строгого порядка. | They just got scared of the new strict order. | #216 "Бузеров" |  |
+| 6 | Шеф | Они с удовольствием бросили своего старого шефа. | They gladly abandoned their old chef. | #214 "преданный мне" |  |
+| 7 | Лёва | Мы все искренне любим только вас, шеф. | We all sincerely love only you, chef. | #214 "живой человек" |  |
+| 8 | Шеф | Только Аркашка слушает меня внимательно и молчит. | Only Arkasha listens to me attentively and keeps quiet. | #215 "организм" |  |
+| 9 | Лёва | Пойдёмте на кухню, пока суп не остыл. | Let's go to the kitchen before the soup gets cold. | #216 "Бузеров" |  |
+| 10 | Шеф | Я никуда не пойду из этого кабинета. | I will not go anywhere out of this office. | #213 "Один ты у меня остался" |  |
+| 11 | Лёва | Тогда я принесу вам горячего чаю сюда. | Then I will bring you some hot tea here. | #213 "Аркашка" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'You are all I have left, dear Arkasha.' Restrictive numeral with subject pronoun, past verb, possessive prepositional phrase, and affectionate vocative phrase.
-- 'Chef, why are you sitting here in the dark?' Vocative title with interrogative causal adverb, plural pronoun, present verb, locative adverb, and prepositional phrase.
-- 'My fish is the only loyal organism in the world.' Possessive subject phrase with dash and complex singular predicate noun phrase.
-- 'But our entire kitchen misses you very much!' Adversative conjunction with collective subject noun phrase, degree adverb, present verb, and genitive prepositional phrase.
-- 'All the cooks in the kitchen are true traitors.' Plural subject noun phrase with locative phrase, dash, and predicate nominative phrase.
-- 'They just got scared of the new strict order.' Subject pronoun with restrictive adverb, past reflexive verb, and genitive adjectival noun phrase.
-- 'They gladly abandoned their old chef.' Subject pronoun with adverbial prepositional phrase, past verb, and accusative animate noun phrase.
-- 'We all sincerely love only you, chef.' Plural subject pronoun with collective pronoun, manner adverb, present verb, restrictive particle, accusative pronoun, and vocative.
-- 'Only Arkasha listens to me attentively and keeps quiet.' Restrictive particle with subject name, present transitive verb, accusative pronoun, manner adverb, and coordinated verb.
-- 'Let's go to the kitchen before the soup gets cold.' Polite cohortative imperative with directional phrase, temporal conjunction, subject noun, and negated past verb.
-- 'I will not go anywhere out of this office.' Subject pronoun with negative directional adverb, negated future verb, and ablative prepositional phrase.
-- 'Then I will bring you some hot tea here.' Consequential adverb with subject pronoun, future transitive verb, dative pronoun, partitive genitive noun phrase, and locative adverb.
+> Lyova's gentle concern offers Chef Barinov comfort as he nurses his wounded pride in seclusion. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to throw' and 'faithful' — you will catch every word right away. See you next time!
+
+**Шеф:** Пока!

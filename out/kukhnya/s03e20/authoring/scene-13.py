@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 13
-TITLE = 'Свадебный танец с Викой  (The Wedding Dance with Vika)'
+TITLE = "Свадебный танец с Викой  (The Wedding Dance with Vika)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = "While Kostya, Nastya, and Vika rehearse the wedding dance in the dining room, Max sneaks out of Vika's apartment to visit Claude Monet. Taking Vika's hand, Max dances with her and tells her how beautiful she is."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "As the music plays and they sway together, Vika's heart softens completely—until one careless remark ruins everything."
-CLOSING = ('anya', 'Вика, ты просто очень красивая.')
+OUTRO = "As the music plays and they sway together, Vika's heart softens completely—until one careless remark ruins everything. Until next time!"
+CLOSING = ("anya", "До свидания!")

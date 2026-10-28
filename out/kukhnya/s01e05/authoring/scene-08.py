@@ -1,98 +1,46 @@
-"""s01e05 scene 08: Звонок от мамы (Call from Mom)."""
-
-ID = "kukhnya-s01e05-scene-08"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e05-scene-08.
+ID = 'kukhnya-s01e05-scene-08'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 5
 SCENE = 8
 TITLE = "Звонок от мамы  (Call from Mom)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "senya": "anja"}
-LABELS = {"anya": "Макс", "senya": "Сеня"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.05"
-SOURCE_FILE = "sources/kukhnya/s01/e05.ru.dual.srt"
-
-INTRO = (
-    "In the noisy restaurant kitchen, cook Senya calls Max over to answer an unexpected phone call. "
-    "Senya claims Max's mother is calling all the way from Voronezh. "
-    "Max takes the phone and pretends to chat with his mom while secretly receiving cooking instructions for a complicated fish dish. "
-    "Let's listen to their conversation in Russian first."
-)
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
+SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
+INTRO = "In the busy restaurant kitchen, Max is called to the phone and told that his mother is on the line. In reality, Chef Viktor Barinov is calling in disguise to secretly coach Max through the fish cooking duel. Let's listen to their phone call in Russian first."
+OPENER = "Let's walk through this secret phone call line by line."
+TRANSITION = "Now let's hear the whole conversation again from start to finish."
+OUTRO = "Thanks to Chef Viktor's disguised phone call, Max now knows how to prepare the trout dish without raising suspicion. See you next time!"
+CLOSING = ("anya", "До скорого!")
 STORY = [
-    ("senya", "Лавров, возьми трубку, это тебя!",
-     "Lavrov, pick up the receiver, it is for you!",
-     [(122, "Лавров, тебя")], "calling Max to the phone"),
-    ("anya", "Кто звонит мне на кухню?",
-     "Who is calling me in the kitchen?",
-     [(124, "Кто? Мама?")], "asking in surprise"),
-    ("senya", "Говорят, что звонит твоя мама.",
-     "They say that your mother is calling.",
-     [(123, "Мама")], "explaining who is calling"),
-    ("anya", "Мама? Откуда она знает этот номер?",
-     "Mom? How does she know this number?",
-     [(125, "А откуда она знает этот номер")], "wondering how she got the number"),
-    ("senya", "Ответь скорее и спроси сам.",
-     "Answer quickly and ask yourself.",
-     [], "urging him to answer"),
-    ("anya", "Алло, мама? Да, я слушаю.",
-     "Hello, Mom? Yes, I am listening.",
-     [(126, "Алло, мама? Да, мама я")], "picking up the phone"),
-    ("anya", "Форель с жульеном? Понял, мамуля.",
-     "Trout with julienne? Understood, Mommy.",
-     [(127, "Будешь готовить форель с обычным жильеном")], "listening to recipe instructions"),
-    ("anya", "Сначала удалить хребет и охладить филе?",
-     "First remove the backbone and chill the fillet?",
-     [(128, "выпотроши рыбу, удали хребет")], "repeating the culinary steps"),
-    ("anya", "Спасибо за совет, целую тебя!",
-     "Thank you for the advice, kisses!",
-     [(131, "Целую тебя пока")], "thanking the caller"),
-    ("anya", "Я перезвоню вечером, сейчас очень занят.",
-     "I will call back in the evening, I am very busy now.",
-     [(130, "Да я тебе попозже перезвоню")], "hanging up quickly"),
-    ("senya", "Твоя мама отлично разбирается в рыбе?",
-     "Does your mother understand fish well?",
-     [(132, "Мама из Воронежа")], "asking curiously"),
-    ("anya", "Да, в Воронеже все любят рыбу!",
-     "Yes, in Voronezh everyone loves fish!",
-     [(133, "Ну да")], "covering up the secret"),
+    ('anya', 'Кто? Мама?', 'Who? Mom?', [(124, 'Кто? Мама?')], ''),
+    ('anya', 'А откуда она знает этот номер?', 'And how does she know this number?', [(125, 'А откуда она знает этот номер')], ''),
+    ('anya', 'Алло, мама?', 'Hello, Mom?', [(126, 'Алло, мама?')], ''),
+    ('chef', 'Да, мама я, твоя мама.', 'Yes, it is Mom, your mom.', [(126, 'Да, мама я, твоя мама')], ''),
+    ('chef', 'Будешь готовить форель с обычным жульеном.', 'You will cook trout with classic julienne.', [(127, 'Будешь готовить форель с обычным')], ''),
+    ('chef', 'Для начала выпотроши свежую рыбу.', 'First, clean the fresh fish.', [(128, 'Для начала выпотроши рыбу')], ''),
+    ('chef', 'Потом аккуратно удали хребет.', 'Then carefully remove the backbone.', [(128, 'удали хребет')], ''),
+    ('chef', 'И положи филе в холодильник.', 'And put the fillet in the fridge.', [(128, 'и положи филе в холодильник')], ''),
+    ('chef', 'Ты всё понял, мамуля?', 'Did you understand everything, Mommy?', [(129, 'Понял, мамуля?')], ''),
+    ('anya', 'Да я тебе попозже перезвоню, некогда.', 'I will call you back later, I am busy.', [(130, 'Да я тебе попозже перезвоню'), (130, 'некогда')], ''),
+    ('anya', 'Целую тебя, пока.', 'Kisses to you, bye.', [(131, 'Целую тебя пока')], ''),
+    ('anya', 'Это звонила мама из Воронежа.', 'That was Mom calling from Voronezh.', [(132, 'Мама из Воронежа')], ''),
 ]
-
-OPENER = "Let's review this humorous kitchen conversation line by line."
-
 WALK = [
-    (0, None,
-     "'Lavrov, pick up the receiver, it is for you!' Senya calls Max to answer the kitchen landline."),
-    (1, None,
-     "'Who is calling me in the kitchen?' Max is surprised that anyone would reach him at work."),
-    (2, None,
-     "'They say that your mother is calling.' Senya relays the message from the other end of the line."),
-    (3, None,
-     "'Mom? How does she know this number?' Max wonders how his mother could possibly know the kitchen number."),
-    (4, None,
-     "'Answer quickly and ask yourself.' Senya hands over the receiver with an impatient grin."),
-    (5, None,
-     "'Hello, Mom? Yes, I am listening.' Max speaks cautiously into the receiver."),
-    (6, None,
-     "'Trout with julienne? Understood, Mommy.' Max pretends to chat with his mother while hearing the recipe."),
-    (7, None,
-     "'First remove the backbone and chill the fillet?' Max repeats the key culinary instructions as if they were family news."),
-    (8, None,
-     "'Thank you for the advice, kisses!' Max wraps up the suspicious call with affectionate words."),
-    (9, None,
-     "'I will call back in the evening, I am very busy now.' Max quickly hangs up before anyone overhears too much."),
-    (10, None,
-     "'Does your mother understand fish well?' Senya questions Max with mild suspicion."),
-    (11, None,
-     "'Yes, in Voronezh everyone loves fish!' Max invents a quick excuse to protect his secret."),
+    (0, None, "'Who? Mom?' Max is surprised when he hears his mother is on the kitchen phone."),
+    (1, None, "'And how does she know this number?' Here 'where from' starts the question about the restaurant phone number."),
+    (2, None, "'Hello, Mom?' Max answers the phone cautiously in front of the other cooks."),
+    (3, None, "'Yes, it is Mom, your mom.' Chef Viktor jokes on the other end of the line, pretending to be Max's mother."),
+    (4, None, "'You will cook trout with classic julienne.' Viktor tells Max which trout dish to prepare for the cooking bet."),
+    (5, None, "'First, clean the fresh fish.' The phrase for 'for a start' introduces the first step of the recipe."),
+    (6, None, "'Then carefully remove the backbone.' Viktor gives a clear kitchen command for preparing the trout."),
+    (7, None, "'And put the fillet in the fridge.' He tells Max to chill the fish fillet right away."),
+    (8, None, "'Did you understand everything, Mommy?' Viktor teasingly checks that Max caught every step."),
+    (9, None, "'I will call you back later, I am busy.' Max keeps up the act so the cooks around him think he is talking to his mother."),
+    (10, None, "'Kisses to you, bye.' Russians often end family phone calls with the word for 'I kiss you'."),
+    (11, None, "'That was Mom calling from Voronezh.' Max calmly tells the kitchen crew that his mother called from his hometown."),
 ]
-
-TRANSITION = "Now let's listen to the whole dialogue again at normal conversational speed."
-
-OUTRO = (
-    "Max cleverly avoids suspicion in the kitchen and memorizes the recipe for the trout dish. "
-    "See you next time!"
-)
-
-CLOSING = ("anya", "Да, в Воронеже все любят рыбу!")

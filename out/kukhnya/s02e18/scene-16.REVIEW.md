@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | И исправить уже ничего нельзя. | And nothing can be fixed anymore. | #276 00:17:28: И исправить уже ничего нельзя | verbatim |
-| 2 | Вика | Потому что я не буду повторять свои ошибки. | Because I am not going to repeat my old mistakes. | #277 00:17:32: Потому что я не буду повторять свои ошибки | verbatim |
+| 1 | Шеф | И исправить уже ничего нельзя. | And nothing can be fixed anymore. | #276 00:17:28: И исправить уже ничего нельзя | verbatim |
+| 2 | Настя | Потому что я не буду повторять свои ошибки. | Because I am not going to repeat my old mistakes. | #277 00:17:32: Потому что я не буду повторять свои ошибки | verbatim |
 | 3 | Настя | А улитку будешь? | Wait, do you want a snail? | #278 00:17:37: А улитку будешь | verbatim |
-| 4 | Аня | У нас на кухне. | Right here in our kitchen. | #280 00:17:47: У нас на кухне | verbatim |
-| 5 | Вика | Вот он, с пакетом! | There he is, the guy with the bag! | #281 00:17:50: Вот он, с пакетом | verbatim |
+| 4 | Шеф | У нас на кухне. | Right here in our kitchen. | #280 00:17:47: У нас на кухне | verbatim |
+| 5 | Настя | Вот он, с пакетом! | There he is, the guy with the bag! | #281 00:17:50: Вот он, с пакетом | verbatim |
 | 6 | Настя | Эй! Ну что? | Hey! What the hell is this? | #282 00:17:52: Эй! Ну что | verbatim |
-| 7 | Аня | Виктор Петрович, это вы? | Viktor Petrovich, is that you? | #283 00:17:55: Виктор Петрович, это вы | verbatim |
-| 8 | Вика | Где моя дочь? | Where is my daughter? | #284 00:17:57: Где моя дочь | verbatim |
-| 9 | Настя | Сволочь усатая! | You mustachioed bastard! | #284 00:17:57: Сволочь усатая | verbatim |
-| 10 | Аня | Какая дочь? | What daughter are you talking about? | #285 00:18:00: Какая дочь | verbatim |
-| 11 | Вика | Настя где? | Where is Nastya? | #286 00:18:03: Настя где | verbatim |
+| 7 | Шеф | Виктор Петрович, это вы? | Viktor Petrovich, is that you? | #283 00:17:55: Виктор Петрович, это вы | verbatim |
+| 8 | Настя | Где моя дочь? | Where is my daughter? | #284 00:17:57: Где моя дочь | verbatim |
+| 9 | Настя | Отвечай, где моя дочь? | Answer me, where is my daughter? | #284 00:17:57: Где моя дочь | adapted: adapted |
+| 10 | Шеф | Какая дочь? | What daughter are you talking about? | #285 00:18:00: Какая дочь | verbatim |
+| 11 | Настя | Настя где? | Where is Nastya? | #286 00:18:03: Настя где | verbatim |
 | 12 | Настя | Пап, я здесь! | Dad, I am right here! | #287 00:18:05: Пап, я здесь | verbatim |
-| 13 | Аня | В общем-то. | Well, basically. | #289 00:18:10: в общем-то | verbatim |
+| 13 | Шеф | В общем-то. | Well, basically. | #289 00:18:10: в общем-то | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Hey! What the hell is this?' Nastya raises the pitch on 'what' to turn the phrase into a direct spoken question. Chef Viktor answers right away.
 - 'Viktor Petrovich, is that you?' Chef Viktor brings out the contrast between 'Viktor' and 'Petrovich' in a few short words.
 - 'Where is my daughter?' Vika brings out the contrast between 'where' and 'my' in a few short words.
-- 'You mustachioed bastard!' Notice how Russian expresses 'scoundrel' and 'friend' with crisp inflection rather than helper words. Chef Viktor answers right away.
+- 'Answer me, where is my daughter?' Nastya pairs 'answer' with 'daughter' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'What daughter are you talking about?' In Russian, the idea of 'what' flows naturally into 'daughter' without extra filler words.
 - 'Where is Nastya?' Here the Russian phrasing highlights 'Nastya' before landing on 'where'.
 - 'Dad, I am right here!' Here the Russian phrasing highlights 'Dad' before landing on 'here'. Chef Viktor answers right away.

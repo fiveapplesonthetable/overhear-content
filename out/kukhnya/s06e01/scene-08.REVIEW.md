@@ -10,8 +10,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ты готовь печенье по этому рецепту. | You prepare the cookies from this recipe. | #129 00:09:11: Ты готовь печенье по этому рецепту | adapted: exact |
-| 2 | Аня | Я тебя прошу, очень постарайся. | I beg you, try very hard. | #130 00:09:14: Я тебя прошу, очень постарайся | adapted: exact |
+| 1 | Никита | Ты готовь печенье по этому рецепту. | You prepare the cookies from this recipe. | #129 00:09:11: Ты готовь печенье по этому рецепту | adapted: exact |
+| 2 | Никита | Я тебя прошу, очень постарайся. | I beg you, try very hard. | #130 00:09:14: Я тебя прошу, очень постарайся | adapted: exact |
 | 3 | Никита | А почему так дорого? | And why is it so expensive? | #135 00:09:31: так дорого | adapted: adapted |
 | 4 | Настя | Шесть коробок с лепестками. | Six boxes of flower petals. | #136 00:09:33: Шесть коробок с лепестками | adapted: adapted |
 | 5 | Настя | Каждый цветок разбирали. | They picked apart every flower. | #139 00:09:40: Каждый цветок | adapted: adapted |
@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You prepare the cookies from this recipe.' In Russian, the idea of 'you' flows naturally into 'recipe' without extra filler words.
+- 'You prepare the cookies from this recipe.' Chef Barinov pairs 'prepare' with 'recipe' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'I beg you, try very hard.' Chef Barinov addresses the listener with the informal singular 'you' alongside 'try'. Nikita answers right away.
 - 'And why is it so expensive?' Nikita anchors the line on 'and', while 'expensive' completes the thought.
 - 'Six boxes of flower petals.' Here the Russian phrasing highlights 'six' before landing on 'petals'.

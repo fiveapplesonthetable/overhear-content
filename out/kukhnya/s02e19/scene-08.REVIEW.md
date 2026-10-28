@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Have you lost your minds completely?' Here the Russian phrasing highlights 'you' before landing on 'at all'. Sasha answers right away.
 - 'Those items are on the stop-list.' In Russian, the idea of 'they' flows naturally into '86'd list' without extra filler words.
 - 'That is quite alright, Maxim.' Here the Russian phrasing highlights 'nothing' before landing on 'Maxim'.
-- 'You know, Maxim, I want to make a confession to you.' Notice the reflexive suffix on the verb meaning 'to admit', turning the action back on the subject. Max answers right away.
+- 'You know, Maxim, I want to make a confession to you.' Notice how Russian puts 'know' and 'to admit' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Yes, I noticed that.' The meaning hinges on 'yes' working together with 'noticed' in spoken Russian.
 - 'You apparently really like the way I cook?' Sasha anchors the line on 'for you', while 'prepare' completes the thought.
 - 'I come here for the sake of one young man.' The meaning hinges on 'and' working together with 'fellow' in spoken Russian.

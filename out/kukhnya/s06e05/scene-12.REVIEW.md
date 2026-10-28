@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Элеонора | Самая неприятная ситуация у нас в ресторане. | The most unpleasant situation is in our restaurant. | #178 00:12:49: И самая неприятная ситуация у нас в ресторане | adapted: adapted |
 | 2 | Элеонора | Сейчас мы фактически работаем в минус. | Right now we are practically operating at a loss. | #179 00:12:54: Фактически мы работаем в минус | adapted: adapted |
-| 3 | Нагиев | О, вот и мой обед принесли! | Oh, here they have brought my lunch! | #180 00:12:56: принесли | adapted: adapted |
+| 3 | Элеонора | О, вот и мой обед принесли! | Oh, here they have brought my lunch! | #180 00:12:56: принесли | adapted: adapted |
 | 4 | Элеонора | Я задала вам очень важный вопрос. | I asked you a very important question. | #182 00:13:05: Я задала вопрос | adapted: adapted |
 | 5 | Элеонора | Почему у нас возникла такая ситуация? | Why did such a situation arise for us? | #183 00:13:07: Почему у нас возникла такая ситуация | adapted: adapted |
-| 6 | Аня | Нам очень дорого обходится авторская кухня. | Auteur cuisine costs us very dearly. | #184 00:13:09: Нам дорого обходится авторская кухня | adapted: adapted |
+| 6 | Шеф | Нам очень дорого обходится авторская кухня. | Auteur cuisine costs us very dearly. | #184 00:13:09: Нам дорого обходится авторская кухня | adapted: adapted |
 | 7 | Элеонора | Гостей не устраивает малый размер блюд. | Guests are unhappy with the small size of the dishes. | #185 00:13:13: Плюс гостей не устраивает соотношение цены и размера блюд | adapted: adapted |
-| 8 | Нагиев | Порция на тарелке совсем маленькая. | The portion on the plate is tiny. | #188 00:13:23: Порция-то нормальная | adapted: adapted |
+| 8 | Элеонора | Порция на тарелке совсем маленькая. | The portion on the plate is tiny. | #188 00:13:23: Порция-то нормальная | adapted: adapted |
 | 9 | Элеонора | Какие у вас есть дельные предложения? | What sensible proposals do you have? | #190 00:13:29: Какие есть предложения | adapted: adapted |
-| 10 | Аня | Можно немного сократить наши расходы. | We can cut our expenses a little. | #191 00:13:31: Можно сократить зарплаты | adapted: adapted |
-| 11 | Нагиев | Давайте вернём старое доброе меню. | Let us bring back the good old menu. | #193 00:13:39: Взять и вернуть старое доброе меню | adapted: adapted |
-| 12 | Нагиев | Тогда народ снова потянется к нам. | Then people will flock back to us again. | #194 00:13:43: народ снова потянется | adapted: adapted |
+| 10 | Шеф | Можно немного сократить наши расходы. | We can cut our expenses a little. | #191 00:13:31: Можно сократить зарплаты | adapted: adapted |
+| 11 | Элеонора | Давайте вернём старое доброе меню. | Let us bring back the good old menu. | #193 00:13:39: Взять и вернуть старое доброе меню | adapted: adapted |
+| 12 | Элеонора | Тогда народ снова потянется к нам. | Then people will flock back to us again. | #194 00:13:43: народ снова потянется | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

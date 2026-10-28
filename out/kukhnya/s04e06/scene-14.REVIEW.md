@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tonight a very important person will come to us.' Perfective future verb of arriving by vehicle introduces the VIP visit.
-- 'Dmitry Vladimirovich asked to reserve the best table.' Superlative adjective 'best' modifies the masculine accusative noun.
-- 'And he asked not to forget about the expensive wine!' Colloquial preposition 'about' governs the accusative case.
+- 'Tonight a very important person will come to us.' Here Vika anchors the thought on 'today' and finishes on 'man', keeping the spoken rhythm brisk and natural.
+- 'Dmitry Vladimirovich asked to reserve the best table.' In everyday Russian, 'asked' flows straight into 'table, desk' without extra linking words.
+- 'And he asked not to forget about the expensive wine!' Kostya pairs 'asked' with 'wine' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Max, where are you, I urgently need the bottle!' Feminine short adjective 'needed' agrees with the subject 'bottle'.
 - 'Kostya, I am here, take your expensive bottle.' Max appears from the hallway holding the resealed bottle.
-- 'I am returning it in the exact condition I took it!' Correlative prepositional phrase means 'in the same state in which'.
+- 'I am returning it in the exact condition I took it!' In everyday Russian, 'returning' flows straight into 'took' without extra linking words.
 - 'Good man, tell me honestly, where did you get it?' Kostya is initially thrilled until Max explains how he got it.
-- 'I simply poured another wine into the old bottle.' Prefixed past verb 'poured into' takes 'into' plus accusative.
+- 'I simply poured another wine into the old bottle.' Notice how Russian puts 'simply, just' and 'wine' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Max, are you in your right mind right now?' The Russian idiom 'in one's own mind' asks if someone is sane.
 - 'It is just as tart, nobody will notice!' Diminutive adjective 'slightly sour' shows Max's complete ignorance of fine wine.
-- 'No, we will not give Nagiyev cheap wine!' Dative singular ending marks Nagiyev as the recipient.
-- 'I already ordered a real bottle on the internet!' Dative phrase 'by internet' is the standard way to say online.
+- 'No, we will not give Nagiyev cheap wine!' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'I already ordered a real bottle on the internet!' Notice how Russian puts 'already' and 'bottle' together in a short, direct phrase where word endings show how the ideas connect.
 - 'Have you lost your mind, it costs so much money!' Ironically, Max scolds Vika for spending the five thousand dollars to save him.

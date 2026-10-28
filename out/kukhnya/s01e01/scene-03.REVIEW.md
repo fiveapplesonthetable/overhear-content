@@ -1,41 +1,40 @@
-# kukhnya-s01e01-scene-03: review sheet
+# Ночной разговор  (Night Conversation) — `kukhnya-s01e01-scene-03`
 
-Title: Ночной разговор  (Night Conversation)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.01
-Cue 23. Late at night, Max and Vika talk intimately before falling asleep. Max speaks of his love for cooking and his high hopes for tomorrow's job interview.
+**Source:** Кухня (Kukhnya) S1.01 · `sources/kukhnya/s01/e01.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `vika` | angelina | Вика |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> Late in the quiet night, Max and Vika lie awake talking in the dim room. Vika asks Max if he truly loves cooking, and Max passionately describes food as genuine art and happiness. They exchange gentle jokes about fate and coincidences before finally wishing each other good night. Let's listen to their bedroom conversation in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Вика | Макс, ты уже почти засыпаешь? | Max, are you almost falling asleep? | new | new: new |
-| 2 | Макс | Нет, я просто любуюсь тобой. | No, I am simply admiring you. | new | new: new |
-| 3 | Вика | Ты правда так сильно любишь готовить? | Do you really love cooking so much? | new | new: new |
-| 4 | Макс | Еда — это настоящая любовь и страсть! | Food is true love and passion! | #5 00:00:28: Еда – это страсть<br>#6 00:00:31: Еда – это любовь | adapted: adapted |
-| 5 | Вика | Ты говоришь о еде как поэт. | You speak about food like a poet. | new | new: new |
-| 6 | Макс | Хорошая еда дарит людям огромное счастье. | Good food gives people immense happiness. | #6 00:00:31: Еда – это жизнь для каждого человека | adapted: adapted |
-| 7 | Вика | В каком ресторане у тебя собеседование? | At which restaurant is your interview? | #18 00:01:16: поваром в ресторан | adapted: adapted |
-| 8 | Макс | В самом лучшем французском ресторане Москвы. | In the very best French restaurant in Moscow. | new | new: new |
-| 9 | Вика | Наш город полон удивительных совпадений. | Our city is full of surprising coincidences. | new | new: new |
-| 10 | Макс | Я рад, что встретил тебя сегодня. | I am glad that I met you today. | new | new: new |
-| 11 | Вика | Ложись спать, тебе надо хорошо отдохнуть. | Go to sleep, you need to rest well. | new | new: new |
-| 12 | Макс | Спокойной ночи, прекрасная Вика. | Good night, beautiful Vika. | new | new: new |
-| 13 | Вика | Спокойной ночи, мой храбрый повар. | Good night, my brave cook. | new | new: new |
+| 0 | Вика | Макс, ты уже почти засыпаешь? | Max, are you almost falling asleep? | *(added)* |  |
+| 1 | Макс | Нет, я просто любуюсь тобой. | No, I am simply admiring you. | *(added)* |  |
+| 2 | Вика | Ты правда так сильно любишь готовить? | Do you really love cooking so much? | *(added)* |  |
+| 3 | Макс | Еда — это настоящая любовь и страсть! | Food is true love and passion! | #23 "это" |  |
+| 4 | Вика | Ты говоришь о еде как поэт. | You speak about food like a poet. | *(added)* |  |
+| 5 | Макс | Хорошая еда дарит людям огромное счастье. | Good food gives people immense happiness. | *(added)* |  |
+| 6 | Вика | В каком ресторане у тебя собеседование? | At which restaurant is your interview? | *(added)* |  |
+| 7 | Макс | В самом лучшем французском ресторане Москвы. | In the very best French restaurant in Moscow. | *(added)* |  |
+| 8 | Вика | Наш город полон удивительных совпадений. | Our city is full of surprising coincidences. | *(added)* |  |
+| 9 | Макс | Я рад, что встретил тебя сегодня. | I am glad that I met you today. | *(added)* |  |
+| 10 | Вика | Ложись спать, тебе надо хорошо отдохнуть. | Go to sleep, you need to rest well. | *(added)* |  |
+| 11 | Макс | Спокойной ночи, прекрасная Вика. | Good night, beautiful Vika. | *(added)* |  |
+| 12 | Вика | Спокойной ночи, мой храбрый повар. | Good night, my brave cook. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Max, are you almost falling asleep?' Vika whispers with an intensifying adverb and imperfective verb.
-- 'No, I am simply admiring you.' Max responds tenderly using a reflexive verb with an instrumental pronoun.
-- 'Do you really love cooking so much?' Vika asks about his passion with an infinitive verb.
-- 'Food is true love and passion!' Max defines cooking with an emphatic demonstrative predicate.
-- 'You speak about food like a poet.' Vika smiles at his lyricism with a comparative preposition.
-- 'Good food gives people immense happiness.' Max shares his philosophy with a transitive verb and dative noun.
-- 'At which restaurant is your interview?' Vika inquires about his appointment with a prepositional question.
-- 'In the very best French restaurant in Moscow.' Max names his dream venue with superlative adjectives.
-- 'Our city is full of surprising coincidences.' Vika reflects with a short predicate adjective and genitive plural.
-- 'I am glad that I met you today.' Max expresses gratitude for their meeting with a past perfective verb.
-- 'Go to sleep, you need to rest well.' Vika urges him to rest using an imperative verb and predicative phrase.
-- 'Good night, beautiful Vika.' Max wishes her restful sleep with a standard Russian nighttime greeting.
-- 'Good night, my brave cook.' Vika returns the greeting affectionately with a vocative noun phrase.
+> That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!
+
+**Макс:** Пока!

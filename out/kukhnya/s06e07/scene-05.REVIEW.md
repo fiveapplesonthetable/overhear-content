@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Привет, Лёва, я тебя совсем потеряла. | Hello, Lyova, I completely lost track of you. | #85 00:05:09: Привет. Я тебя потеряла | adapted: adapted |
-| 2 | Аня | Скажи, где ты так долго был? | Tell me, where were you for so long? | #86 00:05:12: Ты где был | adapted: adapted |
+| 1 | Гуля | Привет, Лёва, я тебя совсем потеряла. | Hello, Lyova, I completely lost track of you. | #85 00:05:09: Привет. Я тебя потеряла | adapted: adapted |
+| 2 | Гуля | Скажи, где ты так долго был? | Tell me, where were you for so long? | #86 00:05:12: Ты где был | adapted: adapted |
 | 3 | Лёва | У меня там было важное дело. | I had some important business over there. | #86 00:05:12: Да там было важное дело | adapted: adapted |
-| 4 | Аня | Подожди, ты сегодня был в больнице? | Wait, were you at the hospital today? | #87 00:05:16: Ты был в больнице | adapted: adapted |
+| 4 | Гуля | Подожди, ты сегодня был в больнице? | Wait, were you at the hospital today? | #87 00:05:16: Ты был в больнице | adapted: adapted |
 | 5 | Лёва | С чего ты это вдруг взяла? | What made you think that all of a sudden? | #88 00:05:18: взяла | adapted: adapted |
-| 6 | Аня | У тебя на ногах синие бахилы! | You have blue hospital shoe covers on your feet! | #89 00:05:20: Бахилы | adapted: adapted |
+| 6 | Гуля | У тебя на ногах синие бахилы! | You have blue hospital shoe covers on your feet! | #89 00:05:20: Бахилы | adapted: adapted |
 | 7 | Лёва | Я просто медицинскую книжку себе продлевал. | I was simply renewing my medical book. | #92 00:05:27: книжку продлевал | adapted: adapted |
 | 8 | Лёва | Прости, пожалуйста, мне пора идти работать. | Excuse me, please, it is time for me to go work. | #93 00:05:33: Прости, пожалуйста, мне надо работать | adapted: adapted |
-| 9 | Аня | Он совсем не умеет мне врать. | He does not know how to lie to me at all. | #94 00:05:37: совсем врать не умеет | adapted: adapted |
-| 10 | Настя | Катя, мы с девочками хотели вечером посидеть. | Katya, the girls and I wanted to hang out tonight. | #96 00:05:45: мы-то с девчонками хотели вечерком, ну, посидеть | adapted: adapted |
-| 11 | Настя | Может, пойдёшь сегодня вечером с нами? | Maybe you will come out with us tonight? | #98 00:05:51: Может, с нами | adapted: adapted |
-| 12 | Аня | Спасибо за приглашение, я обязательно приду. | Thank you for the invitation, I will definitely come. | #99 00:05:54: но спасибо за приглашение<br>#100 00:05:56: Я приду | adapted: adapted |
+| 9 | Гуля | Он совсем не умеет мне врать. | He does not know how to lie to me at all. | #94 00:05:37: совсем врать не умеет | adapted: adapted |
+| 10 | Лёва | Катя, мы с девочками хотели вечером посидеть. | Katya, the girls and I wanted to hang out tonight. | #96 00:05:45: мы-то с девчонками хотели вечерком, ну, посидеть | adapted: adapted |
+| 11 | Лёва | Может, пойдёшь сегодня вечером с нами? | Maybe you will come out with us tonight? | #98 00:05:51: Может, с нами | adapted: adapted |
+| 12 | Гуля | Спасибо за приглашение, я обязательно приду. | Thank you for the invitation, I will definitely come. | #99 00:05:54: но спасибо за приглашение<br>#100 00:05:56: Я приду | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

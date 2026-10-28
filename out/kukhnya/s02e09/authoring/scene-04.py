@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e09-scene-04"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e09-scene-04'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 9
 SCENE = 4
-TITLE = 'Дорадо для Саши  (Dorado for Sasha)'
+TITLE = "Дорадо для Саши  (Dorado for Sasha)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'sasha': 'anja'}
-LABELS = {'anya': 'Макс', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.09"
-SOURCE_FILE = "sources/kukhnya/s02/e09.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "sasha": "anja"}
+LABELS = {"anya": "Макс", "sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.09'
+SOURCE_FILE = 'sources/kukhnya/s02/e09.ru.srt'
 
 INTRO = "After listening to the cooks' wild theories about Chef Barinov, Max runs into Sasha near the bar counter. Playfully teasing her for hesitating, he tells her he has been looking for her too and invites her into the kitchen to try the fresh dorado he just prepared."
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 4 of Episode 9, listen out for the exchange around dorado for sasha — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Пойдем покажу.')
+OUTRO = "That wraps up this scene as max finishes observing the Chef's strange behavior and invites Sasha into the kitchen to taste the special dorado he cooked for her. See you next time!"
+CLOSING = ("anya", "До завтра!")

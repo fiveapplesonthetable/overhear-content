@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Actually, our shift has already ended.' The lazy voice on the intercom claims his work shift is over.
 - 'Hold on, what do you mean your shift ended?' Max shoves Vika aside and grabs the intercom button.
 - 'I have remembered your voice well!' Max acts fearless because there is a steel door between them.
-- 'I will get out right now and find you, got it?' Two perfective future verbs deliver a tough threat.
+- 'I will get out right now and find you, got it?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
 - 'Did you just say that to me?' The mechanic's voice drops an octave.
 - 'Yes, to you, so open up quickly!' Max doubles down on his bravado.
 - 'That is how men solve problems.' Turning smugly to Vika, Max brags about his manly negotiating style.

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e08-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 8
 SCENE = 18
 TITLE = "Горькая правда Макса  (Max's Bitter Truth)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.08"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
+LABELS = {"anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.08'
 SOURCE_FILE = 'sources/kukhnya/s03/e08.ru.srt'
 
 INTRO = 'Chef Barinov reads the train ticket: Moscow to Voronezh. When he laughs and calls Max a coward and a liar, Max finally tells Barinov everything he has held inside.'
@@ -26,7 +26,7 @@ STORY = [
     ('anya', 'За то, что я за любимую девушку заступился?', 'Because I stood up for the girl I love?', [(327, 'За то, что я за любимую девушку заступился')], 'adapted'),
     ('anya', 'Вы бы сами разве по-другому тогда поступили?', 'Would you yourself really have acted differently then?', [(328, 'поступили')], 'adapted'),
     ('anya', 'Потому что вы только себя любите, а на остальных вам плевать!', 'Because you love only yourself, and you do not care about the rest!', [(329, 'Потому что вы только себя любите')], 'adapted'),
-    ('anya', 'Я хотел быть похожим на вас, а сейчас понял, что лучше Воронеж, чем с вами на одной кухне!', 'I wanted to be like you, and now I understood that Voronezh is better than being in the same kitchen with you!', [(331, 'Я хотел быть похожим на вас')], 'adapted'),
+    ('anya', 'Я хотел быть похожим на вас, а сейчас всё понял!', 'I wanted to be like you, and now I understand everything!', [(331, 'Я хотел быть похожим на вас')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -44,9 +44,9 @@ WALK = [
     (9, None, "'Because I stood up for the girl I love?' Here the Russian phrasing highlights 'for' before landing on 'stood up for'."),
     (10, None, "'Would you yourself really have acted differently then?' Max anchors the line on 'you', while 'acted' completes the thought."),
     (11, None, "'Because you love only yourself, and you do not care about the rest!' An emphatic spoken line centered on the verb meaning 'to love'."),
-    (12, None, "'I wanted to be like you, and now I understood that Voronezh is better than being in the same kitchen with you!' Notice how Russian expresses 'I' and 'kitchen' with crisp inflection rather than helper words."),
+    (12, None, "'I wanted to be like you, and now I understand everything!' Here Max anchors the thought on 'wanted' and finishes on 'understood', keeping the spoken rhythm brisk and natural."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max's raw honesty leaves the entire kitchen silent, striking a chord deep inside Chef Barinov."
-CLOSING = ('anya', 'Вы только себя любите!')
+OUTRO = "Max's raw honesty leaves the entire kitchen silent, striking a chord deep inside Chef Barinov. See you next time!"
+CLOSING = ("anya", "Всего хорошего!")

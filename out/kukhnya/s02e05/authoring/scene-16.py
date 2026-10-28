@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e05-scene-16"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e05-scene-16'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 5
 SCENE = 16
 TITLE = "Визит Вики в больницу  (Vika's Visit to the Hospital)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.05"
-SOURCE_FILE = "sources/kukhnya/s02/e05.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.05'
+SOURCE_FILE = 'sources/kukhnya/s02/e05.ru.srt'
 
 INTRO = 'Back at Claude Monet, Chef Barinov is stunned when Malafeev walks into the dining room healthy and cheerful, having never touched the poisoned dish. Meanwhile at the hospital, Max steps into the corridor while Sasha hides under his blanket, only to run straight into Vika arriving to visit him.'
 
@@ -33,7 +33,7 @@ OPENER = "Now let's break down each line of their conversation."
 
 WALK = [
     (0, None, "'That football player from yesterday just arrived.' Spoken Russian keeps this brisk, leaning on 'there' and finishing on 'came'. Chef Viktor answers right away."),
-    (1, None, "'Do not be afraid.' Notice the reflexive suffix on the verb meaning 'be afraid', turning the action back on the subject."),
+    (1, None, "'Do not be afraid.' Spoken Russian keeps this brief and expressive, built right around 'be afraid' without extra helper words."),
     (2, None, "'Thank you for warning me.' Vika anchors the line on 'thank you', while 'warned' completes the thought."),
     (3, None, "'Chef, I hope you are not planning to poison him again?' Notice how Russian expresses 'chef' and 'him' with crisp inflection rather than helper words. Chef Viktor answers right away."),
     (4, None, "'Lyova, I beg of you.' The grammar packs 'Lev' and 'I beg' into a tight, idiomatic kitchen exchange."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = "When you watch Scene 16 of Episode 5, listen out for the exchange around vika's visit to the hospital — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('anya', 'А где твоя палата?')
+OUTRO = 'That wraps up this scene as malafeev returns to the restaurant completely unharmed, and at the hospital Vika arrives to visit Max while Sasha is waiting inside his ward. See you next time!'
+CLOSING = ("anya", "До свидания!")

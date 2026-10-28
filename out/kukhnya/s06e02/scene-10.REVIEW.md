@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Никита | Катя, я могу с тобой выпить? | Katya, may I have a drink with you? | #160 00:11:05: Катя, я могу с тобой выпить? | adapted: exact |
-| 2 | Аня | Давай за мою маму и за ее мудрые советы. | Let's drink to my mom and her wise advice. | #161 00:11:10: Давай за мою маму и за ее мудрые советы | adapted: exact |
-| 3 | Аня | Ведь ты без них никуда, свободен. | After all, you are nowhere without them, dismissed. | #162 00:11:14: Ведь ты без них никуда<br>#163 00:11:18: Свободен | adapted: adapted |
+| 1 | Денис | Катя, я могу с тобой выпить? | Katya, may I have a drink with you? | #160 00:11:05: Катя, я могу с тобой выпить? | adapted: exact |
+| 2 | Катя | Давай за мою маму и за ее мудрые советы. | Let's drink to my mom and her wise advice. | #161 00:11:10: Давай за мою маму и за ее мудрые советы | adapted: exact |
+| 3 | Катя | Ведь ты без них никуда, свободен. | After all, you are nowhere without them, dismissed. | #162 00:11:14: Ведь ты без них никуда<br>#163 00:11:18: Свободен | adapted: adapted |
 | 4 | Денис | Катя, привет. | Katya, hi. | #164 00:11:24: Катя. Привет | adapted: exact |
-| 5 | Аня | Тоже выпить со мной хочешь, да? | You want to have a drink with me too, right? | #165 00:11:27: Тоже выпить со мной хочешь, да? | adapted: exact |
-| 6 | Аня | За тех, которые сбегают, выпьешь? | To those who run away, will you drink? | #167 00:11:31: которые сбегают<br>#168 00:11:33: Выпьешь? | adapted: adapted |
+| 5 | Катя | Тоже выпить со мной хочешь, да? | You want to have a drink with me too, right? | #165 00:11:27: Тоже выпить со мной хочешь, да? | adapted: exact |
+| 6 | Катя | За тех, которые сбегают, выпьешь? | To those who run away, will you drink? | #167 00:11:31: которые сбегают<br>#168 00:11:33: Выпьешь? | adapted: adapted |
 | 7 | Денис | Нет, за это не буду. | No, I will not drink to that. | #168 00:11:33: Нет | adapted: adapted |
-| 8 | Аня | А я выпью, у тебя это очень хорошо получается. | Well I will drink, you are very good at that. | #169 00:11:35: А я выпью<br>#170 00:11:37: Ведь у тебя это очень хорошо получается | adapted: adapted |
+| 8 | Катя | А я выпью, у тебя это очень хорошо получается. | Well I will drink, you are very good at that. | #169 00:11:35: А я выпью<br>#170 00:11:37: Ведь у тебя это очень хорошо получается | adapted: adapted |
 | 9 | Денис | Она права, я виноват. | She is right, I am at fault. | #171 00:11:48: Она права, я виноват | adapted: exact |
-| 10 | Никита | Это не повод так долго обижаться. | That is no reason to stay offended for so long. | #172 00:11:50: не повод так долго обижаться | adapted: adapted |
+| 10 | Денис | Это не повод так долго обижаться. | That is no reason to stay offended for so long. | #172 00:11:50: не повод так долго обижаться | adapted: adapted |
 | 11 | Денис | Я не понял, она у нас работает? | I do not understand, does she work here with us? | #174 00:11:56: Я не понял, она у нас работает? | adapted: exact |
-| 12 | Никита | Моя тоже тут работает. | Mine works here too. | #175 00:12:00: Моя тоже | adapted: adapted |
+| 12 | Денис | Моя тоже тут работает. | Mine works here too. | #175 00:12:00: Моя тоже | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

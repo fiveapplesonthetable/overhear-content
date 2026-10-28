@@ -28,12 +28,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Max, help me, please, my zipper is stuck!' Feminine noun 'lightning' also means 'zipper' in Russian.
 - 'Right now, Mom, I am already coming to help you!' Max steps out briefly and returns to find the shawl half unraveled.
 - 'Tomorrow at work we will find someone who will fix this shawl.' First-person plural future promises a rescue tomorrow.
-- 'And tell Mom right now that your head hurts.' Singular imperative 'tell' suggests a convenient excuse to go to bed.
+- 'And tell Mom right now that your head hurts.' In everyday Russian, 'Mama' flows straight into 'head' without extra linking words.
 - 'No, Max, I am not going to lie to her anymore!' Vika protests—until Max's mother walks right into the room.
 - 'Oh, Vikochka, what suddenly happened to you?' Seeing Vika holding her forehead, Max's mother asks with concern.
 - 'Forgive me, my head suddenly started hurting badly.' Faced with the ruined shawl, Vika immediately clutches her head.
 - 'She sometimes gets bad headaches after an accident.' Unable to stop himself, Max embellishes the headache with a fictional car crash!
-- 'After what accident, what happened to you?' Preposition 'after' governs the genitive feminine 'what accident'.
+- 'After what accident, what happened to you?' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Mom, it is a long story, I will tell you later.' Max quickly steers his mother away from asking for details.
 - 'The most important thing is that everyone is alive and well right now!' Plural short adjectives 'alive, healthy' form a fixed pair.
 - 'Vika, let's rest a little, and everything will be fine.' Max sneaks the ruined shawl into his bag to take to the restaurant tomorrow.

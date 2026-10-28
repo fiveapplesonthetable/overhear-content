@@ -1,87 +1,46 @@
-ID = "kukhnya-s01e18-scene-11"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e18-scene-11.
+ID = 'kukhnya-s01e18-scene-11'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 18
 SCENE = 11
 TITLE = "Мы приехали  (We Arrived)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
-LABELS = {"anya": "Макс", "kostya": "Костя"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.18"
-SOURCE_FILE = "sources/kukhnya/s01/e18.ru.dual.srt"
-SOURCE_NOTE = "Scene 11"
-
-INTRO = "The guys arrive at their destination and hesitate before going inside. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "chef": "anja"}
+LABELS = {"nagiyev": "Нагиев", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
+SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
+INTRO = "Owner Dmitry Nagiyev gathers the restaurant staff and admits he went too far with his strict cost-cutting measures. He announces that someone experienced will now run the restaurant: his wife Kristina. Let's listen to the scene in Russian first."
+OPENER = "Let's walk through the Dmitry Nagiyev's announcement line by line."
+TRANSITION = "Now let's listen to the scene again without interruption."
+OUTRO = 'Expecting to regain full authority, Chef Viktor is stunned when Dmitry appoints his wife Kristina to run Claude Monet. See you next time!'
+CLOSING = ("nagiyev", "До встречи!")
 STORY = [
-    ("anya", "Ну что, мы приехали?",
-     "Well what, we arrived?",
-     [(1, "девушки")], "adapted"),
-    ("kostya", "Да, мы на месте.",
-     "Yes, we are in place.",
-     [(1, "девушки")], "adapted"),
-    ("anya", "Нас уже ждут?",
-     "Are they waiting for us already?",
-     [(1, "девушки")], "adapted"),
-    ("kostya", "Да, они нас ждут.",
-     "Yes, they are waiting for us.",
-     [(1, "девушки")], "new"),
-    ("anya", "Пошли узнаем, как дела.",
-     "Let's go find out how things are.",
-     [(1, "девушки")], "adapted"),
-    ("kostya", "Я немного волнуюсь.",
-     "I am a little worried.",
-     [(1, "девушки")], "new"),
-    ("anya", "Ребята, послушайте меня.",
-     "Guys, listen to me.",
-     [(1, "девушки")], "adapted"),
-    ("anya", "Я хочу вам что-то сказать.",
-     "I want to tell you something.",
-     [(1, "девушки")], "new"),
-    ("anya", "В последние дни я перегибал палку.",
-     "In the last days I went overboard.",
-     [(1, "девушки")], "adapted"),
-    ("anya", "Я вел себя очень плохо.",
-     "I behaved very badly.",
-     [(1, "девушки")], "new"),
-    ("kostya", "Мы понимаем тебя.",
-     "We understand you.",
-     [(1, "девушки")], "new"),
-    ("anya", "Спасибо вам за поддержку.",
-     "Thank you for the support.",
-     [(1, "девушки")], "new"),
+    ('nagiyev', 'Ну что, мы приехали?', 'Well, have we arrived?', [(238, 'Приехали?')], ''),
+    ('nagiyev', 'Пошли узнаем, как у нас дела.', 'Let us go see how things are going.', [(240, 'Ну что, пошли узнаем, как у нас дела')], ''),
+    ('nagiyev', 'Ребята, в последние дни я перегибал палку.', 'Guys, these past few days I went too far.', [(241, 'в последние дни сильно палку перегибал')], ''),
+    ('chef', 'Дима, ну мы всё понимаем.', 'Dima, well, we understand everything.', [(242, 'Дим, ну мы все понимаем')], ''),
+    ('chef', 'Это твой ресторан, душа болит.', 'It is your restaurant, your heart aches for it.', [(243, 'Твой ресторан. Душа болит')], ''),
+    ('nagiyev', 'Дома я посидел и хорошо подумал.', 'At home I sat down and thought it over.', [(246, 'А дома я посидел, подумал')], ''),
+    ('nagiyev', 'Мы с Кристиной посоветовались.', 'Kristina and I talked it over.', [(246, 'с Крис посоветовались')], ''),
+    ('nagiyev', 'Рестораном должен управлять знающий человек.', 'The restaurant should be run by a knowledgeable person.', [(247, 'рестораном должен управлять'), (248, 'Знающий человек')], ''),
+    ('chef', 'Ну да, это совершенно правильно.', 'Well yes, that is completely right.', [(249, 'Ну да')], ''),
+    ('nagiyev', 'Этот человек сейчас среди нас.', 'That person is right here among us.', [(250, 'Этот человек сейчас среди нас')], ''),
+    ('chef', 'Дима, я всегда готов помочь.', 'Dima, I am always ready to help.', [(251, 'Дим, ну, я всегда готов')], ''),
+    ('nagiyev', 'Это моя жена Кристина.', 'This is my wife Kristina.', [(252, 'Это моя жена Кристина')], ''),
 ]
-
-OPENER = "Let us break down this interaction."
-
 WALK = [
-    (0, None,
-     "'Well what, we arrived?' The question word for 'what' comes right at the start, followed directly by 'we've arrived'."),
-    (1, None,
-     "'Yes, we are in place.' Notice the word order: 'we' comes first, and 'place' finishes the sentence."),
-    (2, None,
-     "'Are they waiting for us already?' Here 'us' sets up the idea, while 'are waiting' comes at the end for emphasis. Kostya answers straight away."),
-    (3, None,
-     "'Yes, they are waiting for us.' Here 'they' sets up the idea, while 'are waiting' comes at the end for emphasis."),
-    (4, None,
-     "'Let's go find out how things are.' Listen for the word meaning 'let's go' right alongside 'will find out' in this line."),
-    (5, None,
-     "'I am a little worried.' Kostya starts with 'I' and pairs it with 'a bit' to make the point clear. Then Max replies."),
-    (6, None,
-     "'Guys, listen to me.' Listen for the word meaning 'the boys' right alongside 'listen' in this line."),
-    (7, None,
-     "'I want to tell you something.' In Russian, 'I' leads into 'tell' in a very natural everyday phrasing."),
-    (8, None,
-     "'In the last days I went overboard.' The first content word means 'last', and 'stick' rounds out the thought."),
-    (9, None,
-     "'I behaved very badly.' A compact expression built around 'I' and 'badly'."),
-    (10, None,
-     "'We understand you.' Listen for the word meaning 'we' right alongside 'to understand' in this line."),
-    (11, None,
-     "'Thank you for the support.' In Russian, 'thank you' leads into 'support' in a very natural everyday phrasing."),
+    (0, None, "'Well, have we arrived?' Nagiyev steps out of his car outside the restaurant."),
+    (1, None, "'Let us go see how things are going.' He heads inside to address the team."),
+    (2, None, "'Guys, these past few days I went too far.' The Russian idiom 'bent the stick' means to go overboard."),
+    (3, None, "'Dima, well, we understand everything.' Chef Viktor warmly accepts his boss's apology."),
+    (4, None, "'It is your restaurant, your heart aches for it.' Literally 'the soul hurts', a warm everyday expression of care."),
+    (5, None, "'At home I sat down and thought it over.' Nagiyev explains that he reflected on the problem at home."),
+    (6, None, "'Kristina and I talked it over.' Viktor's secret phone call to Kristina clearly worked."),
+    (7, None, "'The restaurant should be run by a knowledgeable person.' Nagiyev agrees that a professional is needed."),
+    (8, None, "'Well yes, that is completely right.' Chef Viktor nods eagerly, expecting to be put back in charge."),
+    (9, None, "'That person is right here among us.' Nagiyev builds suspense in front of the staff."),
+    (10, None, "'Dima, I am always ready to help.' Viktor steps forward to accept the role."),
+    (11, None, "'This is my wife Kristina.' Instead, Nagiyev surprises everyone by naming Kristina as the new boss."),
 ]
-
-TRANSITION = "Now let us listen to the conversation again without interruption."
-OUTRO = "They gather their courage and finally walk into the room together."
-CLOSING = ("anya", "Спасибо вам за поддержку.")

@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Tell me, has everyone gone home already?' In Russian, the idea of 'say' flows naturally into 'home' without extra filler words.
 - 'Yes, and the Chef is finally sleeping.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'is sleeping'.
 - 'I barely managed to put him to bed today.' Notice how Russian expresses 'I' and 'put to bed' with crisp inflection rather than helper words.
-- 'He kept trying to burst out to find you.' Notice the reflexive suffix on the verb meaning 'was eager', turning the action back on the subject.
+- 'He kept trying to burst out to find you.' Spoken Russian keeps this brief and expressive, built right around 'was eager, tried to burst in' without extra helper words.
 - 'So, what have you cooked up over there?' The meaning hinges on 'come on' working together with 'planned' in spoken Russian.
 - 'You will see right now, come on through here, please.' Max anchors the line on 'now', while 'please' completes the thought. Katya answers right away.
 - 'And just what is our plan?' Katya brings out the contrast between 'and' and 'what' in a few short words.

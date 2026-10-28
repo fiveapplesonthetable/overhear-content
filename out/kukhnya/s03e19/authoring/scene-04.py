@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e19-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 19
 SCENE = 4
 TITLE = "Спор о влиянии Нагиева  (The Bet About Nagiyev's Influence)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.19'
 SOURCE_FILE = 'sources/kukhnya/s03/e19.ru.srt'
 
 INTRO = 'In the kitchen, Eva asks Katya if there is anything between her and Max. Meanwhile, Chef Barinov goads Nagiyev into proving that he still has authority in Claude Monet by saving Rodion Sergeyevich from eviction.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Stung in his pride, Nagiyev marches off to Andrey Mikhailovich's office to prove who really runs the restaurant."
-CLOSING = ('nagiyev', 'Меня в этом ресторане услышат!')
+OUTRO = "Stung in his pride, Nagiyev marches off to Andrey Mikhailovich's office to prove who really runs the restaurant. See you next time!"
+CLOSING = ("nagiyev", "Всего хорошего!")

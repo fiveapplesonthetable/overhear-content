@@ -1,31 +1,31 @@
 ID = 'kukhnya-s03e10-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 10
 SCENE = 16
-TITLE = 'Знакомство за столиком  (Introductions at the Table)'
+TITLE = "Знакомство за столиком  (Introductions at the Table)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Вика', 'chef': 'Шеф', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "chef": "anja"}
+LABELS = {"vika": "Вика", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.10'
 SOURCE_FILE = 'sources/kukhnya/s03/e10.ru.srt'
 
 INTRO = "Vika declines Nagiyev's keys for now, and Chef Barinov arrives at their table introducing Sveta as his date. When Sveta greets Nagiyev by name, he nervously claims she only recognizes him as an actor. Meanwhile, Lyova approaches Katya."
 
 STORY = [
-    ('anya', 'Дима, я не могу их взять.', 'Dima, I cannot take them right now.', [(256, 'Дима, я не могу ее взять')], 'adapted'),
-    ('anya', 'Извини, но пока я не могу.', 'Forgive me, but for now I cannot.', [(258, 'Пока не могу')], 'adapted'),
+    ('vika', 'Дима, я не могу их взять.', 'Dima, I cannot take them right now.', [(256, 'Дима, я не могу ее взять')], 'adapted'),
+    ('vika', 'Извини, но пока я не могу.', 'Forgive me, but for now I cannot.', [(258, 'Пока не могу')], 'adapted'),
     ('chef', 'Здравствуйте, друзья, знакомьтесь, это Света.', 'Hello, friends, meet Sveta.', [(259, 'Здравствуйте, знакомьтесь'), (260, 'Это Света')], 'adapted'),
-    ('anya', 'Здравствуйте, очень приятно, я Виктория.', 'Hello, very nice to meet you, I am Victoria.', [(261, 'Здравствуйте, это Виктория')], 'adapted'),
+    ('vika', 'Здравствуйте, очень приятно, я Виктория.', 'Hello, very nice to meet you, I am Victoria.', [(261, 'Здравствуйте, это Виктория')], 'adapted'),
     ('chef', 'Я актёр, поэтому меня все узнают.', 'I am an actor, so everyone recognizes me.', [(263, 'я актер, поэтому меня все узнают')], 'adapted'),
     ('chef', 'Давайте выпьем за наше знакомство!', 'Let us drink to our acquaintance!', [(264, 'давайте выпьем за знакомство')], 'adapted'),
-    ('lyova', 'Привет, Катя, это цветы для тебя.', 'Hi, Katya, these flowers are for you.', [(265, 'Привет')], 'adapted'),
-    ('anya', 'Спасибо, это очень мило, Лёва.', 'Thank you, that is very sweet, Lyova.', [(266, 'Спасибо, это очень мило')], 'adapted'),
-    ('lyova', 'Не надо ничего говорить, я всё знаю.', 'There is no need to say anything, I know everything.', [(267, 'Не надо ничего говорить, я все знаю')], 'adapted'),
-    ('anya', 'Подожди, что именно ты знаешь?', 'Wait, what exactly do you know?', [(268, 'Что ты знаешь?')], 'adapted'),
-    ('lyova', 'Я знаю всю правду про Францию.', 'I know the whole truth about France.', [(268, 'Про Францию')], 'adapted'),
-    ('anya', 'Какую ещё правду про Францию?', 'What truth about France?', [(269, 'Про Францию?')], 'adapted'),
+    ('vika', 'Привет, Катя, это цветы для тебя.', 'Hi, Katya, these flowers are for you.', [(265, 'Привет')], 'adapted'),
+    ('vika', 'Спасибо, это очень мило, Лёва.', 'Thank you, that is very sweet, Lyova.', [(266, 'Спасибо, это очень мило')], 'adapted'),
+    ('vika', 'Не надо ничего говорить, я всё знаю.', 'There is no need to say anything, I know everything.', [(267, 'Не надо ничего говорить, я все знаю')], 'adapted'),
+    ('vika', 'Подожди, что именно ты знаешь?', 'Wait, what exactly do you know?', [(268, 'Что ты знаешь?')], 'adapted'),
+    ('vika', 'Я знаю всю правду про Францию.', 'I know the whole truth about France.', [(268, 'Про Францию')], 'adapted'),
+    ('vika', 'Какую ещё правду про Францию?', 'What truth about France?', [(269, 'Про Францию?')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Hearing the words 'I know about France,' Katya assumes Lyova found out she was expelled from culinary school—until Lyova explains what Max actually told him!"
-CLOSING = ('lyova', 'Не надо говорить, я всё знаю.')
+OUTRO = "Hearing the words 'I know about France,' Katya assumes Lyova found out she was expelled from culinary school—until Lyova explains what Max actually told him! See you next time!"
+CLOSING = ("vika", "Увидимся!")

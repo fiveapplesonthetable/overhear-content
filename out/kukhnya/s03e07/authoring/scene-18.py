@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e07-scene-18'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 7
 SCENE = 18
-TITLE = 'Разбитая машина и разбитое сердце  (A Wrecked Car and a Broken Heart)'
+TITLE = "Разбитая машина и разбитое сердце  (A Wrecked Car and a Broken Heart)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.07"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.07'
 SOURCE_FILE = 'sources/kukhnya/s03/e07.ru.srt'
 
 INTRO = 'Outside the restaurant, Max tells Nagiyev that he and Vika love each other and promises to pay for the dented car. Heartbroken and furious, Nagiyev vows revenge.'
@@ -21,8 +21,8 @@ STORY = [
     ('nagiyev', 'Ну какой же сегодня плохой день!', 'Well what a bad day it is today!', [(259, 'какой день сегодня, плохой')], 'adapted'),
     ('nagiyev', 'Машину мою новую сегодня разбили.', 'They wrecked my new car today.', [(260, 'Машину разбили')], 'adapted'),
     ('nagiyev', 'И моё сердце тоже разбили.', 'And they broke my heart too.', [(261, 'Сердце')], 'adapted'),
-    ('vika', 'Дима, пожалуйста, прости меня за всё.', 'Dima, please forgive me for everything.', [(263, 'Прости меня')], 'adapted'),
-    ('vika', 'Честное слово, мне очень жаль.', 'Honestly, I am very sorry.', [(264, 'Мне очень жаль')], 'adapted'),
+    ('nagiyev', 'Дима, пожалуйста, прости меня за всё.', 'Dima, please forgive me for everything.', [(263, 'Прости меня')], 'adapted'),
+    ('nagiyev', 'Честное слово, мне очень жаль.', 'Honestly, I am very sorry.', [(264, 'Мне очень жаль')], 'adapted'),
     ('nagiyev', 'Нет, это мне вас обоих сейчас жаль.', 'No, I am the one who feels sorry for both of you right now.', [(265, 'Это мне вас жаль')], 'adapted'),
     ('nagiyev', 'Вы не сможете устроиться ни в один ресторан в Москве.', 'You will not be able to get a job at a single restaurant in Moscow.', [(266, 'устроиться не в один ресторан в Москве')], 'adapted'),
     ('nagiyev', 'Запомните, я вас просто уничтожу!', 'Remember, I will simply destroy you!', [(267, 'Я вас уничтожу')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Max imagines what life would look like if Nagiyev actually carried out his threat and blacklisted Vika from every restaurant in Moscow.'
-CLOSING = ('vika', 'Дима, мне очень жаль.')
+OUTRO = 'Max imagines what life would look like if Nagiyev actually carried out his threat and blacklisted Vika from every restaurant in Moscow. See you next time!'
+CLOSING = ("nagiyev", "Всего хорошего!")

@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'It is a good thing I forgot to take out the trash yesterday!' Predicative adverb 'good' introduces the lucky break.
-- 'A little sleight of hand, and the bottle is full again!' Genitive plural 'of hands' follows the noun for dexterity.
-- 'As soon as a good chef left, the lamb is not the same.' Demonstrative determiner 'that' means 'the same as before'.
-- 'Vitya, will you reveal your secret to me now?' Literally 'open the secret', taking a dative recipient and accusative object.
-- 'What did you want to talk with me about so badly?' Preposition 'about' governs the prepositional case of 'what'.
+- 'A little sleight of hand, and the bottle is full again!' Notice how Russian puts 'a little' and 'complete, full' together in a short, direct phrase where word endings show how the ideas connect.
+- 'As soon as a good chef left, the lamb is not the same.' Here Chef Barinov anchors the thought on 'to cost; to be worth' and finishes on 'already', keeping the spoken rhythm brisk and natural.
+- 'Vitya, will you reveal your secret to me now?' In spoken Russian, the words stay in their normal statement order and Elena's rising voice at the end turns the line into a question.
+- 'What did you want to talk with me about so badly?' In spoken Russian, the words stay in their normal statement order and Elena's rising voice at the end turns the line into a question.
 - 'Lena, let's order a tasty dessert first.' Barinov stalls for time until Volodya arrives next door.
 - 'Bring a light bouchee pastry for my lady.' Barinov deliberately picks the slowest dessert on the Claude Monet menu.
-- 'But after all that pastry takes an eternity to make!' Accusative phrase 'a whole eternity' expresses how long it takes.
-- 'We are not rushing anywhere and will wait calmly.' Reflexive verb 'to hurry' pairs with the negative directional adverb.
+- 'But after all that pastry takes an eternity to make!' In everyday Russian, 'pastry, individual cake' flows straight into 'for eternity' without extra linking words.
+- 'We are not rushing anywhere and will wait calmly.' Chef Barinov pairs 'nowhere' with 'let's wait' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Denis, the chef ordered a bouchee pastry for the dining room.' In the kitchen, the order creates an immediate problem for Denis.
-- 'It is not in the fridge, they bake it to order!' The prepositional idiom 'on order' means made fresh upon request.
+- 'It is not in the fridge, they bake it to order!' Here Max anchors the thought on 'fridge' and finishes on 'order', keeping the spoken rhythm brisk and natural.
 - 'Oh, it seems there is something wrong with my stomach.' Receiving a text from Lyova, Barinov fakes sudden indigestion.
 - 'Excuse me, Lena, I will be right back.' Barinov excuses himself and sprints out the back door toward Arcobaleno.

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 8
-TITLE = 'Как уничтожить улики  (How to Destroy the Evidence)'
+TITLE = "Как уничтожить улики  (How to Destroy the Evidence)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'nagiyev': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "anya": "alisa"}
+LABELS = {"katya": "Катя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = "Katya simply swipes the spare key from her father's office and leads Max into the server room, while Nagiyev pays movers to haul away his uncomfortable sofa. Listen to the full scene first, and then we will examine each line."
@@ -16,10 +16,10 @@ INTRO = "Katya simply swipes the spare key from her father's office and leads Ma
 STORY = [
     ('katya', 'У меня тоже хороший план есть.', 'I have a good plan too.', [(104, 'У меня тоже план есть')], 'adapted'),
     ('katya', 'Пойдём скорее улики уничтожать.', "Let's go destroy the evidence quickly.", [(105, 'Пойдём улики уничтожать')], 'adapted'),
-    ('nagiyev', 'Падать с этого дивана очень больно.', 'Falling off this sofa hurts a lot.', [(108, 'Падать с него больно')], 'adapted'),
-    ('nagiyev', 'И спать на нём одиноко.', 'And sleeping on it is lonely.', [(109, 'Спать одиноко')], 'adapted'),
-    ('nagiyev', 'Взяли диван и понесли отсюда.', 'Pick up the sofa and carry it out of here.', [(110, 'Взяли, понесли')], 'adapted'),
-    ('nagiyev', 'Тёплый плед вам в подарок.', 'The warm blanket is a gift for you.', [(111, 'Плед в подарок')], 'adapted'),
+    ('katya', 'Падать с этого дивана очень больно.', 'Falling off this sofa hurts a lot.', [(108, 'Падать с него больно')], 'adapted'),
+    ('katya', 'И спать на нём одиноко.', 'And sleeping on it is lonely.', [(109, 'Спать одиноко')], 'adapted'),
+    ('katya', 'Взяли диван и понесли отсюда.', 'Pick up the sofa and carry it out of here.', [(110, 'Взяли, понесли')], 'adapted'),
+    ('katya', 'Тёплый плед вам в подарок.', 'The warm blanket is a gift for you.', [(111, 'Плед в подарок')], 'adapted'),
     ('katya', 'В общем, шесть бутылок дорогого алкоголя.', 'In short, six bottles of expensive alcohol.', [(113, 'шесть бутылок элитного алкоголя')], 'adapted'),
     ('katya', 'Три из них разбили, три унесли.', 'Three of them were smashed, three were carried off.', [(113, 'три из них разбили'), (114, 'три унесли')], 'adapted'),
     ('katya', 'Пойдём смотреть записи с камер.', "Let's go watch the camera recordings.", [(114, 'Пойдем смотреть записи')], 'adapted'),
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max isn't running away—he's fetching a bucket of water to douse the server! Next, let's see what happens when Vika comes home and notices the missing sofa."
-CLOSING = ('katya', 'Пойдём улики уничтожать.')
+OUTRO = "Max isn't running away—he's fetching a bucket of water to douse the server! Next, let's see what happens when Vika comes home and notices the missing sofa. See you next time!"
+CLOSING = ("katya", "До завтра!")

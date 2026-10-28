@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'How are you not ashamed of yourselves?' Max anchors the line on 'come on', while 'ashamed' completes the thought.
 - 'You have a minister's wife waiting in the hallway!' In Russian, the idea of 'at' flows naturally into 'corridor' without extra filler words.
 - 'Forgive us, we did not know that you had arrived.' The meaning hinges on 'forgive' working together with 'we've arrived' in spoken Russian.
-- 'Please, come in and make yourselves comfortable.' Notice the reflexive suffix on the verb meaning 'to settle down', turning the action back on the subject. Vika answers right away.
+- 'Please, come in and make yourselves comfortable.' the doctor uses a polite everyday Russian courtesy expression that sets the tone of the conversation right away.
 - 'Max, what on earth is going on here?' Vika brings out the contrast between 'Max' and 'what' in a few short words.
 - 'Walk ahead and do not ask questions.' In Russian, the idea of 'go' flows naturally into 'questions' without extra filler words.

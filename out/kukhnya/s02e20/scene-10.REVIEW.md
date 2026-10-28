@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | А что, Елена Павловна? | Well, how about that, Elena Pavlovna? | #168 00:11:48: А что, Елена Павловна | verbatim |
+| 1 | Шеф | А что, Елена Павловна? | Well, how about that, Elena Pavlovna? | #168 00:11:48: А что, Елена Павловна | verbatim |
 | 2 | Вика | Я принимаю условия вашей игры. | I accept the terms of your little game. | #169 00:11:50: Я принимаю условия вашей игры | verbatim |
-| 3 | Костя | Шеф, вас там гость зовет. | Chef, a guest out in the dining room is asking for you. | #170 00:11:54: Шеф, вас там гость зовет | verbatim |
-| 4 | Аня | Здравствуйте, вы хотели меня видеть. | Hello, you wanted to see me? | #171 00:12:00: Здравствуйте, вы хотели меня видеть | verbatim |
+| 3 | Шеф | Шеф, вас там гость зовет. | Chef, a guest out in the dining room is asking for you. | #170 00:11:54: Шеф, вас там гость зовет | verbatim |
+| 4 | Шеф | Здравствуйте, вы хотели меня видеть. | Hello, you wanted to see me? | #171 00:12:00: Здравствуйте, вы хотели меня видеть | verbatim |
 | 5 | Вика | Здравствуйте, Никита Петрович. | Hello there, Viktor Petrovich. | #172 00:12:03: Здравствуйте, Никита Петрович | verbatim |
-| 6 | Костя | Хотя, помните, у вас работал молодой повар? | By the way, do you remember a young cook who used to work for you? | #174 00:12:08: Хотя, помните, у вас работал молодой повар | verbatim |
-| 7 | Аня | Быстро вон из ресторана. | Get out of this restaurant right now. | #176 00:12:12: Быстро вон из ресторана | verbatim |
+| 6 | Шеф | Хотя, помните, у вас работал молодой повар? | By the way, do you remember a young cook who used to work for you? | #174 00:12:08: Хотя, помните, у вас работал молодой повар | verbatim |
+| 7 | Шеф | Быстро вон из ресторана. | Get out of this restaurant right now. | #176 00:12:12: Быстро вон из ресторана | verbatim |
 | 8 | Вика | Ну-ну, стой. | Hold on, wait a second. | #178 00:12:18: Ну-ну, стой | verbatim |
-| 9 | Костя | Химчистку мы вам оплатим. | We will gladly pay for your dry cleaning. | #182 00:12:36: Химчистку мы вам оплатим | verbatim |
-| 10 | Аня | Я поняла, Костя. | I understand, Kostya. | #183 00:12:38: Я поняла, Костя | verbatim |
+| 9 | Шеф | Химчистку мы вам оплатим. | We will gladly pay for your dry cleaning. | #182 00:12:36: Химчистку мы вам оплатим | verbatim |
+| 10 | Шеф | Я поняла, Костя. | I understand, Kostya. | #183 00:12:38: Я поняла, Костя | verbatim |
 | 11 | Вика | Настя, ты не могла бы выйти? | Nastya, could you step out for a moment? | #184 00:12:41: Настя, ты не могла бы выйти | verbatim |
-| 12 | Костя | Виктория Сергеевна, вы не должны помогать Косте. | Viktoriya Sergeyevna, you must not help Kostya with this. | #186 00:12:48: Виктория Сергеевна, вы не должны помогать Косте | verbatim |
-| 13 | Аня | Он мужчина и сам должен сделать мне предложение. | He is a man and must propose to me on his own. | #187 00:12:50: Он мужчина и сам должен сделать мне предложение | verbatim |
+| 12 | Шеф | Виктория Сергеевна, вы не должны помогать Косте. | Viktoriya Sergeyevna, you must not help Kostya with this. | #186 00:12:48: Виктория Сергеевна, вы не должны помогать Косте | verbatim |
+| 13 | Шеф | Он мужчина и сам должен сделать мне предложение. | He is a man and must propose to me on his own. | #187 00:12:50: Он мужчина и сам должен сделать мне предложение | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

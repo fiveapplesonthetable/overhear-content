@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Катя, можно тебя на пару минут? | Katya, can I have you for a couple of minutes? | #320 00:20:11: Катя, можно тебе на пару минут | adapted: adapted |
-| 2 | Элеонора | Денис, а ты не видишь, что мы разговариваем? | Denis, do you not see that we are talking? | #321 00:20:15: Денис, а ты не видишь, что мы разговариваем | adapted: adapted |
+| 1 | Денис | Катя, можно тебя на пару минут? | Katya, can I have you for a couple of minutes? | #320 00:20:11: Катя, можно тебе на пару минут | adapted: adapted |
+| 2 | Катя | Денис, а ты не видишь, что мы разговариваем? | Denis, do you not see that we are talking? | #321 00:20:15: Денис, а ты не видишь, что мы разговариваем | adapted: adapted |
 | 3 | Катя | Мам, перестань, мы ещё толком ничего не обсудили. | Mom, stop it, we have not properly discussed anything yet. | #324 00:20:21: Мам, перестань. Мы еще толком ничего не обсудили | adapted: adapted |
-| 4 | Элеонора | То, что у него есть дочь! | The fact that he has a daughter! | #325 00:20:25: То, что у меня есть дочь | adapted: adapted |
-| 5 | Аня | Дайте нам пару минут, это очень важно. | Give us a couple of minutes, this is very important. | #327 00:20:32: дайте нам пару минут. Это очень важно | adapted: adapted |
-| 6 | Аня | Я тебе изменил. | I cheated on you. | #330 00:20:49: изменил | adapted: adapted |
+| 4 | Катя | То, что у него есть дочь! | The fact that he has a daughter! | #325 00:20:25: То, что у меня есть дочь | adapted: adapted |
+| 5 | Денис | Дайте нам пару минут, это очень важно. | Give us a couple of minutes, this is very important. | #327 00:20:32: дайте нам пару минут. Это очень важно | adapted: adapted |
+| 6 | Денис | Я тебе изменил. | I cheated on you. | #330 00:20:49: изменил | adapted: adapted |
 | 7 | Катя | Что? | What? | #331 00:20:56: Что | adapted: adapted |
-| 8 | Аня | В тот день, когда ты отказалась выходить за меня замуж. | On that day when you refused to marry me. | #332 00:21:00: В тот день, когда ты<br>#333 00:21:03: отказалась выходить за меня замуж | adapted: adapted |
-| 9 | Аня | Я напился. | I got drunk. | #333 00:21:03: я напился | adapted: adapted |
+| 8 | Денис | В тот день, когда ты отказалась выходить за меня замуж. | On that day when you refused to marry me. | #332 00:21:00: В тот день, когда ты<br>#333 00:21:03: отказалась выходить за меня замуж | adapted: adapted |
+| 9 | Денис | Я напился. | I got drunk. | #333 00:21:03: я напился | adapted: adapted |
 | 10 | Катя | Я её знаю? | Do I know her? | #334 00:21:11: Я ее знаю | adapted: adapted |
-| 11 | Аня | Я её после этого не видел. | I did not see her after that. | #335 00:21:17: Я ее после этого не видел | adapted: adapted |
-| 12 | Аня | Нет никакой дочки, Костя всё выдумал. | There is no daughter, Kostya made it all up. | #336 00:21:27: Нет никакой дочки<br>#337 00:21:30: Костя все выдумал | adapted: adapted |
+| 11 | Денис | Я её после этого не видел. | I did not see her after that. | #335 00:21:17: Я ее после этого не видел | adapted: adapted |
+| 12 | Денис | Нет никакой дочки, Костя всё выдумал. | There is no daughter, Kostya made it all up. | #336 00:21:27: Нет никакой дочки<br>#337 00:21:30: Костя все выдумал | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

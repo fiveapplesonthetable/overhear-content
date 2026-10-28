@@ -15,10 +15,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Гость | Ты слышишь меня, нормальную свадьбу! | Do you hear me, a proper wedding! | #87 00:05:23: Слышишь меня? Нормальную | adapted: adapted |
 | 4 | Гость | Ты же сам видишь, она этого хочет. | You see for yourself that she wants this. | #88 00:05:25: Ты же видишь, она этого хочет | adapted: adapted |
 | 5 | Гость | Но у меня она денег ни за что не возьмёт. | But she will never take money from me. | #89 00:05:27: Но денег у меня не возьмет | adapted: adapted |
-| 6 | Костя | А как я объясню, где я взял эти деньги? | And how will I explain where I got this money? | #90 00:05:28: Как я объясню, где я взял эти деньги | adapted: adapted |
+| 6 | Гость | А как я объясню, где я взял эти деньги? | And how will I explain where I got this money? | #90 00:05:28: Как я объясню, где я взял эти деньги | adapted: adapted |
 | 7 | Гость | Я что, должен ещё и за тебя придумывать? | What, am I supposed to make up stories for you too? | #91 00:05:31: за тебя придумывать | adapted: adapted |
 | 8 | Гость | Скажи ей, что нашёл, украл или заработал! | Tell her that you found it, stole it, or earned it! | #92 00:05:33: Скажи, нашел, украл, заработал | adapted: adapted |
-| 9 | Костя | Нет, что заработал, она точно не поверит. | No, that I earned it, she definitely will not believe. | #93 00:05:38: Нет, заработал, она точно не поверит | adapted: adapted |
+| 9 | Гость | Нет, что заработал, она точно не поверит. | No, that I earned it, she definitely will not believe. | #93 00:05:38: Нет, заработал, она точно не поверит | adapted: adapted |
 | 10 | Гость | Вот, пошёл процесс в голове, думай давай! | There, the wheels are turning in your head, start thinking! | #94 00:05:40: пошел процесс-то<br>#95 00:05:43: Думай давай, думай | adapted: adapted |
 | 11 | Аня | Мадам, к чему все эти лишние разговоры? | Madam, what is the point of all this extra talk? | #96 00:05:46: Мадам, к чему эти разговоры | adapted: adapted |
 | 12 | Аня | Вика, я ведь очень сильно люблю вас! | Vika, I love you very much, after all! | #97 00:05:48: Я люблю вас | adapted: adapted |
@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Kostya, take this, here is six hundred thousand for you.' Notice how Russian expresses 'Kostya' and 'thousand' with crisp inflection rather than helper words.
 - 'Throw my daughter a proper wedding!' Here the Russian phrasing highlights 'arrange!' before landing on 'wedding'.
-- 'Do you hear me, a proper wedding!' In Russian, the idea of 'you' flows naturally into 'wedding' without extra filler words.
+- 'Do you hear me, a proper wedding!' the guest pairs 'to hear' with 'wedding' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'You see for yourself that she wants this.' the guest addresses the listener with the informal singular 'you' alongside 'wants'.
 - 'But she will never take money from me.' In Russian, the idea of 'but' flows naturally into 'to take' without extra filler words.
 - 'And how will I explain where I got this money?' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'money'.

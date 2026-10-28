@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-20'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 20
 TITLE = "Предложение Вики и рождение сына  (Vika's Proposal and the Birth of a Son)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = 'In the finale of Season Three, Vika walks up to Max, forgives him, and asks him to marry her! Then at the maternity hospital, Kostya reconciles with Max and proudly invites him inside to meet his newborn son!'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'And that joyful celebration brings Season Three of Kukhnya to a close: Claude Monet is saved, Kostya and Nastya have a baby boy, and Vika and Max are engaged! Congratulations on completing Season Three.'
-CLOSING = ('vika', 'Это лучший день в жизни!')
+OUTRO = 'And that joyful celebration brings Season Three of Kukhnya to a close: Claude Monet is saved, Kostya and Nastya have a baby boy, and Vika and Max are engaged! Congratulations on completing Season Three. See you next time!'
+CLOSING = ("vika", "До свидания!")

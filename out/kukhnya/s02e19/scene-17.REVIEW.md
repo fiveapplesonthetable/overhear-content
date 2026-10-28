@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ничего себе, вы просто так хорошо выглядите. | My goodness, you look simply wonderful. | #281 00:17:53: Ничего себе, вы просто так хорошо выглядите | verbatim |
+| 1 | Шеф | Ничего себе, вы просто так хорошо выглядите. | My goodness, you look simply wonderful. | #281 00:17:53: Ничего себе, вы просто так хорошо выглядите | verbatim |
 | 2 | Вика | Перестал узнавать. | I hardly recognized you at first. | #282 00:17:57: перестал узнавать | verbatim |
-| 3 | Аня | Ну и значит. | Well, that means. | #284 00:18:04: ну и значит | verbatim |
+| 3 | Шеф | Ну и значит. | Well, that means. | #284 00:18:04: ну и значит | verbatim |
 | 4 | Вика | Виктория Сергеевна. | Viktoriya Sergeyevna. | #285 00:18:07: Виктория Сергеевна | verbatim |
-| 5 | Аня | Добро пожаловать. | Welcome to our restaurant. | #286 00:18:09: Добро пожаловать | verbatim |
+| 5 | Шеф | Добро пожаловать. | Welcome to our restaurant. | #286 00:18:09: Добро пожаловать | verbatim |
 | 6 | Вика | Благодарю вас. | Thank you very much. | #286 00:18:09: Благодарю вас | verbatim |
-| 7 | Аня | А я смотрю, вы не в первый раз. | And I see this is not your first time here. | #287 00:18:11: А я смотрю, вы не в первый раз | verbatim |
+| 7 | Шеф | А я смотрю, вы не в первый раз. | And I see this is not your first time here. | #287 00:18:11: А я смотрю, вы не в первый раз | verbatim |
 | 8 | Вика | Я хожу уже к вам две недели. | I have been coming to your place for two weeks already. | #288 00:18:13: Я хожу уже к вам две недели | verbatim |
-| 9 | Аня | Вот какая, чего же я не знаю. | Is that so, how did I not know about it? | #289 00:18:16: Вот какая, чего же я не знаю | verbatim |
+| 9 | Шеф | Вот какая, чего же я не знаю. | Is that so, how did I not know about it? | #289 00:18:16: Вот какая, чего же я не знаю | verbatim |
 | 10 | Вика | Такой мой метод работы с актёрами. | That is my personal method of working with actors. | #290 00:18:19: Такой мой метод работы с актёрами | verbatim |
-| 11 | Аня | Я хотела посмотреть, какой вы в жизни. | I wanted to see what you are like in real life. | #291 00:18:21: Я хотела посмотреть, какой вы в жизни | verbatim |
+| 11 | Шеф | Я хотела посмотреть, какой вы в жизни. | I wanted to see what you are like in real life. | #291 00:18:21: Я хотела посмотреть, какой вы в жизни | verbatim |
 | 12 | Вика | Гениально, вот гениально. | Brilliant, simply brilliant. | #292 00:18:23: Гениально, вот гениально | verbatim |
-| 13 | Аня | Да, вот что там, да. | Yes, well, let us see what is over there. | #293 00:18:27: Да, вот что там, да | verbatim |
+| 13 | Шеф | Да, вот что там, да. | Yes, well, let us see what is over there. | #293 00:18:27: Да, вот что там, да | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

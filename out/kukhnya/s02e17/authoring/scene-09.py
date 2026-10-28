@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e17-scene-09"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e17-scene-09'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 17
 SCENE = 9
 TITLE = "На приёме у психолога  (At the Psychologist's Office)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'max': 'anja'}
-LABELS = {'anya': 'Елена', 'max': 'Макс'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.17"
-SOURCE_FILE = "sources/kukhnya/s02/e17.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "elena": "angelina", "anya": "alisa"}
+LABELS = {"elena": "Елена", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.17'
+SOURCE_FILE = 'sources/kukhnya/s02/e17.ru.srt'
 
 INTRO = "Sitting in Tamara Ivanovna's office, Viktor Petrovich politely answers her questions assuming she wants to book a restaurant banquet. When he realizes Elena tricked him into seeing a therapist for his explosive temper, he erupts in fury until Tamara proposes a simple technique."
 
 STORY = [
-    ('anya', 'Как вы себя чувствуете?', 'How are you feeling today?', [(129, 'Как вы себя чувствуете')], ''),
-    ('max', 'Спасибо, хорошо.', 'Thank you, quite well.', [(130, 'Спасибо, хорошо')], ''),
-    ('anya', 'Ничего не беспокоит.', 'Nothing is bothering you?', [(131, 'Ничего не беспокоит')], ''),
-    ('max', 'Нет, все нормально.', 'No, everything is fine.', [(132, 'Нет, все нормально')], ''),
-    ('anya', 'Вы говорили, что вам нужен банкет, да?', 'You mentioned that you needed a banquet, right?', [(133, 'Вы говорили, что вам нужен банкет, да')], ''),
-    ('max', 'Ну, Елена сказала.', 'Well, Elena told me.', [(134, 'Ну, Елена сказала')], ''),
-    ('anya', 'Подождите. Это что же?', 'Wait a second. What is going on here?', [(135, 'Подождите. Это что же')], ''),
-    ('max', 'Так, так, так, Витя.', 'Now, now, Vitya, calm down.', [(136, 'Так, так, так, Витя')], ''),
-    ('anya', 'В конце концов, то...', 'After all, otherwise...', [(140, 'в конце концов, то')], ''),
-    ('max', 'Да ты сядешь за этот черт в стол!', 'Sit down at this damn table right now!', [(141, 'Да ты сядешь за этот черт в стол')], ''),
-    ('anya', 'Если вы не будете контролировать свой гнев.', 'If you do not learn to control your anger.', [(142, 'Если вы не будете контролировать свой гнев')], ''),
-    ('max', 'А что делать?', 'Then what am I supposed to do?', [(144, 'А что делать')], ''),
-    ('anya', 'Нет. У меня есть один способ.', 'No. I have one special method.', [(145, 'Нет. У меня есть один способ')], ''),
+    ('elena', 'Как вы себя чувствуете?', 'How are you feeling today?', [(129, 'Как вы себя чувствуете')], ''),
+    ('anya', 'Спасибо, хорошо.', 'Thank you, quite well.', [(130, 'Спасибо, хорошо')], ''),
+    ('elena', 'Ничего не беспокоит.', 'Nothing is bothering you?', [(131, 'Ничего не беспокоит')], ''),
+    ('anya', 'Нет, все нормально.', 'No, everything is fine.', [(132, 'Нет, все нормально')], ''),
+    ('elena', 'Вы говорили, что вам нужен банкет, да?', 'You mentioned that you needed a banquet, right?', [(133, 'Вы говорили, что вам нужен банкет, да')], ''),
+    ('anya', 'Ну, Елена сказала.', 'Well, Elena told me.', [(134, 'Ну, Елена сказала')], ''),
+    ('elena', 'Подождите. Это что же?', 'Wait a second. What is going on here?', [(135, 'Подождите. Это что же')], ''),
+    ('anya', 'Так, так, так, Витя.', 'Now, now, Vitya, calm down.', [(136, 'Так, так, так, Витя')], ''),
+    ('elena', 'В конце концов, то...', 'After all, otherwise...', [(140, 'в конце концов, то')], ''),
+    ('anya', 'Да ты сядешь за этот черт в стол!', 'Sit down at this damn table right now!', [(141, 'Да ты сядешь за этот черт в стол')], ''),
+    ('elena', 'Если вы не будете контролировать свой гнев.', 'If you do not learn to control your anger.', [(142, 'Если вы не будете контролировать свой гнев')], ''),
+    ('anya', 'А что делать?', 'Then what am I supposed to do?', [(144, 'А что делать')], ''),
+    ('elena', 'Нет. У меня есть один способ.', 'No. I have one special method.', [(145, 'Нет. У меня есть один способ')], ''),
 ]
 
 OPENER = "Let's walk back through the scene line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = "When you watch Scene 9 of Episode 17, listen out for the exchange around at the psychologist's office — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('max', 'А что делать?')
+OUTRO = 'That wraps up this scene as viktor Petrovich assumes Tamara Ivanovna wants to order a banquet until he realizes Elena brought him to anger-management therapy, causing him to lose his temper on the spot. Until next time!'
+CLOSING = ("anya", "До свидания!")

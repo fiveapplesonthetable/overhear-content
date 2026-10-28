@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Stand calmly and smile nicely.' The meaning hinges on 'stop' working together with 'smile' in spoken Russian.
 - 'Come on, go back to work quickly.' Dmitry Nagiyev brings out the contrast between 'come on' and 'quickly' in a few short words. Kristina answers right away.
 - 'That man offered Nagiyev to sell the restaurant.' Kristina brings out the contrast between 'this' and 'man' in a few short words.
-- 'And what did our Nagiyev answer him?' The grammar packs 'and' and 'Dmitry Nagiyev' into a tight, idiomatic kitchen exchange.
+- 'And what did our Nagiyev answer him?' Max centers this short reply on 'answered', letting a few direct words carry the whole meaning.
 - 'He just sent me back to work.' Spoken Russian keeps this brisk, leaning on 'he' and finishing on 'to work'.

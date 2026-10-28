@@ -14,9 +14,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Гость | Прикрой дверь, а то нам неловко. | Close the door slightly, otherwise it is awkward for us. | #249 00:16:31: дверь что-то прикрыла | adapted: adapted |
 | 3 | Гость | Вы же всё-таки вместе в отеле работаете. | You work together at the hotel after all. | #250 00:16:37: работаете вместе | adapted: adapted |
 | 4 | Настя | Здравствуйте, Костя, а где твой папа? | Hello, Kostya, where is your dad? | #251 00:16:44: Здравствуйте<br>#252 00:16:47: А где папа | adapted: adapted |
-| 5 | Аня | А папа решил принять тёплую ванну. | Dad decided to take a warm bath. | #253 00:16:49: А папа решил | adapted: adapted |
+| 5 | Гость | А папа решил принять тёплую ванну. | Dad decided to take a warm bath. | #253 00:16:49: А папа решил | adapted: adapted |
 | 6 | Настя | Познакомьтесь, это мамина хорошая подруга Евгения. | Meet her, this is Mom's good friend Yevgeniya. | #254 00:16:55: Познакомьтесь, это моя подруга Евгения | adapted: adapted |
-| 7 | Аня | Здравствуйте, нам тоже сейчас очень приятно. | Hello, we are also very pleased to meet you right now. | #255 00:16:58: Очень приятно | adapted: adapted |
+| 7 | Гость | Здравствуйте, нам тоже сейчас очень приятно. | Hello, we are also very pleased to meet you right now. | #255 00:16:58: Очень приятно | adapted: adapted |
 | 8 | Гость | А это моя новая подруга Анжелика. | And this is my new friend Anzhelika. | #257 00:17:03: А это моя подруга Анжелика | adapted: adapted |
 | 9 | Гость | Может быть, мы вместе чаю попьём? | Maybe we can drink some tea together? | #258 00:17:16: чайку попьем | adapted: adapted |
 | 10 | Гость | Смотрите, я тут свежих бубликов купил. | Look, I bought some fresh bagels here. | #259 00:17:18: Я тут бубликов купил | adapted: adapted |

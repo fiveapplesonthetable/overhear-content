@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e10-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 10
 SCENE = 7
-TITLE = 'Золотое правило отеля  (The Golden Rule of the Hotel)'
+TITLE = "Золотое правило отеля  (The Golden Rule of the Hotel)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'inspector': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Михаил', 'inspector': 'Инспектор', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "inspector": "angelina"}
+LABELS = {"mikhail": "Михаил", "inspector": "Инспектор"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.10'
 SOURCE_FILE = 'sources/kukhnya/s05/e10.ru.srt'
 
 INTRO = 'Back in the hallway, the inspector demands to know why a hotel bellboy was getting drunk with a guest in the suite. Mikhail claims the inspector was mistaken and that the employee is sober at his post, then whispers to Vika to find a replacement immediately.'
 
 STORY = [
-    ('anya', 'Ещё раз простите нас за этот инцидент.', 'Once again forgive us for this incident.', [(106, 'Еще раз простите нас за этот инцидент')], 'adapted'),
-    ('anya', 'У нас в отеле золотое правило.', 'In our hotel we have a golden rule.', [(107, 'У нас в отеле золотое правило')], 'adapted'),
-    ('anya', 'Гость всегда прав. Хочет пить — пьёт.', 'The guest is always right. If he wants to drink, he drinks.', [(108, 'Гость всегда прав'), (109, 'Хочет пить, пьет')], 'adapted'),
+    ('mikhail', 'Ещё раз простите нас за этот инцидент.', 'Once again forgive us for this incident.', [(106, 'Еще раз простите нас за этот инцидент')], 'adapted'),
+    ('mikhail', 'У нас в отеле золотое правило.', 'In our hotel we have a golden rule.', [(107, 'У нас в отеле золотое правило')], 'adapted'),
+    ('mikhail', 'Гость всегда прав. Хочет пить — пьёт.', 'The guest is always right. If he wants to drink, he drinks.', [(108, 'Гость всегда прав'), (109, 'Хочет пить, пьет')], 'adapted'),
     ('inspector', 'А почему с ним пьёт ваш сотрудник?', 'And why is your employee drinking with him?', [(109, 'А почему с ним пьет ваш'), (114, 'ваш сотрудник')], 'adapted'),
-    ('anya', 'Тоже золотое правило!', 'Also a golden rule!', [(110, 'Тоже золотое правило')], 'adapted'),
+    ('mikhail', 'Тоже золотое правило!', 'Also a golden rule!', [(110, 'Тоже золотое правило')], 'adapted'),
     ('inspector', 'Он был абсолютно пьян!', 'He was completely drunk!', [(111, 'был абсолютно пьян')], 'adapted'),
-    ('anya', 'Нет!', 'No!', [(112, 'Нет')], 'adapted'),
+    ('mikhail', 'Нет!', 'No!', [(112, 'Нет')], 'adapted'),
     ('inspector', 'Вы думаете, что я идиот?', 'Do you think that I am an idiot?', [(113, 'Вы думаете, что я идиот')], 'adapted'),
     ('inspector', 'Где этот ваш сотрудник?', 'Where is this employee of yours?', [(114, 'Где этот ваш сотрудник')], 'adapted'),
-    ('anya', 'На своём рабочем месте.', 'At his workplace.', [(115, 'На своем рабочем месте')], 'adapted'),
-    ('anya', 'Виктория Сергеевна, немедленно найдите Ярослава.', 'Viktoriya Sergeyevna, find Yaroslav immediately.', [(116, 'Виктория Сергеевна, немедленно найдите Ярослава')], 'adapted'),
-    ('anya', 'А я догоню!', 'And I will catch up!', [(117, 'А я догоню')], 'adapted'),
+    ('mikhail', 'На своём рабочем месте.', 'At his workplace.', [(115, 'На своем рабочем месте')], 'adapted'),
+    ('mikhail', 'Виктория Сергеевна, немедленно найдите Ярослава.', 'Viktoriya Sergeyevna, find Yaroslav immediately.', [(116, 'Виктория Сергеевна, немедленно найдите Ярослава')], 'adapted'),
+    ('mikhail', 'А я догоню!', 'And I will catch up!', [(117, 'А я догоню')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes the hallway confrontation. Pay attention to the proverb that the guest is always right and Mikhail's frantic order to Vika. See you in the next scene."
-CLOSING = ('anya', 'Гость всегда прав!')
+OUTRO = "And that finishes the hallway confrontation. Pay attention to the proverb that the guest is always right and Mikhail's frantic order to Vika. Until next time!"
+CLOSING = ("mikhail", "До свидания!")

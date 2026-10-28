@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e12-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 12
 SCENE = 15
-TITLE = 'Соседка по лестничной клетке  (The Next-Door Neighbor)'
+TITLE = "Соседка по лестничной клетке  (The Next-Door Neighbor)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'hostess': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'hostess': 'Хостес'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.12"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "katya": "angelina", "hostess": "anja"}
+LABELS = {"anya": "Макс", "katya": "Катя", "hostess": "Хостес"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.12'
 SOURCE_FILE = 'sources/kukhnya/s03/e12.ru.srt'
 
 INTRO = 'Stepping into the hallway with a trash bag, Max comes face to face with the landlady Valentina Grigoryevna. Katya explains that the old woman actually lives in the apartment right next door, and since Max has no money left, Katya agrees to help him keep up the act. Listen to the Russian scene first.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "With all of Max's savings tied up in the apartment deposit, Katya stays to help him fool their next-door landlady. In the next scene, Valentina Grigoryevna knocks again to check the water meters, while Grandpa Kirill prepares a new surprise."
-CLOSING = ('anya', 'Давай жить здесь вместе.')
+OUTRO = "With all of Max's savings tied up in the apartment deposit, Katya stays to help him fool their next-door landlady. Until next time!"
+CLOSING = ("anya", "До завтра!")

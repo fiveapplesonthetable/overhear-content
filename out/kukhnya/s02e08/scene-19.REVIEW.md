@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | То это его дело. | Then that is his own business. | #327 00:20:35: то это его дело | verbatim |
+| 1 | Костя | То это его дело. | Then that is his own business. | #327 00:20:35: то это его дело | verbatim |
 | 2 | Настя | И не надо на Настю орать. | And there is no need to yell at Nastya. | #328 00:20:37: И не надо на Настю орать | verbatim |
-| 3 | Аня | Настя, Костя, перестаньте. | Nastya, Kostya, please stop. | #330 00:20:42: Настя, Костя, перестаньте | verbatim |
+| 3 | Костя | Настя, Костя, перестаньте. | Nastya, Kostya, please stop. | #330 00:20:42: Настя, Костя, перестаньте | verbatim |
 | 4 | Настя | Ты кто такой? | Who do you think you are? | #331 00:20:44: Ты кто такой | verbatim |
-| 5 | Аня | Ну-ка, пойдем выйдем. | Come on, let us step outside. | #332 00:20:48: Ну-ка, пойдем выйдем | verbatim |
+| 5 | Костя | Ну-ка, пойдем выйдем. | Come on, let us step outside. | #332 00:20:48: Ну-ка, пойдем выйдем | verbatim |
 | 6 | Настя | Ты что думаешь? | What do you think you are doing? | #333 00:20:51: Ты что думаешь | verbatim |
-| 7 | Аня | А она тебя что? | And what will she do for you? | #333 00:20:51: а она тебя что | verbatim |
+| 7 | Костя | А она тебя что? | And what will she do for you? | #333 00:20:51: а она тебя что | verbatim |
 | 8 | Настя | Любить больше? | Love you more for it? | #334 00:20:56: любить больше | verbatim |
-| 9 | Аня | Это ее принципы? | Those are her principles, right? | #334 00:20:56: это ее принципы | verbatim |
+| 9 | Костя | Это ее принципы? | Those are her principles, right? | #334 00:20:56: это ее принципы | verbatim |
 | 10 | Настя | Я их уважаю, и вы должны уважать. | I respect them, and you ought to respect them too. | #335 00:20:59: Я их уважаю, и вы должны уважать | verbatim |
-| 11 | Аня | Просить долго не придется. | You will not have to beg me for long. | #338 00:21:06: просить долго не придется | verbatim |
+| 11 | Костя | Просить долго не придется. | You will not have to beg me for long. | #338 00:21:06: просить долго не придется | verbatim |
 | 12 | Настя | Папа, мы не пьем. | Dad, we do not drink alcohol. | #339 00:21:10: Папа, мы не пьем | verbatim |
-| 13 | Аня | Коньяк будешь? | Want some cognac? | #339 00:21:10: Коньяк будешь | verbatim |
+| 13 | Костя | Коньяк будешь? | Want some cognac? | #339 00:21:10: Коньяк будешь | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,30 +1,30 @@
 ID = 'kukhnya-s05e06-scene-02'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 6
 SCENE = 2
 TITLE = "Клептомания Сени  (Senya's Kleptomania)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'lyova': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'lyova': 'Лёва'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "senya": "angelina"}
+LABELS = {"chef": "Шеф", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.06'
 SOURCE_FILE = 'sources/kukhnya/s05/e06.ru.srt'
 
 INTRO = 'In the storage room, Chef Barinov reads off an inventory of olive oil, shrimp, and oysters that Senya tried to sneak out of the kitchen this week. Senya swears he will never steal again.'
 
 STORY = [
-    ('anya', 'Масло оливковое, две бутылки.', 'Olive oil, two bottles.', [(29, 'Масло оливковое. Две бутылки')], 'adapted'),
-    ('anya', 'Креветки, одна пачка.', 'Shrimp, one pack.', [(30, 'Креветки. Одна пачка')], 'adapted'),
-    ('anya', 'Устрицы, пять штук, соль и перец.', 'Oysters, five pieces, salt and pepper.', [(31, 'Устрицы. Пять штук. Соль'), (32, 'Перец')], 'adapted'),
-    ('anya', 'Это ты пытался украсть за эту неделю.', 'This is what you tried to steal this week.', [(32, 'ты пытался украсть только за эту неделю')], 'adapted'),
-    ('lyova', 'А может, у него клептомания?', 'Or maybe he has kleptomania?', [(33, 'А может, у него клептомания')], 'adapted'),
-    ('lyova', 'Может, его лечить надо?', 'Maybe he needs to be treated?', [(33, 'Может, его лечить надо')], 'adapted'),
-    ('anya', 'Для начала я его уволю.', 'For starters, I will fire him.', [(34, 'для начала я его уволю')], 'adapted'),
-    ('anya', 'А потом пусть лечится.', 'And after that let him get treated.', [(34, 'а потом пусть лечится')], 'adapted'),
+    ('chef', 'Масло оливковое, две бутылки.', 'Olive oil, two bottles.', [(29, 'Масло оливковое. Две бутылки')], 'adapted'),
+    ('chef', 'Креветки, одна пачка.', 'Shrimp, one pack.', [(30, 'Креветки. Одна пачка')], 'adapted'),
+    ('chef', 'Устрицы, пять штук, соль и перец.', 'Oysters, five pieces, salt and pepper.', [(31, 'Устрицы. Пять штук. Соль'), (32, 'Перец')], 'adapted'),
+    ('chef', 'Это ты пытался украсть за эту неделю.', 'This is what you tried to steal this week.', [(32, 'ты пытался украсть только за эту неделю')], 'adapted'),
+    ('senya', 'А может, у него клептомания?', 'Or maybe he has kleptomania?', [(33, 'А может, у него клептомания')], 'adapted'),
+    ('senya', 'Может, его лечить надо?', 'Maybe he needs to be treated?', [(33, 'Может, его лечить надо')], 'adapted'),
+    ('chef', 'Для начала я его уволю.', 'For starters, I will fire him.', [(34, 'для начала я его уволю')], 'adapted'),
+    ('chef', 'А потом пусть лечится.', 'And after that let him get treated.', [(34, 'а потом пусть лечится')], 'adapted'),
     ('senya', 'Я больше не буду так, клянусь.', 'I will not do that anymore, I swear.', [(35, 'Я больше не буду так, клянусь')], 'adapted'),
     ('senya', 'Ещё раз поймаешь, увольняй.', 'If you catch me one more time, fire me.', [(36, 'Еще раз поймаешь, увольняй')], 'adapted'),
-    ('anya', 'Хорошо.', 'Fine.', [(37, 'Хорошо')], 'adapted'),
+    ('chef', 'Хорошо.', 'Fine.', [(37, 'Хорошо')], 'adapted'),
     ('senya', 'Ну, этот раз не в счёт, ладно?', 'Well, this time does not count, alright?', [(38, 'это раз не в счет, ладно')], 'adapted'),
 ]
 
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Now on his final warning from Chef Barinov, Senya reluctantly puts the stolen delicacies back on the shelf. See you in the next scene.'
-CLOSING = ('anya', 'Иди работай, Сеня.')
+OUTRO = 'Now on his final warning from Chef Barinov, Senya reluctantly puts the stolen delicacies back on the shelf. See you next time!'
+CLOSING = ("chef", "До завтра!")

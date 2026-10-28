@@ -1,51 +1,48 @@
-ID = "kukhnya-s02e02-scene-12"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s02e02-scene-12.
+ID = 'kukhnya-s02e02-scene-12'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 2
 SCENE = 12
 TITLE = "Сладкая ложь  (Sweet Lie)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "nastya": "anja", "valya": "angelina"}
-LABELS = {"anya": "Макс", "nastya": "Настя", "valya": "Валя"}
-SOURCE_NAME = "Кухня (Kukhnya) S2.02"
-SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
-
-INTRO = "In this scene focused on sweet lie, max begs Nastya to talk to her dad. Then they notice Valya making a dessert that looks exactly like the Chef's. Let's listen closely to Max and Nastya's exchange in Russian first, and then walk through each line together."
-OPENER = "Now let us examine the conversation line by line."
-TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around sweet lie, and for the words meaning 'talk' and 'dad'. You'll catch them now. See you next time."
-CLOSING = ('nastya', 'Шеф будет рад.')
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "valya": "anja", "nastya": "angelina"}
+LABELS = {"anya": "Макс", "valya": "Валя", "nastya": "Настя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.02'
+SOURCE_FILE = 'sources/kukhnya/s02/e02.ru.dual.srt'
+INTRO = "Focused on sweet lie, Max begs Nastya to talk to her dad. Then they notice Valya making a dessert that looks exactly like the Chef's. Let's listen closely to Max and Nastya's exchange in Russian first, and then walk through each line together."
+OPENER = 'Now let us examine the conversation line by line.'
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "Max begs Nastya to talk to her dad. Then they notice Valya making a dessert that looks exactly like the Chef's. Next time you watch the episode, listen for the Russian expressions for 'to have a talk' and 'dad' — you will catch every word right away. See you next time!"
+CLOSING = ("nastya", "Пока!")
 STORY = [
-    ('anya', 'Пожалуйста, поговори с папой.', 'Please talk to dad.', [(219, 'ты, пожалуйста, с папой поговори, ладно?')], 'adapted'),
-    ('nastya', 'Я постараюсь.', 'I will try.', [], 'new'),
-    ('anya', 'А что это такое?', 'And what is this?', [], 'new'),
-    ('valya', 'Это мой десерт.', 'This is my dessert.', [], 'new'),
-    ('anya', 'Прямо как у шефа.', "Just like the Chef's.", [(221, 'Прям как у шефа.')], 'adapted'),
-    ('valya', 'Спасибо большое.', 'Thank you very much.', [], 'new'),
-    ('anya', 'Можно попробовать?', 'Can I taste it?', [], 'new'),
-    ('valya', 'Конечно, бери.', 'Of course, take it.', [], 'new'),
-    ('anya', 'Это очень вкусно.', 'This is very tasty.', [], 'new'),
-    ('nastya', 'Да, мне тоже нравится.', 'Yes, I like it too.', [], 'new'),
-    ('valya', 'Я долго учился этому.', 'I studied this for a long time.', [], 'new'),
-    ('anya', 'Ты молодец, Валя.', 'Well done, Valya.', [], 'new'),
-    ('nastya', 'Шеф будет рад.', 'The Chef will be happy.', [], 'new'),
+    ('anya', 'Пожалуйста, поговори с папой.', 'Please talk to dad.', [(219, 'ты, пожалуйста, с папой поговори, ладно?')], ''),
+    ('nastya', 'Я постараюсь.', 'I will try.', [], ''),
+    ('anya', 'А что это такое?', 'And what is this?', [], ''),
+    ('valya', 'Это мой десерт.', 'This is my dessert.', [], ''),
+    ('anya', 'Прямо как у шефа.', "Just like the Chef's.", [(221, 'Прям как у шефа.')], ''),
+    ('valya', 'Спасибо большое.', 'Thank you very much.', [], ''),
+    ('anya', 'Можно попробовать?', 'Can I taste it?', [], ''),
+    ('valya', 'Конечно, бери.', 'Of course, take it.', [], ''),
+    ('anya', 'Это очень вкусно.', 'This is very tasty.', [], ''),
+    ('nastya', 'Да, мне тоже нравится.', 'Yes, I like it too.', [], ''),
+    ('valya', 'Я долго учился этому.', 'I studied this for a long time.', [], ''),
+    ('anya', 'Ты молодец, Валя.', 'Well done, Valya.', [], ''),
+    ('nastya', 'Шеф будет рад.', 'The Chef will be happy.', [], ''),
 ]
-
 WALK = [
-    (0, None, "'Please talk to dad.' Here 'talk' sets up the idea, while 'dad' comes at the end for emphasis. And Nastya jumps in."),
-    (1, None, "'I will try.' Notice the word order: 'I' comes first, and 'to try' finishes the sentence."),
-    (2, None, "'And what is this?' The first content word means 'what', and 'on earth' rounds out the thought."),
-    (3, None, "'This is my dessert.' You'll hear 'this' all the time in the show, here connected with 'dessert'. Max answers straight away."),
-    (4, None, "'Just like the Chef's.' Here 'right' sets up the idea, while 'chef' comes at the end for emphasis."),
-    (5, None, "'Thank you very much.' the speaker starts with 'thank you' and pairs it with 'big' to make the point clear."),
-    (6, None, "'Can I taste it?' Max puts 'may' up front so the listener immediately catches the tone, followed by 'to taste'."),
-    (7, None, "'Of course, take it.' the speaker starts with 'of course' and pairs it with 'take' to make the point clear."),
-    (8, None, "'This is very tasty.' The first content word means 'this', and 'it's tasty' rounds out the thought."),
-    (9, None, "'Yes, I like it too.' A compact expression built around 'to me' and 'is pleasing'."),
-    (10, None, "'I studied this for a long time.' the speaker puts 'I' up front so the listener immediately catches the tone, followed by 'for a long time'."),
-    (11, None, "'Well done, Valya.' Listen for the word meaning 'you' right alongside 'well done' in this line."),
-    (12, None, "'The Chef will be happy.' Notice the word order: 'chef' comes first, and 'glad' finishes the sentence."),
+    (0, None, "'Please talk to dad.' Max leads with the direct command form meaning 'talk', followed by 'dad'."),
+    (1, None, "'I will try.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'to try'."),
+    (2, None, "'And what is this?' Russian omits the present-tense verb 'to be' here, linking 'and' directly with 'what', combining 'and' with 'what' and 'this'."),
+    (3, None, "'This is my dessert.' the speaker delivers a punchy conversational reaction built around the Russian word meaning 'dessert'."),
+    (4, None, "'Just like the Chef's.' Russian omits the present-tense verb 'to be' here, linking 'right' directly with 'how', combining 'right' with 'how' and 'chef'."),
+    (5, None, "'Thank you very much.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'big', combining 'thank you' with 'big'."),
+    (6, None, "'Can I taste it?' Max turns a statement into a question purely through rising intonation on the word meaning 'may', followed by 'to taste'."),
+    (7, None, "'Of course, take it.' The character uses a direct command command form of the verb meaning 'take'."),
+    (8, None, "'This is very tasty.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'it's tasty', combining 'very much' with 'it's tasty'."),
+    (9, None, "'Yes, I like it too.' Here Nastya anchors the line on the word meaning 'too' and builds the thought around 'is pleasing'."),
+    (10, None, "'I studied this for a long time.' The phrasing opens with 'for a long time' before bringing in 'studied' to make the point clear."),
+    (11, None, "'Well done, Valya.' Max delivers a punchy one-word reaction built around the Russian word meaning 'well done'."),
+    (12, None, "'The Chef will be happy.' Nastya chooses the action verb meaning 'will be' for the ongoing action, followed by 'glad'."),
 ]
-

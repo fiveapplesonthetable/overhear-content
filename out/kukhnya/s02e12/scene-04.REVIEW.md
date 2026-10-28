@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Рожает земля русская гениев. | The Russian land still gives birth to geniuses. | #52 00:03:46: Рожает земля русская гениев | verbatim |
+| 1 | Настя | Рожает земля русская гениев. | The Russian land still gives birth to geniuses. | #52 00:03:46: Рожает земля русская гениев | verbatim |
 | 2 | Шеф | Редко, но рожает. | Rarely, but it does. | #53 00:03:49: Редко, но рожает | verbatim |
-| 3 | Аня | Очень много про вас слышал. | I have heard a great deal about you. | #55 00:03:55: Очень много про вас слышал | verbatim |
+| 3 | Настя | Очень много про вас слышал. | I have heard a great deal about you. | #55 00:03:55: Очень много про вас слышал | verbatim |
 | 4 | Шеф | Приятно познакомиться. | Nice to meet you. | #55 00:03:55: Приятно познакомиться | verbatim |
-| 5 | Аня | Я не повар. | I am not a cook. | #56 00:03:57: Я не повар | verbatim |
+| 5 | Настя | Я не повар. | I am not a cook. | #56 00:03:57: Я не повар | verbatim |
 | 6 | Шеф | Не видно? | Can you not tell? | #58 00:04:01: Не видно | verbatim |
-| 7 | Аня | Я здесь. | I am right here. | #60 00:04:04: Я здесь | verbatim |
+| 7 | Настя | Я здесь. | I am right here. | #60 00:04:04: Я здесь | verbatim |
 | 8 | Шеф | Что и молод. | That I am young. | #62 00:04:20: что и молод | verbatim |
-| 9 | Аня | Но это не так, это не так. | But that is not true, not true at all. | #63 00:04:25: но это не так, это не так | verbatim |
+| 9 | Настя | Но это не так, это не так. | But that is not true, not true at all. | #63 00:04:25: но это не так, это не так | verbatim |
 | 10 | Шеф | И там сделал карьеру. | And I built my career over there. | #65 00:04:33: и там сделал карьеру | verbatim |
-| 11 | Аня | Же как-то... | It is somehow... | #69 00:04:50: же как-то | verbatim |
+| 11 | Настя | Же как-то... | It is somehow... | #69 00:04:50: же как-то | verbatim |
 | 12 | Шеф | Непривычно с вами так разговаривать. | Unusual talking with you like this. | #70 00:04:52: Непривычно с вами так разговаривать | verbatim |
-| 13 | Аня | Я поставлю цветы в вас. | I will put the flowers in water for you. | #71 00:04:55: Я поставлю цветы в вас | verbatim |
+| 13 | Настя | Я поставлю цветы в вас. | I will put the flowers in water for you. | #71 00:04:55: Я поставлю цветы в вас | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

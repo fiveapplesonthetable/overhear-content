@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e16-scene-06'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 16
 SCENE = 6
-TITLE = 'Пароль от айпада и новая мебель  (The iPad Password and New Furniture)'
+TITLE = "Пароль от айпада и новая мебель  (The iPad Password and New Furniture)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'kristina': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'kristina': 'Кристина'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.16"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "kristina": "anja", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "kristina": "Кристина", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.16'
 SOURCE_FILE = 'sources/kukhnya/s03/e16.ru.srt'
 
 INTRO = 'In the office, Nagiyev casually tells Kristina that the password to his iPad is his birthday. Kristina then shows him a catalog of expensive restaurant furniture she already ordered, and sweet-talks him into paying for it! Listen first.'
@@ -37,7 +37,7 @@ WALK = [
     (3, None, "'It is my birthday, my dear.' Spoken Russian keeps this brisk, leaning on 'there' and finishing on 'good'. Kristina answers right away."),
     (4, None, "'I think we need to replace the furniture in the restaurant.' Kristina brings out the contrast between 'to me' and 'it seems' in a few short words."),
     (5, None, "'You know, I already ordered it, they are supposed to deliver it on Monday!' Spoken Russian keeps this brisk, leaning on 'know' and finishing on 'to bring'."),
-    (6, None, "'You are my clever girl, I have wanted to replace the furniture for a long time too.' In Russian, the idea of 'you' flows naturally into 'to replace' without extra filler words."),
+    (6, None, "'You are my clever girl, I have wanted to replace the furniture for a long time too.' Nagiyev pairs 'clever girl / smarty' with 'to replace' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (7, None, "'But then I calculated how much money it costs.' Dmitry Nagiyev anchors the line on 'but', while 'money' completes the thought."),
     (8, None, "'Our old furniture is still quite fine and new.' The grammar packs 'our' and 'new' into a tight, idiomatic kitchen exchange."),
     (9, None, "'So call them and cancel the order, okay?' Spoken Russian keeps this brisk, leaning on 'so' and finishing on 'all right'. Kristina answers right away."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Kristina plans to cancel the furniture delivery behind Nagiyev's back and pocket the cash! Next, let's see what Chef Barinov discovers on the kitchen security cameras in Scene Seven."
-CLOSING = ('nagiyev', 'Конечно, директор, зайка!')
+OUTRO = "Kristina plans to cancel the furniture delivery behind Nagiyev's back and pocket the cash! Next, let's see what Chef Barinov discovers on the kitchen security cameras in Scene Seven. See you next time!"
+CLOSING = ("nagiyev", "До свидания!")

@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e16-scene-04"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e16-scene-04'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 16
 SCENE = 4
-TITLE = 'Звонок сына и заказ пиццы  (A Call from Her Son and Ordering Pizza)'
+TITLE = "Звонок сына и заказ пиццы  (A Call from Her Son and Ordering Pizza)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.16"
-SOURCE_FILE = "sources/kukhnya/s02/e16.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.16'
+SOURCE_FILE = 'sources/kukhnya/s02/e16.ru.srt'
 
 INTRO = 'Seconds after teasing Barinov for hiding their relationship from Lyova, Elena Pavlovna gets a call from her own adult son and immediately whispers for Viktor Petrovich to stay quiet. With her fridge empty, she orders her favorite delivery pizza so they can enjoy another half hour together.'
 
 STORY = [
-    ('anya', 'Да, сынок, привет.', 'Yes, son, hello.', [(56, 'Да, сынок, привет')], ''),
+    ('chef', 'Да, сынок, привет.', 'Yes, son, hello.', [(56, 'Да, сынок, привет')], ''),
     ('vika', 'Ты на работе?', 'Are you at work?', [(57, 'Ты на работе')], ''),
-    ('anya', 'Ну, тихо, прошу.', 'Please keep quiet for a moment.', [(58, 'Ну, тихо, прошу')], ''),
+    ('chef', 'Ну, тихо, прошу.', 'Please keep quiet for a moment.', [(58, 'Ну, тихо, прошу')], ''),
     ('vika', 'Нормально. Только тут холодильник.', 'I am fine. Only the fridge here is empty.', [(59, 'Нормально. Только тут холодильник')], ''),
-    ('anya', 'Ты носки надел теплые?', 'Did you put on your warm socks?', [(60, 'Ты носки надел теплые')], ''),
+    ('chef', 'Ты носки надел теплые?', 'Did you put on your warm socks?', [(60, 'Ты носки надел теплые')], ''),
     ('vika', 'Мне же не пять лет.', 'I am not five years old, mom.', [(62, 'Мне же не пять лет')], ''),
-    ('anya', 'Леда, ты ведешь себя как ребенок.', 'Lena, now you are the one acting like a child.', [(64, 'Леда, ты ведешь себя как ребенок')], ''),
+    ('chef', 'Леда, ты ведешь себя как ребенок.', 'Lena, now you are the one acting like a child.', [(64, 'Леда, ты ведешь себя как ребенок')], ''),
     ('vika', 'Как на работу?', 'What do you mean, heading to work?', [(68, 'Как на работу')], ''),
-    ('anya', 'А завтрак?', 'What about breakfast?', [(69, 'А завтрак')], ''),
+    ('chef', 'А завтрак?', 'What about breakfast?', [(69, 'А завтрак')], ''),
     ('vika', 'Как же аппетитно звучит.', 'That sounds so appetizing.', [(72, 'Как же аппетитно звучит')], ''),
-    ('anya', 'Это моя любимая пицца.', 'That is my favorite pizza.', [(73, 'Это моя любимая пицца')], ''),
+    ('chef', 'Это моя любимая пицца.', 'That is my favorite pizza.', [(73, 'Это моя любимая пицца')], ''),
     ('vika', 'Ну, конечно.', 'Well, of course.', [(74, 'Ну, конечно')], ''),
-    ('anya', 'Зато у нас будет еще полчаса.', 'At least we will have another half hour together.', [(75, 'Зато у нас будет еще полчаса')], ''),
+    ('chef', 'Зато у нас будет еще полчаса.', 'At least we will have another half hour together.', [(75, 'Зато у нас будет еще полчаса')], ''),
 ]
 
 OPENER = "Let's walk back through the scene line by line."
@@ -40,7 +40,7 @@ WALK = [
     (5, None, "'I am not five years old, mom.' Here the Russian phrasing highlights 'for me' before landing on 'years'."),
     (6, None, "'Lena, now you are the one acting like a child.' Chef Viktor anchors the line on 'ice', while 'child' completes the thought."),
     (7, None, "'What do you mean, heading to work?' Vika raises the pitch on 'work' to turn the phrase into a direct spoken question. Chef Viktor answers right away."),
-    (8, None, "'What about breakfast?' The grammar packs 'and' and 'breakfast' into a tight, idiomatic kitchen exchange."),
+    (8, None, "'What about breakfast?' In spoken Russian, the words stay in their normal statement order and Chef Barinov's rising voice at the end turns the line into a question."),
     (9, None, "'That sounds so appetizing.' The meaning hinges on 'how' working together with 'sounds' in spoken Russian."),
     (10, None, "'That is my favorite pizza.' Notice how Russian expresses 'this' and 'pizza' with crisp inflection rather than helper words. Vika answers right away."),
     (11, None, "'Well, of course.' Vika anchors the line on 'come on', while 'of course' completes the thought."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 4 of Episode 16, listen out for the exchange around a call from her son and ordering pizza — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('vika', 'Ну, конечно.')
+OUTRO = "That wraps up this scene as elena Pavlovna gets a phone call from her adult son Vasily and hides Barinov's presence just like he did with Lyova, before they order pizza for breakfast. See you next time!"
+CLOSING = ("vika", "До завтра!")

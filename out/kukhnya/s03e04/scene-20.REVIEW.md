@@ -13,7 +13,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Катя | Я тут твоего слоника нашла. | I found your little elephant here. | #288 00:23:00: тут твоего слоника нашла | adapted: adapted |
 | 2 | Шеф | Где? В ресторане был, да? Так и знал. | Where? It was in the restaurant, right? I knew it. | #289 00:23:03: Где? В ресторане был, да<br>#290 00:23:06: Так и знал | adapted: adapted |
 | 3 | Шеф | Спасибо тебе большое. Ты не представляешь, как мне дорога эта вещь. | Thank you so much. You can't imagine how dear this thing is to me. | #292 00:23:10: Спасибо тебе большое<br>#293 00:23:12: Ты не представляешь, как мне | adapted: adapted |
-| 4 | Катя | Да не за что, папа. Старайся больше не терять то, что тебе дорого. | Don't mention it, Dad. Try not to lose what is dear to you anymore. | #294 00:23:15: Старайся больше не терять то, что тебе дорого | adapted: adapted |
+| 4 | Катя | Папа, старайся больше не терять то, что тебе дорого. | Dad, try not to lose what is dear to you anymore. | #294 00:23:15: Старайся больше не терять то, что тебе дорого | adapted: adapted |
 | 5 | Аня | Порой мы долго и упорно пытаемся подобрать ключ, чтобы отпереть дверь. | Sometimes we try long and hard to find the key to unlock a door. | #295 00:23:28: Порой мы долго и упорно пытаемся подобрать ключ, чтобы отпереть дверь | verbatim |
 | 6 | Аня | Но в итоге понимаем, что в связке никогда не было нужного ключа. | But in the end we realize that the right key was never on the keyring. | #296 00:23:33: Но в итоге понимаем, что в связке никогда не было нужного ключа | verbatim |
 | 7 | Аня | То, о чём мы никогда не узнаем. | Something that we will never know about. | #298 00:23:41: То, о чем мы никогда не узнаем | verbatim |
@@ -28,12 +28,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I found your little elephant here.' The grammar packs 'I' and 'found' into a tight, idiomatic kitchen exchange.
 - 'Where? It was in the restaurant, right? I knew it.' The meaning hinges on 'where' working together with 'knew' in spoken Russian.
 - 'Thank you so much. You can't imagine how dear this thing is to me.' The negative particle sits right before the verb meaning 'imagine' to negate the statement.
-- 'Don't mention it, Dad. Try not to lose what is dear to you anymore.' In Russian, the idea of 'yes' flows naturally into 'dear' without extra filler words.
-- 'Sometimes we try long and hard to find the key to unlock a door.' Notice the reflexive suffix on the verb meaning 'to try', turning the action back on the subject.
+- 'Dad, try not to lose what is dear to you anymore.' In everyday Russian, 'Dad' flows straight into 'expensive' without extra linking words.
+- 'Sometimes we try long and hard to find the key to unlock a door.' Max pairs 'at times, sometimes' with 'door' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'But in the end we realize that the right key was never on the keyring.' Max brings out the contrast between 'but' and 'result' in a few short words.
 - 'Something that we will never know about.' In Russian, the idea of 'that' flows naturally into 'will find out' without extra filler words.
 - 'Although we understand that it is the door to the future.' Here the Russian phrasing highlights 'at least' before landing on 'future'.
-- 'To the future in which we would like to find ourselves.' Notice the reflexive suffix on the verb meaning 'to feel like', turning the action back on the subject.
+- 'To the future in which we would like to find ourselves.' Max pairs 'future, next' with 'to find oneself, end up' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'If you open the wrong door, someone else will open yours.' The meaning hinges on 'if' working together with 'another' in spoken Russian.
 - 'Viktoria, it seems to me...' Notice how Russian expresses 'to me' and 'it seems' with crisp inflection rather than helper words.
 - 'It seems that I love you.' The meaning hinges on 'it seems' working together with 'like' in spoken Russian.

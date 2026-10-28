@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Народ, на обед сегодня всеми любимые макароны по-флотски! | Folks, for lunch today is everyone's favorite navy-style pasta! | #209 00:14:19: Народ<br>#209 00:14:19: макароны | adapted: adapted |
+| 1 | Михаил | Народ, на обед сегодня всеми любимые макароны по-флотски! | Folks, for lunch today is everyone's favorite navy-style pasta! | #209 00:14:19: Народ<br>#209 00:14:19: макароны | adapted: adapted |
 | 2 | Михаил | Добрый день, скажите, вам у нас всё нравится? | Good afternoon, tell me, do you like everything at our place? | #210 00:14:23: Добрый день<br>#211 00:14:25: Вам все нравится | adapted: adapted |
-| 3 | Гость | Да, большое спасибо, здесь всё очень вкусно. | Yes, thank you very much, everything here is very tasty. | #212 00:14:26: Да | adapted: adapted |
+| 3 | Михаил | Да, большое спасибо, здесь всё очень вкусно. | Yes, thank you very much, everything here is very tasty. | #212 00:14:26: Да | adapted: adapted |
 | 4 | Михаил | Я хотел бы заранее извиниться за нашего шефа. | I would like to apologize in advance for our chef. | #212 00:14:26: Я хотел бы извиниться за нашего шефа | adapted: adapted |
 | 5 | Михаил | Он хороший повар, но совершенно болен футболом. | He is a good chef, but completely obsessed with football. | #213 00:14:31: Он хороший повар, но болен футболом | adapted: adapted |
 | 6 | Михаил | И он уверен, что вы знаете итоги игр. | And he is convinced that you know the outcomes of games. | #214 00:14:33: что вы знаете итоги каких-то игр | adapted: adapted |
 | 7 | Михаил | Вы ему просто любые результаты матчей скажите. | Just tell him any match results at random. | #215 00:14:38: любые результаты скажите | adapted: adapted |
 | 8 | Михаил | Он пару тысяч проиграет и сразу успокоится. | He will lose a couple thousand and immediately calm down. | #216 00:14:41: Он пару тысяч проиграет, то успокоится | adapted: adapted |
 | 9 | Михаил | А иначе он от вас сегодня точно не отстанет. | Otherwise he definitely will not leave you alone today. | #217 00:14:43: А иначе он не отстанет | adapted: adapted |
-| 10 | Гость | Большое спасибо за совет, буду иметь это в виду. | Thank you very much for the advice, I will keep that in mind. | #218 00:14:45: Спасибо, буду иметь в виду | adapted: adapted |
-| 11 | Аня | Для вас горячий французский суп буйабес от шеф-повара! | For you, hot French bouillabaisse soup from the head chef! | #219 00:14:49: от шеф-повара | adapted: adapted |
-| 12 | Аня | Кушайте на здоровье и приятного вам аппетита! | Eat to your health and enjoy your meal! | #220 00:14:52: аппетит | adapted: adapted |
+| 10 | Михаил | Большое спасибо за совет, буду иметь это в виду. | Thank you very much for the advice, I will keep that in mind. | #218 00:14:45: Спасибо, буду иметь в виду | adapted: adapted |
+| 11 | Михаил | Для вас горячий французский суп буйабес от шеф-повара! | For you, hot French bouillabaisse soup from the head chef! | #219 00:14:49: от шеф-повара | adapted: adapted |
+| 12 | Михаил | Кушайте на здоровье и приятного вам аппетита! | Eat to your health and enjoy your meal! | #220 00:14:52: аппетит | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

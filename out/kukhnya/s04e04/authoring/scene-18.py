@@ -1,14 +1,14 @@
-ID = "kukhnya-s04e04-scene-18"
-SHOW = "kukhnya"
+ID = 'kukhnya-s04e04-scene-18'
+SHOW = 'kukhnya'
 SEASON = 4
 EPISODE = 4
 SCENE = 18
-TITLE = 'Закрытая дверь и примирение  (The Locked Door and Reconciliation)'
+TITLE = "Закрытая дверь и примирение  (The Locked Door and Reconciliation)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'german': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'german': 'Герман'}
-SOURCE_NAME = "Кухня (Kukhnya) S4.04"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa", "german": "anja"}
+LABELS = {"vika": "Вика", "anya": "Макс", "german": "Герман"}
+SOURCE_NAME = 'Кухня (Kukhnya) S4.04'
 SOURCE_FILE = 'sources/kukhnya/s04/e04.ru.srt'
 
 INTRO = "Trapped together inside the walk-in cooler by Senya and Kostya, Vika accuses Max of staging the lock-in until Max kicks the door open, sparking a passionate reconciliation. Let's listen in Russian."
@@ -31,22 +31,20 @@ STORY = [
 OPENER = "Now let's walk through the Russian dialogue together."
 
 WALK = [
-    (0, None, "'Could you not think of anything better than this?' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
+    (0, None, "'Could you not think of anything better than this?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
     (1, None, "'I thought this was your clever plan.' Max addresses the listener with the informal singular pronoun, showing a close or familiar relationship."),
-    (2, None, "'Break the door down.' Vika uses natural conversational word order here to highlight the most important part of the reply."),
-    (3, None, "'I am not going to stay in here all night.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (4, None, "'If you need it broken, you break it.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately."),
-    (5, None, "'Wonderful. Whom did I marry?' Vika uses natural conversational word order here to highlight the most important part of the reply."),
-    (6, None, "'He cannot even break down a door.' Vika uses natural conversational word order here to highlight the most important part of the reply."),
-    (7, None, "'Alright, calm down now.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately."),
+    (2, None, "'Break the door down.' Vika pairs 'break' with 'door' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
+    (3, None, "'I am not going to stay in here all night.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
+    (4, None, "'If you need it broken, you break it.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form."),
+    (5, None, "'Wonderful. Whom did I marry?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question."),
+    (6, None, "'He cannot even break down a door.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
+    (7, None, "'Alright, calm down now.' Spoken Russian keeps this brief and expressive, built right around 'calm down' without extra helper words."),
     (8, None, "'Do you understand now that it is better not to make me angry?' Max uses the first-person pronoun in the case required by the Russian verb or preposition."),
-    (9, None, "'I understand. Now I will make you angry more often.' Vika keeps the sentence short and direct, relying on Russian case endings to show how the words connect."),
-    (10, None, "'Put the door back in place. Are you a man or not?' In spoken Russian, Vika omits unnecessary linking verbs so the key idea lands immediately."),
-    (11, None, "'Lev Semyonovich Solovyov.' German uses natural conversational word order here to highlight the most important part of the reply."),
+    (9, None, "'I understand. Now I will make you angry more often.' In everyday Russian, 'understood' flows straight into 'often' without extra linking words."),
+    (10, None, "'Put the door back in place. Are you a man or not?' In spoken Russian, the words stay in their normal statement order and Vika's rising voice at the end turns the line into a question."),
+    (11, None, "'Lev Semyonovich Solovyov.' Spoken Russian keeps this brief and expressive, built right around 'semyonovich' without extra helper words."),
 ]
 
 TRANSITION = "Let's hear the entire conversation one more time from start to finish."
-
-OUTRO = 'And that brings Episode Four of Season Four to a warm conclusion as Max kicks down the cooler door and reconciles with Vika. See you in the next episode.'
-CLOSING = ('anya', 'Да всё, успокойся.')
-CLOSING_TRANS = 'Alright, calm down now.'
+OUTRO = 'And that brings Episode Four of Season Four to a warm conclusion as Max kicks down the cooler door and reconciles with Vika. See you in the next episode. See you next time!'
+CLOSING = ("anya", "До встречи!")

@@ -1,22 +1,22 @@
 ID = 'kukhnya-s03e05-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 5
 SCENE = 19
-TITLE = 'Катастрофа на кухне  (Disaster in the Kitchen)'
+TITLE = "Катастрофа на кухне  (Disaster in the Kitchen)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'senya': 'Сеня', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.05"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "fedya": "anja", "senya": "angelina"}
+LABELS = {"fedya": "Федя", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.05'
 SOURCE_FILE = 'sources/kukhnya/s03/e05.ru.srt'
 
 INTRO = "Chef Barinov spent half the night trying to prepare molecular dishes himself. Meanwhile, Senya actually breaks a tooth on one of Barinov's rock-hard creations."
 
 STORY = [
-    ('anya', 'Только будьте аккуратней на кухне.', 'Just be more careful in the kitchen.', [(273, 'Только аккуратней')], 'adapted'),
-    ('anya', 'Я на это полночи потратил.', 'I spent half the night on this.', [(274, 'Я на это полночи потратил')], 'adapted'),
-    ('anya', 'И смотрите, ничего тут не трогать.', 'And mind you, do not touch anything here.', [(275, 'ничего')], 'adapted'),
+    ('fedya', 'Только будьте аккуратней на кухне.', 'Just be more careful in the kitchen.', [(273, 'Только аккуратней')], 'adapted'),
+    ('fedya', 'Я на это полночи потратил.', 'I spent half the night on this.', [(274, 'Я на это полночи потратил')], 'adapted'),
+    ('fedya', 'И смотрите, ничего тут не трогать.', 'And mind you, do not touch anything here.', [(275, 'ничего')], 'adapted'),
     ('senya', 'Кажется, я сейчас зуб сломал.', 'It seems I just broke a tooth.', [(277, 'зуб сломал')], 'adapted'),
     ('fedya', 'Слушай, придумай что-нибудь новое, уже надоело.', 'Listen, make up something new, we are tired of it already.', [(278, 'придумай что-нибудь новое, надоело')], 'adapted'),
     ('senya', 'Федя, я правда зуб сломал!', 'Fedya, I really broke a tooth!', [(280, 'Зуб сломал')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'With the molecular dishes ruined and the kitchen in total chaos, Chef Barinov realizes he cannot do this without Katya.'
-CLOSING = ('fedya', 'Ребята, крепко держите его!')
+OUTRO = 'With the molecular dishes ruined and the kitchen in total chaos, Chef Barinov realizes he cannot do this without Katya. Until next time!'
+CLOSING = ("fedya", "Пока!")

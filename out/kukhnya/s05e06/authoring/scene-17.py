@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e06-scene-17'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 6
 SCENE = 17
 TITLE = "Нагиев в баре и паника у двери Кати  (Nagiyev at the Bar and Panic at Katya's Door)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa", "nagiyev": "angelina"}
+LABELS = {"chef": "Шеф", "anya": "Макс", "nagiyev": "Нагиев"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.06'
 SOURCE_FILE = 'sources/kukhnya/s05/e06.ru.srt'
 
 INTRO = "Nagiyev assures Max that the baby is not his and invites him to the bar to celebrate calling off the wedding. Upstairs, Barinov and Eleonora break into Katya's locked room, spot scattered mints, and panic that she took pills."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Terrified for their daughter, Barinov and Eleonora rush Katya to the hospital in an ambulance. See you in the next scene.'
-CLOSING = ('chef', 'Быстрее вызывай врача!')
+OUTRO = 'Terrified for their daughter, Barinov and Eleonora rush Katya to the hospital in an ambulance. Until next time!'
+CLOSING = ("chef", "Увидимся!")

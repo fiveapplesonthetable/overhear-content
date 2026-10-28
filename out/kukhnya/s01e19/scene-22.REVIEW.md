@@ -1,39 +1,39 @@
-# kukhnya-s01e19-scene-22: review sheet
+# Здесь и сейчас  (Here and Now) — `kukhnya-s01e19-scene-22`
 
-Title: Здесь и сейчас  (Here and Now)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.19
-Cues.
+**Source:** Кухня (Kukhnya) S1.19 · `sources/kukhnya/s01/e19.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `vika` | angelina | Вика |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> Focused on here and now, Max concludes that it is important to cherish the present. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Знаешь, что главное? | Do you know what is the main thing? | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | adapted: adapted |
-| 2 | Вика | Что? | What? | new | new: new |
-| 3 | Макс | Главное — ценить. | The main thing is to cherish. | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | adapted: adapted |
-| 4 | Вика | Ценить что? | Cherish what? | new | new: new |
-| 5 | Макс | То, что у нас есть. | What we have. | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | adapted: adapted |
-| 6 | Вика | Где? | Where? | new | new: new |
-| 7 | Макс | Здесь. | Here. | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | adapted: adapted |
-| 8 | Вика | И когда? | And when? | new | new: new |
-| 9 | Макс | И сейчас. | And now. | #383 00:24:02: Главное — ценить то, что у нас есть здесь и сейчас. | adapted: adapted |
-| 10 | Вика | Здесь и сейчас. | Here and now. | new | new: new |
-| 11 | Макс | Точно. | Exactly. | new | new: new |
-| 12 | Вика | Хорошо. | Good. | new | new: new |
+| 0 | Макс | Знаешь, что главное? | Do you know what is the main thing? | #383 "Главное — ценить то, что у нас есть здесь и сейчас." |  |
+| 1 | Вика | Что? | What? | *(added)* |  |
+| 2 | Макс | Главное — ценить. | The main thing is to cherish. | #383 "Главное — ценить то, что у нас есть здесь и сейчас." |  |
+| 3 | Вика | Ценить что? | Cherish what? | *(added)* |  |
+| 4 | Макс | То, что у нас есть. | What we have. | #383 "Главное — ценить то, что у нас есть здесь и сейчас." |  |
+| 5 | Вика | Где? | Where? | *(added)* |  |
+| 6 | Макс | Здесь. | Here. | #383 "Главное — ценить то, что у нас есть здесь и сейчас." |  |
+| 7 | Вика | И когда? | And when? | *(added)* |  |
+| 8 | Макс | И сейчас. | And now. | #383 "Главное — ценить то, что у нас есть здесь и сейчас." |  |
+| 9 | Вика | Здесь и сейчас. | Here and now. | *(added)* |  |
+| 10 | Макс | Точно. | Exactly. | *(added)* |  |
+| 11 | Вика | Хорошо. | Good. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Do you know what is the main thing?' The question word for 'what' comes right at the start, followed directly by 'important'.
-- 'What?' Vika asks this with a single word meaning 'what', using rising intonation to turn it into a quick question.
-- 'The main thing is to cherish.' The phrasing opens with 'important' before bringing in 'to appreciate' to make the point clear.
-- 'Cherish what?' Vika delivers a punchy one-word reaction built around the Russian word meaning 'to appreciate'.
-- 'What we have.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have' around the word meaning 'there is'.
-- 'Where?' Vika asks this with a single word meaning 'where', using rising intonation to turn it into a quick question.
-- 'Here.' Max delivers a punchy one-word reaction built around the Russian word meaning 'here'.
-- 'And when?' The question opens with the interrogative word for 'when' and builds toward 'when'.
-- 'And now.' Max delivers a punchy one-word reaction built around the Russian word meaning 'now'.
-- 'Here and now.' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'now', combining 'here' with 'now'.
-- 'Exactly.' Max delivers a punchy one-word reaction built around the Russian word meaning 'definitely'.
-- 'Good.' A crisp, everyday conversational reply meaning 'good' that you will hear constantly in Russian dialogue.
+> Max concludes that it is important to cherish the present. Next time you watch the episode, listen for the Russian expressions for 'to know' and 'main' — you will catch every word right away. See you next time!
+
+**Вика:** Пока!

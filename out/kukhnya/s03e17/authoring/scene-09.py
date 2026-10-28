@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e17-scene-09'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 17
 SCENE = 9
-TITLE = 'Электрик из Воронежа  (The Electrician from Voronezh)'
+TITLE = "Электрик из Воронежа  (The Electrician from Voronezh)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.17"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "katya": "angelina"}
+LABELS = {"anya": "Макс", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.17'
 SOURCE_FILE = 'sources/kukhnya/s03/e17.ru.srt'
 
 INTRO = 'In the corridor by the electrical panel, Katya catches Max hiding. To cover up, Max claims he studied electrical work in Voronezh and has to inspect the fuse box right in front of her.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Emboldened after pulling one fuse without getting shocked, Max reaches deeper into the electrical box while Katya watches.'
-CLOSING = ('anya', 'Электричество надо срочно проверить.')
+OUTRO = 'Emboldened after pulling one fuse without getting shocked, Max reaches deeper into the electrical box while Katya watches. Until next time!'
+CLOSING = ("anya", "Увидимся!")

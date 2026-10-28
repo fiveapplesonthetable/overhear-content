@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Max, why are you keeping silent there?' Here the Russian phrasing highlights 'Max' before landing on 'keep silent'.
-- 'After all, you did not spend the night at home today.' In Russian, the idea of 'you' flows naturally into 'at home' without extra filler words.
+- 'After all, you did not spend the night at home today.' Kostya pairs 'tonight' with 'at home' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'I see you managed after all today.' Here the Russian phrasing highlights 'see' before landing on 'succeeded'.
 - 'And Vika did not interfere this time.' Notice how Russian expresses 'and' and 'time' with crisp inflection rather than helper words.
 - 'Hello, dear Kostya.' The meaning hinges on 'hello' working together with 'Kostya' in spoken Russian.

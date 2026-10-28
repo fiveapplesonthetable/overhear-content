@@ -10,9 +10,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Минуточку, прошу внимания у всех. | One moment, I ask for everyone's attention. | #48 00:04:31: Минуточку. Внимание. | adapted: adapted |
-| 2 | Аня | Все вы хорошо знаете Екатерину. | All of you know Ekaterina well. | #49 00:04:33: Все вы знаете Екатерину. | adapted: adapted |
-| 3 | Аня | Сегодня она снова в нашей команде. | Today she is on our team again. | #50 00:04:35: С сегодняшнего дня она | adapted: adapted |
+| 1 | Федя | Минуточку, прошу внимания у всех. | One moment, I ask for everyone's attention. | #48 00:04:31: Минуточку. Внимание. | adapted: adapted |
+| 2 | Федя | Все вы хорошо знаете Екатерину. | All of you know Ekaterina well. | #49 00:04:33: Все вы знаете Екатерину. | adapted: adapted |
+| 3 | Федя | Сегодня она снова в нашей команде. | Today she is on our team again. | #50 00:04:35: С сегодняшнего дня она | adapted: adapted |
 | 4 | Федя | Ребята, смотрите, кто к нам вернулся! | Guys, look who has returned to us! | #51 00:04:38: Ребята, Будулай вернулся. | adapted: adapted |
 | 5 | Катя | Привет всем, я тоже очень рада. | Hello everyone, I am very glad too. | #51 00:04:38: Ребята, Будулай вернулся. | adapted: adapted |
 | 6 | Катя | Луи, уйди от меня, противный! | Louis, get away from me, you naughty man! | #52 00:04:45: Уйди от меня против. | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One moment, I ask for everyone's attention.' German calls the kitchen to order using an accusative diminutive noun and a genitive request.
-- 'All of you know Ekaterina well.' The second-person plural verb takes the animate feminine accusative proper noun.
-- 'Today she is on our team again.' A prepositional phrase expresses membership on the restaurant team.
-- 'Guys, look who has returned to us!' Fedya greets Katya enthusiastically with a plural imperative and a reflexive past verb.
-- 'Hello everyone, I am very glad too.' Katya responds with a dative plural pronoun and a feminine short predicate adjective.
-- 'Louis, get away from me, you naughty man!' Katya jokingly pushes Louis back using a singular imperative and a genitive pronoun.
-- 'Katya, you are simply a beauty today.' Fedya compliments her with a nominative predicate noun and an emphatic particle.
-- 'And who is this new guy?' Katya points toward Denis at the piano using a masculine demonstrative determiner.
-- 'And this one here is our newcomer.' Fedya uses a substantivized masculine adjective meaning newcomer.
+- 'One moment, I ask for everyone's attention.' Notice how Russian puts 'a minute' and 'attention' together in a short, direct phrase where word endings show how the ideas connect.
+- 'All of you know Ekaterina well.' Here German anchors the thought on 'good, well, all right' and finishes on 'ekaterina', keeping the spoken rhythm brisk and natural.
+- 'Today she is on our team again.' In everyday Russian, 'today' flows straight into 'team' without extra linking words.
+- 'Guys, look who has returned to us!' Fedya pairs 'guys, team' with 'returned' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Hello everyone, I am very glad too.' Notice how Russian puts 'also, too' and 'glad' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Louis, get away from me, you naughty man!' Here Katya anchors the thought on 'to leave, to go away' and finishes on 'man', keeping the spoken rhythm brisk and natural.
+- 'Katya, you are simply a beauty today.' In everyday Russian, 'today' flows straight into 'beauty, beautiful woman' without extra linking words.
+- 'And who is this new guy?' Katya pairs 'new' with 'guy' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'And this one here is our newcomer.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'But he still cooks very poorly.' The third-person singular verb is modified by two adverbs of time and manner.
-- 'He is on familiar terms with music.' Russian uses the informal pronoun in a prepositional phrase to mean being skilled at something.
+- 'He is on familiar terms with music.' In everyday Russian, 'music' flows straight into 'for a long time; long ago' without extra linking words.
 - 'But with food he is still a stranger.' Contrasting the formal pronoun with the informal one creates a witty Russian idiom.

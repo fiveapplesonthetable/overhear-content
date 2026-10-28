@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e07-scene-16"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e07-scene-16'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 7
 SCENE = 16
-TITLE = 'Дружеское застолье и поездка в караоке  (A Friendly Feast and a Trip to Karaoke)'
+TITLE = "Дружеское застолье и поездка в караоке  (A Friendly Feast and a Trip to Karaoke)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.07"
-SOURCE_FILE = "sources/kukhnya/s02/e07.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nastya": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "nastya": "Настя", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.07'
+SOURCE_FILE = 'sources/kukhnya/s02/e07.ru.srt'
 
 INTRO = 'When Nastya returns home from her shift that evening, she is shocked to find Max, Kostya, and Rodion Sergeyevich toasting each other at the kitchen table. Having eaten the entire dinner together, the three men cheerfully announce that they are now best friends and are heading out to a karaoke bar.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 16 of Episode 7, listen out for the exchange around a friendly feast and a trip to karaoke — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('nastya', 'Едем, душа роман, спим.')
+OUTRO = 'That wraps up this scene as nastya comes home from work to find that Max, Kostya, and Rodion drank and ate all the dinner in the apartment and are heading out together to sing karaoke. See you next time!'
+CLOSING = ("nastya", "До свидания!")

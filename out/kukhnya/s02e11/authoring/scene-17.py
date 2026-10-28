@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e11-scene-17"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e11-scene-17'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 11
 SCENE = 17
-TITLE = 'Примирение за чаем  (Making Peace over Tea)'
+TITLE = "Примирение за чаем  (Making Peace over Tea)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.11"
-SOURCE_FILE = "sources/kukhnya/s02/e11.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.11'
+SOURCE_FILE = 'sources/kukhnya/s02/e11.ru.srt'
 
 INTRO = "That night, Max and Kostya walk into the apartment sporting bruises and a sling, telling Sasha and Nastya that they got into a fistfight because of the girls' endless bickering. Overcome with guilt, Nastya and Sasha immediately apologize to each other and go make tea together."
 
@@ -43,11 +43,10 @@ WALK = [
     (8, None, "'Everything is fine now anyway.' Max brings out the contrast between 'all' and 'already' in a few short words. Kostya answers right away."),
     (9, None, "'Let us go have some tea.' The meaning hinges on 'come on' working together with 'to drink' in spoken Russian."),
     (10, None, "'Yes, let us do that.' Notice how Russian expresses 'yes' and 'let's' with crisp inflection rather than helper words."),
-    (11, None, "'You two get changed while we get everything ready.' Notice the reflexive suffix on the verb meaning 'to prepare', turning the action back on the subject. Max answers right away."),
+    (11, None, "'You two get changed while we get everything ready.' Kostya pairs 'to take off one's coat; to undress' with 'to prepare, get ready' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (12, None, "'We have something saved specially for an occasion like this.' In Russian, the idea of 'on purpose' flows naturally into 'something' without extra filler words."),
 ]
 
 TRANSITION = "Alright, let's listen to all those lines again from the top."
-
-OUTRO = 'When you watch Scene 17 of Episode 11, listen out for the exchange around making peace over tea — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('kostya', 'Вы раздевайтесь, а мы приготовимся.')
+OUTRO = 'That wraps up this scene as when Max and Kostya return home bruised and claiming they fought over the girls, Nastya and Sasha feel guilty and immediately make peace over tea. Until next time!'
+CLOSING = ("kostya", "До встречи!")

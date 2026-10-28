@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e09-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 9
 SCENE = 4
-TITLE = 'Спор о костюме  (The Bet About the Suit)'
+TITLE = "Спор о костюме  (The Bet About the Suit)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja'}
-LABELS = {'anya': 'Шеф', 'elena': 'Елена'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
+LABELS = {"chef": "Шеф", "elena": "Елена"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.09'
 SOURCE_FILE = 'sources/kukhnya/s05/e09.ru.srt'
 
 INTRO = 'At home, Viktor squeezes into his old jacket and winces when Elena remarks how slender he used to be ten years ago. Stung by the comment, Chef Barinov boasts that he can slim down anytime and promises to wear the suit to their restaurant date next week.'
 
 STORY = [
-    ('anya', 'Ну вот, как-то так.', 'Well there, something like that.', [(48, 'Ну вот. Как-то так')], 'adapted'),
+    ('chef', 'Ну вот, как-то так.', 'Well there, something like that.', [(48, 'Ну вот. Как-то так')], 'adapted'),
     ('elena', 'Слушай, какой ты был стройный!', 'Listen, how slim you used to be!', [(49, 'Слушай, какой что был стройный')], 'adapted'),
-    ('anya', 'Ты опять намекаешь, что я толстый?', 'Are you hinting again that I am fat?', [(50, 'Ты опять намекаешь, что я толстый')], 'adapted'),
+    ('chef', 'Ты опять намекаешь, что я толстый?', 'Are you hinting again that I am fat?', [(50, 'Ты опять намекаешь, что я толстый')], 'adapted'),
     ('elena', 'Нет, я просто говорю, что был стройный.', 'No, I am just saying that you were slim.', [(51, 'Нет. Я просто говорю, что был стройный')], 'adapted'),
-    ('anya', 'Да я могу похудеть в любой момент!', 'I can lose weight at any moment!', [(52, 'Да я могу похудеть в любой момент')], 'adapted'),
+    ('chef', 'Да я могу похудеть в любой момент!', 'I can lose weight at any moment!', [(52, 'Да я могу похудеть в любой момент')], 'adapted'),
     ('elena', 'Значит так.', 'So here is the deal.', [(54, 'Значит так')], 'adapted'),
     ('elena', 'Через неделю ты поправишься.', 'In a week you will recover.', [(55, 'Через неделю, когда ты поправишься')], 'adapted'),
     ('elena', 'У нас свидание в ресторане.', 'We have a date at the restaurant.', [(55, 'у нас свидание в ресторане')], 'adapted'),
-    ('anya', 'И я буду в этом костюме.', 'And I will be in this suit.', [(56, 'И я буду в этом костюме')], 'adapted'),
-    ('anya', 'И он мне будет великоват!', 'And it will be a bit too big on me!', [(57, 'И он мне будет великоват')], 'adapted'),
+    ('chef', 'И я буду в этом костюме.', 'And I will be in this suit.', [(56, 'И я буду в этом костюме')], 'adapted'),
+    ('chef', 'И он мне будет великоват!', 'And it will be a bit too big on me!', [(57, 'И он мне будет великоват')], 'adapted'),
     ('elena', 'Посмотрим!', 'We will see!', [(53, 'Ой-ой-ой-ой')], 'adapted'),
-    ('anya', 'Точно тебе говорю!', 'I am telling you for sure!', [(47, 'Так')], 'adapted'),
+    ('chef', 'Точно тебе говорю!', 'I am telling you for sure!', [(47, 'Так')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That finishes the scene with Viktor and Elena. Notice the adjective for slim and the short-form adjective meaning a bit too big as Viktor makes his bold promise. See you in the next scene.'
-CLOSING = ('anya', 'Я могу похудеть!')
+OUTRO = 'That finishes the scene with Viktor and Elena. Notice the adjective for slim and the short-form adjective meaning a bit too big as Viktor makes his bold promise. See you next time!'
+CLOSING = ("chef", "Хорошего дня!")

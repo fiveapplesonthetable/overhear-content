@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Вы меня звали? | Did you call for me? | #218 00:14:05: Вы меня звали | adapted: adapted |
-| 2 | Аня | О чём вы говорили с Катей? | What did you talk about with Katya? | #219 00:14:07: О чем вы говорили с Катей | adapted: adapted |
-| 3 | Элеонора | Она всё знает о нас. | She knows everything about us. | #220 00:14:10: Она все знает о нас | adapted: adapted |
-| 4 | Аня | Зачем ты ей всё рассказала? | Why did you tell her everything? | #222 00:14:13: Зачем ты ей все рассказала | adapted: adapted |
+| 1 | Шеф | Вы меня звали? | Did you call for me? | #218 00:14:05: Вы меня звали | adapted: adapted |
+| 2 | Шеф | О чём вы говорили с Катей? | What did you talk about with Katya? | #219 00:14:07: О чем вы говорили с Катей | adapted: adapted |
+| 3 | Елена | Она всё знает о нас. | She knows everything about us. | #220 00:14:10: Она все знает о нас | adapted: adapted |
+| 4 | Шеф | Зачем ты ей всё рассказала? | Why did you tell her everything? | #222 00:14:13: Зачем ты ей все рассказала | adapted: adapted |
 | 5 | Елена | Витя, в ресторане всё в порядке? | Vitya, is everything alright in the restaurant? | #228 00:14:39: Витя<br>#229 00:14:43: В ресторане все в порядке | adapted: adapted |
 | 6 | Елена | Я всё-таки решила с тобой поговорить. | I decided to talk with you after all. | #230 00:14:45: я все-таки решила с тобой поговорить | adapted: adapted |
 | 7 | Елена | Твоя вторая жена в зале. | Your second wife is in the dining room. | #234 00:14:56: Твоя вторая жена в зале | adapted: adapted |
 | 8 | Елена | Познакомишь? | Will you introduce us? | #235 00:15:00: Познакомишь | adapted: adapted |
-| 9 | Аня | Не стоит. | It is not worth it. | #235 00:15:00: Не стоит | adapted: adapted |
-| 10 | Аня | Она может воспринять это как оскорбление. | She might take this as an insult. | #236 00:15:01: Она это может воспринять как личное оскорбление | adapted: adapted |
+| 9 | Шеф | Не стоит. | It is not worth it. | #235 00:15:00: Не стоит | adapted: adapted |
+| 10 | Шеф | Она может воспринять это как оскорбление. | She might take this as an insult. | #236 00:15:01: Она это может воспринять как личное оскорбление | adapted: adapted |
 | 11 | Елена | Познакомь, а то мне придётся Катю просить. | Introduce us, or else I will have to ask Katya. | #239 00:15:09: Познакомь. А то мне придется Катю просить | adapted: adapted |
-| 12 | Аня | Ты побудь здесь, я сейчас с ней поговорю. | You stay here, I will go talk to her right now. | #242 00:15:19: Ты побудь здесь<br>#243 00:15:22: Я сейчас с ней поговорю | adapted: adapted |
+| 12 | Шеф | Ты побудь здесь, я сейчас с ней поговорю. | You stay here, I will go talk to her right now. | #242 00:15:19: Ты побудь здесь<br>#243 00:15:22: Я сейчас с ней поговорю | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

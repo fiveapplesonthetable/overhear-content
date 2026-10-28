@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e06-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 6
 SCENE = 7
 TITLE = "Удостоверение инспектора  (The Inspector's ID)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'ainura': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'ainura': 'Айнура', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "ainura": "angelina", "chef": "anja"}
+LABELS = {"ainura": "Айнура", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.06'
 SOURCE_FILE = 'sources/kukhnya/s06/e06.ru.srt'
 
 INTRO = "In the kitchen, Ainura brings Chef Barinov a foreign card found in Olivier's wine-stained jacket, while upstairs Eleonora stages a dramatic medical emergency for Katya."
@@ -17,15 +17,15 @@ STORY = [
     ('ainura', 'Шеф, ты же по-французски хорошо говоришь.', 'Chef, you speak French well after all.', [(105, 'ты же по-нерусски хорошо говоришь')], 'adapted'),
     ('ainura', 'Вот, чуть вместе с пиджаком не почистили.', 'Here, we almost sent this to the cleaners with the jacket.', [(106, 'Вот, чуть с пиджаком не почистили')], 'adapted'),
     ('ainura', 'Прочитай, может, это шпион какой-то?', 'Read it, maybe he is some kind of spy?', [(108, 'Почитай, может, шпион какой-то')], 'adapted'),
-    ('anya', 'Оливье Дюбуа — это инспектор Мишлен!', 'Olivier Dubois is a Michelin inspector!', [(109, 'инспектор Мишлен')], 'adapted'),
+    ('chef', 'Оливье Дюбуа — это инспектор Мишлен!', 'Olivier Dubois is a Michelin inspector!', [(109, 'инспектор Мишлен')], 'adapted'),
     ('ainura', 'Значит, он правда иностранный шпион?', 'So he really is a foreign spy?', [(110, 'Шпион')], 'adapted'),
-    ('anya', 'Нет, Айнура, это намного хуже!', 'No, Ainura, this is much worse!', [(111, 'Хуже')], 'adapted'),
+    ('chef', 'Нет, Айнура, это намного хуже!', 'No, Ainura, this is much worse!', [(111, 'Хуже')], 'adapted'),
     ('ainura', 'Какой же будем ставить диагноз?', 'What diagnosis are we going to give?', [(113, 'Какой будем ставить диагноз')], 'adapted'),
-    ('anya', 'Я за это вам деньги и плачу.', 'That is what I am paying you money for.', [(114, 'Я за это и плачу')], 'adapted'),
-    ('katya', 'Мама, здравствуй, что с тобой случилось?', 'Mom, hello, what happened to you?', [(115, 'Мама'), (117, 'Что случилось')], 'adapted'),
+    ('chef', 'Я за это вам деньги и плачу.', 'That is what I am paying you money for.', [(114, 'Я за это и плачу')], 'adapted'),
+    ('ainura', 'Мама, здравствуй, что с тобой случилось?', 'Mom, hello, what happened to you?', [(115, 'Мама'), (117, 'Что случилось')], 'adapted'),
     ('ainura', 'Доктор, что сейчас с моей мамой?', 'Doctor, what is wrong with my mother right now?', [(118, 'Доктор')], 'adapted'),
-    ('anya', 'У неё сегодня сильный скачок давления.', 'She had a severe blood pressure spike today.', [(118, 'Гипертонический криз')], 'adapted'),
-    ('katya', 'И что теперь, нужна больница?', 'And what now, does she need a hospital?', [(119, 'И что? Больница')], 'adapted'),
+    ('chef', 'У неё сегодня сильный скачок давления.', 'She had a severe blood pressure spike today.', [(118, 'Гипертонический криз')], 'adapted'),
+    ('ainura', 'И что теперь, нужна больница?', 'And what now, does she need a hospital?', [(119, 'И что? Больница')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Realizing that Katya's French boyfriend is actually a secret Michelin inspector changes everything for Chef Barinov in an instant. See you in the next scene."
-CLOSING = ('anya', 'Надо срочно бежать к Элеоноре!')
+OUTRO = "Realizing that Katya's French boyfriend is actually a secret Michelin inspector changes everything for Chef Barinov in an instant. Until next time!"
+CLOSING = ("chef", "Увидимся!")

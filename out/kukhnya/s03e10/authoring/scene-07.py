@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e10-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 10
 SCENE = 7
 TITLE = "Хитрость Кати  (Katya's Trick)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'katya': 'angelina'}
-LABELS = {'anya': 'Макс', 'lyova': 'Лёва', 'katya': 'Катя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.10"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "anya": "alisa"}
+LABELS = {"katya": "Катя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.10'
 SOURCE_FILE = 'sources/kukhnya/s03/e10.ru.srt'
 
 INTRO = 'Max cheers Lyova up by promising to set up the coffee date with Katya and send Lyova in his place. However, when Max asks Katya where they are meeting, she reveals the real reason she invited him.'
@@ -18,7 +18,7 @@ STORY = [
     ('anya', 'Я приглашаю её вечером на свидание.', 'I am inviting her out on a date tonight.', [(102, 'Я приглашаю её на свидание')], 'adapted'),
     ('anya', 'А на встречу идёшь именно ты.', 'And you are the one who goes to the meeting.', [(103, 'А идёшь ты')], 'adapted'),
     ('anya', 'Дальше действуешь сам, выше нос!', 'From there you act on your own, chin up!', [(103, 'Дальше сам'), (104, 'Выше нос')], 'adapted'),
-    ('lyova', 'Хорошо, Макс, мы с тобой договорились.', 'Alright, Max, we have a deal.', [(104, 'Договорились?')], 'adapted'),
+    ('katya', 'Хорошо, Макс, мы с тобой договорились.', 'Alright, Max, we have a deal.', [(104, 'Договорились?')], 'adapted'),
     ('anya', 'Ну что, куда пойдём кофе пить?', 'So, where shall we go to drink coffee?', [(106, 'Ну что? Куда пойдём кофе пить')], 'adapted'),
     ('katya', 'Максим, никуда мы с тобой не пойдём.', 'Maxim, you and I are not going anywhere.', [(107, 'никуда мы не пойдём')], 'adapted'),
     ('anya', 'В смысле никуда не пойдём?', 'What do you mean we are not going anywhere?', [(108, 'В смысле?')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Katya was only using Max as a shield to get rid of Lyova—and Max's own ego takes a hit when she laughs at how easily he believed her."
-CLOSING = ('katya', 'Никуда мы с тобой не пойдём.')
+OUTRO = "Katya was only using Max as a shield to get rid of Lyova—and Max's own ego takes a hit when she laughs at how easily he believed her. Until next time!"
+CLOSING = ("katya", "До встречи!")

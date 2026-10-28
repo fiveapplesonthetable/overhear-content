@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Есть много способов отлично начать день. | There are many ways to start the day great. | #1 00:00:20: Есть много способов отлично начать день | adapted: adapted |
-| 2 | Аня | Можно заняться спортом. | One can do sports. | #2 00:00:23: Можно заняться спортом | adapted: adapted |
-| 3 | Аня | Пойдём лучше в шахматы сыграем. | Let us go play a game of chess instead. | #4 00:00:29: пойдем лучше в шахматы сыграем | adapted: adapted |
-| 4 | Михаил | Только в лобби, мне надо гостей встретить. | Only in the lobby, I need to greet guests. | #5 00:00:31: Только в лобби. Мне надо гости | adapted: adapted |
-| 5 | Аня | Пойдём, унижу тебя публично. | Let us go, I will humiliate you in public. | #6 00:00:33: Пойдем. Унижу тебя публично | adapted: adapted |
-| 6 | Михаил | Белые начинают выигрывать! | White starts winning! | #7 00:00:36: Белые начинают выигрывать | adapted: adapted |
-| 7 | Аня | А можно просто насладиться минутой тишины. | Or one can simply enjoy a minute of silence. | #10 00:00:53: А можно просто насладиться минутой<br>#10 00:00:53: тишины | adapted: adapted |
-| 8 | Михаил | Здравствуй, моя родная! | Hello, my dear! | #12 00:01:06: Здравствуй, моя родная | adapted: adapted |
+| 1 | Шеф | Есть много способов отлично начать день. | There are many ways to start the day great. | #1 00:00:20: Есть много способов отлично начать день | adapted: adapted |
+| 2 | Шеф | Можно заняться спортом. | One can do sports. | #2 00:00:23: Можно заняться спортом | adapted: adapted |
+| 3 | Шеф | Пойдём лучше в шахматы сыграем. | Let us go play a game of chess instead. | #4 00:00:29: пойдем лучше в шахматы сыграем | adapted: adapted |
+| 4 | Шеф | Только в лобби, мне надо гостей встретить. | Only in the lobby, I need to greet guests. | #5 00:00:31: Только в лобби. Мне надо гости | adapted: adapted |
+| 5 | Шеф | Пойдём, унижу тебя публично. | Let us go, I will humiliate you in public. | #6 00:00:33: Пойдем. Унижу тебя публично | adapted: adapted |
+| 6 | Шеф | Белые начинают выигрывать! | White starts winning! | #7 00:00:36: Белые начинают выигрывать | adapted: adapted |
+| 7 | Шеф | А можно просто насладиться минутой тишины. | Or one can simply enjoy a minute of silence. | #10 00:00:53: А можно просто насладиться минутой<br>#10 00:00:53: тишины | adapted: adapted |
+| 8 | Шеф | Здравствуй, моя родная! | Hello, my dear! | #12 00:01:06: Здравствуй, моя родная | adapted: adapted |
 | 9 | Вика | Здравствуйте! | Hello! | #13 00:01:08: Здравствуйте | adapted: adapted |
-| 10 | Михаил | Здравствуй, Викуля! А внучок где? | Hello, Vikulya! And where is our grandson? | #13 00:01:08: Здравствуй, Викуля<br>#14 00:01:10: внучок-то где | adapted: adapted |
-| 11 | Михаил | Наверное, на работу уже ускакал? | He probably dashed off to work already? | #15 00:01:12: наверное, на работу уже ускакал | adapted: adapted |
+| 10 | Шеф | Здравствуй, Викуля! А внучок где? | Hello, Vikulya! And where is our grandson? | #13 00:01:08: Здравствуй, Викуля<br>#14 00:01:10: внучок-то где | adapted: adapted |
+| 11 | Шеф | Наверное, на работу уже ускакал? | He probably dashed off to work already? | #15 00:01:12: наверное, на работу уже ускакал | adapted: adapted |
 | 12 | Вика | Проходите, пожалуйста. | Come in, please. | #13 00:01:08: Здравствуйте | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

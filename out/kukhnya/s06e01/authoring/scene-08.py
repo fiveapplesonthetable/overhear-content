@@ -1,21 +1,21 @@
 ID = 'kukhnya-s06e01-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 1
 SCENE = 8
-TITLE = 'Хорошая новость для Никиты  (Good News for Nikita)'
+TITLE = "Хорошая новость для Никиты  (Good News for Nikita)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'angelina', 'nikita': 'anja'}
-LABELS = {'anya': 'Шеф', 'nastya': 'Настя', 'nikita': 'Никита'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "nikita": "anja"}
+LABELS = {"nastya": "Настя", "nikita": "Никита"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.01'
 SOURCE_FILE = 'sources/kukhnya/s06/e01.ru.srt'
 
 INTRO = 'After Barinov begs Louis to bake the family wedding cookies properly, Nastya congratulates newly promoted director Nikita and stops him from quitting by revealing what Katya just told her mother.'
 
 STORY = [
-    ('anya', 'Ты готовь печенье по этому рецепту.', 'You prepare the cookies from this recipe.', [(129, 'Ты готовь печенье по этому рецепту')], 'exact'),
-    ('anya', 'Я тебя прошу, очень постарайся.', 'I beg you, try very hard.', [(130, 'Я тебя прошу, очень постарайся')], 'exact'),
+    ('nikita', 'Ты готовь печенье по этому рецепту.', 'You prepare the cookies from this recipe.', [(129, 'Ты готовь печенье по этому рецепту')], 'exact'),
+    ('nikita', 'Я тебя прошу, очень постарайся.', 'I beg you, try very hard.', [(130, 'Я тебя прошу, очень постарайся')], 'exact'),
     ('nikita', 'А почему так дорого?', 'And why is it so expensive?', [(135, 'так дорого')], 'adapted'),
     ('nastya', 'Шесть коробок с лепестками.', 'Six boxes of flower petals.', [(136, 'Шесть коробок с лепестками')], 'adapted'),
     ('nastya', 'Каждый цветок разбирали.', 'They picked apart every flower.', [(139, 'Каждый цветок')], 'adapted'),
@@ -31,7 +31,7 @@ STORY = [
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
 
 WALK = [
-    (0, None, "'You prepare the cookies from this recipe.' In Russian, the idea of 'you' flows naturally into 'recipe' without extra filler words."),
+    (0, None, "'You prepare the cookies from this recipe.' Chef Barinov pairs 'prepare' with 'recipe' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (1, None, "'I beg you, try very hard.' Chef Barinov addresses the listener with the informal singular 'you' alongside 'try'. Nikita answers right away."),
     (2, None, "'And why is it so expensive?' Nikita anchors the line on 'and', while 'expensive' completes the thought."),
     (3, None, "'Six boxes of flower petals.' Here the Russian phrasing highlights 'six' before landing on 'petals'."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Encouraged by Nastya's revelation, Nikita decides to stay and prove himself as the new restaurant director. See you in the next scene."
-CLOSING = ('nastya', 'Да, это правда!')
+OUTRO = "Encouraged by Nastya's revelation, Nikita decides to stay and prove himself as the new restaurant director. See you next time!"
+CLOSING = ("nastya", "Хорошего дня!")

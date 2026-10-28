@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Lavrov, and what is going on here right now?' German confronts his sous-chef outside the back door.
-- 'We came out to do some workplace gymnastics!' The prefixed perfective infinitive means spending a short time exercising.
+- 'We came out to do some workplace gymnastics!' Max pairs 'got out' with 'gymnastics' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Guys, let's quickly do bends to the right and left!' Directional adverbs guide the baffled cooks.
 - 'They asked for gymnastics, and instead arranged smoke breaks.' Contrastive conjunction 'and/whereas' highlights the deception.
-- 'And what was the demonstration by my office about?' The dative phrase 'on what occasion' asks the reason for the protest.
+- 'And what was the demonstration by my office about?' In spoken Russian, the words stay in their normal statement order and German's rising voice at the end turns the line into a question.
 - 'Who said that I want to cut your salary?' German realizes someone spread a false rumor in his kitchen.
-- 'German Mikhailovich, I will explain everything to you right now.' Max scrambles with a perfective future verb of explaining.
-- 'Lavrov, you deceived our entire staff.' Perfective past verb 'deceived' takes the masculine collective noun for staff.
+- 'German Mikhailovich, I will explain everything to you right now.' Notice how Russian puts 'Mikhailovich' and 'will explain' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Lavrov, you deceived our entire staff.' Here German anchors the thought on 'cheated' and finishes on 'collective, staff, team', keeping the spoken rhythm brisk and natural.
 - 'In short, you are no longer my sous-chef!' German strips Max of his title after just one day on the job.
 - 'Max, you are always true to form.' At home, Vika uses the Russian idiom 'in one's own repertoire' for typical behavior.
 - 'Denis, forgive me, I accidentally spent your money.' Max confesses that the sixty thousand rubles are gone.

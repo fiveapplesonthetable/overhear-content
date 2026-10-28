@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e03-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 16
-TITLE = 'Повторение — мать учения  (Repetition Is the Mother of Learning)'
+TITLE = "Повторение — мать учения  (Repetition Is the Mother of Learning)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'rodion': 'anja'}
-LABELS = {'anya': 'Макс', 'rodion': 'Родион'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "rodion": "anja", "anya": "alisa"}
+LABELS = {"rodion": "Родион", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = 'Out on the street near the fitness club, Max and Rodion Sergeyevich rehearse their car-accident plan, only for Rodion to jump under the wheels of the wrong black SUV.'
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "That brings Scene Sixteen to a close. Watch how Rodion's textbook dive lands him in front of a burly driver instead of the prefect's wife."
-CLOSING = ('rodion', 'Повторение — мать учения!')
+OUTRO = "That brings Scene Sixteen to a close. Watch how Rodion's textbook dive lands him in front of a burly driver instead of the prefect's wife. See you next time!"
+CLOSING = ("rodion", "Увидимся!")

@@ -17,10 +17,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Настя | Всё с тобой теперь ясно. | Everything is clear with you now. | #75 00:04:05: Ясно | adapted: adapted |
 | 6 | Костя | Макс, подожди меня одну минуту. | Max, wait for me one minute. | #75 00:04:05: Макс, подожди | adapted: adapted |
 | 7 | Настя | Тихо, я очень прошу тебя. | Quiet, I beg you very much. | #77 00:04:09: Я прошу тебя | adapted: adapted |
-| 8 | Аня | А ты лучше своим делом занимайся. | You had better mind your own business. | #81 00:04:20: А ты лучше своим делом занимайся | adapted: adapted |
-| 9 | Аня | А то я всем расскажу твой секрет. | Or else I will tell everyone your secret. | #82 00:04:22: А то я всем расскажу | adapted: adapted |
+| 8 | Костя | А ты лучше своим делом занимайся. | You had better mind your own business. | #81 00:04:20: А ты лучше своим делом занимайся | adapted: adapted |
+| 9 | Костя | А то я всем расскажу твой секрет. | Or else I will tell everyone your secret. | #82 00:04:22: А то я всем расскажу | adapted: adapted |
 | 10 | Костя | Шеф, так вы же всем уже рассказали. | Chef, you already told everyone. | #83 00:04:26: Шеф, так вы уже рассказали | adapted: adapted |
-| 11 | Аня | Ну я же не сказал, в каком именно классе! | Well I did not say in which grade specifically! | #84 00:04:28: Ну я же не сказал, в каком классе | adapted: adapted |
+| 11 | Костя | Ну я же не сказал, в каком именно классе! | Well I did not say in which grade specifically! | #84 00:04:28: Ну я же не сказал, в каком классе | adapted: adapted |
 | 12 | Костя | Ладно, шеф, я вас понял. | Alright, Chef, I understood you. | #75 00:04:05: Ясно | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Max, wait for me one minute.' Here the Russian phrasing highlights 'Max' before landing on 'a minute'.
 - 'Quiet, I beg you very much.' Spoken Russian keeps this brisk, leaning on 'quiet' and finishing on 'you'. Chef Barinov answers right away.
 - 'You had better mind your own business.' Spoken Russian keeps this brisk, leaning on 'and' and finishing on 'mind'.
-- 'Or else I will tell everyone your secret.' The grammar packs 'and' and 'secret' into a tight, idiomatic kitchen exchange.
+- 'Or else I will tell everyone your secret.' Here Chef Barinov anchors the thought on 'will tell' and finishes on 'secret', keeping the spoken rhythm brisk and natural.
 - 'Chef, you already told everyone.' Spoken Russian keeps this brisk, leaning on 'Chef Barinov' and finishing on 'told'. Chef Barinov answers right away.
 - 'Well I did not say in which grade specifically!' The grammar packs 'come on' and 'grade' into a tight, idiomatic kitchen exchange.
 - 'Alright, Chef, I understood you.' Spoken Russian keeps this brisk, leaning on 'all right' and finishing on 'understood'.

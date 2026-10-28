@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Денис, ты только, главное, не расстраивайся. | Denis, the main thing is, just do not get upset. | #167 00:12:16: Ты, главное, не расстраивайся | adapted: adapted |
+| 1 | Света | Денис, ты только, главное, не расстраивайся. | Denis, the main thing is, just do not get upset. | #167 00:12:16: Ты, главное, не расстраивайся | adapted: adapted |
 | 2 | Денис | Из-за больной руки я играть не смог. | Because of my sore arm I could not play. | #168 00:12:19: за больной руки играть не смог | adapted: adapted |
 | 3 | Света | Твоя мама его уволила и меня заодно. | Your mom fired him and me along with him. | #169 00:12:21: Твоя мама его уволила. И Свету заодно | adapted: adapted |
-| 4 | Аня | Подождите, я обязательно с ней поговорю. | Wait, I will definitely talk to her. | #170 00:12:24: Я с ней поговорю | adapted: adapted |
+| 4 | Света | Подождите, я обязательно с ней поговорю. | Wait, I will definitely talk to her. | #170 00:12:24: Я с ней поговорю | adapted: adapted |
 | 5 | Денис | Гуля, хватит уже обижаться из-за ерунды. | Gulya, stop being offended over nonsense already. | #172 00:12:38: Гуль, ну хватит уже обижаться из-за ерунды | adapted: adapted |
 | 6 | Света | У мамы вдруг появляется молодая незамужняя подруга. | Mom suddenly has a young unmarried friend. | #173 00:12:42: у мамы появляется молодая незамужняя подруга | adapted: adapted |
 | 7 | Денис | Просто Лариса совсем недавно переехала в Москву. | Larisa just moved to Moscow very recently. | #174 00:12:46: Просто Лариса недавно переехала в Москву | adapted: adapted |
@@ -34,8 +34,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Mom suddenly has a young unmarried friend.' Spoken Russian keeps this brisk, leaning on 'at' and finishing on 'female friend'. Denis answers right away.
 - 'Larisa just moved to Moscow very recently.' Denis anchors the line on 'simply', while 'Moscow' completes the thought.
 - 'You do not understand, mom is purposefully setting you up.' Sveta brings out the contrast between 'you' and 'not' in a few short words.
-- 'Sveta, do not be upset, Katya will talk to her mom.' Notice the reflexive suffix on the verb meaning 'get upset', turning the action back on the subject. Sveta answers right away.
+- 'Sveta, do not be upset, Katya will talk to her mom.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
 - 'That means we are definitely fired, there is nothing left to lose.' Here the Russian phrasing highlights 'so' before landing on 'nothing'.
 - 'Everything is clearly recorded on my dashcam.' Sveta brings out the contrast between 'everything' and 'clearly' in a few short words.
 - 'Listen, but we drove away from there.' The plural past ending '-li' on the verb for 'drove off' covers a group or the polite 'you'. Sveta answers right away.
-- 'My own brother works in the police!' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'works'.
+- 'My own brother works in the police!' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.

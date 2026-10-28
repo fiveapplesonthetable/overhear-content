@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Ух ты, Настя, смотри скорее, что я нашёл! | Wow, Nastya, look quickly at what I found! | #164 00:10:09: Ух ты<br>#165 00:10:10: Настя, смотри, что нашел | adapted: adapted |
-| 2 | Костя | Старая заначка под подкладку куртки провалилась! | An old stash slipped under the lining of the jacket! | #166 00:10:12: под подкладку провалилась | adapted: adapted |
+| 1 | Шеф | Ух ты, Настя, смотри скорее, что я нашёл! | Wow, Nastya, look quickly at what I found! | #164 00:10:09: Ух ты<br>#165 00:10:10: Настя, смотри, что нашел | adapted: adapted |
+| 2 | Шеф | Старая заначка под подкладку куртки провалилась! | An old stash slipped under the lining of the jacket! | #166 00:10:12: под подкладку провалилась | adapted: adapted |
 | 3 | Аня | Да ладно, вот это действительно круто! | No way, now that is really cool! | #166 00:10:12: Да ладно<br>#167 00:10:16: Круто | adapted: adapted |
 | 4 | Шеф | Надо для особого вкуса немножко мёда добавить. | We need to add a little bit of honey for a special flavor. | #170 00:10:34: Надо для особого вкуса немножко мед добавить | adapted: adapted |
 | 5 | Шеф | А ты плесни чуть-чуть масла на сковороду пока. | And you splash a tiny bit of oil into the pan for now. | #171 00:10:36: Ты плесни чуть-чуть масла пока | adapted: adapted |
 | 6 | Шеф | Буквально несколько капель для вкуса, понял? | Literally just a few drops for flavor, got it? | #173 00:10:43: Буквально несколько капель для вкуса | adapted: adapted |
 | 7 | Аня | Поднимай меня вон туда, на третий этаж! | Lift me up over there, to the third floor! | #174 00:11:06: Вон туда, на третий этаж | adapted: adapted |
 | 8 | Шеф | Ну, спор есть спор, ты выиграл, а я проиграл, держи! | Well, a bet is a bet, you won and I lost, take it! | #175 00:11:08: спор есть спор<br>#176 00:11:10: Ты выиграл, я проиграл, держи | adapted: adapted |
-| 9 | Костя | Подожди, тут только двадцать пять, а мы на тридцать спорили! | Wait, there is only twenty-five here, and we bet thirty! | #177 00:11:16: спорили | adapted: adapted |
+| 9 | Шеф | Подожди, тут только двадцать пять, а мы на тридцать спорили! | Wait, there is only twenty-five here, and we bet thirty! | #177 00:11:16: спорили | adapted: adapted |
 | 10 | Шеф | А, да, мне просто двадцать пять послышалось! | Ah, really, I just thought I heard twenty-five! | #178 00:11:19: послышалось | adapted: adapted |
-| 11 | Костя | Смотри, Настя, ещё тридцать тысяч выиграл! | Look, Nastya, I won another thirty thousand! | #176 00:11:10: выиграл | adapted: adapted |
+| 11 | Шеф | Смотри, Настя, ещё тридцать тысяч выиграл! | Look, Nastya, I won another thirty thousand! | #176 00:11:10: выиграл | adapted: adapted |
 | 12 | Аня | Отлично, теперь денег становится всё больше! | Great, now the pile of money is getting bigger and bigger! | #167 00:10:16: Круто | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

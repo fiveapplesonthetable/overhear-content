@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Аня | А это женщина. | And this is a woman. | #20 00:01:54: а это женщина | verbatim |
 | 2 | Шеф | Красивая и умная. | Beautiful and intelligent. | #21 00:01:58: Красивая и умная | verbatim |
-| 3 | Костя | Мне тоже нравится. | I like her too. | #23 00:02:02: Мне тоже нравится | verbatim |
+| 3 | Шеф | Мне тоже нравится. | I like her too. | #23 00:02:02: Мне тоже нравится | verbatim |
 | 4 | Аня | Кстати, когда будете приглашать его на свидание, скажите. | By the way, when you ask her out on a date, let me know. | #26 00:02:14: Кстати, когда будете приглашать его на свидание, скажите | verbatim |
 | 5 | Шеф | Тебе что? | What did you just say? | #28 00:02:20: Тебе что | verbatim |
-| 6 | Костя | Какое свидание? | What date are you talking about? | #29 00:02:22: Какое свидание | verbatim |
+| 6 | Шеф | Какое свидание? | What date are you talking about? | #29 00:02:22: Какое свидание | verbatim |
 | 7 | Аня | Шеф, я помочь хочу. | Chef, I just want to help. | #31 00:02:25: Шеф, я помочь хочу | verbatim |
 | 8 | Шеф | Пошел вон отсюда. | Get the hell out of here. | #31 00:02:25: Пошел вон отсюда | verbatim |
-| 9 | Костя | Пошел вон, я сказал! | Get out, I said! | #32 00:02:28: Пошел вон, я сказал | verbatim |
+| 9 | Шеф | Пошел вон, я сказал! | Get out, I said! | #32 00:02:28: Пошел вон, я сказал | verbatim |
 | 10 | Аня | Мама, это мой Костя. | Mom, this is my Kostya. | #34 00:02:32: Мама, это мой Костя | verbatim |
 | 11 | Шеф | Это моя мама. | This is my mother. | #34 00:02:32: Это моя мама | verbatim |
-| 12 | Костя | Очень приятно. | Very nice to meet you. | #35 00:02:37: Очень приятно | verbatim |
+| 12 | Шеф | Очень приятно. | Very nice to meet you. | #35 00:02:37: Очень приятно | verbatim |
 | 13 | Аня | Мне тоже очень приятно. | It is very nice to meet you too. | #36 00:02:39: Мне тоже очень приятно | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Get the hell out of here.' Chef Viktor anchors the line on 'go', while 'from here' completes the thought.
 - 'Get out, I said!' Kostya anchors the line on 'go', while 'to say' completes the thought. Max answers right away.
 - 'Mom, this is my Kostya.' Max anchors the line on 'mum', while 'Kostya' completes the thought.
-- 'This is my mother.' In Russian, the idea of 'this' flows naturally into 'mum' without extra filler words.
+- 'This is my mother.' Chef Barinov centers this short reply on 'mum', letting a few direct words carry the whole meaning.
 - 'Very nice to meet you.' Here the Russian phrasing highlights 'very' before landing on 'pleasant'. Max answers right away.
 - 'It is very nice to meet you too.' The grammar packs 'for me' and 'pleasant' into a tight, idiomatic kitchen exchange.

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s06e19-scene-07'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 19
 SCENE = 7
 TITLE = "Ложь Гули и девичник  (Gulya's Lie and the Bachelorette Party)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'gulya': 'angelina'}
-LABELS = {'anya': 'Настя', 'lyova': 'Лёва', 'gulya': 'Гуля'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "gulya": "anja"}
+LABELS = {"lyova": "Лёва", "gulya": "Гуля"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.19'
 SOURCE_FILE = 'sources/kukhnya/s06/e19.ru.srt'
 
 INTRO = "In the corridor, Gulya claims that her mother found a groom for her at home and begs Lyova to forgive her. Later that evening, Nastya leaves Kostya and Denis at the apartment to attend Katya's bachelorette party."
@@ -21,11 +21,11 @@ STORY = [
     ('gulya', 'У нас дома так принято.', 'That is the custom for us at home.', [(110, 'У нас так принято')], 'adapted'),
     ('gulya', 'Прости меня, пожалуйста, за всё.', 'Forgive me, please, for everything.', [(111, 'прости меня за всё')], 'adapted'),
     ('lyova', 'Я предложил ей сегодня уехать.', 'I offered to run away with her today.', [(113, 'я предложил ей уехать')], 'adapted'),
-    ('anya', 'Да забудь ты про неё!', 'Just forget about her!', [(114, 'Да забудь ты её')], 'adapted'),
+    ('lyova', 'Да забудь ты про неё!', 'Just forget about her!', [(114, 'Да забудь ты её')], 'adapted'),
     ('lyova', 'Сейчас Настя уйдёт из дома.', 'Nastya will leave the house right now.', [(115, 'Сейчас Настя уйдёт')], 'adapted'),
     ('lyova', 'И мы с тобой поговорим.', 'And you and I will have a talk.', [(116, 'Мы с тобой поговорим')], 'adapted'),
-    ('anya', 'Всё, я побежала на девичник.', 'That is it, I am running off to the bachelorette party.', [(117, 'Всё, я побежала на девичник')], 'adapted'),
-    ('anya', 'Вы тут много не пейте.', 'Do not drink too much here.', [(118, 'не пейте')], 'adapted'),
+    ('lyova', 'Всё, я побежала на девичник.', 'That is it, I am running off to the bachelorette party.', [(117, 'Всё, я побежала на девичник')], 'adapted'),
+    ('lyova', 'Вы тут много не пейте.', 'Do not drink too much here.', [(118, 'не пейте')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Left alone in the apartment, Kostya and Denis ignore Nastya's warning and hatch a wild plan to stop Katya's wedding. See you in the next scene."
-CLOSING = ('lyova', 'Настя, мы не собирались пить!')
+OUTRO = "Left alone in the apartment, Kostya and Denis ignore Nastya's warning and hatch a wild plan to stop Katya's wedding. Until next time!"
+CLOSING = ("lyova", "Увидимся!")

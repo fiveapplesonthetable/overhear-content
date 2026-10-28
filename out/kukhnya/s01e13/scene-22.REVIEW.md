@@ -1,45 +1,44 @@
-# kukhnya-s01e13-scene-22: review sheet
+# Границы  (Borders) — `kukhnya-s01e13-scene-22`
 
-Title: Границы  (Borders)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.13
-Generated scene
+**Source:** Кухня (Kukhnya) S1.13 · `sources/kukhnya/s01/e13.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `vika` | angelina | Вика |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> Focused on borders, Vika angrily breaks up with Max, while the narrator reflects on the walls people build between themselves. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Вик, что с тобой? | Vik, what is wrong? | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 2 | Макс | В чём дело, Макс? | What is the matter, Max? | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 3 | Вика | В чем дело? | What is the matter? | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 4 | Вика | Меня сегодня чуть не уволили с работы. | I almost got fired today. | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 5 | Вика | И все благодаря тебе. | And it is all thanks to you. | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 6 | Вика | Макс, ты рушишь мою жизнь. | Max, you are ruining my life. | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 7 | Вика | Все. | That is it. | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 8 | Вика | Не хочу тебя видеть. | I do not want to see you. | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 9 | Вика | Хочешь, я тебе скажу, в чем дело? | Want me to tell you what is going on? | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 10 | Вика | Ты постоянно все усложняешь. | You make everything so complicated. | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 11 | Вика | А виноватыми делаешь других. | Then you blame everyone else. | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 12 | Вика | Может, стоит поискать причины в себе? | Maybe you should look at yourself for the reasons? | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 13 | Макс | Меня всегда удивляло... | I have always wondered... | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 14 | Макс | почему люди сами возводят между собой границы. | why people build walls between themselves. | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 15 | Вика | Костя, давай с тобой сегодня тоже просто поспим. | Kostya, how about we just sleep tonight too, okay? | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 16 | Макс | Но есть границы, которые мы специально возводим... | But there are walls we build on purpose... | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 17 | Макс | чтобы с удовольствием их разрушить. | so we can enjoy tearing them down. | #297 00:22:46: Угадай, кто. Макс. | verbatim |
+| 0 | Макс | Вик, что с тобой? | Vik, what is wrong? | #303 "вик" |  |
+| 1 | Макс | В чём дело, Макс? | What is the matter, Max? | #305 "чем" |  |
+| 2 | Вика | В чем дело? | What is the matter? | #305 "чем" |  |
+| 3 | Вика | Меня сегодня чуть не уволили с работы. | I almost got fired today. | #309 "меня" |  |
+| 4 | Вика | И все благодаря тебе. | And it is all thanks to you. | #304 "все" |  |
+| 5 | Вика | Макс, ты рушишь мою жизнь. | Max, you are ruining my life. | #302 "макс" |  |
+| 6 | Вика | Все. | That is it. | #304 "все" |  |
+| 7 | Вика | Не хочу тебя видеть. | I do not want to see you. | #304 "хочу" |  |
+| 8 | Вика | Хочешь, я тебе скажу, в чем дело? | Want me to tell you what is going on? | #305 "хочешь" |  |
+| 9 | Вика | Ты постоянно все усложняешь. | You make everything so complicated. | #306 "постоянно" |  |
+| 10 | Вика | А виноватыми делаешь других. | Then you blame everyone else. | #307 "виноватыми" |  |
+| 11 | Вика | Может, стоит поискать причины в себе? | Maybe you should look at yourself for the reasons? | #308 "может" |  |
+| 12 | Макс | Меня всегда удивляло... | I have always wondered... | #309 "меня" |  |
+| 13 | Макс | почему люди сами возводят между собой границы. | why people build walls between themselves. | #309 "почему" |  |
+| 14 | Вика | Костя, давай с тобой сегодня тоже просто поспим. | Kostya, how about we just sleep tonight too, okay? | #310 "костя" |  |
+| 15 | Макс | Но есть границы, которые мы специально возводим... | But there are walls we build on purpose... | #315 "есть" |  |
+| 16 | Макс | чтобы с удовольствием их разрушить. | so we can enjoy tearing them down. | #316 "чтобы" |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Vik, what is wrong?' Russian omits the present-tense verb 'to be' here, linking 'Vika' directly with 'what', combining 'Vika' with 'what' and 'with'.
-- 'What is the matter, Max?' Max turns a statement into a question purely through rising intonation on the word meaning 'matter' to make the point directly in conversation.
-- 'What is the matter?' Vika turns a statement into a question purely through rising intonation on the word meaning 'matter' to make the point directly in conversation.
-- 'I almost got fired today.' Vika expresses this naturally by combining the word for 'today' with 'nearly' and 'to fire'.
-- 'And it is all thanks to you.' Russian omits the present-tense verb 'to be' here, linking 'and' directly with 'all', pairing it with 'thanks to' and 'for you'.
-- 'Max, you are ruining my life.' Vika chooses the imperfective verb meaning 'to ruin' for the ongoing action, followed by 'life'.
-- 'That is it.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'all'.
-- 'I do not want to see you.' Vika uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'want' and 'to see'.
-- 'Want me to tell you what is going on?' Vika turns a statement into a question purely through rising intonation on the word meaning 'do you want', pairing it with 'I'll tell' and 'matter'.
-- 'You make everything so complicated.' Here Vika anchors the line on the word meaning 'constantly' and builds the thought around 'to complicate'.
-- 'Then you blame everyone else.' The phrasing opens with 'guilty' before bringing in 'are you doing' and 'other' to make the point clear.
-- 'Maybe you should look at yourself for the reasons?' Vika turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'is parked' and 'to look for'.
-- 'I have always wondered...' Max puts the word for 'always' together with 'to surprise' in a crisp, natural spoken turn of phrase.
+> Vika angrily breaks up with Max, while the narrator reflects on the walls people build between themselves. Next time you watch the episode, listen for the Russian expressions for 'matter' and 'today' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e16-scene-20"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e16-scene-20'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 16
 SCENE = 20
-TITLE = 'Цена обмана и потери на войне  (The Price of Deception and Casualties of War)'
+TITLE = "Цена обмана и потери на войне  (The Price of Deception and Casualties of War)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.16"
-SOURCE_FILE = "sources/kukhnya/s02/e16.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja"}
+LABELS = {"anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.16'
+SOURCE_FILE = 'sources/kukhnya/s02/e16.ru.srt'
 
 INTRO = "Horrified by how far Max went in his petty war against Ilya, Sasha and Kostya tell him that nobody wants to see him either at the restaurant or at the apartment. While Vasily admits to Barinov that Claude Monet's show was great after all, Max realizes he only deceived himself."
 
@@ -32,7 +32,7 @@ STORY = [
 OPENER = "Now let's go back through the conversation line by line."
 
 WALK = [
-    (0, None, "'You do not understand.' In Russian, the idea of 'you' flows naturally into 'do you understand' without extra filler words. Kostya answers right away."),
+    (0, None, "'You do not understand.' Max centers this short reply on 'do you understand', letting a few direct words carry the whole meaning."),
     (1, None, "'Max, please tell me, why did you do this?' Kostya addresses the listener with the informal singular 'you' alongside 'to do'."),
     (2, None, "'Do you realize you cannot treat people like that?' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'to act'."),
     (3, None, "'Let me explain everything at home, alright?' Kostya raises the pitch on 'really?!' to turn the phrase into a direct spoken question. Max answers right away."),
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 20 of Episode 16, listen out for the exchange around the price of deception and casualties of war — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('kostya', 'Война  это путь обмана.')
+OUTRO = "That wraps up this scene as disgusted by Max's petty revenge on the innocent fish, Sasha and Kostya tell him nobody wants to see him at work or at home, while Vasily finally warms up to Barinov. See you next time!"
+CLOSING = ("kostya", "Хорошего дня!")

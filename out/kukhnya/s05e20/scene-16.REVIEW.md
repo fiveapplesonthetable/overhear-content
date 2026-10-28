@@ -11,16 +11,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Гуля | Ну что, Катя, как там наш шеф? | Well, Katya, how is our chef doing there? | #257 00:22:31: Ну что, как шеф | adapted: adapted |
-| 2 | Аня | Врачи сказали, что всё хорошо, жить будет. | The doctors said everything is fine, he will live. | #257 00:22:31: Жить будет | adapted: adapted |
-| 3 | Аня | Честно говоря, я за него так испугалась. | Honestly speaking, I was so scared for him. | #258 00:22:34: Я так испугалась | adapted: adapted |
+| 2 | Катя | Врачи сказали, что всё хорошо, жить будет. | The doctors said everything is fine, he will live. | #257 00:22:31: Жить будет | adapted: adapted |
+| 3 | Катя | Честно говоря, я за него так испугалась. | Honestly speaking, I was so scared for him. | #258 00:22:34: Я так испугалась | adapted: adapted |
 | 4 | Гуля | Слушай, хочешь, я подниму тебе настроение? | Listen, do you want me to cheer you up? | #259 00:22:35: Слушай, хочешь, я тебе<br>#259 00:22:35: настроение | adapted: adapted |
 | 5 | Гуля | Присядь сюда на минутку и посмотри. | Sit down here for a minute and take a look. | #260 00:22:38: Присядь<br>#261 00:22:40: Смотри | adapted: adapted |
 | 6 | Гуля | Эти шутники Федя и Сеня нас с Лёвой разыграли. | Those jokers Fedya and Senya pranked Lyova and me. | #261 00:22:40: Федя и Сеней нас с Лёвой разыграли | adapted: adapted |
 | 7 | Гуля | Они писали мне сообщения с его телефона. | They were writing messages to me from his phone. | #261 00:22:40: нас с Лёвой разыграли | adapted: adapted |
-| 8 | Аня | Ой, картинка пропала, я на что-то нажала. | Oh, the screen disappeared, I pressed something. | #262 00:22:47: Ой, пропала. Я на что-то нажала | adapted: adapted |
-| 9 | Аня | Подожди, ведь это же телефон Никиты. | Wait, this is Nikita's phone after all. | #262 00:22:47: Я на что-то нажала | adapted: adapted |
-| 10 | Аня | А почему тут в переписке моя мама? | And why is my mom in the messages here? | #263 00:22:52: А это что, моя мама | adapted: adapted |
-| 11 | Аня | Неужели они всё это время переписывались? | Have they really been texting each other all this time? | #263 00:22:52: моя мама | adapted: adapted |
+| 8 | Катя | Ой, картинка пропала, я на что-то нажала. | Oh, the screen disappeared, I pressed something. | #262 00:22:47: Ой, пропала. Я на что-то нажала | adapted: adapted |
+| 9 | Катя | Подожди, ведь это же телефон Никиты. | Wait, this is Nikita's phone after all. | #262 00:22:47: Я на что-то нажала | adapted: adapted |
+| 10 | Катя | А почему тут в переписке моя мама? | And why is my mom in the messages here? | #263 00:22:52: А это что, моя мама | adapted: adapted |
+| 11 | Катя | Неужели они всё это время переписывались? | Have they really been texting each other all this time? | #263 00:22:52: моя мама | adapted: adapted |
 | 12 | Гуля | Ой, Катя, я об этом ничего не знала. | Oh, Katya, I knew nothing about that. | #264 00:22:54: Слушай | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

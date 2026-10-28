@@ -13,15 +13,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 1 | Шеф | Не родиться женщиной. | Not to be born a woman. | #89 00:05:58: Не родиться женщиной | verbatim |
 | 2 | Шеф | А почему вы без усов? | And why do you have no moustache? | #90 00:06:04: А почему вы без усов | verbatim |
 | 3 | Шеф | Я беру только поваров с усами. | I only hire cooks with moustaches. | #91 00:06:06: Я беру в команду только поваров с усами | adapted: adapted |
-| 4 | Нагиев | Я за один звонок найду вам повара. | I will find you a cook with one phone call. | #95 00:06:26: за один телефонный звонок<br>#96 00:06:29: найду вам повара | adapted: adapted |
-| 5 | Нагиев | Телефон мой где? | Where is my phone? | #97 00:06:31: Телефон мой где | verbatim |
-| 6 | Аня | Да, добрый день. А с кем я говорю? | Yes, good afternoon. Who am I speaking with? | #100 00:06:46: добрый день<br>#101 00:06:49: А с кем я говорю | adapted: adapted |
-| 7 | Аня | Чем я могу вам помочь? | How can I help you? | #105 00:07:09: Чем я могу вам помочь | verbatim |
-| 8 | Аня | Спасибо, конечно. | Thank you, of course. | #107 00:07:14: Спасибо, конечно | verbatim |
-| 9 | Аня | Но я не собираюсь менять работу. | But I am not planning to change jobs. | #108 00:07:16: Но я вообще не собираюсь менять | adapted: adapted |
-| 10 | Аня | Я подумаю позже. | I will think about it later. | #109 00:07:19: подумать<br>#109 00:07:19: позже | adapted: adapted |
-| 11 | Аня | Хорошо. Отлично. | All right. Excellent. | #110 00:07:23: Хорошо. Отлично | verbatim |
-| 12 | Аня | До свидания. | Goodbye. | #111 00:07:25: До свидания | verbatim |
+| 4 | Вика | Я за один звонок найду вам повара. | I will find you a cook with one phone call. | #95 00:06:26: за один телефонный звонок<br>#96 00:06:29: найду вам повара | adapted: adapted |
+| 5 | Вика | Телефон мой где? | Where is my phone? | #97 00:06:31: Телефон мой где | verbatim |
+| 6 | Вика | Да, добрый день. А с кем я говорю? | Yes, good afternoon. Who am I speaking with? | #100 00:06:46: добрый день<br>#101 00:06:49: А с кем я говорю | adapted: adapted |
+| 7 | Вика | Чем я могу вам помочь? | How can I help you? | #105 00:07:09: Чем я могу вам помочь | verbatim |
+| 8 | Вика | Спасибо, конечно. | Thank you, of course. | #107 00:07:14: Спасибо, конечно | verbatim |
+| 9 | Вика | Но я не собираюсь менять работу. | But I am not planning to change jobs. | #108 00:07:16: Но я вообще не собираюсь менять | adapted: adapted |
+| 10 | Вика | Я подумаю позже. | I will think about it later. | #109 00:07:19: подумать<br>#109 00:07:19: позже | adapted: adapted |
+| 11 | Вика | Хорошо. Отлично. | All right. Excellent. | #110 00:07:23: Хорошо. Отлично | verbatim |
+| 12 | Вика | До свидания. | Goodbye. | #111 00:07:25: До свидания | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Катя | Всё понятно, спасибо за поздравление и прощай! | Everything is clear, thanks for the birthday wishes and goodbye! | #261 00:17:02: Понятно | adapted: adapted |
+| 1 | Нагиев | Всё понятно, спасибо за поздравление и прощай! | Everything is clear, thanks for the birthday wishes and goodbye! | #261 00:17:02: Понятно | adapted: adapted |
 | 2 | Нагиев | Катя, подожди, да я же просто пошутил! | Katya, wait, I was only joking! | #261 00:17:02: да я пошутил | adapted: adapted |
-| 3 | Аня | Говори немедленно, где ты её сейчас прячешь? | Speak immediately, where are you hiding her right now? | #264 00:17:14: Где она | adapted: adapted |
+| 3 | Шеф | Говори немедленно, где ты её сейчас прячешь? | Speak immediately, where are you hiding her right now? | #264 00:17:14: Где она | adapted: adapted |
 | 4 | Нагиев | Я просто спать лёг, ты что, не видишь? | I simply lay down to sleep, do you not see? | #264 00:17:14: Я спать лег | adapted: adapted |
-| 5 | Аня | Дима, лучше не зли меня сейчас! | Dima, you had better not make me angry right now! | #265 00:17:17: Дима | adapted: adapted |
+| 5 | Шеф | Дима, лучше не зли меня сейчас! | Dima, you had better not make me angry right now! | #265 00:17:17: Дима | adapted: adapted |
 | 6 | Нагиев | Ладно, признаюсь честно, она сейчас в душе. | Fine, I admit it honestly, she is in the shower right now. | #266 00:17:19: Ладно, в душе | adapted: adapted |
 | 7 | Нагиев | Но ты же меня Эле не выдашь, правда? | But you will not give me away to Elya, right? | #267 00:17:22: не выдашь, правда | adapted: adapted |
 | 8 | Нагиев | Ты же мужчина, ты должен меня понять! | You are a man, you must understand me! | #268 00:17:24: Ты же мужчина, ты же меня понимаешь | adapted: adapted |
 | 9 | Нагиев | Ведь ты уже прикрыл меня один раз. | After all, you already covered for me once. | #269 00:17:26: Ты же меня прикрыл уже один раз | adapted: adapted |
-| 10 | Аня | Ах ты бессовестный негодяй, я тебя убью! | Oh you shameless scoundrel, I will kill you! | #270 00:17:27: Да, сволочь | adapted: adapted |
+| 10 | Шеф | Ах ты бессовестный негодяй, я тебя убью! | Oh you shameless scoundrel, I will kill you! | #270 00:17:27: Да, сволочь | adapted: adapted |
 | 11 | Нагиев | Витя, остановись, ты совсем с ума сошёл? | Vitya, stop, have you completely lost your mind? | #272 00:17:31: Ты поганая | adapted: adapted |
-| 12 | Аня | Я тебе сейчас покажу, как обижать дочь! | I will show you right now what happens when you wrong my daughter! | #273 00:17:34: Сволочь | adapted: adapted |
+| 12 | Шеф | Я тебе сейчас покажу, как обижать дочь! | I will show you right now what happens when you wrong my daughter! | #273 00:17:34: Сволочь | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Speak immediately, where are you hiding her right now?' In Russian, the idea of 'to speak' flows naturally into 'hide' without extra filler words. Dmitry Nagiyev answers right away.
 - 'I simply lay down to sleep, do you not see?' Dmitry Nagiyev addresses the listener with the informal singular 'you' alongside 'see'.
 - 'Dima, you had better not make me angry right now!' In Russian, the idea of 'Dima' flows naturally into 'now' without extra filler words.
-- 'Fine, I admit it honestly, she is in the shower right now.' Notice the reflexive suffix on the verb meaning 'to confess', turning the action back on the subject.
+- 'Fine, I admit it honestly, she is in the shower right now.' Notice how Russian puts 'all right' and 'soul' together in a short, direct phrase where word endings show how the ideas connect.
 - 'But you will not give me away to Elya, right?' Notice how Russian expresses 'but' and 'really' with crisp inflection rather than helper words.
 - 'You are a man, you must understand me!' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'to understand'.
 - 'After all, you already covered for me once.' In Russian, the idea of 'after all' flows naturally into 'time' without extra filler words. Chef Barinov answers right away.

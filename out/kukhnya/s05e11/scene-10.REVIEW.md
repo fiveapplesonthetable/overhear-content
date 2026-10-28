@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And what did my grandpa order?' The meaning hinges on 'and' working together with 'ordered' in spoken Russian.
 - 'Some kind of roast meat.' Nastya brings out the contrast between 'meat' and 'roasted' in a few short words.
 - 'Something stronger to drink, about two hundred grams.' Nastya anchors the line on 'to drink', while 'two hundred' completes the thought.
-- 'And stewed fruit compote.' The grammar packs 'and' and 'stewed fruit drink' into a tight, idiomatic kitchen exchange.
+- 'And stewed fruit compote.' Nastya centers this short reply on 'stewed fruit drink, compote', letting a few direct words carry the whole meaning.
 - 'Got it. Do not bring the meat, only the compote.' Spoken Russian keeps this brisk, leaning on 'clear' and finishing on 'stewed fruit drink'. Nastya answers right away.
 - 'Alright, Max.' In Russian, the idea of 'well' flows naturally into 'Max' without extra filler words.
 - 'Here is your lunch, grandpa.' The grammar packs 'here' and 'grandfather' into a tight, idiomatic kitchen exchange.

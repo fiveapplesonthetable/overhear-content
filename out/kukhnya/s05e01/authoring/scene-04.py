@@ -1,26 +1,26 @@
 ID = 'kukhnya-s05e01-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 1
 SCENE = 4
-TITLE = 'Мужской разговор и фрау Краус  (Man-to-Man Advice and Frau Kraus)'
+TITLE = "Мужской разговор и фрау Краус  (Man-to-Man Advice and Frau Kraus)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'mikhail': 'angelina'}
-LABELS = {'anya': 'Денис', 'senya': 'Сеня', 'mikhail': 'Михаил'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.01"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja", "senya": "angelina"}
+LABELS = {"mikhail": "Михаил", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.01'
 SOURCE_FILE = 'sources/kukhnya/s05/e01.ru.srt'
 
 INTRO = 'While Denis asks Senya how to handle his jealousy over Katya, Chef Barinov pursues Mikhail into the hotel lobby where Mikhail is greeting Frau Kraus. Listen closely to the Russian dialogue.'
 
 STORY = [
-    ('anya', 'Давай по дороге обсудим.', "Let's discuss it on the way.", [(50, 'Давай по дороге обсудим')], 'verbatim'),
-    ('anya', 'А как мне реагировать?', 'And how should I react?', [(51, 'а как мне реагировать?')], 'verbatim'),
-    ('anya', 'Я же её люблю.', 'After all, I love her.', [(51, 'Я же ее люблю')], 'verbatim'),
-    ('anya', 'Это нормально ревновать, нет?', 'Is it normal to be jealous, or not?', [(52, 'Это нормально ревновать, нет?')], 'verbatim'),
+    ('mikhail', 'Давай по дороге обсудим.', "Let's discuss it on the way.", [(50, 'Давай по дороге обсудим')], 'verbatim'),
+    ('mikhail', 'А как мне реагировать?', 'And how should I react?', [(51, 'а как мне реагировать?')], 'verbatim'),
+    ('mikhail', 'Я же её люблю.', 'After all, I love her.', [(51, 'Я же ее люблю')], 'verbatim'),
+    ('mikhail', 'Это нормально ревновать, нет?', 'Is it normal to be jealous, or not?', [(52, 'Это нормально ревновать, нет?')], 'verbatim'),
     ('senya', 'Конечно, это нормально.', 'Of course it is normal.', [(53, 'Конечно, нормально')], 'adapted'),
     ('senya', 'У них ревнуешь — плохо.', 'With them, if you are jealous, it is bad.', [(54, 'У них ревнуешь плохо')], 'verbatim'),
-    ('anya', 'И как мне быть?', 'And what should I do?', [(56, 'И как быть?')], 'adapted'),
+    ('mikhail', 'И как мне быть?', 'And what should I do?', [(56, 'И как быть?')], 'adapted'),
     ('senya', 'Возьми, подойди к нему.', 'Go ahead and walk up to him.', [(57, 'Возьми, подойди к нему')], 'verbatim'),
     ('mikhail', 'Пойми, Витя, завтра открытие.', 'Understand, Vitya, the opening is tomorrow.', [(60, 'Пойми, Витя, завтра открытие')], 'verbatim'),
     ('mikhail', 'Наш отель должен удивить гостей.', 'Our hotel must surprise the guests.', [(61, 'Наш отель должен удивить гостей')], 'verbatim'),
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that wraps up the lobby encounter with Frau Kraus. Pay attention to how Russian uses the infinitive with the dative pronoun for 'how should I react'. See you in the next scene."
-CLOSING = ('mikhail', 'Добро пожаловать в наш отель!')
+OUTRO = "And that wraps up the lobby encounter with Frau Kraus. Pay attention to how Russian uses the infinitive with the dative pronoun for 'how should I react'. See you next time!"
+CLOSING = ("mikhail", "Хорошего дня!")

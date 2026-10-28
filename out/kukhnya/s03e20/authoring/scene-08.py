@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e20-scene-08'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 20
 SCENE = 8
-TITLE = 'Сообщения в телефоне  (Messages on the Phone)'
+TITLE = "Сообщения в телефоне  (Messages on the Phone)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.20'
 SOURCE_FILE = 'sources/kukhnya/s03/e20.ru.srt'
 
 INTRO = "At Vika's apartment, Max asks Vika whether they used to be in a relationship. When Vika claims they were merely work colleagues, Max pulls out his phone and reads her fiery text messages aloud!"
@@ -38,7 +38,7 @@ WALK = [
     (4, None, "'Fine, and what exactly do you want to find out?' Vika brings out the contrast between 'well' and 'and' in a few short words. Max answers right away."),
     (5, None, "'Tell me, were you and I in some kind of relationship?' Max brings out the contrast between 'say' and 'we' in a few short words."),
     (6, None, "'No, we were not, we were just friends as colleagues.' The plural past ending '-li' on the verb for 'were friends' covers a group or the polite 'you'."),
-    (7, None, "'That was a rather strange friendship we had as colleagues.' Russian expresses 'having' with the preposition 'by' plus the genitive pronoun and 'colleague'. Vika answers right away."),
+    (7, None, "'That was a rather strange friendship we had as colleagues.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'."),
     (8, None, "'In what sense strange? What are you talking about?' Vika brings out the contrast between 'which' and 'sense' in a few short words."),
     (9, None, "'I was just looking through my phone and found this.' Notice how Russian expresses 'yes' and 'to find' with crisp inflection rather than helper words."),
     (10, None, "'Here are your messages: first you write that you hate me.' Spoken Russian keeps this brisk, leaning on 'here' and finishing on 'hate'."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Faced with her own text messages on Max's phone, Vika can no longer pretend they were just polite coworkers."
-CLOSING = ('anya', 'Странная у нас была дружба.')
+OUTRO = "Faced with her own text messages on Max's phone, Vika can no longer pretend they were just polite coworkers. See you next time!"
+CLOSING = ("anya", "До завтра!")

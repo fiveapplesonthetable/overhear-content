@@ -1,32 +1,40 @@
-# kukhnya-s01e05-scene-10: review sheet
+# Тайное поручение  (A Secret Errand) — `kukhnya-s01e05-scene-10`
 
-Title: Тайное поручение  (A Secret Errand)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.05
-Cues 141-144. Chef Barinov gives Max a secret errand to fetch cognac from the bar.
+**Source:** Кухня (Kukhnya) S1.05 · `sources/kukhnya/s01/e05.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> During a hectic evening service at Claude Monet, Chef Viktor Barinov pulls junior cook Max aside. Desperate for a drink during his demanding shift, Barinov orders Max to secretly fetch a bottle of cognac from the bar. Let's listen to their conspiratorial dialogue in Russian first.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Шеф | Слушай, Огузок, подойди ко мне. | Listen, Oguzok, come here to me. | #141 00:09:39: Слушай, Агузик | verbatim |
-| 2 | Макс | Да, шеф! Что нужно сделать? | Yes, chef! What needs to be done? | new | new |
-| 3 | Шеф | Сходи в бар и принеси коньяк. | Go to the bar and bring cognac. | #141 00:09:39: ходи в бар, принеси коньяк | verbatim |
-| 4 | Макс | Какой именно коньяк вам нужен? | Which cognac exactly do you need? | new | new |
-| 5 | Шеф | Я написал название на этой бумажке. | I wrote the name on this piece of paper. | #142 00:09:43: Я для идиотов тут название написал | verbatim |
-| 6 | Макс | А если кто-то заметит меня? | And what if someone notices me? | new | new |
-| 7 | Шеф | В бар сходи для отвода глаз. | Go to the bar to keep up appearances. | #144 00:10:10: В бар сходи для отвода глаз | verbatim |
-| 8 | Макс | А что сказать бармену Косте? | And what should I say to bartender Kostya? | new | new |
-| 9 | Шеф | Скажи, что это для мясного соуса. | Say that this is for meat sauce. | new | new |
-| 10 | Макс | Понял, сделаю всё быстро и тихо. | Understood, I will do everything quickly and quietly. | new | new |
-| 11 | Шеф | И фаршируй рыбу жюльеном с лимоном. | And stuff the fish with julienne and lemon. | #143 00:10:06: Фаршируй рыбу жульеном с лимоном | verbatim |
-| 12 | Шеф | Потом ставь её в горячую духовку. | Then put it into the hot oven. | #143 00:10:06: и ставь ее в духовку | verbatim |
-| 13 | Макс | Слушаюсь, шеф, уже бегу! | Right away, chef, I'm already running! | new | new |
+| 0 | Шеф | Слушай, Огузок, подойди ко мне. | Listen, Oguzok, come here to me. | #141 "Слушай, Агузик" |  |
+| 1 | Макс | Да, шеф! Что нужно сделать? | Yes, chef! What needs to be done? | *(added)* |  |
+| 2 | Шеф | Сходи в бар и принеси коньяк. | Go to the bar and bring cognac. | #141 "ходи в бар, принеси коньяк" |  |
+| 3 | Макс | Какой именно коньяк вам нужен? | Which cognac exactly do you need? | *(added)* |  |
+| 4 | Шеф | Я написал название на этой бумажке. | I wrote the name on this piece of paper. | #142 "Я для идиотов тут название написал" |  |
+| 5 | Макс | А если кто-то заметит меня? | And what if someone notices me? | *(added)* |  |
+| 6 | Шеф | В бар сходи для отвода глаз. | Go to the bar to keep up appearances. | #141 "бар" |  |
+| 7 | Макс | А что сказать бармену Косте? | And what should I say to bartender Kostya? | *(added)* |  |
+| 8 | Шеф | Скажи, что это для мясного соуса. | Say that this is for meat sauce. | *(added)* |  |
+| 9 | Макс | Понял, сделаю всё быстро и тихо. | Understood, I will do everything quickly and quietly. | *(added)* |  |
+| 10 | Шеф | И фаршируй рыбу жюльеном с лимоном. | And stuff the fish with julienne and lemon. | *(added)* |  |
+| 11 | Шеф | Потом ставь её в горячую духовку. | Then put it into the hot oven. | *(added)* |  |
+| 12 | Макс | Слушаюсь, шеф, уже бегу! | Right away, chef, I'm already running! | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Go to the bar and bring cognac.' The chef uses two imperative verbs joined by the conjunction 'and' to give clear orders to his cook.
-- 'I wrote the name on this piece of paper.' The past tense verb indicates completed action, and the preposition specifies the location.
-- 'Go to the bar to keep up appearances.' This Russian idiom means doing something purely as a diversion so nobody suspects the truth.
-- 'And stuff the fish with julienne and lemon.' The verb is in the imperative mood, followed by the direct object in the accusative case. Okay, let's hear the full kitchen exchange once more.
+> Now you know how Barinov disguises his drinking habits as culinary tasks. Listen for these phrases next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'to run' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

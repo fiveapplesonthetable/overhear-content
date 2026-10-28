@@ -10,23 +10,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Сеня | Шеф, я немного шалфей добавил, попробуйте. | Chef, I added a little sage, try it. | #111 00:07:53: шалфей добавил<br>#112 00:07:58: Попробуйте | adapted: adapted |
-| 2 | Аня | Ты шалфей добавил? | You added sage? | #112 00:07:58: Шалфей добавил? | adapted: adapted |
-| 3 | Аня | Это же блюдо Виктора Баринова! | This is a dish by Viktor Barinov! | #114 00:08:04: Виктора Баринова | adapted: adapted |
+| 1 | Настя | Шеф, я немного шалфей добавил, попробуйте. | Chef, I added a little sage, try it. | #111 00:07:53: шалфей добавил<br>#112 00:07:58: Попробуйте | adapted: adapted |
+| 2 | Шеф | Ты шалфей добавил? | You added sage? | #112 00:07:58: Шалфей добавил? | adapted: adapted |
+| 3 | Шеф | Это же блюдо Виктора Баринова! | This is a dish by Viktor Barinov! | #114 00:08:04: Виктора Баринова | adapted: adapted |
 | 4 | Настя | Шеф, мы можем ребрышки из старого меню приготовить? | Chef, can we prepare ribs from the old menu? | #116 00:08:10: Шеф, мы можем ребрышки из старого меню | adapted: adapted |
 | 5 | Настя | Там просто префект пришел, требует ребрышки. | The prefect just arrived out there and demands ribs. | #117 00:08:14: Там просто префект пришел, требует ребрышки | adapted: exact |
 | 6 | Настя | Он сказал, что половину слов в меню не понял. | He said that he did not understand half the words on the menu. | #119 00:08:22: потому что половину слов он не понял | adapted: adapted |
-| 7 | Аня | У меня проверка из мэрии? | Do I have an inspection from city hall? | #121 00:08:28: У меня проверка из мэрии | adapted: adapted |
-| 8 | Аня | Николай Марьянович, мое почтение! | Nikolai Maryanovich, my respects! | #123 00:08:34: Николай Марьянович, мое почтение | adapted: exact |
-| 9 | Сеня | Здорово, Витя, кормить будешь? | Hello, Vitya, are you going to feed me? | #124 00:08:37: Здорово, Витя. Что, кормить будешь? | adapted: adapted |
-| 10 | Аня | Я рад предложить вам блюда из моего авторского меню. | I am glad to offer you dishes from my auteur menu. | #126 00:08:39: Я рад предложить вам блюда из моего авторского меню | adapted: exact |
-| 11 | Аня | Вы не волнуйтесь, все будет вкусно и быстро. | Do not worry, everything will be delicious and fast. | #130 00:08:56: вы не волнуйтесь, все будет вкусно и быстро | adapted: adapted |
-| 12 | Аня | Выбирайте блюдо. | Choose a dish. | #131 00:09:01: Выбирайте блюдо | adapted: exact |
+| 7 | Шеф | У меня проверка из мэрии? | Do I have an inspection from city hall? | #121 00:08:28: У меня проверка из мэрии | adapted: adapted |
+| 8 | Шеф | Николай Марьянович, мое почтение! | Nikolai Maryanovich, my respects! | #123 00:08:34: Николай Марьянович, мое почтение | adapted: exact |
+| 9 | Настя | Здорово, Витя, кормить будешь? | Hello, Vitya, are you going to feed me? | #124 00:08:37: Здорово, Витя. Что, кормить будешь? | adapted: adapted |
+| 10 | Шеф | Я рад предложить вам блюда из моего авторского меню. | I am glad to offer you dishes from my auteur menu. | #126 00:08:39: Я рад предложить вам блюда из моего авторского меню | adapted: exact |
+| 11 | Шеф | Вы не волнуйтесь, все будет вкусно и быстро. | Do not worry, everything will be delicious and fast. | #130 00:08:56: вы не волнуйтесь, все будет вкусно и быстро | adapted: adapted |
+| 12 | Шеф | Выбирайте блюдо. | Choose a dish. | #131 00:09:01: Выбирайте блюдо | adapted: exact |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, I added a little sage, try it.' Senya anchors the line on 'Chef Barinov', while 'try' completes the thought.
-- 'You added sage?' In Russian, the idea of 'you' flows naturally into 'added' without extra filler words.
+- 'You added sage?' In spoken Russian, the words stay in their normal statement order and Chef Barinov's rising voice at the end turns the line into a question.
 - 'This is a dish by Viktor Barinov!' Chef Barinov anchors the line on 'this', while 'dish' completes the thought. Nastya answers right away.
 - 'Chef, can we prepare ribs from the old menu?' Here the Russian phrasing highlights 'Chef Barinov' before landing on 'to prepare'.
 - 'The prefect just arrived out there and demands ribs.' The meaning hinges on 'there' working together with 'ribs' in spoken Russian.

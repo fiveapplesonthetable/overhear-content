@@ -1,27 +1,27 @@
 ID = 'kukhnya-s06e13-scene-14'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 13
 SCENE = 14
-TITLE = 'Тост за Дениса  (A Toast to Denis)'
+TITLE = "Тост за Дениса  (A Toast to Denis)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Денис', 'kostya': 'Костя', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "kostya": "anja"}
+LABELS = {"kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.13'
 SOURCE_FILE = 'sources/kukhnya/s06/e13.ru.srt'
 
 INTRO = 'In the kitchen, Fedya raises a glass to toast Denis as the staff gathers for his farewell party. Denis whispers to Kostya that things have gone too far, and Kostya suggests telling everyone that he changed his mind and is staying.'
 
 STORY = [
-    ('fedya', 'Я предлагаю сейчас выпить за друга.', 'I propose we drink to our friend right now.', [(194, 'я предлагаю выпить')], 'adapted'),
-    ('fedya', 'За самого умного человека на кухне.', 'To the smartest person in the kitchen.', [(194, 'за самого умного'), (196, 'человека на этой кухне')], 'adapted'),
-    ('fedya', 'Можем, конечно, и за Дениса выпить.', 'We can, of course, drink to Denis too.', [(197, 'можем за Дэна, конечно, выпить')], 'adapted'),
-    ('anya', 'Большое спасибо вам всем, мои друзья.', 'Thank you very much to all of you, my friends.', [(199, 'спасибо')], 'adapted'),
+    ('kostya', 'Я предлагаю сейчас выпить за друга.', 'I propose we drink to our friend right now.', [(194, 'я предлагаю выпить')], 'adapted'),
+    ('kostya', 'За самого умного человека на кухне.', 'To the smartest person in the kitchen.', [(194, 'за самого умного'), (196, 'человека на этой кухне')], 'adapted'),
+    ('kostya', 'Можем, конечно, и за Дениса выпить.', 'We can, of course, drink to Denis too.', [(197, 'можем за Дэна, конечно, выпить')], 'adapted'),
+    ('kostya', 'Большое спасибо вам всем, мои друзья.', 'Thank you very much to all of you, my friends.', [(199, 'спасибо')], 'adapted'),
     ('kostya', 'Друг, мы пьём сегодня за тебя.', 'My friend, we are drinking to you today.', [(200, 'за тебя')], 'adapted'),
-    ('anya', 'Костя, это всё зашло слишком далеко.', 'Kostya, all of this has gone too far.', [(201, 'это все зашло слишком далеко')], 'adapted'),
-    ('anya', 'Как сказать, что никуда не уезжаю?', 'How do I say that I am not going anywhere?', [(202, 'что ты никуда не уезжаешь')], 'adapted'),
-    ('anya', 'Я им сейчас весь праздник испорчу.', 'I will ruin the whole party for them right now.', [(204, 'Праздник испортишь')], 'adapted'),
+    ('kostya', 'Костя, это всё зашло слишком далеко.', 'Kostya, all of this has gone too far.', [(201, 'это все зашло слишком далеко')], 'adapted'),
+    ('kostya', 'Как сказать, что никуда не уезжаю?', 'How do I say that I am not going anywhere?', [(202, 'что ты никуда не уезжаешь')], 'adapted'),
+    ('kostya', 'Я им сейчас весь праздник испорчу.', 'I will ruin the whole party for them right now.', [(204, 'Праздник испортишь')], 'adapted'),
     ('kostya', 'Пусть они сначала ещё немного выпьют.', 'Let them drink a little more first.', [(204, 'Пусть они немножечко')], 'adapted'),
     ('kostya', 'Потом спокойно подойдёшь и скажешь всем.', 'Then you will calmly walk up and tell everyone.', [(205, 'Потом подойдешь, скажешь')], 'adapted'),
     ('kostya', 'Скажешь, что тебе с нами хорошо.', 'You will say that you feel good with us.', [(206, 'Мне с вами так хорошо')], 'adapted'),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Kostya convinces Denis that everyone will be thrilled if he announces he is staying right after another toast. See you in the next scene.'
-CLOSING = ('kostya', 'Скажи, что ты остаёшься.')
+OUTRO = 'Kostya convinces Denis that everyone will be thrilled if he announces he is staying right after another toast. See you next time!'
+CLOSING = ("kostya", "Увидимся!")

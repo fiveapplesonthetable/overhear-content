@@ -17,11 +17,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Никита | С тобой сегодня вечером так весело! | It is so much fun with you tonight! | #145 00:08:37: С тобой так весело | adapted: adapted |
 | 6 | Никита | Костя, только много мне не наливай. | Kostya, just do not pour me too much. | #149 00:08:52: Много не лей | adapted: adapted |
 | 7 | Никита | Я ещё хочу проводить Катю домой. | I still want to walk Katya home. | #149 00:08:52: Я еще хочу Катю проводить | adapted: adapted |
-| 8 | Аня | Может, тогда выпьешь что-нибудь полегче? | Maybe then you will drink something lighter? | #150 00:08:56: может, тогда вообще что-нибудь полегче | adapted: adapted |
-| 9 | Аня | Начальник, доверься в этом деле профессионалу. | Boss, trust a professional in this matter. | #151 00:08:59: Начальник, доверьте профессионалу | adapted: adapted |
-| 10 | Аня | Я сделаю тебе свой фирменный коктейль. | I will make you my signature cocktail. | #152 00:09:02: коктейль, называется | adapted: adapted |
+| 8 | Никита | Может, тогда выпьешь что-нибудь полегче? | Maybe then you will drink something lighter? | #150 00:08:56: может, тогда вообще что-нибудь полегче | adapted: adapted |
+| 9 | Никита | Начальник, доверься в этом деле профессионалу. | Boss, trust a professional in this matter. | #151 00:08:59: Начальник, доверьте профессионалу | adapted: adapted |
+| 10 | Никита | Я сделаю тебе свой фирменный коктейль. | I will make you my signature cocktail. | #152 00:09:02: коктейль, называется | adapted: adapted |
 | 11 | Никита | Что это за интересный коктейль такой? | What kind of interesting cocktail is that? | #153 00:09:06: Что за коктейль такой | adapted: adapted |
-| 12 | Аня | Угощайся, это подарок за счёт заведения. | Enjoy, it is a gift on the house. | #156 00:09:18: За счет заведения | adapted: adapted |
+| 12 | Никита | Угощайся, это подарок за счёт заведения. | Enjoy, it is a gift on the house. | #156 00:09:18: За счет заведения | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

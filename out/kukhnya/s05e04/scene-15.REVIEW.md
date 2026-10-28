@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Обслуживание номеров. | Room service. | #227 00:17:18: Обслуживание номеров | adapted: adapted |
+| 1 | Шеф | Обслуживание номеров. | Room service. | #227 00:17:18: Обслуживание номеров | adapted: adapted |
 | 2 | Элеонора | Ходите. В ванную идите, | Come in. Bring it into the bathroom, | #228 00:17:19: Ходите. В ванную | adapted: adapted |
 | 3 | Элеонора | я здесь в ванной. | I am right here in the bathroom. | #229 00:17:25: я здесь | adapted: adapted |
 | 4 | Элеонора | Привет, проходи сюда. | Hello, come right in. | #230 00:17:32: Привет | adapted: adapted |

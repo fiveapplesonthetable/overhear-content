@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e02-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 2
 SCENE = 15
-TITLE = 'Итоги спора  (Results of the Bet)'
+TITLE = "Итоги спора  (Results of the Bet)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'ilya': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'ilya': 'Илья'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "vika": "angelina", "anya": "alisa", "ilya": "anja"}
+LABELS = {"vika": "Вика", "anya": "Макс", "ilya": "Илья"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.02'
 SOURCE_FILE = 'sources/kukhnya/s03/e02.ru.srt'
 
 INTRO = "At the end of the shift, Vika reads out each waiter's tip total: Ilya edges out Max by fifty rubles, but to everyone's surprise, Nastya wins the entire pool."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes Scene Fifteen. Listen for Ilya celebrating prematurely over beating Max by fifty rubles right before Vika announces Nastya's winning total."
-CLOSING = ('vika', 'Но это ещё не предел!')
+OUTRO = "And that finishes Scene Fifteen. Listen for Ilya celebrating prematurely over beating Max by fifty rubles right before Vika announces Nastya's winning total. Until next time!"
+CLOSING = ("vika", "До завтра!")

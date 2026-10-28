@@ -12,16 +12,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Елена | Доброе утро. | Good morning. | #1 00:00:45: Доброе утро | adapted: adapted |
 | 2 | Елена | Иди потом позавтракай. | Go have breakfast later. | #2 00:00:48: Иди потом позавтракай | adapted: adapted |
-| 3 | Аня | У вас неполный перелом ребра. | You have an incomplete rib fracture. | #4 00:00:59: вас неполный перелом ребра | adapted: adapted |
-| 4 | Аня | Как я и предполагал. | Just as I assumed. | #4 00:00:59: как я и предполагал | adapted: adapted |
-| 5 | Шеф | Вы же сказали, трещина. | You said it was a crack. | #5 00:01:05: сказали трещина | adapted: adapted |
-| 6 | Аня | Ну, это она и есть. | Well, that is what it is. | #5 00:01:05: Ну, это она и есть | adapted: adapted |
-| 7 | Аня | Радуйтесь. Как была получена травма? | Be glad. How was the injury sustained? | #6 00:01:07: Радуйтесь<br>#6 00:01:07: была получена травма | adapted: adapted |
-| 8 | Шеф | Только шкаф упал. | Only a wardrobe fell. | #7 00:01:11: Только шкаф<br>#8 00:01:14: Упал | adapted: adapted |
-| 9 | Аня | Большой? | A big one? | #8 00:01:14: Большой | adapted: adapted |
-| 10 | Шеф | Килограммов сто. | About a hundred kilograms. | #9 00:01:17: Килограммов сто | adapted: adapted |
+| 3 | Врач | У вас неполный перелом ребра. | You have an incomplete rib fracture. | #4 00:00:59: вас неполный перелом ребра | adapted: adapted |
+| 4 | Врач | Как я и предполагал. | Just as I assumed. | #4 00:00:59: как я и предполагал | adapted: adapted |
+| 5 | Врач | Вы же сказали, трещина. | You said it was a crack. | #5 00:01:05: сказали трещина | adapted: adapted |
+| 6 | Врач | Ну, это она и есть. | Well, that is what it is. | #5 00:01:05: Ну, это она и есть | adapted: adapted |
+| 7 | Врач | Радуйтесь. Как была получена травма? | Be glad. How was the injury sustained? | #6 00:01:07: Радуйтесь<br>#6 00:01:07: была получена травма | adapted: adapted |
+| 8 | Врач | Только шкаф упал. | Only a wardrobe fell. | #7 00:01:11: Только шкаф<br>#8 00:01:14: Упал | adapted: adapted |
+| 9 | Врач | Большой? | A big one? | #8 00:01:14: Большой | adapted: adapted |
+| 10 | Врач | Килограммов сто. | About a hundred kilograms. | #9 00:01:17: Килограммов сто | adapted: adapted |
 | 11 | Елена | Даже побольше будет. | It is even heavier than that. | #9 00:01:17: побольше будет | adapted: adapted |
-| 12 | Шеф | Сто двадцать. | One hundred and twenty. | #11 00:01:25: Сто двадцать | adapted: adapted |
+| 12 | Врач | Сто двадцать. | One hundred and twenty. | #11 00:01:25: Сто двадцать | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

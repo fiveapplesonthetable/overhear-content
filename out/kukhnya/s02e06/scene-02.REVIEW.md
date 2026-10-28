@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Извините, но в данный момент ваше место занято. | Excuse me, but at the moment your parking spot is taken. | #15 00:02:07: Извините, но в данный момент ваше место занято | verbatim |
-| 2 | Макс | Ты ж знал. | You knew it was mine. | #16 00:02:11: ты ж знал | verbatim |
-| 3 | Аня | И вот уже который год. | And for how many years now. | #17 00:02:15: И вот уже который год | verbatim |
-| 4 | Макс | В общем. | In short. | #18 00:02:21: в общем | verbatim |
-| 5 | Аня | Я понимаю, все правильно. | I understand, everything is fine. | #19 00:02:23: Я понимаю, все правильно | verbatim |
-| 6 | Макс | А человек приехал и заплатил. | A man drove up and paid for it. | #21 00:02:29: А человек приехал и заплатил | verbatim |
-| 7 | Аня | Какая неожиданная встреча. | What an unexpected meeting. | #24 00:02:36: Какая неожиданная встреча | verbatim |
-| 8 | Макс | А ты что здесь делаешь? | And what are you doing here? | #25 00:02:38: а ты что здесь делаешь | verbatim |
-| 9 | Аня | Между прочим, это он занял ваше место. | By the way, he is the one who took your spot. | #26 00:02:39: Между прочим, это он занял ваше место | verbatim |
-| 10 | Макс | Шеф, у меня встречное предложение. | Chef, I have a counter-proposal. | #28 00:02:45: Шеф, у меня встречное предложение | verbatim |
-| 11 | Аня | Я сам, шеф. | I will handle it myself, Chef. | #30 00:02:55: Я сам, шеф | verbatim |
-| 12 | Макс | Черт, опять лажанулся. | Damn, I screwed up again. | #31 00:02:58: Черт, опять лажанулся | verbatim |
-| 13 | Аня | Откуда я мог знать? | How was I supposed to know? | #32 00:03:00: откуда я мог знать | verbatim |
+| 1 | Шеф | Извините, но в данный момент ваше место занято. | Excuse me, but at the moment your parking spot is taken. | #15 00:02:07: Извините, но в данный момент ваше место занято | verbatim |
+| 2 | Аня | Ты ж знал. | You knew it was mine. | #16 00:02:11: ты ж знал | verbatim |
+| 3 | Шеф | И вот уже который год. | And for how many years now. | #17 00:02:15: И вот уже который год | verbatim |
+| 4 | Аня | В общем. | In short. | #18 00:02:21: в общем | verbatim |
+| 5 | Шеф | Я понимаю, все правильно. | I understand, everything is fine. | #19 00:02:23: Я понимаю, все правильно | verbatim |
+| 6 | Аня | А человек приехал и заплатил. | A man drove up and paid for it. | #21 00:02:29: А человек приехал и заплатил | verbatim |
+| 7 | Шеф | Какая неожиданная встреча. | What an unexpected meeting. | #24 00:02:36: Какая неожиданная встреча | verbatim |
+| 8 | Аня | А ты что здесь делаешь? | And what are you doing here? | #25 00:02:38: а ты что здесь делаешь | verbatim |
+| 9 | Шеф | Между прочим, это он занял ваше место. | By the way, he is the one who took your spot. | #26 00:02:39: Между прочим, это он занял ваше место | verbatim |
+| 10 | Аня | Шеф, у меня встречное предложение. | Chef, I have a counter-proposal. | #28 00:02:45: Шеф, у меня встречное предложение | verbatim |
+| 11 | Шеф | Я сам, шеф. | I will handle it myself, Chef. | #30 00:02:55: Я сам, шеф | verbatim |
+| 12 | Аня | Черт, опять лажанулся. | Damn, I screwed up again. | #31 00:02:58: Черт, опять лажанулся | verbatim |
+| 13 | Шеф | Откуда я мог знать? | How was I supposed to know? | #32 00:03:00: откуда я мог знать | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

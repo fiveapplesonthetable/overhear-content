@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Maybe you simply do not remember anything?' In Russian, the idea of 'yes' flows naturally into 'remember' without extra filler words.
 - 'After all, that sometimes happens to you.' The meaning hinges on 'at' working together with 'such' in spoken Russian. Max answers right away.
 - 'I know for sure that I did not sleep with her.' The '-l' ending on the verb meaning 'slept' places the action in the masculine past tense.
-- 'And it seems to me she is lying to all of us.' The grammar packs 'and' and 'is lying' into a tight, idiomatic kitchen exchange.
+- 'And it seems to me she is lying to all of us.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
 - 'Then she must have exact proof.' Notice how Russian expresses 'then' and 'proof' with crisp inflection rather than helper words.
 - 'We just need to do one quick test.' Here the Russian phrasing highlights 'needed' before landing on 'test'.
 - 'Boys, come inside to us for lunch quickly!' The meaning hinges on 'boys' working together with 'lunch' in spoken Russian.

@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e19-scene-18"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e19-scene-18'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 19
 SCENE = 18
-TITLE = 'Разговор с гостем и предложение стать официантом  (Chatting with a Guest and an Offer to Wait Tables)'
+TITLE = "Разговор с гостем и предложение стать официантом  (Chatting with a Guest and an Offer to Wait Tables)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.19"
-SOURCE_FILE = "sources/kukhnya/s02/e19.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.19'
+SOURCE_FILE = 'sources/kukhnya/s02/e19.ru.srt'
 
 INTRO = 'At her table, the director compliments her foreign companion Luca on his excellent Russian, which he learned from his mother years ago. Meanwhile, desperate to get food out to the tables, Chef Barinov asks Max if he wants to go work as a waiter in the dining room.'
 
@@ -41,13 +41,12 @@ WALK = [
     (6, None, "'Just a couple of years ago.' The meaning hinges on 'couple' working together with 'back' in spoken Russian."),
     (7, None, "'I know.' Notice how Russian expresses 'I' and 'know' with crisp inflection rather than helper words."),
     (8, None, "'Yes, please do not worry.' Max anchors the line on 'yes', while 'worry' completes the thought. Vika answers right away."),
-    (9, None, "'Do not worry at all. No.' Notice the reflexive suffix on the verb meaning 'worry', turning the action back on the subject."),
+    (9, None, "'Do not worry at all. No.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'."),
     (10, None, "'Listen, Oguzok, maybe you should go work as a waiter?' Spoken Russian keeps this brisk, leaning on 'listen' and finishing on 'will go'."),
     (11, None, "'Rather than standing around in here.' The grammar packs 'what' and 'here' into a tight, idiomatic kitchen exchange. Max answers right away."),
     (12, None, "'Why not, maybe I actually will?' The meaning hinges on 'what' working together with 'go' in spoken Russian."),
 ]
 
 TRANSITION = "Now let's listen to the entire scene again without interruption."
-
-OUTRO = 'When you watch Scene 18 of Episode 19, listen out for the exchange around chatting with a guest and an offer to wait tables — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Че, может и пойду?')
+OUTRO = "That wraps up this scene as the director chats in Russian with her foreign companion Luca while Chef Barinov suggests that Max put on a waiter's apron and go serve the dining room. See you next time!"
+CLOSING = ("anya", "До завтра!")

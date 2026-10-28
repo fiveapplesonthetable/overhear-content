@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Five minutes is not being late.' Here the Russian phrasing highlights 'five' before landing on 'lateness'.
 - 'If the mustachioed walrus asks, I arrived on time.' Here the Russian phrasing highlights 'if' before landing on 'on time'.
 - 'Then you get a fine of half a paycheck.' The meaning hinges on 'then' working together with 'half a paycheck' in spoken Russian.
-- 'Be late one more time and you will be left without a paycheck.' Notice the reflexive suffix on the verb meaning 'will stay', turning the action back on the subject. Max answers right away.
+- 'Be late one more time and you will be left without a paycheck.' Here Lyova anchors the thought on 'else/more' and finishes on 'will stay, remain', keeping the spoken rhythm brisk and natural.
 - 'Lyova, but that is unfair!' The meaning hinges on 'Lyova' working together with 'unfair' in spoken Russian.
 - 'And for the walrus comment, you are taking out the trash all day.' In Russian, the idea of 'and' flows naturally into 'take out' without extra filler words.
 - 'Now everything is fair, right?' Spoken Russian keeps this brisk, leaning on 'now' and finishing on 'yes'. Max answers right away.

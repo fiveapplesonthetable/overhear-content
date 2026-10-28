@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Maksim. I do not know.' In Russian, the idea of 'Maxim' flows naturally into 'know' without extra filler words.
-- 'He did not like the vegetarian rolls.' Notice the reflexive suffix on the verb meaning 'pleased', turning the action back on the subject.
+- 'He did not like the vegetarian rolls.' Chef Barinov pairs 'vegetarian' with 'pleased, made a good impression' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Just the way he asked.' Spoken Russian keeps this brisk, leaning on 'how' and finishing on 'ask for'. Max answers right away.
 - 'Maksim, he asked you to make them just like this morning.' The meaning hinges on 'Maxim' working together with 'in the morning' in spoken Russian.
 - 'Anyway, please try to remember how you made them.' In Russian, the idea of 'short' flows naturally into 'there you go' without extra filler words.

@@ -21,7 +21,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Сеня | Федю отговорить увольняться. | To talk Fedya out of quitting. | #163 00:11:18: Федю отговорить увольняться | adapted: adapted |
 | 10 | Шеф | А кому нужен этот Федя? | And who needs this Fedya? | #164 00:11:21: А кому нужен-то этот Федя | adapted: adapted |
 | 11 | Сеня | Спасибо, шеф, умеете уговаривать! | Thank you, chef, you really know how to persuade! | #165 00:11:23: Спасибо, шеф. Умеете уговаривать | adapted: adapted |
-| 12 | Шеф | Вы что, издеваетесь? Что ты там прячешь? Или вы работаете, или вашу зарплату поделят другие люди! | Are you mocking me? What are you hiding there? Either you work, or other people will split your salary! | #167 00:11:28: Вы что, издеваетесь<br>#168 00:11:31: Что ты там прячешь<br>#169 00:11:33: Или вы работаете, или вашу зарплату поделят другие люди | adapted: adapted |
+| 12 | Шеф | Или вы работаете, или вашу зарплату поделят другие люди! | Either you work, or other people will split your salary! | #169 00:11:33: Или вы работаете, или вашу зарплату поделят другие люди | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'To talk Fedya out of quitting.' Notice how Russian expresses 'proper name' and 'to quit' with crisp inflection rather than helper words. Chef Barinov answers right away.
 - 'And who needs this Fedya?' Here the Russian phrasing highlights 'and' before landing on 'Fedya'.
 - 'Thank you, chef, you really know how to persuade!' The meaning hinges on 'thank you' working together with 'to persuade' in spoken Russian.
-- 'Are you mocking me? What are you hiding there? Either you work, or other people will split your salary!' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'people'.
+- 'Either you work, or other people will split your salary!' Notice how Russian puts 'work' and 'people' together in a short, direct phrase where word endings show how the ideas connect.

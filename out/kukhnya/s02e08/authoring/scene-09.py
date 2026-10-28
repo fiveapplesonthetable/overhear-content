@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e08-scene-09"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e08-scene-09'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 8
 SCENE = 9
 TITLE = "Вторая стычка с отцом Насти и соцсеть  (Second Clash with Nastya's Father and Social Media)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'max': 'anja'}
-LABELS = {'anya': 'Шеф', 'max': 'Макс'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.08"
-SOURCE_FILE = "sources/kukhnya/s02/e08.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.08'
+SOURCE_FILE = 'sources/kukhnya/s02/e08.ru.srt'
 
 INTRO = "Visiting Nastya's father at his meatpacking plant to apologize for their last fight, Kostya gets goaded into showing how he threw the punch and accidentally breaks her father's nose all over again. Back at the restaurant, Max tells Chef Barinov that he registered him on the social network and added Elena."
 
 STORY = [
-    ('anya', 'Я проспорю.', 'I am going to lose this bet.', [(151, 'Я проспорю')], ''),
-    ('max', 'Ну, что хотел?', 'Well, what did you want?', [(152, 'Ну, что хотел')], ''),
-    ('anya', 'Врасплох же стал меня побил.', 'You only beat me last time because you caught me off guard.', [(155, 'Врасплох же стал меня побил')], ''),
-    ('max', 'Ну, можно и так сказать.', 'Well, you could put it that way.', [(156, 'Ну, можно и так сказать')], ''),
-    ('anya', 'Я что-то не понял.', 'Wait, I did not quite get that.', [(157, 'Я что-то не понял')], ''),
-    ('max', 'Ну, бей давай, я тебе покажу.', 'Come on, throw a punch, I will show you how to block it.', [(159, 'Ну, бей давай, я тебе покажу')], ''),
-    ('anya', 'А, ну тогда я буду.', 'Oh, well in that case, here I go.', [(161, 'А, ну тогда я буду')], ''),
-    ('max', 'Извините, извините, пожалуйста.', 'I am so sorry, please forgive me.', [(162, 'Извините, извините, пожалуйста')], ''),
-    ('anya', 'Мне кажется, он вас сломал.', 'I think he just broke your nose.', [(164, 'Мне кажется, он вас сломал')], ''),
-    ('max', 'Шеф, добрый день.', 'Chef, good afternoon.', [(165, 'Шеф, добрый день')], ''),
-    ('anya', 'Я что сказать хотел?', 'What I wanted to tell you is...', [(167, 'Я что сказать хотел')], ''),
-    ('max', 'Вы меня в друзья добавьте?', 'Did you add me as a friend?', [(168, 'Вы меня в друзья добавьте')], ''),
-    ('anya', 'Я тебе сейчас в фарш добавлю.', 'I am about to add you to the meat grinder.', [(170, 'Я тебе сейчас в фарш добавлю')], ''),
+    ('chef', 'Я проспорю.', 'I am going to lose this bet.', [(151, 'Я проспорю')], ''),
+    ('anya', 'Ну, что хотел?', 'Well, what did you want?', [(152, 'Ну, что хотел')], ''),
+    ('chef', 'Врасплох же стал меня побил.', 'You only beat me last time because you caught me off guard.', [(155, 'Врасплох же стал меня побил')], ''),
+    ('anya', 'Ну, можно и так сказать.', 'Well, you could put it that way.', [(156, 'Ну, можно и так сказать')], ''),
+    ('chef', 'Я что-то не понял.', 'Wait, I did not quite get that.', [(157, 'Я что-то не понял')], ''),
+    ('anya', 'Ну, бей давай, я тебе покажу.', 'Come on, throw a punch, I will show you how to block it.', [(159, 'Ну, бей давай, я тебе покажу')], ''),
+    ('chef', 'А, ну тогда я буду.', 'Oh, well in that case, here I go.', [(161, 'А, ну тогда я буду')], ''),
+    ('anya', 'Извините, извините, пожалуйста.', 'I am so sorry, please forgive me.', [(162, 'Извините, извините, пожалуйста')], ''),
+    ('chef', 'Мне кажется, он вас сломал.', 'I think he just broke your nose.', [(164, 'Мне кажется, он вас сломал')], ''),
+    ('anya', 'Шеф, добрый день.', 'Chef, good afternoon.', [(165, 'Шеф, добрый день')], ''),
+    ('chef', 'Я что сказать хотел?', 'What I wanted to tell you is...', [(167, 'Я что сказать хотел')], ''),
+    ('anya', 'Вы меня в друзья добавьте?', 'Did you add me as a friend?', [(168, 'Вы меня в друзья добавьте')], ''),
+    ('chef', 'Я тебе сейчас в фарш добавлю.', 'I am about to add you to the meat grinder.', [(170, 'Я тебе сейчас в фарш добавлю')], ''),
 ]
 
 OPENER = "Let's replay the exchange and look closely at each Russian phrase."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = "When you watch Scene 9 of Episode 8, listen out for the exchange around second clash with nastya's father and social media — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('max', 'Вы меня в друзья добавьте?')
+OUTRO = "That wraps up this scene as kostya visits Nastya's father at his sausage factory to apologize, only to accidentally break his nose in a sparring demonstration, while Max registers Barinov online. Until next time!"
+CLOSING = ("anya", "До свидания!")

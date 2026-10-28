@@ -18,14 +18,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Денис | А с этим поваром что делать? | And what should we do with this chef? | #239 00:18:16: А с этим что делать | adapted: adapted |
 | 7 | Денис | Инвалид пусть тихо сидит в кресле. | Let the disabled man sit quietly in his chair. | #240 00:18:19: Инвалид пусть сидит в кресле | adapted: adapted |
 | 8 | Денис | Посмотри, скольким людям ты принёс проблемы. | Look how many people you brought trouble to. | #241 00:18:23: скольким людям ты доставляешь проблемы | adapted: adapted |
-| 9 | Аня | А ну не трогай мою дочь! | Hey, do not touch my daughter! | #245 00:18:35: Не трогай её | adapted: adapted |
+| 9 | Денис | А ну не трогай мою дочь! | Hey, do not touch my daughter! | #245 00:18:35: Не трогай её | adapted: adapted |
 | 10 | Денис | Сейчас мы забираем этих двоих. | Right now we are taking these two. | #247 00:18:43: Сейчас мы забираем | adapted: adapted |
 | 11 | Денис | Мы быстро уходим из ресторана. | We are leaving the restaurant quickly. | #247 00:18:43: и уходим | adapted: adapted |
 | 12 | Денис | Вы сидите тихо и не шумите. | You sit quietly and do not make noise. | #248 00:18:47: Вы сидите тихо и не шумите | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This dish is simply utterly divine!' In Russian, the idea of 'this' flows naturally into 'divine' without extra filler words.
+- 'This dish is simply utterly divine!' the inspector pairs 'dish' with 'divine / heavenly' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Consider the star in your pocket.' Spoken Russian keeps this brisk, leaning on 'consider' and finishing on 'pocket'.
 - 'What is happening, call the police quickly!' Notice how Russian expresses 'what' and 'the police' with crisp inflection rather than helper words.
 - 'I would not do that in your place.' Spoken Russian keeps this brisk, leaning on 'I' and finishing on 'to do'.

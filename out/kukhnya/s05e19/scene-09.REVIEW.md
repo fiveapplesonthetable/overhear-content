@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Дима, не дави, из ресторана просто не уйдёшь. | Dima, do not push, you cannot just walk out of a restaurant. | #151 00:10:37: Не дави<br>#153 00:10:43: из ресторана так просто не уйдёшь | adapted: adapted |
-| 2 | Аня | Нужно сначала кого-то на своё место назначить. | First I need to appoint someone in my place. | #154 00:10:46: Нужно кого-то на своё место назначить | adapted: adapted |
-| 3 | Макс | Шеф, вы уже прочитали мой план? | Chef, have you read my plan yet? | #156 00:10:51: Шеф, прочитали мой план | adapted: adapted |
-| 4 | Аня | Вот, знакомься, этого человека попробую. | Here, meet him, I will try this fellow out. | #157 00:10:55: Вот человека пробую | adapted: adapted |
-| 5 | Аня | Он даже план оптимизации кухни составил. | He even drew up a kitchen optimization plan. | #158 00:11:01: Он уже даже план оптимизации кухни составил | adapted: adapted |
+| 1 | Шеф | Дима, не дави, из ресторана просто не уйдёшь. | Dima, do not push, you cannot just walk out of a restaurant. | #151 00:10:37: Не дави<br>#153 00:10:43: из ресторана так просто не уйдёшь | adapted: adapted |
+| 2 | Шеф | Нужно сначала кого-то на своё место назначить. | First I need to appoint someone in my place. | #154 00:10:46: Нужно кого-то на своё место назначить | adapted: adapted |
+| 3 | Аня | Шеф, вы уже прочитали мой план? | Chef, have you read my plan yet? | #156 00:10:51: Шеф, прочитали мой план | adapted: adapted |
+| 4 | Шеф | Вот, знакомься, этого человека попробую. | Here, meet him, I will try this fellow out. | #157 00:10:55: Вот человека пробую | adapted: adapted |
+| 5 | Шеф | Он даже план оптимизации кухни составил. | He even drew up a kitchen optimization plan. | #158 00:11:01: Он уже даже план оптимизации кухни составил | adapted: adapted |
 | 6 | Нагиев | Мне он, кстати, всегда очень нравился. | By the way, I have always liked him a lot. | #159 00:11:05: Мне всегда нравился | adapted: adapted |
-| 7 | Аня | Кухня, внимание, я назначаю Лаврова шефом! | Kitchen, attention, I am appointing Lavrov head chef! | #164 00:11:18: Внимание<br>#166 00:11:27: Я назначаю Лаврова | adapted: adapted |
-| 8 | Аня | Пока только на испытательный срок, на один день. | For now only on a trial period, for one day. | #171 00:11:40: Пока только на испытательный срок, на один день | adapted: adapted |
-| 9 | Аня | Лёва, я тебе потом всё объясню. | Lyova, I will explain everything to you later. | #172 00:11:43: Лев, я потом все объясню | adapted: adapted |
-| 10 | Аня | Всё, ребята, продолжайте спокойно работать! | That is all, guys, keep working calmly! | #172 00:11:43: Все, все, работайте | adapted: adapted |
-| 11 | Аня | Мне надо срочно с бумагами разобраться. | I urgently need to sort out some paperwork. | #173 00:11:47: с бумагами разобраться | adapted: adapted |
-| 12 | Макс | Спасибо за доверие, я вас не подведу! | Thank you for the trust, I will not let you down! | #156 00:10:51: мой план | adapted: adapted |
+| 7 | Шеф | Кухня, внимание, я назначаю Лаврова шефом! | Kitchen, attention, I am appointing Lavrov head chef! | #164 00:11:18: Внимание<br>#166 00:11:27: Я назначаю Лаврова | adapted: adapted |
+| 8 | Шеф | Пока только на испытательный срок, на один день. | For now only on a trial period, for one day. | #171 00:11:40: Пока только на испытательный срок, на один день | adapted: adapted |
+| 9 | Шеф | Лёва, я тебе потом всё объясню. | Lyova, I will explain everything to you later. | #172 00:11:43: Лев, я потом все объясню | adapted: adapted |
+| 10 | Шеф | Всё, ребята, продолжайте спокойно работать! | That is all, guys, keep working calmly! | #172 00:11:43: Все, все, работайте | adapted: adapted |
+| 11 | Шеф | Мне надо срочно с бумагами разобраться. | I urgently need to sort out some paperwork. | #173 00:11:47: с бумагами разобраться | adapted: adapted |
+| 12 | Аня | Спасибо за доверие, я вас не подведу! | Thank you for the trust, I will not let you down! | #156 00:10:51: мой план | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

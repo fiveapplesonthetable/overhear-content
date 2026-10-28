@@ -1,31 +1,31 @@
 ID = 'kukhnya-s05e14-scene-01'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 14
 SCENE = 1
-TITLE = 'Подарок на годовщину  (The Anniversary Gift)'
+TITLE = "Подарок на годовщину  (The Anniversary Gift)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'elena': 'anja', 'senya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'elena': 'Елена', 'senya': 'Сеня'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.14"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "elena": "angelina"}
+LABELS = {"chef": "Шеф", "elena": "Елена"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.14'
 SOURCE_FILE = 'sources/kukhnya/s05/e14.ru.srt'
 
 INTRO = 'On the eve of a major Spartak derby that falls on his anniversary with Elena Pavlovna, Chef Barinov prepares to sacrifice the match—until Elena surprises him with a coveted VIP ticket.'
 
 STORY = [
     ('elena', 'Витя, у меня для тебя есть подарок.', 'Vitya, I have a gift for you.', [(9, 'У меня для тебя подарок')], 'adapted'),
-    ('anya', 'Спасибо, дорогая, поздравляю нас с годовщиной!', 'Thank you, darling, happy anniversary to us!', [(11, 'С годовщиной')], 'adapted'),
-    ('anya', 'Как тебе это удалось? Их нет в продаже!', 'How did you manage that? They are sold out!', [(14, 'Как тебе это удалось? Их давно нет в продаже')], 'adapted'),
+    ('chef', 'Спасибо, дорогая, поздравляю нас с годовщиной!', 'Thank you, darling, happy anniversary to us!', [(11, 'С годовщиной')], 'adapted'),
+    ('chef', 'Как тебе это удалось? Их нет в продаже!', 'How did you manage that? They are sold out!', [(14, 'Как тебе это удалось? Их давно нет в продаже')], 'adapted'),
     ('elena', 'Видишь, к сожалению, достался только один билет.', 'You see, unfortunately, I only got one ticket.', [(16, 'только один билет, к сожалению')], 'adapted'),
-    ('anya', 'Нет, это наш с тобой общий праздник.', 'No, this is our shared holiday together.', [(18, 'это наш с тобой праздник')], 'adapted'),
-    ('anya', 'Мы же хотели отпраздновать этот день вместе.', 'We wanted to celebrate this day together.', [(19, 'Мы хотели его отпраздновать вместе')], 'adapted'),
-    ('anya', 'Я просто не могу принять такой подарок.', 'I simply cannot accept such a gift.', [(20, 'Я не могу это принять')], 'adapted'),
+    ('chef', 'Нет, это наш с тобой общий праздник.', 'No, this is our shared holiday together.', [(18, 'это наш с тобой праздник')], 'adapted'),
+    ('chef', 'Мы же хотели отпраздновать этот день вместе.', 'We wanted to celebrate this day together.', [(19, 'Мы хотели его отпраздновать вместе')], 'adapted'),
+    ('chef', 'Я просто не могу принять такой подарок.', 'I simply cannot accept such a gift.', [(20, 'Я не могу это принять')], 'adapted'),
     ('elena', 'Я прекрасно понимаю, как важен этот матч.', 'I understand perfectly how important this match is.', [(21, 'Я прекрасно понимаю, насколько для тебя важен этот матч')], 'adapted'),
     ('elena', 'А праздник мы отметим в другой день.', 'And we will celebrate the holiday on another day.', [(23, 'А отпразднуем в любой другой день')], 'adapted'),
-    ('anya', 'Святая женщина, просто настоящая святая женщина!', 'A saintly woman, simply a true saint of a woman!', [(26, 'Святая женщина, святая')], 'adapted'),
-    ('senya', 'А мне Марина на годовщину тапки подарила.', 'And Marina gave me slippers for our anniversary.', [(27, 'А мне Марина годовщину тапки подарила')], 'adapted'),
-    ('senya', 'Правда, потом она себе их и забрала.', 'True, later she took them back for herself.', [(28, 'потом себе их забрала')], 'adapted'),
+    ('chef', 'Святая женщина, просто настоящая святая женщина!', 'A saintly woman, simply a true saint of a woman!', [(26, 'Святая женщина, святая')], 'adapted'),
+    ('elena', 'А мне Марина на годовщину тапки подарила.', 'And Marina gave me slippers for our anniversary.', [(27, 'А мне Марина годовщину тапки подарила')], 'adapted'),
+    ('elena', 'Правда, потом она себе их и забрала.', 'True, later she took them back for herself.', [(28, 'потом себе их забрала')], 'adapted'),
 ]
 
 OPENER = "Now let's go back through their conversation line by line and unpack the Russian phrasing."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Overjoyed by Elena's generosity, Chef Barinov shows off his VIP ticket, which immediately attracts Mikhail's attention. See you in the next scene."
-CLOSING = ('anya', 'Святая женщина, просто святая!')
+OUTRO = "In this moment, overjoyed by Elena's generosity, Chef Barinov shows off his VIP ticket, which immediately attracts Mikhail's attention. See you next time!"
+CLOSING = ("chef", "До встречи!")

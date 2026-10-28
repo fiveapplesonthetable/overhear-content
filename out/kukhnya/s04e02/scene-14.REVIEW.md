@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry that I left. I let everyone down.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'But I am ready to fix everything.' Notice how Max pairs a modal word or finite verb with an infinitive to express the action.
-- 'Here, meet Denis, my brother.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Let's take him on for vegetable prep, huh?' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Lyova, you said yourself that we are short-handed.' Max places the negative particle directly before the verb or predicate to negate the statement.
-- 'And he is a responsible person.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
+- 'Sorry that I left. I let everyone down.' Here Max anchors the thought on 'sorry' and finishes on 'to let down, fail', keeping the spoken rhythm brisk and natural.
+- 'But I am ready to fix everything.' In everyday Russian, 'ready' flows straight into 'to fix, to correct' without extra linking words.
+- 'Here, meet Denis, my brother.' Max pairs 'to get acquainted, to meet' with 'brother' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Let's take him on for vegetable prep, huh?' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'Lyova, you said yourself that we are short-handed.' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'And he is a responsible person.' In everyday Russian, 'man' flows straight into 'responsible, crucial' without extra linking words.
 - 'And what about work experience?' Lyova raises the pitch on the key word to turn this short Russian clause into a direct question.
-- 'Well, he worked as a cook at the best restaurant in Voronezh.' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'So he can definitely handle prep work, right?' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'I don't know, I need to ask first.' Lyova uses natural conversational word order here to highlight the most important part of the reply.
+- 'Well, he worked as a cook at the best restaurant in Voronezh.' Notice how Russian puts 'so, like this' and 'Voronezh' together in a short, direct phrase where word endings show how the ideas connect.
+- 'So he can definitely handle prep work, right?' Here Max anchors the thought on 'so, like this' and finishes on 'to manage, to cope, to handle', keeping the spoken rhythm brisk and natural.
+- 'I don't know, I need to ask first.' Russian expresses feelings and needs by saying 'to me it is needed' or 'to me it seems', putting the person in the 'to me' form.
 - 'Ask whom? Now you decide everything here.' Max addresses the listener with the informal singular pronoun, showing a close or familiar relationship.
-- 'Alright, let him come tomorrow for a trial period.' Lyova keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
+- 'Alright, let him come tomorrow for a trial period.' Notice how Russian puts 'tomorrow' and 'term, suspension' together in a short, direct phrase where word endings show how the ideas connect.

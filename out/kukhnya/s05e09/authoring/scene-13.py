@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e09-scene-13'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 9
 SCENE = 13
-TITLE = 'Некачественное враньё  (Low-Quality Lying)'
+TITLE = "Некачественное враньё  (Low-Quality Lying)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina", "kostya": "anja"}
+LABELS = {"anya": "Макс", "vika": "Вика", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.09'
 SOURCE_FILE = 'sources/kukhnya/s05/e09.ru.srt'
 
 INTRO = "When Max finally returns to the hotel and explains that he was chasing a locker-room thief and got hit by Iosif Prigozhin's car, Vika laughs in his face. She mocks his story as shoddy lying and says only Prigozhin himself could convince her."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that finishes the scene at the bar. Listen for Vika's sarcastic remark that Max is losing his qualification as a liar, and Kostya's joke about blaming the broken cognac on Prigozhin. See you in the next scene."
-CLOSING = ('anya', 'Я тебе правду сказал!')
+OUTRO = "And that finishes the scene at the bar. Listen for Vika's sarcastic remark that Max is losing his qualification as a liar, and Kostya's joke about blaming the broken cognac on Prigozhin. Until next time!"
+CLOSING = ("anya", "Пока!")

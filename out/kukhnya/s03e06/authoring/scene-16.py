@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e06-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 6
 SCENE = 16
-TITLE = 'Ливень и два банкета в одном зале  (Downpour and Two Banquets in One Hall)'
+TITLE = "Ливень и два банкета в одном зале  (Downpour and Two Banquets in One Hall)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'vika': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'vika': 'Вика'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.06"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina", "anya": "alisa"}
+LABELS = {"chef": "Шеф", "vika": "Вика", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.06'
 SOURCE_FILE = 'sources/kukhnya/s03/e06.ru.srt'
 
 INTRO = "A sudden rainstorm soaks the guests on the terrace. Chef Barinov tells Vika to move them into the main dining room—only to discover that Kristina's event is a funeral wake."
@@ -48,5 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'Trying to host a lively birthday party and a solemn memorial wake in the same room proves impossible.'
-CLOSING = ('vika', 'Сейчас мы всё исправим.')
+OUTRO = 'Trying to host a lively birthday party and a solemn memorial wake in the same room proves impossible. See you next time!'
+CLOSING = ("vika", "Увидимся!")

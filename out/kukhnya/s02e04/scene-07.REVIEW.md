@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Dima just got upset.' The grammar packs 'Dima' and 'got upset' into a tight, idiomatic kitchen exchange. Vika answers right away.
 - 'I got upset that I could not buy it.' The grammar packs 'I' and 'should I buy?' into a tight, idiomatic kitchen exchange.
 - 'Anyway, we got so upset that we drank a little too much.' Notice how Russian expresses 'short' and 'drank too much' with crisp inflection rather than helper words.
-- 'And at yourself.' Spoken Russian keeps this brisk, leaning on 'both' and finishing on 'yourself'. Vika answers right away.
+- 'And at yourself.' In spoken Russian, a compact phrase like this carries the full meaning through tone and context.
 - 'Do not stress about it.' Vika brings out the contrast between 'yes' and 'not' in a few short words.
 - 'Wonderful, just marvelous.' The meaning hinges on 'wonderful' working together with 'wonderful' in spoken Russian.

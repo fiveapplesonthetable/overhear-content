@@ -1,20 +1,20 @@
 ID = 'kukhnya-s03e03-scene-04'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 3
 SCENE = 4
 TITLE = "Жена префекта  (The Prefect's Wife)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'angelina', 'nagiyev': 'anja'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'nagiyev': 'Нагиев'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.03"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.03'
 SOURCE_FILE = 'sources/kukhnya/s03/e03.ru.srt'
 
 INTRO = "Minutes later, Nagiyev receives a furious call and reveals that the woman Vika and Max just kicked out of the restaurant was the prefect's wife—and unless she forgives them today, both are fired."
 
 STORY = [
-    ('vika', 'Да кто тебя тянул за язык? Я бы сама справилась.', 'Who pulled your tongue? I would have handled it myself.', [(49, 'Да кто тебя тянул за язык'), (50, 'Я бы сама справилась')], 'adapted'),
+    ('nagiyev', 'Да кто тебя тянул за язык? Я бы сама справилась.', 'Who pulled your tongue? I would have handled it myself.', [(49, 'Да кто тебя тянул за язык'), (50, 'Я бы сама справилась')], 'adapted'),
     ('nagiyev', 'Да, я разберусь. Всё будет нормально.', 'Yes, I will sort it out. Everything will be fine.', [(51, 'Да, я разберусь'), (52, 'Все будет нормально')], 'adapted'),
     ('nagiyev', 'Зачем жену уважаемого человека обидела, а?', 'Why did you offend the wife of an important man, huh?', [(56, 'Зачем жену')], 'adapted'),
     ('nagiyev', 'Попроще никого не могла выбрать?', "Couldn't you pick someone simpler?", [(57, 'Попроще никого не могла выбрать')], ''),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'That brings Scene Four to a close. Listen for Max trying to take the blame for Vika, only for Nagiyev to send both of them to beg for mercy.'
-CLOSING = ('nagiyev', 'Езжайте к ней сейчас же!')
+OUTRO = 'That brings Scene Four to a close. Listen for Max trying to take the blame for Vika, only for Nagiyev to send both of them to beg for mercy. See you next time!'
+CLOSING = ("nagiyev", "Всего хорошего!")

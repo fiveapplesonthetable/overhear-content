@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Тимур, ты что тут наделал? | Timur, what have you done here? | #92 00:06:10: ты что наделал | adapted: adapted |
-| 2 | Тимур | Брат, ты только не переживай! | Brother, just do not worry! | #93 00:06:12: брат, а не переживай | adapted: adapted |
-| 3 | Тимур | Я его не сильно сбил. | I did not hit him very hard. | #94 00:06:14: Я его не сильно сбил | adapted: adapted |
+| 1 | Шеф | Тимур, ты что тут наделал? | Timur, what have you done here? | #92 00:06:10: ты что наделал | adapted: adapted |
+| 2 | Инспектор | Брат, ты только не переживай! | Brother, just do not worry! | #93 00:06:12: брат, а не переживай | adapted: adapted |
+| 3 | Инспектор | Я его не сильно сбил. | I did not hit him very hard. | #94 00:06:14: Я его не сильно сбил | adapted: adapted |
 | 4 | Инспектор | Это просто ужасная гостиница! | This is simply a terrible hotel! | #95 00:06:20: гостиница | adapted: adapted |
 | 5 | Инспектор | Меня здесь все хотят убить. | Everyone here wants to kill me. | #96 00:06:22: Меня все хотят убить | adapted: adapted |
 | 6 | Инспектор | Чудо, что я остался жив. | It is a miracle that I stayed alive. | #97 00:06:26: что я остался жив | adapted: adapted |
 | 7 | Инспектор | Что вам от меня надо? | What do you want from me? | #98 00:06:29: Что вам от меня надо | adapted: adapted |
-| 8 | Аня | Предлагаю написать хороший отзыв. | I suggest writing a good review. | #99 00:06:31: и написать о нас хороший отзыв | adapted: adapted |
+| 8 | Шеф | Предлагаю написать хороший отзыв. | I suggest writing a good review. | #99 00:06:31: и написать о нас хороший отзыв | adapted: adapted |
 | 9 | Инспектор | Вы намекаете мне на взятку? | Are you hinting at a bribe to me? | #101 00:06:37: Намекаете на взятку | adapted: adapted |
-| 10 | Аня | Мы хотим возместить ваш ущерб. | We want to compensate your damage. | #102 00:06:40: ущерб | adapted: adapted |
+| 10 | Шеф | Мы хотим возместить ваш ущерб. | We want to compensate your damage. | #102 00:06:40: ущерб | adapted: adapted |
 | 11 | Инспектор | Это просто очень возмутительно! | This is simply very outrageous! | #104 00:06:48: Это возмутительно | adapted: adapted |
-| 12 | Аня | Где я возьму такие деньги? | Where will I get that kind of money? | #110 00:06:59: А где я возьму такие деньги | adapted: adapted |
-| 13 | Аня | Хорошо, мы на всё согласны. | Fine, we agree to everything. | #111 00:07:03: Мы согласны | adapted: adapted |
+| 12 | Шеф | Где я возьму такие деньги? | Where will I get that kind of money? | #110 00:06:59: А где я возьму такие деньги | adapted: adapted |
+| 13 | Шеф | Хорошо, мы на всё согласны. | Fine, we agree to everything. | #111 00:07:03: Мы согласны | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

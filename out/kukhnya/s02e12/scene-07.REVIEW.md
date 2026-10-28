@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Это должно быть вкусно. | This should be delicious. | #103 00:06:45: Это должно быть вкусно | verbatim |
+| 1 | Шеф | Это должно быть вкусно. | This should be delicious. | #103 00:06:45: Это должно быть вкусно | verbatim |
 | 2 | Лёва | Ну, я надеюсь, по крайней мере. | Well, I hope so, at least. | #104 00:06:46: Ну, я надеюсь, по крайней мере | verbatim |
-| 3 | Аня | Или папочка помог. | Or else his daddy helped him out. | #106 00:06:53: Или папочка помог | verbatim |
+| 3 | Шеф | Или папочка помог. | Or else his daddy helped him out. | #106 00:06:53: Или папочка помог | verbatim |
 | 4 | Лёва | Как у него. | Just like him. | #107 00:06:55: как у него | verbatim |
-| 5 | Аня | Тоже чего-нибудь добились. | Would have achieved something too. | #108 00:06:59: тоже чего-нибудь добились | verbatim |
+| 5 | Шеф | Тоже чего-нибудь добились. | Would have achieved something too. | #108 00:06:59: тоже чего-нибудь добились | verbatim |
 | 6 | Лёва | Я бы у меня посмотрел. | I would like to see him try. | #109 00:07:02: Я бы у меня посмотрел | verbatim |
-| 7 | Аня | Где я начинал. | Where I started out. | #110 00:07:06: где я начинал | verbatim |
+| 7 | Шеф | Где я начинал. | Where I started out. | #110 00:07:06: где я начинал | verbatim |
 | 8 | Лёва | Погоди, ты же в метрополе начинал. | Hold on, you started out at the Metropol. | #111 00:07:08: Погоди, ты же в метрополе начинал | verbatim |
-| 9 | Аня | А, это Лёва в метрополе. | Oh, right, it was Lyova who started at the Metropol. | #112 00:07:11: А, это Лёва в метрополе | verbatim |
+| 9 | Шеф | А, это Лёва в метрополе. | Oh, right, it was Lyova who started at the Metropol. | #112 00:07:11: А, это Лёва в метрополе | verbatim |
 | 10 | Лёва | Для того. | In order to do that. | #113 00:07:19: Для того | verbatim |
-| 11 | Аня | Перед тем. | Beforehand. | #113 00:07:19: перед тем | verbatim |
+| 11 | Шеф | Перед тем. | Beforehand. | #113 00:07:19: перед тем | verbatim |
 | 12 | Лёва | Дай ему постоять две минуты. | Let it rest for two minutes. | #114 00:07:23: дай ему постоять две минуты | verbatim |
-| 13 | Аня | После этого ты приготовишь его гораздо быстрее. | After that, you will cook it much faster. | #115 00:07:27: После этого ты приготовишь его гораздо быстрее | verbatim |
+| 13 | Шеф | После этого ты приготовишь его гораздо быстрее. | After that, you will cook it much faster. | #115 00:07:27: После этого ты приготовишь его гораздо быстрее | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

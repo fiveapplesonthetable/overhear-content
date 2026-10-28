@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Come with me, I will show you something mystical too.' In Russian, the idea of 'let's go' flows naturally into 'will show' without extra filler words.
 - 'That is the ghost of your bonus, it just flew away!' The meaning hinges on 'this' working together with 'to fly away' in spoken Russian.
 - 'There are tons of orders, and nobody is in the kitchen!' The grammar packs 'orders' and 'no' into a tight, idiomatic kitchen exchange.
-- 'And what is this dish, this is not on the menu?' The grammar packs 'and' and 'menu' into a tight, idiomatic kitchen exchange.
+- 'And what is this dish, this is not on the menu?' In everyday Russian, 'dish' flows straight into 'menu' without extra linking words.
 - 'Chef, I finally invented my signature dish!' The '-l' ending on the verb meaning 'came up with' places the action in the masculine past tense.
 - 'In here are black caviar, truffles, beef, and saffron.' Spoken Russian keeps this brisk, leaning on 'here' and finishing on 'saffron'.
 - 'My God, this is the most expensive mess in my life!' Notice how Russian expresses 'God' and 'life' with crisp inflection rather than helper words.
 - 'I am deducting all of this from your paycheck today!' An emphatic spoken line centered on the verb meaning 'deduct'.
-- 'I forbid you to touch expensive ingredients, go peel potatoes!' Notice the reflexive suffix on the verb meaning 'to touch', turning the action back on the subject.
+- 'I forbid you to touch expensive ingredients, go peel potatoes!' Chef Barinov pairs 'forbid' with 'to peel' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.

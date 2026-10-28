@@ -16,12 +16,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Элеонора | Ты только меня не пугай. | Just do not scare me. | #43 00:03:17: ты только меня не пугай | adapted: adapted |
 | 5 | Элеонора | Хотя за тебя я спокойна. | Although I am calm about you. | #44 00:03:20: Хотя за тебя я спокойна | adapted: adapted |
 | 6 | Элеонора | На свадьбе я буду не одна. | At the wedding I will not be alone. | #45 00:03:23: на твоей свадьбе я буду не одна | adapted: adapted |
-| 7 | Аня | Правда, и кто этот мужчина? | Really, and who is this man? | #47 00:03:29: Кто же этот | adapted: adapted |
+| 7 | Элеонора | Правда, и кто этот мужчина? | Really, and who is this man? | #47 00:03:29: Кто же этот | adapted: adapted |
 | 8 | Элеонора | Он спас меня от банкротства. | He saved me from bankruptcy. | #48 00:03:32: спас твою маму от банкротства | adapted: adapted |
 | 9 | Элеонора | Теперь он наш новый инвестор. | Now he is our new investor. | #49 00:03:37: он теперь наш новый инвестор | adapted: adapted |
 | 10 | Элеонора | И он очень интересный мужчина. | And he is a very interesting man. | #50 00:03:41: он еще очень интересный мужчина | adapted: adapted |
 | 11 | Элеонора | На свадьбе вас обязательно познакомлю. | I will definitely introduce you at the wedding. | #51 00:03:45: На свадьбе познакомлю | adapted: adapted |
-| 12 | Аня | Хорошо, мама, я очень рада. | Alright, Mom, I am very glad. | #46 00:03:27: Да ладно | adapted: adapted |
+| 12 | Элеонора | Хорошо, мама, я очень рада. | Alright, Mom, I am very glad. | #46 00:03:27: Да ладно | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e09-scene-16'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 9
 SCENE = 16
-TITLE = 'Инсценировка на кухне  (The Staging in the Kitchen)'
+TITLE = "Инсценировка на кухне  (The Staging in the Kitchen)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.09"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "katya": "angelina", "anya": "alisa", "chef": "anja"}
+LABELS = {"katya": "Катя", "anya": "Макс", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.09'
 SOURCE_FILE = 'sources/kukhnya/s03/e09.ru.srt'
 
 INTRO = 'After everyone leaves the restaurant and Chef Barinov falls asleep, Max and Katya bring in an actor covered in bandages and fake a surveillance video to convince the Chef that he went on a violent drunken rampage.'
@@ -34,7 +34,7 @@ WALK = [
     (0, None, "'Tell me, has everyone gone home already?' In Russian, the idea of 'say' flows naturally into 'home' without extra filler words."),
     (1, None, "'Yes, and the Chef is finally sleeping.' Spoken Russian keeps this brisk, leaning on 'yes' and finishing on 'is sleeping'."),
     (2, None, "'I barely managed to put him to bed today.' Notice how Russian expresses 'I' and 'put to bed' with crisp inflection rather than helper words."),
-    (3, None, "'He kept trying to burst out to find you.' Notice the reflexive suffix on the verb meaning 'was eager', turning the action back on the subject."),
+    (3, None, "'He kept trying to burst out to find you.' Spoken Russian keeps this brief and expressive, built right around 'was eager, tried to burst in' without extra helper words."),
     (4, None, "'So, what have you cooked up over there?' The meaning hinges on 'come on' working together with 'planned' in spoken Russian."),
     (5, None, "'You will see right now, come on through here, please.' Max anchors the line on 'now', while 'please' completes the thought. Katya answers right away."),
     (6, None, "'And just what is our plan?' Katya brings out the contrast between 'and' and 'what' in a few short words."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Looking at the bandaged stranger, Katya's fake black eye, and the doctored camera footage, Chef Barinov is horrified by what he thinks he did."
-CLOSING = ('anya', 'Вот видео с камеры наблюдения.')
+OUTRO = "Looking at the bandaged stranger, Katya's fake black eye, and the doctored camera footage, Chef Barinov is horrified by what he thinks he did. See you next time!"
+CLOSING = ("anya", "Увидимся!")

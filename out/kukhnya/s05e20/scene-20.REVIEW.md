@@ -29,10 +29,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Just a regular flu, thank goodness, it already passed.' Notice how Russian expresses 'ordinary' and 'passed' with crisp inflection rather than helper words. Chef Barinov answers right away.
 - 'Wait, what do you mean just a regular flu?' Here the Russian phrasing highlights 'wait' before landing on 'flu'.
 - 'In two months we are having a wedding banquet here.' The meaning hinges on 'two' working together with 'banquet' in spoken Russian.
-- 'Dimochka and I are officially getting married.' Notice the reflexive suffix on the verb meaning 'we register our marriage', turning the action back on the subject. Chef Barinov answers right away.
+- 'Dimochka and I are officially getting married.' Eleonora pairs 'with Dimochka' with 'we register our marriage' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Is Dimochka really going to be our boss again?' Chef Barinov brings out the contrast between 'really' and 'Dimochka' in a few short words.
 - 'The main thing is that our story has a happy ending.' Notice how Russian expresses 'the main thing' and 'end' with crisp inflection rather than helper words.
-- 'Vika agreed to stay with me in Moscow.' Notice the reflexive suffix on the verb meaning 'to agree', turning the action back on the subject.
+- 'Vika agreed to stay with me in Moscow.' In everyday Russian, 'to agree' flows straight into 'to remain, to be left' without extra linking words.
 - 'And I finally became a real head chef!' The '-l' ending on the verb meaning 'to become' places the action in the masculine past tense.
 - 'Vika and I will be working together again.' Max anchors the line on 'we', while 'together' completes the thought.
 - 'It turns out the dearest dreams really do come true!' Notice how Russian expresses 'to turn out to be' and 'come true' with crisp inflection rather than helper words.

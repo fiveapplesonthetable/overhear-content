@@ -10,15 +10,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Дима, я очень прошу тебя. | Dima, I beg you very much. | #310 00:21:32: Дима, я прошу тебя | adapted: adapted |
-| 2 | Аня | Пожалуйста, просто успокойся сейчас. | Please, just calm down right now. | #313 00:21:46: Успокойся | adapted: adapted |
+| 1 | Нагиев | Дима, я очень прошу тебя. | Dima, I beg you very much. | #310 00:21:32: Дима, я прошу тебя | adapted: adapted |
+| 2 | Нагиев | Пожалуйста, просто успокойся сейчас. | Please, just calm down right now. | #313 00:21:46: Успокойся | adapted: adapted |
 | 3 | Нагиев | Я устрою ему весёлую жизнь! | I will give him a rough time! | #315 00:22:03: Устрою ему веселую жизнь | adapted: adapted |
 | 4 | Нагиев | Он вылетит отсюда, как пробка. | He will fly out of here like a cork. | #315 00:22:03: вылетит отсюда, как пробка | adapted: adapted |
-| 5 | Аня | Пожалуйста, не надо ничего делать. | Please, do not do anything. | #316 00:22:06: Не надо ничего делать | adapted: adapted |
-| 6 | Аня | Ведь Максим ни в чём не виноват. | After all, Maxim is not at fault for anything. | #317 00:22:09: Максим ни в чем не виноват | adapted: adapted |
+| 5 | Нагиев | Пожалуйста, не надо ничего делать. | Please, do not do anything. | #316 00:22:06: Не надо ничего делать | adapted: adapted |
+| 6 | Нагиев | Ведь Максим ни в чём не виноват. | After all, Maxim is not at fault for anything. | #317 00:22:09: Максим ни в чем не виноват | adapted: adapted |
 | 7 | Нагиев | А кто тогда в этом виноват? | And who is at fault for this then? | #318 00:22:10: Кто виноват | adapted: adapted |
-| 8 | Аня | Мы с ним уже давно расстались. | He and I broke up long ago. | #319 00:22:20: Мы с ним расстались | adapted: adapted |
-| 9 | Аня | Поверь, это всё уже в прошлом. | Believe me, all of that is already in the past. | #320 00:22:22: Все в прошлом | adapted: adapted |
+| 8 | Нагиев | Мы с ним уже давно расстались. | He and I broke up long ago. | #319 00:22:20: Мы с ним расстались | adapted: adapted |
+| 9 | Нагиев | Поверь, это всё уже в прошлом. | Believe me, all of that is already in the past. | #320 00:22:22: Все в прошлом | adapted: adapted |
 | 10 | Нагиев | У меня раньше было много женщин. | I used to have many women. | #321 00:22:35: У меня было много женщин | adapted: adapted |
 | 11 | Нагиев | Но я никогда раньше не испытывал таких чувств. | But I have never experienced such feelings before. | #321 00:22:35: но я никогда раньше не испытывал таких чувств | adapted: adapted |
 | 12 | Нагиев | Я просто очень хочу быть с тобой. | I simply want very much to be with you. | #322 00:22:41: Просто хочу быть с тобой | adapted: adapted |

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s05e19-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 5
 EPISODE = 19
 SCENE = 11
-TITLE = 'Блюдо дня из рыбных обрезков  (Dish of the Day from Fish Trimmings)'
+TITLE = "Блюдо дня из рыбных обрезков  (Dish of the Day from Fish Trimmings)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja', 'fedya': 'angelina'}
-LABELS = {'anya': 'Макс', 'senya': 'Сеня', 'fedya': 'Федя'}
-SOURCE_NAME = "Кухня (Kukhnya) S5.19"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "fedya": "anja", "senya": "angelina"}
+LABELS = {"anya": "Макс", "fedya": "Федя", "senya": "Сеня"}
+SOURCE_NAME = 'Кухня (Kukhnya) S5.19'
 SOURCE_FILE = 'sources/kukhnya/s05/e19.ru.srt'
 
 INTRO = "To cut kitchen waste, Max takes Senya's stash of trout trimmings and turns them into sausages for the daily special. Annoyed that his take-home scraps are gone, Senya teams up with Fedya to mock Max."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'After Fedya and Senya laugh at his expense, Max comes up with a way to put both of them to work. See you in the next scene.'
-CLOSING = ('anya', 'Это новое блюдо дня.')
+OUTRO = 'After Fedya and Senya laugh at his expense, Max comes up with a way to put both of them to work. Until next time!'
+CLOSING = ("anya", "Хорошего дня!")

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elena Pavlovna, you should go get some rest.' Notice how Chef Viktor pairs a modal word or finite verb with an infinitive to express the action.
-- 'We will manage fine here.' In spoken Russian, Chef Viktor omits unnecessary linking verbs so the key idea lands immediately.
-- 'Yes, I can see that you have plenty of free time.' Elena uses natural conversational word order here to highlight the most important part of the reply.
-- 'Enough for conversations and everything else.' Elena keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Take another order.' In spoken Russian, Elena omits unnecessary linking verbs so the key idea lands immediately.
-- 'Here, a summer salad and bolognese.' Elena uses natural conversational word order here to highlight the most important part of the reply.
-- 'So you don't want to talk?' Max places the negative particle directly before the verb or predicate to negate the statement.
-- 'Okay, let's talk this way.' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Yesterday you were wrong. I was wrong too.' Max uses natural conversational word order here to highlight the most important part of the reply.
-- 'But since you and I are serious adults...' Max keeps the sentence short and direct, relying on Russian case endings to show how the words connect.
-- 'Right now?' In spoken Russian, Max omits unnecessary linking verbs so the key idea lands immediately.
-- 'Awesome, let's go.' Max uses natural conversational word order here to highlight the most important part of the reply.
+- 'Elena Pavlovna, you should go get some rest.' Chef Barinov pairs 'were going, were leading' with 'to rest, to relax, to vacation' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'We will manage fine here.' Spoken Russian keeps this brief and expressive, built right around 'will cope' without extra helper words.
+- 'Yes, I can see that you have plenty of free time.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
+- 'Enough for conversations and everything else.' In everyday Russian, 'is enough, suffices' flows straight into 'other' without extra linking words.
+- 'Take another order.' Elena pairs 'take' with 'order' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'Here, a summer salad and bolognese.' Notice how Russian puts 'summer' and 'bolognese' together in a short, direct phrase where word endings show how the ideas connect.
+- 'So you don't want to talk?' Putting the short word for 'not' right in front of the action word is all Russian needs to make a sentence negative, with no extra helper words like 'do' or 'did'.
+- 'Okay, let's talk this way.' Starting with the everyday word for 'let us' is how Russian speakers warmly invite someone to do something together.
+- 'Yesterday you were wrong. I was wrong too.' Max pairs 'yesterday' with 'also, too' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
+- 'But since you and I are serious adults...' Notice how Russian puts 'so, like this' and 'people' together in a short, direct phrase where word endings show how the ideas connect.
+- 'Right now?' In spoken Russian, the words stay in their normal statement order and Max's rising voice at the end turns the line into a question.
+- 'Awesome, let's go.' In everyday Russian, 'caliber' flows straight into 'to let's' without extra linking words.

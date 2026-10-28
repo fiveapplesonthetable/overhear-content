@@ -1,359 +1,358 @@
 {
-  "id": "kukhnya-s06e01-scene-18",
-  "pair": "ru-en",
-  "title": "Михаилу никто не верит  (Nobody Believes Mikhail)",
-  "level": "A1 — Duolingo Section 2",
-  "voices": {
-    "narrator": "sky",
-    "anya": "alisa",
-    "mikhail": "anja",
-    "eleonora": "angelina"
+ "schemaVersion": 1,
+ "id": "kukhnya-s06e01-scene-18",
+ "pair": "ru-en",
+ "show": "kukhnya",
+ "season": 6,
+ "episode": 1,
+ "scene": 18,
+ "title": "Михаилу никто не верит  (Nobody Believes Mikhail)",
+ "level": "A1 — Duolingo Section 2",
+ "voices": {
+  "narrator": "sky",
+  "chef": "anja",
+  "eleonora": "angelina"
+ },
+ "labels": {
+  "chef": "Шеф",
+  "eleonora": "Элеонора"
+ },
+ "segments": [
+  {
+   "v": "narrator",
+   "t": "Mikhail drags Barinov to the suite to expose Nagiyev's infidelity, but remembering Eleonora's words about finally being happy, Barinov covers for Nagiyev and claims Mikhail simply drank too much.",
+   "gap": 0.8
   },
-  "labels": {
-    "anya": "Шеф",
-    "mikhail": "Михаил",
-    "eleonora": "Элеонора"
+  {
+   "v": "chef",
+   "t": "Простите, где он?",
+   "gap": 0.55
   },
-  "segments": [
-    {
-      "v": "narrator",
-      "t": "Mikhail drags Barinov to the suite to expose Nagiyev's infidelity, but remembering Eleonora's words about finally being happy, Barinov covers for Nagiyev and claims Mikhail simply drank too much.",
-      "gap": 0.8
-    },
-    {
-      "v": "mikhail",
-      "t": "Простите, где он?",
-      "gap": 0.55
-    },
-    {
-      "v": "mikhail",
-      "t": "Нагиев и она, они были здесь!",
-      "gap": 0.55
-    },
-    {
-      "v": "mikhail",
-      "t": "Витя, ты видел?",
-      "gap": 0.55
-    },
-    {
-      "v": "eleonora",
-      "t": "Дима для меня последний вагон.",
-      "gap": 0.55
-    },
-    {
-      "v": "eleonora",
-      "t": "Я на самом деле счастлива.",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "Миша, ты чего?",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "Никого тут не было.",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "Да ты перебрал, брат.",
-      "gap": 0.55
-    },
-    {
-      "v": "anya",
-      "t": "Все, хватит, иди и проспись.",
-      "gap": 0.55
-    },
-    {
-      "v": "eleonora",
-      "t": "Ой, вот ты где!",
-      "gap": 0.55
-    },
-    {
-      "v": "eleonora",
-      "t": "А я бегаю и ищу тебя.",
-      "gap": 0.55
-    },
-    {
-      "v": "eleonora",
-      "t": "Не пойму, куда ты делась.",
-      "gap": 0.9
-    },
-    {
-      "v": "narrator",
-      "t": "Now let's go back through their conversation line by line and unpack the Russian phrasing.",
-      "gap": 0.4
-    },
-    {
-      "v": "mikhail",
-      "t": "Простите, где он?",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Excuse me, where is he?' Mikhail raises the pitch on 'he' to turn the phrase into a direct spoken question.",
-      "gap": 0.4
-    },
-    {
-      "v": "mikhail",
-      "t": "Нагиев и она, они были здесь!",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Nagiyev and she, they were here!' An emphatic spoken line centered on the verb meaning 'to be'.",
-      "gap": 0.4
-    },
-    {
-      "v": "mikhail",
-      "t": "Витя, ты видел?",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Vitya, did you see?' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'saw'.",
-      "gap": 0.4
-    },
-    {
-      "v": "eleonora",
-      "t": "Дима для меня последний вагон.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Dima is the last train car for me.' Eleonora anchors the line on 'Dima', while 'train car' completes the thought.",
-      "gap": 0.4
-    },
-    {
-      "v": "eleonora",
-      "t": "Я на самом деле счастлива.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'I am truly happy.' The grammar packs 'I' and 'happy' into a tight, idiomatic kitchen exchange.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Миша, ты чего?",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Misha, what is with you?' Chef Barinov raises the pitch on 'what' to turn the phrase into a direct spoken question.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Никого тут не было.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Nobody was in here.' Notice how Russian expresses 'nobody' and 'was' with crisp inflection rather than helper words.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Да ты перебрал, брат.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Why, you drank too much, brother.' Chef Barinov addresses the listener with the informal singular 'you' alongside 'brother'.",
-      "gap": 0.4
-    },
-    {
-      "v": "anya",
-      "t": "Все, хватит, иди и проспись.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Alright, enough, go and sleep it off.' The meaning hinges on 'all' working together with 'sleep it off' in spoken Russian.",
-      "gap": 0.4
-    },
-    {
-      "v": "eleonora",
-      "t": "Ой, вот ты где!",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'Oh, there you are!' Eleonora addresses the listener with the informal singular 'you' alongside 'where'.",
-      "gap": 0.4
-    },
-    {
-      "v": "eleonora",
-      "t": "А я бегаю и ищу тебя.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'And here I am running around looking for you.' Eleonora brings out the contrast between 'and' and 'I' in a few short words.",
-      "gap": 0.4
-    },
-    {
-      "v": "eleonora",
-      "t": "Не пойму, куда ты делась.",
-      "gap": 0.55
-    },
-    {
-      "v": "narrator",
-      "t": "'I could not understand where you disappeared to.' Notice the reflexive suffix on the verb meaning 'to go', turning the action back on the subject. Alright, let's hear the entire conversation one more time from start to finish.",
-      "gap": 0.9
-    },
-    {
-      "v": "mikhail",
-      "t": "Простите, где он?",
-      "gap": 0.5
-    },
-    {
-      "v": "mikhail",
-      "t": "Нагиев и она, они были здесь!",
-      "gap": 0.5
-    },
-    {
-      "v": "mikhail",
-      "t": "Витя, ты видел?",
-      "gap": 0.5
-    },
-    {
-      "v": "eleonora",
-      "t": "Дима для меня последний вагон.",
-      "gap": 0.5
-    },
-    {
-      "v": "eleonora",
-      "t": "Я на самом деле счастлива.",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Миша, ты чего?",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Никого тут не было.",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Да ты перебрал, брат.",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Все, хватит, иди и проспись.",
-      "gap": 0.5
-    },
-    {
-      "v": "eleonora",
-      "t": "Ой, вот ты где!",
-      "gap": 0.5
-    },
-    {
-      "v": "eleonora",
-      "t": "А я бегаю и ищу тебя.",
-      "gap": 0.5
-    },
-    {
-      "v": "eleonora",
-      "t": "Не пойму, куда ты делась.",
-      "gap": 0.9
-    },
-    {
-      "v": "narrator",
-      "t": "To protect Eleonora's happiness on her wedding night, Barinov keeps Nagiyev's secret, before heading to the hospital the next morning. See you in the next scene.",
-      "gap": 0.5
-    },
-    {
-      "v": "anya",
-      "t": "Иди отдыхай, Миша.",
-      "gap": 0.3
-    }
-  ],
-  "source": {
-    "show": "Кухня (Kukhnya) S6.01",
-    "file": "sources/kukhnya/s06/e01.ru.srt",
-    "lines": [
-      {
-        "line": 0,
-        "cue": 321,
-        "fragment": "Простите"
-      },
-      {
-        "line": 0,
-        "cue": 322,
-        "fragment": "Где он?"
-      },
-      {
-        "line": 1,
-        "cue": 323,
-        "fragment": "они были здесь"
-      },
-      {
-        "line": 2,
-        "cue": 324,
-        "fragment": "Витя видел?"
-      },
-      {
-        "line": 3,
-        "cue": 325,
-        "fragment": "Дима, для меня последний вагон"
-      },
-      {
-        "line": 4,
-        "cue": 326,
-        "fragment": "Я на самом деле счастлива"
-      },
-      {
-        "line": 5,
-        "cue": 327,
-        "fragment": "ты чего?"
-      },
-      {
-        "line": 6,
-        "cue": 328,
-        "fragment": "кого тут не было"
-      },
-      {
-        "line": 7,
-        "cue": 329,
-        "fragment": "О, да ты перебрал, брат"
-      },
-      {
-        "line": 8,
-        "cue": 330,
-        "fragment": "Все, хватит"
-      },
-      {
-        "line": 8,
-        "cue": 331,
-        "fragment": "Иди и проспись"
-      },
-      {
-        "line": 9,
-        "cue": 332,
-        "fragment": "вот ты где"
-      },
-      {
-        "line": 10,
-        "cue": 333,
-        "fragment": "бегаю ищу тебя"
-      },
-      {
-        "line": 11,
-        "cue": 334,
-        "fragment": "Не пойму, куда ты делась"
-      }
-    ]
+  {
+   "v": "chef",
+   "t": "Нагиев и она, они были здесь!",
+   "gap": 0.55
   },
-  "show": "kukhnya",
-  "season": 6,
-  "episode": 1,
-  "scene": 18
+  {
+   "v": "chef",
+   "t": "Витя, ты видел?",
+   "gap": 0.55
+  },
+  {
+   "v": "eleonora",
+   "t": "Дима для меня последний вагон.",
+   "gap": 0.55
+  },
+  {
+   "v": "eleonora",
+   "t": "Я на самом деле счастлива.",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "Миша, ты чего?",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "Никого тут не было.",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "Да ты перебрал, брат.",
+   "gap": 0.55
+  },
+  {
+   "v": "chef",
+   "t": "Все, хватит, иди и проспись.",
+   "gap": 0.55
+  },
+  {
+   "v": "eleonora",
+   "t": "Ой, вот ты где!",
+   "gap": 0.55
+  },
+  {
+   "v": "eleonora",
+   "t": "А я бегаю и ищу тебя.",
+   "gap": 0.55
+  },
+  {
+   "v": "eleonora",
+   "t": "Не пойму, куда ты делась.",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "Now let's go back through their conversation line by line and unpack the Russian phrasing.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Простите, где он?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Excuse me, where is he?' Mikhail raises the pitch on 'he' to turn the phrase into a direct spoken question.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Нагиев и она, они были здесь!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Nagiyev and she, they were here!' An emphatic spoken line centered on the verb meaning 'to be'.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Витя, ты видел?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Vitya, did you see?' Spoken Russian keeps this brisk, leaning on 'you' and finishing on 'saw'.",
+   "gap": 0.4
+  },
+  {
+   "v": "eleonora",
+   "t": "Дима для меня последний вагон.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Dima is the last train car for me.' Eleonora anchors the line on 'Dima', while 'train car' completes the thought.",
+   "gap": 0.4
+  },
+  {
+   "v": "eleonora",
+   "t": "Я на самом деле счастлива.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I am truly happy.' The grammar packs 'I' and 'happy' into a tight, idiomatic kitchen exchange.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Миша, ты чего?",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Misha, what is with you?' Chef Barinov raises the pitch on 'what' to turn the phrase into a direct spoken question.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Никого тут не было.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Nobody was in here.' Notice how Russian expresses 'nobody' and 'was' with crisp inflection rather than helper words.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Да ты перебрал, брат.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Why, you drank too much, brother.' Chef Barinov addresses the listener with the informal singular 'you' alongside 'brother'.",
+   "gap": 0.4
+  },
+  {
+   "v": "chef",
+   "t": "Все, хватит, иди и проспись.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Alright, enough, go and sleep it off.' The meaning hinges on 'all' working together with 'sleep it off' in spoken Russian.",
+   "gap": 0.4
+  },
+  {
+   "v": "eleonora",
+   "t": "Ой, вот ты где!",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'Oh, there you are!' Eleonora addresses the listener with the informal singular 'you' alongside 'where'.",
+   "gap": 0.4
+  },
+  {
+   "v": "eleonora",
+   "t": "А я бегаю и ищу тебя.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'And here I am running around looking for you.' Eleonora brings out the contrast between 'and' and 'I' in a few short words.",
+   "gap": 0.4
+  },
+  {
+   "v": "eleonora",
+   "t": "Не пойму, куда ты делась.",
+   "gap": 0.55
+  },
+  {
+   "v": "narrator",
+   "t": "'I could not understand where you disappeared to.' Notice how Russian puts 'understand' and 'to go, vanish, disappear' together in a short, direct phrase where word endings show how the ideas connect. Alright, let's hear the entire conversation one more time from start to finish.",
+   "gap": 0.9
+  },
+  {
+   "v": "chef",
+   "t": "Простите, где он?",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Нагиев и она, они были здесь!",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Витя, ты видел?",
+   "gap": 0.5
+  },
+  {
+   "v": "eleonora",
+   "t": "Дима для меня последний вагон.",
+   "gap": 0.5
+  },
+  {
+   "v": "eleonora",
+   "t": "Я на самом деле счастлива.",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Миша, ты чего?",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Никого тут не было.",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Да ты перебрал, брат.",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "Все, хватит, иди и проспись.",
+   "gap": 0.5
+  },
+  {
+   "v": "eleonora",
+   "t": "Ой, вот ты где!",
+   "gap": 0.5
+  },
+  {
+   "v": "eleonora",
+   "t": "А я бегаю и ищу тебя.",
+   "gap": 0.5
+  },
+  {
+   "v": "eleonora",
+   "t": "Не пойму, куда ты делась.",
+   "gap": 0.9
+  },
+  {
+   "v": "narrator",
+   "t": "To protect Eleonora's happiness on her wedding night, Barinov keeps Nagiyev's secret, before heading to the hospital the next morning. See you next time!",
+   "gap": 0.5
+  },
+  {
+   "v": "chef",
+   "t": "До свидания!",
+   "gap": 0.3
+  }
+ ],
+ "source": {
+  "show": "Кухня (Kukhnya) S6.01",
+  "file": "sources/kukhnya/s06/e01.ru.srt",
+  "lines": [
+   {
+    "line": 0,
+    "cue": 321,
+    "fragment": "Простите"
+   },
+   {
+    "line": 0,
+    "cue": 322,
+    "fragment": "Где он?"
+   },
+   {
+    "line": 1,
+    "cue": 323,
+    "fragment": "они были здесь"
+   },
+   {
+    "line": 2,
+    "cue": 324,
+    "fragment": "Витя видел?"
+   },
+   {
+    "line": 3,
+    "cue": 325,
+    "fragment": "Дима, для меня последний вагон"
+   },
+   {
+    "line": 4,
+    "cue": 326,
+    "fragment": "Я на самом деле счастлива"
+   },
+   {
+    "line": 5,
+    "cue": 327,
+    "fragment": "ты чего?"
+   },
+   {
+    "line": 6,
+    "cue": 328,
+    "fragment": "кого тут не было"
+   },
+   {
+    "line": 7,
+    "cue": 329,
+    "fragment": "О, да ты перебрал, брат"
+   },
+   {
+    "line": 8,
+    "cue": 330,
+    "fragment": "Все, хватит"
+   },
+   {
+    "line": 8,
+    "cue": 331,
+    "fragment": "Иди и проспись"
+   },
+   {
+    "line": 9,
+    "cue": 332,
+    "fragment": "вот ты где"
+   },
+   {
+    "line": 10,
+    "cue": 333,
+    "fragment": "бегаю ищу тебя"
+   },
+   {
+    "line": 11,
+    "cue": 334,
+    "fragment": "Не пойму, куда ты делась"
+   }
+  ]
+ }
 }

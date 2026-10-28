@@ -19,9 +19,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Никита | Но откуда у тебя деньги, давай так. | But where would you get money, let's do it this way. | #208 00:13:31: откуда у тебя деньги? Давай так | adapted: adapted |
 | 8 | Никита | Если выиграешь ты, я вам с Катей больше не мешаю. | If you win, I will not get in the way of you and Katya anymore. | #209 00:13:34: Если выиграешь ты, я вам с Катей больше не мешаю | adapted: exact |
 | 9 | Никита | А если выиграю я, то уходишь ты. | And if I win, then you walk away. | #210 00:13:36: Если я, то<br>#210 00:13:36: ты | adapted: adapted |
-| 10 | Аня | Ты и так нам с Катей не помешаешь. | You will not get in the way of Katya and me anyway. | #211 00:13:41: Ты и так нам с Катей не помешаешь | adapted: exact |
+| 10 | Никита | Ты и так нам с Катей не помешаешь. | You will not get in the way of Katya and me anyway. | #211 00:13:41: Ты и так нам с Катей не помешаешь | adapted: exact |
 | 11 | Никита | Ну что, согласен? | Well, do you agree? | #212 00:13:42: Ну? | adapted: adapted |
-| 12 | Аня | Давай, по рукам! | Let's do it, deal! | #208 00:13:31: Давай так | adapted: adapted |
+| 12 | Никита | Давай, по рукам! | Let's do it, deal! | #208 00:13:31: Давай так | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

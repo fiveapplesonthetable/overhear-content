@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'To you, dear friend, happy anniversary!' Spoken Russian keeps this brisk, leaning on 'for' and finishing on 'anniversary'.
 - 'Well, how is our second banquet over there?' Chef Barinov anchors the line on 'come on', while 'banquet' completes the thought.
 - 'It has not started yet, but the guests are already gathering.' The meaning hinges on 'else' working together with 'gather' in spoken Russian.
-- 'Chef, it seems heavy rain is brewing.' Notice the reflexive suffix on the verb meaning 'it seems', turning the action back on the subject. Chef Barinov answers right away.
+- 'Chef, it seems heavy rain is brewing.' Max pairs 'it seems' with 'is brewing / planned' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'No, there will be no rain today.' Here the Russian phrasing highlights 'no' before landing on 'will be'.
 - 'Alright, then we keep working.' The grammar packs 'all right' and 'to work' into a tight, idiomatic kitchen exchange.

@@ -1,51 +1,46 @@
-ID = "kukhnya-s01e20-scene-21"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e20-scene-21.
+ID = 'kukhnya-s01e20-scene-21'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 20
 SCENE = 21
 TITLE = "Мы  (We)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "anton": "anja", "max": "angelina"}
-LABELS = {"anya": "Аня", "anton": "Антон", "max": "Макс"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.20"
-SOURCE_FILE = "sources/kukhnya/s01/e20.ru.dual.srt"
-
-INTRO = "The season approaches its emotional end with a deep philosophical reflection. Max thinks about how people behave in life, ignoring the obvious."
-
-STORY = [
- ("anya", "Люди часто спят.", "People often sleep.", [], 'new'),
- ("anya", "Они не хотят думать.", "They do not want to think.", [], 'new'),
- ("anya", "Все любят мечтать.", "Everyone loves to dream.", [], 'new'),
- ("anya", "Мы видим сны.", "We see dreams.", [], 'new'),
- ("anya", "Такая у нас жизнь.", "Such is our life.", [], 'new'),
- ("anya", "Никто не видит правду.", "Nobody sees the truth.", [], 'new'),
- ("anya", "Мы.", "We.", [(334, "Мы")], ''),
- ("anya", "Многие закрывают глаза.", "Many close their eyes.", [], 'new'),
- ("anya", "Они боятся.", "They are afraid.", [], 'new'),
- ("anya", "Просто ждут чудо.", "Just wait for a miracle.", [], 'new'),
- ("anya", "Никто ничего не знает.", "Nobody knows anything.", [], 'new'),
- ("anya", "И все молчат.", "And everyone is silent.", [], 'new'),
-]
-
-OPENER = "Let's hear the beginning of his thoughts."
-
-WALK = [
- (0, None, "'People often sleep.' A metaphor for not paying attention."),
- (1, None, "'They do not want to think.' It is easier to avoid hard thoughts."),
- (2, None, "'Everyone loves to dream.' Dreaming is a safe place."),
- (3, None, "'We see dreams.' We live in a world of our own imagination."),
- (4, None, "'Such is our life.' This is how many people exist."),
- (5, None, "'Nobody sees the truth.' The reality is hidden from us."),
- (6, "Мы.", "'We.' A powerful single word to summarize humanity."),
- (7, None, "'Many close their eyes.' We ignore the obvious signs around us."),
- (8, None, "'They are afraid.' Fear keeps us from acting."),
- (9, None, "'Just wait for a miracle.' Waiting for something to happen automatically."),
- (10, None, "'Nobody knows anything.' Ignorance is bliss in a complicated world."),
- (11, None, "'And everyone is silent.' We do not speak up when we should."),
-]
-
-TRANSITION = "Now let's hear the whole thing once more."
-
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around we, and for the words meaning 'people' and 'have been sleeping'. You'll catch them now. See you next time."
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa"}
+LABELS = {"anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.20'
+SOURCE_FILE = 'sources/kukhnya/s01/e20.ru.dual.srt'
+INTRO = "The season approaches its emotional end with a deep philosophical reflection. Max thinks about how people behave in life, ignoring the obvious. Let's listen closely to the conversation in Russian first, and then walk through each line together."
+OPENER = "Now let's go back through the exchange around We line by line and unpack how the Russian works."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "Max thinks about how people behave in life. Next time you watch the episode, listen for the Russian expressions for 'person' and 'often' — you will catch every word right away. See you next time!"
 CLOSING = ("anya", "До свидания!")
+STORY = [
+    ('anya', 'Люди часто спят.', 'People often sleep.', [], ''),
+    ('anya', 'Они не хотят думать.', 'They do not want to think.', [], ''),
+    ('anya', 'Все любят мечтать.', 'Everyone loves to dream.', [], ''),
+    ('anya', 'Мы видим сны.', 'We see dreams.', [], ''),
+    ('anya', 'Такая у нас жизнь.', 'Such is our life.', [], ''),
+    ('anya', 'Никто не видит правду.', 'Nobody sees the truth.', [], ''),
+    ('anya', 'Мы сами не видим.', 'We don', [(334, 'Мы')], ''),
+    ('anya', 'Многие закрывают глаза.', 'Many close their eyes.', [], ''),
+    ('anya', 'Они боятся.', 'They are afraid.', [], ''),
+    ('anya', 'Просто ждут чудо.', 'Just wait for a miracle.', [], ''),
+    ('anya', 'Никто ничего не знает.', 'Nobody knows anything.', [], ''),
+    ('anya', 'И все молчат.', 'And everyone is silent.', [], ''),
+]
+WALK = [
+    (0, None, "'People often sleep.' Max puts the word for 'people' together with 'often' and 'have been sleeping' in a crisp, natural spoken turn of phrase."),
+    (1, None, "'They do not want to think.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (2, None, "'Everyone loves to dream.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (3, None, "'We see dreams.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (4, None, "'Such is our life.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have' around the word meaning 'life'."),
+    (5, None, "'Nobody sees the truth.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (6, None, "'We don' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
+    (7, None, "'Many close their eyes.' Max expresses this naturally by combining the word for 'many' with 'to close' and 'eyes'."),
+    (8, None, "'They are afraid.' Max delivers a punchy one-word reaction built around the Russian word meaning 'are afraid'."),
+    (9, None, "'Just wait for a miracle.' Here Max anchors the line on the word meaning 'just' and builds the thought around 'are waiting' and 'miracle'."),
+    (10, None, "'Nobody knows anything.' Max delivers a punchy one-word reaction built around the Russian word meaning 'knows'."),
+    (11, None, "'And everyone is silent.' Max delivers a punchy one-word reaction built around the Russian word meaning 'to be silent'."),
+]

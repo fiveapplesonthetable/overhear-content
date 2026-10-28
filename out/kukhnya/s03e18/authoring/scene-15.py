@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e18-scene-15'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 18
 SCENE = 15
-TITLE = 'Оговорка по Фрейду и костёр  (A Freudian Slip and a Bonfire)'
+TITLE = "Оговорка по Фрейду и костёр  (A Freudian Slip and a Bonfire)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'chef': 'angelina'}
-LABELS = {'anya': 'Макс', 'vika': 'Вика', 'chef': 'Шеф'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.18"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja", "vika": "angelina"}
+LABELS = {"anya": "Макс", "chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.18'
 SOURCE_FILE = 'sources/kukhnya/s03/e18.ru.srt'
 
 INTRO = "Flush with relief after talking to Katya, Max asks Vika what she is doing after work—but accidentally calls her 'Katya'! Before he can recover, a tipsy Chef Barinov announces the public burning of the new menu."
@@ -42,9 +42,9 @@ WALK = [
     (8, None, "'Attention all chefs! Listen to me quickly!' The grammar packs 'attention' and 'me' into a tight, idiomatic kitchen exchange."),
     (9, None, "'For the first time in this kitchen we are burning a menu!' Notice how Russian expresses 'for the first time' and 'menu' with crisp inflection rather than helper words."),
     (10, None, "'We are burning the pages of this new menu right now.' Chef Barinov anchors the line on 'we', while 'menu' completes the thought."),
-    (11, None, "'The menu is accused of betraying French cuisine with chebureki!' Notice the reflexive suffix on the verb meaning 'is accused', turning the action back on the subject."),
+    (11, None, "'The menu is accused of betraying French cuisine with chebureki!' Here Chef Barinov anchors the thought on 'menu' and finishes on 'with chebureki', keeping the spoken rhythm brisk and natural."),
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Stung by Max's speech, Chef Barinov lights the corporate menu ablaze right in the middle of the kitchen."
-CLOSING = ('chef', 'Мы сжигаем это новое меню!')
+OUTRO = "Stung by Max's speech, Chef Barinov lights the corporate menu ablaze right in the middle of the kitchen. Until next time!"
+CLOSING = ("chef", "До завтра!")

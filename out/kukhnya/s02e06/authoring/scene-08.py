@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e06-scene-08"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e06-scene-08'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 6
 SCENE = 8
-TITLE = 'Любопытный Лёва пробует салат  (Curious Lyova Tastes the Salad)'
+TITLE = "Любопытный Лёва пробует салат  (Curious Lyova Tastes the Salad)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'lyova': 'anja', 'timur': 'angelina'}
-LABELS = {'anya': 'Шеф', 'lyova': 'Лёва', 'timur': 'Тимур'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.06"
-SOURCE_FILE = "sources/kukhnya/s02/e06.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "lyova": "angelina", "chef": "anja"}
+LABELS = {"lyova": "Лёва", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.06'
+SOURCE_FILE = 'sources/kukhnya/s02/e06.ru.srt'
 
 INTRO = "Continuing the story, Chef Barinov explains that when Lyova tried making the warm seafood salad during Barinov's sick day, the regular guest rejected it immediately. Determined to figure out what secret ingredient the Chef was adding, a curious Lyova waited until Barinov stepped away and ate the entire salad himself."
 
 STORY = [
-    ('anya', 'Я бы хотел заказать салат тёплый, с морепродуктами.', 'I would like to order the warm seafood salad.', [(128, 'Я бы хотел заказать салат тёплый, с морепродуктами')], ''),
+    ('chef', 'Я бы хотел заказать салат тёплый, с морепродуктами.', 'I would like to order the warm seafood salad.', [(128, 'Я бы хотел заказать салат тёплый, с морепродуктами')], ''),
     ('lyova', 'А не его помощник.', 'And not his assistant.', [(130, 'а не его помощник')], ''),
-    ('timur', 'В тот раз салат не удался.', 'That day the salad was a flop.', [(131, 'В тот раз салат не удался')], ''),
-    ('anya', 'И Лёве очень хотелось узнать мой рецепт.', 'And Lyova badly wanted to find out my secret recipe.', [(132, 'И Лёве очень хотелось узнать мой рецепт')], ''),
+    ('lyova', 'В тот раз салат не удался.', 'That day the salad was a flop.', [(131, 'В тот раз салат не удался')], ''),
+    ('chef', 'И Лёве очень хотелось узнать мой рецепт.', 'And Lyova badly wanted to find out my secret recipe.', [(132, 'И Лёве очень хотелось узнать мой рецепт')], ''),
     ('lyova', 'Почему у меня получается, а у него нет?', 'Why does it work for me, and not for him?', [(133, 'Почему у меня получается, а у него нет')], ''),
-    ('timur', 'Лёв, тебе что, делать нечего?', 'Lyova, do you have nothing better to do?', [(134, 'Лёв, тебе что, делать нечего')], ''),
-    ('anya', 'Шеф, там Тимур продукты привёз.', 'Chef, Timur just brought the produce delivery.', [(135, 'Шеф, там Тимур продукты привёз')], ''),
+    ('lyova', 'Лёв, тебе что, делать нечего?', 'Lyova, do you have nothing better to do?', [(134, 'Лёв, тебе что, делать нечего')], ''),
+    ('chef', 'Шеф, там Тимур продукты привёз.', 'Chef, Timur just brought the produce delivery.', [(135, 'Шеф, там Тимур продукты привёз')], ''),
     ('lyova', 'Я могу принять.', 'I can sign for it.', [(136, 'Я могу принять')], ''),
-    ('timur', 'У меня точно такой же.', 'Mine tastes the exact same.', [(137, 'У меня точно такой же')], ''),
-    ('anya', 'Не понимаю.', 'I do not understand it.', [(138, 'Не понимаю')], ''),
+    ('lyova', 'У меня точно такой же.', 'Mine tastes the exact same.', [(137, 'У меня точно такой же')], ''),
+    ('chef', 'Не понимаю.', 'I do not understand it.', [(138, 'Не понимаю')], ''),
     ('lyova', 'Лёв, ты что делаешь?', 'Lyova, what are you doing?', [(139, 'Лёв, ты что делаешь')], ''),
-    ('timur', 'Ты что, сожрал весь салат?', 'Did you just devour the whole salad?', [(140, 'Ты что, сожрал весь салат')], ''),
-    ('anya', 'Сейчас ты узнаешь.', 'You are about to find out right now.', [(142, 'Сейчас ты узнаешь')], ''),
+    ('lyova', 'Ты что, съел весь салат?', 'Did you eat the whole salad?', [(140, 'Ты что'), (140, 'весь салат')], 'adapted'),
+    ('chef', 'Сейчас ты узнаешь.', 'You are about to find out right now.', [(142, 'Сейчас ты узнаешь')], ''),
 ]
 
 OPENER = "Let's walk back through the scene line by line."
@@ -43,11 +43,10 @@ WALK = [
     (8, None, "'Mine tastes the exact same.' The meaning hinges on 'by' working together with 'already' in spoken Russian."),
     (9, None, "'I do not understand it.' Chef Viktor anchors the line on 'not', while 'understand' completes the thought."),
     (10, None, "'Lyova, what are you doing?' Lyova brings out the contrast between 'Lev' and 'you' in a few short words. Timur answers right away."),
-    (11, None, "'Did you just devour the whole salad?' Timur brings out the contrast between 'you' and 'what' in a few short words."),
+    (11, None, "'Did you eat the whole salad?' In everyday Russian, 'ate' flows straight into 'salad' without extra linking words."),
     (12, None, "'You are about to find out right now.' Chef Viktor brings out the contrast between 'any minute' and 'you' in a few short words."),
 ]
 
 TRANSITION = "Let's hear the full exchange one more time at natural speed."
-
-OUTRO = 'When you watch Scene 8 of Episode 6, listen out for the exchange around curious lyova tastes the salad — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Сейчас ты узнаешь.')
+OUTRO = "That wraps up this scene as in Barinov's flashback, Lyova is determined to discover the secret ingredient in the Chef's warm seafood salad and secretly eats an entire plate of it himself. See you next time!"
+CLOSING = ("chef", "Пока!")

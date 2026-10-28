@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'It seems he had another stroke.' The '-l' ending on the verb meaning 'to happen' places the action in the masculine past tense.
 - 'Vika, wait for me in the car, I will be right back.' The grammar packs 'Vika' and 'now' into a tight, idiomatic kitchen exchange. Chef Barinov answers right away.
 - 'A cockroach again, whose dish is it?' Chef Barinov brings out the contrast between 'again' and 'cockroach' in a few short words.
-- 'It is your dish, respected Chef.' In Russian, the idea of 'this' flows naturally into 'esteemed' without extra filler words.
+- 'It is your dish, respected Chef.' Max pairs 'dish' with 'esteemed, respected' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'.
 - 'Vitya, they told me that you are feeling bad.' The meaning hinges on 'Vitya' working together with 'badly' in spoken Russian. Chef Barinov answers right away.
 - 'Ah yes, my salary could use a little raise.' Notice how Russian expresses 'ah' and 'to lift' with crisp inflection rather than helper words.
 - 'From a joke like that there are big problems, is that clear?' The grammar packs 'from' and 'clear' into a tight, idiomatic kitchen exchange.

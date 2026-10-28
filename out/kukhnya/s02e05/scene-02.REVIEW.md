@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Ой, какая трагедия. | Oh, what a tragedy. | #18 00:02:03: Ой, какая трагедия | verbatim |
+| 1 | Вика | Ой, какая трагедия. | Oh, what a tragedy. | #18 00:02:03: Ой, какая трагедия | verbatim |
 | 2 | Саша | Ведь тебе что, сложно? | Is it really that hard for you? | #19 00:02:05: Ведь тебе что, сложно | verbatim |
-| 3 | Аня | Ты же знаешь, гость всегда прав. | You know that the guest is always right. | #19 00:02:05: Ты же знаешь, гость всегда прав | verbatim |
+| 3 | Вика | Ты же знаешь, гость всегда прав. | You know that the guest is always right. | #19 00:02:05: Ты же знаешь, гость всегда прав | verbatim |
 | 4 | Саша | На моей кухне я всегда прав. | In my kitchen, I am always right. | #20 00:02:08: На моей кухне я всегда прав | verbatim |
-| 5 | Аня | Разговор окончен. | This conversation is over. | #21 00:02:10: Разговор окончен | verbatim |
+| 5 | Вика | Разговор окончен. | This conversation is over. | #21 00:02:10: Разговор окончен | verbatim |
 | 6 | Саша | Просыпаюсь я с Сашей. | I wake up next to Sasha. | #22 00:02:12: просыпаюсь я с Сашей | verbatim |
-| 7 | Аня | Я чуть с ума не сошел. | I nearly lost my mind. | #23 00:02:18: Я чуть с ума не сошел | verbatim |
+| 7 | Вика | Я чуть с ума не сошел. | I nearly lost my mind. | #23 00:02:18: Я чуть с ума не сошел | verbatim |
 | 8 | Саша | Слушай, но клоуну намного страшнее. | Listen, clowns are way scarier though. | #24 00:02:20: Слушай, но клоуну намного страшнее | verbatim |
-| 9 | Аня | И вообще. | And besides. | #25 00:02:23: И вообще | verbatim |
+| 9 | Вика | И вообще. | And besides. | #25 00:02:23: И вообще | verbatim |
 | 10 | Саша | Слава богу, Саша на Кипр улетела. | Thank goodness Sasha flew off to Cyprus. | #27 00:02:28: Слава богу, Саша на Кипр улетела | verbatim |
-| 11 | Аня | Пару дней можно об этом не думать. | For a couple of days I do not have to think about it. | #28 00:02:29: Пару дней можно об этом не думать | verbatim |
+| 11 | Вика | Пару дней можно об этом не думать. | For a couple of days I do not have to think about it. | #28 00:02:29: Пару дней можно об этом не думать | verbatim |
 | 12 | Саша | А потом выбери. | And after that, make your choice. | #30 00:02:36: А потом выбери | verbatim |
-| 13 | Аня | Все равно рано или поздно придется. | Sooner or later you will have to anyway. | #31 00:02:38: Все равно рано или поздно придется | verbatim |
+| 13 | Вика | Все равно рано или поздно придется. | Sooner or later you will have to anyway. | #31 00:02:38: Все равно рано или поздно придется | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

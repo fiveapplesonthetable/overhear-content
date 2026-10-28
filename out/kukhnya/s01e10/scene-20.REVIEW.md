@@ -1,32 +1,40 @@
-# kukhnya-s01e10-scene-20: review sheet
+# Шокирующая новость  (Shocking News) — `kukhnya-s01e10-scene-20`
 
-Title: Шокирующая новость  (Shocking News)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.10
-Cues 156-161. In the service corridor, Sasha stops Max for an urgent private chat and reveals she is pregnant.
+**Source:** Кухня (Kukhnya) S1.10 · `sources/kukhnya/s01/e10.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Cast
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `sasha` | anja | Саша |
+| `anya` | alisa | Макс |
+
+## Part 1 — Intro
+
+> In the quiet service corridor of Claude Monet, waitress Sasha stops Max as he hurries past. After an awkward exchange of casual pleasantries, Sasha drops all pretense and delivers a stunning personal revelation that catches Max completely off guard. Let's listen to their dramatic corridor encounter in Russian.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Макс | Привет, Саша. Как твои дела? | Hi, Sasha. How are you doing? | #156 00:10:43: Привет<br>#156 00:10:43: Как дела? | verbatim |
-| 2 | Саша | Привет. Всё нормально, а у тебя? | Hi. Everything is fine, and with you? | #156 00:10:43: Привет<br>#157 00:10:45: у тебя | verbatim |
-| 3 | Макс | У меня тоже всё хорошо, бегу. | Everything is fine with me too, running. | #157 00:10:45: у меня | verbatim |
-| 4 | Саша | Стой, подожди хотя бы одну секунду. | Wait, wait at least one second. | #158 00:10:51: Стой | verbatim |
-| 5 | Макс | Что такое? Шеф ждёт на кухне. | What is it? The chef is waiting in the kitchen. | new | new |
-| 6 | Саша | Мне срочно нужно поговорить с тобой. | I urgently need to talk to you. | #159 00:10:53: Мне нужно поговорить с тобой | verbatim |
-| 7 | Саша | Есть одна очень важная личная вещь. | There is one very important personal thing. | #160 00:10:55: Есть одна вещь | verbatim |
-| 8 | Макс | Ты пугаешь меня таким серьёзным видом. | You scare me with such a serious look. | new | new |
-| 9 | Саша | Я не могу больше скрывать правду. | I can no longer hide the truth. | #160 00:10:55: скрывать от тебя | verbatim |
-| 10 | Саша | Я знаю, что я нравлюсь тебе. | I know that you like me. | #161 00:10:58: тебе нравлюсь | verbatim |
-| 11 | Саша | Я беременна от тебя, Макс. | I am pregnant with your child, Max. | #161 00:10:58: Я беременна от тебя | verbatim |
-| 12 | Макс | Что ты только что сейчас сказала? | What did you just say right now? | new | new |
-| 13 | Саша | Ты слышал меня отлично с первого раза. | You heard me perfectly the first time. | new | new |
+| 0 | Макс | Привет, Саша. Как твои дела? | Hi, Sasha. How are you doing? | #156 "Привет", #156 "Как дела?" |  |
+| 1 | Саша | Привет. Всё нормально, а у тебя? | Hi. Everything is fine, and with you? | #156 "Привет", #157 "у тебя" |  |
+| 2 | Макс | У меня тоже всё хорошо, бегу. | Everything is fine with me too, running. | #157 "у меня" |  |
+| 3 | Саша | Стой, подожди хотя бы одну секунду. | Wait, wait at least one second. | #158 "Стой" |  |
+| 4 | Макс | Что такое? Шеф ждёт на кухне. | What is it? The chef is waiting in the kitchen. | *(added)* |  |
+| 5 | Саша | Мне срочно нужно поговорить с тобой. | I urgently need to talk to you. | #159 "Мне нужно поговорить с тобой" |  |
+| 6 | Саша | Есть одна очень важная личная вещь. | There is one very important personal thing. | #160 "Есть одна вещь" |  |
+| 7 | Макс | Ты пугаешь меня таким серьёзным видом. | You scare me with such a serious look. | *(added)* |  |
+| 8 | Саша | Я не могу больше скрывать правду. | I can no longer hide the truth. | #160 "скрывать от тебя" |  |
+| 9 | Саша | Я знаю, что я нравлюсь тебе. | I know that you like me. | #161 "тебе нравлюсь" |  |
+| 10 | Саша | Я беременна от тебя, Макс. | I am pregnant with your child, Max. | #161 "Я беременна от тебя" |  |
+| 11 | Макс | Что ты только что сейчас сказала? | What did you just say right now? | *(added)* |  |
+| 12 | Саша | Ты слышал меня отлично с первого раза. | You heard me perfectly the first time. | *(added)* |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Wait, wait at least one second.' Two urgent imperative verbs used together to immediately stop someone in their tracks.
-- 'I urgently need to talk to you.' An impersonal construction with an adverb expressing pressing necessity for a private conversation.
-- 'I know that you like me.' A subordinate clause introduced by a conjunction to acknowledge mutual romantic feelings between colleagues.
-- 'I am pregnant with your child, Max.' A direct revelation using a short adjective construction that abruptly changes the entire situation. Now, let's listen to Sasha break the stunning news to Max once more.
+> Now you know how to initiate serious conversations, share urgent personal news, and express disbelief in Russian. Listen for these impactful interpersonal phrases as the story continues. Next time you watch the episode, listen for the Russian expressions for 'to run' and 'pregnant' — you will catch every word right away. See you next time!
+
+**Макс:** Пока!

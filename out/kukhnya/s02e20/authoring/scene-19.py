@@ -1,15 +1,15 @@
-ID = "kukhnya-s02e20-scene-19"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e20-scene-19'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 20
 SCENE = 19
 TITLE = "Предложение Кости и благодарность Шефа  (Kostya's Proposal and the Chef's Gratitude)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'chef': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'chef': 'Шеф', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.20"
-SOURCE_FILE = "sources/kukhnya/s02/e20.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "nastya": "angelina", "chef": "anja"}
+LABELS = {"anya": "Макс", "nastya": "Настя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.20'
+SOURCE_FILE = 'sources/kukhnya/s02/e20.ru.srt'
 
 INTRO = 'As the wedding guests wonder why the bartender is singing about Nastya instead of the bride Katya, Kostya drops to one knee and asks Nastya to marry him. Later, while the staff celebrates with champagne, Chef Barinov sincerely thanks Max for saving the day—but still refuses to take him back into the kitchen.'
 
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's put it all back together and hear the whole scene again."
-
-OUTRO = "When you watch Scene 19 of Episode 20, listen out for the exchange around kostya's proposal and the chef's gratitude — you will recognize every Russian phrase right away. See you in the next scene."
-CLOSING = ('nastya', 'Я могу вернуться?')
+OUTRO = 'That wraps up this scene as kostya proposes to Nastya on stage during the wedding reception, and back in the kitchen Chef Barinov thanks Max for saving the banquet but still refuses to rehire him as a cook. Until next time!'
+CLOSING = ("nastya", "Увидимся!")

@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Даст бог. | God willing. | #290 00:19:29: Даст бог | verbatim |
-| 2 | Федя | Здравствуйте, вам чего? | Hello, what do you want? | #292 00:20:36: Здравствуйте, вам чего | verbatim |
-| 3 | Аня | Мне надо с вами поговорить. | I need to speak with you. | #293 00:20:38: Мне надо с вами поговорить | verbatim |
-| 4 | Федя | У меня к вам предложение. | I have a proposition for you. | #294 00:20:45: у меня к вам предложение | verbatim |
-| 5 | Аня | Я не поняла? | I beg your pardon? | #295 00:20:51: я не поняла | verbatim |
-| 6 | Федя | Потому что она должна быть свежей. | Because it has to be fresh. | #296 00:20:56: Потому что она должна быть свежей | verbatim |
-| 7 | Аня | Вот эта курица за тебя жизнь отдала. | This chicken gave its life for you. | #297 00:21:01: вот эта курица за тебя жизнь отдала | verbatim |
-| 8 | Федя | Алло, алло, полиция? | Hello, hello, police? | #298 00:21:05: Алло, алло, полиция | verbatim |
-| 9 | Аня | Салфетки берешь на складе. | You get the napkins from the storage room. | #301 00:21:24: Салфетки берешь на складе | verbatim |
-| 10 | Федя | Берете скатерти. | Take the tablecloths. | #302 00:21:26: Берете скатерти | verbatim |
-| 11 | Аня | Костя, а ты что здесь делаешь? | Kostya, what are you doing out here? | #303 00:21:29: Костя, а ты что здесь делаешь | verbatim |
-| 12 | Федя | Иди в бар. | Go back to the bar. | #304 00:21:32: Иди в бар | verbatim |
-| 13 | Аня | Костя, иди в бар. | Kostya, go to the bar. | #305 00:21:37: Костя, иди в бар | verbatim |
+| 1 | Костя | Даст бог. | God willing. | #290 00:19:29: Даст бог | verbatim |
+| 2 | Костя | Здравствуйте, вам чего? | Hello, what do you want? | #292 00:20:36: Здравствуйте, вам чего | verbatim |
+| 3 | Костя | Мне надо с вами поговорить. | I need to speak with you. | #293 00:20:38: Мне надо с вами поговорить | verbatim |
+| 4 | Костя | У меня к вам предложение. | I have a proposition for you. | #294 00:20:45: у меня к вам предложение | verbatim |
+| 5 | Костя | Я не поняла? | I beg your pardon? | #295 00:20:51: я не поняла | verbatim |
+| 6 | Костя | Потому что она должна быть свежей. | Because it has to be fresh. | #296 00:20:56: Потому что она должна быть свежей | verbatim |
+| 7 | Костя | Вот эта курица за тебя жизнь отдала. | This chicken gave its life for you. | #297 00:21:01: вот эта курица за тебя жизнь отдала | verbatim |
+| 8 | Костя | Алло, алло, полиция? | Hello, hello, police? | #298 00:21:05: Алло, алло, полиция | verbatim |
+| 9 | Костя | Салфетки берешь на складе. | You get the napkins from the storage room. | #301 00:21:24: Салфетки берешь на складе | verbatim |
+| 10 | Костя | Берете скатерти. | Take the tablecloths. | #302 00:21:26: Берете скатерти | verbatim |
+| 11 | Костя | Костя, а ты что здесь делаешь? | Kostya, what are you doing out here? | #303 00:21:29: Костя, а ты что здесь делаешь | verbatim |
+| 12 | Костя | Иди в бар. | Go back to the bar. | #304 00:21:32: Иди в бар | verbatim |
+| 13 | Костя | Костя, иди в бар. | Kostya, go to the bar. | #305 00:21:37: Костя, иди в бар | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e02-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 2
 SCENE = 19
-TITLE = 'Цена выбора  (The Price of a Choice)'
+TITLE = "Цена выбора  (The Price of a Choice)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nagiyev': 'anja', 'sasha': 'angelina'}
-LABELS = {'anya': 'Макс', 'nagiyev': 'Нагиев', 'sasha': 'Саша'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.02"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nagiyev": "angelina", "anya": "alisa", "sasha": "anja"}
+LABELS = {"nagiyev": "Нагиев", "anya": "Макс", "sasha": "Саша"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.02'
 SOURCE_FILE = 'sources/kukhnya/s03/e02.ru.srt'
 
 INTRO = "In the final scene of the episode, Ilya's accomplice stages the overcharging scandal right in front of Nagiyev, getting innocent waitress Sasha fired on the spot while Ilya stays silent."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "And that wraps up Episode Two of Season Three. Listen for Max's closing reflection on how every day forces us to choose between speaking the truth and staying silent."
-CLOSING = ('anya', 'Время покажет наш выбор!')
+OUTRO = "And that wraps up Episode Two of Season Three. Listen for Max's closing reflection on how every day forces us to choose between speaking the truth and staying silent. Until next time!"
+CLOSING = ("anya", "Время покажет наш выбор!")

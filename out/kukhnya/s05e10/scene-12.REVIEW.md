@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Аня | Сейчас допрашиваем. Вот его вещи. | We are interrogating him right now. Here are his things. | #180 00:12:57: Сейчас допрашиваем. Вот вы вещи | adapted: adapted |
 | 5 | Вика | Я же сказала, не лезь не в своё дело! | I told you, do not meddle in what is none of your business! | #181 00:13:00: Я же сказала, не лезь не в свое дело | adapted: adapted |
 | 6 | Вика | Это инспектор из комиссии! | This is an inspector from the commission! | #182 00:13:12: из комиссии | adapted: adapted |
-| 7 | Вика | Максим, вы исключительный придурок! | Maxim, you are an exceptional idiot! | #183 00:13:18: Максим, вы исключительный придурок | adapted: adapted |
+| 7 | Вика | Максим, вы исключительный человек! | Maxim, you are an exceptional person! | #183 00:13:18: Максим, вы исключительный | adapted: adapted |
 | 8 | Аня | Костян, походу, мы не того взяли. | Kostyan, it looks like we grabbed the wrong guy. | #184 00:13:24: Костян, походу, мы не того взяли | adapted: adapted |
 | 9 | Костя | Что теперь делать? | What should we do now? | #178 00:12:54: Что происходит | adapted: adapted |
 | 10 | Аня | Развязывай его! | Untie him! | #185 00:13:27: Развязывай его | adapted: adapted |
@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We are interrogating him right now. Here are his things.' The meaning hinges on 'now' working together with 'thing' in spoken Russian. Vika answers right away.
 - 'I told you, do not meddle in what is none of your business!' Vika anchors the line on 'I', while 'business' completes the thought.
 - 'This is an inspector from the commission!' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'commission'.
-- 'Maxim, you are an exceptional idiot!' Vika chooses the respectful plural 'you' alongside 'jerk' to keep a polite distance. Max answers right away.
+- 'Maxim, you are an exceptional person!' Here Vika anchors the thought on 'exceptional' and finishes on 'a man, a person', keeping the spoken rhythm brisk and natural.
 - 'Kostyan, it looks like we grabbed the wrong guy.' Here the Russian phrasing highlights 'Kostyan' before landing on 'took'.
 - 'What should we do now?' In Russian, the idea of 'what' flows naturally into 'to do' without extra filler words.
 - 'Untie him!' Spoken Russian keeps this brisk, leaning on 'untie' and finishing on 'his'. Kostya answers right away.

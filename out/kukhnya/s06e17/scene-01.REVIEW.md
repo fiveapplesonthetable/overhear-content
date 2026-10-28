@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Не смотри на меня так. | Do not look at me like that. | #2 00:00:19: Не смотри на меня так | adapted: adapted |
-| 2 | Аня | Тебя нельзя сейчас перекормить. | You must not be overfed right now. | #3 00:00:21: Если тебя перекормить | adapted: adapted |
+| 1 | Шеф | Не смотри на меня так. | Do not look at me like that. | #2 00:00:19: Не смотри на меня так | adapted: adapted |
+| 2 | Шеф | Тебя нельзя сейчас перекормить. | You must not be overfed right now. | #3 00:00:21: Если тебя перекормить | adapted: adapted |
 | 3 | Инспектор | Здравствуйте, Виктор Петрович. | Hello, Viktor Petrovich. | #5 00:00:27: Здравствуйте, Виктор Петрович | adapted: adapted |
 | 4 | Инспектор | Я инспектирую ваш ресторан. | I am inspecting your restaurant. | #6 00:00:29: Я инспектирую ваш ресторан | adapted: adapted |
-| 5 | Аня | С вами всё в порядке? | Is everything alright with you? | #7 00:00:34: С вами все в порядке | adapted: adapted |
+| 5 | Шеф | С вами всё в порядке? | Is everything alright with you? | #7 00:00:34: С вами все в порядке | adapted: adapted |
 | 6 | Инспектор | Да, просто так неожиданно. | Yes, it is just so unexpected. | #8 00:00:37: Просто так неожиданно | adapted: adapted |
-| 7 | Аня | Здравствуйте, мне очень приятно. | Hello, I am very pleased to meet you. | #10 00:00:47: Очень приятно | adapted: adapted |
+| 7 | Шеф | Здравствуйте, мне очень приятно. | Hello, I am very pleased to meet you. | #10 00:00:47: Очень приятно | adapted: adapted |
 | 8 | Инспектор | Ваш авторский сет просто отличный. | Your signature set is simply excellent. | #11 00:00:48: ваш авторский сет просто | adapted: adapted |
 | 9 | Инспектор | Он закрыл этот неприятный случай. | It overshadowed that unpleasant incident. | #11 00:00:48: этот неприятный | adapted: adapted |
-| 10 | Аня | Спасибо вам за добрые слова. | Thank you for the kind words. | #12 00:00:53: Спасибо | adapted: adapted |
-| 11 | Аня | Вы только не волнуйтесь. | Just do not worry. | #12 00:00:53: Но вы не волнуйтесь | adapted: adapted |
-| 12 | Аня | Мы всё быстро отстираем. | We will wash everything out quickly. | #12 00:00:53: мы все отстираем | adapted: adapted |
+| 10 | Шеф | Спасибо вам за добрые слова. | Thank you for the kind words. | #12 00:00:53: Спасибо | adapted: adapted |
+| 11 | Шеф | Вы только не волнуйтесь. | Just do not worry. | #12 00:00:53: Но вы не волнуйтесь | adapted: adapted |
+| 12 | Шеф | Мы всё быстро отстираем. | We will wash everything out quickly. | #12 00:00:53: мы все отстираем | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

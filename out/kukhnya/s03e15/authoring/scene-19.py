@@ -1,21 +1,21 @@
 ID = 'kukhnya-s03e15-scene-19'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 19
 TITLE = "Разоблачение обмана Кости  (Kostya's Deception Exposed)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'kostya': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Макс', 'kostya': 'Костя', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "anya": "alisa", "kostya": "anja"}
+LABELS = {"nastya": "Настя", "anya": "Макс", "kostya": "Костя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = "Kostya secretly meets Nastya's father to confess that Nastya spent all six hundred thousand rubles of wedding money on a car. Then Nastya finds an insurance paper in the glovebox with her father's name on it and realizes Kostya lied! Listen first."
 
 STORY = [
     ('anya', 'Здравствуйте, что за дело, которое по телефону нельзя обсудить?', 'Hello, what is this matter that cannot be discussed over the phone?', [(307, 'Здравствуйте. Что за дело, которое по телефону нельзя обсудить')], 'adapted'),
-    ('kostya', 'Дело в том, что на деньги, которые вы мне дали, Настя купила машину.', 'The thing is, with the money you gave me, Nastya bought a car.', [(308, 'Дело в том, что на деньги, которые вы мне дали, Настя купила')], 'adapted'),
+    ('kostya', 'На деньги, которые вы мне дали, Настя купила машину.', 'With the money that you gave me, Nastya bought a car.', [(308, 'на деньги, которые вы мне дали, Настя купила')], 'adapted'),
     ('anya', 'Ну молодец, ты же сам ей не можешь купить.', 'Well good for her, since you cannot buy her one yourself.', [(309, 'Ну, молодец. Ты же ей не можешь купить')], 'adapted'),
     ('kostya', 'Получается, что у нас снова нет денег на свадьбу.', 'It turns out that we again have no money for the wedding.', [(311, 'Получается, что у нас снова нет денег на свадьбу')], 'adapted'),
     ('nastya', 'Папа, чья это бумага в машине?', 'Dad, whose paper is this in the car?', [(312, 'Это не мое')], 'adapted'),
@@ -32,12 +32,12 @@ OPENER = "Now let's go back through their conversation line by line and unpack t
 
 WALK = [
     (0, None, "'Hello, what is this matter that cannot be discussed over the phone?' Here the Russian phrasing highlights 'hello' before landing on 'to discuss'."),
-    (1, None, "'The thing is, with the money you gave me, Nastya bought a car.' The grammar packs 'business' and 'car' into a tight, idiomatic kitchen exchange."),
+    (1, None, "'With the money that you gave me, Nastya bought a car.' Kostya pairs 'money' with 'car' directly, since spoken Russian skips English filler words like 'the', 'a', and 'is'."),
     (2, None, "'Well good for her, since you cannot buy her one yourself.' Max anchors the line on 'come on', while 'to buy' completes the thought. Kostya answers right away."),
     (3, None, "'It turns out that we again have no money for the wedding.' The grammar packs 'to work out' and 'wedding' into a tight, idiomatic kitchen exchange."),
     (4, None, "'Dad, whose paper is this in the car?' In Russian, the idea of 'dad' flows naturally into 'car' without extra filler words."),
     (5, None, "'It is not mine, it is already yours, sweetheart.' Spoken Russian keeps this brisk, leaning on 'this' and finishing on 'daughter'. Nastya answers right away."),
-    (6, None, "'Ah, so that is where all that money came from, right?' Notice the reflexive suffix on the verb meaning 'to appear', turning the action back on the subject."),
+    (6, None, "'Ah, so that is where all that money came from, right?' Notice how Russian puts 'where from' and 'money' together in a short, direct phrase where word endings show how the ideas connect."),
     (7, None, "'The bet you won, the old stash, and the bonuses!' The grammar packs 'won' and 'bonus' into a tight, idiomatic kitchen exchange."),
     (8, None, "'Nastya, listen, I can explain all of this to you!' Kostya anchors the line on 'Nastya', while 'to explain' completes the thought. Nastya answers right away."),
     (9, None, "'Do not explain anything to me, Kostya, everything is clear as it is!' The grammar packs 'not' and 'understood' into a tight, idiomatic kitchen exchange."),
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Heartbroken by Kostya's deception, Nastya cancels the wedding. Now let's turn to our final scene of Episode Fifteen at Vika's apartment."
-CLOSING = ('nastya', 'Свадьбы у нас не будет!')
+OUTRO = "Heartbroken by Kostya's deception, Nastya cancels the wedding. Until next time!"
+CLOSING = ("nastya", "Пока!")

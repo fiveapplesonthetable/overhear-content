@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Севрюга, собственной персоной! | Stellate sturgeon, in person! | #285 00:20:16: Севрюга<br>#286 00:20:19: персона | adapted: adapted |
+| 1 | Сеня | Севрюга, собственной персоной! | Stellate sturgeon, in person! | #285 00:20:16: Севрюга<br>#286 00:20:19: персона | adapted: adapted |
 | 2 | Федя | Сеня, ты где такую красоту взял? | Senya, where did you get such a beauty? | #287 00:20:21: Ты где такую красоту взял | adapted: adapted |
-| 3 | Аня | О, это я заработал собственным умом! | Oh, I earned this with my own wit! | #288 00:20:24: О, это я заработал<br>#289 00:20:26: Собственным умом | adapted: adapted |
-| 4 | Тимур | Пропавшую рыбу куда денешь? | What will you do with the spoiled fish? | #290 00:20:31: Пропавшую рыбу куда денешь | adapted: adapted |
-| 5 | Аня | Выкинул. | I threw it out. | #291 00:20:34: Выкидал | adapted: adapted |
-| 6 | Тимур | Мне можешь отдать? | Can you give it to me? | #291 00:20:34: Мне можешь отдать | adapted: adapted |
-| 7 | Аня | Пятьсот рублей. | Five hundred rubles. | #292 00:20:36: рублей | adapted: adapted |
-| 8 | Тимур | Чего пятьсот рублей? | What do you mean five hundred rubles? | #292 00:20:36: Чего<br>#292 00:20:36: рублей | adapted: adapted |
-| 9 | Тимур | Ты её выкидывать собрался! | You were going to throw it out! | #293 00:20:38: Ты ее выкидывать собрался | adapted: adapted |
-| 10 | Аня | Сейчас на неё спрос появился. | Now a demand for it has appeared. | #293 00:20:38: Сейчас на нее спрос появился | adapted: adapted |
-| 11 | Аня | Бери, хорошая рыба. | Take it, it is a good fish. | #294 00:20:41: Бери хорошая рыба | adapted: adapted |
-| 12 | Аня | Только немного испортилась. | It just spoiled a little. | #294 00:20:41: только испортилась | adapted: adapted |
+| 3 | Сеня | О, это я заработал собственным умом! | Oh, I earned this with my own wit! | #288 00:20:24: О, это я заработал<br>#289 00:20:26: Собственным умом | adapted: adapted |
+| 4 | Сеня | Пропавшую рыбу куда денешь? | What will you do with the spoiled fish? | #290 00:20:31: Пропавшую рыбу куда денешь | adapted: adapted |
+| 5 | Сеня | Выкинул. | I threw it out. | #291 00:20:34: Выкидал | adapted: adapted |
+| 6 | Сеня | Мне можешь отдать? | Can you give it to me? | #291 00:20:34: Мне можешь отдать | adapted: adapted |
+| 7 | Сеня | Пятьсот рублей. | Five hundred rubles. | #292 00:20:36: рублей | adapted: adapted |
+| 8 | Сеня | Чего пятьсот рублей? | What do you mean five hundred rubles? | #292 00:20:36: Чего<br>#292 00:20:36: рублей | adapted: adapted |
+| 9 | Сеня | Ты её выкидывать собрался! | You were going to throw it out! | #293 00:20:38: Ты ее выкидывать собрался | adapted: adapted |
+| 10 | Сеня | Сейчас на неё спрос появился. | Now a demand for it has appeared. | #293 00:20:38: Сейчас на нее спрос появился | adapted: adapted |
+| 11 | Сеня | Бери, хорошая рыба. | Take it, it is a good fish. | #294 00:20:41: Бери хорошая рыба | adapted: adapted |
+| 12 | Сеня | Только немного испортилась. | It just spoiled a little. | #294 00:20:41: только испортилась | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Five hundred rubles.' In Russian, the idea of 'five hundred' flows naturally into 'rubles' without extra filler words. Timur answers right away.
 - 'What do you mean five hundred rubles?' Here the Russian phrasing highlights 'what' before landing on 'rubles'.
 - 'You were going to throw it out!' The grammar packs 'you' and 'got ready' into a tight, idiomatic kitchen exchange.
-- 'Now a demand for it has appeared.' Notice the reflexive suffix on the verb meaning 'to appear', turning the action back on the subject.
+- 'Now a demand for it has appeared.' In everyday Russian, 'now' flows straight into 'to appear, to show up' without extra linking words.
 - 'Take it, it is a good fish.' Senya brings out the contrast between 'take' and 'good' in a few short words.
-- 'It just spoiled a little.' Notice the reflexive suffix on the verb meaning 'went bad', turning the action back on the subject.
+- 'It just spoiled a little.' Notice how Russian puts 'a little' and 'went bad / spoiled' together in a short, direct phrase where word endings show how the ideas connect.

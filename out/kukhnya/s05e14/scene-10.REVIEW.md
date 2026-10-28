@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Шеф, да эту модель просто невозможно собрать! | Chef, it is simply impossible to assemble this model! | #174 00:10:36: Шеф, да это невозможно собрать | adapted: adapted |
+| 1 | Шеф | Шеф, да эту модель просто невозможно собрать! | Chef, it is simply impossible to assemble this model! | #174 00:10:36: Шеф, да это невозможно собрать | adapted: adapted |
 | 2 | Елена | Привет, Витя, мы скоро едем на стадион? | Hi, Vitya, are we heading to the stadium soon? | #178 00:10:47: Привет, Витя | adapted: adapted |
-| 3 | Аня | Леночка, по всей видимости, я не смогу пойти. | Lenochka, apparently, I will not be able to go. | #180 00:10:51: По всей видимости, я не смогу пойти на футбол | adapted: adapted |
+| 3 | Шеф | Леночка, по всей видимости, я не смогу пойти. | Lenochka, apparently, I will not be able to go. | #180 00:10:51: По всей видимости, я не смогу пойти на футбол | adapted: adapted |
 | 4 | Елена | Витя, а что у тебя вдруг случилось? | Vitya, what suddenly happened over there? | #181 00:10:55: Витя, а что случилось | adapted: adapted |
-| 5 | Аня | По работе у меня сегодня полный завал. | I am completely swamped at work today. | #182 00:10:57: По работе у меня полный завал | adapted: adapted |
+| 5 | Шеф | По работе у меня сегодня полный завал. | I am completely swamped at work today. | #182 00:10:57: По работе у меня полный завал | adapted: adapted |
 | 6 | Елена | А что, тебя никто не может подменить? | Why, can nobody cover for you? | #183 00:11:02: А что, тебя никто не может подменить | adapted: adapted |
-| 7 | Аня | Никто не может, у Лёвы сильный грипп. | Nobody can, Lyova has a bad flu. | #184 00:11:04: Никто не может | adapted: adapted |
-| 8 | Аня | Ещё нескольких поваров Вика отправила на выезд. | Vika sent several more cooks to an off-site event. | #186 00:11:08: поваров Вика отправила на выездной | adapted: adapted |
-| 9 | Аня | А тут ещё приехал очень важный гость. | And on top of that a very important guest arrived. | #188 00:11:16: А тут еще какой-то важный гость | adapted: adapted |
+| 7 | Шеф | Никто не может, у Лёвы сильный грипп. | Nobody can, Lyova has a bad flu. | #184 00:11:04: Никто не может | adapted: adapted |
+| 8 | Шеф | Ещё нескольких поваров Вика отправила на выезд. | Vika sent several more cooks to an off-site event. | #186 00:11:08: поваров Вика отправила на выездной | adapted: adapted |
+| 9 | Шеф | А тут ещё приехал очень важный гость. | And on top of that a very important guest arrived. | #188 00:11:16: А тут еще какой-то важный гость | adapted: adapted |
 | 10 | Елена | Витя, только, пожалуйста, так сильно не нервничай. | Vitya, just please do not get so worked up. | #189 00:11:18: Витя, только не нервничай | adapted: adapted |
-| 11 | Аня | Где мои заказы? Там важные гости ждут! | Where are my orders? Important guests are waiting out there! | #190 00:11:22: Где мои заказы, там гости ждут | adapted: adapted |
+| 11 | Шеф | Где мои заказы? Там важные гости ждут! | Where are my orders? Important guests are waiting out there! | #190 00:11:22: Где мои заказы, там гости ждут | adapted: adapted |
 | 12 | Елена | Ну, сходим на футбол в следующий раз. | Well, we will go to the football match next time. | #191 00:11:25: Ну, сходим на футбол в следующий раз | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

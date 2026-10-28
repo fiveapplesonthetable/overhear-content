@@ -10,16 +10,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Лёва, подожди, я тебе соврала. | Lyova, wait, I lied to you. | #250 00:17:44: Лёва, я соврала | adapted: adapted |
-| 2 | Аня | Я просто тогда очень испугалась. | I just got very scared back then. | #251 00:17:47: Я просто очень испугалась | adapted: adapted |
-| 3 | Аня | На самом деле мужа у меня нет. | In fact, I do not have a husband. | #252 00:17:49: И мужа у меня нет | adapted: adapted |
-| 4 | Аня | И детей у меня тоже нет. | And I do not have children either. | #253 00:17:51: и детей нет | adapted: adapted |
+| 1 | Гуля | Лёва, подожди, я тебе соврала. | Lyova, wait, I lied to you. | #250 00:17:44: Лёва, я соврала | adapted: adapted |
+| 2 | Гуля | Я просто тогда очень испугалась. | I just got very scared back then. | #251 00:17:47: Я просто очень испугалась | adapted: adapted |
+| 3 | Гуля | На самом деле мужа у меня нет. | In fact, I do not have a husband. | #252 00:17:49: И мужа у меня нет | adapted: adapted |
+| 4 | Гуля | И детей у меня тоже нет. | And I do not have children either. | #253 00:17:51: и детей нет | adapted: adapted |
 | 5 | Лёва | Правда? Значит, ты совсем не замужем? | Really? So you are not married at all? | #252 00:17:49: И мужа у меня нет | adapted: adapted |
-| 6 | Аня | Нет, я свободна и очень рада. | No, I am single and very glad. | #250 00:17:44: Лёва | adapted: adapted |
+| 6 | Гуля | Нет, я свободна и очень рада. | No, I am single and very glad. | #250 00:17:44: Лёва | adapted: adapted |
 | 7 | Лёва | Какую же вкуснятину мы тут разбили! | What a delicious treat we dropped here! | #254 00:17:55: какую вкуснятину разбили | adapted: adapted |
-| 8 | Таня | Витя, ничего мне объяснять не надо. | Vitya, you do not need to explain anything to me. | #255 00:18:03: Вить, не надо | adapted: adapted |
-| 9 | Таня | Я не хочу выяснять, что здесь произошло. | I do not want to find out what happened here. | #256 00:18:05: Я даже не хочу выяснять, что здесь произошло | adapted: adapted |
-| 10 | Таня | Сделайте так, чтобы к приезду Вики было готово. | Make sure everything is ready by Vika's arrival. | #257 00:18:07: Просто сделайте так, чтобы к приезду Вики было все готово | adapted: adapted |
+| 8 | Гуля | Витя, ничего мне объяснять не надо. | Vitya, you do not need to explain anything to me. | #255 00:18:03: Вить, не надо | adapted: adapted |
+| 9 | Гуля | Я не хочу выяснять, что здесь произошло. | I do not want to find out what happened here. | #256 00:18:05: Я даже не хочу выяснять, что здесь произошло | adapted: adapted |
+| 10 | Гуля | Сделайте так, чтобы к приезду Вики было готово. | Make sure everything is ready by Vika's arrival. | #257 00:18:07: Просто сделайте так, чтобы к приезду Вики было все готово | adapted: adapted |
 | 11 | Лёва | Таня, мы обязательно всё здесь сделаем. | Tanya, we will definitely get everything done here. | #258 00:18:10: Тань, мы все сделаем | adapted: adapted |
 | 12 | Лёва | Я тебе твёрдо это обещаю. | I firmly promise you that. | #259 00:18:12: Обещаю | adapted: adapted |
 

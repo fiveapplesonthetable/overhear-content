@@ -10,18 +10,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Сейчас они чай допьют и уйдут. | They will finish their tea now and leave. | #237 00:14:42: сейчас чай допьют | adapted: adapted |
-| 2 | Елена | Ты зачем свои усы сегодня сбрил? | Why did you shave off your mustache today? | #241 00:14:52: Ты зачем усы сбрил | adapted: adapted |
-| 3 | Елена | Аня мне сказала, что тебе очень идёт. | Anya told me that it suits you very well. | #242 00:14:55: Аня мне сказала, говоришь, все очень идет | adapted: adapted |
-| 4 | Аня | Да мне просто надоели эти старые усы. | I just got tired of that old mustache. | #243 00:14:58: Вот надоели эти усы | adapted: adapted |
-| 5 | Елена | Знаешь, если честно, мне они тоже надоели. | You know, to be honest, I was tired of it too. | #244 00:15:03: Знаешь, если честно, мне тоже | adapted: adapted |
-| 6 | Елена | Сегодня вечером я сама за тобой заеду. | Tonight I will come pick you up myself. | #245 00:15:05: Вечером за тобой заеду | adapted: adapted |
+| 1 | Лёва | Сейчас они чай допьют и уйдут. | They will finish their tea now and leave. | #237 00:14:42: сейчас чай допьют | adapted: adapted |
+| 2 | Лёва | Ты зачем свои усы сегодня сбрил? | Why did you shave off your mustache today? | #241 00:14:52: Ты зачем усы сбрил | adapted: adapted |
+| 3 | Лёва | Аня мне сказала, что тебе очень идёт. | Anya told me that it suits you very well. | #242 00:14:55: Аня мне сказала, говоришь, все очень идет | adapted: adapted |
+| 4 | Лёва | Да мне просто надоели эти старые усы. | I just got tired of that old mustache. | #243 00:14:58: Вот надоели эти усы | adapted: adapted |
+| 5 | Лёва | Знаешь, если честно, мне они тоже надоели. | You know, to be honest, I was tired of it too. | #244 00:15:03: Знаешь, если честно, мне тоже | adapted: adapted |
+| 6 | Лёва | Сегодня вечером я сама за тобой заеду. | Tonight I will come pick you up myself. | #245 00:15:05: Вечером за тобой заеду | adapted: adapted |
 | 7 | Гуля | Лёва, нам надо серьёзно поговорить. | Lyova, we need to have a serious talk. | #248 00:15:20: Лева, надо поговорить | adapted: adapted |
-| 8 | Аня | Хорошо, я только эту тележку отвезу. | Alright, I will just wheel this cart away. | #249 00:15:21: Хорошо, я только тележку отвезу | adapted: adapted |
+| 8 | Лёва | Хорошо, я только эту тележку отвезу. | Alright, I will just wheel this cart away. | #249 00:15:21: Хорошо, я только тележку отвезу | adapted: adapted |
 | 9 | Гуля | Нет, сейчас, хватит уже от меня бегать! | No, right now, stop running away from me already! | #250 00:15:23: Нет, сейчас. Хватит уже от меня бегать | adapted: adapted |
 | 10 | Гуля | Чтобы ты знал, я тебя не брошу. | Just so you know, I will not abandon you. | #251 00:15:28: чтоб ты знал, я тебя не брошу | adapted: adapted |
 | 11 | Гуля | До самого последнего дня я буду с тобой. | Until the very last day I will be with you. | #252 00:15:31: До самого последнего дня я буду с тобой | adapted: adapted |
-| 12 | Аня | Ну хорошо, я очень этому рад. | Well alright, I am very glad to hear that. | #253 00:15:37: Ну, хорошо | adapted: adapted |
+| 12 | Лёва | Ну хорошо, я очень этому рад. | Well alright, I am very glad to hear that. | #253 00:15:37: Ну, хорошо | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

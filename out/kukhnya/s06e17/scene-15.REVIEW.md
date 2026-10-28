@@ -10,19 +10,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Федя | Шеф, он сейчас на крыше! | Chef, he is on the roof right now! | #226 00:14:18: Шеф, он на крыше | adapted: adapted |
-| 2 | Аня | Отлично, теперь спускай его вниз. | Great, now bring him down. | #227 00:14:21: Спускай его вниз | adapted: adapted |
-| 3 | Аня | Подожди, это совсем не намёк! | Wait, this is not a hint at all! | #229 00:14:25: Это не намек | adapted: adapted |
-| 4 | Аня | Ты просто спусти его вниз. | You just bring him downstairs. | #230 00:14:27: Ты просто спусти его вниз | adapted: adapted |
-| 5 | Аня | Сбрасывать с крыши не надо. | There is no need to throw him off the roof. | #231 00:14:29: Сбрасывать не надо | adapted: adapted |
-| 6 | Федя | Шеф, да я всё понял. | Chef, yes, I understood everything. | #232 00:14:31: Шеф, да я понял | adapted: adapted |
-| 7 | Аня | Ты что наделал сейчас, Федя? | What have you done right now, Fedya? | #233 00:14:49: Ты что наделал | adapted: adapted |
-| 8 | Федя | Вы сказали спустить его вниз. | You said to bring him down. | #234 00:14:52: Вы же сами сказали, спусти его вниз | adapted: adapted |
-| 9 | Федя | Я сразу понял этот намёк. | I immediately understood that hint. | #235 00:14:53: я же сразу понял, что это намек | adapted: adapted |
-| 10 | Федя | Шеф, я сегодня пораньше уйду? | Chef, may I leave a bit early today? | #237 00:15:00: Шеф, я пораньше уйду | adapted: adapted |
-| 11 | Федя | Потом меня в розыск объявят. | Later they will put me on the wanted list. | #239 00:15:04: потом в розыск объявят | adapted: adapted |
-| 12 | Аня | За что ты меня наказываешь? | What are you punishing me for? | #241 00:15:10: За что ты меня наказываешь | adapted: adapted |
-| 13 | Аня | Это не я, он упал! | It was not me, he fell! | #244 00:15:27: Это не я<br>#245 00:15:28: Он сам упал | adapted: adapted |
+| 1 | Шеф | Шеф, он сейчас на крыше! | Chef, he is on the roof right now! | #226 00:14:18: Шеф, он на крыше | adapted: adapted |
+| 2 | Шеф | Отлично, теперь спускай его вниз. | Great, now bring him down. | #227 00:14:21: Спускай его вниз | adapted: adapted |
+| 3 | Шеф | Подожди, это совсем не намёк! | Wait, this is not a hint at all! | #229 00:14:25: Это не намек | adapted: adapted |
+| 4 | Шеф | Ты просто спусти его вниз. | You just bring him downstairs. | #230 00:14:27: Ты просто спусти его вниз | adapted: adapted |
+| 5 | Шеф | Сбрасывать с крыши не надо. | There is no need to throw him off the roof. | #231 00:14:29: Сбрасывать не надо | adapted: adapted |
+| 6 | Шеф | Шеф, да я всё понял. | Chef, yes, I understood everything. | #232 00:14:31: Шеф, да я понял | adapted: adapted |
+| 7 | Шеф | Ты что наделал сейчас, Федя? | What have you done right now, Fedya? | #233 00:14:49: Ты что наделал | adapted: adapted |
+| 8 | Шеф | Вы сказали спустить его вниз. | You said to bring him down. | #234 00:14:52: Вы же сами сказали, спусти его вниз | adapted: adapted |
+| 9 | Шеф | Я сразу понял этот намёк. | I immediately understood that hint. | #235 00:14:53: я же сразу понял, что это намек | adapted: adapted |
+| 10 | Шеф | Шеф, я сегодня пораньше уйду? | Chef, may I leave a bit early today? | #237 00:15:00: Шеф, я пораньше уйду | adapted: adapted |
+| 11 | Шеф | Потом меня в розыск объявят. | Later they will put me on the wanted list. | #239 00:15:04: потом в розыск объявят | adapted: adapted |
+| 12 | Шеф | За что ты меня наказываешь? | What are you punishing me for? | #241 00:15:10: За что ты меня наказываешь | adapted: adapted |
+| 13 | Шеф | Это не я, он упал! | It was not me, he fell! | #244 00:15:27: Это не я<br>#245 00:15:28: Он сам упал | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

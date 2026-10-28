@@ -1,41 +1,40 @@
-# kukhnya-s01e11-scene-25: review sheet
+# Отзыв критика  (The Critic's Review) — `kukhnya-s01e11-scene-25`
 
-Title: Отзыв критика  (The Critic's Review)
-Level: A1 — Duolingo Section 2
-Pair: ru-en
-Source: Кухня (Kukhnya) S1.11
+**Source:** Кухня (Kukhnya) S1.11 · `sources/kukhnya/s01/e11.ru.dual.srt`  
+**Target level:** A1 — Duolingo Section 2
 
+## Cast
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+| Role | Voice | Label |
+|---|---|---|
+| `narrator` | sky | — |
+| `chef` | anja | Шеф |
+| `nagiyev` | angelina | Нагиев |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+## Part 1 — Intro
+
+> After enduring a stern lecture from his mother in the restaurant kitchen, Chef Barinov is interrupted by a frantic Nagiyev. To everyone's disbelief, the televised food review awards Claude Monet nine out of ten, heaping special praise upon Kostya's professional integrity.
+
+## Part 2 — Story
+
+| # | Speaker | Line | English | Source cue(s) | Change |
 |---|---|---|---|---|---|
-| 1 | Мама | Витя, я выражаю тебе своё крайнее возмущение! | Vitya, I express to you my extreme outrage! | #324 00:21:49: Чтобы выразить тебе свое крайнее возмущение. | adapted: Mother scolds |
-| 2 | Мама | Я глубоко разочарована плохим сервисом в ресторане. | I am deeply disappointed by the bad service in the restaurant. | #326 00:21:56: И глубоко разочарована. | adapted: Mother complains |
-| 3 | Шеф | Мама, не кричи здесь, мы заняты работой. | Mom, do not shout here, we are busy with work. | new | new: Barinov pleads |
-| 4 | Мама | Чтобы в двенадцать часов ровно был дома! | Be home at twelve o'clock sharp! | #334 00:22:16: В 12 часов, чтобы был дома. | adapted: Mother orders strictly |
-| 5 | Нагиев | Шеф, скорее включай телевизор, там кулинарный критик! | Chef, turn on the TV quickly, the food critic is on! | new | new: Nagiyev runs in |
-| 6 | Шеф | Неужели критик уже выпустил свой разгромный отзыв? | Has the critic already released his devastating review? | new | new: Barinov panics |
-| 7 | Нагиев | Он говорит, что наше главное достоинство — принципиальность. | He says that our main virtue is integrity. | #340 00:22:41: Главным достоинством ресторана является особая принципиальность всего коллектива. | adapted: Nagiyev listens closely |
-| 8 | Шеф | Правда? А что он сказал про кухню? | Really? And what did he say about the kitchen? | new | new: Barinov asks eagerly |
-| 9 | Нагиев | Он назвал всю нашу еду просто восхитительной! | He called all our food simply delicious! | #346 00:23:04: Она здесь просто восхитительна | adapted: Nagiyev beams |
-| 10 | Нагиев | А бармена Костю он назвал настоящим профессионалом. | And he called bartender Kostya a real professional. | #347 00:23:08: Отдельно я бы отметил бармена Константина.<br>#348 00:23:13: Это не просто профессионал своего дела, но еще и очень хороший человек. | adapted: Nagiyev quotes critic |
-| 11 | Нагиев | Критик поставил ресторану девять баллов из десяти! | The critic gave the restaurant nine points out of ten! | #349 00:23:16: В целом я бы поставил этому ресторану 9 баллов из 10. | adapted: Nagiyev announces score |
-| 12 | Шеф | Девять из десяти? Это же невероятный успех! | Nine out of ten? That is an incredible success! | #350 00:23:27: 9 из 10. | adapted: Barinov rejoices |
-| 13 | Нагиев | Витя, срочно верни Костю обратно на работу! | Vitya, urgently bring Kostya back to work! | #351 00:23:32: Бармена надо вернуть. | adapted: Nagiyev commands |
+| 0 | Шеф | Витя, я выражаю тебе своё крайнее возмущение! | Vitya, I express to you my extreme outrage! | #324 "Чтобы выразить тебе свое крайнее возмущение." |  |
+| 1 | Шеф | Я глубоко разочарована плохим сервисом в ресторане. | I am deeply disappointed by the bad service in the restaurant. | #326 "И глубоко разочарована." |  |
+| 2 | Шеф | Мама, не кричи здесь, мы заняты работой. | Mom, do not shout here, we are busy with work. | *(added)* |  |
+| 3 | Шеф | Чтобы в двенадцать часов ровно был дома! | Be home at twelve o'clock sharp! | #334 "В 12 часов, чтобы был дома." |  |
+| 4 | Нагиев | Шеф, скорее включай телевизор, там кулинарный критик! | Chef, turn on the TV quickly, the food critic is on! | *(added)* |  |
+| 5 | Шеф | Неужели критик уже выпустил свой разгромный отзыв? | Has the critic already released his devastating review? | *(added)* |  |
+| 6 | Нагиев | Он говорит, что наше главное достоинство — принципиальность. | He says that our main virtue is integrity. | #340 "Главным достоинством ресторана является особая принципиальность всего коллектива." |  |
+| 7 | Шеф | Правда? А что он сказал про кухню? | Really? And what did he say about the kitchen? | *(added)* |  |
+| 8 | Нагиев | Он назвал всю нашу еду просто восхитительной! | He called all our food simply delicious! | #346 "Она здесь просто восхитительна" |  |
+| 9 | Нагиев | А бармена Костю он назвал настоящим профессионалом. | And he called bartender Kostya a real professional. | #347 "Отдельно я бы отметил бармена Константина.", #348 "Это не просто профессионал своего дела, но еще и очень хороший человек." |  |
+| 10 | Нагиев | Критик поставил ресторану девять баллов из десяти! | The critic gave the restaurant nine points out of ten! | #349 "В целом я бы поставил этому ресторану 9 баллов из 10." |  |
+| 11 | Шеф | Девять из десяти? Это же невероятный успех! | Nine out of ten? That is an incredible success! | #350 "9 из 10." |  |
+| 12 | Нагиев | Витя, срочно верни Костю обратно на работу! | Vitya, urgently bring Kostya back to work! | #351 "Бармена надо вернуть." |  |
 
-## Walk-through narration (English only, no target-language words quoted)
+## Part 5 — Outro & closing
 
-- 'Vitya, I express to you my extreme outrage!' Barinov's formidable mother scolds him in the kitchen.
-- 'I am deeply disappointed by the bad service in the restaurant.' Here the speaker anchors the line on the word meaning 'deeply' and builds the thought around 'to disappoint' and 'bad'.
-- 'Mom, do not shout here, we are busy with work.' The embarrassed head chef whispers pleadingly.
-- 'Be home at twelve o'clock sharp!' She lays down an uncompromising curfew before departing.
-- 'Chef, turn on the TV quickly, the food critic is on!' Nagiyev puts the word for 'boss' together with 'faster' and 'to turn on' in a crisp, natural spoken turn of phrase.
-- 'Has the critic already released his devastating review?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'critic', pairing it with 'already' and 'to let out'.
-- 'He says that our main virtue is integrity.' Nagiyev quotes the critic's surprisingly glowing words.
-- 'Really? And what did he say about the kitchen?' Chef Barinov expresses this naturally by combining the word for 'Really?' with 'to say' and 'kitchen'.
-- 'He called all our food simply delicious!' The restaurant owner beams with pure delight.
-- 'And he called bartender Kostya a real professional.' Here Nagiyev anchors the line on the word meaning 'bartender' and builds the thought around 'to call' and 'real'.
-- 'The critic gave the restaurant nine points out of ten!' The phrasing opens with 'critic' before bringing in 'to put' and 'restaurant' to make the point clear.
-- 'Nine out of ten? That is an incredible success!' Russian omits the present-tense verb 'to be' here, linking 'nine' directly with 'ten', combining 'nine' with 'ten' and 'incredible'.
-- 'Vitya, urgently bring Kostya back to work!' Nagiyev orders an instant reversal of the dismissal.
+> Saved by Kostya's unwavering honesty, Claude Monet triumphs as Nagiyev insists on the bartender's immediate return. Next time you watch the episode, listen for the Russian expressions for 'point' and 'bartender' — you will catch every word right away. See you next time!
+
+**Нагиев:** Пока!

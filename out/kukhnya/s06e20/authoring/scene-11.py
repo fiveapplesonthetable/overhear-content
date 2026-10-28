@@ -1,29 +1,29 @@
 ID = 'kukhnya-s06e20-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 6
 EPISODE = 20
 SCENE = 11
-TITLE = 'План побега в подвале  (Escape Plan in the Basement)'
+TITLE = "План побега в подвале  (Escape Plan in the Basement)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'mikhail': 'anja', 'denis': 'angelina'}
-LABELS = {'anya': 'Шеф', 'mikhail': 'Михаил', 'denis': 'Денис'}
-SOURCE_NAME = "Кухня (Kukhnya) S6.20"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "mikhail": "anja"}
+LABELS = {"mikhail": "Михаил"}
+SOURCE_NAME = 'Кухня (Kukhnya) S6.20'
 SOURCE_FILE = 'sources/kukhnya/s06/e20.ru.srt'
 
 INTRO = 'Senya and Fedya promise to get a wheelchair within half an hour while Mikhail tells Viktor Petrovich to hide from the inspector. Meanwhile, in the basement, Denis and Nikita stage a loud argument to lure their guard within reach.'
 
 STORY = [
-    ('anya', 'Сейчас, шеф, мы коляску достанем.', 'Right now, Chef, we will get a wheelchair.', [(141, 'Сейчас, шеф, мы коляску достанем')], 'adapted'),
-    ('anya', 'Через полчаса всё будет готово.', 'In half an hour everything will be ready.', [(142, 'Через полчаса все будет')], 'adapted'),
+    ('mikhail', 'Сейчас, шеф, мы коляску достанем.', 'Right now, Chef, we will get a wheelchair.', [(141, 'Сейчас, шеф, мы коляску достанем')], 'adapted'),
+    ('mikhail', 'Через полчаса всё будет готово.', 'In half an hour everything will be ready.', [(142, 'Через полчаса все будет')], 'adapted'),
     ('mikhail', 'Пока они ищут, спрячься куда-нибудь.', 'While they are looking, hide somewhere.', [(143, 'пока они ищут коляску, спрячься куда-нибудь')], 'adapted'),
     ('mikhail', 'Чтобы тебя инспектор не увидел.', 'So that the inspector does not see you.', [(144, 'чтобы тебя инспектор не увидел')], 'adapted'),
     ('mikhail', 'Я скажу, что ты в больнице.', 'I will say that you are in the hospital.', [(145, 'А я ему скажу, что ты в больнице')], 'adapted'),
-    ('denis', 'Эй, мне срочно в туалет надо.', 'Hey, I urgently need to go to the restroom.', [(147, 'Эй, эй, мне в туалет надо')], 'adapted'),
+    ('mikhail', 'Эй, мне срочно в туалет надо.', 'Hey, I urgently need to go to the restroom.', [(147, 'Эй, эй, мне в туалет надо')], 'adapted'),
     ('mikhail', 'А я здесь вообще при чём?', 'And what does that have to do with me?', [(148, 'А я здесь при чем')], 'adapted'),
     ('mikhail', 'Далеко ты всё равно не уйдёшь.', 'You will not get far anyway.', [(150, 'Далеко все равно не уйдешь')], 'adapted'),
-    ('denis', 'Может, ты сейчас встанешь со стула?', 'Maybe you will stand up from the chair now?', [(151, 'Может, ты встанешь')], 'adapted'),
-    ('denis', 'Потому что мне очень надо идти.', 'Because I really need to go.', [(152, 'Потому что мне надо')], 'adapted'),
+    ('mikhail', 'Может, ты сейчас встанешь со стула?', 'Maybe you will stand up from the chair now?', [(151, 'Может, ты встанешь')], 'adapted'),
+    ('mikhail', 'Потому что мне очень надо идти.', 'Because I really need to go.', [(152, 'Потому что мне надо')], 'adapted'),
     ('mikhail', 'Ты что там сейчас творишь?', 'What are you doing over there right now?', [(153, 'Ты что творишь')], 'adapted'),
     ('mikhail', 'Быстро сели оба на место!', 'Sit back down in your places quickly, both of you!', [(154, 'сели я сказал'), (156, 'Сели')], 'adapted'),
 ]
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = 'As Denis and Nikita overpower the guard and make their escape, Chef Barinov runs straight into Elena and Malouda at the hotel entrance. See you in the next scene.'
-CLOSING = ('mikhail', 'Вы меня плохо слышите?')
+OUTRO = 'As Denis and Nikita overpower the guard and make their escape, Chef Barinov runs straight into Elena and Malouda at the hotel entrance. Until next time!'
+CLOSING = ("mikhail", "До свидания!")

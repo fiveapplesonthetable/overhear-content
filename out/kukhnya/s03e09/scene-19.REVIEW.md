@@ -10,13 +10,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Настя, прости меня, я тебе врал. | Nastya, forgive me, I was lying to you. | #289 00:21:34: Настя, прости меня, я тебе врал | adapted: adapted |
-| 2 | Аня | На самом деле я работаю у папы. | In reality I have been working for your dad. | #290 00:21:37: На самом деле я работаю у твоего папы | adapted: adapted |
-| 3 | Аня | Точнее, я тут раньше работал. | Or rather, I used to work here. | #291 00:21:42: Точнее работал | adapted: adapted |
-| 4 | Аня | Я больше не смогу у вас работать. | I will no longer be able to work for you. | #292 00:21:44: я больше не смогу у вас работать | adapted: adapted |
-| 5 | Аня | Потому что Настя против такой работы. | Because Nastya is against this kind of work. | #293 00:21:47: потому что я знаю, что Настя | adapted: adapted |
-| 6 | Аня | И денег нам занимать не нужно. | And there is no need to lend us money. | #294 00:21:50: И денег нам занимать не нужно | adapted: adapted |
-| 7 | Аня | Я обязательно сам их заработаю. | I will definitely earn it myself. | #295 00:21:53: Я сам их заработаю | adapted: adapted |
+| 1 | Костя | Настя, прости меня, я тебе врал. | Nastya, forgive me, I was lying to you. | #289 00:21:34: Настя, прости меня, я тебе врал | adapted: adapted |
+| 2 | Костя | На самом деле я работаю у папы. | In reality I have been working for your dad. | #290 00:21:37: На самом деле я работаю у твоего папы | adapted: adapted |
+| 3 | Костя | Точнее, я тут раньше работал. | Or rather, I used to work here. | #291 00:21:42: Точнее работал | adapted: adapted |
+| 4 | Костя | Я больше не смогу у вас работать. | I will no longer be able to work for you. | #292 00:21:44: я больше не смогу у вас работать | adapted: adapted |
+| 5 | Костя | Потому что Настя против такой работы. | Because Nastya is against this kind of work. | #293 00:21:47: потому что я знаю, что Настя | adapted: adapted |
+| 6 | Костя | И денег нам занимать не нужно. | And there is no need to lend us money. | #294 00:21:50: И денег нам занимать не нужно | adapted: adapted |
+| 7 | Костя | Я обязательно сам их заработаю. | I will definitely earn it myself. | #295 00:21:53: Я сам их заработаю | adapted: adapted |
 | 8 | Вика | Катя, можешь уже не приносить диплом. | Katya, you do not need to bring your diploma anymore. | #299 00:22:11: Катя, можешь не приносить | adapted: adapted |
 | 9 | Вика | Я сделала официальный запрос в Париж. | I sent an official inquiry to Paris. | #300 00:22:14: я сделала запрос в Париж | adapted: adapted |
 | 10 | Вика | Мне ответили, что тебя оттуда отчислили. | They replied to me that you were expelled from there. | #300 00:22:14: и мне ответили, что тебя отчислили | adapted: adapted |

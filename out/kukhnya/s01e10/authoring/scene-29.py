@@ -1,103 +1,48 @@
-ID = "kukhnya-s01e10-scene-29"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e10-scene-29.
+ID = 'kukhnya-s01e10-scene-29'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 29
 TITLE = "Щучья икра  (Pike Caviar)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {"narrator": "sky", "anya": "alisa", "chef": "anja"}
-LABELS = {"anya": "Сеня", "chef": "Шеф"}
-SOURCE_NAME = "Кухня (Kukhnya) S1.10"
-SOURCE_FILE = "sources/kukhnya/s01/e10.ru.dual.srt"
-SOURCE_NOTE = (
-    "Cues 204-206. Senya opens the container to reveal five kilograms of inexpensive pike caviar, "
-    "prompting Chef Viktor to devise a daring plan to disguise its bright yellow color."
-)
-
-INTRO = (
-    "In the quiet back room of Claude Monet, Senya opens the delivery container to display "
-    "five kilograms of freshly bought pike caviar. While the price is extraordinarily low, "
-    "the bright golden grains look nothing like the costly black sturgeon caviar expected by diners. "
-    "Let us listen to their discussion in Russian first."
-)
-
-STORY = [
-    ("anya", "Вот товар, как вы заказывали, шеф.",
-     "Here is the goods, as you ordered, chef.",
-     [(204, "вы заказывали")], "adapted"),
-    ("chef", "Открывай коробку и покажи мне икру.",
-     "Open the box and show me the caviar.",
-     [], "new"),
-    ("anya", "Это отличная щучья икра, пять килограммов.",
-     "This is excellent pike caviar, five kilograms.",
-     [(205, "Икра щучья. Пять кило")], "adapted"),
-    ("chef", "Она выглядит очень красиво и аппетитно.",
-     "It looks very beautiful and appetizing.",
-     [], "new"),
-    ("anya", "Цена всего двести рублей за килограмм.",
-     "The price is only two hundred rubles per kilogram.",
-     [(206, "Двести рублей килограмм")], "adapted"),
-    ("chef", "Это действительно очень дешёвая цена.",
-     "This is indeed a very cheap price.",
-     [], "new"),
-    ("anya", "Мы сохранили ресторану очень много денег.",
-     "We saved the restaurant a lot of money.",
-     [], "new"),
-    ("chef", "Но цвет этой икры слишком жёлтый.",
-     "But the color of this caviar is too yellow.",
-     [], "new"),
-    ("anya", "Щучья икра всегда бывает жёлтого цвета.",
-     "Pike caviar is always yellow in color.",
-     [], "new"),
-    ("chef", "А гости ждут дорогую чёрную икру.",
-     "And the guests expect expensive black caviar.",
-     [], "new"),
-    ("anya", "Что же нам делать с этим цветом?",
-     "What are we to do with this color?",
-     [], "new"),
-    ("chef", "У меня появился один хитрый план.",
-     "I have got a clever plan.",
-     [], "new"),
-    ("anya", "Я готов помочь вам в этом деле.",
-     "I am ready to help you in this business.",
-     [], "new"),
-]
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "senya": "angelina", "chef": "anja"}
+LABELS = {"senya": "Сеня", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
+SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
+INTRO = 'In the quiet back room of Claude Monet, Senya opens the delivery container to display five kilograms of freshly bought pike caviar. While the price is extraordinarily low, the bright golden grains look nothing like the costly black sturgeon caviar expected by diners. Let us listen to their discussion in Russian first.'
 OPENER = "Now let us examine Senya and Viktor's discussion about the caviar line by line."
-
-WALK = [
-    (0, None,
-     "'Here is the goods, as you ordered, chef.' -- Senya presents the delivery exactly as instructed."),
-    (1, None,
-     "'Open the box and show me the caviar.' -- Viktor asks to inspect the product visually."),
-    (2, None,
-     "'This is excellent pike caviar, five kilograms.' -- Senya proudly specifies the type and weight of the roe."),
-    (3, None,
-     "'It looks very beautiful and appetizing.' -- The chef acknowledges the appealing quality of the food."),
-    (4, None,
-     "'The price is only two hundred rubles per kilogram.' -- Senya highlights the amazingly low cost."),
-    (5, None,
-     "'This is indeed a very cheap price.' -- Viktor agrees that the bargain was exceptional."),
-    (6, None,
-     "'We saved the restaurant a lot of money.' -- Senya praises their thrifty financial accomplishment."),
-    (7, None,
-     "'But the color of this caviar is too yellow.' -- Viktor identifies an obvious problem with the color."),
-    (8, None,
-     "'Pike caviar is always yellow in color.' -- The cook explains that pike roe naturally has golden shades."),
-    (9, None,
-     "'And the guests expect expensive black caviar.' -- The head chef points out the expectations of wealthy diners."),
-    (10, None,
-     "'What are we to do with this color?' -- Senya wonders how they will solve the chromatic mismatch."),
-    (11, None,
-     "'I have got a clever plan.' -- Viktor hints at a cunning scheme to disguise the fish eggs."),
-    (12, None,
-     "'I am ready to help you in this business.' -- The loyal cook pledges full cooperation in the trick."),
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = "With five kilograms of bright yellow pike caviar before them, Viktor and Senya prepare to embark on a daring culinary experiment to fool the restaurant's discerning guests. Next time you watch the episode, listen for the Russian expressions for 'appetizingly' and 'to happen' — you will catch every word right away. See you next time!"
+CLOSING = ("chef", "Пока!")
+STORY = [
+    ('senya', 'Вот товар, как вы заказывали, шеф.', 'Here is the goods, as you ordered, chef.', [(204, 'вы заказывали')], ''),
+    ('chef', 'Открывай коробку и покажи мне икру.', 'Open the box and show me the caviar.', [], ''),
+    ('senya', 'Это отличная щучья икра, пять килограммов.', 'This is excellent pike caviar, five kilograms.', [(205, 'Икра щучья. Пять кило')], ''),
+    ('chef', 'Она выглядит очень красиво и аппетитно.', 'It looks very beautiful and appetizing.', [], ''),
+    ('senya', 'Цена всего двести рублей за килограмм.', 'The price is only two hundred rubles per kilogram.', [(206, 'Двести рублей килограмм')], ''),
+    ('chef', 'Это действительно очень дешёвая цена.', 'This is indeed a very cheap price.', [], ''),
+    ('senya', 'Мы сохранили ресторану очень много денег.', 'We saved the restaurant a lot of money.', [], ''),
+    ('chef', 'Но цвет этой икры слишком жёлтый.', 'But the color of this caviar is too yellow.', [], ''),
+    ('senya', 'Щучья икра всегда бывает жёлтого цвета.', 'Pike caviar is always yellow in color.', [], ''),
+    ('chef', 'А гости ждут дорогую чёрную икру.', 'And the guests expect expensive black caviar.', [], ''),
+    ('senya', 'Что же нам делать с этим цветом?', 'What are we to do with this color?', [], ''),
+    ('chef', 'У меня появился один хитрый план.', 'I have got a clever plan.', [], ''),
+    ('senya', 'Я готов помочь вам в этом деле.', 'I am ready to help you in this business.', [], ''),
 ]
-
-TRANSITION = "Now let us listen to the conversation about the pike caviar once more."
-OUTRO = (
-    "With five kilograms of bright yellow pike caviar before them, Viktor and Senya prepare "
-    "to embark on a daring culinary experiment to fool the restaurant's discerning guests."
-)
-CLOSING = ("chef", "У меня появился один хитрый план.")
+WALK = [
+    (0, None, "'Here is the goods, as you ordered, chef.' Senya puts the word for 'goods' together with 'as' and 'ordered' in a crisp, natural spoken turn of phrase."),
+    (1, None, "'Open the box and show me the caviar.' Chef Barinov leads with the direct command form meaning 'open', pairing it with 'box' and 'show'."),
+    (2, None, "'This is excellent pike caviar, five kilograms.' Russian omits the present-tense verb 'to be' here, linking 'excellent' directly with 'pike', pairing it with 'caviar' and 'five'."),
+    (3, None, "'It looks very beautiful and appetizing.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (4, None, "'The price is only two hundred rubles per kilogram.' Russian omits the present-tense verb 'to be' here, linking 'price' directly with 'two hundred', combining 'price' with 'two hundred' and 'rubles'."),
+    (5, None, "'This is indeed a very cheap price.' Russian omits the present-tense verb 'to be' here, linking 'really' directly with 'very', pairing it with 'cheap' and 'price'."),
+    (6, None, "'We saved the restaurant a lot of money.' Senya uses the action verb meaning 'saved' to focus on the single completed result, pairing it with 'for the restaurant' and 'very'."),
+    (7, None, "'But the color of this caviar is too yellow.' Russian omits the present-tense verb 'to be' here, linking 'color' directly with 'caviar', pairing it with 'too' and 'yellow'."),
+    (8, None, "'Pike caviar is always yellow in color.' Senya puts the word for 'pike' together with 'caviar' and 'always' in a crisp, natural spoken turn of phrase."),
+    (9, None, "'And the guests expect expensive black caviar.' Here Chef Barinov anchors the line on the word meaning 'guests' and builds the thought around 'wait for' and 'expensive'."),
+    (10, None, "'What are we to do with this color?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (11, None, "'I have got a clever plan.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'appeared' and 'one'."),
+    (12, None, "'I am ready to help you in this business.' Senya puts the word for 'ready' together with 'to help' and 'matter' in a crisp, natural spoken turn of phrase."),
+]

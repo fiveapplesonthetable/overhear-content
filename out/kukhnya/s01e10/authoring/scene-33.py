@@ -1,98 +1,45 @@
-"""s01e10 scene 33: Евгений Максимович (Evgeny Maksimovich)."""
-
-ID = "kukhnya-s01e10-scene-33"
-SHOW = "kukhnya"
+# Authoring module for kukhnya-s01e10-scene-33.
+ID = 'kukhnya-s01e10-scene-33'
+SHOW = 'kukhnya'
 SEASON = 1
 EPISODE = 10
 SCENE = 33
 TITLE = "Евгений Максимович  (Evgeny Maksimovich)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {
-    "narrator": "sky",
-    "anya": "alisa",
-    "vika": "anja",
-}
-LABELS = {
-    "anya": "Макс",
-    "vika": "Вика",
-}
-SOURCE_NAME = "Кухня (Kukhnya) S1.10"
-SOURCE_FILE = "sources/kukhnya/s01/e10.ru.dual.srt"
-
-INTRO = (
-    "In the restaurant office, Max confronts Victoria after discovering she was only testing his maturity. "
-    "To turn the tables, Max playfully pretends to embrace parenthood, eagerly suggesting marriage, loans, and baby names. "
-    "Listen to their conversation in Russian first, then we will break down each line in English."
-)
-
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "vika": "angelina"}
+LABELS = {"anya": "Макс", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
+SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
+INTRO = 'In the restaurant office, Max confronts Victoria after discovering she was only testing his maturity. To turn the tables, Max playfully pretends to embrace parenthood, eagerly suggesting marriage, loans, and baby names. Listen to their conversation in Russian first, then we will break down each line in English.'
+OPENER = "Now let's go back through the exchange around Evgeny Maksimovich line by line and unpack how the Russian works."
+TRANSITION = "Now let's listen to the conversation again without interruption."
+OUTRO = "In the restaurant office, Max playfully turns the tables on Victoria by enthusiastically proposing marriage, moving in together, and naming their baby Evgeny Maksimovich. Next time you watch the episode, listen for the Russian expressions for 'to wait' and 'to be enough' — you will catch every word right away. See you next time!"
+CLOSING = ("anya", "Пока!")
 STORY = [
-    ("anya", "Вика, я тут подумал над твоими словами.",
-     "Vika, I have been thinking about your words.",
-     [(233, "я тут подумал")], "opening conversation"),
-    ("vika", "И что же ты надумал, Макс?",
-     "And what did you come up with, Max?",
-     [], "feigning innocence"),
-    ("anya", "Я позвонил маме, родители скоро приедут.",
-     "I called mom, my parents are coming soon.",
-     [(234, "маме с папкой, они приедут.")], "declaring plan"),
-    ("anya", "Мы обязательно сыграем большую свадьбу!",
-     "We will definitely have a big wedding!",
-     [(235, "Сыграем свадьбу")], "offering wedding"),
-    ("vika", "Макс, ты это сейчас серьёзно говоришь?",
-     "Max, are you saying this seriously right now?",
-     [], "surprised reaction"),
-    ("anya", "Если не хватит денег, возьмём кредит.",
-     "If there is not enough money, we will take a loan.",
-     [(236, "кредит возьмём")], "suggesting finance"),
-    ("anya", "В понедельник я к тебе перееду.",
-     "On Monday I will move in with you.",
-     [(237, "я к тебе перееду.")], "proposing move"),
-    ("anya", "Будем вместе спокойно ждать ребёнка.",
-     "We will wait for the baby together peacefully.",
-     [(238, "Будем ждать ребёнка.")], "feigning enthusiasm"),
-    ("vika", "Подожди, какой ещё ребёнок?",
-     "Wait, what baby are you talking about?",
-     [], "starting to backtrack"),
-    ("anya", "Может, мы назовём его Женя?",
-     "Maybe we will name him Zhenya?",
-     [(240, "ребёночка Женя назовём?")], "suggesting name"),
-    ("anya", "Будет красивое имя — Евгений Максимович!",
-     "It will be a handsome name — Evgeny Maksimovich!",
-     [(241, "Евгений Максимович.")], "proposing full name"),
-    ("anya", "А если родится девочка, назовём Евгения.",
-     "And if a girl is born, we will name her Evgeniya.",
-     [(242, "А если девочка, то Евгения.")], "covering both genders"),
-    ("anya", "Тебе нравится такой план, дорогая?",
-     "Do you like this plan, darling?",
-     [(243, "Тебе нравится?")], "concluding challenge"),
+    ('anya', 'Вика, я тут подумал над твоими словами.', 'Vika, I have been thinking about your words.', [(233, 'я тут подумал')], ''),
+    ('vika', 'И что же ты надумал, Макс?', 'And what did you come up with, Max?', [], ''),
+    ('anya', 'Я позвонил маме, родители скоро приедут.', 'I called mom, my parents are coming soon.', [(234, 'маме с папкой, они приедут.')], ''),
+    ('anya', 'Мы обязательно сыграем большую свадьбу!', 'We will definitely have a big wedding!', [(235, 'Сыграем свадьбу')], ''),
+    ('vika', 'Макс, ты это сейчас серьёзно говоришь?', 'Max, are you saying this seriously right now?', [], ''),
+    ('anya', 'Если не хватит денег, возьмём кредит.', 'If there is not enough money, we will take a loan.', [(236, 'кредит возьмём')], ''),
+    ('anya', 'В понедельник я к тебе перееду.', 'On Monday I will move in with you.', [(237, 'я к тебе перееду.')], ''),
+    ('anya', 'Будем вместе спокойно ждать ребёнка.', 'We will wait for the baby together peacefully.', [(238, 'Будем ждать ребёнка.')], ''),
+    ('vika', 'Подожди, какой ещё ребёнок?', 'Wait, what baby are you talking about?', [], ''),
+    ('anya', 'Может, мы назовём его Женя?', 'Maybe we will name him Zhenya?', [(240, 'ребёночка Женя назовём?')], ''),
+    ('anya', 'Будет красивое имя — Евгений Максимович!', 'It will be a handsome name — Evgeny Maksimovich!', [(241, 'Евгений Максимович.')], ''),
+    ('anya', 'А если родится девочка, назовём Евгения.', 'And if a girl is born, we will name her Evgeniya.', [(242, 'А если девочка, то Евгения.')], ''),
+    ('anya', 'Тебе нравится такой план, дорогая?', 'Do you like this plan, darling?', [(243, 'Тебе нравится?')], ''),
 ]
-
-OPENER = "Let us practice the key lines together."
-
 WALK = [
-    (0, "Вика, я тут подумал над твоими словами.",
-     "'Vika, I have been thinking about your words.' — past verb governing a prepositional construction."),
-    (2, "Я позвонил маме, родители скоро приедут.",
-     "'I called mom, my parents are coming soon.' — two coordinate clauses expressing family news."),
-    (3, "Мы обязательно сыграем большую свадьбу!",
-     "'We will definitely have a big wedding!' — future perfective verb with an emphatic adverb."),
-    (5, "Если не хватит денег, возьмём кредит.",
-     "'If there is not enough money, we will take a loan.' — conditional construction with genitive of negation."),
-    (6, "В понедельник я к тебе перееду.",
-     "'On Monday I will move in with you.' — prepositional time phrase followed by a motion verb."),
-    (7, "Будем вместе спокойно ждать ребёнка.",
-     "'We will wait for the baby together peacefully.' — compound future verb with an accusative direct object."),
-    (9, "Может, мы назовём его Женя?",
-     "'Maybe we will name him Zhenya?' — modal particle with future verb governing double accusative."),
-    (10, "Будет красивое имя — Евгений Максимович!",
-     "'It will be a handsome name — Evgeny Maksimovich!' — full name with traditional Russian patronymic."),
-    (11, "А если родится девочка, назовём Евгения.",
-     "'And if a girl is born, we will name her Evgeniya.' — conditional future sentence expressing contingency."),
-    (12, "Тебе нравится такой план, дорогая?",
-     "'Do you like this plan, darling?' — dative construction of liking with an affectionate address."),
+    (0, None, "'Vika, I have been thinking about your words.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (1, None, "'I called mom, my parents are coming soon.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
+    (2, None, "'We will definitely have a big wedding!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (3, None, "'If there is not enough money, we will take a loan.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (4, None, "'On Monday I will move in with you.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (5, None, "'We will wait for the baby together peacefully.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (6, None, "'Maybe we will name him Zhenya?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
+    (7, None, "'It will be a handsome name — Evgeny Maksimovich!' — full name with traditional Russian patronymic."),
+    (8, None, "'And if a girl is born, we will name her Evgeniya.' — conditional future sentence expressing contingency."),
+    (9, None, "'Do you like this plan, darling?' — matching form construction of liking with an affectionate address. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
 ]
-
-TRANSITION = "Now listen to the full conversation once more."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around evgeny maksimovich, and for the words meaning 'thought' and 'words'. You'll catch them now. See you next time."
-CLOSING = ("anya", "Тебе нравится такой план, дорогая?")

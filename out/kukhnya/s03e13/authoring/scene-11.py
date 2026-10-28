@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e13-scene-11'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 13
 SCENE = 11
-TITLE = 'Ложный вызов и коньяк  (False Alarm and Cognac)'
+TITLE = "Ложный вызов и коньяк  (False Alarm and Cognac)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'katya': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Макс', 'katya': 'Катя', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.13"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "anya": "alisa", "kostya": "anja", "katya": "angelina"}
+LABELS = {"anya": "Макс", "kostya": "Костя", "katya": "Катя"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.13'
 SOURCE_FILE = 'sources/kukhnya/s03/e13.ru.srt'
 
 INTRO = "To get Kostya away from the bar at two o'clock, Katya asks him to check a blinking light on her motorcycle outside. Max then greets the arriving repairman and plies him with free cognac. Listen to the Russian dialogue first."
@@ -50,5 +50,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Max congratulates himself on sending the technician packing—until a second technician walks through the front door! Let's hear the twist in the next scene."
-CLOSING = ('anya', 'Всего доброго, до свидания.')
+OUTRO = 'Max congratulates himself on sending the technician packing—until a second technician walks through the front door! Until next time!'
+CLOSING = ("anya", "Всего доброго, до свидания.")

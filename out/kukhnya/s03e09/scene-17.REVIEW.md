@@ -18,10 +18,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Катя | Папа, там Вика меня с документами достаёт. | Dad, Vika keeps pestering me about my documents. | #255 00:19:16: там Вика меня с документами достает | adapted: adapted |
 | 7 | Катя | Скажи ей, чтобы она отстала. | Tell her to leave me alone about them. | #256 00:19:19: Скажи, чтобы отстала | adapted: adapted |
 | 8 | Шеф | Да, обязательно скажу, прости ещё раз. | Yes, I will definitely tell her, forgive me once again. | #257 00:19:21: Да-да, скажу. Прости еще раз | adapted: adapted |
-| 9 | Аня | Я посмотрел договор с мясокомбинатом. | I looked over the contract with the meatpacking plant. | #259 00:19:29: посмотри там договор с мясокомбинатом | adapted: adapted |
-| 10 | Аня | Они там что-то со сроками мутят. | They are scheming something with the deadlines there. | #260 00:19:32: Что-то они со сроками мутят | adapted: adapted |
-| 11 | Аня | Ой, там сейчас Настя пришла! | Oh no, Nastya has just arrived out there! | #264 00:19:48: Там Настя | adapted: adapted |
-| 12 | Аня | К вам пришёл важный посетитель. | An important visitor has come to see you. | #265 00:19:50: к вам посетитель | adapted: adapted |
+| 9 | Шеф | Я посмотрел договор с мясокомбинатом. | I looked over the contract with the meatpacking plant. | #259 00:19:29: посмотри там договор с мясокомбинатом | adapted: adapted |
+| 10 | Шеф | Они там что-то со сроками мутят. | They are scheming something with the deadlines there. | #260 00:19:32: Что-то они со сроками мутят | adapted: adapted |
+| 11 | Шеф | Ой, там сейчас Настя пришла! | Oh no, Nastya has just arrived out there! | #264 00:19:48: Там Настя | adapted: adapted |
+| 12 | Шеф | К вам пришёл важный посетитель. | An important visitor has come to see you. | #265 00:19:50: к вам посетитель | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

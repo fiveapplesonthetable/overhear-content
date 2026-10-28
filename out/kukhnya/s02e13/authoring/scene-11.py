@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e13-scene-11"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e13-scene-11'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 13
 SCENE = 11
-TITLE = 'Шеф без документов  (The Chef Without Documents)'
+TITLE = "Шеф без документов  (The Chef Without Documents)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'nastya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'nastya': 'Настя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.13"
-SOURCE_FILE = "sources/kukhnya/s02/e13.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "nastya": "angelina", "chef": "anja"}
+LABELS = {"nastya": "Настя", "chef": "Шеф"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.13'
+SOURCE_FILE = 'sources/kukhnya/s02/e13.ru.srt'
 
 INTRO = "Determined not to push his luck twice, Max prepares a genuinely meatless batch of rolls for Nastya's guest and keeps the meat-filled ones for himself. Outside on the street, police officers stop Chef Barinov wandering in pajamas without any identification."
 
 STORY = [
-    ('anya', 'А спасибо.', 'Oh, thank you.', [(165, 'А спасибо')], ''),
-    ('vika', 'Держи вегетарианские рулетики.', 'Here are the vegetarian rolls.', [(166, 'Держи вегетарианские рулетики')], ''),
+    ('chef', 'А спасибо.', 'Oh, thank you.', [(165, 'А спасибо')], ''),
+    ('nastya', 'Держи вегетарианские рулетики.', 'Here are the vegetarian rolls.', [(166, 'Держи вегетарианские рулетики')], ''),
     ('nastya', 'Но если увидишь Сеню и Федю.', 'Just make sure Senya and Fedya do not see you.', [(167, 'Но если увидишь Сеню и Федю')], ''),
-    ('anya', 'Их ты чего, это меня надо бояться.', 'Why be afraid of them, I am the one they should fear.', [(168, 'Их ты чего, это меня надо бояться')], ''),
-    ('vika', 'Такие аппетитные рулетики, сама бы их съела.', 'Such appetizing rolls, I would eat them myself.', [(169, 'Такие аппетитные рулетики, сама бы их съела')], ''),
+    ('chef', 'Их ты чего, это меня надо бояться.', 'Why be afraid of them, I am the one they should fear.', [(168, 'Их ты чего, это меня надо бояться')], ''),
+    ('nastya', 'Такие аппетитные рулетики, сама бы их съела.', 'Such appetizing rolls, I would eat them myself.', [(169, 'Такие аппетитные рулетики, сама бы их съела')], ''),
     ('nastya', 'Да чего я не боюсь.', 'What would I not be afraid of.', [(170, 'Да чего я не боюсь')], ''),
-    ('anya', 'Тем более вегетарианец.', 'Especially since I am a vegetarian.', [(171, 'Тем более вегетарианец')], ''),
-    ('vika', 'Очень смешно.', 'Very funny.', [(173, 'Очень смешно')], ''),
+    ('chef', 'Тем более вегетарианец.', 'Especially since I am a vegetarian.', [(171, 'Тем более вегетарианец')], ''),
+    ('nastya', 'Очень смешно.', 'Very funny.', [(173, 'Очень смешно')], ''),
     ('nastya', 'Можно ваши документы?', 'May I see your documents, please?', [(175, 'можно ваши документы')], ''),
-    ('anya', 'Граждане полицейские, у меня нет с собой документов.', 'Officers, I do not have my documents on me.', [(176, 'Граждане полицейские, у меня нет с собой документов')], ''),
-    ('vika', 'Да вы что?', 'Oh, really?', [(178, 'Да вы что')], ''),
+    ('chef', 'Граждане полицейские, у меня нет с собой документов.', 'Officers, I do not have my documents on me.', [(176, 'Граждане полицейские, у меня нет с собой документов')], ''),
+    ('nastya', 'Да вы что?', 'Oh, really?', [(178, 'Да вы что')], ''),
     ('nastya', 'Я шеф-повар ресторана Клод Мане.', 'I am the head chef of the Claude Monet restaurant.', [(179, 'Я шеф-повар ресторана Клод Мане')], ''),
-    ('anya', 'Виктор Баринов.', 'Viktor Barinov.', [(180, 'Виктор Баринов')], ''),
+    ('chef', 'Виктор Баринов.', 'Viktor Barinov.', [(180, 'Виктор Баринов')], ''),
 ]
 
 OPENER = "Now let's go back through the conversation line by line."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the whole conversation once more from start to finish."
-
-OUTRO = 'When you watch Scene 11 of Episode 13, listen out for the exchange around the chef without documents — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('anya', 'Виктор Баринов.')
+OUTRO = 'That wraps up this scene as max hands Nastya a purely vegetarian batch of rolls while keeping the meat ones for himself, and police officers stop Chef Barinov on the street in his hospital robe. Until next time!'
+CLOSING = ("chef", "До завтра!")

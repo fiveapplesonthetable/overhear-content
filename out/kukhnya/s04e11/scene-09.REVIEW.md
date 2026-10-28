@@ -26,12 +26,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Guys, tonight we are celebrating!' In casual speech among young men, 'patsany' means 'guys' or 'lads'.
-- 'Nagiyev hired me as a musician.' Again, 'hired me as a musician' puts the role in the instrumental case.
+- 'Nagiyev hired me as a musician.' Here Max anchors the thought on 'took' and finishes on 'musician', keeping the spoken rhythm brisk and natural.
 - 'Congratulations, that is great!' Russian says 'I congratulate you' in the first-person singular where English uses the plural noun.
 - 'Only we are not staying out long today.' Married men Kostya and Max both promise to head home early — and fail.
 - 'Hello, my beloved wife.' Stumbling home late, Max uses an overly sweet greeting.
 - 'Did you even look at the clock?' In Russian, a clock or watch is always a plural noun ('chasy').
-- 'I do not even have a watch.' After 'there is not', the plural noun 'watch' takes the genitive plural ending '-ov'.
+- 'I do not even have a watch.' Russians say 'by me' or 'with us' where English says 'I have' or 'we have', without needing a separate word for 'have'.
 - 'Vikulya, forgive me, please.' Max uses an affectionate diminutive of Vika's name to soften her anger.
 - 'Fine, come inside quietly.' Vika lets him in before asking the decisive question.
 - 'Did you change the wheels on the car?' The neuter plural 'wheels' has the stress on the second syllable in the plural.

@@ -10,17 +10,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Вот ваш секретный вкусный ужин в номер. | Here is your secret delicious dinner to the room. | #95 00:06:43: Ваш секретный ужин в номер | adapted: adapted |
-| 2 | Федя | Какая же это настоящая красота и прелесть! | What real beauty and charm this is! | #96 00:06:45: Какая прелесть | adapted: adapted |
-| 3 | Аня | Кстати, нам бы теперь рассчитаться надо. | By the way, we should settle up now. | #97 00:07:00: Кстати<br>#98 00:07:04: Рассчитаться бы надо | adapted: adapted |
-| 4 | Федя | Один стейк для этого слишком мало? | Is one steak too little for this? | #99 00:07:08: чем один стейк | adapted: adapted |
-| 5 | Аня | Покормите меня завтра ещё пару раз. | Feed me a couple more times tomorrow. | #100 00:07:12: покормите меня завтра еще пару раз | adapted: adapted |
-| 6 | Аня | И тогда мы с вами рассчитаемся. | And then we will settle up with you. | #100 00:07:12: и рассчитаемся | adapted: adapted |
-| 7 | Федя | Ладно, мы до завтра спокойно потерпим. | Alright, we will calmly be patient until tomorrow. | #101 00:07:16: Ладно, потерпим | adapted: adapted |
+| 1 | Сеня | Вот ваш секретный вкусный ужин в номер. | Here is your secret delicious dinner to the room. | #95 00:06:43: Ваш секретный ужин в номер | adapted: adapted |
+| 2 | Шеф | Какая же это настоящая красота и прелесть! | What real beauty and charm this is! | #96 00:06:45: Какая прелесть | adapted: adapted |
+| 3 | Сеня | Кстати, нам бы теперь рассчитаться надо. | By the way, we should settle up now. | #97 00:07:00: Кстати<br>#98 00:07:04: Рассчитаться бы надо | adapted: adapted |
+| 4 | Шеф | Один стейк для этого слишком мало? | Is one steak too little for this? | #99 00:07:08: чем один стейк | adapted: adapted |
+| 5 | Сеня | Покормите меня завтра ещё пару раз. | Feed me a couple more times tomorrow. | #100 00:07:12: покормите меня завтра еще пару раз | adapted: adapted |
+| 6 | Сеня | И тогда мы с вами рассчитаемся. | And then we will settle up with you. | #100 00:07:12: и рассчитаемся | adapted: adapted |
+| 7 | Шеф | Ладно, мы до завтра спокойно потерпим. | Alright, we will calmly be patient until tomorrow. | #101 00:07:16: Ладно, потерпим | adapted: adapted |
 | 8 | Шеф | Господин модельер, пожалуйста, входите к нам. | Mister designer, please come in to see us. | #104 00:07:29: пожалуйста, входите | adapted: adapted |
 | 9 | Шеф | Скажите, у вас сейчас есть минутка? | Tell me, do you have a minute right now? | #105 00:07:32: Есть минутка | adapted: adapted |
-| 10 | Аня | Конечно, какой приятный запах на кухне! | Of course, what a pleasant smell in the kitchen! | #105 00:07:32: Конечно<br>#106 00:07:35: Приятный запах. Кухня | adapted: adapted |
-| 11 | Аня | Посмотрите туда, это ваша известная певица? | Look over there, is that your famous singer? | #107 00:07:39: Это она | adapted: adapted |
+| 10 | Сеня | Конечно, какой приятный запах на кухне! | Of course, what a pleasant smell in the kitchen! | #105 00:07:32: Конечно<br>#106 00:07:35: Приятный запах. Кухня | adapted: adapted |
+| 11 | Сеня | Посмотрите туда, это ваша известная певица? | Look over there, is that your famous singer? | #107 00:07:39: Это она | adapted: adapted |
 | 12 | Шеф | Да, это моя любимая будущая жена. | Yes, that is my beloved future wife. | #107 00:07:39: Да | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

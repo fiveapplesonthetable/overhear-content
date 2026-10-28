@@ -17,11 +17,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 5 | Настя | Покормишь нас? Я — нет. | Will you feed us? Me — no. | #161 00:10:58: Покормишь нас<br>#162 00:10:59: Я нет | adapted: adapted |
 | 6 | Настя | Вас Максим может обслужить. | Maxim can serve you. | #165 00:11:08: вас Максим может обслужить | adapted: adapted |
 | 7 | Аня | Здравствуйте! Пойдёмте за столик. | Hello! Let's go to the table. | #168 00:11:15: Пойдемте | adapted: adapted |
-| 8 | Вика | Я слушаю. | I am listening. | #170 00:11:24: Я слушаю | verbatim |
+| 8 | Настя | Я слушаю. | I am listening. | #170 00:11:24: Я слушаю | verbatim |
 | 9 | Аня | Это вам. | This is for you. | #170 00:11:24: Это вам | verbatim |
-| 10 | Вика | Спасибо. | Thank you. | #171 00:11:27: Спасибо | verbatim |
+| 10 | Настя | Спасибо. | Thank you. | #171 00:11:27: Спасибо | verbatim |
 | 11 | Аня | Кто это у нас такой щедрый? | Who is being so generous here? | #172 00:11:37: кто это у нас такой щедрый | adapted: adapted |
-| 12 | Вика | Опять штраф захотел? Иди работай. | Did you want a fine again? Go work. | #173 00:11:39: Опять штраф захотел<br>#174 00:11:41: Иди работай | verbatim |
+| 12 | Настя | Опять штраф захотел? Иди работай. | Did you want a fine again? Go work. | #173 00:11:39: Опять штраф захотел<br>#174 00:11:41: Иди работай | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

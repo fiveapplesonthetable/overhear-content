@@ -1,14 +1,14 @@
 ID = 'kukhnya-s03e15-scene-05'
-SHOW = "kukhnya"
+SHOW = 'kukhnya'
 SEASON = 3
 EPISODE = 15
 SCENE = 5
 TITLE = "Отец Насти против дешёвой свадьбы  (Nastya's Father Against a Cheap Wedding)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'nastya': 'anja', 'guest': 'angelina'}
-LABELS = {'anya': 'Макс', 'nastya': 'Настя', 'guest': 'Гость'}
-SOURCE_NAME = "Кухня (Kukhnya) S3.15"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "guest": "anja", "nastya": "angelina", "anya": "alisa"}
+LABELS = {"guest": "Гость", "nastya": "Настя", "anya": "Макс"}
+SOURCE_NAME = 'Кухня (Kukhnya) S3.15'
 SOURCE_FILE = 'sources/kukhnya/s03/e15.ru.srt'
 
 INTRO = "Nastya's wealthy father, Stepan Andreyevich, arrives at Claude Monet appalled by the cheap café Nastya and Kostya chose for their wedding reception. He offers to pay for everything himself, but proud Nastya refuses. Listen first."
@@ -46,5 +46,5 @@ WALK = [
 ]
 
 TRANSITION = "Alright, let's hear the entire conversation one more time from start to finish."
-OUTRO = "Since Nastya refuses to take a single ruble from her father directly, Stepan Andreyevich corners Kostya outside with a bundle of cash. Let's hear Scene Six."
-CLOSING = ('nastya', 'Нам твои деньги не нужны!')
+OUTRO = "Since Nastya refuses to take a single ruble from her father directly, Stepan Andreyevich corners Kostya outside with a bundle of cash. Let's hear Scene Six. Until next time!"
+CLOSING = ("nastya", "Пока!")

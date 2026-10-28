@@ -11,16 +11,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Гость | Что тебе надо? | What do you want? | #92 00:05:57: тебе надо | adapted: adapted |
-| 2 | Аня | Здравствуйте, меня Дмитрий зовут. | Hello, my name is Dmitry. | #92 00:05:57: Меня Дмитрий зовут | adapted: adapted |
+| 2 | Нагиев | Здравствуйте, меня Дмитрий зовут. | Hello, my name is Dmitry. | #92 00:05:57: Меня Дмитрий зовут | adapted: adapted |
 | 3 | Гость | Так, ты мне знаком. | Well, you look familiar to me. | #93 00:06:00: Так, так | adapted: adapted |
 | 4 | Гость | Это ты, что ли, прапорщик? | Wait, are you that warrant officer? | #94 00:06:01: Это ты, что ли, прапорщик | adapted: adapted |
-| 5 | Аня | Молодец, узнал меня. | Well done, you recognized me. | #96 00:06:08: Молодец | adapted: adapted |
-| 6 | Аня | Я тебе мир предлагаю. | I am offering you peace. | #97 00:06:11: Я тебе мир предлагаю | adapted: adapted |
+| 5 | Нагиев | Молодец, узнал меня. | Well done, you recognized me. | #96 00:06:08: Молодец | adapted: adapted |
+| 6 | Нагиев | Я тебе мир предлагаю. | I am offering you peace. | #97 00:06:11: Я тебе мир предлагаю | adapted: adapted |
 | 7 | Гость | Какой ещё тебе мир? | What kind of peace for you? | #98 00:06:15: Какой тебе мир | adapted: adapted |
 | 8 | Гость | Ты всех русских прапорщиков опозорил! | You disgraced all Russian warrant officers! | #99 00:06:17: Ты всех русских прапорщиков опозорил | adapted: adapted |
 | 9 | Гость | Ты всю русскую армию опозорил! | You disgraced the entire Russian army! | #100 00:06:20: всю русскую армию | adapted: adapted |
-| 10 | Аня | Я к тебе правда с миром пришёл. | I truly came to you in peace. | #102 00:06:25: Я к тебе, правда, с миром пришел | adapted: adapted |
-| 11 | Аня | Я просто тебе хотел денег предложить. | I just wanted to offer you some money. | #103 00:06:27: Я просто тебе хотел денег предложить | adapted: adapted |
+| 10 | Нагиев | Я к тебе правда с миром пришёл. | I truly came to you in peace. | #102 00:06:25: Я к тебе, правда, с миром пришел | adapted: adapted |
+| 11 | Нагиев | Я просто тебе хотел денег предложить. | I just wanted to offer you some money. | #103 00:06:27: Я просто тебе хотел денег предложить | adapted: adapted |
 | 12 | Гость | Денег мне решил предложить? | You decided to offer me money? | #104 00:06:29: Денег<br>#105 00:06:31: Денег | adapted: adapted |
 
 ## Walk-through narration (English only, no target-language words quoted)

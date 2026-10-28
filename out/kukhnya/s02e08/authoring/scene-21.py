@@ -1,32 +1,32 @@
-ID = "kukhnya-s02e08-scene-21"
-SHOW = "kukhnya"
+ID = 'kukhnya-s02e08-scene-21'
+SHOW = 'kukhnya'
 SEASON = 2
 EPISODE = 8
 SCENE = 21
-TITLE = 'Поцелуй на прощание и примирение семьи  (A Goodnight Kiss and Family Reconciliation)'
+TITLE = "Поцелуй на прощание и примирение семьи  (A Goodnight Kiss and Family Reconciliation)"
 LEVEL = "A1 — Duolingo Section 2"
-PAIR = "ru-en"
-VOICES = {'narrator': 'sky', 'anya': 'alisa', 'vika': 'anja', 'kostya': 'angelina'}
-LABELS = {'anya': 'Шеф', 'vika': 'Вика', 'kostya': 'Костя'}
-SOURCE_NAME = "Кухня (Kukhnya) S2.08"
-SOURCE_FILE = "sources/kukhnya/s02/e08.ru.srt"
+PAIR = 'ru-en'
+VOICES = {"narrator": "sky", "chef": "anja", "vika": "angelina"}
+LABELS = {"chef": "Шеф", "vika": "Вика"}
+SOURCE_NAME = 'Кухня (Kukhnya) S2.08'
+SOURCE_FILE = 'sources/kukhnya/s02/e08.ru.srt'
 
 INTRO = "Walking Elena to her door, Viktor Petrovich fumbles for words until Elena gently teases him and gives him a warm goodnight kiss. Back at the apartment, meanwhile, Kostya and Nastya's father return from the stairwell happily reconciled after secretly polished off cognac and sausage together."
 
 STORY = [
-    ('anya', 'Вот так и наш ресторан.', 'And it is the exact same way with our restaurant.', [(357, 'Вот так и наш ресторан')], ''),
+    ('chef', 'Вот так и наш ресторан.', 'And it is the exact same way with our restaurant.', [(357, 'Вот так и наш ресторан')], ''),
     ('vika', 'Нет, сейчас не хочу.', 'No, I do not want to right now.', [(362, 'Нет, сейчас не хочу')], ''),
-    ('kostya', 'А чего вы сейчас хотите?', 'Then what do you want right now?', [(363, 'А чего вы сейчас хотите')], ''),
-    ('anya', 'Господи, это вроде крепкие ребята.', 'Goodness, you head chefs seem like such tough guys.', [(364, 'Господи, это вроде крепкие ребята')], ''),
+    ('chef', 'А чего вы сейчас хотите?', 'Then what do you want right now?', [(363, 'А чего вы сейчас хотите')], ''),
+    ('chef', 'Господи, это вроде крепкие ребята.', 'Goodness, you head chefs seem like such tough guys.', [(364, 'Господи, это вроде крепкие ребята')], ''),
     ('vika', 'Чего ж такие глупые?', 'So why are you so silly sometimes?', [(365, 'Чего ж такие глупые')], ''),
-    ('kostya', 'Для кого-то оно наступает с первым поцелуем.', 'For someone, that moment arrives with a first kiss.', [(367, 'Для кого-то оно наступает с первым поцелуем')], ''),
-    ('anya', 'Как из китайского рынка.', 'Like something from a flea market.', [(369, 'Как из китайского рынка')], ''),
+    ('chef', 'Для кого-то оно наступает с первым поцелуем.', 'For someone, that moment arrives with a first kiss.', [(367, 'Для кого-то оно наступает с первым поцелуем')], ''),
+    ('chef', 'Как из китайского рынка.', 'Like something from a flea market.', [(369, 'Как из китайского рынка')], ''),
     ('vika', 'Нет, я сейчас напишу.', 'No, I will write it down right now.', [(373, 'Нет, я сейчас напишу')], ''),
-    ('kostya', 'Тебе нужно К.', 'You need the letter K.', [(375, 'Тебе нужно К')], ''),
-    ('anya', 'Пап, тебе не стыдно?', 'Dad, are you not ashamed of yourself?', [(378, 'Пап, тебе не стыдно')], ''),
+    ('chef', 'Тебе нужно К.', 'You need the letter K.', [(375, 'Тебе нужно К')], ''),
+    ('chef', 'Пап, тебе не стыдно?', 'Dad, are you not ashamed of yourself?', [(378, 'Пап, тебе не стыдно')], ''),
     ('vika', 'Тогда я уезжаю.', 'In that case, I am heading home.', [(381, 'Тогда я уезжаю')], ''),
-    ('kostya', 'Ну, животное может и бедное.', 'Well, the animal may have been poor.', [(386, 'Ну, животное может и бедное')], ''),
-    ('anya', 'Что именно сегодня оно обязательно случится.', 'That today is the day it will definitely happen.', [(390, 'что именно сегодня оно обязательно случится')], ''),
+    ('chef', 'Ну, животное может и бедное.', 'Well, the animal may have been poor.', [(386, 'Ну, животное может и бедное')], ''),
+    ('chef', 'Что именно сегодня оно обязательно случится.', 'That today is the day it will definitely happen.', [(390, 'что именно сегодня оно обязательно случится')], ''),
 ]
 
 OPENER = "Let's replay the exchange and look closely at each Russian phrase."
@@ -48,6 +48,5 @@ WALK = [
 ]
 
 TRANSITION = "Let's hear the complete conversation once more."
-
-OUTRO = 'When you watch Scene 21 of Episode 8, listen out for the exchange around a goodnight kiss and family reconciliation — you will recognize every Russian phrase right away. See you in the next scene.'
-CLOSING = ('kostya', 'Ну, животное может и бедное.')
+OUTRO = "That wraps up this scene as elena kisses Viktor Petrovich goodnight outside her door, and back at the apartment Kostya and Nastya's father return tipsy and reconciled after feasting on sausage on the stairs. Until next time!"
+CLOSING = ("chef", "Всего хорошего!")
