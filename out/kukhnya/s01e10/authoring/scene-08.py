@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the restaurant office, Chef Viktor Barinov urgently needs money to place a guaranteed bet on a football derby. He calls restaurant owner Dmitry Nagiyev, hoping to secure an advance, but Dmitry sees right through him. Listen to their phone conversation in Russian first, and then we will examine each sentence.'
-OPENER = 'Now, let us examine the vocabulary and phrasing of this sharp phone exchange.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "A comedic interaction highlighting Dmitry Nagiyev's stubborn refusal to fund Barinov's gambling habits. Next time you watch the episode, listen for the Russian expressions for 'advance' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has lost money and wants more to bet. He phones Dmitry Nagiyev, the owner of Claude Monet, in the hope of an advance. Take it in once, and don't worry about the details."
+OPENER = 'Now the same thing, but slowly.'
+TRANSITION = 'Now put it all together.'
+OUTRO = "Nagiyev won't lend a kopeck, and Barinov hangs up in a temper. The chef will have to look for money elsewhere. Bye for now."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Дмитрий Владимирович, доброе вам утро!', 'Dmitry Vladimirovich, good morning to you!', [(67, 'Дмитрий Владимирович, доброе вам утро.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Дмитрий, ты пожалеешь об этом!', 'Dmitry, you will regret this!', [], ''),
 ]
 WALK = [
-    (0, None, "'Dmitry Vladimirovich, good morning to you!' Viktor greets his boss on the phone with polite cheerfulness."),
-    (1, None, "'Hey, Viktor, I am not giving you money!' Dmitry immediately shuts down any financial requests."),
-    (2, None, "'I already paid you two paychecks.' Dmitry reminds the chef of his previous advance payments."),
-    (3, None, "'What did you want?' Dmitry demands to know the real reason behind the phone call."),
-    (4, None, "'Why, I am not calling for money!' Viktor pretends that his intention is purely social."),
-    (5, None, "'Really? Then why are you calling?' Suspicious right away, Nagiyev asks why Viktor is calling him if everything at the restaurant is fine."),
-    (6, None, "'Tonight is an important football match.' Viktor tries to steer the topic toward sports."),
-    (7, None, "'Is your beloved Spartak playing again?' Dmitry brings up the chef's well-known obsession."),
-    (8, None, "'Yes, and I have reliable insider info!' Viktor hints at his guaranteed secret source."),
-    (9, None, "'Viktor, sports betting is dangerous.' Dmitry warns his impulsive head chef against gambling."),
-    (10, None, "'I need a small advance until tomorrow.' Viktor finally confesses his urgent monetary need."),
-    (11, None, "'I know your advances, Viktor.' Dmitry remains completely unmoved by the plea."),
-    (12, None, "'You will not get a single kopeck!' Refusing to fund another gambling spree, Nagiyev snaps that Viktor will not get a single kopeck."),
-    (13, None, "'Dmitry, you will regret this!' Viktor shouts frustratedly before hanging up. Now, let us listen to the complete scene again to practice your comprehension."),
+    (0, None, '\'Dmitry Vladimirovich, good morning to you!\' Russians address respected people by first name and father\'s name: "Vladimirovich" is "son of Vladimir". "Dobroe utro" is "kind morning", with "vam", "to you", added for extra politeness.'),
+    (1, None, '\'Hey, Viktor, I am not giving you money!\' "Zdorovo" here is a casual "hi", spelled like "zdorovo", "great", but stressed on the o after d. "Deneg ne dam" is "of money not I\'ll give": "dengi" becomes "deneg" after "ne".'),
+    (2, None, '\'I already paid you two paychecks.\' "Dve", "two", is the form for she-words, because "zarplata" ends in -a. "Vydal" is "handed out", the word for paying wages. Nagiyev is counting, and the count is against Barinov.'),
+    (3, None, '\'What did you want?\' "Chego" is the form of "chto" that often goes with "khotet", "want", and it sounds casual. "Khotel" ends in -l, the past for a man. Nagiyev knows what the chef is after.'),
+    (4, None, '\'Why, I am not calling for money!\' The little "da" here doesn\'t mean "yes". It works like "why" or "well". "Za dengami" is "for money", meaning "to fetch money": after "za", "dengi" becomes "dengami".'),
+    (5, None, '\'Really? Then why are you calling?\' Here "da?" with a rising voice means "really?". "Zachem" is "what for", as Barinov said to Tanya. "Zvonish" is "you are calling", the casual "ty" form.'),
+    (6, None, '\'Tonight is an important football match.\' "Segodnya vecherom", "today in the evening", is how Russians say "tonight". "Futbolny" is "football" turned into a describing word. Barinov names the thing on his mind.'),
+    (7, None, '\'Is your beloved Spartak playing again?\' "Lyubimy", "beloved" or "favourite", is the word the mother used in the first scene. "Tvoy" is the casual "your". "Igraet" is "is playing".'),
+    (8, None, '\'Yes, and I have reliable insider info!\' "Est", "there is", appears again: "u menya est", "at me there is". "Vernaya", "reliable", is the same word as "faithful" in Senya\'s "verny drug".'),
+    (9, None, '\'Viktor, sports betting is dangerous.\' "Stavki na sport", "bets on sport", is plural, so "dangerous" is "opasny", plural too. Nagiyev sounds like a wise uncle. It is good advice.'),
+    (10, None, '\'I need a small advance until tomorrow.\' "Avans" is an advance on wages. "Do zavtra" is "until tomorrow". "Mne nuzhen" is "to me needed", with "nuzhen" bare because "avans" is a he-word.'),
+    (11, None, '\'I know your advances, Viktor.\' Nagiyev puts "avans" into the plural, "avansy". That is a joke, since it means there have been many. "Znayu" is "I know".'),
+    (12, None, '\'You will not get a single kopeck!\' "Ni kopeyki", "not of a kopeck", is the strong "not a single". "Kopeyka" becomes "kopeyki". "Poluchish" is "you will get". His refusal is complete.'),
+    (13, None, '\'Dmitry, you will regret this!\' Barinov drops "Vladimirovich", and with it the politeness, and says "ty". "Pozhaleesh ob etom" is "will regret about this". He ends the call with a threat he cannot carry out.'),
 ]

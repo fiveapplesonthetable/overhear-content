@@ -10,8 +10,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Виктор Петрович, я совсем забыла. | Viktor Petrovich, I completely forgot. | #152: Забыла совсем | verbatim |
-| 2 | Вика | Вот наличные деньги на свежую икру. | Here is the cash for fresh caviar. | #152: Вот деньги на икру | verbatim |
+| 1 | Вика | Виктор Петрович, я совсем забыла. | Viktor Petrovich, I completely forgot. | #152 00:10:09: Забыла совсем | verbatim |
+| 2 | Вика | Вот наличные деньги на свежую икру. | Here is the cash for fresh caviar. | #152 00:10:09: Вот деньги на икру | verbatim |
 | 3 | Шеф | Огромное спасибо, моя дорогая Вика. | Thank you very much, my dear Vika. | new | new |
 | 4 | Шеф | Ты спасаешь наш вечерний банкет. | You are saving our evening banquet. | new | new |
 | 5 | Вика | Поставщик привезёт банку через час. | The supplier will bring the jar in an hour. | new | new |
@@ -25,7 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is the cash for fresh caviar.' Vika hands over cash for ingredients.
-- 'The supplier will bring the jar in an hour.' Vika says the delivery arrives soon.
-- 'Do not worry, everything is under my control.' Barinov assures her everything is fine.
-- 'I always keep my manly word.' A proud first person assertion used to build trust with a colleague. Now, let's hear Victoria deliver the restaurant funds once more.
+- 'Viktor Petrovich, I completely forgot.' "Zabyla", "forgot", ends in -la because Vika is a woman. "Sovsem" is "completely". She uses his name and father's name, polite and formal.
+- 'Here is the cash for fresh caviar.' "Ikra", caviar, is a feminine word, so "fresh" is "svezhuyu", ending in -uyu after "na". "Nalichnye" is the cash word from the bet scene.
+- 'Thank you very much, my dear Vika.' "Ogromnoe spasibo", "huge thank-you", is how Russians say "thanks a lot". "Dorogaya" is "dear", and also "expensive". Barinov pours on the charm.
+- 'You are saving our evening banquet.' "Spasaesh", "you save", is from the family of "spasibo", which started as "God save". "Vecherny" is "evening" as a describing word, from "vecher".
+- 'The supplier will bring the jar in an hour.' "Postavshchik", "supplier", is from "postavlyat", "to supply", a relative of "postavit", "put". "Cherez chas" is "in an hour". "Banka" is a jar.
+- 'Excellent, I will meet the courier myself.' "Vstrechu" is "I will meet", for someone who arrives. "Kurera" is "kurer", courier, with -a, because he's the one being met. Barinov's offer is a little too eager.
+- 'Please give him the money right away.' "Otdayte" is "give over", the polite "hand it over", and "emu" is "to him". "Srazu" is "right away". Vika is careful, as she always is.
+- 'Do not worry, everything is under my control.' "Ne perezhivay", "don't worry", is from "perezhivat", "live through", the word for stress. "Pod moim kontrolem" is "under my control", and both words take endings after "pod".
+- 'And what is going on with our stove?' "Tam", "there", in the middle is a filler. "S nashey plitoy" is "with our stove": "plita" becomes "plitoy" after "s". Vika asks again, because she doesn't believe the first answer.
+- 'The craftsmen are already finishing the complex repair.' "Zakanchivayut" is "are finishing", the ongoing form of "zakonchit". "Slozhny" is "complex" and also "difficult". "Remont" is any repair.
+- 'I rely on your honesty, chef.' "Nadeyus na", "hope on", is the Russian for "rely on". "Chestnost", "honesty", grows from "chestny", "honest". It's a trust he does not deserve.
+- 'I always keep my manly word.' Russians "derzhat", "hold", their word, where English says "keep". "Muzhskoe", "manly", comes from "muzh", "husband" or "man". Barinov swears on it.

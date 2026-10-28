@@ -10,15 +10,15 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the kitchen of Claude Monet, cooks Senya and Fedya have bought cheap pike caviar to replace sturgeon caviar. To pull off the trick, Senya prepares special food dye to turn the golden caviar pitch black. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around The Secret Recipe line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the kitchen, Senya and Fedya inspect the golden pike caviar and prepare black food coloring to disguise it as expensive sturgeon caviar. Next time you watch the episode, listen for the Russian expressions for 'of course' and 'colour' — you will catch every word right away. See you next time!"
+INTRO = "Fedya has noticed what Senya is doing, and he is not sure it's a good idea. Senya has an answer for everything. Listen for the names and the numbers."
+OPENER = "Now we'll pick it apart."
+TRANSITION = 'The full thing, one more time.'
+OUTRO = "The colour is starting to change, and both cooks are impressed. The only risk now is that a guest will notice. Until the next one."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('fedya', 'Сеня, ты уверен в этой идее?', 'Senya, are you sure about this idea?', [], ''),
     ('senya', 'Конечно, это гениальный план!', 'Of course, this is a brilliant plan!', [], ''),
-    ('fedya', 'Она же совсем жёлтая, как песок.', 'It is completely yellow, like sand.', [], ''),
+    ('fedya', 'Икра же совсем жёлтая, как песок.', 'But the caviar is completely yellow, like sand.', [], ''),
     ('senya', 'Сейчас мы её аккуратно покрасим.', 'Now we will carefully dye it.', [(208, 'кра')], ''),
     ('fedya', 'Какой краской ты будешь красить?', 'What dye will you paint it with?', [], ''),
     ('senya', 'У меня есть специальный чёрный краситель.', 'I have a special black food coloring.', [], ''),
@@ -30,13 +30,16 @@ STORY = [
     ('senya', 'Отлично, получается настоящая осетровая икра!', 'Excellent, it is turning out like real sturgeon caviar!', [], ''),
 ]
 WALK = [
-    (0, None, "'Senya, are you sure about this idea?' When Fedya walks in on the caviar dyeing operation, he asks if Senya is sure about this crazy idea."),
-    (1, None, "'Of course, this is a brilliant plan!' Senya brushes off his worry and calls the plan pure genius."),
-    (2, None, "'Now we will carefully dye it.' He explains that they only need to tint the roe evenly."),
-    (3, None, "'I have a special black food coloring.' He holds up the bottle of natural black food coloring."),
-    (4, None, "'And the guests will not notice anything?' Still nervous, Fedya asks whether the wealthy guests will notice the swap."),
-    (5, None, "'They will think that this is expensive caviar.' Senya is sure the diners will think they are eating top-shelf sturgeon caviar."),
-    (6, None, "'Take the big spoon and stir.' He hands Fedya a big spoon and tells him to help stir."),
-    (7, None, "'Look, the color is already starting to change.' Watching the bowl darken, Fedya admits the color is transforming right before their eyes."),
-    (8, None, "'Excellent, it is turning out like real sturgeon caviar!' Senya declares triumphantly that it looks just like real black caviar now. Now listen to the full conversation once more."),
+    (0, None, '\'Senya, are you sure about this idea?\' "Uveren v" is "sure in", so "v etoy idee", "in this idea". Barinov asked Timur the same thing about the caviar: "Ty tochno uveren?". Fedya is the cautious one.'),
+    (1, None, '\'Of course, this is a brilliant plan!\' "Genialny", "brilliant", comes from "geniy", "genius". "Plan" is the same as in English. Senya answers at once.'),
+    (2, None, '\'But the caviar is completely yellow, like sand.\' "Zhe" adds "but look". "Zhyoltaya" is "yellow" and "pesok" is "sand". Pike caviar really is pale yellow, nothing like black.'),
+    (3, None, '\'Now we will carefully dye it.\' "Pokrasim" is "we will dye" again, and "eyo", "it", stands for the caviar. "Akkuratno" is heard in Barinov\'s instruction, "medlenno i akkuratno".'),
+    (4, None, '\'What dye will you paint it with?\' "Kakoy kraskoy" is "with what paint": "kraska" becomes "kraskoy". "Budesh krasit" is "will you dye". "Kraska" and "krasit" share a root. Fedya wants details.'),
+    (5, None, '\'I have a special black food coloring.\' "U menya est" is "at me there is", the Russian way to say "I have". "Krasitel" is the dye Barinov sent for, and "spetsialny" is "special".'),
+    (6, None, '\'And the guests will not notice anything?\' The words are a plain statement; only the rising voice makes it a question. "Nichego ne zametyat" is "nothing not will notice", the double negative.'),
+    (7, None, '\'They will think that this is expensive caviar.\' "Podumayut" is "they will think". "Chto" here is "that", not "what". "Dorogaya ikra" is "expensive caviar". Senya states the plan in one sentence.'),
+    (8, None, '\'Then let us quickly begin the work.\' "Togda" is "then". "Davay nachnyom", "let\'s begin", is how Barinov opened the dyeing. "Rabotu" is "work"; "rabota" ends in -u because it is what gets begun.'),
+    (9, None, '\'Take the big spoon and stir.\' "Beri" is "take", the everyday partner of Timur\'s "vozmi lozhku". "Peremeshivay" is "stir": pere- adds "through and through", and the form says "keep going".'),
+    (10, None, '\'Look, the color is already starting to change.\' "Nachinaet menyatsya" is "starts to change", and "tsvet" is "colour". "Menyatsya" shares a root with Barinov\'s "izmenitsya" in his talk with Max: "tvoya zhizn silno izmenitsya".'),
+    (11, None, '\'Excellent, it is turning out like real sturgeon caviar!\' Real black caviar comes from the sturgeon, "osyotr", so "osetrovaya ikra". "Poluchaetsya" is the word Senya used for his "pike Easter". He is thrilled.'),
 ]

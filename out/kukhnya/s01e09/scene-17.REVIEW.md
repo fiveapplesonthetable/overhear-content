@@ -10,31 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Таня | Виктор, добрый вечер. Где Алиса? | Viktor, good evening. Where is Alisa? | #314: Где Алиса? | verbatim |
-| 2 | Шеф | А мы с ней решили остаться. | And she and I decided to stay. | #314: А мы с ней решили, что она еще со мной на денек останется. | verbatim |
-| 3 | Шеф | Она побудет со мной ещё денёк. | She will stay with me one more day. | #314: на денек останется. | verbatim |
-| 4 | Шеф | Ты же не возражаешь, Таня? | You do not mind, Tanya? | #315: Ты же не возражаешь. | verbatim |
-| 5 | Таня | Ну, если она сама так решила. | Well, if she decided so herself. | #316: Ну, если она так решила сама. | verbatim |
-| 6 | Таня | Пойдём, я быстро с ней попрощаюсь. | Let us go, I will quickly say goodbye to her. | #317: Ладно, пойдем, я с ней попрощаюсь. | verbatim |
-| 7 | Шеф | Зачем? Я сам всё передам! | What for? I will pass on everything myself! | #317: Ну, зачем?<br>#318: Я передам. | verbatim |
-| 8 | Шеф | Она там на кухне развлекается. | She is having fun there in the kitchen. | #318: Она там на кухне развлекается. | verbatim |
-| 9 | Шеф | Она просила передать тебе пока. | She asked me to say goodbye to you. | #319: Кстати, она просила передать тебе пока. | verbatim |
-| 10 | Таня | Так, что с ней случилось? | Wait, what happened to her? | #320: Что с ней случилось? | verbatim |
-| 11 | Шеф | Всё нормально, она просто играет. | Everything is fine, she is just playing. | #320: Все нормально.<br>#321: На кухне играется. | verbatim |
-| 12 | Таня | А врать ты так и не научился. | And you still have not learned how to lie. | #322: А вот врать ты до сих пор не научился. | verbatim |
+| 1 | Таня | Виктор, добрый вечер. Где Алиса? | Viktor, good evening. Where is Alisa? | #314 00:20:03: Где Алиса? | verbatim |
+| 2 | Шеф | А мы с ней решили остаться. | And she and I decided to stay. | #314 00:20:03: А мы с ней решили, что она еще со мной на денек останется. | verbatim |
+| 3 | Шеф | Она побудет со мной ещё денёк. | She will stay with me one more day. | #314 00:20:03: на денек останется. | verbatim |
+| 4 | Шеф | Ты же не возражаешь, Таня? | You do not mind, Tanya? | #315 00:20:08: Ты же не возражаешь. | verbatim |
+| 5 | Таня | Ну, если она сама так решила. | Well, if she decided so herself. | #316 00:20:09: Ну, если она так решила сама. | verbatim |
+| 6 | Таня | Пойдём, я быстро с ней попрощаюсь. | Let us go, I will quickly say goodbye to her. | #317 00:20:11: Ладно, пойдем, я с ней попрощаюсь. | verbatim |
+| 7 | Шеф | Зачем? Я сам всё передам! | What for? I will pass on everything myself! | #317 00:20:11: Ну, зачем?<br>#318 00:20:13: Я передам. | verbatim |
+| 8 | Шеф | Она там на кухне развлекается. | She is having fun there in the kitchen. | #318 00:20:13: Она там на кухне развлекается. | verbatim |
+| 9 | Шеф | Она просила передать тебе пока. | She asked me to say goodbye to you. | #319 00:20:16: Кстати, она просила передать тебе пока. | verbatim |
+| 10 | Таня | Так, что с ней случилось? | Wait, what happened to her? | #320 00:20:19: Что с ней случилось? | verbatim |
+| 11 | Шеф | Всё нормально, она просто играет. | Everything is fine, she is just playing. | #320 00:20:19: Все нормально.<br>#321 00:20:21: На кухне играется. | verbatim |
+| 12 | Таня | А врать ты так и не научился. | And you still have not learned how to lie. | #322 00:20:22: А вот врать ты до сих пор не научился. | verbatim |
 | 13 | Шеф | Таня, подожди, я всё объясню! | Tanya, wait, I will explain everything! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, good evening. Where is Alisa?' Arriving at Claude Monet in the evening, Viktor's ex-wife Tanya greets him and asks where Alisa is.
-- 'And she and I decided to stay.' Desperate to hide the red allergy spots on Alisa's face, Viktor claims they decided she should stay longer.
-- 'She will stay with me one more day.' He suggests that Alisa spend one more day with him.
-- 'You do not mind, Tanya?' Trying to sound casual, he asks if Tanya minds the change of plan.
-- 'Well, if she decided so herself.' Although surprised, Tanya says it is fine if Alisa really chose that herself.
-- 'Let us go, I will quickly say goodbye to her.' Then Tanya steps forward and says she will quickly pop in to kiss her daughter goodbye.
-- 'What for? I will pass on everything myself!' Blocking her path, Viktor nervously asks why she needs to go in when he can pass on her goodbye himself.
-- 'She is having fun there in the kitchen.' He claims Alisa is deep in the kitchen having fun right now.
-- 'She asked me to say goodbye to you.' Pushing the lie too far, he adds that Alisa already asked him to tell her mom 'bye'.
-- 'Wait, what happened to her?' Knowing her ex-husband all too well, Tanya stops cold and demands to know what happened to their daughter.
-- 'Everything is fine, she is just playing.' Viktor still insists everything is fine and that she is only playing.
-- 'And you still have not learned how to lie.' Tanya shakes her head and remarks that after all these years, he still has not learned how to lie. Now listen to the full conversation once more.
+- 'Viktor, good evening. Where is Alisa?' "Dobry vecher" is "kind evening", the sibling of "dobry den". And "gde Alisa" has no "is", as usual. Tanya is polite, and already suspicious.
+- 'And she and I decided to stay.' Russian says "my s ney", "we with her", for "she and I". "Reshili ostatsya" is "decided to stay". Barinov invents a plan on the spot, and he sounds very sure, which is how you can tell.
+- 'She will stay with me one more day.' "Pobudet" is "budet", "will be", with po- in front for "a while". "Denyok" is a tiny, friendly version of "den", "day", to make the request sound harmless.
+- 'You do not mind, Tanya?' "Ty zhe ne vozrazhaesh" is "you after all don't object": the little "zhe" makes it half a question and half a plea. Barinov tries a friendly tone, and it's wobbling.
+- 'Well, if she decided so herself.' "Sama" is "herself", and "tak" is "so". "Esli" is "if". Tanya isn't convinced, but she gives him a little room, and there's a warning in the "nu" at the start.
+- 'Let us go, I will quickly say goodbye to her.' "Poydyom", "let's go", is the word Alisa used when she wanted to play. "Poproshchayus" is "I will say goodbye", ending in -s, the short -sya. She is not wasting time.
+- 'What for? I will pass on everything myself!' "Zachem" is not quite "why": it means "what for", "to what purpose". "Peredam" is "I will pass on", literally "give across". Barinov is panicking, and the speed gives him away.
+- 'She is having fun there in the kitchen.' "Razvlekaetsya" is "amuses herself", with -sya on the end. "Na kukhne" is "in the kitchen": Russian says "on the kitchen", and "kukhnya" becomes "kukhne".
+- 'She asked me to say goodbye to you.' "Poka" here is "bye", the same word that means "while". "Prosila", "asked", ends in the woman's -la, because the daughter asked. Barinov is inventing messages from his daughter.
+- 'Wait, what happened to her?' "Tak" at the start works like a snap: "right, so". "Chto s ney sluchilos" is "what with her happened", and "sluchilos" ends in -o because "chto" is the subject. She is not stupid.
+- 'Everything is fine, she is just playing.' "Normalno" is the everyday "fine", the Russian "normal" with -o. "Igraet" is "is playing". A calm voice is the hardest thing to fake.
+- 'And you still have not learned how to lie.' "Tak i ne nauchilsya" is "so and not learned", the Russian for "never did learn". "Vrat" is "to lie". Tanya sounds fond and weary at the same time.
+- 'Tanya, wait, I will explain everything!' "Podozhdi" is the same "wait" Barinov used on Louis. "Obyasnyu" is "I will explain". The scene ends mid-chase, which is a good place to end it.

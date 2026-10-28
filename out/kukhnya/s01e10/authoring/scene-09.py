@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the kitchen, Chef Viktor Barinov tries to borrow cash from his line cook Fedya. Desperate to bet on the Spartak derby, Viktor flatters his cook, only for Fedya to remind him of an outstanding debt. Listen to their conversation in Russian first, and then we will examine each sentence.'
-OPENER = 'Now, let us examine the vocabulary and phrasing of this kitchen financial plea.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "A relatable humorous scene showing how difficult it is to collect past debts from an eccentric boss. Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'to believe' — you will catch every word right away. See you next time!"
+INTRO = "Nagiyev has said no, so Barinov tries Fedya, the fish cook. He wants a loan so that he can bet on Spartak tonight. You'll hear it all in Russian before I explain a thing."
+OPENER = "Now we'll go over it."
+TRANSITION = 'Listen again, and see how much more you catch.'
+OUTRO = "Fedya won't lend a ruble, and he trusts cash more than football. The chef is running out of people to ask. Goodbye for now."
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('barinov', 'Федя, дорогой мой друг!', 'Fedya, my dear friend!', [(73, 'ружище')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('fedya', 'Я верю только в наличные деньги!', 'I believe only in cash money!', [], ''),
 ]
 WALK = [
-    (0, None, "'Fedya, my dear friend!' Viktor approaches his fish chef with suspicious warmth."),
-    (1, None, "'Chef, why are you so kind?' Russian leaves out the word for 'to be' here, linking 'why' directly with 'kind', combining 'why' with 'kind'."),
-    (2, None, "'I urgently need your help.' Viktor reveals that he has a special request."),
-    (3, None, "'No, chef, I am completely broke!' Fedya guesses the request and denies having cash."),
-    (4, None, "'Not even a couple of thousand can be found?' Lowering his request, Barinov asks wistfully if Fedya might have even a couple of thousand to spare."),
-    (5, None, "'You still owe me five thousand!' Russian leaves out the word for 'to be' here, linking 'still' directly with 'five', combining 'still' with 'five' and 'thousand'."),
-    (6, None, "'I will return everything tomorrow morning!' Viktor gives his customary optimistic pledge."),
-    (7, None, "'You always promise that, chef.' Fedya remains skeptical after hearing this many times."),
-    (8, None, "'But today Spartak will definitely win!' Viktor reveals his secret source of guaranteed wealth."),
-    (9, None, "'Spartak is playing against a strong opponent.' Fedya skeptically reminds the chef that Spartak is facing a very tough rival today."),
-    (10, None, "'They have roster problems!' Russian leaves out the word for 'to be' here, linking 'problems' directly with 'lineup', combining 'problems' with 'lineup'."),
-    (11, None, "'Chef, football is pure lottery.' Fedya argues against risking wages on sporting events."),
-    (12, None, "'Do you not believe in our football?' Viktor accuses him of lacking patriotic faith."),
-    (13, None, "'I believe only in cash money!' Fedya concludes his refusal with practical humor. Now, let us listen to the complete scene again to practice your comprehension."),
+    (0, None, '\'Fedya, my dear friend!\' "Dorogoy" is "dear", and also "expensive". "Moy" after it, "dear my friend", sounds warm and close. Barinov is suddenly sweet, and every cook in the kitchen would smell trouble.'),
+    (1, None, '\'Chef, why are you so kind?\' "Dobry", "kind", is the word in "dobry den". "Vy takoy" is "you such", with the polite "vy". Fedya is plainly suspicious.'),
+    (2, None, '\'I urgently need your help.\' "Mne nuzhna tvoya pomoshch": "pomoshch", "help", is a she-word, so it\'s "nuzhna" and "tvoya", both with -a. "Srochno" is "urgently". He is begging.'),
+    (3, None, '\'No, chef, I am completely broke!\' Fedya says a short "ne" instead of the full "net". "Pustoy", "empty", is the Russian slang for "broke". "Absolyutno" is easy.'),
+    (4, None, '\'Not even a couple of thousand can be found?\' "Naydyotsya" means "will turn up", with -sya. "Pary tysyach", "of a pair of thousands", is "a couple of thousand". Barinov is cutting his demand.'),
+    (5, None, '\'You still owe me five thousand!\' Fedya says "vy mne eshchyo pyat tysyach dolzhny", "you to me still five thousand owing". "Dolzhny" is the same word as "must". He has a memory like a bank.'),
+    (6, None, '\'I will return everything tomorrow morning!\' "Verne" here is "give back": "ya verne" is "I will return". "Zavtra utrom" is "tomorrow in the morning". Barinov promises as easily as he breathes.'),
+    (7, None, '\'You always promise that, chef.\' "Obeshchaete" is "you promise", the word Alisa used when she promised to behave. "Tak" is "like that". Fedya says what everyone thinks.'),
+    (8, None, '\'But today Spartak will definitely win!\' "Pobedit", "will win", grows from "pobeda", "victory". "Tochno" is "definitely". Barinov has the certainty of a man who has lost before.'),
+    (9, None, '\'Spartak is playing against a strong opponent.\' "Protiv" is "against", and after it "silny sopernik" becomes "silnogo sopernika". "Sopernik" is a rival. Fedya sounds like a coach.'),
+    (10, None, '\'They have roster problems!\' "U nikh" is "at them", the same "at" pattern. "S sostavom" is "with the roster": "sostav", the line-up, takes -om after "s". The inside information is thin.'),
+    (11, None, '\'Chef, football is pure lottery.\' Russian says "chistaya", "clean", for "pure", and "lotereya" is borrowed. There\'s no "is": just "football this pure lottery". Fedya is a realist.'),
+    (12, None, '\'Do you not believe in our football?\' "Verish v" is "believe in", from the same family as "verny", "faithful". Barinov says "nash", "our", football, as if it belonged to the nation. It\'s patriotism.'),
+    (13, None, '\'I believe only in cash money!\' "Nalichnye", "cash", comes from "nalichie", "presence": the money that\'s actually there. "Tolko" is "only". The chef will have to find his stake elsewhere.'),
 ]

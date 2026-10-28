@@ -10,30 +10,30 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Шеф, я наконец забрал ваш любимый нож. | Chef, I finally retrieved your favorite knife. | #179: мой нож | verbatim |
-| 2 | Шеф | Где ты вообще его нашёл, огузок? | Where did you find it at all, Oguzok? | #180: Шеф, еще бы несколько секунд | verbatim |
-| 3 | Макс | Ваша дочка играла с ним на кухне! | Your daughter was playing with it in the kitchen! | #180: и я мог бы пострадать от вашей дочери | verbatim |
+| 1 | Макс | Шеф, я наконец забрал нож Луи. | Chef, I finally got Louis's knife back. | #179 00:11:28: мой нож | verbatim |
+| 2 | Шеф | Где ты вообще его нашёл, огузок? | Where did you find it at all, Oguzok? | #180 00:11:35: Шеф, еще бы несколько секунд | verbatim |
+| 3 | Макс | Ваша дочка играла с ним на кухне! | Your daughter was playing with it in the kitchen! | #180 00:11:35: и я мог бы пострадать от вашей дочери | verbatim |
 | 4 | Шеф | Она могла поранить себя или тебя? | Could she hurt herself or you? | new | new |
 | 5 | Макс | Она чуть не ранила меня этим ножом! | She almost injured me with this knife! | new | new |
-| 6 | Шеф | Ничего страшного, ты всё ещё жив. | Nothing terrible, you are still alive. | #181: Узнал бы, пришел бы попозже | verbatim |
+| 6 | Шеф | Ничего страшного, ты всё ещё жив. | Nothing terrible, you are still alive. | #181 00:11:38: Узнал бы, пришел бы попозже | verbatim |
 | 7 | Макс | Мне нужно продолжать готовить блюда? | Do I need to continue preparing dishes? | new | new |
-| 8 | Шеф | Хватит болтать, живо иди работать! | Stop chattering, go work immediately! | #182: Работай | verbatim |
-| 9 | Макс | А что вы будете делать с дочкой? | And what will you do with your daughter? | #183: Алиса, что мне с тобой делать | verbatim |
-| 10 | Шеф | Алиса, что мне теперь делать с тобой? | Alice, what am I to do with you now? | #183: Алиса, что мне с тобой делать | verbatim |
-| 11 | Макс | Она снова убежит в обеденный зал. | She will run off to the dining hall again. | #184: ты снова куда-нибудь сбежишь | verbatim |
-| 12 | Шеф | Ладно, я отведу её к тёте Вике! | All right, I will take her to Aunt Vika! | #185: Ладно | verbatim |
+| 8 | Шеф | Хватит болтать, живо иди работать! | Stop chattering, go work immediately! | #182 00:11:41: Работай | verbatim |
+| 9 | Макс | А что вы будете делать с дочкой? | And what will you do with your daughter? | #183 00:11:43: Алиса, что мне с тобой делать | verbatim |
+| 10 | Шеф | Алиса, что мне теперь делать с тобой? | Alisa, what am I to do with you now? | #183 00:11:43: Алиса, что мне с тобой делать | verbatim |
+| 11 | Макс | Она снова убежит в обеденный зал. | She will run off to the dining hall again. | #184 00:11:45: ты снова куда-нибудь сбежишь | verbatim |
+| 12 | Шеф | Ладно, я отведу её к тёте Вике! | All right, I will take her to Aunt Vika! | #185 00:11:50: Ладно | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I finally retrieved your favorite knife.' Max reports recovering the missing kitchen tool to his boss.
-- 'Where did you find it at all, Oguzok?' Barinov demands an explanation using his customary dismissive nickname for Max.
-- 'Your daughter was playing with it in the kitchen!' Max exclaims that he caught the chef's young daughter playing with the sharp knife in the kitchen.
-- 'Could she hurt herself or you?' The chef asks whether anyone suffered real harm during the encounter.
-- 'She almost injured me with this knife!' He complains that the little girl nearly nicked him with the blade.
-- 'Nothing terrible, you are still alive.' Barinov shrugs off the close call, pointing out that Max is still in one piece.
-- 'Do I need to continue preparing dishes?' Seeing the chef is unbothered, Max asks if he should just go back to prepping dishes.
-- 'Stop chattering, go work immediately!' The chef barks a firm command to resume cooking without unnecessary delays.
-- 'And what will you do with your daughter?' Max wonders how the chef plans to handle the mischievous child.
-- 'Alice, what am I to do with you now?' Barinov addresses his daughter with an affectionate yet exasperated question.
-- 'She will run off to the dining hall again.' Max warns that the little girl will wander into the guest area.
-- 'All right, I will take her to Aunt Vika!' The chef decides to hand over care of the child to the restaurant director.
+- 'Chef, I finally got Louis's knife back.' "Nakonets" is "finally". "Nozh Lui" is "knife of Louis": the owner comes after the thing, and a foreign name like Louis never changes its ending. "Zabral" is "took" with "za" in front, so "took away, got back".
+- 'Where did you find it at all, Oguzok?' "Voobshche" means "in general" or "at all", the way English says "where on earth". Oguzok is Barinov's nickname for Max; it's the butcher's word for the rump, a cheap cut of beef.
+- 'Your daughter was playing with it in the kitchen!' "S nim" is "with it". "Im" becomes "nim" after "s": he, she, it and they all add an "n" after small words like this. The -la on "igrala" is the ending for a girl or woman.
+- 'Could she hurt herself or you?' "Mogla" is "could", with the -a ending of a girl. "Sebya" means "herself", and it is the same for everyone, he, she, or I. Barinov goes straight to the worry about Alisa.
+- 'She almost injured me with this knife!' "Chut ne" is "almost", literally "a little not". There's no word for "with": "etim nozhom", "this knife" with -im and -om on the end, already means "with this knife". Max exaggerates, a little.
+- 'Nothing terrible, you are still alive.' "Nichego strashnogo" is literally "nothing frightening", the Russian "no big deal". "Zhiv" is "alive", and Barinov is about to turn it into "zhivo", "look lively".
+- 'Do I need to continue preparing dishes?' It's "to me needed to continue", the same "mne nuzhno" pattern as before. "Blyuda" are dishes in the sense of food, not plates. Max hopes for a break and gets none.
+- 'Stop chattering, go work immediately!' "Khvatit" is "enough", and "zhivo" means "quick", "look lively". Two quick commands, and the break is over.
+- 'And what will you do with your daughter?' Max says "vy", the polite "you", and "chto vy budete delat" is "what you will do". It's a risky question to put to the boss, but Max is curious.
+- 'Alisa, what am I to do with you now?' The Russian is "what to me to do with you", with no "should" or "must": "mne" plus a plain verb does it all. Barinov stops being a chef for a moment and sounds like a puzzled father.
+- 'She will run off to the dining hall again.' "Ubezhit" is "will run away", where the u- carries the "off". What Russian calls the dining hall comes from "obed", the midday meal, so it's literally the "lunch hall". "Snova" is "again".
+- 'All right, I will take her to Aunt Vika!' "Otvedu" is "I'll take" someone on foot, leading them. "K tyote Vike" is "to Aunt Vika": after "k", "to", "tyotya" becomes "tyote" and "Vika" becomes "Vike". So Barinov's problem becomes Vika's.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "In the busy restaurant kitchen, Victoria rushes in to confront Chef Barinov after a guest rejects Max's salad. Fearing that the dissatisfied diner might be the undercover food critic, Barinov orders Max to redo the dish personally. Let's listen to their tense kitchen conversation in Russian."
-OPENER = "Now let's examine how Victoria and Chef Barinov handle the salad complaint line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With Victoria calming the guest and Max redoing the salad, the kitchen braces for the reviewer's verdict. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to chatter' — you will catch every word right away. See you next time!"
+INTRO = 'The salad that came back is still the talk of the kitchen. Vika wants to know what the guest said, and Max is sure he did everything right. Here is the whole exchange.'
+OPENER = 'Back through it, one line at a time.'
+TRANSITION = 'Here it all is again, without interruption.'
+OUTRO = 'The salad will be remade, and Max has promised not to let the restaurant down. Vika goes to greet the next guest. More soon.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Шеф, что гостья сказала про салат?', 'Chef, what did the guest say about the salad?', [(78, 'Что она тебе сказала?')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'А я встречу нового гостя в зале.', 'And I will meet a new guest in the dining room.', [], ''),
 ]
 WALK = [
-    (0, None, "'Chef, what did the guest say about the salad?' Vika asks the chef what the guest said about the salad. She wants the details. She calls the customer 'gostya', a female guest."),
-    (1, None, "'She said the salad had a strange taste.' Barinov replies she said the salad had a strange taste. He is relaying the bad news. 'Strannyy vkus' means weird flavor."),
-    (2, None, "'Chef, I made everything strictly by the recipe!' Max defends himself, saying he made everything strictly by the recipe. He does not want to be blamed. 'Strogo po retseptu' means strictly by the recipe."),
-    (3, None, "'I warned you that he must not be allowed!' Vika reminds everyone she warned that he must not be allowed in the kitchen. She is angry at the young cook. 'Preduprezhdala' means I warned."),
-    (4, None, "'Are you convinced of everything yourself now?' Vika asks the chef if he is convinced of everything himself now. She is saying 'I told you so'. 'Ubedilsya' means got convinced."),
-    (5, None, "'Vika, go say that we will fix everything.' Barinov tells the director to go say they will fix everything. He wants to calm the customer down. 'Vsyo ispravim' means we will fix everything."),
-    (6, None, "'I hope this guest will not write a complaint.' Vika hopes this guest will not write a complaint. A bad review would be a disaster. 'Zhalobu' means a formal complaint."),
-    (7, None, "'Max, urgently remake this dish yourself!' Barinov orders his cook to urgently remake this dish himself. He is giving him a chance to fix his mistake. 'Srochno peredelay' means urgently remake."),
-    (8, None, "'Chef, I will prepare the freshest salad.' Max promises he will prepare the freshest salad. He wants to redeem himself. 'Samyy svezhiy' means the most fresh."),
-    (9, None, "'Do you understand that the situation is very serious?' Barinov asks if he understands the situation is very serious. He wants to make sure his cook is focused. 'Seryoznaya' means serious."),
-    (10, None, "'I will not let our restaurant down, chef!' Max vows he will not let their restaurant down. He is determined to do well. 'Ne podvedu' means I will not let down."),
-    (11, None, "'Then work faster and do not talk too much!' Barinov tells him to work faster and not talk too much. He wants action, not words. 'Ne boltay lishnego' means do not chatter unnecessarily."),
-    (12, None, "'And I will meet a new guest in the dining room.' Vika says she will go meet a new guest in the dining room. She has other work to do. 'Vstrechu' means I will meet."),
+    (0, None, '\'Chef, what did the guest say about the salad?\' "Gostya" is a woman guest, the feminine of "gost". "Pro salat" is "about the salad", the everyday word for "about".'),
+    (1, None, '\'She said the salad had a strange taste.\' Russian says "u salata strannyy vkus", "at the salad a strange taste", the same "u" pattern as "u menya". "Vkus" is "taste".'),
+    (2, None, '\'Chef, I made everything strictly by the recipe!\' "Po retseptu" is "by the recipe", where "po" means "according to". "Strogo" is "strictly". Max defends himself.'),
+    (3, None, '\'I warned you that he must not be allowed!\' "Preduprezhdala", "I warned", ends in -la. "Nelzya" is the word from Alisa\'s chocolate rule, and "dopuskat" means to let someone in or near.'),
+    (4, None, '\'Are you convinced of everything yourself now?\' "Ubedilsya" is "convinced yourself", with -sya. "Sam" is "yourself". Vika says "ty" to Barinov, as she usually does with him.'),
+    (5, None, '\'Vika, go say that we will fix everything.\' "Idi skazhi", "go say", has no "and" between the two commands. "Ispravim", "we will fix", grows out of "pravy", "right".'),
+    (6, None, '\'I hope this guest will not write a complaint.\' "Zhaloba", "complaint", grows from "zhalovatsya", "to complain". "Nadeyus" is "I hope". A written complaint is a restaurant\'s nightmare.'),
+    (7, None, '\'Max, urgently remake this dish yourself!\' "Peredelay" is "delay", "do", with pere-, "over again". "Srochno" is "urgently". And "sam", "yourself", leaves it with Max.'),
+    (8, None, '\'Chef, I will prepare the freshest salad.\' "Samy svezhy", "the most fresh", is how Russian makes "the freshest". "Prigotovlyu" is "I will prepare". Max sounds eager.'),
+    (9, None, '\'Do you understand that the situation is very serious?\' "Situatsiya" is the same word as in Kostya\'s "chrezvychaynaya situatsiya". "Seryoznaya", "serious", ends in -aya to match it. "Ty ponimaesh" is "do you understand".'),
+    (10, None, '\'I will not let our restaurant down, chef!\' "Ne podvedu", "I won\'t let down", is the verb Vika used with Alisa: "ne podvedyosh?" It literally means "lead under".'),
+    (11, None, '\'Then work faster and do not talk too much!\' "Lishnego" is "anything extra", so "don\'t chatter anything extra". It is the same word as Senya\'s "nikakikh lishnikh slov", "no more extra words".'),
+    (12, None, '\'And I will meet a new guest in the dining room.\' "Vstrechu" is "I will meet", from "vstrecha", "a meeting". "Novogo gostya" is "a new guest", with -ogo because he is the one being met.'),
 ]

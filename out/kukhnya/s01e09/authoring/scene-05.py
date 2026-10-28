@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'alisa': 'Алиса', 'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = 'In the restaurant, Chef Viktor Barinov entrusts his lively daughter Alisa to sous-chef Lyova. Alisa quickly takes control of the situation and convinces Lyova to play hide-and-seek. Listen to their amusing dialogue in Russian first, and then we will examine each sentence.'
-OPENER = 'Now, let us examine the vocabulary and phrasing of this entertaining exchange sentence by sentence.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "A hilarious situation where little Alisa easily outsmarts the tall sous-chef. Next time you watch the episode, listen for the Russian expressions for 'allergy' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has work to do, so he hands his daughter to the tall sous-chef Lyova and gives him three strict orders. Alisa has her own plans. We'll hear it through once before I say a word about it."
+OPENER = "I'll take you through it now."
+TRANSITION = 'Everything again, from the beginning.'
+OUTRO = 'Alisa has her new playmate, and Lyova has a hundred to count. He will need to open his eyes eventually. Until then.'
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('barinov', 'Лёва, сиди здесь и смотри за Алисой.', 'Lyova, sit here and watch over Alisa.', [(93, 'Сиди здесь.'), (94, 'Смотри за Алисой.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('alisa', 'Считай медленно, я иду прятаться!', 'Count slowly, I am going to hide!', [], ''),
 ]
 WALK = [
-    (0, None, "'Lyova, sit here and watch over Alisa.' When kitchen business finally pulls him away, Barinov orders Lyova to sit here and watch Alisa."),
-    (1, None, "'Do not take your eyes off her.' Viktor reinforces his strict instruction with a firm tone."),
-    (2, None, "'And do not give her chocolate, she has an allergy.' Viktor warns him about her dietary restriction."),
-    (3, None, "'Uncle Lyova, let us play!' Alisa demands his attention with energetic excitement."),
-    (4, None, "'Maybe we could just sit here instead?' Lyova suggests a quiet alternative with gentle hesitation."),
-    (5, None, "'I will tell Dad, he will fire you!' Alisa issues a cheeky threat with complete confidence."),
-    (6, None, "'All right, what should we play?' Lyova gives in to her demand with a nervous sigh."),
-    (7, None, "'Let us play hide and seek!' Alisa proposes a classic game with eager delight."),
-    (8, None, "'And who will hide?' Lyova asks for clarification about the rules of their game."),
-    (9, None, "'Of course, I will hide!' Alisa announces her role with immediate enthusiasm."),
-    (10, None, "'You are so tall, you cannot be hidden anywhere.' Alisa points out his imposing height with blunt honesty."),
-    (11, None, "'Close your eyes, count to a hundred.' Alisa sets the countdown before running away."),
-    (12, None, "'One, two, three, four...' Obediently covering his eyes, the tall sous-chef starts counting aloud from one to four."),
-    (13, None, "'Count slowly, I am going to hide!' Alisa calls out her final rule as she slips away. Now, let us listen to the complete scene once more to consolidate your comprehension."),
+    (0, None, '\'Lyova, sit here and watch over Alisa.\' "Sidi" is "sit" as a bare command, and "zdes" is "here". "Smotri za Alisoy" is "look after Alisa": the word "look" with a small "za", "after". The same phrase turned up when Vika gave her orders.'),
+    (1, None, '\'Do not take your eyes off her.\' It\'s an idiom, and the Russian says "an eye from her don\'t let down". The term for eye is in the singular. Every Russian parent says this, and it sounds far more serious than it looks.'),
+    (2, None, '\'And do not give her chocolate, she has an allergy.\' "Ne davay" is "don\'t give": the same "davay" that means "let\'s" before another verb, but here it\'s plain "give". "U neyo allergiya" is "at her allergy", the "at" pattern again, and "allergiya" you can almost read straight off.'),
+    (3, None, '\'Uncle Lyova, let us play!\' Children call a grown-up friend "dyadya", "uncle", and then the first name. "Davay" is "give", which in front of a verb means "let\'s". Alisa is not asking. She\'s already started.'),
+    (4, None, '\'Maybe we could just sit here instead?\' "Mozhet, luchshe" is "maybe better". The po- at the front of "posidim" makes it "sit for a while". Lyova is a shy man, and he tries the quietest idea he has.'),
+    (5, None, '\'I will tell Dad, he will fire you!\' "Papa" takes an -e and becomes "to Dad", so you get "I to-Dad will-say". "Uvolit" is "will fire". A girl of her age has already worked out where the power sits in this building.'),
+    (6, None, '\'All right, what should we play?\' "Vo chto" is "into what", because Russian plays "into" a game: "igrat v". Before "chto" the little "v" grows an "o" and becomes "vo", which is easier to say.'),
+    (7, None, '\'Let us play hide and seek!\' The game is called "pryatki", and it\'s always plural. It comes from the Russian for "hide". "Davay v pryatki" is as short as a game proposal can be.'),
+    (8, None, '\'And who will hide?\' "Kto" is "who". The word "to hide" ends in -tsya, which means "hide oneself". Lyova asks seriously, as if the rules had been written down somewhere.'),
+    (9, None, '\'Of course, I will hide!\' "Ya budu pryatatsya" is "I will be hiding". "Budu" is "will be", the same trick as "will work". "Konechno" is the sh-sounding "of course" from before.'),
+    (10, None, '\'You are so tall, you cannot be hidden anywhere.\' Russian calls a tall person "dlinny", "long", so Lyova is "such a long one". "Nigde" is "nowhere", and it sits with "ne", "not". An insult only a child could get away with.'),
+    (11, None, '\'Close your eyes, count to a hundred.\' "Zakryvay glaza" is "close eyes", and "schitay do sta" is "count up to a hundred". "Sto", "a hundred", turns into "sta" after "do", "up to". The usual hide-and-seek rules in two short commands.'),
+    (12, None, '\'One, two, three, four...\' Counting is "raz, dva, tri, chetyre". "Raz" is what you use when counting aloud, and it also means "once". Lyova actually starts counting, so the story moves on without him.'),
+    (13, None, '\'Count slowly, I am going to hide!\' "Medlenno" is "slowly", and "ya idu" is "I go" on foot. "Pryatatsya" is the hiding word from earlier. She has him counting while she runs off, as every child does.'),
 ]

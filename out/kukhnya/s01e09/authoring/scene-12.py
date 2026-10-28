@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "A sudden panic strikes the kitchen of Claude Monet as Chef Barinov's young daughter Alisa vanishes without a trace. While the staff scrambles to check every corner and security camera, Barinov receives an unexpected phone call from her mother. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the workplace panic, camera surveillance terms, and desperate familial pretenses."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Furious and cornered by his ex-wife's call, Chef Barinov redoubles the search for young Alisa across Claude Monet. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to be' and 'inner' — you will catch every word right away. See you next time!"
+INTRO = 'The cake game ended with a lost child. Alisa has vanished from the restaurant, and Barinov and Fedya, the fish cook, are going through every room. Then the phone rings. Let the Russian wash over you first.'
+OPENER = 'Time to look at it properly.'
+TRANSITION = 'Now, from the top, in one go.'
+OUTRO = "Barinov has lied to Tanya, Fedya has been told to get lost, and Alisa is still missing. It gets quieter in the next scene. That's all for now."
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('fedya', 'Шеф, в туалете девочки тоже нет.', 'Chef, the girl is not in the bathroom either.', [(264, 'в туалете тоже нет')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Пошёл вон отсюда со своими глупыми советами!', 'Get out of here with your foolish advice!', [(280, 'пошел вон отсюда')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, the girl is not in the bathroom either.' Running back from the restrooms, Fedya reports to the chef that the girl is not in there either."),
-    (1, None, "'Where can she possibly be right now?' Barinov paces in panic, wondering where on earth his daughter could have gone."),
-    (2, None, "'She definitely did not leave the restaurant building.' Fedya reassures him that she definitely did not walk out of the restaurant building."),
-    (3, None, "'Did you check recordings from all interior cameras?' Viktor asks if they checked the footage from the indoor security cameras."),
-    (4, None, "'The interior cameras were ordered to be turned off this morning.' Fedya reminds him that someone ordered the indoor cameras switched off this morning."),
-    (5, None, "'What foolish person thought of doing that?' Furious, Barinov demands to know what idiot came up with the idea of turning them off."),
-    (6, None, "'You gave such a strange order yourself, Chef.' Fedya sheepishly reminds the chef that Viktor himself gave that order earlier."),
-    (7, None, "'Now it definitely cannot get any worse.' Groaning at his own mistake, Viktor mutters that things cannot possibly get any worse."),
-    (8, None, "'Her mother is calling you on the phone, Chef.' Right on cue, Fedya hands him the phone and says Alisa's mother is calling."),
-    (9, None, "'Hello, Tanya, everything is fine with our daughter.' Putting on a cheerful voice, Barinov answers and lies to his ex-wife that everything is fine with their daughter."),
-    (10, None, "'We will turn the whole kitchen upside down and find her!' Trying to help, Fedya whispers loudly that the crew will turn the kitchen upside down to find her."),
-    (11, None, "'Get out of here with your foolish advice!' Terrified that Tanya will hear Fedya over the phone, Viktor snaps at him to get lost."),
+    (0, None, '\'Chef, the girl is not in the bathroom either.\' "Devochki net" is "there\'s no girl": with "net" for "there isn\'t", "devochka" changes to "devochki". "Tozhe" is "also", and with a no it means "either".'),
+    (1, None, '\'Where can she possibly be right now?\' The words for "can be" also mean "maybe", so Barinov is half asking where, half thinking aloud. And the little filler that means "at all" returns from the knife scene.'),
+    (2, None, '\'She definitely did not leave the restaurant building.\' "Ne vykhodila" has the woman\'s -la ending. "Iz zdaniya restorana" is "out of the building of the restaurant": after "iz", "zdanie" becomes "zdaniya", and "restorana" is the "of".'),
+    (3, None, '\'Did you check recordings from all interior cameras?\' Barinov says "you" the friendly way, which is how a chef talks to a cook. "Checked" ends in the man\'s -l. It\'s a question made only of a rising voice, as so many Russian questions are.'),
+    (4, None, '\'The interior cameras were ordered to be turned off this morning.\' The Russian says "it was ordered to switch off" and names nobody. And "utrom", "this morning", is "utro", "morning", with an -om ending that alone means "in the".'),
+    (5, None, '\'What foolish person thought of doing that?\' In Russian, "thought of" is really "guessed", so he\'s asking who guessed that this was a good idea. Barinov is indignant. He hasn\'t yet worked out that the answer is himself.'),
+    (6, None, '\'You gave such a strange order yourself, Chef.\' English has one "order", Russian has two: "zakaz" is what you place in a restaurant, "prikaz" is a command. Fedya uses "prikaz". And "vy sami", "you yourself", is polite.'),
+    (7, None, '\'Now it definitely cannot get any worse.\' It\'s the classic line that tempts fate. Russian says "worse already exactly to be cannot". "Khuzhe", "worse", is worth learning together with "luchshe", "better".'),
+    (8, None, '\'Her mother is calling you on the phone, Chef.\' In Russian the phone rings to you: "vam zvonit", "to you rings". "Zvonit" is the same word as in "telefon zvonit", the phone that rang at the pastry bench.'),
+    (9, None, '\'Hello, Tanya, everything is fine with our daughter.\' "Allo" again, the hello you only say on the phone. "U nas s dochkoy" is "at us with the daughter", the Russian way to say "we and our daughter". He lies without a pause.'),
+    (10, None, '\'We will turn the whole kitchen upside down and find her!\' Fedya says "we", pulling in the whole kitchen. "Vsyu", "the whole", is shaped to fit "kukhnyu", a feminine word; it\'s a relative of "vsyo", "everything".'),
+    (11, None, '\'Get out of here with your foolish advice!\' "Poshyol von" is a rude "get out", literally "went out". "So svoimi", "with your own", is the same "svoy" Barinov used in "so svoim papoy".'),
 ]

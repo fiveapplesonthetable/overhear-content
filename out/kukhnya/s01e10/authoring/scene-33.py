@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the restaurant office, Max confronts Victoria after discovering she was only testing his maturity. To turn the tables, Max playfully pretends to embrace parenthood, eagerly suggesting marriage, loans, and baby names. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = "Now let's go back through the exchange around Evgeny Maksimovich line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "In the restaurant office, Max playfully turns the tables on Victoria by enthusiastically proposing marriage, moving in together, and naming their baby Evgeny Maksimovich. Next time you watch the episode, listen for the Russian expressions for 'to wait' and 'to be enough' — you will catch every word right away. See you next time!"
+INTRO = "Max has been thinking, and he has a plan. He goes to Vika, and what he proposes is more than she expected. Take it in once, and don't worry about the details."
+OPENER = 'Now the same thing, but slowly.'
+TRANSITION = 'Now put it all together.'
+OUTRO = 'Max is all in, and Vika asks which baby he means. The misunderstanding is about to be cleared up. Bye for now.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Вика, я тут подумал над твоими словами.', 'Vika, I have been thinking about your words.', [(233, 'я тут подумал')], ''),
@@ -31,14 +31,17 @@ STORY = [
     ('max', 'Тебе нравится такой план, дорогая?', 'Do you like this plan, darling?', [(243, 'Тебе нравится?')], ''),
 ]
 WALK = [
-    (0, None, "'Vika, I have been thinking about your words.' Having learned from Kostya or figured out that Vika made up the pregnancy to scare him, Max corners her and says he thought about her news."),
-    (1, None, "'I called mom, my parents are coming soon.' Keeping a straight face, Max claims he already called his mother in Voronezh and invited his parents to Moscow."),
-    (2, None, "'We will definitely have a big wedding!' He enthusiastically declares that they are going to throw a huge wedding."),
-    (3, None, "'If there is not enough money, we will take a loan.' Pushing the bluff further, he says if they are short on cash, they can take out a big bank loan."),
-    (4, None, "'On Monday I will move in with you.' Max announces that he will pack his bags and move into Vika's apartment on Monday."),
-    (5, None, "'We will wait for the baby together peacefully.' He paints a cozy picture of the two of them waiting for the baby together."),
-    (6, None, "'Maybe we will name him Zhenya?' Then he suggests naming the baby 'Zhenya'."),
-    (7, None, "'It will be a handsome name — Evgeny Maksimovich!' — full name with traditional Russian patronymic."),
-    (8, None, "'And if a girl is born, we will name her Evgeniya.' He adds that if it is a girl, 'Zhenya' works as 'Evgeniya' too."),
-    (9, None, "'Do you like this plan, darling?' Watching Vika squirm as her prank backfires, Max sweetly asks 'darling' how she likes the plan. Now listen to the full conversation once more."),
+    (0, None, '\'Vika, I have been thinking about your words.\' "Podumal nad" is "thought over", literally "thought above". After "nad", "tvoi slova" becomes "tvoimi slovami". "Tut" is "here", a filler meaning "just now".'),
+    (1, None, '\'And what did you come up with, Max?\' "Nadumal" is "thought up", "dumat" with na- for a result. "Zhe" adds "so" or "then". Vika waits to hear it.'),
+    (2, None, '\'I called mom, my parents are coming soon.\' "Pozvonil mame" is "rang to mum": "mama" becomes "mame". "Priedut" is "will arrive", for arriving by car or train, not on foot.'),
+    (3, None, '\'We will definitely have a big wedding!\' Russians "play" a wedding: "sygraem svadbu", the verb of "igrat", "to play". "Obyazatelno" is "definitely". Max said it earlier to Kostya: "Potom svadba, a potom deti!".'),
+    (4, None, '\'Max, are you saying this seriously right now?\' "Seryozno" is "seriously", from Vika\'s own "Nam nado seryozno pogovorit". "Ty eto govorish" is "you this are saying". Vika is not sure he means it.'),
+    (5, None, '\'If there is not enough money, we will take a loan.\' "Ne khvatit deneg" is "money will not suffice", with "dengi" turning into "deneg". "Vozmyom" is "we will take", and "kredit" is "loan".'),
+    (6, None, '\'On Monday I will move in with you.\' "V ponedelnik" is "on Monday", with "v", "in". "Pereedu" is "I will move": pere-, "across", plus the riding verb of "priedut". "K tebe" is "to you".'),
+    (7, None, '\'We will wait for the baby together peacefully.\' "Zhdat rebyonka" is "wait the baby", with no word for "for". "Vmeste" is "together" and "spokoyno" is "calmly". Max has it all planned.'),
+    (8, None, '\'Wait, what baby are you talking about?\' "Kakoy eshchyo rebyonok" is "what other baby", the pattern of Vika\'s "Kakoy eshchyo sekret?". "Podozhdi" is "wait". Her tone changes at once.'),
+    (9, None, '\'Maybe we will name him Zhenya?\' "Zhenya" is short for both Evgeny and Evgeniya, so it fits a boy or a girl. "Nazovyom" is "we will name", the verb in Barinov\'s "Nazovi tochnuyu tsenu". "Mozhet" is "maybe".'),
+    (10, None, '\'It will be a handsome name — Evgeny Maksimovich!\' A first name plus the father\'s name, like Dmitry Vladimirovich, is the polite form of address. "Maksimovich" is "son of Maksim". "Krasivoe imya" is "beautiful name".'),
+    (11, None, '\'And if a girl is born, we will name her Evgeniya.\' "Roditsya" is "will be born", with -sya on the end. "Devochka" is "little girl". The girl\'s name, "Evgeniya", ends in -a.'),
+    (12, None, '\'Do you like this plan, darling?\' "Tebe nravitsya" is "to you is pleasing", the Russian for "you like". "Dorogaya" is "dear" or "darling", the word Barinov used to Vika: "dorogaya Viktoriya".'),
 ]

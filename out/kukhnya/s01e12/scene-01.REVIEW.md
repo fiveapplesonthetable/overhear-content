@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | В жизни каждого человека нужны изменения. | Changes are needed in every person's life. | #1: Рано или поздно в жизни каждого человека наступают перемены. | verbatim |
+| 1 | Макс | В жизни каждого человека нужны изменения. | Changes are needed in every person's life. | #1 00:00:17: Рано или поздно в жизни каждого человека наступают перемены. | verbatim |
 | 2 | Костя | Ты абсолютно прав, Макс. | You are absolutely right, Max. | new | new |
 | 3 | Макс | Я хочу изменить свою судьбу сегодня. | I want to change my destiny today. | new | new |
 | 4 | Костя | Надо действовать смело и не бояться. | One must act boldly and not be afraid. | new | new |
@@ -18,7 +18,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 6 | Костя | Это очень хорошая мечта для тебя. | This is a very good dream for you. | new | new |
 | 7 | Макс | Я сделаю важный шаг прямо сейчас. | I will make an important step right now. | new | new |
 | 8 | Костя | Какой сюрприз ты приготовил для нас? | What surprise have you prepared for us? | new | new |
-| 9 | Макс | Этот сюрприз ждёт только одну Вику. | This surprise awaits only one Vika. | new | new |
+| 9 | Макс | Этот сюрприз ждёт только Вику. | This surprise is waiting only for Vika. | new | new |
 | 10 | Костя | Удачи тебе, мой смелый друг. | Good luck to you, my brave friend. | new | new |
 | 11 | Макс | Спасибо, Костя, я пойду к ней. | Thank you, Kostya, I will go to her. | new | new |
 | 12 | Костя | Главное — ничего не испортить сегодня. | The main thing is not to ruin anything today. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Changes are needed in every person's life.' Max philosophizes that everyone needs changes in their life. He is thinking deeply about his future.
-- 'You are absolutely right, Max.' Kostya agrees completely with his friend's deep thought. It makes a lot of sense to him too.
-- 'I want to change my destiny today.' Max declares his big desire to change his destiny today. He is ready for a completely new chapter.
-- 'One must act boldly and not be afraid.' Kostya encourages him to act boldly and without fear. One must be brave to change things.
-- 'My goal is to become the best cook.' Max states his ultimate goal is to become the greatest chef. He has very high ambitions for himself.
-- 'This is a very good dream for you.' Kostya supports this by saying it is a very good dream. He believes in his friend's talent.
-- 'I will make an important step right now.' Max announces he is going to take an important step right away. There is no time like the present.
-- 'What surprise have you prepared for us?' Kostya gets curious and asks what surprise has been prepared. He wants to know the secret plan.
-- 'This surprise awaits only one Vika.' Max reveals that this special surprise is waiting only for one specific person. It is a romantic gesture.
-- 'Good luck to you, my brave friend.' Kostya wishes his brave buddy good luck on his mission. He hopes everything goes perfectly well.
-- 'Thank you, Kostya, I will go to her.' Max thanks his buddy and says he is heading out to see her now. The big moment has finally arrived.
-- 'The main thing is not to ruin anything today.' Kostya gives one last piece of advice not to ruin anything today. It is a very crucial warning.
-- 'Do not worry, everything will be simply great.' Max confidently tells him not to worry because everything will be just great. He is feeling very optimistic.
+- 'Changes are needed in every person's life.' There's no 'is' in it. The short word for 'needed' sits next to 'changes' and that's the whole sentence. Russian drops 'is' in the present all the time.
+- 'You are absolutely right, Max.' The word for 'right' ends in a bare consonant because Max is a man. If a woman were being agreed with, it would get an 'a' on the end. The name at the end is like calling someone over.
+- 'I want to change my destiny today.' After 'I want', the next action just follows in its basic form, so 'I want to change' is two words, like English. 'Svoyu sudbu' is 'my own destiny': Russian uses svoy, 'one's own', when the owner is the one doing the action, and sudba ends in 'u' as the thing being changed.
+- 'One must act boldly and not be afraid.' 'Nado' means 'it's necessary' and it works for anybody, a bit like 'one must'. 'Boldly' is the word 'bold' with its ending swapped, and Kostya uses 'bold' itself, smelyy, when he wishes Max luck.
+- 'My goal is to become the best cook.' A dash stands where the missing 'is' would be. After stat, 'to become', both words take the 'as' ending: luchshim povarom, so you hear 'm' at the end of each.
+- 'This is a very good dream for you.' 'Dream' is a feminine word, so 'good' takes the feminine ending 'aya' to match. 'For you' is dlya tebya: after dlya, 'for', ty becomes tebya.
+- 'I will make an important step right now.' 'Right now' is pryamo seychas, literally 'straight now'. 'Sdelayu', 'I will make', is a future with no extra 'will' word: the verb's own ending does it.
+- 'What surprise have you prepared for us?' 'Surprise' is the English word, borrowed whole. 'Prigotovil', 'prepared', ends in 'l' because the 'you' here is Max. Asking a woman, Kostya would say prigotovila.
+- 'This surprise is waiting only for Vika.' There's no word for 'for' after 'zhdat', to wait: the person waited for just changes ending, so Vika becomes 'Viku'. Same 'u' ending as 'sudbu', destiny, earlier.
+- 'Good luck to you, my brave friend.' It's a fixed phrase, and the first word is 'luck' in a special shape, so literally 'of luck to you'. 'Smelyy', brave, is the adjective behind Kostya's earlier 'smelo', boldly.
+- 'Thank you, Kostya, I will go to her.' 'To her' is two words, 'k ney'. After a little word like 'to', 'her' changes shape from 'ona' to 'ney'. 'Spasibo' is the everyday thank you.
+- 'The main thing is not to ruin anything today.' It has two 'no' words in it, 'nothing' and 'not', and Russian wants both. The first word means 'the main thing', like a headline for the rest of the sentence.
+- 'Do not worry, everything will be simply great.' 'Don't worry' is really 'don't worry yourself', and the 'sya' at the end is that 'yourself'. 'Will be' is spoken out loud because Russian drops 'to be' only in the present.

@@ -10,14 +10,14 @@ PAIR = 'ru-en'
 LABELS = {'sasha': 'Саша', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
-INTRO = "Noticing an unfamiliar man sitting quietly at a corner table with a notebook, Victoria becomes increasingly suspicious. She quickly calls over waitress Sasha to investigate who the silent visitor is and which server is assigned to his table. Let's listen to their urgent hallway exchange in Russian."
-OPENER = "Let's examine how Victoria questions Sasha about the quiet man taking notes in the dining area."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = "Vika has a puzzle: a man at table five has come in as Nastya's guest, but he is not eating. She asks Sasha, the waitress, to explain. Over to the Russian."
+OPENER = 'Right, back to the start, one line at a time.'
+TRANSITION = 'And now the full version again.'
+OUTRO = 'The man is writing in a notebook, and Vika has sent for Nastya. Another possible critic has arrived. Rest well, and see you soon.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Саша, подойди сюда на секунду.', 'Sasha, come over here for a second.', [], ''),
-    ('sasha', 'Что случилось, Виктория Сергеевна?', 'What happened, Victoria Sergeyevna?', [], ''),
+    ('sasha', 'Что случилось, Виктория Сергеевна?', 'What happened, Viktoria Sergeyevna?', [], ''),
     ('vika', 'Кто сидит за пятым столиком?', 'Who is sitting at the fifth table?', [], ''),
     ('sasha', 'Там сидит довольно странный мужчина.', 'A rather strange man is sitting there.', [], ''),
     ('vika', 'Почему он ничего не заказывает?', 'Why is he not ordering anything?', [], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('vika', 'Да, позови её прямо сейчас.', 'Yes, call her right now.', [], ''),
 ]
 WALK = [
-    (0, None, "'Who is sitting at the fifth table?' Vika notices someone new. She wants to know the identity of the person at table five."),
-    (1, None, "'I do not know, this is Nastya's guest.' Sasha has no idea who the man is. He points out that the other waitress is serving that table."),
-    (2, None, "'He is constantly writing in his notebook.' He shares an observation. The man keeps writing things down in a little book."),
-    (3, None, "'This looks very much like an inspection.' Vika gets suspicious right away. To her, taking notes looks exactly like what a critic would do."),
+    (0, None, '\'Sasha, come over here for a second.\' "Podoydi", "come up", is "idti", "to go on foot", with pod-, "up to". "Syuda" is "to here". Vika uses "ty" with the waitress and keeps it short.'),
+    (1, None, '\'What happened, Viktoria Sergeyevna?\' Sasha uses first name and father\'s name, "Viktoria Sergeevna", because she is talking to her boss. "Chto sluchilos" is "what happened".'),
+    (2, None, '\'Who is sitting at the fifth table?\' Russians sit "za", "behind", a table: "za pyatym stolikom". "Pyaty" is "fifth". It is the same pattern as Kostya\'s "za sedmym stolikom".'),
+    (3, None, '\'A rather strange man is sitting there.\' "Dovolno" is "rather", and "strannyy muzhchina" is "strange man". "Muzhchina" ends in -a but is a man\'s word, and "strannyy" agrees with the man.'),
+    (4, None, '\'Why is he not ordering anything?\' "Nichego ne zakazyvaet" is "nothing not orders", with both negatives. "Zakazyvat" is "to order", from "zakaz", "an order".'),
+    (5, None, '\'I do not know, this is Nastya\'s guest.\' "Gost Nasti" is "guest of Nastya": the -i on "Nasti" does the "of". Sasha hands the problem to her colleague.'),
+    (6, None, '\'Did she already approach him?\' "Podoshla", "came up", has the -la of a woman. "K nemu" is "to him", where "emu" picks up an n- after "k".'),
+    (7, None, '\'Yes, she just gave him the menu.\' "Tolko chto", "only what", is "just now". "Dala", "gave", has the woman\'s -la. "Menyu" never changes its ending.'),
+    (8, None, '\'Is he carefully studying our hall?\' "Izuchaet", "studies", is the school word. "Vnimatelno" is "carefully", "attentively". Vika thinks the man is watching the room.'),
+    (9, None, '\'He is constantly writing in his notebook.\' "V svoy bloknot" is "into his own notebook", where "svoy" is "own". "Postoyanno" is "constantly", from the same family as "postoyannye gosti".'),
+    (10, None, '\'This looks very much like an inspection.\' "Pokhozhe na" is "similar to", the pattern of Alisa\'s "ya pokhozha na tebya?", "do I look like you?" "Proverka", "inspection", grows from "proverit", "to check".'),
+    (11, None, '\'Should I call Nastya to you?\' Russian says "mne pozvat?", "to me to call?", for "shall I call?". "K vam" is "to you", polite. "Nastyu" ends in -yu because she is the one called.'),
+    (12, None, '\'Yes, call her right now.\' "Pozovi" is the command "call!", for summoning someone. "Pryamo seychas" is "straight now", "right now". Vika ends the scene with an order.'),
 ]

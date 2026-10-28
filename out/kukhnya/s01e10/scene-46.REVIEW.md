@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Ведущий | Доброе утро всем ранним зрителям нашего шоу! | Good morning to all early viewers of our show! | #342: Доброе утро всем тем, кому не спится в такую рань. | verbatim |
-| 2 | Ведущий | С вами снова любимая передача Вкусное утро. | With you again is your favorite show Delicious Morning. | #343: Вкусное утро. | verbatim |
-| 3 | Ведущий | Сегодня мы приготовим простую аппетитную глазунью. | Today we will prepare simple appetizing sunny-side-up eggs. | #343: Мы сегодня будем готовить глазунью. | verbatim |
+| 1 | Ведущий | Доброе утро всем ранним зрителям нашего шоу! | Good morning to all early viewers of our show! | #342 00:23:51: Доброе утро всем тем, кому не спится в такую рань. | verbatim |
+| 2 | Ведущий | С вами снова любимая передача Вкусное утро. | With you again is your favorite show Delicious Morning. | #343 00:23:55: Вкусное утро. | verbatim |
+| 3 | Ведущий | Сегодня мы приготовим простую аппетитную глазунью. | Today we will prepare simple appetizing sunny-side-up eggs. | #343 00:23:55: Мы сегодня будем готовить глазунью. | verbatim |
 | 4 | Макс | Каждое утро открывает перед нами новый день. | Every morning opens a new day before us. | new | new |
 | 5 | Ведущий | Берём свежие яйца и разогреваем сковороду. | We take fresh eggs and heat the frying pan. | new | new |
 | 6 | Макс | Иногда простые вещи оказываются самыми важными. | Sometimes simple things turn out to be the most important. | new | new |
 | 7 | Ведущий | Добавляем немного сливочного масла и соли. | We add a little butter and salt. | new | new |
-| 8 | Макс | Мы часто ищем сложных ответов на вопросы. | We often look for complex answers to questions. | new | new |
+| 8 | Макс | Мы часто ищем сложные ответы на простые вопросы. | We often look for complex answers to simple questions. | new | new |
 | 9 | Ведущий | Несколько минут — и великолепный завтрак готов! | A few minutes and a wonderful breakfast is ready! | new | new |
-| 10 | Макс | Главное — никогда не упускать свои возможности. | The main thing is never to miss your opportunities. | #344: Главное, не упускать эти возможности. | verbatim |
-| 11 | Макс | Судьба может не дать нам второй шанс. | Fate might not give us a second chance. | #345: Ведь может получиться так, что второго шанса судьба не даст. | verbatim |
+| 10 | Макс | Главное — никогда не упускать свои возможности. | The main thing is never to miss your opportunities. | #344 00:24:00: Главное, не упускать эти возможности. | verbatim |
+| 11 | Макс | Судьба может не дать нам второй шанс. | Fate might not give us a second chance. | #345 00:24:03: Ведь может получиться так, что второго шанса судьба не даст. | verbatim |
 | 12 | Ведущий | Приятного аппетита и хорошего дня всем! | Bon appetit and have a good day everyone! | new | new |
-| 13 | Макс | Цените каждый миг своей настоящей жизни. | Value every moment of your real life. | new | new |
+| 13 | Макс | Цените каждый миг своей жизни. | Value every moment of your life. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning to all early viewers of our show!' The upbeat TV host greets early risers brightly.
-- 'With you again is your favorite show Delicious Morning.' On the television screen the next morning, the cheerful host welcomes viewers back to 'Delicious Morning' — the very show Barinov turned down.
-- 'Today we will prepare simple appetizing sunny-side-up eggs.' The host announces that today's simple breakfast recipe is sunny-side-up eggs.
-- 'Every morning opens a new day before us.' Max reflects on the fresh possibilities of dawn.
-- 'We take fresh eggs and heat the frying pan.' The culinary demonstration begins on television.
-- 'Sometimes simple things turn out to be the most important.' Max realizes that life's joys are uncomplicated.
-- 'We add a little butter and salt.' The host cooks with calm and rhythmic precision.
-- 'We often look for complex answers to questions.' Max acknowledges how people complicate simple choices.
-- 'A few minutes and a wonderful breakfast is ready!' The steaming eggs are proudly presented on the screen.
-- 'The main thing is never to miss your opportunities.' Max urges embracing every chance with open arms.
-- 'Fate might not give us a second chance.' Max solemnly notes the rarity of second opportunities.
-- 'Bon appetit and have a good day everyone!' The TV broadcast signs off with warmth and smiles.
-- 'Value every moment of your real life.' Max ends his philosophical reflection on a poignant note.
+- 'Good morning to all early viewers of our show!' The greeting is "dobroe utro", "good morning". In "vsem rannim zritelyam", "to all early viewers", every word carries the "to" ending.
+- 'With you again is your favorite show Delicious Morning.' "S vami snova" is "with you again", where English says "welcome back". "Peredacha", "broadcast", is from "peredat", "to pass on". The show is "Vkusnoe utro".
+- 'Today we will prepare simple appetizing sunny-side-up eggs.' "Glazunya" comes from "glaz", "eye": a fried egg looks like an eye. "Prigotovim" is "we will prepare".
+- 'Every morning opens a new day before us.' Max's voice says "otkryvaet", "opens". "Pered nami" is "in front of us"; "pered" takes the "with" ending.
+- 'We take fresh eggs and heat the frying pan.' "Razogrevaem" is "we heat up", from Louis's "razogret shokolad na vodyanoy bane". "Svezhie yaytsa" is "fresh eggs". "Skovoroda" is "frying pan".
+- 'Sometimes simple things turn out to be the most important.' "Okazyvayutsya" is "turn out", with -sya. "Samymi vazhnymi" is "the most important", with "samy" for "most". "Inogda" is "sometimes".
+- 'We add a little butter and salt.' "Slivochnoe maslo", "butter", is literally "cream oil". "Nemnogo" makes "masla" and "soli" take the "of" ending, like Barinov's "nemnogo soli".
+- 'We often look for complex answers to simple questions.' "Ishchem" is "we look for", from the verb in Nastya's "Shef uzhe ishchet eyo". "Otvety na voprosy" is "answers on questions", with "na".
+- 'A few minutes and a wonderful breakfast is ready!' "Neskolko minut" is "a few minutes". "Gotov" is the short form for the masculine "zavtrak", "breakfast". "Velikolepny" is "magnificent".
+- 'The main thing is never to miss your opportunities.' "Upuskat" is "to let slip", from Barinov's "upustil" about Spartak's victory. "Glavnoe" is "the main thing", as in Fedya's "Glavnoe, chtoby gosti nichego ne zapodozrili".
+- 'Fate might not give us a second chance.' Fate is "sudba". "Mozhet ne dat" is "may not give", and "vtoroy shans" is "second chance".
+- 'Bon appetit and have a good day everyone!' Russian wishes take the "of" ending: "priyatnogo appetita" is literally "of pleasant appetite", and "khoroshego dnya" is "of a good day".
+- 'Value every moment of your life.' "Tsenite" is "value", an order to many. "Mig" is "moment", a short, poetic word. "Svoey zhizni" is "of your own life".

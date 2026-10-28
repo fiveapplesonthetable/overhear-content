@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the restaurant hallway, Victoria tries to approach Max for an important talk. Panicked by the thought of relationship commitments, Max fakes an incoming phone call from Kostya and runs away to the bar. Listen to their fast-paced exchange in Russian first, and then we will examine each sentence.'
-OPENER = 'Now, let us examine the vocabulary and phrasing of this comical escape attempt.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "A funny depiction of dodging uncomfortable romantic conversations at all costs. Next time you watch the episode, listen for the Russian expressions for 'to see' and 'to speak' — you will catch every word right away. See you next time!"
+INTRO = 'Vika has heard that Max is avoiding her, and she corners him in the restaurant. Max does what any brave man would do: he pretends to take a phone call. Over to the Russian.'
+OPENER = 'Right, back to the start, one line at a time.'
+TRANSITION = 'And now the full version again.'
+OUTRO = "Kostya plays along, and Max escapes to the storeroom. It's a clumsy trick, but it works for the moment. Rest well, and see you soon."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Макс, нам надо серьёзно поговорить!', 'Max, we need to talk seriously!', [(57, 'Макс!')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Спасибо, друг, ты меня спас!', 'Thank you, friend, you saved me!', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, we need to talk seriously!' Victoria approaches him with an important purpose."),
-    (1, None, "'Hey, Vika! Glad to see you.' Max replies nervously while searching for an escape."),
-    (2, None, "'Oh, Kostya is calling, sorry!' Panicking as Vika approaches, Max pulls out his phone and pretends Kostya is calling him."),
-    (3, None, "'Hello, Kostya, speak louder!' Max fakes a noisy conversation into his device."),
-    (4, None, "'Hard to hear, I will come over right now!' Holding the silent phone to his ear, Max yells that the signal is bad and sprints toward the bar."),
-    (5, None, "'Max, wait, do not leave!' Victoria tries to stop him from slipping away."),
-    (6, None, "'Vika, this is a very urgent matter!' Max insists with dramatic urgency before rushing off."),
-    (7, None, "'Kostya, why did you call?' Max whispers hurriedly as he reaches the bar."),
-    (8, None, "'What do you mean, I did not call you.' Behind the bar counter, a baffled Kostya points out that he never called Max at all."),
-    (9, None, "'Pretend that you need help!' Literal 'make the look' is how Russian says 'pretend' as Max begs Kostya to act like he needs help."),
-    (10, None, "'Oh, you are hiding from Vika?' Kostya quickly figures out his friend's motive."),
-    (11, None, "'Yes, play along with me, please!' With Vika walking straight toward them, Max pleads with his friend to play along with the act."),
-    (12, None, "'All right, let us go to the storeroom.' Kostya agrees to help him escape the dining room."),
-    (13, None, "'Thank you, friend, you saved me!' Max breathes a sigh of relief as they walk away. Now, let us listen to the complete scene again to practice your comprehension."),
+    (0, None, '\'Max, we need to talk seriously!\' "Nam nado", "to us it\'s necessary", is the casual "we must", a cousin of "nuzhno". "Seryozno" is "seriously". Vika has had enough waiting.'),
+    (1, None, '\'Hey, Vika! Glad to see you.\' "Privet" is the casual hello. "Rad", "glad", ends bare because Max is a man; Vika would say "rada". His smile is as false as the greeting.'),
+    (2, None, '\'Oh, Kostya is calling, sorry!\' "Zvonit" is "rings" or "calls", the phone word. "Izvini" is the casual "sorry" the boy used in the first scene. Max waves his phone as he says it.'),
+    (3, None, '\'Hello, Kostya, speak louder!\' "Allo" is the phone hello. "Gromche", "louder", is "gromko", "loudly", in its "more" form. Max shouts into a phone that has not rung, and Vika is watching.'),
+    (4, None, '\'Hard to hear, I will come over right now!\' "Plokho slyshno", "badly audible", is what Russians say for "I can hardly hear". "Podoydu" is the come-over word Barinov used with Kostya. Max edges toward the door.'),
+    (5, None, '\'Max, wait, do not leave!\' "Ne ukhodi" is "don\'t go away": the u- on the front means "away". Its opposite is pri-, "towards", so "ukhodit" and "prikhodit" are leave and arrive. Vika isn\'t fooled.'),
+    (6, None, '\'Vika, this is a very urgent matter!\' "Srochnoe delo" is "urgent matter": "srochno" from the first episode scenes, and "delo" from "v chyom delo". "Srochnoe" ends in -oe to match "delo".'),
+    (7, None, '\'Kostya, why did you call?\' "Chego" is a casual way to ask "why", more relaxed than "pochemu". "Zvonil" is "called", with the man\'s -l. It\'s a clumsy question.'),
+    (8, None, '\'What do you mean, I did not call you.\' "V smysle", "in the sense", is the casual Russian for "what do you mean". "Ya tebe ne zvonil" is "I to you didn\'t ring": you ring "to" someone.'),
+    (9, None, '\'Pretend that you need help!\' Russian says "sdelay vid", "make a look", for "pretend". "Pomoshch", "help", is a she-word, so it\'s "nuzhna" with -a. Max whispers it.'),
+    (10, None, '\'Oh, you are hiding from Vika?\' "Pryachesh-sya" is "you hide yourself", from the same word as "spryatalas" in the hide-and-seek game. "Ot Viki" is "from Vika": after "ot", Vika becomes "Viki".'),
+    (11, None, '\'Yes, play along with me, please!\' "Podygray", "play along", is "igray", "play", with pod-, "under": play under me, back me up. "Mne" is "to me".'),
+    (12, None, '\'All right, let us go to the storeroom.\' "Nu davay" is "well, okay". "Poshli" is the casual "let\'s go", literally "went". "Na sklad" is "to the storeroom", and "sklad" stays as it is after "na" when you\'re heading there.'),
+    (13, None, '\'Thank you, friend, you saved me!\' "Spas", "saved", is from the same family as "spasibo", the one that began as "God save". "Drug" is "friend". It was a close thing.'),
 ]

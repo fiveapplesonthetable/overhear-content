@@ -7,41 +7,41 @@ SCENE = 5
 TITLE = 'Утренние сборы  (Morning Preparations)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'max': 'Макс', 'nastya': 'Настя'}
+LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Nastya wakes up and complains to Max about his exhausting morning routine. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Morning Preparations line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max is left to consider Nastya's romantic offer. Next time you watch the episode, listen for the Russian expressions for 'where' and 'it's time' — you will catch every word right away. See you next time!"
-CLOSING = ('nastya', 'Пока!')
+INTRO = "It's the early hours, and Max is slipping out of Vika's bed to go home and change before work. She wants him to stay a little longer. Here's how it sounds in Russian."
+OPENER = "Now we go back through it slowly."
+TRANSITION = 'Now the scene in one go.'
+OUTRO = "Vika has put a big question to Max, and he has to think about it. Talk soon."
+CLOSING = ('vika', 'Пока!')
 STORY = [
-    ('nastya', 'Ну ты куда?', 'Where are you going?', [(25, 'Ну ты куда?')], ''),
+    ('vika', 'Ну ты куда?', 'Where are you going?', [(25, 'Ну ты куда?')], ''),
     ('max', 'Мне пора.', 'I have to go.', [], ''),
-    ('nastya', 'Останься со мной ещё на одну минуту.', 'Stay with me for one more minute.', [], ''),
+    ('vika', 'Останься со мной ещё на одну минуту.', 'Stay with me for one more minute.', [], ''),
     ('max', 'Я не могу, я очень сильно спешу.', 'I cannot, I am rushing very much.', [], ''),
-    ('nastya', 'У тебя опять очень много важных дел?', 'Do you again have many important things?', [], ''),
+    ('vika', 'У тебя опять очень много важных дел?', 'Do you again have many important things?', [], ''),
     ('max', 'Надо заехать домой, принять душ, переодеться.', 'I need to stop by home, take a shower, change.', [], ''),
-    ('nastya', 'Слушай, тебе не надоело?', 'Listen, are you not tired of this?', [], ''),
-    ('max', 'Что именно мне должно было сильно надоесть?', 'What exactly should have strongly tired me?', [], ''),
-    ('nastya', 'Спать здесь, а принимать душ далеко отсюда.', 'Sleeping here, but taking a shower far from here.', [], ''),
+    ('vika', 'Слушай, тебе не надоело?', 'Listen, are you not tired of this?', [], ''),
+    ('max', 'А что именно мне надоело?', 'And what exactly am I fed up with?', [(29, 'Что?')], 'adapted: Max turns her question round'),
+    ('vika', 'Спать здесь, а принимать душ далеко отсюда.', 'Sleeping here, but taking a shower far from here.', [], ''),
     ('max', 'Да, это занимает очень много моего времени.', 'Yes, it takes a lot of my time.', [], ''),
-    ('nastya', 'Тогда зачем ты это делаешь каждый день?', 'Then why do you do this every day?', [], ''),
+    ('vika', 'Тогда зачем ты это делаешь каждый день?', 'Then why do you do this every day?', [], ''),
     ('max', 'Потому что там лежат все мои вещи.', 'Because all my things lie there.', [], ''),
-    ('nastya', 'Может быть, ты ко мне переедешь?', 'Maybe you should move in with me?', [], ''),
+    ('vika', 'Может быть, ты ко мне переедешь?', 'Maybe you should move in with me?', [], ''),
 ]
 WALK = [
-    (0, None, "'Where are you going?' Waking up confused, she asks her boyfriend about his sudden morning departure."),
-    (1, None, "'I have to go.' Max replies with a quick, urgent phrase to indicate he is in a hurry to leave."),
-    (2, None, "'Stay with me for one more minute.' Hoping for a little romance, she gently asks him to linger just a bit longer in bed."),
-    (3, None, "'I cannot, I am rushing very much.' Turning down her request, he stresses that he is completely out of time."),
-    (4, None, "'Do you again have many important things?' Feeling slightly neglected, she sarcastically questions if his schedule is really that busy."),
-    (5, None, "'I need to stop by home, take a shower, change.' Listing his morning tasks, he explains all the steps he has to complete before work."),
-    (6, None, "'Listen, are you not tired of this?' Asking a pointed question, Nastya wonders if he is exhausted by this inconvenient routine."),
-    (7, None, "'What exactly should have strongly tired me?' Acting completely oblivious, he asks her to clarify what part of the situation is supposed to be annoying."),
-    (8, None, "'Sleeping here, but taking a shower far from here.' She lays out the ridiculous logistics of splitting his life between two different apartments."),
-    (9, None, "'Yes, it takes a lot of my time.' Agreeing with her assessment, he admits that the commute is draining his schedule."),
-    (10, None, "'Then why do you do this every day?' Puzzled by his choices, she challenges him to explain why he keeps putting himself through it."),
-    (11, None, "'Because all my things lie there.' Giving a practical answer, he points out that his clothes and belongings are at his own place."),
-    (12, None, "'Maybe you should move in with me?' Seizing the moment, she casually proposes a major relationship step as a practical solution."),
+    (0, None, "'Where are you going?' 'Ty kuda' is 'you where to', with no verb at all. In Russian the movement is understood."),
+    (1, None, "'I have to go.' Just two words, 'mne pora', 'to me time'. It's the standard way to say you must leave."),
+    (2, None, "'Stay with me for one more minute.' 'Ostansya' ends in 'sya', 'stay yourself'. 'Na odnu minutu' uses 'na' for a stretch of time, and 'odna minuta' changes to 'odnu minutu' after it."),
+    (3, None, "'I cannot, I am rushing very much.' 'Speshu' is 'I hurry'. 'Ochen silno' is 'very strongly', which is how Russian puts 'very much'."),
+    (4, None, "'Do you again have many important things?' 'Del' is 'of affairs', so 'many important affairs' ends in plural 'of' forms. 'U tebya' is 'at you', which she uses for 'do you have'."),
+    (5, None, "'I need to stop by home, take a shower, change.' Russians 'accept' a shower, 'prinyat dush', where English says 'take'. 'Pereodetsya' is 'dress again', that is, change clothes."),
+    (6, None, "'Listen, are you not tired of this?' Literally, 'to you has it not got boring'. It's how Russians ask 'aren't you fed up with this?'."),
+    (7, None, "'And what exactly am I fed up with?' Max turns her question round. 'Nadoelo' is the same verb she used, and again the person who's fed up is 'mne', to me."),
+    (8, None, "'Sleeping here, but taking a shower far from here.' Vika uses no 'you' at all: 'spat' and 'prinimat' stay in their basic form, like 'to sleep here, to shower there'. 'Otsyuda' is 'from here'."),
+    (9, None, "'Yes, it takes a lot of my time.' 'Zanimaet' means 'occupies', so the thing takes up your time. 'Moego vremeni' is 'of my time', with an 'ego' ending."),
+    (10, None, "'Then why do you do this every day?' 'Zachem' is 'what for', asking about the purpose. 'Kazhdyy den', every day, needs no little word in front, unlike English 'on'."),
+    (11, None, "'Because all my things lie there.' Things 'lie', 'lezhat', in a place, as in the flat. Max gives a plain reason, which is the joke."),
+    (12, None, "'Maybe you should move in with me?' 'Mozhet byt' is literally 'can be', so 'maybe'. 'K' becomes 'ko' before 'mne', to make it easier to say. 'Pereedesh' is the same 'move in' verb as in the first scene."),
 ]

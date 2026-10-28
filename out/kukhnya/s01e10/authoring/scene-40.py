@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "In the back room of Claude Monet, Chef Barinov is engrossed in an intense televised football match. His viewing is interrupted when Senya rushes in to report that restaurant owner Dmitry Nagiyev urgently wants to see him. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the workplace hierarchy, sports fandom expressions, and urgent managerial summons."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Reluctantly leaving his televised football match, Chef Barinov leaves Senya in charge of the score and heads out to meet Nagiyev. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to lead' and 'carefully' — you will catch every word right away. See you next time!"
+INTRO = 'A big football match is on, and Barinov wants to watch it in peace. Senya tells him that the owner is calling for him, urgently. Listen to who says what.'
+OPENER = "Let's take the lines one by one."
+TRANSITION = "Let's play it through again."
+OUTRO = "Barinov goes to see Nagiyev, and Senya stays with the television. The score is two-nil, but not for long. That's it for this one."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Сеня, не мешай мне смотреть футбол!', "Senya, don't disturb me watching football!", [], ''),
@@ -23,25 +23,25 @@ STORY = [
     ('barinov', 'Я знаю этого человека целых двадцать лет.', 'I have known this man for a whole twenty years.', [(288, 'Я же вас 20 лет знаю')], ''),
     ('senya', 'Он ждёт вас прямо сейчас возле зала.', 'He is waiting for you right now near the hall.', [(290, 'Шеф')], ''),
     ('barinov', 'Наша команда ведёт в счёте два ноль!', 'Our team is leading in the score two-nil!', [(292, 'Следи за счетом')], ''),
-    ('senya', 'Я обещаю внимательно следить за футбольным счётом.', 'I promise to attentively watch the football score.', [(292, 'Следи за счетом')], ''),
+    ('senya', 'Я обещаю внимательно следить за счётом.', 'I promise to watch the score carefully.', [(292, 'Следи за счетом')], ''),
     ('barinov', 'Если наша команда проиграет, я накажу тебя!', 'If our team loses, I will punish you!', [(292, 'Следи за счетом')], ''),
     ('senya', 'Шеф, я не отойду от экрана телевизора.', 'Chef, I will not step away from the TV screen.', [(292, 'Следи за счетом')], ''),
-    ('barinov', 'Ладно, я пойду и выслушаю Дмитрия Нагиева.', 'Fine, I will go and listen to Dmitry Nagiyev.', [(290, 'Шеф')], ''),
-    ('senya', 'Удачи вам в разговоре с нашим хозяином!', 'Good luck to you in the talk with our master!', [(289, 'Дмитрий Владимирович')], ''),
+    ('barinov', 'Ладно, я пойду и выслушаю Дмитрия Владимировича.', 'Fine, I will go and hear Dmitry Vladimirovich out.', [(290, 'Шеф')], ''),
+    ('senya', 'Удачи вам в разговоре с хозяином!', 'Good luck in your talk with the owner!', [(289, 'Дмитрий Владимирович')], ''),
     ('barinov', 'Смотри в оба и внимательно следи за счётом!', 'Keep your eyes peeled and attentively watch the score!', [(292, 'Следи за счетом')], ''),
 ]
 WALK = [
-    (0, None, "'Senya, don't disturb me watching football!' Glued to the small television in the back room, Barinov snaps at Senya not to block the football match."),
-    (1, None, "'Chef, Dmitry Vladimirovich is urgently calling you!' Senya urgently reports that owner Dmitry Nagiyev is calling for the chef right now."),
-    (2, None, "'Why does the owner call at this exact moment?' Viktor groans, asking why the boss has to summon him in the middle of the game."),
-    (3, None, "'He said that this is a very urgent matter.' Senya says Nagiyev sounded dead serious and called it urgent."),
-    (4, None, "'I have known this man for a whole twenty years.' Viktor grumbles that he has known Nagiyev for twenty years and knows his dramatic habits."),
-    (5, None, "'He is waiting for you right now near the hall.' Senya reminds him that the owner is waiting right outside the dining room."),
-    (6, None, "'Our team is leading in the score two-nil!' Pointing at the screen, Viktor worries because the team he bet on is up two-nil."),
-    (7, None, "'I promise to attentively watch the football score.' Senya volunteers to keep his eyes glued to the score while the chef is gone."),
-    (8, None, "'If our team loses, I will punish you!' Superstitious as ever, Barinov warns that if the team blows the lead while he is out, he will blame Senya."),
-    (9, None, "'Chef, I will not step away from the TV screen.' Senya swears he will not take his eyes off the television screen."),
-    (10, None, "'Fine, I will go and listen to Dmitry Nagiyev.' Reluctantly tearing himself away, Viktor goes to see what Nagiyev wants."),
-    (11, None, "'Good luck to you in the talk with our master!' Senya wishes him luck with the boss."),
-    (12, None, "'Keep your eyes peeled and attentively watch the score!' Viktor tells him one last time to watch the score like a hawk."),
+    (0, None, '\'Senya, don\'t disturb me watching football!\' "Meshat" means both "to stir", as in Louis\'s "Meshay ravnomerno", and "to disturb", as here. "Ne meshay mne" is "don\'t disturb me". "Smotret futbol" is "to watch football".'),
+    (1, None, '\'Chef, Dmitry Vladimirovich is urgently calling you!\' "Zovyot" is "calls", to summon someone, from "zvat", the verb of Senya\'s "zovi ofitsianta". Senya uses the owner\'s first name and father\'s name.'),
+    (2, None, '\'Why does the owner call at this exact moment?\' "Khozyain" is "owner" or "master", heard in Vika\'s "nastoyashchiy khozyain kukhni". "Imenno v etot moment" is "exactly at this moment". Barinov is annoyed.'),
+    (3, None, '\'He said that this is a very urgent matter.\' "Srochnoe delo" is "urgent matter", the words Max used to escape from Vika: "Vika, eto ochen srochnoe delo!". "Skazal" is "he said".'),
+    (4, None, '\'I have known this man for a whole twenty years.\' Barinov says "Ya znayu", "I know": twenty years and still counting. After "dvadtsat", "years" is "let". "Tselykh" is "whole", for emphasis.'),
+    (5, None, '\'He is waiting for you right now near the hall.\' "Zhdyot vas" is "waits you", with no word for "for". "Vozle zala" is "near the hall". "Pryamo seychas" is "right now".'),
+    (6, None, '\'Our team is leading in the score two-nil!\' "Vedyot v schyote" is "leads in the score"; "vesti", "to lead", is also the verb in "vesti sebya", "to behave". "Dva nol" is "two-nil".'),
+    (7, None, '\'I promise to watch the score carefully.\' "Sledit za" is "to keep an eye on", the verb in Barinov\'s "Idi i prosledi za goryachim tsekhom". "Obeshchayu" is "I promise", as in Louis\'s "Obeshchayu, tort budet idealnym".'),
+    (8, None, '\'If our team loses, I will punish you!\' "Proigraet" is "loses", the word from the first scene: "Papa opyat proigral vse nashi dengi". "Nakazhu" is "I will punish".'),
+    (9, None, '\'Chef, I will not step away from the TV screen.\' "Otoydu" is "I will step away", as in Barinov\'s "Senya, otoydi". "Ot ekrana" is "from the screen": "ekran" gets -a after "ot".'),
+    (10, None, '\'Fine, I will go and hear Dmitry Vladimirovich out.\' "Vyslushayu" is "I will hear out": vy- on "slushat" means "to the end". After it, "Dmitry Vladimirovich" becomes "Dmitriya Vladimirovicha". The football will have to wait.'),
+    (11, None, '\'Good luck in your talk with the owner!\' "Udachi vam" is literally "of luck to you", the way Russian wishes are built. "S khozyainom" is "with the owner", the same "khozyain" as before.'),
+    (12, None, '\'Keep your eyes peeled and attentively watch the score!\' "Smotri v oba" is "look into both", meaning both eyes open. "Sledi za schyotom" repeats Senya\'s promise as an order.'),
 ]

@@ -10,36 +10,36 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "Dmitry nervously waits for Chef Viktor at the catering event, but Viktor is running late. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Face of the Restaurant line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Viktor finally arrives, but his intoxicated state will cause even more problems in this scene. Next time you watch the episode, listen for the Russian expressions for 'guest' and 'to intend' — you will catch every word right away. See you next time!"
+INTRO = "It's the day of an important dinner, and Chef Barinov is late. Nagiyev, the owner, rings him up in a panic. Here's the phone call in Russian."
+OPENER = 'The phone call again, piece by piece.'
+TRANSITION = 'Now the call from the start.'
+OUTRO = "Barinov is nearly there, or so he says. Two words to keep from this call: 'probki', traffic jams, and 'podyezzhayu', I'm nearly there. Catch you in the next scene."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('nagiyev', 'Витя, ты где? Уже гости собирается.', 'Vitya, where are you? The guests are already arriving.', [(46, 'Алло, Витя, ты где? Уже гости собирается.')], ''),
+    ('nagiyev', 'Витя, ты где? Уже гости собираются.', 'Vitya, where are you? The guests are already arriving.', [(46, 'Алло, Витя, ты где? Уже гости собирается.')], ''),
     ('barinov', 'Алло, Дима, я еду на машине.', 'Hello, Dima, I am driving in the car.', [], ''),
     ('nagiyev', 'Почему ты так сильно опаздываешь сегодня?', 'Why are you so very late today?', [], ''),
     ('barinov', 'Были ужасные пробки на дороге.', 'There were terrible traffic jams on the road.', [], ''),
     ('nagiyev', 'Наш важный клиент уже ждёт тебя.', 'Our important client is already waiting for you.', [], ''),
-    ('barinov', 'Скажи им, чтобы они пили вино.', 'Tell them so that they drink wine.', [], ''),
+    ('barinov', 'Скажи им, чтобы они пили вино.', 'Tell them to drink wine.', [], ''),
     ('nagiyev', 'Я уже налил им лучший коньяк.', 'I already poured them the best cognac.', [], ''),
     ('barinov', 'Вот и отлично, пусть отдыхают пока.', 'That is excellent, let them rest for now.', [], ''),
     ('nagiyev', 'Ты должен быть здесь через пять минут!', 'You must be here in five minutes!', [], ''),
     ('barinov', 'Не кричи на меня, я подъезжаю.', 'Do not yell at me, I am almost there.', [(47, 'Я подъезжаю.')], ''),
     ('nagiyev', 'Я жду тебя у главного входа.', 'I am waiting for you at the main entrance.', [], ''),
-    ('barinov', 'Иду, иду, уже почти на месте.', 'Coming, coming, already almost at the place.', [], ''),
+    ('barinov', 'Иду, иду, уже почти на месте.', 'Coming, coming, I am almost there already.', [], ''),
 ]
 WALK = [
-    (0, None, "'Vitya, where are you? The guests are already arriving.' Nagiyev is getting anxious. He calls Barinov to ask where he is."),
-    (1, None, "'Hello, Dima, I am driving in the car.' Barinov answers calmly from his car. He says he is currently driving."),
-    (2, None, "'Why are you so very late today?' Nagiyev demands an explanation for the delay. He asks why the Chef is so late."),
-    (3, None, "'There were terrible traffic jams on the road.' Barinov blames the traffic. He claims the roads were completely jammed."),
-    (4, None, "'Our important client is already waiting for you.' Nagiyev stresses the urgency of the situation. He mentions the important client is waiting."),
-    (5, None, "'Tell them so that they drink wine.' Barinov offers a temporary solution. He suggests they serve wine to stall for time."),
-    (6, None, "'I already poured them the best cognac.' Nagiyev is already ahead of him. He says he has poured them the finest cognac."),
-    (7, None, "'That is excellent, let them rest for now.' Barinov approves of the move. He says that is perfect and they should just relax."),
-    (8, None, "'You must be here in five minutes!' Nagiyev gives him a strict deadline. He demands the Chef arrive in exactly five minutes."),
-    (9, None, "'Do not yell at me, I am almost there.' Barinov tells Nagiyev to calm down. He insists he is almost at the restaurant."),
-    (10, None, "'I am waiting for you at the main entrance.' Nagiyev states his location. He says he will be waiting right at the front door."),
-    (11, None, "'Coming, coming, already almost at the place.' Barinov promises he is close. He assures Nagiyev he is practically pulling up now."),
+    (0, None, "'Vitya, where are you? The guests are already arriving.' 'Ty gde?' is 'you where?', with no 'are'. 'Sobirayutsya' is 'gather themselves', the usual verb for guests turning up."),
+    (1, None, "'Hello, Dima, I am driving in the car.' 'Allo' is only for the phone. 'Dima' is the short form of Dmitry, and Russians travel 'na mashine', literally 'on the car'."),
+    (2, None, "'Why are you so very late today?' 'Tak silno' is literally 'so strongly'; 'silno' is the everyday word for 'a lot' or 'badly'. 'Opazdyvaesh' is the 'you' form of 'opazdyvat', to be late."),
+    (3, None, "'There were terrible traffic jams on the road.' 'Probka' is a cork, and also a traffic jam, a road corked up with cars. 'Byli', were, is plural to match 'probki'."),
+    (4, None, "'Our important client is already waiting for you.' 'Zhdyot tebya', literally 'waits you': Russian 'wait' needs no word for 'for', the person waited for simply changes from 'ty' to 'tebya'."),
+    (5, None, "'Tell them to drink wine.' Literally, 'say to them, so that they drank wine'. After 'chtoby', so that, the verb goes into the past form, 'pili', even though nobody has drunk anything yet."),
+    (6, None, "'I already poured them the best cognac.' 'Im', to them, is the whole of 'for them' here, no extra word. 'Nalil', poured, is the man's past form; a woman would say 'nalila'."),
+    (7, None, "'That is excellent, let them rest for now.' 'Pust' is 'let', and the verb after it is the plain 'they' form, 'pust otdykhayut', 'let they rest'. 'Vot i otlichno' is the stock 'well, that's great then'."),
+    (8, None, "'You must be here in five minutes!' 'Dolzhen', must, has the man's form; for a woman it's 'dolzhna'. 'Cherez pyat minut' is literally 'through five minutes', which is how Russians say 'in five minutes'."),
+    (9, None, "'Do not yell at me, I am almost there.' You shout 'na' someone, onto them: 'krichat na menya'. 'Podyezzhayu' is 'I'm driving up', with 'pod', under or near, as the prefix for getting close."),
+    (10, None, "'I am waiting for you at the main entrance.' 'U', at, takes the 'of' form, so 'glavny vkhod' becomes 'glavnogo vkhoda'. You'll hear 'u vkhoda', at the entrance, in any building."),
+    (11, None, "'Coming, coming, I am almost there already.' 'Idu, idu' is the impatient 'coming, coming!' Russians say it even when they're in a car. 'Na meste', literally 'in place', means 'there' or 'arrived'."),
 ]
