@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = 'In the Claude Monet kitchen, the staff are hungry and waiting for their staff lunch. Max has been assigned to prepare the meal, and line cook Senya asks impatiently when it will be ready. Max proudly promises a gourmet purée soup far superior to the plain slop they usually eat. Listen to their conversation in Russian first, then we will break down each line in English.'
-OPENER = 'Now let us go through each phrase to see how it works in Russian.'
+INTRO = "The staff are hungry, and Max is in charge of lunch. Senya asks when it will be ready, and Max promises a special soup that is nothing like the usual slop. Here's the Russian first."
+OPENER = 'Now the wait for lunch.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max promises an unforgettable culinary experience for the restaurant staff lunch. Until then! Next time you watch the episode, listen for the Russian expressions for 'to be' and 'tasty' — you will catch every word right away. See you next time!"
+OUTRO = 'Max promises an unforgettable lunch, and the cooks aren\'t sure whether to be pleased or worried. Notice "pal\'chiki oblizhete", the Russian for "finger-licking".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('senya', 'Макс, мы сегодня обедать будем?', 'Max, are we going to have lunch today?', [(264, 'Мы сегодня есть')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Сейчас я вас всех удивлю!', 'Now I will surprise you all!', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, are we going to have lunch today?' The line cook impatiently asks when food will be served."),
-    (1, None, "'Of course, everything is already almost ready!' Max reassures the hungry crew in the kitchen."),
-    (2, None, "'We all really want to eat.' The kitchen staff are exhausted and waiting for lunch."),
-    (3, None, "'Wait a couple more minutes.' A polite request to give the cook just a moment."),
-    (4, None, "'What did you prepare for us today?' A curious question about the daily staff meal menu."),
-    (5, None, "'I cooked a special purée soup.' Max proudly announces his upscale culinary experiment."),
-    (6, None, "'A regular soup would be better.' The veteran cook expresses doubt about fancy experiments."),
-    (7, None, "'You will all lick your fingers!' A classic Russian idiom meaning the food is extremely tasty."),
-    (8, None, "'I hope this is edible.' A teasing remark about the rookie cook's culinary skills."),
-    (9, None, "'You have never tasted such a thing.' Max promises a unique and memorable flavor experience."),
-    (10, None, "'The main thing is that it is tasty.' A practical reminder that taste matters more than presentation."),
-    (11, None, "'This is not that usual slop.' Max contrasts his refined creation with everyday cafeteria food."),
-    (12, None, "'Alright, bring it quickly to the table!' An invitation to finally serve the cooked meal."),
-    (13, None, "'Now I will surprise you all!' An eager promise to impress the entire restaurant team. Alright, let's hear the whole thing once more."),
+    (0, None, '\'Max, are we going to have lunch today?\' "Obedat\'" is "to have lunch", from "obed". Russian puts the verb first, as "have-lunch will we?".'),
+    (1, None, '\'Of course, everything is already almost ready!\' "Pochti" is "almost". "Gotovo" ends in -o to agree with "vsyo", everything.'),
+    (2, None, '\'We all really want to eat.\' Russians say "we want to eat" for "we\'re hungry". "Khotim" is "we want".'),
+    (3, None, '\'Wait a couple more minutes.\' "Podozhdite" is the polite or plural "wait". "Paru" is "a couple", and "yeshchyo" is "more".'),
+    (4, None, '\'What did you prepare for us today?\' "Nam" is "to us", Russian\'s way to say "for us". "Prigotovil" is a man\'s "prepared".'),
+    (5, None, '\'I cooked a special purée soup.\' "Svaril" has "s-", done, in front of "varit\'", to boil. "Sup-pyure" is borrowed from French.'),
+    (6, None, '\'A regular soup would be better.\' "By" is the little word that makes "would": "byl by luchshe", "would be better".'),
+    (7, None, '\'You will all lick your fingers!\' "Pal\'chiki oblizhete" is literally "you\'ll lick the little fingers", and it\'s the exact Russian for "finger-licking". "Pal\'chiki" is "little fingers".'),
+    (8, None, '\'I hope this is edible.\' "Mozhno" is "it\'s possible", so "mozhno yest\'" means "can be eaten". Senya is not convinced.'),
+    (9, None, '\'You have never tasted such a thing.\' Max claims they have never tasted such a thing: "never not tried", the double negative, and "such" in its "of" form.'),
+    (10, None, '\'The main thing is that it is tasty.\' "Chtoby" is "so that", and Russians put the next word in the past, "bylo", to express a hope. "Vkusno" is "tasty".'),
+    (11, None, '\'This is not that usual slop.\' "Mesivo" is a rude word for a mush or slop, from "mesit\'", to knead. "Obychnoye" is "usual".'),
+    (12, None, '\'Alright, bring it quickly to the table!\' "Nesi" is "carry", the family of "prinesu". "Na stol" is "onto the table", with no ending for movement.'),
+    (13, None, '\'Now I will surprise you all!\' "Udivlyu" is "I will surprise", and the root is "udivitel\'nyy", surprising. "Vas vsekh" is "all of you".'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = "Outside the restaurant, Chef Viktor Barinov bumps into his culinary rival, Elena Sokolova. Barinov mocks Arcobaleno's newspaper advertisements for new kitchen staff, asserting that real cooks never answer ads. Elena smoothly retorts that top talent from respectable kitchens has already applied, hinting that Claude Monet staff might be among them. Let's listen to their confrontation in Russian first."
-OPENER = "Now let's examine Barinov and Elena's witty street dialogue line by line."
+INTRO = 'Outside, Chef Barinov meets his rival, Elena Sokolova, and mocks her for hiring cooks through a newspaper ad. Elena replies smoothly that some very good people have already applied, and some may be from his own kitchen. Here is the Russian first.'
+OPENER = 'Back to the war of words.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+OUTRO = 'Barinov swears he\'ll eat his hat, and Elena calmly wishes him bon appetit. If you remember anything, take "ya s\'\'yem kolpak", the Russian "I\'ll eat my hat".'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Елена, вы набираете поваров по объявлению?', 'Elena, are you hiring cooks through an ad?', [(6, 'вы персонал по объявлению набираете')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Мои люди преданы мне до конца.', 'My people are loyal to me to the end.', [], ''),
 ]
 WALK = [
-    (0, None, "'Elena, are you hiring cooks through an ad?' Barinov asks Elena if she is hiring cooks through an ad."),
-    (1, None, "'Hello, Viktor Petrovich. Yes, we are expanding.' Elena greets Viktor Petrovich and confirms they are expanding."),
-    (2, None, "'You had better put a sign near the metro!' He tells her she had better put a sign near the metro."),
-    (3, None, "'There is no need for that.' She says there is no need for that."),
-    (4, None, "'Normal professionals do not look for work in newspapers.' Barinov claims normal professionals do not look for work in newspapers."),
-    (5, None, "'Excellent candidates have already come to me.' Elena says excellent candidates have already come to her."),
-    (6, None, "'And from which restaurants are these people?' He asks which restaurants these people are from."),
-    (7, None, "'Some work in very respectable places.' She says some work in very respectable places."),
-    (8, None, "'Could someone really be leaving good restaurants?' Barinov wonders if someone could really be leaving good restaurants."),
-    (9, None, "'Maybe even from your restaurant.' Elena hints they might even be from his restaurant."),
-    (10, None, "'I will eat my chef's hat if my cooks leave!' He swears he will eat his chef hat if his cooks leave."),
-    (11, None, "'Then in advance I wish you bon appétit!' She preemptively wishes him bon appetit."),
-    (12, None, "'My people are loyal to me to the end.' Barinov insists his people are loyal to him to the end."),
+    (0, None, '\'Elena, are you hiring cooks through an ad?\' "Nabirayete" is "gather", the verb for recruiting a team. "Po ob\'\'yavleniyu" is "by an announcement", the usual way to say "through an ad".'),
+    (1, None, '\'Hello, Viktor Petrovich. Yes, we are expanding.\' Elena uses his first name and father\'s name, which is formal and a bit cool. "Rasshiryayemsya" has "shirokiy", wide, inside it: "we widen ourselves".'),
+    (2, None, '\'You had better put a sign near the metro!\' "Luchshe" before a command turns it into advice: "better put". "Tablichka" is a little sign, with a small ending that makes it sound mocking.'),
+    (3, None, '\'There is no need for that.\' "Net nikakoy neobkhodimosti" is "there isn\'t any necessity", with "necessity" in the "of" form after "net".'),
+    (4, None, '\'Normal professionals do not look for work in newspapers.\' "Ishchut" is "they look for", and it\'s a cousin of "ishchi". "Po gazetam" is "through newspapers", with the "-am" ending.'),
+    (5, None, '\'Excellent candidates have already come to me.\' "Ko mne" is "to me", with "k" growing a "-o" to make it easier to say. "Prishli" is "came" for a group.'),
+    (6, None, '\'And from which restaurants are these people?\' "Iz kakikh restoranov" is "from which restaurants", and both words take a plural "of" ending.'),
+    (7, None, '\'Some work in very respectable places.\' Elena says some of them work in "worthy places", and the word for worthy is from the same root as dignity. "Places" takes the plural "in" ending, -akh.'),
+    (8, None, '\'Could someone really be leaving good restaurants?\' "Neuzheli" is a question word of disbelief: "really?". "Iz khoroshikh restoranov" is "from good restaurants".'),
+    (9, None, '\'Maybe even from your restaurant.\' Elena says it quietly, with "mozhet byt\'" and "dazhe", "maybe" and "even". "Vashego" is the polite "your".'),
+    (10, None, '\'I will eat my chef\'s hat if my cooks leave!\' "S\'\'yem" is "I will eat", an irregular word. "Kolpak" is the tall chef\'s hat. Russian has "eat my hat" too, so the idiom is the same.'),
+    (11, None, '\'Then in advance I wish you bon appétit!\' "Zaranee" is "za" plus "ranee", earlier: in advance. Elena wishes him a good meal because he\'ll be eating his hat.'),
+    (12, None, '\'My people are loyal to me to the end.\' "Predany" comes from "predat\'", to betray, and it means "devoted". "Do kontsa" is "to the end", from "konets".'),
 ]

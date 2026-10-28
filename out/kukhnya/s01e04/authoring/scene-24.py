@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = 'Outside Claude Monet, Vika catches up with Max as he prepares to leave the restaurant for good. To his immense relief, Vika reveals that she intervened with Chef Barinov and secured him a second chance.'
-OPENER = "Let's explore Vika delivering the great news of a second chance to Max."
+INTRO = "Outside the restaurant, Vika catches up with Max as he is about to leave for good. She tells him she has spoken to the chef, and that he can stay. Here's the Russian first."
+OPENER = 'Now the good news.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With a second chance in hand, Max returns to the kitchen ready to prove himself. Next time you watch the episode, listen for the Russian expressions for 'more' and 'to be' — you will catch every word right away. See you next time!"
+OUTRO = 'Max has a second chance and Vika gets the last word. If you take one thing from this scene, take "poka... ne", which means "before" or "until".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Макс, подожди минуту!', 'Max, wait a minute!', [(331, 'Макс!')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'У меня появился второй шанс!', 'I got a second chance!', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, wait a minute!' Vika asks Max to wait a minute."),
-    (1, None, "'Vika? What happened?' Max turns around to see what she wants."),
-    (2, None, "'You are not leaving anywhere.' Vika tells him he is not going anywhere."),
-    (3, None, "'But the chef just fired me.' Max reminds her that he just got fired."),
-    (4, None, "'I spoke with the chef.' Vika reveals she spoke with the boss."),
-    (5, None, "'And what did he tell you?' Max asks about the outcome of that conversation."),
-    (6, None, "'He allowed you to stay in the kitchen.' Vika announces he is allowed to stay in the kitchen."),
-    (7, None, "'Really? You saved me!' Max expresses immense gratitude for being saved."),
-    (8, None, "'Just do not make stupid mistakes anymore.' Vika warns him not to make stupid mistakes anymore."),
-    (9, None, "'I promise, I will work very diligently.' Max promises to work very diligently."),
-    (10, None, "'Return to your work station.' Vika instructs him to return to his work station."),
-    (11, None, "'Thank you very much for your help, Vika!' Max thanks her again for the help."),
-    (12, None, "'Go, before the chef changes his mind.' Vika tells him to go before the boss changes his mind."),
-    (13, None, "'I got a second chance!' Max celebrates getting a second chance."),
+    (0, None, '\'Max, wait a minute!\' "Podozhdi" is the friendly command "wait", and "minutu" ends in -u.'),
+    (1, None, '\'Vika? What happened?\' Max says the question we\'ve heard so many times, "chto sluchilos\'", in a stunned voice.'),
+    (2, None, '\'You are not leaving anywhere.\' The plain present, "ne ukhodish\'", does the work of "you\'re not going anywhere". "Nikuda" is "nowhere".'),
+    (3, None, '\'But the chef just fired me.\' "Just now" is literally "only what". The word for "fired" ends in the man\'s -l, since the chef is a man.'),
+    (4, None, '\'I spoke with the chef.\' "Pogovorila" has "po-", a short talk, and the woman\'s -la. "S shefom" is "with the chef".'),
+    (5, None, '\'And what did he tell you?\' "Tebe" is "to you", the friendly form. The question is simple and short.'),
+    (6, None, '\'He allowed you to stay in the kitchen.\' "Razreshil" is "allowed", and it\'s the family of "razresheniye", permission. "Tebe ostat\'sya" is "to you to stay".'),
+    (7, None, '\'Really? You saved me!\' "Spasla" is a woman\'s "saved", the family of "spasibo". "Pravda" is "truth", used for "really?".'),
+    (8, None, '\'Just do not make stupid mistakes anymore.\' Russian says "commit mistakes", the formal way to say "make mistakes". "No more" is "bol\'she ne".'),
+    (9, None, '\'I promise, I will work very diligently.\' "Starat\'sya" is to try hard, and "starate\'lno" is "diligently". "Budu rabotat\'" is "I will work".'),
+    (10, None, '\'Return to your work station.\' "Rabocheye mesto" is "work place", with "rabota" inside. "Vozvrashchaysya" ends in "-sya".'),
+    (11, None, '\'Thank you very much for your help, Vika!\' Max thanks her with "huge thanks", and "help" is the noun "pomoshch\'", from the same family as "pomoch\'".'),
+    (12, None, '\'Go, before the chef changes his mind.\' "Poka... ne" with a past form means "before" or "until". "Peredumal" is "changed his mind", from "pere-" and "dumat\'".'),
+    (13, None, '\'I got a second chance!\' "Appeared" is the word for something turning up. "Second chance" is "vtoroy shans", with "second" the number after two.'),
 ]
