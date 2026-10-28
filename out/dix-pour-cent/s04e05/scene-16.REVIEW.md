@@ -1,43 +1,31 @@
-# dix-pour-cent-s04e05-scene-16: review sheet
+# Review: `dix-pour-cent-s04e05-scene-16` — Petites coupures  (Small Bills)
 
-Title: Petites coupures  (Small Bills)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S04E05
+- **Source**: `sources/dix-pour-cent/s04/e05.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "herve": "marcel", "gabriel": "theo", "lea": "lucie"}`
+- **Labels**: `{"herve": "Hervé", "gabriel": "Gabriel", "lea": "Andréa"}`
 
+## Part 1 — Intro
+> At the ASK agency reception, Herve brings an envelope filled with small banknotes as Gabriel urgently requested to resolve a talent crisis. Relieved that the plan worked, Gabriel thanks his faithful assistant. Let's listen to their conversation in French first.
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `herve` (Hervé) | J'ai fait ce que vous m'avez demandé. | I did what you asked me. | 733:J'ai fait ce que vous m'avez demandé |
+| 1 | `gabriel` (Gabriel) | C'est bien. | It is good. | adapted |
+| 2 | `herve` (Hervé) | En petites coupures. | In small bills. | 733:En petites coupures |
+| 3 | `gabriel` (Gabriel) | Merci, Hervé. | Thank you, Herve. | adapted |
+| 4 | `herve` (Hervé) | Ça marche, hein? | It works, right? | 734:Ça marche, hein |
+| 5 | `gabriel` (Gabriel) | Oui, ça marche. | Yes, it works. | adapted |
+| 6 | `gabriel` (Gabriel) | Elle est incroyable. | She is incredible. | 735:Elle est incroyable |
+| 7 | `herve` (Hervé) | Vraiment. | Truly. | adapted |
+| 8 | `gabriel` (Gabriel) | Tu peux y aller. | You can go. | adapted |
+| 9 | `herve` (Hervé) | D'accord, je pars. | Okay, I am leaving. | adapted |
+| 10 | `gabriel` (Gabriel) | À plus tard. | See you later. | adapted |
+| 11 | `herve` (Hervé) | Oui, à tout à l'heure. | Yes, see you later. | adapted |
+| 12 | `gabriel` (Gabriel) | Bon travail. | Good work. | adapted |
+| 13 | `herve` (Hervé) | Au revoir. | Goodbye. | adapted |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Hervé | J'ai fait ce que vous m'avez demandé. | I did what you asked me. | #733 00:45:00: J'ai fait ce que vous m'avez demandé | verbatim |
-| 2 | Gabriel | C'est bien. | It is good. | new | new: Padding |
-| 3 | Hervé | En petites coupures. | In small bills. | #733 00:45:00: En petites coupures | verbatim |
-| 4 | Gabriel | Merci, Hervé. | Thank you, Hervé. | new | new: Padding |
-| 5 | Hervé | Ça marche, hein? | It works, right? | #734 00:45:13: Ça marche, hein | verbatim |
-| 6 | Gabriel | Oui, ça marche. | Yes, it works. | new | new: Padding |
-| 7 | Gabriel | Elle est incroyable. | She is incredible. | #735 00:45:14: Elle est incroyable | verbatim |
-| 8 | Hervé | Vraiment. | Truly. | new | new: Padding |
-| 9 | Gabriel | Tu peux y aller. | You can go. | new | new: Padding |
-| 10 | Hervé | D'accord, je pars. | Okay, I am leaving. | new | new: Padding |
-| 11 | Gabriel | À plus tard. | See you later. | new | new: Padding |
-| 12 | Hervé | Oui, à tout à l'heure. | Yes, see you later. | new | new: Padding |
-| 13 | Gabriel | Bon travail. | Good work. | new | new: Padding |
-| 14 | Hervé | Au revoir. | Goodbye. | new | new: Padding |
-
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'I did what you asked me.' Herve reports proudly. Herve uses the polite 'you' form alongside 'have' to keep a respectful professional tone.
-- 'It is good.' Gabriel nods in approval. The adverb meaning 'good' gives the reply its conversational emphasis.
-- 'In small bills.' Herve clarifies, confirming the banknote sizes. The adjective meaning 'small' takes its feminine form here to match the noun it describes.
-- 'Thank you, Herve.' Gabriel says, taking the money. The key noun here means 'thank you', anchored by its matching French article.
-- 'It works, right?' Herve smiles, pleased with the result. In everyday spoken French, rising intonation on 'works' at the end is enough to turn the sentence into a question.
-- 'Yes, it works.' Gabriel agrees with relief. The clause hinges on the everyday verb meaning 'works'.
-- 'She is incredible.' Gabriel says about the actress. The descriptive adjective for 'incredible' agrees in gender and number with its noun.
-- 'Truly.' Herve agrees, nodding his head. The adverb meaning 'truly' gives the reply its conversational emphasis.
-- 'You can go.' Gabriel dismisses his assistant. Gabriel uses the casual singular 'you' with 'can', showing close familiarity.
-- 'Okay, I am leaving.' Herve says, turning around. In spoken French, the little word before 'am leaving' drops its final vowel and attaches with an apostrophe.
-- 'See you later.' Gabriel adds politely. The adverb meaning 'see you later' gives the reply its conversational emphasis.
-- 'Yes, see you later.' Herve replies from the door. Notice how the short vowel drops before a vowel sound around 'the next word', making the phrase flow smoothly as one unit.
-- 'Good work.' Gabriel calls out finally. The descriptive adjective for 'good' agrees in gender and number with its noun.
-- 'Goodbye.' A short, idiomatic conversational reply that keeps the exchange moving naturally. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+## Part 5 — Outro & Closing
+> And that's it for this scene. When you watch the episode, listen out for the exchange around small bills, and for the words meaning 'have' and 'done'. You'll catch them now. See you next time.
+- **Closing**: `lea`: *À bientôt!*

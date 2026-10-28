@@ -1,41 +1,30 @@
-# dix-pour-cent-s03e04-scene-05: review sheet
+# Review: `dix-pour-cent-s03e04-scene-05` — Affaire de famille  (A Family Matter)
 
-Title: Affaire de famille  (A Family Matter)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S03E04
-Cues 221-255. Mathias questions Camille about loyalty and trust within the agency, prompting Camille to check with Herve whether Mathias suspects anything. Adapted for A1 French.
+- **Source**: `sources/dix-pour-cent/s03/e04.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "camille": "emilie", "herve": "marcel", "lea": "lucie"}`
+- **Labels**: `{"camille": "Camille", "herve": "Hervé", "lea": "Andréa"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> At the ASK agency, Mathias Barneville takes his daughter Camille aside to speak about family trust and loyalty. Feeling uneasy after his questioning, Camille immediately runs to Herve to find out if Mathias knows their secret. Let's listen to their conversation in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Mathias | L'agence est ma deuxième famille. | The agency is my second family. | #221 00:09:11: L'agence, c'est ma deuxième famille. | adapted: Mathias sets an emotional tone |
-| 2 | Mathias | Et toi, tu es ma famille ici. | And you are my family here. | #222 00:09:15: tu es ma famille | adapted: Mathias underscores their personal bond |
-| 3 | Léa | Ah oui? Et pourquoi dis-tu ça? | Oh yes? And why do you say that? | #223 00:09:19: Ah ouais ?<br>#225 00:09:25: pourquoi tu dis ça. | adapted: Camille senses something unusual |
-| 4 | Mathias | Je dois pouvoir avoir confiance en toi. | I must be able to trust you. | #232 00:09:38: confiance en toi. | adapted: Mathias demands total loyalty |
-| 5 | Léa | Bien sûr, tu peux avoir confiance. | Of course, you can trust me. | #229 00:09:33: Bien sûr. | adapted: Camille offers swift reassurance |
-| 6 | Léa | Pardon, mais j'ai beaucoup de travail. | Sorry, but I have a lot of work. | #236 00:09:45: j'ai plein de boulot | adapted: Camille cuts the meeting short |
-| 7 | Mathias | Oui, oui, va travailler. | Yes, yes, go to work. | #237 00:09:48: Oui, oui. | adapted: Mathias lets her go |
-| 8 | Léa | Hervé, je crois que mon père se doute. | Herve, I think my father suspects something. | #242 00:10:08: Je crois qu'il se doute. | adapted: Camille rushes to Herve's desk |
-| 9 | Hervé | Comment ça? Il t'a dit quoi exactement? | What do you mean? What did he say exactly? | #243 00:10:10: Il t'a dit quoi, exactement ? | adapted: Herve asks for specifics |
-| 10 | Léa | Il m'a parlé de fidélité à l'agence. | He spoke to me about agency loyalty. | #247 00:10:18: du mal à l'agence. | adapted: Camille recounts the warning |
-| 11 | Hervé | C'est bon, il ne sait rien. | It is fine, he knows nothing. | #248 00:10:20: il sait rien. | adapted: Herve dismisses her fear |
-| 12 | Hervé | Il ne tourne jamais autour du pot. | He never beats around the bush. | #250 00:10:23: tourner autour du pot. | adapted: Herve explains Mathias's direct style |
-| 13 | Hervé | C'est un grand parano, ton père! | Your father is a total paranoid! | #254 00:10:31: C'est un grand parano, ton père. | adapted: Herve makes light of the situation |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `lea` (Andréa) | L'agence est ma deuxième famille. | The agency is my second family. | 221:L'agence, c'est ma deuxième famille. |
+| 1 | `lea` (Andréa) | Et toi, tu es ma famille ici. | And you are my family here. | 222:tu es ma famille |
+| 2 | `camille` (Camille) | Ah oui? Et pourquoi dis-tu ça? | Oh yes? And why do you say that? | 223:Ah ouais ?, 225:pourquoi tu dis ça. |
+| 3 | `lea` (Andréa) | Je dois pouvoir avoir confiance en toi. | I must be able to trust you. | 232:confiance en toi. |
+| 4 | `camille` (Camille) | Bien sûr, tu peux avoir confiance. | Of course, you can trust me. | 229:Bien sûr. |
+| 5 | `camille` (Camille) | Pardon, mais j'ai beaucoup de travail. | Sorry, but I have a lot of work. | 236:j'ai plein de boulot |
+| 6 | `lea` (Andréa) | Oui, oui, va travailler. | Yes, yes, go to work. | 237:Oui, oui. |
+| 7 | `camille` (Camille) | Hervé, je crois que mon père se doute. | Herve, I think my father suspects something. | 242:Je crois qu'il se doute. |
+| 8 | `herve` (Hervé) | Comment ça? Il t'a dit quoi exactement? | What do you mean? What did he say exactly? | 243:Il t'a dit quoi, exactement ? |
+| 9 | `camille` (Camille) | Il m'a parlé de fidélité à l'agence. | He spoke to me about agency loyalty. | 247:du mal à l'agence. |
+| 10 | `herve` (Hervé) | C'est bon, il ne sait rien. | It is fine, he knows nothing. | 248:il sait rien. |
+| 11 | `herve` (Hervé) | Il ne tourne jamais autour du pot. | He never beats around the bush. | 250:tourner autour du pot. |
+| 12 | `herve` (Hervé) | C'est un grand parano, ton père! | Your father is a total paranoid! | 254:C'est un grand parano, ton père. |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'The agency is my second family.' Mathias reminds Camille that their professional bond runs very deep. In spoken French, the little word before 'the agency' drops its final vowel and attaches with an apostrophe.
-- 'And you are my family here.' Mathias emphasizes that their personal relationship is what truly matters. Mathias uses the casual singular 'you' with 'family', showing close familiarity.
-- 'Oh yes? And why do you say that?' Camille asks why her father suddenly brings up their loyalty. The clause hinges on the everyday verb meaning 'do you say'.
-- 'I must be able to trust you.' Mathias tests whether Camille is keeping secrets from him. The verb meaning 'must' pairs naturally with the noun for 'trust' in everyday conversation.
-- 'Of course, you can trust me.' Camille reassures him without revealing Andrea's secret plans. The verb meaning 'can' pairs naturally with the noun for 'trust.' in everyday conversation.
-- 'Sorry, but I have a lot of work.' Camille makes a quick excuse to escape the tense conversation. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
-- 'Yes, yes, go to work.' Mathias lets her leave but remains suspicious about the office atmosphere. The clause hinges on the everyday verb meaning 'go'.
-- 'Herve, I think my father suspects something.' Camille confides her growing anxiety to her close colleague. The reflexive pronoun sits right in front of the verb for 'think', turning the action back onto the subject.
-- 'What do you mean? What did he say exactly?' Herve asks for specific details about the conversation. In spoken French, the little word before 'has [to] you' drops its final vowel and attaches with an apostrophe.
-- 'He spoke to me about agency loyalty.' Camille explains Mathias's pointed comments about family and trust. This conversational past tense combines a helper verb with the past participle for 'spoken'.
-- 'It is fine, he knows nothing.' Herve tries to calm her nerves with pragmatic reassurance. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
-- 'He never beats around the bush.' Herve points out that Mathias always confronts problems directly. The verb meaning 'turns' pairs naturally with the noun for 'pot.' in everyday conversation.
-- 'Your father is a total paranoid!' Herve laughs off the encounter as typical senior agent paranoia. The descriptive adjective for 'great' agrees in gender and number with its noun.
+## Part 5 — Outro & Closing
+> That's it for this scene around a family matter. When you watch the episode, listen out for the expressions meaning 'the agency' and 'second'. You'll catch them now. See you next time.
+- **Closing**: `herve`: *À demain!*

@@ -1,43 +1,31 @@
-# dix-pour-cent-s03e01-scene-22: review sheet
+# Review: `dix-pour-cent-s03e01-scene-22` — Les confidences de Noémie  (Noémie's Confidences)
 
-Title: Les confidences de Noémie  (Noémie's Confidences)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S03E01
-Cues 916-954. At ASK after hours, Noemie confides in Herve and Camille about her complicated romantic history with her married neighbour Philippe. Adapted for A1 French.
+- **Source**: `sources/dix-pour-cent/s03/e01.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "noemie": "emilie", "herve": "marcel", "lea": "lucie"}`
+- **Labels**: `{"noemie": "Noémie", "herve": "Hervé", "lea": "Andréa"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> At the ASK agency after hours, assistants Herve, Camille, and Noemie chat about their evening plans. Noemie reveals the ongoing romantic drama with her married neighbour Philippe. Let's listen to the scene in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Hervé | Que faites-vous ce soir, les filles? | What are you doing tonight, girls? | #924 00:43:18: ce soir, les filles ? | adapted: Herve asks about evening plans |
-| 2 | Camille | Moi, je vais au théâtre ce soir. | Me, I am going to the theater tonight. | #925 00:43:21: Moi, je vais au théâtre | adapted: Camille shares her plan |
-| 3 | Hervé | Et toi Noémie, tu vois Philippe? | And you Noemie, are you seeing Philippe? | #927 00:43:27: Avec qui ? Avec Philippe ? | adapted: Herve teases Noemie |
-| 4 | Camille | C'est qui exactement, ce Philippe? | Who exactly is this Philippe? | #930 00:43:34: C'est qui, Philippe ? | adapted: Camille inquires |
-| 5 | Hervé | Mais attends, c'est son cher voisin! | Well wait, he is her dear neighbour! | #938 00:43:53: Philippe, c'est son voisin. | adapted: Herve explains who Philippe is |
-| 6 | Léa | En fait, Philippe est un homme marié. | In fact, Philippe is a married man. | #940 00:43:57: il est marié, | adapted: Noemie reveals his status |
-| 7 | Léa | Nous avons eu une petite histoire secrète. | We had a little secret affair. | #940 00:43:57: on a eu une liaison | adapted: Noemie admits the affair |
-| 8 | Hervé | Ils vivent dans le même immeuble! | They live in the same building! | #943 00:44:09: dans le même immeuble. | adapted: Herve highlights the proximity |
-| 9 | Camille | Tu devrais peut-être changer d'appartement. | You should perhaps change apartments. | #947 00:44:19: je déménage rien. | adapted: Camille suggests moving |
-| 10 | Léa | Ah non, moi je reste ici! | Oh no, I am staying here! | #948 00:44:22: Alors là, non. | adapted: Noemie refuses to leave |
-| 11 | Léa | C'est à lui de déménager, franchement. | It is up to him to move, honestly. | #949 00:44:24: C'est plutôt à lui de déménager | adapted: Noemie stands her ground |
-| 12 | Léa | Je vois bien ses regards discrets. | I clearly see his discreet glances. | #952 00:44:33: Je vois bien comment il me regarde. | adapted: Noemie notices his looks |
-| 13 | Léa | Je sais qu'il pense encore à moi! | I know he still thinks of me! | #952 00:44:33: Je sais qu'il pense à moi. | adapted: Noemie remains confident |
-| 14 | Hervé | Tu aimes les situations très compliquées! | You love very complicated situations! | #946 00:44:17: comment tu fais | adapted: Herve comments on the drama |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `herve` (Hervé) | Que faites-vous ce soir, les filles? | What are you doing tonight, girls? | 924:ce soir, les filles ? |
+| 1 | `lea` (Andréa) | Moi, je vais au théâtre ce soir. | Me, I am going to the theater tonight. | 925:Moi, je vais au théâtre |
+| 2 | `herve` (Hervé) | Et toi Noémie, tu vois Philippe? | And you Noemie, are you seeing Philippe? | 927:Avec qui ? Avec Philippe ? |
+| 3 | `lea` (Andréa) | C'est qui exactement, ce Philippe? | Who exactly is this Philippe? | 930:C'est qui, Philippe ? |
+| 4 | `herve` (Hervé) | Mais attends, c'est son cher voisin! | Well wait, he is her dear neighbour! | 938:Philippe, c'est son voisin. |
+| 5 | `noemie` (Noémie) | En fait, Philippe est un homme marié. | In fact, Philippe is a married man. | 940:il est marié, |
+| 6 | `noemie` (Noémie) | Nous avons eu une petite histoire secrète. | We had a little secret affair. | 940:on a eu une liaison |
+| 7 | `herve` (Hervé) | Ils vivent dans le même immeuble! | They live in the same building! | 943:dans le même immeuble. |
+| 8 | `lea` (Andréa) | Tu devrais peut-être changer d'appartement. | You should perhaps change apartments. | 947:je déménage rien. |
+| 9 | `noemie` (Noémie) | Ah non, moi je reste ici! | Oh no, I am staying here! | 948:Alors là, non. |
+| 10 | `noemie` (Noémie) | C'est à lui de déménager, franchement. | It is up to him to move, honestly. | 949:C'est plutôt à lui de déménager |
+| 11 | `noemie` (Noémie) | Je vois bien ses regards discrets. | I clearly see his discreet glances. | 952:Je vois bien comment il me regarde. |
+| 12 | `noemie` (Noémie) | Je sais qu'il pense encore à moi! | I know he still thinks of me! | 952:Je sais qu'il pense à moi. |
+| 13 | `herve` (Hervé) | Tu aimes les situations très compliquées! | You love very complicated situations! | 946:comment tu fais |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'What are you doing tonight, girls?' Herve asks his fellow assistants about their evening plans. The verb meaning 'are you doing' pairs naturally with the noun for 'evening' in everyday conversation.
-- 'Me, I am going to the theater tonight.' Camille shares her cultural plan after work. Notice how 'am going' leads directly into the noun meaning 'theater'.
-- 'And you Noemie, are you seeing Philippe?' Herve teases Noemie about her romantic interest. Herve uses the casual singular 'you' with 'are seeing', showing close familiarity.
-- 'Who exactly is this Philippe?' Camille asks for background on the mysterious man. The adverb meaning 'exactly' gives the reply its conversational emphasis.
-- 'Well wait, he is her dear neighbour!' Herve reveals that Philippe lives right next door. The verb meaning 'wait' pairs naturally with the noun for 'neighbour' in everyday conversation.
-- 'In fact, Philippe is a married man.' Noemie explains the complicated marital status of her lover. The key noun here means 'man', anchored by its matching French article.
-- 'We had a little secret affair.' Noemie admits they shared a discreet past relationship. This conversational past tense combines a helper verb with the past participle for 'had'.
-- 'They live in the same building!' Herve points out the awkward proximity of the living situation. Notice how 'live' leads directly into the noun meaning 'building'.
-- 'You should perhaps change apartments.' Camille suggests moving away to avoid daily run-ins. The verb meaning 'should' pairs naturally with the noun for 'apartment' in everyday conversation.
-- 'Oh no, I am staying here!' Noemie firmly refuses to leave her home because of him. The clause hinges on the everyday verb meaning 'stay'.
-- 'It is up to him to move, honestly.' Noemie insists that Philippe should be the one to relocate. The clause hinges on the everyday verb meaning 'to move out'.
-- 'I clearly see his discreet glances.' Noemie notices lingering signs of mutual attraction in the hallways. The descriptive adjective for 'discreet' agrees in gender and number with its noun.
-- 'I know he still thinks of me!' Noemie remains convinced of his ongoing feelings. The clause hinges on the everyday verb meaning 'know'.
-- 'You love very complicated situations!' Herve humorously highlights Noemie's taste for drama. The adjective meaning 'complicated' takes its feminine form here to match the noun it describes.
+## Part 5 — Outro & Closing
+> That's it for this scene around noemie's confidences. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'evening'. You'll catch them now. See you next time.
+- **Closing**: `herve`: *Au revoir!*

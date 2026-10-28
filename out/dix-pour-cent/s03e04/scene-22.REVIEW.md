@@ -1,43 +1,31 @@
-# dix-pour-cent-s03e04-scene-22: review sheet
+# Review: `dix-pour-cent-s03e04-scene-22` — Le talent de Samy  (Samy's Talent)
 
-Title: Le talent de Samy  (Samy's Talent)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S03E04
-Cues 1187-1213. Camille and Herve watch Samy's homemade audition tape at ASK. Herve thinks he is terrible, but Camille sees raw potential and insists on representing him.
+- **Source**: `sources/dix-pour-cent/s03/e04.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "camille": "emilie", "herve": "marcel"}`
+- **Labels**: `{"camille": "Camille", "herve": "Hervé"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> At the ASK agency, Camille and Herve review a homemade video sent by the aspiring actor Samy. Herve is completely unimpressed by his eccentric performance, but Camille passionately defends the young actor. Let's listen to their discussion in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Hervé | Ton instinct est à quel niveau? | What level is your instinct at? | #1187 00:58:38: ton instinct | adapted: Inquiring about instinct |
-| 2 | Léa | Il a fait ça tout seul. | He did that all by himself. | #1190 00:58:45: il a fait ça tout seul | adapted: Defending self-made tape |
-| 3 | Hervé | Arrête, c'est vraiment une quiche. | Stop, he is a total amateur. | #1193 00:58:52: c'est une quiche | adapted: Brutal assessment |
-| 4 | Léa | C'est novateur et très spécial. | It is innovative and very special. | #1195 00:58:55: C'est très spécial | adapted: Praising originality |
-| 5 | Léa | De grands acteurs ont réussi. | Great actors have succeeded. | #1198 00:59:02: réussir | adapted: Citing great examples |
-| 6 | Léa | Personne ne croyait en Belmondo. | Nobody believed in Belmondo. | #1200 00:59:07: Belmondo | adapted: Mentioning Belmondo |
-| 7 | Hervé | On ne représente pas ce mec. | We are not representing this guy. | #1203 00:59:15: ce mec | adapted: Refusing to represent |
-| 8 | Léa | Moi, j'y crois vraiment. | I truly believe in him. | #1204 00:59:16: Moi, j'y crois. | adapted: Declaring strong belief |
-| 9 | Léa | Il a un potentiel énorme. | He has enormous potential. | #1207 00:59:22: Il a un potentiel énorme. | adapted: Emphasizing potential |
-| 10 | Hervé | Tu parles pour nous deux? | Are you speaking for both of us? | #1209 00:59:25: Tu parles pour nous | adapted: Questioning partnership |
-| 11 | Léa | Je serai son propre pygmalion. | I will be his own Pygmalion. | #1210 00:59:27: je serai | adapted: Vowing to mentor |
-| 12 | Léa | Je peux en faire une star. | I can make him a star. | #1211 00:59:30: je peux en faire une star. | adapted: Promising stardom |
-| 13 | Léa | Un jour, tu me remercieras. | One day, you will thank me. | #1212 00:59:31: tu me remercieras. | adapted: Predicting gratitude |
-| 14 | Léa | La France entière me remerciera. | All of France will thank me. | #1213 00:59:32: me remerciera | adapted: Grand conclusion |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `herve` (Hervé) | Ton instinct est à quel niveau? | What level is your instinct at? | 1187:ton instinct |
+| 1 | `camille` (Camille) | Il a fait ça tout seul. | He did that all by himself. | 1190:il a fait ça tout seul |
+| 2 | `herve` (Hervé) | Arrête, c'est vraiment une quiche. | Stop, he is a total amateur. | 1193:c'est une quiche |
+| 3 | `camille` (Camille) | C'est novateur et très spécial. | It is innovative and very special. | 1195:C'est très spécial |
+| 4 | `camille` (Camille) | De grands acteurs ont réussi. | Great actors have succeeded. | 1198:réussir |
+| 5 | `camille` (Camille) | Personne ne croyait en Belmondo. | Nobody believed in Belmondo. | 1200:Belmondo |
+| 6 | `herve` (Hervé) | On ne représente pas ce mec. | We are not representing this guy. | 1203:ce mec |
+| 7 | `camille` (Camille) | Moi, j'y crois vraiment. | I truly believe in him. | 1204:Moi, j'y crois. |
+| 8 | `camille` (Camille) | Il a un potentiel énorme. | He has enormous potential. | 1207:Il a un potentiel énorme. |
+| 9 | `herve` (Hervé) | Tu parles pour nous deux? | Are you speaking for both of us? | 1209:Tu parles pour nous |
+| 10 | `camille` (Camille) | Je serai son propre pygmalion. | I will be his own Pygmalion. | 1210:je serai |
+| 11 | `camille` (Camille) | Je peux en faire une star. | I can make him a star. | 1211:je peux en faire une star. |
+| 12 | `camille` (Camille) | Un jour, tu me remercieras. | One day, you will thank me. | 1212:tu me remercieras. |
+| 13 | `camille` (Camille) | La France entière me remerciera. | All of France will thank me. | 1213:me remerciera |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'What level is your instinct at?' Herve asks Camille skeptically about her intuition. In everyday spoken French, rising intonation on 'instinct' at the end is enough to turn the sentence into a question.
-- 'He did that all by himself.' Camille defends Samy's self-tape initiative. The clause hinges on the everyday verb meaning 'has'.
-- 'Stop, he is a total amateur.' Herve dismisses the actor's audition video. The verb meaning 'stop' pairs naturally with the noun for 'amateur' in everyday conversation.
-- 'It is innovative and very special.' Camille praises the unusual performance style. The adjective 'novateur' describes pioneering artistic work.
-- 'Great actors have succeeded.' Camille reminds him that unconventional actors often succeed. The past participle 'reussi' comes from reussir.
-- 'Nobody believed in Belmondo.' Camille cites legendary French actor Jean-Paul Belmondo. The negative pronoun 'personne' means nobody.
-- 'We are not representing this guy.' Herve refuses to sign the eccentric actor. The informal noun 'ce mec' means this guy.
-- 'I truly believe in him.' Camille asserts her strong conviction. The clause hinges on the everyday verb meaning 'believe'.
-- 'He has enormous potential.' Camille highlights his untapped acting talent. The adjective 'enorme' emphasizes great capability.
-- 'Are you speaking for both of us?' Herve questions whether this serves their agency partnership. The preposition 'pour' expresses on behalf of.
-- 'I will be his own Pygmalion.' Camille vows to mentor and train him into shape. The simple future 'serai' comes from etre.
-- 'I can make him a star.' Camille declares her ambition with absolute confidence. The modal verb 'peux' expresses ability.
-- 'One day, you will thank me.' Camille promises Herve he will appreciate her decision. The simple future 'remercieras' means will thank.
-- 'All of France will thank me.' Camille concludes with dramatic enthusiasm. The feminine adjective 'entiere' means whole or entire.
+## Part 5 — Outro & Closing
+> Camille's determination wins out over Herve's skepticism, securing Samy a spot with Camille Valentini. When you watch the episode, listen out for the expressions meaning 'instinct' and 'level'. You'll catch them now. See you next time.
+- **Closing**: `camille`: *Bonne journée!*

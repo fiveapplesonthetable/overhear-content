@@ -1,45 +1,32 @@
-# dix-pour-cent-s03e02-scene-25: review sheet
+# Review: `dix-pour-cent-s03e02-scene-25` — Le remède du célibat  (The Remedy for Being Single)
 
-Title: Le remède du célibat  (The Remedy for Being Single)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S03E02
-Cues 1091-1149. In her Parisian kitchen, Monica Bellucci discusses the difficulties of being single with Gabriel. Gabriel shares his secret to surviving solitude—friendship—before Monica offers him an herbal tea and gives a playful tutorial on her electric kettle.
+- **Source**: `sources/dix-pour-cent/s03/e02.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "monica": "emilie", "gabriel": "theo"}`
+- **Labels**: `{"monica": "Monica", "gabriel": "Gabriel"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> Sitting comfortably in her stylish Parisian kitchen, Monica Bellucci opens up about her personal struggles with dating and solitude. Together, she and Gabriel share an intimate laugh over tea. Listen to the scene in French first. Don't worry about catching every word.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Ça fait trois semaines pour moi. | It has been three weeks for me. | #1091 00:52:50: Trois semaines | adapted: Monica sighs as she leans back against the counter |
-| 2 | Gabriel | Mais trois semaines, ce n'est rien! | But three weeks is nothing! | #1092 00:52:52: trois semaines, c'est rien | verbatim |
-| 3 | Léa | Je suis super nulle en célibat. | I am super terrible at being single. | #1096 00:52:55: Je suis super nulle | verbatim |
-| 4 | Léa | Je déteste vraiment ça. | I really hate that. | #1098 00:52:57: Je déteste ça | verbatim |
-| 5 | Léa | Et toi, ça fait combien de temps? | And you, how long has it been? | #1103 00:53:05: Et toi, ça fait longtemps | adapted: Monica looks at Gabriel curiously |
-| 6 | Gabriel | Ça fait déjà six mois. | It has already been six months. | #1104 00:53:07: Six mois | verbatim |
-| 7 | Gabriel | Mais j'ai appris un grand truc. | But I learned a great secret. | #1108 00:53:14: Mais j'ai appris un truc | verbatim |
-| 8 | Léa | Et c'est quoi, ton secret? | And what is it, your secret? | #1110 00:53:20: Et c'est quoi | verbatim |
-| 9 | Gabriel | C'est l'amitié, tout simplement. | It is friendship, quite simply. | #1111 00:53:23: L'amitié | adapted: Gabriel smiles warmly at his star client |
-| 10 | Léa | Tu veux bien une infusion? | Would you like an herbal tea? | #1113 00:53:30: une infusion<br>#1114 00:53:33: je veux bien une infusion | adapted: Monica walks over to the modern kettle |
-| 11 | Gabriel | Oui, je veux bien une infusion. | Yes, I would love an herbal tea. | #1114 00:53:33: je veux bien une infusion | verbatim |
-| 12 | Léa | J'ouvre le couvercle de la bouilloire. | I open the lid of the kettle. | #1119 00:53:50: J'ouvre le couvercle | adapted: Monica demonstrates with theatrical flair |
-| 13 | Léa | Je mets de l'eau dedans. | I put some water inside. | #1120 00:53:52: Je mets de l'eau | verbatim |
-| 14 | Léa | Et j'allume le bouton. | And I turn on the switch. | #1126 00:54:00: Je mets en route | verbatim |
-| 15 | Gabriel | Capito, c'est très clair! | Understood, that is very clear! | #1131 00:54:06: Capito | adapted: Gabriel laughs in appreciation |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `monica` (Monica) | Ça fait trois semaines pour moi. | It has been three weeks for me. | 1091:Trois semaines |
+| 1 | `gabriel` (Gabriel) | Mais trois semaines, ce n'est rien! | But three weeks is nothing! | 1092:trois semaines, c'est rien |
+| 2 | `monica` (Monica) | Je suis super nulle en célibat. | I am super terrible at being single. | 1096:Je suis super nulle |
+| 3 | `monica` (Monica) | Je déteste vraiment ça. | I really hate that. | 1098:Je déteste ça |
+| 4 | `monica` (Monica) | Et toi, ça fait combien de temps? | And you, how long has it been? | 1103:Et toi, ça fait longtemps |
+| 5 | `gabriel` (Gabriel) | Ça fait déjà six mois. | It has already been six months. | 1104:Six mois |
+| 6 | `gabriel` (Gabriel) | Mais j'ai appris un grand truc. | But I learned a great secret. | 1108:Mais j'ai appris un truc |
+| 7 | `monica` (Monica) | Et c'est quoi, ton secret? | And what is it, your secret? | 1110:Et c'est quoi |
+| 8 | `gabriel` (Gabriel) | C'est l'amitié, tout simplement. | It is friendship, quite simply. | 1111:L'amitié |
+| 9 | `monica` (Monica) | Tu veux bien une infusion? | Would you like an herbal tea? | 1113:une infusion, 1114:je veux bien une infusion |
+| 10 | `gabriel` (Gabriel) | Oui, je veux bien une infusion. | Yes, I would love an herbal tea. | 1114:je veux bien une infusion |
+| 11 | `monica` (Monica) | J'ouvre le couvercle de la bouilloire. | I open the lid of the kettle. | 1119:J'ouvre le couvercle |
+| 12 | `monica` (Monica) | Je mets de l'eau dedans. | I put some water inside. | 1120:Je mets de l'eau |
+| 13 | `monica` (Monica) | Et j'allume le bouton. | And I turn on the switch. | 1126:Je mets en route |
+| 14 | `gabriel` (Gabriel) | Capito, c'est très clair! | Understood, that is very clear! | 1131:Capito |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'It has been three weeks for me.' Monica admits how recent her new period of solitude is. Notice how 'makes' leads directly into the noun meaning 'weeks'.
-- 'But three weeks is nothing!' Gabriel tries to put her brief time alone into perspective. The key noun here means 'weeks', anchored by its matching French article.
-- 'I am super terrible at being single.' Monica frankly confesses her complete inability to live solo. The key noun here means 'bachelorhood', anchored by its matching French article.
-- 'I really hate that.' Monica expresses her intense aversion to coming home to an empty house. The clause hinges on the everyday verb meaning 'loathe'.
-- 'And you, how long has it been?' Monica turns the question back to her trusted agent. The verb meaning 'makes' pairs naturally with the noun for 'duration' in everyday conversation.
-- 'It has already been six months.' Gabriel reveals that he has been on his own for half a year. The verb meaning 'makes' pairs naturally with the noun for 'calendar months' in everyday conversation.
-- 'But I learned a great secret.' Gabriel hints at a powerful truth he discovered through his trials. Notice how 'have' leads directly into the noun meaning 'trick'.
-- 'And what is it, your secret?' Monica eagerly invites him to reveal his personal discovery. In everyday spoken French, rising intonation on 'recipe' at the end is enough to turn the sentence into a question.
-- 'It is friendship, quite simply.' Gabriel shares his heartfelt recipe for enduring solitude. The key noun here means 'comradeship', anchored by its matching French article.
-- 'Would you like an herbal tea?' Monica warmly offers hospitality to her loyal confidant. The verb meaning 'wish' pairs naturally with the noun for 'herbal tisane' in everyday conversation.
-- 'Yes, I would love an herbal tea.' Gabriel gladly accepts a warm drink in her modern kitchen. Notice how 'would like' leads directly into the noun meaning 'herbal tisane'.
-- 'I open the lid of the kettle.' Monica begins a playful step-by-step tutorial on making tea. The verb meaning 'uncover' pairs naturally with the noun for 'cap' in everyday conversation.
-- 'I put some water inside.' Monica carefully pours fresh water into the electric appliance. Notice how 'pour' leads directly into the noun meaning 'liquid'.
-- 'And I turn on the switch.' Monica clicks the machine into action with a satisfied smile. The verb meaning 'switch on' pairs naturally with the noun for 'switch' in everyday conversation.
-- 'Understood, that is very clear!' Gabriel playfully praises her clear kitchen demonstration.
+## Part 5 — Outro & Closing
+> Bonding over the challenges of being single, Monica and Gabriel discover the healing power of genuine friendship while sharing tea in her kitchen. When you watch the episode, listen out for the expressions meaning 'makes' and 'weeks'. You'll catch them now. See you next time.
+- **Closing**: `gabriel`: *À bientôt!*

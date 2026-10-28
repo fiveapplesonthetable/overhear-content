@@ -51,14 +51,14 @@
           "lemma": "soit",
           "pos": "conj",
           "stress": "swa",
-          "gloss": "or",
-          "gram": "second half of soit... soit"
+          "gloss": "either",
+          "gram": "first half of soit... soit"
         },
         {
           "t": "vendredi",
           "lemma": "vendredi",
           "pos": "noun",
-          "stress": "vɑ̃dʁədi",
+          "stress": "vɑ̃dʁdi",
           "gloss": "Friday",
           "gram": "masculine, no article"
         },
@@ -97,7 +97,7 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         }
       ]
@@ -111,14 +111,14 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         },
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -135,8 +135,8 @@
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you",
-          "gram": "object pronoun, formal, before the infinitive"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "aider?",
@@ -150,13 +150,13 @@
     },
     {
       "seg": 4,
-      "trans": "I'm here to see Mathias Barneville.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -181,8 +181,8 @@
           "lemma": "pour",
           "pos": "prep",
           "stress": "puʁ",
-          "gloss": "(in order) to",
-          "gram": "preposition + infinitive"
+          "gloss": "for",
+          "gram": "preposition ('pour', meaning 'for')"
         },
         {
           "t": "voir",
@@ -196,7 +196,7 @@
           "t": "Mathias",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         },
@@ -204,7 +204,7 @@
           "t": "Barneville.",
           "lemma": "barneville",
           "pos": "name",
-          "stress": "baʁnəvil",
+          "stress": null,
           "gloss": "Barneville (Mathias's surname)",
           "gram": "surname"
         }
@@ -216,33 +216,33 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, 3rd person masculine singular"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "vous",
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you",
-          "gram": "object pronoun, formal, before the verb"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "attend?",
           "lemma": "attendre",
           "pos": "verb",
           "stress": "atɑ̃",
-          "gloss": "is expecting",
-          "gram": "present, 3rd person singular"
+          "gloss": "are waiting for",
+          "gram": "present, 3rd person singular, used with on = we"
         }
       ]
     },
     {
       "seg": 6,
-      "trans": "No, but it's important.",
+      "trans": "No, but it",
       "words": [
         {
           "t": "Non,",
@@ -364,15 +364,15 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
-          "gloss": "only (ne... que)",
-          "gram": "first half of ne... que = only"
+          "stress": "n",
+          "gloss": "not",
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "représente",
           "lemma": "représenter",
           "pos": "verb",
-          "stress": "ʁəpʁezɑ̃t",
+          "stress": "ʁpʁezɑ̃t",
           "gloss": "represents",
           "gram": "present, 3rd person singular"
         },
@@ -380,9 +380,9 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
-          "gloss": "only (ne... que)",
-          "gram": "second half of ne... que = only"
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "des",
@@ -410,7 +410,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -418,9 +418,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "suis",
@@ -436,7 +436,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "actrice.",
@@ -450,7 +450,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -482,7 +482,7 @@
           "t": "Mathias.",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         }
@@ -518,7 +518,7 @@
           "t": "Camille",
           "lemma": "camille",
           "pos": "name",
-          "stress": "kamij",
+          "stress": null,
           "gloss": "Camille",
           "gram": "first name"
         },
@@ -526,23 +526,23 @@
           "t": "Valentini.",
           "lemma": "valentini",
           "pos": "name",
-          "stress": "valɛntini",
+          "stress": null,
           "gloss": "Valentini (Camille's surname)",
           "gram": "surname"
         },
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, 3rd person masculine singular (Mathias)"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "me",
           "lemma": "me",
           "pos": "pron",
-          "stress": "mə",
+          "stress": "m",
           "gloss": "me, to me (object)",
           "gram": "object pronoun, 1st person singular, before the verb"
         },
@@ -558,7 +558,7 @@
     },
     {
       "seg": 12,
-      "trans": "Without an appointment? I'm not promising anything.",
+      "trans": "Without an appointment? I",
       "words": [
         {
           "t": "Sans",
@@ -580,7 +580,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -588,9 +588,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half; ne... rien = nothing"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "promets",
@@ -605,8 +605,8 @@
           "lemma": "rien",
           "pos": "pron",
           "stress": "ʁjɛ̃",
-          "gloss": "nothing, anything",
-          "gram": "negative pronoun, second half of ne... rien"
+          "gloss": "nothing",
+          "gram": "negative pronoun, with ne"
         }
       ]
     },
@@ -646,7 +646,7 @@
           "t": "Mathias,",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         },
@@ -654,7 +654,7 @@
           "t": "Camille",
           "lemma": "camille",
           "pos": "name",
-          "stress": "kamij",
+          "stress": null,
           "gloss": "Camille",
           "gram": "first name"
         },
@@ -662,7 +662,7 @@
           "t": "Valentini",
           "lemma": "valentini",
           "pos": "name",
-          "stress": "valɛntini",
+          "stress": null,
           "gloss": "Valentini (Camille's surname)",
           "gram": "surname"
         },
@@ -671,8 +671,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular"
+          "gloss": "are (we are)",
+          "gram": "present, 3rd person singular, used with on = we"
         },
         {
           "t": "là.",
@@ -694,17 +694,17 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "to",
-          "gram": "preposition, désolé de + infinitive"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "vous",
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you",
-          "gram": "object pronoun, formal (Sofia to her boss)"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "déranger.",
@@ -765,14 +765,14 @@
           "lemma": "soit",
           "pos": "conj",
           "stress": "swa",
-          "gloss": "or",
-          "gram": "second half of soit... soit"
+          "gloss": "either",
+          "gram": "first half of soit... soit"
         },
         {
           "t": "vendredi",
           "lemma": "vendredi",
           "pos": "noun",
-          "stress": "vɑ̃dʁədi",
+          "stress": "vɑ̃dʁdi",
           "gloss": "Friday",
           "gram": "masculine, no article"
         },
@@ -811,7 +811,7 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         }
       ]
@@ -824,7 +824,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -841,8 +841,8 @@
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you",
-          "gram": "object pronoun, formal, before the infinitive"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "aider?",
@@ -856,13 +856,13 @@
     },
     {
       "seg": 23,
-      "trans": "I'm here to see Mathias Barneville.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -887,8 +887,8 @@
           "lemma": "pour",
           "pos": "prep",
           "stress": "puʁ",
-          "gloss": "(in order) to",
-          "gram": "preposition + infinitive"
+          "gloss": "for",
+          "gram": "preposition ('pour', meaning 'for')"
         },
         {
           "t": "voir",
@@ -902,7 +902,7 @@
           "t": "Mathias",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         },
@@ -910,7 +910,7 @@
           "t": "Barneville.",
           "lemma": "barneville",
           "pos": "name",
-          "stress": "baʁnəvil",
+          "stress": null,
           "gloss": "Barneville (Mathias's surname)",
           "gram": "surname"
         }
@@ -922,33 +922,33 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, 3rd person masculine singular"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "vous",
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you",
-          "gram": "object pronoun, formal, before the verb"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "attend?",
           "lemma": "attendre",
           "pos": "verb",
           "stress": "atɑ̃",
-          "gloss": "is expecting",
-          "gram": "present, 3rd person singular"
+          "gloss": "are waiting for",
+          "gram": "present, 3rd person singular, used with on = we"
         }
       ]
     },
     {
       "seg": 27,
-      "trans": "No, but it's important.",
+      "trans": "No, but it",
       "words": [
         {
           "t": "Non,",
@@ -1070,15 +1070,15 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
-          "gloss": "only (ne... que)",
-          "gram": "first half of ne... que = only"
+          "stress": "n",
+          "gloss": "not",
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "représente",
           "lemma": "représenter",
           "pos": "verb",
-          "stress": "ʁəpʁezɑ̃t",
+          "stress": "ʁpʁezɑ̃t",
           "gloss": "represents",
           "gram": "present, 3rd person singular"
         },
@@ -1086,9 +1086,9 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
-          "gloss": "only (ne... que)",
-          "gram": "second half of ne... que = only"
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "des",
@@ -1110,13 +1110,13 @@
     },
     {
       "seg": 33,
-      "trans": "I'm not an actress.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1124,9 +1124,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "suis",
@@ -1142,7 +1142,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "actrice.",
@@ -1162,7 +1162,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1194,7 +1194,7 @@
           "t": "Mathias.",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         }
@@ -1228,17 +1228,17 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, 3rd person masculine singular (Mathias)"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "me",
           "lemma": "me",
           "pos": "pron",
-          "stress": "mə",
+          "stress": "m",
           "gloss": "me, to me (object)",
           "gram": "object pronoun, 1st person singular, before the verb"
         },
@@ -1254,7 +1254,7 @@
     },
     {
       "seg": 41,
-      "trans": "Without an appointment? I'm not promising anything.",
+      "trans": "Without an appointment? I",
       "words": [
         {
           "t": "Sans",
@@ -1276,7 +1276,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1284,9 +1284,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half; ne... rien = nothing"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "promets",
@@ -1301,8 +1301,8 @@
           "lemma": "rien",
           "pos": "pron",
           "stress": "ʁjɛ̃",
-          "gloss": "nothing, anything",
-          "gram": "negative pronoun, second half of ne... rien"
+          "gloss": "nothing",
+          "gram": "negative pronoun, with ne"
         }
       ]
     },
@@ -1342,7 +1342,7 @@
           "t": "Mathias,",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         },
@@ -1350,7 +1350,7 @@
           "t": "Camille",
           "lemma": "camille",
           "pos": "name",
-          "stress": "kamij",
+          "stress": null,
           "gloss": "Camille",
           "gram": "first name"
         },
@@ -1358,7 +1358,7 @@
           "t": "Valentini",
           "lemma": "valentini",
           "pos": "name",
-          "stress": "valɛntini",
+          "stress": null,
           "gloss": "Valentini (Camille's surname)",
           "gram": "surname"
         },
@@ -1367,8 +1367,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular"
+          "gloss": "are (we are)",
+          "gram": "present, 3rd person singular, used with on = we"
         },
         {
           "t": "là.",
@@ -1396,17 +1396,17 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "to",
-          "gram": "preposition, désolé de + infinitive"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "vous",
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you",
-          "gram": "object pronoun, formal (Sofia to her boss)"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "déranger.",
@@ -1467,14 +1467,14 @@
           "lemma": "soit",
           "pos": "conj",
           "stress": "swa",
-          "gloss": "or",
-          "gram": "second half of soit... soit"
+          "gloss": "either",
+          "gram": "first half of soit... soit"
         },
         {
           "t": "vendredi",
           "lemma": "vendredi",
           "pos": "noun",
-          "stress": "vɑ̃dʁədi",
+          "stress": "vɑ̃dʁdi",
           "gloss": "Friday",
           "gram": "masculine, no article"
         },
@@ -1513,7 +1513,7 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         }
       ]
@@ -1527,14 +1527,14 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         },
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1551,8 +1551,8 @@
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you",
-          "gram": "object pronoun, formal, before the infinitive"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "aider?",
@@ -1566,13 +1566,13 @@
     },
     {
       "seg": 54,
-      "trans": "I'm here to see Mathias Barneville.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1597,8 +1597,8 @@
           "lemma": "pour",
           "pos": "prep",
           "stress": "puʁ",
-          "gloss": "(in order) to",
-          "gram": "preposition + infinitive"
+          "gloss": "for",
+          "gram": "preposition ('pour', meaning 'for')"
         },
         {
           "t": "voir",
@@ -1612,7 +1612,7 @@
           "t": "Mathias",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         },
@@ -1620,7 +1620,7 @@
           "t": "Barneville.",
           "lemma": "barneville",
           "pos": "name",
-          "stress": "baʁnəvil",
+          "stress": null,
           "gloss": "Barneville (Mathias's surname)",
           "gram": "surname"
         }
@@ -1632,33 +1632,33 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, 3rd person masculine singular"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "vous",
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you",
-          "gram": "object pronoun, formal, before the verb"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "attend?",
           "lemma": "attendre",
           "pos": "verb",
           "stress": "atɑ̃",
-          "gloss": "is expecting",
-          "gram": "present, 3rd person singular"
+          "gloss": "are waiting for",
+          "gram": "present, 3rd person singular, used with on = we"
         }
       ]
     },
     {
       "seg": 56,
-      "trans": "No, but it's important.",
+      "trans": "No, but it",
       "words": [
         {
           "t": "Non,",
@@ -1780,15 +1780,15 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
-          "gloss": "only (ne... que)",
-          "gram": "first half of ne... que = only"
+          "stress": "n",
+          "gloss": "not",
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "représente",
           "lemma": "représenter",
           "pos": "verb",
-          "stress": "ʁəpʁezɑ̃t",
+          "stress": "ʁpʁezɑ̃t",
           "gloss": "represents",
           "gram": "present, 3rd person singular"
         },
@@ -1796,9 +1796,9 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
-          "gloss": "only (ne... que)",
-          "gram": "second half of ne... que = only"
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "des",
@@ -1826,7 +1826,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1834,9 +1834,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "suis",
@@ -1852,7 +1852,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "actrice.",
@@ -1866,7 +1866,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1898,7 +1898,7 @@
           "t": "Mathias.",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         }
@@ -1934,7 +1934,7 @@
           "t": "Camille",
           "lemma": "camille",
           "pos": "name",
-          "stress": "kamij",
+          "stress": null,
           "gloss": "Camille",
           "gram": "first name"
         },
@@ -1942,23 +1942,23 @@
           "t": "Valentini.",
           "lemma": "valentini",
           "pos": "name",
-          "stress": "valɛntini",
+          "stress": null,
           "gloss": "Valentini (Camille's surname)",
           "gram": "surname"
         },
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, 3rd person masculine singular (Mathias)"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "me",
           "lemma": "me",
           "pos": "pron",
-          "stress": "mə",
+          "stress": "m",
           "gloss": "me, to me (object)",
           "gram": "object pronoun, 1st person singular, before the verb"
         },
@@ -1974,7 +1974,7 @@
     },
     {
       "seg": 62,
-      "trans": "Without an appointment? I'm not promising anything.",
+      "trans": "Without an appointment? I",
       "words": [
         {
           "t": "Sans",
@@ -1996,7 +1996,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2004,9 +2004,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half; ne... rien = nothing"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "promets",
@@ -2021,8 +2021,8 @@
           "lemma": "rien",
           "pos": "pron",
           "stress": "ʁjɛ̃",
-          "gloss": "nothing, anything",
-          "gram": "negative pronoun, second half of ne... rien"
+          "gloss": "nothing",
+          "gram": "negative pronoun, with ne"
         }
       ]
     },
@@ -2062,7 +2062,7 @@
           "t": "Mathias,",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         },
@@ -2070,7 +2070,7 @@
           "t": "Camille",
           "lemma": "camille",
           "pos": "name",
-          "stress": "kamij",
+          "stress": null,
           "gloss": "Camille",
           "gram": "first name"
         },
@@ -2078,7 +2078,7 @@
           "t": "Valentini",
           "lemma": "valentini",
           "pos": "name",
-          "stress": "valɛntini",
+          "stress": null,
           "gloss": "Valentini (Camille's surname)",
           "gram": "surname"
         },
@@ -2087,8 +2087,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular"
+          "gloss": "are (we are)",
+          "gram": "present, 3rd person singular, used with on = we"
         },
         {
           "t": "là.",
@@ -2110,17 +2110,17 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "to",
-          "gram": "preposition, désolé de + infinitive"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "vous",
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you",
-          "gram": "object pronoun, formal (Sofia to her boss)"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "déranger.",
@@ -2141,22 +2141,22 @@
           "lemma": "merci",
           "pos": "interj",
           "stress": "mɛʁsi",
-          "gloss": "thank you",
+          "gloss": "thanks",
           "gram": "interjection / exclamation ('merci')"
         },
         {
           "t": "au",
-          "lemma": "au revoir",
-          "pos": "phrase",
+          "lemma": "à",
+          "pos": "prep",
           "stress": "o",
-          "gloss": "to the (goodbye)",
-          "gram": "part of au revoir"
+          "gloss": "at the",
+          "gram": "à + le contracted"
         },
         {
           "t": "revoir!",
           "lemma": "au revoir",
           "pos": "phrase",
-          "stress": "ʁəvwaʁ",
+          "stress": "ʁvwaʁ",
           "gloss": "goodbye (seeing again)",
           "gram": "part of au revoir"
         }
@@ -2168,9 +2168,9 @@
       "lemma": "actrice",
       "stress": "aktʁis",
       "pos": "noun",
+      "gloss": "actress",
       "gender": "f",
       "plural": "actrices",
-      "gloss": "actress",
       "meanings": [
         {
           "en": "actress",
@@ -2220,9 +2220,9 @@
       "lemma": "agence",
       "stress": "aʒɑ̃s",
       "pos": "noun",
+      "gloss": "agency",
       "gender": "f",
       "plural": "agences",
-      "gloss": "agency",
       "meanings": [
         {
           "en": "agency",
@@ -2638,7 +2638,7 @@
     },
     "au revoir": {
       "lemma": "au revoir",
-      "stress": "ɔʁəvwaʁ",
+      "stress": "oʁvwaʁ",
       "pos": "phrase",
       "gloss": "goodbye",
       "meanings": [
@@ -2706,7 +2706,7 @@
     },
     "ce": {
       "lemma": "ce",
-      "stress": "sə",
+      "stress": "s",
       "pos": "det",
       "gloss": "this, that; it",
       "meanings": [
@@ -2927,9 +2927,9 @@
       "lemma": "cv",
       "stress": "seve",
       "pos": "noun",
+      "gloss": "CV, résumé",
       "gender": "m",
       "plural": "cv",
-      "gloss": "CV, résumé",
       "meanings": [
         {
           "en": "CV, résumé",
@@ -2977,7 +2977,7 @@
     },
     "de": {
       "lemma": "de",
-      "stress": "də",
+      "stress": "d",
       "pos": "prep",
       "gloss": "of, from; some",
       "meanings": [
@@ -3278,9 +3278,9 @@
       "lemma": "heure",
       "stress": "œʁ",
       "pos": "noun",
+      "gloss": "hour; o'clock",
       "gender": "f",
       "plural": "heures",
-      "gloss": "hour; o'clock",
       "meanings": [
         {
           "en": "hour",
@@ -3410,6 +3410,44 @@
         }
       ]
     },
+    "il y a": {
+      "lemma": "il y a",
+      "stress": "ilija",
+      "pos": "phrase",
+      "gloss": "there is, there are",
+      "meanings": [
+        {
+          "en": "there is, there are",
+          "note": "Never changes for plural. Spoken French phrase expression meaning 'there is', common in natural conversation."
+        },
+        {
+          "en": "ago",
+          "note": "il y a trois semaines = three weeks ago"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Il y a une autre Clémentine?",
+          "trans": "Is there another Clémentine?"
+        },
+        {
+          "text": "Il y a une réunion.",
+          "trans": "There's a meeting."
+        },
+        {
+          "text": "Non, c'est la place de Samuel. Il est mort il y a six jours.",
+          "trans": "No, it's Samuel's place. He died six days ago."
+        }
+      ],
+      "related": [
+        {
+          "word": "il y a",
+          "gloss": "there is"
+        }
+      ]
+    },
     "important": {
       "lemma": "important",
       "stress": "ɛ̃pɔʁtɑ̃",
@@ -3469,7 +3507,7 @@
     },
     "je": {
       "lemma": "je",
-      "stress": "ʒə",
+      "stress": "ʒ",
       "pos": "pron",
       "gloss": "I",
       "meanings": [
@@ -3505,9 +3543,9 @@
       "lemma": "jeudi",
       "stress": "ʒødi",
       "pos": "noun",
+      "gloss": "Thursday",
       "gender": "m",
       "plural": "jeudis",
-      "gloss": "Thursday",
       "meanings": [
         {
           "en": "Thursday",
@@ -3855,7 +3893,7 @@
     },
     "me": {
       "lemma": "me",
-      "stress": "mə",
+      "stress": "m",
       "pos": "pron",
       "gloss": "me, to me (object)",
       "meanings": [
@@ -3923,7 +3961,7 @@
     },
     "ne": {
       "lemma": "ne",
-      "stress": "nə",
+      "stress": "n",
       "pos": "part",
       "gloss": "not (with pas, rien, que)",
       "meanings": [
@@ -3963,9 +4001,9 @@
       "lemma": "nom",
       "stress": "nɔ̃",
       "pos": "noun",
+      "gloss": "name",
       "gender": "m",
       "plural": "noms",
-      "gloss": "name",
       "meanings": [
         {
           "en": "name",
@@ -4125,9 +4163,9 @@
       "lemma": "photo",
       "stress": "fɔto",
       "pos": "noun",
+      "gloss": "photo, picture",
       "gender": "f",
       "plural": "photos",
-      "gloss": "photo, picture",
       "meanings": [
         {
           "en": "photo, picture",
@@ -4583,7 +4621,7 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "kə",
+      "stress": "k",
       "pos": "conj",
       "gloss": "that; than; only (ne...que)",
       "meanings": [
@@ -4631,9 +4669,9 @@
       "lemma": "rendez-vous",
       "stress": "ʁɑ̃devu",
       "pos": "noun",
+      "gloss": "appointment",
       "gender": "m",
       "plural": "rendez-vous",
-      "gloss": "appointment",
       "meanings": [
         {
           "en": "appointment",
@@ -4685,7 +4723,7 @@
     },
     "représenter": {
       "lemma": "représenter",
-      "stress": "ʁəpʁezɑ̃te",
+      "stress": "ʁpʁezɑ̃te",
       "pos": "verb",
       "gloss": "to represent",
       "meanings": [
@@ -5137,9 +5175,9 @@
       "lemma": "star",
       "stress": "staʁ",
       "pos": "noun",
+      "gloss": "star, celebrity",
       "gender": "f",
       "plural": "stars",
-      "gloss": "star, celebrity",
       "meanings": [
         {
           "en": "star, celebrity",
@@ -5248,11 +5286,11 @@
     },
     "vendredi": {
       "lemma": "vendredi",
-      "stress": "vɑ̃dʁədi",
+      "stress": "vɑ̃dʁdi",
       "pos": "noun",
+      "gloss": "Friday",
       "gender": "m",
       "plural": "vendredis",
-      "gloss": "Friday",
       "meanings": [
         {
           "en": "Friday",

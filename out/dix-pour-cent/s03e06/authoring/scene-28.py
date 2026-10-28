@@ -1,120 +1,50 @@
-# Authoring module for dix-pour-cent s03e06 scene 28 (cues 1327-1362).
-# Build: python3 tools/compose.py overhear-content/out/dix-pour-cent/s03e06/authoring/scene-28.py --out overhear-content/out/dix-pour-cent/s03e06/scene-28.json
-
-ID = "dix-pour-cent-s03e06-scene-28"
-SHOW = "dix-pour-cent"
+# Authoring module for dix-pour-cent-s03e06-scene-28.
+ID = 'dix-pour-cent-s03e06-scene-28'
+SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 28
 TITLE = "Les nominations aux Césars  (The César Nominations)"
 LEVEL = "A1 — débutant"
-PAIR = "fr-en"
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "arlette": "emilie"}
-LABELS = {"lea": "Sophia", "gabriel": "Gabriel", "arlette": "Arlette"}
-SOURCE_NAME = "Dix pour cent (Call My Agent!) S03E06"
-SOURCE_FILE = "sources/dix-pour-cent/s03/e06.fr.dual.srt"
-SOURCE_NOTE = ("Cues 1327-1362. At 4 AM at ASK, Sophia answers the phone and discovers she is nominated "
-               "for a Cesar Award. The agency rejoices and embraces a triumphant new beginning.")
-
-INTRO = ("At four in the morning inside the darkened ASK agency, the reception phone begins ringing urgently. "
-         "Sophia answers to receive life-changing news from the Cesar Academy, sparking celebration and hope for ASK's future. "
-         "Let's listen to their conversation in French first.")
-
+PAIR = 'fr-en'
+VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie", "lea": "lucie"}
+LABELS = {"gabriel": "Gabriel", "sofia": "Sofia", "lea": "Andréa"}
+SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
+SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
+INTRO = "At four in the morning inside the darkened ASK agency, the reception phone begins ringing urgently. Sophia answers to receive life-changing news from the Cesar Academy, sparking celebration and hope for ASK's future. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-
+OUTRO = "The celebratory cheers echo through the agency as dawn breaks over Paris. When you watch the episode, listen out for the expressions meaning 'pick up' and 'telephone'. You'll catch them now. See you next time."
+CLOSING = ("gabriel", "À demain!")
 STORY = [
- ("gabriel", "Sophia, tu décroches le téléphone?",
-  "Sophia, will you pick up the phone?",
-  [(1327, "Sophia"), (1329, "Tu décroches")], "Asking to answer phone"),
- ("lea", "Il est quatre heures du matin!",
-  "It is four in the morning!",
-  [(1330, "Il est 4h")], "Complaining about hour"),
- ("lea", "Allô, agence ASK, bonjour.",
-  "Hello, ASK agency, good morning.",
-  [(1333, "bonjour")], "Answering professionally"),
- ("lea", "La liste des nommés arrive?",
-  "The nominees list is arriving?",
-  [(1334, "liste des nommés")], "Listening to academy announcement"),
- ("lea", "Je suis nommée aux Césars?",
-  "I am nominated for the Cesars?",
-  [(1339, "nommée Sophia Leprince"), (1344, "nommée aux Césars")], "Expressing disbelief"),
- ("gabriel", "Félicitations ma chère Sophia!",
-  "Congratulations my dear Sophia!",
-  [(1343, "Félicitations")], "Congratulating actress"),
- ("arlette", "Dans mes bras, ma poulette!",
-  "Into my arms, sweetheart!",
-  [(1346, "Dans mes bras, ma poulette")], "Embracing warmly"),
- ("arlette", "C'est la vraie classe!",
-  "That is true class!",
-  [(1348, "c'est la classe")], "Praising achievement"),
- ("arlette", "Meilleur espoir féminin pour toi!",
-  "Best Newcomer for you!",
-  [(1347, "Meilleur espoir féminin")], "Announcing category"),
- ("lea", "Merci du fond du cœur.",
-  "Thank you from the bottom of my heart.",
-  [(1349, "Merci, Arlette")], "Expressing heartfelt gratitude"),
- ("gabriel", "Nous allons rebondir tous ensemble.",
-  "We are going to bounce back together.",
-  [(1354, "on va rebondir")], "Looking to future"),
- ("gabriel", "C'est tellement excitant maintenant.",
-  "It is so exciting now.",
-  [(1358, "c'est excitant")], "Sharing optimism"),
- ("arlette", "Quelque chose s'ouvre enfin ici.",
-  "Something is finally opening up here.",
-  [(1359, "quelque chose qui s'ouvre")], "Sensing new dawn"),
- ("gabriel", "C'est un tout nouveau départ!",
-  "It is a brand new start!",
-  [(1362, "C'est un nouveau départ")], "Celebrating fresh start"),
+    ('gabriel', 'Sophia, tu décroches le téléphone?', 'Sophia, will you pick up the phone?', [(1327, 'Sophia'), (1329, 'Tu décroches')], ''),
+    ('sofia', 'Il est quatre heures du matin!', 'It is four in the morning!', [(1330, 'Il est 4h')], ''),
+    ('sofia', 'Allô, agence ASK, bonjour.', 'Hello, ASK agency, good morning.', [(1333, 'bonjour')], ''),
+    ('sofia', 'La liste des nommés arrive?', 'The nominees list is arriving?', [(1334, 'liste des nommés')], ''),
+    ('sofia', 'Je suis nommée aux Césars?', 'I am nominated for the Cesars?', [(1339, 'nommée Sophia Leprince'), (1344, 'nommée aux Césars')], ''),
+    ('gabriel', 'Félicitations ma chère Sophia!', 'Congratulations my dear Sophia!', [(1343, 'Félicitations')], ''),
+    ('lea', 'Dans mes bras, ma poulette!', 'Into my arms, sweetheart!', [(1346, 'Dans mes bras, ma poulette')], ''),
+    ('lea', "C'est la vraie classe!", 'That is true class!', [(1348, "c'est la classe")], ''),
+    ('lea', 'Meilleur espoir féminin pour toi!', 'Best Newcomer for you!', [(1347, 'Meilleur espoir féminin')], ''),
+    ('sofia', 'Merci du fond du cœur.', 'Thank you from the bottom of my heart.', [(1349, 'Merci, Arlette')], ''),
+    ('gabriel', 'Nous allons rebondir tous ensemble.', 'We are going to bounce back together.', [(1354, 'on va rebondir')], ''),
+    ('gabriel', "C'est tellement excitant maintenant.", 'It is so exciting now.', [(1358, "c'est excitant")], ''),
+    ('lea', "Quelque chose s'ouvre enfin ici.", 'Something is finally opening up here.', [(1359, "quelque chose qui s'ouvre")], ''),
+    ('gabriel', "C'est un tout nouveau départ!", 'It is a brand new start!', [(1362, "C'est un nouveau départ")], ''),
 ]
-
 WALK = [
- (0, None,
-  "'Sophia, will you pick up the phone?' Gabriel asks as the late-night telephone rings. "
-  "The verb 'decrocher' specifically means to pick up the telephone receiver."),
- (1, None,
-  "'It is four in the morning!' Sophia protests at being asked to answer calls at dawn. "
-  "The time construction 'quatre heures du matin' denotes early morning."),
- (2, None,
-  "'Hello, ASK agency, good morning.' Sophia answers with professional courtesy. "
-  "The greeting 'allo' is used exclusively when answering the phone in France."),
- (3, None,
-  "'The nominees list is arriving?' Sophia realizes the Cesar Academy is calling. "
-  "The past participle 'nommes' acts as a noun referring to award nominees."),
- (4, None,
-  "'I am nominated for the Cesars?' Sophia cannot believe her own ears. "
-  "The proper noun 'Cesars' designates France's highest cinematic honors."),
- (5, None,
-  "'Congratulations my dear Sophia!' Gabriel beams with uncontainable joy for his client. "
-  "The plural noun 'felicitations' expresses praise and congratulations."),
- (6, None,
-  "'Into my arms, sweetheart!' Arlette sweeps Sophia into an affectionate embrace. "
-  "The affectionate term 'ma poulette' is an endearing colloquial term."),
- (7, None,
-  "'That is true class!' Arlette expresses genuine admiration for the milestone. "
-  "The colloquial noun 'la classe' describes outstanding style and elegance."),
- (8, None,
-  "'Best Newcomer for you!' Arlette celebrates the prestigious category. "
-  "The noun phrase 'meilleur espoir' designates the award for Most Promising Actress."),
- (9, None,
-  "'Thank you from the bottom of my heart.' Sophia thanks her mentors tearfully. "
-  "The idiom 'du fond du coeur' expresses deep gratitude."),
- (10, None,
-  "'We are going to bounce back together.' Gabriel rallies the team spirit for the upcoming year. "
-  "The verb 'rebondir' figuratively means to bounce back after setbacks."),
- (11, None,
-  "'It is so exciting now.' Gabriel embraces the thrill of renewed agency momentum. "
-  "The adjective 'excitant' denotes stimulating anticipation."),
- (12, None,
-  "'Something is finally opening up here.' Arlette perceives the positive shift in ASK's fortunes. "
-  "The reflexive verb 's'ouvrir' symbolizes fresh opportunities emerging."),
- (13, None,
-  "'It is a brand new start!' Gabriel concludes with exuberance as a new dawn begins. "
-  "The noun 'depart' in 'nouveau depart' signifies a fresh beginning."),
+    (0, None, "'Sophia, will you pick up the phone?' Gabriel asks as the late-night telephone rings. Notice how 'pick up' leads directly into the noun meaning 'telephone'."),
+    (1, None, "'It is four in the morning!' Sophia protests at being asked to answer calls at dawn. The key noun here means 'o'clock', anchored by its matching French article."),
+    (2, None, "'Hello, ASK agency, good morning.' Sophia answers with professional courtesy. The key noun here means 'agency', anchored by its matching French article."),
+    (3, None, "'The nominees list is arriving?' Sophia realizes the Cesar Academy is calling. The verb meaning 'is arriving' pairs naturally with the noun for 'list' in everyday conversation."),
+    (4, None, "'I am nominated for the Cesars?' Sophia cannot believe her own ears. The clause hinges on the everyday verb meaning 'nominated'."),
+    (5, None, "'Congratulations my dear Sophia!' Gabriel beams with uncontainable joy for his client. The key noun here means 'congratulations', anchored by its matching French article."),
+    (6, None, "'Into my arms, sweetheart!' Arlette sweeps Sophia into an affectionate embrace. The key noun here means 'arms', anchored by its matching French article."),
+    (7, None, "'That is true class!' Arlette expresses genuine admiration for the milestone. The key noun here means 'class', anchored by its matching French article."),
+    (8, None, "'Best Newcomer for you!' Arlette celebrates the prestigious category. Arlette uses the casual singular 'you' with 'hope', showing close familiarity."),
+    (9, None, "'Thank you from the bottom of my heart.' Sophia thanks her mentors tearfully. The key noun here means 'bottom', anchored by its matching French article."),
+    (10, None, "'We are going to bounce back together.' Gabriel rallies the team spirit for the upcoming year. French forms the near future by pairing the present tense of 'to go' directly with 'bounce back'."),
+    (11, None, "'It is so exciting now.' Gabriel embraces the thrill of renewed agency momentum. The adverb meaning 'so' gives the reply its conversational emphasis."),
+    (12, None, "'Something is finally opening up here.' Arlette perceives the positive shift in ASK's fortunes. The clause hinges on the everyday verb meaning 'is opening'."),
+    (13, None, "'It is a brand new start!' Gabriel concludes with exuberance as a new dawn begins. The key noun here means 'start', anchored by its matching French article."),
 ]
-
-OUTRO = ("The celebratory cheers echo through the agency as dawn breaks over Paris. "
-         "With Sophia's prestigious nomination and Andrea taking the helm, ASK enters an exciting new era. "
-         "Now, let's review the scene one last time.")
-
-CLOSING = ("gabriel", "C'est un tout nouveau départ!")

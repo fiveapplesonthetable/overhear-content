@@ -1,50 +1,34 @@
-# dix-pour-cent-s01e03-scene-30: review sheet
+# Review: `dix-pour-cent-s01e03-scene-30` — Je veux être ton agent  (I Want to Be Your Agent)
 
-Title: Je veux être ton agent  (I Want to Be Your Agent)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S01E03
+- **Source**: `sources/dix-pour-cent/s01/e03.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}`
+- **Labels**: `{"sofia": "Sofia", "gabriel": "Gabriel"}`
 
+## Part 1 — Intro
+> On a small black stage, under a single spotlight, Sofia performed in a strange, poetic play called 'Absence', full of lines about loss, waiting and doubt. Now the show is over, and Gabriel walks her out into the street. Listen to it in French first. Let the words go by; the meaning will come. Let's listen to the scene in French first.
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `sofia` (Sofia) | Tu es venu! C'est incroyable! | You came! I can | 770:venu |
+| 1 | `sofia` (Sofia) | Je ne t'ai pas vu avant la fin. | I didn | 771:Je ne t'ai pas vu |
+| 2 | `sofia` (Sofia) | Tu as aimé les autres? Ils sont bien, non? | Did you like the others? They're good, aren't they? | 772:Bien, non |
+| 3 | `gabriel` (Gabriel) | Oui, ils sont bons. | Yes, they | 773:ils sont bons |
+| 4 | `gabriel` (Gabriel) | Mais c'est surtout toi. Tu étais magnifique. | But it | 774:Mais c'est surtout toi, 775:Tu étais magnifique |
+| 5 | `sofia` (Sofia) | Merci, Gabriel. Merci d'être venu. | Thank you, Gabriel. Thank you for coming. | 776:Merci, Gabriel, 777:merci d'être venu |
+| 6 | `gabriel` (Gabriel) | C'est moi qui dois te remercier. | I | 778:C'est moi qui |
+| 7 | `gabriel` (Gabriel) | Tu es une vraie comédienne. | You | 779:comédienne |
+| 8 | `sofia` (Sofia) | Merci infiniment. | Thank you so much. | 780:Merci infiniment |
+| 9 | `sofia` (Sofia) | Au revoir, Gabriel. À demain. | Bye, Gabriel. See you tomorrow. | 783:Au revoir, Gabriel, 781:À demain |
+| 10 | `gabriel` (Gabriel) | Sofia? Attends. | Sofia? Wait. | 784:Sofia |
+| 11 | `gabriel` (Gabriel) | Je veux être ton agent. | I want to be your agent. | 785:Je veux être ton agent |
+| 12 | `sofia` (Sofia) | Tu es sérieux? | Are you serious? | 787:Tu es sérieux |
+| 13 | `gabriel` (Gabriel) | Oui, je suis sérieux. | Yes, I | 787:Oui |
+| 14 | `sofia` (Sofia) | Je n'ai pas beaucoup de travail, tu sais. | I don | 788:Je n'ai pas beaucoup de travail, tu sais |
+| 15 | `gabriel` (Gabriel) | Je vais t'aider à trouver du travail. | I | 790:Je vais t'aider à trouver du travail |
+| 16 | `sofia` (Sofia) | D'accord. Très bien! | Okay. Great! | 791:D'accord, 792:Très bien |
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Tu es venu! C'est incroyable! | You came! I can't believe it! | #770 00:46:34: venu | adapted: simplified from 'Je n'arrive toujours pas à croire que tu sois venu' |
-| 2 | Léa | Je ne t'ai pas vu avant la fin. | I didn't see you until the end. | #771 00:46:38: Je ne t'ai pas vu | adapted: 'avant les saluts' -> 'avant la fin' |
-| 3 | Léa | Tu as aimé les autres? Ils sont bien, non? | Did you like the others? They're good, aren't they? | #772 00:46:42: Bien, non | adapted: simplified from 'Qu'est-ce que tu as pensé des autres ?' |
-| 4 | Gabriel | Oui, ils sont bons. | Yes, they're good. | #773 00:46:45: ils sont bons | verbatim |
-| 5 | Gabriel | Mais c'est surtout toi. Tu étais magnifique. | But it's mostly you. You were wonderful. | #774 00:46:48: Mais c'est surtout toi<br>#775 00:46:51: Tu étais magnifique | adapted: 'Tu te démarques vraiment' left out |
-| 6 | Léa | Merci, Gabriel. Merci d'être venu. | Thank you, Gabriel. Thank you for coming. | #776 00:46:57: Merci, Gabriel<br>#777 00:47:01: merci d'être venu | verbatim |
-| 7 | Gabriel | C'est moi qui dois te remercier. | I'm the one who should thank you. | #778 00:47:05: C'est moi qui | adapted: 'devrais' -> 'dois' |
-| 8 | Gabriel | Tu es une vraie comédienne. | You're a real actress. | #779 00:47:08: comédienne | adapted: 'vraie' added to make his point clear |
-| 9 | Léa | Merci infiniment. | Thank you so much. | #780 00:47:11: Merci infiniment | verbatim |
-| 10 | Léa | Au revoir, Gabriel. À demain. | Bye, Gabriel. See you tomorrow. | #783 00:47:21: Au revoir, Gabriel<br>#781 00:47:17: À demain | verbatim |
-| 11 | Gabriel | Sofia? Attends. | Sofia? Wait. | #784 00:47:28: Sofia | adapted: 'Attends' added |
-| 12 | Gabriel | Je veux être ton agent. | I want to be your agent. | #785 00:47:30: Je veux être ton agent | verbatim |
-| 13 | Léa | Tu es sérieux? | Are you serious? | #787 00:47:36: Tu es sérieux | verbatim |
-| 14 | Gabriel | Oui, je suis sérieux. | Yes, I'm serious. | #787 00:47:36: Oui | adapted: 'je suis sérieux' added |
-| 15 | Léa | Je n'ai pas beaucoup de travail, tu sais. | I don't have much work, you know. | #788 00:47:38: Je n'ai pas beaucoup de travail, tu sais | verbatim |
-| 16 | Gabriel | Je vais t'aider à trouver du travail. | I'm going to help you find work. | #790 00:47:44: Je vais t'aider à trouver du travail | adapted: Gabriel's joke about starving (789) left out |
-| 17 | Léa | D'accord. Très bien! | Okay. Great! | #791 00:47:46: D'accord<br>#792 00:47:49: Très bien | verbatim |
-
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'You came! I can't believe it!' Literally 'it's unbelievable'. The first verb is in the past, built with 'to be', because coming is a movement.
-- 'I didn't see you until the end.' Literally 'before the end'. The little word for 'you' sits before the helper verb, inside the 'not'.
-- 'Did you like the others?' The past tense with 'to have' and the past form of 'to like'.
-- 'They're good, aren't they?' Adding the word for 'no' at the end is the easy French way to say 'aren't they?' or 'right?'.
-- 'Yes, they're good.' Gabriel is polite about the rest of the cast.
-- 'But it's mostly you. You were wonderful.' The past form for 'you were' describes how she was on stage, a lasting state.
-- 'Thank you, Gabriel. Thank you for coming.' After 'thank you for', French uses 'to have come', not 'coming'. The little word in front is 'for', shortened before a vowel.
-- 'I'm the one who should thank you.' Literally 'it's me who must thank you'. The same trick to put weight on one person.
-- 'You're a real actress.' The words for 'real' and 'actress' both have feminine endings. This means a lot to Sofia, who spends her days answering phones.
-- 'Thank you so much.' Literally 'thank you infinitely'. A very warm thank-you.
-- 'Bye, Gabriel. See you tomorrow.' Tomorrow she'll be back behind the reception desk. She starts to walk away.
-- 'Sofia? Wait.' A casual command, because they use the casual 'you' with each other.
-- 'I want to be your agent.' The verb 'to want', then the plain verb 'to be'. It's the big moment of the scene.
-- 'Are you serious?' A question made just by the voice going up at the end.
-- 'Yes, I'm serious.' Gabriel means it.
-- 'I don't have much work, you know.' After 'not', 'a lot of' becomes 'much'. Same words in French: literally 'not a lot of work'.
-- 'I'm going to help you find work.' The verb 'to go' plus another verb for the near future again, and after 'help', a little word for 'to' before the next verb.
-- 'Okay. Great!' Two of the most useful words in French, and Sofia has a real agent at last.
+## Part 5 — Outro & Closing
+> A happy ending for Sofia, but not for the agency. Meanwhile, in a quiet bar, François, the boss of the big rival agency StarMédia, meets Mathias in secret. He says it's shocking that Samuel left Mathias nothing after his whole career at the agency, and he makes an offer: come to StarMédia with all your clients, and one day run the biggest agency in Paris. If Mathias says yes, the agency is finished. Mathias asks only one question, whether he could bring all his clients, and François tells him to think it over. We'll find out what he decides in the next episode. Well done, and see you then.
+- **Closing**: `sofia`: *Bonne journée!*

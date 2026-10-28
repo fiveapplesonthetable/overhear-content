@@ -1,43 +1,31 @@
-# dix-pour-cent-s04e06-scene-13: review sheet
+# Review: `dix-pour-cent-s04e06-scene-13` — L'attente de Jean Reno  (Waiting for Jean Reno)
 
-Title: L'attente de Jean Reno  (Waiting for Jean Reno)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S04E06
-Cues 623-658. In Andrea's office, Gabriel laments losing their last financier for Xavier Beauvois's screenplay, but their despair turns to hopeful excitement when Jean Reno agrees to visit ASK in person.
+- **Source**: `sources/dix-pour-cent/s04/e06.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "gabriel": "theo", "lea": "lucie"}`
+- **Labels**: `{"gabriel": "Gabriel", "lea": "Andréa"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> In Andrea's office at ASK, tensions run high as Gabriel reports another devastating financing rejection for Xavier Beauvois's script. Just as their hopes seem completely dashed, unexpected news arrives that movie star Jean Reno is heading to the agency. Let's listen to their conversation in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Gabriel | Je ne comprends pas son refus. | I do not understand his refusal. | #623 00:33:40: Je ne comprends pas | adapted: Gabriel vents his frustration over the investor's decision |
-| 2 | Léa | Tu avais presque réussi à le convaincre? | You had almost managed to convince him? | #624 00:33:41: presque réussi à le convaincre | adapted: Andrea asks about the negotiations |
-| 3 | Gabriel | Oui, et au dernier moment, il refuse. | Yes, and at the last moment, he refuses. | #624 00:33:41: au dernier moment | adapted: Gabriel explains the sudden turnaround |
-| 4 | Léa | Il t'a donné une raison précise? | Did he give you a specific reason? | #625 00:33:44: Il t'a donné une raison | adapted: Inquires about any formal explanation |
-| 5 | Gabriel | Non, il reste muet comme une tombe. | No, he remains silent as a grave. | #627 00:33:46: comme une tombe | adapted: Describes the financier's stony silence |
-| 6 | Léa | Alors c'est terminé avec lui. | Then it is over with him. | #628 00:33:49: c'est terminé maintenant | adapted: Andrea accepts that the deal is dead |
-| 7 | Gabriel | Laisse tomber, c'est trop tard. | Forget it, it is too late. | #631 00:33:55: Laisse tomber | adapted: Gabriel advises against chasing him further |
-| 8 | Léa | Nous avons besoin d'un grand acteur. | We need a great actor. | #628 00:33:49: c'est terminé maintenant | adapted: Stresses the necessity of star power |
-| 9 | Gabriel | Jean Reno sera bientôt là! | Jean Reno will be here soon! | #633 00:34:04: Il est en route | adapted: Gabriel delivers the exciting update |
-| 10 | Léa | Jean Reno arrive vraiment à l'agence? | Jean Reno is really coming to the agency? | #634 00:34:07: Sérieusement | adapted: Andrea reacts with astonished hope |
-| 11 | Gabriel | Oui, il est en route maintenant. | Yes, he is on his way now. | #633 00:34:04: Il est en route | adapted: Confirms that the star is en route |
-| 12 | Léa | C'est notre dernière chance de survie. | It is our last chance of survival. | #634 00:34:07: Sérieusement | adapted: Emphasizes what is at stake for the agency |
-| 13 | Gabriel | Il adore déjà le beau scénario. | He already loves the beautiful script. | #633 00:34:04: Il est en route | adapted: Notes the actor's enthusiasm for the material |
-| 14 | Léa | Préparons son accueil avec grand soin. | Let us prepare his welcome with great care. | #634 00:34:07: Sérieusement | adapted: Rallies to make an impeccable impression |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `gabriel` (Gabriel) | Je ne comprends pas son refus. | I do not understand his refusal. | 623:Je ne comprends pas |
+| 1 | `lea` (Andréa) | Tu avais presque réussi à le convaincre? | You had almost managed to convince him? | 624:presque réussi à le convaincre |
+| 2 | `gabriel` (Gabriel) | Oui, et au dernier moment, il refuse. | Yes, and at the last moment, he refuses. | 624:au dernier moment |
+| 3 | `lea` (Andréa) | Il t'a donné une raison précise? | Did he give you a specific reason? | 625:Il t'a donné une raison |
+| 4 | `gabriel` (Gabriel) | Non, il reste muet comme une tombe. | No, he remains silent as a grave. | 627:comme une tombe |
+| 5 | `lea` (Andréa) | Alors c'est terminé avec lui. | Then it is over with him. | 628:c'est terminé maintenant |
+| 6 | `gabriel` (Gabriel) | Laisse tomber, c'est trop tard. | Forget it, it is too late. | 631:Laisse tomber |
+| 7 | `lea` (Andréa) | Nous avons besoin d'un grand acteur. | We need a great actor. | 628:c'est terminé maintenant |
+| 8 | `gabriel` (Gabriel) | Jean Reno sera bientôt là! | Jean Reno will be here soon! | 633:Il est en route |
+| 9 | `lea` (Andréa) | Jean Reno arrive vraiment à l'agence? | Jean Reno is really coming to the agency? | 634:Sérieusement |
+| 10 | `gabriel` (Gabriel) | Oui, il est en route maintenant. | Yes, he is on his way now. | 633:Il est en route |
+| 11 | `lea` (Andréa) | C'est notre dernière chance de survie. | It is our last chance of survival. | 634:Sérieusement |
+| 12 | `gabriel` (Gabriel) | Il adore déjà le beau scénario. | He already loves the beautiful script. | 633:Il est en route |
+| 13 | `lea` (Andréa) | Préparons son accueil avec grand soin. | Let us prepare his welcome with great care. | 634:Sérieusement |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'I do not understand his refusal.' Gabriel expresses bewilderment at the financier's rejection. Notice the classic French sandwich negation wrapping right around 'understand'.
-- 'You had almost managed to convince him?' Andrea confirms how close they came to a deal. The informal 'you' form around 'had' marks a direct, personal relationship.
-- 'Yes, and at the last moment, he refuses.' Gabriel describes the investor pulling out abruptly. The descriptive adjective for 'last' agrees in gender and number with its noun.
-- 'Did he give you a specific reason?' Andrea asks if any motive was provided. This conversational past tense combines a helper verb with the past participle for 'given'.
-- 'No, he remains silent as a grave.' Gabriel uses a vivid idiom to indicate total silence. Notice how 'remains' leads directly into the noun meaning 'grave'.
-- 'Then it is over with him.' Andrea moves on from the lost opportunity. The descriptive adjective for 'finished' agrees in gender and number with its noun.
-- 'Forget it, it is too late.' Gabriel cautions against wasting further energy. The clause hinges on the everyday verb meaning 'let'.
-- 'We need a great actor.' Andrea identifies the key element needed to revive the film. Notice how 'have' leads directly into the noun meaning 'need'.
-- 'Jean Reno will be here soon!' Gabriel announces that a legendary star is arriving. The clause hinges on the everyday verb meaning 'will be'.
-- 'Jean Reno is really coming to the agency?' Andrea verifies the astonishing news. The verb meaning 'arrives' pairs naturally with the noun for 'agency' in everyday conversation.
-- 'Yes, he is on his way now.' Gabriel reassures her that the actor is traveling to ASK. The key noun here means 'way', anchored by its matching French article.
-- 'It is our last chance of survival.' Andrea stresses the existential stakes for the firm. The adjective meaning 'last' takes its feminine form here to match the noun it describes.
-- 'He already loves the beautiful script.' Gabriel builds confidence ahead of the pitch. The verb meaning 'adores' pairs naturally with the noun for 'screenplay' in everyday conversation.
-- 'Let us prepare his welcome with great care.' Andrea prepares to give the star their utmost focus.
+## Part 5 — Outro & Closing
+> Crushed by another funding rejection, Andrea and Gabriel suddenly find new hope when legendary actor Jean Reno agrees to visit ASK to discuss Xavier Beauvois's screenplay. When you watch the episode, listen out for the expressions meaning 'understand' and 'refusal'. You'll catch them now. See you next time.
+- **Closing**: `gabriel`: *Bonne soirée!*

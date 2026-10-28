@@ -11,14 +11,14 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         },
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -36,15 +36,15 @@
           "pos": "adv",
           "stress": "la",
           "gloss": "here",
-          "gram": "adverb of place (there/here)"
+          "gram": "adverb, être là = to be here"
         },
         {
           "t": "pour",
           "lemma": "pour",
           "pos": "prep",
           "stress": "puʁ",
-          "gloss": "to, in order to",
-          "gram": "preposition + infinitive"
+          "gloss": "for",
+          "gram": "preposition ('pour', meaning 'for')"
         },
         {
           "t": "voir",
@@ -58,9 +58,9 @@
           "t": "Gabriel.",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel",
-          "gram": "proper noun ('Gabriel')"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         }
       ]
     },
@@ -74,7 +74,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation without verb"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "maintenant!",
@@ -94,7 +94,7 @@
           "t": "Hervé!",
           "lemma": "hervé",
           "pos": "name",
-          "stress": "ɛʁve",
+          "stress": null,
           "gloss": "Hervé",
           "gram": "proper noun ('Hervé')"
         },
@@ -102,7 +102,7 @@
           "t": "Hervé!",
           "lemma": "hervé",
           "pos": "name",
-          "stress": "ɛʁve",
+          "stress": null,
           "gloss": "Hervé",
           "gram": "proper noun ('Hervé')"
         }
@@ -117,7 +117,7 @@
           "lemma": "oh",
           "pos": "interj",
           "stress": "o",
-          "gloss": "oh (surprise)",
+          "gloss": "oh (surprise, dismay)",
           "gram": "interjection / exclamation ('oh')"
         },
         {
@@ -125,16 +125,16 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         },
         {
           "t": "Cécile.",
           "lemma": "cécile",
           "pos": "name",
-          "stress": "sesil",
-          "gloss": "Cécile",
-          "gram": "proper noun ('Cécile')"
+          "stress": null,
+          "gloss": "Cécile (de France)",
+          "gram": "first name"
         }
       ]
     },
@@ -147,8 +147,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have",
-          "gram": "j' (je) + ai: present, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "encore",
@@ -163,7 +163,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "œ̃",
-          "gloss": "a, an",
+          "gloss": "a",
           "gram": "indefinite article, masculine singular"
         },
         {
@@ -191,10 +191,10 @@
         {
           "t": "Oui,",
           "lemma": "oui",
-          "pos": "interj",
+          "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "interjection / exclamation ('oui')"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "pourquoi?",
@@ -202,21 +202,21 @@
           "pos": "adv",
           "stress": "puʁkwa",
           "gloss": "why",
-          "gram": "interrogative adverb"
+          "gram": "question word"
         }
       ]
     },
     {
       "seg": 7,
-      "trans": "Maybe it's all in my head.",
+      "trans": "Maybe it",
       "words": [
         {
           "t": "C'est",
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it is",
-          "gram": "c' (ce) + est: present, 3rd person singular"
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "peut-être",
@@ -269,8 +269,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have",
-          "gram": "j' (je) + ai: present, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "l'impression",
@@ -284,17 +284,17 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
+          "stress": "k",
           "gloss": "that",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "Gabriel",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel",
-          "gram": "proper noun ('Gabriel')"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
           "t": "m'évite.",
@@ -312,41 +312,41 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "it",
-          "gram": "subject pronoun, 3rd person masculine singular"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "est",
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular (impersonal)"
+          "gloss": "are (we are)",
+          "gram": "present, 3rd person singular, used with on = we"
         },
         {
           "t": "une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "one",
-          "gram": "feminine singular"
+          "gloss": "an (one)",
+          "gram": "indefinite article, feminine singular"
         },
         {
           "t": "heure.",
           "lemma": "heure",
           "pos": "noun",
           "stress": "œʁ",
-          "gloss": "o'clock, hour",
-          "gram": "noun, feminine singular"
+          "gloss": "hour",
+          "gram": "feminine singular"
         },
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -364,7 +364,7 @@
           "pos": "verb",
           "stress": "deʒœne",
           "gloss": "have lunch",
-          "gram": "infinitive"
+          "gram": "infinitive, after aller (near future)"
         }
       ]
     },
@@ -376,7 +376,7 @@
           "t": "Sofia,",
           "lemma": "sofia",
           "pos": "name",
-          "stress": "sɔfja",
+          "stress": null,
           "gloss": "Sofia",
           "gram": "proper noun ('Sofia')"
         },
@@ -385,7 +385,7 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you",
+          "gloss": "you (casual)",
           "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
@@ -394,15 +394,15 @@
           "pos": "verb",
           "stress": "vø",
           "gloss": "want",
-          "gram": "present, 2nd person singular"
+          "gram": "present, 1st person singular"
         },
         {
           "t": "venir",
           "lemma": "venir",
           "pos": "verb",
-          "stress": "vəniʁ",
-          "gloss": "to come",
-          "gram": "infinitive"
+          "stress": "vniʁ",
+          "gloss": "come",
+          "gram": "infinitive, after pouvoir"
         },
         {
           "t": "avec",
@@ -418,53 +418,53 @@
           "pos": "pron",
           "stress": "mwa",
           "gloss": "me",
-          "gram": "stressed pronoun, 1st person singular"
+          "gram": "stressed pronoun, 1st person singular, after a preposition"
         }
       ]
     },
     {
       "seg": 11,
-      "trans": "Gabriel? What's going on here?",
+      "trans": "Gabriel? What",
       "words": [
         {
           "t": "Gabriel?",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel",
-          "gram": "proper noun ('Gabriel')"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce qui",
+          "lemma": "qu'est-ce que",
           "pos": "phrase",
           "stress": "kɛs",
-          "gloss": "what (is it)",
-          "gram": "first part of qu'est-ce qui"
+          "gloss": "what",
+          "gram": "question phrase qu'est-ce que, first part"
         },
         {
           "t": "qui",
-          "lemma": "qu'est-ce qui",
-          "pos": "phrase",
+          "lemma": "qui",
+          "pos": "pron",
           "stress": "ki",
-          "gloss": "that (qu'est-ce qui = what)",
-          "gram": "second part of qu'est-ce qui"
+          "gloss": "who",
+          "gram": "relative pronoun, subject; c'est moi qui = I'm the one who"
         },
         {
           "t": "se",
           "lemma": "se",
           "pos": "pron",
-          "stress": "sə",
-          "gloss": "itself (se passer = to happen)",
-          "gram": "reflexive pronoun, 3rd person"
+          "stress": "s",
+          "gloss": "(reflexive)",
+          "gram": "reflexive pronoun, part of se passer"
         },
         {
           "t": "passe",
-          "lemma": "passer",
+          "lemma": "se passer",
           "pos": "verb",
           "stress": "pas",
-          "gloss": "is happening",
-          "gram": "present, 3rd person singular"
+          "gloss": "is going",
+          "gram": "present, 3rd person singular, reflexive"
         },
         {
           "t": "ici?",
@@ -484,7 +484,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -502,13 +502,13 @@
           "pos": "adj",
           "stress": "dezɔle",
           "gloss": "sorry",
-          "gram": "adjective, masculine singular"
+          "gram": "masculine singular"
         },
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -533,8 +533,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it is",
-          "gram": "c' (ce) + est: present, 3rd person singular"
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "urgent.",
@@ -553,10 +553,10 @@
         {
           "t": "Oui,",
           "lemma": "oui",
-          "pos": "interj",
+          "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "interjection / exclamation ('oui')"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "allô?",
@@ -571,23 +571,23 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "it",
-          "gram": "demonstrative pronoun (ça fait = it's been)"
+          "gloss": "that",
+          "gram": "demonstrative pronoun, informal"
         },
         {
           "t": "fait",
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
-          "gloss": "makes (ça fait ... que = for ...)",
-          "gram": "present, 3rd person singular"
+          "gloss": "makes (ça fait... que = it's been)",
+          "gram": "present, 3rd person singular, in a time expression"
         },
         {
           "t": "des",
           "lemma": "un",
           "pos": "det",
           "stress": "de",
-          "gloss": "some",
+          "gloss": "some (often not translated)",
           "gram": "indefinite article, plural"
         },
         {
@@ -602,9 +602,9 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
+          "stress": "k",
           "gloss": "that",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "j'attends",
@@ -641,7 +641,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "œ̃",
-          "gloss": "a, an",
+          "gloss": "a",
           "gram": "indefinite article, masculine singular"
         },
         {
@@ -676,35 +676,35 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, 3rd person masculine singular"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd person singular"
+          "gloss": "is (there is)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         },
         {
           "t": "beaucoup",
           "lemma": "beaucoup",
           "pos": "adv",
           "stress": "boku",
-          "gloss": "a lot",
-          "gram": "adverb of quantity"
+          "gloss": "a lot (of)",
+          "gram": "adverb, beaucoup de = a lot of"
         },
         {
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition ('de', meaning 'of')"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "travail,",
@@ -712,43 +712,43 @@
           "pos": "noun",
           "stress": "tʁavaj",
           "gloss": "work",
-          "gram": "noun, masculine singular"
+          "gram": "masculine singular, after au"
         },
         {
           "t": "Cécile.",
           "lemma": "cécile",
           "pos": "name",
-          "stress": "sesil",
-          "gloss": "Cécile",
-          "gram": "proper noun ('Cécile')"
+          "stress": null,
+          "gloss": "Cécile (de France)",
+          "gram": "first name"
         }
       ]
     },
     {
       "seg": 16,
-      "trans": "Fine. Then I'll wait.",
+      "trans": "Fine. Then I",
       "words": [
         {
           "t": "Bon.",
           "lemma": "bon",
-          "pos": "interj",
+          "pos": "adj",
           "stress": "bɔ̃",
-          "gloss": "fine, okay",
-          "gram": "used as an interjection"
+          "gloss": "right, okay",
+          "gram": "discourse marker, moving on"
         },
         {
           "t": "Alors,",
           "lemma": "alors",
           "pos": "adv",
           "stress": "alɔʁ",
-          "gloss": "then, so",
+          "gloss": "then",
           "gram": "invariable adverb ('alors', meaning 'then')"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -772,13 +772,13 @@
     },
     {
       "seg": 18,
-      "trans": "I'm here to see Gabriel.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -796,15 +796,15 @@
           "pos": "adv",
           "stress": "la",
           "gloss": "here",
-          "gram": "adverb of place (there/here)"
+          "gram": "adverb, être là = to be here"
         },
         {
           "t": "pour",
           "lemma": "pour",
           "pos": "prep",
           "stress": "puʁ",
-          "gloss": "to, in order to",
-          "gram": "preposition + infinitive"
+          "gloss": "for",
+          "gram": "preposition ('pour', meaning 'for')"
         },
         {
           "t": "voir",
@@ -818,9 +818,9 @@
           "t": "Gabriel.",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel",
-          "gram": "proper noun ('Gabriel')"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         }
       ]
     },
@@ -834,7 +834,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation without verb"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "maintenant!",
@@ -854,7 +854,7 @@
           "t": "Hervé!",
           "lemma": "hervé",
           "pos": "name",
-          "stress": "ɛʁve",
+          "stress": null,
           "gloss": "Hervé",
           "gram": "proper noun ('Hervé')"
         },
@@ -862,7 +862,7 @@
           "t": "Hervé!",
           "lemma": "hervé",
           "pos": "name",
-          "stress": "ɛʁve",
+          "stress": null,
           "gloss": "Hervé",
           "gram": "proper noun ('Hervé')"
         }
@@ -877,7 +877,7 @@
           "lemma": "oh",
           "pos": "interj",
           "stress": "o",
-          "gloss": "oh (surprise)",
+          "gloss": "oh (surprise, dismay)",
           "gram": "interjection / exclamation ('oh')"
         },
         {
@@ -885,16 +885,16 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         },
         {
           "t": "Cécile.",
           "lemma": "cécile",
           "pos": "name",
-          "stress": "sesil",
-          "gloss": "Cécile",
-          "gram": "proper noun ('Cécile')"
+          "stress": null,
+          "gloss": "Cécile (de France)",
+          "gram": "first name"
         }
       ]
     },
@@ -907,8 +907,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have",
-          "gram": "j' (je) + ai: present, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "encore",
@@ -923,7 +923,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "œ̃",
-          "gloss": "a, an",
+          "gloss": "a",
           "gram": "indefinite article, masculine singular"
         },
         {
@@ -951,10 +951,10 @@
         {
           "t": "Oui,",
           "lemma": "oui",
-          "pos": "interj",
+          "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "interjection / exclamation ('oui')"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "pourquoi?",
@@ -962,21 +962,21 @@
           "pos": "adv",
           "stress": "puʁkwa",
           "gloss": "why",
-          "gram": "interrogative adverb"
+          "gram": "question word"
         }
       ]
     },
     {
       "seg": 30,
-      "trans": "Maybe it's all in my head.",
+      "trans": "Maybe it",
       "words": [
         {
           "t": "C'est",
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it is",
-          "gram": "c' (ce) + est: present, 3rd person singular"
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "peut-être",
@@ -1029,8 +1029,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have",
-          "gram": "j' (je) + ai: present, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "l'impression",
@@ -1044,17 +1044,17 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
+          "stress": "k",
           "gloss": "that",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "Gabriel",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel",
-          "gram": "proper noun ('Gabriel')"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
           "t": "m'évite.",
@@ -1068,51 +1068,51 @@
     },
     {
       "seg": 34,
-      "trans": "It's one o'clock.",
+      "trans": "It",
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "it",
-          "gram": "subject pronoun, 3rd person masculine singular"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "est",
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular (impersonal)"
+          "gloss": "are (we are)",
+          "gram": "present, 3rd person singular, used with on = we"
         },
         {
           "t": "une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "one",
-          "gram": "feminine singular"
+          "gloss": "an (one)",
+          "gram": "indefinite article, feminine singular"
         },
         {
           "t": "heure.",
           "lemma": "heure",
           "pos": "noun",
           "stress": "œʁ",
-          "gloss": "o'clock, hour",
-          "gram": "noun, feminine singular"
+          "gloss": "hour",
+          "gram": "feminine singular"
         }
       ]
     },
     {
       "seg": 36,
-      "trans": "I'm going to lunch.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1130,7 +1130,7 @@
           "pos": "verb",
           "stress": "deʒœne",
           "gloss": "have lunch",
-          "gram": "infinitive"
+          "gram": "infinitive, after aller (near future)"
         }
       ]
     },
@@ -1142,7 +1142,7 @@
           "t": "Sofia,",
           "lemma": "sofia",
           "pos": "name",
-          "stress": "sɔfja",
+          "stress": null,
           "gloss": "Sofia",
           "gram": "proper noun ('Sofia')"
         },
@@ -1151,7 +1151,7 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you",
+          "gloss": "you (casual)",
           "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
@@ -1160,15 +1160,15 @@
           "pos": "verb",
           "stress": "vø",
           "gloss": "want",
-          "gram": "present, 2nd person singular"
+          "gram": "present, 1st person singular"
         },
         {
           "t": "venir",
           "lemma": "venir",
           "pos": "verb",
-          "stress": "vəniʁ",
-          "gloss": "to come",
-          "gram": "infinitive"
+          "stress": "vniʁ",
+          "gloss": "come",
+          "gram": "infinitive, after pouvoir"
         },
         {
           "t": "avec",
@@ -1184,53 +1184,53 @@
           "pos": "pron",
           "stress": "mwa",
           "gloss": "me",
-          "gram": "stressed pronoun, 1st person singular"
+          "gram": "stressed pronoun, 1st person singular, after a preposition"
         }
       ]
     },
     {
       "seg": 40,
-      "trans": "Gabriel? What's going on here?",
+      "trans": "Gabriel? What",
       "words": [
         {
           "t": "Gabriel?",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel",
-          "gram": "proper noun ('Gabriel')"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce qui",
+          "lemma": "qu'est-ce que",
           "pos": "phrase",
           "stress": "kɛs",
-          "gloss": "what (is it)",
-          "gram": "first part of qu'est-ce qui"
+          "gloss": "what",
+          "gram": "question phrase qu'est-ce que, first part"
         },
         {
           "t": "qui",
-          "lemma": "qu'est-ce qui",
-          "pos": "phrase",
+          "lemma": "qui",
+          "pos": "pron",
           "stress": "ki",
-          "gloss": "that (qu'est-ce qui = what)",
-          "gram": "second part of qu'est-ce qui"
+          "gloss": "who",
+          "gram": "relative pronoun, subject; c'est moi qui = I'm the one who"
         },
         {
           "t": "se",
           "lemma": "se",
           "pos": "pron",
-          "stress": "sə",
-          "gloss": "itself (se passer = to happen)",
-          "gram": "reflexive pronoun, 3rd person"
+          "stress": "s",
+          "gloss": "(reflexive)",
+          "gram": "reflexive pronoun, part of se passer"
         },
         {
           "t": "passe",
-          "lemma": "passer",
+          "lemma": "se passer",
           "pos": "verb",
           "stress": "pas",
-          "gloss": "is happening",
-          "gram": "present, 3rd person singular"
+          "gloss": "is going",
+          "gram": "present, 3rd person singular, reflexive"
         },
         {
           "t": "ici?",
@@ -1244,13 +1244,13 @@
     },
     {
       "seg": 42,
-      "trans": "I'm sorry.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1268,19 +1268,19 @@
           "pos": "adj",
           "stress": "dezɔle",
           "gloss": "sorry",
-          "gram": "adjective, masculine singular"
+          "gram": "masculine singular"
         }
       ]
     },
     {
       "seg": 44,
-      "trans": "I have to answer, it's urgent.",
+      "trans": "I have to answer, it",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1305,8 +1305,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it is",
-          "gram": "c' (ce) + est: present, 3rd person singular"
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "urgent.",
@@ -1325,10 +1325,10 @@
         {
           "t": "Oui,",
           "lemma": "oui",
-          "pos": "interj",
+          "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "interjection / exclamation ('oui')"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "allô?",
@@ -1342,30 +1342,30 @@
     },
     {
       "seg": 48,
-      "trans": "I've been waiting for your call for months!",
+      "trans": "I",
       "words": [
         {
           "t": "Ça",
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "it",
-          "gram": "demonstrative pronoun (ça fait = it's been)"
+          "gloss": "that",
+          "gram": "demonstrative pronoun, informal"
         },
         {
           "t": "fait",
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
-          "gloss": "makes (ça fait ... que = for ...)",
-          "gram": "present, 3rd person singular"
+          "gloss": "makes (ça fait... que = it's been)",
+          "gram": "present, 3rd person singular, in a time expression"
         },
         {
           "t": "des",
           "lemma": "un",
           "pos": "det",
           "stress": "de",
-          "gloss": "some",
+          "gloss": "some (often not translated)",
           "gram": "indefinite article, plural"
         },
         {
@@ -1380,9 +1380,9 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
+          "stress": "k",
           "gloss": "that",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "j'attends",
@@ -1419,7 +1419,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "œ̃",
-          "gloss": "a, an",
+          "gloss": "a",
           "gram": "indefinite article, masculine singular"
         },
         {
@@ -1454,35 +1454,35 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, 3rd person masculine singular"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd person singular"
+          "gloss": "is (there is)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         },
         {
           "t": "beaucoup",
           "lemma": "beaucoup",
           "pos": "adv",
           "stress": "boku",
-          "gloss": "a lot",
-          "gram": "adverb of quantity"
+          "gloss": "a lot (of)",
+          "gram": "adverb, beaucoup de = a lot of"
         },
         {
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition ('de', meaning 'of')"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "travail,",
@@ -1490,43 +1490,43 @@
           "pos": "noun",
           "stress": "tʁavaj",
           "gloss": "work",
-          "gram": "noun, masculine singular"
+          "gram": "masculine singular, after au"
         },
         {
           "t": "Cécile.",
           "lemma": "cécile",
           "pos": "name",
-          "stress": "sesil",
-          "gloss": "Cécile",
-          "gram": "proper noun ('Cécile')"
+          "stress": null,
+          "gloss": "Cécile (de France)",
+          "gram": "first name"
         }
       ]
     },
     {
       "seg": 54,
-      "trans": "Fine. Then I'll wait.",
+      "trans": "Fine. Then I",
       "words": [
         {
           "t": "Bon.",
           "lemma": "bon",
-          "pos": "interj",
+          "pos": "adj",
           "stress": "bɔ̃",
-          "gloss": "fine, okay",
-          "gram": "used as an interjection"
+          "gloss": "right, okay",
+          "gram": "discourse marker, moving on"
         },
         {
           "t": "Alors,",
           "lemma": "alors",
           "pos": "adv",
           "stress": "alɔʁ",
-          "gloss": "then, so",
+          "gloss": "then",
           "gram": "invariable adverb ('alors', meaning 'then')"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1557,14 +1557,14 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         },
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1582,15 +1582,15 @@
           "pos": "adv",
           "stress": "la",
           "gloss": "here",
-          "gram": "adverb of place (there/here)"
+          "gram": "adverb, être là = to be here"
         },
         {
           "t": "pour",
           "lemma": "pour",
           "pos": "prep",
           "stress": "puʁ",
-          "gloss": "to, in order to",
-          "gram": "preposition + infinitive"
+          "gloss": "for",
+          "gram": "preposition ('pour', meaning 'for')"
         },
         {
           "t": "voir",
@@ -1604,9 +1604,9 @@
           "t": "Gabriel.",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel",
-          "gram": "proper noun ('Gabriel')"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         }
       ]
     },
@@ -1620,7 +1620,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation without verb"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "maintenant!",
@@ -1640,7 +1640,7 @@
           "t": "Hervé!",
           "lemma": "hervé",
           "pos": "name",
-          "stress": "ɛʁve",
+          "stress": null,
           "gloss": "Hervé",
           "gram": "proper noun ('Hervé')"
         },
@@ -1648,7 +1648,7 @@
           "t": "Hervé!",
           "lemma": "hervé",
           "pos": "name",
-          "stress": "ɛʁve",
+          "stress": null,
           "gloss": "Hervé",
           "gram": "proper noun ('Hervé')"
         }
@@ -1663,7 +1663,7 @@
           "lemma": "oh",
           "pos": "interj",
           "stress": "o",
-          "gloss": "oh (surprise)",
+          "gloss": "oh (surprise, dismay)",
           "gram": "interjection / exclamation ('oh')"
         },
         {
@@ -1671,16 +1671,16 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         },
         {
           "t": "Cécile.",
           "lemma": "cécile",
           "pos": "name",
-          "stress": "sesil",
-          "gloss": "Cécile",
-          "gram": "proper noun ('Cécile')"
+          "stress": null,
+          "gloss": "Cécile (de France)",
+          "gram": "first name"
         }
       ]
     },
@@ -1693,8 +1693,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have",
-          "gram": "j' (je) + ai: present, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "encore",
@@ -1709,7 +1709,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "œ̃",
-          "gloss": "a, an",
+          "gloss": "a",
           "gram": "indefinite article, masculine singular"
         },
         {
@@ -1737,10 +1737,10 @@
         {
           "t": "Oui,",
           "lemma": "oui",
-          "pos": "interj",
+          "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "interjection / exclamation ('oui')"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "pourquoi?",
@@ -1748,21 +1748,21 @@
           "pos": "adv",
           "stress": "puʁkwa",
           "gloss": "why",
-          "gram": "interrogative adverb"
+          "gram": "question word"
         }
       ]
     },
     {
       "seg": 62,
-      "trans": "Maybe it's all in my head.",
+      "trans": "Maybe it",
       "words": [
         {
           "t": "C'est",
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it is",
-          "gram": "c' (ce) + est: present, 3rd person singular"
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "peut-être",
@@ -1815,8 +1815,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have",
-          "gram": "j' (je) + ai: present, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "l'impression",
@@ -1830,17 +1830,17 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
+          "stress": "k",
           "gloss": "that",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "Gabriel",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel",
-          "gram": "proper noun ('Gabriel')"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
           "t": "m'évite.",
@@ -1858,41 +1858,41 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "it",
-          "gram": "subject pronoun, 3rd person masculine singular"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "est",
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular (impersonal)"
+          "gloss": "are (we are)",
+          "gram": "present, 3rd person singular, used with on = we"
         },
         {
           "t": "une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "one",
-          "gram": "feminine singular"
+          "gloss": "an (one)",
+          "gram": "indefinite article, feminine singular"
         },
         {
           "t": "heure.",
           "lemma": "heure",
           "pos": "noun",
           "stress": "œʁ",
-          "gloss": "o'clock, hour",
-          "gram": "noun, feminine singular"
+          "gloss": "hour",
+          "gram": "feminine singular"
         },
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1910,7 +1910,7 @@
           "pos": "verb",
           "stress": "deʒœne",
           "gloss": "have lunch",
-          "gram": "infinitive"
+          "gram": "infinitive, after aller (near future)"
         }
       ]
     },
@@ -1922,7 +1922,7 @@
           "t": "Sofia,",
           "lemma": "sofia",
           "pos": "name",
-          "stress": "sɔfja",
+          "stress": null,
           "gloss": "Sofia",
           "gram": "proper noun ('Sofia')"
         },
@@ -1931,7 +1931,7 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you",
+          "gloss": "you (casual)",
           "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
@@ -1940,15 +1940,15 @@
           "pos": "verb",
           "stress": "vø",
           "gloss": "want",
-          "gram": "present, 2nd person singular"
+          "gram": "present, 1st person singular"
         },
         {
           "t": "venir",
           "lemma": "venir",
           "pos": "verb",
-          "stress": "vəniʁ",
-          "gloss": "to come",
-          "gram": "infinitive"
+          "stress": "vniʁ",
+          "gloss": "come",
+          "gram": "infinitive, after pouvoir"
         },
         {
           "t": "avec",
@@ -1964,53 +1964,53 @@
           "pos": "pron",
           "stress": "mwa",
           "gloss": "me",
-          "gram": "stressed pronoun, 1st person singular"
+          "gram": "stressed pronoun, 1st person singular, after a preposition"
         }
       ]
     },
     {
       "seg": 66,
-      "trans": "Gabriel? What's going on here?",
+      "trans": "Gabriel? What",
       "words": [
         {
           "t": "Gabriel?",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel",
-          "gram": "proper noun ('Gabriel')"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
           "t": "Qu'est-ce",
-          "lemma": "qu'est-ce qui",
+          "lemma": "qu'est-ce que",
           "pos": "phrase",
           "stress": "kɛs",
-          "gloss": "what (is it)",
-          "gram": "first part of qu'est-ce qui"
+          "gloss": "what",
+          "gram": "question phrase qu'est-ce que, first part"
         },
         {
           "t": "qui",
-          "lemma": "qu'est-ce qui",
-          "pos": "phrase",
+          "lemma": "qui",
+          "pos": "pron",
           "stress": "ki",
-          "gloss": "that (qu'est-ce qui = what)",
-          "gram": "second part of qu'est-ce qui"
+          "gloss": "who",
+          "gram": "relative pronoun, subject; c'est moi qui = I'm the one who"
         },
         {
           "t": "se",
           "lemma": "se",
           "pos": "pron",
-          "stress": "sə",
-          "gloss": "itself (se passer = to happen)",
-          "gram": "reflexive pronoun, 3rd person"
+          "stress": "s",
+          "gloss": "(reflexive)",
+          "gram": "reflexive pronoun, part of se passer"
         },
         {
           "t": "passe",
-          "lemma": "passer",
+          "lemma": "se passer",
           "pos": "verb",
           "stress": "pas",
-          "gloss": "is happening",
-          "gram": "present, 3rd person singular"
+          "gloss": "is going",
+          "gram": "present, 3rd person singular, reflexive"
         },
         {
           "t": "ici?",
@@ -2030,7 +2030,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2048,13 +2048,13 @@
           "pos": "adj",
           "stress": "dezɔle",
           "gloss": "sorry",
-          "gram": "adjective, masculine singular"
+          "gram": "masculine singular"
         },
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2079,8 +2079,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "it is",
-          "gram": "c' (ce) + est: present, 3rd person singular"
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "urgent.",
@@ -2099,10 +2099,10 @@
         {
           "t": "Oui,",
           "lemma": "oui",
-          "pos": "interj",
+          "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "interjection / exclamation ('oui')"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "allô?",
@@ -2117,23 +2117,23 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "it",
-          "gram": "demonstrative pronoun (ça fait = it's been)"
+          "gloss": "that",
+          "gram": "demonstrative pronoun, informal"
         },
         {
           "t": "fait",
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛ",
-          "gloss": "makes (ça fait ... que = for ...)",
-          "gram": "present, 3rd person singular"
+          "gloss": "makes (ça fait... que = it's been)",
+          "gram": "present, 3rd person singular, in a time expression"
         },
         {
           "t": "des",
           "lemma": "un",
           "pos": "det",
           "stress": "de",
-          "gloss": "some",
+          "gloss": "some (often not translated)",
           "gram": "indefinite article, plural"
         },
         {
@@ -2148,9 +2148,9 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
+          "stress": "k",
           "gloss": "that",
-          "gram": "subordinating conjunction"
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "j'attends",
@@ -2187,7 +2187,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "œ̃",
-          "gloss": "a, an",
+          "gloss": "a",
           "gram": "indefinite article, masculine singular"
         },
         {
@@ -2222,35 +2222,35 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "he",
-          "gram": "subject pronoun, 3rd person masculine singular"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "a",
-          "gloss": "has",
-          "gram": "present, 3rd person singular"
+          "gloss": "is (there is)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         },
         {
           "t": "beaucoup",
           "lemma": "beaucoup",
           "pos": "adv",
           "stress": "boku",
-          "gloss": "a lot",
-          "gram": "adverb of quantity"
+          "gloss": "a lot (of)",
+          "gram": "adverb, beaucoup de = a lot of"
         },
         {
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition ('de', meaning 'of')"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "travail,",
@@ -2258,43 +2258,43 @@
           "pos": "noun",
           "stress": "tʁavaj",
           "gloss": "work",
-          "gram": "noun, masculine singular"
+          "gram": "masculine singular, after au"
         },
         {
           "t": "Cécile.",
           "lemma": "cécile",
           "pos": "name",
-          "stress": "sesil",
-          "gloss": "Cécile",
-          "gram": "proper noun ('Cécile')"
+          "stress": null,
+          "gloss": "Cécile (de France)",
+          "gram": "first name"
         }
       ]
     },
     {
       "seg": 71,
-      "trans": "Fine. Then I'll wait.",
+      "trans": "Fine. Then I",
       "words": [
         {
           "t": "Bon.",
           "lemma": "bon",
-          "pos": "interj",
+          "pos": "adj",
           "stress": "bɔ̃",
-          "gloss": "fine, okay",
-          "gram": "used as an interjection"
+          "gloss": "right, okay",
+          "gram": "discourse marker, moving on"
         },
         {
           "t": "Alors,",
           "lemma": "alors",
           "pos": "adv",
           "stress": "alɔʁ",
-          "gloss": "then, so",
+          "gloss": "then",
           "gram": "invariable adverb ('alors', meaning 'then')"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2325,16 +2325,16 @@
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "until (à tout à l'heure = see you later)",
-          "gram": "preposition ('à', meaning 'until')"
+          "gloss": "at",
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "tout",
-          "lemma": "tout",
-          "pos": "adv",
+          "lemma": "tout le monde",
+          "pos": "phrase",
           "stress": "tu",
-          "gloss": "very, just (in à tout à l'heure)",
-          "gram": "invariable adverb ('tout', meaning 'very')"
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "à",
@@ -2360,9 +2360,9 @@
       "lemma": "agent",
       "stress": "aʒɑ̃",
       "pos": "noun",
+      "gloss": "agent (for actors)",
       "gender": "m",
       "plural": "agents",
-      "gloss": "agent (for actors)",
       "meanings": [
         {
           "en": "agent",
@@ -2423,8 +2423,12 @@
           "note": "aller + infinitive: tu vas l'agacer = you're going to annoy her"
         },
         {
-          "en": "going to (+ infinitive)",
-          "note": "near future: je vais déjeuner = I'm going to have lunch"
+          "en": "aller + infinitive = going to (near future)",
+          "note": "Je vais déjeuner. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
+        },
+        {
+          "en": "allez! = come on!",
+          "note": "Imperative used to encourage. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to go'; conjugates with 'avoir' in compound tenses (past participle 'allé')."
         }
       ],
       "forms": {
@@ -2452,8 +2456,8 @@
           {
             "cells": [
               "3rd",
-              "il va",
-              "ils vont"
+              "il/elle va",
+              "ils/elles vont"
             ]
           }
         ]
@@ -2484,8 +2488,8 @@
             {
               "cells": [
                 "3rd",
-                "il est allé",
-                "ils sont allés"
+                "il/elle est allé(e)",
+                "ils/elles sont allé(e)s"
               ]
             }
           ]
@@ -2515,8 +2519,8 @@
             {
               "cells": [
                 "3rd",
-                "il allait",
-                "ils allaient"
+                "il/elle allait",
+                "ils/elles allaient"
               ]
             }
           ]
@@ -2546,8 +2550,32 @@
             {
               "cells": [
                 "3rd",
-                "il ira",
-                "ils iront"
+                "il/elle ira",
+                "ils/elles iront"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "allons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "va",
+                "allez"
               ]
             }
           ]
@@ -2555,16 +2583,16 @@
       ],
       "examples": [
         {
-          "text": "Je vais déjeuner.",
-          "trans": "I'm going to lunch."
+          "text": "Je vais déjeuner deux fois.",
+          "trans": "I'm going to have lunch twice."
         },
         {
-          "text": "On va à l'agence.",
-          "trans": "We're going to the agency."
+          "text": "Allez, au travail!",
+          "trans": "Come on, to work!"
         },
         {
-          "text": "Ça va?",
-          "trans": "How are you?"
+          "text": "Ça va aller.",
+          "trans": "It'll be fine."
         }
       ],
       "related": [
@@ -2616,27 +2644,31 @@
       "lemma": "alors",
       "stress": "alɔʁ",
       "pos": "adv",
-      "gloss": "so, then",
+      "gloss": "then, so",
       "meanings": [
         {
-          "en": "so, then",
-          "note": "To draw a conclusion or move on. Invariable French adverb meaning 'so'; placed immediately after the conjugated verb in simple tenses."
+          "en": "then, in that case",
+          "note": "Jeudi, alors. Invariable French adverb meaning 'then'; placed immediately after the conjugated verb in simple tenses."
+        },
+        {
+          "en": "so",
+          "note": "Invariable French adverb meaning 'then'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Alors, je vais attendre.",
-          "trans": "Then I'll wait."
-        },
-        {
-          "text": "Alors, ça va?",
-          "trans": "So, how are you?"
-        },
-        {
           "text": "Jeudi, alors.",
           "trans": "Thursday, then."
+        },
+        {
+          "text": "Alors, tu viens?",
+          "trans": "So, are you coming?"
+        },
+        {
+          "text": "Alors, je vais attendre.",
+          "trans": "Then I'll wait."
         }
       ],
       "related": [
@@ -2654,16 +2686,16 @@
       "lemma": "appel",
       "stress": "apɛl",
       "pos": "noun",
+      "gloss": "call",
       "gender": "m",
       "plural": "appels",
-      "gloss": "call",
       "meanings": [
         {
           "en": "phone call",
           "note": "Un appel de Rio = a call from Rio. Masculine noun ('le appel', plural 'les appels') inherited through Romance vocabulary, used in everyday and professional French for 'call'."
         },
         {
-          "en": "call, appeal",
+          "en": "appeal",
           "note": "Masculine noun ('le appel', plural 'les appels') inherited through Romance vocabulary, used in everyday and professional French for 'call'."
         }
       ],
@@ -2687,16 +2719,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "J'attends ton appel.",
-          "trans": "I'm waiting for your call."
-        },
-        {
-          "text": "Un appel urgent!",
-          "trans": "An urgent call!"
-        },
-        {
           "text": "On attend l'appel.",
           "trans": "We're waiting for the call."
+        },
+        {
+          "text": "J'ai un appel.",
+          "trans": "I've got a call."
+        },
+        {
+          "text": "Rien n'est signé. On attend l'appel.",
+          "trans": "Nothing is signed. We're waiting for the call."
         }
       ],
       "related": [
@@ -2710,15 +2742,15 @@
       "lemma": "attendre",
       "stress": "atɑ̃dʁ",
       "pos": "verb",
-      "gloss": "to wait (for)",
+      "gloss": "to wait (for); to expect",
       "meanings": [
         {
           "en": "to wait for",
-          "note": "no preposition: attendre un appel = to wait for a call"
+          "note": "No preposition: attendre quelqu'un. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to wait (for); to expect'."
         },
         {
-          "en": "to expect",
-          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to wait (for)'."
+          "en": "to expect (a visitor)",
+          "note": "Il vous attend?. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to wait (for); to expect'."
         }
       ],
       "forms": {
@@ -2746,8 +2778,8 @@
           {
             "cells": [
               "3rd",
-              "il attend",
-              "ils attendent"
+              "il/elle attend",
+              "ils/elles attendent"
             ]
           }
         ]
@@ -2778,8 +2810,8 @@
             {
               "cells": [
                 "3rd",
-                "il a attendu",
-                "ils ont attendu"
+                "il/elle a attendu",
+                "ils/elles ont attendu"
               ]
             }
           ]
@@ -2809,8 +2841,8 @@
             {
               "cells": [
                 "3rd",
-                "il attendait",
-                "ils attendaient"
+                "il/elle attendait",
+                "ils/elles attendaient"
               ]
             }
           ]
@@ -2840,8 +2872,32 @@
             {
               "cells": [
                 "3rd",
-                "il attendra",
-                "ils attendront"
+                "il/elle attendra",
+                "ils/elles attendront"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "attendons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "attends",
+                "attendez"
               ]
             }
           ]
@@ -2857,8 +2913,8 @@
           "trans": "We are waiting for a very important call from Los Angeles."
         },
         {
-          "text": "J'attends ton appel.",
-          "trans": "I'm waiting for your call."
+          "text": "On attend l'appel.",
+          "trans": "We're waiting for the call."
         }
       ],
       "related": [
@@ -2883,16 +2939,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Tu veux venir avec moi?",
-          "trans": "Do you want to come with me?"
+          "text": "Tu déjeunes avec Audiard.",
+          "trans": "You're having lunch with Audiard."
         },
         {
           "text": "Avec plaisir!",
           "trans": "With pleasure!"
         },
         {
-          "text": "Tu déjeunes avec Audiard.",
-          "trans": "You're having lunch with Audiard."
+          "text": "Et demain, tu déjeunes avec Audiard.",
+          "trans": "And tomorrow you're having lunch with Audiard."
         }
       ],
       "related": [
@@ -2913,8 +2969,12 @@
           "note": "avoir peur = to be afraid, avoir raison = to be right, avoir 40 ans = to be 40"
         },
         {
-          "en": "used in expressions",
-          "note": "avoir peur = to be afraid; il y a = there is"
+          "en": "helper verb of the passé composé",
+          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+        },
+        {
+          "en": "il y a = there is, there are",
+          "note": "Fixed expression. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
         }
       ],
       "forms": {
@@ -2942,8 +3002,8 @@
           {
             "cells": [
               "3rd",
-              "il a",
-              "ils ont"
+              "il/elle a",
+              "ils/elles ont"
             ]
           }
         ]
@@ -2974,8 +3034,8 @@
             {
               "cells": [
                 "3rd",
-                "il a eu",
-                "ils ont eu"
+                "il/elle a eu",
+                "ils/elles ont eu"
               ]
             }
           ]
@@ -3005,8 +3065,8 @@
             {
               "cells": [
                 "3rd",
-                "il avait",
-                "ils avaient"
+                "il/elle avait",
+                "ils/elles avaient"
               ]
             }
           ]
@@ -3036,8 +3096,32 @@
             {
               "cells": [
                 "3rd",
-                "il aura",
-                "ils auront"
+                "il/elle aura",
+                "ils/elles auront"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "ayons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "aie",
+                "ayez"
               ]
             }
           ]
@@ -3045,16 +3129,16 @@
       ],
       "examples": [
         {
-          "text": "J'ai un agent.",
-          "trans": "I have an agent."
+          "text": "J'ai un petit loft.",
+          "trans": "I've got a little loft."
         },
         {
-          "text": "Elle a peur.",
-          "trans": "She's scared."
+          "text": "Tu as une réunion.",
+          "trans": "You have a meeting."
         },
         {
-          "text": "Ils ont beaucoup de travail.",
-          "trans": "They have a lot of work."
+          "text": "Elle a quarante ans.",
+          "trans": "She is forty."
         }
       ],
       "related": [
@@ -3068,27 +3152,31 @@
       "lemma": "beaucoup",
       "stress": "boku",
       "pos": "adv",
-      "gloss": "a lot, much",
+      "gloss": "a lot, many, much",
       "meanings": [
         {
-          "en": "a lot, much, many",
+          "en": "a lot, very much",
           "note": "beaucoup de + noun, with no article: beaucoup de travail"
+        },
+        {
+          "en": "beaucoup de = a lot of, many",
+          "note": "Invariable French adverb meaning 'a lot'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Il a beaucoup de travail.",
-          "trans": "He has a lot of work."
+          "text": "Tu connais beaucoup de monde.",
+          "trans": "You know a lot of people."
         },
         {
           "text": "Merci beaucoup!",
           "trans": "Thank you very much!"
         },
         {
-          "text": "Tu connais beaucoup de monde.",
-          "trans": "You know a lot of people."
+          "text": "Tu connais beaucoup de monde dans le cinéma. Tu pourrais m'aider.",
+          "trans": "You know lots of people in film. You could help me."
         }
       ],
       "related": [
@@ -3175,23 +3263,23 @@
       "meanings": [
         {
           "en": "hello, good morning, good afternoon",
-          "note": "the standard greeting until the evening"
+          "note": "the standard greeting until evening"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Bonjour, je suis Camille!",
-          "trans": "Hello, I'm Camille!"
-        },
-        {
-          "text": "Bonjour, Cécile.",
-          "trans": "Hello, Cécile."
-        },
-        {
           "text": "Bonjour, Camille.",
           "trans": "Hello, Camille."
+        },
+        {
+          "text": "Bonjour tout le monde!",
+          "trans": "Hello everyone!"
+        },
+        {
+          "text": "Bonjour! Salut, Mathias.",
+          "trans": "Morning! Hi, Mathias."
         }
       ],
       "related": [
@@ -3205,27 +3293,31 @@
       "lemma": "dans",
       "stress": "dɑ̃",
       "pos": "prep",
-      "gloss": "in",
+      "gloss": "in, inside; in (time)",
       "meanings": [
         {
           "en": "in, inside",
           "note": "J'étais dans les sous-vêtements. Core French preposition meaning 'in', linking a noun phrase or infinitive complement to the clause."
+        },
+        {
+          "en": "in (time from now)",
+          "note": "Dans une heure = in an hour. Core French preposition meaning 'in', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "C'est dans ma tête.",
-          "trans": "It's in my head."
-        },
-        {
-          "text": "Elle est dans l'ascenseur.",
-          "trans": "She's in the lift."
-        },
-        {
           "text": "Dans une heure.",
           "trans": "In an hour."
+        },
+        {
+          "text": "Dans le cinéma.",
+          "trans": "In the film business."
+        },
+        {
+          "text": "Tu connais beaucoup de monde dans le cinéma. Tu pourrais m'aider.",
+          "trans": "You know lots of people in film. You could help me."
         }
       ],
       "related": [
@@ -3245,41 +3337,37 @@
     },
     "de": {
       "lemma": "de",
-      "stress": "də",
+      "stress": "d",
       "pos": "prep",
-      "gloss": "of; from",
+      "gloss": "of, from; some",
       "meanings": [
         {
-          "en": "of",
-          "note": "possession: l'assistante de Mathias"
+          "en": "of, from",
+          "note": "D' before a vowel. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
         },
         {
-          "en": "from",
-          "note": "Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "en": "'s (possession)",
+          "note": "le film de Tarantino = Tarantino's film"
         },
         {
-          "en": "some / any (after a negative or quantity)",
-          "note": "Pas de film, beaucoup de travail. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
-        },
-        {
-          "en": "des = de + les",
-          "note": "Of the. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "en": "du = de + le",
+          "note": "Also 'some': du sucre. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "L'assistante de Mathias.",
-          "trans": "Mathias's assistant."
-        },
-        {
-          "text": "Il a beaucoup de travail.",
-          "trans": "He has a lot of work."
-        },
-        {
           "text": "Le film de Kechiche.",
           "trans": "The Kechiche film."
+        },
+        {
+          "text": "C'est du sucre.",
+          "trans": "It's sugar."
+        },
+        {
+          "text": "Pleine de requins.",
+          "trans": "Full of sharks."
         }
       ],
       "related": [
@@ -3295,17 +3383,17 @@
     },
     "devoir": {
       "lemma": "devoir",
-      "stress": "dəvwaʁ",
+      "stress": "dvwaʁ",
       "pos": "verb",
-      "gloss": "to have to, must",
+      "gloss": "must, to have to",
       "meanings": [
         {
           "en": "must, to have to",
-          "note": "+ infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have to, must'."
+          "note": "+ infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'must, to have to'."
         },
         {
           "en": "to owe",
-          "note": "Devoir de l'argent. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have to, must'."
+          "note": "French '-ir' verb (from Latin '-ire'). Core French verb meaning 'must, to have to'."
         }
       ],
       "forms": {
@@ -3333,8 +3421,8 @@
           {
             "cells": [
               "3rd",
-              "il doit",
-              "ils doivent"
+              "il/elle doit",
+              "ils/elles doivent"
             ]
           }
         ]
@@ -3365,8 +3453,8 @@
             {
               "cells": [
                 "3rd",
-                "il a dû",
-                "ils ont dû"
+                "il/elle a dû",
+                "ils/elles ont dû"
               ]
             }
           ]
@@ -3396,8 +3484,8 @@
             {
               "cells": [
                 "3rd",
-                "il devait",
-                "ils devaient"
+                "il/elle devait",
+                "ils/elles devaient"
               ]
             }
           ]
@@ -3427,8 +3515,8 @@
             {
               "cells": [
                 "3rd",
-                "il devra",
-                "ils devront"
+                "il/elle devra",
+                "ils/elles devront"
               ]
             }
           ]
@@ -3436,16 +3524,16 @@
       ],
       "examples": [
         {
-          "text": "Je dois répondre.",
-          "trans": "I have to answer."
-        },
-        {
-          "text": "Tu dois partir?",
-          "trans": "Do you have to leave?"
-        },
-        {
           "text": "Je dois voir la pièce.",
           "trans": "I have to see the play."
+        },
+        {
+          "text": "Tu dois appeler Cécile.",
+          "trans": "You have to call Cécile."
+        },
+        {
+          "text": "Magali, je dois voir la pièce de Koltès cette semaine.",
+          "trans": "Magali, I have to see the Koltès play this week."
         }
       ],
       "related": [
@@ -3468,6 +3556,10 @@
         {
           "en": "to have lunch",
           "note": "Le déjeuner = lunch (noun). Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to have lunch'; conjugates with 'avoir' in compound tenses (past participle 'déjeuné')."
+        },
+        {
+          "en": "le déjeuner = lunch",
+          "note": "Also a noun. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to have lunch'; conjugates with 'avoir' in compound tenses (past participle 'déjeuné')."
         }
       ],
       "forms": {
@@ -3495,8 +3587,8 @@
           {
             "cells": [
               "3rd",
-              "il déjeune",
-              "ils déjeunent"
+              "il/elle déjeune",
+              "ils/elles déjeunent"
             ]
           }
         ]
@@ -3527,8 +3619,8 @@
             {
               "cells": [
                 "3rd",
-                "il a déjeuné",
-                "ils ont déjeuné"
+                "il/elle a déjeuné",
+                "ils/elles ont déjeuné"
               ]
             }
           ]
@@ -3558,8 +3650,8 @@
             {
               "cells": [
                 "3rd",
-                "il déjeunait",
-                "ils déjeunaient"
+                "il/elle déjeunait",
+                "ils/elles déjeunaient"
               ]
             }
           ]
@@ -3589,8 +3681,8 @@
             {
               "cells": [
                 "3rd",
-                "il déjeunera",
-                "ils déjeuneront"
+                "il/elle déjeunera",
+                "ils/elles déjeuneront"
               ]
             }
           ]
@@ -3598,16 +3690,16 @@
       ],
       "examples": [
         {
-          "text": "Je vais déjeuner.",
-          "trans": "I'm going to have lunch."
-        },
-        {
-          "text": "On déjeune ensemble?",
-          "trans": "Shall we have lunch together?"
-        },
-        {
           "text": "Tu déjeunes avec Dany Boon.",
           "trans": "You're having lunch with Dany Boon."
+        },
+        {
+          "text": "On déjeune à midi?",
+          "trans": "Shall we have lunch at noon?"
+        },
+        {
+          "text": "Et demain, tu déjeunes avec Audiard.",
+          "trans": "And tomorrow you're having lunch with Audiard."
         }
       ],
       "related": [
@@ -3625,7 +3717,7 @@
       "meanings": [
         {
           "en": "sorry",
-          "note": "Je suis désolé(e) = I'm sorry. Prefix 'dé-'/'des-' (from Latin 'dis-'/'de-') marks reversal, removal, or separation."
+          "note": "je suis désolé(e) = I'm sorry; désolé! alone also works"
         }
       ],
       "forms": {
@@ -3655,16 +3747,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Je suis désolé.",
-          "trans": "I'm sorry."
-        },
-        {
-          "text": "Désolée, je suis en retard.",
-          "trans": "Sorry, I'm late."
-        },
-        {
           "text": "Je suis désolée.",
           "trans": "I'm sorry. (a woman speaking)"
+        },
+        {
+          "text": "Désolé, c'est tout.",
+          "trans": "Sorry, that's all. (a man speaking)"
+        },
+        {
+          "text": "Je suis désolée. Vraiment désolée.",
+          "trans": "I'm sorry. Really sorry."
         }
       ],
       "related": [
@@ -3727,8 +3819,16 @@
           "note": "for (duration): ça fait des mois que j'attends = I've been waiting for months"
         },
         {
-          "en": "ça fait + time + que",
-          "note": "for (duration): ça fait des mois que j'attends = I've been waiting for months"
+          "en": "faire confiance à = to trust",
+          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+        },
+        {
+          "en": "faire la surprise à = to surprise",
+          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+        },
+        {
+          "en": "ça fait trois semaines que = it's been three weeks since",
+          "note": "With time. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
         }
       ],
       "forms": {
@@ -3756,8 +3856,8 @@
           {
             "cells": [
               "3rd",
-              "il fait",
-              "ils font"
+              "il/elle fait",
+              "ils/elles font"
             ]
           }
         ]
@@ -3788,8 +3888,8 @@
             {
               "cells": [
                 "3rd",
-                "il a fait",
-                "ils ont fait"
+                "il/elle a fait",
+                "ils/elles ont fait"
               ]
             }
           ]
@@ -3819,8 +3919,8 @@
             {
               "cells": [
                 "3rd",
-                "il faisait",
-                "ils faisaient"
+                "il/elle faisait",
+                "ils/elles faisaient"
               ]
             }
           ]
@@ -3850,8 +3950,8 @@
             {
               "cells": [
                 "3rd",
-                "il fera",
-                "ils feront"
+                "il/elle fera",
+                "ils/elles feront"
               ]
             }
           ]
@@ -3863,12 +3963,12 @@
           "trans": "What are you doing?"
         },
         {
-          "text": "Ça fait une heure que j'attends.",
-          "trans": "I've been waiting for an hour."
-        },
-        {
           "text": "Je peux vous faire confiance?",
           "trans": "Can I trust you?"
+        },
+        {
+          "text": "Ça fait une heure que j'attends.",
+          "trans": "I've been waiting for an hour."
         }
       ],
       "related": [
@@ -3882,21 +3982,17 @@
       "lemma": "heure",
       "stress": "œʁ",
       "pos": "noun",
+      "gloss": "hour; o'clock",
       "gender": "f",
       "plural": "heures",
-      "gloss": "hour; o'clock; time",
       "meanings": [
         {
           "en": "hour",
-          "note": "quelle heure est-il? = what time is it?"
+          "note": "Dans une heure = in an hour. Feminine noun ('la heure', plural 'les heures') inherited through Romance vocabulary, used in everyday and professional French for 'hour'."
         },
         {
           "en": "o'clock",
-          "note": "il est une heure = it's one o'clock"
-        },
-        {
-          "en": "à tout à l'heure = see you later",
-          "note": "Later the same day. Feminine noun ('la heure', plural 'les heures') inherited through Romance vocabulary, used in everyday and professional French for 'hour'."
+          "note": "À quatorze heures = at two pm. Feminine noun ('la heure', plural 'les heures') inherited through Romance vocabulary, used in everyday and professional French for 'hour'."
         }
       ],
       "forms": {
@@ -3919,16 +4015,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Il est une heure.",
-          "trans": "It's one o'clock."
-        },
-        {
-          "text": "À tout à l'heure!",
-          "trans": "See you later!"
-        },
-        {
           "text": "Dans une heure.",
           "trans": "In an hour."
+        },
+        {
+          "text": "À onze heures.",
+          "trans": "At eleven o'clock."
+        },
+        {
+          "text": "L'un à midi, l'autre à quatorze heures. Je vais déjeuner deux fois.",
+          "trans": "One at noon, the other at two. I'm going to have lunch twice."
         }
       ],
       "related": [
@@ -3957,16 +4053,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Cécile est ici?",
-          "trans": "Cécile is here?"
-        },
-        {
-          "text": "Je vais attendre ici.",
-          "trans": "I'll wait here."
-        },
-        {
           "text": "C'est sympa ici.",
           "trans": "It's nice here."
+        },
+        {
+          "text": "Laissez vos photos ici.",
+          "trans": "Leave your photos here."
+        },
+        {
+          "text": "Laissez vos photos et votre CV ici.",
+          "trans": "Leave your photos and your CV here."
         }
       ],
       "related": [
@@ -3987,34 +4083,72 @@
       "gloss": "he, it",
       "meanings": [
         {
-          "en": "he, it",
-          "note": "plural ils = they (masculine or mixed)"
+          "en": "he",
+          "note": "for masculine nouns, and in impersonal phrases: il y a"
         },
         {
-          "en": "it (impersonal)",
-          "note": "Il est une heure. High-frequency French pronoun meaning 'he'; clitic object forms precede the conjugated verb."
+          "en": "it",
+          "note": "Also in fixed phrases: il y a. High-frequency French pronoun meaning 'he'; clitic object forms precede the conjugated verb."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Il est très sympa.",
-          "trans": "He's very nice."
-        },
-        {
-          "text": "Ils sont adorables.",
-          "trans": "They're lovely."
-        },
-        {
           "text": "Il me connaît.",
           "trans": "He knows me."
+        },
+        {
+          "text": "Il vous attend?",
+          "trans": "Is he expecting you?"
+        },
+        {
+          "text": "Camille Valentini. Il me connaît.",
+          "trans": "Camille Valentini. He knows me."
         }
       ],
       "related": [
         {
-          "word": "plural ils",
-          "gloss": "they (masculine or mixed)"
+          "word": "il",
+          "gloss": "he"
+        }
+      ]
+    },
+    "il y a": {
+      "lemma": "il y a",
+      "stress": "ilija",
+      "pos": "phrase",
+      "gloss": "there is, there are",
+      "meanings": [
+        {
+          "en": "there is, there are",
+          "note": "Never changes for plural. Spoken French phrase expression meaning 'there is', common in natural conversation."
+        },
+        {
+          "en": "ago",
+          "note": "il y a trois semaines = three weeks ago"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Il y a une autre Clémentine?",
+          "trans": "Is there another Clémentine?"
+        },
+        {
+          "text": "Il y a une réunion.",
+          "trans": "There's a meeting."
+        },
+        {
+          "text": "Non, c'est la place de Samuel. Il est mort il y a six jours.",
+          "trans": "No, it's Samuel's place. He died six days ago."
+        }
+      ],
+      "related": [
+        {
+          "word": "il y a",
+          "gloss": "there is"
         }
       ]
     },
@@ -4022,9 +4156,9 @@
       "lemma": "impression",
       "stress": "ɛ̃pʁesjɔ̃",
       "pos": "noun",
+      "gloss": "impression, feeling",
       "gender": "f",
       "plural": "impressions",
-      "gloss": "impression, feeling",
       "meanings": [
         {
           "en": "impression, feeling",
@@ -4072,29 +4206,29 @@
     },
     "je": {
       "lemma": "je",
-      "stress": "ʒə",
+      "stress": "ʒ",
       "pos": "pron",
       "gloss": "I",
       "meanings": [
         {
           "en": "I",
-          "note": "J' before a vowel: j'ai. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
+          "note": "J' before a vowel. High-frequency French pronoun meaning 'I'; clitic object forms precede the conjugated verb."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Je suis Camille.",
-          "trans": "I'm Camille."
-        },
-        {
-          "text": "J'ai un agent.",
-          "trans": "I have an agent."
-        },
-        {
           "text": "Je suis désolée.",
           "trans": "I'm sorry."
+        },
+        {
+          "text": "J'ai un loft.",
+          "trans": "I've got a loft."
+        },
+        {
+          "text": "Gabriel! Je suis à mon cours d'équitation.",
+          "trans": "Gabriel! I'm at my horse-riding lesson."
         }
       ],
       "related": [
@@ -4111,28 +4245,28 @@
       "gloss": "there; here",
       "meanings": [
         {
-          "en": "there",
-          "note": "in speech: elle est là = she's here; je suis là = I'm here"
+          "en": "here",
+          "note": "être là = to be here, to be present"
         },
         {
-          "en": "here",
-          "note": "in speech: elle est là = she's here; je suis là = I'm here"
+          "en": "there",
+          "note": "Invariable French adverb meaning 'there'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Cécile est là!",
-          "trans": "Cécile's here!"
-        },
-        {
-          "text": "Je suis là pour voir Gabriel.",
-          "trans": "I'm here to see Gabriel."
-        },
-        {
           "text": "Tout le monde est là.",
           "trans": "Everyone is here."
+        },
+        {
+          "text": "Camille est là.",
+          "trans": "Camille is here."
+        },
+        {
+          "text": "On est au Westin. Tout le monde est là.",
+          "trans": "We're at the Westin. Everyone is here."
         }
       ],
       "related": [
@@ -4161,16 +4295,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Pas maintenant!",
-          "trans": "Not now!"
-        },
-        {
-          "text": "Maintenant, je vous montre le bureau.",
-          "trans": "Now I'll show you the office."
-        },
-        {
           "text": "Tu peux commencer maintenant?",
           "trans": "Can you start now?"
+        },
+        {
+          "text": "Je pars maintenant.",
+          "trans": "I'm leaving now."
+        },
+        {
+          "text": "Très bien. Tu peux commencer maintenant?",
+          "trans": "Very good. Can you start now?"
         }
       ],
       "related": [
@@ -4199,16 +4333,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Mais c'est stupide!",
-          "trans": "But it's stupid!"
-        },
-        {
-          "text": "Il est sympa, mais horrible.",
-          "trans": "He's nice, but horrible."
-        },
-        {
           "text": "Non, mais c'est important.",
           "trans": "No, but it's important."
+        },
+        {
+          "text": "Mais pourquoi?",
+          "trans": "But why?"
+        },
+        {
+          "text": "Mon père, mais c'est compliqué.",
+          "trans": "My dad, but it's complicated."
         }
       ],
       "related": [
@@ -4226,27 +4360,23 @@
       "meanings": [
         {
           "en": "me",
-          "note": "After a preposition: avec moi. High-frequency French pronoun meaning 'me'; clitic object forms precede the conjugated verb."
-        },
-        {
-          "en": "me, I (stressed)",
-          "note": "Moi aussi = me too. High-frequency French pronoun meaning 'me'; clitic object forms precede the conjugated verb."
+          "note": "Stressed form: pour moi, avec moi. High-frequency French pronoun meaning 'me'; clitic object forms precede the conjugated verb."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Tu viens avec moi?",
-          "trans": "Are you coming with me?"
-        },
-        {
-          "text": "Moi aussi.",
-          "trans": "Me too."
-        },
-        {
           "text": "C'est comme un rêve pour moi.",
           "trans": "It's like a dream for me."
+        },
+        {
+          "text": "Et moi?",
+          "trans": "And me?"
+        },
+        {
+          "text": "C'est moi qui te vire!",
+          "trans": "I'm the one firing you!"
         }
       ],
       "related": [
@@ -4260,9 +4390,9 @@
       "lemma": "mois",
       "stress": "mwa",
       "pos": "noun",
+      "gloss": "month",
       "gender": "m",
       "plural": "mois",
-      "gloss": "month",
       "meanings": [
         {
           "en": "month",
@@ -4316,7 +4446,7 @@
       "meanings": [
         {
           "en": "my",
-          "note": "Agrees with the thing owned. Spoken French det expression meaning 'my', common in natural conversation."
+          "note": "ma before a feminine noun, mon before a vowel"
         }
       ],
       "forms": {
@@ -4331,7 +4461,7 @@
             "cells": [
               "sg",
               "mon",
-              "ma"
+              "ma (mon)"
             ]
           },
           {
@@ -4346,16 +4476,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "C'est dans ma tête.",
-          "trans": "It's in my head."
-        },
-        {
-          "text": "Mon agent est là.",
-          "trans": "My agent is here."
-        },
-        {
           "text": "Je suis à mon cours.",
           "trans": "I'm at my lesson."
+        },
+        {
+          "text": "C'est ma place.",
+          "trans": "It's my seat."
+        },
+        {
+          "text": "Gabriel! Je suis à mon cours d'équitation.",
+          "trans": "Gabriel! I'm at my horse-riding lesson."
         }
       ],
       "related": [
@@ -4369,27 +4499,27 @@
       "lemma": "oh",
       "stress": "o",
       "pos": "interj",
-      "gloss": "oh (surprise)",
+      "gloss": "oh (surprise, dismay)",
       "meanings": [
         {
           "en": "oh",
-          "note": "Surprise. Spoken French interj expression meaning 'oh', common in natural conversation."
+          "note": "Surprise or dismay. Spoken French interj expression meaning 'oh', common in natural conversation."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Oh! Bonjour, Cécile.",
-          "trans": "Oh! Hello, Cécile."
-        },
-        {
-          "text": "Oh, pardon!",
-          "trans": "Oh, sorry!"
-        },
-        {
           "text": "Oh non!",
           "trans": "Oh no!"
+        },
+        {
+          "text": "Oh, merci!",
+          "trans": "Oh, thank you!"
+        },
+        {
+          "text": "Oh non! Je suis en retard.",
+          "trans": "Oh no! I'm late."
         }
       ],
       "related": [
@@ -4402,28 +4532,28 @@
     "oui": {
       "lemma": "oui",
       "stress": "wi",
-      "pos": "interj",
+      "pos": "adv",
       "gloss": "yes",
       "meanings": [
         {
           "en": "yes",
-          "note": "Spoken French interj expression meaning 'yes', common in natural conversation."
+          "note": "Invariable French adverb meaning 'yes'; placed immediately after the conjugated verb in simple tenses."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Oui, pourquoi?",
-          "trans": "Yes, why?"
-        },
-        {
-          "text": "Oui, allô?",
-          "trans": "Yes, hello?"
-        },
-        {
           "text": "Oui, oui.",
           "trans": "Yes, yes."
+        },
+        {
+          "text": "Oui, je sais.",
+          "trans": "Yes, I know."
+        },
+        {
+          "text": "Oui, oui. J'ai juste besoin d'un petit cours.",
+          "trans": "Yes, yes. I just need a little lesson."
         }
       ],
       "related": [
@@ -4445,27 +4575,23 @@
       "meanings": [
         {
           "en": "not",
-          "note": "with ne before the verb: ne lit pas; alone in quick speech: pas maintenant, pas difficile"
-        },
-        {
-          "en": "no (with de)",
-          "note": "Pas de film = no film. Spoken French part expression meaning 'not', common in natural conversation."
+          "note": "second half of ne... pas; in speech ne is often dropped"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Pas maintenant!",
-          "trans": "Not now!"
-        },
-        {
-          "text": "Andréa ne lit pas?",
-          "trans": "Andréa doesn't read?"
-        },
-        {
           "text": "Je ne suis pas actrice.",
           "trans": "I'm not an actress."
+        },
+        {
+          "text": "Pas maintenant.",
+          "trans": "Not now."
+        },
+        {
+          "text": "Tarantino ne prendra pas Cécile. Problème d'âge.",
+          "trans": "Tarantino won't take Cécile. A problem with her age."
         }
       ],
       "related": [
@@ -4480,6 +4606,7 @@
       "stress": "pase",
       "pos": "verb",
       "gloss": "to pass; (se passer) to happen",
+      "governs": "se passer (with être in the passé composé: ça s'est passé)",
       "meanings": [
         {
           "en": "to pass, to go by",
@@ -4634,7 +4761,6 @@
           "trans": "Gabriel? What's going on here?"
         }
       ],
-      "governs": "se passer (with être in the passé composé: ça s'est passé)",
       "related": [
         {
           "word": "passé",
@@ -4688,7 +4814,7 @@
       "lemma": "pour",
       "stress": "puʁ",
       "pos": "prep",
-      "gloss": "for; to, in order to",
+      "gloss": "for; (in order) to",
       "meanings": [
         {
           "en": "for",
@@ -4696,23 +4822,23 @@
         },
         {
           "en": "to, in order to",
-          "note": "+ infinitive: pour voir = to see. Core French preposition meaning 'for', linking a noun phrase or infinitive complement to the clause."
+          "note": "+ infinitive: pour voir. Core French preposition meaning 'for', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Je suis là pour voir Gabriel.",
-          "trans": "I'm here to see Gabriel."
-        },
-        {
-          "text": "Trop vieille pour le rôle.",
-          "trans": "Too old for the part."
-        },
-        {
           "text": "Deux places pour mardi.",
           "trans": "Two tickets for Tuesday."
+        },
+        {
+          "text": "Je suis là pour voir Mathias.",
+          "trans": "I'm here to see Mathias."
+        },
+        {
+          "text": "C'est comme un rêve pour moi.",
+          "trans": "It's like a dream for me."
         }
       ],
       "related": [
@@ -4753,8 +4879,8 @@
           "trans": "I finally understand why she turned down that film."
         },
         {
-          "text": "Pourquoi il m'évite?",
-          "trans": "Why is he avoiding me?"
+          "text": "Pourquoi tu n'as pas appelé?",
+          "trans": "Why didn't you call?"
         }
       ],
       "related": [
@@ -4769,6 +4895,40 @@
         {
           "word": "pour de vrai",
           "gloss": "for real"
+        }
+      ]
+    },
+    "qu'est-ce que": {
+      "lemma": "qu'est-ce que",
+      "stress": "kɛsk",
+      "pos": "phrase",
+      "gloss": "what (in questions)",
+      "meanings": [
+        {
+          "en": "what",
+          "note": "starts a question: qu'est-ce que tu fais? = what are you doing?"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Qu'est-ce que je lui dis?",
+          "trans": "What do I tell her?"
+        },
+        {
+          "text": "Qu'est-ce que tu fais à Paris?",
+          "trans": "What are you doing in Paris?"
+        },
+        {
+          "text": "Qu'est-ce que tu fais à Paris? Tu es en vacances?",
+          "trans": "What are you doing in Paris? Are you on holiday?"
+        }
+      ],
+      "related": [
+        {
+          "word": "qu'est-ce qui",
+          "gloss": "what"
         }
       ]
     },
@@ -4808,33 +4968,41 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "kə",
+      "stress": "k",
       "pos": "conj",
-      "gloss": "that",
+      "gloss": "that; than; only (ne...que)",
       "meanings": [
         {
           "en": "that",
-          "note": "linking two parts of a sentence: ils disent que... = they say that...; qu' before a vowel"
+          "note": "Joins two parts: dis-lui que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
         },
         {
-          "en": "what",
-          "note": "In questions. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+          "en": "which, that",
+          "note": "Relative: tout ce que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+        },
+        {
+          "en": "only",
+          "note": "With ne: ne... que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
+        },
+        {
+          "en": "since",
+          "note": "Ça fait trois semaines que. French conjunction meaning 'that', used to link clauses in spoken and written discourse."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Ils disent que vous êtes trop vieille.",
-          "trans": "They say you're too old."
-        },
-        {
-          "text": "J'ai l'impression que Gabriel m'évite.",
-          "trans": "I have the feeling Gabriel is avoiding me."
-        },
-        {
           "text": "Dis-lui que je ne peux pas venir.",
           "trans": "Tell her I can't come."
+        },
+        {
+          "text": "Je n'ai que deux places.",
+          "trans": "I've only got two tickets."
+        },
+        {
+          "text": "Appelle Clémentine. Dis-lui que je ne peux pas venir ce soir.",
+          "trans": "Call Clémentine. Tell her I can't come tonight."
         }
       ],
       "related": [
@@ -4844,11 +5012,50 @@
         }
       ]
     },
+    "qui": {
+      "lemma": "qui",
+      "stress": "ki",
+      "pos": "pron",
+      "gloss": "who; which, that",
+      "meanings": [
+        {
+          "en": "who (relative)",
+          "note": "c'est moi qui... = I'm the one who..."
+        },
+        {
+          "en": "who? (question)",
+          "note": "Qui parle?. High-frequency French pronoun meaning 'who'; clitic object forms precede the conjugated verb."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "C'est moi qui t'ai formée!",
+          "trans": "I'm the one who trained you!"
+        },
+        {
+          "text": "Qui est là?",
+          "trans": "Who's there?"
+        },
+        {
+          "text": "Tu ne pars pas. C'est moi qui te vire!",
+          "trans": "You're not leaving. I'm the one firing you!"
+        }
+      ],
+      "related": [
+        {
+          "word": "c'est moi qui...",
+          "gloss": "I'm the one who..."
+        }
+      ]
+    },
     "répondre": {
       "lemma": "répondre",
       "stress": "ʁepɔ̃dʁ",
       "pos": "verb",
       "gloss": "to answer",
+      "governs": "à quelqu'un",
       "meanings": [
         {
           "en": "to answer, to reply",
@@ -4999,7 +5206,6 @@
           "trans": "I'm sorry. I have to answer, it's urgent."
         }
       ],
-      "governs": "à quelqu'un",
       "related": [
         {
           "word": "réponse",
@@ -5009,35 +5215,202 @@
     },
     "se": {
       "lemma": "se",
-      "stress": "sə",
+      "stress": "s",
       "pos": "pron",
-      "gloss": "oneself, itself",
+      "gloss": "oneself, itself (reflexive)",
       "meanings": [
         {
-          "en": "itself, himself, herself, themselves",
-          "note": "reflexive pronoun: se passer = to happen"
+          "en": "reflexive pronoun",
+          "note": "part of verbs like se passer, s'occuper; s' before a vowel"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Qu'est-ce qui se passe?",
-          "trans": "What's happening?"
-        },
-        {
-          "text": "Il se lève.",
-          "trans": "He gets up."
-        },
-        {
           "text": "Ça se passe bien.",
           "trans": "It's going well."
+        },
+        {
+          "text": "Il s'occupe de tout.",
+          "trans": "He takes care of everything."
+        },
+        {
+          "text": "Ça ne se passe pas bien?",
+          "trans": "It's not going well?"
         }
       ],
       "related": [
         {
-          "word": "reflexive pronoun: se passer",
-          "gloss": "to happen"
+          "word": "se",
+          "gloss": "oneself"
+        }
+      ]
+    },
+    "se passer": {
+      "lemma": "se passer",
+      "stress": "spase",
+      "pos": "verb",
+      "gloss": "to happen, to go (well/badly)",
+      "governs": "mostly used with ça or il as subject",
+      "meanings": [
+        {
+          "en": "to happen",
+          "note": "qu'est-ce qui se passe? = what's happening?"
+        },
+        {
+          "en": "to go (well, badly)",
+          "note": "Ça se passe bien = it's going well. Regular first-group '-er' verb (from Latin first conjugation '-are') meaning 'to happen'; conjugates with 'avoir' in compound tenses (past participle 'se passé')."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "je me passe",
+              "nous nous passons"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "tu te passes",
+              "vous vous passez"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "il/elle se passe",
+              "ils/elles se passent"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Passé composé",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je me suis passé(e)",
+                "nous nous sommes passé(e)s"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu t'es passé(e)",
+                "vous vous êtes passé(e)(s)"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle s'est passé(e)",
+                "ils/elles se sont passé(e)s"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imparfait",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je me passais",
+                "nous nous passions"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu te passais",
+                "vous vous passiez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle se passait",
+                "ils/elles se passaient"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Futur",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "je me passerai",
+                "nous nous passerons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "tu te passeras",
+                "vous vous passerez"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "il/elle se passera",
+                "ils/elles se passeront"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ça se passe bien?",
+          "trans": "Is it going well?"
+        },
+        {
+          "text": "Qu'est-ce qui se passe?",
+          "trans": "What's going on?"
+        },
+        {
+          "text": "Ça ne se passe pas du tout.",
+          "trans": "It's not happening at all."
+        }
+      ],
+      "related": [
+        {
+          "word": "passer",
+          "gloss": "to pass"
+        },
+        {
+          "word": "passage",
+          "gloss": "scene"
         }
       ]
     },
@@ -5049,7 +5422,7 @@
       "meanings": [
         {
           "en": "your",
-          "note": "Goes with tu. Spoken French det expression meaning 'your', common in natural conversation."
+          "note": "Informal, one owner; ton, ta, tes. Spoken French det expression meaning 'your', common in natural conversation."
         }
       ],
       "forms": {
@@ -5064,7 +5437,7 @@
             "cells": [
               "sg",
               "ton",
-              "ta"
+              "ta (ton)"
             ]
           },
           {
@@ -5079,16 +5452,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "J'attends ton appel.",
-          "trans": "I'm waiting for your call."
-        },
-        {
-          "text": "Ta journée est finie?",
-          "trans": "Is your day over?"
-        },
-        {
           "text": "Tes premières vacances!",
           "trans": "Your first holiday!"
+        },
+        {
+          "text": "C'est ton vélo?",
+          "trans": "Is it your bike?"
+        },
+        {
+          "text": "Tes premières vacances en huit ans!",
+          "trans": "Your first holiday in eight years!"
         }
       ],
       "related": [
@@ -5102,19 +5475,15 @@
       "lemma": "tout",
       "stress": "tu",
       "pos": "det",
-      "gloss": "all; everything",
+      "gloss": "all, every; everything",
       "meanings": [
         {
           "en": "all, the whole",
-          "note": "Tout le monde = everyone. Spoken French det expression meaning 'all', common in natural conversation."
+          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
         },
         {
-          "en": "everything",
-          "note": "As a pronoun: Andréa lit tout. Spoken French det expression meaning 'all', common in natural conversation."
-        },
-        {
-          "en": "à tout à l'heure = see you later",
-          "note": "Spoken French det expression meaning 'all', common in natural conversation."
+          "en": "tout ce que = all that, everything that",
+          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
         }
       ],
       "forms": {
@@ -5148,12 +5517,12 @@
           "trans": "Everyone is here."
         },
         {
-          "text": "Andréa lit tout.",
-          "trans": "Andréa reads everything."
+          "text": "C'est tout ce que je peux faire.",
+          "trans": "That's all I can do."
         },
         {
-          "text": "Elles ont toutes le même lifting.",
-          "trans": "They all have the same facelift."
+          "text": "Désolé, c'est tout ce que je peux faire.",
+          "trans": "Sorry, that's all I can do."
         }
       ],
       "related": [
@@ -5171,20 +5540,62 @@
         }
       ]
     },
+    "tout le monde": {
+      "lemma": "tout le monde",
+      "stress": "tulmɔ̃d",
+      "pos": "phrase",
+      "gloss": "everybody, everyone",
+      "meanings": [
+        {
+          "en": "everybody, everyone",
+          "note": "takes a singular verb: tout le monde est là"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
+        },
+        {
+          "text": "Bonjour tout le monde!",
+          "trans": "Hello everyone!"
+        },
+        {
+          "text": "On est au Westin. Tout le monde est là.",
+          "trans": "We're at the Westin. Everyone is here."
+        }
+      ],
+      "related": [
+        {
+          "word": "tout",
+          "gloss": "all"
+        },
+        {
+          "word": "tout de suite",
+          "gloss": "right away"
+        },
+        {
+          "word": "tout à l'heure",
+          "gloss": "earlier"
+        }
+      ]
+    },
     "travail": {
       "lemma": "travail",
       "stress": "tʁavaj",
       "pos": "noun",
+      "gloss": "work, job",
       "gender": "m",
       "plural": "travaux",
-      "gloss": "work, job",
       "meanings": [
         {
-          "en": "work",
+          "en": "work, job",
           "note": "Un travail = a job. Masculine noun ('le travail', plural 'les travaux') inherited through Romance vocabulary, used in everyday and professional French for 'work'."
         },
         {
-          "en": "job",
+          "en": "au travail! = let's get to work!",
           "note": "Masculine noun ('le travail', plural 'les travaux') inherited through Romance vocabulary, used in everyday and professional French for 'work'."
         }
       ],
@@ -5208,16 +5619,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Il a beaucoup de travail.",
-          "trans": "He has a lot of work."
-        },
-        {
-          "text": "Ton travail, c'est de la protéger.",
-          "trans": "Your job is to protect her."
-        },
-        {
           "text": "Allez, au travail!",
           "trans": "Come on, back to work!"
+        },
+        {
+          "text": "Je cherche du travail.",
+          "trans": "I'm looking for work."
+        },
+        {
+          "text": "Il a beaucoup de travail.",
+          "trans": "He has a lot of work."
         }
       ],
       "related": [
@@ -5235,27 +5646,27 @@
       "lemma": "tu",
       "stress": "ty",
       "pos": "pron",
-      "gloss": "you (informal)",
+      "gloss": "you (casual)",
       "meanings": [
         {
           "en": "you",
-          "note": "informal singular: family, friends, colleagues of the same level"
+          "note": "one person you know well: friends, family, close colleagues"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Tu plaisantes?",
-          "trans": "Are you kidding?"
-        },
-        {
-          "text": "Tu veux venir?",
-          "trans": "Do you want to come?"
-        },
-        {
           "text": "Tu es pénible.",
           "trans": "You're a pain."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        },
+        {
+          "text": "Deux places pour mardi? Mardi, tu as le film de Kechiche.",
+          "trans": "Two tickets for Tuesday? On Tuesday you've got the Kechiche film."
         }
       ],
       "related": [
@@ -5269,9 +5680,9 @@
       "lemma": "tête",
       "stress": "tɛt",
       "pos": "noun",
+      "gloss": "head",
       "gender": "f",
       "plural": "têtes",
-      "gloss": "head",
       "meanings": [
         {
           "en": "head",
@@ -5329,11 +5740,11 @@
       "meanings": [
         {
           "en": "a, an",
-          "note": "indefinite article; des in the plural = some"
+          "note": "indefinite article; des in the plural"
         },
         {
           "en": "one",
-          "note": "The number. Spoken French det expression meaning 'a', common in natural conversation."
+          "note": "Number; l'un = one of them. Spoken French det expression meaning 'a', common in natural conversation."
         }
       ],
       "forms": {
@@ -5363,22 +5774,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "J'ai un agent.",
-          "trans": "I have an agent."
+          "text": "Un café, s'il vous plaît.",
+          "trans": "A coffee, please."
         },
         {
-          "text": "Il est une heure.",
-          "trans": "It's one o'clock."
+          "text": "Dans une heure.",
+          "trans": "In an hour."
         },
         {
-          "text": "Ça fait des mois.",
-          "trans": "It's been months."
+          "text": "L'un à midi, l'autre à deux heures.",
+          "trans": "One at noon, the other at two."
         }
       ],
       "related": [
         {
-          "word": "indefinite article; des in the plural",
-          "gloss": "some"
+          "word": "un",
+          "gloss": "a"
         }
       ]
     },
@@ -5441,13 +5852,17 @@
     },
     "venir": {
       "lemma": "venir",
-      "stress": "vəniʁ",
+      "stress": "vniʁ",
       "pos": "verb",
       "gloss": "to come",
       "meanings": [
         {
           "en": "to come",
           "note": "venir de + infinitive: je viens d'arriver = I've just arrived"
+        },
+        {
+          "en": "venir de + infinitive = to have just",
+          "note": "Je viens d'arriver. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to come'."
         }
       ],
       "forms": {
@@ -5475,8 +5890,8 @@
           {
             "cells": [
               "3rd",
-              "il vient",
-              "ils viennent"
+              "il/elle vient",
+              "ils/elles viennent"
             ]
           }
         ]
@@ -5507,8 +5922,8 @@
             {
               "cells": [
                 "3rd",
-                "il est venu",
-                "ils sont venus"
+                "il/elle est venu(e)",
+                "ils/elles sont venu(e)s"
               ]
             }
           ]
@@ -5538,8 +5953,8 @@
             {
               "cells": [
                 "3rd",
-                "il venait",
-                "ils venaient"
+                "il/elle venait",
+                "ils/elles venaient"
               ]
             }
           ]
@@ -5569,8 +5984,32 @@
             {
               "cells": [
                 "3rd",
-                "il viendra",
-                "ils viendront"
+                "il/elle viendra",
+                "ils/elles viendront"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "venons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "viens",
+                "venez"
               ]
             }
           ]
@@ -5578,16 +6017,16 @@
       ],
       "examples": [
         {
-          "text": "Tu viens avec moi?",
-          "trans": "Are you coming with me?"
-        },
-        {
-          "text": "Elle vient de Nice.",
-          "trans": "She comes from Nice."
-        },
-        {
           "text": "Je ne peux pas venir ce soir.",
           "trans": "I can't come tonight."
+        },
+        {
+          "text": "Tu viens?",
+          "trans": "Are you coming?"
+        },
+        {
+          "text": "Appelle Clémentine. Dis-lui que je ne peux pas venir ce soir.",
+          "trans": "Call Clémentine. Tell her I can't come tonight."
         }
       ],
       "related": [
@@ -5637,8 +6076,8 @@
           {
             "cells": [
               "3rd",
-              "il voit",
-              "ils voient"
+              "il/elle voit",
+              "ils/elles voient"
             ]
           }
         ]
@@ -5669,8 +6108,8 @@
             {
               "cells": [
                 "3rd",
-                "il a vu",
-                "ils ont vu"
+                "il/elle a vu",
+                "ils/elles ont vu"
               ]
             }
           ]
@@ -5700,8 +6139,8 @@
             {
               "cells": [
                 "3rd",
-                "il voyait",
-                "ils voyaient"
+                "il/elle voyait",
+                "ils/elles voyaient"
               ]
             }
           ]
@@ -5731,8 +6170,8 @@
             {
               "cells": [
                 "3rd",
-                "il verra",
-                "ils verront"
+                "il/elle verra",
+                "ils/elles verront"
               ]
             }
           ]
@@ -5744,12 +6183,12 @@
           "trans": "I want to see Mathias."
         },
         {
-          "text": "Tu vois la salle?",
-          "trans": "Do you see the room?"
-        },
-        {
           "text": "On se voit demain?",
           "trans": "See you tomorrow?"
+        },
+        {
+          "text": "Magali, je dois voir la pièce de Koltès cette semaine.",
+          "trans": "Magali, I have to see the Koltès play this week."
         }
       ],
       "related": [
@@ -5767,11 +6206,11 @@
       "meanings": [
         {
           "en": "to want",
-          "note": "+ noun or + infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "note": "+ noun or infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
         },
         {
-          "en": "tu veux...? = would you like...?",
-          "note": "A friendly offer. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
+          "en": "je voulais = I wanted",
+          "note": "Imparfait, softer. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to want'."
         }
       ],
       "forms": {
@@ -5799,8 +6238,8 @@
           {
             "cells": [
               "3rd",
-              "il veut",
-              "ils veulent"
+              "il/elle veut",
+              "ils/elles veulent"
             ]
           }
         ]
@@ -5831,8 +6270,8 @@
             {
               "cells": [
                 "3rd",
-                "il a voulu",
-                "ils ont voulu"
+                "il/elle a voulu",
+                "ils/elles ont voulu"
               ]
             }
           ]
@@ -5862,8 +6301,8 @@
             {
               "cells": [
                 "3rd",
-                "il voulait",
-                "ils voulaient"
+                "il/elle voulait",
+                "ils/elles voulaient"
               ]
             }
           ]
@@ -5893,8 +6332,8 @@
             {
               "cells": [
                 "3rd",
-                "il voudra",
-                "ils voudront"
+                "il/elle voudra",
+                "ils/elles voudront"
               ]
             }
           ]
@@ -5902,16 +6341,16 @@
       ],
       "examples": [
         {
-          "text": "Tu veux venir avec moi?",
-          "trans": "Do you want to come with me?"
-        },
-        {
-          "text": "Je veux un café.",
-          "trans": "I want a coffee."
-        },
-        {
           "text": "Je veux juste voir Mathias.",
           "trans": "I just want to see Mathias."
+        },
+        {
+          "text": "Je voulais te faire la surprise.",
+          "trans": "I wanted to surprise you."
+        },
+        {
+          "text": "Je ne suis pas actrice. Je veux juste voir Mathias.",
+          "trans": "I'm not an actress. I just want to see Mathias."
         }
       ],
       "related": [
@@ -5948,8 +6387,8 @@
           "trans": "I am truly sorry for this slight delay."
         },
         {
-          "text": "Il est vraiment sympa.",
-          "trans": "He's really nice."
+          "text": "C'est vraiment sympa.",
+          "trans": "It's really nice."
         }
       ],
       "related": [
@@ -5963,41 +6402,41 @@
       "lemma": "à",
       "stress": "a",
       "pos": "prep",
-      "gloss": "to; at; in",
+      "gloss": "at, in, to",
       "meanings": [
         {
-          "en": "to, at, in",
-          "note": "À Paris = in Paris. Core French preposition meaning 'to', linking a noun phrase or infinitive complement to the clause."
+          "en": "at, in",
+          "note": "Place: à Paris, à mon cours. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
         },
         {
-          "en": "au = à + le",
-          "note": "Core French preposition meaning 'to', linking a noun phrase or infinitive complement to the clause."
+          "en": "at",
+          "note": "Time: à midi. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
         },
         {
-          "en": "à cause de = because of",
-          "note": "Core French preposition meaning 'to', linking a noun phrase or infinitive complement to the clause."
+          "en": "au = à + le, aux = à + les",
+          "note": "Contractions. Core French preposition meaning 'at', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Il est à Paris.",
-          "trans": "He's in Paris."
-        },
-        {
-          "text": "À plus!",
-          "trans": "See you!"
-        },
-        {
           "text": "Je suis à Paris.",
           "trans": "I'm in Paris."
+        },
+        {
+          "text": "À quatorze heures.",
+          "trans": "At two pm."
+        },
+        {
+          "text": "On est au Westin.",
+          "trans": "We're at the Westin."
         }
       ],
       "related": [
         {
-          "word": "à Paris",
-          "gloss": "in Paris"
+          "word": "à",
+          "gloss": "at"
         }
       ]
     },
@@ -6009,23 +6448,27 @@
       "meanings": [
         {
           "en": "that, it",
-          "note": "Informal form of cela. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+          "note": "Informal for cela. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
+        },
+        {
+          "en": "ça fait... que = it's been...",
+          "note": "With time. High-frequency French pronoun meaning 'that'; clitic object forms precede the conjugated verb."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "On appelle ça la boutique.",
-          "trans": "We call it the shop."
-        },
-        {
-          "text": "Ça fait des mois.",
-          "trans": "It's been months."
-        },
-        {
           "text": "Je prends ça.",
           "trans": "I'll take that."
+        },
+        {
+          "text": "Ça fait trois semaines.",
+          "trans": "It's been three weeks."
+        },
+        {
+          "text": "Je prends ça. Merci.",
+          "trans": "I'll take that. Thanks."
         }
       ],
       "related": [
@@ -6201,11 +6644,11 @@
       "meanings": [
         {
           "en": "to be",
-          "note": "makes the passé composé of some verbs: il est mort, elle est arrivée"
+          "note": "The most common verb. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
         },
         {
-          "en": "it is (in c'est)",
-          "note": "C'est = ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
+          "en": "c'est = it is, this is",
+          "note": "Ce + est. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to be'."
         }
       ],
       "forms": {
@@ -6233,8 +6676,8 @@
           {
             "cells": [
               "3rd",
-              "il est",
-              "ils sont"
+              "il/elle est",
+              "ils/elles sont"
             ]
           }
         ]
@@ -6265,8 +6708,8 @@
             {
               "cells": [
                 "3rd",
-                "il a été",
-                "ils ont été"
+                "il/elle a été",
+                "ils/elles ont été"
               ]
             }
           ]
@@ -6296,8 +6739,8 @@
             {
               "cells": [
                 "3rd",
-                "il était",
-                "ils étaient"
+                "il/elle était",
+                "ils/elles étaient"
               ]
             }
           ]
@@ -6327,8 +6770,32 @@
             {
               "cells": [
                 "3rd",
-                "il sera",
-                "ils seront"
+                "il/elle sera",
+                "ils/elles seront"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "—",
+                "soyons"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "sois",
+                "soyez"
               ]
             }
           ]
@@ -6336,16 +6803,16 @@
       ],
       "examples": [
         {
-          "text": "Je suis Camille.",
-          "trans": "I'm Camille."
+          "text": "Je suis à Paris.",
+          "trans": "I'm in Paris."
         },
         {
-          "text": "C'est la salle de presse.",
-          "trans": "This is the press room."
+          "text": "C'est important.",
+          "trans": "It's important."
         },
         {
-          "text": "Vous êtes très gentille.",
-          "trans": "You're very kind."
+          "text": "Vous êtes où?",
+          "trans": "Where are you?"
         }
       ],
       "related": [

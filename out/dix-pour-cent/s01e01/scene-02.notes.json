@@ -26,7 +26,7 @@
           "t": "Mathias.",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         }
@@ -42,7 +42,7 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "answer, on the phone"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "trois",
@@ -72,7 +72,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -88,9 +88,9 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "about",
-          "gram": "preposition, parler de = to talk about"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "ses",
@@ -120,9 +120,9 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition, links two nouns"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "carrière.",
@@ -142,7 +142,7 @@
           "t": "Magali,",
           "lemma": "magali",
           "pos": "name",
-          "stress": "maɡali",
+          "stress": null,
           "gloss": "Magali (Andréa's assistant)",
           "gram": "first name"
         },
@@ -150,7 +150,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -190,15 +190,15 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "by (Koltès's)",
-          "gram": "preposition, author of the play"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "Koltès",
           "lemma": "koltès",
           "pos": "name",
-          "stress": "kɔltɛs",
+          "stress": null,
           "gloss": "Koltès (a playwright)",
           "gram": "surname"
         },
@@ -214,7 +214,7 @@
           "t": "semaine.",
           "lemma": "semaine",
           "pos": "noun",
-          "stress": "səmɛn",
+          "stress": "smɛn",
           "gloss": "week",
           "gram": "feminine singular"
         }
@@ -282,11 +282,11 @@
         },
         {
           "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "film",
@@ -300,15 +300,15 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "by (Kechiche's)",
-          "gram": "preposition, director of the film"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "Kechiche.",
           "lemma": "kechiche",
           "pos": "name",
-          "stress": "keʃiʃ",
+          "stress": null,
           "gloss": "Kechiche (a film director)",
           "gram": "surname"
         }
@@ -338,7 +338,7 @@
     },
     {
       "seg": 6,
-      "trans": "And tomorrow you're having lunch with Audiard.",
+      "trans": "And tomorrow you",
       "words": [
         {
           "t": "Et",
@@ -352,7 +352,7 @@
           "t": "demain,",
           "lemma": "demain",
           "pos": "adv",
-          "stress": "dəmɛ̃",
+          "stress": "dmɛ̃",
           "gloss": "tomorrow",
           "gram": "adverb of time"
         },
@@ -384,7 +384,7 @@
           "t": "Audiard.",
           "lemma": "audiard",
           "pos": "name",
-          "stress": "odjaʁ",
+          "stress": null,
           "gloss": "Audiard (a film director)",
           "gram": "surname"
         }
@@ -392,13 +392,13 @@
     },
     {
       "seg": 7,
-      "trans": "I'll take that. Thanks.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -430,7 +430,7 @@
     },
     {
       "seg": 8,
-      "trans": "You're also having lunch with Dany Boon tomorrow.",
+      "trans": "You",
       "words": [
         {
           "t": "Tu",
@@ -468,7 +468,7 @@
           "t": "Dany",
           "lemma": "dany boon",
           "pos": "name",
-          "stress": "dani",
+          "stress": null,
           "gloss": "Dany (Boon, a comedian)",
           "gram": "first name"
         },
@@ -476,7 +476,7 @@
           "t": "Boon",
           "lemma": "dany boon",
           "pos": "name",
-          "stress": "bun",
+          "stress": null,
           "gloss": "Boon (Dany Boon)",
           "gram": "surname"
         },
@@ -484,7 +484,7 @@
           "t": "demain.",
           "lemma": "demain",
           "pos": "adv",
-          "stress": "dəmɛ̃",
+          "stress": "dmɛ̃",
           "gloss": "tomorrow",
           "gram": "adverb of time"
         }
@@ -492,7 +492,7 @@
     },
     {
       "seg": 9,
-      "trans": "You're a pain, Magali.",
+      "trans": "You",
       "words": [
         {
           "t": "Tu",
@@ -522,7 +522,7 @@
           "t": "Magali.",
           "lemma": "magali",
           "pos": "name",
-          "stress": "maɡali",
+          "stress": null,
           "gloss": "Magali (Andréa's assistant)",
           "gram": "first name"
         }
@@ -535,7 +535,7 @@
         {
           "t": "L'un",
           "lemma": "un",
-          "pos": "pron",
+          "pos": "det",
           "stress": "lœ̃",
           "gloss": "one (of them)",
           "gram": "l' + un: pronoun, masculine singular"
@@ -546,7 +546,7 @@
           "pos": "prep",
           "stress": "a",
           "gloss": "at",
-          "gram": "preposition of time"
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "midi,",
@@ -559,7 +559,7 @@
         {
           "t": "l'autre",
           "lemma": "autre",
-          "pos": "pron",
+          "pos": "adj",
           "stress": "lotʁ",
           "gloss": "the other",
           "gram": "l' + autre: pronoun"
@@ -570,7 +570,7 @@
           "pos": "prep",
           "stress": "a",
           "gloss": "at",
-          "gram": "preposition of time"
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "quatorze",
@@ -592,7 +592,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -646,7 +646,7 @@
           "t": "Clémentine.",
           "lemma": "clémentine",
           "pos": "name",
-          "stress": "klemɑ̃tin",
+          "stress": null,
           "gloss": "Clémentine (Andréa's date)",
           "gram": "first name"
         },
@@ -662,7 +662,7 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
+          "stress": "k",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -670,7 +670,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -678,9 +678,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "peux",
@@ -696,13 +696,13 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "venir",
           "lemma": "venir",
           "pos": "verb",
-          "stress": "vəniʁ",
+          "stress": "vniʁ",
           "gloss": "come",
           "gram": "infinitive, after pouvoir"
         },
@@ -710,7 +710,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "sə",
+          "stress": "s",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -732,7 +732,7 @@
           "t": "Clémentine?",
           "lemma": "clémentine",
           "pos": "name",
-          "stress": "klemɑ̃tin",
+          "stress": null,
           "gloss": "Clémentine (Andréa's date)",
           "gram": "first name"
         },
@@ -748,9 +748,9 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "from",
-          "gram": "preposition ('de', meaning 'from')"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "la",
@@ -764,7 +764,7 @@
           "t": "semaine",
           "lemma": "semaine",
           "pos": "noun",
-          "stress": "səmɛn",
+          "stress": "smɛn",
           "gloss": "week",
           "gram": "feminine singular"
         },
@@ -811,7 +811,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "a, an",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -826,7 +826,7 @@
           "t": "Clémentine?",
           "lemma": "clémentine",
           "pos": "name",
-          "stress": "klemɑ̃tin",
+          "stress": null,
           "gloss": "Clémentine (Andréa's date)",
           "gram": "first name"
         }
@@ -846,17 +846,17 @@
         },
         {
           "t": "que",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
-          "stress": "kə",
-          "gloss": "what (part 2)",
-          "gram": "question phrase qu'est-ce que, second part"
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -880,13 +880,13 @@
     },
     {
       "seg": 15,
-      "trans": "I don't know. Think of something.",
+      "trans": "I don",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -894,9 +894,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "sais",
@@ -912,7 +912,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "Trouve",
@@ -942,38 +942,38 @@
     },
     {
       "seg": 16,
-      "trans": "Say I've got a meeting. Improvise!",
+      "trans": "Say I",
       "words": [
         {
           "t": "Dis",
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "say",
-          "gram": "imperative, 2nd person singular"
+          "gloss": "say, tell",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
+          "stress": "k",
           "gloss": "that",
-          "gram": "conjunction ('que', meaning 'that')"
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (got)",
-          "gram": "je + ai: present, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "a, an",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -996,15 +996,15 @@
     },
     {
       "seg": 17,
-      "trans": "Gabriel. Aren't you calling Cécile de France back?",
+      "trans": "Gabriel. Aren",
       "words": [
         {
           "t": "Gabriel.",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel (calling him)",
-          "gram": "first name, used to call someone"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
           "t": "Tu",
@@ -1012,15 +1012,15 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal (between colleagues)"
+          "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "rappelles",
@@ -1036,29 +1036,29 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "Cécile",
           "lemma": "cécile",
           "pos": "name",
-          "stress": "sesil",
+          "stress": null,
           "gloss": "Cécile (de France)",
-          "gram": "part of the actress's name"
+          "gram": "first name"
         },
         {
           "t": "de",
-          "lemma": "cécile de france",
-          "pos": "name",
-          "stress": "də",
-          "gloss": "de (part of the name)",
-          "gram": "part of the actress's name"
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "France?",
           "lemma": "cécile de france",
           "pos": "name",
-          "stress": "fʁɑ̃s",
+          "stress": null,
           "gloss": "France (part of the name)",
           "gram": "part of the actress's name"
         }
@@ -1088,7 +1088,7 @@
           "t": "Mathias.",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         }
@@ -1104,7 +1104,7 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "answer, on the phone"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "trois",
@@ -1134,13 +1134,13 @@
     },
     {
       "seg": 23,
-      "trans": "I'm talking about his twenty years of career.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1156,9 +1156,9 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "about",
-          "gram": "preposition, parler de = to talk about"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "ses",
@@ -1188,9 +1188,9 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition, links two nouns"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "carrière.",
@@ -1210,7 +1210,7 @@
           "t": "Magali,",
           "lemma": "magali",
           "pos": "name",
-          "stress": "maɡali",
+          "stress": null,
           "gloss": "Magali (Andréa's assistant)",
           "gram": "first name"
         },
@@ -1218,7 +1218,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1258,15 +1258,15 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "by (Koltès's)",
-          "gram": "preposition, author of the play"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "Koltès",
           "lemma": "koltès",
           "pos": "name",
-          "stress": "kɔltɛs",
+          "stress": null,
           "gloss": "Koltès (a playwright)",
           "gram": "surname"
         },
@@ -1282,7 +1282,7 @@
           "t": "semaine.",
           "lemma": "semaine",
           "pos": "noun",
-          "stress": "səmɛn",
+          "stress": "smɛn",
           "gloss": "week",
           "gram": "feminine singular"
         }
@@ -1328,7 +1328,7 @@
     },
     {
       "seg": 29,
-      "trans": "On Tuesday you've got the Kechiche film.",
+      "trans": "On Tuesday you",
       "words": [
         {
           "t": "Mardi,",
@@ -1356,11 +1356,11 @@
         },
         {
           "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "film",
@@ -1374,15 +1374,15 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "by (Kechiche's)",
-          "gram": "preposition, director of the film"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "Kechiche.",
           "lemma": "kechiche",
           "pos": "name",
-          "stress": "keʃiʃ",
+          "stress": null,
           "gloss": "Kechiche (a film director)",
           "gram": "surname"
         }
@@ -1412,7 +1412,7 @@
     },
     {
       "seg": 33,
-      "trans": "And tomorrow you're having lunch with Audiard.",
+      "trans": "And tomorrow you",
       "words": [
         {
           "t": "Et",
@@ -1426,7 +1426,7 @@
           "t": "demain,",
           "lemma": "demain",
           "pos": "adv",
-          "stress": "dəmɛ̃",
+          "stress": "dmɛ̃",
           "gloss": "tomorrow",
           "gram": "adverb of time"
         },
@@ -1458,7 +1458,7 @@
           "t": "Audiard.",
           "lemma": "audiard",
           "pos": "name",
-          "stress": "odjaʁ",
+          "stress": null,
           "gloss": "Audiard (a film director)",
           "gram": "surname"
         }
@@ -1466,13 +1466,13 @@
     },
     {
       "seg": 35,
-      "trans": "I'll take that. Thanks.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1504,7 +1504,7 @@
     },
     {
       "seg": 37,
-      "trans": "You're also having lunch with Dany Boon tomorrow.",
+      "trans": "You",
       "words": [
         {
           "t": "Tu",
@@ -1542,7 +1542,7 @@
           "t": "Dany",
           "lemma": "dany boon",
           "pos": "name",
-          "stress": "dani",
+          "stress": null,
           "gloss": "Dany (Boon, a comedian)",
           "gram": "first name"
         },
@@ -1550,7 +1550,7 @@
           "t": "Boon",
           "lemma": "dany boon",
           "pos": "name",
-          "stress": "bun",
+          "stress": null,
           "gloss": "Boon (Dany Boon)",
           "gram": "surname"
         },
@@ -1558,7 +1558,7 @@
           "t": "demain.",
           "lemma": "demain",
           "pos": "adv",
-          "stress": "dəmɛ̃",
+          "stress": "dmɛ̃",
           "gloss": "tomorrow",
           "gram": "adverb of time"
         }
@@ -1566,7 +1566,7 @@
     },
     {
       "seg": 39,
-      "trans": "You're a pain, Magali.",
+      "trans": "You",
       "words": [
         {
           "t": "Tu",
@@ -1596,7 +1596,7 @@
           "t": "Magali.",
           "lemma": "magali",
           "pos": "name",
-          "stress": "maɡali",
+          "stress": null,
           "gloss": "Magali (Andréa's assistant)",
           "gram": "first name"
         }
@@ -1609,7 +1609,7 @@
         {
           "t": "L'un",
           "lemma": "un",
-          "pos": "pron",
+          "pos": "det",
           "stress": "lœ̃",
           "gloss": "one (of them)",
           "gram": "l' + un: pronoun, masculine singular"
@@ -1620,7 +1620,7 @@
           "pos": "prep",
           "stress": "a",
           "gloss": "at",
-          "gram": "preposition of time"
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "midi,",
@@ -1633,7 +1633,7 @@
         {
           "t": "l'autre",
           "lemma": "autre",
-          "pos": "pron",
+          "pos": "adj",
           "stress": "lotʁ",
           "gloss": "the other",
           "gram": "l' + autre: pronoun"
@@ -1644,7 +1644,7 @@
           "pos": "prep",
           "stress": "a",
           "gloss": "at",
-          "gram": "preposition of time"
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "quatorze",
@@ -1666,13 +1666,13 @@
     },
     {
       "seg": 43,
-      "trans": "I'm going to have lunch twice.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1726,7 +1726,7 @@
           "t": "Clémentine.",
           "lemma": "clémentine",
           "pos": "name",
-          "stress": "klemɑ̃tin",
+          "stress": null,
           "gloss": "Clémentine (Andréa's date)",
           "gram": "first name"
         }
@@ -1734,7 +1734,7 @@
     },
     {
       "seg": 47,
-      "trans": "Tell her I can't come tonight.",
+      "trans": "Tell her I can",
       "words": [
         {
           "t": "Dis-lui",
@@ -1748,7 +1748,7 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
+          "stress": "k",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -1756,7 +1756,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1764,9 +1764,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "peux",
@@ -1782,13 +1782,13 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "venir",
           "lemma": "venir",
           "pos": "verb",
-          "stress": "vəniʁ",
+          "stress": "vniʁ",
           "gloss": "come",
           "gram": "infinitive, after pouvoir"
         },
@@ -1796,7 +1796,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "sə",
+          "stress": "s",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -1818,7 +1818,7 @@
           "t": "Clémentine?",
           "lemma": "clémentine",
           "pos": "name",
-          "stress": "klemɑ̃tin",
+          "stress": null,
           "gloss": "Clémentine (Andréa's date)",
           "gram": "first name"
         },
@@ -1834,9 +1834,9 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "from",
-          "gram": "preposition ('de', meaning 'from')"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "la",
@@ -1850,7 +1850,7 @@
           "t": "semaine",
           "lemma": "semaine",
           "pos": "noun",
-          "stress": "səmɛn",
+          "stress": "smɛn",
           "gloss": "week",
           "gram": "feminine singular"
         },
@@ -1897,7 +1897,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "a, an",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -1912,7 +1912,7 @@
           "t": "Clémentine?",
           "lemma": "clémentine",
           "pos": "name",
-          "stress": "klemɑ̃tin",
+          "stress": null,
           "gloss": "Clémentine (Andréa's date)",
           "gram": "first name"
         }
@@ -1932,17 +1932,17 @@
         },
         {
           "t": "que",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
-          "stress": "kə",
-          "gloss": "what (part 2)",
-          "gram": "question phrase qu'est-ce que, second part"
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1966,13 +1966,13 @@
     },
     {
       "seg": 55,
-      "trans": "I don't know. Think of something.",
+      "trans": "I don",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1980,9 +1980,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "sais",
@@ -1998,7 +1998,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "Trouve",
@@ -2028,38 +2028,38 @@
     },
     {
       "seg": 57,
-      "trans": "Say I've got a meeting. Improvise!",
+      "trans": "Say I",
       "words": [
         {
           "t": "Dis",
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "say",
-          "gram": "imperative, 2nd person singular"
+          "gloss": "say, tell",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
+          "stress": "k",
           "gloss": "that",
-          "gram": "conjunction ('que', meaning 'that')"
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (got)",
-          "gram": "je + ai: present, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "a, an",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -2082,15 +2082,15 @@
     },
     {
       "seg": 59,
-      "trans": "Gabriel. Aren't you calling Cécile de France back?",
+      "trans": "Gabriel. Aren",
       "words": [
         {
           "t": "Gabriel.",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel (calling him)",
-          "gram": "first name, used to call someone"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
           "t": "Tu",
@@ -2098,15 +2098,15 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal (between colleagues)"
+          "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "rappelles",
@@ -2122,29 +2122,29 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "Cécile",
           "lemma": "cécile",
           "pos": "name",
-          "stress": "sesil",
+          "stress": null,
           "gloss": "Cécile (de France)",
-          "gram": "part of the actress's name"
+          "gram": "first name"
         },
         {
           "t": "de",
-          "lemma": "cécile de france",
-          "pos": "name",
-          "stress": "də",
-          "gloss": "de (part of the name)",
-          "gram": "part of the actress's name"
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "France?",
           "lemma": "cécile de france",
           "pos": "name",
-          "stress": "fʁɑ̃s",
+          "stress": null,
           "gloss": "France (part of the name)",
           "gram": "part of the actress's name"
         }
@@ -2174,7 +2174,7 @@
           "t": "Mathias.",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         }
@@ -2190,7 +2190,7 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "answer, on the phone"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "trois",
@@ -2220,7 +2220,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2236,9 +2236,9 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "about",
-          "gram": "preposition, parler de = to talk about"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "ses",
@@ -2268,9 +2268,9 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition, links two nouns"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "carrière.",
@@ -2290,7 +2290,7 @@
           "t": "Magali,",
           "lemma": "magali",
           "pos": "name",
-          "stress": "maɡali",
+          "stress": null,
           "gloss": "Magali (Andréa's assistant)",
           "gram": "first name"
         },
@@ -2298,7 +2298,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2338,15 +2338,15 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "by (Koltès's)",
-          "gram": "preposition, author of the play"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "Koltès",
           "lemma": "koltès",
           "pos": "name",
-          "stress": "kɔltɛs",
+          "stress": null,
           "gloss": "Koltès (a playwright)",
           "gram": "surname"
         },
@@ -2362,7 +2362,7 @@
           "t": "semaine.",
           "lemma": "semaine",
           "pos": "noun",
-          "stress": "səmɛn",
+          "stress": "smɛn",
           "gloss": "week",
           "gram": "feminine singular"
         }
@@ -2430,11 +2430,11 @@
         },
         {
           "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "film",
@@ -2448,15 +2448,15 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "by (Kechiche's)",
-          "gram": "preposition, director of the film"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "Kechiche.",
           "lemma": "kechiche",
           "pos": "name",
-          "stress": "keʃiʃ",
+          "stress": null,
           "gloss": "Kechiche (a film director)",
           "gram": "surname"
         }
@@ -2486,7 +2486,7 @@
     },
     {
       "seg": 66,
-      "trans": "And tomorrow you're having lunch with Audiard.",
+      "trans": "And tomorrow you",
       "words": [
         {
           "t": "Et",
@@ -2500,7 +2500,7 @@
           "t": "demain,",
           "lemma": "demain",
           "pos": "adv",
-          "stress": "dəmɛ̃",
+          "stress": "dmɛ̃",
           "gloss": "tomorrow",
           "gram": "adverb of time"
         },
@@ -2532,7 +2532,7 @@
           "t": "Audiard.",
           "lemma": "audiard",
           "pos": "name",
-          "stress": "odjaʁ",
+          "stress": null,
           "gloss": "Audiard (a film director)",
           "gram": "surname"
         }
@@ -2540,13 +2540,13 @@
     },
     {
       "seg": 67,
-      "trans": "I'll take that. Thanks.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2578,7 +2578,7 @@
     },
     {
       "seg": 68,
-      "trans": "You're also having lunch with Dany Boon tomorrow.",
+      "trans": "You",
       "words": [
         {
           "t": "Tu",
@@ -2616,7 +2616,7 @@
           "t": "Dany",
           "lemma": "dany boon",
           "pos": "name",
-          "stress": "dani",
+          "stress": null,
           "gloss": "Dany (Boon, a comedian)",
           "gram": "first name"
         },
@@ -2624,7 +2624,7 @@
           "t": "Boon",
           "lemma": "dany boon",
           "pos": "name",
-          "stress": "bun",
+          "stress": null,
           "gloss": "Boon (Dany Boon)",
           "gram": "surname"
         },
@@ -2632,7 +2632,7 @@
           "t": "demain.",
           "lemma": "demain",
           "pos": "adv",
-          "stress": "dəmɛ̃",
+          "stress": "dmɛ̃",
           "gloss": "tomorrow",
           "gram": "adverb of time"
         }
@@ -2640,7 +2640,7 @@
     },
     {
       "seg": 69,
-      "trans": "You're a pain, Magali.",
+      "trans": "You",
       "words": [
         {
           "t": "Tu",
@@ -2670,7 +2670,7 @@
           "t": "Magali.",
           "lemma": "magali",
           "pos": "name",
-          "stress": "maɡali",
+          "stress": null,
           "gloss": "Magali (Andréa's assistant)",
           "gram": "first name"
         }
@@ -2683,7 +2683,7 @@
         {
           "t": "L'un",
           "lemma": "un",
-          "pos": "pron",
+          "pos": "det",
           "stress": "lœ̃",
           "gloss": "one (of them)",
           "gram": "l' + un: pronoun, masculine singular"
@@ -2694,7 +2694,7 @@
           "pos": "prep",
           "stress": "a",
           "gloss": "at",
-          "gram": "preposition of time"
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "midi,",
@@ -2707,7 +2707,7 @@
         {
           "t": "l'autre",
           "lemma": "autre",
-          "pos": "pron",
+          "pos": "adj",
           "stress": "lotʁ",
           "gloss": "the other",
           "gram": "l' + autre: pronoun"
@@ -2718,7 +2718,7 @@
           "pos": "prep",
           "stress": "a",
           "gloss": "at",
-          "gram": "preposition of time"
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "quatorze",
@@ -2740,7 +2740,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2794,7 +2794,7 @@
           "t": "Clémentine.",
           "lemma": "clémentine",
           "pos": "name",
-          "stress": "klemɑ̃tin",
+          "stress": null,
           "gloss": "Clémentine (Andréa's date)",
           "gram": "first name"
         },
@@ -2810,7 +2810,7 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
+          "stress": "k",
           "gloss": "that",
           "gram": "conjunction, introduces what to say"
         },
@@ -2818,7 +2818,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2826,9 +2826,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "peux",
@@ -2844,13 +2844,13 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "venir",
           "lemma": "venir",
           "pos": "verb",
-          "stress": "vəniʁ",
+          "stress": "vniʁ",
           "gloss": "come",
           "gram": "infinitive, after pouvoir"
         },
@@ -2858,7 +2858,7 @@
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "sə",
+          "stress": "s",
           "gloss": "this (ce soir = tonight)",
           "gram": "demonstrative, masculine singular"
         },
@@ -2880,7 +2880,7 @@
           "t": "Clémentine?",
           "lemma": "clémentine",
           "pos": "name",
-          "stress": "klemɑ̃tin",
+          "stress": null,
           "gloss": "Clémentine (Andréa's date)",
           "gram": "first name"
         },
@@ -2896,9 +2896,9 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "from",
-          "gram": "preposition ('de', meaning 'from')"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "la",
@@ -2912,7 +2912,7 @@
           "t": "semaine",
           "lemma": "semaine",
           "pos": "noun",
-          "stress": "səmɛn",
+          "stress": "smɛn",
           "gloss": "week",
           "gram": "feminine singular"
         },
@@ -2959,7 +2959,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "a, an",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -2974,7 +2974,7 @@
           "t": "Clémentine?",
           "lemma": "clémentine",
           "pos": "name",
-          "stress": "klemɑ̃tin",
+          "stress": null,
           "gloss": "Clémentine (Andréa's date)",
           "gram": "first name"
         }
@@ -2994,17 +2994,17 @@
         },
         {
           "t": "que",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
-          "stress": "kə",
-          "gloss": "what (part 2)",
-          "gram": "question phrase qu'est-ce que, second part"
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -3028,13 +3028,13 @@
     },
     {
       "seg": 75,
-      "trans": "I don't know. Think of something.",
+      "trans": "I don",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -3042,9 +3042,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "sais",
@@ -3060,7 +3060,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "Trouve",
@@ -3090,38 +3090,38 @@
     },
     {
       "seg": 76,
-      "trans": "Say I've got a meeting. Improvise!",
+      "trans": "Say I",
       "words": [
         {
           "t": "Dis",
           "lemma": "dire",
           "pos": "verb",
           "stress": "di",
-          "gloss": "say",
-          "gram": "imperative, 2nd person singular"
+          "gloss": "say, tell",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
+          "stress": "k",
           "gloss": "that",
-          "gram": "conjunction ('que', meaning 'that')"
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "j'ai",
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (got)",
-          "gram": "je + ai: present, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "a, an",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -3144,15 +3144,15 @@
     },
     {
       "seg": 77,
-      "trans": "Gabriel. Aren't you calling Cécile de France back?",
+      "trans": "Gabriel. Aren",
       "words": [
         {
           "t": "Gabriel.",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel (calling him)",
-          "gram": "first name, used to call someone"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
           "t": "Tu",
@@ -3160,15 +3160,15 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal (between colleagues)"
+          "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "rappelles",
@@ -3184,29 +3184,29 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "Cécile",
           "lemma": "cécile",
           "pos": "name",
-          "stress": "sesil",
+          "stress": null,
           "gloss": "Cécile (de France)",
-          "gram": "part of the actress's name"
+          "gram": "first name"
         },
         {
           "t": "de",
-          "lemma": "cécile de france",
-          "pos": "name",
-          "stress": "də",
-          "gloss": "de (part of the name)",
-          "gram": "part of the actress's name"
+          "lemma": "de",
+          "pos": "prep",
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "France?",
           "lemma": "cécile de france",
           "pos": "name",
-          "stress": "fʁɑ̃s",
+          "stress": null,
           "gloss": "France (part of the name)",
           "gram": "part of the actress's name"
         }
@@ -3214,31 +3214,23 @@
     },
     {
       "seg": 79,
-      "trans": "Come on, back to work!",
+      "trans": "Have a good day!",
       "words": [
         {
-          "t": "Allez,",
-          "lemma": "aller",
-          "pos": "verb",
-          "stress": "ale",
-          "gloss": "come on",
-          "gram": "imperative, 2nd person plural, used as an interjection"
+          "t": "Bonne",
+          "lemma": "bon",
+          "pos": "adj",
+          "stress": "bɔn",
+          "gloss": "good",
+          "gram": "feminine singular adjective"
         },
         {
-          "t": "au",
-          "lemma": "à",
-          "pos": "prep",
-          "stress": "o",
-          "gloss": "to the",
-          "gram": "à + le contracted"
-        },
-        {
-          "t": "travail!",
-          "lemma": "travail",
+          "t": "journée!",
+          "lemma": "journée",
           "pos": "noun",
-          "stress": "tʁavaj",
-          "gloss": "work",
-          "gram": "masculine singular, after au"
+          "stress": "ʒuʁne",
+          "gloss": "day",
+          "gram": "feminine singular noun"
         }
       ]
     }
@@ -3484,9 +3476,9 @@
       "lemma": "an",
       "stress": "ɑ̃",
       "pos": "noun",
+      "gloss": "year",
       "gender": "m",
       "plural": "ans",
-      "gloss": "year",
       "meanings": [
         {
           "en": "year",
@@ -4045,6 +4037,71 @@
         }
       ]
     },
+    "bon": {
+      "lemma": "bon",
+      "stress": "bɔ̃",
+      "pos": "adj",
+      "gloss": "good",
+      "meanings": [
+        {
+          "en": "good",
+          "note": "as an interjection: bon, alors... = right, so..."
+        },
+        {
+          "en": "well, okay, right",
+          "note": "as an interjection: bon, alors... = right, so..."
+        },
+        {
+          "en": "bonne journée = have a nice day",
+          "note": "Descriptive French adjective meaning 'good'; agrees in gender and number with the noun it modifies."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "bon",
+              "bonne"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "bons",
+              "bonnes"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Bon. Alors, je vais attendre.",
+          "trans": "Fine. Then I'll wait."
+        },
+        {
+          "text": "Bonne journée!",
+          "trans": "Have a nice day!"
+        },
+        {
+          "text": "C'est un bon film.",
+          "trans": "It's a good film."
+        }
+      ],
+      "related": [
+        {
+          "word": "as an interjection: bon, alors...",
+          "gloss": "right, so..."
+        }
+      ]
+    },
     "bonjour": {
       "lemma": "bonjour",
       "stress": "bɔ̃ʒuʁ",
@@ -4083,9 +4140,9 @@
       "lemma": "carrière",
       "stress": "kaʁjɛʁ",
       "pos": "noun",
+      "gloss": "career",
       "gender": "f",
       "plural": "carrières",
-      "gloss": "career",
       "meanings": [
         {
           "en": "career",
@@ -4133,7 +4190,7 @@
     },
     "ce": {
       "lemma": "ce",
-      "stress": "sə",
+      "stress": "s",
       "pos": "det",
       "gloss": "this, that; it",
       "meanings": [
@@ -4194,7 +4251,7 @@
     },
     "celui": {
       "lemma": "celui",
-      "stress": "səlɥi",
+      "stress": "slɥi",
       "pos": "pron",
       "gloss": "the one",
       "meanings": [
@@ -4293,7 +4350,7 @@
     },
     "de": {
       "lemma": "de",
-      "stress": "də",
+      "stress": "d",
       "pos": "prep",
       "gloss": "of, from; some",
       "meanings": [
@@ -4339,7 +4396,7 @@
     },
     "demain": {
       "lemma": "demain",
-      "stress": "dəmɛ̃",
+      "stress": "dmɛ̃",
       "pos": "adv",
       "gloss": "tomorrow",
       "meanings": [
@@ -4472,7 +4529,7 @@
     },
     "devoir": {
       "lemma": "devoir",
-      "stress": "dəvwaʁ",
+      "stress": "dvwaʁ",
       "pos": "verb",
       "gloss": "must, to have to",
       "meanings": [
@@ -5022,9 +5079,9 @@
       "lemma": "film",
       "stress": "film",
       "pos": "noun",
+      "gloss": "film, movie",
       "gender": "m",
       "plural": "films",
-      "gloss": "film, movie",
       "meanings": [
         {
           "en": "film, movie",
@@ -5074,9 +5131,9 @@
       "lemma": "fois",
       "stress": "fwa",
       "pos": "noun",
+      "gloss": "time (occurrence)",
       "gender": "f",
       "plural": "fois",
-      "gloss": "time (occurrence)",
       "meanings": [
         {
           "en": "time, occasion",
@@ -5126,9 +5183,9 @@
       "lemma": "heure",
       "stress": "œʁ",
       "pos": "noun",
+      "gloss": "hour; o'clock",
       "gender": "f",
       "plural": "heures",
-      "gloss": "hour; o'clock",
       "meanings": [
         {
           "en": "hour",
@@ -5408,7 +5465,7 @@
     },
     "je": {
       "lemma": "je",
-      "stress": "ʒə",
+      "stress": "ʒ",
       "pos": "pron",
       "gloss": "I",
       "meanings": [
@@ -5444,9 +5501,9 @@
       "lemma": "jeudi",
       "stress": "ʒødi",
       "pos": "noun",
+      "gloss": "Thursday",
       "gender": "m",
       "plural": "jeudis",
-      "gloss": "Thursday",
       "meanings": [
         {
           "en": "Thursday",
@@ -5492,9 +5549,69 @@
         }
       ]
     },
+    "journée": {
+      "lemma": "journée",
+      "stress": "ʒuʁne",
+      "pos": "noun",
+      "gloss": "day",
+      "gender": "f",
+      "plural": "journées",
+      "meanings": [
+        {
+          "en": "day",
+          "note": "the whole day, as time you live through; bonne journée = have a nice day"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "form",
+              "une journée",
+              "des journées"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Journée difficile?",
+          "trans": "Tough day?"
+        },
+        {
+          "text": "Bonne journée!",
+          "trans": "Have a nice day!"
+        },
+        {
+          "text": "C'est une longue journée.",
+          "trans": "It's a long day."
+        }
+      ],
+      "related": [
+        {
+          "word": "jour",
+          "gloss": "day"
+        },
+        {
+          "word": "journal",
+          "gloss": "newspaper"
+        },
+        {
+          "word": "journaliste",
+          "gloss": "journalist"
+        }
+      ]
+    },
     "le": {
       "lemma": "le",
-      "stress": "lə",
+      "stress": "l",
       "pos": "det",
       "gloss": "the",
       "meanings": [
@@ -5591,9 +5708,9 @@
       "lemma": "mardi",
       "stress": "maʁdi",
       "pos": "noun",
+      "gloss": "Tuesday",
       "gender": "m",
       "plural": "mardis",
-      "gloss": "Tuesday",
       "meanings": [
         {
           "en": "Tuesday",
@@ -5677,9 +5794,9 @@
       "lemma": "midi",
       "stress": "midi",
       "pos": "noun",
+      "gloss": "noon, midday",
       "gender": "m",
       "plural": "—",
-      "gloss": "noon, midday",
       "meanings": [
         {
           "en": "noon, midday",
@@ -5769,7 +5886,7 @@
     },
     "ne": {
       "lemma": "ne",
-      "stress": "nə",
+      "stress": "n",
       "pos": "part",
       "gloss": "not (with pas, rien, que)",
       "meanings": [
@@ -6067,9 +6184,9 @@
       "lemma": "pièce",
       "stress": "pjɛs",
       "pos": "noun",
+      "gloss": "play; room; coin",
       "gender": "f",
       "plural": "pièces",
-      "gloss": "play; room; coin",
       "meanings": [
         {
           "en": "play (theatre)",
@@ -6127,9 +6244,9 @@
       "lemma": "place",
       "stress": "plas",
       "pos": "noun",
+      "gloss": "seat, ticket; square; room",
       "gender": "f",
       "plural": "places",
-      "gloss": "seat, ticket; square; room",
       "meanings": [
         {
           "en": "seat, ticket (theatre, cinema)",
@@ -6652,7 +6769,7 @@
     },
     "qu'est-ce que": {
       "lemma": "qu'est-ce que",
-      "stress": "kɛskə",
+      "stress": "kɛsk",
       "pos": "phrase",
       "gloss": "what (in questions)",
       "meanings": [
@@ -6720,7 +6837,7 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "kə",
+      "stress": "k",
       "pos": "conj",
       "gloss": "that; than; only (ne...que)",
       "meanings": [
@@ -6766,7 +6883,7 @@
     },
     "quelque chose": {
       "lemma": "quelque chose",
-      "stress": "kɛlkəʃoz",
+      "stress": "kɛlkʃoz",
       "pos": "phrase",
       "gloss": "something",
       "meanings": [
@@ -6996,9 +7113,9 @@
       "lemma": "réunion",
       "stress": "ʁeynjɔ̃",
       "pos": "noun",
+      "gloss": "meeting",
       "gender": "f",
       "plural": "réunions",
-      "gloss": "meeting",
       "meanings": [
         {
           "en": "meeting",
@@ -7049,6 +7166,7 @@
       "stress": "saly",
       "pos": "interj",
       "gloss": "hi; bye",
+      "register": "informal",
       "meanings": [
         {
           "en": "hi",
@@ -7075,7 +7193,6 @@
           "trans": "Morning! Hi, Mathias."
         }
       ],
-      "register": "informal",
       "related": [
         {
           "word": "saluer",
@@ -7247,11 +7364,11 @@
     },
     "semaine": {
       "lemma": "semaine",
-      "stress": "səmɛn",
+      "stress": "smɛn",
       "pos": "noun",
+      "gloss": "week",
       "gender": "f",
       "plural": "semaines",
-      "gloss": "week",
       "meanings": [
         {
           "en": "week",
@@ -7301,9 +7418,9 @@
       "lemma": "soir",
       "stress": "swaʁ",
       "pos": "noun",
+      "gloss": "evening",
       "gender": "m",
       "plural": "soirs",
-      "gloss": "evening",
       "meanings": [
         {
           "en": "evening",
@@ -7406,63 +7523,45 @@
         }
       ]
     },
-    "travail": {
-      "lemma": "travail",
-      "stress": "tʁavaj",
-      "pos": "noun",
-      "gender": "m",
-      "plural": "travaux",
-      "gloss": "work, job",
+    "tout le monde": {
+      "lemma": "tout le monde",
+      "stress": "tulmɔ̃d",
+      "pos": "phrase",
+      "gloss": "everybody, everyone",
       "meanings": [
         {
-          "en": "work, job",
-          "note": "Un travail = a job. Masculine noun ('le travail', plural 'les travaux') inherited through Romance vocabulary, used in everyday and professional French for 'work'."
-        },
-        {
-          "en": "au travail! = let's get to work!",
-          "note": "Masculine noun ('le travail', plural 'les travaux') inherited through Romance vocabulary, used in everyday and professional French for 'work'."
+          "en": "everybody, everyone",
+          "note": "takes a singular verb: tout le monde est là"
         }
       ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "form",
-              "le travail",
-              "les travaux"
-            ]
-          }
-        ]
-      },
+      "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Allez, au travail!",
-          "trans": "Come on, back to work!"
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
         },
         {
-          "text": "Je cherche du travail.",
-          "trans": "I'm looking for work."
+          "text": "Bonjour tout le monde!",
+          "trans": "Hello everyone!"
         },
         {
-          "text": "Il a beaucoup de travail.",
-          "trans": "He has a lot of work."
+          "text": "On est au Westin. Tout le monde est là.",
+          "trans": "We're at the Westin. Everyone is here."
         }
       ],
       "related": [
         {
-          "word": "travailler",
-          "gloss": "to work"
+          "word": "tout",
+          "gloss": "all"
         },
         {
-          "word": "travaux",
-          "gloss": "renovations"
+          "word": "tout de suite",
+          "gloss": "right away"
+        },
+        {
+          "word": "tout à l'heure",
+          "gloss": "earlier"
         }
       ]
     },
@@ -7783,7 +7882,7 @@
     },
     "venir": {
       "lemma": "venir",
-      "stress": "vəniʁ",
+      "stress": "vniʁ",
       "pos": "verb",
       "gloss": "to come",
       "meanings": [

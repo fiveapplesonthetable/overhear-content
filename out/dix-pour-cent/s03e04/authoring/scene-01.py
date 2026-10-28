@@ -1,105 +1,50 @@
-# Authoring module for dix-pour-cent s03e04 scene 01 (cues 1-67).
-# Build: python3 tools/compose.py out/dix-pour-cent/s03e04/authoring/scene-01.py --out out/dix-pour-cent/s03e04/scene-01.json
-
-ID = "dix-pour-cent-s03e04-scene-01"
-SHOW = "dix-pour-cent"
+# Authoring module for dix-pour-cent-s03e04-scene-01.
+ID = 'dix-pour-cent-s03e04-scene-01'
+SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 1
 TITLE = "Le double tournage  (The Double Shoot)"
 LEVEL = "A1 — débutant"
-PAIR = "fr-en"
-VOICES = {"narrator": "sky", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"lea": "Gabriel", "hicham": "Hicham"}
-SOURCE_NAME = "Dix pour cent (Call My Agent!) S03E04"
-SOURCE_FILE = "sources/dix-pour-cent/s03/e04.fr.dual.srt"
-SOURCE_NOTE = ("Cues 1-67. Hicham discovers that Isabelle Huppert is filming an American movie and a French movie simultaneously. Adapted for A1 French.")
-
-INTRO = ("At the ASK agency, director Hicham Janowski scrutinizes client paperwork and discovers a serious breach. "
-         "Agent Gabriel Sarda has secretly double-booked screen legend Isabelle Huppert on two conflicting film productions. "
-         "Let's listen to the scene in French first.")
-
-STORY = [
- ("hicham", "Il y a un problème dans tes contrats.",
-  "There is a problem in your contracts.",
-  [(28, "tes contrats")], "Noticed contractual irregularity"),
- ("lea", "De quel contrat parles-tu aujourd'hui?",
-  "Which contract are you talking about today?",
-  [(29, "Isabelle Huppert")], "Inquired about the issue"),
- ("hicham", "Isabelle Huppert tourne deux films différents.",
-  "Isabelle Huppert is shooting two different films.",
-  [(30, "She's a femme fatale"), (32, "Marie-Médicis")], "Pointed out conflicting shoots"),
- ("lea", "C'est juste un léger chevauchement d'horaires.",
-  "It is just a slight schedule overlap.",
-  [(41, "c'est juste un léger chevauchement.")], "Downplayed overlapping dates"),
- ("hicham", "Le contrat américain exige l'exclusivité totale.",
-  "The American contract demands total exclusivity.",
-  [(35, "il y a écrit exclusive."), (36, "Ça veut dire contrat d'exclusivité.")], "Cited exclusivity clause"),
- ("lea", "Elle tourne de nuit pour les Français.",
-  "She shoots at night for the French.",
-  [(61, "et la nuit, pour les Français.")], "Explained night shooting arrangement"),
- ("hicham", "Nous sommes complètement hors-la-loi, Gabriel!",
-  "We are completely outside the law, Gabriel!",
-  [(46, "on est complètement hors-la-loi.")], "Rebuked illegal practice"),
- ("lea", "Isabelle est une véritable légende vivante.",
-  "Isabelle is a veritable living legend.",
-  [(49, "C'est une espèce de légende vivante")], "Praised actress status"),
- ("hicham", "Elle ne peut pas tenir ce rythme.",
-  "She cannot keep up this pace.",
-  [(64, "Elle doit être complètement épuisée.")], "Warned of extreme exhaustion"),
- ("lea", "Elle a une énergie absolument formidable.",
-  "She has an absolutely tremendous energy.",
-  [(65, "c'est une force de la nature.")], "Highlighted rare stamina"),
- ("hicham", "Ce double tournage est trop dangereux.",
-  "This double shoot is too dangerous.",
-  [(38, "elle a pas le droit de tourner dans un autre film en même temps.")], "Condemned hazardous schedule"),
- ("lea", "Il ne reste que deux jours difficiles.",
-  "Only two difficult days remain.",
-  [(62, "il en reste plus que deux.")], "Noted short remaining duration"),
- ("hicham", "Si les Américains apprennent cela, attention!",
-  "If the Americans learn about this, look out!",
-  [(38, "elle a pas le droit de tourner dans un autre film en même temps.")], "Issued stern warning"),
- ("lea", "Fais-moi confiance, tout se passera bien.",
-  "Trust me, everything will go well.",
-  [(67, "T'inquiète pas.")], "Reassured director"),
-]
-
+PAIR = 'fr-en'
+VOICES = {"narrator": "sky", "hicham": "marcel", "gabriel": "theo"}
+LABELS = {"hicham": "Hicham", "gabriel": "Gabriel"}
+SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
+SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
+INTRO = "At the ASK agency, director Hicham Janowski scrutinizes client paperwork and discovers a serious breach. Agent Gabriel Sarda has secretly double-booked screen legend Isabelle Huppert on two conflicting film productions. Let's listen to the scene in French first."
 OPENER = "Let's observe as Hicham confronts Gabriel about Isabelle's secret schedule."
-
-WALK = [
- (0, None,
-  "'There is a problem in your contracts.' The informal 'you' form around 'has' marks a direct, personal relationship. The informal 'you' form around 'has' marks a direct, personal relationship."),
- (1, None,
-  "'Which contract are you talking about today?' Notice how the short vowel drops before a vowel sound around 'do you speak', making the phrase flow smoothly as one unit. Notice how the short vowel drops before a vowel sound around 'do you speak', making the phrase flow smoothly as one unit."),
- (2, None,
-  "'Isabelle Huppert is shooting two different films.' The descriptive adjective for 'different' agrees in gender and number with its noun. The descriptive adjective for 'different' agrees in gender and number with its noun."),
- (3, None,
-  "'It is just a slight schedule overlap.' A minimizing explanation attempting to soften the conflict. The descriptive adjective for 'light' agrees in gender and number with its noun."),
- (4, None,
-  "'The American contract demands total exclusivity.' Notice how 'demands' leads directly into the noun meaning 'business contract'. Notice how 'demands' leads directly into the noun meaning 'business contract'."),
- (5, None,
-  "'She shoots at night for the French.' A practical explanation revealing the day-and-night filming arrangement. The verb meaning 'shoots' pairs naturally with the noun for 'night' in everyday conversation."),
- (6, None,
-  "'We are completely outside the law, Gabriel!' An alarmed rebuke protesting unacceptable professional risk. The adverb meaning 'completely' gives the reply its conversational emphasis."),
- (7, None,
-  "'Isabelle is a veritable living legend.' The descriptive adjective for 'veritable' agrees in gender and number with its noun. The descriptive adjective for 'veritable' agrees in gender and number with its noun."),
- (8, None,
-  "'She cannot keep up this pace.' Notice the classic French sandwich negation wrapping right around 'can'. Notice the classic French sandwich negation wrapping right around 'can'."),
- (9, None,
-  "'She has an absolutely tremendous energy.' An admiring praise highlighting the actress's rare stamina. The verb meaning 'has' pairs naturally with the noun for 'vitality' in everyday conversation."),
- (10, None,
-  "'This double shoot is too dangerous.' A grave executive verdict condemning the clandestine schedule. The key noun here means 'filming', anchored by its matching French article."),
- (11, None,
-  "'Only two difficult days remain.' A calming temporal reassurance emphasizing that the ordeal is nearly over. The two-part French negation brackets the verb for 'remains' on both sides."),
- (12, None,
-  "'If the Americans learn about this, look out!' The verb meaning 'learn' pairs naturally with the noun for 'Americans' in everyday conversation."),
- (13, None,
-  "'Trust me, everything will go well.' Notice how 'give me' leads directly into the noun meaning 'trust'. Notice how 'give me' leads directly into the noun meaning 'trust'."),
-]
-
 TRANSITION = "Now let's listen to Hicham and Gabriel again at full speed."
-
-OUTRO = ("Hicham remains tense about the risky double booking, fearing disastrous legal blowback from the American producers. "
-         "Gabriel departs to check on Isabelle Huppert on set, determined to keep the clandestine production running smoothly.")
-
-CLOSING = ("hicham", "Sois très prudent avec ce tournage.")
+OUTRO = "Hicham remains tense about the risky double booking, fearing disastrous legal blowback from the American producers. When you watch the episode, listen out for the expressions meaning 'problem' and 'business agreements'. You'll catch them now. See you next time."
+CLOSING = ("hicham", "Bonne soirée!")
+STORY = [
+    ('hicham', 'Il y a un problème dans tes contrats.', 'There is a problem in your contracts.', [(28, 'tes contrats')], ''),
+    ('gabriel', "De quel contrat parles-tu aujourd'hui?", 'Which contract are you talking about today?', [(29, 'Isabelle Huppert')], ''),
+    ('hicham', 'Isabelle Huppert tourne deux films différents.', 'Isabelle Huppert is shooting two different films.', [(30, "She's a femme fatale"), (32, 'Marie-Médicis')], ''),
+    ('gabriel', "C'est juste un léger chevauchement d'horaires.", 'It is just a slight schedule overlap.', [(41, "c'est juste un léger chevauchement.")], ''),
+    ('hicham', "Le contrat américain exige l'exclusivité totale.", 'The American contract demands total exclusivity.', [(35, 'il y a écrit exclusive.'), (36, "Ça veut dire contrat d'exclusivité.")], ''),
+    ('gabriel', 'Elle tourne de nuit pour les Français.', 'She shoots at night for the French.', [(61, 'et la nuit, pour les Français.')], ''),
+    ('hicham', 'Nous sommes complètement hors-la-loi, Gabriel!', 'We are completely outside the law, Gabriel!', [(46, 'on est complètement hors-la-loi.')], ''),
+    ('gabriel', 'Isabelle est une véritable légende vivante.', 'Isabelle is a veritable living legend.', [(49, "C'est une espèce de légende vivante")], ''),
+    ('hicham', 'Elle ne peut pas tenir ce rythme.', 'She cannot keep up this pace.', [(64, 'Elle doit être complètement épuisée.')], ''),
+    ('gabriel', 'Elle a une énergie absolument formidable.', 'She has an absolutely tremendous energy.', [(65, "c'est une force de la nature.")], ''),
+    ('hicham', 'Ce double tournage est trop dangereux.', 'This double shoot is too dangerous.', [(38, 'elle a pas le droit de tourner dans un autre film en même temps.')], ''),
+    ('gabriel', 'Il ne reste que deux jours difficiles.', 'Only two difficult days remain.', [(62, 'il en reste plus que deux.')], ''),
+    ('hicham', 'Si les Américains apprennent cela, attention!', 'If the Americans learn about this, look out!', [(38, 'elle a pas le droit de tourner dans un autre film en même temps.')], ''),
+    ('gabriel', 'Fais-moi confiance, tout se passera bien.', 'Trust me, everything will go well.', [(67, "T'inquiète pas.")], ''),
+]
+WALK = [
+    (0, None, "'There is a problem in your contracts.' The informal 'you' form around 'has' marks a direct, personal relationship. The informal 'you' form around 'has' marks a direct, personal relationship."),
+    (1, None, "'Which contract are you talking about today?' Notice how the short vowel drops before a vowel sound around 'do you speak', making the phrase flow smoothly as one unit. Notice how the short vowel drops before a vowel sound around 'do you speak', making the phrase flow smoothly as one unit."),
+    (2, None, "'Isabelle Huppert is shooting two different films.' The descriptive adjective for 'different' agrees in gender and number with its noun. The descriptive adjective for 'different' agrees in gender and number with its noun."),
+    (3, None, "'It is just a slight schedule overlap.' A minimizing explanation attempting to soften the conflict. The descriptive adjective for 'light' agrees in gender and number with its noun."),
+    (4, None, "'The American contract demands total exclusivity.' Notice how 'demands' leads directly into the noun meaning 'business contract'. Notice how 'demands' leads directly into the noun meaning 'business contract'."),
+    (5, None, "'She shoots at night for the French.' A practical explanation revealing the day-and-night filming arrangement. The verb meaning 'shoots' pairs naturally with the noun for 'night' in everyday conversation."),
+    (6, None, "'We are completely outside the law, Gabriel!' An alarmed rebuke protesting unacceptable professional risk. The adverb meaning 'completely' gives the reply its conversational emphasis."),
+    (7, None, "'Isabelle is a veritable living legend.' The descriptive adjective for 'veritable' agrees in gender and number with its noun. The descriptive adjective for 'veritable' agrees in gender and number with its noun."),
+    (8, None, "'She cannot keep up this pace.' Notice the classic French sandwich negation wrapping right around 'can'. Notice the classic French sandwich negation wrapping right around 'can'."),
+    (9, None, "'She has an absolutely tremendous energy.' An admiring praise highlighting the actress's rare stamina. The verb meaning 'has' pairs naturally with the noun for 'vitality' in everyday conversation."),
+    (10, None, "'This double shoot is too dangerous.' A grave executive verdict condemning the clandestine schedule. The key noun here means 'filming', anchored by its matching French article."),
+    (11, None, "'Only two difficult days remain.' A calming temporal reassurance emphasizing that the ordeal is nearly over. The two-part French negation brackets the verb for 'remains' on both sides."),
+    (12, None, "'If the Americans learn about this, look out!' The verb meaning 'learn' pairs naturally with the noun for 'Americans' in everyday conversation."),
+    (13, None, "'Trust me, everything will go well.' Notice how 'give me' leads directly into the noun meaning 'trust'. Notice how 'give me' leads directly into the noun meaning 'trust'."),
+]

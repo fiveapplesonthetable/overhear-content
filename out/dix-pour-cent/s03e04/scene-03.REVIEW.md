@@ -1,43 +1,31 @@
-# dix-pour-cent-s03e04-scene-03: review sheet
+# Review: `dix-pour-cent-s03e04-scene-03` — L'avertissement de Charles  (Charles's Warning)
 
-Title: L'avertissement de Charles  (Charles's Warning)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S03E04
-Cues 153-190. Lawyer Charles Hirsch discreetly warns his longtime friend Mathias about suspicious maneuvers within ASK. Adapted for A1 French.
+- **Source**: `sources/dix-pour-cent/s03/e04.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "charles": "theo"}`
+- **Labels**: `{"mathias": "Mathias", "charles": "Charles"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> At the Paris courthouse, attorney Charles Hirsch asks his longtime friend Mathias Barneville to meet on urgent business. Risking professional ethics, Charles discreetly warns Mathias that internal collaborators are secretly preparing to abandon ASK. Let's listen to the scene in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Désolé de te faire venir ici. | Sorry to make you come here. | #153 00:06:10: Désolé de t'avoir fait venir ici | adapted: Apologized for courthouse venue |
-| 2 | Mathias | Je t'en prie, je comprends parfaitement. | Please, I understand perfectly. | #155 00:06:13: Je t'en prie. | adapted: Politely accepted location |
-| 3 | Léa | Comment se passent les affaires chez ASK? | How are business matters going at ASK? | #165 00:06:28: Et chez ASK, alors, comment ça se passe | adapted: Inquired about agency health |
-| 4 | Mathias | Les projets s'enchaînent bien ces temps-ci. | Projects keep coming along well these days. | #174 00:06:49: les projets s'enchaînent, c'est l'essentiel. | adapted: Reported steady workflow |
-| 5 | Léa | Nous nous connaissons depuis trente ans. | We have known each other for thirty years. | #177 00:06:58: on se connaît depuis 30 ans, | adapted: Cited decades of friendship |
-| 6 | Mathias | Oui, tu es un ami fidèle. | Yes, you are a loyal friend. | #177 00:06:58: on se connaît depuis 30 ans, | adapted: Acknowledged enduring trust |
-| 7 | Léa | Je ne peux pas me taire. | I cannot stay silent. | #178 00:07:00: je ne peux pas ne rien te dire. | adapted: Felt duty to speak |
-| 8 | Mathias | Que se passe-t-il dans mon agence? | What is happening inside my agency? | #179 00:07:03: Il se passe des choses...<br>#180 00:07:04: dans ton agence. | adapted: Asked about internal trouble |
-| 9 | Léa | Des collaborateurs préparent un départ secret. | Collaborators are preparing a secret departure. | #183 00:07:12: D'autres collaborateurs.<br>#187 00:07:27: Elle va partir. | adapted: Warned of planned defection |
-| 10 | Mathias | Parles-tu d'Andréa Martel en particulier? | Are you speaking about Andrea Martel in particular? | #185 00:07:20: Andréa Martel ? | adapted: Guessed key collaborator |
-| 11 | Léa | Je ne peux pas violer le secret. | I cannot violate professional secrecy. | #186 00:07:21: Je peux rien te dire. | adapted: Upheld confidentiality limit |
-| 12 | Mathias | C'est une trahison totalement inattendue! | It is a totally unexpected betrayal! | #184 00:07:13: Tu devrais te méfier. | adapted: Voiced anger at betrayal |
-| 13 | Léa | À ta place, j'assurerais mes arrières. | If I were in your place, I would watch my back. | #188 00:07:30: À ta place, j'assurerai mes arrières. | adapted: Advised defensive measures |
-| 14 | Mathias | Merci pour cet avertissement précieux, Charles. | Thank you for this valuable warning, Charles. | #190 00:07:40: Merci, Charles. | adapted: Expressed gratitude for counsel |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `charles` (Charles) | Désolé de te faire venir ici. | Sorry to make you come here. | 153:Désolé de t'avoir fait venir ici |
+| 1 | `mathias` (Mathias) | Je t'en prie, je comprends parfaitement. | Please, I understand perfectly. | 155:Je t'en prie. |
+| 2 | `charles` (Charles) | Comment se passent les affaires chez ASK? | How are business matters going at ASK? | 165:Et chez ASK, alors, comment ça se passe |
+| 3 | `mathias` (Mathias) | Les projets s'enchaînent bien ces temps-ci. | Projects keep coming along well these days. | 174:les projets s'enchaînent, c'est l'essentiel. |
+| 4 | `charles` (Charles) | Nous nous connaissons depuis trente ans. | We have known each other for thirty years. | 177:on se connaît depuis 30 ans, |
+| 5 | `mathias` (Mathias) | Oui, tu es un ami fidèle. | Yes, you are a loyal friend. | 177:on se connaît depuis 30 ans, |
+| 6 | `charles` (Charles) | Je ne peux pas me taire. | I cannot stay silent. | 178:je ne peux pas ne rien te dire. |
+| 7 | `mathias` (Mathias) | Que se passe-t-il dans mon agence? | What is happening inside my agency? | 179:Il se passe des choses..., 180:dans ton agence. |
+| 8 | `charles` (Charles) | Des collaborateurs préparent un départ secret. | Collaborators are preparing a secret departure. | 183:D'autres collaborateurs., 187:Elle va partir. |
+| 9 | `mathias` (Mathias) | Parles-tu d'Andréa Martel en particulier? | Are you speaking about Andrea Martel in particular? | 185:Andréa Martel ? |
+| 10 | `charles` (Charles) | Je ne peux pas violer le secret. | I cannot violate professional secrecy. | 186:Je peux rien te dire. |
+| 11 | `mathias` (Mathias) | C'est une trahison totalement inattendue! | It is a totally unexpected betrayal! | 184:Tu devrais te méfier. |
+| 12 | `charles` (Charles) | À ta place, j'assurerais mes arrières. | If I were in your place, I would watch my back. | 188:À ta place, j'assurerai mes arrières. |
+| 13 | `mathias` (Mathias) | Merci pour cet avertissement précieux, Charles. | Thank you for this valuable warning, Charles. | 190:Merci, Charles. |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Sorry to make you come here.' The clause hinges on the everyday verb meaning 'do'.
-- 'Please, I understand perfectly.' The clause hinges on the everyday verb meaning 'pray'.
-- 'How are business matters going at ASK?' In everyday spoken French, rising intonation on 'pass' at the end is enough to turn the sentence into a question. In everyday spoken French, rising intonation on 'pass' at the end is enough to turn the sentence into a question.
-- 'Projects keep coming along well these days.' An optimistic update reporting continuous agency activity. The verb meaning 'follow one after another' pairs naturally with the noun for 'ventures' in everyday conversation.
-- 'We have known each other for thirty years.' Notice how 'know' leads directly into the noun meaning 'years'. Notice how 'know' leads directly into the noun meaning 'years'.
-- 'Yes, you are a loyal friend.' A sincere affirmation confirming mutual loyalty. The descriptive adjective for 'loyal' agrees in gender and number with its noun.
-- 'I cannot stay silent.' A moral resolve declaring an inability to conceal impending danger. Notice the classic French sandwich negation wrapping right around 'can'.
-- 'What is happening inside my agency?' The reflexive pronoun sits right in front of the verb for 'is happening', turning the action back onto the subject.
-- 'Collaborators are preparing a secret departure.' A discreet disclosure revealing an imminent breakaway. Notice how 'are preparing' leads directly into the noun meaning 'associates'.
-- 'Are you speaking about Andrea Martel in particular?' A sharp deduction guessing the ringleader's identity. Inverting the verb and pronoun around 'do you speak' creates a crisp, polished question.
-- 'I cannot violate professional secrecy.' Notice the classic French sandwich negation wrapping right around 'can'. Notice the classic French sandwich negation wrapping right around 'can'.
-- 'It is a totally unexpected betrayal!' The adjective meaning 'unexpected' takes its feminine form here to match the noun it describes.
-- 'If I were in your place, I would watch my back.' A direct colloquial recommendation advising self-defense. Notice how 'would cover' leads directly into the noun meaning 'place'.
-- 'Thank you for this valuable warning, Charles.' A grateful acknowledgment thanking an old friend for the tip. The descriptive adjective for 'precious' agrees in gender and number with its noun.
+## Part 5 — Outro & Closing
+> Armed with Charles's warning, Mathias realizes that Andrea Martel and her allies are quietly organizing a mutiny. When you watch the episode, listen out for the expressions meaning 'sorry' and 'to come'. You'll catch them now. See you next time.
+- **Closing**: `mathias`: *À bientôt!*

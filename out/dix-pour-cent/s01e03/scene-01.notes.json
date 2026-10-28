@@ -10,9 +10,9 @@
           "t": "Cécile!",
           "lemma": "cécile",
           "pos": "name",
-          "stress": "sesil",
-          "gloss": "Cécile (first name, Cécile de France)",
-          "gram": "proper name"
+          "stress": null,
+          "gloss": "Cécile (de France)",
+          "gram": "first name"
         },
         {
           "t": "Oui,",
@@ -20,7 +20,7 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "positive answer"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "super.",
@@ -43,8 +43,8 @@
           "lemma": "salut",
           "pos": "interj",
           "stress": "saly",
-          "gloss": "bye",
-          "gram": "informal greeting or goodbye"
+          "gloss": "hi",
+          "gram": "informal greeting"
         }
       ]
     },
@@ -54,11 +54,11 @@
       "words": [
         {
           "t": "Le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "contrôle",
@@ -81,8 +81,8 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sɛt",
-          "gloss": "that, this",
-          "gram": "demonstrative determiner, feminine singular"
+          "gloss": "this",
+          "gram": "demonstrative, feminine singular"
         },
         {
           "t": "lettre",
@@ -104,15 +104,15 @@
           "t": "monsieur",
           "lemma": "monsieur",
           "pos": "noun",
-          "stress": "məsjø",
-          "gloss": "Mr, sir",
-          "gram": "masculine singular, polite title"
+          "stress": "msjø",
+          "gloss": "Mr",
+          "gram": "masculine singular, title before a name"
         },
         {
           "t": "Jarron?",
           "lemma": "jarron",
           "pos": "name",
-          "stress": "ʒaʁɔ̃",
+          "stress": null,
           "gloss": "Jarron (surname)",
           "gram": "proper name"
         }
@@ -128,13 +128,13 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "positive answer"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -143,8 +143,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "le",
-          "gloss": "have ... it",
-          "gram": "la (elided l', it, feminine) + ai: auxiliary, present, 1st person singular"
+          "gloss": "(I) have ... her",
+          "gram": "l' (her) + ai: object pronoun + helper verb, passé composé"
         },
         {
           "t": "envoyée.",
@@ -165,16 +165,16 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (I ...)",
-          "gram": "je + ai: auxiliary for the passé composé, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "pris",
           "lemma": "prendre",
           "pos": "verb",
           "stress": "pʁi",
-          "gloss": "took (taken)",
-          "gram": "past participle of 'prendre'; passé composé with 'avoir'"
+          "gloss": "taken, made",
+          "gram": "past participle (passé composé)"
         },
         {
           "t": "la",
@@ -196,7 +196,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -205,8 +205,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "le",
-          "gloss": "have ... it",
-          "gram": "la (elided l', it, feminine) + ai: auxiliary, present, 1st person singular"
+          "gloss": "(I) have ... her",
+          "gram": "l' (her) + ai: object pronoun + helper verb, passé composé"
         },
         {
           "t": "mise",
@@ -221,7 +221,7 @@
           "lemma": "dans",
           "pos": "prep",
           "stress": "dɑ̃",
-          "gloss": "in, into",
+          "gloss": "in",
           "gram": "preposition ('dans', meaning 'in')"
         },
         {
@@ -229,7 +229,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an, a",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -252,27 +252,27 @@
           "pos": "interj",
           "stress": "o",
           "gloss": "oh (surprise, dismay)",
-          "gram": "exclamation"
+          "gram": "interjection / exclamation ('oh')"
         },
         {
           "t": "non!",
           "lemma": "non",
           "pos": "adv",
           "stress": "nɔ̃",
-          "gloss": "no!",
-          "gram": "negative exclamation"
+          "gloss": "no",
+          "gram": "negative answer"
         }
       ]
     },
     {
       "seg": 6,
-      "trans": "I'm sorry.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -290,21 +290,21 @@
           "pos": "adj",
           "stress": "dezɔle",
           "gloss": "sorry",
-          "gram": "feminine singular (Camille is speaking)"
+          "gram": "feminine singular"
         }
       ]
     },
     {
       "seg": 7,
-      "trans": "What's the point of paying an assistant?",
+      "trans": "What",
       "words": [
         {
           "t": "À",
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "for, to",
-          "gram": "servir à = to be useful for; moved to the front with 'quoi'"
+          "gloss": "at",
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "quoi",
@@ -312,15 +312,15 @@
           "pos": "pron",
           "stress": "kwa",
           "gloss": "what",
-          "gram": "interrogative pronoun after a preposition; 'à quoi ça sert' = what's the point"
+          "gram": "interrogative pronoun, informal, after the verb"
         },
         {
           "t": "ça",
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "it, that",
-          "gram": "demonstrative pronoun, subject"
+          "gloss": "that",
+          "gram": "demonstrative pronoun, informal"
         },
         {
           "t": "sert",
@@ -334,9 +334,9 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "to",
-          "gram": "preposition before the infinitive after 'ça sert'"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "payer",
@@ -351,7 +351,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an, a",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -366,7 +366,7 @@
     },
     {
       "seg": 8,
-      "trans": "No, Gabriel, you can't always fix everything!",
+      "trans": "No, Gabriel, you can",
       "words": [
         {
           "t": "Non,",
@@ -380,25 +380,25 @@
           "t": "Gabriel,",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel (addressing him)",
-          "gram": "proper name"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
           "t": "on",
           "lemma": "on",
           "pos": "pron",
           "stress": "ɔ̃",
-          "gloss": "you, one, we",
-          "gram": "subject pronoun, 3rd person singular"
+          "gloss": "we",
+          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
         },
         {
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
-          "gloss": "not (first part)",
-          "gram": "negation"
+          "stress": "n",
+          "gloss": "not",
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "peut",
@@ -406,15 +406,15 @@
           "pos": "verb",
           "stress": "pø",
           "gloss": "can",
-          "gram": "present, 3rd person singular"
+          "gram": "present, 3rd person singular (with 'on')"
         },
         {
           "t": "pas",
           "lemma": "pas",
           "pos": "part",
           "stress": "pa",
-          "gloss": "not (second part)",
-          "gram": "negation ne ... pas"
+          "gloss": "not",
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "toujours",
@@ -426,19 +426,19 @@
         },
         {
           "t": "tout",
-          "lemma": "tout",
-          "pos": "pron",
+          "lemma": "tout le monde",
+          "pos": "phrase",
           "stress": "tu",
-          "gloss": "everything",
-          "gram": "indefinite pronoun, direct object placed before the infinitive"
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "arranger!",
           "lemma": "arranger",
           "pos": "verb",
           "stress": "aʁɑ̃ʒe",
-          "gloss": "fix, sort out",
-          "gram": "infinitive after 'pouvoir'"
+          "gloss": "to fix",
+          "gram": "infinitive after aller"
         }
       ]
     },
@@ -452,15 +452,15 @@
           "pos": "pron",
           "stress": "ɔ̃",
           "gloss": "we",
-          "gram": "subject pronoun, 3rd person singular, informal 'we'"
+          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
         },
         {
           "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "a",
-          "gloss": "have (had)",
-          "gram": "auxiliary for the passé composé, 3rd person singular"
+          "gloss": "is (there is)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         },
         {
           "t": "eu",
@@ -468,7 +468,7 @@
           "pos": "verb",
           "stress": "y",
           "gloss": "had",
-          "gram": "past participle of 'avoir'; 'on a eu' = we had"
+          "gram": "past participle of avoir"
         },
         {
           "t": "un",
@@ -484,15 +484,15 @@
           "pos": "noun",
           "stress": "apɛl",
           "gloss": "call",
-          "gram": "masculine singular"
+          "gram": "noun, masculine singular"
         },
         {
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "sə",
-          "gloss": "this",
-          "gram": "demonstrative determiner, masculine singular"
+          "stress": "s",
+          "gloss": "this (ce soir = tonight)",
+          "gram": "demonstrative, masculine singular"
         },
         {
           "t": "matin.",
@@ -500,7 +500,7 @@
           "pos": "noun",
           "stress": "matɛ̃",
           "gloss": "morning",
-          "gram": "masculine singular; 'ce matin' = this morning"
+          "gram": "masculine singular"
         }
       ]
     },
@@ -510,11 +510,11 @@
       "words": [
         {
           "t": "Le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "dossier",
@@ -529,8 +529,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular"
+          "gloss": "are (we are)",
+          "gram": "present, 3rd person singular, used with on = we"
         },
         {
           "t": "dans",
@@ -545,7 +545,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "œ̃",
-          "gloss": "an, a",
+          "gloss": "a",
           "gram": "indefinite article, masculine singular"
         },
         {
@@ -553,16 +553,16 @@
           "lemma": "autre",
           "pos": "adj",
           "stress": "otʁ",
-          "gloss": "other, another",
-          "gram": "masculine singular, before the noun"
+          "gloss": "another",
+          "gram": "singular, after une"
         },
         {
           "t": "service.",
           "lemma": "service",
           "pos": "noun",
           "stress": "sɛʁvis",
-          "gloss": "department, office",
-          "gram": "masculine singular"
+          "gloss": "department",
+          "gram": "noun, masculine singular"
         }
       ]
     },
@@ -574,7 +574,7 @@
           "t": "Jarron",
           "lemma": "jarron",
           "pos": "name",
-          "stress": "ʒaʁɔ̃",
+          "stress": null,
           "gloss": "Jarron (surname)",
           "gram": "proper name"
         },
@@ -584,7 +584,7 @@
           "pos": "verb",
           "stress": "etɛ",
           "gloss": "was",
-          "gram": "imperfect (imparfait), 3rd person singular"
+          "gram": "imparfait, 3rd person singular"
         },
         {
           "t": "notre",
@@ -592,7 +592,7 @@
           "pos": "det",
           "stress": "nɔtʁ",
           "gloss": "our",
-          "gram": "possessive determiner, singular"
+          "gram": "possessive, singular"
         },
         {
           "t": "seul",
@@ -618,26 +618,26 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "it",
-          "gram": "impersonal subject in 'il faut'"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "faut",
           "lemma": "falloir",
           "pos": "verb",
           "stress": "fo",
-          "gloss": "is necessary (we need to)",
-          "gram": "present, 3rd person singular; 'il faut' + infinitive = one must / we need to"
+          "gloss": "is needed",
+          "gram": "present, 3rd person singular, impersonal: il faut = you need"
         },
         {
           "t": "peut-être",
           "lemma": "peut-être",
           "pos": "adv",
           "stress": "pøtɛtʁ",
-          "gloss": "maybe, perhaps",
+          "gloss": "maybe",
           "gram": "invariable adverb ('peut-être', meaning 'maybe')"
         },
         {
@@ -654,23 +654,23 @@
           "pos": "det",
           "stress": "no",
           "gloss": "our",
-          "gram": "possessive determiner, plural"
+          "gram": "possessive, plural"
         },
         {
           "t": "comptes",
           "lemma": "compte",
           "pos": "noun",
           "stress": "kɔ̃t",
-          "gloss": "accounts, books",
-          "gram": "masculine plural"
+          "gloss": "accounts",
+          "gram": "masculine plural; faire ses comptes = to do one's accounts"
         },
         {
           "t": "en",
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "in",
-          "gram": "preposition; 'en ordre' = in order"
+          "gloss": "(en retard) late",
+          "gram": "preposition, in en retard"
         },
         {
           "t": "ordre.",
@@ -691,8 +691,8 @@
           "lemma": "le",
           "pos": "det",
           "stress": "la",
-          "gloss": "the (life)",
-          "gram": "definite article, feminine singular, used for general concepts"
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
         },
         {
           "t": "vie,",
@@ -707,22 +707,22 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "is (it's)",
-          "gram": "ce (it) + est: present, 3rd person singular, repeating the subject 'la vie'"
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "a",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
           "t": "grande",
           "lemma": "grand",
           "pos": "adj",
-          "stress": "ɡʁɑ̃d",
+          "stress": "ʁɑ̃d",
           "gloss": "big",
           "gram": "feminine singular, before the noun"
         },
@@ -730,7 +730,7 @@
           "t": "blague",
           "lemma": "blague",
           "pos": "noun",
-          "stress": "blaɡ",
+          "stress": "bla",
           "gloss": "joke",
           "gram": "feminine singular"
         },
@@ -739,7 +739,7 @@
           "lemma": "pour",
           "pos": "prep",
           "stress": "puʁ",
-          "gloss": "for, to",
+          "gloss": "for",
           "gram": "preposition ('pour', meaning 'for')"
         },
         {
@@ -748,7 +748,7 @@
           "pos": "pron",
           "stress": "twa",
           "gloss": "you",
-          "gram": "stressed pronoun, informal, after a preposition"
+          "gram": "stressed pronoun, 2nd person singular, informal"
         }
       ]
     },
@@ -761,7 +761,7 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you",
+          "gloss": "you (casual)",
           "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
@@ -777,8 +777,8 @@
           "lemma": "aussi",
           "pos": "adv",
           "stress": "osi",
-          "gloss": "as, that",
-          "gram": "adverb of comparison: 'aussi ... que' = as ... as"
+          "gloss": "also",
+          "gram": "invariable adverb ('aussi', meaning 'also')"
         },
         {
           "t": "stupide",
@@ -786,15 +786,15 @@
           "pos": "adj",
           "stress": "stypid",
           "gloss": "stupid",
-          "gram": "masculine singular (same form in the feminine)"
+          "gram": "adjective, masculine singular"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
-          "gloss": "as",
-          "gram": "conjunction in 'aussi ... que' (as ... as)"
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "ça?",
@@ -802,7 +802,7 @@
           "pos": "pron",
           "stress": "sa",
           "gloss": "that",
-          "gram": "demonstrative pronoun"
+          "gram": "demonstrative pronoun, informal"
         }
       ]
     },
@@ -844,9 +844,9 @@
           "t": "Cécile!",
           "lemma": "cécile",
           "pos": "name",
-          "stress": "sesil",
-          "gloss": "Cécile (first name, Cécile de France)",
-          "gram": "proper name"
+          "stress": null,
+          "gloss": "Cécile (de France)",
+          "gram": "first name"
         },
         {
           "t": "Oui,",
@@ -854,7 +854,7 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "positive answer"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "super.",
@@ -877,8 +877,8 @@
           "lemma": "salut",
           "pos": "interj",
           "stress": "saly",
-          "gloss": "bye",
-          "gram": "informal greeting or goodbye"
+          "gloss": "hi",
+          "gram": "informal greeting"
         }
       ]
     },
@@ -888,11 +888,11 @@
       "words": [
         {
           "t": "Le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "contrôle",
@@ -921,8 +921,8 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sɛt",
-          "gloss": "that, this",
-          "gram": "demonstrative determiner, feminine singular"
+          "gloss": "this",
+          "gram": "demonstrative, feminine singular"
         },
         {
           "t": "lettre",
@@ -944,15 +944,15 @@
           "t": "monsieur",
           "lemma": "monsieur",
           "pos": "noun",
-          "stress": "məsjø",
-          "gloss": "Mr, sir",
-          "gram": "masculine singular, polite title"
+          "stress": "msjø",
+          "gloss": "Mr",
+          "gram": "masculine singular, title before a name"
         },
         {
           "t": "Jarron?",
           "lemma": "jarron",
           "pos": "name",
-          "stress": "ʒaʁɔ̃",
+          "stress": null,
           "gloss": "Jarron (surname)",
           "gram": "proper name"
         }
@@ -968,13 +968,13 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "positive answer"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -983,8 +983,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "le",
-          "gloss": "have ... it",
-          "gram": "la (elided l', it, feminine) + ai: auxiliary, present, 1st person singular"
+          "gloss": "(I) have ... her",
+          "gram": "l' (her) + ai: object pronoun + helper verb, passé composé"
         },
         {
           "t": "envoyée.",
@@ -1005,16 +1005,16 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (I ...)",
-          "gram": "je + ai: auxiliary for the passé composé, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "pris",
           "lemma": "prendre",
           "pos": "verb",
           "stress": "pʁi",
-          "gloss": "took (taken)",
-          "gram": "past participle of 'prendre'; passé composé with 'avoir'"
+          "gloss": "taken, made",
+          "gram": "past participle (passé composé)"
         },
         {
           "t": "la",
@@ -1042,7 +1042,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1051,8 +1051,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "le",
-          "gloss": "have ... it",
-          "gram": "la (elided l', it, feminine) + ai: auxiliary, present, 1st person singular"
+          "gloss": "(I) have ... her",
+          "gram": "l' (her) + ai: object pronoun + helper verb, passé composé"
         },
         {
           "t": "mise",
@@ -1067,7 +1067,7 @@
           "lemma": "dans",
           "pos": "prep",
           "stress": "dɑ̃",
-          "gloss": "in, into",
+          "gloss": "in",
           "gram": "preposition ('dans', meaning 'in')"
         },
         {
@@ -1075,7 +1075,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an, a",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -1098,27 +1098,27 @@
           "pos": "interj",
           "stress": "o",
           "gloss": "oh (surprise, dismay)",
-          "gram": "exclamation"
+          "gram": "interjection / exclamation ('oh')"
         },
         {
           "t": "non!",
           "lemma": "non",
           "pos": "adv",
           "stress": "nɔ̃",
-          "gloss": "no!",
-          "gram": "negative exclamation"
+          "gloss": "no",
+          "gram": "negative answer"
         }
       ]
     },
     {
       "seg": 31,
-      "trans": "I'm sorry.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1136,21 +1136,21 @@
           "pos": "adj",
           "stress": "dezɔle",
           "gloss": "sorry",
-          "gram": "feminine singular (Camille is speaking)"
+          "gram": "feminine singular"
         }
       ]
     },
     {
       "seg": 33,
-      "trans": "What's the point of paying an assistant?",
+      "trans": "What",
       "words": [
         {
           "t": "À",
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "for, to",
-          "gram": "servir à = to be useful for; moved to the front with 'quoi'"
+          "gloss": "at",
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "quoi",
@@ -1158,15 +1158,15 @@
           "pos": "pron",
           "stress": "kwa",
           "gloss": "what",
-          "gram": "interrogative pronoun after a preposition; 'à quoi ça sert' = what's the point"
+          "gram": "interrogative pronoun, informal, after the verb"
         },
         {
           "t": "ça",
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "it, that",
-          "gram": "demonstrative pronoun, subject"
+          "gloss": "that",
+          "gram": "demonstrative pronoun, informal"
         },
         {
           "t": "sert",
@@ -1180,9 +1180,9 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "to",
-          "gram": "preposition before the infinitive after 'ça sert'"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "payer",
@@ -1197,7 +1197,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an, a",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -1212,7 +1212,7 @@
     },
     {
       "seg": 35,
-      "trans": "No, Gabriel, you can't always fix everything!",
+      "trans": "No, Gabriel, you can",
       "words": [
         {
           "t": "Non,",
@@ -1226,25 +1226,25 @@
           "t": "Gabriel,",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel (addressing him)",
-          "gram": "proper name"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
           "t": "on",
           "lemma": "on",
           "pos": "pron",
           "stress": "ɔ̃",
-          "gloss": "you, one, we",
-          "gram": "subject pronoun, 3rd person singular"
+          "gloss": "we",
+          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
         },
         {
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
-          "gloss": "not (first part)",
-          "gram": "negation"
+          "stress": "n",
+          "gloss": "not",
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "peut",
@@ -1252,15 +1252,15 @@
           "pos": "verb",
           "stress": "pø",
           "gloss": "can",
-          "gram": "present, 3rd person singular"
+          "gram": "present, 3rd person singular (with 'on')"
         },
         {
           "t": "pas",
           "lemma": "pas",
           "pos": "part",
           "stress": "pa",
-          "gloss": "not (second part)",
-          "gram": "negation ne ... pas"
+          "gloss": "not",
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "toujours",
@@ -1272,19 +1272,19 @@
         },
         {
           "t": "tout",
-          "lemma": "tout",
-          "pos": "pron",
+          "lemma": "tout le monde",
+          "pos": "phrase",
           "stress": "tu",
-          "gloss": "everything",
-          "gram": "indefinite pronoun, direct object placed before the infinitive"
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "arranger!",
           "lemma": "arranger",
           "pos": "verb",
           "stress": "aʁɑ̃ʒe",
-          "gloss": "fix, sort out",
-          "gram": "infinitive after 'pouvoir'"
+          "gloss": "to fix",
+          "gram": "infinitive after aller"
         }
       ]
     },
@@ -1298,15 +1298,15 @@
           "pos": "pron",
           "stress": "ɔ̃",
           "gloss": "we",
-          "gram": "subject pronoun, 3rd person singular, informal 'we'"
+          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
         },
         {
           "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "a",
-          "gloss": "have (had)",
-          "gram": "auxiliary for the passé composé, 3rd person singular"
+          "gloss": "is (there is)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         },
         {
           "t": "eu",
@@ -1314,7 +1314,7 @@
           "pos": "verb",
           "stress": "y",
           "gloss": "had",
-          "gram": "past participle of 'avoir'; 'on a eu' = we had"
+          "gram": "past participle of avoir"
         },
         {
           "t": "un",
@@ -1330,15 +1330,15 @@
           "pos": "noun",
           "stress": "apɛl",
           "gloss": "call",
-          "gram": "masculine singular"
+          "gram": "noun, masculine singular"
         },
         {
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "sə",
-          "gloss": "this",
-          "gram": "demonstrative determiner, masculine singular"
+          "stress": "s",
+          "gloss": "this (ce soir = tonight)",
+          "gram": "demonstrative, masculine singular"
         },
         {
           "t": "matin.",
@@ -1346,7 +1346,7 @@
           "pos": "noun",
           "stress": "matɛ̃",
           "gloss": "morning",
-          "gram": "masculine singular; 'ce matin' = this morning"
+          "gram": "masculine singular"
         }
       ]
     },
@@ -1356,11 +1356,11 @@
       "words": [
         {
           "t": "Le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "dossier",
@@ -1375,8 +1375,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular"
+          "gloss": "are (we are)",
+          "gram": "present, 3rd person singular, used with on = we"
         },
         {
           "t": "dans",
@@ -1391,7 +1391,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "œ̃",
-          "gloss": "an, a",
+          "gloss": "a",
           "gram": "indefinite article, masculine singular"
         },
         {
@@ -1399,16 +1399,16 @@
           "lemma": "autre",
           "pos": "adj",
           "stress": "otʁ",
-          "gloss": "other, another",
-          "gram": "masculine singular, before the noun"
+          "gloss": "another",
+          "gram": "singular, after une"
         },
         {
           "t": "service.",
           "lemma": "service",
           "pos": "noun",
           "stress": "sɛʁvis",
-          "gloss": "department, office",
-          "gram": "masculine singular"
+          "gloss": "department",
+          "gram": "noun, masculine singular"
         }
       ]
     },
@@ -1420,7 +1420,7 @@
           "t": "Jarron",
           "lemma": "jarron",
           "pos": "name",
-          "stress": "ʒaʁɔ̃",
+          "stress": null,
           "gloss": "Jarron (surname)",
           "gram": "proper name"
         },
@@ -1430,7 +1430,7 @@
           "pos": "verb",
           "stress": "etɛ",
           "gloss": "was",
-          "gram": "imperfect (imparfait), 3rd person singular"
+          "gram": "imparfait, 3rd person singular"
         },
         {
           "t": "notre",
@@ -1438,7 +1438,7 @@
           "pos": "det",
           "stress": "nɔtʁ",
           "gloss": "our",
-          "gram": "possessive determiner, singular"
+          "gram": "possessive, singular"
         },
         {
           "t": "seul",
@@ -1464,26 +1464,26 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "it",
-          "gram": "impersonal subject in 'il faut'"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "faut",
           "lemma": "falloir",
           "pos": "verb",
           "stress": "fo",
-          "gloss": "is necessary (we need to)",
-          "gram": "present, 3rd person singular; 'il faut' + infinitive = one must / we need to"
+          "gloss": "is needed",
+          "gram": "present, 3rd person singular, impersonal: il faut = you need"
         },
         {
           "t": "peut-être",
           "lemma": "peut-être",
           "pos": "adv",
           "stress": "pøtɛtʁ",
-          "gloss": "maybe, perhaps",
+          "gloss": "maybe",
           "gram": "invariable adverb ('peut-être', meaning 'maybe')"
         },
         {
@@ -1500,23 +1500,23 @@
           "pos": "det",
           "stress": "no",
           "gloss": "our",
-          "gram": "possessive determiner, plural"
+          "gram": "possessive, plural"
         },
         {
           "t": "comptes",
           "lemma": "compte",
           "pos": "noun",
           "stress": "kɔ̃t",
-          "gloss": "accounts, books",
-          "gram": "masculine plural"
+          "gloss": "accounts",
+          "gram": "masculine plural; faire ses comptes = to do one's accounts"
         },
         {
           "t": "en",
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "in",
-          "gram": "preposition; 'en ordre' = in order"
+          "gloss": "(en retard) late",
+          "gram": "preposition, in en retard"
         },
         {
           "t": "ordre.",
@@ -1537,8 +1537,8 @@
           "lemma": "le",
           "pos": "det",
           "stress": "la",
-          "gloss": "the (life)",
-          "gram": "definite article, feminine singular, used for general concepts"
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
         },
         {
           "t": "vie,",
@@ -1553,22 +1553,22 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "is (it's)",
-          "gram": "ce (it) + est: present, 3rd person singular, repeating the subject 'la vie'"
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "a",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
           "t": "grande",
           "lemma": "grand",
           "pos": "adj",
-          "stress": "ɡʁɑ̃d",
+          "stress": "ʁɑ̃d",
           "gloss": "big",
           "gram": "feminine singular, before the noun"
         },
@@ -1576,7 +1576,7 @@
           "t": "blague",
           "lemma": "blague",
           "pos": "noun",
-          "stress": "blaɡ",
+          "stress": "bla",
           "gloss": "joke",
           "gram": "feminine singular"
         },
@@ -1585,7 +1585,7 @@
           "lemma": "pour",
           "pos": "prep",
           "stress": "puʁ",
-          "gloss": "for, to",
+          "gloss": "for",
           "gram": "preposition ('pour', meaning 'for')"
         },
         {
@@ -1594,7 +1594,7 @@
           "pos": "pron",
           "stress": "twa",
           "gloss": "you",
-          "gram": "stressed pronoun, informal, after a preposition"
+          "gram": "stressed pronoun, 2nd person singular, informal"
         }
       ]
     },
@@ -1607,7 +1607,7 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you",
+          "gloss": "you (casual)",
           "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
@@ -1623,8 +1623,8 @@
           "lemma": "aussi",
           "pos": "adv",
           "stress": "osi",
-          "gloss": "as, that",
-          "gram": "adverb of comparison: 'aussi ... que' = as ... as"
+          "gloss": "also",
+          "gram": "invariable adverb ('aussi', meaning 'also')"
         },
         {
           "t": "stupide",
@@ -1632,15 +1632,15 @@
           "pos": "adj",
           "stress": "stypid",
           "gloss": "stupid",
-          "gram": "masculine singular (same form in the feminine)"
+          "gram": "adjective, masculine singular"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
-          "gloss": "as",
-          "gram": "conjunction in 'aussi ... que' (as ... as)"
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "ça?",
@@ -1648,7 +1648,7 @@
           "pos": "pron",
           "stress": "sa",
           "gloss": "that",
-          "gram": "demonstrative pronoun"
+          "gram": "demonstrative pronoun, informal"
         }
       ]
     },
@@ -1690,9 +1690,9 @@
           "t": "Cécile!",
           "lemma": "cécile",
           "pos": "name",
-          "stress": "sesil",
-          "gloss": "Cécile (first name, Cécile de France)",
-          "gram": "proper name"
+          "stress": null,
+          "gloss": "Cécile (de France)",
+          "gram": "first name"
         },
         {
           "t": "Oui,",
@@ -1700,7 +1700,7 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "positive answer"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "super.",
@@ -1723,8 +1723,8 @@
           "lemma": "salut",
           "pos": "interj",
           "stress": "saly",
-          "gloss": "bye",
-          "gram": "informal greeting or goodbye"
+          "gloss": "hi",
+          "gram": "informal greeting"
         }
       ]
     },
@@ -1734,11 +1734,11 @@
       "words": [
         {
           "t": "Le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "contrôle",
@@ -1761,8 +1761,8 @@
           "lemma": "ce",
           "pos": "det",
           "stress": "sɛt",
-          "gloss": "that, this",
-          "gram": "demonstrative determiner, feminine singular"
+          "gloss": "this",
+          "gram": "demonstrative, feminine singular"
         },
         {
           "t": "lettre",
@@ -1784,15 +1784,15 @@
           "t": "monsieur",
           "lemma": "monsieur",
           "pos": "noun",
-          "stress": "məsjø",
-          "gloss": "Mr, sir",
-          "gram": "masculine singular, polite title"
+          "stress": "msjø",
+          "gloss": "Mr",
+          "gram": "masculine singular, title before a name"
         },
         {
           "t": "Jarron?",
           "lemma": "jarron",
           "pos": "name",
-          "stress": "ʒaʁɔ̃",
+          "stress": null,
           "gloss": "Jarron (surname)",
           "gram": "proper name"
         }
@@ -1808,13 +1808,13 @@
           "pos": "adv",
           "stress": "wi",
           "gloss": "yes",
-          "gram": "positive answer"
+          "gram": "answer, repeated for emphasis"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1823,8 +1823,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "le",
-          "gloss": "have ... it",
-          "gram": "la (elided l', it, feminine) + ai: auxiliary, present, 1st person singular"
+          "gloss": "(I) have ... her",
+          "gram": "l' (her) + ai: object pronoun + helper verb, passé composé"
         },
         {
           "t": "envoyée.",
@@ -1845,16 +1845,16 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (I ...)",
-          "gram": "je + ai: auxiliary for the passé composé, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "pris",
           "lemma": "prendre",
           "pos": "verb",
           "stress": "pʁi",
-          "gloss": "took (taken)",
-          "gram": "past participle of 'prendre'; passé composé with 'avoir'"
+          "gloss": "taken, made",
+          "gram": "past participle (passé composé)"
         },
         {
           "t": "la",
@@ -1876,7 +1876,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1885,8 +1885,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "le",
-          "gloss": "have ... it",
-          "gram": "la (elided l', it, feminine) + ai: auxiliary, present, 1st person singular"
+          "gloss": "(I) have ... her",
+          "gram": "l' (her) + ai: object pronoun + helper verb, passé composé"
         },
         {
           "t": "mise",
@@ -1901,7 +1901,7 @@
           "lemma": "dans",
           "pos": "prep",
           "stress": "dɑ̃",
-          "gloss": "in, into",
+          "gloss": "in",
           "gram": "preposition ('dans', meaning 'in')"
         },
         {
@@ -1909,7 +1909,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an, a",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -1932,27 +1932,27 @@
           "pos": "interj",
           "stress": "o",
           "gloss": "oh (surprise, dismay)",
-          "gram": "exclamation"
+          "gram": "interjection / exclamation ('oh')"
         },
         {
           "t": "non!",
           "lemma": "non",
           "pos": "adv",
           "stress": "nɔ̃",
-          "gloss": "no!",
-          "gram": "negative exclamation"
+          "gloss": "no",
+          "gram": "negative answer"
         }
       ]
     },
     {
       "seg": 56,
-      "trans": "I'm sorry.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1970,21 +1970,21 @@
           "pos": "adj",
           "stress": "dezɔle",
           "gloss": "sorry",
-          "gram": "feminine singular (Camille is speaking)"
+          "gram": "feminine singular"
         }
       ]
     },
     {
       "seg": 57,
-      "trans": "What's the point of paying an assistant?",
+      "trans": "What",
       "words": [
         {
           "t": "À",
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "for, to",
-          "gram": "servir à = to be useful for; moved to the front with 'quoi'"
+          "gloss": "at",
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "quoi",
@@ -1992,15 +1992,15 @@
           "pos": "pron",
           "stress": "kwa",
           "gloss": "what",
-          "gram": "interrogative pronoun after a preposition; 'à quoi ça sert' = what's the point"
+          "gram": "interrogative pronoun, informal, after the verb"
         },
         {
           "t": "ça",
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "it, that",
-          "gram": "demonstrative pronoun, subject"
+          "gloss": "that",
+          "gram": "demonstrative pronoun, informal"
         },
         {
           "t": "sert",
@@ -2014,9 +2014,9 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "to",
-          "gram": "preposition before the infinitive after 'ça sert'"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "payer",
@@ -2031,7 +2031,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "an, a",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -2046,7 +2046,7 @@
     },
     {
       "seg": 58,
-      "trans": "No, Gabriel, you can't always fix everything!",
+      "trans": "No, Gabriel, you can",
       "words": [
         {
           "t": "Non,",
@@ -2060,25 +2060,25 @@
           "t": "Gabriel,",
           "lemma": "gabriel",
           "pos": "name",
-          "stress": "ɡabʁijɛl",
-          "gloss": "Gabriel (addressing him)",
-          "gram": "proper name"
+          "stress": null,
+          "gloss": "Gabriel (her agent)",
+          "gram": "first name"
         },
         {
           "t": "on",
           "lemma": "on",
           "pos": "pron",
           "stress": "ɔ̃",
-          "gloss": "you, one, we",
-          "gram": "subject pronoun, 3rd person singular"
+          "gloss": "we",
+          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
         },
         {
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
-          "gloss": "not (first part)",
-          "gram": "negation"
+          "stress": "n",
+          "gloss": "not",
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "peut",
@@ -2086,15 +2086,15 @@
           "pos": "verb",
           "stress": "pø",
           "gloss": "can",
-          "gram": "present, 3rd person singular"
+          "gram": "present, 3rd person singular (with 'on')"
         },
         {
           "t": "pas",
           "lemma": "pas",
           "pos": "part",
           "stress": "pa",
-          "gloss": "not (second part)",
-          "gram": "negation ne ... pas"
+          "gloss": "not",
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "toujours",
@@ -2106,19 +2106,19 @@
         },
         {
           "t": "tout",
-          "lemma": "tout",
-          "pos": "pron",
+          "lemma": "tout le monde",
+          "pos": "phrase",
           "stress": "tu",
-          "gloss": "everything",
-          "gram": "indefinite pronoun, direct object placed before the infinitive"
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "arranger!",
           "lemma": "arranger",
           "pos": "verb",
           "stress": "aʁɑ̃ʒe",
-          "gloss": "fix, sort out",
-          "gram": "infinitive after 'pouvoir'"
+          "gloss": "to fix",
+          "gram": "infinitive after aller"
         }
       ]
     },
@@ -2132,15 +2132,15 @@
           "pos": "pron",
           "stress": "ɔ̃",
           "gloss": "we",
-          "gram": "subject pronoun, 3rd person singular, informal 'we'"
+          "gram": "subject pronoun, used for 'we' in speech; verb in 3rd person singular"
         },
         {
           "t": "a",
-          "lemma": "avoir",
-          "pos": "verb",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "a",
-          "gloss": "have (had)",
-          "gram": "auxiliary for the passé composé, 3rd person singular"
+          "gloss": "is (there is)",
+          "gram": "part of il y a: avoir, 3rd person singular"
         },
         {
           "t": "eu",
@@ -2148,7 +2148,7 @@
           "pos": "verb",
           "stress": "y",
           "gloss": "had",
-          "gram": "past participle of 'avoir'; 'on a eu' = we had"
+          "gram": "past participle of avoir"
         },
         {
           "t": "un",
@@ -2164,15 +2164,15 @@
           "pos": "noun",
           "stress": "apɛl",
           "gloss": "call",
-          "gram": "masculine singular"
+          "gram": "noun, masculine singular"
         },
         {
           "t": "ce",
           "lemma": "ce",
           "pos": "det",
-          "stress": "sə",
-          "gloss": "this",
-          "gram": "demonstrative determiner, masculine singular"
+          "stress": "s",
+          "gloss": "this (ce soir = tonight)",
+          "gram": "demonstrative, masculine singular"
         },
         {
           "t": "matin.",
@@ -2180,7 +2180,7 @@
           "pos": "noun",
           "stress": "matɛ̃",
           "gloss": "morning",
-          "gram": "masculine singular; 'ce matin' = this morning"
+          "gram": "masculine singular"
         }
       ]
     },
@@ -2190,11 +2190,11 @@
       "words": [
         {
           "t": "Le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "dossier",
@@ -2209,8 +2209,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular"
+          "gloss": "are (we are)",
+          "gram": "present, 3rd person singular, used with on = we"
         },
         {
           "t": "dans",
@@ -2225,7 +2225,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "œ̃",
-          "gloss": "an, a",
+          "gloss": "a",
           "gram": "indefinite article, masculine singular"
         },
         {
@@ -2233,16 +2233,16 @@
           "lemma": "autre",
           "pos": "adj",
           "stress": "otʁ",
-          "gloss": "other, another",
-          "gram": "masculine singular, before the noun"
+          "gloss": "another",
+          "gram": "singular, after une"
         },
         {
           "t": "service.",
           "lemma": "service",
           "pos": "noun",
           "stress": "sɛʁvis",
-          "gloss": "department, office",
-          "gram": "masculine singular"
+          "gloss": "department",
+          "gram": "noun, masculine singular"
         }
       ]
     },
@@ -2254,7 +2254,7 @@
           "t": "Jarron",
           "lemma": "jarron",
           "pos": "name",
-          "stress": "ʒaʁɔ̃",
+          "stress": null,
           "gloss": "Jarron (surname)",
           "gram": "proper name"
         },
@@ -2264,7 +2264,7 @@
           "pos": "verb",
           "stress": "etɛ",
           "gloss": "was",
-          "gram": "imperfect (imparfait), 3rd person singular"
+          "gram": "imparfait, 3rd person singular"
         },
         {
           "t": "notre",
@@ -2272,7 +2272,7 @@
           "pos": "det",
           "stress": "nɔtʁ",
           "gloss": "our",
-          "gram": "possessive determiner, singular"
+          "gram": "possessive, singular"
         },
         {
           "t": "seul",
@@ -2298,26 +2298,26 @@
       "words": [
         {
           "t": "Il",
-          "lemma": "il",
-          "pos": "pron",
+          "lemma": "il y a",
+          "pos": "phrase",
           "stress": "il",
-          "gloss": "it",
-          "gram": "impersonal subject in 'il faut'"
+          "gloss": "it (there is)",
+          "gram": "part of il y a"
         },
         {
           "t": "faut",
           "lemma": "falloir",
           "pos": "verb",
           "stress": "fo",
-          "gloss": "is necessary (we need to)",
-          "gram": "present, 3rd person singular; 'il faut' + infinitive = one must / we need to"
+          "gloss": "is needed",
+          "gram": "present, 3rd person singular, impersonal: il faut = you need"
         },
         {
           "t": "peut-être",
           "lemma": "peut-être",
           "pos": "adv",
           "stress": "pøtɛtʁ",
-          "gloss": "maybe, perhaps",
+          "gloss": "maybe",
           "gram": "invariable adverb ('peut-être', meaning 'maybe')"
         },
         {
@@ -2334,23 +2334,23 @@
           "pos": "det",
           "stress": "no",
           "gloss": "our",
-          "gram": "possessive determiner, plural"
+          "gram": "possessive, plural"
         },
         {
           "t": "comptes",
           "lemma": "compte",
           "pos": "noun",
           "stress": "kɔ̃t",
-          "gloss": "accounts, books",
-          "gram": "masculine plural"
+          "gloss": "accounts",
+          "gram": "masculine plural; faire ses comptes = to do one's accounts"
         },
         {
           "t": "en",
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "in",
-          "gram": "preposition; 'en ordre' = in order"
+          "gloss": "(en retard) late",
+          "gram": "preposition, in en retard"
         },
         {
           "t": "ordre.",
@@ -2371,8 +2371,8 @@
           "lemma": "le",
           "pos": "det",
           "stress": "la",
-          "gloss": "the (life)",
-          "gram": "definite article, feminine singular, used for general concepts"
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
         },
         {
           "t": "vie,",
@@ -2387,22 +2387,22 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɛ",
-          "gloss": "is (it's)",
-          "gram": "ce (it) + est: present, 3rd person singular, repeating the subject 'la vie'"
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
           "t": "une",
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "a",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
           "t": "grande",
           "lemma": "grand",
           "pos": "adj",
-          "stress": "ɡʁɑ̃d",
+          "stress": "ʁɑ̃d",
           "gloss": "big",
           "gram": "feminine singular, before the noun"
         },
@@ -2410,7 +2410,7 @@
           "t": "blague",
           "lemma": "blague",
           "pos": "noun",
-          "stress": "blaɡ",
+          "stress": "bla",
           "gloss": "joke",
           "gram": "feminine singular"
         },
@@ -2419,7 +2419,7 @@
           "lemma": "pour",
           "pos": "prep",
           "stress": "puʁ",
-          "gloss": "for, to",
+          "gloss": "for",
           "gram": "preposition ('pour', meaning 'for')"
         },
         {
@@ -2428,7 +2428,7 @@
           "pos": "pron",
           "stress": "twa",
           "gloss": "you",
-          "gram": "stressed pronoun, informal, after a preposition"
+          "gram": "stressed pronoun, 2nd person singular, informal"
         }
       ]
     },
@@ -2441,7 +2441,7 @@
           "lemma": "tu",
           "pos": "pron",
           "stress": "ty",
-          "gloss": "you",
+          "gloss": "you (casual)",
           "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
@@ -2457,8 +2457,8 @@
           "lemma": "aussi",
           "pos": "adv",
           "stress": "osi",
-          "gloss": "as, that",
-          "gram": "adverb of comparison: 'aussi ... que' = as ... as"
+          "gloss": "also",
+          "gram": "invariable adverb ('aussi', meaning 'also')"
         },
         {
           "t": "stupide",
@@ -2466,15 +2466,15 @@
           "pos": "adj",
           "stress": "stypid",
           "gloss": "stupid",
-          "gram": "masculine singular (same form in the feminine)"
+          "gram": "adjective, masculine singular"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
-          "gloss": "as",
-          "gram": "conjunction in 'aussi ... que' (as ... as)"
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "ça?",
@@ -2482,7 +2482,7 @@
           "pos": "pron",
           "stress": "sa",
           "gloss": "that",
-          "gram": "demonstrative pronoun"
+          "gram": "demonstrative pronoun, informal"
         }
       ]
     },
@@ -2518,15 +2518,23 @@
     },
     {
       "seg": 67,
-      "trans": "Call me back!",
+      "trans": "See you soon!",
       "words": [
         {
-          "t": "Rappelle-moi!",
-          "lemma": "rappeler",
-          "pos": "verb",
-          "stress": "ʁapɛlmwa",
-          "gloss": "call me back!",
-          "gram": "imperative, 2nd person singular (tu) + moi (me), joined by a hyphen"
+          "t": "À",
+          "lemma": "à",
+          "pos": "prep",
+          "stress": "a",
+          "gloss": "until, to",
+          "gram": "preposition"
+        },
+        {
+          "t": "bientôt!",
+          "lemma": "bientôt",
+          "pos": "adv",
+          "stress": "bjɛ̃to",
+          "gloss": "soon",
+          "gram": "adverb of time"
         }
       ]
     }
@@ -2537,6 +2545,8 @@
       "stress": "alje",
       "pos": "noun",
       "gloss": "ally",
+      "gender": "m",
+      "plural": "alliés",
       "meanings": [
         {
           "en": "ally",
@@ -2575,8 +2585,6 @@
           "trans": "And you will be my closest ally."
         }
       ],
-      "gender": "m",
-      "plural": "alliés",
       "related": [
         {
           "word": "allier",
@@ -2588,9 +2596,9 @@
       "lemma": "appel",
       "stress": "apɛl",
       "pos": "noun",
+      "gloss": "call",
       "gender": "m",
       "plural": "appels",
-      "gloss": "call",
       "meanings": [
         {
           "en": "phone call",
@@ -2810,9 +2818,9 @@
       "lemma": "assistant",
       "stress": "asistɑ̃",
       "pos": "noun",
+      "gloss": "assistant, helper",
       "gender": "m",
       "plural": "assistants",
-      "gloss": "assistant, helper",
       "meanings": [
         {
           "en": "assistant",
@@ -2987,16 +2995,12 @@
           "note": "avoir peur = to be afraid, avoir raison = to be right, avoir 40 ans = to be 40"
         },
         {
-          "en": "to be (an age)",
-          "note": "Elle a quarante ans = she is forty. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "en": "helper verb of the passé composé",
+          "note": "J'ai appelé = I called. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
         },
         {
-          "en": "auxiliary for most past forms",
-          "note": "J'ai vécu = I lived. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
-        },
-        {
-          "en": "il y a = there is / there are",
-          "note": "French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
+          "en": "il y a = there is, there are",
+          "note": "Fixed expression. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to have'."
         }
       ],
       "forms": {
@@ -3145,29 +3149,22 @@
                 "aie",
                 "ayez"
               ]
-            },
-            {
-              "cells": [
-                "3rd",
-                "—",
-                "—"
-              ]
             }
           ]
         }
       ],
       "examples": [
         {
-          "text": "J'ai un problème.",
-          "trans": "I have a problem."
+          "text": "J'ai un petit loft.",
+          "trans": "I've got a little loft."
         },
         {
-          "text": "Elle a trente ans.",
-          "trans": "She's thirty."
+          "text": "Tu as une réunion.",
+          "trans": "You have a meeting."
         },
         {
-          "text": "Il y a un macaron sur la table.",
-          "trans": "There's a macaron on the table."
+          "text": "Elle a quarante ans.",
+          "trans": "She is forty."
         }
       ],
       "related": [
@@ -3177,11 +3174,51 @@
         }
       ]
     },
+    "bientôt": {
+      "lemma": "bientôt",
+      "stress": "bjɛ̃to",
+      "pos": "adv",
+      "gloss": "soon",
+      "meanings": [
+        {
+          "en": "soon",
+          "note": "À bientôt = see you soon. Invariable French adverb meaning 'soon'; placed immediately after the conjugated verb in simple tenses."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "À bientôt!",
+          "trans": "See you soon!"
+        },
+        {
+          "text": "Il arrive bientôt.",
+          "trans": "He's arriving soon."
+        },
+        {
+          "text": "Elle arrive bientôt.",
+          "trans": "She's arriving soon."
+        }
+      ],
+      "related": [
+        {
+          "word": "bien",
+          "gloss": "well"
+        },
+        {
+          "word": "bien sûr",
+          "gloss": "of course"
+        }
+      ]
+    },
     "blague": {
       "lemma": "blague",
-      "stress": "blaɡ",
+      "stress": "bla",
       "pos": "noun",
       "gloss": "joke",
+      "gender": "f",
+      "plural": "blagues",
       "meanings": [
         {
           "en": "joke, prank",
@@ -3220,8 +3257,6 @@
           "trans": "A generous act from Mathias? What a joke!"
         }
       ],
-      "gender": "f",
-      "plural": "blagues",
       "related": [
         {
           "word": "faire une blague",
@@ -3233,9 +3268,9 @@
       "lemma": "café",
       "stress": "kafe",
       "pos": "noun",
+      "gloss": "coffee; café",
       "gender": "m",
       "plural": "cafés",
-      "gloss": "coffee; café",
       "meanings": [
         {
           "en": "coffee",
@@ -3287,17 +3322,17 @@
     },
     "ce": {
       "lemma": "ce",
-      "stress": "sə",
+      "stress": "s",
       "pos": "det",
-      "gloss": "this, that; it (in c'est)",
+      "gloss": "this, that; it",
       "meanings": [
         {
           "en": "this, that",
-          "note": "before a noun: ce film, cette tête, ces gens"
+          "note": "determiner: ce soir = tonight, cette semaine = this week"
         },
         {
           "en": "it, this",
-          "note": "as a pronoun in c'est, ce n'est pas; becomes c' before a vowel"
+          "note": "pronoun: c'est = it is; tout ce que = all that"
         }
       ],
       "forms": {
@@ -3327,22 +3362,22 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "C'est Samuel!",
-          "trans": "It's Samuel!"
+          "text": "Je ne peux pas venir ce soir.",
+          "trans": "I can't come tonight."
         },
         {
-          "text": "Ce n'est pas grave.",
-          "trans": "It's not serious."
+          "text": "Cette agence ne représente que des stars.",
+          "trans": "This agency only represents stars."
         },
         {
-          "text": "Cette clinique est super.",
-          "trans": "This clinic is great."
+          "text": "Magali, je dois voir la pièce de Koltès cette semaine.",
+          "trans": "Magali, I have to see the Koltès play this week."
         }
       ],
       "related": [
         {
-          "word": "ce",
-          "gloss": "this"
+          "word": "determiner: ce soir",
+          "gloss": "tonight, cette semaine = this week"
         }
       ]
     },
@@ -3350,9 +3385,9 @@
       "lemma": "compte",
       "stress": "kɔ̃t",
       "pos": "noun",
+      "gloss": "account",
       "gender": "m",
       "plural": "comptes",
-      "gloss": "account",
       "meanings": [
         {
           "en": "account",
@@ -3407,6 +3442,8 @@
       "stress": "kɔ̃tʁol",
       "pos": "noun",
       "gloss": "control; check, inspection",
+      "gender": "m",
+      "plural": "contrôles",
       "meanings": [
         {
           "en": "control",
@@ -3449,8 +3486,6 @@
           "trans": "The tax audit. That letter for Mr Jarron?"
         }
       ],
-      "gender": "m",
-      "plural": "contrôles",
       "related": [
         {
           "word": "contrôler",
@@ -3506,45 +3541,37 @@
     },
     "de": {
       "lemma": "de",
-      "stress": "də",
+      "stress": "d",
       "pos": "prep",
-      "gloss": "of, from",
+      "gloss": "of, from; some",
       "meanings": [
         {
-          "en": "of",
-          "note": "je n'ai pas de temps; also before a plural adjective: de mauvaises nouvelles"
+          "en": "of, from",
+          "note": "D' before a vowel. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
         },
         {
-          "en": "from",
-          "note": "Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "en": "'s (possession)",
+          "note": "le film de Tarantino = Tarantino's film"
         },
         {
-          "en": "some, any (partitive)",
-          "note": "De la chance. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
-        },
-        {
-          "en": "after a negation: no",
-          "note": "Pas de chance. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
-        },
-        {
-          "en": "becomes d' before a vowel",
-          "note": "Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
+          "en": "du = de + le",
+          "note": "Also 'some': du sucre. Core French preposition meaning 'of', linking a noun phrase or infinitive complement to the clause."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Une tête de bébé.",
-          "trans": "A baby face."
-        },
-        {
-          "text": "La plus grande imprésario de Paris.",
-          "trans": "The greatest impresario in Paris."
-        },
-        {
           "text": "Le film de Kechiche.",
           "trans": "The Kechiche film."
+        },
+        {
+          "text": "C'est du sucre.",
+          "trans": "It's sugar."
+        },
+        {
+          "text": "Pleine de requins.",
+          "trans": "Full of sharks."
         }
       ],
       "related": [
@@ -3562,9 +3589,9 @@
       "lemma": "dossier",
       "stress": "dosje",
       "pos": "noun",
+      "gloss": "file, case",
       "gender": "m",
       "plural": "dossiers",
-      "gloss": "file, case",
       "meanings": [
         {
           "en": "file, folder",
@@ -3679,37 +3706,33 @@
       "lemma": "en",
       "stress": "ɑ̃",
       "pos": "prep",
-      "gloss": "in; (pronoun) of it, some",
+      "gloss": "in",
       "meanings": [
         {
           "en": "in",
-          "note": "preposition: en vacances, en huit ans"
-        },
-        {
-          "en": "of it, of them",
-          "note": "pronoun before the verb: j'en ai assez, je n'en peux plus"
+          "note": "en retard = late, en vacances = on holiday"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Je pars en vacances.",
-          "trans": "I'm going on holiday."
-        },
-        {
-          "text": "J'en ai assez!",
-          "trans": "I've had enough!"
-        },
-        {
           "text": "Je suis en retard.",
           "trans": "I'm late."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        },
+        {
+          "text": "Oh non! Je suis en retard.",
+          "trans": "Oh no! I'm late."
         }
       ],
       "related": [
         {
-          "word": "en",
-          "gloss": "in"
+          "word": "en retard",
+          "gloss": "late, en vacances = on holiday"
         }
       ]
     },
@@ -3930,16 +3953,20 @@
       "gloss": "to do, to make",
       "meanings": [
         {
-          "en": "to do",
-          "note": "Pour faire quoi? = to do what?. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "en": "to do, to make",
+          "note": "for (duration): ça fait des mois que j'attends = I've been waiting for months"
         },
         {
-          "en": "to make",
-          "note": "Faire un café. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+          "en": "faire confiance à = to trust",
+          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
         },
         {
-          "en": "to go (an activity)",
-          "note": "faire du vélo = to ride a bike, to cycle"
+          "en": "faire la surprise à = to surprise",
+          "note": "Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
+        },
+        {
+          "en": "ça fait trois semaines que = it's been three weeks since",
+          "note": "With time. Third-group irregular verb inherited from core Latin roots ('-ere'). Core French verb meaning 'to do, to make'."
         }
       ],
       "forms": {
@@ -4066,44 +4093,20 @@
               ]
             }
           ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "1st",
-                "—",
-                "faisons"
-              ]
-            },
-            {
-              "cells": [
-                "2nd",
-                "fais",
-                "faites"
-              ]
-            }
-          ]
         }
       ],
       "examples": [
         {
-          "text": "Ne fais pas ça!",
-          "trans": "Don't do that!"
-        },
-        {
-          "text": "Fais du vélo!",
-          "trans": "Ride a bike!"
-        },
-        {
           "text": "Qu'est-ce que tu fais?",
           "trans": "What are you doing?"
+        },
+        {
+          "text": "Je peux vous faire confiance?",
+          "trans": "Can I trust you?"
+        },
+        {
+          "text": "Ça fait une heure que j'attends.",
+          "trans": "I've been waiting for an hour."
         }
       ],
       "related": [
@@ -4117,18 +4120,14 @@
       "lemma": "falloir",
       "stress": "falwaʁ",
       "pos": "verb",
-      "gloss": "to be necessary",
+      "gloss": "to be necessary (il faut)",
+      "governs": "impersonal: il faut + noun / infinitive",
       "meanings": [
         {
-          "en": "it is necessary, one must",
-          "note": "only with the impersonal 'il': il faut"
-        },
-        {
-          "en": "to need",
-          "note": "Il me faut un stylo = I need a pen. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'to be necessary'."
+          "en": "to be needed, to be necessary",
+          "note": "only with impersonal il: il faut + noun or infinitive"
         }
       ],
-      "governs": "il faut + infinitive, or il faut que + subjunctive",
       "forms": {
         "title": "Present",
         "columns": [
@@ -4257,16 +4256,16 @@
       ],
       "examples": [
         {
+          "text": "Il faut des autorisations.",
+          "trans": "You need permits."
+        },
+        {
           "text": "Il faut partir.",
           "trans": "We have to leave."
         },
         {
-          "text": "Il faut qu'on parle.",
-          "trans": "We need to talk."
-        },
-        {
-          "text": "Il faut du temps.",
-          "trans": "It takes time."
+          "text": "Oui, mais il faut des autorisations. Ah, la paperasse française!",
+          "trans": "Yes, but you need permits. Ah, French paperwork!"
         }
       ],
       "related": [
@@ -4339,7 +4338,7 @@
     },
     "grand": {
       "lemma": "grand",
-      "stress": "ɡʁɑ̃",
+      "stress": "ʁɑ̃",
       "pos": "adj",
       "gloss": "big, great, tall",
       "meanings": [
@@ -4414,35 +4413,31 @@
       "lemma": "il",
       "stress": "il",
       "pos": "pron",
-      "gloss": "he; it",
+      "gloss": "he, it",
       "meanings": [
         {
-          "en": "he, it",
+          "en": "he",
           "note": "for masculine nouns, and in impersonal phrases: il y a"
         },
         {
-          "en": "it (impersonal)",
-          "note": "Il faut, il y a. High-frequency French pronoun meaning 'he'; clitic object forms precede the conjugated verb."
-        },
-        {
-          "en": "they (ils, masculine or mixed)",
-          "note": "High-frequency French pronoun meaning 'he'; clitic object forms precede the conjugated verb."
+          "en": "it",
+          "note": "Also in fixed phrases: il y a. High-frequency French pronoun meaning 'he'; clitic object forms precede the conjugated verb."
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Il est là.",
-          "trans": "He's here."
-        },
-        {
-          "text": "Il y a un problème.",
-          "trans": "There's a problem."
-        },
-        {
           "text": "Il me connaît.",
           "trans": "He knows me."
+        },
+        {
+          "text": "Il vous attend?",
+          "trans": "Is he expecting you?"
+        },
+        {
+          "text": "Camille Valentini. Il me connaît.",
+          "trans": "Camille Valentini. He knows me."
         }
       ],
       "related": [
@@ -4452,9 +4447,47 @@
         }
       ]
     },
+    "il y a": {
+      "lemma": "il y a",
+      "stress": "ilija",
+      "pos": "phrase",
+      "gloss": "there is, there are",
+      "meanings": [
+        {
+          "en": "there is, there are",
+          "note": "Never changes for plural. Spoken French phrase expression meaning 'there is', common in natural conversation."
+        },
+        {
+          "en": "ago",
+          "note": "il y a trois semaines = three weeks ago"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Il y a une autre Clémentine?",
+          "trans": "Is there another Clémentine?"
+        },
+        {
+          "text": "Il y a une réunion.",
+          "trans": "There's a meeting."
+        },
+        {
+          "text": "Non, c'est la place de Samuel. Il est mort il y a six jours.",
+          "trans": "No, it's Samuel's place. He died six days ago."
+        }
+      ],
+      "related": [
+        {
+          "word": "il y a",
+          "gloss": "there is"
+        }
+      ]
+    },
     "je": {
       "lemma": "je",
-      "stress": "ʒə",
+      "stress": "ʒ",
       "pos": "pron",
       "gloss": "I",
       "meanings": [
@@ -4488,17 +4521,13 @@
     },
     "le": {
       "lemma": "le",
-      "stress": "lə",
+      "stress": "l",
       "pos": "det",
-      "gloss": "the; him, her, it, them",
+      "gloss": "the",
       "meanings": [
         {
-          "en": "the (definite article)",
-          "note": "Le, la, l', les. Spoken French det expression meaning 'the', common in natural conversation."
-        },
-        {
-          "en": "him, her, it, them (object pronoun)",
-          "note": "before the verb: vous la connaissez? les voilà"
+          "en": "the",
+          "note": "definite article; l' before a vowel"
         }
       ],
       "forms": {
@@ -4528,16 +4557,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Le meilleur.",
-          "trans": "The best."
+          "text": "Le film est fantastique.",
+          "trans": "The film is fantastic."
         },
         {
-          "text": "Vous la connaissez?",
-          "trans": "Do you know her?"
+          "text": "La pièce de Koltès.",
+          "trans": "The Koltès play."
         },
         {
-          "text": "Les voilà.",
-          "trans": "There they are."
+          "text": "C'est le prochain film de Tarantino.",
+          "trans": "It's Tarantino's next film."
         }
       ],
       "related": [
@@ -4552,6 +4581,8 @@
       "stress": "lɛtʁ",
       "pos": "noun",
       "gloss": "letter",
+      "gender": "f",
+      "plural": "lettres",
       "meanings": [
         {
           "en": "letter (mail)",
@@ -4594,8 +4625,6 @@
           "trans": "The tax audit. That letter for Mr Jarron?"
         }
       ],
-      "gender": "f",
-      "plural": "lettres",
       "related": [
         {
           "word": "une lettre / des lettres",
@@ -4851,9 +4880,11 @@
     },
     "monsieur": {
       "lemma": "monsieur",
-      "stress": "məsjø",
+      "stress": "msjø",
       "pos": "noun",
       "gloss": "sir; Mr; gentleman",
+      "gender": "m",
+      "plural": "messieurs",
       "meanings": [
         {
           "en": "Mr",
@@ -4900,8 +4931,6 @@
           "trans": "Mr Samuel Kerr has passed away."
         }
       ],
-      "gender": "m",
-      "plural": "messieurs",
       "related": [
         {
           "word": "un monsieur / des messieurs",
@@ -4911,33 +4940,29 @@
     },
     "ne": {
       "lemma": "ne",
-      "stress": "nə",
+      "stress": "n",
       "pos": "part",
-      "gloss": "not (first part)",
+      "gloss": "not (with pas, rien, que)",
       "meanings": [
         {
-          "en": "first part of the negation",
-          "note": "ne ... pas: not; ne ... plus: not anymore; ne ... jamais: never"
-        },
-        {
-          "en": "becomes n' before a vowel",
-          "note": "Ce n'est pas. Spoken French part expression meaning 'not', common in natural conversation."
+          "en": "negation",
+          "note": "ne... pas = not; ne... rien = nothing; ne... que = only; n' before a vowel"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Je ne comprends pas.",
-          "trans": "I don't understand."
-        },
-        {
-          "text": "Il n'a jamais joué.",
-          "trans": "He has never played."
-        },
-        {
           "text": "Je ne sais pas.",
           "trans": "I don't know."
+        },
+        {
+          "text": "Rien n'est signé.",
+          "trans": "Nothing is signed."
+        },
+        {
+          "text": "Tarantino ne prendra pas Cécile. Problème d'âge.",
+          "trans": "Tarantino won't take Cécile. A problem with her age."
         }
       ],
       "related": [
@@ -5127,6 +5152,8 @@
       "stress": "ɔʁdʁ",
       "pos": "noun",
       "gloss": "order",
+      "gender": "m",
+      "plural": "ordres",
       "meanings": [
         {
           "en": "order, command",
@@ -5169,8 +5196,6 @@
           "trans": "Maybe we need to put our books in order."
         }
       ],
-      "gender": "m",
-      "plural": "ordres",
       "related": [
         {
           "word": "donner des ordres",
@@ -5224,31 +5249,23 @@
       "meanings": [
         {
           "en": "not",
-          "note": "With ne: ne ... pas. Spoken French part expression meaning 'not', common in natural conversation."
-        },
-        {
-          "en": "no (before a noun)",
-          "note": "Pas de chance: no luck. Spoken French part expression meaning 'not', common in natural conversation."
-        },
-        {
-          "en": "pas du tout: not at all",
-          "note": "Spoken French part expression meaning 'not', common in natural conversation."
+          "note": "second half of ne... pas; in speech ne is often dropped"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Je ne sais pas.",
-          "trans": "I don't know."
-        },
-        {
-          "text": "Pas de problème.",
-          "trans": "No problem."
-        },
-        {
           "text": "Je ne suis pas actrice.",
           "trans": "I'm not an actress."
+        },
+        {
+          "text": "Pas maintenant.",
+          "trans": "Not now."
+        },
+        {
+          "text": "Tarantino ne prendra pas Cécile. Problème d'âge.",
+          "trans": "Tarantino won't take Cécile. A problem with her age."
         }
       ],
       "related": [
@@ -5508,15 +5525,11 @@
       "meanings": [
         {
           "en": "can, to be able to",
-          "note": "+ infinitive: tu peux commencer?. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'can, to be able to'."
+          "note": "+ infinitive. French '-ir' verb (from Latin '-ire'). Core French verb meaning 'can, to be able to'."
         },
         {
-          "en": "may (permission)",
-          "note": "je peux t'appeler? = may I call you?"
-        },
-        {
-          "en": "to cope",
-          "note": "je n'en peux plus = I can't take any more"
+          "en": "could (polite)",
+          "note": "conditional: tu pourrais, vous pourriez"
         }
       ],
       "forms": {
@@ -5647,16 +5660,16 @@
       ],
       "examples": [
         {
-          "text": "Tu peux commencer maintenant?",
-          "trans": "Can you start now?"
+          "text": "Je peux vous aider?",
+          "trans": "Can I help you?"
         },
         {
-          "text": "Je n'en peux plus.",
-          "trans": "I can't take it any more."
+          "text": "Je ne peux pas venir.",
+          "trans": "I can't come."
         },
         {
-          "text": "Je peux t'appeler demain?",
-          "trans": "Can I call you tomorrow?"
+          "text": "Tu pourrais m'aider?",
+          "trans": "Could you help me?"
         }
       ],
       "related": [
@@ -5858,7 +5871,7 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "kə",
+      "stress": "k",
       "pos": "conj",
       "gloss": "that; than; only (ne...que)",
       "meanings": [
@@ -5909,12 +5922,8 @@
       "gloss": "what",
       "meanings": [
         {
-          "en": "what?",
-          "note": "alone, in surprise or when you didn't hear; a bit blunt"
-        },
-        {
           "en": "what",
-          "note": "After a preposition: de quoi?. High-frequency French pronoun meaning 'what'; clitic object forms precede the conjugated verb."
+          "note": "informal, often at the end: pour faire quoi?, c'est quoi?"
         }
       ],
       "forms": null,
@@ -5929,11 +5938,10 @@
           "trans": "What are the two of you talking about?"
         },
         {
-          "text": "Tu fais quoi?",
-          "trans": "What are you doing?"
+          "text": "C'est quoi le rôle?",
+          "trans": "What's the part?"
         }
       ],
-      "register": "informal",
       "related": [
         {
           "word": "quoi",
@@ -6132,6 +6140,7 @@
       "stress": "saly",
       "pos": "interj",
       "gloss": "hi; bye",
+      "register": "informal",
       "meanings": [
         {
           "en": "hi",
@@ -6158,7 +6167,6 @@
           "trans": "Morning! Hi, Mathias."
         }
       ],
-      "register": "informal",
       "related": [
         {
           "word": "saluer",
@@ -6170,9 +6178,9 @@
       "lemma": "service",
       "stress": "sɛʁvis",
       "pos": "noun",
+      "gloss": "department; service",
       "gender": "m",
       "plural": "services",
-      "gloss": "department; service",
       "meanings": [
         {
           "en": "department",
@@ -6519,6 +6527,7 @@
       "stress": "sypɛʁ",
       "pos": "adj",
       "gloss": "great",
+      "register": "informal",
       "meanings": [
         {
           "en": "great, super",
@@ -6564,7 +6573,6 @@
           "trans": "I found a job. Great, isn't it?"
         }
       ],
-      "register": "informal",
       "related": [
         {
           "word": "superbe",
@@ -6576,15 +6584,11 @@
       "lemma": "toi",
       "stress": "twa",
       "pos": "pron",
-      "gloss": "you (stressed form)",
+      "gloss": "you",
       "meanings": [
         {
           "en": "you",
-          "note": "used alone, after a preposition, or for emphasis: et toi?, avec toi, toi aussi"
-        },
-        {
-          "en": "yourself",
-          "note": "in imperatives: accroche-toi, assieds-toi"
+          "note": "Stressed form: et toi? = and you?. High-frequency French pronoun meaning 'you'; clitic object forms precede the conjugated verb."
         }
       ],
       "forms": null,
@@ -6605,8 +6609,8 @@
       ],
       "related": [
         {
-          "word": "toi",
-          "gloss": "you"
+          "word": "stressed form: et toi?",
+          "gloss": "and you?"
         }
       ]
     },
@@ -6655,24 +6659,16 @@
     "tout": {
       "lemma": "tout",
       "stress": "tu",
-      "pos": "pron",
-      "gloss": "all, everything; everyone",
+      "pos": "det",
+      "gloss": "all, every; everything",
       "meanings": [
         {
-          "en": "everything",
-          "note": "Oui à tout = yes to everything. High-frequency French pronoun meaning 'all'; clitic object forms precede the conjugated verb."
-        },
-        {
-          "en": "all, everyone",
-          "note": "plural tous (pronounced 'tous' with s): merci à tous"
-        },
-        {
-          "en": "at all",
-          "note": "Pas du tout. High-frequency French pronoun meaning 'all'; clitic object forms precede the conjugated verb."
-        },
-        {
           "en": "all, the whole",
-          "note": "before a noun: tout le monde = everyone"
+          "note": "Tout le monde = everybody. Spoken French det expression meaning 'all', common in natural conversation."
+        },
+        {
+          "en": "tout ce que = all that, everything that",
+          "note": "Pronoun use. Spoken French det expression meaning 'all', common in natural conversation."
         }
       ],
       "forms": {
@@ -6702,16 +6698,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "Merci à tous.",
-          "trans": "Thank you, everyone."
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
         },
         {
-          "text": "Oui à tout.",
-          "trans": "Yes to everything."
+          "text": "C'est tout ce que je peux faire.",
+          "trans": "That's all I can do."
         },
         {
-          "text": "Ça ne va pas du tout.",
-          "trans": "It's not going at all."
+          "text": "Désolé, c'est tout ce que je peux faire.",
+          "trans": "Sorry, that's all I can do."
         }
       ],
       "related": [
@@ -6729,31 +6725,73 @@
         }
       ]
     },
-    "tu": {
-      "lemma": "tu",
-      "stress": "ty",
-      "pos": "pron",
-      "gloss": "you (informal)",
+    "tout le monde": {
+      "lemma": "tout le monde",
+      "stress": "tulmɔ̃d",
+      "pos": "phrase",
+      "gloss": "everybody, everyone",
       "meanings": [
         {
-          "en": "you",
-          "note": "singular and informal: friends, family, children, colleagues of the same age"
+          "en": "everybody, everyone",
+          "note": "takes a singular verb: tout le monde est là"
         }
       ],
       "forms": null,
       "moreForms": [],
       "examples": [
         {
-          "text": "Tu es où?",
-          "trans": "Where are you?"
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
         },
         {
-          "text": "Tu viens?",
-          "trans": "Are you coming?"
+          "text": "Bonjour tout le monde!",
+          "trans": "Hello everyone!"
         },
+        {
+          "text": "On est au Westin. Tout le monde est là.",
+          "trans": "We're at the Westin. Everyone is here."
+        }
+      ],
+      "related": [
+        {
+          "word": "tout",
+          "gloss": "all"
+        },
+        {
+          "word": "tout de suite",
+          "gloss": "right away"
+        },
+        {
+          "word": "tout à l'heure",
+          "gloss": "earlier"
+        }
+      ]
+    },
+    "tu": {
+      "lemma": "tu",
+      "stress": "ty",
+      "pos": "pron",
+      "gloss": "you (casual)",
+      "meanings": [
+        {
+          "en": "you",
+          "note": "one person you know well: friends, family, close colleagues"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
         {
           "text": "Tu es pénible.",
           "trans": "You're a pain."
+        },
+        {
+          "text": "Tu es en vacances?",
+          "trans": "Are you on holiday?"
+        },
+        {
+          "text": "Deux places pour mardi? Mardi, tu as le film de Kechiche.",
+          "trans": "Two tickets for Tuesday? On Tuesday you've got the Kechiche film."
         }
       ],
       "related": [
@@ -6770,16 +6808,12 @@
       "gloss": "a, an; one",
       "meanings": [
         {
-          "en": "a, an (indefinite article)",
-          "note": "Feminine une. Spoken French det expression meaning 'a', common in natural conversation."
+          "en": "a, an",
+          "note": "indefinite article; des in the plural"
         },
         {
-          "en": "one (number)",
-          "note": "Quarante et un = forty-one. Spoken French det expression meaning 'a', common in natural conversation."
-        },
-        {
-          "en": "un peu = a little",
-          "note": "Spoken French det expression meaning 'a', common in natural conversation."
+          "en": "one",
+          "note": "Number; l'un = one of them. Spoken French det expression meaning 'a', common in natural conversation."
         }
       ],
       "forms": {
@@ -6809,16 +6843,16 @@
       "moreForms": [],
       "examples": [
         {
-          "text": "J'ai un problème.",
-          "trans": "I have a problem."
+          "text": "Un café, s'il vous plaît.",
+          "trans": "A coffee, please."
         },
         {
-          "text": "C'est une femme.",
-          "trans": "She's a woman."
+          "text": "Dans une heure.",
+          "trans": "In an hour."
         },
         {
-          "text": "Un peu, s'il vous plaît.",
-          "trans": "A little, please."
+          "text": "L'un à midi, l'autre à deux heures.",
+          "trans": "One at noon, the other at two."
         }
       ],
       "related": [
@@ -6832,9 +6866,9 @@
       "lemma": "vie",
       "stress": "vi",
       "pos": "noun",
+      "gloss": "life",
       "gender": "f",
       "plural": "vies",
-      "gloss": "life",
       "meanings": [
         {
           "en": "life",

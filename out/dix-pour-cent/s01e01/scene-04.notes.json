@@ -11,14 +11,14 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         },
         {
           "t": "Camille.",
           "lemma": "camille",
           "pos": "name",
-          "stress": "kamij",
+          "stress": null,
           "gloss": "Camille",
           "gram": "first name"
         },
@@ -62,11 +62,11 @@
         },
         {
           "t": "vous",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "vous",
+          "pos": "pron",
           "stress": "vu",
-          "gloss": "you (please)",
-          "gram": "part of s'il vous plaît, formal"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "plaît.",
@@ -111,8 +111,8 @@
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you",
-          "gram": "stressed pronoun, formal (to her boss)"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "Un",
@@ -156,7 +156,7 @@
     },
     {
       "seg": 5,
-      "trans": "Why didn't you call?",
+      "trans": "Why didn",
       "words": [
         {
           "t": "Pourquoi",
@@ -172,7 +172,7 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal (in private)"
+          "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
           "t": "n'as",
@@ -188,7 +188,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half, after the helper verb"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "appelé?",
@@ -208,7 +208,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -216,9 +216,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "sais",
@@ -234,13 +234,13 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -256,7 +256,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "tə",
+          "stress": "t",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -265,16 +265,16 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛʁ",
-          "gloss": "make (faire la surprise = to surprise)",
-          "gram": "infinitive"
+          "gloss": "(faire confiance) trust",
+          "gram": "infinitive, after pouvoir"
         },
         {
           "t": "la",
           "lemma": "le",
           "pos": "det",
           "stress": "la",
-          "gloss": "the (a surprise)",
-          "gram": "definite article, in faire la surprise"
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
         },
         {
           "t": "surprise.",
@@ -288,7 +288,7 @@
     },
     {
       "seg": 7,
-      "trans": "It's nice here. Free lollipops!",
+      "trans": "It",
       "words": [
         {
           "t": "C'est",
@@ -334,7 +334,7 @@
           "t": "gratuites!",
           "lemma": "gratuit",
           "pos": "adj",
-          "stress": "ɡʁatɥit",
+          "stress": "ʁatɥit",
           "gloss": "free",
           "gram": "feminine plural, agrees with sucettes"
         }
@@ -342,7 +342,7 @@
     },
     {
       "seg": 8,
-      "trans": "It's sugar for the coffee.",
+      "trans": "It",
       "words": [
         {
           "t": "C'est",
@@ -355,7 +355,7 @@
         {
           "t": "du",
           "lemma": "de",
-          "pos": "det",
+          "pos": "prep",
           "stress": "dy",
           "gloss": "some",
           "gram": "partitive article: de + le"
@@ -378,11 +378,11 @@
         },
         {
           "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "café.",
@@ -408,11 +408,11 @@
         },
         {
           "t": "que",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
-          "stress": "kə",
-          "gloss": "what (part 2)",
-          "gram": "question phrase qu'est-ce que, second part"
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "tu",
@@ -435,14 +435,14 @@
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "in",
-          "gram": "preposition, with a city"
+          "gloss": "at",
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "Paris?",
           "lemma": "paris",
           "pos": "name",
-          "stress": "paʁi",
+          "stress": null,
           "gloss": "Paris",
           "gram": "city"
         },
@@ -467,8 +467,8 @@
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "on (holiday)",
-          "gram": "preposition, in en vacances"
+          "gloss": "(en retard) late",
+          "gram": "preposition, in en retard"
         },
         {
           "t": "vacances?",
@@ -486,19 +486,19 @@
       "words": [
         {
           "t": "En",
-          "lemma": "en quelque sorte",
-          "pos": "phrase",
+          "lemma": "en",
+          "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "in (sort of)",
-          "gram": "part of en quelque sorte"
+          "gloss": "(en retard) late",
+          "gram": "preposition, in en retard"
         },
         {
           "t": "quelque",
-          "lemma": "en quelque sorte",
+          "lemma": "quelque chose",
           "pos": "phrase",
           "stress": "kɛlk",
-          "gloss": "some (sort of)",
-          "gram": "part of en quelque sorte"
+          "gloss": "some (something)",
+          "gram": "part of quelque chose"
         },
         {
           "t": "sorte.",
@@ -513,8 +513,8 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "it",
-          "gram": "pronoun, in ça fait... que (time expression)"
+          "gloss": "that",
+          "gram": "demonstrative pronoun, informal"
         },
         {
           "t": "fait",
@@ -536,7 +536,7 @@
           "t": "semaines",
           "lemma": "semaine",
           "pos": "noun",
-          "stress": "səmɛn",
+          "stress": "smɛn",
           "gloss": "weeks",
           "gram": "feminine plural"
         },
@@ -544,15 +544,15 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
-          "gloss": "since (that)",
-          "gram": "conjunction, in ça fait... que"
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -561,8 +561,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɥi",
-          "gloss": "am (have been)",
-          "gram": "present, 1st person singular; French uses the present here"
+          "gloss": "am",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "là.",
@@ -576,7 +576,7 @@
     },
     {
       "seg": 11,
-      "trans": "Didn't you like Mandelieu? It's a lovely place.",
+      "trans": "Didn",
       "words": [
         {
           "t": "Tu",
@@ -600,13 +600,13 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "Mandelieu?",
           "lemma": "mandelieu",
           "pos": "name",
-          "stress": "mɑ̃dəljø",
+          "stress": null,
           "gloss": "Mandelieu (a town near Cannes)",
           "gram": "town"
         },
@@ -646,15 +646,15 @@
     },
     {
       "seg": 12,
-      "trans": "I've got a little loft. And I'm looking for work.",
+      "trans": "I",
       "words": [
         {
           "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (got)",
-          "gram": "je + ai: present, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "un",
@@ -668,7 +668,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pəti",
+          "stress": "pti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -692,7 +692,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -707,9 +707,9 @@
         {
           "t": "du",
           "lemma": "de",
-          "pos": "det",
+          "pos": "prep",
           "stress": "dy",
-          "gloss": "some (work)",
+          "gloss": "some",
           "gram": "partitive article: de + le"
         },
         {
@@ -754,17 +754,17 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition, beaucoup de = a lot of"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "monde",
-          "lemma": "monde",
-          "pos": "noun",
+          "lemma": "tout le monde",
+          "pos": "phrase",
           "stress": "mɔ̃d",
-          "gloss": "people",
-          "gram": "masculine singular, in beaucoup de monde"
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "dans",
@@ -776,11 +776,11 @@
         },
         {
           "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "cinéma.",
@@ -854,7 +854,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -879,8 +879,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have",
-          "gram": "je + ai: helper verb of the passé composé"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "toujours",
@@ -900,11 +900,11 @@
         },
         {
           "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the (films in general)",
-          "gram": "definite article, for a general idea"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "cinéma.",
@@ -918,7 +918,7 @@
     },
     {
       "seg": 16,
-      "trans": "Listen, it's an industry, and it's full of sharks.",
+      "trans": "Listen, it",
       "words": [
         {
           "t": "Écoute,",
@@ -941,7 +941,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "a, an",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -973,8 +973,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular"
+          "gloss": "are (we are)",
+          "gram": "present, 3rd person singular, used with on = we"
         },
         {
           "t": "pleine",
@@ -988,15 +988,15 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition, plein de = full of"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "requins.",
           "lemma": "requin",
           "pos": "noun",
-          "stress": "ʁəkɛ̃",
+          "stress": "ʁkɛ̃",
           "gloss": "sharks",
           "gram": "masculine plural"
         }
@@ -1004,7 +1004,7 @@
     },
     {
       "seg": 17,
-      "trans": "Sorry, that's all I can do.",
+      "trans": "Sorry, that",
       "words": [
         {
           "t": "Désolé,",
@@ -1024,33 +1024,33 @@
         },
         {
           "t": "tout",
-          "lemma": "tout",
-          "pos": "pron",
+          "lemma": "tout le monde",
+          "pos": "phrase",
           "stress": "tu",
-          "gloss": "all",
-          "gram": "pronoun, in tout ce que = all that"
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "ce",
           "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, in tout ce que"
+          "pos": "det",
+          "stress": "s",
+          "gloss": "this (ce soir = tonight)",
+          "gram": "demonstrative, masculine singular"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
-          "gloss": "that, which",
-          "gram": "relative pronoun, object of faire"
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1067,7 +1067,7 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛʁ",
-          "gloss": "do",
+          "gloss": "(faire confiance) trust",
           "gram": "infinitive, after pouvoir"
         }
       ]
@@ -1081,14 +1081,14 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         },
         {
           "t": "Camille.",
           "lemma": "camille",
           "pos": "name",
-          "stress": "kamij",
+          "stress": null,
           "gloss": "Camille",
           "gram": "first name"
         }
@@ -1138,11 +1138,11 @@
         },
         {
           "t": "vous",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "vous",
+          "pos": "pron",
           "stress": "vu",
-          "gloss": "you (please)",
-          "gram": "part of s'il vous plaît, formal"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "plaît.",
@@ -1187,8 +1187,8 @@
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you",
-          "gram": "stressed pronoun, formal (to her boss)"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "Un",
@@ -1232,7 +1232,7 @@
     },
     {
       "seg": 29,
-      "trans": "Why didn't you call?",
+      "trans": "Why didn",
       "words": [
         {
           "t": "Pourquoi",
@@ -1248,7 +1248,7 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal (in private)"
+          "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
           "t": "n'as",
@@ -1264,7 +1264,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half, after the helper verb"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "appelé?",
@@ -1284,7 +1284,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1300,7 +1300,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "tə",
+          "stress": "t",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -1309,16 +1309,16 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛʁ",
-          "gloss": "make (faire la surprise = to surprise)",
-          "gram": "infinitive"
+          "gloss": "(faire confiance) trust",
+          "gram": "infinitive, after pouvoir"
         },
         {
           "t": "la",
           "lemma": "le",
           "pos": "det",
           "stress": "la",
-          "gloss": "the (a surprise)",
-          "gram": "definite article, in faire la surprise"
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
         },
         {
           "t": "surprise.",
@@ -1332,7 +1332,7 @@
     },
     {
       "seg": 33,
-      "trans": "It's nice here. Free lollipops!",
+      "trans": "It",
       "words": [
         {
           "t": "C'est",
@@ -1378,7 +1378,7 @@
           "t": "gratuites!",
           "lemma": "gratuit",
           "pos": "adj",
-          "stress": "ɡʁatɥit",
+          "stress": "ʁatɥit",
           "gloss": "free",
           "gram": "feminine plural, agrees with sucettes"
         }
@@ -1386,7 +1386,7 @@
     },
     {
       "seg": 35,
-      "trans": "It's sugar for the coffee.",
+      "trans": "It",
       "words": [
         {
           "t": "C'est",
@@ -1399,7 +1399,7 @@
         {
           "t": "du",
           "lemma": "de",
-          "pos": "det",
+          "pos": "prep",
           "stress": "dy",
           "gloss": "some",
           "gram": "partitive article: de + le"
@@ -1422,11 +1422,11 @@
         },
         {
           "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "café.",
@@ -1452,11 +1452,11 @@
         },
         {
           "t": "que",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
-          "stress": "kə",
-          "gloss": "what (part 2)",
-          "gram": "question phrase qu'est-ce que, second part"
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "tu",
@@ -1479,14 +1479,14 @@
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "in",
-          "gram": "preposition, with a city"
+          "gloss": "at",
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "Paris?",
           "lemma": "paris",
           "pos": "name",
-          "stress": "paʁi",
+          "stress": null,
           "gloss": "Paris",
           "gram": "city"
         },
@@ -1511,8 +1511,8 @@
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "on (holiday)",
-          "gram": "preposition, in en vacances"
+          "gloss": "(en retard) late",
+          "gram": "preposition, in en retard"
         },
         {
           "t": "vacances?",
@@ -1526,15 +1526,15 @@
     },
     {
       "seg": 39,
-      "trans": "I've been here for three weeks.",
+      "trans": "I",
       "words": [
         {
           "t": "Ça",
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "it",
-          "gram": "pronoun, in ça fait... que (time expression)"
+          "gloss": "that",
+          "gram": "demonstrative pronoun, informal"
         },
         {
           "t": "fait",
@@ -1556,7 +1556,7 @@
           "t": "semaines",
           "lemma": "semaine",
           "pos": "noun",
-          "stress": "səmɛn",
+          "stress": "smɛn",
           "gloss": "weeks",
           "gram": "feminine plural"
         },
@@ -1564,15 +1564,15 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
-          "gloss": "since (that)",
-          "gram": "conjunction, in ça fait... que"
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1581,8 +1581,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɥi",
-          "gloss": "am (have been)",
-          "gram": "present, 1st person singular; French uses the present here"
+          "gloss": "am",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "là.",
@@ -1596,7 +1596,7 @@
     },
     {
       "seg": 41,
-      "trans": "Didn't you like Mandelieu? It's a lovely place.",
+      "trans": "Didn",
       "words": [
         {
           "t": "Tu",
@@ -1620,13 +1620,13 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "Mandelieu?",
           "lemma": "mandelieu",
           "pos": "name",
-          "stress": "mɑ̃dəljø",
+          "stress": null,
           "gloss": "Mandelieu (a town near Cannes)",
           "gram": "town"
         },
@@ -1666,15 +1666,15 @@
     },
     {
       "seg": 43,
-      "trans": "I've got a little loft. And I'm looking for work.",
+      "trans": "I",
       "words": [
         {
           "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (got)",
-          "gram": "je + ai: present, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "un",
@@ -1688,7 +1688,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pəti",
+          "stress": "pti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -1712,7 +1712,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1727,9 +1727,9 @@
         {
           "t": "du",
           "lemma": "de",
-          "pos": "det",
+          "pos": "prep",
           "stress": "dy",
-          "gloss": "some (work)",
+          "gloss": "some",
           "gram": "partitive article: de + le"
         },
         {
@@ -1804,13 +1804,13 @@
     },
     {
       "seg": 49,
-      "trans": "I'm serious.",
+      "trans": "I",
       "words": [
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -1834,15 +1834,15 @@
     },
     {
       "seg": 51,
-      "trans": "I've always loved films.",
+      "trans": "I",
       "words": [
         {
           "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have",
-          "gram": "je + ai: helper verb of the passé composé"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "toujours",
@@ -1862,11 +1862,11 @@
         },
         {
           "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the (films in general)",
-          "gram": "definite article, for a general idea"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "cinéma.",
@@ -1880,7 +1880,7 @@
     },
     {
       "seg": 53,
-      "trans": "Listen, it's an industry, and it's full of sharks.",
+      "trans": "Listen, it",
       "words": [
         {
           "t": "Écoute,",
@@ -1903,7 +1903,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "a, an",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -1935,8 +1935,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular"
+          "gloss": "are (we are)",
+          "gram": "present, 3rd person singular, used with on = we"
         },
         {
           "t": "pleine",
@@ -1950,15 +1950,15 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition, plein de = full of"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "requins.",
           "lemma": "requin",
           "pos": "noun",
-          "stress": "ʁəkɛ̃",
+          "stress": "ʁkɛ̃",
           "gloss": "sharks",
           "gram": "masculine plural"
         }
@@ -1966,7 +1966,7 @@
     },
     {
       "seg": 55,
-      "trans": "Sorry, that's all I can do.",
+      "trans": "Sorry, that",
       "words": [
         {
           "t": "Désolé,",
@@ -1986,33 +1986,33 @@
         },
         {
           "t": "tout",
-          "lemma": "tout",
-          "pos": "pron",
+          "lemma": "tout le monde",
+          "pos": "phrase",
           "stress": "tu",
-          "gloss": "all",
-          "gram": "pronoun, in tout ce que = all that"
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "ce",
           "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, in tout ce que"
+          "pos": "det",
+          "stress": "s",
+          "gloss": "this (ce soir = tonight)",
+          "gram": "demonstrative, masculine singular"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
-          "gloss": "that, which",
-          "gram": "relative pronoun, object of faire"
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2029,7 +2029,7 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛʁ",
-          "gloss": "do",
+          "gloss": "(faire confiance) trust",
           "gram": "infinitive, after pouvoir"
         }
       ]
@@ -2043,14 +2043,14 @@
           "lemma": "bonjour",
           "pos": "interj",
           "stress": "bɔ̃ʒuʁ",
-          "gloss": "hello",
+          "gloss": "good morning",
           "gram": "greeting"
         },
         {
           "t": "Camille.",
           "lemma": "camille",
           "pos": "name",
-          "stress": "kamij",
+          "stress": null,
           "gloss": "Camille",
           "gram": "first name"
         },
@@ -2094,11 +2094,11 @@
         },
         {
           "t": "vous",
-          "lemma": "s'il vous plaît",
-          "pos": "phrase",
+          "lemma": "vous",
+          "pos": "pron",
           "stress": "vu",
-          "gloss": "you (please)",
-          "gram": "part of s'il vous plaît, formal"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "plaît.",
@@ -2143,8 +2143,8 @@
           "lemma": "vous",
           "pos": "pron",
           "stress": "vu",
-          "gloss": "you",
-          "gram": "stressed pronoun, formal (to her boss)"
+          "gloss": "you (polite)",
+          "gram": "subject pronoun, 2nd person, formal (agent to his star)"
         },
         {
           "t": "Un",
@@ -2188,7 +2188,7 @@
     },
     {
       "seg": 61,
-      "trans": "Why didn't you call?",
+      "trans": "Why didn",
       "words": [
         {
           "t": "Pourquoi",
@@ -2204,7 +2204,7 @@
           "pos": "pron",
           "stress": "ty",
           "gloss": "you (casual)",
-          "gram": "subject pronoun, 2nd person singular, informal (in private)"
+          "gram": "subject pronoun, 2nd person singular, informal"
         },
         {
           "t": "n'as",
@@ -2220,7 +2220,7 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half, after the helper verb"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "appelé?",
@@ -2240,7 +2240,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2248,9 +2248,9 @@
           "t": "ne",
           "lemma": "ne",
           "pos": "part",
-          "stress": "nə",
+          "stress": "n",
           "gloss": "not",
-          "gram": "negation, first half"
+          "gram": "negation, first half, before the verb"
         },
         {
           "t": "sais",
@@ -2266,13 +2266,13 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2288,7 +2288,7 @@
           "t": "te",
           "lemma": "te",
           "pos": "pron",
-          "stress": "tə",
+          "stress": "t",
           "gloss": "you (casual)",
           "gram": "indirect object pronoun, 2nd person singular, before the verb"
         },
@@ -2297,16 +2297,16 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛʁ",
-          "gloss": "make (faire la surprise = to surprise)",
-          "gram": "infinitive"
+          "gloss": "(faire confiance) trust",
+          "gram": "infinitive, after pouvoir"
         },
         {
           "t": "la",
           "lemma": "le",
           "pos": "det",
           "stress": "la",
-          "gloss": "the (a surprise)",
-          "gram": "definite article, in faire la surprise"
+          "gloss": "the",
+          "gram": "definite article, feminine singular"
         },
         {
           "t": "surprise.",
@@ -2320,7 +2320,7 @@
     },
     {
       "seg": 63,
-      "trans": "It's nice here. Free lollipops!",
+      "trans": "It",
       "words": [
         {
           "t": "C'est",
@@ -2366,7 +2366,7 @@
           "t": "gratuites!",
           "lemma": "gratuit",
           "pos": "adj",
-          "stress": "ɡʁatɥit",
+          "stress": "ʁatɥit",
           "gloss": "free",
           "gram": "feminine plural, agrees with sucettes"
         }
@@ -2374,7 +2374,7 @@
     },
     {
       "seg": 64,
-      "trans": "It's sugar for the coffee.",
+      "trans": "It",
       "words": [
         {
           "t": "C'est",
@@ -2387,7 +2387,7 @@
         {
           "t": "du",
           "lemma": "de",
-          "pos": "det",
+          "pos": "prep",
           "stress": "dy",
           "gloss": "some",
           "gram": "partitive article: de + le"
@@ -2410,11 +2410,11 @@
         },
         {
           "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "café.",
@@ -2440,11 +2440,11 @@
         },
         {
           "t": "que",
-          "lemma": "qu'est-ce que",
-          "pos": "phrase",
-          "stress": "kə",
-          "gloss": "what (part 2)",
-          "gram": "question phrase qu'est-ce que, second part"
+          "lemma": "que",
+          "pos": "conj",
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "tu",
@@ -2467,14 +2467,14 @@
           "lemma": "à",
           "pos": "prep",
           "stress": "a",
-          "gloss": "in",
-          "gram": "preposition, with a city"
+          "gloss": "at",
+          "gram": "preposition ('à', meaning 'at')"
         },
         {
           "t": "Paris?",
           "lemma": "paris",
           "pos": "name",
-          "stress": "paʁi",
+          "stress": null,
           "gloss": "Paris",
           "gram": "city"
         },
@@ -2499,8 +2499,8 @@
           "lemma": "en",
           "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "on (holiday)",
-          "gram": "preposition, in en vacances"
+          "gloss": "(en retard) late",
+          "gram": "preposition, in en retard"
         },
         {
           "t": "vacances?",
@@ -2518,19 +2518,19 @@
       "words": [
         {
           "t": "En",
-          "lemma": "en quelque sorte",
-          "pos": "phrase",
+          "lemma": "en",
+          "pos": "prep",
           "stress": "ɑ̃",
-          "gloss": "in (sort of)",
-          "gram": "part of en quelque sorte"
+          "gloss": "(en retard) late",
+          "gram": "preposition, in en retard"
         },
         {
           "t": "quelque",
-          "lemma": "en quelque sorte",
+          "lemma": "quelque chose",
           "pos": "phrase",
           "stress": "kɛlk",
-          "gloss": "some (sort of)",
-          "gram": "part of en quelque sorte"
+          "gloss": "some (something)",
+          "gram": "part of quelque chose"
         },
         {
           "t": "sorte.",
@@ -2545,8 +2545,8 @@
           "lemma": "ça",
           "pos": "pron",
           "stress": "sa",
-          "gloss": "it",
-          "gram": "pronoun, in ça fait... que (time expression)"
+          "gloss": "that",
+          "gram": "demonstrative pronoun, informal"
         },
         {
           "t": "fait",
@@ -2568,7 +2568,7 @@
           "t": "semaines",
           "lemma": "semaine",
           "pos": "noun",
-          "stress": "səmɛn",
+          "stress": "smɛn",
           "gloss": "weeks",
           "gram": "feminine plural"
         },
@@ -2576,15 +2576,15 @@
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
-          "gloss": "since (that)",
-          "gram": "conjunction, in ça fait... que"
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2593,8 +2593,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "sɥi",
-          "gloss": "am (have been)",
-          "gram": "present, 1st person singular; French uses the present here"
+          "gloss": "am",
+          "gram": "present, 1st person singular"
         },
         {
           "t": "là.",
@@ -2608,7 +2608,7 @@
     },
     {
       "seg": 67,
-      "trans": "Didn't you like Mandelieu? It's a lovely place.",
+      "trans": "Didn",
       "words": [
         {
           "t": "Tu",
@@ -2632,13 +2632,13 @@
           "pos": "part",
           "stress": "pa",
           "gloss": "not",
-          "gram": "negation, second half"
+          "gram": "negation, second half, after the verb"
         },
         {
           "t": "Mandelieu?",
           "lemma": "mandelieu",
           "pos": "name",
-          "stress": "mɑ̃dəljø",
+          "stress": null,
           "gloss": "Mandelieu (a town near Cannes)",
           "gram": "town"
         },
@@ -2678,15 +2678,15 @@
     },
     {
       "seg": 68,
-      "trans": "I've got a little loft. And I'm looking for work.",
+      "trans": "I",
       "words": [
         {
           "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have (got)",
-          "gram": "je + ai: present, 1st person singular"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "un",
@@ -2700,7 +2700,7 @@
           "t": "petit",
           "lemma": "petit",
           "pos": "adj",
-          "stress": "pəti",
+          "stress": "pti",
           "gloss": "little",
           "gram": "masculine singular, before the noun"
         },
@@ -2724,7 +2724,7 @@
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2739,9 +2739,9 @@
         {
           "t": "du",
           "lemma": "de",
-          "pos": "det",
+          "pos": "prep",
           "stress": "dy",
-          "gloss": "some (work)",
+          "gloss": "some",
           "gram": "partitive article: de + le"
         },
         {
@@ -2786,17 +2786,17 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition, beaucoup de = a lot of"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "monde",
-          "lemma": "monde",
-          "pos": "noun",
+          "lemma": "tout le monde",
+          "pos": "phrase",
           "stress": "mɔ̃d",
-          "gloss": "people",
-          "gram": "masculine singular, in beaucoup de monde"
+          "gloss": "world (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "dans",
@@ -2808,11 +2808,11 @@
         },
         {
           "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "definite article, masculine singular"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "cinéma.",
@@ -2886,7 +2886,7 @@
           "t": "Je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -2911,8 +2911,8 @@
           "lemma": "avoir",
           "pos": "verb",
           "stress": "ʒe",
-          "gloss": "I have",
-          "gram": "je + ai: helper verb of the passé composé"
+          "gloss": "I have (need)",
+          "gram": "je + ai: present, 1st person singular; avoir besoin de = to need"
         },
         {
           "t": "toujours",
@@ -2932,11 +2932,11 @@
         },
         {
           "t": "le",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the (films in general)",
-          "gram": "definite article, for a general idea"
+          "lemma": "tout le monde",
+          "pos": "phrase",
+          "stress": "l",
+          "gloss": "the (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "cinéma.",
@@ -2950,7 +2950,7 @@
     },
     {
       "seg": 72,
-      "trans": "Listen, it's an industry, and it's full of sharks.",
+      "trans": "Listen, it",
       "words": [
         {
           "t": "Écoute,",
@@ -2973,7 +2973,7 @@
           "lemma": "un",
           "pos": "det",
           "stress": "yn",
-          "gloss": "a, an",
+          "gloss": "an (one)",
           "gram": "indefinite article, feminine singular"
         },
         {
@@ -3005,8 +3005,8 @@
           "lemma": "être",
           "pos": "verb",
           "stress": "ɛ",
-          "gloss": "is",
-          "gram": "present, 3rd person singular"
+          "gloss": "are (we are)",
+          "gram": "present, 3rd person singular, used with on = we"
         },
         {
           "t": "pleine",
@@ -3020,15 +3020,15 @@
           "t": "de",
           "lemma": "de",
           "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition, plein de = full of"
+          "stress": "d",
+          "gloss": "of ('s)",
+          "gram": "preposition, shows possession"
         },
         {
           "t": "requins.",
           "lemma": "requin",
           "pos": "noun",
-          "stress": "ʁəkɛ̃",
+          "stress": "ʁkɛ̃",
           "gloss": "sharks",
           "gram": "masculine plural"
         }
@@ -3036,7 +3036,7 @@
     },
     {
       "seg": 73,
-      "trans": "Sorry, that's all I can do.",
+      "trans": "Sorry, that",
       "words": [
         {
           "t": "Désolé,",
@@ -3056,33 +3056,33 @@
         },
         {
           "t": "tout",
-          "lemma": "tout",
-          "pos": "pron",
+          "lemma": "tout le monde",
+          "pos": "phrase",
           "stress": "tu",
-          "gloss": "all",
-          "gram": "pronoun, in tout ce que = all that"
+          "gloss": "all (everyone)",
+          "gram": "part of tout le monde"
         },
         {
           "t": "ce",
           "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, in tout ce que"
+          "pos": "det",
+          "stress": "s",
+          "gloss": "this (ce soir = tonight)",
+          "gram": "demonstrative, masculine singular"
         },
         {
           "t": "que",
           "lemma": "que",
           "pos": "conj",
-          "stress": "kə",
-          "gloss": "that, which",
-          "gram": "relative pronoun, object of faire"
+          "stress": "k",
+          "gloss": "that",
+          "gram": "conjunction, introduces what to say"
         },
         {
           "t": "je",
           "lemma": "je",
           "pos": "pron",
-          "stress": "ʒə",
+          "stress": "ʒ",
           "gloss": "I",
           "gram": "subject pronoun, 1st person singular"
         },
@@ -3099,7 +3099,7 @@
           "lemma": "faire",
           "pos": "verb",
           "stress": "fɛʁ",
-          "gloss": "do",
+          "gloss": "(faire confiance) trust",
           "gram": "infinitive, after pouvoir"
         }
       ]
@@ -3113,14 +3113,14 @@
           "lemma": "salut",
           "pos": "interj",
           "stress": "saly",
-          "gloss": "bye",
-          "gram": "informal goodbye"
+          "gloss": "hi",
+          "gram": "informal greeting"
         },
         {
           "t": "Mathias!",
           "lemma": "mathias",
           "pos": "name",
-          "stress": "matjas",
+          "stress": null,
           "gloss": "Mathias",
           "gram": "first name"
         }
@@ -4197,9 +4197,10 @@
       "lemma": "boulot",
       "stress": "bulo",
       "pos": "noun",
+      "gloss": "job, work (informal)",
       "gender": "m",
       "plural": "boulots",
-      "gloss": "job, work (informal)",
+      "register": "informal",
       "meanings": [
         {
           "en": "job, work",
@@ -4238,7 +4239,6 @@
           "trans": "I've got a little loft. And I'm looking for work."
         }
       ],
-      "register": "informal",
       "related": [
         {
           "word": "un boulot / des boulots",
@@ -4250,9 +4250,9 @@
       "lemma": "café",
       "stress": "kafe",
       "pos": "noun",
+      "gloss": "coffee; café",
       "gender": "m",
       "plural": "cafés",
-      "gloss": "coffee; café",
       "meanings": [
         {
           "en": "coffee",
@@ -4306,9 +4306,9 @@
       "lemma": "caprice",
       "stress": "kapʁis",
       "pos": "noun",
+      "gloss": "whim",
       "gender": "m",
       "plural": "caprices",
-      "gloss": "whim",
       "meanings": [
         {
           "en": "whim, passing fancy",
@@ -4360,7 +4360,7 @@
     },
     "ce": {
       "lemma": "ce",
-      "stress": "sə",
+      "stress": "s",
       "pos": "det",
       "gloss": "this, that; it",
       "meanings": [
@@ -4585,9 +4585,9 @@
       "lemma": "cinéma",
       "stress": "sinema",
       "pos": "noun",
+      "gloss": "cinema, film",
       "gender": "m",
       "plural": "cinémas",
-      "gloss": "cinema, film",
       "meanings": [
         {
           "en": "film, the film industry",
@@ -4881,7 +4881,7 @@
     },
     "de": {
       "lemma": "de",
-      "stress": "də",
+      "stress": "d",
       "pos": "prep",
       "gloss": "of, from; some",
       "meanings": [
@@ -5060,7 +5060,7 @@
     },
     "en quelque sorte": {
       "lemma": "en quelque sorte",
-      "stress": "ɑ̃kɛlkəsɔʁt",
+      "stress": "ɑ̃kɛlksɔʁt",
       "pos": "phrase",
       "gloss": "sort of, in a way",
       "meanings": [
@@ -5096,9 +5096,9 @@
       "lemma": "endroit",
       "stress": "ɑ̃dʁwa",
       "pos": "noun",
+      "gloss": "place, spot",
       "gender": "m",
       "plural": "endroits",
-      "gloss": "place, spot",
       "meanings": [
         {
           "en": "place, spot",
@@ -5544,7 +5544,7 @@
     },
     "gratuit": {
       "lemma": "gratuit",
-      "stress": "ɡʁatɥi",
+      "stress": "ʁatɥi",
       "pos": "adj",
       "gloss": "free (of charge)",
       "meanings": [
@@ -5645,9 +5645,9 @@
       "lemma": "industrie",
       "stress": "ɛ̃dystʁi",
       "pos": "noun",
+      "gloss": "industry",
       "gender": "f",
       "plural": "industries",
-      "gloss": "industry",
       "meanings": [
         {
           "en": "industry",
@@ -5695,7 +5695,7 @@
     },
     "je": {
       "lemma": "je",
-      "stress": "ʒə",
+      "stress": "ʒ",
       "pos": "pron",
       "gloss": "I",
       "meanings": [
@@ -5729,7 +5729,7 @@
     },
     "le": {
       "lemma": "le",
-      "stress": "lə",
+      "stress": "l",
       "pos": "det",
       "gloss": "the",
       "meanings": [
@@ -5788,9 +5788,9 @@
       "lemma": "loft",
       "stress": "lɔft",
       "pos": "noun",
+      "gloss": "loft (flat)",
       "gender": "m",
       "plural": "lofts",
-      "gloss": "loft (flat)",
       "meanings": [
         {
           "en": "loft, open-plan flat",
@@ -5916,9 +5916,9 @@
       "lemma": "monde",
       "stress": "mɔ̃d",
       "pos": "noun",
+      "gloss": "world; people",
       "gender": "m",
       "plural": "mondes",
-      "gloss": "world; people",
       "meanings": [
         {
           "en": "world",
@@ -5978,7 +5978,7 @@
     },
     "ne": {
       "lemma": "ne",
-      "stress": "nə",
+      "stress": "n",
       "pos": "part",
       "gloss": "not (with pas, rien, que)",
       "meanings": [
@@ -6119,7 +6119,7 @@
     },
     "petit": {
       "lemma": "petit",
-      "stress": "pəti",
+      "stress": "pti",
       "pos": "adj",
       "gloss": "small, little",
       "meanings": [
@@ -6495,7 +6495,7 @@
     },
     "qu'est-ce que": {
       "lemma": "qu'est-ce que",
-      "stress": "kɛskə",
+      "stress": "kɛsk",
       "pos": "phrase",
       "gloss": "what (in questions)",
       "meanings": [
@@ -6529,7 +6529,7 @@
     },
     "que": {
       "lemma": "que",
-      "stress": "kə",
+      "stress": "k",
       "pos": "conj",
       "gloss": "that; than; only (ne...que)",
       "meanings": [
@@ -6573,13 +6573,55 @@
         }
       ]
     },
+    "quelque chose": {
+      "lemma": "quelque chose",
+      "stress": "kɛlkʃoz",
+      "pos": "phrase",
+      "gloss": "something",
+      "meanings": [
+        {
+          "en": "something",
+          "note": "Spoken French phrase expression meaning 'something', common in natural conversation."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Trouve quelque chose.",
+          "trans": "Think of something."
+        },
+        {
+          "text": "Tu veux quelque chose?",
+          "trans": "Do you want something?"
+        },
+        {
+          "text": "Je ne sais pas. Trouve quelque chose.",
+          "trans": "I don't know. Think of something."
+        }
+      ],
+      "related": [
+        {
+          "word": "quelque",
+          "gloss": "some"
+        },
+        {
+          "word": "quelqu'un",
+          "gloss": "someone"
+        },
+        {
+          "word": "quel",
+          "gloss": "what"
+        }
+      ]
+    },
     "requin": {
       "lemma": "requin",
-      "stress": "ʁəkɛ̃",
+      "stress": "ʁkɛ̃",
       "pos": "noun",
+      "gloss": "shark",
       "gender": "m",
       "plural": "requins",
-      "gloss": "shark",
       "meanings": [
         {
           "en": "shark",
@@ -6664,6 +6706,7 @@
       "stress": "saly",
       "pos": "interj",
       "gloss": "hi; bye",
+      "register": "informal",
       "meanings": [
         {
           "en": "hi",
@@ -6690,7 +6733,6 @@
           "trans": "Morning! Hi, Mathias."
         }
       ],
-      "register": "informal",
       "related": [
         {
           "word": "saluer",
@@ -6862,11 +6904,11 @@
     },
     "semaine": {
       "lemma": "semaine",
-      "stress": "səmɛn",
+      "stress": "smɛn",
       "pos": "noun",
+      "gloss": "week",
       "gender": "f",
       "plural": "semaines",
-      "gloss": "week",
       "meanings": [
         {
           "en": "week",
@@ -6916,9 +6958,9 @@
       "lemma": "sucette",
       "stress": "sysɛt",
       "pos": "noun",
+      "gloss": "lollipop",
       "gender": "f",
       "plural": "sucettes",
-      "gloss": "lollipop",
       "meanings": [
         {
           "en": "lollipop",
@@ -6968,9 +7010,9 @@
       "lemma": "sucre",
       "stress": "sykʁ",
       "pos": "noun",
+      "gloss": "sugar",
       "gender": "m",
       "plural": "sucres",
-      "gloss": "sugar",
       "meanings": [
         {
           "en": "sugar",
@@ -7020,9 +7062,9 @@
       "lemma": "surprise",
       "stress": "syʁpʁiz",
       "pos": "noun",
+      "gloss": "surprise, shock",
       "gender": "f",
       "plural": "surprises",
-      "gloss": "surprise, shock",
       "meanings": [
         {
           "en": "surprise, shock",
@@ -7081,6 +7123,7 @@
       "stress": "sɛ̃pa",
       "pos": "adj",
       "gloss": "nice, friendly",
+      "register": "informal",
       "meanings": [
         {
           "en": "nice, pleasant, friendly",
@@ -7126,7 +7169,6 @@
           "trans": "It's nice here. Free lollipops!"
         }
       ],
-      "register": "informal",
       "related": [
         {
           "word": "sympathique",
@@ -7197,7 +7239,7 @@
     },
     "te": {
       "lemma": "te",
-      "stress": "tə",
+      "stress": "t",
       "pos": "pron",
       "gloss": "you (casual, object)",
       "meanings": [
@@ -7233,9 +7275,9 @@
       "lemma": "thé",
       "stress": "te",
       "pos": "noun",
+      "gloss": "tea",
       "gender": "m",
       "plural": "thés",
-      "gloss": "tea",
       "meanings": [
         {
           "en": "tea",
@@ -7381,6 +7423,48 @@
         {
           "word": "tout le monde",
           "gloss": "everybody"
+        },
+        {
+          "word": "tout de suite",
+          "gloss": "right away"
+        },
+        {
+          "word": "tout à l'heure",
+          "gloss": "earlier"
+        }
+      ]
+    },
+    "tout le monde": {
+      "lemma": "tout le monde",
+      "stress": "tulmɔ̃d",
+      "pos": "phrase",
+      "gloss": "everybody, everyone",
+      "meanings": [
+        {
+          "en": "everybody, everyone",
+          "note": "takes a singular verb: tout le monde est là"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Tout le monde est là.",
+          "trans": "Everyone is here."
+        },
+        {
+          "text": "Bonjour tout le monde!",
+          "trans": "Hello everyone!"
+        },
+        {
+          "text": "On est au Westin. Tout le monde est là.",
+          "trans": "We're at the Westin. Everyone is here."
+        }
+      ],
+      "related": [
+        {
+          "word": "tout",
+          "gloss": "all"
         },
         {
           "word": "tout de suite",
@@ -7559,9 +7643,9 @@
       "lemma": "vacances",
       "stress": "vakɑ̃s",
       "pos": "noun",
+      "gloss": "holiday(s)",
       "gender": "f",
       "plural": "vacances",
-      "gloss": "holiday(s)",
       "meanings": [
         {
           "en": "holiday, vacation",
