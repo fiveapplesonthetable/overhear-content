@@ -43,5 +43,5 @@ WALK = [
     (9, None, '\'Do you understand that the situation is very serious?\' Barinov asks as a father asks a child. "Situation" is borrowed from English. He is stern, and he means well.'),
     (10, None, '\'I will not let our restaurant down, chef!\' It\'s the "let down" word that Vika used with Alisa, which literally means "lead under". Max promises with a loud voice. His intentions are the best.'),
     (11, None, '\'Then work faster and do not talk too much!\' The last word means "extra", so "don\'t chatter anything extra". You heard the same word in "no more unnecessary words". Barinov ends the talk, as he ends every talk.'),
-    (12, None, '\'And I will meet a new guest in the dining room.\' The Russian for "meet" is the one for greeting someone who arrives. Vika slips away from the kitchen, because the front of house needs her.'),
+    (12, None, '\'And I will meet a new guest in the dining room.\' In Russian, "meet" is the one for greeting someone who arrives. Vika slips away from the kitchen, because the front of house needs her.'),
 ]

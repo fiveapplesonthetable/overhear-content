@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Attention everyone! I have important information.' "Attention to all" is the Russian call to a room, and then "at me" stands for "I have". Vika wants every pair of eyes and ears, and she gets them.
 - 'Vika, speak faster, we have a lot of orders.' "Faster" is just "quick" with a new ending, like English "-er". After "many", the thing counted takes an "of" ending. Barinov uses the friendly "ty" with her and is in no mood for suspense.
-- 'Dmitry Vladimirovich himself just called.' "Himself" is added for emphasis: the owner in person. And "only what" is how Russians say "just now". Vika drops his full name like a weight.
+- 'Dmitry Vladimirovich himself just called.' "Himself" is added for emphasis: the owner in person. And "only what" is the Russian way to say "just now". Vika drops his full name like a weight.
 - 'And what did our respected owner say?' "Respected" grows from the word Max used in the pastry kitchen, "I respect". Barinov says it with a trace of irony. He knows the owner is more trouble than help.
 - 'A restaurant critic will come to us today.' "Will arrive" is the by-vehicle "come". "To us" means "to our place". And "restaurant" turns into a describing word to make "restaurant critic". Vika says it gravely.
 - 'We will feed him a delicious hot lunch.' The prefix at the start of "feed" means "fill up", and it comes from the same root as the animal feed in the winnings line. Barinov's whole plan is food, as usual.

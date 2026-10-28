@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you understand that the situation is very serious?' Barinov asks as a father asks a child. "Situation" is borrowed from English. He is stern, and he means well.
 - 'I will not let our restaurant down, chef!' It's the "let down" word that Vika used with Alisa, which literally means "lead under". Max promises with a loud voice. His intentions are the best.
 - 'Then work faster and do not talk too much!' The last word means "extra", so "don't chatter anything extra". You heard the same word in "no more unnecessary words". Barinov ends the talk, as he ends every talk.
-- 'And I will meet a new guest in the dining room.' The Russian for "meet" is the one for greeting someone who arrives. Vika slips away from the kitchen, because the front of house needs her.
+- 'And I will meet a new guest in the dining room.' In Russian, "meet" is the one for greeting someone who arrives. Vika slips away from the kitchen, because the front of house needs her.
