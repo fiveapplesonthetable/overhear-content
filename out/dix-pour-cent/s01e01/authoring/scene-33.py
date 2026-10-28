@@ -14,7 +14,7 @@ SOURCE_FILE = "sources/dix-pour-cent/s01/e01.fr.dual.srt"
 INTRO = ("Arlette's teasing has worked: she told Gabriel that Samuel never taught him to hang on, and now he wants "
          "to win Cécile back. He drives out of Paris to her riding school and finds her up on a big chestnut horse, "
          "which she still can't really control. The two old friends have not spoken since she called him a liar. "
-         "You'll hear the scene in French first, so just let it wash over you; there's no need to follow every word.")
+         "You'll hear the scene in French first; don't worry about catching every word.")
 
 STORY = [
  ("gabriel", "Bonjour, je cherche Cécile de France.", "Hello, I'm looking for Cécile de France.",

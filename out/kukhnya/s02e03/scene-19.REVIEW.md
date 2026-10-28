@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Аня | Я твой должник навсегда. | I am your debtor forever. | new | new: new |
 | 5 | Саша | Будешь должен мне услугу. | You will owe me a favor. | new | new: new |
 | 6 | Аня | А, кстати, та девушка ничего мне не передавала? | By the way, did that girl leave a message for me? | #290 00:19:11: та девушка ничего мне не передавала | adapted: adapted |
-| 7 | Саша | Понятия не имею, я даже не видела, как она свалила. | No idea. I did not even see her leave. | #291 00:19:15: Понятия не имею, я даже не видела, как она свалила | adapted: adapted |
+| 7 | Саша | Понятия не имею. Я даже не видела, как она свалила. | No idea. I did not even see her leave. | #291 00:19:15: Понятия не имею, я даже не видела, как она свалила | adapted: adapted |
 | 8 | Аня | Ладно, пойду работать дальше. | Alright, I will go back to work. | new | new: new |
 | 9 | Вика | Простите, может быть, вы хотели попросить счет? | Excuse me, would you like the check? | #292 00:19:17: может быть, вы хотели попросить счет | adapted: adapted |
 | 10 | Аня | Нет, спасибо, я еще посижу. | No, thanks. I will stay a little longer. | #293 00:19:20: Нет, спасибо, я еще посижу | adapted: adapted |

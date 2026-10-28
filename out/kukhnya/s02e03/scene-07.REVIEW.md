@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened?' It is clear what this means. This is an important detail.
-- 'You're one to talk about cripples.' It is clear what this means. This is an important detail.
-- 'I am on sick leave.' It is clear what this means. This is an important detail.
-- 'I am not here.' It is clear what this means. This is an important detail.
-- 'Are you fumigating cockroaches?' It is clear what this means. This is an important detail.
-- 'There is a stink in the dining room.' It is clear what this means. This is an important detail.
-- 'It is Fedya making breakfast.' It is clear what this means. This is an important detail.
-- 'He is boiling a belt.' It is clear what this means. This is an important detail.
-- 'Why is he boiling a belt?' It is clear what this means. This is an important detail.
-- 'He made a bet for money.' It is clear what this means. This is an important detail.
-- 'You are like children.' It is clear what this means. This is an important detail.
-- 'Go to work!' It is clear what this means. This is an important detail.
+- 'What happened?' — Notice the pronoun meaning 'what' paired with the verb for 'happened'.
+- 'You're one to talk about cripples.' — Notice the pronoun meaning 'who' paired with the verb for 'said, were saying'.
+- 'I am on sick leave.' — Notice the pronoun meaning 'I' paired with the noun for 'sick leave'.
+- 'I am not here.' — Built around the key pronoun meaning 'me'.
+- 'Are you fumigating cockroaches?' — Notice the pronoun meaning 'you' paired with the verb for 'to torment (soul), poison'.
+- 'There is a stink in the dining room.' — Notice the noun meaning 'hall' paired with the verb for 'is parked (stands)'.
+- 'It is Fedya making breakfast.' — Notice the pronoun meaning 'this' paired with the proper name for 'Fedya'.
+- 'He is boiling a belt.' — Notice the pronoun meaning 'he' paired with the verb for 'is cooking'.
+- 'Why is he boiling a belt?' — Notice the adverb meaning 'what for' paired with the pronoun for 'he'.
+- 'He made a bet for money.' — Notice the pronoun meaning 'he' paired with the verb for 'to make a bet, argue, wager'.
+- 'You are like children.' — Notice the pronoun meaning 'you' paired with the adverb for 'how'.
+- 'Go to work!' — Notice the verb meaning 'come' paired with the verb for 'to work'.

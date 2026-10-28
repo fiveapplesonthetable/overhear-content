@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I didn't mean to, honestly.' It is clear what this means. This is an important detail.
-- 'I will wipe it all up now.' It is clear what this means. This is an important detail.
-- 'Don't cry.' It is clear what this means. This is an important detail.
-- 'Everything is fine.' It is clear what this means. This is an important detail.
-- 'Will you fire me?' It is clear what this means. This is an important detail.
-- 'You will tell management everything.' It is clear what this means. This is an important detail.
-- 'I am not going anywhere.' It is clear what this means. This is an important detail.
-- 'I won't say anything.' It is clear what this means. This is an important detail.
-- 'Excuse me.' It is clear what this means. This is an important detail.
-- 'I really didn't mean to.' It is clear what this means. This is an important detail.
-- 'Calm down.' It is clear what this means. This is an important detail.
-- 'Go on working.' It is clear what this means. This is an important detail.
+- 'I didn't mean to, honestly.' — Notice the pronoun meaning 'I' paired with the verb for 'wanted, meant'.
+- 'I will wipe it all up now.' — Notice the pronoun meaning 'I' paired with the adverb for 'now'.
+- 'Don't cry.' — Notice the adverb meaning 'it is necessary' paired with the verb for 'to cry'.
+- 'Everything is fine.' — Notice the det meaning 'all' paired with the adverb for 'good, fine'.
+- 'Will you fire me?' — Notice the pronoun meaning 'you' paired with the pronoun for 'me'.
+- 'You will tell management everything.' — Notice the pronoun meaning 'you' paired with the verb for 'will tell'.
+- 'I am not going anywhere.' — Notice the adverb meaning 'nowhere, anywhere (with motion)' paired with the pronoun for 'I'.
+- 'I won't say anything.' — Notice the pronoun meaning 'nothing' paired with the pronoun for 'I'.
+- 'Excuse me.' — Notice the verb meaning 'sorry, excuse me' paired with the pronoun for 'me'.
+- 'I really didn't mean to.' — Notice the pronoun meaning 'I' paired with the noun for 'honestly'.
+- 'Calm down.' — Built around the key verb meaning 'calm down'.
+- 'Go on working.' — Notice the verb meaning 'go' paired with the verb for 'to work'.

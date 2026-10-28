@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You have a very bad picture regarding safety.' -- The speaker makes the statement.
-- 'Everything is fine with us.' -- The speaker makes the statement.
-- 'We passed all inspections.' -- The speaker makes the statement.
-- 'How did you pass the inspections?' -- The speaker makes the statement.
-- 'You have no fire extinguishers in the kitchen.' -- The speaker makes the statement.
-- 'We have one.' -- The speaker makes the statement.
-- 'It is hanging under the table.' -- The speaker makes the statement.
-- 'It must hang within three meters.' -- The speaker makes the statement.
-- 'From the place of a possible fire.' -- The speaker makes the statement.
-- 'This is not a problem.' -- The speaker makes the statement.
-- 'This is a very big problem.' -- The speaker makes the statement.
-- 'Oh, how bad everything is.' -- The speaker makes the statement.
-- 'I give you two days for correction.' -- The speaker makes the statement.
-- 'We will do everything.' -- The speaker makes the statement.
+- 'You have a very bad picture regarding safety.' — Notice the pronoun meaning 'you' paired with the adverb for 'very much'.
+- 'Everything is fine with us.' — Notice the pronoun meaning 'us' paired with the det for 'everything'.
+- 'We passed all inspections.' — Notice the pronoun meaning 'we' paired with the verb for 'to go through, to pass; to come along'.
+- 'How did you pass the inspections?' — Notice the adverb meaning 'how' paired with the pronoun for 'you'.
+- 'You have no fire extinguishers in the kitchen.' — Notice the pronoun meaning 'you' paired with the noun for 'fire extinguisher'.
+- 'We have one.' — Notice the pronoun meaning 'us' paired with the verb for 'there is (   = I have)'.
+- 'It is hanging under the table.' — Notice the pronoun meaning 'he' paired with the verb for '(it) has been hanging'.
+- 'It must hang within three meters.' — Notice the pronoun meaning 'he' paired with the adjective for 'has to, must'.
+- 'From the place of a possible fire.' — Notice the noun meaning 'places' paired with the adjective for 'possible, feasible'.
+- 'This is not a problem.' — Notice the pronoun meaning 'this' paired with the noun for 'problem'.
+- 'This is a very big problem.' — Notice the pronoun meaning 'this' paired with the adverb for 'very much'.
+- 'Oh, how bad everything is.' — Notice the interjection meaning 'oh' paired with the adverb for 'how'.
+- 'I give you two days for correction.' — Notice the pronoun meaning 'I' paired with the verb for 'give'.
+- 'We will do everything.' — Notice the pronoun meaning 'we' paired with the det for 'everything'.

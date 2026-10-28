@@ -26,7 +26,7 @@ LABELS = {
     "guard": "Охранник",
 }
 
-INTRO = "Pavel Osipenko pushes past security guards and storms angrily into the administration office to demand his documents back from Boris."
+INTRO = "Pavel Osipenko pushes past the security guards and storms angrily into the regional administration office to demand his campaign documents back from Boris."
 
 STORY = [
     ("guard", "Сюда нельзя входить без пропуска.",

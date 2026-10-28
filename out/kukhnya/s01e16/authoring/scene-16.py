@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.16"
 SOURCE_FILE = "sources/kukhnya/s01/e16.ru.dual.srt"
 SOURCE_NOTE = "Cues."
 
-INTRO = "Let us listen to the conversation. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "In this scene focused on aynura spice, another illegal worker is hidden. The inspector concludes the kitchen is clean. Max offers his pâté. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "This is the end of the scene."
 OUTRO = "Goodbye."
@@ -37,18 +37,18 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Where did you get that?' -- The speaker makes the statement."),
-    (1, None, "'Another illegal.' -- The speaker makes the statement."),
-    (2, None, "'Lord, where to put you?' -- The speaker makes the statement."),
-    (3, None, "'You will sit in the toilet.' -- The speaker makes the statement."),
-    (4, None, "'Then leave through the entrance.' -- The speaker makes the statement."),
-    (5, None, "'They are on guard at the entrance.' -- The speaker makes the statement."),
-    (6, None, "'He will sit in the hall.' -- The speaker makes the statement."),
-    (7, None, "'Go to the bar, take clothes.' -- The speaker makes the statement."),
-    (8, None, "'Endure, come on.' -- The speaker makes the statement."),
-    (9, None, "'I congratulate you.' -- The speaker makes the statement."),
-    (10, None, "'Everything is clean with you.' -- The speaker makes the statement."),
-    (11, None, "'I told you right away.' -- The speaker makes the statement."),
-    (12, None, "'I have no right to believe.' -- The speaker makes the statement."),
-    (13, None, "'We are professionals.' -- The speaker makes the statement."),
+    (0, None, "'Where did you get that?' — Notice the pronoun meaning 'you' paired with the pronoun for 'what?'."),
+    (1, None, "'Another illegal.' — Notice the adverb meaning 'more, still' paired with the numeral for 'one'."),
+    (2, None, "'Lord, where to put you?' — Notice the interjection meaning 'Good Lord' paired with the adverb for 'where to'."),
+    (3, None, "'You will sit in the toilet.' — Notice the pronoun meaning 'you' paired with the verb for 'to sit out'."),
+    (4, None, "'Then leave through the entrance.' — Notice the adverb meaning 'then' paired with the verb for 'to leave'."),
+    (5, None, "'They are on guard at the entrance.' — Notice the pronoun meaning 'they' paired with the verb for 'to be on duty'."),
+    (6, None, "'He will sit in the hall.' — Notice the verb meaning 'to sit down' paired with the noun for 'the hall'."),
+    (7, None, "'Go to the bar, take clothes.' — Notice the verb meaning 'go (and come back)' paired with the noun for 'bar'."),
+    (8, None, "'Endure, come on.' — Notice the verb meaning 'bear, endure' paired with the verb for 'let's'."),
+    (9, None, "'I congratulate you.' — Notice the verb meaning 'congratulations (lit. I congratulate)' paired with the pronoun for 'you'."),
+    (10, None, "'Everything is clean with you.' — Notice the pronoun meaning 'you' paired with the det for 'all'."),
+    (11, None, "'I told you right away.' — Notice the pronoun meaning 'I' paired with the pronoun for 'you (polite)'."),
+    (12, None, "'I have no right to believe.' — Notice the pronoun meaning 'I' paired with the verb for 'have (   = I mean)'."),
+    (13, None, "'We are professionals.' — Notice the pronoun meaning 'we' paired with the noun for 'professionals'."),
 ]

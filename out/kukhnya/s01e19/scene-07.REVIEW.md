@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And how is your business?' It is a simple phrase.
 - 'Business is going well.' It is a simple phrase.
 - 'Thank you for asking.' It is a simple phrase.
-- 'What a pleasant evening 0.' -- The speaker responds in the scene.
-- 'What a pleasant evening 1.' -- The speaker responds in the scene.
-- 'What a pleasant evening 2.' -- The speaker responds in the scene.
-- 'What a pleasant evening 3.' -- The speaker responds in the scene.
+- 'What a pleasant evening 0.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 1.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 2.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'What a pleasant evening 3.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.

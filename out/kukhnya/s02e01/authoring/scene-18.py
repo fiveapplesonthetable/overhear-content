@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S2.01"
 SOURCE_FILE = "sources/kukhnya/s02/e01.ru.dual.srt"
 SOURCE_NOTE = "Scene 18"
 
-INTRO = "Victoria reads the strange note she received from Kostya. She quickly realizes it is from Max and becomes annoyed by his dramatic behavior."
+INTRO = "Victoria reads the strange note she received from Kostya. She quickly realizes it is from Max and becomes annoyed by his dramatic behavior. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 
 STORY = [
     ("anya", "Что это за странная записка?",

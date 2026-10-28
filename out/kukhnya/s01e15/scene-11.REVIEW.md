@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, take care of the last order.' -- The speaker makes the statement.
-- 'That is it, the kitchen is closed.' -- The speaker makes the statement.
-- 'I always said that you are the most capable.' -- The speaker makes the statement.
-- 'Viktor Petrovich, you have a sick heart.' -- The speaker makes the statement.
-- 'My heart is in perfect order.' -- The speaker makes the statement.
-- 'So you tricked me?' -- The speaker makes the statement.
-- 'And how else could I bring you back?' -- The speaker makes the statement.
-- 'Ah, you bastard!' -- The speaker makes the statement.
-- 'Leva, calm down!' -- The speaker makes the statement.
-- 'I will give you an attack right now!' -- The speaker makes the statement.
-- 'Leva, put that in its place!' -- The speaker makes the statement.
-- 'I will kill you!' -- The speaker makes the statement.
+- 'Fedya, take care of the last order.' — Notice the proper name meaning 'Fedya' paired with the verb for 'to attend to, take care of, engage in'.
+- 'That is it, the kitchen is closed.' — Notice the det meaning 'everything' paired with the noun for 'kitchen'.
+- 'I always said that you are the most capable.' — Notice the pronoun meaning 'I' paired with the adverb for 'always'.
+- 'Viktor Petrovich, you have a sick heart.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'.
+- 'My heart is in perfect order.' — Notice the noun meaning 'heart (a bad heart)' paired with the pronoun for 'me'.
+- 'So you tricked me?' — Notice the pronoun meaning 'you' paired with the pronoun for 'me'.
+- 'And how else could I bring you back?' — Notice the adverb meaning 'how' paired with the adverb for 'more, still'.
+- 'Ah, you bastard!' — Notice the interjection meaning 'oh' paired with the pronoun for 'you'.
+- 'Leva, calm down!' — Notice the proper name meaning 'Lyova' paired with the verb for 'calm down'.
+- 'I will give you an attack right now!' — Notice the pronoun meaning 'I' paired with the pronoun for 'for you, to you'.
+- 'Leva, put that in its place!' — Notice the proper name meaning 'Lyova' paired with the verb for 'put, place'.
+- 'I will kill you!' — Notice the pronoun meaning 'I' paired with the verb for 'I'll kill (you)'.

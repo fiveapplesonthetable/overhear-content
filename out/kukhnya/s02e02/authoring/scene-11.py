@@ -11,7 +11,7 @@ LABELS = {"anya": "Макс", "kostya": "Костя", "nastya": "Настя"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.02"
 SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 
-INTRO = "Max finds out that Nastya's dad came looking for Kostya but mistook Max for him and threatened him. Max is terrified. Let us listen to the conversation in Russian first."
+INTRO = "In this scene focused on angry dad, max finds out that Nastya's dad came looking for Kostya but mistook Max for him and threatened him. Max is terrified. Let's listen closely to Max and Kostya's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
 OUTRO = "The conversation concludes the matter at hand."

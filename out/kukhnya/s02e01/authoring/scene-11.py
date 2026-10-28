@@ -28,7 +28,7 @@ STORY = [
     ('kostya', 'Не простил бы.', "I wouldn't forgive you.", [], '')
 ]
 WALK = [
-    (0, None, "'Can you believe it? She wouldn't even listen.' -- The speaker responds in the scene."),
+    (0, None, "'Can you believe it? She wouldn't even listen.' — Notice the verb meaning 'can you imagine, believe' paired with the pronoun for 'it (the pipe)'."),
     (1, None, "'I wouldn't either.' ENG: The second word means also or too, and the last words mean would not start."),
     (2, None, "'What do you mean?' ENG: The phrase translates to in what sense and is a common way to ask what someone means."),
     (3, None, "'Whose side are you on? Vika's or your friend's?' ENG: The first phrase means who are you for, asking which side they are taking."),

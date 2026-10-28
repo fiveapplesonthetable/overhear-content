@@ -11,7 +11,7 @@ LABELS = {"anya": "Шеф", "elena": "Елена", "guest": "Гость"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.03"
 SOURCE_FILE = "sources/kukhnya/s02/e03.ru.dual.srt"
 
-INTRO = "An angry customer complains to Elena. Later, Chef Viktor asks Elena if she has any plans for the evening. Let us listen to the conversation in Russian first."
+INTRO = "In this scene focused on plans for the evening, the characters discuss their situation. I'm so sorry. I didn't mean to. Let's listen closely to Chef Viktor and Elena's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
 OUTRO = "The conversation concludes the matter at hand."

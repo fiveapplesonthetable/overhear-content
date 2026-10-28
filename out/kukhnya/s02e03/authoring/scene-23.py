@@ -11,7 +11,7 @@ LABELS = {"anya": "Шеф", "timur": "Тимур", "maks": "Макс"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.03"
 SOURCE_FILE = "sources/kukhnya/s02/e03.ru.dual.srt"
 
-INTRO = "Chef Viktor expects Elena to pick him up, but Timur arrives instead. Max reflects on the complex and sometimes unfair nature of justice. Let us listen to the conversation in Russian first."
+INTRO = "In this scene focused on justice, the characters discuss their situation. Hey, my friend, hop in. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
 OUTRO = "The conversation concludes the matter at hand."

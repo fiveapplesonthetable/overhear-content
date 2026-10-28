@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, my friend.' -- The speaker makes the statement.
-- 'Good morning.' -- The speaker makes the statement.
-- 'Victor prepared such an omelet.' -- The speaker makes the statement.
-- 'Is this a kind of apology?' -- The speaker makes the statement.
-- 'This is a kind of omelet.' -- The speaker makes the statement.
-- 'Come on, eat.' -- The speaker makes the statement.
-- 'I will be late for work.' -- The speaker makes the statement.
-- 'Yes, eat faster.' -- The speaker makes the statement.
-- 'Alright, I will eat this.' -- The speaker makes the statement.
-- 'This is very delicious.' -- The speaker makes the statement.
-- 'It is time for us to go.' -- The speaker makes the statement.
-- 'Thank you for the breakfast.' -- The speaker makes the statement.
+- 'Good morning, my friend.' — Notice the adjective meaning 'good' paired with the noun for 'morning'.
+- 'Good morning.' — Notice the adjective meaning 'good' paired with the noun for 'morning'.
+- 'Victor prepared such an omelet.' — Notice the proper name meaning 'Viktor' paired with the verb for 'cooked'.
+- 'Is this a kind of apology?' — Notice the pronoun meaning 'this' paired with the noun for 'guy, fellow; type'.
+- 'This is a kind of omelet.' — Notice the pronoun meaning 'this' paired with the noun for 'guy, fellow; type'.
+- 'Come on, eat.' — Notice the verb meaning 'eat' paired with the verb for 'let's'.
+- 'I will be late for work.' — Notice the pronoun meaning 'I' paired with the verb for 'to be late'.
+- 'Yes, eat faster.' — Notice the verb meaning 'eat' paired with the adverb for 'faster'.
+- 'Alright, I will eat this.' — Notice the pronoun meaning 'I' paired with the verb for 'to eat up'.
+- 'This is very delicious.' — Notice the pronoun meaning 'this' paired with the adverb for 'very much'.
+- 'It is time for us to go.' — Notice the pronoun meaning '(to) us' paired with the adverb for 'it's time'.
+- 'Thank you for the breakfast.' — Notice the interjection meaning 'thank you' paired with the noun for 'breakfast'.

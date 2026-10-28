@@ -1,6 +1,6 @@
 # kukhnya-s01e20-scene-12: review sheet
 
-Title: Разговор на кухне  (Kitchen Conversation)
+Title: Ожидание столика  (Waiting for a Table)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Кухня (Kukhnya) S1.20

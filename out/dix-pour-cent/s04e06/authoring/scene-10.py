@@ -11,7 +11,7 @@ SOURCE_FILE = "sources/dix-pour-cent/s04/e06.fr.dual.srt"
 VOICES = {'narrator': 'sky', 'lea': 'lucie', 'veto': 'theo'}
 LABELS = {'lea': 'Arlette', 'veto': 'Vet'}
 
-INTRO = "The vet talks to Arlette about her dog's passing. We will hear it in French first, don't worry about catching every word."
+INTRO = "At the veterinary clinic, the vet gently speaks with Arlette about her beloved dog's passing while Jean-Gabriel stays by her side. We will hear it in French first, so don't worry about catching every word."
 OPENER = "Let's go back through it. The vet explains the situation."
 TRANSITION = "Let's listen to the whole scene again."
 OUTRO = 'Arlette says her final goodbye to her dog.'

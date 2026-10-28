@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does this worry you too?' -- The speaker makes the statement.
-- 'What exactly?' -- The speaker makes the statement.
-- 'For example, will Max come or not?' -- The speaker makes the statement.
-- 'I think he will come.' -- The speaker makes the statement.
-- 'He loves our kitchen.' -- The speaker makes the statement.
-- 'And he loves to work.' -- The speaker makes the statement.
-- 'And what about the chef?' -- The speaker makes the statement.
-- 'The chef will forgive him.' -- The speaker makes the statement.
-- 'They will make peace.' -- The speaker makes the statement.
-- 'Of course they will make peace.' -- The speaker makes the statement.
-- 'Then everything will be fine.' -- The speaker makes the statement.
-- 'Yes, we are just waiting.' -- The speaker makes the statement.
+- 'Does this worry you too?' — Notice the pronoun meaning 'you' paired with the pronoun for 'this'.
+- 'What exactly?' — Built around the key pronoun meaning 'what'.
+- 'For example, will Max come or not?' — Notice the adverb meaning 'for example' paired with the proper name for 'Max'.
+- 'I think he will come.' — Notice the pronoun meaning 'I' paired with the verb for 'I think'.
+- 'He loves our kitchen.' — Notice the pronoun meaning 'he' paired with the verb for 'loves'.
+- 'And he loves to work.' — Notice the pronoun meaning 'he' paired with the verb for 'loves'.
+- 'And what about the chef?' — Notice the adverb meaning 'how' paired with the proper name for 'chef, boss'.
+- 'The chef will forgive him.' — Notice the proper name meaning 'chef, boss' paired with the pronoun for 'him'.
+- 'They will make peace.' — Notice the pronoun meaning 'they' paired with the verb for 'to make up, to reconcile'.
+- 'Of course they will make peace.' — Notice the adverb meaning 'of course' paired with the verb for 'to make up, to reconcile'.
+- 'Then everything will be fine.' — Notice the adverb meaning 'back then' paired with the det for 'everything'.
+- 'Yes, we are just waiting.' — Notice the adverb meaning 'just' paired with the verb for 'we wait'.

@@ -11,7 +11,7 @@ SOURCE_FILE = "sources/kukhnya/s01/e17.ru.dual.srt"
 VOICES = {'narrator': 'sky', 'anya': 'alisa', 'senya': 'anja'}
 LABELS = {'anya': 'Viktor', 'senya': 'Senya'}
 
-INTRO = 'Viktor confronts Senya in the kitchen about the stolen recipe. We will hear it in Russian first, do not worry about catching every word.'
+INTRO = 'Viktor confronts Senya in the kitchen about the stolen recipe. We will hear it in Russian first, do not worry about catching every word. Let's listen closely to their conversation in Russian first, and then walk through each line together.'
 OPENER = "Let's walk through it. Viktor is furious."
 TRANSITION = "Now let's hear the scene once more."
 OUTRO = 'Senya is in big trouble. See you next time.'

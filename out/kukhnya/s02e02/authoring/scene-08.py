@@ -33,7 +33,7 @@ OPENER = "Let's listen to this short interaction."
 
 WALK = [
     (0, None, "'Hi.' A quick greeting."),
-    (1, None, "'Hi, my friend.' -- The speaker responds in the scene."),
+    (1, None, "'Hi, my friend.' — Notice the interjection meaning 'hi' paired with the noun for 'Anya'."),
     (2, None, "'Here is your thing.' Something needed to be returned."),
     (3, None, "'Take this.' A simple command."),
     (4, 'Держи.', "'Here you go.' Giving the item over."),

@@ -11,7 +11,7 @@ LABELS = {"anya": "Макс", "sasha": "Саша"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.03"
 SOURCE_FILE = "sources/kukhnya/s02/e03.ru.dual.srt"
 
-INTRO = ("Max and Sasha are relaxing together after work. They are joking around, but then Sasha asks Max how he plans to get home without his car.")
+INTRO = ("Max and Sasha are relaxing together after work. They are joking around, but then Sasha asks Max how he plans to get home without his car. Let's listen closely to their conversation in Russian first, and then walk through each line together.")
 
 STORY = [
  ("anya", "Хорошо с тобой.", "I feel good with you.", [(174, "Хорошо с тобой")], ""),
@@ -31,18 +31,18 @@ STORY = [
 
 OPENER = "Let's review the conversation line by line."
 WALK = [
- (0, None, "'I feel good with you.' It is clear what this means. This is an important detail."),
- (1, None, "'I feel good too.' It is clear what this means. This is an important detail."),
- (2, None, "'Especially when you are without clothes.' It is clear what this means. This is an important detail."),
- (3, None, "'You are very funny.' It is clear what this means. This is an important detail."),
- (4, None, "'I am serious.' It is clear what this means. This is an important detail."),
- (5, None, "'I know.' It is clear what this means. This is an important detail."),
- (6, None, "'Should I call you a taxi?' It is clear what this means. This is an important detail."),
- (7, None, "'Why?' It is clear what this means. This is an important detail."),
- (8, None, "'You are without a car today.' It is clear what this means. This is an important detail."),
- (9, None, "'How will you get home?' It is clear what this means. This is an important detail."),
- (10, None, "'I will go by subway.' It is clear what this means. This is an important detail."),
- (11, None, "'The subway is already closed.' It is clear what this means. This is an important detail."),
+ (0, None, "'I feel good with you.' — Notice the adverb meaning 'good, fine' paired with the pronoun for 'you'."),
+ (1, None, "'I feel good too.' — Notice the pronoun meaning 'to me (  = I have no time)' paired with the adverb for 'too'."),
+ (2, None, "'Especially when you are without clothes.' — Notice the adverb meaning 'especially' paired with the adverb for 'when'."),
+ (3, None, "'You are very funny.' — Notice the pronoun meaning 'you' paired with the adverb for 'very much'."),
+ (4, None, "'I am serious.' — Notice the pronoun meaning 'I' paired with the noun for 'seriously'."),
+ (5, None, "'I know.' — Notice the pronoun meaning 'I' paired with the verb for '(I) know'."),
+ (6, None, "'Should I call you a taxi?' — Notice the pronoun meaning 'for you, to you' paired with the verb for 'to call, to summon'."),
+ (7, None, "'Why?' — Built around the key adverb meaning 'what for'."),
+ (8, None, "'You are without a car today.' — Notice the pronoun meaning 'you' paired with the adverb for 'today'."),
+ (9, None, "'How will you get home?' — Notice the adverb meaning 'how' paired with the pronoun for 'you'."),
+ (10, None, "'I will go by subway.' — Notice the pronoun meaning 'I' paired with the verb for 'will go'."),
+ (11, None, "'The subway is already closed.' — Notice the noun meaning 'metro' paired with the adverb for 'already, now'."),
 ]
 TRANSITION = "Let's hear it again."
 OUTRO = "That was an interesting scene. See you in the next one."

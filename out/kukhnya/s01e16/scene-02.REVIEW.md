@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is your fire extinguisher?' -- The speaker makes the statement.
-- 'It was hanging here last time.' -- The speaker makes the statement.
-- 'Are you laughing at me?' -- The speaker makes the statement.
-- 'This one is not suitable.' -- The speaker makes the statement.
-- 'Here is a normal fire extinguisher.' -- The speaker makes the statement.
-- 'And where is its seal?' -- The speaker makes the statement.
-- 'Good afternoon.' -- The speaker makes the statement.
-- 'May I know one thing?' -- The speaker makes the statement.
-- 'Why do you have such an interest in the restaurant?' -- The speaker makes the statement.
-- 'We are fighting with bad management.' -- The speaker makes the statement.
-- 'There was a call to my boss.' -- The speaker makes the statement.
-- 'From the neighboring restaurant.' -- The speaker makes the statement.
-- 'Everything is clear.' -- The speaker makes the statement.
-- 'Well then, until tomorrow.' -- The speaker makes the statement.
+- 'Where is your fire extinguisher?' — Notice the adverb meaning 'where' paired with the det for 'your'.
+- 'It was hanging here last time.' — Notice the pronoun meaning 'he' paired with the verb for 'to hang, be hanging'.
+- 'Are you laughing at me?' — Notice the pronoun meaning 'you' paired with the pronoun for 'what'.
+- 'This one is not suitable.' — Notice the det meaning 'this' paired with the verb for 'is coming up, is approaching'.
+- 'Here is a normal fire extinguisher.' — Notice the adjective meaning 'decent, normal' paired with the noun for 'fire extinguisher'.
+- 'And where is its seal?' — Notice the adverb meaning 'where' paired with the pronoun for 'him'.
+- 'Good afternoon.' — Notice the adjective meaning 'good' paired with the noun for 'day'.
+- 'May I know one thing?' — Notice the adverb meaning 'may, can' paired with the verb for 'to find out'.
+- 'Why do you have such an interest in the restaurant?' — Notice the adverb meaning 'why' paired with the pronoun for 'you'.
+- 'We are fighting with bad management.' — Notice the pronoun meaning 'we' paired with the verb for 'to fight, struggle'.
+- 'There was a call to my boss.' — Notice the verb meaning 'was' paired with the noun for 'call; bell'.
+- 'From the neighboring restaurant.' — Notice the adjective meaning 'neighboring' paired with the noun for 'restaurant'.
+- 'Everything is clear.' — Notice the det meaning 'everything' paired with the adverb for '(is) clear'.
+- 'Well then, until tomorrow.' — Notice the pronoun meaning 'what' paired with the adverb for 'tomorrow'.

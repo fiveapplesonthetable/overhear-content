@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.16"
 SOURCE_FILE = "sources/kukhnya/s01/e16.ru.dual.srt"
 SOURCE_NOTE = "Cues."
 
-INTRO = "Let us listen to the conversation. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "In this scene focused on fedya's release, fedya is released from the fridge after the inspection. Max continues to obsess over the pâté recipe. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "This is the end of the scene."
 OUTRO = "Goodbye."
@@ -37,18 +37,18 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Boss, I got it.' -- The speaker makes the statement."),
-    (1, None, "'You added basil, right?' -- The speaker makes the statement."),
-    (2, None, "'Clear.' -- The speaker makes the statement."),
-    (3, None, "'Checked.' -- The speaker makes the statement."),
-    (4, None, "'I knew it.' -- The speaker makes the statement."),
-    (5, None, "'Viktor Petrovich, a mistake happened.' -- The speaker makes the statement."),
-    (6, None, "'My people checked this person.' -- The speaker makes the statement."),
-    (7, None, "'Completely clean.' -- The speaker makes the statement."),
-    (8, None, "'And I always knew.' -- The speaker makes the statement."),
-    (9, None, "'Fedya, how are you?' -- The speaker makes the statement."),
-    (10, None, "'Fine.' -- The speaker makes the statement."),
-    (11, None, "'How did you get me out?' -- The speaker makes the statement."),
-    (12, None, "'Only the boss had keys.' -- The speaker makes the statement."),
-    (13, None, "'Let him think so.' -- The speaker makes the statement."),
+    (0, None, "'Boss, I got it.' — Notice the proper name meaning 'chef, boss' paired with the pronoun for 'I'."),
+    (1, None, "'You added basil, right?' — Notice the pronoun meaning 'you' paired with the verb for 'to add'."),
+    (2, None, "'Clear.' — Built around the key adjective meaning 'clean'."),
+    (3, None, "'Checked.' — Built around the key verb meaning 'checked'."),
+    (4, None, "'I knew it.' — Notice the pronoun meaning 'I' paired with the verb for 'knew'."),
+    (5, None, "'Viktor Petrovich, a mistake happened.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'."),
+    (6, None, "'My people checked this person.' — Notice the det meaning 'my' paired with the noun for 'people'."),
+    (7, None, "'Completely clean.' — Notice the adverb meaning 'completely, absolutely' paired with the adjective for 'clean'."),
+    (8, None, "'And I always knew.' — Notice the pronoun meaning 'I' paired with the adverb for 'always'."),
+    (9, None, "'Fedya, how are you?' — Notice the proper name meaning 'Fedya' paired with the pronoun for 'you'."),
+    (10, None, "'Fine.' — Built around the key adverb meaning 'fine, OK'."),
+    (11, None, "'How did you get me out?' — Notice the pronoun meaning 'you' paired with the adverb for 'how'."),
+    (12, None, "'Only the boss had keys.' — Notice the noun meaning 'the keys' paired with the adverb for 'only'."),
+    (13, None, "'Let him think so.' — Notice the pronoun meaning 'he' paired with the verb for 'thinks'."),
 ]

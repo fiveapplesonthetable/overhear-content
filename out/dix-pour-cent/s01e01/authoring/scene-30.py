@@ -15,7 +15,7 @@ INTRO = ("While Camille was meeting Arlette and her little dog, Cécile was stil
          "A few minutes ago, Mathias and the American producer Miranda told her the director wants her for the role, "
          "but only if she has a small treatment to make her cheeks look younger. Cécile said no, and then said she didn't know anymore. "
          "Now Mathias catches her on her way out and takes her into his office, because he has one more argument up his sleeve. "
-         "Here's the story in French first. Just let it wash over you, you don't need every word.")
+         "Here's the story in French first. Don't worry about catching every word.")
 
 STORY = [
  ("mathias", "Cécile! Ça va? On peut parler?", "Cécile! Are you okay? Can we talk?",

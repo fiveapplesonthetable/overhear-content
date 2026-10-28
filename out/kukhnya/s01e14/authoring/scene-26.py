@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.14"
 SOURCE_FILE = "sources/kukhnya/s01/e14.ru.dual.srt"
 SOURCE_NOTE = "Cues 366-375"
 
-INTRO = "The evening ends. Max shares a final thought about responsibility. We'll hear it in Russian first; don't worry about catching every word."
+INTRO = "The evening ends. Max shares a final thought about responsibility. We'll hear it in Russian first; don't worry about catching every word. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 
 STORY = [
  ("max", "Ответственность — странная штука.", "Responsibility is a strange thing.", [(366, "Ответственность — странная штука")], ""),

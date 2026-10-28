@@ -26,7 +26,7 @@ LABELS = {
     "nina": "Нина",
 }
 
-INTRO = "In the communal flat, Slavik recommends a funny movie for Samsonov's date while Nina questions where he learned the gossip."
+INTRO = "In the communal flat kitchen, Slavik recommends a funny movie for Samsonov's date with Ilona while Nina suspiciously questions where he learned the gossip."
 
 STORY = [
     ("slavik", "Папа, сходи лучше на другой фильм.",

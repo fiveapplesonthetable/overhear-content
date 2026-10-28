@@ -15,8 +15,7 @@ SOURCE_NOTE = "Cues 584-603. Ages written out in words for the learner (the subt
 INTRO = ("Back at the agency, Gabriel was hunting for a traitor, and Mathias asked Noémie to find him the number of "
          "Miranda Jones, the American producer working with Tarantino. Now Mathias has his meeting. He takes Miranda "
          "to an elegant tea room in Paris, with pastel macarons on the table, to talk about Cécile and the part she "
-         "lost. This time we follow Miranda, who speaks very good French. You'll hear it in French first; just let "
-         "it wash over you.")
+         "lost. This time we follow Miranda, who speaks very good French. You'll hear it in French first;Don't worry about catching every word.")
 
 STORY = [
  ("mathias", "Miranda, vous êtes resplendissante.", "Miranda, you look radiant.",

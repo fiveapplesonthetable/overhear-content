@@ -22,7 +22,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Аня | Это такая штука для нарезки ветчины очень тонкими ломтиками. | It is a gadget for slicing ham really thin. | new | new |
 | 11 | Нагиев | Я-то думал, купи ему этот слайсер. | I thought, buy him this slicer. | new | new |
 | 12 | Нагиев | Пускай человек ломтиками режет. | Let the man slice away. | new | new |
-| 13 | Нагиев | В конце концов, кто-то должен у нас рожать блюдо от шеф-повара. | After all, someone has got to give birth to the chef's dish. | new | new |
+| 13 | Нагиев | В конце концов! Кто-то должен у нас рожать блюдо от шеф-повара. | After all, someone has got to give birth to the chef's dish. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

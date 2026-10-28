@@ -11,7 +11,7 @@ LABELS = {"anya": "Сеня", "fedya": "Федя", "guest": "Гость"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.03"
 SOURCE_FILE = "sources/kukhnya/s02/e03.ru.dual.srt"
 
-INTRO = "An angry customer finds a belt in his salad. He forces Senya to eat the belt as punishment for his stupid bet. Let us listen to the conversation in Russian first."
+INTRO = "In this scene focused on the eaten belt, eNG Max's dangerous stunt goes horribly wrong when he accidentally slips. He finds himself actually hang. Let's listen closely to Senya and Fedya's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
 OUTRO = "The conversation concludes the matter at hand."

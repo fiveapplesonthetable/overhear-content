@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's try this.' -- The speaker makes the statement.
-- 'Jacques, where are you?' -- The speaker makes the statement.
-- 'I am here, I am coming!' -- The speaker makes the statement.
-- 'And who are you?' -- The speaker makes the statement.
-- 'He is my neighbor.' -- The speaker makes the statement.
-- 'Can you imagine, we lived in Paris.' -- The speaker makes the statement.
-- 'Wait, we are not going to kiss.' -- The speaker makes the statement.
-- 'First we need to have a bite.' -- The speaker makes the statement.
-- 'Here, try this.' -- The speaker makes the statement.
-- 'This is very delicious.' -- The speaker makes the statement.
-- 'He says that it is delicious?' -- The speaker makes the statement.
-- 'Yes, he likes it very much.' -- The speaker makes the statement.
-- 'Thank you, my dear friend.' -- The speaker makes the statement.
-- 'You are welcome, eat to your health.' -- The speaker makes the statement.
+- 'Let's try this.' — Notice the verb meaning 'let's (do it)' paired with the pronoun for 'we'.
+- 'Jacques, where are you?' — Notice the noun meaning 'Jacques' paired with the pronoun for 'you'.
+- 'I am here, I am coming!' — Notice the pronoun meaning 'I' paired with the adverb for 'here'.
+- 'And who are you?' — Notice the pronoun meaning 'you' paired with the pronoun for 'who'.
+- 'He is my neighbor.' — Notice the pronoun meaning 'he' paired with the det for 'my'.
+- 'Can you imagine, we lived in Paris.' — Notice the verb meaning 'can you imagine, believe' paired with the pronoun for 'we'.
+- 'Wait, we are not going to kiss.' — Notice the verb meaning 'wait' paired with the pronoun for 'we'.
+- 'First we need to have a bite.' — Notice the adverb meaning 'first, at first' paired with the adverb for 'it is necessary'.
+- 'Here, try this.' — Notice the verb meaning 'to try, to taste' paired with the pronoun for 'this'.
+- 'This is very delicious.' — Notice the pronoun meaning 'this' paired with the adverb for 'very much'.
+- 'He says that it is delicious?' — Notice the pronoun meaning 'he' paired with the verb for 'talks'.
+- 'Yes, he likes it very much.' — Notice the pronoun meaning '(to) him' paired with the adverb for 'very much'.
+- 'Thank you, my dear friend.' — Notice the interjection meaning 'thank you' paired with the det for 'my'.
+- 'You are welcome, eat to your health.' — Notice the verb meaning 'eat' paired with the noun for 'health'.

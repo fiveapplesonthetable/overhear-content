@@ -11,7 +11,7 @@ LABELS = {"anya": "Аня", "anton": "Антон", "max": "Макс"}
 SOURCE_NAME = "Кухня (Kukhnya) S1.20"
 SOURCE_FILE = "sources/kukhnya/s01/e20.ru.dual.srt"
 
-INTRO = "The first season reaches its final, dramatic conclusion. A single, powerful question is left hanging in the air for the audience to ponder."
+INTRO = "The first season reaches its final, dramatic conclusion. A single, powerful question is left hanging in the air for the audience to ponder. Let's listen closely to their conversation in Russian first, and then walk through each line together."
 
 STORY = [
  ("anya", "Утро пришло.", "Morning has come.", [], 'new'),

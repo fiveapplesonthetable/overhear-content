@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Boss, I got it.' -- The speaker makes the statement.
-- 'You added basil, right?' -- The speaker makes the statement.
-- 'Clear.' -- The speaker makes the statement.
-- 'Checked.' -- The speaker makes the statement.
-- 'I knew it.' -- The speaker makes the statement.
-- 'Viktor Petrovich, a mistake happened.' -- The speaker makes the statement.
-- 'My people checked this person.' -- The speaker makes the statement.
-- 'Completely clean.' -- The speaker makes the statement.
-- 'And I always knew.' -- The speaker makes the statement.
-- 'Fedya, how are you?' -- The speaker makes the statement.
-- 'Fine.' -- The speaker makes the statement.
-- 'How did you get me out?' -- The speaker makes the statement.
-- 'Only the boss had keys.' -- The speaker makes the statement.
-- 'Let him think so.' -- The speaker makes the statement.
+- 'Boss, I got it.' — Notice the proper name meaning 'chef, boss' paired with the pronoun for 'I'.
+- 'You added basil, right?' — Notice the pronoun meaning 'you' paired with the verb for 'to add'.
+- 'Clear.' — Built around the key adjective meaning 'clean'.
+- 'Checked.' — Built around the key verb meaning 'checked'.
+- 'I knew it.' — Notice the pronoun meaning 'I' paired with the verb for 'knew'.
+- 'Viktor Petrovich, a mistake happened.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'.
+- 'My people checked this person.' — Notice the det meaning 'my' paired with the noun for 'people'.
+- 'Completely clean.' — Notice the adverb meaning 'completely, absolutely' paired with the adjective for 'clean'.
+- 'And I always knew.' — Notice the pronoun meaning 'I' paired with the adverb for 'always'.
+- 'Fedya, how are you?' — Notice the proper name meaning 'Fedya' paired with the pronoun for 'you'.
+- 'Fine.' — Built around the key adverb meaning 'fine, OK'.
+- 'How did you get me out?' — Notice the pronoun meaning 'you' paired with the adverb for 'how'.
+- 'Only the boss had keys.' — Notice the noun meaning 'the keys' paired with the adverb for 'only'.
+- 'Let him think so.' — Notice the pronoun meaning 'he' paired with the verb for 'thinks'.

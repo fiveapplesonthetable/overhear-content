@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.19"
 SOURCE_FILE = "sources/kukhnya/s01/e19.ru.dual.srt"
 SOURCE_NOTE = "Cues."
 
-INTRO = "Let us listen to the conversation. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "In this scene focused on the answer, max asks if Vika agrees to be his girlfriend. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "This is the end of the scene."
 OUTRO = "Goodbye."
@@ -34,16 +34,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Does that mean yes?' -- The speaker makes the statement."),
-    (1, None, "'Yes.' -- The speaker makes the statement."),
-    (2, None, "'I am so glad.' -- The speaker makes the statement."),
-    (3, None, "'I am also glad.' -- The speaker makes the statement."),
-    (4, None, "'Now we are together.' -- The speaker makes the statement."),
-    (5, None, "'Yes, we are together.' -- The speaker makes the statement."),
-    (6, None, "'This is wonderful.' -- The speaker makes the statement."),
-    (7, None, "'Very.' -- The speaker makes the statement."),
-    (8, None, "'I love you, my friend.' -- The speaker makes the statement."),
+    (0, None, "'Does that mean yes?' — Notice the pronoun meaning 'this' paired with the adverb for 'then, so'."),
+    (1, None, "'Yes.' — Built around the key particle meaning 'yes (  = really?)'."),
+    (2, None, "'I am so glad.' — Notice the pronoun meaning 'I' paired with the adjective for 'glad'."),
+    (3, None, "'I am also glad.' — Notice the pronoun meaning 'I' paired with the adverb for 'too'."),
+    (4, None, "'Now we are together.' — Notice the adverb meaning 'now' paired with the pronoun for 'we'."),
+    (5, None, "'Yes, we are together.' — Notice the pronoun meaning 'we' paired with the adverb for 'together'."),
+    (6, None, "'This is wonderful.' — Notice the pronoun meaning 'this' paired with the adverb for 'perfectly'."),
+    (7, None, "'Very.' — Built around the key adverb meaning 'very much'."),
+    (8, None, "'I love you, my friend.' — Notice the pronoun meaning 'I' paired with the verb for '(I) love'."),
     (9, None, "'I love you, my friend.' -- The speaker makes the statement (line 10)."),
-    (10, None, "'Finally, my friend.' -- The speaker makes the statement."),
+    (10, None, "'Finally, my friend.' — Built around the key adverb meaning 'at last, finally'."),
     (11, None, "'Finally, my friend.' -- The speaker makes the statement (line 12).")
 ]

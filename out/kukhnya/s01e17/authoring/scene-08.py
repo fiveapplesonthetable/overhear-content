@@ -27,7 +27,7 @@ STORY = [
     ("nastya", "а мы, наверное, пойдем.", "and we should probably get going.", [], ""),
     ("nastya", "Нам домой уже пора.", "We should head home.", [], ""),
     ("nastya", "А то на работе запрещено.", "Can't do that at work.", [], ""),
-    ("vika", "Так вы бы еще прямо на барной стойке секс устроили.", "You might as well have started having sex right on the bar.", [], ""),
+    ("vika", "Так! Вы бы еще прямо на барной стойке секс устроили.", "You might as well have started having sex right on the bar.", [], ""),
     ("anya", "Ребята, вы чего?", "Guys, what is going on?", [], "")
 ]
 

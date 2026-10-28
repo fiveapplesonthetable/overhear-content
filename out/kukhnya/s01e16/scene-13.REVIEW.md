@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The inspector is here.' -- The speaker makes the statement. ENG
-- 'I know.' -- The speaker makes the statement. ENG
-- 'He wants to check the kitchen.' -- The speaker makes the statement. ENG
-- 'Let him check.' -- The speaker makes the statement. ENG
-- 'He is looking for illegals.' -- The speaker makes the statement. ENG
-- 'We do not have them.' -- The speaker makes the statement. ENG
-- 'Where is Fedya?' -- The speaker makes the statement. ENG
-- 'He is in the fridge.' -- The speaker makes the statement. ENG
-- 'Excellent.' -- The speaker makes the statement. ENG
-- 'Viktor Petrovich, would you be so kind.' -- The speaker makes the statement. ENG
-- 'Open the fridge, please.' -- The speaker makes the statement. ENG
+- 'The inspector is here.' — Notice the noun meaning 'inspector' paired with the adverb for 'here'. ENG
+- 'I know.' — Notice the pronoun meaning 'I' paired with the verb for '(I) know'. ENG
+- 'He wants to check the kitchen.' — Notice the pronoun meaning 'he' paired with the verb for 'wants'. ENG
+- 'Let him check.' — Built around the key verb meaning 'is testing'. ENG
+- 'He is looking for illegals.' — Notice the pronoun meaning 'he' paired with the verb for 'looks for, seeks'. ENG
+- 'We do not have them.' — Notice the pronoun meaning 'us' paired with the pronoun for 'them'. ENG
+- 'Where is Fedya?' — Notice the adverb meaning 'where' paired with the proper name for 'Fedya'. ENG
+- 'He is in the fridge.' — Notice the pronoun meaning 'he' paired with the noun for 'fridge'. ENG
+- 'Excellent.' — Built around the key adverb meaning 'perfect, great'. ENG
+- 'Viktor Petrovich, would you be so kind.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'. ENG
+- 'Open the fridge, please.' — Notice the verb meaning 'open' paired with the noun for 'fridge'. ENG
 - 'I am waiting.' -- The speaker states this. ENG

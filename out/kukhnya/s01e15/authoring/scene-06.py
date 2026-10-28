@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.15"
 SOURCE_FILE = "sources/kukhnya/s01/e15.ru.dual.srt"
 SOURCE_NOTE = "Scene 6"
 
-INTRO = "Kostya explains to Nastya why he can't move in with her. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "Kostya explains to Nastya why he can't move in with her. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 
 STORY = [
     ("anya", "Ну ты куда?",

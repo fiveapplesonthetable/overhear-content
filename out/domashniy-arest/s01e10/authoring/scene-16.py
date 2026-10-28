@@ -24,7 +24,7 @@ LABELS = {
     "ilona": "Илона",
 }
 
-INTRO = "Samsonov brings a bouquet of flowers to the campaign office and tries awkwardly to invite Ilona out on a real romantic date."
+INTRO = "Samsonov brings a large bouquet of fresh flowers to the campaign office and tries awkwardly to invite Ilona out on a real romantic date for the evening."
 
 STORY = [
     ("anya", "Привет, Илона. Это тебе цветы.",

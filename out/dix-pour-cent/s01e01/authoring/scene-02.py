@@ -17,7 +17,7 @@ INTRO = ("Last time, Cécile de France turned up late to a photo shoot, still sm
          "Now it's morning at the agency in Paris. The doors open, the phones start ringing, and we follow "
          "Andréa, the toughest and fastest-talking agent at ASK, as she rushes in with her assistant Magali reading "
          "out her diary. Mathias, a smooth, ambitious agent, is already on the phone talking money. "
-         "Here it is in French first; just let it wash over you.")
+         "Here it is in French first. Don't worry about catching every word.")
 
 STORY = [
  ("lea", "Bonjour! Salut, Mathias.", "Morning! Hi, Mathias.",

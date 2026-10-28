@@ -11,7 +11,7 @@ LABELS = {"anya": "Айнура", "chef": "Шеф", "senya": "Сеня"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.02"
 SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 
-INTRO = "The Chef discovers a strange new person in the kitchen who doesn't speak Russian well. He asks Aynura about him. Let us listen to the conversation in Russian first."
+INTRO = "In this scene focused on the new sushi chef, the Chef discovers a strange new person in the kitchen who doesn't speak Russian well. He asks Aynura about him. Let's listen closely to Ainura and Chef Viktor's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
 OUTRO = "The conversation concludes the matter at hand."

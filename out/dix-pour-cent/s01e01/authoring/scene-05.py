@@ -18,7 +18,7 @@ INTRO = ("Meanwhile, the whole agency squeezes into the meeting room. "
          "and he holds one last meeting with his agents. We sit next to Andréa. "
          "Gabriel still hasn't told anyone that Tarantino doesn't want Cécile. Today it comes out, and Mathias, "
          "who doesn't speak in our version, is quick to blame him. "
-         "We'll hear the scene in French first, so just let it wash over you.")
+         "We'll hear the scene in French first. Don't worry about catching every word.")
 
 STORY = [
  ("samuel", "Je pars en vacances, pas à la retraite.", "I'm going on holiday, not retiring.",

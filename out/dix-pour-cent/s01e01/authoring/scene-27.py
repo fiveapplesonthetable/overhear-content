@@ -16,7 +16,7 @@ INTRO = ("A minute after Mathias leaves Andréa's office, the bad news travels d
          "Mathias answered that he only saved a client, and then he told Andréa the real problem: "
          "it was her new assistant, Camille, who told Cécile she was too old for the Tarantino film. "
          "Now Andréa walks straight to the assistants' desks, where Camille is working next to Hervé and Noémie. "
-         "You'll hear the whole scene in French first. Just let it wash over you; we'll unpack it together afterwards.")
+         "You'll hear the whole scene in French first. Don't worry about catching every word; we'll go through it together afterwards.")
 
 STORY = [
  ("andrea", "Pas de chance pour moi!", "Unlucky me!", [(708, "Pas de chance pour moi")], "'hein' dropped"),

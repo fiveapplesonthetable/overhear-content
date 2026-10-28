@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika.' -- The speaker makes the statement.
-- 'What?' -- The speaker makes the statement.
-- 'I thought about us.' -- The speaker makes the statement.
-- 'And what?' -- The speaker makes the statement.
-- 'I do not want an open relationship.' -- The speaker makes the statement.
-- 'Really?' -- The speaker makes the statement.
-- 'Yes.' -- The speaker makes the statement.
-- 'I also do not want it.' -- The speaker makes the statement.
-- 'I like you.' -- The speaker makes the statement.
-- 'I like you too.' -- The speaker makes the statement.
-- 'Would you be my girlfriend?' -- The speaker makes the statement.
-- 'Does...' -- The speaker makes the statement.
+- 'Vika.' — Built around the key proper name meaning 'Vika'.
+- 'What?' — Built around the key pronoun meaning 'what'.
+- 'I thought about us.' — Notice the pronoun meaning 'I' paired with the verb for 'thought'.
+- 'And what?' — Built around the key pronoun meaning 'what'.
+- 'I do not want an open relationship.' — Notice the pronoun meaning 'I' paired with the verb for 'want'.
+- 'Really?' — Built around the key noun meaning 'honestly'.
+- 'Yes.' — Built around the key particle meaning 'yes (  = really?)'.
+- 'I also do not want it.' — Notice the pronoun meaning 'I' paired with the adverb for 'too'.
+- 'I like you.' — Notice the pronoun meaning 'you' paired with the pronoun for 'to me (  = I have no time)'.
+- 'I like you too.' — Notice the pronoun meaning 'you' paired with the pronoun for 'to me (  = I have no time)'.
+- 'Would you be my girlfriend?' — Notice the pronoun meaning 'you' paired with the verb for 'be'.
+- 'Does...' — Built around the key pronoun meaning 'this'.

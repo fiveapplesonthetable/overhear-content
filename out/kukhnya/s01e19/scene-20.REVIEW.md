@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'People often doubt.' -- The speaker makes the statement.
-- 'In what?' -- The speaker makes the statement.
-- 'In what they have.' -- The speaker makes the statement.
-- 'That is true.' -- The speaker makes the statement.
-- 'They do not know.' -- The speaker makes the statement.
-- 'What do they not know?' -- The speaker makes the statement.
-- 'How dear is what there is.' -- The speaker makes the statement.
-- 'We know.' -- The speaker makes the statement.
-- 'Yes, we know.' -- The speaker makes the statement.
-- 'This is good.' -- The speaker makes the statement.
-- 'Very good.' -- The speaker makes the statement.
-- 'I agree.' -- The speaker makes the statement.
+- 'People often doubt.' — Notice the noun meaning 'people' paired with the adverb for 'often'.
+- 'In what?' — Notice the preposition meaning 'in' paired with the conjunction for 'than'.
+- 'In what they have.' — Notice the pronoun meaning 'that' paired with the pronoun for 'what'.
+- 'That is true.' — Notice the pronoun meaning 'this' paired with the noun for 'honestly'.
+- 'They do not know.' — Notice the pronoun meaning 'they' paired with the verb for '(they) know'.
+- 'What do they not know?' — Notice the pronoun meaning 'what?' paired with the verb for '(they) know'.
+- 'How dear is what there is.' — Notice the adverb meaning 'as far as' paired with the pronoun for 'to them'.
+- 'We know.' — Notice the pronoun meaning 'we' paired with the verb for '(we) know'.
+- 'Yes, we know.' — Notice the pronoun meaning 'we' paired with the verb for '(we) know'.
+- 'This is good.' — Notice the pronoun meaning 'this' paired with the adverb for 'good, fine'.
+- 'Very good.' — Notice the adverb meaning 'very much' paired with the adverb for 'good, fine'.
+- 'I agree.' — Notice the pronoun meaning 'I' paired with the adjective for 'agree'.

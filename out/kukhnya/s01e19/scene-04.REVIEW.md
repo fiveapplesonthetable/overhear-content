@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you go, Igor.' -- The speaker responds in the scene.
-- 'This is an oasis of French cuisine.' -- The speaker responds in the scene.
-- 'A bastion of quality.' -- The speaker responds in the scene.
-- 'So much effort went into this place.' -- The speaker responds in the scene.
-- 'A waiter is like my own child.' -- The speaker responds in the scene.
-- 'Oh, hi, Vilyash.' -- The speaker responds in the scene.
-- 'I am Nastya, actually.' -- The speaker responds in the scene.
-- 'She must be new.' -- The speaker responds in the scene.
-- 'Well, let's keep going.' -- The speaker responds in the scene.
-- 'Make us two coffees.' -- The speaker responds in the scene.
-- 'This is Viktoria Sergeyevna.' -- The speaker responds in the scene.
-- 'The art director of our restaurant.' -- The speaker responds in the scene.
-- 'Good afternoon.' -- The speaker responds in the scene.
+- 'Here you go, Igor.' — Built around the key proper name meaning 'Igor'.
+- 'This is an oasis of French cuisine.' — Notice the pronoun meaning 'this' paired with the noun for 'oasis'.
+- 'A bastion of quality.' — Notice the noun meaning 'enclave' paired with the noun for 'quality'.
+- 'So much effort went into this place.' — Notice the adverb meaning 'how much, so much' paired with the noun for 'of (horse)power'.
+- 'A waiter is like my own child.' — Notice the noun meaning 'waiter' paired with the adverb for 'how'.
+- 'Oh, hi, Vilyash.' — Notice the interjection meaning 'hi' paired with the proper name for 'Vilyash'.
+- 'I am Nastya, actually.' — Notice the pronoun meaning 'I' paired with the proper name for 'Nastya'.
+- 'She must be new.' — Notice the noun meaning 'new girl' paired with the adverb for 'probably'.
+- 'Well, let's keep going.' — Notice the verb meaning 'let's go' paired with the adverb for 'next, go on'.
+- 'Make us two coffees.' — Notice the verb meaning 'make, do' paired with the pronoun for '(to) us'.
+- 'This is Viktoria Sergeyevna.' — Notice the pronoun meaning 'this' paired with the proper name for 'Viktoriya'.
+- 'The art director of our restaurant.' — Notice the noun meaning 'art director' paired with the det for 'our'.
+- 'Good afternoon.' — Notice the adjective meaning 'good' paired with the noun for 'day'.

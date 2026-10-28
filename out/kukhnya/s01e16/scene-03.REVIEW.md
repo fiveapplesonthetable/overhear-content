@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you want a war?' -- The speaker makes the statement.
-- 'There will be a war for you.' -- The speaker makes the statement.
-- 'Hello, good afternoon.' -- The speaker makes the statement.
-- 'For what do they pay you money?' -- The speaker makes the statement.
-- 'Where are you looking?' -- The speaker makes the statement.
-- 'There are migrants in my courtyard.' -- The speaker makes the statement.
-- 'From the restaurant Arcobaleno.' -- The speaker makes the statement.
-- 'They are slaughtering a live ram.' -- The speaker makes the statement.
-- 'And are you sleeping there?' -- The speaker makes the statement.
-- 'Come quickly.' -- The speaker makes the statement.
-- 'Arcobaleno.' -- The speaker makes the statement.
-- 'What are you doing?' -- The speaker makes the statement.
-- 'I am solving our problems.' -- The speaker makes the statement.
-- 'Well done, keep it up.' -- The speaker makes the statement.
+- 'Do you want a war?' — Notice the pronoun meaning 'you' paired with the verb for 'want'.
+- 'There will be a war for you.' — Notice the verb meaning 'will be' paired with the pronoun for 'you (polite)'.
+- 'Hello, good afternoon.' — Notice the interjection meaning 'hello? (on the phone)' paired with the adjective for 'good'.
+- 'For what do they pay you money?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you (polite)'.
+- 'Where are you looking?' — Notice the pronoun meaning 'you' paired with the adverb for 'where to'.
+- 'There are migrants in my courtyard.' — Notice the det meaning 'my' paired with the noun for 'yard, courtyard'.
+- 'From the restaurant Arcobaleno.' — Notice the noun meaning 'restaurant' paired with the noun for 'Arcobaleno (restaurant)'.
+- 'They are slaughtering a live ram.' — Notice the pronoun meaning 'they' paired with the verb for 'cut'.
+- 'And are you sleeping there?' — Notice the pronoun meaning 'you' paired with the adverb for 'there'.
+- 'Come quickly.' — Notice the verb meaning 'to come (by transport), to arrive' paired with the adverb for 'quickly'.
+- 'Arcobaleno.' — Built around the key noun meaning 'Arcobaleno (restaurant)'.
+- 'What are you doing?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'.
+- 'I am solving our problems.' — Notice the pronoun meaning 'I' paired with the verb for 'decide'.
+- 'Well done, keep it up.' — Notice the noun meaning 'well done, good boy' paired with the verb for 'to keep, to hold'.

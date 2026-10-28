@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did you get that?' -- The speaker makes the statement.
-- 'Another illegal.' -- The speaker makes the statement.
-- 'Lord, where to put you?' -- The speaker makes the statement.
-- 'You will sit in the toilet.' -- The speaker makes the statement.
-- 'Then leave through the entrance.' -- The speaker makes the statement.
-- 'They are on guard at the entrance.' -- The speaker makes the statement.
-- 'He will sit in the hall.' -- The speaker makes the statement.
-- 'Go to the bar, take clothes.' -- The speaker makes the statement.
-- 'Endure, come on.' -- The speaker makes the statement.
-- 'I congratulate you.' -- The speaker makes the statement.
-- 'Everything is clean with you.' -- The speaker makes the statement.
-- 'I told you right away.' -- The speaker makes the statement.
-- 'I have no right to believe.' -- The speaker makes the statement.
-- 'We are professionals.' -- The speaker makes the statement.
+- 'Where did you get that?' — Notice the pronoun meaning 'you' paired with the pronoun for 'what?'.
+- 'Another illegal.' — Notice the adverb meaning 'more, still' paired with the numeral for 'one'.
+- 'Lord, where to put you?' — Notice the interjection meaning 'Good Lord' paired with the adverb for 'where to'.
+- 'You will sit in the toilet.' — Notice the pronoun meaning 'you' paired with the verb for 'to sit out'.
+- 'Then leave through the entrance.' — Notice the adverb meaning 'then' paired with the verb for 'to leave'.
+- 'They are on guard at the entrance.' — Notice the pronoun meaning 'they' paired with the verb for 'to be on duty'.
+- 'He will sit in the hall.' — Notice the verb meaning 'to sit down' paired with the noun for 'the hall'.
+- 'Go to the bar, take clothes.' — Notice the verb meaning 'go (and come back)' paired with the noun for 'bar'.
+- 'Endure, come on.' — Notice the verb meaning 'bear, endure' paired with the verb for 'let's'.
+- 'I congratulate you.' — Notice the verb meaning 'congratulations (lit. I congratulate)' paired with the pronoun for 'you'.
+- 'Everything is clean with you.' — Notice the pronoun meaning 'you' paired with the det for 'all'.
+- 'I told you right away.' — Notice the pronoun meaning 'I' paired with the pronoun for 'you (polite)'.
+- 'I have no right to believe.' — Notice the pronoun meaning 'I' paired with the verb for 'have (   = I mean)'.
+- 'We are professionals.' — Notice the pronoun meaning 'we' paired with the noun for 'professionals'.

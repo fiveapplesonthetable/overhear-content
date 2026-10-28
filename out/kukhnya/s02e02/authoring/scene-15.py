@@ -11,7 +11,7 @@ LABELS = {"anya": "Шеф", "kristina": "Кристина", "senya": "Сеня"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.02"
 SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 
-INTRO = "Chef Viktor agrees to make the sushi himself, but only if Kristina brings Vika back to the restaurant. Let us listen to the conversation in Russian first."
+INTRO = "In this scene focused on the deal, chef Viktor agrees to make the sushi himself, but only if Kristina brings Vika back to the restaurant. Let's listen closely to Chef Viktor and Kristina's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
 OUTRO = "The conversation concludes the matter at hand."

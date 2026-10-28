@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef.' -- The speaker makes the statement.
-- 'What do you need?' -- The speaker makes the statement.
-- 'And what are you preparing?' -- The speaker makes the statement.
-- 'And what is it to you?' -- The speaker makes the statement.
-- 'Do you have nothing to do?' -- The speaker makes the statement.
-- 'I have five minutes.' -- The speaker makes the statement.
-- 'I wanted to learn from you.' -- The speaker makes the statement.
-- 'Go work.' -- The speaker makes the statement.
-- 'And can I try it?' -- The speaker makes the statement.
-- 'No, you cannot.' -- The speaker makes the statement.
-- 'Why?' -- The speaker makes the statement.
-- 'Because I said so.' -- The speaker makes the statement.
-- 'Alright, I understand.' -- The speaker makes the statement.
-- 'Then go from here.' -- The speaker makes the statement.
+- 'Chef.' — Built around the key proper name meaning 'chef, boss'.
+- 'What do you need?' — Notice the pronoun meaning 'what' paired with the pronoun for 'for you, to you'.
+- 'And what are you preparing?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'.
+- 'And what is it to you?' — Notice the pronoun meaning 'for you, to you' paired with the adjective for 'what a'.
+- 'Do you have nothing to do?' — Notice the pronoun meaning 'for you, to you' paired with the noun for 'nothing (to do it with)'.
+- 'I have five minutes.' — Notice the pronoun meaning 'me' paired with the verb for 'there is (   = I have)'.
+- 'I wanted to learn from you.' — Notice the pronoun meaning 'I' paired with the verb for 'wanted'.
+- 'Go work.' — Notice the verb meaning 'go' paired with the verb for 'work'.
+- 'And can I try it?' — Notice the adverb meaning 'may, can' paired with the verb for 'to taste'.
+- 'No, you cannot.' — Built around the key adverb meaning 'not allowed, can't'.
+- 'Why?' — Built around the key adverb meaning 'why'.
+- 'Because I said so.' — Notice the adverb meaning 'because (with )' paired with the pronoun for 'what'.
+- 'Alright, I understand.' — Notice the pronoun meaning 'I' paired with the verb for 'understood? (got it?)'.
+- 'Then go from here.' — Notice the adverb meaning 'back then' paired with the verb for 'go'.

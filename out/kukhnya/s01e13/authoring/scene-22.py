@@ -12,7 +12,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.13"
 SOURCE_FILE = "sources/kukhnya/s01/e13.ru.dual.srt"
 SOURCE_NOTE = "Generated scene"
 
-INTRO = "In this scene, things get interesting. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "In this scene focused on borders, vika angrily breaks up with Max, while the narrator reflects on the walls people build between themselves. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 
 STORY = [
     ("max", "Вик, что с тобой?", "Vik, what is wrong?", [(297, "Угадай, кто. Макс.")], ""),

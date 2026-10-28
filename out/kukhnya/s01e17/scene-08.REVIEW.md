@@ -22,7 +22,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Настя | а мы, наверное, пойдем. | and we should probably get going. | new | new |
 | 11 | Настя | Нам домой уже пора. | We should head home. | new | new |
 | 12 | Настя | А то на работе запрещено. | Can't do that at work. | new | new |
-| 13 | Вика | Так вы бы еще прямо на барной стойке секс устроили. | You might as well have started having sex right on the bar. | new | new |
+| 13 | Вика | Так! Вы бы еще прямо на барной стойке секс устроили. | You might as well have started having sex right on the bar. | new | new |
 | 14 | Аня | Ребята, вы чего? | Guys, what is going on? | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)

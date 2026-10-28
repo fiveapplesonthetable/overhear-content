@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can you believe it? She wouldn't even listen.' -- The speaker responds in the scene.
+- 'Can you believe it? She wouldn't even listen.' — Notice the verb meaning 'can you imagine, believe' paired with the pronoun for 'it (the pipe)'.
 - 'I wouldn't either.' ENG: The second word means also or too, and the last words mean would not start.
 - 'What do you mean?' ENG: The phrase translates to in what sense and is a common way to ask what someone means.
 - 'Whose side are you on? Vika's or your friend's?' ENG: The first phrase means who are you for, asking which side they are taking.

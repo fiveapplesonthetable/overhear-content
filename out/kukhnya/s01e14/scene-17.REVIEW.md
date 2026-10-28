@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this in my dessert?' -- The speaker makes the statement.
-- 'I almost broke a tooth because of you!' -- The speaker makes the statement.
-- 'Please forgive us.' -- The speaker makes the statement.
-- 'First, learn to speak Russian!' -- The speaker makes the statement.
-- 'Why did you come here?' -- The speaker makes the statement.
-- 'So people would break their teeth?' -- The speaker makes the statement.
-- 'I am the pastry chef, it is my fault.' -- The speaker makes the statement.
-- 'Leave the pastry chef alone.' -- The speaker makes the statement.
-- 'And who are you?' -- The speaker makes the statement.
-- 'I am the head chef of this restaurant.' -- The speaker makes the statement.
-- 'I am responsible for everything in the kitchen.' -- The speaker makes the statement.
-- 'Do you have complaints against me?' -- The speaker makes the statement.
-- 'Here is my complaint, hold it.' -- The speaker makes the statement.
-- 'Delicious dessert, thank you very much.' -- The speaker makes the statement.
+- 'What is this in my dessert?' — Notice the pronoun meaning 'what' paired with the pronoun for 'this'.
+- 'I almost broke a tooth because of you!' — Notice the pronoun meaning 'I' paired with the pronoun for 'you'.
+- 'Please forgive us.' — Notice the verb meaning 'excuse me' paired with the pronoun for 'us'.
+- 'First, learn to speak Russian!' — Notice the pronoun meaning 'you' paired with the adverb for 'first, at first'.
+- 'Why did you come here?' — Notice the adverb meaning 'what for' paired with the pronoun for 'you'.
+- 'So people would break their teeth?' — Notice the noun meaning 'people' paired with the verb for 'to break'.
+- 'I am the pastry chef, it is my fault.' — Notice the pronoun meaning 'I' paired with the noun for 'pastry chef'.
+- 'Leave the pastry chef alone.' — Notice the verb meaning 'leave' paired with the noun for 'pastry chef'.
+- 'And who are you?' — Notice the pronoun meaning 'you' paired with the pronoun for 'who'.
+- 'I am the head chef of this restaurant.' — Notice the pronoun meaning 'I' paired with the noun for 'head chef'.
+- 'I am responsible for everything in the kitchen.' — Notice the pronoun meaning 'I' paired with the verb for 'to answer, to reply'.
+- 'Do you have complaints against me?' — Notice the pronoun meaning 'you' paired with the verb for 'there is (   = I have)'.
+- 'Here is my complaint, hold it.' — Notice the det meaning 'my' paired with the noun for 'complaint, claim'.
+- 'Delicious dessert, thank you very much.' — Notice the adjective meaning 'delicious' paired with the noun for 'dessert'.

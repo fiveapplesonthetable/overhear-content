@@ -13,7 +13,7 @@ SOURCE_NAME = "Кухня (Kukhnya) S1.20"
 SOURCE_FILE = "sources/kukhnya/s01/e20.ru.dual.srt"
 SOURCE_NOTE = "Scene 1"
 
-INTRO = "Vika prepares coffee in the morning while Max searches for his old watch. Max does not realize it is Vika's birthday. Let's listen closely to their exchange in Russian first, and then walk through each line together. Let's listen closely to their exchange in Russian first, and then walk through each line together."
+INTRO = "Vika prepares coffee in the morning while Max searches for his old watch. Max does not realize it is Vika's birthday. Let's listen closely to their exchange in Russian first, and then walk through each line together."
 
 STORY = [
     ("vika", "Я не буду отмечать день рождения.",

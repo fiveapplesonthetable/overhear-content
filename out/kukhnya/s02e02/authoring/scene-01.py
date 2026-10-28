@@ -11,7 +11,7 @@ LABELS = {"anya": "Тимур", "chef": "Шеф", "suslan": "Суслан"}
 SOURCE_NAME = "Кухня (Kukhnya) S2.02"
 SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 
-INTRO = "Timur brings fish instead of what the Chef ordered. He also introduces his nephew Suslan, who is a law student. Let us listen to the conversation in Russian first."
+INTRO = "In this scene focused on the new loader, timur brings fish instead of what the Chef ordered. He also introduces his nephew Suslan, who is a law student. Let's listen closely to the staff and Chef Viktor's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
 OUTRO = "The conversation concludes the matter at hand."

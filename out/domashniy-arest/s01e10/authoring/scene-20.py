@@ -24,7 +24,7 @@ LABELS = {
     "eduard": "Эдуард",
 }
 
-INTRO = "In Eduard's office, Marina pitches an ambitious documentary project about the monastery while Eduard makes cautious promises."
+INTRO = "In Eduard's office, Marina enthusiastically pitches an ambitious documentary project about the local monastery while Eduard makes cautious promises to stall her."
 
 STORY = [
     ("anya", "Вы же знаете, что я историк.",

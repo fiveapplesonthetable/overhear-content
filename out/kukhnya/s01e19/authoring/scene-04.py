@@ -34,17 +34,17 @@ STORY = [
 ]
 
 WALK = [
-    (0, 'Вот, Игорь.', "'Here you go, Igor.' -- The speaker responds in the scene."),
-    (1, 'Это оазис французской кухни.', "'This is an oasis of French cuisine.' -- The speaker responds in the scene."),
-    (2, 'Анклав качества.', "'A bastion of quality.' -- The speaker responds in the scene."),
-    (3, 'Сколько сил вложено сюда.', "'So much effort went into this place.' -- The speaker responds in the scene."),
-    (4, 'Официант, как родной ребенок.', "'A waiter is like my own child.' -- The speaker responds in the scene."),
-    (5, 'О, привет, Виляш.', "'Oh, hi, Vilyash.' -- The speaker responds in the scene."),
-    (6, 'Я Настя, вообще-то.', "'I am Nastya, actually.' -- The speaker responds in the scene."),
-    (7, 'Новенькая, наверное.', "'She must be new.' -- The speaker responds in the scene."),
-    (8, 'Ну, пойдем дальше.', "'Well, let's keep going.' -- The speaker responds in the scene."),
-    (9, 'Сделай нам два кофе.', "'Make us two coffees.' -- The speaker responds in the scene."),
-    (10, 'Это Виктория Сергеевна.', "'This is Viktoria Sergeyevna.' -- The speaker responds in the scene."),
-    (11, 'Арт-директор нашего ресторана.', "'The art director of our restaurant.' -- The speaker responds in the scene."),
-    (12, 'Добрый день.', "'Good afternoon.' -- The speaker responds in the scene.")
+    (0, 'Вот, Игорь.', "'Here you go, Igor.' — Built around the key proper name meaning 'Igor'."),
+    (1, 'Это оазис французской кухни.', "'This is an oasis of French cuisine.' — Notice the pronoun meaning 'this' paired with the noun for 'oasis'."),
+    (2, 'Анклав качества.', "'A bastion of quality.' — Notice the noun meaning 'enclave' paired with the noun for 'quality'."),
+    (3, 'Сколько сил вложено сюда.', "'So much effort went into this place.' — Notice the adverb meaning 'how much, so much' paired with the noun for 'of (horse)power'."),
+    (4, 'Официант, как родной ребенок.', "'A waiter is like my own child.' — Notice the noun meaning 'waiter' paired with the adverb for 'how'."),
+    (5, 'О, привет, Виляш.', "'Oh, hi, Vilyash.' — Notice the interjection meaning 'hi' paired with the proper name for 'Vilyash'."),
+    (6, 'Я Настя, вообще-то.', "'I am Nastya, actually.' — Notice the pronoun meaning 'I' paired with the proper name for 'Nastya'."),
+    (7, 'Новенькая, наверное.', "'She must be new.' — Notice the noun meaning 'new girl' paired with the adverb for 'probably'."),
+    (8, 'Ну, пойдем дальше.', "'Well, let's keep going.' — Notice the verb meaning 'let's go' paired with the adverb for 'next, go on'."),
+    (9, 'Сделай нам два кофе.', "'Make us two coffees.' — Notice the verb meaning 'make, do' paired with the pronoun for '(to) us'."),
+    (10, 'Это Виктория Сергеевна.', "'This is Viktoria Sergeyevna.' — Notice the pronoun meaning 'this' paired with the proper name for 'Viktoriya'."),
+    (11, 'Арт-директор нашего ресторана.', "'The art director of our restaurant.' — Notice the noun meaning 'art director' paired with the det for 'our'."),
+    (12, 'Добрый день.', "'Good afternoon.' — Notice the adjective meaning 'good' paired with the noun for 'day'.")
 ]

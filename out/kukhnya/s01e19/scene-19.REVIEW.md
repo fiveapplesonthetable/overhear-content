@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does that mean yes?' -- The speaker makes the statement.
-- 'Yes.' -- The speaker makes the statement.
-- 'I am so glad.' -- The speaker makes the statement.
-- 'I am also glad.' -- The speaker makes the statement.
-- 'Now we are together.' -- The speaker makes the statement.
-- 'Yes, we are together.' -- The speaker makes the statement.
-- 'This is wonderful.' -- The speaker makes the statement.
-- 'Very.' -- The speaker makes the statement.
-- 'I love you, my friend.' -- The speaker makes the statement.
+- 'Does that mean yes?' — Notice the pronoun meaning 'this' paired with the adverb for 'then, so'.
+- 'Yes.' — Built around the key particle meaning 'yes (  = really?)'.
+- 'I am so glad.' — Notice the pronoun meaning 'I' paired with the adjective for 'glad'.
+- 'I am also glad.' — Notice the pronoun meaning 'I' paired with the adverb for 'too'.
+- 'Now we are together.' — Notice the adverb meaning 'now' paired with the pronoun for 'we'.
+- 'Yes, we are together.' — Notice the pronoun meaning 'we' paired with the adverb for 'together'.
+- 'This is wonderful.' — Notice the pronoun meaning 'this' paired with the adverb for 'perfectly'.
+- 'Very.' — Built around the key adverb meaning 'very much'.
+- 'I love you, my friend.' — Notice the pronoun meaning 'I' paired with the verb for '(I) love'.
 - 'I love you, my friend.' -- The speaker makes the statement (line 10).
-- 'Finally, my friend.' -- The speaker makes the statement.
+- 'Finally, my friend.' — Built around the key adverb meaning 'at last, finally'.
 - 'Finally, my friend.' -- The speaker makes the statement (line 12).
