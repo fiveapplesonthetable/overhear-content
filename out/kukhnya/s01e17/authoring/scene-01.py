@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Early in the morning, Viktor takes Max along to the bustling fish market. Determined to teach his young apprentice a vital culinary skill, Viktor demonstrates how to detect stale fish from a vendor's subtle gestures. Let's listen to their lesson in Russian first."
-OPENER = "Now let's examine the conversation line by line."
+INTRO = "Welcome to Kukhnya, which means 'The Kitchen', a Russian comedy set in Claude Monet, a smart Moscow restaurant. Chef Viktor Barinov rules the kitchen, and young Max Lavrov is the cook he loves to boss around. This morning Barinov drags Max to the market to teach him how to tell whether a fish is fresh. First the Russian, and don't worry about catching every word."
+OPENER = "Now we'll go back through it slowly."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Having exposed the vendor's dishonest sales tactics, Viktor and Max continue through the market, ready to return to Claude Monet with fresh knowledge. Next time you watch the episode, listen for the Russian expressions for 'to come' and 'rotten' — you will catch every word right away. See you next time!"
+OUTRO = "Barinov has read the seller like a book, and Max is impressed, at least for now. Remember that Russians give an age with 'to': 'to this fish, five days'. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Я наступил в гнилую сливу, шеф.', 'I stepped in a rotten plum, chef.', [(1, 'Я только чувствую, что я в гнилую сливу наступил.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Спасибо за этот важный урок, шеф.', 'Thank you for this important lesson, chef.', [], ''),
 ]
 WALK = [
-    (0, None, "'I stepped in a rotten plum, chef.' Max admits his clumsy mistake of stepping on a 'rotten plum'."),
-    (1, None, "'Quit whining, I am in a good mood.' Barinov shuts down the whining immediately, declaring he is in a good mood."),
-    (2, None, "'Today you will learn the art of buying fish.' Barinov announces his intention to teach his apprentice the art of buying fish."),
-    (3, None, "'How many days old is this fish, Max?' Barinov quizzes his student by asking how old the fish in front of them is."),
-    (4, None, "'The seller says they brought it today.' Max relays what the market seller told him about the fresh delivery today."),
-    (5, None, "'Watch closely, he pursed his lips.' Barinov instructs him to observe the seller carefully, pointing out the pursed lips."),
-    (6, None, "'That means this fish is at least three days old.' Barinov interprets the body language to mean the fish is at least three days old."),
-    (7, None, "'And now he scratched his nose.' Barinov points out another gesture as the seller scratches his nose."),
-    (8, None, "'This fish is already five days old.' Barinov explains that the nose scratch adds two more days, making it five."),
-    (9, None, "'And it was definitely frozen before.' Barinov points out that the fish has also been frozen before."),
-    (10, None, "'Chef, you are a true master of your craft.' Max flatters his boss by calling him a true master."),
-    (11, None, "'Learn from me while I am kind.' Barinov tells him to take advantage of his good mood and learn."),
-    (12, None, "'Thank you for this important lesson, chef.' Max expresses his gratitude for the important lesson."),
+    (0, None, "'I stepped in a rotten plum, chef.' 'Rotten' comes from the verb for rotting, and the plum ends in 'u' because Max stepped into it. The 'l' on the end of 'stepped' says it's a man speaking."),
+    (1, None, "'Quit whining, I'm in a good mood.' The opening word means 'enough' and is followed by the plain 'whine', a slangy one. 'At me good mood' is how Russian says 'I'm in a good mood'."),
+    (2, None, "'Today you will learn the art of buying fish.' 'Art' is followed by the plain 'to buy', with no 'of' in between. 'Fish' takes a 'u' ending as the thing being bought."),
+    (3, None, "'How many days old is this fish, Max?' Russian gives an age with 'to': literally 'to this fish how many days'. After 'how many', 'days' takes a special plural."),
+    (4, None, "'The seller says they brought it today.' 'They brought' has the 'li' ending with no 'they', which is how Russian says 'it was brought'. The verb is the one for bringing by vehicle."),
+    (5, None, "'Watch closely, he pursed his lips.' 'Watch' is a casual command, and 'closely' is a describing word ending in 'o'. 'Lips' is always plural in Russian."),
+    (6, None, "'That means this fish is at least three days old.' The first word is 'it means', used here as 'so' or 'in other words'. After 'three', 'days' changes again, to a shorter form."),
+    (7, None, "'And now he scratched his nose.' The 'po' on the front of 'scratch' means he did it briefly. Barinov reads a scratch of the nose like a confession."),
+    (8, None, "'This fish is already five days old.' After 'five' the days switch back to the longer form, just like after 'how many'. Two, three or four days take the short one, and five or more take the long."),
+    (9, None, "'And it was definitely frozen before.' 'They froze' is built on the word for frost, and again has no 'they'. 'Definitely' and 'before' are tiny words, easy to lift into other sentences."),
+    (10, None, "'Chef, you're a real master of your craft.' 'Real' is also the word for 'present', as in the present moment. 'Of your own business' is a phrase for a trade, and the word for 'business' is a very common one."),
+    (11, None, "'Learn from me while I'm kind.' The word for 'while' is spelled and said like the casual 'bye', so it does double duty. 'From me' uses the same little word as 'at me'."),
+    (12, None, "'Thank you for this important lesson, chef.' 'Thanks for' needs a small word for 'for', then the lesson with its masculine endings. It's the polite, schoolboy thanks."),
 ]

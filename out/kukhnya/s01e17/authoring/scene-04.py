@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "In the dining hall of Claude Monet, Victoria reprimands the waitstaff for flirting during work hours. Seeing her visibly stressed, Max approaches Victoria to invite her out for a relaxing evening, hoping to brighten her mood. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine the conversation line by line."
+INTRO = "In the dining room, Vika is in a bad mood. She scolds Nastya and Kostya for chatting at work, and then Max comes over to ask what's wrong, and to invite her out. We'll hear it in Russian first."
+OPENER = 'Here it is again, piece by piece.'
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Leaving Victoria to finish her duties, Max hopes she will accept his invitation tonight, while Victoria tries to keep her focus on managing the busy restaurant. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'to remove' — you will catch every word right away. See you next time!"
+OUTRO = "Vika doesn't say yes or no, which is just how she wanted it. 'Posmotrim' is a good noncommittal word to borrow, since it means 'we'll see'. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Настя, быстро убери пятый столик!', 'Nastya, quickly clear the fifth table!', [(48, 'Настя, убери пятый столик.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Посмотрим, мне надо подумать об этом.', 'We will see, I need to think about this.', [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, quickly clear the fifth table!' Vika snaps at her staff, demanding a table be cleared quickly."),
-    (1, None, "'Have you completely lost your nerve at this job?' Vika rhetorically asks if the waitstaff have completely lost their minds on the job."),
-    (2, None, "'One must work here, not cuddle.' Vika reminds them they are at work and not a place to cuddle."),
-    (3, None, "'We were just calmly talking, Victoria Sergeevna.' Kostya defends himself and Nastya, claiming they were just having a quiet chat."),
-    (4, None, "'Any relationships are strictly forbidden here!' Vika insists that any workplace romance is strictly forbidden."),
-    (5, None, "'We did nothing bad.' Kostya points out they haven't actually done anything wrong."),
-    (6, None, "'Quickly go work in the hall.' Vika abruptly ends the argument by ordering him back to the dining room."),
-    (7, None, "'Vika, why are you so tense?' Max questions why his manager is acting so stressed out."),
-    (8, None, "'I have very many difficult matters.' Vika explains that she has too many difficult things to handle."),
-    (9, None, "'Shall we go to an awesome place tonight?' Max invites her out for a nice evening to relax."),
-    (10, None, "'Max, I am too tired.' Vika declines, stating she is far too exhausted."),
-    (11, None, "'There you will rest wonderfully with me.' Max promises she will have a perfect rest with him."),
-    (12, None, "'We will see, I need to think about this.' Vika leaves the door open, saying she will think about it."),
+    (0, None, "'Nastya, quickly clear the fifth table!' The 'u' at the start of 'clear' means 'away'. 'Fifth' is made from the number five, and the table is a 'little table', as restaurants usually say."),
+    (1, None, "'Have you completely lost your nerve at this job?' The verb comes from the word for 'cheeky' and means to become brazen. Vika speaks to the whole group, so it's 'you' in the plural."),
+    (2, None, "'You have to work here, not cuddle.' 'Necessary' plus the plain 'to work' means 'you must work'. The small 'a ne' means 'and not', and the last word is a slangy one for cuddling."),
+    (3, None, "'We were just calmly talking, Victoria.' Kostya uses her first name with her patronymic, the way you talk to a boss. 'Were talking' has the plural 'li'."),
+    (4, None, "'Any relationships are strictly forbidden here!' 'At us' is used for 'with us' or 'here at our place'. 'Forbidden' is a plural short form, matching the plural 'relationships'."),
+    (5, None, "'We haven't done anything bad.' Again Russian piles the negatives, with 'nothing' and 'not' together. The ending on 'bad' is the one that follows 'nothing'."),
+    (6, None, "'Quickly, go and work in the hall.' The command 'go' is polite plural. 'Hall' with no ending is the direction."),
+    (7, None, "'Vika, why are you so tense?' Max uses the casual 'you' when he speaks to Vika alone. 'Tense' is feminine, since it describes her, and comes from the word for 'tension'."),
+    (8, None, "'I have so many difficult tasks.' 'At me' stands for 'I have'. After 'many', the word for 'matters' loses its ending entirely."),
+    (9, None, "'Shall we go to an awesome place tonight?' The 'we' form of 'go' can be an invitation. 'Awesome' is a slangy word from the word for 'class'."),
+    (10, None, "'Max, I'm too tired.' The 'a' on 'tired' says Vika is a woman. 'Too' comes before 'strongly' to make 'too much'."),
+    (11, None, "'You'll rest there wonderfully with me.' 'Will rest' is a finished-action future. 'With me' squeezes in a helper vowel."),
+    (12, None, "'We'll see, I need to think about it.' The first word is the 'we' form meaning 'we'll see'. 'About this' picks up a 'b' before a vowel."),
 ]

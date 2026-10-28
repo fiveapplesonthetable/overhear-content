@@ -10,19 +10,19 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "After Chef Barinov leaves the kitchen without tasting the other dishes, Fedya stands holding his plate of lamb chops. He complains to Senya that his own creation never even got a fair chance in the contest. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine this conversation line by line."
+INTRO = "The contest is over, and Fedya is still holding the plate of lamb chops he cooked for Barinov. The chef has already picked Senya's dish and left without tasting Fedya's. Fedya grumbles to Senya about it. We'll hear it in Russian first."
+OPENER = "Let's replay it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Rather than letting the Breton lamb chops go to waste, the two friends decide to enjoy the gourmet meal together for their own lunch. Next time you watch the episode, listen for the Russian expressions for 'tasty' and 'cutlet' — you will catch every word right away. See you next time!"
+OUTRO = "Fedya's chops are good, and Senya is generous enough to say so. Notice the phrase 's udovolstviem', literally 'with pleasure', which Russians use to say 'gladly'. See you next time!"
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('fedya', 'Вот мои вкусные котлеты для шефа.', 'Here are my tasty chops for the Chef.', [(134, 'котлеты')], ''),
     ('senya', 'Шеф уже выбрал моё мясное блюдо.', 'The Chef already chose my meat dish.', [], ''),
     ('fedya', 'Он даже не попробовал мою еду!', 'He did not even taste my food!', [], ''),
-    ('senya', 'Потому что мой рецепт самый лучший.', 'Because my recipe is the very best.', [], ''),
+    ('senya', 'Ну, я пришёл первым.', 'Well, I came first.', [], ''),
     ('fedya', 'Я готовил эти котлеты всё утро.', 'I cooked these chops all morning.', [], ''),
     ('senya', 'Не надо так сильно расстраиваться, друг.', 'Do not be so upset, friend.', [], ''),
-    ('fedya', 'Ты просто был первый в очереди.', 'You were simply first in line.', [], ''),
+    ('fedya', 'Но это бараньи котлеты со спаржей!', 'But these are lamb chops with asparagus!', [], ''),
     ('senya', 'В следующий раз ты точно победишь.', 'Next time you will definitely win.', [], ''),
     ('fedya', 'Хочешь попробовать мои новые котлеты?', 'Do you want to try my new chops?', [], ''),
     ('senya', 'Давай, я с удовольствием попробую.', 'Go ahead, I will gladly try them.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('fedya', 'Тогда мы сами съедим это на обед.', 'Then we will eat this ourselves for lunch.', [], ''),
 ]
 WALK = [
-    (0, None, "'Here are my tasty chops for the Chef.' Fedya mournfully presents his tasty chops, completely ignored by the boss."),
-    (1, None, "'The Chef already chose my meat dish.' Senya gloats that his own meat dish was already selected."),
-    (2, None, "'He did not even taste my food!' Fedya complains that his food wasn't even given a chance."),
-    (3, None, "'Because my recipe is the very best.' Senya arrogantly claims his recipe won because it is simply the best."),
-    (4, None, "'I cooked these chops all morning.' Fedya laments spending his entire morning preparing the chops."),
-    (5, None, "'Do not be so upset, friend.' Senya tries to comfort his friend, telling him not to be so upset."),
-    (6, None, "'You were simply first in line.' Fedya dismisses the victory, pointing out Senya was simply first in line."),
-    (7, None, "'Next time you will definitely win.' Senya encourages him, promising he will win the next contest."),
-    (8, None, "'Do you want to try my new chops?' Fedya offers a taste of his rejected creation."),
-    (9, None, "'Go ahead, I will gladly try them.' Senya gladly accepts the offer to try the chops."),
-    (10, None, "'Well how is the taste to you, tell me honestly?' Fedya anxiously demands an honest opinion on the taste."),
-    (11, None, "'Listen, this is really very tasty!' Senya is genuinely impressed, admitting the food is incredibly tasty."),
-    (12, None, "'Then we will eat this ourselves for lunch.' Fedya decides they might as well eat the masterpiece themselves for lunch."),
+    (0, None, "'Here are my tasty chops for the chef.' 'Vot' points at the plate, and 'my' is plural to match the chops. 'For the chef' is a small word and an 'a' ending."),
+    (1, None, "'The chef has already chosen my meat dish.' 'Meat' is turned into an adjective, a sort of 'meaty dish'. 'Chosen' ends in 'l' for the masculine chef."),
+    (2, None, "'He didn't even taste my food!' 'Even' sits before 'not', and the word is the one for tasting once. 'Food' has a 'u' ending as the thing that was not tasted."),
+    (3, None, "'Well, I came first.' 'First' takes an 'ym' ending, as if Senya came 'as first'. 'Came' has the masculine 'l' ending."),
+    (4, None, "'I cooked these chops all morning.' Russian says 'all morning' with no 'during', just 'all' plus the morning. The 'ongoing' form of 'cook' suggests a long job."),
+    (5, None, "'Don't be so upset, friend.' 'Not necessary' plus the plain action word means 'don't'. The word for 'be upset' ends in 'sya' as it is something that happens to you."),
+    (6, None, "'But these are lamb chops with asparagus!' 'Lamb' becomes an adjective, as 'of lamb'. 'With' comes out as 'so' before a cluster of consonants, to make it easy to say."),
+    (7, None, "'Next time you'll definitely win.' 'Next time' is 'in the next time', with a small word for 'in'. 'Will win' is a finished action, which gives a future sense."),
+    (8, None, "'Do you want to try my new chops?' 'You want' is irregular and ends in 'sh' for the casual 'you'. The new chops are plural, so 'new' ends in 'ye'."),
+    (9, None, "'Sure, I'll gladly try.' The first word is a casual 'go ahead'. 'With pleasure' is how Russians say 'gladly'."),
+    (10, None, "'So how does it taste to you? Tell me honestly.' Russian says 'how to you taste', putting the taster in the 'to you' form. 'Honestly' ends in 'o', like many of the 'how' words."),
+    (11, None, "'Listen, this is really very tasty!' 'Listen' is a casual command, used like 'hey'. 'Tasty' has no 'is' with it."),
+    (12, None, "'Then we'll eat it ourselves for lunch.' 'Ourselves' is a short word. 'Eat up' has a prefix that means finishing it all off."),
 ]

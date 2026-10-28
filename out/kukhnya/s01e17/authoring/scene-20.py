@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Max brings Nastya and Kostya to Vika's apartment, but everyone is angry at him. We will hear it in Russian first, do not worry about catching every word. Let's listen closely to the conversation in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around An Unsuccessful Holiday line by line and unpack how the Russian works."
+INTRO = "Max has brought Nastya and Kostya to Vika's flat as a birthday surprise, and it is a mistake. Vika expected a quiet evening for two, and Nastya was told that Vika wouldn't be there. We'll hear it in Russian first."
+OPENER = "Let's replay it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max leaves the party early. Next time you watch the episode, listen for the Russian expressions for 'party' and 'to say' — you will catch every word right away. See you next time!"
+OUTRO = "Max leaves in a huff, and Vika calls him back. When you hear 'zachem' next time, remember it asks 'what for?', which is a different question from 'why?'. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('nastya', 'Здрасте.', 'Hello.', [(297, 'Здрасте.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Макс, стой!', 'Max, wait!', [(309, 'Макс!')], ''),
 ]
 WALK = [
-    (0, None, "'Hello.' Nastya offers a simple, somewhat tense greeting as she arrives."),
-    (1, None, "'Is this your party?' Vika immediately questions the nature of the gathering, sounding defensive."),
-    (2, None, "'You said she would not be here.' Nastya points out a discrepancy in what they were told."),
-    (3, None, "'How can I not be at home?' Vika defends her presence in her own residence with a rhetorical question."),
-    (4, None, "'Why did you bring them?' She then turns her frustration on Max, demanding an explanation."),
-    (5, None, "'Why did you not warn us?' Nastya echoes the sentiment, asking why they were kept in the dark."),
-    (6, None, "'You would never have come.' Max defends his actions, stating a blunt truth about their reluctance."),
-    (7, None, "'You are my friends.' He emphasizes their bond to justify his extreme measures."),
-    (8, None, "'I wanted to celebrate the birthday together.' Max explains his core motivation for the entire setup."),
-    (9, None, "'You do not have to worry.' He tries to de-escalate the tension, telling them to relax."),
-    (10, None, "'Thank you for a lovely evening.' Max offers a sarcastic token of gratitude as the situation falls apart."),
-    (11, None, "'Bye.' He delivers a final, abrupt farewell."),
-    (12, None, "'Max, wait!' Vika calls out to stop him, realizing things have gone too far."),
+    (0, None, "'Hello.' This is the clipped, casual version of the long formal hello, with half the letters dropped. Nastya says it sourly."),
+    (1, None, "'Is this your party?' 'Your' is the casual one, and 'party' is an evening word with a small ending on it. The question is only in the rising voice."),
+    (2, None, "'You said she wouldn't be here.' For 'she won't be here', Russian says 'her not will be', with 'her' in the object form. The absent person is the one in that form."),
+    (3, None, "'How can I not be at home?' The same pattern again: 'me not to be at home'. 'At home' is one word."),
+    (4, None, "'Why did you bring them?' 'What for' is a different question word from the 'why' of cause. 'Brought' is the word for bringing a person, on foot."),
+    (5, None, "'Why didn't you warn us?' Here the 'why' is the ordinary one. 'Warned' is a finished action, and 'us' is a short word with an 'as' ending."),
+    (6, None, "'You wouldn't ever have come.' A small word 'by' after 'you' makes it 'would'. 'Never' and 'not' are both there."),
+    (7, None, "'You're my friends.' There's no 'are'. It's just 'you my friends', and the plural of 'friend' is irregular."),
+    (8, None, "'I wanted to celebrate the birthday together.' The word for 'celebrate' comes from the word for 'mark'. 'Birthday' is 'day of birth', and 'together' is one word."),
+    (9, None, "'You needn't worry.' Russian says 'you can not worry'. The 'sya' on the end of 'worry' is the little 'oneself'."),
+    (10, None, "'Thank you for a lovely evening.' Max is being sarcastic here, since the evening has been a disaster. 'Lovely' is the word from 'beautiful', in the masculine."),
+    (11, None, "'Bye.' It's the casual goodbye, short and sharp. Max slams the door with it."),
+    (12, None, "'Max, wait!' The command is the same word as 'stand', and it works for both 'stand' and 'stop'. Vika calls out to him."),
 ]

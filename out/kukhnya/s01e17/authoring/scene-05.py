@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Chef Viktor gathers the kitchen staff to make an important announcement about the menu. He explains the new contest for a seasonal dish. Let's listen closely to their conversation in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Seasonal menu line by line and unpack how the Russian works."
+INTRO = "Vika has given Barinov a deadline for a new seasonal dish, and he has no idea what to cook. So he calls the kitchen together and announces a contest, with a prize for the winner. Max asks the awkward questions. We'll hear it in Russian first."
+OPENER = "Let's replay it slowly, one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The chefs enthusiastically agree and get ready to cook. Next time you watch the episode, listen for the Russian expressions for 'advertisement' and 'necessary' — you will catch every word right away. See you next time!"
+OUTRO = "A bonus at the end of the month and no insults until then: that's the whole deal. 'Srazu' means 'right away' and is worth remembering, since Max and Barinov both use it. See you next time!"
 CLOSING = ('max', 'До свидания.')
 STORY = [
     ('barinov', 'У меня объявление.', 'I have an announcement.', [(63, 'У меня объявление.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Все поняли. Да, шеф!', 'Everyone understood. Yes, Chef!', [(73, 'Все инвалиды поняли. Да, шеф!')], ''),
 ]
 WALK = [
-    (0, None, "'I have an announcement.' Barinov gathers the kitchen staff to deliver an announcement."),
-    (1, None, "'We need a seasonal dish.' Barinov explains that they need a new seasonal dish."),
-    (2, None, "'Chef, wait.' Max interrupts to ask his boss to wait."),
-    (3, None, "'You said you wouldn't come up with it.' Max reminds him of his previous claim that he wouldn't be inventing anything."),
-    (4, None, "'And I won't be.' Barinov confirms that he still has no intention of doing the work."),
-    (5, None, "'You will.' Barinov drops the bombshell that the staff will be the ones creating the dish."),
-    (6, None, "'The winner gets a bonus.' Barinov motivates them by offering a cash bonus to the winner."),
-    (7, None, "'And I won't call him disabled.' Barinov adds a personal incentive for his apprentice, promising to stop insulting him."),
-    (8, None, "'And the bonus is right away?' Max eagerly asks if the prize money will be paid out immediately."),
-    (9, None, "'The bonus is at the end of the month.' Barinov clarifies that the money only comes at the end of the month."),
-    (10, None, "'But I'll stop calling you disabled right away.' Barinov promises that the name-calling will stop right away, at least."),
-    (11, None, "'Everyone understood. Yes, Chef!' Max enthusiastically confirms that everyone understands the challenge."),
+    (0, None, "'I have an announcement.' The usual 'at me' pattern stands for 'I have'. The same word also means a notice or ad on a board, so it's the word for anything pinned up."),
+    (1, None, "'We need a seasonal dish.' The thing needed stays in its plain form, so it's 'needed dish'. 'Seasonal' ends in 'oe' to match the neuter 'dish'."),
+    (2, None, "'Chef, wait.' The command is the polite plural one. The 'po' on the front softens it to 'wait a moment'."),
+    (3, None, "'You said you wouldn't come up with it.' 'You said' begins with a little word that means 'but', reminding him. 'Won't invent' is built from 'will not' plus the plain 'invent'."),
+    (4, None, "'And I won't.' The little 'i' in the middle puts weight on the refusal. It's a flat reply, three words long."),
+    (5, None, "'You will.' The Russian puts 'you' at the end: 'will be you'. Putting the key word last is how Russian underlines it."),
+    (6, None, "'The winner gets a bonus.' 'Winner' is built from the word for victory. The word for 'bonus' also means 'prize', and it takes a 'u' ending as the thing received."),
+    (7, None, "'And I won't call him disabled.' The word he uses is Barinov's regular insult for his cooks, and it takes an 'om' ending when it's used to name someone. 'Won't call' is built with 'will not' and the plain 'call'."),
+    (8, None, "'And is the bonus right away?' Max's hopeful question has no special question word. It's just a rising voice on the last word."),
+    (9, None, "'The bonus is at the end of the month.' 'At the end of the month' uses 'in' plus two endings, 'e' and 'a'. That is how Russians say it for any date."),
+    (10, None, "'But I'll stop calling you disabled right away.' 'Stop' is followed by the plain 'to call', as in English. 'Right away' is the same word that Max used, now turned on him."),
+    (11, None, "'Everyone understood. Yes, Chef!' 'Everyone understood' is a plural, and the plural 'li' tells you so. The last part is the formula of a soldier answering an order."),
 ]

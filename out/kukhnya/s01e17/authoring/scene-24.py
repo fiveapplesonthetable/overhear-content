@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "Cleaning up the kitchen late at night, Max talks with Kostya about the difficult consequences of deception. Reflecting on his mistakes, Max resolves to leave the lies behind and start fresh with a clean slate. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine this reflective conversation line by line."
+INTRO = "The episode ends with a short reflection on telling lies and starting again. Here it is spoken between Max and his friend Kostya, in simple words. We'll hear it in Russian first."
+OPENER = "Let's take it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With renewed determination to be honest with himself and his friends, Max closes up the kitchen, ready to begin the next chapter on a clean slate. Next time you watch the episode, listen for the Russian expressions for 'complicated' and 'to correct' — you will catch every word right away. See you next time!"
+OUTRO = "That's the end of the story for this episode, and a small lesson with it. The phrase 'with a clean sheet' is how Russians say 'a fresh start', so keep it for later. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Сложно исправлять ошибки обмана.', 'It is hard to fix the mistakes of deceit.', [(332, 'Но самое сложное – это исправлять последствия вранья.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Спасибо, Костя, за твою поддержку.', 'Thank you, Kostya, for your support.', [], ''),
 ]
 WALK = [
-    (0, None, "'It is hard to fix the mistakes of deceit.' Max reflects on the difficulty of undoing the damage caused by his actions."),
-    (1, None, "'A lie always creates a new lie.' Kostya points out how dishonesty tends to multiply."),
-    (2, None, "'And finding an exit can be impossible.' Max expresses a feeling of being trapped by his own choices."),
-    (3, None, "'The main thing is to speak the truth.' Kostya offers a simple, guiding principle for moving forward."),
-    (4, None, "'One must believe in one's strength.' Max talks about the importance of self-reliance."),
-    (5, None, "'And believe in your true self.' Kostya adds that authenticity is just as vital."),
-    (6, None, "'I want to start everything over.' Max declares his intention to wipe the slate clean."),
-    (7, None, "'You can fix everything, Max.' Kostya offers encouragement, assuring him that redemption is possible."),
-    (8, None, "'I am starting everything with a clean slate.' Max reiterates his commitment to a fresh start."),
-    (9, None, "'You have a good future ahead.' Kostya speaks optimistically about what lies ahead."),
-    (10, None, "'Your destiny depends only on you.' Max acknowledges that he is in control of his own path."),
-    (11, None, "'We believe in you, friend.' Kostya offers a final word of solidarity and support."),
-    (12, None, "'Thank you, Kostya, for your support.' Max expresses sincere gratitude for the comforting words."),
+    (0, None, "'It's hard to fix the mistakes of a lie.' 'Hard' is the word with an 'o' ending, used for things that are complicated. 'Mistakes' is plural."),
+    (1, None, "'A lie always creates a new lie.' The word for 'lie' is feminine and ends in a soft sign. It looks the same as the object form."),
+    (2, None, "'And sometimes finding a way out is impossible.' 'Exit' also means 'way out'. 'Impossible' is made by putting 'ne' in front of 'possible'."),
+    (3, None, "'The main thing is to tell the truth.' The dash takes the place of 'is'. 'Truth' takes a 'u' ending after 'speak'."),
+    (4, None, "'You must believe in your strength.' Russians believe 'in' things, with a small word for 'in'. 'Strength' is plural, as in 'strengths'."),
+    (5, None, "'And believe in your true self.' The word for 'self' is a special one. 'True' means 'real', and takes an ending to go with it."),
+    (6, None, "'I want to start everything over.' The word for 'anew' is built from 'new', with a prefix. 'Start' is the finished kind."),
+    (7, None, "'You can fix everything, Max.' 'You can' uses the casual 'you'. 'Fix' is a finished action."),
+    (8, None, "'I'm starting everything with a clean slate.' Russian says 'from a clean sheet' where English says 'slate'. 'Sheet' means a sheet of paper."),
+    (9, None, "'You have a good future ahead.' 'Ahead' is one word. 'Future' is a neuter word that looks like an adjective."),
+    (10, None, "'Your fate depends only on you.' 'Depends on' needs the little word 'ot', followed by 'you' in a different form. 'Only' sits in the middle."),
+    (11, None, "'We believe in you, friend.' 'In you' needs the small word for 'in', and the 'you' takes a different form. 'We believe' ends in 'm'."),
+    (12, None, "'Thank you, Kostya, for your support.' 'Support' ends in 'ka'. After 'for', 'your' takes a 'u' ending."),
 ]

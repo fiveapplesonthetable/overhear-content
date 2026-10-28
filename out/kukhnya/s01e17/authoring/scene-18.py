@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "In the kitchen, Chef Viktor Barinov confronts Senya after discovering his signature veal rolls on the rival restaurant's menu. Let's listen to their tense exchange in Russian first."
-OPENER = "Let's walk through the Chef Viktor's confrontation line by line."
+INTRO = "Barinov has come back to Claude Monet furious. He has found Senya's veal rolls on the menu of the rival restaurant, and he is sure there has been a leak. He goes straight for Senya. We'll hear it in Russian first."
+OPENER = "Now let's look at it a line at a time."
 TRANSITION = "Now let's hear the whole scene once more."
-OUTRO = 'Chef Viktor vows to make Senya pay for giving his secret recipe to the rival restaurant. See you next time!'
+OUTRO = "Senya blames Fedya, which only makes things worse. 'Chestnoe slovo', literally 'honest word', is what Russians say when they swear they're telling the truth. See you next time!"
 CLOSING = ('senya', 'До свидания!')
 STORY = [
     ('barinov', 'Ты был там?', 'Were you there?', [(290, 'Ты что, был там в Аркабалена?')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('senya', 'Честное слово!', 'Word of honor!', [], ''),
 ]
 WALK = [
-    (0, None, "'Were you there?' Viktor interrogates his cook about visiting the rival restaurant."),
-    (1, None, "'No, of course not.' Senya quickly denies everything."),
-    (2, None, "'Veal rolls with ham.' Viktor names the exact dish he tasted across the street."),
-    (3, None, "'I do not understand.' Senya pretends not to know what the chef means."),
-    (4, None, "'You stole my recipe.' The chef accuses him of giving away the kitchen's secret dish."),
-    (5, None, "'I took nothing.' Russian uses a double negative here: literally 'nothing not took'."),
-    (6, None, "'Well, Senya, you are dead meat.' Viktor warns Senya that he is in huge trouble."),
-    (7, None, "'Chef, it is not me!' The nervous cook pleads with his boss."),
-    (8, None, "'Who then?' Viktor demands an explanation."),
-    (9, None, "'Maybe Fedya.' Senya tries to shift the blame to his friend."),
-    (10, None, "'I do not believe you.' The chef refuses to buy his excuse."),
-    (11, None, "'Word of honor!' Senya swears he is telling the truth."),
+    (0, None, "'Were you there?' Barinov uses the casual 'you'. There is no word for 'did', only the rising voice."),
+    (1, None, "'No, of course not.' 'Of course' is said with a 'sh' sound in the middle. Senya's answer is quick."),
+    (2, None, "'Veal rolls with ham.' 'From veal' uses the small word for 'out of'. 'With ham' needs the 'oy' ending on ham."),
+    (3, None, "'I don't understand.' 'I understand' is a long word with a clear 'I' ending. The 'not' stands in front."),
+    (4, None, "'You stole my recipe.' The past form of 'steal' ends in a bare 'l' for a man. 'My recipe' is masculine, with no extra ending."),
+    (5, None, "'I didn't take anything.' 'Nothing' and 'not' are both there, as the rule requires. 'Take' is the everyday word for grabbing."),
+    (6, None, "'Well, Senya, you're dead meat.' The word for 'corpse' is used as a threat, literally 'you are a corpse'. There's no 'are' in the line."),
+    (7, None, "'Chef, it wasn't me!' It reads 'this not I', with no verb at all. Senya is panicking."),
+    (8, None, "'Who then?' Two tiny words, 'who' and 'then'. The short question is Barinov's whole interrogation."),
+    (9, None, "'Maybe Fedya.' The phrase for 'maybe' is built from 'can be'. Senya throws his friend under the bus."),
+    (10, None, "'I don't believe you.' Russians 'believe to' someone, so 'you' takes the 'to you' form. The 'not' sits before 'believe'."),
+    (11, None, "'Word of honor!' It is literally 'honest word'. The word for 'honest' is the same one used for 'honestly'."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.17'
 SOURCE_FILE = 'sources/kukhnya/s01/e17.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, the cooks present their creations for the new seasonal menu to Chef Barinov. Senya steps forward first with his veal and ham dish, hoping to win the competition before anyone else gets a chance. Let's listen to the tasting in Russian first."
-OPENER = "Now let's examine this conversation line by line."
+INTRO = "It is contest day in the kitchen of Claude Monet. Barinov has asked the cooks for a new seasonal dish, and Senya steps up first. We'll hear it in Russian first."
+OPENER = "Now let's take it step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Having found a seasonal special on the very first try, Chef Barinov calls off the rest of the tasting and leaves Senya basking in his victory. Next time you watch the episode, listen for the Russian expressions for 'to try' and 'new' — you will catch every word right away. See you next time!"
+OUTRO = "Senya has won before anyone else has even served. When you rewatch, notice how Barinov asks 'what is this?' with an extra word, as if the dish might bite. See you next time!"
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('senya', 'Шеф, попробуйте новое блюдо.', 'Chef, try the new dish.', [(121, 'Попробуйте сезонное блюдо')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Мне больше ничего не нужно, я нашёл.', 'I do not need anything else, I found it.', [(133, 'я его нашёл')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, try the new dish.' Senya eagerly presents his culinary creation to the boss."),
-    (1, None, "'What? What dish?' Barinov acts confused, pretending he forgot about the competition."),
-    (2, None, "'Yesterday you gave us an assignment.' Senya reminds him of the assignment given the day before."),
-    (3, None, "'All right, let us try it.' Barinov agrees to give the plate a try."),
-    (4, None, "'And what is this?' Barinov asks his chef to explain what is on the plate."),
-    (5, None, "'This is tender meat with thin ham.' Senya proudly describes the combination of tender meat and thin ham."),
-    (6, None, "'Very tasty, I like this recipe!' Barinov loves the recipe, praising its fantastic taste."),
-    (7, None, "'Congratulations, your dish is now on the menu.' Barinov declares the dish a winner and adds it to the menu."),
-    (8, None, "'Chef, wait, this is completely unfair!' Fedya complains loudly that the immediate decision is completely unfair."),
-    (9, None, "'Thank you very much, Chef, I am very glad!' Senya ignores the complaint, thanking the boss profusely."),
-    (10, None, "'Congratulations on the victory, colleague.' Fedya sarcastically congratulates his coworker on the victory."),
-    (11, None, "'Chef, what about our dishes?' Fedya asks about the fate of the remaining dishes."),
-    (12, None, "'I do not need anything else, I found it.' Barinov dismisses the rest of the staff, completely satisfied with his choice."),
+    (0, None, "'Chef, try the new dish.' The command is the polite one, with the 'po' prefix that means 'try some'. 'New' ends in 'oe' for the neuter 'dish'."),
+    (1, None, "'What? What dish?' The second 'what' is 'which' with a little 'else' attached. Together they mean 'what dish on earth?'."),
+    (2, None, "'But yesterday you gave us an assignment.' The small word 'zhe' means 'but', reminding him. 'Assignment' is built from the verb for 'to set'."),
+    (3, None, "'All right, let's try it.' 'Davay' with 'we will be' and the plain 'try' is a casual way to say 'let's'. Barinov uses the casual form with Senya."),
+    (4, None, "'And what is this?' The two words 'what such' make it more pointed, as in 'what exactly is this?'. A bit suspicious, and a bit curious."),
+    (5, None, "'It's tender meat with thin ham.' 'With' makes 'ham' take an 'oy' ending, and 'thin' follows it. 'Tender' and 'meat' both end in 'oe'."),
+    (6, None, "'Very tasty, I like this recipe!' 'Tasty' ends in 'o' when it describes a thing. 'I like' is 'to me pleases', so the recipe does the pleasing."),
+    (7, None, "'Congratulations, your dish is now on the menu.' The word for 'menu' never changes its ending, even after 'in'. It is a borrowed word that stays put."),
+    (8, None, "'Chef, wait, this is completely unfair!' 'Unfair' is 'not' plus 'honestly', stuck together. 'Completely' is a handy intensifier."),
+    (9, None, "'Thank you very much, Chef, I'm very glad!' The short form for 'glad' ends in a bare consonant for a man. 'Thanks' is a neuter noun, so 'big' ends in 'oe'."),
+    (10, None, "'Congratulations on your win, colleague.' Russians say 'I congratulate with victory', using the little word for 'with'. 'Colleague' ends in 'a' but is masculine."),
+    (11, None, "'Chef, what about our dishes?' The opening words, 'and how then', protest politely. 'Dishes' is plural, with an 'a' ending."),
+    (12, None, "'I don't need anything else, I've found it.' Russian has 'more nothing not needed', which makes three negatives in a row. 'Found' ends in the masculine 'l'."),
 ]
